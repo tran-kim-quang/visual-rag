@@ -1,0 +1,1189 @@
+TIÊU ĐỀ: Tổng quan về nhiễm trùng Arbovirus, Arenavirus và Filovirus
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/arboviruses-arenaviridae-và-filoviridae/tổng-quan-về-nhiễm-trùng-arbovirus-arenavirus-và-filovirus
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về nhiễm trùng Arbovirus, Arenavirus và Filovirus
+
+Theo
+
+Thomas M. Yuill
+
+,
+
+PhD
+
+,
+
+University of Wisconsin-Madison
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1020287_vi
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Arbovirus (vi rút lây truyền qua động vật chân đốt) được định nghĩa là bất kỳ loại vi rút nào bị lây truyền sang người và/hoặc các động vật có xương sống khác bởi một số loài động vật chân đốt hút máu, chủ yếu là côn trùng (ruồi và muỗi) và loài nhện (ve). Arbovirus là một thuật ngữ mô tả dựa trên sự lây truyền của các vectơ có đặc điểm cụ thể. Đây không phải nằm trong khuôn khổ của phân loại vi rút của Ủy ban quốc tế về Phân loại Vi rút (nghĩa là nó không phải là một loài, chi hoặc họ), dựa trên bản chất và cấu trúc của bộ gen vi rút.
+
+Dòng họ trong hệ thống phân loại hiện tại có
+
+một số
+
+thành viên của arbovirus bao gồm
+
+Họ Peribunyaviridae
+
+Flaviviridae
+
+Họ Orthomyxoviridae
+
+(ví dụ: nhóm thogotovirus)
+
+Họ Sedorreoviridae
+
+(ví dụ: nhóm orbivirus)
+
+Họ Togaviridae
+
+(nhóm alphavirus)
+
+(Xem
+
+Ủy ban quốc tế về phân loại vi rút: Bản phát hành phân loại ICTV hiện tại
+
+.)
+
+Ngọc trai & cạm bẫy
+
+Thuật ngữ arbovirus (vi rút lây truyền qua động vật chân đốt) mô tả một loại vi rút bị lây truyền bởi một số loài động vật chân đốt.
+
+Nó không nằm trong khuôn khổ của phân loại vi rút và các thành viên của nhiều họ vi rút khác nhau có thể là nhóm arbovirus.
+
+Hầu hết các virus liên quan đến bệnh sốt xuất huyết được phân loại trong các họ
+
+Arenaviridae
+
+và
+
+Filoviridae
+
+. Tuy nhiên, một số arbovirus, như là một số flavivirus (
+
+sốt vàng da
+
+, nhóm vi rút
+
+dengue
+
+) và một số
+
+Bunyaviridae
+
+(
+
+vi rút sốt rift Valley
+
+, vi rút sốt xuất huyết Crimean-Congo, sốt rất nhiều với vi rút giảm tiểu cầu và
+
+hantavirus
+
+) có thể liên quan đến triệu chứng xuất huyết.
+
+Số vi rút trong nhóm
+
+Arbovirus
+
+>
+
+250 loại và phân bố trên toàn thế giới; ít nhất 80 loại gây bệnh ở người. Hầu hết các vi rút arbovirus được truyền qua muỗi, nhưng một số lây truyền qua bọ ve, và một số (vi rút Oropouche) được truyền qua muỗi vằn. Các loài chim thường là ổ chứa virut, được muỗi truyền sang ngựa, các động vật nuôi khác và con người. Các vật chủ khác cho arbovirus bao gồm động vật chân đốt và động vật có xương sống (thường là loài gặm nhấm, khỉ, và người).
+
+Những vi rút này có thể lây lan sang người từ các ổ chứa không phải người, nhưng hầu hết các bệnh do arbovirus không lây truyền cho con người, có lẽ do vi rút điển hình trong máu không đủ để lây nhiễm cho vật chủ trung gian là động vật chân đốt. Các trường hợp ngoại lệ bao gồm
+
+sốt xuất huyết
+
+,
+
+sốt vàng da
+
+,
+
+nhiễm vi rút Zika
+
+và
+
+bệnh chikungunya
+
+, có thể lây truyền từ người sang người qua muỗi. Khi xảy ra lây truyền từ người sang người, có thể là do truyền máu, cấy ghép nội tạng, quan hệ tình dục và từ mẹ sang con trong khi sinh tùy thuộc vào loại vi rút cụ thể có liên quan. Sự lây truyền từ người sang người của hầu hết các arbovirus thông qua tiếp xúc ngẫu nhiên, hàng ngày không được ghi nhận.
+
+Vi rút Zika
+
+có thể bị lây truyền trong quá trình quan hệ tình dục, cho dù người nhiễm bệnh không có triệu chứng hay có triệu chứng.
+
+Một số bệnh nhiễm trùng (ví dụ:
+
+nhiễm vi rút Tây sông Nile
+
+, sốt ve Colorado,
+
+sốt xuất huyết
+
+,
+
+vi rút Zika
+
+, đã cho thấy tình trạng lan truyền bằng đường truyền máu hoặc hiến nội tạng.
+
+Các
+
+Arenaviridae
+
+bao gồm
+
+vi rút viêm màng não-màng mạch tăng lympho bào
+
+,
+
+vi rút sốt Lassa
+
+, vi rút Mopeia, vi rút Tacaribe, vi rút Junin, vi rút Lujo và vi rút Guaroa; tất cả được truyền qua loài gặm nhấm và do đó không phải là arboviruses.
+
+Sốt Lassa
+
+có thể truyền từ người sang người.
+
+Họ
+
+Filoviridae
+
+bao gồm 2 chi:
+
+Ebolavirus
+
+(gồm 5 loài) và
+
+Marburgvirus
+
+(gồm 2 loài). Các đường lây truyền đặc hiệu của những vi rút này chưa được xác nhận, nhưng dơi trái cây là những ứng cử viên hàng đầu; do đó,
+
+Filoviridae
+
+không phải là nhóm arbovirus. Việc lây truyền từ người sang người của
+
+vi rút Ebola và vi rút Marburg
+
+diễn ra dễ dàng.
+
+Nhiều trường hợp nhiễm trùng không có triệu chứng. Khi biểu hiện triệu chứng, họ thường bắt đầu với biểu hiện giả cúm không đặc hiệu, có thể tiến triển thành một trong vài hội chứng (xem bảng
+
+vi rút arbo, arena vi rút
+
+). Các hội chứng này bao gồm hạch to, phát ban,
+
+viêm màng não vô trùng
+
+,
+
+viêm não
+
+, đau khớp, viêm khớp và phù phổi không do nguyên nhân tim mạch. Nhiều trường hợp có sốt và chảy máu (sốt xuất huyết). Giảm tổng hợp các yếu tố đông máu phụ thuộc vào vitamin K,
+
+đông máu nội mạch rải rác
+
+, và sự thay đổi chức năng tiểu cầu sẽ góp phần dẫn đến chảy máu.
+
+Xét nghiệm chẩn đoán
+
+thường đòi hỏi việc nuôi cấy vi rút, PCR, kính hiển vi điện tử, và các phương pháp phát hiện kháng nguyên và kháng thể nếu có.
+
+Bảng
+
+Bệnh do Arbovirus, Arenavirus, và Filovirus
+
+Bảng
+
+Bệnh do Arbovirus, Arenavirus, và Filovirus
+
+Bệnh do Arbovirus, Arenavirus, và Filovirus
+
+Triệu chứng Phân biệt
+
+Tác nhân hoặc bệnh do virus
+
+Họ
+
+Vector
+
+Phân bố chính*
+
+Sốt, khó chịu, đau đầu, đau cơ
+
+không
+
+Sốt ve Colorado
+
+Họ
+
+Spinareoviridae
+
+(
+
+Coltivirus
+
+)
+
+Loài ve
+
+Loài
+
+Dermacentor
+
+Tây Hoa Kỳ, Tây Canada
+
+Sốt Phlebotomus
+
+Họ
+
+Phenuiviridae
+
+(
+
+Phlebovirus
+
+)
+
+Ruồi cát
+
+Loài
+
+Phlebotomus
+
+Lưu vực Địa Trung Hải, Balkan, Trung Đông, Pakistan, Ấn Độ, Trung Quốc, Đông Phi, Panama, Brazil
+
+Bệnh viêm não ngựa ở Venezuela
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Culex
+
+Argentina, Brazil, bắc Nam Mỹ, Panama, Mexico, Florida
+
+Vi rút Heartland
+
+Họ Phenuiviridae (Phlebovirus)
+
+Bọ ve
+
+Amblyomma Americanum
+
+Mỹ
+
+Sốt Rift Valley
+
+†
+
+Họ
+
+Phenuiviridae
+
+(
+
+Phlebovirus
+
+)
+
+Muỗi
+
+Một số loài
+
+Nam Phi, đông Phi, Ai Cập, Yemen, Ả Rập Xê Út
+
+Vi rút Oropouche
+
+Họ Bunyaviridae (vi rút Simbu)
+
+Ve cắn
+
+Culicoides paraensis
+
+Nam và Trung Mỹ, Caribê
+
+Phát ban
+
+Dengue
+
+sốt
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Aedes
+
+Đông Nam Á, Tây Phi, Châu Đại Dương, Úc, Nam Mỹ, Mexico, Caribbean, Mỹ
+
+Usutu
+
+Flaviviridae
+
+Muỗi
+
+Châu Phi, châu Âu
+
+Vi rút Zika
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Aedes
+
+Trung và Nam
+
+Mỹ, Mexico, Caribê, Mỹ, Châu Phi, Thái Bình Dương, Châu Á
+
+Sốt do vi rút Tây sông Nile
+
+‡
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Culex
+
+Châu Phi, Trung Đông, Nam Âu, Nga, Ấn Độ, Indonesia, Mỹ, nam Canada, Mexico, Nam Mỹ, quần đảo Caribe.
+
+Đau cơ, phát ban
+
+Bệnh Chikungunya
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Aedes
+
+Châu Phi, Ấn Độ, Pakistan, Guam, Đông Nam Á, Đảo Reunion, New Guinea, các khu vực giới hạn ở Châu Âu, Nam và Trung Mỹ, Mexico, Hoa Kỳ
+
+Vi rút Bourbon
+
+Orthomyxoviridae (Thogotovirus)
+
+Bọ ve
+
+Amblyomma Americanum
+
+Mỹ
+
+Vi rút Mayaro
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Haemagogus
+
+Brazil, Bolivia, Trinidad, Haiti
+
+Vi rút Ross River
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Chủng
+
+Aedes
+
+, chủng
+
+Culex
+
+Úc, New Guinea, Quần đảo Solomon, Samoa, Quần đảo Cook
+
+Vi rút Barmah Forest
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Chủng
+
+Aedes
+
+, chủng
+
+Culex
+
+Úc
+
+Bệnh do virus Sindbis (bệnh Ockelbo, sốt Karelian)
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Culex
+
+Châu Phi, Úc, Châu Á, Liên Xô cũ, Châu Âu (bao gồm Phần Lan và Thụy Điển), Châu Đại Dương
+
+Dấu hiệu xuất huyết§
+
+Sốt vàng
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Aedes
+
+Panama, Nam Mỹ, Châu Phi
+
+Sốt xuất huyết Dengue
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Aedes
+
+Đông Nam Á, Nam Á, Tây và Đông Phi, Châu Đại Dương, Caribe, Nam và Trung Mỹ, Mexico, Hoa Kỳ
+
+Bệnh Kyasanur Forest
+
+Flaviviridae
+
+Loài ve
+
+Loài
+
+Haemaphysalis
+
+Ấn Độ
+
+Sốt xuất huyết Omsk
+
+Flaviviridae
+
+Loài ve
+
+Loài
+
+Dermacentor
+
+Nga
+
+Sốt xuất huyết Crimean-Congo
+
+Họ
+
+Bunyaviridae
+
+(
+
+Nairovirus
+
+)
+
+Loài ve
+
+Loài
+
+Hyalomma
+
+Châu Phi, Nam và Đông Âu, Ấn Độ, Pakistan Trung Quốc, Thổ Nhĩ Kỳ, Trung Đông, Liên Xô cũ
+
+Vi rút Hantaan
+
+Họ
+
+Hantaviridae
+
+(
+
+Hantavirus
+
+)
+
+Loài gặm nhấm
+
+Hàn Quốc, Nhật Bản, Trung Quốc, Viễn Đông Nga, Balkans
+
+Vi rút Seoul
+
+Họ
+
+Hantaviridae
+
+(
+
+Hantavirus
+
+)
+
+Loài gặm nhấm
+
+Gần như trên toàn thế giới, bao gồm Hàn Quốc, Nhật Bản, Châu Mỹ và Châu Âu
+
+Vi rút Puumala (dịch bệnh ảnh hưởng đến thận)
+
+Họ Hantaviridae (
+
+Hantavirus
+
+)
+
+Loài gặm nhấm
+
+Scandinavia, Nga, Balkans
+
+Vi rút Dobrava-Belgrade
+
+Họ Hantaviridae (Hantavirus)
+
+Loài gặm nhấm
+
+The Balkans, Slovakia, Cộng hòa Séc, Thổ Nhĩ Kỳ
+
+Vi rút Amur
+
+Họ Hantaviridae (Hantavirus)
+
+Loài gặm nhấm
+
+Nga
+
+Vi rút Saaremaa
+
+Họ Hantaviridae (Hantavirus)
+
+Loài gặm nhấm
+
+Châu Âu
+
+Vi rút Sangassou
+
+Họ Hantaviridae (Hantavirus)
+
+Loài gặm nhấm
+
+Guinea
+
+Vi rút Machupo
+
+Arenaviridae
+
+Loài gặm nhấm
+
+Bolivia
+
+Vi rút Junin
+
+Arenaviridae
+
+Loài gặm nhấm
+
+Argentina
+
+Vi rút Guanarito
+
+Arenaviridae
+
+Loài gặm nhấm
+
+Venezuela
+
+Vi rút sốt Lassa
+
+Arenaviridae
+
+Loài gặm nhấm
+
+Loài
+
+Mastomys
+
+Tây Phi bao gồm Nigeria
+
+Vi rút Lujo
+
+Arenaviridae
+
+không xác định
+
+Zambia
+
+Vi rút Marburg
+
+Filoviridae
+
+Từ người sang người
+
+Khỉ
+
+Giơi
+
+Zimbabwe, Kenya, Uganda, Cộng hòa Dân chủ Congo, Nam Phi
+
+Vi rút Ebola
+
+Filoviridae
+
+Từ người sang người
+
+Khỉ
+
+Giơi
+
+Zaire, Sudan Guinea, Liberia, Sierra Leone, Cộng hòa Dân chủ Congo, Cộng hòa Congo, Gabon, Côte d'Ivoire, Uganda
+
+Sốt nặng với hội chứng giảm tiểu cầu (SFTS)
+
+Bunyaviridae
+
+Loài ve
+
+Haemaphysalis longicornis
+
+Trung Quốc, Hàn Quốc, Nhật Bản
+
+Phù phổi không do tim mạch
+
+Hantavirus
+
+: Sin Nombre, Kênh đào Black Creek, Bayou, Isla Vista, Monongahela, Leguna Negra, Maciel, Araraquara, Maripa, Juquitiba, Castel dos Sonhos, Central Plata, Andes, Virus giống Andes Hu39694, Lechiguanas, Oran, Bermejo, Choclo
+
+Họ
+
+Hantaviridae
+
+(
+
+Hantavirus
+
+)
+
+Loài gặm nhấm
+
+Mỹ, Canada, Brazil, Bolivia, Paraguay, Argentina, Chile, Panama
+
+Sốt và sự liên quan tới hệ thần kinh trung ương
+
+không
+
+Vi rút viêm não ngựa phía đông (EEE)
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Culex
+
+,
+
+Culiseta melanura
+
+Bờ biển Đại Tây Dương và vùng Vịnh của Hoa Kỳ, Caribe, thượng lưu New York, Connecticut, Indiana, Ohio, tây Michigan, Wisconsin, nam Canada, Mexico
+
+Biến thể Madariaga (trước đây là EEE Nam Mỹ)
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Culex
+
+,
+
+Culiseta melanura
+
+Panama, Venezuela, Argentina, Haiti
+
+Viêm não ngựa phía tây
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Culex
+
+Mỹ, Canada, Trung và Nam Mỹ
+
+Vi rút Tây sông Nile
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Culex
+
+Châu Phi, Trung Đông, Nam Âu, Liên Xô cũ, Đức, Ấn Độ, Indonesia, Mỹ, Nam Canada, Mexico, Nam Mỹ, Quần đảo Caribe
+
+Viêm não St. Louis
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Culex
+
+Mỹ, Caribê, Panama, Nam Mỹ
+
+Usutu
+
+Flaviviridae
+
+Muỗi
+
+Châu Phi, châu Âu
+
+Bệnh viêm não ngựa ở Venezuela
+
+Họ
+
+Togaviridae
+
+(
+
+Alphavirus
+
+)
+
+Muỗi
+
+Loài
+
+Culex
+
+Argentina, Brazil, bắc Nam Mỹ, Panama, Mexico, Florida
+
+Viêm não La Crosse
+
+Họ Peribunyaviridae
+
+Muỗi
+
+Loài
+
+Aedes
+
+Các bang bắc trung tâm Mỹ, New York
+
+Vi rút Hestestow
+
+Họ Peribunyaviridae
+
+Muỗi
+
+Loài
+
+Aedes
+
+Hoa Kỳ từ dãy núi Rocky đến Bờ Đông, Đông Nam Canada
+
+Bệnh viêm não Nhật Bản
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Culex
+
+Nhật Bản, Hàn Quốc, Trung Quốc, Ấn Độ, Nepal, Philippines, Đông Nam Á, Nga, Úc
+
+Vi rút Powassan
+
+Flaviviridae
+
+Bọ ve
+
+Loài
+
+Ixodes
+
+Đông Canada, New York, Rhode Island, các bang New England, Ohio, Wisconsin, Nga
+
+Bệnh viêm não Murray Valley
+
+Flaviviridae
+
+Muỗi
+
+Loài
+
+Culex
+
+Úc, New Guinea
+
+Bệnh Kyasanur Forest
+
+Flaviviridae
+
+Loài ve
+
+Haemaphysalis sp
+
+rau chân vịt
+
+Ấn Độ
+
+Bệnh viêm não do bọ ve
+
+Flaviviridae
+
+Loài ve
+
+Loài
+
+Ixodes
+
+Loài
+
+Haemaphysalis
+
+Châu Âu, Balkan, Nga, Kyrgyzstan
+
+Viêm màng não tăng lympho bào
+
+Arenaviridae
+
+Loài gặm nhấm
+
+Châu Mỹ, Châu Âu, Úc, Nhật Bản
+
+* Thay đổi trong điều kiện khí hậu có thể ảnh hưởng đến phạm vi địa lý của arboviruses bằng cách mở rộng hoặc thu hẹp môi trường sống của vector truyền bệnh.
+
+† Sốt Rift Valley cũng gây ra xuất huyết, viêm màng não và rối loạn về mắt.
+
+‡
+
+Vi rút Tây sông Nile
+
+cũng gây ra viêm não.
+
+§ Các vi rút Seoul, Puumala, Dobrava, và Hantan gây
+
+sốt xuất huyết với hội chứng thận
+
+.
+
+* Thay đổi trong điều kiện khí hậu có thể ảnh hưởng đến phạm vi địa lý của arboviruses bằng cách mở rộng hoặc thu hẹp môi trường sống của vector truyền bệnh.
+
+† Sốt Rift Valley cũng gây ra xuất huyết, viêm màng não và rối loạn về mắt.
+
+‡
+
+Vi rút Tây sông Nile
+
+cũng gây ra viêm não.
+
+§ Các vi rút Seoul, Puumala, Dobrava, và Hantan gây
+
+sốt xuất huyết với hội chứng thận
+
+.
+
+Điều trị
+
+Chăm sóc hỗ trợ
+
+Đôi khi ribavirin
+
+Điều trị cho hầu hết các nhiễm trùng này là hỗ trợ.
+
+Trong sốt xuất huyết, chảy máu có thể yêu cầu phytonadione (
+
+vitamin K1
+
+). Truyền khối hồng cầu hoặc huyết tương tươi đông lạnh cũng có thể cần. Aspirin và các NSAID khác (thuốc chống viêm không steroid) bị chống chỉ định do hoạt tính chống ngưng tập tiểu tiểu cầu. Đối với các trường hợp tiến triển của hội chứng tim phổi do hantavirus, có thể cần toàn hoàn màng ngoài cơ thể (ECMO).
+
+Ribavirin được khuyên dùng cho bệnh sốt xuất huyết do arenavirus hoặc bunyavirus gây ra bao gồm
+
+sốt Lassa
+
+,
+
+sốt Thung lũng Rift
+
+và sốt xuất huyết Crimean-Congo. Liều lượng ribavirin cần phải được điều chỉnh khi cần thiết nếu xuất hiện
+
+sốt xuất huyết có hội chứng thận
+
+.
+
+Điều trị kháng virus cho các hội chứng khác chưa được nghiên cứu đầy đủ. Ribavirin không có hiệu quả trong các mô hình động vật nhiễm khuẩn filovirus và flavivirus. Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã phê duyệt 2 loại thuốc để điều trị bệnh vi rút Ebola do virút Zaire Ebola gây ra ở người lớn và trẻ em: dạng phối hợp ba kháng thể đơn dòng (atoltivimab/maftivimab/odesivimab) và kháng thể đơn dòng đơn trị liệu (ansuvimab).
+
+Phòng ngừa
+
+kiểm soát vector
+
+Phòng ngừa các vết cắn của vector
+
+Đôi khi tiêm chủng
+
+Tránh tiếp xúc với động vật bị nhiễm bệnh, các sản phẩm và phân của chúng (hantavirus)
+
+Sự phong phú và đa dạng của arbovirus có nghĩa là việc kiểm soát nhiễm arbovirus thường dễ dàng và rẻ hơn bằng cách tiêu diệt vật trung gian là động vật chân đốt hoặc thực hiện các biện pháp kiểm soát dân số khác, ngăn ngừa vết cắn và loại bỏ môi trường sinh sản của chúng so với việc phát triển vắc xin hoặc thuốc điều trị cụ thể.
+
+Kiểm soát vector và ngừa đốt
+
+Các bệnh truyền qua muỗi hoặc ve có thể thường bị ngăn ngừa bởi những điều sau đây:
+
+Giảm hoặc hạn chế lây nhiễm trong quần thể véc tơ
+
+Mặc quần áo che càng nhiều cơ thể càng tốt
+
+Sử dụng thuốc chống côn trùng (ví dụ: DEET [diethyltoluamide])
+
+Giảm thiểu khả năng tiếp xúc với côn trùng hoặc bọ ve (ví dụ: đối với muỗi, hạn chế thời gian ở ngoài trời ở những khu vực ẩm ướt; đối với bọ ve, xem thanh bên
+
+Phòng ngừa bọ ve cắn
+
+)
+
+Đã có tiến bộ trong việc giảm quần thể muỗi
+
+Aedes aegypti
+
+thông qua việc phóng thích những con đực vô sinh hoặc những con đực biến đổi gen (
+
+1
+
+). Một cách tiếp cận khác là hạn chế lây nhiễm giữa các quần thể véc tơ. Các thử nghiệm thực địa đang được tiến hành với việc đưa vào tự nhiên loài
+
+Aedes aegypti
+
+đã bị nhiễm vi khuẩn
+
+Wolbachia
+
+, vi khuẩn này ngăn chặn sự lây nhiễm giữa arbovirus ở ruột non (xem
+
+CDC: Muỗi mang Wolbachia để làm giảm số lượng muỗi Aedes aegypti
+
+). Những vi khuẩn này không làm giảm quần thể muỗi. Thay vào đó, chúng ngăn chặn sự lây nhiễm của muỗi bằng virus sốt xuất huyết, chikungunya và Zika, do đó làm giảm sự lây truyền bệnh. Các
+
+Wolbachia
+
+được truyền cho con cái bị nhiễm bệnh, do đó nhân lên hiệu quả của kỹ thuật này.
+
+Các bệnh truyền qua chất thải của chuột có thể được ngăn ngừa bằng những cách sau:
+
+Trước khi làm sạch, thông gió trong ≥ 15 phút không gian kín nơi có chuột.
+
+Làm ướt bề mặt bằng dung dịch tẩy 10% trước khi quét hoặc làm sạch.
+
+Tránh quấy bụi.
+
+Ngăn cách các khu vực có thể có chuột xâm nhập vào nhà và các tòa nhà gần đó.
+
+Ngăn chặn động vật gặm nhấm tiếp xúc với thực phẩm.
+
+Loại bỏ các vị trí làm tổ có tiềm năng quanh nhà.
+
+Hướng dẫn vệ sinh nơi nghi ngờ có động vật gặm nhấm ở và chất thải của chúng
+
+dọn dẹp sau khi có loài gặm nhấm
+
+theo Trung tâm Kiểm soát và Phòng ngừa Bệnh tật (CDC).
+
+Bởi vì sự lây truyền của những
+
+vi rút Ebola và vi rút Marburg
+
+chủ yếu là từ người sang người, do đó việc phòng ngừa lây lan đòi hỏi phải có biện pháp kiểm dịch và cách ly nghiêm ngặt.
+
+Tiêm vắc xin
+
+Hiện tại, ở Hoa Kỳ chỉ có vắc xin hiệu quả cho
+
+vi rút Ebola
+
+,
+
+vi rút sốt vàng
+
+, vi rút viêm não Nhật Bản,
+
+viêm não do ve truyền
+
+và vi rút chikungunya. Đã có
+
+vắc xin phòng sốt xuất huyết
+
+nhưng hiệu quả chỉ ở mức trung bình và thay đổi tùy theo tình trạng miễn dịch sốt xuất huyết, loại huyết thanh và tuổi của bệnh nhân; các nghiên cứu đang diễn ra. Vắc xin được phê duyệt tại Hoa Kỳ cho những người từ 9 tuổi đến 16 tuổi đã bị nhiễm sốt xuất huyết trước đó được phòng thí nghiệm xác nhận và sống ở các vùng lưu hành.
+
+Tài liệu tham khảo
+
+1.
+
+Martín-Park A, Che-Mendoza A, Contreras-Perera Y, et al
+
+: Pilot trial using mass field-releases of sterile males produced with the incompatible and sterile insect techniques as part of integrated Aedes aegypti control in Mexico.
+
+PLoS Negl Trop Dis
+
+16(4):e0010324, 2022. Xuất bản ngày 26 tháng 4 năm 2022. doi:10.1371/journal.pntd.0010324
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Điều trị ---
+
+Chăm sóc hỗ trợĐôi khi ribavirinĐiều trị cho hầu hết các nhiễm trùng này là hỗ trợ.Trong sốt xuất huyết, chảy máu có thể yêu cầu phytonadione (vitamin K1). Truyền khối hồng cầu hoặc huyết tương tươi đông lạnh cũng có thể cần. Aspirin và các NSAID khác (thuốc chống viêm không steroid) bị chống chỉ định do hoạt tính chống ngưng tập tiểu tiểu cầu. Đối với các trường hợp tiến triển của hội chứng tim phổi do hantavirus, có thể cần toàn hoàn màng ngoài cơ thể (ECMO).Ribavirin được khuyên dùng cho bệnh sốt xuất huyết do arenavirus hoặc bunyavirus gây ra bao gồmsốt Lassa,sốt Thung lũng Riftvà sốt xuất huyết Crimean-Congo. Liều lượng ribavirin cần phải được điều chỉnh khi cần thiết nếu xuất hiệnsốt xuất huyết có hội chứng thận.Điều trị kháng virus cho các hội chứng khác chưa được nghiên cứu đầy đủ. Ribavirin không có hiệu quả trong các mô hình động vật nhiễm khuẩn filovirus và flavivirus. Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã phê duyệt 2 loại thuốc để điều trị bệnh vi rút Ebola do virút Zaire Ebola gây ra ở người lớn và trẻ em: dạng phối hợp ba kháng thể đơn dòng (atoltivimab/maftivimab/odesivimab) và kháng thể đơn dòng đơn trị liệu (ansuvimab).
+
+--- 2. Phòng ngừa ---
+
+kiểm soát vectorPhòng ngừa các vết cắn của vectorĐôi khi tiêm chủngTránh tiếp xúc với động vật bị nhiễm bệnh, các sản phẩm và phân của chúng (hantavirus)Sự phong phú và đa dạng của arbovirus có nghĩa là việc kiểm soát nhiễm arbovirus thường dễ dàng và rẻ hơn bằng cách tiêu diệt vật trung gian là động vật chân đốt hoặc thực hiện các biện pháp kiểm soát dân số khác, ngăn ngừa vết cắn và loại bỏ môi trường sinh sản của chúng so với việc phát triển vắc xin hoặc thuốc điều trị cụ thể.Kiểm soát vector và ngừa đốtCác bệnh truyền qua muỗi hoặc ve có thể thường bị ngăn ngừa bởi những điều sau đây:Giảm hoặc hạn chế lây nhiễm trong quần thể véc tơMặc quần áo che càng nhiều cơ thể càng tốtSử dụng thuốc chống côn trùng (ví dụ: DEET [diethyltoluamide])Giảm thiểu khả năng tiếp xúc với côn trùng hoặc bọ ve (ví dụ: đối với muỗi, hạn chế thời gian ở ngoài trời ở những khu vực ẩm ướt; đối với bọ ve, xem thanh bênPhòng ngừa bọ ve cắn)Đã có tiến bộ trong việc giảm quần thể muỗiAedes aegyptithông qua việc phóng thích những con đực vô sinh hoặc những con đực biến đổi gen (1). Một cách tiếp cận khác là hạn chế lây nhiễm giữa các quần thể véc tơ. Các thử nghiệm thực địa đang được tiến hành với việc đưa vào tự nhiên loàiAedes aegyptiđã bị nhiễm vi khuẩnWolbachia, vi khuẩn này ngăn chặn sự lây nhiễm giữa arbovirus ở ruột non (xemCDC: Muỗi mang Wolbachia để làm giảm số lượng muỗi Aedes aegypti). Những vi khuẩn này không làm giảm quần thể muỗi. Thay vào đó, chúng ngăn chặn sự lây nhiễm của muỗi bằng virus sốt xuất huyết, chikungunya và Zika, do đó làm giảm sự lây truyền bệnh. CácWolbachiađược truyền cho con cái bị nhiễm bệnh, do đó nhân lên hiệu quả của kỹ thuật này.Các bệnh truyền qua chất thải của chuột có thể được ngăn ngừa bằng những cách sau:Trước khi làm sạch, thông gió trong ≥ 15 phút không gian kín nơi có chuột.Làm ướt bề mặt bằng dung dịch tẩy 10% trước khi quét hoặc làm sạch.Tránh quấy bụi.Ngăn cách các khu vực có thể có chuột xâm nhập vào nhà và các tòa nhà gần đó.Ngăn chặn động vật gặm nhấm tiếp xúc với thực phẩm.Loại bỏ các vị trí làm tổ có tiềm năng quanh nhà.Hướng dẫn vệ sinh nơi nghi ngờ có động vật gặm nhấm ở và chất thải của chúngdọn dẹp sau khi có loài gặm nhấmtheo Trung tâm Kiểm soát và Phòng ngừa Bệnh tật (CDC).Bởi vì sự lây truyền của nhữngvi rút Ebola và vi rút Marburgchủ yếu là từ người sang người, do đó việc phòng ngừa lây lan đòi hỏi phải có biện pháp kiểm dịch và cách ly nghiêm ngặt.Tiêm vắc xinHiện tại, ở Hoa Kỳ chỉ có vắc xin hiệu quả chovi rút Ebola,vi rút sốt vàng, vi rút viêm não Nhật Bản,viêm não do ve truyềnvà vi rút chikungunya. Đã cóvắc xin phòng sốt xuất huyếtnhưng hiệu quả chỉ ở mức trung bình và thay đổi tùy theo tình trạng miễn dịch sốt xuất huyết, loại huyết thanh và tuổi của bệnh nhân; các nghiên cứu đang diễn ra. Vắc xin được phê duyệt tại Hoa Kỳ cho những người từ 9 tuổi đến 16 tuổi đã bị nhiễm sốt xuất huyết trước đó được phòng thí nghiệm xác nhận và sống ở các vùng lưu hành.Tài liệu tham khảo1.Martín-Park A, Che-Mendoza A, Contreras-Perera Y, et al: Pilot trial using mass field-releases of sterile males produced with the incompatible and sterile insect techniques as part of integrated Aedes aegypti control in Mexico.PLoS Negl Trop Dis16(4):e0010324, 2022. Xuất bản ngày 26 tháng 4 năm 2022. doi:10.1371/journal.pntd.0010324

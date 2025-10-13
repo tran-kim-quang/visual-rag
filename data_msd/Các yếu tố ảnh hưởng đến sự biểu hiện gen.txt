@@ -1,0 +1,147 @@
+TIÊU ĐỀ: Các yếu tố ảnh hưởng đến sự biểu hiện gen
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/nguyên-lý-cơ-bản-của-di-truyền-y-học/các-yếu-tố-ảnh-hưởng-đến-sự-biểu-hiện-gen
+================================================================================
+
+NỘI DUNG:
+
+Các yếu tố ảnh hưởng đến sự biểu hiện gen
+
+Theo
+
+Quasar S. Padiath
+
+,
+
+MBBS, PhD
+
+,
+
+University of Pittsburgh
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1123428_vi
+
+Nhiều yếu tố có thể ảnh hưởng đến biểu hiện gen (và do đó là kiểu hình). Một vài tính trạng được biểu hiện phụ thuộc vào nhiều yếu tố, phức tạp hơn quy luật di truyền của Mendel.
+
+(Xem thêm
+
+Tổng quan về di truyền học
+
+.)
+
+Mức ngoại hiện và độ biểu hiện
+
+Độ thâm nhập
+
+được định nghĩa là tỷ lệ phần trăm những người có alen và phát triển kiểu hình tương ứng (xem hình
+
+Độ thâm nhập và độ biểu hiện
+
+). Một alen có mức độ xâm nhập không hoàn toàn (thấp) có thể không được biểu hiện ngay cả khi tính trạng đó chiếm ưu thế hoặc khi nó là tính trạng lặn và gen quy định tính trạng đó có trên cả hai nhiễm sắc thể. Mức ngoại hiện của cùng một gen có thể thay đổi giữa các cá thể và có thể phụ thuộc vào tuổi của cá thể. Ngay cả khi một alen bất thường không được biểu hiện (không dung nạp), người mang alen bất thường không bị ảnh hưởng vẫn có thể truyền nó cho con cái của họ, những người có thể có bất thường trên lâm sàng. Trong những trường hợp như vậy, tính trạng sẽ cách qua một thế hệ không xuất hiện. Tuy nhiên, một số trường hợp không biểu hiện là do sự đánh giá sai lầm chủ quan từ phía nhà nghiên cứu hoặc các đột biến rất nhỏ không thể nhận ra. Bệnh nhân có biểu hiện rất nhỏ sẽ được coi là bất thường không điển hình.
+
+Độ biểu hiện
+
+là mức độ hoặc mức độ nặng của kiểu hình được biểu hiện bởi những cá thể biểu hiện đặc điểm đó. Độ biểu hiện có thể được định lượng dưới dạng phần trăm; ví dụ: khi một gen có mức biểu hiện 50%, chỉ có một nửa các đặc điểm hiện diện hoặc mức độ nặng chỉ bằng một nửa so với mức có thể xảy ra khi gen biểu hiện đầy đủ. Độ biểu hiện có thể bị ảnh hưởng bởi môi trường và các gen khác, vì vậy những người có cùng gen vẫn có thể có kiểu hình khác nhau. Thậm chí, độ biểu hiện có thể thay đổi ngay cả trong các thành viên của cùng một gia đình.
+
+Độ thâm nhập và độ biểu hiện
+
+Kiểu gen được biểu hiện thành kiểu hình phụ thuộc vào mức ngoại hiện và độ biểu hiện của gen và cá thể đó.
+
+Mức ngoại hiện đề cập đến liệu gen đó có được biểu hiện hay không. Nghĩa là, nó cho biết bao nhiêu người mang gen đó có biểu hiện ra kiểu hình. Mức biểu hiện có thể hoàn toàn (100%) hoặc không hoàn toàn (ví dụ mức biểu hiện 50% ~ chỉ một nửa số người mang gen có sự biểu hiện tính trạng).
+
+Mức độ biểu hiện xác định mức độ ảnh hưởng của tính trạng hoặc bao nhiêu đặc điểm của tính trạng xuất hiện trong một cá thể. Mức độ này dao động từ đầy đủ đến không đáng kể, hoặc có thể không có. Nhiều yếu tố khác, bao gồm hiệu chỉnh gen, tiếp xúc với các chất độc hại, các ảnh hưởng môi trường khác, và độ tuổi đều thể ảnh hưởng đến độ biểu hiện.
+
+Mức ngoại hiện và độ biểu hiện đều có thể biến đổi ở: Những người có gen mà có hoặc không có tính trạng và cả trên những người có tính trạng thì tính trạng này cũng có thể biến đổi bất kỳ.
+
+Sự di truyền chịu ảnh hưởng của giới tính
+
+Một tính trạng chỉ xuất hiện trong một giới tính được gọi là tính trạng chịu ảnh hưởng của giới tính. Sự di truyền chịu ảnh hưởng của giới tính khác biệt với sự di truyền trên nhiễm sắc thể X. Sự di truyền chịu ảnh hưởng của giới tính đề cập đến các trường hợp đặc biệt, trong đó sự khác biệt về hoóc môn và sinh lý khác giữa nam và nữ giới làm thay đổi độ biểu hiện và mức ngoại hiện của một gen. Ví dụ: hói đầu sớm (còn gọi là hói đầu theo kiểu nam giới) là một đặc điểm trội trên nhiễm sắc thể thường, nhưng tình trạng hói đầu này hiếm khi biểu hiện ở nữ giới và thường chỉ xuất hiện sau thời kỳ mãn kinh.
+
+Dấu ấn gen
+
+Dấu ấn gen (Genomic imprinting) là sự biểu hiện khác biệt của vật liệu di truyền phụ thuộc vào việc nó đã đến từ cha hay mẹ. Đối với hầu hết các nhiễm sắc thể thường, cả alen của cha và mẹ đều được biểu hiện. Tuy nhiên, trong
+
+<
+
+1
+
+%
+
+của allele, biểu hiện chỉ có thể có được từ alen của người mẹ hoặc mẹ. Ví dụ: biểu hiện của gen cho yếu tố tăng trưởng giống
+
+insulin
+
+2 thường chỉ bị ảnh hưởng bởi alen của cha.
+
+Dấu ấn gen thường được xác định bởi những tác động xảy ra bình thường trong quá trình phát triển giao tử. Những thay đổi biểu sinh như quá trình methyl hóa DNA hoặc các yếu tố khác ảnh hưởng đến biểu hiện gen có thể khiến một số alen từ mẹ hoặc từ cha được biểu hiện ở các mức độ khác nhau. Bất thường có thể cách thế hệ nếu dấu ấn gen ngăn allele gây bệnh biểu hiện tính trạng. Thiếu hụt những dấu ấn gen, như là bất thường hoạt động hoặc bất hoạt allele đều có thể gây nên bệnh (ví dụ:
+
+Hội chứng Prader-Willi
+
+, hội chứng Angelman).
+
+Hiện tượng đồng trội
+
+Các allele trội là những allele đều có thể quan sát được. Do đó, biểu hiện kiểu hình của cá thể dị hợp tử khác biệt với cá thể đồng hợp tử. Ví dụ: nếu một người có 1 alen mã hóa cho nhóm máu A và 1 alen mã hóa cho nhóm máu B, thì người đó biểu hiện cả hai nhóm máu (nhóm máu AB).
+
+Sự bất hoạt của nhiễm sắc thể
+
+(Xem thêm
+
+Giả thuyết Lyon [X bất hoạt]
+
+.)
+
+Ở nữ, những người có 2 (hoặc, với bất thường nhiễm sắc thể giới tính,> 2) nhiễm sắc thể X (ngoại trừ ở trứng), tất cả trừ một trong các nhiễm sắc thể X bị bất hoạt; tức là, hầu hết các alen trên nhiễm sắc thể đó không được biểu hiện. Nhiễm sắc thể nào bị bất hoạt được xác định ngẫu nhiên, riêng lẻ trong mỗi tế bào và trong giai đoạn đầu của thai nhi; hiện tượng này được gọi là lyon hóa. Đôi khi, nhiễm sắc thể X từ mẹ bị bất hoạt, và đôi khi lại là nhiễm sắc thể X từ cha. Đôi khi, hầu hết quá trình bất hoạt nhiễm sắc thể X đến từ một bên cha mẹ – được gọi là bất hoạt lệch nhiễm sắc thể X. Dù bằng cách nào, khi sự bất hoạt đã diễn ra trong một tế bào, tất cả thế hệ kế tiếp của tế bào đó đều có cùng một X bất hoạt.
+
+Tuy nhiên, một số alen trên nhiễm sắc thể X không hoạt động có thể được biểu hiện. Phần lớn những alen này nằm trên các vùng nhiễm sắc thể tương đồng giữa X và Y (và do đó được gọi là các vùng giả nhiễm sắc thể thường do cả nam và nữ đều có các vùng này).
+
+Những điểm chính
+
+Nếu một tính trạng trong phả hệ dường như bỏ qua một thế hệ, hãy xem xét sự xâm nhập không hoàn toàn, biểu hiện không hoàn chỉnh và (ít có khả năng hơn) là dấu ấn hệ gen.
+
+Các kiểu hình cũng có thể được sửa đổi bằng cách di truyền giới hạn giới tính, dấu ấn hệ gen, đồng trội của các alen và bất hoạt nhiễm sắc thể X.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Những điểm chính ---
+
+Nếu một tính trạng trong phả hệ dường như bỏ qua một thế hệ, hãy xem xét sự xâm nhập không hoàn toàn, biểu hiện không hoàn chỉnh và (ít có khả năng hơn) là dấu ấn hệ gen.Các kiểu hình cũng có thể được sửa đổi bằng cách di truyền giới hạn giới tính, dấu ấn hệ gen, đồng trội của các alen và bất hoạt nhiễm sắc thể X.

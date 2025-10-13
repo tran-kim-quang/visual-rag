@@ -1,0 +1,189 @@
+TIÊU ĐỀ: Thiếu kết dính bạch cầu
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/rối-loạn-miễn-dịch/thiếu-kết-dính-bạch-cầu
+================================================================================
+
+NỘI DUNG:
+
+Thiếu kết dính bạch cầu
+
+Theo
+
+James Fernandez
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v994673_vi
+
+Thiếu hụt kết dính bạch cầu là hệ quả từ khiếm khuyết của một phân tử kết dính gây ra rối loạn chức năng của bạch cầu hạt và tế bào lympho và nhiễm trùng mô mềm tái phát. Chẩn đoán bao gồm xét nghiệm glycoprotein dính trên bề mặt của bạch cầu. Điều trị hỗ trợ, sử dụng kháng sinh dự phòng và truyền bạch cầu hạt và ghép tế bào gốc tạo máu.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn về miễn dịch
+
+và
+
+Cách tiếp cận với bệnh nhân có rối loạn miễn dịch
+
+.)
+
+Thiếu hụt kết dính bạch cầu là
+
+rối loạn suy giảm miễn dịch tiên phát
+
+có liên quan đến
+
+các khiếm khuyết tế bào thực bào
+
+. Di truyền là
+
+gen lặn nhiễm sắc thể thường
+
+.
+
+Thiếu hụt kết dính bạch cầu là do thiếu glycoprotein kết dính (ví dụ: integrins, selectins) trên bề mặt của các bạch cầu (WBC); các glycoprotein này tạo điều kiện thuận lợi cho các tương tác tế bào, gắn tế bào vào thành mạch máu, di chuyển tế bào và tương tác với các mảnh bổ thể. Sự khiếm khuyết làm giảm khả năng bạch cầu hạt (và tế bào lympho) di chuyển ra khỏi lòng mạch máu, để gây ra các phản ứng gây độc tế bào và thực bào vi khuẩn. Mức độ nghiêm trọng của bệnh tương quan với mức độ thiếu hụt.
+
+Ba loại hội chứng khác nhau đã được xác định:
+
+Thiếu kết dính bạch cầu 1: Thiếu hoặc khiếm khuyết beta-2 integrin gia đình
+
+Thiếu kết dính bạch cầu 2: Không có fucosylated carbohydrate phối tử cho selectins
+
+Thiếu kết dính bạch cầu 3: Kích hoạt khiếm khuyết của tất cả các integrin beta (1, 2, và 3)
+
+Loại 1 là kết quả của các đột biến gen integrin beta-2 (
+
+ITGB2
+
+), mã hóa các integrin CD18 beta-2. Loại 2 là kết quả của sự đột biến gen di chuyển glucose diphosphate (GDP). Loại 3 là do đột biến gen
+
+FERMT3
+
+(11q13.1), mã hóa các tế bào tạo máu-3 trong các tế bào tạo máu.
+
+Các triệu chứng và dấu hiệu của thiếu kết dính bạch cầu
+
+Biểu hiện của thiếu hụt kết dính bạch cầu thường bắt đầu ở trẻ sơ sinh.
+
+Trẻ sơ sinh có viêm mô hoại tử tái phát nặng hoặc tiến triển với vi khuẩn tụ cầu và gram âm, viêm nha chu, khả năng chữa lành vết thương kém, không tạo mủ, tăng bạch cầu, và chậm rụng rốn (
+
+>
+
+3 tuần). Bạch cầu vẫn còn cao, thậm chí giữa các đợt nhiễm trùng. Nhiễm trùng trở nên ngày càng khó kiểm soát.
+
+Những trẻ sơ sinh nhẹ cân ít bị nhiễm trùng nặng và có sự thay đổi nhẹ về số lượng máu.
+
+Chậm phát triển thường gặp ở bệnh thiếu hụt kết dính bạch cầu loại 2.
+
+Chẩn đoán thiếu kết dính bạch cầu
+
+Thử nghiệm các glycoprotein dính trên bề mặt của bạch cầu
+
+Chẩn đoán thiếu kết dính bạch cầu là bằng cách phát hiện sự vắng mặt hoặc thiếu hụt glycoprotein dính trên bề mặt của WBC bằng cách sử dụng kháng thể đơn dòng (ví dụ anti-CD11, anti-CD18) và cytometry dòng chảy. Tăng bạch cầu trong công thức máu là phổ biến nhưng không đặc hiệu.
+
+xét nghiệm di truyền được khuyến cáo cho anh chị em ruột.
+
+Điều trị chứng thiếu kết dính bạch cầu
+
+Chăm sóc hỗ trợ sử dụng kháng sinh dự phòng và truyền bạch cầu hạt
+
+Ghép tế bào gốc tạo máu
+
+Điều trị thiếu kết dính bạch cầu là dùng kháng sinh dự phòng, thường được dùng liên tục (thường là trimethoprim/sulfamethoxazole). Truyền máu cũng có thể giúp ích.
+
+Cấy ghép tế bào gốc tạo máu
+
+là phương pháp điều trị hiệu quả duy nhất và có thể chữa khỏi bệnh.
+
+Liệu pháp gen, đang được nghiên cứu, có vẻ đầy hứa hẹn (
+
+1
+
+).
+
+Đối với bệnh nhân với thiếu kết dính bạch cầu loại 2, nên cố gắng sửa chữa các khuyết điểm tiềm ẩn bằng bổ sung fucose.
+
+Bệnh nhân có bệnh nhẹ hoặc trung bình có thể sống sót vào tuổi trưởng thành trẻ. Hầu hết các bệnh nhân bị bệnh nặng sẽ chết ở tuổi 5 trừ khi được điều trị thành công bằng ghép tế bào gốc tạo máu.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Mesa-Núñez C, Damián C, Fernández-García M, et al
+
+. Preclinical safety and efficacy of lentiviral-mediated gene therapy for leukocyte adhesion deficiency type I.
+
+Mol Ther Methods Clin Dev
+
+2022;26:459-470. doi:10.1016/j.omtm.2022.07.015
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các triệu chứng và dấu hiệu của thiếu kết dính bạch cầu ---
+
+Biểu hiện của thiếu hụt kết dính bạch cầu thường bắt đầu ở trẻ sơ sinh.Trẻ sơ sinh có viêm mô hoại tử tái phát nặng hoặc tiến triển với vi khuẩn tụ cầu và gram âm, viêm nha chu, khả năng chữa lành vết thương kém, không tạo mủ, tăng bạch cầu, và chậm rụng rốn (>3 tuần). Bạch cầu vẫn còn cao, thậm chí giữa các đợt nhiễm trùng. Nhiễm trùng trở nên ngày càng khó kiểm soát.Những trẻ sơ sinh nhẹ cân ít bị nhiễm trùng nặng và có sự thay đổi nhẹ về số lượng máu.Chậm phát triển thường gặp ở bệnh thiếu hụt kết dính bạch cầu loại 2.
+
+--- 2. Chẩn đoán thiếu kết dính bạch cầu ---
+
+Thử nghiệm các glycoprotein dính trên bề mặt của bạch cầuChẩn đoán thiếu kết dính bạch cầu là bằng cách phát hiện sự vắng mặt hoặc thiếu hụt glycoprotein dính trên bề mặt của WBC bằng cách sử dụng kháng thể đơn dòng (ví dụ anti-CD11, anti-CD18) và cytometry dòng chảy. Tăng bạch cầu trong công thức máu là phổ biến nhưng không đặc hiệu.xét nghiệm di truyền được khuyến cáo cho anh chị em ruột.
+
+--- 3. Điều trị chứng thiếu kết dính bạch cầu ---
+
+Chăm sóc hỗ trợ sử dụng kháng sinh dự phòng và truyền bạch cầu hạtGhép tế bào gốc tạo máuĐiều trị thiếu kết dính bạch cầu là dùng kháng sinh dự phòng, thường được dùng liên tục (thường là trimethoprim/sulfamethoxazole). Truyền máu cũng có thể giúp ích.Cấy ghép tế bào gốc tạo máulà phương pháp điều trị hiệu quả duy nhất và có thể chữa khỏi bệnh.Liệu pháp gen, đang được nghiên cứu, có vẻ đầy hứa hẹn (1).Đối với bệnh nhân với thiếu kết dính bạch cầu loại 2, nên cố gắng sửa chữa các khuyết điểm tiềm ẩn bằng bổ sung fucose.Bệnh nhân có bệnh nhẹ hoặc trung bình có thể sống sót vào tuổi trưởng thành trẻ. Hầu hết các bệnh nhân bị bệnh nặng sẽ chết ở tuổi 5 trừ khi được điều trị thành công bằng ghép tế bào gốc tạo máu.Tài liệu tham khảo về điều trị1.Mesa-Núñez C, Damián C, Fernández-García M, et al. Preclinical safety and efficacy of lentiviral-mediated gene therapy for leukocyte adhesion deficiency type I.Mol Ther Methods Clin Dev2022;26:459-470. doi:10.1016/j.omtm.2022.07.015

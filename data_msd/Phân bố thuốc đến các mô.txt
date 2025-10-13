@@ -1,0 +1,175 @@
+TIÊU ĐỀ: Phân bố thuốc đến các mô
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-động-học/phân-bố-thuốc-đến-các-mô
+================================================================================
+
+NỘI DUNG:
+
+Phân bố thuốc đến các mô
+
+Theo
+
+Jennifer Le
+
+,
+
+PharmD, MAS, BCPS-ID, FIDSA, FCCP, FCSHP
+
+,
+
+Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+San Diego
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2024
+
+v1109047_vi
+
+Sau khi một loại thuốc xâm nhập vào hệ thống tuần hoàn sẽ được phân bố đến các mô của cơ thể. Sự phân bố thuốc nói chung là không đều do sự tưới máu khác nhau, sự liên kết với mô (ví dụ, do hàm lượng lipid), pH tại từng nơi và mức độ thấm của màng tế bào.
+
+Tỷ lệ thuốc vào mô phụ thuộc vào tốc độ lưu thông máu đến mô, khối mô và đặc điểm phân cách giữa máu và mô. Trạng thái cân bằng phân bố (khi tỷ lệ vào mô và ra khỏi mô bằng nhau) giữa máu và mô đạt nhanh hơn ở những vùng có mạch máu, ngoại trừ sự khuếch tán qua màng tế bào là bước giới hạn tốc độ. Sau khi đạt được trạng thái cân bằng, nồng độ thuốc trong mô và trong dịch ngoài tế bào được thể hiện bằng nồng độ trong huyết tương. Chuyển hóa và bài tiết xảy ra đồng thời với sự phân bố, làm cho quá trình động và phức tạp.
+
+Sau khi thuốc đã vào mô, phân bố thuốc đến dịch kẽ được xác định chủ yếu thông qua mức độ tưới máu. Đối với những mô được tưới máu kém (ví dụ như cơ, mô mỡ), phân bố rất chậm, đặc biệt nếu mô có ái lực cao đối với thuốc.
+
+(Xem thêm
+
+Tổng quan về Dược động học
+
+.)
+
+Thể tích phân bố
+
+Thể tích phân bố biểu kiến là thể tích dịch lý thuyết, trong đó tổng liều thuốc sẽ được pha loãng để tạo ra nồng độ trong huyết tương. Ví dụ, nếu dùng 1000 mg một loại thuốc và nồng độ trong huyết tương sau đó là 10 mg/L, 1000 mg dường như phân bố trong 100 L (liều/thể tích
+
+=
+
+nồng độ; 1000 mg/
+
+x
+
+L
+
+=
+
+10 mg/L; do đó,
+
+x
+
+=
+
+1000 mg/10 mg/L
+
+=
+
+100 L).
+
+Thể tích phân bố không liên quan với thể tích thực tế của cơ thể hoặc các khoang chứa dịch lỏng nhưng liên quan đến sự phân bố thuốc trong cơ thể. Với thuốc liên kết nhiều với mô, lượng thuốc còn trong tuần hoàn rất ít; do đó, nồng độ thuốc trong huyết tương thấp và thể tích phân bố lớn. Thuốc tồn tại trong tuần hoàn nhiều thường có thể tích phân bố thấp.
+
+Thể tích phân bố cho biết nồng độ dự kiến trong huyết tương cho một liều nhất định nhưng cung cấp ít thông tin về mô hình phân bố chuyên biệt. Mỗi loại thuốc được phân bố duy nhất trong cơ thể. Một số loại thuốc phân bố chủ yếu vào mô mỡ, một số khác ở trong chất lỏng ngoại bào, và một số khác liên kết với các mô nhất định.
+
+Nhiều loại thuốc có tính axit (ví dụ:
+
+warfarin
+
+,
+
+aspirin
+
+) có gắn kết cao với protein và do đó có thể tích phân bố biểu kiến ​​nhỏ. Nhiều loại thuốc cơ bản (ví dụ:
+
+amphetamine
+
+,
+
+meperidine
+
+) được các mô hấp thụ rộng rãi và do đó có thể tích phân bố biểu kiến ​​lớn hơn thể tích của toàn bộ cơ thể.
+
+Liên kết
+
+Mức độ phân bố thuốc vào các mô phụ thuộc vào mức độ liên kết protein huyết tương và mô. Trong máu, các loại thuốc được vận chuyển một phần dưới dạng thuốc tự do (không liên kết) và một phần liên kết với các thành phần của máu (ví dụ như protein huyết tương, tế bào máu). Trong số nhiều protein trong huyết tương có thể tương tác với thuốc, quan trọng nhất là
+
+albumin
+
+, glycoprotein axit alpha-1 và lipoprotein. Thuốc có tính axit thường gắn kết chặt chẽ hơn với
+
+albumin
+
+; thuốc có tính bazơ thường gắn kết chặt chẽ hơn với glycoprotein axit alpha-1, lipoprotein hoặc cả hai.
+
+Chỉ có thuốc ở dạng không liên kết được khuếch tán thụ động đến các vùng ngoại mạch hoặc mô nơi thuốc phát huy tác dụng dược lý. Do đó, nồng độ thuốc ở dạng không liên kết trong hệ thống tuần hoàn thường được xác định là nồng độ thuốc ở vị trí có tác dụng và từ đó phát huy hiệu quả.
+
+Khi nồng độ thuốc cao, lượng thuốc ở dạng liên kết với protein đạt được giới hạn trên được xác định bởi số lượng vị trí liên kết hoạt động. Sự bão hòa của các vị trí gắn kết là cơ sở của tương tác thay thế giữa các loại thuốc.
+
+Thuốc liên kết với nhiều chất không phải protein. Sự liên kết thường xảy ra khi một loại thuốc kết hợp với một phân tử lớn trong môi trường nước nhưng có thể xảy ra khi thuốc được phân bố vào các mô mỡ trong cơ thể. Do các mô mỡ được tưới máu kém, thời gian đạt được trạng thái cân bằng rất dài, đặc biệt nếu thuốc có tính thân mỡ cao.
+
+Tích lũy thuốc trong các mô hoặc các ngăn của cơ thể có thể kéo dài tác dụng của thuốc vì các mô giải phóng thuốc đã tích lũy khi nồng độ thuốc trong huyết tương giảm. Ví dụ:
+
+thiopental
+
+có khả năng hòa tan trong lipid cao, nhanh chóng đi vào não sau một lần tiêm tĩnh mạch và có tác dụng gây mê nhanh và rõ rệt; tác dụng này kết thúc sau vài phút khi thuốc được phân phối lại đến các mô mỡ được tưới máu chậm hơn.
+
+Thiopental
+
+sau đó được giải phóng từ từ khỏi nơi dự trữ chất béo, duy trì mức huyết tương dưới mức gây mê. Nồng độ này có thể tăng đáng kể nếu dùng liều
+
+thiopental
+
+nhiều lần, khiến lượng lớn chất này được lưu trữ trong mỡ. Do đó, việc tích lũy trong mô mỡ làm thời gian khởi phát tác dụng chậm lại nhưng lại kéo dài tác dụng của thuốc.
+
+Một số loại thuốc tích lũy trong tế bào vì chúng liên kết với các protein, phospholipid hoặc các axit nucleic. Ví dụ: nồng độ
+
+chloroquine
+
+trong tế bào bạch cầu và tế bào gan có thể cao hơn hàng nghìn lần so với nồng độ trong huyết tương. Thuốc trong tế bào ở trạng thái cân bằng với thuốc trong huyết tương và vào huyết tương khi thuốc bị loại bỏ khỏi cơ thể.
+
+Hàng rào máu não
+
+Thuốc ảnh hưởng tới hệ thần kinh trung ương qua mao mạch não và dịch não tủy. Mặc dù não nhận được khoảng một phần sáu lượng máu từ tim, sự xâm nhập của thuốc vào não còn bị hạn chế do đặc tính thẩm thấu của não. Mặc dù một số loại thuốc tan trong lipid (ví dụ:
+
+thiopental
+
+) dễ dàng đi vào não, nhưng các hợp chất phân cực thì không. Lý do là hàng rào máu-não, bao gồm nội mô mao mạch não và vỏ tế bào hình sao. Các tế bào nội mô trong các mao mạch não dường như gắn chặt với nhau hơn so với hầu hết các mao mạch khác, làm chậm sự khuếch tán của các thuốc hòa tan trong nước. Vỏ tế bào hình sao bao gồm một lớp tế bào mô liên kết thần kinh đệm (tế bào hình sao) gần với màng nền của mao mạch nội mô. Cùng vơi sự lão hóa, hàng rào máu-não có thể trở nên kém hiệu quả hơn, cho các hợp chất đi vào trong não nhiều hơn.
+
+Thuốc có thể trực tiếp đi vào dịch não tủy ở não thất qua các dây đám rối màng mạch, sau đó khuếch tán thụ động vào mô não từ dịch não tủy. Ngoài ra, trong đám rối màng mạch, các axit hữu cơ (ví dụ:
+
+penicillin
+
+) được vận chuyển tích cực từ dịch não tủy vào máu.
+
+Tương tự như các tế bào mô khác, tỷ lệ thâm nhập của thuốc vào dịch não tủy được xác định chủ yếu bởi mức độ liên kết protein, mức độ ion hóa, và hệ số phân bố lipid-nước của thuốc. Các thuốc liên kết protein cao có tốc độ thâm nhập vào não chậm và các thuốc ở dạng ion hóa của axit và bazơ yếu gần như không vào não. Do hệ thần kinh trung ương được tưới máu tốt, tốc độ phân bố thuốc được xác định chủ yếu qua tính thấm.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

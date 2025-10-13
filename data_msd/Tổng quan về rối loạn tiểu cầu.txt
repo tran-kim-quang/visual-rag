@@ -1,0 +1,921 @@
+TIÊU ĐỀ: Tổng quan về rối loạn tiểu cầu
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/giảm-tiểu-cầu-và-rối-loạn-chức-năng-tiểu-cầu/tổng-quan-về-rối-loạn-tiểu-cầu
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về rối loạn tiểu cầu
+
+Theo
+
+David J. Kuter
+
+,
+
+MD, DPhil
+
+,
+
+Harvard Medical School
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 9 2024
+
+v970908_vi
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiểu cầu là những mảnh tế bào trong hệ tuần hoàn có chức năng trong hệ đông máu. Thrombopoietin giúp kiểm soát số lượng tiểu cầu lưu hành bằng cách kích thích tủy xương để sản sinh mẫu tiểu cầu, tạo ra các mảnh tiểu cầu từ bào tương của chúng. Thrombopoietin được sản sinh ở gan với tốc độ không đổi; nồng độ trong hệ tuần hoàn của chất này được xác định bởi mức độ gắn kết với tiểu cầu tuần hoàn và có thể là với tế bào megakaryocytes của tủy xương và mức độ làm sạch tiểu cầu trong hệ tuần hoàn. Các tiểu cầu tuần hoàn trong 7 đến 10 ngày. Khoảng một phần ba tiểu cầu được trữ tạm thời trong lách.
+
+Số lượng tiểu cầu bình thường là 140.000
+
+đến 440.000/mcL (140 to 440 × 10
+
+9
+
+/L). Tuy nhiên, số lượng có thể thay đổi nhẹ theo giai đoạn chu kỳ kinh nguyệt, giảm trong thai kỳ (giảm tiểu cầu lúc mang thai), và tăng trong đáp ứng với các cytokine viêm (tăng tiểu cầu thứ phát, hoặc phản ứng). Các tiểu cầu cuối cùng bị phá hủy do cái chết theo chương trình, một quá trình độc lập với lách.
+
+Rối loạn tiểu cầu
+
+bao gồm
+
+Tăng bất thường của tiểu cầu (
+
+tăng tiểu cầu
+
+và
+
+tăng tiểu cầu phản ứng
+
+)
+
+Giảm tiểu cầu (thrombocytopenia)
+
+Rối loạn chức năng tiểu cầu
+
+Bất kỳ tình trạng nào trong số này, ngay cả những trường hợp tiểu cầu tăng lên rõ rệt, đều có thể gây ra sự hình thành khuyết tật của nút cầm máu và chảy máu.
+
+Nguy cơ chảy máu tỉ lệ nghịch với số lượng tiểu cầu và chức năng tiểu cầu (xem bảng
+
+Số lượng tiểu cầu và nguy cơ chảy máu
+
+). Khi chức năng tiểu cầu giảm (ví dụ: do tăng urê huyết hoặc sử dụng thuốc chống viêm không steroid [NSAID],
+
+aspirin
+
+hoặc một loại thuốc khác), nguy cơ chảy máu sẽ tăng lên.
+
+Bảng
+
+Số lượng tiểu cầu và nguy cơ chảy máu
+
+Bảng
+
+Số lượng tiểu cầu và nguy cơ chảy máu
+
+Số lượng tiểu cầu và nguy cơ chảy máu
+
+Số lượng tiểu cầu
+
+Nguy cơ chảy máu*
+
+≥
+
+50.000/mcL (
+
+≥
+
+50
+
+×
+
+10
+
+9
+
+/L)
+
+Tối thiểu
+
+20.000–50.000/mcL (20–50
+
+×
+
+10
+
+9
+
+/L)
+
+Chảy máu nhẹ sau chấn thương
+
+<
+
+20.000/mcL (
+
+<
+
+20
+
+×
+
+10
+
+9
+
+/L)
+
+Chảy máu tự nhiên
+
+<
+
+5000/mcL (
+
+<
+
+5
+
+×
+
+10
+
+9
+
+/L)
+
+Có thể chảy máu tự nhiên, nghiêm trọng đe dọa tính mạng.
+
+* Giảm chức năng tiểu cầu (ví dụ: do tăng urê huyết hoặc sử dụng thuốc chống viêm không steroid [NSAID],
+
+aspirin
+
+hoặc một loại thuốc khác) làm tăng thêm nguy cơ chảy máu ở mỗi phạm vi số lượng tiểu cầu.
+
+* Giảm chức năng tiểu cầu (ví dụ: do tăng urê huyết hoặc sử dụng thuốc chống viêm không steroid [NSAID],
+
+aspirin
+
+hoặc một loại thuốc khác) làm tăng thêm nguy cơ chảy máu ở mỗi phạm vi số lượng tiểu cầu.
+
+Nguyên nhân của rối loạn tiểu cầu
+
+Tăng tiểu cầu tiên phát và tăng tiểu cầu phản ứng
+
+Tăng tiểu cầu nguyên phát
+
+là một
+
+ung thư tăng sinh tủy
+
+(trước đây được gọi là rối loạn tăng sinh tủy) liên quan đến việc sản xuất quá mức tiểu cầu do sự bất thường dòng vô tính của tế bào gốc tạo máu. Không có mối tương quan giữa số lượng tiểu cầu và nguy cơ huyết khối, nhưng một số bệnh nhân có mức độ tăng tiểu cầu cực cao (tức là > 1.000.000/mcL [> 1000
+
+×
+
+10
+
+9
+
+/L]) bị chảy máu do mất các multimer
+
+yếu tố von Willebrand
+
+trọng lượng phân tử cao (
+
+bệnh von Willebrand
+
+mắc phải loại 2B).
+
+Tăng tiểu cầu phản ứng
+
+là sự sản sinh tiểu cầu quá mức do phản ứng với một rối loạn khác. Có rất nhiều nguyên nhân, bao gồm nhiễm trùng cấp tính, các chứng viêm mạn tính (như
+
+viêm khớp dạng thấp
+
+,
+
+viêm ruột
+
+,
+
+lao
+
+,
+
+sarcoidosis
+
+),
+
+thiếu sắt
+
+và một số loại ung thư nhất định. Tăng tiểu cầu phản ứng thường không liên quan đến tăng nguy cơ huyết khối hoặc chảy máu.
+
+Giảm tiểu cầu
+
+Nguyên nhân của giảm tiểu cầu có thể được phân loại theo cơ chế (xem bảng
+
+Phân loại giảm tiểu cầu
+
+) và bao gồm
+
+Giảm tổng hợp ở gan
+
+Tăng sự bắt giữ tại lách của tiểu cầu với sự sống còn của tiểu cầu
+
+Tăng tiêu hủy hoặc tiêu thụ tiểu cầu (cả nguyên nhân miễn dịch và không miễn dịch)
+
+Pha loãng tiểu cầu
+
+Bảng
+
+Phân loại Giảm tiểu cầu
+
+Bảng
+
+Phân loại Giảm tiểu cầu
+
+Phân loại Giảm tiểu cầu
+
+Nguyên nhân
+
+Điều kiện
+
+Mẫu tiểu cầu bị giảm hoặc không có trong tủy xương
+
+Thiếu máu bất sản
+
+Bệnh bạch cầu
+
+Thuốc ức chế tủy (ví dụ: hydroxyurea, interferon alfa-2b, thuốc hóa trị)
+
+Đái huyết sắc tố kịch phát ban đêm
+
+(một số bệnh nhân)
+
+Giảm sản xuất tiểu cầu mặc dù vẫn có mẫu tiểu cầu trong tủy xương
+
+Giảm tiểu cầu do rượu
+
+Sử dụng Bortezomib
+
+Giảm tiểu cầu liên quan đến HIV
+
+Hội chứng loạn sản tủy
+
+(một số)
+
+Thiếu Vitamin B12
+
+hoặc
+
+folate (axit folic)
+
+Lách to làm tăng giam giữ tiểu cầu
+
+Xơ gan
+
+lách to
+
+Bệnh Gaucher
+
+Xơ tủy nguyên phát
+
+Bệnh sarcoid
+
+Phá hủy miễn dịch
+
+Hội chứng kháng phospholipid
+
+Bệnh thấp khớp hệ thống
+
+Giảm tiểu cầu do thuốc
+
+Giảm tiểu cầu liên quan đến viêm gan B (không phổ biến)
+
+Giảm tiểu cầu liên quan đến viêm gan C
+
+Giảm tiểu cầu liên quan đến
+
+HIV
+
+Giảm tiểu cầu miễn dịch
+
+Rối loạn tăng sinh lympho (ví dụ:
+
+bệnh bạch cầu kinh dòng lympho
+
+)
+
+Giảm tiểu cầu miễn dịch đồng loài sơ sinh
+
+Ban xuất huyết sau truyền
+
+Bệnh sarcoid
+
+Phá hủy không do miễn dịch
+
+Một số nhiễm trùng toàn thân (ví dụ, viêm gan [bất kỳ]
+
+nhiễm trùng tăng bạch cầu mono
+
+,
+
+cytomegalovirus
+
+, hoặc
+
+Dengue
+
+)
+
+Đông máu nội mạch rải rác
+
+Hội chứng tan máu tăng ure máu
+
+Nhiễm khuẩn huyết
+
+Giảm tiểu cầu
+
+trong hội chứng suy hô hấp cấp tính
+
+Ban xuất huyết giảm tiểu cầu huyết khối
+
+Pha loãng máu
+
+Truyền hồng cầu khối lượng lớn hoặc truyền máu trao đổi (hầu hết khối hồng cầu bảo quản hồng cầu nhưng không có nhiều các tiểu cầu sống).
+
+Nguyên nhân không rõ
+
+Mang thai (ví dụ:
+
+giảm tiểu cầu khi mang thai, hội chứng HELLP
+
+[
+
+h
+
+emolysis,
+
+e
+
+levated
+
+l
+
+iver enzymes, and
+
+l
+
+ow
+
+p
+
+latelets (tan máu, tăng men gan và giảm tiểu cầu)])* †
+
+* Các cơ chế có thể bao gồm tăng sự tiêu hủy, giảm sản sinh và tạo mảnh nhau thai.
+
+† Additional information in
+
+Fogerty AE, Kuter DJ
+
+. How I Treat Thrombocytopenia in Pregnancy.
+
+Blood
+
+Published online ngày 22 tháng 11 năm 2023 doi:10.1182/blood.2023020726
+
+* Các cơ chế có thể bao gồm tăng sự tiêu hủy, giảm sản sinh và tạo mảnh nhau thai.
+
+† Additional information in
+
+Fogerty AE, Kuter DJ
+
+. How I Treat Thrombocytopenia in Pregnancy.
+
+Blood
+
+Published online ngày 22 tháng 11 năm 2023 doi:10.1182/blood.2023020726
+
+Một số lượng lớn
+
+thuốc có thể gây giảm tiểu cầu
+
+, điển hình là do gây ra tình trạng phá hủy hệ miễn dịch.
+
+Nhìn chung
+
+nguyên nhân cụ thể nhất
+
+giảm tiểu cầu bao gồm
+
+Mang thai (
+
+giảm tiểu cầu khi mang thai
+
+;
+
+hội chứng HELLP
+
+[
+
+h
+
+emolysis,
+
+e
+
+levated
+
+l
+
+iver enzymes, and
+
+l
+
+ow
+
+p
+
+latelets (tan máu, men gan tăng và tiểu cầu thấp]) (
+
+1
+
+)
+
+Các loại thuốc gây tiêu hủy tiểu cầu qua trung gian miễn dịch (thường là
+
+heparin
+
+,
+
+trimethoprim/sulfamethoxazole
+
+, hiếm khi
+
+quinine
+
+[cocktail ban xuất huyết] hoặc
+
+abciximab
+
+) và hiếm khi tiêm chủng (ví dụ: cúm; bệnh zona; sởi, quai bị và rubella; COVID-19)
+
+Thuốc và chất gây ức chế tủy xương phụ thuộc vào liều (ví dụ: thuốc hóa trị liệu,
+
+ethanol
+
+)
+
+Nhiễm trùng hệ thống
+
+Rối loạn miễn dịch (ví dụ:
+
+giảm tiểu cầu miễn dịch [ITP]
+
+,
+
+hội chứng kháng phospholipid
+
+,
+
+bệnh lupus ban đỏ hệ thống
+
+)
+
+Rối loạn chức năng tiểu cầu
+
+Rối loạn chức năng tiểu cầu có thể xuất phát từ sự khiếm khuyết tại tiểu cầu hoặc từ một yếu tố bên ngoài thay đổi chức năng bình thường của tiểu cầu. Rối loạn chức năng có thể là do di truyền hoặc mắc phải. Rối loạn di truyền chức năng tiểu cầu bao gồm
+
+bệnh von Willebrand
+
+, bệnh xuất huyết di truyền phổ biến nhất và
+
+rối loạn chức năng tiểu cầu di truyền
+
+, ít gặp hơn nhiều.
+
+Các bệnh lý mắc phải về rối loạn chức năng tiểu cầu
+
+thường do các bệnh lý (ví dụ: suy thận) cũng như do
+
+aspirin
+
+và các thuốc khác như NSAID.
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Fogerty AE, Kuter DJ
+
+. How I Treat Thrombocytopenia in Pregnancy.
+
+Blood
+
+Published online ngày 22 tháng 11 năm 2023 doi:10.1182/blood.2023020726
+
+Các triệu chứng và dấu hiệu của rối loạn tiểu cầu
+
+Các rối loạn tiểu cầu dẫn đến một kiểu chảy máu điển hình:
+
+Nhiểu chấm xuất huyết trên da (chủ yếu ở cẳng chân).
+
+Các vết bầm máu nhỏ phân tán ở những vị trí tổn thương nhò hoặc vị trí chích tĩnh mạch
+
+Xuất huyết niêm mạc (mũi họng, mũi, tiêu hóa, đường tiết niệu sinh dục)
+
+Chảy máu ồ ạt sau phẫu thuật
+
+Kinh nguyệt ra nhiều
+
+Biểu hiện của rối loạn tiểu cầu
+
+Đốm xuất huyết trong giảm tiểu cầu miễn dịch (ITP)
+
+Được sự cho phép của nhà xuất bản. Theo Deitcher S. Trong
+
+Tập ảnh về Huyết học lâm sàng
+
+. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.
+
+Ecchymoses in Immune Thrombocytopenia
+
+Được sự cho phép của nhà xuất bản. Theo Deitcher S. Trong
+
+Tập ảnh về Huyết học lâm sàng
+
+. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.
+
+Các vết bầm máu
+
+Các vết bầm máu là những vết bầm tím lớn trên chân của bệnh nhân này.
+
+BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Đốm xuất huyết (vòm miệng cứng)
+
+Các đốm xuất huyết được đặc trưng bởi những chấm nhỏ màu đỏ như thấy ở đây trên vòm miệng của bệnh nhân này.
+
+BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Đốm xuất huyết trong giảm tiểu cầu miễn dịch (ITP)
+
+Được sự cho phép của nhà xuất bản. Theo Deitcher S. Trong
+
+Tập ảnh về Huyết học lâm sàng
+
+. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.
+
+Ecchymoses in Immune Thrombocytopenia
+
+Được sự cho phép của nhà xuất bản. Theo Deitcher S. Trong
+
+Tập ảnh về Huyết học lâm sàng
+
+. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.
+
+Các vết bầm máu
+
+Các vết bầm máu là những vết bầm tím lớn trên chân của bệnh nhân này.
+
+BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Đốm xuất huyết (vòm miệng cứng)
+
+Các đốm xuất huyết được đặc trưng bởi những chấm nhỏ màu đỏ như thấy ở đây trên vòm miệng của bệnh nhân này.
+
+BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Chảy máu tiêu hóa nặng và chảy máu vào hệ thống thần kinh trung ương hiếm gặp nhưng có thể đe dọa tính mạng. Tuy nhiên, chảy máu vào các mô (ví dụ, u máu ở tạng sâu hoặc chảy máu khớp) hiếm khi xảy ra với giảm tiểu cầu, thay vào đó bệnh nhân thương có chảy máu trên bề măt ngay sau chấn thương. Chảy máu vào các mô (nếu chỉ sau chấn thương) gợi ý một rối loạn đông máu (ví dụ,
+
+bệnh hemophilia
+
+).
+
+Chẩn đoán rối loạn tiểu cầu
+
+Biểu hiện lâm sàng của xuất huyết chấm ở dưới da và niêm mạc.
+
+Tổng phân tích tế bào máu ngoại vi với tiểu cầu, các xét nghiệm đông máu, tiêu bản phết máu ngoại biên
+
+Đôi khi cần chọc hút dịch tủy xương
+
+Đôi khi kháng nguyên von Willebrand, hoạt động gắn kết tiểu cầu và các nghiên cứu đa phân tử
+
+Các rối loạn tiểu cầu được nghi ngờ ở những bệnh nhân bị xuất huyết dạng chấm ở da và niêm mạc. Tổng phân tích tế bào máu ngoại vi có số lượng tiểu cầu, các xét nghiệm đông máu và tiêu bản phết máu ngoại biên được thực hiện. Quá nhiều tiểu cầu và giảm tiểu cầu được chẩn đoán dựa trên số lượng tiểu cầu. Các nghiên cứu về đông máu là bình thường trừ khi có rối loạn đông máu đồng thời. Ở những bệnh nhân có CBC, số lượng tiểu cầu, tỷ lệ chuẩn hóa quốc tế (INR) và thời gian thromboplastin một phần (PTT) bình thường, nghi ngờ có rối loạn chức năng tiểu cầu hoặc thành mạch.
+
+Ngọc trai & cạm bẫy
+
+Nghi ngờ có rối loạn tiểu cầu hoặc mạch máu ở bệnh nhân có nốt xuất huyết và/hoặc xuất huyết nhưng có số lượng tiểu cầu và kết quả đông máu bình thường.
+
+Giảm tiểu cầu
+
+Xét nghiệm phiến đồ hồng cầu trong máu ngoại vi
+
+rất quan trọng ở những bệnh nhân bị giảm tiểu cầu vì số lượng tiểu cầu tự động đôi khi cho thấy giảm tiểu cầu giả do tiểu cầu bị vón cục do thuốc thử ethylenediaminetetraacetic acid (EDTA) có trong hầu hết các ống lấy máu. Ngoài ra, có thể thấy các mảnh vỡ hồng cầu, có thể cho biết tan máu do van tim
+
+ban xuất huyết giảm tiểu cầu huyết khối
+
+(TTP),
+
+hội chứng tan máu ure máu cao
+
+(HUS), hoặc
+
+đông máu nội mạc rải rác
+
+(DIC – xem bảng
+
+Các phát hiện về máu ngoại vi trong bệnh rối loạn giảm tiểu cầu
+
+).
+
+Chọc hút dịch tủy xương
+
+thường được chỉ định nếu tiêu bản phết máu ngoại biên cho thấy những bất thường khác ngoài giảm tiểu cầu, chẳng hạn như hồng cầu ((RBC) có nhân hoặc bạch cầu (WBC) bất thường hoặc chưa trưởng thành. Dịch tủy xương cho thấy số lượng và sự xuất hiện của mẫu tiểu cầu và là xét nghiệm chính xác cho nhiều rồi loạn gây suy tủy xương. Nếu tủy xương là bình thường nhưng lách to làm tăng
+
+sự giam giữ ở lách
+
+là nguyên nhân có thể gây giảm tiểu cầu. Nếu tủy xương bình thường và lách không to, nguyên nhân là do phá hủy quá mức tiểu cầu.
+
+Tuy nhiên, số lượng và sự xuất hiện bình thường của mẫu tiểu cầu không phải lúc nào cũng cho thấy sản xuất tiểu cầu là bình thường. Ví dụ, ở nhiều bệnh nhân
+
+giảm tiểu cầu miễn dịch
+
+(ITP), sản xuất tiểu cầu có thể bị giảm mặc dù có tăng số lượng mẫu tiểu cầu. Xét nghiệm tủy xương hiếm khi được yêu cầu ở những bệnh nhân có đặc điểm điển hình của
+
+giảm tiểu cầu miễn dịch ITP
+
+.
+
+Tỷ lệ tiểu cầu chưa trưởng thành (IPF) trong máu ngoại vi đôi khi là một biện pháp hữu ích ở những bệnh nhân bị giảm tiểu cầu, vì nó tăng lên khi tủy xương sản sinh tiểu cầu và không tăng khi sản sinh tiểu cầu ở tủy xương giảm, tương tự như số lượng hồng cầu lưới trong bệnh thiếu máu.
+
+Đo lượng kháng thể kháng tiểu cầu có thể giúp phân biệt ITP với các nguyên nhân giảm tiểu cầu khác khi xét đến khía cạnh lâm sàng ở một số bệnh nhân
+
+(1)
+
+. Xét nghiệm HIV được thực hiện ở những bệnh nhân có hoặc có nguy cơ nhiễm HIV, nhiễm viêm gan B hoặc viêm gan C, hoặc đồng nhiễm HIV và viêm gan.
+
+Bảng
+
+Dấu hiệu máu ngoại vi trong các rối loạn giảm tiểu cầu
+
+Bảng
+
+Dấu hiệu máu ngoại vi trong các rối loạn giảm tiểu cầu
+
+Dấu hiệu máu ngoại vi trong các rối loạn giảm tiểu cầu
+
+Hồng cầu (RBC) và bạch cầu (WBC) bình thường
+
+Giảm tiểu cầu do thuốc
+
+Giảm tiểu cầu trong thai kỳ
+
+Giảm tiểu cầu liên quan đến viêm gan C
+
+Giảm tiểu cầu liên quan đến
+
+HIV
+
+Giảm tiểu cầu miễn dịch
+
+Ban xuất huyết sau truyền
+
+Mảnh vỡ hồng cầu (tế bào biểu mô)
+
+Đông máu rải rác trong lòng mạch (DIC)
+
+Hội chứng HELLP (
+
+h
+
+emolytic anemia [tan máu],
+
+e
+
+levated
+
+l
+
+iver enzymes [tăng men gan],
+
+l
+
+ow
+
+p
+
+latelets [tiểu cầu thấp])
+
+Hội chứng tan máu tăng ure máu
+
+Ung thư di căn
+
+Tiền sản giật
+
+với DIC
+
+Ban xuất huyết giảm tiểu cầu huyết khối
+
+Tan máu do van tim
+
+Những bất thường của bạch cầu
+
+Bạch cầu đa hình tăng đoạn trong thiếu máu nguyên hồng cầu khổng lồ
+
+Tế bào chưa trưởng thành trong bệnh bạch cầu lympho bào hạt lớn hoặc tăng tế bào lympho trưởng thành trong
+
+bệnh bạch cầu mạn dòng lympho
+
+Giảm đáng kể bạch cầu hạt trong
+
+thiếu máu bất sản
+
+Thường gặp các tiểu cầu khổng lồ (gần bằng kích thước của hồng cầu)
+
+Hội chứng Bernard-Soulier
+
+Rối loạn liên quan đến gen myosin chuỗi nặng 9, không phải cơ (
+
+MYH9
+
+)
+
+Các giảm tiểu cầu bẩm sinh khác
+
+Những bất thường hồng cầu, hồng cầu có nhân, bạch cầu hạt chưa chín
+
+Hội chứng loạn sản tủy
+
+Tiểu cầu vón
+
+Giảm tiểu cầu giả
+
+Mảnh vỡ hồng cầu (Mảnh tế bào hồng cầu)
+
+Hình ảnh
+
+Được sự cho phép của nhà xuất bản. Từ Tefferi A, Li C. Trong
+
+Tập ảnh về Huyết học lâm sàng
+
+. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.
+
+Nghi ngờ về rối loạn chức năng tiểu cầu
+
+Ở những bệnh nhân bị rối loạn tiểu cầu, thuốc được nghi ngờ là nguyên nhân nếu các triệu chứng chỉ bắt đầu sau khi bệnh nhân bắt đầu dùng thuốc có khả năng gây bệnh (ví dụ: aspirin, prasugrel, clopidogrel, ticagrelor, abciximab). Rối loạn chức năng tiểu cầu do thuốc gây ra có thể nặng nhưng hiếm khi cần đến các xét nghiệm chuyên biệt.
+
+Nghi ngờ nguyên nhân di truyền nếu có tiền sử dễ bầm tím, chảy máu sau khi nhổ răng, phẫu thuật, sinh đẻ hoặc cắt bao quy đầu; hay kinh nguyệt ra máu nhiều. Trong trường hợp nghi ngờ nguyên nhân di truyền, các nghiên cứu về kháng nguyên và hoạt động của
+
+yếu tố von Willebrand
+
+(VWF) và VWF được thực hiện thường xuyên.
+
+Ở những bệnh nhân nghi ngờ rối loạn chức năng di truyền, xét nghiệm kết tập tiểu cầu có thể xác định khiếm khuyết trong cách tiểu cầu phản ứng với các thuốc chủ vận tiểu cầu khác nhau (
+
+adenosine
+
+diphosphate [ADP], collagen,
+
+thrombin
+
+) và từ đó chứng minh loại khiếm khuyết tiểu cầu.
+
+Rối loạn chức năng tiểu cầu do hầu hết các rối loạn hệ thống gây ra thường ở mức độ nhẹ và ít có ý nghĩa lâm sàng; ở những bệnh nhân này, rối loạn hệ thống gây ra là mối quan tâm lâm sàng và các xét nghiệm huyết học là không cần thiết. Tuy nhiên, bệnh nhân suy thận có thể bị chảy máu đáng kể.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Al-Samkari H, Rosovsky RP, Karp Leaf RS
+
+: A modern reassessment of glycoprotein-specific direct platelet autoantibody testing in immune thrombocytopenia.
+
+Blood Adv
+
+4(1):9–18, 2020. doi: 10.1182/bloodadvances.2019000868
+
+Điều trị rối loạn tiểu cầu
+
+Ngừng thuốc làm suy giảm chức năng tiểu cầu
+
+Chất chủ vận thụ thể của thrombopoietin (TPO-RA)
+
+Hiếm khi phải truyền khối tiểu cầu
+
+Hiếm khi dùng thuốc chống tiêu fibrin
+
+Ở những bệnh nhân bị giảm tiểu cầu hoặc rối loạn chức năng tiểu cầu, không nên dùng các thuốc làm suy giảm thêm chức năng tiểu cầu, đặc biệt là aspirin và các thuốc chống viêm không steroid khác (NSAID). Những bệnh nhân đang dùng các loại thuốc này nên xem xét các lựa chọn thay thế, chẳng hạn như acetaminophen, hoặc đơn giản là ngừng sử dụng các thuốc đó.
+
+Có thể
+
+truyền khối tiểu cầu
+
+, nhưng chỉ trong những tình huống cần thiết. Ví dụ: truyền tiểu cầu là phương pháp điều trị chính cho bệnh nhân rối loạn chức năng tiểu cầu và chảy máu đang hoạt động hoặc cho những người cần một thủ thuật xâm lấn. Hạn chế truyền khối tiểu cầu dự phòng vì ở những lần truyền tiếp theo có thể không hiệu quả do phát sinh các kháng thể kháng tiểu cầu.
+
+Nếu
+
+giảm sản sinh
+
+là nguyên nhân gây giảm tiểu cầu, truyền máu, TPO-RA (ví dụ: romiplostim, eltrombopag, avatrombopag) hoặc thuốc chống tiêu sợi huyết (ví dụ: axit aminocaproic, axit tranexamic) được dành riêng cho những bệnh nhân có bất kỳ dấu hiệu nào sau đây:
+
+Chảy máu hoạt động
+
+Giảm tiểu cầu nặng (ví dụ: số lượng tiểu cầu:
+
+<
+
+10.000/mcL [
+
+<
+
+10
+
+×
+
+10
+
+9
+
+/L)
+
+Cần phẫu thuật xâm lấn
+
+Nếu tình trạng
+
+tiêu hủy tiểu cầu
+
+là nguyên nhân gây giảm tiểu cầu, việc truyền máu sẽ được dành riêng cho các trường hợp đe dọa tính mạng, hệ thần kinh trung ương hoặc chảy máu mắt. Các lựa chọn khác bao gồm cắt lách, các thuốc ức chế miễn dịch (bao gồm corticosteroid), TPO-RA và fostamatinib (thuốc ức chế tyrosine kinase lách).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân của rối loạn tiểu cầu ---
+
+Tăng tiểu cầu tiên phát và tăng tiểu cầu phản ứngTăng tiểu cầu nguyên phátlà mộtung thư tăng sinh tủy(trước đây được gọi là rối loạn tăng sinh tủy) liên quan đến việc sản xuất quá mức tiểu cầu do sự bất thường dòng vô tính của tế bào gốc tạo máu. Không có mối tương quan giữa số lượng tiểu cầu và nguy cơ huyết khối, nhưng một số bệnh nhân có mức độ tăng tiểu cầu cực cao (tức là > 1.000.000/mcL [> 1000×109/L]) bị chảy máu do mất các multimeryếu tố von Willebrandtrọng lượng phân tử cao (bệnh von Willebrandmắc phải loại 2B).Tăng tiểu cầu phản ứnglà sự sản sinh tiểu cầu quá mức do phản ứng với một rối loạn khác. Có rất nhiều nguyên nhân, bao gồm nhiễm trùng cấp tính, các chứng viêm mạn tính (nhưviêm khớp dạng thấp,viêm ruột,lao,sarcoidosis),thiếu sắtvà một số loại ung thư nhất định. Tăng tiểu cầu phản ứng thường không liên quan đến tăng nguy cơ huyết khối hoặc chảy máu.Giảm tiểu cầuNguyên nhân của giảm tiểu cầu có thể được phân loại theo cơ chế (xem bảngPhân loại giảm tiểu cầu) và bao gồmGiảm tổng hợp ở ganTăng sự bắt giữ tại lách của tiểu cầu với sự sống còn của tiểu cầuTăng tiêu hủy hoặc tiêu thụ tiểu cầu (cả nguyên nhân miễn dịch và không miễn dịch)Pha loãng tiểu cầuBảngPhân loại Giảm tiểu cầuBảngPhân loại Giảm tiểu cầuPhân loại Giảm tiểu cầuNguyên nhânĐiều kiệnMẫu tiểu cầu bị giảm hoặc không có trong tủy xươngThiếu máu bất sảnBệnh bạch cầuThuốc ức chế tủy (ví dụ: hydroxyurea, interferon alfa-2b, thuốc hóa trị)Đái huyết sắc tố kịch phát ban đêm(một số bệnh nhân)Giảm sản xuất tiểu cầu mặc dù vẫn có mẫu tiểu cầu trong tủy xươngGiảm tiểu cầu do rượuSử dụng BortezomibGiảm tiểu cầu liên quan đến HIVHội chứng loạn sản tủy(một số)Thiếu Vitamin B12hoặcfolate (axit folic)Lách to làm tăng giam giữ tiểu cầuXơ ganlách toBệnh GaucherXơ tủy nguyên phátBệnh sarcoidPhá hủy miễn dịchHội chứng kháng phospholipidBệnh thấp khớp hệ thốngGiảm tiểu cầu do thuốcGiảm tiểu cầu liên quan đến viêm gan B (không phổ biến)Giảm tiểu cầu liên quan đến viêm gan CGiảm tiểu cầu liên quan đếnHIVGiảm tiểu cầu miễn dịchRối loạn tăng sinh lympho (ví dụ:bệnh bạch cầu kinh dòng lympho)Giảm tiểu cầu miễn dịch đồng loài sơ sinhBan xuất huyết sau truyềnBệnh sarcoidPhá hủy không do miễn dịchMột số nhiễm trùng toàn thân (ví dụ, viêm gan [bất kỳ]nhiễm trùng tăng bạch cầu mono,cytomegalovirus, hoặcDengue)Đông máu nội mạch rải rácHội chứng tan máu tăng ure máuNhiễm khuẩn huyếtGiảm tiểu cầutrong hội chứng suy hô hấp cấp tínhBan xuất huyết giảm tiểu cầu huyết khốiPha loãng máuTruyền hồng cầu khối lượng lớn hoặc truyền máu trao đổi (hầu hết khối hồng cầu bảo quản hồng cầu nhưng không có nhiều các tiểu cầu sống).Nguyên nhân không rõMang thai (ví dụ:giảm tiểu cầu khi mang thai, hội chứng HELLP[hemolysis,elevatedliver enzymes, andlowplatelets (tan máu, tăng men gan và giảm tiểu cầu)])* †* Các cơ chế có thể bao gồm tăng sự tiêu hủy, giảm sản sinh và tạo mảnh nhau thai.† Additional information inFogerty AE, Kuter DJ. How I Treat Thrombocytopenia in Pregnancy.BloodPublished online ngày 22 tháng 11 năm 2023 doi:10.1182/blood.2023020726* Các cơ chế có thể bao gồm tăng sự tiêu hủy, giảm sản sinh và tạo mảnh nhau thai.† Additional information inFogerty AE, Kuter DJ. How I Treat Thrombocytopenia in Pregnancy.BloodPublished online ngày 22 tháng 11 năm 2023 doi:10.1182/blood.2023020726Một số lượng lớnthuốc có thể gây giảm tiểu cầu, điển hình là do gây ra tình trạng phá hủy hệ miễn dịch.Nhìn chungnguyên nhân cụ thể nhấtgiảm tiểu cầu bao gồmMang thai (giảm tiểu cầu khi mang thai;hội chứng HELLP[hemolysis,elevatedliver enzymes, andlowplatelets (tan máu, men gan tăng và tiểu cầu thấp]) (1)Các loại thuốc gây tiêu hủy tiểu cầu qua trung gian miễn dịch (thường làheparin,trimethoprim/sulfamethoxazole, hiếm khiquinine[cocktail ban xuất huyết] hoặcabciximab) và hiếm khi tiêm chủng (ví dụ: cúm; bệnh zona; sởi, quai bị và rubella; COVID-19)Thuốc và chất gây ức chế tủy xương phụ thuộc vào liều (ví dụ: thuốc hóa trị liệu,ethanol)Nhiễm trùng hệ thốngRối loạn miễn dịch (ví dụ:giảm tiểu cầu miễn dịch [ITP],hội chứng kháng phospholipid,bệnh lupus ban đỏ hệ thống)Rối loạn chức năng tiểu cầuRối loạn chức năng tiểu cầu có thể xuất phát từ sự khiếm khuyết tại tiểu cầu hoặc từ một yếu tố bên ngoài thay đổi chức năng bình thường của tiểu cầu. Rối loạn chức năng có thể là do di truyền hoặc mắc phải. Rối loạn di truyền chức năng tiểu cầu bao gồmbệnh von Willebrand, bệnh xuất huyết di truyền phổ biến nhất vàrối loạn chức năng tiểu cầu di truyền, ít gặp hơn nhiều.Các bệnh lý mắc phải về rối loạn chức năng tiểu cầuthường do các bệnh lý (ví dụ: suy thận) cũng như doaspirinvà các thuốc khác như NSAID.Tài liệu tham khảo nguyên nhân gây bệnh1.Fogerty AE, Kuter DJ. How I Treat Thrombocytopenia in Pregnancy.BloodPublished online ngày 22 tháng 11 năm 2023 doi:10.1182/blood.2023020726
+
+--- 2. Các triệu chứng và dấu hiệu của rối loạn tiểu cầu ---
+
+Các rối loạn tiểu cầu dẫn đến một kiểu chảy máu điển hình:Nhiểu chấm xuất huyết trên da (chủ yếu ở cẳng chân).Các vết bầm máu nhỏ phân tán ở những vị trí tổn thương nhò hoặc vị trí chích tĩnh mạchXuất huyết niêm mạc (mũi họng, mũi, tiêu hóa, đường tiết niệu sinh dục)Chảy máu ồ ạt sau phẫu thuậtKinh nguyệt ra nhiềuBiểu hiện của rối loạn tiểu cầuĐốm xuất huyết trong giảm tiểu cầu miễn dịch (ITP)Được sự cho phép của nhà xuất bản. Theo Deitcher S. TrongTập ảnh về Huyết học lâm sàng. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.Ecchymoses in Immune ThrombocytopeniaĐược sự cho phép của nhà xuất bản. Theo Deitcher S. TrongTập ảnh về Huyết học lâm sàng. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.Các vết bầm máuCác vết bầm máu là những vết bầm tím lớn trên chân của bệnh nhân này.BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌCĐốm xuất huyết (vòm miệng cứng)Các đốm xuất huyết được đặc trưng bởi những chấm nhỏ màu đỏ như thấy ở đây trên vòm miệng của bệnh nhân này.BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌCĐốm xuất huyết trong giảm tiểu cầu miễn dịch (ITP)Được sự cho phép của nhà xuất bản. Theo Deitcher S. TrongTập ảnh về Huyết học lâm sàng. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.Ecchymoses in Immune ThrombocytopeniaĐược sự cho phép của nhà xuất bản. Theo Deitcher S. TrongTập ảnh về Huyết học lâm sàng. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.Các vết bầm máuCác vết bầm máu là những vết bầm tím lớn trên chân của bệnh nhân này.BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌCĐốm xuất huyết (vòm miệng cứng)Các đốm xuất huyết được đặc trưng bởi những chấm nhỏ màu đỏ như thấy ở đây trên vòm miệng của bệnh nhân này.BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌCChảy máu tiêu hóa nặng và chảy máu vào hệ thống thần kinh trung ương hiếm gặp nhưng có thể đe dọa tính mạng. Tuy nhiên, chảy máu vào các mô (ví dụ, u máu ở tạng sâu hoặc chảy máu khớp) hiếm khi xảy ra với giảm tiểu cầu, thay vào đó bệnh nhân thương có chảy máu trên bề măt ngay sau chấn thương. Chảy máu vào các mô (nếu chỉ sau chấn thương) gợi ý một rối loạn đông máu (ví dụ,bệnh hemophilia).
+
+--- 3. Chẩn đoán rối loạn tiểu cầu ---
+
+Biểu hiện lâm sàng của xuất huyết chấm ở dưới da và niêm mạc.Tổng phân tích tế bào máu ngoại vi với tiểu cầu, các xét nghiệm đông máu, tiêu bản phết máu ngoại biênĐôi khi cần chọc hút dịch tủy xươngĐôi khi kháng nguyên von Willebrand, hoạt động gắn kết tiểu cầu và các nghiên cứu đa phân tửCác rối loạn tiểu cầu được nghi ngờ ở những bệnh nhân bị xuất huyết dạng chấm ở da và niêm mạc. Tổng phân tích tế bào máu ngoại vi có số lượng tiểu cầu, các xét nghiệm đông máu và tiêu bản phết máu ngoại biên được thực hiện. Quá nhiều tiểu cầu và giảm tiểu cầu được chẩn đoán dựa trên số lượng tiểu cầu. Các nghiên cứu về đông máu là bình thường trừ khi có rối loạn đông máu đồng thời. Ở những bệnh nhân có CBC, số lượng tiểu cầu, tỷ lệ chuẩn hóa quốc tế (INR) và thời gian thromboplastin một phần (PTT) bình thường, nghi ngờ có rối loạn chức năng tiểu cầu hoặc thành mạch.Ngọc trai & cạm bẫyNghi ngờ có rối loạn tiểu cầu hoặc mạch máu ở bệnh nhân có nốt xuất huyết và/hoặc xuất huyết nhưng có số lượng tiểu cầu và kết quả đông máu bình thường.Giảm tiểu cầuXét nghiệm phiến đồ hồng cầu trong máu ngoại virất quan trọng ở những bệnh nhân bị giảm tiểu cầu vì số lượng tiểu cầu tự động đôi khi cho thấy giảm tiểu cầu giả do tiểu cầu bị vón cục do thuốc thử ethylenediaminetetraacetic acid (EDTA) có trong hầu hết các ống lấy máu. Ngoài ra, có thể thấy các mảnh vỡ hồng cầu, có thể cho biết tan máu do van timban xuất huyết giảm tiểu cầu huyết khối(TTP),hội chứng tan máu ure máu cao(HUS), hoặcđông máu nội mạc rải rác(DIC – xem bảngCác phát hiện về máu ngoại vi trong bệnh rối loạn giảm tiểu cầu).Chọc hút dịch tủy xươngthường được chỉ định nếu tiêu bản phết máu ngoại biên cho thấy những bất thường khác ngoài giảm tiểu cầu, chẳng hạn như hồng cầu ((RBC) có nhân hoặc bạch cầu (WBC) bất thường hoặc chưa trưởng thành. Dịch tủy xương cho thấy số lượng và sự xuất hiện của mẫu tiểu cầu và là xét nghiệm chính xác cho nhiều rồi loạn gây suy tủy xương. Nếu tủy xương là bình thường nhưng lách to làm tăngsự giam giữ ở láchlà nguyên nhân có thể gây giảm tiểu cầu. Nếu tủy xương bình thường và lách không to, nguyên nhân là do phá hủy quá mức tiểu cầu.Tuy nhiên, số lượng và sự xuất hiện bình thường của mẫu tiểu cầu không phải lúc nào cũng cho thấy sản xuất tiểu cầu là bình thường. Ví dụ, ở nhiều bệnh nhângiảm tiểu cầu miễn dịch(ITP), sản xuất tiểu cầu có thể bị giảm mặc dù có tăng số lượng mẫu tiểu cầu. Xét nghiệm tủy xương hiếm khi được yêu cầu ở những bệnh nhân có đặc điểm điển hình củagiảm tiểu cầu miễn dịch ITP.Tỷ lệ tiểu cầu chưa trưởng thành (IPF) trong máu ngoại vi đôi khi là một biện pháp hữu ích ở những bệnh nhân bị giảm tiểu cầu, vì nó tăng lên khi tủy xương sản sinh tiểu cầu và không tăng khi sản sinh tiểu cầu ở tủy xương giảm, tương tự như số lượng hồng cầu lưới trong bệnh thiếu máu.Đo lượng kháng thể kháng tiểu cầu có thể giúp phân biệt ITP với các nguyên nhân giảm tiểu cầu khác khi xét đến khía cạnh lâm sàng ở một số bệnh nhân(1). Xét nghiệm HIV được thực hiện ở những bệnh nhân có hoặc có nguy cơ nhiễm HIV, nhiễm viêm gan B hoặc viêm gan C, hoặc đồng nhiễm HIV và viêm gan.BảngDấu hiệu máu ngoại vi trong các rối loạn giảm tiểu cầuBảngDấu hiệu máu ngoại vi trong các rối loạn giảm tiểu cầuDấu hiệu máu ngoại vi trong các rối loạn giảm tiểu cầuHồng cầu (RBC) và bạch cầu (WBC) bình thườngGiảm tiểu cầu do thuốcGiảm tiểu cầu trong thai kỳGiảm tiểu cầu liên quan đến viêm gan CGiảm tiểu cầu liên quan đếnHIVGiảm tiểu cầu miễn dịchBan xuất huyết sau truyềnMảnh vỡ hồng cầu (tế bào biểu mô)Đông máu rải rác trong lòng mạch (DIC)Hội chứng HELLP (hemolytic anemia [tan máu],elevatedliver enzymes [tăng men gan],lowplatelets [tiểu cầu thấp])Hội chứng tan máu tăng ure máuUng thư di cănTiền sản giậtvới DICBan xuất huyết giảm tiểu cầu huyết khốiTan máu do van timNhững bất thường của bạch cầuBạch cầu đa hình tăng đoạn trong thiếu máu nguyên hồng cầu khổng lồTế bào chưa trưởng thành trong bệnh bạch cầu lympho bào hạt lớn hoặc tăng tế bào lympho trưởng thành trongbệnh bạch cầu mạn dòng lymphoGiảm đáng kể bạch cầu hạt trongthiếu máu bất sảnThường gặp các tiểu cầu khổng lồ (gần bằng kích thước của hồng cầu)Hội chứng Bernard-SoulierRối loạn liên quan đến gen myosin chuỗi nặng 9, không phải cơ (MYH9)Các giảm tiểu cầu bẩm sinh khácNhững bất thường hồng cầu, hồng cầu có nhân, bạch cầu hạt chưa chínHội chứng loạn sản tủyTiểu cầu vónGiảm tiểu cầu giảMảnh vỡ hồng cầu (Mảnh tế bào hồng cầu)Hình ảnhĐược sự cho phép của nhà xuất bản. Từ Tefferi A, Li C. TrongTập ảnh về Huyết học lâm sàng. Biên tập bởi JO Armitage. Philadelphia, Current Medicine, 2004.Nghi ngờ về rối loạn chức năng tiểu cầuỞ những bệnh nhân bị rối loạn tiểu cầu, thuốc được nghi ngờ là nguyên nhân nếu các triệu chứng chỉ bắt đầu sau khi bệnh nhân bắt đầu dùng thuốc có khả năng gây bệnh (ví dụ: aspirin, prasugrel, clopidogrel, ticagrelor, abciximab). Rối loạn chức năng tiểu cầu do thuốc gây ra có thể nặng nhưng hiếm khi cần đến các xét nghiệm chuyên biệt.Nghi ngờ nguyên nhân di truyền nếu có tiền sử dễ bầm tím, chảy máu sau khi nhổ răng, phẫu thuật, sinh đẻ hoặc cắt bao quy đầu; hay kinh nguyệt ra máu nhiều. Trong trường hợp nghi ngờ nguyên nhân di truyền, các nghiên cứu về kháng nguyên và hoạt động củayếu tố von Willebrand(VWF) và VWF được thực hiện thường xuyên.Ở những bệnh nhân nghi ngờ rối loạn chức năng di truyền, xét nghiệm kết tập tiểu cầu có thể xác định khiếm khuyết trong cách tiểu cầu phản ứng với các thuốc chủ vận tiểu cầu khác nhau (adenosinediphosphate [ADP], collagen,thrombin) và từ đó chứng minh loại khiếm khuyết tiểu cầu.Rối loạn chức năng tiểu cầu do hầu hết các rối loạn hệ thống gây ra thường ở mức độ nhẹ và ít có ý nghĩa lâm sàng; ở những bệnh nhân này, rối loạn hệ thống gây ra là mối quan tâm lâm sàng và các xét nghiệm huyết học là không cần thiết. Tuy nhiên, bệnh nhân suy thận có thể bị chảy máu đáng kể.Tài liệu tham khảo chẩn đoán1.Al-Samkari H, Rosovsky RP, Karp Leaf RS: A modern reassessment of glycoprotein-specific direct platelet autoantibody testing in immune thrombocytopenia.Blood Adv4(1):9–18, 2020. doi: 10.1182/bloodadvances.2019000868
+
+--- 4. Điều trị rối loạn tiểu cầu ---
+
+Ngừng thuốc làm suy giảm chức năng tiểu cầuChất chủ vận thụ thể của thrombopoietin (TPO-RA)Hiếm khi phải truyền khối tiểu cầuHiếm khi dùng thuốc chống tiêu fibrinỞ những bệnh nhân bị giảm tiểu cầu hoặc rối loạn chức năng tiểu cầu, không nên dùng các thuốc làm suy giảm thêm chức năng tiểu cầu, đặc biệt là aspirin và các thuốc chống viêm không steroid khác (NSAID). Những bệnh nhân đang dùng các loại thuốc này nên xem xét các lựa chọn thay thế, chẳng hạn như acetaminophen, hoặc đơn giản là ngừng sử dụng các thuốc đó.Có thểtruyền khối tiểu cầu, nhưng chỉ trong những tình huống cần thiết. Ví dụ: truyền tiểu cầu là phương pháp điều trị chính cho bệnh nhân rối loạn chức năng tiểu cầu và chảy máu đang hoạt động hoặc cho những người cần một thủ thuật xâm lấn. Hạn chế truyền khối tiểu cầu dự phòng vì ở những lần truyền tiếp theo có thể không hiệu quả do phát sinh các kháng thể kháng tiểu cầu.Nếugiảm sản sinhlà nguyên nhân gây giảm tiểu cầu, truyền máu, TPO-RA (ví dụ: romiplostim, eltrombopag, avatrombopag) hoặc thuốc chống tiêu sợi huyết (ví dụ: axit aminocaproic, axit tranexamic) được dành riêng cho những bệnh nhân có bất kỳ dấu hiệu nào sau đây:Chảy máu hoạt độngGiảm tiểu cầu nặng (ví dụ: số lượng tiểu cầu:<10.000/mcL [<10×109/L)Cần phẫu thuật xâm lấnNếu tình trạngtiêu hủy tiểu cầulà nguyên nhân gây giảm tiểu cầu, việc truyền máu sẽ được dành riêng cho các trường hợp đe dọa tính mạng, hệ thần kinh trung ương hoặc chảy máu mắt. Các lựa chọn khác bao gồm cắt lách, các thuốc ức chế miễn dịch (bao gồm corticosteroid), TPO-RA và fostamatinib (thuốc ức chế tyrosine kinase lách).

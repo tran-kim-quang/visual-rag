@@ -1,0 +1,619 @@
+TIÊU ĐỀ: Tổng quan các sự cố liên quan đến Vũ khí Khủng bố
+URL: https://www.msdmanuals.com/vi/professional/chấn-thương-ngộ-độc/chấn-thương-hàng-loạt-do-vũ-khí/tổng-quan-các-sự-cố-liên-quan-đến-vũ-khí-khủng-bố
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan các sự cố liên quan đến Vũ khí Khủng bố
+
+Theo
+
+James M. Madsen
+
+,
+
+MD, MPH
+
+,
+
+University of Florida
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v8982553_vi
+
+Tiếp cận ban đầu
+
+|
+
+Điều trị
+
+|
+
+Sự cố thương vong hàng loạt
+
+(MCIs) là những sự kiện tạo ra số lượng thương vong cao đủ để áp đảo các nguồn lực y tế hiện có. Chúng bao gồm các thảm hoạ thiên nhiên (ví dụ bão tố) và một số sự kiện cố ý và không chủ ý do con người gây ra, bao gồm thiên tai giao thông, phóng thích các chất nguy hiểm, vụ nổ và thảm sát bằng súng.
+
+Vũ khí gây thương vong hàng loạt
+
+(MCW) là vũ khí có khả năng gây ra các vụ việc gây thương vong hàng loạt (
+
+1, 2
+
+). Chúng bao gồm nhiều loại
+
+Các tác nhân sinh học (nhiễm trùng)
+
+Hóa chất
+
+Chất nổ
+
+Nguồn bức xạ
+
+Độc chất
+
+Các loại vũ khí đôi khi được gọi là CBRNE (hóa học, sinh học, phóng xạ, hạt nhân, chất nổ) hoặc NBC (hạt nhân, sinh học, hóa học). Tác động của các tác nhân MCW có thể là cục bộ (tại hoặc gần vị trí phơi nhiễm) hoặc toàn thân (do sự hấp thụ và phân bố trong tuần hoàn).
+
+Vũ khí gây thương vong hàng loạt đôi khi được gọi là vũ khí hủy diệt hàng loạt (WMD), nhưng thuật ngữ này không thích hợp vì nó có ý nghĩa phá hủy cơ sở vật chất đáng kể, chỉ xảy ra với các MCW gây nổ. Ngoài ra, mặc dù "vũ khí" chỉ việc sử dụng có mục đích (ví dụ, bởi các quốc gia đang chiến đấu hoặc khủng bố), hầu hết các MCT đều có các phần tương đương không chủ ý (ví dụ như rò rỉ chất độc hoặc chất phóng xạ, sự bùng phát bệnh truyền nhiễm, hoặc một vụ nổ công nghiệp) mà các nguyên tắc cơ bản và phản ứng là như nhau.
+
+Phơi nhiễm
+
+Phơi nhiễm
+
+là
+
+Tiếp xúc trên bề mặt biểu mô
+
+Hấp thụ
+
+có nghĩa là
+
+Thâm nhập qua hàng rào biểu mô gây ra liều nội tại
+
+Đối với các biến cố bức xạ,
+
+phơi nhiễm
+
+cũng có nghĩa là bức xạ điện từ đi qua cơ thể (gọi là chiếu xạ), có thể xảy ra mà không cần tiếp xúc vật lý với nguồn bức xạ (xem
+
+Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ. Xử trí nội khoa cấp cứu về bức xạ [REMM])
+
+. Đối với tất cả các loại MCW, nhiễm bẩn đề cập đến tác nhân có mặt trên bề mặt biểu mô (nhiễm bẩn từ bên ngoài) hoặc trong cơ thể (nhiễm bẩn bên trong). Sự nhiễm bẩn bên trong thường chỉ đề cập đến các hạt phóng xạ trong cơ thể chứ không phải là các chất MCW khác.
+
+Việc tiếp xúc với MCW có thể dễ thấy, như xảy ra với vụ nổ hoặc rò rỉ có thể nhìn thấy hoặc sự cố tràn dầu, thậm chí có thể được thông báo trước bởi một thủ phạm. Tuy nhiên, tiếp xúc với NBC có thể bị che giấu, ngay cả khi nhân viên NBC bị phân tán do vụ nổ. Do hầu hết các chất NBC không có mùi hoặc bề ngoài có thể nhận biết được và vì thường có thời gian đáng kể giữa tiếp xúc và phát triển các triệu chứng hoặc dấu hiệu, một vụ nổ có thể không được phát hiện là một sự kiện phơi nhiễm NBC cho đến một thời điểm sau đó. Sự phơi nhiễm bí mật có thể đặc biệt khó xác định hoặc phân biệt với sự bùng phát của bệnh tự nhiên. Một trường hợp ngoại lệ xảy ra khi phơi nhiễm với liều lượng cao các hóa chất nhất định (ví dụ xyanua,
+
+các chất thần kinh
+
+), có thể gây ra các hiệu ứng rõ ràng chỉ sau vài giây hoặc vài phút, đặc biệt với đường hít.
+
+Một khi đã phát tán ra môi trường, MCW có thể tồn tại dưới dạng hỗn hợp, rắn, lỏng, khí hoặc hơi (dạng khí của chất lỏng ở nhiệt độ phòng). Các hạt bụi nhỏ hoặc các giọt chất lỏng nhỏ có thể treo lơ lửng trong không khí dưới dạng hạt nước (ví dụ: khói, sương mù, sương, khói). Trạng thái của tác nhân ảnh hưởng đến sự tồn tại của nó trong môi trường và các đường tiếp xúc nguy cơ. Các chất rắn liên tục, đặc chất rắn và các chất lỏng có độ bay hơi thấp, vẫn tồn tại trong môi trường trong hơn một ngày theo các điều kiện thông thường; một số có thể tồn tại trong vài tuần. Các tác nhân không bền, điển hình là khí và chất lỏng có độ bay hơi cao, phân tán trong
+
+<
+
+24 giờ. Các hạt nước có thể lắng xuống đất trong vài phút tới vài ngày tùy thuộc vào kích thước hạt và điều kiện thời tiết nhưng sau đó vẫn có thể hoạt động như chất gây nhiễm bề mặt.
+
+Ngoài liều lượng và loại chất, con đường phơi nhiễm là yếu tố chính trong các biểu hiện lâm sàng của các vụ MCW. Các khí, hơi và các hạt có thể bị hít vào. Chất rắn và chất lỏng có thể làm nhiễm bẩn da, từ đó chúng có thể bị hấp thụ hoặc chuyển vào miệng và ăn vào. Các vật bị ô nhiễm (ví dụ như các mảnh vỡ từ vụ nổ) có thể xâm nhập vào da và do đó đưa các chất NBC vào mạch máu. Tẩy độc thường dùng để khử nhiễm bên ngoài, loại bỏ các hóa chất, chất độc, hay các chất truyền nhiễm từ các bề mặt biểu mô. Việc loại bỏ các chất phóng xạ từ bên trong cơ thể được gọi là khử nhiễm nội tạng.
+
+Tài liệu tham khảo chung
+
+1.
+
+Furlow B
+
+. Biological, chemical and radiological terrorism.
+
+Radiol Technol
+
+. 2003;75(2):91-110.
+
+2.
+
+Prockop LD
+
+. Weapons of mass destruction: Overview of the CBRNEs (Chemical, Biological, Radiological, Nuclear, and Explosives).
+
+J Neurol Sci
+
+. 2006;249(1):50-54. doi:10.1016/j.jns.2006.06.017
+
+Cách tiếp cận ban đầu đối với các sự cố thương vong hàng loạt
+
+Cách tiếp cận đến vụ MCW bao gồm
+
+Chuẩn bị
+
+Nhận diện
+
+Đánh giá ban đầu và phân loại
+
+Đánh giá bước 2
+
+Điều trị
+
+Các bước này thường trùng lặp. Nhận diện, đánh giá và điều trị có thể diễn ra đồng thời tùy thuộc vào tính chất, số lượng và mức độ nghiêm trọng của thương vong.
+
+Chuẩn bị
+
+Công tác phòng ngừa
+
+thường do các cơ quan dân sự xử lý thay vì các cơ quan y tế, giúp loại bỏ nhu cầu phải có ứng phó về y tế. Nhưng nếu phòng ngừa thất bại thì những nỗ lực chuẩn bị là rất quan trọng.
+
+Dịch vụ bệnh viện và các dịch vụ trước viện phải có kế hoạch ứng phó thảm họa cùng với các vật tư và thiết bị phù hợp để ứng phó với sự cố MCW (
+
+1
+
+). Các hoạt động phòng ngừa thảm họa bao gồm phân tích tổn thương nguy hiểm và các quy trình kích hoạt và triển khai thêm nhân viên đến các vị trí và vai trò cụ thể và phân bổ các nguồn lực (ví dụ như giường ngủ, phòng điều hành, máu). Các cung ứng và thiết bị thường bao gồm các khu vực khử nhiễm được chỉ định với hệ thống thoát nước có sẵn, lớp trải sàn và thiết bị bảo vệ để giảm thiểu sự lan truyền của ô nhiễm, và các kho dự trữ thuốc đối kháng hoặc sắp xếp chính thức để lấy chúng từ các nguồn khác. Các kế hoạch thường bao gồm yêu cầu thường xuyên diễn tập chính thức, mặc dù chỉ có một phần giống với tai nạn hàng loạt thực tế, giúp nhân viên trong quy trình làm quen với, vị trí của văn bản, vật tư và thiết bị (đặc biệt là các thiết bị để khử nhiễm).
+
+Nhận diện
+
+Phát hiện MCIs liên quan đến thuốc nổ, vũ khí và tai nạn giao thông thường đơn giản. Tuy nhiên, để phát hiên các sự vụ MCW che dấu đòi hỏi sự cảnh tỉnh lâm sàng cao của những người ứng cứu ban đầu và bác sĩ. Các nhà cung cấp dịch vụ chăm sóc sức khoẻ phải nhận diện được một sự kiện hoặc cụm bệnh tật có thể là chỉ điểm của sử dụng một MCW. Sau đó, họ phải xác định loại MCW và loại chất gây độc.
+
+Việc nhận biết sự cố MCW có thể do tình báo hoặc thông báo của thủ phạm, các manh mối về môi trường (ví dụ như động vật chết hoặc chết, mùi bất thường), hoặc các thông số theo dõi môi trường (hóa học, sinh học, hoặc bức xạ), có thể không có ở tất cả các bệnh viện. Điều duy nhất nghĩ tới có thể là nhận thấy những người một số lượng lớn những người có các triệu chứng bất thường. Tuy nhiên, các báo cáo ban đầu về nhận dạng của tác nhân hoặc các tác nhân được sử dụng trong sự cố MCW thường không đầy đủ hoặc do nhầm lẫn, và một sự cảnh giác cao về mặt lâm sàng là vô giá.
+
+Khi đánh giá thương vong, các triệu chứng và dấu hiệu đặc trưng có thể được phát hiện. Các hội chứng độc tố (chòm sao các triệu chứng và dấu hiệu đặc trưng của việc tiếp xúc với một nhóm tác nhân) tồn tại đối với một số nhóm tác nhân hóa học và độc tố (xem bảng
+
+Các hội chứng độc tố phổ biến
+
+) và rất quan trọng đối với việc nhận biết lâm sàng (
+
+2, 3
+
+). Rõ ràng cần phải phân tích các mẫu xét nghiệm lâm sàng hoặc môi trường. Tuy nhiên, chẩn đoán và điều trị ban đầu có thể cần khi chưa có kết quả xét nghiệm, đặc biệt đối với các tác nhân hóa học có thời gian tiềm ẩn ngắn.
+
+Đánh giá ban đầu và phân loại
+
+Đánh giá ban đầu và phân loại thương vong từ MCI khác với đánh giá và phân loại chấn thương thông thường (xem bảng
+
+Phân loại theo phân loại
+
+) (
+
+4, 5
+
+). Số lượng thương vong lớn trong một MCI đòi hỏi việc tiếp cận và ra quyết định ban đầu cần ngắn gọn, đặc biệt khi thương vong liên quan đến các tác nhân có thời gian tiềm ẩn ngắn. Triage có thể là một thách thức đặc biệt vì nhiều bệnh nhân bị ảnh hưởng bởi MCWs không có thương tích rõ ràng và bởi vì nhiều người tại vị trí hoặc gần vị trí MCI không tiếp xúc với tác nhân này có thể có phản ứng căng thẳng (ví dụ như tăng thông khí, lắc, buồn nôn, suy nhược) bắt chước những ảnh hưởng các tác nhân gây MCW. Trong một số sự cố, có tới 80% bệnh nhân được đưa đến bệnh viện chỉ có phản ứng căng thẳng. Việc phân biệt các tác động thuần túy về mặt tâm lý với các tác động độc hại, truyền nhiễm hoặc phóng xạ có thể rất khó khăn. Một bước đi đầu tiên để phân biệt bệnh nhân giữa những người có thể đi bộ với những người không thể đi bộ; sự khác biệt này sẽ xác định ảnh hưởng nghiêm trọng nhất. Tuy nhiên, cần phải thường xuyên tái phân loại bệnh nhân tự đi được để phát hiện những người bắt đầu xấu đi sau một gian đoạn tiềm ẩn.
+
+Bảng
+
+Phân loại giai đoạn
+
+Phân loại giai đoạn
+
+Phân loại
+
+Giải thích
+
+Phương pháp mong đợi
+
+vô mạch
+
+ngừng thở
+
+Không có khả năng tồn tại với các nguồn lực sẵn có
+
+Ngay lập tức
+
+Tổn thương hoặc ngộ độc đe dọa đến tính mạng
+
+Trì hoãn
+
+Thương tích nghiêm trọng hoặc ngộ độc nhưng không đe dọa đến tính mạng
+
+Tối thiểu
+
+thương tích hoặc ngộ độc nhỏ hoặc tự giải quyết
+
+Ngọc trai & cạm bẫy
+
+Cần thường xuyên phân loại lại các bệnh nhân cấp cứu sau một sự cố thương vong hàng loạt để phát hiện những người bắt đầu xấu đi sau một thời gian tiềm ẩn.
+
+Vùng nóng
+
+là khu vực ngay xung quanh nơi phát ra tác nhân MCW (
+
+6
+
+). Nguy cơ nhiễm các nhân viên y tế là lớn nhất trong vùng nóng, và thông thường, chỉ những nhân viên ứng phó khẩn cấp với thiết bị bảo hộ cá nhân thích hợp được phép vào khu vực này. Các thiết bị như vậy thường bao gồm thiết bị bảo vệ tác nhân gây độc TAP (TAP) mức A, cho phép trùm hoàn toàn với hệ thống thở độc lập.
+
+Các
+
+vùng ấm
+
+(hành lang khử trùng) giáp danh với vùng nóng. Trong khu vực này sẽ dùng khử nhiễm toàn thân (khử nhiễm triệt để). Nhân viên y tế có thể cần trang bị dụng cụ bảo hộ để đánh giá, phân loại và điều trị ban đầu cho người bị thương, đặc biệt là những bệnh nhân tiếp xúc với hóa chất. Loại bảo hộ này thường là bảo hộ TAP B, bao gồm mặt nạ lọc không khí.
+
+Các
+
+vùng lạnh
+
+(khu sạch) bao gồm các khoa cấp cứu của bệnh viện. Do việc khử nhiễm xảy ra ở vùng ấm, nên nhân viên y tế trong khu vực lạnh thường an toàn với các biện pháp phòng ngừa tiêu chuẩn. Tuy nhiên, các bệnh viện vẫn cần khả năng khử nhiễm vì nhiều bệnh nhân đã bỏ qua việc phân loại và khử nhiễm tại chỗ (ví dụ rời khỏi hiện trường và tự vận chuyển). Đưa bệnh nhân bị nhiễm vào khoa cấp cứu của bệnh viện sẽ thay đổi sự phân loại của nó thành một vùng ấm hoặc thậm chí là vùng nóng.
+
+Đánh giá bước 2
+
+Bởi vì thiếu thông tin chắc chắn trong giai đoạn đầu của MCI, đánh giá bước đầu của tác nhân tham gia có thể là sai hoặc không đầy đủ. Vì vậy, cần đánh giá lại một cách có hệ thống từng bệnh nhân cụ thể và tình hình chung bằng cách sử dụng một phương pháp nhanh, có khả năng tái tạo. Phương pháp như vậy nên sử dụng một tiến trình hợp lý nhằm giải quyết từng thành phần, tác nhân, môi trường và vật chủ (bệnh nhân) của bộ ba dịch tễ và xem xét (hoặc xem xét lại)
+
+(các) tác nhân có thể
+
+Tình trạng của tác nhân (các) trong môi trường
+
+Sự chuyển tác nhân vào bệnh nhân (đường vào hoặc đường tiếp xúc và hấp thu)
+
+Các tác động lâm sàng của tác nhân, bao gồm tác động tại chỗ (tại hoặc gần khu vực đi vào), toàn thân (do sự phân bố trong máu) hay cả hai
+
+Tiến trình thời gian (thời gian tiếp xúc, thời gian phơi nhiễm, thời gian tiềm ẩn, xu hướng hiện tại của các triệu chứng, và tiên lượng)
+
+Chẩn đoán phân biệt và các điều kiện hoặc tiếp xúc đồng thời
+
+Tương tác có thể xảy ra giữa các điều kiện hoặc tiếp xúc đồng thời
+
+Một từ viết tắt hữu ích để tạo điều kiện thuận lợi cho việc đánh giá thứ cấp nhanh chóng là
+
+ASBESTOS (xem bảng ASBESTOS*: Đánh giá thứ cấp về thương vong hàng loạt do vũ khí hóa học hoặc tia xạ
+
+) (
+
+7
+
+).
+
+Bảng
+
+ASBESTOS*: Đánh giá cấp 2 các vụ tai biết thảm khốc do vũ khí hóa học hoặc tia xạ
+
+Bảng
+
+ASBESTOS*: Đánh giá cấp 2 các vụ tai biết thảm khốc do vũ khí hóa học hoặc tia xạ
+
+ASBESTOS*: Đánh giá cấp 2 các vụ tai biết thảm khốc do vũ khí hóa học hoặc tia xạ
+
+Ban đầu
+
+Trong đánh giá tổn thương do vũ khí hoá học
+
+Trong đánh giá Chấn thương Vũ khí phóng xạ
+
+A
+
+Tác nhân
+
+Loại (có phải là một hội chứng độc không?)
+
+Liều ước tính
+
+Loại (alpha, beta, gamma, neutron)
+
+Liều ước tính
+
+S
+
+Trạng thái
+
+Là tác nhân
+
+Chất rắn
+
+Chất lỏng†
+
+Xì hơi
+
+Hơi†
+
+Bình xịt
+
+Sự phối hợp
+
+Giống như đối với vũ khí hóa học
+
+B
+
+Các vị trí cơ thể
+
+Các đường vào (tiếp xúc và hấp thu)
+
+Tiếp xúc (đi qua toàn thân)? Ở đâu?
+
+Ô nhiễm bên ngoài? Ở đâu?
+
+Ô nhiễm trong nhà? Ở đâu?
+
+Kết hợp?
+
+E
+
+Tác động
+
+Phân bố
+
+tại chỗ
+
+Hệ thống
+
+Cả hai
+
+Giống như đối với vũ khí hóa học
+
+S
+
+Mức độ nghiêm trọng
+
+Tác dụng
+
+Phơi nhiễm
+
+Giống như đối với vũ khí hóa học
+
+T
+
+Diễn tiến theo thời gian
+
+Quá khứ (khởi phát, giai đoạn tiềm ẩn)
+
+Hiện tại (trở nên tốt hơn hoặc tệ hơn? Ổn định?)
+
+Tương lai (tiên đoán dự kiến)
+
+Giống như đối với vũ khí hóa học
+
+O
+
+Chẩn đoán khác?
+
+Thay vì (chẩn đoán phân biệt)
+
+Ngoài (chẩn đoán bệnh đồng mắc)
+
+Giống như đối với vũ khí hóa học
+
+S
+
+Tác động cộng gộp
+
+Tác động kết hợp của nhiều lần phơi sáng
+
+Giống như đối với vũ khí hóa học
+
+* Từ viết tắt ASBESTOS được tác giả, Madsen JM, giới thiệu trong
+
+Clin Lab Med
+
+21(3):593-605, 2001.
+
+† Các tình trạng thường gặp nhất
+
+* Từ viết tắt ASBESTOS được tác giả, Madsen JM, giới thiệu trong
+
+Clin Lab Med
+
+21(3):593-605, 2001.
+
+† Các tình trạng thường gặp nhất
+
+Tài liệu tham khảo về phương pháp tiếp cận ban đầu
+
+1.
+
+Wang T-I, Chen H-T, Chang H
+
+. Hospital preparedness for weapons of mass destruction incidents: An initial assessment.
+
+Ann Diaster Med.
+
+2004;2:74-79
+
+2.
+
+Cieslak TJ, Rowe JR, Kortepeter MG, et al
+
+. A field-expedient algorithmic approach to the clinical management of chemical and biological casualties.
+
+Mil Med
+
+. 2000;165(9):659-662.
+
+3.
+
+Ciottone GR
+
+. Toxidrome Recognition in Chemical-Weapons Attacks.
+
+N Engl J Med.
+
+2018;378(17):1611-1620. doi:10.1056/NEJMra1705224
+
+4.
+
+Cone DC, Koenig KL
+
+. Mass casualty triage in the chemical, biological, radiological, or nuclear environment.
+
+Eur J Emerg Med.
+
+2005;12(6):287-302. doi:10.1097/00063110-200512000-00009
+
+5.
+
+Bazyar J, Farrokhi M, Khankeh H
+
+. Triage Systems in Mass Casualty Incidents and Disasters: A Review Study with A Worldwide Approach. Open Access
+
+Maced J Med Sci.
+
+2019;7(3):482-494. Xuất bản ngày 12 tháng 2 năm 2019. doi:10.3889/oamjms.2019.119
+
+6.
+
+Byers M, Russell M, Lockey DJ
+
+. Clinical care in the "Hot Zone".
+
+Emerg Med J
+
+2008; 25:108
+
+7.
+
+Madsen JM
+
+: Toxins as weapons of mass destruction. A comparison and contrast with biological-warfare and chemical-warfare agents.
+
+Clin Lab Med
+
+21(3):593-605, 2001.
+
+Điều trị thương tổn hàng loạt do vũ khí
+
+Điều trị ban đầu của thương vong MCW nhằm mục đích
+
+Bảo vệ nhân viên y tế
+
+Ngưng tiếp xúc với tác nhân (đưa bệnh nhân khỏi khu vực bị ô nhiễm, loại bỏ ô nhiễm từ bệnh nhân)
+
+Ổn định bệnh nhân về mặt lâm sàng
+
+Một trợ giúp hữu ích cho bộ nhớ là sử dụng ABCDD:
+
+A
+
+Đường thở,
+
+B
+
+Hô hấp,
+
+C
+
+Tuần hoàn, ngay lập tức
+
+D
+
+Thải độc, và
+
+D
+
+Thuốc. Tuy nhiên, các bước này được thực hiện gần như đồng thời hơn là tuân theo một trật tự nghiêm ngặt. Ví dụ, co thắt phế quản ở những bệnh nhân phơi nhiễm với các chất độc thần kinh có thể nặng đến mức bệnh nhân không thể thở được (B) cho đến khi dùng atropine (D), và thuốc có thể không hiệu quả nếu như các tác nhân hóa học vẫn còn tiếp xúc với bệnh nhân. Khi thực hiện các bước này, người ứng cứu với các trường hợp cấp cứu NBC, đặc biệt là do hóa chất, phải cẩn thận để tự bảo vệ mình khỏi bị phơi nhiễm (từ môi trường và trực tiếp từ thương vong) trước khi chăm sóc.
+
+Đường thở, Thở
+
+và
+
+Tuần hoàn
+
+(ABC) được đề cập theo cách tiêu chuẩn, như đã thảo luận trong
+
+Hồi sức tim phổi (CPR) ở người lớn
+
+. Các bước này thường được thực hiện trước tiên, cho dù nguyên nhân là chấn thương thể chất hay NBC. Một ngoại lệ là với một số bệnh nhân bị phơi nhiễm hóa chất (ví dụ, các chất độc thần kinh) mà ngay lập tức khử nhiễm và sử dụng thuốc giải độc có thể là cứu mạng sống (và ngăn ngừa sự phát triển hoặc cho phép điều trị hiệu quả các vấn đề về đường thở và thở). Sự ổn định lâm sàng đôi khi cần tiến hành ABC trong
+
+vùng ấm
+
+.
+
+Mức độ ưu tiên
+
+khử nhiễm
+
+thay đổi tùy theo loại tác nhân MCW và tình trạng sức khỏe của bệnh nhân (
+
+1, 2
+
+). Bệnh nhân tiếp xúc với bình xịt phân tán của các tác nhân sinh học hoặc phóng xạ (xem
+
+Phơi nhiễm và Phơi nhiễm Bức xạ: Khử nhiễm bên ngoài
+
+) thường bị ô nhiễm da và/hoặc quần áo. Bởi vì hầu hết các tác nhân như vậy không thể nhanh chóng xâm nhập vào da còn nguyên vẹn, gội đầu và tắm thường đủ để khử nhiễm; việc khử nhiễm như vậy không nên trì hoãn quá mức nhưng cũng không cần khẩn cấp với một số tác nhân hóa học nhất định. Vì một số tác nhân hoá học nhất định (ví dụ mù tạt lưu huỳnh, các chất độc thần kinh thể lỏng) bắt đầu xâm nhập vào da khi tiếp xúc và cũng có thể gây tổn thương mô ngay lập tức, bệnh nhân tiếp xúc với các chất như vậy cần phải được khử nhiễm ngay lập tức để ngăn chặn sự hấp thụ liên tục và ngăn ngừa sự lây lan của ô nhiễm sang các khu vực khác trên bệnh nhân và nhân viên y tế và cơ sở vật chất. Khử nhiễm ngay lập tức có hiệu quả nhất với chất khử nhiễm tại chỗ phản ứng thương mại có công thức đặc biệt có chứa muối kali 2,3-butanedione monoxime (DAM); bản thân DAM; dung môi của polyethylene glycol monomethyl ether (MPEG); và nước (tức là: kem dạng lỏng khử nhiễm da phản ứng [RSDL]) (
+
+3
+
+), có tác dụng vô hiệu hóa các tác nhân thần kinh và mù tạt lưu huỳnh trên da (không nên sử dụng ở mắt hoặc ở vết thương). Tuy nhiên, xà phòng và nước cũng có hiệu quả. Nước một mình ít có hiệu quả đối với hóa chất dầu nhưng vẫn nên sử dụng khi không có xà phòng. Dung dịch natri hypochlorite 0,5% (pha loãng thuốc tẩy gia dụng 5% theo tỷ lệ 1:9 của thuốc tẩy vào nước) cũng có hiệu quả nhưng không nên dùng trong mắt hoặc trong các vết thương. Trong trường hợp khẩn cấp, bất kỳ chất hấp phụ nào có sẵn (ví dụ: khăn giấy, khăn giấy, đất giàu sét, bánh mì) đều có thể được bôi lên vùng bị ảnh hưởng, chà xát mạnh trong tối đa 2 phút, sau đó loại bỏ bằng cách dội nước nhiều. Các vết thương phải được kiểm tra và tất cả các mảnh vụn bị loại bỏ; vết thương sau đó phải được làm sạch bằng nước hoặc nước muối.
+
+Thuốc
+
+để ổn định ban đầu nên được dùng khi cần thiết như đối với bất kỳ bệnh nhân không ổn định nào (
+
+4
+
+). Hầu hết các loại thuốc điều trị dứt điểm cho thương vong do MCW có thể chờ đợi cho đến khi được nhập viện. Các trường hợp ngoại lệ là điều trị sốc và điều trị các tác động cấp tính của các tác nhân hóa học như xyanua và các chất độc thần kinh. Thuốc giải độc thích hợp cho các tác nhân này nên có sẵn để sử dụng nhanh chóng trong môi trường trước viện.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Chilcott RP, Amlôt R (eds)
+
+. Primary Response Incident Scene Management (PRISM) Guidance for Chemical Incidents. Volume 1: Strategic Guidance for Mass Casualty Disrobe and Decontamination. University of Hertfordshire and Public Health England. 2015. Có trực tuyến tại https://medicalcountermeasures.gov/media/36872/prism-volume-1.pdf.
+
+2.
+
+Collins S, James T, Carter H, et al
+
+. Mass Casualty Decontamination for Chemical Incidents: Research Outcomes and Future Priorities.
+
+Int J Environ Res Public Health
+
+. 2021;18(6):3079. Đã xuất bản ngày 17 tháng 3 năm 2021. doi:10.3390/ijerph18063079
+
+3.
+
+Schwartz MD, Hurst CG, Kirk MA, et al
+
+. Reactive skin decontamination lotion (RSDL) for the decontamination of chemical warfare agent (CWA) dermal exposure.
+
+Curr Pharm Biotechnol
+
+2012; 13:1971-1979.
+
+4.
+
+Lawrence DT, Kirk MA
+
+. Chemical terrorism attacks: update on antidotes.
+
+Emerg Med Clin North Am.
+
+2007;25(2):567-95xi. doi:10.1016/j.emc.2007.02.002
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Cách tiếp cận ban đầu đối với các sự cố thương vong hàng loạt ---
+
+Cách tiếp cận đến vụ MCW bao gồmChuẩn bịNhận diệnĐánh giá ban đầu và phân loạiĐánh giá bước 2Điều trịCác bước này thường trùng lặp. Nhận diện, đánh giá và điều trị có thể diễn ra đồng thời tùy thuộc vào tính chất, số lượng và mức độ nghiêm trọng của thương vong.Chuẩn bịCông tác phòng ngừathường do các cơ quan dân sự xử lý thay vì các cơ quan y tế, giúp loại bỏ nhu cầu phải có ứng phó về y tế. Nhưng nếu phòng ngừa thất bại thì những nỗ lực chuẩn bị là rất quan trọng.Dịch vụ bệnh viện và các dịch vụ trước viện phải có kế hoạch ứng phó thảm họa cùng với các vật tư và thiết bị phù hợp để ứng phó với sự cố MCW (1). Các hoạt động phòng ngừa thảm họa bao gồm phân tích tổn thương nguy hiểm và các quy trình kích hoạt và triển khai thêm nhân viên đến các vị trí và vai trò cụ thể và phân bổ các nguồn lực (ví dụ như giường ngủ, phòng điều hành, máu). Các cung ứng và thiết bị thường bao gồm các khu vực khử nhiễm được chỉ định với hệ thống thoát nước có sẵn, lớp trải sàn và thiết bị bảo vệ để giảm thiểu sự lan truyền của ô nhiễm, và các kho dự trữ thuốc đối kháng hoặc sắp xếp chính thức để lấy chúng từ các nguồn khác. Các kế hoạch thường bao gồm yêu cầu thường xuyên diễn tập chính thức, mặc dù chỉ có một phần giống với tai nạn hàng loạt thực tế, giúp nhân viên trong quy trình làm quen với, vị trí của văn bản, vật tư và thiết bị (đặc biệt là các thiết bị để khử nhiễm).Nhận diệnPhát hiện MCIs liên quan đến thuốc nổ, vũ khí và tai nạn giao thông thường đơn giản. Tuy nhiên, để phát hiên các sự vụ MCW che dấu đòi hỏi sự cảnh tỉnh lâm sàng cao của những người ứng cứu ban đầu và bác sĩ. Các nhà cung cấp dịch vụ chăm sóc sức khoẻ phải nhận diện được một sự kiện hoặc cụm bệnh tật có thể là chỉ điểm của sử dụng một MCW. Sau đó, họ phải xác định loại MCW và loại chất gây độc.Việc nhận biết sự cố MCW có thể do tình báo hoặc thông báo của thủ phạm, các manh mối về môi trường (ví dụ như động vật chết hoặc chết, mùi bất thường), hoặc các thông số theo dõi môi trường (hóa học, sinh học, hoặc bức xạ), có thể không có ở tất cả các bệnh viện. Điều duy nhất nghĩ tới có thể là nhận thấy những người một số lượng lớn những người có các triệu chứng bất thường. Tuy nhiên, các báo cáo ban đầu về nhận dạng của tác nhân hoặc các tác nhân được sử dụng trong sự cố MCW thường không đầy đủ hoặc do nhầm lẫn, và một sự cảnh giác cao về mặt lâm sàng là vô giá.Khi đánh giá thương vong, các triệu chứng và dấu hiệu đặc trưng có thể được phát hiện. Các hội chứng độc tố (chòm sao các triệu chứng và dấu hiệu đặc trưng của việc tiếp xúc với một nhóm tác nhân) tồn tại đối với một số nhóm tác nhân hóa học và độc tố (xem bảngCác hội chứng độc tố phổ biến) và rất quan trọng đối với việc nhận biết lâm sàng (2, 3). Rõ ràng cần phải phân tích các mẫu xét nghiệm lâm sàng hoặc môi trường. Tuy nhiên, chẩn đoán và điều trị ban đầu có thể cần khi chưa có kết quả xét nghiệm, đặc biệt đối với các tác nhân hóa học có thời gian tiềm ẩn ngắn.Đánh giá ban đầu và phân loạiĐánh giá ban đầu và phân loại thương vong từ MCI khác với đánh giá và phân loại chấn thương thông thường (xem bảngPhân loại theo phân loại) (4, 5). Số lượng thương vong lớn trong một MCI đòi hỏi việc tiếp cận và ra quyết định ban đầu cần ngắn gọn, đặc biệt khi thương vong liên quan đến các tác nhân có thời gian tiềm ẩn ngắn. Triage có thể là một thách thức đặc biệt vì nhiều bệnh nhân bị ảnh hưởng bởi MCWs không có thương tích rõ ràng và bởi vì nhiều người tại vị trí hoặc gần vị trí MCI không tiếp xúc với tác nhân này có thể có phản ứng căng thẳng (ví dụ như tăng thông khí, lắc, buồn nôn, suy nhược) bắt chước những ảnh hưởng các tác nhân gây MCW. Trong một số sự cố, có tới 80% bệnh nhân được đưa đến bệnh viện chỉ có phản ứng căng thẳng. Việc phân biệt các tác động thuần túy về mặt tâm lý với các tác động độc hại, truyền nhiễm hoặc phóng xạ có thể rất khó khăn. Một bước đi đầu tiên để phân biệt bệnh nhân giữa những người có thể đi bộ với những người không thể đi bộ; sự khác biệt này sẽ xác định ảnh hưởng nghiêm trọng nhất. Tuy nhiên, cần phải thường xuyên tái phân loại bệnh nhân tự đi được để phát hiện những người bắt đầu xấu đi sau một gian đoạn tiềm ẩn.BảngPhân loại giai đoạnPhân loại giai đoạnPhân loạiGiải thíchPhương pháp mong đợivô mạchngừng thởKhông có khả năng tồn tại với các nguồn lực sẵn cóNgay lập tứcTổn thương hoặc ngộ độc đe dọa đến tính mạngTrì hoãnThương tích nghiêm trọng hoặc ngộ độc nhưng không đe dọa đến tính mạngTối thiểuthương tích hoặc ngộ độc nhỏ hoặc tự giải quyếtNgọc trai & cạm bẫyCần thường xuyên phân loại lại các bệnh nhân cấp cứu sau một sự cố thương vong hàng loạt để phát hiện những người bắt đầu xấu đi sau một thời gian tiềm ẩn.Vùng nónglà khu vực ngay xung quanh nơi phát ra tác nhân MCW (6). Nguy cơ nhiễm các nhân viên y tế là lớn nhất trong vùng nóng, và thông thường, chỉ những nhân viên ứng phó khẩn cấp với thiết bị bảo hộ cá nhân thích hợp được phép vào khu vực này. Các thiết bị như vậy thường bao gồm thiết bị bảo vệ tác nhân gây độc TAP (TAP) mức A, cho phép trùm hoàn toàn với hệ thống thở độc lập.Cácvùng ấm(hành lang khử trùng) giáp danh với vùng nóng. Trong khu vực này sẽ dùng khử nhiễm toàn thân (khử nhiễm triệt để). Nhân viên y tế có thể cần trang bị dụng cụ bảo hộ để đánh giá, phân loại và điều trị ban đầu cho người bị thương, đặc biệt là những bệnh nhân tiếp xúc với hóa chất. Loại bảo hộ này thường là bảo hộ TAP B, bao gồm mặt nạ lọc không khí.Cácvùng lạnh(khu sạch) bao gồm các khoa cấp cứu của bệnh viện. Do việc khử nhiễm xảy ra ở vùng ấm, nên nhân viên y tế trong khu vực lạnh thường an toàn với các biện pháp phòng ngừa tiêu chuẩn. Tuy nhiên, các bệnh viện vẫn cần khả năng khử nhiễm vì nhiều bệnh nhân đã bỏ qua việc phân loại và khử nhiễm tại chỗ (ví dụ rời khỏi hiện trường và tự vận chuyển). Đưa bệnh nhân bị nhiễm vào khoa cấp cứu của bệnh viện sẽ thay đổi sự phân loại của nó thành một vùng ấm hoặc thậm chí là vùng nóng.Đánh giá bước 2Bởi vì thiếu thông tin chắc chắn trong giai đoạn đầu của MCI, đánh giá bước đầu của tác nhân tham gia có thể là sai hoặc không đầy đủ. Vì vậy, cần đánh giá lại một cách có hệ thống từng bệnh nhân cụ thể và tình hình chung bằng cách sử dụng một phương pháp nhanh, có khả năng tái tạo. Phương pháp như vậy nên sử dụng một tiến trình hợp lý nhằm giải quyết từng thành phần, tác nhân, môi trường và vật chủ (bệnh nhân) của bộ ba dịch tễ và xem xét (hoặc xem xét lại)(các) tác nhân có thểTình trạng của tác nhân (các) trong môi trườngSự chuyển tác nhân vào bệnh nhân (đường vào hoặc đường tiếp xúc và hấp thu)Các tác động lâm sàng của tác nhân, bao gồm tác động tại chỗ (tại hoặc gần khu vực đi vào), toàn thân (do sự phân bố trong máu) hay cả haiTiến trình thời gian (thời gian tiếp xúc, thời gian phơi nhiễm, thời gian tiềm ẩn, xu hướng hiện tại của các triệu chứng, và tiên lượng)Chẩn đoán phân biệt và các điều kiện hoặc tiếp xúc đồng thờiTương tác có thể xảy ra giữa các điều kiện hoặc tiếp xúc đồng thờiMột từ viết tắt hữu ích để tạo điều kiện thuận lợi cho việc đánh giá thứ cấp nhanh chóng làASBESTOS (xem bảng ASBESTOS*: Đánh giá thứ cấp về thương vong hàng loạt do vũ khí hóa học hoặc tia xạ) (7).BảngASBESTOS*: Đánh giá cấp 2 các vụ tai biết thảm khốc do vũ khí hóa học hoặc tia xạBảngASBESTOS*: Đánh giá cấp 2 các vụ tai biết thảm khốc do vũ khí hóa học hoặc tia xạASBESTOS*: Đánh giá cấp 2 các vụ tai biết thảm khốc do vũ khí hóa học hoặc tia xạBan đầuTrong đánh giá tổn thương do vũ khí hoá họcTrong đánh giá Chấn thương Vũ khí phóng xạATác nhânLoại (có phải là một hội chứng độc không?)Liều ước tínhLoại (alpha, beta, gamma, neutron)Liều ước tínhSTrạng tháiLà tác nhânChất rắnChất lỏng†Xì hơiHơi†Bình xịtSự phối hợpGiống như đối với vũ khí hóa họcBCác vị trí cơ thểCác đường vào (tiếp xúc và hấp thu)Tiếp xúc (đi qua toàn thân)? Ở đâu?Ô nhiễm bên ngoài? Ở đâu?Ô nhiễm trong nhà? Ở đâu?Kết hợp?ETác độngPhân bốtại chỗHệ thốngCả haiGiống như đối với vũ khí hóa họcSMức độ nghiêm trọngTác dụngPhơi nhiễmGiống như đối với vũ khí hóa họcTDiễn tiến theo thời gianQuá khứ (khởi phát, giai đoạn tiềm ẩn)Hiện tại (trở nên tốt hơn hoặc tệ hơn? Ổn định?)Tương lai (tiên đoán dự kiến)Giống như đối với vũ khí hóa họcOChẩn đoán khác?Thay vì (chẩn đoán phân biệt)Ngoài (chẩn đoán bệnh đồng mắc)Giống như đối với vũ khí hóa họcSTác động cộng gộpTác động kết hợp của nhiều lần phơi sángGiống như đối với vũ khí hóa học* Từ viết tắt ASBESTOS được tác giả, Madsen JM, giới thiệu trongClin Lab Med21(3):593-605, 2001.† Các tình trạng thường gặp nhất* Từ viết tắt ASBESTOS được tác giả, Madsen JM, giới thiệu trongClin Lab Med21(3):593-605, 2001.† Các tình trạng thường gặp nhấtTài liệu tham khảo về phương pháp tiếp cận ban đầu1.Wang T-I, Chen H-T, Chang H. Hospital preparedness for weapons of mass destruction incidents: An initial assessment.Ann Diaster Med.2004;2:74-792.Cieslak TJ, Rowe JR, Kortepeter MG, et al. A field-expedient algorithmic approach to the clinical management of chemical and biological casualties.Mil Med. 2000;165(9):659-662.3.Ciottone GR. Toxidrome Recognition in Chemical-Weapons Attacks.N Engl J Med.2018;378(17):1611-1620. doi:10.1056/NEJMra17052244.Cone DC, Koenig KL. Mass casualty triage in the chemical, biological, radiological, or nuclear environment.Eur J Emerg Med.2005;12(6):287-302. doi:10.1097/00063110-200512000-000095.Bazyar J, Farrokhi M, Khankeh H. Triage Systems in Mass Casualty Incidents and Disasters: A Review Study with A Worldwide Approach. Open AccessMaced J Med Sci.2019;7(3):482-494. Xuất bản ngày 12 tháng 2 năm 2019. doi:10.3889/oamjms.2019.1196.Byers M, Russell M, Lockey DJ. Clinical care in the "Hot Zone".Emerg Med J2008; 25:1087.Madsen JM: Toxins as weapons of mass destruction. A comparison and contrast with biological-warfare and chemical-warfare agents.Clin Lab Med21(3):593-605, 2001.
+
+--- 2. Điều trị thương tổn hàng loạt do vũ khí ---
+
+Điều trị ban đầu của thương vong MCW nhằm mục đíchBảo vệ nhân viên y tếNgưng tiếp xúc với tác nhân (đưa bệnh nhân khỏi khu vực bị ô nhiễm, loại bỏ ô nhiễm từ bệnh nhân)Ổn định bệnh nhân về mặt lâm sàngMột trợ giúp hữu ích cho bộ nhớ là sử dụng ABCDD:AĐường thở,BHô hấp,CTuần hoàn, ngay lập tứcDThải độc, vàDThuốc. Tuy nhiên, các bước này được thực hiện gần như đồng thời hơn là tuân theo một trật tự nghiêm ngặt. Ví dụ, co thắt phế quản ở những bệnh nhân phơi nhiễm với các chất độc thần kinh có thể nặng đến mức bệnh nhân không thể thở được (B) cho đến khi dùng atropine (D), và thuốc có thể không hiệu quả nếu như các tác nhân hóa học vẫn còn tiếp xúc với bệnh nhân. Khi thực hiện các bước này, người ứng cứu với các trường hợp cấp cứu NBC, đặc biệt là do hóa chất, phải cẩn thận để tự bảo vệ mình khỏi bị phơi nhiễm (từ môi trường và trực tiếp từ thương vong) trước khi chăm sóc.Đường thở, ThởvàTuần hoàn(ABC) được đề cập theo cách tiêu chuẩn, như đã thảo luận trongHồi sức tim phổi (CPR) ở người lớn. Các bước này thường được thực hiện trước tiên, cho dù nguyên nhân là chấn thương thể chất hay NBC. Một ngoại lệ là với một số bệnh nhân bị phơi nhiễm hóa chất (ví dụ, các chất độc thần kinh) mà ngay lập tức khử nhiễm và sử dụng thuốc giải độc có thể là cứu mạng sống (và ngăn ngừa sự phát triển hoặc cho phép điều trị hiệu quả các vấn đề về đường thở và thở). Sự ổn định lâm sàng đôi khi cần tiến hành ABC trongvùng ấm.Mức độ ưu tiênkhử nhiễmthay đổi tùy theo loại tác nhân MCW và tình trạng sức khỏe của bệnh nhân (1, 2). Bệnh nhân tiếp xúc với bình xịt phân tán của các tác nhân sinh học hoặc phóng xạ (xemPhơi nhiễm và Phơi nhiễm Bức xạ: Khử nhiễm bên ngoài) thường bị ô nhiễm da và/hoặc quần áo. Bởi vì hầu hết các tác nhân như vậy không thể nhanh chóng xâm nhập vào da còn nguyên vẹn, gội đầu và tắm thường đủ để khử nhiễm; việc khử nhiễm như vậy không nên trì hoãn quá mức nhưng cũng không cần khẩn cấp với một số tác nhân hóa học nhất định. Vì một số tác nhân hoá học nhất định (ví dụ mù tạt lưu huỳnh, các chất độc thần kinh thể lỏng) bắt đầu xâm nhập vào da khi tiếp xúc và cũng có thể gây tổn thương mô ngay lập tức, bệnh nhân tiếp xúc với các chất như vậy cần phải được khử nhiễm ngay lập tức để ngăn chặn sự hấp thụ liên tục và ngăn ngừa sự lây lan của ô nhiễm sang các khu vực khác trên bệnh nhân và nhân viên y tế và cơ sở vật chất. Khử nhiễm ngay lập tức có hiệu quả nhất với chất khử nhiễm tại chỗ phản ứng thương mại có công thức đặc biệt có chứa muối kali 2,3-butanedione monoxime (DAM); bản thân DAM; dung môi của polyethylene glycol monomethyl ether (MPEG); và nước (tức là: kem dạng lỏng khử nhiễm da phản ứng [RSDL]) (3), có tác dụng vô hiệu hóa các tác nhân thần kinh và mù tạt lưu huỳnh trên da (không nên sử dụng ở mắt hoặc ở vết thương). Tuy nhiên, xà phòng và nước cũng có hiệu quả. Nước một mình ít có hiệu quả đối với hóa chất dầu nhưng vẫn nên sử dụng khi không có xà phòng. Dung dịch natri hypochlorite 0,5% (pha loãng thuốc tẩy gia dụng 5% theo tỷ lệ 1:9 của thuốc tẩy vào nước) cũng có hiệu quả nhưng không nên dùng trong mắt hoặc trong các vết thương. Trong trường hợp khẩn cấp, bất kỳ chất hấp phụ nào có sẵn (ví dụ: khăn giấy, khăn giấy, đất giàu sét, bánh mì) đều có thể được bôi lên vùng bị ảnh hưởng, chà xát mạnh trong tối đa 2 phút, sau đó loại bỏ bằng cách dội nước nhiều. Các vết thương phải được kiểm tra và tất cả các mảnh vụn bị loại bỏ; vết thương sau đó phải được làm sạch bằng nước hoặc nước muối.Thuốcđể ổn định ban đầu nên được dùng khi cần thiết như đối với bất kỳ bệnh nhân không ổn định nào (4). Hầu hết các loại thuốc điều trị dứt điểm cho thương vong do MCW có thể chờ đợi cho đến khi được nhập viện. Các trường hợp ngoại lệ là điều trị sốc và điều trị các tác động cấp tính của các tác nhân hóa học như xyanua và các chất độc thần kinh. Thuốc giải độc thích hợp cho các tác nhân này nên có sẵn để sử dụng nhanh chóng trong môi trường trước viện.Tài liệu tham khảo về điều trị1.Chilcott RP, Amlôt R (eds). Primary Response Incident Scene Management (PRISM) Guidance for Chemical Incidents. Volume 1: Strategic Guidance for Mass Casualty Disrobe and Decontamination. University of Hertfordshire and Public Health England. 2015. Có trực tuyến tại https://medicalcountermeasures.gov/media/36872/prism-volume-1.pdf.2.Collins S, James T, Carter H, et al. Mass Casualty Decontamination for Chemical Incidents: Research Outcomes and Future Priorities.Int J Environ Res Public Health. 2021;18(6):3079. Đã xuất bản ngày 17 tháng 3 năm 2021. doi:10.3390/ijerph180630793.Schwartz MD, Hurst CG, Kirk MA, et al. Reactive skin decontamination lotion (RSDL) for the decontamination of chemical warfare agent (CWA) dermal exposure.Curr Pharm Biotechnol2012; 13:1971-1979.4.Lawrence DT, Kirk MA. Chemical terrorism attacks: update on antidotes.Emerg Med Clin North Am.2007;25(2):567-95xi. doi:10.1016/j.emc.2007.02.002

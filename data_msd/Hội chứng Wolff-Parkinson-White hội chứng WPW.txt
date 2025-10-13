@@ -1,0 +1,379 @@
+TIÊU ĐỀ: Hội chứng Wolff-Parkinson-White (hội chứng WPW)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-nhịp-tim-cụ-thể/hội-chứng-wolff-parkinson-white-hội-chứng-wpw
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng Wolff-Parkinson-White (hội chứng WPW)
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v93815377_vi
+
+Hội chứng Wolff-Parkinson-White cổ điển (biểu hiện) là do kết nối nhĩ thất phụ tạo ra điện tâm đồ nguyên mẫu bao gồm khoảng PR ngắn, phức bộ QRS rộng với phần ban đầu là sóng delta và những thay đổi tái phân cực thứ phát liên quan đến nhịp nhanh trên thất vòng vào lại (cơn kịch phát) có triệu chứng. Nhịp tim nhanh trên thất vòng vào lại (kịch phát) gây ra các cơn hồi hộp đột ngột bắt đầu và kết thúc đột ngột; một số bệnh nhân bị khó thở hoặc cảm giác khó chịu ở ngực. Kết nối nhĩ thất (AV) phụ có thể tạo điều kiện cho nhịp đáp ứng thất rất nhanh đối với bất kỳ loạn nhịp trên thất nhanh nào, đặc biệt là rung nhĩ trong đó nhịp đáp ứng thất cực nhanh có thể khởi phát rung thất và tử vong đột ngột. Chẩn đoán bằng lâm sàng và ECG. Điều trị ban đầu cho nhịp tim nhanh trên thất vòng vào lại (kịch phát) thường là bằng các nghiệm pháp kích thích phó giao cảm. Nếu các nghiệm pháp này không hiệu quả, phương pháp điều trị là dùng thuốc chẹn kênh canxi adenosine hoặc nondihydropyridine đường tĩnh mạch cho nhịp QRS hẹp đều hoặc nhịp QRS rộng đều được biết là SVT vòng vào lại có dẫn truyền bất thường. Procainamide hoặc amiodarone có hiệu quả đối với nhịp không đều hoặc nhịp QRS rộng. Có thể thực hiện sốc điện chuyển nhịp đồng bộ khi thuốc không có hiệu quả hoặc huyết động không ổn định.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp
+
+và
+
+nhịp nhanh vòng vào lại nhĩ thất
+
+.)
+
+Sinh lý bệnh của hội chứng WPW
+
+Đường dẫn truyền phụ nối tâm nhĩ và tâm thất là chất nền gây ra hội chứng Wolff-Parkinson-White. Khi kết nối AV phụ dẫn truyền theo hướng thuận chiều, độ trễ của nút AV sẽ bị bỏ qua và một phần cơ tim ở tâm thất được kích hoạt trước khi phần còn lại được kích hoạt bởi hệ thống dẫn truyền bình thường. Kích thích sớm này ở tâm thất tạo ra khoảng PR ngắn (< 0,12 giây), phức bộ QRS rộng (≥ 0,12 giây) với phần ban đầu có dạng sóng delta, cùng với các triệu chứng của nhịp nhanh kịch phát, xác định hội chứng Wolff-Parkinson-White cổ điển (biểu hiện rõ ràng) (
+
+1
+
+). Hội chứng Wolff-Parkinson-White cổ điển (biểu hiện rõ ràng) xảy ra ở khoảng 1 đến 3/1000 người ([
+
+2
+
+] được lấy mẫu ở nam giới Canada).
+
+Tùy thuộc vào hướng của sóng delta, có thể có dạng giả sóng Q hoại tử. Do có một phần cơ tâm thất bị khử cực sớm, dẫn đến tái cực sớm ở phần cơ tim này, do đó có thể biểu hiện bất thường của sóng T trên điện tâm đồ.
+
+Nếu kết nối AV phụ có thể dẫn truyền theo hướng ngược chiều, kết nối đó có thể hỗ trợ một dạng nhịp tim nhanh trên thất kịch phát được gọi là nhịp tim nhanh vòng vào lại nhĩ thất thuận chiều. Kết nối AV phụ có xu hướng có thời gian trơ dài hơn ở nhịp tim cơ bản so với nút AV. Ở khoảng thời gian kết hợp khử cực nhĩ sớm ngắn hơn thời kỳ trơ của đường dẫn truyền AV phụ nhưng dài hơn thời kỳ trơ của nút AV, dẫn truyền theo đường dẫn truyền AV phụ thuận chiều bị chặn nhưng dẫn truyền nút AV thuận chiều vẫn tiếp tục. Điện tâm đồ cho thấy gia tăng đột ngột khoảng PR và mất sóng delta. Khi dẫn truyền thuận chiều qua nút AV đủ chậm, nó có thể tìm thấy kết nối AV phụ ở xa sẵn sàng để dẫn truyền, nhưng giờ đây theo hướng ngược chiều (từ tâm thất đến tâm nhĩ). Khi truyền dẫn kết nối AC phụ ngược chiều này tìm thấy tâm nhĩ và sau đó nút AV sẵn sàng dẫn truyền trở lại theo hướng thuận chiều, hiện tượng vòng vào lại nhĩ thất vòng quanh sẽ xảy ra. Điện tâm đồ sau đó cho thấy nhịp nhanh, đều. Nhịp nhanh nhĩ thất thuận chiều này là loại nhịp nhanh nhĩ thất vòng vào lại thông thường (95%) (
+
+3
+
+).
+
+Ít phổ biến hơn và thường do nhịp ngoại tâm thu thất gây ra, tình trạng vòng vào lại xảy ra theo hướng ngược lại (nhịp nhanh vòng vào lại nhĩ thất ngược chiều). Vì 5% số bệnh nhân có kết nối AV phụ có nhiều kết nối AV phụ (
+
+4
+
+), nên cũng có thể có nhịp nhanh vòng vào lại nhĩ thất kết nối AV phụ kép sử dụng một kết nối AV phụ để dẫn truyền thuận chiều và một kết nối AV phụ khác để dẫn truyền ngược chiều.
+
+Kết nối nhĩ thất phụ trong hội chứng WPW hoạt động giống như cơ tim ở tâm nhĩ, một mô kênh nhanh, thời gian trơ của nó ngắn lại khi nhịp tăng. Theo đó, nếu có nhịp trên thất nhanh, đáp ứng của tâm thất có thể không được kiểm soát bởi mức độ trơ thông thường tăng lên của nút AV vì kết nối AV phụ có thể dẫn truyền với tốc độ rất nhanh. Điều này đặc biệt liên quan đến tốc độ đáp ứng của tâm thất đối với rung nhĩ, tình trạng rung nhĩ này có thể nhanh đến mức gây rối loạn huyết động và có thể dẫn đến rung thất và tử vong đột ngột. Tử vong đột ngột có thể là biểu hiện lâm sàng đầu tiên của hội chứng WPW, đặc biệt là ở thanh thiếu niên. Ở một số bệnh nhân có kết nối AV phụ dẫn truyền theo hướng ngược chiều (và do đó có thể tham gia vào nhịp nhanh vòng vào lại nhĩ thất thuận chiều), kết nối AV phụ không dẫn truyền theo hướng thuận chiều. Những bệnh nhân này không có dạng WPW trên ECG của họ và được cho là có hội chứng WPW ẩn. Họ không có nguy cơ bị loạn nhịp trên thất dẫn truyền nhanh.
+
+Hội chứng WPW chủ yếu là tự phát, mặc dù nó phổ biến hơn ở những bệnh nhân mắc bệnh cơ tim phì đại, chuyển vị các mạch máu lớn hoặc dị tật Epstein.
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Bhatia A, Sra J, Akhtar M
+
+: Preexcitation Syndromes.
+
+Curr Probl Cardiol
+
+41(3):99–137, 2016. doi: 10.1016/j.cpcardiol.2015.11.002
+
+2.
+
+Krahn AD, Manfreda J, Tate RB, Mathewson FA, Cuddy TE
+
+: The natural history of electrocardiographic preexcitation in men. The Manitoba Follow-up Study.
+
+Ann Intern Med
+
+116(6):456–460, 21992 doi: 10.7326/0003-4819-116-6-456
+
+3.
+
+Page RL, Joglar JA, Caldwell MA, et al
+
+: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears in
+
+J Am Coll Cardiol
+
+Ngày 27 tháng 12 năm 2016;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].
+
+J Am Coll Cardiol
+
+67(13):e27–e115, 2016. doi: 10.1016/j.jacc.2015.08.856
+
+4.
+
+Kadish A, Passman R
+
+: Mechanisms and management of paroxysmal supraventricular tachycardia.
+
+Cardiol Rev
+
+7(5):254–264, 1999. doi: 10.1097/00045415-199909000-00009
+
+Dạng Wolff-Parkinson-White (WPW) cổ điển
+
+Chuyển đạo I, II, III, V
+
+3
+
+tới V
+
+6
+
+cho thấy các đặc điểm cổ điển của hội chứng WPW, với một khoảng PR ngắn và sóng delta trong nhịp xoang.
+
+Các triệu chứng và dấu hiệu của hội chứng WPW
+
+Hầu hết bệnh nhân có triệu chứng của nhịp nhanh vòng vào lại nhĩ thất ở tuổi trưởng thành hoặc trung niên. Bệnh nhân thường có những cơn đánh trống ngực khởi phát đột ngột, kết thúc đột ngột, cơn nhịp nhanh và đều, có thể đi kèm các triệu chứng khác do ảnh hưởng trên huyết động (ví dụ, khó thở, khó chịu ở ngực, chóng mặt). Cơn nhịp nhanh có thể chỉ kéo dài vài giây tới vài giờ (hiếm khi,
+
+>
+
+12 giờ). Ngất xỉu không phổ biến nhưng vẫn có thể xảy ra. Trẻ sơ sinh có thể biểu hiện thở gấp, li bì, bỏ ăn, hoặc nhịp đập nhanh vùng trước ngực. Nếu cơn nhịp tim nhanh kéo dài, trẻ sơ sinh có thể có biểu hiện
+
+suy tim
+
+.
+
+Bệnh nhân có hội chứng WPW cũng có thể bị loạn nhịp trên thất dẫn truyền nhanh như là dẫn truyền theo tỷ lệ 1:1 của cuồng động nhĩ hoặc rung nhĩ dẫn truyền nhanh trong đó các triệu chứng rối loạn huyết động, bao gồm ngất xỉu, thường gặp hơn.
+
+Rung nhĩ dẫn truyền nhanh cũng có thể gây rung thất và đột tử. Nguy cơ này thấp (khoảng 1%) nhưng có nhiều khả năng xảy ra ở tuổi vị thành niên.
+
+Giữa các cơn loạn nhịp, việc khám bệnh diễn ra bình thường.
+
+Chẩn đoán hội chứng WPW
+
+Điện tâm đồ (ECG)
+
+Chẩn đoán hội chứng WPW bằng điện tâm đồ cho thấy khoảng PR ngắn (< 0,12 giây), phức bộ QRS rộng (≥ 0,12 giây) với phần ban đầu có dạng sóng delta và các thay đổi thứ phát của sóng ST và T (xem hình
+
+Dạng Wolff-Parkinson-White (WPW) cổ điển)
+
+(
+
+1
+
+). Trong loạn nhịp phổ biến nhất ở hội chứng WPW, nhịp nhanh nhĩ thất thuận chiều, điện tâm đồ cho thấy nhịp nhanh (120 đến 250 nhịp/phút), đều đặn. Phức bộ QRS thường hẹp nhưng có thể rộng (≥ 0,12 giây) kèm theo block nhánh cùng tồn tại. Nếu phát hiện thấy sóng P nằm ở nửa đầu khoảng RR (nhịp nhanh RP ngắn), thường ở đoạn ST hoặc sóng T sớm và âm ở các chuyển đạo dưới (II, III, AVF) (xem hình
+
+Nhịp nhanh QRS hẹp: Nhịp nhanh vòng vào lại nhĩ thất thuận chiều sử dụng kết nối AV phụ trong hội chứng Wolff-Parkinson-White
+
+).
+
+Trong nhịp nhanh vòng vào lại nhĩ thất ngược chiều, điện tâm đồ cho thấy nhịp nhanh (120 đến 250 nhịp/phút), đều đặn. Phức bộ QRS rộng (≥ 0,12 giây) do tiền kích thích toàn bộ tâm thất. Khi kết nối AV phụ hoạt động như một kết nối ngoài cuộc dẫn truyền loạn nhịp trên thất, các phức bộ QRS có thể biểu hiện tình trạng tiền kích thích thất hoàn toàn, tình trạng tiền kích thích thất không liên tục xen kẽ với các phức bộ QRS hẹp dẫn truyền bình thường và/hoặc các mức độ hợp nhất khác nhau của các phức bộ QRS của tình trạng tiền kích thích thất hoàn toàn và các phức bộ QRS dẫn truyền bình thường.
+
+Dẫn truyền rung nhĩ qua kết nối AV phụ trong hội chứng WPW có thể rất nguy hiểm nếu dẫn truyền thuận chiều diễn ra rất nhanh. Các dấu hiệu cho thấy có rung nhĩ tiền kích thích bao gồm loạn nhịp phức bộ QRS rất nhanh, rộng là chủ yếu, thỉnh thoảng xuất hiện phức bộ QRS hẹp không phải do khoảng RR kéo dài. Hình thái phức bộ QRS có thể khác nhau, nhưng tất cả các phức bộ QRS đều là sự kết hợp giữa phức bộ QRS rộng nhất và phức bộ QRS hẹp bình thường. Trong rung nhĩ tiền kích thích, các tác động giới hạn nhịp bình thường của nút AV bị bỏ qua và nhịp thất quá mức kết quả (đôi khi là 200 đến 300 nhịp/phút) có thể dẫn đến
+
+rung thất
+
+(
+
+2
+
+). Các yếu tố nguy cơ gây rung thất trong hội chứng WPW bao gồm tuổi trẻ, tập thể dục, tiền sử loạn nhịp nhanh, nhiều kết nối AV phụ, có thuốc làm giảm dẫn truyền thần kinh (đặc biệt là digitalis) và khoảng RR tối thiểu trong rung nhĩ tiền kích thích ≤ 0,25 giây (
+
+2
+
+). Ước tính nguy cơ bị rung nhĩ ở bệnh nhân bị hội chứng WPW là 1,5%/năm và tử vong đột ngột là 0,1%/năm (
+
+3
+
+).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Brugada J, Katritsis DG, Arbelo E, et al
+
+: 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC).
+
+Eur Heart J
+
+41(5):655-720, 2020. doi: 10.1093/eurheartj/ehz467
+
+2.
+
+Klein GJ, Bashore TM, Sellers TD, Pritchett EL, Smith WM, Gallagher JJ
+
+: Ventricular fibrillation in the Wolff-Parkinson-White syndrome.
+
+N Engl J Med
+
+301(20):1080–1085, 1979. doi: 10.1056/NEJM197911153012003
+
+3.
+
+Brugada J, Keegan R
+
+: Asymptomatic Ventricular Pre-excitation: Between Sudden Cardiac Death and Catheter Ablation.
+
+Arrhythm Electrophysiol Rev
+
+7(1):32–38, 2018. doi: 10.15420/aer.2017.51
+
+Điều trị hội chứng WPW
+
+Cấp tính: điều trị loạn nhịp tim có biểu hiện
+
+Dài hạn: điều trị bằng thuốc chống loạn nhịp lâu dài để ngăn ngừa loạn nhịp hoặc triệt đốt kết nối AV phụ
+
+Cấp tính
+
+Khi bệnh nhân có hội chứng WPW có biểu hiện nhịp tim nhanh, đều và phức bộ QRS hẹp, cơ chế gây nhịp nhanh hầu như luôn là nhịp nhanh vòng vào lại nhĩ thất thuận chiều và có thể được điều trị như bất kỳ nhịp nhanh phức bộ QRS hẹp và đều nào khác (xem
+
+Nhịp nhanh vòng vào lại (kịch phát) trên thất (PSVT)
+
+). Nghiệm pháp phế vị được thử thực hiện đầu tiên.
+
+Nếu bệnh nhân không ổn định về mặt huyết động hoặc không đáp ứng với các điều trị nội khoa khác, thì sẽ sử dụng phương pháp sốc điện chuyển nhịp DC đồng bộ. Đối với những bệnh nhân ổn định về huyết động, adenosine đường tĩnh mạch được ưu tiên hơn. Nếu không đáp ứng với adenosine đường tĩnh mạch, hướng dẫn của Hoa Kỳ khuyến nghị dùng nhóm IIb như là thuốc chẹn beta đường tĩnh mạch, diltiazem đường tĩnh mạch hoặc verapamil đường tĩnh mạch (
+
+1
+
+). Khuyến nghị nhóm IIb này dành cho những bệnh nhân có hội chứng WPW đã biết (thay vì khuyến nghị nhóm IIa trong trường hợp các nguyên nhân khác gây PSVT) thừa nhận khả năng hiếm gặp là PSVT sẽ kết thúc bằng rung nhĩ tiền kích thích với nhịp đáp ứng thất nhanh hơn do có một trong những loại thuốc này. Ngoài ra, thực hiện sốc điện chuyển nhịp DC đồng bộ.
+
+Khi một bệnh nhân có hội chứng WPW bị nhịp nhanh phức bộ QRS nhanh, đều, rộng, khả năng bao gồm nhịp nhanh vòng vào lại nhĩ thất thuận chiều kèm theo block nhánh, nhịp nhanh vòng vào lại nhĩ thất ngược chiều, nhịp nhanh nhĩ thất kết nối phụ kép, kết nối nhĩ thất phụ của một loạn nhịp trên thất khác (nhịp nhanh nhĩ, cuồng động nhĩ hoặc nhịp nhanh vòng vào lại nút nhĩ thất) hoặc nhịp nhanh thất. Sốc điện chuyển nhịp đồng bộ được sử dụng nếu có bất ổn định huyết động. Nếu nghiệm pháp ổn định và nghiệm pháp phế vị không thành công, nên điều trị bằng procainamide đường tĩnh mạch, amiodarone đường tĩnh mạch hoặc sốc điện chuyển nhịp đồng bộ (
+
+1
+
+).
+
+Khi bệnh nhân có hội chứng WPW cổ điển (biểu hiện rõ ràng) có biểu hiện rung nhĩ, ít nhất một số phức bộ QRS được dự kiến ​​sẽ biểu hiện tình trạng tiền kích thích tâm thất. Khi hầu hết hoặc tất cả các phức bộ QRS cho thấy tiền kích thích tâm thất, nhịp đáp ứng thất có thể rất nhanh. Nếu huyết động không ổn định, sốc điện chuyển nhịp DC đồng bộ được sử dụng. Nếu huyết động ổn định, nên dùng ibutilide đường tĩnh mạch, procainamide đường tĩnh mạch hoặc sốc điện chuyển nhịp DC đồng bộ (
+
+1
+
+).
+
+Điều trị dài hạn
+
+Điều trị dài hạn cho những bệnh nhân có tiền sử loạn nhịp tim nhanh liên quan đến hội chứng WPW (hoặc các triệu chứng gợi ý rõ ràng về hội chứng này) là triệt đốt qua ống thông các kết nối AV phụ (
+
+1
+
+). Một phân tích tổng hợp về triệt đốt trong hội chứng WPW báo cáo tỷ lệ thành công là 94%, tỷ lệ tái phát là 6% (thường được điều trị bằng cách triệt đốt lại) và tỷ lệ biến chứng liên quan đến thủ thuật là 1% (
+
+2
+
+). Nếu không thể thực hiện triệt đốt hoặc nếu bệnh nhân từ chối triệt đốt, điều trị nội khoa có thể được thực hiện bằng hầu hết các loại thuốc chống loạn nhịp đường uống khác ngoài digoxin. Khuyến nghị nhóm IIa được đưa ra đối với flecainide đường uống hoặc propafenone đường uống khi không có bệnh cấu trúc tim (
+
+1
+
+). Các khuyến nghị nhóm IIb được đưa ra đối với dofetilide đường uống, sotalol đường uống và amiodarone đường uống (
+
+1
+
+). Mặc dù khuyến nghị nhóm IIb được đưa ra đối với thuốc chẹn beta đường uống (đặc biệt hữu ích nếu các triệu chứng xuất hiện khi tập thể dục), diltiazem đường uống hoặc verapamil đường uống, vẫn có ít khả năng là các loại thuốc này có thể gây hại nếu rung nhĩ xảy ra.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Page RL, Joglar JA, Caldwell MA, et al
+
+: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears in
+
+J Am Coll Cardiol
+
+Ngày 27 tháng 12 năm 2016;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].
+
+J Am Coll Cardiol
+
+Ngày 5 tháng 4 năm 2016;67(13):e27–e115, 2016. doi: 10.1016/j.jacc.2015.08.856
+
+2.
+
+Ibrahim Ali Sherdia AF, Abdelaal SA, Hasan MT, et al
+
+: The success rate of radiofrequency catheter ablation in Wolff-Parkinson-White-Syndrome patients: A systematic review and meta-analysis.
+
+Indian Heart J
+
+75(2):98–107, 2023. doi: 10.1016/j.ihj.2023.02.001
+
+Những điểm chính
+
+Hội chứng Wolff-Parkinson-White (WPW) được đặc trưng bởi khoảng PR ngắn, phức bộ QRS rộng với phần ban đầu bị mờ (sóng delta) và những thay đổi về tái phân cực thứ phát liên quan đến nhịp tim nhanh trên thất vòng vào lại (cơn kịch phát) có triệu chứng.
+
+Các đợt nhịp nhanh trên thất vòng vào lại làm cơ sở cho các triệu chứng đánh trống ngực, đau ngực và đôi khi ngất. Ở những bệnh nhân có hội chứng WPW bị rung nhĩ, tỷ lệ đáp ứng thất quá nhanh có thể dẫn đến rung thất và đột tử.
+
+Điều trị ở giai đoạn cấp tính của nhịp tim nhanh liên quan đến WPW ở những bệnh nhân không ổn định là bằng phương pháp sốc điện chuyển nhịp DC đồng bộ; điều trị cho những bệnh nhân ổn định có nhịp tim nhanh phức bộ QRS hẹp, đều là dùng adenosine đường tĩnh mạch hoặc thuốc chống loạn nhịp đường tiêm truyền.
+
+Điều trị dài hạn bằng cách triệt đốt đường dẫn truyền phụ qua ống thông; có thể sử dụng thuốc chống loạn nhịp đường uống nếu không thể thực hiện triệt đốt.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của hội chứng WPW ---
+
+Đường dẫn truyền phụ nối tâm nhĩ và tâm thất là chất nền gây ra hội chứng Wolff-Parkinson-White. Khi kết nối AV phụ dẫn truyền theo hướng thuận chiều, độ trễ của nút AV sẽ bị bỏ qua và một phần cơ tim ở tâm thất được kích hoạt trước khi phần còn lại được kích hoạt bởi hệ thống dẫn truyền bình thường. Kích thích sớm này ở tâm thất tạo ra khoảng PR ngắn (< 0,12 giây), phức bộ QRS rộng (≥ 0,12 giây) với phần ban đầu có dạng sóng delta, cùng với các triệu chứng của nhịp nhanh kịch phát, xác định hội chứng Wolff-Parkinson-White cổ điển (biểu hiện rõ ràng) (1). Hội chứng Wolff-Parkinson-White cổ điển (biểu hiện rõ ràng) xảy ra ở khoảng 1 đến 3/1000 người ([2] được lấy mẫu ở nam giới Canada).Tùy thuộc vào hướng của sóng delta, có thể có dạng giả sóng Q hoại tử. Do có một phần cơ tâm thất bị khử cực sớm, dẫn đến tái cực sớm ở phần cơ tim này, do đó có thể biểu hiện bất thường của sóng T trên điện tâm đồ.Nếu kết nối AV phụ có thể dẫn truyền theo hướng ngược chiều, kết nối đó có thể hỗ trợ một dạng nhịp tim nhanh trên thất kịch phát được gọi là nhịp tim nhanh vòng vào lại nhĩ thất thuận chiều. Kết nối AV phụ có xu hướng có thời gian trơ dài hơn ở nhịp tim cơ bản so với nút AV. Ở khoảng thời gian kết hợp khử cực nhĩ sớm ngắn hơn thời kỳ trơ của đường dẫn truyền AV phụ nhưng dài hơn thời kỳ trơ của nút AV, dẫn truyền theo đường dẫn truyền AV phụ thuận chiều bị chặn nhưng dẫn truyền nút AV thuận chiều vẫn tiếp tục. Điện tâm đồ cho thấy gia tăng đột ngột khoảng PR và mất sóng delta. Khi dẫn truyền thuận chiều qua nút AV đủ chậm, nó có thể tìm thấy kết nối AV phụ ở xa sẵn sàng để dẫn truyền, nhưng giờ đây theo hướng ngược chiều (từ tâm thất đến tâm nhĩ). Khi truyền dẫn kết nối AC phụ ngược chiều này tìm thấy tâm nhĩ và sau đó nút AV sẵn sàng dẫn truyền trở lại theo hướng thuận chiều, hiện tượng vòng vào lại nhĩ thất vòng quanh sẽ xảy ra. Điện tâm đồ sau đó cho thấy nhịp nhanh, đều. Nhịp nhanh nhĩ thất thuận chiều này là loại nhịp nhanh nhĩ thất vòng vào lại thông thường (95%) (3).Ít phổ biến hơn và thường do nhịp ngoại tâm thu thất gây ra, tình trạng vòng vào lại xảy ra theo hướng ngược lại (nhịp nhanh vòng vào lại nhĩ thất ngược chiều). Vì 5% số bệnh nhân có kết nối AV phụ có nhiều kết nối AV phụ (4), nên cũng có thể có nhịp nhanh vòng vào lại nhĩ thất kết nối AV phụ kép sử dụng một kết nối AV phụ để dẫn truyền thuận chiều và một kết nối AV phụ khác để dẫn truyền ngược chiều.Kết nối nhĩ thất phụ trong hội chứng WPW hoạt động giống như cơ tim ở tâm nhĩ, một mô kênh nhanh, thời gian trơ của nó ngắn lại khi nhịp tăng. Theo đó, nếu có nhịp trên thất nhanh, đáp ứng của tâm thất có thể không được kiểm soát bởi mức độ trơ thông thường tăng lên của nút AV vì kết nối AV phụ có thể dẫn truyền với tốc độ rất nhanh. Điều này đặc biệt liên quan đến tốc độ đáp ứng của tâm thất đối với rung nhĩ, tình trạng rung nhĩ này có thể nhanh đến mức gây rối loạn huyết động và có thể dẫn đến rung thất và tử vong đột ngột. Tử vong đột ngột có thể là biểu hiện lâm sàng đầu tiên của hội chứng WPW, đặc biệt là ở thanh thiếu niên. Ở một số bệnh nhân có kết nối AV phụ dẫn truyền theo hướng ngược chiều (và do đó có thể tham gia vào nhịp nhanh vòng vào lại nhĩ thất thuận chiều), kết nối AV phụ không dẫn truyền theo hướng thuận chiều. Những bệnh nhân này không có dạng WPW trên ECG của họ và được cho là có hội chứng WPW ẩn. Họ không có nguy cơ bị loạn nhịp trên thất dẫn truyền nhanh.Hội chứng WPW chủ yếu là tự phát, mặc dù nó phổ biến hơn ở những bệnh nhân mắc bệnh cơ tim phì đại, chuyển vị các mạch máu lớn hoặc dị tật Epstein.Tài liệu tham khảo sinh bệnh học1.Bhatia A, Sra J, Akhtar M: Preexcitation Syndromes.Curr Probl Cardiol41(3):99–137, 2016. doi: 10.1016/j.cpcardiol.2015.11.0022.Krahn AD, Manfreda J, Tate RB, Mathewson FA, Cuddy TE: The natural history of electrocardiographic preexcitation in men. The Manitoba Follow-up Study.Ann Intern Med116(6):456–460, 21992 doi: 10.7326/0003-4819-116-6-4563.Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inJ Am Coll CardiolNgày 27 tháng 12 năm 2016;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].J Am Coll Cardiol67(13):e27–e115, 2016. doi: 10.1016/j.jacc.2015.08.8564.Kadish A, Passman R: Mechanisms and management of paroxysmal supraventricular tachycardia.Cardiol Rev7(5):254–264, 1999. doi: 10.1097/00045415-199909000-00009Dạng Wolff-Parkinson-White (WPW) cổ điểnChuyển đạo I, II, III, V3tới V6cho thấy các đặc điểm cổ điển của hội chứng WPW, với một khoảng PR ngắn và sóng delta trong nhịp xoang.
+
+--- 2. Các triệu chứng và dấu hiệu của hội chứng WPW ---
+
+Hầu hết bệnh nhân có triệu chứng của nhịp nhanh vòng vào lại nhĩ thất ở tuổi trưởng thành hoặc trung niên. Bệnh nhân thường có những cơn đánh trống ngực khởi phát đột ngột, kết thúc đột ngột, cơn nhịp nhanh và đều, có thể đi kèm các triệu chứng khác do ảnh hưởng trên huyết động (ví dụ, khó thở, khó chịu ở ngực, chóng mặt). Cơn nhịp nhanh có thể chỉ kéo dài vài giây tới vài giờ (hiếm khi,>12 giờ). Ngất xỉu không phổ biến nhưng vẫn có thể xảy ra. Trẻ sơ sinh có thể biểu hiện thở gấp, li bì, bỏ ăn, hoặc nhịp đập nhanh vùng trước ngực. Nếu cơn nhịp tim nhanh kéo dài, trẻ sơ sinh có thể có biểu hiệnsuy tim.Bệnh nhân có hội chứng WPW cũng có thể bị loạn nhịp trên thất dẫn truyền nhanh như là dẫn truyền theo tỷ lệ 1:1 của cuồng động nhĩ hoặc rung nhĩ dẫn truyền nhanh trong đó các triệu chứng rối loạn huyết động, bao gồm ngất xỉu, thường gặp hơn.Rung nhĩ dẫn truyền nhanh cũng có thể gây rung thất và đột tử. Nguy cơ này thấp (khoảng 1%) nhưng có nhiều khả năng xảy ra ở tuổi vị thành niên.Giữa các cơn loạn nhịp, việc khám bệnh diễn ra bình thường.
+
+--- 3. Chẩn đoán hội chứng WPW ---
+
+Điện tâm đồ (ECG)Chẩn đoán hội chứng WPW bằng điện tâm đồ cho thấy khoảng PR ngắn (< 0,12 giây), phức bộ QRS rộng (≥ 0,12 giây) với phần ban đầu có dạng sóng delta và các thay đổi thứ phát của sóng ST và T (xem hìnhDạng Wolff-Parkinson-White (WPW) cổ điển)(1). Trong loạn nhịp phổ biến nhất ở hội chứng WPW, nhịp nhanh nhĩ thất thuận chiều, điện tâm đồ cho thấy nhịp nhanh (120 đến 250 nhịp/phút), đều đặn. Phức bộ QRS thường hẹp nhưng có thể rộng (≥ 0,12 giây) kèm theo block nhánh cùng tồn tại. Nếu phát hiện thấy sóng P nằm ở nửa đầu khoảng RR (nhịp nhanh RP ngắn), thường ở đoạn ST hoặc sóng T sớm và âm ở các chuyển đạo dưới (II, III, AVF) (xem hìnhNhịp nhanh QRS hẹp: Nhịp nhanh vòng vào lại nhĩ thất thuận chiều sử dụng kết nối AV phụ trong hội chứng Wolff-Parkinson-White).Trong nhịp nhanh vòng vào lại nhĩ thất ngược chiều, điện tâm đồ cho thấy nhịp nhanh (120 đến 250 nhịp/phút), đều đặn. Phức bộ QRS rộng (≥ 0,12 giây) do tiền kích thích toàn bộ tâm thất. Khi kết nối AV phụ hoạt động như một kết nối ngoài cuộc dẫn truyền loạn nhịp trên thất, các phức bộ QRS có thể biểu hiện tình trạng tiền kích thích thất hoàn toàn, tình trạng tiền kích thích thất không liên tục xen kẽ với các phức bộ QRS hẹp dẫn truyền bình thường và/hoặc các mức độ hợp nhất khác nhau của các phức bộ QRS của tình trạng tiền kích thích thất hoàn toàn và các phức bộ QRS dẫn truyền bình thường.Dẫn truyền rung nhĩ qua kết nối AV phụ trong hội chứng WPW có thể rất nguy hiểm nếu dẫn truyền thuận chiều diễn ra rất nhanh. Các dấu hiệu cho thấy có rung nhĩ tiền kích thích bao gồm loạn nhịp phức bộ QRS rất nhanh, rộng là chủ yếu, thỉnh thoảng xuất hiện phức bộ QRS hẹp không phải do khoảng RR kéo dài. Hình thái phức bộ QRS có thể khác nhau, nhưng tất cả các phức bộ QRS đều là sự kết hợp giữa phức bộ QRS rộng nhất và phức bộ QRS hẹp bình thường. Trong rung nhĩ tiền kích thích, các tác động giới hạn nhịp bình thường của nút AV bị bỏ qua và nhịp thất quá mức kết quả (đôi khi là 200 đến 300 nhịp/phút) có thể dẫn đếnrung thất(2). Các yếu tố nguy cơ gây rung thất trong hội chứng WPW bao gồm tuổi trẻ, tập thể dục, tiền sử loạn nhịp nhanh, nhiều kết nối AV phụ, có thuốc làm giảm dẫn truyền thần kinh (đặc biệt là digitalis) và khoảng RR tối thiểu trong rung nhĩ tiền kích thích ≤ 0,25 giây (2). Ước tính nguy cơ bị rung nhĩ ở bệnh nhân bị hội chứng WPW là 1,5%/năm và tử vong đột ngột là 0,1%/năm (3).Tài liệu tham khảo chẩn đoán1.Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC).Eur Heart J41(5):655-720, 2020. doi: 10.1093/eurheartj/ehz4672.Klein GJ, Bashore TM, Sellers TD, Pritchett EL, Smith WM, Gallagher JJ: Ventricular fibrillation in the Wolff-Parkinson-White syndrome.N Engl J Med301(20):1080–1085, 1979. doi: 10.1056/NEJM1979111530120033.Brugada J, Keegan R: Asymptomatic Ventricular Pre-excitation: Between Sudden Cardiac Death and Catheter Ablation.Arrhythm Electrophysiol Rev7(1):32–38, 2018. doi: 10.15420/aer.2017.51
+
+--- 4. Điều trị hội chứng WPW ---
+
+Cấp tính: điều trị loạn nhịp tim có biểu hiệnDài hạn: điều trị bằng thuốc chống loạn nhịp lâu dài để ngăn ngừa loạn nhịp hoặc triệt đốt kết nối AV phụCấp tínhKhi bệnh nhân có hội chứng WPW có biểu hiện nhịp tim nhanh, đều và phức bộ QRS hẹp, cơ chế gây nhịp nhanh hầu như luôn là nhịp nhanh vòng vào lại nhĩ thất thuận chiều và có thể được điều trị như bất kỳ nhịp nhanh phức bộ QRS hẹp và đều nào khác (xemNhịp nhanh vòng vào lại (kịch phát) trên thất (PSVT)). Nghiệm pháp phế vị được thử thực hiện đầu tiên.Nếu bệnh nhân không ổn định về mặt huyết động hoặc không đáp ứng với các điều trị nội khoa khác, thì sẽ sử dụng phương pháp sốc điện chuyển nhịp DC đồng bộ. Đối với những bệnh nhân ổn định về huyết động, adenosine đường tĩnh mạch được ưu tiên hơn. Nếu không đáp ứng với adenosine đường tĩnh mạch, hướng dẫn của Hoa Kỳ khuyến nghị dùng nhóm IIb như là thuốc chẹn beta đường tĩnh mạch, diltiazem đường tĩnh mạch hoặc verapamil đường tĩnh mạch (1). Khuyến nghị nhóm IIb này dành cho những bệnh nhân có hội chứng WPW đã biết (thay vì khuyến nghị nhóm IIa trong trường hợp các nguyên nhân khác gây PSVT) thừa nhận khả năng hiếm gặp là PSVT sẽ kết thúc bằng rung nhĩ tiền kích thích với nhịp đáp ứng thất nhanh hơn do có một trong những loại thuốc này. Ngoài ra, thực hiện sốc điện chuyển nhịp DC đồng bộ.Khi một bệnh nhân có hội chứng WPW bị nhịp nhanh phức bộ QRS nhanh, đều, rộng, khả năng bao gồm nhịp nhanh vòng vào lại nhĩ thất thuận chiều kèm theo block nhánh, nhịp nhanh vòng vào lại nhĩ thất ngược chiều, nhịp nhanh nhĩ thất kết nối phụ kép, kết nối nhĩ thất phụ của một loạn nhịp trên thất khác (nhịp nhanh nhĩ, cuồng động nhĩ hoặc nhịp nhanh vòng vào lại nút nhĩ thất) hoặc nhịp nhanh thất. Sốc điện chuyển nhịp đồng bộ được sử dụng nếu có bất ổn định huyết động. Nếu nghiệm pháp ổn định và nghiệm pháp phế vị không thành công, nên điều trị bằng procainamide đường tĩnh mạch, amiodarone đường tĩnh mạch hoặc sốc điện chuyển nhịp đồng bộ (1).Khi bệnh nhân có hội chứng WPW cổ điển (biểu hiện rõ ràng) có biểu hiện rung nhĩ, ít nhất một số phức bộ QRS được dự kiến ​​sẽ biểu hiện tình trạng tiền kích thích tâm thất. Khi hầu hết hoặc tất cả các phức bộ QRS cho thấy tiền kích thích tâm thất, nhịp đáp ứng thất có thể rất nhanh. Nếu huyết động không ổn định, sốc điện chuyển nhịp DC đồng bộ được sử dụng. Nếu huyết động ổn định, nên dùng ibutilide đường tĩnh mạch, procainamide đường tĩnh mạch hoặc sốc điện chuyển nhịp DC đồng bộ (1).Điều trị dài hạnĐiều trị dài hạn cho những bệnh nhân có tiền sử loạn nhịp tim nhanh liên quan đến hội chứng WPW (hoặc các triệu chứng gợi ý rõ ràng về hội chứng này) là triệt đốt qua ống thông các kết nối AV phụ (1). Một phân tích tổng hợp về triệt đốt trong hội chứng WPW báo cáo tỷ lệ thành công là 94%, tỷ lệ tái phát là 6% (thường được điều trị bằng cách triệt đốt lại) và tỷ lệ biến chứng liên quan đến thủ thuật là 1% (2). Nếu không thể thực hiện triệt đốt hoặc nếu bệnh nhân từ chối triệt đốt, điều trị nội khoa có thể được thực hiện bằng hầu hết các loại thuốc chống loạn nhịp đường uống khác ngoài digoxin. Khuyến nghị nhóm IIa được đưa ra đối với flecainide đường uống hoặc propafenone đường uống khi không có bệnh cấu trúc tim (1). Các khuyến nghị nhóm IIb được đưa ra đối với dofetilide đường uống, sotalol đường uống và amiodarone đường uống (1). Mặc dù khuyến nghị nhóm IIb được đưa ra đối với thuốc chẹn beta đường uống (đặc biệt hữu ích nếu các triệu chứng xuất hiện khi tập thể dục), diltiazem đường uống hoặc verapamil đường uống, vẫn có ít khả năng là các loại thuốc này có thể gây hại nếu rung nhĩ xảy ra.Tài liệu tham khảo về điều trị1.Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inJ Am Coll CardiolNgày 27 tháng 12 năm 2016;68(25):2922-2923. doi: 10.1016/j.jacc.2016.11.014].J Am Coll CardiolNgày 5 tháng 4 năm 2016;67(13):e27–e115, 2016. doi: 10.1016/j.jacc.2015.08.8562.Ibrahim Ali Sherdia AF, Abdelaal SA, Hasan MT, et al: The success rate of radiofrequency catheter ablation in Wolff-Parkinson-White-Syndrome patients: A systematic review and meta-analysis.Indian Heart J75(2):98–107, 2023. doi: 10.1016/j.ihj.2023.02.001
+
+--- 5. Những điểm chính ---
+
+Hội chứng Wolff-Parkinson-White (WPW) được đặc trưng bởi khoảng PR ngắn, phức bộ QRS rộng với phần ban đầu bị mờ (sóng delta) và những thay đổi về tái phân cực thứ phát liên quan đến nhịp tim nhanh trên thất vòng vào lại (cơn kịch phát) có triệu chứng.Các đợt nhịp nhanh trên thất vòng vào lại làm cơ sở cho các triệu chứng đánh trống ngực, đau ngực và đôi khi ngất. Ở những bệnh nhân có hội chứng WPW bị rung nhĩ, tỷ lệ đáp ứng thất quá nhanh có thể dẫn đến rung thất và đột tử.Điều trị ở giai đoạn cấp tính của nhịp tim nhanh liên quan đến WPW ở những bệnh nhân không ổn định là bằng phương pháp sốc điện chuyển nhịp DC đồng bộ; điều trị cho những bệnh nhân ổn định có nhịp tim nhanh phức bộ QRS hẹp, đều là dùng adenosine đường tĩnh mạch hoặc thuốc chống loạn nhịp đường tiêm truyền.Điều trị dài hạn bằng cách triệt đốt đường dẫn truyền phụ qua ống thông; có thể sử dụng thuốc chống loạn nhịp đường uống nếu không thể thực hiện triệt đốt.

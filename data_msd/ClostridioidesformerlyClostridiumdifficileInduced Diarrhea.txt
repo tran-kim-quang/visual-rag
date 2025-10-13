@@ -1,0 +1,571 @@
+TIÊU ĐỀ: Clostridioides(formerlyClostridium)difficile–Induced Diarrhea
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-kỵ-khí/clostridioides-formerly-clostridium-difficile-induced-diarrhea
+================================================================================
+
+NỘI DUNG:
+
+Clostridioides
+
+(formerly
+
+Clostridium
+
+)
+
+difficile
+
+–Induced Diarrhea
+
+(Viêm đại tràng giả mạc)
+
+Theo
+
+Larry M. Bush
+
+,
+
+MD, FACP
+
+,
+
+Charles E. Schmidt College of Medicine, Florida Atlantic University;
+
+Maria T. Vazquez-Pertejo
+
+,
+
+MD, FACP
+
+,
+
+Wellington Regional Medical Center
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2023
+
+|
+
+đã sửa đổi
+
+Thg 12 2023
+
+v1009955_vi
+
+Độc tố được sản sinh bởi các chủng
+
+Clostridioides difficile
+
+trong đường tiêu hóa gây ra viêm đại tràng giả mạc, điển hình là sau khi sử dụng kháng sinh. Các triệu chứng là tiêu chảy, đôi khi có máu, hiếm khi tiến triển thành megacolon độc, thủng đại tràng, nhiễm trùng huyết và bụng cấp tính. Chẩn đoán bằng cách xác định độc tố
+
+C. difficile
+
+trong phân. Điều trị bước đầu là uống
+
+vancomycin
+
+hoặc
+
+fidaxomicin
+
+.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Tổng quan về vi khuẩn kỵ khí
+
+và
+
+Tổng quan về Nhiễm trùng Clostridial
+
+.)
+
+C. difficile
+
+là nguyên nhân phổ biến nhất gây viêm đại tràng liên quan đến kháng sinh và là nhiễm trùng bệnh viện điển hình nhưng các trường hợp mắc bệnh cộng đồng đang ngày càng gia tăng. Tiêu chảy do
+
+C. difficile
+
+.
+
+Các yếu tố nguy cơ tiêu chảy do
+
+C. difficile
+
+bao gồm
+
+Tuổi cao
+
+Thời gian nằm viện kéo dài
+
+Sống trong nhà dưỡng lão
+
+Bệnh lý nền nặng
+
+Sử dụng chất ức chế bơm proton và thuốc chẹn H2
+
+4 đến 15% người trưởng thành khỏe mạnh, lên đến 21% người lớn nhập viện và 15 đến 30% cư dân trong các cơ sở chăm sóc dài hạn mang
+
+C. difficile
+
+mà không có triệu chứng
+
+1
+
+). Nó phổ biến trong môi trường (ví dụ: đất, nước, vật nuôi trong nhà). Bệnh có thể do sự phát triển quá mức của
+
+C. difficile
+
+nội sinh trong ruột hoặc do nhiễm trùng từ nguồn bên ngoài. Nhân viên y tế thường là nguồn lây truyền bệnh.
+
+Gần đây, một chủng virut nguy hiểm hơn, BI/NAP1/027(North American pulsed-field type 1 [NAP1]/ribotype 027) đang nổi bật trong các trường hợp bùng phát ở bệnh viện. Chủng vi khuẩn này tạo ra độc tố nhiều hơn, gây bệnh nặng hơn và có nguy cơ tái phát cao hơn, dễ truyền bệnh hơn và không đáp ứng với điều trị kháng sinh hơn.
+
+Tài liệu tham khảo
+
+1.
+
+Kelly CR, Fischer M, Allegretti JR, et al
+
+: ACG Clinical Guidelines: Prevention, diagnosis, and treatment of
+
+Clostridioides difficile
+
+infections.
+
+Am J Gastroenterol
+
+116(6):1124–1147, 2021 doi: 10.14309/ajg.0000000000001278.
+
+Clarification and additional information
+
+.
+
+Am J Gastroenterol
+
+117(2):358, 2022.
+
+Sinh bệnh học của
+
+tiêu chảy do Clostridioides difficile
+
+Sự thay đổi hệ vi khuẩn chí của đường tiêu hóa do kháng sinh là một yếu tố tiên lượng tiềm tàng. Mặc dù hầu hết các kháng sinh đều có liên quan đến bệnh nhưng những yếu tố sau đây có nguy cơ cao nhất:
+
+Cephalosporin (đặc biệt là thế hệ thứ 3)
+
+Penicillins (đặc biệt ampicillin và amoxicillin)
+
+Clindamycin
+
+Fluoroquinolone
+
+Viêm đại tràng do
+
+C. difficile
+
+gây ra cũng có thể xảy ra sau khi sử dụng một số loại thuốc chống ung thư.
+
+Sinh vật này tiết ra cả độc tố ruột và độc tố tế bào, thường được gọi là độc tố A và B. Tuy nhiên, không phải tất cả các chủng
+
+C. difficile
+
+đều tạo ra độc tố và một số người là người mang các chủng sản sinh độc tố không có triệu chứng. Hậu quả chính độc tố là trên đại tràng, bài tiết dịch và tạo thành các giả mạc đặc trưng - các mảng vàng trắng riêng rẽ có thể dễ dàng bị rời ra Mảng bám có thể kết hợp lại trong các trường hợp nặng. Mảng bám có thể kết hợp lại trong các trường hợp nặng.
+
+Bệnh phình đại tràng nhiễm độc, hiếm khi phát sinh, có nhiều khả năng xảy ra hơn sau khi sử dụng thuốc chống nhu động. Phân tán mô rất hạn chế, cũng như nhiễm khuẩn huyết và bụng cấp tính. Viêm khớp phản ứng hiếm khi xảy ra sau khi tiêu chảy do
+
+C. difficile
+
+.
+
+Các triệu chứng và dấu hiệu của tiêu chảy do
+
+Clostridioides difficile
+
+Triệu chứng của tiêu chảy do
+
+C. difficile
+
+C.difficile thường bắt đầu từ 5 đến 10 ngày sau khi bắt đầu dùng kháng sinh nhưng có thể xảy ra vào ngày đầu tiên hoặc tối đa 2 tháng sau. Tiêu chảy có thể nhẹ và bán lỏng, thường xuyên và có nước, hoặc đôi khi có máu. Chuột rút hoặc đau là phổ biến, nhưng buồn nôn và nôn là hiếm. Bụng có thể hơi mềm.
+
+Bệnh nhân bị viêm đại tràng tối cấp, được đặc trưng bởi tình trạng viêm cấp tính nặng của đại tràng và nhiễm độc toàn thân, đau nhiều hơn và có vẻ rất mệt mỏi, nhịp tim nhanh, chướng bụng và ấn đau. Nếu thủng đại tràng xảy ra, có dấu hiệu cảm ứng phúc mạc.
+
+Chẩn đoán tiêu chảy do
+
+Clostridioides difficile
+
+Xét nghiệm phân cho kháng nguyên glutamate dehydrogenase (GDH) và
+
+C. difficile
+
+toxin và PCR cho gen độc tố
+
+Đôi khi soi đại tràng sigma
+
+C. difficile
+
+Nên nghi ngờ tiêu chảy do Clostridium difficile gây ra ở bất kỳ bệnh nhân nào bị tiêu chảy trong vòng 2 tháng sử dụng kháng sinh hoặc 72 giờ nhập viện.
+
+Kháng nguyên glutamate dehydrogenase (GDH) được sản xuất bởi tất cả
+
+C. difficile
+
+chủng. Xét nghiệm miễn dịch liên kết enzyme (ELISA) đối với kháng nguyên là nhạy và có thể được thực hiện rất nhanh. Tuy nhiên, xét nghiệm dương tính chỉ ra sự hiện diện của vi khuẩn chứ không phải là độc tính (
+
+1
+
+).
+
+Xét nghiệm độc tố bằng ELISA cũng có thể được thực hiện nhanh chóng và rất đặc hiệu đối với bệnh đang hoạt động nhưng không đặc biệt nhạy, do đó có một số lượng đáng kể kết quả âm tính giả.
+
+Một
+
+xét nghiệm khuếch đại acid nucleic
+
+(NAAT) sử dụng PCR để kiểm tra gen độc tố rất nhạy cảm đối với các chủng độc tố nhưng không thể biết được liệu chúng có đang sản sinh ra độc tố hay không. Xét nghiệm này thường duy trì kết quả dương tính sau khi điều trị thành công, do đó có thể khó diễn giải ở bệnh nhân đã biết trước đó.
+
+Do khả năng mang gen bệnh, xét nghiệm thường chỉ được thực hiện trên những bệnh nhân có triệu chứng (tức là những người có nhiều phân lỏng). Do các đặc tính của xét nghiệm, một vài hoặc tất cả các xét nghiệm này thường được thực hiện, theo trình tự hoặc cùng một lúc. Một chiến lược là đầu tiên làm xét nghiệm GDH và độc tố. Nếu những điều này là phù hợp (tức là cả hai dương tính hoặc cả hai âm tính), thì bệnh được coi là xác nhận hoặc loại trừ. Kết quả xét nghiệm không phù hợp (nghĩa là một dương tính, một âm tính) được giải quyết dựa trên kết quả xét nghiệm NAAT (
+
+1
+
+).
+
+Một mẫu phân duy nhất thường là đủ. Nếu mẫu đầu tiên âm tính, không nên gửi các mẫu lặp lại trong vòng tối thiểu 7 ngày trừ khi có thay đổi lâm sàng và mức độ nghi ngờ cao. Bạch cầu trong phân thường có mặt nhưng không đặc hiệu.
+
+Nội soi đại tràng sigma, có thể khẳng định sự hiện diện của giả mạc, nên được tiến hành nếu bệnh nhân bị tắc ruột hoặc nếu xét nghiệm độc tố không chẩn đoán được.
+
+X-quang bụng, CT, hoặc cả hai đều được thực hiện nếu nghi ngờ có viêm đại tràng tối cấp, thủng, hoặc megacolon.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Kelly CR, Fischer M, Allegretti JR, et al
+
+: ACG Clinical Guidelines: Prevention, diagnosis, and treatment of
+
+Clostridioides difficile
+
+infections.
+
+Am J Gastroenterol
+
+116(6):1124–1147, 2021 doi: 10.14309/ajg.0000000000001278.
+
+Clarification and additional information
+
+.
+
+Am J Gastroenterol
+
+117(2):358, 2022.
+
+Điều trị tiêu chảy do
+
+Clostridioides difficile
+
+Vancomycin
+
+đường uống hoặc
+
+fidaxomicin
+
+đường uống
+
+Vancomycin
+
+đường uống hoặc
+
+fidaxomicin
+
+đường uống được khuyến cáo bởi Hiệp hội Tiêu hóa Hoa Kỳ (
+
+1
+
+) để điều trị đợt cấp đầu tiên của tiêu chảy không nặng do
+
+C. difficile
+
+gây ra.
+
+Fidaxomicin 200 mg, đường uống, 12 tiếng một lần, trong 10 ngày được Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA) và Hiệp hội Dịch tễ học Y tế Hoa Kỳ (SHEA) khuyến nghị là liệu pháp bước đầu đối với nhiễm
+
+C. difficile
+
+(
+
+2
+
+).
+
+Fidaxomicin
+
+làm giảm nguy cơ tái phát nhiều hơn
+
+vancomycin
+
+. Vancomycin 125 mg uống 4 lần/ngày trong 10 ngày là một lựa chọn thay thế (
+
+2
+
+).
+
+Metronidazole
+
+không còn được khuyến nghị là liệu pháp bước đầu cho tiêu chảy do
+
+C. difficile
+
+gây ra. Tuy nhiên,
+
+metronidazole
+
+đường uống có thể được sử dụng nếu không có sẵn
+
+vancomycin
+
+hoặc
+
+fidaxomicin
+
+.
+
+Vancomycin 500 mg đường uống hoặc qua ống thông mũi dạ dày 4 lần/ngày và metronidazole 500 mg theo đường tĩnh mạch 8 tiếng một lần được ISDA/SHEA khuyến nghị cho bệnh tối cấp mà không có tắc ruột.
+
+Nếu có tắc ruột, có thể dùng thuốc xổ giữ lại với liều vancomycin 500 mg trong 10 mL nước muối sinh lý cho mỗi lần dùng thuốc ở trực tràng 4 lần một ngày (
+
+1
+
+).
+
+Nếu bệnh có thể do sử dụng kháng sinh gây ra, cần dừng kháng sinh càng sớm càng tốt hoặc chuyển bệnh nhân sang phác đồ ít có kháng sinh có khả năng gây ra tiêu chảy do
+
+C. difficile
+
+.
+
+Nhựa Cholestyramine, men
+
+Saccharomyces boulardii
+
+và men vi sinh không được chứng minh là có lợi nhưng thường được thêm vào.
+
+Nitazoxanide dường như tương đương với
+
+vancomycin
+
+đường uống nhưng không được sử dụng phổ biến ở Hoa Kỳ.
+
+Một vài bệnh nhân cần phải phẫu thuật cắt đoạn ruột để điều trị.
+
+Điều trị tái phát
+
+C. difficile
+
+Tiêu chảy do Clostridium difficile tái phát ở khoảng 15 đến 20% bệnh nhân, điển hình trong vòng vài tuần sau khi ngừng điều trị. Tái phát thường là kết quả của việc tái nhiễm (với cùng chủng hoặc khác chủng), nhưng một số trường hợp có thể liên quan đến bào tử dai dẳng từ lần nhiễm ban đầu. Đối với những bệnh nhân bị nhiễm trùng tái phát, các hướng dẫn của ISDA đề xuất fidaxomicin (phác đồ điều trị tiêu chuẩn hoặc kéo dài) hơn là một liệu trình
+
+vancomycin
+
+tiêu chuẩn. Vancomycin trong phác đồ điều trị giảm dần và theo liều cao hoặc theo liệu trình tiêu chuẩn là những lựa chọn thay thế cho lần tái phát đầu tiên. Đối với những bệnh nhân bị tái phát nhiều lần,
+
+vancomycin
+
+theo phác đồ giảm dần và theo liều cao, vancomycin sau rifaximin và cấy ghép hệ vi sinh vật trong phân là những lựa chọn bổ sung cho
+
+fidaxomicin
+
+(
+
+2
+
+).
+
+Truyền phân của người hiến tặng (ghép phân, thường được thực hiện qua nội soi) làm tăng khả năng khỏi bệnh ở những bệnh nhân tái phát thường xuyên; có lẽ cơ chế này là sự phục hồi
+
+hệ vi sinh vật trong phân
+
+bình thường. Khoảng 200-300 mL phân của người cho được sử dụng; những người tình nguyện được kiểm tra các mầm bệnh đường ruột và hệ thống. Phân có thể được truyền bằng cách sử dụng sonde dạ dày tá tràng, qua soi đại tràng hoặc thụt, hình thức tối ưu vẫn chưa được xác định.
+
+Viên nang cấy ghép vi sinh vật trong phân qua đường uống và hỗn dịch vi sinh vật trong phân để dùng qua đường trực tràng hiện có sẵn trên thị trường. Có thể dùng dạng viên nang này vài ngày sau khi điều trị bằng kháng sinh đối với nhiễm
+
+C. difficile
+
+tái phát để ngăn ngừa tái phát.
+
+Một kháng thể đơn dòng của người, bezlotoxumab 10 mg/kg theo đường tĩnh mạch một lần, liên kết và vô hiệu hóa độc tố B của
+
+C. difficile
+
+; nó có thể được sử dụng để ngăn ngừa tiêu chảy tái phát do
+
+C. difficile
+
+cùng với điều trị theo điều trị tiêu chuẩn ở những bệnh nhân bị tái phát trong vòng 6 tháng qua.
+
+Ngăn ngừa lây lan
+
+Các biện pháp kiểm soát nhiễm khuẩn là cần thiết để giảm sự lây lan của
+
+C. difficile
+
+giữa các bệnh nhân và nhân viên y tế.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Kelly CR, Fischer M, Allegretti JR, et al
+
+: ACG Clinical Guidelines: Prevention, diagnosis, and treatment of
+
+Clostridioides difficile
+
+infections.
+
+Am J Gastroenterol
+
+116(6):1124–1147, 2021 doi: 10.14309/ajg.0000000000001278.
+
+Clarification and additional information
+
+.
+
+Am J Gastroenterol
+
+117(2):358, 2022.
+
+2.
+
+Johnson S, Lavergne V, Skinner AM, et al
+
+: Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused update guidelines on management of
+
+Clostridioides difficile
+
+infection in adults.
+
+Clin Infect Dis
+
+73(5):e1029–e1044, 2021 doi: 10.1093/cid/ciab549
+
+Những điểm chính
+
+Điều trị kháng sinh có thể làm tăng sự phát triển của độc tố ruột tiết ra bởi
+
+C. difficile
+
+Clostridium difficile, dẫn đến viêm đại tràng giả mạc, bệnh có thể nặng và khó chữa khỏi.
+
+Cephalosporin (đặc biệt là thế hệ 3), penicillin, clindamycin, và fluoroquinolones gây ra nguy cơ cao nhất.
+
+Chẩn đoán bằng cách xét nghiệm độc tố và kháng nguyên
+
+C. difficile
+
+trong phân, đôi khi sử dụng PCR cho gen sinh độc tố.
+
+Điều trị bằng fidaxomicin hoặc vancomycin đường uống.
+
+Tái phát là phổ biến; điều trị lại bằng kháng sinh và xem xét cấy ghép phân hoặc bezlotoxumab cho các đợt tái phát dai dẳng.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+American College of Gastroenterology (ACG):
+
+ACG Clinical Guidelines: Prevention, diagnosis, and treatment of Clostridioides difficile infections
+
+(2021)
+
+Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA):
+
+Clinical practice guideline: 2021 Focused update guidelines on management of Clostridioides difficile infection in adults
+
+(2021)
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Viêm đại tràng giả mạc) ---
+
+TheoLarry M. Bush,MD, FACP,Charles E. Schmidt College of Medicine, Florida Atlantic University;Maria T. Vazquez-Pertejo,MD, FACP,Wellington Regional Medical CenterXem xét bởiBrenda L. Tesini,MD,University of Rochester School of Medicine and DentistryĐã xem xét/Đã chỉnh sửaThg 6 2023|đã sửa đổiThg 12 2023v1009955_vi
+
+--- 2. Sinh bệnh học củatiêu chảy do Clostridioides difficile ---
+
+Sự thay đổi hệ vi khuẩn chí của đường tiêu hóa do kháng sinh là một yếu tố tiên lượng tiềm tàng. Mặc dù hầu hết các kháng sinh đều có liên quan đến bệnh nhưng những yếu tố sau đây có nguy cơ cao nhất:Cephalosporin (đặc biệt là thế hệ thứ 3)Penicillins (đặc biệt ampicillin và amoxicillin)ClindamycinFluoroquinoloneViêm đại tràng doC. difficilegây ra cũng có thể xảy ra sau khi sử dụng một số loại thuốc chống ung thư.Sinh vật này tiết ra cả độc tố ruột và độc tố tế bào, thường được gọi là độc tố A và B. Tuy nhiên, không phải tất cả các chủngC. difficileđều tạo ra độc tố và một số người là người mang các chủng sản sinh độc tố không có triệu chứng. Hậu quả chính độc tố là trên đại tràng, bài tiết dịch và tạo thành các giả mạc đặc trưng - các mảng vàng trắng riêng rẽ có thể dễ dàng bị rời ra Mảng bám có thể kết hợp lại trong các trường hợp nặng. Mảng bám có thể kết hợp lại trong các trường hợp nặng.Bệnh phình đại tràng nhiễm độc, hiếm khi phát sinh, có nhiều khả năng xảy ra hơn sau khi sử dụng thuốc chống nhu động. Phân tán mô rất hạn chế, cũng như nhiễm khuẩn huyết và bụng cấp tính. Viêm khớp phản ứng hiếm khi xảy ra sau khi tiêu chảy doC. difficile.
+
+--- 3. Các triệu chứng và dấu hiệu của tiêu chảy doClostridioides difficile ---
+
+Triệu chứng của tiêu chảy doC. difficileC.difficile thường bắt đầu từ 5 đến 10 ngày sau khi bắt đầu dùng kháng sinh nhưng có thể xảy ra vào ngày đầu tiên hoặc tối đa 2 tháng sau. Tiêu chảy có thể nhẹ và bán lỏng, thường xuyên và có nước, hoặc đôi khi có máu. Chuột rút hoặc đau là phổ biến, nhưng buồn nôn và nôn là hiếm. Bụng có thể hơi mềm.Bệnh nhân bị viêm đại tràng tối cấp, được đặc trưng bởi tình trạng viêm cấp tính nặng của đại tràng và nhiễm độc toàn thân, đau nhiều hơn và có vẻ rất mệt mỏi, nhịp tim nhanh, chướng bụng và ấn đau. Nếu thủng đại tràng xảy ra, có dấu hiệu cảm ứng phúc mạc.
+
+--- 4. Chẩn đoán tiêu chảy doClostridioides difficile ---
+
+Xét nghiệm phân cho kháng nguyên glutamate dehydrogenase (GDH) vàC. difficiletoxin và PCR cho gen độc tốĐôi khi soi đại tràng sigmaC. difficileNên nghi ngờ tiêu chảy do Clostridium difficile gây ra ở bất kỳ bệnh nhân nào bị tiêu chảy trong vòng 2 tháng sử dụng kháng sinh hoặc 72 giờ nhập viện.Kháng nguyên glutamate dehydrogenase (GDH) được sản xuất bởi tất cảC. difficilechủng. Xét nghiệm miễn dịch liên kết enzyme (ELISA) đối với kháng nguyên là nhạy và có thể được thực hiện rất nhanh. Tuy nhiên, xét nghiệm dương tính chỉ ra sự hiện diện của vi khuẩn chứ không phải là độc tính (1).Xét nghiệm độc tố bằng ELISA cũng có thể được thực hiện nhanh chóng và rất đặc hiệu đối với bệnh đang hoạt động nhưng không đặc biệt nhạy, do đó có một số lượng đáng kể kết quả âm tính giả.Mộtxét nghiệm khuếch đại acid nucleic(NAAT) sử dụng PCR để kiểm tra gen độc tố rất nhạy cảm đối với các chủng độc tố nhưng không thể biết được liệu chúng có đang sản sinh ra độc tố hay không. Xét nghiệm này thường duy trì kết quả dương tính sau khi điều trị thành công, do đó có thể khó diễn giải ở bệnh nhân đã biết trước đó.Do khả năng mang gen bệnh, xét nghiệm thường chỉ được thực hiện trên những bệnh nhân có triệu chứng (tức là những người có nhiều phân lỏng). Do các đặc tính của xét nghiệm, một vài hoặc tất cả các xét nghiệm này thường được thực hiện, theo trình tự hoặc cùng một lúc. Một chiến lược là đầu tiên làm xét nghiệm GDH và độc tố. Nếu những điều này là phù hợp (tức là cả hai dương tính hoặc cả hai âm tính), thì bệnh được coi là xác nhận hoặc loại trừ. Kết quả xét nghiệm không phù hợp (nghĩa là một dương tính, một âm tính) được giải quyết dựa trên kết quả xét nghiệm NAAT (1).Một mẫu phân duy nhất thường là đủ. Nếu mẫu đầu tiên âm tính, không nên gửi các mẫu lặp lại trong vòng tối thiểu 7 ngày trừ khi có thay đổi lâm sàng và mức độ nghi ngờ cao. Bạch cầu trong phân thường có mặt nhưng không đặc hiệu.Nội soi đại tràng sigma, có thể khẳng định sự hiện diện của giả mạc, nên được tiến hành nếu bệnh nhân bị tắc ruột hoặc nếu xét nghiệm độc tố không chẩn đoán được.X-quang bụng, CT, hoặc cả hai đều được thực hiện nếu nghi ngờ có viêm đại tràng tối cấp, thủng, hoặc megacolon.Tài liệu tham khảo chẩn đoán1.Kelly CR, Fischer M, Allegretti JR, et al: ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol116(6):1124–1147, 2021 doi: 10.14309/ajg.0000000000001278.Clarification and additional information.Am J Gastroenterol117(2):358, 2022.
+
+--- 5. Điều trị tiêu chảy doClostridioides difficile ---
+
+Vancomycinđường uống hoặcfidaxomicinđường uốngVancomycinđường uống hoặcfidaxomicinđường uống được khuyến cáo bởi Hiệp hội Tiêu hóa Hoa Kỳ (1) để điều trị đợt cấp đầu tiên của tiêu chảy không nặng doC. difficilegây ra.Fidaxomicin 200 mg, đường uống, 12 tiếng một lần, trong 10 ngày được Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA) và Hiệp hội Dịch tễ học Y tế Hoa Kỳ (SHEA) khuyến nghị là liệu pháp bước đầu đối với nhiễmC. difficile(2).Fidaxomicinlàm giảm nguy cơ tái phát nhiều hơnvancomycin. Vancomycin 125 mg uống 4 lần/ngày trong 10 ngày là một lựa chọn thay thế (2).Metronidazolekhông còn được khuyến nghị là liệu pháp bước đầu cho tiêu chảy doC. difficilegây ra. Tuy nhiên,metronidazoleđường uống có thể được sử dụng nếu không có sẵnvancomycinhoặcfidaxomicin.Vancomycin 500 mg đường uống hoặc qua ống thông mũi dạ dày 4 lần/ngày và metronidazole 500 mg theo đường tĩnh mạch 8 tiếng một lần được ISDA/SHEA khuyến nghị cho bệnh tối cấp mà không có tắc ruột.Nếu có tắc ruột, có thể dùng thuốc xổ giữ lại với liều vancomycin 500 mg trong 10 mL nước muối sinh lý cho mỗi lần dùng thuốc ở trực tràng 4 lần một ngày (1).Nếu bệnh có thể do sử dụng kháng sinh gây ra, cần dừng kháng sinh càng sớm càng tốt hoặc chuyển bệnh nhân sang phác đồ ít có kháng sinh có khả năng gây ra tiêu chảy doC. difficile.Nhựa Cholestyramine, menSaccharomyces boulardiivà men vi sinh không được chứng minh là có lợi nhưng thường được thêm vào.Nitazoxanide dường như tương đương vớivancomycinđường uống nhưng không được sử dụng phổ biến ở Hoa Kỳ.Một vài bệnh nhân cần phải phẫu thuật cắt đoạn ruột để điều trị.Điều trị tái phátC. difficileTiêu chảy do Clostridium difficile tái phát ở khoảng 15 đến 20% bệnh nhân, điển hình trong vòng vài tuần sau khi ngừng điều trị. Tái phát thường là kết quả của việc tái nhiễm (với cùng chủng hoặc khác chủng), nhưng một số trường hợp có thể liên quan đến bào tử dai dẳng từ lần nhiễm ban đầu. Đối với những bệnh nhân bị nhiễm trùng tái phát, các hướng dẫn của ISDA đề xuất fidaxomicin (phác đồ điều trị tiêu chuẩn hoặc kéo dài) hơn là một liệu trìnhvancomycintiêu chuẩn. Vancomycin trong phác đồ điều trị giảm dần và theo liều cao hoặc theo liệu trình tiêu chuẩn là những lựa chọn thay thế cho lần tái phát đầu tiên. Đối với những bệnh nhân bị tái phát nhiều lần,vancomycintheo phác đồ giảm dần và theo liều cao, vancomycin sau rifaximin và cấy ghép hệ vi sinh vật trong phân là những lựa chọn bổ sung chofidaxomicin(2).Truyền phân của người hiến tặng (ghép phân, thường được thực hiện qua nội soi) làm tăng khả năng khỏi bệnh ở những bệnh nhân tái phát thường xuyên; có lẽ cơ chế này là sự phục hồihệ vi sinh vật trong phânbình thường. Khoảng 200-300 mL phân của người cho được sử dụng; những người tình nguyện được kiểm tra các mầm bệnh đường ruột và hệ thống. Phân có thể được truyền bằng cách sử dụng sonde dạ dày tá tràng, qua soi đại tràng hoặc thụt, hình thức tối ưu vẫn chưa được xác định.Viên nang cấy ghép vi sinh vật trong phân qua đường uống và hỗn dịch vi sinh vật trong phân để dùng qua đường trực tràng hiện có sẵn trên thị trường. Có thể dùng dạng viên nang này vài ngày sau khi điều trị bằng kháng sinh đối với nhiễmC. difficiletái phát để ngăn ngừa tái phát.Một kháng thể đơn dòng của người, bezlotoxumab 10 mg/kg theo đường tĩnh mạch một lần, liên kết và vô hiệu hóa độc tố B củaC. difficile; nó có thể được sử dụng để ngăn ngừa tiêu chảy tái phát doC. difficilecùng với điều trị theo điều trị tiêu chuẩn ở những bệnh nhân bị tái phát trong vòng 6 tháng qua.Ngăn ngừa lây lanCác biện pháp kiểm soát nhiễm khuẩn là cần thiết để giảm sự lây lan củaC. difficilegiữa các bệnh nhân và nhân viên y tế.Tài liệu tham khảo về điều trị1.Kelly CR, Fischer M, Allegretti JR, et al: ACG Clinical Guidelines: Prevention, diagnosis, and treatment ofClostridioides difficileinfections.Am J Gastroenterol116(6):1124–1147, 2021 doi: 10.14309/ajg.0000000000001278.Clarification and additional information.Am J Gastroenterol117(2):358, 2022.2.Johnson S, Lavergne V, Skinner AM, et al: Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused update guidelines on management ofClostridioides difficileinfection in adults.Clin Infect Dis73(5):e1029–e1044, 2021 doi: 10.1093/cid/ciab549
+
+--- 6. Những điểm chính ---
+
+Điều trị kháng sinh có thể làm tăng sự phát triển của độc tố ruột tiết ra bởiC. difficileClostridium difficile, dẫn đến viêm đại tràng giả mạc, bệnh có thể nặng và khó chữa khỏi.Cephalosporin (đặc biệt là thế hệ 3), penicillin, clindamycin, và fluoroquinolones gây ra nguy cơ cao nhất.Chẩn đoán bằng cách xét nghiệm độc tố và kháng nguyênC. difficiletrong phân, đôi khi sử dụng PCR cho gen sinh độc tố.Điều trị bằng fidaxomicin hoặc vancomycin đường uống.Tái phát là phổ biến; điều trị lại bằng kháng sinh và xem xét cấy ghép phân hoặc bezlotoxumab cho các đợt tái phát dai dẳng.
+
+--- 7. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.American College of Gastroenterology (ACG):ACG Clinical Guidelines: Prevention, diagnosis, and treatment of Clostridioides difficile infections(2021)Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA):Clinical practice guideline: 2021 Focused update guidelines on management of Clostridioides difficile infection in adults(2021)

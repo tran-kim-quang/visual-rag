@@ -1,0 +1,271 @@
+TIÊU ĐỀ: Tổng quan về di truyền học
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/nguyên-lý-cơ-bản-của-di-truyền-y-học/tổng-quan-về-di-truyền-học
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về di truyền học
+
+Theo
+
+Quasar S. Padiath
+
+,
+
+MBBS, PhD
+
+,
+
+University of Pittsburgh
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1123197_vi
+
+Cấu trúc
+
+|
+
+Chức năng gen
+
+|
+
+Các tính trạng và sự di truyền
+
+|
+
+Những điểm chính
+
+|
+
+Gen, đơn vị cơ bản của di truyền, là một đoạn axit deoxyribonucleic (DNA) chứa thông tin cần thiết để tổng hợp một chuỗi polypeptide (protein) hoặc một phân tử RNA chức năng. Điều này tạo nên tính đa dạng và đặc thù của từng loại protein từ đó đảm bảo cấu tạo và hoạt động từng phần của cơ thể.
+
+DNA cung cấp mã quyết định nhiều khía cạnh trong quá trình phát triển và tăng trưởng của một cá nhân cũng như các yếu tố ảnh hưởng đến sức khỏe. Tuy nhiên, chức năng gen thay đổi tùy theo sự biến đổi trong biểu hiện gen có thể là kết quả của các yếu tố di truyền, biểu sinh hoặc môi trường. Sự hiểu biết về nhiều cơ chế sinh hóa điều chỉnh sự biểu hiện gen ngày càng rõ ràng.
+
+Sau đây là một số thuật ngữ mô tả thành phần và biểu hiện di truyền:
+
+Bộ gen
+
+là bộ vật liệu di truyền hoàn chỉnh trong một sinh vật, bao gồm tất cả các gen và trình tự không mã hóa.
+
+Kiểu gen
+
+là thành phần alen đặc trưng cho một gen hoặc một tập hợp gen nhất định trong một tế bào hoặc một sinh vật.
+
+Kiểu hình
+
+là những đặc điểm có thể quan sát được của một cá nhân, chẳng hạn như chiều cao, màu mắt hoặc nhóm máu. Kiểu hình được xác định bởi sự tương tác phức tạp của nhiều yếu tố, bao gồm kiểu gen, biểu hiện gen và các yếu tố môi trường. Kiểu gen cụ thể có thể có hoặc không tương quan tốt với kiểu hình.
+
+Biểu hiện gen
+
+là quá trình trong đó thông tin được mã hóa trong gen được sử dụng để kiểm soát quá trình lắp ráp phân tử xuôi dòng (protein hoặc RNA). Biểu hiện gen phụ thuộc vào nhiều yếu tố như tính trạng trội hay tính trạng lặn, khả năng thâm nhập và biểu hiện của gen (xem
+
+Các yếu tố ảnh hưởng đến biểu hiện gen
+
+), biểu hiện có bị giới hạn bởi giới tính hay chịu sự bất hoạt của nhiễm sắc thể hoặc dấu ấn gen, các yếu tố môi trường và các yếu tố chưa biết khác.
+
+Cấu trúc DNA
+
+Con người có khoảng 20.000 đến 25.000 gen tùy thuộc vào cách gen được xác định (
+
+1
+
+). Gen nằm trên nhiễm sắc thể, nằm trong nhân tế bào và trong ty thể. (
+
+ADN ty thể và các rối loạn liên quan
+
+được thảo luận riêng.)
+
+Mỗi nhiễm sắc thể bao gồm một số thành phần cấu trúc chính: tâm động (khu vực nơi một cặp nhiễm sắc thể được nối lại và sau đó tách ra trong quá trình phân chia tế bào); telomere (vùng ở đầu mỗi nhiễm sắc thể, giúp duy trì tính toàn vẹn về cấu trúc trong quá trình sao chép DNA); và chromatid (cánh tay của nhiễm sắc thể: mỗi nhiễm sắc thể có một cánh tay ngắn, được gọi là "p" và một cánh tay dài, được gọi là "q"). (Xem hình
+
+Cấu trúc của nhiễm sắc thể
+
+.)
+
+Cấu trúc của nhiễm sắc thể
+
+Tâm động là điểm thắt hẹp nơi giữ 2 nhiễm sắc tử với nhau. Nhiễm sắc tử là các cánh tay của nhiễm sắc thể; mỗi nhiễm sắc thể có một cánh tay ngắn, được ký hiệu là "p", và một cánh tay dài, được ký hiệu là "q". Telomere là vùng ở cuối mỗi cánh của nhiễm sắc thể. Phân tử DNA là các chuỗi DNA được hình thành thành các cấu trúc nhỏ gọn bên trong nhiễm sắc thể bởi các protein gọi là histon.
+
+Công của: GWEN SHOCKEY / THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Kiểu nhân là bộ nhiễm sắc thể đầy đủ trong tế bào của một cá nhân. Trong kết quả xét nghiệm di truyền, kiểu nhân được biểu diễn dưới dạng hình ảnh của tất cả các cặp nhiễm sắc thể theo số thứ tự. Trong quá trình này (gọi là nhiễm sắc thể đồ), các tế bào thường được thu thập từ một mẫu (như máu, nước ối hoặc mô); được nuôi cấy để thúc đẩy phân chia tế bào; sau đó xử lý để ngăn chặn phân chia tế bào ở giai đoạn kỳ giữa, giai đoạn mà nhiễm sắc thể dễ thấy nhất. Sau đó, nhiễm sắc thể được nhuộm và chụp ảnh để tạo ra kiểu nhân tế bào hiển thị kích thước, hình dạng và số lượng nhiễm sắc thể trong mẫu tế bào đó.
+
+Ở người, phần lớn các tế bào là tế bào soma (không phải tế bào mầm) có nhân chứa 23 cặp nhiễm sắc thể, tạo ra tổng cộng 46 nhiễm sắc thể (lưỡng bội). Ở tế bào sinh dưỡng, mỗi cặp bao gồm 1 nhiễm sắc thể được thừa hưởng từ mẹ và 1 nhiễm sắc thể được thừa hưởng từ cha. Trong số 23 cặp nhiễm sắc thể, số từ 1 đến 22 được gọi là nhiễm sắc thể thường và các cặp này thường tương đồng (kích thước, hình dạng, vị trí và số lượng gen giống hệt với nhiễm sắc thể còn lại trong cặp). Cặp thứ hai mươi ba là nhiễm sắc thể giới tính X và Y, quyết định giới tính của một người. Nữ giới có hai nhiễm sắc thể X trong nhân tế bào soma; nam giới có một nhiễm sắc thể X và một nhiễm sắc thể Y.
+
+Nhiễm sắc thể X mang các gen chịu trách nhiệm cho nhiều đặc điểm di truyền. Ở nữ giới, hai nhiễm sắc thể X tương đồng và do đó mỗi gen có một cặp trên nhiễm sắc thể X kia. Ở nam giới, nhiễm sắc thể X và nhiễm sắc thể Y nhỏ hơn là khác loại. Nhiễm sắc thể Y mang các gen khởi đầu quá trình phân biệt giới tính nam, cũng như một số ít gen khác. Vì nhiễm sắc thể X có nhiều gen hơn nhiễm sắc thể Y nên nhiều gen nhiễm sắc thể X ở nam giới không được ghép cặp. Tuy nhiên, 1 trong số các nhiễm sắc thể X trong mỗi tế bào ở nữ giới bị bất hoạt sớm trong quá trình phát triển của thai nhi
+
+(lyon hóa
+
+), do đó sự cân bằng vật chất di truyền được duy trì ở cả nam giới và nữ giới. Ở một số tế bào, nhiễm sắc thể X của mẹ bị bất hoạt, trong khi ở những tế bào khác thì nhiễm sắc thể X của bố lại bị bất hoạt. Khi quá trình bất hoạt diễn ra trong một tế bào riêng lẻ, tất cả các thế hệ sau của tế bào đó đều có cùng một quá trình bất hoạt X.
+
+Tế bào mầm (trứng và tinh trùng) chứa 46 nhiễm sắc thể ở một số giai đoạn nhất định; tuy nhiên, trong quá trình giảm phân, các cặp nhiễm sắc thể tách ra sao cho mỗi giao tử (tinh bào hoặc noãn) chỉ chứa 1 bản sao của mỗi nhiễm sắc thể, tạo ra tổng số 23 nhiễm sắc thể (đơn bội). Các nhiễm sắc thể không ghép cặp có thể trải qua quá trình tái tổ hợp, một quá trình trong đó nhiễm sắc thể của mẹ và của bố có thể trao đổi chéo (trao đổi giữa các nhiễm sắc thể tương đồng). Khi một trứng được thụ tinh bởi tinh trùng tại thời điểm thụ thai, số lượng 46 nhiễm sắc thể sẽ được tái tạo trong trứng đã thụ tinh.
+
+Nhiễm sắc thể chứa cả gen (các đoạn nhiễm sắc thể hoạt động phiên mã, gọi là euchromatin) cũng như vật liệu bổ sung không mã hóa cho protein (các đoạn không hoạt động phiên mã, gọi là vùng dị nhiễm sắc). Các gen được sắp xếp theo hàng thẳng trong DNA của nhiễm sắc thể. Mỗi gen có một vị trí cụ thể (locus) trên một nhiễm sắc thể và thường cùng vị trí trên cặp nhiễm sắc thể tương đồng. Các gen chiếm cùng một vị trí trên mỗi nhiễm sắc thể của một cặp (1 gen thừa hưởng từ mẹ và 1 gen thừa hưởng từ cha) được gọi là alen. Mỗi gen bao gồm một chuỗi DNA đặc trưng; 2 allele có thể có các trình tự DNA khác nhau hoặc giống nhau. Một cặp alen giống hệt nhau của một gen cụ thể được gọi là đồng hợp tử; một cặp alen không giống hệt nhau được gọi là dị hợp tử. Một số gen hiện diện ở nhiều bản sao, có thể nằm cạnh nhau hoặc phân tán ở nhiều vị trí khác nhau trên cùng một nhiễm sắc thể hoặc trên các nhiễm sắc thể khác nhau.
+
+Cấu trúc DNA
+
+DNA (axit deoxyribonucleic) là vật liệu di truyền của tế bào, lưu trữ trong các nhiễm sắc thể ở nhân tế bào và ty thể.
+
+Ngoại trừ một số tế bào nhất định (ví dụ: tế bào tinh trùng và trứng), nhân tế bào chứa 23 cặp nhiễm sắc thể. Một nhiễm sắc thể chứa rất nhiều gen. Gen là một đoạn DNA cung cấp mã để xây dựng phân tử protein hoặc RNA.
+
+Phân tử DNA là một chuỗi xoắn kép dài, cuộn lại giống như một cầu thang xoắn ốc. Trong đó, 2 sợi, bao gồm các phân tử đường (deoxyribose) và phosphate, được kết nối bởi các cặp 4 phân tử gọi là bazơ, tạo thành các bậc thang. Trong các bước, adenine được ghép cặp với thymine và guanine được ghép cặp với cytosine. Mỗi cặp bazơ được nối với nhau bằng một liên kết hydro. Một gen bao gồm một trình tự các bazơ. Trình tự 3 bazơ mã hóa cho một axit amin (axit amin là các phân tử tạo nên khối cấu tạo của protein) hoặc thông tin khác.
+
+Tài liệu tham khảo về cấu trúc
+
+1.
+
+National Human Genome Research Institute
+
+. What Is a Genome? Truy cập ngày 5  tháng 3 năm 2025.
+
+Chức năng gen
+
+Các gen bao gồm DNA. Cấu trúc của DNA là một chuỗi xoắn kép trong đó các nucleotide (bazơ) được ghép cặp:
+
+Adenine (A) liên kết với thymine (T)
+
+Guanine (G) liên kết với cytosine (C)
+
+Chiều dài của gen xác định chiều dài của protein hoặc RNA được tổng hợp từ mã gen. Để tổng hợp protein, quá trình
+
+phiên mã
+
+DNA diễn ra, trong đó 1 chuỗi DNA được sử dụng làm khuôn mẫu để tổng hợp RNA thông tin (mRNA). RNA có cùng cặp bazơ với DNA, ngoại trừ uracil (U) thay thế thymine (T). Các phân tử mRNA di chuyển từ nhân tế bào đến tế bào chất và sau đó đến ribosome, một cấu trúc tế bào. Trong ribosome, quá trình
+
+dịch mã
+
+diễn ra từ trình tự mRNA thành trình tự các axit amin cần thiết để tổng hợp protein cụ thể. RNA vận chuyển (tRNA) mang từng axit amin trở lại ribosome, nơi nó được thêm vào chuỗi polypeptide đang phát triển theo trình tự do mRNA xác định. Khi một chuỗi axit amin được lắp ráp, nó sẽ tự gấp lại để tạo thành một cấu trúc 3 chiều phức tạp với sự hỗ trợ của các phân tử chaperone gần đó.
+
+Trình tự và 4 loại nucleotide trong DNA cung cấp mã cho quá trình tổng hợp protein. Các axit amin cụ thể được mã hóa bằng các tổ hợp cụ thể của 3 bazơ (bộ ba), được gọi là codon. Vì có 4 nucleotide nên số bộ ba có thể có là 4
+
+3
+
+(tương đương với 64 codon có thể có). Tuy nhiên, chỉ có 20 axit amin chuẩn, dẫn đến tình trạng trùng lặp trong mã di truyền, nghĩa là nhiều codon có thể mã hóa cho cùng một axit amin. Ngoài các bộ ba mã hóa này, một số codon còn có chức năng đặc biệt. Ví dụ: một số bộ ba được chỉ định là codon khởi đầu (thường là AUG, cũng mã hóa cho methionine) báo hiệu sự bắt đầu quá trình tổng hợp protein, trong khi những bộ ba khác có chức năng là codon kết thúc (ví dụ: UAA, UAG và UGA) báo hiệu sự kết thúc quá trình tổng hợp protein. Tổ chức này cho phép mã hóa các protein và điều chỉnh quá trình tổng hợp của các protein đó (
+
+1, 2
+
+).
+
+Gen bao gồm exon và intron. Đối với các gen mã hóa protein, exon mã hóa các thành phần axit amin của protein cuối cùng. Intron là chuỗi các bazơ nucleotide không mã hóa cho axit amin nhưng chứa thông tin khác điều chỉnh tốc độ sản xuất protein và loại protein được tạo ra. Các exon và intron được phiên mã cùng nhau thành mRNA tiền thân, nhưng các đoạn được phiên mã từ intron sau đó được cắt bỏ, tạo thành mRNA trưởng thành. Ngoài ra, một số đoạn DNA mã hóa cho RNA antisense gắn kết với trình tự mRNA và có thể ức chế quá trình dịch mã thành protein. Sợi DNA không được phiên mã để hình thành mRNA cũng có thể được sử dụng như một khuôn mẫu để tổng hợp RNA, kiểm soát quá trình phiên mã của sợi đối diện.
+
+Sự ghép nối intron (còn gọi là sự ghép nối thay thế) là một cơ chế biến đổi biểu hiện gen. Trong quá trình ghép nối thay thế, các intron bị cắt bỏ và các exon còn lại có thể được lắp ráp theo nhiều tổ hợp, tạo ra nhiều mRNA khác nhau có khả năng được phiên mã thành nhiều dạng protein khác nhau. Do đó, số lượng protein mà con người có thể tổng hợp được là > 100.000 mặc dù bộ gen của con người chỉ có khoảng 20.000+ gen.
+
+Tài liệu tham khảo về chức năng gen
+
+1.
+
+Liu CC, Simonsen CC, Levinson AD
+
+. Initiation of translation at internal AUG codons in mammalian cells.
+
+Nature.
+
+Ngày 3-9 tháng 3 năm 1984;309(5963):82-5. doi: 10.1038/309082a0
+
+2.
+
+Brown A, Shao S, Murray J, Hegde RS, Ramakrishnan V
+
+. Structural basis for stop codon recognition in eukaryotes.
+
+Nature.
+
+Ngày 27 tháng 8 năm 2015;524(7566):493-496. doi: 10.1038/nature14896
+
+Các yếu tố ngoại sinh
+
+Những thay đổi di truyền không liên quan đến sự thay đổi trong trình tự DNA được gọi là di truyền học biểu sinh. Các cơ chế chính ảnh hưởng đến biểu hiện gen mà không làm thay đổi trình tự gen bao gồm quá trình metyl hóa DNA và sửa đổi histon, chẳng hạn như metyl hóa và acety hóa.
+
+Quá trình methyl hóa DNA thường liên quan đến việc làm im lặng biểu hiện gen. Protein histone, trông giống như những ống chỉ có DNA cuộn quanh, tác động đến quá trình gấp và mở của DNA. Các sửa đổi histone như acetyl hóa hoặc methyl hóa có thể làm tăng hoặc giảm biểu hiện của một gen cụ thể.
+
+Một cơ chế quan trọng khác liên quan đến microRNAs (miRNAs). MiRNA là các RNA ngắn, theo nguồn gốc dạng kẹp tóc có tác dụng ức chế biểu hiện gen mục tiêu sau khi phiên mã (dạng kẹp tóc đề cập đến hình dạng mà các chuỗi RNA giả định khi chúng gắn kết với nhau). MiRNA có thể tham gia vào quá trình điều hòa tới 60% số protein được phiên mã.
+
+Các tính trạng và sự di truyền
+
+Một tính trạng có thể đơn giản như là màu mắt hoặc phức tạp hơn như là sự nhạy cảm với bệnh tiểu đường. Biểu hiện của một tính trạng có thể liên quan đến một gen hoặc nhiều gen. Một số
+
+thiếu hụt đơn gen
+
+gây bất thường ở nhiều mô, hiệu ứng này gọi là tính đa hiệu của gen. Ví dụ,
+
+bệnh tạo xương bất toàn
+
+(rối loạn mô liên kết thường do những bất thường của một gen collagen đơn) có thể gây ra loãng xương, điếc, củng mạc xanh, loạn sản răng, khớp lỏng lẻo và van tim bất thường. Một số đặc điểm, chẳng hạn như dễ mắc bệnh tâm thần phân liệt, dường như là do nhiều gen gây ra và do đó được gọi là đặc điểm đa gen.
+
+Xây dựng phả hệ gia đình
+
+Phả hệ gia đình (cây phả hệ) được sử dụng để mô tả mô hình di truyền. Phả hệ thường được sử dụng trong
+
+tư vấn di truyền
+
+. Phả hệ sử dụng các ký hiệu thông thường để biểu thị các thành viên trong gia đình và thông tin sức khỏe liên quan về họ (xem hình
+
+Ký hiệu trong xây dựng phả hệ gia đình
+
+). Một số rối loạn gia đình có kiểu hình giống hệt nhau có nhiều kiểu di truyền.
+
+Biểu tượng trong xây dựng phả hệ gia đình
+
+Trong phả hệ, các ký hiệu cho mỗi thế hệ trong gia đình được đặt thành một hàng và được đánh số bằng chữ số La Mã, bắt đầu với thế hệ cũ ở trên cùng và kết thúc bằng thế hệ gần đây nhất ở dưới cùng. Trong mỗi thế hệ, con người được đánh số từ trái sang phải với chữ số Ả-rập. Anh chị em được liệt kê theo độ tuổi, với người lớn tuổi nhất ở bên trái. Do đó, mỗi thành viên của phả hệ có thể được xác định bởi 2 số (ví dụ, II, 4). Vợ/chồng cũng được gắn số để nhận dạng.
+
+Những điểm chính
+
+Kiểu hình được xác định bởi sự tương tác phức tạp của nhiều yếu tố bao gồm kiểu gen, biểu hiện gen và các yếu tố môi trường.
+
+Các cơ chế điều chỉnh biểu hiện gen đang được làm sáng tỏ và bao gồm ghép nối intron, methyl hóa DNA, sửa đổi histone, microRNA và tổ chức bộ gen 3D.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Cấu trúc DNA ---
+
+Con người có khoảng 20.000 đến 25.000 gen tùy thuộc vào cách gen được xác định (1). Gen nằm trên nhiễm sắc thể, nằm trong nhân tế bào và trong ty thể. (ADN ty thể và các rối loạn liên quanđược thảo luận riêng.)Mỗi nhiễm sắc thể bao gồm một số thành phần cấu trúc chính: tâm động (khu vực nơi một cặp nhiễm sắc thể được nối lại và sau đó tách ra trong quá trình phân chia tế bào); telomere (vùng ở đầu mỗi nhiễm sắc thể, giúp duy trì tính toàn vẹn về cấu trúc trong quá trình sao chép DNA); và chromatid (cánh tay của nhiễm sắc thể: mỗi nhiễm sắc thể có một cánh tay ngắn, được gọi là "p" và một cánh tay dài, được gọi là "q"). (Xem hìnhCấu trúc của nhiễm sắc thể.)Cấu trúc của nhiễm sắc thểTâm động là điểm thắt hẹp nơi giữ 2 nhiễm sắc tử với nhau. Nhiễm sắc tử là các cánh tay của nhiễm sắc thể; mỗi nhiễm sắc thể có một cánh tay ngắn, được ký hiệu là "p", và một cánh tay dài, được ký hiệu là "q". Telomere là vùng ở cuối mỗi cánh của nhiễm sắc thể. Phân tử DNA là các chuỗi DNA được hình thành thành các cấu trúc nhỏ gọn bên trong nhiễm sắc thể bởi các protein gọi là histon.Công của: GWEN SHOCKEY / THƯ VIỆN HÌNH ẢNH KHOA HỌCKiểu nhân là bộ nhiễm sắc thể đầy đủ trong tế bào của một cá nhân. Trong kết quả xét nghiệm di truyền, kiểu nhân được biểu diễn dưới dạng hình ảnh của tất cả các cặp nhiễm sắc thể theo số thứ tự. Trong quá trình này (gọi là nhiễm sắc thể đồ), các tế bào thường được thu thập từ một mẫu (như máu, nước ối hoặc mô); được nuôi cấy để thúc đẩy phân chia tế bào; sau đó xử lý để ngăn chặn phân chia tế bào ở giai đoạn kỳ giữa, giai đoạn mà nhiễm sắc thể dễ thấy nhất. Sau đó, nhiễm sắc thể được nhuộm và chụp ảnh để tạo ra kiểu nhân tế bào hiển thị kích thước, hình dạng và số lượng nhiễm sắc thể trong mẫu tế bào đó.Ở người, phần lớn các tế bào là tế bào soma (không phải tế bào mầm) có nhân chứa 23 cặp nhiễm sắc thể, tạo ra tổng cộng 46 nhiễm sắc thể (lưỡng bội). Ở tế bào sinh dưỡng, mỗi cặp bao gồm 1 nhiễm sắc thể được thừa hưởng từ mẹ và 1 nhiễm sắc thể được thừa hưởng từ cha. Trong số 23 cặp nhiễm sắc thể, số từ 1 đến 22 được gọi là nhiễm sắc thể thường và các cặp này thường tương đồng (kích thước, hình dạng, vị trí và số lượng gen giống hệt với nhiễm sắc thể còn lại trong cặp). Cặp thứ hai mươi ba là nhiễm sắc thể giới tính X và Y, quyết định giới tính của một người. Nữ giới có hai nhiễm sắc thể X trong nhân tế bào soma; nam giới có một nhiễm sắc thể X và một nhiễm sắc thể Y.Nhiễm sắc thể X mang các gen chịu trách nhiệm cho nhiều đặc điểm di truyền. Ở nữ giới, hai nhiễm sắc thể X tương đồng và do đó mỗi gen có một cặp trên nhiễm sắc thể X kia. Ở nam giới, nhiễm sắc thể X và nhiễm sắc thể Y nhỏ hơn là khác loại. Nhiễm sắc thể Y mang các gen khởi đầu quá trình phân biệt giới tính nam, cũng như một số ít gen khác. Vì nhiễm sắc thể X có nhiều gen hơn nhiễm sắc thể Y nên nhiều gen nhiễm sắc thể X ở nam giới không được ghép cặp. Tuy nhiên, 1 trong số các nhiễm sắc thể X trong mỗi tế bào ở nữ giới bị bất hoạt sớm trong quá trình phát triển của thai nhi(lyon hóa), do đó sự cân bằng vật chất di truyền được duy trì ở cả nam giới và nữ giới. Ở một số tế bào, nhiễm sắc thể X của mẹ bị bất hoạt, trong khi ở những tế bào khác thì nhiễm sắc thể X của bố lại bị bất hoạt. Khi quá trình bất hoạt diễn ra trong một tế bào riêng lẻ, tất cả các thế hệ sau của tế bào đó đều có cùng một quá trình bất hoạt X.Tế bào mầm (trứng và tinh trùng) chứa 46 nhiễm sắc thể ở một số giai đoạn nhất định; tuy nhiên, trong quá trình giảm phân, các cặp nhiễm sắc thể tách ra sao cho mỗi giao tử (tinh bào hoặc noãn) chỉ chứa 1 bản sao của mỗi nhiễm sắc thể, tạo ra tổng số 23 nhiễm sắc thể (đơn bội). Các nhiễm sắc thể không ghép cặp có thể trải qua quá trình tái tổ hợp, một quá trình trong đó nhiễm sắc thể của mẹ và của bố có thể trao đổi chéo (trao đổi giữa các nhiễm sắc thể tương đồng). Khi một trứng được thụ tinh bởi tinh trùng tại thời điểm thụ thai, số lượng 46 nhiễm sắc thể sẽ được tái tạo trong trứng đã thụ tinh.Nhiễm sắc thể chứa cả gen (các đoạn nhiễm sắc thể hoạt động phiên mã, gọi là euchromatin) cũng như vật liệu bổ sung không mã hóa cho protein (các đoạn không hoạt động phiên mã, gọi là vùng dị nhiễm sắc). Các gen được sắp xếp theo hàng thẳng trong DNA của nhiễm sắc thể. Mỗi gen có một vị trí cụ thể (locus) trên một nhiễm sắc thể và thường cùng vị trí trên cặp nhiễm sắc thể tương đồng. Các gen chiếm cùng một vị trí trên mỗi nhiễm sắc thể của một cặp (1 gen thừa hưởng từ mẹ và 1 gen thừa hưởng từ cha) được gọi là alen. Mỗi gen bao gồm một chuỗi DNA đặc trưng; 2 allele có thể có các trình tự DNA khác nhau hoặc giống nhau. Một cặp alen giống hệt nhau của một gen cụ thể được gọi là đồng hợp tử; một cặp alen không giống hệt nhau được gọi là dị hợp tử. Một số gen hiện diện ở nhiều bản sao, có thể nằm cạnh nhau hoặc phân tán ở nhiều vị trí khác nhau trên cùng một nhiễm sắc thể hoặc trên các nhiễm sắc thể khác nhau.Cấu trúc DNADNA (axit deoxyribonucleic) là vật liệu di truyền của tế bào, lưu trữ trong các nhiễm sắc thể ở nhân tế bào và ty thể.Ngoại trừ một số tế bào nhất định (ví dụ: tế bào tinh trùng và trứng), nhân tế bào chứa 23 cặp nhiễm sắc thể. Một nhiễm sắc thể chứa rất nhiều gen. Gen là một đoạn DNA cung cấp mã để xây dựng phân tử protein hoặc RNA.Phân tử DNA là một chuỗi xoắn kép dài, cuộn lại giống như một cầu thang xoắn ốc. Trong đó, 2 sợi, bao gồm các phân tử đường (deoxyribose) và phosphate, được kết nối bởi các cặp 4 phân tử gọi là bazơ, tạo thành các bậc thang. Trong các bước, adenine được ghép cặp với thymine và guanine được ghép cặp với cytosine. Mỗi cặp bazơ được nối với nhau bằng một liên kết hydro. Một gen bao gồm một trình tự các bazơ. Trình tự 3 bazơ mã hóa cho một axit amin (axit amin là các phân tử tạo nên khối cấu tạo của protein) hoặc thông tin khác.Tài liệu tham khảo về cấu trúc1.National Human Genome Research Institute. What Is a Genome? Truy cập ngày 5  tháng 3 năm 2025.
+
+--- 2. Chức năng gen ---
+
+Các gen bao gồm DNA. Cấu trúc của DNA là một chuỗi xoắn kép trong đó các nucleotide (bazơ) được ghép cặp:Adenine (A) liên kết với thymine (T)Guanine (G) liên kết với cytosine (C)Chiều dài của gen xác định chiều dài của protein hoặc RNA được tổng hợp từ mã gen. Để tổng hợp protein, quá trìnhphiên mãDNA diễn ra, trong đó 1 chuỗi DNA được sử dụng làm khuôn mẫu để tổng hợp RNA thông tin (mRNA). RNA có cùng cặp bazơ với DNA, ngoại trừ uracil (U) thay thế thymine (T). Các phân tử mRNA di chuyển từ nhân tế bào đến tế bào chất và sau đó đến ribosome, một cấu trúc tế bào. Trong ribosome, quá trìnhdịch mãdiễn ra từ trình tự mRNA thành trình tự các axit amin cần thiết để tổng hợp protein cụ thể. RNA vận chuyển (tRNA) mang từng axit amin trở lại ribosome, nơi nó được thêm vào chuỗi polypeptide đang phát triển theo trình tự do mRNA xác định. Khi một chuỗi axit amin được lắp ráp, nó sẽ tự gấp lại để tạo thành một cấu trúc 3 chiều phức tạp với sự hỗ trợ của các phân tử chaperone gần đó.Trình tự và 4 loại nucleotide trong DNA cung cấp mã cho quá trình tổng hợp protein. Các axit amin cụ thể được mã hóa bằng các tổ hợp cụ thể của 3 bazơ (bộ ba), được gọi là codon. Vì có 4 nucleotide nên số bộ ba có thể có là 43(tương đương với 64 codon có thể có). Tuy nhiên, chỉ có 20 axit amin chuẩn, dẫn đến tình trạng trùng lặp trong mã di truyền, nghĩa là nhiều codon có thể mã hóa cho cùng một axit amin. Ngoài các bộ ba mã hóa này, một số codon còn có chức năng đặc biệt. Ví dụ: một số bộ ba được chỉ định là codon khởi đầu (thường là AUG, cũng mã hóa cho methionine) báo hiệu sự bắt đầu quá trình tổng hợp protein, trong khi những bộ ba khác có chức năng là codon kết thúc (ví dụ: UAA, UAG và UGA) báo hiệu sự kết thúc quá trình tổng hợp protein. Tổ chức này cho phép mã hóa các protein và điều chỉnh quá trình tổng hợp của các protein đó (1, 2).Gen bao gồm exon và intron. Đối với các gen mã hóa protein, exon mã hóa các thành phần axit amin của protein cuối cùng. Intron là chuỗi các bazơ nucleotide không mã hóa cho axit amin nhưng chứa thông tin khác điều chỉnh tốc độ sản xuất protein và loại protein được tạo ra. Các exon và intron được phiên mã cùng nhau thành mRNA tiền thân, nhưng các đoạn được phiên mã từ intron sau đó được cắt bỏ, tạo thành mRNA trưởng thành. Ngoài ra, một số đoạn DNA mã hóa cho RNA antisense gắn kết với trình tự mRNA và có thể ức chế quá trình dịch mã thành protein. Sợi DNA không được phiên mã để hình thành mRNA cũng có thể được sử dụng như một khuôn mẫu để tổng hợp RNA, kiểm soát quá trình phiên mã của sợi đối diện.Sự ghép nối intron (còn gọi là sự ghép nối thay thế) là một cơ chế biến đổi biểu hiện gen. Trong quá trình ghép nối thay thế, các intron bị cắt bỏ và các exon còn lại có thể được lắp ráp theo nhiều tổ hợp, tạo ra nhiều mRNA khác nhau có khả năng được phiên mã thành nhiều dạng protein khác nhau. Do đó, số lượng protein mà con người có thể tổng hợp được là > 100.000 mặc dù bộ gen của con người chỉ có khoảng 20.000+ gen.
+
+--- 3. Các tính trạng và sự di truyền ---
+
+Một tính trạng có thể đơn giản như là màu mắt hoặc phức tạp hơn như là sự nhạy cảm với bệnh tiểu đường. Biểu hiện của một tính trạng có thể liên quan đến một gen hoặc nhiều gen. Một sốthiếu hụt đơn gengây bất thường ở nhiều mô, hiệu ứng này gọi là tính đa hiệu của gen. Ví dụ,bệnh tạo xương bất toàn(rối loạn mô liên kết thường do những bất thường của một gen collagen đơn) có thể gây ra loãng xương, điếc, củng mạc xanh, loạn sản răng, khớp lỏng lẻo và van tim bất thường. Một số đặc điểm, chẳng hạn như dễ mắc bệnh tâm thần phân liệt, dường như là do nhiều gen gây ra và do đó được gọi là đặc điểm đa gen.Xây dựng phả hệ gia đìnhPhả hệ gia đình (cây phả hệ) được sử dụng để mô tả mô hình di truyền. Phả hệ thường được sử dụng trongtư vấn di truyền. Phả hệ sử dụng các ký hiệu thông thường để biểu thị các thành viên trong gia đình và thông tin sức khỏe liên quan về họ (xem hìnhKý hiệu trong xây dựng phả hệ gia đình). Một số rối loạn gia đình có kiểu hình giống hệt nhau có nhiều kiểu di truyền.Biểu tượng trong xây dựng phả hệ gia đìnhTrong phả hệ, các ký hiệu cho mỗi thế hệ trong gia đình được đặt thành một hàng và được đánh số bằng chữ số La Mã, bắt đầu với thế hệ cũ ở trên cùng và kết thúc bằng thế hệ gần đây nhất ở dưới cùng. Trong mỗi thế hệ, con người được đánh số từ trái sang phải với chữ số Ả-rập. Anh chị em được liệt kê theo độ tuổi, với người lớn tuổi nhất ở bên trái. Do đó, mỗi thành viên của phả hệ có thể được xác định bởi 2 số (ví dụ, II, 4). Vợ/chồng cũng được gắn số để nhận dạng.
+
+--- 4. Những điểm chính ---
+
+Kiểu hình được xác định bởi sự tương tác phức tạp của nhiều yếu tố bao gồm kiểu gen, biểu hiện gen và các yếu tố môi trường.Các cơ chế điều chỉnh biểu hiện gen đang được làm sáng tỏ và bao gồm ghép nối intron, methyl hóa DNA, sửa đổi histone, microRNA và tổ chức bộ gen 3D.

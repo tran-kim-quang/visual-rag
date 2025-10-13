@@ -1,0 +1,131 @@
+TIÊU ĐỀ: Sinh khả dụng của thuốc
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-động-học/sinh-khả-dụng-của-thuốc
+================================================================================
+
+NỘI DUNG:
+
+Sinh khả dụng của thuốc
+
+Theo
+
+Jennifer Le
+
+,
+
+PharmD, MAS, BCPS-ID, FIDSA, FCCP, FCSHP
+
+,
+
+Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+San Diego
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2024
+
+v1108996_vi
+
+Sinh khả dụng đề cập đến mức độ và tốc độ mà thành phần hoạt động (thuốc hoặc chất chuyển hóa) đi vào tuần hoàn toàn thân, do đó tiếp cận được vị trí tác dụng.
+
+Sinh khả dụng của một thuốc chủ yếu được xác định bởi tính chất của dạng liều dùng, phụ thuộc một phần vào dạng bào chế và công thức của nó. Sự khác biệt về sinh khả dụng giữa các công thức của một thuốc nhất định có thể có ý nghĩa lâm sàng; do đó, cần biết các công thức của một thuốc có tương đương.
+
+Tương đương hóa học
+
+chỉ ra rằng các sản phẩm thuốc có chứa cùng một hỗn hợp có hoạt tính ở cùng một lượng và đáp ứng các tiêu chuẩn quy định hiện nay; tuy nhiên, các thành phần không có hoạt tính trong các sản phẩm thuốc có thể khác nhau.
+
+Tương đương sinh học
+
+chỉ ra rằng các sản phẩm thuốc, khi sử dụng một chế độ liều như nhau trên cùng một bệnh nhân sẽ đạt được nồng độ thuốc trong huyết tương và mô như nhau.
+
+Tương đương điều trị
+
+chỉ ra rằng các sản phẩm thuốc, khi sử dụng một chế độ liều như nhau trên cùng một bệnh nhân sẽ cho tác dụng điều trị và tác dụng không mong muốn như nhau.
+
+Các sản phẩm tương đương sinh học dự kiến sẽ tương đương về mặt điều trị. Không tương đương điều trị (ví dụ, nhiều tác dụng không mong muốn hơn, hiệu quả thấp hơn) thường được phát hiện trong quá trình điều trị dài hạn khi bệnh nhân được điều trị ổn định ở một dạng thuốc và được thay thế bằng dạng khác không tương đương.
+
+Đôi khi vẫn có tương đương điều trị mặc dù có sự khác biệt về sinh khả dụng. Ví dụ, phạm vi điều trị (tỷ lệ nồng độ tối thiểu gây độc/nồng độ có hiệu quả trung bình) của penicillin rất rộng, hiệu quả và độ an toàn thường không bị ảnh hưởng do sự khác biệt không lớn về nồng độ trong huyết tương do sự khác biệt về sinh khả dụng giữa các sản phẩm penicillin. Ngược lại, đối với thuốc có phạm vi điều trị tương đối hẹp, sự khác biệt về sinh khả dụng có thể gây ra không tương đương điều trị đáng kể.
+
+(Xem thêm
+
+Tổng quan về Dược động học
+
+.)
+
+Nguyên nhân gây sinh khả dụng thấp
+
+Các thuốc uống phải đi qua thành ruột và sau đó qua tuần hoàn cửa gan; cả hai đều là những vị trí thường xảy ra chuyển hóa pha đầu (sự chuyển hóa diễn ra trước khi thuốc vào hệ thống tuần hoàn). Do đó, nhiều loại thuốc có thể được chuyển hóa trước khi đạt nồng độ đầy đủ trong huyết tương. Dạng uống của các thuốc ít hòa tan trong nước, hấp thu chậm thường có sinh khả dụng thấp.
+
+Không đủ thời gian để xảy ra hấp thu qua đường tiêu hóa (GI) là một nguyên nhân phổ biến gây sinh khả dụng thấp. Nếu thuốc chưa hòa tan hoặc không thấm qua màng biểu mô (ví dụ, thuốc bị ion hóa cao và phân cực), thời gian tại vị trí hấp thu có thể không đủ. Trong những trường hợp như vậy, sinh khả dụng thấp và khác nhau nhiều.
+
+Tuổi, giới tính, hoạt động thể chất, kiểu gen di truyền, căng thẳng, các rối loạn (ví dụ như giảm axit dịch vị, hội chứng hấp thu kém), hoặc phẫu thuật tiêu hoá trước đó (ví dụ như phẫu thuật điều trị béo phì) cũng có thể ảnh hưởng đến sinh khả dụng của thuốc.
+
+Các phản ứng hóa học làm giảm sự hấp thu có thể làm giảm sinh khả dụng. Các phản ứng này bao gồm hình thành phức hợp (ví dụ: giữa tetracycline và các ion kim loại đa hóa trị), thủy phân bởi axit dạ dày hoặc các enzyme tiêu hóa (ví dụ: thủy phân
+
+penicillin
+
+và
+
+cloramphenicol
+
+palmitate), liên hợp trong thành ruột (ví dụ: liên hợp sulfo của
+
+isoproterenol
+
+), hấp phụ vào các thuốc khác (ví dụ:
+
+digoxin
+
+thành
+
+cholestyramine
+
+) và chuyển hóa bởi hệ vi khuẩn trong lòng ruột.
+
+Đánh giá sinh khả dụng
+
+Sinh khả dụng thường được đánh giá bằng cách xác định diện tích dưới đường cong nồng độ trong huyết tương theo thời gian (AUC – xem hình
+
+Mối quan hệ nồng độ trong huyết tương theo thời gian tiêu biểu sau một lần uống duy nhất...
+
+). Biết được AUC, có thể tính được giá trị sinh khả dụng. AUC tỷ lệ thuận với tổng lượng thuốc ở dạng không đổi vào hệ thống tuần hoàn. Các thuốc có thể được coi là tương đương sinh học về mức độ tốc độ hấp thu nếu đường cong nồng độ thuốc trong huyết tương của các thuốc chồng khít lên nhau.
+
+Mối quan hệ nồng độ huyết tương-thời gian tiêu biểu sau một liều uống duy nhất của một loại thuốc giả định
+
+Nồng độ thuốc trong huyết tương tăng theo mức độ hấp thu; nồng độ tối đa (đỉnh) trong huyết tương đạt được khi tốc độ thải thuốc bằng tốc độ hấp thu. Xác định sinh khả dụng dựa trên nồng độ đỉnh trong huyết thanh có thể gây nhầm lẫn vì việc thải trừ thuốc bắt đầu ngay khi thuốc vào hệ tuần hoàn. Thời gian đạt nồng độ đỉnh (khi nồng độ thuốc đạt nồng độ tối đa trong huyết tương) là chỉ số chung được sử dụng rộng rãi về tốc độ hấp thu, sự hấp thu càng chậm, thời gian đạt nồng độ đỉnh càng dài.
+
+Đối với các thuốc được bài tiết chủ yếu ở dạng không đổi qua nước tiểu, có thể ước tính sinh khả dụng bằng cách đo tổng lượng thuốc được bài tiết sau một liều đơn. Lý tưởng nhất, nước tiểu được giữ lại trong khoảng 7 đến 10 lần thời gian bán thải của thuốc để thuốc thải hoàn toàn qua nước tiểu. Sau khi dùng nhiều liều, có thể ước tính sinh khả dụng bằng cách đo lượng thuốc không đổi trong nước tiểu 24 giờ ở điều kiện ổn định.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

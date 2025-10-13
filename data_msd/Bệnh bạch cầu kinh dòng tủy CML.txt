@@ -1,0 +1,317 @@
+TIÊU ĐỀ: Bệnh bạch cầu kinh dòng tủy (CML)
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/bệnh-bạch-cầu/bệnh-bạch-cầu-kinh-dòng-tủy-cml
+================================================================================
+
+NỘI DUNG:
+
+Bệnh bạch cầu kinh dòng tủy (CML)
+
+(Bệnh bạch cầu kinh dòng hạt, Bệnh bạch cầu kinh dòng tủy; Bệnh bạch cầu nguyên bào tủy mạn tính)
+
+Theo
+
+Ashkan Emadi
+
+,
+
+MD, PhD
+
+,
+
+West Virginia University School of Medicine, Robert C. Byrd Health Sciences
+Center;
+
+Jennie York Law
+
+,
+
+MD
+
+,
+
+University of Maryland, School of Medicine
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 10 2023
+
+|
+
+đã sửa đổi
+
+Thg 3 2025
+
+v12772715_vi
+
+Bệnh bạch cầu kinh dòng tủy (CML) xuất hiện khi tế bào gốc vạn năng chuyển dạng ác tính và tăng sinh tủy, dẫn tới một sự sản xuất thừa quá mức các hạt bạch cầu hạt chưa trưởng thành. Ban đầu không có triệu chứng, sự tiến triển của CML là xấu đi, với một giai đoạn "lành tính" không đặc hiệu (mệt mỏi, chán ăn, sút cân) cuối cùng là tăng tốc hoặc pha blast với các dấu hiệu xấu hơn, như lách to, xanh, dễ bị bầm tím và chảy máu, sốt, hạch to, và thay đổi da. Chẩn đoán xác dịnh dựa trên: xét nghiệm tiêu bản phết máu ngoại biên, chọc hút dịch tủy xương, nhiễm sắc thể Philadenphia. Điều trị bằng thuốc ức chế tyrosine kinase (TKI) như imatinib, dasatinib, nilotinib, bosutinib, và ponatinib, giúp cải thiện đáng kể đáp ứng và kéo dài thời gian sống. Thuốc ức chế tủy như hydroxyurea, ghép tế bào gốc, và interferon alfa cũng thi thoảng được áp dụng.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Tổng quan về Bệnh bạch cầu
+
+.)
+
+Hiệp hội Ung thư Hoa Kỳ
+
+ước tính rằng tại Hoa Kỳ vào năm 2023 sẽ có hơn 8.900 trường hợp mắc CML mới và khoảng 1.310 trường hợp tử vong. Tuổi trung bình của bệnh nhân CML là 64 tuổi. Nguy cơ trung bình suốt đời của CML ở Hoa Kỳ ở cả hai giới là khoảng 0,19% (1 trong 526 người Mỹ).
+
+Sinh lý bệnh CML
+
+Nhiễm sắc thể Philadelphia (Ph) có trong 90 đến 95% trường hợp bệnh bạch cầu kinh dòng tủy. Nhiễm sắc thể Ph là sản phẩm của sự chuyển đoạn nghịch đảo giữa nhiễm sắc thể 9 và nhiễm sắc thể 22, t (9; 22). Đó là trao đổi đoạn, trong đó một phần nhiễm sắc thể số 9 chứa gen ung thư c-abl được chuyển lên nhiễm sắc thể số 22 và kết hợp với gen
+
+BCR
+
+. Gen tổng hợp tinh bột
+
+BCR-ABL
+
+chịu trách nhiệm sản xuất protein bcr-abl tyrosine kinase.
+
+protein bcr-abl có hoạt tính tyrosine kinase không được kiểm soát, làm mất tác dụng của sự tăng sinh tế bào, làm giảm sự bám dính của các tế bào bạch cầu vào tủy xương và bảo vệ tế bào khỏi chết tế bào theo chương trình (apoptosis).
+
+CML xảy ra khi tế bào tiền thân tạo máu vạn năng bất thường bắt đầu sản xuất quá mức tế bào dòng tủy, hạt chủ yếu ở tủy xương, nhưng cũng ở các vị trí ngoại tủy (ví dụ lá lách, gan). Mặc dù sự sản xuất dòng hạt chiếm ưu thế hơn, nhưng dòng tân sản bao gồm các hồng cầu, mẫu tiểu cầu, bạch cầu đơn nhân và thậm chí cả tế bào B và T. Các tế bào gốc bình thường được giữ lại và có thể xuất hiện sau khi thuốc ức chế dòng CML.
+
+Không được điều trị, CML trải qua 3 giai đoạn:
+
+Giai đoạn mạn tính:
+
+Thời kỳ ủ bệnh ban đầu có thẻ từ 5-6 năm.
+
+Giai đoạn tăng tốc:
+
+Điều trị thất bại, thiếu máu tăng dần, giảm tiểu cầu tiến triển hoặc tăng tiểu cầu, lách to hơn, sư phát triển dòng, tăng bạch cầu ưa bazơ máu, tăng blast tủy xương và máu (lên đến 19%).
+
+Giai đoạn blast (chuyển cấp):
+
+Tích lũy các blast ở các vị trí ngoại tủy (ví dụ xương, CNS, hạch, da), blast máu hoặc tủy tăng ≥ 20%
+
+Giai đoạn blast dẫn đến các biến chứng tràn lan tương tự như bệnh bạch cầu cấp, bao gồm nhiễm khuẩn và chảy máu. Một số bệnh nhân tiến triển trực tiếp từ giai đoạn mạn tính đến giai đoạn blast.
+
+Triệu chứng và dấu hiệu của CML
+
+Khoảng 85% bệnh nhân CML có trong giai đoạn mạn tính. Bệnh nhân thường không triệu chứng giai đoạn sớm, với những triệu chứng không đặc hiệu (như mệt mỏi, suy yếu, chán ăn, sụt cân, đổ mồ hôi ban đêm, cảm giác đầy bụng đặc biệt là ở phần tư bên trái, viêm khớp do gút, các triệu chứng của bệnh leukostasis như ù tai, sững sờ và mày đay), có thể dẫn đến việc làm xét nghiệm.
+
+Các triệu chứng ban đầu là xanh, dễ chảy máu, dễ bị bầm tím, và hạch to không thường xuyên, nhưng
+
+lách to
+
+trung bình hoặc rất to là phổ biến (60 đến 70% trường hợp). Với sự tiến triển của bệnh, lách có thể to lên, và có thể có xanh và chảy máu. Sốt, hạch to đáng kể, nốt nhú trên da là những dấu hiệu xấu.
+
+Chẩn đoán CML
+
+Công thức máu toàn phần
+
+Xét nghiệm tủy xương
+
+Xét nghiệm di truyền (nhiễm sắc thể Ph)
+
+Bệnh bạch cầu kinh dòng tủy thường được nghi ngờ nhất dựa trên một CBC bất thường thu được một cách tình cờ hoặc trong quá trình đánh giá lách to. Số lượng bạch cầu tăng cao, thông thường
+
+<
+
+50.000/mcL (≤ 50 × 10
+
+9
+
+/L) ở bệnh nhân không triệu chứng và 200.000/mcL (200 × 10
+
+9
+
+/L) đến 1.000.000/mcL (1.000 × 10
+
+9
+
+/L) ở bệnh nhân có triệu chứng. Bạch cầu đa nhân trung tính (bạch cầu thay đổi trái), bệnh bạch hầu và tăng bạch cầu ái toan là phổ biến. Số lượng tiểu cầu bình thường hoặc tăng vừa phải và ở một số bệnh nhân tăng tiểu cầu là triệu chứng nhập viện. Mức Hb thường là
+
+>
+
+10 g/dL (> 100 g/L).
+
+Tiêu bản phết máu ngoại biên
+
+có thể giúp phân biệt CML với tăng bạch cầu do các nguyên nhân khác. Trong CML, trên tiêu bản phết máu ngoại biên thấy các tế bào bạch cầu hạt chưa trưởng thành cũng như tăng bạch cầu ưa axit và ưa bazơ. Tuy nhiên, ở một số bệnh nhân có số lượng bạch cầu ≤ 50.000/mcL (≤ 50 × 10
+
+9
+
+/L) và thậm chí ở một số người có số lượng bạch cầu cao hơn, bạch cầu hạt chưa trưởng thành có thể không được nhìn thấy.
+
+Xét nghiệm tủy xương
+
+nên được thực hiện để đánh giá karyotype (nhiễm sắc thể) cũng như mật độ tế bào và mức độ xơ tủy.
+
+Chẩn đoán được xác định bằng cách tìm ra nhiễm sắc thể Ph trong các mẫu xét nghiệm di truyền tế bào hoặc phân tử. Kỹ thuật di truyền tế bào cổ điển không phát hiện nhiễm sắc thể Ph ở 5% bệnh nhân, nhưng sử dụng phương pháp lai huỳnh quang lai tại chỗ (FISH) hoặc phản ứng chuỗi polymerase phiên mã ngược (RT-PCR) có thể xác nhận chẩn đoán.
+
+Trong
+
+giai đoạn tăng tốc
+
+của CML, thiếu máu và giảm tiểu cầu thường phát triển. Có thể tăng bạch cầu ưa bazơ và thiếu sự trưởng thành của bạch cầu hat. Tỷ lệ tế bào dòng tủy chưa trưởng thành có thể tăng lên. Trong tủy xương, xơ hóa tủy có thể phát sinh và có thể có các nguyên bào sắt dạng vòng vì có thể có bất sản hồng cầu, tình trạng này có thể bị bỏ sót do tăng tính tế bào tủy. Sự tiến triển của dòng vô tính tân sinh có thể liên quan đến sự phát triển của các kiểu nhân bất thường mới, thường là nhiễm sắc thể số 8 phụ, isochromosome 17q [i(17q)] hoặc tái nhân đôi
+
+BCR-ABL1.
+
+Tiến triển tiến triển hơn có thể dẫn đến một
+
+giai đoạn blast
+
+với nguyên tủy bào (60% bệnh nhân), nguyên bào lympho (30%), và nguyên mẫu tiểu cầu (10%) và hiếm khi là nguyên bào hồng cầu. Trong 80% số bệnh nhân này, thường có thêm bất thường về nhiễm sắc thể.
+
+Điều trị CML
+
+Chất ức chế tyrosine kinase
+
+Đôi khi, cấy ghép tế bào gốc dị sinh
+
+Điều trị bạch cầu kinh dòng tủy phụ thuộc vào giai đoạn chính xác của bệnh. Trong giai đoạn mạn tính không có triệu chứng, thuốc ức chế tyrosine kinase (ví dụ, imatinib, nilotinib, dasatinib, bosutinib, ponatinib) là lựa chọn điều trị ban đầu; các thuốc này không có tác dụng chữa bệnh nhưng lại vô cùng hiệu quả. Chất ức chế tyrosine kinase đôi khi cũng được sử dụng trong giai đoạn tăng tốc hoặc nổ.
+
+Ghép tế bào gốc
+
+tạo máu đồng loài được dành riêng cho những bệnh nhân CML giai đoạn nhanh hoặc giai đoạn sớm hoặc những người có khả năng kháng các thuốc ức chế tyrosine kinase.
+
+Asciminib (chất gắn kết vào túi ABL) có sẵn cho CML trước đây được điều trị bằng hai hoặc nhiều thuốc ức chế tyrosine kinase hoặc CML trong giai đoạn mạn tính với đột biến T315I.
+
+Ngoại trừ khi
+
+ghép tế bào gốc
+
+thành công, không có điều trị khỏi bệnh. Tuy nhên, chất ức chế tyrosine kinase tồn tại kéo dài. Một số bệnh nhân có thể ngừng thuốc ức chế tyrosine kinase và vẫn thuyên giảm bệnh. Sự bền vững của những sự lui bệnh này vẫn rõ cơ chế.
+
+Chất ức chế tyrosine kinase
+
+BCR-ABL
+
+oncogene, chịu trách nhiệm về việc gây bệnh CML. Những loại thuốc này có hiệu quả đáng kể trong việc loại bỏ hoàn toàn về huyết học và di truyền tế bào của CML dương tính với nhiễm sắc thể Ph (CML Ph+) và rõ ràng là vượt trội so với các phác đồ thuốc khác (ví dụ, interferon có hoặc không có cytarabine).
+
+Response to TKI therapy
+
+Đáp ứng với liệu pháp TKI là yếu tố tiên lượng quan trọng nhất đối với bệnh nhân CML. Phản ứng của bệnh nhân được đo tại thời điểm ban đầu và sau đó là 3 tháng, 6 tháng và 1 năm. Đáp ứng có thể được đánh giá bằng xét nghiệm phân tử (đo lường BCR-ABL) hoặc xét nghiệm tế bào học (đo lường các tế bào nhiễm sắc thể Ph +), nhưng cả hai đều được khuyến cáo. Một đáp ứng phân tử chính được định nghĩa là BCR-ABL máu < 1/1000 (hoặc ít hơn) giá trị dự kiến cho CML không được điều trị. Nếu sau 12 tháng đạt được đáp ứng chính về phân tử thì đáp ứng này có thể được theo dõi 3 tháng đến 6 tháng một lần bằng phản ứng chuỗi polymerase định lượng theo thời gian thực của protein BCR-ABL và xét nghiệm tế bào học.
+
+Hiếm khi, các thuốc khác được sử dụng làm giảm nhẹ trong CML. Những loại thuốc này bao gồm hydroxyurea, busulfan, và interferon tái tổ hợp hoặc interferon pegylated. Lợi ích chính của hydroxyurea là làm giảm chứng lách to và bệnh lý đau đớn và kiểm soát gánh nặng của khối u để giảm tỷ lệ mắc hội chứng ly giải khối u và bệnh gút. Không có loại thuốc nào trong số này dường như kéo dài sự sống, mặc dù interferon có thể tạo ra sự thuyên giảm trên lâm sàng ở khoảng 19% bệnh nhân.
+
+Đồng nhiễm
+
+ghép tế bào gốc
+
+, vì độc tính của nó và vì hiệu quả của chất ức chế tyrosine kinase, được sử dụng có chọn lọc. Ghép được dành riêng cho những bệnh nhân có CML tăng tốc hoặc kháng pha nhanh với thuốc ức chế BCR-ABL. Cấy ghép có thể điều trị khỏi bệnh.
+
+Tiên lượng về CML
+
+Với việc sử dụng thuốc ức chế tyrosine kinase, thời gian sống thêm hiện là
+
+>
+
+90% ở thời điểm 5 năm kể từ khi chẩn đoán CML giai đoạn mạn tính. Trước khi dùng imatinib, với điều trị, 5 đến 10% bệnh nhân chết trong vòng 2 năm chẩn đoán; 10 đến 15% chết sau mỗi năm. Tỷ lệ sống trung bình từ 4 đến 7 năm. Hầu hết (90%) tử vong trong giai đoạn blast hoặc giai đoạn tăng tốc. Thời gian sống trung bình sau giai đoạn blast là 3 đến 6 tháng hoặc lâu hơn nếu có lui bệnh.
+
+Những điểm chính
+
+Bệnh bạch cầu kinh dòng tủy (CML) liên quan đến sự trao đổi đoạn nhiễm sắc thể tạo ra nhiễm sắc thể Philadelphia, t(9;22).
+
+Phết tế bào ngoại vi (thường cho thấy bạch cầu hạt chưa trưởng thành, tăng bạch cầu ưa bazơ và bạch cầu ái toan) giúp phân biệt CML với tăng bạch cầu do các nguyên nhân khác (ví dụ: tăng bạch cầu do nhiễm trùng).
+
+Thuốc ức chế tyrosine kinase cực kỳ hiệu quả, kéo dài thời gian sống sót và thậm chí có thể chữa bệnh.
+
+Cấy ghép tế bào gốc có thể chữa khỏi bệnh và có thể giúp những bệnh nhân không đáp ứng với chất ức chế tyrosine kinase hoặc những người tiến triển đến giai đoạn tăng tốc hoặc bùng phát.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Leukemia and Lymphoma Society: Resources for Healthcare Professionals
+
+: Provides information on research and clinical trials and resources for referrals to specialty care
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh bạch cầu kinh dòng hạt, Bệnh bạch cầu kinh dòng tủy; Bệnh bạch cầu nguyên bào tủy mạn tính) ---
+
+TheoAshkan Emadi,MD, PhD,West Virginia University School of Medicine, Robert C. Byrd Health Sciences
+Center;Jennie York Law,MD,University of Maryland, School of MedicineXem xét bởiJerry L. Spivak,MD; MACP,, Johns Hopkins University School of MedicineĐã xem xét/Đã chỉnh sửaThg 10 2023|đã sửa đổiThg 3 2025v12772715_vi
+
+--- 2. Sinh lý bệnh CML ---
+
+Nhiễm sắc thể Philadelphia (Ph) có trong 90 đến 95% trường hợp bệnh bạch cầu kinh dòng tủy. Nhiễm sắc thể Ph là sản phẩm của sự chuyển đoạn nghịch đảo giữa nhiễm sắc thể 9 và nhiễm sắc thể 22, t (9; 22). Đó là trao đổi đoạn, trong đó một phần nhiễm sắc thể số 9 chứa gen ung thư c-abl được chuyển lên nhiễm sắc thể số 22 và kết hợp với genBCR. Gen tổng hợp tinh bộtBCR-ABLchịu trách nhiệm sản xuất protein bcr-abl tyrosine kinase.protein bcr-abl có hoạt tính tyrosine kinase không được kiểm soát, làm mất tác dụng của sự tăng sinh tế bào, làm giảm sự bám dính của các tế bào bạch cầu vào tủy xương và bảo vệ tế bào khỏi chết tế bào theo chương trình (apoptosis).CML xảy ra khi tế bào tiền thân tạo máu vạn năng bất thường bắt đầu sản xuất quá mức tế bào dòng tủy, hạt chủ yếu ở tủy xương, nhưng cũng ở các vị trí ngoại tủy (ví dụ lá lách, gan). Mặc dù sự sản xuất dòng hạt chiếm ưu thế hơn, nhưng dòng tân sản bao gồm các hồng cầu, mẫu tiểu cầu, bạch cầu đơn nhân và thậm chí cả tế bào B và T. Các tế bào gốc bình thường được giữ lại và có thể xuất hiện sau khi thuốc ức chế dòng CML.Không được điều trị, CML trải qua 3 giai đoạn:Giai đoạn mạn tính:Thời kỳ ủ bệnh ban đầu có thẻ từ 5-6 năm.Giai đoạn tăng tốc:Điều trị thất bại, thiếu máu tăng dần, giảm tiểu cầu tiến triển hoặc tăng tiểu cầu, lách to hơn, sư phát triển dòng, tăng bạch cầu ưa bazơ máu, tăng blast tủy xương và máu (lên đến 19%).Giai đoạn blast (chuyển cấp):Tích lũy các blast ở các vị trí ngoại tủy (ví dụ xương, CNS, hạch, da), blast máu hoặc tủy tăng ≥ 20%Giai đoạn blast dẫn đến các biến chứng tràn lan tương tự như bệnh bạch cầu cấp, bao gồm nhiễm khuẩn và chảy máu. Một số bệnh nhân tiến triển trực tiếp từ giai đoạn mạn tính đến giai đoạn blast.
+
+--- 3. Triệu chứng và dấu hiệu của CML ---
+
+Khoảng 85% bệnh nhân CML có trong giai đoạn mạn tính. Bệnh nhân thường không triệu chứng giai đoạn sớm, với những triệu chứng không đặc hiệu (như mệt mỏi, suy yếu, chán ăn, sụt cân, đổ mồ hôi ban đêm, cảm giác đầy bụng đặc biệt là ở phần tư bên trái, viêm khớp do gút, các triệu chứng của bệnh leukostasis như ù tai, sững sờ và mày đay), có thể dẫn đến việc làm xét nghiệm.Các triệu chứng ban đầu là xanh, dễ chảy máu, dễ bị bầm tím, và hạch to không thường xuyên, nhưnglách totrung bình hoặc rất to là phổ biến (60 đến 70% trường hợp). Với sự tiến triển của bệnh, lách có thể to lên, và có thể có xanh và chảy máu. Sốt, hạch to đáng kể, nốt nhú trên da là những dấu hiệu xấu.
+
+--- 4. Chẩn đoán CML ---
+
+Công thức máu toàn phầnXét nghiệm tủy xươngXét nghiệm di truyền (nhiễm sắc thể Ph)Bệnh bạch cầu kinh dòng tủy thường được nghi ngờ nhất dựa trên một CBC bất thường thu được một cách tình cờ hoặc trong quá trình đánh giá lách to. Số lượng bạch cầu tăng cao, thông thường<50.000/mcL (≤ 50 × 109/L) ở bệnh nhân không triệu chứng và 200.000/mcL (200 × 109/L) đến 1.000.000/mcL (1.000 × 109/L) ở bệnh nhân có triệu chứng. Bạch cầu đa nhân trung tính (bạch cầu thay đổi trái), bệnh bạch hầu và tăng bạch cầu ái toan là phổ biến. Số lượng tiểu cầu bình thường hoặc tăng vừa phải và ở một số bệnh nhân tăng tiểu cầu là triệu chứng nhập viện. Mức Hb thường là>10 g/dL (> 100 g/L).Tiêu bản phết máu ngoại biêncó thể giúp phân biệt CML với tăng bạch cầu do các nguyên nhân khác. Trong CML, trên tiêu bản phết máu ngoại biên thấy các tế bào bạch cầu hạt chưa trưởng thành cũng như tăng bạch cầu ưa axit và ưa bazơ. Tuy nhiên, ở một số bệnh nhân có số lượng bạch cầu ≤ 50.000/mcL (≤ 50 × 109/L) và thậm chí ở một số người có số lượng bạch cầu cao hơn, bạch cầu hạt chưa trưởng thành có thể không được nhìn thấy.Xét nghiệm tủy xươngnên được thực hiện để đánh giá karyotype (nhiễm sắc thể) cũng như mật độ tế bào và mức độ xơ tủy.Chẩn đoán được xác định bằng cách tìm ra nhiễm sắc thể Ph trong các mẫu xét nghiệm di truyền tế bào hoặc phân tử. Kỹ thuật di truyền tế bào cổ điển không phát hiện nhiễm sắc thể Ph ở 5% bệnh nhân, nhưng sử dụng phương pháp lai huỳnh quang lai tại chỗ (FISH) hoặc phản ứng chuỗi polymerase phiên mã ngược (RT-PCR) có thể xác nhận chẩn đoán.Tronggiai đoạn tăng tốccủa CML, thiếu máu và giảm tiểu cầu thường phát triển. Có thể tăng bạch cầu ưa bazơ và thiếu sự trưởng thành của bạch cầu hat. Tỷ lệ tế bào dòng tủy chưa trưởng thành có thể tăng lên. Trong tủy xương, xơ hóa tủy có thể phát sinh và có thể có các nguyên bào sắt dạng vòng vì có thể có bất sản hồng cầu, tình trạng này có thể bị bỏ sót do tăng tính tế bào tủy. Sự tiến triển của dòng vô tính tân sinh có thể liên quan đến sự phát triển của các kiểu nhân bất thường mới, thường là nhiễm sắc thể số 8 phụ, isochromosome 17q [i(17q)] hoặc tái nhân đôiBCR-ABL1.Tiến triển tiến triển hơn có thể dẫn đến mộtgiai đoạn blastvới nguyên tủy bào (60% bệnh nhân), nguyên bào lympho (30%), và nguyên mẫu tiểu cầu (10%) và hiếm khi là nguyên bào hồng cầu. Trong 80% số bệnh nhân này, thường có thêm bất thường về nhiễm sắc thể.
+
+--- 5. Điều trị CML ---
+
+Chất ức chế tyrosine kinaseĐôi khi, cấy ghép tế bào gốc dị sinhĐiều trị bạch cầu kinh dòng tủy phụ thuộc vào giai đoạn chính xác của bệnh. Trong giai đoạn mạn tính không có triệu chứng, thuốc ức chế tyrosine kinase (ví dụ, imatinib, nilotinib, dasatinib, bosutinib, ponatinib) là lựa chọn điều trị ban đầu; các thuốc này không có tác dụng chữa bệnh nhưng lại vô cùng hiệu quả. Chất ức chế tyrosine kinase đôi khi cũng được sử dụng trong giai đoạn tăng tốc hoặc nổ.Ghép tế bào gốctạo máu đồng loài được dành riêng cho những bệnh nhân CML giai đoạn nhanh hoặc giai đoạn sớm hoặc những người có khả năng kháng các thuốc ức chế tyrosine kinase.Asciminib (chất gắn kết vào túi ABL) có sẵn cho CML trước đây được điều trị bằng hai hoặc nhiều thuốc ức chế tyrosine kinase hoặc CML trong giai đoạn mạn tính với đột biến T315I.Ngoại trừ khighép tế bào gốcthành công, không có điều trị khỏi bệnh. Tuy nhên, chất ức chế tyrosine kinase tồn tại kéo dài. Một số bệnh nhân có thể ngừng thuốc ức chế tyrosine kinase và vẫn thuyên giảm bệnh. Sự bền vững của những sự lui bệnh này vẫn rõ cơ chế.Chất ức chế tyrosine kinaseBCR-ABLoncogene, chịu trách nhiệm về việc gây bệnh CML. Những loại thuốc này có hiệu quả đáng kể trong việc loại bỏ hoàn toàn về huyết học và di truyền tế bào của CML dương tính với nhiễm sắc thể Ph (CML Ph+) và rõ ràng là vượt trội so với các phác đồ thuốc khác (ví dụ, interferon có hoặc không có cytarabine).Response to TKI therapyĐáp ứng với liệu pháp TKI là yếu tố tiên lượng quan trọng nhất đối với bệnh nhân CML. Phản ứng của bệnh nhân được đo tại thời điểm ban đầu và sau đó là 3 tháng, 6 tháng và 1 năm. Đáp ứng có thể được đánh giá bằng xét nghiệm phân tử (đo lường BCR-ABL) hoặc xét nghiệm tế bào học (đo lường các tế bào nhiễm sắc thể Ph +), nhưng cả hai đều được khuyến cáo. Một đáp ứng phân tử chính được định nghĩa là BCR-ABL máu < 1/1000 (hoặc ít hơn) giá trị dự kiến cho CML không được điều trị. Nếu sau 12 tháng đạt được đáp ứng chính về phân tử thì đáp ứng này có thể được theo dõi 3 tháng đến 6 tháng một lần bằng phản ứng chuỗi polymerase định lượng theo thời gian thực của protein BCR-ABL và xét nghiệm tế bào học.Hiếm khi, các thuốc khác được sử dụng làm giảm nhẹ trong CML. Những loại thuốc này bao gồm hydroxyurea, busulfan, và interferon tái tổ hợp hoặc interferon pegylated. Lợi ích chính của hydroxyurea là làm giảm chứng lách to và bệnh lý đau đớn và kiểm soát gánh nặng của khối u để giảm tỷ lệ mắc hội chứng ly giải khối u và bệnh gút. Không có loại thuốc nào trong số này dường như kéo dài sự sống, mặc dù interferon có thể tạo ra sự thuyên giảm trên lâm sàng ở khoảng 19% bệnh nhân.Đồng nhiễmghép tế bào gốc, vì độc tính của nó và vì hiệu quả của chất ức chế tyrosine kinase, được sử dụng có chọn lọc. Ghép được dành riêng cho những bệnh nhân có CML tăng tốc hoặc kháng pha nhanh với thuốc ức chế BCR-ABL. Cấy ghép có thể điều trị khỏi bệnh.
+
+--- 6. Tiên lượng về CML ---
+
+Với việc sử dụng thuốc ức chế tyrosine kinase, thời gian sống thêm hiện là>90% ở thời điểm 5 năm kể từ khi chẩn đoán CML giai đoạn mạn tính. Trước khi dùng imatinib, với điều trị, 5 đến 10% bệnh nhân chết trong vòng 2 năm chẩn đoán; 10 đến 15% chết sau mỗi năm. Tỷ lệ sống trung bình từ 4 đến 7 năm. Hầu hết (90%) tử vong trong giai đoạn blast hoặc giai đoạn tăng tốc. Thời gian sống trung bình sau giai đoạn blast là 3 đến 6 tháng hoặc lâu hơn nếu có lui bệnh.
+
+--- 7. Những điểm chính ---
+
+Bệnh bạch cầu kinh dòng tủy (CML) liên quan đến sự trao đổi đoạn nhiễm sắc thể tạo ra nhiễm sắc thể Philadelphia, t(9;22).Phết tế bào ngoại vi (thường cho thấy bạch cầu hạt chưa trưởng thành, tăng bạch cầu ưa bazơ và bạch cầu ái toan) giúp phân biệt CML với tăng bạch cầu do các nguyên nhân khác (ví dụ: tăng bạch cầu do nhiễm trùng).Thuốc ức chế tyrosine kinase cực kỳ hiệu quả, kéo dài thời gian sống sót và thậm chí có thể chữa bệnh.Cấy ghép tế bào gốc có thể chữa khỏi bệnh và có thể giúp những bệnh nhân không đáp ứng với chất ức chế tyrosine kinase hoặc những người tiến triển đến giai đoạn tăng tốc hoặc bùng phát.
+
+--- 8. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Leukemia and Lymphoma Society: Resources for Healthcare Professionals: Provides information on research and clinical trials and resources for referrals to specialty care

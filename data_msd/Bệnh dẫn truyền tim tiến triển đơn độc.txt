@@ -1,0 +1,156 @@
+TIÊU ĐỀ: Bệnh dẫn truyền tim tiến triển đơn độc
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-ở-tim-do-loạn-sản-thất-phải/bệnh-dẫn-truyền-tim-tiến-triển-đơn-độc
+================================================================================
+
+NỘI DUNG:
+
+Bệnh dẫn truyền tim tiến triển đơn độc
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2024
+
+|
+
+đã sửa đổi
+
+Thg 8 2024
+
+v75229049_vi
+
+Bệnh dẫn truyền tim tiến triển đơn độc (PCCD) đề cập đến một nhóm các rối loạn di truyền liên quan đến các khiếm khuyết ngày càng xấu đi về dẫn truyền tim, bao gồm rối loạn chức năng nút xoang, các mức độ khác nhau của block nhĩ thất (AV) và/hoặc block hoặc chậm dẫn truyền hệ thống His-Purkinje.
+
+Bệnh dẫn truyền tim tiến triển đơn độc có thể là
+
+Cấu trúc: Đi kèm hoặc sau khi bị bệnh tim do cấu trúc (ví dụ: bệnh tim bẩm sinh, bệnh cơ tim)
+
+Đơn độc: Xảy ra ở tim có cấu trúc bình thường
+
+Dạng PCCD phổ biến nhất liên quan đến bệnh cơ tim là dạng có đột biến LMNA (xem
+
+Bệnh cơ tim Lamin A/C
+
+). Một số bệnh nhân như vậy có tim có cấu trúc rõ ràng là bình thường nhưng sau đó phát triển thành bệnh cơ tim.
+
+Bệnh nhân bị PCCD đơn độc thường biểu hiện bệnh hệ thống dẫn truyền tiến triển khởi phát sớm (
+
+<
+
+50 tuổi), biểu hiện bằng một hoặc nhiều biểu hiện sau:
+
+Suy chức năng nút xoang
+
+Chậm dẫn truyền trong tâm nhĩ
+
+Bệnh nút nhĩ thất
+
+Bệnh hệ thống His-Purkinje (tức là
+
+block bó nhánh
+
+hoặc
+
+block bó
+
+)
+
+Một dạng thoái hóa, trong đó hệ thống dẫn truyền trở nên xơ cứng, được gọi là bệnh Lenègre-Lev
+
+Kết quả bệnh dẫn truyền tim tiến triển đơn độc đơn lẻ chủ yếu là do đột biến ở
+
+SCN5A
+
+, gen mã hóa kênh Nav1.5 chịu trách nhiệm về dòng natri (INa) đi vào. Di truyền thường theo kiểu gen trội trên nhiễm sắc thể thường. Các hội chứng chồng chéo với
+
+hội chứng QT kéo dài
+
+và
+
+hội chứng Brugada
+
+đã được báo cáo (
+
+1
+
+).
+
+Rối loạn được biểu hiện bằng những thay đổi trên ECG bao gồm khoảng PR kéo dài, sóng P rộng, phức bộ QRS rộng, block nhĩ thất, block bó nhánh phải, bán block trước trái, bán block sau trái, block bó nhánh trái hoặc block dẫn truyền liên thất không đặc hiệu. Bệnh nhân cũng có nguy cơ cao bị đột tử.
+
+Bệnh nhân cần phải có chẩn đoánh hình ảnh tim (ví dụ: siêu âm tim, chụp MRI) để phát hiện bất kỳ rối loạn cấu trúc nào. Bệnh nhân không mắc bệnh cấu trúc cần phải được xét nghiệm di truyền, đặc biệt là nếu họ có tiền sử gia đình có đột tử do tim hoặc cần cấy máy tạo nhịp tim khi còn trẻ. Nếu xét nghiệm cho thấy có bất thường về gen, các thành viên trong gia đình cần phải được sàng lọc bằng ECG và xét nghiệm di truyền.
+
+Điều trị bằng máy tạo nhịp tim theo
+
+các chỉ định cấy máy tạo nhịp tim
+
+thông thường, bao gồm block nhĩ thất cấp ba hoặc block nhĩ thất cấp hai có triệu chứng. Bởi vì PCCD tiến triển, có một khuyến nghị đồng thuận rằng máy tạo nhịp tim cũng có thể có tác dụng tốt ở những bệnh nhân PCCD đơn độc bị block hai nhánh (
+
+2
+
+).
+
+Tài liệu tham khảo
+
+1.
+
+Asatryan B, Medeiros-Domingo A
+
+: Molecular and genetic insights into progressive cardiac conduction disease.
+
+Europace
+
+21(8):1145–1158, 2019 doi: 10.1093/europace/euz109
+
+2.
+
+Priori SG, Wilde AA, Horie M, et al
+
+: HRS/EHRA/APHRS Expert Consensus Statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: : document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.
+
+Heart Rhythm
+
+10:1932–1963, 2013 doi: 10.1016/j.hrthm.2013.05.014
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

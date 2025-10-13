@@ -1,0 +1,341 @@
+TIÊU ĐỀ: Hội chứng mệt mỏi mạn tính
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/hội-chứng-mệt-mỏi-mạn-tính/hội-chứng-mệt-mỏi-mạn-tính
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng mệt mỏi mạn tính
+
+(Bệnh không dung nạp gắng sức hệ thống; SEID,Viêm não tủy sống; ME/CFS)
+
+Theo
+
+Stephen Gluckman
+
+,
+
+MD
+
+,
+
+Perelman School of Medicine at The University of Pennsylvania
+
+Xem xét bởi
+
+Matthew E. Levison
+
+,
+
+MD
+
+,
+
+Drexel University College of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1127520_vi
+
+Hội chứng mệt mỏi mạn tính (CFS, còn được gọi là viêm cơ não tủy/hội chứng mệt mỏi mjn tính [ME/CFS]) là một hội chứng mệt mỏi thay đổi cuộc sống kéo dài > 6 tháng không rõ nguyên nhân và kèm theo một số triệu chứng kèm theo. Điều trị bao gồm: nhận định đúng tình trạng bệnh, điều trị triệu chứng đặc hiệu, liệu pháp hành vi nhận thức và bài tập gắng sức theo cấp độ.
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Mặc dù có tới 25% số người dân ở Hoa Kỳ cho biết họ bị
+
+mệt mỏi
+
+mạn tính (
+
+1
+
+), nhưng chỉ có khoảng 0,5% số người đáp ứng tiêu chuẩn mắc CFS (
+
+2
+
+). Mặc dù thuật ngữ CFS được sử dụng lần đầu tiên vào năm 1988, nhưng tình trạng này đã được mô tả khá rõ từ ít nhất là giữa thập niên đầu của thế kỷ 18, nhưng với các tên khác nhau (ví dụ: sốt nhẹ, suy nhược thần kinh, nhiễm khuẩn mạn tính, hội chứng gắng sức). CFS được mô tả nhiều nhất ở phụ nữ trẻ và trung niên nhưng đã được ghi nhận ở mọi lứa tuổi, kể cả trẻ em và ở cả hai giới.
+
+CFS không phải là giả bệnh (do bênh nhân cố ý giả vờ các triệu chứng). CFS có nhiều đặc điểm giống với
+
+bệnh lý đau cơ xơ hóa
+
+như: rối loạn giấc ngủ, lơ mơ, mệt mỏi, đau, các triệu chứng xuất hiện tăng lên khi vận đông.
+
+Tài liệu tham khảo
+
+1.
+
+Galland-Decker C, Marques-Vidal P, Vollenweider P
+
+: Prevalence and factors associated with fatigue in the Lausanne middle-aged population: a population-based, cross-sectional survey.
+
+BMJ Open
+
+9(8):e027070, 2019 Xuất bản ngày 24 tháng 8 năm 2019. doi:10.1136/bmjopen-2018-027070
+
+2.
+
+Valdez AR, Hancock EE, Adebayo S, et al
+
+: Estimating prevalence, demographics, and costs of ME/CFS using large scale medical claims data and machine learning.
+
+Front Pediatr
+
+6:412, 2019 doi:10.3389/fped.2018.00412
+
+Căn nguyên của hội chứng mệt mỏi mạn tính
+
+Chưa rõ căn nguyên của CFS. Không xác định được nguyên nhân nhiễm trùng, nội tiết tố, miễn dịch hoặc tâm lý nào. Trong số nhiều tác nhân nhiễm trùng được đề xuất thì virus Epstein-Barr, bệnh Lyme, Candida và Cytomegalovirus đã được chứng minh là không gây CFS. Tương tự, không phát hiện những dấu hiệu về dị ứng và tình trạng suy giảm miễn dịch. Những người bị CFS không có nguy cơ cao bị các bệnh nhiễm trùng cơ hội.
+
+Một số người đã khỏi bệnh sau
+
+nhiễm COVID-19
+
+đã trở thành những người "mắc bệnh lâu năm" với các triệu chứng dai dẳng. Một số triệu chứng này là do tổn thương cơ quan do nhiễm trùng và/hoặc do điều trị, và những triệu chứng khác có thể là do
+
+rối loạn căng thẳng sau tổn thương (PTSD)
+
+. Ngoài ra, ở một số bệnh nhân, COVID-19 dường như kích hoạt CFS điển hình. Mối liên quan này đang được tích cực nghiên cứu.
+
+Nhiều bất thường về miễn dịch khác nhau liên quan đến bệnh đã được báo cáo. Chúng bao gồm nồng độ IgG thấp, xuất hiện các IgG bất thường, giảm sự tăng sinh tế bào lympho, giảm interferon-gamma khi phản ứng với thoi vô sắc, giảm độc tính tế bào của các tế bào diệt tự nhiên, các tự kháng thể lưu hành và các phức hợp miễn dịch và nhiều một số dấu hiệu về miễn dịch khác. Tuy nhiên, không có độ nhạy và độ đặc hiệu thích hợp để chẩn đoán xác định CFS. Tuy nhiên, họ nhấn mạnh tính hợp pháp của CFS.
+
+Người thân của bệnh nhân CFS có nguy cơ phát triển hội chứng này, gợi ý yếu tố di truyền hoặc môi trường tiếp xúc. Các nghiên cứu gần đây đã xác định được một số yếu tố di truyền có thể dẫn đến CFS. Một số nhà nghiên cứu tin rằng nguyên nhân cuối cùng sẽ được chứng minh là do nhiều yếu tố, bao gồm khuynh hướng di truyền và việc tiếp xúc với vi khuẩn, chất độc cũng như các chấn thương về thể chất và/hoặc cảm xúc khác.
+
+Các triệu chứng và dấu hiệu của hội chứng mệt mỏi mạn tính
+
+Trước khi khởi phát CFS, hầu hết bệnh nhân đều hoạt động hiệu quả.
+
+Khởi phát thường đột ngột, thường xảy ra sau một sự kiện tâm lý hoặc căng thẳng về mặt y học. Sự khởi phát thường đột ngột và triệu chứng ban đầu được mô tả giống nhiễm virut như nổi hạch, mệt mỏi nhiều, sốt và các triệu chứng đường hô hấp trên. Hội chứng ban đầu tự khỏi nhưng dường như gây ra tình trạng mệt mỏi nghiêm trọng kéo dài, gây trở ngại cho các hoạt động hàng ngày và thường nặng hơn khi gắng sức nhưng sẽ thuyên giảm kém hoặc hoàn toàn không khi nghỉ ngơi. Bệnh nhân cũng thường có rối loạn về giấc ngủ và nhận thức, chẳng hạn như các vấn đề về trí nhớ, "suy nghĩ mơ hồ", buồn ngủ quá mức, và có cảm giác ngủ không thoải mái. Đau toàn thể cũng là một dấu hiệu phổ biến.
+
+Không có triệu chứng thực thể rõ ràng như yếu cơ, viêm khớp, đau dây thần kinh hay phì đại các cơ quan. Tuy nhiên, một số bệnh nhân có sốt nhẹ, viêm họng không xuất tiết và/hoặc đau hạch, nổi hạch.
+
+Bởi vì bệnh nhân thường có vẻ khỏe mạnh nên bạn bè, gia đình và thậm chí cả các chuyên viên chăm sóc sức khỏe đôi khi bày tỏ sự hoài nghi về tình trạng của họ, điều này có thể làm trầm trọng thêm sự thất vọng và/hoặc trầm cảm mà bệnh nhân thường cảm thấy về rối loạn chưa được hiểu rõ của họ.
+
+Chẩn đoán hội chứng mệt mỏi mạn tính
+
+Tiêu chuẩn lâm sàng
+
+Đánh giá bằng các xét nghiệm để loại trừ các chứng bệnh không phải là CFS
+
+Chẩn đoán CFS được thực hiện bằng tiền sử đặc trưng kết hợp với khám thực thể bình thường và kết quả xét nghiệm bình thường. Bất kỳ dấu hiệu thực thể bất thường hoặc kết quả xét nghiệm nào đều phải được đánh giá và chẩn đoán thay thế gây ra những dấu hiệu đó và/hoặc các triệu chứng của bệnh nhân được loại trừ trước khi có thể đưa ra chẩn đoán CFS. Định nghĩa ca bệnh đôi khi hữu ích nhưng chủ yếu là một công cụ nghiên cứu dịch tễ và không nên áp dụng chặt chẽ cho từng bệnh nhân.
+
+Xét nghiệm được đề xuất hướng vào bất kỳ nguyên nhân không CFS nào nghi ngờ dựa trên các kết quả khám bệnh lâm sàng. Nếu không có nguyên nhân rõ ràng hoặc nghi ngờ, đánh giá xét nghiệm hợp lý bao gồm công thức máu và đo các chất điện giải, nitơ
+
+urê
+
+máu, creatinine, tốc độ máu lắng và hormone kích thích tuyến giáp. Nếu chỉ định dựa vào các dấu hiệu lâm sàng, xét nghiệm thêm có thể bao gồm: chụp X-quang ngực,
+
+khảo sát giấc ngủ
+
+và
+
+kiểm tra xem có suy giảm thượng thận
+
+hay không ở trên một số bệnh nhân được lựa chọn. Các xét nghiệm huyết thanh học với nhiễm trùng, kháng thể kháng nhân và điện quang thần kinh không được chỉ định nếu không có triệu chứng thực thể (không chỉ dựa vào triệu chứng cơ năng) hoặc các xét nghiệm cơ bản; trong những trường hợp như vậy, xác suất xét nghiệm thấp và nguy cơ kết quả dương tính giả (điều trị không cần thiết và/hoặc cần thêm xét nghiệm khẳng định) cao. Điều này có thể dẫn đến chẩn đoán sai, xét nghiệm không cần thiết và điều trị không phù hợp.
+
+Vào tháng 2 năm 2015, Viện Y học (nay là Phân môn Sức khỏe và Y tế của Học viện Khoa học, Kỹ thuật và Y khoa Quốc gia ["the National Academies"]) đã công bố một bài tổng quan về bệnh này có tên là
+
+Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness
+
+. Trong tổng quan này, họ đã đề xuất một tên mới, bệnh không dung nạp gắng sức toàn thân (SEID) và các tiêu chuẩn chẩn đoán mới giúp đơn giản hóa chẩn đoán và nhấn mạnh các đặc điểm nhất quán (xem bảng
+
+Tiêu chuẩn chẩn đoán hội chứng mệt mỏi mạn tính
+
+). Thêm vào đó, bài tổng quan đã nhấn mạnh rõ ràng ảnh hưởng của căn bệnh suy nhược này. Việc giới thiệu bệnh nhân và thành viên gia đình đến tài liệu này có thể giúp họ nâng cao hiểu biết và nhấn mạnh giá trị căn bệnh thường gây tàn tật của họ.
+
+Bảng
+
+Tiêu chuẩn chẩn đoán cho hội chứng mệt mỏi mạn tính*
+
+Tiêu chuẩn chẩn đoán cho hội chứng mệt mỏi mạn tính*
+
+Chẩn đoán đòi hỏi bệnh nhân có 3 triệu chứng sau:
+
+Giảm đáng kể hoặc suy giảm khả năng tham gia các hoạt động nghề nghiệp, giáo dục, xã hội hoặc cá nhân kéo dài hơn 6 tháng và thường kèm theo mệt mỏi nhiều, bênh mới khởi phát hoặc rõ ràng khô, không phải do gắng sức liên tục và không giảm khí nghỉ ngơi.
+
+Mệt mỏi sau gắng sức †
+
+Không khoan khoái khi ngủ †
+
+Đòi hỏi it nhất một trong những biểu hiện sau đây:
+
+Suy giảm nhận thức†
+
+Khó đứng thẳng
+
+*
+
+Tiêu chuẩn chẩn đoán của Viện Y khoa
+
+(nay là Phân môn Sức khỏe và Y tế của Học viện Khoa học, Kỹ thuật và Y khoa Quốc gia) vào tháng 2 năm 2015.
+
+† Cần đánh giá tần suất và mức độ nghiêm trọng của các triệu chứng. Cần nghi ngờ chẩn đoán viêm cơ não tủy/hội chứng mệt mỏi mạn tính (ME/CFS) nếu bệnh nhân không có các triệu chứng này ít nhất một nửa thời gian với cường độ vừa, đáng kể hoặc nặng.
+
+*
+
+Tiêu chuẩn chẩn đoán của Viện Y khoa
+
+(nay là Phân môn Sức khỏe và Y tế của Học viện Khoa học, Kỹ thuật và Y khoa Quốc gia) vào tháng 2 năm 2015.
+
+† Cần đánh giá tần suất và mức độ nghiêm trọng của các triệu chứng. Cần nghi ngờ chẩn đoán viêm cơ não tủy/hội chứng mệt mỏi mạn tính (ME/CFS) nếu bệnh nhân không có các triệu chứng này ít nhất một nửa thời gian với cường độ vừa, đáng kể hoặc nặng.
+
+Điều trị hội chứng mệt mỏi mạn tính
+
+Thừa nhận các triệu chứng của bệnh nhân
+
+Đôi khiLiệu pháp nhận thức-hành vi
+
+Đôi khi tập thể dục được phân loại, hạn chế để tránh sự thụt lùi
+
+Các loại thuốc điều trị trầm cảm, gây ngủ hoặc giảm đau nếu có chỉ định
+
+Để cung cấp dịch vụ chăm sóc hiệu quả cho bệnh nhân CFS, bác sĩ phải thừa nhận và chấp nhận giá trị của các triệu chứng của bệnh nhân. Bất kể do nguyên nhân nào thì những bệnh nhân này đều đang khổ sở và mong muốn sức khỏe trở lại như trước đây. Để quản lý thành công, bệnh nhân cần chấp nhận và điều chỉnh tình trạng khuyết tật của mình, tập trung vào những gì họ vẫn có thể làm thay vì than thở về những gì họ không thể làm được.
+
+Liệu pháp nhận thức-hành vi và chương trình tập luyện theo mức độ là những can thiệp duy nhất hữu ích (
+
+1
+
+,
+
+2
+
+). Chúng nên được xem xét cho những bệnh nhân sẵn sàng thử chúng và có quyền truy cập vào các dịch vụ thích hợp. Trầm cảm là phổ biến và được mong đợi ở bất kỳ bệnh nhân khuyết tật nào. Trầm cảm nên được điều trị bằng thuốc chống trầm cảm và/hoặc giới thiệu giới thiệu đến chuyên khoa tâm thần. Rối loạn giấc ngủ cần phải được xử trí tích cực bằng các kỹ thuật thư giãn và cải thiện vệ sinh giấc ngủ (xem bảng
+
+Tiếp cận bệnh nhân, vệ sinh giấc ngủ
+
+).
+
+Nếu các biện pháp này không hiệu quả, có thể cần dùng thuốc thôi miên và/hoặc giới thiệu đến chuyên gia về giấc ngủ. Bệnh nhân bị đau (thường do một phần của
+
+đau cơ xơ hóa
+
+) có thể được điều trị bằng một số loại thuốc như pregabalin, duloxetine, amitriptyline hoặc gabapentin. Vật lý trị liệu cũng thường rất hữu ích.
+
+Hạ huyết áp tư thế
+
+sau bữa ăn là một tình trạng thường gặp.
+
+Cần tránh các biện pháp điều trị chưa được chứng minh hoặc không được chứng minh hiệu quả, chẳng hạn như thuốc chống vi rút, thuốc ức chế miễn dịch, chế độ ăn kiêng và chiết xuất amalgam.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Vink M, Vink-Niese A
+
+: Graded exercise therapy for myalgic encephalomyelitis/chronic fatigue syndrome is not effective and unsafe. Re-analysis of a Cochrane review.
+
+Health Psychol Open
+
+5(2):2055102918805187, 2018 doi:10.1177/2055102918805187
+
+2.
+
+Larun  L, Brurberg  KG, et al
+
+: Exercise therapy for chronic fatigue syndrome.
+
+Cochrane Database of Systematic Reviews
+
+Issue 10. Art. No.: CD003200, 2019. doi: 10.1002/14651858.CD003200.pub8
+
+Tiên lượng cho hội chứng mệt mỏi mạn tính
+
+Hầu hết bệnh nhân CFS đều cải thiện qua thời gian mặc dù không nhất thiết trở lại trạng thái trước khi bị bệnh. Thời gian đó thường là hằng năm và cải tiến thường chỉ là một phần. Một số bằng chứng cho thấy rằng chẩn đoán và can thiệp sớm hơn giúp cải thiện tiên lượng.
+
+Những điểm chính
+
+Hội chứng mệt mỏi mạn tính (CFS) là tình trạng mệt mỏi thay đổi cuộc sống kéo dài > 6 tháng thường ảnh hưởng đến những người khỏe mạnh và năng động trước đó; nó không phải là giả ốm.
+
+Nguyên nhân chưa rõ ràng nhưng có thể liên quan đến nhiều yếu tố, bao gồm tính nhạy cảm di truyền, phơi nhiễm vi khuẩn và các yếu tố môi trường và tâm lý.
+
+Chẩn đoán CFS dựa trên các triệu chứng đặc trưng ở bệnh nhân có kết quả thăm khám và xét nghiệm cơ bản bình thường; Tiêu chuẩn chẩn đoán của Viện Y học (nay là Phân môn Sức khỏe và Y tế của Viện Khoa học, Kỹ thuật và Y khoa Quốc gia) có thể hữu ích nhưng không áp dụng chặt chẽ cho từng bệnh nhân.
+
+Xác nhận các triệu chứng của bệnh nhân, khuyến khích họ chấp nhận và thích ứng với bệnh tính của họ và có thể thử bằng cách sử dụng liệu pháp hành vi - nhận thức, tập luyện theo cấp độ.
+
+Sử dụng thuốc khi cần thiết để điều trị các triệu chứng cụ thể (ví dụ: đau, trầm cảm, mất ngủ).
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+Centers for Disease Control and Prevention: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+
+: General information about CFS symptoms and treatment and ongoing CFS research
+
+Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome; Board on the Health of Select Populations; Institute of Medicine. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+
+: Redefining an Illness. Washington (DC): National Academies Press (US); ngày 10 tháng 1 năm 2015
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh không dung nạp gắng sức hệ thống; SEID,Viêm não tủy sống; ME/CFS) ---
+
+TheoStephen Gluckman,MD,Perelman School of Medicine at The University of PennsylvaniaXem xét bởiMatthew E. Levison,MD,Drexel University College of MedicineĐã xem xét/Đã chỉnh sửaThg 7 2023|đã sửa đổiThg 4 2025v1127520_vi
+
+--- 2. Căn nguyên của hội chứng mệt mỏi mạn tính ---
+
+Chưa rõ căn nguyên của CFS. Không xác định được nguyên nhân nhiễm trùng, nội tiết tố, miễn dịch hoặc tâm lý nào. Trong số nhiều tác nhân nhiễm trùng được đề xuất thì virus Epstein-Barr, bệnh Lyme, Candida và Cytomegalovirus đã được chứng minh là không gây CFS. Tương tự, không phát hiện những dấu hiệu về dị ứng và tình trạng suy giảm miễn dịch. Những người bị CFS không có nguy cơ cao bị các bệnh nhiễm trùng cơ hội.Một số người đã khỏi bệnh saunhiễm COVID-19đã trở thành những người "mắc bệnh lâu năm" với các triệu chứng dai dẳng. Một số triệu chứng này là do tổn thương cơ quan do nhiễm trùng và/hoặc do điều trị, và những triệu chứng khác có thể là dorối loạn căng thẳng sau tổn thương (PTSD). Ngoài ra, ở một số bệnh nhân, COVID-19 dường như kích hoạt CFS điển hình. Mối liên quan này đang được tích cực nghiên cứu.Nhiều bất thường về miễn dịch khác nhau liên quan đến bệnh đã được báo cáo. Chúng bao gồm nồng độ IgG thấp, xuất hiện các IgG bất thường, giảm sự tăng sinh tế bào lympho, giảm interferon-gamma khi phản ứng với thoi vô sắc, giảm độc tính tế bào của các tế bào diệt tự nhiên, các tự kháng thể lưu hành và các phức hợp miễn dịch và nhiều một số dấu hiệu về miễn dịch khác. Tuy nhiên, không có độ nhạy và độ đặc hiệu thích hợp để chẩn đoán xác định CFS. Tuy nhiên, họ nhấn mạnh tính hợp pháp của CFS.Người thân của bệnh nhân CFS có nguy cơ phát triển hội chứng này, gợi ý yếu tố di truyền hoặc môi trường tiếp xúc. Các nghiên cứu gần đây đã xác định được một số yếu tố di truyền có thể dẫn đến CFS. Một số nhà nghiên cứu tin rằng nguyên nhân cuối cùng sẽ được chứng minh là do nhiều yếu tố, bao gồm khuynh hướng di truyền và việc tiếp xúc với vi khuẩn, chất độc cũng như các chấn thương về thể chất và/hoặc cảm xúc khác.
+
+--- 3. Các triệu chứng và dấu hiệu của hội chứng mệt mỏi mạn tính ---
+
+Trước khi khởi phát CFS, hầu hết bệnh nhân đều hoạt động hiệu quả.Khởi phát thường đột ngột, thường xảy ra sau một sự kiện tâm lý hoặc căng thẳng về mặt y học. Sự khởi phát thường đột ngột và triệu chứng ban đầu được mô tả giống nhiễm virut như nổi hạch, mệt mỏi nhiều, sốt và các triệu chứng đường hô hấp trên. Hội chứng ban đầu tự khỏi nhưng dường như gây ra tình trạng mệt mỏi nghiêm trọng kéo dài, gây trở ngại cho các hoạt động hàng ngày và thường nặng hơn khi gắng sức nhưng sẽ thuyên giảm kém hoặc hoàn toàn không khi nghỉ ngơi. Bệnh nhân cũng thường có rối loạn về giấc ngủ và nhận thức, chẳng hạn như các vấn đề về trí nhớ, "suy nghĩ mơ hồ", buồn ngủ quá mức, và có cảm giác ngủ không thoải mái. Đau toàn thể cũng là một dấu hiệu phổ biến.Không có triệu chứng thực thể rõ ràng như yếu cơ, viêm khớp, đau dây thần kinh hay phì đại các cơ quan. Tuy nhiên, một số bệnh nhân có sốt nhẹ, viêm họng không xuất tiết và/hoặc đau hạch, nổi hạch.Bởi vì bệnh nhân thường có vẻ khỏe mạnh nên bạn bè, gia đình và thậm chí cả các chuyên viên chăm sóc sức khỏe đôi khi bày tỏ sự hoài nghi về tình trạng của họ, điều này có thể làm trầm trọng thêm sự thất vọng và/hoặc trầm cảm mà bệnh nhân thường cảm thấy về rối loạn chưa được hiểu rõ của họ.
+
+--- 4. Chẩn đoán hội chứng mệt mỏi mạn tính ---
+
+Tiêu chuẩn lâm sàngĐánh giá bằng các xét nghiệm để loại trừ các chứng bệnh không phải là CFSChẩn đoán CFS được thực hiện bằng tiền sử đặc trưng kết hợp với khám thực thể bình thường và kết quả xét nghiệm bình thường. Bất kỳ dấu hiệu thực thể bất thường hoặc kết quả xét nghiệm nào đều phải được đánh giá và chẩn đoán thay thế gây ra những dấu hiệu đó và/hoặc các triệu chứng của bệnh nhân được loại trừ trước khi có thể đưa ra chẩn đoán CFS. Định nghĩa ca bệnh đôi khi hữu ích nhưng chủ yếu là một công cụ nghiên cứu dịch tễ và không nên áp dụng chặt chẽ cho từng bệnh nhân.Xét nghiệm được đề xuất hướng vào bất kỳ nguyên nhân không CFS nào nghi ngờ dựa trên các kết quả khám bệnh lâm sàng. Nếu không có nguyên nhân rõ ràng hoặc nghi ngờ, đánh giá xét nghiệm hợp lý bao gồm công thức máu và đo các chất điện giải, nitơurêmáu, creatinine, tốc độ máu lắng và hormone kích thích tuyến giáp. Nếu chỉ định dựa vào các dấu hiệu lâm sàng, xét nghiệm thêm có thể bao gồm: chụp X-quang ngực,khảo sát giấc ngủvàkiểm tra xem có suy giảm thượng thậnhay không ở trên một số bệnh nhân được lựa chọn. Các xét nghiệm huyết thanh học với nhiễm trùng, kháng thể kháng nhân và điện quang thần kinh không được chỉ định nếu không có triệu chứng thực thể (không chỉ dựa vào triệu chứng cơ năng) hoặc các xét nghiệm cơ bản; trong những trường hợp như vậy, xác suất xét nghiệm thấp và nguy cơ kết quả dương tính giả (điều trị không cần thiết và/hoặc cần thêm xét nghiệm khẳng định) cao. Điều này có thể dẫn đến chẩn đoán sai, xét nghiệm không cần thiết và điều trị không phù hợp.Vào tháng 2 năm 2015, Viện Y học (nay là Phân môn Sức khỏe và Y tế của Học viện Khoa học, Kỹ thuật và Y khoa Quốc gia ["the National Academies"]) đã công bố một bài tổng quan về bệnh này có tên làBeyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. Trong tổng quan này, họ đã đề xuất một tên mới, bệnh không dung nạp gắng sức toàn thân (SEID) và các tiêu chuẩn chẩn đoán mới giúp đơn giản hóa chẩn đoán và nhấn mạnh các đặc điểm nhất quán (xem bảngTiêu chuẩn chẩn đoán hội chứng mệt mỏi mạn tính). Thêm vào đó, bài tổng quan đã nhấn mạnh rõ ràng ảnh hưởng của căn bệnh suy nhược này. Việc giới thiệu bệnh nhân và thành viên gia đình đến tài liệu này có thể giúp họ nâng cao hiểu biết và nhấn mạnh giá trị căn bệnh thường gây tàn tật của họ.BảngTiêu chuẩn chẩn đoán cho hội chứng mệt mỏi mạn tính*Tiêu chuẩn chẩn đoán cho hội chứng mệt mỏi mạn tính*Chẩn đoán đòi hỏi bệnh nhân có 3 triệu chứng sau:Giảm đáng kể hoặc suy giảm khả năng tham gia các hoạt động nghề nghiệp, giáo dục, xã hội hoặc cá nhân kéo dài hơn 6 tháng và thường kèm theo mệt mỏi nhiều, bênh mới khởi phát hoặc rõ ràng khô, không phải do gắng sức liên tục và không giảm khí nghỉ ngơi.Mệt mỏi sau gắng sức †Không khoan khoái khi ngủ †Đòi hỏi it nhất một trong những biểu hiện sau đây:Suy giảm nhận thức†Khó đứng thẳng*Tiêu chuẩn chẩn đoán của Viện Y khoa(nay là Phân môn Sức khỏe và Y tế của Học viện Khoa học, Kỹ thuật và Y khoa Quốc gia) vào tháng 2 năm 2015.† Cần đánh giá tần suất và mức độ nghiêm trọng của các triệu chứng. Cần nghi ngờ chẩn đoán viêm cơ não tủy/hội chứng mệt mỏi mạn tính (ME/CFS) nếu bệnh nhân không có các triệu chứng này ít nhất một nửa thời gian với cường độ vừa, đáng kể hoặc nặng.*Tiêu chuẩn chẩn đoán của Viện Y khoa(nay là Phân môn Sức khỏe và Y tế của Học viện Khoa học, Kỹ thuật và Y khoa Quốc gia) vào tháng 2 năm 2015.† Cần đánh giá tần suất và mức độ nghiêm trọng của các triệu chứng. Cần nghi ngờ chẩn đoán viêm cơ não tủy/hội chứng mệt mỏi mạn tính (ME/CFS) nếu bệnh nhân không có các triệu chứng này ít nhất một nửa thời gian với cường độ vừa, đáng kể hoặc nặng.
+
+--- 5. Điều trị hội chứng mệt mỏi mạn tính ---
+
+Thừa nhận các triệu chứng của bệnh nhânĐôi khiLiệu pháp nhận thức-hành viĐôi khi tập thể dục được phân loại, hạn chế để tránh sự thụt lùiCác loại thuốc điều trị trầm cảm, gây ngủ hoặc giảm đau nếu có chỉ địnhĐể cung cấp dịch vụ chăm sóc hiệu quả cho bệnh nhân CFS, bác sĩ phải thừa nhận và chấp nhận giá trị của các triệu chứng của bệnh nhân. Bất kể do nguyên nhân nào thì những bệnh nhân này đều đang khổ sở và mong muốn sức khỏe trở lại như trước đây. Để quản lý thành công, bệnh nhân cần chấp nhận và điều chỉnh tình trạng khuyết tật của mình, tập trung vào những gì họ vẫn có thể làm thay vì than thở về những gì họ không thể làm được.Liệu pháp nhận thức-hành vi và chương trình tập luyện theo mức độ là những can thiệp duy nhất hữu ích (1,2). Chúng nên được xem xét cho những bệnh nhân sẵn sàng thử chúng và có quyền truy cập vào các dịch vụ thích hợp. Trầm cảm là phổ biến và được mong đợi ở bất kỳ bệnh nhân khuyết tật nào. Trầm cảm nên được điều trị bằng thuốc chống trầm cảm và/hoặc giới thiệu giới thiệu đến chuyên khoa tâm thần. Rối loạn giấc ngủ cần phải được xử trí tích cực bằng các kỹ thuật thư giãn và cải thiện vệ sinh giấc ngủ (xem bảngTiếp cận bệnh nhân, vệ sinh giấc ngủ).Nếu các biện pháp này không hiệu quả, có thể cần dùng thuốc thôi miên và/hoặc giới thiệu đến chuyên gia về giấc ngủ. Bệnh nhân bị đau (thường do một phần củađau cơ xơ hóa) có thể được điều trị bằng một số loại thuốc như pregabalin, duloxetine, amitriptyline hoặc gabapentin. Vật lý trị liệu cũng thường rất hữu ích.Hạ huyết áp tư thếsau bữa ăn là một tình trạng thường gặp.Cần tránh các biện pháp điều trị chưa được chứng minh hoặc không được chứng minh hiệu quả, chẳng hạn như thuốc chống vi rút, thuốc ức chế miễn dịch, chế độ ăn kiêng và chiết xuất amalgam.Tài liệu tham khảo về điều trị1.Vink M, Vink-Niese A: Graded exercise therapy for myalgic encephalomyelitis/chronic fatigue syndrome is not effective and unsafe. Re-analysis of a Cochrane review.Health Psychol Open5(2):2055102918805187, 2018 doi:10.1177/20551029188051872.Larun  L, Brurberg  KG, et al: Exercise therapy for chronic fatigue syndrome.Cochrane Database of Systematic ReviewsIssue 10. Art. No.: CD003200, 2019. doi: 10.1002/14651858.CD003200.pub8
+
+--- 6. Tiên lượng cho hội chứng mệt mỏi mạn tính ---
+
+Hầu hết bệnh nhân CFS đều cải thiện qua thời gian mặc dù không nhất thiết trở lại trạng thái trước khi bị bệnh. Thời gian đó thường là hằng năm và cải tiến thường chỉ là một phần. Một số bằng chứng cho thấy rằng chẩn đoán và can thiệp sớm hơn giúp cải thiện tiên lượng.
+
+--- 7. Những điểm chính ---
+
+Hội chứng mệt mỏi mạn tính (CFS) là tình trạng mệt mỏi thay đổi cuộc sống kéo dài > 6 tháng thường ảnh hưởng đến những người khỏe mạnh và năng động trước đó; nó không phải là giả ốm.Nguyên nhân chưa rõ ràng nhưng có thể liên quan đến nhiều yếu tố, bao gồm tính nhạy cảm di truyền, phơi nhiễm vi khuẩn và các yếu tố môi trường và tâm lý.Chẩn đoán CFS dựa trên các triệu chứng đặc trưng ở bệnh nhân có kết quả thăm khám và xét nghiệm cơ bản bình thường; Tiêu chuẩn chẩn đoán của Viện Y học (nay là Phân môn Sức khỏe và Y tế của Viện Khoa học, Kỹ thuật và Y khoa Quốc gia) có thể hữu ích nhưng không áp dụng chặt chẽ cho từng bệnh nhân.Xác nhận các triệu chứng của bệnh nhân, khuyến khích họ chấp nhận và thích ứng với bệnh tính của họ và có thể thử bằng cách sử dụng liệu pháp hành vi - nhận thức, tập luyện theo cấp độ.Sử dụng thuốc khi cần thiết để điều trị các triệu chứng cụ thể (ví dụ: đau, trầm cảm, mất ngủ).
+
+--- 8. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.Centers for Disease Control and Prevention: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: General information about CFS symptoms and treatment and ongoing CFS researchCommittee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome; Board on the Health of Select Populations; Institute of Medicine. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. Washington (DC): National Academies Press (US); ngày 10 tháng 1 năm 2015

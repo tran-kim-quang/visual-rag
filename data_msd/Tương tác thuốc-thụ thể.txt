@@ -1,0 +1,218 @@
+TIÊU ĐỀ: Tương tác thuốc-thụ thể
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-lực-học/tương-tác-thuốc-thụ-thể
+================================================================================
+
+NỘI DUNG:
+
+Tương tác thuốc-thụ thể
+
+Theo
+
+Abimbola Farinde
+
+,
+
+PhD, PharmD
+
+,
+
+Columbia Southern University, Orange Beach, AL
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1109431_vi
+
+Các thụ thể là các đại phân tử tham gia vào quá trình truyền tín hiệu hóa học giữa và bên trong tế bào; các thụ thể có thể nằm trên màng bề mặt tế bào hoặc bên trong tế bào chất. Các thụ thể được kích hoạt điều chỉnh trực tiếp hoặc gián tiếp các quá trình sinh hóa tế bào (ví dụ, độ dẫn ion, quá trình phosphoryl hóa protein, phiên mã DNA, hoạt động của enzym).
+
+Các phân tử (ví dụ, thuốc, hormon, chất dẫn truyền thần kinh) liên kết với một thụ thể được gọi là các phối tử. Khả năng gắn kết có thể cụ thể và có thể đảo ngược hoặc không thể đảo ngược. Một phối tử có thể kích hoạt hoặc bất hoạt thụ thể; kích hoạt có thể làm tăng hoặc giảm chức năng tế bào đặc biệt. Mỗi phối tử có thể tương tác với các tiểu thụ thể. Có rất ít thuốc liên kết đặc hiệu với một thụ thể hoặc tiểu thụ thể, tuy nhiên hầu hết các liên kết có tính chọn lọc tương đối. Sự chọn lọc là mức độ mà một loại thuốc có tác dụng trên một vị trí nhất định so với các vị trí khác; sự chọn lọc liên quan chủ yếu đến sự liên kết hóa lý của thuốc với thụ thể tế bào. (Xem thêm
+
+Tổng quan về dược lực học
+
+.)
+
+Bảng
+
+Một số loại protein sinh lý và protein thụ thể của thuốc
+
+Bảng
+
+Một số loại protein sinh lý và protein thụ thể của thuốc
+
+Một số loại protein sinh lý và protein thụ thể của thuốc
+
+Kiểu
+
+Cấu trúc
+
+Vị trí tế bào
+
+Ví dụ
+
+Các kênh ion đa tiểu đơn vị
+
+Màng ngoài tế bào
+
+Acetylcholin (nicotinic)
+
+GABAA
+
+Glutamat
+
+Glycin
+
+Thụ thể ghép cặp protein G
+
+Màng ngoài tế bào
+
+Acetylcholin (muscarinic)
+
+Protein thụ thể alpha và beta-adrenergic
+
+Các Eicosanoid
+
+Protein kinase
+
+Màng ngoài tế bào
+
+Yếu tố tăng trưởng
+
+Insulin
+
+Hormone peptid
+
+Yếu tố phiên mã
+
+Cytoplasm
+
+Hormone steroid
+
+Hormone tuyến giáp
+
+Vitamin D
+
+GABA
+
+=
+
+axit gamma-aminobutyric; GDP
+
+=
+
+guanosin diphosphat; GTP
+
+=
+
+guanosin triphosphat.
+
+GABA
+
+=
+
+axit gamma-aminobutyric; GDP
+
+=
+
+guanosin diphosphat; GTP
+
+=
+
+guanosin triphosphat.
+
+Khả năng tác động của một thuốc đối với một thụ thể nhất định có liên quan đến ái lực của thuốc (khả năng của thuốc chiếm thụ thể tại bất kỳ thời điểm nào) và hiệu lực nội tại (mức độ hoạt tính nội tại mà một phối tử kích hoạt thụ thể và dẫn đến đáp ứng tế bào). Ái lực và hoạt tính của thuốc được xác định bởi cấu trúc hóa học của nó.
+
+Tác dụng dược lý cũng được xác định bởi khoảng thời gian phức hợp thụ thể thuốc tiếp tục tồn tại (thời gian tồn tại). Tuổi thọ của phức hợp thụ thể thuốc bị ảnh hưởng bởi các quá trình động (thay đổi cấu hình) kiểm soát tỷ lệ liên kết hay phân ly của thuốc với đích tác dụng. Thời gian tồn tại dài hơn giải thích tác dụng dược lý kéo dài. Thuốc có thời gian tồn tại dài có finasterid và darunavir. Thời gian lưu lại dài hơn có thể là một bất lợi tiềm ẩn do nó kéo dài độc tính của thuốc, nhưng lại có lợi thế là cải thiện hiệu quả và tính linh hoạt trong việc điều chỉnh liều lượng. Đối với một số thụ thể, việc sử dụng thuốc trong thời gian ngắn mang lại hiệu quả dược lý mong muốn, ngược lại việc sử dụng kéo dài gây ra độc tính.
+
+Các chức năng sinh lý (ví dụ: co bóp, bài tiết) thường được điều chỉnh bởi nhiều cơ chế qua trung gian thụ thể và một số bước (ví dụ: khớp nối thụ thể, nhiều chất truyền tin thứ hai nội bào) có thể được xen kẽ giữa tương tác thuốc-thụ thể phân tử ban đầu và mô cuối cùng hoặc phản ứng của cơ quan. Do đó, một số phân tử thuốc khác nhau thường có thể được sử dụng để tạo ra tác dụng mong muốn giống nhau.
+
+Khả năng gắn kết với thụ thể chịu ảnh hưởng của các yếu tố bên ngoài cũng như cơ chế điều hòa nội bào. Mật độ thụ thể ban đầu và hiệu quả của các cơ chế đáp ứng-kích thích khác nhau từ mô đến mô. Thuốc, lão hóa, đột biến gen và các bệnh có thể làm tăng (tăng cường) hoặc giảm (xuống cấp) số lượng và ái lực liên kết của thụ thể. Ví dụ, clonidin làm giảm thụ thể alpha2; do đó, clonidin nhanh chóng bị thu hồi có thể gây ra
+
+tăng huyết áp kịch phát
+
+. Điều trị mạn tính với thuốc chẹn beta làm tăng mật độ thụ thể beta; do đó, ngừng thuốc đột ngột có thể làm tăng huyết áp nghiêm trọng hoặc nhịp tim nhanh. Sự tăng và giảm thụ thể tác động đến khả năng thích nghi với thuốc (như giải mẫn cảm, miễn dịch nhanh, dung nạp, đề kháng mắc phải, quá mẫn sau ngừng thuốc).
+
+Các phối tử liên kết với các vùng phân tử nhất định, được gọi là các vị trí nhận biết, trên các phân tử thụ thể lớn. Vị trí liên kết của thuốc có thể giống hoặc khác với vị trí gắn kết của chất chủ vận nội sinh (hormone hoặc chất dẫn truyền thần kinh). Các chất chủ vận liên kết với một vị trí lân cận hoặc một vị trí khác trên thụ thể đôi khi được gọi là các chất chủ vận biến cấu. Sự liên kết thuốc không đặc hiệu cũng xảy ra - nghĩa là tại các vị trí phân tử không phải là thụ thể (ví dụ, protein huyết tương). Sự liên kết của thuốc với các vị trí không đặc hiệu như liên kết với protein huyết tương, ức chế sự liên kết của thuốc với thụ thể và do đó mất tác dụng của thuốc. Thuốc ở dạng không liên kết sẵn sàng liên kết với thụ thể, từ đó phát huy tác dụng.
+
+Chất chủ vận và chất đối kháng
+
+Chất chủ vận kích hoạt thụ thể để tạo ra tác dụng mong muốn. Các chất chủ vận thường làm tăng tỷ lệ thụ thể co hoạt tính. Các chất chủ vận nghịch đảo giữ thụ thể ở dạng bất hoạt và có hoạt tính tương tự như các chất đối kháng cạnh tranh. Nhiều hormon, chất dẫn truyền thần kinh (ví dụ, acetylcholin, histamin,
+
+norepinephrin
+
+), và các loại thuốc (ví dụ, morphin, phenylephrin, isoproterenol, benzodiazepin, barbiturat) đóng vai trò là chất chủ vận.
+
+Chất đối kháng ngăn cản sự hoạt hóa thụ thể. Việc ngăn chặn kích hoạt có tác dụng nhất định. Các thuốc đối kháng làm tăng chức năng tế bào nếu ức chế hoạt động của chất làm giảm chức năng tế bào. Các thuốc đối kháng làm giảm chức năng của tế bào nếu ức chế hoạt động của chất làm tăng chức năng của tế bào.
+
+Thuốc đối kháng thụ thể có thể được phân loại là thuận nghịch hoặc không thuận nghịch. Các thuốc đối kháng thuận nghịch dễ dàng tách ra khỏi thụ thể của chúng; các chất đối kháng không thuận nghịch tạo thành một liên kết hóa học ổn định bền vững hoặc gần như bền vững với thụ thể của chúng (ví dụ như sự alkyl hóa). Các thuốc đối kháng không thuận nghịch giả tách chậm ra khỏi thụ thể của chúng.
+
+Trong
+
+đối kháng cạnh tranh,
+
+liên kết của chất đối kháng với thụ thể ngăn sự liên kết của chất chủ vận với thụ thể.
+
+Trong
+
+đối kháng không cạnh tranh,
+
+chất chủ vận và chất đối kháng có thể liên kết đồng thời nhưng sự liên kết chất đối kháng làm giảm hoặc ngăn cản tác dụng của chất chủ vận.
+
+Trong
+
+đối kháng cạnh tranh thuận nghịch,
+
+chất chủ vận và chất đối kháng liên kết trong thời gian ngắn với thụ thể và đạt được trạng thái ổn định giữa chất chủ vận, chất đối kháng và thụ thể. Sự đối kháng như vậy có thể được khắc phục bằng cách tăng nồng độ của chất chủ vận. Ví dụ: naloxone (một loại thuốc đối kháng thụ thể opioid có cấu trúc tương tự morphin), khi được dùng ngay trước hoặc sau
+
+morphin
+
+, sẽ ngăn chặn tác dụng của
+
+morphin
+
+. Tuy nhiên, có thể khắc phục tác dụng đối kháng cạnh tranh của
+
+naloxone
+
+bằng cách cho thêm
+
+morphin
+
+.
+
+Các chất có cấu trúc tương tự cấu trúc phân tử của các chủ vận thường có đặc tính chủ vận và đối kháng; những thuốc này được gọi là các chất chủ vận từng phần (hiệu quả thấp), hoặc thuốc đối kháng-chủ vận. Ví dụ, pentazocin hoạt hóa thụ thể opioid nhưng sự ức chế hoạt hóa thụ thể của các opioid khác. Vì vậy, pentazocin mang lại tác dụng opioid nhưng làm giảm tác dụng của opioid khác nếu dùng opioid trong khi pentazocine vẫn còn liên kết với thụ thể. Một thuốc hoạt động như chất chủ vận từng phần trong một mô có thể hoạt động như một chất chủ vận toàn phần ở một mô khác.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

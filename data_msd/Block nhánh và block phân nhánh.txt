@@ -1,0 +1,306 @@
+TIÊU ĐỀ: Block nhánh và block phân nhánh
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-nhịp-tim-cụ-thể/block-nhánh-và-block-phân-nhánh
+================================================================================
+
+NỘI DUNG:
+
+Block nhánh và block phân nhánh
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v938344_vi
+
+Block nhánh
+
+là tình trạng gián đoạn dẫn truyền một phần hoặc hoàn toàn xung động trong một nhánh;
+
+block phân nhánh
+
+là tình trạng gián đoạn dẫn truyền tương tự ở nửa phân nhánh của nhánh trái. Các rối loạn này thường cùng tồn tại. Thông thường những bất thường này không có triệu chứng, nhưng sự hiện diện của một trong hai có thể gợi ý bệnh lý tim mạch. Chẩn đoán bằng ECG. Không có điều trị đặc hiệu.
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+.)
+
+Các block dẫn truyền (xem hình
+
+Đường dẫn truyền điện qua tim
+
+) có thể do nhiều bệnh lý ở tim gây ra, bao gồm cả thoái hóa nội tại mà không kèm theo một bệnh lý ở tim khác.
+
+Đường dẫn truyền điện qua tim
+
+Nút xoang nhĩ (xoang) (1) khởi tạo một xung điện chạy qua tâm nhĩ phải và tâm nhĩ trái (2), khiến các tâm nhĩ co lại. Khi xung điện đến nút nhĩ thất (3), nó sẽ bị chậm lại một chút. Xung động sau đó đi xuống bó His (4), chia thành bó nhánh phải cho tâm thất phải (5) và bó nhánh trái cho tâm thất trái (5). Xung động sau đó lan truyền qua hai tâm thất, khiến các tâm thất co lại.
+
+Ở người lớn, 2 tâm thất thường được kích hoạt đồng thời sao cho thời gian QRS ≤ 0,11 giây. Khi các tâm thất được kích hoạt tuần tự, thời gian QRS > 0,12 giây. QRS rộng có thể là kết quả của việc kích hoạt một tâm thất sớm như trong nhịp có nguồn gốc từ tâm thất (nhịp thất hoặc nhịp tạo nhịp thất) hoặc như trong tình trạng kích thích sớm tâm thất (xem hình
+
+Dạng Wolff-Parkinson-White
+
+) hoặc do kích hoạt một tâm thất muộn như trong block nhánh phải hoặc block nhánh trái.
+
+Tiêu chuẩn về
+
+block nhánh phải
+
+(RBBB – xem hình
+
+Block nhánh phải
+
+) trên điện tâm đồ ở người lớn (
+
+1
+
+) như sau:
+
+Thời gian QRS ≥ 0,12 giây
+
+Dạng QRS rsr', rsR' hoặc rSR' ở các chuyển đạo V1 hoặc V2
+
+Thời gian kích hoạt thất phải bị trì hoãn được thể hiện bằng thời gian bắt đầu QRS đến đỉnh của sóng R cuối cùng > 0,05 giây ở chuyển đạo V1
+
+Thời gian kích hoạt thất trái bình thường được thể hiện bằng thời gian bắt đầu QRS đến đỉnh của sóng R cuối cùng < 0,045 giây ở các chuyển đạo V5 và V6
+
+Thời gian kéo dài S lớn hơn thời gian kéo dài R hoặc thời gian kéo dài S > 0,04 giây ở chuyển đạo I và V6
+
+RBBB gây ra những thay đổi tái phân cực thứ phát bao gồm ST chênh xuống và sóng T đảo ngược, đặc biệt là ở V1. Block nhánh phải không hoàn toàn (còn gọi là chậm dẫn truyền thất phải) có cùng tiêu chuẩn điện tâm đồ là RBBB với thời gian QRS > 0,11 giây nhưng < 0,12 giây. Khi đạo trình V1 cho thấy dạng qR trong khi đáp ứng các tiêu chuẩn khác của RBBB, thì chẩn đoán là RBBB và nhồi máu cơ tim ở vách liên thất (hoặc tổn thương khác ở vách liên thất).
+
+RBBB có thể xảy ra ở những người không có bằng chứng về bệnh tim (
+
+2
+
+). Block nhánh phải cũng có thể gặp trong trường hợp
+
+nhồi máu cơ tim
+
+thành trước, cho thấy tổn thương cơ tim nặng nề. RBBB thoáng qua có thể xảy ra sau
+
+thuyên tắc động mạch phổi
+
+và cho thấy rối loạn chức năng tâm thất phải đáng kể. Có RBBB sẽ thúc đẩy việc tìm kiếm bệnh lý nền ở tim (
+
+2
+
+), nhưng thường không tìm thấy. Mặc dù RBBB làm biến dạng phức bộ QRS nhưng tình trạng này không ảnh hưởng đáng kể đến tiêu chuẩn ECG về nhồi máu cơ tim trước đây.
+
+Trong trường hợp không có bằng chứng về bệnh lý ở tim hoặc rối loạn dẫn truyền liên thất tiến triển hơn, RBBB dường như không chỉ ra nguy cơ cao hơn về các biến cố tim mạch trong tương lai. Ngoài ra, RBBB đơn độc không có triệu chứng. Do đó, RBBB đơn độc không cần điều trị đặc hiệu (
+
+3
+
+).
+
+Block nhánh phải
+
+Tiêu chuẩn
+
+block nhánh trái
+
+(LBBB – xem hình
+
+Block nhánh trái)
+
+trên ECG ở người lớn là (
+
+1
+
+)
+
+Thời gian QRS ≥ 0,12 giây
+
+Sóng R rộng, có khía hoặc không rõ nét và không có sóng Q ở các chuyển đạo I, aVL, V5 và V6
+
+Thời gian hoạt hóa thất trái muộn được thể hiện bằng thời gian bắt đầu QRS đến đỉnh của sóng R cuối cùng > 0,06 giây ở chuyển đạo V5 và V6
+
+Thời gian kích hoạt thất phải bình thường được thể hiện bằng thời gian bắt đầu QRS đến đỉnh của sóng R cuối cùng < 0,035 giây ở chuyển đạo V1
+
+LBBB gây ra những thay đổi tái phân cực thứ phát bao gồm độ lệch của ST và sóng T theo hướng ngược lại với phức bộ QRS. Block nhánh trái không hoàn toàn (còn gọi là chậm dẫn truyền thất trái) có cùng tiêu chuẩn trên điện tâm đồ là LBBB với thời gian QRS > 0,11 giây nhưng < 0,12 giây. Khi chuyển đạo aVL cho thấy sóng q đáng kể trong khi đáp ứng các tiêu chuẩn khác của LBBB, thì chẩn đoán là LBBB và nhồi máu cơ tim ở vách liên thất (hoặc tổn thương khác ở vách liên thất). Nếu không, LBBB ngăn cản việc sử dụng các tiêu chuẩn ECG thông thường về nhồi máu cơ tim trước đây.
+
+LBBB thường liên quan đến bệnh lý cấu trúc tim nhiều hơn RBBB và ngược lại với RBBB, LBBB có liên quan đến nguy cơ bị các biến cố tim mạch và tử vong trong tương lai cao hơn. Block nhánh phải cũng có thể gặp trong trường hợp
+
+nhồi máu cơ tim
+
+thành trước, cho thấy tổn thương cơ tim nặng nề. Có LBBB thúc đẩy việc tìm kiếm bệnh nền ở tim, thường xuất hiện nhiều hơn ở những bệnh nhân bị RBBB (
+
+3
+
+).
+
+LBBB đơn độc hiếm khi gây ra triệu chứng nhưng có thể gây ra tình trạng mất đồng bộ cơ học giữa các thất làm giảm hiệu quả chức năng tâm thu thất trái và có thể dẫn đến suy tim, đặc biệt là khi kết hợp với các bệnh lý khác ở tim làm giảm chức năng tâm thu thất trái. Sau đó, liệu pháp tạo nhịp đồng bộ lại sẽ có tác dụng (
+
+4
+
+).
+
+Block nhánh trái
+
+Block phân nhánh
+
+bao gồm các phân nhánh trái trước và trái sau của nhánh trái. Tình trạng gián đoạn dẫn truyền của bó trước trái gây block nửa trước bên trái đặc trưng bởi (
+
+1
+
+)
+
+QRS kéo dài vừa phải (
+
+<
+
+0,12 giây)
+
+Trục QRS mặt phẳng phía trước âm hơn
+
+−
+
+45
+
+°
+
+(lệch trục trái)
+
+Dạng qR ở chuyển đạo aVL
+
+Thời gian kích hoạt thất trái trước bên bị trễ được thể hiện bằng thời gian bắt đầu QRS đến đỉnh của sóng R cuối cùng > 0,045 giây ở chuyển đạo aVL
+
+Tình trạng gián đoạn dẫn truyền của bó sau trái
+
+gây ra block nửa sau bên trái đặc trưng bởi (
+
+1
+
+)
+
+QRS kéo dài vừa phải (< 0,12 giây)
+
+Trục QRS mặt phẳng phía trước dương hơn
+
++
+
+120
+
+°
+
+Dạng rS ở chuyển đạo aVL
+
+Dạng qR ở chuyển đạo II và chuyển đạo aVF
+
+Block phân nhánh cũng có thể gặp trong các bệnh tim cấu trúc tương tự như đối với block nhánh trái. Block một nửa sau bên trái đơn độc là rất hiếm. Block một nửa nhánh trái trước đơn độc phổ biến hơn và dường như không liên quan độc lập với nguy cơ bị các biến cố tim mạch hoặc tử vong trong tương lai.
+
+Block phân nhánh có thể cùng tồn tại với các rối loạn dẫn truyền khác: RBBB và block nửa trước hoặc block nửa sau bên trái (block hai phân nhánh); và RBBB, block nửa trước hoặc block nửa sau trái và block nhĩ thất (AV) cấp một (đôi khi được gọi không chính xác là block ba phân nhánh; không chính xác vì block cấp một thường có nguồn gốc từ nút AV).
+
+Bệnh lý block 3 phân nhánh
+
+thực sự khi RBBB kết hợp với block phân nhánh trái trước và trái sau luân phiên; hoặc block nhánh trái và nhánh phải luân phiên. Biểu hiện block 2 phân nhánh hoặc 3 phân nhánh như trên xuất hiện sau nhồi máu cơ tim thường cho thấy diện tổn thương cơ nặng nề.
+
+Block hai phân nhánh không cần điều trị trực tiếp trừ khi có block nhĩ thất cấp hai hoặc block nhĩ thất cấp ba không liên tục. Các block ba phân nhánh thực sự đòi hỏi phải tạo nhịp ngay lập tức, sau đó là tạo nhịp vĩnh viễn (
+
+3
+
+).
+
+Các khiếm khuyết dẫn truyền không đặc hiệu trong thất
+
+được chẩn đoán khi phức bộ QRS kéo dài (
+
+>
+
+0,12 giây), nhưng dạng QRS không điển hình của LBBB hoặc RBBB (
+
+1
+
+). Dẫn truyền trễ có thể xảy ra ngoài hệ thống Purkinje do sự dẫn truyền chậm trễ giữa các tế bào cơ tim. Nguy cơ xảy ra các biến cố tim mạch tiếp theo và tử vong do khiếm khuyết dẫn truyền trong thất không đặc hiệu tương tự như LBBB. Theo đó, cần đánh giá bệnh nền trong cấu trúc ở tim. Trễ dẫn truyền trong thất đơn độc không gây ra triệu chứng. Không có chỉ định điều trị đặc hiệu (
+
+3
+
+).
+
+Tài liệu tham khảo
+
+1.
+
+Surawicz B, Childers R, Deal BJ, et al
+
+: AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a scientific statement from the American Heart Association Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and the Heart Rhythm Society. Endorsed by the International Society for Computerized Electrocardiology.
+
+J Am Coll Cardiol
+
+53(11):976–981, 2009. doi: 10.1016/j.jacc.2008.12.013
+
+2.
+
+MacLachlan H, Antonakaki A, Bhatia R, et al
+
+: Prevalence and Clinical Significance of Electrocardiographic Complete Right Bundle Branch Block in Young Individuals.
+
+Eur J Prev Cardiol
+
+ngày 27 tháng 2 năm 2024:zwae082, 2024 doi: 10.1093/eurjpc/zwae082
+
+3.
+
+Kusumoto FM, Schoenfeld MH, Barrett C, et al
+
+: 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+Heart Rhythm
+
+16(9):e128–e226, 2019. doi: 10.1016/j.hrthm.2018.10.037
+
+4.
+
+Wells G, Parkash R, Healey JS, et al
+
+: Cardiac resynchronization therapy: a meta-analysis of randomized controlled trials.
+
+CMAJ
+
+183(4):421–429, 2011. doi: 10.1503/cmaj.101685
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

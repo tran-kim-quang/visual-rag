@@ -1,0 +1,1139 @@
+TIÊU ĐỀ: Xơ nang
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/xơ-nang-cf/xơ-nang
+================================================================================
+
+NỘI DUNG:
+
+Xơ nang
+
+Theo
+
+Gregory Sawicki
+
+,
+
+MD, MPH
+
+,
+
+Harvard Medical School
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2024
+
+v1090235_vi
+
+Xơ nang là một bệnh di truyền của các tuyến ngoại tiết ảnh hưởng chủ yếu đến hệ thống hô hấp và hệ tiêu hóa. Nó dẫn đến bệnh phổi mãn tính, suy tụy ngoại tiết, bệnh gan mật, và bất thường tăng điện giải tuyến mồ hôi. Chẩn đoán bằng xét nghiệm mồ hôi hoặc xác định 2 biến thể gen gây xơ nang ở bệnh nhân có kết quả xét nghiệm sàng lọc sơ sinh dương tính hoặc có đặc điểm lâm sàng đặc trưng. Điều trị được hỗ trợ thông qua chăm sóc đa ngành tích cực với hiệu chỉnh phân tử nhỏ và các mục tiêu có khả năng nhằm vào khiếm khuyết protein dẫn truyền qua màng tế bào xơ nang.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Bệnh xơ nang (CF) là một bệnh di truyền đe dọa tính mạng, ở Hoa Kỳ xảy ra ở khoảng 1/3.300 ca sinh da trắng, 1/15.300 ca sinh da đen và 1/32.000 ca sinh người Mỹ gốc Á. Có khoảng 40.000 người mắc bệnh CF sống ở Hoa Kỳ và khoảng 100.000 người được chẩn đoán mắc bệnh CF trên toàn thế giới. Do việc điều trị và tuổi thọ được cải thiện, khoảng 58% số bệnh nhân ở Hoa Kỳ mắc bệnh CF hiện là người trưởng thành (
+
+1
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Cystic Fibrosis Foundation Patient Registry
+
+2021 Annual Data Report Bethesda, Maryland 2022 Cystic Fibrosis Foundation. Truy cập ngày 20 tháng 10 năm 2023.
+
+Căn nguyên của bệnh xơ nang
+
+Khoảng 3% dân số Da trắng mang
+
+đặc điểm gen lặn nhiễm sắc thể thường
+
+. Gen mã hóa bệnh nằm trên cánh dài của nhiễm sắc thể số 7. Nó mã hóa một protein liên kết màng gọi là điều hòa dẫn truyền qua màng xơ nang (CFTR). Biến thể gen phổ biến nhất là F508del, xảy ra ở khoảng 85% các allele CF;
+
+>
+
+2000 các biến thể CFTR ít phổ biến hơn đã được xác định.
+
+CFTR là kênh clorua được điều hòa bởi
+
+adenosine
+
+monophosphate (cAMP), điều hòa vận chuyển clorua, natri và bicarbonate qua màng biểu mô. Một số chức năng bổ sung được xem xét. Bệnh chỉ biểu hiện ở những người đồng hợp tử. Những người dị hợp tử có thể biểu hiện những bất thường khó thấy trong quá trình vận chuyển chất điện giải ở biểu mô nhưng không bị ảnh hưởng về mặt lâm sàng.
+
+Các biến thể
+
+CFTR
+
+đã được chia thành 6 loại dựa trên mức độ ảnh hưởng của biến thể đó đến chức năng hoặc quá trình xử lý protein CFTR. Bệnh nhân có các biến thể I, II hoặc III được xem là có kiểu gen nặng hơn dẫn đến chức năng CFTR rất ít hoặc không có trong khi bệnh nhân có 1 hoặc 2 biến thể IV hoặc V được xem là có kiểu gen nhẹ hơn dẫn đến chức năng CFTR còn lại. Tuy nhiên, không có mối liên quan chặt chẽ giữa các biến thể đặc hiệu và biểu hiện bệnh cụ thể, vì vậy việc kiểm tra lâm sàng (ví dụ chức năng của cơ quan) thay vì kiểu gen là hướng dẫn tốt hơn để tiên lượng. Các biến thể
+
+CFTR
+
+có thể liên quan đến dịch chuyển khung (xóa hoặc chèn vào trình tự DNA làm thay đổi cách đọc trình tự) hoặc đột biến vô nghĩa (dừng).
+
+Xơ nang: Vận chuyển clo khiếm khuyết
+
+Mô hình 3D
+
+Sinh lý bệnh của bệnh xơ nang
+
+Gần như tất cả các tuyến ngoại tiết đều bị ảnh hưởng bởi sự phân bố và mức độ nghiêm trọng khác nhau. Các tuyến có thể
+
+Bị tắc nghẽn bởi chất nhầy nhớt trong lòng (tuyến tụy, tuyến ở ruột non, ống mật trong gan, túi mật và tuyến dưới hàm)
+
+Xuất hiện bất thường về mặt mô học và sản xuất ra các chất bài tiết quá mức (khí phế quản và tuyến Brunner)
+
+Xuất hiện trên mô học bình thường nhưng tiết ra natri và clorua quá nhiều (tuyến mồ hôi, tuyến mang tai, và tuyến nước bọt nhỏ)
+
+Hô hấp
+
+Mặc dù phổi nhìn chung có mô học bình thường khi sinh nhưng hầu hết bệnh nhân đều phát triển các dấu hiệu của bệnh phổi bắt đầu từ thời thơ ấu hoặc thời thơ ấu. Nhiễm trùng niêm mạc và nhiễm khuẩn mạn tính, đi kèm với đáp ứng viêm rõ rệt, làm tổn thương đường hô hấp, dẫn đến
+
+chứng giãn phế quản
+
+và suy hô hấp. Quá trình diễn biến được đặc trưng bởi đợt cấp bùng phát kèm theo nhiễm trùng và sự suy giảm dần chức năng phổi.
+
+Gây tổn thương phổi có thể bắt đầu bằng sự tắc nghẽn lan tỏa ở đường thở nhỏ do tiết dịch nhầy dầy bất thường.
+
+Viêm tiểu phế quản
+
+và sự tắc nghẽn của các đường thở do đờm dẫn đến tắc nghẽn và nhiễm trùng thứ phát. Viêm mãn tính thứ phát do giải phóng protease và các cytokine tiền viêm bởi các tế bào trong đường thở cũng góp phần gây tổn thương phổi. Thay đổi đường thở phổ biến hơn so với thay đổi nhu mô, và khí phế thũng không nổi bật. Khoảng 50% bệnh nhân có phản ứng quá mức của phế quản đáp ứng với thuốc giãn phế quản.
+
+Ở những bệnh nhân mắc bệnh phổi tiên phát, tình trạng thiếu oxy máu mạn tính dẫn đến sự phì đại cơ của động mạch phổi,
+
+tăng áp phổi
+
+, và phì đại thất phải.
+
+Phổi của hầu hết các bệnh nhân bị xâm chiếm bởi vi khuẩn. Gia đoạn sớm,
+
+Staphylococcus aureus
+
+là mầm bệnh phổ biến nhất, nhưng khi bệnh tiến triển,
+
+Pseudomonas aeruginosa
+
+bao gồm các chủng đa kháng thuốc, thường được phân lập. khuẩn lạc nhầy của
+
+P. aeruginosa
+
+liên quan duy nhất với CF và có tiên lượng xấu hơn khuẩn không tiết nhầy của
+
+P. aeruginosa
+
+.
+
+Tại Hoa Kỳ, tỷ lệ nhiễm
+
+S. aureus
+
+kháng methicillin (
+
+MRSA
+
+) trong đường hô hấp hiện nay là khoảng 25%; những bệnh nhân bị nhiễm MRSA mạn tính có chức năng phổi suy giảm nhanh hơn và tỷ lệ sống sót thấp hơn những người không mắc bệnh.
+
+Sự cư trú của phức hợp
+
+Burkholderia cepacia
+
+xảy ra ở khoảng 2% đến 3% số bệnh nhân và có thể liên quan đến tình trạng suy phổi nhanh hơn.
+
+Vi khuẩn không điển hình
+
+, bao gồm phức hợp
+
+Mycobacterium avium
+
+và
+
+M. abscessus
+
+, là các mầm bệnh đường hô hấp tiềm ẩn. Tỷ lệ hiện hành khoảng 14% và thay đổi theo độ tuổi và vị trí địa lý. Sự phân biệt nhiễm trùng từ việc định khu có thể là một thách thức.
+
+Các mầm bệnh đường hô hấp thông thường khác bao gồm:
+
+Stenotrophomonas maltophilia
+
+,
+
+Achromobacter xylosoxidans
+
+, và
+
+Aspergillus
+
+sp.
+
+Vi khuẩn kỵ khí
+
+và
+
+vi rút đường hô hấp
+
+thông thường thường có trong đường hô hấp của bệnh nhân CF, nhưng vai trò của chúng đối với sự tiến triển của bệnh vẫn chưa được xác định rõ ràng.
+
+Đường tiêu hóa
+
+Tụy, ruột, và hệ thống gan mật thường bị ảnh hưởng. Chức năng tụy ngoại tiết bị tổn thương ở 85 đến 95% bệnh nhân. Một ngoại lệ là một tập hợp con bệnh nhân có các biến thể CFTR nhất định có chức năng còn sót lại, trong đó chức năng tuyến tụy được bảo tồn. Bệnh nhân bị suy tụy không hấp thu chất béo,vitamin tan trong chất béo và protein. Dịch tá tràng là bất thường và cho thấy sự vắng mặt hoặc giảm hoạt tính của enzym và giảm nồng độ bicarbonate ; trypsin và chymotrypsin không có hoặc giảm trong phân. Rối loạn chức năng tụy nội tiết ít phổ biến, nhưng xuất hiện sự giảm dung nạp glucose hoặc tiểu đường vào khoảng 2% trẻ em, 20% thanh thiếu niên và lên đến 50% người lớn.
+
+Ống mật có liên quan mật thiết với tình trạng ứ mật và tắc mật dẫn đến
+
+xơ gan
+
+không triệu chứng ở 30% bệnh nhân. Khoảng 3 đến 4% số bệnh nhân tiến triển đến xơ gan mật không hồi phục với
+
+tăng áp lực tĩnh mạch cửa
+
+, thường ở trẻ 12 tuổi. Suy tế bào gan thường hiếm và xuất hiện muộn. Suy tế bào gan thường hiếm và xuất hiện muộn Có một tỷ lệ gia tăng
+
+bệnh sỏi mật
+
+, mà thường không có triệu chứng.
+
+Sự bất thường lưu thông ruột có thể gây ra
+
+tắc ruột phân xu
+
+ở trẻ sơ sinh và đôi khi
+
+tắc phân
+
+của đại tràng. Trẻ lớn hơn và người lớn cũng có thể bị táo bón không liên tục hoặc mãn tính và
+
+tắc ruột
+
+.
+
+Các vấn đề về đường tiêu hóa (GI) khác bao gồm
+
+lồng ruột
+
+, xoắn ruột,
+
+sa trực tràng
+
+, áp xe quanh ruột thừa,
+
+viêm tụy
+
+, tăng nguy cơ bị
+
+ung thư đường gan mật
+
+và ung thư đường tiêu hóa (bao gồm cả
+
+tuyến tụy
+
+),
+
+trào ngược dạ dày thực quản
+
+, viêm thực quản và tỷ lệ hiện mắc của
+
+bệnh Crohn
+
+và
+
+bệnh celiac
+
+tăng lên.
+
+Khác
+
+Vô sinh xảy ra ở 98% nam giới trưởng thành thứ phát do sự phát triển bất thường của ống dẫn tinh hoặc các hình thức khác của tắc nghẽn tinh dịch. Ở phụ nữ, khả năng sinh sản có phần giảm sút phụ thuộc vào sự tiết dịch cổ tử cung, mặc dù nhiều phụ nữ có thể mang thai. Kết quả quá trình mang thai cho cả mẹ và trẻ sơ sinh có liên quan đến sức khoẻ của người mẹ.
+
+Các biến chứng khác bao gồm
+
+viêm mũi xoang mạn tính
+
+, thiếu xương/
+
+loãng xương
+
+,
+
+trầm cảm
+
+và lo lắng, đau mạn tính,
+
+ngưng thở khi ngủ do tắc nghẽn
+
+, các rối loạn giấc ngủ khác,
+
+sỏi thận
+
+,
+
+bệnh thận mạn tính
+
+phụ thuộc vào lọc máu (có thể liên quan đến phương pháp điều trị cũng như CF),
+
+thiếu máu do thiếu sắt
+
+,
+
+nghe kém tiếp nhận
+
+và
+
+ù tai
+
+do phơi nhiễm với
+
+các thuốc gây độc tai
+
+(đặc biệt là aminoglycoside) và đau khớp/viêm khớp từng đợt.
+
+Các triệu chứng và dấu hiệu của bệnh xơ nang
+
+Hô hấp
+
+50% bệnh nhân không được chẩn đoán thông qua sàng lọc trẻ sơ sinh có bất thường phổi, thường bắt đầu từ khi mới sinh. Nhiễm trùng tái phát hoặc mạn tính biểu hiện bởi ho, khạc đờm, và thở khò khè là phổ biến. Ho là triệu chứng mạn tính phổ biến nhất, thường kèm theo đờm, nôn mửa và rối loạn giấc ngủ. Sự co kéo cơ liên sườn, sử dụng các cơ hô hấp phụ, biến dạng lồng ngực, móng tay dùi trống, tím và giảm khả năng hoạt động thể lực xảy ra khi bệnh tiến triển. Có sự liên quan đến đường hô hấp trên bao gồm polposis mũi và viêm mũi xoang mãn tính hoặc tái phát.
+
+Các biến chứng tại phổi bao gồm
+
+tràn khí màng phổi
+
+,
+
+vi khuẩn không điển hình
+
+,
+
+ho máu
+
+,
+
+loạn sản phế quản phổi dị ứng do nấm aspergillous
+
+, và suy tim phải thứ phát do
+
+tăng áp phổi
+
+.
+
+Đường tiêu hóa
+
+Tắc ruột do phân su
+
+do tắc hồi tràng bởi phân su nhớt có thể là dấu hiệu sớm nhất và hiện diện ở khoảng 10% đến 20% số trẻ sơ sinh bị ảnh hưởng CF. Nó thường biểu hiện với chướng bụng, nôn và không đi ngoài phân xu. Một số trẻ sơ sinh có thủng ruột, có dấu hiệu viêm phúc mạc và sốc. Trẻ sơ sinh mắc
+
+hội chứng nút phân su
+
+có khả năng thải phân su chậm. Chúng có thể có dấu hiệu tương tự tắc nghẽn hoặc các triệu chứng rất nhẹ và thoáng qua không nhận thấy. Những bệnh nhân lớn hơn có thể bị chứng táo bón hoặc các giai đoạn tái đi tái lại và đôi khi mạn tính của tắc nghẽn ruột non hoặc ruột già một phần hoặc toàn bộ (hội chứng tắc nghẽn đường ruột xa). Các triệu chứng bao gồm đau bụng âm ỉ, thay đổi khuôn phân, giảm ngon miệng, và đôi khi nôn.
+
+Ở trẻ sơ sinh không có tắc ruột phân su, khởi phát bệnh có thể được báo trước bởi sự chậm trong việc lấy lại cân nặng khi sinh và tăng cân không thích hợp ở 4 đến 6 tuần tuổi.
+
+Thỉnh thoảng, trẻ sơ sinh bị thiếu dinh dưỡng, đặc biệt nếu dùng sữa công thức chống dị ứng hoặc sữa đậu nành, thường có hiện tượng phù thứ phát do kém hấp thu protein.
+
+Suy tụy thường có biểu hiện lâm sàng rõ ràng trong giai đoạn sớm của cuộc đời và có thể tiến triển. Các biểu hiện bao gồm sự xuất hiện phân mùi hôi, phân mỡ; cảm ứng phúc mạc và tăng trưởng kém với giảm mô dưới da và khối cơ mặc dù thèm ăn bình thường hoặc tăng. Biểu hiện lâm sàng có thể xảy ra thứ phát do thiếu vitamin tan trong dầu.
+
+Sa trực tràng có thể xảy ra ở trẻ sơ sinh và trẻ nhỏ không được điều trị. Trào ngược dạ dày thực quản là khá phổ biến ở trẻ em và người lớn.
+
+Khác
+
+Đổ mồ hôi quá nhiều trong thời tiết nóng hoặc sốt có thể dẫn đến tình trạng mất nước giảm natri máu/giảm clo máu và suy tuần hoàn. Trong thời tiết khô hanh, trẻ sơ sinh có thể bị
+
+kiềm hóa chuyển hóa mạn tính
+
+. Sự hình thành tinh thể muối và mùi vị mặn trên da gợi ý rất cao về CF.
+
+Thanh thiếu niên có thể bị chậm phát triển thể chất và chậm phát triển dậy thì.
+
+Chẩn đoán bệnh xơ nang
+
+Sàng lọc trẻ sơ sinh
+
+Cũng có thể được gợi ý bằng một kết quả kiểm tra sàng lọc trước khi sinh, tiền sử gia đình, hoặc xuất hiện triệu chứng
+
+khẳng định bằng test mồ hôi cho thấy lượng clo trong mồ hôi tăng lên 2 lần
+
+Xác định 2 biến thể gây CF (1 trên mỗi nhiễm sắc thể) phù hợp với chẩn đoán
+
+Rất hiếm khi được khẳng định, trong các trường hợp không điển hình, bằng cách thể hiện vận chuyển ion bất thường trên biểu mô mũi hoặc hiện tại đo đường bất thường qua ruột
+
+Hầu hết các trường hợp CF được xác định đầu tiên bằng cách sàng lọc sơ sinh, nhưng có đến 10% không được chẩn đoán cho đến tuổi vị thành niên hoặc giai đoạn đầu trưởng thành. Mặc dù có những tiến bộ trong xét nghiệm di truyền, xét nghiệm Clo trong mồ hôi vẫn là tiêu chuẩn để xác định chẩn đoán CF trong hầu hết các trường hợp do tính nhạy cảm và độ đặc hiệu, sự đơn giản và tính khả dụng.
+
+Sàng lọc trẻ sơ sinh
+
+Sàng lọc CF sơ sinh toàn cầu hiện đã trở thành tiêu chuẩn ở Hoa Kỳ. Sàng lọc dựa trên việc phát hiện một nồng độ cao của trypsinogen miễn dịch (IRT) trong máu.
+
+Có 2 phương pháp theo dõi mức IRT tăng cao. Trong một phương pháp, IRT thứ phát được thực hiện, kết quả tăng lên, sau đó là test mồ hôi. Trong phương pháp khác, được sử dụng phổ biến hơn, mức IRT tăng cao sẽ được thực hiện bằng xét nghiệm đột biến
+
+CFTR
+
+và nếu xác định được 1 biến thể hoặc 2 biến thể thì xét nghiệm mồ hôi sẽ được thực hiện. Để chẩn đoán, cả hai phương pháp đều có độ nhạy từ 90 đến 95%.
+
+Test mồ hôi
+
+Trong test này, mồ hôi tại chỗ được kích thích với pilocarpine, lượng mồ hôi được đo, và nồng độ clo được xác định. Mặc dù nồng độ Clo mồ hôi tăng nhẹ theo độ tuổi, test mồ hôi có giá trị ở mọi lứa tuổi.
+
+Bình thường:
+
+≤
+
+30 mEq/L (
+
+≤
+
+30 mmol/L) (CF là không có.)
+
+Trung bình: 30 đến 59 mEq/L (30 đến 59 mmol/L) (CF là có thể.)
+
+Bất thường:
+
+≥
+
+60 mEq/L (
+
+≥
+
+60 mmol/L) (Kết quả này phù hợp với CF.)
+
+Kết quả có giá trị sau 48 giờ, nhưng một mẫu mồ hôi đầy đủ (
+
+>
+
+75 mg trên giấy lọc hoặc
+
+>
+
+15 mcL trong ống cấy) có thể khó đạt được trước 2 tuần tuổi. Kết quả âm tính giả rất hiếm nhưng có thể xảy ra khi có phù và giảm protein máu hoặc không đủ lượng số lượng mồ hôi. Kết quả dương tính giả thường là do lỗi kỹ thuật. Nồng độ muối clorua trong mồ hôi thoáng qua có thể là kết quả của việc suy sụp tâm thần (như lạm dụng trẻ em, bỏ mặc) và có thể xảy ra ở những bệnh nhân bị chán ăn tâm thần. Kết quả xét nghiệm mồ hôi dương tính phải được xác nhận bằng xét nghiệm mồ hôi thứ hai hoặc bằng cách xác định 2 biến thể gây ra CF.
+
+Kết quả kiểm tra mồ hôi trung bình
+
+Một tập hợp nhỏ các bệnh nhân có kiểu hình CF nhẹ hoặc một phần và giá trị Chloride trong mồ hôi là hằng định ở mức trung bình hoặc thậm chí bình thường. Ngoài ra, có những bệnh nhân có các biểu hiện đơn cơ quan như viêm tụy mạn tính hoặc tái phát, giãn phế quản đơn độc hoặc không có ống dẫn tinh hai bên bẩm sinh cùng với các phát hiện gợi ý chức năng CFTR bất thường. Họ không đáp ứng các tiêu chuẩn chẩn đoán CF và được phân loại là có rối loạn liên quan đến CFTR. Ở một số bệnh nhân, chẩn đoán CF có thể được khẳng định bằng cách xác định 2 biến thể gây CF, 1 trên mỗi nhiễm sắc thể. Nếu không xác định được 2 biến thể gây ra CF, các đánh giá phụ trợ như kiểm tra chức năng tụy và chụp tụy, CT ngực có độ phân giải cao, CT xoang, xét nghiệm chức năng phổi, đánh giá hệ tiết niệu sinh dục nam giới và dịch rửa phế quản bao gồm đánh giá hệ vi khuẩn có thể hữu ích.
+
+Các xét nghiệm chẩn đoán hữu ích bổ sung bao gồm phân tích di truyền
+
+CFTR
+
+mở rộng và đo lường sự khác biệt tiềm năng qua biểu mô mũi (dựa trên quan sát sự tái hấp thu natri tăng qua biểu mô tương đối không thấm clorua ở bệnh nhân mắc CF) và đo dòng điện trong ruột.
+
+Hội chứng chuyển hóa liên quan đến CFTR và sàng lọc CF dương tính, chẩn đoán không kết luận
+
+Trẻ sơ sinh có kết quả xét nghiệm sàng lọc dương tính và bằng chứng về rối loạn CFTR có thể xảy ra nhưng không đủ các tiêu chuẩn chẩn đoán cho CF gọi là hội chứng chuyển hóa liên quan đến CFTR (CRMS). Để được chẩn đoán, trẻ sơ sinh không có triệu chứng và có
+
+hoặc
+
+những biểu hiện sau đây:
+
+Nồng độ Clo trong mồ hôi ở mức trung bình ít nhất 0 lần riêng biệt và 1 biến thể gây CF
+
+Nồng độ clorua mồ hôi ở mức bình thường và 2 biến thể
+
+CFTR
+
+, ít nhất 1 trong số đó có hậu quả kiểu hình không rõ ràng
+
+Hầu hết trẻ em bị CRMS/CFSPID vẫn khỏe mạnh, nhưng theo thời gian khoảng 10% sẽ phát triển các triệu chứng và đáp ứng các tiêu chuẩn chẩn đoán CF hoặc rối loạn liên quan đến CF. Bệnh nhân mắc CRMS/CFSPID nên được đánh giá và theo dõi thường xuyên tại trung tâm chăm sóc CF.
+
+Kiểm tra tụy
+
+Chức năng tụy cần được đánh giá vào thời điểm chẩn đoán, thường là bằng cách đo nồng độ elastase tụy trong phân. Phép đo elastase tuyến tụy ở người có giá trị ngay cả khi có sự hiện diện của các enzyme tuyến tụy ngoại sinh. Thử nghiệm thứ hai này có giá trị ngay cả với sự có mặt của các enzym tụy ngoại tiết Trẻ sơ sinh mà có chức năng tụy bình thường và có 2 biến thể "nặng" cần đo lường liên tiếp để phát hiện sự tiến triển đến suy tụy.
+
+Đánh giá hô hấp
+
+Chụp hình ảnh lồng ngực nên được thực hiện vào thời điểm suy thở hoặc đợt cấp tiến hành thường quy mỗi 1 đến 2 năm. CT ngực có độ phân giải cao có thể giúp xác định chính xác mức độ tổn thương phổi và để phát hiện các bất thường về nhỏ về đường thở. Chụp X-quang ngực và CT có thể cho thấy tăng thông khí và dày thành phế quản như là những phát hiện sớm nhất. Những thay đổi sau đó bao gồm các khu vực thâm nhiễm, xẹp phổi và hạch rốn phổi. Với bệnh tiến triển, xẹp phổi từng đoạn hoặc thùy, hình thành nang,
+
+giãn phế quản
+
+, phì đại động mạch phổi và thất phải xảy ra. Sự phân nhánh, điểm mờ giống ngón tay tượng trưng cho ảnh hưởng của chất nhày làm giãn phế quản là đặc trưng của bệnh.
+
+CT xoang được chỉ định ở những bệnh nhân có triệu chứng xoang hoặc polip mũi đang được xem xét phẫu thuật nội soi xoang. Kết quả hầu như luôn hiển thị sự mờ dai dẳng các xoang sàng.
+
+Các kiểm tra chẩn đoán hình ảnh ngực cho bệnh xơ nang
+
+Xơ nang (X-quang ngực)
+
+Phim X-quang phổi này cho thấy xẹp thùy dưới bên phải. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.
+
+Được sự cho phép của nhà xuất bản. Từ Berman L:
+
+Atlas of Anesthesia: Critical Care
+
+. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.
+
+Xơ nang (phim X-quang ngực)
+
+Phim chụp X-quang phổi của một người đàn ông bị xơ nang cho thấy tăng các vệt phổi lên phù hợp với chứng giãn phế quản.
+
+PHOTOSTOCK-ISRAEL/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Xơ nang (chụp CT)
+
+Phim chụp CT này cho thấy các phế quản bị giãn ra rất nhiều ở toàn bộ phổi. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.
+
+... đọc thêm
+
+Được sự cho phép của nhà xuất bản. Từ Berman L:
+
+Atlas of Anesthesia: Critical Care
+
+. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.
+
+Xơ nang (X-quang ngực)
+
+Phim X-quang phổi này cho thấy xẹp thùy dưới bên phải. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.
+
+Được sự cho phép của nhà xuất bản. Từ Berman L:
+
+Atlas of Anesthesia: Critical Care
+
+. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.
+
+Xơ nang (phim X-quang ngực)
+
+Phim chụp X-quang phổi của một người đàn ông bị xơ nang cho thấy tăng các vệt phổi lên phù hợp với chứng giãn phế quản.
+
+PHOTOSTOCK-ISRAEL/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Xơ nang (chụp CT)
+
+Phim chụp CT này cho thấy các phế quản bị giãn ra rất nhiều ở toàn bộ phổi. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.
+
+... đọc thêm
+
+Được sự cho phép của nhà xuất bản. Từ Berman L:
+
+Atlas of Anesthesia: Critical Care
+
+. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.
+
+Kiểm tra chức năng phổi
+
+là chỉ số tốt nhất về tình trạng lâm sàng và đáp ứng với điều trị. Ở những bệnh nhân trên 5 tuổi, đo phế dung nên được thực hiện thường quy và vào những thời điểm lâm sàng suy giảm. Ở trẻ sơ sinh, tình trạng hô hấp có thể được theo dõi bằng cách sử dụng kỹ thuật ép ngực bụng nhanh thể tích tăng lên, tạo ra đường cong thể tích lưu lượng một phần. Ở trẻ em từ 3 đến 6 tuổi, quy trình rửa nhiều hơi có thể được sử dụng để tạo chỉ số thanh thải phổi như một thước đo về tính không đồng nhất về thông khí (
+
+1
+
+).
+
+Các kiểm tra chức năng phổi được thực hiện bằng phương pháp đo phế dung cho thấy
+
+Giảm dung tích sống gắng sức (FVC), thể tích thở ra gắng sức trong giây đầu tiên (FEV1), lưu lượng thở ra khoảng giữa 25% và 75% gắng sức (FEF25-75), và tỷ số FEV1/FVC
+
+Sự gia tăng thể tích khí cặn và tỷ số thể tích căn/dung tích phổi toàn phần
+
+50 phần trăm bệnh nhân có dấu hiệu tắc nghẽn đường hô hấp có hồi phục được thể hiện bằng cải thiện chức năng phổi sau khi dùng thuốc giãn phế quản dạng hít.
+
+Các xét nghiệm sàng lọc bằng cấy dịch tỵ hầu hoặc cấy đờm phải được thực hiện ít nhất 4 lần/năm, đặc biệt ở những bệnh nhân chưa có khu trú với
+
+P. aeruginosa
+
+.
+
+Nội soi phế quản/rửa phế quản phế nang
+
+được chỉ định khi cần xác định chính xác hệ vi khuẩn đường hô hấp dưới của bệnh nhân (ví dụ: để chỉ đạo lựa chọn kháng sinh) hoặc để loại bỏ các nút nhầy tiết ra.
+
+Xét nghiệm người mang
+
+Sàng lọc người mang mầm bệnh CF hiện có ở Hoa Kỳ và được khuyến nghị cho các cặp vợ chồng đang có kế hoạch mang thai hoặc đang tìm kiếm dịch vụ chăm sóc trước khi sinh. Nếu cả cha và mẹ tiềm năng đều mang biến thể
+
+CFTR
+
+, việc sàng lọc trước khi sinh cho thai nhi có thể được thực hiện bằng cách lấy mẫu lông nhung màng đệm hoặc chọc ối. Tư vấn trước khi sinh trong những trường hợp như vậy rất phức tạp do sự biến đổi lớn về kiểu hình của CF và thông tin không đầy đủ về hậu quả lâm sàng của nhiều biến thể
+
+CFTR
+
+được xác định thông qua sàng lọc.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Stanojevic S, Davis SD, Retsch-Bogart G, et al
+
+: Progression of lung disease in preschool patients with cystic fibrosis.
+
+Am J Respir Crit Care Med
+
+195:1216–1225, 2017. doi: 10.1164/rccm.201610-2158OC
+
+Điều trị bệnh xơ nang
+
+Hỗ trợ toàn diện, đa ncơ quan
+
+Thuốc kháng sinh, thuốc hít để làm loãng dịch tiết đường thở và các thao tác vật lý để làm sạch dịch tiết đường thở
+
+Hít thuốc giãn phế quản và đôi khi là corticosteroid cho người đáp ứng
+
+Thường bổ sung men tụy và vitamin
+
+Chế độ ăn giàu chất béo (đôi khi cần bổ sung thức ăn bằng đường ăn sonde)
+
+Ở những bệnh nhân có biến thể đặc hiệu, một CFTR khả năng hoặc sự kết hợp của một CFTR cân bằng và khả năng
+
+Liệu pháp toàn diện và tích cực cần được hướng dẫn bởi một bác sĩ có kinh nghiệm làm việc với một nhóm đa khoa bao gồm các bác sĩ, y tá, chuyên gia về chế độ ăn uống, vật lý trị liệu và hô hấp, chuyên gia sức khỏe tâm thần, dược sĩ và nhân viên xã hội. Mục tiêu của điều trị là duy trì tình trạng dinh dưỡng bình thường, phòng ngừa hoặc điều trị tích cực các biến chứng về phổi và các biến chứng khác, khuyến khích hoạt động thể chất và cung cấp hỗ trợ tâm lý xã hội. Phác đồ điều trị rất phức tạp và có thể mất đến 2 giờ mỗi ngày. Với sự hỗ trợ thích hợp, hầu hết bệnh nhân đều có thể điều chỉnh được độ tuổi thích hợp ở nhà và trường học.
+
+(Xem thêm
+
+hướng dẫn điều trị toàn diện cho tất cả các nhóm tuổi
+
+của Quỹ Xơ nang.)
+
+Điều trị các biểu hiện về hô hấp
+
+Điều trị các biểu hiện ở phổi tập trung vào việc ngăn ngừa tắc nghẽn đường thở, phòng ngừa và kiểm soát nhiễm trùng phổi. Dự phòng nhiễm trùng phổi bao gồm duy trì miễn dịch
+
+ho gà
+
+,
+
+Haemophilus influenzae
+
+,
+
+varicella
+
+,
+
+Streptococcus pneumoniae
+
+và
+
+sởi
+
+;
+
+tiêm phòng cúm hàng năm
+
+; và
+
+tiêm vawcsx xin phòng COVID-19
+
+theo các khuyến nghị hiện hành
+
+của Ủy ban Tư vấn về Thực hành Tiêm chủng (ACIP). Ở những bệnh nhân tiếp xúc với cúm, chất ức chế neuraminidase có thể được sử dụng dự phòng hoặc khi có dấu hiệu nhiễm trùng đầu tiên. Cung cấp nirsevimab, hoặc khi không có sẵn, palivizumab, cho trẻ sơ sinh mắc CF để
+
+ngăn ngừa nhiễm vi rút hợp bào hô hấp
+
+đã được chứng minh là an toàn, nhưng hiệu quả chưa được ghi nhận.
+
+Khuyến nghị điều trị bằng đường hít hàng ngày dài hạn bằng dornase alfa (deoxyribonuclease tái tổ hợp ở người) hoặc với dung dịch muối sinh lý ưu trương 7% (
+
+1, 2
+
+) và đã được chứng minh là làm chậm tốc độ suy giảm chức năng phổi và giảm tần suất các đợt cấp của đường hô hấp (
+
+3
+
+).
+
+Các biện pháp thôngthoáng đường thở bao gồm dẫn lưu tư thế, vỗ rung, và hỗ trợ ho (
+
+vật lý trị liệu ngực
+
+) được khuyến cáo tại thời điểm chẩn đoán và nên được thực hiện thường xuyên. Ở những bệnh nhân lớn tuổi, các biện pháp thông khí thay thế khác như chu kỳ thở chủ động, dẫn lưu tự động, các thiết bị thở ra áp suất dương, và liệu pháp áo vest (dao động ngực cao tần) có thể có hiệu quả. Thường xuyên tập thể dục aerobic; nó cũng có thể giúp đường thở thông thoáng. Đối với bệnh nhân ngưng thở tắc nghẽn khi ngủ
+
+áp lực dương liên tục
+
+có thể có lợi.
+
+Đối với bệnh nhân bị tắc nghẽn đường dẫn khí có hồi phục, thuốc giãn phế quản có thể được sử dụng đường hít. Corticosteroid bằng hít thường không có hiệu quả. O2 liệu pháp được chỉ định cho bệnh nhân suy hô hấp nặng và thiếu máu cục bộ.
+
+Thông khí cơ học hoặc oxy hóa màng ngoài cơ thể (ECMO) thường không được chỉ định cho
+
+suy hô hấp
+
+mạn tính. Việc sử dụng chúng thường bị hạn chế ở những bệnh nhân có tình trạng cơ bản tốt, trong đó các biến chứng hô hấp cấp tính có thể hồi phục phát triển, liên quan đến phẫu thuật phổi, hoặc cho những bệnh nhân sắp được ghép phổi.
+
+Thông khí áp lực dương không xâm lấn
+
+qua mũi hoặc mặt nạ cũng có thể có lợi.
+
+Thuốc long đờm đôi khi được sử dụng, nhưng ít dữ liệu hỗ trợ hiệu quả của chúng. Thuốc giảm ho không được khuyến khích.
+
+Tràn khí màng phổi có thể được điều trị
+
+dẫn lưu màng phổi
+
+. Phẫu thuật mở lồng ngực hoặc nội soi lồng ngực kèm theo cắt bỏ các khối khí màng phổi và mài mòn cơ học bề mặt màng phổi có hiệu quả trong điều trị
+
+tràn khí màng phổi
+
+tái phát.
+
+Ho ra máu nhẹ
+
+đến trung bình được điều trị bằng kháng sinh (uống/khí dung hoặc tiêm tĩnh mạch tùy thuộc vào mức độ nặng của ho ra máu và mức độ nặng của nhiễm trùng) và làm khai thông đường thở. Ho ra máu ồ ạt hoặc tái phát được điều trị bằng cách thuyên tắc động mạch phế quản hoặc hiếm khi bằng cách cắt bỏ phổi khu trú.
+
+Corticosteroid đường uống được chỉ định ở trẻ sơ sinh bị
+
+viêm tiểu phế quản
+
+kéo dài và ở những bệnh nhân bị co thắt phế quản dai dẳng,
+
+bệnh do aspergillus phế quản phổi dị ứng
+
+(ABPA) và các biến chứng viêm (ví dụ: viêm khớp,
+
+viêm mạch
+
+). Sử dụng lâu dài liệu pháp corticosteroid cách nhật có thể làm chậm sự suy giảm chức năng phổi, nhưng do các biến chứng liên quan đến corticosteroid, nên không nên sử dụng thường xuyên. Bệnh nhân dùng corticosteroid phải được theo dõi chặt chẽ để có bằng chứng về bệnh tiểu đường và chậm phát triển.
+
+Bệnh do aspergillus phế quản phổi dị ứng cũng được điều trị bằng corticosteroid đường toàn thân và thuốc chống nấm đường uống.
+
+Ibuprofen, khi dùng trong nhiều năm với liều đủ để đạt được nồng độ đỉnh trong máu từ 50 đến 100 mcg/mL (242,4 và 484,8 micromol/L), cho thấy làm chậm lại tốc độ suy giảm chức năng phổi, đặc biệt ở trẻ em từ 5 đến 13 tuổi. Liều thích hợp phải được cá nhân hoá dựa trên nghiên cứu dược động học.
+
+Viêm mũi-xoang mạn tính rất phổ biến. Các lựa chọn điều trị bao gồm rửa mũi bằng nước muối sinh lý, rửa mũi đẳng trương áp suất thấp, tạo khí dung dornase alfa trong mũi và kháng sinh tại chỗ qua đường xoang-mũi. Phẫu thuật xoang có thể hữu ích trong những trường hợp khó xử trí bằng thuốc. Thuốc xịt corticosteroid trong mũi được khuyến khích để điều trị viêm mũi dị ứng.
+
+CFTR điều biến
+
+Thuốc điều chỉnh và tăng cường CFTR được chỉ định cho khoảng 90% số các biến thể mà bệnh nhân mắc CF mang. Thuốc điều biến CFTR không có sẵn cho bệnh nhân với các đột biến xê dịch khung loại I và các đột biến vô nghĩa.
+
+Ivacaftor là một loại thuốc uống phân tử nhỏ được dùng lâu dài có tác dụng tăng cường kênh ion CFTR ở những bệnh nhân có các biến thể
+
+CFTR
+
+cụ thể. Thuốc có thể được sử dụng ở những bệnh nhân từ 1 tháng tuổi trở lên mang ít nhất 1 bản sao của một biến thể cụ thể được tăng cường bởi
+
+ivacaftor
+
+.
+
+Lumacaftor, tezacaftor và elexacaftor là các loại thuốc uống phân tử nhỏ giúp điều chỉnh một phần protein CFTR bị lỗi bằng cách thay đổi quá trình lệch tâm protein ở những bệnh nhân mang biến thể F508del hoặc các biến thể được chỉ định khác.
+
+Có thể sử dụng phối hợp giữa lumacaftor và
+
+ivacaftor
+
+cho bệnh nhân từ 1 tuổi trở lên mang 2 bản sao của biến thể F508del.
+
+Có thể sử dụng phối kết hợp giữa tezacaftor và
+
+ivacaftor
+
+cho bệnh nhân từ 6 tuổi trở lên mang 2 bản sao của biến thể F508del hoặc các biến thể được chỉ định khác.
+
+Có thể sử dụng phối hợp ba loại elexacaftor, tezacaftor và
+
+ivacaftor
+
+cho bệnh nhân từ 2 tuổi trở lên mang ít nhất 1 bản sao của biến thể F508del hoặc 1 bản sao của một số biến thể hiếm gặp (
+
+4, 5
+
+).
+
+Những loại thuốc này có thể cải thiện chức năng phổi, tăng cân, cải thiện chức năng tuyến tụy ngoại tiết, giảm tần suất các đợt cấp và nhập viện ở phổi, cải thiện chất lượng cuộc sống, giảm và đôi khi bình thường hóa nồng độ clorua trong mồ hôi (
+
+6
+
+). Các chỉ định cho ivacaftor, lumacaftor/ivacaftor, tezacaftor/ivacaftor và elexacaftor/tezacaftor/ivacaftor dựa trên các biến thể và độ tuổi
+
+CFTR
+
+của bệnh nhân và đang thay đổi nhanh chóng. Mặc dù tất cả các loại thuốc này đều có thể hữu ích, nhưng chỉ ivacaftor và phối hợp giữa elexacaftor, tezacaftor và
+
+ivacaftor
+
+được coi là liệu pháp điều biến có hiệu quả cao.
+
+Điều trị và phòng ngừa nhiễm trùng
+
+Cho
+
+tổn thương phổi nhẹ
+
+, một đợt kháng sinh ngắn nên được chỉ định dựa trên kết quả cấy và độ nhạy. Các loại thuốc được lựa chọn cho tụ cầu nhạy cảm với methicillin là penicillin kháng penicillinase (ví dụ: dicloxacillin), cephalosporin (ví dụ: ceshalexin), hoặc trimethoprim/sulfamethoxazole. Erythromycin, amoxicillin/clavulanate, ampicillin, tetracycline, hoặc linezolid có thể được sử dụng. Đối với những bệnh nhân có vi khuẩn
+
+S. aureus
+
+kháng methicillin (MRSA) cư trú, một đợt uống
+
+trimethoprim
+
+/sulfamethoxazole, clindamycin, linezolid hoặc tetracycline có thể có hiệu quả. Đối với những bệnh nhân nhiễm
+
+P. aeruginosa
+
+, một đợt ngắn tobramycin hoặc aztreonam dạng hít (ví dụ: 4 tuần) và/hoặc fluoroquinolone đường uống (ví dụ: 2 tuần đến 3 tuần) có thể có hiệu quả. Fluoroquinolones đã được sử dụng an toàn ở trẻ nhỏ.
+
+Cho
+
+các tổn thương phổi từ vừa đến nặng,
+
+đặc biệt ở những bệnh nhân nhiễm
+
+P. aeruginosa
+
+, Điều trị bằng kháng sinh TM được khuyến cáo. Bệnh nhân thường phải nhập viện, nhưng những bệnh nhân được lựa chọn cẩn thận có thể được điều trị một cách an toàn tại nhà. Kết hợp aminoglycoside tobramycin (hoặc đôi khi amikacin) với cephalosporin, penicillin phổ mở rộng, fluoroquinolone, hoặc monobactam có hoạt tính kháng giả được cho dùng theo tĩnh mạch, thường trong 2 tuần. Có thể cần dùng liều cao hơn để đạt được nồng độ trong huyết thanh có thể chấp nhận được. Do độ thanh thải thận, tăng, nên cần có một lượng penicillin lớn để đạt được nồng độ huyết thanh cần thiết Đối với những bệnh nhân nhiễm thuộc nhóm S. aureus, tụ cầu kháng methicillin, vancomycin hoặc linezolid có thể được sử dụng đường TM. Đối với những bệnh nhân nhiễm thuộc nhóm S. aureus, tụ cầu kháng methicillin, vancomycin hoặc linezolid có thể được sử dụng đường TM.
+
+Việc tiêu diệt vi khuẩn
+
+P. aeruginosa
+
+cư trú lâu dài là rất khó khăn. Tuy nhiên, người ta đã chỉ ra rằng điều trị kháng sinh sớm vào khoảng thời gian mà đường hô hấp bắt đầu bị nhiễm
+
+P. aeruginosa
+
+có thể có hiệu quả trong việc loại trừ vi khuẩn ra khỏi cơ thể trong một khoảng thời gian. Ở những bệnh nhân có
+
+P. aeruginosa
+
+cú trú lâu dài, kháng sinh được cung cấp qua đường hô hấp sẽ cải thiện các thông số lâm sàng và có thể làm giảm gánh nặng vi khuẩn trong đường thở (
+
+7
+
+). Việc sử dụng lâu dài liệu pháp tobramycin hoặc aztreonam dạng hít xen kẽ trong tháng cùng với azithromycin đường uống liên tục (hàng tháng) 3 lần một tuần có thể có hiệu quả trong việc cải thiện hoặc ổn định chức năng phổi và giảm tần suất các đợt cấp của phổi.
+
+Bệnh nhân có bệnh nhiễm trùng mycobacterium không điển hình có thể cần điều trị lâu dài bằng phối hợp các thuốc kháng sinh đường uống, hít và tĩnh mạch.
+
+Bệnh nhân bị
+
+bệnh do aspergillus phế quản phổi dị ứng
+
+(ABPA) hoặc nhiễm aspergillus đường hô hấp dưới có thể cần điều trị bằng đường uống hoặc đường tĩnh mạch kéo dài bằng azole chống nấm và/hoặc corticosteroid đường toàn thân.
+
+Điều trị các biểu hiện ở đường tiêu hóa
+
+Sự tắc nghẽn đường ruột ở trẻ sơ sinh thỉnh thoảng có thể được giảm bớt bằng cách thụt chất thẩm thấu ưu trương hoặc chất cản quang đẳng trương; nếu không, phẫu thuật nội soi đường tiêu hóa để loại bỏ phân quánh trong ruột có thể là cần thiết. Sau giai đoạn sơ sinh, các trường hợp tắc nghẽn ruột từng phần (hội chứng tắc nghẽn đường ruột đoạn xa) có thể được điều trị bằng thụt chất thẩm thấu ưu trương hoặc chất cản quang đẳng trương hoặc acetylcysteine, hoặc bằng cách uống một dung dịch cân bằng đường tiêu hoá. Thuốc làm mềm phân như là dioctyl natri sulfosuccinate (docusate) hoặc lactulose có thể giúp ngăn ngừa những đợt bệnh như vậy.
+
+Ursodeoxycholic acid, acid mật hydrophilic, thường được sử dụng ở bệnh nhân bị bệnh gan do CF, nhưng có ít bằng chứng về hiệu quả của nó trong việc ngăn ngừa sự tiến triển từ ứ mật gây xơ gan.
+
+Thay thế enzym tụy
+
+nên bổ sung vào tất cả các bữa ăn và đồ ăn nhẹ cho bệnh nhân bị suy tụy. Các chế phẩm enzyme hiệu quả nhất chứa pancrelipase trong các thể trung tâm tan trong ruột với nhạy cảm với pH. Đối với trẻ sơ sinh, các viên nang được mở ra và các chất được trộn với thức ăn có tính axit. Sau giai đoạn sơ sinh, liều lượng dựa trên cân nặng được sử dụng. Liều
+
+>
+
+2.500 IU lipase/kg/bữa hoặc
+
+>
+
+10.000 IU lipase/kg/ngày cần tránh vì liều lượng enzyme cao có liên quan đến chứng bệnh đại tràng xơ hóa. Ở những bệnh nhân có nhu cầu về enzyme cao, sự ức chế acid với kháng H2 hoặc thuốc ức chế bơm proton có thể cải thiện hiệu quả của enzym.
+
+Liệu pháp
+
+ăn kiêng
+
+bao gồm đủ lượng calo và protein để thúc đẩy tăng trưởng bình thường - có thể cần nhiều hơn 30% đến 50% so với mức cho phép ăn kiêng được khuyến nghị thông thường (xem bảng
+
+Lượng tiêu thụ tham khảo chế độ ăn uống được khuyến nghị cho một số chất dinh dưỡng đa lượng
+
+). Liệu pháp ăn kiêng cũng bao gồm tổng lượng chất béo ăn vào từ bình thường đến cao để tăng mật độ calo trong chế độ ăn, bổ sung vitamin tổng hợp hòa tan trong nước gấp đôi lượng khuyến nghị hàng ngày, bổ sung vitamin D3 (cholecalciferol) ở bệnh nhân thiếu hoặc thiếu
+
+vitamin D
+
+và bổ sung muối trong thời thơ ấu và thời kỳ căng thẳng do nhiệt và tăng tiết mồ hôi. Trẻ sơ sinh được điều trị kháng sinh phổ rộng, bệnh nhân bị bệnh gan và ho ra máu nên bổ sung thêm vitamin K. Sữa công thức chứa đạm thủy phân và triglyceride chuỗi trung bình có thể được sử dụng thay cho công thức sữa nguyên chất cho trẻ nhũ nhi bị giảm hấp thu nghiêm trọng. Glucose polymer và chất bổ sung triglyceride chuỗi trung bình có thể được sử dụng để tăng lượng calo.
+
+Ở những bệnh nhân không duy trì được tình trạng dinh dưỡng đầy đủ, việc bổ sung qua đường ruột thông qua phẫu thuật cắt dạ dày hoặc hỗng tràng có thể cải thiện sự tăng trưởng và ổn định chức năng phổi (xem
+
+Tổng quan về hỗ trợ dinh dưỡng
+
+). Việc sử dụng các chất kích thích sự thèm ăn để tăng cường sự tăng trưởng có thể hữu ích ở một số bệnh nhân.
+
+Điều trị các biểu hiện khác
+
+Bệnh tiểu đường liên quan đến xơ nang (CFRD)
+
+là do thiếu
+
+insulin
+
+và có các đặc điểm chung của cả bệnh tiểu đường típ 1 và típ 2. Insulin là cách điều trị duy nhất được khuyến cáo. Insulin là cách điều trị duy nhất được khuyến cáo Quản lý bao gồm
+
+insulin
+
+, tư vấn về dinh dưỡng, chương trình giáo dục quản lý tiểu đường, và theo dõi các biến chứng vi mạch. Kế hoạch nên được thực hiện kết hợp với một nhà nội tiết học có kinh nghiệm trong điều trị cả CF và bệnh tiểu đường.
+
+Bệnh nhân có triệu chứng
+
+suy tim phải
+
+nên được điều trị bằng thuốc lợi tiểu, hạn chế muối, và Oxygen.
+
+Hormon tăng trưởng tái tổ hợp của con người (rhGH)
+
+có thể cải thiện chức năng phổi, tăng chiều cao và cân nặng và hàm lượng khoáng chất trong xương, giảm tỷ lệ nhập viện. Tuy nhiên, do chi phí tăng thêm và sự bất tiện, rhGH thường không được sử dụng thường xuyên.
+
+Phẫu thuật
+
+có thể được chỉ định cho các trường hợp
+
+giãn phế quản
+
+hoặc
+
+xẹp phổi
+
+cục bộ không thể điều trị hiệu quả bằng thuốc, polyp mũi, viêm mũi xoang mạn tính, chảy máu do giãn tĩnh mạch thực quản thứ phát do tăng áp lực tĩnh mạch cửa, bệnh túi mật và tắc ruột do xoắn ruột hoặc lồng ruột không thể điều trị bằng thuốc.
+
+Ghép gan
+
+đã được thực hiện thành công ở những bệnh nhân mắc bệnh gan giai đoạn cuối.
+
+Thông thường, thảo luận về
+
+cấy ghép phổi
+
+là cần thiết. Khi xem xét việc cấy ghép, bệnh nhân cần phải cân nhắc khả năng sống lâu hơn với cấy ghép, tuy nhiên điều đó không chắc chắn khi cấy ghép và gánh nặng đang diễn ra (nhưng khác) khi sống với ghép tạng. Việc ghép phổi từ người hiến tặng sống và phổi của người hiến tặng sống hai bên đã được thực hiện thành công ở những bệnh nhân mắc bệnh phổi giai đoạn tiến triển. Ghép gan-phổi kết hợp đã được thực hiện cho những bệnh nhân mắc bệnh gan và phổi giai đoạn cuối.
+
+Cấy ghép phổi hai bên cho bệnh phổi nặng đang trở nên thường quy hơn và thành công hơn với kinh nghiệm và kỹ thuật được cải thiện. Trong số những người lớn bị CF, khoảng thời gian sống sau ghép là khoảng 9 năm.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Flume PA, O'Sullivan BP, Robinson KA, et al
+
+. Cystic fibrosis pulmonary guidelines: chronic medications for maintenance of lung health.
+
+Am J Respir Crit Care Med
+
+2007;176(10):957-969. doi:10.1164/rccm.200705-664OC
+
+2.
+
+Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al
+
+. Cystic fibrosis pulmonary guidelines. Chronic medications for maintenance of lung health.
+
+Am J Respir Crit Care Med
+
+2013;187(7):680-689. doi:10.1164/rccm.201207-1160oe
+
+3.
+
+Stahl M, Wielpütz MO, Ricklefs I, et al
+
+. Preventive Inhalation of Hypertonic Saline in Infants with Cystic Fibrosis (PRESIS). A Randomized, Double-Blind, Controlled Study.
+
+Am J Respir Crit Care Med
+
+2019;199(10):1238-1248. doi:10.1164/rccm.201807-1203OC
+
+4.
+
+Heijerman HGM, McKone EF, Downey DG, et al
+
+. Efficacy and safety of the
+
+elexacaftor
+
+plus
+
+tezacaftor
+
+plus
+
+ivacaftor
+
+combination regimen in people with cystic fibrosis homozygous for the F508del mutation: a double-blind, randomised, phase 3 trial [published correction appears in
+
+Lancet
+
+ngày 30 tháng 5 năm 2020;395(10238):1694].
+
+Lancet
+
+2019;394(10212):1940-1948. doi:10.1016/S0140-6736(19)32597-8
+
+5.
+
+Middleton PG, Mall MA, Dřevínek P, et al
+
+.
+
+Elexacaftor
+
+-
+
+Tezacaftor
+
+-
+
+Ivacaftor
+
+for Cystic Fibrosis with a Single Phe508del Allele.
+
+N Engl J Med
+
+2019;381(19):1809-1819. doi:10.1056/NEJMoa1908639
+
+6.
+
+Taylor-Cousar JL, Robinson PD, Shteinberg M, Downey DG
+
+. CFTR modulator therapy: transforming the landscape of clinical care in cystic fibrosis.
+
+Lancet
+
+2023;402(10408):1171-1184. doi:10.1016/S0140-6736(23)01609-4
+
+7.
+
+Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al
+
+. Cystic Fibrosis Foundation pulmonary guideline. pharmacologic approaches to prevention and eradication of initial Pseudomonas aeruginosa infection.
+
+Ann Am Thorac Soc
+
+2014;11(10):1640-1650. doi:10.1513/AnnalsATS.201404-166OC
+
+Tiên lượng về bệnh xơ nang
+
+Quá trình diễn biến phần lớn được xác định bởi mức độ liên quan đến phổi. Suy giảm chức năng phổi theo thời gian, thường được đặc trưng bởi giãn phế quản tiến triển, dẫn đến suy nhược và cuối cùng làm tăng nguy cơ tử vong, thường là do sự kết hợp giữa
+
+suy hô hấp
+
+và
+
+bệnh tâm phế
+
+.
+
+Tiên lượng đã được cải thiện ổn định trong 5 thập kỷ qua, chủ yếu là do chẩn đoán sớm và điều trị tích cực trước khi bắt đầu các thay đổi phổi không hồi phục. Tuổi trung vị khi chết vào năm 2021 là 33,9 tuổi. Tuy nhiên, thời gian sống thêm trung vị được dự đoán ở Hoa Kỳ đối với trẻ sinh vào năm 2021 là 65,6 tuổi. Thời gian sống thêm lâu dài tốt hơn đáng kể ở những bệnh nhân không bị suy tụy (
+
+1
+
+). Kết quả cũng bị ảnh hưởng bởi hồ sơ biến thể
+
+CFTR
+
+, gen biến đổi, vi sinh đường thở, giới tính, nhiệt độ môi trường, tiếp xúc với các chất ô nhiễm không khí (bao gồm cả khói thuốc lá), tuân thủ các liệu pháp điều trị theo quy định và tình trạng kinh tế xã hội. Các
+
+FEV
+
+1, điều chỉnh theo tuổi và giới tính, là yếu tố dự báo tốt nhất cho sự sống còn. Nếu kết quả sức khỏe nhờ liệu pháp điều biến CFTR được duy trì, tuổi thọ có thể còn tăng hơn nữa.
+
+Chăm sóc cuối đời
+
+Bệnh nhân và gia đình họ xứng đáng được thảo luận nhạy cảm về tiên lượng và lựa chọn chăm sóc trong suốt quá trình bệnh, đặc biệt nếu chức năng phổi suy giảm dần dần.
+
+Một dấu hiệu của sự tôn trọng đối với bệnh nhân sống với bệnh CF là đảm bảo rằng họ được cung cấp thông tin và cơ hội để lựa chọn cuộc sống, bao gồm cả việc có một quyết định đáng kể trong việc xác định cách thức và khi nào cần chấp nhận cái chết.
+
+Khi thích hợp, cần cung cấp dịch vụ
+
+chăm sóc giảm nhẹ
+
+, bao gồm cả việc xử trí triệu chứng đầy đủ, để đảm bảo chăm sóc cuối đời một cách yên bình. Một chiến lược hữu ích mà bệnh nhân nên cân nhắc là chấp nhận thử nghiệm điều trị tích cực hoàn toàn có giới hạn thời gian khi cần thiết, nhưng phải đồng ý trước các thông số cho biết khi nào nên dừng các biện pháp tích cực (xem
+
+Do-Not-Resuscitate (DNR) Orders and Portable Medical Orders
+
+).
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Cystic Fibrosis Foundation Patient Registry
+
+2021 Annual Data Report Bethesda, Maryland 2022 Cystic Fibrosis Foundation. Truy cập ngày 20 tháng 10 năm 2023.
+
+Những điểm chính
+
+Xơ nang là do mang 2 biến thể của gen cho một protein được gọi là điều chỉnh dẫn truyền qua màng xơ nang (CFTR), giúp điều hòa vận chuyển chloride, natri, và bicacbonat qua các màng biểu mô.
+
+Các biến chứng chính liên quan đến phổi, gây tổn thương đường hô hấp nhỏ và lớn, viêm mạn tính và nhiễm trùng mạn tính và tái phát do vi khuẩn, đặc biệt là do
+
+Pseudomonas aeruginosa
+
+.
+
+Những hậu quả nghiêm trọng khác bao gồm suy tuyến tụy, dẫn đến kém hấp thu các chất dinh dưỡng và vitamin, dẫn đến suy giảm sự tăng trưởng và phát triển, và ở những bệnh nhân cao tuổi là nguy cơ mắc bệnh tiểu đường.
+
+Các biện pháp làm sạch đường thở (ví dụ: dẫn lưu tư thế, gõ, vỗ rung, hỗ trợ ho), tiêu chất nhầy và bù nước cho đường thở thường được bắt đầu ở trẻ nhỏ; tập thể dục nhịp điệu thường xuyên được khuyến nghị.
+
+Các loại thuốc điều chỉnh hoặc tăng cường CFTR (bộ điều biến CFTR) có thể cải thiện kết quả sức khỏe cho những bệnh nhân có một số biến thể CFTR nhất định.
+
+Thuốc kháng sinh được dùng sớm trong bất kỳ đợt cấp nào của phổi; lựa chọn thuốc có thể dựa trên xét nghiệm nuôi cấy và xét nghiệm độ nhạy.
+
+Chế độ ăn nên bổ sung enzyme tụy, vitamin liều cao và 30 đến 50% lượng calo chủ yếu lấy từ chất béo.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Quỹ Xơ nang:
+
+Hướng dẫn chăm sóc cụ thể theo độ tuổi đối với bệnh xơ nang
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của bệnh xơ nang ---
+
+Khoảng 3% dân số Da trắng mangđặc điểm gen lặn nhiễm sắc thể thường. Gen mã hóa bệnh nằm trên cánh dài của nhiễm sắc thể số 7. Nó mã hóa một protein liên kết màng gọi là điều hòa dẫn truyền qua màng xơ nang (CFTR). Biến thể gen phổ biến nhất là F508del, xảy ra ở khoảng 85% các allele CF;>2000 các biến thể CFTR ít phổ biến hơn đã được xác định.CFTR là kênh clorua được điều hòa bởiadenosinemonophosphate (cAMP), điều hòa vận chuyển clorua, natri và bicarbonate qua màng biểu mô. Một số chức năng bổ sung được xem xét. Bệnh chỉ biểu hiện ở những người đồng hợp tử. Những người dị hợp tử có thể biểu hiện những bất thường khó thấy trong quá trình vận chuyển chất điện giải ở biểu mô nhưng không bị ảnh hưởng về mặt lâm sàng.Các biến thểCFTRđã được chia thành 6 loại dựa trên mức độ ảnh hưởng của biến thể đó đến chức năng hoặc quá trình xử lý protein CFTR. Bệnh nhân có các biến thể I, II hoặc III được xem là có kiểu gen nặng hơn dẫn đến chức năng CFTR rất ít hoặc không có trong khi bệnh nhân có 1 hoặc 2 biến thể IV hoặc V được xem là có kiểu gen nhẹ hơn dẫn đến chức năng CFTR còn lại. Tuy nhiên, không có mối liên quan chặt chẽ giữa các biến thể đặc hiệu và biểu hiện bệnh cụ thể, vì vậy việc kiểm tra lâm sàng (ví dụ chức năng của cơ quan) thay vì kiểu gen là hướng dẫn tốt hơn để tiên lượng. Các biến thểCFTRcó thể liên quan đến dịch chuyển khung (xóa hoặc chèn vào trình tự DNA làm thay đổi cách đọc trình tự) hoặc đột biến vô nghĩa (dừng).Xơ nang: Vận chuyển clo khiếm khuyếtMô hình 3D
+
+--- 2. Sinh lý bệnh của bệnh xơ nang ---
+
+Gần như tất cả các tuyến ngoại tiết đều bị ảnh hưởng bởi sự phân bố và mức độ nghiêm trọng khác nhau. Các tuyến có thểBị tắc nghẽn bởi chất nhầy nhớt trong lòng (tuyến tụy, tuyến ở ruột non, ống mật trong gan, túi mật và tuyến dưới hàm)Xuất hiện bất thường về mặt mô học và sản xuất ra các chất bài tiết quá mức (khí phế quản và tuyến Brunner)Xuất hiện trên mô học bình thường nhưng tiết ra natri và clorua quá nhiều (tuyến mồ hôi, tuyến mang tai, và tuyến nước bọt nhỏ)Hô hấpMặc dù phổi nhìn chung có mô học bình thường khi sinh nhưng hầu hết bệnh nhân đều phát triển các dấu hiệu của bệnh phổi bắt đầu từ thời thơ ấu hoặc thời thơ ấu. Nhiễm trùng niêm mạc và nhiễm khuẩn mạn tính, đi kèm với đáp ứng viêm rõ rệt, làm tổn thương đường hô hấp, dẫn đếnchứng giãn phế quảnvà suy hô hấp. Quá trình diễn biến được đặc trưng bởi đợt cấp bùng phát kèm theo nhiễm trùng và sự suy giảm dần chức năng phổi.Gây tổn thương phổi có thể bắt đầu bằng sự tắc nghẽn lan tỏa ở đường thở nhỏ do tiết dịch nhầy dầy bất thường.Viêm tiểu phế quảnvà sự tắc nghẽn của các đường thở do đờm dẫn đến tắc nghẽn và nhiễm trùng thứ phát. Viêm mãn tính thứ phát do giải phóng protease và các cytokine tiền viêm bởi các tế bào trong đường thở cũng góp phần gây tổn thương phổi. Thay đổi đường thở phổ biến hơn so với thay đổi nhu mô, và khí phế thũng không nổi bật. Khoảng 50% bệnh nhân có phản ứng quá mức của phế quản đáp ứng với thuốc giãn phế quản.Ở những bệnh nhân mắc bệnh phổi tiên phát, tình trạng thiếu oxy máu mạn tính dẫn đến sự phì đại cơ của động mạch phổi,tăng áp phổi, và phì đại thất phải.Phổi của hầu hết các bệnh nhân bị xâm chiếm bởi vi khuẩn. Gia đoạn sớm,Staphylococcus aureuslà mầm bệnh phổ biến nhất, nhưng khi bệnh tiến triển,Pseudomonas aeruginosabao gồm các chủng đa kháng thuốc, thường được phân lập. khuẩn lạc nhầy củaP. aeruginosaliên quan duy nhất với CF và có tiên lượng xấu hơn khuẩn không tiết nhầy củaP. aeruginosa.Tại Hoa Kỳ, tỷ lệ nhiễmS. aureuskháng methicillin (MRSA) trong đường hô hấp hiện nay là khoảng 25%; những bệnh nhân bị nhiễm MRSA mạn tính có chức năng phổi suy giảm nhanh hơn và tỷ lệ sống sót thấp hơn những người không mắc bệnh.Sự cư trú của phức hợpBurkholderia cepaciaxảy ra ở khoảng 2% đến 3% số bệnh nhân và có thể liên quan đến tình trạng suy phổi nhanh hơn.Vi khuẩn không điển hình, bao gồm phức hợpMycobacterium aviumvàM. abscessus, là các mầm bệnh đường hô hấp tiềm ẩn. Tỷ lệ hiện hành khoảng 14% và thay đổi theo độ tuổi và vị trí địa lý. Sự phân biệt nhiễm trùng từ việc định khu có thể là một thách thức.Các mầm bệnh đường hô hấp thông thường khác bao gồm:Stenotrophomonas maltophilia,Achromobacter xylosoxidans, vàAspergillussp.Vi khuẩn kỵ khívàvi rút đường hô hấpthông thường thường có trong đường hô hấp của bệnh nhân CF, nhưng vai trò của chúng đối với sự tiến triển của bệnh vẫn chưa được xác định rõ ràng.Đường tiêu hóaTụy, ruột, và hệ thống gan mật thường bị ảnh hưởng. Chức năng tụy ngoại tiết bị tổn thương ở 85 đến 95% bệnh nhân. Một ngoại lệ là một tập hợp con bệnh nhân có các biến thể CFTR nhất định có chức năng còn sót lại, trong đó chức năng tuyến tụy được bảo tồn. Bệnh nhân bị suy tụy không hấp thu chất béo,vitamin tan trong chất béo và protein. Dịch tá tràng là bất thường và cho thấy sự vắng mặt hoặc giảm hoạt tính của enzym và giảm nồng độ bicarbonate ; trypsin và chymotrypsin không có hoặc giảm trong phân. Rối loạn chức năng tụy nội tiết ít phổ biến, nhưng xuất hiện sự giảm dung nạp glucose hoặc tiểu đường vào khoảng 2% trẻ em, 20% thanh thiếu niên và lên đến 50% người lớn.Ống mật có liên quan mật thiết với tình trạng ứ mật và tắc mật dẫn đếnxơ gankhông triệu chứng ở 30% bệnh nhân. Khoảng 3 đến 4% số bệnh nhân tiến triển đến xơ gan mật không hồi phục vớităng áp lực tĩnh mạch cửa, thường ở trẻ 12 tuổi. Suy tế bào gan thường hiếm và xuất hiện muộn. Suy tế bào gan thường hiếm và xuất hiện muộn Có một tỷ lệ gia tăngbệnh sỏi mật, mà thường không có triệu chứng.Sự bất thường lưu thông ruột có thể gây ratắc ruột phân xuở trẻ sơ sinh và đôi khitắc phâncủa đại tràng. Trẻ lớn hơn và người lớn cũng có thể bị táo bón không liên tục hoặc mãn tính vàtắc ruột.Các vấn đề về đường tiêu hóa (GI) khác bao gồmlồng ruột, xoắn ruột,sa trực tràng, áp xe quanh ruột thừa,viêm tụy, tăng nguy cơ bịung thư đường gan mậtvà ung thư đường tiêu hóa (bao gồm cảtuyến tụy),trào ngược dạ dày thực quản, viêm thực quản và tỷ lệ hiện mắc củabệnh Crohnvàbệnh celiactăng lên.KhácVô sinh xảy ra ở 98% nam giới trưởng thành thứ phát do sự phát triển bất thường của ống dẫn tinh hoặc các hình thức khác của tắc nghẽn tinh dịch. Ở phụ nữ, khả năng sinh sản có phần giảm sút phụ thuộc vào sự tiết dịch cổ tử cung, mặc dù nhiều phụ nữ có thể mang thai. Kết quả quá trình mang thai cho cả mẹ và trẻ sơ sinh có liên quan đến sức khoẻ của người mẹ.Các biến chứng khác bao gồmviêm mũi xoang mạn tính, thiếu xương/loãng xương,trầm cảmvà lo lắng, đau mạn tính,ngưng thở khi ngủ do tắc nghẽn, các rối loạn giấc ngủ khác,sỏi thận,bệnh thận mạn tínhphụ thuộc vào lọc máu (có thể liên quan đến phương pháp điều trị cũng như CF),thiếu máu do thiếu sắt,nghe kém tiếp nhậnvàù taido phơi nhiễm vớicác thuốc gây độc tai(đặc biệt là aminoglycoside) và đau khớp/viêm khớp từng đợt.
+
+--- 3. Các triệu chứng và dấu hiệu của bệnh xơ nang ---
+
+Hô hấp50% bệnh nhân không được chẩn đoán thông qua sàng lọc trẻ sơ sinh có bất thường phổi, thường bắt đầu từ khi mới sinh. Nhiễm trùng tái phát hoặc mạn tính biểu hiện bởi ho, khạc đờm, và thở khò khè là phổ biến. Ho là triệu chứng mạn tính phổ biến nhất, thường kèm theo đờm, nôn mửa và rối loạn giấc ngủ. Sự co kéo cơ liên sườn, sử dụng các cơ hô hấp phụ, biến dạng lồng ngực, móng tay dùi trống, tím và giảm khả năng hoạt động thể lực xảy ra khi bệnh tiến triển. Có sự liên quan đến đường hô hấp trên bao gồm polposis mũi và viêm mũi xoang mãn tính hoặc tái phát.Các biến chứng tại phổi bao gồmtràn khí màng phổi,vi khuẩn không điển hình,ho máu,loạn sản phế quản phổi dị ứng do nấm aspergillous, và suy tim phải thứ phát dotăng áp phổi.Đường tiêu hóaTắc ruột do phân sudo tắc hồi tràng bởi phân su nhớt có thể là dấu hiệu sớm nhất và hiện diện ở khoảng 10% đến 20% số trẻ sơ sinh bị ảnh hưởng CF. Nó thường biểu hiện với chướng bụng, nôn và không đi ngoài phân xu. Một số trẻ sơ sinh có thủng ruột, có dấu hiệu viêm phúc mạc và sốc. Trẻ sơ sinh mắchội chứng nút phân sucó khả năng thải phân su chậm. Chúng có thể có dấu hiệu tương tự tắc nghẽn hoặc các triệu chứng rất nhẹ và thoáng qua không nhận thấy. Những bệnh nhân lớn hơn có thể bị chứng táo bón hoặc các giai đoạn tái đi tái lại và đôi khi mạn tính của tắc nghẽn ruột non hoặc ruột già một phần hoặc toàn bộ (hội chứng tắc nghẽn đường ruột xa). Các triệu chứng bao gồm đau bụng âm ỉ, thay đổi khuôn phân, giảm ngon miệng, và đôi khi nôn.Ở trẻ sơ sinh không có tắc ruột phân su, khởi phát bệnh có thể được báo trước bởi sự chậm trong việc lấy lại cân nặng khi sinh và tăng cân không thích hợp ở 4 đến 6 tuần tuổi.Thỉnh thoảng, trẻ sơ sinh bị thiếu dinh dưỡng, đặc biệt nếu dùng sữa công thức chống dị ứng hoặc sữa đậu nành, thường có hiện tượng phù thứ phát do kém hấp thu protein.Suy tụy thường có biểu hiện lâm sàng rõ ràng trong giai đoạn sớm của cuộc đời và có thể tiến triển. Các biểu hiện bao gồm sự xuất hiện phân mùi hôi, phân mỡ; cảm ứng phúc mạc và tăng trưởng kém với giảm mô dưới da và khối cơ mặc dù thèm ăn bình thường hoặc tăng. Biểu hiện lâm sàng có thể xảy ra thứ phát do thiếu vitamin tan trong dầu.Sa trực tràng có thể xảy ra ở trẻ sơ sinh và trẻ nhỏ không được điều trị. Trào ngược dạ dày thực quản là khá phổ biến ở trẻ em và người lớn.KhácĐổ mồ hôi quá nhiều trong thời tiết nóng hoặc sốt có thể dẫn đến tình trạng mất nước giảm natri máu/giảm clo máu và suy tuần hoàn. Trong thời tiết khô hanh, trẻ sơ sinh có thể bịkiềm hóa chuyển hóa mạn tính. Sự hình thành tinh thể muối và mùi vị mặn trên da gợi ý rất cao về CF.Thanh thiếu niên có thể bị chậm phát triển thể chất và chậm phát triển dậy thì.
+
+--- 4. Chẩn đoán bệnh xơ nang ---
+
+Sàng lọc trẻ sơ sinhCũng có thể được gợi ý bằng một kết quả kiểm tra sàng lọc trước khi sinh, tiền sử gia đình, hoặc xuất hiện triệu chứngkhẳng định bằng test mồ hôi cho thấy lượng clo trong mồ hôi tăng lên 2 lầnXác định 2 biến thể gây CF (1 trên mỗi nhiễm sắc thể) phù hợp với chẩn đoánRất hiếm khi được khẳng định, trong các trường hợp không điển hình, bằng cách thể hiện vận chuyển ion bất thường trên biểu mô mũi hoặc hiện tại đo đường bất thường qua ruộtHầu hết các trường hợp CF được xác định đầu tiên bằng cách sàng lọc sơ sinh, nhưng có đến 10% không được chẩn đoán cho đến tuổi vị thành niên hoặc giai đoạn đầu trưởng thành. Mặc dù có những tiến bộ trong xét nghiệm di truyền, xét nghiệm Clo trong mồ hôi vẫn là tiêu chuẩn để xác định chẩn đoán CF trong hầu hết các trường hợp do tính nhạy cảm và độ đặc hiệu, sự đơn giản và tính khả dụng.Sàng lọc trẻ sơ sinhSàng lọc CF sơ sinh toàn cầu hiện đã trở thành tiêu chuẩn ở Hoa Kỳ. Sàng lọc dựa trên việc phát hiện một nồng độ cao của trypsinogen miễn dịch (IRT) trong máu.Có 2 phương pháp theo dõi mức IRT tăng cao. Trong một phương pháp, IRT thứ phát được thực hiện, kết quả tăng lên, sau đó là test mồ hôi. Trong phương pháp khác, được sử dụng phổ biến hơn, mức IRT tăng cao sẽ được thực hiện bằng xét nghiệm đột biếnCFTRvà nếu xác định được 1 biến thể hoặc 2 biến thể thì xét nghiệm mồ hôi sẽ được thực hiện. Để chẩn đoán, cả hai phương pháp đều có độ nhạy từ 90 đến 95%.Test mồ hôiTrong test này, mồ hôi tại chỗ được kích thích với pilocarpine, lượng mồ hôi được đo, và nồng độ clo được xác định. Mặc dù nồng độ Clo mồ hôi tăng nhẹ theo độ tuổi, test mồ hôi có giá trị ở mọi lứa tuổi.Bình thường:≤30 mEq/L (≤30 mmol/L) (CF là không có.)Trung bình: 30 đến 59 mEq/L (30 đến 59 mmol/L) (CF là có thể.)Bất thường:≥60 mEq/L (≥60 mmol/L) (Kết quả này phù hợp với CF.)Kết quả có giá trị sau 48 giờ, nhưng một mẫu mồ hôi đầy đủ (>75 mg trên giấy lọc hoặc>15 mcL trong ống cấy) có thể khó đạt được trước 2 tuần tuổi. Kết quả âm tính giả rất hiếm nhưng có thể xảy ra khi có phù và giảm protein máu hoặc không đủ lượng số lượng mồ hôi. Kết quả dương tính giả thường là do lỗi kỹ thuật. Nồng độ muối clorua trong mồ hôi thoáng qua có thể là kết quả của việc suy sụp tâm thần (như lạm dụng trẻ em, bỏ mặc) và có thể xảy ra ở những bệnh nhân bị chán ăn tâm thần. Kết quả xét nghiệm mồ hôi dương tính phải được xác nhận bằng xét nghiệm mồ hôi thứ hai hoặc bằng cách xác định 2 biến thể gây ra CF.Kết quả kiểm tra mồ hôi trung bìnhMột tập hợp nhỏ các bệnh nhân có kiểu hình CF nhẹ hoặc một phần và giá trị Chloride trong mồ hôi là hằng định ở mức trung bình hoặc thậm chí bình thường. Ngoài ra, có những bệnh nhân có các biểu hiện đơn cơ quan như viêm tụy mạn tính hoặc tái phát, giãn phế quản đơn độc hoặc không có ống dẫn tinh hai bên bẩm sinh cùng với các phát hiện gợi ý chức năng CFTR bất thường. Họ không đáp ứng các tiêu chuẩn chẩn đoán CF và được phân loại là có rối loạn liên quan đến CFTR. Ở một số bệnh nhân, chẩn đoán CF có thể được khẳng định bằng cách xác định 2 biến thể gây CF, 1 trên mỗi nhiễm sắc thể. Nếu không xác định được 2 biến thể gây ra CF, các đánh giá phụ trợ như kiểm tra chức năng tụy và chụp tụy, CT ngực có độ phân giải cao, CT xoang, xét nghiệm chức năng phổi, đánh giá hệ tiết niệu sinh dục nam giới và dịch rửa phế quản bao gồm đánh giá hệ vi khuẩn có thể hữu ích.Các xét nghiệm chẩn đoán hữu ích bổ sung bao gồm phân tích di truyềnCFTRmở rộng và đo lường sự khác biệt tiềm năng qua biểu mô mũi (dựa trên quan sát sự tái hấp thu natri tăng qua biểu mô tương đối không thấm clorua ở bệnh nhân mắc CF) và đo dòng điện trong ruột.Hội chứng chuyển hóa liên quan đến CFTR và sàng lọc CF dương tính, chẩn đoán không kết luậnTrẻ sơ sinh có kết quả xét nghiệm sàng lọc dương tính và bằng chứng về rối loạn CFTR có thể xảy ra nhưng không đủ các tiêu chuẩn chẩn đoán cho CF gọi là hội chứng chuyển hóa liên quan đến CFTR (CRMS). Để được chẩn đoán, trẻ sơ sinh không có triệu chứng và cóhoặcnhững biểu hiện sau đây:Nồng độ Clo trong mồ hôi ở mức trung bình ít nhất 0 lần riêng biệt và 1 biến thể gây CFNồng độ clorua mồ hôi ở mức bình thường và 2 biến thểCFTR, ít nhất 1 trong số đó có hậu quả kiểu hình không rõ ràngHầu hết trẻ em bị CRMS/CFSPID vẫn khỏe mạnh, nhưng theo thời gian khoảng 10% sẽ phát triển các triệu chứng và đáp ứng các tiêu chuẩn chẩn đoán CF hoặc rối loạn liên quan đến CF. Bệnh nhân mắc CRMS/CFSPID nên được đánh giá và theo dõi thường xuyên tại trung tâm chăm sóc CF.Kiểm tra tụyChức năng tụy cần được đánh giá vào thời điểm chẩn đoán, thường là bằng cách đo nồng độ elastase tụy trong phân. Phép đo elastase tuyến tụy ở người có giá trị ngay cả khi có sự hiện diện của các enzyme tuyến tụy ngoại sinh. Thử nghiệm thứ hai này có giá trị ngay cả với sự có mặt của các enzym tụy ngoại tiết Trẻ sơ sinh mà có chức năng tụy bình thường và có 2 biến thể "nặng" cần đo lường liên tiếp để phát hiện sự tiến triển đến suy tụy.Đánh giá hô hấpChụp hình ảnh lồng ngực nên được thực hiện vào thời điểm suy thở hoặc đợt cấp tiến hành thường quy mỗi 1 đến 2 năm. CT ngực có độ phân giải cao có thể giúp xác định chính xác mức độ tổn thương phổi và để phát hiện các bất thường về nhỏ về đường thở. Chụp X-quang ngực và CT có thể cho thấy tăng thông khí và dày thành phế quản như là những phát hiện sớm nhất. Những thay đổi sau đó bao gồm các khu vực thâm nhiễm, xẹp phổi và hạch rốn phổi. Với bệnh tiến triển, xẹp phổi từng đoạn hoặc thùy, hình thành nang,giãn phế quản, phì đại động mạch phổi và thất phải xảy ra. Sự phân nhánh, điểm mờ giống ngón tay tượng trưng cho ảnh hưởng của chất nhày làm giãn phế quản là đặc trưng của bệnh.CT xoang được chỉ định ở những bệnh nhân có triệu chứng xoang hoặc polip mũi đang được xem xét phẫu thuật nội soi xoang. Kết quả hầu như luôn hiển thị sự mờ dai dẳng các xoang sàng.Các kiểm tra chẩn đoán hình ảnh ngực cho bệnh xơ nangXơ nang (X-quang ngực)Phim X-quang phổi này cho thấy xẹp thùy dưới bên phải. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.Được sự cho phép của nhà xuất bản. Từ Berman L:Atlas of Anesthesia: Critical Care. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.Xơ nang (phim X-quang ngực)Phim chụp X-quang phổi của một người đàn ông bị xơ nang cho thấy tăng các vệt phổi lên phù hợp với chứng giãn phế quản.PHOTOSTOCK-ISRAEL/THƯ VIỆN HÌNH ẢNH KHOA HỌCXơ nang (chụp CT)Phim chụp CT này cho thấy các phế quản bị giãn ra rất nhiều ở toàn bộ phổi. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.... đọc thêmĐược sự cho phép của nhà xuất bản. Từ Berman L:Atlas of Anesthesia: Critical Care. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.Xơ nang (X-quang ngực)Phim X-quang phổi này cho thấy xẹp thùy dưới bên phải. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.Được sự cho phép của nhà xuất bản. Từ Berman L:Atlas of Anesthesia: Critical Care. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.Xơ nang (phim X-quang ngực)Phim chụp X-quang phổi của một người đàn ông bị xơ nang cho thấy tăng các vệt phổi lên phù hợp với chứng giãn phế quản.PHOTOSTOCK-ISRAEL/THƯ VIỆN HÌNH ẢNH KHOA HỌCXơ nang (chụp CT)Phim chụp CT này cho thấy các phế quản bị giãn ra rất nhiều ở toàn bộ phổi. Các dấu hiệu là điển hình cho CF nhưng không đặc hiệu.... đọc thêmĐược sự cho phép của nhà xuất bản. Từ Berman L:Atlas of Anesthesia: Critical Care. Biên tập bởi R Miller (biên tập loạt bài) và JG Reeves. Philadelphia, Current Medicine, 1997.Kiểm tra chức năng phổilà chỉ số tốt nhất về tình trạng lâm sàng và đáp ứng với điều trị. Ở những bệnh nhân trên 5 tuổi, đo phế dung nên được thực hiện thường quy và vào những thời điểm lâm sàng suy giảm. Ở trẻ sơ sinh, tình trạng hô hấp có thể được theo dõi bằng cách sử dụng kỹ thuật ép ngực bụng nhanh thể tích tăng lên, tạo ra đường cong thể tích lưu lượng một phần. Ở trẻ em từ 3 đến 6 tuổi, quy trình rửa nhiều hơi có thể được sử dụng để tạo chỉ số thanh thải phổi như một thước đo về tính không đồng nhất về thông khí (1).Các kiểm tra chức năng phổi được thực hiện bằng phương pháp đo phế dung cho thấyGiảm dung tích sống gắng sức (FVC), thể tích thở ra gắng sức trong giây đầu tiên (FEV1), lưu lượng thở ra khoảng giữa 25% và 75% gắng sức (FEF25-75), và tỷ số FEV1/FVCSự gia tăng thể tích khí cặn và tỷ số thể tích căn/dung tích phổi toàn phần50 phần trăm bệnh nhân có dấu hiệu tắc nghẽn đường hô hấp có hồi phục được thể hiện bằng cải thiện chức năng phổi sau khi dùng thuốc giãn phế quản dạng hít.Các xét nghiệm sàng lọc bằng cấy dịch tỵ hầu hoặc cấy đờm phải được thực hiện ít nhất 4 lần/năm, đặc biệt ở những bệnh nhân chưa có khu trú vớiP. aeruginosa.Nội soi phế quản/rửa phế quản phế nangđược chỉ định khi cần xác định chính xác hệ vi khuẩn đường hô hấp dưới của bệnh nhân (ví dụ: để chỉ đạo lựa chọn kháng sinh) hoặc để loại bỏ các nút nhầy tiết ra.Xét nghiệm người mangSàng lọc người mang mầm bệnh CF hiện có ở Hoa Kỳ và được khuyến nghị cho các cặp vợ chồng đang có kế hoạch mang thai hoặc đang tìm kiếm dịch vụ chăm sóc trước khi sinh. Nếu cả cha và mẹ tiềm năng đều mang biến thểCFTR, việc sàng lọc trước khi sinh cho thai nhi có thể được thực hiện bằng cách lấy mẫu lông nhung màng đệm hoặc chọc ối. Tư vấn trước khi sinh trong những trường hợp như vậy rất phức tạp do sự biến đổi lớn về kiểu hình của CF và thông tin không đầy đủ về hậu quả lâm sàng của nhiều biến thểCFTRđược xác định thông qua sàng lọc.
+
+--- 5. Điều trị bệnh xơ nang ---
+
+Hỗ trợ toàn diện, đa ncơ quanThuốc kháng sinh, thuốc hít để làm loãng dịch tiết đường thở và các thao tác vật lý để làm sạch dịch tiết đường thởHít thuốc giãn phế quản và đôi khi là corticosteroid cho người đáp ứngThường bổ sung men tụy và vitaminChế độ ăn giàu chất béo (đôi khi cần bổ sung thức ăn bằng đường ăn sonde)Ở những bệnh nhân có biến thể đặc hiệu, một CFTR khả năng hoặc sự kết hợp của một CFTR cân bằng và khả năngLiệu pháp toàn diện và tích cực cần được hướng dẫn bởi một bác sĩ có kinh nghiệm làm việc với một nhóm đa khoa bao gồm các bác sĩ, y tá, chuyên gia về chế độ ăn uống, vật lý trị liệu và hô hấp, chuyên gia sức khỏe tâm thần, dược sĩ và nhân viên xã hội. Mục tiêu của điều trị là duy trì tình trạng dinh dưỡng bình thường, phòng ngừa hoặc điều trị tích cực các biến chứng về phổi và các biến chứng khác, khuyến khích hoạt động thể chất và cung cấp hỗ trợ tâm lý xã hội. Phác đồ điều trị rất phức tạp và có thể mất đến 2 giờ mỗi ngày. Với sự hỗ trợ thích hợp, hầu hết bệnh nhân đều có thể điều chỉnh được độ tuổi thích hợp ở nhà và trường học.(Xem thêmhướng dẫn điều trị toàn diện cho tất cả các nhóm tuổicủa Quỹ Xơ nang.)Điều trị các biểu hiện về hô hấpĐiều trị các biểu hiện ở phổi tập trung vào việc ngăn ngừa tắc nghẽn đường thở, phòng ngừa và kiểm soát nhiễm trùng phổi. Dự phòng nhiễm trùng phổi bao gồm duy trì miễn dịchho gà,Haemophilus influenzae,varicella,Streptococcus pneumoniaevàsởi;tiêm phòng cúm hàng năm; vàtiêm vawcsx xin phòng COVID-19theo các khuyến nghị hiện hànhcủa Ủy ban Tư vấn về Thực hành Tiêm chủng (ACIP). Ở những bệnh nhân tiếp xúc với cúm, chất ức chế neuraminidase có thể được sử dụng dự phòng hoặc khi có dấu hiệu nhiễm trùng đầu tiên. Cung cấp nirsevimab, hoặc khi không có sẵn, palivizumab, cho trẻ sơ sinh mắc CF đểngăn ngừa nhiễm vi rút hợp bào hô hấpđã được chứng minh là an toàn, nhưng hiệu quả chưa được ghi nhận.Khuyến nghị điều trị bằng đường hít hàng ngày dài hạn bằng dornase alfa (deoxyribonuclease tái tổ hợp ở người) hoặc với dung dịch muối sinh lý ưu trương 7% (1, 2) và đã được chứng minh là làm chậm tốc độ suy giảm chức năng phổi và giảm tần suất các đợt cấp của đường hô hấp (3).Các biện pháp thôngthoáng đường thở bao gồm dẫn lưu tư thế, vỗ rung, và hỗ trợ ho (vật lý trị liệu ngực) được khuyến cáo tại thời điểm chẩn đoán và nên được thực hiện thường xuyên. Ở những bệnh nhân lớn tuổi, các biện pháp thông khí thay thế khác như chu kỳ thở chủ động, dẫn lưu tự động, các thiết bị thở ra áp suất dương, và liệu pháp áo vest (dao động ngực cao tần) có thể có hiệu quả. Thường xuyên tập thể dục aerobic; nó cũng có thể giúp đường thở thông thoáng. Đối với bệnh nhân ngưng thở tắc nghẽn khi ngủáp lực dương liên tụccó thể có lợi.Đối với bệnh nhân bị tắc nghẽn đường dẫn khí có hồi phục, thuốc giãn phế quản có thể được sử dụng đường hít. Corticosteroid bằng hít thường không có hiệu quả. O2 liệu pháp được chỉ định cho bệnh nhân suy hô hấp nặng và thiếu máu cục bộ.Thông khí cơ học hoặc oxy hóa màng ngoài cơ thể (ECMO) thường không được chỉ định chosuy hô hấpmạn tính. Việc sử dụng chúng thường bị hạn chế ở những bệnh nhân có tình trạng cơ bản tốt, trong đó các biến chứng hô hấp cấp tính có thể hồi phục phát triển, liên quan đến phẫu thuật phổi, hoặc cho những bệnh nhân sắp được ghép phổi.Thông khí áp lực dương không xâm lấnqua mũi hoặc mặt nạ cũng có thể có lợi.Thuốc long đờm đôi khi được sử dụng, nhưng ít dữ liệu hỗ trợ hiệu quả của chúng. Thuốc giảm ho không được khuyến khích.Tràn khí màng phổi có thể được điều trịdẫn lưu màng phổi. Phẫu thuật mở lồng ngực hoặc nội soi lồng ngực kèm theo cắt bỏ các khối khí màng phổi và mài mòn cơ học bề mặt màng phổi có hiệu quả trong điều trịtràn khí màng phổitái phát.Ho ra máu nhẹđến trung bình được điều trị bằng kháng sinh (uống/khí dung hoặc tiêm tĩnh mạch tùy thuộc vào mức độ nặng của ho ra máu và mức độ nặng của nhiễm trùng) và làm khai thông đường thở. Ho ra máu ồ ạt hoặc tái phát được điều trị bằng cách thuyên tắc động mạch phế quản hoặc hiếm khi bằng cách cắt bỏ phổi khu trú.Corticosteroid đường uống được chỉ định ở trẻ sơ sinh bịviêm tiểu phế quảnkéo dài và ở những bệnh nhân bị co thắt phế quản dai dẳng,bệnh do aspergillus phế quản phổi dị ứng(ABPA) và các biến chứng viêm (ví dụ: viêm khớp,viêm mạch). Sử dụng lâu dài liệu pháp corticosteroid cách nhật có thể làm chậm sự suy giảm chức năng phổi, nhưng do các biến chứng liên quan đến corticosteroid, nên không nên sử dụng thường xuyên. Bệnh nhân dùng corticosteroid phải được theo dõi chặt chẽ để có bằng chứng về bệnh tiểu đường và chậm phát triển.Bệnh do aspergillus phế quản phổi dị ứng cũng được điều trị bằng corticosteroid đường toàn thân và thuốc chống nấm đường uống.Ibuprofen, khi dùng trong nhiều năm với liều đủ để đạt được nồng độ đỉnh trong máu từ 50 đến 100 mcg/mL (242,4 và 484,8 micromol/L), cho thấy làm chậm lại tốc độ suy giảm chức năng phổi, đặc biệt ở trẻ em từ 5 đến 13 tuổi. Liều thích hợp phải được cá nhân hoá dựa trên nghiên cứu dược động học.Viêm mũi-xoang mạn tính rất phổ biến. Các lựa chọn điều trị bao gồm rửa mũi bằng nước muối sinh lý, rửa mũi đẳng trương áp suất thấp, tạo khí dung dornase alfa trong mũi và kháng sinh tại chỗ qua đường xoang-mũi. Phẫu thuật xoang có thể hữu ích trong những trường hợp khó xử trí bằng thuốc. Thuốc xịt corticosteroid trong mũi được khuyến khích để điều trị viêm mũi dị ứng.CFTR điều biếnThuốc điều chỉnh và tăng cường CFTR được chỉ định cho khoảng 90% số các biến thể mà bệnh nhân mắc CF mang. Thuốc điều biến CFTR không có sẵn cho bệnh nhân với các đột biến xê dịch khung loại I và các đột biến vô nghĩa.Ivacaftor là một loại thuốc uống phân tử nhỏ được dùng lâu dài có tác dụng tăng cường kênh ion CFTR ở những bệnh nhân có các biến thểCFTRcụ thể. Thuốc có thể được sử dụng ở những bệnh nhân từ 1 tháng tuổi trở lên mang ít nhất 1 bản sao của một biến thể cụ thể được tăng cường bởiivacaftor.Lumacaftor, tezacaftor và elexacaftor là các loại thuốc uống phân tử nhỏ giúp điều chỉnh một phần protein CFTR bị lỗi bằng cách thay đổi quá trình lệch tâm protein ở những bệnh nhân mang biến thể F508del hoặc các biến thể được chỉ định khác.Có thể sử dụng phối hợp giữa lumacaftor vàivacaftorcho bệnh nhân từ 1 tuổi trở lên mang 2 bản sao của biến thể F508del.Có thể sử dụng phối kết hợp giữa tezacaftor vàivacaftorcho bệnh nhân từ 6 tuổi trở lên mang 2 bản sao của biến thể F508del hoặc các biến thể được chỉ định khác.Có thể sử dụng phối hợp ba loại elexacaftor, tezacaftor vàivacaftorcho bệnh nhân từ 2 tuổi trở lên mang ít nhất 1 bản sao của biến thể F508del hoặc 1 bản sao của một số biến thể hiếm gặp (4, 5).Những loại thuốc này có thể cải thiện chức năng phổi, tăng cân, cải thiện chức năng tuyến tụy ngoại tiết, giảm tần suất các đợt cấp và nhập viện ở phổi, cải thiện chất lượng cuộc sống, giảm và đôi khi bình thường hóa nồng độ clorua trong mồ hôi (6). Các chỉ định cho ivacaftor, lumacaftor/ivacaftor, tezacaftor/ivacaftor và elexacaftor/tezacaftor/ivacaftor dựa trên các biến thể và độ tuổiCFTRcủa bệnh nhân và đang thay đổi nhanh chóng. Mặc dù tất cả các loại thuốc này đều có thể hữu ích, nhưng chỉ ivacaftor và phối hợp giữa elexacaftor, tezacaftor vàivacaftorđược coi là liệu pháp điều biến có hiệu quả cao.Điều trị và phòng ngừa nhiễm trùngChotổn thương phổi nhẹ, một đợt kháng sinh ngắn nên được chỉ định dựa trên kết quả cấy và độ nhạy. Các loại thuốc được lựa chọn cho tụ cầu nhạy cảm với methicillin là penicillin kháng penicillinase (ví dụ: dicloxacillin), cephalosporin (ví dụ: ceshalexin), hoặc trimethoprim/sulfamethoxazole. Erythromycin, amoxicillin/clavulanate, ampicillin, tetracycline, hoặc linezolid có thể được sử dụng. Đối với những bệnh nhân có vi khuẩnS. aureuskháng methicillin (MRSA) cư trú, một đợt uốngtrimethoprim/sulfamethoxazole, clindamycin, linezolid hoặc tetracycline có thể có hiệu quả. Đối với những bệnh nhân nhiễmP. aeruginosa, một đợt ngắn tobramycin hoặc aztreonam dạng hít (ví dụ: 4 tuần) và/hoặc fluoroquinolone đường uống (ví dụ: 2 tuần đến 3 tuần) có thể có hiệu quả. Fluoroquinolones đã được sử dụng an toàn ở trẻ nhỏ.Chocác tổn thương phổi từ vừa đến nặng,đặc biệt ở những bệnh nhân nhiễmP. aeruginosa, Điều trị bằng kháng sinh TM được khuyến cáo. Bệnh nhân thường phải nhập viện, nhưng những bệnh nhân được lựa chọn cẩn thận có thể được điều trị một cách an toàn tại nhà. Kết hợp aminoglycoside tobramycin (hoặc đôi khi amikacin) với cephalosporin, penicillin phổ mở rộng, fluoroquinolone, hoặc monobactam có hoạt tính kháng giả được cho dùng theo tĩnh mạch, thường trong 2 tuần. Có thể cần dùng liều cao hơn để đạt được nồng độ trong huyết thanh có thể chấp nhận được. Do độ thanh thải thận, tăng, nên cần có một lượng penicillin lớn để đạt được nồng độ huyết thanh cần thiết Đối với những bệnh nhân nhiễm thuộc nhóm S. aureus, tụ cầu kháng methicillin, vancomycin hoặc linezolid có thể được sử dụng đường TM. Đối với những bệnh nhân nhiễm thuộc nhóm S. aureus, tụ cầu kháng methicillin, vancomycin hoặc linezolid có thể được sử dụng đường TM.Việc tiêu diệt vi khuẩnP. aeruginosacư trú lâu dài là rất khó khăn. Tuy nhiên, người ta đã chỉ ra rằng điều trị kháng sinh sớm vào khoảng thời gian mà đường hô hấp bắt đầu bị nhiễmP. aeruginosacó thể có hiệu quả trong việc loại trừ vi khuẩn ra khỏi cơ thể trong một khoảng thời gian. Ở những bệnh nhân cóP. aeruginosacú trú lâu dài, kháng sinh được cung cấp qua đường hô hấp sẽ cải thiện các thông số lâm sàng và có thể làm giảm gánh nặng vi khuẩn trong đường thở (7). Việc sử dụng lâu dài liệu pháp tobramycin hoặc aztreonam dạng hít xen kẽ trong tháng cùng với azithromycin đường uống liên tục (hàng tháng) 3 lần một tuần có thể có hiệu quả trong việc cải thiện hoặc ổn định chức năng phổi và giảm tần suất các đợt cấp của phổi.Bệnh nhân có bệnh nhiễm trùng mycobacterium không điển hình có thể cần điều trị lâu dài bằng phối hợp các thuốc kháng sinh đường uống, hít và tĩnh mạch.Bệnh nhân bịbệnh do aspergillus phế quản phổi dị ứng(ABPA) hoặc nhiễm aspergillus đường hô hấp dưới có thể cần điều trị bằng đường uống hoặc đường tĩnh mạch kéo dài bằng azole chống nấm và/hoặc corticosteroid đường toàn thân.Điều trị các biểu hiện ở đường tiêu hóaSự tắc nghẽn đường ruột ở trẻ sơ sinh thỉnh thoảng có thể được giảm bớt bằng cách thụt chất thẩm thấu ưu trương hoặc chất cản quang đẳng trương; nếu không, phẫu thuật nội soi đường tiêu hóa để loại bỏ phân quánh trong ruột có thể là cần thiết. Sau giai đoạn sơ sinh, các trường hợp tắc nghẽn ruột từng phần (hội chứng tắc nghẽn đường ruột đoạn xa) có thể được điều trị bằng thụt chất thẩm thấu ưu trương hoặc chất cản quang đẳng trương hoặc acetylcysteine, hoặc bằng cách uống một dung dịch cân bằng đường tiêu hoá. Thuốc làm mềm phân như là dioctyl natri sulfosuccinate (docusate) hoặc lactulose có thể giúp ngăn ngừa những đợt bệnh như vậy.Ursodeoxycholic acid, acid mật hydrophilic, thường được sử dụng ở bệnh nhân bị bệnh gan do CF, nhưng có ít bằng chứng về hiệu quả của nó trong việc ngăn ngừa sự tiến triển từ ứ mật gây xơ gan.Thay thế enzym tụynên bổ sung vào tất cả các bữa ăn và đồ ăn nhẹ cho bệnh nhân bị suy tụy. Các chế phẩm enzyme hiệu quả nhất chứa pancrelipase trong các thể trung tâm tan trong ruột với nhạy cảm với pH. Đối với trẻ sơ sinh, các viên nang được mở ra và các chất được trộn với thức ăn có tính axit. Sau giai đoạn sơ sinh, liều lượng dựa trên cân nặng được sử dụng. Liều>2.500 IU lipase/kg/bữa hoặc>10.000 IU lipase/kg/ngày cần tránh vì liều lượng enzyme cao có liên quan đến chứng bệnh đại tràng xơ hóa. Ở những bệnh nhân có nhu cầu về enzyme cao, sự ức chế acid với kháng H2 hoặc thuốc ức chế bơm proton có thể cải thiện hiệu quả của enzym.Liệu phápăn kiêngbao gồm đủ lượng calo và protein để thúc đẩy tăng trưởng bình thường - có thể cần nhiều hơn 30% đến 50% so với mức cho phép ăn kiêng được khuyến nghị thông thường (xem bảngLượng tiêu thụ tham khảo chế độ ăn uống được khuyến nghị cho một số chất dinh dưỡng đa lượng). Liệu pháp ăn kiêng cũng bao gồm tổng lượng chất béo ăn vào từ bình thường đến cao để tăng mật độ calo trong chế độ ăn, bổ sung vitamin tổng hợp hòa tan trong nước gấp đôi lượng khuyến nghị hàng ngày, bổ sung vitamin D3 (cholecalciferol) ở bệnh nhân thiếu hoặc thiếuvitamin Dvà bổ sung muối trong thời thơ ấu và thời kỳ căng thẳng do nhiệt và tăng tiết mồ hôi. Trẻ sơ sinh được điều trị kháng sinh phổ rộng, bệnh nhân bị bệnh gan và ho ra máu nên bổ sung thêm vitamin K. Sữa công thức chứa đạm thủy phân và triglyceride chuỗi trung bình có thể được sử dụng thay cho công thức sữa nguyên chất cho trẻ nhũ nhi bị giảm hấp thu nghiêm trọng. Glucose polymer và chất bổ sung triglyceride chuỗi trung bình có thể được sử dụng để tăng lượng calo.Ở những bệnh nhân không duy trì được tình trạng dinh dưỡng đầy đủ, việc bổ sung qua đường ruột thông qua phẫu thuật cắt dạ dày hoặc hỗng tràng có thể cải thiện sự tăng trưởng và ổn định chức năng phổi (xemTổng quan về hỗ trợ dinh dưỡng). Việc sử dụng các chất kích thích sự thèm ăn để tăng cường sự tăng trưởng có thể hữu ích ở một số bệnh nhân.Điều trị các biểu hiện khácBệnh tiểu đường liên quan đến xơ nang (CFRD)là do thiếuinsulinvà có các đặc điểm chung của cả bệnh tiểu đường típ 1 và típ 2. Insulin là cách điều trị duy nhất được khuyến cáo. Insulin là cách điều trị duy nhất được khuyến cáo Quản lý bao gồminsulin, tư vấn về dinh dưỡng, chương trình giáo dục quản lý tiểu đường, và theo dõi các biến chứng vi mạch. Kế hoạch nên được thực hiện kết hợp với một nhà nội tiết học có kinh nghiệm trong điều trị cả CF và bệnh tiểu đường.Bệnh nhân có triệu chứngsuy tim phảinên được điều trị bằng thuốc lợi tiểu, hạn chế muối, và Oxygen.Hormon tăng trưởng tái tổ hợp của con người (rhGH)có thể cải thiện chức năng phổi, tăng chiều cao và cân nặng và hàm lượng khoáng chất trong xương, giảm tỷ lệ nhập viện. Tuy nhiên, do chi phí tăng thêm và sự bất tiện, rhGH thường không được sử dụng thường xuyên.Phẫu thuậtcó thể được chỉ định cho các trường hợpgiãn phế quảnhoặcxẹp phổicục bộ không thể điều trị hiệu quả bằng thuốc, polyp mũi, viêm mũi xoang mạn tính, chảy máu do giãn tĩnh mạch thực quản thứ phát do tăng áp lực tĩnh mạch cửa, bệnh túi mật và tắc ruột do xoắn ruột hoặc lồng ruột không thể điều trị bằng thuốc.Ghép ganđã được thực hiện thành công ở những bệnh nhân mắc bệnh gan giai đoạn cuối.Thông thường, thảo luận vềcấy ghép phổilà cần thiết. Khi xem xét việc cấy ghép, bệnh nhân cần phải cân nhắc khả năng sống lâu hơn với cấy ghép, tuy nhiên điều đó không chắc chắn khi cấy ghép và gánh nặng đang diễn ra (nhưng khác) khi sống với ghép tạng. Việc ghép phổi từ người hiến tặng sống và phổi của người hiến tặng sống hai bên đã được thực hiện thành công ở những bệnh nhân mắc bệnh phổi giai đoạn tiến triển. Ghép gan-phổi kết hợp đã được thực hiện cho những bệnh nhân mắc bệnh gan và phổi giai đoạn cuối.Cấy ghép phổi hai bên cho bệnh phổi nặng đang trở nên thường quy hơn và thành công hơn với kinh nghiệm và kỹ thuật được cải thiện. Trong số những người lớn bị CF, khoảng thời gian sống sau ghép là khoảng 9 năm.Tài liệu tham khảo về điều trị1.Flume PA, O'Sullivan BP, Robinson KA, et al. Cystic fibrosis pulmonary guidelines: chronic medications for maintenance of lung health.Am J Respir Crit Care Med2007;176(10):957-969. doi:10.1164/rccm.200705-664OC2.Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al. Cystic fibrosis pulmonary guidelines. Chronic medications for maintenance of lung health.Am J Respir Crit Care Med2013;187(7):680-689. doi:10.1164/rccm.201207-1160oe3.Stahl M, Wielpütz MO, Ricklefs I, et al. Preventive Inhalation of Hypertonic Saline in Infants with Cystic Fibrosis (PRESIS). A Randomized, Double-Blind, Controlled Study.Am J Respir Crit Care Med2019;199(10):1238-1248. doi:10.1164/rccm.201807-1203OC4.Heijerman HGM, McKone EF, Downey DG, et al. Efficacy and safety of theelexacaftorplustezacaftorplusivacaftorcombination regimen in people with cystic fibrosis homozygous for the F508del mutation: a double-blind, randomised, phase 3 trial [published correction appears inLancetngày 30 tháng 5 năm 2020;395(10238):1694].Lancet2019;394(10212):1940-1948. doi:10.1016/S0140-6736(19)32597-85.Middleton PG, Mall MA, Dřevínek P, et al.Elexacaftor-Tezacaftor-Ivacaftorfor Cystic Fibrosis with a Single Phe508del Allele.N Engl J Med2019;381(19):1809-1819. doi:10.1056/NEJMoa19086396.Taylor-Cousar JL, Robinson PD, Shteinberg M, Downey DG. CFTR modulator therapy: transforming the landscape of clinical care in cystic fibrosis.Lancet2023;402(10408):1171-1184. doi:10.1016/S0140-6736(23)01609-47.Mogayzel PJ Jr, Naureckas ET, Robinson KA, et al. Cystic Fibrosis Foundation pulmonary guideline. pharmacologic approaches to prevention and eradication of initial Pseudomonas aeruginosa infection.Ann Am Thorac Soc2014;11(10):1640-1650. doi:10.1513/AnnalsATS.201404-166OC
+
+--- 6. Tiên lượng về bệnh xơ nang ---
+
+Quá trình diễn biến phần lớn được xác định bởi mức độ liên quan đến phổi. Suy giảm chức năng phổi theo thời gian, thường được đặc trưng bởi giãn phế quản tiến triển, dẫn đến suy nhược và cuối cùng làm tăng nguy cơ tử vong, thường là do sự kết hợp giữasuy hô hấpvàbệnh tâm phế.Tiên lượng đã được cải thiện ổn định trong 5 thập kỷ qua, chủ yếu là do chẩn đoán sớm và điều trị tích cực trước khi bắt đầu các thay đổi phổi không hồi phục. Tuổi trung vị khi chết vào năm 2021 là 33,9 tuổi. Tuy nhiên, thời gian sống thêm trung vị được dự đoán ở Hoa Kỳ đối với trẻ sinh vào năm 2021 là 65,6 tuổi. Thời gian sống thêm lâu dài tốt hơn đáng kể ở những bệnh nhân không bị suy tụy (1). Kết quả cũng bị ảnh hưởng bởi hồ sơ biến thểCFTR, gen biến đổi, vi sinh đường thở, giới tính, nhiệt độ môi trường, tiếp xúc với các chất ô nhiễm không khí (bao gồm cả khói thuốc lá), tuân thủ các liệu pháp điều trị theo quy định và tình trạng kinh tế xã hội. CácFEV1, điều chỉnh theo tuổi và giới tính, là yếu tố dự báo tốt nhất cho sự sống còn. Nếu kết quả sức khỏe nhờ liệu pháp điều biến CFTR được duy trì, tuổi thọ có thể còn tăng hơn nữa.Chăm sóc cuối đờiBệnh nhân và gia đình họ xứng đáng được thảo luận nhạy cảm về tiên lượng và lựa chọn chăm sóc trong suốt quá trình bệnh, đặc biệt nếu chức năng phổi suy giảm dần dần.Một dấu hiệu của sự tôn trọng đối với bệnh nhân sống với bệnh CF là đảm bảo rằng họ được cung cấp thông tin và cơ hội để lựa chọn cuộc sống, bao gồm cả việc có một quyết định đáng kể trong việc xác định cách thức và khi nào cần chấp nhận cái chết.Khi thích hợp, cần cung cấp dịch vụchăm sóc giảm nhẹ, bao gồm cả việc xử trí triệu chứng đầy đủ, để đảm bảo chăm sóc cuối đời một cách yên bình. Một chiến lược hữu ích mà bệnh nhân nên cân nhắc là chấp nhận thử nghiệm điều trị tích cực hoàn toàn có giới hạn thời gian khi cần thiết, nhưng phải đồng ý trước các thông số cho biết khi nào nên dừng các biện pháp tích cực (xemDo-Not-Resuscitate (DNR) Orders and Portable Medical Orders).Tài liệu tham khảo về tiên lượng bệnh1.Cystic Fibrosis Foundation Patient Registry2021 Annual Data Report Bethesda, Maryland 2022 Cystic Fibrosis Foundation. Truy cập ngày 20 tháng 10 năm 2023.
+
+--- 7. Những điểm chính ---
+
+Xơ nang là do mang 2 biến thể của gen cho một protein được gọi là điều chỉnh dẫn truyền qua màng xơ nang (CFTR), giúp điều hòa vận chuyển chloride, natri, và bicacbonat qua các màng biểu mô.Các biến chứng chính liên quan đến phổi, gây tổn thương đường hô hấp nhỏ và lớn, viêm mạn tính và nhiễm trùng mạn tính và tái phát do vi khuẩn, đặc biệt là doPseudomonas aeruginosa.Những hậu quả nghiêm trọng khác bao gồm suy tuyến tụy, dẫn đến kém hấp thu các chất dinh dưỡng và vitamin, dẫn đến suy giảm sự tăng trưởng và phát triển, và ở những bệnh nhân cao tuổi là nguy cơ mắc bệnh tiểu đường.Các biện pháp làm sạch đường thở (ví dụ: dẫn lưu tư thế, gõ, vỗ rung, hỗ trợ ho), tiêu chất nhầy và bù nước cho đường thở thường được bắt đầu ở trẻ nhỏ; tập thể dục nhịp điệu thường xuyên được khuyến nghị.Các loại thuốc điều chỉnh hoặc tăng cường CFTR (bộ điều biến CFTR) có thể cải thiện kết quả sức khỏe cho những bệnh nhân có một số biến thể CFTR nhất định.Thuốc kháng sinh được dùng sớm trong bất kỳ đợt cấp nào của phổi; lựa chọn thuốc có thể dựa trên xét nghiệm nuôi cấy và xét nghiệm độ nhạy.Chế độ ăn nên bổ sung enzyme tụy, vitamin liều cao và 30 đến 50% lượng calo chủ yếu lấy từ chất béo.
+
+--- 8. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Quỹ Xơ nang:Hướng dẫn chăm sóc cụ thể theo độ tuổi đối với bệnh xơ nang

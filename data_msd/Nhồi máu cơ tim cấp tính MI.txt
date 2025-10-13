@@ -1,0 +1,1477 @@
+TIÊU ĐỀ: Nhồi máu cơ tim cấp tính (MI)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/bệnh-động-mạch-vành/nhồi-máu-cơ-tim-cấp-tính-mi
+================================================================================
+
+NỘI DUNG:
+
+Nhồi máu cơ tim cấp tính (MI)
+
+Theo
+
+Ranya N. Sweis
+
+,
+
+MD, MS
+
+,
+
+Northwestern University Feinberg School of Medicine;
+
+Arif Jivan
+
+,
+
+MD, PhD
+
+,
+
+Northwestern University Feinberg School of Medicine
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 2 2024
+
+|
+
+đã sửa đổi
+
+Thg 7 2024
+
+v27852589_vi
+
+Nhồi máu cơ tim cấp là hoại tử cơ tim do tắc nghẽn động mạch vành. Các triệu chứng bao gồm cảm giác khó chịu ở ngực có hoặc không có khó thở, buồn nôn và/hoặc toát mồ hôi. Chẩn đoán bằng điện tâm đồ (ECG) và có hoặc không có chất chỉ điểm sinh học. Điều trị bằng thuốc chống kết tập tiểu cầu, thuốc chống đông máu, nhóm nitrat, thuốc chẹn beta, nhóm statin và liệu pháp tái tưới máu. Đối với nhồi máu cơ tim ST chênh lên, sự hồi phục khẩn cấp là thông qua các thuốc tiêu sợi huyết, can thiệp qua da, hoặc, thỉnh thoảng cần phẫu thuật bắc cầu động mạch vành. Đối với nhồi máu cơ tim không đoạn ST chênh, việc tái tưới máu được thực hiện thông qua can thiệp qua da hoặc phẫu thuật bắc cầu động mạch vành.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về các hội chứng mạch vành cấp tính
+
+.)
+
+Tại Hoa Kỳ, có tới 1,0 triệu ca nhồi máu cơ tim xảy ra hàng năm (
+
+1
+
+). Nhồi máu cơ tim (MI) gây tử vong cho 300.000 đến 400.000 người (Xem thêm:
+
+Ngừng tim
+
+).
+
+Nhồi máu cơ tim cấp tính, cùng với đau thắt ngực không ổn định, được coi là
+
+hội chứng mạch vành cấp
+
+. Nhồi máu cơ tim cấp tính bao gồm cả nhồi máu cơ tim không đoạn ST chênh (NSTEMI) và nhồi máu cơ tim đoạn ST chênh (STEMI). Phân biệt giữa NSTEMI và STEMI là rất quan trọng vì các chiến lược điều trị là khác nhau đối với hai bệnh này.
+
+Tài liệu tham khảo chung
+
+1.
+
+Benjamin EJ, Virani SS, Callaway CW, et al
+
+. Heart Disease and Stroke Statistics-2018 Update: A Report From the American Heart Association [published correction appears in
+
+Circulation
+
+20 tháng 3 năm 2018;137(12 ):e493].
+
+Circulation
+
+2018;137(12):e67-e492. doi:10.1161/CIR.0000000000000558
+
+Sinh lý bệnh của MI cấp tính
+
+Nhồi máu cơ tim được định nghĩa là hoại tử cơ tim trong một bệnh cảnh lâm sàng phù hợp với thiếu máu cục cơ tim (
+
+1
+
+). Những điều kiện này có thể được thỏa mãn bởi sự gia tăng
+
+men tim
+
+(tốt nhất là men tim troponin [cTn]) trên phần trăm thứ 99 của giới hạn trên (URL) cộng với ít nhất một trong các cách sau:
+
+Triệu chứng thiếu máu cục bộ cơ tim
+
+ECG thay đổi cho thấy thiếu máu cục bộ mới (thay đổi ST/T đáng kể hoặc
+
+block nhánh trái
+
+)
+
+Xuất hiện sóng Q hoại tử
+
+Hình ảnh bằng chứng về sự mất mát mới của cơ tim hoặc chứng bất thường chuyển động khu vực mới của cơ tim
+
+chụp động mạch vành hoặc bằng chứng tử thi bằng huyết khối nội mạch vành
+
+Các tiêu chuẩn khác nhau được sử dụng để chẩn đoán nhồi máu cơ tim trong và sau khi can thiệp động mạch vành hoặc phẫu thuật bắc cầu nối chủ vành, và như nguyên nhân gây tử vong đột ngột.
+
+MI có thể được phân thành 5 loại dựa trên nguyên nhân và hoàn cảnh (
+
+1
+
+):
+
+Loại 1: Nhồi máu cơ tim tự phát xảy ra khi mảng xơ vữa bị nứt vỡ, xói mòn,loét hoặc tách gây ra huyết khối một hoặc nhiều nhánh mạch vành gây thiếu máu cơ tim
+
+Dạng 2: Thiếu máu cục bộ do nhu cầu oxy tăng (ví dụ, cao huyết áp), hoặc giảm cung (ví dụ như co thắt động mạch vành, tắc nghẽn, hạ huyết áp)
+
+Loại 3: Liên quan đến đột tử do tim
+
+Loại 4a: Liên quan đến can thiệp mạch vành qua da (dấu hiệu và triệu chứng của nhồi máu cơ tim với giá trị cTn > 5
+
+×
+
+URL phân vị thứ 99)
+
+Loại 4b: Có liên quan đến chứng huyết khối động trong stent động mạch vành
+
+Loại 5: Liên quan đến phẫu thuật bắc cầu động mạch vành (dấu hiệu và triệu chứng của nhồi máu cơ tim với giá trị cTn > 10
+
+×
+
+URL phân vị thứ 99)
+
+Vị trí nhồi máu cơ tim
+
+Nhồi máu cơ tim ảnh hưởng chủ yếu đến tâm thất trái (LV), nhưng tổn thương có thể lan tới tâm thất phải (RV) hoặc tâm nhĩ.
+
+Nhồi máu cơ tim thất phải
+
+thường là kết quả của tắc nghẽn động mạch vành phải hoặc động mạch mũ; nó được đặc trưng bởi áp lực làm đầy thất phải cao, thường có sự xuất hiện
+
+hở van ba lá
+
+nặng và giảm cung lượng tim.
+
+Nhồi máu cơ tim thành sau dưới
+
+gây ra một số mức độ rối loạn chức năng thất phải ở khoảng một nửa số bệnh nhân và gây ra bất thường huyết động trong 10 đến 15%. Rối loạn chức năng thất phải nên được xem xét ở bất kỳ bệnh nhân nào bị nhồi máu cơ tim thành sau dưới và nâng cao áp lực tĩnh mạch cảnh trong với sốc hoặc tụt huyết áp. Nhồi máu thất phải làm biến chứng nhồi máu thất trái làm tăng đáng kể nguy cơ tử vong (
+
+2
+
+).
+
+Nhồi máu thành trước
+
+có xu hướng lớn hơn và dẫn đến tiên lượng xấu hơn so với nhồi máu cơ tim thành sau dưới. Chúng thường do tắc nghẽn động mạch vành trái, đặc biệt là ở động mạch liên thất trước; nhồi máu thành sau dưới phản ánh tắc động mạch vành phải hoặc tắc động mạch mũ ưu năng.
+
+mở rộng vùng nhồi máu
+
+Nhồi máu có thể là
+
+Xuyên thành
+
+Không xuyên thành
+
+Nhồi máu xuyên thành bao gồm toàn bộ chiều dày của cơ tim từ màng ngoài tim và nội mạc tử cung thường có đặc trưng bởi sóng Q bất thường trên ECG.
+
+Nhồi máu không xuyên thành (bao gồm nhồi máu dưới nội mạc) không lan rộng qua thành thất và chỉ gây ra những bất thường ở đoạn ST và sóng T (ST-T). Nhồi máu cơ tim dưới nội mạc thường liên quan đến một phần ba cơ tim, nơi mà sức căng cơ tim trên tường cao nhất và lưu lượng máu của cơ tim là dễ bị tổn thương nhất đối với những thay đổi tuần hoàn. Nhồi máu này có thể theo sau bởi hạ huyết áp kéo dài.
+
+Do không thể xác định chính xác được độ sâu hoại tử của vùng cơ tim hoại tử, các trường hợp nhồi máu thường được phân loại là STEMI hoặc NSTEMI theo sự có mặt hoặc không có độ cao của đoạn ST chênh lên hoặc sóng Q trên ECG. Thể tích cơ tim bị phá hủy có thể được ước tính sơ bộ bằng mức độ và thời gian tăng creatine kinase (CK-MB) hoặc bằng mức đỉnh điểm của troponin tim được đo phổ biến hơn.
+
+Nhồi máu cơ tim không đoạn ST chênh
+
+(NSTEMI, MI dưới nội tâm mạc) là hoại tử cơ tim (được chứng minh bằng
+
+các chất chỉ điểm sinh học về tim
+
+trong máu; troponin I hoặc troponin T và CK-MB sẽ tăng cao) mà không tăng ST cấp tính. ECG thay đổi như chênh xuống đoạn ST, đảo ngược sóng T, hoặc cả hai có thể có mặt.
+
+Nhồi máu cơ tim ST chênh lên
+
+(STEMI, MI xuyên thành) là hoại tử cơ tim có thay đổi ECG cho thấy đoạn ST chệnh lên và không đảo ngược bởi nitroglycerin. Troponin I hoặc troponin T và CK-MB tăng lên.
+
+Nhồi máu cơ tim không có bệnh động mạch vành (MINOCA)
+
+Nhồi máu cơ tim không có bệnh động mạch vành tắc nghẽn (MINOCA) được tìm thấy ở khoảng 5% đến 6% số bệnh nhân nhồi máu cơ tim cấp được chụp động mạch vành (
+
+3
+
+). Bệnh nhân mắc MINOCA có xu hướng trẻ hơn, nữ và không bị rối loạn lipid máu. Họ có xu hướng bị hoại tử cơ tim mà không có xơ vữa động mạch vành đáng kể. Vỡ mảng bám và co thắt mạch vành là phổ biến trong MINOCA. Huyết khối hoặc thuyên tắc mạch vành và bóc tách thành động mạch vành tự phát là nguyên nhân của MINOCA. Điều trị nội khoa cần phải dựa trên cơ chế cơ bản của MINOCA ở mỗi bệnh nhân.
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Thygesen K, Alpert JS, Jaffe AS, et al
+
+: Fourth Universal Definition of Myocardial Infarction (2018).
+
+J Am Coll Cardiol
+
+72(18):2231–2264, 2018 doi:10.1016/j.jacc.2018.08.1038
+
+2.
+
+Mehta SR, Eikelboom JW, Natarajan MK, et al
+
+. Impact of right ventricular involvement on mortality and morbidity in patients with inferior myocardial infarction.
+
+J Am Coll Cardiol
+
+37(1):37–43, 2001 doi:10.1016/s0735-1097(00)01089-5
+
+3.
+
+Tamis-Holland JE, Jneid H, Reynolds HR, et al
+
+: Contemporary diagnosis and management of patients with myocardial infarction in the absence of obstructive coronary artery disease: A scientific statement from the American Heart Association.
+
+Circulation
+
+139:e891–e908, 2019. doi.org/10.1161/CIR.0000000000000670
+
+Các triệu chứng và dấu hiệu của MI cấp tính
+
+Các triệu chứng của NSTEMI và STEMI đều giống nhau. Vài ngày đến vài tuần trước khi xảy ra biến cố, khoảng 2/3 số bệnh nhân gặp phải các triệu chứng tiền triệu, bao gồm đau thắt ngực không ổn định hoặc
+
+đau thắt ngực tăng dần
+
+, khó thở và mệt mỏi.
+
+Thông thường, triệu chứng đầu tiên của nhồi máu là đau ngực tức nặng, đau sâu sau xương ức, đau kiểu đau tạng được miêu tả là đau hoặc áp lực, thường xuyên phát ra ở lưng, hàm, cánh tay trái, cánh tay phải, vai, hoặc tất cả các khu vực này. Cơn đau tương tự như
+
+cơn đau thắt ngực
+
+nhưng thường dữ dội hơn và kéo dài; thường kèm theo khó thở, toát mồ hôi, buồn nôn và/hoặc nôn; và thuyên giảm ít hoặc chỉ tạm thời khi nghỉ ngơi hoặc nitroglycerin.
+
+Tuy nhiên, cảm giác khó chịu có thể nhẹ; khoảng 20% số ca nhồi máu cơ tim cấp tính diễn ra thầm lặng (
+
+1
+
+). Nhồi máu cơ tim thầm lặng là những cơn không có triệu chứng hoặc gây ra các triệu chứng mơ hồ mà bệnh nhân không nhận ra là bệnh. Nhồi máu cơ tim thầm lặng thường xảy ra hơn ở bệnh nhân tiểu đường hoặc có tiền sử bệnh động mạch vành. Bệnh nhân thường giải thích sự khó chịu của họ như khó tiêu, đặc biệt là vì sự giảm nhẹ tự nhiên có thể bị giả mạo do ăn mòn hoặc quá axit. Thiếu máu thầm lặng đôi khi biểu hiện dưới dạng những thay đổi bất thường ST-T bất thường thấy trong quá trình thử nghiệm gắng sức hoặc theo dõi Holter 24 giờ. Nghiên cứu về phóng xạ phân tử đôi khi có thể cho thấy thiếu máu cơ tim không có triệu chứng trong lúc căng thẳng về thể chất hoặc tinh thần. Sự thiếu máu cục bộ và đau thắt ngực có thể cùng tồn tại, xảy ra ở những thời điểm khác nhau.
+
+Một số bệnh nhân có hiện tượng ngất.
+
+Phụ nữ có nhiều khả năng biểu hiện cảm giác khó chịu ở ngực không điển hình hơn; tuy nhiên, ngay cả khi xuất hiện các triệu chứng điển hình, nhồi máu cơ tim thường không được nhận biết ở họ (
+
+2
+
+). Bệnh nhân cao tuổi có thể có khó thở hơn đau ngực do thiếu máu cục bộ.
+
+Trong các trường hợp thiếu máu trầm trọng, bệnh nhân thường có đau đáng kể và cảm thấy bồn chồn và sợ hãi. Buồn nôn và nôn có thể xảy ra, đặc biệt với nhồi máu cơ tim thành dưới. Khó thở và suy nhược do suy giảm chức năng thất trái, phù phổi, sốc, loạn nhịp tim đáng kể có thể chiếm ưu thế.
+
+Da có thể nhợt nhạt, lạnh, và vã mồ hôi. Tím trung ương hoặc ngoại vi có thể xuất hiện. Mạch có thể yếu, và huyết áp có thể thay đổi, mặc dù nhiều bệnh nhân ban đầu có một số mức độ cao huyết áp trong đau đớn.
+
+Tiếng tim thường hơi xa xăm; tiếng tim thứ tư hầu như có ở khắp nơi. Có thể xuất hiện tiếng thổi tâm thu nhẹ ở mỏm (phản ánh rối loạn chứng năng cơ nhú) có thể xảy ra. Trong lần kiểm tra ban đầu, một tiếng cọ hoặc những tiếng thổi mạnh gợi ý biến chứng nặng nề hoặc chẩn đoán khác. Phát hiện tiếng cọ màng tim trong vòng vài giờ sau khi xuất hiện các triệu chứng nhồi máu cơ tim cho thấy
+
+viêm màng ngoài tim
+
+cấp tính hơn là nhồi máu cơ tim. Tuy nhiên, tiếng cọ màng tim, thường là không rõ ràng, thường xảy ra vào ngày thứ 2 và thứ 3 sau nhồi máu cơ tim ST chênh lên. Thành ngực bị đau khi sờ nắn ở một số bệnh nhân.
+
+Trong nhồi máu thất phải (RV), dấu hiệu bao gồm áp lực làm đầy RV, tĩnh mạch cổ giãn (thường với
+
+Dấu Kussmaul
+
+), nghe phổi trong, và hạ huyết áp.
+
+Tài liệu tham khảo về các dấu hiệu và triệu chứng
+
+1.
+
+Parmley WW
+
+. Prevalence and clinical significance of silent myocardial ischemia.
+
+Circulation
+
+1989;80(6 Suppl):IV68-IV73.
+
+2.
+
+Lichtman JH, Leifheit EC, Safdar B, et al
+
+. Sex Differences in the Presentation and Perception of Symptoms Among Young Patients With Myocardial Infarction: Evidence from the VIRGO Study (Variation in Recovery: Role of Gender on Outcomes of Young AMI Patients).
+
+Circulation
+
+2018;137(8):781-790. doi:10.1161/CIRCULATIONAHA.117.031650
+
+Chẩn đoán MI cấp tính
+
+ECG nối tiếp
+
+Các chất chỉ điểm sinh học về tim tuần tự
+
+Chụp động mạch vành ngay lập tức (trừ khi dùng thuốc tiêu sợi huyết) cho bệnh nhân STEMI hoặc có biến chứng (ví dụ: đau ngực dai dẳng, hạ huyết áp, các chất chỉ điểm sinh học về tim tăng rõ rệt, loạn nhịp không ổn định)
+
+Chụp động mạch vành trì hoãn (trong vòng 24 đến 48 giờ) cho bệnh nhân NSTEMI mà không có biến chứng
+
+(Xem thêm phác đồ
+
+Tiếp cận với Nhồi máu cơ tim cấp
+
+.)
+
+Đánh giá bắt đầu bằng ECG ban đầu và tuần tự cũng như các chỉ số đo tuần tự của
+
+các chất chỉ điểm sinh học về tim
+
+để giúp phân biệt giữa
+
+đau thắt ngực không ổn định
+
+, nhồi máu cơ tim đoạn ST chênh (STEMI) và nhồi máu cơ tim không đoạn ST chênh (NSTEMI). Sự phân biệt này là trung tâm của con đường quyết định bởi vì các thuốc
+
+tiêu sợi huyết
+
+có lợi cho bệnh nhân STEMI nhưng có thể làm tăng nguy cơ cho những người có NSTEMI. Đồng thời, việc can thiệp khẩn cấp được chỉ định cho bệnh nhân STEMI cấp tính nhưng không nói chung đối với những người có NSTEMI.
+
+ECG
+
+ECG
+
+là kiểm tra quan trọng nhất và cần phải được thực hiện càng sớm càng tốt (ví dụ: trong vòng 10 phút sau khi đến khám).
+
+Đối với STEMI, ECG ban đầu thường là chẩn đoán, cho thấy đoạn ST chênh
+
+≥
+
+1 mm trong 2 hoặc nhiều chuyển đạo nối tiếp vùng bị tổn thương (xem các hình
+
+Nhồi máu cơ tim thành bên thất trái cấp
+
+,
+
+Nhồi máu cơ tim thành bên thất trái
+
+,
+
+Nhồi máu cơ tim thành bên thất trái (vài ngày sau)
+
+,
+
+Nhồi máu cơ tim thành dưới thất trái (cơ hoành) cấp
+
+,
+
+Nhồi máu cơ tim thành dưới thất trái (cơ hoành)
+
+và
+
+Nhồi máu cơ tim thánh dưới thất trái (cơ hoành) (vài ngày sau)
+
+).
+
+NSTEMI
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Nhồi máu cấp tính thành bên thất trái (theo dõi được trong vòng vài giờ sau khi phát bệnh)
+
+Đoạn ST chệnh cao nổi bật trong các đầu I, aVL, V
+
+4
+
+, và V
+
+6
+
+và chênh xuống ở các chuyển đạo đối ứng.
+
+Nhồi máu cơ tim thành bên thất trái (sau 24 tiếng đầu tiên)
+
+Đoạn ST chênh ít hơn; sóng Q phát triển đáng kể và sóng R bị mất trong các đạo trình I, aVL, V
+
+4
+
+, và V
+
+6
+
+.
+
+Nhồi máu cơ tim thành bên thất trái (vài ngày sau đó)
+
+Q sóng đáng kể và mất điện áp sóng R vẫn tồn tại. Các đoạn ST bây giờ chủ yếu là đẳng điện. ECG có thể chỉ thay đổi chậm trong vài tháng tới.
+
+Nhồi máu thành dưới thất trái (cơ hoành) cấp tính (theo dõi có được trong vài tiếng kể từ khi khởi phát bệnh)
+
+Đoạn ST chênh lên cao ở các chuyển đạo D II,D III, và aVF và sự chênh xuống tương đối ở các chuyển đạo khác.
+
+Nhồi máu thành dưới thất trái (cơ hoành) (sau 24 tiếng đầu tiên)
+
+Sóng Q phát triển đáng kể với độ cao phân đoạn ST giảm ở các đầu II, III, và aVF.
+
+Nhồi máu thành dưới thất trái (cơ hoành) (vài ngày sau đó)
+
+Phân đoạn ST bây giờ đẳng điện. Các sóng Q bất thường trong các đạo trình II, III, và aVF chỉ ra rằng chứng sẹo cơ tim vẫn tồn tại.
+
+Các sóng bệnh lý Q không cần thiết để chẩn đoán. ECG phải được đọc cẩn thận vì độ cao của đoạn ST có thể tinh tế, đặc biệt là ở các chuyển đạo thành dưới (II, III, aVF); đôi khi sự chú ý của người đọc là nhầm lẫn tập trung vào các đoạn ST chênh xuống. Nếu triệu chứng là đặc trưng, độ cao đoạn ST trên ECG có độ đặc hiệu 90% và độ nhạy 45% khi chẩn đoán nhồi máu cơ tim. Theo dõi bệnh nhân (thu được mỗi 8 giờ trong 1 ngày, sau đó mỗi ngày) thể hiện sự tiến triển dần theo hướng ổn định, mô hình bình thường hoặc phát triển sóng Q bất thường trong một vài ngày có khuynh hướng xác nhận chẩn đoán.
+
+Nếu nghi ngờ nhồi máu thất phải (RV), ECG 15 chuyển đạo thường được ghi lại; các chuyển đạo bổ sung được đặt ở V4-6R (xem hình
+
+Chuyển đạo thất phải (VR) từ VR1 đến VR6
+
+) và để phát hiện nhồi máu thành sau, V8 và V9.
+
+Các đạo trình tâm thất phải (VR) VR1 cho đến VR6
+
+Sử dụng ECG để chẩn đoán nhồi máu cơ tim rất khó khăn khi có block nhánh trái trên điện tâm đồ bởi vì chúng có thể là nhồi máu cơ tim ST chênh lên. Độ cao của đoạn ST đồng hướng với phức hợp QRS độ chênh đoạn ST
+
+>
+
+5 mm ở ít nhất 2 chuyển đạo trước tim. Nhưng nói chung, bất kỳ bệnh nhân có triệu chứng gợi ý và khởi phát mới (hoặc không được biết là cũ) block nhánh trái được điều trị như STEMI.
+
+Công cụ tính toán lâm sàng
+
+NMCT Thang điểm đưa ra quyết định
+
+Công cụ tính toán lâm sàng
+
+MI Tiêu chuẩn về khả năng xảy ra Đau ngực với LBBB
+
+Các chất chỉ điểm sinh học về tim
+
+Chất chỉ điểm sinh học về tim (chất chỉ điểm sinh học trong huyết thanh của tổn thương tế bào cơ tim) là
+
+Các men tim (ví dụ, CK-MB [creatine kinase MB isoenzyme])
+
+Trong tế bào cơ tim (ví dụ, troponin I, troponin T, myoglobin)
+
+Các chất chỉ điểm sinh học này được giải phóng vào máu sau khi tế bào cơ tim bị hoại tử. Các chất chỉ điểm sinh học xuất hiện vào những thời điểm khác nhau sau khi bị thương tổn và mức độ giảm ở các mức độ khác nhau. Độ nhạy và độ đặc hiệu đối với tổn thương tế bào cơ tim khác nhau đáng kể giữa các chất chỉ điểm sinh học này. Các xét nghiệm đo troponin tim (cTn), đã được sử dụng trong nhiều năm, rất nhạy và đặc hiệu. Các xét nghiệm mới hơn, có độ nhạy cao hơn về troponin tim (hs-cTn) cũng rất chính xác được ưu tiên sử dụng. Các xét nghiệm này có thể xác định mức cTn (T hoặc I) một cách đáng tin cậy từ 0,003 đến 0,006 ng/mL (3 đến 6 pg/mL); một số xét nghiệm nghiên cứu có thể đạt 0,001 ng/mL (1 pg/mL).
+
+Các xét nghiệm cTn kém nhạy hơn không có khả năng phát hiện troponin tim ngoại trừ ở những bệnh nhân bị rối loạn tim cấp tính. Do đó, một cTn "dương" (tức là vượt quá giới hạn phát hiện) rất đặc hiệu. Tuy nhiên, xét nghiệm hs-cTn có thể phát hiện một lượng nhỏ troponin ở nhiều người khỏe mạnh. Do đó, nồng độ troponin phát hiện với xét nghiệm hs-cTn cần được tham chiếu đến phạm vi bình thường và được xác định là "cao" chỉ khi có trên 99% dân số tham chiếu. Hơn nữa, mặc dù mức troponin tăng cao có nghĩa là tổn thương tế bào cơ tim, nhưng nó không cho biết nguyên nhân gây ra tổn thương (mặc dù bất kỳ sự tăng troponin nào cũng làm tăng nguy cơ dẫn đến kết quả bất lợi trong nhiều chứng rối loạn). Ngoài hội chứng mạch vành cấp tính, nhiều rối loạn tim và không phải tim khác có thể làm tăng nồng độ troponin trong tim (xem bảng
+
+Nguyên nhân gây tăng nồng độ Troponin
+
+); không phải tất cả nồng độ hs-cTn tăng đều biểu hiện nhồi máu cơ tim và không phải tất cả hoại tử cơ tim đều do hội chứng mạch vành cấp tính ngay cả khi nguyên nhân là do thiếu máu cục bộ. Tuy nhiên, bằng cách phát hiện nồng độ troponin thấp hơn, xét nghiệm hs-cTn cho phép xác định MI sớm hơn các xét nghiệm khác và đã thay thế các xét nghiệm chất chỉ điểm sinh học về tim khác ở nhiều trung tâm.
+
+Bệnh nhân nghi ngờ bị nhồi máu cơ tim nên thực hiện xét nghiệm hs-cTn ngay khi xuất hiện và 2 tiếng đến 3 tiếng sau đó. Troponin nên được đo ở 0 và 6 giờ nếu sử dụng xét nghiệm cTn chuẩn.
+
+Tất cả các xét nghiệm cần được phiên giải trong bối cảnh xác suất bệnh trước xét nghiệm
+
+Hiểu các xét nghiệm y khoa và kết quả xét nghiệm
+
+). Điều này đặc biệt phù hợp với xét nghiệm hs-cTn, do xét nghiệm này có độ nhạy rất cao, nhưng áp dụng cho tất cả các xét nghiệm cTn.
+
+Xét nghiệm hs-cTn phải được diễn giải dựa trên xác suất mắc bệnh trước xét nghiệm của bệnh nhân, được ước tính về mặt lâm sàng dựa trên:
+
+Các yếu tố nguy cơ cho HCVC
+
+Triệu chứng
+
+ECG
+
+Xác suất trước xét nghiệm cao cộng với nồng độ troponin tăng cao được phát hiện bằng xét nghiệm hs-cTn gợi ý nhiều đến nhồi máu cơ tim, trong khi xác suất trước xét nghiệm thấp cộng với kết quả xét nghiệm hs-cTn bình thường khó có thể gợi ý nhồi máu cơ tim (
+
+1
+
+). Chẩn đoán là khó khăn hơn khi kết quả xét nghiệm không tương xứng với xác suất trước khi kiểm tra, trong trường hợp này các xét nghiệm liên tiếp mức hs-cTn giúp. Một bệnh nhân có xác suất thử nghiệm thấp và hs-cTn ban đầu hơi cao vẫn ổn định khi xét nghiệm lặp lại có thể có bệnh tim không HCVC (ví dụ như
+
+suy tim
+
+, bệnh động mạch vành ổn định). Tuy nhiên, nếu mức độ lặp lại tăng lên đáng kể (tức là > 20% đến 50%) thì khả năng bị nhồi máu cơ tim sẽ cao hơn nhiều. Nếu một bệnh nhân có xác suất trước xét nghiệm cao có nồng độ troponin bình thường được phát hiện với mức hs-cTn tăng > 50% khi xét nghiệm lặp lại thì có khả năng bị nhồi máu cơ tim; mức độ bình thường tiếp tục (thường bao gồm ở thời điểm 6 tiếng và hơn thế nữa khi nghi ngờ cao) cho thấy cần phải theo đuổi một chẩn đoán phân biệt.
+
+Chụp động mạch vành
+
+Chụp động mạch vành
+
+thường kết hợp chẩn đoán với can thiệp mạch vành qua da (PCI – tức là nong mạch vành, đặt stent). Khi có thể, chụp động mạch vành khẩn cấp và PCI được thực hiện càng sớm càng tốt sau khi khởi phát nhồi máu cơ tim cấp (PCI thì đầu). Ở nhiều trung tâm, cách tiếp cận này làm giảm đáng kể tỷ lệ bệnh tật và tử vong và cải thiện các kết cục lâu dài. Thông thường, nhồi máu thực sự được chấm dứt khi thời gian từ khi đau đến khi thực hiện PCI ngắn (
+
+<
+
+3 tiếng đến 4 tiếng).
+
+Chụp động mạch được thực hiện khẩn cấp cho bệnh nhân STEMI, bệnh nhân đau ngực dai dẳng mặc dù đã điều trị nội khoa tối đa và bệnh nhân có các biến chứng (ví dụ: các chất chỉ điểm sinh học về tim tăng rõ rệt,
+
+sốc do tim
+
+,
+
+hở van hai lá
+
+cấp tính,
+
+thông liên thất
+
+, loạn nhịp tim không ổn định). Bệnh nhân có NSTEMI không biến chứng có các triệu chứng đã được giải quyết thường phải trải qua chụp mạch trong vòng 24 đến 48 giờ đầu tiên nhập viện để phát hiện tổn thương có thể cần điều trị.
+
+Phát hiện của MRI trong nhồi máu cơ tim
+
+Hình ảnh
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Sau khi đánh giá và điều trị ban đầu, chụp động mạch vành có thể được sử dụng ở những bệnh nhân có bằng chứng thiếu máu cục bộ đang diễn ra (các dấu hiệu hoặc triệu chứng trên ECG), huyết động không ổn định, nhịp nhanh thất tái phát và các bất thường khác gợi ý tái phát các biến cố thiếu máu cục bộ. Một số chuyên gia cũng khuyên rằng chụp mạch phải được thực hiện trước khi xuất viện ở bệnh nhân STEMI với chứng thiếu máu do xơ vữa động dục gây ra trên hình ảnh căng thẳng hoặc một phân suất tống máu
+
+<
+
+40%.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Badertscher P, Boeddinghaus J, Nestelberger T, et al
+
+. Effect of Acute Coronary Syndrome Probability on Diagnostic and Prognostic Performance of High-Sensitivity Cardiac Troponin.
+
+Clin Chem
+
+2018;64(3):515-525. doi:10.1373/clinchem.2017.279513
+
+Điều trị MI cấp tính
+
+Chăm sóc trước viện: Oxy, aspirin, nitrat, để đưa bệnh nhân tới một trung tâm y tế thích hợp
+
+Điều trị bằng thuốc: Thuốc chống kết tập tiểu cầu, thuốc chống đau thắt ngực, thuốc chống đông máu và trong một số trường hợp các loại thuốc khác
+
+Liệu pháp tái tưới máu: Sử dụng thuốc tiêu sợi huyết hoặc chụp động mạch với can thiệp mạch vành hoặc phẫu thuật bắc cầu động mạch vành
+
+Phục hồi chức năng sau xuất viện và quản lý bệnh động mạch vành mạn tính
+
+Lựa chọn
+
+điều trị bằng thuốc
+
+và lựa chọn
+
+chiến lược tái tưới máu
+
+sẽ được thảo luận ở phần khác.
+
+Chăm sóc trước viện
+
+Oxy
+
+Aspirin
+
+Nitrat
+
+Đưa bệnh nhân đến trung tâm y tế thích hợp
+
+Phải thiết lập một tuyến đường tĩnh mạch đáng tin cậy, cung cấp oxy (điển hình là 2 L bằng cannula mũi) và bắt đầu theo dõi ECG đơn. Các biện pháp can thiệp trước khi đến viện của nhân viên y tế cấp cứu (bao gồm ECG, nhai aspirin [160 mg đến 325 mg] và kiểm soát cơn đau bằng nhóm nitrat) có thể làm giảm nguy cơ tử vong và biến chứng. Chẩn đoán sớm và đáp ứng với điều trị có thể giúp xác định thời gian cần can thiệp
+
+tái tạo mạch vành
+
+.
+
+Nhập viện điều trị
+
+Phân tầng nguy cơ bệnh nhân và lựa chọn chiến lược tái tưới máu mạch vành
+
+Điều trị bằng thuốc có thuốc chống kết tập tiểu cầu, thuốc chống đông máu và các loại thuốc khác dựa trên chiến lược tái tưới máu
+
+Khi đến khoa cấp cứu, chẩn đoán của bệnh nhân được xác nhận. Điều trị bằng thuốc và xác định thời gian tái thông mạch máu phụ thuộc vào bệnh cảnh lâm sàng và chẩn đoán.
+
+Đối với nhồi máu cơ tim ST chênh lên, chiến lược tái tưới máu có thể bao gồm điều trị bằng tiêu sợi huyết hoặc can thiệp động mạch vành qua da ngay lập tức. Đối với bệnh nhân nhồi máu cơ tim ST không chênh, chụp mạch có thể được thực hiện trong vòng 24 đến 48 giờ nhập viện nếu bệnh nhân ổn định lâm sàng. Nếu bệnh nhân không ổn định (ví dụ: các triệu chứng tiếp diễn, hạ huyết áp hoặc loạn nhịp kéo dài), thì phải chụp động mạch ngay lập tức (xem hình
+
+Tiếp cận nhồi máu cơ tim
+
+).
+
+Tiếp cận với nhồi máu cơ tim
+
+*
+
+Morphine
+
+nên được sử dụng một cách thận trọng (ví dụ, nếu
+
+nitroglycerin
+
+chống chỉ định hoặc nếu bệnh nhân có các triệu chứng
+
+nitroglycerin
+
+điều trị). Dữ liệu cho thấy rằng
+
+morphin
+
+làm suy giảm tác dụng của một số chất ức chế thụ thể P2Y12 và có thể góp phần làm cho kết quả điều trị của bệnh nhân trầm trọng hơn.
+
+† Biến chứng có nghĩa là do đau thắt ngực hoặc nhồi máu tái phát, suy tim hay loạn nhịp thất. Sự vắng mặt của bất kỳ sự kiện nào ở trên được gọi là không biến chứng.
+
+‡ CABG thường ưu tiên hơn can thiệp động mạch vành qua da cho bệnh nhân hơn trong những trường hợp sau:
+
+Tổn thương thân chung động mạch vành hoặc các nhánh tương đương thân chung
+
+Rối loạn chức năng thất trái
+
+Bệnh tiểu đường
+
+Ngoài ra, các tổn thương dài hoặc gần chỗ chi đôi thường không phù hợp với PCI.
+
+CABG = ghép bắc cầu động mạch vành; GP = glycoprotein; NSTEMI = Nhồi máu cơ tim không đoạn ST chênh; PCI = can thiệp qua da; STEMI = Nhồi máu cơ tim đoạn ST chênh.
+
+Điều trị bằng thuốc trong nhồi máu cơ tim cấp
+
+Tất cả bệnh nhân cần phải được dùng
+
+thuốc chống kết tập tiểu cầu
+
+,
+
+thuốc chống đông máu
+
+và nếu có đau ngực, thuốc chống đau thắt ngực. Các loại thuốc cụ thể được sử dụng phụ thuộc vào chiến lược tái tưới máu và các yếu tố khác; việc lựa chọn và sử dụng chúng được thảo luận trong phần
+
+Thuốc điều trị hội chứng mạch vành cấp tính
+
+. Các loại thuốc khác, chẳng hạn như thuốc chẹn beta, thuốc ức chế men chuyển angiotensin (ACE) và nhóm statin, cũng nên được dùng (xem bảng
+
+Thuốc điều trị bệnh động mạch vành
+
+).
+
+Bệnh nhân nhồi máu cơ tim cấp tính cần được tiêm dưới đây (trừ khi không được chống chỉ định):
+
+Thuốc chống kết tập tiểu cầu
+
+: Aspirin, clopidogrel, hoặc cả hai (prasugrel hoặc ticagrelor là các lựa chọn thay thế cho
+
+clopidogrel
+
+)
+
+Thuốc chống đông máu
+
+:
+
+Heparin
+
+(
+
+heparin
+
+không phân đoạn hoặc trọng lượng phân tử thấp) hoặc bivalirudin
+
+Thuốc ức chế glycoprotein IIb/IIIa khi PCI được thực hiện
+
+thuốc giảm đau thường là nitroglycerin
+
+Thuốc chẹn beta
+
+Chất ức chế ACE
+
+Statin
+
+Tất cả bệnh nhân được cho dùng
+
+aspirin
+
+160 mg đến 325 mg (không bao tan trong ruột), nếu không có chống chỉ định, ngay khi đến khám và 81 mg một lần/ngày vô thời hạn sau đó. Nhai liều đầu tiên trước khi nuốt để hấp thụ nhanh chóng.
+
+Aspirin
+
+làm giảm nguy cơ tử vong trong ngắn hạn và dài hạn.
+
+Ở những bệnh nhân được thực hiện PCI, một liều nạp clopidogrel (300 đến 600 mg uống một lần), prasugrel (60 mg uống một lần) hoặc ticagrelor (180 mg uống một lần) cải thiện kết cục, đặc biệt là khi được cho dùng sớm trước 24 tiếng. Đối với PCI khẩn cấp,
+
+prasugrel
+
+và
+
+ticagrelor
+
+bắt đầu nhanh hơn và có thể được ưu tiên hơn.
+
+Heparin
+
+trọng lượng phân tử thấp (LMWH), heparin không phân đoạn hoặc bivalirudin được cho dùng thường xuyên cho bệnh nhân trừ khi có chống chỉ định (ví dụ: do đang chảy máu).
+
+Heparin
+
+không phân đoạn sử dụng phức tạp hơn vì nó đòi hỏi phải điều chỉnh liều thường xuyên (6 tiếng một lần) để đạt được thời gian thromboplastin riêng phần được kích hoạt mục tiêu (aPTT). Heparin trọng lượng phân tử thấp có sinh khả dụng tốt hơn, được cho dùng theo liều đơn thuần dựa trên cân nặng mà không cần theo dõi aPTT và chuẩn độ liều và có ít nguy cơ
+
+giảm tiểu cầu do heparin hơn
+
+. Bivalirudin được khuyến nghị cho những bệnh nhân đã biết hoặc nghi ngờ có tiền sử giảm tiểu cầu do
+
+heparin
+
+. Thuốc chống đông máu được tiếp tục cho:
+
+Kéo dài PCI ở bệnh nhân trải qua thủ thuật này
+
+Thời gian nằm viện (ở bệnh nhân dùng LMWH) hoặc 48 giờ (ở bệnh nhân dùng heparin không phân đoạn)
+
+Cân nhắc dùng thuốc ức chế glycoprotein IIb/IIIa trong PCI cho bệnh nhân có tổn thương nguy cơ cao (gánh nặng huyết khối cao, không có dòng chảy ngược). Abciximab, tirofiban, và eptifibatide dường như có hiệu quả tương đương, và sự lựa chọn thuốc nên phụ thuộc vào các yếu tố khác (ví dụ chi phí, tình trạng sẵn có, quen thuộc). Thuốc ức chế glycoprotein IIb/IIIa được tiếp tục trong 6 tiếng đến 24 tiếng.
+
+Đau ngực có thể được điều trị bằng nitroglycerin hoặc đôi khi là morphine.
+
+Nitroglycerin
+
+thích hợp hơn
+
+morphin
+
+, nên sử dụng thận trọng (ví dụ: nếu bệnh nhân có chống chỉ định với
+
+nitroglycerin
+
+hoặc bị đau mặc dù điều trị bằng
+
+nitroglycerin
+
+).
+
+Nitroglycerin
+
+ban đầu được ngậm dưới lưỡi, tiếp theo là tưới máu IV liên tục nếu cần.
+
+Morphine
+
+từ 2 mg đến 4 mg đường tĩnh mạch, lặp lại 15 phút một lần nếu cần, có hiệu quả cao nhưng có thể ức chế hô hấp, có thể làm giảm khả năng co bóp cơ tim và là thuốc giãn mạch tĩnh mạch mạnh. Bằng chứng cũng cho thấy rằng việc sử dụng
+
+morphin
+
+làm ảnh hưởng đến một số chất ức chế thụ thể P2Y12. Một thử nghiệm hồi cứu quy mô lớn cho thấy
+
+morphin
+
+có thể làm tăng tỷ lệ tử vong ở bệnh nhân nhồi máu cơ tim cấp tính (
+
+1, 2
+
+). Hạ huyết áp và nhịp tim chậm thứ phát do
+
+morphine
+
+thường có thể được khắc phục bằng cách nhanh chóng nâng cao các chi dưới.
+
+Tiêu chuẩn điều trị cho tất cả các bệnh nhân đau thắt ngực không ổn định bao gồm thuốc chẹn beta, thuốc ức chế ACE, và statin.
+
+Thuốc chẹn beta
+
+được khuyến nghị trừ khi có chống chỉ định (ví dụ: do nhịp tim chậm, block tim, hạ huyết áp hoặc hen suyễn), đặc biệt là đối với những bệnh nhân có nguy cơ cao. Thuốc chẹn beta làm giảm nhịp tim, áp lực động mạch và co bóp cơ tim, do đó làm sức làm việc cơ tim và làm giảm nhu cầu oxy của cơ tim.
+
+Thuốc ức chế men chuyên
+
+có thể cung cấp sự bảo vệ tim mạch dài hạn bằng cách cải thiện chức năng nội mạc. Nếu một thuốc ức chế ACE không dung nạp được vì ho hoặc phát ban (nhưng không phù mạch hoặc rối loạn chức năng thận), một
+
+thuốc chẹn thụ thể angiotensin II
+
+có thể được thay thế. Nhóm
+
+statin
+
+cũng là điều trị tiêu chuẩn bất kể nồng độ lipid (
+
+3
+
+) và liệu MI có phải do ASCVD gây ra hay không và nên tiếp tục vô thời hạn.
+
+Tái tưới máu mạch vành trong nhồi máu cơ tim cấp tính
+
+Đối với bệnh nhân STEMI: Can thiệp động mạch vành qua da hoặc tiêu sợi huyết ngay lập tức
+
+Đối với bệnh nhân NSTEMI: Can thiệp mạch vành ngay cho bệnh nhân không ổn định hoặc trong vòng 24 đến 48 giờ đối với bệnh nhân ổn định
+
+Đối với
+
+bệnh nhân bị STEMI,
+
+PCI cấp cứu là phương pháp điều trị ưu tiên đối với nhồi máu cơ tim đoạn ST chênh khi có sẵn một cách kịp thời (thời gian từ khi đến bệnh viện đến khi bơm phồng bóng
+
+<
+
+90 phút) bởi người thực hiện có kinh nghiệm (
+
+4
+
+). Nếu có khả năng có sự chậm trễ đáng kể về sự có sẵn của PCI, nên thực hiện việc thuốc tiêu sợi huyết cho các bệnh nhân STEMI đáp ứng các tiêu chí (xem
+
+Mở rộng của nhồi máu
+
+). Tái tưới máu động mạch vành bằng các thuốc tiêu sợi huyết hiệu quả nhất nếu được đưa ra trong vài phút đầu tiên sau vài giờ sau khi xuất hiện nhồi máu cơ tim. Thuốc tiêu sợi huyết được sử dụng càng sớm cảng tốt. Mục tiêu là thời gian từ cửa đến kim là 30 đến 60 phút. Lợi ích lớn nhất xảy ra trong vòng 3 giờ, nhưng thuốc có thể có hiệu quả đến 12 giờ. Đặc điểm và lựa chọn
+
+thuốc tiêu sợi huyết
+
+được thảo luận ở phần khác.
+
+Các bệnh nhân có NSTEMI
+
+không ổn định (tức là những người có triệu chứng đau ngực đang diễn ra, hạ huyết áp, hoặc loạn nhịp tim kéo dài) cần phải được đưa trực tiếp đến phòng thông tim để xác định ccas tổn thương mạch vành cần PCI hoặc cần phẫu thuật bắc cầu động mạch vành (CABG).
+
+Đối với
+
+bệnh nhân NSTEMI không biến chứng,
+
+, tái tưới máu ngay lập tức không phải là khẩn cấp bởi vì động mạch liên quan đến nhồi máu bị tắc hoàn toàn vào thời điểm hiện tại là hiếm gặp. Những bệnh nhân này thường được chụp động mạch vành trong vòng 24 đến 48 giờ đầu tiên nhập viện để xác định tổn thương mạch vành đòi hỏi PCI hoặc CABG.
+
+Tiêu sợi huyết không được chỉ định cho bất kỳ bệnh nhân nào bị NSTEMI. Rủi ro lớn hơn lợi ích.
+
+Sự lựa chọn của phương pháp tái tưới máu mạch vành được thảo luận sâu hơn trong
+
+tái thông mạch vành cho Hội chứng vành Cấp tính
+
+.
+
+Phục hồi chức năng và điều trị sau xuất viện
+
+Đánh giá chức năng
+
+Thay đổi lối sống: Tập thể dục thường xuyên, thay đổi chế độ ăn kiêng, giảm cân, ngừng hút thuốc
+
+Thuốc: Tiếp tục dùng thuốc chống kết tập tiểu cầu, thuốc chẹn beta, thuốc ức chế ACE và nhóm statin
+
+Bệnh nhân không chụp mạch vành trong thời gian nhập viện, không có các đặc điểm nguy cơ cao (ví dụ như suy tim, đau thắt ngực tái phát, nhịp tim nhanh hoặc rung thất sau 24 giờ, các biến chứng cơ học như tiếng thổi, sốc tim) và có phân suất tống máu
+
+>
+
+40% dù họ có được điều trị thuốc tiêu sợi huyết thường cần phải nghiệm pháp gắng sức trước hoặc ngay sau khi xuất viện (xem bảng
+
+Đánh giá chức năng sau nhồi máu cơ tim
+
+).
+
+Bảng
+
+Đánh giá chức năng Sau nhồi máu cơ tim
+
+Đánh giá chức năng Sau nhồi máu cơ tim
+
+Khả năng tập thể dục
+
+Nếu điện tâm đồ có thể giải thích được
+
+Nếu điện tâm đồ không thể giải thích được
+
+Có thể tập thể dục
+
+điện tâm đồ gắng sức trước khi xuất viện để biết khả năng gắng sức tối đa
+
+siêu âm tim gắng sức hoặc chụp bằng phóng xạ
+
+Không thể tập thể dục
+
+Thử nghiệm gắng sức với thuốc (siêu âm tim hoặc quét hạt nhân)
+
+Thử nghiệm gắng sức với thuốc (siêu âm tim hoặc quét hạt nhân)
+
+Điều trị các bệnh cấp tính và điều trị nhồi máu cơ tim thì việc thay đổi các yếu tố nguy cơ là rất quan trọng, nên giáo dục bệnh nhân. Đánh giá tình trạng thể chất và tình cảm của bệnh nhân và thảo luận với bệnh nhân, tư vấn về lối sống (ví dụ như hút thuốc, chế độ ăn uống, thói quen làm việc và tập thể dục, tập thể dục) và quản lý các yếu tố nguy cơ tích cực có thể cải thiện tiên lượng.
+
+Khi xuất viện, tất cả bệnh nhân nên dùng thuốc chống kết tập tiểu cầu, nhóm statin, thuốc chống đau thắt ngực thích hợp và các loại thuốc khác tùy theo bệnh đi kèm.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Meine TJ, Roe MT, Chen AY, et al
+
+: Association of intravenous
+
+morphine
+
+use and outcomes in acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative.
+
+Am Heart J
+
+149(6):1043–1049, 2005. doi 10.1016/j.ahj.2005.02.010
+
+2.
+
+Kubica J, Adamski P, Ostrowska M, et al
+
+:
+
+Morphine
+
+delays and attenuates
+
+ticagrelor
+
+exposure and action in patients with myocardial infarction: the randomized, double-blind, placebo-controlled IMPRESSION trial.
+
+Eur Heart J
+
+37(3):245–252, 2016. doi: 10.1093/eurheartj/ehv547
+
+3.
+
+Wang WT, Hellkamp A, Doll JA, et al
+
+. Lipid Testing and Statin Dosing After Acute Myocardial Infarction. J Am Heart Assoc. 2018;7(3):e006460. Xuất bản ngày 25 tháng 1 năm 2018. doi:10.1161/JAHA.117.006460
+
+4.
+
+Lawton JS, Tamis-Holland JE, Bangalore S, et al
+
+: 2021 ACC/AHA/SCAI guideline for coronary artery revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines.
+
+J Am Coll Cardiol
+
+79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
+
+Tiên lượng về MI cấp tính
+
+Nguy cơ cần phải được ước tính thông qua điểm nguy cơ trên lâm sàng chính thức (ví dụ: Huyết khối trong nhồi máu cơ tim [TIMI] – xem bảng
+
+Nguy cơ tử vong ở thời điểm 30 ngày trong STEMI
+
+và
+
+Nguy cơ bị các biến cố bất lợi ở thời điểm 14 ngày trong đau thắt ngực không ổn định hoặc NSTEMI
+
+) hoặc kết hợp các đặc điểm nguy cơ cao sau đây:
+
+Đau ngực/thiếu máu cục bộ tái phát lúc nghỉ ngơi hoặc trong hoạt động ở mức độ thấp
+
+Suy tim
+
+hở hai lá tồi tệ hơn
+
+Test gắng sức có nguy cơ cao (thử nghiệm dừng lại ở ≤ 5 phút do triệu chứng, dấu hiệu ECG bất thường, hạ huyết áp, hoặc rối loạn nhịp thất phức tạp)
+
+Huyết động không ổn định
+
+Nhịp nhanh thất bền bỉ
+
+Đái tháo đường
+
+PCI trong vòng 6 tháng qua
+
+Ghép bắc cầu động mạch vành trước (CABG)
+
+Phân suất tống máu < 0,40
+
+Tỷ lệ tử vong chung trước kỷ nguyên hiện đại của điều trị bằng thuốc tiêu sợi huyết và PCI là khoảng 30%, với 25% đến 30% số bệnh nhân không được dùng thuốc tiêu sợi huyết hoặc PCI tử vong trước khi đến bệnh viện (thường là do
+
+rung thất
+
+). Tỷ lệ tử vong tại bệnh viện thường là do
+
+sốc do tim
+
+, tương quan với mức độ nặng của suy thất trái. Phân loại Killip phân loại bệnh nhân nhồi máu cơ tim cấp tính dựa trên kết quả khám thực thể gợi ý suy thất trái và điểm số cao hơn dự đoán nguy cơ tử vong cao hơn (
+
+1
+
+) (xem bảng
+
+Phân loại Killip và tỷ lệ tử vong của nhồi máu cơ tim cấp tính
+
+). Hầu hết các bệnh nhân chết vì sốc tim đều có một cơn nhồi máu hoặc kết hợp sẹo và nhồi máu mới ảnh hưởng
+
+≥
+
+50% khối lượng LV.
+
+Đối với những bệnh nhân được tái tưới máu (tiêu hủy fibrin hoặc PCI), tỷ lệ tử vong tại bệnh viện là khoảng 5% (
+
+2
+
+). Tỷ lệ tử vong tại bệnh viện đối với NSTEMI nhìn chung thấp hơn so với STEMI.
+
+Tỷ lệ tử vong có xu hướng cao hơn ở nữ giới và ở bệnh nhân tiểu đường.
+
+Hầu hết các trường hợp tử vong ở những bệnh nhân sống sót sau lần nhập viện đầu tiên xảy ra trong 3 tháng đến 4 tháng đầu. Loạn nhịp thất dai dăng, suy tim, chức năng tâm thất kém và thiếu máu cục bộ tái phát biểu hiện nguy cơ cao tử vong. Nhiều cơ quan chức năng khuyến nghị ECG gắng sức trước khi xuất viện hoặc trong vòng 6 tuần sau nhồi máu cơ tim. Hoạt động thể dục tốt mà không có bất thường về ECG kết hợp thường là tiên lượng thuận lợi; đánh giá thêm thường không bắt buộc. Thực hiện kiểm tra gắng sức kém có liên quan đến tiên lượng xấu.
+
+Hoạt động của tim sau khi hồi phục phụ thuộc phần lớn vào việc hoạt động của cơ tim hoạt động như thế nào. Tổn thương cấp tính thêm vào các vết sẹo từ những lần nhồi máu trước. Khi rối loạn chức năng thất trái nặng thì thời gian sống thêm lâu dài sẽ thấp hơn.
+
+Bảng
+
+Phân độ Killip của Nhồi máu cơ tim cấp tính*
+
+Bảng
+
+Phân độ Killip của Nhồi máu cơ tim cấp tính*
+
+Phân độ Killip của Nhồi máu cơ tim cấp tính*
+
+phân nhóm
+
+PAO2†
+
+Mô tả bệnh cảnh lâm sàng
+
+1
+
+Bình thường
+
+Không có bằng chứng lâm sàng suy thất trái (LV)
+
+2
+
+Hơi giảm
+
+suy thất trái mức độ nhẹ tới trung bình
+
+3
+
+Khác thường
+
+suy thất trái nặng, phù phổi
+
+4
+
+Bất thường nghiêm trọng
+
+Shock tim: hạ huyết áp, nhịp tim nhanh, nhồi máu cơ tim, đầu chi, thiểu niệu, giảm oxy máu
+
+* Xác định bằng cách thăm khám lại bệnh nhân trong suốt quá trình điều trị bệnh.
+
+† Xác định trong khi bệnh nhân thở không khí phòng.
+
+Sửa đổi từ phân độ Killip T, Kimball JT: Điều trị nhồi máu cơ tim trong một đơn vị chăm sóc mạch vành. Một kinh nghiệm hai năm với 250 bệnh nhân.
+
+The American Journal of Cardiology
+
+20:457–464, 1967.
+
+* Xác định bằng cách thăm khám lại bệnh nhân trong suốt quá trình điều trị bệnh.
+
+† Xác định trong khi bệnh nhân thở không khí phòng.
+
+Sửa đổi từ phân độ Killip T, Kimball JT: Điều trị nhồi máu cơ tim trong một đơn vị chăm sóc mạch vành. Một kinh nghiệm hai năm với 250 bệnh nhân.
+
+The American Journal of Cardiology
+
+20:457–464, 1967.
+
+Bảng
+
+Nguy cơ tử vong ở 30 ngày trong nhồi máu cơ tim ST chênh lên
+
+Bảng
+
+Nguy cơ tử vong ở 30 ngày trong nhồi máu cơ tim ST chênh lên
+
+Nguy cơ tử vong ở 30 ngày trong nhồi máu cơ tim ST chênh lên
+
+Yếu tố Nguy cơ
+
+Điểm
+
+Tuổi
+
+≥
+
+75
+
+3
+
+Tuổi 65-74
+
+2
+
+Bệnh tiểu đường, cao huyết áp, hoặc đau thắt ngực
+
+1
+
+Huyết áp tâm thu
+
+<
+
+100 mm Hg
+
+3
+
+Nhịp tim
+
+>
+
+100 nhịp/phút
+
+2
+
+Killip lớp II-IV
+
+2
+
+Cân nặng
+
+<
+
+67 kg
+
+1
+
+ST chênh lên thành trước hoặc block nhánh trái
+
+1
+
+Thời gian đến khi điều trị
+
+>
+
+4 giờ
+
+1
+
+Tổng số điểm có thể
+
+0–14
+
+Rủi ro
+
+Tổng số điểm
+
+Tỷ lệ tử vong ở 30 ngày (%)
+
+0
+
+0,8
+
+1
+
+1,6
+
+2
+
+2,2
+
+3
+
+4,4
+
+4
+
+7,3
+
+5
+
+12,4
+
+6
+
+16,1
+
+7
+
+23,4
+
+8…
+
+26,8
+
+>
+
+8
+
+35,9
+
+MI = nhồi máu cơ tim; STEMI
+
+=
+
+nhồi máu cơ tim ST chênh lên; TIMI
+
+=
+
+thang điểm TIMI trong nhồi máu cơ tim.
+
+Dựa trên dữ liệu từ Morrow DA và các cộng sự: Thang điểm TIMI tính nguy cơ cho nhồi máu cơ tim có ST chênh lên: tính thuận tiện, bên cạnh, lâm sàng để đánh giá rủi ro.
+
+Circulation
+
+102 (17):2031–2037, 2000 and ACC/AHA guidelines for the management of patients with acute myocardial infarction.
+
+MI = nhồi máu cơ tim; STEMI
+
+=
+
+nhồi máu cơ tim ST chênh lên; TIMI
+
+=
+
+thang điểm TIMI trong nhồi máu cơ tim.
+
+Dựa trên dữ liệu từ Morrow DA và các cộng sự: Thang điểm TIMI tính nguy cơ cho nhồi máu cơ tim có ST chênh lên: tính thuận tiện, bên cạnh, lâm sàng để đánh giá rủi ro.
+
+Circulation
+
+102 (17):2031–2037, 2000 and ACC/AHA guidelines for the management of patients with acute myocardial infarction.
+
+Bảng
+
+Nguy cơ bị các biến cố bất lợi* ở thời điểm 14 ngày trên bệnh nhân đau thắt ngực không ổn định hoặc NSTEMI
+
+Bảng
+
+Nguy cơ bị các biến cố bất lợi* ở thời điểm 14 ngày trên bệnh nhân đau thắt ngực không ổn định hoặc NSTEMI
+
+Nguy cơ bị các biến cố bất lợi* ở thời điểm 14 ngày trên bệnh nhân đau thắt ngực không ổn định hoặc NSTEMI
+
+tính điểm
+
+Yếu tố Nguy cơ
+
+Điểm
+
+>
+
+65 tuổi
+
+1
+
+Các yếu tố nguy cơ bệnh CAD (phải có
+
+≥
+
+3 cho 1 điểm):
+
+Tiền sử gia đình
+
+Tăng huyết áp
+
+Hiện có hút thuốc
+
+Cholesterol cao
+
+Đái tháo đường
+
+1
+
+CAD đã biết (hẹp
+
+≥
+
+50%)
+
+1
+
+Sử dụng aspirin mạn tính trước đây
+
+1
+
+Hai cơn đau thắt ngực trong 24 tiếng qua
+
+1
+
+Tăng các chất chỉ điểm về tim
+
+1
+
+ST chênh
+
+≥
+
+0,5 mm
+
+1
+
+Mức độ rủi ro dựa trên tổng số điểm:
+
+1–2
+
+=
+
+thấp
+
+3–4
+
+=
+
+trung bình
+
+5–7
+
+=
+
+cao
+
+Nguy cơ tuyệt đối
+
+Tổng số điểm
+
+Nguy cơ biến cố trong 14 ngày (%)*
+
+0 hoặc 1
+
+4,7
+
+2
+
+8,3
+
+3
+
+13,2
+
+4
+
+19,9
+
+5
+
+26,2
+
+6 hoặc 7
+
+40,9
+
+* Biến cố bao gồm tử vong do mọi nguyên nhân, nhồi máu cơ tim, và thiếu máu cục bộ tái phát đòi hỏi phải can thiệp khẩn cấp.
+
+CAD
+
+=
+
+bệnh động mạch vành; MI = nhồi máu cơ tim; NSTEMI
+
+=
+
+nhồi máu cơ tim ST không chênh; TIMI
+
+=
+
+thang điểm TIMI.
+
+Dựa vào dữ liệu của Antman EM và cộng sự: Điểm số nguy cơ TIMI đối với chứng đau thắt ngực không ổn định/nhồi máu cơ tim ST không chênh: Một phương pháp tiên lượng và đưa quyết định điều trị.
+
+JAMA
+
+284:835–42, 2000.
+
+* Biến cố bao gồm tử vong do mọi nguyên nhân, nhồi máu cơ tim, và thiếu máu cục bộ tái phát đòi hỏi phải can thiệp khẩn cấp.
+
+CAD
+
+=
+
+bệnh động mạch vành; MI = nhồi máu cơ tim; NSTEMI
+
+=
+
+nhồi máu cơ tim ST không chênh; TIMI
+
+=
+
+thang điểm TIMI.
+
+Dựa vào dữ liệu của Antman EM và cộng sự: Điểm số nguy cơ TIMI đối với chứng đau thắt ngực không ổn định/nhồi máu cơ tim ST không chênh: Một phương pháp tiên lượng và đưa quyết định điều trị.
+
+JAMA
+
+284:835–42, 2000.
+
+Công cụ tính toán lâm sàng
+
+Thang điểm TIMI cho bệnh nhân NMCT không ST chênh và đau ngực không ổn định.
+
+Công cụ tính toán lâm sàng
+
+Thang điểm TIMI cho NMCT ST chênh lên.
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+De Luca G, van 't Hof AW, de Boer MJ, et al
+
+. Impaired myocardial perfusion is a major explanation of the poor outcome observed in patients undergoing primary angioplasty for ST-segment-elevation myocardial infarction and signs of heart failure.
+
+Circulation
+
+2004;109(8):958-961. doi:10.1161/01.CIR.0000120504.31457.28
+
+2.
+
+Roe MT, Messenger JC, Weintraub WS, et al
+
+. Treatments, trends, and outcomes of acute myocardial infarction and percutaneous coronary intervention. J Am Coll Cardiol. 2010;56(4):254-263. doi:10.1016/j.jacc.2010.05.008
+
+Những điểm chính
+
+Nhồi máu cơ tim cấp tính (MI) là hoại tử cơ tim của mô cơ tim do tắc nghẽn cấp tính động mạch vành.
+
+Xơ vữa động mạch vành gặp ở 95% số bệnh nhân nhồi máu cơ tim cấp.
+
+Vị trí nhồi máu (tâm thất phải, dưới sau hoặc phía trước) và mức độ lan rộng (xuyên thành hoặc không xuyên thành) ảnh hưởng đến triệu chứng, điều trị và tiên lượng.
+
+Các triệu chứng thường bao gồm đau hoặc áp lực dưới xương ức (có hoặc không có tia xạ đến cổ, lưng hoặc cánh tay), khó thở, toát mồ hôi, buồn nôn và/hoặc nôn.
+
+Phụ nữ, người cao tuổi và bệnh nhân tiểu đường có nhiều khả năng có các triệu chứng không điển hình hơn và 20% số trường hợp nhồi máu cơ tim cấp tính diễn ra thầm lặng (không có triệu chứng).
+
+Chẩn đoán bằng ECG tuần tự và chất chỉ điểm sinh học tim (ưu tiên troponin).
+
+Điều trị ngay bằng oxy, thuốc chống kết tập tiểu cầu, nitrat và thuốc chống đông máu.
+
+Đối với bệnh nhân nhồi máu cơ tim cấp ST chênh lên (STEMI), điều trị bằng chụp động mạch ngay lập tức và can thiệp mạch vành qua da (PCI); nếu không có PCI ngay lập tức, dùng thuốc tiêu sợi huyết qua đường tĩnh mạch.
+
+Đối với bệnh nhân có đoạn ST chênh lên, thực hiện chụp động mạch và PCI trong vòng 24 giờ đến 48 giờ nếu tình trạng ổn định; thực hiện PCI ngay lập tức cho bệnh nhân không ổn định (đau ngực dai dẳng, hạ huyết áp, loạn nhịp không ổn định hoặc chất chỉ điểm sinh học tăng cao rõ rệt).
+
+Bắt đầu hoặc tiếp tục dùng thuốc chống kết tập tiểu cầu, thuốc chẹn beta, thuốc ức chế ACE (hoặc thuốc ức chế thụ thể angiotensin II) và statin sau lần điều trị ban đầu.
+
+Sau khi xuất viện, sắp xếp đánh giá chức năng, kiểm soát các yếu tố nguy cơ (ví dụ: tăng huyết áp, tiểu đường, hút thuốc) và thúc đẩy chế độ ăn uống và tập thể dục lành mạnh.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của MI cấp tính ---
+
+Nhồi máu cơ tim được định nghĩa là hoại tử cơ tim trong một bệnh cảnh lâm sàng phù hợp với thiếu máu cục cơ tim (1). Những điều kiện này có thể được thỏa mãn bởi sự gia tăngmen tim(tốt nhất là men tim troponin [cTn]) trên phần trăm thứ 99 của giới hạn trên (URL) cộng với ít nhất một trong các cách sau:Triệu chứng thiếu máu cục bộ cơ timECG thay đổi cho thấy thiếu máu cục bộ mới (thay đổi ST/T đáng kể hoặcblock nhánh trái)Xuất hiện sóng Q hoại tửHình ảnh bằng chứng về sự mất mát mới của cơ tim hoặc chứng bất thường chuyển động khu vực mới của cơ timchụp động mạch vành hoặc bằng chứng tử thi bằng huyết khối nội mạch vànhCác tiêu chuẩn khác nhau được sử dụng để chẩn đoán nhồi máu cơ tim trong và sau khi can thiệp động mạch vành hoặc phẫu thuật bắc cầu nối chủ vành, và như nguyên nhân gây tử vong đột ngột.MI có thể được phân thành 5 loại dựa trên nguyên nhân và hoàn cảnh (1):Loại 1: Nhồi máu cơ tim tự phát xảy ra khi mảng xơ vữa bị nứt vỡ, xói mòn,loét hoặc tách gây ra huyết khối một hoặc nhiều nhánh mạch vành gây thiếu máu cơ timDạng 2: Thiếu máu cục bộ do nhu cầu oxy tăng (ví dụ, cao huyết áp), hoặc giảm cung (ví dụ như co thắt động mạch vành, tắc nghẽn, hạ huyết áp)Loại 3: Liên quan đến đột tử do timLoại 4a: Liên quan đến can thiệp mạch vành qua da (dấu hiệu và triệu chứng của nhồi máu cơ tim với giá trị cTn > 5×URL phân vị thứ 99)Loại 4b: Có liên quan đến chứng huyết khối động trong stent động mạch vànhLoại 5: Liên quan đến phẫu thuật bắc cầu động mạch vành (dấu hiệu và triệu chứng của nhồi máu cơ tim với giá trị cTn > 10×URL phân vị thứ 99)Vị trí nhồi máu cơ timNhồi máu cơ tim ảnh hưởng chủ yếu đến tâm thất trái (LV), nhưng tổn thương có thể lan tới tâm thất phải (RV) hoặc tâm nhĩ.Nhồi máu cơ tim thất phảithường là kết quả của tắc nghẽn động mạch vành phải hoặc động mạch mũ; nó được đặc trưng bởi áp lực làm đầy thất phải cao, thường có sự xuất hiệnhở van ba lánặng và giảm cung lượng tim.Nhồi máu cơ tim thành sau dướigây ra một số mức độ rối loạn chức năng thất phải ở khoảng một nửa số bệnh nhân và gây ra bất thường huyết động trong 10 đến 15%. Rối loạn chức năng thất phải nên được xem xét ở bất kỳ bệnh nhân nào bị nhồi máu cơ tim thành sau dưới và nâng cao áp lực tĩnh mạch cảnh trong với sốc hoặc tụt huyết áp. Nhồi máu thất phải làm biến chứng nhồi máu thất trái làm tăng đáng kể nguy cơ tử vong (2).Nhồi máu thành trướccó xu hướng lớn hơn và dẫn đến tiên lượng xấu hơn so với nhồi máu cơ tim thành sau dưới. Chúng thường do tắc nghẽn động mạch vành trái, đặc biệt là ở động mạch liên thất trước; nhồi máu thành sau dưới phản ánh tắc động mạch vành phải hoặc tắc động mạch mũ ưu năng.mở rộng vùng nhồi máuNhồi máu có thể làXuyên thànhKhông xuyên thànhNhồi máu xuyên thành bao gồm toàn bộ chiều dày của cơ tim từ màng ngoài tim và nội mạc tử cung thường có đặc trưng bởi sóng Q bất thường trên ECG.Nhồi máu không xuyên thành (bao gồm nhồi máu dưới nội mạc) không lan rộng qua thành thất và chỉ gây ra những bất thường ở đoạn ST và sóng T (ST-T). Nhồi máu cơ tim dưới nội mạc thường liên quan đến một phần ba cơ tim, nơi mà sức căng cơ tim trên tường cao nhất và lưu lượng máu của cơ tim là dễ bị tổn thương nhất đối với những thay đổi tuần hoàn. Nhồi máu này có thể theo sau bởi hạ huyết áp kéo dài.Do không thể xác định chính xác được độ sâu hoại tử của vùng cơ tim hoại tử, các trường hợp nhồi máu thường được phân loại là STEMI hoặc NSTEMI theo sự có mặt hoặc không có độ cao của đoạn ST chênh lên hoặc sóng Q trên ECG. Thể tích cơ tim bị phá hủy có thể được ước tính sơ bộ bằng mức độ và thời gian tăng creatine kinase (CK-MB) hoặc bằng mức đỉnh điểm của troponin tim được đo phổ biến hơn.Nhồi máu cơ tim không đoạn ST chênh(NSTEMI, MI dưới nội tâm mạc) là hoại tử cơ tim (được chứng minh bằngcác chất chỉ điểm sinh học về timtrong máu; troponin I hoặc troponin T và CK-MB sẽ tăng cao) mà không tăng ST cấp tính. ECG thay đổi như chênh xuống đoạn ST, đảo ngược sóng T, hoặc cả hai có thể có mặt.Nhồi máu cơ tim ST chênh lên(STEMI, MI xuyên thành) là hoại tử cơ tim có thay đổi ECG cho thấy đoạn ST chệnh lên và không đảo ngược bởi nitroglycerin. Troponin I hoặc troponin T và CK-MB tăng lên.Nhồi máu cơ tim không có bệnh động mạch vành (MINOCA)Nhồi máu cơ tim không có bệnh động mạch vành tắc nghẽn (MINOCA) được tìm thấy ở khoảng 5% đến 6% số bệnh nhân nhồi máu cơ tim cấp được chụp động mạch vành (3). Bệnh nhân mắc MINOCA có xu hướng trẻ hơn, nữ và không bị rối loạn lipid máu. Họ có xu hướng bị hoại tử cơ tim mà không có xơ vữa động mạch vành đáng kể. Vỡ mảng bám và co thắt mạch vành là phổ biến trong MINOCA. Huyết khối hoặc thuyên tắc mạch vành và bóc tách thành động mạch vành tự phát là nguyên nhân của MINOCA. Điều trị nội khoa cần phải dựa trên cơ chế cơ bản của MINOCA ở mỗi bệnh nhân.Tài liệu tham khảo sinh bệnh học1.Thygesen K, Alpert JS, Jaffe AS, et al: Fourth Universal Definition of Myocardial Infarction (2018).J Am Coll Cardiol72(18):2231–2264, 2018 doi:10.1016/j.jacc.2018.08.10382.Mehta SR, Eikelboom JW, Natarajan MK, et al. Impact of right ventricular involvement on mortality and morbidity in patients with inferior myocardial infarction.J Am Coll Cardiol37(1):37–43, 2001 doi:10.1016/s0735-1097(00)01089-53.Tamis-Holland JE, Jneid H, Reynolds HR, et al: Contemporary diagnosis and management of patients with myocardial infarction in the absence of obstructive coronary artery disease: A scientific statement from the American Heart Association.Circulation139:e891–e908, 2019. doi.org/10.1161/CIR.0000000000000670
+
+--- 2. Các triệu chứng và dấu hiệu của MI cấp tính ---
+
+Các triệu chứng của NSTEMI và STEMI đều giống nhau. Vài ngày đến vài tuần trước khi xảy ra biến cố, khoảng 2/3 số bệnh nhân gặp phải các triệu chứng tiền triệu, bao gồm đau thắt ngực không ổn định hoặcđau thắt ngực tăng dần, khó thở và mệt mỏi.Thông thường, triệu chứng đầu tiên của nhồi máu là đau ngực tức nặng, đau sâu sau xương ức, đau kiểu đau tạng được miêu tả là đau hoặc áp lực, thường xuyên phát ra ở lưng, hàm, cánh tay trái, cánh tay phải, vai, hoặc tất cả các khu vực này. Cơn đau tương tự nhưcơn đau thắt ngựcnhưng thường dữ dội hơn và kéo dài; thường kèm theo khó thở, toát mồ hôi, buồn nôn và/hoặc nôn; và thuyên giảm ít hoặc chỉ tạm thời khi nghỉ ngơi hoặc nitroglycerin.Tuy nhiên, cảm giác khó chịu có thể nhẹ; khoảng 20% số ca nhồi máu cơ tim cấp tính diễn ra thầm lặng (1). Nhồi máu cơ tim thầm lặng là những cơn không có triệu chứng hoặc gây ra các triệu chứng mơ hồ mà bệnh nhân không nhận ra là bệnh. Nhồi máu cơ tim thầm lặng thường xảy ra hơn ở bệnh nhân tiểu đường hoặc có tiền sử bệnh động mạch vành. Bệnh nhân thường giải thích sự khó chịu của họ như khó tiêu, đặc biệt là vì sự giảm nhẹ tự nhiên có thể bị giả mạo do ăn mòn hoặc quá axit. Thiếu máu thầm lặng đôi khi biểu hiện dưới dạng những thay đổi bất thường ST-T bất thường thấy trong quá trình thử nghiệm gắng sức hoặc theo dõi Holter 24 giờ. Nghiên cứu về phóng xạ phân tử đôi khi có thể cho thấy thiếu máu cơ tim không có triệu chứng trong lúc căng thẳng về thể chất hoặc tinh thần. Sự thiếu máu cục bộ và đau thắt ngực có thể cùng tồn tại, xảy ra ở những thời điểm khác nhau.Một số bệnh nhân có hiện tượng ngất.Phụ nữ có nhiều khả năng biểu hiện cảm giác khó chịu ở ngực không điển hình hơn; tuy nhiên, ngay cả khi xuất hiện các triệu chứng điển hình, nhồi máu cơ tim thường không được nhận biết ở họ (2). Bệnh nhân cao tuổi có thể có khó thở hơn đau ngực do thiếu máu cục bộ.Trong các trường hợp thiếu máu trầm trọng, bệnh nhân thường có đau đáng kể và cảm thấy bồn chồn và sợ hãi. Buồn nôn và nôn có thể xảy ra, đặc biệt với nhồi máu cơ tim thành dưới. Khó thở và suy nhược do suy giảm chức năng thất trái, phù phổi, sốc, loạn nhịp tim đáng kể có thể chiếm ưu thế.Da có thể nhợt nhạt, lạnh, và vã mồ hôi. Tím trung ương hoặc ngoại vi có thể xuất hiện. Mạch có thể yếu, và huyết áp có thể thay đổi, mặc dù nhiều bệnh nhân ban đầu có một số mức độ cao huyết áp trong đau đớn.Tiếng tim thường hơi xa xăm; tiếng tim thứ tư hầu như có ở khắp nơi. Có thể xuất hiện tiếng thổi tâm thu nhẹ ở mỏm (phản ánh rối loạn chứng năng cơ nhú) có thể xảy ra. Trong lần kiểm tra ban đầu, một tiếng cọ hoặc những tiếng thổi mạnh gợi ý biến chứng nặng nề hoặc chẩn đoán khác. Phát hiện tiếng cọ màng tim trong vòng vài giờ sau khi xuất hiện các triệu chứng nhồi máu cơ tim cho thấyviêm màng ngoài timcấp tính hơn là nhồi máu cơ tim. Tuy nhiên, tiếng cọ màng tim, thường là không rõ ràng, thường xảy ra vào ngày thứ 2 và thứ 3 sau nhồi máu cơ tim ST chênh lên. Thành ngực bị đau khi sờ nắn ở một số bệnh nhân.Trong nhồi máu thất phải (RV), dấu hiệu bao gồm áp lực làm đầy RV, tĩnh mạch cổ giãn (thường vớiDấu Kussmaul), nghe phổi trong, và hạ huyết áp.Tài liệu tham khảo về các dấu hiệu và triệu chứng1.Parmley WW. Prevalence and clinical significance of silent myocardial ischemia.Circulation1989;80(6 Suppl):IV68-IV73.2.Lichtman JH, Leifheit EC, Safdar B, et al. Sex Differences in the Presentation and Perception of Symptoms Among Young Patients With Myocardial Infarction: Evidence from the VIRGO Study (Variation in Recovery: Role of Gender on Outcomes of Young AMI Patients).Circulation2018;137(8):781-790. doi:10.1161/CIRCULATIONAHA.117.031650
+
+--- 3. Chẩn đoán MI cấp tính ---
+
+ECG nối tiếpCác chất chỉ điểm sinh học về tim tuần tựChụp động mạch vành ngay lập tức (trừ khi dùng thuốc tiêu sợi huyết) cho bệnh nhân STEMI hoặc có biến chứng (ví dụ: đau ngực dai dẳng, hạ huyết áp, các chất chỉ điểm sinh học về tim tăng rõ rệt, loạn nhịp không ổn định)Chụp động mạch vành trì hoãn (trong vòng 24 đến 48 giờ) cho bệnh nhân NSTEMI mà không có biến chứng(Xem thêm phác đồTiếp cận với Nhồi máu cơ tim cấp.)Đánh giá bắt đầu bằng ECG ban đầu và tuần tự cũng như các chỉ số đo tuần tự củacác chất chỉ điểm sinh học về timđể giúp phân biệt giữađau thắt ngực không ổn định, nhồi máu cơ tim đoạn ST chênh (STEMI) và nhồi máu cơ tim không đoạn ST chênh (NSTEMI). Sự phân biệt này là trung tâm của con đường quyết định bởi vì các thuốctiêu sợi huyếtcó lợi cho bệnh nhân STEMI nhưng có thể làm tăng nguy cơ cho những người có NSTEMI. Đồng thời, việc can thiệp khẩn cấp được chỉ định cho bệnh nhân STEMI cấp tính nhưng không nói chung đối với những người có NSTEMI.ECGECGlà kiểm tra quan trọng nhất và cần phải được thực hiện càng sớm càng tốt (ví dụ: trong vòng 10 phút sau khi đến khám).Đối với STEMI, ECG ban đầu thường là chẩn đoán, cho thấy đoạn ST chênh≥1 mm trong 2 hoặc nhiều chuyển đạo nối tiếp vùng bị tổn thương (xem các hìnhNhồi máu cơ tim thành bên thất trái cấp,Nhồi máu cơ tim thành bên thất trái,Nhồi máu cơ tim thành bên thất trái (vài ngày sau),Nhồi máu cơ tim thành dưới thất trái (cơ hoành) cấp,Nhồi máu cơ tim thành dưới thất trái (cơ hoành)vàNhồi máu cơ tim thánh dưới thất trái (cơ hoành) (vài ngày sau)).NSTEMIHình ảnh© Springer Science+Business MediaNhồi máu cấp tính thành bên thất trái (theo dõi được trong vòng vài giờ sau khi phát bệnh)Đoạn ST chệnh cao nổi bật trong các đầu I, aVL, V4, và V6và chênh xuống ở các chuyển đạo đối ứng.Nhồi máu cơ tim thành bên thất trái (sau 24 tiếng đầu tiên)Đoạn ST chênh ít hơn; sóng Q phát triển đáng kể và sóng R bị mất trong các đạo trình I, aVL, V4, và V6.Nhồi máu cơ tim thành bên thất trái (vài ngày sau đó)Q sóng đáng kể và mất điện áp sóng R vẫn tồn tại. Các đoạn ST bây giờ chủ yếu là đẳng điện. ECG có thể chỉ thay đổi chậm trong vài tháng tới.Nhồi máu thành dưới thất trái (cơ hoành) cấp tính (theo dõi có được trong vài tiếng kể từ khi khởi phát bệnh)Đoạn ST chênh lên cao ở các chuyển đạo D II,D III, và aVF và sự chênh xuống tương đối ở các chuyển đạo khác.Nhồi máu thành dưới thất trái (cơ hoành) (sau 24 tiếng đầu tiên)Sóng Q phát triển đáng kể với độ cao phân đoạn ST giảm ở các đầu II, III, và aVF.Nhồi máu thành dưới thất trái (cơ hoành) (vài ngày sau đó)Phân đoạn ST bây giờ đẳng điện. Các sóng Q bất thường trong các đạo trình II, III, và aVF chỉ ra rằng chứng sẹo cơ tim vẫn tồn tại.Các sóng bệnh lý Q không cần thiết để chẩn đoán. ECG phải được đọc cẩn thận vì độ cao của đoạn ST có thể tinh tế, đặc biệt là ở các chuyển đạo thành dưới (II, III, aVF); đôi khi sự chú ý của người đọc là nhầm lẫn tập trung vào các đoạn ST chênh xuống. Nếu triệu chứng là đặc trưng, độ cao đoạn ST trên ECG có độ đặc hiệu 90% và độ nhạy 45% khi chẩn đoán nhồi máu cơ tim. Theo dõi bệnh nhân (thu được mỗi 8 giờ trong 1 ngày, sau đó mỗi ngày) thể hiện sự tiến triển dần theo hướng ổn định, mô hình bình thường hoặc phát triển sóng Q bất thường trong một vài ngày có khuynh hướng xác nhận chẩn đoán.Nếu nghi ngờ nhồi máu thất phải (RV), ECG 15 chuyển đạo thường được ghi lại; các chuyển đạo bổ sung được đặt ở V4-6R (xem hìnhChuyển đạo thất phải (VR) từ VR1 đến VR6) và để phát hiện nhồi máu thành sau, V8 và V9.Các đạo trình tâm thất phải (VR) VR1 cho đến VR6Sử dụng ECG để chẩn đoán nhồi máu cơ tim rất khó khăn khi có block nhánh trái trên điện tâm đồ bởi vì chúng có thể là nhồi máu cơ tim ST chênh lên. Độ cao của đoạn ST đồng hướng với phức hợp QRS độ chênh đoạn ST>5 mm ở ít nhất 2 chuyển đạo trước tim. Nhưng nói chung, bất kỳ bệnh nhân có triệu chứng gợi ý và khởi phát mới (hoặc không được biết là cũ) block nhánh trái được điều trị như STEMI.Công cụ tính toán lâm sàngNMCT Thang điểm đưa ra quyết địnhCông cụ tính toán lâm sàngMI Tiêu chuẩn về khả năng xảy ra Đau ngực với LBBBCác chất chỉ điểm sinh học về timChất chỉ điểm sinh học về tim (chất chỉ điểm sinh học trong huyết thanh của tổn thương tế bào cơ tim) làCác men tim (ví dụ, CK-MB [creatine kinase MB isoenzyme])Trong tế bào cơ tim (ví dụ, troponin I, troponin T, myoglobin)Các chất chỉ điểm sinh học này được giải phóng vào máu sau khi tế bào cơ tim bị hoại tử. Các chất chỉ điểm sinh học xuất hiện vào những thời điểm khác nhau sau khi bị thương tổn và mức độ giảm ở các mức độ khác nhau. Độ nhạy và độ đặc hiệu đối với tổn thương tế bào cơ tim khác nhau đáng kể giữa các chất chỉ điểm sinh học này. Các xét nghiệm đo troponin tim (cTn), đã được sử dụng trong nhiều năm, rất nhạy và đặc hiệu. Các xét nghiệm mới hơn, có độ nhạy cao hơn về troponin tim (hs-cTn) cũng rất chính xác được ưu tiên sử dụng. Các xét nghiệm này có thể xác định mức cTn (T hoặc I) một cách đáng tin cậy từ 0,003 đến 0,006 ng/mL (3 đến 6 pg/mL); một số xét nghiệm nghiên cứu có thể đạt 0,001 ng/mL (1 pg/mL).Các xét nghiệm cTn kém nhạy hơn không có khả năng phát hiện troponin tim ngoại trừ ở những bệnh nhân bị rối loạn tim cấp tính. Do đó, một cTn "dương" (tức là vượt quá giới hạn phát hiện) rất đặc hiệu. Tuy nhiên, xét nghiệm hs-cTn có thể phát hiện một lượng nhỏ troponin ở nhiều người khỏe mạnh. Do đó, nồng độ troponin phát hiện với xét nghiệm hs-cTn cần được tham chiếu đến phạm vi bình thường và được xác định là "cao" chỉ khi có trên 99% dân số tham chiếu. Hơn nữa, mặc dù mức troponin tăng cao có nghĩa là tổn thương tế bào cơ tim, nhưng nó không cho biết nguyên nhân gây ra tổn thương (mặc dù bất kỳ sự tăng troponin nào cũng làm tăng nguy cơ dẫn đến kết quả bất lợi trong nhiều chứng rối loạn). Ngoài hội chứng mạch vành cấp tính, nhiều rối loạn tim và không phải tim khác có thể làm tăng nồng độ troponin trong tim (xem bảngNguyên nhân gây tăng nồng độ Troponin); không phải tất cả nồng độ hs-cTn tăng đều biểu hiện nhồi máu cơ tim và không phải tất cả hoại tử cơ tim đều do hội chứng mạch vành cấp tính ngay cả khi nguyên nhân là do thiếu máu cục bộ. Tuy nhiên, bằng cách phát hiện nồng độ troponin thấp hơn, xét nghiệm hs-cTn cho phép xác định MI sớm hơn các xét nghiệm khác và đã thay thế các xét nghiệm chất chỉ điểm sinh học về tim khác ở nhiều trung tâm.Bệnh nhân nghi ngờ bị nhồi máu cơ tim nên thực hiện xét nghiệm hs-cTn ngay khi xuất hiện và 2 tiếng đến 3 tiếng sau đó. Troponin nên được đo ở 0 và 6 giờ nếu sử dụng xét nghiệm cTn chuẩn.Tất cả các xét nghiệm cần được phiên giải trong bối cảnh xác suất bệnh trước xét nghiệmHiểu các xét nghiệm y khoa và kết quả xét nghiệm). Điều này đặc biệt phù hợp với xét nghiệm hs-cTn, do xét nghiệm này có độ nhạy rất cao, nhưng áp dụng cho tất cả các xét nghiệm cTn.Xét nghiệm hs-cTn phải được diễn giải dựa trên xác suất mắc bệnh trước xét nghiệm của bệnh nhân, được ước tính về mặt lâm sàng dựa trên:Các yếu tố nguy cơ cho HCVCTriệu chứngECGXác suất trước xét nghiệm cao cộng với nồng độ troponin tăng cao được phát hiện bằng xét nghiệm hs-cTn gợi ý nhiều đến nhồi máu cơ tim, trong khi xác suất trước xét nghiệm thấp cộng với kết quả xét nghiệm hs-cTn bình thường khó có thể gợi ý nhồi máu cơ tim (1). Chẩn đoán là khó khăn hơn khi kết quả xét nghiệm không tương xứng với xác suất trước khi kiểm tra, trong trường hợp này các xét nghiệm liên tiếp mức hs-cTn giúp. Một bệnh nhân có xác suất thử nghiệm thấp và hs-cTn ban đầu hơi cao vẫn ổn định khi xét nghiệm lặp lại có thể có bệnh tim không HCVC (ví dụ nhưsuy tim, bệnh động mạch vành ổn định). Tuy nhiên, nếu mức độ lặp lại tăng lên đáng kể (tức là > 20% đến 50%) thì khả năng bị nhồi máu cơ tim sẽ cao hơn nhiều. Nếu một bệnh nhân có xác suất trước xét nghiệm cao có nồng độ troponin bình thường được phát hiện với mức hs-cTn tăng > 50% khi xét nghiệm lặp lại thì có khả năng bị nhồi máu cơ tim; mức độ bình thường tiếp tục (thường bao gồm ở thời điểm 6 tiếng và hơn thế nữa khi nghi ngờ cao) cho thấy cần phải theo đuổi một chẩn đoán phân biệt.Chụp động mạch vànhChụp động mạch vànhthường kết hợp chẩn đoán với can thiệp mạch vành qua da (PCI – tức là nong mạch vành, đặt stent). Khi có thể, chụp động mạch vành khẩn cấp và PCI được thực hiện càng sớm càng tốt sau khi khởi phát nhồi máu cơ tim cấp (PCI thì đầu). Ở nhiều trung tâm, cách tiếp cận này làm giảm đáng kể tỷ lệ bệnh tật và tử vong và cải thiện các kết cục lâu dài. Thông thường, nhồi máu thực sự được chấm dứt khi thời gian từ khi đau đến khi thực hiện PCI ngắn (<3 tiếng đến 4 tiếng).Chụp động mạch được thực hiện khẩn cấp cho bệnh nhân STEMI, bệnh nhân đau ngực dai dẳng mặc dù đã điều trị nội khoa tối đa và bệnh nhân có các biến chứng (ví dụ: các chất chỉ điểm sinh học về tim tăng rõ rệt,sốc do tim,hở van hai lácấp tính,thông liên thất, loạn nhịp tim không ổn định). Bệnh nhân có NSTEMI không biến chứng có các triệu chứng đã được giải quyết thường phải trải qua chụp mạch trong vòng 24 đến 48 giờ đầu tiên nhập viện để phát hiện tổn thương có thể cần điều trị.Phát hiện của MRI trong nhồi máu cơ timHình ảnh© 2017 Bác sĩ Elliot K. Fishman.Sau khi đánh giá và điều trị ban đầu, chụp động mạch vành có thể được sử dụng ở những bệnh nhân có bằng chứng thiếu máu cục bộ đang diễn ra (các dấu hiệu hoặc triệu chứng trên ECG), huyết động không ổn định, nhịp nhanh thất tái phát và các bất thường khác gợi ý tái phát các biến cố thiếu máu cục bộ. Một số chuyên gia cũng khuyên rằng chụp mạch phải được thực hiện trước khi xuất viện ở bệnh nhân STEMI với chứng thiếu máu do xơ vữa động dục gây ra trên hình ảnh căng thẳng hoặc một phân suất tống máu<40%.Tài liệu tham khảo chẩn đoán1.Badertscher P, Boeddinghaus J, Nestelberger T, et al. Effect of Acute Coronary Syndrome Probability on Diagnostic and Prognostic Performance of High-Sensitivity Cardiac Troponin.Clin Chem2018;64(3):515-525. doi:10.1373/clinchem.2017.279513
+
+--- 4. Điều trị MI cấp tính ---
+
+Chăm sóc trước viện: Oxy, aspirin, nitrat, để đưa bệnh nhân tới một trung tâm y tế thích hợpĐiều trị bằng thuốc: Thuốc chống kết tập tiểu cầu, thuốc chống đau thắt ngực, thuốc chống đông máu và trong một số trường hợp các loại thuốc khácLiệu pháp tái tưới máu: Sử dụng thuốc tiêu sợi huyết hoặc chụp động mạch với can thiệp mạch vành hoặc phẫu thuật bắc cầu động mạch vànhPhục hồi chức năng sau xuất viện và quản lý bệnh động mạch vành mạn tínhLựa chọnđiều trị bằng thuốcvà lựa chọnchiến lược tái tưới máusẽ được thảo luận ở phần khác.Chăm sóc trước việnOxyAspirinNitratĐưa bệnh nhân đến trung tâm y tế thích hợpPhải thiết lập một tuyến đường tĩnh mạch đáng tin cậy, cung cấp oxy (điển hình là 2 L bằng cannula mũi) và bắt đầu theo dõi ECG đơn. Các biện pháp can thiệp trước khi đến viện của nhân viên y tế cấp cứu (bao gồm ECG, nhai aspirin [160 mg đến 325 mg] và kiểm soát cơn đau bằng nhóm nitrat) có thể làm giảm nguy cơ tử vong và biến chứng. Chẩn đoán sớm và đáp ứng với điều trị có thể giúp xác định thời gian cần can thiệptái tạo mạch vành.Nhập viện điều trịPhân tầng nguy cơ bệnh nhân và lựa chọn chiến lược tái tưới máu mạch vànhĐiều trị bằng thuốc có thuốc chống kết tập tiểu cầu, thuốc chống đông máu và các loại thuốc khác dựa trên chiến lược tái tưới máuKhi đến khoa cấp cứu, chẩn đoán của bệnh nhân được xác nhận. Điều trị bằng thuốc và xác định thời gian tái thông mạch máu phụ thuộc vào bệnh cảnh lâm sàng và chẩn đoán.Đối với nhồi máu cơ tim ST chênh lên, chiến lược tái tưới máu có thể bao gồm điều trị bằng tiêu sợi huyết hoặc can thiệp động mạch vành qua da ngay lập tức. Đối với bệnh nhân nhồi máu cơ tim ST không chênh, chụp mạch có thể được thực hiện trong vòng 24 đến 48 giờ nhập viện nếu bệnh nhân ổn định lâm sàng. Nếu bệnh nhân không ổn định (ví dụ: các triệu chứng tiếp diễn, hạ huyết áp hoặc loạn nhịp kéo dài), thì phải chụp động mạch ngay lập tức (xem hìnhTiếp cận nhồi máu cơ tim).Tiếp cận với nhồi máu cơ tim*Morphinenên được sử dụng một cách thận trọng (ví dụ, nếunitroglycerinchống chỉ định hoặc nếu bệnh nhân có các triệu chứngnitroglycerinđiều trị). Dữ liệu cho thấy rằngmorphinlàm suy giảm tác dụng của một số chất ức chế thụ thể P2Y12 và có thể góp phần làm cho kết quả điều trị của bệnh nhân trầm trọng hơn.† Biến chứng có nghĩa là do đau thắt ngực hoặc nhồi máu tái phát, suy tim hay loạn nhịp thất. Sự vắng mặt của bất kỳ sự kiện nào ở trên được gọi là không biến chứng.‡ CABG thường ưu tiên hơn can thiệp động mạch vành qua da cho bệnh nhân hơn trong những trường hợp sau:Tổn thương thân chung động mạch vành hoặc các nhánh tương đương thân chungRối loạn chức năng thất tráiBệnh tiểu đườngNgoài ra, các tổn thương dài hoặc gần chỗ chi đôi thường không phù hợp với PCI.CABG = ghép bắc cầu động mạch vành; GP = glycoprotein; NSTEMI = Nhồi máu cơ tim không đoạn ST chênh; PCI = can thiệp qua da; STEMI = Nhồi máu cơ tim đoạn ST chênh.Điều trị bằng thuốc trong nhồi máu cơ tim cấpTất cả bệnh nhân cần phải được dùngthuốc chống kết tập tiểu cầu,thuốc chống đông máuvà nếu có đau ngực, thuốc chống đau thắt ngực. Các loại thuốc cụ thể được sử dụng phụ thuộc vào chiến lược tái tưới máu và các yếu tố khác; việc lựa chọn và sử dụng chúng được thảo luận trong phầnThuốc điều trị hội chứng mạch vành cấp tính. Các loại thuốc khác, chẳng hạn như thuốc chẹn beta, thuốc ức chế men chuyển angiotensin (ACE) và nhóm statin, cũng nên được dùng (xem bảngThuốc điều trị bệnh động mạch vành).Bệnh nhân nhồi máu cơ tim cấp tính cần được tiêm dưới đây (trừ khi không được chống chỉ định):Thuốc chống kết tập tiểu cầu: Aspirin, clopidogrel, hoặc cả hai (prasugrel hoặc ticagrelor là các lựa chọn thay thế choclopidogrel)Thuốc chống đông máu:Heparin(heparinkhông phân đoạn hoặc trọng lượng phân tử thấp) hoặc bivalirudinThuốc ức chế glycoprotein IIb/IIIa khi PCI được thực hiệnthuốc giảm đau thường là nitroglycerinThuốc chẹn betaChất ức chế ACEStatinTất cả bệnh nhân được cho dùngaspirin160 mg đến 325 mg (không bao tan trong ruột), nếu không có chống chỉ định, ngay khi đến khám và 81 mg một lần/ngày vô thời hạn sau đó. Nhai liều đầu tiên trước khi nuốt để hấp thụ nhanh chóng.Aspirinlàm giảm nguy cơ tử vong trong ngắn hạn và dài hạn.Ở những bệnh nhân được thực hiện PCI, một liều nạp clopidogrel (300 đến 600 mg uống một lần), prasugrel (60 mg uống một lần) hoặc ticagrelor (180 mg uống một lần) cải thiện kết cục, đặc biệt là khi được cho dùng sớm trước 24 tiếng. Đối với PCI khẩn cấp,prasugrelvàticagrelorbắt đầu nhanh hơn và có thể được ưu tiên hơn.Heparintrọng lượng phân tử thấp (LMWH), heparin không phân đoạn hoặc bivalirudin được cho dùng thường xuyên cho bệnh nhân trừ khi có chống chỉ định (ví dụ: do đang chảy máu).Heparinkhông phân đoạn sử dụng phức tạp hơn vì nó đòi hỏi phải điều chỉnh liều thường xuyên (6 tiếng một lần) để đạt được thời gian thromboplastin riêng phần được kích hoạt mục tiêu (aPTT). Heparin trọng lượng phân tử thấp có sinh khả dụng tốt hơn, được cho dùng theo liều đơn thuần dựa trên cân nặng mà không cần theo dõi aPTT và chuẩn độ liều và có ít nguy cơgiảm tiểu cầu do heparin hơn. Bivalirudin được khuyến nghị cho những bệnh nhân đã biết hoặc nghi ngờ có tiền sử giảm tiểu cầu doheparin. Thuốc chống đông máu được tiếp tục cho:Kéo dài PCI ở bệnh nhân trải qua thủ thuật nàyThời gian nằm viện (ở bệnh nhân dùng LMWH) hoặc 48 giờ (ở bệnh nhân dùng heparin không phân đoạn)Cân nhắc dùng thuốc ức chế glycoprotein IIb/IIIa trong PCI cho bệnh nhân có tổn thương nguy cơ cao (gánh nặng huyết khối cao, không có dòng chảy ngược). Abciximab, tirofiban, và eptifibatide dường như có hiệu quả tương đương, và sự lựa chọn thuốc nên phụ thuộc vào các yếu tố khác (ví dụ chi phí, tình trạng sẵn có, quen thuộc). Thuốc ức chế glycoprotein IIb/IIIa được tiếp tục trong 6 tiếng đến 24 tiếng.Đau ngực có thể được điều trị bằng nitroglycerin hoặc đôi khi là morphine.Nitroglycerinthích hợp hơnmorphin, nên sử dụng thận trọng (ví dụ: nếu bệnh nhân có chống chỉ định vớinitroglycerinhoặc bị đau mặc dù điều trị bằngnitroglycerin).Nitroglycerinban đầu được ngậm dưới lưỡi, tiếp theo là tưới máu IV liên tục nếu cần.Morphinetừ 2 mg đến 4 mg đường tĩnh mạch, lặp lại 15 phút một lần nếu cần, có hiệu quả cao nhưng có thể ức chế hô hấp, có thể làm giảm khả năng co bóp cơ tim và là thuốc giãn mạch tĩnh mạch mạnh. Bằng chứng cũng cho thấy rằng việc sử dụngmorphinlàm ảnh hưởng đến một số chất ức chế thụ thể P2Y12. Một thử nghiệm hồi cứu quy mô lớn cho thấymorphincó thể làm tăng tỷ lệ tử vong ở bệnh nhân nhồi máu cơ tim cấp tính (1, 2). Hạ huyết áp và nhịp tim chậm thứ phát domorphinethường có thể được khắc phục bằng cách nhanh chóng nâng cao các chi dưới.Tiêu chuẩn điều trị cho tất cả các bệnh nhân đau thắt ngực không ổn định bao gồm thuốc chẹn beta, thuốc ức chế ACE, và statin.Thuốc chẹn betađược khuyến nghị trừ khi có chống chỉ định (ví dụ: do nhịp tim chậm, block tim, hạ huyết áp hoặc hen suyễn), đặc biệt là đối với những bệnh nhân có nguy cơ cao. Thuốc chẹn beta làm giảm nhịp tim, áp lực động mạch và co bóp cơ tim, do đó làm sức làm việc cơ tim và làm giảm nhu cầu oxy của cơ tim.Thuốc ức chế men chuyêncó thể cung cấp sự bảo vệ tim mạch dài hạn bằng cách cải thiện chức năng nội mạc. Nếu một thuốc ức chế ACE không dung nạp được vì ho hoặc phát ban (nhưng không phù mạch hoặc rối loạn chức năng thận), mộtthuốc chẹn thụ thể angiotensin IIcó thể được thay thế. Nhómstatincũng là điều trị tiêu chuẩn bất kể nồng độ lipid (3) và liệu MI có phải do ASCVD gây ra hay không và nên tiếp tục vô thời hạn.Tái tưới máu mạch vành trong nhồi máu cơ tim cấp tínhĐối với bệnh nhân STEMI: Can thiệp động mạch vành qua da hoặc tiêu sợi huyết ngay lập tứcĐối với bệnh nhân NSTEMI: Can thiệp mạch vành ngay cho bệnh nhân không ổn định hoặc trong vòng 24 đến 48 giờ đối với bệnh nhân ổn địnhĐối vớibệnh nhân bị STEMI,PCI cấp cứu là phương pháp điều trị ưu tiên đối với nhồi máu cơ tim đoạn ST chênh khi có sẵn một cách kịp thời (thời gian từ khi đến bệnh viện đến khi bơm phồng bóng<90 phút) bởi người thực hiện có kinh nghiệm (4). Nếu có khả năng có sự chậm trễ đáng kể về sự có sẵn của PCI, nên thực hiện việc thuốc tiêu sợi huyết cho các bệnh nhân STEMI đáp ứng các tiêu chí (xemMở rộng của nhồi máu). Tái tưới máu động mạch vành bằng các thuốc tiêu sợi huyết hiệu quả nhất nếu được đưa ra trong vài phút đầu tiên sau vài giờ sau khi xuất hiện nhồi máu cơ tim. Thuốc tiêu sợi huyết được sử dụng càng sớm cảng tốt. Mục tiêu là thời gian từ cửa đến kim là 30 đến 60 phút. Lợi ích lớn nhất xảy ra trong vòng 3 giờ, nhưng thuốc có thể có hiệu quả đến 12 giờ. Đặc điểm và lựa chọnthuốc tiêu sợi huyếtđược thảo luận ở phần khác.Các bệnh nhân có NSTEMIkhông ổn định (tức là những người có triệu chứng đau ngực đang diễn ra, hạ huyết áp, hoặc loạn nhịp tim kéo dài) cần phải được đưa trực tiếp đến phòng thông tim để xác định ccas tổn thương mạch vành cần PCI hoặc cần phẫu thuật bắc cầu động mạch vành (CABG).Đối vớibệnh nhân NSTEMI không biến chứng,, tái tưới máu ngay lập tức không phải là khẩn cấp bởi vì động mạch liên quan đến nhồi máu bị tắc hoàn toàn vào thời điểm hiện tại là hiếm gặp. Những bệnh nhân này thường được chụp động mạch vành trong vòng 24 đến 48 giờ đầu tiên nhập viện để xác định tổn thương mạch vành đòi hỏi PCI hoặc CABG.Tiêu sợi huyết không được chỉ định cho bất kỳ bệnh nhân nào bị NSTEMI. Rủi ro lớn hơn lợi ích.Sự lựa chọn của phương pháp tái tưới máu mạch vành được thảo luận sâu hơn trongtái thông mạch vành cho Hội chứng vành Cấp tính.Phục hồi chức năng và điều trị sau xuất việnĐánh giá chức năngThay đổi lối sống: Tập thể dục thường xuyên, thay đổi chế độ ăn kiêng, giảm cân, ngừng hút thuốcThuốc: Tiếp tục dùng thuốc chống kết tập tiểu cầu, thuốc chẹn beta, thuốc ức chế ACE và nhóm statinBệnh nhân không chụp mạch vành trong thời gian nhập viện, không có các đặc điểm nguy cơ cao (ví dụ như suy tim, đau thắt ngực tái phát, nhịp tim nhanh hoặc rung thất sau 24 giờ, các biến chứng cơ học như tiếng thổi, sốc tim) và có phân suất tống máu>40% dù họ có được điều trị thuốc tiêu sợi huyết thường cần phải nghiệm pháp gắng sức trước hoặc ngay sau khi xuất viện (xem bảngĐánh giá chức năng sau nhồi máu cơ tim).BảngĐánh giá chức năng Sau nhồi máu cơ timĐánh giá chức năng Sau nhồi máu cơ timKhả năng tập thể dụcNếu điện tâm đồ có thể giải thích đượcNếu điện tâm đồ không thể giải thích đượcCó thể tập thể dụcđiện tâm đồ gắng sức trước khi xuất viện để biết khả năng gắng sức tối đasiêu âm tim gắng sức hoặc chụp bằng phóng xạKhông thể tập thể dụcThử nghiệm gắng sức với thuốc (siêu âm tim hoặc quét hạt nhân)Thử nghiệm gắng sức với thuốc (siêu âm tim hoặc quét hạt nhân)Điều trị các bệnh cấp tính và điều trị nhồi máu cơ tim thì việc thay đổi các yếu tố nguy cơ là rất quan trọng, nên giáo dục bệnh nhân. Đánh giá tình trạng thể chất và tình cảm của bệnh nhân và thảo luận với bệnh nhân, tư vấn về lối sống (ví dụ như hút thuốc, chế độ ăn uống, thói quen làm việc và tập thể dục, tập thể dục) và quản lý các yếu tố nguy cơ tích cực có thể cải thiện tiên lượng.Khi xuất viện, tất cả bệnh nhân nên dùng thuốc chống kết tập tiểu cầu, nhóm statin, thuốc chống đau thắt ngực thích hợp và các loại thuốc khác tùy theo bệnh đi kèm.Tài liệu tham khảo về điều trị1.Meine TJ, Roe MT, Chen AY, et al: Association of intravenousmorphineuse and outcomes in acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative.Am Heart J149(6):1043–1049, 2005. doi 10.1016/j.ahj.2005.02.0102.Kubica J, Adamski P, Ostrowska M, et al:Morphinedelays and attenuatesticagrelorexposure and action in patients with myocardial infarction: the randomized, double-blind, placebo-controlled IMPRESSION trial.Eur Heart J37(3):245–252, 2016. doi: 10.1093/eurheartj/ehv5473.Wang WT, Hellkamp A, Doll JA, et al. Lipid Testing and Statin Dosing After Acute Myocardial Infarction. J Am Heart Assoc. 2018;7(3):e006460. Xuất bản ngày 25 tháng 1 năm 2018. doi:10.1161/JAHA.117.0064604.Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines.J Am Coll Cardiol79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
+
+--- 5. Tiên lượng về MI cấp tính ---
+
+Nguy cơ cần phải được ước tính thông qua điểm nguy cơ trên lâm sàng chính thức (ví dụ: Huyết khối trong nhồi máu cơ tim [TIMI] – xem bảngNguy cơ tử vong ở thời điểm 30 ngày trong STEMIvàNguy cơ bị các biến cố bất lợi ở thời điểm 14 ngày trong đau thắt ngực không ổn định hoặc NSTEMI) hoặc kết hợp các đặc điểm nguy cơ cao sau đây:Đau ngực/thiếu máu cục bộ tái phát lúc nghỉ ngơi hoặc trong hoạt động ở mức độ thấpSuy timhở hai lá tồi tệ hơnTest gắng sức có nguy cơ cao (thử nghiệm dừng lại ở ≤ 5 phút do triệu chứng, dấu hiệu ECG bất thường, hạ huyết áp, hoặc rối loạn nhịp thất phức tạp)Huyết động không ổn địnhNhịp nhanh thất bền bỉĐái tháo đườngPCI trong vòng 6 tháng quaGhép bắc cầu động mạch vành trước (CABG)Phân suất tống máu < 0,40Tỷ lệ tử vong chung trước kỷ nguyên hiện đại của điều trị bằng thuốc tiêu sợi huyết và PCI là khoảng 30%, với 25% đến 30% số bệnh nhân không được dùng thuốc tiêu sợi huyết hoặc PCI tử vong trước khi đến bệnh viện (thường là dorung thất). Tỷ lệ tử vong tại bệnh viện thường là dosốc do tim, tương quan với mức độ nặng của suy thất trái. Phân loại Killip phân loại bệnh nhân nhồi máu cơ tim cấp tính dựa trên kết quả khám thực thể gợi ý suy thất trái và điểm số cao hơn dự đoán nguy cơ tử vong cao hơn (1) (xem bảngPhân loại Killip và tỷ lệ tử vong của nhồi máu cơ tim cấp tính). Hầu hết các bệnh nhân chết vì sốc tim đều có một cơn nhồi máu hoặc kết hợp sẹo và nhồi máu mới ảnh hưởng≥50% khối lượng LV.Đối với những bệnh nhân được tái tưới máu (tiêu hủy fibrin hoặc PCI), tỷ lệ tử vong tại bệnh viện là khoảng 5% (2). Tỷ lệ tử vong tại bệnh viện đối với NSTEMI nhìn chung thấp hơn so với STEMI.Tỷ lệ tử vong có xu hướng cao hơn ở nữ giới và ở bệnh nhân tiểu đường.Hầu hết các trường hợp tử vong ở những bệnh nhân sống sót sau lần nhập viện đầu tiên xảy ra trong 3 tháng đến 4 tháng đầu. Loạn nhịp thất dai dăng, suy tim, chức năng tâm thất kém và thiếu máu cục bộ tái phát biểu hiện nguy cơ cao tử vong. Nhiều cơ quan chức năng khuyến nghị ECG gắng sức trước khi xuất viện hoặc trong vòng 6 tuần sau nhồi máu cơ tim. Hoạt động thể dục tốt mà không có bất thường về ECG kết hợp thường là tiên lượng thuận lợi; đánh giá thêm thường không bắt buộc. Thực hiện kiểm tra gắng sức kém có liên quan đến tiên lượng xấu.Hoạt động của tim sau khi hồi phục phụ thuộc phần lớn vào việc hoạt động của cơ tim hoạt động như thế nào. Tổn thương cấp tính thêm vào các vết sẹo từ những lần nhồi máu trước. Khi rối loạn chức năng thất trái nặng thì thời gian sống thêm lâu dài sẽ thấp hơn.BảngPhân độ Killip của Nhồi máu cơ tim cấp tính*BảngPhân độ Killip của Nhồi máu cơ tim cấp tính*Phân độ Killip của Nhồi máu cơ tim cấp tính*phân nhómPAO2†Mô tả bệnh cảnh lâm sàng1Bình thườngKhông có bằng chứng lâm sàng suy thất trái (LV)2Hơi giảmsuy thất trái mức độ nhẹ tới trung bình3Khác thườngsuy thất trái nặng, phù phổi4Bất thường nghiêm trọngShock tim: hạ huyết áp, nhịp tim nhanh, nhồi máu cơ tim, đầu chi, thiểu niệu, giảm oxy máu* Xác định bằng cách thăm khám lại bệnh nhân trong suốt quá trình điều trị bệnh.† Xác định trong khi bệnh nhân thở không khí phòng.Sửa đổi từ phân độ Killip T, Kimball JT: Điều trị nhồi máu cơ tim trong một đơn vị chăm sóc mạch vành. Một kinh nghiệm hai năm với 250 bệnh nhân.The American Journal of Cardiology20:457–464, 1967.* Xác định bằng cách thăm khám lại bệnh nhân trong suốt quá trình điều trị bệnh.† Xác định trong khi bệnh nhân thở không khí phòng.Sửa đổi từ phân độ Killip T, Kimball JT: Điều trị nhồi máu cơ tim trong một đơn vị chăm sóc mạch vành. Một kinh nghiệm hai năm với 250 bệnh nhân.The American Journal of Cardiology20:457–464, 1967.BảngNguy cơ tử vong ở 30 ngày trong nhồi máu cơ tim ST chênh lênBảngNguy cơ tử vong ở 30 ngày trong nhồi máu cơ tim ST chênh lênNguy cơ tử vong ở 30 ngày trong nhồi máu cơ tim ST chênh lênYếu tố Nguy cơĐiểmTuổi≥753Tuổi 65-742Bệnh tiểu đường, cao huyết áp, hoặc đau thắt ngực1Huyết áp tâm thu<100 mm Hg3Nhịp tim>100 nhịp/phút2Killip lớp II-IV2Cân nặng<67 kg1ST chênh lên thành trước hoặc block nhánh trái1Thời gian đến khi điều trị>4 giờ1Tổng số điểm có thể0–14Rủi roTổng số điểmTỷ lệ tử vong ở 30 ngày (%)00,811,622,234,447,3512,4616,1723,48…26,8>835,9MI = nhồi máu cơ tim; STEMI=nhồi máu cơ tim ST chênh lên; TIMI=thang điểm TIMI trong nhồi máu cơ tim.Dựa trên dữ liệu từ Morrow DA và các cộng sự: Thang điểm TIMI tính nguy cơ cho nhồi máu cơ tim có ST chênh lên: tính thuận tiện, bên cạnh, lâm sàng để đánh giá rủi ro.Circulation102 (17):2031–2037, 2000 and ACC/AHA guidelines for the management of patients with acute myocardial infarction.MI = nhồi máu cơ tim; STEMI=nhồi máu cơ tim ST chênh lên; TIMI=thang điểm TIMI trong nhồi máu cơ tim.Dựa trên dữ liệu từ Morrow DA và các cộng sự: Thang điểm TIMI tính nguy cơ cho nhồi máu cơ tim có ST chênh lên: tính thuận tiện, bên cạnh, lâm sàng để đánh giá rủi ro.Circulation102 (17):2031–2037, 2000 and ACC/AHA guidelines for the management of patients with acute myocardial infarction.BảngNguy cơ bị các biến cố bất lợi* ở thời điểm 14 ngày trên bệnh nhân đau thắt ngực không ổn định hoặc NSTEMIBảngNguy cơ bị các biến cố bất lợi* ở thời điểm 14 ngày trên bệnh nhân đau thắt ngực không ổn định hoặc NSTEMINguy cơ bị các biến cố bất lợi* ở thời điểm 14 ngày trên bệnh nhân đau thắt ngực không ổn định hoặc NSTEMItính điểmYếu tố Nguy cơĐiểm>65 tuổi1Các yếu tố nguy cơ bệnh CAD (phải có≥3 cho 1 điểm):Tiền sử gia đìnhTăng huyết ápHiện có hút thuốcCholesterol caoĐái tháo đường1CAD đã biết (hẹp≥50%)1Sử dụng aspirin mạn tính trước đây1Hai cơn đau thắt ngực trong 24 tiếng qua1Tăng các chất chỉ điểm về tim1ST chênh≥0,5 mm1Mức độ rủi ro dựa trên tổng số điểm:1–2=thấp3–4=trung bình5–7=caoNguy cơ tuyệt đốiTổng số điểmNguy cơ biến cố trong 14 ngày (%)*0 hoặc 14,728,3313,2419,9526,26 hoặc 740,9* Biến cố bao gồm tử vong do mọi nguyên nhân, nhồi máu cơ tim, và thiếu máu cục bộ tái phát đòi hỏi phải can thiệp khẩn cấp.CAD=bệnh động mạch vành; MI = nhồi máu cơ tim; NSTEMI=nhồi máu cơ tim ST không chênh; TIMI=thang điểm TIMI.Dựa vào dữ liệu của Antman EM và cộng sự: Điểm số nguy cơ TIMI đối với chứng đau thắt ngực không ổn định/nhồi máu cơ tim ST không chênh: Một phương pháp tiên lượng và đưa quyết định điều trị.JAMA284:835–42, 2000.* Biến cố bao gồm tử vong do mọi nguyên nhân, nhồi máu cơ tim, và thiếu máu cục bộ tái phát đòi hỏi phải can thiệp khẩn cấp.CAD=bệnh động mạch vành; MI = nhồi máu cơ tim; NSTEMI=nhồi máu cơ tim ST không chênh; TIMI=thang điểm TIMI.Dựa vào dữ liệu của Antman EM và cộng sự: Điểm số nguy cơ TIMI đối với chứng đau thắt ngực không ổn định/nhồi máu cơ tim ST không chênh: Một phương pháp tiên lượng và đưa quyết định điều trị.JAMA284:835–42, 2000.Công cụ tính toán lâm sàngThang điểm TIMI cho bệnh nhân NMCT không ST chênh và đau ngực không ổn định.Công cụ tính toán lâm sàngThang điểm TIMI cho NMCT ST chênh lên.Tài liệu tham khảo về tiên lượng1.De Luca G, van 't Hof AW, de Boer MJ, et al. Impaired myocardial perfusion is a major explanation of the poor outcome observed in patients undergoing primary angioplasty for ST-segment-elevation myocardial infarction and signs of heart failure.Circulation2004;109(8):958-961. doi:10.1161/01.CIR.0000120504.31457.282.Roe MT, Messenger JC, Weintraub WS, et al. Treatments, trends, and outcomes of acute myocardial infarction and percutaneous coronary intervention. J Am Coll Cardiol. 2010;56(4):254-263. doi:10.1016/j.jacc.2010.05.008
+
+--- 6. Những điểm chính ---
+
+Nhồi máu cơ tim cấp tính (MI) là hoại tử cơ tim của mô cơ tim do tắc nghẽn cấp tính động mạch vành.Xơ vữa động mạch vành gặp ở 95% số bệnh nhân nhồi máu cơ tim cấp.Vị trí nhồi máu (tâm thất phải, dưới sau hoặc phía trước) và mức độ lan rộng (xuyên thành hoặc không xuyên thành) ảnh hưởng đến triệu chứng, điều trị và tiên lượng.Các triệu chứng thường bao gồm đau hoặc áp lực dưới xương ức (có hoặc không có tia xạ đến cổ, lưng hoặc cánh tay), khó thở, toát mồ hôi, buồn nôn và/hoặc nôn.Phụ nữ, người cao tuổi và bệnh nhân tiểu đường có nhiều khả năng có các triệu chứng không điển hình hơn và 20% số trường hợp nhồi máu cơ tim cấp tính diễn ra thầm lặng (không có triệu chứng).Chẩn đoán bằng ECG tuần tự và chất chỉ điểm sinh học tim (ưu tiên troponin).Điều trị ngay bằng oxy, thuốc chống kết tập tiểu cầu, nitrat và thuốc chống đông máu.Đối với bệnh nhân nhồi máu cơ tim cấp ST chênh lên (STEMI), điều trị bằng chụp động mạch ngay lập tức và can thiệp mạch vành qua da (PCI); nếu không có PCI ngay lập tức, dùng thuốc tiêu sợi huyết qua đường tĩnh mạch.Đối với bệnh nhân có đoạn ST chênh lên, thực hiện chụp động mạch và PCI trong vòng 24 giờ đến 48 giờ nếu tình trạng ổn định; thực hiện PCI ngay lập tức cho bệnh nhân không ổn định (đau ngực dai dẳng, hạ huyết áp, loạn nhịp không ổn định hoặc chất chỉ điểm sinh học tăng cao rõ rệt).Bắt đầu hoặc tiếp tục dùng thuốc chống kết tập tiểu cầu, thuốc chẹn beta, thuốc ức chế ACE (hoặc thuốc ức chế thụ thể angiotensin II) và statin sau lần điều trị ban đầu.Sau khi xuất viện, sắp xếp đánh giá chức năng, kiểm soát các yếu tố nguy cơ (ví dụ: tăng huyết áp, tiểu đường, hút thuốc) và thúc đẩy chế độ ăn uống và tập thể dục lành mạnh.

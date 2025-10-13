@@ -1,0 +1,985 @@
+TIÊU ĐỀ: Sốc
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/sốc-và-hồi-sức-dịch/sốc
+================================================================================
+
+NỘI DUNG:
+
+Sốc
+
+Theo
+
+Levi D. Procter
+
+,
+
+MD
+
+,
+
+Virginia Commonwealth University School of Medicine
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v927975_vi
+
+Sốc là tình trạng giảm tưới máu cơ quan dẫn đến rối loạn chức năng và tổn thương tế bào. Cơ chế có thể làm giảm khối lượng tuần hoàn, giảm cung lượng tim, và giãn mạch, đôi khi shunt qua các lớp trao đổi mao mạch. Các triệu chứng bao gồm thay đổi ý thức, nhịp tim nhanh, hạ huyết áp và tiểu ít. Chẩn đoán chủ yếu dựa vào lâm sàng, dựa trên sự kết hợp đặc trưng của các dấu hiệu và triệu chứng (bao gồm hạ huyết áp, nhịp tim nhanh, thở nhanh, thiểu niệu và sững sờ) và đôi khi được hỗ trợ bằng cách đo các dấu hiệu giảm tưới máu mô (ví dụ: lactate máu, thiếu hụt bazơ). Điều trị bằng hồi sức dịch, bao gồm các chế phẩm máu nếu cần thiết, sửa chữa các rối loạn cơ bản, và đôi khi thuốc co mạch.
+
+Sinh lý bệnh
+
+|
+
+Nguyên nhân và phân loại
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+(Xem thêm
+
+Sepsis and Septic Shock
+
+.)
+
+Sinh lý bệnh của sốc
+
+Khiếm khuyết cơ bản của sốc là giảm tưới máu của mô sống. Một khi giảm tưới máu và vận chuyển O2 đến các tế bào là không thỏa đáng cho quá trình trao đổi chất hiếu khí, các tế bào chuyển sang chuyển hóa yếm khí với sự gia tăng sản xuất CO2 và tăng lượng lactate trong máu. Chức năng tế bào giảm, và nếu sốc còn kéo dài, tổn thương tế bào không phục hồi và tử vong.
+
+Trong sốc, quá trình viêm và đông máu có thể được kích hoạt ở những vùng bị giảm tưới máu. Các tế bào nội mô mạch máu bị thiếu oxy sẽ kích hoạt
+
+các bạch cầu
+
+, gắn kết với nội mô và giải phóng các chất gây tổn hại trực tiếp (ví dụ: các loại oxy phản ứng, enzyme phân giải protein) và
+
+các chất trung gian gây viêm
+
+(ví dụ: cytokine, leukotrien, yếu tố hoại tử khối u). Một số trong những trung gian này liên kết với thụ thể bề mặt tế bào và kích hoạt hạt nhân kappa B (NF
+
+κ
+
+B) dẫn đến sản xuất thêm các cytokine và oxit nitric (NO), chất làm giãn mạch mạnh.
+
+Đông máu rải rác trong lòng mạch
+
+đôi khi có thể là kết quả của sự kích hoạt các tầng này.
+
+Có nhiều cơ chế sốc khác nhau, được mô tả dưới đây.
+
+Sốc nhiễm trùng
+
+một loại sốc có tính phân bố, có thể gây viêm nhiều hơn các dạng sốc khác do tác động của độc tố vi khuẩn, đặc biệt là nội độc tố.
+
+Huyết áp không phải lúc nào cũng thấp trong giai đoạn đầu của sốc (mặc dù hạ huyết áp cuối cùng xảy ra nếu sốc không phục hồi). Tương tự như vậy, không phải tất cả những bệnh nhân huyết áp thấp đều bị sốc. Mức độ và hậu quả của hạ huyết áp khác nhau với sự bù đắp về mặt sinh lý và các bệnh lý nền của bệnh nhân. Do đó, mức độ hạ huyết áp vừa phải mà người trẻ hoặc người tương đối khỏe mạnh có thể dung nạp tốt có thể dẫn đến rối loạn chức năng não, tim hoặc thận nặng ở người cao tuổi bị xơ cứng động mạch đáng kể.
+
+Bù dịch trong sốc
+
+Ban đầu, khi cung cấp oxy (DO2) giảm, các mô bù bằng cách trích xuất một tỷ lệ oxy đã cung cấp lớn hơn. Huyết áp động mạch thấp gây ra đáp ứng hệ adrenergic với sự co mạch qua trung gian giao cảm và thường làm tăng nhịp tim. Ban đầu, co thắt mạch máu là chọn lọc, shunt máu tới tim và não và ra khỏi tuần hoàn tạng. Tuần hoàn qua amin beta-adrenergic (
+
+epinephrine
+
+,
+
+norepinephrine
+
+) cũng làm tăng co bóp tim và kích hoạt giải phóng
+
+Các corticosteroid từ tuyến thượng thận
+
+Renin từ thận
+
+Glucose từ gan
+
+Corticosteroid làm tăng tác dụng của catecholamine. Renin kích thích duy trì thể tích và co mạch. Tăng glucose làm tăng sự hấp thu pyruvate trong ty thể, làm tăng sản sinh lactate khi không đủ oxy.
+
+Tái tưới máu sau sốc
+
+Khi tình trạng sốc được giải quyết, việc tái tưới máu các tế bào thiếu máu cục bộ có thể gây ra tổn thương nặng hơn. Khi chất nền được đưa ra lại, hoạt động của bạch cầu trung tính có thể tăng lên, tăng sản xuất các gốc superoxit gây hại và các gốc hydroxyl khử. Sau khi lưu lượng máu được phục hồi, các chất trung gian gây viêm tập trung tại chỗ có thể được lưu thông đến các cơ quan khác.
+
+Hội chứng rối loạn chức năng đa cơ quan (MODS)
+
+Sự kết hợp giữa tổn thương trực tiếp và tái tưới máu có thể gây ra MODS – rối loạn chức năng tiến triển của
+
+≥
+
+2 cơ quan do bệnh tật hoặc chấn thương đe dọa tính mạng. MODS có thể ở bất kỳ kiểu sốc nào nhưng phổ biến nhất khi có liên quan tới nhiễm trùng; sự suy cơ quan là một trong những đặc điểm xác định của
+
+sốc nhiễm trùng
+
+. MODS cũng xảy ra ở
+
+>
+
+10% số bệnh nhân bị chấn thương nặng và là nguyên nhân đầu tiên gây tử vong ở những người còn sống sót
+
+>
+
+24 giờ.
+
+Ngọc trai & cạm bẫy
+
+Hội chứng rối loạn chức năng đa cơ quan là tình trạng rối loạn chức năng tiến triển của
+
+≥
+
+2 cơ quan do bệnh tật hoặc chấn thương đe dọa tính mạng.
+
+Bất kỳ hệ thống cơ quan nào cũng có thể bị ảnh hưởng, nhưng các cơ quan mục tiêu thường gặp nhất là phổi, trong đó tính thấm của màng tăng lên dẫn đến tràn dịch phế nang và gây viêm thêm. Tình trạng thiếu oxy tiến triển có thể ngày càng kháng lại với liệu pháp oxy hỗ trợ. Tình trạng này được gọi là tổn thương phổi cấp tính hoặc, nếu nghiêm trọng,
+
+hội chứng suy hô hấp cấp tính
+
+(ARDS).
+
+Thận bị thương tổn khi tưới máu thận giảm nghiêm trọng, dẫn đến
+
+hoại tử ống thận cấp
+
+và suy thận biểu hiện bằng thiểu niệu và tăng dần creatinine huyết thanh.
+
+Ở tim, giảm tưới máu mạch vành và tăng các chất trung gian gây viêm (bao gồm cả yếu tố hoại tử khối u và interleukin-1) có thể làm giảm khả năng co bóp, làm trầm trọng khả năng tuân thủ của cơ tim và các thụ thể beta giảm điều hòa.
+
+Loạn nhịp tim
+
+có thể xảy ra. Những yếu tố này làm giảm cung lượng tim, làm trầm trọng cả mức tưới máu cơ tim và tưới máu hệ thống và gây ra một vòng luẩn quẩn thường dẫn đến tử vong.
+
+Trong đường tiêu hoá, đường ruột và xuất huyết dưới niêm mạc có thể xảy ra. Giảm tưới máu ở gan có thể gây hoại tử cục bộ hoặc toàn bộ tế bào gan, tăng transaminase và bilirubin, và giảm sản xuất các yếu tố đông máu.
+
+Đông máu có thể bị suy giảm, bao gồm các biểu hiện nghiêm trọng nhất,
+
+rối loạn đông máu nội mạch
+
+.
+
+Nguyên nhân và phân loại sốc
+
+Có một số cơ chế gây giảm tưới máu cơ quan và sốc. Sốc có thể do
+
+Thể tích tuần hoàn thấp (sốc giảm thể tích)
+
+Giãn mạch (sốc phân bố)
+
+giảm đầu tiên cung lượng tim (cả sốc tim lẫn sốc tắc nghẽn)
+
+Một sự kết hợp
+
+Sốc giảm thể tích
+
+Sốc giảm thể tích là do giảm khối lượng nội mạch. Giảm tĩnh mạch trở về (tiền gánh) kết quả làm giảm đổ đầy tâm thất và giảm thể tích đột quỵ. Trừ khi được bồi phụ bởi nhịp tim tăng lên, cung lượng tim giảm.
+
+Nguyên nhân thường gặp là chảy máu (sốc mất máu), điển hình là do chấn thương, can thiệp phẫu thuật, loét dạ dày, loét thực quản, hoặc phình động mạch chủ vỡ. Chảy máu có thể là hiển nhiên thấy (ví dụ, nôn máu, đi ngoài phân đen) hoặc bị che lấp (ví dụ, chưa ngoài tử cung vỡ).
+
+Sốc giảm thể tích cũng có thể xảy ra sau khi mất nhiều nước trong cơ thể ngoài máu (không xuất huyết, xem bảng
+
+Sốc giảm thể tích do mất nước trong cơ thể
+
+).
+
+Bảng
+
+Sốc giảm thể tích do mất nước trong cơ thể (không xuất huyết)
+
+Sốc giảm thể tích do mất nước trong cơ thể (không xuất huyết)
+
+Vị trí mất dịch
+
+Cơ chế mất dịch
+
+Da
+
+Bỏng
+
+nhiệt hoặc hóa chất
+
+Đổ mồ hôi do
+
+tiếp xúc với nhiệt độ
+
+quá cao
+
+Đường tiêu hóa
+
+Nôn ói
+
+,
+
+tiêu chảy
+
+Thận
+
+Suy thượng thận
+
+Đái tháo đường
+
+,
+
+thiếu hụt arginine vasopressin
+
+(trước đây là đái tháo nhạt do trung ương), hoặc
+
+kháng arginine vasopressin
+
+(trước đây là đái tháo nhạt do thận)
+
+Giai đoạn đái nhiều sau tổn thương ống thận cấp tính
+
+Sử dụng lợi tiểu mạnh
+
+Viêm thận mất muối
+
+Dịch trong lòng mạch bị mất ra khoảng gian bào
+
+Tăng tính thấm mao mạch thứ phát sau viêm, thiếu oxy toàn thân nặng hoặc thiếu máu cục bộ, hoặc thương tổn do chấn thương (ví dụ, nghiền nát), nhiễm trùng huyết, thiếu máu cục bộ ruột, viêm tụy cấp
+
+Sốc giảm thể tích có thể là do thiếu dịch vào (có hoặc không có sự mất nước tăng lên). Nước có thể không có, tổn thương thần kinh có thể làm giảm cơ chế khát, hoặc khuyết tật về thể chất có thể làm giảm khả năng tiếp cận.
+
+Ở bệnh nhân nằm viện, tình trạng giảm thể tích có thể kết hợp nếu các dấu hiệu suy tuần hoàn không được cho phù hợp với suy tim và dịch được giữ lại hoặc dùng thuốc lợi tiểu.
+
+Sốc phân bố
+
+Sốc phân bố do không thích hợp tương đối của thể tích trong mạch máu gây ra bởi sự giãn mạch động mạch hoặc tĩnh mạch; thể tích tuần hoàn bình thường. Trong một số trường hợp, cung lượng tim (và DO2) là cao, nhưng sự gia tăng lưu lượng máu qua shunt động tĩnh mạch qua các mao mạch; vòng bỏ qua này cộng với các tế bào không liên kết oxy để vận chuyển gây giảm tế bào máu (thể hiện bằng việc giảm tiêu thụ oxy). Trong những tình huống khác, máu tụ trong giường tĩnh mạch và giảm lượng ra từ tim.
+
+Sốc do phân phối có thể do
+
+Phản vệ
+
+(sốc phản vệ)
+
+Nhiễm vi khuẩn giải phóng nội độc tố (
+
+sốc nhiễm trùng
+
+) hoặc giải phóng ngoại độc tố (
+
+sốc nhiễm độc
+
+)
+
+Tổn thương nặng ở tủy sống, thường trên T4 (sốc do thần kinh)
+
+Nuốt phải một số loại thuốc (ví dụ: nitrat, opioid hoặc thuốc chẹn adrenergic) hoặc chất độc (sốc do độc tố).
+
+Trong sốc nhiễm khuẩn, giãn mạch sẽ dẫn giảm hồ máu và hạ huyết áp do tình trạng giảm thể tích máu "tương đối" (tức là lượng máu lớn cần được đổ đầy). Sự giãn mạch tại chỗ có thể tạo shunt dòng máu qua khoang ngoài cơ thể, gây ra tình trạng giảm tưới máu tại chỗ mặc dù cung lượng tim và huyết áp bình thường. Ngoài ra, lượng Nitric oxide dư thừa được chuyển thành peroxynitrite, gốc tự do gây tổn thương ty thể và làm giảm sản xuất ATP (
+
+adenosine
+
+triphosphate). Lưu lượng máu đến các vi mạch, bao gồm cả các mao mạch, bị giảm mặc dù lưu lượng máu đến các mạch lớn vẫn được bảo toàn trong sốc nhiễm trùng. Cơ chế gây tắc nghẽn mạch máu nhỏ, ít nhất là một phần, có thể hạn chế sự phân bố chất nền. Các bạch cầu và tiểu cầu gắn vào nội mô trong khuôn khổ của quá trình đông máu, gây ra sự chuyển đổi
+
+fibrinogen
+
+thành fibrin và ổn định nút tiểu cầu.
+
+Nhiều chất trung gian, cùng với rối loạn chức năng tế bào nội mô, làm tăng đáng kể tính thấm của vi mạch, cho phép dịch và đôi khi là cả protein huyết tương thoát vào khoảng kẽ (
+
+1, 2, 3
+
+). Trong đường tiêu hoá, tăng tính thấm có thể cho phép di chuyển các vi khuẩn đường ruột từ lòng ruột, dẫn đến nhiễm trùng huyết hoặc nhiễm trùng di bệnh.
+
+Bạch cầu trung tính chết theo chương trình có thể được ức chế, tăng cường giải phóng các chất trung gian gây viêm. Trong các tế bào khác, chết theo chương trình có thể tăng lên, gia tăng sự chết của tế bào và do đó làm nặng thêm rối loạn chức năng của cơ quan.
+
+Sốc phản vệ và sốc nhiễm khuẩn huyết thường có một phần là giảm thể tích.
+
+Sốc tim và sốc tắc nghẽn
+
+Sốc tim
+
+là sự giảm tương đối hoặc tuyệt đối cung lượng tim do rối loạn tim mạch nguyên phát. Sốc tắc nghẽn có cơ chế có yếu tố cản trở cho việc đổ đầy hoặc rỗng tim hoặc các mạch máu lớn. Nguyên nhân được liệt kê trong bảng
+
+Cơ chế gây sốc tim và sốc tắc nghẽn
+
+.
+
+Bảng
+
+Cơ chế gây sốc tim và sốc tắc nghẽn
+
+Cơ chế gây sốc tim và sốc tắc nghẽn
+
+Kiểu
+
+Cơ chế
+
+Nguyên nhân
+
+Tắc nghẽn
+
+Cơ chế là tác động tới đồ đầy tâm thất
+
+Tràn khí màng phổi áp lực
+
+, chèn ép tĩnh mạch chủ,
+
+chèn ép tim
+
+, khối u hoặc cục máu đông ở tâm nhĩ
+
+Can thiệp vào việc rỗng tâm thất
+
+Thuyên tắc động mạch phổi
+
+Tim
+
+Giảm co bóp cơ tim
+
+Thiếu máu cục bộ cơ tim hoặc
+
+nhồi máu cơ tim
+
+,
+
+viêm cơ tim
+
+, các loại thuốc
+
+Rối loạn nhịp
+
+Nhịp tim nhanh, nhịp tim chậm
+
+Rối loạn cấu trúc tim
+
+Hở
+
+van hai lá
+
+hoặc
+
+hở van động mạch chủ
+
+cấp tính, vách ngăn liên thất bị vỡ, trục trặc van giả
+
+Tài liệu tham khảo về căn nguyên và phân loại
+
+1.
+
+Salmon AH, Satchell SC
+
+: Endothelial glycocalyx dysfunction in disease: Albuminuria and increased microvascular permeability.
+
+J Pathol
+
+226:562–74, 2012. doi: 10.1002/path.3964
+
+2.
+
+Chelazzi C, Villa G, Mancinelli P, et al
+
+: Glycocalyx and sepsis-induced alterations in vascular permeability.
+
+Crit Care
+
+19(1):26, 2015. doi: 10.1186/s13054-015-0741-z
+
+3.
+
+Martin L, Koczera P, Zechendorf E, et al
+
+: The endothelial glycocalyx: New diagnostic and therapeutic approaches in sepsis.
+
+Biomed Res Int
+
+2016:3758278, 2016. doi: 10.1155/2016/3758278
+
+Triệu chứng và dấu hiệu của sốc
+
+Rối loạn ý thức (ví dụ, mệt mỏi, hôn mê, ngủ gà) là một dấu hiệu phổ biến của sốc. Bàn tay và chân đều nhợt nhạt, lạnh, ẩm, và thường tím, như là vành tai, mũi và móng. Thời gian làm đầy mao mạch kéo dài, và ngoại trừ cú sốc phân bố, da xuất hiện màu xám hoặc mờ hoặc ẩm ướt. Có thể vã mồ hôi. Mạch ngoại biên yếu và thường nhanh; thường, chỉ có mạch đùi hoặc mạch cảnh bắt rõ. Có thể có hiện tượng thở nhanh và tăng thông khí. Huyết áp có xu hướng thấp (
+
+<
+
+90 mm Hg tâm thu) hoặc không đo được; đo trực tiếp bằng
+
+catheter trong động mạch
+
+, nếu được thực hiện, thường cao hơn và giá trị chính xác hơn. Lượng nước tiểu thấp.
+
+Sốc do phân bố gây ra các triệu chứng tương tự, ngoại trừ da có thể ấm hoặc đỏ bừng, đặc biệt là trong giai đoạn
+
+nhiễm khuẩn huyết
+
+. Xung có thể bị giới hạn chứ không phải là yếu. Trong sốc nhiễm khuẩn, sốt có thể xuất hiện trước khi ớn lạnh là biểu hiện điển hình. Một số bệnh nhân bị
+
+sốc phản vệ
+
+có nổi mày đay hoặc thở khò khè.
+
+Nhiều triệu chứng khác (ví dụ, đau ngực, khó thở, đau bụng) có thể là do bệnh nền hoặc suy cơ quan thứ phát.
+
+Chẩn đoán sốc
+
+Bệnh sử và khám lâm sàng
+
+Các dấu hiệu sinh tồn
+
+Kiểm tra xu hướng kết quả
+
+Chẩn đoán chủ yếu là lâm sàng, dựa trên bằng chứng về thiếu tưới máu mô (mức độ giảm về ý thức, thiểu niệu, ngoại biên tím) và các dấu hiệu của cơ chế bù đắp (nhịp tim nhanh, thở nhanh, vã mồ hôi). Tiêu chuẩn cụ thể bao gồm
+
+trơ
+
+Nhịp tim
+
+>
+
+100 nhịp/phút
+
+Nhịp thở
+
+>
+
+22 lần/phút
+
+Hạ huyết áp (huyết áp tâm thu
+
+<
+
+90 mm Hg) hoặc giảm 30 mm Hg so với huyết áp ở lần khám ban đầu
+
+Lượng nước tiểu
+
+<
+
+0,5 mL/kg/giờ
+
+Các xét nghiệm hỗ trợ chẩn đoán bao gồm
+
+Lactat
+
+>
+
+3 mmol/L (27 mg/dL)
+
+Thiếu hụt kiềm
+
+<
+
+−
+
+4 mEq/L
+
+PaCO2
+
+<
+
+32 mm Hg (
+
+<
+
+4,26 kPa)
+
+Tuy nhiên, không phải một trong những xét nghiệm này có giá trị chẩn đoán, mỗi giá trị có một xu hướng của nó (tức là xấu đi hoặc cải thiện) và trong bối cảnh lâm sàng tổng thể, bao gồm các dấu hiệu thực thể.
+
+Quang phổ cận hồng ngoại là một kỹ thuật không xâm lấn và nhanh chóng có thể đo mức độ sốc; tuy nhiên, kỹ thuật này vẫn chưa được xác nhận ở quy mô lớn hơn.
+
+Xác định căn nhân
+
+Nhận biết nguyên nhân gây sốc thường quan trọng hơn việc phân loại loại sốc. Nguyên nhân có thể rõ ràng hoặc có thể được nhận biết nhanh chóng dựa trên bệnh sử và khám thực thể, được hỗ trợ bằng xét nghiệm đơn giản.
+
+Nguyên nhân có thể liên quan đến tim hoặc phổi:
+
+Đau ngực
+
+(kèm hoặc không kèm khó thở) gợi ý
+
+nhồi máu cơ tim (MI)
+
+,
+
+tách thành động mạch chủ
+
+, hoặc là
+
+tắc mạch phổi
+
+.
+
+Tiếng thổi tâm thu có thể chỉ ra vỡ vách liên thất hoặc
+
+hở van hai lá
+
+do nhồi máu cơ tim cấp.
+
+Tiếng thổi tâm trương có thể gợi ý
+
+hở van động mạch chủ
+
+do
+
+bóc tách động mạch chủ
+
+liên quan đến gốc động mạch chủ.
+
+Chèn ép tim
+
+được gợi ý bởi tĩnh mạch cổ nổi, tiếng tim mờ, và mạch nghịch thường.
+
+Thuyên tắc phổi
+
+đủ nặng để gây sốc thường làm giảm độ bão hòa oxy và xảy ra thường xuyên hơn ở những cơ sở đặc biệt, bao gồm nghỉ ngơi tại giường kéo dài và sau thủ thuật phẫu thuật.
+
+Các kiểm tra để đánh giá và phân biệt giữa các nguyên nhân tim hoặc phổi này bao gồm điện tâm đồ (ECG), đo men tim, chụp X-quang ngực, đo khí máu động mạch (ABG), chụp quét phổi, chụp CT xoắn ốc và siêu âm tim.
+
+Nguyên nhân có thể liên quan đến các vấn đề ở bụng:
+
+Đau bụng hoặc đau lưng hoặc phản ứng thành bụng gợi ý
+
+viêm tụy
+
+,
+
+vỡ phình động mạch chủ bụng
+
+, viêm phúc mạc (ví thủng tạng rỗng), và ở phụ nữ tuổi sinh đẻ,
+
+mang thai ngoài tử cung vỡ
+
+.
+
+Một khối đường giữa cho thấy vỡ phình động mạch chủ bụng. Một khối ở phụ kèm theo gợi í có thai ngoài tử cung.
+
+Các kiểm tra thường bao gồm chụp CT bụng (nếu bệnh nhân không ổn định, siêu âm tại giường có thể hữu ích), công thức máu (CBC), amylase, lipase và xét nghiệm thai bằng nước tiểu đối với phụ nữ trong độ tuổi sinh đẻ.
+
+Các nguyên nhân khác bao gồm
+
+Sốt, ớn lạnh và các dấu hiệu nhiễm trùng khu trú gợi ý
+
+sốc nhiễm trùng
+
+, đặc biệt là ở những bệnh nhân bị suy giảm miễn dịch.
+
+Sốt đơn độc, tùy thuộc vào bệnh sử và bối cảnh lâm sàng, có thể chỉ ra
+
+say nắng
+
+.
+
+Các xét nghiệm bao gồm chụp X-quang ngực; xét nghiệm nước tiểu; CBC; và cấy dịch của vết thương, máu, nước tiểu, và các chất dịch cơ thể liên quan khác.
+
+Ở một vài bệnh nhân, nguyên nhân là không rõ. Bệnh nhân không có triệu chứng hoặc dấu hiệu khu trú chỉ ra nguyên nhân cần phải được đo điện tâm đồ, đo men tim, chụp X-quang ngực và ABG. Nếu kết quả của các xét nghiệm này là bình thường, các nguyên nhân tiềm ẩn khác bao gồm dùng thuốc hoặc thuốc phiện bất hợp pháp quá liều, nhiễm trùng tiềm ẩn (bao gồm
+
+sốc do nhiễm độc
+
+), sốc
+
+phản vệ
+
+và sốc do tắc nghẽn.
+
+Kiểm tra bổ sung
+
+Nếu chưa thực hiện, ECG, chụp X-quang ngực, CBC, điện giải đồ huyết thanh, nitơ
+
+urê
+
+máu (BUN), creatinine, thời gian protrombin (PT), thời gian Thromboplastin riêng phần (PTT), xét nghiệm chức năng gan, các sản phẩm phân tách fibrinogen và fibrin sẽ được thực hiện. được thực hiện để theo dõi tình trạng của bệnh nhân và làm chỉ số ở lần khám ban đầu.
+
+Nếu tình trạng dịch của bệnh nhân khó xác định, việc theo dõi áp lực tĩnh mạch trung tâm (CVP) hoặc áp lực động mạch phổi (PAOP) có thể hữu ích. CVP
+
+<
+
+5 mm Hg (
+
+<
+
+7 cm nước) hoặc PAOP
+
+<
+
+8 mm Hg có thể cho thấy tình trạng giảm thể tích máu, mặc dù CVP có thể lớn hơn ở những bệnh nhân bị giảm thể tích máu đã có
+
+tăng áp động mạch phổi
+
+từ trước.
+
+Siêu âm tim nhanh tại giường (do bác sĩ điều trị thực hiện) để đánh giá mức độ làm đầy và chức năng của tim thường được sử dụng để đánh giá tình trạng sốc và hoạt động tổng thể của tim (để xem xét,
+
+1, 2
+
+).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Ferrada P
+
+: Image-based resuscitation of the hypotensive patient with cardiac ultrasound: an evidence-based review.
+
+J Trauma Acute Care Surg
+
+80 (3): 511–518, 2016.
+
+2.
+
+Martin ND, Codner P, Greene W, et al
+
+: Contemporary hemodynamic monitoring, fluid responsiveness, volume optimization, and endpoints of resuscitation: an AAST critical care committee clinical consensus.
+
+Trauma Surg Acute Care Open
+
+5(1):e000411, 2020. doi: 10.1136/tsaco-2019-000411
+
+Điều trị sốc
+
+Chăm sóc hỗ trợ
+
+Truyền dịch
+
+Điều trị khác phụ thuộc vào loại và nguyên nhân gây sốc
+
+Xử trí chung đối với sốc
+
+Cấp cứu bao gồm việc giữ ấm bệnh nhân. Xuất huyết bên ngoài được kiểm soát, kiểm tra đường thở và thông khí, và hỗ trợ hô hấp nếu cần. Không có gì được đưa vào miệng, và đầu của bệnh nhân được nghiêng sang một bên để tránh hít nếu nôn mửa.
+
+Điều trị bắt đầu đồng thời với đánh giá.
+
+Cung cấp oxy qua mask thở. Nếu sốc nặng hoặc nếu thông khí không đầy đủ,
+
+đặt nội khí quản bằng khí thở bằng máy
+
+là cần thiết. Hai đường truyền tĩnh mạch ngoại biên lớn (14 đến 16) được thiết lập. Một đường truyền tĩnh mạch trung tâm hoặc một
+
+đường truyền trong xương
+
+, đặc biệt là ở trẻ em, cung cấp một phương pháp thay thế khi tĩnh mạch ngoại biên không thể thiết lập kịp thời.
+
+Thông thường, thử thách bằng dịch; 1 L (hoặc 20 mL/kg ở trẻ em) dung dịch muối 0,9% được truyền trong 15 phút. Trong xuất huyết nặng, Ringer's lactate thường được sử dụng, mặc dù trong xuất huyết nặng, nên giảm thiểu việc sử dụng crystalloid để
+
+truyền các sản phẩm máu
+
+(hồng cầu, huyết tương tươi đông lạnh và tiểu cầu theo tỷ lệ 1:1:1) (
+
+1
+
+,
+
+2
+
+). Trừ khi các thông số lâm sàng trở lại bình thường, việc truyền dịch vẫn được tiếp tục. Lượng dịch nhỏ hơn (ví dụ 250 đến 500 mL) được sử dụng cho bệnh nhân có dấu hiệu áp lực cao ở bên phải (ví dụ, giãn tĩnh mạch cổ) hoặc nhồi máu cơ tim cấp tính.
+
+Một thử thách về dịch có thể không được thực hiện ở bệnh nhân có dấu hiệu phù phổi. Liệu pháp truyền dịch tiếp theo dựa trên tình trạng nền và có thể cần theo dõi CVP hoặc PAOP. Siêu âm tim tại giường để đánh giá khả năng co bóp và sự biến đổi hô hấp của tĩnh mạch chủ có thể giúp xác định nhu cầu bổ sung dịch so với nhu cầu hỗ trợ co bóp cơ tim.
+
+Bệnh nhân bị sốc là đặc biệt nặng và phải được nhập vào khoa hồi sức tích cực. Giám sát bao gồm
+
+ECG
+
+Huyết áp tâm thu, tâm trương và huyết áp trung bình, tốt nhất là bằng ống thông nội động mạch
+
+Nhịp thở và độ sâu
+
+Đo độ bão hòa oxy trong máu động mạch
+
+Lưu lượng nước tiểu bằng ống thông bàng quang lưu
+
+Nhiệt độ cơ thể
+
+Tình trạng lâm sàng, bao gồm tri giác (ví dụ,
+
+Thang điểm hôn mê Glasgow
+
+), thể tích mạch, nhiệt độ da và màu sắc
+
+Đo CVP, PAOP, và hòa loãng nhiệt cung lượng tim bằng cách sử dụng một bóng
+
+ống thông động mạch phổi
+
+có thể giúp ích cho việc chẩn đoán và quản lý ban đầu của bệnh nhân bị sốc không rõ nguyên nhân hoặc lẫn lộn nguyên nhân hoặc bị sốc nặng, đặc biệt khi đi kèm với chứng thiểu niệu hoặc phù phổi. Siêu âm tim (tại giường hoặc qua thực quản) là một phương pháp thay thế ít xâm lấn hơn.
+
+Đo tuần tự khí máu động mạch, Hematocrit, điện giải, creatinine huyết thanh, và lactate trong máu.
+
+Đo carbon dioxide dưới lưỡi
+
+, nếu có, theo dõi không xâm lấn tưới máu tạng (nồng độ tăng khi giảm tưới máu mô). Một dòng được thiết kế tốt để theo dõi xu hướng sẽ rất hữu ích.
+
+Bởi vì giảm tưới máu mô làm cho sự hấp thu qua đường tiêm bắp không đáng tin cậy nên tất cả các loại thuốc tiêm đều được cho dùng theo đường tĩnh mạch. Opioid thường tránh được vì chúng có thể gây giãn mạch, nhưng đau nặng có thể được điều trị với morphine 0,1 mg/kg đường tĩnh mạch trong 2 phút và lặp lại 10 đến 15 phút một lần nếu cần. Mặc dù giảm tưới máu não có thể gây lo âu, an thần hoặc thuốc an thần không thường xuyên được dùng trừ khi bệnh nhân được đặt nội khí quản.
+
+Sau khi hồi sức ban đầu, điều trị cụ thể là hướng vào điều kiện cơ bản. Chăm sóc hỗ trợ bổ sung được theo loại sốc.
+
+Công cụ tính toán lâm sàng
+
+Huyết áp trung bình (huyết áp hệ thống hoặc áp lực động mạch phổi)
+
+Điều trị sốc do xuất huyết
+
+Điều trị phẫu thuật chảy máu
+
+Truyền máu sớm các chế phẩm máu
+
+Trong sốc mất máu, phẫu thuật kiểm soát chảy máu là ưu tiên hàng đầu.
+
+Thay thế thể tích
+
+đi kèm thay vì đi trước phẫu thuật để phục hồi việc cầm máu. Các chế phẩm máu và các dung dịch tinh thể được sử dụng để hồi sức; tuy nhiên, tế bào hồng cầu, plasma đông lạnh tươi, và tiểu cầu được truyền sớm hơn và theo tỷ lệ 1:1:1 ở những bệnh nhân có nhu cầu
+
+truyền máu số lượng lớn
+
+. Không đáp ứng thường chỉ ra không đủ thể tích cần truyền hoặc không tìm ra được điểm xuất huyết đang diễn ra. Thuốc co mạch có thể được thử trong sốc mất máu nhưng chỉ sau khi đã hồi phục đủ lượng máu và kiểm soát chảy máu trước khi có thể làm tệ thêm outcome.
+
+Điều trị sốc do phân bố
+
+Truyền dịch tinh thể
+
+Đôi khi dùng thuốc tăng co bóp cơ tim hoặc thuốc vận mạch
+
+Thuốc kháng khuẩn để điều trị sốc nhiễm khuẩn
+
+Epinephrine cho phản vệ
+
+Sốc phân bổ với hạ huyết áp sâu sau khi bồi phụ khối dịch với dung dịch muối 0,9% có thể được điều trị bằng các thuốc trợ tim hoặc thuốc co mạch (ví dụ, dopamine, norepinephrine - xem bảng
+
+Catecholamine Inotropic và Vasoactive
+
+). Bệnh nhân bị sốc nhiễm khuẩn được cho
+
+kháng sinh phổ rộng
+
+. Bệnh nhân bị
+
+sốc phản vệ
+
+không đáp ứng với bù dịch (đặc biệt là nếu kèm theo co thắt phế quản) được dùng 0,05 mg đến 0,1 mg epinephrine đường tĩnh mạch, sau đó truyền
+
+epinephrine
+
+0,02 mcg/kg/phút.
+
+Bảng
+
+Thuốc Catecholamine trợ tim và co mạch
+
+Bảng
+
+Thuốc Catecholamine trợ tim và co mạch
+
+Thuốc Catecholamine trợ tim và co mạch
+
+Thuốc
+
+Liều dùng
+
+huyết động
+
+Dobutamine
+
+2,5–10 mcg/kg/phút
+
+Beta-adrenergic: Tác dụng trợ tim*
+
+Dopamine
+
+2-10 mcg/kg/phút đối với liều thấp
+
+20 mcg/kg/phút đối với liều cao
+
+Alpha-adrenergic: Co mạch†
+
+Beta-adrenergic: Co bóp cơ tim và tác dụng chuyển nhịp và giãn mạch†
+
+Nonadrenergic: Làm giãn mạch thận và mạch tạng
+
+Norepinephrine
+
+2–12 mcg/phút HOẶC
+
+0,1 mcg/kg/phút (liều dựa trên cân nặng)
+
+Alpha-adrenergic: Co mạch
+
+Beta-adrenergic: Co bóp cơ tim và chuyển nhịp
+
+* Chuyển nhịp, loạn nhịp tim, và tác động trực tiếp tới mạch máu là tối thiểu ở liều thấp.
+
+† Tác dụng phụ thuộc vào liều lượng và sinh lý bệnh cơ bản.
+
+* Chuyển nhịp, loạn nhịp tim, và tác động trực tiếp tới mạch máu là tối thiểu ở liều thấp.
+
+† Tác dụng phụ thuộc vào liều lượng và sinh lý bệnh cơ bản.
+
+Điều trị sốc do tim
+
+Điều trị nguyên nhân
+
+Trong sốc tim, rối loạn về cấu trúc (ví dụ, rối loạn chức năng van, vỡ vách) được phẫu thuật sửa chữa.
+
+Huyết khối mạch vành được điều trị bằng
+
+các can thiệp qua da
+
+(nong mạch, đặt stent),
+
+phẫu thuật bắc cầu động mạch vàn
+
+h hoặc
+
+tiêu huyết khối
+
+.
+
+Loạn nhịp nhanh (ví dụ: rung nhĩ nhanh, nhịp nhanh thất) chậm lại do
+
+sốc điện chuyển nhịp
+
+hoặc với
+
+thuốc chống loạn nhịp
+
+. Nhịp tim chậm được điều trị bằng
+
+máy tạo nhịp tim
+
+qua da hoặc qua tĩnh mạch; atropine 0,5 mg đường tĩnh mạch 5 phút một lần có thể cho đến 4 liều trong khi chờ đặt máy tạo nhịp tim. Isoproterenol ở mức liều 1 đến 4 mcg/phút đôi khi có hiệu quả nếu atropine không hiệu quả, nhưng không được khuyên dùng cho những bệnh nhân bị thiếu máu cơ tim do bệnh động mạch vành.
+
+Sốc sau khi MI cấp tính được điều trị với tăng thể tích nếu PAOP thấp hoặc bình thường; 15 đến 18 mm Hg được coi là tối ưu. Nếu không đặt ống thông động mạch phổi hoặc không có siêu âm tim tại giường, có thể thử truyền dịch một cách thận trọng (250 mL đến 500 mL dung dịch nước muối sinh lý 0,9%) trong khi nghe lồng ngực thường xuyên để tìm dấu hiệu quá tải dịch. Sốc sau nhồi máu cơ tim thất phải thường đáp ứng một phần với truyền dịch tăng thể tích; tuy nhiên, các thuốc co mạch có thể là cần thiết. Siêu âm tim tại giường để đánh giá khả năng co bóp và sự biến đổi hô hấp của tĩnh mạch chủ có thể giúp xác định nhu cầu bổ sung dịch hoặc thuốc vận mạch; hỗ trợ tăng co bóp cơ tim là phương pháp tốt hơn cho những bệnh nhân có mức độ làm đầy bình thường hoặc trên mức bình thường.
+
+Nếu hạ huyết áp là vừa phải (ví dụ áp huyết trung bình [MAP] 70-90 mmHg), truyền tĩnh mạch dobutamine có thể được sử dụng để cải thiện cung lượng tim và làm giảm áp lực đổ đầy thất trái. Nhịp tim nhanh và loạn nhịp thỉnh thoảng xảy ra khi truyền
+
+dobutamine
+
+điều trị, đặc biệt ở liều cao hơn, cần giảm liều. Chất làm giãn mạch (ví dụ, nitroprusside, nitroglycerin), làm tăng khả năng chứa tĩnh mạch hoặc giảm sức cản mạch hệ thống, làm giảm khối lượng công việc trên cơ tim bị tổn thương và có thể làm tăng cung lượng tim ở bệnh nhân không hạ huyết áp trầm trọng. Liệu pháp kết hợp (ví dụ, dopamine hoặc
+
+dobutamine
+
+với
+
+nitroprusside
+
+hoặc là
+
+nitroglycerin
+
+) có thể đặc biệt hữu ích nhưng đòi hỏi theo dõi ECG chặt chẽ và theo dõi huyết động mạch hệ thống và mạch phổi.
+
+Đối với hạ huyết áp nghiêm trọng hơn (MAP
+
+<
+
+70 mm Hg), norepinephrine hoặc dopamine có thể được dùng, với đích áp lực tâm thu là 80 đến 90 mm Hg (và không
+
+>
+
+110 mm Hg).
+
+Bơm bóng đối xung động mạch chủ là rất có giá trị để tạm thời làm đảo chiều sốc ở bệnh nhân MI. Thủ thuật này nên được coi như là một cầu nối để cho phép đặt catheter và chụp mạch vành trước khi có thể can thiệp phẫu thuật ở bệnh nhân MI cấp biến chứng thủng vách liên thất hoặc hở van hai lá nặng có nhu cầu thuốc co mạch
+
+>
+
+30 phút.
+
+Trong sốc tắc nghẽn, chèn ép tim không do chấn thương đòi hỏi ngay lập tức
+
+dẫn lưu màng ngoài tim
+
+, có thể được thực hiện ở tại giường. Chèn ép tim do chấn thương cần giải áp bằng phẫu thuật và sữa chữa.
+
+Tràn khí màng phổi áp lực
+
+cần được giải áp ngay lập tức bằng ống thông đưa vào khoang liên sườn 2, đường giữa đòn; sau đó một ống ngực được đưa vào.
+
+Thuyên tắc phổi
+
+trên diện rộng dẫn đến sốc được điều trị bằng thuốc chống đông máu và làm tan huyết khối, phẫu thuật cắt bỏ huyết khối hoặc oxy hóa qua màng ngoài cơ thể trong một số trường hợp chọn lọc.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Holcomb JB, Tilley BC, Baraniuk S, et al
+
+: Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: The PROPPR randomized clinical trial.
+
+JAMA
+
+313(5):471-482, 2015. doi:10.1001/jama.2015.12
+
+2.
+
+Cannon JW, Khan MA, Raja AS, et al
+
+: Damage control resuscitation in patients with severe traumatic hemorrhage: A practice management guideline from the Eastern Association for the Surgery of Trauma.
+
+J Trauma Acute Care Surg
+
+82(3): 605-617, 2017. doi: 10.1097/TA.0000000000001333
+
+Tiên lượng về sốc
+
+Sốc không được điều trị thường gây tử vong. Ngay cả khi điều trị, tỷ lệ tử vong do sốc tim sau khi nhồi máu cơ tim (60 đến 65%) và sốc nhiễm khuẩn (30 đến 40%) là cao.
+
+Tiên lượng phụ thuộc vào nguyên nhân, bệnh lý có sẵn hoặc phức tạp của bệnh, thời gian giữa khởi phát và chẩn đoán, sự kịp thời và đầy đủ của điều trị.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của sốc ---
+
+Khiếm khuyết cơ bản của sốc là giảm tưới máu của mô sống. Một khi giảm tưới máu và vận chuyển O2 đến các tế bào là không thỏa đáng cho quá trình trao đổi chất hiếu khí, các tế bào chuyển sang chuyển hóa yếm khí với sự gia tăng sản xuất CO2 và tăng lượng lactate trong máu. Chức năng tế bào giảm, và nếu sốc còn kéo dài, tổn thương tế bào không phục hồi và tử vong.Trong sốc, quá trình viêm và đông máu có thể được kích hoạt ở những vùng bị giảm tưới máu. Các tế bào nội mô mạch máu bị thiếu oxy sẽ kích hoạtcác bạch cầu, gắn kết với nội mô và giải phóng các chất gây tổn hại trực tiếp (ví dụ: các loại oxy phản ứng, enzyme phân giải protein) vàcác chất trung gian gây viêm(ví dụ: cytokine, leukotrien, yếu tố hoại tử khối u). Một số trong những trung gian này liên kết với thụ thể bề mặt tế bào và kích hoạt hạt nhân kappa B (NFκB) dẫn đến sản xuất thêm các cytokine và oxit nitric (NO), chất làm giãn mạch mạnh.Đông máu rải rác trong lòng mạchđôi khi có thể là kết quả của sự kích hoạt các tầng này.Có nhiều cơ chế sốc khác nhau, được mô tả dưới đây.Sốc nhiễm trùngmột loại sốc có tính phân bố, có thể gây viêm nhiều hơn các dạng sốc khác do tác động của độc tố vi khuẩn, đặc biệt là nội độc tố.Huyết áp không phải lúc nào cũng thấp trong giai đoạn đầu của sốc (mặc dù hạ huyết áp cuối cùng xảy ra nếu sốc không phục hồi). Tương tự như vậy, không phải tất cả những bệnh nhân huyết áp thấp đều bị sốc. Mức độ và hậu quả của hạ huyết áp khác nhau với sự bù đắp về mặt sinh lý và các bệnh lý nền của bệnh nhân. Do đó, mức độ hạ huyết áp vừa phải mà người trẻ hoặc người tương đối khỏe mạnh có thể dung nạp tốt có thể dẫn đến rối loạn chức năng não, tim hoặc thận nặng ở người cao tuổi bị xơ cứng động mạch đáng kể.Bù dịch trong sốcBan đầu, khi cung cấp oxy (DO2) giảm, các mô bù bằng cách trích xuất một tỷ lệ oxy đã cung cấp lớn hơn. Huyết áp động mạch thấp gây ra đáp ứng hệ adrenergic với sự co mạch qua trung gian giao cảm và thường làm tăng nhịp tim. Ban đầu, co thắt mạch máu là chọn lọc, shunt máu tới tim và não và ra khỏi tuần hoàn tạng. Tuần hoàn qua amin beta-adrenergic (epinephrine,norepinephrine) cũng làm tăng co bóp tim và kích hoạt giải phóngCác corticosteroid từ tuyến thượng thậnRenin từ thậnGlucose từ ganCorticosteroid làm tăng tác dụng của catecholamine. Renin kích thích duy trì thể tích và co mạch. Tăng glucose làm tăng sự hấp thu pyruvate trong ty thể, làm tăng sản sinh lactate khi không đủ oxy.Tái tưới máu sau sốcKhi tình trạng sốc được giải quyết, việc tái tưới máu các tế bào thiếu máu cục bộ có thể gây ra tổn thương nặng hơn. Khi chất nền được đưa ra lại, hoạt động của bạch cầu trung tính có thể tăng lên, tăng sản xuất các gốc superoxit gây hại và các gốc hydroxyl khử. Sau khi lưu lượng máu được phục hồi, các chất trung gian gây viêm tập trung tại chỗ có thể được lưu thông đến các cơ quan khác.Hội chứng rối loạn chức năng đa cơ quan (MODS)Sự kết hợp giữa tổn thương trực tiếp và tái tưới máu có thể gây ra MODS – rối loạn chức năng tiến triển của≥2 cơ quan do bệnh tật hoặc chấn thương đe dọa tính mạng. MODS có thể ở bất kỳ kiểu sốc nào nhưng phổ biến nhất khi có liên quan tới nhiễm trùng; sự suy cơ quan là một trong những đặc điểm xác định củasốc nhiễm trùng. MODS cũng xảy ra ở>10% số bệnh nhân bị chấn thương nặng và là nguyên nhân đầu tiên gây tử vong ở những người còn sống sót>24 giờ.Ngọc trai & cạm bẫyHội chứng rối loạn chức năng đa cơ quan là tình trạng rối loạn chức năng tiến triển của≥2 cơ quan do bệnh tật hoặc chấn thương đe dọa tính mạng.Bất kỳ hệ thống cơ quan nào cũng có thể bị ảnh hưởng, nhưng các cơ quan mục tiêu thường gặp nhất là phổi, trong đó tính thấm của màng tăng lên dẫn đến tràn dịch phế nang và gây viêm thêm. Tình trạng thiếu oxy tiến triển có thể ngày càng kháng lại với liệu pháp oxy hỗ trợ. Tình trạng này được gọi là tổn thương phổi cấp tính hoặc, nếu nghiêm trọng,hội chứng suy hô hấp cấp tính(ARDS).Thận bị thương tổn khi tưới máu thận giảm nghiêm trọng, dẫn đếnhoại tử ống thận cấpvà suy thận biểu hiện bằng thiểu niệu và tăng dần creatinine huyết thanh.Ở tim, giảm tưới máu mạch vành và tăng các chất trung gian gây viêm (bao gồm cả yếu tố hoại tử khối u và interleukin-1) có thể làm giảm khả năng co bóp, làm trầm trọng khả năng tuân thủ của cơ tim và các thụ thể beta giảm điều hòa.Loạn nhịp timcó thể xảy ra. Những yếu tố này làm giảm cung lượng tim, làm trầm trọng cả mức tưới máu cơ tim và tưới máu hệ thống và gây ra một vòng luẩn quẩn thường dẫn đến tử vong.Trong đường tiêu hoá, đường ruột và xuất huyết dưới niêm mạc có thể xảy ra. Giảm tưới máu ở gan có thể gây hoại tử cục bộ hoặc toàn bộ tế bào gan, tăng transaminase và bilirubin, và giảm sản xuất các yếu tố đông máu.Đông máu có thể bị suy giảm, bao gồm các biểu hiện nghiêm trọng nhất,rối loạn đông máu nội mạch.
+
+--- 2. Nguyên nhân và phân loại sốc ---
+
+Có một số cơ chế gây giảm tưới máu cơ quan và sốc. Sốc có thể doThể tích tuần hoàn thấp (sốc giảm thể tích)Giãn mạch (sốc phân bố)giảm đầu tiên cung lượng tim (cả sốc tim lẫn sốc tắc nghẽn)Một sự kết hợpSốc giảm thể tíchSốc giảm thể tích là do giảm khối lượng nội mạch. Giảm tĩnh mạch trở về (tiền gánh) kết quả làm giảm đổ đầy tâm thất và giảm thể tích đột quỵ. Trừ khi được bồi phụ bởi nhịp tim tăng lên, cung lượng tim giảm.Nguyên nhân thường gặp là chảy máu (sốc mất máu), điển hình là do chấn thương, can thiệp phẫu thuật, loét dạ dày, loét thực quản, hoặc phình động mạch chủ vỡ. Chảy máu có thể là hiển nhiên thấy (ví dụ, nôn máu, đi ngoài phân đen) hoặc bị che lấp (ví dụ, chưa ngoài tử cung vỡ).Sốc giảm thể tích cũng có thể xảy ra sau khi mất nhiều nước trong cơ thể ngoài máu (không xuất huyết, xem bảngSốc giảm thể tích do mất nước trong cơ thể).BảngSốc giảm thể tích do mất nước trong cơ thể (không xuất huyết)Sốc giảm thể tích do mất nước trong cơ thể (không xuất huyết)Vị trí mất dịchCơ chế mất dịchDaBỏngnhiệt hoặc hóa chấtĐổ mồ hôi dotiếp xúc với nhiệt độquá caoĐường tiêu hóaNôn ói,tiêu chảyThậnSuy thượng thậnĐái tháo đường,thiếu hụt arginine vasopressin(trước đây là đái tháo nhạt do trung ương), hoặckháng arginine vasopressin(trước đây là đái tháo nhạt do thận)Giai đoạn đái nhiều sau tổn thương ống thận cấp tínhSử dụng lợi tiểu mạnhViêm thận mất muốiDịch trong lòng mạch bị mất ra khoảng gian bàoTăng tính thấm mao mạch thứ phát sau viêm, thiếu oxy toàn thân nặng hoặc thiếu máu cục bộ, hoặc thương tổn do chấn thương (ví dụ, nghiền nát), nhiễm trùng huyết, thiếu máu cục bộ ruột, viêm tụy cấpSốc giảm thể tích có thể là do thiếu dịch vào (có hoặc không có sự mất nước tăng lên). Nước có thể không có, tổn thương thần kinh có thể làm giảm cơ chế khát, hoặc khuyết tật về thể chất có thể làm giảm khả năng tiếp cận.Ở bệnh nhân nằm viện, tình trạng giảm thể tích có thể kết hợp nếu các dấu hiệu suy tuần hoàn không được cho phù hợp với suy tim và dịch được giữ lại hoặc dùng thuốc lợi tiểu.Sốc phân bốSốc phân bố do không thích hợp tương đối của thể tích trong mạch máu gây ra bởi sự giãn mạch động mạch hoặc tĩnh mạch; thể tích tuần hoàn bình thường. Trong một số trường hợp, cung lượng tim (và DO2) là cao, nhưng sự gia tăng lưu lượng máu qua shunt động tĩnh mạch qua các mao mạch; vòng bỏ qua này cộng với các tế bào không liên kết oxy để vận chuyển gây giảm tế bào máu (thể hiện bằng việc giảm tiêu thụ oxy). Trong những tình huống khác, máu tụ trong giường tĩnh mạch và giảm lượng ra từ tim.Sốc do phân phối có thể doPhản vệ(sốc phản vệ)Nhiễm vi khuẩn giải phóng nội độc tố (sốc nhiễm trùng) hoặc giải phóng ngoại độc tố (sốc nhiễm độc)Tổn thương nặng ở tủy sống, thường trên T4 (sốc do thần kinh)Nuốt phải một số loại thuốc (ví dụ: nitrat, opioid hoặc thuốc chẹn adrenergic) hoặc chất độc (sốc do độc tố).Trong sốc nhiễm khuẩn, giãn mạch sẽ dẫn giảm hồ máu và hạ huyết áp do tình trạng giảm thể tích máu "tương đối" (tức là lượng máu lớn cần được đổ đầy). Sự giãn mạch tại chỗ có thể tạo shunt dòng máu qua khoang ngoài cơ thể, gây ra tình trạng giảm tưới máu tại chỗ mặc dù cung lượng tim và huyết áp bình thường. Ngoài ra, lượng Nitric oxide dư thừa được chuyển thành peroxynitrite, gốc tự do gây tổn thương ty thể và làm giảm sản xuất ATP (adenosinetriphosphate). Lưu lượng máu đến các vi mạch, bao gồm cả các mao mạch, bị giảm mặc dù lưu lượng máu đến các mạch lớn vẫn được bảo toàn trong sốc nhiễm trùng. Cơ chế gây tắc nghẽn mạch máu nhỏ, ít nhất là một phần, có thể hạn chế sự phân bố chất nền. Các bạch cầu và tiểu cầu gắn vào nội mô trong khuôn khổ của quá trình đông máu, gây ra sự chuyển đổifibrinogenthành fibrin và ổn định nút tiểu cầu.Nhiều chất trung gian, cùng với rối loạn chức năng tế bào nội mô, làm tăng đáng kể tính thấm của vi mạch, cho phép dịch và đôi khi là cả protein huyết tương thoát vào khoảng kẽ (1, 2, 3). Trong đường tiêu hoá, tăng tính thấm có thể cho phép di chuyển các vi khuẩn đường ruột từ lòng ruột, dẫn đến nhiễm trùng huyết hoặc nhiễm trùng di bệnh.Bạch cầu trung tính chết theo chương trình có thể được ức chế, tăng cường giải phóng các chất trung gian gây viêm. Trong các tế bào khác, chết theo chương trình có thể tăng lên, gia tăng sự chết của tế bào và do đó làm nặng thêm rối loạn chức năng của cơ quan.Sốc phản vệ và sốc nhiễm khuẩn huyết thường có một phần là giảm thể tích.Sốc tim và sốc tắc nghẽnSốc timlà sự giảm tương đối hoặc tuyệt đối cung lượng tim do rối loạn tim mạch nguyên phát. Sốc tắc nghẽn có cơ chế có yếu tố cản trở cho việc đổ đầy hoặc rỗng tim hoặc các mạch máu lớn. Nguyên nhân được liệt kê trong bảngCơ chế gây sốc tim và sốc tắc nghẽn.BảngCơ chế gây sốc tim và sốc tắc nghẽnCơ chế gây sốc tim và sốc tắc nghẽnKiểuCơ chếNguyên nhânTắc nghẽnCơ chế là tác động tới đồ đầy tâm thấtTràn khí màng phổi áp lực, chèn ép tĩnh mạch chủ,chèn ép tim, khối u hoặc cục máu đông ở tâm nhĩCan thiệp vào việc rỗng tâm thấtThuyên tắc động mạch phổiTimGiảm co bóp cơ timThiếu máu cục bộ cơ tim hoặcnhồi máu cơ tim,viêm cơ tim, các loại thuốcRối loạn nhịpNhịp tim nhanh, nhịp tim chậmRối loạn cấu trúc timHởvan hai láhoặchở van động mạch chủcấp tính, vách ngăn liên thất bị vỡ, trục trặc van giảTài liệu tham khảo về căn nguyên và phân loại1.Salmon AH, Satchell SC: Endothelial glycocalyx dysfunction in disease: Albuminuria and increased microvascular permeability.J Pathol226:562–74, 2012. doi: 10.1002/path.39642.Chelazzi C, Villa G, Mancinelli P, et al: Glycocalyx and sepsis-induced alterations in vascular permeability.Crit Care19(1):26, 2015. doi: 10.1186/s13054-015-0741-z3.Martin L, Koczera P, Zechendorf E, et al: The endothelial glycocalyx: New diagnostic and therapeutic approaches in sepsis.Biomed Res Int2016:3758278, 2016. doi: 10.1155/2016/3758278
+
+--- 3. Triệu chứng và dấu hiệu của sốc ---
+
+Rối loạn ý thức (ví dụ, mệt mỏi, hôn mê, ngủ gà) là một dấu hiệu phổ biến của sốc. Bàn tay và chân đều nhợt nhạt, lạnh, ẩm, và thường tím, như là vành tai, mũi và móng. Thời gian làm đầy mao mạch kéo dài, và ngoại trừ cú sốc phân bố, da xuất hiện màu xám hoặc mờ hoặc ẩm ướt. Có thể vã mồ hôi. Mạch ngoại biên yếu và thường nhanh; thường, chỉ có mạch đùi hoặc mạch cảnh bắt rõ. Có thể có hiện tượng thở nhanh và tăng thông khí. Huyết áp có xu hướng thấp (<90 mm Hg tâm thu) hoặc không đo được; đo trực tiếp bằngcatheter trong động mạch, nếu được thực hiện, thường cao hơn và giá trị chính xác hơn. Lượng nước tiểu thấp.Sốc do phân bố gây ra các triệu chứng tương tự, ngoại trừ da có thể ấm hoặc đỏ bừng, đặc biệt là trong giai đoạnnhiễm khuẩn huyết. Xung có thể bị giới hạn chứ không phải là yếu. Trong sốc nhiễm khuẩn, sốt có thể xuất hiện trước khi ớn lạnh là biểu hiện điển hình. Một số bệnh nhân bịsốc phản vệcó nổi mày đay hoặc thở khò khè.Nhiều triệu chứng khác (ví dụ, đau ngực, khó thở, đau bụng) có thể là do bệnh nền hoặc suy cơ quan thứ phát.
+
+--- 4. Chẩn đoán sốc ---
+
+Bệnh sử và khám lâm sàngCác dấu hiệu sinh tồnKiểm tra xu hướng kết quảChẩn đoán chủ yếu là lâm sàng, dựa trên bằng chứng về thiếu tưới máu mô (mức độ giảm về ý thức, thiểu niệu, ngoại biên tím) và các dấu hiệu của cơ chế bù đắp (nhịp tim nhanh, thở nhanh, vã mồ hôi). Tiêu chuẩn cụ thể bao gồmtrơNhịp tim>100 nhịp/phútNhịp thở>22 lần/phútHạ huyết áp (huyết áp tâm thu<90 mm Hg) hoặc giảm 30 mm Hg so với huyết áp ở lần khám ban đầuLượng nước tiểu<0,5 mL/kg/giờCác xét nghiệm hỗ trợ chẩn đoán bao gồmLactat>3 mmol/L (27 mg/dL)Thiếu hụt kiềm<−4 mEq/LPaCO2<32 mm Hg (<4,26 kPa)Tuy nhiên, không phải một trong những xét nghiệm này có giá trị chẩn đoán, mỗi giá trị có một xu hướng của nó (tức là xấu đi hoặc cải thiện) và trong bối cảnh lâm sàng tổng thể, bao gồm các dấu hiệu thực thể.Quang phổ cận hồng ngoại là một kỹ thuật không xâm lấn và nhanh chóng có thể đo mức độ sốc; tuy nhiên, kỹ thuật này vẫn chưa được xác nhận ở quy mô lớn hơn.Xác định căn nhânNhận biết nguyên nhân gây sốc thường quan trọng hơn việc phân loại loại sốc. Nguyên nhân có thể rõ ràng hoặc có thể được nhận biết nhanh chóng dựa trên bệnh sử và khám thực thể, được hỗ trợ bằng xét nghiệm đơn giản.Nguyên nhân có thể liên quan đến tim hoặc phổi:Đau ngực(kèm hoặc không kèm khó thở) gợi ýnhồi máu cơ tim (MI),tách thành động mạch chủ, hoặc làtắc mạch phổi.Tiếng thổi tâm thu có thể chỉ ra vỡ vách liên thất hoặchở van hai ládo nhồi máu cơ tim cấp.Tiếng thổi tâm trương có thể gợi ýhở van động mạch chủdobóc tách động mạch chủliên quan đến gốc động mạch chủ.Chèn ép timđược gợi ý bởi tĩnh mạch cổ nổi, tiếng tim mờ, và mạch nghịch thường.Thuyên tắc phổiđủ nặng để gây sốc thường làm giảm độ bão hòa oxy và xảy ra thường xuyên hơn ở những cơ sở đặc biệt, bao gồm nghỉ ngơi tại giường kéo dài và sau thủ thuật phẫu thuật.Các kiểm tra để đánh giá và phân biệt giữa các nguyên nhân tim hoặc phổi này bao gồm điện tâm đồ (ECG), đo men tim, chụp X-quang ngực, đo khí máu động mạch (ABG), chụp quét phổi, chụp CT xoắn ốc và siêu âm tim.Nguyên nhân có thể liên quan đến các vấn đề ở bụng:Đau bụng hoặc đau lưng hoặc phản ứng thành bụng gợi ýviêm tụy,vỡ phình động mạch chủ bụng, viêm phúc mạc (ví thủng tạng rỗng), và ở phụ nữ tuổi sinh đẻ,mang thai ngoài tử cung vỡ.Một khối đường giữa cho thấy vỡ phình động mạch chủ bụng. Một khối ở phụ kèm theo gợi í có thai ngoài tử cung.Các kiểm tra thường bao gồm chụp CT bụng (nếu bệnh nhân không ổn định, siêu âm tại giường có thể hữu ích), công thức máu (CBC), amylase, lipase và xét nghiệm thai bằng nước tiểu đối với phụ nữ trong độ tuổi sinh đẻ.Các nguyên nhân khác bao gồmSốt, ớn lạnh và các dấu hiệu nhiễm trùng khu trú gợi ýsốc nhiễm trùng, đặc biệt là ở những bệnh nhân bị suy giảm miễn dịch.Sốt đơn độc, tùy thuộc vào bệnh sử và bối cảnh lâm sàng, có thể chỉ rasay nắng.Các xét nghiệm bao gồm chụp X-quang ngực; xét nghiệm nước tiểu; CBC; và cấy dịch của vết thương, máu, nước tiểu, và các chất dịch cơ thể liên quan khác.Ở một vài bệnh nhân, nguyên nhân là không rõ. Bệnh nhân không có triệu chứng hoặc dấu hiệu khu trú chỉ ra nguyên nhân cần phải được đo điện tâm đồ, đo men tim, chụp X-quang ngực và ABG. Nếu kết quả của các xét nghiệm này là bình thường, các nguyên nhân tiềm ẩn khác bao gồm dùng thuốc hoặc thuốc phiện bất hợp pháp quá liều, nhiễm trùng tiềm ẩn (bao gồmsốc do nhiễm độc), sốcphản vệvà sốc do tắc nghẽn.Kiểm tra bổ sungNếu chưa thực hiện, ECG, chụp X-quang ngực, CBC, điện giải đồ huyết thanh, nitơurêmáu (BUN), creatinine, thời gian protrombin (PT), thời gian Thromboplastin riêng phần (PTT), xét nghiệm chức năng gan, các sản phẩm phân tách fibrinogen và fibrin sẽ được thực hiện. được thực hiện để theo dõi tình trạng của bệnh nhân và làm chỉ số ở lần khám ban đầu.Nếu tình trạng dịch của bệnh nhân khó xác định, việc theo dõi áp lực tĩnh mạch trung tâm (CVP) hoặc áp lực động mạch phổi (PAOP) có thể hữu ích. CVP<5 mm Hg (<7 cm nước) hoặc PAOP<8 mm Hg có thể cho thấy tình trạng giảm thể tích máu, mặc dù CVP có thể lớn hơn ở những bệnh nhân bị giảm thể tích máu đã cótăng áp động mạch phổitừ trước.Siêu âm tim nhanh tại giường (do bác sĩ điều trị thực hiện) để đánh giá mức độ làm đầy và chức năng của tim thường được sử dụng để đánh giá tình trạng sốc và hoạt động tổng thể của tim (để xem xét,1, 2).Tài liệu tham khảo chẩn đoán1.Ferrada P: Image-based resuscitation of the hypotensive patient with cardiac ultrasound: an evidence-based review.J Trauma Acute Care Surg80 (3): 511–518, 2016.2.Martin ND, Codner P, Greene W, et al: Contemporary hemodynamic monitoring, fluid responsiveness, volume optimization, and endpoints of resuscitation: an AAST critical care committee clinical consensus.Trauma Surg Acute Care Open5(1):e000411, 2020. doi: 10.1136/tsaco-2019-000411
+
+--- 5. Điều trị sốc ---
+
+Chăm sóc hỗ trợTruyền dịchĐiều trị khác phụ thuộc vào loại và nguyên nhân gây sốcXử trí chung đối với sốcCấp cứu bao gồm việc giữ ấm bệnh nhân. Xuất huyết bên ngoài được kiểm soát, kiểm tra đường thở và thông khí, và hỗ trợ hô hấp nếu cần. Không có gì được đưa vào miệng, và đầu của bệnh nhân được nghiêng sang một bên để tránh hít nếu nôn mửa.Điều trị bắt đầu đồng thời với đánh giá.Cung cấp oxy qua mask thở. Nếu sốc nặng hoặc nếu thông khí không đầy đủ,đặt nội khí quản bằng khí thở bằng máylà cần thiết. Hai đường truyền tĩnh mạch ngoại biên lớn (14 đến 16) được thiết lập. Một đường truyền tĩnh mạch trung tâm hoặc mộtđường truyền trong xương, đặc biệt là ở trẻ em, cung cấp một phương pháp thay thế khi tĩnh mạch ngoại biên không thể thiết lập kịp thời.Thông thường, thử thách bằng dịch; 1 L (hoặc 20 mL/kg ở trẻ em) dung dịch muối 0,9% được truyền trong 15 phút. Trong xuất huyết nặng, Ringer's lactate thường được sử dụng, mặc dù trong xuất huyết nặng, nên giảm thiểu việc sử dụng crystalloid đểtruyền các sản phẩm máu(hồng cầu, huyết tương tươi đông lạnh và tiểu cầu theo tỷ lệ 1:1:1) (1,2). Trừ khi các thông số lâm sàng trở lại bình thường, việc truyền dịch vẫn được tiếp tục. Lượng dịch nhỏ hơn (ví dụ 250 đến 500 mL) được sử dụng cho bệnh nhân có dấu hiệu áp lực cao ở bên phải (ví dụ, giãn tĩnh mạch cổ) hoặc nhồi máu cơ tim cấp tính.Một thử thách về dịch có thể không được thực hiện ở bệnh nhân có dấu hiệu phù phổi. Liệu pháp truyền dịch tiếp theo dựa trên tình trạng nền và có thể cần theo dõi CVP hoặc PAOP. Siêu âm tim tại giường để đánh giá khả năng co bóp và sự biến đổi hô hấp của tĩnh mạch chủ có thể giúp xác định nhu cầu bổ sung dịch so với nhu cầu hỗ trợ co bóp cơ tim.Bệnh nhân bị sốc là đặc biệt nặng và phải được nhập vào khoa hồi sức tích cực. Giám sát bao gồmECGHuyết áp tâm thu, tâm trương và huyết áp trung bình, tốt nhất là bằng ống thông nội động mạchNhịp thở và độ sâuĐo độ bão hòa oxy trong máu động mạchLưu lượng nước tiểu bằng ống thông bàng quang lưuNhiệt độ cơ thểTình trạng lâm sàng, bao gồm tri giác (ví dụ,Thang điểm hôn mê Glasgow), thể tích mạch, nhiệt độ da và màu sắcĐo CVP, PAOP, và hòa loãng nhiệt cung lượng tim bằng cách sử dụng một bóngống thông động mạch phổicó thể giúp ích cho việc chẩn đoán và quản lý ban đầu của bệnh nhân bị sốc không rõ nguyên nhân hoặc lẫn lộn nguyên nhân hoặc bị sốc nặng, đặc biệt khi đi kèm với chứng thiểu niệu hoặc phù phổi. Siêu âm tim (tại giường hoặc qua thực quản) là một phương pháp thay thế ít xâm lấn hơn.Đo tuần tự khí máu động mạch, Hematocrit, điện giải, creatinine huyết thanh, và lactate trong máu.Đo carbon dioxide dưới lưỡi, nếu có, theo dõi không xâm lấn tưới máu tạng (nồng độ tăng khi giảm tưới máu mô). Một dòng được thiết kế tốt để theo dõi xu hướng sẽ rất hữu ích.Bởi vì giảm tưới máu mô làm cho sự hấp thu qua đường tiêm bắp không đáng tin cậy nên tất cả các loại thuốc tiêm đều được cho dùng theo đường tĩnh mạch. Opioid thường tránh được vì chúng có thể gây giãn mạch, nhưng đau nặng có thể được điều trị với morphine 0,1 mg/kg đường tĩnh mạch trong 2 phút và lặp lại 10 đến 15 phút một lần nếu cần. Mặc dù giảm tưới máu não có thể gây lo âu, an thần hoặc thuốc an thần không thường xuyên được dùng trừ khi bệnh nhân được đặt nội khí quản.Sau khi hồi sức ban đầu, điều trị cụ thể là hướng vào điều kiện cơ bản. Chăm sóc hỗ trợ bổ sung được theo loại sốc.Công cụ tính toán lâm sàngHuyết áp trung bình (huyết áp hệ thống hoặc áp lực động mạch phổi)Điều trị sốc do xuất huyếtĐiều trị phẫu thuật chảy máuTruyền máu sớm các chế phẩm máuTrong sốc mất máu, phẫu thuật kiểm soát chảy máu là ưu tiên hàng đầu.Thay thế thể tíchđi kèm thay vì đi trước phẫu thuật để phục hồi việc cầm máu. Các chế phẩm máu và các dung dịch tinh thể được sử dụng để hồi sức; tuy nhiên, tế bào hồng cầu, plasma đông lạnh tươi, và tiểu cầu được truyền sớm hơn và theo tỷ lệ 1:1:1 ở những bệnh nhân có nhu cầutruyền máu số lượng lớn. Không đáp ứng thường chỉ ra không đủ thể tích cần truyền hoặc không tìm ra được điểm xuất huyết đang diễn ra. Thuốc co mạch có thể được thử trong sốc mất máu nhưng chỉ sau khi đã hồi phục đủ lượng máu và kiểm soát chảy máu trước khi có thể làm tệ thêm outcome.Điều trị sốc do phân bốTruyền dịch tinh thểĐôi khi dùng thuốc tăng co bóp cơ tim hoặc thuốc vận mạchThuốc kháng khuẩn để điều trị sốc nhiễm khuẩnEpinephrine cho phản vệSốc phân bổ với hạ huyết áp sâu sau khi bồi phụ khối dịch với dung dịch muối 0,9% có thể được điều trị bằng các thuốc trợ tim hoặc thuốc co mạch (ví dụ, dopamine, norepinephrine - xem bảngCatecholamine Inotropic và Vasoactive). Bệnh nhân bị sốc nhiễm khuẩn được chokháng sinh phổ rộng. Bệnh nhân bịsốc phản vệkhông đáp ứng với bù dịch (đặc biệt là nếu kèm theo co thắt phế quản) được dùng 0,05 mg đến 0,1 mg epinephrine đường tĩnh mạch, sau đó truyềnepinephrine0,02 mcg/kg/phút.BảngThuốc Catecholamine trợ tim và co mạchBảngThuốc Catecholamine trợ tim và co mạchThuốc Catecholamine trợ tim và co mạchThuốcLiều dùnghuyết độngDobutamine2,5–10 mcg/kg/phútBeta-adrenergic: Tác dụng trợ tim*Dopamine2-10 mcg/kg/phút đối với liều thấp20 mcg/kg/phút đối với liều caoAlpha-adrenergic: Co mạch†Beta-adrenergic: Co bóp cơ tim và tác dụng chuyển nhịp và giãn mạch†Nonadrenergic: Làm giãn mạch thận và mạch tạngNorepinephrine2–12 mcg/phút HOẶC0,1 mcg/kg/phút (liều dựa trên cân nặng)Alpha-adrenergic: Co mạchBeta-adrenergic: Co bóp cơ tim và chuyển nhịp* Chuyển nhịp, loạn nhịp tim, và tác động trực tiếp tới mạch máu là tối thiểu ở liều thấp.† Tác dụng phụ thuộc vào liều lượng và sinh lý bệnh cơ bản.* Chuyển nhịp, loạn nhịp tim, và tác động trực tiếp tới mạch máu là tối thiểu ở liều thấp.† Tác dụng phụ thuộc vào liều lượng và sinh lý bệnh cơ bản.Điều trị sốc do timĐiều trị nguyên nhânTrong sốc tim, rối loạn về cấu trúc (ví dụ, rối loạn chức năng van, vỡ vách) được phẫu thuật sửa chữa.Huyết khối mạch vành được điều trị bằngcác can thiệp qua da(nong mạch, đặt stent),phẫu thuật bắc cầu động mạch vành hoặctiêu huyết khối.Loạn nhịp nhanh (ví dụ: rung nhĩ nhanh, nhịp nhanh thất) chậm lại dosốc điện chuyển nhịphoặc vớithuốc chống loạn nhịp. Nhịp tim chậm được điều trị bằngmáy tạo nhịp timqua da hoặc qua tĩnh mạch; atropine 0,5 mg đường tĩnh mạch 5 phút một lần có thể cho đến 4 liều trong khi chờ đặt máy tạo nhịp tim. Isoproterenol ở mức liều 1 đến 4 mcg/phút đôi khi có hiệu quả nếu atropine không hiệu quả, nhưng không được khuyên dùng cho những bệnh nhân bị thiếu máu cơ tim do bệnh động mạch vành.Sốc sau khi MI cấp tính được điều trị với tăng thể tích nếu PAOP thấp hoặc bình thường; 15 đến 18 mm Hg được coi là tối ưu. Nếu không đặt ống thông động mạch phổi hoặc không có siêu âm tim tại giường, có thể thử truyền dịch một cách thận trọng (250 mL đến 500 mL dung dịch nước muối sinh lý 0,9%) trong khi nghe lồng ngực thường xuyên để tìm dấu hiệu quá tải dịch. Sốc sau nhồi máu cơ tim thất phải thường đáp ứng một phần với truyền dịch tăng thể tích; tuy nhiên, các thuốc co mạch có thể là cần thiết. Siêu âm tim tại giường để đánh giá khả năng co bóp và sự biến đổi hô hấp của tĩnh mạch chủ có thể giúp xác định nhu cầu bổ sung dịch hoặc thuốc vận mạch; hỗ trợ tăng co bóp cơ tim là phương pháp tốt hơn cho những bệnh nhân có mức độ làm đầy bình thường hoặc trên mức bình thường.Nếu hạ huyết áp là vừa phải (ví dụ áp huyết trung bình [MAP] 70-90 mmHg), truyền tĩnh mạch dobutamine có thể được sử dụng để cải thiện cung lượng tim và làm giảm áp lực đổ đầy thất trái. Nhịp tim nhanh và loạn nhịp thỉnh thoảng xảy ra khi truyềndobutamineđiều trị, đặc biệt ở liều cao hơn, cần giảm liều. Chất làm giãn mạch (ví dụ, nitroprusside, nitroglycerin), làm tăng khả năng chứa tĩnh mạch hoặc giảm sức cản mạch hệ thống, làm giảm khối lượng công việc trên cơ tim bị tổn thương và có thể làm tăng cung lượng tim ở bệnh nhân không hạ huyết áp trầm trọng. Liệu pháp kết hợp (ví dụ, dopamine hoặcdobutaminevớinitroprussidehoặc lànitroglycerin) có thể đặc biệt hữu ích nhưng đòi hỏi theo dõi ECG chặt chẽ và theo dõi huyết động mạch hệ thống và mạch phổi.Đối với hạ huyết áp nghiêm trọng hơn (MAP<70 mm Hg), norepinephrine hoặc dopamine có thể được dùng, với đích áp lực tâm thu là 80 đến 90 mm Hg (và không>110 mm Hg).Bơm bóng đối xung động mạch chủ là rất có giá trị để tạm thời làm đảo chiều sốc ở bệnh nhân MI. Thủ thuật này nên được coi như là một cầu nối để cho phép đặt catheter và chụp mạch vành trước khi có thể can thiệp phẫu thuật ở bệnh nhân MI cấp biến chứng thủng vách liên thất hoặc hở van hai lá nặng có nhu cầu thuốc co mạch>30 phút.Trong sốc tắc nghẽn, chèn ép tim không do chấn thương đòi hỏi ngay lập tứcdẫn lưu màng ngoài tim, có thể được thực hiện ở tại giường. Chèn ép tim do chấn thương cần giải áp bằng phẫu thuật và sữa chữa.Tràn khí màng phổi áp lựccần được giải áp ngay lập tức bằng ống thông đưa vào khoang liên sườn 2, đường giữa đòn; sau đó một ống ngực được đưa vào.Thuyên tắc phổitrên diện rộng dẫn đến sốc được điều trị bằng thuốc chống đông máu và làm tan huyết khối, phẫu thuật cắt bỏ huyết khối hoặc oxy hóa qua màng ngoài cơ thể trong một số trường hợp chọn lọc.Tài liệu tham khảo về điều trị1.Holcomb JB, Tilley BC, Baraniuk S, et al: Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: The PROPPR randomized clinical trial.JAMA313(5):471-482, 2015. doi:10.1001/jama.2015.122.Cannon JW, Khan MA, Raja AS, et al: Damage control resuscitation in patients with severe traumatic hemorrhage: A practice management guideline from the Eastern Association for the Surgery of Trauma.J Trauma Acute Care Surg82(3): 605-617, 2017. doi: 10.1097/TA.0000000000001333
+
+--- 6. Tiên lượng về sốc ---
+
+Sốc không được điều trị thường gây tử vong. Ngay cả khi điều trị, tỷ lệ tử vong do sốc tim sau khi nhồi máu cơ tim (60 đến 65%) và sốc nhiễm khuẩn (30 đến 40%) là cao.Tiên lượng phụ thuộc vào nguyên nhân, bệnh lý có sẵn hoặc phức tạp của bệnh, thời gian giữa khởi phát và chẩn đoán, sự kịp thời và đầy đủ của điều trị.

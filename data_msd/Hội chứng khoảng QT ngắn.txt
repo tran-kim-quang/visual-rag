@@ -1,0 +1,289 @@
+TIÊU ĐỀ: Hội chứng khoảng QT ngắn
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-ở-tim-do-loạn-sản-thất-phải/hội-chứng-khoảng-qt-ngắn
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng khoảng QT ngắn
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2024
+
+|
+
+đã sửa đổi
+
+Thg 8 2024
+
+v75229100_vi
+
+Hội chứng khoảng QT ngắn (SQTS) là rối loạn bẩm sinh hoặc rất hiếm mắc phải bẩm sinh hoặc rất hiếm khi mắc phải về chức năng hoặc điều hòa kênh ion tim làm rút ngắn thời gian điện thế hoạt động của tế bào cơ tâm thất được phản ánh bằng cách rút ngắn khoảng QT được điều chỉnh theo nhịp tim trên ECG.
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+và
+
+Tổng quan về bệnh kênh ion
+
+.)
+
+Rối loạn chức năng kênh ion tim có thể liên quan đến
+
+Đạt được chức năng tái cực các kênh dòng kali
+
+Mất chức năng khử cực kênh ion dòng natri hoặc mất chức năng khử cực kênh ion dòng canxi
+
+Mất chức năng của bộ trao đổi Cl
+
+-
+
+/HCO
+
+3
+
+-
+
+Lưu ý rằng những thay đổi trong tăng chức năng tái cực các kênh dòng kali hoặc mất chức năng khử cực các kênh dòng natri hoặc khử cực canxi là ngược lại với những thay đổi xảy ra trong
+
+hội chứng khoảng QT dài
+
+.
+
+Kết quả là thời gian điện thế hoạt động bị rút ngắn rõ rệt nhất ở thượng tâm thất và có thể dẫn đến
+
+nhịp nhanh thất
+
+đa hình (VT) hoặc
+
+rung thất
+
+(VF) thường dẫn đến đột tử. Khả năng rối loạn nhịp nhanh thất tăng theo mức độ rút ngắn khoảng QT (QTc) được điều chỉnh theo tỷ lệ. Một số bệnh nhân bị hội chứng khoảng QT ngắn cũng dễ bị
+
+rung nhĩ
+
+. Một hội chứng chồng lấp với
+
+hội chứng tái cực sớm
+
+đã được báo cáo.
+
+Các hội chứng khoảng QT ngắn được phân loại dựa trên gen đặc hiệu đã bị đột biến. Các gen bất thường phổ biến nhất bao gồm
+
+KCNH2
+
+,
+
+KCNQ1
+
+,
+
+KCNJ2
+
+và
+
+SLC4A3
+
+.
+
+Bệnh nhân không có triệu chứng trừ khi xảy ra rung nhĩ hoặc nhịp nhanh thất/rung nhĩ, có thể gây đánh trống ngực, gần ngất, ngất hoặc ngừng tim.
+
+Chẩn đoán hội chứng khoảng QT ngắn
+
+Tiêu chuẩn cụ thể trên lâm sàng và trên điện tâm đồ
+
+Xét nghiệm di truyền
+
+Sàng lọc các thành viên gia đình có quan hệ huyết thống bậc một
+
+Chẩn đoán cần phải được nghĩ đến trên những bệnh nhân bị ngừng tim hoặc ngất không rõ nguyên nhân hoặc tiền sử gia đình như vậy khi những người bị bệnh không có bệnh tim do cấu trúc. Tình trạng này cũng cần phải được nghĩ đến ở những người được phát hiện có khoảng QT ngắn khi làm ECG vì những lý do khác.
+
+Chẩn đoán bằng ECG cho thấy khoảng QTc bị rút ngắn. Mức độ rút ngắn QTc cần thiết còn đang được tranh luận nhưng nằm trong khoảng từ
+
+<
+
+0,30 giây đến
+
+≤
+
+0,36 giây; thời gian dài hơn có thể phù hợp hơn khi bệnh nhân hoặc thành viên gia đình có đột biến đã biết, VT/VF được ghi nhận hoặc ngừng tim không rõ nguyên nhân (
+
+1
+
+). Hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ/Đại học Tim mạch Hoa Kỳ/Hiệp hội Nhịp tim Hoa Kỳ năm 2017 sử dụng ≤ 0,34 giây (
+
+2
+
+). Khoảng 5/10.000 người < 21 tuổi đáp ứng tiêu chuẩn này (
+
+3
+
+). Xét nghiệm di truyền có năng suất thấp (khoảng 20%) (
+
+4
+
+). Tiêu chuẩn chẩn đoán được đề xuất (
+
+1, 5
+
+). Xét nghiệm bổ sung có thể bao gồm theo dõi nhịp tim lưu động và chẩn đoán hình ảnh tim.
+
+Các thành viên gia đình có quan hệ huyết thống bậc một của bệnh nhân cần phải được đánh giá lâm sàng (tức là để phát hiện các triệu chứng gợi ý loạn nhịp tim) và ECG. Xét nghiệm di truyền của các thành viên trong gia đình được thực hiện khi bệnh nhân có xác định một đột biến.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Priori SG, Blomstrom-Lundqvist C, Mazzanati A, et al
+
+: 2015 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: The Task Force for the Management of Patients with Ventricular Arrhythmias and the Prevention of Sudden Death of the European Society of Cardiology (ESC). Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC).
+
+Eur Heart J
+
+36:2793–2867, 2015 doi: 10.1093/eurheartj/ehv316
+
+2.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+Circulation
+
+138(13):e272–e391, 2018 doi: 10.1161/CIR.0000000000000549
+
+3.
+
+Guerrier K, Kwiatkowski D, Czosek RJ, et al
+
+: Short QT Interval Prevalence and Clinical Outcomes in a Pediatric Population.
+
+Circ Arrhythm Electrophysiol
+
+8(6):1460–1464, 2015 doi: 10.1161/CIRCEP.115.003256
+
+4.
+
+Giustetto C, Schimpf R, Mazzanti A, et al
+
+: Long-term follow-up of patients with short QT syndrome.
+
+J Am Coll Cardiol
+
+58(6):587–595, 2011 doi: 10.1016/j.jacc.2011.03.038
+
+5.
+
+Gollob MH, Redpath CJ, Roberts JD
+
+: The short QT syndrome: proposed diagnostic criteria.
+
+J Am Coll Cardiol
+
+57:802–812.2011. doi: 10.1016/j.jacc.2010.09.048
+
+Điều trị hội chứng khoảng QT ngắn
+
+Điều trị bất kỳ nhịp nhanh thất/rung thất nào
+
+Đôi khi dùng quinidin
+
+Thường là máy khử rung tim cấy ghép vào cơ thể (ICD)
+
+Điều trị bằng quinidin (kéo dài khoảng QT) đã được đề xuất, nhưng hầu hết bệnh nhân có triệu chứng đều được đặt ICD (
+
+1
+
+). Sự đồng thuận của chuyên gia là ICD có thể được xem xét cho các bệnh nhân không có triệu chứng có tiền sử gia đình đột tử (
+
+1, 2
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+Circulation
+
+138(13):e272–e391, 2018 doi: 10.1161/CIR.0000000000000549
+
+2.
+
+Priori SG, Wilde AA, Horie M, et al
+
+: HRS/EHRA/APHRS Expert Consensus Statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: : document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.
+
+Heart Rhythm
+
+10:1932–1963, 2013 doi: 10.1016/j.hrthm.2013.05.014
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán hội chứng khoảng QT ngắn ---
+
+Tiêu chuẩn cụ thể trên lâm sàng và trên điện tâm đồXét nghiệm di truyềnSàng lọc các thành viên gia đình có quan hệ huyết thống bậc mộtChẩn đoán cần phải được nghĩ đến trên những bệnh nhân bị ngừng tim hoặc ngất không rõ nguyên nhân hoặc tiền sử gia đình như vậy khi những người bị bệnh không có bệnh tim do cấu trúc. Tình trạng này cũng cần phải được nghĩ đến ở những người được phát hiện có khoảng QT ngắn khi làm ECG vì những lý do khác.Chẩn đoán bằng ECG cho thấy khoảng QTc bị rút ngắn. Mức độ rút ngắn QTc cần thiết còn đang được tranh luận nhưng nằm trong khoảng từ<0,30 giây đến≤0,36 giây; thời gian dài hơn có thể phù hợp hơn khi bệnh nhân hoặc thành viên gia đình có đột biến đã biết, VT/VF được ghi nhận hoặc ngừng tim không rõ nguyên nhân (1). Hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ/Đại học Tim mạch Hoa Kỳ/Hiệp hội Nhịp tim Hoa Kỳ năm 2017 sử dụng ≤ 0,34 giây (2). Khoảng 5/10.000 người < 21 tuổi đáp ứng tiêu chuẩn này (3). Xét nghiệm di truyền có năng suất thấp (khoảng 20%) (4). Tiêu chuẩn chẩn đoán được đề xuất (1, 5). Xét nghiệm bổ sung có thể bao gồm theo dõi nhịp tim lưu động và chẩn đoán hình ảnh tim.Các thành viên gia đình có quan hệ huyết thống bậc một của bệnh nhân cần phải được đánh giá lâm sàng (tức là để phát hiện các triệu chứng gợi ý loạn nhịp tim) và ECG. Xét nghiệm di truyền của các thành viên trong gia đình được thực hiện khi bệnh nhân có xác định một đột biến.Tài liệu tham khảo chẩn đoán1.Priori SG, Blomstrom-Lundqvist C, Mazzanati A, et al: 2015 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: The Task Force for the Management of Patients with Ventricular Arrhythmias and the Prevention of Sudden Death of the European Society of Cardiology (ESC). Endorsed by: Association for European Paediatric and Congenital Cardiology (AEPC).Eur Heart J36:2793–2867, 2015 doi: 10.1093/eurheartj/ehv3162.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018 doi: 10.1161/CIR.00000000000005493.Guerrier K, Kwiatkowski D, Czosek RJ, et al: Short QT Interval Prevalence and Clinical Outcomes in a Pediatric Population.Circ Arrhythm Electrophysiol8(6):1460–1464, 2015 doi: 10.1161/CIRCEP.115.0032564.Giustetto C, Schimpf R, Mazzanti A, et al: Long-term follow-up of patients with short QT syndrome.J Am Coll Cardiol58(6):587–595, 2011 doi: 10.1016/j.jacc.2011.03.0385.Gollob MH, Redpath CJ, Roberts JD: The short QT syndrome: proposed diagnostic criteria.J Am Coll Cardiol57:802–812.2011. doi: 10.1016/j.jacc.2010.09.048
+
+--- 2. Điều trị hội chứng khoảng QT ngắn ---
+
+Điều trị bất kỳ nhịp nhanh thất/rung thất nàoĐôi khi dùng quinidinThường là máy khử rung tim cấy ghép vào cơ thể (ICD)Điều trị bằng quinidin (kéo dài khoảng QT) đã được đề xuất, nhưng hầu hết bệnh nhân có triệu chứng đều được đặt ICD (1). Sự đồng thuận của chuyên gia là ICD có thể được xem xét cho các bệnh nhân không có triệu chứng có tiền sử gia đình đột tử (1, 2).Tài liệu tham khảo về điều trị1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018 doi: 10.1161/CIR.00000000000005492.Priori SG, Wilde AA, Horie M, et al: HRS/EHRA/APHRS Expert Consensus Statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: : document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.Heart Rhythm10:1932–1963, 2013 doi: 10.1016/j.hrthm.2013.05.014

@@ -1,0 +1,151 @@
+TIÊU ĐỀ: Chụp xạ hình
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-nguyên-lý-cơ-bản-trong-chẩn-đoán-hình-ảnh/chụp-xạ-hình
+================================================================================
+
+NỘI DUNG:
+
+Chụp xạ hình
+
+Theo
+
+Mustafa A. Mafraji
+
+,
+
+MD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2023
+
+v1125144_vi
+
+Chỉ định chụp xạ hình
+
+|
+
+Các biến thể của chụp xạ hình
+
+|
+
+Nhược điểm của chụp xạ hình
+
+|
+
+Chụp xạ hình tạo ảnh thông qua việc sử dụng bức xạ phát ra từ các chất phóng xạ (hiện tượng phân rã hạt nhân). Chất phóng xạ là một dạng đồng vị không ổn định, chúng trở nên ổn định hơn bằng cách giải phóng năng lượng dưới dạng bức xạ. Bức xạ này có thể gồm các photon trong tia gamma hoặc phát xạ hạt (ví dụ như positron được sử dụng trong hụp cắt lớp vi tính phát xạ positron).
+
+Bức xạ tạo ra bởi các chất phóng xạ có thể được sử dụng trong chẩn đoán hình ảnh hoặc điều trị một số bệnh lý nhất định (ví dụ như bệnh lý tuyến giáp).
+
+Chất phóng xạ thường được sử dụng là technetium-99m, nó sẽ được kết hợp với các hợp chất chuyển hóa hoạt động ổn định khác nhau, từ đó tạo ra một loại dược chất phóng xạ nhắm tới các cơ quan giải phẫu hoặc mô bệnh lý cụ thể (mô đích). Dược chất phóng xạ được sử dụng qua đường uống hoặc đường tiêm. Sau khi chất phóng xạ tới mô đích, camera gamma sẽ tiến hành thu nhận hình ảnh. Chất phóng xạ sẽ phát ra các tia gamma tương tác với các tinh thể nhấp nháy trong camera, tạo ra photon ánh sáng được đèn nhân quang điện chuyển đổi thành các tín hiệu điện. Hệ thống máy tính tổng hợp và phân tích các tín hiệu, sau đó tích hợp chúng vào các hình ảnh 2 chiều. Tuy nhiên, hệ thống chỉ có thể phân tích chính xác những tín hiệu gần diện chụp camera; do đó, chất lượng hình ảnh sẽ bị giới hạn bởi độ dày của mô và phạm vi của camera.
+
+Các camera gamma xách tay có thể cho phép chụp xạ hình tại giường.
+
+Nhìn chung, chụp xạ hình tương đối an toàn do sử dụng liều phóng xạ tương đối thấp và cung cấp thông tin có giá trị (ví dụ như cho phép các bác sĩ lâm sàng chụp toàn bộ hệ xương khi nghi ngờ di căn xương).
+
+Chụp xạ hình xương toàn bộ cơ thể
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+Chỉ định chụp xạ hình
+
+Thành phần hợp chất phóng xạ sử dụng trong chụp xạ hình tùy thuộc vào mô đích, hoặc chỉ định:
+
+Đối với chụp xạ hình xương, sử dụng technetium-99m kết hợp với diphosphonat để tầm soát di căn xương hoặc nhiễm trùng.
+
+Để xác định tình trạng viêm, đánh dấu bạch cầu để xác định ổ viêm.
+
+Để xác định vị trí chảy máu đường tiêu hóa, các tế bào hồng cầu được dán nhãn để xác định liệu chúng đã thoát ra khỏi mạch máu hay chưa.
+
+Trong chụp gan, lách, hoặc tủy xương, đánh dấu hợp chất keo lưu huỳnh.
+
+Trong chụp đường mật, thường đánh dấu dẫn xuất acid iminodiacetic để thăm dò tình trạng tắc mật, rò rỉ đường mật và các bệnh lý túi mật.
+
+Chụp xạ hình cũng được sử dụng trong chẩn đoán hình ảnh tuyến giáp, hệ thống mạch máu não, tim mạch, hô hấp, và niệu dục. Ví dụ: trong
+
+chẩn đoán hình ảnh tưới máu cơ tim
+
+, mô tim hấp thụ các hạt nhân phóng xạ (ví dụ: tali) theo tỷ lệ tưới máu. Kỹ thuật chụp này có thể được sử dụng kết hợp với các test gắng sức.
+
+Chụp xạ hình cũng được sử đụng để đánh giá các khối u.
+
+Các biến thể của chụp xạ hình
+
+Chụp CT phát xạ đơn photon (SPECT)
+
+SPECT sử dụng camera gamma di chuyển xoay quanh bệnh nhân. Hệ thống máy tính sẽ tái tạo chuỗi ảnh chụp này thành những hình ảnh chụp cắt lớp 2D, tương tự như trong chụp CT thường. Những hình ảnh 2 chiều này có thể được dùng để tiếp tục tái tạo nên hình ảnh 3 chiều.
+
+Nhược điểm của chụp xạ hình
+
+Phơi nhiễm bức xạ phụ thuộc vào bản chất chất phóng xạ và liều dùng. Liều hiệu quả có xu hướng dao động từ 1,5 đến 17 mSv, như sau (xem
+
+Hiệp hội X quang Hoa Kỳ (ACR): Liều bức xạ dành cho người lớn qua các lần kiểm tra chẩn đoán hình ảnh thông thường
+
+):
+
+Chụp phổi: Khoảng 2 mSv
+
+Chụp xương và gan mật: Khoảng 3 đến 6 mSv
+
+Chụp tim sử dụng seretium sestimibi: Khoảng 9 đến 12 mSv
+
+Phản ứng với chất phóng xạ rất hiếm gặp.
+
+Vùng chụp chất lượng cao bị giới hạn, bởi chỉ những tín hiệu gần diện chụp camera gamma mới có thể được định vị chính xác. Hình ảnh cũng có thể trở nên kém chi tiết hơn.
+
+Thông thường, quy trình chụp phải bị trì hoãn trong vài giờ, để chất phóng xạ tiếp cận mô đích.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định chụp xạ hình ---
+
+Thành phần hợp chất phóng xạ sử dụng trong chụp xạ hình tùy thuộc vào mô đích, hoặc chỉ định:Đối với chụp xạ hình xương, sử dụng technetium-99m kết hợp với diphosphonat để tầm soát di căn xương hoặc nhiễm trùng.Để xác định tình trạng viêm, đánh dấu bạch cầu để xác định ổ viêm.Để xác định vị trí chảy máu đường tiêu hóa, các tế bào hồng cầu được dán nhãn để xác định liệu chúng đã thoát ra khỏi mạch máu hay chưa.Trong chụp gan, lách, hoặc tủy xương, đánh dấu hợp chất keo lưu huỳnh.Trong chụp đường mật, thường đánh dấu dẫn xuất acid iminodiacetic để thăm dò tình trạng tắc mật, rò rỉ đường mật và các bệnh lý túi mật.Chụp xạ hình cũng được sử dụng trong chẩn đoán hình ảnh tuyến giáp, hệ thống mạch máu não, tim mạch, hô hấp, và niệu dục. Ví dụ: trongchẩn đoán hình ảnh tưới máu cơ tim, mô tim hấp thụ các hạt nhân phóng xạ (ví dụ: tali) theo tỷ lệ tưới máu. Kỹ thuật chụp này có thể được sử dụng kết hợp với các test gắng sức.Chụp xạ hình cũng được sử đụng để đánh giá các khối u.
+
+--- 2. Các biến thể của chụp xạ hình ---
+
+Chụp CT phát xạ đơn photon (SPECT)SPECT sử dụng camera gamma di chuyển xoay quanh bệnh nhân. Hệ thống máy tính sẽ tái tạo chuỗi ảnh chụp này thành những hình ảnh chụp cắt lớp 2D, tương tự như trong chụp CT thường. Những hình ảnh 2 chiều này có thể được dùng để tiếp tục tái tạo nên hình ảnh 3 chiều.
+
+--- 3. Nhược điểm của chụp xạ hình ---
+
+Phơi nhiễm bức xạ phụ thuộc vào bản chất chất phóng xạ và liều dùng. Liều hiệu quả có xu hướng dao động từ 1,5 đến 17 mSv, như sau (xemHiệp hội X quang Hoa Kỳ (ACR): Liều bức xạ dành cho người lớn qua các lần kiểm tra chẩn đoán hình ảnh thông thường):Chụp phổi: Khoảng 2 mSvChụp xương và gan mật: Khoảng 3 đến 6 mSvChụp tim sử dụng seretium sestimibi: Khoảng 9 đến 12 mSvPhản ứng với chất phóng xạ rất hiếm gặp.Vùng chụp chất lượng cao bị giới hạn, bởi chỉ những tín hiệu gần diện chụp camera gamma mới có thể được định vị chính xác. Hình ảnh cũng có thể trở nên kém chi tiết hơn.Thông thường, quy trình chụp phải bị trì hoãn trong vài giờ, để chất phóng xạ tiếp cận mô đích.

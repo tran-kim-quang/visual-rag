@@ -1,0 +1,1408 @@
+TIÊU ĐỀ: Giới thiệu về xét nghiệm chẩn đoán bệnh lý truyền nhiễm
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/xét-nghiệm-chẩn-đoán-bệnh-lý-truyền-nhiễm/giới-thiệu-về-xét-nghiệm-chẩn-đoán-bệnh-lý-truyền-nhiễm
+================================================================================
+
+NỘI DUNG:
+
+Giới thiệu về xét nghiệm chẩn đoán bệnh lý truyền nhiễm
+
+Theo
+
+Maria T. Vazquez-Pertejo
+
+,
+
+MD, FACP
+
+,
+
+Wellington Regional Medical Center;
+
+Larry M. Bush
+
+,
+
+MD, FACP
+
+,
+
+Charles E. Schmidt College of Medicine, Florida Atlantic University
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 1 2025
+
+|
+
+đã sửa đổi
+
+Thg 6 2025
+
+v998111_vi
+
+Các xét nghiệm trong phòng thí nghiệm có thể định danh trực tiếp các vi sinh vật (ví dụ, một cách trực quan, sử dụng kính hiển vi quan sát vi khuẩn mọc trên tiêu bản nuôi cấy) hoặc gián tiếp (ví dụ, xác định kháng thể với vi sinh vật). Các loại xét nghiệm chung bao gồm
+
+Kính hiển vi
+
+Nuôi cấy
+
+Xét nghiệm miễn dịch
+
+(các phương pháp ngưng kết hạt latex, xét nghiệm miễn dịch enzym, Western blot, xét nghiệm kết tủa, và các xét nghiệm ngưng kết bổ sung)
+
+Phương pháp xác định dựa trên axit nucleic kiểu gen hoặc NAAT
+
+(ví dụ: phản ứng chuỗi polymerase [PCR])
+
+Các phương pháp xác định không dựa trên axit nucleic
+
+kiểu hình (ví dụ: xét nghiệm huyết thanh, đo phổ khối [MALDI-TOF MS], đo phổ cộng hưởng từ hạt nhân [NMR])
+
+Nuôi cấy thường là tiêu chuẩn vàng để xác định vi sinh vật, nhưng kết quả có thể không có trong nhiều ngày hoặc vài tuần, và không phải là tất cả các mầm bệnh đều có thể nuôi cấy được, khi đó các xét nghiệm thay thế sẽ hữu ích. Khi một tác nhân gây bệnh được nuôi cấy và xác định, phòng thí nghiệm cũng có thể đánh giá
+
+mức độ nhạy cảm
+
+tác nhân này với các thuốc kháng khuẩn. Sự ra đời của cả xét nghiệm chẩn đoán nhanh (RDT) về kiểu gen và kiểu hình đã cho phép tiếp cận liệu pháp kháng khuẩn nhanh hơn và có mục tiêu hơn. Đôi khi các phương pháp phân tử có thể được sử dụng để phát hiện gen đề kháng cụ thể.
+
+Một số xét nghiệm (ví dụ, nhuộm Gram, nuôi cấy hiếu khí thường quy) có thể phát hiện được nhiều căn nguyên gây bệnh đa dạng. Xét nghiệm này được làm phổ biến khi nghi ngờ bệnh lý nhiễm trùng Tuy nhiên, với xét nghiệm này một số mầm bệnh có thể bị bỏ sót, do đó bác sỹ lâm sàng phải cảnh giác với hạn chế của từng xét nghiệm với từng mầm bệnh nghi ngờ. Trong những trường hợp như vậy, bác sĩ lâm sàng nên yêu cầu xét nghiệm cụ thể cho tác nhân gây bệnh nghi ngờ (ví dụ: thuốc nhuộm đặc biệt hoặc môi trường nuôi cấy) hoặc thông báo cho phòng xét nghiệm về sinh vật hoặc các sinh vật nghi ngờ để có thể lựa chọn các xét nghiệm cụ thể hơn (
+
+1
+
+).
+
+Bảng
+
+Các xét nghiệm chẩn đoán một số vi khuẩn gây bệnh
+
+Bảng
+
+Các xét nghiệm chẩn đoán một số vi khuẩn gây bệnh
+
+Các xét nghiệm chẩn đoán một số vi khuẩn gây bệnh
+
+Vi sinh vật
+
+Kính hiển vi
+
+Nuôi cấy
+
+NAAT
+
+Phát hiện kháng nguyên
+
+Phát hiện kháng thể
+
+Loài Anaplasma
+
+✓
+
+✓
+
+✓
+
+Bacillus anthracis
+
+✓
+
+✓
+
+✓
+
+Loài Bartonella
+
+✓
+
+✓
+
+✓
+
+Bordetella pertussis
+
+✓
+
+✓
+
+✓
+
+Loài Borrelia
+
+✓*
+
+✓*
+
+✓
+
+Brucella
+
+sp
+
+✓
+
+✓
+
+✓
+
+✓
+
+Chủng Chlamydia
+
+✓
+
+✓
+
+Clostridium botulinum
+
+✓
+
+✓
+
+✓
+
+Clostridioides difficile
+
+✓
+
+✓
+
+✓
+
+Clostridium tetani
+
+✓
+
+✓
+
+Corynebacterium diphtheriae
+
+✓
+
+Loài Coxiella
+
+✓
+
+✓
+
+Loài Erysipelothrix
+
+✓
+
+✓
+
+Francisella tularensis
+
+✓
+
+✓
+
+Haemophilus ducreyi
+
+✓
+
+✓
+
+Helicobacter pylori
+
+✓
+
+✓*
+
+✓
+
+Loài Kingella
+
+✓*
+
+✓
+
+✓
+
+Chủng Klebsiella
+
+✓
+
+✓
+
+Chủng Legionella
+
+✓
+
+✓
+
+✓
+
+✓
+
+Leptospira
+
+sp
+
+✓*
+
+✓
+
+✓
+
+Listeria
+
+sp
+
+✓
+
+✓
+
+✓
+
+Các loài Mycoplasma
+
+✓
+
+✓
+
+Loài Neisseria
+
+✓
+
+✓
+
+✓
+
+Nocardia
+
+✓
+
+✓
+
+✓
+
+Rhodococcus equi
+
+✓
+
+✓
+
+Loài Rickettsia
+
+✓
+
+✓
+
+Loài liên cầu
+
+✓
+
+✓
+
+✓
+
+✓
+
+Treponema pallidum
+
+✓
+
+✓
+
+✓
+
+Tropheryma whipplei
+
+✓
+
+✓
+
+Chủng Vibrio
+
+✓
+
+✓
+
+Yersinia pestis
+
+✓
+
+✓
+
+✓
+
+✓
+
+* Xét nghiệm không được phổ biến rộng rãi trong thực hành lâm sàng.
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+* Xét nghiệm không được phổ biến rộng rãi trong thực hành lâm sàng.
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+Bảng
+
+Các xét nghiệm chẩn đoán mầm bệnh Mycobacteria
+
+Các xét nghiệm chẩn đoán mầm bệnh Mycobacteria
+
+Vi sinh vật
+
+Kính hiển vi
+
+Nuôi cấy
+
+NAAT
+
+Phát hiện kháng nguyên
+
+Phát hiện kháng thể
+
+Không lao
+
+✓
+
+✓
+
+✓*
+
+Bệnh lao
+
+và bệnh lở loét
+
+✓
+
+✓
+
+✓
+
+Mycobacterium leprae
+
+✓
+
+✓
+
+✓
+
+* Xét nghiệm không được phổ biến rộng rãi trong thực hành lâm sàng.
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+* Xét nghiệm không được phổ biến rộng rãi trong thực hành lâm sàng.
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+Bảng
+
+Các xét nghiệm chẩn đoán một số mầm bệnh là nấm
+
+Các xét nghiệm chẩn đoán một số mầm bệnh là nấm
+
+Vi sinh vật
+
+Kính hiển vi
+
+Nuôi cấy
+
+NAAT
+
+Phát hiện kháng nguyên
+
+Phát hiện kháng thể
+
+Chủng Aspergillus
+
+✓
+
+✓
+
+✓
+
+✓
+
+Blastomyces
+
+sp
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Loài Candida
+
+✓
+
+✓
+
+✓
+
+Loài Coccidioides
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Cryptococcus neoformans
+
+✓
+
+✓
+
+✓
+
+✓
+
+Dermatophytes
+
+✓
+
+✓
+
+Histoplasma capsulatum
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Loài Malassezia
+
+✓
+
+✓
+
+Loài Mucorales
+
+✓
+
+✓
+
+✓
+
+Pneumocystis jirovecii
+
+✓
+
+✓
+
+✓
+
+Loài Sporothrix
+
+✓
+
+✓
+
+✓
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+Bảng
+
+Các xét nghiệm chẩn đoán các mầm bệnh phổ biến
+
+Các xét nghiệm chẩn đoán các mầm bệnh phổ biến
+
+Vi sinh vật
+
+Kính hiển vi
+
+Nuôi cấy
+
+Xét nghiệm khuếch đại axit nucleic (NAAT)
+
+Phát hiện kháng nguyên
+
+Phát hiện kháng thể
+
+Vi khuẩn
+
+Bacillus anthracis
+
+✓
+
+✓
+
+✓
+
+Loài Bartonella
+
+✓
+
+✓
+
+Bordetella pertussis
+
+✓
+
+✓
+
+✓
+
+Loài Borrelia
+
+✓
+
+✓
+
+✓
+
+Brucella sp
+
+✓
+
+✓
+
+✓
+
+Clostridium botulinum
+
+✓
+
+✓
+
+✓
+
+✓
+
+Clostridioides difficile
+
+✓
+
+✓
+
+✓
+
+Clostridium tetani
+
+✓
+
+✓
+
+Corynebacterium diphtheriae
+
+✓
+
+Loài Erysipelothrix
+
+✓
+
+✓
+
+Francisella tularensis
+
+✓
+
+✓
+
+Haemophilus ducreyi
+
+✓
+
+✓
+
+✓
+
+Helicobacter pylori
+
+✓
+
+✓
+
+✓
+
+✓
+
+Loài Kingella
+
+✓
+
+✓
+
+✓
+
+Chủng Klebsiella
+
+✓
+
+✓
+
+Chủng Legionella
+
+✓
+
+✓
+
+✓
+
+✓
+
+Listeria sp
+
+✓
+
+✓
+
+✓
+
+Các loài Mycoplasma
+
+✓
+
+✓
+
+Loài Neisseria
+
+✓
+
+✓
+
+✓
+
+Nocardia
+
+✓
+
+✓
+
+✓
+
+Rhodococcus equus
+
+✓
+
+✓
+
+Loài liên cầu
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Treponema pallidum
+
+✓
+
+✓
+
+X
+
+Tropheryma whipplei
+
+✓
+
+✓
+
+Chủng Vibrio
+
+✓
+
+✓
+
+Yersinia pestis
+
+✓
+
+✓
+
+✓
+
+✓
+
+Mycobacteria
+
+Không lao
+
+✓
+
+✓
+
+Bệnh lao
+
+và bệnh lở loét
+
+✓
+
+✓
+
+✓
+
+Sinh vật nội bào
+
+Loài Anaplasma
+
+✓
+
+✓
+
+✓
+
+Chủng Chlamydia
+
+✓
+
+✓
+
+Loài Coxiella
+
+✓
+
+✓
+
+Loài Leishmania
+
+✓
+
+✓
+
+✓
+
+✓
+
+Leptospira sp
+
+✓
+
+✓
+
+✓
+
+Loài Borrelia
+
+✓
+
+✓
+
+✓
+
+✓
+
+Nấm
+
+Chủng Aspergillus
+
+✓
+
+✓
+
+✓
+
+✓
+
+Blastomyces sp
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Loài Candida
+
+✓
+
+✓
+
+✓
+
+Loài Coccidioides
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Cryptococcus neoformans
+
+✓
+
+✓
+
+✓
+
+✓
+
+Dermatophytes
+
+✓
+
+✓
+
+Histoplasma capsulatum
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Loài Malassezia
+
+✓
+
+✓
+
+Loài Mucorales
+
+✓
+
+✓
+
+✓
+
+Pneumocystis jirovecii
+
+✓
+
+✓
+
+✓
+
+Loài Sporothrix
+
+✓
+
+✓
+
+✓
+
+Virus
+
+Adenovirus
+
+✓
+
+✓
+
+Virus BK
+
+✓
+
+✓
+
+COVID-19 (SARS-CoV2)
+
+✓
+
+✓
+
+Cytomegalovirus (CMV)
+
+✓
+
+✓
+
+✓
+
+✓
+
+Enterovirus
+
+✓
+
+✓
+
+✓
+
+Vi rút Epstein-Barr (EBV)
+
+✓
+
+✓
+
+Viêm gan
+
+A, B, C, D và E
+
+✓
+
+✓
+
+Vi rút Herpes simplex
+
+✓
+
+✓
+
+✓
+
+✓
+
+Vi rút herpes 6
+
+✓
+
+✓
+
+HIV
+
+✓
+
+✓
+
+✓
+
+Vi rút gây u nhú ở người (HPV)
+
+✓
+
+✓
+
+Cúm
+
+✓
+
+✓
+
+✓
+
+Vi rút JC
+
+✓
+
+✓
+
+Vi rút LaCrosse
+
+✓
+
+Viêm màng não-màng mạch tăng lympho bào
+
+✓
+
+✓
+
+Sởi
+
+✓
+
+✓
+
+Quai bị
+
+✓
+
+✓
+
+Norovirus
+
+✓
+
+✓
+
+Á cúm
+
+✓
+
+✓
+
+Parvovirus B19
+
+✓
+
+✓
+
+✓
+
+Vi rút Powassan
+
+✓
+
+✓
+
+Bệnh dại
+
+✓
+
+✓
+
+✓
+
+✓
+
+Vi rút hợp bào đường hô hấp (RSV)
+
+✓
+
+✓
+
+✓
+
+Rubella
+
+✓
+
+Vi rút viêm não St Louis
+
+✓
+
+Vi rút viêm não do chân đốt
+
+✓
+
+Varicella zoster
+
+✓
+
+✓
+
+✓
+
+✓
+
+Vi rút Tây sông Nile
+
+✓
+
+✓
+
+Vi rút Zika
+
+✓
+
+✓
+
+Động vật đơn bào và ký sinh trùng
+
+Babesia
+
+✓
+
+✓
+
+✓
+
+Cryptosporidium
+
+✓
+
+✓
+
+✓
+
+Cyclospora
+
+✓
+
+✓
+
+Entamoeba
+
+✓
+
+✓
+
+✓
+
+✓
+
+Enterobius vermicularis
+
+✓
+
+Giardia
+
+✓
+
+✓
+
+Giun tròn đường ruột
+
+✓
+
+✓
+
+✓
+
+Chủng Plasmodium
+
+✓
+
+✓
+
+✓
+
+Bệnh ghẻ
+
+✓
+
+Taenia solium
+
+✓
+
+✓
+
+Loài Toxocara
+
+✓
+
+✓
+
+Trichinella spiralis
+
+✓
+
+✓
+
+Chủng Trypanosoma
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ: Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, tái bản lần thứ 9. Elsevier, 2020.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ: Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, tái bản lần thứ 9. Elsevier, 2020.
+
+Bảng
+
+Các xét nghiệm chẩn đoán một số mầm gây bệnh là ký sinh trùng và động vật nguyên sinh
+
+Các xét nghiệm chẩn đoán một số mầm gây bệnh là ký sinh trùng và động vật nguyên sinh
+
+Vi sinh vật
+
+Kính hiển vi
+
+Nuôi cấy
+
+NAAT
+
+Phát hiện kháng nguyên
+
+Phát hiện kháng thể
+
+Babesia
+
+✓
+
+✓
+
+✓
+
+Cryptosporidium
+
+✓
+
+✓
+
+✓
+
+Cyclospora
+
+✓
+
+✓
+
+Entamoeba
+
+✓
+
+✓
+
+✓
+
+✓
+
+Enterobius vermicularis
+
+✓
+
+Giardia
+
+✓
+
+✓
+
+✓
+
+Giun tròn đường ruột
+
+✓
+
+✓
+
+✓
+
+Loài Leishmania
+
+✓
+
+✓
+
+✓
+
+✓
+
+Chủng Plasmodium
+
+✓
+
+✓
+
+✓
+
+Bệnh ghẻ
+
+✓
+
+Taenia solium
+
+✓
+
+✓
+
+Loài Toxocara
+
+✓
+
+✓
+
+Trichinella spiralis
+
+✓
+
+✓
+
+✓
+
+Chủng Trypanosoma
+
+✓
+
+✓
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+NAAT = xét nghiệm khuếch đại axit nucleic.
+
+Phỏng theo Bennett JE, Dolin R, Blaser MJ:
+
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+
+, tái bản lần thứ 9. Philadelphia, Elsevier, 2020.
+
+Tài liệu tham khảo
+
+1.
+
+Miller JM, Binnicker MJ, Campbell S, et al
+
+. Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2024 Update by the Infectious Diseases Society of America (IDSA) and the American Society for Microbiology (ASM).
+
+Clin Infect Dis
+
+. Xuất bản trực tuyến ngày 5 tháng 3 năm 2024. doi:10.1093/cid/ciae104
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

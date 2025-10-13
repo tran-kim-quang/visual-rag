@@ -1,0 +1,1204 @@
+TIÊU ĐỀ: Tổng quan các dị tật tim mạch bẩm sinh
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/các-dị-tật-tim-mạch-bẩm-sinh/tổng-quan-các-dị-tật-tim-mạch-bẩm-sinh
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan các dị tật tim mạch bẩm sinh
+
+Theo
+
+Lee B. Beerman
+
+,
+
+MD
+
+,
+
+Children's Hospital of Pittsburgh of the University of Pittsburgh School of
+Medicine
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2023
+
+|
+
+đã sửa đổi
+
+Thg 1 2025
+
+v1095805_vi
+
+Căn nguyên
+
+|
+
+Tuần hoàn bào thai
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Sàng lọc ở trẻ sơ sinh
+
+|
+
+Điều trị
+
+|
+
+Thông tin thêm
+
+|
+
+Bệnh tim bẩm sinh là dị tật bẩm sinh phổ biến nhất, xảy ra ở gần 1% số trẻ sinh ra sống (
+
+1
+
+). Trong số các dị tật bẩm sinh, bệnh tim bẩm sinh là nguyên nhân hàng đầu gây tử vong ở trẻ nhỏ.
+
+Các bệnh tim bẩm sinh phổ biến nhất được chẩn đoán ở trẻ sơ sinh là
+
+thông liên thất
+
+phần cơ và phần quanh màng, sau đó là
+
+thông liên nhĩ
+
+kiểu lỗ thứ hai, với tổng tỷ lệ hiện hành là 48,4 trên 10.000 ca sinh ra còn sống (
+
+2, 3, 4
+
+). Phổ biến nhất
+
+bệnh tim bẩm sinh tím
+
+là
+
+tứ chứng Fallot
+
+, tỷ lệ này cao gấp đôi
+
+chuyển vị của động mạch
+
+(4,7 so với 2,3/10 000 trẻ sinh ra). Nhìn chung,
+
+van động mạch chủ hai lá
+
+là dị tật bẩm sinh phổ biến nhất với tỷ lệ hiện hành được báo cáo là cao từ 0,5% đến 2,0%.
+
+Tài liệu tham khảo chung
+
+1.
+
+Reller MD, Strickland MJ, Riehle-Colarusso T, et al
+
+: Prevalence of congenital heart defects in metropolitan Atlanta, 1998–2005.
+
+J Pediatr
+
+153(6):807–813, 2008.
+
+2.
+
+Freeze SL, Landis BJ, Ware SM, Helm BM
+
+: Bicuspid aortic valve: a review with recommendations for genetic counseling.
+
+J Genet Couns
+
+25(6):1171–1178, 2016.
+
+3.
+
+van der Linde D, Konings EEM, Slager MA, et al
+
+: Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis.
+
+J Am Coll Cardiol
+
+58(21):2241–2247, 2011. doi: 10.1016/j.jacc.2011.08.025
+
+4.
+
+Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds)
+
+:
+
+Pediatric Heart Disease: A Practical Guide
+
+. Wiley-Blackwell 2012.
+
+Căn nguyên của bệnh tim bẩm sinh
+
+Các yếu tố môi trường và di truyền góp phần vào sự phát triển của bệnh tim bẩm sinh.
+
+Các yếu tố môi trường thường gặp
+
+bao gồm bệnh tật của mẹ (ví dụ: tiểu đường, rubella, lupus ban đỏ hệ thống) hoặc mẹ dùng các thuốc gây quái thai (ví dụ: lithium, isotretinoin, thuốc chống động kinh). Tuổi mẹ là một yếu tố nguy cơ đã biết đối với các tình trạng di truyền nhất định, đặc biệt là
+
+Hội chứng Down
+
+, có thể bao gồm khuyết tật tim. Không rõ liệu tuổi mẹ có phải là một yếu tố nguy cơ độc lập đối với bệnh tim bẩm sinh hay không. Tuổi cha cũng có thể là một yếu tố nguy cơ (
+
+1
+
+).
+
+Một số
+
+bất thường nhiễm sắc thể
+
+, chẳng hạn như trisomy 21 (
+
+Hội chứng Down
+
+),
+
+trisomy 18
+
+,
+
+trisomy 13
+
+, và
+
+một nhiễm sắc thể X
+
+(Hội chứng Turner), có liên quan chặt chẽ với bệnh tim bẩm sinh. Tuy nhiên, những bất thường này chỉ chiếm khoảng 5-6% số bệnh nhân mắc bệnh tim bẩm sinh.
+
+Nhiều trường hợp khác liên quan đến
+
+sự mất đoạn nhiễm sắc thể
+
+(
+
+microdeletion
+
+), lặp đoạn trên nhiễm sắc thể hoặc đột biến đơn gen. Thông thường, những đột biến này gây ra các hội chứng bẩm sinh ảnh hưởng đến nhiều cơ quan ngoài tim. Ví dụ
+
+Hội chứng DiGeorge
+
+(mất đoạn ở 22q11.2) và hội chứng Williams-Beuren (mất đoạn nhỏ ở vị trí 7p.11.23). Khiếm khuyết một gen gây ra các hội chứng liên quan đến bệnh tim bẩm sinh bao gồm đột biến fibrillin-1 (
+
+hội chứng Marfan
+
+),
+
+TXB
+
+5 (hội chứng Holt-Oram) và
+
+PTPN11
+
+(hội chứng Noonan). Các khiếm khuyết gen đơn cũng có thể không gây ra các dị tật bẩm sinh.
+
+Khoảng 72% số bệnh nhân mắc bệnh tim bẩm sinh
+
+không phát hiện được nguyên nhân di truyền
+
+(
+
+2, 3, 4
+
+).
+
+Nguy cơ tái phát bệnh tim bẩm sinh trong gia đình phụ thuộc vào nguyên nhân. Nguy cơ tái phát của CHD trong gia đình thay đổi tùy theo nguyên nhân., Nguy cơ CHD không cao trong trường hợp đột biến mới xảy ra lần đầu tiên, từ 2 đến 5% đối với CHD do nhiều yếu tố tác động, và 50% khi CHD do đột biến gen trội trên nhiếm sắc thể thường. Việc xác định van động mạch chủ hai lá ở một cá nhân xứng đáng với sàng lọc gia đình dựa trên tỷ lệ hiện hành có tính gia đình được báo cáo là 9% (
+
+5
+
+). Điều quan trọng là xác định các yếu tố di truyền vì ngày càng có nhiều bệnh nhân mắc bệnh tim bẩm sinh sống sót đến tuổi trưởng thành và có khả năng bắt đầu gia đình.
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Materna-Kiryluk A, Wiśniewska K, Badura-Stronka M, et al
+
+: Parental age as a risk factor for isolated congenital malformations in a Polish population.
+
+Paediatr Perinat Epidemiol
+
+23(1):29-40, 2009. doi: 10.1111/j.1365-3016. 2008.00979.x
+
+2.
+
+Russell MW, Chung WK, Kaltman JR, Miller TA
+
+: Advances in the understanding of the genetic determinants of congenital heart disease and their impact on clinical outcomes.
+
+J Am Heart Assoc
+
+7(6):e006906, 2018. doi:10.1161/JAHA.117.006906
+
+3.
+
+van der Linde D, Konings EEM, Slager MA, et al
+
+: Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis.
+
+J Am Coll Cardiol
+
+58(21):2241–2247, 2011. doi: 10.1016/j.jacc.2011.08.025
+
+4.
+
+Pierpont ME, Brueckner M, Chung WK, et al
+
+: Genetic Basis for Congenital Heart Disease: Revisited: A Scientific Statement From the American Heart Association [published correction appears in
+
+Circulation
+
+2018 Nov 20;138(21):e713].
+
+Circulation
+
+138(21):e653–e711, 2018. doi:10.1161/CIR.0000000000000606
+
+5.
+
+Freeze SL, Landis BJ, Ware SM, Helm BM
+
+: Bicuspid aortic valve: a review with recommendations for genetic counseling.
+
+J Genet Couns
+
+25(6):1171–1178, 2016.
+
+Tuần hoàn bào thai
+
+Tuần hoàn bào thai được đánh dấu bởi
+
+Dòng máu chảy từ phải sang trái xung quanh phổi không được thông khí qua ống động mạch (nối động mạch phổi với động mạch chủ) và foramen ovale (nối tâm nhĩ phải và trái)
+
+Luồng shunt hình thành do kháng trở động mạch phổi cao và kháng trở mạch hệ thống lại tương đối thấp (bao gồm cả nhau thai). Khoảng 90-95% thể tích máu từ tim phải đi tắt không qua phổi mà đổ trực tiếp vào hệ tuần hoàn hệ thống. Ống động mạch của thai nhi được giữ bởi phân áp oxy trong máu động mạch thấp (PaO2 khoảng 25 mm Hg) cùng với prostaglandins được sản xuất tại chỗ. Lỗ ovan được giữ bởi áp lực hai tâm nhĩ khác nhau: áp lực nhĩ trái tương đối thấp do ít máu trở về từ phổi, nhưng áp lực tâm nhĩ phải tương đối cao vì lượng máu trở về từ nhau thai rất lớn.
+
+Tuần hoàn bình thường ở thai nhi
+
+Trong bào thai, máu đi vào bên phải của tim đã được oxy hóa qua nhau thai. Vì phổi chưa được thông khí nên chỉ cần một lượng nhỏ máu đi qua động mạch phổi. Hầu hết máu từ tim phải đều vượt qua phổi qua
+
+Lỗ bầu dục
+
+Còn ống động mạch
+
+Thông thường, 2 cấu trúc này sẽ đóng lại ngay sau khi sinh.
+
+Mũi tên màu đỏ biểu thị máu thai nhi có hàm lượng oxy cao nhất (độ bão hòa oxy ≥ 65%). Mũi tên màu xanh dương biểu thị máu có độ bão hòa oxy thấp nhất (độ bão hòa oxy ≤ 45%). Mũi tên màu tím biểu thị độ bão hòa oxy trung bình (độ bão hòa oxy 50–60%). Lưu ý rằng độ bão hòa oxy trong suốt thời kỳ này thấp hơn đáng kể so với thời kỳ sau sinh.
+
+Thay đổi chu sinh
+
+Những thay đổi với hệ thống tuần hoàn này xuất hiện sau vài nhịp thở đầu tiên, dẫn đến
+
+Tăng lưu lượng máu phổi
+
+Chức năng đóng của lỗ bầu dục
+
+Sức cản động mạch phổi giảm mạnh do giãn mạch gây ra do sự giãn nở phổi làm tăng PaO2, và giảm PaCO2. Với lực đàn hồi của xương sườn và thành ngực làm giảm áp lực khoảng kẽ của phổi, làm tăng thêm lưu lượng máu qua các mao quản phổi. Tăng dòng máu trở về tĩnh mạch phổi làm tăng áp lực tâm nhĩ trái, do đó làm giảm sự chênh lệch áp giữa tâm nhĩ trái và phải; ảnh hưởng này góp phần giúp đóng chức năng của lỗ bầu dục.
+
+Khi dòng máu qua phổi được thiết lập, máu trở về tĩnh mạch phổi tăng lên, làm tăng áp lực tâm nhĩ trái. Tăng thông khí làm tăng PaO2, làm co động mạch rốn. Lưu lượng máu rau thai giảm hoặc ngừng, làm giảm lượng máu trở về tâm nhĩ phải. Do đó, áp lực nhĩ phải giảm trong khi áp lực nhĩ trái tăng lên; kết quả là hai thành phần thời kỳ bào thai của vách ngăn giữa tâm nhĩ được đẩy lại với nhau, (vách tiên phát và vách thứ phát) làm dừng sự lưu thông máu qua lỗ bầu dục. Ở hầu hết các trường hợp, hai vách ngăn liên kết với nhau và lỗ bầu dục đóng lại. Tuy nhiên, ở 25% số người trưởng thành, lỗ bầu dục có thể vẫn còn nguyên với ít hoặc không có shunt tồn dư (
+
+1
+
+).
+
+Ngay sau khi chào đời, sức cản hệ thống trở nên cao hơn sức cản của phổi, trái ngược với thời kỳ bào thai. Do đó, hướng dòng máu chảy qua ống động mạch bị đảo ngược, tạo ra shunt trái sang phải (được gọi là sự tuần hoàn chuyển tiếp). Tình trạng này kéo dài từ vài phút sau khi sinh (khi dòng máu đến phổi tăng lên và đóng chức năng lỗ bầu dục) cho đến khoảng từ 24 đến 72 giờ, khi ống động mạch bị co lại. Máu qua ống động mạch từ động mạch chủ có phân áp oxy cao (PO2) kèm theo sự thay đổi chuyển hóa prostaglandin, dẫn đến co thắt và đóng ống động mạch. Một khi các ống động mạch đóng lại, tuần hoàn của trẻ giống như tuần hoàn ở người trưởng thành. Hai tâm thất lúc này bơm máu liên tục và không có shunt chệch áp giữa tuần hoàn phổi và tuần hoàn hệ thống.
+
+Trong những ngày đầu ngay sau sinh, một trẻ sơ sinh bị căng thẳng có thể trở lại với tuần hoàn của bào thai. Trẻ sơ sinh ngạt với tình trạng thiếu oxy và tăng carbonic máu gây co thắt các động mạch phổi và giãn ống động mạch, đảo ngược các quá trình được mô tả phía trên và dẫn đến tồn tại luồng shunt từ phải sang trái, thông qua
+
+còn ống động mạch
+
+, làm mở lại lỗ bầu dục, hoặc cả hai. Hậu quả, trẻ sơ sinh bị thiếu oxy máu nặng có thể có tình trạng
+
+tăng áp động mạch phổi dai dẳng
+
+hoặc tồn tại tuần hoàn thai nhi (mặc dù không có tuần hoàn rốn). Mục tiêu của điều trị là loại bỏ các tình trạng gây ra sự co thắt mạch phổi.
+
+Tài liệu tham khảo tuần hoàn thai nhi bình thường
+
+1.
+
+Koutroulou I, Tsivgoulis G, Tsalikakis D, et al
+
+: Epidemiology of Patent Foramen Ovale in General Population and in Stroke Patients: A Narrative Review.
+
+Front Neurol
+
+11:281, 2020. Xuất bản năm 2020, ngày 28 tháng 4. doi:10.3389/fneur.2020.00281
+
+Sinh lý bệnh của dị tật tim bẩm sinh
+
+Các dị tật tim bẩm sinh được phân loại (xem bảng
+
+Phân loại các dị tật tim bẩm sinh
+
+) là
+
+Có xanh tím
+
+Tim bẩm sinh không tím (shunt từ trái sang phải hoặc các tổn thương tắc nghẽn)
+
+Hậu quả của các dị tật tim bẩm sinh rất khác nhau, từ tiếng thổi tại tim hoặc sự chênh lệch cường độ mạch ở trẻ không có triệu chứng cho đến biểu hiện tím nặng, suy tim hoặc suy tuần hoàn.
+
+Bảng
+
+Phân loại các dị tật tim bẩm sinh*
+
+Phân loại các dị tật tim bẩm sinh*
+
+Phân loại
+
+Ví dụ
+
+Có xanh tím
+
+—
+
+Tứ chứng Fallot
+
+Chuyển gốc động mạch
+
+Teo van ba lá
+
+Teo phổi
+
+Thân chung động mạch phổi
+
+Bất thường tĩnh mạch phổi trở về hoàn toàn (TAPVR)
+
+Tim bẩm sinh không tím
+
+Shunt từ trái sang phải
+
+Thông liên thất
+
+Thông liên nhĩ
+
+Còn ống động mạch
+
+Thông sàn nhĩ thất
+
+Tắc nghẽn
+
+Hẹp van động mạch phổi
+
+Hẹp van động mạch chủ
+
+Hẹp eo động mạch chủ
+
+Hội chứng thiểu sản tim trái
+
+(thường biểu hiện tím, có thể mức độ tím nhẹ)
+
+* Sắp xếp theo thứ tự tần số giảm dần.
+
+* Sắp xếp theo thứ tự tần số giảm dần.
+
+Bất thường ở tim có xanh tím
+
+Lượng máu có độ bão hòa oxy thấp được đi sang bên tim trái (qua shunt phải - trái) làm giảm bão hòa oxy trong máu động mạch hệ thống.
+
+Nếu lượng hemogobin khử trong máu
+
+>
+
+5 g/dL (
+
+>
+
+50 g/L) thì tím xuất hiện. Hậu quả của tím mạn tính bao gồm
+
+đa hồng cầu
+
+, ngón tay dùi trống, huyết khối (có thể đột quỵ), rối loạn chảy máu, áp xe não, tăng axit uric máu. Các cơn tím tái có thể xảy ra ở trẻ sơ sinh mắc
+
+tứ chứng Fallot
+
+chưa được phục hồi hoặc các dị tật bẩm sinh phức tạp khác kèm theo hẹp dưới van động phổi động học và thông liên thất.
+
+Tùy thuộc vào tổn thương, lưu lượng máu phổi có thể giảm, bình thường hoặc tăng lên (thường dẫn đến suy tim hơn là tím), dẫn các mức độ khác nhau. Tiếng thổi tại tim có thể nghe được và không đặc hiệu.
+
+Tim bẩm sinh shunt trái - phải
+
+Máu có độ bão hòa oxy cao từ buồng tim trái (tâm nhĩ trái hoặc tâm thất trái) hoặc động mạch chủ đi sang buồng tim phải (tâm nhĩ phải hoặc tâm thất phải) hoặc động mạch phổi qua các lỗ thông.
+
+Ngay sau khi sinh, sức cản mạch máu phổi còn cao và dòng máu đi qua lỗ thông bị hạn chế hoặc đi 2 chiều. Tuy nhiên, trong vòng 24 đến 48 giờ đầu tiên, sức cản mạch phổi giảm dần và lượng máu đi qua lỗ thông theo chiều trái sang phải tăng lên. Lượng máu đi từ tim trái sang tim phải làm tăng lượng máu đi lên phổi và tăng áp lực động mạch phổi ở các mức độ khác nhau. Lượng máu từ trái sang phải càng nhiều thì các triệu chứng càng nghiêm trọng; nếu shunt từ trái sang phải nhỏ thường không gây ra triệu chứng.
+
+Những dòng shunt áp lực cao (ở tầng thất hoặc tầng đại động mạch) biểu hiện rõ ràng vài ngày đến vài tuần sau sinh; dòng shunt áp lực thấp (
+
+thông liên nhĩ
+
+) biểu hiện muộn hơn. Nếu không điều trị, lưu lượng máu phổi tăng và áp lực động mạch phổi tăng có thể dẫn đến bệnh mạch máu phổi và cuối cùng
+
+Hội chứng Eisenmenger
+
+. Các shunts từ trái sang phải lớn (ví dụ,
+
+thông liên thất [VSD] lớn
+
+,
+
+còn ống động mạch [PDA] lớn
+
+làm ccho lượng máu lên phổi, thất trái quá nhiều,dẫn đến dấu hiệu suy tim và chậm lớn. Shunt từ trái sang phải lớn cũng dẫn đến giảm sự giãn nở của phổi và sức cản đường thở cao hơn dẫn đến tăng áp động mạch phổi. Một shunt lớn từ trái sang phải cũng dẫn đến sự tuân thủ của phổi thấp hơn và sức cản đường thở cao hơn Những yếu tố này làm tăng khả năng nhập viện ở trẻ sơ sinh
+
+vi rút hợp bào hô hấp
+
+hoặc các bệnh nhiễm trùng đường hô hấp trên hoặc dưới.
+
+Tổn thương tắc nghẽn
+
+Dòng máu bị cản trở, gây ra áp lực cao khi đi qua chỗ tắc nghẽn.
+
+Kết quả của sự quá tải áp lực có thể là phì đại tâm thất và suy tim. Triệu chứng rõ nhất là nghe tim có tiếng thổi do dòng máu đi qua chỗ tắc nghẽn (hẹp). Ví dụ như
+
+hẹp động mạch chủ
+
+bẩm sinh, chiếm 3% đến 6% số dị tật tim bẩm sinh và
+
+hẹp van động mạch phổi
+
+bẩm sinh, chiếm 8% đến 12% (
+
+1, 2
+
+).
+
+Suy tim
+
+Một số bất thường tim bẩm sinh (ví dụ,
+
+van động mạch chủ
+
+hai lá van, hẹp động mạch chủ nhẹ) không làm thay đổi đáng kể huyết động. Các bất thường khác gây quá tải áp lực hoặc khối lượng, đôi khi gây ra
+
+suy tim
+
+. Suy tim xuất hiện khi cung lượng của tim không đủ đáp ứng nhu cầu trao đổi chất của cơ thể hoặc khi tim không đủ khả năng nhận lượng máu tĩnh mạch trở về, gây ứ huyết phổi (suy thất trái), phù vùng thấp hoặc các tạng trong ổ bụng (trong suy thất phải) hoặc cả hai. Suy tim ở trẻ nhũ nhi và trẻ em có nhiều nguyên nhân khác với các dị tật tim bẩm sinh (xem bảng
+
+Nguyên nhân thường gặp suy tim ở trẻ em
+
+).
+
+Bảng
+
+Nguyên nhân thường gặp suy tim ở trẻ em
+
+Bảng
+
+Nguyên nhân thường gặp suy tim ở trẻ em
+
+Nguyên nhân thường gặp suy tim ở trẻ em
+
+Tuổi khi bắt đầu
+
+Nguyên nhân
+
+Trong bào thai
+
+Thiếu máu mãn tính
+
+kéo theo suy tim tăng cung lượng
+
+Dò động tĩnh mạch hệ thống lớn (ví dụ, dị dạng tĩnh mạch não Galen)
+
+Nhồi máu cơ tim cấp tính sau viêm cơ tim
+
+Nhịp tim nhanh trong thời kì bào thai
+
+Sau sinh vài ngày
+
+Bất kỳ ở trên
+
+hẹp động mạch chủ
+
+hoặc
+
+hẹo eo động mạch chủ
+
+nặng
+
+Bệnh Ebstein
+
+với hở van ba lá nặng hoặc hở van động mạch phổi nặng
+
+Hội chứng thiểu sản tim trái
+
+Cơn nhịp nhanh kịch phát trên thất ở thời kì bào thai hoặc sơ sinh
+
+Rối loạn chuyển hóa (ví dụ,
+
+hạ đường huyết
+
+,
+
+hạ thân nhiệt
+
+,
+
+toan chuyển hóa
+
+nặng)
+
+Nhiễm khuẩn huyết ở trẻ sơ sinh
+
+Tổn thương cơ tim do ngạt
+
+Thiếu máu
+
+nặng trong tử cung (phù thai)
+
+Bất thường tĩnh mạch phổ trở về hoàn toàn
+
+với tắc nghẽn nặng (thường ở thể dưới tim)
+
+Tối đa 1 tháng
+
+Bất kỳ ở trên
+
+Hẹp eo động mạch chủ
+
+, có hoặc không kết hợp với bất thườngkhác.
+
+Block tim hoàn toàn có hoặc không kèm theo bất thường về cấu trúc tim
+
+Các shunt trái sang phải lớn ở trẻ non tháng (ví dụ:
+
+còn ống động mạch
+
+)
+
+Chuyển gốc động mạch
+
+với thông liên thất lớn
+
+Trẻ bú mẹ (đặc biệt là 6-8 tuần)
+
+Loạn sản phế quản phổi (suy thất phải)
+
+Thông vách nhĩ thất
+
+toàn bộ
+
+Còn ống động mạch
+
+Thân chung động mạch phổi
+
+Rối loạn chuyển hóa hiếm gặp (ví dụ,
+
+bệnh rối loạn dự trữ glycogen type II
+
+- Pompe disease)
+
+Tim 1 thất
+
+Nhịp tim nhanh trên thất
+
+Thông liên thất
+
+Thời thơ ấu
+
+Do bất thường ở đường hô hấp cấp tính (do tắc nghẽn đường thở trên như amidan lớn)
+
+Thấp tim
+
+cấp có viêm tim
+
+Tăng huyết áp nặng (VD: viêm thận cầu thận cấp)
+
+Máu trở về Động mạch phổi bất thường
+
+(không tắc nghẽn)
+
+Viêm nội tâm mạc
+
+nhiễm khuẩn
+
+Thiếu máu mãn tính (mức độ nặng)
+
+Bệnh cơ tim giãn
+
+Sắt quá tải do bất thường chuyển hóa sắt (
+
+bệnh hemachromatosis
+
+) hoặc do truyền máu thường xuyên (ví dụ,
+
+thalassemia thể nặng
+
+)
+
+Thiếu hụt dinh dưỡng
+
+Bệnh van tim do bẩm sinh hoặc mắc phải (ví dụ,
+
+thấp tim
+
+)
+
+Viêm cơ tim
+
+do virut
+
+Quá tải dịch
+
+ở bệnh nhân không có bất thường tim mạch
+
+Bệnh tim bẩm sinh phụ thuộc ống dẫn
+
+Ống động mạch là một kết nối bình thường giữa động mạch chủ và động mạch phổi; nó là cần thiết cho tuần hoàn bào thai. Khi sinh ra, sự gia tăng trong PaO2 và giảm nồng độ prostaglandin gây co thắt ống động mạch thường bắt đầu trong vòng 10 đến 15 giờ sau sinh.
+
+Một số rối loạn tim bẩm sinh phụ thuộc vào ống động mạch còn mở để duy trì lưu lượng máu toàn thân (ví dụ,
+
+hội chứng thiểu sản tim trái
+
+,
+
+hẹp động mạch chủ
+
+nặng,
+
+hẹp eo động mạch chủ
+
+, hoặc tuần hoàn phổi phụ thuộc ống động mạch (tổn thương tím tái như
+
+thiểu sản phổi
+
+, hoặc
+
+tứ chứng Fallot
+
+trầm trọng). Giữ cho ống động mạch mở với truyền prostaglandin ngoại sinh là rất quan trọng trong các rối loạn này trước khi sửa chữa dứt khoát (thường là phẫu thuật).
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds)
+
+:
+
+Pediatric Heart Disease: A Practical Guide
+
+. Wiley-Blackwell 2012.
+
+2.
+
+Hoffman JI, Kaplan S
+
+: The incidence of congenital heart disease.
+
+J Am Coll Cardiol
+
+39(12):1890-1900, 2002. doi:10.1016/s0735-1097(02)01886-7
+
+Các triệu chứng và dấu hiệu của bệnh tim bẩm sinh
+
+Các biểu hiện của bệnh tim bẩm sinh rất đa dạng nhưng thường bao gồm
+
+Tiếng thổi
+
+Xanh tím
+
+Suy tim
+
+Mạch yếu hoặc không bắt được
+
+Các biểu hiện lâm sàng khác có thể bao gồm suy tuần hoàn, tưới máu kém, bất thường tiếng thứ hai S2 (S2, tiếng thứ 2 tách đôi), click tống máu, nhịp ngựa phi hoặc nhịp tim không đều.
+
+Tiếng thổi
+
+Hầu hết các shunt từ trái sang phải và các tổn thương tắc nghẽn đều gây ra
+
+tiếng thổi tâm thu
+
+. Tiếng thổi tâm thu và rung mưu rõ nhất gần bề mặt vị trí tổn thương rất hữu ích cho chẩn đoán vị trí tổn thương. Sự gia tăng lưu lượng qua van phổi hoặc động mạch chủ gây ra tiếng thổi giữa tâm thu với âm ượng tăng dần sau đó giảm dần (thổi tâm thu tống máu). Hở van nhĩ thất hoặc dòng máu đi qua lỗ thông vách liên thất gây tiếng thổi toàn thì tâm thu và khi cường độ mạnh thường che lấp các tiếng tim (S1).
+
+Còn ống động mạch
+
+thường gây ra tiếng thổi liên tục không gián đoạn bởi S2 vì máu chảy qua ống cả thì tâm thu và thì tâm trương. Tiếng thổi này gồm 2 phần, trong thì tâm thu rõ ràng (khi máu chảy qua với áp lực cao) và thì tâm trương.
+
+Xanh tím
+
+Ngón tay dùi trống
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Tím trung ương được đặc trưng bởi tím ở môi và lưỡi và/hoặc giường móng; xảy ra khi có sự gia tăng hemoglobin khử oxy (ít nhất 5 g/dL [50 g/L]). Nó có nghĩa là mức oxy trong máu thấp (thường bão hòa oxy < 85%). Tím ngoại vi (tím bàn tay và bàn chân) và không có triệu chứng tím môi hoặc giường móng, thường do sự co thắt mạch máu ngoại biên, hiếm khi do thiếu oxy và là một biểu hiện có thể thấy ở trẻ sơ sinh bình thường. Trẻ lớn hơn với tím kéo dài thường gây ngón tay dùi trống.
+
+Suy tim
+
+Ở trẻ nhũ nhi, triệu chứng suy tim bao gồm:
+
+Nhịp tim nhanh
+
+Thở nhanh
+
+Khó thở khi cho ăn
+
+Diaphoresis, đặc biệt là trong quá trình cho ăn
+
+Quấy khóc, cáu kỉnh
+
+Gan to
+
+Chậm lớn
+
+Khó thở khi ăn gây ăn kém và tăng trưởng không tốt, điều này có thể nặng hơn do nhu cầu chuyển hóa tăng trong suy tim và thường xuyên nhiễm trùng đường hô hấp. Trái ngược với người lớn và trẻ lớn hơn, hầu hết trẻ nhũ nhi không có triệu chứng tĩnh mạch cổ nổi và phù vùng thấp; tuy nhiên, có thể có phù mi mắt. biểu hiện suy tim ở trẻ lớn tương tự như ở người trưởng thành. Gan to là một đặc điểm đặc biệt nổi bật của suy tim ở trẻ sơ sinh vì khả năng căng giãn của bao gan ở độ tuổi này. Biểu hiện
+
+suy tim
+
+ở trẻ lớn tương tự như ở người trưởng thành.
+
+Các biểu hiện khác của dị tật tim
+
+Ở trẻ sơ sinh,
+
+sốc do tuần hoàn
+
+có thể là biểu hiện đầu tiên của một số bất thường (ví dụ:
+
+hội chứng thiểu sản tim trái
+
+, hẹp động mạch chủ nghiêm trọng, cung động mạch chủ bị gián đoạn,
+
+hẹp eo động mạch chủ
+
+). Trẻ sơ sinh có biểu hiện cực kỳ ốm yếu với niêm mạc nhợt nhạt hoặc tím tái, đầu chi lạnh, mạch giảm dần, huyết áp thấp và giảm phản ứng với các kích thích.
+
+Đau ngực
+
+ở trẻ em thường không do tim. Ở trẻ nhũ nhi, đau ngực có thể biểu hiện bằng quấy khóc không giải thích được, đặc biệt là xuất phát bất thường của động mạch vành trái từ động mạch phổi. Ở trẻ lớn hơn và thanh thiếu niên, đau ngực do nguyên nhân tim thường liên quan đến gắng sức và có thể do bất thường mạch vành,
+
+viêm màng ngoài tim
+
+,
+
+viêm cơ tim
+
+,
+
+bệnh cơ tim phì đại
+
+hoặc
+
+hẹp động mạch chủ
+
+nặng.
+
+Ngất,
+
+thường không có triệu chứng cảnh báo và thường liên quan đến gắng sức, có thể xảy ra với một số bất thường bao gồm
+
+bệnh cơ tim
+
+(phì đại hoặc giãn), nguồn gốc bất thường của động mạch vành hoặc hội chứng rối loạn nhịp tim di truyền (ví dụ:
+
+hội chứng QT dài
+
+,
+
+nhịp nhanh thất đa hình do catecholamine
+
+[CPVT ],
+
+hội chứng Brugada
+
+). Trẻ em tuổi trung học tập luyện thể thao nhiều thường bị ảnh hưởng nhiều nhất.
+
+Chẩn đoán bệnh tim bẩm sinh
+
+Sàng lọc bằng đo bão hòa oxy máu qua da
+
+Khám sức khỏe tim mạch
+
+X-quang ngực và ECG
+
+Siêu âm tim
+
+Đôi khi cần chụp MRI hoặc CT tim, thông tim chụp mạch
+
+Khi xuất hiện tiếng thổi, tím, bất thường mạch hoặc biểu hiện của suy tim gợi ý bệnh tim bẩm sinh. Ở trẻ sơ sinh có những dấu hiệu này, siêu âm tim được thực hiện để xác nhận chẩn đoán bệnh tim bẩm sinh. Nếu chỉ có bất thường là tím,
+
+bệnh methemoglobinemia
+
+cũng cần được loại trừ.
+
+Mặc dù siêu âm tim thường là tiêu chuẩn chẩn đoán, nhưng trong một số trường hợp, MRI tim hoặc chụp mạch bằng CT có thể làm rõ các chi tiết giải phẫu quan trọng. Thông tim với chụp mạch máu đôi khi cần thiết để xác nhận chẩn đoán hoặc để đánh giá mức độ nặng của bất thường đó; tuy nhiên, chụp mạch thường chỉ được thực hiện cho mục đích điều trị.
+
+Sàng lọc bệnh tim bẩm sinh cho trẻ sơ sinh
+
+Các triệu chứng của bệnh tim bẩm sinh có thể là kín đáo hoặc chưa xuất hiện ở trẻ sơ sinh, và việc phát hiện chậm hoặc bỏ sót suy tim, đặc biệt là ở 10 đến 15% trẻ sơ sinh cần điều trị phẫu thuật hoặc điều trị thuốc trong giờ đầu mới sinh ra (gọi là bệnh tim bẩm sinh nặng [CCHD]), có thể dẫn đến tử vong sơ sinh hoặc bệnh rất nặng. Do đó, cần phải sàng lọc toàn diện bệnh tim bẩm sinh nghiêm trọng bằng phương pháp đo độ bão hòa oxy trong máu cho tất cả trẻ sơ sinh trước khi xuất viện (
+
+1
+
+). Khám sàng lọc được thực hiện khi trẻ sơ sinh ≥ 24 giờ tuổi và được nghi ngờ nếu có ≥ 1 trong số các triệu chứng sau:
+
+Độ bão hòa oxy < 90%.
+
+Độ bão hoà oxy ở cả tay phải và chân < 95% trên 3 lần đo riêng biệt cách nhau 1 giờ.
+
+Có > 3% sự khác biệt tuyệt đối giữa độ bão hòa oxy ở tay phải (trước ống) và chân (sau ống) trên 3 phép đo riêng biệt, ghép cặp, cách nhau 1 giờ.
+
+Tất cả trẻ sơ sinh có kết quả sàng lọc dương tính phải được đánh giá toàn diện về bệnh tim bẩm sinh và các nguyên nhân khác gây giảm oxy máu (ví dụ, các rối loạn hô hấp khác nhau, suy nhược thần kinh trung ương, nhiễm trùng huyết), thường bao gồm chụp X-quang phổi, điện tâm đồ, siêu âm tim và thường là xét nghiệm máu. Độ nhạy của sàng lọc bão hòa oxy trong máu hơi > 75%; các tổn thương của bệnh tim bẩm sinh thường bị bỏ sót nhất là các tổn thương do tắc nghẽn tim trái (ví dụ:
+
+hẹp eo động mạch chủ
+
+).
+
+Tài liệu tham khảo về sàng lọc ở sơ sinh
+
+1.
+
+Martin GR, Ewer AK, Gaviglio A, et al
+
+: Updated Strategies for Pulse Oximetry Screening for Critical Congenital Heart Disease.
+
+Pediatrics
+
+146(1):e20191650, 2020. doi:10.1542/peds.2019-1650
+
+Điều trị bệnh tim bẩm sinh
+
+Điều trị ổn định suy tim (ví dụ, với thuốc lợi tiểu, thuốc ức chế men chuyển, thuốc chẹn beta, digoxin, thuốc muối và trong trường hợp bổ sung oxy hoặc prostaglandin E1)
+
+Phẫu thuật sửa chữa hoặc can thiệp qua thông tim.
+
+Điều trị suy tim rất khác nhau tùy thuộc vào nguyên nhân. Điều trị dứt điểm thường yêu cầu phải giải quyết các vấn đề cơ bản.
+
+Sau khi điều trị ổn định các triệu chứng suy tim cấp tính hoặc tím, hầu hết trẻ em cần được sửa chữa bằng phẫu thuật hoặc nhờ thông tim; ngoại lệ là một số thông liên thất có thể trở nên nhỏ hơn hoặc đóng với thời gian hoặc rối loạn chức năng van nhẹ. Các thủ thuật thông tim bao gồm
+
+Nong bóng mở rộng vách liên nhĩ ở sơ sinh tím nặng với
+
+bệnh chuyển gốc động mạch
+
+.
+
+Nong bóng để
+
+mở rộng van động mạch chủ
+
+hoặc
+
+van động mạch phổi hẹp nặng
+
+Thông tim để đóng các shunts ở tim (thường
+
+thông liên nhĩ
+
+và
+
+còn ống động mạch
+
+)
+
+Đặt van động mạch phổi qua ống thông
+
+Nong bằng bóng có hoặc không kèm theo đặt stent trong các trường hợp hẹp mạch máu, phổ biến nhất là hẹp động mạch phổi
+
+Suy tim ở trẻ sơ sinh
+
+Suy tim cấp tính, nặng hoặc tím trong tuần đầu tiên của cuộc đời là một trường hợp cấp cứu. Bảo đảm đường truyền tĩnh mạch, tốt nhất là thông qua tĩnh mạch rốn.
+
+Khi nghi ngờ hoặc xác định bệnh tim bẩm sinh nghiêm trọng, nên bắt đầu truyền prostaglandin E1 đường tĩnh mạch với tốc độ 0,05 đến 0,1 mcg/kg/phút. Giữ cho còn ống động mạch khai thông là rất quan trọng vì hầu hết các tổn thương tim biểu hiện ở độ tuổi này đều phụ thuộc vào ống đối với lưu lượng máu hệ thống (ví dụ:
+
+hội chứng giảm sản tim trái
+
+,
+
+hẹp động mạch chủ
+
+nghiêm trọng,
+
+hẹp eo động mạch chủ
+
+) hoặc lưu lượng máu phổi (tổn thương tím tái như là hẹp động mạch phổi nghiêm trọng,
+
+không có van động mạch phổi
+
+hoặc
+
+tứ chứng Fallot nặng
+
+).
+
+Thông khí cơ học thường là cần thiết đối với trẻ sơ sinh bệnh nặng. Bổ sung oxy cần được đưa ra một cách thận trọng hoặc thậm chí là không bổ sung vì cung cấp oxy có thể làm giảm sức cản của mạch phổi, có hại cho trẻ sơ sinh có khuyết tật nhất định (ví dụ, hội chứng thiểu sản tim trái).
+
+Các biện pháp khác điều trị suy tim bao gồm thuốc lợi tiểu, thuốc vận mạch, thuốc giảm hậu gánh. Thuốc lợi tiểu furosemide được dùng với liều ban đầu là 1 mg/kg tiêm tĩnh mạch và được điều chỉnh dựa trên lượng nước tiểu. Tiêm truyền thuốc dopamine hoặc dobutamine có thể cải thiện huyết áp nhưng có bất lợi về tăng nhịp tim và tăng hậu gánh, do đó làm tăng tiêu thụ oxy cơ tim. Chúng thường được sử dụng ở trẻ sơ sinh bị bệnh tim bẩm sinh. Milrinone, thường được sử dụng trong các bệnh nhân sau phẫu thuật có bệnh tim bẩm sinh, vừa tăng co bóp cơ tim vừa gây giãn mạch. Dopamine, dobutamine, and milrinone all have the potential to increase the risk of arrhythmias. Nitroprusside, chất làm giãn mạch mạnh, cỏ thể sử dụng điều trị tăng huyết áp sau mổ. Lượng thuốc bắt đầu từ 0,3 đến 0,5 mcg/kg/phút và có thể điều chỉnh theo mức độ mong muốn (liều duy trì thường là khoảng 3 mcg/kg/phút).
+
+Suy tim ở trẻ nhỏ và trẻ nhỏ
+
+Các liệu pháp thường bao gồm thuốc lợi tiểu (ví dụ, furosemide 0,5 đến 1 mg/kg tiêm tĩnh mạch hoặc 1 đến 3 mg/kg uống mỗi 8 giờ đến 24 giờ, tăng liều khi cần thiết) và chất ức chế men chuyển (ví dụ, captopril 0,1 đến 0,3 mg/kg uống 3 lần/ngày). Thuốc lợi tiểu giữ kali (ví dụ, spironolactone 1 mg/kg uống 1-2 lần/ngày, tăng liều lên đến 2 mg/kg/liều nếu cần) có thể hữu ích, đặc biệt khi cần furosemide liều cao. Các thuốc chẹn beta (như carvedilol, metoprolol) thường được bổ sung cho trẻ bị suy tim sung huyết mạn. Các loại thuốc mới hơn được sử dụng ở người lớn để điều trị suy tim, chẳng hạn như sacubitril/valsartan và thuốc ức chế chất đồng vận chuyển natri-glucose-2 (SGLT-2), có thể có tác dụng, nhưng dữ liệu còn hạn chế ở trẻ em (
+
+1
+
+).
+
+Digoxin được sử dụng ít hơn so với trrước đây nhưng có thể vẫn có vai trò ở trẻ bị suy tim với shunt trái sang phải lớn, ở một số bệnh nhân sau phẫu thuật có bệnh tim bẩm sinh (liều lượng thay đổi theo độ tuổi; xem bảng
+
+Liều lượng Digoxin Uống ở Trẻ em
+
+). Đáng chú ý là digoxin đã được chứng minh là làm giảm tỷ lệ tử vong ở bệnh nhân một tâm thất sau thủ thuật Norwood và trước phẫu thuật giai đoạn hai (
+
+2
+
+). Việc sử dụng digoxin làm một loại thuốc hàng đầu trong điều trị nhịp nhanh trên thất ở trẻ sơ sinh đã giảm vì nó dẫn đến tỷ lệ tử vong cao hơn so với điều trị bằng propranolol (
+
+3
+
+). Tuy nhiên, nếu không có
+
+hội chứng Wolff-Parkinson-White
+
+, nó có thể hữu ích như một tác nhân chính nếu propranolol không hiệu quả hoặc như một tác nhân thứ hai kết hợp với propranolol hoặc các thuốc chống loạn nhịp tim khác.
+
+Bảng
+
+Liều dùng Digoxin uống ở trẻ em*
+
+Bảng
+
+Liều dùng Digoxin uống ở trẻ em*
+
+Liều dùng Digoxin uống ở trẻ em*
+
+Tuổi
+
+Tổng số liều số hóa† (mcg/kg)
+
+Liều duy trì ‡
+
+Trẻ sơ sinh non tháng
+
+20
+
+2,5 mcg/kg, hai lần/ngày
+
+Trẻ sơ sinh đủ tháng
+
+30
+
+4–5 mcg/kg, hai lần/ngày
+
+1 tháng-2 tuổi
+
+30–50
+
+5–6 mcg/kg, hai lần/ngày
+
+2-5 tuổi
+
+30–40
+
+4–5 mcg/kg, hai lần/ngày
+
+6-10 tuổi
+
+20–35
+
+2,5–4 mcg/kg, hai lần/ngày
+
+>
+
+10 tuổi hoặc cân nặng >30 kg§
+
+10–15
+
+0,125 mg, hai lần/ngày hoặc 0,25 mg, một lần/ngày
+
+* Tất cả các liều được dựa trên trọng lượng cơ thể lý tưởng cho trẻ em có chức năng thận bình thường. Liều IV là 75% liều uống.
+
+†Một liều số hóa hiện nay được sử dụng không thường xuyên. Nó thường được sử dụng nhất khi điều trị rối loạn nhịp tim hoặc suy tim cấp tính. Tổng liều tấn công được đưa trong vòng 24 giờ với một nửa liều được cho trước, tiếp theo là một phần tư liều được cho hai lần sau, cách nhau khoảng 8 đến 12 giờ; Theo dõi điện tâm đồ là cần thiết.
+
+‡ Liều duy trì ban đầu là 25% số liều số hóa, chia làm 2 lần. Chỉnh liều dựa trên đáp ứng lâm sàng và nồng độ thuốc.
+
+§ Không vượt quá liều số hóa đường uống dành cho người lớn là 1–1,5 mg.
+
+* Tất cả các liều được dựa trên trọng lượng cơ thể lý tưởng cho trẻ em có chức năng thận bình thường. Liều IV là 75% liều uống.
+
+†Một liều số hóa hiện nay được sử dụng không thường xuyên. Nó thường được sử dụng nhất khi điều trị rối loạn nhịp tim hoặc suy tim cấp tính. Tổng liều tấn công được đưa trong vòng 24 giờ với một nửa liều được cho trước, tiếp theo là một phần tư liều được cho hai lần sau, cách nhau khoảng 8 đến 12 giờ; Theo dõi điện tâm đồ là cần thiết.
+
+‡ Liều duy trì ban đầu là 25% số liều số hóa, chia làm 2 lần. Chỉnh liều dựa trên đáp ứng lâm sàng và nồng độ thuốc.
+
+§ Không vượt quá liều số hóa đường uống dành cho người lớn là 1–1,5 mg.
+
+Oxy bổ sung có thể làm giảm tình trạng thiếu oxy máu và giảm khó thở trong suy tim;nếu có thể, giữ nồng độ oxy khí thở vào (Fio2)
+
+<
+
+40% để giảm thiểu nguy cơ tổn thương biểu mô phổi. Bổ sung oxy phải được sử dụng cẩn thận, ở bệnh nhân có tổn thương shunt trái sang phải hoặc bệnh tắc nghẽn tim trái vì nó có thể làm trầm trọng thêm quá tải tuần hoàn phổi.
+
+Nói chung, chế độ ăn đủ chất, hạn chế muối được khuyến cáo, mặc dù thế vẫn cần phải điều chỉnh chế độ ăn uống tùy thuộc vào rối loạn riêng và biểu hiện cụ thể. Suy tim làm tăng nhu cầu chuyển hóa và khó thở liên quan đến việc cho trẻ ăn khó khăn hơn. Ở trẻ sơ sinh mắc bệnh tim bẩm sinh nghiêm trọng, đặc biệt là những trẻ có tổn thương tắc nghẽn tim trái, có thể ngừng cho ăn để giảm thiểu nguy cơ bị
+
+viêm ruột hoại tử
+
+. Ở trẻ sơ sinh bị suy tim do các shunt từ trái sang phải, khuyên dùng thức ăn giàu caloric; những thức ăn này làm tăng lượng calo được cung cấp và làm như vậy với ít nguy cơ quá tải khối lượng. Một số trẻ em bbỏ sung thức ăn bằng qua đặt ống thông để duy trì sự tăng trưởng. Nếu những biện pháp này không dẫn đến tăng cân, thì chỉ cần chỉ định phẫu thuật sửa chữa bất thường.
+
+Dự phòng viêm nội tâm mạc
+
+Hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ về
+
+phòng ngừa viêm nội tâm mạc
+
+(
+
+4
+
+) nêu rõ rằng việc dự phòng bằng kháng sinh là bắt buộc đối với trẻ mắc bệnh tim bẩm sinh có các tình trạng sau:
+
+Bệnh tim bẩm sinh tím không được chữa khỏi (bao gồm trẻ với điều trị bắc cầu và ống dẫn)
+
+bệnh tim bẩm sinh được sửa chữa hoàn toàn trong 6 tháng đầu sau phẫu thuật nếu sử dụng vật liệu giả hoặc dụng cụ
+
+Bệnh tim bẩm sinh đã phẫu thuật nhưng còn sót tổn thương ở vị trí hoặc bên cạnh vị trí của một miếng đệm giả hoặc dụng cụ giả
+
+Van cơ học hoặc van sinh học
+
+Viêm nội tâm mạc trước đó
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Loss KL, Shaddy RE, Kantor PF
+
+: Recent and Upcoming Drug Therapies for Pediatric Heart Failure.
+
+Front Pediatr
+
+9:681224, 2021. Xuất bản ngày 11 tháng 11 năm 2021. doi:10.3389/fped.2021.681224
+
+2.
+
+Oster ME, Kelleman M, McCracken C, et al
+
+: Association of
+
+digoxin
+
+with interstage mortality: Results from the Pediatric Heart Network Single Ventricle Reconstruction Trial Public Use Dataset.
+
+J Am Heart Assoc
+
+5(1): e002566., 2016.
+
+3.
+
+Bolin EH, Lang SM, Tang X, et al
+
+:
+
+Propranolol
+
+versus
+
+digoxin
+
+in the neonate for supraventricular tachycardia (from the Pediatric Health Information System).
+
+Am J Cardiol
+
+119(10): 1605–1610, 2017.
+
+4.
+
+Baltimore RS, Gewitz M, Baddour LM, et al
+
+: Infective Endocarditis in Childhood: 2015 Update: A Scientific Statement From the American Heart Association.
+
+Circulation
+
+132(15):1487–1515, 2015. doi:10.1161/CIR.0000000000000298
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+American Heart Association: Common Heart Defects
+
+: Provides overview of common congenital heart defects for parents and caregivers
+
+American Heart Association: Infective Endocarditis
+
+: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của bệnh tim bẩm sinh ---
+
+Các yếu tố môi trường và di truyền góp phần vào sự phát triển của bệnh tim bẩm sinh.Các yếu tố môi trường thường gặpbao gồm bệnh tật của mẹ (ví dụ: tiểu đường, rubella, lupus ban đỏ hệ thống) hoặc mẹ dùng các thuốc gây quái thai (ví dụ: lithium, isotretinoin, thuốc chống động kinh). Tuổi mẹ là một yếu tố nguy cơ đã biết đối với các tình trạng di truyền nhất định, đặc biệt làHội chứng Down, có thể bao gồm khuyết tật tim. Không rõ liệu tuổi mẹ có phải là một yếu tố nguy cơ độc lập đối với bệnh tim bẩm sinh hay không. Tuổi cha cũng có thể là một yếu tố nguy cơ (1).Một sốbất thường nhiễm sắc thể, chẳng hạn như trisomy 21 (Hội chứng Down),trisomy 18,trisomy 13, vàmột nhiễm sắc thể X(Hội chứng Turner), có liên quan chặt chẽ với bệnh tim bẩm sinh. Tuy nhiên, những bất thường này chỉ chiếm khoảng 5-6% số bệnh nhân mắc bệnh tim bẩm sinh.Nhiều trường hợp khác liên quan đếnsự mất đoạn nhiễm sắc thể(microdeletion), lặp đoạn trên nhiễm sắc thể hoặc đột biến đơn gen. Thông thường, những đột biến này gây ra các hội chứng bẩm sinh ảnh hưởng đến nhiều cơ quan ngoài tim. Ví dụHội chứng DiGeorge(mất đoạn ở 22q11.2) và hội chứng Williams-Beuren (mất đoạn nhỏ ở vị trí 7p.11.23). Khiếm khuyết một gen gây ra các hội chứng liên quan đến bệnh tim bẩm sinh bao gồm đột biến fibrillin-1 (hội chứng Marfan),TXB5 (hội chứng Holt-Oram) vàPTPN11(hội chứng Noonan). Các khiếm khuyết gen đơn cũng có thể không gây ra các dị tật bẩm sinh.Khoảng 72% số bệnh nhân mắc bệnh tim bẩm sinhkhông phát hiện được nguyên nhân di truyền(2, 3, 4).Nguy cơ tái phát bệnh tim bẩm sinh trong gia đình phụ thuộc vào nguyên nhân. Nguy cơ tái phát của CHD trong gia đình thay đổi tùy theo nguyên nhân., Nguy cơ CHD không cao trong trường hợp đột biến mới xảy ra lần đầu tiên, từ 2 đến 5% đối với CHD do nhiều yếu tố tác động, và 50% khi CHD do đột biến gen trội trên nhiếm sắc thể thường. Việc xác định van động mạch chủ hai lá ở một cá nhân xứng đáng với sàng lọc gia đình dựa trên tỷ lệ hiện hành có tính gia đình được báo cáo là 9% (5). Điều quan trọng là xác định các yếu tố di truyền vì ngày càng có nhiều bệnh nhân mắc bệnh tim bẩm sinh sống sót đến tuổi trưởng thành và có khả năng bắt đầu gia đình.Tài liệu tham khảo về căn nguyên1.Materna-Kiryluk A, Wiśniewska K, Badura-Stronka M, et al: Parental age as a risk factor for isolated congenital malformations in a Polish population.Paediatr Perinat Epidemiol23(1):29-40, 2009. doi: 10.1111/j.1365-3016. 2008.00979.x2.Russell MW, Chung WK, Kaltman JR, Miller TA: Advances in the understanding of the genetic determinants of congenital heart disease and their impact on clinical outcomes.J Am Heart Assoc7(6):e006906, 2018. doi:10.1161/JAHA.117.0069063.van der Linde D, Konings EEM, Slager MA, et al: Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis.J Am Coll Cardiol58(21):2241–2247, 2011. doi: 10.1016/j.jacc.2011.08.0254.Pierpont ME, Brueckner M, Chung WK, et al: Genetic Basis for Congenital Heart Disease: Revisited: A Scientific Statement From the American Heart Association [published correction appears inCirculation2018 Nov 20;138(21):e713].Circulation138(21):e653–e711, 2018. doi:10.1161/CIR.00000000000006065.Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations for genetic counseling.J Genet Couns25(6):1171–1178, 2016.
+
+--- 2. Tuần hoàn bào thai ---
+
+Tuần hoàn bào thai được đánh dấu bởiDòng máu chảy từ phải sang trái xung quanh phổi không được thông khí qua ống động mạch (nối động mạch phổi với động mạch chủ) và foramen ovale (nối tâm nhĩ phải và trái)Luồng shunt hình thành do kháng trở động mạch phổi cao và kháng trở mạch hệ thống lại tương đối thấp (bao gồm cả nhau thai). Khoảng 90-95% thể tích máu từ tim phải đi tắt không qua phổi mà đổ trực tiếp vào hệ tuần hoàn hệ thống. Ống động mạch của thai nhi được giữ bởi phân áp oxy trong máu động mạch thấp (PaO2 khoảng 25 mm Hg) cùng với prostaglandins được sản xuất tại chỗ. Lỗ ovan được giữ bởi áp lực hai tâm nhĩ khác nhau: áp lực nhĩ trái tương đối thấp do ít máu trở về từ phổi, nhưng áp lực tâm nhĩ phải tương đối cao vì lượng máu trở về từ nhau thai rất lớn.Tuần hoàn bình thường ở thai nhiTrong bào thai, máu đi vào bên phải của tim đã được oxy hóa qua nhau thai. Vì phổi chưa được thông khí nên chỉ cần một lượng nhỏ máu đi qua động mạch phổi. Hầu hết máu từ tim phải đều vượt qua phổi quaLỗ bầu dụcCòn ống động mạchThông thường, 2 cấu trúc này sẽ đóng lại ngay sau khi sinh.Mũi tên màu đỏ biểu thị máu thai nhi có hàm lượng oxy cao nhất (độ bão hòa oxy ≥ 65%). Mũi tên màu xanh dương biểu thị máu có độ bão hòa oxy thấp nhất (độ bão hòa oxy ≤ 45%). Mũi tên màu tím biểu thị độ bão hòa oxy trung bình (độ bão hòa oxy 50–60%). Lưu ý rằng độ bão hòa oxy trong suốt thời kỳ này thấp hơn đáng kể so với thời kỳ sau sinh.Thay đổi chu sinhNhững thay đổi với hệ thống tuần hoàn này xuất hiện sau vài nhịp thở đầu tiên, dẫn đếnTăng lưu lượng máu phổiChức năng đóng của lỗ bầu dụcSức cản động mạch phổi giảm mạnh do giãn mạch gây ra do sự giãn nở phổi làm tăng PaO2, và giảm PaCO2. Với lực đàn hồi của xương sườn và thành ngực làm giảm áp lực khoảng kẽ của phổi, làm tăng thêm lưu lượng máu qua các mao quản phổi. Tăng dòng máu trở về tĩnh mạch phổi làm tăng áp lực tâm nhĩ trái, do đó làm giảm sự chênh lệch áp giữa tâm nhĩ trái và phải; ảnh hưởng này góp phần giúp đóng chức năng của lỗ bầu dục.Khi dòng máu qua phổi được thiết lập, máu trở về tĩnh mạch phổi tăng lên, làm tăng áp lực tâm nhĩ trái. Tăng thông khí làm tăng PaO2, làm co động mạch rốn. Lưu lượng máu rau thai giảm hoặc ngừng, làm giảm lượng máu trở về tâm nhĩ phải. Do đó, áp lực nhĩ phải giảm trong khi áp lực nhĩ trái tăng lên; kết quả là hai thành phần thời kỳ bào thai của vách ngăn giữa tâm nhĩ được đẩy lại với nhau, (vách tiên phát và vách thứ phát) làm dừng sự lưu thông máu qua lỗ bầu dục. Ở hầu hết các trường hợp, hai vách ngăn liên kết với nhau và lỗ bầu dục đóng lại. Tuy nhiên, ở 25% số người trưởng thành, lỗ bầu dục có thể vẫn còn nguyên với ít hoặc không có shunt tồn dư (1).Ngay sau khi chào đời, sức cản hệ thống trở nên cao hơn sức cản của phổi, trái ngược với thời kỳ bào thai. Do đó, hướng dòng máu chảy qua ống động mạch bị đảo ngược, tạo ra shunt trái sang phải (được gọi là sự tuần hoàn chuyển tiếp). Tình trạng này kéo dài từ vài phút sau khi sinh (khi dòng máu đến phổi tăng lên và đóng chức năng lỗ bầu dục) cho đến khoảng từ 24 đến 72 giờ, khi ống động mạch bị co lại. Máu qua ống động mạch từ động mạch chủ có phân áp oxy cao (PO2) kèm theo sự thay đổi chuyển hóa prostaglandin, dẫn đến co thắt và đóng ống động mạch. Một khi các ống động mạch đóng lại, tuần hoàn của trẻ giống như tuần hoàn ở người trưởng thành. Hai tâm thất lúc này bơm máu liên tục và không có shunt chệch áp giữa tuần hoàn phổi và tuần hoàn hệ thống.Trong những ngày đầu ngay sau sinh, một trẻ sơ sinh bị căng thẳng có thể trở lại với tuần hoàn của bào thai. Trẻ sơ sinh ngạt với tình trạng thiếu oxy và tăng carbonic máu gây co thắt các động mạch phổi và giãn ống động mạch, đảo ngược các quá trình được mô tả phía trên và dẫn đến tồn tại luồng shunt từ phải sang trái, thông quacòn ống động mạch, làm mở lại lỗ bầu dục, hoặc cả hai. Hậu quả, trẻ sơ sinh bị thiếu oxy máu nặng có thể có tình trạngtăng áp động mạch phổi dai dẳnghoặc tồn tại tuần hoàn thai nhi (mặc dù không có tuần hoàn rốn). Mục tiêu của điều trị là loại bỏ các tình trạng gây ra sự co thắt mạch phổi.Tài liệu tham khảo tuần hoàn thai nhi bình thường1.Koutroulou I, Tsivgoulis G, Tsalikakis D, et al: Epidemiology of Patent Foramen Ovale in General Population and in Stroke Patients: A Narrative Review.Front Neurol11:281, 2020. Xuất bản năm 2020, ngày 28 tháng 4. doi:10.3389/fneur.2020.00281
+
+--- 3. Sinh lý bệnh của dị tật tim bẩm sinh ---
+
+Các dị tật tim bẩm sinh được phân loại (xem bảngPhân loại các dị tật tim bẩm sinh) làCó xanh tímTim bẩm sinh không tím (shunt từ trái sang phải hoặc các tổn thương tắc nghẽn)Hậu quả của các dị tật tim bẩm sinh rất khác nhau, từ tiếng thổi tại tim hoặc sự chênh lệch cường độ mạch ở trẻ không có triệu chứng cho đến biểu hiện tím nặng, suy tim hoặc suy tuần hoàn.BảngPhân loại các dị tật tim bẩm sinh*Phân loại các dị tật tim bẩm sinh*Phân loạiVí dụCó xanh tím—Tứ chứng FallotChuyển gốc động mạchTeo van ba láTeo phổiThân chung động mạch phổiBất thường tĩnh mạch phổi trở về hoàn toàn (TAPVR)Tim bẩm sinh không tímShunt từ trái sang phảiThông liên thấtThông liên nhĩCòn ống động mạchThông sàn nhĩ thấtTắc nghẽnHẹp van động mạch phổiHẹp van động mạch chủHẹp eo động mạch chủHội chứng thiểu sản tim trái(thường biểu hiện tím, có thể mức độ tím nhẹ)* Sắp xếp theo thứ tự tần số giảm dần.* Sắp xếp theo thứ tự tần số giảm dần.Bất thường ở tim có xanh tímLượng máu có độ bão hòa oxy thấp được đi sang bên tim trái (qua shunt phải - trái) làm giảm bão hòa oxy trong máu động mạch hệ thống.Nếu lượng hemogobin khử trong máu>5 g/dL (>50 g/L) thì tím xuất hiện. Hậu quả của tím mạn tính bao gồmđa hồng cầu, ngón tay dùi trống, huyết khối (có thể đột quỵ), rối loạn chảy máu, áp xe não, tăng axit uric máu. Các cơn tím tái có thể xảy ra ở trẻ sơ sinh mắctứ chứng Fallotchưa được phục hồi hoặc các dị tật bẩm sinh phức tạp khác kèm theo hẹp dưới van động phổi động học và thông liên thất.Tùy thuộc vào tổn thương, lưu lượng máu phổi có thể giảm, bình thường hoặc tăng lên (thường dẫn đến suy tim hơn là tím), dẫn các mức độ khác nhau. Tiếng thổi tại tim có thể nghe được và không đặc hiệu.Tim bẩm sinh shunt trái - phảiMáu có độ bão hòa oxy cao từ buồng tim trái (tâm nhĩ trái hoặc tâm thất trái) hoặc động mạch chủ đi sang buồng tim phải (tâm nhĩ phải hoặc tâm thất phải) hoặc động mạch phổi qua các lỗ thông.Ngay sau khi sinh, sức cản mạch máu phổi còn cao và dòng máu đi qua lỗ thông bị hạn chế hoặc đi 2 chiều. Tuy nhiên, trong vòng 24 đến 48 giờ đầu tiên, sức cản mạch phổi giảm dần và lượng máu đi qua lỗ thông theo chiều trái sang phải tăng lên. Lượng máu đi từ tim trái sang tim phải làm tăng lượng máu đi lên phổi và tăng áp lực động mạch phổi ở các mức độ khác nhau. Lượng máu từ trái sang phải càng nhiều thì các triệu chứng càng nghiêm trọng; nếu shunt từ trái sang phải nhỏ thường không gây ra triệu chứng.Những dòng shunt áp lực cao (ở tầng thất hoặc tầng đại động mạch) biểu hiện rõ ràng vài ngày đến vài tuần sau sinh; dòng shunt áp lực thấp (thông liên nhĩ) biểu hiện muộn hơn. Nếu không điều trị, lưu lượng máu phổi tăng và áp lực động mạch phổi tăng có thể dẫn đến bệnh mạch máu phổi và cuối cùngHội chứng Eisenmenger. Các shunts từ trái sang phải lớn (ví dụ,thông liên thất [VSD] lớn,còn ống động mạch [PDA] lớnlàm ccho lượng máu lên phổi, thất trái quá nhiều,dẫn đến dấu hiệu suy tim và chậm lớn. Shunt từ trái sang phải lớn cũng dẫn đến giảm sự giãn nở của phổi và sức cản đường thở cao hơn dẫn đến tăng áp động mạch phổi. Một shunt lớn từ trái sang phải cũng dẫn đến sự tuân thủ của phổi thấp hơn và sức cản đường thở cao hơn Những yếu tố này làm tăng khả năng nhập viện ở trẻ sơ sinhvi rút hợp bào hô hấphoặc các bệnh nhiễm trùng đường hô hấp trên hoặc dưới.Tổn thương tắc nghẽnDòng máu bị cản trở, gây ra áp lực cao khi đi qua chỗ tắc nghẽn.Kết quả của sự quá tải áp lực có thể là phì đại tâm thất và suy tim. Triệu chứng rõ nhất là nghe tim có tiếng thổi do dòng máu đi qua chỗ tắc nghẽn (hẹp). Ví dụ nhưhẹp động mạch chủbẩm sinh, chiếm 3% đến 6% số dị tật tim bẩm sinh vàhẹp van động mạch phổibẩm sinh, chiếm 8% đến 12% (1, 2).Suy timMột số bất thường tim bẩm sinh (ví dụ,van động mạch chủhai lá van, hẹp động mạch chủ nhẹ) không làm thay đổi đáng kể huyết động. Các bất thường khác gây quá tải áp lực hoặc khối lượng, đôi khi gây rasuy tim. Suy tim xuất hiện khi cung lượng của tim không đủ đáp ứng nhu cầu trao đổi chất của cơ thể hoặc khi tim không đủ khả năng nhận lượng máu tĩnh mạch trở về, gây ứ huyết phổi (suy thất trái), phù vùng thấp hoặc các tạng trong ổ bụng (trong suy thất phải) hoặc cả hai. Suy tim ở trẻ nhũ nhi và trẻ em có nhiều nguyên nhân khác với các dị tật tim bẩm sinh (xem bảngNguyên nhân thường gặp suy tim ở trẻ em).BảngNguyên nhân thường gặp suy tim ở trẻ emBảngNguyên nhân thường gặp suy tim ở trẻ emNguyên nhân thường gặp suy tim ở trẻ emTuổi khi bắt đầuNguyên nhânTrong bào thaiThiếu máu mãn tínhkéo theo suy tim tăng cung lượngDò động tĩnh mạch hệ thống lớn (ví dụ, dị dạng tĩnh mạch não Galen)Nhồi máu cơ tim cấp tính sau viêm cơ timNhịp tim nhanh trong thời kì bào thaiSau sinh vài ngàyBất kỳ ở trênhẹp động mạch chủhoặchẹo eo động mạch chủnặngBệnh Ebsteinvới hở van ba lá nặng hoặc hở van động mạch phổi nặngHội chứng thiểu sản tim tráiCơn nhịp nhanh kịch phát trên thất ở thời kì bào thai hoặc sơ sinhRối loạn chuyển hóa (ví dụ,hạ đường huyết,hạ thân nhiệt,toan chuyển hóanặng)Nhiễm khuẩn huyết ở trẻ sơ sinhTổn thương cơ tim do ngạtThiếu máunặng trong tử cung (phù thai)Bất thường tĩnh mạch phổ trở về hoàn toànvới tắc nghẽn nặng (thường ở thể dưới tim)Tối đa 1 thángBất kỳ ở trênHẹp eo động mạch chủ, có hoặc không kết hợp với bất thườngkhác.Block tim hoàn toàn có hoặc không kèm theo bất thường về cấu trúc timCác shunt trái sang phải lớn ở trẻ non tháng (ví dụ:còn ống động mạch)Chuyển gốc động mạchvới thông liên thất lớnTrẻ bú mẹ (đặc biệt là 6-8 tuần)Loạn sản phế quản phổi (suy thất phải)Thông vách nhĩ thấttoàn bộCòn ống động mạchThân chung động mạch phổiRối loạn chuyển hóa hiếm gặp (ví dụ,bệnh rối loạn dự trữ glycogen type II- Pompe disease)Tim 1 thấtNhịp tim nhanh trên thấtThông liên thấtThời thơ ấuDo bất thường ở đường hô hấp cấp tính (do tắc nghẽn đường thở trên như amidan lớn)Thấp timcấp có viêm timTăng huyết áp nặng (VD: viêm thận cầu thận cấp)Máu trở về Động mạch phổi bất thường(không tắc nghẽn)Viêm nội tâm mạcnhiễm khuẩnThiếu máu mãn tính (mức độ nặng)Bệnh cơ tim giãnSắt quá tải do bất thường chuyển hóa sắt (bệnh hemachromatosis) hoặc do truyền máu thường xuyên (ví dụ,thalassemia thể nặng)Thiếu hụt dinh dưỡngBệnh van tim do bẩm sinh hoặc mắc phải (ví dụ,thấp tim)Viêm cơ timdo virutQuá tải dịchở bệnh nhân không có bất thường tim mạchBệnh tim bẩm sinh phụ thuộc ống dẫnỐng động mạch là một kết nối bình thường giữa động mạch chủ và động mạch phổi; nó là cần thiết cho tuần hoàn bào thai. Khi sinh ra, sự gia tăng trong PaO2 và giảm nồng độ prostaglandin gây co thắt ống động mạch thường bắt đầu trong vòng 10 đến 15 giờ sau sinh.Một số rối loạn tim bẩm sinh phụ thuộc vào ống động mạch còn mở để duy trì lưu lượng máu toàn thân (ví dụ,hội chứng thiểu sản tim trái,hẹp động mạch chủnặng,hẹp eo động mạch chủ, hoặc tuần hoàn phổi phụ thuộc ống động mạch (tổn thương tím tái nhưthiểu sản phổi, hoặctứ chứng Fallottrầm trọng). Giữ cho ống động mạch mở với truyền prostaglandin ngoại sinh là rất quan trọng trong các rối loạn này trước khi sửa chữa dứt khoát (thường là phẫu thuật).Tài liệu tham khảo sinh bệnh học1.Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds):Pediatric Heart Disease: A Practical Guide. Wiley-Blackwell 2012.2.Hoffman JI, Kaplan S: The incidence of congenital heart disease.J Am Coll Cardiol39(12):1890-1900, 2002. doi:10.1016/s0735-1097(02)01886-7
+
+--- 4. Các triệu chứng và dấu hiệu của bệnh tim bẩm sinh ---
+
+Các biểu hiện của bệnh tim bẩm sinh rất đa dạng nhưng thường bao gồmTiếng thổiXanh tímSuy timMạch yếu hoặc không bắt đượcCác biểu hiện lâm sàng khác có thể bao gồm suy tuần hoàn, tưới máu kém, bất thường tiếng thứ hai S2 (S2, tiếng thứ 2 tách đôi), click tống máu, nhịp ngựa phi hoặc nhịp tim không đều.Tiếng thổiHầu hết các shunt từ trái sang phải và các tổn thương tắc nghẽn đều gây ratiếng thổi tâm thu. Tiếng thổi tâm thu và rung mưu rõ nhất gần bề mặt vị trí tổn thương rất hữu ích cho chẩn đoán vị trí tổn thương. Sự gia tăng lưu lượng qua van phổi hoặc động mạch chủ gây ra tiếng thổi giữa tâm thu với âm ượng tăng dần sau đó giảm dần (thổi tâm thu tống máu). Hở van nhĩ thất hoặc dòng máu đi qua lỗ thông vách liên thất gây tiếng thổi toàn thì tâm thu và khi cường độ mạnh thường che lấp các tiếng tim (S1).Còn ống động mạchthường gây ra tiếng thổi liên tục không gián đoạn bởi S2 vì máu chảy qua ống cả thì tâm thu và thì tâm trương. Tiếng thổi này gồm 2 phần, trong thì tâm thu rõ ràng (khi máu chảy qua với áp lực cao) và thì tâm trương.Xanh tímNgón tay dùi trốngHình ảnh© Springer Science+Business MediaTím trung ương được đặc trưng bởi tím ở môi và lưỡi và/hoặc giường móng; xảy ra khi có sự gia tăng hemoglobin khử oxy (ít nhất 5 g/dL [50 g/L]). Nó có nghĩa là mức oxy trong máu thấp (thường bão hòa oxy < 85%). Tím ngoại vi (tím bàn tay và bàn chân) và không có triệu chứng tím môi hoặc giường móng, thường do sự co thắt mạch máu ngoại biên, hiếm khi do thiếu oxy và là một biểu hiện có thể thấy ở trẻ sơ sinh bình thường. Trẻ lớn hơn với tím kéo dài thường gây ngón tay dùi trống.Suy timỞ trẻ nhũ nhi, triệu chứng suy tim bao gồm:Nhịp tim nhanhThở nhanhKhó thở khi cho ănDiaphoresis, đặc biệt là trong quá trình cho ănQuấy khóc, cáu kỉnhGan toChậm lớnKhó thở khi ăn gây ăn kém và tăng trưởng không tốt, điều này có thể nặng hơn do nhu cầu chuyển hóa tăng trong suy tim và thường xuyên nhiễm trùng đường hô hấp. Trái ngược với người lớn và trẻ lớn hơn, hầu hết trẻ nhũ nhi không có triệu chứng tĩnh mạch cổ nổi và phù vùng thấp; tuy nhiên, có thể có phù mi mắt. biểu hiện suy tim ở trẻ lớn tương tự như ở người trưởng thành. Gan to là một đặc điểm đặc biệt nổi bật của suy tim ở trẻ sơ sinh vì khả năng căng giãn của bao gan ở độ tuổi này. Biểu hiệnsuy timở trẻ lớn tương tự như ở người trưởng thành.Các biểu hiện khác của dị tật timỞ trẻ sơ sinh,sốc do tuần hoàncó thể là biểu hiện đầu tiên của một số bất thường (ví dụ:hội chứng thiểu sản tim trái, hẹp động mạch chủ nghiêm trọng, cung động mạch chủ bị gián đoạn,hẹp eo động mạch chủ). Trẻ sơ sinh có biểu hiện cực kỳ ốm yếu với niêm mạc nhợt nhạt hoặc tím tái, đầu chi lạnh, mạch giảm dần, huyết áp thấp và giảm phản ứng với các kích thích.Đau ngựcở trẻ em thường không do tim. Ở trẻ nhũ nhi, đau ngực có thể biểu hiện bằng quấy khóc không giải thích được, đặc biệt là xuất phát bất thường của động mạch vành trái từ động mạch phổi. Ở trẻ lớn hơn và thanh thiếu niên, đau ngực do nguyên nhân tim thường liên quan đến gắng sức và có thể do bất thường mạch vành,viêm màng ngoài tim,viêm cơ tim,bệnh cơ tim phì đạihoặchẹp động mạch chủnặng.Ngất,thường không có triệu chứng cảnh báo và thường liên quan đến gắng sức, có thể xảy ra với một số bất thường bao gồmbệnh cơ tim(phì đại hoặc giãn), nguồn gốc bất thường của động mạch vành hoặc hội chứng rối loạn nhịp tim di truyền (ví dụ:hội chứng QT dài,nhịp nhanh thất đa hình do catecholamine[CPVT ],hội chứng Brugada). Trẻ em tuổi trung học tập luyện thể thao nhiều thường bị ảnh hưởng nhiều nhất.
+
+--- 5. Chẩn đoán bệnh tim bẩm sinh ---
+
+Sàng lọc bằng đo bão hòa oxy máu qua daKhám sức khỏe tim mạchX-quang ngực và ECGSiêu âm timĐôi khi cần chụp MRI hoặc CT tim, thông tim chụp mạchKhi xuất hiện tiếng thổi, tím, bất thường mạch hoặc biểu hiện của suy tim gợi ý bệnh tim bẩm sinh. Ở trẻ sơ sinh có những dấu hiệu này, siêu âm tim được thực hiện để xác nhận chẩn đoán bệnh tim bẩm sinh. Nếu chỉ có bất thường là tím,bệnh methemoglobinemiacũng cần được loại trừ.Mặc dù siêu âm tim thường là tiêu chuẩn chẩn đoán, nhưng trong một số trường hợp, MRI tim hoặc chụp mạch bằng CT có thể làm rõ các chi tiết giải phẫu quan trọng. Thông tim với chụp mạch máu đôi khi cần thiết để xác nhận chẩn đoán hoặc để đánh giá mức độ nặng của bất thường đó; tuy nhiên, chụp mạch thường chỉ được thực hiện cho mục đích điều trị.
+
+--- 6. Sàng lọc bệnh tim bẩm sinh cho trẻ sơ sinh ---
+
+Các triệu chứng của bệnh tim bẩm sinh có thể là kín đáo hoặc chưa xuất hiện ở trẻ sơ sinh, và việc phát hiện chậm hoặc bỏ sót suy tim, đặc biệt là ở 10 đến 15% trẻ sơ sinh cần điều trị phẫu thuật hoặc điều trị thuốc trong giờ đầu mới sinh ra (gọi là bệnh tim bẩm sinh nặng [CCHD]), có thể dẫn đến tử vong sơ sinh hoặc bệnh rất nặng. Do đó, cần phải sàng lọc toàn diện bệnh tim bẩm sinh nghiêm trọng bằng phương pháp đo độ bão hòa oxy trong máu cho tất cả trẻ sơ sinh trước khi xuất viện (1). Khám sàng lọc được thực hiện khi trẻ sơ sinh ≥ 24 giờ tuổi và được nghi ngờ nếu có ≥ 1 trong số các triệu chứng sau:Độ bão hòa oxy < 90%.Độ bão hoà oxy ở cả tay phải và chân < 95% trên 3 lần đo riêng biệt cách nhau 1 giờ.Có > 3% sự khác biệt tuyệt đối giữa độ bão hòa oxy ở tay phải (trước ống) và chân (sau ống) trên 3 phép đo riêng biệt, ghép cặp, cách nhau 1 giờ.Tất cả trẻ sơ sinh có kết quả sàng lọc dương tính phải được đánh giá toàn diện về bệnh tim bẩm sinh và các nguyên nhân khác gây giảm oxy máu (ví dụ, các rối loạn hô hấp khác nhau, suy nhược thần kinh trung ương, nhiễm trùng huyết), thường bao gồm chụp X-quang phổi, điện tâm đồ, siêu âm tim và thường là xét nghiệm máu. Độ nhạy của sàng lọc bão hòa oxy trong máu hơi > 75%; các tổn thương của bệnh tim bẩm sinh thường bị bỏ sót nhất là các tổn thương do tắc nghẽn tim trái (ví dụ:hẹp eo động mạch chủ).Tài liệu tham khảo về sàng lọc ở sơ sinh1.Martin GR, Ewer AK, Gaviglio A, et al: Updated Strategies for Pulse Oximetry Screening for Critical Congenital Heart Disease.Pediatrics146(1):e20191650, 2020. doi:10.1542/peds.2019-1650
+
+--- 7. Điều trị bệnh tim bẩm sinh ---
+
+Điều trị ổn định suy tim (ví dụ, với thuốc lợi tiểu, thuốc ức chế men chuyển, thuốc chẹn beta, digoxin, thuốc muối và trong trường hợp bổ sung oxy hoặc prostaglandin E1)Phẫu thuật sửa chữa hoặc can thiệp qua thông tim.Điều trị suy tim rất khác nhau tùy thuộc vào nguyên nhân. Điều trị dứt điểm thường yêu cầu phải giải quyết các vấn đề cơ bản.Sau khi điều trị ổn định các triệu chứng suy tim cấp tính hoặc tím, hầu hết trẻ em cần được sửa chữa bằng phẫu thuật hoặc nhờ thông tim; ngoại lệ là một số thông liên thất có thể trở nên nhỏ hơn hoặc đóng với thời gian hoặc rối loạn chức năng van nhẹ. Các thủ thuật thông tim bao gồmNong bóng mở rộng vách liên nhĩ ở sơ sinh tím nặng vớibệnh chuyển gốc động mạch.Nong bóng đểmở rộng van động mạch chủhoặcvan động mạch phổi hẹp nặngThông tim để đóng các shunts ở tim (thườngthông liên nhĩvàcòn ống động mạch)Đặt van động mạch phổi qua ống thôngNong bằng bóng có hoặc không kèm theo đặt stent trong các trường hợp hẹp mạch máu, phổ biến nhất là hẹp động mạch phổiSuy tim ở trẻ sơ sinhSuy tim cấp tính, nặng hoặc tím trong tuần đầu tiên của cuộc đời là một trường hợp cấp cứu. Bảo đảm đường truyền tĩnh mạch, tốt nhất là thông qua tĩnh mạch rốn.Khi nghi ngờ hoặc xác định bệnh tim bẩm sinh nghiêm trọng, nên bắt đầu truyền prostaglandin E1 đường tĩnh mạch với tốc độ 0,05 đến 0,1 mcg/kg/phút. Giữ cho còn ống động mạch khai thông là rất quan trọng vì hầu hết các tổn thương tim biểu hiện ở độ tuổi này đều phụ thuộc vào ống đối với lưu lượng máu hệ thống (ví dụ:hội chứng giảm sản tim trái,hẹp động mạch chủnghiêm trọng,hẹp eo động mạch chủ) hoặc lưu lượng máu phổi (tổn thương tím tái như là hẹp động mạch phổi nghiêm trọng,không có van động mạch phổihoặctứ chứng Fallot nặng).Thông khí cơ học thường là cần thiết đối với trẻ sơ sinh bệnh nặng. Bổ sung oxy cần được đưa ra một cách thận trọng hoặc thậm chí là không bổ sung vì cung cấp oxy có thể làm giảm sức cản của mạch phổi, có hại cho trẻ sơ sinh có khuyết tật nhất định (ví dụ, hội chứng thiểu sản tim trái).Các biện pháp khác điều trị suy tim bao gồm thuốc lợi tiểu, thuốc vận mạch, thuốc giảm hậu gánh. Thuốc lợi tiểu furosemide được dùng với liều ban đầu là 1 mg/kg tiêm tĩnh mạch và được điều chỉnh dựa trên lượng nước tiểu. Tiêm truyền thuốc dopamine hoặc dobutamine có thể cải thiện huyết áp nhưng có bất lợi về tăng nhịp tim và tăng hậu gánh, do đó làm tăng tiêu thụ oxy cơ tim. Chúng thường được sử dụng ở trẻ sơ sinh bị bệnh tim bẩm sinh. Milrinone, thường được sử dụng trong các bệnh nhân sau phẫu thuật có bệnh tim bẩm sinh, vừa tăng co bóp cơ tim vừa gây giãn mạch. Dopamine, dobutamine, and milrinone all have the potential to increase the risk of arrhythmias. Nitroprusside, chất làm giãn mạch mạnh, cỏ thể sử dụng điều trị tăng huyết áp sau mổ. Lượng thuốc bắt đầu từ 0,3 đến 0,5 mcg/kg/phút và có thể điều chỉnh theo mức độ mong muốn (liều duy trì thường là khoảng 3 mcg/kg/phút).Suy tim ở trẻ nhỏ và trẻ nhỏCác liệu pháp thường bao gồm thuốc lợi tiểu (ví dụ, furosemide 0,5 đến 1 mg/kg tiêm tĩnh mạch hoặc 1 đến 3 mg/kg uống mỗi 8 giờ đến 24 giờ, tăng liều khi cần thiết) và chất ức chế men chuyển (ví dụ, captopril 0,1 đến 0,3 mg/kg uống 3 lần/ngày). Thuốc lợi tiểu giữ kali (ví dụ, spironolactone 1 mg/kg uống 1-2 lần/ngày, tăng liều lên đến 2 mg/kg/liều nếu cần) có thể hữu ích, đặc biệt khi cần furosemide liều cao. Các thuốc chẹn beta (như carvedilol, metoprolol) thường được bổ sung cho trẻ bị suy tim sung huyết mạn. Các loại thuốc mới hơn được sử dụng ở người lớn để điều trị suy tim, chẳng hạn như sacubitril/valsartan và thuốc ức chế chất đồng vận chuyển natri-glucose-2 (SGLT-2), có thể có tác dụng, nhưng dữ liệu còn hạn chế ở trẻ em (1).Digoxin được sử dụng ít hơn so với trrước đây nhưng có thể vẫn có vai trò ở trẻ bị suy tim với shunt trái sang phải lớn, ở một số bệnh nhân sau phẫu thuật có bệnh tim bẩm sinh (liều lượng thay đổi theo độ tuổi; xem bảngLiều lượng Digoxin Uống ở Trẻ em). Đáng chú ý là digoxin đã được chứng minh là làm giảm tỷ lệ tử vong ở bệnh nhân một tâm thất sau thủ thuật Norwood và trước phẫu thuật giai đoạn hai (2). Việc sử dụng digoxin làm một loại thuốc hàng đầu trong điều trị nhịp nhanh trên thất ở trẻ sơ sinh đã giảm vì nó dẫn đến tỷ lệ tử vong cao hơn so với điều trị bằng propranolol (3). Tuy nhiên, nếu không cóhội chứng Wolff-Parkinson-White, nó có thể hữu ích như một tác nhân chính nếu propranolol không hiệu quả hoặc như một tác nhân thứ hai kết hợp với propranolol hoặc các thuốc chống loạn nhịp tim khác.BảngLiều dùng Digoxin uống ở trẻ em*BảngLiều dùng Digoxin uống ở trẻ em*Liều dùng Digoxin uống ở trẻ em*TuổiTổng số liều số hóa† (mcg/kg)Liều duy trì ‡Trẻ sơ sinh non tháng202,5 mcg/kg, hai lần/ngàyTrẻ sơ sinh đủ tháng304–5 mcg/kg, hai lần/ngày1 tháng-2 tuổi30–505–6 mcg/kg, hai lần/ngày2-5 tuổi30–404–5 mcg/kg, hai lần/ngày6-10 tuổi20–352,5–4 mcg/kg, hai lần/ngày>10 tuổi hoặc cân nặng >30 kg§10–150,125 mg, hai lần/ngày hoặc 0,25 mg, một lần/ngày* Tất cả các liều được dựa trên trọng lượng cơ thể lý tưởng cho trẻ em có chức năng thận bình thường. Liều IV là 75% liều uống.†Một liều số hóa hiện nay được sử dụng không thường xuyên. Nó thường được sử dụng nhất khi điều trị rối loạn nhịp tim hoặc suy tim cấp tính. Tổng liều tấn công được đưa trong vòng 24 giờ với một nửa liều được cho trước, tiếp theo là một phần tư liều được cho hai lần sau, cách nhau khoảng 8 đến 12 giờ; Theo dõi điện tâm đồ là cần thiết.‡ Liều duy trì ban đầu là 25% số liều số hóa, chia làm 2 lần. Chỉnh liều dựa trên đáp ứng lâm sàng và nồng độ thuốc.§ Không vượt quá liều số hóa đường uống dành cho người lớn là 1–1,5 mg.* Tất cả các liều được dựa trên trọng lượng cơ thể lý tưởng cho trẻ em có chức năng thận bình thường. Liều IV là 75% liều uống.†Một liều số hóa hiện nay được sử dụng không thường xuyên. Nó thường được sử dụng nhất khi điều trị rối loạn nhịp tim hoặc suy tim cấp tính. Tổng liều tấn công được đưa trong vòng 24 giờ với một nửa liều được cho trước, tiếp theo là một phần tư liều được cho hai lần sau, cách nhau khoảng 8 đến 12 giờ; Theo dõi điện tâm đồ là cần thiết.‡ Liều duy trì ban đầu là 25% số liều số hóa, chia làm 2 lần. Chỉnh liều dựa trên đáp ứng lâm sàng và nồng độ thuốc.§ Không vượt quá liều số hóa đường uống dành cho người lớn là 1–1,5 mg.Oxy bổ sung có thể làm giảm tình trạng thiếu oxy máu và giảm khó thở trong suy tim;nếu có thể, giữ nồng độ oxy khí thở vào (Fio2)<40% để giảm thiểu nguy cơ tổn thương biểu mô phổi. Bổ sung oxy phải được sử dụng cẩn thận, ở bệnh nhân có tổn thương shunt trái sang phải hoặc bệnh tắc nghẽn tim trái vì nó có thể làm trầm trọng thêm quá tải tuần hoàn phổi.Nói chung, chế độ ăn đủ chất, hạn chế muối được khuyến cáo, mặc dù thế vẫn cần phải điều chỉnh chế độ ăn uống tùy thuộc vào rối loạn riêng và biểu hiện cụ thể. Suy tim làm tăng nhu cầu chuyển hóa và khó thở liên quan đến việc cho trẻ ăn khó khăn hơn. Ở trẻ sơ sinh mắc bệnh tim bẩm sinh nghiêm trọng, đặc biệt là những trẻ có tổn thương tắc nghẽn tim trái, có thể ngừng cho ăn để giảm thiểu nguy cơ bịviêm ruột hoại tử. Ở trẻ sơ sinh bị suy tim do các shunt từ trái sang phải, khuyên dùng thức ăn giàu caloric; những thức ăn này làm tăng lượng calo được cung cấp và làm như vậy với ít nguy cơ quá tải khối lượng. Một số trẻ em bbỏ sung thức ăn bằng qua đặt ống thông để duy trì sự tăng trưởng. Nếu những biện pháp này không dẫn đến tăng cân, thì chỉ cần chỉ định phẫu thuật sửa chữa bất thường.Dự phòng viêm nội tâm mạcHướng dẫn của Hiệp hội Tim mạch Hoa Kỳ vềphòng ngừa viêm nội tâm mạc(4) nêu rõ rằng việc dự phòng bằng kháng sinh là bắt buộc đối với trẻ mắc bệnh tim bẩm sinh có các tình trạng sau:Bệnh tim bẩm sinh tím không được chữa khỏi (bao gồm trẻ với điều trị bắc cầu và ống dẫn)bệnh tim bẩm sinh được sửa chữa hoàn toàn trong 6 tháng đầu sau phẫu thuật nếu sử dụng vật liệu giả hoặc dụng cụBệnh tim bẩm sinh đã phẫu thuật nhưng còn sót tổn thương ở vị trí hoặc bên cạnh vị trí của một miếng đệm giả hoặc dụng cụ giảVan cơ học hoặc van sinh họcViêm nội tâm mạc trước đóTài liệu tham khảo về điều trị1.Loss KL, Shaddy RE, Kantor PF: Recent and Upcoming Drug Therapies for Pediatric Heart Failure.Front Pediatr9:681224, 2021. Xuất bản ngày 11 tháng 11 năm 2021. doi:10.3389/fped.2021.6812242.Oster ME, Kelleman M, McCracken C, et al: Association ofdigoxinwith interstage mortality: Results from the Pediatric Heart Network Single Ventricle Reconstruction Trial Public Use Dataset.J Am Heart Assoc5(1): e002566., 2016.3.Bolin EH, Lang SM, Tang X, et al:Propranololversusdigoxinin the neonate for supraventricular tachycardia (from the Pediatric Health Information System).Am J Cardiol119(10): 1605–1610, 2017.4.Baltimore RS, Gewitz M, Baddour LM, et al: Infective Endocarditis in Childhood: 2015 Update: A Scientific Statement From the American Heart Association.Circulation132(15):1487–1515, 2015. doi:10.1161/CIR.0000000000000298
+
+--- 8. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.American Heart Association: Common Heart Defects: Provides overview of common congenital heart defects for parents and caregiversAmerican Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis, including summarizing prophylactic antibiotic use, for patients and caregivers

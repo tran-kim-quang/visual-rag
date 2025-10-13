@@ -1,0 +1,951 @@
+TIÊU ĐỀ: Cephalosporin
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/cephalosporin
+================================================================================
+
+NỘI DUNG:
+
+Cephalosporin
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v13956656_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Cephalosporin là
+
+kháng sinh beta-lactam
+
+diệt khuẩn. Thuốc ức chế các enzyme trong thành tế bào của các vi khuẩn nhạy cảm, làm gián đoạn sự tổng hợp thành tế bào. Có nhiều thế hệ thuốc thuộc nhóm cephalosporin.
+
+(Xem thêm
+
+Tổng quan về thuốc kháng khuẩn
+
+.)
+
+Bảng
+
+Cephalosporin
+
+Bảng
+
+Cephalosporin
+
+Cephalosporin
+
+Thuốc
+
+Đường dùng
+
+Thế hệ thứ nhất
+
+Cefadroxil
+
+Đường uống
+
+Cefazolin
+
+Đường tiêm truyền
+
+Cephalexin
+
+Đường uống
+
+Cephradine
+
+Đường uống
+
+Thế hệ thứ hai
+
+Cefaclor
+
+Đường uống
+
+Cefotetan*
+
+Đường tiêm truyền
+
+Cefoxitin*
+
+Đường tiêm truyền
+
+Cefprozil
+
+Đường uống
+
+Cefuroxime
+
+Đường tiêm truyền hoặc đường uống
+
+Thế hệ thứ ba
+
+Cefdinir
+
+Đường uống
+
+Cefditoren
+
+Đường uống
+
+Cefixime
+
+Đường uống
+
+Cefoperazone/sulbactam (không có ở Hoa Kỳ)
+
+Đường tiêm truyền
+
+Cefotaxime
+
+Đường tiêm truyền
+
+Cefpodoxime
+
+Đường uống
+
+Ceftazidime
+
+Đường tiêm truyền
+
+Ceftazidime/Avibactam
+
+Đường tiêm truyền
+
+Ceftibuten
+
+Đường uống
+
+Ceftriaxone
+
+Đường tiêm truyền
+
+Thế hệ thứ tư
+
+Cefepime
+
+Đường tiêm truyền
+
+Cephalosporin kháng MRSA
+
+Ceftaroline/fosamil
+
+Đường tiêm truyền
+
+Ceftobiprole/medocaril
+
+Đường tiêm truyền
+
+Các cephalosporin khác
+
+Cefiderocol
+
+Đường tiêm truyền
+
+Ceftolozane/tazobactam
+
+Đường tiêm truyền
+
+* Cũng được phân loại là cephamycin.
+
+MRSA =
+
+Staphylococcus aureus
+
+kháng methicillin.
+
+* Cũng được phân loại là cephamycin.
+
+MRSA =
+
+Staphylococcus aureus
+
+kháng methicillin.
+
+Dược động học của nhóm Cephalosporin
+
+Cephalosporin xâm nhập tốt vào hầu hết các chất dịch cơ thể và dịch não tủy của hầu hết các mô, đặc biệt khi có hiện tượng viêm (làm tăng sự khuếch tán). Tuy nhiên, cephalosporin duy nhất đạt nồng độ đủ cao trong dịch não tuỷ là
+
+Ceftriaxone
+
+Cefotaxime
+
+Ceftazidime
+
+Cefepime
+
+Tất cả các cephalosporin xâm nhập vào dịch kính và dịch nội bào rất kém.
+
+Hầu hết cephalosporin được bài tiết chủ yếu trong nước tiểu, do đó liều của chúng phải được điều chỉnh ở bệnh nhân suy thận. Cefoperazone và
+
+ceftriaxone
+
+được bài tiết qua mật đáng kể nên không cần điều chỉnh liều như vậy.
+
+Chỉ định cho Cephalosporin
+
+Cephalosporin có tính diệt khuẩn trong hầu hết các trường hợp sau:
+
+Vi khuẩn gram dương
+
+Vi khuẩn gram âm
+
+Nhóm Cephalosporin được phân loại theo các thế hệ (xem bảng
+
+Một số ứng dụng lâm sàng của nhóm Cephalosporin thế hệ thứ ba và thứ tư
+
+). Nhóm Cephalosporin thế hệ thứ nhất có hiệu quả chủ yếu chống lại các vi khuẩn gram dương. Các thế hệ cao hơn thường có phổ mở rộng chống lại các trực khuẩn gram âm hiếu khí. Các cephalosporin ceftaroline và ceftobiprole có hoạt tính chống lại
+
+Staphylococcus aureus
+
+kháng methicillin (MRSA).
+
+Cephalosporin có những hạn chế sau:
+
+Thiếu hoạt động
+
+enterococci
+
+Thiếu hoạt tính chống lại staphylococci kháng methicillin (ngoại trừ ceftaroline và ceftobiprole)
+
+Thiếu hoạt tính chống lại
+
+vi khuẩn gram âm
+
+(ngoại trừ cefotetan và cefoxitin)
+
+Cephalosporin thế hệ thứ nhất
+
+Những cephalosporin này có hoạt tính tuyệt vời chống lại
+
+Cầu khuẩn gram dương
+
+Một số trực khuẩn gram âm
+
+Nhóm Cephalosporin thế hệ đầu tiên dùng đường uống thường được sử dụng cho
+
+các bệnh nhiễm trùng da và mô mềm
+
+không biến chứng, thường do tụ cầu và liên cầu khuẩn.
+
+Cefazolin đường uống thường được sử dụng cho
+
+viêm nội tâm mạc
+
+do
+
+S. aureus
+
+nhạy với methicillin và dự phòng trước khi phẫu thuật tim mạch, chấn thương chỉnh hình, ổ bụng và khung chậu.
+
+Tùy thuộc vào tính nhạy cảm tại chỗ, trực khuẩn gram âm
+
+Escherichia coli
+
+có thể nhạy cảm và cephalexin thường sử dụng cho các bệnh nhiễm trùng đường tiết niệu không biến chứng.
+
+Cephalosporin thế hệ thứ hai và cephamycins
+
+Cephalosporin thế hệ thứ hai có hoạt tính chống lại
+
+Cầu khuẩn gram dương
+
+Một số trực khuẩn gram âm
+
+Nhóm Cephamycin là các loại kháng sinh ban đầu do
+
+Streptomyces
+
+sản sinh ra nhưng hiện nay được tổng hợp. Các loại thuốc này thường được phân loại cùng với nhóm cephalosporin thế hệ thứ hai. Cephamycins có hoạt tính chống lại vi khuẩn kỵ khí như
+
+Bacteroides
+
+sp, bao gồm
+
+Bacteroides fragilis
+
+Nhóm Cephalosporin thế hệ thứ hai có thể ít có hoạt tính hơn đối với cầu khuẩn gram dương so với nhóm cephalosporin thế hệ thứ nhất. Nhóm Cephalosporin thế hệ thứ hai và cephamycin đôi khi được sử dụng để điều trị nhiễm trùng đa vi khuẩn bao gồm trực khuẩn gram âm và cầu khuẩn gram dương. Vì nhím cephamycin có thể có tác dụng chống lại các loài
+
+Bacteroides
+
+nên thuốc này đã được sử dụng khi nghi ngờ có vi khuẩn kỵ khí (ví dụ: trong
+
+nhiễm trùng
+
+trong ổ bụng,
+
+loét tư thế nằm
+
+hoặc
+
+nhiễm trùng bàn chân do tiểu đường
+
+). Tuy nhiên, những trực khuẩn này không còn nhạy cảm với nhóm cephamycin nữa, vì vậy nhóm cephamycin không còn được khuyến nghị sử dụng theo kinh nghiệm trong nhiễm trùng trong ổ bụng (
+
+1
+
+,
+
+2
+
+).
+
+Cephalosporin thế hệ thứ ba
+
+Những cephalosporin này có hoạt tính chống lại
+
+Haemophilus influenzae
+
+và một số Enterobacterales (trước đây là Enterobacteriaceae: ví dụ:
+
+Escherichia coli
+
+,
+
+Klebsiella pneumoniae
+
+,
+
+Proteus mirabilis
+
+) mà không sản sinh ra AmpC beta-lactamase hoặc beta-lactamaza phổ rộng (ESBL)
+
+Hầu hết nhóm cephalosporin thế hệ thứ ba, bao gồm ceftriaxone và cefotaxime, cũng có hoạt tính chống lại một số loài gram dương, đặc biệt là streptococci bao gồm một số chủng giảm độ nhạy cảm với penicillin. Cefixime và ceftibuten đường uống có ít hoạt tính chống lại
+
+S. aureus
+
+và nếu được sử dụng cho da và các mô mềm, nên hạn chế dùng trong những trường hợp nhiễm trùng không nặng do cầu khuẩn.
+
+Ceftazidime và cefoperazone có hoạt tính chống lại
+
+Pseudomonas aeruginosa
+
+, trong khi phần còn lại của lớp thì không. Cả hai đều có hoạt tính chống lại các loài
+
+Streptococcus
+
+.
+
+Ceftazidime
+
+có hoạt tính kém chống lại các loài gram dương và không phù hợp với nhiễm tụ cầu. Thêm avibactam vào ceftazidime làm tăng phổ của nó bao gồm Enterobacterales tạo ra AmpC, ESBL, hoặc
+
+Klebsiella pneumoniae
+
+carbapenemase (KPC).
+
+Các cephalosporin này có nhiều ứng dụng lâm sàng, cũng như nhóm cephalosporin thế hệ thứ tư (xem bảng
+
+Một số ứng dụng lâm sàng của nhóm Cephalosporin thế hệ thứ ba và thứ tư
+
+).
+
+Cephalosporin thế hệ thứ tư
+
+Cephalosporin cefepime thế hệ thứ tư có hoạt tính chống lại
+
+Kháng khuẩn Gram dương (tương tự như cefotaxime)
+
+Vi khuẩn Gram âm (hoạt tính tăng cường), bao gồm
+
+P. aeruginosa
+
+(tương tự như ceftaidime), và một số ampC beta-Lactamase sản sinh Enterobacterales, chẳng hạn như loài
+
+Enterobacter
+
+Bảng
+
+Một số ứng dụng lâm sàng của Cephalosporin thế hệ thứ ba và thứ tư
+
+Bảng
+
+Một số ứng dụng lâm sàng của Cephalosporin thế hệ thứ ba và thứ tư
+
+Một số ứng dụng lâm sàng của Cephalosporin thế hệ thứ ba và thứ tư
+
+Cephalosporin
+
+Chỉ định
+
+Bình luận
+
+Cephalosporin thế hệ thứ ba và thứ tư
+
+Nhiễm trùng do đa vi khuẩn liên quan đến trực
+
+khuẩn gram
+
+âm và gram dương (ví dụ,
+
+nhiễm khuẩn huyết
+
+trong ổ bụng,
+
+loét do tỳ đè
+
+,
+
+nhiễm trùng bàn chân do đái tháo đường
+
+)
+
+Khi cần thiết, dùng chung với các kháng sinh khác để diệt
+
+vi khuẩn kỵ khí
+
+hoặc
+
+cầu khuẩn
+
+Ceftriaxone và một số cephalosporin thế hệ thứ ba khác
+
+Viêm phổi cộng đồng
+
+Được sử dụng với macrolide hoặc fluoroquinolone để điều trị các mầm bệnh không điển hình
+
+mycoplasmas
+
+, loài
+
+Chlamydophila
+
+, loài
+
+Legionella
+
+)
+
+Cefotaxime
+
+Ceftriaxone
+
+Viêm màng não
+
+cấp nghi ngờ là do
+
+Streptococcus pneumoniae
+
+,
+
+Haemophilus influenzae
+
+hoặc
+
+Neisseria meningitidis
+
+Dùng với ampicillin để phủ cả
+
+Listeria monocytogenes
+
+và với vancomycin để phủ
+
+S. pneumoniae
+
+với độ nhạy penicillin giảm (đang chờ kết quả nồng độ ức chế tối thiểu*)
+
+Cefpodoxime (uống)
+
+Nhiễm trùng da và mô mềm
+
+do
+
+staphylococci
+
+hoặc
+
+streptococci
+
+Không được sử dụng nếu nghi ngờ kháng methicillin
+
+Staphylococcus aureus
+
+Ceftazidime, cefepime
+
+Viêm phổi bệnh viện và viêm phổi liên quan đến thở máy
+
+Phác đồ lâm sàng để điều trị viêm màng não sau phẫu thuật phẫu thuật
+
+Pseudomonas aeruginosa
+
+Được sử dụng với vancomycin để kiểm soát
+
+S. aureus
+
+aureus kháng methicillin
+
+Ceftriaxone
+
+Viêm nội tâm mạc
+
+do các sinh vật HACEK gây ra
+
+—
+
+Viêm nội tâm mạc do streptococci nhạy cảm penicillin
+
+—
+
+Bệnh Lyme
+
+có biến chứng về thần kinh (ngoại trừ bệnh bại liệt do Bell), viêm tim, hoặc viêm khớp
+
+—
+
+Nhiễm cầu khuẩn lậu không biến chứng
+
+,
+
+bệnh chancroid
+
+, hoặc cả hai
+
+Thêm doxycycline đường uống khi chưa loại trừ đồng nhiễm chlamydia
+
+* Các chủng phế cầu khuẩn kháng ceftriaxone và cefotaxime đã được báo cáo và các hướng dẫn gợi ý rằng nếu các chủng phế cầu khuẩn có nồng độ ức chế tối thiểu
+
+≥
+
+1,0 mcg/mL thì ác vi khuẩn này nên được coi là không nhạy cảm với cephalosporin thế hệ thứ ba.
+
+HACEK
+
+= loài
+
+Haemophilus
+
+,
+
+Aggregatibacter
+
+(trước đây là
+
+Actinobacillus
+
+)
+
+actinomycetemcomitans
+
+,
+
+Cardiobacterium hominis
+
+,
+
+Eikenella corrodens và
+
+Kingella kingae
+
+.
+
+* Các chủng phế cầu khuẩn kháng ceftriaxone và cefotaxime đã được báo cáo và các hướng dẫn gợi ý rằng nếu các chủng phế cầu khuẩn có nồng độ ức chế tối thiểu
+
+≥
+
+1,0 mcg/mL thì ác vi khuẩn này nên được coi là không nhạy cảm với cephalosporin thế hệ thứ ba.
+
+HACEK
+
+= loài
+
+Haemophilus
+
+,
+
+Aggregatibacter
+
+(trước đây là
+
+Actinobacillus
+
+)
+
+actinomycetemcomitans
+
+,
+
+Cardiobacterium hominis
+
+,
+
+Eikenella corrodens và
+
+Kingella kingae
+
+.
+
+Cephalosporin kháng MRSA
+
+Nhóm cephalosporin kháng MRSA (đôi khi được gọi là thế hệ thứ năm) ceftaroline và ceftobiprole có hoạt tính chống lại
+
+S. aureus
+
+kháng methicillin (MRSA)
+
+Liên cầu kháng penicillin
+
+Hoạt tính của thuốc này chống lại các cầu khuẩn gram dương và trực khuẩn gram âm khác tương tự như nhóm cephalosporin thế hệ thứ ba. Nhóm cephalosporin kháng MRSA không có tác dụng chống lại các loài
+
+Pseudomonas
+
+.
+
+Các cephalosporin khác
+
+Cefiderocol là một cephalosporin siderophore mới có hoạt tính chống lại nhiều vi khuẩn gram âm kháng thuốc bao gồm
+
+Pseudomonas aeruginosa
+
+,
+
+Acinetobacter baumannii,
+
+Stenotrophomonas maltophilia
+
+và hầu hết các vi khuẩn gram âm đường ruột (ví dụ:
+
+E. coli,
+
+chủng
+
+Klebsiella
+
+) bao gồm những vi khuẩn sản sinh ra beta-lactamase phổ rộng (ESBL),
+
+Klebsiella pneumoniae
+
+carbapenemases (KPC) và metallo-beta-lactamases (MBL). Do phổ rộng hoạt tính chống lại các mầm bệnh gram âm đầy thách thức này,
+
+cefiderocol
+
+thường được dành riêng để điều trị dứt điểm các bệnh nhiễm trùng xâm lấn chống lại các mầm bệnh đó.
+
+Cefiderocol
+
+không có hoạt tính chống lại vi khuẩn gram dương hoặc vi khuẩn kỵ khí.
+
+Ceftolozane/tazobactam là một cephalosporin thế hệ tiên tiến chủ yếu được sử dụng cho hoạt tính chống lại
+
+P. aeruginosa
+
+kháng đa thuốc; tuy nhiên, thuốc này cũng có hoạt tính chống lại hầu hết các vi khuẩn gram âm đường ruột, một số vi khuẩn kỵ khí và liên cầu khuẩn.
+
+Ceftolozane/tazobactam
+
+có hoạt tính chống lại một số chủng sản sinh ra ESBL hoặc sản sinh ra AmpC beta-lactamase.
+
+Tài liệu tham khảo về chỉ định
+
+1.
+
+Solomkin JS, Mazuski JE, Bradley JS, et al
+
+. Diagnosis and management of complicated intra-abdominal infection in adults and children: guidelines by the Surgical Infection Society and the Infectious Diseases Society of America.
+
+Surg Infect (Larchmt)
+
+. 2010;11(1):79-109. doi:10.1089/sur.2009.9930
+
+2.
+
+Mazuski JE, Tessier JM, May AK, et al
+
+. The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.
+
+Surg Infect (Larchmt)
+
+. 2017;18(1):1-76. doi:10.1089/sur.2016.261
+
+Chống chỉ định với các Cephalosporin
+
+Cephalosporin bị chống chỉ định ở những bệnh nhân với
+
+tiền sử quá mẫn nghiêm trọng với các cephalosporin khác
+
+. Phản ứng chéo với penicillin và các nhóm beta-lactam khác bao gồm các cephalosporin khác ít phổ biến hơn trước đây, đặc biệt là ở những bệnh nhân có phản ứng nhẹ (không phản ứng với penicillin). Khoảng 2% số bệnh nhân dị ứng với penicillin có phản ứng chéo với cephalosporin (
+
+1
+
+,
+
+2
+
+). Nhạy cảm chéo với dị ứng với penicillin không giống nhau đối với tất cả các cephalosporin — nó phụ thuộc vào đặc điểm cấu trúc và hóa học cụ thể. Việc sử dụng cephalosporin thế hệ thứ ba hoặc thứ tư hoặc cephalosporin có chuỗi bên R1 khác với penicillin vi phạm có nguy cơ dị ứng chéo không đáng kể; đặc biệt là cefazolin có chuỗi bên độc nhất và khả năng phản ứng chéo rất thấp. Tuy nhiên, những bệnh nhân có một dị ứng kháng sinh có nhiều khả năng phản ứng với một kháng sinh khác, vì vậy cephalosporin nên được sử dụng cẩn thận cho những bệnh nhân có phản ứng dị ứng với các beta-lactam khác (
+
+3
+
+,
+
+4
+
+,
+
+5
+
+).
+
+Ceftriaxone
+
+là chống chỉ định như sau:
+
+Ceftriaxone
+
+đường tĩnh mạch không được dùng đồng thời với các dung dịch tiêm tĩnh mạch có canxi (bao gồm cả dịch truyền liên tục có chứa canxi như dinh dưỡng qua đường tĩnh mạch) ở trẻ sơ sinh
+
+≤
+
+28 ngày tuổi vì có nguy cơ kết tủa muối
+
+ceftriaxone
+
+-canxi. Các phản ứng gây tử vong do
+
+ceftriaxone
+
+-canxi kết tủa ở phổi và thận của trẻ sơ sinh đã được báo cáo. Cho đến nay, không có kết tủa trong mạch máu hoặc phổi được báo cáo ở những bệnh nhân không phải trẻ sơ sinh được điều trị bằng
+
+ceftriaxone
+
+và dung dịch tiêm tĩnh mạch có canxi. Tuy nhiên, vì về mặt lý thuyết, sự tương tác giữa
+
+ceftriaxone
+
+và dung dịch có canxi đường tĩnh mạch có thể xảy ra ở những bệnh nhân không phải trẻ sơ sinh, nên không nên trộn lẫn hoặc tiêm
+
+ceftriaxone
+
+và dung dịch có canxi trong vòng 48 giờ với nhau (dựa trên 5 thời gian bán hủy của
+
+ceftriaxone
+
+) – thậm chí thông qua các đường truyền khác nhau ở các vị trí khác nhau – đến bất kỳ bệnh nhân nào, bất kể tuổi tác. Không có dữ liệu về khả năng tương tác giữa
+
+ceftriaxone
+
+và các sản phẩm có canxi đường uống hoặc về tương tác giữa
+
+ceftriaxone
+
+tiêm bắp và các sản phẩm có canxi (đường tĩnh mạch hoặc đường uống).
+
+Không nên dùng Ceftriaxone cho trẻ sơ sinh bị tăng bilirubin máu và sinh non vì trong ống nghiệm, loại kháng sinh này có thể thay thế bilirubin khỏi albumin huyết thanh, có khả năng gây ra
+
+bệnh vàng da nhân
+
+.
+
+Tham khảo chống chỉ định
+
+1.
+
+Shenoy ES, Macy E, Rowe T, Blumenthal KG
+
+: Evaluation and management of
+
+penicillin
+
+allergy: A review.
+
+JAMA
+
+321(2):188–199, 2019. doi: 10.1001/jama.2018.19283
+
+2.
+
+Campagna JD, Bond MC, Schabelman E, Hayes BD
+
+: The use of cephalosporins in
+
+penicillin
+
+-allergic patients: A literature review.
+
+J Emerg Med
+
+42(5):612–620, 2012. doi: 10.1016/j.jemermed.2011.05.035
+
+3.
+
+Chaudhry SB, Veve MP, Wagner JL
+
+: Cephalosporin: A focus on side chains and β-lactam cross-reactivity.
+
+Pharmacy (Basel)
+
+7(3):103, 2019. doi: 10.3390/pharmacy7030103
+
+4.
+
+Collins CD, Scheidel C, Anam K, et al
+
+: Impact of an antibiotic side chain-based cross-reactivity chart combined with enhanced allergy assessment processes for surgical prophylaxis antimicrobials in patients with beta-lactam allergies.
+
+Clin Infect Dis
+
+pii:ciaa232, 2020. doi: 10.1093/cid/ciaa232
+
+5.
+
+DePestel DD, Benninger MS, Danziger L, et al
+
+: Cephalosporin use in treatment of patients with
+
+penicillin
+
+allergies.
+
+J Am Pharm Assoc (2003)
+
+48(4):530–540, 2008. doi: 10.1331/JAPhA.2008.07006
+
+Sử dụng Cephalosporin trong thời kỳ mang thai và cho con bú
+
+Cephalosporin được xem xét rộng rãi an toàn khi sử dụng trong thời kỳ mang thai. Không có nghiên cứu nào cho thấy nguy cơ đối với bào thai của con người, nhưng các nghiên cứu tương lai nghiêm ngặt đã không được thực hiện.
+
+Cephalosporin có thể đi vào sữa mẹ và có thể làm thay đổi hệ vi sinh vật vùng ở ruột của trẻ sơ sinh. Do đó, sử dụng trong thời kỳ cho con bú sữa mẹ thường không được khuyến khích.
+
+Tác dụng bất lợi của Cephalosporin
+
+Tác động bất lợi tiềm ẩn đáng kể của cephalosporins bao gồm:
+
+Phản ứng quá mẫn
+
+(phổ biến nhất)
+
+Tiêu chảy do
+
+Clostridioides
+
+(trước đây là
+
+Clostridium
+
+)
+
+difficile
+
+(viêm đại tràng giả mạc)
+
+Giảm bạch cầu
+
+Giảm tiểu cầu
+
+Xét nghiệm Coombs dương tính (mặc dù thiếu máu tan máu rất hiếm)
+
+Phản ứng quá mẫn là những tác dụng phụ có hệ thống nhất; phát ban thường gặp, nhưng chứng mày đay do trung gian IgE và tình trạng quá mẫn cảm rất hiếm.
+
+Nhạy cảm chéo giữa cephalosporin và penicillin là không phổ biến; cephalosporin có thể được dùng thận trọng cho những bệnh nhân có tiền sử mẫn cảm muộn với penicillin nếu cần thiết (
+
+1
+
+). Đau ở vị trí tiêm bắp hoặc viêm huyết khối tĩnh mạch sau truyền có thể xảy ra.
+
+Cefotetan có thể có tác dụng giống disulfiram khi uống
+
+ethanol
+
+, gây buồn nôn và nôn.
+
+Cefotetan
+
+cũng có thể làm tăng thời gian protrombin/tỷ lệ bình thường hóa quốc tế (PT/INR) và thời gian tromboplastin riêng phần (PTT), một tác dụng có thể hồi phục được khi dùng vitamin K.
+
+Tài liệu tham khảo về các tác dụng bất lợi
+
+Zagursky RJ, Pichichero ME
+
+: Cross-reactivity in β-lactam allergy.
+
+J Allergy Clin Immunol Pract
+
+6(1):72–81.e1, 2018. doi: 10.1016/j.jaip.2017.08.027
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học của nhóm Cephalosporin ---
+
+Cephalosporin xâm nhập tốt vào hầu hết các chất dịch cơ thể và dịch não tủy của hầu hết các mô, đặc biệt khi có hiện tượng viêm (làm tăng sự khuếch tán). Tuy nhiên, cephalosporin duy nhất đạt nồng độ đủ cao trong dịch não tuỷ làCeftriaxoneCefotaximeCeftazidimeCefepimeTất cả các cephalosporin xâm nhập vào dịch kính và dịch nội bào rất kém.Hầu hết cephalosporin được bài tiết chủ yếu trong nước tiểu, do đó liều của chúng phải được điều chỉnh ở bệnh nhân suy thận. Cefoperazone vàceftriaxoneđược bài tiết qua mật đáng kể nên không cần điều chỉnh liều như vậy.
+
+--- 2. Chỉ định cho Cephalosporin ---
+
+Cephalosporin có tính diệt khuẩn trong hầu hết các trường hợp sau:Vi khuẩn gram dươngVi khuẩn gram âmNhóm Cephalosporin được phân loại theo các thế hệ (xem bảngMột số ứng dụng lâm sàng của nhóm Cephalosporin thế hệ thứ ba và thứ tư). Nhóm Cephalosporin thế hệ thứ nhất có hiệu quả chủ yếu chống lại các vi khuẩn gram dương. Các thế hệ cao hơn thường có phổ mở rộng chống lại các trực khuẩn gram âm hiếu khí. Các cephalosporin ceftaroline và ceftobiprole có hoạt tính chống lạiStaphylococcus aureuskháng methicillin (MRSA).Cephalosporin có những hạn chế sau:Thiếu hoạt độngenterococciThiếu hoạt tính chống lại staphylococci kháng methicillin (ngoại trừ ceftaroline và ceftobiprole)Thiếu hoạt tính chống lạivi khuẩn gram âm(ngoại trừ cefotetan và cefoxitin)Cephalosporin thế hệ thứ nhấtNhững cephalosporin này có hoạt tính tuyệt vời chống lạiCầu khuẩn gram dươngMột số trực khuẩn gram âmNhóm Cephalosporin thế hệ đầu tiên dùng đường uống thường được sử dụng chocác bệnh nhiễm trùng da và mô mềmkhông biến chứng, thường do tụ cầu và liên cầu khuẩn.Cefazolin đường uống thường được sử dụng choviêm nội tâm mạcdoS. aureusnhạy với methicillin và dự phòng trước khi phẫu thuật tim mạch, chấn thương chỉnh hình, ổ bụng và khung chậu.Tùy thuộc vào tính nhạy cảm tại chỗ, trực khuẩn gram âmEscherichia colicó thể nhạy cảm và cephalexin thường sử dụng cho các bệnh nhiễm trùng đường tiết niệu không biến chứng.Cephalosporin thế hệ thứ hai và cephamycinsCephalosporin thế hệ thứ hai có hoạt tính chống lạiCầu khuẩn gram dươngMột số trực khuẩn gram âmNhóm Cephamycin là các loại kháng sinh ban đầu doStreptomycessản sinh ra nhưng hiện nay được tổng hợp. Các loại thuốc này thường được phân loại cùng với nhóm cephalosporin thế hệ thứ hai. Cephamycins có hoạt tính chống lại vi khuẩn kỵ khí nhưBacteroidessp, bao gồmBacteroides fragilisNhóm Cephalosporin thế hệ thứ hai có thể ít có hoạt tính hơn đối với cầu khuẩn gram dương so với nhóm cephalosporin thế hệ thứ nhất. Nhóm Cephalosporin thế hệ thứ hai và cephamycin đôi khi được sử dụng để điều trị nhiễm trùng đa vi khuẩn bao gồm trực khuẩn gram âm và cầu khuẩn gram dương. Vì nhím cephamycin có thể có tác dụng chống lại các loàiBacteroidesnên thuốc này đã được sử dụng khi nghi ngờ có vi khuẩn kỵ khí (ví dụ: trongnhiễm trùngtrong ổ bụng,loét tư thế nằmhoặcnhiễm trùng bàn chân do tiểu đường). Tuy nhiên, những trực khuẩn này không còn nhạy cảm với nhóm cephamycin nữa, vì vậy nhóm cephamycin không còn được khuyến nghị sử dụng theo kinh nghiệm trong nhiễm trùng trong ổ bụng (1,2).Cephalosporin thế hệ thứ baNhững cephalosporin này có hoạt tính chống lạiHaemophilus influenzaevà một số Enterobacterales (trước đây là Enterobacteriaceae: ví dụ:Escherichia coli,Klebsiella pneumoniae,Proteus mirabilis) mà không sản sinh ra AmpC beta-lactamase hoặc beta-lactamaza phổ rộng (ESBL)Hầu hết nhóm cephalosporin thế hệ thứ ba, bao gồm ceftriaxone và cefotaxime, cũng có hoạt tính chống lại một số loài gram dương, đặc biệt là streptococci bao gồm một số chủng giảm độ nhạy cảm với penicillin. Cefixime và ceftibuten đường uống có ít hoạt tính chống lạiS. aureusvà nếu được sử dụng cho da và các mô mềm, nên hạn chế dùng trong những trường hợp nhiễm trùng không nặng do cầu khuẩn.Ceftazidime và cefoperazone có hoạt tính chống lạiPseudomonas aeruginosa, trong khi phần còn lại của lớp thì không. Cả hai đều có hoạt tính chống lại các loàiStreptococcus.Ceftazidimecó hoạt tính kém chống lại các loài gram dương và không phù hợp với nhiễm tụ cầu. Thêm avibactam vào ceftazidime làm tăng phổ của nó bao gồm Enterobacterales tạo ra AmpC, ESBL, hoặcKlebsiella pneumoniaecarbapenemase (KPC).Các cephalosporin này có nhiều ứng dụng lâm sàng, cũng như nhóm cephalosporin thế hệ thứ tư (xem bảngMột số ứng dụng lâm sàng của nhóm Cephalosporin thế hệ thứ ba và thứ tư).Cephalosporin thế hệ thứ tưCephalosporin cefepime thế hệ thứ tư có hoạt tính chống lạiKháng khuẩn Gram dương (tương tự như cefotaxime)Vi khuẩn Gram âm (hoạt tính tăng cường), bao gồmP. aeruginosa(tương tự như ceftaidime), và một số ampC beta-Lactamase sản sinh Enterobacterales, chẳng hạn như loàiEnterobacterBảngMột số ứng dụng lâm sàng của Cephalosporin thế hệ thứ ba và thứ tưBảngMột số ứng dụng lâm sàng của Cephalosporin thế hệ thứ ba và thứ tưMột số ứng dụng lâm sàng của Cephalosporin thế hệ thứ ba và thứ tưCephalosporinChỉ địnhBình luậnCephalosporin thế hệ thứ ba và thứ tưNhiễm trùng do đa vi khuẩn liên quan đến trựckhuẩn gramâm và gram dương (ví dụ,nhiễm khuẩn huyếttrong ổ bụng,loét do tỳ đè,nhiễm trùng bàn chân do đái tháo đường)Khi cần thiết, dùng chung với các kháng sinh khác để diệtvi khuẩn kỵ khíhoặccầu khuẩnCeftriaxone và một số cephalosporin thế hệ thứ ba khácViêm phổi cộng đồngĐược sử dụng với macrolide hoặc fluoroquinolone để điều trị các mầm bệnh không điển hìnhmycoplasmas, loàiChlamydophila, loàiLegionella)CefotaximeCeftriaxoneViêm màng nãocấp nghi ngờ là doStreptococcus pneumoniae,Haemophilus influenzaehoặcNeisseria meningitidisDùng với ampicillin để phủ cảListeria monocytogenesvà với vancomycin để phủS. pneumoniaevới độ nhạy penicillin giảm (đang chờ kết quả nồng độ ức chế tối thiểu*)Cefpodoxime (uống)Nhiễm trùng da và mô mềmdostaphylococcihoặcstreptococciKhông được sử dụng nếu nghi ngờ kháng methicillinStaphylococcus aureusCeftazidime, cefepimeViêm phổi bệnh viện và viêm phổi liên quan đến thở máyPhác đồ lâm sàng để điều trị viêm màng não sau phẫu thuật phẫu thuậtPseudomonas aeruginosaĐược sử dụng với vancomycin để kiểm soátS. aureusaureus kháng methicillinCeftriaxoneViêm nội tâm mạcdo các sinh vật HACEK gây ra—Viêm nội tâm mạc do streptococci nhạy cảm penicillin—Bệnh Lymecó biến chứng về thần kinh (ngoại trừ bệnh bại liệt do Bell), viêm tim, hoặc viêm khớp—Nhiễm cầu khuẩn lậu không biến chứng,bệnh chancroid, hoặc cả haiThêm doxycycline đường uống khi chưa loại trừ đồng nhiễm chlamydia* Các chủng phế cầu khuẩn kháng ceftriaxone và cefotaxime đã được báo cáo và các hướng dẫn gợi ý rằng nếu các chủng phế cầu khuẩn có nồng độ ức chế tối thiểu≥1,0 mcg/mL thì ác vi khuẩn này nên được coi là không nhạy cảm với cephalosporin thế hệ thứ ba.HACEK= loàiHaemophilus,Aggregatibacter(trước đây làActinobacillus)actinomycetemcomitans,Cardiobacterium hominis,Eikenella corrodens vàKingella kingae.* Các chủng phế cầu khuẩn kháng ceftriaxone và cefotaxime đã được báo cáo và các hướng dẫn gợi ý rằng nếu các chủng phế cầu khuẩn có nồng độ ức chế tối thiểu≥1,0 mcg/mL thì ác vi khuẩn này nên được coi là không nhạy cảm với cephalosporin thế hệ thứ ba.HACEK= loàiHaemophilus,Aggregatibacter(trước đây làActinobacillus)actinomycetemcomitans,Cardiobacterium hominis,Eikenella corrodens vàKingella kingae.Cephalosporin kháng MRSANhóm cephalosporin kháng MRSA (đôi khi được gọi là thế hệ thứ năm) ceftaroline và ceftobiprole có hoạt tính chống lạiS. aureuskháng methicillin (MRSA)Liên cầu kháng penicillinHoạt tính của thuốc này chống lại các cầu khuẩn gram dương và trực khuẩn gram âm khác tương tự như nhóm cephalosporin thế hệ thứ ba. Nhóm cephalosporin kháng MRSA không có tác dụng chống lại các loàiPseudomonas.Các cephalosporin khácCefiderocol là một cephalosporin siderophore mới có hoạt tính chống lại nhiều vi khuẩn gram âm kháng thuốc bao gồmPseudomonas aeruginosa,Acinetobacter baumannii,Stenotrophomonas maltophiliavà hầu hết các vi khuẩn gram âm đường ruột (ví dụ:E. coli,chủngKlebsiella) bao gồm những vi khuẩn sản sinh ra beta-lactamase phổ rộng (ESBL),Klebsiella pneumoniaecarbapenemases (KPC) và metallo-beta-lactamases (MBL). Do phổ rộng hoạt tính chống lại các mầm bệnh gram âm đầy thách thức này,cefiderocolthường được dành riêng để điều trị dứt điểm các bệnh nhiễm trùng xâm lấn chống lại các mầm bệnh đó.Cefiderocolkhông có hoạt tính chống lại vi khuẩn gram dương hoặc vi khuẩn kỵ khí.Ceftolozane/tazobactam là một cephalosporin thế hệ tiên tiến chủ yếu được sử dụng cho hoạt tính chống lạiP. aeruginosakháng đa thuốc; tuy nhiên, thuốc này cũng có hoạt tính chống lại hầu hết các vi khuẩn gram âm đường ruột, một số vi khuẩn kỵ khí và liên cầu khuẩn.Ceftolozane/tazobactamcó hoạt tính chống lại một số chủng sản sinh ra ESBL hoặc sản sinh ra AmpC beta-lactamase.Tài liệu tham khảo về chỉ định1.Solomkin JS, Mazuski JE, Bradley JS, et al. Diagnosis and management of complicated intra-abdominal infection in adults and children: guidelines by the Surgical Infection Society and the Infectious Diseases Society of America.Surg Infect (Larchmt). 2010;11(1):79-109. doi:10.1089/sur.2009.99302.Mazuski JE, Tessier JM, May AK, et al. The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.Surg Infect (Larchmt). 2017;18(1):1-76. doi:10.1089/sur.2016.261
+
+--- 3. Chống chỉ định với các Cephalosporin ---
+
+Cephalosporin bị chống chỉ định ở những bệnh nhân vớitiền sử quá mẫn nghiêm trọng với các cephalosporin khác. Phản ứng chéo với penicillin và các nhóm beta-lactam khác bao gồm các cephalosporin khác ít phổ biến hơn trước đây, đặc biệt là ở những bệnh nhân có phản ứng nhẹ (không phản ứng với penicillin). Khoảng 2% số bệnh nhân dị ứng với penicillin có phản ứng chéo với cephalosporin (1,2). Nhạy cảm chéo với dị ứng với penicillin không giống nhau đối với tất cả các cephalosporin — nó phụ thuộc vào đặc điểm cấu trúc và hóa học cụ thể. Việc sử dụng cephalosporin thế hệ thứ ba hoặc thứ tư hoặc cephalosporin có chuỗi bên R1 khác với penicillin vi phạm có nguy cơ dị ứng chéo không đáng kể; đặc biệt là cefazolin có chuỗi bên độc nhất và khả năng phản ứng chéo rất thấp. Tuy nhiên, những bệnh nhân có một dị ứng kháng sinh có nhiều khả năng phản ứng với một kháng sinh khác, vì vậy cephalosporin nên được sử dụng cẩn thận cho những bệnh nhân có phản ứng dị ứng với các beta-lactam khác (3,4,5).Ceftriaxonelà chống chỉ định như sau:Ceftriaxoneđường tĩnh mạch không được dùng đồng thời với các dung dịch tiêm tĩnh mạch có canxi (bao gồm cả dịch truyền liên tục có chứa canxi như dinh dưỡng qua đường tĩnh mạch) ở trẻ sơ sinh≤28 ngày tuổi vì có nguy cơ kết tủa muốiceftriaxone-canxi. Các phản ứng gây tử vong doceftriaxone-canxi kết tủa ở phổi và thận của trẻ sơ sinh đã được báo cáo. Cho đến nay, không có kết tủa trong mạch máu hoặc phổi được báo cáo ở những bệnh nhân không phải trẻ sơ sinh được điều trị bằngceftriaxonevà dung dịch tiêm tĩnh mạch có canxi. Tuy nhiên, vì về mặt lý thuyết, sự tương tác giữaceftriaxonevà dung dịch có canxi đường tĩnh mạch có thể xảy ra ở những bệnh nhân không phải trẻ sơ sinh, nên không nên trộn lẫn hoặc tiêmceftriaxonevà dung dịch có canxi trong vòng 48 giờ với nhau (dựa trên 5 thời gian bán hủy củaceftriaxone) – thậm chí thông qua các đường truyền khác nhau ở các vị trí khác nhau – đến bất kỳ bệnh nhân nào, bất kể tuổi tác. Không có dữ liệu về khả năng tương tác giữaceftriaxonevà các sản phẩm có canxi đường uống hoặc về tương tác giữaceftriaxonetiêm bắp và các sản phẩm có canxi (đường tĩnh mạch hoặc đường uống).Không nên dùng Ceftriaxone cho trẻ sơ sinh bị tăng bilirubin máu và sinh non vì trong ống nghiệm, loại kháng sinh này có thể thay thế bilirubin khỏi albumin huyết thanh, có khả năng gây rabệnh vàng da nhân.Tham khảo chống chỉ định1.Shenoy ES, Macy E, Rowe T, Blumenthal KG: Evaluation and management ofpenicillinallergy: A review.JAMA321(2):188–199, 2019. doi: 10.1001/jama.2018.192832.Campagna JD, Bond MC, Schabelman E, Hayes BD: The use of cephalosporins inpenicillin-allergic patients: A literature review.J Emerg Med42(5):612–620, 2012. doi: 10.1016/j.jemermed.2011.05.0353.Chaudhry SB, Veve MP, Wagner JL: Cephalosporin: A focus on side chains and β-lactam cross-reactivity.Pharmacy (Basel)7(3):103, 2019. doi: 10.3390/pharmacy70301034.Collins CD, Scheidel C, Anam K, et al: Impact of an antibiotic side chain-based cross-reactivity chart combined with enhanced allergy assessment processes for surgical prophylaxis antimicrobials in patients with beta-lactam allergies.Clin Infect Dispii:ciaa232, 2020. doi: 10.1093/cid/ciaa2325.DePestel DD, Benninger MS, Danziger L, et al: Cephalosporin use in treatment of patients withpenicillinallergies.J Am Pharm Assoc (2003)48(4):530–540, 2008. doi: 10.1331/JAPhA.2008.07006
+
+--- 4. Sử dụng Cephalosporin trong thời kỳ mang thai và cho con bú ---
+
+Cephalosporin được xem xét rộng rãi an toàn khi sử dụng trong thời kỳ mang thai. Không có nghiên cứu nào cho thấy nguy cơ đối với bào thai của con người, nhưng các nghiên cứu tương lai nghiêm ngặt đã không được thực hiện.Cephalosporin có thể đi vào sữa mẹ và có thể làm thay đổi hệ vi sinh vật vùng ở ruột của trẻ sơ sinh. Do đó, sử dụng trong thời kỳ cho con bú sữa mẹ thường không được khuyến khích.
+
+--- 5. Tác dụng bất lợi của Cephalosporin ---
+
+Tác động bất lợi tiềm ẩn đáng kể của cephalosporins bao gồm:Phản ứng quá mẫn(phổ biến nhất)Tiêu chảy doClostridioides(trước đây làClostridium)difficile(viêm đại tràng giả mạc)Giảm bạch cầuGiảm tiểu cầuXét nghiệm Coombs dương tính (mặc dù thiếu máu tan máu rất hiếm)Phản ứng quá mẫn là những tác dụng phụ có hệ thống nhất; phát ban thường gặp, nhưng chứng mày đay do trung gian IgE và tình trạng quá mẫn cảm rất hiếm.Nhạy cảm chéo giữa cephalosporin và penicillin là không phổ biến; cephalosporin có thể được dùng thận trọng cho những bệnh nhân có tiền sử mẫn cảm muộn với penicillin nếu cần thiết (1). Đau ở vị trí tiêm bắp hoặc viêm huyết khối tĩnh mạch sau truyền có thể xảy ra.Cefotetan có thể có tác dụng giống disulfiram khi uốngethanol, gây buồn nôn và nôn.Cefotetancũng có thể làm tăng thời gian protrombin/tỷ lệ bình thường hóa quốc tế (PT/INR) và thời gian tromboplastin riêng phần (PTT), một tác dụng có thể hồi phục được khi dùng vitamin K.Tài liệu tham khảo về các tác dụng bất lợiZagursky RJ, Pichichero ME: Cross-reactivity in β-lactam allergy.J Allergy Clin Immunol Pract6(1):72–81.e1, 2018. doi: 10.1016/j.jaip.2017.08.027

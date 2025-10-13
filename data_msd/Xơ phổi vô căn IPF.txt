@@ -1,0 +1,463 @@
+TIÊU ĐỀ: Xơ phổi vô căn (IPF)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-chức-năng-hô-hấp/bệnh-phổi-kẽ/xơ-phổi-vô-căn-ipf
+================================================================================
+
+NỘI DUNG:
+
+Xơ phổi vô căn (IPF)
+
+Theo
+
+Joyce Lee
+
+,
+
+MD, MAS
+
+,
+
+University of Colorado School of Medicine
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v8496428_vi
+
+Xơ phổi tự phát (IPF), dạng phổ biến nhất của viêm phổi kẽ tự phát, gây ra sự xơ phổi tiến triển. Triệu chứng và dấu hiệu phát triển trong nhiều tháng đến nhiều năm bao gồm thở khó thở, ho, và ran nổ (Velcro). Chẩn đoán dựa trên tiền sử, khám thực thể, CT có độ phân giải cao, và/hoặc sinh thiết phổi, nếu cần. Điều trị có thể bao gồm các thuốc chống xơ hóa và liệu pháp oxy. Hầu hết bệnh nhân đều suy yếu nhanh chóng; thời gian sống trung bình là khoảng 3 năm đến 5 năm kể từ khi chẩn đoán.
+
+Căn nguyên
+
+|
+
+Bệnh học
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Xơ phổi tự phát, được xác định theo mô học như viêm phổi kẽ, thông thường, chiếm phần lớn các trường hợp
+
+viêm phổi kẽ tự phát
+
+. Tỷ lệ hiện mắc thay đổi rất nhiều, một phần là do các khu vực có sàng lọc nghiêm ngặt hơn, với một số ước tính lên tới 495 trên 100.000 người mỗi năm tại Hoa Kỳ (
+
+1
+
+). IPF ảnh hưởng đến nam giới và nữ giới > 50 tuổi theo tỷ lệ 2:1, với tỷ lệ hiện mắc tăng đáng kể theo mỗi thập kỷ tuổi (
+
+2
+
+). Hút thuốc lá hiện tại hoặc trước đây có liên quan chặt chẽ nhất với rối loạn này. Có một số khuynh hướng di truyền (đặc biệt là đa hình gen
+
+MUC5B
+
+, gây ra tình trạng biểu hiện quá mức mucin); điều này có thể xảy ra ở khoảng 30-35% số trường hợp (
+
+3
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Raghu G, Chen SY, Yeh WS, et al
+
+. Idiopathic pulmonary fibrosis in US Medicare beneficiaries aged 65 years and older: incidence, prevalence, and survival, 2001-11 [published correction appears in
+
+Lancet Respir Med
+
+Tháng 7 2014;2(7):e12].
+
+Lancet Respir Med
+
+2014;2(7):566-572. doi:10.1016/S2213-2600(14)70101-8
+
+2.
+
+Maher TM, Bendstrup E, Dron L, et al
+
+. Global incidence and prevalence of idiopathic pulmonary fibrosis.
+
+Respir Res
+
+2021;22(1):197. doi:10.1186/s12931-021-01791-z
+
+3.
+
+Evans CM, Fingerlin TE, Schwarz MI, et al
+
+. Idiopathic Pulmonary Fibrosis: A Genetic Disease That Involves Mucociliary Dysfunction of the Peripheral Airways.
+
+Physiol Rev
+
+2016;96(4):1567-1591. doi:10.1152/physrev.00004.2016
+
+Nguyên nhân và sinh bệnh của bệnh xơ phổi vô căn
+
+IPF được đặc trưng bởi tổn thương nhỏ tái phát ở các tế bào biểu mô phế nang, vốn đã dễ bị lão hóa (
+
+1
+
+). Sự kết hợp của các yếu tố môi trường (ví dụ: hút thuốc lá), di truyền (ví dụ:
+
+đa hình gen MUC5B
+
+) và các yếu tố chưa biết khác có thể góp phần gây rối loạn chức năng hoặc lập trình lại tế bào biểu mô phế nang, dẫn đến tăng sinh xơ bất thường ở phổi. Các thay đổi trong hệ vi sinh vật phổi dẫn đến sự sinh sôi của một số loài như
+
+Prevotella
+
+,
+
+Veillonella
+
+và
+
+Escherichia
+
+, cũng có thể góp phần gây bệnh lý bằng cách ảnh hưởng đến quá trình làm sạch chất nhầy. Phơi nhiễm nghề nghiệp như hít phải khí độc có thể gây tổn thương do hóa chất và sử dụng kháng sinh có thể làm thay đổi hệ vi sinh vật ở phổi. Cuối cùng, sự kết hợp của những yếu tố này gây ra thay đổi trong đáp ứng miễn dịch, dẫn đến bệnh tật.
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Lederer DJ, Martinez FJ
+
+. Idiopathic Pulmonary Fibrosis.
+
+N Engl J Med
+
+2018;378(19):1811-1823. doi:10.1056/NEJMra1705751
+
+Bệnh học của xơ phổi tự phát
+
+Mẫu mô học đặc trưng của bệnh xơ phổi vô căn được gọi là viêm phổi kẽ thông thường (xem bảng
+
+Các đặc điểm chính của bệnh viêm phổi kẽ vô căn
+
+). Các dấu hiệu mô học chính bao gồm xơ hóa dưới màng phổi với các vị trí tăng sinh nguyên bào sợi (ổ nguyên bào sợi) và sẹo dày đặc, xen kẽ với các vùng mô nhu mô phổi bình thường (không đồng nhất) (
+
+1
+
+). Viêm mô kẽ rải rác xảy ra với sự xâm nhập của lymphocyte, tương bào và mô bào. Bất thường dạng nang (tổ ong) xảy ra ở tất cả các bệnh nhân và tăng lên khi bệnh tiến triển. Một mô hình mô học tương tự hiếm khi xảy ra trong các trường hợp bệnh phổi kẽ có nguyên nhân đã biết.
+
+Tài liệu tham khảo về bệnh học
+
+1.
+
+Raghu G, Remy-Jardin M, Myers JL, et al
+
+. Diagnosis of Idiopathic Pulmonary Fibrosis. An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.
+
+Am J Respir Crit Care Med
+
+2018;198(5):e44-e68. doi:10.1164/rccm.201807-1255ST
+
+Các triệu chứng và dấu hiệu của xơ phổi tự phát
+
+Các triệu chứng và dấu hiệu của bệnh xơ phổi vô căn thường phát triển trong nhiều tháng đến nhiều năm và bao gồm tình trạng khó thở ngày càng nặng hơn khi gắng sức và ho không có đờm, xuất hiện ở hầu hết mọi bệnh nhân mắc IPF. Triệu chứng thể tạng, chẳng hạn như sốt nhẹ và đau cơ, là không phổ biến. Dấu hiệu cổ điển của IPF là tiếng ran nổ nhỏ, khô khi hít vào (
+
+tiếng ran nổ Velcro
+
+) ở cả hai đáy phổi. Ngón tay dùi trống xuất hiện ở khoảng 50% số trường hợp (
+
+1
+
+). Có thể bị chứng xanh tím đầu chi. Phần còn lại của xét nghiệm là bình thường cho đến khi bệnh tiến triển, lúc đó dấu hiệu
+
+tăng huyết áp phổi
+
+và
+
+rối loạn tâm thu thất phải
+
+có thể phát triển.
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+Lederer DJ, Martinez FJ
+
+. Idiopathic Pulmonary Fibrosis.
+
+N Engl J Med
+
+2018;378(19):1811-1823. doi:10.1056/NEJMra1705751
+
+Chẩn đoán xơ phổi tự phát
+
+CT độ phân giải cao (HRCT)
+
+Đôi khi sinh thiết phổi qua phẫu thuật
+
+Đo chức năng hô hấp
+
+Chẩn đoán nghi ngờ xơ phổi tự phát ở những bệnh nhân bị khó thở bán cấp, ho không có đờm, và ran nổ Velcro khi khám phổi. Tuy nhiên, IPF thường bị bỏ qua ban đầu vì những điểm tương đồng về lâm sàng với các chứng bệnh thông thường khác như
+
+viêm phế quản
+
+,
+
+hen suyễn
+
+, và
+
+suy tim
+
+.
+
+Chẩn đoán cần phải có HRCT.
+
+Chụp X-quang ngực thường cho thấy các đám mờ dạng lưới lan tỏa ở vùng phổi dưới và ngoại vi. Các tổn thương dạng nang nhỏ (hình tổ ong) và đường thở giãn do giãn phế quản do co kéo là những phát hiện bổ sung, thường xảy ra hơn ở những trường hợp xơ hóa giai đoạn tiến triển.
+
+HRCT cho thấy các đám mờ lan tỏa dạng lưới dưới màng phổi với sự dày lên không thường xuyên của vách trong tiểu thùy; xơ hóa tổ ong dưới màng phổi và giãn phế quản co kéo. Các vết dạng kính mờ đáng kể, các nốt hoặc độ hấp thụ tia giảm dạng khảm/bẫy khí ở phổi gợi ý chẩn đoán khác.
+
+Kiểm tra chức năng phổi thường phát hiện các đặc điểm điển hình của bệnh phổi hạn chế do xơ hóa. Đây là tình trạng giảm khả năng khuếch tán carbon dioxide của phổi (DLCO), tình trạng hạ oxy máu khi gắng sức tiến triển đến độ bão hòa thấp khi nghỉ ngơi và dung tích sống gắng sức (FVC) từ bình thường đến thấp. Giảm DLCO đã được quan sát thấy ở hầu hết mọi bệnh nhân mắc IPF và giúp xác nhận chẩn đoán nếu cũng có các đặc điểm lâm sàng và đặc điểm trên X quang khác của IPF.
+
+Có thể cân nhắc sinh thiết phổi nếu vẫn còn nghi ngờ về chẩn đoán sau khi đánh giá ban đầu.
+
+Xơ phổi vô căn
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Harold R. Collard cung cấp
+
+Xét nghiệm trong phòng thí nghiệm có ít vai trò trong chẩn đoán, ngoại trừ việc loại trừ các rối loạn thấp khớp hệ thống tiềm ẩn.
+
+Điều trị chứng xơ phổi tự phát
+
+Pirfenidone hoặc nintedanib
+
+Bổ sung oxy và phục hồi chức năng phổi
+
+Đôi khi ghép phổi
+
+Pirfenidone và nintedanib là thuốc chống xơ hóa làm chậm quá trình tiến triển của xơ phổi vô căn (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+,
+
+4
+
+). Không có đủ bằng chứng để chứng minh thuốc này có hiệu quả hơn thuốc kia. Việc sử dụng các loại thuốc này đòi hỏi phải theo dõi định kỳ các xét nghiệm chức năng gan.
+
+Các biện pháp hỗ trợ bao gồm
+
+phục hồi chức năng hô hấp
+
+và liệu pháp oxy. Tham gia nhóm hỗ trợ có thể giúp giảm căng thẳng tâm lý liên quan đến căn bệnh này.
+
+Nhiều phương pháp điều trị mới cho IPF đang được phát triển hoặc đang được thử nghiệm, và bệnh nhân nên được khuyến khích tham gia vào các thử nghiệm lâm sàng khi thích hợp.
+
+Ghép phổi
+
+có thể thành công đối với những bệnh nhân IPF khỏe mạnh. Những bệnh nhân này nên được đánh giá để ghép phổi vào thời điểm chẩn đoán.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Nathan SD, Albera C, Bradford WZ, et al.
+
+Effect of
+
+pirfenidone
+
+on mortality: pooled analyses and meta-analyses of clinical trials in idiopathic pulmonary fibrosis [published correction appears in
+
+Lancet Respir Med
+
+Tháng 1 năm 2017;5(1):e7. doi: 10.1016/S2213-2600(16)30422-2.].
+
+Lancet Respir Med
+
+2017;5(1):33-41. doi:10.1016/S2213-2600(16)30326-5
+
+2.
+
+Raghu G, Remy-Jardin M, Richeldi L, et al
+
+. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.
+
+Am J Respir Crit Care Med
+
+2022;205(9):e18-e47. doi:10.1164/rccm.202202-0399ST
+
+3.
+
+Raghu G, Rochwerg B, Zhang Y, et al
+
+: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline: Treatment of Idiopathic Pulmonary Fibrosis. An Update of the 2011 Clinical Practice Guideline.
+
+Am J Respir Crit Care Med
+
+192 (2):e3-e19, Jun 15, 2015.
+
+4.
+
+Richeldi L, du Bois RM, Raghu G, et al
+
+: Efficacy and safety of
+
+nintedanib
+
+in idiopathic pulmonary fibrosis.
+
+N Engl J Med
+
+370:2071–2082, 2014.
+
+Tiên lượng cho xơ phổi tự phát
+
+Hầu hết bệnh nhân với triệu chứng lâm sàng từ trung bình đến nặng ở thời điểm chẩn đoán và sẽ tiến triển nặng mặc dù được điều trị. Liệu pháp chống xơ hóa đã làm giảm tỷ lệ tử vong. Một số mô hình tiên đoán đã được đề xuất. Trong số các yếu tố báo hiệu tiên lượng xấu hơn là tuổi cao, giới tính nam, dung tích sống gắng sức thấp hơn và DLCO thấp hơn (
+
+1
+
+).
+
+Nguyên nhân gây suy giảm cấp tính bao gồm nhiễm trùng,
+
+huyết khối tĩnh mạch sâu
+
+,
+
+thuyên tắc phổi
+
+,
+
+tràn khí màng phổi
+
+và
+
+suy tim
+
+.
+
+Tăng áp động mạch phổi
+
+cũng có thể xảy ra. Cũng có thể xảy ra những đợt cấp không rõ nguyên nhân. Các đợt cấp tính thường có tỷ lệ mắc bệnh và tử vong cao, đặc biệt là ở những bệnh nhân phải nhập viện.
+
+Ung thư phổi xảy ra thường xuyên hơn ở những bệnh nhân bị IPF, nhưng nguyên nhân tử vong thường là suy hô hấp. Do tiên lượng xấu của IPF, nên thảo luận sớm với bệnh nhân và gia đình về
+
+kế hoạch chăm sóc nâng cao
+
+và chăm sóc giảm nhẹ là rất quan trọng.
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Sun X, Lei S, Zhao H, Guo L, Wang Y
+
+. Mortality-related risk factors of idiopathic pulmonary fibrosis: a systematic review and meta-analysis.
+
+J Thorac Dis
+
+2024;16(12):8338-8349. doi:10.21037/jtd-23-1908
+
+Những điểm chính
+
+Xơ phổi tự phát chiếm hầu hết các trường hợp viêm phổi kẽ tự phát và có xu hướng ảnh hưởng đến người cao tuổi.
+
+Triệu chứng và dấu hiệu (ví dụ: khó thở bán cấp, ho khan và ran nổ velco) không đặc hiệu và thường do các rối loạn khác, phổ biến hơn.
+
+HRCT có thể giúp chẩn đoán bằng cách cho thấy những hình ảnh đám mờ dạng lưới lan tỏa rải rác dưới màng phổi với sự dày lên không thường xuyên của vách trong tiểu thùy; xơ hóa tổ ong dưới màng phổi và giãn phế quản co kéo.
+
+Diều trị hỗ trợ và nếu có, sử dụng pirfenidone hoặc nintedanib.
+
+Khuyến khích bệnh nhân tham gia các thử nghiệm lâm sàng và nếu bệnh nhân khỏe mạnh, hãy cân nhắc chuyển bệnh nhân sang ghép phổi tại thời điểm chẩn đoán.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân và sinh bệnh của bệnh xơ phổi vô căn ---
+
+IPF được đặc trưng bởi tổn thương nhỏ tái phát ở các tế bào biểu mô phế nang, vốn đã dễ bị lão hóa (1). Sự kết hợp của các yếu tố môi trường (ví dụ: hút thuốc lá), di truyền (ví dụ:đa hình gen MUC5B) và các yếu tố chưa biết khác có thể góp phần gây rối loạn chức năng hoặc lập trình lại tế bào biểu mô phế nang, dẫn đến tăng sinh xơ bất thường ở phổi. Các thay đổi trong hệ vi sinh vật phổi dẫn đến sự sinh sôi của một số loài nhưPrevotella,VeillonellavàEscherichia, cũng có thể góp phần gây bệnh lý bằng cách ảnh hưởng đến quá trình làm sạch chất nhầy. Phơi nhiễm nghề nghiệp như hít phải khí độc có thể gây tổn thương do hóa chất và sử dụng kháng sinh có thể làm thay đổi hệ vi sinh vật ở phổi. Cuối cùng, sự kết hợp của những yếu tố này gây ra thay đổi trong đáp ứng miễn dịch, dẫn đến bệnh tật.Tài liệu tham khảo nguyên nhân gây bệnh1.Lederer DJ, Martinez FJ. Idiopathic Pulmonary Fibrosis.N Engl J Med2018;378(19):1811-1823. doi:10.1056/NEJMra1705751
+
+--- 2. Bệnh học của xơ phổi tự phát ---
+
+Mẫu mô học đặc trưng của bệnh xơ phổi vô căn được gọi là viêm phổi kẽ thông thường (xem bảngCác đặc điểm chính của bệnh viêm phổi kẽ vô căn). Các dấu hiệu mô học chính bao gồm xơ hóa dưới màng phổi với các vị trí tăng sinh nguyên bào sợi (ổ nguyên bào sợi) và sẹo dày đặc, xen kẽ với các vùng mô nhu mô phổi bình thường (không đồng nhất) (1). Viêm mô kẽ rải rác xảy ra với sự xâm nhập của lymphocyte, tương bào và mô bào. Bất thường dạng nang (tổ ong) xảy ra ở tất cả các bệnh nhân và tăng lên khi bệnh tiến triển. Một mô hình mô học tương tự hiếm khi xảy ra trong các trường hợp bệnh phổi kẽ có nguyên nhân đã biết.Tài liệu tham khảo về bệnh học1.Raghu G, Remy-Jardin M, Myers JL, et al. Diagnosis of Idiopathic Pulmonary Fibrosis. An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med2018;198(5):e44-e68. doi:10.1164/rccm.201807-1255ST
+
+--- 3. Các triệu chứng và dấu hiệu của xơ phổi tự phát ---
+
+Các triệu chứng và dấu hiệu của bệnh xơ phổi vô căn thường phát triển trong nhiều tháng đến nhiều năm và bao gồm tình trạng khó thở ngày càng nặng hơn khi gắng sức và ho không có đờm, xuất hiện ở hầu hết mọi bệnh nhân mắc IPF. Triệu chứng thể tạng, chẳng hạn như sốt nhẹ và đau cơ, là không phổ biến. Dấu hiệu cổ điển của IPF là tiếng ran nổ nhỏ, khô khi hít vào (tiếng ran nổ Velcro) ở cả hai đáy phổi. Ngón tay dùi trống xuất hiện ở khoảng 50% số trường hợp (1). Có thể bị chứng xanh tím đầu chi. Phần còn lại của xét nghiệm là bình thường cho đến khi bệnh tiến triển, lúc đó dấu hiệutăng huyết áp phổivàrối loạn tâm thu thất phảicó thể phát triển.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.Lederer DJ, Martinez FJ. Idiopathic Pulmonary Fibrosis.N Engl J Med2018;378(19):1811-1823. doi:10.1056/NEJMra1705751
+
+--- 4. Chẩn đoán xơ phổi tự phát ---
+
+CT độ phân giải cao (HRCT)Đôi khi sinh thiết phổi qua phẫu thuậtĐo chức năng hô hấpChẩn đoán nghi ngờ xơ phổi tự phát ở những bệnh nhân bị khó thở bán cấp, ho không có đờm, và ran nổ Velcro khi khám phổi. Tuy nhiên, IPF thường bị bỏ qua ban đầu vì những điểm tương đồng về lâm sàng với các chứng bệnh thông thường khác nhưviêm phế quản,hen suyễn, vàsuy tim.Chẩn đoán cần phải có HRCT.Chụp X-quang ngực thường cho thấy các đám mờ dạng lưới lan tỏa ở vùng phổi dưới và ngoại vi. Các tổn thương dạng nang nhỏ (hình tổ ong) và đường thở giãn do giãn phế quản do co kéo là những phát hiện bổ sung, thường xảy ra hơn ở những trường hợp xơ hóa giai đoạn tiến triển.HRCT cho thấy các đám mờ lan tỏa dạng lưới dưới màng phổi với sự dày lên không thường xuyên của vách trong tiểu thùy; xơ hóa tổ ong dưới màng phổi và giãn phế quản co kéo. Các vết dạng kính mờ đáng kể, các nốt hoặc độ hấp thụ tia giảm dạng khảm/bẫy khí ở phổi gợi ý chẩn đoán khác.Kiểm tra chức năng phổi thường phát hiện các đặc điểm điển hình của bệnh phổi hạn chế do xơ hóa. Đây là tình trạng giảm khả năng khuếch tán carbon dioxide của phổi (DLCO), tình trạng hạ oxy máu khi gắng sức tiến triển đến độ bão hòa thấp khi nghỉ ngơi và dung tích sống gắng sức (FVC) từ bình thường đến thấp. Giảm DLCO đã được quan sát thấy ở hầu hết mọi bệnh nhân mắc IPF và giúp xác nhận chẩn đoán nếu cũng có các đặc điểm lâm sàng và đặc điểm trên X quang khác của IPF.Có thể cân nhắc sinh thiết phổi nếu vẫn còn nghi ngờ về chẩn đoán sau khi đánh giá ban đầu.Xơ phổi vô cănHình ảnhHình ảnh do bác sĩ Harold R. Collard cung cấpXét nghiệm trong phòng thí nghiệm có ít vai trò trong chẩn đoán, ngoại trừ việc loại trừ các rối loạn thấp khớp hệ thống tiềm ẩn.
+
+--- 5. Điều trị chứng xơ phổi tự phát ---
+
+Pirfenidone hoặc nintedanibBổ sung oxy và phục hồi chức năng phổiĐôi khi ghép phổiPirfenidone và nintedanib là thuốc chống xơ hóa làm chậm quá trình tiến triển của xơ phổi vô căn (1,2,3,4). Không có đủ bằng chứng để chứng minh thuốc này có hiệu quả hơn thuốc kia. Việc sử dụng các loại thuốc này đòi hỏi phải theo dõi định kỳ các xét nghiệm chức năng gan.Các biện pháp hỗ trợ bao gồmphục hồi chức năng hô hấpvà liệu pháp oxy. Tham gia nhóm hỗ trợ có thể giúp giảm căng thẳng tâm lý liên quan đến căn bệnh này.Nhiều phương pháp điều trị mới cho IPF đang được phát triển hoặc đang được thử nghiệm, và bệnh nhân nên được khuyến khích tham gia vào các thử nghiệm lâm sàng khi thích hợp.Ghép phổicó thể thành công đối với những bệnh nhân IPF khỏe mạnh. Những bệnh nhân này nên được đánh giá để ghép phổi vào thời điểm chẩn đoán.Tài liệu tham khảo về điều trị1.Nathan SD, Albera C, Bradford WZ, et al.Effect ofpirfenidoneon mortality: pooled analyses and meta-analyses of clinical trials in idiopathic pulmonary fibrosis [published correction appears inLancet Respir MedTháng 1 năm 2017;5(1):e7. doi: 10.1016/S2213-2600(16)30422-2.].Lancet Respir Med2017;5(1):33-41. doi:10.1016/S2213-2600(16)30326-52.Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.Am J Respir Crit Care Med2022;205(9):e18-e47. doi:10.1164/rccm.202202-0399ST3.Raghu G, Rochwerg B, Zhang Y, et al: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline: Treatment of Idiopathic Pulmonary Fibrosis. An Update of the 2011 Clinical Practice Guideline.Am J Respir Crit Care Med192 (2):e3-e19, Jun 15, 2015.4.Richeldi L, du Bois RM, Raghu G, et al: Efficacy and safety ofnintedanibin idiopathic pulmonary fibrosis.N Engl J Med370:2071–2082, 2014.
+
+--- 6. Tiên lượng cho xơ phổi tự phát ---
+
+Hầu hết bệnh nhân với triệu chứng lâm sàng từ trung bình đến nặng ở thời điểm chẩn đoán và sẽ tiến triển nặng mặc dù được điều trị. Liệu pháp chống xơ hóa đã làm giảm tỷ lệ tử vong. Một số mô hình tiên đoán đã được đề xuất. Trong số các yếu tố báo hiệu tiên lượng xấu hơn là tuổi cao, giới tính nam, dung tích sống gắng sức thấp hơn và DLCO thấp hơn (1).Nguyên nhân gây suy giảm cấp tính bao gồm nhiễm trùng,huyết khối tĩnh mạch sâu,thuyên tắc phổi,tràn khí màng phổivàsuy tim.Tăng áp động mạch phổicũng có thể xảy ra. Cũng có thể xảy ra những đợt cấp không rõ nguyên nhân. Các đợt cấp tính thường có tỷ lệ mắc bệnh và tử vong cao, đặc biệt là ở những bệnh nhân phải nhập viện.Ung thư phổi xảy ra thường xuyên hơn ở những bệnh nhân bị IPF, nhưng nguyên nhân tử vong thường là suy hô hấp. Do tiên lượng xấu của IPF, nên thảo luận sớm với bệnh nhân và gia đình vềkế hoạch chăm sóc nâng caovà chăm sóc giảm nhẹ là rất quan trọng.Tài liệu tham khảo về tiên lượng bệnh1.Sun X, Lei S, Zhao H, Guo L, Wang Y. Mortality-related risk factors of idiopathic pulmonary fibrosis: a systematic review and meta-analysis.J Thorac Dis2024;16(12):8338-8349. doi:10.21037/jtd-23-1908
+
+--- 7. Những điểm chính ---
+
+Xơ phổi tự phát chiếm hầu hết các trường hợp viêm phổi kẽ tự phát và có xu hướng ảnh hưởng đến người cao tuổi.Triệu chứng và dấu hiệu (ví dụ: khó thở bán cấp, ho khan và ran nổ velco) không đặc hiệu và thường do các rối loạn khác, phổ biến hơn.HRCT có thể giúp chẩn đoán bằng cách cho thấy những hình ảnh đám mờ dạng lưới lan tỏa rải rác dưới màng phổi với sự dày lên không thường xuyên của vách trong tiểu thùy; xơ hóa tổ ong dưới màng phổi và giãn phế quản co kéo.Diều trị hỗ trợ và nếu có, sử dụng pirfenidone hoặc nintedanib.Khuyến khích bệnh nhân tham gia các thử nghiệm lâm sàng và nếu bệnh nhân khỏe mạnh, hãy cân nhắc chuyển bệnh nhân sang ghép phổi tại thời điểm chẩn đoán.

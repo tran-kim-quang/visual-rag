@@ -1,0 +1,353 @@
+TIÊU ĐỀ: Tổng quan về bệnh Prion
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/bệnh-prion/tổng-quan-về-bệnh-prion
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về bệnh Prion
+
+(Bệnh xốp não lây truyền)
+
+Theo
+
+Brian Appleby
+
+,
+
+MD
+
+,
+
+Case Western Reserve University
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v1154848_vi
+
+Bệnh Prion là các rối loạn thoái hoá não tiến triển, gây tử vong và không thể điều trị.
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Các loại bệnh prion nổi bật bao gồm
+
+Bệnh Creutzfeldt-Jakob
+
+(CJD) (thường tản phát)
+
+Biến thể CJD
+
+(vCJD, mắc phải do ăn thịt nhiễm prion của bò cái)
+
+Bệnh prion nhạy cảm với protease khác
+
+(VPSPr, tản phát)
+
+Bệnh Gerstmann-Sträussler-Scheinker
+
+(GSS, di truyền)
+
+Mất ngủ nặng gây tử vong
+
+(FI, bao gồm một dạng tản phát và di truyền)
+
+Kuru
+
+(mắc phải do ăn thịt người trong nghi lễ tôn giáo)
+
+Một thể mới được xác định gần đây là
+
+bệnh prion liên quan đến tiêu chảy và bệnh lý thần kinh thực vật
+
+, loại này có tính di truyền.
+
+Bệnh prion là kết quả của sự sai lệch cấu trúc của một loại protein bề mặt tế bào bình thường gọi là protein prion tế bào (PrP
+
+C
+
+), chức năng chính xác của loại protein này vẫn chưa được biết rõ. Các prion protein bị xoắn sai được gọi là Prions hoặc scrapie PrP (PrP
+
+Sc
+
+-từ tên của bệnh prion nguyên mẫu của cừu).
+
+Prion (PrP
+
+Sc
+
+) gây bệnh và có thể lây truyền. Chúng gây ra bệnh prion bằng cách
+
+Tự sao chép: PrP
+
+Sc
+
+gây chuyển dạng conformation của PrP
+
+C
+
+, tạo bản sao PrP
+
+Sc
+
+, trong phản ứng dây chuyền, sẽ tạo ra sự chuyển đổi của PrP
+
+C
+
+vào PrP
+
+Sc
+
+. Quá trình chuyển đổi này làm lan rộng PrP
+
+Sc
+
+đến các khu vực khác nhau của bộ não.
+
+Gây chết tế bào thần kinh
+
+Bình thường PrP
+
+C
+
+hòa tan trong nước và nhạy cảm với protease, nhưng một tỷ lệ lớn PrP
+
+Sc
+
+không tan trong nước và đề kháng mạnh với quá trình giáng hóa bởi protease (quá trình này ở PrP
+
+Sc
+
+tương tự như beta-amyloid trong bệnh Alzheimer), dẫn đến sự tích tụ tuy chậm nhưng không thể đảo ngược trong tế bào và gây chết tế bào thần kinh. Kèm theo đó, các thay đổi bệnh lý bao gồm tăng tế bào thần kinh đệm và các thay đổi dạng hốc đặc trưng trên mô học (dạng bọt xốp), dẫn tới sa sút trí tuệ và các thiếu sót thần kinh khác. Trong các bệnh prion mắc phải, các triệu chứng và dấu hiệu xuất hiện vài tháng đến vài năm sau lần đầu tiên tiếp xúc với PrP
+
+Sc
+
+.
+
+Nên nghĩ đến bệnh prion ở tất cả các bệnh nhân có tình trạng thoái hóa thần kinh nhanh chóng.
+
+Đường lây truyền prion
+
+Bệnh Prion bắt nguồn
+
+Tản phát (dường như bắt đầu tự phát, không rõ nguyên nhân)
+
+Qua di truyền (có tính gia đình)
+
+Qua truyền nhiễm
+
+Bệnh prion rải rác
+
+là phổ biến nhất, với tỷ lệ mắc bệnh hàng năm trên toàn thế giới khoảng 1 đến 2 trường hợp trên một triệu người mỗi năm (
+
+1
+
+). Hiên nay chưa rõ thể PrP
+
+Sc
+
+đầu tiên được hình thành như thế nào.
+
+Bệnh prion có tính gia đình
+
+là do khuyết tật trong gen PrP (
+
+PRNP
+
+), gen này nằm trong nhánh ngắn của nhiễm sắc thể 20. Các đột biến gen gây ra bệnh prion hầu hết đều là gen trội trên nhiễm sắc thể thường; tức là các gen này gây bệnh khi chỉ được di truyền từ bố hoặc mẹ. Ngoài ra, tỷ lệ biểu hiện kiểu hình cũng thay đổi; tức là, tùy thuộc vào loại đột biến, tỷ lệ phần trăm người mang đột biến có dấu hiệu lâm sàng của bệnh trong suốt cuộc đời của họ luôn thay đổi.
+
+Có hơn 50 đột biến. Các khiếm khuyết gen khác nhau gây ra các loại bệnh prion khác nhau, bao gồm
+
+Bệnh Creutzfeldt-Jakob
+
+(CJD)
+
+Bệnh Gerstmann-Sträussler-Scheinker
+
+(GSS)
+
+Các bệnh với các đặc điểm hỗn hợp của CJD và GSS
+
+Các bệnh khác về mặt lâm sàng và bệnh lý với các bệnh prion khác, chẳng hạn như bệnh prion liên quan đến tiêu chảy và bệnh thần kinh thực vật
+
+Mất ngủ gây tử vong có tính gia đình
+
+(FFI)
+
+Cho đến nay, các nhà nghiên cứu chỉ xác định được một đột biến gây ra mất ngủ gây tử vong có tính gia đình, thể gia đình của mất ngủ gây chết người.
+
+Các đột biến
+
+PRNP
+
+làm thay đổi trình tự axit amin của PrP
+
+C
+
+, làm nó xoắn sai lệch và trở thành PrP
+
+Sc
+
+. Những bất thường nhỏ ở các codon cụ thể (trình tự nucleotide là khối xây dựng của gen), bản thân chúng không gây bệnh, có thể quyết định các triệu chứng chủ yếu và tốc độ tiến triển của bệnh trong các bệnh gia đình và các bệnh prion khác (
+
+2
+
+).
+
+Các bệnh prion truyền nhiễm
+
+hiếm gặp. Các bệnh này có thể bị lây truyền:
+
+Từ người này sang người khác: Do thầy thuốc gây ra, thông qua việc cấy ghép nội tạng và mô, sử dụng dụng cụ phẫu thuật thần kinh bị nhiễm bẩn, hoặc hiếm khi, truyền máu (như trong vCJD); hoặc thông qua ăn thịt đồng loại (như trong
+
+kuru
+
+)
+
+Từ động vật sang người: Qua việc ăn thịt bò bị nhiễm bệnh (như trong
+
+vCJD
+
+)
+
+Các bệnh do Prion không lây truyền thông qua tiếp xúc trực tiếp từ người với người.
+
+Bệnh prion xảy ra ở nhiều loài động vật có vú (ví dụ: chồn, nai, hươu, mèo, dê, lạc đà và cừu, gia súc) và có thể lây truyền giữa các loài thông qua chuỗi thức ăn. Tuy nhiên, hiện tượng lây truyền từ động vật sang người chỉ được quan sát thấy vCJD, sau khi tiêu thụ thịt bò có nguồn gốc từ bò mắc bệnh viêm não thể bọt biển (BSE hoặc bệnh bò điên).
+
+Ở hầu hết các tiểu bang của Hoa Kỳ, Canada, Hàn Quốc, Na Uy, Phần Lan và Thụy Điển (
+
+3
+
+), người ta lo ngại rằng bệnh suy mòn mạn tính (CWD), bệnh prion ở nai sừng tấm và hươu, có thể lây truyền cho những người săn bắt, giết mổ hoặc ăn thịt những loài động vật bị ảnh hưởng. Bằng chứng thực nghiệm cho thấy việc truyền CWD từ động vật sang người có thể xảy ra và dữ liệu gần đây chỉ ra rằng rào cản giữa các loài có thể bị suy yếu khi CWD được truyền từ động vật sang động vật nhiều lần (như có thể xảy ra trong tự nhiên [
+
+4
+
+]) hoặc khi các chủng CWD thay đổi, có thể khiến CWD có nhiều khả năng lây truyền sang người hơn.
+
+Tài liệu tham khảo về truyền bệnh
+
+1.
+
+Ladogana A, Puopolo M, Croes EA, et al
+
+: Mortality from Creutzfeldt-Jakob disease and related disorders in Europe, Australia, and Canada.
+
+Neurology
+
+64(9):1586-1591, 2005. doi: 10.1212/01.WNL.0000160117.56690.B2
+
+2.
+
+Pocchiari M and Manson J
+
+: Human Prion Diseases. In
+
+Handbook of Clinical Neurology
+
+, edited by M Pocchiari, and J Manson. New York, Elsevier, 2018, vol 153, pp. 2–498.
+
+3.
+
+Benestad SL, Mitchell G, Simmons M, et al
+
+: First case of chronic wasting disease in Europe in a Norwegian free-ranging reindeer.
+
+Vet Res
+
+47(1):88, 2016. doi: 10.1186/s13567-016-0375-4
+
+4.
+
+Barria MA, Telling GC, Gambetti P, et al
+
+: Generation of a new form of human PrP
+
+Sc
+
+in vitro by interspecies transmission from cervid prions.
+
+J Biol Chem
+
+286(9):7490–7495, 2011. doi: 10.1074/jbc.M110.198465
+
+Điều trị bệnh Prion
+
+Chăm sóc hỗ trợ
+
+Không có điều trị đối với bệnh prion. Điều trị là hỗ trợ.
+
+Bệnh nhân cần chuẩn bị
+
+những điều căn dặn trước
+
+(ví dụ cách chăm sóc cuối đời được mong muốn) ngay sau khi bệnh được chẩn đoán. Nên sử dụng dịch vụ chăm sóc cuối đời.
+
+Có thể khuyến cáo tư vấn di truyền cho các thành viên gia đình của bệnh nhân prion có tính gia đình.
+
+Phòng ngừa bệnh Prion
+
+Con người không nên tiêu thụ động vật được biết hoặc nghi ngờ bị nhiễm bệnh prion.
+
+Prion có khả năng kháng các kỹ thuật khử trùng tiêu chuẩn và có thể là nguy cơ cho các bệnh nhân khác và bác sĩ phẫu thuật, nhà giải phẫu bệnh, kỹ thuật viên xử lý các mô hoặc dụng cụ bị ô nhiễm.
+
+Có thể ngăn ngừa quá trình truyền bệnh bằng cách sử dụng các biện pháp phòng ngừa khi xử lý các mô bị nhiễm bệnh và bằng các kỹ thuật thích hợp để làm sạch dụng cụ bị ô nhiễm. Sử dụng một trong các quy trình sau đây:
+
+Nồi hấp hơi ở 132°C trong 1 giờ
+
+Ngâm trong natri hydroxit 1 N (bình thường) hoặc dung dịch natri hypochlorite 10% trong 1 giờ
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh xốp não lây truyền) ---
+
+TheoBrian Appleby,MD,Case Western Reserve UniversityXem xét bởiMichael C. Levin,MD,College of Medicine, University of SaskatchewanĐã xem xét/Đã chỉnh sửađã sửa đổiThg 7 2024v1154848_vi
+
+--- 2. Điều trị bệnh Prion ---
+
+Chăm sóc hỗ trợKhông có điều trị đối với bệnh prion. Điều trị là hỗ trợ.Bệnh nhân cần chuẩn bịnhững điều căn dặn trước(ví dụ cách chăm sóc cuối đời được mong muốn) ngay sau khi bệnh được chẩn đoán. Nên sử dụng dịch vụ chăm sóc cuối đời.Có thể khuyến cáo tư vấn di truyền cho các thành viên gia đình của bệnh nhân prion có tính gia đình.
+
+--- 3. Phòng ngừa bệnh Prion ---
+
+Con người không nên tiêu thụ động vật được biết hoặc nghi ngờ bị nhiễm bệnh prion.Prion có khả năng kháng các kỹ thuật khử trùng tiêu chuẩn và có thể là nguy cơ cho các bệnh nhân khác và bác sĩ phẫu thuật, nhà giải phẫu bệnh, kỹ thuật viên xử lý các mô hoặc dụng cụ bị ô nhiễm.Có thể ngăn ngừa quá trình truyền bệnh bằng cách sử dụng các biện pháp phòng ngừa khi xử lý các mô bị nhiễm bệnh và bằng các kỹ thuật thích hợp để làm sạch dụng cụ bị ô nhiễm. Sử dụng một trong các quy trình sau đây:Nồi hấp hơi ở 132°C trong 1 giờNgâm trong natri hydroxit 1 N (bình thường) hoặc dung dịch natri hypochlorite 10% trong 1 giờ

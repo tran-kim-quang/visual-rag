@@ -1,0 +1,713 @@
+TIÊU ĐỀ: Thuốc điều trị loạn nhịp tim
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/tổng-quan-loạn-nhịp-tim-và-rối-loạn-dẫn-truyền/thuốc-điều-trị-loạn-nhịp-tim
+================================================================================
+
+NỘI DUNG:
+
+Thuốc điều trị loạn nhịp tim
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2025
+
+v21365344_vi
+
+Thuốc chống loạn nhịp Nhóm I
+
+|
+
+Thuốc chống loạn nhịp nhóm II
+
+|
+
+Thuốc chống loạn nhịp nhóm III
+
+|
+
+Thuốc chống loạn nhịp nhóm IV
+
+|
+
+Quyết định điều trị
+
+loạn nhịp tim
+
+phụ thuộc vào các triệu chứng và mức độ nặng có thể có của bệnh. Điều trị theo nguyên nhân. Trong trường hợp cần thiết, có thể áp dụng một phương pháp điều trị chống loạn nhịp trực tiếp, bao gồm
+
+thuốc chống loạn nhịp
+
+,
+
+sốc điện chuyển nhịp-phá rung
+
+,
+
+cấy máy chuyển nhịp-phá rung tự động‭
+
+(ICD),
+
+máy tạo nhịp tim
+
+(và một dạng đặc biệt của tạo nhịp tim,
+
+máy tạo nhịp tái đồng bộ tim
+
+), triệt đốt rối loạn nhịp qua đường ống thông,
+
+phẫu thuật
+
+hoặc một phương pháp kết hợp.
+
+Hầu hết các loại thuốc chống loạn nhịp được chia thành 4 nhóm chính (phân loại Vaughan Williams) dựa trên tác dụng điện sinh lý tế bào chủ yếu của các loại thuốc này, với các bản cập nhật tiếp theo cho hệ thống phân loại dành cho các loại thuốc mới hơn (xem bảng
+
+Thuốc chống loạn nhịp (Phân loại Vaughan Williams)
+
+) (
+
+1
+
+,
+
+2
+
+).
+
+Nhóm I
+
+:
+
+Thuốc nhóm I là thuốc chẹn kênh natri (thuốc ổn định màng) có tác dụng chặn các kênh natri nhanh và dẫn truyền chậm trong các mô kênh nhanh (tế bào cơ nhĩ và tế bào cơ thất đang hoạt động, hệ thống His-Purkinje). Thuốc nhóm I được chia thành các phân nhóm Ia, Ib và Ic.
+
+Nhóm II
+
+:
+
+Thuốc nhóm II là các thuốc chẹn beta, tác động chủ yếu đến các mô có kênh ion chậm (nút xoang, nút nhĩ thất) để làm giảm tính tự động, làm chậm tốc độ dẫn truyền và kéo dài thời kỳ trơ.
+
+Nhóm III
+
+:
+
+Thuốc nhóm III chủ yếu là các thuốc chẹn kênh kali, kéo dài thời gian điện thế hoạt động và thời kỳ trơ của các mô có kênh ion chậm và nhanh.
+
+Nhóm IV
+
+:
+
+Thuốc nhóm IV là các thuốc chẹn kênh Canxi loại nondihydropyridine. Các thuốc này ức chế các pha điện thế hoạt động phụ thuộc Canxi ở các mô có kênh ion chậm, và do đó giảm tính tự động, giảm tốc độ dẫn truyền và kéo dài thời kỳ trờ.
+
+Digoxin, adenosine và ivabradine không được đưa vào phân loại ban đầu của Vaughan Williams. Hệ thống phân loại Vaughan Williams ban đầu dành cho thuốc chống loạn nhịp đã được mở rộng (
+
+2
+
+) để bao gồm những loại thuốc này và các loại thuốc chống loạn nhịp khác được giới thiệu kể từ khi phân loại ban đầu (ví dụ: amiodarone, sotalol, flecainide).
+
+Digoxin làm rút ngắn thời kỳ trơ của cơ nhĩ, cơ thất và có gây cường phế vị, do đó kéo dài thời gian dẫn truyền qua nút nhĩ thất và kéo dài thời kỳ trơ của nút nhĩ thất.
+
+Adenosine
+
+có tác dụng làm chậm hoặc ngăn chặn dẫn truyền qua nút nhĩ thất. Do đó có khả năng cắt các loại cơn tim nhanh vào lại có sử dụng đường dẫn truyền qua nút nhĩ thất như là một nhánh của vòng vào lại.
+
+Ivabradine
+
+ức chế dòng điện vui vẻ của nút xoang và làm chậm nhịp của nút xoan.
+
+Bảng
+
+Thuốc chống loạn nhịp (phân loại Vaughan Williams)
+
+Bảng
+
+Thuốc chống loạn nhịp (phân loại Vaughan Williams)
+
+Thuốc chống loạn nhịp (phân loại Vaughan Williams)
+
+Thuốc uống
+
+Một số tác dụng phụ
+
+Bình luận
+
+Nhóm IA
+
+Chỉ định: Điều trị ngoại tâm thu nhĩ, ngoại tâm thu thất, nhịp nhanh trên thất, nhịp nhanh thất, rung nhĩ, cuồng nhĩ và rung thất
+
+Disopyramide
+
+Tác dụng kháng cholinergic (bí tiểu, tăng nhãn áp, khô miệng, mờ mắt, rối loạn đường ruột), hạ đường huyết, xoắn đỉnh VT, tác dụng hướng tim âm tính
+
+Sử dụng thận trọng khi có suy giảm chức năng LV hoặc suy thận
+
+Tác dụng bất lợi có thể góp phần vào tình trạng không tuân thủ
+
+Giảm tốc độ truyền hoặc giảm liều lượng hoặc ngừng thuốc nếu khoảng QRS rộng quá mức †
+
+Dạng dùng theo đường tĩnh mạch không có ở Hoa Kỳ
+
+Procainamide*
+
+Hạ huyết áp (khi truyền tĩnh mạch), kháng thể kháng nhân dương tính hoặc lupus do thuốc, mất bạch cầu hạt, xoắn đỉnh VT
+
+Có sẵn các chế phẩm giải phóng kéo dài
+
+Giảm tốc độ truyền hoặc giảm liều lượng hoặc ngừng thuốc nếu khoảng QRS rộng quá mức† hoặc nếu khoảng QTc kéo dài
+
+Quinidin
+
+Triệu chứng GI, giảm tiểu cầu, bất thường chức năng gan, xoắn đỉnh VT
+
+Giảm tốc độ truyền hoặc giảm liều lượng hoặc ngừng thuốc nếu khoảng QRS rộng quá mức† hoặc nếu khoảng QTc kéo dài
+
+Nhóm IB
+
+Chỉ định: Điều trị rối loạn nhịp thất (ngoại tâm thu thất, tim nhanh thất, rung thất)
+
+Lidocaine
+
+Run, co giật, buồn ngủ, mê sảng, dị cảm khi dùng thuốc nhanh; nguy cơ nhịp tim chậm sau nhồi máu cơ tim cấp
+
+Giảm liều lượng sau 24 giờ đầu tiên
+
+Chuyển hóa thuốc qua gan lần thứ nhất kéo dài
+
+Mexiletine
+
+Tác dụng phụ: buồn nôn, nôn, run cơ, co giật.
+
+Dạng uống giải phóng chậm và dạng dùng theo đường tĩnh mạch không có tại Hoa Kỳ
+
+Nhóm IC
+
+Chỉ định: Điều trị ngoại tâm thu nhĩ, ngoại tâm thu thất, nhịp nhanh trên thất, nhịp nhanh thất, rung nhĩ, cuồng nhĩ và rung thất
+
+Flecainide
+
+Tác dụng phụ: đôi khi nhìn mờ và dị cảm.
+
+Tiền loạn nhịp tim kèm theo bệnh tim cấu trúc
+
+Giảm liều lượng hoặc ngừng dùng thuốc nếu khoảng QRS rộng
+
+Dạng dùng theo đường tĩnh mạch không có ở Hoa Kỳ
+
+Propafenone
+
+Thuốc chẹn beta, có thể làm trầm trọng thêm bệnh đường hô hấp phản ứng, rối loạn tiêu hóa
+
+Dược động học không tuyến tính; liều tăng không được vượt quá 50% liều trước đó
+
+Chuyển hóa thuốc qua gan lần thứ nhất bão hòa
+
+Dạng dùng theo đường tĩnh mạch không có ở Hoa Kỳ
+
+Nhóm II (chẹn beta)
+
+Chỉ định: Rối loạn nhịp nhanh trên thất (ngoại tâm thu nhĩ, nhịp nhanh xoang, nhịp nhanh trên thất, rung nhĩ, cuồng nhĩ) và rối loạn nhịp thất (thường ở vai trò hỗ trợ cho một thuốc chống loạn nhịp chính khác).
+
+Acebutolol
+
+Đối với tất cả các loại thuốc chẹn beta: Rối loạn tiêu hóa, mất ngủ, ác mộng, lờ đờ, rối loạn chức năng cương dương, có thể bị block AV ở những bệnh nhân bị rối loạn chức năng nút AV; bệnh đường hô hấp phản ứng trở nên trầm trọng hơn (trở nên trầm trọng hơn khi dùng thuốc chẹn beta "không chọn lọc", propranolol, nadolol, timolol)
+
+Chống chỉ định tương đối ở những bệnh nhân có rối loạn đường thở do co thắt phế quản
+
+Atenolol
+
+Betaxolol
+
+Bisoprolol
+
+Carvedilol
+
+Esmolol
+
+Metoprolol
+
+Nadolol
+
+Propranolol
+
+Timolol
+
+Nhóm III (thuốc ổn định màng)
+
+Chỉ định: Bất kỳ rối loạn nhịp nhanh nào, trừ xoắn đỉnh.
+
+Amiodarone‡
+
+Độc tính ở phổi, kéo dài khoảng QTc; xoắn đỉnh VT; nhịp tim chậm; da tiếp xúc với ánh nắng mặt trời đổi màu xám hoặc xanh; bất thường ở gan; bệnh lý thần kinh ngoại biên; lắng đọng nhỏ ở giác mạc, thay đổi chức năng tuyến giáp; tăng creatinin huyết thanh
+
+Tác dụng chẹn beta không cạnh tranh, chẹn kênh canxi và chẹn kênh natri, với thời gian chậm trễ kéo dài khi bắt đầu tác dụng
+
+Kéo dài tình trạng kháng thuốc đồng nhất hơn các loại thuốc kéo dài QT khác, do đó xoắn đỉnh VT ít phổ biến hơn
+
+Dạng dùng theo đường tĩnh mạch có thể được sử dụng để chuyển đổi nhịp
+
+Azimilide*
+
+Xoắn đỉnh VT
+
+—
+
+Bretylium*
+
+Huyết áp thấp
+
+Cũng có tính chất của thuốc nhóm II
+
+Được sử dụng để điều trị nhịp nhanh thất kháng trị có khả năng gây tử vong (VT khó chữa, VF tái phát)
+
+Dofetilide
+
+Xoắn đỉnh VT
+
+Chống chỉ định với QTc kéo dài hoặc giảm GFR
+
+Dronedarone
+
+Kéo dài QTc, xoắn đỉnh VT, nhịp tim chậm, rối loạn tiêu hóa, độc tính trên gan, tăng creatinin huyết thanh
+
+Phân tử
+
+amiodarone
+
+được biến đổi có thời gian bán hủy ngắn hơn, thể tích phân bố nhỏ hơn, ít tác dụng bất lợi hơn và hiệu quả kém hơn
+
+Không nên sử dụng khi có tiền sử suy tim hoặc AF vĩnh viễn
+
+Ibutilide
+
+Xoắn đỉnh VT
+
+Được sử dụng để chấm dứt AF và rung nhĩ
+
+Sotalol
+
+Tác dụng phụ: tương tự như Nhóm II; có thể gây giảm chức năng thất trái và xoắn đỉnh.
+
+Các công thức bào chế có sẵn trên lâm sàng cũng có hoạt tính chẹn beta (loại II)
+
+Tránh dùng khi có suy thận
+
+Vernakalant
+
+Hạ huyết áp (đặc biệt là suy tim)
+
+Rối loạn nhịp chậm (đặc biệt là kèm theo thuốc chẹn beta)
+
+Được sử dụng để chấm dứt AF mới khởi phát gần đây
+
+Không có sẵn ở Hoa Kỳ
+
+Nhóm IV (thuốc chẹn kênh canxi)
+
+Chỉ định: Cắt cơn tim nhanh trên thất, làm giảm tần số thất trong rung nhĩ hoặc cuồng nhĩ
+
+Diltiazem
+
+Có thể gây ra VF ở những bệnh nhân có VT, inotropy âm tính
+
+Dạng dùng theo đường tĩnh mạch được sử dụng để làm chậm tốc độ đáp ứng của tâm thất đối với AF hoặc rung nhĩ
+
+Verapamil
+
+Có thể gây ra VF ở những bệnh nhân có VT, inotropy âm tính
+
+Dạng dùng theo đường tĩnh mạch được sử dụng để chấm dứt nhịp tim nhanh phức bộ hẹp liên quan đến nút AV
+
+Các thuốc chống loạn nhịp khác
+
+Adenosine
+
+Khó thở, tức ngực, đỏ bừng mặt và co thắt phế quản
+
+Làm chậm hoặc chặn dẫn truyền nút AV
+
+Thời gian tác dụng cực kỳ ngắn
+
+Chống chỉ định bao gồm hen suyễn và block tim cấp độ cao
+
+Dipyridamole
+
+có thể làm tăng tác dụng.
+
+Digoxin
+
+Các triệu chứng tiêu hóa; rối loạn nhịp nhiều lần (VPB, VT, APB, nhịp nhanh nhĩ, block nhĩ thất cấp hai hoặc cấp ba, hoặc kết hợp)
+
+Có chống chỉ định với tình trạng kích thích thất sớm (biểu hiện hội chứng Wolff-Parkinson-White) vì
+
+digoxin
+
+làm rút ngắn thời gian khó điều trị của kết nối phụ; nếu AF xảy ra, đáp ứng thất có thể quá mức và đe dọa tính mạng.
+
+* Không chắc là luôn sẵn có.
+
+† Thời gian QRS dự kiến sẽ rộng. Thuốc chỉ được thay đổi nếu thời gian tăng quá mức.
+
+‡ Liều dùng amiodarone thay đổi đáng kể tùy theo độ tuổi và chỉ định; cần kiểm tra thông tin kê đơn của nhà sản xuất.
+
+AF
+
+=
+
+rung nhĩ; APB
+
+=
+
+nhịp ngoại tâm thu nhĩ; AV
+
+=
+
+nhĩ thất; GFR = tốc độ lọc cầu thận; GI = đường tiêu hóa; IV = tĩnh mạch; LV
+
+=
+
+thất trái; QTc
+
+=
+
+khoảng QT hiệu chỉnh theo nhịp tim; SVT
+
+=
+
+nhịp nhanh trên thất; VF
+
+=
+
+rung thất; VPB
+
+=
+
+nhịp ngoại tâm thu thất; VT
+
+=
+
+nhịp nhanh thất.
+
+* Không chắc là luôn sẵn có.
+
+† Thời gian QRS dự kiến sẽ rộng. Thuốc chỉ được thay đổi nếu thời gian tăng quá mức.
+
+‡ Liều dùng amiodarone thay đổi đáng kể tùy theo độ tuổi và chỉ định; cần kiểm tra thông tin kê đơn của nhà sản xuất.
+
+AF
+
+=
+
+rung nhĩ; APB
+
+=
+
+nhịp ngoại tâm thu nhĩ; AV
+
+=
+
+nhĩ thất; GFR = tốc độ lọc cầu thận; GI = đường tiêu hóa; IV = tĩnh mạch; LV
+
+=
+
+thất trái; QTc
+
+=
+
+khoảng QT hiệu chỉnh theo nhịp tim; SVT
+
+=
+
+nhịp nhanh trên thất; VF
+
+=
+
+rung thất; VPB
+
+=
+
+nhịp ngoại tâm thu thất; VT
+
+=
+
+nhịp nhanh thất.
+
+Tài liệu tham khảo về thuốc chống loạn nhịp
+
+1.
+
+Vaughan Williams EM
+
+. Classification of antidysrhythmic drugs.
+
+Pharmacol Ther B
+
+1975;1(1):115-138. doi:10.1016/0306-039x(75)90019-7
+
+2.
+
+Lei M, Wu L, Terrar DA, Huang CLH
+
+: Modernized classification of cardiac antiarrhythmic drugs.
+
+Circulation
+
+138(17):1879–1896, 2018. doi: 10.1161/CIRCULATIONAHA.118.035455
+
+Thuốc chống loạn nhịp Nhóm I
+
+Thuốc chống loạn nhịp nhóm I
+
+Thuốc chẹn kênh natri (thuốc ổn định màng tế bào) có tác dụng chặn các kênh Natri nhanh, làm chậm dẫn truyền các mô có kênh Natri nhanh (mô cơ nhĩ, mô cơ thất và hệ His-Purkinje).
+
+Trên điện tâm đồ (ECG), hiệu ứng này có thể được phản ánh là mức rộng của sóng P hoặc phức bộ QRS, kéo dài khoảng PR hoặc kết hợp cả hai.
+
+Thuốc nhóm I được phân loại dựa trên động học tác động lên kênh natri, quyết định nhịp tim mà tại đó tác động điện sinh lý của thuốc được biểu hiện.
+
+Thuốc nhóm Ib
+
+có động học nhanh nên chúng chỉ biểu hiện tác dụng điện sinh lý khi nhịp tim nhanh. Vì vậy, ghi điện tâm đồ khi nhịp bình thường và tần số tim trong giới hạn bình thường sẽ không thấy được dấu hiệu làm chậm dẫn truyền của các kênh Natri nhanh của thuốc. Thuốc nhóm Ib ít có tác dụng chống loạn nhịp trên mô nhĩ.
+
+Thuốc
+
+nhóm Ic
+
+có động học chậm nên có biểu hiện tác dụng điện sinh lý ở mọi nhịp tim. Vì vậy, điện tâm đồ ghi ở thời điểm nhịp bệnh nhân bình thường và tần số tim bình thường sẽ có các dấu hiệu của tác dụng làm chậm dẫn truyền qua các kênh Natri nhanh. Thuốc nhóm Ic mạnh hơn thuốc chống loạn nhịp nhóm 1b.
+
+Thuốc nhóm Ia
+
+có động học trung bình, do đó tác dụng làm chậm dẫn truyền mô kênh nhanh của các loại thuốc đó có thể hoặc không thể thấy rõ trên điện tâm đồ thu được trong nhịp bình thường ở tần số bình thường. Nhóm Ia cũng có tác dụng ngăn chặn tái cực các kênh Kali, do đó làm kéo dài thời kỳ trơ của các mô có kênh Kali nhanh. Trên điện tâm đồ, tác dụng này được biểu hiện bằng khoảng QT kéo dài, ngay cả khi tần số tim bình thường. Các thuốc nhóm Ib và Ic không có tác động trực tiếp lên kênh Kali.
+
+Chỉ định chính của tất cả các loại thuốc nhóm I là điều trị nhịp nhanh thất (nhịp nhanh thất và rung thất). Thuốc nhóm Ia và nhóm Ic cũng được chỉ định trong điều trị loạn nhịp nhanh trên thất (rung nhĩ, cuồng nhĩ, nhịp nhanh trên thất) (
+
+1
+
+).
+
+Tác dụng phụ của thuốc nhóm I bao gồm loạn nhịp tim, đôi khi nặng nề hơn các rối loạn nhịp mà thuốc đang điều trị. Đây là tác dụng phụ đáng lo ngại nhất. Tất cả các loại thuốc nhóm I đều có thể làm trầm trọng thêm tình trạng nhịp nhanh thất (VT). Các thuốc nhóm I cũng có thể làm giảm sức bóp cơ tim. Bởi vì những tác dụng bất lợi này có nhiều khả năng xảy ra trên những bệnh nhân bị rối loạn cấu trúc tim, các loại thuốc nhóm I thường chỉ được sử dụng trên những bệnh nhân không bị rối loạn cấu trúc tim hoặc trên những bệnh nhân bị rối loạn cấu trúc tim nhưng không có phương pháp điều trị thay thế nào khác. Ngoài ra, còn một số tác dụng phụ khác riêng cho từng phân nhóm hoặc đặc trưng của từng thuốc cụ thể.
+
+Thuốc chống loạn nhịp nhóm Ia
+
+Các thuốc nhóm Ia có tính chất động học trung gian giữa nhóm IB (động học nhanh) và nhóm Ic (động học chậm). Tác động làm chậm dẫn truyền ở các mô có kênh Natri nhanh có thể hoặc không biểu hiện trên điện tâm đồ ghi ở thời điểm nhịp xoang bình thường hoặc tần số tim bình thường. Các thuốc nhóm Ia cũng ngăn chặn tái cực các kênh Kali, làm kéo dài thời kỳ trơ của các kênh Kali nhanh. Trên điện tâm đồ, tác dụng này được biểu hiện bằng khoảng QT kéo dài, ngay cả khi tần số tim bình thường.
+
+Các chỉ định chính
+
+của thuốc nhóm Ia là
+
+Loạn nhịp nhanh trên thất (rung nhĩ, cuồng động nhĩ, nhịp nhanh nhĩ)
+
+Loạn nhịp nhanh thất (nhịp nhanh thất và rung thất)
+
+Thuốc nhóm Ia cũng được sử dụng để ức chế nhịp ngoại tâm thu nhĩ hoặc nhịp ngoại tâm thu thất.
+
+Thuốc nhóm Ia có thể gây ra
+
+nhịp nhanh thất xoắn đỉnh
+
+. Các thuốc nhóm Ia có thể làm chậm tần số rối loạn nhịp nhĩ xuống tới mức cho phép để chấp nhận được dẫn truyền nhĩ thất 1:1 ở những trường hợp rối loạn nhịp nhĩ có đáp ứng thất rất nhanh.
+
+Thuốc chống loạn nhịp nhóm Ib
+
+Thuốc nhóm Ib có động học nhanh. Do đó, chúng chỉ biểu hiện tác dụng điện sinh lý học ở tần số tim nhanh. Vì vậy, ghi điện tâm đồ khi nhịp bình thường và tần số tim trong giới hạn bình thường sẽ không thấy được dấu hiệu làm chậm dẫn truyền của các kênh Natri nhanh của thuốc. Thuốc nhóm Ib ít có tác dụng chống loạn nhịp trên mô nhĩ. Thuốc nhóm Ib không chặn trực tiếp kênh Kali.
+
+Thuốc nhóm Ib được sử dụng để ức chế nhịp nhanh thất (
+
+nhịp nhanh thất
+
+,
+
+rung thất
+
+) và
+
+nhịp ngoại tâm thu thất
+
+(
+
+2
+
+).
+
+Thuốc chống loạn nhịp nhóm Ic
+
+Nhóm Ic có động học chậm. Do vậy, chúng biểu hiện tác dụng điện sinh lý học ở tất cả các tần số tim. Vì vậy, điện tâm đồ ghi ở thời điểm nhịp bệnh nhân bình thường và tần số tim bình thường sẽ có các dấu hiệu của tác dụng làm chậm dẫn truyền qua các kênh Natri nhanh. Thuốc nhóm Ic là thuốc chống loạn nhịp mạnh hơn thuốc nhóm Ib. Các thuốc nhóm Ic không chặn trực tiếp các kênh Kali.
+
+Các thuốc nhóm Ic có thể làm chậm tần số rối loạn nhịp nhĩ xuống tới mức cho phép để chấp nhận được dẫn truyền nhĩ thất 1:1 ở những trường hợp rối loạn nhịp nhĩ có đáp ứng thất rất nhanh.
+
+Thuốc nhóm Ic được sử dụng để ức chế
+
+Rung nhĩ
+
+Cuồng nhĩ
+
+Ngoại tâm thu nhĩ
+
+Nhịp tim nhanh trên thất
+
+Rung thất
+
+Nhịp ngoại tâm thu thất
+
+Nhịp nhanh thất
+
+Tài liệu tham khảo về thuốc chống loạn nhịp nhóm 1
+
+1.
+
+Brugada J, Katritsis DG, Arbelo E, et al
+
+. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC) [published correction appears in
+
+Eur Heart J
+
+ngày 21 tháng 11 năm 2020;41(44):4258. doi: 10.1093/eurheartj/ehz827].
+
+Eur Heart J
+
+2020;41(5):655-720. doi:10.1093/eurheartj/ehz467
+
+2.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+. 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears in
+
+J Am Coll Cardiol
+
+ngày 2 tháng 10 năm 2018;72(14):1760. doi: 10.1016/j.jacc.2018.08.2132].
+
+J Am Coll Cardiol
+
+2018;72(14):e91-e220. doi:10.1016/j.jacc.2017.10.054
+
+Thuốc chống loạn nhịp nhóm II
+
+Thuốc chống loạn nhịp nhóm II là
+
+Thuốc chẹn beta
+
+Thuốc chẹn beta ảnh hưởng chủ yếu đến các mô kênh chậm (nút xoang nhĩ và nút nhĩ thất), nơi chúng làm giảm tốc độ tự động, vận tốc dẫn truyền chậm và kéo dài độ khúc xạ. Nhờ cơ chế tác động này, khoảng PR sẽ dài ra, và nếu có rối loạn nhịp nhĩ rất nhanh thì nút nhĩ thất sẽ giảm tần số xung động truyền xuống thất.
+
+Thuốc nhóm II được sử dụng chủ yếu để điều trị
+
+nhịp nhanh trên thất
+
+, bao gồm nhịp nhanh xoang và làm chậm nhịp đáp ứng của tâm thất đối với
+
+rung nhĩ
+
+hoặc
+
+cuồng động nhĩ
+
+. Nhóm thuốc này cũng được sử dụng để điều trị
+
+nhịp nhanh thất
+
+, tăng ngưỡng khởi phát của
+
+rung thất
+
+và giảm sự kích thích thụ thể giao cảm beta nhờ đó giảm nguy cơ xuất hiện rối loạn nhịp thất.
+
+Chẹn beta thường được dung nạp tốt. Một số tác dụng phụ là mệt mỏi, rối loạn giấc ngủ và rối loạn tiêu hóa. Những loại thuốc này chống chỉ định ở những bệnh nhân bị hen suyễn.
+
+Thuốc chống loạn nhịp nhóm III
+
+Thuốc nhóm III là
+
+Thuốc ổn định màng, chủ yếu là thuốc chẹn kênh kali
+
+Thuốc nhóm III kéo dài thời gian điện thế hoạt động và kéo dài thời kỳ trơ của các kênh ion chậm và nhanh. Vì vậy, nó làm giảm khả năng phát xung động ở tần số cao nhưng không có ảnh hưởng nhiều đến các mô dẫn truyền xung động. Do thời gian điện thế hoạt động bị kéo dài, tính tự động của mô cơ tim sẽ giảm. Dấu hiệu chủ yếu trên ECG là kéo dài khoảng QT.
+
+Những loại thuốc này được dùng để điều trị
+
+nhịp nhanh trên thất
+
+và nhịp nhanh thất. Thuốc nhóm III có nguy cơ gây tiền loạn nhịp thất, đặc biệt là
+
+nhịp nhanh thất xoắn đỉnh
+
+và không được sử dụng ở những bệnh nhân bị nhịp nhanh thất xoắn đỉnh.
+
+Thuốc chống loạn nhịp nhóm IV
+
+Thuốc nhóm IV là
+
+Thuốc nhóm IV là các thuốc chẹn kênh canxi loại nondihydropyridine.
+
+Các loại thuốc này làm giảm điện thế hoạt động phụ thuộc canxi ở các mô kênh chậm và do đó làm giảm tốc độ tự động hóa, tốc độ dẫn truyền chậm và kéo dài thời gian trơ. Kết quả là tần số tim chậm lại, khoảng PR kéo dài và làm giảm dẫn truyền qua nút nhĩ thất để giảm đáp ứng thất ở những bệnh nhân rối loạn nhịp nhĩ nhanh. Những loại thuốc này chủ yếu được sử dụng để điều trị
+
+nhịp tim nhanh trên thất
+
+. Thuốc cũng có thể được sử dụng để làm chậm tốc độ đáp ứng của tâm thất đối với
+
+rung nhĩ
+
+hoặc
+
+cuồng động nhĩ
+
+. Một dạng VT (VT vách ngăn trái, Belhassen hoặc VT phân nhánh) có thể được điều trị bằng verapamil.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thuốc chống loạn nhịp Nhóm I ---
+
+Thuốc chống loạn nhịp nhóm IThuốc chẹn kênh natri (thuốc ổn định màng tế bào) có tác dụng chặn các kênh Natri nhanh, làm chậm dẫn truyền các mô có kênh Natri nhanh (mô cơ nhĩ, mô cơ thất và hệ His-Purkinje).Trên điện tâm đồ (ECG), hiệu ứng này có thể được phản ánh là mức rộng của sóng P hoặc phức bộ QRS, kéo dài khoảng PR hoặc kết hợp cả hai.Thuốc nhóm I được phân loại dựa trên động học tác động lên kênh natri, quyết định nhịp tim mà tại đó tác động điện sinh lý của thuốc được biểu hiện.Thuốc nhóm Ibcó động học nhanh nên chúng chỉ biểu hiện tác dụng điện sinh lý khi nhịp tim nhanh. Vì vậy, ghi điện tâm đồ khi nhịp bình thường và tần số tim trong giới hạn bình thường sẽ không thấy được dấu hiệu làm chậm dẫn truyền của các kênh Natri nhanh của thuốc. Thuốc nhóm Ib ít có tác dụng chống loạn nhịp trên mô nhĩ.Thuốcnhóm Iccó động học chậm nên có biểu hiện tác dụng điện sinh lý ở mọi nhịp tim. Vì vậy, điện tâm đồ ghi ở thời điểm nhịp bệnh nhân bình thường và tần số tim bình thường sẽ có các dấu hiệu của tác dụng làm chậm dẫn truyền qua các kênh Natri nhanh. Thuốc nhóm Ic mạnh hơn thuốc chống loạn nhịp nhóm 1b.Thuốc nhóm Iacó động học trung bình, do đó tác dụng làm chậm dẫn truyền mô kênh nhanh của các loại thuốc đó có thể hoặc không thể thấy rõ trên điện tâm đồ thu được trong nhịp bình thường ở tần số bình thường. Nhóm Ia cũng có tác dụng ngăn chặn tái cực các kênh Kali, do đó làm kéo dài thời kỳ trơ của các mô có kênh Kali nhanh. Trên điện tâm đồ, tác dụng này được biểu hiện bằng khoảng QT kéo dài, ngay cả khi tần số tim bình thường. Các thuốc nhóm Ib và Ic không có tác động trực tiếp lên kênh Kali.Chỉ định chính của tất cả các loại thuốc nhóm I là điều trị nhịp nhanh thất (nhịp nhanh thất và rung thất). Thuốc nhóm Ia và nhóm Ic cũng được chỉ định trong điều trị loạn nhịp nhanh trên thất (rung nhĩ, cuồng nhĩ, nhịp nhanh trên thất) (1).Tác dụng phụ của thuốc nhóm I bao gồm loạn nhịp tim, đôi khi nặng nề hơn các rối loạn nhịp mà thuốc đang điều trị. Đây là tác dụng phụ đáng lo ngại nhất. Tất cả các loại thuốc nhóm I đều có thể làm trầm trọng thêm tình trạng nhịp nhanh thất (VT). Các thuốc nhóm I cũng có thể làm giảm sức bóp cơ tim. Bởi vì những tác dụng bất lợi này có nhiều khả năng xảy ra trên những bệnh nhân bị rối loạn cấu trúc tim, các loại thuốc nhóm I thường chỉ được sử dụng trên những bệnh nhân không bị rối loạn cấu trúc tim hoặc trên những bệnh nhân bị rối loạn cấu trúc tim nhưng không có phương pháp điều trị thay thế nào khác. Ngoài ra, còn một số tác dụng phụ khác riêng cho từng phân nhóm hoặc đặc trưng của từng thuốc cụ thể.Thuốc chống loạn nhịp nhóm IaCác thuốc nhóm Ia có tính chất động học trung gian giữa nhóm IB (động học nhanh) và nhóm Ic (động học chậm). Tác động làm chậm dẫn truyền ở các mô có kênh Natri nhanh có thể hoặc không biểu hiện trên điện tâm đồ ghi ở thời điểm nhịp xoang bình thường hoặc tần số tim bình thường. Các thuốc nhóm Ia cũng ngăn chặn tái cực các kênh Kali, làm kéo dài thời kỳ trơ của các kênh Kali nhanh. Trên điện tâm đồ, tác dụng này được biểu hiện bằng khoảng QT kéo dài, ngay cả khi tần số tim bình thường.Các chỉ định chínhcủa thuốc nhóm Ia làLoạn nhịp nhanh trên thất (rung nhĩ, cuồng động nhĩ, nhịp nhanh nhĩ)Loạn nhịp nhanh thất (nhịp nhanh thất và rung thất)Thuốc nhóm Ia cũng được sử dụng để ức chế nhịp ngoại tâm thu nhĩ hoặc nhịp ngoại tâm thu thất.Thuốc nhóm Ia có thể gây ranhịp nhanh thất xoắn đỉnh. Các thuốc nhóm Ia có thể làm chậm tần số rối loạn nhịp nhĩ xuống tới mức cho phép để chấp nhận được dẫn truyền nhĩ thất 1:1 ở những trường hợp rối loạn nhịp nhĩ có đáp ứng thất rất nhanh.Thuốc chống loạn nhịp nhóm IbThuốc nhóm Ib có động học nhanh. Do đó, chúng chỉ biểu hiện tác dụng điện sinh lý học ở tần số tim nhanh. Vì vậy, ghi điện tâm đồ khi nhịp bình thường và tần số tim trong giới hạn bình thường sẽ không thấy được dấu hiệu làm chậm dẫn truyền của các kênh Natri nhanh của thuốc. Thuốc nhóm Ib ít có tác dụng chống loạn nhịp trên mô nhĩ. Thuốc nhóm Ib không chặn trực tiếp kênh Kali.Thuốc nhóm Ib được sử dụng để ức chế nhịp nhanh thất (nhịp nhanh thất,rung thất) vànhịp ngoại tâm thu thất(2).Thuốc chống loạn nhịp nhóm IcNhóm Ic có động học chậm. Do vậy, chúng biểu hiện tác dụng điện sinh lý học ở tất cả các tần số tim. Vì vậy, điện tâm đồ ghi ở thời điểm nhịp bệnh nhân bình thường và tần số tim bình thường sẽ có các dấu hiệu của tác dụng làm chậm dẫn truyền qua các kênh Natri nhanh. Thuốc nhóm Ic là thuốc chống loạn nhịp mạnh hơn thuốc nhóm Ib. Các thuốc nhóm Ic không chặn trực tiếp các kênh Kali.Các thuốc nhóm Ic có thể làm chậm tần số rối loạn nhịp nhĩ xuống tới mức cho phép để chấp nhận được dẫn truyền nhĩ thất 1:1 ở những trường hợp rối loạn nhịp nhĩ có đáp ứng thất rất nhanh.Thuốc nhóm Ic được sử dụng để ức chếRung nhĩCuồng nhĩNgoại tâm thu nhĩNhịp tim nhanh trên thấtRung thấtNhịp ngoại tâm thu thấtNhịp nhanh thấtTài liệu tham khảo về thuốc chống loạn nhịp nhóm 11.Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia The Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC) [published correction appears inEur Heart Jngày 21 tháng 11 năm 2020;41(44):4258. doi: 10.1093/eurheartj/ehz827].Eur Heart J2020;41(5):655-720. doi:10.1093/eurheartj/ehz4672.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society [published correction appears inJ Am Coll Cardiolngày 2 tháng 10 năm 2018;72(14):1760. doi: 10.1016/j.jacc.2018.08.2132].J Am Coll Cardiol2018;72(14):e91-e220. doi:10.1016/j.jacc.2017.10.054
+
+--- 2. Thuốc chống loạn nhịp nhóm II ---
+
+Thuốc chống loạn nhịp nhóm II làThuốc chẹn betaThuốc chẹn beta ảnh hưởng chủ yếu đến các mô kênh chậm (nút xoang nhĩ và nút nhĩ thất), nơi chúng làm giảm tốc độ tự động, vận tốc dẫn truyền chậm và kéo dài độ khúc xạ. Nhờ cơ chế tác động này, khoảng PR sẽ dài ra, và nếu có rối loạn nhịp nhĩ rất nhanh thì nút nhĩ thất sẽ giảm tần số xung động truyền xuống thất.Thuốc nhóm II được sử dụng chủ yếu để điều trịnhịp nhanh trên thất, bao gồm nhịp nhanh xoang và làm chậm nhịp đáp ứng của tâm thất đối vớirung nhĩhoặccuồng động nhĩ. Nhóm thuốc này cũng được sử dụng để điều trịnhịp nhanh thất, tăng ngưỡng khởi phát củarung thấtvà giảm sự kích thích thụ thể giao cảm beta nhờ đó giảm nguy cơ xuất hiện rối loạn nhịp thất.Chẹn beta thường được dung nạp tốt. Một số tác dụng phụ là mệt mỏi, rối loạn giấc ngủ và rối loạn tiêu hóa. Những loại thuốc này chống chỉ định ở những bệnh nhân bị hen suyễn.
+
+--- 3. Thuốc chống loạn nhịp nhóm III ---
+
+Thuốc nhóm III làThuốc ổn định màng, chủ yếu là thuốc chẹn kênh kaliThuốc nhóm III kéo dài thời gian điện thế hoạt động và kéo dài thời kỳ trơ của các kênh ion chậm và nhanh. Vì vậy, nó làm giảm khả năng phát xung động ở tần số cao nhưng không có ảnh hưởng nhiều đến các mô dẫn truyền xung động. Do thời gian điện thế hoạt động bị kéo dài, tính tự động của mô cơ tim sẽ giảm. Dấu hiệu chủ yếu trên ECG là kéo dài khoảng QT.Những loại thuốc này được dùng để điều trịnhịp nhanh trên thấtvà nhịp nhanh thất. Thuốc nhóm III có nguy cơ gây tiền loạn nhịp thất, đặc biệt lànhịp nhanh thất xoắn đỉnhvà không được sử dụng ở những bệnh nhân bị nhịp nhanh thất xoắn đỉnh.
+
+--- 4. Thuốc chống loạn nhịp nhóm IV ---
+
+Thuốc nhóm IV làThuốc nhóm IV là các thuốc chẹn kênh canxi loại nondihydropyridine.Các loại thuốc này làm giảm điện thế hoạt động phụ thuộc canxi ở các mô kênh chậm và do đó làm giảm tốc độ tự động hóa, tốc độ dẫn truyền chậm và kéo dài thời gian trơ. Kết quả là tần số tim chậm lại, khoảng PR kéo dài và làm giảm dẫn truyền qua nút nhĩ thất để giảm đáp ứng thất ở những bệnh nhân rối loạn nhịp nhĩ nhanh. Những loại thuốc này chủ yếu được sử dụng để điều trịnhịp tim nhanh trên thất. Thuốc cũng có thể được sử dụng để làm chậm tốc độ đáp ứng của tâm thất đối vớirung nhĩhoặccuồng động nhĩ. Một dạng VT (VT vách ngăn trái, Belhassen hoặc VT phân nhánh) có thể được điều trị bằng verapamil.

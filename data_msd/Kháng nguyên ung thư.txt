@@ -1,0 +1,176 @@
+TIÊU ĐỀ: Kháng nguyên ung thư
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/miễn-dịch-học-khối-u/kháng-nguyên-ung-thư
+================================================================================
+
+NỘI DUNG:
+
+Kháng nguyên ung thư
+
+Theo
+
+Robert Peter Gale
+
+,
+
+MD, PhD, DSC(hc)
+
+,
+
+Imperial College London
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v978095_vi
+
+Nhiều tế bào khối u sản sinh ra các phân tử liên quan đến ung thư hoặc đặc hiệu của ung thư, thường là các peptide, có thể được giải phóng vào máu hoặc hiển thị trên bề mặt tế bào. Bất kỳ phân tử nào có khả năng được hệ thống miễn dịch nhận biết và kích hoạt
+
+đáp ứng miễn dịch
+
+đều được coi là có tính kháng nguyên. Các kháng nguyên liên quan đến ung thư hoặc kháng nguyên đặc hiệu ung thư đã được xác định trong hầu hết các loại ung thư ở người, bao gồm
+
+u lympho Burkitt
+
+,
+
+u nguyên bào thần kinh
+
+,
+
+ung thư tế bào hắc tố
+
+,
+
+sarcoma xương
+
+,
+
+ung thư tế bào thận
+
+,
+
+ung thư vú
+
+,
+
+ung thư tuyến tiền liệt
+
+,
+
+ung thư phổi
+
+và
+
+ung thư đại tràng
+
+. Một vai trò quan trọng của hệ miễn dịch là phát hiện các kháng nguyên ung thư này để định hướng tiêu diệt các tế bào ung thư. Tuy nhiên, đáp ứng miễn dịch với các kháng nguyên khối u khác nhau và thường không đủ để ngăn chặn sự phát triển của khối u (xem thêm
+
+Đáp ứng của vật chủ đối với khối u
+
+).
+
+Các kháng nguyên liên quan đến khối u
+
+(TAA) đặc hiệu tương đối với tế bào u.
+
+Các kháng nguyên đặc hiệu của khối u
+
+(TSA) là duy nhất chỉ có ở các tế bào u.
+
+TSA và TAA thường là một phần của các phân tử nội bào được biểu hiện trên bề mặt tế bào, thường liên quan đến các phân tử được mã hóa bởi phức hợp tương hợp mô chính hoặc gen
+
+kháng nguyên bạch cầu người
+
+(HLA). Tuy nhiên, một số kháng nguyên có biểu hiện chọn lọc trên bề mặt tế bào khối u không liên quan đến phức hợp tương hợp mô học chính và có thể là ứng cử viên cho mục tiêu điều trị. Những ví dụ bao gồm
+
+Mesothelin biểu hiện quá mức trên các tế bào khối u khác nhau cũng như trong các tế bào trung biểu mô bình thường
+
+Claudin 18,2, được biểu hiện trong một tỷ lệ đáng kể các bệnh ung thư dạ dày cũng như tỷ lệ các khối u tuyến tụy, thực quản, buồng trứng và phổi.
+
+Các cơ chế đã được đưa ra về nguồn gốc của các kháng nguyên ung thư bao gồm:
+
+Sự xuất hiện các thông tin di truyền mới từ vi rút (ví dụ: các protein E6 và E7 của vi rút gây u nhú ở người trong ung thư cổ tử cung)
+
+Sự biến đổi trong các oncogen hoặc gen ức chế khối u do chất gây ung thư gây ra, dẫn đến sự hình thành các tân kháng nguyên (chuỗi protein mới hoặc tình trạng tích tụ các protein thường không được biểu hiện hoặc được biểu hiện ở mức rất thấp, chẳng hạn như ras hoặc p53), bằng cách tạo ra chuỗi protein mới trực tiếp hoặc bằng cách gây ra tình trạng tích tụ các protein này
+
+Đột biến ở nhiều gen khác nhau không liên quan trực tiếp đến chất ức chế khối u hoặc gen gây ung thư và gây ra sự xuất hiện của các tân kháng nguyên đặc hiệu khối u trên bề mặt tế bào
+
+Nồng độ cao bất thường các protein mà bình thường chỉ biểu hiện ở mức độ thấp hơn đáng kể (ví dụ như các kháng nguyên đặc hiệu tuyến tiền liệt, các kháng nguyên có liên quan đến ung thư hắc tố) hoặc chỉ biểu hiện trong quá trình phát triển phôi (kháng nguyên ung thư phôi thai).
+
+Sự bộc lộ kháng nguyên bình thường được che phủ bởi màng tế bào do khiếm khuyêt sự cân bằng nội mô màng tế bào trong các tế bào khối u.
+
+Sự giải phóng các kháng nguyên bình thường bị giữ trong tế bào hoặc bào quan khi tế bào u chết.
+
+Một số bằng chứng liên kết đáp ứng miễn dịch ở bệnh nhân ung thư với các đột biến trong tế bào khối u (
+
+1, 2, 3
+
+).
+
+Tài liệu tham khảo
+
+1.
+
+Ding L, Chen F
+
+: Predicting tumor response to PD-1 blockade.
+
+N Engl J Med
+
+381(5):477–479, 2019. doi: 10.1056/NEJMcibr1906340
+
+2.
+
+Snyder A, Makarov V, Merghoub T, et al
+
+: Genetic basis for clinical response to CTLA-4 blockade in melanoma.
+
+N Engl J Med
+
+37:2189–2199, 2014. doi: 10.1056/NEJMoa1406498
+
+3.
+
+Van Allen EM, Miao D, Schilling B, et al
+
+: Genomic correlates of response to CTLA-4 blocker in metastatic melanoma.
+
+Science
+
+350:207–211, 2015. doi: 10.1126/science.aad0095
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

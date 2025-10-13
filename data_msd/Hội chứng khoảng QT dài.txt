@@ -1,0 +1,627 @@
+TIÊU ĐỀ: Hội chứng khoảng QT dài
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-ở-tim-do-loạn-sản-thất-phải/hội-chứng-khoảng-qt-dài
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng khoảng QT dài
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2024
+
+|
+
+đã sửa đổi
+
+Thg 1 2025
+
+v75228887_vi
+
+Hội chứng khoảng QT dài (LQTS) là kết quả của bất kỳ rối loạn bẩm sinh hoặc do mắc phải nào về chức năng hoặc điều hòa kênh ion của tim (bệnh lý kênh ion) làm kéo dài thời gian điện thế hoạt động của tế bào cơ tâm thất được phản ánh bằng kéo dài khoảng QT được điều chỉnh theo nhịp tim trên ECG. Bệnh nhân có nguy cơ bị xoắn đỉnh nhịp nhanh thất đa hình, có thể ngừng tự phát hoặc suy biến thành rung thất. Chẩn đoán dựa trên các tiêu chuẩn lâm sàng và ECG, đôi khi bằng nghiệm pháp gắng sức và/hoặc nghiệm pháp kích thích. Điều trị là tránh các tác nhân kích thích, phong bế beta và đôi khi là máy khử rung tim cấy ghép vào cơ thể.
+
+Sinh lý bệnh
+
+|
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+và
+
+Tổng quan về bệnh kênh ion
+
+.)
+
+Hội chứng khoảng QT dài có thể do mắc phải, bẩm sinh hoặc cả hai. (Để thảo luận về các nguyên nhân mắc phải, xem
+
+Nhịp tim nhanh thất xoắn đỉnh
+
+). Tỷ lệ mắc LQTS bẩm sinh là khoảng 1 vào năm 2000 (
+
+1
+
+) và là nguyên nhân của khoảng 15% số trường hợp ngừng tim không rõ nguyên nhân sau khi đánh giá lâm sàng bao gồm và ECG, siêu âm tim và loại trừ bệnh động mạch vành (
+
+2
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Schwartz PJ, Stramba-Badiale M, Crotti L, et al
+
+: Prevalence of the congenital long-QT syndrome.
+
+Circulation
+
+120(18):1761–1767, 2009 doi:10.1161/CIRCULATIONAHA.109.863209
+
+2.
+
+Krahn AD, Healey JS, Chauhan V, et al
+
+: Systematic assessment of patients with unexplained cardiac arrest: Cardiac Arrest Survivors With Preserved Ejection Fraction Registry (CASPER).
+
+Circulation
+
+120(4):278–285, 2009 doi: 10.1161/CIRCULATIONAHA.109.853143
+
+Sinh lý bệnh của hội chứng khoảng QT dài
+
+Hội chứng khoảng QT dài bẩm sinh là kết quả của các rối loạn di truyền về chức năng hoặc điều hòa kênh ion của tim (bệnh kênh ion) làm kéo dài thời gian điện thế hoạt động của tế bào cơ tâm thất được phản ánh bằng kéo dài khoảng QT được điều chỉnh theo nhịp tim trên ECG (QTc, thường được tính bằng công thức của Bazett).
+
+Công cụ tính toán lâm sàng
+
+Hiệu chỉnh khoảng QT (Điện tâm đồ)
+
+Rối loạn chức năng có thể liên quan đến
+
+Mất chức năng tái phân cực các kênh dòng kali
+
+HOẶC
+
+Đạt chức năng khử cực kênh ion dòng natri hoặc khử cực kênh ion dòng canxi
+
+Kéo dài điện thế hoạt động làm tăng khả năng dao động điện thế xuyên màng xảy ra trong quá trình điện thế hoạt động tế bào cơ khử cực (sau khử cực sớm). Nếu khoảng thời gian điện thế hoạt động của các tế bào cơ ở một vùng cục bộ thay đổi, những dao động này có thể kích hoạt lại các tế bào cơ lân cận đã tái cực và do đó tạo ra
+
+nhịp nhanh thất xoắn đỉnh
+
+(TdeP VT). Nguy cơ bị TdeP VT phụ thuộc vào mức độ kéo dài QTc, đặc biệt nếu nó > 0,50 giây (
+
+1
+
+).
+
+LQTS (đặc biệt là LQTS3) cũng có thể gây
+
+rung nhĩ
+
+kịch phát.
+
+Các yếu tố gây loạn nhịp tim
+
+Sự xuất hiện của TdeP VT được tạo điều kiện bởi bất kỳ tình trạng nào kéo dài hơn nữa thời gian điện thế hoạt động, bao gồm giới tính nữ, nhịp tim chậm,
+
+hạ kali máu
+
+,
+
+hạ magie máu
+
+và
+
+suy giáp
+
+. Các yếu tố nguy cơ khác bao gồm nhịp thất chậm hoặc không đều, tai biến nội sọ cấp tính (ví dụ: chảy máu,
+
+đột quỵ
+
+,
+
+chấn thương sọ não
+
+),
+
+rối loạn ăn uống
+
+,
+
+ngộ độc organophosphate
+
+và bệnh tim cấu trúc (đặc biệt là thiếu máu cục bộ cấp tính,
+
+viêm cơ tim
+
+và phì đại tâm thất). Nhiều loại thuốc là yếu tố nguy cơ, đặc biệt là thuốc chống loạn nhịp nhóm Ia, Ic và III, cũng như các loại thuốc khác, bao gồm thuốc chống trầm cảm ba vòng, phenothiazin và một số thuốc chống vi rút và thuốc chống nấm (xem
+
+CredibleMeds
+
+để biết thông tin cập nhật). Thông thường, một vài trong số các yếu tố này hiện diện (
+
+2
+
+).
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Sauer AJ, Moss AJ, McNitt S, et al
+
+: Long QT syndrome in adults.
+
+J Am Coll Cardiol
+
+49(3):329–337, 2007 doi: 10.1016/j.jacc.2006.08.057
+
+2.
+
+Roden DM
+
+: Long QT syndrome: reduced repolarization reserve and the genetic link.
+
+J Intern Med
+
+259(1):59–69, 2006 doi: 10.1111/j.1365-2796.2005.01589.x
+
+Căn nguyên của hội chứng khoảng QT dài
+
+Hội chứng khoảng QT dài được phân loại dựa trên gen đặc hiệu đã bị đột biến. Tuy nhiên, một bất thường di truyền cụ thể chỉ được xác định trong 70% đến 85% số trường hợp (
+
+1
+
+); khả năng phát hiện sự bất thường khác nhau tùy thuộc vào các yếu tố lâm sàng hiện tại.
+
+Hơn 15 dạng LQTS đã được mô tả, nhưng hầu hết các trường hợp rơi vào 3 nhóm nhỏ:
+
+Hội chứng QT dài loại 1 (LQTS1): Đột biến mất chức năng của gen
+
+KCNQ1,
+
+mã hóa kênh Kv7.1 nhạy cảm với adrenergic chịu trách nhiệm cho dòng kali ra ngoài chậm (IK)
+
+Hội chứng QT dài loại 2 (LQTS2): Đột biến mất chức năng của gen
+
+KCNH2
+
+, mã hóa kênh herg chịu trách nhiệm cho dòng kali ra ngoài nhanh chóng (IKr)
+
+Hội chứng QT dài loại 3 (LQTS3): Đột biến tăng cường chức năng của gen
+
+SCN5A
+
+, mã hóa kênh Nav1.5 chịu trách nhiệm cho dòng natri đi vào (INa).
+
+Phần lớn các trường hợp là LQTS1, LQTS2 hoặc LQTS3. 3 dạng này được di truyền dưới dạng rối loạn gen trội trên nhiễm sắc thể thường với mức độ xâm nhập không hoàn toàn.
+
+Các dạng LQTS hiếm gặp với các đặc điểm lâm sàng bổ sung đã được mô tả bao gồm hội chứng Jervell và Lange Nielsen (với bệnh điếc bẩm sinh do thần kinh), hội chứng Andersen-Tawil (kem theo tê liệt theo chu kỳ và rối loạn hình thái sọ mặt) và hội chứng Timothy (kèm theo các rối loạn hình thái sọ mặt, suy giảm miễn dịch, bệnh tim bẩm sinh, chậm phát triển và tật dính ngón).
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Wilde AAM, Semsarian C, Márquez MF, et al
+
+: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.
+
+J Arrhythm
+
+38(4):491–553, 2022 doi: 10.1002/joa3.12717
+
+Các triệu chứng và dấu hiệu của hội chứng khoảng QT dài
+
+Hội chứng khoảng QT dài không có triệu chứng trừ khi nhịp nhanh thất xoắn đỉnh xảy ra, có thể gây đánh trống ngực, gần ngất hoặc ngất. Một số bệnh nhân bị giật cơ trong khi ngất; họ có thể chẩn đoán sai bệnh động kinh đang được kiếm tìm. Vì thời gian điện thế hoạt động của tâm thất giảm khi nhịp tim tăng, nhịp nhanh thất xoắn đỉnh thường tự chấm dứt. Tuy nhiên, nó có thể thoái hóa thành rung tâm thất, gây ngừng tim và đột tử. Ở những bệnh nhân bị LQTS, có nguy cơ 5 năm bị đợt loạn nhịp tim đe dọa tính mạng đầu tiên trong khoảng từ 0,3% đến 17% (
+
+1
+
+). Các yếu tố dự báo bao gồm
+
+Tuổi
+
+Giới
+
+Sử dụng liệu pháp thuốc chẹn beta (có hoặc không)
+
+Ngất (không có, trong khi không điều trị bằng thuốc chẹn beta, hoặc trong khi điều trị bằng thuốc chẹn beta)
+
+Khoảng QTc
+
+Kiểu gen (nếu có; cao hơn ở LQTS2 và LQTS3 so với LQTS-1)
+
+Có công cụ tính nguy cơ trực tuyến dành cho những bệnh nhân chưa bị loạn nhịp tim đe dọa tính mạng (
+
+1
+
+).
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+Wang M, Peterson DR, Pagan E, et al
+
+: Assessment of absolute risk of life-threatening cardiac events in long QT syndrome patients.
+
+Front Cardiovasc Med
+
+2022;9:988951. Xuất bản ngày 7 tháng 10 năm 2022. doi:10.3389/fcvm.2022.988951
+
+Chẩn đoán hội chứng khoảng QT dài
+
+Đặc điểm lâm sàng và các biểu hiện trên điện tâm đồ
+
+Đôi khi là nghiệm pháp gắng sức
+
+Đôi khi là theo dõi ECG lưu động
+
+Đôi khi là nghiệm pháp kích thích bằng các sử dụng epinephrine hoặc isoproterenol đường tĩnh mạch
+
+Thường xét nghiệm di truyền
+
+Sàng lọc người có cùng huyết thống
+
+Chẩn đoán cần phải được nghĩ đến trên những bệnh nhân bị ngừng tim hoặc ngất không rõ nguyên nhân hoặc tiền sử gia đình như vậy khi những người bị bệnh không có bệnh tim do cấu trúc. Nó cũng nên được nghĩ đến ở những người được phát hiện có khoảng QT dài khi làm ECG vì những lý do khác.
+
+Khoảng QT dài được chẩn đoán bằng ECG cho thấy kéo dài khoảng QT hiệu chỉnh theo nhịp tim (QTc). Giá trị QTc bình thường là
+
+<
+
+0,43 giây đối với nam và
+
+<
+
+0,45 giây đối với nữ và được coi là kéo dài khi > 0,45 giây đối với nam hoặc > 0,47 giây đối với nữ (
+
+1
+
+).
+
+Tuy nhiên, do có nhiều yếu tố ảnh hưởng đến QTc, QTc bình thường không loại trừ chẩn đoán. Tuy nhiên, tại thời điểm nhịp nhanh thất xoắn đỉnh, QTc về cơ bản luôn bị kéo dài.
+
+Khi một bệnh nhân có khoảng QT kéo dài đáng kể và ghi nhận
+
+nhịp nhanh thất xoắn đỉnh
+
+mà không có nguyên nhân nào khác gây ra khoảng QT kéo dài, chẩn đoán hội chứng khoảng QT dài bẩm sinh được thiết lập. Bệnh nhân có khoảng QT giới hạn nghi ngờ bị hội chứng khoảng QT dài cần phải được làm nghiệm pháp gắng sức, vì một số bất thường chỉ xuất hiện khi gắng sức. Theo dõi điện tâm đồ lưu động cũng có thể tiết lộ những bất thường về tái cực tâm thất thoáng qua. Ở những bệnh nhân có khoảng QTc bình thường, nghiệm pháp kích thích bằng isoproterenol hoặc epinephrine đường tĩnh mạch có thể tiết lộ một khoảng QTc dài bị che giấu và cần phải được nghĩ đến trên những bệnh nhân có xác suất bị hội chứng khoảng QT dài bẩm sinh ở mức trung bình.
+
+Vì không phải tất cả bệnh nhân có khoảng QT dài đều mắc hội chứng QT dài bẩm sinh và vì không phải tất cả bệnh nhân mắc hội chứng QT dài bẩm sinh đều có khoảng QT dài trên bất kỳ ECG cụ thể nào,
+
+thang điểm Schwartz
+
+đã được phát triển để ước tính xác suất xảy ra hội chứng khoảng QT dài bẩm sinh (xem bảng
+
+Thang điểm Schwartz
+
+để biết Hội chứng QT kéo dài). Xác suất được ước tính là thấp, trung bình hoặc cao dựa trên các tiêu chuẩn lâm sàng, ECG và nghiệm pháp gắng sức, với điều kiện là bệnh nhân hiện không tiếp xúc với bất kỳ nguyên nhân môi trường nào gây kéo dài khoảng QT. Điểm số có thể được sử dụng để thiết lập ứng cử viên cho xét nghiệm di truyền, việc này có thể tốn thời gian và tốn kém do có nhiều biến thể gen sẽ được xét nghiệm. Những bệnh nhân có xác suất bị hội chứng khoảng QT dài bẩm sinh thấp không cần xét nghiệm di truyền, nhưng những bệnh nhân có xác suất trung bình hoặc cao thì cần. Những bệnh nhân có xác suất cao không có bất thường về di truyền được phát hiện có thể được coi là đại diện cho một trong 15% đến 30% số bệnh nhân có đột biến không xác định được. Những bệnh nhân có xác suất trung bình là âm tính đột biến gen được theo dõi chặt chẽ bằng các kiểm tra điện tâm đồ lặp lại bao gồm ECG, theo dõi tim cấp cứu và nghiệm pháp gắng sức. (
+
+2, 3
+
+).
+
+Bảng
+
+Thang điểm Schwartz dành cho Hội chứng QT dài (LQTS)*
+
+Bảng
+
+Thang điểm Schwartz dành cho Hội chứng QT dài (LQTS)*
+
+Thang điểm Schwartz dành cho Hội chứng QT dài (LQTS)*
+
+TIÊU CHUẨN
+
+ĐIỂM
+
+Tiền sử bệnh nhân
+
+Ngất khi có căng thẳng†
+
+2
+
+Ngất không có căng thẳng†
+
+1
+
+Điếc bẩm sinh
+
+0,5
+
+Tiền sử gia đình
+
+Thành viên gia đình bị hội chứng khoảng QT dài đã biết‡
+
+1
+
+Thành viên gia đình bị tử vong do tim không rõ nguyên nhân trước 30 tuổi ‡
+
+0,5
+
+Điện tâm đồ§
+
+QTc ≥ 480 mili giây
+
+3
+
+QTc 460-479 mili giây
+
+2
+
+QTc 450-459 mili giây (chỉ dành cho nam)
+
+1
+
+QTc ≥ 480 mili giây trong phút phục hồi thứ 4 sau nghiệm pháp gắng sức
+
+1
+
+Loạn nhịp xoắn đỉnh§
+
+2
+
+Thay đổi luân phiên sóng T
+
+1
+
+Sóng T có khía ở 3 chuyển đạo
+
+1
+
+Nhịp tim khi nghỉ ngơi < bách phân vị thứ 2 theo tuổi
+
+0,5
+
+* ĐIỂM SỐ: ≤ 1 xác suất thấp; xác suất trung bình 1,5–3; ≥ 3,5 xác suất cao
+
+† Loại trừ lẫn nhau (nghĩa là nếu ngất xảy ra khi có căng thẳng, thì không có điểm nào cho ngất không có căng thẳng)
+
+‡ Loại trừ lẫn nhau
+
+§ Nếu xuất hiện xoắn đỉnh, không cho điểm ngất
+
+Dữ liệu từ
+
+Schwartz PJ, Crotti L
+
+: QTc behavior during exercise and genetic testing for the long-QT syndrome.
+
+Circulation
+
+124:2181–2184, 2011 doi: 10.1161/CIRCULATIONAHA.111.062182
+
+* ĐIỂM SỐ: ≤ 1 xác suất thấp; xác suất trung bình 1,5–3; ≥ 3,5 xác suất cao
+
+† Loại trừ lẫn nhau (nghĩa là nếu ngất xảy ra khi có căng thẳng, thì không có điểm nào cho ngất không có căng thẳng)
+
+‡ Loại trừ lẫn nhau
+
+§ Nếu xuất hiện xoắn đỉnh, không cho điểm ngất
+
+Dữ liệu từ
+
+Schwartz PJ, Crotti L
+
+: QTc behavior during exercise and genetic testing for the long-QT syndrome.
+
+Circulation
+
+124:2181–2184, 2011 doi: 10.1161/CIRCULATIONAHA.111.062182
+
+Các thành viên gia đình có quan hệ huyết thống bậc một
+
+của bệnh nhân số 0 cần phải được đánh giá lâm sàng (tức là để phát hiện các triệu chứng gợi ý loạn nhịp tim) và ECG. Sau đó, các thành viên gia đình có quan hệ huyết thống bậc một của bất kỳ bệnh nhân mới được xác định nào cũng cần thực hiện đánh giá tương tự (sàng lọc theo tầng). Xét nghiệm di truyền được thực hiện khi bệnh nhân số 0 có đột biến đã biết. Nghiệm pháp gắng sức được thực hiện khi kết quả có thể thay đổi kết quả xác suất điểm Schwartz.
+
+Một số dạng hội chứng khoảng QT dài có liên quan nhiều hơn đến một số yếu tố gây khởi phát nhất định so với những dạng khác.
+
+LQTS1: Căng thẳng về thể chất, đặc biệt là bơi lội hoặc căng thẳng về cảm xúc
+
+LQTS2: Những tiếng động lớn đột ngột như đồng hồ báo thức
+
+LQTS3: Sleep
+
+Một số dạng hội chứng khoảng QT dài cũng liên quan đến các dạng ECG cụ thể
+
+LQTS1: Sóng T rộng
+
+LQTS2: Sóng T điện áp thấp, tách đôi
+
+LQTS3: Đoạn ST dài với sóng T xuất hiện bình thường
+
+Tuy nhiên, cả yếu tố gây khởi phát và các dấu hiệu trên ECG đều không cụ thể và không nên sử dụng các yếu tố đó để xác nhận loại hoặc xét nghiệm di truyền trực tiếp.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Goldenberg I, Moss AJ, Zareba W
+
+:  QT interval: how to measure it and what is "normal".
+
+J Cardiovasc Electrophysiol
+
+2006 Mar;17(3):333-6. doi: 10.1111/j.1540-8167.2006.00408.x
+
+2.
+
+Schwartz PJ, Moss AJ, Vincent GM, Crampton RS
+
+: Diagnostic criteria for the long QT syndrome: an update.
+
+Circulation
+
+88:782–784, 1993 doi: 10.1161/01.cir.88.2.782
+
+3.
+
+Schwartz PJ, Crotti L
+
+: QTc behavior during exercise and genetic testing for the long-QT syndrome.
+
+Circulation
+
+124:2181–2184, 2011 doi: 10.1161/CIRCULATIONAHA.111.062182
+
+Điều trị hội chứng khoảng QT dài
+
+Điều trị bất kỳ nhịp nhanh thất/rung thất nào
+
+Giảm bớt các nguyên nhân và tác nhân gây bệnh, đặc biệt là các bất thường về chất điện giải và sử dụng một số loại thuốc
+
+Thông thường là phong bế beta
+
+Đôi khi là mexiletine
+
+Đôi khi là đặt ICD
+
+Hiếm khi cắt bỏ dây thần kinh giao cảm tim trái
+
+Chi tiết về
+
+điều trị nhịp nhanh thất xoắn đỉnh
+
+được thảo luận ở phần khác nhưng bao gồm chuyển nhịp đối với VF do xoắn và magie sulfat đường tĩnh mạch. Bệnh nhân có nhịp nhanh thất xoắn đỉnh thường xuyên hoặc kéo dài có thể được hưởng lợi từ việc điều trị rút ngắn khoảng QT bằng cách tăng nhịp tim bằng cách tạo nhịp tạm thời. Không giống như xoắn đỉnh mắc phải do thuốc, liệu pháp điều trị bằng thuốc đường tĩnh mạch cấp tính là thuốc chẹn beta đường tĩnh mạch thay vì isoproterenol đường tĩnh mạch.
+
+Điều trị lâu dài để ngăn ngừa đột tử bao gồm tránh các tác nhân gây khởi phát cụ thể (bao gồm tập thể dục gắng sức trong LQTS1 và LQTS2) và các tình trạng bệnh làm kéo dài QTc. Khi có thể, các bác sĩ lâm sàng nên ngừng bất kỳ loại thuốc có khuynh hướng gây khởi phát nào và kê đơn các loại thuốc thay thế (xem
+
+CredibleMeds
+
+để biết thông tin cập nhật). Bệnh nhân, đặc biệt là những người không chấp nhận các hạn chế tập thể dục, nên được tư vấn về việc cần phải có các biện pháp phòng ngừa thích hợp (ví dụ: khả năng sẵn có của máy khử rung tim tự động bên ngoài trong khi tập luyện và thi đấu).
+
+Liệu pháp chẹn beta được khuyến nghị cho hầu hết bệnh nhân có LQTS với khoảng QT kéo dài hoặc những người có triệu chứng (hiệu quả nhất với LQTS1 hoặc LQTS2). Khi sử dụng thuốc chẹn beta, thuốc chẹn beta tác dụng kéo dài không có hoạt tính giao cảm nội tại (ví dụ, nadolol, propranolol giải phóng chậm) được ưu tiên hơn. Khi liệu pháp chẹn beta không hiệu quả trong việc làm giảm các triệu chứng, mexiletine được thêm vào (hiệu quả nhất trong LQTS3).
+
+Tạo nhịp vĩnh viễn để tăng nhịp thất cơ bản và để ngăn chặn các khoảng dừng sau ngoại tâm thu có thể làm giảm khả năng nhịp nhanh thất xoắn đỉnh tái phát.
+
+Máy khử rung tim cấy ghép vào cơ thể
+
+(ICD) được chỉ định cho những bệnh nhân đã được hồi sức sau khi ngừng tim và ở những người bị ngất do tim mặc dù đã điều trị bằng thuốc chẹn beta (xem bảng
+
+Chỉ định đặt máy khử rung tim cấy ghép vào cơ thể trong nhịp nhanh thất và rung thất
+
+).
+
+Cũng có thể sử dụng cách tháo dây thần kinh tim trái (hạch sao) (
+
+1
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Savastano S, Schwartz PJ
+
+: Blocking nerves and saving lives: Left stellate ganglion block for electrical storms.
+
+Heart Rhythm
+
+20(7):1039–1047, 2023 doi: 10.1016/j.hrthm.2022.11.025
+
+Những điểm chính
+
+Hội chứng khoảng QT kéo dài bẩm sinh có thể gây ra nhịp nhanh thất xoắn đỉnh, rung thất và đột tử.
+
+Nhiều yếu tố, đặc biệt là việc sử dụng một số loại thuốc, làm tăng nguy cơ rối loạn nhịp thất.
+
+Chẩn đoán dựa trên sự kết hợp của các tiêu chuẩn lâm sàng và điện tâm đồ, bao gồm cả gắng sức và đôi khi là nghiệm pháp kích thích.
+
+Xét nghiệm di truyền được thực hiện trên những bệnh nhân được chọn.
+
+Các thành viên trong gia đình cần phải được sàng lọc.
+
+Xử trí lâu dài bao gồm tránh các yếu tố kích hoạt, sử dụng thuốc chẹn beta, mexiletine, tạo nhịp vĩnh viễn, máy khử rung tim cấy ghép vào cơ thể hoặc cắt bỏ hạch sao.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của hội chứng khoảng QT dài ---
+
+Hội chứng khoảng QT dài bẩm sinh là kết quả của các rối loạn di truyền về chức năng hoặc điều hòa kênh ion của tim (bệnh kênh ion) làm kéo dài thời gian điện thế hoạt động của tế bào cơ tâm thất được phản ánh bằng kéo dài khoảng QT được điều chỉnh theo nhịp tim trên ECG (QTc, thường được tính bằng công thức của Bazett).Công cụ tính toán lâm sàngHiệu chỉnh khoảng QT (Điện tâm đồ)Rối loạn chức năng có thể liên quan đếnMất chức năng tái phân cực các kênh dòng kaliHOẶCĐạt chức năng khử cực kênh ion dòng natri hoặc khử cực kênh ion dòng canxiKéo dài điện thế hoạt động làm tăng khả năng dao động điện thế xuyên màng xảy ra trong quá trình điện thế hoạt động tế bào cơ khử cực (sau khử cực sớm). Nếu khoảng thời gian điện thế hoạt động của các tế bào cơ ở một vùng cục bộ thay đổi, những dao động này có thể kích hoạt lại các tế bào cơ lân cận đã tái cực và do đó tạo ranhịp nhanh thất xoắn đỉnh(TdeP VT). Nguy cơ bị TdeP VT phụ thuộc vào mức độ kéo dài QTc, đặc biệt nếu nó > 0,50 giây (1).LQTS (đặc biệt là LQTS3) cũng có thể gâyrung nhĩkịch phát.Các yếu tố gây loạn nhịp timSự xuất hiện của TdeP VT được tạo điều kiện bởi bất kỳ tình trạng nào kéo dài hơn nữa thời gian điện thế hoạt động, bao gồm giới tính nữ, nhịp tim chậm,hạ kali máu,hạ magie máuvàsuy giáp. Các yếu tố nguy cơ khác bao gồm nhịp thất chậm hoặc không đều, tai biến nội sọ cấp tính (ví dụ: chảy máu,đột quỵ,chấn thương sọ não),rối loạn ăn uống,ngộ độc organophosphatevà bệnh tim cấu trúc (đặc biệt là thiếu máu cục bộ cấp tính,viêm cơ timvà phì đại tâm thất). Nhiều loại thuốc là yếu tố nguy cơ, đặc biệt là thuốc chống loạn nhịp nhóm Ia, Ic và III, cũng như các loại thuốc khác, bao gồm thuốc chống trầm cảm ba vòng, phenothiazin và một số thuốc chống vi rút và thuốc chống nấm (xemCredibleMedsđể biết thông tin cập nhật). Thông thường, một vài trong số các yếu tố này hiện diện (2).Tài liệu tham khảo sinh bệnh học1.Sauer AJ, Moss AJ, McNitt S, et al: Long QT syndrome in adults.J Am Coll Cardiol49(3):329–337, 2007 doi: 10.1016/j.jacc.2006.08.0572.Roden DM: Long QT syndrome: reduced repolarization reserve and the genetic link.J Intern Med259(1):59–69, 2006 doi: 10.1111/j.1365-2796.2005.01589.x
+
+--- 2. Căn nguyên của hội chứng khoảng QT dài ---
+
+Hội chứng khoảng QT dài được phân loại dựa trên gen đặc hiệu đã bị đột biến. Tuy nhiên, một bất thường di truyền cụ thể chỉ được xác định trong 70% đến 85% số trường hợp (1); khả năng phát hiện sự bất thường khác nhau tùy thuộc vào các yếu tố lâm sàng hiện tại.Hơn 15 dạng LQTS đã được mô tả, nhưng hầu hết các trường hợp rơi vào 3 nhóm nhỏ:Hội chứng QT dài loại 1 (LQTS1): Đột biến mất chức năng của genKCNQ1,mã hóa kênh Kv7.1 nhạy cảm với adrenergic chịu trách nhiệm cho dòng kali ra ngoài chậm (IK)Hội chứng QT dài loại 2 (LQTS2): Đột biến mất chức năng của genKCNH2, mã hóa kênh herg chịu trách nhiệm cho dòng kali ra ngoài nhanh chóng (IKr)Hội chứng QT dài loại 3 (LQTS3): Đột biến tăng cường chức năng của genSCN5A, mã hóa kênh Nav1.5 chịu trách nhiệm cho dòng natri đi vào (INa).Phần lớn các trường hợp là LQTS1, LQTS2 hoặc LQTS3. 3 dạng này được di truyền dưới dạng rối loạn gen trội trên nhiễm sắc thể thường với mức độ xâm nhập không hoàn toàn.Các dạng LQTS hiếm gặp với các đặc điểm lâm sàng bổ sung đã được mô tả bao gồm hội chứng Jervell và Lange Nielsen (với bệnh điếc bẩm sinh do thần kinh), hội chứng Andersen-Tawil (kem theo tê liệt theo chu kỳ và rối loạn hình thái sọ mặt) và hội chứng Timothy (kèm theo các rối loạn hình thái sọ mặt, suy giảm miễn dịch, bệnh tim bẩm sinh, chậm phát triển và tật dính ngón).Tài liệu tham khảo nguyên nhân gây bệnh1.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022 doi: 10.1002/joa3.12717
+
+--- 3. Các triệu chứng và dấu hiệu của hội chứng khoảng QT dài ---
+
+Hội chứng khoảng QT dài không có triệu chứng trừ khi nhịp nhanh thất xoắn đỉnh xảy ra, có thể gây đánh trống ngực, gần ngất hoặc ngất. Một số bệnh nhân bị giật cơ trong khi ngất; họ có thể chẩn đoán sai bệnh động kinh đang được kiếm tìm. Vì thời gian điện thế hoạt động của tâm thất giảm khi nhịp tim tăng, nhịp nhanh thất xoắn đỉnh thường tự chấm dứt. Tuy nhiên, nó có thể thoái hóa thành rung tâm thất, gây ngừng tim và đột tử. Ở những bệnh nhân bị LQTS, có nguy cơ 5 năm bị đợt loạn nhịp tim đe dọa tính mạng đầu tiên trong khoảng từ 0,3% đến 17% (1). Các yếu tố dự báo bao gồmTuổiGiớiSử dụng liệu pháp thuốc chẹn beta (có hoặc không)Ngất (không có, trong khi không điều trị bằng thuốc chẹn beta, hoặc trong khi điều trị bằng thuốc chẹn beta)Khoảng QTcKiểu gen (nếu có; cao hơn ở LQTS2 và LQTS3 so với LQTS-1)Có công cụ tính nguy cơ trực tuyến dành cho những bệnh nhân chưa bị loạn nhịp tim đe dọa tính mạng (1).Tài liệu tham khảo về các triệu chứng và dấu hiệu1.Wang M, Peterson DR, Pagan E, et al: Assessment of absolute risk of life-threatening cardiac events in long QT syndrome patients.Front Cardiovasc Med2022;9:988951. Xuất bản ngày 7 tháng 10 năm 2022. doi:10.3389/fcvm.2022.988951
+
+--- 4. Chẩn đoán hội chứng khoảng QT dài ---
+
+Đặc điểm lâm sàng và các biểu hiện trên điện tâm đồĐôi khi là nghiệm pháp gắng sứcĐôi khi là theo dõi ECG lưu độngĐôi khi là nghiệm pháp kích thích bằng các sử dụng epinephrine hoặc isoproterenol đường tĩnh mạchThường xét nghiệm di truyềnSàng lọc người có cùng huyết thốngChẩn đoán cần phải được nghĩ đến trên những bệnh nhân bị ngừng tim hoặc ngất không rõ nguyên nhân hoặc tiền sử gia đình như vậy khi những người bị bệnh không có bệnh tim do cấu trúc. Nó cũng nên được nghĩ đến ở những người được phát hiện có khoảng QT dài khi làm ECG vì những lý do khác.Khoảng QT dài được chẩn đoán bằng ECG cho thấy kéo dài khoảng QT hiệu chỉnh theo nhịp tim (QTc). Giá trị QTc bình thường là<0,43 giây đối với nam và<0,45 giây đối với nữ và được coi là kéo dài khi > 0,45 giây đối với nam hoặc > 0,47 giây đối với nữ (1).Tuy nhiên, do có nhiều yếu tố ảnh hưởng đến QTc, QTc bình thường không loại trừ chẩn đoán. Tuy nhiên, tại thời điểm nhịp nhanh thất xoắn đỉnh, QTc về cơ bản luôn bị kéo dài.Khi một bệnh nhân có khoảng QT kéo dài đáng kể và ghi nhậnnhịp nhanh thất xoắn đỉnhmà không có nguyên nhân nào khác gây ra khoảng QT kéo dài, chẩn đoán hội chứng khoảng QT dài bẩm sinh được thiết lập. Bệnh nhân có khoảng QT giới hạn nghi ngờ bị hội chứng khoảng QT dài cần phải được làm nghiệm pháp gắng sức, vì một số bất thường chỉ xuất hiện khi gắng sức. Theo dõi điện tâm đồ lưu động cũng có thể tiết lộ những bất thường về tái cực tâm thất thoáng qua. Ở những bệnh nhân có khoảng QTc bình thường, nghiệm pháp kích thích bằng isoproterenol hoặc epinephrine đường tĩnh mạch có thể tiết lộ một khoảng QTc dài bị che giấu và cần phải được nghĩ đến trên những bệnh nhân có xác suất bị hội chứng khoảng QT dài bẩm sinh ở mức trung bình.Vì không phải tất cả bệnh nhân có khoảng QT dài đều mắc hội chứng QT dài bẩm sinh và vì không phải tất cả bệnh nhân mắc hội chứng QT dài bẩm sinh đều có khoảng QT dài trên bất kỳ ECG cụ thể nào,thang điểm Schwartzđã được phát triển để ước tính xác suất xảy ra hội chứng khoảng QT dài bẩm sinh (xem bảngThang điểm Schwartzđể biết Hội chứng QT kéo dài). Xác suất được ước tính là thấp, trung bình hoặc cao dựa trên các tiêu chuẩn lâm sàng, ECG và nghiệm pháp gắng sức, với điều kiện là bệnh nhân hiện không tiếp xúc với bất kỳ nguyên nhân môi trường nào gây kéo dài khoảng QT. Điểm số có thể được sử dụng để thiết lập ứng cử viên cho xét nghiệm di truyền, việc này có thể tốn thời gian và tốn kém do có nhiều biến thể gen sẽ được xét nghiệm. Những bệnh nhân có xác suất bị hội chứng khoảng QT dài bẩm sinh thấp không cần xét nghiệm di truyền, nhưng những bệnh nhân có xác suất trung bình hoặc cao thì cần. Những bệnh nhân có xác suất cao không có bất thường về di truyền được phát hiện có thể được coi là đại diện cho một trong 15% đến 30% số bệnh nhân có đột biến không xác định được. Những bệnh nhân có xác suất trung bình là âm tính đột biến gen được theo dõi chặt chẽ bằng các kiểm tra điện tâm đồ lặp lại bao gồm ECG, theo dõi tim cấp cứu và nghiệm pháp gắng sức. (2, 3).BảngThang điểm Schwartz dành cho Hội chứng QT dài (LQTS)*BảngThang điểm Schwartz dành cho Hội chứng QT dài (LQTS)*Thang điểm Schwartz dành cho Hội chứng QT dài (LQTS)*TIÊU CHUẨNĐIỂMTiền sử bệnh nhânNgất khi có căng thẳng†2Ngất không có căng thẳng†1Điếc bẩm sinh0,5Tiền sử gia đìnhThành viên gia đình bị hội chứng khoảng QT dài đã biết‡1Thành viên gia đình bị tử vong do tim không rõ nguyên nhân trước 30 tuổi ‡0,5Điện tâm đồ§QTc ≥ 480 mili giây3QTc 460-479 mili giây2QTc 450-459 mili giây (chỉ dành cho nam)1QTc ≥ 480 mili giây trong phút phục hồi thứ 4 sau nghiệm pháp gắng sức1Loạn nhịp xoắn đỉnh§2Thay đổi luân phiên sóng T1Sóng T có khía ở 3 chuyển đạo1Nhịp tim khi nghỉ ngơi < bách phân vị thứ 2 theo tuổi0,5* ĐIỂM SỐ: ≤ 1 xác suất thấp; xác suất trung bình 1,5–3; ≥ 3,5 xác suất cao† Loại trừ lẫn nhau (nghĩa là nếu ngất xảy ra khi có căng thẳng, thì không có điểm nào cho ngất không có căng thẳng)‡ Loại trừ lẫn nhau§ Nếu xuất hiện xoắn đỉnh, không cho điểm ngấtDữ liệu từSchwartz PJ, Crotti L: QTc behavior during exercise and genetic testing for the long-QT syndrome.Circulation124:2181–2184, 2011 doi: 10.1161/CIRCULATIONAHA.111.062182* ĐIỂM SỐ: ≤ 1 xác suất thấp; xác suất trung bình 1,5–3; ≥ 3,5 xác suất cao† Loại trừ lẫn nhau (nghĩa là nếu ngất xảy ra khi có căng thẳng, thì không có điểm nào cho ngất không có căng thẳng)‡ Loại trừ lẫn nhau§ Nếu xuất hiện xoắn đỉnh, không cho điểm ngấtDữ liệu từSchwartz PJ, Crotti L: QTc behavior during exercise and genetic testing for the long-QT syndrome.Circulation124:2181–2184, 2011 doi: 10.1161/CIRCULATIONAHA.111.062182Các thành viên gia đình có quan hệ huyết thống bậc mộtcủa bệnh nhân số 0 cần phải được đánh giá lâm sàng (tức là để phát hiện các triệu chứng gợi ý loạn nhịp tim) và ECG. Sau đó, các thành viên gia đình có quan hệ huyết thống bậc một của bất kỳ bệnh nhân mới được xác định nào cũng cần thực hiện đánh giá tương tự (sàng lọc theo tầng). Xét nghiệm di truyền được thực hiện khi bệnh nhân số 0 có đột biến đã biết. Nghiệm pháp gắng sức được thực hiện khi kết quả có thể thay đổi kết quả xác suất điểm Schwartz.Một số dạng hội chứng khoảng QT dài có liên quan nhiều hơn đến một số yếu tố gây khởi phát nhất định so với những dạng khác.LQTS1: Căng thẳng về thể chất, đặc biệt là bơi lội hoặc căng thẳng về cảm xúcLQTS2: Những tiếng động lớn đột ngột như đồng hồ báo thứcLQTS3: SleepMột số dạng hội chứng khoảng QT dài cũng liên quan đến các dạng ECG cụ thểLQTS1: Sóng T rộngLQTS2: Sóng T điện áp thấp, tách đôiLQTS3: Đoạn ST dài với sóng T xuất hiện bình thườngTuy nhiên, cả yếu tố gây khởi phát và các dấu hiệu trên ECG đều không cụ thể và không nên sử dụng các yếu tố đó để xác nhận loại hoặc xét nghiệm di truyền trực tiếp.Tài liệu tham khảo chẩn đoán1.Goldenberg I, Moss AJ, Zareba W:  QT interval: how to measure it and what is "normal".J Cardiovasc Electrophysiol2006 Mar;17(3):333-6. doi: 10.1111/j.1540-8167.2006.00408.x2.Schwartz PJ, Moss AJ, Vincent GM, Crampton RS: Diagnostic criteria for the long QT syndrome: an update.Circulation88:782–784, 1993 doi: 10.1161/01.cir.88.2.7823.Schwartz PJ, Crotti L: QTc behavior during exercise and genetic testing for the long-QT syndrome.Circulation124:2181–2184, 2011 doi: 10.1161/CIRCULATIONAHA.111.062182
+
+--- 5. Điều trị hội chứng khoảng QT dài ---
+
+Điều trị bất kỳ nhịp nhanh thất/rung thất nàoGiảm bớt các nguyên nhân và tác nhân gây bệnh, đặc biệt là các bất thường về chất điện giải và sử dụng một số loại thuốcThông thường là phong bế betaĐôi khi là mexiletineĐôi khi là đặt ICDHiếm khi cắt bỏ dây thần kinh giao cảm tim tráiChi tiết vềđiều trị nhịp nhanh thất xoắn đỉnhđược thảo luận ở phần khác nhưng bao gồm chuyển nhịp đối với VF do xoắn và magie sulfat đường tĩnh mạch. Bệnh nhân có nhịp nhanh thất xoắn đỉnh thường xuyên hoặc kéo dài có thể được hưởng lợi từ việc điều trị rút ngắn khoảng QT bằng cách tăng nhịp tim bằng cách tạo nhịp tạm thời. Không giống như xoắn đỉnh mắc phải do thuốc, liệu pháp điều trị bằng thuốc đường tĩnh mạch cấp tính là thuốc chẹn beta đường tĩnh mạch thay vì isoproterenol đường tĩnh mạch.Điều trị lâu dài để ngăn ngừa đột tử bao gồm tránh các tác nhân gây khởi phát cụ thể (bao gồm tập thể dục gắng sức trong LQTS1 và LQTS2) và các tình trạng bệnh làm kéo dài QTc. Khi có thể, các bác sĩ lâm sàng nên ngừng bất kỳ loại thuốc có khuynh hướng gây khởi phát nào và kê đơn các loại thuốc thay thế (xemCredibleMedsđể biết thông tin cập nhật). Bệnh nhân, đặc biệt là những người không chấp nhận các hạn chế tập thể dục, nên được tư vấn về việc cần phải có các biện pháp phòng ngừa thích hợp (ví dụ: khả năng sẵn có của máy khử rung tim tự động bên ngoài trong khi tập luyện và thi đấu).Liệu pháp chẹn beta được khuyến nghị cho hầu hết bệnh nhân có LQTS với khoảng QT kéo dài hoặc những người có triệu chứng (hiệu quả nhất với LQTS1 hoặc LQTS2). Khi sử dụng thuốc chẹn beta, thuốc chẹn beta tác dụng kéo dài không có hoạt tính giao cảm nội tại (ví dụ, nadolol, propranolol giải phóng chậm) được ưu tiên hơn. Khi liệu pháp chẹn beta không hiệu quả trong việc làm giảm các triệu chứng, mexiletine được thêm vào (hiệu quả nhất trong LQTS3).Tạo nhịp vĩnh viễn để tăng nhịp thất cơ bản và để ngăn chặn các khoảng dừng sau ngoại tâm thu có thể làm giảm khả năng nhịp nhanh thất xoắn đỉnh tái phát.Máy khử rung tim cấy ghép vào cơ thể(ICD) được chỉ định cho những bệnh nhân đã được hồi sức sau khi ngừng tim và ở những người bị ngất do tim mặc dù đã điều trị bằng thuốc chẹn beta (xem bảngChỉ định đặt máy khử rung tim cấy ghép vào cơ thể trong nhịp nhanh thất và rung thất).Cũng có thể sử dụng cách tháo dây thần kinh tim trái (hạch sao) (1).Tài liệu tham khảo về điều trị1.Savastano S, Schwartz PJ: Blocking nerves and saving lives: Left stellate ganglion block for electrical storms.Heart Rhythm20(7):1039–1047, 2023 doi: 10.1016/j.hrthm.2022.11.025
+
+--- 6. Những điểm chính ---
+
+Hội chứng khoảng QT kéo dài bẩm sinh có thể gây ra nhịp nhanh thất xoắn đỉnh, rung thất và đột tử.Nhiều yếu tố, đặc biệt là việc sử dụng một số loại thuốc, làm tăng nguy cơ rối loạn nhịp thất.Chẩn đoán dựa trên sự kết hợp của các tiêu chuẩn lâm sàng và điện tâm đồ, bao gồm cả gắng sức và đôi khi là nghiệm pháp kích thích.Xét nghiệm di truyền được thực hiện trên những bệnh nhân được chọn.Các thành viên trong gia đình cần phải được sàng lọc.Xử trí lâu dài bao gồm tránh các yếu tố kích hoạt, sử dụng thuốc chẹn beta, mexiletine, tạo nhịp vĩnh viễn, máy khử rung tim cấy ghép vào cơ thể hoặc cắt bỏ hạch sao.

@@ -1,0 +1,555 @@
+TIÊU ĐỀ: Nhịp nhanh thất (VT)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-nhịp-tim-cụ-thể/nhịp-nhanh-thất-vt
+================================================================================
+
+NỘI DUNG:
+
+Nhịp nhanh thất (VT)
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v938420_vi
+
+Nhịp nhanh thất là khi có
+
+≥
+
+3 nhịp thất liên tiếp với tần số
+
+≥
+
+120 lần/phút. Triệu chứng phụ thuộc vào thời gian cơn và rất khác nhau, từ không có triệu chứng đến đánh trống ngực đến rối loạn huyết động và tử vong. Chẩn đoán bằng ECG. Điều trị cơn nhanh thất bằng shock điện chuyển nhịp hoặc các thuốc chống rối loạn nhịp tùy thuộc vào triệu chứng của bệnh nhân. Nếu cần thiết, có thể phải cấy máy phá rung tự động.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+.)
+
+Một số chuyên gia đề xuất sử dụng mốc
+
+≥
+
+100 nhịp/phút để chẩn đoán tim nhanh thất (VT). Nhịp thất lặp đi lặp lại với tốc độ chậm hơn được gọi là nhịp thất vô căn tăng tốc hoặc nhịp nhanh thất dạng chậm; các nhịp này thường lành tính và không được điều trị trừ khi bệnh nhân có các triệu chứng về huyết động.
+
+Hầu hết các bệnh nhân cơn tim nhanh thất đều có bệnh tim thực tổn, đặc biệt là
+
+nhồi máu cơ tim
+
+hoặc
+
+bệnh cơ tim trước đó
+
+. Những bất thường về điện giải (đặc biệt là
+
+hạ kali máu
+
+hoặc
+
+hạ magie máu
+
+), toan máu, hạ oxy máu và tác dụng bất lợi của thuốc góp phần gây ra (
+
+1
+
+).
+
+Hội chứng QT dài
+
+(bẩm sinh hoặc mắc phải) có liên quan đến một dạng nhịp nhanh thất cụ thể,
+
+xoắn đỉnh
+
+.
+
+Nhịp nhanh thất có thể đơn dạng hoặc đa hình thái và có thể bền bỉ hoặc không bền bỉ.
+
+Cơn tim nhanh thất đơn dạng: Tiêu điểm đơn lẻ bất thường hoặc con đường dẫn truyền vòng vào lại và do đó các phức hợp QRS xuất hiện đều đặn, giống hệt nhau
+
+Cơn tim nhanh thất đa hình thái: Một số tiêu điểm hoặc con đường dẫn truyền khác nhau và do đó phức hợp QRS không đều, thay đổi
+
+Cơn tim nhanh thất không bền bỉ: Kéo dài
+
+<
+
+30 giây
+
+Cơn tim nhanh thất bền bỉ: Kéo dài
+
+≥
+
+30 giây hoặc bị ngưng sớm hơn do mất huyết động.
+
+Nhịp tim nhanh thất đường ra thất phải và trái (RVOT-VT và LVOT-VT) là nhịp tim nhanh thất tự phát xảy ra khi không có rối loạn cấu trúc tim cơ bản rõ ràng (
+
+2
+
+). Các nhịp này là do sau khử cực muộn qua trung gian cAMP và thường xảy ra khi tập thể dục hoặc căng thẳng cảm xúc (
+
+2
+
+). Các nhịp này thường có hình thái học tương tự như
+
+block nhánh trái
+
+(LBBB) và trục xuống thẳng đứng (QRS dương ở chuyển đạo V1, QRS âm ở chuyển đạo AVL và QRS gần đẳng điện ở chuyển đạo I) (xem
+
+Nhịp ngoại tâm thu thất).
+
+Nhịp nhanh thất phân nhánh trái nhạy cảm với Verapamil (nhịp nhanh thất Belhassen, nhịp nhanh thất vách ngăn trái) là nhịp nhanh thất tự phát xảy ra khi không có bệnh cấu trúc tim nền rõ ràng (
+
+3
+
+). Nguyên nhân là do phần dẫn truyền chậm của mô Purkinje bất thường có thể hỗ trợ tái nhập vĩ mô bằng cách sử dụng cơ tim thất và một phần của bó nhánh trái (thường là phía sau) của nhánh trái. Tình trạng này thường do nhịp tim nặng một cách tự nhiên hoặc do tạo nhịp nhĩ nhanh và thường có hình thái tương tự như
+
+block nhánh phải
+
+với trục lệch trái (
+
+3
+
+).
+
+Nhịp nhanh thất vòng vào lại nhánh là nhịp nhanh thất xảy ra ở những bệnh nhân mắc bệnh cơ tim giai đoạn tiến triển hoặc bệnh hệ thống dẫn truyền đơn độc (
+
+3
+
+). Nguyên nhân là do vòng vào lại lớn sử dụng các nhánh, thường thì nhánh thuận chiều là nhánh phải và nhánh ngược chiều là nhánh trái. Theo đó, nhịp nhanh thất này thường có hình thái QRS giống LBBB (
+
+3
+
+).
+
+Nhịp nhanh thất đa hình do catecholaminergic
+
+là một rối loạn di truyền ảnh hưởng đến sự điều hòa canxi nội bào trong mô tim. Bệnh nhân dễ bị rối loạn nhịp nhanh nhĩ và/hoặc rối loạn nhịp nhanh thất và đột tử do tim, đặc biệt là khi hoạt động adrenergic tăng lên. (Xem thêm
+
+Bệnh tim do loạn nhịp
+
+.)
+
+Cơn tim nhanh thất có thể tiến triển thành
+
+rung tâm thất
+
+và gây
+
+ngừng tim
+
+.
+
+Tài liệu tham khảo chung
+
+1.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+J Am Coll Cardiol
+
+72:e91–e220, 2018. doi: 10.1016/j.jacc.2017.10.054
+
+2.
+
+Lerman BB
+
+: Mechanism, diagnosis, and treatment of outflow tract tachycardia.
+
+Nat Rev Cardiol
+
+12(10):597–608, 2015. doi: 10.1038/nrcardio.2015.121
+
+3.
+
+Sung RK, Boyden PA, Scheinman M
+
+: Cellular Physiology and Clinical Manifestations of Fascicular Arrhythmias in Normal Hearts.
+
+JACC Clin Electrophysiol
+
+3(12):1343–1355, 2017. doi: 10.1016/j.jacep.2017.07.011
+
+Các triệu chứng và dấu hiệu của nhịp tim nhanh thất
+
+Nhịp nhanh thất ngắn với tần số chậm có thể không có biểu hiện triệu chứng lâm sàng. Cơn nhanh thất bền bỉ gần như luôn có triệu chứng, biểu hiện lâm sàng là đánh trống ngực, triệu chứng rối loạn huyết động hoặc đột tử.
+
+Chẩn đoán nhịp tim nhanh thất
+
+Điện tâm đồ (ECG)
+
+Chẩn đoán nhịp nhanh thất bằng điện tâm đồ (xem hình
+
+Nhịp nhanh thất QRS rộng
+
+). Bất kỳ nhịp nhanh QRS giãn rộng nào (QRS
+
+≥
+
+0,12 giây) nên được coi là nhịp nhanh thất cho đến khi được chẩn đoán xác định.
+
+Ngọc trai & cạm bẫy
+
+Bất kỳ nhịp nhanh QRS giãn rộng nào (QRS
+
+≥
+
+0,12 giây) nên được coi là nhịp nhanh thất cho đến khi được chẩn đoán xác định.
+
+Chẩn đoán được hỗ trợ bởi các dấu hiệu trên ECG là
+
+Hoạt động sóng P phân ly
+
+Nhịp hợp nhất (một nhịp xoang tiến hành hợp nhất với nhịp thất tạo ra phức bộ QRS với hình thái, thời gian và trục ở giữa các nhịp tim được dẫn truyền bình thường và nhịp của nhịp thất phức bộ QRS rộng)
+
+Ghi lại nhịp đập (nhịp xoang thường được dẫn truyền làm gián đoạn nhịp nhanh phức bộ rộng)
+
+Tính đồng nhất của các vectơ QRS trong các chuyển đạo V (phù hợp) với vectơ sóng T không tương xứng (véc tơ QRS đối diện)
+
+Trục QRS ở mặt phẳng phía trước ở góc phần tư phía tây bắc
+
+Chẩn đoán phân biệt bao gồm nhịp nhanh trên thất được dẫn truyền kèm theo block nhánh hoặc thông qua đường dẫn truyền phụ (xem hình
+
+Tiêu chuẩn Brugada sửa đổi cho nhịp nhanh thất
+
+) (
+
+1
+
+). Vì một số bệnh nhân dung nạp VT khá tốt nên kết luận rằng nhịp tim nhanh phức bộ QRS rộng được dung nạp tốt phải có nguồn gốc trên thất là một sai lầm. Sử dụng thuốc thích hợp cho nhịp nhanh trên thất (ví dụ: verapamil, diltiazem) ở bệnh nhân VT có thể gây suy huyết động và tử vong (
+
+2
+
+). Tuy nhiên, do thời gian bán hủy rất ngắn, adenosine đường tĩnh mạch có thể được sử dụng như một biện pháp chẩn đoán (và có thể là phương pháp điều trị nếu loạn nhịp là trên thất) ở bệnh nhân ổn định và có nhịp tim nhanh phức bộ QRS rộng đơn hình, đều đặn (
+
+3
+
+), mặc dù có nguy cơ nhỏ chuyển VT ổn định thành rung thất không ổn định.
+
+Tiêu chuẩn Brugada sửa đổi trong nhịp nhanh thất
+
+*
+
+Nếu QRS dạng block nhánh phải:
+
+Ở V1, sóng R có dạng một pha, hoặc dạng QR, hoặc dạng RS
+
+Ở V6, tỷ lệ R/S
+
+<
+
+1 hoặc sóng R một pha hoặc dạng QR
+
+*
+
+Với QRS trong LBBB
+
+:
+
+Ở V1, thời gian sóng R
+
+>
+
+30 mi-li-giây hoặc thời gian RS rộng
+
+>
+
+60 mi-li-giây.
+
+Ở V6, dạng QR hoặc dạng QS
+
+AV
+
+=
+
+atrioventricular (nhĩ thất); LBBB
+
+=
+
+block nhánh trái; RBBB
+
+=
+
+block nhánh phải; VT
+
+=
+
+nhịp nhanh thất.
+
+Dữ liệu từ
+
+Brugada P, Brugada J, Mont L, Smeets J, Andries EW
+
+. A new approach to the differential diagnosis of a regular tachycardia with a wide QRS complex. Circulation. 1991;83(5):1649-1659. doi:10.1161/01.cir.83.5.1649
+
+Ngọc trai & cạm bẫy
+
+Vì một số bệnh nhân dung nạp nhịp nhanh thất tốt một cách đáng ngạc nhiên, nên sai lầm khi kết luận rằng nhịp nhanh phức hợp QRS rộng được dung nạp tốt phải có nguồn gốc trên thất.
+
+Nhịp nhanh thất có QRS rộng
+
+Thời gian QRS là 160 mili giây. Sóng P độc lập có thể thấy ở chuyển đạo DII (
+
+mũi tên
+
+). Trục lệch trái.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Vereckei A, Simon A, Szénási G, et al
+
+: The Application of a New, Modified Algorithm for the Differentiation of Regular Ventricular and Pre-Excited Tachycardias.
+
+Heart Lung Circ
+
+32(6):719–725, 2023. doi: 10.1016/j.hlc.2023.03.016
+
+2.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+J Am Coll Cardiol
+
+72:e91–e220, 2018. doi: 10.1016/j.jacc.2017.10.054
+
+3.
+
+Marill KA, Wolfram S, Desouza IS, et al
+
+:
+
+Adenosine
+
+for wide-complex tachycardia: efficacy and safety.
+
+Crit Care Med
+
+37:2512–2518, 2009. doi: 10.1097/CCM.0b013e3181a93661
+
+Điều trị nhịp tim nhanh thất
+
+Cấp tính: Đôi khi sốc điện chuyển nhịp bằng dòng điện 1 chiều đồng bộ, đôi khi dùng thuốc chống loạn nhịp loại I hoặc loại III
+
+Điều trị dài hạn: Cấy máy phá rung tự động.
+
+Cấp tính
+
+Điều trị cắt cơn nhịp nhanh thất cấp tính phụ thuộc vào triệu chứng và thời gian của cơn nhanh thất.
+
+VT vô mạch
+
+đòi hỏi phải
+
+khử rung tim
+
+bắt đầu bằng hai pha 120 đến 200 joule (hoặc một pha 360 joule).
+
+Nhịp nhanh thất ổn định kéo dài
+
+có thể được điều trị bằng
+
+phương pháp sốc điện chuyển nhịp một chiều đồng bộ
+
+với mức
+
+≥
+
+100 joule kết hợp với an thần có ý thức hoặc gây mê trong thời gian ngắn theo đường toàn thân.
+
+VT kéo dài ổn định
+
+có thể được điều trị bằng thuốc chống loạn nhịp tim loại I hoặc loại III đường tĩnh mạch (
+
+1
+
+) (xem bảng
+
+Thuốc chống loạn nhịp tim
+
+). Lidocaine tác dụng nhanh nhưng thường không hiệu quả. Nếu
+
+lidocaine
+
+không hiệu quả, có thể dùng procainamide đường tĩnh mạch, nhưng có thể mất tới 1 giờ mới có tác dụng. Truyền tĩnh mạch Amiodarone cũng được dùng để cắt cơn nhưng thường không tác dụng nhanh. Thất bại khi dùng
+
+procainamide
+
+đường tĩnh mạch hoặc
+
+amiodarone
+
+đường tĩnh mạch là chỉ định phải sốc điện chuyển nhịp. Nhịp tim nhanh thất ở đường ra thất phải và  đường ra thất trái (RVOT-VT và LVOT-VT) đáp ứng với adenosine đường tĩnh mạch. Nhịp tim nhanh thất phân nhánh trái nhạy cảm với verapamil đáp ứng với verapamil đường tĩnh mạch (
+
+1
+
+).
+
+Cơn nhanh thất không bền bỉ
+
+không cần điều trị ngay lập tức trừ khi cơn xuất hiện thường xuyên hoặc đủ lâu để gây ra triệu chứng. Trong những trường hợp như vậy, thuốc chống loạn nhịp được sử dụng tương tự như cơn nhanh thất bền bỉ.
+
+Điều trị dài hạn
+
+Mục tiêu chính là ngăn ngừa đột tử, thay vì chỉ đơn giản là ngăn chặn loạn nhịp. Tối ưu nhất là chỉ định
+
+cấy máy khử rung tự động
+
+(ICD). Tuy nhiên, quyết định về việc nên điều trị cho ai rất phức tạp và phụ thuộc vào ước tính xác suất xảy ra VT đe dọa tính mạng và mức độ nặng của các bệnh tim nền (
+
+1
+
+) (xem bảng
+
+Chỉ định sử dụng máy khử rung tim chuyển nhịp cấy ghép vào cơ thể
+
+).
+
+Không cần điều trị dài hạn khi cơn nhịp nhanh thất khởi phát do nguyên nhân thoáng qua (ví dụ: trong vòng 48 giờ sau khi khởi phát nhồi máu cơ tim) hoặc do nguyên nhân có thể hồi phục (rối loạn toan kiềm, rối loạn điện giải, tác dụng của thuốc gây tiền loạn nhịp).
+
+Trong trường hợp không có nguyên nhân tạm thời hoặc có thể đảo ngược, những bệnh nhân bị một cơn VT kéo dài thường cần phải có ICD (
+
+1
+
+). Hầu hết các bệnh nhân nhanh thất bền bỉ kèm theo bệnh tim cấu trúc cũng cần được chỉ định thuốc chẹn beta giao cảm. Nếu không thể cấy ICD, amiodarone là thuốc chống loạn nhịp ưu tiên để phòng ngừa đột tử.
+
+Vì cơn nhanh thất không bền bỉ làm tăng nguy cơ tử vong ở những bệnh nhân có bệnh tim cấu trúc (đặc biệt là những người có phân suất tống máu
+
+<
+
+0,35), do đó cần phải đánh giá kỹ lưỡng những bệnh nhân này. Có thể cân nhắc cấy ICD cho những bệnh nhân thuộc nhóm đối tượng này.
+
+Khi việc phòng ngừa VT là quan trọng (thường ở những bệnh nhân có ICD và bị các cơn VT thường xuyên), cần dùng thuốc chống loạn nhịp hoặc
+
+triệt đốt
+
+qua ống thông hoặc triệt đốt bằng phẫu thuật chất nền gây loạn nhịp (
+
+1
+
+). Có thể sử dụng bất kỳ
+
+thuốc chống loạn nhịp
+
+nhóm Ia, Ib, Ic, II hoặc III nào. Vì thuốc chẹn beta (nhóm II) an toàn nên các thuốc này là lựa chọn đầu tiên trừ khi có chống chỉ định. Nếu cần dùng thêm thuốc khác, thường dùng sotalol, sau đó là amiodarone (
+
+1
+
+).
+
+Triệt đốt
+
+qua ống thông đặc biệt thành công ở những bệnh nhân bị VT có hội chứng được xác định rõ (ví dụ: VT đường ra thất phải hoặc trái, VT phân nhánh trái nhạy cảm với verapamil hoặc VT vòng vào lại nhánh (
+
+1
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+J Am Coll Cardiol
+
+72:e91–e220, 2018. doi: 10.1016/j.jacc.2017.10.054
+
+Những điểm chính
+
+Các cơn tim nhanh QRS giãn rộng (QRS ≥ 0,12 giây) cần được coi là cơn tim nhanh thất cho đến khi được chẩn đoán xác định.
+
+Những bệnh nhân không có mạch nên được chuyển nhịp tim.
+
+Có thể thử dùng thuốc chống loạn nhịp hoặc sốc điện chuyển nhịp đồng bộ nếu bệnh nhân ổn định.
+
+Bệnh nhân có cơn tim nhanh thất bền bỉ mà không do nguyên nhân tạm thời hoặc không do nguyên nhân có thể điều chỉnh được thường cần phải cấy ICD.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các triệu chứng và dấu hiệu của nhịp tim nhanh thất ---
+
+Nhịp nhanh thất ngắn với tần số chậm có thể không có biểu hiện triệu chứng lâm sàng. Cơn nhanh thất bền bỉ gần như luôn có triệu chứng, biểu hiện lâm sàng là đánh trống ngực, triệu chứng rối loạn huyết động hoặc đột tử.
+
+--- 2. Chẩn đoán nhịp tim nhanh thất ---
+
+Điện tâm đồ (ECG)Chẩn đoán nhịp nhanh thất bằng điện tâm đồ (xem hìnhNhịp nhanh thất QRS rộng). Bất kỳ nhịp nhanh QRS giãn rộng nào (QRS≥0,12 giây) nên được coi là nhịp nhanh thất cho đến khi được chẩn đoán xác định.Ngọc trai & cạm bẫyBất kỳ nhịp nhanh QRS giãn rộng nào (QRS≥0,12 giây) nên được coi là nhịp nhanh thất cho đến khi được chẩn đoán xác định.Chẩn đoán được hỗ trợ bởi các dấu hiệu trên ECG làHoạt động sóng P phân lyNhịp hợp nhất (một nhịp xoang tiến hành hợp nhất với nhịp thất tạo ra phức bộ QRS với hình thái, thời gian và trục ở giữa các nhịp tim được dẫn truyền bình thường và nhịp của nhịp thất phức bộ QRS rộng)Ghi lại nhịp đập (nhịp xoang thường được dẫn truyền làm gián đoạn nhịp nhanh phức bộ rộng)Tính đồng nhất của các vectơ QRS trong các chuyển đạo V (phù hợp) với vectơ sóng T không tương xứng (véc tơ QRS đối diện)Trục QRS ở mặt phẳng phía trước ở góc phần tư phía tây bắcChẩn đoán phân biệt bao gồm nhịp nhanh trên thất được dẫn truyền kèm theo block nhánh hoặc thông qua đường dẫn truyền phụ (xem hìnhTiêu chuẩn Brugada sửa đổi cho nhịp nhanh thất) (1). Vì một số bệnh nhân dung nạp VT khá tốt nên kết luận rằng nhịp tim nhanh phức bộ QRS rộng được dung nạp tốt phải có nguồn gốc trên thất là một sai lầm. Sử dụng thuốc thích hợp cho nhịp nhanh trên thất (ví dụ: verapamil, diltiazem) ở bệnh nhân VT có thể gây suy huyết động và tử vong (2). Tuy nhiên, do thời gian bán hủy rất ngắn, adenosine đường tĩnh mạch có thể được sử dụng như một biện pháp chẩn đoán (và có thể là phương pháp điều trị nếu loạn nhịp là trên thất) ở bệnh nhân ổn định và có nhịp tim nhanh phức bộ QRS rộng đơn hình, đều đặn (3), mặc dù có nguy cơ nhỏ chuyển VT ổn định thành rung thất không ổn định.Tiêu chuẩn Brugada sửa đổi trong nhịp nhanh thất*Nếu QRS dạng block nhánh phải:Ở V1, sóng R có dạng một pha, hoặc dạng QR, hoặc dạng RSỞ V6, tỷ lệ R/S<1 hoặc sóng R một pha hoặc dạng QR*Với QRS trong LBBB:Ở V1, thời gian sóng R>30 mi-li-giây hoặc thời gian RS rộng>60 mi-li-giây.Ở V6, dạng QR hoặc dạng QSAV=atrioventricular (nhĩ thất); LBBB=block nhánh trái; RBBB=block nhánh phải; VT=nhịp nhanh thất.Dữ liệu từBrugada P, Brugada J, Mont L, Smeets J, Andries EW. A new approach to the differential diagnosis of a regular tachycardia with a wide QRS complex. Circulation. 1991;83(5):1649-1659. doi:10.1161/01.cir.83.5.1649Ngọc trai & cạm bẫyVì một số bệnh nhân dung nạp nhịp nhanh thất tốt một cách đáng ngạc nhiên, nên sai lầm khi kết luận rằng nhịp nhanh phức hợp QRS rộng được dung nạp tốt phải có nguồn gốc trên thất.Nhịp nhanh thất có QRS rộngThời gian QRS là 160 mili giây. Sóng P độc lập có thể thấy ở chuyển đạo DII (mũi tên). Trục lệch trái.Tài liệu tham khảo chẩn đoán1.Vereckei A, Simon A, Szénási G, et al: The Application of a New, Modified Algorithm for the Differentiation of Regular Ventricular and Pre-Excited Tachycardias.Heart Lung Circ32(6):719–725, 2023. doi: 10.1016/j.hlc.2023.03.0162.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018. doi: 10.1016/j.jacc.2017.10.0543.Marill KA, Wolfram S, Desouza IS, et al:Adenosinefor wide-complex tachycardia: efficacy and safety.Crit Care Med37:2512–2518, 2009. doi: 10.1097/CCM.0b013e3181a93661
+
+--- 3. Điều trị nhịp tim nhanh thất ---
+
+Cấp tính: Đôi khi sốc điện chuyển nhịp bằng dòng điện 1 chiều đồng bộ, đôi khi dùng thuốc chống loạn nhịp loại I hoặc loại IIIĐiều trị dài hạn: Cấy máy phá rung tự động.Cấp tínhĐiều trị cắt cơn nhịp nhanh thất cấp tính phụ thuộc vào triệu chứng và thời gian của cơn nhanh thất.VT vô mạchđòi hỏi phảikhử rung timbắt đầu bằng hai pha 120 đến 200 joule (hoặc một pha 360 joule).Nhịp nhanh thất ổn định kéo dàicó thể được điều trị bằngphương pháp sốc điện chuyển nhịp một chiều đồng bộvới mức≥100 joule kết hợp với an thần có ý thức hoặc gây mê trong thời gian ngắn theo đường toàn thân.VT kéo dài ổn địnhcó thể được điều trị bằng thuốc chống loạn nhịp tim loại I hoặc loại III đường tĩnh mạch (1) (xem bảngThuốc chống loạn nhịp tim). Lidocaine tác dụng nhanh nhưng thường không hiệu quả. Nếulidocainekhông hiệu quả, có thể dùng procainamide đường tĩnh mạch, nhưng có thể mất tới 1 giờ mới có tác dụng. Truyền tĩnh mạch Amiodarone cũng được dùng để cắt cơn nhưng thường không tác dụng nhanh. Thất bại khi dùngprocainamideđường tĩnh mạch hoặcamiodaroneđường tĩnh mạch là chỉ định phải sốc điện chuyển nhịp. Nhịp tim nhanh thất ở đường ra thất phải và  đường ra thất trái (RVOT-VT và LVOT-VT) đáp ứng với adenosine đường tĩnh mạch. Nhịp tim nhanh thất phân nhánh trái nhạy cảm với verapamil đáp ứng với verapamil đường tĩnh mạch (1).Cơn nhanh thất không bền bỉkhông cần điều trị ngay lập tức trừ khi cơn xuất hiện thường xuyên hoặc đủ lâu để gây ra triệu chứng. Trong những trường hợp như vậy, thuốc chống loạn nhịp được sử dụng tương tự như cơn nhanh thất bền bỉ.Điều trị dài hạnMục tiêu chính là ngăn ngừa đột tử, thay vì chỉ đơn giản là ngăn chặn loạn nhịp. Tối ưu nhất là chỉ địnhcấy máy khử rung tự động(ICD). Tuy nhiên, quyết định về việc nên điều trị cho ai rất phức tạp và phụ thuộc vào ước tính xác suất xảy ra VT đe dọa tính mạng và mức độ nặng của các bệnh tim nền (1) (xem bảngChỉ định sử dụng máy khử rung tim chuyển nhịp cấy ghép vào cơ thể).Không cần điều trị dài hạn khi cơn nhịp nhanh thất khởi phát do nguyên nhân thoáng qua (ví dụ: trong vòng 48 giờ sau khi khởi phát nhồi máu cơ tim) hoặc do nguyên nhân có thể hồi phục (rối loạn toan kiềm, rối loạn điện giải, tác dụng của thuốc gây tiền loạn nhịp).Trong trường hợp không có nguyên nhân tạm thời hoặc có thể đảo ngược, những bệnh nhân bị một cơn VT kéo dài thường cần phải có ICD (1). Hầu hết các bệnh nhân nhanh thất bền bỉ kèm theo bệnh tim cấu trúc cũng cần được chỉ định thuốc chẹn beta giao cảm. Nếu không thể cấy ICD, amiodarone là thuốc chống loạn nhịp ưu tiên để phòng ngừa đột tử.Vì cơn nhanh thất không bền bỉ làm tăng nguy cơ tử vong ở những bệnh nhân có bệnh tim cấu trúc (đặc biệt là những người có phân suất tống máu<0,35), do đó cần phải đánh giá kỹ lưỡng những bệnh nhân này. Có thể cân nhắc cấy ICD cho những bệnh nhân thuộc nhóm đối tượng này.Khi việc phòng ngừa VT là quan trọng (thường ở những bệnh nhân có ICD và bị các cơn VT thường xuyên), cần dùng thuốc chống loạn nhịp hoặctriệt đốtqua ống thông hoặc triệt đốt bằng phẫu thuật chất nền gây loạn nhịp (1). Có thể sử dụng bất kỳthuốc chống loạn nhịpnhóm Ia, Ib, Ic, II hoặc III nào. Vì thuốc chẹn beta (nhóm II) an toàn nên các thuốc này là lựa chọn đầu tiên trừ khi có chống chỉ định. Nếu cần dùng thêm thuốc khác, thường dùng sotalol, sau đó là amiodarone (1).Triệt đốtqua ống thông đặc biệt thành công ở những bệnh nhân bị VT có hội chứng được xác định rõ (ví dụ: VT đường ra thất phải hoặc trái, VT phân nhánh trái nhạy cảm với verapamil hoặc VT vòng vào lại nhánh (1).Tài liệu tham khảo về điều trị1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al:  2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018. doi: 10.1016/j.jacc.2017.10.054
+
+--- 4. Những điểm chính ---
+
+Các cơn tim nhanh QRS giãn rộng (QRS ≥ 0,12 giây) cần được coi là cơn tim nhanh thất cho đến khi được chẩn đoán xác định.Những bệnh nhân không có mạch nên được chuyển nhịp tim.Có thể thử dùng thuốc chống loạn nhịp hoặc sốc điện chuyển nhịp đồng bộ nếu bệnh nhân ổn định.Bệnh nhân có cơn tim nhanh thất bền bỉ mà không do nguyên nhân tạm thời hoặc không do nguyên nhân có thể điều chỉnh được thường cần phải cấy ICD.

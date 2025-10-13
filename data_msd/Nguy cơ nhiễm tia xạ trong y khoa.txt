@@ -1,0 +1,306 @@
+TIÊU ĐỀ: Nguy cơ nhiễm tia xạ trong y khoa
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-nguyên-lý-cơ-bản-trong-chẩn-đoán-hình-ảnh/nguy-cơ-nhiễm-tia-xạ-trong-y-khoa
+================================================================================
+
+NỘI DUNG:
+
+Nguy cơ nhiễm tia xạ trong y khoa
+
+Theo
+
+Mustafa A. Mafraji
+
+,
+
+MD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 11 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v13948142_vi
+
+Bức xạ ion hoá (xem thêm
+
+Phơi nhiễm và Ô nhiễm Phóng xạ
+
+) bao gồm
+
+Các sóng điện từ năng lượng cao (tia x, tia gamma)
+
+Các hạt (các hạt alpha, các hạt beta, neutron)
+
+Bức xạ ion hoá được phát ra bởi các nguyên tố phóng xạ và các thiết bị như máy chụp X-quang và máy xạ trị.
+
+Hầu hết các phương tiện chẩn đoán hình ảnh sử dụng bức xạ ion hóa (như chụp X-quang, CT hoặc xạ hình) đều gây phơi nhiễm cho bệnh nhân ở liều phóng xạ tương đối thấp, và nhìn chung được coi là an toàn. Tuy nhiên, tất cả các bức xạ ion hóa đều có khả năng gây hại, và không có ngưỡng an toàn nào có thể loại trừ hết cách tác động có hại, do đó, cần tập trung nỗ lực tối đa nhằm đưa mức phơi nhiễm phóng xạ xuống thấp nhất.
+
+Có nhiều cách khác nhau để định lượng mức độ phơi nhiễm phóng xạ:
+
+Liều hấp thụ
+
+là lượng bức xạ hấp thụ trên một đơn vị khối lượng. Nó được biểu diễn dưới dạng các đơn vị chuyên dụng là gray (Gy) và milligray (mGy). Trước đây, nó được biểu hiện dưới dạng liều hấp thụ bức xạ (rad); 1 mGy
+
+=
+
+0,1 rad.
+
+Các
+
+liều tương đương
+
+là liều hấp thụ nhân với hệ số trọng lượng bức xạ điều chỉnh cho các tác động trên mô, dựa vào loại bức xạ (ví dụ như tia X, tia gamma, electron). Đơn vị biểu diễn là sieverts (Sv) và millisieverts (mSv). Trước đây, nó được biểu diễn dưới dạng từ trường tương đương roentgen ở người (rem; 1 mSv
+
+=
+
+0,1 rem). Đối với các phương tiện chẩn đoán hình ảnh sử dụng tia X, bao gồm cả CT, hệ số trọng lượng bức xạ là 1.
+
+Liều hiệu quả
+
+là thước đo dùng để ước tính phản ứng mô (hoặc hiệu ứng ngẫu nhiên) khi tiếp xúc với bức xạ ion hóa; nó điều chỉnh liều tương đương dựa trên tính nhạy cảm của mô tiếp xúc với bức xạ (ví dụ: tuyến sinh dục dễ bị ảnh hưởng nhất). Nó được biểu diễn bằng đơn vị Sv và mSv. Liều hiệu dụng cao hơn đối với đối tượng trẻ tuổi. Liều hiệu quả giúp các bác sĩ lâm sàng đánh giá và so sánh các nguy cơ sức khỏe liên quan đến các quy trình sử dụng bức xạ trong y tế khác nhau và cũng có thể được so sánh với liều được chỉ định theo nghề nghiệp trong các tiêu chuẩn bảo vệ bức xạ.
+
+Chẩn đoán hình ảnh y khoa chỉ là một nguồn tiếp xúc với bức xạ ion hóa (xem bảng
+
+Liều lượng bức xạ điển hình
+
+). Một trong số những nguồn khác đến từ việc phơi nhiễm bức xạ trong môi trường tự nhiên (từ bức xạ vũ trụ và các đồng vị phóng xạ tự nhiên). Đây có thể là những nguồn phơi nhiễm có ý nghĩa, đặc biệt là ở những vùng có độ cao lớn; các chuyến bay thường dẫn đến việc gia tăng phơi nhiễm với bức xạ môi trường, mức độ cụ thể như sau:
+
+Từ một chuyến bay máy bay từ bờ biển đến bờ biển: 0,01 đến 0,03 mSv
+
+Từ mức phơi nhiễm bức xạ nền trung bình hàng năm ở Hoa Kỳ: Khoảng 3 mSv
+
+Từ mức phơi nhiễm hàng năm ở độ cao lớn (ví dụ: Colorado, New Mexico): Thêm khoảng 1,5
+
+mSv so với nền
+
+Bảng
+
+Liều bức xạ điển hình*
+
+Bảng
+
+Liều bức xạ điển hình*
+
+Liều bức xạ điển hình*
+
+Phương pháp chẩn đoán hình ảnh
+
+Liều bức xạ trung bình hiệu dụng (mSv)
+
+X-quang ngực (sau-trước)
+
+X-quang ngực (2 tư thế: sau-trước và bên)
+
+Chụp X-quang cột sống thắt lưng (1 góc nhìn bên)
+
+> 1,5
+
+Chụp X-quang, tứ chi (1 góc nhìn: tay, chân, v.v.)
+
+Chụp X-quang bụng (1 phim)
+
+0,7%:
+
+X-quang, thuốc xổ có bari (nghiên cứu đường tiêu hóa dưới)
+
+Chụp X-quang, nghiên cứu đường tiêu hóa trên có bari
+
+Sàng lọc chụp nhũ ảnh kỹ thuật số
+
+Chụp CT, đầu
+
+2:
+
+CT, ngực
+
+6,1%:
+
+Chụp CT, bụng và vùng chậu
+
+Chụp động mạch vành
+
+Chụp động mạch vành có can thiệp
+
+< 15
+
+Chụp xạ hình tưới máu phổi
+
+2:
+
+PET scan (chưa bao gồm chụp CT toàn thân)
+
+Chụp xương
+
+Chụp gan mật
+
+2,1–3,1
+
+Xạ hình tim bằng Technetium sestimibi
+
+9,4–12,8
+
+* Các mức liều có thể khác nhau.
+
+Dữ liệu từ
+
+Mettler FA, Huda W, Yoshizumi TT, Mahesh M: Effective doses in radiology and diagnostic nuclear medicine: A catalog.
+
+Radiology
+
+248:254-263, 2008
+
+American College of Radiology(ACR): Radiation Dose to Adults From Common Imaging Examinations
+
+* Các mức liều có thể khác nhau.
+
+Dữ liệu từ
+
+Mettler FA, Huda W, Yoshizumi TT, Mahesh M: Effective doses in radiology and diagnostic nuclear medicine: A catalog.
+
+Radiology
+
+248:254-263, 2008
+
+American College of Radiology(ACR): Radiation Dose to Adults From Common Imaging Examinations
+
+Bức xạ có thể gây hại nếu tổng liều tích lũy cao, ví dụ khi chụp CT nhiều lần, vì chụp CT đòi hỏi liều bức xạ cao hơn hầu hết các phương tiện chẩn đoán hình ảnh khác.
+
+Phơi nhiễm phóng xạ cũng cần được quan tâm trong một số trường hợp nguy cơ cao như:
+
+Mang thai
+
+Trẻ nhỏ
+
+Trẻ nhỏ
+
+Phụ nữ trẻ tuổi cần chụp mammography
+
+Hội đồng Đo lường và Bảo vệ Bức xạ Quốc gia (NCRP) tại Hoa Kỳ (Báo cáo số 184)
+
+cho thấy chụp CT chiếm 63% tổng liều từ tất cả các quy trình chẩn đoán hình ảnh trong y tế vào năm 2016, so với 50% vào năm 2006. Trong khi số lần chụp CT tăng 20% trong thập kỷ đó, liều tổng thể cho mỗi người đối với các quy trình chụp CT về cơ bản không thay đổi. Từ năm 2006 đến năm 2016, liều bức xạ y tế không điều trị ước tính đã giảm từ 15% đến 20%. Liều hiệu quả trung bình ước tính của mỗi người ở Hoa Kỳ là 2,92 mSv năm 2006 và 2,16 mSv năm 2016.
+
+Máy chụp CT đa đầu dò, loại được sử dụng phổ biến nhất ở Hoa Kỳ, cung cấp lượng bức xạ nhiều hơn khoảng 40% đến 70% trên mỗi lần chụp so với máy chụp CT có máy dò đơn cũ hơn. Tuy nhiên, những tiến bộ gần đây (ví dụ: kiểm soát phơi nhiễm tự động, thuật toán tái tạo lặp đi lặp lại, máy dò CT thế hệ thứ 3) có khả năng làm giảm đáng kể liều bức xạ được sử dụng để chụp CT. Hiệp hội X quang Hoa Kỳ đã khởi xướng các chương trình –
+
+Hình ảnh nhẹ nhàng
+
+(dành cho trẻ em) và
+
+Hình ảnh khôn ngoan
+
+(dành cho người lớn) – để giải quyết những lo ngại về sự gia tăng mức phơi nhiễm với bức xạ ion hóa được sử dụng để chẩn đoán hình ảnh trong y tế. Các chương trình này cung cấp tài nguyên và thông tin về việc giảm thiểu mức phơi nhiễm bức xạ cho bác sĩ X-quang, nhà vật lý y tế, các chuyên gia chẩn đoán hình ảnh khác và bệnh nhân.
+
+Bức xạ và ung thư
+
+Ước tính nguy cơ ung thư do phơi nhiễm phóng xạ trong chẩn đoán hình ảnh đã được ngoại suy từ các nghiên cứu tiến hành trên các đối tượng tiếp xúc với liều bức xạ rất cao (ví dụ những người sống sót sau vụ nổ bom nguyên tử ở Hiroshima và Nagasaki). Bằng chứng dịch tễ học trực tiếp từ quần thể người chứng minh rằng phơi nhiễm với bức xạ ion hóa làm tăng nguy cơ mắc một số bệnh ung thư khi liều vượt quá khoảng 50 đến 100 mSv đối với phơi nhiễm kéo dài (ví dụ: trong môi trường nghề nghiệp) hoặc 10 đến 50 mSv đối với phơi nhiễm cấp tính (ví dụ: từ phơi nhiễm bom nguyên tử
+
+1
+
+).
+
+Bệnh nhân trẻ có nguy cơ cao hơn bởi
+
+Thời gian sống dài hơn, bởi thế ung thư có nhiều thời gian phát triển hơn.
+
+Tăng trưởng tế bào mạnh hơn ở người trẻ tuổi, và do đó nhạy cảm với tổn thương DNA hơn.
+
+Đối với trẻ 1 tuổi được chụp CT bụng, ước tính nguy cơ bị ung thư trong cuộc đời tăng thêm 0,18% (
+
+2
+
+). Nếu bệnh nhân cao tuổi làm xét nghiệm này, nguy cơ sẽ thấp hơn.
+
+Nguy cơ cũng phụ thuộc vào việc mô nào là mô bị chiếu xạ. Mô bạch huyết, tủy xương, máu và tinh hoàn, buồng trứng và ruột được coi là rất nhạy cảm với bức xạ; ở người lớn, hệ thống thần kinh và cơ xương trung ương có khả năng chống bức xạ tương đối.
+
+Bức xạ trong thai kỳ
+
+Nguy cơ bức xạ
+
+phụ thuộc vào
+
+Liều
+
+Loại phương tiện chẩn đoán hình ảnh
+
+Vùng cơ thể được tiến hành chụp
+
+Thai nhi phơi nhiễm bức xạ ít hơn mẹ; trong những trường hợp sau đây, phơi nhiễm bức xạ của thai nhi là không đáng kể:
+
+Đầu
+
+Chụp cột sống cổ
+
+Các chi
+
+Chụp X-quang vú trong khi tử cung đã được chắn xạ
+
+Mức độ phơi nhiễm bức xạ của tử cung phụ thuộc vào tuổi thai và kích thước tương ứng của tử cung. Tác động của bức xạ phụ thuộc vào tuổi thai (thời gian từ khi thụ thai).
+
+khuyến cáo
+
+Chỉ nên chỉ định các phương tiện chẩn đoán hình ảnh có bức xạ ion hóa khi cần thiết. Nên cân nhắc các phương án thay thế. Ví dụ, ở trẻ nhỏ, chấn thương nhẹ vùng đầu thường có thể được chẩn đoán và điều trị dựa trên lâm sàng, viêm ruột thừa thường có thể được chẩn đoán bằng siêu âm. Tuy nhiên, không nên trì hoãn các kiểm tra cần thiết, ngay cả khi liều bức xạ cao (ví dụ: chụp CT), miễn là lợi ích tiềm năng lớn hơn tác hại tiềm tàng.
+
+Trước khi thực hiện các kiểm tra chẩn đoán ở phụ nữ trong độ tuổi sinh đẻ, cần cân nhắc đến việc mang thai, đặc biệt là vì thường không nhận biết được nguy cơ bị phơi nhiễm phóng xạ cao nhất trong thời kỳ đầu mang thai (ba tháng đầu). Cần lưu ý che chắn tử cung ở những đối tượng trên mỗi khi có thể. Các nghiên cứu gần đây đã làm dấy lên tranh cãi xung quanh khuyến nghị tiêu chuẩn này, cụ thể là việc che chắn có thể làm tăng liều bức xạ đối với tử cung và thai nhi.
+
+Tài liệu tham khảo
+
+1.
+
+Brenner DJ, Doll R, Goodhead DT, et al
+
+: Cancer risks attributable to low doses of ionizing radiation: assessing what we really know.
+
+Proc Natl Acad Sci U S A
+
+100(24):13761-13766, 2003 doi:10.1073/pnas.2235592100
+
+2.
+
+Brenner D, Elliston C, Hall E, Berdon W
+
+: Estimated risks of radiation-induced fatal cancer from pediatric CT.
+
+AJR Am J Roentgenol
+
+176(2):289-296, 2001 doi:10.2214/ajr.176.2.1760289
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

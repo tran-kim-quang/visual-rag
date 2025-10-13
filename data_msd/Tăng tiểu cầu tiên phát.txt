@@ -1,0 +1,655 @@
+TIÊU ĐỀ: Tăng tiểu cầu tiên phát
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/rối-loạn-tăng-sinh-tủy/tăng-tiểu-cầu-tiên-phát
+================================================================================
+
+NỘI DUNG:
+
+Tăng tiểu cầu tiên phát
+
+(Tăng tiểu cầu tiên phát; Tăng tiểu cầu nguyên phát)
+
+Theo
+
+Jane Liesveld
+
+,
+
+MD
+
+,
+
+James P. Wilmot Cancer Institute, University of Rochester Medical Center
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 12 2023
+
+v974064_vi
+
+Bệnh tăng tiểu cầu cơ bản (ET) là một loại ung thư tăng sinh tủy được đặc trưng bởi sự gia tăng số lượng tiểu cầu, tăng sản megakaryocytic và xu hướng co thắt mạch xuất huyết hoặc huyết khối. Các triệu chứng và dấu hiệu có thể bao gồm nhức đầu (đau nửa đầu thể mắt), dị cảm, chảy máu, đỏ đau đầu chi hoặc thiếu máu cục bộ ở ngón. Chẩn đoán dựa trên số lượng tiểu cầu được phân lập
+
+>
+
+450.000/mcL (
+
+>
+
+450
+
+×
+
+10
+
+9
+
+/L), khối hồng cầu bình thường hoặc hematocrit bình thường khi có đủ sắt dự trữ và không có xơ tủy, nhiễm sắc thể Philadelphia (hoặc sắp xếp lại
+
+BCR- ABL
+
+), hoặc rối loạn phản ứng gây tăng tiểu cầu. Không cần điều trị ở hầu hết bệnh nhân không có triệu chứng. Có bệnh tăng tiểu cầu cực độ (số lượng tiểu cầu > 1.500.000 mcL [> 1.500.000
+
+×
+
+10
+
+9
+
+/L]) có thể làm tăng nguy cơ bị chảy máu. Không có mối tương quan giữa số lượng tiểu cầu và nguy cơ huyết khối mạch máu lớn.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về Rối loạn tăng sinh tủy
+
+.)
+
+Nguyên nhân của tăng tiểu cầu tiên phát
+
+Tăng tiểu cầu tiên phát là một bệnh lý tế bào gốc tạo máu vô tính gây ra tình trạng tăng sản sinh tiểu cầu. Tăng tiểu cầu nguyên phát thường xảy ra sau 50 tuổi với tỷ lệ mắc bệnh tăng lên ở nữ giới.
+
+Khoảng 50% bệnh nhân có đột biến enzyme Janus kinase 2 (JAK2),
+
+JAK2V617F
+
+, JAK2 là thành viên của họ enzyme tyrosine kinase và tham gia vào việc truyền dẫn tín hiệu cho
+
+erythropoietin
+
+, thrombopoietin và yếu tố kích thích tạo thành cụm hạt (G-CSF).
+
+Những bệnh nhân khác có đột biến ở exon 9 của gen calreticulin (
+
+CALR
+
+). Đột biến
+
+CALR
+
+thường có 2 thể, gọi là thể 1 và thể 2. Bệnh nhân có các đột biến
+
+CALR
+
+có xu hướng có số lượng tiểu cầu cao hơn bệnh nhân có đột biến
+
+JAK2
+
+(
+
+1
+
+).
+
+Một số bệnh nhân có đột biến gen thụ thể tạo huyết khối soma (
+
+MPL
+
+) mắc phải.
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Tefferi A, Wassie EA, Guglielmelli P, et al
+
+. Type 1 versus Type 2 calreticulin mutations in essential thrombocythemia: a collaborative study of 1027 patients.
+
+Am J Hematol
+
+2014;89(8):E121-E124. doi:10.1002/ajh.23743
+
+Sinh lý bệnh tăng tiểu cầu tiên phát
+
+Tăng tiểu cầu có thể dẫn đến
+
+Tắc mạch vi mạch
+
+Huyết khối mạch máu lớn
+
+Chảy máu
+
+Tắc mạch máu nhỏ liên quan đến các mạch máu nhỏ ở các chi xa (gây
+
+đỏ đau đầu chi
+
+), mắt (gây
+
+đau nửa đầu
+
+ở mắt) hoặc hệ thần kinh trung ương (gây ra
+
+các cơn thiếu máu não cục bộ thoáng qua
+
+). Không phải tất cả bệnh nhân đều có triệu chứng vi mạch ngay cả khi số lượng tiểu cầu cao.
+
+Không rõ liệu nguy cơ huyết khối mạch máu lớn gây
+
+huyết khối tĩnh mạch sâu
+
+hay
+
+thuyên tắc mạch phổi
+
+có tăng lên trong tăng tiểu cầu thiết yếu hay không, đặc biệt là vì tiểu cầu chủ yếu liên quan đến huyết khối động mạch và không có mối tương quan giữa số lượng tiểu cầu và huyết khối mạch máu lớn. Huyết khối mạch máu lớn có nhiều khả năng xảy ra ở những bệnh nhân mắc
+
+bệnh đa hồng cầu ẩn giấu
+
+và những bệnh nhân này, đặc biệt là phụ nữ, có thể bị chẩn đoán nhầm là có tăng tiểu cầu nguyên phát.
+
+Chảy máu có nhiều khả năng xảy ra khi bệnh tăng tiểu cầu cực độ (tức là khoảng 1,5 triệu tiểu cầu/mcL [1500
+
+×
+
+10
+
+9
+
+/L]); nguyên nhân là do sự thiếu hụt
+
+yếu tố von Willebrand
+
+mắc phải do tiểu cầu hấp thụ và phân giải protein các multimer von Willebrand có trọng lượng phân tử cao, gây ra
+
+hội chứng von Willebrand
+
+mắc phải loại 2.
+
+Triệu chứng và dấu hiệu của tăng tiểu cầu tiên phát
+
+Các triệu chứng thông thường là
+
+Bầm tím và chảy máu
+
+Đau nửa đầu ở mắt
+
+Dị cảm ở bàn tay và bàn chân (biểu hiện là đỏ đau đầu chi)
+
+Các tổn thương thần kinh
+
+Chảy máu thường nhẹ, hiếm khi tự phát và biểu hiện như chảy máu cam, dễ bầm tím hoặc chảy máu đường tiêu hóa. Tuy nhiên, chảy máu nghiêm trọng có thể xảy ra ở một tỷ lệ nhỏ bệnh nhân bị bệnh tăng tiểu cầu cực độ.
+
+Đỏ đau đầu chi (đau rát ở bàn tay và bàn chân, kèm theo nóng, ban đỏ và đôi khi thiếu máu cục bộ ở ngón kèm theo các vết loét có thể xảy ra.
+
+Các cơn thiếu máu cục bộ thoáng qua gây ra thiếu hụt thần kinh tùy thuộc vào phần nào của não bị ảnh hưởng.
+
+Lách có thể sờ thấy được, nhưng lách to đáng kể là bất thường. Lách to đáng kể có thể gợi ý một khối u tăng sinh tủy khác hoặc một nguyên nhân gây lách to mà không liên quan trực tiếp đến tăng số lượng tiểu cầu.
+
+Chẩn đoán tăng tiểu cầu tiên phát
+
+Công thức máu (CBC) và tiêu bản phết máu ngoại biên
+
+Loại trừ các nguyên nhân gây tăng tiểu cầu thứ phát và các ung thư tăng sinh tủy khác
+
+Xét nghiệm di truyền học tế bào
+
+Đột biến
+
+JAK2
+
+và, nếu âm tính, phân tích đột biến
+
+CALR
+
+hoặc
+
+MPL
+
+Hiếm khi chọc hút và sinh thiết tủy xương.
+
+Chẩn đoán
+
+tăng tiểu cầu
+
+tiên phát (ET) là một chẩn đoán loại trừ và cần được xem xét ở những bệnh nhân mà các nguyên nhân phản ứng thông thường và loại trừ các rối loạn tăng sinh tủy.
+
+Nếu nghi ngờ tăng tiểu cầu thiết yếu, nên thực hiện xét nghiệm công thức máu (CBC), phết máu ngoại vi và (do bệnh tăng tiểu cầu có thể do thiếu sắt) nên thực hiện các nghiên cứu về sắt.
+
+Trong tăng tiểu cầu nguyên phát, số lượng tiểu cầu là > 450.000/mcL (
+
+>
+
+450
+
+×
+
+10
+
+9
+
+/L), nhưng có thể là
+
+>
+
+1.000.000/mcL (
+
+>
+
+1000
+
+×
+
+10
+
+9
+
+/L). Số lượng tiểu cầu có thể giảm trong thai kỳ.
+
+Chẩn đoán được gợi ý với hematocrit bình thường, số lượng bạch cầu, thể tích trung bình hồng cầu (MCV) và nghiên cứu về sắt, cũng như không có chuyển vị
+
+BCR-ABL
+
+.
+
+Trên tiêu bản phết máu ngoại biên có thể thấy các tiểu cầu khổng lồ và các mảnh tế bào mẫu tiểu cầu.
+
+Một số
+
+hội chứng rối loạn sinh tủy
+
+(ví dụ:c thiếu máu kháng trị với nguyên bào sắt có vòng và bệnh tăng tiểu cầu [RARS-T], và hội chứng 5q-) có thể biểu hiện với số lượng tiểu cầu tăng cao. Nếu xác định được tình trạng giảm tế bào máu, cần xem xét
+
+hội chứng rối loạn sinh tủy
+
+.
+
+Cần thực hiện các nghiên cứu di truyền, bao gồm xét nghiệm định lượng
+
+JAK2 V617F
+
+(bằng giải trình tự thế hệ tiếp theo [NGS] hoặc phản ứng chuỗi polymerase định lượng), cùng với xét nghiệm
+
+BCR-ABL
+
+để loại trừ
+
+bệnh bạch cầu kinh dòng tủy
+
+(CML, có thể biểu hiện chỉ bằng bệnh tăng tiểu cầu) . Nếu xét nghiệm
+
+JAK2 V617F
+
+và
+
+BCR-ABL
+
+âm tính thì nên thực hiện xét nghiệm đột biến
+
+CALR
+
+và
+
+MPL
+
+. Một số bệnh nhân có kết quả xét nghiệm âm tính với cả 3 đột biến; nhiều người có các biến thể hiếm gặp của đột biến điều khiển khối u tăng sinh tủy và những người khác có đột biến dòng mầm ở
+
+MPL
+
+hoặc
+
+JAK2
+
+. Những bệnh nhân không có đột biến gen
+
+JAK2 V617F
+
+,
+
+CALR
+
+hoặc
+
+MPL
+
+(gọi là bộ ba âm tính) rất hiếm.
+
+Phân tích đột biến phải luôn mang tính định lượng vì gánh nặng alen gen điều khiển trong tăng tiểu cầu nguyên phát dương tính với
+
+JAK2 V617F
+
+không vượt quá 50%. Định lượng gen alen
+
+>
+
+50% cho biết tình trạng
+
+đa hồng cầu nguyên phát
+
+hoặc
+
+xơ tủy nguyên phát
+
+. Tuy nhiên, gánh nặng alen định lượng
+
+<
+
+50% không chắc chắn loại trừ bệnh đa hồng cầu nguyên phát hoặc bệnh xơ tủy nguyên phát vì những rối loạn này có thể xuất hiện kèm theo bệnh tăng tiểu cầu đơn thuần và trong bệnh đa hồng cầu nguyên phát (đặc biệt ở bệnh nhân nữ), tăng thể tích huyết tương có thể che lấp sự hiện diện của khối hồng cầu giãn nở. Ngoài ra, ở khoảng 25% số bệnh nhân (chủ yếu là phụ nữ) có biểu hiện ban đầu là tăng tiểu cầu nguyên phát, chuyển đổi sang bệnh đa hồng cầu nguyên phát diễn ra theo thời gian (khoảng 12 năm), dẫn đến tăng hematocrit và tăng gánh nặng alen
+
+JAK2V617F
+
+.
+
+Các hướng dẫn của Tổ chức Y tế Thế giới gợi ý rằng sinh thiết tủy xương cho thấy số lượng tế bào nhân khổng lồ trưởng thành, to lên là cần thiết để chẩn đoán bệnh tăng tiểu cầu nguyên phát, nhưng tiêu chuẩn này chưa bao giờ được xác nhận về mặt tiền cứu và kiểm tra tủy sẽ không phân biệt được tăng tiểu cầu nguyên phát với bệnh đa hồng cầu nguyên phát (
+
+1
+
+). Gánh nặng alen thường > 50% ở bệnh đa hồng cầu và bệnh xơ tủy nguyên phát.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Barbui T, Thiele J, Gisslinger H, et al
+
+. The 2016 WHO classification and diagnostic criteria for myeloproliferative neoplasms: document summary and in-depth discussion.
+
+Blood Cancer J
+
+2018; 8(2):15. doi:10.1038/s41408-018-0054-
+
+Điều trị tăng tiểu cầu tiên phát
+
+Đôi khi sử dụng
+
+aspirin
+
+Thuốc hạ tiểu cầu (ví dụ: pegylat interferon, anagrelide)
+
+Hiếm phải gạn tách tiểu cầu
+
+Hiếm khi có tác nhân gây độc tế bào như hydroxyurea
+
+Hiếm khi phải ghép tế bào gốc
+
+Aspirin 81 mg uống một lần mỗi ngày thường là đủ đối với các triệu chứng vận mạch nhẹ (ví dụ: nhức đầu, thiếu máu cục bộ nhẹ ở ngón, đỏ đau đầu chi) ở những bệnh nhân có ít nguy cơ (không mắc bệnh tim mạch) không có đột biến
+
+JAK2
+
+, nhưng có thể sử dụng liều cao hơn nếu cần. Nếu đau nửa đầu nặng có thể sử dụng thuốc hạ tiểu cầu.
+
+Công dụng của
+
+aspirin
+
+khi mang thai chưa được chứng minh và có thể kích thích chảy máu ở những bệnh nhân tăng tiểu cầu nguyên phát và đột biến
+
+CALR
+
+. Phụ nữ bị tăng tiểu cầu thiết yếu được cho là có tỷ lệ chết thai trong ba tháng đầu của thai kỳ cao hơn.
+
+Những bệnh nhân không có triệu chứng sử dụng thuốc lá hoặc mắc bệnh tim mạch hoặc các yếu tố nguy cơ tim mạch cũng được điều trị bằng
+
+aspirin
+
+. Việc sử dụng
+
+aspirin
+
+để dự phòng bệnh tim mạch khi không có bệnh tim mạch hoặc các yếu tố nguy cơ ở bệnh nhân > 65 tuổi có liên quan đến tỷ lệ bị tác dụng bất lợi không thể chấp nhận được, đặc biệt là xuất huyết tiêu hóa. Không có bằng chứng cho thấy bệnh nhân > 65 tuổi không có triệu chứng được hưởng lợi từ liệu pháp
+
+aspirin
+
+.
+
+Axit aminocaproic hoặc axit tranexamic có hiệu quả trong việc kiểm soát xuất huyết do
+
+hội chứng von Willebrand
+
+mắc phải trong các thủ thuật nhỏ như làm răng. Các phẫu thuật lớn có thể cần điều chỉnh số lượng tiểu cầu. Chức năng tiểu cầu có thể được đánh giá bằng cách đo hoạt động của đồng yếu tố ristocetin.
+
+Thuốc ức chế JAK2 như ruxolitinib có thể có hiệu quả trong điều trị tăng tiểu cầu nguyên phát.
+
+Đồng nhiễm
+
+ghép tế bào gốc
+
+hiếm khi được sử dụng trong tăng tiểu cầu tiên phát nhưng có thể có hiệu quả nếu có sự chuyển đổi sang bệnh bạch cầu cấp tính.
+
+Giảm số lượng tiểu cầu
+
+Bởi vì tiên lượng thường tốt và không có mối tương quan giữa mức độ của bệnh tăng tiểu cầu và huyết khối, không nên sử dụng các loại thuốc có khả năng gây độc làm giảm số lượng tiểu cầu chỉ để làm số lượng tiểu cầu bình thường ở những bệnh nhân không có triệu chứng. Chỉ định dừng thuốc
+
+Các yếu tố nguy cơ tim mạch
+
+Thiếu máu não thoáng quavà đột qui
+
+Sử dụng thuốc lá
+
+Chảy máu đáng kể
+
+Khi cần phẫu thuật ở những bệnh nhân có tăng quá mạnh tiểu cầu và giảm ngưng tập với ristocetin
+
+Đôi khi đau nửa đầu nặng
+
+Tuy nhiên, không có dữ liệu chứng minh liệu pháp gây độc tế bào có thể giảm nguy cơ huyết khôi hoặc cải thiện thời gian sống.
+
+Thuốc dùng để hạ tiểu cầu
+
+bao gồm anagrelide, interferon alfa-2b, và hydroxyurea.
+
+Hydroxyurea
+
+, từng được coi là thuốc được lựa chọn để điều trị tăng tiểu cầu nguyên phát, không có lợi ích gì và gây độc cho tủy khi sử dụng lâu dài.
+
+Hydroxyurea chỉ nên do các chuyên gia quen thuộc với việc sử dụng và theo dõi thuốc kê đơn và không bao giờ sử dụng lâu dài. Bệnh nhân được theo dõi công thức máu hàng tuần. Nếu số lượng bạch cầu xuống
+
+<
+
+4000/mcL (
+
+<
+
+4
+
+×
+
+10
+
+9
+
+/L), cần ngưng hydroxyurea và tiếp tục ở mức 50% liều khi giá trị này trở về bình thường. Khi đạt được trạng thái ổn định, cần theo dõi công thức máu 2 tuần 1 lần, và sau đó là 4 tuần 1 lần. Mục đích là làm giảm các triệu chứng và không bao giờ làm số lượng tiểu cầu bình thường. Việc rút hydroxyurea quá nhanh có thể dẫn đến sự dội ngược nhanh chóng đến mức tiểu cầu và chu kỳ tiểu cầu rất cao.
+
+Do
+
+anagrelide
+
+và
+
+hydroxyurea
+
+đi qua nhau thai nên các thuốc này không được sử dụng trong thời kỳ mang thai; pegylat interferon alfa-2a có thể được sử dụng cho phụ nữ mang thai khi cần thiết.
+
+Anagrelide nên được sử dụng thận trọng cho bệnh nhân lớn tuổi vì tác dụng của thuốc đối với hệ tim mạch (ví dụ như đánh trống ngực, loạn nhịp tim) và thận (ví dụ, ứ dịch, suy thận).
+
+Interferon là liệu pháp an toàn nhất cho chứng đau nửa đầu khi các loại thuốc trị đau nửa đầu chuyên dụng không có hiệu quả.
+
+Ruxolitinib, được bổ sung vào liệu pháp tốt nhất hiện có, có thể có hiệu quả trong điều trị tăng tiểu cầu nguyên phát, nhưng thử nghiệm lâm sàng duy nhất, thử nghiệm MAJIC, đã có sai sót do sử dụng ruxolitinib liều quá cao ở những bệnh nhân tăng tiểu cầu nguyên phát được điều trị một phần (
+
+1
+
+).
+
+Gạn tách tiểu cầu
+
+được sử dụng ở những bệnh nhân xuất huyết trầm trọng hoặc huyết khối tái diễn hoặc trước khi phẫu thuật với mục đích để giảm tiểu cầu ngay lập tức. Tuy nhiên, gạn tách tiểu cầu ít khi cần thiết. Tác dụng của nó là tạm thời với sự hồi phục nhanh chóng trong số lượng tiểu cầu. Hydroxyurea hoặc anagrelide không có hiệu quả tức thời nhưng nên được bắt đầu sử dụng vào cùng thời điểm với gạn tách tiểu cầu.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Harrison CN, Nangalia J, Boucher R, et al
+
+.
+
+Ruxolitinib
+
+Versus Best Available Therapy for Polycythemia Vera Intolerant or Resistant to
+
+Hydroxycarbamide
+
+in a Randomized Trial.
+
+J Clin Oncol
+
+2023;41(19):3534-3544. doi:10.1200/JCO.22.01935
+
+Tiên lượng cho tăng tiểu cầu tiên phát
+
+Tuổi thọ gần như bình thường. Mặc dù các triệu chứng là phổ biến, quá trình diễn biến của bệnh thường lành tính.
+
+Các biến chứng huyết khối động mạch tĩnh nghiêm trọng rất hiếm gặp nhưng có thể đe dọa tính mạng. Tỷ lệ chuyển lơ xê mi
+
+<
+
+2% bệnh nhân nhưng có thể tăng lên sau khi tiếp xúc với điều trị gây độc tế bào, bao gồm hydroxyurea.
+
+Một số bệnh nhân phát triển thành xơ tủy thứ phát, đặc biệt là nam giới có
+
+JAK2V617F
+
+hoặc là đột biến
+
+CALR
+
+loại 1.
+
+Bệnh nhân tăng tiểu cầu nguyên phát có xét nghiệm âm tính với cả 3 đột biến (
+
+JAK2 V617F
+
+,
+
+CALR
+
+,
+
+MPL
+
+) rất hiếm và có tiên lượng tốt.
+
+Những điểm chính
+
+ET là một bất thường dòng của tế bào gốc tạo máu vạn năng dẫn đến tăng tiểu cầu.
+
+Bệnh nhân có nguy cơ huyết khối vi mạch và xuất huyết.
+
+ET là chẩn đoán loại trừ; đặc biệt là các rối loạn tăng sinh tủy do ung thư và tăng tiểu cầu phản ứng (thứ phát) cần được loại trừ.
+
+Bệnh nhân không có triệu chứng không cần điều trị. Aspirin thường có hiệu quả đối với các biến cố vi mạc (đau nửa đầu, hồng ban đỏ đau và các cơn thiếu máu cục bộ).
+
+Bệnh nhân bị bệnh tăng tiểu cầu cực độ có thể cần điều trị tích cực hơn để kiểm soát số lượng tiểu cầu; các biện pháp như vậy bao gồm pegylat interferon alpha, hydroxyurea, anagrelide, ruxolitinib và lọc bỏ tiểu cầu.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Tăng tiểu cầu tiên phát; Tăng tiểu cầu nguyên phát) ---
+
+TheoJane Liesveld,MD,James P. Wilmot Cancer Institute, University of Rochester Medical CenterXem xét bởiJerry L. Spivak,MD; MACP,, Johns Hopkins University School of MedicineĐã xem xét/Đã chỉnh sửađã sửa đổiThg 12 2023v974064_vi
+
+--- 2. Nguyên nhân của tăng tiểu cầu tiên phát ---
+
+Tăng tiểu cầu tiên phát là một bệnh lý tế bào gốc tạo máu vô tính gây ra tình trạng tăng sản sinh tiểu cầu. Tăng tiểu cầu nguyên phát thường xảy ra sau 50 tuổi với tỷ lệ mắc bệnh tăng lên ở nữ giới.Khoảng 50% bệnh nhân có đột biến enzyme Janus kinase 2 (JAK2),JAK2V617F, JAK2 là thành viên của họ enzyme tyrosine kinase và tham gia vào việc truyền dẫn tín hiệu choerythropoietin, thrombopoietin và yếu tố kích thích tạo thành cụm hạt (G-CSF).Những bệnh nhân khác có đột biến ở exon 9 của gen calreticulin (CALR). Đột biếnCALRthường có 2 thể, gọi là thể 1 và thể 2. Bệnh nhân có các đột biếnCALRcó xu hướng có số lượng tiểu cầu cao hơn bệnh nhân có đột biếnJAK2(1).Một số bệnh nhân có đột biến gen thụ thể tạo huyết khối soma (MPL) mắc phải.Tài liệu tham khảo nguyên nhân gây bệnh1.Tefferi A, Wassie EA, Guglielmelli P, et al. Type 1 versus Type 2 calreticulin mutations in essential thrombocythemia: a collaborative study of 1027 patients.Am J Hematol2014;89(8):E121-E124. doi:10.1002/ajh.23743
+
+--- 3. Sinh lý bệnh tăng tiểu cầu tiên phát ---
+
+Tăng tiểu cầu có thể dẫn đếnTắc mạch vi mạchHuyết khối mạch máu lớnChảy máuTắc mạch máu nhỏ liên quan đến các mạch máu nhỏ ở các chi xa (gâyđỏ đau đầu chi), mắt (gâyđau nửa đầuở mắt) hoặc hệ thần kinh trung ương (gây racác cơn thiếu máu não cục bộ thoáng qua). Không phải tất cả bệnh nhân đều có triệu chứng vi mạch ngay cả khi số lượng tiểu cầu cao.Không rõ liệu nguy cơ huyết khối mạch máu lớn gâyhuyết khối tĩnh mạch sâuhaythuyên tắc mạch phổicó tăng lên trong tăng tiểu cầu thiết yếu hay không, đặc biệt là vì tiểu cầu chủ yếu liên quan đến huyết khối động mạch và không có mối tương quan giữa số lượng tiểu cầu và huyết khối mạch máu lớn. Huyết khối mạch máu lớn có nhiều khả năng xảy ra ở những bệnh nhân mắcbệnh đa hồng cầu ẩn giấuvà những bệnh nhân này, đặc biệt là phụ nữ, có thể bị chẩn đoán nhầm là có tăng tiểu cầu nguyên phát.Chảy máu có nhiều khả năng xảy ra khi bệnh tăng tiểu cầu cực độ (tức là khoảng 1,5 triệu tiểu cầu/mcL [1500×109/L]); nguyên nhân là do sự thiếu hụtyếu tố von Willebrandmắc phải do tiểu cầu hấp thụ và phân giải protein các multimer von Willebrand có trọng lượng phân tử cao, gây rahội chứng von Willebrandmắc phải loại 2.
+
+--- 4. Triệu chứng và dấu hiệu của tăng tiểu cầu tiên phát ---
+
+Các triệu chứng thông thường làBầm tím và chảy máuĐau nửa đầu ở mắtDị cảm ở bàn tay và bàn chân (biểu hiện là đỏ đau đầu chi)Các tổn thương thần kinhChảy máu thường nhẹ, hiếm khi tự phát và biểu hiện như chảy máu cam, dễ bầm tím hoặc chảy máu đường tiêu hóa. Tuy nhiên, chảy máu nghiêm trọng có thể xảy ra ở một tỷ lệ nhỏ bệnh nhân bị bệnh tăng tiểu cầu cực độ.Đỏ đau đầu chi (đau rát ở bàn tay và bàn chân, kèm theo nóng, ban đỏ và đôi khi thiếu máu cục bộ ở ngón kèm theo các vết loét có thể xảy ra.Các cơn thiếu máu cục bộ thoáng qua gây ra thiếu hụt thần kinh tùy thuộc vào phần nào của não bị ảnh hưởng.Lách có thể sờ thấy được, nhưng lách to đáng kể là bất thường. Lách to đáng kể có thể gợi ý một khối u tăng sinh tủy khác hoặc một nguyên nhân gây lách to mà không liên quan trực tiếp đến tăng số lượng tiểu cầu.
+
+--- 5. Chẩn đoán tăng tiểu cầu tiên phát ---
+
+Công thức máu (CBC) và tiêu bản phết máu ngoại biênLoại trừ các nguyên nhân gây tăng tiểu cầu thứ phát và các ung thư tăng sinh tủy khácXét nghiệm di truyền học tế bàoĐột biếnJAK2và, nếu âm tính, phân tích đột biếnCALRhoặcMPLHiếm khi chọc hút và sinh thiết tủy xương.Chẩn đoántăng tiểu cầutiên phát (ET) là một chẩn đoán loại trừ và cần được xem xét ở những bệnh nhân mà các nguyên nhân phản ứng thông thường và loại trừ các rối loạn tăng sinh tủy.Nếu nghi ngờ tăng tiểu cầu thiết yếu, nên thực hiện xét nghiệm công thức máu (CBC), phết máu ngoại vi và (do bệnh tăng tiểu cầu có thể do thiếu sắt) nên thực hiện các nghiên cứu về sắt.Trong tăng tiểu cầu nguyên phát, số lượng tiểu cầu là > 450.000/mcL (>450×109/L), nhưng có thể là>1.000.000/mcL (>1000×109/L). Số lượng tiểu cầu có thể giảm trong thai kỳ.Chẩn đoán được gợi ý với hematocrit bình thường, số lượng bạch cầu, thể tích trung bình hồng cầu (MCV) và nghiên cứu về sắt, cũng như không có chuyển vịBCR-ABL.Trên tiêu bản phết máu ngoại biên có thể thấy các tiểu cầu khổng lồ và các mảnh tế bào mẫu tiểu cầu.Một sốhội chứng rối loạn sinh tủy(ví dụ:c thiếu máu kháng trị với nguyên bào sắt có vòng và bệnh tăng tiểu cầu [RARS-T], và hội chứng 5q-) có thể biểu hiện với số lượng tiểu cầu tăng cao. Nếu xác định được tình trạng giảm tế bào máu, cần xem xéthội chứng rối loạn sinh tủy.Cần thực hiện các nghiên cứu di truyền, bao gồm xét nghiệm định lượngJAK2 V617F(bằng giải trình tự thế hệ tiếp theo [NGS] hoặc phản ứng chuỗi polymerase định lượng), cùng với xét nghiệmBCR-ABLđể loại trừbệnh bạch cầu kinh dòng tủy(CML, có thể biểu hiện chỉ bằng bệnh tăng tiểu cầu) . Nếu xét nghiệmJAK2 V617FvàBCR-ABLâm tính thì nên thực hiện xét nghiệm đột biếnCALRvàMPL. Một số bệnh nhân có kết quả xét nghiệm âm tính với cả 3 đột biến; nhiều người có các biến thể hiếm gặp của đột biến điều khiển khối u tăng sinh tủy và những người khác có đột biến dòng mầm ởMPLhoặcJAK2. Những bệnh nhân không có đột biến genJAK2 V617F,CALRhoặcMPL(gọi là bộ ba âm tính) rất hiếm.Phân tích đột biến phải luôn mang tính định lượng vì gánh nặng alen gen điều khiển trong tăng tiểu cầu nguyên phát dương tính vớiJAK2 V617Fkhông vượt quá 50%. Định lượng gen alen>50% cho biết tình trạngđa hồng cầu nguyên pháthoặcxơ tủy nguyên phát. Tuy nhiên, gánh nặng alen định lượng<50% không chắc chắn loại trừ bệnh đa hồng cầu nguyên phát hoặc bệnh xơ tủy nguyên phát vì những rối loạn này có thể xuất hiện kèm theo bệnh tăng tiểu cầu đơn thuần và trong bệnh đa hồng cầu nguyên phát (đặc biệt ở bệnh nhân nữ), tăng thể tích huyết tương có thể che lấp sự hiện diện của khối hồng cầu giãn nở. Ngoài ra, ở khoảng 25% số bệnh nhân (chủ yếu là phụ nữ) có biểu hiện ban đầu là tăng tiểu cầu nguyên phát, chuyển đổi sang bệnh đa hồng cầu nguyên phát diễn ra theo thời gian (khoảng 12 năm), dẫn đến tăng hematocrit và tăng gánh nặng alenJAK2V617F.Các hướng dẫn của Tổ chức Y tế Thế giới gợi ý rằng sinh thiết tủy xương cho thấy số lượng tế bào nhân khổng lồ trưởng thành, to lên là cần thiết để chẩn đoán bệnh tăng tiểu cầu nguyên phát, nhưng tiêu chuẩn này chưa bao giờ được xác nhận về mặt tiền cứu và kiểm tra tủy sẽ không phân biệt được tăng tiểu cầu nguyên phát với bệnh đa hồng cầu nguyên phát (1). Gánh nặng alen thường > 50% ở bệnh đa hồng cầu và bệnh xơ tủy nguyên phát.Tài liệu tham khảo chẩn đoán1.Barbui T, Thiele J, Gisslinger H, et al. The 2016 WHO classification and diagnostic criteria for myeloproliferative neoplasms: document summary and in-depth discussion.Blood Cancer J2018; 8(2):15. doi:10.1038/s41408-018-0054-
+
+--- 6. Điều trị tăng tiểu cầu tiên phát ---
+
+Đôi khi sử dụngaspirinThuốc hạ tiểu cầu (ví dụ: pegylat interferon, anagrelide)Hiếm phải gạn tách tiểu cầuHiếm khi có tác nhân gây độc tế bào như hydroxyureaHiếm khi phải ghép tế bào gốcAspirin 81 mg uống một lần mỗi ngày thường là đủ đối với các triệu chứng vận mạch nhẹ (ví dụ: nhức đầu, thiếu máu cục bộ nhẹ ở ngón, đỏ đau đầu chi) ở những bệnh nhân có ít nguy cơ (không mắc bệnh tim mạch) không có đột biếnJAK2, nhưng có thể sử dụng liều cao hơn nếu cần. Nếu đau nửa đầu nặng có thể sử dụng thuốc hạ tiểu cầu.Công dụng củaaspirinkhi mang thai chưa được chứng minh và có thể kích thích chảy máu ở những bệnh nhân tăng tiểu cầu nguyên phát và đột biếnCALR. Phụ nữ bị tăng tiểu cầu thiết yếu được cho là có tỷ lệ chết thai trong ba tháng đầu của thai kỳ cao hơn.Những bệnh nhân không có triệu chứng sử dụng thuốc lá hoặc mắc bệnh tim mạch hoặc các yếu tố nguy cơ tim mạch cũng được điều trị bằngaspirin. Việc sử dụngaspirinđể dự phòng bệnh tim mạch khi không có bệnh tim mạch hoặc các yếu tố nguy cơ ở bệnh nhân > 65 tuổi có liên quan đến tỷ lệ bị tác dụng bất lợi không thể chấp nhận được, đặc biệt là xuất huyết tiêu hóa. Không có bằng chứng cho thấy bệnh nhân > 65 tuổi không có triệu chứng được hưởng lợi từ liệu phápaspirin.Axit aminocaproic hoặc axit tranexamic có hiệu quả trong việc kiểm soát xuất huyết dohội chứng von Willebrandmắc phải trong các thủ thuật nhỏ như làm răng. Các phẫu thuật lớn có thể cần điều chỉnh số lượng tiểu cầu. Chức năng tiểu cầu có thể được đánh giá bằng cách đo hoạt động của đồng yếu tố ristocetin.Thuốc ức chế JAK2 như ruxolitinib có thể có hiệu quả trong điều trị tăng tiểu cầu nguyên phát.Đồng nhiễmghép tế bào gốchiếm khi được sử dụng trong tăng tiểu cầu tiên phát nhưng có thể có hiệu quả nếu có sự chuyển đổi sang bệnh bạch cầu cấp tính.Giảm số lượng tiểu cầuBởi vì tiên lượng thường tốt và không có mối tương quan giữa mức độ của bệnh tăng tiểu cầu và huyết khối, không nên sử dụng các loại thuốc có khả năng gây độc làm giảm số lượng tiểu cầu chỉ để làm số lượng tiểu cầu bình thường ở những bệnh nhân không có triệu chứng. Chỉ định dừng thuốcCác yếu tố nguy cơ tim mạchThiếu máu não thoáng quavà đột quiSử dụng thuốc láChảy máu đáng kểKhi cần phẫu thuật ở những bệnh nhân có tăng quá mạnh tiểu cầu và giảm ngưng tập với ristocetinĐôi khi đau nửa đầu nặngTuy nhiên, không có dữ liệu chứng minh liệu pháp gây độc tế bào có thể giảm nguy cơ huyết khôi hoặc cải thiện thời gian sống.Thuốc dùng để hạ tiểu cầubao gồm anagrelide, interferon alfa-2b, và hydroxyurea.Hydroxyurea, từng được coi là thuốc được lựa chọn để điều trị tăng tiểu cầu nguyên phát, không có lợi ích gì và gây độc cho tủy khi sử dụng lâu dài.Hydroxyurea chỉ nên do các chuyên gia quen thuộc với việc sử dụng và theo dõi thuốc kê đơn và không bao giờ sử dụng lâu dài. Bệnh nhân được theo dõi công thức máu hàng tuần. Nếu số lượng bạch cầu xuống<4000/mcL (<4×109/L), cần ngưng hydroxyurea và tiếp tục ở mức 50% liều khi giá trị này trở về bình thường. Khi đạt được trạng thái ổn định, cần theo dõi công thức máu 2 tuần 1 lần, và sau đó là 4 tuần 1 lần. Mục đích là làm giảm các triệu chứng và không bao giờ làm số lượng tiểu cầu bình thường. Việc rút hydroxyurea quá nhanh có thể dẫn đến sự dội ngược nhanh chóng đến mức tiểu cầu và chu kỳ tiểu cầu rất cao.Doanagrelidevàhydroxyureađi qua nhau thai nên các thuốc này không được sử dụng trong thời kỳ mang thai; pegylat interferon alfa-2a có thể được sử dụng cho phụ nữ mang thai khi cần thiết.Anagrelide nên được sử dụng thận trọng cho bệnh nhân lớn tuổi vì tác dụng của thuốc đối với hệ tim mạch (ví dụ như đánh trống ngực, loạn nhịp tim) và thận (ví dụ, ứ dịch, suy thận).Interferon là liệu pháp an toàn nhất cho chứng đau nửa đầu khi các loại thuốc trị đau nửa đầu chuyên dụng không có hiệu quả.Ruxolitinib, được bổ sung vào liệu pháp tốt nhất hiện có, có thể có hiệu quả trong điều trị tăng tiểu cầu nguyên phát, nhưng thử nghiệm lâm sàng duy nhất, thử nghiệm MAJIC, đã có sai sót do sử dụng ruxolitinib liều quá cao ở những bệnh nhân tăng tiểu cầu nguyên phát được điều trị một phần (1).Gạn tách tiểu cầuđược sử dụng ở những bệnh nhân xuất huyết trầm trọng hoặc huyết khối tái diễn hoặc trước khi phẫu thuật với mục đích để giảm tiểu cầu ngay lập tức. Tuy nhiên, gạn tách tiểu cầu ít khi cần thiết. Tác dụng của nó là tạm thời với sự hồi phục nhanh chóng trong số lượng tiểu cầu. Hydroxyurea hoặc anagrelide không có hiệu quả tức thời nhưng nên được bắt đầu sử dụng vào cùng thời điểm với gạn tách tiểu cầu.Tài liệu tham khảo về điều trị1.Harrison CN, Nangalia J, Boucher R, et al.RuxolitinibVersus Best Available Therapy for Polycythemia Vera Intolerant or Resistant toHydroxycarbamidein a Randomized Trial.J Clin Oncol2023;41(19):3534-3544. doi:10.1200/JCO.22.01935
+
+--- 7. Tiên lượng cho tăng tiểu cầu tiên phát ---
+
+Tuổi thọ gần như bình thường. Mặc dù các triệu chứng là phổ biến, quá trình diễn biến của bệnh thường lành tính.Các biến chứng huyết khối động mạch tĩnh nghiêm trọng rất hiếm gặp nhưng có thể đe dọa tính mạng. Tỷ lệ chuyển lơ xê mi<2% bệnh nhân nhưng có thể tăng lên sau khi tiếp xúc với điều trị gây độc tế bào, bao gồm hydroxyurea.Một số bệnh nhân phát triển thành xơ tủy thứ phát, đặc biệt là nam giới cóJAK2V617Fhoặc là đột biếnCALRloại 1.Bệnh nhân tăng tiểu cầu nguyên phát có xét nghiệm âm tính với cả 3 đột biến (JAK2 V617F,CALR,MPL) rất hiếm và có tiên lượng tốt.
+
+--- 8. Những điểm chính ---
+
+ET là một bất thường dòng của tế bào gốc tạo máu vạn năng dẫn đến tăng tiểu cầu.Bệnh nhân có nguy cơ huyết khối vi mạch và xuất huyết.ET là chẩn đoán loại trừ; đặc biệt là các rối loạn tăng sinh tủy do ung thư và tăng tiểu cầu phản ứng (thứ phát) cần được loại trừ.Bệnh nhân không có triệu chứng không cần điều trị. Aspirin thường có hiệu quả đối với các biến cố vi mạc (đau nửa đầu, hồng ban đỏ đau và các cơn thiếu máu cục bộ).Bệnh nhân bị bệnh tăng tiểu cầu cực độ có thể cần điều trị tích cực hơn để kiểm soát số lượng tiểu cầu; các biện pháp như vậy bao gồm pegylat interferon alpha, hydroxyurea, anagrelide, ruxolitinib và lọc bỏ tiểu cầu.

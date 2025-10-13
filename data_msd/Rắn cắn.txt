@@ -1,0 +1,769 @@
+TIÊU ĐỀ: Rắn cắn
+URL: https://www.msdmanuals.com/vi/professional/chấn-thương-ngộ-độc/cắn-và-đốt/rắn-cắn
+================================================================================
+
+NỘI DUNG:
+
+Rắn cắn
+
+Theo
+
+Robert A. Barish
+
+,
+
+MD, MBA
+
+,
+
+University of Illinois at Chicago;
+
+Thomas Arnold
+
+,
+
+MD
+
+,
+
+Department of Emergency Medicine, LSU Health Sciences Center Shreveport
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 1 2025
+
+v1117359_vi
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Có khoảng 3000 loài rắn trên toàn thế giới và chỉ có khoảng 15% trên toàn thế giới và 20% ở Hoa Kỳ là nguy hiểm với con người do nọc độc hoặc tiết ra nước bọt độc (xem bảng
+
+Các loại rắn độc đáng kể theo khu vực
+
+). Có ít nhất một loài rắn độc có nguồn gốc từ mọi tiểu bang tại Hoa Kỳ, ngoại trừ Alaska, Maine và Hawaii. Hầu hết đều là rắn lục (được đặt tên như vậy vì có các vết lõm giống như hố ở hai bên đầu, là cơ quan cảm nhận nhiệt):
+
+Rắn chuông (
+
+Crotalus
+
+)
+
+Đầu đồng (
+
+Agkistrodon
+
+)
+
+Cottonmouth hoặc moccasins nước (
+
+Agkistrodon
+
+)
+
+Khoảng 45.000 vụ rắn cắn được báo cáo mỗi năm tại các trung tâm chống độc ở Hoa Kỳ (trong đó có 7000 đến 8000 vụ là rắn độc và gây ra khoảng 5 ca tử vong) (
+
+1
+
+). Rắn chuông chiếm phần lớn các vụ rắn cắn và hầu hết các ca tử vong. Rắn hổ Copperheads, và ở một mức độ thấp hơn, rắn hổ nang nước chiếm hầu hết các vết cắn độc.
+
+Rắn san hô là loài rắn hổ mang, một họ rắn khác có đặc điểm là có nọc độc thần kinh và các loài rắn nhập khẩu (trong các sở thú, trường học, trang trại rắn và các bộ sưu tập nghiệp dư và chuyên nghiệp) chiếm
+
+<
+
+1% tổng số các vụ cắn có nọc độc ở Hoa Kỳ.
+
+Hầu hết các ca tử vong do ngộ độc rắn xảy ra ở những bệnh nhân nam cố tình chạm vào rắn; ethanol là một yếu tố góp phần gây ra nhiều ca tử vong do ngộ độc rắn (
+
+2
+
+). Hầu hết các vết cắn xảy ra ở các chi trên. Các yếu tố rủi ro cho tử vong bao gồm tuổi tác cao, xử lý rắn độc (chứ không phải là các cuộc gặp gỡ hoang dã), trì hoãn điều trị và điều trị kém.
+
+Bên ngoài Hoa Kỳ, các vụ rắn cắn gây tử vong phổ biến hơn nhiều, chiếm
+
+>
+
+100.000 ca tử vong mỗi năm (
+
+3
+
+).
+
+Các loài rắn không có nọc độc ở Hoa Kỳ bao gồm rắn chuột, rắn vua và rắn nước. Vết cắn của loài rắn này chỉ cần chăm sóc vết thương tại chỗ.
+
+Bảng
+
+Các loại Rắn độc Hại Quan trọng theo Vùng
+
+Bảng
+
+Các loại Rắn độc Hại Quan trọng theo Vùng
+
+Các loại Rắn độc Hại Quan trọng theo Vùng
+
+Khu vực địa lý
+
+Rắn
+
+Châu phi
+
+Con rắn chim
+
+Rắn lụcBoomslang
+
+Rắn hang
+
+Rắn hổ lục Gaboon viper
+
+Rắn Mamba
+
+Rắn lục Mole viper
+
+Rắn natal black
+
+Răn lục Puff adder
+
+Châu Á
+
+Rắn lục châu Á
+
+Rắn hổ mang chúa
+
+Krait- rắn cạp long
+
+rắn lục pit viper ở Malaysia
+
+rắn hoa cổ đỏ red-necked keelback
+
+rắn hổ bướm russell's viper
+
+Úc
+
+Rắn death Adder
+
+Rắn nâu vua
+
+Rắnđen bụng đỏ
+
+rắn Taipan
+
+Rắn hổ
+
+Trung tâm và nam Mỹ
+
+Rắn chúa bụi Bushmaster
+
+rắn cantil pit viper
+
+rắn san hô
+
+rắn Fer-de-lance
+
+Rắn palm pit viper
+
+Rắn đuôi chuông
+
+Châu Âu
+
+Adder
+
+Rắn lục Asp viper
+
+rắn đầu cùn blunt nose viper
+
+rắn sừng
+
+Rắn Ottoman viper
+
+Vùng Ấn Độ Dương Thái Bình Dương
+
+Rắn cạp nong biển
+
+Rắn biển
+
+Trung đông
+
+Rắn hang
+
+Rắn hổ mang Ai Cập
+
+Rắn sừng hoặc rắn sa mạc
+
+Rắn đào hang mole viper
+
+Rắn natal black
+
+Rắn lục Palestin
+
+Rắn saw-scaled viper
+
+Rắn sa mạc Sinai
+
+Bắc Mỹ
+
+Rắn Copperhead
+
+Rắn san hô
+
+Rắn hổ mang cá
+
+Rắn đuôi chuông (ví dụ, rắn diamondback, sidewinder, timber, prairie, Mojave)
+
+Tài liệu tham khảo
+
+1.
+
+U.S. Centers for Disease Control and Prevention (CDC); National Institute for Occupational Safety and Health (NIOSH)
+
+. Venomous Snakes at Work. Truy cập ngày 17 tháng 12 năm 2024.
+
+2.
+
+Greene SC, Folt J, Wyatt K, Brandehoff NP
+
+. Epidemiology of fatal snakebites in the United States 1989-2018.
+
+Am J Emerg Med.
+
+2021;45:309-316. doi:10.1016/j.ajem.2020.08.083
+
+3.
+
+World Health Organization (WHO)
+
+. Snakebite Envenoming. Truy cập ngày 12 tháng 12 năm 2024.
+
+Sinh lý bệnh của rắn cắn
+
+Nọc độc của rắn là một phức hợp phức tạp, chủ yếu là các protein, có hoạt tính enzym. Mặc dù enzyme đóng một vai trò quan trọng, các tính chất gây chết người của nọc độc là do một số polypeptit nhỏ hơn. Hầu hết các thành phần nọc độc dường như gắn kết với các thụ thể sinh lý khác nhau, và các nỗ lực để phân loại nọc độc theo hệ thống cụ thể (ví dụ độc tố thần kinh neurotoxin, độc tố tan máu hemotoxin, độc tố tim mạch cardiotoxin, độc tố trên cơ myotoxin) gây hiểu nhầm và có thể dẫn đến sai sót trong đánh giá lâm sàng.
+
+Rắn lục
+
+Nọc độc của hầu hết những con rắn lục ở Bắc Mỹ đều có những tác động tại chỗ cũng như những tác động có hệ thống như chứng rối loạn đông máu. Các tác dụng có thể bao gồm
+
+Các tổn thương mô địa phương, gây phù nề và chứng loạn dưỡng
+
+Tổn thương nội mô mạch
+
+Tan máu
+
+Hội chứng đông máu nội mạch rải rác (DIC) – giống như hội chứng giảm fibrinogen
+
+Các khuyết tật về phổi, tim, thận và thần kinh
+
+Nọc độc làm thay đổi tính thấm của màng mao mạch, gây ra tình trạng thoát chất điện giải,
+
+albumin
+
+và hồng cầu qua thành mạch vào vị trí bị nhiễm nọc độc. Quá trình này có thể xảy ra ở phổi, cơ tim, thận, phúc mạc, và, hiếm khi, hệ thần kinh trung ương. Các hội chứng lâm sàng thứ phát từ thông thường đến nặng nề do nọc độc của rắn lục bao gồm:
+
+Phù:
+
+Ban đầu, xảy ra phù nề, hạ albumin máu và tụ máu.
+
+Giảm thể tích máu:
+
+Sau đó, máu và dịch tụ lại ở vi tuần hoàn, gây hạ huyết áp, toan máu tăng acid lactic, sốc, và, trong trường hợp nặng, suy đa tạng. Lưu lượng máu lưu thông hiệu quả giảm và có thể góp phần làm suy tim và suy thận.
+
+Chảy máu:
+
+Giảm tiểu cầu có ý nghĩa lâm sàng (số lượng tiểu cầu
+
+<
+
+20 × 10
+
+9
+
+tế bào/L [20.000 tế bào/mcL]) thường gặp ở những vết cắn nghiêm trọng của rắn đuôi chuông và có thể xảy ra riêng lẻ hoặc kết hợp với các bệnh lý đông máu khác. Sự đông máu nội mạch do nọc độc có thể gây ra hội chứng giống DIC, dẫn đến chảy máu.
+
+Suy thận:
+
+Suy thận có thể là hậu quả của hạ huyết áp nghiêm trọng, tan máu, tiêu cơ vân, độc tố thận hoặc hội chứng giống DIC. Protein niệu, hemoglobin niệu, và myoglobin niệu có thể xảy ra trong các vụ rắn đuôi chuông cắn nghiêm trọng.
+
+Vết thương rắn cắn
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Thomas Arnold cung cấp.
+
+Nọc độc của hầu hết các loài rắn lục Bắc Mỹ chỉ gây ra những thay đổi rất nhỏ trong quá trình dẫn truyền thần kinh cơ, ngoại trừ nọc độc của rắn đuôi chuông Mojave và rắn đuôi chuông kim cương miền Đông, có thể gây ra những khiếm khuyết thần kinh nghiêm trọng (ví dụ: yếu cơ, suy hô hấp).
+
+ElapidsC
+
+Rắn san hô
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Mike Cardwell (Victorville, CA) cung cấp.
+
+Rắn san hô là loài rắn hổ mang phổ biến nhất được tìm thấy ở Hoa Kỳ. Các loài rắn hổ mang khác bao gồm rắn hổ mang chúa và rắn mamba. Nọc độc của những con rắn này chủ yếu chứa các thành phần gây độc thần kinh, gây ra sự phong tỏa synap thần kinh, có thể gây liệt hô hấp. Sự thiếu hoạt động của enzyme proteolytic chủ yếu là do sự thiếu sót của các triệu chứng và dấu hiệu tại chỗ cắn.
+
+Các triệu chứng và dấu hiệu của rắn cắn
+
+Một vết rắn cắn, dù là từ rắn độc hay không độc hại, thường gây ra tác động mạnh, thường có biểu hiện thần kinh tự động (ví dụ như buồn nôn, nôn ói, nhịp tim nhanh, tiêu chảy, toát mồ hôi), có thể khó phân biệt với các biểu hiện toàn thân.
+
+Các rắn cắn không độc hại chỉ gây thương tích ở tại chỗ, thường là đau và 2 đến 4 hàng trầy xước từ hàm trên của rắn ở khu vực cắn.
+
+Các triệu chứng và dấu hiệu của nhiễm độc tố có thể là cục bộ, hệ thống, hoặc sự kết hợp, tùy thuộc vào mức độ độc tố xâm nhập vào và loài rắn.
+
+Sốc phản vệ
+
+có thể xảy ra, đặc biệt đối với người xử lý con rắn đã từng bị cắn trước đó.
+
+Rắn lục
+
+Khoảng 25% vết cắn của rắn lục là vết cắn khô (không tiết nọc độc) và không có triệu chứng hoặc dấu hiệu toàn thân nào phát triển.
+
+Dấu hiệu tại chỗ
+
+bao gồm
+
+≥
+
+1 dấu răng và vết trầy xước. Rỉ máu từ vết thương cho thấy dấu hiệu nghi ngờ của nọc độc. Nếu xảy ra việc nhiễm độc, phù nề và hồng ban tại chỗ cắn và trong các mô lân cận xảy ra, thường trong vòng 30 đến 60 phút. Phù có thể tiến triển nhanh và có thể kéo dài trong vòng vài giờ. Viêm hạch và hạch sưng to, có thể phát triển hạch vùng; nhiệt độ tăng lên trên vùng cắn.
+
+Trong những trường hợp nhiễm độc vừa hoặc nặng
+
+, bầm máu là phổ biến và có thể xuất hiện tại và xung quanh khu vực cắn trong vòng 3 đến 6 giờ. Bầm máu trầm trọng nhất sau khi cắn bởi
+
+Rắn đuôi chuông phía đông và tây diamondbacks
+
+Rắn Cottonmouths
+
+Rắn đuôi chuông đồng cỏ, pacific và rắn chuông gỗ
+
+Da quanh vết cắn có thể xuất hiện căng và đổi màu. Phỏng nước-huyết thanh, xuất huyết, hoặc cả hai-thường xuất hiện tại chỗ cắn trong vòng 8 giờ. Phù do rắn đuôi chuông Bắc Mỹ có thể rất nghiêm trọng nhưng thường giới hạn ở các mô da và dưới da, mặc dù nhiễm khuẩn nặng ít gây ra phù nề trong mô dưới da, gây ra
+
+hội chứng khoang
+
+(được định nghĩa là áp lực khoang
+
+≥
+
+30 mmHg trong > 1 giờ, hoặc < 30 mmHg dưới áp suất tâm trương). Hoại tử xung quanh chỗ cắn là rất phổ biến sau khi bị nọc độc rắn đuôi chuông xâm nhập. Hầu hết các ảnh hưởng của nọc độc trên mô mềm đạt đỉnh điểm trong vòng từ 2 đến 4 ngày.
+
+Bầm máu ít gặp hơn sau khi bị rắn copperhead và rắn đuôi chuông Mojave cắn.
+
+Biểu hiện hệ thống
+
+có thể bao gồm buồn nôn, nôn, tiêu chảy, toát mồ hôi, lo lắng, hoang mang, chảy máu tự phát, sốt, đau ngực, khó thở, dị cảm, hạ huyết áp, và sốc. Một số bệnh nhân bị rắn đuôi chuông cắn có thể thấy một hương vị cao su, bạc hà, hoặc kim loại trong miệng của họ. Nọc độc của hầu hết các rắn lục pit viper ở Bắc Mỹ gây ra những thay đổi dẫn truyền thần kinh cơ nhỏ, bao gồm yếu cơ và dị cảm và sự co bóp cơ. Một số bệnh nhân có thay đổi tình trạng tinh thần. Nọc độc của rắn Mojave và rắn đuôi chuông diamondback phía đông có thể gây ra triệu chứng thần kinh nghiêm trọng, bao gồm suy hô hấp.
+
+Sốc phản vệ có thể gây ra các triệu chứng toàn thân.
+
+Nhiễm nọc độc của rắn đuôi chuông
+
+có thể gây ra nhiều bất thường về đông máu, bao gồm giảm tiểu cầu, kéo dài thời gian prothrombin (PT, đo bằng INR [tỷ lệ chuẩn hóa quốc tế]) hoặc thời gian thromboplastin một phần hoạt hóa (PTT), giảm fibrinogen máu, tăng sản phẩm phân hủy fibrin hoặc kết hợp các triệu chứng này, gây ra hội chứng giống
+
+đông máu rải rác trong lòng mạch
+
+(DIC). Giảm tiểu cầu thường là biểu hiện đầu tiên và có thể không có triệu chứng hoặc, với sự hiện diện của một bệnh lý đông máu nhiều thành phần, gây chảy máu tự phát. Bệnh nhân bị rối loạn đông máu thường xuất huyết từ vết cắn hoặc từ các vị trí chích gần tĩnh mạch hoặc màng nhầy, giác mạc, xuất huyết nướu, chảy máu, huyết khối, tiểu máu hoặc kết hợp. Sự gia tăng hematocrit (Hct) là một phát hiện ban đầu của chứng phù và cô đặc máu. Sau đó, Hct có thể giảm như là kết quả của việc thay thế dịch và mất máu do hội chứng giống DIC. Trong trường hợp nặng, tan huyết có thể làm giảm Hct nhanh.
+
+Elapids
+
+Đau và sưng có thể ở mức tối thiểu hoặc không có, và thường là tạm thời. Sự vắng mặt của các triệu chứng và dấu hiệu tại chỗ có thể cho thấy một vết cắn khô, gây ra một cảm giác giả mạo về an toàn cho cả bệnh nhân và bác sĩ lâm sàng.
+
+Ngọc trai & cạm bẫy
+
+Nghi ngờ bị nhiễm độc với tất cả các vết cắn gây ra bởi rắn độc, ngay cả khi không có dấu hiệu nhiễm độc ngay sau khi cắn.
+
+Điểm yếu của phần cắn có thể trở nên rõ ràng trong vài giờ. Các biểu hiện cơ và thần kinh cơ có thể bị trì hoãn trong 12 giờ và bao gồm yếu ớt và lơ mơ; thay đổi cảm giác (ví dụ, hưng phấn, buồn ngủ); liệt các dây thần kinh sọ gây ra chứng sụp mi, nhìn đôi, thị lực mờ, nói khó, và chứng khó nuốt; tăng tiết nước bọt; yếu có; và suy hô hấp hoặc ngừng thở. Một khi các biểu hiện độc hại thần kinh gây ra, chúng rất khó đảo ngược và có thể kéo dài từ 3 đến 6 ngày. Không chữa trị, có thể gây liệt cơ hô hấp và gây tử vong.
+
+Chẩn đoán rắn cắn
+
+Xác định rắn
+
+Xếp hạng mức độ nghiêm trọng của sự nhiễm độc
+
+Chẩn đoán chính xác rắn cắn được hỗ trợ bởi nhận dạng của rắn và biểu hiện lâm sàng của sự nhiễm độc. Bệnh sử nên bao gồm thời gian cắn, mô tả về rắn, loại biện pháp tại chỗ, các điều kiện y tế cơ bản, dị ứng với sản phẩm ngựa hoặc cừu, và lịch sử của các rắn cắn và điều trị trước đó. Cần phải thăm khám hoàn chỉnh. Nên đánh dấu điểm phù nề của chi hay vùng bị ảnh hưởng, thời gian đánh dấu cũng nên được nghi lại.
+
+Rắn phải được giả định là độc cho đến khi được chứng minh bằng cách xác định rõ ràng loài hoặc trong một thời gian quan sát.
+
+Xác định rắn
+
+Bệnh nhân thường không thể nhớ lại chi tiết về sự xuất hiện của con rắn. Rắn lục và rắn không độc có thể được phân biệt bằng một số đặc điểm vật lý (xem hình
+
+Nhận dạng rắn lục
+
+). Tham khảo ý kiến ​​của sở thú, thủy cung hoặc trung tâm chống độc (ví dụ: tại Hoa Kỳ, số 1-800-222-1222) có thể giúp xác định loài rắn.
+
+Nhận dạng loài rắn lục Pit Viper
+
+rắn Pit vipers có các tính năng sau đây, giúp phân biệt chúng với rắn không độc:
+
+Đầu mũi tên hình tam giác
+
+đồng tử hình elip
+
+Hố cảm giác nóng giữa mắt và mũi
+
+Răng nanh có thể thu vào
+
+Một hàng đơn của tấm phụ kéo dài từ tấm hậu môn phía dưới đuôi
+
+Rắn đuôi chuông
+
+Hình ảnh
+
+Hình ảnh do Tiến sĩ Edward J. Wozniak, DVM cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Rắn hổ mang phía Nam
+
+Hình ảnh
+
+Hình ảnh do CDC/James Gathany cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Rắn hổ mang nước miền Đông
+
+Hình ảnh
+
+Hình ảnh do CDC/James Gathany cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Rắn san hô ở Hoa Kỳ có đồng tử tròn và mõm đen nhưng không có hố trên mặt. Chúng có đầu cùn hoặc có hình xì gà và các dây xen kẽ với màu đỏ, vàng (kem), và màu đen, thường làm cho chúng bị nhầm lẫn với loài rắn vua chúng thường có màu đỏ, đen và vàng. Đặc điểm phân biệt trong rắn san hô là các dải màu đỏ chỉ có các dải màu vàng, chứ không phải các dải màu đen ("đỏ trên màu vàng, giết một đồng nghiệp, đỏ trên da đen, thiếu nọc độc"). Rắn san hô có nanh ngắn, cố định và tiêm nọc độc thông qua các cử động nhai.
+
+Hình dạng răng nanh gợi ý nhưng không kết luận; rắn đuôi chuông có thể để lại dấu vân đơn hoặc kép hoặc các dấu hiệu răng khác, trong khi các vết cắn bởi những con rắn không thường xuyên thường để lại nhiều dấu hiệu răng cưa trên bề mặt. Tuy nhiên, số lượng vết răng và các vị trí cắn có thể khác nhau bởi rắn có thể tấn công hoặc cắn nhiều lần.
+
+Rắn lục cắn được chẩn đoán khi không có triệu chứng hoặc dấu hiệu nhiễm nọc độc xuất hiện trong vòng 8 giờ sau khi cắn.
+
+Mức độ nghiêm trọng của nọc độc
+
+Mức độ nghiêm trọng của nọc độc phụ thuộc vào những điều sau:
+
+Kích thước và loài rắn (rắn đuôi chuông
+
+>
+
+rắn hổ mang nước
+
+>
+
+rắn hổ mang)
+
+Số lượng nọc độc được tiêm mỗi lần cắn (chưa xác định được)
+
+Số vết cắn
+
+Vị trí và chiều sâu vết cắn, ví dụ, vết cắn ở đầu và thân có xu hướng nặng hơn vết cắn ở tay chân
+
+Tuổi, trọng lượng và sức khoẻ của người bệnh
+
+Thời gian bị cắn cho đến khi tới trung tâm y tế
+
+Sự nhạy cảm của bệnh nhân với nọc độc
+
+Mức độ nặng của nọc độc có thể được phân loại là tối thiểu, trung bình hoặc nghiêm trọng dựa trên các dấu hiệu tại địa phương, các triệu chứng và dấu hiệu toàn thân, các thông số đông máu và kết quả xét nghiệm (xem bảng
+
+Mức độ nặng của nọc độc rắn lục
+
+). Mức độ nặng của vết cắn phải được xác định dựa trên triệu chứng, dấu hiệu hoặc kết quả xét nghiệm trong vòng 8 giờ kể từ thời điểm bị cắn.
+
+Nhiễm độc có thể tiến triển nhanh chóng từ nhẹ đến nặng và phải được theo dõi, đánh giá lại liên tục.
+
+Nếu các triệu chứng toàn thân xuất hiện rất sớm, nên dự đoán đó là
+
+sốc phản vệ
+
+.
+
+Bảng
+
+Mức độ Nghiêm trọng của Nọc độc Rắn lục
+
+Bảng
+
+Mức độ Nghiêm trọng của Nọc độc Rắn lục
+
+Mức độ Nghiêm trọng của Nọc độc Rắn lục
+
+Mức độ
+
+Mô tả
+
+Tối thiểu
+
+chỉ có biểu hiện tại vị trí cắn
+
+Không có dấu hiệu toàn thân hay thay đổi các chỉ số trên xét nghiệm
+
+Vừa
+
+vết cắn lan rộng ra tổ chức xung quanh
+
+Các triệu chứng và các dấu hiệu đe dọa đến tính mạng (ví dụ như buồn nôn, nôn ói, rối loạn cảm giác)
+
+Rối loạn đông máu hoặc thay đổi các chỉ số xét nghiệm không có sự mất máu đáng kể trên lâm sàng
+
+Nặng
+
+Biến đổi trên toàn bộ chi bị tổn thương
+
+Triệu chứng và dấu hiệu lâm sàng nghiêm trọng (ví dụ, hạ huyết áp, khó thở, sốc)
+
+Đông máu bất thường và xét nghiệm có biến đổi có hoặc không có chảy máu đáng kể về mặt lâm sàng
+
+Dữ liệu từ Lavonas EJ, Ruha AM, Banner W, et al. Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an evidence-informed consensus workshop.
+
+BMC Emerg Med.
+
+2011;11:2. Xuất bản ngày 3 tháng 2 năm 2011. doi:10.1186/1471-227X-11-2
+
+Dữ liệu từ Lavonas EJ, Ruha AM, Banner W, et al. Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an evidence-informed consensus workshop.
+
+BMC Emerg Med.
+
+2011;11:2. Xuất bản ngày 3 tháng 2 năm 2011. doi:10.1186/1471-227X-11-2
+
+Điều trị rắn cắn
+
+Sơ cứu (làm sạch vết thương và cầm máu)
+
+Chăm sóc hỗ trợ
+
+Chống độc
+
+Chăm sóc vết thương
+
+Vết cắn của rắn không có nọc độc chỉ cần chăm sóc vết thương tại chỗ. Tuy nhiên, nếu bệnh nhân không chắc chắn về loại rắn, có thể cần phải quan sát để xác định xem có bị nhiễm nọc độc hay không.
+
+Cách tiếp cận chung
+
+Điều trị rắn cắn ngay khi phát hiện, trước cả khi bệnh nhân được đưa đến cơ sở y tế.
+
+Trên đồng ruộng,
+
+bệnh nhân nên tự di chuyển hoặc được đưa ra khỏi phạm vi nguy hiểm của con rắn. Họ nên đươc hạn chế vận động, trấn an, giữ ấm, và vận chuyển nhanh đến cơ sở y tế gần nhất. Phía trên vết cắn nên cuốn băng lỏng lẻo và cố định ở vị trí ngang mức tim, đồng thời tất cả các nhẫn, đồng hồ và quần áo bó sátnên được loại bỏ. Việc bất động bằng áp lực để làm chậm quá trình hấp thụ nọc độc toàn thân (ví dụ: bằng cách quấn garô hoặc băng vải khác quanh chi) có thể phù hợp với vết cắn của rắn san hô nhưng không được khuyến nghị ở Hoa Kỳ, nơi hầu hết các vết cắn là do rắn lục; việc bất động bằng áp lực có thể gây suy động mạch và hoại tử.
+
+Người phát hiện đầu tiên nên hỗ trợ đường thở và hô hấp, bổ sung oxy, và thiết lập đường truyền tĩnh mạch ở bên không bị ảnh hưởng trong khi vận chuyển bệnh nhân. Tất cả các biện pháp can thiệp khác ngoài bệnh viện (ví dụ như ép tay lên vết thương, bôi thuốc, hút máutại vết thương, rạch rộng vết thương, chườm lạnh, sốc điện) được chứng minh không có tác dụng mà còn có thể gây hại, và có thể trì hoãn việc điều trị kịp thơi. Tuy nhiên, nếu đã thực hiện băng ép, trừ khi có đe dọa thiếu máu chi cấp tính, nên giữ nguyên cho đến khi bệnh nhân được đưa đến bệnh viện và nọc độc được loại bỏ hoặc phương pháp điều trị thật sự được tiến hành.
+
+Ngọc trai & cạm bẫy
+
+Không rạch da hoặc thêm dụng cụ chèn ép cầm máu vào vết thương.
+
+Đánh giá và kiểm tra
+
+bắt đầu ở khoa cấp cứu. Việc đánh dấu ranh giới hàng đầu về phù nề tại vị trí vết thương mỗi 15 đến 30 phút có thể giúp các nhà lâm sàng đánh giá sự tiến triển của hiện tượng nhiễm độc tại chỗ. Chu vi tứ chi cần phải được đo khi đến bệnh viện và theo các khoảng thời gian đều đặn cho đến khi tình trạng tiến triển tại chỗ giảm xuống. Tất cả những vết cắn nhỏ đều cần
+
+Công thức máu cơ bản (bao gồm tiểu cầu)
+
+Dữ liệu về đông máu (ví dụ, thời gian prothrombin, thời gian thromboplastin một phần, fibrinogen)
+
+Định lượng các sản phẩm thoái hóa fibrin
+
+Phân tích nước tiểu
+
+Đo điện giải huyết thanh, nitơ
+
+urê
+
+máu (BUN) và creatinin (
+
+1
+
+)
+
+Đối với trường hợp ngộ độc vừa và nặng, bệnh nhân cần xét nghiệm nhóm máu và phản ứng chéo, điện tâm đồ, chụp X-quang ngực và xét nghiệm creatine kinase, tùy theo tình trạng của bệnh nhân, thường xuyên tới 4 giờ một lần trong 12 giờ đầu và sau đó là hàng ngày. Trong quá trình điều trị bệnh nhân bị rắn san hô cắn, tác dụng của nọc độc thần kinh đòi hỏi phải theo dõi
+
+độ bão hòa oxy
+
+và
+
+các kiểm tra chức năng phổi
+
+ở lần khám ban đầu và liên tục (tức là lưu lượng đỉnh, dung tích sống).
+
+Thời gian theo dõi
+
+đối với tất cả các bệnh nhân bị rắn lúc cắn kéo dài ít nhất là 8 giờ. Bệnh nhân không có dấu hiệu của nhiễm độc sau 8 giờ có thể được cho về nhà sau khi
+
+chăm sóc vết thương đầy đủ
+
+. Bệnh nhân bị rắn cắn san hô phải được giám sát chặt chẽ trong ít nhất 12 giờ trong trường hợp có tê liệt cơ hô hấp tiến triển. Sự nhiễm độc ban đầu được đánh giá là nhẹ có thể tiến triển đến mức nặng chỉ trong vòng vài giờ.
+
+Điều trị hỗ trợ
+
+có thể bao gồm hỗ trợ hô hấp, thuốc benzodiazepin để giảm lo âu và an thần, thuốc phiện để giảm đau, và bù dịch và hỗ trợ thuốc làm co mạch để điều trị sốc. Có thể cần phải
+
+truyền máu
+
+(ví dụ: khối hồng cầu, huyết tương tươi đông lạnh, kết tủa lạnh, tiểu cầu) nhưng không nên truyền trước khi bệnh nhân được tiêm đủ lượng thuốc kháng nọc rắn trung hòa vì hầu hết các bệnh lý đông máu đều đáp ứng với đủ lượng thuốc kháng nọc rắn trung hòa. Dự phòng sốc khi nghi ngờ (ví dụ, với các triệu chứng toàn thân xuất hiện ngay lập tức) được điều trị bằng các biện pháp tiêu chuẩn, bao gồm cả epinephrine.
+
+Mở khí quản
+
+có thể cần thiết nếu có dấu hiệu cứng hàm, co thắt thanh quản, hoặc tiết nhiều đờm dãi.
+
+Chống độc
+
+Cùng với chăm sóc hỗ trợ tích cực, chống độc là yếu tố chính để điều trị cho bệnh nhân.
+
+Đối với tình trạng nhiễm độc nọc rắn lục
+
+, phương pháp điều trị chính ở Hoa Kỳ là thuốc kháng nọc rắn FAb đa chủng Crotalidae có nguồn gốc từ cừu (các mảnh FAb tinh khiết của IgG thu được từ cừu đã được tiêm miễn dịch nọc rắn lục) (
+
+1
+
+). Hiệu quả của thuốc kháng nọc rắn này phụ thuộc vào thời gian và liều lượng; thuốc có hiệu quả nhất trong việc ngăn ngừa tổn thương mô do nọc độc gây ra khi được dùng càng sớm càng tốt. Sẽ ít hiệu quả hơn nếu bị trì hoãn nhưng có thể cải thiện rối loạn đông máu và có thể có hiệu quả ngay cả tiêm sau 24 giờ nhiễm độc. FAb miễn dịch đa chủng Crotalidae rất an toàn, mặc dù nó vẫn có thể gây ra các phản ứng cấp tính (trên da hoặc phản vệ) và phản ứng quá mẫn chậm (
+
+bệnh huyết thanh
+
+). Bệnh về huyết thanh xuất hiện ở 16% bệnh nhân từ 1 đến 3 tuần sau khi dùng sản phẩm FAb.
+
+Một liều từ 4 đến 12 lọ chứa Crotalidae polyvalent immune FAb pha loãng trong 250 mL nước muối thông thường nên truyền chậm ở 20 đến 50 mL/h trong 10 phút đầu tiên; sau đó, nếu không có phản ứng bất lợi xảy ra, phần còn lại được truyền vào trong các giờ tiếp theo. Liều tương tự có thể được lặp lại 2 lần nếu cần thiết để kiểm soát hoàn toàn các triệu chứng, rối loạn đông máu, và các chỉ số sinh lý. Ở trẻ em, liều không được giảm (ví dụ, dựa trên cân nặng hoặc kích cỡ). Đo chu vi của chi cùng bên bị cắn ở 3 điểm gần với vết thương và đo ranh giới phù nề từ 15 đến 30 phút có thể giúp đưa ra các quyết định về nhu cầu bổ sung liều. Sau khi đạt được sự kiểm soát, 2 liều pha trong dung dịch muối 250 mL được cho ở khoảng thời gian 6, 12, và 18 giờ để tránh tái phát sưng phồng và các biến chứng khác.
+
+Crotalidae miễn dịch F(ab')2 (ngựa) là một loại thuốc kháng nọc rắn có nguồn gốc từ ngựa bao gồm các mảnh Fab2 miễn dịch Crotalidae được tái tạo. Thuốc được sử dụng để điều trị vết cắn của rắn đuôi chuông Bắc Mỹ ở người lớn và trẻ em.
+
+Ngọc trai & cạm bẫy
+
+Cho trẻ bị cắn một liều thuốc kháng độc như người lớn.
+
+Tùy loài rắn lục có thể ảnh hưởng đến liều lượng. Nọc độc gây ra do rắn hổ mang cá, rắn hổ mang, và rắn đuôi chuông có thể dùng liều kháng độc nhỏ hơn. Tuy nhiên, thuốc kháng độc không nên được giữ lại dựa trên loài rắn và nên được dùng dựa trên mức độ nhiễm độc ở bất kể các loài.
+
+Đối với trường hợp
+
+nhiễm nọc độc rắn san hô
+
+, thuốc kháng nọc rắn san hô đa chủng có nguồn gốc từ ngựa (thuốc kháng nọc rắn san hô) được dùng cho người lớn và trẻ em.
+
+Cần cân nhắc
+
+các biện pháp phòng ngừa trước khi điều trị bằng thuốc kháng nọc rắn
+
+đối với những bệnh nhân có tiền sử quá mẫn với thuốc giải độc cụ thể đang được cân nhắc hoặc với huyết thanh ngựa hoặc cừu và những người có tiền sử hen suyễn hoặc dị ứng nhiều loại. Ở những bệnh nhân như vậy, nếu sự nhiễm độc được coi là đe dọa đến tính mạng hoặc cả chi, kháng histamin H1 và H2 nên được dùng trước khi dùng kháng độc trong một môi trường chăm sóc đặc biệt được trang bị đầy đủ đề phòng
+
+sốc phản vệ
+
+. Các phản ứng phản vệ đối với thuốc kháng nọc đã được ghi nhận và thường là do truyền nhanh quá; xử trí là tạm ngừng truyền dịch và cho epinephrine, thuốc kháng histamin H1 và H2 và truyền dịch đường tĩnh mạch, tùy theo mức độ nghiêm trọng. Thông thường, thuốc kháng độc có thể được truyền tiếp tục sau khi pha loãng thêm và truyền với tốc độ chậm hơn.
+
+Bệnh huyết thanh
+
+có thể xuất hiện, biểu hiện từ 7 đến 21 ngày sau khi điều trị như sốt, nổi ban, mệt mỏi, nổi mề đay, đau khớp, và nổi hạch. Điều trị là thuốc kháng H1 và một liều corticosteroid uống.
+
+Các biện pháp hỗ trợ
+
+Bệnh nhân nên được dự phòng uốn ván (toxoid và đôi khi là Ig) theo chỉ định của bệnh sử (xem bảng
+
+Dự phòng uốn ván trong sử trí vết thương thông thường)
+
+. Rắn cắn hiếm khi bị nhiễm trùng và thuốc kháng sinh chỉ được chỉ định cho những bệnh nhân có bằng chứng lâm sàng về nhiễm trùng. Nếu cần, các phương án bao gồm cephalosporin thế hệ thứ nhất (ví dụ: cephalexin đường uống, cefazolin đường tĩnh mạch) hoặc penicillin phổ rộng (ví dụ: amoxicillin/acid clavulanic đường uống, ampicillin/sulbactam đường tĩnh mạch). Các lựa chọn kháng sinh sau đó nên dựa trên kết quả nuôi cấy vi khuẩn và kết quả kháng sinh đồ.
+
+Chăm sóc vết thương
+
+cho vết cắn cũng tương tự như các vết thương hở khác. Vết thương được làm sạch và băng bó. Đối với các vết cắn ở chi, chi được nẹp cố định ở vị trí cơ năng và đặt ở vị trí cao hơn. Vết thương nên được kiểm tra và làm sạch hàng ngày và được bao phủ bởi gạc vô trùng. Mụn nước, bọng nước chứa máu hay các mảng hoại tử trên bề mặt nên được cắt lọc vào khoảng ngày thứ 3 đến ngày thứ 10, từng phần một nếu cần thiết. Kĩ thuật dùng dòng xoáy nước vô trùng cũng có thể được chỉ định cho việc sạch vết thương và vật lí trị liệu. Mở cân cơ (ví dụ đối với
+
+hội chứng của khoang
+
+) hiếm khi được chỉ định và chỉ nên cân nhắc khi áp lực khoang
+
+≥
+
+30 mmHg trong > 1 giờ hoặc < 30 mm Hg dưới huyết áp tâm trương, gây tổn thương mạch nghiêm trọng, không đáp ứng với điều trị nâng cao chi và truyền tĩnh mạch mannitol 1 đến 2 g/kg, và liều thuốc kháng nọc độc không có tác dụng. Chỉ phù to đơn độc
+
+không phải
+
+chỉ định cho mở cân cơ. Vận động, cơ lực, cảm giác và đường kính chi nên được đánh giá lại trong vòng 2 ngày sau khi có vết cắn. Cứng khớp có thể phòng tránh bằng việc tập dần các bài tập nhẹ nhàng sau thời gian bất động, nâng dần từ các động tác bị động sang chủ động.
+
+Các trung tâm chống độc và sở thú tại địa phương
+
+là nơi có các nguồn hỗ trợ tuyệt vời khi xử trí các vết rắn cắn, ngay cả với những loại rắn không có nguồn gốc tại nơi đó. Các cơ sở này giữ một danh sách các bác sĩ được đào tạo về nhận dạng rắn và chăm sóc các vết thương do rắn cắn, cũng như danh mục các loại thuốc kháng nọc độc, được công bố và cập nhật định kỳ bởi Hiệp hội động vật và sinh vật biển Hoa Kỳ và Hiệp hội các Trung tâm Chống độc Hoa Kỳ. Danh mục này cho biết vị trí và số lượng các lọ thuốc có sẵn cho tất cả các loài rắn độc bản địa và hầu hết các loài ngoại lai. Tại Hoa Kỳ, có đường dây trợ giúp quốc gia theo số 1-800-222-1222.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Lavonas EJ, Ruha AM, Banner W, et al
+
+. Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an evidence-informed consensus workshop.
+
+BMC Emerg Med.
+
+2011;11:2. Xuất bản ngày 3 tháng 2 năm 2011. doi:10.1186/1471-227X-11-2
+
+Những điểm chính
+
+Ở Hoa Kỳ, các loại rắn độc phổ biến bao gồm rắn đuôi chuông, rắn đồng đầu và rắn lục (tất cả đều thuộc họ rắn lục), nhưng rắn đuôi chuông là nguyên nhân gây ra nhiều vết cắn và hầu hết các ca tử vong.
+
+Sự xâm nhập nọc độc của rắn lục có thể gây ra những tác động tại chỗ (ví dụ như đau, sưng tấy, xuất huyết) và các ảnh hưởng toàn thân (như nôn ói, vã mồ hôi, giảm ý thức, chảy máu, sốt, đau ngực, khó thở, dị cảm, tụt huyết áp).
+
+Các đặc điểm có thể giúp phân biệt rắn lục với các loài rắn không độc bao gồm: đồng tử hình elip, đầu hình tam giác, các nanh có thể thu vào, các lỗ cảm ứng nhiệt giữa mắt và mũi, và một hàng vảy bắt đầu từ vùng vảy hậu môn ở mặt dưới đuôi.
+
+Tại hiện trường, đưa bệnh nhân ra khỏi khu vực bị rắn tấn công, chuẩn bị phương tiện nhanh chóng vận chuyển, quấn kín chi bị cắn, cố định nó ở ngang mức tim, và tháo bỏ các vật dụng gây bó, thắt như nhẫn và đồng hồ; không cắt, rạch vào vết thươn hay thực hiện garo.
+
+Theo dõi bệnh nhân có các vết cắn của rắn lục thường xuyên trong ít nhất 8 giờ, lâu hơn nếu phát hiện thấy có nhiễm nọc độc rắn.
+
+Điều trị vết thương và triệu chứng, và hội chẩn với trung tâm chống độc.
+
+Cho dùng sớm thuốc kháng nọc rắn.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của rắn cắn ---
+
+Nọc độc của rắn là một phức hợp phức tạp, chủ yếu là các protein, có hoạt tính enzym. Mặc dù enzyme đóng một vai trò quan trọng, các tính chất gây chết người của nọc độc là do một số polypeptit nhỏ hơn. Hầu hết các thành phần nọc độc dường như gắn kết với các thụ thể sinh lý khác nhau, và các nỗ lực để phân loại nọc độc theo hệ thống cụ thể (ví dụ độc tố thần kinh neurotoxin, độc tố tan máu hemotoxin, độc tố tim mạch cardiotoxin, độc tố trên cơ myotoxin) gây hiểu nhầm và có thể dẫn đến sai sót trong đánh giá lâm sàng.Rắn lụcNọc độc của hầu hết những con rắn lục ở Bắc Mỹ đều có những tác động tại chỗ cũng như những tác động có hệ thống như chứng rối loạn đông máu. Các tác dụng có thể bao gồmCác tổn thương mô địa phương, gây phù nề và chứng loạn dưỡngTổn thương nội mô mạchTan máuHội chứng đông máu nội mạch rải rác (DIC) – giống như hội chứng giảm fibrinogenCác khuyết tật về phổi, tim, thận và thần kinhNọc độc làm thay đổi tính thấm của màng mao mạch, gây ra tình trạng thoát chất điện giải,albuminvà hồng cầu qua thành mạch vào vị trí bị nhiễm nọc độc. Quá trình này có thể xảy ra ở phổi, cơ tim, thận, phúc mạc, và, hiếm khi, hệ thần kinh trung ương. Các hội chứng lâm sàng thứ phát từ thông thường đến nặng nề do nọc độc của rắn lục bao gồm:Phù:Ban đầu, xảy ra phù nề, hạ albumin máu và tụ máu.Giảm thể tích máu:Sau đó, máu và dịch tụ lại ở vi tuần hoàn, gây hạ huyết áp, toan máu tăng acid lactic, sốc, và, trong trường hợp nặng, suy đa tạng. Lưu lượng máu lưu thông hiệu quả giảm và có thể góp phần làm suy tim và suy thận.Chảy máu:Giảm tiểu cầu có ý nghĩa lâm sàng (số lượng tiểu cầu<20 × 109tế bào/L [20.000 tế bào/mcL]) thường gặp ở những vết cắn nghiêm trọng của rắn đuôi chuông và có thể xảy ra riêng lẻ hoặc kết hợp với các bệnh lý đông máu khác. Sự đông máu nội mạch do nọc độc có thể gây ra hội chứng giống DIC, dẫn đến chảy máu.Suy thận:Suy thận có thể là hậu quả của hạ huyết áp nghiêm trọng, tan máu, tiêu cơ vân, độc tố thận hoặc hội chứng giống DIC. Protein niệu, hemoglobin niệu, và myoglobin niệu có thể xảy ra trong các vụ rắn đuôi chuông cắn nghiêm trọng.Vết thương rắn cắnHình ảnhHình ảnh do bác sĩ Thomas Arnold cung cấp.Nọc độc của hầu hết các loài rắn lục Bắc Mỹ chỉ gây ra những thay đổi rất nhỏ trong quá trình dẫn truyền thần kinh cơ, ngoại trừ nọc độc của rắn đuôi chuông Mojave và rắn đuôi chuông kim cương miền Đông, có thể gây ra những khiếm khuyết thần kinh nghiêm trọng (ví dụ: yếu cơ, suy hô hấp).ElapidsCRắn san hôHình ảnhHình ảnh do bác sĩ Mike Cardwell (Victorville, CA) cung cấp.Rắn san hô là loài rắn hổ mang phổ biến nhất được tìm thấy ở Hoa Kỳ. Các loài rắn hổ mang khác bao gồm rắn hổ mang chúa và rắn mamba. Nọc độc của những con rắn này chủ yếu chứa các thành phần gây độc thần kinh, gây ra sự phong tỏa synap thần kinh, có thể gây liệt hô hấp. Sự thiếu hoạt động của enzyme proteolytic chủ yếu là do sự thiếu sót của các triệu chứng và dấu hiệu tại chỗ cắn.
+
+--- 2. Các triệu chứng và dấu hiệu của rắn cắn ---
+
+Một vết rắn cắn, dù là từ rắn độc hay không độc hại, thường gây ra tác động mạnh, thường có biểu hiện thần kinh tự động (ví dụ như buồn nôn, nôn ói, nhịp tim nhanh, tiêu chảy, toát mồ hôi), có thể khó phân biệt với các biểu hiện toàn thân.Các rắn cắn không độc hại chỉ gây thương tích ở tại chỗ, thường là đau và 2 đến 4 hàng trầy xước từ hàm trên của rắn ở khu vực cắn.Các triệu chứng và dấu hiệu của nhiễm độc tố có thể là cục bộ, hệ thống, hoặc sự kết hợp, tùy thuộc vào mức độ độc tố xâm nhập vào và loài rắn.Sốc phản vệcó thể xảy ra, đặc biệt đối với người xử lý con rắn đã từng bị cắn trước đó.Rắn lụcKhoảng 25% vết cắn của rắn lục là vết cắn khô (không tiết nọc độc) và không có triệu chứng hoặc dấu hiệu toàn thân nào phát triển.Dấu hiệu tại chỗbao gồm≥1 dấu răng và vết trầy xước. Rỉ máu từ vết thương cho thấy dấu hiệu nghi ngờ của nọc độc. Nếu xảy ra việc nhiễm độc, phù nề và hồng ban tại chỗ cắn và trong các mô lân cận xảy ra, thường trong vòng 30 đến 60 phút. Phù có thể tiến triển nhanh và có thể kéo dài trong vòng vài giờ. Viêm hạch và hạch sưng to, có thể phát triển hạch vùng; nhiệt độ tăng lên trên vùng cắn.Trong những trường hợp nhiễm độc vừa hoặc nặng, bầm máu là phổ biến và có thể xuất hiện tại và xung quanh khu vực cắn trong vòng 3 đến 6 giờ. Bầm máu trầm trọng nhất sau khi cắn bởiRắn đuôi chuông phía đông và tây diamondbacksRắn CottonmouthsRắn đuôi chuông đồng cỏ, pacific và rắn chuông gỗDa quanh vết cắn có thể xuất hiện căng và đổi màu. Phỏng nước-huyết thanh, xuất huyết, hoặc cả hai-thường xuất hiện tại chỗ cắn trong vòng 8 giờ. Phù do rắn đuôi chuông Bắc Mỹ có thể rất nghiêm trọng nhưng thường giới hạn ở các mô da và dưới da, mặc dù nhiễm khuẩn nặng ít gây ra phù nề trong mô dưới da, gây rahội chứng khoang(được định nghĩa là áp lực khoang≥30 mmHg trong > 1 giờ, hoặc < 30 mmHg dưới áp suất tâm trương). Hoại tử xung quanh chỗ cắn là rất phổ biến sau khi bị nọc độc rắn đuôi chuông xâm nhập. Hầu hết các ảnh hưởng của nọc độc trên mô mềm đạt đỉnh điểm trong vòng từ 2 đến 4 ngày.Bầm máu ít gặp hơn sau khi bị rắn copperhead và rắn đuôi chuông Mojave cắn.Biểu hiện hệ thốngcó thể bao gồm buồn nôn, nôn, tiêu chảy, toát mồ hôi, lo lắng, hoang mang, chảy máu tự phát, sốt, đau ngực, khó thở, dị cảm, hạ huyết áp, và sốc. Một số bệnh nhân bị rắn đuôi chuông cắn có thể thấy một hương vị cao su, bạc hà, hoặc kim loại trong miệng của họ. Nọc độc của hầu hết các rắn lục pit viper ở Bắc Mỹ gây ra những thay đổi dẫn truyền thần kinh cơ nhỏ, bao gồm yếu cơ và dị cảm và sự co bóp cơ. Một số bệnh nhân có thay đổi tình trạng tinh thần. Nọc độc của rắn Mojave và rắn đuôi chuông diamondback phía đông có thể gây ra triệu chứng thần kinh nghiêm trọng, bao gồm suy hô hấp.Sốc phản vệ có thể gây ra các triệu chứng toàn thân.Nhiễm nọc độc của rắn đuôi chuôngcó thể gây ra nhiều bất thường về đông máu, bao gồm giảm tiểu cầu, kéo dài thời gian prothrombin (PT, đo bằng INR [tỷ lệ chuẩn hóa quốc tế]) hoặc thời gian thromboplastin một phần hoạt hóa (PTT), giảm fibrinogen máu, tăng sản phẩm phân hủy fibrin hoặc kết hợp các triệu chứng này, gây ra hội chứng giốngđông máu rải rác trong lòng mạch(DIC). Giảm tiểu cầu thường là biểu hiện đầu tiên và có thể không có triệu chứng hoặc, với sự hiện diện của một bệnh lý đông máu nhiều thành phần, gây chảy máu tự phát. Bệnh nhân bị rối loạn đông máu thường xuất huyết từ vết cắn hoặc từ các vị trí chích gần tĩnh mạch hoặc màng nhầy, giác mạc, xuất huyết nướu, chảy máu, huyết khối, tiểu máu hoặc kết hợp. Sự gia tăng hematocrit (Hct) là một phát hiện ban đầu của chứng phù và cô đặc máu. Sau đó, Hct có thể giảm như là kết quả của việc thay thế dịch và mất máu do hội chứng giống DIC. Trong trường hợp nặng, tan huyết có thể làm giảm Hct nhanh.ElapidsĐau và sưng có thể ở mức tối thiểu hoặc không có, và thường là tạm thời. Sự vắng mặt của các triệu chứng và dấu hiệu tại chỗ có thể cho thấy một vết cắn khô, gây ra một cảm giác giả mạo về an toàn cho cả bệnh nhân và bác sĩ lâm sàng.Ngọc trai & cạm bẫyNghi ngờ bị nhiễm độc với tất cả các vết cắn gây ra bởi rắn độc, ngay cả khi không có dấu hiệu nhiễm độc ngay sau khi cắn.Điểm yếu của phần cắn có thể trở nên rõ ràng trong vài giờ. Các biểu hiện cơ và thần kinh cơ có thể bị trì hoãn trong 12 giờ và bao gồm yếu ớt và lơ mơ; thay đổi cảm giác (ví dụ, hưng phấn, buồn ngủ); liệt các dây thần kinh sọ gây ra chứng sụp mi, nhìn đôi, thị lực mờ, nói khó, và chứng khó nuốt; tăng tiết nước bọt; yếu có; và suy hô hấp hoặc ngừng thở. Một khi các biểu hiện độc hại thần kinh gây ra, chúng rất khó đảo ngược và có thể kéo dài từ 3 đến 6 ngày. Không chữa trị, có thể gây liệt cơ hô hấp và gây tử vong.
+
+--- 3. Chẩn đoán rắn cắn ---
+
+Xác định rắnXếp hạng mức độ nghiêm trọng của sự nhiễm độcChẩn đoán chính xác rắn cắn được hỗ trợ bởi nhận dạng của rắn và biểu hiện lâm sàng của sự nhiễm độc. Bệnh sử nên bao gồm thời gian cắn, mô tả về rắn, loại biện pháp tại chỗ, các điều kiện y tế cơ bản, dị ứng với sản phẩm ngựa hoặc cừu, và lịch sử của các rắn cắn và điều trị trước đó. Cần phải thăm khám hoàn chỉnh. Nên đánh dấu điểm phù nề của chi hay vùng bị ảnh hưởng, thời gian đánh dấu cũng nên được nghi lại.Rắn phải được giả định là độc cho đến khi được chứng minh bằng cách xác định rõ ràng loài hoặc trong một thời gian quan sát.Xác định rắnBệnh nhân thường không thể nhớ lại chi tiết về sự xuất hiện của con rắn. Rắn lục và rắn không độc có thể được phân biệt bằng một số đặc điểm vật lý (xem hìnhNhận dạng rắn lục). Tham khảo ý kiến ​​của sở thú, thủy cung hoặc trung tâm chống độc (ví dụ: tại Hoa Kỳ, số 1-800-222-1222) có thể giúp xác định loài rắn.Nhận dạng loài rắn lục Pit Viperrắn Pit vipers có các tính năng sau đây, giúp phân biệt chúng với rắn không độc:Đầu mũi tên hình tam giácđồng tử hình elipHố cảm giác nóng giữa mắt và mũiRăng nanh có thể thu vàoMột hàng đơn của tấm phụ kéo dài từ tấm hậu môn phía dưới đuôiRắn đuôi chuôngHình ảnhHình ảnh do Tiến sĩ Edward J. Wozniak, DVM cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Rắn hổ mang phía NamHình ảnhHình ảnh do CDC/James Gathany cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Rắn hổ mang nước miền ĐôngHình ảnhHình ảnh do CDC/James Gathany cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Rắn san hô ở Hoa Kỳ có đồng tử tròn và mõm đen nhưng không có hố trên mặt. Chúng có đầu cùn hoặc có hình xì gà và các dây xen kẽ với màu đỏ, vàng (kem), và màu đen, thường làm cho chúng bị nhầm lẫn với loài rắn vua chúng thường có màu đỏ, đen và vàng. Đặc điểm phân biệt trong rắn san hô là các dải màu đỏ chỉ có các dải màu vàng, chứ không phải các dải màu đen ("đỏ trên màu vàng, giết một đồng nghiệp, đỏ trên da đen, thiếu nọc độc"). Rắn san hô có nanh ngắn, cố định và tiêm nọc độc thông qua các cử động nhai.Hình dạng răng nanh gợi ý nhưng không kết luận; rắn đuôi chuông có thể để lại dấu vân đơn hoặc kép hoặc các dấu hiệu răng khác, trong khi các vết cắn bởi những con rắn không thường xuyên thường để lại nhiều dấu hiệu răng cưa trên bề mặt. Tuy nhiên, số lượng vết răng và các vị trí cắn có thể khác nhau bởi rắn có thể tấn công hoặc cắn nhiều lần.Rắn lục cắn được chẩn đoán khi không có triệu chứng hoặc dấu hiệu nhiễm nọc độc xuất hiện trong vòng 8 giờ sau khi cắn.Mức độ nghiêm trọng của nọc độcMức độ nghiêm trọng của nọc độc phụ thuộc vào những điều sau:Kích thước và loài rắn (rắn đuôi chuông>rắn hổ mang nước>rắn hổ mang)Số lượng nọc độc được tiêm mỗi lần cắn (chưa xác định được)Số vết cắnVị trí và chiều sâu vết cắn, ví dụ, vết cắn ở đầu và thân có xu hướng nặng hơn vết cắn ở tay chânTuổi, trọng lượng và sức khoẻ của người bệnhThời gian bị cắn cho đến khi tới trung tâm y tếSự nhạy cảm của bệnh nhân với nọc độcMức độ nặng của nọc độc có thể được phân loại là tối thiểu, trung bình hoặc nghiêm trọng dựa trên các dấu hiệu tại địa phương, các triệu chứng và dấu hiệu toàn thân, các thông số đông máu và kết quả xét nghiệm (xem bảngMức độ nặng của nọc độc rắn lục). Mức độ nặng của vết cắn phải được xác định dựa trên triệu chứng, dấu hiệu hoặc kết quả xét nghiệm trong vòng 8 giờ kể từ thời điểm bị cắn.Nhiễm độc có thể tiến triển nhanh chóng từ nhẹ đến nặng và phải được theo dõi, đánh giá lại liên tục.Nếu các triệu chứng toàn thân xuất hiện rất sớm, nên dự đoán đó làsốc phản vệ.BảngMức độ Nghiêm trọng của Nọc độc Rắn lụcBảngMức độ Nghiêm trọng của Nọc độc Rắn lụcMức độ Nghiêm trọng của Nọc độc Rắn lụcMức độMô tảTối thiểuchỉ có biểu hiện tại vị trí cắnKhông có dấu hiệu toàn thân hay thay đổi các chỉ số trên xét nghiệmVừavết cắn lan rộng ra tổ chức xung quanhCác triệu chứng và các dấu hiệu đe dọa đến tính mạng (ví dụ như buồn nôn, nôn ói, rối loạn cảm giác)Rối loạn đông máu hoặc thay đổi các chỉ số xét nghiệm không có sự mất máu đáng kể trên lâm sàngNặngBiến đổi trên toàn bộ chi bị tổn thươngTriệu chứng và dấu hiệu lâm sàng nghiêm trọng (ví dụ, hạ huyết áp, khó thở, sốc)Đông máu bất thường và xét nghiệm có biến đổi có hoặc không có chảy máu đáng kể về mặt lâm sàngDữ liệu từ Lavonas EJ, Ruha AM, Banner W, et al. Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an evidence-informed consensus workshop.BMC Emerg Med.2011;11:2. Xuất bản ngày 3 tháng 2 năm 2011. doi:10.1186/1471-227X-11-2Dữ liệu từ Lavonas EJ, Ruha AM, Banner W, et al. Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an evidence-informed consensus workshop.BMC Emerg Med.2011;11:2. Xuất bản ngày 3 tháng 2 năm 2011. doi:10.1186/1471-227X-11-2
+
+--- 4. Điều trị rắn cắn ---
+
+Sơ cứu (làm sạch vết thương và cầm máu)Chăm sóc hỗ trợChống độcChăm sóc vết thươngVết cắn của rắn không có nọc độc chỉ cần chăm sóc vết thương tại chỗ. Tuy nhiên, nếu bệnh nhân không chắc chắn về loại rắn, có thể cần phải quan sát để xác định xem có bị nhiễm nọc độc hay không.Cách tiếp cận chungĐiều trị rắn cắn ngay khi phát hiện, trước cả khi bệnh nhân được đưa đến cơ sở y tế.Trên đồng ruộng,bệnh nhân nên tự di chuyển hoặc được đưa ra khỏi phạm vi nguy hiểm của con rắn. Họ nên đươc hạn chế vận động, trấn an, giữ ấm, và vận chuyển nhanh đến cơ sở y tế gần nhất. Phía trên vết cắn nên cuốn băng lỏng lẻo và cố định ở vị trí ngang mức tim, đồng thời tất cả các nhẫn, đồng hồ và quần áo bó sátnên được loại bỏ. Việc bất động bằng áp lực để làm chậm quá trình hấp thụ nọc độc toàn thân (ví dụ: bằng cách quấn garô hoặc băng vải khác quanh chi) có thể phù hợp với vết cắn của rắn san hô nhưng không được khuyến nghị ở Hoa Kỳ, nơi hầu hết các vết cắn là do rắn lục; việc bất động bằng áp lực có thể gây suy động mạch và hoại tử.Người phát hiện đầu tiên nên hỗ trợ đường thở và hô hấp, bổ sung oxy, và thiết lập đường truyền tĩnh mạch ở bên không bị ảnh hưởng trong khi vận chuyển bệnh nhân. Tất cả các biện pháp can thiệp khác ngoài bệnh viện (ví dụ như ép tay lên vết thương, bôi thuốc, hút máutại vết thương, rạch rộng vết thương, chườm lạnh, sốc điện) được chứng minh không có tác dụng mà còn có thể gây hại, và có thể trì hoãn việc điều trị kịp thơi. Tuy nhiên, nếu đã thực hiện băng ép, trừ khi có đe dọa thiếu máu chi cấp tính, nên giữ nguyên cho đến khi bệnh nhân được đưa đến bệnh viện và nọc độc được loại bỏ hoặc phương pháp điều trị thật sự được tiến hành.Ngọc trai & cạm bẫyKhông rạch da hoặc thêm dụng cụ chèn ép cầm máu vào vết thương.Đánh giá và kiểm trabắt đầu ở khoa cấp cứu. Việc đánh dấu ranh giới hàng đầu về phù nề tại vị trí vết thương mỗi 15 đến 30 phút có thể giúp các nhà lâm sàng đánh giá sự tiến triển của hiện tượng nhiễm độc tại chỗ. Chu vi tứ chi cần phải được đo khi đến bệnh viện và theo các khoảng thời gian đều đặn cho đến khi tình trạng tiến triển tại chỗ giảm xuống. Tất cả những vết cắn nhỏ đều cầnCông thức máu cơ bản (bao gồm tiểu cầu)Dữ liệu về đông máu (ví dụ, thời gian prothrombin, thời gian thromboplastin một phần, fibrinogen)Định lượng các sản phẩm thoái hóa fibrinPhân tích nước tiểuĐo điện giải huyết thanh, nitơurêmáu (BUN) và creatinin (1)Đối với trường hợp ngộ độc vừa và nặng, bệnh nhân cần xét nghiệm nhóm máu và phản ứng chéo, điện tâm đồ, chụp X-quang ngực và xét nghiệm creatine kinase, tùy theo tình trạng của bệnh nhân, thường xuyên tới 4 giờ một lần trong 12 giờ đầu và sau đó là hàng ngày. Trong quá trình điều trị bệnh nhân bị rắn san hô cắn, tác dụng của nọc độc thần kinh đòi hỏi phải theo dõiđộ bão hòa oxyvàcác kiểm tra chức năng phổiở lần khám ban đầu và liên tục (tức là lưu lượng đỉnh, dung tích sống).Thời gian theo dõiđối với tất cả các bệnh nhân bị rắn lúc cắn kéo dài ít nhất là 8 giờ. Bệnh nhân không có dấu hiệu của nhiễm độc sau 8 giờ có thể được cho về nhà sau khichăm sóc vết thương đầy đủ. Bệnh nhân bị rắn cắn san hô phải được giám sát chặt chẽ trong ít nhất 12 giờ trong trường hợp có tê liệt cơ hô hấp tiến triển. Sự nhiễm độc ban đầu được đánh giá là nhẹ có thể tiến triển đến mức nặng chỉ trong vòng vài giờ.Điều trị hỗ trợcó thể bao gồm hỗ trợ hô hấp, thuốc benzodiazepin để giảm lo âu và an thần, thuốc phiện để giảm đau, và bù dịch và hỗ trợ thuốc làm co mạch để điều trị sốc. Có thể cần phảitruyền máu(ví dụ: khối hồng cầu, huyết tương tươi đông lạnh, kết tủa lạnh, tiểu cầu) nhưng không nên truyền trước khi bệnh nhân được tiêm đủ lượng thuốc kháng nọc rắn trung hòa vì hầu hết các bệnh lý đông máu đều đáp ứng với đủ lượng thuốc kháng nọc rắn trung hòa. Dự phòng sốc khi nghi ngờ (ví dụ, với các triệu chứng toàn thân xuất hiện ngay lập tức) được điều trị bằng các biện pháp tiêu chuẩn, bao gồm cả epinephrine.Mở khí quảncó thể cần thiết nếu có dấu hiệu cứng hàm, co thắt thanh quản, hoặc tiết nhiều đờm dãi.Chống độcCùng với chăm sóc hỗ trợ tích cực, chống độc là yếu tố chính để điều trị cho bệnh nhân.Đối với tình trạng nhiễm độc nọc rắn lục, phương pháp điều trị chính ở Hoa Kỳ là thuốc kháng nọc rắn FAb đa chủng Crotalidae có nguồn gốc từ cừu (các mảnh FAb tinh khiết của IgG thu được từ cừu đã được tiêm miễn dịch nọc rắn lục) (1). Hiệu quả của thuốc kháng nọc rắn này phụ thuộc vào thời gian và liều lượng; thuốc có hiệu quả nhất trong việc ngăn ngừa tổn thương mô do nọc độc gây ra khi được dùng càng sớm càng tốt. Sẽ ít hiệu quả hơn nếu bị trì hoãn nhưng có thể cải thiện rối loạn đông máu và có thể có hiệu quả ngay cả tiêm sau 24 giờ nhiễm độc. FAb miễn dịch đa chủng Crotalidae rất an toàn, mặc dù nó vẫn có thể gây ra các phản ứng cấp tính (trên da hoặc phản vệ) và phản ứng quá mẫn chậm (bệnh huyết thanh). Bệnh về huyết thanh xuất hiện ở 16% bệnh nhân từ 1 đến 3 tuần sau khi dùng sản phẩm FAb.Một liều từ 4 đến 12 lọ chứa Crotalidae polyvalent immune FAb pha loãng trong 250 mL nước muối thông thường nên truyền chậm ở 20 đến 50 mL/h trong 10 phút đầu tiên; sau đó, nếu không có phản ứng bất lợi xảy ra, phần còn lại được truyền vào trong các giờ tiếp theo. Liều tương tự có thể được lặp lại 2 lần nếu cần thiết để kiểm soát hoàn toàn các triệu chứng, rối loạn đông máu, và các chỉ số sinh lý. Ở trẻ em, liều không được giảm (ví dụ, dựa trên cân nặng hoặc kích cỡ). Đo chu vi của chi cùng bên bị cắn ở 3 điểm gần với vết thương và đo ranh giới phù nề từ 15 đến 30 phút có thể giúp đưa ra các quyết định về nhu cầu bổ sung liều. Sau khi đạt được sự kiểm soát, 2 liều pha trong dung dịch muối 250 mL được cho ở khoảng thời gian 6, 12, và 18 giờ để tránh tái phát sưng phồng và các biến chứng khác.Crotalidae miễn dịch F(ab')2 (ngựa) là một loại thuốc kháng nọc rắn có nguồn gốc từ ngựa bao gồm các mảnh Fab2 miễn dịch Crotalidae được tái tạo. Thuốc được sử dụng để điều trị vết cắn của rắn đuôi chuông Bắc Mỹ ở người lớn và trẻ em.Ngọc trai & cạm bẫyCho trẻ bị cắn một liều thuốc kháng độc như người lớn.Tùy loài rắn lục có thể ảnh hưởng đến liều lượng. Nọc độc gây ra do rắn hổ mang cá, rắn hổ mang, và rắn đuôi chuông có thể dùng liều kháng độc nhỏ hơn. Tuy nhiên, thuốc kháng độc không nên được giữ lại dựa trên loài rắn và nên được dùng dựa trên mức độ nhiễm độc ở bất kể các loài.Đối với trường hợpnhiễm nọc độc rắn san hô, thuốc kháng nọc rắn san hô đa chủng có nguồn gốc từ ngựa (thuốc kháng nọc rắn san hô) được dùng cho người lớn và trẻ em.Cần cân nhắccác biện pháp phòng ngừa trước khi điều trị bằng thuốc kháng nọc rắnđối với những bệnh nhân có tiền sử quá mẫn với thuốc giải độc cụ thể đang được cân nhắc hoặc với huyết thanh ngựa hoặc cừu và những người có tiền sử hen suyễn hoặc dị ứng nhiều loại. Ở những bệnh nhân như vậy, nếu sự nhiễm độc được coi là đe dọa đến tính mạng hoặc cả chi, kháng histamin H1 và H2 nên được dùng trước khi dùng kháng độc trong một môi trường chăm sóc đặc biệt được trang bị đầy đủ đề phòngsốc phản vệ. Các phản ứng phản vệ đối với thuốc kháng nọc đã được ghi nhận và thường là do truyền nhanh quá; xử trí là tạm ngừng truyền dịch và cho epinephrine, thuốc kháng histamin H1 và H2 và truyền dịch đường tĩnh mạch, tùy theo mức độ nghiêm trọng. Thông thường, thuốc kháng độc có thể được truyền tiếp tục sau khi pha loãng thêm và truyền với tốc độ chậm hơn.Bệnh huyết thanhcó thể xuất hiện, biểu hiện từ 7 đến 21 ngày sau khi điều trị như sốt, nổi ban, mệt mỏi, nổi mề đay, đau khớp, và nổi hạch. Điều trị là thuốc kháng H1 và một liều corticosteroid uống.Các biện pháp hỗ trợBệnh nhân nên được dự phòng uốn ván (toxoid và đôi khi là Ig) theo chỉ định của bệnh sử (xem bảngDự phòng uốn ván trong sử trí vết thương thông thường). Rắn cắn hiếm khi bị nhiễm trùng và thuốc kháng sinh chỉ được chỉ định cho những bệnh nhân có bằng chứng lâm sàng về nhiễm trùng. Nếu cần, các phương án bao gồm cephalosporin thế hệ thứ nhất (ví dụ: cephalexin đường uống, cefazolin đường tĩnh mạch) hoặc penicillin phổ rộng (ví dụ: amoxicillin/acid clavulanic đường uống, ampicillin/sulbactam đường tĩnh mạch). Các lựa chọn kháng sinh sau đó nên dựa trên kết quả nuôi cấy vi khuẩn và kết quả kháng sinh đồ.Chăm sóc vết thươngcho vết cắn cũng tương tự như các vết thương hở khác. Vết thương được làm sạch và băng bó. Đối với các vết cắn ở chi, chi được nẹp cố định ở vị trí cơ năng và đặt ở vị trí cao hơn. Vết thương nên được kiểm tra và làm sạch hàng ngày và được bao phủ bởi gạc vô trùng. Mụn nước, bọng nước chứa máu hay các mảng hoại tử trên bề mặt nên được cắt lọc vào khoảng ngày thứ 3 đến ngày thứ 10, từng phần một nếu cần thiết. Kĩ thuật dùng dòng xoáy nước vô trùng cũng có thể được chỉ định cho việc sạch vết thương và vật lí trị liệu. Mở cân cơ (ví dụ đối vớihội chứng của khoang) hiếm khi được chỉ định và chỉ nên cân nhắc khi áp lực khoang≥30 mmHg trong > 1 giờ hoặc < 30 mm Hg dưới huyết áp tâm trương, gây tổn thương mạch nghiêm trọng, không đáp ứng với điều trị nâng cao chi và truyền tĩnh mạch mannitol 1 đến 2 g/kg, và liều thuốc kháng nọc độc không có tác dụng. Chỉ phù to đơn độckhông phảichỉ định cho mở cân cơ. Vận động, cơ lực, cảm giác và đường kính chi nên được đánh giá lại trong vòng 2 ngày sau khi có vết cắn. Cứng khớp có thể phòng tránh bằng việc tập dần các bài tập nhẹ nhàng sau thời gian bất động, nâng dần từ các động tác bị động sang chủ động.Các trung tâm chống độc và sở thú tại địa phươnglà nơi có các nguồn hỗ trợ tuyệt vời khi xử trí các vết rắn cắn, ngay cả với những loại rắn không có nguồn gốc tại nơi đó. Các cơ sở này giữ một danh sách các bác sĩ được đào tạo về nhận dạng rắn và chăm sóc các vết thương do rắn cắn, cũng như danh mục các loại thuốc kháng nọc độc, được công bố và cập nhật định kỳ bởi Hiệp hội động vật và sinh vật biển Hoa Kỳ và Hiệp hội các Trung tâm Chống độc Hoa Kỳ. Danh mục này cho biết vị trí và số lượng các lọ thuốc có sẵn cho tất cả các loài rắn độc bản địa và hầu hết các loài ngoại lai. Tại Hoa Kỳ, có đường dây trợ giúp quốc gia theo số 1-800-222-1222.Tài liệu tham khảo về điều trị1.Lavonas EJ, Ruha AM, Banner W, et al. Unified treatment algorithm for the management of crotaline snakebite in the United States: results of an evidence-informed consensus workshop.BMC Emerg Med.2011;11:2. Xuất bản ngày 3 tháng 2 năm 2011. doi:10.1186/1471-227X-11-2
+
+--- 5. Những điểm chính ---
+
+Ở Hoa Kỳ, các loại rắn độc phổ biến bao gồm rắn đuôi chuông, rắn đồng đầu và rắn lục (tất cả đều thuộc họ rắn lục), nhưng rắn đuôi chuông là nguyên nhân gây ra nhiều vết cắn và hầu hết các ca tử vong.Sự xâm nhập nọc độc của rắn lục có thể gây ra những tác động tại chỗ (ví dụ như đau, sưng tấy, xuất huyết) và các ảnh hưởng toàn thân (như nôn ói, vã mồ hôi, giảm ý thức, chảy máu, sốt, đau ngực, khó thở, dị cảm, tụt huyết áp).Các đặc điểm có thể giúp phân biệt rắn lục với các loài rắn không độc bao gồm: đồng tử hình elip, đầu hình tam giác, các nanh có thể thu vào, các lỗ cảm ứng nhiệt giữa mắt và mũi, và một hàng vảy bắt đầu từ vùng vảy hậu môn ở mặt dưới đuôi.Tại hiện trường, đưa bệnh nhân ra khỏi khu vực bị rắn tấn công, chuẩn bị phương tiện nhanh chóng vận chuyển, quấn kín chi bị cắn, cố định nó ở ngang mức tim, và tháo bỏ các vật dụng gây bó, thắt như nhẫn và đồng hồ; không cắt, rạch vào vết thươn hay thực hiện garo.Theo dõi bệnh nhân có các vết cắn của rắn lục thường xuyên trong ít nhất 8 giờ, lâu hơn nếu phát hiện thấy có nhiễm nọc độc rắn.Điều trị vết thương và triệu chứng, và hội chẩn với trung tâm chống độc.Cho dùng sớm thuốc kháng nọc rắn.

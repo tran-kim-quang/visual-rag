@@ -1,0 +1,429 @@
+TIÊU ĐỀ: Vancomycin
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/vancomycin
+================================================================================
+
+NỘI DUNG:
+
+Vancomycin
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1004961_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Thông tin thêm
+
+|
+
+Vancomycin là một
+
+kháng sinh
+
+diệt khuẩn phụ thuộc thời gian ức chế sự tổng hợp thành tế bào.
+
+Dược động học của
+
+Vancomycin
+
+Vancomycin không hấp thu đáng kể từ đường tiêu hóa sau khi uống. Khi tiêm truyền, nó xâm nhập vào mật và dịch màng phổi, màng ngoài tim, khớp, và dịch màng bụng. Tuy nhiên, nồng độ trong dịch não tuỷ thấp và không ổn định.
+
+Vancomycin
+
+được thải trừ dưới dạng không đổi bằng cách lọc ở cầu thận.
+
+Chỉ định của
+
+Vancomycin
+
+Vancomycin có hoạt tính chống lại
+
+Hầu hết các vi khuẩn gram dương và trực khuẩn bao gồm hầu hết
+
+Staphylococcus aureus
+
+và các chủng staphylococc không sinh coagulase đều kháng penicillins và cephalosporins
+
+Nhiều chủng
+
+cầu khuẩn ruột
+
+(chủ yếu là
+
+Enterococcus faecalis
+
+)
+
+Tuy nhiên, nhiều chủng Enterococci và một số chủng
+
+S. aureus
+
+là kháng.
+
+Vancomycin
+
+thường được sử dụng trong trường hợp nhiễm trùng nặng và
+
+viêm nội tâm mạc
+
+do các nguyên nhân sau (ngoại trừ các chủng kháng
+
+vancomycin
+
+):
+
+S. aureus
+
+kháng methicillin
+
+Staphylococci kháng methicillin không sinh coagulase
+
+Một số
+
+Phế cầu khuẩn
+
+kháng beta-lactam và đa kháng thuốc
+
+Liên cầu tan huyết beta (khi beta-lactam không thể dùng vì dị ứng thuốc hoặc kháng thuốc)
+
+Corynebacterium
+
+các loài
+
+C. jeikeium
+
+và
+
+C. striatum
+
+Streptococci Viridans (khi beta-lactam không thể dùng vì dị ứng thuốc hoặc kháng thuốc)
+
+Enterococci (khi β-lactam không thể dùng vì dị ứng thuốc hoặc kháng thuốc)
+
+Tuy nhiên,
+
+vancomycin
+
+kém hiệu quả hơn so với beta-lactam kháng tụ cầu đối với nhiễm trùng
+
+S. aureus
+
+nhạy cảm với methicillin.
+
+Vancomycin
+
+được sử dụng cùng với các kháng sinh khác khi điều trị viêm nội tâm mạc van nhân tạo do tụ cầu âm tính với coagulase kháng methicillin hoặc viêm nội tâm mạc do cầu khuẩn.
+
+Vancomycin
+
+cũng đã được sử dụng như một loại kháng sinh thay thế cho
+
+bệnh viêm màng não
+
+do phế cầu khuẩn do các chủng giảm độ nhạy cảm với penicillin; tuy nhiên, khả năng thâm nhập thất thường của
+
+vancomycin
+
+vào dịch não tủy (đặc biệt là khi sử dụng đồng thời với dexamethasone) và các báo cáo về thất bại lâm sàng khiến hiệu quả của vancomycin trở nên kém tối ưu khi sử dụng đơn độc để điều trị viêm màng não do phế cầu khuẩn.
+
+Vancomycin
+
+đường uống được sử dụng để điều trị tiêu chảy do
+
+Clostridioides
+
+(trước đây là
+
+Clostridium
+
+)
+
+difficile
+
+gây ra
+
+(viêm đại tràng màng giả).
+
+Vancomycin
+
+được khuyến nghị hơn metronidazole trong giai đoạn đầu của nhiễm
+
+C. difficile
+
+không nghiêm trọng. Thuốc được ưu tiên hơn
+
+metronidazole
+
+cho những bệnh nhân bị
+
+nhiễm C. difficile
+
+nặng và được ưu tiên cho những bệnh nhân không đáp ứng với
+
+metronidazol
+
+e. Tuy nhiên,
+
+hướng dẫn thực hành lâm sàng về xử trí nhiễm trùng do Clostridioides difficile ở người lớn năm 2021
+
+của Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA) và Hiệp hội Dịch tễ học Y tế Hoa Kỳ (SHEA) khuyến nghị rằng nên sử dụng fidaxomicin (nếu có) thay vì
+
+vancomycin
+
+đối với nhiễm trùng do
+
+C. difficile
+
+vì
+
+fidaxomicin
+
+làm giảm nguy cơ tái phát.
+
+Chống chỉ định với
+
+Vancomycin
+
+Vancomycin chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với nó.
+
+Sử dụng
+
+Vancomycin
+
+trong thời kỳ mang thai và cho con bú
+
+Các nghiên cứu sinh sản động vật với vancomycin không cho thấy nguy cơ đối với thai nhi. Bằng chứngtừ nghiên cứu trên người không đầy đủ. Chỉ nên dùng
+
+Vancomycin
+
+cho phụ nữ mang thai khi thực sự cần thiết.
+
+Vancomycin
+
+đường uống có thể được sử dụng để điều trị tiêu chảy do
+
+C. difficile
+
+gây ra ở phụ nữ mang thai.
+
+Vancomycin
+
+đi vào sữa mẹ, do đó việc sử dụng nó trong thời kỳ cho con bú không được khuyến khích để ngăn ngừa tình trạng phá vỡ hệ vi sinh vật đường tiêu hóa; tuy nhiên, do quá trình hấp thu qua đường uống kém qua đường tiêu hóa bình thường nên khó có khả năng xảy ra tác dụng bất lợi toàn thân ở trẻ sơ sinh.
+
+Tác dụng bất lợi của
+
+Vancomycin
+
+Tác dụng bất lợi chính
+
+của vancomycin là
+
+Quá mẫn (dị ứng hoặc do sự ức chế trực tiếp tế bào mast)
+
+Vancomycin
+
+nên được truyền chậm trong dung dịch loãng (2,5 mg/mL đến 5,0 mg/mL) trong 60 phút trở lên và với tốc độ không quá 10 mg/phút để tránh phản ứng tiêm truyền
+
+vancomycin
+
+(phản ứng qua trung gian histamine có thể gây ngứa và đỏ bừng ở mặt, cổ và vai). Các phản ứng quá mẫn khác (như phát ban, sốt) có thể xảy ra, đặc biệt khi điều trị kéo dài
+
+>
+
+2 tuần.
+
+Các tác dụng bất lợi có khả năng xảy ra
+
+khác bao gồm giảm bạch cầu trung tính có thể đảo ngược và giảm tiểu cầu. Độc tính với thận rất hiếm gặp trừ khi sử dụng liều cao hoặc dùng đồng thời aminoglycoside. Một số báo cáo cho thấy việc sử dụng đồng thời piperacillin/tazobactam cũng có thể làm tăng nguy cơ nhiễm độc thận. Viêm mạch không hay gặp trong quá trình truyền.
+
+Độc tính trên tai liên quan đến liều lượng là điều hiếm gặp ở các công thức hiện nay; tỷ lệ mắc bệnh tăng lên khi dùng
+
+vancomycin
+
+đồng thời với các thuốc gây độc tai khác.
+
+Cân nhắc về liều lượng của
+
+Vancomycin
+
+Liều dùng cho viêm màng não phải cao hơn bình thường.
+
+Cần giảm liều khi suy thận.
+
+Ở những bệnh nhân được ghi nhận hoặc nghi ngờ nhiễm
+
+S. Aureus
+
+(MRSA) xâm lấn kháng methicillin, nên dùng
+
+vancomycin
+
+để nhắm mục tiêu vùng dưới đường cong nồng độ-thời gian (AUC) từ 400 đến 600. Mục tiêu nồng độ đáy (15 mg/L đến 20 mg/L [10,3 mmol/mL đến 13,8 mmol/mL]) làm dấu hiệu thay thế để đạt được tỷ lệ nồng độ ức chế AUC trên mức tối thiểu (AUC/MIC) ≥ 400 là không còn được khuyến nghị nữa. Tối ưu hóa liều có thể được thực hiện bằng cách lấy nhiều nồng độ sau phân bố (1 giờ đến 2 giờ sau khi kết thúc truyền và đáy) và tính toán AUC bằng phương trình động học bậc nhất, sử dụng phương pháp Bayesian dựa trên phần mềm sử dụng 1 cấp độ hoặc 2 cấp độ hoặc bằng cách chuẩn độ dịch truyền liên tục đến nồng độ ở trạng thái ổn định từ 17 mcg/mL đến 25 mcg/mL (11,73 micromol/L đến 17,25 micromol/L) (
+
+1
+
+).
+
+Những khuyến cáo về liều dùng này chỉ áp dụng cho MRSA và không nên được sử dụng để hướng dẫn việc dùng thuốc đối với các bệnh nhiễm trùng gram âm khác.
+
+MIC của
+
+Vancomycin
+
+đối với nhiều mầm bệnh đã tăng lên trong thập kỷ qua. Độ nhạy đối với
+
+S.aureus
+
+dựa trên MIC của
+
+vancomycin
+
+như sau:
+
+2 mcg/mL (≤ 1,4 micromol/L): Nhạy cảm
+
+4 đến 8 mcg/mL (2,8 đến 5,5 micromol/L): Trung gian
+
+> 8 mcg/mL (> 5,5 micromol/L): Kháng
+
+Tuy nhiên, nhiễm trùng do
+
+S. aureus
+
+có MIC của
+
+vancomycin
+
+≥ 2 mcg/mL (> 1,4 micromol/L) có thể đáp ứng dưới mức tối ưu với liều tiêu chuẩn ngay cả khi AUC hàng ngày là 400 đến 600, do đó ngưỡng để chuyển sang dùng thuốc thay thế điều trị nên ở mức thấp đối với bệnh nhân có đáp ứng lâm sàng kém và MIC ≥ 2.
+
+Tài liệu tham khảo về liều lượng
+
+1.
+
+Rybak MJ, Le J, Lodise TP, et al
+
+. Therapeutic monitoring of
+
+vancomycin
+
+for serious methicillin-resistant
+
+Staphylococcus aureus
+
+infections: A revised consensus guideline and review by the American Society of Health-System Pharmacists, the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the Society of Infectious Diseases Pharmacists.
+
+Am J Health Syst Pharm
+
+. 2020;77(11):835-864. doi:10.1093/ajhp/zxaa036
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA):
+
+Focused update guidelines on the management of Clostridioides difficile infection in adults
+
+(2021)
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học củaVancomycin ---
+
+Vancomycin không hấp thu đáng kể từ đường tiêu hóa sau khi uống. Khi tiêm truyền, nó xâm nhập vào mật và dịch màng phổi, màng ngoài tim, khớp, và dịch màng bụng. Tuy nhiên, nồng độ trong dịch não tuỷ thấp và không ổn định.Vancomycinđược thải trừ dưới dạng không đổi bằng cách lọc ở cầu thận.
+
+--- 2. Chỉ định củaVancomycin ---
+
+Vancomycin có hoạt tính chống lạiHầu hết các vi khuẩn gram dương và trực khuẩn bao gồm hầu hếtStaphylococcus aureusvà các chủng staphylococc không sinh coagulase đều kháng penicillins và cephalosporinsNhiều chủngcầu khuẩn ruột(chủ yếu làEnterococcus faecalis)Tuy nhiên, nhiều chủng Enterococci và một số chủngS. aureuslà kháng.Vancomycinthường được sử dụng trong trường hợp nhiễm trùng nặng vàviêm nội tâm mạcdo các nguyên nhân sau (ngoại trừ các chủng khángvancomycin):S. aureuskháng methicillinStaphylococci kháng methicillin không sinh coagulaseMột sốPhế cầu khuẩnkháng beta-lactam và đa kháng thuốcLiên cầu tan huyết beta (khi beta-lactam không thể dùng vì dị ứng thuốc hoặc kháng thuốc)Corynebacteriumcác loàiC. jeikeiumvàC. striatumStreptococci Viridans (khi beta-lactam không thể dùng vì dị ứng thuốc hoặc kháng thuốc)Enterococci (khi β-lactam không thể dùng vì dị ứng thuốc hoặc kháng thuốc)Tuy nhiên,vancomycinkém hiệu quả hơn so với beta-lactam kháng tụ cầu đối với nhiễm trùngS. aureusnhạy cảm với methicillin.Vancomycinđược sử dụng cùng với các kháng sinh khác khi điều trị viêm nội tâm mạc van nhân tạo do tụ cầu âm tính với coagulase kháng methicillin hoặc viêm nội tâm mạc do cầu khuẩn.Vancomycincũng đã được sử dụng như một loại kháng sinh thay thế chobệnh viêm màng nãodo phế cầu khuẩn do các chủng giảm độ nhạy cảm với penicillin; tuy nhiên, khả năng thâm nhập thất thường củavancomycinvào dịch não tủy (đặc biệt là khi sử dụng đồng thời với dexamethasone) và các báo cáo về thất bại lâm sàng khiến hiệu quả của vancomycin trở nên kém tối ưu khi sử dụng đơn độc để điều trị viêm màng não do phế cầu khuẩn.Vancomycinđường uống được sử dụng để điều trị tiêu chảy doClostridioides(trước đây làClostridium)difficilegây ra(viêm đại tràng màng giả).Vancomycinđược khuyến nghị hơn metronidazole trong giai đoạn đầu của nhiễmC. difficilekhông nghiêm trọng. Thuốc được ưu tiên hơnmetronidazolecho những bệnh nhân bịnhiễm C. difficilenặng và được ưu tiên cho những bệnh nhân không đáp ứng vớimetronidazole. Tuy nhiên,hướng dẫn thực hành lâm sàng về xử trí nhiễm trùng do Clostridioides difficile ở người lớn năm 2021của Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA) và Hiệp hội Dịch tễ học Y tế Hoa Kỳ (SHEA) khuyến nghị rằng nên sử dụng fidaxomicin (nếu có) thay vìvancomycinđối với nhiễm trùng doC. difficilevìfidaxomicinlàm giảm nguy cơ tái phát.
+
+--- 3. Chống chỉ định vớiVancomycin ---
+
+Vancomycin chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với nó.
+
+--- 4. Sử dụngVancomycintrong thời kỳ mang thai và cho con bú ---
+
+Các nghiên cứu sinh sản động vật với vancomycin không cho thấy nguy cơ đối với thai nhi. Bằng chứngtừ nghiên cứu trên người không đầy đủ. Chỉ nên dùngVancomycincho phụ nữ mang thai khi thực sự cần thiết.Vancomycinđường uống có thể được sử dụng để điều trị tiêu chảy doC. difficilegây ra ở phụ nữ mang thai.Vancomycinđi vào sữa mẹ, do đó việc sử dụng nó trong thời kỳ cho con bú không được khuyến khích để ngăn ngừa tình trạng phá vỡ hệ vi sinh vật đường tiêu hóa; tuy nhiên, do quá trình hấp thu qua đường uống kém qua đường tiêu hóa bình thường nên khó có khả năng xảy ra tác dụng bất lợi toàn thân ở trẻ sơ sinh.
+
+--- 5. Tác dụng bất lợi củaVancomycin ---
+
+Tác dụng bất lợi chínhcủa vancomycin làQuá mẫn (dị ứng hoặc do sự ức chế trực tiếp tế bào mast)Vancomycinnên được truyền chậm trong dung dịch loãng (2,5 mg/mL đến 5,0 mg/mL) trong 60 phút trở lên và với tốc độ không quá 10 mg/phút để tránh phản ứng tiêm truyềnvancomycin(phản ứng qua trung gian histamine có thể gây ngứa và đỏ bừng ở mặt, cổ và vai). Các phản ứng quá mẫn khác (như phát ban, sốt) có thể xảy ra, đặc biệt khi điều trị kéo dài>2 tuần.Các tác dụng bất lợi có khả năng xảy rakhác bao gồm giảm bạch cầu trung tính có thể đảo ngược và giảm tiểu cầu. Độc tính với thận rất hiếm gặp trừ khi sử dụng liều cao hoặc dùng đồng thời aminoglycoside. Một số báo cáo cho thấy việc sử dụng đồng thời piperacillin/tazobactam cũng có thể làm tăng nguy cơ nhiễm độc thận. Viêm mạch không hay gặp trong quá trình truyền.Độc tính trên tai liên quan đến liều lượng là điều hiếm gặp ở các công thức hiện nay; tỷ lệ mắc bệnh tăng lên khi dùngvancomycinđồng thời với các thuốc gây độc tai khác.
+
+--- 6. Cân nhắc về liều lượng củaVancomycin ---
+
+Liều dùng cho viêm màng não phải cao hơn bình thường.Cần giảm liều khi suy thận.Ở những bệnh nhân được ghi nhận hoặc nghi ngờ nhiễmS. Aureus(MRSA) xâm lấn kháng methicillin, nên dùngvancomycinđể nhắm mục tiêu vùng dưới đường cong nồng độ-thời gian (AUC) từ 400 đến 600. Mục tiêu nồng độ đáy (15 mg/L đến 20 mg/L [10,3 mmol/mL đến 13,8 mmol/mL]) làm dấu hiệu thay thế để đạt được tỷ lệ nồng độ ức chế AUC trên mức tối thiểu (AUC/MIC) ≥ 400 là không còn được khuyến nghị nữa. Tối ưu hóa liều có thể được thực hiện bằng cách lấy nhiều nồng độ sau phân bố (1 giờ đến 2 giờ sau khi kết thúc truyền và đáy) và tính toán AUC bằng phương trình động học bậc nhất, sử dụng phương pháp Bayesian dựa trên phần mềm sử dụng 1 cấp độ hoặc 2 cấp độ hoặc bằng cách chuẩn độ dịch truyền liên tục đến nồng độ ở trạng thái ổn định từ 17 mcg/mL đến 25 mcg/mL (11,73 micromol/L đến 17,25 micromol/L) (1).Những khuyến cáo về liều dùng này chỉ áp dụng cho MRSA và không nên được sử dụng để hướng dẫn việc dùng thuốc đối với các bệnh nhiễm trùng gram âm khác.MIC củaVancomycinđối với nhiều mầm bệnh đã tăng lên trong thập kỷ qua. Độ nhạy đối vớiS.aureusdựa trên MIC củavancomycinnhư sau:2 mcg/mL (≤ 1,4 micromol/L): Nhạy cảm4 đến 8 mcg/mL (2,8 đến 5,5 micromol/L): Trung gian> 8 mcg/mL (> 5,5 micromol/L): KhángTuy nhiên, nhiễm trùng doS. aureuscó MIC củavancomycin≥ 2 mcg/mL (> 1,4 micromol/L) có thể đáp ứng dưới mức tối ưu với liều tiêu chuẩn ngay cả khi AUC hàng ngày là 400 đến 600, do đó ngưỡng để chuyển sang dùng thuốc thay thế điều trị nên ở mức thấp đối với bệnh nhân có đáp ứng lâm sàng kém và MIC ≥ 2.Tài liệu tham khảo về liều lượng1.Rybak MJ, Le J, Lodise TP, et al. Therapeutic monitoring ofvancomycinfor serious methicillin-resistantStaphylococcus aureusinfections: A revised consensus guideline and review by the American Society of Health-System Pharmacists, the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the Society of Infectious Diseases Pharmacists.Am J Health Syst Pharm. 2020;77(11):835-864. doi:10.1093/ajhp/zxaa036
+
+--- 7. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA):Focused update guidelines on the management of Clostridioides difficile infection in adults(2021)

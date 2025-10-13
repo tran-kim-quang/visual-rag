@@ -1,0 +1,515 @@
+TIÊU ĐỀ: Điều trị ung thư toàn thân
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/nguyên-tắc-điều-trị-ung-thư/điều-trị-ung-thư-toàn-thân
+================================================================================
+
+NỘI DUNG:
+
+Điều trị ung thư toàn thân
+
+Theo
+
+Robert Peter Gale
+
+,
+
+MD, PhD, DSC(hc)
+
+,
+
+Imperial College London
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v39243581_vi
+
+Hóa trị liệu
+
+|
+
+Liệu pháp nội tiết (hormone)
+
+|
+
+Liệu pháp miễn dịch
+
+|
+
+Các thuốc làm biệt hóa
+
+|
+
+Thuốc ức chế sự hình thành mạch máu
+
+|
+
+Liệu pháp nhắm trúng đích
+
+|
+
+Liệu pháp gen
+
+|
+
+Vi rút gây ung thư
+
+|
+
+Thông tin thêm
+
+|
+
+Liệu pháp điều trị ung thư toàn thân bao gồm hóa trị (tức là hóa trị liệu thông thường hoặc gây độc tế bào), liệu pháp hormone, liệu pháp nhắm mục tiêu và liệu pháp miễn dịch (xem thêm
+
+Tổng quan về Điều trị ung thư
+
+). Số lượng các phương pháp điều trị ung thư hiện có đang tăng nhanh chóng.
+
+Viện ung thư quốc gia
+
+giữ danh sách mới nhất các loại thuốc được sử dụng để điều trị ung thư. Danh sách này cung cấp tóm tắt ngắn gọn về công dụng của từng loại thuốc và liên kết tới thông tin bổ sung.
+
+Thuốc lý tưởng sẽ chỉ nhắm đích tế bào ung thư và không gây tác dụng bất lợi lên tế bào bình thường. Mặc dù các thuốc hóa trị liệu cũ thường độc hại với tế bào bình thường, nhưng những tiến bộ trong di truyền học và sinh học tế bào và phân tử đã dẫn đến sự phát triển của các loại thuốc chọn lọc hơn.
+
+Hầu hết các loại thuốc điều trị ung thư đều được dùng theo đường toàn thân, thường là theo đường tĩnh mạch hoặc tiêm dưới da, nhưng một số loại được dùng qua đường uống. Việc dùng thuốc thường xuyên trong thời gian dài có thể cần đến thiết bị cấy ghép tĩnh mạch (cổng).
+
+Tình trạng kháng thuốc điều trị ung th
+
+ư rất phổ biến. Cơ chế bao gồm
+
+Sự biểu hiện quá mức của gen đích
+
+Đột biến gen đích
+
+Phát triển các con đường chuyển hóa thuốc thay thế
+
+Tế bào ung thư làm vô hiệu hóa thuốc
+
+Quá trình chết rụng bị đình lại ở tế bào ung thư
+
+Mất các thụ thể hormone
+
+Đối với hóa trị liệu, một trong những cơ chế kháng thuốc được mô tả rõ nhất là sự biểu hiện quá mức của
+
+MDR1
+
+, một chất vận chuyển màng tế bào gây ra tình trạng đào thải một số thuốc nhất định (ví dụ: ancaloit vinca như [vinblastine, vincristine], taxane [như paclitaxel, docetaxel] và anthracycline như daunorubicin, doxorubicin]) (
+
+1
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Bossennec M, Di Roio A, Caux C, Ménétrier-Caux C
+
+: MDR1 in immunity: friend or foe?
+
+Oncoimmunology
+
+7(12):e1499388, 2018. doi:10.1080/2162402X.2018.1499388
+
+Hóa trị liệu
+
+Các thuốc hóa trị gây độc tế bào được phân loại là (
+
+1
+
+)
+
+Các thuốc alkyl hóa (bao gồm nitrosoureas), gây tổn thương DNA (ví dụ: busulfan, chlorambucil, cisplatin)
+
+Thuốc chống chuyển hóa, ngăn chặn DNA (ví dụ: azacitidine, fluorouracil, methotrexate)
+
+Thuốc kháng sinh chống khối u (bao gồm anthracycline), có tác dụng can thiệp vào DNA (ví dụ: bleomycin, daunorubicin, doxorubicin)
+
+Thuốc ức chế nguyên phân, phá vỡ sự phân chia tế bào (ví dụ: docetaxel, paclitaxel, vincristine)
+
+Chất ức chế topoisomerase, ngăn chặn hoạt tính của các enzym trong tế bào ung thư (ví dụ: etoposide, irinotecan)
+
+Các thuốc hóa trị khác không phù hợp với các phân loại cụ thể (ví dụ: asparaginase)
+
+Thuốc gây độc tế bào làm hỏng DNA và giết chết nhiều tế bào lành cũng như tế bào ung thư. Các chất chống chuyển hóa như fluorouracil và methotrexate đặc hiệu cho chu kỳ tế bào và có mối quan hệ đáp ứng-liều phi tuyến tính. Ngược lại, các loại thuốc khác (ví dụ: thuốc alkyl hóa, còn được gọi là chất liên kết chéo DNA) có mối quan hệ liều lượng-đáp ứng tuyến tính, tiêu diệt nhiều tế bào ung thư hơn ở liều cao hơn. Ở mức liều cao, tác nhân alkyl hóa gây tổn thương tủy xương.
+
+Các thuốc đơn lẻ có thể chữa khỏi một số loại ung thư (ví dụ: ung thư biểu mô màng đệm, bệnh bạch cầu tế bào lông). Phổ biến hơn là các phác đồ đa hóa trị liệu, phối hợp nhiều hóa chất có cơ chế tác động và độc tính khác nhau để tăng hiệu quả, giảm độc tính liên quan tới liều và giảm khả năng kháng thuốc. Các phác đồ này dẫn đến tỷ lệ chữa khỏi đáng kể (ví dụ: trong bệnh bạch cầu cấp tính, ung thư tinh hoàn, u lympho Hodgkin, u lympho và ít phổ biến hơn là các khối u rắn như ung thư phổi tế bào nhỏ và ung thư vòm họng). Phác đồ đa hóa trị liệu thường phối hợp các hóa chất nhất định, điều trị lặp lại theo chu kỳ. Khoảng cách giữa các chu kỳ nên là khoảng thời gian ngắn nhất cho phép các mô lành hồi phục. Truyền liên tục có thể làm tăng khả năng tiêu diệt tế bào bằng một số thuốc đặc hiệu cho chu kỳ tế bào (ví dụ: fluorouracil).
+
+Đối với mỗi bệnh nhân, cần cân nhắc giữa hiệu quả và độc tính. Cần đánh giá chức năng của cơ quan đích trước khi dùng hóa trị liệu có độc tính đặc hiệu với cơ quan đích. Có thể cần phải điều chỉnh liều hoặc loại trừ một số thuốc nhất định ở những bệnh nhân mắc bệnh phổi (ví dụ: bleomycin), suy thận (ví dụ: methotrexate), rối loạn chức năng gan (ví dụ: taxanes) hoặc bệnh tim (daunorubicin, cyclophosphamide).
+
+Mặc dù có các biện pháp phòng ngừa, các phản ứng phụ vẫn thường gặp do hóa trị liệu gây độc tế bào. Các mô lành thường bị ảnh hưởng nhất là những mô có mức độ phân bào nội tại cao nhất như: tủy xương, nang lông, biểu mô đường tiêu hóa.
+
+Chẩn đoán hình ảnh (ví dụ chụp CT, MRI, PET) thường được thực hiện sau 2 đến 3 đợt điều trị để đánh giá. Điều trị tiếp tục được áp dụng cho những bệnh nhân có bệnh ung thư đáp ứng với hóa trị và những bệnh nhân có bệnh ổn định. Ở những bệnh nhân có tiến triển ung thư, phác đồ thường được thay đổi hoặc ngừng điều trị.
+
+Tài liệu tham khảo về hóa trị
+
+1.
+
+National Cancer Institute
+
+: Major Categories of Chemotherapy Agents. SEER Training Modules. Ngày 21 tháng 12 năm 2023.
+
+Liệu pháp nội tiết (hormone)
+
+Liệu pháp nội tiết sử dụng thuốc chủ vận hoặc thuốc đối kháng, thường để giảm nồng độ hormone cụ thể trong huyết thanh, để điều trị, ngăn ngừa tái phát hoặc đôi khi để ngăn ngừa sự phát triển của ung thư. Liệu pháp này có thể được sử dụng riêng rẽ hoặc kết hợp với các liệu pháp khác.
+
+Liệu pháp nội tiết đặc biệt hữu ích trong trường hợp ung thư vú dương tính với thụ thể
+
+estrogen
+
+và ung thư tuyến tiền liệt, loại ung thư phát triển do phản ứng với androgen. Các loại ung thư khác có thụ thể hormone, chẳng hạn như ung thư nội mạc tử cung hoặc một số loại ung thư buồng trứng về mặt mô học (ví dụ: thanh dịch cấp thấp), đôi khi được điều trị bằng liệu pháp nội tiết.
+
+Một số loại thuốc có cơ chế khác nhau được sử dụng làm liệu pháp nội tiết để điều trị ung thư. Hầu hết các liệu pháp nội tiết đều làm giảm nồng độ hormone. Một ngoại lệ là việc sử dụng progestin trong điều trị ung thư nội mạc tử cung giai đoạn tiến triển.
+
+Các liệu pháp nội tiết làm giảm nồng độ
+
+estrogen
+
+bao gồm:
+
+Thuốc ức chế aromatase
+
+(ví dụ: letrozole, anastrozole, exemestane): Ngăn chặn sự chuyển đổi androgen thành
+
+estrogen
+
+bằng cách ức chế enzyme aromatase
+
+Thuốc điều biến thụ thể estrogen chọn lọc
+
+(SERM; ví dụ: tamoxifen, toremifene, raloxifene): Gắn kết cạnh tranh với các thụ thể
+
+estrogen
+
+trong mô ác tính mục tiêu (ví dụ: vú); thường có tác dụng như một chất chủ vận thụ thể
+
+estrogen
+
+trong các mô được lựa chọn khác (ví dụ: tamoxifen là thuốc chủ vận của thụ thể
+
+estrogen
+
+trong nội mạc tử cung)
+
+Thuốc điều hòa giảm thụ thể
+
+estrogen
+
+có chọn lọc
+
+(SERD; ví dụ: fulvestrant): Gắn kết cạnh tranh với các thụ thể
+
+estrogen
+
+trong tất cả các mô bằng cách liên kết cạnh tranh và điều hòa giảm thụ thể
+
+estrogen
+
+Ngoài ra, một số phụ nữ tiền mãn kinh mắc ung thư vú dương tính với thụ thể
+
+estrogen
+
+được điều trị bằng cách ức chế buồng trứng bằng thuốc chủ vận hormone giải phóng gonadotropin (GnRH) (ví dụ: leuprolide) hoặc thuốc đối kháng (ví dụ: elagolix). Điều này không được sử dụng làm liệu pháp nội tiết trực tiếp, mà là để gây ra tình trạng mãn kinh và cho phép sử dụng thuốc ức chế aromatase.
+
+Liệu pháp nội tiết làm giảm nồng độ androgen bao gồm:
+
+Thuốc chủ vận và thuốc đối kháng GnRH
+
+: Giảm tiết GnRH (thuốc chủ vận ban đầu làm tăng tiết, nhưng sau đó giảm tiết), dẫn đến giảm hormone hoàng thể và hormone kích thích nang trứng và sau đó giảm sản sinh
+
+testosterone
+
+Thuốc kháng androgen
+
+(ví dụ: flutamide, enzalutamide): Gắn kết cạnh tranh với thụ thể androgen
+
+Liệu pháp nội tiết làm giảm nồng độ hormone gây ra các triệu chứng liên quan đến thiếu hụt hormone, bao gồm bốc hỏa. Thuốc đối kháng androgen cũng gây ra hội chứng chuyển hóa làm tăng nguy cơ mắc bệnh tiểu đường và bệnh tim.
+
+Liệu pháp miễn dịch
+
+Liệu pháp miễn dịch (xem thêm
+
+Liệu pháp miễn dịch ung thư
+
+) được chia thành 2 dạng:
+
+Chủ động: Điều trị được thực hiện qua trung gian miễn dịch tích cực và nhằm mục đích kích động hoặc khuếch đại phản ứng miễn dịch chống ung thư của bệnh nhân
+
+Nuôi cấy: Điều trị trung gian miễn dịch thụ động và bao gồm việc cung cấp kháng thể hoặc tế bào chống ung thư
+
+Liệu pháp miễn dịch chủ động
+
+có thể bao gồm
+
+vắc-xin
+
+,
+
+tế bào T biến đổi
+
+từ bệnh nhân (ví dụ: tế bào T thụ thể kháng nguyên khảm (CAR) hoặc một số loại
+
+kháng thể đơn dòng
+
+kích hoạt hệ thống miễn dịch của bệnh nhân chống lại ung thư (ví dụ: thuốc ức chế điểm kiểm soát). Một ví dụ khác về liệu pháp miễn dịch tích cực là nhỏ bacille Calmette – Guérin (BCG) vào bàng quang của bệnh nhân ung thư bàng quang.
+
+Liệu pháp miễn dịch nuôi cấy
+
+thường bao gồm việc cung cấp
+
+các kháng thể đơn dòng
+
+được sản sinh trong phòng thí nghiệm hoặc đưa
+
+các lympho T
+
+đã được sửa đổi hoặc tế bào tiêu diệt tự nhiên (NK) từ người khỏe mạnh sang người bị ung thư. Đôi khi những tế bào này được biến đổi gen bằng cách chèn một chất chống ung thư thụ thể kháng nguyên thể khảm (CAR). Các dạng khác của liệu pháp miễn dịch nuôi cấy bao gồm lymphokine và
+
+cytokine
+
+như interferon và interleukin. Các peptide truyền tín hiệu nhỏ này tạo điều kiện cho sự tương tác giữa các tế bào tham gia vào đápứng miễn dịch nhưng ít được sử dụng rộng rãi trong liệu pháp điều trị ung thư.
+
+Vắc xin
+
+Vắc xin ung thư được thiết kế để kích hoạt hoặc tăng cường đáp ứng của hệ thống miễn dịch đối với các tế bào ung thư đã được nghiên cứu rộng rãi nhưng hiệu quả mang lại chưa nhiều. Tuy nhiên, sipuleucel-T, một loại vắc-xin có nguồn gốc từ tế bào tua tự thân, hiện có thể điều trị ung thư tuyến tiền liệt và BCG được sử dụng để điều trị ung thư bàng quang nông.
+
+Quan trọng hơn là các loại vắc xin được thiết kế để ngăn ngừa ung thư liên quan đến vi rút. Ví dụ bao gồm
+
+vắc-xin phòng ngừa vi-rút papilloma ở người
+
+(HPV), có thể ngăn ngừa ung thư cổ tử cung và hậu môn (và có thể là ung thư đầu, cổ và amidan) và
+
+vắc-xin phòng ngừa vi rút viêm gan B
+
+(HBV), có thể ngăn ngừa ung thư gan.
+
+Tế bào T đã sửa đổi
+
+Trong kỹ thuật này, tế bào T được lấy từ máu của bệnh nhân ung thư, biến đổi gen để nhận diện kháng nguyên liên quan đến ung thư và truyền lại vào bệnh nhân. Ví dụ phổ biến nhất của chiến lược này được gọi là tế bào T kháng thụ thể chimeric T (CAR-T). Tế bào CAR-T là liệu pháp hiệu quả cho bệnh nhân mắc bệnh bạch cầu cấp nguyên bào lympho, u lympho tế bào B và bệnh đa u tủy (
+
+1
+
+). Liệu pháp tế bào CAR-T bao gồm tisagenlecleucel cho bệnh nhân trẻ mắc bệnh bạch cầu cấp nguyên bào lympho giai đoạn tiến triển, axicabtagene ciloleucel trong bệnh u lympho giai đoạn tiến triển brexucabtagene autoleucel và lisocabtagene maraleucel cho bệnh nhân mắc bệnh u lympho tế bào B và idecabtagene vicleucel và ciltacabtagene autoleucel trong bệnh đa u tủy. Tế bào này vẫn chưa được chứng minh hiệu quả với khối u chắc.
+
+Các kỹ thuật liên quan liên quan đến việc nuôi cấy các lympho T được chiết xuất trong môi trường nuôi cấy và kích hoạt chúng bằng cách tiếp xúc với lymphokine interleukin-2 (IL-2). Ngoài ra, tế bào T có thể được lấy từ khối u của bệnh nhân, nuôi cấy để tạo ra lượng lớn hơn, sau đó truyền lại.
+
+Kháng thể đơn dòng
+
+Các kháng thể đơn dòng được sử dụng rộng rãi để điều trị một số bệnh ung thư. Các kháng thể đơn dòng có thể được định hướng chống lại các kháng nguyên đặc hiệu với ung thư hoặc biểu hiện quá mức trên các tế bào ung thư. Chúng cũng có thể được hướng tới các kháng nguyên đặc hiệu dòng dõi cũng có mặt trên các tế bào bình thường.
+
+Một số kháng thể đơn dòng được cung cấp trực tiếp; một số khác được liên kết với một chất phóng xạ hoặc chất độc. Các kháng thể liên kết này được gọi là liên hợp kháng thể-thuốc (ADC). Một số kháng thể đặc hiệu kép, với một thụ thể hướng đến kháng nguyên liên quan đến ung thư và một thụ thể khác hướng đến kháng nguyên trên tế bào T. Mục đích là đưa tế bào T đến ung thư để tiêu diệt tận gốc.
+
+Trastuzumab, một kháng thể chống lại một loại protein gọi là ERBB2, có hoạt tính trong ung thư vú biểu hiện kháng nguyên này. Kháng thể kháng CD19 và CD20 trên tế bào B bình thường (rituximab) được sử dụng để điều trị u lympho, kháng thể kháng CD30 (brentuximab vedotin) được sử dụng để điều trị u lympho Hodgkin và kháng thể kháng CD33 (gemtuzumab ozogamicin) được sử dụng để điều trị bệnh bạch cầu cấp  dòng tủy.
+
+Một số kháng thể đơn dòng kích hoạt khả năng miễn dịch chống ung thư không hoạt động hoặc bị chặn (liệu pháp miễn dịch tích cực) bằng cách liên kết các thuốc ức chế điểm kiểm tra miễn dịch, các phân tử liên quan đến việc ức chế tự nhiên các đáp ứng miễn dịch. Việc ngăn chặn sự ức chế này sẽ giải phóng đáp ứng miễn dịch của bệnh nhân bị khối u ức chế. Các phân tử đích bao gồm protein gắn kết với tế bào lympho T gây độc tế bào 4 (CTLA4), protein chết tế bào được lập trình 1 (PD1) và phối tử chết tế bào được lập trình 1 (PD-L1) và 2 (PD-L2). Thuốc ức chế CTLA4 bao gồm ipilimumab và tremelimumab. Thuốc chẹn PD1 bao gồm cemiplimab, dostarlimab, nivolumab và pembrolizumab và thuốc chẹn PD-1L bao gồm atezolizumab, avelumab và durvalumab. Những loại thuốc này được dùng để điều trị nhiều loại ung thư dạng đặc, đơn độc hoặc phối hợp với hóa trị liệu; các thuốc này thường không hiệu quả đối với ung thư máu và ung thư tủy xương.
+
+Các kháng thể đơn dòng chống ung thư nhắm đích 2 hoặc 3 kháng nguyên đã được phát triển. Các kháng thể đơn dòng này thường nhắm vào các kháng nguyên liên quan đến ung thư và kháng nguyên tế bào T để tăng cường tiêu diệt tế bào T của tế bào ung thư. Blinatumomab, nhắm mục tiêu CD19 trên tế bào bệnh bạch cầu nguyên bào lympho cấp tính và CD3 trên tế bào T, là một ví dụ.
+
+Tài liệu tham khảo về liệu pháp miễn dịch
+
+1.
+
+Cappell KM, Kochenderfer JN
+
+. Long-term outcomes following CAR T cell therapy: what we know so far.
+
+Nat Rev Clin Oncol
+
+2023;20(6):359-371. doi:10.1038/s41571-023-00754-1
+
+Các thuốc làm biệt hóa
+
+Tác nhân phân biệtCác tác nhân này thúc đẩy sự biệt hóa tế bào ung thư. All-
+
+trans
+
+-retinoic acid và arsenic đều có khả năng chữa bệnh bạch cầu cấp tiền tủy bào. Các thuốc khác trong nhóm này bao gồm các thuốc làm giảm methyl hóa, chẳng hạn như azacitidine và decitabine và các thuốc có đột biến đích ngăn chặn sự biệt hóa. Các ví dụ bao gồm enablesidenib và ivosidenib, chống lại các đột biến ở
+
+IDH2
+
+và
+
+IDH1
+
+. Cách tiếp cận khác là sử dụng venetoclax, giúp đảo ngược khối biệt hóa do
+
+BCL2 gây ra
+
+. Các thuốc gây biệt hóa không có hiệu quả đối với hầu hết các loại ung thư.
+
+Thuốc ức chế sự hình thành mạch máu
+
+Các khối u đặc tiết ra các yếu tố tăng trưởng hình thành các mạch máu mới cần thiết, hỗ trợ sự phát triển của khối u. Có một số loại thuốc có tác dụng ức chế quá trình này. Bevacizumab, một kháng thể đơn dòng chống lại yếu tố tăng trưởng nội mô mạch máu (VEGF), có hiệu quả chống lại ung thư thận và ung thư ruột kết. Các chất ức chế thụ thể VEGF, chẳng hạn như sorafenib và sunitinib, cũng có hiệu quả trong ung thư thận và gan.
+
+Liệu pháp nhắm trúng đích
+
+Hầu hết các liệu pháp nhắm trúng đích nhắm vào các con đường truyền tín hiệu tế bào qua trung gian tyrosine kinase. Ví dụ tốt nhất là thuốc ức chế tyrosine kinase, bao gồm imatinib, dasatinib, ponatinib, bosutinib, asciminib và nilotinib, cực kỳ hiệu quả trong điều trị bệnh bạch cầu tủy mạn tính.
+
+Nhiều bệnh ung thư biểu mô có đột biến kích hoạt các con đường truyền tín hiệu mà không cần tương tác giữa thụ thể-phối tử, dẫn đến sự tăng sinh liên tục của các tế bào ung thư. Những gen đột biến này bao gồm những gen dành cho các thụ thể yếu tố phát triển và các protein trong dòng tín hiệu truyền tới nhân tế bào. Các ví dụ bao gồm erlotinib, gefitinib và osimertinib, ức chế con đường truyền tín hiệu của yếu tố tăng trưởng thượng bì (EGFR). Những loại thuốc này đặc biệt hữu ích trong điều trị ung thư phổi. Các chất ức chế poly-
+
+adenosine
+
+diphosphate (ADP) ribose polymerase (PARP) được sử dụng để điều trị ung thư buồng trứng và ung thư vú di truyền, bao gồm olaparib, rucaparib, niraparib và talaparib. Các ví dụ khác bao gồm các thuốc ức chế JAK1/2 không đặc hiệu ruxolitinib, fedratinib, pacritinib và momelotinib, được sử dụng để điều trị các khối u tăng sinh tủy, và selinexor, ức chế quá trình vận chuyển protein từ nhân đến tế bào chất, làm giảm sự tăng sinh tế bào và có hiệu quả trong điều trị bệnh đa u tủy.
+
+Một hướng khác trong liệu pháp điều trị ung thư có mục tiêu là sử dụng các thuốc ức chế sản phẩm gen đột biến không phụ thuộc vào loại ung thư. Ví dụ như các loại thuốc như vemurafenib, dabrafenib và encorafenib, ức chế protein được tạo ra bởi một đột biến trong
+
+BRAF
+
+. Đột biến này thường gặp ở ung thư hắc tố nhưng cũng xảy ra ở một số bệnh bạch cầu. Một ví dụ khác là thuốc ức chế các protein bất thường do đột biến
+
+MEK
+
+, bao gồm trametinib, cobimetinib và binimetinib.
+
+Liệu pháp gen
+
+Liệu pháp điều trị ung thư bằng cách thay đổi gen cho đến nay vẫn chưa thành công, ngoại trừ việc phát triển tế bào T thụ thể kháng nguyên khảm (CAR).
+
+Chỉnh sửa gen
+
+Chỉnh sửa gen CRISPR (trình tự lặp lại palindromic ngắn xen kẽ đều đặn)/Cas9 (protein 9 liên kết với CRISPR) có thể hữu ích trong một số bệnh ung thư đơn độc hoặc phối hợp với các liệu pháp chống ung thư khác. Một ví dụ trong sinh học tổng hợp là thay đổi biểu hiện kháng nguyên trên các tế bào bình thường sao cho các tế bào này không bị tiêu diệt bởi tế bào CAR-T hoặc kháng thể đơn dòng lưỡng tính. Liệu pháp gen CRISPR/Cas9 được sử dụng để điều trị bệnh hồng cầu hình liềm nặng và bệnh thalassemia beta phụ thuộc truyền máu.
+
+Liệu pháp gen nhắm mục tiêu
+
+Liệu pháp nhắm gen mục tiêu đề cập đến các liệu pháp điều trị chống lại một gen hoặc sản phẩm gen cụ thể được cho là quan trọng trong nguyên nhân hoặc sự tiến triển của ung thư hơn là vị trí giải phẫu (ví dụ như vú) hoặc thậm chí là loại tế bào. Ví dụ, có thể chỉ định chất ức chế
+
+BRAF
+
+cho bệnh nhân có
+
+BRAF
+
+đột biến bất kể bệnh nhân có u hắc tố hay bệnh bạch cầu cấp. Mục tiêu điều trị thường được xác định thông qua phân tích di truyền của bệnh nhân ung thư. Một ví dụ về liệu pháp nhắm đích là việc sử dụng thuốc ức chế tyrosine kinase (ví dụ: imatinib, dasatinib, nilotinib) trong bệnh bạch cầu kinh dòng tủy, một loại ung thư do một đột biến gây ra (
+
+BCR:ABL1
+
+). Tuy nhiên, hầu hết các bệnh ung thư đều do 10 hoặc thậm chí là 100 đột biến, làm cho cách tiếp cận này trở nên phức tạp hơn.
+
+Thuốc chống lại đột biến
+
+FLT3
+
+(midostaurin), đột biến isocitrate dehydrogenase-2 (
+
+IDH2
+
+) (enasidenib) và
+
+IDH1
+
+(ivosidenib) có thể điều trị một số dạng bệnh bạch cầu tủy cấp tính và bệnh tăng sinh tế bào mast toàn thân (midostaurin). Các thuốc khác nhắm đích thụ thể
+
+VEGF
+
+và
+
+EGFR
+
+chủ yếu là thuốc ức chế kinase phân tử nhỏ (ví dụ: sorafenib, erlotinib, gefitinib, osimertinib, sunitinib, regorafenib).
+
+Trong một số bệnh lý về huyết học, như
+
+đa hồng cầu nguyên phát
+
+và bệnh đa u tủy xương có liên quan đến bệnh lý tủy xương, thuốc ức chế
+
+JAK2
+
+(ruxolitinib,fedratinib, pacritinib) được sử dụng.
+
+Thuốc trực tiếp chống lại poly
+
+adenosine
+
+diphosphate (ADP) ribose polymerase (PARP) có sẵn cho ung thư buồng trứng đột biến
+
+BRCA
+
+, ung thư vòi trứng và ung thư phúc mạc. Các thuốc này bao gồm olaparib, rucaparib và niraparib. Tác dụng phụ bao gồm độc tính của tủy xương (ví dụ như nhiễm trùng, chảy máu), mệt mỏi, tiêu chảy, nhức đầu, chóng mặt và bất thường về gan và thận.
+
+Vi rút gây ung thư
+
+Một số vi-rút gọi là vi-rút gây ung thư có khả năng tiêu diệt có chọn lọc hoặc tương đối có chọn lọc các tế bào ung thư, kích thích hệ thống miễn dịch nhằm vào các tế bào ung thư hoặc cả hai. Loại vi rút tiêu ung thư duy nhất có sẵn tại Hoa Kỳ là talimogene laherparepvec, được tiêm vào khối u ở những bệnh nhân mắc bệnh ung thư tế bào hắc tố. Đây là một loại herpesvirus đã được biến đổi và được thiết kế để tạo ra một loại protein kích thích phản ứng chống ung thư qua trung gian miễn dịch và biểu hiện một loại protein có tác dụng tương tự. Do vi-rút được biến đổi gen, nó có thể được coi là một hình thức điều trị gen gián tiếp.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+National Cancer Institute's
+
+up-to-date list of agents used to treat cancer
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Hóa trị liệu ---
+
+Các thuốc hóa trị gây độc tế bào được phân loại là (1)Các thuốc alkyl hóa (bao gồm nitrosoureas), gây tổn thương DNA (ví dụ: busulfan, chlorambucil, cisplatin)Thuốc chống chuyển hóa, ngăn chặn DNA (ví dụ: azacitidine, fluorouracil, methotrexate)Thuốc kháng sinh chống khối u (bao gồm anthracycline), có tác dụng can thiệp vào DNA (ví dụ: bleomycin, daunorubicin, doxorubicin)Thuốc ức chế nguyên phân, phá vỡ sự phân chia tế bào (ví dụ: docetaxel, paclitaxel, vincristine)Chất ức chế topoisomerase, ngăn chặn hoạt tính của các enzym trong tế bào ung thư (ví dụ: etoposide, irinotecan)Các thuốc hóa trị khác không phù hợp với các phân loại cụ thể (ví dụ: asparaginase)Thuốc gây độc tế bào làm hỏng DNA và giết chết nhiều tế bào lành cũng như tế bào ung thư. Các chất chống chuyển hóa như fluorouracil và methotrexate đặc hiệu cho chu kỳ tế bào và có mối quan hệ đáp ứng-liều phi tuyến tính. Ngược lại, các loại thuốc khác (ví dụ: thuốc alkyl hóa, còn được gọi là chất liên kết chéo DNA) có mối quan hệ liều lượng-đáp ứng tuyến tính, tiêu diệt nhiều tế bào ung thư hơn ở liều cao hơn. Ở mức liều cao, tác nhân alkyl hóa gây tổn thương tủy xương.Các thuốc đơn lẻ có thể chữa khỏi một số loại ung thư (ví dụ: ung thư biểu mô màng đệm, bệnh bạch cầu tế bào lông). Phổ biến hơn là các phác đồ đa hóa trị liệu, phối hợp nhiều hóa chất có cơ chế tác động và độc tính khác nhau để tăng hiệu quả, giảm độc tính liên quan tới liều và giảm khả năng kháng thuốc. Các phác đồ này dẫn đến tỷ lệ chữa khỏi đáng kể (ví dụ: trong bệnh bạch cầu cấp tính, ung thư tinh hoàn, u lympho Hodgkin, u lympho và ít phổ biến hơn là các khối u rắn như ung thư phổi tế bào nhỏ và ung thư vòm họng). Phác đồ đa hóa trị liệu thường phối hợp các hóa chất nhất định, điều trị lặp lại theo chu kỳ. Khoảng cách giữa các chu kỳ nên là khoảng thời gian ngắn nhất cho phép các mô lành hồi phục. Truyền liên tục có thể làm tăng khả năng tiêu diệt tế bào bằng một số thuốc đặc hiệu cho chu kỳ tế bào (ví dụ: fluorouracil).Đối với mỗi bệnh nhân, cần cân nhắc giữa hiệu quả và độc tính. Cần đánh giá chức năng của cơ quan đích trước khi dùng hóa trị liệu có độc tính đặc hiệu với cơ quan đích. Có thể cần phải điều chỉnh liều hoặc loại trừ một số thuốc nhất định ở những bệnh nhân mắc bệnh phổi (ví dụ: bleomycin), suy thận (ví dụ: methotrexate), rối loạn chức năng gan (ví dụ: taxanes) hoặc bệnh tim (daunorubicin, cyclophosphamide).Mặc dù có các biện pháp phòng ngừa, các phản ứng phụ vẫn thường gặp do hóa trị liệu gây độc tế bào. Các mô lành thường bị ảnh hưởng nhất là những mô có mức độ phân bào nội tại cao nhất như: tủy xương, nang lông, biểu mô đường tiêu hóa.Chẩn đoán hình ảnh (ví dụ chụp CT, MRI, PET) thường được thực hiện sau 2 đến 3 đợt điều trị để đánh giá. Điều trị tiếp tục được áp dụng cho những bệnh nhân có bệnh ung thư đáp ứng với hóa trị và những bệnh nhân có bệnh ổn định. Ở những bệnh nhân có tiến triển ung thư, phác đồ thường được thay đổi hoặc ngừng điều trị.Tài liệu tham khảo về hóa trị1.National Cancer Institute: Major Categories of Chemotherapy Agents. SEER Training Modules. Ngày 21 tháng 12 năm 2023.
+
+--- 2. Liệu pháp nội tiết (hormone) ---
+
+Liệu pháp nội tiết sử dụng thuốc chủ vận hoặc thuốc đối kháng, thường để giảm nồng độ hormone cụ thể trong huyết thanh, để điều trị, ngăn ngừa tái phát hoặc đôi khi để ngăn ngừa sự phát triển của ung thư. Liệu pháp này có thể được sử dụng riêng rẽ hoặc kết hợp với các liệu pháp khác.Liệu pháp nội tiết đặc biệt hữu ích trong trường hợp ung thư vú dương tính với thụ thểestrogenvà ung thư tuyến tiền liệt, loại ung thư phát triển do phản ứng với androgen. Các loại ung thư khác có thụ thể hormone, chẳng hạn như ung thư nội mạc tử cung hoặc một số loại ung thư buồng trứng về mặt mô học (ví dụ: thanh dịch cấp thấp), đôi khi được điều trị bằng liệu pháp nội tiết.Một số loại thuốc có cơ chế khác nhau được sử dụng làm liệu pháp nội tiết để điều trị ung thư. Hầu hết các liệu pháp nội tiết đều làm giảm nồng độ hormone. Một ngoại lệ là việc sử dụng progestin trong điều trị ung thư nội mạc tử cung giai đoạn tiến triển.Các liệu pháp nội tiết làm giảm nồng độestrogenbao gồm:Thuốc ức chế aromatase(ví dụ: letrozole, anastrozole, exemestane): Ngăn chặn sự chuyển đổi androgen thànhestrogenbằng cách ức chế enzyme aromataseThuốc điều biến thụ thể estrogen chọn lọc(SERM; ví dụ: tamoxifen, toremifene, raloxifene): Gắn kết cạnh tranh với các thụ thểestrogentrong mô ác tính mục tiêu (ví dụ: vú); thường có tác dụng như một chất chủ vận thụ thểestrogentrong các mô được lựa chọn khác (ví dụ: tamoxifen là thuốc chủ vận của thụ thểestrogentrong nội mạc tử cung)Thuốc điều hòa giảm thụ thểestrogencó chọn lọc(SERD; ví dụ: fulvestrant): Gắn kết cạnh tranh với các thụ thểestrogentrong tất cả các mô bằng cách liên kết cạnh tranh và điều hòa giảm thụ thểestrogenNgoài ra, một số phụ nữ tiền mãn kinh mắc ung thư vú dương tính với thụ thểestrogenđược điều trị bằng cách ức chế buồng trứng bằng thuốc chủ vận hormone giải phóng gonadotropin (GnRH) (ví dụ: leuprolide) hoặc thuốc đối kháng (ví dụ: elagolix). Điều này không được sử dụng làm liệu pháp nội tiết trực tiếp, mà là để gây ra tình trạng mãn kinh và cho phép sử dụng thuốc ức chế aromatase.Liệu pháp nội tiết làm giảm nồng độ androgen bao gồm:Thuốc chủ vận và thuốc đối kháng GnRH: Giảm tiết GnRH (thuốc chủ vận ban đầu làm tăng tiết, nhưng sau đó giảm tiết), dẫn đến giảm hormone hoàng thể và hormone kích thích nang trứng và sau đó giảm sản sinhtestosteroneThuốc kháng androgen(ví dụ: flutamide, enzalutamide): Gắn kết cạnh tranh với thụ thể androgenLiệu pháp nội tiết làm giảm nồng độ hormone gây ra các triệu chứng liên quan đến thiếu hụt hormone, bao gồm bốc hỏa. Thuốc đối kháng androgen cũng gây ra hội chứng chuyển hóa làm tăng nguy cơ mắc bệnh tiểu đường và bệnh tim.
+
+--- 3. Liệu pháp miễn dịch ---
+
+Liệu pháp miễn dịch (xem thêmLiệu pháp miễn dịch ung thư) được chia thành 2 dạng:Chủ động: Điều trị được thực hiện qua trung gian miễn dịch tích cực và nhằm mục đích kích động hoặc khuếch đại phản ứng miễn dịch chống ung thư của bệnh nhânNuôi cấy: Điều trị trung gian miễn dịch thụ động và bao gồm việc cung cấp kháng thể hoặc tế bào chống ung thưLiệu pháp miễn dịch chủ độngcó thể bao gồmvắc-xin,tế bào T biến đổitừ bệnh nhân (ví dụ: tế bào T thụ thể kháng nguyên khảm (CAR) hoặc một số loạikháng thể đơn dòngkích hoạt hệ thống miễn dịch của bệnh nhân chống lại ung thư (ví dụ: thuốc ức chế điểm kiểm soát). Một ví dụ khác về liệu pháp miễn dịch tích cực là nhỏ bacille Calmette – Guérin (BCG) vào bàng quang của bệnh nhân ung thư bàng quang.Liệu pháp miễn dịch nuôi cấythường bao gồm việc cung cấpcác kháng thể đơn dòngđược sản sinh trong phòng thí nghiệm hoặc đưacác lympho Tđã được sửa đổi hoặc tế bào tiêu diệt tự nhiên (NK) từ người khỏe mạnh sang người bị ung thư. Đôi khi những tế bào này được biến đổi gen bằng cách chèn một chất chống ung thư thụ thể kháng nguyên thể khảm (CAR). Các dạng khác của liệu pháp miễn dịch nuôi cấy bao gồm lymphokine vàcytokinenhư interferon và interleukin. Các peptide truyền tín hiệu nhỏ này tạo điều kiện cho sự tương tác giữa các tế bào tham gia vào đápứng miễn dịch nhưng ít được sử dụng rộng rãi trong liệu pháp điều trị ung thư.Vắc xinVắc xin ung thư được thiết kế để kích hoạt hoặc tăng cường đáp ứng của hệ thống miễn dịch đối với các tế bào ung thư đã được nghiên cứu rộng rãi nhưng hiệu quả mang lại chưa nhiều. Tuy nhiên, sipuleucel-T, một loại vắc-xin có nguồn gốc từ tế bào tua tự thân, hiện có thể điều trị ung thư tuyến tiền liệt và BCG được sử dụng để điều trị ung thư bàng quang nông.Quan trọng hơn là các loại vắc xin được thiết kế để ngăn ngừa ung thư liên quan đến vi rút. Ví dụ bao gồmvắc-xin phòng ngừa vi-rút papilloma ở người(HPV), có thể ngăn ngừa ung thư cổ tử cung và hậu môn (và có thể là ung thư đầu, cổ và amidan) vàvắc-xin phòng ngừa vi rút viêm gan B(HBV), có thể ngăn ngừa ung thư gan.Tế bào T đã sửa đổiTrong kỹ thuật này, tế bào T được lấy từ máu của bệnh nhân ung thư, biến đổi gen để nhận diện kháng nguyên liên quan đến ung thư và truyền lại vào bệnh nhân. Ví dụ phổ biến nhất của chiến lược này được gọi là tế bào T kháng thụ thể chimeric T (CAR-T). Tế bào CAR-T là liệu pháp hiệu quả cho bệnh nhân mắc bệnh bạch cầu cấp nguyên bào lympho, u lympho tế bào B và bệnh đa u tủy (1). Liệu pháp tế bào CAR-T bao gồm tisagenlecleucel cho bệnh nhân trẻ mắc bệnh bạch cầu cấp nguyên bào lympho giai đoạn tiến triển, axicabtagene ciloleucel trong bệnh u lympho giai đoạn tiến triển brexucabtagene autoleucel và lisocabtagene maraleucel cho bệnh nhân mắc bệnh u lympho tế bào B và idecabtagene vicleucel và ciltacabtagene autoleucel trong bệnh đa u tủy. Tế bào này vẫn chưa được chứng minh hiệu quả với khối u chắc.Các kỹ thuật liên quan liên quan đến việc nuôi cấy các lympho T được chiết xuất trong môi trường nuôi cấy và kích hoạt chúng bằng cách tiếp xúc với lymphokine interleukin-2 (IL-2). Ngoài ra, tế bào T có thể được lấy từ khối u của bệnh nhân, nuôi cấy để tạo ra lượng lớn hơn, sau đó truyền lại.Kháng thể đơn dòngCác kháng thể đơn dòng được sử dụng rộng rãi để điều trị một số bệnh ung thư. Các kháng thể đơn dòng có thể được định hướng chống lại các kháng nguyên đặc hiệu với ung thư hoặc biểu hiện quá mức trên các tế bào ung thư. Chúng cũng có thể được hướng tới các kháng nguyên đặc hiệu dòng dõi cũng có mặt trên các tế bào bình thường.Một số kháng thể đơn dòng được cung cấp trực tiếp; một số khác được liên kết với một chất phóng xạ hoặc chất độc. Các kháng thể liên kết này được gọi là liên hợp kháng thể-thuốc (ADC). Một số kháng thể đặc hiệu kép, với một thụ thể hướng đến kháng nguyên liên quan đến ung thư và một thụ thể khác hướng đến kháng nguyên trên tế bào T. Mục đích là đưa tế bào T đến ung thư để tiêu diệt tận gốc.Trastuzumab, một kháng thể chống lại một loại protein gọi là ERBB2, có hoạt tính trong ung thư vú biểu hiện kháng nguyên này. Kháng thể kháng CD19 và CD20 trên tế bào B bình thường (rituximab) được sử dụng để điều trị u lympho, kháng thể kháng CD30 (brentuximab vedotin) được sử dụng để điều trị u lympho Hodgkin và kháng thể kháng CD33 (gemtuzumab ozogamicin) được sử dụng để điều trị bệnh bạch cầu cấp  dòng tủy.Một số kháng thể đơn dòng kích hoạt khả năng miễn dịch chống ung thư không hoạt động hoặc bị chặn (liệu pháp miễn dịch tích cực) bằng cách liên kết các thuốc ức chế điểm kiểm tra miễn dịch, các phân tử liên quan đến việc ức chế tự nhiên các đáp ứng miễn dịch. Việc ngăn chặn sự ức chế này sẽ giải phóng đáp ứng miễn dịch của bệnh nhân bị khối u ức chế. Các phân tử đích bao gồm protein gắn kết với tế bào lympho T gây độc tế bào 4 (CTLA4), protein chết tế bào được lập trình 1 (PD1) và phối tử chết tế bào được lập trình 1 (PD-L1) và 2 (PD-L2). Thuốc ức chế CTLA4 bao gồm ipilimumab và tremelimumab. Thuốc chẹn PD1 bao gồm cemiplimab, dostarlimab, nivolumab và pembrolizumab và thuốc chẹn PD-1L bao gồm atezolizumab, avelumab và durvalumab. Những loại thuốc này được dùng để điều trị nhiều loại ung thư dạng đặc, đơn độc hoặc phối hợp với hóa trị liệu; các thuốc này thường không hiệu quả đối với ung thư máu và ung thư tủy xương.Các kháng thể đơn dòng chống ung thư nhắm đích 2 hoặc 3 kháng nguyên đã được phát triển. Các kháng thể đơn dòng này thường nhắm vào các kháng nguyên liên quan đến ung thư và kháng nguyên tế bào T để tăng cường tiêu diệt tế bào T của tế bào ung thư. Blinatumomab, nhắm mục tiêu CD19 trên tế bào bệnh bạch cầu nguyên bào lympho cấp tính và CD3 trên tế bào T, là một ví dụ.Tài liệu tham khảo về liệu pháp miễn dịch1.Cappell KM, Kochenderfer JN. Long-term outcomes following CAR T cell therapy: what we know so far.Nat Rev Clin Oncol2023;20(6):359-371. doi:10.1038/s41571-023-00754-1
+
+--- 4. Các thuốc làm biệt hóa ---
+
+Tác nhân phân biệtCác tác nhân này thúc đẩy sự biệt hóa tế bào ung thư. All-trans-retinoic acid và arsenic đều có khả năng chữa bệnh bạch cầu cấp tiền tủy bào. Các thuốc khác trong nhóm này bao gồm các thuốc làm giảm methyl hóa, chẳng hạn như azacitidine và decitabine và các thuốc có đột biến đích ngăn chặn sự biệt hóa. Các ví dụ bao gồm enablesidenib và ivosidenib, chống lại các đột biến ởIDH2vàIDH1. Cách tiếp cận khác là sử dụng venetoclax, giúp đảo ngược khối biệt hóa doBCL2 gây ra. Các thuốc gây biệt hóa không có hiệu quả đối với hầu hết các loại ung thư.
+
+--- 5. Thuốc ức chế sự hình thành mạch máu ---
+
+Các khối u đặc tiết ra các yếu tố tăng trưởng hình thành các mạch máu mới cần thiết, hỗ trợ sự phát triển của khối u. Có một số loại thuốc có tác dụng ức chế quá trình này. Bevacizumab, một kháng thể đơn dòng chống lại yếu tố tăng trưởng nội mô mạch máu (VEGF), có hiệu quả chống lại ung thư thận và ung thư ruột kết. Các chất ức chế thụ thể VEGF, chẳng hạn như sorafenib và sunitinib, cũng có hiệu quả trong ung thư thận và gan.
+
+--- 6. Liệu pháp nhắm trúng đích ---
+
+Hầu hết các liệu pháp nhắm trúng đích nhắm vào các con đường truyền tín hiệu tế bào qua trung gian tyrosine kinase. Ví dụ tốt nhất là thuốc ức chế tyrosine kinase, bao gồm imatinib, dasatinib, ponatinib, bosutinib, asciminib và nilotinib, cực kỳ hiệu quả trong điều trị bệnh bạch cầu tủy mạn tính.Nhiều bệnh ung thư biểu mô có đột biến kích hoạt các con đường truyền tín hiệu mà không cần tương tác giữa thụ thể-phối tử, dẫn đến sự tăng sinh liên tục của các tế bào ung thư. Những gen đột biến này bao gồm những gen dành cho các thụ thể yếu tố phát triển và các protein trong dòng tín hiệu truyền tới nhân tế bào. Các ví dụ bao gồm erlotinib, gefitinib và osimertinib, ức chế con đường truyền tín hiệu của yếu tố tăng trưởng thượng bì (EGFR). Những loại thuốc này đặc biệt hữu ích trong điều trị ung thư phổi. Các chất ức chế poly-adenosinediphosphate (ADP) ribose polymerase (PARP) được sử dụng để điều trị ung thư buồng trứng và ung thư vú di truyền, bao gồm olaparib, rucaparib, niraparib và talaparib. Các ví dụ khác bao gồm các thuốc ức chế JAK1/2 không đặc hiệu ruxolitinib, fedratinib, pacritinib và momelotinib, được sử dụng để điều trị các khối u tăng sinh tủy, và selinexor, ức chế quá trình vận chuyển protein từ nhân đến tế bào chất, làm giảm sự tăng sinh tế bào và có hiệu quả trong điều trị bệnh đa u tủy.Một hướng khác trong liệu pháp điều trị ung thư có mục tiêu là sử dụng các thuốc ức chế sản phẩm gen đột biến không phụ thuộc vào loại ung thư. Ví dụ như các loại thuốc như vemurafenib, dabrafenib và encorafenib, ức chế protein được tạo ra bởi một đột biến trongBRAF. Đột biến này thường gặp ở ung thư hắc tố nhưng cũng xảy ra ở một số bệnh bạch cầu. Một ví dụ khác là thuốc ức chế các protein bất thường do đột biếnMEK, bao gồm trametinib, cobimetinib và binimetinib.
+
+--- 7. Liệu pháp gen ---
+
+Liệu pháp điều trị ung thư bằng cách thay đổi gen cho đến nay vẫn chưa thành công, ngoại trừ việc phát triển tế bào T thụ thể kháng nguyên khảm (CAR).Chỉnh sửa genChỉnh sửa gen CRISPR (trình tự lặp lại palindromic ngắn xen kẽ đều đặn)/Cas9 (protein 9 liên kết với CRISPR) có thể hữu ích trong một số bệnh ung thư đơn độc hoặc phối hợp với các liệu pháp chống ung thư khác. Một ví dụ trong sinh học tổng hợp là thay đổi biểu hiện kháng nguyên trên các tế bào bình thường sao cho các tế bào này không bị tiêu diệt bởi tế bào CAR-T hoặc kháng thể đơn dòng lưỡng tính. Liệu pháp gen CRISPR/Cas9 được sử dụng để điều trị bệnh hồng cầu hình liềm nặng và bệnh thalassemia beta phụ thuộc truyền máu.Liệu pháp gen nhắm mục tiêuLiệu pháp nhắm gen mục tiêu đề cập đến các liệu pháp điều trị chống lại một gen hoặc sản phẩm gen cụ thể được cho là quan trọng trong nguyên nhân hoặc sự tiến triển của ung thư hơn là vị trí giải phẫu (ví dụ như vú) hoặc thậm chí là loại tế bào. Ví dụ, có thể chỉ định chất ức chếBRAFcho bệnh nhân cóBRAFđột biến bất kể bệnh nhân có u hắc tố hay bệnh bạch cầu cấp. Mục tiêu điều trị thường được xác định thông qua phân tích di truyền của bệnh nhân ung thư. Một ví dụ về liệu pháp nhắm đích là việc sử dụng thuốc ức chế tyrosine kinase (ví dụ: imatinib, dasatinib, nilotinib) trong bệnh bạch cầu kinh dòng tủy, một loại ung thư do một đột biến gây ra (BCR:ABL1). Tuy nhiên, hầu hết các bệnh ung thư đều do 10 hoặc thậm chí là 100 đột biến, làm cho cách tiếp cận này trở nên phức tạp hơn.Thuốc chống lại đột biếnFLT3(midostaurin), đột biến isocitrate dehydrogenase-2 (IDH2) (enasidenib) vàIDH1(ivosidenib) có thể điều trị một số dạng bệnh bạch cầu tủy cấp tính và bệnh tăng sinh tế bào mast toàn thân (midostaurin). Các thuốc khác nhắm đích thụ thểVEGFvàEGFRchủ yếu là thuốc ức chế kinase phân tử nhỏ (ví dụ: sorafenib, erlotinib, gefitinib, osimertinib, sunitinib, regorafenib).Trong một số bệnh lý về huyết học, nhưđa hồng cầu nguyên phátvà bệnh đa u tủy xương có liên quan đến bệnh lý tủy xương, thuốc ức chếJAK2(ruxolitinib,fedratinib, pacritinib) được sử dụng.Thuốc trực tiếp chống lại polyadenosinediphosphate (ADP) ribose polymerase (PARP) có sẵn cho ung thư buồng trứng đột biếnBRCA, ung thư vòi trứng và ung thư phúc mạc. Các thuốc này bao gồm olaparib, rucaparib và niraparib. Tác dụng phụ bao gồm độc tính của tủy xương (ví dụ như nhiễm trùng, chảy máu), mệt mỏi, tiêu chảy, nhức đầu, chóng mặt và bất thường về gan và thận.
+
+--- 8. Vi rút gây ung thư ---
+
+Một số vi-rút gọi là vi-rút gây ung thư có khả năng tiêu diệt có chọn lọc hoặc tương đối có chọn lọc các tế bào ung thư, kích thích hệ thống miễn dịch nhằm vào các tế bào ung thư hoặc cả hai. Loại vi rút tiêu ung thư duy nhất có sẵn tại Hoa Kỳ là talimogene laherparepvec, được tiêm vào khối u ở những bệnh nhân mắc bệnh ung thư tế bào hắc tố. Đây là một loại herpesvirus đã được biến đổi và được thiết kế để tạo ra một loại protein kích thích phản ứng chống ung thư qua trung gian miễn dịch và biểu hiện một loại protein có tác dụng tương tự. Do vi-rút được biến đổi gen, nó có thể được coi là một hình thức điều trị gen gián tiếp.
+
+--- 9. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.National Cancer Institute'sup-to-date list of agents used to treat cancer

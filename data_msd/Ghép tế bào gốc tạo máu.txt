@@ -1,0 +1,299 @@
+TIÊU ĐỀ: Ghép tế bào gốc tạo máu
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/ghép-tạng/ghép-tế-bào-gốc-tạo-máu
+================================================================================
+
+NỘI DUNG:
+
+Ghép tế bào gốc tạo máu
+
+Theo
+
+Martin Hertl
+
+,
+
+MD, PhD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 8 2022
+
+|
+
+đã sửa đổi
+
+Thg 9 2022
+
+v996648_vi
+
+Thủ thuật
+
+|
+
+Các biến chứng
+
+|
+
+Tiên lượng
+
+|
+
+Ghép tế bào gốc tạo máu (HSC) là một kỹ thuật có những bước tiến nhanh cung cấp một phương pháp điều trị tiềm năng cho các ung thư máu (
+
+bệnh bạch cầu
+
+,
+
+u lympho
+
+,
+
+đa u tủy xương
+
+) và các rối loạn huyết học khác (ví dụ, suy giảm miễn dịch tiên phát,
+
+thiếu máu giảm sinh
+
+,
+
+rối loạn sinh tủy
+
+). Ghép tế bào gốc tạo máu đôi khi cũng được sử dụng cho các khối u đặc (ví dụ, một số khối u tế bào mầm) đáp ứng với hóa trị liệu.
+
+(Xem thêm
+
+Tổng quan về ghép tạng
+
+.)
+
+Cấy ghép tế bào gốc tạo máu góp phần chữa khỏi bệnh bằng cách
+
+Phục hồi tủy xương sau điều trị diệt tủy loại trừ ung thư
+
+Thay thế tủy xương bất thường bằng tủy xương bình thường ở các rối loạn huyết học không ác tính
+
+Ghép tế bào gốc tạo máu có thể là tự thân (sử dụng tế bào của chính bệnh nhân) hoặc đồng loại (sử dụng tế bào từ người hiến tặng). Tế bào gốc có thể được thu thập từ
+
+Tủy xương
+
+Máu ngoại vi
+
+Máu dây rốn
+
+Máu ngoại vi đã thay thế tủy xương như một nguồn cung cấp tế bào gốc, đặc biệt trong ghép tế bào gốc tạo máu tự thân vì việc thu thập tế bào gốc dễ dàng hơn và bạch cầu trung tính, số lượng tiểu cầu hồi phục nhanh hơn. Ghép tế bào gốc tạo máu từ dây rốn chủ yếu chỉ được thực hiện ở trẻ em vì có quá ít tế bào gốc trong máu dây rốn cho người lớn. Một nguồn tế bào gốc tiềm năng trong tương lai có thể là các tế bào gốc vạn năng (một số tế bào lấy từ người lớn và được lập trình lại để hoạt động như các tế bào gốc).
+
+Không có chống chỉ định ghép tế bào gốc tạo máu tự thân.
+
+Chống chỉ định ghép tế bào gốc tạo máu dị hợp là tương đối và bao gồm
+
+>
+
+50 tuổi
+
+Ghép tế bào gốc tạo máu trước đó
+
+Các bệnh đi kèm đáng kể (ví dụ, suy thận)
+
+Ghép tế bào gốc tạo máu cùng loài bị hạn chế chủ yếu do thiếu người cho tương thích về mô học. Người hiến tặng thông thường là anh chị em ruột giống nhau về kháng nguyên bạch cầu (HLA) là lý tưởng, tiếp theo là người hiến tặng anh chị em phù hợp với HLA. Vì chỉ có một phần tư số bệnh nhân có người cho là anh chị em ruột nên người cho có cùng huyết thống không trùng hợp hoặc người cho không cùng huyết thống có trùng hợp (được xác định thông qua đăng ký quốc tế) thường được sử dụng. Tuy nhiên, tỉ lệ sống còn không bệnh của tạng ghép kéo dài có thể thấp hơn những tạng ghép được hiến từ người cho là anh chị em ruột có HLA giống nhau.
+
+Kỹ thuật ghép tế bào gốc tạo máu dây rốn tuy còn sơ khai nhưng đang được quan tâm. Bởi vì máu dây rốn chứa các tế bào gốc chưa trưởng thành, sự kết hợp HLA dường như ít quan trọng hơn so với các loại ghép tế bào gốc tạo máu khác. Một mối quan tâm về thủ thuật này là các tế bào miễn dịch trong máu cuống rốn không có kinh nghiệm với các loại vi rút gây nhiễm trùng tiềm ẩn, dẫn đến tỷ lệ tế bào T ngây thơ cao hơn và do đó làm tăng khả năng bị kích hoạt lại của cytomegalovirus hoặc nhiễm vi rút Epstein-Barr.
+
+Thủ thuật
+
+Cho
+
+thu thập tế bào gốc tủy xương,
+
+700 đến 1500 mL (tối đa 15 mL/kg) tủy được hút ra từ mào chậu sau của người cho; sử dụng thuốc tê tại chỗ hoặc đường toàn thân.
+
+Cho
+
+thu thập máu ngoại vi,
+
+người cho được điều trị với các yếu tố tăng trưởng tái tổ hợp (yếu tố kích thích dòng tế bào hạt hoặc yếu tố kích thích dòng tế bào hạt - đại thực bào) để kích thích tăng sinh và huy động các tế bào gốc; việc gạn tách tế bào gốc chuẩn được thực hiện 4 đến 6 ngày sau đó.
+
+Để
+
+lấy máu cuống rốn,
+
+dây rốn được kẹp sau khi sinh em bé, và máu được lấy từ dây rốn bằng kim và được thu thập trong một túi vô trùng.
+
+Việc phân loại tế bào hoạt hóa huỳnh quang được sử dụng để xác định và tách các tế bào gốc khỏi các tế bào khác. Các tế bào gốc sau đó được truyền từ 1 đến 2 giờ thông qua một catheter tĩnh mạch trung tâm đường kính rộng.
+
+Chế độ điều hoà
+
+Trước khi ghép tế bào gốc tạo máu cùng loài cho ung thư, người nhận đầu tiên được sử dụng thuốc điều hòa (ví dụ thuốc diệt tủy xương như cyclophosphamide 60 mg/kg truyền tĩnh mạch một lần/ngày trong 2 ngày kết hợp chiếu xạ toàn thân liều đầy đủ hoặc busulfan 1 mg/kg uống 4 lần/ngày, kết hợp cyclophosphamide mà không kèm chiếu xạ toàn thân) để đạt được sự thuyên giảm bệnh và ức chế hệ miễn dịch giúp mô ghép có thể được chấp nhận.
+
+Các phác đồ điều hòa tương tự được sử dụng trước khi ghép tế bào gốc tạo máu đồng loại, ngay cả khi ung thư không phải là chỉ định, để làm giảm tỷ lệ thải ghép và tái phát.
+
+Phác đồ điều hòa như vậy không được sử dụng trước khi ghép tế bào gốc tạo máu tự thân trong điều trị bệnh ung thư; thuốc đặc trị ung thư được sử dụng thay thế.
+
+Các chế độ điều hòa không diệt tủy (chẳng hạn như cyclophosphamide, chiếu xạ tuyến ức, globulin kháng tế bào tuyến ức (ATG) và/hoặc cyclosporine) có thể làm giảm nguy cơ bệnh nặng và tử vong và có thể có ích cho các bệnh nhân cao tuổi, các bệnh nhân mắc các bệnh kèm theo và các bệnh nhân nhạy cảm với hiệu ứng mô ghép khối u (ví dụ, các bệnh nhân đa u tủy xương).
+
+Phác đồ giảm cường độ (ví dụ, fludarabine với melphalan, busulfan đường uống, hoặc cyclophosphamide) có cường độ và độc tính giữa phác đồ có tủy và không tủy. Kết quả tế bào chất có thể kéo dài và gây ra bệnh nặng và tử vong, và cần hỗ trợ tế bào gốc.
+
+Sau ghép
+
+Sau khi ghép tế bào gốc tạo máu, người nhận được cung cấp các yếu tố kích thích khuẩn lạc để rút ngắn thời gian giảm bạch cầu sau ghép,
+
+thuốc chống nhiễm trùng dự phòng
+
+, và sau khi ghép tế bào gốc tạo máu đồng loài, thuốc ức chế miễn dịch dự phòng (điển hình là methotrexate và cyclosporine) trong tối đa 6 tháng để ngăn ngừa các tế bào T của người cho khỏi phản ứng chống lại các phân tử HLA của người nhận (bệnh mảnh ghép chống ký chủ). Các kháng sinh phổ rộng thường không được dùng trừ khi có sốt.
+
+Quá trình cấy ghép thường xảy ra từ 10 đến 20 ngày sau khi ghép tế bào gốc tạo máu (sớm hơn với tế bào gốc máu ngoại vi) và được xác định bằng số lượng bạch cầu trung tính tuyệt đối
+
+>
+
+500/mcL (
+
+>
+
+0,5
+
+×
+
+10
+
+9
+
+/L).
+
+Các biến chứng của cấy ghép tế bào gốc tạo máu
+
+(Xem thêm
+
+Các biến chứng sau ghép
+
+)
+
+Các biến chứng của ghép tế bào gốc có thể xuất hiện sớm (< 100 ngày sau ghép) hoặc sau muộn hơn. Sau ghép tế bào gốc tạo máu dị ghép, nguy cơ nhiễm trùng sẽ tăng lên.
+
+Các biến chứng sớm
+
+Các biến chứng sớm chủ yếu bao gồm:
+
+Ghép thất bại
+
+Thải ghép
+
+Bệnh ghép chống chủ (GVHD)
+
+Ghép thất bại
+
+và
+
+thải ghép
+
+ảnh hưởng đến
+
+<
+
+5% số bệnh nhân và biểu hiện như giảm 3 dòng kéo dài hoặc giảm không hồi phục các tế bào máu. Điều trị bằng corticosteroid trong vài tuần.
+
+GVHD cấp
+
+trong đó các tế bào miễn dịch từ người hiến tấn công mô ở người nhận, xảy ra ở những người nhận ghép tế bào gốc tạo máu cùng loài (ở 40% người nhận mô ghép từ anh chị em ruột trùng hợp HLA và 80% những người nhận mô ghép từ người cho không cùng huyết thống). Bệnh gây sốt, nổi ban, viêm gan với tăng bilirubin máu, nôn ói, tiêu chảy, đau bụng (có thể tiến triển đến tắc ruột) và giảm cân.
+
+Các yếu tố nguy cơ của bệnh ghép chống chủ cấp bao gồm
+
+Không trùng HLA và không cùng giới tính
+
+Người cho không cùng huyết thống
+
+Người nhận hoặc người cho tuổi cao hoặc cả hai
+
+Tiền mẫn cảm ở người cho
+
+Dự phòng bệnh ghép chống chủ không đầy đủ
+
+Chẩn đoán bệnh ghép chống chủ cấp dựa vào tiền sử, thăm khám lâm sàng, kết quả xét nghiệm về gan. Điều trị bằng methylprednisolone 2 mg/kg truyền tĩnh mạch một lần/ngày, tăng lên 10 mg/kg nếu không đáp ứng trong vòng 5 ngày.
+
+Các biến chứng muộn
+
+Các biến chứng muộn chính bao gồm:
+
+Bệnh ghép chống chủ mạn tính
+
+Tái phát bệnh
+
+Bệnh ghép chống chủ mạn tính
+
+có thể tự xảy ra, phát triển từ bệnh ghép chống chủ cấp hoặc xảy ra sau điều trị bệnh ghép chống chủ cấp. Nó thường xảy ra sau khi ghép tế bào gốc tạo máu (từ 2 tháng đến 2 năm) từ 4 đến 7 tháng. Bệnh GVHD mạn tính xảy ra ở những người nhận ghếp tế bào gốc tạo máu cùng loài (khoảng 35 đến 50% người nhận mô ghép từ anh chị em ruột có trùng hợp HLA và 60 đến 70% người nhận mô ghép từ người cho không cùng huyết thống).
+
+GVHD mạn tính ảnh hưởng chủ yếu đến da (ví dụ: phát ban lichenoid, thay đổi da xơ cứng) và màng nhầy (ví dụ: viêm kết mạc giác mạc, viêm nha chu, phản ứng lichenoid sinh dục), nhưng nó cũng ảnh hưởng đến đường tiêu hóa và gan. Suy giảm miễn dịch là dấu hiệu chính; viêm tiểu phế quản tắc nghẽn tương tự như tình trạng sau ghép phổi có thể xuất hiện. Cuối cùng, bệnh ghép chống chủ gây tử vong ở 20 đến 40% số bệnh nhân mắc bệnh.
+
+Điều trị có thể không cần thiết đối với bệnh ghép chống chủ chỉ ảnh hưởng đến da và niêm mạc; điều trị các trường hợp bệnh phức tạp hơn tương tự như điều trị bệnh ghép chống chủ cấp. Diệt tế bào T của các mô ghép được hiến cùng loài sử dụng các kháng thể đơn dòng hoặc gạn tách cơ học giúp làm giảm tỷ lệ và mức độ nặng của bệnh ghép chống chủ nhưng cũng làm giảm hiệu ứng mô ghép - khối u, hiệu ứng kích thích tăng sinh tế bào gốc và mô ghép đồng thời làm giảm tỷ lệ tái phát bệnh. Tỷ lệ tái phát khi ghép tế bào gốc tạo máu tự thân cao hơn vì không có hiệu ứng mảnh ghép chống khối u và vì các tế bào khối u trong hệ tuần hoàn có thể vô tình bị thu thập cùng với tế bào gốc và được cấy ghép. Gạn tách các tế bào khối u ngoài cơ thể trước ghép tự thân hiện đang còn nghiên cứu.
+
+Ở những bệnh nhân không có bệnh ghép chống chủ mạn tính, tất cả các thuốc ức chế miễn dịch có thể được ngừng tại thời điểm 6 tháng sau ghép tế bào gốc tạo máu; các biến chứng muộn ở những bệnh nhân này hiếm xảy ra.
+
+Tiên lượng về cấy ghép tế bào gốc tạo máu
+
+Tiên lượng sau khi ghép tế bào gốc tạo máu thay đổi tùy theo loại ghép (tự thân so với đồng sinh) và bệnh của người nhận.
+
+Nhìn chung, tái phát bệnh xảy ra ở
+
+40 đến 75% số người nhận ghép tế bào gốc tạo máu tự thân
+
+10 đến 40% số người nhận ghép tế bào gốc tạo máu dị sinh
+
+Nhìn chung, tỷ lệ thành công (tủy xương không có ung thư) là
+
+30 đến 40% đối với các bệnh nhân u lympho tái phát, nhạy cảm với hóa trị liệu
+
+20 đến 50% đối với các bệnh nhân mắc bệnh bạch cầu cấp
+
+So với hoá trị liệu đơn thuần, ghép tế bào gốc tạo máu giúp cải thiện thời gian sống thêm của các bệnh nhân đa u tủy xương. Tỷ lệ thành công thấp đối với những bệnh nhân có bệnh tiến triển hoặc ung thư tạng đặc nhạy cảm (ví dụ, các khối u tế bào mầm). Tỷ lệ tái phát giảm ở những bệnh nhân mắc bệnh ghép chống chủ (GVHD), nhưng tỷ lệ tử vong chung tăng lên nếu bệnh ghép chống chủ trầm trọng.
+
+Các biện pháp điều trị tích cực, điều trị dự phòng GVHD hiệu quả, biện pháp dựa trên cyclosporine và chăm sóc hỗ trợ cải tiến (ví dụ, kháng sinh khi cần, dự phòng herpesvirus và cytomegalovirus) làm tăng tỷ lệ sống còn không bệnh kéo dài sau ghép tế bào gốc tạo máu.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thủ thuật ---
+
+Chothu thập tế bào gốc tủy xương,700 đến 1500 mL (tối đa 15 mL/kg) tủy được hút ra từ mào chậu sau của người cho; sử dụng thuốc tê tại chỗ hoặc đường toàn thân.Chothu thập máu ngoại vi,người cho được điều trị với các yếu tố tăng trưởng tái tổ hợp (yếu tố kích thích dòng tế bào hạt hoặc yếu tố kích thích dòng tế bào hạt - đại thực bào) để kích thích tăng sinh và huy động các tế bào gốc; việc gạn tách tế bào gốc chuẩn được thực hiện 4 đến 6 ngày sau đó.Đểlấy máu cuống rốn,dây rốn được kẹp sau khi sinh em bé, và máu được lấy từ dây rốn bằng kim và được thu thập trong một túi vô trùng.Việc phân loại tế bào hoạt hóa huỳnh quang được sử dụng để xác định và tách các tế bào gốc khỏi các tế bào khác. Các tế bào gốc sau đó được truyền từ 1 đến 2 giờ thông qua một catheter tĩnh mạch trung tâm đường kính rộng.Chế độ điều hoàTrước khi ghép tế bào gốc tạo máu cùng loài cho ung thư, người nhận đầu tiên được sử dụng thuốc điều hòa (ví dụ thuốc diệt tủy xương như cyclophosphamide 60 mg/kg truyền tĩnh mạch một lần/ngày trong 2 ngày kết hợp chiếu xạ toàn thân liều đầy đủ hoặc busulfan 1 mg/kg uống 4 lần/ngày, kết hợp cyclophosphamide mà không kèm chiếu xạ toàn thân) để đạt được sự thuyên giảm bệnh và ức chế hệ miễn dịch giúp mô ghép có thể được chấp nhận.Các phác đồ điều hòa tương tự được sử dụng trước khi ghép tế bào gốc tạo máu đồng loại, ngay cả khi ung thư không phải là chỉ định, để làm giảm tỷ lệ thải ghép và tái phát.Phác đồ điều hòa như vậy không được sử dụng trước khi ghép tế bào gốc tạo máu tự thân trong điều trị bệnh ung thư; thuốc đặc trị ung thư được sử dụng thay thế.Các chế độ điều hòa không diệt tủy (chẳng hạn như cyclophosphamide, chiếu xạ tuyến ức, globulin kháng tế bào tuyến ức (ATG) và/hoặc cyclosporine) có thể làm giảm nguy cơ bệnh nặng và tử vong và có thể có ích cho các bệnh nhân cao tuổi, các bệnh nhân mắc các bệnh kèm theo và các bệnh nhân nhạy cảm với hiệu ứng mô ghép khối u (ví dụ, các bệnh nhân đa u tủy xương).Phác đồ giảm cường độ (ví dụ, fludarabine với melphalan, busulfan đường uống, hoặc cyclophosphamide) có cường độ và độc tính giữa phác đồ có tủy và không tủy. Kết quả tế bào chất có thể kéo dài và gây ra bệnh nặng và tử vong, và cần hỗ trợ tế bào gốc.Sau ghépSau khi ghép tế bào gốc tạo máu, người nhận được cung cấp các yếu tố kích thích khuẩn lạc để rút ngắn thời gian giảm bạch cầu sau ghép,thuốc chống nhiễm trùng dự phòng, và sau khi ghép tế bào gốc tạo máu đồng loài, thuốc ức chế miễn dịch dự phòng (điển hình là methotrexate và cyclosporine) trong tối đa 6 tháng để ngăn ngừa các tế bào T của người cho khỏi phản ứng chống lại các phân tử HLA của người nhận (bệnh mảnh ghép chống ký chủ). Các kháng sinh phổ rộng thường không được dùng trừ khi có sốt.Quá trình cấy ghép thường xảy ra từ 10 đến 20 ngày sau khi ghép tế bào gốc tạo máu (sớm hơn với tế bào gốc máu ngoại vi) và được xác định bằng số lượng bạch cầu trung tính tuyệt đối>500/mcL (>0,5×109/L).
+
+--- 2. Các biến chứng của cấy ghép tế bào gốc tạo máu ---
+
+(Xem thêmCác biến chứng sau ghép)Các biến chứng của ghép tế bào gốc có thể xuất hiện sớm (< 100 ngày sau ghép) hoặc sau muộn hơn. Sau ghép tế bào gốc tạo máu dị ghép, nguy cơ nhiễm trùng sẽ tăng lên.Các biến chứng sớmCác biến chứng sớm chủ yếu bao gồm:Ghép thất bạiThải ghépBệnh ghép chống chủ (GVHD)Ghép thất bạivàthải ghépảnh hưởng đến<5% số bệnh nhân và biểu hiện như giảm 3 dòng kéo dài hoặc giảm không hồi phục các tế bào máu. Điều trị bằng corticosteroid trong vài tuần.GVHD cấptrong đó các tế bào miễn dịch từ người hiến tấn công mô ở người nhận, xảy ra ở những người nhận ghép tế bào gốc tạo máu cùng loài (ở 40% người nhận mô ghép từ anh chị em ruột trùng hợp HLA và 80% những người nhận mô ghép từ người cho không cùng huyết thống). Bệnh gây sốt, nổi ban, viêm gan với tăng bilirubin máu, nôn ói, tiêu chảy, đau bụng (có thể tiến triển đến tắc ruột) và giảm cân.Các yếu tố nguy cơ của bệnh ghép chống chủ cấp bao gồmKhông trùng HLA và không cùng giới tínhNgười cho không cùng huyết thốngNgười nhận hoặc người cho tuổi cao hoặc cả haiTiền mẫn cảm ở người choDự phòng bệnh ghép chống chủ không đầy đủChẩn đoán bệnh ghép chống chủ cấp dựa vào tiền sử, thăm khám lâm sàng, kết quả xét nghiệm về gan. Điều trị bằng methylprednisolone 2 mg/kg truyền tĩnh mạch một lần/ngày, tăng lên 10 mg/kg nếu không đáp ứng trong vòng 5 ngày.Các biến chứng muộnCác biến chứng muộn chính bao gồm:Bệnh ghép chống chủ mạn tínhTái phát bệnhBệnh ghép chống chủ mạn tínhcó thể tự xảy ra, phát triển từ bệnh ghép chống chủ cấp hoặc xảy ra sau điều trị bệnh ghép chống chủ cấp. Nó thường xảy ra sau khi ghép tế bào gốc tạo máu (từ 2 tháng đến 2 năm) từ 4 đến 7 tháng. Bệnh GVHD mạn tính xảy ra ở những người nhận ghếp tế bào gốc tạo máu cùng loài (khoảng 35 đến 50% người nhận mô ghép từ anh chị em ruột có trùng hợp HLA và 60 đến 70% người nhận mô ghép từ người cho không cùng huyết thống).GVHD mạn tính ảnh hưởng chủ yếu đến da (ví dụ: phát ban lichenoid, thay đổi da xơ cứng) và màng nhầy (ví dụ: viêm kết mạc giác mạc, viêm nha chu, phản ứng lichenoid sinh dục), nhưng nó cũng ảnh hưởng đến đường tiêu hóa và gan. Suy giảm miễn dịch là dấu hiệu chính; viêm tiểu phế quản tắc nghẽn tương tự như tình trạng sau ghép phổi có thể xuất hiện. Cuối cùng, bệnh ghép chống chủ gây tử vong ở 20 đến 40% số bệnh nhân mắc bệnh.Điều trị có thể không cần thiết đối với bệnh ghép chống chủ chỉ ảnh hưởng đến da và niêm mạc; điều trị các trường hợp bệnh phức tạp hơn tương tự như điều trị bệnh ghép chống chủ cấp. Diệt tế bào T của các mô ghép được hiến cùng loài sử dụng các kháng thể đơn dòng hoặc gạn tách cơ học giúp làm giảm tỷ lệ và mức độ nặng của bệnh ghép chống chủ nhưng cũng làm giảm hiệu ứng mô ghép - khối u, hiệu ứng kích thích tăng sinh tế bào gốc và mô ghép đồng thời làm giảm tỷ lệ tái phát bệnh. Tỷ lệ tái phát khi ghép tế bào gốc tạo máu tự thân cao hơn vì không có hiệu ứng mảnh ghép chống khối u và vì các tế bào khối u trong hệ tuần hoàn có thể vô tình bị thu thập cùng với tế bào gốc và được cấy ghép. Gạn tách các tế bào khối u ngoài cơ thể trước ghép tự thân hiện đang còn nghiên cứu.Ở những bệnh nhân không có bệnh ghép chống chủ mạn tính, tất cả các thuốc ức chế miễn dịch có thể được ngừng tại thời điểm 6 tháng sau ghép tế bào gốc tạo máu; các biến chứng muộn ở những bệnh nhân này hiếm xảy ra.
+
+--- 3. Tiên lượng về cấy ghép tế bào gốc tạo máu ---
+
+Tiên lượng sau khi ghép tế bào gốc tạo máu thay đổi tùy theo loại ghép (tự thân so với đồng sinh) và bệnh của người nhận.Nhìn chung, tái phát bệnh xảy ra ở40 đến 75% số người nhận ghép tế bào gốc tạo máu tự thân10 đến 40% số người nhận ghép tế bào gốc tạo máu dị sinhNhìn chung, tỷ lệ thành công (tủy xương không có ung thư) là30 đến 40% đối với các bệnh nhân u lympho tái phát, nhạy cảm với hóa trị liệu20 đến 50% đối với các bệnh nhân mắc bệnh bạch cầu cấpSo với hoá trị liệu đơn thuần, ghép tế bào gốc tạo máu giúp cải thiện thời gian sống thêm của các bệnh nhân đa u tủy xương. Tỷ lệ thành công thấp đối với những bệnh nhân có bệnh tiến triển hoặc ung thư tạng đặc nhạy cảm (ví dụ, các khối u tế bào mầm). Tỷ lệ tái phát giảm ở những bệnh nhân mắc bệnh ghép chống chủ (GVHD), nhưng tỷ lệ tử vong chung tăng lên nếu bệnh ghép chống chủ trầm trọng.Các biện pháp điều trị tích cực, điều trị dự phòng GVHD hiệu quả, biện pháp dựa trên cyclosporine và chăm sóc hỗ trợ cải tiến (ví dụ, kháng sinh khi cần, dự phòng herpesvirus và cytomegalovirus) làm tăng tỷ lệ sống còn không bệnh kéo dài sau ghép tế bào gốc tạo máu.

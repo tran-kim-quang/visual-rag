@@ -1,0 +1,269 @@
+TIÊU ĐỀ: Siêu âm
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-nguyên-lý-cơ-bản-trong-chẩn-đoán-hình-ảnh/siêu-âm
+================================================================================
+
+NỘI DUNG:
+
+Siêu âm
+
+Theo
+
+Mustafa A. Mafraji
+
+,
+
+MD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 11 2023
+
+|
+
+đã sửa đổi
+
+Thg 3 2024
+
+v1125208_vi
+
+Chỉ định của siêu âm
+
+|
+
+Các biến thể của siêu âm
+
+|
+
+Nhược điểm của siêu âm
+
+|
+
+Trong siêu âm, đầu phát tín hiệu được tích hợp vào đầu dò. Các tinh thể áp điện trong đầu phát tín hiệu chuyển đổi điện thành các sóng âm thanh tần số cao, các sóng này được đưa tới các mô. Các mô phân tán, phản xạ, và hấp thụ sóng âm theo nhiều mức độ khác nhau. Các sóng âm phản xạ lại (âm vang) được chuyển thành tín hiệu điện. Máy tính sẽ phân tích các tín hiệu này và hiển thị chúng thành hình ảnh giải phẫu trên màn hình.
+
+Máy siêu âm cơ động, phổ biến, tương đối rẻ tiền, và an toàn. Không sử dụng bức xạ.
+
+Nguyên tắc siêu âm
+
+Cách siêu âm: Chọn đầu dò
+
+Thủ thuật được thực hiện bởi Robert Strony DO, MBA, RDCS, FACEP, Giám đốc y khoa, Siêu âm điểm; Phó Giáo sư Y học lâm sàng, Geisinger Commonwealth School of Medicine; Phó giáo sư (Adjunc) Trường Y khoa Lewis Katz, Đại học Temple.
+
+Cách siêu âm: Bảng điều khiển và các điều khiển
+
+Thủ thuật được thực hiện bởi Robert Strony DO, MBA, RDCS, FACEP, Giám đốc y khoa, Siêu âm điểm; Phó Giáo sư Y học lâm sàng, Geisinger Commonwealth School of Medicine; Phó giáo sư (Adjunc) Trường Y khoa Lewis Katz, Đại học Temple.
+
+Cách siêu âm: Thu nhận các hình ảnh
+
+Thủ thuật được thực hiện bởi Robert Strony DO, MBA, RDCS, FACEP, Giám đốc y khoa, Siêu âm điểm; Phó Giáo sư Y học lâm sàng, Geisinger Commonwealth School of Medicine; Phó giáo sư (Adjunc) Trường Y khoa Lewis Katz, Đại học Temple.
+
+Cách siêu âm: Chọn đầu dò
+
+Thủ thuật được thực hiện bởi Robert Strony DO, MBA, RDCS, FACEP, Giám đốc y khoa, Siêu âm điểm; Phó Giáo sư Y học lâm sàng, Geisinger Commonwealth School of Medicine; Phó giáo sư (Adjunc) Trường Y khoa Lewis Katz, Đại học Temple.
+
+Cách siêu âm: Bảng điều khiển và các điều khiển
+
+Thủ thuật được thực hiện bởi Robert Strony DO, MBA, RDCS, FACEP, Giám đốc y khoa, Siêu âm điểm; Phó Giáo sư Y học lâm sàng, Geisinger Commonwealth School of Medicine; Phó giáo sư (Adjunc) Trường Y khoa Lewis Katz, Đại học Temple.
+
+Cách siêu âm: Thu nhận các hình ảnh
+
+Thủ thuật được thực hiện bởi Robert Strony DO, MBA, RDCS, FACEP, Giám đốc y khoa, Siêu âm điểm; Phó Giáo sư Y học lâm sàng, Geisinger Commonwealth School of Medicine; Phó giáo sư (Adjunc) Trường Y khoa Lewis Katz, Đại học Temple.
+
+Chỉ định của siêu âm
+
+Siêu âm có thể giúp xác định các phát triển bất thường, hoặc các cơ quan ở vị trí bề mặt hoặc nằm bên ngoài (như tuyến giáp, vú, tinh hoàn, chi và một số hạch lympho). Với cấu trúc sâu hơn, các mô khác nhau với các mật độ khác nhau (như xương, khí) có thể gây ảnh hưởng đến chất lượng hình ảnh.
+
+Siêu âm thường được sử dụng để đánh giá:
+
+Tim (Siêu âm tim):
+
+phát hiện các bất thường trong kích thước van và buồng tim, ước tính phân suất tống máu và sức căng cơ tim (xem
+
+Siêu âm tim
+
+)
+
+Túi mật và đường mật:
+
+Phát hiện sỏi mật và tình trạng tắc mật (xem
+
+Chẩn đoán hình ảnh gan mật: Siêu âm
+
+)
+
+Đường tiết niệu:
+
+Phân biệt nang thận (thường lành tính) với khối rắn (thường ác tính), phát hiện tắc nghẽn do sỏi thận, hoặc các bất thường khác về mặt cấu trúc ở thận, niệu quản, hoặc bàng quang (xem
+
+Các xét nghiệm hình ảnh sinh dục: Siêu âm
+
+)
+
+Cơ quan sinh dục nữ:
+
+Phát hiện khối u và tổn thương viêm ở buồng trứng, ống dẫn trứng, hoặc tử cung (xem
+
+Giới thiệu về khối u phụ khoa
+
+)
+
+Mang thai:
+
+Đánh giá sự tăng trưởng và phát triển của thai nhi, phát hiện những bất thường của rau thai (rau tiền đạo – xem
+
+Đánh giá Bệnh nhân Sản khoa: Siêu âm
+
+).
+
+Cơ xương khớp:
+
+Đánh giá cơ, dây chằng và dây thần kinh.
+
+Siêu âm sản khoa
+
+Hình ảnh
+
+IAN HOOTON/SCIENCE PHOTO LIBRARY
+
+Siêu âm tại giường
+
+(còn gọi là siêu âm tại điểm chăm sóc) ngày càng được sử dụng nhiều trong các cơ sở chăm sóc cấp tính để hỗ trợ cả chẩn đoán (ví dụ: tình trạng thể tích, nguyên nhân gây hạ huyết áp, dị vật) và điều trị (ví dụ: đặt ống thông tĩnh mạch, chọc hút dịch khớp).
+
+Siêu âm cũng có thể được sử dụng để hướng dẫn sinh thiết.
+
+Siêu âm đôi khi được tiến hành bên trong cơ thể thông qua việc sử dụng các đầu dò nhỏ trên đầu nội soi hoặc catheter.
+
+Các biến thể của siêu âm
+
+Có một số cách hiển thị các thông tin siêu âm.
+
+Chế độ A
+
+Chế độ A là đơn giản nhất; tín hiệu được ghi lại dưới dạng các xung trên biểu đồ. Trục dọc (Y) của màn hình cho thấy biên độ âm, và trục ngang (X) cho thấy chiều sâu hoặc khoảng cách tới bệnh nhân.
+
+Loại siêu âm này được sử dụng trong khám nhãn khoa.
+
+Chế độ B (đen trắng)
+
+Chế độ B thường được sử dụng nhiều nhất trong chẩn đoán hình ảnh; tín hiệu được hiển thị dưới dạng hình ảnh giải phẫu 2 chiều.
+
+Chế độ B thường được sử dụng để đánh giá thai nhi đang phát triển và các cơ quan bao gồm gan, lách, thận, tuyến giáp, tinh hoàn, vú, tử cung, buồng trứng và tuyến tiền liệt.
+
+Siêu âm chế độ B đủ nhanh để hiển thị chuyển động theo thời gian thực, như chuyển động của tim hoặc các mạch máu. Những hình ảnh thời gian thực này cung cấp thông tin về mặt giải phẫu và chức năng.
+
+Chế độ M
+
+Chế độ M được sử dụng để chụp ảnh các cấu trúc chuyển động; tín hiệu được phản ánh bởi các cấu trúc chuyển động được chuyển đổi thành sóng hiển thị liên tục trên trục thẳng đứng.
+
+Chế độ M được sử dụng chủ yếu để đánh giá nhịp tim thai nhi và trong chẩn đoán hình ảnh tim, đặc biệt là để đánh giá các bệnh lý van tim.
+
+Doppler
+
+Siêu âm Doppler được sử dụng để đánh giá lưu lượng máu. Loại siêu âm này sử dụng hiệu ứng Doppler (thay đổi tần số âm thanh bằng cách phản xạ khỏi một vật thể chuyển động). Các vật thể động cụ thể ở đây là những hồng cầu di chuyển trong máu.
+
+Hướng và tốc độ lưu thông của dòng máu có thể được xác định bằng cách phân tích sự thay đổi tần số sóng âm:
+
+Nếu một sóng hồi âm có tần số thấp hơn tần số sóng truyền: dòng máu chảy xa khỏi đầu dò.
+
+Nếu một sóng hồi âm phản âm có tần số cao hơn sóng truyền: dòng máu chảy về phía đầu dò.
+
+Mức độ thay đổi tần số tỉ lệ thuận với vận tốc dòng máu.
+
+Sự thay đổi tần số của sóng HỒI âm được chuyển thành các hình ảnh thể hiện được hướng và tốc độ dòng máu.
+
+Siêu âm Doppler Màu
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+Siêu âm Doppler cũng được sử dụng để
+
+Đánh giá mạch máu tới các khối u và các cơ quan
+
+Để đánh giá chức năng tim (ví dụ:
+
+siêu âm tim
+
+)
+
+Phát hiện tắc hẹp mạch
+
+Để phát hiện cục máu đông trong mạch máu (ví dụ: trong
+
+huyết khối tĩnh mạch sâu
+
+)
+
+Để phát hiện viêm màng hoạt dịch ở các khớp
+
+Siêu âm Doppler phổ
+
+hiển thị thông tin dòng máu dưới dạng đồ thị, với vận tốc được hiển thị trên trục dọc và thời gian hiển thị trên trục ngang. Có thể đo đạc cụ thể vận tốc nếu xác định được góc Doppler (góc giữa chùm tia siêu âm và hướng dòng máu). Việc đo tốc độ và sự xuất hiện của các phổ dò Doppler có thể chỉ ra mức độ hẹp thắt mạch máu.
+
+Siêu âm Duplex Doppler
+
+kết hợp giữa dạng hiển thị đồ thị của siêu âm phổ với những hình ảnh trong siêu âm chế độ B.
+
+Siêu âm Doppler màu
+
+chuyển đổi thông tin dòng chảy Doppler thành hình ảnh mạch máu dưới dạng màu. Những hình ảnh này được hiển thị dưới dạng mô hình giải phẫu trên hình ảnh siêu âm. Hướng dòng máu được chỉ ra dưới dạng màu (màu đỏ cho thấy máu chảy về phía đầu dò, màu xanh cho thấy máu chảy ra xa khỏi đầu dò). Vận tốc trung bình dòng chảy được hiển thị bởi độ sáng của màu sắc (ví dụ, màu đỏ tươi biểu thị dòng chảy tốc độ cao về phía đầu dò, màu xanh đậm cho thấy dòng chảy tốc độ chậm ra xa khỏi đầu dò).
+
+Nhược điểm của siêu âm
+
+Chất lượng hình ảnh phụ thuộc vào kỹ năng của người làm siêu âm.
+
+Đối với bệnh nhân quá cân, có thể gặp khó khăn về mặt kỹ thuật trong việc lấy được những hình ảnh cấu trúc đích rõ ràng.
+
+Siêu âm không thể được sử dụng trong chẩn đoán hình ảnh ở những vùng có xương hoặc khí, do đó việc tiến hành siêu âm trên một số vùng cơ thể có thể gặp nhiều khó khăn.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định của siêu âm ---
+
+Siêu âm có thể giúp xác định các phát triển bất thường, hoặc các cơ quan ở vị trí bề mặt hoặc nằm bên ngoài (như tuyến giáp, vú, tinh hoàn, chi và một số hạch lympho). Với cấu trúc sâu hơn, các mô khác nhau với các mật độ khác nhau (như xương, khí) có thể gây ảnh hưởng đến chất lượng hình ảnh.Siêu âm thường được sử dụng để đánh giá:Tim (Siêu âm tim):phát hiện các bất thường trong kích thước van và buồng tim, ước tính phân suất tống máu và sức căng cơ tim (xemSiêu âm tim)Túi mật và đường mật:Phát hiện sỏi mật và tình trạng tắc mật (xemChẩn đoán hình ảnh gan mật: Siêu âm)Đường tiết niệu:Phân biệt nang thận (thường lành tính) với khối rắn (thường ác tính), phát hiện tắc nghẽn do sỏi thận, hoặc các bất thường khác về mặt cấu trúc ở thận, niệu quản, hoặc bàng quang (xemCác xét nghiệm hình ảnh sinh dục: Siêu âm)Cơ quan sinh dục nữ:Phát hiện khối u và tổn thương viêm ở buồng trứng, ống dẫn trứng, hoặc tử cung (xemGiới thiệu về khối u phụ khoa)Mang thai:Đánh giá sự tăng trưởng và phát triển của thai nhi, phát hiện những bất thường của rau thai (rau tiền đạo – xemĐánh giá Bệnh nhân Sản khoa: Siêu âm).Cơ xương khớp:Đánh giá cơ, dây chằng và dây thần kinh.Siêu âm sản khoaHình ảnhIAN HOOTON/SCIENCE PHOTO LIBRARYSiêu âm tại giường(còn gọi là siêu âm tại điểm chăm sóc) ngày càng được sử dụng nhiều trong các cơ sở chăm sóc cấp tính để hỗ trợ cả chẩn đoán (ví dụ: tình trạng thể tích, nguyên nhân gây hạ huyết áp, dị vật) và điều trị (ví dụ: đặt ống thông tĩnh mạch, chọc hút dịch khớp).Siêu âm cũng có thể được sử dụng để hướng dẫn sinh thiết.Siêu âm đôi khi được tiến hành bên trong cơ thể thông qua việc sử dụng các đầu dò nhỏ trên đầu nội soi hoặc catheter.
+
+--- 2. Các biến thể của siêu âm ---
+
+Có một số cách hiển thị các thông tin siêu âm.Chế độ AChế độ A là đơn giản nhất; tín hiệu được ghi lại dưới dạng các xung trên biểu đồ. Trục dọc (Y) của màn hình cho thấy biên độ âm, và trục ngang (X) cho thấy chiều sâu hoặc khoảng cách tới bệnh nhân.Loại siêu âm này được sử dụng trong khám nhãn khoa.Chế độ B (đen trắng)Chế độ B thường được sử dụng nhiều nhất trong chẩn đoán hình ảnh; tín hiệu được hiển thị dưới dạng hình ảnh giải phẫu 2 chiều.Chế độ B thường được sử dụng để đánh giá thai nhi đang phát triển và các cơ quan bao gồm gan, lách, thận, tuyến giáp, tinh hoàn, vú, tử cung, buồng trứng và tuyến tiền liệt.Siêu âm chế độ B đủ nhanh để hiển thị chuyển động theo thời gian thực, như chuyển động của tim hoặc các mạch máu. Những hình ảnh thời gian thực này cung cấp thông tin về mặt giải phẫu và chức năng.Chế độ MChế độ M được sử dụng để chụp ảnh các cấu trúc chuyển động; tín hiệu được phản ánh bởi các cấu trúc chuyển động được chuyển đổi thành sóng hiển thị liên tục trên trục thẳng đứng.Chế độ M được sử dụng chủ yếu để đánh giá nhịp tim thai nhi và trong chẩn đoán hình ảnh tim, đặc biệt là để đánh giá các bệnh lý van tim.DopplerSiêu âm Doppler được sử dụng để đánh giá lưu lượng máu. Loại siêu âm này sử dụng hiệu ứng Doppler (thay đổi tần số âm thanh bằng cách phản xạ khỏi một vật thể chuyển động). Các vật thể động cụ thể ở đây là những hồng cầu di chuyển trong máu.Hướng và tốc độ lưu thông của dòng máu có thể được xác định bằng cách phân tích sự thay đổi tần số sóng âm:Nếu một sóng hồi âm có tần số thấp hơn tần số sóng truyền: dòng máu chảy xa khỏi đầu dò.Nếu một sóng hồi âm phản âm có tần số cao hơn sóng truyền: dòng máu chảy về phía đầu dò.Mức độ thay đổi tần số tỉ lệ thuận với vận tốc dòng máu.Sự thay đổi tần số của sóng HỒI âm được chuyển thành các hình ảnh thể hiện được hướng và tốc độ dòng máu.Siêu âm Doppler MàuHình ảnhHình ảnh do bác sĩ Hakan Ilaslan cung cấp.Siêu âm Doppler cũng được sử dụng đểĐánh giá mạch máu tới các khối u và các cơ quanĐể đánh giá chức năng tim (ví dụ:siêu âm tim)Phát hiện tắc hẹp mạchĐể phát hiện cục máu đông trong mạch máu (ví dụ: tronghuyết khối tĩnh mạch sâu)Để phát hiện viêm màng hoạt dịch ở các khớpSiêu âm Doppler phổhiển thị thông tin dòng máu dưới dạng đồ thị, với vận tốc được hiển thị trên trục dọc và thời gian hiển thị trên trục ngang. Có thể đo đạc cụ thể vận tốc nếu xác định được góc Doppler (góc giữa chùm tia siêu âm và hướng dòng máu). Việc đo tốc độ và sự xuất hiện của các phổ dò Doppler có thể chỉ ra mức độ hẹp thắt mạch máu.Siêu âm Duplex Dopplerkết hợp giữa dạng hiển thị đồ thị của siêu âm phổ với những hình ảnh trong siêu âm chế độ B.Siêu âm Doppler màuchuyển đổi thông tin dòng chảy Doppler thành hình ảnh mạch máu dưới dạng màu. Những hình ảnh này được hiển thị dưới dạng mô hình giải phẫu trên hình ảnh siêu âm. Hướng dòng máu được chỉ ra dưới dạng màu (màu đỏ cho thấy máu chảy về phía đầu dò, màu xanh cho thấy máu chảy ra xa khỏi đầu dò). Vận tốc trung bình dòng chảy được hiển thị bởi độ sáng của màu sắc (ví dụ, màu đỏ tươi biểu thị dòng chảy tốc độ cao về phía đầu dò, màu xanh đậm cho thấy dòng chảy tốc độ chậm ra xa khỏi đầu dò).
+
+--- 3. Nhược điểm của siêu âm ---
+
+Chất lượng hình ảnh phụ thuộc vào kỹ năng của người làm siêu âm.Đối với bệnh nhân quá cân, có thể gặp khó khăn về mặt kỹ thuật trong việc lấy được những hình ảnh cấu trúc đích rõ ràng.Siêu âm không thể được sử dụng trong chẩn đoán hình ảnh ở những vùng có xương hoặc khí, do đó việc tiến hành siêu âm trên một số vùng cơ thể có thể gặp nhiều khó khăn.

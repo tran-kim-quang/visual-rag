@@ -1,0 +1,508 @@
+TIÊU ĐỀ: Máy chuyển nhịp - phá rung tự động (Implantable Cardioverter-Defibrillator, ICD)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/tổng-quan-loạn-nhịp-tim-và-rối-loạn-dẫn-truyền/máy-chuyển-nhịp-phá-rung-tự-động-implantable-cardioverter-defibrillator-icd
+================================================================================
+
+NỘI DUNG:
+
+Máy chuyển nhịp - phá rung tự động (Implantable Cardioverter-Defibrillator, ICD)
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2025
+
+v21366230_vi
+
+Quyết định điều trị
+
+loạn nhịp tim
+
+phụ thuộc vào các triệu chứng và mức độ nặng có thể có của bệnh. Điều trị theo nguyên nhân. Trong trường hợp cần thiết, có thể áp dụng một phương pháp điều trị chống loạn nhịp trực tiếp, bao gồm
+
+thuốc chống loạn nhịp
+
+,
+
+sốc điện chuyển nhịp-phá rung
+
+,
+
+cấy máy chuyển nhịp-phá rung tự động‭
+
+(ICD),
+
+máy tạo nhịp tim
+
+(và một dạng đặc biệt của tạo nhịp tim,
+
+máy tạo nhịp tái đồng bộ tim
+
+), triệt đốt rối loạn nhịp qua đường ống thông,
+
+phẫu thuật
+
+hoặc một phương pháp kết hợp.
+
+ICD khử rung tim hoặc khử rung tim để đáp ứng với
+
+nhịp nhanh thất
+
+(VT) hoặc
+
+rung thất
+
+(VF). ICD điều trị theo từng cấp độ cũng cung cấp nhịp chống nhịp chậm và
+
+tạo nhịp chống nhịp nhanh
+
+(để chấm dứt nhịp nhanh nhĩ hoặc nhịp nhanh thất có đáp ứng) và lưu trữ điện tâm đồ trong tim (
+
+1
+
+).
+
+ICD được cấy dưới da hoặc dưới cơ ngực lớn, với điện cực được đặt vào buồng thất phải và đôi khi cả buồng nhĩ phải theo đường tĩnh mạch. Máy ICD kết hợp CRT tạo nhịp 2 buồng thất (được ký hiệu là CRT-D) có chức năng
+
+tạo nhịp tái đồng bộ tim
+
+kết hợp với chức năng chuyển nhịp - phá rung tự động. Nền tảng ICD cũng bao gồm một ICD được cấy ghép hoàn toàn dưới da (S-ICD) không có thành phần nội mạch (
+
+2
+
+) và một máy khử rung tim giống như áo vest có thể đeo được để sử dụng trong thời gian ngắn (
+
+3
+
+).
+
+Phim chụp X-quang ngực của bệnh nhân có máy khử rung tim cấy ghép và...
+
+Hình ảnh
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang ngực của bệnh nhân có máy khử rung tim cấy ghép ha...
+
+Hình ảnh
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Máy phát xung cho ICD thường có tuổi thọ từ 5 năm đến 7 năm.
+
+Chỉ định cấy ICD
+
+Cấy máy ICD là phương pháp được chỉ định
+
+cho những đối tượng bệnh nhân:
+
+Có cơn rung thất hoặc tim nhanh thất gây rối loạn huyết động mà không do các nguyên nhân có thể đảo ngược được (ví dụ: rối loạn điện giải, do thuốc chống loạn nhịp, nhồi máu cơ tim cấp).
+
+ICD cũng có thể được chỉ định
+
+cho bệnh nhân gây được cơn rung thất hoặc tim nhanh thất khi thăm dò điện sinh lý học tim hoặc bệnh nhân
+
+bệnh cơ tim
+
+tự phát hoặc do thiếu máu cục bộ, có phân suất tống máu thất trái
+
+<
+
+35%, và nguy cơ cao bị rung thất hoặc nhịp nhanh thất. Các chỉ định khác (xem bảng
+
+Chỉ định đặt máy khử rung tim cấy ghép vào cơ thể
+
+) ít rõ ràng hơn.
+
+Do mục đích của cấy máy ICD là để điều trị rung thất hoặc tim nhanh thất, không phải để dự phòng, nên các bệnh nhân cần được dùng phối hợp các
+
+thuốc chống loạn nhịp thất
+
+để giảm số lần sốc. Việc này cũng giúp kéo dài tuổi thọ của máy ICD.
+
+Bảng
+
+Chỉ định của máy chuyển nhịp - phá rung tự động trong tim nhanh thất và rung thất.
+
+Bảng
+
+Chỉ định của máy chuyển nhịp - phá rung tự động trong tim nhanh thất và rung thất.
+
+Chỉ định của máy chuyển nhịp - phá rung tự động trong tim nhanh thất và rung thất.
+
+Nhóm bằng chứng*
+
+Chỉ định cụ thể
+
+Nhóm I (bằng chứng hoặc ý kiến hỗ trợ)
+
+Tim nhanh thất có huyết động không ổn định hoặc rung thất mà không do nguyên nhân thoáng qua hoặc nguyên nhân có thể đảo ngược được.
+
+Tim nhanh thất bền bỉ có huyết động ổn định ở bệnh nhân có bệnh lý tim thực tổn.
+
+Ngất không xác định được nguồn gốc có nhịp nhanh thất đơn hình kéo dài gây ra trong một nghiên cứu điện sinh lý
+
+Bệnh cơ tim do thiếu máu cục bộ,
+
+các triệu chứng suy tim NYHA loại II hoặc loại III
+
+trong quá trình điều trị nội khoa tối ưu và phân suất tống máu thất trái
+
+≤
+
+0,35 được đo sau thời điểm nhồi máu cơ tim ít nhất 40 ngày và sau thời điểm tái thông mạch vành ít nhất 90 ngày
+
+Bệnh cơ tim thiếu máu cục bộ, các triệu chứng suy tim NYHA I trong quá trình điều trị nội khoa tối ưu và phân suất tống máu thất trái
+
+≤
+
+30% được đo sau nhồi máu cơ tim ít nhất 40 ngày và sau tái thông mạch máu ít nhất 90 ngày
+
+Bệnh cơ tim giãn không do thiếu máu cục bộ, các triệu chứng suy tim NYHA loại II hoặc loại III trong quá trình điều trị nội khoa tối ưu và phân suất tống máu thất trái
+
+≤
+
+0,35
+
+Bệnh cơ tim thiếu máu cục bộ, nhịp nhanh thất không kéo dài, phân suất tống máu thất trái
+
+≤
+
+40% được đo sau nhồi máu cơ tim ít nhất 40 ngày và có thể tạo ra rung thất hoặc nhịp nhanh thất kéo dài được phát hiện trong một nghiên cứu điện sinh lý
+
+Bệnh cơ tim thất phải do loạn sản thất phải
+
+(ARVC) có nhịp nhanh thất kéo dài, có hồi sức ngừng tim, hoặc rối loạn chức năng tâm thu thất phải hoặc thất trái nặng
+
+Hội chứng QT dài
+
+với VT được ghi nhận hoặc các triệu chứng gợi ý về hội chứng này trong khi đang điều trị bằng thuốc chẹn beta
+
+Khoảng QT ngắn có nhịp nhanh thất kéo dài hoặc ngừng tim
+
+Hội chứng Brugada
+
+với dạng ECG loại 1 và ngất được cho là do nhịp nhanh thất
+
+Nhịp tim thất đa hình do catecholaminergic
+
+(CPVT) có nhịp nhanh thất kéo dài hoặc ngất xỉu trong khi đang điều trị bằng thuốc chẹn beta
+
+Tái cực sớm có nhịp nhanh thất kéo dài hoặc ngừng tim
+
+Nhóm IIa (bằng chứng hoặc ý kiến ủng hộ)
+
+Bệnh cơ tim giãn vô căn, rối loạn chức năng thất trái đáng kể trong quá trình điều trị nội khoa tối ưu và ngất không rõ nguyên nhân
+
+Bệnh cơ tim do đột biến lamin A/C với tình trạng ngất không rõ nguyên nhân, hoặc chỉ định độc lập cho máy tạo nhịp tim vĩnh viễn, hoặc
+
+≥
+
+2 yếu tố nguy cơ cao (nhịp nhanh thất không kéo dài, LVEF trung gian từ 35% đến 44%, đột biến không sai nghĩa, giới tính là nam)
+
+Bệnh cơ tim phì đại (HCM) có
+
+≥
+
+1 yếu tố nguy cơ cao khác ngoài VT/VF kéo dài (tiền sử gia đình có người đột tử sớm, ngất gần đây không rõ nguyên nhân, độ dày LV
+
+≥
+
+30 mm), ngất gần đây nghi ngờ có nguồn gốc từ loạn nhịp, phình động mạch đỉnh LV hoặc LVEF < 50%
+
+Bệnh cơ tim thất phải do loạn sản thất phải không có nhịp nhanh thất kéo dài/rung thất hoặc rối loạn chức năng tâm thu thất phải hoặc thất trái nặng nhưng có ngất trước đó hoặc có nhiều yếu tố nguy cơ khác gây loạn nhịp nhanh thất (Towbin JA et al)
+
+Suy tim NYHA độ IV ở bệnh nhân không nhập viện đang chờ ghép tim
+
+Bệnh sacoid tim có phân suất tống máu thất trái > 35% có ≥ 1 trong các triệu chứng sau: ngất không rõ nguyên nhân, sẹo cơ tim đáng kể có thể nhìn thấy trên phim chụp MRI hoặc phim chụp PET tim, có thể tạo ra nhịp nhanh thất kéo dài hoặc rung thất, hoặc có chỉ định độc lập đặt máy tạo nhịp tim vĩnh viễn
+
+Viêm cơ tim tế bào khổng lồ có nhịp nhanh thất hoặc nhịp nhanh thất không ổn định khi điều trị nội khoa tối ưu
+
+Nhóm IIb (ítt được hỗ trợ bởi bằng chứng hoặc ý kiến)
+
+Bệnh cơ tim giãn vô căn, triệu chứng suy tim NYHA I khi điều trị nội khoa tối ưu, phân suất tống máu thất trái
+
+≤
+
+0,35
+
+Hội chứng QT dài không có triệu chứng nhưng QTc > 0,50 giây khi điều trị bằng thuốc chẹn beta
+
+Ngất và rối loạn cấu trúc tim tiến triển nếu các thăm dò xâm lấn và không xâm lấn không xác định được nguyên nhân
+
+HCM không có các yếu tố nguy cơ được liệt kê ở trên nhưng có VT không bền vững hoặc có thấm thuốc gadolinium muộn trên hình ảnh cộng hưởng từ tim
+
+Bệnh cơ tim thất phải do loạn sản thất phải không có nhịp nhanh thất kéo dài/rung thất hoặc rối loạn chức năng tâm thu thất phải hoặc thất trái nặng nhưng có ít yếu tố nguy cơ khác gây loạn nhịp nhanh thất (Towbin et al)
+
+Nhóm III (không chỉ định hoặc có hại)
+
+Ngất không rõ nguyên nhân mà không gây được rung thất hoặc tim nhanh thất khi thăm dò điện sinh lý học tim, không có bệnh tim thực tổn.
+
+Rung thất hoặc tim nhanh thất dai dẳng.
+
+Rung thất hoặc tim nhanh thất do các cơ chế mà có thể triệt đốt được qua đường ống thông hoặc phẫu thuật.
+
+Rung thất hoặc tim nhanh thất do các nguyên nhân thoáng qua hoặc có thể đảo ngược được mà việc điều trị nguyên nhân là khả thi và có thể ngăn chặn được rối loạn nhịp thất.
+
+Các rối loạn tâm thần gây cản trở quá trình theo dõi lâu dài bệnh nhân hoặc có thể bị rối loạn tâm thần nặng hơn do các cú sốc điện của máy ICD.
+
+Bệnh nhân không kỳ vọng có thời gian sống thêm hợp lý với tình trạng chức năng chấp nhận được trong ≥ 1 năm
+
+Bệnh nhân có triệu chứng suy tim kháng thuốc có NYHA loại IV không phải là ứng cử viên cho cấy ghép tim hoặc ICD CRT
+
+* Nhóm I: Các tình trạng trong đó có bằng chứng và/hoặc đồng thuận chung rằng thủ thuật hoặc phương pháp điều trị là hữu ích và hiệu quả
+
+Nhóm IIa: Sức nặng của bằng chứng hoặc ý kiến ​​ủng hộ thủ thuật hoặc phương pháp điều trị
+
+Nhóm IIb: Tính hữu ích/hiệu quả ít được xác định rõ ràng bằng bằng chứng hoặc ý kiến
+
+Nhóm III: Các tình trạng trong đó có bằng chứng và/hoặc thỏa thuận chung rằng thủ thuật hoặc điều trị không hữu ích/hiệu quả và trong một số trường hợp có thể có hại
+
+Dữ liệu về các loại bằng chứng từ
+
+Jacobs AK, Kushner FG, Ettinger SM, et al
+
+. ACCF/AHA clinical practice guideline methodology summit report: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.
+
+Circulation
+
+2013;127(2):268-310. doi:10.1161/CIR.0b013e31827e8e5f
+
+ARVC
+
+=
+
+bệnh cơ tim thất phải do loạn sản thất phải; BP = huyết áp; CPVT = nhịp nhanh thất đa hình do catecholaminergic; CRT = liệu pháp tái đồng bộ tim; HCM
+
+=
+
+bệnh cơ tim phì đại; ICD
+
+=
+
+máy khử rung tim cấy ghép vào cơ thể; LV
+
+=
+
+tâm thất trái; MI = nhồi máu cơ tim; NYHA
+
+=
+
+Hiệp hội Tim mạch New York; QTc
+
+=
+
+khoảng QT hiệu chỉnh; RV = thất phải; VF
+
+=
+
+rung thất; VT
+
+=
+
+nhịp nhanh thất.
+
+Dữ liệu từ
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden death: a report of the American College of Cardiology Foundation, American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+J Am Coll Cardiol
+
+72:e91–e220, 2018 doi: 10.1016/j.jacc.2017.10.054,
+
+Towbin JA, McKenna WJ, Abrams DJ, et al
+
+: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.
+
+Heart Rhythm
+
+16:e301–e372, 2019, and
+
+Ommen SR, Ho CY, Asif IM, et al
+
+: 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines [published correction appears in
+
+Circulation
+
+150(8):e198, 2024 doi: 10.1161/CIR.0000000000001277].
+
+Circulation
+
+149(23):e1239–e1311, 2024. doi:10.1161/CIR.0000000000001250
+
+* Nhóm I: Các tình trạng trong đó có bằng chứng và/hoặc đồng thuận chung rằng thủ thuật hoặc phương pháp điều trị là hữu ích và hiệu quả
+
+Nhóm IIa: Sức nặng của bằng chứng hoặc ý kiến ​​ủng hộ thủ thuật hoặc phương pháp điều trị
+
+Nhóm IIb: Tính hữu ích/hiệu quả ít được xác định rõ ràng bằng bằng chứng hoặc ý kiến
+
+Nhóm III: Các tình trạng trong đó có bằng chứng và/hoặc thỏa thuận chung rằng thủ thuật hoặc điều trị không hữu ích/hiệu quả và trong một số trường hợp có thể có hại
+
+Dữ liệu về các loại bằng chứng từ
+
+Jacobs AK, Kushner FG, Ettinger SM, et al
+
+. ACCF/AHA clinical practice guideline methodology summit report: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.
+
+Circulation
+
+2013;127(2):268-310. doi:10.1161/CIR.0b013e31827e8e5f
+
+ARVC
+
+=
+
+bệnh cơ tim thất phải do loạn sản thất phải; BP = huyết áp; CPVT = nhịp nhanh thất đa hình do catecholaminergic; CRT = liệu pháp tái đồng bộ tim; HCM
+
+=
+
+bệnh cơ tim phì đại; ICD
+
+=
+
+máy khử rung tim cấy ghép vào cơ thể; LV
+
+=
+
+tâm thất trái; MI = nhồi máu cơ tim; NYHA
+
+=
+
+Hiệp hội Tim mạch New York; QTc
+
+=
+
+khoảng QT hiệu chỉnh; RV = thất phải; VF
+
+=
+
+rung thất; VT
+
+=
+
+nhịp nhanh thất.
+
+Dữ liệu từ
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden death: a report of the American College of Cardiology Foundation, American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+J Am Coll Cardiol
+
+72:e91–e220, 2018 doi: 10.1016/j.jacc.2017.10.054,
+
+Towbin JA, McKenna WJ, Abrams DJ, et al
+
+: 2019 HRS expert consensus statement on evaluation, risk stratification, and management of arrhythmogenic cardiomyopathy.
+
+Heart Rhythm
+
+16:e301–e372, 2019, and
+
+Ommen SR, Ho CY, Asif IM, et al
+
+: 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines [published correction appears in
+
+Circulation
+
+150(8):e198, 2024 doi: 10.1161/CIR.0000000000001277].
+
+Circulation
+
+149(23):e1239–e1311, 2024. doi:10.1161/CIR.0000000000001250
+
+Rối loạn chức năng của máy ICD.
+
+Máy ICD có thể bị rối loạn chức năng, bao gồm:
+
+Sốc điện hoặc tạo nhịp không thích hợp.
+
+Không sốc hoặc không tạo nhịp khi cần thiết.
+
+Máy ICD có thể tiến hành tạo nhịp hoặc sốc điện không thích hợp khi bệnh nhân đang có nhịp xoang, nhịp nhanh trên thất, rung nhĩ, cuồng nhĩ hoặc một số tình huống không phải nhịp nội tại của bệnh nhân (ví dụ: nhiễu điện do điện cực bị đứt).
+
+Một số tình huống làm cho máy ICD không phát cú sốc hoặc không tạo nhịp mặc dù cần thiết, ví dụ như di lệch điện cực hoặc thân máy, nhận cảm quá kém, tăng ngưỡng tạo nhịp do xơ hóa cơ tim ở những vùng cơ tim bị sốc điện trước đó, hỏng pin.
+
+Máy ICD thực hiện cú sốc điện
+
+Đối với những bệnh nhân báo cáo rằng ICD đã hoạt động nhưng không có các triệu chứng liên quan như ngất xỉu, khó thở, đau ngực hoặc hồi hộp liên tục, nên sắp xếp tái khám tại phòng khám ICD và/hoặc bác sĩ điện sinh lý càng sớm càng tốt. Có thể truy vấn điện tử ICD để xác định lý do xuất viện. Nếu có các triệu chứng liên quan như vậy hoặc bệnh nhân bị sốc điện nhiều lần, cần chuyển bệnh nhân khẩn cấp để tìm nguyên nhân có thể điều trị được (ví dụ: thiếu máu cục bộ do động mạch vành, bất thường về điện giải) hoặc trục trặc thiết bị.
+
+Tài liệu tham khảo
+
+1.
+
+Leong AM, Arnold AD, Whinnett ZI
+
+. Implantable Cardioverter Defibrillator Tachycardia Therapies: Past, Present and Future Directions.
+
+J Cardiovasc Dev Dis
+
+2024;11(3):92. Đã xuất bản ngày 20 tháng 3 năm 2024. doi:10.3390/jcdd11030092
+
+2.
+
+Weinstock J, Madias C
+
+. The Subcutaneous Defibrillator.
+
+Card Electrophysiol Clin
+
+2017;9(4):775-783. doi:10.1016/j.ccep.2017.08.007
+
+3.
+
+Sandhu U, Rajyaguru C, Cheung CC, Morin DP, Lee BK
+
+. The wearable cardioverter-defibrillator vest: Indications and ongoing questions.
+
+Prog Cardiovasc Dis
+
+2019;62(3):256-264. doi:10.1016/j.pcad.2019.05.005
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

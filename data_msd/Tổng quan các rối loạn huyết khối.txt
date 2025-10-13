@@ -1,0 +1,459 @@
+TIÊU ĐỀ: Tổng quan các rối loạn huyết khối
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/rối-loạn-huyết-khối/tổng-quan-các-rối-loạn-huyết-khối
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan các rối loạn huyết khối
+
+Theo
+
+Michael B. Streiff
+
+,
+
+MD
+
+,
+
+Johns Hopkins University School of Medicine
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 8 2023
+
+|
+
+đã sửa đổi
+
+Thg 12 2023
+
+v972249_vi
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Ở người khỏe mạnh,
+
+cân bằng cầm máu
+
+tồn tại giữa các yếu tố tiền đông (đông máu) và các yếu tố chống đông và tiêu sợi huyết. Nhiều yếu tố di truyền, mắc phải và yếu tố môi trường có thể tạo ra ưu thế nghiêng về phía đông dẫn đến sự hình thành các cục đông bệnh lý trong mạch máu (ví dụ
+
+huyết khối tĩnh mạch sâu
+
+[DVT]), hoặc động mạch (ví dụ
+
+nhồi máu cơ tim
+
+,
+
+thiếu máu cục bộ
+
+) hoặc buồng tim. Cục nghẽn có thể cản trở lưu lượng máu tại vị trí hình thành hoặc tách ra và làm thuyên tắc mạch gây tắc mạch máu ở xa (ví dụ:
+
+thuyên tắc mạch phổi
+
+,
+
+đột quỵ
+
+do cục nghẽn).
+
+Căn nguyên của các rối loạn huyết khối
+
+Khiếm khuyết di truyền
+
+làm tăng xu hướng huyết khối thuyên tắc tĩnh mạch bao gồm
+
+Đột biến yếu tố V Leiden, gây ra
+
+sự kháng yếu tố protein C hoạt hóa
+
+(APC)
+
+Đột biến gen Prothrombin 20210
+
+Thiếu hụt protein C
+
+Thiếu protein S
+
+Thiếu protein Z
+
+Thiếu Antithrombin
+
+Tăng nồng độ yếu tố VIII, IX và XI
+
+Protein Z, một loại protein phụ thuộc vào vitamin K, giúp vô hiệu hóa
+
+yếu tố đông máu Xa
+
+.
+
+Thiếu hụt hoặc rối loạn chức năng của protein Z
+
+có nguy cơ dẫn đến huyết khối tĩnh mạch (chủ yếu ở những bệnh nhân có các bất thường khác về đông máu). Tuy nhiên, việc đo lường hoạt tính của protein này không có sẵn ở hầu hết các phòng thí nghiệm.
+
+Các khiếm khuyết mắc phải
+
+cũng có khuynh hướng gây huyết khối tĩnh mạch và động mạch (xem bảng
+
+Một số nguyên nhân liên quan đến thuyên tắc huyết khối
+
+).
+
+Các rối loạn khác và các yếu tố môi trường có thể làm tăng nguy cơ huyết khối, đặc biệt là nếu một bất thường gen cũng có mặt.
+
+Bảng
+
+Các nguyên nhân gây ra huyết khối tắc mạch
+
+Bảng
+
+Các nguyên nhân gây ra huyết khối tắc mạch
+
+Các nguyên nhân gây ra huyết khối tắc mạch
+
+Điều kiện
+
+Bình luận
+
+Hội chứng kháng phospholipid
+
+Rối loạn tự miễn có tăng nguy cơ bị cục nghẽn tĩnh mạch hoặc cục nghẽn động mạch và các biến chứng thai kỳ do sự hiện diện của kháng thể kháng phospholipid
+
+Xơ vữa động mạch
+
+Tăng nguy cơ huyết khối động mạch
+
+Nguy cơ cao hơn ở bệnh nhân hẹp mạch trước
+
+Khi mảng xơ vữa động mạch bị vỡ ra, chúng làm lộ ra hoặc giải phóng yếu tố mô, hoạt hóa đông máu, bắt đầu sự kết dính và ngưng tập tiểu cầu khu trú, và gây ra chứng huyết khối
+
+Ung thư (tụy, dạ dày, phổi, vú, tuyến tiền liệt, đại tràng, bệnh bạch cầu tiền tủy bào)
+
+Có thể kích hoạt quá trình đông máu bằng cách biểu hiện và bộc lộ yếu tố mô trên bề mặt màng, bằng cách tiết ra protease kích hoạt
+
+yếu tố X
+
+hoặc cả hai
+
+Giảm tiểu cầu do heparin
+
+Liên quan đến sự phát triển các kháng thể trực tiếp chống lại phức hợp heparin yếu tố tiểu cầu 4 kích hoạt tiểu cầu, dẫn đến giảm tiểu cầu do tiêu thụ và huyết khối tĩnh mạch hoặc huyết khối động mạch
+
+Tăng homocysteine máu
+
+Nguyên nhân có thể
+
+Do thiếu folate, vitamin B12, vitamin B6 hoặc do đột biến gen mã hóa enzym Cysathionine-beta synthase (homocystinuria) hoặc methylene-tetrahydrofolate reductase
+
+Nhiễm trùng, nếu nghiêm trọng (ví dụ,
+
+sepsis
+
+)
+
+Tăng nguy cơ bị thuyên tắc huyết khối tĩnh mạch
+
+Tăng mức biểu hiện và mức tiếp xúc của yếu tố mô bởi bạch cầu đơn nhân và đại thực bào
+
+Giảm sự hình thành protein C hoạt hóa
+
+Tăng nồng độ của yếu tố VIII
+
+Thuốc ngừa thai dạng uống chứa estrogen
+
+Nguy cơ tuyệt đối thấp (3–9/10.000) bị huyết khối tĩnh mạch nhưng cao hơn ở những người không mang thai (1–5/10.000)
+
+Thường gặp hơn ở những bệnh nhân có bất thường về di truyền dễ dẫn đến thuyên tắc huyết khối tĩnh mạch và ở những bệnh nhân hút thuốc hoặc
+
+≥
+
+35 tuổi
+
+Tổn thương mô
+
+Do chấn thương hoặc phẫu thuật
+
+Ứ máu tĩnh mạch
+
+Do phẫu thuật, chỉnh hình hoặc bất động do liệt, suy tim, mang thai, nghỉ ngơi tại giường, đi du lịch hoặc béo phì
+
+Các triệu chứng và dấu hiệu của rối loạn huyết khối
+
+Các biểu hiện thông thường của rối loạn huyết khối bao gồm
+
+huyết khối tĩnh mạch sâu
+
+(DVT) không lý giải và
+
+tắc mạch phổi
+
+(PE).
+
+Viêm tĩnh mạch huyết khối nông
+
+cũng có thể phát sinh. Các hậu quả khác có thể bao gồm huyết khối động mạch (ví dụ, gây
+
+đột quỵ
+
+hoặc là
+
+thiếu máu mạc treo
+
+). Các triệu chứng phụ thuộc vào vị trí của cục máu đông, như trong các ví dụ sau:
+
+Đau ngực và thở nhanh nông: Có thể PE hoặc nhồi máu cơ tim
+
+Chân đau, ấm, đỏ và sưng: DVT
+
+Yếu/tê một bên cơ thể, khó nói, khó giữ thăng bằng và khó đi lại: thiếu máu cục bộ có thể xảy ra
+
+Đau bụng: Có thể có huyết khối động mạch hoặc tĩnh mạch nội tạng
+
+Hầu hết các rối loạn di truyền không tăng nguy cơ đông máu cho đến khi trưởng thành, mặc dù cục máu đông có thể hình thành ở mọi lứa tuổi. Phụ nữ có thể có tiền sử
+
+tự sảy thai
+
+nhiều lần.
+
+Chẩn đoán rối loạn huyết khối
+
+Đánh giá chẩn đoán rối loạn huyết khối được tóm tắt ở phần khác trong CẨM NANG cụ thể về vị trí của cục nghẽn (ví dụ:
+
+huyết khối tĩnh mạch sâu
+
+,
+
+thuyên tắc mạch phổi
+
+,
+
+đột quỵ do thiếu máu cục bộ
+
+). Những bệnh nhân có biến cố huyết khối tắc mạch mà không có giải thích lâm sàng rõ ràng có thể có một trong những thực thể khuynh hướng di truyền hoặc mắc phải được mô tả dưới đây. Thường có giá trị để tận dụng ý kiến ​​của bác sĩ huyết học để sắp xếp các khả năng chẩn đoán khó khăn.
+
+Các yếu tố có trước (tiền tố)
+
+Cần xem xét các yếu tố có trước. Trong một số trường hợp, tình trạng này rõ ràng về mặt lâm sàng (ví dụ: phẫu thuật hoặc chấn thương gần đây, bất động kéo dài, ung thư, nhiễm trùng, bệnh nội khoa, xơ vữa động mạch toàn thể). Nếu không có yếu tố khuynh hướng rõ ràng, cần xem xét đánh giá thêm ở những bệnh nhân có:
+
+Tiền sử gia đình bị huyết khối tĩnh mạch (người thân quan hệ huyết thống bậc một bị thuyên tắc huyết khối tĩnh mạch trước 50 tuổi)
+
+Hơn một lần có huyết khối tĩnh mạch
+
+Huyết khối tĩnh mạch hoặc huyết khối động mạch trước 50 tuổi
+
+Các vị trí không thường gặp của huyết khối tĩnh mạch (ví dụ: xoang hang, tĩnh mạch mạc treo)
+
+Có tới một nửa số bệnh nhân mắc DVT tự phát có yếu tố di truyền. Tuy nhiên, trong nhiều trường hợp như vậy, việc xác định tình trạng ưu huyết khối di truyền không ảnh hưởng đến việc điều trị. Do đó, các hướng dẫn của xã hội đề xuất việc kiểm tra nhắm đích ở những bệnh nhân có nguy cơ cao bị ưu huyết khối di truyền (
+
+1, 2
+
+).
+
+Xét nghiệm các yếu tố khuynh hướng bẩm sinh và mắc phải bao gồm các xét nghiệm cụ thể đo lường số lượng hoặc hoạt tính của các phân tử chống đông máu tự nhiên trong huyết tương và sàng lọc các khiếm khuyết gen cụ thể như sau:
+
+Xét nghiệm kháng đông lupus
+
+Xét nghiệm sự đề kháng với protein C hoạt hóa
+
+Xét nghiệm di truyền đối với yếu tố V Leiden
+
+Xét nghiệm di truyền đối với đột biến gen prothrombin (G20210A)
+
+Hoạt động của yếu tố VIII, IX, XI
+
+Đánh giá chức năng của antithrombin
+
+Đánh giá chức năng của protein C
+
+Đánh giá chức năng của protein S
+
+Xét nghiệm kháng nguyên của protein S toàn bộ và tự do.
+
+Đo nồng độ homocysteine huyết tương
+
+Xét nghiệm miễn dịch kháng thể kháng phospholipid
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+National Institute on Health and Care Excellence (NICE)
+
+: Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. NICE guideline [NG 158]. Ngày 26 tháng 3 năm 2020.
+
+2.
+
+Ortel TL, Neumann I, Ageno W, et al
+
+. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.
+
+Blood Adv
+
+2020;4(19):4693-4738. doi:10.1182/bloodadvances.2020001830
+
+Điều trị rối loạn huyết khối
+
+Điều trị được tóm tắt ở các phần khác trong CẨM NANG theo vị trí huyết khối cụ thể.
+
+Thường cần phải có thuốc chống đông máu. Đối với những bệnh nhân cần phải nhập viện, thường bắt đầu dùng thuốc chống đông máu với heparin không phân đoạn hoặc heparin trọng lượng phân tử thấp (
+
+1, 2
+
+). Đối với những bệnh nhân có thể điều trị ngoại trú, sử dụng thuốc chống đông máu đường uống trực tiếp (DOAC) hoặc warfarin (
+
+1, 2, 3
+
+).
+
+DOAC bao gồm thuốc ức chế
+
+yếu tố Xa
+
+(rivaroxaban, apixaban, edoxaban) và thuốc ức chế trực tiếp
+
+thrombin
+
+dabigatran. Không giống như warfarin, DOAC không cần phải theo dõi xét nghiệm thường xuyên và một số loại thuốc này (
+
+apixaban
+
+,
+
+rivaroxaban
+
+) có thể được sử dụng trong điều trị cấp tính mà không cần dùng thuốc chống đông đường tiêm truyền ban đầu. Ngược lại với
+
+warfarin
+
+, DOAC có ít tương tác giữa các thuốc hơn và hiệu quả của thuốc này không bị ảnh hưởng từ chế độ ăn uống.
+
+Trong trường hợp chảy máu đe dọa tính mạng, các thuốc cầm máu trong điều trị DOAC bao gồm thuốc giải độc nhắm đích (idarucizumab cho dabigatran; andexanet alfa cho thuốc ức chế
+
+yếu tố Xa
+
+) cũng như các thuốc tiền cầm máu không đặc hiệu như phức hợp prothrombin cô đặc có chứa các yếu tố VII, IX, X. và prothrombin (
+
+1, 4, 5
+
+). Warfarin bị đảo ngược với vitamin K và phức hợp prothrombin đậm đặc.
+
+Một nhược điểm lớn hiện nay của DOAC là chi phí của chúng.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Stevens SM, Woller SC, Kreuziger LB, et al
+
+. Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears in
+
+Chest
+
+2022 Jul;162(1):269].
+
+Chest
+
+2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.055
+
+2.
+
+Ortel TL, Neumann I, Ageno W, et al
+
+. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.
+
+Blood Adv
+
+2020;4(19):4693-4738. doi:10.1182/bloodadvances.2020001830
+
+3.
+
+National Institute on Health and Care Excellence (NICE)
+
+: Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. NICE guideline [NG 158]. Ngày 26 tháng 3 năm 2020.
+
+4.
+
+Cuker A, Burnett A, Triller D, et al
+
+: Reversal of direct oral anticoagulants: Guidance from the Anticoagulation Forum.
+
+Am J Hematol
+
+94:697–709, 2019.
+
+5
+
+Frontera JA, Lewin JJ 3rd, Rabinstein AA, et al
+
+. Guideline for Reversal of Antithrombotics in Intracranial Hemorrhage: A Statement for Healthcare Professionals from the Neurocritical Care Society and Society of Critical Care Medicine.
+
+Neurocrit Care
+
+. 2016;24(1):6-46. doi:10.1007/s12028-015-0222-x
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của các rối loạn huyết khối ---
+
+Khiếm khuyết di truyềnlàm tăng xu hướng huyết khối thuyên tắc tĩnh mạch bao gồmĐột biến yếu tố V Leiden, gây rasự kháng yếu tố protein C hoạt hóa(APC)Đột biến gen Prothrombin 20210Thiếu hụt protein CThiếu protein SThiếu protein ZThiếu AntithrombinTăng nồng độ yếu tố VIII, IX và XIProtein Z, một loại protein phụ thuộc vào vitamin K, giúp vô hiệu hóayếu tố đông máu Xa.Thiếu hụt hoặc rối loạn chức năng của protein Zcó nguy cơ dẫn đến huyết khối tĩnh mạch (chủ yếu ở những bệnh nhân có các bất thường khác về đông máu). Tuy nhiên, việc đo lường hoạt tính của protein này không có sẵn ở hầu hết các phòng thí nghiệm.Các khiếm khuyết mắc phảicũng có khuynh hướng gây huyết khối tĩnh mạch và động mạch (xem bảngMột số nguyên nhân liên quan đến thuyên tắc huyết khối).Các rối loạn khác và các yếu tố môi trường có thể làm tăng nguy cơ huyết khối, đặc biệt là nếu một bất thường gen cũng có mặt.BảngCác nguyên nhân gây ra huyết khối tắc mạchBảngCác nguyên nhân gây ra huyết khối tắc mạchCác nguyên nhân gây ra huyết khối tắc mạchĐiều kiệnBình luậnHội chứng kháng phospholipidRối loạn tự miễn có tăng nguy cơ bị cục nghẽn tĩnh mạch hoặc cục nghẽn động mạch và các biến chứng thai kỳ do sự hiện diện của kháng thể kháng phospholipidXơ vữa động mạchTăng nguy cơ huyết khối động mạchNguy cơ cao hơn ở bệnh nhân hẹp mạch trướcKhi mảng xơ vữa động mạch bị vỡ ra, chúng làm lộ ra hoặc giải phóng yếu tố mô, hoạt hóa đông máu, bắt đầu sự kết dính và ngưng tập tiểu cầu khu trú, và gây ra chứng huyết khốiUng thư (tụy, dạ dày, phổi, vú, tuyến tiền liệt, đại tràng, bệnh bạch cầu tiền tủy bào)Có thể kích hoạt quá trình đông máu bằng cách biểu hiện và bộc lộ yếu tố mô trên bề mặt màng, bằng cách tiết ra protease kích hoạtyếu tố Xhoặc cả haiGiảm tiểu cầu do heparinLiên quan đến sự phát triển các kháng thể trực tiếp chống lại phức hợp heparin yếu tố tiểu cầu 4 kích hoạt tiểu cầu, dẫn đến giảm tiểu cầu do tiêu thụ và huyết khối tĩnh mạch hoặc huyết khối động mạchTăng homocysteine máuNguyên nhân có thểDo thiếu folate, vitamin B12, vitamin B6 hoặc do đột biến gen mã hóa enzym Cysathionine-beta synthase (homocystinuria) hoặc methylene-tetrahydrofolate reductaseNhiễm trùng, nếu nghiêm trọng (ví dụ,sepsis)Tăng nguy cơ bị thuyên tắc huyết khối tĩnh mạchTăng mức biểu hiện và mức tiếp xúc của yếu tố mô bởi bạch cầu đơn nhân và đại thực bàoGiảm sự hình thành protein C hoạt hóaTăng nồng độ của yếu tố VIIIThuốc ngừa thai dạng uống chứa estrogenNguy cơ tuyệt đối thấp (3–9/10.000) bị huyết khối tĩnh mạch nhưng cao hơn ở những người không mang thai (1–5/10.000)Thường gặp hơn ở những bệnh nhân có bất thường về di truyền dễ dẫn đến thuyên tắc huyết khối tĩnh mạch và ở những bệnh nhân hút thuốc hoặc≥35 tuổiTổn thương môDo chấn thương hoặc phẫu thuậtỨ máu tĩnh mạchDo phẫu thuật, chỉnh hình hoặc bất động do liệt, suy tim, mang thai, nghỉ ngơi tại giường, đi du lịch hoặc béo phì
+
+--- 2. Các triệu chứng và dấu hiệu của rối loạn huyết khối ---
+
+Các biểu hiện thông thường của rối loạn huyết khối bao gồmhuyết khối tĩnh mạch sâu(DVT) không lý giải vàtắc mạch phổi(PE).Viêm tĩnh mạch huyết khối nôngcũng có thể phát sinh. Các hậu quả khác có thể bao gồm huyết khối động mạch (ví dụ, gâyđột quỵhoặc làthiếu máu mạc treo). Các triệu chứng phụ thuộc vào vị trí của cục máu đông, như trong các ví dụ sau:Đau ngực và thở nhanh nông: Có thể PE hoặc nhồi máu cơ timChân đau, ấm, đỏ và sưng: DVTYếu/tê một bên cơ thể, khó nói, khó giữ thăng bằng và khó đi lại: thiếu máu cục bộ có thể xảy raĐau bụng: Có thể có huyết khối động mạch hoặc tĩnh mạch nội tạngHầu hết các rối loạn di truyền không tăng nguy cơ đông máu cho đến khi trưởng thành, mặc dù cục máu đông có thể hình thành ở mọi lứa tuổi. Phụ nữ có thể có tiền sửtự sảy thainhiều lần.
+
+--- 3. Chẩn đoán rối loạn huyết khối ---
+
+Đánh giá chẩn đoán rối loạn huyết khối được tóm tắt ở phần khác trong CẨM NANG cụ thể về vị trí của cục nghẽn (ví dụ:huyết khối tĩnh mạch sâu,thuyên tắc mạch phổi,đột quỵ do thiếu máu cục bộ). Những bệnh nhân có biến cố huyết khối tắc mạch mà không có giải thích lâm sàng rõ ràng có thể có một trong những thực thể khuynh hướng di truyền hoặc mắc phải được mô tả dưới đây. Thường có giá trị để tận dụng ý kiến ​​của bác sĩ huyết học để sắp xếp các khả năng chẩn đoán khó khăn.Các yếu tố có trước (tiền tố)Cần xem xét các yếu tố có trước. Trong một số trường hợp, tình trạng này rõ ràng về mặt lâm sàng (ví dụ: phẫu thuật hoặc chấn thương gần đây, bất động kéo dài, ung thư, nhiễm trùng, bệnh nội khoa, xơ vữa động mạch toàn thể). Nếu không có yếu tố khuynh hướng rõ ràng, cần xem xét đánh giá thêm ở những bệnh nhân có:Tiền sử gia đình bị huyết khối tĩnh mạch (người thân quan hệ huyết thống bậc một bị thuyên tắc huyết khối tĩnh mạch trước 50 tuổi)Hơn một lần có huyết khối tĩnh mạchHuyết khối tĩnh mạch hoặc huyết khối động mạch trước 50 tuổiCác vị trí không thường gặp của huyết khối tĩnh mạch (ví dụ: xoang hang, tĩnh mạch mạc treo)Có tới một nửa số bệnh nhân mắc DVT tự phát có yếu tố di truyền. Tuy nhiên, trong nhiều trường hợp như vậy, việc xác định tình trạng ưu huyết khối di truyền không ảnh hưởng đến việc điều trị. Do đó, các hướng dẫn của xã hội đề xuất việc kiểm tra nhắm đích ở những bệnh nhân có nguy cơ cao bị ưu huyết khối di truyền (1, 2).Xét nghiệm các yếu tố khuynh hướng bẩm sinh và mắc phải bao gồm các xét nghiệm cụ thể đo lường số lượng hoặc hoạt tính của các phân tử chống đông máu tự nhiên trong huyết tương và sàng lọc các khiếm khuyết gen cụ thể như sau:Xét nghiệm kháng đông lupusXét nghiệm sự đề kháng với protein C hoạt hóaXét nghiệm di truyền đối với yếu tố V LeidenXét nghiệm di truyền đối với đột biến gen prothrombin (G20210A)Hoạt động của yếu tố VIII, IX, XIĐánh giá chức năng của antithrombinĐánh giá chức năng của protein CĐánh giá chức năng của protein SXét nghiệm kháng nguyên của protein S toàn bộ và tự do.Đo nồng độ homocysteine huyết tươngXét nghiệm miễn dịch kháng thể kháng phospholipidTài liệu tham khảo chẩn đoán1.National Institute on Health and Care Excellence (NICE): Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. NICE guideline [NG 158]. Ngày 26 tháng 3 năm 2020.2.Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv2020;4(19):4693-4738. doi:10.1182/bloodadvances.2020001830
+
+--- 4. Điều trị rối loạn huyết khối ---
+
+Điều trị được tóm tắt ở các phần khác trong CẨM NANG theo vị trí huyết khối cụ thể.Thường cần phải có thuốc chống đông máu. Đối với những bệnh nhân cần phải nhập viện, thường bắt đầu dùng thuốc chống đông máu với heparin không phân đoạn hoặc heparin trọng lượng phân tử thấp (1, 2). Đối với những bệnh nhân có thể điều trị ngoại trú, sử dụng thuốc chống đông máu đường uống trực tiếp (DOAC) hoặc warfarin (1, 2, 3).DOAC bao gồm thuốc ức chếyếu tố Xa(rivaroxaban, apixaban, edoxaban) và thuốc ức chế trực tiếpthrombindabigatran. Không giống như warfarin, DOAC không cần phải theo dõi xét nghiệm thường xuyên và một số loại thuốc này (apixaban,rivaroxaban) có thể được sử dụng trong điều trị cấp tính mà không cần dùng thuốc chống đông đường tiêm truyền ban đầu. Ngược lại vớiwarfarin, DOAC có ít tương tác giữa các thuốc hơn và hiệu quả của thuốc này không bị ảnh hưởng từ chế độ ăn uống.Trong trường hợp chảy máu đe dọa tính mạng, các thuốc cầm máu trong điều trị DOAC bao gồm thuốc giải độc nhắm đích (idarucizumab cho dabigatran; andexanet alfa cho thuốc ức chếyếu tố Xa) cũng như các thuốc tiền cầm máu không đặc hiệu như phức hợp prothrombin cô đặc có chứa các yếu tố VII, IX, X. và prothrombin (1, 4, 5). Warfarin bị đảo ngược với vitamin K và phức hợp prothrombin đậm đặc.Một nhược điểm lớn hiện nay của DOAC là chi phí của chúng.Tài liệu tham khảo về điều trị1.Stevens SM, Woller SC, Kreuziger LB, et al. Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.0552.Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv2020;4(19):4693-4738. doi:10.1182/bloodadvances.20200018303.National Institute on Health and Care Excellence (NICE): Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. NICE guideline [NG 158]. Ngày 26 tháng 3 năm 2020.4.Cuker A, Burnett A, Triller D, et al: Reversal of direct oral anticoagulants: Guidance from the Anticoagulation Forum.Am J Hematol94:697–709, 2019.5Frontera JA, Lewin JJ 3rd, Rabinstein AA, et al. Guideline for Reversal of Antithrombotics in Intracranial Hemorrhage: A Statement for Healthcare Professionals from the Neurocritical Care Society and Society of Critical Care Medicine.Neurocrit Care. 2016;24(1):6-46. doi:10.1007/s12028-015-0222-x

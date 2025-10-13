@@ -1,0 +1,355 @@
+TIÊU ĐỀ: Tác nhân chiến tranh hóa học thần kinh
+URL: https://www.msdmanuals.com/vi/professional/chấn-thương-ngộ-độc/chấn-thương-hàng-loạt-do-vũ-khí/tác-nhân-chiến-tranh-hóa-học-thần-kinh
+================================================================================
+
+NỘI DUNG:
+
+Tác nhân chiến tranh hóa học thần kinh
+
+Theo
+
+James M. Madsen
+
+,
+
+MD, MPH
+
+,
+
+University of Florida
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v43459190_vi
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Các tác nhân thần kinh là
+
+tác nhân hóa học chiến tranh
+
+tác động trực tiếp vào các khớp thần kinh, thường làm tăng hoạt tính của acetylcholine.
+
+Các tác nhân hóa học khác đã được sử dụng trong chiến đấu trước Thế chiến II và đôi khi được gọi là các tác nhân hóa học thế hệ đầu tiên. Các tác nhân hóa học thế hệ tiếp theo bao gồm 3 loại tác nhân thần kinh:
+
+Các tác nhân dòng G (thế hệ thứ hai)
+
+Các tác nhân dòng V (thế hệ thứ ba)
+
+Các tác nhân dòng A (thế hệ thứ tư)
+
+Các tác nhân dòng G, hay tác nhân G, bao gồm tabun (GA), sarin (GB), soman (GD) và cyclosarin (GF), được Đức Quốc xã phát triển trước và trong Thế chiến II. Ở nhiệt độ môi trường xung quanh, các chất này là chất lỏng dạng nước có độ bay hơi cao gây nguy hiểm khi tiếp xúc với da và hít phải.
+
+Tác nhân V-series bao gồm VX; các hợp chất này được tổng hợp sau Thế chiến II. Các chất này là chất lỏng khó phân hủy với độ đặc của dầu động cơ. Các chất này bay hơi rất chậm và mối nguy hiểm chính là do tiếp xúc với chất lỏng. Các chất này cũng mạnh hơn nhiều so với các chất sê-ri G.
+
+Các chất sê-ri A là chất độc thần kinh được Liên Xô phát triển bắt đầu từ những năm 1970. Các tác nhân này còn được gọi là tác nhân Novichok và các hợp chất tiêu biểu là A-230, A-232 và A-234, là những chất lỏng thậm chí còn dai dẳng hơn các tác nhân dòng V và cũng mạnh như vậy (
+
+1, 2
+
+). Một tác nhân dòng A đã được sử dụng trong vụ ám sát năm 2018 ở Vương quốc Anh (
+
+3
+
+), và một điệp viên loại A khác đã được sử dụng trong vụ ám sát năm 2020 nhằm vào nhà hoạt động người Nga Alexei Navalny(
+
+4
+
+).
+
+Không có chất nào trong số các chất này có mùi rõ ràng hoặc gây kích ứng da cục bộ. Tất cả các tác nhân thần kinh là các este organophospho, cũng như
+
+hóa chất hữu cơ phosphat
+
+. Tuy nhiên, các tác nhân thần kinh mạnh hơn rất nhiều; các LD
+
+50
+
+(số lượng cần thiết để gây tử vong ở một nửa số người nhận được liều đó) của VX khoảng 3 mg.
+
+Tài liệu tham khảo chung
+
+1.
+
+Chai PR, Hayes BD, Erickson TB, Boyer EW
+
+. Novichok agents: a historical, current, and toxicological perspective.
+
+Toxicol Commun
+
+. 2018;2(1):45-48. doi:10.1080/24734306.2018.1475151
+
+2.
+
+Charejoo A, Arabfard M, Jafari A, Nourian YH
+
+. A complete, evidence-based review on Novichok poisoning based on epidemiological aspects and clinical management.
+
+Front Toxicol.
+
+2023;4:1004705. Xuất bản ngày 25 tháng 1 năm 2023. doi:10.3389/ftox.2022.1004705
+
+3.
+
+Vale JA, Marrs TC OBE, Maynard RL CBE
+
+. Novichok: a murderous nerve agent attack in the UK.
+
+Clin Toxicol (Phila)
+
+. 2018;56(11):1093-1097. doi:10.1080/15563650.2018.1469759
+
+4.
+
+Steindl D, Boehmerle W, Körner R, et al
+
+. Novichok nerve agent poisoning.
+
+Lancet
+
+. 2021;397(10270):249-252. doi:10.1016/S0140-6736(20)32644-1
+
+Sinh lý bệnh của thương tổn chiến tranh hóa học thần kinh
+
+Các tác nhân thần kinh ức chế men acetylcholinesterase (AChE), làm thủy phân chất dẫn truyền thần kinh acetylcholine (ACh) một khi ACh hết sẽ kích hoạt các thụ thể trong neuron, cơ và tuyến. Ức chế AChE dẫn đến dư thừa ACh ở tất cả các thụ thể của chất này (khủng hoảng cholinergic), đầu tiên gây ra gia tăng hoạt động của mô bị ảnh hưởng, sau đó cuối cùng ở hệ thần kinh trung ương và cơ xương do mô bị mỏi và suy yếu. Các tác nhân thần kinh ức chế cả thụ thể ACh muscarinic và nicotinic. Các thụ thể Muscarinic ACh có trong hệ thống thần kinh trung ương (CNS), hạch thần kinh thực vật, sợi cơ trơn và các tuyến ngoại tiết; thụ thể nicotinic ACh có trong cơ xương.
+
+Sự ràng buộc của tác nhân thần kinh đến AChE chủ yếu là không thể đảo ngược nếu không điều trị; điều trị với oxime có thể tái tạo enzyme cũng như các liên kết không gây mất ổn định hơn nữa (một quá trình được gọi là lão hóa) theo thời gian. Hầu hết các chất độc thần kinh, như thuốc trừ sâu OP, phải mất hàng giờ để đạt được độ tuổi đầy đủ, nhưng GD (soman) có thể chỉ mất khoảng 10 phút.
+
+Các triệu chứng và dấu hiệu của thương tổn thần kinh do chiến tranh hóa học
+
+Các biểu hiện lâm sàng phụ thuộc vào trạng thái của tác nhân, đường tiếp xúc, và liều.
+
+Tiếp xúc hơi độc với mặt gây ra các hiệu ứng tại chỗ như sụp mi, chảy nước mũi, và co thắt phế quản trong vài giây, tiến triển đến toàn bộ các biểu hiện toàn thân của cường cholinergic.
+
+Tuy nhiên, hít phải hơi có thể gây trụy mạch trong vài giây.
+
+Phơi nhiễm da với chất lỏng trước tiên gây ra các ảnh hưởng tại chỗ (co giật cục bộ, máy cơ, ra mồ hôi). Các tác động toàn thân xảy ra sau một thời gian tiềm ẩn có thể kéo dài tới 18 giờ sau khi tiếp xúc với một giọt rất nhỏ của chất độc thần kinh dòng G hoặc V; thậm chí liều gây tử vong thường mất đến 20 đến 30 phút để gây ra các triệu chứng và dấu hiệu, có thể bao gồm đột ngột ngã quỵ và co giật mà không có dấu hiệu báo trước. Tiếp xúc da với tác nhân lỏng dòng A có thời gian tiềm ẩn kéo dài từ vài giờ đến 1 ngày hoặc 2 ngày.
+
+Bệnh nhân có các thành phần hoặc toàn bộ nhiễm độc cholinergic, hoặc cholinergic (xem bảng
+
+Hội chứng nhiễm độc thường gặp
+
+và
+
+Triệu chứng và điều trị các chất độc cụ thể
+
+). Kích thích quá mức và sự mệt mỏi sau đó của hệ thần kinh trung ương dẫn đến sự kích động, hoang mang, bất tỉnh và động kinh, tiến triển thành thất bại của trung tâm hô hấp tại hành tủy. Kích thích quá mức và sự mỏi mệt cuối cùng của các cơ vân tạo ra các sự co giật và máy cơ dẫn đến sự suy nhược và tê liệt. Kích thích quá mức cơ trơn có hoạt tính cholinergic dẫn đến sụp mi, co thắt phế quản và tăng co thắt ruột (với buồn nôn, nôn ói, và chuột rút), và quá mức kích thích các tuyến ngoại tiết gây tăng tiết quá nhiều nước mắt, nước mũi, nước bọt, dịch phế quản, dịch tiêu hóa và vã mồ hôi. Tử vong thường do ngưng thở trung ương, nhưng liệt trực tiếp cơ hoành, co thắt phế quản, và tăng tiết phế quản cũng có thể góp phần.
+
+Các ảnh hưởng lâu dài về thần kinh và hành vi thần kinh cũng có thể xảy ra và bao gồm một hội chứng được gọi là rối loạn tâm thần kinh mạn tính do organophosphate gây ra và bệnh thần kinh mạn tính do organophospho-ester gây ra.
+
+Chẩn đoán thương tổn thần kinh hóa học-chiến tranh
+
+Đánh giá lâm sàng
+
+Chẩn đoán dựa vào lâm sàng, mặc dù xét nghiệm cholinesterase hồng cầu hoặc nồng độ cholinesterase huyết tương cũng như các xét nghiệm chuyên biệt hơn có thể khẳng định tiếp xúc với chất thần kinh.
+
+Phân loại bệnh nhân
+
+Tất cả những người có chất lỏng đáng ngờ trên da của họ cần được ưu tiên để khử nhiễm ngay lập tức những vùng bị ảnh hưởng. Bệnh nhân sau đó được phân loại để điều trị dựa trên các triệu chứng và dấu hiệu của họ. Tất cả các bệnh nhân tiếp xúc với các tác nhân thần kinh có khó thở đáng kể hoặc có ảnh hưởng toàn thân được điều trị ngay lập tức.
+
+Điều trị thương tổn thần kinh do chiến tranh hóa học
+
+Thuốc kháng cholinergic (ví dụ: atropine)
+
+Chất tái hoạt oxy (ví dụ, 2-PAM, MMB-4)
+
+Nhóm benzodiazepine
+
+Hỗ trợ hô hấp khi cần thiết
+
+Chú ý đến
+
+A
+
+irway (đường thở),
+
+B
+
+reathing (hô hấp),
+
+C
+
+irculation (tuần hoàn), Immediate
+
+D
+
+econtamination (ngay lập tức khử nhiễm) và
+
+D
+
+rugs (thuốc) (ABCDD) là điều tối quan trọng. Co thắt phế quản có thể nặng đến mức không thể thông khí cho đến khi dùng atropine (xem bảng
+
+Triệu chứng và điều trị các chất độc cụ thể
+
+). Đường thở, hô hấp và tuần hoàn được đề cập theo cách tiêu chuẩn, như đã thảo luận trong
+
+Hồi sức tim phổi (CPR) ở người lớn
+
+.
+
+Loại bỏ chất độc
+
+Khử trùng mọi chất lỏng đáng ngờ trên da càng sớm càng tốt. Có thể sử dụng dung dịch hypochlorite 0,5%, cũng như xà phòng và nước. Các vết thương có thể bị ô nhiễm cần được kiểm tra, loại bỏ tất cả các mảnh vụn, và xối rửa nhiều nước hoặc nước muối. Triệu chứng nghiêm trọng và tử vong có thể xảy ra sau khi khử nhiễm da bởi vì khử nhiễm có thể không loại bỏ hoàn toàn các tác nhân thần kinh truyền qua da.
+
+Điều trị bằng thuốc
+
+Tại Hoa Kỳ, 2 loại thuốc được dùng:
+
+Atropine
+
+2-pyridin aldoxime metyl clorua (2-PAM – còn gọi là pralidoxime).
+
+Atropine ngăn chặn hoạt tính của ACh. 2-PAM kích hoạt lại AChE đã bị phosphoryl hoá bởi các tác nhân thần kinh (hoặc thuốc trừ sâu OP) nhưng chưa bị lão hóa. Do atropine chỉ tác động lên thụ thể muscarinic ACh nên 2-PAM cũng cần thiết để đảo ngược các tác dụng (ví dụ: co giật, suy nhược cơ hô hấp và liệt) ở cơ xương có chứa thụ thể nicotinic. Oxime 1,1′-methylenebis[4-[(hydroxyimino)methyl]-pyridinium] dibromide, hay MMB-4, dường như có hiệu quả hơn 2-PAM trong việc chống lại nhiều loại tác nhân thần kinh và sẽ thay thế 2-PAM cho mục đích sử dụng của quân đội Hoa Kỳ trong vài năm tới.
+
+Đối với điều trị trong quân sự, trước khi nhập viện và thương vong hàng loạt, thường sử dụng máy tiêm tự động để tiêm bắp; mỗi loại chứa 2,1 mg atropine và 600 mg 2-PAM. Thuốc được tiêm vào bụng của cơ lớn (ví dụ: đùi) trước khi thiết lập đường truyền tĩnh mạch. Một đường truyền tĩnh mạch được đặt, liều tiếp theo được dùng qua đường tĩnh mạch.
+
+Bệnh nhân người lớn bị khó thở đáng kể hoặc có ảnh hưởng toàn thân cần nhanh chóng dùng ba liều atropine 2,0 mg (nếu tiêm tĩnh mạch) hoặc 2,1 mg (nếu sử dụng dụng cụ tiêm tự động) và ba liều 2-PAM 600 mg ngay sau đó là một loại thuốc benzodiazepine. Midazolam đã thay thế diazepam làm thuốc được ưu tiên vì midazolam được hấp thu tốt hơn khi tiêm bắp, nhưng có thể sử dụng tùy theo tình trạng sẵn có. Cả hai đều được dùng với liều 10 mg khi điều trị ngộ độc chất độc thần kinh.
+
+Bệnh nhân có các dấu hiệu và triệu chứng ít nghiêm trọng hơn có thể được dùng bộ dụng cụ tự tiêm kết hợp (atropine và 2-PAM) lặp lại trong 3 phút đến 5 phút nếu các triệu chứng chưa thuyên giảm; benzodiazepine không được dùng tự động trừ khi cần dùng 3 dụng cụ tự động tiêm cùng một lúc.
+
+Đối với tất cả bệnh nhân cần dùng atropine, liều atropine bổ sung 2 mg được dùng 2 phút đến 3 phút một lần cho đến khi các tác dụng muscarinic (sức cản đường thở, tiết dịch) được giải quyết. Có thể bổ sung thêm liều 600mg 2-PAM theo giờ theo nhu cầu để kiểm soát hiệu ứng cơ xương (co giật, sẹo lồi, yếu, liệt). Các liều thuốc bổ benzodiazepine được bổ sung khi cần thiết. Lưu ý rằng bệnh nhân bị liệt có thể bị co giật kể cả khi không thấy cơn giật cơ. Chuyển tiếp sang dùng đường tĩnh mạch nên được thực hiện ngay khi có cơ hội. Liều dùng được điều chỉnh xuống thấp cho trẻ em.
+
+Các tác nhân dòng A khó điều trị khi nạn nhân đã rơi vào cơn khủng hoảng cholinergic; cần điều trị tích cực bằng atropine và oxime cùng với scopolamine 1 mg tiêm tĩnh mạch (
+
+1
+
+). Trong giai đoạn tiềm ẩn, nạn nhân cần được khử nhiễm hoàn toàn càng sớm càng tốt, mặc dù việc khử nhiễm, đặc biệt là bằng RSDL (chất khử nhiễm da phản ứng có chứa muối kali của 2,3-butanedione monoxime [DAM]; bản thân DAM; dung môi của polyethylene glycol monomethyl ether [MPEG]; và nước), có thể có hiệu quả ngay cả sau 1 giờ hoặc 2 giờ sau khi tiếp xúc. Nhịp tim, nhiệt độ cơ thể và mức độ acetylcholinesterase (AChE) cần được theo dõi (
+
+1, 2
+
+). (Xem thêm
+
+Fourth Generation Agents at Chemical Hazard Emergency Medical Management [CHEMM]
+
+.)
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Charejoo A, Arabfard M, Jafari A, Nourian YH
+
+. A complete, evidence-based review on Novichok poisoning based on epidemiological aspects and clinical management.
+
+Front Toxicol.
+
+2023;4:1004705. Xuất bản ngày 25 tháng 1 năm 2023. doi:10.3389/ftox.2022.1004705
+
+2.
+
+Vale JA, Marrs TC OBE, Maynard RL CBE
+
+. Novichok: a murderous nerve agent attack in the UK.
+
+Clin Toxicol (Phila)
+
+. 2018;56(11):1093-1097. doi:10.1080/15563650.2018.1469759
+
+3.
+
+Steindl D, Boehmerle W, Körner R, et al
+
+. Novichok nerve agent poisoning.
+
+Lancet
+
+. 2021;397(10270):249-252. doi:10.1016/S0140-6736(20)32644-1
+
+Ngăn ngừa thương tổn thần kinh do chiến tranh hóa học
+
+Nếu dự đoán tiếp xúc với chất độc thần kinh, nên cân nhắc điều trị trước bằng pyridostigmine bromide 30 mg đường uống, 8 giờ một lần (
+
+1
+
+). Hợp chất này là một anticholinesterase có thể đảo ngược. Bởi vì pyridostigmine kết hợp thuận nghịch với acetylcholinesterase, nó thực sự bảo vệ enzyme khỏi sự ức chế về cơ bản không thể đảo ngược bằng các chất dẫn truyền thần kinh sau đó; sau khi liên kết thuận nghịch bị phá vỡ, cholinesterase được giải phóng có thể giúp thủy phân dư thừa acetylcholine trong cơ quan đích.
+
+Pyridostigmine ban đầu được dùng để tiếp xúc với tác nhân thần kinh nhanh lão hóa soman (GD) nhưng bây giờ được cho là tiền xử lý cho tất cả các tác nhân thần kinh G-, V- và A. Do đó, cũng có thể có ý nghĩa khi sử dụng pyridostigmine trong thời gian dài tiềm ẩn sau khi nghi ngờ tiếp xúc với các thuốc nhóm A.  Tuy nhiên, vì pyridostigmine cũng là thuốc ức chế acetylcholinesterase nên không nên dùng thuốc này sau khi cơn cholinergic khởi phát hoặc ngay cả khi nhịp tim hoặc nhiệt độ cơ thể giảm
+
+>
+
+25% so với giá trị ở lần khám ban đầu trong giai đoạn tiềm ẩn; những bệnh nhân như vậy nên được điều trị cơn cholinergic bằng atropine và 2-PAM chloride.
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Madsen, James M. et al
+
+. Clinical Considerations in the Use of Pyridostigmine Bromide as Pretreatment for Nerve-Agent Exposure. (2003).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của thương tổn chiến tranh hóa học thần kinh ---
+
+Các tác nhân thần kinh ức chế men acetylcholinesterase (AChE), làm thủy phân chất dẫn truyền thần kinh acetylcholine (ACh) một khi ACh hết sẽ kích hoạt các thụ thể trong neuron, cơ và tuyến. Ức chế AChE dẫn đến dư thừa ACh ở tất cả các thụ thể của chất này (khủng hoảng cholinergic), đầu tiên gây ra gia tăng hoạt động của mô bị ảnh hưởng, sau đó cuối cùng ở hệ thần kinh trung ương và cơ xương do mô bị mỏi và suy yếu. Các tác nhân thần kinh ức chế cả thụ thể ACh muscarinic và nicotinic. Các thụ thể Muscarinic ACh có trong hệ thống thần kinh trung ương (CNS), hạch thần kinh thực vật, sợi cơ trơn và các tuyến ngoại tiết; thụ thể nicotinic ACh có trong cơ xương.Sự ràng buộc của tác nhân thần kinh đến AChE chủ yếu là không thể đảo ngược nếu không điều trị; điều trị với oxime có thể tái tạo enzyme cũng như các liên kết không gây mất ổn định hơn nữa (một quá trình được gọi là lão hóa) theo thời gian. Hầu hết các chất độc thần kinh, như thuốc trừ sâu OP, phải mất hàng giờ để đạt được độ tuổi đầy đủ, nhưng GD (soman) có thể chỉ mất khoảng 10 phút.
+
+--- 2. Các triệu chứng và dấu hiệu của thương tổn thần kinh do chiến tranh hóa học ---
+
+Các biểu hiện lâm sàng phụ thuộc vào trạng thái của tác nhân, đường tiếp xúc, và liều.Tiếp xúc hơi độc với mặt gây ra các hiệu ứng tại chỗ như sụp mi, chảy nước mũi, và co thắt phế quản trong vài giây, tiến triển đến toàn bộ các biểu hiện toàn thân của cường cholinergic.Tuy nhiên, hít phải hơi có thể gây trụy mạch trong vài giây.Phơi nhiễm da với chất lỏng trước tiên gây ra các ảnh hưởng tại chỗ (co giật cục bộ, máy cơ, ra mồ hôi). Các tác động toàn thân xảy ra sau một thời gian tiềm ẩn có thể kéo dài tới 18 giờ sau khi tiếp xúc với một giọt rất nhỏ của chất độc thần kinh dòng G hoặc V; thậm chí liều gây tử vong thường mất đến 20 đến 30 phút để gây ra các triệu chứng và dấu hiệu, có thể bao gồm đột ngột ngã quỵ và co giật mà không có dấu hiệu báo trước. Tiếp xúc da với tác nhân lỏng dòng A có thời gian tiềm ẩn kéo dài từ vài giờ đến 1 ngày hoặc 2 ngày.Bệnh nhân có các thành phần hoặc toàn bộ nhiễm độc cholinergic, hoặc cholinergic (xem bảngHội chứng nhiễm độc thường gặpvàTriệu chứng và điều trị các chất độc cụ thể). Kích thích quá mức và sự mệt mỏi sau đó của hệ thần kinh trung ương dẫn đến sự kích động, hoang mang, bất tỉnh và động kinh, tiến triển thành thất bại của trung tâm hô hấp tại hành tủy. Kích thích quá mức và sự mỏi mệt cuối cùng của các cơ vân tạo ra các sự co giật và máy cơ dẫn đến sự suy nhược và tê liệt. Kích thích quá mức cơ trơn có hoạt tính cholinergic dẫn đến sụp mi, co thắt phế quản và tăng co thắt ruột (với buồn nôn, nôn ói, và chuột rút), và quá mức kích thích các tuyến ngoại tiết gây tăng tiết quá nhiều nước mắt, nước mũi, nước bọt, dịch phế quản, dịch tiêu hóa và vã mồ hôi. Tử vong thường do ngưng thở trung ương, nhưng liệt trực tiếp cơ hoành, co thắt phế quản, và tăng tiết phế quản cũng có thể góp phần.Các ảnh hưởng lâu dài về thần kinh và hành vi thần kinh cũng có thể xảy ra và bao gồm một hội chứng được gọi là rối loạn tâm thần kinh mạn tính do organophosphate gây ra và bệnh thần kinh mạn tính do organophospho-ester gây ra.
+
+--- 3. Chẩn đoán thương tổn thần kinh hóa học-chiến tranh ---
+
+Đánh giá lâm sàngChẩn đoán dựa vào lâm sàng, mặc dù xét nghiệm cholinesterase hồng cầu hoặc nồng độ cholinesterase huyết tương cũng như các xét nghiệm chuyên biệt hơn có thể khẳng định tiếp xúc với chất thần kinh.Phân loại bệnh nhânTất cả những người có chất lỏng đáng ngờ trên da của họ cần được ưu tiên để khử nhiễm ngay lập tức những vùng bị ảnh hưởng. Bệnh nhân sau đó được phân loại để điều trị dựa trên các triệu chứng và dấu hiệu của họ. Tất cả các bệnh nhân tiếp xúc với các tác nhân thần kinh có khó thở đáng kể hoặc có ảnh hưởng toàn thân được điều trị ngay lập tức.
+
+--- 4. Điều trị thương tổn thần kinh do chiến tranh hóa học ---
+
+Thuốc kháng cholinergic (ví dụ: atropine)Chất tái hoạt oxy (ví dụ, 2-PAM, MMB-4)Nhóm benzodiazepineHỗ trợ hô hấp khi cần thiếtChú ý đếnAirway (đường thở),Breathing (hô hấp),Circulation (tuần hoàn), ImmediateDecontamination (ngay lập tức khử nhiễm) vàDrugs (thuốc) (ABCDD) là điều tối quan trọng. Co thắt phế quản có thể nặng đến mức không thể thông khí cho đến khi dùng atropine (xem bảngTriệu chứng và điều trị các chất độc cụ thể). Đường thở, hô hấp và tuần hoàn được đề cập theo cách tiêu chuẩn, như đã thảo luận trongHồi sức tim phổi (CPR) ở người lớn.Loại bỏ chất độcKhử trùng mọi chất lỏng đáng ngờ trên da càng sớm càng tốt. Có thể sử dụng dung dịch hypochlorite 0,5%, cũng như xà phòng và nước. Các vết thương có thể bị ô nhiễm cần được kiểm tra, loại bỏ tất cả các mảnh vụn, và xối rửa nhiều nước hoặc nước muối. Triệu chứng nghiêm trọng và tử vong có thể xảy ra sau khi khử nhiễm da bởi vì khử nhiễm có thể không loại bỏ hoàn toàn các tác nhân thần kinh truyền qua da.Điều trị bằng thuốcTại Hoa Kỳ, 2 loại thuốc được dùng:Atropine2-pyridin aldoxime metyl clorua (2-PAM – còn gọi là pralidoxime).Atropine ngăn chặn hoạt tính của ACh. 2-PAM kích hoạt lại AChE đã bị phosphoryl hoá bởi các tác nhân thần kinh (hoặc thuốc trừ sâu OP) nhưng chưa bị lão hóa. Do atropine chỉ tác động lên thụ thể muscarinic ACh nên 2-PAM cũng cần thiết để đảo ngược các tác dụng (ví dụ: co giật, suy nhược cơ hô hấp và liệt) ở cơ xương có chứa thụ thể nicotinic. Oxime 1,1′-methylenebis[4-[(hydroxyimino)methyl]-pyridinium] dibromide, hay MMB-4, dường như có hiệu quả hơn 2-PAM trong việc chống lại nhiều loại tác nhân thần kinh và sẽ thay thế 2-PAM cho mục đích sử dụng của quân đội Hoa Kỳ trong vài năm tới.Đối với điều trị trong quân sự, trước khi nhập viện và thương vong hàng loạt, thường sử dụng máy tiêm tự động để tiêm bắp; mỗi loại chứa 2,1 mg atropine và 600 mg 2-PAM. Thuốc được tiêm vào bụng của cơ lớn (ví dụ: đùi) trước khi thiết lập đường truyền tĩnh mạch. Một đường truyền tĩnh mạch được đặt, liều tiếp theo được dùng qua đường tĩnh mạch.Bệnh nhân người lớn bị khó thở đáng kể hoặc có ảnh hưởng toàn thân cần nhanh chóng dùng ba liều atropine 2,0 mg (nếu tiêm tĩnh mạch) hoặc 2,1 mg (nếu sử dụng dụng cụ tiêm tự động) và ba liều 2-PAM 600 mg ngay sau đó là một loại thuốc benzodiazepine. Midazolam đã thay thế diazepam làm thuốc được ưu tiên vì midazolam được hấp thu tốt hơn khi tiêm bắp, nhưng có thể sử dụng tùy theo tình trạng sẵn có. Cả hai đều được dùng với liều 10 mg khi điều trị ngộ độc chất độc thần kinh.Bệnh nhân có các dấu hiệu và triệu chứng ít nghiêm trọng hơn có thể được dùng bộ dụng cụ tự tiêm kết hợp (atropine và 2-PAM) lặp lại trong 3 phút đến 5 phút nếu các triệu chứng chưa thuyên giảm; benzodiazepine không được dùng tự động trừ khi cần dùng 3 dụng cụ tự động tiêm cùng một lúc.Đối với tất cả bệnh nhân cần dùng atropine, liều atropine bổ sung 2 mg được dùng 2 phút đến 3 phút một lần cho đến khi các tác dụng muscarinic (sức cản đường thở, tiết dịch) được giải quyết. Có thể bổ sung thêm liều 600mg 2-PAM theo giờ theo nhu cầu để kiểm soát hiệu ứng cơ xương (co giật, sẹo lồi, yếu, liệt). Các liều thuốc bổ benzodiazepine được bổ sung khi cần thiết. Lưu ý rằng bệnh nhân bị liệt có thể bị co giật kể cả khi không thấy cơn giật cơ. Chuyển tiếp sang dùng đường tĩnh mạch nên được thực hiện ngay khi có cơ hội. Liều dùng được điều chỉnh xuống thấp cho trẻ em.Các tác nhân dòng A khó điều trị khi nạn nhân đã rơi vào cơn khủng hoảng cholinergic; cần điều trị tích cực bằng atropine và oxime cùng với scopolamine 1 mg tiêm tĩnh mạch (1). Trong giai đoạn tiềm ẩn, nạn nhân cần được khử nhiễm hoàn toàn càng sớm càng tốt, mặc dù việc khử nhiễm, đặc biệt là bằng RSDL (chất khử nhiễm da phản ứng có chứa muối kali của 2,3-butanedione monoxime [DAM]; bản thân DAM; dung môi của polyethylene glycol monomethyl ether [MPEG]; và nước), có thể có hiệu quả ngay cả sau 1 giờ hoặc 2 giờ sau khi tiếp xúc. Nhịp tim, nhiệt độ cơ thể và mức độ acetylcholinesterase (AChE) cần được theo dõi (1, 2). (Xem thêmFourth Generation Agents at Chemical Hazard Emergency Medical Management [CHEMM].)Tài liệu tham khảo về điều trị1.Charejoo A, Arabfard M, Jafari A, Nourian YH. A complete, evidence-based review on Novichok poisoning based on epidemiological aspects and clinical management.Front Toxicol.2023;4:1004705. Xuất bản ngày 25 tháng 1 năm 2023. doi:10.3389/ftox.2022.10047052.Vale JA, Marrs TC OBE, Maynard RL CBE. Novichok: a murderous nerve agent attack in the UK.Clin Toxicol (Phila). 2018;56(11):1093-1097. doi:10.1080/15563650.2018.14697593.Steindl D, Boehmerle W, Körner R, et al. Novichok nerve agent poisoning.Lancet. 2021;397(10270):249-252. doi:10.1016/S0140-6736(20)32644-1
+
+--- 5. Ngăn ngừa thương tổn thần kinh do chiến tranh hóa học ---
+
+Nếu dự đoán tiếp xúc với chất độc thần kinh, nên cân nhắc điều trị trước bằng pyridostigmine bromide 30 mg đường uống, 8 giờ một lần (1). Hợp chất này là một anticholinesterase có thể đảo ngược. Bởi vì pyridostigmine kết hợp thuận nghịch với acetylcholinesterase, nó thực sự bảo vệ enzyme khỏi sự ức chế về cơ bản không thể đảo ngược bằng các chất dẫn truyền thần kinh sau đó; sau khi liên kết thuận nghịch bị phá vỡ, cholinesterase được giải phóng có thể giúp thủy phân dư thừa acetylcholine trong cơ quan đích.Pyridostigmine ban đầu được dùng để tiếp xúc với tác nhân thần kinh nhanh lão hóa soman (GD) nhưng bây giờ được cho là tiền xử lý cho tất cả các tác nhân thần kinh G-, V- và A. Do đó, cũng có thể có ý nghĩa khi sử dụng pyridostigmine trong thời gian dài tiềm ẩn sau khi nghi ngờ tiếp xúc với các thuốc nhóm A.  Tuy nhiên, vì pyridostigmine cũng là thuốc ức chế acetylcholinesterase nên không nên dùng thuốc này sau khi cơn cholinergic khởi phát hoặc ngay cả khi nhịp tim hoặc nhiệt độ cơ thể giảm>25% so với giá trị ở lần khám ban đầu trong giai đoạn tiềm ẩn; những bệnh nhân như vậy nên được điều trị cơn cholinergic bằng atropine và 2-PAM chloride.Tài liệu tham khảo về phòng ngừa1.Madsen, James M. et al. Clinical Considerations in the Use of Pyridostigmine Bromide as Pretreatment for Nerve-Agent Exposure. (2003).
