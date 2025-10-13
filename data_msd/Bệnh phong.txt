@@ -1,0 +1,569 @@
+TIÊU ĐỀ: Bệnh phong
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/mycobacteria/bệnh-phong
+================================================================================
+
+NỘI DUNG:
+
+Bệnh phong
+
+(Bệnh Hansen, Bệnh Hansen)
+
+Theo
+
+Edward A. Nardell
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2022
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1011452_vi
+
+Bệnh phong là một bệnh nhiễm trùng mãn tính thường do trực khuẩn ưa axit
+
+Mycobacterium leprae
+
+hoặc sinh vật có liên quan chặt chẽ
+
+M. lepromatosis
+
+gây ra. Những sinh vật này có hướng tính độc nhất đối với các dây thần kinh ngoại vi, da và màng nhầy của đường hô hấp trên. Triệu chứng là rất đa dạng và bao gồm nhiều loại hình tổn thương da và bệnh lý thần kinh ngoại vi. Chẩn đoán lâm sàng và được khẳng định bằng sinh thiết. Điều trị thường là bằng dapsone cùng với các loại thuốc chống vi khuẩn khác. Bệnh nhân nhanh chóng trở nên không lây sau khi bắt đầu điều trị.
+
+Dịch tễ học
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+M. leprae
+
+là nguyên nhân gây ra bệnh phong duy nhất cho đến năm 2008, khi một loài thứ hai,
+
+M. lepromatosis
+
+được xác định ở Mexico. Cùng với nhau, hai sinh vật này được gọi là phức hợp
+
+M. leprae
+
+.
+
+Ở nhiều nơi trên thế giới, bệnh phong rất hiếm gặp. Đây là một bệnh nhiễm trùng phức tạp, chưa hiểu biết rõ và khó nghiên cứu.
+
+Mặc dù bệnh phong không lây nhiễm cao (trái với suy nghĩ thông thường), hiếm khi gây tử vong và có thể được điều trị hiệu quả bằng thuốc kháng sinh, nhưng bệnh vẫn tiếp tục gây ra sự kỳ thị xã hội đáng kể. Sự hiểu lầm về bệnh có thể tồn tại bởi vì bệnh phong là không thể chữa khỏi trước khi sự ra đời của liệu pháp kháng sinh hiệu quả vào những năm 1940. Những người mắc bệnh sẽ bị biến dạng và thường bị khuyết tật nghiêm trọng, làm cho họ sợ và tránh xa người khác. Vì sự kỳ thị xã hội này, tác động tâm lý của bệnh phong là rất nghiêm trọng.
+
+Dịch tễ học bệnh phong
+
+Trên toàn cầu, số ca bệnh phong đang giảm. Vào năm 2020, khoảng 130.000 trường hợp mắc mới đã được báo cáo, và khoảng 73% trường hợp xảy ra ở Ấn Độ, Brazil và Indonesia (
+
+1
+
+).
+
+Năm 2020, 159 trường hợp mới được báo cáo ở Mỹ; khoảng ba phần tư xảy ra ở 6 tiểu bang: California, Florida, Hawaii, Louisiana, New York, and Texas (
+
+2
+
+). Hầu hết các trường hợp mắc bệnh phong ở Hoa Kỳ liên quan đến những người di cư từ hoặc làm việc tại các quốc gia nơi thường có bệnh phong. Hầu hết các trường hợp mắc phải ở bản địa liên quan đến những người sống ở các bang miền nam, nơi tìm thấy những con giáp chín dải với các kiểu gen độc nhất của
+
+M. leprae
+
+. Những kiểu gen độc đáo này được tìm thấy ở những bệnh nhân Hoa Kỳ có khả năng mắc bệnh phong ở Hoa Kỳ, và nhiều bệnh nhân trong số này cho biết đã tiếp xúc trực tiếp với armadillos (
+
+3
+
+).
+
+Bệnh phong có thể phát sinh ở mọi lứa tuổi. Tuổi cao là một yếu tố nguy cơ, nhưng bệnh thường xảy ra nhất ở những người từ 5 đến 15 tuổi hoặc
+
+>
+
+30 tuổi.
+
+Tài liệu tham khảo về dịch tễ học
+
+1.
+
+World Health Organization (WHO):
+
+Bệnh phong (bệnh Hansen). Đã truy cập ngày 26 tháng 4 năm 2022.
+
+2.
+
+Health Resources and Services Administration:
+
+National Hansen's Disease (Leprosy) Program Caring and Curing Since 1894. Đã truy cập ngày 26 tháng 4 năm 2022.
+
+3.
+
+Truman RW, Singh P, Sharma R, et al
+
+: Probable zoonotic leprosy in the southern United States.
+
+N Engl J Med
+
+364(17):1626–1633, 2011. doi: 10.1056/NEJMoa1010536
+
+Sinh lý bệnh của bệnh phong
+
+Con người là vật chủ chính tự nhiên cho
+
+M. leprae
+
+. Armadillos là nguồn duy nhất được xác nhận khác với con người, mặc dù ở các động vật và môi trường khác cũng có thể có.
+
+Bệnh ho gà được cho là lan truyền từ người này sang người khác thông qua các giọt dịch và chất bài tiết. Tiếp xúc thông thường (ví dụ, chỉ cần chạm vào ai đó nhiễm bệnh) và tiếp xúc ngắn hạn dường như không lây lan bệnh đó. Khoảng một nửa số người bị bệnh phong có thể bị nhiễm bệnh qua tiếp xúc gần gũi và lâu dài với một người bị bệnh. Ngay cả sau khi tiếp xúc với vi khuẩn, hầu hết mọi người không mắc bệnh phong; nhân viên chăm sóc sức khoẻ thường làm việc nhiều năm với những người bị bệnh phong mà không bị bệnh đó. Hầu hết những người có khả năng miễn dịch bị nhiễm
+
+M. leprae
+
+không phát triển thành bệnh phong vì có miễn dịch hiệu quả. Những người phát triển thành bệnh phong có thể có một khuynh hướng di truyền không được xác định.
+
+M. leprae
+
+phát triển chậm (tăng gấp đôi trong 2 tuần). Thời kỳ ủ bệnh thông thường từ 6 tháng đến 10 năm. Khi nhiễm trùng phát triển, có thể xảy ra hiện tượng lan truyền trong máu.
+
+Phân loại bệnh phong
+
+Bệnh phong được phân loại theo loại và số vùng da bị ảnh hưởng:
+
+Nhóm ít vi khuẩn
+
+≤
+
+5 tổn thương da không có vi khuẩn phát hiện trên mẫu từ những khu vực này
+
+Nhóm nhiều vi khuẩn:
+
+≥
+
+6 tổn thương da, vi khuẩn được phát hiện trên các mẫu từ tổn thương da, hoặc cả hai
+
+Bệnh phong cũng được phân loại theo đáp ứng tế bào và kết quả lâm sàng:
+
+Thể củ
+
+Thể phong
+
+Ranh giới
+
+Những người bị bệnh phong do lao thường có phản ứng trung gian tế bào mạnh mẽ, điều này giới hạn bệnh ở một số tổn thương da (vùng da dưới da) và bệnh nhẹ hơn, ít phổ biến hơn và ít lây lan hơn.
+
+Người bị phong củ điển hình có phản ứng trung gian tế bào mạnh, làm hạn chế bệnh tật tới một vài tổn thương da (bạch cầu), và bệnh nhẹ, ít phổ biến, và ít gây nhiễm hơn Những người bị phong u hay phong trung gian thường có chức năng miễn dịch qua trung gian tế bào kém với
+
+M. leprae
+
+và có nhiễm trùng nghiêm trọng hơn, nhiễm trùng hệ thống với sự lan truyền và xâm nhập vi khuẩn vào da, dây thần kinh, và các cơ quan khác (ví dụ như mũi, tinh hoàn, thận). Họ có nhiều tổn thương da (đa vi khuẩn), và dễ lây hơn.
+
+Trong cả hai phân loại, loại bệnh phong
+
+Tiên lượng lâu dài
+
+Các biến chứng có thể xảy ra
+
+Điều trị kháng sinh
+
+Các triệu chứng và dấu hiệu của bệnh phong
+
+Các triệu chứng của bệnh phong thường không bắt đầu cho đến
+
+>
+
+1 năm sau khi nhiễm bệnh (trung bình 5 đến 7 năm). Một khi các triệu chứng bắt đầu, chúng tiến triển chậm.
+
+Bệnh phong củ
+
+Hình ảnh
+
+CNRI/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Bệnh phong thể u
+
+Hình ảnh
+
+ST MARY'S HOSPITAL MEDICAL SCHOOL/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Bệnh phong thường ảnh hưởng chính đến da và thần kinh ngoại vi. Các thần kinh ngoại vi liên quan thường bị tê bì và yếu ở những vùng mà chúng kiểm soát.
+
+Bệnh phong củ:
+
+Các tổn thương da bao gồm một hoặc một vài vùng giảm cảm giác, vùng da trung tâm sáng màu hơn có giới hạn rõ ràng. Phát ban, như trong tất cả các hình thức của bệnh phong, là không ngứa. Các vùng bị ảnh hưởng bởi sự phát ban này bị tê vì tổn thương các sợi thần kinh dưới da, có thể lan rộng.
+
+Bệnh phong thể u:
+
+Hầu hết da và nhiều vùng trên cơ thể, bao gồm thận, mũi, tinh hoàn, đều có thể bị ảnh hưởng. Bệnh nhân có tổn thương da, vảy, nốt hoặc mảng bám, thường là đối xứng. Bệnh lý thần kinh ngoại biên nặng hơn bệnh phong củ, với nhiều vùng tê bì; một số nhóm cơ có thể yếu. Bệnh nhân có thể bị chứng vú to ở đàn ông hoặc mất lông mi và lông mày.
+
+Bệnh Phong trung gian:
+
+Các bệnh cảnh của cả bệnh phong củ và phong u đều có mặt. Nếu không điều trị, bệnh Phong trung gian có thể trở nên ít trầm trọng hơn và giống với dạng bệnh củ, hoặc có thể trở nên tồi tệ hơn và trở nên giống với dạng phong u hơn.
+
+Các biến chứng của bệnh phong
+
+Các biến chứng nghiêm trọng nhất là do bệnh lý thần kinh ngoại vi gây ra sự suy giảm cảm giác đụng chạm và không có khả năng cảm thấy đau và nhiệt độ Bệnh nhân có thể vô tình đốt, cắt, hoặc tự hại bản thân. Bệnh nhân có thể vô tình đốt, cắt, hoặc tự làm hại mình. Thiệt hại nhiều lần có thể dẫn đến mất chữ số. Sự phá hủy lặp lại nhiều lần có thể dẫn đến mất ngón tay, ngón chân Sự yếu cơ có thể dẫn đến dị dạng (ví dụ, bàn tay vuốt trụ ở ngón 4 và 5 do tổn thương thần kinh trụ, hoặc bàn chân rơi do tổn thương thần kinh mác).
+
+Các biến chứng của bệnh phong (tay)
+
+Dấu các chi tiết
+
+Bức ảnh này cho thấy các ngón bị cắt và thoái hóa nghiêm trọng ở một bệnh nhân bị bệnh phong.
+
+Hình ảnh do Arthur E. Kaye cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Nốt sần hoặc cục có thể gây biến dạng mặt.
+
+Các biến chứng của bệnh phong (mũi)
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Andre J. Lebrun cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Các khu vực khác của cơ thể có thể bị ảnh hưởng:
+
+Đôi chân:
+
+Loét bàn chân với nhiễm trùng thứ phát là nguyên nhân chính gây bệnh, gây đau đớn khi đi bộ.
+
+Mũi:
+
+Phá hủy niêm mạc mũi có thể gây xung huyết và chảy máu mũi mạn tính, và nếu không được điều trị, có thể ăn mòn và sụp đổ của vách ngăn mũi.
+
+Mắt:
+
+Viêm mống mắt có thể dẫn đến
+
+tăng nhãn áp
+
+, và mất cảm giác giác mạc có thể dẫn đến sẹo và mù lòa.
+
+Chức năng tình dục:
+
+Những người bị bệnh phong có thể có rối loạn cương dương và vô sinh. Nhiễm trùng có thể làm giảm
+
+testosterone
+
+và giảm khả năng sản xuất tinh trùng của tinh hoàn.
+
+Thận:
+
+Thoái hóa dạng tinh bột
+
+và hậu quả
+
+suy thận
+
+đôi khi xảy ra trong bệnh phong cùi.
+
+Phản ứng phong
+
+Trong suốt quá trình điều trị không được điều trị hoặc thậm chí điều trị bệnh phong, hệ thống miễn dịch có thể gây phản ứng viêm. Có 2 loại.
+
+Phản ứng loại 1 của bệnh phong
+
+là kết quả của sự gia tăng miễn dịch qua trung gian tế bào. Những phản ứng này có thể gây ra sốt và viêm da trước đây và các tổn thương thần kinh ngoại biên, dẫn đến da bị phù, đỏ da, và phồng rộp và làm xấu đi chức năng thần kinh. Những phản ứng này, đặc biệt nếu không được điều trị sớm, gây phá hủy đáng kể thần kinh. Bởi vì phản ứng miễn dịch tăng lên, các phản ứng này được gọi là phản ứng đảo ngược, mặc dù lâm sàng nặng hơn.
+
+Phản ứng loại 2 của bệnh phong
+
+(viêm quầng sần u, hoặc ENL) là các phản ứng viêm hệ thống biểu hiện như viêm mạch hoặc viêm lớp mỡ da và có thể liên quan đến sự lắng đọng phức hợp miễn dịch tuần hoàn hoặc tăng chức năng của tế bào T hỗ trợ. Chúng trở nên ít phổ biến hơn từ khi clofazimine được bổ sung vào phác đồ thuốc. Bệnh nhân có thể xuất hiện các nốt sưng đỏ hoặc đau có thể tạo thành nhọt, loét và gây sốt, viêm dây thần kinh, viêm hạch bạch huyết, viêm tinh hoàn, viêm khớp (đặc biệt là các khớp lớn, thường là khớp đầu gối) và viêm cầu thân. Tan máu hoặc ức chế tủy xương có thể gây thiếu máu và viêm gan dẫn đến gây bất thường nhẹ khi xét nghiệm về gan.
+
+Chẩn đoán bệnh phong
+
+Xét nghiệm vi sinh vật trên bệnh phẩm sinh thiết da
+
+Chẩn đoán bệnh phong thường bị trì hoãn ở Hoa Kỳ bởi vì các bác sĩ lâm sàng không quen với các biểu hiện lâm sàng.
+
+Bệnh phong được gợi ý bởi sự có mặt của các tổn thương da và bệnh lý thần kinh ngoại vi và được khẳng định qua xét nghiệm soi trực tiếp các mẫu sinh thiết. Vi sinh vật
+
+M. leprae
+
+và
+
+M. lepromatosis
+
+không phát triển trên môi trường nhân tạo. Các mẫu sinh thiết phải được lấy từ mảng tiến triển của các tổn thương phong củ hoặc phong u, từ nốt hoặc mảng bám.
+
+Nhuộm Ziehl-Neelsen (
+
+Mycobacterium leprae
+
+)
+
+Hình ảnh
+
+WEBPATHLOGY/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+IgM huyết thanh kháng thể
+
+M. leprae
+
+là đặc hiệu nhưng không nhạy cảm (chỉ có ở 2/3 bệnh nhân phong lao). Khả năng chẩn đoán còn hạn chế ở các vùng dịch lưu hành vì các kháng thể như vậy có thể có trong nhiễm trùng không triệu chứng.
+
+Điều trị bệnh phong
+
+Phác đồ phối hợp thuôc dài hạn với dapsone, rifampin, và đôi khi clofazimine
+
+Đôi khi kháng sinh được duy trì suốt đời
+
+Thuốc kháng sinh có thể ngăn chặn sự tiến triển của bệnh phong mà không làm hồi phục bất kỳ tổn thương thần kinh hoặc biến dạng. Do đó, phát hiện và điều trị sớm rất quan trọng.
+
+Do vi khuẩn kháng kháng sinh, phác đồ đa thuốc được sử dụng. Các loại thuốc được chọn tùy thuộc vào loại bệnh phong; phong thể nhiều vi khuẩn đòi hỏi các phác đồ điều trị chuyên sâu hơn và thời gian dài hơn so với thể ít vi khuẩn phong.
+
+Lời khuyên về chẩn đoán và điều trị có sẵn từ
+
+Chương trình Quốc gia về Bệnh Hansen (Bệnh phong)
+
+của Cơ quan Quản lý Dịch vụ và Tài nguyên Y tế Hoa Kỳ (hoặc gọi 1-800-642-2477). Các phác đồ tiêu chuẩn do Tổ chức Y tế Thế giới (WHO) khuyến nghị có phần khác so với các phác đồ được sử dụng ở Mỹ (xem
+
+hướng dẫn năm 2018 của WHO về chẩn đoán, điều trị và phòng ngừa bệnh phong
+
+).
+
+Bệnh phong nhiều vi khuẩn
+
+Phác đồ chuẩn của WHO bao gồm
+
+dapsone
+
+,
+
+rifampin
+
+và
+
+clofazimine
+
+. WHO cung cấp các loại thuốc này miễn phí cho tất cả các bệnh nhân phong trên khắp thế giới. Người lớn dùng rifampin 600 mg uống một lần/tháng và clofazimine 300 mg uống một lần/tháng dưới sự giám sát của bác sĩ chăm sóc sức khỏe và dapsone 100 mg uống một lần/ngày cộng với clofazimine 50 mg uống một lần/ngày mà không cần giám sát. Phác đồ này được tiếp tục cho 12 tháng.
+
+Ở Hoa Kỳ, phác đồ độ điều trị là rifampin 600 mg đường uống x 1 lần/ngày, dapsone 100 mg đường uống x 1 lần/ngày và clofazimine 50 mg đường uống x 1 lần/ngày trong 24 tháng.
+
+Bệnh phong ít vi khuẩn
+
+Trong phác đồ tiêu chuẩn của WHO, bệnh nhân dùng rifampin 600 mg uống một lần/tháng với sự giám sát và dapsone 100 mg uống một lần/ngày mà không cần giám sát trong 6 tháng.
+
+Ở Hoa Kỳ, chế độ điều trị là rifampin 600 mg đường uống x 1 lần/ngày và dapsone 100 mg đường uống x 1 lần/ngày trong 12 tháng.
+
+Thuốc điều trị phong
+
+Dapsone
+
+tương đối rẻ và an toàn để sử dụng. Tác dụng ngoại ý bao gồm tan máu và thiếu máu (thường nhẹ) và dị ứng da (có thể nặng); hiếm gặp, hội chứng
+
+dapsone
+
+(viêm da tróc da, sốt cao, tăng bạch cầu đơn nhân) xảy ra.
+
+Rifampin,
+
+chủ yếu dùng diệt khuẩn ban đầu cho
+
+M. leprae
+
+và thậm chí còn hiệu quả hơn
+
+dapsone
+
+. Tuy nhiên, nếu được cho ở liều lượng đề nghị của Mỹ là 600 mg uống một lần/ngày, thì sẽ rất đắt đối với nhiều nước yếu thế hơn. Tác dụng ngoại ý bao gồm nhiễm độc gan, hội chứng giả cúm, và hiếm gặp giảm tiểu cầu và suy thận.
+
+Clofazimine
+
+cực kỳ an toàn. Tác dụng phụ chính là có thể đảo ngược sắc tố da, nhưng sự đổi màu có thể mất nhiều tháng để giải quyết.
+
+Clofazimine
+
+chỉ có thể được cung cấp tại Hoa Kỳ từ Bộ Y tế và Dịch vụ Nhân sinh như một loại thuốc mới điều tra. Để yêu cầu thêm thông tin hoặc tình trạng của điều tra viên để có thể sử dụng
+
+clofazimine
+
+, bác sĩ lâm sàng có thể liên hệ
+
+National Hansen's Disease (Leprosy) Program
+
+theo số 1-800-642-2477.
+
+Phản ứng phong
+
+Bệnh nhân có phản ứng kiểu 1 của bệnh phong (ngoại trừ viêm da tối thiểu) được cho prednisone 40 đến 60 mg uống một lần/ngày ban đầu, tiếp theo là liều duy trì thấp (thường là thấp đến 10 đến 15 mg một lần/ngày) trong một vài tháng. Viêm da tối thiểu không nên điều trị.
+
+Đợt đầu tiên và đợt 2 của hồng ban nút phong có thể được điều trị, nếu nhẹ, bằng aspirin hoặc, nếu đáng kể, với 1 tuần prednisone 40 đến 60 mg uống 1 lần/ngày cộng với thuốc kháng sinh. Đối với các trường hợp tái phát, thalidomide 100 đến 300 mg uống một lần/ngày là thuốc được lựa chọn (ở Hoa Kỳ, được cung cấp thông qua
+
+Chương trình Bệnh Hansen Quốc gia
+
+). Tuy nhiên, vì tính gây quái thai của nó, không nên dùng
+
+thalidomide
+
+cho phụ nữ có thể mang thai. Tác dụng ngoại ý là táo bón nhẹ, giảm bạch cầu nhẹ, và an thần.
+
+Phòng ngừa bệnh phong
+
+Vì bệnh phong không phải là bệnh lây nhiễm nhiều nên nguy cơ lan truyền thấp. Chỉ có phong dạng u không được điều trị có khả năng lây nhiễm, nhưng kể cả nhu thế, nhiễm trùng cũng không dễ dàng lây lan. Tuy nhiên, những người tiếp xúc gần trong gia đình (đặc biệt là trẻ em) của bệnh nhân phong nên được theo dõi để phát hiện các triệu chứng và dấu hiệu của bệnh phong. Một khi điều trị đã bắt đầu, bệnh phong không thể lây lan.
+
+Phòng ngừa tốt nhất là
+
+Tránh tiếp xúc với các chất dịch cơ thể từ và phát ban trên người bị nhiễm bệnh
+
+Vắc xin bacille Calmette-Guérin (BCG), được sử dụng để phòng ngừa bệnh lao (TB), cung cấp một số bảo vệ chống bệnh Phong nhưng thường không được sử dụng cho mục đích đó.
+
+Hướng dẫn năm 2018 của WHO
+
+khuyến nghị dùng một liều rifampicin duy nhất để điều trị dự phòng cho những người tiếp xúc với bệnh nhân phong ≥ 2 tuổi. Phương pháp điều trị này chỉ được thực hiện sau khi bệnh phong và bệnh lao đã được loại trừ và không có chống chỉ định nào khác.
+
+Những điểm chính
+
+Bệnh phong là một bệnh nhiễm trùng mạn tính thường gây ra trực khuẩn kháng axit
+
+Mycobacterium leprae
+
+.
+
+Bệnh phong thường không dễ lây truyền ở bệnh nhân không được điều trị và không hề lây nhiễm khi bắt đầu điều trị.
+
+Bệnh phong thường ảnh hưởng chính đến da và thần kinh ngoại vi.
+
+Các biến chứng nghiêm trọng nhất là do mất cảm giác đụng chạm, đau, và nhiệt độ; yếu cơ có thể dẫn đến dị tật; và làm tổn thương các tổn thương trên da và niêm mạc mũi.
+
+Các phản ứng viêm gọi là phản ứng phong có thể xảy ra và cần điều trị bằng corticosteroid.
+
+Chẩn đoán dựa trên sinh thiết;
+
+M. leprae
+
+và
+
+M. lepromatosis
+
+không thể phát triển khi nuôi cấy.
+
+Việc điều trị tùy thuộc vào dạng bệnh phong nhưng bao gồm các phác đồ đa thuốc thường sử dụng dapsone, rifampin và clofazimine cho nhiều vi khuẩn và
+
+dapsone
+
+và
+
+rifampin
+
+cho ít vi khuẩn.
+
+Thông tin thêm
+
+Sau đây là một số nguồn tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+US Health Resources and Services Administration:
+
+National Hansen’s Disease (Leprosy) Program
+
+(hoặc gọi 1-800-642-2477)
+
+World Health Organization (WHO):
+
+Guidelines for the diagnosis, treatment and prevention of leprosy
+
+(2018)
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh Hansen, Bệnh Hansen) ---
+
+TheoEdward A. Nardell,MD,Harvard Medical SchoolXem xét bởiChristina A. Muzny,MD, MSPH,Division of Infectious Diseases, University of Alabama at BirminghamĐã xem xét/Đã chỉnh sửaThg 7 2022|đã sửa đổiThg 4 2025v1011452_vi
+
+--- 2. Dịch tễ học bệnh phong ---
+
+Trên toàn cầu, số ca bệnh phong đang giảm. Vào năm 2020, khoảng 130.000 trường hợp mắc mới đã được báo cáo, và khoảng 73% trường hợp xảy ra ở Ấn Độ, Brazil và Indonesia (1).Năm 2020, 159 trường hợp mới được báo cáo ở Mỹ; khoảng ba phần tư xảy ra ở 6 tiểu bang: California, Florida, Hawaii, Louisiana, New York, and Texas (2). Hầu hết các trường hợp mắc bệnh phong ở Hoa Kỳ liên quan đến những người di cư từ hoặc làm việc tại các quốc gia nơi thường có bệnh phong. Hầu hết các trường hợp mắc phải ở bản địa liên quan đến những người sống ở các bang miền nam, nơi tìm thấy những con giáp chín dải với các kiểu gen độc nhất củaM. leprae. Những kiểu gen độc đáo này được tìm thấy ở những bệnh nhân Hoa Kỳ có khả năng mắc bệnh phong ở Hoa Kỳ, và nhiều bệnh nhân trong số này cho biết đã tiếp xúc trực tiếp với armadillos (3).Bệnh phong có thể phát sinh ở mọi lứa tuổi. Tuổi cao là một yếu tố nguy cơ, nhưng bệnh thường xảy ra nhất ở những người từ 5 đến 15 tuổi hoặc>30 tuổi.Tài liệu tham khảo về dịch tễ học1.World Health Organization (WHO):Bệnh phong (bệnh Hansen). Đã truy cập ngày 26 tháng 4 năm 2022.2.Health Resources and Services Administration:National Hansen's Disease (Leprosy) Program Caring and Curing Since 1894. Đã truy cập ngày 26 tháng 4 năm 2022.3.Truman RW, Singh P, Sharma R, et al: Probable zoonotic leprosy in the southern United States.N Engl J Med364(17):1626–1633, 2011. doi: 10.1056/NEJMoa1010536
+
+--- 3. Sinh lý bệnh của bệnh phong ---
+
+Con người là vật chủ chính tự nhiên choM. leprae. Armadillos là nguồn duy nhất được xác nhận khác với con người, mặc dù ở các động vật và môi trường khác cũng có thể có.Bệnh ho gà được cho là lan truyền từ người này sang người khác thông qua các giọt dịch và chất bài tiết. Tiếp xúc thông thường (ví dụ, chỉ cần chạm vào ai đó nhiễm bệnh) và tiếp xúc ngắn hạn dường như không lây lan bệnh đó. Khoảng một nửa số người bị bệnh phong có thể bị nhiễm bệnh qua tiếp xúc gần gũi và lâu dài với một người bị bệnh. Ngay cả sau khi tiếp xúc với vi khuẩn, hầu hết mọi người không mắc bệnh phong; nhân viên chăm sóc sức khoẻ thường làm việc nhiều năm với những người bị bệnh phong mà không bị bệnh đó. Hầu hết những người có khả năng miễn dịch bị nhiễmM. lepraekhông phát triển thành bệnh phong vì có miễn dịch hiệu quả. Những người phát triển thành bệnh phong có thể có một khuynh hướng di truyền không được xác định.M. lepraephát triển chậm (tăng gấp đôi trong 2 tuần). Thời kỳ ủ bệnh thông thường từ 6 tháng đến 10 năm. Khi nhiễm trùng phát triển, có thể xảy ra hiện tượng lan truyền trong máu.Phân loại bệnh phongBệnh phong được phân loại theo loại và số vùng da bị ảnh hưởng:Nhóm ít vi khuẩn≤5 tổn thương da không có vi khuẩn phát hiện trên mẫu từ những khu vực nàyNhóm nhiều vi khuẩn:≥6 tổn thương da, vi khuẩn được phát hiện trên các mẫu từ tổn thương da, hoặc cả haiBệnh phong cũng được phân loại theo đáp ứng tế bào và kết quả lâm sàng:Thể củThể phongRanh giớiNhững người bị bệnh phong do lao thường có phản ứng trung gian tế bào mạnh mẽ, điều này giới hạn bệnh ở một số tổn thương da (vùng da dưới da) và bệnh nhẹ hơn, ít phổ biến hơn và ít lây lan hơn.Người bị phong củ điển hình có phản ứng trung gian tế bào mạnh, làm hạn chế bệnh tật tới một vài tổn thương da (bạch cầu), và bệnh nhẹ, ít phổ biến, và ít gây nhiễm hơn Những người bị phong u hay phong trung gian thường có chức năng miễn dịch qua trung gian tế bào kém vớiM. lepraevà có nhiễm trùng nghiêm trọng hơn, nhiễm trùng hệ thống với sự lan truyền và xâm nhập vi khuẩn vào da, dây thần kinh, và các cơ quan khác (ví dụ như mũi, tinh hoàn, thận). Họ có nhiều tổn thương da (đa vi khuẩn), và dễ lây hơn.Trong cả hai phân loại, loại bệnh phongTiên lượng lâu dàiCác biến chứng có thể xảy raĐiều trị kháng sinh
+
+--- 4. Các triệu chứng và dấu hiệu của bệnh phong ---
+
+Các triệu chứng của bệnh phong thường không bắt đầu cho đến>1 năm sau khi nhiễm bệnh (trung bình 5 đến 7 năm). Một khi các triệu chứng bắt đầu, chúng tiến triển chậm.Bệnh phong củHình ảnhCNRI/THƯ VIỆN HÌNH ẢNH KHOA HỌCBệnh phong thể uHình ảnhST MARY'S HOSPITAL MEDICAL SCHOOL/THƯ VIỆN HÌNH ẢNH KHOA HỌCBệnh phong thường ảnh hưởng chính đến da và thần kinh ngoại vi. Các thần kinh ngoại vi liên quan thường bị tê bì và yếu ở những vùng mà chúng kiểm soát.Bệnh phong củ:Các tổn thương da bao gồm một hoặc một vài vùng giảm cảm giác, vùng da trung tâm sáng màu hơn có giới hạn rõ ràng. Phát ban, như trong tất cả các hình thức của bệnh phong, là không ngứa. Các vùng bị ảnh hưởng bởi sự phát ban này bị tê vì tổn thương các sợi thần kinh dưới da, có thể lan rộng.Bệnh phong thể u:Hầu hết da và nhiều vùng trên cơ thể, bao gồm thận, mũi, tinh hoàn, đều có thể bị ảnh hưởng. Bệnh nhân có tổn thương da, vảy, nốt hoặc mảng bám, thường là đối xứng. Bệnh lý thần kinh ngoại biên nặng hơn bệnh phong củ, với nhiều vùng tê bì; một số nhóm cơ có thể yếu. Bệnh nhân có thể bị chứng vú to ở đàn ông hoặc mất lông mi và lông mày.Bệnh Phong trung gian:Các bệnh cảnh của cả bệnh phong củ và phong u đều có mặt. Nếu không điều trị, bệnh Phong trung gian có thể trở nên ít trầm trọng hơn và giống với dạng bệnh củ, hoặc có thể trở nên tồi tệ hơn và trở nên giống với dạng phong u hơn.Các biến chứng của bệnh phongCác biến chứng nghiêm trọng nhất là do bệnh lý thần kinh ngoại vi gây ra sự suy giảm cảm giác đụng chạm và không có khả năng cảm thấy đau và nhiệt độ Bệnh nhân có thể vô tình đốt, cắt, hoặc tự hại bản thân. Bệnh nhân có thể vô tình đốt, cắt, hoặc tự làm hại mình. Thiệt hại nhiều lần có thể dẫn đến mất chữ số. Sự phá hủy lặp lại nhiều lần có thể dẫn đến mất ngón tay, ngón chân Sự yếu cơ có thể dẫn đến dị dạng (ví dụ, bàn tay vuốt trụ ở ngón 4 và 5 do tổn thương thần kinh trụ, hoặc bàn chân rơi do tổn thương thần kinh mác).Các biến chứng của bệnh phong (tay)Dấu các chi tiếtBức ảnh này cho thấy các ngón bị cắt và thoái hóa nghiêm trọng ở một bệnh nhân bị bệnh phong.Hình ảnh do Arthur E. Kaye cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Nốt sần hoặc cục có thể gây biến dạng mặt.Các biến chứng của bệnh phong (mũi)Hình ảnhHình ảnh do bác sĩ Andre J. Lebrun cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Các khu vực khác của cơ thể có thể bị ảnh hưởng:Đôi chân:Loét bàn chân với nhiễm trùng thứ phát là nguyên nhân chính gây bệnh, gây đau đớn khi đi bộ.Mũi:Phá hủy niêm mạc mũi có thể gây xung huyết và chảy máu mũi mạn tính, và nếu không được điều trị, có thể ăn mòn và sụp đổ của vách ngăn mũi.Mắt:Viêm mống mắt có thể dẫn đếntăng nhãn áp, và mất cảm giác giác mạc có thể dẫn đến sẹo và mù lòa.Chức năng tình dục:Những người bị bệnh phong có thể có rối loạn cương dương và vô sinh. Nhiễm trùng có thể làm giảmtestosteronevà giảm khả năng sản xuất tinh trùng của tinh hoàn.Thận:Thoái hóa dạng tinh bộtvà hậu quảsuy thậnđôi khi xảy ra trong bệnh phong cùi.Phản ứng phongTrong suốt quá trình điều trị không được điều trị hoặc thậm chí điều trị bệnh phong, hệ thống miễn dịch có thể gây phản ứng viêm. Có 2 loại.Phản ứng loại 1 của bệnh phonglà kết quả của sự gia tăng miễn dịch qua trung gian tế bào. Những phản ứng này có thể gây ra sốt và viêm da trước đây và các tổn thương thần kinh ngoại biên, dẫn đến da bị phù, đỏ da, và phồng rộp và làm xấu đi chức năng thần kinh. Những phản ứng này, đặc biệt nếu không được điều trị sớm, gây phá hủy đáng kể thần kinh. Bởi vì phản ứng miễn dịch tăng lên, các phản ứng này được gọi là phản ứng đảo ngược, mặc dù lâm sàng nặng hơn.Phản ứng loại 2 của bệnh phong(viêm quầng sần u, hoặc ENL) là các phản ứng viêm hệ thống biểu hiện như viêm mạch hoặc viêm lớp mỡ da và có thể liên quan đến sự lắng đọng phức hợp miễn dịch tuần hoàn hoặc tăng chức năng của tế bào T hỗ trợ. Chúng trở nên ít phổ biến hơn từ khi clofazimine được bổ sung vào phác đồ thuốc. Bệnh nhân có thể xuất hiện các nốt sưng đỏ hoặc đau có thể tạo thành nhọt, loét và gây sốt, viêm dây thần kinh, viêm hạch bạch huyết, viêm tinh hoàn, viêm khớp (đặc biệt là các khớp lớn, thường là khớp đầu gối) và viêm cầu thân. Tan máu hoặc ức chế tủy xương có thể gây thiếu máu và viêm gan dẫn đến gây bất thường nhẹ khi xét nghiệm về gan.
+
+--- 5. Chẩn đoán bệnh phong ---
+
+Xét nghiệm vi sinh vật trên bệnh phẩm sinh thiết daChẩn đoán bệnh phong thường bị trì hoãn ở Hoa Kỳ bởi vì các bác sĩ lâm sàng không quen với các biểu hiện lâm sàng.Bệnh phong được gợi ý bởi sự có mặt của các tổn thương da và bệnh lý thần kinh ngoại vi và được khẳng định qua xét nghiệm soi trực tiếp các mẫu sinh thiết. Vi sinh vậtM. lepraevàM. lepromatosiskhông phát triển trên môi trường nhân tạo. Các mẫu sinh thiết phải được lấy từ mảng tiến triển của các tổn thương phong củ hoặc phong u, từ nốt hoặc mảng bám.Nhuộm Ziehl-Neelsen (Mycobacterium leprae)Hình ảnhWEBPATHLOGY/THƯ VIỆN HÌNH ẢNH KHOA HỌCIgM huyết thanh kháng thểM. lepraelà đặc hiệu nhưng không nhạy cảm (chỉ có ở 2/3 bệnh nhân phong lao). Khả năng chẩn đoán còn hạn chế ở các vùng dịch lưu hành vì các kháng thể như vậy có thể có trong nhiễm trùng không triệu chứng.
+
+--- 6. Điều trị bệnh phong ---
+
+Phác đồ phối hợp thuôc dài hạn với dapsone, rifampin, và đôi khi clofazimineĐôi khi kháng sinh được duy trì suốt đờiThuốc kháng sinh có thể ngăn chặn sự tiến triển của bệnh phong mà không làm hồi phục bất kỳ tổn thương thần kinh hoặc biến dạng. Do đó, phát hiện và điều trị sớm rất quan trọng.Do vi khuẩn kháng kháng sinh, phác đồ đa thuốc được sử dụng. Các loại thuốc được chọn tùy thuộc vào loại bệnh phong; phong thể nhiều vi khuẩn đòi hỏi các phác đồ điều trị chuyên sâu hơn và thời gian dài hơn so với thể ít vi khuẩn phong.Lời khuyên về chẩn đoán và điều trị có sẵn từChương trình Quốc gia về Bệnh Hansen (Bệnh phong)của Cơ quan Quản lý Dịch vụ và Tài nguyên Y tế Hoa Kỳ (hoặc gọi 1-800-642-2477). Các phác đồ tiêu chuẩn do Tổ chức Y tế Thế giới (WHO) khuyến nghị có phần khác so với các phác đồ được sử dụng ở Mỹ (xemhướng dẫn năm 2018 của WHO về chẩn đoán, điều trị và phòng ngừa bệnh phong).Bệnh phong nhiều vi khuẩnPhác đồ chuẩn của WHO bao gồmdapsone,rifampinvàclofazimine. WHO cung cấp các loại thuốc này miễn phí cho tất cả các bệnh nhân phong trên khắp thế giới. Người lớn dùng rifampin 600 mg uống một lần/tháng và clofazimine 300 mg uống một lần/tháng dưới sự giám sát của bác sĩ chăm sóc sức khỏe và dapsone 100 mg uống một lần/ngày cộng với clofazimine 50 mg uống một lần/ngày mà không cần giám sát. Phác đồ này được tiếp tục cho 12 tháng.Ở Hoa Kỳ, phác đồ độ điều trị là rifampin 600 mg đường uống x 1 lần/ngày, dapsone 100 mg đường uống x 1 lần/ngày và clofazimine 50 mg đường uống x 1 lần/ngày trong 24 tháng.Bệnh phong ít vi khuẩnTrong phác đồ tiêu chuẩn của WHO, bệnh nhân dùng rifampin 600 mg uống một lần/tháng với sự giám sát và dapsone 100 mg uống một lần/ngày mà không cần giám sát trong 6 tháng.Ở Hoa Kỳ, chế độ điều trị là rifampin 600 mg đường uống x 1 lần/ngày và dapsone 100 mg đường uống x 1 lần/ngày trong 12 tháng.Thuốc điều trị phongDapsonetương đối rẻ và an toàn để sử dụng. Tác dụng ngoại ý bao gồm tan máu và thiếu máu (thường nhẹ) và dị ứng da (có thể nặng); hiếm gặp, hội chứngdapsone(viêm da tróc da, sốt cao, tăng bạch cầu đơn nhân) xảy ra.Rifampin,chủ yếu dùng diệt khuẩn ban đầu choM. lepraevà thậm chí còn hiệu quả hơndapsone. Tuy nhiên, nếu được cho ở liều lượng đề nghị của Mỹ là 600 mg uống một lần/ngày, thì sẽ rất đắt đối với nhiều nước yếu thế hơn. Tác dụng ngoại ý bao gồm nhiễm độc gan, hội chứng giả cúm, và hiếm gặp giảm tiểu cầu và suy thận.Clofaziminecực kỳ an toàn. Tác dụng phụ chính là có thể đảo ngược sắc tố da, nhưng sự đổi màu có thể mất nhiều tháng để giải quyết.Clofaziminechỉ có thể được cung cấp tại Hoa Kỳ từ Bộ Y tế và Dịch vụ Nhân sinh như một loại thuốc mới điều tra. Để yêu cầu thêm thông tin hoặc tình trạng của điều tra viên để có thể sử dụngclofazimine, bác sĩ lâm sàng có thể liên hệNational Hansen's Disease (Leprosy) Programtheo số 1-800-642-2477.Phản ứng phongBệnh nhân có phản ứng kiểu 1 của bệnh phong (ngoại trừ viêm da tối thiểu) được cho prednisone 40 đến 60 mg uống một lần/ngày ban đầu, tiếp theo là liều duy trì thấp (thường là thấp đến 10 đến 15 mg một lần/ngày) trong một vài tháng. Viêm da tối thiểu không nên điều trị.Đợt đầu tiên và đợt 2 của hồng ban nút phong có thể được điều trị, nếu nhẹ, bằng aspirin hoặc, nếu đáng kể, với 1 tuần prednisone 40 đến 60 mg uống 1 lần/ngày cộng với thuốc kháng sinh. Đối với các trường hợp tái phát, thalidomide 100 đến 300 mg uống một lần/ngày là thuốc được lựa chọn (ở Hoa Kỳ, được cung cấp thông quaChương trình Bệnh Hansen Quốc gia). Tuy nhiên, vì tính gây quái thai của nó, không nên dùngthalidomidecho phụ nữ có thể mang thai. Tác dụng ngoại ý là táo bón nhẹ, giảm bạch cầu nhẹ, và an thần.
+
+--- 7. Phòng ngừa bệnh phong ---
+
+Vì bệnh phong không phải là bệnh lây nhiễm nhiều nên nguy cơ lan truyền thấp. Chỉ có phong dạng u không được điều trị có khả năng lây nhiễm, nhưng kể cả nhu thế, nhiễm trùng cũng không dễ dàng lây lan. Tuy nhiên, những người tiếp xúc gần trong gia đình (đặc biệt là trẻ em) của bệnh nhân phong nên được theo dõi để phát hiện các triệu chứng và dấu hiệu của bệnh phong. Một khi điều trị đã bắt đầu, bệnh phong không thể lây lan.Phòng ngừa tốt nhất làTránh tiếp xúc với các chất dịch cơ thể từ và phát ban trên người bị nhiễm bệnhVắc xin bacille Calmette-Guérin (BCG), được sử dụng để phòng ngừa bệnh lao (TB), cung cấp một số bảo vệ chống bệnh Phong nhưng thường không được sử dụng cho mục đích đó.Hướng dẫn năm 2018 của WHOkhuyến nghị dùng một liều rifampicin duy nhất để điều trị dự phòng cho những người tiếp xúc với bệnh nhân phong ≥ 2 tuổi. Phương pháp điều trị này chỉ được thực hiện sau khi bệnh phong và bệnh lao đã được loại trừ và không có chống chỉ định nào khác.
+
+--- 8. Những điểm chính ---
+
+Bệnh phong là một bệnh nhiễm trùng mạn tính thường gây ra trực khuẩn kháng axitMycobacterium leprae.Bệnh phong thường không dễ lây truyền ở bệnh nhân không được điều trị và không hề lây nhiễm khi bắt đầu điều trị.Bệnh phong thường ảnh hưởng chính đến da và thần kinh ngoại vi.Các biến chứng nghiêm trọng nhất là do mất cảm giác đụng chạm, đau, và nhiệt độ; yếu cơ có thể dẫn đến dị tật; và làm tổn thương các tổn thương trên da và niêm mạc mũi.Các phản ứng viêm gọi là phản ứng phong có thể xảy ra và cần điều trị bằng corticosteroid.Chẩn đoán dựa trên sinh thiết;M. lepraevàM. lepromatosiskhông thể phát triển khi nuôi cấy.Việc điều trị tùy thuộc vào dạng bệnh phong nhưng bao gồm các phác đồ đa thuốc thường sử dụng dapsone, rifampin và clofazimine cho nhiều vi khuẩn vàdapsonevàrifampincho ít vi khuẩn.
+
+--- 9. Thông tin thêm ---
+
+Sau đây là một số nguồn tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.US Health Resources and Services Administration:National Hansen’s Disease (Leprosy) Program(hoặc gọi 1-800-642-2477)World Health Organization (WHO):Guidelines for the diagnosis, treatment and prevention of leprosy(2018)

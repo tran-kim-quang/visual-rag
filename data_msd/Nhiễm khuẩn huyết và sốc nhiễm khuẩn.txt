@@ -1,0 +1,1135 @@
+TIÊU ĐỀ: Nhiễm khuẩn huyết và sốc nhiễm khuẩn
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/nhiễm-khuẩn-huyết-và-sốc-nhiễm-khuẩn/nhiễm-khuẩn-huyết-và-sốc-nhiễm-khuẩn
+================================================================================
+
+NỘI DUNG:
+
+Nhiễm khuẩn huyết và sốc nhiễm khuẩn
+
+Theo
+
+Joseph D Forrester
+
+,
+
+MD, MSc
+
+,
+
+Stanford University
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v928384_vi
+
+Nhiễm khuẩn huyết
+
+là một hội chứng lâm sàng của rối loạn chức năng cơ quan đe dọa đến tính mạng gây ra bởi một đáp ứng không điều chỉnh được với nhiễm trùng. Trong
+
+sốc nhiễm trùng
+
+, tưới máu mô bị giảm nghiêm trọng và có thể xảy ra suy cấp tính ở nhiều cơ quan, bao gồm phổi, thận và gan. Các nguyên nhân thường gặp ở bệnh nhân suy giảm miễn dịch bao gồm nhiều loại vi khuẩn Gram dương và Gram âm. Những bệnh nhân bị suy giảm miễn dịch có thể do các loài vi khuẩn hoặc nấm không phổ biến gây ra. Các dấu hiệu bao gồm sốt, tụt huyết áp, thiểu niệu và lú lẫn. Chẩn đoán chủ yếu dựa vào lâm sàng kết hợp với kết quả nuôi cấy cho thấy nhiễm trùng; nhận biết và điều trị sớm là rất quan trọng. Điều trị bao gồm bù dịch tích cực, kháng sinh, phẫu thuật cắt bỏ mô nhiễm trùng hoặc hoại tử và dẫn lưu mủ, và chăm sóc hỗ trợ.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Shock
+
+và
+
+Hồi sức dịch tĩnh mạch
+
+)
+
+Nhiễm trùng huyết
+
+đại diện cho một loạt bệnh có nguy cơ tử vong từ trung bình (ví dụ: 10%) đến đáng kể (ví dụ:
+
+>
+
+40%) (
+
+1
+
+), tùy thuộc vào các yếu tố mầm bệnh và vật chủ khác nhau cùng với tính kịp thời của việc nhận biết và đưa ra phương pháp điều trị thích hợp.
+
+Sốc nhiễm khuẩn
+
+là một tập con của nhiễm khuẩn huyết với tỷ lệ tử vong tăng đáng kể do bất thường nguy hiểm của tuần hoàn và/hoặc chuyển hóa tế bào. Sốc nhiễm trùng liên quan đến hạ huyết áp kéo dài (được định nghĩa là cần dùng thuốc vận mạch để duy trì huyết áp trung bình
+
+≥
+
+65 mm Hg và nồng độ lactate huyết thanh
+
+>
+
+18 mg/dL [2 mmol/L] mặc dù đã hồi sức đủ thể tích [
+
+2
+
+]).
+
+Khái niệm
+
+hội chứng đáp ứng viêm toàn thân (SIRS)
+
+, được xác định bởi một số bất thường nhất định về dấu hiệu sinh tồn và kết quả xét nghiệm, từ lâu đã được sử dụng để xác định nhiễm trùng huyết sớm (
+
+2
+
+). Tuy nhiên, các tiêu chí SIRS đã được chỉ ra là không có độ nhạy và độ đặc hiệu đối với nguy cơ tử vong gia tăng, đây là vấn đề cân nhắc chính trong việc sử dụng mô hình khái niệm này. Sự thiếu hụt về độ đặc hiệu có thể là do phản ứng của SIRS thường có tính thích nghi hơn là bệnh học.
+
+Tài liệu tham khảo chung
+
+1.
+
+Rangel-Frausto MS, Pittet D, Costigan M, et al
+
+: The natural history of the systemic inflammatory response syndrome (SIRS). A prospective study.
+
+JAMA
+
+273(2):117–123, 1995.
+
+2.
+
+Singer M, Deutschman CS, Seymour CW, et al:
+
+The third international consensus definitions for sepsis and septic shock (sepsis-3).
+
+JAMA
+
+315:801–810, 2016. doi:10.1001/jama.2016.0287
+
+Căn nguyên của nhiễm trùng huyết và sốc nhiễm trùng
+
+Hầu hết các trường hợp sốc nhiễm trùng là do trực khuẩn gram âm hoặc cầu khuẩn gram dương mắc phải tại bệnh viện và thường xảy ra ở những bệnh nhân bị suy giảm miễn dịch và ở những bệnh nhân mắc bệnh mạn tính và bệnh gây suy nhược (
+
+1
+
+). Hiếm khi nguyên nhân do
+
+Candida
+
+hay các loại nấm khác. Cần phải nghi ngờ nhiễm trùng hậu phẫu là nguyên nhân gây sốc nhiễm trùng ở những bệnh nhân mới được phẫu thuật. Một hình thức sốc độc đáo, không điển hình gây ra do độc tố của staphylococcal và streptococcal được gọi là
+
+hội chứng sốc nhiễm độc
+
+.
+
+Sốc nhiễm trùng xảy ra thường xuyên hơn ở trẻ sơ sinh (xem
+
+Nhiễm trùng sơ sinh
+
+), người cao tuổi và người mang thai. Các yếu tố dự đoán bao gồm
+
+Đái tháo đường
+
+Xơ gan
+
+Giảm bạch cầu
+
+(đặc biệt là liên quan đến ung thư hoặc điều trị bằng thuốc gây độc tế bào)
+
+Các thiết bị xâm lấn (bao gồm ống nội khí quản, ống thông mạch hoặc nước tiểu, ống dẫn lưu và các dị vật khác)
+
+Điều trị trước đó bằng kháng sinh hoặc corticosteroid
+
+Nhập viện gần đây (đặc biệt là vào khoa hồi sức tích cực)
+
+Các vị trí nhiễm bệnh thường gặp bao gồm phổi, đường tiết niệu, đường mật và đường tiêu hóa.
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Rudd KE, Johnson SC, Agesa KM, et al
+
+: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.
+
+Lancet
+
+395(10219):200–211, 2020. doi:10.1016/S0140-6736(19)32989-7
+
+Sinh lý bệnh của nhiễm trùng huyết và sốc nhiễm trùng
+
+Sinh bệnh học của sốc nhiễm khuẩn không được hiểu biết đầy đủ. Một tác nhân kích thích gây viêm (ví dụ: độc tố vi khuẩn) kích hoạt quá trình sản sinh các chất trung gian tiền viêm, bao gồm yếu tố hoại tử khối u (TNF) và interleukin (IL)-1. Những cytokine này gây ra sự kết dính giữa tế bào nội mô và bạch cầu trung tính, kích hoạt
+
+cơ chế đông máu
+
+và tạo ra các vi huyết khối. Nó cũng giải phóng ra một số lượng lớn các chất trung gian khác, bao gồm leukotrienes, lipoxygenase, histamine, bradykinin, serotonin, và IL-2. Nó bị chống lại bởi các chất trung gian chống viêm, như IL-4 và IL-10, dẫn đến cơ chế phản hồi âm tính.
+
+Ban đầu,các động mạch và tiểu động mạch giãn ra, giảm sức cản động mạch ngoại biên; cung lượng tim tăng lên. Giai đoạn này đã được gọi là sốc nóng. Sau đó, cung lượng tim có thể giảm, huyết áp giảm (có hoặc không tăng sức cản ngoại biên) và xuất hiện các đặc điểm điển hình của giảm tưới máu.
+
+Ngay cả ở giai đoạn tăng cung lượng tim, các chất trung gian vận mạch gây ra dòng máu chảy vòng qua các mao tĩnh mạch trao đổi (một rối loạn phân bố). Dòng chảy mao mạch kém từ vị trí shunt này cùng với sự tắc nghẽn mao mạch do vi cục máu đông làm giảm cung cấp oxy và giảm thải carbon dioxide và các chất thải. Giảm tưới máu gây rối loạn chức năng và đôi khi suy
+
+≥
+
+1 cơ quan, bao gồm thận, phổi, gan, não và tim.
+
+Rối loạn đông máu có thể phát triển do đông máu nội mạch cùng với việc tiêu thụ các yếu tố đông máu chủ yếu, phản ứng ly giải fibrin quá mức, và thường gặp hơn là kết hợp cả hai.
+
+Các triệu chứng và dấu hiệu của nhiễm trùng huyết và sốc nhiễm trùng
+
+Khi bị nhiễm trùng huyết (không bị sốc nhiễm trùng), bệnh nhân thường bị sốt, nhịp tim nhanh, toát mồ hôi và thở nhanh; huyết áp vẫn bình thường. Các dấu hiệu khác của nguyên nhân nhiễm trùng có thể có mặt.
+
+Các triệu chứng và dấu hiệu của nhiễm trùng huyết có thể khó phát hiện và thường dễ bị nhầm lẫn với các biểu hiện của các rối loạn khác (ví dụ như rối loạn chức năng tim nguyên phát,
+
+thuyên tắc mạch phổi
+
+,
+
+mê sảng
+
+hoặc
+
+viêm dạ dày ruột do truyền nhiễm
+
+). Có thể rất khó nhận ra các biểu hiện lâm sàng của nhiễm trùng huyết ở bệnh nhân bị ức chế miễn dịch hoặc ở bệnh nhân sau phẫu thuật.
+
+Khi nhiễm trùng huyết nặng hơn hoặc sốc nhiễm trùng phát triển, dấu hiệu ban đầu, đặc biệt ở người cao tuổi hoặc trẻ nhỏ, có thể là lú lẫn hoặc giảm tỉnh táo. Huyết áp giảm, nhưng da vẫn ấm. Sau đó, các chi thường trở nên lạnh và nhợt nhạt, nổi vân tím ngoại biên. Rối loạn chức năng của nội tạng gây ra thêm các triệu chứng và dấu hiệu cụ thể cho các cơ quan có liên quan (ví dụ, niệu vị, khó thở).
+
+Chẩn đoán nhiễm trùng huyết và sốc nhiễm trùng
+
+Bệnh sử và khám lâm sàng
+
+Theo dõi huyết áp, nhịp tim, và oxy
+
+Công thức máu (CBC) kèm theo công thức bạch cầu, bảng xét nghiệm điện giải, creatinine và lactate
+
+Áp lực tĩnh mạch trung tâm (CVP) xâm lấn, áp suất riêng phần oxy động mạch (PaO2) và chỉ số độ bão hòa oxy tĩnh mạch trung tâm (ScvO2)
+
+Cấy máu, nước tiểu, và các vị trí tiềm ẩn nhiễm trùng khác, bao gồm cả vết thương ở bệnh nhân phẫu thuật
+
+Nghi ngờ nhiễm trùng huyết khi bệnh nhân đã biết nhiễm trùng phát triển các dấu hiệu viêm toàn thân hoặc rối loạn chức năng cơ quan (
+
+1
+
+). Tương tự như vậy, một bệnh nhân có các dấu hiệu viêm toàn thân không rõ nguyên nhân khác thì nên được đánh giá về nhiễm trùng theo tiền sử, khám thực thể và chẩn đoán hình ảnh hoặc xét nghiệm trong phòng thí nghiệm. Các xét nghiệm bao gồm xét nghiệm nước tiểu và nuôi cấy nước tiểu (đặc biệt ở những bệnh nhân có ống thông lưu), nuôi cấy máu và nuôi cấy các chất dịch cơ thể nghi ngờ khác. Nồng độ protein phản ứng C và procalcitonin thường tăng ở nhiễm khuẩn huyết nặng và có thể giúp cho chẩn đoán nhưng chúng không đặc hiệu. Ở những bệnh nhân nghi ngờ có nguyên nhân nhiễm trùng huyết ẩn hoặc do phẫu thuật, có thể cần phải siêu âm (ví dụ:
+
+Siêu âm nhanh để kiểm tra sốc và hạ huyết áp (RUSH)
+
+), chụp CT hoặc chụp MRI, tùy thuộc vào nguồn nghi ngờ. Cuối cùng, chẩn đoán là lâm sàng.
+
+Các nguyên nhân gây sốc khác (ví dụ: giảm thể tích máu,
+
+nhồi máu cơ tim
+
+[MI]) cần phải được loại trừ thông qua bệnh sử, khám thực thể, ECG và đo chất chỉ điểm sinh học tim trong huyết thanh theo chỉ định lâm sàng. Ngay cả khi không có nhồi máu cơ tim, giảm tưới máu mô do nhiễm khuẩn huyết có thể dẫn đến trên điện tim có hình ảnh thiếu máu, bao gồm những bất thường không đặc hiệu về sóng ST-T, sự đảo ngược sóng T, rối loạn nhịp thất và trên thất.
+
+Điều quan trọng là phát hiện ra rối loạn chức năng của cơ quan càng sớm càng tốt. Một số hệ thống tính điểm đã được đưa ra để phát hiện sớm nhiễm trùng huyết, nhưng điểm đánh giá suy tạng tuần tự (điểm SOFA) và điểm SOFA nhanh (qSOFA) đã được xác nhận về nguy cơ tử vong và sử dụng tương đối đơn giản. Điểm số qSOFA dựa trên huyết áp, nhịp thở và
+
+Thang điểm hôn mê Glasgow
+
+và không cần chờ kết quả xét nghiệm.
+
+Đối với những bệnh nhân nghi ngờ nhiễm trùng
+
+không nằm trong khoa hồi sức tích cực (ICU)
+
+, điểm qSOFA là yếu tố dự báo tốt hơn về tỷ lệ tử vong của bệnh nhân nội trú so với tiêu chuẩn SIRS và điểm SOFA. Đối với những bệnh nhân nghi ngờ nhiễm trùng đang điều trị
+
+tại ICU
+
+, điểm SOFA là yếu tố dự báo tử vong nội trú tốt hơn tiêu chuẩn SIRS và điểm qSOFA (
+
+2
+
+).
+
+Bệnh nhân có
+
+≥
+
+2 tiêu chuẩn sau đáp ứng
+
+tiêu chuẩn SIRS
+
+và cần được thăm dò lâm sàng thêm:
+
+Nhiệt độ
+
+>
+
+38°C (100,4°F) hoặc
+
+<
+
+36°C (96,8°F)
+
+Nhịp tim
+
+>
+
+90 lần/phút
+
+Nhịp thở
+
+>
+
+20 nhịp thở mỗi phút hoặc áp suất riêng phần của carbon dioxide động mạch (PaCO2)
+
+<
+
+32 mm Hg
+
+Số lượng bạch cầu (WBC)
+
+>
+
+12.000/mcL (12
+
+×
+
+10
+
+9
+
+/L),
+
+<
+
+4.000/mcL (4
+
+×
+
+10
+
+9
+
+/L) hoặc
+
+>
+
+10% dạng (bạch cầu đũa) chưa trưởng thành
+
+Bệnh nhân có
+
+≥
+
+2 trường hợp sau
+
+tiêu chuẩn qSOFA
+
+nên có thêm các đặc điểm lâm sàng và xét nghiệm:
+
+Nhịp thở
+
+≥
+
+22 nhịp/phút
+
+Thay đổi ý thức
+
+Huyết áp tâm thu
+
+≤
+
+100 mm Hg
+
+Điểm SOFA
+
+có phần mạnh mẽ hơn khi bệnh nhân được điều trị tại ICU, nhưng điểm này cần phải có xét nghiệm trong phòng thí nghiệm (xem bảng
+
+Điểm đánh giá suy cơ quan tuần tự
+
+). Có các hệ thống chấm điểm khác trong sử dụng trên lâm sàng (
+
+3
+
+).
+
+Bảng
+
+Thang điểm đánh giá suy chức năng cơ quan tiến triển(SOFA)
+
+Bảng
+
+Thang điểm đánh giá suy chức năng cơ quan tiến triển(SOFA)
+
+Thang điểm đánh giá suy chức năng cơ quan tiến triển(SOFA)
+
+Tham số
+
+Điểm: 0
+
+Điểm: 1
+
+Điểm: 2
+
+Điểm: 3
+
+Điểm: 4
+
+Pao2/FIO2
+
+≥
+
+400 mm Hg (53,3 kPa)
+
+<
+
+400 mm Hg (53,3 kPa)
+
+<
+
+300 mm Hg (40 kPa)
+
+<
+
+200 mm Hg (26,7 kPa) với hỗ trợ hô hấp
+
+<
+
+100 mm Hg (13,3 kPa) với hỗ trợ hô hấp
+
+Tiểu cầu
+
+≥
+
+150
+
+×
+
+10
+
+3
+
+/mcL (
+
+≥
+
+150
+
+×
+
+10
+
+9
+
+/L)
+
+<
+
+150
+
+×
+
+10
+
+3
+
+/mcL (
+
+<
+
+150
+
+×
+
+10
+
+9
+
+/L)
+
+<
+
+100
+
+×
+
+10
+
+3
+
+/mcL (
+
+<
+
+100
+
+×
+
+10
+
+9
+
+/L)
+
+<
+
+50
+
+×
+
+10
+
+3
+
+/mcL (
+
+<
+
+50
+
+×
+
+10
+
+9
+
+/L)
+
+<
+
+20
+
+×
+
+10
+
+3
+
+/mcL (
+
+<
+
+20
+
+×
+
+10
+
+9
+
+/L)
+
+Bilirubin
+
+<
+
+1,2 mg/dL (20 micromol/L)
+
+1,2-1,9 mg/dL (20-32 micromol/L)
+
+2,0-5,9 mg/dL (33-101 micromol/L)
+
+6,0-11,9 mg/dL (102-204 micromol/L)
+
+>
+
+12,0 mg/dL (204 micromol/L)
+
+Tim mạch (với các liều thuốc được cho dùng trong
+
+≥
+
+1 tiếng)
+
+MAP
+
+≥
+
+70 mm Hg
+
+MAP
+
+<
+
+70 mm Hg
+
+Dopamine
+
+<
+
+5 mcg/kg/phút
+
+hoặc là
+
+Bất kỳ liều dobutamine nào
+
+Dopamine 5,1–15 mcg/kg/phút
+
+hoặc là
+
+Epinephrine
+
+≤
+
+0,1 mcg/kg/phút
+
+hoặc là
+
+Norepinephrine
+
+≤
+
+0,1 mcg/kg/phút
+
+Dopamine
+
+>
+
+15 mcg/kg/phút
+
+hoặc là
+
+Epinephrine
+
+>
+
+0,1 mcg/kg/phút
+
+hoặc là
+
+Norepinephrine
+
+>
+
+0,1 mcg/kg/phút
+
+Điểm số theo
+
+Thang điểm hôn mê Glasgow
+
+*
+
+15 điểm
+
+13-14 điểm
+
+10-12 điểm
+
+6-9 điểm
+
+<
+
+6 điểm
+
+Creatinine
+
+<
+
+1,2 mg/dL (110 micromol/L)
+
+1,2-1,9 mg/dL (110-170 micromol/L)
+
+2,0-3,4 mg/dL (171-299 micromol/L)
+
+3,5-4,9 mg/dL (300-400 micromol/L)
+
+>
+
+5,0 mg/dL (440 micromol/L)
+
+Lượng nước tiểu
+
+—
+
+—
+
+—
+
+<
+
+500 mL/ngày
+
+<
+
+200 mL/ngày
+
+* Điểm số cao hơn cho thấy chức năng thần kinh tốt hơn.
+
+FIO2 = phân suất oxy hít vào; kPa = kilopascal; MAP = huyết áp động mạch trung bình; PaO2 = áp suất riêng phần oxy động mạch.
+
+Phỏng theo
+
+Singer M, Deutschman CS, Seymour CW, et al:
+
+The third international consensus definitions for sepsis and septic shock (sepsis-3).
+
+JAMA
+
+315:801–810, 2016. doi:10.1001/jama.2016.0287
+
+* Điểm số cao hơn cho thấy chức năng thần kinh tốt hơn.
+
+FIO2 = phân suất oxy hít vào; kPa = kilopascal; MAP = huyết áp động mạch trung bình; PaO2 = áp suất riêng phần oxy động mạch.
+
+Phỏng theo
+
+Singer M, Deutschman CS, Seymour CW, et al:
+
+The third international consensus definitions for sepsis and septic shock (sepsis-3).
+
+JAMA
+
+315:801–810, 2016. doi:10.1001/jama.2016.0287
+
+Theo dõi CBC, khí máu động mạch (ABG), chụp X-quang ngực, điện giải trong huyết thanh, BUN (nitơ
+
+urê
+
+máu), creatinine, áp suất riêng phần của carbon dioxide (PCO2) và chức năng gan. Nồng độ lactate huyết thanh, ScvO2, hoặc cả hai có thể được xác định để giúp hướng dẫn điều trị. Số lượng bạch cầu có thể giảm (
+
+<
+
+4.000/mcL [
+
+<
+
+4
+
+×
+
+10
+
+9
+
+/L]) hoặc tăng lên (
+
+>
+
+15.000/mcL [
+
+>
+
+15
+
+×
+
+10
+
+9
+
+/L]) và bạch cầu đa nhân có thể thấp tới 20%. Trong quá trình nhiễm trùng huyết, số lượng bạch cầu có thể dao động, tùy thuộc vào mức độ nặng của nhiễm trùng huyết hoặc sốc, tình trạng miễn dịch của bệnh nhân và nguyên nhân nhiễm trùng. Việc sử dụng corticosteroid đồng thời có thể làm tăng lượng bạch cầu và do đó làm thay đổi số lượng bạch cầu thực tế do xu hướng bệnh tật.
+
+Tăng thông khí với
+
+kiềm hô hấp
+
+(PaCO2 thấp và pH tăng) xảy ra sớm, như một phần của việc bù cho tình trạng toan lactic. Bicarbonate huyết thanh thường thấp, nồng độ lactate trong huyết thanh và máu tăng lên. Khi sốc tiến triển, tình trạng
+
+nhiễm toan chuyển hóa
+
+trở nên trầm trọng hơn và pH máu giảm.
+
+Suy hô hấp hạ oxy máu
+
+sớm dẫn đến giảm tỷ lệ PaO2/phân suất oxy hít vào (FIO2) và đôi khi hạ oxy máu rõ rệt với PaO2
+
+<
+
+70 mm Hg. Hình ảnh thâm nhiễm khuếch tán có thể xuất hiện trên X-quang ngực do
+
+hội chứng suy hô hấp cấp tính
+
+(ARDS). BUN và creatinine thường tăng dần do suy thận. Bilirubin và transaminase có thể tăng, mặc dù
+
+suy gan
+
+rõ rệt hiếm khi xảy ra ở những bệnh nhân có chức năng gan bình thường.
+
+Các phép đo huyết động với catheter tĩnh mạch trung tâm hoặc
+
+catheter động mạch phổi
+
+có thể được sử dụng khi tình trạng sốc cụ thể không rõ ràng hoặc khi bù lượng dịch lớn (ví dụ, cần
+
+>
+
+4 đến 5 L crystalloid cân bằng trong vòng 6 đến 8 giờ).
+
+Siêu âm tim tại giường trong ICU là một phương pháp thay thế thực tế và không xâm lấn để theo dõi huyết động. Trong sốc nhiễm khuẩn, cung lượng tim tăng và sức cản mạch ngoại biên giảm, trong khi ở
+
+các dạng sốc khác
+
+, cung lượng tim thường giảm và sức cản mạch ngoại biên tăng lên.
+
+Cả CVP và áp lực tắc động mạch phổi (PAOP) đều không có khả năng là bất thường trong sốc nhiễm trùng, không giống như sốc do giảm thể tích,
+
+sốc do tắc nghẽn hoặc sốc do tim
+
+.
+
+Nhiều bệnh nhân nhiễm khuẩn huyết nặng phát triển tương đối tình trạng
+
+suy thượng thận
+
+(ví dụ, nồng độ cortisol bình thường hoặc tăng nhẹ so với mức cơ bản, không tăng đáng kể khi đáp ứng với stress tiếp theo hoặc hormone vỏ thượng thận [ACTH] ngoại sinh). Chức năng của tuyến thượng thận có thể được kiểm tra bằng cách đo cortisol huyết thanh lúc 8 sáng; nồng độ
+
+<
+
+5 mcg/dL (
+
+<
+
+138 nmol/L) là không thích hợp. Ngoài ra, cortisol có thể được đo trước và sau khi tiêm 250 mcg ACTH tổng hợp; sự gia tăng
+
+<
+
+9 mcg/dL (
+
+<
+
+248 nmol/L) được coi là không đủ.
+
+Siêu âm nhanh để kiểm tra sốc ...
+
+Các video
+
+Các công cụ tính toán hữu ích cho nhiễm trùng huyết
+
+Công cụ tính toán lâm sàng
+
+Bảng điểm Glasgow
+
+Công cụ tính toán lâm sàng
+
+Sequential Organ Failure Assessment (Quick): qSOFA Score
+
+Công cụ tính toán lâm sàng
+
+Đánh giá suy chức năng cơ quan tiến triển (SOFA)
+
+Công cụ tính toán lâm sàng
+
+Bảng điểm Glasgow
+
+Công cụ tính toán lâm sàng
+
+Sequential Organ Failure Assessment (Quick): qSOFA Score
+
+Công cụ tính toán lâm sàng
+
+Đánh giá suy chức năng cơ quan tiến triển (SOFA)
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Singer M, Deutschman CS, Seymour CW, et al:
+
+The third international consensus definitions for sepsis and septic shock (sepsis-3).
+
+JAMA
+
+315:801–810, 2016. doi:10.1001/jama.2016.0287
+
+2.
+
+Seymour CW, Liu VX, Iwashyna TJ, et al
+
+: Assessment of clinical criteria for sepsis: For the third international consensus definitions for sepsis and septic shock (sepsis-3).
+
+JAMA
+
+215(8):762–774, 2016. doi: 10.1001/jama.2016.0288
+
+3.
+
+Covino M, Sandroni C, Della Polla D, et al
+
+: Predicting ICU admission and death in the Emergency Department: A comparison of six early warning scores.
+
+Resuscitation
+
+190:109876, 2023. doi:10.1016/j.resuscitation.2023.109876
+
+Điều trị nhiễm trùng huyết và sốc nhiễm trùng
+
+Hồi phục tưới máu mô bằng việc bù dịch đường tĩnh mạch, và đôi khi cần dùng thuốc vận mạch
+
+Hỗ trợ oxy
+
+Kháng sinh phổ rộng
+
+Kiểm soát nguồn
+
+Đôi khi cần các biện pháp hỗ trợ khác (ví dụ, corticosteroid, insulin)
+
+Bệnh nhân bị sốc nhiễm trùng cần phải được điều trị trong ICU. Những điều sau đây cần được theo dõi thường xuyên (thường xuyên hàng giờ):
+
+Tình trạng thể tích sử dụng CVP, PAOP, siêu âm tuần tự và/hoặc ScvO2
+
+Khí máu động mạch
+
+Nồng độ glucose trong máu, lactate, và chất điện giải
+
+Chức năng thận
+
+Độ bão hòa oxy máu động mạch nên được đo liên tục thông qua đo độ bão hòa oxy trong máu. Lượng nước tiểu là một chỉ số có giá trị trong đánh giá tưới máu thận, thông thường được đo lại (nói chung, nên tránh đặt sonde nước tiểu nếu không cần thiết). Khởi phát thiểu niệu (ví dụ:
+
+<
+
+khoảng 0,5 mL/kg/giờ) hoặc vô niệu, hoặc creatinine tăng có thể báo hiệu suy thận sắp xảy ra.
+
+Việc tuân theo các hướng dẫn dựa trên bằng chứng và các phác đồ chính thức để chẩn đoán và điều trị nhiễm trùng huyết kịp thời đã được chứng minh là làm giảm tỷ lệ tử vong và thời gian nằm viện (
+
+1
+
+,
+
+2
+
+).
+
+Phục hồi tưới máu mô
+
+Bù dịch đường tĩnh mạch là phương pháp đầu tiên được sử dụng để phục hồi tưới máu. Crystaloid đẳng trương cân bằng được ưu tiên. Một số bác sĩ lâm sàng thêm albumin vào lượng dịch ban đầu ở bệnh nhân nhiễm trùng huyết nặng hoặc sốc nhiễm khuẩn; tuy nhiên, có rất ít bằng chứng chứng minh lợi ích sống sót tăng lên (
+
+2
+
+). Chất lỏng có nguồn gốc từ tinh bột (ví dụ: tinh bột hydroxyethyl) có liên quan đến việc tăng tỷ lệ tử vong và không nên sử dụng (
+
+3
+
+).
+
+Ban đầu, cần bù nhanh 1 lít dịch tinh thể. Hầu hết các bệnh nhân đều cần tối thiểu 30 mL/kg trong 4 đến 6 giờ đầu tiên. Tuy nhiên, mục tiêu của điều trị không phải là truyền một lượng dịch nhất định mà là đạt được sự tái tưới máu mô mà không gây phù phổi do
+
+quá tải dịch
+
+.
+
+Ước tính tái tưới máu thành công bao gồm ScvO2 và thanh thải lactate (nghĩa là phần trăm thay đổi nồng độ lactate huyết thanh trong 6 đến 8 giờ). Mục tiêu ScvO2 là
+
+≥
+
+70%. Mục tiêu thanh thải lactate là 10 đến 20%.
+
+Nguy cơ phù phổi có thể được kiểm soát bằng cách tối ưu hóa tiền gánh; nên truyền dịch cho đến khi CVP đạt 8 mm Hg (10 cm nước) hoặc PAOP đạt 12 đến 15 mm Hg; tuy nhiên, bệnh nhân
+
+thở máy
+
+có thể yêu cầu mức CVP cao hơn. Lượng dịch cần thiết thường vượt quá khối lượng máu bình thường và có thể đạt đến 10 L trong 4 đến 12 giờ. PAOP hoặc siêu âm tim có thể xác định những hạn chế về chức năng tâm thất trái và phù phổi ban đầu do tình trạng quá tải dịch. Siêu âm tại giường cũng có thể được sử dụng để đánh giá tình trạng thể tích, bao gồm giãn hoặc xẹp tĩnh mạch chủ dưới (IVC), chức năng tim và sự hiện diện của phù phổi.
+
+Nếu bệnh nhân bị sốc nhiễm trùng vẫn bị hạ huyết áp sau khi CVP hoặc PAOP đã được nâng lên mức mục tiêu, có thể dùng norepinephrine (liều tùy theo từng cá nhân) hoặc vasopressin (lên đến 0,03 đơn vị/phút) để tăng huyết áp trung bình lên ít nhất 65 mm. Hg. Epinephrine có thể được thêm vào nếu cần dùng thuốc thứ hai. Tuy nhiên, co mạch do liều cao hơn của các loại thuốc này gây ra có thể làm giảm tưới máu cơ quan và nhiễm toan.
+
+Hỗ trợ oxy
+
+Oxy được cung cấp bằng mặt nạ, dây thở có ngạnh mũi hoặc
+
+thông khí áp lực dương không xâm lấn
+
+. Có thể cần thiết đặt ống thông khí quản và thông khí cơ học do suy hô hấp (xem phần
+
+Thông khí cơ khí trong ARDS
+
+).
+
+Thuốc kháng sinh
+
+Kháng sinh đường tĩnh mạch nên được dùng càng sớm càng tốt sau khi lấy mẫu máu, chất dịch cơ thể, và vết thương đã được lấy để nhuộm Gram và nuôi cấy. Điều trị theo kinh nghiệm kịp thời, bắt đầu ngay sau khi nghi ngờ nhiễm trùng huyết, là điều cần thiết và có thể cứu sống bệnh nhân. Lựa chọn kháng sinh đòi hỏi phải có một phán đoán đã được đào tạo dựa trên nguồn nghi ngờ (ví dụ, viêm phổi, nhiễm trùng đường tiểu), thiết lập lâm sàng, kiến thức hoặc các sinh vật nghi ngờ gây bệnh và các mô hình nhạy cảm phổ biến đối với đơn vị hoặc cơ sở nội trú cụ thể đó và kết quả nuôi cấy trước đó.
+
+Thông thường, ban đầu sử dụng phạm vi bao phủ vi khuẩn gram dương và gram âm phổ rộng; những bệnh nhân bị suy giảm miễn dịch cũng nên dùng thuốc chống nấm theo kinh nghiệm. Có rất nhiều phác đồ có thể bắt đầu; khi có sẵn, nên sử dụng các xu hướng lây nhiễm các sinh vật và mô hình nhạy cảm với kháng sinh của chúng (kháng sinh đồ) để lựa chọn điều trị theo kinh nghiệm. Nói chung, kháng sinh thông thường đối với việc bao phủ gram dương tích cực bao gồm vancomycin và linezolid. Điều trị vi khuẩn gram âm theo kinh nghiệm có nhiều lựa chọn hơn và bao gồm penicillin phổ rộng (ví dụ: piperacillin/tazobactam), cephalosporin thế hệ thứ ba hoặc thứ tư, imipenems và aminoglycoside. Phạm vi phổ rộng ban đầu được thu hẹp nếu xác định được một nguồn lây nhiễm cụ thể và cũng khi có dữ liệu nuôi cấy và độ nhạy.
+
+Ngọc trai & cạm bẫy
+
+Kiến thức về các xu hướng lây nhiễm và đặc thù đơn vị chăm sóc trong việc lây nhiễm các sinh vật và độ nhạy cảm kháng sinh của chúng là một hướng dẫn quan trọng để lựa chọn kháng sinh theo kinh nghiệm.
+
+Kiểm soát nguồn
+
+Nguồn lây nhiễm cần được kiểm soát càng sớm càng tốt. Đường truyền tĩnh mạch và ống thông tiểu, ống nội khí quản nên được loại bỏ nếu có thể hoặc thay đổi. Áp - xe phải được dẫn lưu, và các mô hoại tử và viêm nhiễm (ví dụ, hoại tử túi mật, hoại tử mô mềm) phải được phẫu thuật cắt bỏ. Nếu không thể cắt bỏ được (ví dụ, do các bệnh kèm theo hoặc huyết động không ổn định), phẫu thuật dẫn lưu có thể giúp ích. Nếu nguồn không được kiểm soát, tình trạng của bệnh nhân sẽ tiếp tục xấu đi mặc dù dùng kháng sinh.
+
+Các biện pháp hỗ trợ khác
+
+Bình thường hóa đường huyết giúp cải thiện kết quả ở những bệnh nhân bị bệnh nặng, ngay cả những người không mắc bệnh tiểu đường, vì tăng đường huyết làm suy yếu phản ứng miễn dịch với nhiễm trùng. Truyền insulin liên tục (liều khởi đầu 1 đến 4 đơn vị/giờ) được điều chỉnh liều để duy trì lượng đường huyết trong khoảng 110 đến 180 mg/dL (7,7 đến 9,9 mmol/L). Phương pháp này đòi hỏi phải đo lượng glucose thường xuyên (ví dụ, mỗi 1 đến 4 giờ).
+
+Điều trị bằng corticosteroid (ví dụ: hydrocortisone
+
+<
+
+400 mg đường tĩnh mạch mỗi ngày chia làm nhiều lần) được chỉ định cho những bệnh nhân bị suy thượng thận được ghi nhận bằng xét nghiệm cortisol. Tuy nhiên, trong sốc nhiễm trùng kháng trị (huyết áp tâm thu
+
+<
+
+90 mm Hg trong hơn 1 giờ sau khi được hồi sức đủ dịch và dùng thuốc vận mạch, đạt được sự kiểm soát nguồn và dùng kháng sinh), không cần xét nghiệm cortisol trước khi bắt đầu điều trị bằng corticosteroid (
+
+4
+
+). Tiếp tục điều trị dựa trên đáp ứng của bệnh nhân.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Bhattacharjee P, Edelson DP, Churpek MM
+
+: Identifying patients with sepsis on the hospital wards.
+
+Chest
+
+151:898–907, 2017. doi: 10.1016/j.chest.2016.06.02T
+
+2.
+
+Evans L, Rhodes A, Alhazzani W, et al
+
+: Chiến dịch sống sót với nhiễm trùng huyết: International Guidelines for Management of Sepsis and Septic Shock 2021.
+
+Crit Care Med
+
+49(11):e1063–e1143, 2021. doi:10.1097/CCM.0000000000005337
+
+3.
+
+Zarychanski R, Abou-Setta AM, Turgeon AF, et al
+
+: Association of
+
+hydroxyethyl starch
+
+administration with mortality and acute kidney injury in critically ill patients requiring volume resuscitation: a systematic review and meta-analysis [published correction appears in
+
+JAMA
+
+309(12):1229, 2013].
+
+JAMA
+
+309(7):678–688, 2013. doi:10.1001/jama.2013.430
+
+4.
+
+Annane D, Pastores SM, Rochwerg B, et al
+
+: Guidelines for the diagnosis and management of critical illness-related corticosteroid insufficiency (CIRCI) in critically ill patients (Part I): Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM) 2017.
+
+Intensive Care Med
+
+43(12):1751-1763, 2017. doi: 10.1007/s00134-017-4919-5
+
+Tiên lượng về nhiễm trùng huyết và sốc nhiễm trùng
+
+Tỷ lệ tử vong chung ở bệnh nhân sốc nhiễm trùng đang giảm và khoảng 20% (với phạm vi rộng, tùy thuộc vào đặc điểm của bệnh nhân) (
+
+1
+
+). Kết cục xấu thường theo sau một thất bại trong điều trị tích cực sớm (ví dụ, trong vòng 6 giờ từ khi nghi ngờ chẩn đoán). Khi có
+
+toan lactic
+
+trầm trọng với
+
+toan chuyển hóa
+
+mất bù, đặc biệt là kết hợp với suy đa tạng, sốc nhiễm khuẩn có thể không hồi phục và gây tử vong. Tỷ lệ tử vong có thể được ước tính với các điểm số khác nhau bao gồm cả điểm của khoa cấp cứu nhiễm trùng huyết (MEDS). Điểm số rối loạn chức năng đa cơ quan (MODS) đo lường sự rối loạn chức năng của 6 hệ cơ quan và tương quan chặt chẽ với nguy cơ tử vong.
+
+Công cụ tính toán lâm sàng
+
+Điểm số MEDS: Tỷ lệ tử vong do nhiễm khuẩn huyết tại khoa cấp cứu
+
+Công cụ tính toán lâm sàng
+
+Multiple Organ Dysfunction Score (MODS)
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Rudd KE, Johnson SC, Agesa KM, et al
+
+: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.
+
+Lancet
+
+395(10219):200–211, 2020. doi:10.1016/S0140-6736(19)32989-7
+
+Những điểm chính
+
+Nhiễm khuẩn huyết và sốc nhiễm khuẩn là những hội chứng lâm sàng nghiêm trọng về các rối loạn chức năng của cơ quan đe dọa tính mạng do phản ứng không đều đối với nhiễm trùng.
+
+Một thành phần quan trọng là giảm đáng kể lượng tưới máu mô, có thể dẫn tới sự suy cấp tính của nhiều cơ quan, bao gồm phổi, thận và gan.
+
+Nhận biết và điều trị sớm là chìa khóa để cải thiện thời gian sống thêm.
+
+Hồi sức bằng truyền dịch theo đường tĩnh mạch và đôi khi dùng thuốc vận mạch để tối ưu hóa độ bão hòa và tiền tải oxy tĩnh mạch trung tâm, đồng thời làm giảm nồng độ lactate trong huyết thanh.
+
+Kiểm soát nguồn lây nhiễm bằng cách bỏ ống thông, ống dẫn, mô bị nhiễm bệnh và/hoặc hoại tử và dẫn lưu áp xe.
+
+Cho kháng sinh phổ rộng theo kinh nghiệm hướng vào hầu hết các sinh vật có khả năng có và nhanh chóng chuyển sang các loại thuốc cụ thể hơn dựa trên kết quả nuôi cấy và độ nhạy.
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của nhiễm trùng huyết và sốc nhiễm trùng ---
+
+Hầu hết các trường hợp sốc nhiễm trùng là do trực khuẩn gram âm hoặc cầu khuẩn gram dương mắc phải tại bệnh viện và thường xảy ra ở những bệnh nhân bị suy giảm miễn dịch và ở những bệnh nhân mắc bệnh mạn tính và bệnh gây suy nhược (1). Hiếm khi nguyên nhân doCandidahay các loại nấm khác. Cần phải nghi ngờ nhiễm trùng hậu phẫu là nguyên nhân gây sốc nhiễm trùng ở những bệnh nhân mới được phẫu thuật. Một hình thức sốc độc đáo, không điển hình gây ra do độc tố của staphylococcal và streptococcal được gọi làhội chứng sốc nhiễm độc.Sốc nhiễm trùng xảy ra thường xuyên hơn ở trẻ sơ sinh (xemNhiễm trùng sơ sinh), người cao tuổi và người mang thai. Các yếu tố dự đoán bao gồmĐái tháo đườngXơ ganGiảm bạch cầu(đặc biệt là liên quan đến ung thư hoặc điều trị bằng thuốc gây độc tế bào)Các thiết bị xâm lấn (bao gồm ống nội khí quản, ống thông mạch hoặc nước tiểu, ống dẫn lưu và các dị vật khác)Điều trị trước đó bằng kháng sinh hoặc corticosteroidNhập viện gần đây (đặc biệt là vào khoa hồi sức tích cực)Các vị trí nhiễm bệnh thường gặp bao gồm phổi, đường tiết niệu, đường mật và đường tiêu hóa.Tài liệu tham khảo nguyên nhân gây bệnh1.Rudd KE, Johnson SC, Agesa KM, et al: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.Lancet395(10219):200–211, 2020. doi:10.1016/S0140-6736(19)32989-7
+
+--- 2. Sinh lý bệnh của nhiễm trùng huyết và sốc nhiễm trùng ---
+
+Sinh bệnh học của sốc nhiễm khuẩn không được hiểu biết đầy đủ. Một tác nhân kích thích gây viêm (ví dụ: độc tố vi khuẩn) kích hoạt quá trình sản sinh các chất trung gian tiền viêm, bao gồm yếu tố hoại tử khối u (TNF) và interleukin (IL)-1. Những cytokine này gây ra sự kết dính giữa tế bào nội mô và bạch cầu trung tính, kích hoạtcơ chế đông máuvà tạo ra các vi huyết khối. Nó cũng giải phóng ra một số lượng lớn các chất trung gian khác, bao gồm leukotrienes, lipoxygenase, histamine, bradykinin, serotonin, và IL-2. Nó bị chống lại bởi các chất trung gian chống viêm, như IL-4 và IL-10, dẫn đến cơ chế phản hồi âm tính.Ban đầu,các động mạch và tiểu động mạch giãn ra, giảm sức cản động mạch ngoại biên; cung lượng tim tăng lên. Giai đoạn này đã được gọi là sốc nóng. Sau đó, cung lượng tim có thể giảm, huyết áp giảm (có hoặc không tăng sức cản ngoại biên) và xuất hiện các đặc điểm điển hình của giảm tưới máu.Ngay cả ở giai đoạn tăng cung lượng tim, các chất trung gian vận mạch gây ra dòng máu chảy vòng qua các mao tĩnh mạch trao đổi (một rối loạn phân bố). Dòng chảy mao mạch kém từ vị trí shunt này cùng với sự tắc nghẽn mao mạch do vi cục máu đông làm giảm cung cấp oxy và giảm thải carbon dioxide và các chất thải. Giảm tưới máu gây rối loạn chức năng và đôi khi suy≥1 cơ quan, bao gồm thận, phổi, gan, não và tim.Rối loạn đông máu có thể phát triển do đông máu nội mạch cùng với việc tiêu thụ các yếu tố đông máu chủ yếu, phản ứng ly giải fibrin quá mức, và thường gặp hơn là kết hợp cả hai.
+
+--- 3. Các triệu chứng và dấu hiệu của nhiễm trùng huyết và sốc nhiễm trùng ---
+
+Khi bị nhiễm trùng huyết (không bị sốc nhiễm trùng), bệnh nhân thường bị sốt, nhịp tim nhanh, toát mồ hôi và thở nhanh; huyết áp vẫn bình thường. Các dấu hiệu khác của nguyên nhân nhiễm trùng có thể có mặt.Các triệu chứng và dấu hiệu của nhiễm trùng huyết có thể khó phát hiện và thường dễ bị nhầm lẫn với các biểu hiện của các rối loạn khác (ví dụ như rối loạn chức năng tim nguyên phát,thuyên tắc mạch phổi,mê sảnghoặcviêm dạ dày ruột do truyền nhiễm). Có thể rất khó nhận ra các biểu hiện lâm sàng của nhiễm trùng huyết ở bệnh nhân bị ức chế miễn dịch hoặc ở bệnh nhân sau phẫu thuật.Khi nhiễm trùng huyết nặng hơn hoặc sốc nhiễm trùng phát triển, dấu hiệu ban đầu, đặc biệt ở người cao tuổi hoặc trẻ nhỏ, có thể là lú lẫn hoặc giảm tỉnh táo. Huyết áp giảm, nhưng da vẫn ấm. Sau đó, các chi thường trở nên lạnh và nhợt nhạt, nổi vân tím ngoại biên. Rối loạn chức năng của nội tạng gây ra thêm các triệu chứng và dấu hiệu cụ thể cho các cơ quan có liên quan (ví dụ, niệu vị, khó thở).
+
+--- 4. Chẩn đoán nhiễm trùng huyết và sốc nhiễm trùng ---
+
+Bệnh sử và khám lâm sàngTheo dõi huyết áp, nhịp tim, và oxyCông thức máu (CBC) kèm theo công thức bạch cầu, bảng xét nghiệm điện giải, creatinine và lactateÁp lực tĩnh mạch trung tâm (CVP) xâm lấn, áp suất riêng phần oxy động mạch (PaO2) và chỉ số độ bão hòa oxy tĩnh mạch trung tâm (ScvO2)Cấy máu, nước tiểu, và các vị trí tiềm ẩn nhiễm trùng khác, bao gồm cả vết thương ở bệnh nhân phẫu thuậtNghi ngờ nhiễm trùng huyết khi bệnh nhân đã biết nhiễm trùng phát triển các dấu hiệu viêm toàn thân hoặc rối loạn chức năng cơ quan (1). Tương tự như vậy, một bệnh nhân có các dấu hiệu viêm toàn thân không rõ nguyên nhân khác thì nên được đánh giá về nhiễm trùng theo tiền sử, khám thực thể và chẩn đoán hình ảnh hoặc xét nghiệm trong phòng thí nghiệm. Các xét nghiệm bao gồm xét nghiệm nước tiểu và nuôi cấy nước tiểu (đặc biệt ở những bệnh nhân có ống thông lưu), nuôi cấy máu và nuôi cấy các chất dịch cơ thể nghi ngờ khác. Nồng độ protein phản ứng C và procalcitonin thường tăng ở nhiễm khuẩn huyết nặng và có thể giúp cho chẩn đoán nhưng chúng không đặc hiệu. Ở những bệnh nhân nghi ngờ có nguyên nhân nhiễm trùng huyết ẩn hoặc do phẫu thuật, có thể cần phải siêu âm (ví dụ:Siêu âm nhanh để kiểm tra sốc và hạ huyết áp (RUSH)), chụp CT hoặc chụp MRI, tùy thuộc vào nguồn nghi ngờ. Cuối cùng, chẩn đoán là lâm sàng.Các nguyên nhân gây sốc khác (ví dụ: giảm thể tích máu,nhồi máu cơ tim[MI]) cần phải được loại trừ thông qua bệnh sử, khám thực thể, ECG và đo chất chỉ điểm sinh học tim trong huyết thanh theo chỉ định lâm sàng. Ngay cả khi không có nhồi máu cơ tim, giảm tưới máu mô do nhiễm khuẩn huyết có thể dẫn đến trên điện tim có hình ảnh thiếu máu, bao gồm những bất thường không đặc hiệu về sóng ST-T, sự đảo ngược sóng T, rối loạn nhịp thất và trên thất.Điều quan trọng là phát hiện ra rối loạn chức năng của cơ quan càng sớm càng tốt. Một số hệ thống tính điểm đã được đưa ra để phát hiện sớm nhiễm trùng huyết, nhưng điểm đánh giá suy tạng tuần tự (điểm SOFA) và điểm SOFA nhanh (qSOFA) đã được xác nhận về nguy cơ tử vong và sử dụng tương đối đơn giản. Điểm số qSOFA dựa trên huyết áp, nhịp thở vàThang điểm hôn mê Glasgowvà không cần chờ kết quả xét nghiệm.Đối với những bệnh nhân nghi ngờ nhiễm trùngkhông nằm trong khoa hồi sức tích cực (ICU), điểm qSOFA là yếu tố dự báo tốt hơn về tỷ lệ tử vong của bệnh nhân nội trú so với tiêu chuẩn SIRS và điểm SOFA. Đối với những bệnh nhân nghi ngờ nhiễm trùng đang điều trịtại ICU, điểm SOFA là yếu tố dự báo tử vong nội trú tốt hơn tiêu chuẩn SIRS và điểm qSOFA (2).Bệnh nhân có≥2 tiêu chuẩn sau đáp ứngtiêu chuẩn SIRSvà cần được thăm dò lâm sàng thêm:Nhiệt độ>38°C (100,4°F) hoặc<36°C (96,8°F)Nhịp tim>90 lần/phútNhịp thở>20 nhịp thở mỗi phút hoặc áp suất riêng phần của carbon dioxide động mạch (PaCO2)<32 mm HgSố lượng bạch cầu (WBC)>12.000/mcL (12×109/L),<4.000/mcL (4×109/L) hoặc>10% dạng (bạch cầu đũa) chưa trưởng thànhBệnh nhân có≥2 trường hợp sautiêu chuẩn qSOFAnên có thêm các đặc điểm lâm sàng và xét nghiệm:Nhịp thở≥22 nhịp/phútThay đổi ý thứcHuyết áp tâm thu≤100 mm HgĐiểm SOFAcó phần mạnh mẽ hơn khi bệnh nhân được điều trị tại ICU, nhưng điểm này cần phải có xét nghiệm trong phòng thí nghiệm (xem bảngĐiểm đánh giá suy cơ quan tuần tự). Có các hệ thống chấm điểm khác trong sử dụng trên lâm sàng (3).BảngThang điểm đánh giá suy chức năng cơ quan tiến triển(SOFA)BảngThang điểm đánh giá suy chức năng cơ quan tiến triển(SOFA)Thang điểm đánh giá suy chức năng cơ quan tiến triển(SOFA)Tham sốĐiểm: 0Điểm: 1Điểm: 2Điểm: 3Điểm: 4Pao2/FIO2≥400 mm Hg (53,3 kPa)<400 mm Hg (53,3 kPa)<300 mm Hg (40 kPa)<200 mm Hg (26,7 kPa) với hỗ trợ hô hấp<100 mm Hg (13,3 kPa) với hỗ trợ hô hấpTiểu cầu≥150×103/mcL (≥150×109/L)<150×103/mcL (<150×109/L)<100×103/mcL (<100×109/L)<50×103/mcL (<50×109/L)<20×103/mcL (<20×109/L)Bilirubin<1,2 mg/dL (20 micromol/L)1,2-1,9 mg/dL (20-32 micromol/L)2,0-5,9 mg/dL (33-101 micromol/L)6,0-11,9 mg/dL (102-204 micromol/L)>12,0 mg/dL (204 micromol/L)Tim mạch (với các liều thuốc được cho dùng trong≥1 tiếng)MAP≥70 mm HgMAP<70 mm HgDopamine<5 mcg/kg/phúthoặc làBất kỳ liều dobutamine nàoDopamine 5,1–15 mcg/kg/phúthoặc làEpinephrine≤0,1 mcg/kg/phúthoặc làNorepinephrine≤0,1 mcg/kg/phútDopamine>15 mcg/kg/phúthoặc làEpinephrine>0,1 mcg/kg/phúthoặc làNorepinephrine>0,1 mcg/kg/phútĐiểm số theoThang điểm hôn mê Glasgow*15 điểm13-14 điểm10-12 điểm6-9 điểm<6 điểmCreatinine<1,2 mg/dL (110 micromol/L)1,2-1,9 mg/dL (110-170 micromol/L)2,0-3,4 mg/dL (171-299 micromol/L)3,5-4,9 mg/dL (300-400 micromol/L)>5,0 mg/dL (440 micromol/L)Lượng nước tiểu———<500 mL/ngày<200 mL/ngày* Điểm số cao hơn cho thấy chức năng thần kinh tốt hơn.FIO2 = phân suất oxy hít vào; kPa = kilopascal; MAP = huyết áp động mạch trung bình; PaO2 = áp suất riêng phần oxy động mạch.Phỏng theoSinger M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016. doi:10.1001/jama.2016.0287* Điểm số cao hơn cho thấy chức năng thần kinh tốt hơn.FIO2 = phân suất oxy hít vào; kPa = kilopascal; MAP = huyết áp động mạch trung bình; PaO2 = áp suất riêng phần oxy động mạch.Phỏng theoSinger M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016. doi:10.1001/jama.2016.0287Theo dõi CBC, khí máu động mạch (ABG), chụp X-quang ngực, điện giải trong huyết thanh, BUN (nitơurêmáu), creatinine, áp suất riêng phần của carbon dioxide (PCO2) và chức năng gan. Nồng độ lactate huyết thanh, ScvO2, hoặc cả hai có thể được xác định để giúp hướng dẫn điều trị. Số lượng bạch cầu có thể giảm (<4.000/mcL [<4×109/L]) hoặc tăng lên (>15.000/mcL [>15×109/L]) và bạch cầu đa nhân có thể thấp tới 20%. Trong quá trình nhiễm trùng huyết, số lượng bạch cầu có thể dao động, tùy thuộc vào mức độ nặng của nhiễm trùng huyết hoặc sốc, tình trạng miễn dịch của bệnh nhân và nguyên nhân nhiễm trùng. Việc sử dụng corticosteroid đồng thời có thể làm tăng lượng bạch cầu và do đó làm thay đổi số lượng bạch cầu thực tế do xu hướng bệnh tật.Tăng thông khí vớikiềm hô hấp(PaCO2 thấp và pH tăng) xảy ra sớm, như một phần của việc bù cho tình trạng toan lactic. Bicarbonate huyết thanh thường thấp, nồng độ lactate trong huyết thanh và máu tăng lên. Khi sốc tiến triển, tình trạngnhiễm toan chuyển hóatrở nên trầm trọng hơn và pH máu giảm.Suy hô hấp hạ oxy máusớm dẫn đến giảm tỷ lệ PaO2/phân suất oxy hít vào (FIO2) và đôi khi hạ oxy máu rõ rệt với PaO2<70 mm Hg. Hình ảnh thâm nhiễm khuếch tán có thể xuất hiện trên X-quang ngực dohội chứng suy hô hấp cấp tính(ARDS). BUN và creatinine thường tăng dần do suy thận. Bilirubin và transaminase có thể tăng, mặc dùsuy ganrõ rệt hiếm khi xảy ra ở những bệnh nhân có chức năng gan bình thường.Các phép đo huyết động với catheter tĩnh mạch trung tâm hoặccatheter động mạch phổicó thể được sử dụng khi tình trạng sốc cụ thể không rõ ràng hoặc khi bù lượng dịch lớn (ví dụ, cần>4 đến 5 L crystalloid cân bằng trong vòng 6 đến 8 giờ).Siêu âm tim tại giường trong ICU là một phương pháp thay thế thực tế và không xâm lấn để theo dõi huyết động. Trong sốc nhiễm khuẩn, cung lượng tim tăng và sức cản mạch ngoại biên giảm, trong khi ởcác dạng sốc khác, cung lượng tim thường giảm và sức cản mạch ngoại biên tăng lên.Cả CVP và áp lực tắc động mạch phổi (PAOP) đều không có khả năng là bất thường trong sốc nhiễm trùng, không giống như sốc do giảm thể tích,sốc do tắc nghẽn hoặc sốc do tim.Nhiều bệnh nhân nhiễm khuẩn huyết nặng phát triển tương đối tình trạngsuy thượng thận(ví dụ, nồng độ cortisol bình thường hoặc tăng nhẹ so với mức cơ bản, không tăng đáng kể khi đáp ứng với stress tiếp theo hoặc hormone vỏ thượng thận [ACTH] ngoại sinh). Chức năng của tuyến thượng thận có thể được kiểm tra bằng cách đo cortisol huyết thanh lúc 8 sáng; nồng độ<5 mcg/dL (<138 nmol/L) là không thích hợp. Ngoài ra, cortisol có thể được đo trước và sau khi tiêm 250 mcg ACTH tổng hợp; sự gia tăng<9 mcg/dL (<248 nmol/L) được coi là không đủ.Siêu âm nhanh để kiểm tra sốc ...Các videoCác công cụ tính toán hữu ích cho nhiễm trùng huyếtCông cụ tính toán lâm sàngBảng điểm GlasgowCông cụ tính toán lâm sàngSequential Organ Failure Assessment (Quick): qSOFA ScoreCông cụ tính toán lâm sàngĐánh giá suy chức năng cơ quan tiến triển (SOFA)Công cụ tính toán lâm sàngBảng điểm GlasgowCông cụ tính toán lâm sàngSequential Organ Failure Assessment (Quick): qSOFA ScoreCông cụ tính toán lâm sàngĐánh giá suy chức năng cơ quan tiến triển (SOFA)Tài liệu tham khảo chẩn đoán1.Singer M, Deutschman CS, Seymour CW, et al:The third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA315:801–810, 2016. doi:10.1001/jama.2016.02872.Seymour CW, Liu VX, Iwashyna TJ, et al: Assessment of clinical criteria for sepsis: For the third international consensus definitions for sepsis and septic shock (sepsis-3).JAMA215(8):762–774, 2016. doi: 10.1001/jama.2016.02883.Covino M, Sandroni C, Della Polla D, et al: Predicting ICU admission and death in the Emergency Department: A comparison of six early warning scores.Resuscitation190:109876, 2023. doi:10.1016/j.resuscitation.2023.109876
+
+--- 5. Điều trị nhiễm trùng huyết và sốc nhiễm trùng ---
+
+Hồi phục tưới máu mô bằng việc bù dịch đường tĩnh mạch, và đôi khi cần dùng thuốc vận mạchHỗ trợ oxyKháng sinh phổ rộngKiểm soát nguồnĐôi khi cần các biện pháp hỗ trợ khác (ví dụ, corticosteroid, insulin)Bệnh nhân bị sốc nhiễm trùng cần phải được điều trị trong ICU. Những điều sau đây cần được theo dõi thường xuyên (thường xuyên hàng giờ):Tình trạng thể tích sử dụng CVP, PAOP, siêu âm tuần tự và/hoặc ScvO2Khí máu động mạchNồng độ glucose trong máu, lactate, và chất điện giảiChức năng thậnĐộ bão hòa oxy máu động mạch nên được đo liên tục thông qua đo độ bão hòa oxy trong máu. Lượng nước tiểu là một chỉ số có giá trị trong đánh giá tưới máu thận, thông thường được đo lại (nói chung, nên tránh đặt sonde nước tiểu nếu không cần thiết). Khởi phát thiểu niệu (ví dụ:<khoảng 0,5 mL/kg/giờ) hoặc vô niệu, hoặc creatinine tăng có thể báo hiệu suy thận sắp xảy ra.Việc tuân theo các hướng dẫn dựa trên bằng chứng và các phác đồ chính thức để chẩn đoán và điều trị nhiễm trùng huyết kịp thời đã được chứng minh là làm giảm tỷ lệ tử vong và thời gian nằm viện (1,2).Phục hồi tưới máu môBù dịch đường tĩnh mạch là phương pháp đầu tiên được sử dụng để phục hồi tưới máu. Crystaloid đẳng trương cân bằng được ưu tiên. Một số bác sĩ lâm sàng thêm albumin vào lượng dịch ban đầu ở bệnh nhân nhiễm trùng huyết nặng hoặc sốc nhiễm khuẩn; tuy nhiên, có rất ít bằng chứng chứng minh lợi ích sống sót tăng lên (2). Chất lỏng có nguồn gốc từ tinh bột (ví dụ: tinh bột hydroxyethyl) có liên quan đến việc tăng tỷ lệ tử vong và không nên sử dụng (3).Ban đầu, cần bù nhanh 1 lít dịch tinh thể. Hầu hết các bệnh nhân đều cần tối thiểu 30 mL/kg trong 4 đến 6 giờ đầu tiên. Tuy nhiên, mục tiêu của điều trị không phải là truyền một lượng dịch nhất định mà là đạt được sự tái tưới máu mô mà không gây phù phổi doquá tải dịch.Ước tính tái tưới máu thành công bao gồm ScvO2 và thanh thải lactate (nghĩa là phần trăm thay đổi nồng độ lactate huyết thanh trong 6 đến 8 giờ). Mục tiêu ScvO2 là≥70%. Mục tiêu thanh thải lactate là 10 đến 20%.Nguy cơ phù phổi có thể được kiểm soát bằng cách tối ưu hóa tiền gánh; nên truyền dịch cho đến khi CVP đạt 8 mm Hg (10 cm nước) hoặc PAOP đạt 12 đến 15 mm Hg; tuy nhiên, bệnh nhânthở máycó thể yêu cầu mức CVP cao hơn. Lượng dịch cần thiết thường vượt quá khối lượng máu bình thường và có thể đạt đến 10 L trong 4 đến 12 giờ. PAOP hoặc siêu âm tim có thể xác định những hạn chế về chức năng tâm thất trái và phù phổi ban đầu do tình trạng quá tải dịch. Siêu âm tại giường cũng có thể được sử dụng để đánh giá tình trạng thể tích, bao gồm giãn hoặc xẹp tĩnh mạch chủ dưới (IVC), chức năng tim và sự hiện diện của phù phổi.Nếu bệnh nhân bị sốc nhiễm trùng vẫn bị hạ huyết áp sau khi CVP hoặc PAOP đã được nâng lên mức mục tiêu, có thể dùng norepinephrine (liều tùy theo từng cá nhân) hoặc vasopressin (lên đến 0,03 đơn vị/phút) để tăng huyết áp trung bình lên ít nhất 65 mm. Hg. Epinephrine có thể được thêm vào nếu cần dùng thuốc thứ hai. Tuy nhiên, co mạch do liều cao hơn của các loại thuốc này gây ra có thể làm giảm tưới máu cơ quan và nhiễm toan.Hỗ trợ oxyOxy được cung cấp bằng mặt nạ, dây thở có ngạnh mũi hoặcthông khí áp lực dương không xâm lấn. Có thể cần thiết đặt ống thông khí quản và thông khí cơ học do suy hô hấp (xem phầnThông khí cơ khí trong ARDS).Thuốc kháng sinhKháng sinh đường tĩnh mạch nên được dùng càng sớm càng tốt sau khi lấy mẫu máu, chất dịch cơ thể, và vết thương đã được lấy để nhuộm Gram và nuôi cấy. Điều trị theo kinh nghiệm kịp thời, bắt đầu ngay sau khi nghi ngờ nhiễm trùng huyết, là điều cần thiết và có thể cứu sống bệnh nhân. Lựa chọn kháng sinh đòi hỏi phải có một phán đoán đã được đào tạo dựa trên nguồn nghi ngờ (ví dụ, viêm phổi, nhiễm trùng đường tiểu), thiết lập lâm sàng, kiến thức hoặc các sinh vật nghi ngờ gây bệnh và các mô hình nhạy cảm phổ biến đối với đơn vị hoặc cơ sở nội trú cụ thể đó và kết quả nuôi cấy trước đó.Thông thường, ban đầu sử dụng phạm vi bao phủ vi khuẩn gram dương và gram âm phổ rộng; những bệnh nhân bị suy giảm miễn dịch cũng nên dùng thuốc chống nấm theo kinh nghiệm. Có rất nhiều phác đồ có thể bắt đầu; khi có sẵn, nên sử dụng các xu hướng lây nhiễm các sinh vật và mô hình nhạy cảm với kháng sinh của chúng (kháng sinh đồ) để lựa chọn điều trị theo kinh nghiệm. Nói chung, kháng sinh thông thường đối với việc bao phủ gram dương tích cực bao gồm vancomycin và linezolid. Điều trị vi khuẩn gram âm theo kinh nghiệm có nhiều lựa chọn hơn và bao gồm penicillin phổ rộng (ví dụ: piperacillin/tazobactam), cephalosporin thế hệ thứ ba hoặc thứ tư, imipenems và aminoglycoside. Phạm vi phổ rộng ban đầu được thu hẹp nếu xác định được một nguồn lây nhiễm cụ thể và cũng khi có dữ liệu nuôi cấy và độ nhạy.Ngọc trai & cạm bẫyKiến thức về các xu hướng lây nhiễm và đặc thù đơn vị chăm sóc trong việc lây nhiễm các sinh vật và độ nhạy cảm kháng sinh của chúng là một hướng dẫn quan trọng để lựa chọn kháng sinh theo kinh nghiệm.Kiểm soát nguồnNguồn lây nhiễm cần được kiểm soát càng sớm càng tốt. Đường truyền tĩnh mạch và ống thông tiểu, ống nội khí quản nên được loại bỏ nếu có thể hoặc thay đổi. Áp - xe phải được dẫn lưu, và các mô hoại tử và viêm nhiễm (ví dụ, hoại tử túi mật, hoại tử mô mềm) phải được phẫu thuật cắt bỏ. Nếu không thể cắt bỏ được (ví dụ, do các bệnh kèm theo hoặc huyết động không ổn định), phẫu thuật dẫn lưu có thể giúp ích. Nếu nguồn không được kiểm soát, tình trạng của bệnh nhân sẽ tiếp tục xấu đi mặc dù dùng kháng sinh.Các biện pháp hỗ trợ khácBình thường hóa đường huyết giúp cải thiện kết quả ở những bệnh nhân bị bệnh nặng, ngay cả những người không mắc bệnh tiểu đường, vì tăng đường huyết làm suy yếu phản ứng miễn dịch với nhiễm trùng. Truyền insulin liên tục (liều khởi đầu 1 đến 4 đơn vị/giờ) được điều chỉnh liều để duy trì lượng đường huyết trong khoảng 110 đến 180 mg/dL (7,7 đến 9,9 mmol/L). Phương pháp này đòi hỏi phải đo lượng glucose thường xuyên (ví dụ, mỗi 1 đến 4 giờ).Điều trị bằng corticosteroid (ví dụ: hydrocortisone<400 mg đường tĩnh mạch mỗi ngày chia làm nhiều lần) được chỉ định cho những bệnh nhân bị suy thượng thận được ghi nhận bằng xét nghiệm cortisol. Tuy nhiên, trong sốc nhiễm trùng kháng trị (huyết áp tâm thu<90 mm Hg trong hơn 1 giờ sau khi được hồi sức đủ dịch và dùng thuốc vận mạch, đạt được sự kiểm soát nguồn và dùng kháng sinh), không cần xét nghiệm cortisol trước khi bắt đầu điều trị bằng corticosteroid (4). Tiếp tục điều trị dựa trên đáp ứng của bệnh nhân.Tài liệu tham khảo về điều trị1.Bhattacharjee P, Edelson DP, Churpek MM: Identifying patients with sepsis on the hospital wards.Chest151:898–907, 2017. doi: 10.1016/j.chest.2016.06.02T2.Evans L, Rhodes A, Alhazzani W, et al: Chiến dịch sống sót với nhiễm trùng huyết: International Guidelines for Management of Sepsis and Septic Shock 2021.Crit Care Med49(11):e1063–e1143, 2021. doi:10.1097/CCM.00000000000053373.Zarychanski R, Abou-Setta AM, Turgeon AF, et al: Association ofhydroxyethyl starchadministration with mortality and acute kidney injury in critically ill patients requiring volume resuscitation: a systematic review and meta-analysis [published correction appears inJAMA309(12):1229, 2013].JAMA309(7):678–688, 2013. doi:10.1001/jama.2013.4304.Annane D, Pastores SM, Rochwerg B, et al: Guidelines for the diagnosis and management of critical illness-related corticosteroid insufficiency (CIRCI) in critically ill patients (Part I): Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM) 2017.Intensive Care Med43(12):1751-1763, 2017. doi: 10.1007/s00134-017-4919-5
+
+--- 6. Tiên lượng về nhiễm trùng huyết và sốc nhiễm trùng ---
+
+Tỷ lệ tử vong chung ở bệnh nhân sốc nhiễm trùng đang giảm và khoảng 20% (với phạm vi rộng, tùy thuộc vào đặc điểm của bệnh nhân) (1). Kết cục xấu thường theo sau một thất bại trong điều trị tích cực sớm (ví dụ, trong vòng 6 giờ từ khi nghi ngờ chẩn đoán). Khi cótoan lactictrầm trọng vớitoan chuyển hóamất bù, đặc biệt là kết hợp với suy đa tạng, sốc nhiễm khuẩn có thể không hồi phục và gây tử vong. Tỷ lệ tử vong có thể được ước tính với các điểm số khác nhau bao gồm cả điểm của khoa cấp cứu nhiễm trùng huyết (MEDS). Điểm số rối loạn chức năng đa cơ quan (MODS) đo lường sự rối loạn chức năng của 6 hệ cơ quan và tương quan chặt chẽ với nguy cơ tử vong.Công cụ tính toán lâm sàngĐiểm số MEDS: Tỷ lệ tử vong do nhiễm khuẩn huyết tại khoa cấp cứuCông cụ tính toán lâm sàngMultiple Organ Dysfunction Score (MODS)Tài liệu tham khảo về tiên lượng bệnh1.Rudd KE, Johnson SC, Agesa KM, et al: Global, regional, and national sepsis incidence and mortality, 1990–2017: analysis for the Global Burden of Disease Study.Lancet395(10219):200–211, 2020. doi:10.1016/S0140-6736(19)32989-7
+
+--- 7. Những điểm chính ---
+
+Nhiễm khuẩn huyết và sốc nhiễm khuẩn là những hội chứng lâm sàng nghiêm trọng về các rối loạn chức năng của cơ quan đe dọa tính mạng do phản ứng không đều đối với nhiễm trùng.Một thành phần quan trọng là giảm đáng kể lượng tưới máu mô, có thể dẫn tới sự suy cấp tính của nhiều cơ quan, bao gồm phổi, thận và gan.Nhận biết và điều trị sớm là chìa khóa để cải thiện thời gian sống thêm.Hồi sức bằng truyền dịch theo đường tĩnh mạch và đôi khi dùng thuốc vận mạch để tối ưu hóa độ bão hòa và tiền tải oxy tĩnh mạch trung tâm, đồng thời làm giảm nồng độ lactate trong huyết thanh.Kiểm soát nguồn lây nhiễm bằng cách bỏ ống thông, ống dẫn, mô bị nhiễm bệnh và/hoặc hoại tử và dẫn lưu áp xe.Cho kháng sinh phổ rộng theo kinh nghiệm hướng vào hầu hết các sinh vật có khả năng có và nhanh chóng chuyển sang các loại thuốc cụ thể hơn dựa trên kết quả nuôi cấy và độ nhạy.

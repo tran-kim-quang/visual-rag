@@ -1,0 +1,329 @@
+TIÊU ĐỀ: Nhóm coronavirus và các hội chứng hô hấp cấp tính (MERS và SARS)
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/các-vi-rút-đường-hô-hấp/nhóm-coronavirus-và-các-hội-chứng-hô-hấp-cấp-tính-mers-và-sars
+================================================================================
+
+NỘI DUNG:
+
+Nhóm coronavirus và các hội chứng hô hấp cấp tính (MERS và SARS)
+
+Theo
+
+Sophie Katz
+
+,
+
+MD, MPH
+
+,
+
+Vanderbilt University Medical Center
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1019191_vi
+
+Nhóm coronavirus là những vi rút RNA có vỏ gây ra các bệnh đường hô hấp với mức độ nặng khác nhau từ cảm lạnh thông thường đến viêm phổi gây tử vong.
+
+Hội chứng hô hấp Trung Đông (MERS)
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Hội chứng Hô hấp cấp tính nghiêm trọng (SARS)
+
+|
+
+Vô số các coronavirus, được phát hiện lần đầu tiên ở gia cầm vào những năm 1930, gây ra các bệnh về đường hô hấp, đường tiêu hóa, gan và thần kinh ở động vật.
+
+Bốn loại coronavirus (229E, OC43, NL63 và HKU1) thường gây ra các triệu chứng
+
+cảm lạnh thông thường
+
+nhất. Hiếm khi, nhiễm trùng đường hô hấp dưới nặng, bao gồm viêm tiểu phế quản và viêm phổi, có thể xảy ra, chủ yếu ở trẻ sơ sinh, người cao tuổi và người bị suy giảm miễn dịch.
+
+Ba loại coronavirus gây nhiễm trùng đường hô hấp nghiêm trọng hơn nhiều và đôi khi gây tử vong ở người so với các loại coronavirus khác và đã gây ra những đợt bùng phát lớn bệnh viêm phổi chết người trong thế kỷ 21:
+
+SARS-CoV-2
+
+là nguyên nhân gây bệnh coronavirus 2019 (COVID-19).
+
+MERS-CoV
+
+được xác định vào năm 2012 là nguyên nhân của hội chứng hô hấp Trung Đông (MERS).
+
+SARS-CoV-1
+
+được xác định vào năm 2003 là nguyên nhân gây ra đợt bùng phát hội chứng hô hấp cấp tính nặng (SARS) bắt đầu ở Trung Quốc vào năm 2002.
+
+Nhóm coronavirus này gây nhiễm trùng đường hô hấp nặng là các tác nhân gây bệnh từ động vật, bắt đầu ở những động vật bị nhiễm bệnh và lan truyền từ động vật sang người. SARS-CoV-2 có mức độ lây truyền đáng kể từ người sang người.
+
+Hội chứng hô hấp Trung Đông (MERS)
+
+Hội chứng hô hấp Trung Đông (MERS) là một bệnh hô hấp cấp tính nặng do coronavirus MERS (MERS-CoV) gây ra.
+
+Nhiễm MERS-CoV được báo cáo lần đầu tiên vào tháng 9 năm 2012 tại Ả Rập Xê Út (
+
+1
+
+), nhưng đợt bùng phát vào tháng 4 năm 2012 tại Jordan đã được xác nhận hồi cứu (
+
+2
+
+). Tính đến năm 2022, trên toàn thế giới có hơn 2500 trường hợp nhiễm MERS-CoV (với hơn 900 trường hợp tử vong liên quan) đã được báo cáo từ 27 quốc gia (
+
+3
+
+); tất cả các trường hợp MERS đều có liên quan thông qua việc đi lại hoặc cư trú tại các quốc gia trong và gần Bán đảo Ả Rập, với > 80% liên quan đến Ả Rập Xê Út. Vụ dịch MERS lớn nhất được biết đến bên ngoài Bán đảo Ả Rập xảy ra ở Hàn Quốc vào năm 2015 (
+
+4
+
+). Đợt bùng phát dịch xảy ra liên quan đến một hành khách từ Bán đảo Ả Rập trở về. Các trường hợp cũng đã được xác nhận ở các quốc gia trên khắp Châu Âu, Châu Á, Bắc Phi, Trung Đông và Hoa Kỳ trên những bệnh nhân chuyển đến từ Trung Đông hoặc bị ốm sau khi trở về từ đó. Chỉ một số ít trường hợp được báo cáo kể từ ngày 2019 (
+
+3
+
+).
+
+Tổ chức Y tế Thế giới coi nguy cơ nhiễm MERS-CoV là rất thấp đối với những người đi du lịch tới Ả Rập Xê Út để dự lễ Umrah và Hajj.
+
+Tuổi trung bình của bệnh nhân MERS-CoV là khoảng 50 tuổi, và bệnh nhân chủ yếu là nam giới. Tình trạng nhiễm bệnh có xu hướng nặng hơn ở người cao tuổi và ở những bệnh nhân có bệnh lý từ trước như tiểu đường, rối loạn tim mạn tính hoặc rối loạn thận mạn tính.
+
+Mức độ lan truyền của MERS-CoV
+
+MERS-CoV có thể lan truyền từ người sang người thông qua tiếp xúc trực tiếp, các giọt nước bọt (các hạt > 5 micro mét), hoặc các sol khí (các hạt < 5 micro mét).
+
+Nguồn MERS-CoV được cho là lạc đà một bướu, nhưng vẫn chưa rõ cơ chế lan truyền từ lạc đà sang người. Hầu hết các trường hợp được báo cáo liên quan đến lây truyền trực tiếp từ người sang người trong các cơ sở chăm sóc sức khỏe. Nếu nghi ngờ MERS trên bệnh nhân, các biện pháp kiểm soát nhiễm trùng phải được bắt đầu kịp thời để ngăn ngừa lây truyền trong các cơ sở chăm sóc sức khỏe.
+
+Tài liệu tham khảo
+
+1.
+
+Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA
+
+: Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia [published correction appears in N Engl J Med. Ngày 25 tháng 7 năm 2013;369(4):394].
+
+N Engl J Med
+
+. 2012;367(19):1814-1820. doi:10.1056/NEJMoa1211721
+
+2.
+
+Hijawi B, Abdallat M, Sayaydeh A, et al
+
+: Novel coronavirus infections in Jordan, tháng 4 năm 2012: epidemiological findings from a retrospective investigation.
+
+East Mediterr Health J
+
+. 2013;19 Suppl 1:S12-S18.
+
+3.
+
+World Health Organization Middle East respiratory syndrome
+
+: Global summary and assessment of risk. Ngày 16 tháng 11 năm 2022. Truy cập tháng 4 năm 2024.
+
+4.
+
+Ki M
+
+: 2015 MERS outbreak in Korea: hospital-to-hospital transmission.
+
+Epidemiol Health
+
+. 2015;37:e2015033. Xuất bản ngày 21 tháng 7 năm 2015. doi:10.4178/epih/e2015033
+
+Triệu chứng và dấu hiệu MERS
+
+Thời gian ủ bệnh đối với MERS-CoV là khoảng 5 ngày.
+
+Ban đầu, hầu hết các trường hợp được báo cáo đều liên quan đến bệnh hô hấp nặng cần nhập viện, với tỷ lệ tử vong trong trường hợp khoảng 35%; tuy nhiên, khoảng 21% số bệnh nhân có triệu chứng nhẹ hoặc không có triệu chứng (
+
+1
+
+). Từ năm 2019 đến năm 2022 chỉ có 5% số trường hợp được báo cáo không có triệu chứng hoặc mắc bệnh nhẹ, nhưng mức giảm này có thể là do giảm xét nghiệm và phát hiện ca bệnh do đại dịch COVID-19 đang diễn ra và không phải do thay đổi độc lực.
+
+Thường có sốt, ớn lạnh, đau cơ và ho. Các triệu chứng tiêu hóa (ví dụ: tiêu chảy, nôn ói, đau bụng) xảy ra ở khoảng một phần ba số bệnh nhân. Các biểu hiện có thể đủ nặng để cần phải điều trị tại khoa hồi sức tích cực, nhưng tỷ lệ các trường hợp như vậy đã giảm mạnh theo thời gian.
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+World Health Organization Middle East respiratory syndrome
+
+: Global summary and assessment of risk. Ngày 16 tháng 11 năm 2022. Truy cập tháng 4 năm 2024.
+
+Chẩn đoán MERA
+
+Xét nghiệm phản ứng chuỗi polymerase sao chép ngược theo thời gian thực (RT-PCR) các dịch tiết ở đường hô hấp trên và dưới và huyết thanh
+
+Cần phải nghi ngờ MERS trên những bệnh nhân bị nhiễm trùng đường hô hấp dưới cấp tính có sốt không rõ nguyên nhân và những người có bất cứ dấu hiệu nào trong những dấu hiệu sau đây trong vòng 14 ngày kể từ khi khởi phát triệu chứng:
+
+Du lịch đến hoặc cư trú ở một khu vực gần đây đã được báo cáo là có MERS hoặc nơi có thể xảy ra lây truyền bệnh
+
+Liên hệ với một cơ sở chăm sóc sức khỏe ở nơi đã có lây truyền MERS
+
+Liên hệ chặt chẽ với một bệnh nhân bị ốm có nghi nhiễm MERS
+
+Cũng cần phải nghi nhiễm MERS trên những bệnh nhân đã tiếp xúc gần gũi với bệnh nhân có nghi nhiễm MERS và những người bị sốt cho dù họ có triệu chứng hô hấp hay không.
+
+Hướng dẫn thực hành có tại Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) (
+
+MERS: Information for Healthcare Professionals
+
+).
+
+Xét nghiệm cần phải bao gồm xét nghiệm RT-PCR theo thời gian thực các dịch tiết ở đường hô hấp trên và dưới, lý tưởng là lấy ở các vị trí khác nhau và tại các thời điểm khác nhau. Cần phải lấy huyết thanh ở những bệnh nhân và ở tất cả những người, kể cả những người tiếp xúc gần gũi không có triệu chứng, bao gồm cả nhân viên chăm sóc sức khỏe (để giúp xác định MERS nhẹ hoặc không có triệu chứng). Huyết thanh được lấy ngay sau khi nghi nhiễm MERS hoặc sau khi tiếp xúc (huyết thanh cấp tính) và sau đó 3 đến 4 tuần (huyết thanh ở giai đoạn hồi phục). Xét nghiệm được thực hiện tại các sở y tế tiểu bang hoặc CDC.
+
+Ở tất cả các bệnh nhân, hình ảnh ngực phát hiện những bất thường, có thể là khó thấy hoặc rộng, một bên hoặc hai bên. Ở một số bệnh nhân, nồng độ lactate dehydrogenase (LDH) và aspartate aminotransferase (AST) tăng cao và/hoặc số lượng tiểu cầu và bạch cầu lympho thấp. Một vài bệnh nhân có
+
+thương tổn thận cấp tính
+
+.
+
+Đông máu nội mạch lan tỏa
+
+và tan máu có thể phát sinh.
+
+Điều trị MERS
+
+Điều trị hỗ trợ
+
+Điều trị MERS là hỗ trợ. Để giúp ngăn ngừa lây lan từ các trường hợp nghi ngờ, các chuyên gia chăm sóc sức khỏe nên sử dụng các biện pháp phòng ngừa tiêu chuẩn, tiếp xúc và không khí.
+
+Không có vắc xin.
+
+(Xem thêm
+
+World Health Organization
+
+: Clinical management of severe acute respiratory infection when Middle East respiratory syndrome coronavirus (MERS-CoV) infection is suspected. Interim guidance, Cập nhật tháng 1 năm 2019.
+
+Hội chứng Hô hấp cấp tính nghiêm trọng (SARS)
+
+Hội chứng hô hấp cấp tính nặng (SARS) là một bệnh hô hấp cấp tính nặng do coronavirus SARS (SARS-CoV-1) gây ra.
+
+SARS là một bệnh nhiễm coronavirus nặng với tỷ lệ tử vong theo ca bệnh khoảng 15%, nhưng tỷ lệ tử vong cao hơn nhiều ở người cao tuổi (
+
+1
+
+). SARS là một bệnh giống cúm đôi khi dẫn đến suy hô hấp nặng tiến triển.
+
+SARS-CoV-1 được phát hiện lần đầu tiên ở tỉnh Quảng Đông của Trung Quốc vào tháng 11 năm 2002 và sau đó lan sang 28 quốc gia khác (
+
+2
+
+). Trong đợt bùng phát này, > 8000 trường hợp được báo cáo trên toàn thế giới, với 774 trường hợp tử vong (tỷ lệ tử vong trong trường hợp khoảng 10%, tăng đáng kể theo độ tuổi, với tỷ lệ tử vong > 50% ở những người > 65 tuổi) (
+
+3, 4
+
+). Đợt bùng phát SARS-CoV-1 là lần đầu tiên Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) khuyến nghị không nên đi du lịch đến một khu vực. Đợt bùng phát dịch này đã lắng xuống và không có trường hợp mới nào được xác định kể từ năm 2004. Nguồn trực tiếp được cho là cầy hương, được bán làm thực phẩm trong một chợ bán động vật sống và có khả năng là đã bị nhiễm bệnh do tiếp xúc với dơi trước khi chúng bị bắt để mang đi bán. Dơi thường là vật chủ của nhóm coronavirus.
+
+SARS-CoV-1 lây truyền từ người sang người qua tiếp xúc cá nhân gần gũi. Nó được cho là lây truyền dễ dàng nhất bởi các giọt nước bọt tạo ra khi người nhiễm bệnh ho hoặc hắt hơi.
+
+Chẩn đoán SARS được thực hiện trên lâm sàng, và điều trị là hỗ trợ. Phối hợp các biện pháp kiểm soát nhiễm trùng kịp thời và cứng rắn đã giúp kiểm soát đợt bùng phát dịch năm 2002 một cách nhanh chóng.
+
+Mặc dù không có trường hợp mới nào được báo cáo kể từ năm 2004, không nên xem xét loại bỏ SARS vì vi rút gây bệnh có một ổ nguồn từ động vật mà từ đó có thể hình dụng việc tái xuất hiện trở lại của vi rút này.
+
+Tham khảo về SARS
+
+1.
+
+World Health Organization:
+
+Consensus document on the epidemiology of severe acute respiratory syndrome (‎SARS)‎, 2003, WHO/CDS/CSR/GAR/2003.11
+
+2.
+
+Cherry JD
+
+: The chronology of the 2002-2003 SARS mini pandemic.
+
+Paediatr Respir Rev
+
+. 2004;5(4):262-269. doi:10.1016/j.prrv.2004.07.009
+
+3.
+
+Morbidity and Mortality Weekly Report
+
+: Revised U.S. Surveillance Case Definition for Severe Acute Respiratory Syndrome (SARS) and Update on SARS Cases --- United States and Worldwide, 52(49);1202-1206, 2003
+
+4.
+
+Peiris JS, Yuen KY, Osterhaus AD, et al
+
+: The severe acute respiratory syndrome.
+
+N Engl J Med
+
+349(25):2431-41, 2003. doi: 10.1056/NEJMra032498. PMID: 14681510
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Hội chứng hô hấp Trung Đông (MERS) ---
+
+Hội chứng hô hấp Trung Đông (MERS) là một bệnh hô hấp cấp tính nặng do coronavirus MERS (MERS-CoV) gây ra.Nhiễm MERS-CoV được báo cáo lần đầu tiên vào tháng 9 năm 2012 tại Ả Rập Xê Út (1), nhưng đợt bùng phát vào tháng 4 năm 2012 tại Jordan đã được xác nhận hồi cứu (2). Tính đến năm 2022, trên toàn thế giới có hơn 2500 trường hợp nhiễm MERS-CoV (với hơn 900 trường hợp tử vong liên quan) đã được báo cáo từ 27 quốc gia (3); tất cả các trường hợp MERS đều có liên quan thông qua việc đi lại hoặc cư trú tại các quốc gia trong và gần Bán đảo Ả Rập, với > 80% liên quan đến Ả Rập Xê Út. Vụ dịch MERS lớn nhất được biết đến bên ngoài Bán đảo Ả Rập xảy ra ở Hàn Quốc vào năm 2015 (4). Đợt bùng phát dịch xảy ra liên quan đến một hành khách từ Bán đảo Ả Rập trở về. Các trường hợp cũng đã được xác nhận ở các quốc gia trên khắp Châu Âu, Châu Á, Bắc Phi, Trung Đông và Hoa Kỳ trên những bệnh nhân chuyển đến từ Trung Đông hoặc bị ốm sau khi trở về từ đó. Chỉ một số ít trường hợp được báo cáo kể từ ngày 2019 (3).Tổ chức Y tế Thế giới coi nguy cơ nhiễm MERS-CoV là rất thấp đối với những người đi du lịch tới Ả Rập Xê Út để dự lễ Umrah và Hajj.Tuổi trung bình của bệnh nhân MERS-CoV là khoảng 50 tuổi, và bệnh nhân chủ yếu là nam giới. Tình trạng nhiễm bệnh có xu hướng nặng hơn ở người cao tuổi và ở những bệnh nhân có bệnh lý từ trước như tiểu đường, rối loạn tim mạn tính hoặc rối loạn thận mạn tính.Mức độ lan truyền của MERS-CoVMERS-CoV có thể lan truyền từ người sang người thông qua tiếp xúc trực tiếp, các giọt nước bọt (các hạt > 5 micro mét), hoặc các sol khí (các hạt < 5 micro mét).Nguồn MERS-CoV được cho là lạc đà một bướu, nhưng vẫn chưa rõ cơ chế lan truyền từ lạc đà sang người. Hầu hết các trường hợp được báo cáo liên quan đến lây truyền trực tiếp từ người sang người trong các cơ sở chăm sóc sức khỏe. Nếu nghi ngờ MERS trên bệnh nhân, các biện pháp kiểm soát nhiễm trùng phải được bắt đầu kịp thời để ngăn ngừa lây truyền trong các cơ sở chăm sóc sức khỏe.Tài liệu tham khảo1.Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA: Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia [published correction appears in N Engl J Med. Ngày 25 tháng 7 năm 2013;369(4):394].N Engl J Med. 2012;367(19):1814-1820. doi:10.1056/NEJMoa12117212.Hijawi B, Abdallat M, Sayaydeh A, et al: Novel coronavirus infections in Jordan, tháng 4 năm 2012: epidemiological findings from a retrospective investigation.East Mediterr Health J. 2013;19 Suppl 1:S12-S18.3.World Health Organization Middle East respiratory syndrome: Global summary and assessment of risk. Ngày 16 tháng 11 năm 2022. Truy cập tháng 4 năm 2024.4.Ki M: 2015 MERS outbreak in Korea: hospital-to-hospital transmission.Epidemiol Health. 2015;37:e2015033. Xuất bản ngày 21 tháng 7 năm 2015. doi:10.4178/epih/e2015033Triệu chứng và dấu hiệu MERSThời gian ủ bệnh đối với MERS-CoV là khoảng 5 ngày.Ban đầu, hầu hết các trường hợp được báo cáo đều liên quan đến bệnh hô hấp nặng cần nhập viện, với tỷ lệ tử vong trong trường hợp khoảng 35%; tuy nhiên, khoảng 21% số bệnh nhân có triệu chứng nhẹ hoặc không có triệu chứng (1). Từ năm 2019 đến năm 2022 chỉ có 5% số trường hợp được báo cáo không có triệu chứng hoặc mắc bệnh nhẹ, nhưng mức giảm này có thể là do giảm xét nghiệm và phát hiện ca bệnh do đại dịch COVID-19 đang diễn ra và không phải do thay đổi độc lực.Thường có sốt, ớn lạnh, đau cơ và ho. Các triệu chứng tiêu hóa (ví dụ: tiêu chảy, nôn ói, đau bụng) xảy ra ở khoảng một phần ba số bệnh nhân. Các biểu hiện có thể đủ nặng để cần phải điều trị tại khoa hồi sức tích cực, nhưng tỷ lệ các trường hợp như vậy đã giảm mạnh theo thời gian.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.World Health Organization Middle East respiratory syndrome: Global summary and assessment of risk. Ngày 16 tháng 11 năm 2022. Truy cập tháng 4 năm 2024.Chẩn đoán MERAXét nghiệm phản ứng chuỗi polymerase sao chép ngược theo thời gian thực (RT-PCR) các dịch tiết ở đường hô hấp trên và dưới và huyết thanhCần phải nghi ngờ MERS trên những bệnh nhân bị nhiễm trùng đường hô hấp dưới cấp tính có sốt không rõ nguyên nhân và những người có bất cứ dấu hiệu nào trong những dấu hiệu sau đây trong vòng 14 ngày kể từ khi khởi phát triệu chứng:Du lịch đến hoặc cư trú ở một khu vực gần đây đã được báo cáo là có MERS hoặc nơi có thể xảy ra lây truyền bệnhLiên hệ với một cơ sở chăm sóc sức khỏe ở nơi đã có lây truyền MERSLiên hệ chặt chẽ với một bệnh nhân bị ốm có nghi nhiễm MERSCũng cần phải nghi nhiễm MERS trên những bệnh nhân đã tiếp xúc gần gũi với bệnh nhân có nghi nhiễm MERS và những người bị sốt cho dù họ có triệu chứng hô hấp hay không.Hướng dẫn thực hành có tại Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) (MERS: Information for Healthcare Professionals).Xét nghiệm cần phải bao gồm xét nghiệm RT-PCR theo thời gian thực các dịch tiết ở đường hô hấp trên và dưới, lý tưởng là lấy ở các vị trí khác nhau và tại các thời điểm khác nhau. Cần phải lấy huyết thanh ở những bệnh nhân và ở tất cả những người, kể cả những người tiếp xúc gần gũi không có triệu chứng, bao gồm cả nhân viên chăm sóc sức khỏe (để giúp xác định MERS nhẹ hoặc không có triệu chứng). Huyết thanh được lấy ngay sau khi nghi nhiễm MERS hoặc sau khi tiếp xúc (huyết thanh cấp tính) và sau đó 3 đến 4 tuần (huyết thanh ở giai đoạn hồi phục). Xét nghiệm được thực hiện tại các sở y tế tiểu bang hoặc CDC.Ở tất cả các bệnh nhân, hình ảnh ngực phát hiện những bất thường, có thể là khó thấy hoặc rộng, một bên hoặc hai bên. Ở một số bệnh nhân, nồng độ lactate dehydrogenase (LDH) và aspartate aminotransferase (AST) tăng cao và/hoặc số lượng tiểu cầu và bạch cầu lympho thấp. Một vài bệnh nhân cóthương tổn thận cấp tính.Đông máu nội mạch lan tỏavà tan máu có thể phát sinh.Điều trị MERSĐiều trị hỗ trợĐiều trị MERS là hỗ trợ. Để giúp ngăn ngừa lây lan từ các trường hợp nghi ngờ, các chuyên gia chăm sóc sức khỏe nên sử dụng các biện pháp phòng ngừa tiêu chuẩn, tiếp xúc và không khí.Không có vắc xin.(Xem thêmWorld Health Organization: Clinical management of severe acute respiratory infection when Middle East respiratory syndrome coronavirus (MERS-CoV) infection is suspected. Interim guidance, Cập nhật tháng 1 năm 2019.
+
+--- 2. Triệu chứng và dấu hiệu MERS ---
+
+Thời gian ủ bệnh đối với MERS-CoV là khoảng 5 ngày.Ban đầu, hầu hết các trường hợp được báo cáo đều liên quan đến bệnh hô hấp nặng cần nhập viện, với tỷ lệ tử vong trong trường hợp khoảng 35%; tuy nhiên, khoảng 21% số bệnh nhân có triệu chứng nhẹ hoặc không có triệu chứng (1). Từ năm 2019 đến năm 2022 chỉ có 5% số trường hợp được báo cáo không có triệu chứng hoặc mắc bệnh nhẹ, nhưng mức giảm này có thể là do giảm xét nghiệm và phát hiện ca bệnh do đại dịch COVID-19 đang diễn ra và không phải do thay đổi độc lực.Thường có sốt, ớn lạnh, đau cơ và ho. Các triệu chứng tiêu hóa (ví dụ: tiêu chảy, nôn ói, đau bụng) xảy ra ở khoảng một phần ba số bệnh nhân. Các biểu hiện có thể đủ nặng để cần phải điều trị tại khoa hồi sức tích cực, nhưng tỷ lệ các trường hợp như vậy đã giảm mạnh theo thời gian.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.World Health Organization Middle East respiratory syndrome: Global summary and assessment of risk. Ngày 16 tháng 11 năm 2022. Truy cập tháng 4 năm 2024.
+
+--- 3. Chẩn đoán MERA ---
+
+Xét nghiệm phản ứng chuỗi polymerase sao chép ngược theo thời gian thực (RT-PCR) các dịch tiết ở đường hô hấp trên và dưới và huyết thanhCần phải nghi ngờ MERS trên những bệnh nhân bị nhiễm trùng đường hô hấp dưới cấp tính có sốt không rõ nguyên nhân và những người có bất cứ dấu hiệu nào trong những dấu hiệu sau đây trong vòng 14 ngày kể từ khi khởi phát triệu chứng:Du lịch đến hoặc cư trú ở một khu vực gần đây đã được báo cáo là có MERS hoặc nơi có thể xảy ra lây truyền bệnhLiên hệ với một cơ sở chăm sóc sức khỏe ở nơi đã có lây truyền MERSLiên hệ chặt chẽ với một bệnh nhân bị ốm có nghi nhiễm MERSCũng cần phải nghi nhiễm MERS trên những bệnh nhân đã tiếp xúc gần gũi với bệnh nhân có nghi nhiễm MERS và những người bị sốt cho dù họ có triệu chứng hô hấp hay không.Hướng dẫn thực hành có tại Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) (MERS: Information for Healthcare Professionals).Xét nghiệm cần phải bao gồm xét nghiệm RT-PCR theo thời gian thực các dịch tiết ở đường hô hấp trên và dưới, lý tưởng là lấy ở các vị trí khác nhau và tại các thời điểm khác nhau. Cần phải lấy huyết thanh ở những bệnh nhân và ở tất cả những người, kể cả những người tiếp xúc gần gũi không có triệu chứng, bao gồm cả nhân viên chăm sóc sức khỏe (để giúp xác định MERS nhẹ hoặc không có triệu chứng). Huyết thanh được lấy ngay sau khi nghi nhiễm MERS hoặc sau khi tiếp xúc (huyết thanh cấp tính) và sau đó 3 đến 4 tuần (huyết thanh ở giai đoạn hồi phục). Xét nghiệm được thực hiện tại các sở y tế tiểu bang hoặc CDC.Ở tất cả các bệnh nhân, hình ảnh ngực phát hiện những bất thường, có thể là khó thấy hoặc rộng, một bên hoặc hai bên. Ở một số bệnh nhân, nồng độ lactate dehydrogenase (LDH) và aspartate aminotransferase (AST) tăng cao và/hoặc số lượng tiểu cầu và bạch cầu lympho thấp. Một vài bệnh nhân cóthương tổn thận cấp tính.Đông máu nội mạch lan tỏavà tan máu có thể phát sinh.
+
+--- 4. Điều trị MERS ---
+
+Điều trị hỗ trợĐiều trị MERS là hỗ trợ. Để giúp ngăn ngừa lây lan từ các trường hợp nghi ngờ, các chuyên gia chăm sóc sức khỏe nên sử dụng các biện pháp phòng ngừa tiêu chuẩn, tiếp xúc và không khí.Không có vắc xin.(Xem thêmWorld Health Organization: Clinical management of severe acute respiratory infection when Middle East respiratory syndrome coronavirus (MERS-CoV) infection is suspected. Interim guidance, Cập nhật tháng 1 năm 2019.
+
+--- 5. Hội chứng Hô hấp cấp tính nghiêm trọng (SARS) ---
+
+Hội chứng hô hấp cấp tính nặng (SARS) là một bệnh hô hấp cấp tính nặng do coronavirus SARS (SARS-CoV-1) gây ra.SARS là một bệnh nhiễm coronavirus nặng với tỷ lệ tử vong theo ca bệnh khoảng 15%, nhưng tỷ lệ tử vong cao hơn nhiều ở người cao tuổi (1). SARS là một bệnh giống cúm đôi khi dẫn đến suy hô hấp nặng tiến triển.SARS-CoV-1 được phát hiện lần đầu tiên ở tỉnh Quảng Đông của Trung Quốc vào tháng 11 năm 2002 và sau đó lan sang 28 quốc gia khác (2). Trong đợt bùng phát này, > 8000 trường hợp được báo cáo trên toàn thế giới, với 774 trường hợp tử vong (tỷ lệ tử vong trong trường hợp khoảng 10%, tăng đáng kể theo độ tuổi, với tỷ lệ tử vong > 50% ở những người > 65 tuổi) (3, 4). Đợt bùng phát SARS-CoV-1 là lần đầu tiên Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) khuyến nghị không nên đi du lịch đến một khu vực. Đợt bùng phát dịch này đã lắng xuống và không có trường hợp mới nào được xác định kể từ năm 2004. Nguồn trực tiếp được cho là cầy hương, được bán làm thực phẩm trong một chợ bán động vật sống và có khả năng là đã bị nhiễm bệnh do tiếp xúc với dơi trước khi chúng bị bắt để mang đi bán. Dơi thường là vật chủ của nhóm coronavirus.SARS-CoV-1 lây truyền từ người sang người qua tiếp xúc cá nhân gần gũi. Nó được cho là lây truyền dễ dàng nhất bởi các giọt nước bọt tạo ra khi người nhiễm bệnh ho hoặc hắt hơi.Chẩn đoán SARS được thực hiện trên lâm sàng, và điều trị là hỗ trợ. Phối hợp các biện pháp kiểm soát nhiễm trùng kịp thời và cứng rắn đã giúp kiểm soát đợt bùng phát dịch năm 2002 một cách nhanh chóng.Mặc dù không có trường hợp mới nào được báo cáo kể từ năm 2004, không nên xem xét loại bỏ SARS vì vi rút gây bệnh có một ổ nguồn từ động vật mà từ đó có thể hình dụng việc tái xuất hiện trở lại của vi rút này.

@@ -1,0 +1,1607 @@
+TIÊU ĐỀ: Suy tim (HF)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/suy-tim/suy-tim-hf
+================================================================================
+
+NỘI DUNG:
+
+Suy tim (HF)
+
+(Suy tim sung huyết)
+
+Theo
+
+Nowell M. Fine
+
+,
+
+MD, SM
+
+,
+
+Libin Cardiovascular Institute, Cumming School of Medicine, University of
+Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 9 2022
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v935852_vi
+
+Suy tim (HF) là một hội chứng rối loạn chức năng tâm thất. Suy thất trái (LV) gây khó thở và mệt mỏi và suy thất phải (RV) gây tích tụ dịch ngoại vi và tích tụ dịch trong ổ bụng; các tâm thất có thể bị tổn thương cùng nhau hoặc riêng biệt. Chẩn đoán ban đầu dựa trên lâm sàng, hỗ trợ bởi chụp X-quang ngực, siêu âm tim và xét nghiệm BNP. Điều trị bao gồm hướng dẫn bệnh nhân, thuốc lợi tiểu, thuốc ức chế men chuyển angiotensin (ACE), thuốc ức chế thụ thể angiotensin II, thuốc chẹn beta, thuốc đối kháng aldosterone, thuốc ức chế đồng vận chuyển natri-glucose-2, thuốc ức chế neprilysin, thuốc ức chế nút xoang, máy tạo nhịp/máy khử rung tim cấy ghép chuyên dụng và các thiết bị khác và điều chỉnh (các) nguyên nhân của hội chứng HF.
+
+Sinh lý học
+
+|
+
+Sinh lý bệnh
+
+|
+
+Căn nguyên
+
+|
+
+Phân loại
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Tiên lượng
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Suy tim gây ảnh hưởng đến khoảng 6,5 triệu người ở Mỹ; có tới
+
+>
+
+960.000 trường hợp mới mắc mỗi năm. Trên toàn thế giới, tổng số người mắc suy tim là khoảng 26 triệu người.
+
+(Xem thêm
+
+suy tim ở trẻ em
+
+)
+
+Sinh lý suy tim
+
+Sự co cơ tim (lực và vận tốc co bóp), hiệu suất tâm thất và nhu cầu oxy cơ tim được xác định bởi
+
+Tiền gánh
+
+Hậu gánh
+
+Các chất nuôi dưỡng sẵn có (oxy, axit béo, glucose)
+
+Tần số tim và nhịp tim
+
+Khối lượng cơ tim khả dụng
+
+Cung lượng tim
+
+(CO) chịu ảnh hưởng của thể tích nhát bóp và nhịp tim; nó cũng chịu ảnh hưởng của hồi lưu tĩnh mạch, trương lực mạch ngoại vi và các yếu tố thần kinh cơ.
+
+Tiền gánh
+
+là tải lượng tim cuối giai đoạn cơ tim giãn và đổ đầy (thì tâm trương) và ngay trước khi co cơ tim (thì tâm thu). Tiền gánh thể hiện độ giãn cơ tim cuối thì tâm trương và thể tích cuối tâm trương, nó bị ảnh hưởng bởi áp lực tâm trương và thành phần mô cơ tim. Thông thường, áp lực thất trái cuối tâm trương (LV) thể hiện rõ tiền gánh, đặc biệt nếu con số này cao hơn bình thường. Giãn hoặc phì đại thất trái, sự thay đổi độ giãn cơ tim gây thay đổi tiền gánh.
+
+Hậu gánh
+
+là lực cản trở sự co giãn cơ tim ở đầu thì tâm thu. Nó được xác định bởi áp lực thất trái, bán kính, và độ dày của thành cơ tim tại thời điểm van động mạch chủ mở. Trên lâm sàng, huyết áp tâm thu tại thời điểm hoặc ngay sau khi van động mạch chủ mở ra tương ứng với áp lực đỉnh tâm thu thành tự do thất trái và tương đương với hậu gánh.
+
+Nguyên lý Frank-Starling
+
+mô tả mối quan hệ giữa tiền gánh và hiệu suất hoạt động của tim. Điều đó cho thấy rằng, thông thường, hiệu suất co bóp tâm thu (được biểu thị bằng thể tích nhát bóp hoặc CO) tỷ lệ thuận với tiền gánh trong giới hạn sinh lý bình thường (xem hình
+
+Nguyên tắc Frank-Starling
+
+). Rất khó đo đạc chính xác mức co cơ tim trên lâm sàng (đòi hỏi phải tiến hành thông tim để phân tích mối quan hệ thể tích - áp lực), nhưng có thể ngoại suy thông qua phân suất tống máu (EF). EF là tỷ lệ phần trăm của thể tích nhát bóp so với thể tích cuối tâm trương (thể tích nhát bóp/thể tích cuối tâm trương). Có thể đánh giá EF một cách tương đối chính xác thông qua các biện pháp không xâm lấn như siêu âm tim, chụp xạ hình hoặc chụp cộng hưởng từ.
+
+Các
+
+mối quan hệ tần số
+
+đề cập đến hiện tượng kích thích lặp đi lặp lại của cơ trong một phạm vi tần số nhất định dẫn đến tăng lực co bóp. Cơ tim bình thường ở tần số tim điển hình cho thấy một mối quan hệ tần số dương, do đó tốc độ nhanh hơn gây ra co cơ mạnh hơn (và yêu cầu cơ chất lớn hơn tương ứng). Trong một số loại suy tim, mối quan hệ tần số-lực có thể trở nên âm tính, do đó co bóp cơ tim giảm khi nhịp tim tăng lên trên một tần số nhất định.
+
+Dự trữ cung lượng tim
+
+là khả năng tim tăng hiệu suất trên mức bình thường để đáp ứng với các stress về mặt cảm xúc hoặc thực thể; lượng oxy tiêu thụ có thể tăng từ 250 lên
+
+≥
+
+1500 mL/phút khi gắng sức tối đa. Cơ chế bao gồm
+
+Tăng nhịp tim
+
+Tăng thể tích tâm thu và tâm trương
+
+Tăng thể tích nhát bóp
+
+Tăng trích xuất oxy ở mô (sự khác biệt giữa hàm lượng oxy trong máu động mạch và trong máu hỗn hợp tĩnh mạch hoặc động mạch phổi)
+
+Ở những người trẻ tuổi có tập luyện, trong khoảng thời gian gắng sức tối đa, nhịp tim có thể tăng từ 55 - 70 lần/phút ở trạng thái nghỉ lên tới 180 lần/phút, cung lượng tim có thể tăng từ 6 lên tới
+
+≥
+
+25 L/phút. Khi ở trạng thái nghỉ, máu động mạch chứa khoảng 18 mL oxygen/dL máu, máu tĩnh mạch chứa khoảng 14 mL/dL. Do đó, phân áp oxy là khoảng 4 mL/dL. Khi nhu cầu cơ thể gia tăng, trích xuất oxy có thể tăng lên đến 12-14 mL/dL. Cơ chế này giúp bù trừ cho sự giảm lưu lượng máu tới mô gây ra do suy tim.
+
+Nguyên lý Frank-Starling
+
+Thông thường, khi tăng tiền gánh, hiệu suất hoạt động cơ tim cũng tăng lên. Tuy nhiên, khi tiền gánh tăng tới một mức nhất định, hiệu suất đạt đỉnh cao nguyên, sau đó bắt đầu có sự suy giảm. Khi suy tim, do có sự rối loạn chức năng tâm thu, đường cong tổng thể hạ thấp, cho thấy hiệu suất làm việc của tim giảm ở một tiền gánh nhất định, và khi tiếp tục tăng tiền gánh, và khi tải trước tăng, hiệu suất của tim tăng ít hơn. Khi được điều trị, hiệu suất được cải thiện, tuy chưa về được mức bình thường.
+
+Sinh lý bệnh của suy tim
+
+Khi suy tim, tim không thể cung cấp đủ máu cho các nhu cầu chuyển hóa, và sự gia tăng áp lực động mạch phổi hoặc tăng áp lực trên hệ thống tĩnh mạch sẽ dẫn đến ứ đọng dịch ở ngoại biên. Tình trạng này có thể do những bất thường trong chức năng tâm thu hay tâm trương hoặc thông thường là do cả hai. Mặc dù sự thay đổi chức năng của cơ tim có thể đóng vai trò chính, nhưng cũng có những thay đổi bất thường về kết cấu collagen trong ma trận ngoại bào. Bệnh lý cấu trúc tim (khuyết tật bẩm sinh, bệnh lý van tim), bệnh lý rối loạn nhịp (nhịp nhanh) và tăng nhu cầu chuyển hóa (do cường giáp) cũng có thể gây suy tim.
+
+Suy tim giảm phân suất tống máu (HFrEF)
+
+Trong suy tim giảm phân suất tống máu (còn gọi là suy tim tâm thu), là tình trạng chức năng tâm thu thất trái suy giảm toàn bộ. Thất trái co bóp kém và không tống hết máu, dẫn đến
+
+Tăng thể tích và áp lực tâm trương
+
+Phân suất tống máu giảm (≤ 40%)
+
+Nhiều bất thường xảy ra trong quá trình sử dụng năng lượng, cung cấp năng lượng, trong các chức năng điện sinh lý và xảy ra trong quá trình tương tác giữa các yếu tố dẫn tới sự co cơ, kèm theo đó là những bất thường trong quá trình điều hòa canxi nội bào và sản xuất cAMP.
+
+Rối loạn chức năng tâm thu khá phổ biến trong suy tim do các nguyên nhân
+
+nhồi máu cơ tim
+
+, viêm cơ tim, và
+
+bệnh cơ tim giãn
+
+. Suy giảm chức năng tâm thu chủ yếu gây ảnh hưởng tới thất trái và có thể cả thất phải; suy tim trái cũng thường dẫn tới suy tim phải.
+
+Suy tim có phân suất tống máu bảo tồn (HFpEF)
+
+Trong suy tim có phân suất tống máu bảo tồn (suy tim tâm trương), khả năng đổ đầy thất trái bị suy giảm, dẫn đến
+
+Tăng áp lực cuối tâm trương khi nghỉ ngơi hoặc khi gắng sức
+
+Thông thường, thể tích thất trái cuối tâm trương
+
+Sự co cơ và phân suất tống máu vẫn trong giới hạn bình thường (≥ 50%).
+
+Tuy nhiên, ở một số bệnh nhân, hạn chế đáng kể trong việc đổ đầy LV có thể gây ra thể tích cuối tâm trương LV thấp không phù hợp và do đó gây ra CO (cung lượng tim) thấp và các triệu chứng toàn thân. Tăng áp lực nhĩ trái có thể gây
+
+tăng áp động mạch phổi
+
+và ứ máu tại phổi.
+
+Suy giảm chức năng tâm trương thường do suy giảm khả năng thư giãn của tâm thất (quá trình tác động), tăng mức độ xơ cứng thành tâm thất,
+
+bệnh van tim
+
+, hoặc
+
+viêm màng ngoài tim co thắt
+
+. Nhồi máu cơ tim cấp cũng là nguyên nhân gây suy giảm chức năng tâm trương. Suy giảm chức năng tâm trương tăng theo tuổi, phản ánh rối loạn chức năng tế bào cơ tim và suy giảm số lượng tế bào cơ tim, cũng như sự tích tụ collagen tại khoảng kẽ; do đó, suy giảm chức năng tâm trương là một hiện tượng đặc biệt phổ biến ở người cao tuổi. Suy giảm chức năng tâm trương chiếm ưu thế trong các trường hợp
+
+bệnh cơ tim phì đại
+
+, bệnh lý có phì đại tâm thất (
+
+tăng huyết áp
+
+,
+
+hẹp van động mạch chủ
+
+nặng), bệnh cơ tim thâm nhiễm amyloid. Có thể có sự suy giảm đổ đầy và chức năng thất trái nếu có sự gia tăng đáng kể áp lực thất phải, khiến vách liên thất bị đẩy sang trái.
+
+Rối loạn chức năng tâm trương ngày càng được công nhận rộng rãi là nguyên nhân gây suy tim. Các thông số ước tính thay đổi khá nhiều, nhưng khoảng 50% bệnh nhân suy tim có tình trạng suy tim có phân suất tống máu bảo tồn; tỷ lệ hiện mắc tăng theo tuổi và ở nhóm bệnh nhân đái tháo đường. Ngày nay, người ta đã biết rõ rằng, suy tim có phân suất tống máu bảo tồn là một hội chứng phức tạp, không đồng nhất, gây tổn thương đa cơ quan, có hệ thống, thường có sự kết hợp đồng thời của nhiều cơ chế sinh lý bệnh. Các dữ liệu hiện tại cho thấy có tình trạng mắc nhiều bệnh lý kèm theo (ví dụ
+
+béo phì
+
+,
+
+tăng huyết áp
+
+,
+
+đái tháo đường
+
+,
+
+bệnh thận mạn tính
+
+), dẫn đến viêm hệ thống, suy tế bào nội mạc lan tỏa, suy giảm chức năng các vi mạch, và cuối cùng, sự thay đổi phân tử trong tế bào cơ tim gây ra tăng xơ cơ tim và làm xơ cứng thành tâm thất. Do đó, suy tim phân suất tống máu giảm thường liên quan đến tổn thương cơ tim nguyên phát, còn suy tim có phân suất tống máu bảo tồn thường có liên quan tới tổn thương cơ tim thứ phát do những bệnh lý ngoài tim.
+
+Suy tim kèm theo phân suất tống máu giảm nhẹ (HFmrEF)
+
+Các xã hội quốc tế đã đưa ra khái niệm HF với phân suất tống máu giảm nhẹ (HFmrEF), trong đó bệnh nhân có phân suất tống máu LV từ 41 đến 49%. Không rõ liệu nhóm này là một quần thể riêng biệt hay bao gồm một hỗn hợp các bệnh nhân suy tim có phân suất tống máu bảo tồn hoặc HFrEF.
+
+Suy tim trái
+
+Trong suy tim liên quan đến rối loạn chức năng thất trái, CO giảm và áp lực tĩnh mạch phổi tăng. Khi áp lực mao mạch phổi vượt quá áp lực thẩm thấu protein huyết tương (khoảng 24 mmHg), dịch từ các mao mạch dịch chuyển vào khoảng kẽ và phế nang, làm giảm độ giãn nở phổi và tăng công hô hấp. Có sự gia tăng dẫn lưu bạch huyết nhưng không thể bù lại được sự gia tăng dịch phổi. Sự tích lũy đáng kể lượng dịch trong các phế nang (
+
+phù phổi
+
+) làm thay đổi tỷ số thông khí-tưới máu (V/Q): Máu động mạch phổi đã khử oxy đi qua các phế nang thông khí kém, từ đó làm giảm sự oxy hoá động mạch hệ thống (PaO2) và gây khó thở. Tuy nhiên, khó thở có thể xuất hiện trước khi có bất thường V/Q, có thể do áp lực tĩnh mạch phổi tăng lên và gây tăng công hô hấp; cơ chế chính xác vẫn chưa được làm rõ.
+
+Trong suy tim trái nặng hoặc suy tim trái mạn tính, tràn dịch màng phổi xuất hiện và càng làm tăng thêm tình trạng khó thở. Thông khí phút tăng, PaCO2 giảm và pH tăng (gây
+
+nhiễm kiềm hô hấp
+
+). Phù khoảng kẽ tại các đường thở nhỏ gây cản trở thông khí, sự gia tăng PaCO2 là dấu hiệu báo trước
+
+suy hô hấp
+
+sắp xảy ra.
+
+Suy thất phải
+
+Trong suy tim phải bao gồm áp lực tĩnh mạch toàn thân tăng lên, gây ra ứ dịch ngoại vi và từ đó gây phù phụ thuộc tư thế (chân và mắt cá ở những bệnh nhân đi lại được) và các tạng trong ổ bụng. Gan là cơ quan bị ảnh hưởng nghiêm trọng nhất, nhưng dạ dày và ruột cũng có thể có hiện tượng sung huyết; có thể có sự tích tụ dịch trong khoang phúc mạc gây cổ trướng. Suy tim phải thường gây suy chức năng gan mức độ trung bình, thường có sự gia tăng bilirubin liên hợp và không liên hợp, PT, và các loại men gan (đặc biệt là phosphatase kiềm và gamma-glutamyl transpeptidase [GGT]). Suy giảm chức năng gan dẫn tới giảm tiết
+
+aldosterone
+
+, càng làm gia tăng mức độ ứ dịch. Tình trạng sung huyết mạn tính tại các tạng ổ bụng có thể gây chán ăn, kém hấp thu chất dinh dưỡng và thuốc, bệnh lý ruột gây mất protein (đặc trưng bởi tiêu chảy và hạ albumin máu), xuất huyết tiêu hóa mạn tính và thiếu máu hoại tử đường ruột (hiếm gặp).
+
+Đáp ứng của hệ tim mạch
+
+Trong suy tim phân suất tống máu giảm, chức năng tâm thu thất trái bị suy giảm đáng kể; do đó, yêu cầu tiền gánh phải cao hơn để duy trì cung lượng tim. Hậu quả là tâm thất được tái cấu trúc theo thời gian: Trong quá trình tái cấu trúc thất trái chuyển dạng từ hình thuôn sang tròn hơn, giãn rộng hơn và phì đại hơn; thất phải giãn rộng và có thể có sự phì đại. Khởi đầu bù, những tái cấu trúc cuối cùng có liên quan đến các kết quả bất lợi bởi thay đổi này cuối cùng sẽ làm giảm tình trạng giãn nở thời kỳ tâm trương và gia tăng độ cứng và sức căng thành cơ tim, từ đó gây suy chức năng tâm trương, làm giảm hiệu suất hoạt động của tim, đặc biệt là khi chịu các stress về thể lực. Sự gia tăng sức căng thành cơ tim gây tăng nhu cầu oxy và đẩy nhanh quá trình chết tế bào cơ tim theo chương trình. Giãn các tâm thất cũng gây hở van hai lá và van ba lá (giãn thứ phát), từ đó càng làm gia tăng thể tích cuối tâm trương.
+
+Đáp ứng huyết động
+
+Do có sự suy giảm cung lượng tim, việc cung cấp oxy đến các mô sẽ được duy trì bằng cách tăng nồng độ oxy trong máu và đôi khi, đường cong phân tách oxyhemoglobin được chuyển dịch sang phải để tăng giải phóng oxy (xem hình
+
+Đường cong phân ly oxyhemoglobin
+
+).
+
+Giảm cung lượng tim cùng với hạ áp hệ thống gây kích hoạt các baroreceptor động mạch, gây gia tăng trương lực giao cảm và làm giảm trương lực phó giao cảm. Từ đó gây tăng nhịp tim và tăng co bóp cơ tim, co thắt các mao mạch tại một số giường mạch máu nhất định, xuất hiện tình trạng co thắt tĩnh mạch đồng thời gây tăng tái hấp thu muối nước. Những thay đổi này sẽ bù trừ cho sự suy giảm hiệu suất thất trái và giúp duy trì sự cân bằng huyết động trong giai đoạn sớm của suy tim. Tuy nhiên, những thay đổi này lại làm gia tăng công cơ tim, tiền gánh và hậu gánh; giảm tưới máu mạch vành và mạch thận; gây tích tụ dịch dẫn đến tình trạng sung huyết; gây tăng bài tiết kali; có thể gây hoại tử tế bào cơ tim và phát sinh các ổ loạn nhịp.
+
+Đáp ứng thận
+
+Khi chức năng tim suy giảm, lưu lượng máu thận giảm xuống (do cung lượng tim thấp). Ngoài ra, áp lực tĩnh mạch thận tăng, dẫn đến tình trạng sung huyết tĩnh mạch thận. Những thay đổi này đều làm giảm mức lọc cầu thần, và gây tái phân bố dòng máu tại thận. Phân số lọc cầu thận suy giảm, nhưng lại có sự gia tăng hiện tượng tái hấp thu ống thận, từ đó dẫn đến sự tích lũy nước và natri. Khi gắng sức, dòng máu lại càng được tái phân bố không qua thận, nhưng khi nghỉ, lưu lượng máu tới thận lại có sự cải thiện.
+
+Sự giảm tưới máu thận (và có thể giảm cả sức căng động mạch trong thì tâm thu thứ phát do suy giảm chức năng tâm thất) gây kích hoạt
+
+hệ renin-angiotensin-aldosterone
+
+(RAAS), gây tăng giữ muối nước, gia tăng trương lực mạch ngoại vi và mạch thận. Những ảnh hưởng này được khuếch đại bởi tín hiệu cường giao cảm đi kèm với suy tim.
+
+Hệ renin-angiotensin-aldosterone-
+
+vasopressin
+
+(hệ thống hormone chống bài niệu) [ADH] gây ra một loạt tác động có hại về lâu dài. Angiotensin II làm trầm trọng thêm tình trạng suy tim thông qua gây co mạch, gồm cả mạch thận, tăng sản xuất aldosterone, làm tăng tái hấp thu natri tại các nephron ngoại vi, đồng thời gây tích tụ collagen, gây xơ hóa cơ tim và thành mạch. Angiotensin II làm tăng giải phóng
+
+norepinephrine
+
+, kích thích giải phóng
+
+vasopressin
+
+, và khởi phát quá trình chết tế bào theo chương trình. Angiotensin II có thể có vai trò trong hiện tượng tăng sinh mạch máu và cơ tim, do đó góp phần gây tái cấu trúc cơ tim và mạch máu ngoại vi, từ đó gây nặng thêm tình trạng suy tim. Aldosterone có thể được tổng hợp độc lập với angiotensin II tại tim và tại các mạch máu (qua trung gian
+
+corticotropin
+
+, oxide nitric, các gốc tự do và các yếu tố kích thích khác), và có thể gây những tác động có hại tới các cơ quan này.
+
+Suy tim gây suy giảm chức năng thận tiến triển (gồm cả suy thận do thuốc điều trị suy tim), từ đó càng làm nặng hơn tình trạng suy tim, và được gọi là hội chứng tim-thận.
+
+Đáp ứng thần kinh thể dịch
+
+Khi các stress xuất hiện, các đáp ứng thần kinh thể dịch giúp gia tăng hoạt động tim mạch, duy trì huyết áp và tưới máu các cơ quan, nhưng việc kích hoạt kéo dài các đáp ứng trên gây bất lợi cho sự duy trì thăng bằng giữa các hormone kích thích cơ tim với các hormone gây co mạch, và giữa các hormone giãn cơ tim và các hormone gây giãn mạch.
+
+Tim chứa nhiều thụ thể thần kinh (alpha-1, beta-1, beta-2, beta-3, angiotensin II loại 1 [AT1] và loại 2 [AT2], muscarinic, endothelin, serotonin,
+
+adenosine
+
+, cytokin, peptide natriuretic); vai trò của những thụ thể này chưa được làm sáng tỏ hoàn toàn. Ở những bệnh nhân suy tim, các thụ thể beta-1 (chiếm khoảng 70% thụ thể beta tại tim) bị điều hòa giảm, có thể nhằm mục đích đáp ứng với các kích thích cường giao cảm mạnh. Kết quả của quá trình điều hòa này là sự giảm co cơ tim và tăng nhịp tim.
+
+Nồng độ
+
+norepinephrine
+
+trong máu gia tăng, phần lớn do các kích thích giao cảm, bởi nồng độ
+
+epinephrine
+
+trong máu không có sự gia tăng. Các tác dụng bất lợi bao gồm co mạch, tăng tiền gánh và hậu gánh, gây tổn thương trực tiếp cơ tim thông qua các cơ chế chết tế bào theo chương trình, giảm lưu lượng máu thận và hoạt hóa các hệ thống thần kinh thể dịch khác, bao gồm cả hẹ renin-angiotensin-aldosterone-
+
+vasopressin
+
+.
+
+Vasopressin
+
+được giải phóng thông qua nhiều kích thích thần kinh thể dịch khác nhau, nhằm đáp ứng với tình trạng hạ áp. Tăng
+
+vasopressin
+
+làm giảm bài tiết nước tự do qua thận, từ đó góp phần gây tình trạng hạ natri máu trong suy tim. Nồng độ
+
+vasopressin
+
+rất khác nhau ở những bệnh nhân suy tim có huyết áp bình thường.
+
+Peptide lợi niệu tâm nhĩ được giải phóng nhằm đáp ứng với tình trạng gia tăng thể tích và áp lực tâm nhĩ; peptide natriuretic loại B (BNP) được giải phóng tại tâm thất nhằm đáp ứng với tình trạng căng giãn thành tâm thất. Những peptide này làm tăng bài tiết natri tại thận, nhưng ở những bệnh nhân suy tim, tác dụng này bị suy giảm do có sự suy giảm áp lực tưới máu thận, do sự điều hòa giảm các thụ thể, và do tăng thoái hóa các enzym. Ngoài ra, sự gia tăng nồng độ peptide natriuretic gây hiệu ứng kháng điều hòa trên hệ thống renin-angiotensin-aldosterone và kích thích catecholamine.
+
+Do có sự rối loạn chức năng nội mạc ở những bệnh nhân suy tim, nên các tác nhân giãn mạch nội sinh (nitric oxide, prostaglandins) được sản sinh ra ngày càng ít, trong khi đó, các tác nhân co mạch nội sinh (endothelin) được sản sinh ra ngày càng nhiều, do đó hậu gánh gia tăng rõ rệt.
+
+Tình trạng suy tim và suy chức năng các cơ quan khác gây sản sinh yếu tố hoại tử u TNF alpha. Cytokine này gây tăng dị hoá và có thể gây ra tình trạng suy mòn tim (hủy mô
+
+≥
+
+10%), từ đó gây suy tim mức độ nặng có triệu chứng cùng với những thay đổi bất lợi khác. Tình trạng suy tim cũng gây ra những thay đổi về chuyển hoá, với sự gia tăng sử dụng axit béo tự do và giảm sử dụng glucose; những thay đổi này có thể được ứng dụng như là mục tiêu điều trị.
+
+Thay đổi theo tuổi
+
+Những thay đổi liên quan đến tuổi tại hệ thống tim mạch càng làm hạ thấp ngưỡng biểu hiện suy tim. Collagen gia tăng trong mô kẽ cơ tim làm cơ tim mất tính đàn hồi, và kéo dài thời gian giãn cơ tim. Những thay đổi này dẫn đến giảm đáng kể chức năng tâm trương thất trái ngay cả ở những người cao tuổi khỏe mạnh. Chức năng tâm trương cũng có sự suy giảm nhẹ khi lão hóa. Sự giảm đáp ứng cơ tim và thành mạch với các kích thích trên hệ beta-adrenergic càng làm giảm khả năng đáp ứng của hệ thống tim mạch với tải lượng hoạt động ngày càng gia tăng.
+
+Do những thay đổi này, khả năng gắng sức đỉnh giảm đáng kể (giảm khoảng 8%/thập niên sau 30 tuổi), trong khi cung lượng tim tại đỉnh gắng sức giảm nhẹ hơn. Sự suy giảm này có thể được hạn chế nhờ tập luyện thường xuyên. Vì vậy, bệnh nhân cao tuổi thường dễ xuất hiện các triệu chứng suy tim hơn bệnh nhân trẻ tuổi, khi chịu các stress do các bệnh lý hệ thống hoặc các biến cố tim mạch dù tương đối nhẹ. Các stress này bao gồm nhiễm trùng (đặc biệt là viêm phổi), cường giáp, thiếu máu, tăng huyết áp, thiếu máu cơ tim, hạ oxy máu, tăng thân nhiệt, suy thận, truyền dịch quá mức, không tuân thủ chế độ thuốc hoặc chế độ ăn hạn chế muối, sử dụng một số loại thuốc (đặc biệt là NSAID thuốc chống viêm không steroid).
+
+Căn nguyên của suy tim
+
+Cả hai yếu tố tim mạch và toàn thân đều có thể làm suy giảm hoạt động của tim và gây ra hoặc làm trầm trọng thêm tình trạng suy tim.
+
+Bảng
+
+Nguyên nhân gây suy
+
+Nguyên nhân gây suy
+
+Kiểu
+
+Ví dụ
+
+Tim mạch
+
+Tổn thương cơ tim
+
+Bệnh cơ tim
+
+Nhồi máu cơ tim
+
+Viêm cơ tim
+
+Một số loại thuốc hóa trị liệu
+
+Bệnh lý van tim
+
+Hẹp van động mạch chủ
+
+Hở van hai lá
+
+Hở van ba lá
+
+Loạn nhịp tim
+
+Rối loạn nhịp chậm
+
+Rối loạn nhịp nhanh
+
+Rối loạn dẫn truyền
+
+Block nhĩ thất
+
+Block nhánh trái
+
+Thiếu hụt các cơ chất chuyển hóa (các axit béo tự do hoặc glucose)
+
+Thiếu máu cục bộ
+
+Bệnh lý thâm nhiễm
+
+Thoái hóa dạng tinh bột
+
+Xơ hóa mạn tính (ví dụ,
+
+xơ cứng bì hệ thống
+
+)
+
+Bệnh nhiễm sắc tố sắt mô‭
+
+Hệ thống
+
+Bệnh lý đòi hỏi cần tăng cung lượng tim
+
+Thiếu máu
+
+Cường giáp
+
+Bệnh Paget
+
+Bệnh lý gây gia tăng sức cản ngoại vi (hậu gánh)
+
+Hẹp van động mạch chủ
+
+Tăng huyết áp
+
+AV
+
+=
+
+nhĩ thất; CO
+
+=
+
+cung lượng tim.
+
+AV
+
+=
+
+nhĩ thất; CO
+
+=
+
+cung lượng tim.
+
+Phân loại suy tim
+
+Phân loại suy tim phổ biến nhất hiện đang được sử dụng phân bệnh nhân thành các nhóm:
+
+Suy tim giảm phân suất tống máu
+
+("suy tim tâm thu")
+
+Suy tim bảo tồn phân suất tống máu
+
+("suy tim tâm trương")
+
+Suy tim giảm phân suất tống máu (HFrEF) được định nghĩa là suy tim có phân suất tống máu thất trái (LVEF) ≤ 40%.
+
+suy tim có phân suất tống máu bảo tồn (HFpEF) được định nghĩa là suy tim có phân suất tống máu thất trái ≥ 50%.
+
+Bệnh nhân có LVEF từ 41% đến 49% nằm trong vùng trung bình và gần đây đã được phân loại là HF với phân suất tống máu giảm nhẹ (HFmrEF—
+
+1
+
+).
+
+Phân loại suy tim kinh điển thành suy thất trái và suy thất phải có đôi chút sai lầm, bởi quả tim hoạt động như một hệ thống bơm đồng nhất, và sự thay đổi tại một buồng tim có thể gây ảnh hưởng lên toàn bộ tim. Tuy nhiên, các thuật ngữ này chỉ ra vị trí chính của bệnh lý dẫn đến suy tim và có thể hữu ích cho việc đánh giá ban đầu và điều trị. Các thuật ngữ mô tả phổ biến khác cho bệnh suy tim bao gồm cấp tính hoặc mạn tính; sản lượng cao hoặc sản lượng thấp; giãn nở hoặc không giãn nở; và thiếu máu cục bộ, tăng huyết áp hoặc bệnh cơ tim giãn vô căn. Điều trị chủ yếu dựa vào các biểu hiện lâm sàng là suy tim cấp hay mạn tính.
+
+Suy tim trái
+
+thường tiến triển trong các bệnh lý thiếu máu cơ tim,
+
+tăng huyết áp
+
+,
+
+hở hai lá
+
+,
+
+hở van động mạch chủ
+
+,
+
+hẹp van động mạch chủ
+
+, hầu hết các loại
+
+bệnh cơ tim
+
+, và bệnh lý tim mạch bẩm sinh (như
+
+thông liên thất
+
+,
+
+còn ống động mạch
+
+với sự hiện diện của các shunt lớn).
+
+Suy tim phải
+
+thường do suy tim trái trước đó (gây tăng áp lực tĩnh mạch phổi và dẫn đến
+
+tăng áp động mạch phổi
+
+, từ đó gây quá tải thất phải) hoặc do bệnh phổi mức độ nặng (trong trường hợp này được gọi là
+
+tâm phế mạn
+
+). Các nguyên nhân khác bao gồm tắc mạch phổi, nhồi máu thất phải, tăng áp động mạch phổi,
+
+hở van ba lá
+
+,
+
+hẹp van ba lá
+
+,
+
+hẹp van hai lá
+
+, hẹp động mạch phổi,
+
+hẹp van động mạch phổi
+
+, tắc tĩnh mạch phổi, bệnh cơ tim thất phải gây rối loạn nhịp, hoặc các bệnh lý bẩm sinh như
+
+dị tật Ebstein
+
+hoặc
+
+hội chứng Eisenmenger
+
+. Các biểu hiện thường gặp là tình trạng quá tải tuần hoàn và tăng áp lực tĩnh mạch hệ thống, xảy ra ở các bệnh lý
+
+đa hồng cầu
+
+hoặc truyền dịch quá mức, tổn thương thận cấp gây giữ muối nước, tắc nghẽn một trong hai tĩnh mạch chủ trên hoặc dưới, giảm protein máu do bất kỳ nguyên nhân nào gây giảm áp lực keo huyết tương và từ đó dẫn tới phù ngoại vi.
+
+Suy tim toàn bộ
+
+thường do các bệnh lý gây ảnh hưởng đến toàn bộ khối cơ tim (như viêm cơ tim do virus,
+
+thoái hóa dạng tinh bột
+
+,
+
+bệnh Chagas
+
+) hoặc suy tim trái kéo dài dẫn tới suy tim phải.
+
+Suy tim có cung lượng tim cao
+
+thường do mức cung lượng tim cao kéo dài, dẫn tới việc quả tim bình thường không đủ khả năng để duy trì mức cung lượng đó. Các tình trạng có thể làm tăng CO (cung lượng tim) bao gồm thiếu máu nặng, bệnh gan giai đoạn cuối,
+
+bệnh beriberi,
+
+nhiễm độc giáp
+
+,
+
+bệnh Paget
+
+tiến triển, rò động tĩnh mạch và nhịp tim nhanh kéo dài.
+
+Bệnh cơ tim
+
+là một thuật ngữ chung chỉ bệnh của cơ tim. Thông thường, thuật ngữ này đề cập đến các bệnh lý cơ tim không do các khuyết tật giải phẫu bẩm sinh; hoặc các bệnh lý tại van động mạch, các bệnh lý mạch máu hệ thống hoặc mạch phổi; các bệnh lý màng ngoài tim, các bệnh lý thuộc các nút hoặc hệ thống dẫn truyền, hoặc bệnh lý mạch vành. Thuật ngữ này đôi khi được sử dụng để chỉ ra nguyên nhân (như thiếu máu cơ tim và tăng huyết áp). Bệnh cơ tim không phải lúc nào cũng gây suy tim có triệu chứng. Nó thường mang tính tự phát và được phân loại thành bệnh cơ tim giãn, bệnh cơ tim sung huyết, bệnh cơ tim phì đại, bệnh cơ tim hạn chế, hoặc bệnh cơ tim Takotsubo (bệnh cơ tim do stress).
+
+Tài liệu tham khảo về phân loại
+
+1.
+
+Heidenreich PA, Bozkurt B, Aguilar D, et al
+
+: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+145:e876–e894, 2022, doi: 10.1161/CIR.0000000000001062
+
+Các triệu chứng và dấu hiệu của suy tim
+
+Triệu chứng lâm sàng suy tim biểu hiện tùy thuộc vào việc thất trái hay thất phải bị ảnh hưởng trước tiên. Có nhiều mức độ suy tim trên lâm sàng, và chúng thường được phân loại theo hệ thống Hiệp hội tim mạch New York (NYHA) (Xem bảng
+
+Phân loại suy tim theo NYHA
+
+); có thể cần điều chỉnh về mức độ các hoạt động bình thường đối với bệnh nhân cao tuổi hoặc suy nhược. Bởi suy tim có phổ phân độ mức độ nặng khá rộng, một số chuyên gia đề nghị chia NYHA III thành nhóm nhỏ hơn là IIIA và IIIB. Phân loại IIIB thường được dành riêng cho những bệnh nhân mới trải qua giai đoạn đợt cấp mất bù suy tim gần đây. Viện tim mạch Hoa Kỳ/Hiệp hội tim mạch Hoa Kỳ đã ủng hộ việc thành lập một hệ thống phân giai đoạn suy tim (A, B, C, hoặc D) để làm nổi bật nhu cầu dự phòng suy tim.
+
+A: Có nguy cơ suy tim cao, nhưng không có bất thường về cấu trúc, chức năng hoặc các triệu chứng tại tim
+
+B: Có bất thường về cấu trúc, chức năng hoặc các triệu chứng tại tim
+
+C: Bệnh cơ tim cấu trúc đi kèm theo các triệu chứng suy tim
+
+D: Suy tim kháng trị, đòi hỏi điều trị chuyên sâu (như hỗ trợ tuần hoàn cơ học, ghép tim) hoặc chăm sóc giảm nhẹ
+
+Suy tim trái nặng có thể gây
+
+phù phổi
+
+hoặc
+
+sốc tim
+
+.
+
+Bảng
+
+Phân loại Suy tim theo Hiệp hội Tim mạch New York (NYHA)
+
+Bảng
+
+Phân loại Suy tim theo Hiệp hội Tim mạch New York (NYHA)
+
+Phân loại Suy tim theo Hiệp hội Tim mạch New York (NYHA)
+
+Mức độ NYHA
+
+Định nghĩa
+
+Giới hạn
+
+Ví dụ
+
+I
+
+Hoạt động thể lực thông thường không gây mệt mỏi, khó thở, hoặc đánh trống ngực.
+
+không
+
+Có thể hoàn thành bất kỳ hoạt động nào
+
+≤
+
+7 MET:
+
+Mang 11 kg lên 8 bậc cầu thang
+
+Mang vật nặng 36 kg
+
+Xúc tuyết
+
+Đào đất
+
+Trượt tuyết
+
+Chơi bóng quần, bóng ném, hoặc bóng rổ
+
+Đi bộ thường hoặc đi bộ nhanh với tốc độ 8 km/h
+
+II
+
+Hoạt động thể lực thông thường gây mệt mỏi, khó thở, đánh trống ngực, hoặc đau thắt ngực.
+
+Nhẹ
+
+Có thể hoàn thành bất kỳ hoạt động nào
+
+≤
+
+5 MET:
+
+Quan hệ tình dục không cần nghỉ ngơi
+
+Làm vườn
+
+Lướt ván trượt
+
+Đi bộ 7 km/h trên bề mặt phẳng
+
+Không xuất hiện triệu chứng khi leo từng bậc cầu thang ở tốc độ bình thường
+
+III
+
+Thoải mái khi nghỉ ngơi; hoạt động thể lực với mức độ thấp hơn bình thường gây mệt mỏi, khó thở, đánh trống ngực, hoặc đau thắt ngực.
+
+Vừa
+
+Có thể hoàn thành bất kỳ hoạt động nào
+
+≤
+
+2 MET:
+
+Tắm hoặc thay quần áo không cần nghỉ ngơi
+
+Thu dọn giường
+
+Lau cửa sổ
+
+Chơi gôn
+
+Đi bộ 4 km/h
+
+IV
+
+Các triệu chứng xảy ra khi nghỉ ngơi; bất kỳ hoạt động thể lực nào cũng làm tăng cảm giác khó chịu.
+
+Nặng
+
+Không thể làm hoặc không thể hoàn thành bất kỳ hoạt động nào
+
+≥
+
+2 MET; không thể thực hiện bất kỳ hoạt động nào nêu trên
+
+MET = chuyển hóa tương đương với nhiệm vụ, đo lường mức năng lượng tiêu hao so với thời gian còn lại.
+
+MET = chuyển hóa tương đương với nhiệm vụ, đo lường mức năng lượng tiêu hao so với thời gian còn lại.
+
+Lịch sử
+
+Trong suy thất trái,
+
+các triệu chứng phổ biến nhất là khó thở và mệt mỏi do tăng áp lực tĩnh mạch phổi và cung lượng tim thấp (CO khi nghỉ ngơi hoặc không có khả năng tăng CO khi gắng sức). Khó thở thường xuất hiện trong quá trình gắng sức và đỡ khi nghỉ. Khi suy tim tiến triển nặng hơn, khó thở có thể xảy ra ngay cả khi nghỉ và vào ban đêm, đôi khi xuất hiện ho về đêm. Khó thở xuất hiện ngay lập tức hoặc ngay sau khi nằm đầu bằng và giảm khi ngồi dậy (khó thở tư thế) là triệu chứng phổ biến khi suy tim tiến triển. Khi có khó thở kịch phát về đêm, cơn khó thở sẽ làm bệnh nhân tỉnh giấc vài giờ sau khi nằm và chỉ đỡ khi ngồi dậy trong khoảng thời gian từ 15 đến 20 phút. Khi suy tim nặng, kiểu thở có chu kỳ (
+
+kiểu thở Cheyne-Stokes
+
+– từ một thời gian ngắn ngừng thở, bệnh nhân thở nhanh hơn và sâu hơn, sau đó chậm hơn và nông hơn cho đến khi ngừng thở và lặp lại chu kỳ) – có thể xảy ra vào ban ngày hoặc ban đêm; giai đoạn tăng nồng độ đột ngột có thể đánh thức bệnh nhân khỏi giấc ngủ. Kiểu thở Cheyne-Stokes khác với cơn khó thở kịch phát về đêm ở chỗ, cơn tăng thông khí diễn ra ngắn, chỉ kéo dài 10 đến 15 giây, nhưng chu kỳ thở diễn ra thường xuyên, kéo dài 30 giây đến 2 phút. Cơn khó thở kịch phát về đêm có sự liên quan với tình trạng ứ máu phổi, nhịp thở Cheyne-Stokes thì liên quan nhiều với tình trạng cung lượng tim thấp. Các bệnh lý hô hấp liên quan đến giấc ngủ, như
+
+hội chứng ngưng thở khi ngủ
+
+, thường gặp ở bệnh nhân suy tim và có thể làm trầm trọng hơn tình trạng suy tim. Giảm lưu lượng máu não và hạ oxy máu mức độ nặng có thể gây mệt mỏi mạn tính và làm giảm hiệu suất hoạt động trí não của bệnh nhân.
+
+Trong suy tim phải,
+
+các triệu chứng phổ biến nhất là phù chân và mệt mỏi. Đôi khi bệnh nhân cảm thấy cảm giác chướng bụng hoặc phù nề vùng cổ. Tình trạng ứ máu tại gan có thể gây khó chịu tại vùng hạ sườn phải. Tình trạng ứ máu tại dạ dày và ruột có thể gây chán ăn, buồn nôn và chướng bụng.
+
+Một số triệu chứng suy tim khác, ít đặc hiệu hơn, bao gồm các lạnh đầu chi, choáng váng khi thay đổi tư thế, tiểu nhiều về đêm, tiểu ít vào ban ngày. Nguyên nhân có thể do việc không sử dụng cơ, và cũng có thể do tăng chuyển hóa liên quan đến tăng sản xuất cytokine. Sụt cân nhiều là một dấu hiệu đáng báo động, liên quan đến tỷ lệ tử vong cao.
+
+Ở người lớn tuổi, lý do vào viện có thể không điển hình, như nói lẫn, mê sảng, ngã, suy giảm chức năng đột ngột, tiểu không tự chủ về đêm, hoặc rối loạn giấc ngủ. Sự suy giảm nhận thức và trầm cảm cùng tồn tại cũng có thể ảnh hưởng đến việc đánh giá và điều trị, đồng thời, suy tim cũng có thể làm nặng hơn các tình trạng này.
+
+Khám
+
+Khám tổng quát có thể phát hiện các dấu hiệu rối loạn toàn thân hoặc tim gây ra hoặc làm trầm trọng thêm tình trạng suy tim (ví dụ: thiếu máu,
+
+cường giáp
+
+, rối loạn sử dụng rượu,
+
+bệnh nhiễm sắc tố sắt mô
+
+,
+
+rung nhĩ có nhịp tim nhanh
+
+,
+
+hở van hai lá
+
+).
+
+Suy tim trái có thể có biểu hiện thở nhanh và nhịp tim nhanh. Bệnh nhân suy tim trái nặng có thể biểu hiện khó thở hoặc tím rõ, hạ huyết áp, lú lẫn hoặc kích động vì hạ oxy máu và tưới máu não kém. Các triệu chứng ít đặc hiệu (như lú lẫn), phổ biến hơn ở người lớn tuổi.
+
+Tím trung ương (ảnh hưởng đến toàn bộ cơ thể, bao gồm các vùng ấm như lưỡi và niêm mạc) phản ánh tình trạng thiếu oxy máu trầm trọng. Tím ngoại biên xuất hiện tại môi, móng và ngón tay, ngón chân, phản ánh tình trạng dòng tưới máu thấp kèm theo tăng giải phóng oxy ngoại vi. Nếu xoa bóp mạnh vào đầu ngón làm cải thiện màu sắc giường móng, có thể đó là tình trạng tím ngoại vi; nếu các nghiệm pháp gia tăng dòng tưới máu cục bộ không làm cải thiện màu sắc giường máu, tình trạng đó là tím trung ương.
+
+Phát hiện tim trong suy tim giảm phân suất tống máu
+
+bao gồm
+
+Lan tỏa, duy trì, và thay thế xung động đỉnh theo chiều ngang
+
+Nghe tim và đôi khi có thể sờ thấy tiếng S3 hoặc S4
+
+Thành phần xung động (P2) của tiếng tim thứ 2 (S2)
+
+Các tiếng tim bất thường cũng có thể xuất hiện trong suy tim có phân suất tống máu bảo tồn. Tiếng thổi tâm thu trong hở van hai lá nghe rõ tại mỏm tim có thể xuất hiện trong suy tim giảm phân suất tống máu hoặc suy tim có phân suất tống máu bảo tồn.
+
+Khám phổi
+
+phát hiện các tiếng rale ẩm đầu thì hít vào, có thể không nghe rõ khi ho, và nếu có tràn dịch màng phổi, khám phát hiện triệu chứng gõ đục và nghe rì rào phế nang giảm ở đáy phổi.
+
+Dấu hiệu suy thất phải
+
+bao gồm
+
+Phù nề ngoại biên không đau (áp lực số để lại dấu ấn rõ ràng và sờ thấy được, đôi khi khá sâu)
+
+Gan to và đôi khi có thể sờ thấy ở phía dưới bờ sườn phải
+
+Sưng bụng và cổ chướng
+
+Tăng áp lực tĩnh mạch cảnh, đôi khi lớn
+
+một
+
+hoặc
+
+v
+
+sóng có thể nhìn thấy ngay cả khi bệnh nhân ngồi hoặc đứng (xem hình
+
+Sóng tĩnh mạch bình thường
+
+)
+
+Trong trường hợp suy tim nặng, phù có thể lan lên đến đùi hoặc bẹn, bìu, thành bụng dưới, và thậm chí cao hơn. Phù toàn thân được định nghĩa là phù mức độ nặng ở nhiều vị trí khác nhau. Phù có thể không cân xứng nếu bệnh nhân nằm nghiêng một bên nhiều.
+
+Sóng V lớn tại vị trí tĩnh mạch cảnh phản ánh tình trạng hở ba lá nặng, thường xuất hiện trong bệnh cảnh suy tim phải. Sự gia tăng nghịch thường áp lực tĩnh mạch cảnh khi hít vào (dấu hiệu Kussmaul) thường gợi ý chẩn đoán suy tim phải, mặc dù nó cũng có thể xuất hiện trong bệnh cảnh
+
+bệnh cơ tim hạn chế
+
+,
+
+viêm màng ngoài tim co thắt
+
+và
+
+hở van ba lá
+
+nặng.
+
+Khi sung huyết gan, gan có thể to ra hoặc mềm khi sờ thấy, và có thể phát hiện trào ngược tĩnh mạch gan-tĩnh mạch cảnh hoặc bụng-tĩnh mạch cảnh (xem
+
+Tiếp cận bệnh nhân tim mạch)
+
+. Khám tim giúp phát hiện ổ đập cạnh ức trái - gợi ý tình trạng giãn buồng thất phải, nghe tim giúp phát hiện các tiếng thổi trong bệnh cảnh hở van ba lá, hoặc tiếng S3 nghe được dọc theo bờ trái xương ức; cả hai triệu chứng trên tăng lên khi bệnh nhân hít vào.
+
+Chẩn đoán suy tim
+
+Đánh giá đôi khi chỉ dựa vào lâm sàng
+
+Chụp X-quang ngực
+
+Siêu âm tim, chụp xạ hình tim, và/hoặc MRI
+
+Nồng độ BNP hoặc N-terminal-pro-BNP (NT-pro-BNP)
+
+ECG và các xét nghiệm chẩn đoán căn nguyên khác nếu cần
+
+Các triệu chứng lâm sàng (ví dụ: khó thở gắng sức hoặc mệt mỏi, khó thở không nằm được đầu bằng, phù, nhịp nhanh, rale phổi, tiếng S3, tĩnh mạch cổ nổi) thường gợi ý chẩn đoán suy tim, nhưng ít khi biểu hiện sớm. Một số triệu chứng tương tự có thể do
+
+COPD
+
+(bệnh phổi tắc nghẽn mạn tính) hoặc
+
+viêm phổi
+
+tái phát hoặc có thể bị nhầm lẫn là do béo phì hoặc tuổi già. Nghĩ nhiều tới chẩn đoán suy tim trên những bệnh nhân có tiền sử
+
+nhồi máu cơ tim
+
+,
+
+tăng huyết áp
+
+,
+
+bệnh van tim
+
+hoặc có tiếng thổi khi thăm khám tim, và có thể nghĩ tới suy timvtrên các đối tượng người cao tuổi hoặc mắc
+
+đái tháo đường
+
+.
+
+Nên tiến hành chụp X-quang ngực, làm điện tâm đồ, cùng các xét nghiệm thăm dò khách quan khác, như siêu âm tim (xem hình
+
+Chẩn đoán suy tim khởi phát cấp tính
+
+). Các xét nghiệm máu, ngoại trừ nồng độ BNP, không được sử dụng để chẩn đoán nhưng rất hữu ích để xác định nguyên nhân và các tác động trên toàn thân (
+
+1
+
+,
+
+2
+
+).
+
+Chẩn đoán suy tim khởi phát cấp tính
+
+Dữ liệu của
+
+McDonagh TA, Metra M, Adamo M, et al
+
+: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.
+
+Eur Heart J
+
+42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab368.
+
+Chụp X-quang ngực
+
+Các triệu chứng suy tim trên phim chụp X-quang bao gồm: bóng tim to, tràn dịch màng phổi, tràn dịch rãnh liên thùy, đường Kerley B (đường nằm ngang ở ngoại vi trường phổi dưới). Các triệu chứng này cho thấy tình trạng tăng áp lực nhĩ trái và dày thành rãnh liên thùy mạn tính. Có thể có biểu hiện sung huyết tĩnh mạch phổi tại thùy trên phổi, ứ dịch tại phế nang hoặc khoảng kẽ. Quan sát kỹ các đường cung tim trên phim chụp nghiêng, có thể xác định được tình trạng giãn các buồng nhĩ hoặc thất. Chụp X-quang cũng giúp gợi ý các chẩn đoán phân biệt khác (như COPD, viêm phổi,
+
+xơ hóa phổi nguyên phát
+
+,
+
+ung thư phổi
+
+).
+
+Chẩn đoán hình ảnh ở bệnh nhân suy tim
+
+Phim chụp X-quang ngực của một bệnh nhân bị tràn dịch màng phổi hai bên
+
+Bệnh nhân này bị tràn dịch màng phổi hai bên (mũi tên). Các góc sườn hoành nhọn bình thường bị che khuất bởi dịch ở bệnh nhân này.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Đường Kerley B
+
+Các đường Kerley B (mũi tên) là các đường ngang ở ngoại vi phổi kéo dài đến bề mặt màng phổi. Các đường này biểu thị vách ngăn liên thùy dày lên, phù nề thường là do phù phổi.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang ngực của một bệnh nhân có hình ảnh tim to và hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dưới
+
+Bệnh nhân này có tim to (độ rộng của bóng tim > 50% lồng ngực trên phim X-quang ngực thẳng). Bệnh nhân cũng có hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dưới (các mũi tên màu đen), theo đó các mạch máu phổi ở thùy trên trở nên nổi bật hơn. Những dấu hiệu này thường thấy ở những bệnh nhân bị suy tim.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang ngực của một bệnh nhân bị tràn dịch trong các rãnh nhỏ và lớn
+
+Phim chụp X-quang ngực nghiêng ở một bệnh nhân thấy có dịch trong các rãnh lớn (1) và nhỏ (2) cũng như tràn dịch khu trú (3) dọc theo thành ngực sau bên phải.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang ngực của một bệnh nhân bị tràn dịch màng phổi hai bên
+
+Bệnh nhân này bị tràn dịch màng phổi hai bên (mũi tên). Các góc sườn hoành nhọn bình thường bị che khuất bởi dịch ở bệnh nhân này.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Đường Kerley B
+
+Các đường Kerley B (mũi tên) là các đường ngang ở ngoại vi phổi kéo dài đến bề mặt màng phổi. Các đường này biểu thị vách ngăn liên thùy dày lên, phù nề thường là do phù phổi.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang ngực của một bệnh nhân có hình ảnh tim to và hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dưới
+
+Bệnh nhân này có tim to (độ rộng của bóng tim > 50% lồng ngực trên phim X-quang ngực thẳng). Bệnh nhân cũng có hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dưới (các mũi tên màu đen), theo đó các mạch máu phổi ở thùy trên trở nên nổi bật hơn. Những dấu hiệu này thường thấy ở những bệnh nhân bị suy tim.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang ngực của một bệnh nhân bị tràn dịch trong các rãnh nhỏ và lớn
+
+Phim chụp X-quang ngực nghiêng ở một bệnh nhân thấy có dịch trong các rãnh lớn (1) và nhỏ (2) cũng như tràn dịch khu trú (3) dọc theo thành ngực sau bên phải.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+ECG
+
+Kết quả điện tâm đồ không phải là chẩn đoán, nhưng điện tâm đồ bất thường, đặc biệt là cho thấy nhồi máu cơ tim, phì đại thất trái, block nhánh trái, hoặc nhịp tim nhanh (ví dụ,
+
+rung nhĩ
+
+nhanh) trước đó, làm tăng nghi ngờ về HF và có thể giúp xác định nguyên nhân. Trong suy tim, điện tâm đồ ít khi bình thường.
+
+Chẩn đoán hình ảnh
+
+Siêu âm tim
+
+có thể giúp đánh giá kích thước buồng tim, chức năng van, LVEF, các bất thường về chuyển động của thành tim, phì đại LV, chức năng tâm trương, áp lực động mạch phổi, áp lực đổ đầy LV và RV, chức năng RV và tràn dịch màng ngoài tim. Siêu âm tim cũng có thể giúp phát hiện huyết khối, khối u, vôi hóa van tim, vòng van hai lá và các bất thường trên thành động mạch chủ. Rối loạn vận động thành cơ tim từng vùng hoặc phân đoạn thường rất gợi ý chẩn đoán
+
+bệnh mạnh vành
+
+, nhưng dấu hiệu này cũng có thể xuất hiện trong
+
+viêm cơ tim
+
+. Siêu âm Doppler hoặc siêu âm Doppler màu giúp phát hiện một cách chính xác các bệnh lý van tim và các shunt. Sự kết hợp Doppler đánh giá dòng chảy của van hai lá với siêu âm đánh giá hình ảnh mô tại vòng van có thể giúp xác định chính xác rối loạn chức năng tâm trương thất trái và áp lực đổ đầy thất trái. Đo phân suất tống máu thất trái giúp phân biệt giữa suy tim có phân suất tống máu bảo tồn (EF
+
+≥
+
+50%) và suy tim giảm phân suất tống máu (EF
+
+≤
+
+40%). Tuy nhiên, vẫn cần nhấn mạnh rằng bệnh nhân vẫn có thể có tình trạng suy tim, dù phân suất tống máu thất trái bình thường. Siêu âm tim theo dõi đốm (hữu ích trong việc phát hiện rối loạn chức năng tâm thu cận lâm sàng và các dạng rối loạn chức năng cơ tim cụ thể) có thể trở nên quan trọng nhưng hiện chỉ được báo cáo thường quy ở các trung tâm chuyên khoa.
+
+Hình ảnh hạt nhân phóng xạ
+
+cũng có thể giúp đánh giá chức năng tâm thu và tâm trương, nhồi máu cơ tim trước đó (nhồi máu cơ tim) và thiếu máu cục bộ hoặc ngủ đông cơ tim. Nó được sử dụng phổ biến nhất để đánh giá sự hiện diện và/hoặc mức độ nặng của bệnh thiếu máu cơ tim cục bộ và cũng có thể được sử dụng để định lượng phân suất tống máu thất trái.
+
+Chụp MRI tim
+
+cung cấp hình ảnh chính xác về cấu trúc tim và ngày càng trở nên phổ biến rộng rãi. MRI tim sử dụng hình ảnh ngấm thuốc gadolinium muộn (LGE, còn được gọi là hình ảnh xơ hóa hoặc sẹo) rất hữu ích để đánh giá nguyên nhân của bệnh cơ tim và phát hiện xơ hóa cơ tim khu trú và lan tỏa. Chụp MRI tim có thể giúp phát hiện một số nguyên nhân gây suy tim, bao gồm: thoái hóa dạng tinh bột, bệnh sarcoid, hemachromatosis và viêm cơ tim.
+
+Xét nghiệm máu
+
+Nồng độ BNP huyết thanh
+
+thường tăng cao trong trường hợp suy tim; đây là dấu hiệu hữu ích khi lâm sàng không rõ ràng hoặc cần loại trừ các chẩn đoán khác (như COPD). Xét nghiệm này có thể đặc biệt hữu ích với những bệnh nhân có cả tiền sử bệnh lý hô hấp và tim mạch. NT-pro-BNP là một phân tử không hoạt tính được hình thành khi phân tử pro BNP bị phân cắt. Tuy nhiên,
+
+nồng độ BNP ở ngưỡng bình thường không giúp loại trừ chẩn đoán suy tim
+
+, đặc biệt ở bệnh nhân suy tim có phân suất tống máu bảo tồn và/hoặc béo phì. Trong suy tim có phân suất tống máu bảo tồn, nồng độ BNP có xu hướng khoảng 50% bệnh nhân có liên quan đến suy giảm phân suất tống máu (ở mức tương tự), và có tới 30% bệnh nhân suy tim có phân suất tống máu bảo tồn cấp tính có nồng độ BNP dưới ngưỡng được sử dụng là 100pg/mL (100ng/L). Béo phì, tình trạng đi kèm đang ngày càng trở nên phổ biến ở những bệnh nhân suy tim, có liên quan đến việc giảm sản xuất và tăng thanh thải BNP, dân đến nồng độ thấp.
+
+Ngoài BNP, các xét nghiệm nên được tiến hành bao gồm tổng phân tích tế bào máu ngoại vi, creatinine, ure, điện giải (bao gồm magiê và canxi), glucose, albumin và các xét nghiệm về năng gan. Các xét nghiệm chức năng tuyến giáp được khuyến cáo cho những bệnh nhân rung nhĩ và trên một số đối tượng bệnh nhân chọn lọc, đặc biệt là đối tượng người cao tuổi.
+
+Các xét nghiệm khác
+
+Siêu âm ngực
+
+là một phương pháp không xâm lấn giúp phát hiện tình trạng ứ máu tại phổi ở bệnh nhân suy tim. Dấu hiệu "xảo ảnh đuôi sao chổi" trong siêu âm ngực tương ứng với đường Kerley B trên phim chụp X-quang ngực.
+
+Xảo ảnh đuôi sao chổi
+
+Hình ảnh
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Chụp mạch vành
+
+hoặc
+
+chụp CT mạch vành
+
+được chỉ định khi nghi ngờ
+
+bệnh mạch vành
+
+, hoặc chưa có chẩn đoán xác định căn nguyên gây suy tim.
+
+Thông tim đo áp lực buồng tim (thăm dò huyết động xâm lấn) có thể hữu ích trong việc chẩn đoán các bệnh lý cơ tim hạn chế và viêm màng ngoài tim co thắt. Các phương pháp đo huyết động xâm lấn cũng rất hữu ích trong chẩn đoán các trường hợp suy tim không rõ ràng, đặc biệt ở bệnh nhân suy tim có phân suất tống máu bảo tồn. Ngoài ra, các nghiệm pháp kích thích hệ thống tim mạch, như nghiệm pháp gắng sức, test truyền dịch, test thuốc (như nitroglycerin, nitroprusside) có thể được tiến hành kết hợp cùng đo huyết động xâm lấn để giúp chẩn đoán suy tim.
+
+Sinh thiết nội tâm mạc đôi khi được thực hiện khi nghi ngờ rõ bệnh cơ tim thâm nhiễm, hoặc viêm cơ tim cấp tính tế bào khổng lồ nhưng không thể khẳng định bằng hình ảnh không xâm lấn (ví dụ, MRI tim).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+McDonagh TA, Metra M, Adamo M, et al
+
+: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.
+
+Eur Heart J
+
+42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab368
+
+2.
+
+Heidenreich PA, Bozkurt B, Aguilar D, et al
+
+: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+145:e876–e894, 2022, doi: 10.1161/CIR.0000000000001062
+
+Tiên lượng về suy tim
+
+Nói chung, bệnh nhân suy tim có tiên lượng kém, trừ khi có thể điều trị được nguyên nhân. Thời gian sống thêm tổng thể phối hợp trong 5 năm là 35% đối với bệnh nhân suy tim có phân suất tống máu bảo tồn hoặc HFrEF sau khi nhập viện ban đầu vì suy tim. Trong suy tim mạn, tỷ lệ tử vong phụ thuộc vào mức độ triệu chứng và tình trạng rối loạn chức năng thất, có thể dao động từ 10 đến 40% mỗi năm.
+
+Các yếu tố tiên lượng kém bao gồm huyết áp thấp, phân suất tống máu thấp, bệnh mạch vành đi kèm, tăng troponin, tăng ure, giảm mức lọc cầu thận, hạ natri máu, và khả năng thực hiện các chức năng sinh hoạt kém (có thể thử nghiệm bằng cách đi bộ 6 phút).
+
+BNP, NTproBNP, và điểm số nguy cơ như là
+
+Điểm số nguy cơ suy tim mạn tính của Nhóm phân tích tổng hợp toàn cầu (MAGGIC)
+
+và
+
+mô hình Suy tim Seattle
+
+, rất hữu ích để dự đoán tiên lượng ở bệnh nhân HF như một nhóm tổng thể, mặc dù có sự khác biệt đáng kể về thời gian sống thêm giữa từng bệnh nhân.
+
+Suy tim thường là một quá trình tiến triển dần dần, xen kẽ bởi các đợt suy tim cấp, và cuối cùng là tử vong, mặc dù các biện pháp điều trị hiện đại đang giúp kéo dài thời gian sống sót cho bệnh nhân. Tuy nhiên, bệnh nhân vẫn có thể tử vong một cách bất ngờ và đột ngột ngay cả khi không hề có biểu hiện nặng lên của triệu chứng suy tim.
+
+Chăm sóc cuối đời
+
+Tất cả các bệnh nhân và thành viên trong gia đình nên được hướng dẫn về tiến triển của bệnh và nguy cơ tử vong đột ngột. Đối với một số bệnh nhân, cải thiện chất lượng cuộc sống có vai trò quan trọng ngang với việc kéo dài tuổi thọ. Vì vậy, điều quan trọng là xác định mong muốn của bệnh nhân về các biện pháp hồi sức (như
+
+đặt nội khí quản
+
+, hồi sức tim phổi) nếu tình trạng của họ xấu đi, đặc biệt là khi đã suy tim nặng.
+
+Tất cả bệnh nhân cần được trấn an rằng các triệu chứng sẽ thuyên giảm, và họ nên được khuyến khích tìm kiếm chăm sóc y tế sớm nếu các triệu chứng thay đổi nhiều. Vai trò của nhóm chăm sóc đa chuyên ngành, bao gồm nhóm chăm sóc y tế tại chỗ, cùng sự tham gia của các dược sĩ, y tá, nhân viên xã hội và giáo sĩ (khi cần), là đặc biệt quan trọng trong
+
+chăm sóc cuối đời
+
+.
+
+Điều trị suy tim
+
+Thay đổi chế độ ăn và lối sống
+
+Điều trị nguyên nhân
+
+Liệu pháp điều trị bằng thuốc
+
+Đôi khi cần sử dụng các thiết bị điều trị (như cấy máy khử rung, máy tái đồng bộ tim, hỗ trợ tuần hoàn cơ học)
+
+Đôi khi có chỉ định ghép tim
+
+Chăm sóc đa chuyên ngành
+
+Cần điều trị nội trú ngay lập tức cho những bệnh nhân bị suy tim cấp tính hoặc nặng hơn do một số rối loạn (ví dụ như
+
+nhồi máu cơ tim cấp tính
+
+,
+
+rung nhĩ
+
+kèm theo nhịp thất rất nhanh,
+
+tăng huyết áp
+
+nặng,
+
+hở van tim cấp tính
+
+), cũng như đối với những bệnh nhân bị
+
+phù phổi
+
+, các triệu chứng nặng, suy tim mới khởi phát hoặc suy tim không đáp ứng với điều trị ngoại trú. Bệnh nhân đã được chẩn đoán suy tim trước đó, với các đợt tiến triển nhẹ có thể được điều trị tại nhà.
+
+Mục tiêu điều trị chính là để chẩn đoán và điều trị bệnh lý căn nguyên gây suy tim.
+
+Các mục tiêu ngắn hạn
+
+bao gồm cải thiện triệu chứng và cải thiện huyết động học; tránh
+
+hạ kali máu
+
+, rối loạn chức năng thận và hạ huyết áp triệu chứng; và điều chỉnh tình trạng kích thích thần kinh thể dịch.
+
+Các mục tiêu dài hạn
+
+bao gồm điều chỉnh
+
+tăng huyết áp
+
+, ngăn ngừa
+
+nhồi máu cơ tim
+
+và tiến triển của
+
+xơ vữa động mạch
+
+, cải thiện chức năng tim, giảm nhập viện, cải thiện thời gian sống thêm và chất lượng cuộc sống.
+
+Điều trị bao gồm thay đổi chế độ ăn và lối sống,
+
+điều trị thuốc
+
+, các thiết bị can thiệp, đôi khi là can thiệp mạch vành hoặc phẫu thuật.
+
+Cá thể hóa điều trị nhằm tạo ra sự phù hợp với từng bệnh nhân, xem xét các nguyên nhân, triệu chứng, và đáp ứng với thuốc, bao gồm cả các tác dụng không mong muốn. Hiện tại có một số phương pháp điều trị dựa trên bằng chứng cho HFrEF mạn tính (
+
+1
+
+,
+
+2
+
+). Có ít phương pháp điều trị dựa trên bằng chứng cho suy tim có phân suất tống máu bảo tồn mạn tính, HFmrEF, hội chứng suy tim cấp tính và suy tâm thất phải (
+
+3
+
+).
+
+Xem
+
+Các thuốc điều trị suy tim
+
+để biết thông tin chi tiết về điều trị bằng thuốc và các loại thuốc và nhóm cụ thể.
+
+Kiểm soát
+
+Các biện pháp chung,
+
+đóng vai trò rất quan trọng trong điều trị suy tim, đặc biệt là giáo dục bệnh nhân và người chăm sóc, điều chỉnh chế độ ăn và thay đổi lối sống.
+
+Giáo dục
+
+Hạn chế Natri
+
+Mức cân nặng và tập luyện phù hợp
+
+Điều trị bệnh lý căn nguyên
+
+Giáo dục bệnh nhân và người chăm sóc là yếu tố tối quan trọng duy trì kết quả lâu dài. Bệnh nhân và gia đình nên có sự tham gia vào việc lựa chọn các phương thức điều trị. Họ nên được hướng dẫn về tầm quan trọng của tuân thủ điều trị thuốc, các dấu hiệu cảnh báo đợt tiến triển, và cách liên hệ nguyên nhân-hệ quả (như tăng muối trong chế độ ăn dẫn tới tăng cân hoặc xuất hiện triệu chứng).
+
+Nhiều trung tâm (như các phòng khám chuyên khoa) đã có sự kết hợp giữa các chuyên gia chăm sóc sức khỏe từ các chuyên ngành khác nhau (như các điều dưỡng, dược sĩ, nhân viên xã hội, chuyên gia phục hồi chức năng) vào các nhóm đa chuyên ngành hoặc vào các chương trình quản lý bệnh nhân ngoại trú. Những cách tiếp cận này có thể giúp cải thiện tiên lượng chung, giảm tỷ lệ nhập viện, đồng thời đạt hiệu quả tối đa ở những bệnh nhân thể trạng yếu.
+
+Chế độ ăn hạn chế natri
+
+giúp hạn chế tình trạng ứ dịch. Tất cả các bệnh nhân nên loại bỏ muối khi nấu lẫn muối chấm tại bàn, tránh thức ăn chứa muối; suy tim mức độ nặng nhất nên có chế độ ăn hạn chế natri
+
+<
+
+2 g/ngày, bằng cách chỉ ăn thực phẩm có natri thấp.
+
+Theo dõi cân nặng hàng ngày
+
+giúp phát hiện sớm tình trạng ứ muối ứ nước. Nếu tăng
+
+>
+
+2 kg trong vài ngày, bệnh nhân có thể tự điều chỉnh liều thuốc lợi tiểu, nhưng nếu vẫn tiếp tục tăng cân hoặc xuất hiện triệu chứng khác, bệnh nhân nên đi khám sớm.
+
+Kiểm soát chuyên sâu,
+
+đặc biệt là theo dõi tuân thủ điều trị và tần suất các lần khám hoặc cấp cứu, các lần nhập viện ngoài lịch hẹn - điều này có thể giúp xác định được thời điểm cẩn thiết phải can thiệp. Các điều dưỡng được đào tạo chuyên sâu về lĩnh vực suy tim đóng vai trò quan trọng trong việc giáo dục, theo dõi, và điều chỉnh liều lượng thuốc theo các quy trình định trước.
+
+Bệnh nhân vữa xơ động mạch hoặc đái tháo đường nên tuân thủ nghiêm ngặt chế độ ăn uống phù hợp với bệnh lý mình đang mắc. Béo phì có thể là nguyên nhân, hoặc là yếu tố làm nặng thêm các triệu chứng suy tim; bệnh nhân nên duy trì chỉ số khối cơ thể (BMI) ≤ 30 kg/m
+
+2
+
+(lý tưởng là 21 đến 25 kg/m
+
+2
+
+).
+
+Các hoạt động cường độ nhẹ hàng ngày
+
+(như đi bộ), phù hợp với tình trạng bệnh nhân, thường được khuyến khích thực hiện. Vận động giúp ngăn ngừa tình trạng yếu cơ, bảo đảm toàn trạng chung, tuy nhiên, vận động dường như không giúp cải thiện tỷ lệ sống còn, hoặc làm giảm tỷ lệ nhập viện. Trong các đợt tiến triển, bệnh nhân nên được nghỉ ngơi, tránh gắng sức. Các phương thức
+
+phục hồi chức năng tim
+
+mạch tiêu chuẩn là rất hữu ích cho suy tim giảm phân suất tống máu, và có thể hữu ích cho bệnh nhân suy tim có phân suất tống máu bảo tồn.
+
+Bệnh nhân nên
+
+tiêm vắc xin cúm
+
+hàng năm vì cúm có thể làm trầm trọng thêm HF, đặc biệt ở những bệnh nhân nằm viện hoặc bệnh nhân cao tuổi. Bệnh nhân nên được tiêm phòng SARS-CoV-2.
+
+Điều trị triệt để các tình trạng tăng huyết áp, nhịp nhanh trường diễn, thiếu máu nặng, bệnh quá tải sắt, đái tháo đường khó kiểm soát, cường giáp, beri beri, nghiện rượu, hoặc nhiễm toxoplasma, giúp cải thiện đáng kể tình trạng bệnh nhân. Nhồi máu cơ tim nặng nên được điều trị tích cực; bao gồm tái tưới máu mạch vành bằng cách
+
+can thiệp mạch vành qua da
+
+hoặc
+
+phẫu thuật
+
+. Các phương thức kiểm soát bệnh cơ tim thâm nhiễm (như thoái hóa dạng tinh bột) đã được cải thiện đáng kể. Mới hơn
+
+phương pháp điều trị thoái hóa dạng tinh bột
+
+đã cải thiện đáng kể tiên lượng cho nhiều bệnh nhân.
+
+Loạn nhịp tim
+
+Vì loạn nhịp có thể làm suy tim trầm trọng hơn nên điều quan trọng là phải xác định và điều trị nguyên nhân gây bất cứ
+
+loạn nhịp
+
+nào.
+
+Tình trạng rối loạn điện giải cần được điều chỉnh trong giới hạn bình thường.
+
+Cần phải kiểm soát tốt tần số nhĩ và thất.
+
+Đôi khi cần sử dụng các thuốc chống rối loạn nhịp.
+
+Nhịp nhanh xoang là tình trạng thường gặp trong suy tim, nó thường thuyên giảm khi điều trị suy tim hiệu quả. Nếu không thuyên giảm, cần tìm kiếm các nguyên nhân liên quan (ví dụ như
+
+cường giáp
+
+,
+
+cục nghẽn mạch phổi
+
+, sốt, thiếu máu, đau). Nếu nhịp nhanh xoang vẫn tồn tại mặc dù đã điều trị nguyên nhân, việc sử dụng thuốc chẹn beta theo liều tăng dần có thể hữu ích trên một số đối tượng bệnh nhân nhất định. Tuy nhiên, hạ nhịp tim bằng thuốc chẹn beta có thể gây bất lợi trên bệnh nhân suy tim có phân suất tống máu bảo tồn đang trong đợt tiến triển (như
+
+bệnh cơ tim hạn chế
+
+), do rối loạn chức năng tâm trương nặng khiến cho không tăng được thể tích nhát bóp. Ở những bệnh nhân này, cung lượng tim phụ thuộc tương đối nhiều vào nhịp tim, và việc hạ nhịp tim có thể làm giảm cung lượng tim khi nghỉ và/hoặc khi gắng sức.
+
+Tình trạng
+
+rung nhĩ
+
+đáp ứng nhịp thất nhanh cần được điều trị triệt để; tần số đáp ứng thất cần được kiểm soát
+
+<
+
+80 lần/phút. Thuốc chẹn beta là một lựa chọn điều trị, tuy nhiên, cũng có thể sử dụng thận trọng các thuốc chẹn kênh canxi có tác dụng làm chậm nhịp, nếu chức năng tâm thu được bảo tồn. Việc sử dụng thêm digoxin, amiodarone hoặc các thuốc kiểm soát nhịp/tần số khác ở liều thấp, có thể hữu ích đối với một số bệnh nhân. Trong các thử nghiệm lâm sàng lớn, việc chuyển nhịp thường quy và duy trì nhịp xoang chưa chứng minh được tác dụng vượt trội so với các biện pháp kiểm soát tần số thất đơn độc. Tuy nhiên,các quyết định điều trị nên được đưa ra tùy theo tình trạng cụ thể của từng bệnh nhân, bởi một số bệnh nhân cho thấy sự cải thiện đáng kể khi áp dụng các biện pháp chuyển nhịp. Nếu rung nhĩ nhanh không đáp ứng với thuốc, có thể cấy máy tạo nhịp vĩnh viễn, loại bỏ hoàn toàn hoặc một phần dẫn truyền nút nhĩ thất, hoặc tiến hành thủ thuật
+
+triệt đốt rung nhĩ
+
+có thể cân nhắc ở một số đối tượng bệnh nhân, nhằm chuyển nhịp về nhịp xoang.
+
+Ngoại tâm thu thất
+
+đơn độc là tình trạng thường gặp ở bệnh nhân suy tim và không cần điều trị đặc hiệu, tuy nhiên, trong một số ít các trường hợp, ngoại tâm thu thất xuất hiện dày đặc (> 15.000/ngày) có thể gây suy tim (ngược với sự ức chế). Việc tối ưu hóa các phương pháp điều trị suy tim và điều chỉnh các rối loạn điện giải (đặc biệt là kali và magiê) sẽ làm giảm nguy cơ rối loạn nhịp thất.
+
+Nhịp nhanh thấ
+
+t dai dẳng vẫn tồn tại mặc dù đã điều trị nguyên nhân (ví dụ: kali hoặc magie thấp, thiếu máu cục bộ) và điều trị nội khoa tối ưu cho HF có thể cần dùng thuốc chống loạn nhịp. Có thể lựa chọn Amiodaron, thuốc chẹn beta, và dofetilide vì các thuốc chống loạn nhịp khác đều có khả năng đe dọa gây rối loạn nhịp khi có suy giảm chức năng tâm thu thất trái. Do amiodarone làm tăng nồng độ digoxin và warfarin trong huyết thanh, do đó, nên giảm liều digoxin và/hoặc warfarin xuống một nửa hoặc dừng các thuốc này lại. Mức độ digoxin huyết thanh và mức INR (tỷ lệ chuẩn hóa quốc tế) nên được theo dõi thường quy. Tuy nhiên, quá liều thuốc vẫn có thể xảy ra, thậm chí ngay cả ở liều điều trị. Sử dụng amiodarone kéo dài có thể gây các tác dụng không mong muốn, do đó, nên dùng liều thấp (200 mg uống 1 lần/ngày) nếu được; xét nghiệm máu kiểm tra chức năng gan và hormone TSH mỗi 6 tháng. Nếu X-quang ngực bất thường, hoặc khó thở nhiều hơn, cần chụp X-quang ngực và kiểm tra chức năng hô hấp hàng năm để tầm soát tình trạng xơ phổi. Đối với rối loạn nhịp thất kéo dài, có thể cần dùng amiodarone; để giảm nguy cơ tử vong đột ngột, sử dụng liều nạp 400-800 mg uống hai lần mỗi ngày trong vòng từ 1 đến 3 tuần, cho đến khi kiểm soát được nhịp, sau đó giảm liều trong vòng 1 tháng đến liều duy trì liều uống 200 mg một lần/ngày.
+
+Các thiết bị hỗ trợ điều trị
+
+Chỉ định
+
+cấy máy phá rung
+
+(ICD) hoặc cấy máy
+
+tái đồng bộ cơ tim
+
+(CRT) cho một số đối tượng bệnh nhân chọn lọc.
+
+Cấy máy phá rung tự động
+
+được khuyến cáo trên các đối tượng bệnh nhân nhanh thất dai dẳng hoặc có cơn rung thất, kèm theo có kỳ vọng sống cao, hoặc ở những bệnh nhân suy tim vẫn còn triệu chứng và LVEF
+
+<
+
+35% dù đã được điều trị bằng thuốc theo hướng dẫn. Khuyến cáo cấy máy phá rung tự động ở bệnh nhân suy tim giảm phân suất tống máu do nguyên nhân bệnh tim thiếu máu cục bộ mạnh hơn ở những bệnh nhân suy tim không do bệnh tim thiếu máu cục bộ. Một thử nghiệm lâm sàng bao gồm các bệnh nhân HFrEF mắc bệnh cơ tim không do thiếu máu cục bộ đã chứng minh không có lợi ích về tỷ lệ tử vong khi đặt ICD dự phòng (phòng ngừa ban đầu) (
+
+4
+
+).
+
+CRT
+
+là một chế độ tạo nhịp đồng bộ hóa sự co bóp của tâm thất trái bằng cách tạo nhịp đồng thời với thành đối diện của nó, do đó cải thiện thể tích nhát bóp. CRT có thể làm giảm các triệu chứng và giảm số ca nhập viện do suy tim cho những bệnh nhân có HF, LVEF
+
+<
+
+35% và phức hợp QRS giãn rộng với kiểu block nhánh trái (
+
+>
+
+0,15 giây – QRS càng rộng, lợi ích tiềm năng càng lớn). Máy tái đồng bộ cơ tim tỏ có hiệu quả nhưng đắt tiền, và cần có sự lựa chọn bệnh nhân phù hợp. Nhiều máy tái đồng bộ cơ tim cũng có tích hợp cả máy phá rung tự động.
+
+Thiết bị cấy ghép theo dõi huyết động xâm lấn (như đo áp lực động mạch phổi) có thể giúp hướng dẫn kiểm soát suy tim ở một số đối tượng bệnh nhân. Ví dụ, chuẩn độ thuốc (ví dụ, thuốc lợi tiểu) dựa trên kết quả đọc từ một trong những thiết bị này có liên quan đến việc giảm đáng kể tỷ lệ nhập viện do HF trong một thử nghiệm lâm sàng bao gồm bệnh nhân mắc cả HFrEF và suy tim có phân suất tống máu bảo tồn. Thiết bị này đo áp lực tâm trương động mạch phổi, và từ đó gián tiếp đo áp lực giường mao mạch phổi (và áp lực nhĩ trái) trên bệnh nhân suy tim. Tuy nhiên, nó chỉ được đánh giá ở những bệnh nhân độ III của NYHA (Hiệp hội Tim mạch New York) có đợt cấp HF tái phát. Các bằng chứng khác trong tương lai sẽ giúp hướng dẫn thực hành sử dụng loại công nghệ này.
+
+Các biện pháp siêu lọc
+
+(lọc tĩnh mạch) có thể hữu ích trong một số trường hợp bệnh nhân nhập viện có hội chứng tim thận mức độ nặng và thừa dịch kháng trị với lợi tiểu. Tuy nhiên, không nên sử dụng các biện pháp siêu lọc một cách thường quy, vì các thử nghiệm lâm sàng không cho thấy lợi ích lâu dài.
+
+Biện pháp
+
+đặt bóng đối xung động mạch chủ
+
+(IABP) có ích với các bệnh nhân suy tim cấp tính có khả năng phục hồi tốt (ví dụ, suy tim cấp sau nhồi máu cơ tim) hoặc ở những bệnh nhân cần thời gian chờ đợi phẫu thuật (bệnh van tim nặng, hoặc tái tưới máu trên đối tượng nhồi máu cơ tim nhiều thân), chờ đợi cấy thiết bị hỗ trợ thất trái, hoặc ghép tim. Các hình thức hỗ trợ tuần hoàn cơ học tạm thời khác cho bệnh nhân HF cấp tính và sốc tim bao gồm các thiết bị được phẫu thuật đặt như
+
+trao đổi oxy qua màng ngoài cơ thể
+
+(ECMO, điển hình là phương pháp điều hòa tĩnh mạch) và
+
+thiết bị trợ giúp tâm thất dòng ly tâm
+
+có thể hỗ trợ LV, RV, hoặc cả hai và cũng có thể kết hợp với máy thở oxy để hỗ trợ tim phổi đầy đủ. Các thiết bị được đặt phần trăm như
+
+thiết bị hỗ trợ thất vi trục nội mạch
+
+có sẵn cho cả hỗ trợ LV và RV. Việc lựa chọn các thiết bị hỗ trợ tuần hoàn cơ học tạm thời chủ yếu dựa trên sự sẵn có và kinh nghiệm của trung tâm y tế địa phương.
+
+Thiết bị hỗ trợ LV
+
+(LVAD) bền hoặc lưu động là các máy bơm có thể cấy ghép trong cơ thể lâu dài hơn để tăng cung lượng LV. Các thiết bị thường được sử dụng để duy trì ổn định tình trạng của những bệnh nhân suy tim nặng đang chờ ghép tim, đồng thời cũng được sử dụng như một dạng "liệu pháp đích" (giải pháp lâu dài hoặc vĩnh viễn) ở một số bệnh nhân không phải đối tượng chờ ghép tim.
+
+Phẫu thuật và các thủ thuật qua da
+
+Phẫu thuật có thể thích hợp đối với một số bệnh lý nhất định. Phẫu thuật ở bệnh nhân suy tim nặng nên được thực hiện tại một trung tâm chuyên khoa nhiều kinh nghiệm.
+
+Phẫu thuật đóng các shunt bẩm sinh hoặc mắc phải có thể đóng vai trò là một biện pháp điều trị triệt căn.
+
+Ghép bắc cầu động mạch vành
+
+(CABG) cho bệnh nhân rối loạn chức năng tâm thu LV thứ phát do bệnh động mạch vành và bằng chứng về khả năng sống của cơ tim có thể có lợi; tuy nhiên, những bệnh nhân bị nhồi máu cơ tim trước đó và cơ tim không còn khả năng sống sẽ ít có khả năng được hưởng lợi từ CABG. Vì vậy, quyết định tái tưới máu trên bệnh nhân suy tim có tổn thương nhiều thân động mạch vành nên được thực hiện trên cơ sở từng trường hợp cụ thể.
+
+Nếu suy tim chủ yếu do
+
+bệnh van tim
+
+, nên cân nhắc phẫu thuật sửa van hoặc thay van. Bệnh nhân bị hở hai lá nguyên phát có thể được hưởng lợi nhiều hơn bệnh nhân hở hai lá thứ phát sau giãn thất trái, trên các đối tượng này, chức năng cơ tim nhiều khả năng vẫn kém sau phẫu thuật. Phẫu thuật tốt nhất nên được thực hiện trước khi có tình trạng giãn cơ tim và tổn thương trở nên không thể đảo ngược. Gần đây hơn, thủ thuật phục hồi van hai lá qua da (còn gọi là sửa chữa xuyên suốt qua ống thông [TEER]), trong đó một chiếc kẹp được áp dụng để mô phỏng gần đúng các lá van hai lá trước và sau, đã được chứng minh là làm giảm tử vong và nhập viện do suy tim được lựa chọn cẩn thận bệnh nhân suy tim có triệu chứng mặc dù đã được điều trị nội khoa tối ưu và hở van hai lá từ trung bình đến nặng hoặc nặng với kích thước LV được bảo tồn (kích thước cuối tâm thu ≤ 70 mm—
+
+5
+
+).
+
+Ghép tim
+
+là sự lựa chọn hàng đầu với các bệnh nhân
+
+<
+
+60 tuổi có suy tim nặng và kháng trị, không có các bệnh lý gây đe dọa tính mạng và có khả năng tuân thủ chặt chẽ các điều trị được khuyến cáo. Có thể cân nhắc ghép tim với các bệnh nhân 60-70 tuổi, nếu họ có toàn trạng chung tốt, và đáp ứng được các tiêu chuẩn ghép tim khác. Tỷ lệ sống là 85 đến 90% sau 1 năm, tỷ lệ tử vong hàng năm sau đó là khoảng 4% năm; tuy nhiên, tỷ lệ tử vong trong khi chờ đợi người hiến là 12 đến 15%. Tỷ lệ hiến tạng hiện vẫn còn khá thấp.
+
+Thiếu máu và thiếu sắt
+
+Thiếu máu thường gặp ở những bệnh nhân bị suy tim mạn tính và thường là do đa yếu tố. Thiếu máu có liên quan đến các triệu chứng và kết quả trầm trọng hơn trong HF và vì vậy cần tìm kiếm và điều trị các nguyên nhân có thể khắc phục được.
+
+Thiếu sắt
+
+là một trong những nguyên nhân phổ biến nhất gây thiếu máu trong HF, và liệu pháp thay thế sắt nên được xem xét sau khi loại trừ các nguyên nhân có thể điều trị được như mất máu (đường tiêu hóa hoặc bệnh khác). Thay thế sắt bằng đường uống thường kém hiệu quả hơn do kém hấp thu và các lý do khác, do đó thay thế sắt qua đường tĩnh mạch được ưu tiên hơn.
+
+Suy tim mạn tính
+
+Sau điều trị, triệu chứng thường xuất hiện dai dẳng. Lý do bao gồm
+
+Sự tồn tại của bệnh lý nền (ví dụ, cao huyết áp, thiếu máu cục bộ/nhồi máu, bệnh van tim)
+
+Thuốc điều trị suy tim bao gồm
+
+Không tuân thủ ma túy
+
+Ăn quá nhiều natri hoặc rượu
+
+Chẩn đoán sót bệnh lý tuyến giáp, thiếu máu hoặc cơn rối loạn nhịp (cơn rung nhĩ đáp ứng thất nhanh, cơn nhịp nhanh thất bền bỉ).
+
+Ngoài ra, các loại thuốc dùng để điều trị các bệnh lý khác có thể gây trở ngại cho điều trị suy tim. Thuốc chống viêm không steroid (NSAID), thiazolidinediones (ví dụ, pioglitazone) sử dụng trong điều trị đái tháo đường, các thuốc chẹn kênh canxi nhóm nondihydropyridine tác dụng ngắn có thể làm nặng thêm tình trạng suy tim, do đó nên tránh sử dụng trừ khi không có biện pháp thay thế khác, và những bệnh nhân phải dùng các thuốc như trên nên được theo dõi sát.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+McDonagh TA, Metra M, Adamo M, et al
+
+: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.
+
+Eur Heart J
+
+42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab368
+
+2.
+
+Heidenreich PA, Bozkurt B, Aguilar D, et al
+
+: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+145:e876–e894, 2022, doi: 10.1161/CIR.0000000000001062
+
+3.
+
+Shah SJ, Kitzman D, Borlaug B, et al
+
+: Phenotype-specific treatment of heart failure with preserved ejection fraction: A multiorgan roadmap.
+
+Circulation
+
+134(1):73–90, 2016. doi: 10.1161/CIRCULATIONAHA.116.021884
+
+4.
+
+Kober L, Thune JJ, Nielsen JC, et al
+
+: Defibrillator implantation in patients with nonischemic systolic heart failure.
+
+N Engl J Med
+
+375(13):1221–2130, 2016. doi: 10.1056/NEJMoa1608029
+
+5.
+
+Stone GW, Lindenfield J, Abraham WT, et al
+
+: Transcatheter mitral-valve repair in patients with heart failure.
+
+N Engl J Med
+
+379(24):2307–2318, 2018. doi: 10.1056/NEJMoa1806640
+
+Những điểm chính
+
+Suy tim (HF) là tình trạng rối loạn chức năng tâm thất, dẫn đến tim không cung cấp đủ lượng máu cho các nhu cầu chuyển hóa.
+
+Trong suy tim có phân suất tống máu giảm (HFrEF), tâm thất co bóp kém và tống máu không đầy đủ; phân suất tống máu thấp.
+
+Trong suy tim có phân suất tống máu bảo tồn (HFpEF), chức năng đổ đầy thất bị suy giảm, dẫn đến tăng áp suất cuối tâm trương khi nghỉ và/hoặc khi gắng sức; phân suất tống máu bình thường.
+
+Cân nhắc chẩn đoán suy tim ở những bệnh nhân có biểu hiện khó thở hoặc mệt mỏi, khó thở khi nằm đầu bằng, và/hoặc phù, đặc biệt ở những người có tiền sử nhồi máu cơ tim, tăng huyết áp, bệnh van tim hoặc khám phát hiện tiếng thổi.
+
+Tiến hành chụp X-quang ngực, làm điện tâm đồ, xét nghiệm BNP, và các thử nghiệm khách quan đánh giá chức năng tim, thường là siêu âm tim.
+
+Suy tim có xu hướng tiến triển và có tiên lượng xấu, trừ khi được điều trị phù hợp.
+
+Điều trị bao gồm giáo dục, thay đổi lối sống, kiểm soát các bệnh lý nền, sử dụng các loại thuốc và thiết bị cấy ghép (CRT, ICD).
+
+Thông tin thêm
+
+Sau đây là một số hướng dẫn chính về bệnh suy tim bằng tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+McDonagh TA, Metra M, Adamo M, et al
+
+: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.
+
+Eur Heart J
+
+42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab368
+
+Heidenreich PA, Bozkurt B, Aguilar D, et al
+
+: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+145:e876–e894, 2022, doi: 10.1161/CIR.0000000000001062
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Suy tim sung huyết) ---
+
+TheoNowell M. Fine,MD, SM,Libin Cardiovascular Institute, Cumming School of Medicine, University of
+CalgaryXem xét bởiJonathan G. Howlett,MD,Cumming School of Medicine, University of CalgaryĐã xem xét/Đã chỉnh sửaThg 9 2022|đã sửa đổiThg 4 2025v935852_vi
+
+--- 2. Sinh lý suy tim ---
+
+Sự co cơ tim (lực và vận tốc co bóp), hiệu suất tâm thất và nhu cầu oxy cơ tim được xác định bởiTiền gánhHậu gánhCác chất nuôi dưỡng sẵn có (oxy, axit béo, glucose)Tần số tim và nhịp timKhối lượng cơ tim khả dụngCung lượng tim(CO) chịu ảnh hưởng của thể tích nhát bóp và nhịp tim; nó cũng chịu ảnh hưởng của hồi lưu tĩnh mạch, trương lực mạch ngoại vi và các yếu tố thần kinh cơ.Tiền gánhlà tải lượng tim cuối giai đoạn cơ tim giãn và đổ đầy (thì tâm trương) và ngay trước khi co cơ tim (thì tâm thu). Tiền gánh thể hiện độ giãn cơ tim cuối thì tâm trương và thể tích cuối tâm trương, nó bị ảnh hưởng bởi áp lực tâm trương và thành phần mô cơ tim. Thông thường, áp lực thất trái cuối tâm trương (LV) thể hiện rõ tiền gánh, đặc biệt nếu con số này cao hơn bình thường. Giãn hoặc phì đại thất trái, sự thay đổi độ giãn cơ tim gây thay đổi tiền gánh.Hậu gánhlà lực cản trở sự co giãn cơ tim ở đầu thì tâm thu. Nó được xác định bởi áp lực thất trái, bán kính, và độ dày của thành cơ tim tại thời điểm van động mạch chủ mở. Trên lâm sàng, huyết áp tâm thu tại thời điểm hoặc ngay sau khi van động mạch chủ mở ra tương ứng với áp lực đỉnh tâm thu thành tự do thất trái và tương đương với hậu gánh.Nguyên lý Frank-Starlingmô tả mối quan hệ giữa tiền gánh và hiệu suất hoạt động của tim. Điều đó cho thấy rằng, thông thường, hiệu suất co bóp tâm thu (được biểu thị bằng thể tích nhát bóp hoặc CO) tỷ lệ thuận với tiền gánh trong giới hạn sinh lý bình thường (xem hìnhNguyên tắc Frank-Starling). Rất khó đo đạc chính xác mức co cơ tim trên lâm sàng (đòi hỏi phải tiến hành thông tim để phân tích mối quan hệ thể tích - áp lực), nhưng có thể ngoại suy thông qua phân suất tống máu (EF). EF là tỷ lệ phần trăm của thể tích nhát bóp so với thể tích cuối tâm trương (thể tích nhát bóp/thể tích cuối tâm trương). Có thể đánh giá EF một cách tương đối chính xác thông qua các biện pháp không xâm lấn như siêu âm tim, chụp xạ hình hoặc chụp cộng hưởng từ.Cácmối quan hệ tần sốđề cập đến hiện tượng kích thích lặp đi lặp lại của cơ trong một phạm vi tần số nhất định dẫn đến tăng lực co bóp. Cơ tim bình thường ở tần số tim điển hình cho thấy một mối quan hệ tần số dương, do đó tốc độ nhanh hơn gây ra co cơ mạnh hơn (và yêu cầu cơ chất lớn hơn tương ứng). Trong một số loại suy tim, mối quan hệ tần số-lực có thể trở nên âm tính, do đó co bóp cơ tim giảm khi nhịp tim tăng lên trên một tần số nhất định.Dự trữ cung lượng timlà khả năng tim tăng hiệu suất trên mức bình thường để đáp ứng với các stress về mặt cảm xúc hoặc thực thể; lượng oxy tiêu thụ có thể tăng từ 250 lên≥1500 mL/phút khi gắng sức tối đa. Cơ chế bao gồmTăng nhịp timTăng thể tích tâm thu và tâm trươngTăng thể tích nhát bópTăng trích xuất oxy ở mô (sự khác biệt giữa hàm lượng oxy trong máu động mạch và trong máu hỗn hợp tĩnh mạch hoặc động mạch phổi)Ở những người trẻ tuổi có tập luyện, trong khoảng thời gian gắng sức tối đa, nhịp tim có thể tăng từ 55 - 70 lần/phút ở trạng thái nghỉ lên tới 180 lần/phút, cung lượng tim có thể tăng từ 6 lên tới≥25 L/phút. Khi ở trạng thái nghỉ, máu động mạch chứa khoảng 18 mL oxygen/dL máu, máu tĩnh mạch chứa khoảng 14 mL/dL. Do đó, phân áp oxy là khoảng 4 mL/dL. Khi nhu cầu cơ thể gia tăng, trích xuất oxy có thể tăng lên đến 12-14 mL/dL. Cơ chế này giúp bù trừ cho sự giảm lưu lượng máu tới mô gây ra do suy tim.Nguyên lý Frank-StarlingThông thường, khi tăng tiền gánh, hiệu suất hoạt động cơ tim cũng tăng lên. Tuy nhiên, khi tiền gánh tăng tới một mức nhất định, hiệu suất đạt đỉnh cao nguyên, sau đó bắt đầu có sự suy giảm. Khi suy tim, do có sự rối loạn chức năng tâm thu, đường cong tổng thể hạ thấp, cho thấy hiệu suất làm việc của tim giảm ở một tiền gánh nhất định, và khi tiếp tục tăng tiền gánh, và khi tải trước tăng, hiệu suất của tim tăng ít hơn. Khi được điều trị, hiệu suất được cải thiện, tuy chưa về được mức bình thường.
+
+--- 3. Sinh lý bệnh của suy tim ---
+
+Khi suy tim, tim không thể cung cấp đủ máu cho các nhu cầu chuyển hóa, và sự gia tăng áp lực động mạch phổi hoặc tăng áp lực trên hệ thống tĩnh mạch sẽ dẫn đến ứ đọng dịch ở ngoại biên. Tình trạng này có thể do những bất thường trong chức năng tâm thu hay tâm trương hoặc thông thường là do cả hai. Mặc dù sự thay đổi chức năng của cơ tim có thể đóng vai trò chính, nhưng cũng có những thay đổi bất thường về kết cấu collagen trong ma trận ngoại bào. Bệnh lý cấu trúc tim (khuyết tật bẩm sinh, bệnh lý van tim), bệnh lý rối loạn nhịp (nhịp nhanh) và tăng nhu cầu chuyển hóa (do cường giáp) cũng có thể gây suy tim.Suy tim giảm phân suất tống máu (HFrEF)Trong suy tim giảm phân suất tống máu (còn gọi là suy tim tâm thu), là tình trạng chức năng tâm thu thất trái suy giảm toàn bộ. Thất trái co bóp kém và không tống hết máu, dẫn đếnTăng thể tích và áp lực tâm trươngPhân suất tống máu giảm (≤ 40%)Nhiều bất thường xảy ra trong quá trình sử dụng năng lượng, cung cấp năng lượng, trong các chức năng điện sinh lý và xảy ra trong quá trình tương tác giữa các yếu tố dẫn tới sự co cơ, kèm theo đó là những bất thường trong quá trình điều hòa canxi nội bào và sản xuất cAMP.Rối loạn chức năng tâm thu khá phổ biến trong suy tim do các nguyên nhânnhồi máu cơ tim, viêm cơ tim, vàbệnh cơ tim giãn. Suy giảm chức năng tâm thu chủ yếu gây ảnh hưởng tới thất trái và có thể cả thất phải; suy tim trái cũng thường dẫn tới suy tim phải.Suy tim có phân suất tống máu bảo tồn (HFpEF)Trong suy tim có phân suất tống máu bảo tồn (suy tim tâm trương), khả năng đổ đầy thất trái bị suy giảm, dẫn đếnTăng áp lực cuối tâm trương khi nghỉ ngơi hoặc khi gắng sứcThông thường, thể tích thất trái cuối tâm trươngSự co cơ và phân suất tống máu vẫn trong giới hạn bình thường (≥ 50%).Tuy nhiên, ở một số bệnh nhân, hạn chế đáng kể trong việc đổ đầy LV có thể gây ra thể tích cuối tâm trương LV thấp không phù hợp và do đó gây ra CO (cung lượng tim) thấp và các triệu chứng toàn thân. Tăng áp lực nhĩ trái có thể gâytăng áp động mạch phổivà ứ máu tại phổi.Suy giảm chức năng tâm trương thường do suy giảm khả năng thư giãn của tâm thất (quá trình tác động), tăng mức độ xơ cứng thành tâm thất,bệnh van tim, hoặcviêm màng ngoài tim co thắt. Nhồi máu cơ tim cấp cũng là nguyên nhân gây suy giảm chức năng tâm trương. Suy giảm chức năng tâm trương tăng theo tuổi, phản ánh rối loạn chức năng tế bào cơ tim và suy giảm số lượng tế bào cơ tim, cũng như sự tích tụ collagen tại khoảng kẽ; do đó, suy giảm chức năng tâm trương là một hiện tượng đặc biệt phổ biến ở người cao tuổi. Suy giảm chức năng tâm trương chiếm ưu thế trong các trường hợpbệnh cơ tim phì đại, bệnh lý có phì đại tâm thất (tăng huyết áp,hẹp van động mạch chủnặng), bệnh cơ tim thâm nhiễm amyloid. Có thể có sự suy giảm đổ đầy và chức năng thất trái nếu có sự gia tăng đáng kể áp lực thất phải, khiến vách liên thất bị đẩy sang trái.Rối loạn chức năng tâm trương ngày càng được công nhận rộng rãi là nguyên nhân gây suy tim. Các thông số ước tính thay đổi khá nhiều, nhưng khoảng 50% bệnh nhân suy tim có tình trạng suy tim có phân suất tống máu bảo tồn; tỷ lệ hiện mắc tăng theo tuổi và ở nhóm bệnh nhân đái tháo đường. Ngày nay, người ta đã biết rõ rằng, suy tim có phân suất tống máu bảo tồn là một hội chứng phức tạp, không đồng nhất, gây tổn thương đa cơ quan, có hệ thống, thường có sự kết hợp đồng thời của nhiều cơ chế sinh lý bệnh. Các dữ liệu hiện tại cho thấy có tình trạng mắc nhiều bệnh lý kèm theo (ví dụbéo phì,tăng huyết áp,đái tháo đường,bệnh thận mạn tính), dẫn đến viêm hệ thống, suy tế bào nội mạc lan tỏa, suy giảm chức năng các vi mạch, và cuối cùng, sự thay đổi phân tử trong tế bào cơ tim gây ra tăng xơ cơ tim và làm xơ cứng thành tâm thất. Do đó, suy tim phân suất tống máu giảm thường liên quan đến tổn thương cơ tim nguyên phát, còn suy tim có phân suất tống máu bảo tồn thường có liên quan tới tổn thương cơ tim thứ phát do những bệnh lý ngoài tim.Suy tim kèm theo phân suất tống máu giảm nhẹ (HFmrEF)Các xã hội quốc tế đã đưa ra khái niệm HF với phân suất tống máu giảm nhẹ (HFmrEF), trong đó bệnh nhân có phân suất tống máu LV từ 41 đến 49%. Không rõ liệu nhóm này là một quần thể riêng biệt hay bao gồm một hỗn hợp các bệnh nhân suy tim có phân suất tống máu bảo tồn hoặc HFrEF.Suy tim tráiTrong suy tim liên quan đến rối loạn chức năng thất trái, CO giảm và áp lực tĩnh mạch phổi tăng. Khi áp lực mao mạch phổi vượt quá áp lực thẩm thấu protein huyết tương (khoảng 24 mmHg), dịch từ các mao mạch dịch chuyển vào khoảng kẽ và phế nang, làm giảm độ giãn nở phổi và tăng công hô hấp. Có sự gia tăng dẫn lưu bạch huyết nhưng không thể bù lại được sự gia tăng dịch phổi. Sự tích lũy đáng kể lượng dịch trong các phế nang (phù phổi) làm thay đổi tỷ số thông khí-tưới máu (V/Q): Máu động mạch phổi đã khử oxy đi qua các phế nang thông khí kém, từ đó làm giảm sự oxy hoá động mạch hệ thống (PaO2) và gây khó thở. Tuy nhiên, khó thở có thể xuất hiện trước khi có bất thường V/Q, có thể do áp lực tĩnh mạch phổi tăng lên và gây tăng công hô hấp; cơ chế chính xác vẫn chưa được làm rõ.Trong suy tim trái nặng hoặc suy tim trái mạn tính, tràn dịch màng phổi xuất hiện và càng làm tăng thêm tình trạng khó thở. Thông khí phút tăng, PaCO2 giảm và pH tăng (gâynhiễm kiềm hô hấp). Phù khoảng kẽ tại các đường thở nhỏ gây cản trở thông khí, sự gia tăng PaCO2 là dấu hiệu báo trướcsuy hô hấpsắp xảy ra.Suy thất phảiTrong suy tim phải bao gồm áp lực tĩnh mạch toàn thân tăng lên, gây ra ứ dịch ngoại vi và từ đó gây phù phụ thuộc tư thế (chân và mắt cá ở những bệnh nhân đi lại được) và các tạng trong ổ bụng. Gan là cơ quan bị ảnh hưởng nghiêm trọng nhất, nhưng dạ dày và ruột cũng có thể có hiện tượng sung huyết; có thể có sự tích tụ dịch trong khoang phúc mạc gây cổ trướng. Suy tim phải thường gây suy chức năng gan mức độ trung bình, thường có sự gia tăng bilirubin liên hợp và không liên hợp, PT, và các loại men gan (đặc biệt là phosphatase kiềm và gamma-glutamyl transpeptidase [GGT]). Suy giảm chức năng gan dẫn tới giảm tiếtaldosterone, càng làm gia tăng mức độ ứ dịch. Tình trạng sung huyết mạn tính tại các tạng ổ bụng có thể gây chán ăn, kém hấp thu chất dinh dưỡng và thuốc, bệnh lý ruột gây mất protein (đặc trưng bởi tiêu chảy và hạ albumin máu), xuất huyết tiêu hóa mạn tính và thiếu máu hoại tử đường ruột (hiếm gặp).Đáp ứng của hệ tim mạchTrong suy tim phân suất tống máu giảm, chức năng tâm thu thất trái bị suy giảm đáng kể; do đó, yêu cầu tiền gánh phải cao hơn để duy trì cung lượng tim. Hậu quả là tâm thất được tái cấu trúc theo thời gian: Trong quá trình tái cấu trúc thất trái chuyển dạng từ hình thuôn sang tròn hơn, giãn rộng hơn và phì đại hơn; thất phải giãn rộng và có thể có sự phì đại. Khởi đầu bù, những tái cấu trúc cuối cùng có liên quan đến các kết quả bất lợi bởi thay đổi này cuối cùng sẽ làm giảm tình trạng giãn nở thời kỳ tâm trương và gia tăng độ cứng và sức căng thành cơ tim, từ đó gây suy chức năng tâm trương, làm giảm hiệu suất hoạt động của tim, đặc biệt là khi chịu các stress về thể lực. Sự gia tăng sức căng thành cơ tim gây tăng nhu cầu oxy và đẩy nhanh quá trình chết tế bào cơ tim theo chương trình. Giãn các tâm thất cũng gây hở van hai lá và van ba lá (giãn thứ phát), từ đó càng làm gia tăng thể tích cuối tâm trương.Đáp ứng huyết độngDo có sự suy giảm cung lượng tim, việc cung cấp oxy đến các mô sẽ được duy trì bằng cách tăng nồng độ oxy trong máu và đôi khi, đường cong phân tách oxyhemoglobin được chuyển dịch sang phải để tăng giải phóng oxy (xem hìnhĐường cong phân ly oxyhemoglobin).Giảm cung lượng tim cùng với hạ áp hệ thống gây kích hoạt các baroreceptor động mạch, gây gia tăng trương lực giao cảm và làm giảm trương lực phó giao cảm. Từ đó gây tăng nhịp tim và tăng co bóp cơ tim, co thắt các mao mạch tại một số giường mạch máu nhất định, xuất hiện tình trạng co thắt tĩnh mạch đồng thời gây tăng tái hấp thu muối nước. Những thay đổi này sẽ bù trừ cho sự suy giảm hiệu suất thất trái và giúp duy trì sự cân bằng huyết động trong giai đoạn sớm của suy tim. Tuy nhiên, những thay đổi này lại làm gia tăng công cơ tim, tiền gánh và hậu gánh; giảm tưới máu mạch vành và mạch thận; gây tích tụ dịch dẫn đến tình trạng sung huyết; gây tăng bài tiết kali; có thể gây hoại tử tế bào cơ tim và phát sinh các ổ loạn nhịp.Đáp ứng thậnKhi chức năng tim suy giảm, lưu lượng máu thận giảm xuống (do cung lượng tim thấp). Ngoài ra, áp lực tĩnh mạch thận tăng, dẫn đến tình trạng sung huyết tĩnh mạch thận. Những thay đổi này đều làm giảm mức lọc cầu thần, và gây tái phân bố dòng máu tại thận. Phân số lọc cầu thận suy giảm, nhưng lại có sự gia tăng hiện tượng tái hấp thu ống thận, từ đó dẫn đến sự tích lũy nước và natri. Khi gắng sức, dòng máu lại càng được tái phân bố không qua thận, nhưng khi nghỉ, lưu lượng máu tới thận lại có sự cải thiện.Sự giảm tưới máu thận (và có thể giảm cả sức căng động mạch trong thì tâm thu thứ phát do suy giảm chức năng tâm thất) gây kích hoạthệ renin-angiotensin-aldosterone(RAAS), gây tăng giữ muối nước, gia tăng trương lực mạch ngoại vi và mạch thận. Những ảnh hưởng này được khuếch đại bởi tín hiệu cường giao cảm đi kèm với suy tim.Hệ renin-angiotensin-aldosterone-vasopressin(hệ thống hormone chống bài niệu) [ADH] gây ra một loạt tác động có hại về lâu dài. Angiotensin II làm trầm trọng thêm tình trạng suy tim thông qua gây co mạch, gồm cả mạch thận, tăng sản xuất aldosterone, làm tăng tái hấp thu natri tại các nephron ngoại vi, đồng thời gây tích tụ collagen, gây xơ hóa cơ tim và thành mạch. Angiotensin II làm tăng giải phóngnorepinephrine, kích thích giải phóngvasopressin, và khởi phát quá trình chết tế bào theo chương trình. Angiotensin II có thể có vai trò trong hiện tượng tăng sinh mạch máu và cơ tim, do đó góp phần gây tái cấu trúc cơ tim và mạch máu ngoại vi, từ đó gây nặng thêm tình trạng suy tim. Aldosterone có thể được tổng hợp độc lập với angiotensin II tại tim và tại các mạch máu (qua trung giancorticotropin, oxide nitric, các gốc tự do và các yếu tố kích thích khác), và có thể gây những tác động có hại tới các cơ quan này.Suy tim gây suy giảm chức năng thận tiến triển (gồm cả suy thận do thuốc điều trị suy tim), từ đó càng làm nặng hơn tình trạng suy tim, và được gọi là hội chứng tim-thận.Đáp ứng thần kinh thể dịchKhi các stress xuất hiện, các đáp ứng thần kinh thể dịch giúp gia tăng hoạt động tim mạch, duy trì huyết áp và tưới máu các cơ quan, nhưng việc kích hoạt kéo dài các đáp ứng trên gây bất lợi cho sự duy trì thăng bằng giữa các hormone kích thích cơ tim với các hormone gây co mạch, và giữa các hormone giãn cơ tim và các hormone gây giãn mạch.Tim chứa nhiều thụ thể thần kinh (alpha-1, beta-1, beta-2, beta-3, angiotensin II loại 1 [AT1] và loại 2 [AT2], muscarinic, endothelin, serotonin,adenosine, cytokin, peptide natriuretic); vai trò của những thụ thể này chưa được làm sáng tỏ hoàn toàn. Ở những bệnh nhân suy tim, các thụ thể beta-1 (chiếm khoảng 70% thụ thể beta tại tim) bị điều hòa giảm, có thể nhằm mục đích đáp ứng với các kích thích cường giao cảm mạnh. Kết quả của quá trình điều hòa này là sự giảm co cơ tim và tăng nhịp tim.Nồng độnorepinephrinetrong máu gia tăng, phần lớn do các kích thích giao cảm, bởi nồng độepinephrinetrong máu không có sự gia tăng. Các tác dụng bất lợi bao gồm co mạch, tăng tiền gánh và hậu gánh, gây tổn thương trực tiếp cơ tim thông qua các cơ chế chết tế bào theo chương trình, giảm lưu lượng máu thận và hoạt hóa các hệ thống thần kinh thể dịch khác, bao gồm cả hẹ renin-angiotensin-aldosterone-vasopressin.Vasopressinđược giải phóng thông qua nhiều kích thích thần kinh thể dịch khác nhau, nhằm đáp ứng với tình trạng hạ áp. Tăngvasopressinlàm giảm bài tiết nước tự do qua thận, từ đó góp phần gây tình trạng hạ natri máu trong suy tim. Nồng độvasopressinrất khác nhau ở những bệnh nhân suy tim có huyết áp bình thường.Peptide lợi niệu tâm nhĩ được giải phóng nhằm đáp ứng với tình trạng gia tăng thể tích và áp lực tâm nhĩ; peptide natriuretic loại B (BNP) được giải phóng tại tâm thất nhằm đáp ứng với tình trạng căng giãn thành tâm thất. Những peptide này làm tăng bài tiết natri tại thận, nhưng ở những bệnh nhân suy tim, tác dụng này bị suy giảm do có sự suy giảm áp lực tưới máu thận, do sự điều hòa giảm các thụ thể, và do tăng thoái hóa các enzym. Ngoài ra, sự gia tăng nồng độ peptide natriuretic gây hiệu ứng kháng điều hòa trên hệ thống renin-angiotensin-aldosterone và kích thích catecholamine.Do có sự rối loạn chức năng nội mạc ở những bệnh nhân suy tim, nên các tác nhân giãn mạch nội sinh (nitric oxide, prostaglandins) được sản sinh ra ngày càng ít, trong khi đó, các tác nhân co mạch nội sinh (endothelin) được sản sinh ra ngày càng nhiều, do đó hậu gánh gia tăng rõ rệt.Tình trạng suy tim và suy chức năng các cơ quan khác gây sản sinh yếu tố hoại tử u TNF alpha. Cytokine này gây tăng dị hoá và có thể gây ra tình trạng suy mòn tim (hủy mô≥10%), từ đó gây suy tim mức độ nặng có triệu chứng cùng với những thay đổi bất lợi khác. Tình trạng suy tim cũng gây ra những thay đổi về chuyển hoá, với sự gia tăng sử dụng axit béo tự do và giảm sử dụng glucose; những thay đổi này có thể được ứng dụng như là mục tiêu điều trị.Thay đổi theo tuổiNhững thay đổi liên quan đến tuổi tại hệ thống tim mạch càng làm hạ thấp ngưỡng biểu hiện suy tim. Collagen gia tăng trong mô kẽ cơ tim làm cơ tim mất tính đàn hồi, và kéo dài thời gian giãn cơ tim. Những thay đổi này dẫn đến giảm đáng kể chức năng tâm trương thất trái ngay cả ở những người cao tuổi khỏe mạnh. Chức năng tâm trương cũng có sự suy giảm nhẹ khi lão hóa. Sự giảm đáp ứng cơ tim và thành mạch với các kích thích trên hệ beta-adrenergic càng làm giảm khả năng đáp ứng của hệ thống tim mạch với tải lượng hoạt động ngày càng gia tăng.Do những thay đổi này, khả năng gắng sức đỉnh giảm đáng kể (giảm khoảng 8%/thập niên sau 30 tuổi), trong khi cung lượng tim tại đỉnh gắng sức giảm nhẹ hơn. Sự suy giảm này có thể được hạn chế nhờ tập luyện thường xuyên. Vì vậy, bệnh nhân cao tuổi thường dễ xuất hiện các triệu chứng suy tim hơn bệnh nhân trẻ tuổi, khi chịu các stress do các bệnh lý hệ thống hoặc các biến cố tim mạch dù tương đối nhẹ. Các stress này bao gồm nhiễm trùng (đặc biệt là viêm phổi), cường giáp, thiếu máu, tăng huyết áp, thiếu máu cơ tim, hạ oxy máu, tăng thân nhiệt, suy thận, truyền dịch quá mức, không tuân thủ chế độ thuốc hoặc chế độ ăn hạn chế muối, sử dụng một số loại thuốc (đặc biệt là NSAID thuốc chống viêm không steroid).
+
+--- 4. Căn nguyên của suy tim ---
+
+Cả hai yếu tố tim mạch và toàn thân đều có thể làm suy giảm hoạt động của tim và gây ra hoặc làm trầm trọng thêm tình trạng suy tim.BảngNguyên nhân gây suyNguyên nhân gây suyKiểuVí dụTim mạchTổn thương cơ timBệnh cơ timNhồi máu cơ timViêm cơ timMột số loại thuốc hóa trị liệuBệnh lý van timHẹp van động mạch chủHở van hai láHở van ba láLoạn nhịp timRối loạn nhịp chậmRối loạn nhịp nhanhRối loạn dẫn truyềnBlock nhĩ thấtBlock nhánh tráiThiếu hụt các cơ chất chuyển hóa (các axit béo tự do hoặc glucose)Thiếu máu cục bộBệnh lý thâm nhiễmThoái hóa dạng tinh bộtXơ hóa mạn tính (ví dụ,xơ cứng bì hệ thống)Bệnh nhiễm sắc tố sắt mô‭Hệ thốngBệnh lý đòi hỏi cần tăng cung lượng timThiếu máuCường giápBệnh PagetBệnh lý gây gia tăng sức cản ngoại vi (hậu gánh)Hẹp van động mạch chủTăng huyết ápAV=nhĩ thất; CO=cung lượng tim.AV=nhĩ thất; CO=cung lượng tim.
+
+--- 5. Phân loại suy tim ---
+
+Phân loại suy tim phổ biến nhất hiện đang được sử dụng phân bệnh nhân thành các nhóm:Suy tim giảm phân suất tống máu("suy tim tâm thu")Suy tim bảo tồn phân suất tống máu("suy tim tâm trương")Suy tim giảm phân suất tống máu (HFrEF) được định nghĩa là suy tim có phân suất tống máu thất trái (LVEF) ≤ 40%.suy tim có phân suất tống máu bảo tồn (HFpEF) được định nghĩa là suy tim có phân suất tống máu thất trái ≥ 50%.Bệnh nhân có LVEF từ 41% đến 49% nằm trong vùng trung bình và gần đây đã được phân loại là HF với phân suất tống máu giảm nhẹ (HFmrEF—1).Phân loại suy tim kinh điển thành suy thất trái và suy thất phải có đôi chút sai lầm, bởi quả tim hoạt động như một hệ thống bơm đồng nhất, và sự thay đổi tại một buồng tim có thể gây ảnh hưởng lên toàn bộ tim. Tuy nhiên, các thuật ngữ này chỉ ra vị trí chính của bệnh lý dẫn đến suy tim và có thể hữu ích cho việc đánh giá ban đầu và điều trị. Các thuật ngữ mô tả phổ biến khác cho bệnh suy tim bao gồm cấp tính hoặc mạn tính; sản lượng cao hoặc sản lượng thấp; giãn nở hoặc không giãn nở; và thiếu máu cục bộ, tăng huyết áp hoặc bệnh cơ tim giãn vô căn. Điều trị chủ yếu dựa vào các biểu hiện lâm sàng là suy tim cấp hay mạn tính.Suy tim tráithường tiến triển trong các bệnh lý thiếu máu cơ tim,tăng huyết áp,hở hai lá,hở van động mạch chủ,hẹp van động mạch chủ, hầu hết các loạibệnh cơ tim, và bệnh lý tim mạch bẩm sinh (nhưthông liên thất,còn ống động mạchvới sự hiện diện của các shunt lớn).Suy tim phảithường do suy tim trái trước đó (gây tăng áp lực tĩnh mạch phổi và dẫn đếntăng áp động mạch phổi, từ đó gây quá tải thất phải) hoặc do bệnh phổi mức độ nặng (trong trường hợp này được gọi làtâm phế mạn). Các nguyên nhân khác bao gồm tắc mạch phổi, nhồi máu thất phải, tăng áp động mạch phổi,hở van ba lá,hẹp van ba lá,hẹp van hai lá, hẹp động mạch phổi,hẹp van động mạch phổi, tắc tĩnh mạch phổi, bệnh cơ tim thất phải gây rối loạn nhịp, hoặc các bệnh lý bẩm sinh nhưdị tật Ebsteinhoặchội chứng Eisenmenger. Các biểu hiện thường gặp là tình trạng quá tải tuần hoàn và tăng áp lực tĩnh mạch hệ thống, xảy ra ở các bệnh lýđa hồng cầuhoặc truyền dịch quá mức, tổn thương thận cấp gây giữ muối nước, tắc nghẽn một trong hai tĩnh mạch chủ trên hoặc dưới, giảm protein máu do bất kỳ nguyên nhân nào gây giảm áp lực keo huyết tương và từ đó dẫn tới phù ngoại vi.Suy tim toàn bộthường do các bệnh lý gây ảnh hưởng đến toàn bộ khối cơ tim (như viêm cơ tim do virus,thoái hóa dạng tinh bột,bệnh Chagas) hoặc suy tim trái kéo dài dẫn tới suy tim phải.Suy tim có cung lượng tim caothường do mức cung lượng tim cao kéo dài, dẫn tới việc quả tim bình thường không đủ khả năng để duy trì mức cung lượng đó. Các tình trạng có thể làm tăng CO (cung lượng tim) bao gồm thiếu máu nặng, bệnh gan giai đoạn cuối,bệnh beriberi,nhiễm độc giáp,bệnh Pagettiến triển, rò động tĩnh mạch và nhịp tim nhanh kéo dài.Bệnh cơ timlà một thuật ngữ chung chỉ bệnh của cơ tim. Thông thường, thuật ngữ này đề cập đến các bệnh lý cơ tim không do các khuyết tật giải phẫu bẩm sinh; hoặc các bệnh lý tại van động mạch, các bệnh lý mạch máu hệ thống hoặc mạch phổi; các bệnh lý màng ngoài tim, các bệnh lý thuộc các nút hoặc hệ thống dẫn truyền, hoặc bệnh lý mạch vành. Thuật ngữ này đôi khi được sử dụng để chỉ ra nguyên nhân (như thiếu máu cơ tim và tăng huyết áp). Bệnh cơ tim không phải lúc nào cũng gây suy tim có triệu chứng. Nó thường mang tính tự phát và được phân loại thành bệnh cơ tim giãn, bệnh cơ tim sung huyết, bệnh cơ tim phì đại, bệnh cơ tim hạn chế, hoặc bệnh cơ tim Takotsubo (bệnh cơ tim do stress).Tài liệu tham khảo về phân loại1.Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation145:e876–e894, 2022, doi: 10.1161/CIR.0000000000001062
+
+--- 6. Các triệu chứng và dấu hiệu của suy tim ---
+
+Triệu chứng lâm sàng suy tim biểu hiện tùy thuộc vào việc thất trái hay thất phải bị ảnh hưởng trước tiên. Có nhiều mức độ suy tim trên lâm sàng, và chúng thường được phân loại theo hệ thống Hiệp hội tim mạch New York (NYHA) (Xem bảngPhân loại suy tim theo NYHA); có thể cần điều chỉnh về mức độ các hoạt động bình thường đối với bệnh nhân cao tuổi hoặc suy nhược. Bởi suy tim có phổ phân độ mức độ nặng khá rộng, một số chuyên gia đề nghị chia NYHA III thành nhóm nhỏ hơn là IIIA và IIIB. Phân loại IIIB thường được dành riêng cho những bệnh nhân mới trải qua giai đoạn đợt cấp mất bù suy tim gần đây. Viện tim mạch Hoa Kỳ/Hiệp hội tim mạch Hoa Kỳ đã ủng hộ việc thành lập một hệ thống phân giai đoạn suy tim (A, B, C, hoặc D) để làm nổi bật nhu cầu dự phòng suy tim.A: Có nguy cơ suy tim cao, nhưng không có bất thường về cấu trúc, chức năng hoặc các triệu chứng tại timB: Có bất thường về cấu trúc, chức năng hoặc các triệu chứng tại timC: Bệnh cơ tim cấu trúc đi kèm theo các triệu chứng suy timD: Suy tim kháng trị, đòi hỏi điều trị chuyên sâu (như hỗ trợ tuần hoàn cơ học, ghép tim) hoặc chăm sóc giảm nhẹSuy tim trái nặng có thể gâyphù phổihoặcsốc tim.BảngPhân loại Suy tim theo Hiệp hội Tim mạch New York (NYHA)BảngPhân loại Suy tim theo Hiệp hội Tim mạch New York (NYHA)Phân loại Suy tim theo Hiệp hội Tim mạch New York (NYHA)Mức độ NYHAĐịnh nghĩaGiới hạnVí dụIHoạt động thể lực thông thường không gây mệt mỏi, khó thở, hoặc đánh trống ngực.khôngCó thể hoàn thành bất kỳ hoạt động nào≤7 MET:Mang 11 kg lên 8 bậc cầu thangMang vật nặng 36 kgXúc tuyếtĐào đấtTrượt tuyếtChơi bóng quần, bóng ném, hoặc bóng rổĐi bộ thường hoặc đi bộ nhanh với tốc độ 8 km/hIIHoạt động thể lực thông thường gây mệt mỏi, khó thở, đánh trống ngực, hoặc đau thắt ngực.NhẹCó thể hoàn thành bất kỳ hoạt động nào≤5 MET:Quan hệ tình dục không cần nghỉ ngơiLàm vườnLướt ván trượtĐi bộ 7 km/h trên bề mặt phẳngKhông xuất hiện triệu chứng khi leo từng bậc cầu thang ở tốc độ bình thườngIIIThoải mái khi nghỉ ngơi; hoạt động thể lực với mức độ thấp hơn bình thường gây mệt mỏi, khó thở, đánh trống ngực, hoặc đau thắt ngực.VừaCó thể hoàn thành bất kỳ hoạt động nào≤2 MET:Tắm hoặc thay quần áo không cần nghỉ ngơiThu dọn giườngLau cửa sổChơi gônĐi bộ 4 km/hIVCác triệu chứng xảy ra khi nghỉ ngơi; bất kỳ hoạt động thể lực nào cũng làm tăng cảm giác khó chịu.NặngKhông thể làm hoặc không thể hoàn thành bất kỳ hoạt động nào≥2 MET; không thể thực hiện bất kỳ hoạt động nào nêu trênMET = chuyển hóa tương đương với nhiệm vụ, đo lường mức năng lượng tiêu hao so với thời gian còn lại.MET = chuyển hóa tương đương với nhiệm vụ, đo lường mức năng lượng tiêu hao so với thời gian còn lại.Lịch sửTrong suy thất trái,các triệu chứng phổ biến nhất là khó thở và mệt mỏi do tăng áp lực tĩnh mạch phổi và cung lượng tim thấp (CO khi nghỉ ngơi hoặc không có khả năng tăng CO khi gắng sức). Khó thở thường xuất hiện trong quá trình gắng sức và đỡ khi nghỉ. Khi suy tim tiến triển nặng hơn, khó thở có thể xảy ra ngay cả khi nghỉ và vào ban đêm, đôi khi xuất hiện ho về đêm. Khó thở xuất hiện ngay lập tức hoặc ngay sau khi nằm đầu bằng và giảm khi ngồi dậy (khó thở tư thế) là triệu chứng phổ biến khi suy tim tiến triển. Khi có khó thở kịch phát về đêm, cơn khó thở sẽ làm bệnh nhân tỉnh giấc vài giờ sau khi nằm và chỉ đỡ khi ngồi dậy trong khoảng thời gian từ 15 đến 20 phút. Khi suy tim nặng, kiểu thở có chu kỳ (kiểu thở Cheyne-Stokes– từ một thời gian ngắn ngừng thở, bệnh nhân thở nhanh hơn và sâu hơn, sau đó chậm hơn và nông hơn cho đến khi ngừng thở và lặp lại chu kỳ) – có thể xảy ra vào ban ngày hoặc ban đêm; giai đoạn tăng nồng độ đột ngột có thể đánh thức bệnh nhân khỏi giấc ngủ. Kiểu thở Cheyne-Stokes khác với cơn khó thở kịch phát về đêm ở chỗ, cơn tăng thông khí diễn ra ngắn, chỉ kéo dài 10 đến 15 giây, nhưng chu kỳ thở diễn ra thường xuyên, kéo dài 30 giây đến 2 phút. Cơn khó thở kịch phát về đêm có sự liên quan với tình trạng ứ máu phổi, nhịp thở Cheyne-Stokes thì liên quan nhiều với tình trạng cung lượng tim thấp. Các bệnh lý hô hấp liên quan đến giấc ngủ, nhưhội chứng ngưng thở khi ngủ, thường gặp ở bệnh nhân suy tim và có thể làm trầm trọng hơn tình trạng suy tim. Giảm lưu lượng máu não và hạ oxy máu mức độ nặng có thể gây mệt mỏi mạn tính và làm giảm hiệu suất hoạt động trí não của bệnh nhân.Trong suy tim phải,các triệu chứng phổ biến nhất là phù chân và mệt mỏi. Đôi khi bệnh nhân cảm thấy cảm giác chướng bụng hoặc phù nề vùng cổ. Tình trạng ứ máu tại gan có thể gây khó chịu tại vùng hạ sườn phải. Tình trạng ứ máu tại dạ dày và ruột có thể gây chán ăn, buồn nôn và chướng bụng.Một số triệu chứng suy tim khác, ít đặc hiệu hơn, bao gồm các lạnh đầu chi, choáng váng khi thay đổi tư thế, tiểu nhiều về đêm, tiểu ít vào ban ngày. Nguyên nhân có thể do việc không sử dụng cơ, và cũng có thể do tăng chuyển hóa liên quan đến tăng sản xuất cytokine. Sụt cân nhiều là một dấu hiệu đáng báo động, liên quan đến tỷ lệ tử vong cao.Ở người lớn tuổi, lý do vào viện có thể không điển hình, như nói lẫn, mê sảng, ngã, suy giảm chức năng đột ngột, tiểu không tự chủ về đêm, hoặc rối loạn giấc ngủ. Sự suy giảm nhận thức và trầm cảm cùng tồn tại cũng có thể ảnh hưởng đến việc đánh giá và điều trị, đồng thời, suy tim cũng có thể làm nặng hơn các tình trạng này.KhámKhám tổng quát có thể phát hiện các dấu hiệu rối loạn toàn thân hoặc tim gây ra hoặc làm trầm trọng thêm tình trạng suy tim (ví dụ: thiếu máu,cường giáp, rối loạn sử dụng rượu,bệnh nhiễm sắc tố sắt mô,rung nhĩ có nhịp tim nhanh,hở van hai lá).Suy tim trái có thể có biểu hiện thở nhanh và nhịp tim nhanh. Bệnh nhân suy tim trái nặng có thể biểu hiện khó thở hoặc tím rõ, hạ huyết áp, lú lẫn hoặc kích động vì hạ oxy máu và tưới máu não kém. Các triệu chứng ít đặc hiệu (như lú lẫn), phổ biến hơn ở người lớn tuổi.Tím trung ương (ảnh hưởng đến toàn bộ cơ thể, bao gồm các vùng ấm như lưỡi và niêm mạc) phản ánh tình trạng thiếu oxy máu trầm trọng. Tím ngoại biên xuất hiện tại môi, móng và ngón tay, ngón chân, phản ánh tình trạng dòng tưới máu thấp kèm theo tăng giải phóng oxy ngoại vi. Nếu xoa bóp mạnh vào đầu ngón làm cải thiện màu sắc giường móng, có thể đó là tình trạng tím ngoại vi; nếu các nghiệm pháp gia tăng dòng tưới máu cục bộ không làm cải thiện màu sắc giường máu, tình trạng đó là tím trung ương.Phát hiện tim trong suy tim giảm phân suất tống máubao gồmLan tỏa, duy trì, và thay thế xung động đỉnh theo chiều ngangNghe tim và đôi khi có thể sờ thấy tiếng S3 hoặc S4Thành phần xung động (P2) của tiếng tim thứ 2 (S2)Các tiếng tim bất thường cũng có thể xuất hiện trong suy tim có phân suất tống máu bảo tồn. Tiếng thổi tâm thu trong hở van hai lá nghe rõ tại mỏm tim có thể xuất hiện trong suy tim giảm phân suất tống máu hoặc suy tim có phân suất tống máu bảo tồn.Khám phổiphát hiện các tiếng rale ẩm đầu thì hít vào, có thể không nghe rõ khi ho, và nếu có tràn dịch màng phổi, khám phát hiện triệu chứng gõ đục và nghe rì rào phế nang giảm ở đáy phổi.Dấu hiệu suy thất phảibao gồmPhù nề ngoại biên không đau (áp lực số để lại dấu ấn rõ ràng và sờ thấy được, đôi khi khá sâu)Gan to và đôi khi có thể sờ thấy ở phía dưới bờ sườn phảiSưng bụng và cổ chướngTăng áp lực tĩnh mạch cảnh, đôi khi lớnmộthoặcvsóng có thể nhìn thấy ngay cả khi bệnh nhân ngồi hoặc đứng (xem hìnhSóng tĩnh mạch bình thường)Trong trường hợp suy tim nặng, phù có thể lan lên đến đùi hoặc bẹn, bìu, thành bụng dưới, và thậm chí cao hơn. Phù toàn thân được định nghĩa là phù mức độ nặng ở nhiều vị trí khác nhau. Phù có thể không cân xứng nếu bệnh nhân nằm nghiêng một bên nhiều.Sóng V lớn tại vị trí tĩnh mạch cảnh phản ánh tình trạng hở ba lá nặng, thường xuất hiện trong bệnh cảnh suy tim phải. Sự gia tăng nghịch thường áp lực tĩnh mạch cảnh khi hít vào (dấu hiệu Kussmaul) thường gợi ý chẩn đoán suy tim phải, mặc dù nó cũng có thể xuất hiện trong bệnh cảnhbệnh cơ tim hạn chế,viêm màng ngoài tim co thắtvàhở van ba lánặng.Khi sung huyết gan, gan có thể to ra hoặc mềm khi sờ thấy, và có thể phát hiện trào ngược tĩnh mạch gan-tĩnh mạch cảnh hoặc bụng-tĩnh mạch cảnh (xemTiếp cận bệnh nhân tim mạch). Khám tim giúp phát hiện ổ đập cạnh ức trái - gợi ý tình trạng giãn buồng thất phải, nghe tim giúp phát hiện các tiếng thổi trong bệnh cảnh hở van ba lá, hoặc tiếng S3 nghe được dọc theo bờ trái xương ức; cả hai triệu chứng trên tăng lên khi bệnh nhân hít vào.
+
+--- 7. Chẩn đoán suy tim ---
+
+Đánh giá đôi khi chỉ dựa vào lâm sàngChụp X-quang ngựcSiêu âm tim, chụp xạ hình tim, và/hoặc MRINồng độ BNP hoặc N-terminal-pro-BNP (NT-pro-BNP)ECG và các xét nghiệm chẩn đoán căn nguyên khác nếu cầnCác triệu chứng lâm sàng (ví dụ: khó thở gắng sức hoặc mệt mỏi, khó thở không nằm được đầu bằng, phù, nhịp nhanh, rale phổi, tiếng S3, tĩnh mạch cổ nổi) thường gợi ý chẩn đoán suy tim, nhưng ít khi biểu hiện sớm. Một số triệu chứng tương tự có thể doCOPD(bệnh phổi tắc nghẽn mạn tính) hoặcviêm phổitái phát hoặc có thể bị nhầm lẫn là do béo phì hoặc tuổi già. Nghĩ nhiều tới chẩn đoán suy tim trên những bệnh nhân có tiền sửnhồi máu cơ tim,tăng huyết áp,bệnh van timhoặc có tiếng thổi khi thăm khám tim, và có thể nghĩ tới suy timvtrên các đối tượng người cao tuổi hoặc mắcđái tháo đường.Nên tiến hành chụp X-quang ngực, làm điện tâm đồ, cùng các xét nghiệm thăm dò khách quan khác, như siêu âm tim (xem hìnhChẩn đoán suy tim khởi phát cấp tính). Các xét nghiệm máu, ngoại trừ nồng độ BNP, không được sử dụng để chẩn đoán nhưng rất hữu ích để xác định nguyên nhân và các tác động trên toàn thân (1,2).Chẩn đoán suy tim khởi phát cấp tínhDữ liệu củaMcDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.Eur Heart J42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab368.Chụp X-quang ngựcCác triệu chứng suy tim trên phim chụp X-quang bao gồm: bóng tim to, tràn dịch màng phổi, tràn dịch rãnh liên thùy, đường Kerley B (đường nằm ngang ở ngoại vi trường phổi dưới). Các triệu chứng này cho thấy tình trạng tăng áp lực nhĩ trái và dày thành rãnh liên thùy mạn tính. Có thể có biểu hiện sung huyết tĩnh mạch phổi tại thùy trên phổi, ứ dịch tại phế nang hoặc khoảng kẽ. Quan sát kỹ các đường cung tim trên phim chụp nghiêng, có thể xác định được tình trạng giãn các buồng nhĩ hoặc thất. Chụp X-quang cũng giúp gợi ý các chẩn đoán phân biệt khác (như COPD, viêm phổi,xơ hóa phổi nguyên phát,ung thư phổi).Chẩn đoán hình ảnh ở bệnh nhân suy timPhim chụp X-quang ngực của một bệnh nhân bị tràn dịch màng phổi hai bênBệnh nhân này bị tràn dịch màng phổi hai bên (mũi tên). Các góc sườn hoành nhọn bình thường bị che khuất bởi dịch ở bệnh nhân này.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Đường Kerley BCác đường Kerley B (mũi tên) là các đường ngang ở ngoại vi phổi kéo dài đến bề mặt màng phổi. Các đường này biểu thị vách ngăn liên thùy dày lên, phù nề thường là do phù phổi.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Phim chụp X-quang ngực của một bệnh nhân có hình ảnh tim to và hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dướiBệnh nhân này có tim to (độ rộng của bóng tim > 50% lồng ngực trên phim X-quang ngực thẳng). Bệnh nhân cũng có hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dưới (các mũi tên màu đen), theo đó các mạch máu phổi ở thùy trên trở nên nổi bật hơn. Những dấu hiệu này thường thấy ở những bệnh nhân bị suy tim.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Phim chụp X-quang ngực của một bệnh nhân bị tràn dịch trong các rãnh nhỏ và lớnPhim chụp X-quang ngực nghiêng ở một bệnh nhân thấy có dịch trong các rãnh lớn (1) và nhỏ (2) cũng như tràn dịch khu trú (3) dọc theo thành ngực sau bên phải.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Phim chụp X-quang ngực của một bệnh nhân bị tràn dịch màng phổi hai bênBệnh nhân này bị tràn dịch màng phổi hai bên (mũi tên). Các góc sườn hoành nhọn bình thường bị che khuất bởi dịch ở bệnh nhân này.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Đường Kerley BCác đường Kerley B (mũi tên) là các đường ngang ở ngoại vi phổi kéo dài đến bề mặt màng phổi. Các đường này biểu thị vách ngăn liên thùy dày lên, phù nề thường là do phù phổi.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Phim chụp X-quang ngực của một bệnh nhân có hình ảnh tim to và hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dướiBệnh nhân này có tim to (độ rộng của bóng tim > 50% lồng ngực trên phim X-quang ngực thẳng). Bệnh nhân cũng có hình ảnh tĩnh mạch phía trên phổi lớn hơn hoặc bằng tĩnh mạch phía dưới (các mũi tên màu đen), theo đó các mạch máu phổi ở thùy trên trở nên nổi bật hơn. Những dấu hiệu này thường thấy ở những bệnh nhân bị suy tim.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Phim chụp X-quang ngực của một bệnh nhân bị tràn dịch trong các rãnh nhỏ và lớnPhim chụp X-quang ngực nghiêng ở một bệnh nhân thấy có dịch trong các rãnh lớn (1) và nhỏ (2) cũng như tràn dịch khu trú (3) dọc theo thành ngực sau bên phải.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.ECGKết quả điện tâm đồ không phải là chẩn đoán, nhưng điện tâm đồ bất thường, đặc biệt là cho thấy nhồi máu cơ tim, phì đại thất trái, block nhánh trái, hoặc nhịp tim nhanh (ví dụ,rung nhĩnhanh) trước đó, làm tăng nghi ngờ về HF và có thể giúp xác định nguyên nhân. Trong suy tim, điện tâm đồ ít khi bình thường.Chẩn đoán hình ảnhSiêu âm timcó thể giúp đánh giá kích thước buồng tim, chức năng van, LVEF, các bất thường về chuyển động của thành tim, phì đại LV, chức năng tâm trương, áp lực động mạch phổi, áp lực đổ đầy LV và RV, chức năng RV và tràn dịch màng ngoài tim. Siêu âm tim cũng có thể giúp phát hiện huyết khối, khối u, vôi hóa van tim, vòng van hai lá và các bất thường trên thành động mạch chủ. Rối loạn vận động thành cơ tim từng vùng hoặc phân đoạn thường rất gợi ý chẩn đoánbệnh mạnh vành, nhưng dấu hiệu này cũng có thể xuất hiện trongviêm cơ tim. Siêu âm Doppler hoặc siêu âm Doppler màu giúp phát hiện một cách chính xác các bệnh lý van tim và các shunt. Sự kết hợp Doppler đánh giá dòng chảy của van hai lá với siêu âm đánh giá hình ảnh mô tại vòng van có thể giúp xác định chính xác rối loạn chức năng tâm trương thất trái và áp lực đổ đầy thất trái. Đo phân suất tống máu thất trái giúp phân biệt giữa suy tim có phân suất tống máu bảo tồn (EF≥50%) và suy tim giảm phân suất tống máu (EF≤40%). Tuy nhiên, vẫn cần nhấn mạnh rằng bệnh nhân vẫn có thể có tình trạng suy tim, dù phân suất tống máu thất trái bình thường. Siêu âm tim theo dõi đốm (hữu ích trong việc phát hiện rối loạn chức năng tâm thu cận lâm sàng và các dạng rối loạn chức năng cơ tim cụ thể) có thể trở nên quan trọng nhưng hiện chỉ được báo cáo thường quy ở các trung tâm chuyên khoa.Hình ảnh hạt nhân phóng xạcũng có thể giúp đánh giá chức năng tâm thu và tâm trương, nhồi máu cơ tim trước đó (nhồi máu cơ tim) và thiếu máu cục bộ hoặc ngủ đông cơ tim. Nó được sử dụng phổ biến nhất để đánh giá sự hiện diện và/hoặc mức độ nặng của bệnh thiếu máu cơ tim cục bộ và cũng có thể được sử dụng để định lượng phân suất tống máu thất trái.Chụp MRI timcung cấp hình ảnh chính xác về cấu trúc tim và ngày càng trở nên phổ biến rộng rãi. MRI tim sử dụng hình ảnh ngấm thuốc gadolinium muộn (LGE, còn được gọi là hình ảnh xơ hóa hoặc sẹo) rất hữu ích để đánh giá nguyên nhân của bệnh cơ tim và phát hiện xơ hóa cơ tim khu trú và lan tỏa. Chụp MRI tim có thể giúp phát hiện một số nguyên nhân gây suy tim, bao gồm: thoái hóa dạng tinh bột, bệnh sarcoid, hemachromatosis và viêm cơ tim.Xét nghiệm máuNồng độ BNP huyết thanhthường tăng cao trong trường hợp suy tim; đây là dấu hiệu hữu ích khi lâm sàng không rõ ràng hoặc cần loại trừ các chẩn đoán khác (như COPD). Xét nghiệm này có thể đặc biệt hữu ích với những bệnh nhân có cả tiền sử bệnh lý hô hấp và tim mạch. NT-pro-BNP là một phân tử không hoạt tính được hình thành khi phân tử pro BNP bị phân cắt. Tuy nhiên,nồng độ BNP ở ngưỡng bình thường không giúp loại trừ chẩn đoán suy tim, đặc biệt ở bệnh nhân suy tim có phân suất tống máu bảo tồn và/hoặc béo phì. Trong suy tim có phân suất tống máu bảo tồn, nồng độ BNP có xu hướng khoảng 50% bệnh nhân có liên quan đến suy giảm phân suất tống máu (ở mức tương tự), và có tới 30% bệnh nhân suy tim có phân suất tống máu bảo tồn cấp tính có nồng độ BNP dưới ngưỡng được sử dụng là 100pg/mL (100ng/L). Béo phì, tình trạng đi kèm đang ngày càng trở nên phổ biến ở những bệnh nhân suy tim, có liên quan đến việc giảm sản xuất và tăng thanh thải BNP, dân đến nồng độ thấp.Ngoài BNP, các xét nghiệm nên được tiến hành bao gồm tổng phân tích tế bào máu ngoại vi, creatinine, ure, điện giải (bao gồm magiê và canxi), glucose, albumin và các xét nghiệm về năng gan. Các xét nghiệm chức năng tuyến giáp được khuyến cáo cho những bệnh nhân rung nhĩ và trên một số đối tượng bệnh nhân chọn lọc, đặc biệt là đối tượng người cao tuổi.Các xét nghiệm khácSiêu âm ngựclà một phương pháp không xâm lấn giúp phát hiện tình trạng ứ máu tại phổi ở bệnh nhân suy tim. Dấu hiệu "xảo ảnh đuôi sao chổi" trong siêu âm ngực tương ứng với đường Kerley B trên phim chụp X-quang ngực.Xảo ảnh đuôi sao chổiHình ảnh© 2017 Bác sĩ Elliot K. Fishman.Chụp mạch vànhhoặcchụp CT mạch vànhđược chỉ định khi nghi ngờbệnh mạch vành, hoặc chưa có chẩn đoán xác định căn nguyên gây suy tim.Thông tim đo áp lực buồng tim (thăm dò huyết động xâm lấn) có thể hữu ích trong việc chẩn đoán các bệnh lý cơ tim hạn chế và viêm màng ngoài tim co thắt. Các phương pháp đo huyết động xâm lấn cũng rất hữu ích trong chẩn đoán các trường hợp suy tim không rõ ràng, đặc biệt ở bệnh nhân suy tim có phân suất tống máu bảo tồn. Ngoài ra, các nghiệm pháp kích thích hệ thống tim mạch, như nghiệm pháp gắng sức, test truyền dịch, test thuốc (như nitroglycerin, nitroprusside) có thể được tiến hành kết hợp cùng đo huyết động xâm lấn để giúp chẩn đoán suy tim.Sinh thiết nội tâm mạc đôi khi được thực hiện khi nghi ngờ rõ bệnh cơ tim thâm nhiễm, hoặc viêm cơ tim cấp tính tế bào khổng lồ nhưng không thể khẳng định bằng hình ảnh không xâm lấn (ví dụ, MRI tim).Tài liệu tham khảo chẩn đoán1.McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.Eur Heart J42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab3682.Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation145:e876–e894, 2022, doi: 10.1161/CIR.0000000000001062
+
+--- 8. Tiên lượng về suy tim ---
+
+Nói chung, bệnh nhân suy tim có tiên lượng kém, trừ khi có thể điều trị được nguyên nhân. Thời gian sống thêm tổng thể phối hợp trong 5 năm là 35% đối với bệnh nhân suy tim có phân suất tống máu bảo tồn hoặc HFrEF sau khi nhập viện ban đầu vì suy tim. Trong suy tim mạn, tỷ lệ tử vong phụ thuộc vào mức độ triệu chứng và tình trạng rối loạn chức năng thất, có thể dao động từ 10 đến 40% mỗi năm.Các yếu tố tiên lượng kém bao gồm huyết áp thấp, phân suất tống máu thấp, bệnh mạch vành đi kèm, tăng troponin, tăng ure, giảm mức lọc cầu thận, hạ natri máu, và khả năng thực hiện các chức năng sinh hoạt kém (có thể thử nghiệm bằng cách đi bộ 6 phút).BNP, NTproBNP, và điểm số nguy cơ như làĐiểm số nguy cơ suy tim mạn tính của Nhóm phân tích tổng hợp toàn cầu (MAGGIC)vàmô hình Suy tim Seattle, rất hữu ích để dự đoán tiên lượng ở bệnh nhân HF như một nhóm tổng thể, mặc dù có sự khác biệt đáng kể về thời gian sống thêm giữa từng bệnh nhân.Suy tim thường là một quá trình tiến triển dần dần, xen kẽ bởi các đợt suy tim cấp, và cuối cùng là tử vong, mặc dù các biện pháp điều trị hiện đại đang giúp kéo dài thời gian sống sót cho bệnh nhân. Tuy nhiên, bệnh nhân vẫn có thể tử vong một cách bất ngờ và đột ngột ngay cả khi không hề có biểu hiện nặng lên của triệu chứng suy tim.Chăm sóc cuối đờiTất cả các bệnh nhân và thành viên trong gia đình nên được hướng dẫn về tiến triển của bệnh và nguy cơ tử vong đột ngột. Đối với một số bệnh nhân, cải thiện chất lượng cuộc sống có vai trò quan trọng ngang với việc kéo dài tuổi thọ. Vì vậy, điều quan trọng là xác định mong muốn của bệnh nhân về các biện pháp hồi sức (nhưđặt nội khí quản, hồi sức tim phổi) nếu tình trạng của họ xấu đi, đặc biệt là khi đã suy tim nặng.Tất cả bệnh nhân cần được trấn an rằng các triệu chứng sẽ thuyên giảm, và họ nên được khuyến khích tìm kiếm chăm sóc y tế sớm nếu các triệu chứng thay đổi nhiều. Vai trò của nhóm chăm sóc đa chuyên ngành, bao gồm nhóm chăm sóc y tế tại chỗ, cùng sự tham gia của các dược sĩ, y tá, nhân viên xã hội và giáo sĩ (khi cần), là đặc biệt quan trọng trongchăm sóc cuối đời.
+
+--- 9. Điều trị suy tim ---
+
+Thay đổi chế độ ăn và lối sốngĐiều trị nguyên nhânLiệu pháp điều trị bằng thuốcĐôi khi cần sử dụng các thiết bị điều trị (như cấy máy khử rung, máy tái đồng bộ tim, hỗ trợ tuần hoàn cơ học)Đôi khi có chỉ định ghép timChăm sóc đa chuyên ngànhCần điều trị nội trú ngay lập tức cho những bệnh nhân bị suy tim cấp tính hoặc nặng hơn do một số rối loạn (ví dụ nhưnhồi máu cơ tim cấp tính,rung nhĩkèm theo nhịp thất rất nhanh,tăng huyết ápnặng,hở van tim cấp tính), cũng như đối với những bệnh nhân bịphù phổi, các triệu chứng nặng, suy tim mới khởi phát hoặc suy tim không đáp ứng với điều trị ngoại trú. Bệnh nhân đã được chẩn đoán suy tim trước đó, với các đợt tiến triển nhẹ có thể được điều trị tại nhà.Mục tiêu điều trị chính là để chẩn đoán và điều trị bệnh lý căn nguyên gây suy tim.Các mục tiêu ngắn hạnbao gồm cải thiện triệu chứng và cải thiện huyết động học; tránhhạ kali máu, rối loạn chức năng thận và hạ huyết áp triệu chứng; và điều chỉnh tình trạng kích thích thần kinh thể dịch.Các mục tiêu dài hạnbao gồm điều chỉnhtăng huyết áp, ngăn ngừanhồi máu cơ timvà tiến triển củaxơ vữa động mạch, cải thiện chức năng tim, giảm nhập viện, cải thiện thời gian sống thêm và chất lượng cuộc sống.Điều trị bao gồm thay đổi chế độ ăn và lối sống,điều trị thuốc, các thiết bị can thiệp, đôi khi là can thiệp mạch vành hoặc phẫu thuật.Cá thể hóa điều trị nhằm tạo ra sự phù hợp với từng bệnh nhân, xem xét các nguyên nhân, triệu chứng, và đáp ứng với thuốc, bao gồm cả các tác dụng không mong muốn. Hiện tại có một số phương pháp điều trị dựa trên bằng chứng cho HFrEF mạn tính (1,2). Có ít phương pháp điều trị dựa trên bằng chứng cho suy tim có phân suất tống máu bảo tồn mạn tính, HFmrEF, hội chứng suy tim cấp tính và suy tâm thất phải (3).XemCác thuốc điều trị suy timđể biết thông tin chi tiết về điều trị bằng thuốc và các loại thuốc và nhóm cụ thể.Kiểm soátCác biện pháp chung,đóng vai trò rất quan trọng trong điều trị suy tim, đặc biệt là giáo dục bệnh nhân và người chăm sóc, điều chỉnh chế độ ăn và thay đổi lối sống.Giáo dụcHạn chế NatriMức cân nặng và tập luyện phù hợpĐiều trị bệnh lý căn nguyênGiáo dục bệnh nhân và người chăm sóc là yếu tố tối quan trọng duy trì kết quả lâu dài. Bệnh nhân và gia đình nên có sự tham gia vào việc lựa chọn các phương thức điều trị. Họ nên được hướng dẫn về tầm quan trọng của tuân thủ điều trị thuốc, các dấu hiệu cảnh báo đợt tiến triển, và cách liên hệ nguyên nhân-hệ quả (như tăng muối trong chế độ ăn dẫn tới tăng cân hoặc xuất hiện triệu chứng).Nhiều trung tâm (như các phòng khám chuyên khoa) đã có sự kết hợp giữa các chuyên gia chăm sóc sức khỏe từ các chuyên ngành khác nhau (như các điều dưỡng, dược sĩ, nhân viên xã hội, chuyên gia phục hồi chức năng) vào các nhóm đa chuyên ngành hoặc vào các chương trình quản lý bệnh nhân ngoại trú. Những cách tiếp cận này có thể giúp cải thiện tiên lượng chung, giảm tỷ lệ nhập viện, đồng thời đạt hiệu quả tối đa ở những bệnh nhân thể trạng yếu.Chế độ ăn hạn chế natrigiúp hạn chế tình trạng ứ dịch. Tất cả các bệnh nhân nên loại bỏ muối khi nấu lẫn muối chấm tại bàn, tránh thức ăn chứa muối; suy tim mức độ nặng nhất nên có chế độ ăn hạn chế natri<2 g/ngày, bằng cách chỉ ăn thực phẩm có natri thấp.Theo dõi cân nặng hàng ngàygiúp phát hiện sớm tình trạng ứ muối ứ nước. Nếu tăng>2 kg trong vài ngày, bệnh nhân có thể tự điều chỉnh liều thuốc lợi tiểu, nhưng nếu vẫn tiếp tục tăng cân hoặc xuất hiện triệu chứng khác, bệnh nhân nên đi khám sớm.Kiểm soát chuyên sâu,đặc biệt là theo dõi tuân thủ điều trị và tần suất các lần khám hoặc cấp cứu, các lần nhập viện ngoài lịch hẹn - điều này có thể giúp xác định được thời điểm cẩn thiết phải can thiệp. Các điều dưỡng được đào tạo chuyên sâu về lĩnh vực suy tim đóng vai trò quan trọng trong việc giáo dục, theo dõi, và điều chỉnh liều lượng thuốc theo các quy trình định trước.Bệnh nhân vữa xơ động mạch hoặc đái tháo đường nên tuân thủ nghiêm ngặt chế độ ăn uống phù hợp với bệnh lý mình đang mắc. Béo phì có thể là nguyên nhân, hoặc là yếu tố làm nặng thêm các triệu chứng suy tim; bệnh nhân nên duy trì chỉ số khối cơ thể (BMI) ≤ 30 kg/m2(lý tưởng là 21 đến 25 kg/m2).Các hoạt động cường độ nhẹ hàng ngày(như đi bộ), phù hợp với tình trạng bệnh nhân, thường được khuyến khích thực hiện. Vận động giúp ngăn ngừa tình trạng yếu cơ, bảo đảm toàn trạng chung, tuy nhiên, vận động dường như không giúp cải thiện tỷ lệ sống còn, hoặc làm giảm tỷ lệ nhập viện. Trong các đợt tiến triển, bệnh nhân nên được nghỉ ngơi, tránh gắng sức. Các phương thứcphục hồi chức năng timmạch tiêu chuẩn là rất hữu ích cho suy tim giảm phân suất tống máu, và có thể hữu ích cho bệnh nhân suy tim có phân suất tống máu bảo tồn.Bệnh nhân nêntiêm vắc xin cúmhàng năm vì cúm có thể làm trầm trọng thêm HF, đặc biệt ở những bệnh nhân nằm viện hoặc bệnh nhân cao tuổi. Bệnh nhân nên được tiêm phòng SARS-CoV-2.Điều trị triệt để các tình trạng tăng huyết áp, nhịp nhanh trường diễn, thiếu máu nặng, bệnh quá tải sắt, đái tháo đường khó kiểm soát, cường giáp, beri beri, nghiện rượu, hoặc nhiễm toxoplasma, giúp cải thiện đáng kể tình trạng bệnh nhân. Nhồi máu cơ tim nặng nên được điều trị tích cực; bao gồm tái tưới máu mạch vành bằng cáchcan thiệp mạch vành qua dahoặcphẫu thuật. Các phương thức kiểm soát bệnh cơ tim thâm nhiễm (như thoái hóa dạng tinh bột) đã được cải thiện đáng kể. Mới hơnphương pháp điều trị thoái hóa dạng tinh bộtđã cải thiện đáng kể tiên lượng cho nhiều bệnh nhân.Loạn nhịp timVì loạn nhịp có thể làm suy tim trầm trọng hơn nên điều quan trọng là phải xác định và điều trị nguyên nhân gây bất cứloạn nhịpnào.Tình trạng rối loạn điện giải cần được điều chỉnh trong giới hạn bình thường.Cần phải kiểm soát tốt tần số nhĩ và thất.Đôi khi cần sử dụng các thuốc chống rối loạn nhịp.Nhịp nhanh xoang là tình trạng thường gặp trong suy tim, nó thường thuyên giảm khi điều trị suy tim hiệu quả. Nếu không thuyên giảm, cần tìm kiếm các nguyên nhân liên quan (ví dụ nhưcường giáp,cục nghẽn mạch phổi, sốt, thiếu máu, đau). Nếu nhịp nhanh xoang vẫn tồn tại mặc dù đã điều trị nguyên nhân, việc sử dụng thuốc chẹn beta theo liều tăng dần có thể hữu ích trên một số đối tượng bệnh nhân nhất định. Tuy nhiên, hạ nhịp tim bằng thuốc chẹn beta có thể gây bất lợi trên bệnh nhân suy tim có phân suất tống máu bảo tồn đang trong đợt tiến triển (nhưbệnh cơ tim hạn chế), do rối loạn chức năng tâm trương nặng khiến cho không tăng được thể tích nhát bóp. Ở những bệnh nhân này, cung lượng tim phụ thuộc tương đối nhiều vào nhịp tim, và việc hạ nhịp tim có thể làm giảm cung lượng tim khi nghỉ và/hoặc khi gắng sức.Tình trạngrung nhĩđáp ứng nhịp thất nhanh cần được điều trị triệt để; tần số đáp ứng thất cần được kiểm soát<80 lần/phút. Thuốc chẹn beta là một lựa chọn điều trị, tuy nhiên, cũng có thể sử dụng thận trọng các thuốc chẹn kênh canxi có tác dụng làm chậm nhịp, nếu chức năng tâm thu được bảo tồn. Việc sử dụng thêm digoxin, amiodarone hoặc các thuốc kiểm soát nhịp/tần số khác ở liều thấp, có thể hữu ích đối với một số bệnh nhân. Trong các thử nghiệm lâm sàng lớn, việc chuyển nhịp thường quy và duy trì nhịp xoang chưa chứng minh được tác dụng vượt trội so với các biện pháp kiểm soát tần số thất đơn độc. Tuy nhiên,các quyết định điều trị nên được đưa ra tùy theo tình trạng cụ thể của từng bệnh nhân, bởi một số bệnh nhân cho thấy sự cải thiện đáng kể khi áp dụng các biện pháp chuyển nhịp. Nếu rung nhĩ nhanh không đáp ứng với thuốc, có thể cấy máy tạo nhịp vĩnh viễn, loại bỏ hoàn toàn hoặc một phần dẫn truyền nút nhĩ thất, hoặc tiến hành thủ thuậttriệt đốt rung nhĩcó thể cân nhắc ở một số đối tượng bệnh nhân, nhằm chuyển nhịp về nhịp xoang.Ngoại tâm thu thấtđơn độc là tình trạng thường gặp ở bệnh nhân suy tim và không cần điều trị đặc hiệu, tuy nhiên, trong một số ít các trường hợp, ngoại tâm thu thất xuất hiện dày đặc (> 15.000/ngày) có thể gây suy tim (ngược với sự ức chế). Việc tối ưu hóa các phương pháp điều trị suy tim và điều chỉnh các rối loạn điện giải (đặc biệt là kali và magiê) sẽ làm giảm nguy cơ rối loạn nhịp thất.Nhịp nhanh thất dai dẳng vẫn tồn tại mặc dù đã điều trị nguyên nhân (ví dụ: kali hoặc magie thấp, thiếu máu cục bộ) và điều trị nội khoa tối ưu cho HF có thể cần dùng thuốc chống loạn nhịp. Có thể lựa chọn Amiodaron, thuốc chẹn beta, và dofetilide vì các thuốc chống loạn nhịp khác đều có khả năng đe dọa gây rối loạn nhịp khi có suy giảm chức năng tâm thu thất trái. Do amiodarone làm tăng nồng độ digoxin và warfarin trong huyết thanh, do đó, nên giảm liều digoxin và/hoặc warfarin xuống một nửa hoặc dừng các thuốc này lại. Mức độ digoxin huyết thanh và mức INR (tỷ lệ chuẩn hóa quốc tế) nên được theo dõi thường quy. Tuy nhiên, quá liều thuốc vẫn có thể xảy ra, thậm chí ngay cả ở liều điều trị. Sử dụng amiodarone kéo dài có thể gây các tác dụng không mong muốn, do đó, nên dùng liều thấp (200 mg uống 1 lần/ngày) nếu được; xét nghiệm máu kiểm tra chức năng gan và hormone TSH mỗi 6 tháng. Nếu X-quang ngực bất thường, hoặc khó thở nhiều hơn, cần chụp X-quang ngực và kiểm tra chức năng hô hấp hàng năm để tầm soát tình trạng xơ phổi. Đối với rối loạn nhịp thất kéo dài, có thể cần dùng amiodarone; để giảm nguy cơ tử vong đột ngột, sử dụng liều nạp 400-800 mg uống hai lần mỗi ngày trong vòng từ 1 đến 3 tuần, cho đến khi kiểm soát được nhịp, sau đó giảm liều trong vòng 1 tháng đến liều duy trì liều uống 200 mg một lần/ngày.Các thiết bị hỗ trợ điều trịChỉ địnhcấy máy phá rung(ICD) hoặc cấy máytái đồng bộ cơ tim(CRT) cho một số đối tượng bệnh nhân chọn lọc.Cấy máy phá rung tự độngđược khuyến cáo trên các đối tượng bệnh nhân nhanh thất dai dẳng hoặc có cơn rung thất, kèm theo có kỳ vọng sống cao, hoặc ở những bệnh nhân suy tim vẫn còn triệu chứng và LVEF<35% dù đã được điều trị bằng thuốc theo hướng dẫn. Khuyến cáo cấy máy phá rung tự động ở bệnh nhân suy tim giảm phân suất tống máu do nguyên nhân bệnh tim thiếu máu cục bộ mạnh hơn ở những bệnh nhân suy tim không do bệnh tim thiếu máu cục bộ. Một thử nghiệm lâm sàng bao gồm các bệnh nhân HFrEF mắc bệnh cơ tim không do thiếu máu cục bộ đã chứng minh không có lợi ích về tỷ lệ tử vong khi đặt ICD dự phòng (phòng ngừa ban đầu) (4).CRTlà một chế độ tạo nhịp đồng bộ hóa sự co bóp của tâm thất trái bằng cách tạo nhịp đồng thời với thành đối diện của nó, do đó cải thiện thể tích nhát bóp. CRT có thể làm giảm các triệu chứng và giảm số ca nhập viện do suy tim cho những bệnh nhân có HF, LVEF<35% và phức hợp QRS giãn rộng với kiểu block nhánh trái (>0,15 giây – QRS càng rộng, lợi ích tiềm năng càng lớn). Máy tái đồng bộ cơ tim tỏ có hiệu quả nhưng đắt tiền, và cần có sự lựa chọn bệnh nhân phù hợp. Nhiều máy tái đồng bộ cơ tim cũng có tích hợp cả máy phá rung tự động.Thiết bị cấy ghép theo dõi huyết động xâm lấn (như đo áp lực động mạch phổi) có thể giúp hướng dẫn kiểm soát suy tim ở một số đối tượng bệnh nhân. Ví dụ, chuẩn độ thuốc (ví dụ, thuốc lợi tiểu) dựa trên kết quả đọc từ một trong những thiết bị này có liên quan đến việc giảm đáng kể tỷ lệ nhập viện do HF trong một thử nghiệm lâm sàng bao gồm bệnh nhân mắc cả HFrEF và suy tim có phân suất tống máu bảo tồn. Thiết bị này đo áp lực tâm trương động mạch phổi, và từ đó gián tiếp đo áp lực giường mao mạch phổi (và áp lực nhĩ trái) trên bệnh nhân suy tim. Tuy nhiên, nó chỉ được đánh giá ở những bệnh nhân độ III của NYHA (Hiệp hội Tim mạch New York) có đợt cấp HF tái phát. Các bằng chứng khác trong tương lai sẽ giúp hướng dẫn thực hành sử dụng loại công nghệ này.Các biện pháp siêu lọc(lọc tĩnh mạch) có thể hữu ích trong một số trường hợp bệnh nhân nhập viện có hội chứng tim thận mức độ nặng và thừa dịch kháng trị với lợi tiểu. Tuy nhiên, không nên sử dụng các biện pháp siêu lọc một cách thường quy, vì các thử nghiệm lâm sàng không cho thấy lợi ích lâu dài.Biện phápđặt bóng đối xung động mạch chủ(IABP) có ích với các bệnh nhân suy tim cấp tính có khả năng phục hồi tốt (ví dụ, suy tim cấp sau nhồi máu cơ tim) hoặc ở những bệnh nhân cần thời gian chờ đợi phẫu thuật (bệnh van tim nặng, hoặc tái tưới máu trên đối tượng nhồi máu cơ tim nhiều thân), chờ đợi cấy thiết bị hỗ trợ thất trái, hoặc ghép tim. Các hình thức hỗ trợ tuần hoàn cơ học tạm thời khác cho bệnh nhân HF cấp tính và sốc tim bao gồm các thiết bị được phẫu thuật đặt nhưtrao đổi oxy qua màng ngoài cơ thể(ECMO, điển hình là phương pháp điều hòa tĩnh mạch) vàthiết bị trợ giúp tâm thất dòng ly tâmcó thể hỗ trợ LV, RV, hoặc cả hai và cũng có thể kết hợp với máy thở oxy để hỗ trợ tim phổi đầy đủ. Các thiết bị được đặt phần trăm nhưthiết bị hỗ trợ thất vi trục nội mạchcó sẵn cho cả hỗ trợ LV và RV. Việc lựa chọn các thiết bị hỗ trợ tuần hoàn cơ học tạm thời chủ yếu dựa trên sự sẵn có và kinh nghiệm của trung tâm y tế địa phương.Thiết bị hỗ trợ LV(LVAD) bền hoặc lưu động là các máy bơm có thể cấy ghép trong cơ thể lâu dài hơn để tăng cung lượng LV. Các thiết bị thường được sử dụng để duy trì ổn định tình trạng của những bệnh nhân suy tim nặng đang chờ ghép tim, đồng thời cũng được sử dụng như một dạng "liệu pháp đích" (giải pháp lâu dài hoặc vĩnh viễn) ở một số bệnh nhân không phải đối tượng chờ ghép tim.Phẫu thuật và các thủ thuật qua daPhẫu thuật có thể thích hợp đối với một số bệnh lý nhất định. Phẫu thuật ở bệnh nhân suy tim nặng nên được thực hiện tại một trung tâm chuyên khoa nhiều kinh nghiệm.Phẫu thuật đóng các shunt bẩm sinh hoặc mắc phải có thể đóng vai trò là một biện pháp điều trị triệt căn.Ghép bắc cầu động mạch vành(CABG) cho bệnh nhân rối loạn chức năng tâm thu LV thứ phát do bệnh động mạch vành và bằng chứng về khả năng sống của cơ tim có thể có lợi; tuy nhiên, những bệnh nhân bị nhồi máu cơ tim trước đó và cơ tim không còn khả năng sống sẽ ít có khả năng được hưởng lợi từ CABG. Vì vậy, quyết định tái tưới máu trên bệnh nhân suy tim có tổn thương nhiều thân động mạch vành nên được thực hiện trên cơ sở từng trường hợp cụ thể.Nếu suy tim chủ yếu dobệnh van tim, nên cân nhắc phẫu thuật sửa van hoặc thay van. Bệnh nhân bị hở hai lá nguyên phát có thể được hưởng lợi nhiều hơn bệnh nhân hở hai lá thứ phát sau giãn thất trái, trên các đối tượng này, chức năng cơ tim nhiều khả năng vẫn kém sau phẫu thuật. Phẫu thuật tốt nhất nên được thực hiện trước khi có tình trạng giãn cơ tim và tổn thương trở nên không thể đảo ngược. Gần đây hơn, thủ thuật phục hồi van hai lá qua da (còn gọi là sửa chữa xuyên suốt qua ống thông [TEER]), trong đó một chiếc kẹp được áp dụng để mô phỏng gần đúng các lá van hai lá trước và sau, đã được chứng minh là làm giảm tử vong và nhập viện do suy tim được lựa chọn cẩn thận bệnh nhân suy tim có triệu chứng mặc dù đã được điều trị nội khoa tối ưu và hở van hai lá từ trung bình đến nặng hoặc nặng với kích thước LV được bảo tồn (kích thước cuối tâm thu ≤ 70 mm—5).Ghép timlà sự lựa chọn hàng đầu với các bệnh nhân<60 tuổi có suy tim nặng và kháng trị, không có các bệnh lý gây đe dọa tính mạng và có khả năng tuân thủ chặt chẽ các điều trị được khuyến cáo. Có thể cân nhắc ghép tim với các bệnh nhân 60-70 tuổi, nếu họ có toàn trạng chung tốt, và đáp ứng được các tiêu chuẩn ghép tim khác. Tỷ lệ sống là 85 đến 90% sau 1 năm, tỷ lệ tử vong hàng năm sau đó là khoảng 4% năm; tuy nhiên, tỷ lệ tử vong trong khi chờ đợi người hiến là 12 đến 15%. Tỷ lệ hiến tạng hiện vẫn còn khá thấp.Thiếu máu và thiếu sắtThiếu máu thường gặp ở những bệnh nhân bị suy tim mạn tính và thường là do đa yếu tố. Thiếu máu có liên quan đến các triệu chứng và kết quả trầm trọng hơn trong HF và vì vậy cần tìm kiếm và điều trị các nguyên nhân có thể khắc phục được.Thiếu sắtlà một trong những nguyên nhân phổ biến nhất gây thiếu máu trong HF, và liệu pháp thay thế sắt nên được xem xét sau khi loại trừ các nguyên nhân có thể điều trị được như mất máu (đường tiêu hóa hoặc bệnh khác). Thay thế sắt bằng đường uống thường kém hiệu quả hơn do kém hấp thu và các lý do khác, do đó thay thế sắt qua đường tĩnh mạch được ưu tiên hơn.Suy tim mạn tínhSau điều trị, triệu chứng thường xuất hiện dai dẳng. Lý do bao gồmSự tồn tại của bệnh lý nền (ví dụ, cao huyết áp, thiếu máu cục bộ/nhồi máu, bệnh van tim)Thuốc điều trị suy tim bao gồmKhông tuân thủ ma túyĂn quá nhiều natri hoặc rượuChẩn đoán sót bệnh lý tuyến giáp, thiếu máu hoặc cơn rối loạn nhịp (cơn rung nhĩ đáp ứng thất nhanh, cơn nhịp nhanh thất bền bỉ).Ngoài ra, các loại thuốc dùng để điều trị các bệnh lý khác có thể gây trở ngại cho điều trị suy tim. Thuốc chống viêm không steroid (NSAID), thiazolidinediones (ví dụ, pioglitazone) sử dụng trong điều trị đái tháo đường, các thuốc chẹn kênh canxi nhóm nondihydropyridine tác dụng ngắn có thể làm nặng thêm tình trạng suy tim, do đó nên tránh sử dụng trừ khi không có biện pháp thay thế khác, và những bệnh nhân phải dùng các thuốc như trên nên được theo dõi sát.Tài liệu tham khảo về điều trị1.McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.Eur Heart J42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab3682.Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation145:e876–e894, 2022, doi: 10.1161/CIR.00000000000010623.Shah SJ, Kitzman D, Borlaug B, et al: Phenotype-specific treatment of heart failure with preserved ejection fraction: A multiorgan roadmap.Circulation134(1):73–90, 2016. doi: 10.1161/CIRCULATIONAHA.116.0218844.Kober L, Thune JJ, Nielsen JC, et al: Defibrillator implantation in patients with nonischemic systolic heart failure.N Engl J Med375(13):1221–2130, 2016. doi: 10.1056/NEJMoa16080295.Stone GW, Lindenfield J, Abraham WT, et al: Transcatheter mitral-valve repair in patients with heart failure.N Engl J Med379(24):2307–2318, 2018. doi: 10.1056/NEJMoa1806640
+
+--- 10. Những điểm chính ---
+
+Suy tim (HF) là tình trạng rối loạn chức năng tâm thất, dẫn đến tim không cung cấp đủ lượng máu cho các nhu cầu chuyển hóa.Trong suy tim có phân suất tống máu giảm (HFrEF), tâm thất co bóp kém và tống máu không đầy đủ; phân suất tống máu thấp.Trong suy tim có phân suất tống máu bảo tồn (HFpEF), chức năng đổ đầy thất bị suy giảm, dẫn đến tăng áp suất cuối tâm trương khi nghỉ và/hoặc khi gắng sức; phân suất tống máu bình thường.Cân nhắc chẩn đoán suy tim ở những bệnh nhân có biểu hiện khó thở hoặc mệt mỏi, khó thở khi nằm đầu bằng, và/hoặc phù, đặc biệt ở những người có tiền sử nhồi máu cơ tim, tăng huyết áp, bệnh van tim hoặc khám phát hiện tiếng thổi.Tiến hành chụp X-quang ngực, làm điện tâm đồ, xét nghiệm BNP, và các thử nghiệm khách quan đánh giá chức năng tim, thường là siêu âm tim.Suy tim có xu hướng tiến triển và có tiên lượng xấu, trừ khi được điều trị phù hợp.Điều trị bao gồm giáo dục, thay đổi lối sống, kiểm soát các bệnh lý nền, sử dụng các loại thuốc và thiết bị cấy ghép (CRT, ICD).
+
+--- 11. Thông tin thêm ---
+
+Sau đây là một số hướng dẫn chính về bệnh suy tim bằng tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) with the special contribution of the Heart Failure Association (HFA) of the ESC.Eur Heart J42(36):3599-3726, 2021. doi: 10.1093/eurheartj/ehab368Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation145:e876–e894, 2022, doi: 10.1161/CIR.0000000000001062

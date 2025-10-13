@@ -1,0 +1,639 @@
+TIÊU ĐỀ: Hemophilia
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/rối-loạn-coagulation/hemophilia
+================================================================================
+
+NỘI DUNG:
+
+Hemophilia
+
+Theo
+
+Michael B. Streiff
+
+,
+
+MD
+
+,
+
+Johns Hopkins University School of Medicine
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 9 2023
+
+|
+
+đã sửa đổi
+
+Thg 6 2025
+
+v972554_vi
+
+Hemophilia là những rối loạn chảy máu di truyền thông thường gây ra do thiếu hụt yếu tố đông máu VIII hoặc IX. Mức độ thiếu hụt yếu tó xác định khả năng và mức độ nghiêm trọng của chảy máu. Chảy máu vào các mô sâu hoặc khớp thường phát triển trong vòng vài giờ chấn thương. Cần nghĩ đến hemophilia ở bệnh nhân có PTT kéo dài, nhưng PT và số lượng tiểu cầu bình thường. Chẩn đoán được khẳng định bằng xét nghiệm định lượng các yếu tố đặc hiệu. Điều trị bao gồm thay thế yếu tố thiếu hụt nếu có hoặc tiên liệu sẽ chảy máu cấp, hoặc trước khi phẫu thuật.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn đông máu
+
+.)
+
+Bệnh ưa chảy máu A (thiếu yếu tố VIII), ảnh hưởng đến khoảng 80% số bệnh nhân mắc bệnh máu khó đông và bệnh máu khó đông B (thiếu
+
+yếu tố IX
+
+) có các biểu hiện lâm sàng và bất thường xét nghiệm sàng lọc giống hệt nhau. Cả hai đều là rối loạn di truyền liên kết
+
+nhiễm sắc thể X
+
+. Định lượng yếu tố đặc hiệu sẽ chẩn đoán xác định thể bệnh hemophilia.
+
+Nguyên nhân của Hemophilia
+
+Bệnh máu khó đông là một rối loạn di truyền do đột biến, mất đoạn hoặc đảo ngược đoạn ảnh hưởng đến gen của yếu tố VIII hoặc
+
+yếu tố IX
+
+. Bởi vì những gen này nằm trên nhiễm sắc thể X, bệnh hemophilia chủ yếu ở nam giới. Con gái của con trai mắc bệnh máu khó đông là người mang mầm bệnh bắt buộc, nhưng con trai là bình thường. Mỗi con trai của người mang gen bệnh có 50% khả năng mắc bệnh máu khó đông và mỗi con gái có 50% khả năng mắc bệnh máu khó đông.
+
+Một số phụ nữ mang mầm bệnh máu khó đông A hoặc B có triệu chứng trong quá trình thực hiện các thủ thuật xâm lấn hoặc khi sinh con. Trong những trường hợp này, nhiễm sắc thể X bình thường hoặc không bị ảnh hưởng (với gen của yếu tố VIII hoặc IX bình thường) được ưu tiên bất hoạt. Những người phụ nữ này thường có nồng độ yếu tố ngang bằng với những nam giới mắc bệnh máu khó đông nhẹ (yếu tố VIII hoặc IX > 5% nhưng
+
+<
+
+50%). Ở những bệnh nhân có phẫu thuật, nồng độ yếu tố VIII hoặc IX có thể quá thấp để cầm máu bình thường.
+
+Sinh lý bệnh của Hemophilia
+
+Quá trình cầm máu bình thường (xem hình
+
+Các con đường đông máu
+
+) xảy ra khi nồng độ yếu tố VIII và IX
+
+≥
+
+50% bình thường. Những bất thường về gen ở bệnh máu khó đông nặng (nồng độ yếu tố
+
+<
+
+1%) thường là những đột biến mất đoạn hoặc đột biến đảo ngược đoạn lớn hoặc các đột biến điểm làm gián đoạn biểu hiện gen. Ngược lại, bệnh máu khó đông ở mức độ nhẹ hoặc trung bình thường liên quan đến các đột biến điểm dẫn đến thay đổi axit amin (đột biến sai nghĩa).
+
+Các trường hợp lẻ tẻ mắc bệnh máu khó đông A và B (trong đó mẹ là phụ nữ không phải là người mang mầm bệnh) không phải là hiếm. Trong một nghiên cứu, 55% số bệnh nhân mắc bệnh máu khó đông A nặng và 43% số bệnh nhân mắc bệnh máu khó đông B nặng là những trường hợp lẻ tẻ. Ở bệnh máu khó đông A và B nhẹ và trung bình, 30% số trường hợp là lẻ tẻ (
+
+1
+
+).
+
+Con đường đông máu
+
+Hầu hết bệnh nhân mắc bệnh máu khó đông được điều trị vào đầu những năm 1980 đều bị nhiễm
+
+HIV
+
+,
+
+viêm gan B
+
+hoặc
+
+viêm gan C
+
+do huyết tương hoặc chất cô đặc yếu tố VIII hoặc IX bị ô nhiễm (trước khi phát triển các chất bất hoạt vi rút hiệu quả). Đôi khi bệnh nhân bị
+
+giảm tiểu cầu miễn dịch
+
+thứ phát sau nhiễm HIV, làm trầm trọng thêm tình trạng chảy máu.
+
+Tài liệu tham khảo về sinh lý bệnh
+
+1.
+
+Kasper CK, Lin JC
+
+. Prevalence of sporadic and familial haemophilia.
+
+Haemophilia
+
+2007;13(1):90-92. doi:10.1111/j.1365-2516.2006.01397.x
+
+Triệu chứng và Dấu hiệu của Hemophilia
+
+Bệnh nhân bị chảy máu trong các mô (ví dụ, khớp, tụ máu trong cơ, xuất huyết sau phúc mạc). Việc chảy máu có thể xảy ra ngay lập tức hoặc xảy ra chậm, phụ thuộc vào mức độ chấn thương và nồng độ của yếu tố VIII hoặc IX. Đau thường xảy ra khi xuất huyết, đôi khi xảy ra trước khi có dấu hiệu chảy máu. Chảy máu khớp mạn tính và tái diễn có thể dẫn đến viêm màng hoạt dịch và viêm khớp. Thậm chí một cú đánh nhẹ ở đầu có thể gây ra chảy máu trong sọ. Chảy máu vào phần dưới của lưỡi có thể gây tử vong do nghẹt thở.
+
+Ở bệnh máu khó đông nhẹ (yếu tố VIII hoặc IX ở mức 5% đến 49% bình thường), chảy máu quá nhiều có thể xảy ra sau phẫu thuật hoặc sau nhổ răng.
+
+Bệnh máu khó đông vừa phải (nồng độ yếu tố VIII hoặc IX từ 1% đến 5% bình thường) thường gây chảy máu sau chấn thương không đáng kể.
+
+Hemophilie thể nặng (nồng dộ VIII hoặc IX)
+
+<
+
+1% mức bình thường) gây ra chảy máu trầm trọng trong suốt cuộc đời, thường bắt đầu ngay sau khi sinh (ví dụ, máu tụ da đầu sau khi sinh hoặc chảy máu quá nhiều sau khi cắt bao quy đầu).
+
+Chẩn đoán Hemophilia
+
+Cần xét nghiệm số lượng tiểu cầu, PT, PTT, yếu tố VIII và IX.
+
+Đôi khi hoạt động của
+
+yếu tố von Willebrand
+
+và thành phần kháng nguyên và đa phân tử
+
+Cần nghĩ đến Hemophilia ở bệnh nhân bị chảy máu tái diễn không lý giải được, hoặc có PTT kéo dài. Khi nghi ngờ mắc Hemophilia, cần xét nghiệm: số lượng tiểu cầu, PT, PTT, định lượng yếu tố VIII và IX. Trong bệnh Hemophilia, PTT kéo dài, nhưng PT và số lượng tiểu cầu là bình thường.
+
+Định lượng yếu tố VIII và IX xác định loại và mức độ nghiêm trọng của bệnh hemophilia. Bởi vì nồng độ yếu tố VIII cũng có thể bị giảm trong
+
+bệnh von Willebrand
+
+, nên hoạt động của
+
+yếu tố von Willebrand
+
+(VWF), kháng nguyên VWF và thành phần đa phân tử VWF được đo ở những bệnh nhân mắc bệnh máu khó đông A mới được chẩn đoán, đặc biệt là nếu rối loạn ở mức độ nhẹ và tiền sử gia đình cho thấy rằng cả nam và nữ trong gia đình đều bị ảnh hưởng. Để xác định một phụ nữ có mang gen hemophilia A, đôi khi cần tiến hành định lượng yếu tố VIII. Tương tự như vậy, việc đo nồng độ
+
+yếu tố IX
+
+thường xác định người mang mầm bệnh của bệnh máu khó đông B. Chẩn đoán xác định cần phải có xét nghiệm di truyền.
+
+Phân tích DNA theo phản ứng chuỗi polymerase (PCR) bao gồm gen của
+
+yếu tố VIII
+
+hoặc yếu tố IX, có sẵn tại các trung tâm chuyên khoa, có thể được sử dụng để chẩn đoán trạng thái mang mầm bệnh máu khó đông A hoặc B và chẩn đoán trước sinh về bệnh máu khó đông A hoặc B bằng cách
+
+lấy mẫu lông nhung màng đệm
+
+ở thời điểm 12 tuần hoặc
+
+chọc ối
+
+ở thời điểm 16 tuần. Thủ thuật này có 0,5 đến 1% nguy cơ sẩy thai. Các nghiên cứu về DNA bào thai tự do trong máu mẹ đã cho thấy triển vọng là một phương pháp không xâm lấn để sàng lọc bệnh máu khó đông.
+
+Sau khi tiếp xúc nhiều lần với yếu tố VIII hoặc IX thay thế, khoảng 30% số bệnh nhân mắc bệnh máu khó đông A (
+
+1
+
+) nặng và 3% mắc bệnh máu khó đông B (
+
+2
+
+) phát triển
+
+các đồng kháng thể của yếu tố VIII hoặc yếu tố IX
+
+(kháng thể đồng loại) ức chế hoạt động đông máu của bất kỳ yếu tố VIII hoặc
+
+yếu tố IX
+
+bổ sung nào được truyền. Vì vậy, xét nghiệm phát hiện có kháng VIII (ví dụ, bằng cách trộn huyết tương của bệnh nhân với huyết tương bình thường, ủ 1 giờ, sau đó đo PTT). Nếu PTT cải thiện so với trước khi trộn nghĩa là không có kháng VIII và ngược lại. Nếu có các đồng kháng thể, hiệu giá của các kháng thể này có thể được đo bằng cách xác định mức độ ức chế yếu tố VIII hoặc
+
+yếu tố IX
+
+bằng cách pha loãng huyết tương bệnh nhân theo tuần tự.
+
+Ngọc trai & cạm bẫy
+
+Vì nồng độ yếu tố VIII cũng có thể bị giảm trong bệnh von Willebrand, hãy đo hoạt động của
+
+yếu tố von Willebrand
+
+(VWF), kháng nguyên và thành phần đa phân tử ở những bệnh nhân mắc bệnh máu khó đông A mới được chẩn đoán.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Iorio A, Fischer K, Makris M
+
+. Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.
+
+Br J Haematol
+
+2017;178(1):20-31. doi:10.1111/bjh.14610
+
+2.
+
+Puetz J, Soucie JM, Kempton CL, Monahan PE
+
+; Hemophilia Treatment Center Network (HTCN) Investigators. Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.
+
+Haemophilia
+
+2014;20(1):25-31. doi:10.1111/hae.12229
+
+Điều trị Hemophilia
+
+Thay thế yếu tố thiếu hụt
+
+Đôi khi sử dụng tiêu sợi huyết.
+
+Nếu đã có các triệu chứng gợi ý chảy máu, nên điều trị ngay cả trước khi các xét nghiệm chẩn đoán được hoàn thành. Ví dụ, triệu chứng đau đầu gợi ý khả năng có thể xuất huyết não, vì vậy nên điều trị ngay trước khi có kết quả CT sọ não.
+
+Điều trị hàng đầu là thay thế yếu tố thiếu hụt.
+
+Ở bệnh nhân bị
+
+bệnh máu khó đông A,
+
+nồng độ đáy của yếu tố VIII (tức là nồng độ yếu tố VIII được đo ngay trước khi dùng liều tiếp theo) cần được tăng lên:
+
+50% mức bình thường để ngăn ngừa chảy máu sau khi nhổ răng hoặc ngăn chặn xuất huyết khớp mới chớm
+
+50% đến 80% mức bình thường đối với chảy máu khớp nặng hoặc chảy máu trong cơ nặng
+
+100% trước khi phẫu thuật lớn hoặc nếu chảy máu nội sọ, trong tim, hoặc đe dọa tính mạng
+
+Sau đó, cần truyền lặp lại liều tính toán ban đầu 8 giờ đến 12 giờ một lần để duy trì nồng độ đáy ở mức 50% đến 80% mức bình thường trong 7 ngày đến 14 ngày sau đại phẫu hoặc xuất huyết đe dọa tính mạng. Sau phẫu thuật thần kinh hoặc phẫu thuật tim, nồng độ đáy của yếu tố này phải được duy trì ở mức 100% mức bình thường trong 3 ngày đầu sau phẫu thuật. Mục tiêu là nồng độ đáy từ 80% đến 100% đối với ngày 4 đến ngày 7 sau mổ, sau đó là mục tiêu từ 50% đến 80% đối với ngày 8 đến ngày 14 sau mổ. Sau khi chảy máu nội sọ, nồng độ đáy của yếu tố phải được duy trì ở mức 100% mức bình thường trong 7 ngày đầu. Mục tiêu phải là 80% đến 100% đối với ngày 8 đến ngày 14 và 50% đến 80% đối với ngày 15 đến ngày 21. Sau khi chảy máu nội sọ, cần phải điều trị dự phòng yếu tố đó suốt đời. Mỗi đơn vị/kg của yếu tố VIII làm tăng mức độ VIII bởi khoảng 2%. Do đó, để tăng mức từ 0% đến 50%, cần khoảng 25 đơn vị/kg.
+
+Yếu tố VIII có thể được cung cấp dưới dạng cô đặc yếu tố VIII có nguồn gốc từ huyết tương đã được tinh chế, được lấy từ nhiều người hiến tặng. Sau đó, nó trải qua quá trình bất hoạt vi rút, nhưng việc bất hoạt có thể không loại bỏ được parvovirus hoặc vi rút viêm gan A. Yếu tố tái tổ hợp VIII không có vi rút và thường được ưa chuộng hơn.
+
+Ở
+
+bệnh máu khó đông B,
+
+yếu tố IX có thể được cung cấp dưới dạng sản phẩm bất hoạt vi rút tinh khiết hoặc tái tổ hợp 12 tiếng đến 24 tiếng một lần. Nồng độ mục tiêu điều chỉnh yếu tố giống như ở bệnh máu khó đông A. Tuy nhiên, để đạt được nồng độ này, liều phải cao hơn ở bệnh máu khó đông A vì
+
+yếu tố IX
+
+nhỏ hơn yếu tố VIII và trái ngược với yếu tố VIII, có phạm vi phân bổ rộng rãi ngoài mạch máu. Mỗi đơn vị/kg
+
+yếu tố IX
+
+làm tăng nồng độ
+
+yếu tố IX
+
+thêm 1%. Do phân bố ngoài mạch máu, liều ban đầu của
+
+yếu tố IX
+
+thường cao hơn 25% so với các liều tiếp theo.
+
+Huyết tương tươi đông lạnh có yếu tố VIII và
+
+yếu tố IX
+
+. Tuy nhiên, trừ khi việc thay huyết tương được thực hiện, thường không thể cung cấp đủ huyết tương toàn phần cho bệnh nhân bị bệnh máu khó đông nặng để tăng yếu tố VIII hoặc
+
+yếu tố IX
+
+lên nồng độ ngăn ngừa hoặc kiểm soát chảy máu. Do đó, chỉ nên sử dụng huyết tương tươi đông lạnh nếu không có sẵn yếu tố cô đặc.
+
+Kết tủa lạnh chứa yếu tố VIII và có thể được sử dụng làm sản phẩm thay thế nếu không có sẵn yếu tố VIII cô đặc. Mỗi đơn vị kết tủa lạnh chứa 80 đơn vị yếu tố VIII. Vì huyết tương và chất kết tủa lạnh thường không bị bất hoạt về mặt vi rút, chỉ nên sử dụng các sản phẩm máu này trong trường hợp cấp cứu khi không có sẵn yếu tố cô đặc.
+
+Protein tổng hợp yếu tố tái tổ hợp VIII-Fc (
+
+1
+
+), protein tổng hợp
+
+yếu tố tái tổ hợp IX
+
+-Fc (
+
+2
+
+), yếu tố tái tổ hợp liên kết với polyethylen glycol (PEG) VIII (
+
+3
+
+) và yếu tố PEGylat hóa IX (
+
+4
+
+) đều có các thời gian sống thêm in vivo dài hơn và đã được báo cáo là kiểm soát chảy máu ở bệnh máu khó đông A và B.
+
+Đối với bệnh máu khó đông A, emicizumab, một kháng thể đơn dòng đặc hiệu kép tái tổ hợp được nhân hóa, gắn kết với cả
+
+yếu tố IX
+
+và
+
+yếu tố X
+
+, đồng thời liên kết chúng thành một phức hợp hoạt động giống yếu tố Xase giúp loại bỏ nhu cầu về yếu tố VIII, là một phương pháp điều trị hiệu quả (
+
+5
+
+).
+
+Emicizumab
+
+được tiêm dưới da 1, 2 hoặc 4 tuần một lần. Thuốc có chu kỳ bán hủy là 28 ngày.
+
+Các thuốc điều trị trong các thử nghiệm lâm sàng cho cả bệnh máu khó đông A và B bao gồm fitusiran và concizumab (
+
+6, 7
+
+). Fitusiran là một RNA ức chế nhỏ làm giảm sản xuất protein chống đông tự nhiên, antithrombin. Concizumab là một kháng thể đơn dòng được nhân hóa, ngăn chặn chất ức chế con đường yếu tố mô (TFPI), một loại protein chống đông máu tự nhiên khác và làm tăng quá trình sản sinh
+
+thrombin
+
+trong bệnh máu khó đông A và B.
+
+Liệu pháp gen sử dụng vectơ vi rút liên quan đến adeno (AAV) đã được chứng minh trong các thử nghiệm lâm sàng là mang lại sự biểu hiện yếu tố VIII và
+
+yếu tố IX
+
+được duy trì (8, 9). Hiện đang có một sản phẩm liệu pháp gen vector AAV điều trị bệnh máu khó đông B. Hiện đang có một liệu pháp gen vector AAV điều trị bệnh máu khó đông A (
+
+10
+
+).
+
+Cả VWF và yếu tố VIII đều được lưu trữ trong thể Weibel-Palade của tế bào nội mô và được tiết ra để đáp ứng với sự kích thích của tế bào nội mô (
+
+11
+
+). Do đó, liệu pháp bổ trợ cho bệnh máu khó đông A nhẹ có thể bao gồm kích thích in vivo các tế bào nội mô của bệnh nhân bằng thuốc tương tự
+
+vasopressin
+
+tổng hợp DDAVP (deamino-D-
+
+arginine
+
+vasopressin
+
+, còn được gọi là desmopressin). Như được mô tả đối với
+
+bệnh von Willebrand
+
+,
+
+desmopressin
+
+có thể tạm thời làm tăng nồng độ yếu tố VIII. Cần kiểm tra đáp ứng của bệnh nhân trước khi sử dụng
+
+desmopressin
+
+trong điều trị. Việc sử dụng nó sau chấn thương nhẹ hoặc trước khi phẫu thuật nha khoa theo lịch mổ phiên có thể làm giảm nhu cầu điều trị thay thế. Chỉ nên sử dụng
+
+desmopressin
+
+cho những bệnh nhân mắc bệnh máu khó đông A nhẹ (nồng độ yếu tố VIII cơ bản
+
+≥
+
+5%) đã chứng minh được khả năng đáp ứng.
+
+Một thuốc chống tiêu sợi huyết (axit aminocaproic hoặc axit tranexamic) cũng có thể được sử dụng làm liệu pháp bổ trợ trong bệnh máu khó đông A hoặc B để ức chế tiêu sợi huyết và ngăn ngừa chảy máu muộn sau khi nhổ răng hoặc sau chấn thương khác ở niêm mạc hầu họng (ví dụ: rách lưỡi).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Mahlangu J, Powell JS, Ragni MV, et al
+
+: Phase 3 study of recombinant factor VIII Fc fusion protein in severe hemophilia A.
+
+Blood
+
+123:317–325, 2014.
+
+2.
+
+Powell JS, Pasi KJ, Ragni MV, et al
+
+: Phase 3 study of recombinant
+
+factor IX
+
+Fc fusion protein in hemophilia B.
+
+N Engl J Med
+
+369:2313–2323, 2013.
+
+3.
+
+Konkle BA, Stasyshyn O, Chowdary P, et al
+
+: Pegylated, full-length, recombinant factor VIII for prophylactic and on-demand treatment of severe hemophilia A.
+
+Blood
+
+126:1078–1085, 2015.
+
+4.
+
+Collins PW, Young G, Knobe K, et al
+
+. Recombinant long-acting glycoPEGylated
+
+factor IX
+
+in hemophilia B: A multinational randomized phase 3 trial.
+
+Blood
+
+124:3880–3886, 2014.
+
+5.
+
+Nuto A, Yoshihashi K, Takeda M, et al
+
+: Anti-factor IXa/X bispecific antibody (ACE910): Hemostatic potency against ongoing bleeds in a hemophilia A model and the possibility of routine supplementation.
+
+J Thromb Haemost
+
+12:206–213, 2014.
+
+6.
+
+Young G, Srivastava A, Kavakli K, et al
+
+. Efficacy and safety of
+
+fitusiran
+
+prophylaxis in people with haemophilia A or haemophilia B with inhibitors (ATLAS-INH): a multicentre, open-label, randomised phase 3 trial.
+
+Lancet
+
+2023;401(10386):1427-1437. doi:10.1016/S0140-6736(23)00284-2
+
+7.
+
+Shapiro AD, Angchaisuksiri P, Astermark J, et al
+
+. Subcutaneous
+
+concizumab
+
+prophylaxis in hemophilia A and hemophilia A/B with inhibitors: phase 2 trial results.
+
+Blood
+
+2019;134(22):1973-1982. doi:10.1182/blood.2019001542
+
+8.
+
+Perrin GQ, Herzog RW, Markusic DM
+
+. Update on clinical gene therapy for hemophilia.
+
+Blood
+
+2019;133(5):407-414. doi:10.1182/blood-2018-07-820720
+
+9.
+
+Samelson-Jones BJ, George LA
+
+. Adeno-Associated Virus Gene Therapy for Hemophilia.
+
+Annu Rev Med
+
+2023;74:231-247. doi:10.1146/annurev-med-043021-033013
+
+10.
+
+George LA
+
+: Hemophilia gene therapy comes of age.
+
+Blood Adv
+
+1:2591–2599, 2017.
+
+11.
+
+Turner NA and Moake JL
+
+: Factor VIII is synthesized in human endothelial cells, packaged in Weibel-Palade bodies and secreted bound to ULVWF strings.
+
+PLoS ONE
+
+10(10): e0140740, 2015.
+
+Phòng ngừa Hemophilia
+
+Các thành viên trong gia đình là người mang mầm bệnh nên được xác định để họ có thể được
+
+tư vấn về di truyền
+
+.
+
+Để ngăn ngừa chảy máu, bệnh nhân cần phải tránh dùng
+
+aspirin
+
+và thuốc chống viêm không steroid (cả hai thuốc này đều ức chế chức năng tiểu cầu). Chăm sóc nha khoa thông thường là điều cần thiết để tránh nhổ răng và phẫu thuật nha khoa khác. Cần phải dùng thuốc theo đường uống hoặc theo đường tĩnh mạch; tiêm IM có thể gây tụ máu.
+
+Bệnh nhân mắc bệnh máu khó đông cần phải được
+
+chủng ngừa viêm gan
+
+A và
+
+viêm gan B
+
+.
+
+Những điểm chính
+
+Hemophilia là rối loạn di truyền do gen lặn trên nhiễm sắc thể X.
+
+Hemophilia A (chiếm khoảng 80% bệnh nhân hemophilia) liên quan đến thiếu hụt yếu tố VIII, và bệnh hemophilia B liên quan đến sự thiếu hụt yếu tố IX.
+
+Bệnh nhân bị chảy máu vào các mô sau những chán thương nhẹ (ví dụ, khớp, khối máu tụ trong cơ, xuất huyết sau phúc mạc), có thể xuất huyết nội sọ gây tử vong.
+
+Thời gian Thromboplastin một phần kéo dài nhưng thời gian prothrombin và số lượng tiểu cầu vẫn bình thường; xét nghiệm yếu tố VIII và IX xác định loại và mức độ nặng của bệnh máu khó đông.
+
+Những bệnh nhân bị chảy máu hoặc có thể bị chảy máu được (ví dụ, trước khi phẫu thuật hoặc nhổ răng) cần dược điều trị yếu tố thay thế, tốt hơn là sử dụng sản phẩm tái tổ hợp; liều phụ thuộc vào từng tình huống.
+
+Khoảng 30% bệnh nhân mắc bệnh hemophilia A cần truyền yếu tố VIII đã sinh kháng VIII.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân của Hemophilia ---
+
+Bệnh máu khó đông là một rối loạn di truyền do đột biến, mất đoạn hoặc đảo ngược đoạn ảnh hưởng đến gen của yếu tố VIII hoặcyếu tố IX. Bởi vì những gen này nằm trên nhiễm sắc thể X, bệnh hemophilia chủ yếu ở nam giới. Con gái của con trai mắc bệnh máu khó đông là người mang mầm bệnh bắt buộc, nhưng con trai là bình thường. Mỗi con trai của người mang gen bệnh có 50% khả năng mắc bệnh máu khó đông và mỗi con gái có 50% khả năng mắc bệnh máu khó đông.Một số phụ nữ mang mầm bệnh máu khó đông A hoặc B có triệu chứng trong quá trình thực hiện các thủ thuật xâm lấn hoặc khi sinh con. Trong những trường hợp này, nhiễm sắc thể X bình thường hoặc không bị ảnh hưởng (với gen của yếu tố VIII hoặc IX bình thường) được ưu tiên bất hoạt. Những người phụ nữ này thường có nồng độ yếu tố ngang bằng với những nam giới mắc bệnh máu khó đông nhẹ (yếu tố VIII hoặc IX > 5% nhưng<50%). Ở những bệnh nhân có phẫu thuật, nồng độ yếu tố VIII hoặc IX có thể quá thấp để cầm máu bình thường.
+
+--- 2. Sinh lý bệnh của Hemophilia ---
+
+Quá trình cầm máu bình thường (xem hìnhCác con đường đông máu) xảy ra khi nồng độ yếu tố VIII và IX≥50% bình thường. Những bất thường về gen ở bệnh máu khó đông nặng (nồng độ yếu tố<1%) thường là những đột biến mất đoạn hoặc đột biến đảo ngược đoạn lớn hoặc các đột biến điểm làm gián đoạn biểu hiện gen. Ngược lại, bệnh máu khó đông ở mức độ nhẹ hoặc trung bình thường liên quan đến các đột biến điểm dẫn đến thay đổi axit amin (đột biến sai nghĩa).Các trường hợp lẻ tẻ mắc bệnh máu khó đông A và B (trong đó mẹ là phụ nữ không phải là người mang mầm bệnh) không phải là hiếm. Trong một nghiên cứu, 55% số bệnh nhân mắc bệnh máu khó đông A nặng và 43% số bệnh nhân mắc bệnh máu khó đông B nặng là những trường hợp lẻ tẻ. Ở bệnh máu khó đông A và B nhẹ và trung bình, 30% số trường hợp là lẻ tẻ (1).Con đường đông máuHầu hết bệnh nhân mắc bệnh máu khó đông được điều trị vào đầu những năm 1980 đều bị nhiễmHIV,viêm gan Bhoặcviêm gan Cdo huyết tương hoặc chất cô đặc yếu tố VIII hoặc IX bị ô nhiễm (trước khi phát triển các chất bất hoạt vi rút hiệu quả). Đôi khi bệnh nhân bịgiảm tiểu cầu miễn dịchthứ phát sau nhiễm HIV, làm trầm trọng thêm tình trạng chảy máu.Tài liệu tham khảo về sinh lý bệnh1.Kasper CK, Lin JC. Prevalence of sporadic and familial haemophilia.Haemophilia2007;13(1):90-92. doi:10.1111/j.1365-2516.2006.01397.x
+
+--- 3. Triệu chứng và Dấu hiệu của Hemophilia ---
+
+Bệnh nhân bị chảy máu trong các mô (ví dụ, khớp, tụ máu trong cơ, xuất huyết sau phúc mạc). Việc chảy máu có thể xảy ra ngay lập tức hoặc xảy ra chậm, phụ thuộc vào mức độ chấn thương và nồng độ của yếu tố VIII hoặc IX. Đau thường xảy ra khi xuất huyết, đôi khi xảy ra trước khi có dấu hiệu chảy máu. Chảy máu khớp mạn tính và tái diễn có thể dẫn đến viêm màng hoạt dịch và viêm khớp. Thậm chí một cú đánh nhẹ ở đầu có thể gây ra chảy máu trong sọ. Chảy máu vào phần dưới của lưỡi có thể gây tử vong do nghẹt thở.Ở bệnh máu khó đông nhẹ (yếu tố VIII hoặc IX ở mức 5% đến 49% bình thường), chảy máu quá nhiều có thể xảy ra sau phẫu thuật hoặc sau nhổ răng.Bệnh máu khó đông vừa phải (nồng độ yếu tố VIII hoặc IX từ 1% đến 5% bình thường) thường gây chảy máu sau chấn thương không đáng kể.Hemophilie thể nặng (nồng dộ VIII hoặc IX)<1% mức bình thường) gây ra chảy máu trầm trọng trong suốt cuộc đời, thường bắt đầu ngay sau khi sinh (ví dụ, máu tụ da đầu sau khi sinh hoặc chảy máu quá nhiều sau khi cắt bao quy đầu).
+
+--- 4. Chẩn đoán Hemophilia ---
+
+Cần xét nghiệm số lượng tiểu cầu, PT, PTT, yếu tố VIII và IX.Đôi khi hoạt động củayếu tố von Willebrandvà thành phần kháng nguyên và đa phân tửCần nghĩ đến Hemophilia ở bệnh nhân bị chảy máu tái diễn không lý giải được, hoặc có PTT kéo dài. Khi nghi ngờ mắc Hemophilia, cần xét nghiệm: số lượng tiểu cầu, PT, PTT, định lượng yếu tố VIII và IX. Trong bệnh Hemophilia, PTT kéo dài, nhưng PT và số lượng tiểu cầu là bình thường.Định lượng yếu tố VIII và IX xác định loại và mức độ nghiêm trọng của bệnh hemophilia. Bởi vì nồng độ yếu tố VIII cũng có thể bị giảm trongbệnh von Willebrand, nên hoạt động củayếu tố von Willebrand(VWF), kháng nguyên VWF và thành phần đa phân tử VWF được đo ở những bệnh nhân mắc bệnh máu khó đông A mới được chẩn đoán, đặc biệt là nếu rối loạn ở mức độ nhẹ và tiền sử gia đình cho thấy rằng cả nam và nữ trong gia đình đều bị ảnh hưởng. Để xác định một phụ nữ có mang gen hemophilia A, đôi khi cần tiến hành định lượng yếu tố VIII. Tương tự như vậy, việc đo nồng độyếu tố IXthường xác định người mang mầm bệnh của bệnh máu khó đông B. Chẩn đoán xác định cần phải có xét nghiệm di truyền.Phân tích DNA theo phản ứng chuỗi polymerase (PCR) bao gồm gen củayếu tố VIIIhoặc yếu tố IX, có sẵn tại các trung tâm chuyên khoa, có thể được sử dụng để chẩn đoán trạng thái mang mầm bệnh máu khó đông A hoặc B và chẩn đoán trước sinh về bệnh máu khó đông A hoặc B bằng cáchlấy mẫu lông nhung màng đệmở thời điểm 12 tuần hoặcchọc ốiở thời điểm 16 tuần. Thủ thuật này có 0,5 đến 1% nguy cơ sẩy thai. Các nghiên cứu về DNA bào thai tự do trong máu mẹ đã cho thấy triển vọng là một phương pháp không xâm lấn để sàng lọc bệnh máu khó đông.Sau khi tiếp xúc nhiều lần với yếu tố VIII hoặc IX thay thế, khoảng 30% số bệnh nhân mắc bệnh máu khó đông A (1) nặng và 3% mắc bệnh máu khó đông B (2) phát triểncác đồng kháng thể của yếu tố VIII hoặc yếu tố IX(kháng thể đồng loại) ức chế hoạt động đông máu của bất kỳ yếu tố VIII hoặcyếu tố IXbổ sung nào được truyền. Vì vậy, xét nghiệm phát hiện có kháng VIII (ví dụ, bằng cách trộn huyết tương của bệnh nhân với huyết tương bình thường, ủ 1 giờ, sau đó đo PTT). Nếu PTT cải thiện so với trước khi trộn nghĩa là không có kháng VIII và ngược lại. Nếu có các đồng kháng thể, hiệu giá của các kháng thể này có thể được đo bằng cách xác định mức độ ức chế yếu tố VIII hoặcyếu tố IXbằng cách pha loãng huyết tương bệnh nhân theo tuần tự.Ngọc trai & cạm bẫyVì nồng độ yếu tố VIII cũng có thể bị giảm trong bệnh von Willebrand, hãy đo hoạt động củayếu tố von Willebrand(VWF), kháng nguyên và thành phần đa phân tử ở những bệnh nhân mắc bệnh máu khó đông A mới được chẩn đoán.Tài liệu tham khảo chẩn đoán1.Iorio A, Fischer K, Makris M. Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.Br J Haematol2017;178(1):20-31. doi:10.1111/bjh.146102.Puetz J, Soucie JM, Kempton CL, Monahan PE; Hemophilia Treatment Center Network (HTCN) Investigators. Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.Haemophilia2014;20(1):25-31. doi:10.1111/hae.12229
+
+--- 5. Điều trị Hemophilia ---
+
+Thay thế yếu tố thiếu hụtĐôi khi sử dụng tiêu sợi huyết.Nếu đã có các triệu chứng gợi ý chảy máu, nên điều trị ngay cả trước khi các xét nghiệm chẩn đoán được hoàn thành. Ví dụ, triệu chứng đau đầu gợi ý khả năng có thể xuất huyết não, vì vậy nên điều trị ngay trước khi có kết quả CT sọ não.Điều trị hàng đầu là thay thế yếu tố thiếu hụt.Ở bệnh nhân bịbệnh máu khó đông A,nồng độ đáy của yếu tố VIII (tức là nồng độ yếu tố VIII được đo ngay trước khi dùng liều tiếp theo) cần được tăng lên:50% mức bình thường để ngăn ngừa chảy máu sau khi nhổ răng hoặc ngăn chặn xuất huyết khớp mới chớm50% đến 80% mức bình thường đối với chảy máu khớp nặng hoặc chảy máu trong cơ nặng100% trước khi phẫu thuật lớn hoặc nếu chảy máu nội sọ, trong tim, hoặc đe dọa tính mạngSau đó, cần truyền lặp lại liều tính toán ban đầu 8 giờ đến 12 giờ một lần để duy trì nồng độ đáy ở mức 50% đến 80% mức bình thường trong 7 ngày đến 14 ngày sau đại phẫu hoặc xuất huyết đe dọa tính mạng. Sau phẫu thuật thần kinh hoặc phẫu thuật tim, nồng độ đáy của yếu tố này phải được duy trì ở mức 100% mức bình thường trong 3 ngày đầu sau phẫu thuật. Mục tiêu là nồng độ đáy từ 80% đến 100% đối với ngày 4 đến ngày 7 sau mổ, sau đó là mục tiêu từ 50% đến 80% đối với ngày 8 đến ngày 14 sau mổ. Sau khi chảy máu nội sọ, nồng độ đáy của yếu tố phải được duy trì ở mức 100% mức bình thường trong 7 ngày đầu. Mục tiêu phải là 80% đến 100% đối với ngày 8 đến ngày 14 và 50% đến 80% đối với ngày 15 đến ngày 21. Sau khi chảy máu nội sọ, cần phải điều trị dự phòng yếu tố đó suốt đời. Mỗi đơn vị/kg của yếu tố VIII làm tăng mức độ VIII bởi khoảng 2%. Do đó, để tăng mức từ 0% đến 50%, cần khoảng 25 đơn vị/kg.Yếu tố VIII có thể được cung cấp dưới dạng cô đặc yếu tố VIII có nguồn gốc từ huyết tương đã được tinh chế, được lấy từ nhiều người hiến tặng. Sau đó, nó trải qua quá trình bất hoạt vi rút, nhưng việc bất hoạt có thể không loại bỏ được parvovirus hoặc vi rút viêm gan A. Yếu tố tái tổ hợp VIII không có vi rút và thường được ưa chuộng hơn.Ởbệnh máu khó đông B,yếu tố IX có thể được cung cấp dưới dạng sản phẩm bất hoạt vi rút tinh khiết hoặc tái tổ hợp 12 tiếng đến 24 tiếng một lần. Nồng độ mục tiêu điều chỉnh yếu tố giống như ở bệnh máu khó đông A. Tuy nhiên, để đạt được nồng độ này, liều phải cao hơn ở bệnh máu khó đông A vìyếu tố IXnhỏ hơn yếu tố VIII và trái ngược với yếu tố VIII, có phạm vi phân bổ rộng rãi ngoài mạch máu. Mỗi đơn vị/kgyếu tố IXlàm tăng nồng độyếu tố IXthêm 1%. Do phân bố ngoài mạch máu, liều ban đầu củayếu tố IXthường cao hơn 25% so với các liều tiếp theo.Huyết tương tươi đông lạnh có yếu tố VIII vàyếu tố IX. Tuy nhiên, trừ khi việc thay huyết tương được thực hiện, thường không thể cung cấp đủ huyết tương toàn phần cho bệnh nhân bị bệnh máu khó đông nặng để tăng yếu tố VIII hoặcyếu tố IXlên nồng độ ngăn ngừa hoặc kiểm soát chảy máu. Do đó, chỉ nên sử dụng huyết tương tươi đông lạnh nếu không có sẵn yếu tố cô đặc.Kết tủa lạnh chứa yếu tố VIII và có thể được sử dụng làm sản phẩm thay thế nếu không có sẵn yếu tố VIII cô đặc. Mỗi đơn vị kết tủa lạnh chứa 80 đơn vị yếu tố VIII. Vì huyết tương và chất kết tủa lạnh thường không bị bất hoạt về mặt vi rút, chỉ nên sử dụng các sản phẩm máu này trong trường hợp cấp cứu khi không có sẵn yếu tố cô đặc.Protein tổng hợp yếu tố tái tổ hợp VIII-Fc (1), protein tổng hợpyếu tố tái tổ hợp IX-Fc (2), yếu tố tái tổ hợp liên kết với polyethylen glycol (PEG) VIII (3) và yếu tố PEGylat hóa IX (4) đều có các thời gian sống thêm in vivo dài hơn và đã được báo cáo là kiểm soát chảy máu ở bệnh máu khó đông A và B.Đối với bệnh máu khó đông A, emicizumab, một kháng thể đơn dòng đặc hiệu kép tái tổ hợp được nhân hóa, gắn kết với cảyếu tố IXvàyếu tố X, đồng thời liên kết chúng thành một phức hợp hoạt động giống yếu tố Xase giúp loại bỏ nhu cầu về yếu tố VIII, là một phương pháp điều trị hiệu quả (5).Emicizumabđược tiêm dưới da 1, 2 hoặc 4 tuần một lần. Thuốc có chu kỳ bán hủy là 28 ngày.Các thuốc điều trị trong các thử nghiệm lâm sàng cho cả bệnh máu khó đông A và B bao gồm fitusiran và concizumab (6, 7). Fitusiran là một RNA ức chế nhỏ làm giảm sản xuất protein chống đông tự nhiên, antithrombin. Concizumab là một kháng thể đơn dòng được nhân hóa, ngăn chặn chất ức chế con đường yếu tố mô (TFPI), một loại protein chống đông máu tự nhiên khác và làm tăng quá trình sản sinhthrombintrong bệnh máu khó đông A và B.Liệu pháp gen sử dụng vectơ vi rút liên quan đến adeno (AAV) đã được chứng minh trong các thử nghiệm lâm sàng là mang lại sự biểu hiện yếu tố VIII vàyếu tố IXđược duy trì (8, 9). Hiện đang có một sản phẩm liệu pháp gen vector AAV điều trị bệnh máu khó đông B. Hiện đang có một liệu pháp gen vector AAV điều trị bệnh máu khó đông A (10).Cả VWF và yếu tố VIII đều được lưu trữ trong thể Weibel-Palade của tế bào nội mô và được tiết ra để đáp ứng với sự kích thích của tế bào nội mô (11). Do đó, liệu pháp bổ trợ cho bệnh máu khó đông A nhẹ có thể bao gồm kích thích in vivo các tế bào nội mô của bệnh nhân bằng thuốc tương tựvasopressintổng hợp DDAVP (deamino-D-argininevasopressin, còn được gọi là desmopressin). Như được mô tả đối vớibệnh von Willebrand,desmopressincó thể tạm thời làm tăng nồng độ yếu tố VIII. Cần kiểm tra đáp ứng của bệnh nhân trước khi sử dụngdesmopressintrong điều trị. Việc sử dụng nó sau chấn thương nhẹ hoặc trước khi phẫu thuật nha khoa theo lịch mổ phiên có thể làm giảm nhu cầu điều trị thay thế. Chỉ nên sử dụngdesmopressincho những bệnh nhân mắc bệnh máu khó đông A nhẹ (nồng độ yếu tố VIII cơ bản≥5%) đã chứng minh được khả năng đáp ứng.Một thuốc chống tiêu sợi huyết (axit aminocaproic hoặc axit tranexamic) cũng có thể được sử dụng làm liệu pháp bổ trợ trong bệnh máu khó đông A hoặc B để ức chế tiêu sợi huyết và ngăn ngừa chảy máu muộn sau khi nhổ răng hoặc sau chấn thương khác ở niêm mạc hầu họng (ví dụ: rách lưỡi).Tài liệu tham khảo về điều trị1.Mahlangu J, Powell JS, Ragni MV, et al: Phase 3 study of recombinant factor VIII Fc fusion protein in severe hemophilia A.Blood123:317–325, 2014.2.Powell JS, Pasi KJ, Ragni MV, et al: Phase 3 study of recombinantfactor IXFc fusion protein in hemophilia B.N Engl J Med369:2313–2323, 2013.3.Konkle BA, Stasyshyn O, Chowdary P, et al: Pegylated, full-length, recombinant factor VIII for prophylactic and on-demand treatment of severe hemophilia A.Blood126:1078–1085, 2015.4.Collins PW, Young G, Knobe K, et al. Recombinant long-acting glycoPEGylatedfactor IXin hemophilia B: A multinational randomized phase 3 trial.Blood124:3880–3886, 2014.5.Nuto A, Yoshihashi K, Takeda M, et al: Anti-factor IXa/X bispecific antibody (ACE910): Hemostatic potency against ongoing bleeds in a hemophilia A model and the possibility of routine supplementation.J Thromb Haemost12:206–213, 2014.6.Young G, Srivastava A, Kavakli K, et al. Efficacy and safety offitusiranprophylaxis in people with haemophilia A or haemophilia B with inhibitors (ATLAS-INH): a multicentre, open-label, randomised phase 3 trial.Lancet2023;401(10386):1427-1437. doi:10.1016/S0140-6736(23)00284-27.Shapiro AD, Angchaisuksiri P, Astermark J, et al. Subcutaneousconcizumabprophylaxis in hemophilia A and hemophilia A/B with inhibitors: phase 2 trial results.Blood2019;134(22):1973-1982. doi:10.1182/blood.20190015428.Perrin GQ, Herzog RW, Markusic DM. Update on clinical gene therapy for hemophilia.Blood2019;133(5):407-414. doi:10.1182/blood-2018-07-8207209.Samelson-Jones BJ, George LA. Adeno-Associated Virus Gene Therapy for Hemophilia.Annu Rev Med2023;74:231-247. doi:10.1146/annurev-med-043021-03301310.George LA: Hemophilia gene therapy comes of age.Blood Adv1:2591–2599, 2017.11.Turner NA and Moake JL: Factor VIII is synthesized in human endothelial cells, packaged in Weibel-Palade bodies and secreted bound to ULVWF strings.PLoS ONE10(10): e0140740, 2015.
+
+--- 6. Phòng ngừa Hemophilia ---
+
+Các thành viên trong gia đình là người mang mầm bệnh nên được xác định để họ có thể đượctư vấn về di truyền.Để ngăn ngừa chảy máu, bệnh nhân cần phải tránh dùngaspirinvà thuốc chống viêm không steroid (cả hai thuốc này đều ức chế chức năng tiểu cầu). Chăm sóc nha khoa thông thường là điều cần thiết để tránh nhổ răng và phẫu thuật nha khoa khác. Cần phải dùng thuốc theo đường uống hoặc theo đường tĩnh mạch; tiêm IM có thể gây tụ máu.Bệnh nhân mắc bệnh máu khó đông cần phải đượcchủng ngừa viêm ganA vàviêm gan B.
+
+--- 7. Những điểm chính ---
+
+Hemophilia là rối loạn di truyền do gen lặn trên nhiễm sắc thể X.Hemophilia A (chiếm khoảng 80% bệnh nhân hemophilia) liên quan đến thiếu hụt yếu tố VIII, và bệnh hemophilia B liên quan đến sự thiếu hụt yếu tố IX.Bệnh nhân bị chảy máu vào các mô sau những chán thương nhẹ (ví dụ, khớp, khối máu tụ trong cơ, xuất huyết sau phúc mạc), có thể xuất huyết nội sọ gây tử vong.Thời gian Thromboplastin một phần kéo dài nhưng thời gian prothrombin và số lượng tiểu cầu vẫn bình thường; xét nghiệm yếu tố VIII và IX xác định loại và mức độ nặng của bệnh máu khó đông.Những bệnh nhân bị chảy máu hoặc có thể bị chảy máu được (ví dụ, trước khi phẫu thuật hoặc nhổ răng) cần dược điều trị yếu tố thay thế, tốt hơn là sử dụng sản phẩm tái tổ hợp; liều phụ thuộc vào từng tình huống.Khoảng 30% bệnh nhân mắc bệnh hemophilia A cần truyền yếu tố VIII đã sinh kháng VIII.

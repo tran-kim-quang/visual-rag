@@ -1,0 +1,352 @@
+TIÊU ĐỀ: U xương ác tính nguyên phát
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-mô-cơ-xương-và-mô-liên-kết/u-xương-khớp/u-xương-ác-tính-nguyên-phát
+================================================================================
+
+NỘI DUNG:
+
+U xương ác tính nguyên phát
+
+Theo
+
+Lukas M. Nystrom
+
+,
+
+MD
+
+,
+
+Cleveland Clinic Lerner College of Medicine and Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 4 2025
+
+v910171_vi
+
+Các khối u xương nguyên phát ác tính ít phổ biến hơn các khối u xương di căn, đặc biệt ở người lớn. Các khối u xương ác tính nguyên phát bao gồm
+
+sarcoma xương
+
+,
+
+u nguyên bào tạo men
+
+,
+
+sarcoma sụn
+
+,
+
+u sụn
+
+,
+
+sarcoma Ewing của xương
+
+và khối u tế bào khổng lồ ác tính. (Xem thêm
+
+Tổng quan về bệnh lý u xương khớp
+
+và
+
+Tổng quan về bệnh lơ xê mi
+
+.)
+
+Đa u tủy
+
+xương và u lympho xương về mặt kỹ thuật cũng là khối u xương ác tính nguyên phát, nhưng các khối u này sẽ được thảo luận kỹ hơn trong bối cảnh bệnh di căn xương vì nguyên tắc điều trị giống nhau hơn nhiều.
+
+2 hệ thống được sử dụng rộng rãi nhất để phân giai đoạn các khối u này là
+
+The American Joint Committee on Cancer (AJCC) Cancer Staging Manual, Version 9: Đối với sarcoma xương, sarcoma sụn và sarcoma Ewing, việc phân giai đoạn dựa trên mô học khối u riêng biệt, mức độ ở mô học, kích thước khối u tối đa, thương tổn ở hạch và di căn (phân loại TNM). Sổ tay phân loại khối u thành 4 giai đoạn và được sử dụng để báo cáo dữ liệu ung thư. Đáng chú ý là hệ thống phân giai đoạn cập nhật có phân loại riêng cho sarcoma xương chậu và sarcoma cột sống, kết hợp thông tin liên quan đến số lượng đoạn xương chậu và đoạn cột sống bị ảnh hưởng.
+
+Hệ thống phân giai đoạn của Hiệp hội Ung thư Cơ xương (MSTS): Được các bác sĩ phẫu thuật chỉnh hình sử dụng dựa trên mức độ về mô học (ví dụ: Giai đoạn I: mô học mức độ thấp và Giai đoạn II: mô học mức độ cao, cho dù khối u có nằm hoàn toàn bên trong xương [A] hay đã vỡ ra ngoài vỏ xương vào mô mềm xung quanh [B] và di căn Giai đoạn III). Sarcoma xương điển hình (thông thường) có khối mô mềm liên quan mà không có di căn là Giai đoạn IIB trong hệ thống MSTS.
+
+Sarcom xương
+
+Sarcoma xương là u xương nguyên phát ác tính thường gặp nhất (nếu coi u tủy là u tế bào tủy chứ không phải u xương nguyên phát) và có tính ác tính cao. Bệnh này thường gặp nhất ở trẻ em và thanh thiếu niên, mặc dù có thể xảy ra ở mọi lứa tuổi. Có 2 đỉnh tỷ lệ mắc mới; tỷ lệ mắc mới cao nhất ở thanh thiếu niên và người trưởng thành rất trẻ (trùng với giai đoạn tăng trưởng đột biến ở tuổi vị thành niên) và đỉnh thứ phát xảy ra ở người cao tuổi (≥ 60 tuổi), đặc biệt ở những người có các yếu tố nguy cơ như bệnh Paget, nhồi máu xương và các vùng xương đã từng tiếp xúc với liệu pháp xạ trị liều cao để điều trị một loại ung thư khác nhiều năm trước đó. Trẻ em mang gen gây bệnh u nguyên bào võng mạc di truyền (các biến thể của gen
+
+RB1
+
+) và hội chứng Li-Fraumeni (gen
+
+TP53
+
+) có nguy cơ cao hơn bị sarcoma xương.
+
+Sarcom xương tạo ra các tế bào xương ác tính (chưa biệt hóa) từ các tế bào u xương. Sarcom xương thường phát triển quanh đầu gối (thường gặp đầu xa xương đùi hơn là đầu gần xương chày) hoặc trong các xương dài, đặc biệt là ở khu vực đầu xương - thân xương, có thể di căn, thường di căn tới phổi hoặc các xương khác. Đau, sưng/khối u và mất vận động khớp là những triệu chứng thông thường.
+
+Sarcom xương
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Lukas Nystrom cung cấp.
+
+Đặc điểm tổn thương trên các phương pháp chẩn đoán hình ảnh rất đa dạng và có thể bao gồm các đặc điểm của xơ và tiêu xương. Chẩn đoán sarcom xương dựa vào sinh thiết. Bệnh nhân cần chụp CT ngực để đánh giá di căn phổi và chụp xương toàn thân bằng phương pháp hạt nhân để đánh giá di căn xương. Chụp MRI được thực hiện trên toàn bộ chi có thương tổn để đánh giá các tổn thương khác thì (hoặc "tổn thương nhảy cóc"). PET-CT cũng có thể cho thấy di căn xa hoặc tổn thương khác thì và là một phương thức phân giai đoạn phát triển.
+
+Điều trị sarcom xương bằng hóa chất kết hợp với phẫu thuật. Sử dụng hóa trị liệu bổ trợ làm tăng thời gian sống thêm từ
+
+<
+
+20% đến
+
+>
+
+65% ở thời điểm 5 năm đối với bệnh nhân có biểu hiện bệnh khu trú (
+
+1
+
+). Hóa trị trước phẫu thuật được bắt đầu sử dụng trước bất cứ cuộc phẫu thuật cắt bỏ nào. Mục tiêu là điều trị bệnh di căn vi thể ở giai đoạn đầu được cho là có ngay cả khi không thấy trên các kiểm tra chẩn đoán hình ảnh theo phân giai đoạn. Giảm khối lượng khối u mô mềm ngoại biên (trên hình ảnh), tăng khoáng hóa (trên phim chụp X-quang), giảm đau và giảm nồng độ phosphatase kiềm trong huyết thanh đều là những chỉ báo cho thấy đáp ứng thuận lợi. Cuối cùng, đáp ứng với hóa trị liệu được xác định tại thời điểm cắt bỏ bằng phẫu thuật với việc lập bản đồ mô học của mẫu vật cắt bỏ bởi bác sĩ giải phẫu bệnh. Một phát hiện tiên lượng tích cực là
+
+>
+
+95% hoại tử khối u trên bản đồ mô học của mẫu được cắt bỏ do bác sĩ giải phẫu bệnh lập ra. Mục tiêu của phẫu thuật là cắt bỏ khối u – bao gồm tất cả các mô phản ứng xung quanh và một phần mô bình thường xung quanh – toàn bộ, để tránh tình trạng tràn tế bào khối u dưới kính hiển vi. Hoại tử và rìa phẫu thuật có vai trò vô cùng quan trọng đối với kết quả điều trị của bệnh nhân. Nếu không thể đạt được việc để rìa không có khối u bằng phẫu thuật giữ lại chi, nên cân nhắc cắt cụt chi.
+
+Trên 85% bệnh nhân có thể điều trị bằng phẫu thuật cắt cụt chi mà không làm giảm tỷ lệ sống sót lâu dài.
+
+Tiếp tục điều trị hóa chất sau phẫu thuật là cần thiết. Nếu có hoại tử khối u gần như hoàn toàn (>90%) do hóa trị trước phẫu thuật, tỷ lệ có thời gian sống thêm 5 năm được báo cáo là 70% đến 74% (
+
+2
+
+). Bệnh di căn giới hạn (ví dụ: di căn ít) vào phổi có thể được điều trị bằng phẫu thuật mở ngực và cắt bỏ bằng kỹ thuật wedge phần tổn thương phổi.
+
+Các biến thể của sarcom xương khác với sarcom xương cổ điển và là biến thể ít gặp hơn thường bao gồm các tổn thương bề mặt vỏ sarcom, như xương lớp ngoài và lớp trong của màng xương. Sarcoma xương mặt ngoài màng xương thường làm thương tổn lớp vỏ xương sau của xương đùi đầu xa và thường ở mức độ thấp. Sarcoma xương mặt ngoài màng xương cần phải phẫu thuật cắt bỏ toàn bộ nhưng không cần hóa trị nếu xét nghiệm mô học của mẫu cắt bỏ xác nhận khối u ở mức độ thấp.
+
+U xương màng xương là một khối u bề mặt chất nền sụn cũng chứa chất nền xương và là ác tính. Vị trí thường nằm ở giữa thân xương đùi và xuất hiện dưới dạng tia nắng trên phim chụp X-quang. Khả năng di căn của sarcoma xương quanh màng xương cao hơn nhiều so với sarcoma xương mặt ngoài màng ngoài xương, nhưng lại thấp hơn một chút so với sarcoma xương thông thường. Hầu hết các trường hợp sarcom xương lớp trong vỏ xương được điều trị tương tự như sarcom xương cổ điển bằng hóa chất và phẫu thuật loại bỏ khối u.
+
+U nguyên bào tạo men
+
+U nguyên bào tạo men rất hiếm gặp (< 1% số khối u xương ác tính) và thường phát triển ở xương chày, đôi khi thương tổn ở xương mác. Bệnh có thể xảy ra ở mọi lứa tuổi, nhưng thường xảy ra ở những người trẻ tuổi và trung niên. U nguyên bào tạo men là bệnh ác tính phát triển chậm, thường biểu hiện bằng đau và có thể sờ thấy khối u.
+
+U nguyên bào tạo men
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael J. Joyce, và bác sĩ Hakan Ilaslan cung cấp.
+
+Tổn thương thường biểu hiện ở mào trước xương chày và phim chụp X-quang cho thấy biểu hiện tiêu xương dạng "bong bóng xà phòng". Biểu hiện về mô học là dạng hai pha của các ổ tế bào biểu mô trên nền mô xơ. Các tế bào khối u nhuộm dương tính với keratin. Tổn thương này có thể bị nhầm lẫn với loạn sản xương xơ ở vỏ xương chày trước, đây là một bệnh lành tính. Có khả năng là loạn sản xơ xương ở vỏ xương chày trước nằm trong cùng phổ bệnh với u nguyên bào tạo men (
+
+3
+
+) và có thể là tổn thương tiền thân, nhưng không có thành phần biểu mô đặc trưng cho tình trạng ác tính.
+
+Di căn có thể xảy ra, chủ yếu là ở phổi, nhưng rất hiếm gặp.
+
+Điều trị u nguyên bào tạo men bao gồm cắt bỏ rộng và tái tạo lại phần khuyết. Đôi khi, cắt cụt chi là cần thiết nếu không thể đạt được bờ phẫu thuật âm tính hoặc nếu khiếm khuyết kết quả không thể tái tạo được.
+
+Sarcom sụn
+
+Sarcoma sụn là khối u ác tính hình thành sụn. Phần lớn sarcoma sụn là khối u nguyên phát. Các khối u này cũng có thể phát sinh thứ phát và liền kề với u sụn lành tính hoặc u xương sụn hiện có, đặc biệt là u nội sụn (ví dụ: trong bệnh Ollier và hội chứng Maffucci) hoặc nhiều lồi xương di truyền (MHE). Sarcoma sụn thường xảy ra ở người cao tuổi và trung niên. Các khối u này có thể phát triển ở xương dẹt (ví dụ: xương chậu, xương bả vai) hoặc bất kỳ xương dài nào (thường gặp nhất là xương đùi và xương cánh tay trong số các xương dài) và có thể có một thành phần mở rộng vào các mô mềm xung quanh.
+
+Ung thư sụn của xương cánh tay
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael J. Joyce, và bác sĩ Hakan Ilaslan cung cấp.
+
+X-quang thường cho thấy vôi hóa chấm trong chất nền của khối u. Lượng vôi hóa có thể thay đổi. Sarcom sụn cũng thường gây phá vỡ vỏ xương là mất các bè xương bình thường. Chụp MRI có thể chứng minh mức độ tổn thương tủy hoàn toàn và cũng chứng minh khối u ở mô mềm, nếu có. Chụp xương nên được thực hiện để hoàn tất việc đánh giá giai đoạn, tìm kiếm các vị trí tiềm ẩn khác của bệnh xương. Mặc dù sarcom sụn thường được chẩn đoán dễ dàng chỉ dựa trên các dấu hiệu X-quang, sinh thiết có lợi ích khi chẩn đoán nghi ngờ và cũng có thể hỗ trợ việc xác định mức độ của khối u (khả năng di căn) nếu thông tin đó hữu ích để thông báo các phương pháp điều trị thay thế. Tuy nhiên, cần lưu ý rằng thường rất khó để phân biệt sarcoma sụn mức độ thấp với
+
+u nội sụn
+
+bằng chẩn đoán hình ảnh và mô học (
+
+4
+
+).
+
+Sarcom sụn nội tủy mức độ thấp (mức độ 1) thường được điều trị bằng nạo nội tổn thương bằng cách bổ sung một chất bổ trợ (nhiệt hoặc hóa chất). Một số bác sĩ phẫu thuật ưu tiên phương pháp phẫu thuật cắt bỏ khối u giai đoạn sớm để làm giảm nguy cơ tái phát. Các khối u mức độ trung bình hoặc mức độ cao cần phải điều trị tích cực hơn dưới dạng cắt bỏ rộng. Khi phẫu thuật cắt bỏ kèm theo việc duy trì chức năng là không thể hoặc nếu không thể có được đủ bờ viền, có thể cần phải cắt cụt chi. Không có liệu pháp nào khác được cho là có hiệu quả chống lại sarcoma sụn. Do có khối u có khả năng di căn nên cần phải tiến hành một cách thận trọng để tránh sự lan rộng của các tế bào u vào các mô mềm khi sinh thiết hoặc phẫu thuật. Tái phát là không thể tránh khỏi nếu các tế bào u lan tràn. Nếu không có hiện tượng di căn, tỷ lệ điều trị khỏi phụ thuộc vào giai đoạn của khối u. Các khối u giai đoạn sớm gần như được chữa khỏi hoàn toàn nếu được điều trị thích hợp. Do những khối u này có ít mạch máu nên hóa trị liệu và xạ trị ít có hiệu quả.
+
+U sụn
+
+U nguyên sống là một loại ung thư hiếm gặp phát triển từ phần còn lại của dây sống nguyên thủy. Xu hướng xuất hiện ở cuối cột sống, thường ở giữa xương cùng hoặc gần nền xương sọ. U nguyên sống ở vùng xương cùng cụt thường gây đau dữ dội. U nguyên sống ở đáy hộp sọ có thể gây ra tình trạng thiếu hụt ở dây thần kinh sọ, thường gặp nhất là dây thần kinh thị giác. Các triệu chứng của u sụn có thể tồn tại vài tháng tới vài năm trước khi được chẩn đoán.
+
+U sụn
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael J. Joyce, và bác sĩ Hakan Ilaslan cung cấp.
+
+Một u nguyên sống xuất hiện trên các nghiên cứu chẩn đoán hình ảnh là một tổn thương phá hủy xương có thể liên quan đến một khối mô mềm. Hình ảnh này có thể được quan sát tốt nhất bằng chụp MRI hoặc chụp CT do thành phần mô mềm chiếm ưu thế. Cần phải sinh thiết để xác nhận chẩn đoán. Loại tế bào đặc trưng bệnh là tế bào bọng; đặc điểm của các tế bào này là rất lớn, có nhân tròn nhỏ và tế bào chất trông giống như bọt khí.
+
+U nguyên sống ở vùng xương cùng cụt có thể được chữa khỏi bằng cách cắt bỏ toàn bộ khối u triệt căn, có hoặc không có xạ trị bổ trợ. Phẫu thuật gần như chắc chắn cần phải hy sinh tất cả các rễ thần kinh ở mức độ từ thương tổn trở xuống. Tùy thuộc vào mức độ thương tổn của khối u, phẫu thuật được đề xuất có tỷ lệ mắc bệnh đáng kể do mất chức năng đại tiện, chức năng tiểu tiện và/hoặc chức năng tình dục (
+
+5
+
+). Nếu phẫu thuật được cho là quá nguy hiểm, xạ trị có mục đích chữa khỏi bệnh có thể được áp dụng thay thế. U sụn tại vùng nền sọ thường không tiếp cận được bằng phẫu thuật nhưng có thể đáp ứng với điều trị xạ trị. Tỷ lệ tái phát tại chỗ cao sau khi cắt bỏ khối u. Di căn, mặc dù ít phổ biến hơn, có thể xảy ra.
+
+Sarcom Ewing của xương
+
+Sarcom Ewing của xương là một khối u xương tế bào tròn nhỏ màu xanh dương thường gặp nhất ở độ tuổi từ 10 đến 20 tuổi. Sarcoma Ewing có liên quan đến khối u thần kinh ngoại biên nguyên thủy (PNET) và khối u tế bào nhỏ ác tính Askin ở thành ngực, hiện được coi là một phần của nhóm khối u sarcoma Ewing. Hầu hết các khối u phát triển ở các chi, nhưng có thể gặp ở bất cứ vị trí nào của xương. Sarcoma Ewing thường làm thương tổn vùng thân xương và đôi khi lan đến vùng hành xương. Đau và sưng là những triệu chứng thường gặp nhất.
+
+Sarcoma Ewing của xương quay
+
+Hình ảnh
+
+ZEPHYR/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Phá hủy do tiêu xương, đặc biệt là dạng thấm, là dấu hiệu phổ biến nhất trên hình ảnh, nhưng nhiều lớp hình thành xương mới dạng phản ứng dưới màng xương có thể có biểu hiệu giống như vỏ hành. Phim chụp X-quang thường không cho thấy toàn bộ mức độ tổn thương xương và thường có một khối u lớn ở mô mềm bao quanh xương bị thương tổn. MRI đánh giá mức độ tổn thương tốt hơn và có thể giúp lựa chọn phương pháp điều trị.
+
+Nhiều bệnh lý khối u lành tính và ác tính có thể có các dấu hiệu tương tự, do đó chẩn đoán sarcom Ewing dựa trên kết quả sinh thiết. Một số trường hợp khối u có thể bị nhầm lẫn với một bệnh nhiễm khuẩn. Chẩn đoán mô học chính xác có thể được thực hiện bằng phân tích tế bào di truyền và xác định các chất chỉ điểm phân tử, bao gồm đánh giá sự chuyển vị nhiễm sắc thể điển hình giữa nhiễm sắc thể 11 và nhiễm sắc thể 22 dẫn đến sản phẩm dung hợp
+
+EWSR1-FLI1
+
+. Sản phẩm dung hợp này có mặt trong khoảng 85% số trường hợp; tuy nhiên, một số sự chuyển vị cấu trúc khác nhau trong các kiểu gen dung hợp khác nhau đã được xác định (
+
+6
+
+).
+
+Sarcom Ewing của xương
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael J. Joyce, và bác sĩ Hakan Ilaslan cung cấp.
+
+Điều trị sarcoma Ewing bao gồm hóa trị và phẫu thuật có hoặc không có xạ trị. Hiện nay,
+
+>
+
+60% số bệnh nhân mắc sarcoma Ewing khu trú nguyên phát có thể được chữa khỏi bằng phương pháp đa phương thức này (
+
+7
+
+). Một vài trường hợp di căn cũng được điều trị khỏi. Hóa trị kết hợp với cắt bỏ toàn bộ khối u bằng phẫu thuật, nếu có thể, có tỷ lệ tái phát tại chỗ thấp hơn hóa trị kết hợp với xạ trị, mặc dù những khác biệt này là nhỏ và phải được cân nhắc so với tỷ lệ mắc bệnh của phẫu thuật cắt bỏ. Thông thường, phẫu thuật được ưu tiên khi có thể.
+
+U lympho của xương
+
+U lympho xương chủ yếu ảnh hưởng đến người lớn. Phân nhóm điển hình là u lympho tế bào B lớn lan tỏa. Nó có thể xuất hiện ở bất cứ xương nào. Khối u chủ yếu bao gồm các tế bào tròn nhỏ, thường có hỗn hợp các tế bào lưới, tế bào lympho và tế bào lympho. Bệnh có thể phát triển dưới dạng một khối u xương nguyên phát riêng biệt, kết hợp với các khối u tương tự ở các mô khác hoặc như một di căn từ bệnh u lympho mô mềm đã biết. Đau và sưng là các triệu chứng thường gặp của u lympho xương. Gãy xương bệnh lý có thể là triệu chứng biểu hiện.
+
+U lympho ở xương
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael J. Joyce, và bác sĩ Hakan Ilaslan cung cấp.
+
+Các nghiên cứu chẩn đoán hình ảnh cho thấy phá hủy xương, có thể ở dạng lốm đốm hoặc loang lổ hoặc thậm chí thâm nhiễm, dạng thấm, thường có một khối mô mềm lớn trên lâm sàng và trên phim X-quang. Trong nhiều trường hợp, mức độ tổn thương mô mềm và tổn thương tủy xương được ghi nhận trên phim chụp MRI sẽ rất đáng kể khi so sánh với những thay đổi quan sát thấy trên các phim chụp X-quang. Tuy nhiên, khi bệnh tiến triển, toàn bộ phần xương bị thương tổn có thể bị mất.
+
+Phân nhóm mô học phổ biến nhất là u lympho tế bào B lớn lan tỏa. Trong u lympho tế bào B khuếch tán xương nguyên phát biệt lập, tỷ lệ có thời gian sống thêm 5 năm là 88% (
+
+8
+
+).
+
+U lympho xương thường được điều trị bằng hóa trị liệu toàn thân. Xạ trị có thể được sử dụng như một loại bổ trợ trong một số trường hợp nếu thấy đáp ứng X quang không đầy đủ sau khi hóa trị. Có thể cần phải cố định xương dài để ngăn ngừa hoặc điều trị gãy xương bệnh lý. Đôi khi, phẫu thuật thay khớp là cần thiết để điều trị gãy xương bệnh lý không thể cứu chữa gần đầu xương.
+
+Tài liệu tham khảo
+
+1.
+
+Link MP, Goorin AM, Horowitz M, et al
+
+. Adjuvant chemotherapy of high-grade osteosarcoma of the extremity. Updated results of the Multi-Institutional Osteosarcoma Study.
+
+Clin Orthop Relat Res.
+
+1991;(270):8-14.
+
+2.
+
+Richardson SM, Wurtz LD, Collier CD
+
+. Ninety Percent or Greater Tumor Necrosis Is Associated With Survival and Social Determinants of Health in Patients With Osteosarcoma in the National Cancer Database.
+
+Clin Orthop Relat Res.
+
+Ngày 1 tháng 3 năm 2023;481(3):512-522. doi: 10.1097/CORR.0000000000002380. Xuất bản điện tử ngày 13 tháng 9 năm 2022. PMID: 36099400; PMCID: PMC9928876.
+
+3.
+
+Nascimento AF, Kilpatrick SE, Reith JD
+
+. Osteofibrous Dysplasia and Adamantinoma.
+
+Surg Pathol Clin.
+
+2021;14(4):723-735. doi:10.1016/j.path.2021.06.012
+
+4.
+
+Skeletal Lesions Interobserver Correlation among Expert Diagnosticians (SLICED) Study Group
+
+. Reliability of histopathologic and radiologic grading of cartilaginous neoplasms in long bones.
+
+J Bone Joint Surg Am.
+
+2007;89(10):2113-2123. doi:10.2106/JBJS.F.01530
+
+5.
+
+Moran D, Zadnik PL, Taylor T, et al
+
+. Maintenance of bowel, bladder, and motor functions after sacrectomy.
+
+Spine J.
+
+2015;15(2):222-229. doi:10.1016/j.spinee.2014.08.445
+
+6.
+
+Riggi N, Suvà ML, Stamenkovic I
+
+. Ewing's Sarcoma. Reply.
+
+N Engl J Med.
+
+2021;384(15):1477-1478. doi:10.1056/NEJMc2102423
+
+7.
+
+Cotterill SJ, Ahrens S, Paulussen M, et al
+
+. Prognostic factors in Ewing's tumor of bone: analysis of 975 patients from the European Intergroup Cooperative Ewing's Sarcoma Study Group.
+
+J Clin Oncol.
+
+2000;18(17):3108-3114. doi:10.1200/JCO.2000.18.17.3108
+
+8.
+
+Beal K, Allen L, Yahalom J
+
+. Primary bone lymphoma: treatment results and prognostic factors with long-term follow-up of 82 patients.
+
+Cancer.
+
+Ngày 15 tháng 6 năm 2006;106(12):2652-6. doi: 10.1002/cncr.21930. PMID: 16700039.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

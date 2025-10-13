@@ -1,0 +1,307 @@
+TIÊU ĐỀ: Điều trị nhiễm HIV bằng thuốc kháng vi rút
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-rút-gây-suy-giảm-miễn-dịch-ở-người-hiv/điều-trị-nhiễm-hiv-bằng-thuốc-kháng-vi-rút
+================================================================================
+
+NỘI DUNG:
+
+Điều trị nhiễm HIV bằng thuốc kháng vi rút
+
+Theo
+
+Edward R. Cachay
+
+,
+
+MD, MAS
+
+,
+
+Mayo Clinic, Arizona
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v37664208_vi
+
+Bởi vì các biến chứng liên quan đến bệnh có thể xảy ra ở những bệnh nhân không được điều trị có số lượng CD4 cao và do các loại thuốc ít độc hơn đã được phát triển nên việc điều trị bằng liệu pháp kháng retrovirus (ART) hiện được khuyến nghị cho tất cả bệnh nhân. Lợi ích của ART cao hơn là rủi ro trong mỗi nhóm bệnh nhân và các phác đồ đã được nghiên cứu cẩn thận.
+
+ART nhằm mục đích
+
+Giảm mức RNA HIV trong huyết tương xuống mức không phát hiện được (nghĩa là < 20 đến 50 bản sao/mL)
+
+Khôi phục lại lượng CD4 đến một mức bình thường (phục hồi miễn dịch hoặc tái tạo)
+
+ART thường có thể đạt được mục tiêu nếu bệnh nhân dùng thuốc
+
+>
+
+95% thời gian.
+
+Nếu điều trị thất bại, xét nghiệm độ nhạy cảm (kháng thuốc) có thể xác định tính nhạy cảm của chủng HIV chiếm ưu thế đối với tất cả các loại thuốc hiện có. Các xét nghiệm gen cũng có thể hữu ích.
+
+Nhiều bệnh nhân nhiễm HIV đang dùng các phác đồ phức tạp bao gồm nhiều loại thuốc. Với sự sẵn có của các loại thuốc điều trị HIV đồng công thức mới, nhiều bệnh nhân có thể được hưởng lợi từ việc đơn giản hóa phác đồ điều trị ARV của họ, được hướng dẫn bằng
+
+xét nghiệm kiểu gen lưu trữ DNA của HIV
+
+.
+
+(Xem thêm
+
+Điều trị
+
+nhiễm vi rút gây suy giảm miễn dịch ở người [HIV].)
+
+Phân nhóm các thuốc kháng retrovirus
+
+Nhiều loại thuốc kháng vi rút được sử dụng trong điều trị ARV. Hai nhóm ức chế sự xâm nhập của HIV, và những nhóm khác ức chế một trong 3 enzym HIV cần trong sự nhân lên trong tế bào người; 3 nhóm ức chế sao chép ngược bằng cách ngăn chặn ARN polymerase phụ thuộc RNA hoặc phụ thuộc DNA.
+
+Chất ức chế men sao chép ngược nucleoside (NRTIs)
+
+được phosphoryl hóa thành các chất chuyển hóa hoạt động cạnh tranh để kết hợp vào DNA vi rút. Chúng ức chế enzym phiên mã ngược của HIV và kết thúc quá trình tổng hợp chuỗi DNA.
+
+Chất ức chế men sao chép ngược nucleotide (nRTIs)
+
+ức chế cạnh tranh men sao chép ngược HIV, cũng như các NRTI, nhưng không đòi hỏi sự phosphoryl ban đầu.
+
+Các chất ức chế men sao chép ngược không phải nucleoside (NNRTI)
+
+liên kết trực tiếp với men sao chép ngược.
+
+Thuốc ức chế Protease (PI)
+
+ức chế men protease của vi rút rất quan trọng đối với sự trưởng thành của virion HIV chưa trưởng thành sau khi chúng nảy từ tế bào chủ.
+
+Chất ức chế xâm nhập (EIs),
+
+đôi khi được gọi là chất ức chế hoà màng, cản trở sự gắn kết của HIV đối với các thụ thể CD4+ và các đồng thụ thể chemokine; sự gắn này là cần thiết cho HIV xâm nhập vào tế bào. Ví dụ, các chất ức chế CCR-5 ngăn chặn thụ thể CCR-5.
+
+Chất ức chế sau khi gắn
+
+liên kết với thụ thể CD4 và ngăn ngừa HIV (cũng liên kết với thụ thể CD4) vào tế bào.
+
+Các thuốc ức chế chuyển chuỗi tích hợp
+
+ngăn chặn DNA HIV được tích hợp vào DNA của con người.
+
+Các thuốc ức chế sự gắn kết
+
+liên kết trực tiếp với glycoprotein 120 (gp120) trong vỏ virus, gần với vị trí gắn kết CD4+, ngăn chặn sự thay đổi cấu trúc cần thiết cho tương tác ban đầu giữa vi rút và các thụ thể bề mặt trên tế bào CD4, do đó ngăn cản sự gắn kết và sự xâm nhập tiếp theo vào vật chủ T tế bào và các tế bào miễn dịch khác.
+
+Các thuốc ức chế bao capsid
+
+can thiệp vào vỏ protein (vỏ bọc HIV) bảo vệ vật liệu di truyền và các enzym cần thiết cho quá trình sao chép của HIV.
+
+Phác đồ điều trị kháng retrovirus
+
+Phối hợp 2, 3 hoặc 4 loại thuốc từ các nhóm khác nhau thường cần thiết để ngăn chặn hoàn toàn sự nhân lên của HIV loại hoang dã. Các loại thuốc đặc hiệu được lựa chọn dựa trên những điều sau đây:
+
+Tác dụng phụ dự kiến
+
+Tính đơn giản của phác đồ
+
+Bệnh lý nền kèm theo (ví dụ rối loạn chức năng gan hoặc thận)
+
+Các thuốc khác đang dùng (để tránh tương tác thuốc)
+
+Để tối đa hóa sự tuân thủ, bác sĩ lâm sàng nên chọn một chế độ điều trị hợp lý, dung nạp tốt, sử dụng một lần/ngày (tốt hơn) hoặc dùng liều hai lần/ngày. Hướng dẫn của hội đồng chuyên gia về việc bắt đầu, lựa chọn, chuyển đổi và tạm dừng liệu pháp cũng như các vấn đề đặc biệt liên quan đến việc điều trị cho phụ nữ và trẻ em thay đổi thường xuyên và được cập nhật trên trang web của Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ,
+
+HIVinfo.NIH.gov
+
+.
+
+Viên nén có dạng phối hợp cố định của ≥ 2 loại thuốc hiện được sử dụng rộng rãi để đơn giản hóa phác đồ và cải thiện sự tuân thủ điều trị.
+
+Có thể sử dụng viên nén phối hợp cố định một loại thuốc với cobicistat, một chất tăng cường dược động học không có hoạt tính chống HIV để tăng lượng thuốc có hoạt tính HIV trong máu.
+
+Tác dụng phụ với thuốc kết hợp cũng tương tự như đối với từng loại thuốc.
+
+Thuốc tiêm bắp tác dụng kéo dài
+
+Phác đồ này bao gồm 2 thuốc kháng retrovirus với công thức bào chế dạng hỗn dịch tác dụng kéo dài: rilpivirine, NNRTI (thuốc ức chế men sao chép ngược không nucleoside) và thuốc ức chế integrase cabotegravir. Phác đồ có thể được dùng dưới dạng tiêm bắp 2 tháng một lần. Bệnh nhân nhiễm HIV muốn xem xét phác đồ tiêm này phải là người trưởng thành đang áp dụng phác đồ ổn định và bị ức chế về mặt vi rút học (tải lượng vi rút HIV-1 < 50 bản sao trên mililit) và không có tiền sử thất bại điều trị và không có dấu hiệu kháng thuốc hoặc nghi ngờ kháng rilpivirine hoặc cabotegravir. Bệnh nhân bị
+
+nhiễm viêm gan B
+
+đang hoạt động thường bị loại trừ vì phác đồ này không có phổ điều trị viêm gan B. Bệnh nhân thường bắt đầu điều trị bằng cabotegravir và rilpivirine đường uống trong 4 tuần để đánh giá mức độ dung nạp thuốc của họ. Các tác dụng bất lợi thường gặp là đau tại chỗ tiêm, sốt nhẹ và đau đầu. Phản ứng quá mẫn sau khi tiêm là rất hiếm. Phác đồ tiêm tác dụng kéo dài này vẫn còn được sử dụng hạn chế ở những nơi trên thế giới có gánh nặng HIV cao nhất.
+
+Các tương tác thuốc
+
+Tương tác giữa thuốc kháng retrovirus có thể làm tăng hoặc giảm hiệu quả.
+
+Ví dụ, hiệu quả có thể tăng lên bằng cách kết hợp liều thấp của ritonavir (100 mg x 1 lần/ngày) với thuốc ức chế protease (PI) khác (ví dụ darunavir, atazanavir). Ritonavir ức chế men gan để chuyển hóa PI khác. Bằng cách làm chậm quá trình thanh thải PI ở liều điều trị, ritonavir làm tăng nồng độ của các thuốc khác, duy trì mức tăng lâu hơn, giảm khoảng cách dùng thuốc và tăng hiệu quả. Một ví dụ khác là lamivudine (3TC) cộng với zidovudine (ZDV). Việc sử dụng một trong hai loại thuốc là đơn trị liệu một cách nhanh chóng dẫn đến kháng thuốc, nhưng đột biến tạo kháng thuốc khi đáp ứng 3TC làm tăng tính nhạy cảm của HIV đối với ZDV. Do đó, khi được sử dụng cùng nhau, chúng có tính hiệp lực.
+
+Ngược lại, phối hợp một số thuốc kháng retrovirus (ví dụ: ZDV và stavudine [d4T]) có thể làm giảm hiệu quả của mỗi loại thuốc. Tuy nhiên, những dạng phối hợp này không còn được sử dụng trong thực hành lâm sàng nữa.
+
+Việc phối hợp các loại thuốc thường làm tăng nguy cơ một trong hai loại thuốc sẽ có tác dụng bất lợi. Các cơ chế khả thi bao gồm:
+
+Chuyển hóa tại gan của PI bằng cytochrome P-450: Kết quả là giảm quá trình trao đổi chất (và tăng nồng độ) của các loại thuốc khác.
+
+Độc tính phụ: Ví dụ: phối hợp các NRTI thế hệ đầu tiên, chẳng hạn như d4T và didanosine (ddI), làm tăng cơ hội có tác dụng bất lợi về chuyển hoá và bệnh lý thần kinh ngoại biên. Ngoài ra, sử dụng tenofovir disoproxil fumarate (TDF) trong phác đồ tăng cường ritonavir sẽ làm tăng nồng độ tenofovir disoproxil trong huyết tương và gây rối loạn chức năng thận ở những bệnh nhân nhạy cảm mắc một số bệnh đi kèm.
+
+Nhiều loại thuốc có thể ảnh hưởng đến thuốc kháng retrovirus. Chống chỉ định dùng bictegravir dạng phối hợp khi dùng đồng thời với thuốc điều trị bệnh lao có rifampin hoặc rifabutin. Nồng độ bictegravir giảm quá nhiều do sự hiện diện của tác dụng gây cảm ứng của rifampin/rifabutin và dẫn đến nguy cơ thất bại do vi rút HIV. Tương tác với các loại thảo mộc hoặc chất bổ sung cũng có thể xảy ra, ví dụ:
+
+cỏ St. John
+
+có thể tăng cường chuyển hóa PI và NNRTI và do đó làm giảm nồng độ PI và NNRTI trong huyết tương. Do đó, phải luôn kiểm tra các tương tác trước khi bắt đầu sử dụng bất kỳ loại thuốc mới nào (xem
+
+Hướng dẫn sử dụng thuốc kháng retrovirus ở người lớn và thanh thiếu niên nhiễm HIV-1: Tương tác thuốc-thuốc)
+
+.
+
+Tác dụng phụ của thuốc kháng retrovirus
+
+Thuốc kháng vi rút retro có thể có tác dụng bất lợi nghiêm trọng. Một số trong những tác dụng này, đặc biệt là thiếu máu, viêm gan, suy thận, viêm tụy và không dung nạp glucose, có thể được phát hiện bằng xét nghiệm máu trước khi có triệu chứng. Bệnh nhân cần được sàng lọc thường xuyên, cả lâm sàng và xét nghiệm thích hợp (công thức máu, xét nghiệm máu để phát hiện tăng đường huyết, tăng lipid máu, tổn thương gan và tuyến tụy, chức năng thận, phân tích nước tiểu), đặc biệt là sau khi bắt đầu dùng các loại thuốc mới hoặc khi có các triệu chứng không rõ nguyên nhân.
+
+Tác dụng chuyển hóa
+
+bao gồm các hội chứng liên quan đến sự phân bố mỡ, tăng lipid máu, và kháng
+
+insulin
+
+. Mỡ dưới da thường được phân bổ lại từ mặt và các chi đến thân, cổ, hai vú và bụng – một hiệu ứng thẩm mỹ (gọi là loạn dưỡng mỡ) có thể khiến bệnh nhân bị kỳ thị và gây đau khổ. Điều trị các vết rạn nếp trên mặt với các chất collagen hoặc polylactic tiêm có thể có lợi.
+
+Tăng cân, béo phì vùng trung tâm, tăng lipid máu và kháng
+
+insulin
+
+, cùng tạo thành
+
+hội chứng chuyển hóa
+
+, làm tăng nguy cơ nhồi máu cơ tim, đột quỵ và sa sút trí tuệ.
+
+Thuốc kháng siêu vi từ tất cả các nhóm dường như đều có ảnh hưởng, nhưng các PI có liên quan nhất. Một số loại thuốc ART cũ hơn, chẳng hạn như ritonavir và d4T, thường có tác dụng chuyển hóa. Các thuốc khác, như tenofovir disoproxil fumarate, etravirine, atazanavir hoặc darunavir (ngay cả khi kết hợp với ritonavir liều thấp), raltegravir, và maraviroc, dường như có ảnh hưởng ít đến tối thiểu với nồng độ lipid.
+
+Có nhiều cơ chế gây rối loạn chuyển hóa; một trong số đố là nhiễm độc ty thể. Nguy cơ ảnh hưởng đến chuyển hóa (cao nhất với PI) và độc tính ty thể (cao nhất với NRTI) thay đổi tùy theo nhóm thuốc và trong các nhóm thuốc (ví dụ: trong số các NRTI, cao nhất với d4T).
+
+Các tác động trao đổi chất phụ thuộc liều lượng và thường bắt đầu trong lần điều trị đầu tiên từ 1 đến 2 năm.
+
+Nhiễm toan axit lactic
+
+không phổ biến nhưng có thể gây tử vong.
+
+Bệnh gan nhiễm mỡ không do rượu
+
+đang ngày càng được ghi nhận ở những bệnh nhân nhiễm HIV. Một số loại thuốc ART thế hệ đầu gây ra tình trạng nhiễm mỡ và khi việc sử dụng chúng giảm đi, tỷ lệ mắc bệnh nhiễm mỡ cũng giảm. Tuy nhiên, ngay cả với các thuốc ART thế hệ mới, vẫn có nguy cơ nhiễm mỡ.
+
+Tác động lâu dài và quản lý những ảnh hưởng đến chuyển hoá là không rõ. Thuốc hạ lipid máu (statin) và thuốc nhạy cảm với
+
+insulin
+
+(glitazones) có thể hữu ích. Bệnh nhân nên được tư vấn về việc duy trì một chế độ ăn uống lành mạnh và hoạt động thể chất thường xuyên như là những cách để giúp nâng cao sức khoẻ. (Xem thêm các khuyến nghị của HIV Medicine Association of the Infectious Diseases Society of America and the Adult AIDS Clinical Trials Group:
+
+Guidelines for the Evaluation and Management of Dyslipidemia in HIV-infected Adults Receiving Antiretroviral Therapy
+
+.)
+
+Biến chứng về xương
+
+của ART bao gồm chứng tiêu xương không triệu chứng và chứng loãng xương. Không phổ biến, hoại tử khớp lớn như hông và vai gây ra đau khớp và rối loạn chức năng. Cơ chế biến chứng xương không được hiểu rõ.
+
+Rối loạn phân bố mỡ (Lipoatrophy) ở HIV
+
+Rối loạn phân bố mỡ (Lipoatrophy) ở HIV (1)
+
+Những hình ảnh này cho thấy các dấu hiệu lâm sàng của rối loạn phân bố mỡ và loạn dưỡng mỡ. Bảng bên trái cho thấy sự tích tụ của các mô mỡ ở vùng sau cổ tử cung được gọi là “bướu trâu” (mũi tên đỏ). Bảng bên phải hiển thị tăng mỡ bụng. Mỡ bụng mà người nhiễm HIV gặp phải nằm sâu bên trong các khoang cơ quan (mỡ nội tạng). Bảng bên phải cũng hiển thị mất mỡ dưới da ở cánh tay và chân, được gọi là chứng teo mỡ.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Edward R. Cachay cung cấp.
+
+Rối loạn phân bố mỡ (Lipoatrophy) ở HIV (2)
+
+Với việc sử dụng thuốc kháng retrovirus, mỡ trong cơ thể có thể được phân bổ lại từ mặt và các chi (hình bên trái) đến thân, ngực và bụng (hình giữa) và cổ (hình bên phải).
+
+... đọc thêm
+
+© Springer Science+Business Media
+
+Rối loạn phân bố mỡ (Lipoatrophy) ở HIV (1)
+
+Những hình ảnh này cho thấy các dấu hiệu lâm sàng của rối loạn phân bố mỡ và loạn dưỡng mỡ. Bảng bên trái cho thấy sự tích tụ của các mô mỡ ở vùng sau cổ tử cung được gọi là “bướu trâu” (mũi tên đỏ). Bảng bên phải hiển thị tăng mỡ bụng. Mỡ bụng mà người nhiễm HIV gặp phải nằm sâu bên trong các khoang cơ quan (mỡ nội tạng). Bảng bên phải cũng hiển thị mất mỡ dưới da ở cánh tay và chân, được gọi là chứng teo mỡ.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Edward R. Cachay cung cấp.
+
+Rối loạn phân bố mỡ (Lipoatrophy) ở HIV (2)
+
+Với việc sử dụng thuốc kháng retrovirus, mỡ trong cơ thể có thể được phân bổ lại từ mặt và các chi (hình bên trái) đến thân, ngực và bụng (hình giữa) và cổ (hình bên phải).
+
+... đọc thêm
+
+© Springer Science+Business Media
+
+Hội chứng viêm phục hồi miễn dịch (IRIS)
+
+Bệnh nhân bắt đầu điều trị bằng ARV đôi khi có biểu hiện lâm sàng xấu đi, mặc dù nồng độ HIV trong máu của họ bị ức chế và số lượng CD4 của họ tăng lên, do phản ứng miễn dịch đối với các bệnh nhiễm trùng cơ hội cận lâm sàng hoặc với các kháng nguyên vi khuẩn tồn dư sau khi điều trị thành công các bệnh nhiễm trùng cơ hội (xem phần
+
+hội chứng viêm phục hồi miễn dịch
+
+để biết thảo luận chi tiết hơn).
+
+Gián đoạn điều trị ARV
+
+Việc tạm ngừng điều trị bằng ARV thường an toàn nếu dừng tất cả các loại thuốc cùng lúc, nhưng nồng độ các thuốc chuyển hóa chậm (ví dụ: nevirapine) có thể vẫn ở mức cao và do đó làm tăng nguy cơ kháng thuốc. Việc tạm ngừng điều trị có thể cần thiết nếu các bệnh can thiệp cần được điều trị hoặc nếu độc tính của thuốc không thể dung nạp được hoặc cần được đánh giá. Sau khi tạm dừng điều trị để xác định loại thuốc nào gây độc tính, bác sĩ lâm sàng có thể bắt đầu dùng lại hầu hết các loại thuốc dưới dạng đơn trị liệu một cách an toàn trong vài ngày.
+
+Ngọc trai & cạm bẫy
+
+Những bệnh nhân có phản ứng bất lợi với abacavir không nên dùng lại thuốc. Nếu dùng lại thuốc, họ có thể bị phản ứng quá mẫn nặng, có thể gây tử vong. Nguy cơ phản ứng bất lợi đối với abacavir cao gấp 100 lần ở những bệnh nhân HLA-B*57:01, có thể được phát hiện bằng xét nghiệm di truyền.
+
+Chú ý: Ngoại lệ quan trọng nhất là abacavir; những bệnh nhân có sốt hoặc phát ban trong lần phơi nhiễm trước với abacavir có thể phát triển phản ứng quá mẫn nghiêm trọng, có thể gây tử vong khi tiếp xúc lại. Nguy cơ phản ứng bất lợi đối với abacavir cao gấp 100 lần ở những bệnh nhân HLA-B*57:01, có thể được phát hiện bằng xét nghiệm di truyền.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents: Drug-Drug Interactions
+
+Primary Care Guidelines for the Management of Persons Infected with Human Immunodeficiency Virus: 2020 Update by the HIV Medicine Association of the Infectious Diseases Society of America
+
+: Evidence-based guidelines for the management of people infected with HIV
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents: Drug-Drug InteractionsPrimary Care Guidelines for the Management of Persons Infected with Human Immunodeficiency Virus: 2020 Update by the HIV Medicine Association of the Infectious Diseases Society of America: Evidence-based guidelines for the management of people infected with HIV

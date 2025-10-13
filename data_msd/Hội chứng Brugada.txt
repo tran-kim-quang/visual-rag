@@ -1,0 +1,481 @@
+TIÊU ĐỀ: Hội chứng Brugada
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-ở-tim-do-loạn-sản-thất-phải/hội-chứng-brugada
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng Brugada
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2024
+
+|
+
+đã sửa đổi
+
+Thg 8 2024
+
+v938541_vi
+
+Hội chứng Brugada là một bệnh lý kênh di truyền, đặc trưng bởi sóng J lớn và ST chênh lên kèm theo đảo ngược sóng T liên quan ở các chuyển đạo V1-V3, làm tăng nguy cơ nhịp nhanh thất (VT) và rung thất (VF), dẫn đến ngất và đột tử. Chẩn đoán bằng điện tâm đồ và thường là xét nghiệm điện sinh lý có kích thích và/hoặc xét nghiệm di truyền. Điều trị bằng máy khử rung tim được cấy ghép vào cơ thể. Các thành viên trong gia đình cần phải được sàng lọc.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+và
+
+Tổng quan về bệnh kênh ion
+
+.)
+
+Nhìn chung, tỷ lệ mắc hội chứng Brugada là khoảng 5/10.000 (
+
+1
+
+) nhưng cho thấy sự khác biệt lớn về dân tộc và do đó là khu vực địa lý, cao nhất là Đông Nam Á (37/10.000), Trung Đông (18/10.000) và phần còn lại của Châu Á (17/10.000) và thấp hơn nhiều ở Châu Âu (1/10.000) và Bắc Mỹ (0,5/10.000) (
+
+1
+
+). Phần lớn bệnh nhân có hội chứng Brugada rõ ràng trên lâm sàng là nam giới (85%) (
+
+1
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Vutthikraivit W, Rattanawong P, Putthapiban P, et al
+
+: Worldwide Prevalence of Brugada Syndrome: A Systematic Review and Meta-Analysis.
+
+Acta Cardiol Sin
+
+34(3):267–277, 2018 doi: 0.6515/ACS.201805_34(3).20180302B
+
+Sinh bệnh học của hội chứng Brugada
+
+Hội chứng Brugada là kết quả của đột biến có
+
+Giảm dòng natri hoặc canxi đi vào
+
+HOẶC
+
+Tăng dòng kali đi ra sớm
+
+Những bất thường này dẫn đến mất điện thế hoạt động cao nguyên sớm, đặc biệt là trong các tế bào thượng tâm mạc của đường ra thất phải tạo ra những thay đổi trên ECG trước tim phải đặc trưng và xu hướng loạn nhịp nhanh thất. Mặc dù các đột biến khác nhau đã được báo cáo, nhưng hầu hết đều ở gen
+
+SCN5A
+
+, gây mất chức năng của dòng natri đi vào (
+
+1
+
+).
+
+Thông thường, bệnh nhân hội chứng Brugada không có bất thường về mặt cấu trúc tim. Tuy nhiên, mối quan hệ với bệnh tim cấu trúc mắc phải và bệnh tim cấu trúc di truyền khác ngày càng được phát hiện, cũng như các hội chứng chồng chéo với
+
+hội chứng QT dài loại 3
+
+, với
+
+hội chứng tái cực sớm
+
+và với
+
+bệnh cơ tim thất phải do loạn nhịp
+
+(ARVC).
+
+Tài liệu tham khảo về sinh lý bệnh
+
+1.
+
+Antzelevitch C, Yan GX, Ackerman MJ, et al
+
+: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.
+
+Heart Rhythm
+
+13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+Các triệu chứng và dấu hiệu của hội chứng Brugada
+
+Một số bệnh nhân hội chứng Brugada không có triệu chứng lâm sàng. Tuy nhiên, ở nhiều bệnh nhân, có thể có triệu chứng ngất hoặc thậm chí đột tử do các cơn tim
+
+nhanh thất đa hình thái
+
+hoặc
+
+rung thất
+
+. Rối loạn nhịp thất có thể gây đột tử trong khi ngủ. Khoảng 10% số bệnh nhân bị loạn nhịp nhanh nhĩ, chủ yếu là
+
+rung nhĩ
+
+(
+
+1
+
+) và một số thậm chí có rung nhĩ (
+
+2
+
+).
+
+Các biến cố này thường xảy ra ban đêm và thường không liên quan đến gắng sức. Các biến cố cũng có thể xảy ra do sốt và do một số loại thuốc, bao gồm thuốc chẹn kênh natri, thuốc chẹn beta, một số thuốc chống trầm cảm và thuốc chống loạn thần, lithium, rượu và
+
+cocaine
+
+(
+
+3
+
+).
+
+Tài liệu tham khảo về các dấu hiệu và triệu chứng
+
+1.
+
+Giustetto C, Cerrato N, Gribaudo E, et al
+
+: Atrial fibrillation in a large population with Brugada electrocardiographic pattern: prevalence, management, and correlation with prognosis.
+
+Heart Rhythm
+
+11(2):259–265, 2014 doi: 10.1016/j.hrthm.2013.10.043
+
+2.
+
+Rodríguez-Mañero M, Namdar M, Sarkozy A, et al
+
+: Prevalence, clinical characteristics and management of atrial fibrillation in patients with Brugada syndrome.
+
+Am J Cardiol
+
+111(3):362–367, 2013 doi:10.1016/j.amjcard.2012.10.012
+
+3.
+
+Antzelevitch C, Yan GX, Ackerman MJ, et al
+
+: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.
+
+Heart Rhythm
+
+13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+Chẩn đoán hội chứng Brugada
+
+Điện tâm đồ (ECG)
+
+Tiền sử gia đình
+
+Nghiệm pháp kích thích tạo ra những thay đổi đặc trưng trên ECG
+
+Xét nghiệm di truyền
+
+Chẩn đoán cần phải được nghĩ đến trên những bệnh nhân bị ngừng tim hoặc ngất không rõ nguyên nhân hoặc tiền sử gia đình như vậy khi những người bị bệnh không có bệnh tim do cấu trúc.
+
+Chẩn đoán ban đầu hội chứng Brugada dựa trên mẫu ECG đặc trưng, ​​mẫu ECG Brugada loại 1 (xem hình
+
+Mẫu ECG Brugada loại 1
+
+). Dạng điện tâm đồ Brugada loại 1 có ST chênh lên cao ở V1 và V2 (đôi khi cả V3) làm cho phức bộ QRS giống kiểu
+
+block nhánh phải
+
+. Đoạn ST có dạng cong vòm và đi dốc xuống nối tiếp vào 1 sóng T đảo chiều. Chỉ có kiểu tự phát loại 1 được coi là chẩn đoán hội chứng Brugada theo điểm số của hội chứng Brugada Thượng Hải (
+
+1
+
+).
+
+Điện tâm đồ dạng Brugada loại 2 và loại 3 có mức độ chênh của đoạn ST thấp hơn và không được dùng để chẩn đoán hội chứng Brugada. Các mẫu loại 2 và mẫu loại 3 có thể thay đổi thành mẫu loại 1 một cách tự nhiên, khi bị sốt hoặc phản ứng với thuốc. Loại thứ hai là cơ sở của một thử nghiệm chẩn đoán thử nghiệm thường sử dụng ajmaline, procainamide, flecainide hoặc pilsicainide đường tĩnh mạch. Điểm số đã được phát triển để hỗ trợ chẩn đoán hội chứng Brugada trong các trường hợp chưa rõ ràng (
+
+1
+
+). Trong những trường hợp như vậy, chẩn đoán hội chứng Brugada được coi là có thể có. Việc áp dụng các tiêu chuẩn lâm sàng, tiền sử gia đình và di truyền là bắt buộc để xác định chẩn đoán (
+
+1
+
+).
+
+Vai trò của xét nghiệm điện sinh lý hiện đang được tranh luận. Nhịp nhanh thất do kích thích hoặc rung thất với kích thích thất theo chương trình giới hạn ở 2 kích thích bổ sung được chỉ định loại IIa cho những bệnh nhân không có triệu chứng với kiểu điện tâm đồ Brugada loại 1 tự phát để phân tầng nguy cơ (
+
+2
+
+) nhưng không thuộc hệ thống tính điểm chẩn đoán Thượng Hải (
+
+1
+
+). Xét nghiệm di truyền thường được khuyến nghị nhưng có hiệu suất khoảng 20% (
+
+3
+
+).
+
+Chẩn đoán hội chứng Brugada bao gồm xem xét và loại trừ các bệnh lý khác tạo ra các dấu hiệu tim mạch tương tự, bao gồm hạ thân nhiệt, hạ canxi máu, block nhánh phải, bệnh cơ tim thất phải gây loạn nhịp tim, thuyên tắc phổi cấp tính và động mạch vành trước xuống trái của nhánh đinh tim của tắc động mạch vành phải (
+
+1
+
+).
+
+Mẫu ECG Brugada loại 1
+
+Điểm J chênh lên nổi bật đến đoạn ST cong vòm dẫn đến sóng T đảo ngược ở đạo trình V
+
+1
+
+và V
+
+2
+
+.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Antzelevitch C, Yan GX, Ackerman MJ, et al
+
+: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.
+
+Heart Rhythm
+
+13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+2.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+Circulation
+
+138(13):e272–e391, 2018 doi: 10.1161/CIR.0000000000000549
+
+3.
+
+Wilde AAM, Semsarian C, Márquez MF, et al
+
+: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.
+
+J Arrhythm
+
+38(4):491–553, 2022 doi: 10.1002/joa3.12717
+
+Điều trị hội chứng Brugada
+
+Cấy máy phá rung tự động
+
+Sàng lọc các thành viên trong gia đình
+
+Bệnh nhân có mẫu ECG hội chứng Brugada týp 1 tự phát hoặc do kích thích và ngất không giải thích được gần đây, VT kéo dài hoặc ngừng tim thường nên có
+
+máy khử rung tim cấy ghép vào cơ thể
+
+(ICD) (
+
+1
+
+).
+
+Khi cần ức chế phóng điện ICD thường xuyên, quinidin, ngăn chặn dòng kali đi ra thoáng qua có thể tăng lên trong hội chứng Brugada, có thể có hiệu quả. Isoproterenol đường tĩnh mạch cũng đã được sử dụng nếu nguyên nhân gây loạn nhịp tim tái phát thường xuyên xuất hiện thoáng qua và có thể hồi phục được. (
+
+2
+
+). Ở những bệnh nhân kháng trị với liệu pháp như vậy, có thể xem xét việc triệt đốt cơ chất gây loạn nhịp bằng ống thông (
+
+3
+
+).
+
+Điều trị hiệu quả nhất cho hội chứng Brugada trên những bệnh nhân có chẩn đoán dựa trên thay đổi ở ECG và tiền sử gia đình nhưng không có ngất hoặc loạn nhịp là không rõ ràng, mặc dù họ có tăng nguy cơ đột tử. Hệ thống chấm điểm đã được phát triển để hỗ trợ xác định xem ICD có phải là liệu pháp thích hợp ở những bệnh nhân đó hay không (
+
+4
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+Circulation
+
+138(13):e272–e391, 2018 doi: 10.1161/CIR.0000000000000549
+
+2.
+
+Brodie OT, Michowitz Y, Belhassen B
+
+: Pharmacological Therapy in Brugada Syndrome.
+
+Arrhythm Electrophysiol Rev
+
+7(2):135–142, 2018 doi: 10.15420/aer.2018.21.2
+
+3.
+
+Antzelevitch C, Yan GX, Ackerman MJ, et al
+
+: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.
+
+Heart Rhythm
+
+13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+4.
+
+Rattanawong P, Mattanapojanat N, Mead-Harvey C, et al
+
+: Predicting arrhythmic event score in Brugada syndrome: Worldwide pooled analysis with internal and external validation.
+
+Heart Rhythm
+
+20:1358–1367, 2023 doi: 10.1002/joa3.12822
+
+Phòng ngừa loạn nhịp tim do hội chứng Brugada
+
+Điều quan trọng là tránh các yếu tố có thể kích hoạt khởi phát loạn nhịp tim. Bệnh nhân cần phải theo dõi nhiệt độ của họ trong thời gian bị bệnh truyền nhiễm và dùng thuốc hạ sốt khi bị sốt. Khi có thể, bác sĩ lâm sàng nên dừng mọi loại thuốc có nguy cơ cao và kê đơn thuốc thay thế. Bệnh nhân cần phải tránh các chất gây loạn sản thất phải trong hội chứng Brugada, đặc biệt là
+
+cocain
+
+và tránh uống rượu quá mức (để biết danh sách cập nhật, xem
+
+www.brugadadrugs.org
+
+).
+
+Những điểm chính
+
+Hội chứng Brugada là một bệnh lý di truyền gây ra những thay đổi đặc trưng trên điện tâm đồ và tăng nguy cơ loạn nhịp thất gây ngất và đôi khi gây tử vong do tim đột ngột ở độ tuổi tương đối trẻ.
+
+Các yếu tố nguy cơ gây loạn nhịp có triệu chứng bao gồm sốt, nhiều loại thuốc và các chất khác (ví dụ: rượu,
+
+cocaine
+
+).
+
+Chẩn đoán bằng ECG, đôi khi có nghiệm pháp kích thích.
+
+Có thể cần phải sử dụng máy khử rung tim cấy ghép vào cơ thể.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+www.brugadadrugs.org
+
+: Mục đích cung cấp thông tin cập nhật về sử dụng thuốc an toàn trong hội chứng Brugada
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh bệnh học của hội chứng Brugada ---
+
+Hội chứng Brugada là kết quả của đột biến cóGiảm dòng natri hoặc canxi đi vàoHOẶCTăng dòng kali đi ra sớmNhững bất thường này dẫn đến mất điện thế hoạt động cao nguyên sớm, đặc biệt là trong các tế bào thượng tâm mạc của đường ra thất phải tạo ra những thay đổi trên ECG trước tim phải đặc trưng và xu hướng loạn nhịp nhanh thất. Mặc dù các đột biến khác nhau đã được báo cáo, nhưng hầu hết đều ở genSCN5A, gây mất chức năng của dòng natri đi vào (1).Thông thường, bệnh nhân hội chứng Brugada không có bất thường về mặt cấu trúc tim. Tuy nhiên, mối quan hệ với bệnh tim cấu trúc mắc phải và bệnh tim cấu trúc di truyền khác ngày càng được phát hiện, cũng như các hội chứng chồng chéo vớihội chứng QT dài loại 3, vớihội chứng tái cực sớmvà vớibệnh cơ tim thất phải do loạn nhịp(ARVC).Tài liệu tham khảo về sinh lý bệnh1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+--- 2. Các triệu chứng và dấu hiệu của hội chứng Brugada ---
+
+Một số bệnh nhân hội chứng Brugada không có triệu chứng lâm sàng. Tuy nhiên, ở nhiều bệnh nhân, có thể có triệu chứng ngất hoặc thậm chí đột tử do các cơn timnhanh thất đa hình tháihoặcrung thất. Rối loạn nhịp thất có thể gây đột tử trong khi ngủ. Khoảng 10% số bệnh nhân bị loạn nhịp nhanh nhĩ, chủ yếu làrung nhĩ(1) và một số thậm chí có rung nhĩ (2).Các biến cố này thường xảy ra ban đêm và thường không liên quan đến gắng sức. Các biến cố cũng có thể xảy ra do sốt và do một số loại thuốc, bao gồm thuốc chẹn kênh natri, thuốc chẹn beta, một số thuốc chống trầm cảm và thuốc chống loạn thần, lithium, rượu vàcocaine(3).Tài liệu tham khảo về các dấu hiệu và triệu chứng1.Giustetto C, Cerrato N, Gribaudo E, et al: Atrial fibrillation in a large population with Brugada electrocardiographic pattern: prevalence, management, and correlation with prognosis.Heart Rhythm11(2):259–265, 2014 doi: 10.1016/j.hrthm.2013.10.0432.Rodríguez-Mañero M, Namdar M, Sarkozy A, et al: Prevalence, clinical characteristics and management of atrial fibrillation in patients with Brugada syndrome.Am J Cardiol111(3):362–367, 2013 doi:10.1016/j.amjcard.2012.10.0123.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+--- 3. Chẩn đoán hội chứng Brugada ---
+
+Điện tâm đồ (ECG)Tiền sử gia đìnhNghiệm pháp kích thích tạo ra những thay đổi đặc trưng trên ECGXét nghiệm di truyềnChẩn đoán cần phải được nghĩ đến trên những bệnh nhân bị ngừng tim hoặc ngất không rõ nguyên nhân hoặc tiền sử gia đình như vậy khi những người bị bệnh không có bệnh tim do cấu trúc.Chẩn đoán ban đầu hội chứng Brugada dựa trên mẫu ECG đặc trưng, ​​mẫu ECG Brugada loại 1 (xem hìnhMẫu ECG Brugada loại 1). Dạng điện tâm đồ Brugada loại 1 có ST chênh lên cao ở V1 và V2 (đôi khi cả V3) làm cho phức bộ QRS giống kiểublock nhánh phải. Đoạn ST có dạng cong vòm và đi dốc xuống nối tiếp vào 1 sóng T đảo chiều. Chỉ có kiểu tự phát loại 1 được coi là chẩn đoán hội chứng Brugada theo điểm số của hội chứng Brugada Thượng Hải (1).Điện tâm đồ dạng Brugada loại 2 và loại 3 có mức độ chênh của đoạn ST thấp hơn và không được dùng để chẩn đoán hội chứng Brugada. Các mẫu loại 2 và mẫu loại 3 có thể thay đổi thành mẫu loại 1 một cách tự nhiên, khi bị sốt hoặc phản ứng với thuốc. Loại thứ hai là cơ sở của một thử nghiệm chẩn đoán thử nghiệm thường sử dụng ajmaline, procainamide, flecainide hoặc pilsicainide đường tĩnh mạch. Điểm số đã được phát triển để hỗ trợ chẩn đoán hội chứng Brugada trong các trường hợp chưa rõ ràng (1). Trong những trường hợp như vậy, chẩn đoán hội chứng Brugada được coi là có thể có. Việc áp dụng các tiêu chuẩn lâm sàng, tiền sử gia đình và di truyền là bắt buộc để xác định chẩn đoán (1).Vai trò của xét nghiệm điện sinh lý hiện đang được tranh luận. Nhịp nhanh thất do kích thích hoặc rung thất với kích thích thất theo chương trình giới hạn ở 2 kích thích bổ sung được chỉ định loại IIa cho những bệnh nhân không có triệu chứng với kiểu điện tâm đồ Brugada loại 1 tự phát để phân tầng nguy cơ (2) nhưng không thuộc hệ thống tính điểm chẩn đoán Thượng Hải (1). Xét nghiệm di truyền thường được khuyến nghị nhưng có hiệu suất khoảng 20% (3).Chẩn đoán hội chứng Brugada bao gồm xem xét và loại trừ các bệnh lý khác tạo ra các dấu hiệu tim mạch tương tự, bao gồm hạ thân nhiệt, hạ canxi máu, block nhánh phải, bệnh cơ tim thất phải gây loạn nhịp tim, thuyên tắc phổi cấp tính và động mạch vành trước xuống trái của nhánh đinh tim của tắc động mạch vành phải (1).Mẫu ECG Brugada loại 1Điểm J chênh lên nổi bật đến đoạn ST cong vòm dẫn đến sóng T đảo ngược ở đạo trình V1và V2.Tài liệu tham khảo chẩn đoán1.Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.Heart Rhythm13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.0242.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018 doi: 10.1161/CIR.00000000000005493.Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases.J Arrhythm38(4):491–553, 2022 doi: 10.1002/joa3.12717
+
+--- 4. Điều trị hội chứng Brugada ---
+
+Cấy máy phá rung tự độngSàng lọc các thành viên trong gia đìnhBệnh nhân có mẫu ECG hội chứng Brugada týp 1 tự phát hoặc do kích thích và ngất không giải thích được gần đây, VT kéo dài hoặc ngừng tim thường nên cómáy khử rung tim cấy ghép vào cơ thể(ICD) (1).Khi cần ức chế phóng điện ICD thường xuyên, quinidin, ngăn chặn dòng kali đi ra thoáng qua có thể tăng lên trong hội chứng Brugada, có thể có hiệu quả. Isoproterenol đường tĩnh mạch cũng đã được sử dụng nếu nguyên nhân gây loạn nhịp tim tái phát thường xuyên xuất hiện thoáng qua và có thể hồi phục được. (2). Ở những bệnh nhân kháng trị với liệu pháp như vậy, có thể xem xét việc triệt đốt cơ chất gây loạn nhịp bằng ống thông (3).Điều trị hiệu quả nhất cho hội chứng Brugada trên những bệnh nhân có chẩn đoán dựa trên thay đổi ở ECG và tiền sử gia đình nhưng không có ngất hoặc loạn nhịp là không rõ ràng, mặc dù họ có tăng nguy cơ đột tử. Hệ thống chấm điểm đã được phát triển để hỗ trợ xác định xem ICD có phải là liệu pháp thích hợp ở những bệnh nhân đó hay không (4).
+
+--- 5. Phòng ngừa loạn nhịp tim do hội chứng Brugada ---
+
+Điều quan trọng là tránh các yếu tố có thể kích hoạt khởi phát loạn nhịp tim. Bệnh nhân cần phải theo dõi nhiệt độ của họ trong thời gian bị bệnh truyền nhiễm và dùng thuốc hạ sốt khi bị sốt. Khi có thể, bác sĩ lâm sàng nên dừng mọi loại thuốc có nguy cơ cao và kê đơn thuốc thay thế. Bệnh nhân cần phải tránh các chất gây loạn sản thất phải trong hội chứng Brugada, đặc biệt làcocainvà tránh uống rượu quá mức (để biết danh sách cập nhật, xemwww.brugadadrugs.org).
+
+--- 6. Những điểm chính ---
+
+Hội chứng Brugada là một bệnh lý di truyền gây ra những thay đổi đặc trưng trên điện tâm đồ và tăng nguy cơ loạn nhịp thất gây ngất và đôi khi gây tử vong do tim đột ngột ở độ tuổi tương đối trẻ.Các yếu tố nguy cơ gây loạn nhịp có triệu chứng bao gồm sốt, nhiều loại thuốc và các chất khác (ví dụ: rượu,cocaine).Chẩn đoán bằng ECG, đôi khi có nghiệm pháp kích thích.Có thể cần phải sử dụng máy khử rung tim cấy ghép vào cơ thể.
+
+--- 7. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.www.brugadadrugs.org: Mục đích cung cấp thông tin cập nhật về sử dụng thuốc an toàn trong hội chứng Brugada

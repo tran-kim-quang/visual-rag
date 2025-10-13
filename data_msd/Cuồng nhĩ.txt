@@ -1,0 +1,301 @@
+TIÊU ĐỀ: Cuồng nhĩ
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-nhịp-tim-cụ-thể/cuồng-nhĩ
+================================================================================
+
+NỘI DUNG:
+
+Cuồng nhĩ
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v938179_vi
+
+Cuồng nhĩ là một dạng rối loạn nhịp nhĩ nhanh có nguyên nhân do vòng vào lại lớn trong tâm nhĩ. Các triệu chứng bao gồm: đánh trống ngực, đôi khi mệt mỏi, giảm khả năng gắng sức, khó thở và thoáng ngất. Cuồng nhĩ có thể làm hình thành huyết khối trong buồng nhĩ và gây tắc mạch. Chẩn đoán bằng ECG. Điều trị bao gồm kiểm soát tần số bằng thuốc, phòng ngừa thuyên tắc huyết khối bằng thuốc chống đông và thường chuyển nhịp sang nhịp xoang bằng thuốc, sốc điện chuyển nhịp hoặc triệt đốt cơ chất gây cuồng nhĩ.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+.)
+
+Cuồng nhĩ thường gặp ít hơn
+
+rung nhĩ
+
+, nhưng nguyên nhân và hậu quả ảnh hưởng huyết động cũng tương tự rung nhĩ. Nhiều bệnh nhân cuồng nhĩ cũng có những thời điểm rung nhĩ. Trong một nghiên cứu dựa trên dân số về những bệnh nhân được chẩn đoán lần đầu bị cuồng động nhĩ, 69% số bệnh nhân đã được biết là bị rung nhĩ và trong số những bệnh nhân chưa được biết là bị rung nhĩ, 40% số bệnh nhân được phát hiện bị rung nhĩ trong 3 năm tiếp theo (
+
+1
+
+).
+
+Cuồng động nhĩ điển hình là do
+
+chu kỳ của vòng vào lại
+
+lớn liên quan đến hầu hết tâm nhĩ phải và cần phải có dẫn truyền giữa lỗ tĩnh mạch chủ dưới và vòng van ba lá (eo van ba lá tĩnh mạch chủ dưới). Khi đó, tâm nhĩ được khử cực với tốc độ từ 250 đến 350 chu kỳ/phút (thường là 300 chu kỳ/phút). Bởi vì nút nhĩ thất thường không thể dẫn truyền nhanh với tốc độ này, nên thông thường ta sẽ thấy một nửa số xung được truyền xuống thất (block 2:1), kết quả là tần số thất thường khoảng 150 lần/phút. Đôi khi, tình trạng block thay đổi liên tục, gây ra nhịp thất không đều. Thỉnh thoảng ta có thể gặp cuồng nhĩ với mức block 3:1, 4:1 hoặc 5:1.
+
+Xác suất xảy ra biến cố thuyên tắc huyết khối trong cuồng động nhĩ đơn độc được cho là chỉ bằng khoảng một nửa so với
+
+rung nhĩ
+
+(
+
+2
+
+). Tuy nhiên, nhiều bệnh nhân bị cuồng động nhĩ cũng có (hoặc sẽ có) rung nhĩ. Theo đó, hướng dẫn về thuốc chống đông không phân biệt giữa bệnh nhân bị cuồng động nhĩ và bệnh nhân bị rung nhĩ (
+
+3
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Gula LJ, Redfearn DP, Jenkyn KB, et al
+
+: Elevated Incidence of Atrial Fibrillation and Stroke in Patients With Atrial Flutter—A Population-Based Study.
+
+Can J Cardiol
+
+34(6):774–783, 2018. doi: 10.1016/j.cjca.2018.01.001
+
+2.
+
+Biblo LA, Yuan Z, Quan KJ, et al
+
+: Risk of stroke in patients with atrial flutter.
+
+Am J Cardiol
+
+87(3):346–349, 2001. doi: 10.1016/s0002-9149(00)01374-6
+
+3.
+
+Joglar JA, Chung MK, Armbruster AL, et al
+
+: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+149(1):e1–e156, 2024. doi: 10.1161/CIR.0000000000001193
+
+Các triệu chứng và dấu hiệu của cuồng động nhĩ
+
+Triệu chứng của cuồng nhĩ tùy thuộc chủ yếu vào tần số đáp ứng thất và bệnh tim nền dẫn đến cuồng nhĩ. Nếu tần số thất
+
+<
+
+120 lần/phút và đều, bệnh nhân có thể không có triệu chứng hoặc cảm thấy mơ hồ. Nhịp nhanh hơn và dẫn truyền AV thay đổi thường gây ra tình trạng hồi hộp. Giảm cung lượng tim có thể gây ra các triệu chứng rối loạn huyết động (ví dụ: cảm giác khó chịu ở ngực, khó thở, yếu, ngất). Khám tĩnh mạch cảnh cẩn thận có thể phát hiện sóng
+
+a
+
+của cuồng nhĩ trên tĩnh mạch cảnh đồ.
+
+Chẩn đoán rung nhĩ
+
+ECG
+
+Chẩn đoán cuồng nhĩ bằng điện tâm đồ. Trong cuồng động nhĩ điển hình, ECG cho thấy kích hoạt nhĩ liên tục và đều đặn với dạng răng cưa, rõ ràng nhất ở các chuyển đạo II, III và aVF (xem hình
+
+Cuồng động nhĩ
+
+).
+
+Cuồng nhĩ
+
+(Lưu ý: dẫn truyền bị block nhánh phải.)
+
+Nghiệm pháp xoa xoang cảnh sẽ làm tăng mức block nhĩ thất và làm bộc lộ rõ sóng cuồng nhĩ. Có thể có đáp ứng tương tự sau khi phong bế nút nhĩ thất bằng thuốc (ví dụ: bằng
+
+adenosine
+
+), nhưng liệu pháp này thường không chấm dứt được tình trạng cuồng động nhĩ.
+
+Điều trị cuồng động nhĩ
+
+Kiểm soát tần số bằng thuốc
+
+Kiểm soát nhịp tim bằng sốc điện chuyển nhịp, dùng thuốc hoặc triệt đốt
+
+Dự phòng huyết khối tắc mạch.
+
+Chiến lược điều trị cuồng nhĩ bao gồm: kiểm soát tần số thất, chuyển nhịp và dự phòng huyết khối.
+
+Kiểm soát tần số thất ở cuồng nhĩ khó khăn hơn trong rung nhĩ. Do đó, đối với hầu hết bệnh nhân, chuyển nhịp bằng điện (sử dụng
+
+sốc điện chuyển nhịp đồng bộ
+
+hoặc
+
+tạo nhịp quá mức
+
+) là phương pháp điều trị được lựa chọn cho đợt đầu và là bắt buộc khi dẫn truyền AV 1:1 hoặc rối loạn huyết động. Thông thường, chỉ cần sốc điện chuyển nhịp với mức năng lượng thấp (50J) là có hiệu quả.
+
+Chống đông máu
+
+, như trong rung nhĩ, là cần thiết trước khi sốc điện chuyển nhịp tim (
+
+1
+
+).
+
+Nếu thuốc được sử dụng để phục hồi nhịp xoang, trước tiên phải kiểm soát tần số bằng thuốc chẹn beta hoặc thuốc chẹn kênh canxi nondihydropyridine (ví dụ: verapamil, diltiazem). Nhiều loại
+
+thuốc chống loạn nhịp
+
+có thể phục hồi nhịp xoang (đặc biệt là loại Ia và Ic) có thể làm chậm cuồng động nhĩ, rút ​​ngắn thời gian trơ của nút AV (do tác dụng phân ly phế vị) hoặc có cả hai tác dụng đủ để cho phép dẫn truyền 1:1 với sự gia tăng nghịch lý về nhịp thất và rối loạn huyết động. Những loại thuốc này có thể được sử dụng để duy trì lâu dài khi cần thiết để ngăn ngừa tình trạng tái phát liên quan đến thuốc kéo dài thời gian trơ của nút AV (loại II, III, IV hoặc digoxin) (
+
+1
+
+).
+
+Hệ thống tạo nhịp chống nhịp nhanh là một phương pháp thay thế cho việc sử dụng thuốc chống loạn nhịp tim trong thời gian dài và là liệu pháp hiếm gặp được sử dụng cho những bệnh nhân bị cuồng động nhĩ và có chỉ định độc lập để tạo nhịp tim, chẳng hạn như nhịp tim chậm, những người không đủ điều kiện hoặc những người đã áp dụng các phương pháp tiếp cận khác để kiểm soát nhịp tim nhưng không thành công.
+
+Các thủ thuật triệt đốt
+
+được thiết kế để làm gián đoạn chu kỳ vòng vào lại tâm nhĩ có thể ngăn ngừa hiệu quả cuồng động nhĩ, đặc biệt là cuồng động nhĩ điển hình. Do cuồng động nhĩ điển hình phụ thuộc vào sự dẫn truyền qua eo van ba lá tĩnh mạch chủ dưới tương đối hẹp, nên việc đặt đường triệt đốt hoặc chẹn ngang eo đó sẽ chữa khỏi cuồng động nhĩ điển hình ở > 95% số bệnh nhân. Tuy nhiên, rung nhĩ có thể tái phát ở 60% số bệnh nhân trong vòng 10 năm sau khi triệt đốt để điều trị thành công cuồng động nhĩ (
+
+2
+
+).
+
+Để
+
+ngăn ngừa thuyên tắc huyết khối,
+
+bệnh nhân cuồng động nhĩ mạn tính hoặc tái phát cần phải dùng thuốc chống đông đường uống (warfarin được chuẩn độ thành INR từ 2 đến 3, thuốc ức chế
+
+thrombin
+
+trực tiếp hoặc thuốc ức chế
+
+yếu tố Xa
+
+). Lựa chọn giữa các liệu pháp dựa trên những cân nhắc tương tự như trong
+
+điều trị rung nhĩ
+
+(
+
+1
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Joglar JA, Chung MK, Armbruster AL, et al
+
+: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+149(1):e1–e156, 2024. doi: 10.1161/CIR.0000000000001193
+
+2.
+
+Seara JG, Roubin SR, Sampedro FG, et al
+
+: Risk of atrial fibrillation, stroke, and death after radiofrequency catheter ablation of typical atrial flutter.
+
+Clin Res Cardiol
+
+103(7):543–552, 2014. doi: 10.1007/s00392-014-0682-6
+
+Những điểm chính
+
+Cuồng động nhĩ là nhịp nhĩ nhanh, đều có thể gây ra đáp ứng QRS đều, không đều, nhịp tim nhanh hoặc nhịp tim không nhanh, tùy thuộc vào mức độ và loại block hiện tại.
+
+Sau khi kiểm soát nhịp tim ban đầu bằng các loại thuốc như thuốc chẹn beta và thuốc chẹn kênh canxi không dihydropyridine (ví dụ: verapamil, diltiazem), hầu hết bệnh nhân đều phải dùng thuốc hoặc sốc điện chuyển nhịp bằng dòng điện một chiều.
+
+Cần chỉ định thuốc chống đông trước khi chuyển nhịp.
+
+Đối với cuồng nhĩ mạn tính hoặc tái phát nhiều lần, cần cho thuốc chống đông dài hạn để dự phòng đột quỵ.
+
+Các đợt tái phát có thể được ngăn ngừa bằng thuốc chống loạn nhịp nhóm Ia, Ic hoặc III cùng với ức chế nút nhĩ thất hoặc hiệu quả hơn là triệt đốt eo van ba lá tĩnh mạch chủ dưới.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các triệu chứng và dấu hiệu của cuồng động nhĩ ---
+
+Triệu chứng của cuồng nhĩ tùy thuộc chủ yếu vào tần số đáp ứng thất và bệnh tim nền dẫn đến cuồng nhĩ. Nếu tần số thất<120 lần/phút và đều, bệnh nhân có thể không có triệu chứng hoặc cảm thấy mơ hồ. Nhịp nhanh hơn và dẫn truyền AV thay đổi thường gây ra tình trạng hồi hộp. Giảm cung lượng tim có thể gây ra các triệu chứng rối loạn huyết động (ví dụ: cảm giác khó chịu ở ngực, khó thở, yếu, ngất). Khám tĩnh mạch cảnh cẩn thận có thể phát hiện sóngacủa cuồng nhĩ trên tĩnh mạch cảnh đồ.
+
+--- 2. Chẩn đoán rung nhĩ ---
+
+ECGChẩn đoán cuồng nhĩ bằng điện tâm đồ. Trong cuồng động nhĩ điển hình, ECG cho thấy kích hoạt nhĩ liên tục và đều đặn với dạng răng cưa, rõ ràng nhất ở các chuyển đạo II, III và aVF (xem hìnhCuồng động nhĩ).Cuồng nhĩ(Lưu ý: dẫn truyền bị block nhánh phải.)Nghiệm pháp xoa xoang cảnh sẽ làm tăng mức block nhĩ thất và làm bộc lộ rõ sóng cuồng nhĩ. Có thể có đáp ứng tương tự sau khi phong bế nút nhĩ thất bằng thuốc (ví dụ: bằngadenosine), nhưng liệu pháp này thường không chấm dứt được tình trạng cuồng động nhĩ.
+
+--- 3. Điều trị cuồng động nhĩ ---
+
+Kiểm soát tần số bằng thuốcKiểm soát nhịp tim bằng sốc điện chuyển nhịp, dùng thuốc hoặc triệt đốtDự phòng huyết khối tắc mạch.Chiến lược điều trị cuồng nhĩ bao gồm: kiểm soát tần số thất, chuyển nhịp và dự phòng huyết khối.Kiểm soát tần số thất ở cuồng nhĩ khó khăn hơn trong rung nhĩ. Do đó, đối với hầu hết bệnh nhân, chuyển nhịp bằng điện (sử dụngsốc điện chuyển nhịp đồng bộhoặctạo nhịp quá mức) là phương pháp điều trị được lựa chọn cho đợt đầu và là bắt buộc khi dẫn truyền AV 1:1 hoặc rối loạn huyết động. Thông thường, chỉ cần sốc điện chuyển nhịp với mức năng lượng thấp (50J) là có hiệu quả.Chống đông máu, như trong rung nhĩ, là cần thiết trước khi sốc điện chuyển nhịp tim (1).Nếu thuốc được sử dụng để phục hồi nhịp xoang, trước tiên phải kiểm soát tần số bằng thuốc chẹn beta hoặc thuốc chẹn kênh canxi nondihydropyridine (ví dụ: verapamil, diltiazem). Nhiều loạithuốc chống loạn nhịpcó thể phục hồi nhịp xoang (đặc biệt là loại Ia và Ic) có thể làm chậm cuồng động nhĩ, rút ​​ngắn thời gian trơ của nút AV (do tác dụng phân ly phế vị) hoặc có cả hai tác dụng đủ để cho phép dẫn truyền 1:1 với sự gia tăng nghịch lý về nhịp thất và rối loạn huyết động. Những loại thuốc này có thể được sử dụng để duy trì lâu dài khi cần thiết để ngăn ngừa tình trạng tái phát liên quan đến thuốc kéo dài thời gian trơ của nút AV (loại II, III, IV hoặc digoxin) (1).Hệ thống tạo nhịp chống nhịp nhanh là một phương pháp thay thế cho việc sử dụng thuốc chống loạn nhịp tim trong thời gian dài và là liệu pháp hiếm gặp được sử dụng cho những bệnh nhân bị cuồng động nhĩ và có chỉ định độc lập để tạo nhịp tim, chẳng hạn như nhịp tim chậm, những người không đủ điều kiện hoặc những người đã áp dụng các phương pháp tiếp cận khác để kiểm soát nhịp tim nhưng không thành công.Các thủ thuật triệt đốtđược thiết kế để làm gián đoạn chu kỳ vòng vào lại tâm nhĩ có thể ngăn ngừa hiệu quả cuồng động nhĩ, đặc biệt là cuồng động nhĩ điển hình. Do cuồng động nhĩ điển hình phụ thuộc vào sự dẫn truyền qua eo van ba lá tĩnh mạch chủ dưới tương đối hẹp, nên việc đặt đường triệt đốt hoặc chẹn ngang eo đó sẽ chữa khỏi cuồng động nhĩ điển hình ở > 95% số bệnh nhân. Tuy nhiên, rung nhĩ có thể tái phát ở 60% số bệnh nhân trong vòng 10 năm sau khi triệt đốt để điều trị thành công cuồng động nhĩ (2).Đểngăn ngừa thuyên tắc huyết khối,bệnh nhân cuồng động nhĩ mạn tính hoặc tái phát cần phải dùng thuốc chống đông đường uống (warfarin được chuẩn độ thành INR từ 2 đến 3, thuốc ức chếthrombintrực tiếp hoặc thuốc ức chếyếu tố Xa). Lựa chọn giữa các liệu pháp dựa trên những cân nhắc tương tự như trongđiều trị rung nhĩ(1).Tài liệu tham khảo về điều trị1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024. doi: 10.1161/CIR.00000000000011932.Seara JG, Roubin SR, Sampedro FG, et al: Risk of atrial fibrillation, stroke, and death after radiofrequency catheter ablation of typical atrial flutter.Clin Res Cardiol103(7):543–552, 2014. doi: 10.1007/s00392-014-0682-6
+
+--- 4. Những điểm chính ---
+
+Cuồng động nhĩ là nhịp nhĩ nhanh, đều có thể gây ra đáp ứng QRS đều, không đều, nhịp tim nhanh hoặc nhịp tim không nhanh, tùy thuộc vào mức độ và loại block hiện tại.Sau khi kiểm soát nhịp tim ban đầu bằng các loại thuốc như thuốc chẹn beta và thuốc chẹn kênh canxi không dihydropyridine (ví dụ: verapamil, diltiazem), hầu hết bệnh nhân đều phải dùng thuốc hoặc sốc điện chuyển nhịp bằng dòng điện một chiều.Cần chỉ định thuốc chống đông trước khi chuyển nhịp.Đối với cuồng nhĩ mạn tính hoặc tái phát nhiều lần, cần cho thuốc chống đông dài hạn để dự phòng đột quỵ.Các đợt tái phát có thể được ngăn ngừa bằng thuốc chống loạn nhịp nhóm Ia, Ic hoặc III cùng với ức chế nút nhĩ thất hoặc hiệu quả hơn là triệt đốt eo van ba lá tĩnh mạch chủ dưới.

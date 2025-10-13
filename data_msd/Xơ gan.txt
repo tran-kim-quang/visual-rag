@@ -1,0 +1,1187 @@
+TIÊU ĐỀ: Xơ gan
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-về-hệ-gan-và-mật/xơ-hóa-và-xơ-gan/xơ-gan
+================================================================================
+
+NỘI DUNG:
+
+Xơ gan
+
+Theo
+
+Tae Hoon Lee
+
+,
+
+MD
+
+,
+
+Icahn School of Medicine at Mount Sinai
+
+Xem xét bởi
+
+Minhhuyen Nguyen
+
+,
+
+MD
+
+,
+
+Fox Chase Cancer Center, Temple University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 1 2024
+
+v899436_vi
+
+Xơ gan là một giai đoạn muộn của
+
+xơ hóa ở gan
+
+, là hậu quả của quá trình lan tỏa biến đổi cấu trúc bè bình thường ở gan. Xơ gan được đặc trưng bởi các nốt tái tạo bao quanh bởi các mô xơ dày đặc. Triệu chứng có thể không tiến triển trong nhiều năm và thường không đặc hiệu (ví dụ, chán ăn, mệt mỏi, giảm cân). Các biểu hiện muộn bao gồm
+
+tăng áp lực tĩnh mạch cửa
+
+,
+
+cổ trướng
+
+,
+
+bệnh não gan
+
+và khi mất bù xảy ra,
+
+suy gan
+
+. Chẩn đoán thường được thực hiện bằng cách sử dụng hình ảnh không xâm lấn, mặc dù cần phải có sinh thiết gan trong những trường hợp hiếm hoi. Xử trí bao gồm chăm sóc hỗ trợ và điều trị bệnh gan theo nguyên nhân.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Xơ gan là nguyên nhân gây tử vong đứng thứ 16 trên toàn thế giới vào năm 2019 (
+
+1
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+GBD 2019 Diseases and Injuries Collaborators
+
+: Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: A systematic analysis for the global Burden of Disease Study 2019.
+
+Lancet
+
+396(10258):1204-1222. https://doi.org/10.1016/S0140-6736(20)30925-9
+
+Căn nguyên của xơ gan
+
+Nguyên nhân gây xơ gan cũng giống như nguyên nhân xơ hóa (xem bảng
+
+Các rối loạn và thuốc/chất có thể gây xơ hóa gan
+
+). Ở các quốc gia có nguồn lực cao, hầu hết các trường hợp là do
+
+sử dụng rượu lâu dài
+
+,
+
+viêm gan vi rút mạn tính (viêm gan B và viêm gan C)
+
+hoặc
+
+viêm gan nhiễm mỡ liên quan đến rối loạn chuyển hóa
+
+(MASH, trước đây gọi là viêm gan nhiễm mỡ không do rượu/NASH). Ở một số vùng ở Châu Á và Châu Phi, xơ gan thường là kết quả của
+
+bệnh viêm gan B mạn tính
+
+địa phương. (Xem bảng
+
+Đặc điểm của vi rút viêm gan
+
+để biết thêm thông tin về viêm gan B và viêm gan C.) Xơ gan không rõ nguyên nhân (xơ gan không rõ nguồn gốc) đang trở nên ít phổ biến hơn do nhiều nguyên nhân cụ thể (ví dụ: viêm gan C mạn tính, MASH) được xác định. Tổn thương đối với đường mật cũng có thể dẫn đến xơ gan, như xảy ra trong tắc nghẽn ống mật cơ học,
+
+xơ gan mật nguyên phát
+
+, và
+
+xơ hóa đường mật nguyên phát
+
+.
+
+Sinh lý bệnh của xơ gan
+
+Có 2 thành phần chính:
+
+Xơ hóa gan
+
+Tái tạo tế bào gan
+
+Để đáp ứng lại thương tổn và mất mát, các chất điều chỉnh tăng trưởng gây tăng sản tế bào gan (sản sinh ra các nốt tái tạo) và tăng sinh động mạch (angiogenesis). Trong số các chất điều chỉnh tăng trưởng có các cytokine và các yếu tố tăng trưởng gan (ví dụ, yếu tố tăng trưởng biểu mô, yếu tố tăng trưởng tế bào gan, yếu tố tăng trưởng biến đổi tế bào alpha, yếu tố hoại tử khối u).
+
+Insulin
+
+, glucagon, và các mô hình của dòng máu trong gan xác định các nốt phát triển như thế nào và ở đâu.
+
+Tân tạo mạch tạo ra các mạch máu mới trong lớp vỏ bọc sợi xung quanh các nốt. Các mạch này kết nối động mạch gan và tĩnh mạch cửa với tĩnh mạch gan, phục hồi các đường tuần hoàn trong gan. Các mạch nối như vậy cung cấp hệ thống thoát máu tĩnh mạch tương đối thấp, áp lực cao, không thể chứa lượng máu nhiều như bình thường. Kết quả là, áp lực tĩnh mạch cửa tăng lên. Sự biến đổi như vậy trong dòng máu góp phần tăng áp lực tĩnh mạch cửa, tăng còn do các nốt tái tạo chèn ép làm hẹp các tĩnh mạch gan.
+
+Tỉ lệ tiến triển từ xơ hóa đến xơ gan và hình thái xơ gan đa dạng từ người này sang người khác. Có lẽ, lý do của sự đa dạng như vậy là mức độ phơi nhiễm với kích thích gây tổn thương và đáp ứng của mỗi cá nhân.
+
+Các biến chứng
+
+Tăng áp lực tĩnh mạch cửa
+
+là biến chứng nghiêm trọng nhất của xơ gan, và nó gây ra các biến chứng, bao gồm
+
+Chảy máu đường tiêu hóa trên
+
+từ thực quản, dạ dày, trực tràng và tăng áp lực tĩnh mạch cửa.
+
+Giảm tiểu cầu
+
+Cổ chướng
+
+Thương tổn thận cấp (
+
+hội chứng gan - thận
+
+)
+
+Tăng áp động mạch phổi
+
+(tăng áp phổi)
+
+Hội chứng gan phổi
+
+(shunt trong phổi)
+
+Có thể có nhiễm trùng dịch cổ trướng (
+
+viêm phúc mạc tự phát do vi khuẩn
+
+). Tăng áp lực mạch phổi có thể biểu hiện với các triệu chứng suy tim. Các biến chứng của tăng áp lực tĩnh mạch cửa có xu hướng gây ra tử vong đáng kể.
+
+Xơ gan có thể gây ra biến chứng tim mạch khác. Giãn mạch, chuyển nhịp từ phải sang trái trong phổi, và thông khí / tưới máu không phù hợp có thể dẫn đến tình trạng thiếu oxy (hội chứng gan phổi).
+
+Sự mất dần cấu trúc gan làm suy yếu chức năng, dẫn đến suy gan; nó biểu hiện như rối loạn đông máu,
+
+tổn thương thận cấp
+
+(hội chứng gan thận), và
+
+bệnh não gan
+
+. Bệnh não do gan được đặc trưng bởi suy tư thế vận động, lú lẫn hoặc hôn mê gan và là kết quả của việc gan không có khả năng chuyển hóa các chất độc từ đường tiêu hóa (GI). Nồng độ amoniac trong huyết thanh tăng cao có thể giúp chẩn đoán bệnh não do gan, nhưng nồng độ này không tương quan lắm với mức độ nặng của bệnh não do gan.
+
+Tế bào mật tiết ra ít mật, góp phần gây ứ mật và
+
+vàng da
+
+. Ít mật trong ruột gây giảm hấp thu chất béo (triglycerides) và vitamin tan trong chất béo. Giảm hấp thu vitamin D có thể góp phần gây loãng xương. Tình trạng suy dinh dưỡng và mất cơ bắp do lão hóa là phổ biến. Các tình trạng này có thể là kết quả của chứng chán ăn với lượng thức ăn ăn vào giảm hoặc ở những bệnh nhân bị
+
+bệnh gan liên quan đến rượu
+
+, vì kém hấp thu do suy tụy.
+
+Rối loạn máu là thường gặp. Thiếu máu thường do cường lách, chảy máu đường tiêu hóa mạn tính,
+
+thiếu folate
+
+(đặc biệt là ở bệnh nhân rối loạn sử dụng rượu) và
+
+tan máu
+
+.
+
+Kết quả của xơ gan làm giảm sản xuất các yếu tố prothrombin và antithrombin. Cường lách và thay đổi bài tiết của thrombopoietin góp phần giảm tiểu cầu. Giảm tiểu cầu và giảm sản xuất các yếu tố đông máu có thể gây rối loạn đông máu phức tạp khó dự đoán, tăng nguy cơ bị cả chảy máu và bệnh huyết khối tắc nghẽn (mặc dù INR thường tăng).
+
+Giảm bạch cầu
+
+cũng phổ biến; nó là trung gian của
+
+cường lách
+
+và thay đổi bài tiết của erythropoietin và yếu tố kích thích bạch cầu hạt.
+
+Ngọc trai & cạm bẫy
+
+Xem xét các biến chứng huyết khối tắc mạch ở bệnh nhân xơ gan, ngay cả khi INR tăng.
+
+Ung thư biểu mô tế bào gan
+
+thường gây biến chứng xơ gan do bất kỳ nguyên nhân nào (chỉ cần theo dõi lâm sàng). Tỷ lệ mắc ung thư biểu mô tế bào gan trong bệnh xơ gan do các nguyên nhân cụ thể được liệt kê dưới đây (
+
+1
+
+):
+
+Viêm gan B mạn tính
+
+: 3 đến 8% mỗi năm
+
+Viêm gan C mạn tính
+
+: 3 đến 5% mỗi năm
+
+Viêm đường mật nguyên phát
+
+: 3 đến 5% mỗi năm
+
+Rối loạn chức năng chuyển hóa liên quan đến viêm gan nhiễm mỡ
+
+: 0,3% đến 2,6% mỗi năm
+
+Xơ gan do các nguyên nhân khác, ví dụ:
+
+bệnh nhiễm sắc tố sắt mô
+
+,
+
+bệnh gan liên quan đến rượu
+
+,
+
+thiếu hụt alpha-1 antitrypsin
+
+,
+
+bệnh Wilson
+
+: Có thể là hơn 1,5% mỗi năm
+
+Mô bệnh học
+
+Xơ gan được đặc trưng bởi các nốt tân tạo và tạo cầu nối xơ hóa. Các nốt không hoàn chỉnh, các nốt không xơ hóa (nốt tái tạo), và xơ hoá gan bẩm sinh (ví dụ như xơ hóa gan lan rộng mà không tái tạo các nốt) không phải là xơ gan.
+
+Xơ gan có thể là nốt lớn hoặc nốt nhỏ. Xơ gan dạng nốt nhỏ được đặc trưng bởi các nốt nhỏ đồng nhất (đường kính
+
+<
+
+3 mm) và các dải mô liên kết dày đều. Thông thường, nốt thiếu tổ chức tiểu thùy; tĩnh mạch gan đầu cuối (trung gian) và khoảng cửa bị bóp méo. Với thời gian, xơ gan nốt lớn thường tiến triển. Các nốt có kích thước khác nhau (đường kính từ 3 mm đến 5 cm) và có một số tổ chức tiểu thùy tương đối bình thường của khoảng cửa, tĩnh mạch gan. Các dải sợi rộng có độ dày khác nhau bao quanh các nốt lớn. Sự phá vỡ cấu trúc gan bình thường được gợi ý bởi sự tập trung của các bộ ba khoảng cửa trong các vết sẹo dạng xơ. Xơ gan hỗn hợp (xơ gan tụy không đầy đủ) kết hợp các thành phần của xơ gan nốt nhỏ và nốt lớn. Sự khác biệt giữa các dạng hình thái xơ gan có giá trị lâm sàng hạn chế.
+
+Tài liệu tham khảo về sinh lý bệnh
+
+1.
+
+Huang DQ, El-Serag HB, Loomba R
+
+: Global epidemiology of NAFLD-related HCC: Trends, predictions, risk factors and prevention.
+
+Nat Rev Gastroenterol Hepatol
+
+8(4):223-238, 2021. doi: 10.1038/s41575-020-00381-6
+
+Các triệu chứng và dấu hiệu của xơ gan
+
+Xơ gan có thể không có triệu chứng trong nhiều năm miễn là bệnh còn bù. Thông thường, các triệu chứng đầu tiên không đặc hiệu; bao gồm sự mệt mỏi chung (do giải phóng cytokine), chán ăn, khó chịu, và giảm cân (xem bảng
+
+Các triệu chứng và dấu hiệu thường gặp do các biến chứng của xơ gan
+
+). Gan thường có thể sờ được và rắn chắc, với một bờ tù, nhưng thi thoảng nhỏ và khó sờ được khi khám. Nốt thường không sờ được.
+
+Các dấu hiệu lâm sàng cho thấy có tình trạng rối loạn gan mạn tính hoặc sử dụng rượu lâu ngày nhưng không đặc hiệu cho xơ gan bao gồm giảm khối lượng cơ, lòng bàn tay son, tuyến mang tai phát triển, móng tay trắng, co cứng Dupuytren, sao mạch, chứng vú to ở đàn ông, rụng lông nách, teo tinh hoàn, và bệnh lý thần kinh ngoại vi.
+
+Một khi bất kỳ biến chứng nào của xơ gan phát triển, nhiều khả năng xảy ra tình trạng mất bù bổ sung (đặc trưng bởi chảy máu đường tiêu hóa, cổ trướng hoặc bệnh não do gan).
+
+Bảng
+
+Triệu chứng và dấu hiệu thông thường do biến chứng của Xơ gan
+
+Bảng
+
+Triệu chứng và dấu hiệu thông thường do biến chứng của Xơ gan
+
+Triệu chứng và dấu hiệu thông thường do biến chứng của Xơ gan
+
+Triệu chứng hoặc dấu hiệu
+
+Nguyên nhân có thể
+
+Chướng bụng
+
+Cổ chướng
+
+Khó chịu ở bụng với sốt hoặc bệnh não gan (hiếm khi với các dấu hiệu phúc mạc)
+
+Viêm phúc mạc tự phát do vi khuẩn.
+
+Đau hoặc sưng, các triệu chứng huyết khối phổi
+
+Thuyên tắc huyết khối
+
+Đi câu lạc bộ
+
+Hội chứng gan phổi
+
+Lẫn lộn, lơ mơ
+
+Bệnh não gan
+
+Chứng khó thở, thiếu oxy máu
+
+Hội chứng gan phổi
+
+Tăng áp phổi
+
+Mệt mỏi, nhợt nhạt.
+
+Thiếu máu do chảy máu,
+
+cường lách
+
+, suy dinh dưỡng kèm theo
+
+thiếu folate
+
+(hoặc
+
+sắt
+
+hoặc
+
+vitamin B12
+
+), bệnh mạn tính, hoặc ảnh hưởng của rượu (ví dụ: suy tủy xương)
+
+Quá tải dịch, thiểu niệu, triệu chứng suy thận
+
+Hội chứng gan thận
+
+Dễ gãy xương (do ngã từ chiều cao đứng hoặc thấp hơn), teo cơ
+
+Loãng xương
+
+do thiếu vitamin D
+
+Teo cơ bắp (mất cơ bắp do lão hóa)
+
+Thiếu dinh dưỡng
+
+Triệu chứng nhiễm trùng
+
+Giảm bạch cầu
+
+Vàng da
+
+Ứ mật
+
+Đốm, mảng xuất huyết, chảy máu
+
+Giảm tiểu cầu do lách to bởi tăng áp lực tĩnh mạch cửa hoặc những ảnh hưởng trực tiếp của rượu lên tủy xương
+
+Rối loạn đông máu do suy chức năng tổng hợp của gan,
+
+thiếu vitamin K
+
+, hoặc cả hai
+
+Ngứa, mảng sắc tố vàng
+
+Ứ mật
+
+Chảy máu trực tràng
+
+Giãn tĩnh mạch trực tràng
+
+Lách to
+
+Tăng áp lực tĩnh mạch cửa
+
+Phân mỡ
+
+Giảm hấp thu chất béo.
+
+Xuất huyết tiêu hoá
+
+cao
+
+Giãn tĩnh mạch thực quản.
+
+Bệnh lý dạ dày do tăng áp lực tĩnh mạch cửa.
+
+Chẩn đoán xơ gan
+
+Xét nghiệm máu về gan, xét nghiệm đông máu, tổng phân tích tế bào máu (CBC), và các xét nghiệm huyết thanh học về các nguyên nhân virus
+
+Các xét nghiệm hình ảnh gan thông thường: Siêu âm, CT, MRI
+
+Đánh giá hình ảnh không xâm lấn của xơ hóa: Siêu âm đàn hồi thoáng qua, chụp ảnh xung lực bức xạ âm, siêu âm đàn hồi sóng biến dạng 2 chiều, siêu âm đàn hồi cộng hưởng từ +/- tỷ số mỡ và mật độ proton
+
+Xác định nguyên nhân dựa trên đánh giá lâm sàng, xét nghiệm thường quy cho các nguyên nhân thông thường, và xét nghiệm chọn lọc cho các nguyên nhân ít phổ biến hơn
+
+Đôi khi sinh thiết gan (ví dụ: khi khám lâm sàng và xét nghiệm không xâm lấn không kết luận được hoặc khi kết quả sinh thiết có thể thay đổi cách điều trị)
+
+Cách tiếp cận chung
+
+Xơ gan được nghi ngờ ở bệnh nhân có biểu hiện của bất kỳ biến chứng nào của nó (xem bảng
+
+Các triệu chứng và dấu hiệu thường gặp do các biến chứng của Xơ gan
+
+), đặc biệt là tăng áp lực tĩnh mạch cửa hoặc
+
+cổ trướng
+
+. Xơ gan giai đoạn sớm cần phải được nghĩ đến ở những bệnh nhân có triệu chứng không đặc hiệu hoặc những bất thường đặc trưng trong xét nghiệm được phát hiện tình cờ trong quá trình xét nghiệm, đặc biệt là ở những bệnh nhân có rối loạn hoặc dùng thuốc có thể gây xơ hóa.
+
+Các xét nghiệm phát hiện xơ gan và bất kỳ biến chứng nào và để xác định nguyên nhân.
+
+Xét nghiệm
+
+Xét nghiệm chẩn đoán bắt đầu bằng
+
+Xét nghiệm máu về gan
+
+, các xét nghiệm đông máu, công thức máu và xét nghiệm huyết thanh học về viêm gan vi rút mạn tính (xem bảng
+
+Huyết thanh học viêm gan B
+
+và
+
+Huyết thanh học viêm gan C
+
+). Các xét nghiệm trong phòng thí nghiệm đơn thuần có thể làm tăng nghi ngờ về xơ gan nhưng không thể xác nhận hoặc loại trừ nó.
+
+Kết quả xét nghiệm có thể bình thường hoặc có thể chỉ ra những bất thường không đặc hiệu. Nồng độ alanine aminotransferase (ALT) và aspartate aminotransferase (AST) thường tăng nhẹ, nhưng các nồng độ này có thể bình thường. Alkaline phosphatase và gamma-glutamyl transpeptidase (GGT) thường bình thường; nồng độ cao cho thấy ứ mật hoặc tắc nghẽn mật. Bilirubin thường là bình thường nhưng tăng khi xơ gan tiến triển, đặc biệt là ở
+
+xơ gan mật nguyên phát
+
+.
+
+Albumin
+
+huyết thanh giảm và thời gian protrombin (PT) kéo dài phản ánh trực tiếp sự suy giảm tổng hợp ở gan – thường là một biến cố ở giai đoạn cuối.
+
+Albumin
+
+cũng có thể thấp khi dinh dưỡng kém.
+
+Thiếu máu là phổ biến và thường hồng cầu bình thường và dải phân bố hồng cầu cao. Thiếu máu thường do nhiều yếu tố; các yếu tố góp phần gây ra có thể bao gồm
+
+chảy máu đường tiêu hóa
+
+mạn tính (thường gây thiếu máu hồng cầu nhỏ),
+
+thiếu folate
+
+(gây thiếu máu hồng cầu to, đặc biệt là khi sử dụng rượu quá mức trong thời gian dài),
+
+tan máu
+
+và
+
+cường lách
+
+. Công thức máu cũng có thể phát hiện
+
+giảm bạch cầu
+
+,
+
+giảm tiểu cầu
+
+, hoặc giảm ba dòng.
+
+Chẩn đoán hình ảnh
+
+Các xét nghiệm hình ảnh thông thường không nhạy hoặc đặc hiệu với chẩn đoán xơ gan, nhưng thường có thể phát hiện ra các biến chứng của bệnh. Các nghiên cứu chẩn đoán hình ảnh không xâm lấn (ví dụ: siêu âm đàn hồi thoáng qua, chụp xung lực bức xạ âm, đo độ đàn hồi sóng biến dạng 2 chiều và siêu âm đàn hồi cộng hưởng từ) rất hữu ích trong việc phát hiện xơ gan giai đoạn sớm khi các dấu hiệu hình ảnh thông thường không rõ ràng và tăng áp lực tĩnh mạch cửa không rõ ràng.
+
+Xơ gan tiến triển, siêu âm cho thấy một gan nhỏ, có nốt. Siêu âm cũng phát hiện thấy
+
+tăng áp lực tĩnh mạch cửa
+
+và
+
+cổ trướng
+
+.
+
+CT và MRI có và không có chất cản quang có thể phát hiện cấu trúc dạng nốt, giãn tĩnh mạch, huyết khối tĩnh mạch cửa/tĩnh mạch lách và xác định tổn thương gan nghi ngờ là ung thư biểu mô tế bào gan. Chụp xạ hình gan dùng keo lưu huỳnh technetium-99m có thể cho thấy gan bắt không đều và tăng bắt ở lách và tủy xương, nhưng nó được sử dụng hạn chế trong thực hành hiện đại.
+
+Xác định nguyên nhân
+
+Xác định nguyên nhân cụ thể của xơ gan cần có thông tin lâm sàng từ tiền sử và thăm khám, cũng như xét nghiệm chọn lọc.
+
+Rượu là nguyên nhân có thể xảy ra ở những bệnh nhân có tiền sử rối loạn sử dụng rượu và kết quả xét nghiệm cho thấy AST cao hơn ALT (đặc biệt là tỷ lệ AST/ALT
+
+>
+
+2), tăng gamma-glutamyl transpeptidase (GGT) và
+
+thiếu máu hồng cầu to do thiếu hụt B12 và axit folic
+
+. Sốt, gan to sờ vào có cảm giác đau và vàng da cho thấy có biểu hiện của
+
+viêm gan do rượu
+
+cấp tính.
+
+Phát hiện kháng thể trong huyết thanh kháng viêm gan C (anti-HCV) và HCV-RNA cho thấy bệnh viêm gan C. Phát hiện kháng nguyên bề mặt viêm gan B (HBsAg) và kháng thể lõi của viêm gan B (anti-HBcAb) xác nhận
+
+viêm gan B mạn tính
+
+. Viêm gan B mạn tính với tải lượng vi rút HBV rất thấp có thể xảy ra trong trường hợp đồng nhiễm HBV/HDV. Hầu hết các bác sĩ lâm sàng cũng thường xuyên kiểm tra những tình trạng sau:
+
+Viêm gan tự miễn: Được gợi ý bằng một lượng kháng thể kháng nhân (thấp là không đặc hiệu và không phải lúc nào cũng là yêu cầu đánh giá thêm) và được khẳng định bởi tăng gammaglobulin (IgG) máu và sự hiện diện của các tự kháng thể khác (ví dụ như kháng thể kháng cơ trơn hoăc kháng ty thể ở gan/thận type 1 kháng thể)
+
+Bệnh nhiễm sắc tố sắt mô
+
+: Được gợi ý bằng cách tăng độ bão hòa sắt và transferrin trong huyết thanh và được xác nhận bằng xét nghiệm di truyền chất điều hòa sắt nội môi (HFE)
+
+Thiếu hụt alpha-1 antitrypsin
+
+: Được gợi ý bằng nồng độ alpha-1 antitrypsin trong huyết thanh thấp và được xác định bằng kiểu gen/kiểu hình
+
+Nếu những nguyên nhân trên không được tìm ra, những nguyên nhân khác có thể là:
+
+Sự hiện diện của các kháng thể kháng mitochondrial (95%) và IgM tăng cao gợi ý
+
+viêm đường mật nguyên phát
+
+(PBC), tình trạng này cần được xác nhận bằng sinh thiết.
+
+Sự chèn ép và giãn nở các ống mật trong và ngoài gan, được thấy trên MRCP, cho thấy có những trường hợp viêm xơ chai đường mật nguyên phát (PSC).
+
+Ceruloplasmin huyết thanh giảm và kết quả xét nghiệm
+
+đồng
+
+đặc trưng gợi ý
+
+bệnh Wilson
+
+.
+
+Có béo phì và tiền sử bệnh tiểu đường gợi ý
+
+viêm gan nhiễm mỡ liên quan đến rối loạn chuyển hóa
+
+(MASH) là một chẩn đoán loại trừ trừ khi được xác nhận bằng sinh thiết gan.
+
+Công cụ tính toán lâm sàng
+
+Các tiêu chuẩn chẩn đoán viêm gan tự miễn.
+
+Sinh thiết gan
+
+Sinh thiết gan là xâm lấn và có thể bị sai sót khi lấy mẫu, nhưng nó vẫn là tiêu chuẩn vàng để chẩn đoán xơ gan. Cần phải có sinh thiết gan trong các trường hợp sau:
+
+Nếu các tiêu chuẩn lâm sàng và kiểm tra không xâm lấn không thể kết luận được chẩn đoán xơ gan hoặc căn nguyên của bệnh này (ví dụ: nếu nghi ngờ xơ gan còn bù tốt trên lâm sàng và kết quả hình ảnh không thể đưa ra kết luận)
+
+Để xác nhận một số nguyên nhân nhất định gây xơ gan (ví dụ: thoái hóa dạng tinh bột, PBC hoặc PSC ống nhỏ)
+
+Để đánh giá mức độ nặng và/hoặc hoạt động của một số nguyên nhân gây xơ gan (ví dụ: viêm gan tự miễn) để định hướng cường độ điều trị.
+
+Để xác nhận xơ gan đối với một số tình trạng rối loạn nhất định mà hình ảnh không xâm lấn để đánh giá xơ hóa chưa được xác thực (ví dụ: mang thai, bệnh gan sung huyết và các tình trạng rối loạn ở gan hiếm gặp)
+
+Trong những trường hợp xơ gan đã rõ ràng với rối loạn đông máu,
+
+tăng áp lực tĩnh mạch cửa
+
+,
+
+cổ trướng
+
+, và
+
+suy gan
+
+, sinh thiết không cần thiết trừ khi kết quả có thể thay đổi điều tri. Ở những bệnh nhân bị cổ trướng, bệnh đông máu và giảm tiểu cầu, cách tiếp cận xuyên suốt để sinh thiết là an toàn nhất. Khi cách tiếp cận này được sử dụng, áp lực có thể được đo và vì vậy có thể tính toán gradient áp lực.
+
+Theo dõi
+
+Tất cả các bệnh nhân bị xơ gan, bất kể nguyên nhân gì, nên được tầm soát thường xuyên
+
+ung thư tế bào gan
+
+. Siêu âm bụng có hoặc không có xét nghiệm alpha-fetoprotein huyết thanh (AFP) được khuyến nghị 6 tháng một lần. Nếu phát hiện những bất thường nghi ngờ HCC, nên thực hiện MRI có tăng cường chất cản quang hoặc CT ba pha vùng bụng (trước khi dùng thuốc cản quang, giai đoạn động mạch và giai đoạn tĩnh mạch). Một số tính năng nhất định trên chẩn đoán hình ảnh có thuốc cản quang (tiêu chuẩn của Hệ thống dữ liệu và báo cáo chẩn đoán hình ảnh gan 5, bao gồm ngấm thuốc sớm ở pha động mạch, thải thuốc trong pha tĩnh mạch cửa, bao ngấm thuốc) có thể xác nhận HCC, giúp bệnh nhân không phải làm sinh thiết. Siêu âm cản quang ra đời hứa hẹn một phương pháp thay thế cho CT hoặc MRI nhưng vẫn đang được nghiên cứu.
+
+Sự hiện diện của tăng áp lực tĩnh mạch cửa có ý nghĩa lâm sàng (được định nghĩa là chênh lệch áp lực tĩnh mạch gan ≥ 10 mmHg) cần phải được đánh giá ở bệnh nhân xơ gan còn bù, theo phương thức phù hợp với hướng dẫn đồng thuận của Baveno VII (
+
+1
+
+). Tiêu chuẩn chẩn đoán được đề xuất sử dụng các phương pháp không xâm lấn để chẩn đoán tăng áp lực tĩnh mạch cửa đáng kể trên lâm sàng bao gồm (
+
+2
+
+):
+
+Độ cứng của gan (LS) trên siêu âm đàn hồi thoáng qua (TE) ≥ 25 kPa
+
+LS trên TE 20 – 25 kPa và số lượng tiểu cầu
+
+<
+
+150 k/mL
+
+LS trên TE 15 – 20 kPa và số lượng tiểu cầu
+
+<
+
+110 k/mL
+
+Ở những bệnh nhân bị xơ gan còn bù và tăng áp lực tĩnh mạch cửa đáng kể trên lâm sàng, nên điều trị bằng thuốc chẹn beta không chọn lọc (tốt nhất là bằng carvedilol) để ngăn ngừa tình trạng mất bù. (xem
+
+Điều trị xơ gan
+
+.) Nội soi đường tiêu hóa trên không cần thiết để sàng lọc giãn tĩnh mạch dạ dày-thực quản ở bệnh nhân dùng thuốc chẹn beta không chọn lọc bị xơ gan còn bù. Tuy nhiên, nếu bệnh nhân không phải là đối tượng cần dùng thuốc chẹn beta không chọn lọc thì cần phải thực hiện nội soi đường tiêu hóa trên 2 năm đến 3 năm một lần để theo dõi giãn tĩnh mạch dạ dày-thực quản và cần phải thực hiện băng nội soi khi cần thiết.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+de Franchis R, Bosch J, Garcia-Tsao G, Baveno VII Faculty.
+
+: Baveno VII - Renewing consensus in portal hypertension.
+
+J Hepatol
+
+76(4):959-974, 2022. doi: 10.1016/j.jhep.2021.12.022. Erratum in:
+
+J Hepatol
+
+. Ngày 14 tháng 4 năm 2022
+
+2.
+
+Podrug K, Trkulja V, Zelenika M, et al
+
+: Validation of the new diagnostic criteria for clinically significant portal hypertension by platelets and elastography.
+
+Dig Dis Sci
+
+67(7):3327-3332, 2022 doi: 10.1007/s10620-021-07277-8
+
+Điều trị xơ gan
+
+Chăm sóc hỗ trợ
+
+Nhìn chung, điều trị mang tính hỗ trợ và bao gồm ngừng dùng các loại thuốc có hại, cung cấp dinh dưỡng (bao gồm cả vitamin bổ sung) và điều trị các rối loạn và biến chứng tiềm ẩn. Nên giảm liều của các loại thuốc bị chuyển hóa ở gan. Tất cả các chất chứa cồn và chất độc cho gan cần tránh. Các triệu chứng cai nghiện khi nằm viện cần phải được dự đoán trước ở những bệnh nhân bị xơ gan và tiếp tục sử dụng rượu lâu dài. Bệnh nhân cần được tiêm vaccine
+
+viêm gan A và B
+
+trừ khi họ đã được miễn dịch.
+
+Bệnh nhân bị giãn tĩnh mạch cần được điều trị để ngăn ngừa chảy máu (xem
+
+Tăng áp tĩnh mạch cửa: điều trị
+
+). Bệnh nhân xơ gan còn bù có tăng áp lực tĩnh mạch cửa đáng kể trên lâm sàng (theo tiêu chuẩn Baveno VII) cần phải được bắt đầu sử dụng thuốc chẹn beta không chọn lọc để ngăn ngừa tình trạng mất bù (
+
+1
+
+). Carvedilol là thuốc chẹn beta không chọn lọc được ưu tiên hơn do có lợi ích lớn hơn so với các thuốc chẹn beta không chọn lọc khác (ví dụ: propranolol) và cải thiện thời gian sống thêm. Nếu bệnh nhân không phải là đối tượng cần dùng thuốc chẹn beta không chọn lọc, thì cần phải thực hiện nội soi đường tiêu hóa trên. Giãn tĩnh mạch thực quản vừa và lớn cần phải được điều trị dự phòng bằng phương pháp thắt (thắt) nội soi. Nếu giãn tĩnh mạch dạ dày không thể điều trị bằng phương pháp thắt qua nội soi và bệnh nhân không phải là đối tượng cần dùng thuốc chẹn beta không chọn lọc, có thể sử dụng phương pháp nút tĩnh mạch ngược dòng bằng bóng chèn hoặc tiêm cyanoacrylate qua nội soi.
+
+Cầu nối tĩnh mạch cửa chủ
+
+(TIPS) nên được xem xét nếu bệnh nhân có biến chứng của tăng áp lực tĩnh mạch cửa kháng trị với các phương pháp điều trị tiêu chuẩn, bao gồm cổ trướng và chảy máu ở búi giãn tĩnh mạch tái phát. TIPS tương đối chống chỉ định ở bệnh nhân suy tim, tăng áp động mạch phổi vừa hoặc nặng, hoặc bệnh não do gan. Bệnh nhân có điểm MELD cao (
+
+>
+
+18) có nguy cơ tử vong cao hơn sau TIPS.
+
+Ghép gan
+
+được chỉ định cho bệnh nhân có bệnh gan giai đoạn cuối hoặc HCC. Nguy cơ tử vong nếu không ghép gan bắt đầu vượt quá nguy cơ khi ghép (ví dụ, các biến chứng khi phẫu thuật, dùng thuốc ức chế miễn dịch kéo dài) khi điểm số MELD trên 15. Vì vậy, nếu điểm
+
+≥
+
+15, nếu HCC của bệnh nhân đáp ứng các tiêu chuẩn cho điểm trường hợp ngoại lệ MELD, hoặc nếu xơ gan đã mất bù trên lâm sàng, bệnh nhân cần phải được chuyển đến trung tâm cấy ghép.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+de Franchis R, Bosch J, Garcia-Tsao G, Baveno VII Faculty.
+
+: Baveno VII - Renewing consensus in portal hypertension.
+
+J Hepatol
+
+76(4):959-974, 2022. doi: 10.1016/j.jhep.2021.12.022. Xuất bản điện tử ngày 30 tháng 12 năm 2021. Erratum in:
+
+J Hepatol
+
+. Ngày 14 tháng 4 năm 2022.
+
+Tiên lượng về xơ gan
+
+Tiên lượng thường khó dự đoán. Nó phụ thuộc vào các yếu tố như nguyên nhân, mức độ nặng, các biến chứng, các điều kiện phối hợp, các yếu tố chính và hiệu quả của điều trị. Xơ gan được coi là không thể phục hồi, nhưng nhiều bằng chứng gần đây cho thấy tình trạng này có thể hồi phục. Bệnh nhân tiếp tục uống rượu, kể cả một lượng nhỏ, đều có tiên lượng xấu.
+
+Phân loại Child -Turcotte-Pugh trẻ em về mức độ nặng của bệnh gan
+
+Thang điểm Child-Turcotte-Pugh sử dụng thông tin lâm sàng và xét nghiệm để phân tầng mức độ nặng của bệnh, nguy cơ phẫu thuật và tiên lượng tổng thể *xem bảng
+
+Thang điểm Child Turcotte Pugh
+
+và
+
+đánh giá thang điểm Child Turcotte Pugh
+
+). Tuy nhiên, thang chấm điểm Child-Turcotte-Pugh có những hạn chế; ví dụ, đánh giá mức độ trầm trọng của
+
+cổ trướng
+
+và
+
+bệnh não
+
+gan là chủ quan; độ tin cậy của các kết quả như vậy đã giảm.
+
+Công cụ tính toán lâm sàng
+
+Phân loại child-pugh về mức độ nghiêm trọng của bệnh gan
+
+Bảng
+
+Thang điểm Child-Turcotte-Pugh
+
+Bảng
+
+Thang điểm Child-Turcotte-Pugh
+
+Thang điểm Child-Turcotte-Pugh
+
+Yếu tố lâm sàng hoặc xét nghiệm
+
+Mức độ bất thường
+
+Điểm được đánh giá*
+
+Bệnh não gan cấp†)
+
+không
+
+1
+
+1–2
+
+2
+
+3–4
+
+3
+
+Cổ chướng
+
+không
+
+1
+
+Nhẹ (hoặc được kiểm soát bởi thuốc lợi tiểu)
+
+2
+
+Ít nhất mức độ vừa dù có điều trị bằng lợi tiểu
+
+3
+
+Albumin
+
+>
+
+3,5 g/dL (35 g/L)
+
+1
+
+2,8-3,5 g/dL (28-35 g/L)
+
+2
+
+<
+
+2,8 g/dL (28 g/L)
+
+3
+
+Bilirubin
+
+<
+
+2 mg/dL (34 micromol/L)
+
+1
+
+2-3 mg/dL (34- 51 micromol/L)
+
+2
+
+>
+
+3 mg/dL (51 micromol/L)
+
+3
+
+PT (giây kéo dài)
+
+<
+
+4
+
+1
+
+4–6
+
+2
+
+>
+
+6
+
+3
+
+hoặc, thay vì PT
+
+INR
+
+<
+
+1,7
+
+1
+
+1,7–2,3
+
+2
+
+>
+
+2,3
+
+3
+
+* Rủi ro (điểm) dựa trên tổng số điểm:
+
+Thấp (A): 5–6
+
+Trung bình (B): 7–9
+
+Cao (C): 10–15
+
+†Bệnh não gan được phân loại dựa trên các triệu chứng:
+
+1: Rối loạn giấc ngủ; giảm tập trung, trầm cảm, lo lắng, hoặc khó chịu
+
+2: Buồn ngủ, mất phương hướng, kém trí nhớ ngắn, hành vi tự do.
+
+3: Tình cảm; sự nhầm lẫn; mất trí nhớ; tức giận, hoang tưởng, hoặc hành vi kỳ quái khác
+
+4: Hôn mê
+
+INR = Chỉ số bình thường hóa quốc tế; PT = thời gian prothrombin.
+
+* Rủi ro (điểm) dựa trên tổng số điểm:
+
+Thấp (A): 5–6
+
+Trung bình (B): 7–9
+
+Cao (C): 10–15
+
+†Bệnh não gan được phân loại dựa trên các triệu chứng:
+
+1: Rối loạn giấc ngủ; giảm tập trung, trầm cảm, lo lắng, hoặc khó chịu
+
+2: Buồn ngủ, mất phương hướng, kém trí nhớ ngắn, hành vi tự do.
+
+3: Tình cảm; sự nhầm lẫn; mất trí nhớ; tức giận, hoang tưởng, hoặc hành vi kỳ quái khác
+
+4: Hôn mê
+
+INR = Chỉ số bình thường hóa quốc tế; PT = thời gian prothrombin.
+
+Bảng
+
+Giải thích thang điểm Child-Turcotte-Pugh
+
+Bảng
+
+Giải thích thang điểm Child-Turcotte-Pugh
+
+Giải thích thang điểm Child-Turcotte-Pugh
+
+Điểm
+
+Nguy cơ (cấp)
+
+Tỉ lệ sống sót (%)
+
+1 năm
+
+2 năm
+
+5–6
+
+Thấp (A)
+
+100
+
+85
+
+7–9
+
+Trung bình (B)
+
+80
+
+60
+
+10–15
+
+Cao (C)
+
+45
+
+35
+
+Mô hình bệnh gan giai đoạn cuối (MELD)
+
+Ngược lại với phân lại Child-Turcotte-Pugh, mô hình cho điểm bệnh gan giai đoạn cuối (MELD) ước tính mức độ nặng của bệnh gan giai đoạn cuối, không phụ thuộc vào nguyên nhân, chỉ dựa trên các kết quả khách quan của xét nghiệm: creatinin huyết thanh, bilirubin huyết thanh, và INR. Điểm số MELD được sử dụng để xác định việc phân bổ các cơ quan có sẵn tạng cho các ứng viên
+
+ghép gan
+
+bởi vì nó có thể sắp xếp các ứng viên theo nguy cơ tử vong (xem bảng
+
+điểm và bảng điểm MELD
+
+).
+
+Các biến thể của điểm số MELD đôi khi được sử dụng cho các mục đích khác (ví dụ ước tính nguy cơ tử vong 90 ngày ở bệnh nhân viêm gan do rượu, dự đoán nguy cơ tử vong sau phẫu thuật ở bệnh nhân xơ gan). Một biến thể của điểm MELD kết hợp với số đo natri huyết thanh (MELD-Na) dự đoán chính xác hơn tỷ lệ tử vong ở bệnh nhân xơ gan so với điểm MELD thông thường và đã được Mạng lưới chia sẻ nội tạng thống nhất (UNOS)/Mạng lưới mua sắm và cấy ghép nội tạng (OPTN) sử dụng cho đến tháng 7 năm 2023 để ưu tiên bệnh nhân trong danh sách chờ ghép gan. Một biến thể khác của điểm MELD (MELD 3.0) kết hợp
+
+albumin
+
+/giới tính huyết thanh và đã cập nhật hệ số của các biến hiện có, đưa ra các thuật ngữ tương tác và hạ mức creatinine tối đa xuống thành 3,0 mg/dL (
+
+1
+
+). Vào tháng 7 năm 2023, UNOS/OPTN chuyển sang sử dụng MELD 3.0 để ưu tiên các ứng viên ghép gan từ 12 tuổi trở lên.
+
+Bảng
+
+Điểm MELD và tỷ lệ tử vong
+
+Bảng
+
+Điểm MELD và tỷ lệ tử vong
+
+Điểm MELD và tỷ lệ tử vong
+
+Điểm (MELD, MELD Na, MELD 3.0)
+
+So sánh tỷ lệ tử vong trong 3 tháng*
+
+<
+
+9
+
+MELD: 1,9%
+
+MELD Na: 1,8%
+
+MED: 3,0: 0,6%
+
+10-19
+
+MELD: 6,0%
+
+MELD Na: 6,2%
+
+MELD 3.0: 6,7%
+
+20-29
+
+MELD: 19,6%
+
+MELD Na: 28,0%
+
+MELD 3.0: 24,8%
+
+30-39
+
+MELD: 52,6%
+
+MELD Na: 51,8%
+
+MELD 3.0: 41,9%
+
+>
+
+40
+
+MELD: 71,3%
+
+MELD Na: 37,3%
+
+MELD 3.0: 51,1%
+
+* Điều trị bệnh nhân người lớn chờ ghép gan.
+
+Phỏng theo
+
+Wiesner R, Edwards E, Freeman R, et al
+
+: Model for end-stage liver disease (MELD) and allocation of donor livers.
+
+Gastroenterology
+
+124(1):91-96, 2003 doi: 10.1053/gast.2003.50016 and
+
+Kim WR, Mannalithara A, Heimbach JK, et al
+
+: MELD 3.0: The model for end-stage liver disease updated for the modern era.
+
+Gastroenterology
+
+161(6):1887-1895.e4, 2021 doi: 10.1053/j.gastro.2021.08.050.
+
+* Điều trị bệnh nhân người lớn chờ ghép gan.
+
+Phỏng theo
+
+Wiesner R, Edwards E, Freeman R, et al
+
+: Model for end-stage liver disease (MELD) and allocation of donor livers.
+
+Gastroenterology
+
+124(1):91-96, 2003 doi: 10.1053/gast.2003.50016 and
+
+Kim WR, Mannalithara A, Heimbach JK, et al
+
+: MELD 3.0: The model for end-stage liver disease updated for the modern era.
+
+Gastroenterology
+
+161(6):1887-1895.e4, 2021 doi: 10.1053/j.gastro.2021.08.050.
+
+Vào năm 2019, Mạng lưới Chia sẻ Nội tạng Thống nhất (UNOS) đã triển khai một bản cập nhật chính sách lớn về cách xử lý trường hợp ngoại lệ MELD (ví dụ: HCC, hội chứng gan phổi). Theo chính sách mới, bệnh nhân được chấm điểm MELD 3.0 cố định dựa trên MELD trung bình khi cấy ghép (MMaT) trong khu vực của họ (có bán kính 250 hải lý), bất kể thời gian chờ đợi của họ.
+
+Công cụ tính toán lâm sàng
+
+Điểm MELD 3.0 cho bệnh gan giai đoạn cuối (KHÔNG thích hợp cho bệnh nhân dưới 12 tuổi)
+
+Thang điểm bệnh gan giai đoạn cuối ở trẻ em (PELD)
+
+Đối với bệnh nhân
+
+<
+
+12 tuổi, điểm số Bệnh gan cho bệnh nhi giai đoạn cuối (PELD) tương ứng được tính toán. Điểm PELD càng cao nguy cơ càng cao. Vào tháng 7 năm 2023, UNOS/OPTN đã áp dụng một biến thể mới của điểm PELD (PELD Cr), kết hợp creatinine, hệ số cập nhật cho các biến số hiện có cũng như chuyển đổi độ tuổi và suy giảm tăng trưởng thành các biến liên tục.
+
+Công cụ tính toán lâm sàng
+
+Điểm PELD Cr cho bệnh gan giai đoạn cuối (bệnh nhân dưới 12 tuổi)
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Kim WR, Mannalithara A, Heimbach JK, et al
+
+: MELD 3.0: The model for end-stage liver disease updated for the modern era.
+
+Gastroenterology
+
+161(6):1887-1895.e4, 2021 doi: 10.1053/j.gastro.2021.08.050
+
+Những điểm chính
+
+Bệnh tật và tử vong do xơ gan thường là kết quả của các biến chứng của nó (ví dụ: biến chứng của tăng áp lực tĩnh mạch cửa, suy gan, các vấn đề huyết học).
+
+Làm sinh thiết gan nếu chẩn đoán rõ ràng giúp thay đổi điều trị và kết quả tốt hơn.
+
+Đánh giá tất cả các bệnh nhân xơ gan về bệnh viêm gan tự miễn, bệnh nhiễm sắc tố sắt mô di truyền và thiếu hụt alpha-1 antitrypsin, cũng như các nguyên nhân phổ biến hơn, bệnh gan nhiễm mỡ liên quan đến rối loạn chức năng chuyển hóa (MASLD, trước đây gọi là bệnh gan nhiễm mỡ không do rượu/NAFLD) và viêm gan do rượu và viêm gan vi rút.
+
+Theo dõi định kỳ tất cả bệnh nhân về tăng áp lực tĩnh mạch cửa/giãn tĩnh mạch dạ dày thực quản và ung thư biểu mô tế bào gan có ý nghĩa lâm sàng, làm xét nghiệm theo chỉ định lâm sàng.
+
+Dự đoán tiên lượng bằng cách sử dụng hệ thống tính điểm Child-Turcotte-Pugh và mô hình bệnh gan giai đoạn cuối (MELD) và chuyển bệnh nhân có điểm số MELD
+
+≥
+
+15 để được đánh giá về việc có ghép gan không.
+
+Điều trị hỗ trợ xơ gan, bao gồm cả việc sử dụng các liệu pháp để ngăn ngừa chảy máu.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của xơ gan ---
+
+Nguyên nhân gây xơ gan cũng giống như nguyên nhân xơ hóa (xem bảngCác rối loạn và thuốc/chất có thể gây xơ hóa gan). Ở các quốc gia có nguồn lực cao, hầu hết các trường hợp là dosử dụng rượu lâu dài,viêm gan vi rút mạn tính (viêm gan B và viêm gan C)hoặcviêm gan nhiễm mỡ liên quan đến rối loạn chuyển hóa(MASH, trước đây gọi là viêm gan nhiễm mỡ không do rượu/NASH). Ở một số vùng ở Châu Á và Châu Phi, xơ gan thường là kết quả củabệnh viêm gan B mạn tínhđịa phương. (Xem bảngĐặc điểm của vi rút viêm ganđể biết thêm thông tin về viêm gan B và viêm gan C.) Xơ gan không rõ nguyên nhân (xơ gan không rõ nguồn gốc) đang trở nên ít phổ biến hơn do nhiều nguyên nhân cụ thể (ví dụ: viêm gan C mạn tính, MASH) được xác định. Tổn thương đối với đường mật cũng có thể dẫn đến xơ gan, như xảy ra trong tắc nghẽn ống mật cơ học,xơ gan mật nguyên phát, vàxơ hóa đường mật nguyên phát.
+
+--- 2. Sinh lý bệnh của xơ gan ---
+
+Có 2 thành phần chính:Xơ hóa ganTái tạo tế bào ganĐể đáp ứng lại thương tổn và mất mát, các chất điều chỉnh tăng trưởng gây tăng sản tế bào gan (sản sinh ra các nốt tái tạo) và tăng sinh động mạch (angiogenesis). Trong số các chất điều chỉnh tăng trưởng có các cytokine và các yếu tố tăng trưởng gan (ví dụ, yếu tố tăng trưởng biểu mô, yếu tố tăng trưởng tế bào gan, yếu tố tăng trưởng biến đổi tế bào alpha, yếu tố hoại tử khối u).Insulin, glucagon, và các mô hình của dòng máu trong gan xác định các nốt phát triển như thế nào và ở đâu.Tân tạo mạch tạo ra các mạch máu mới trong lớp vỏ bọc sợi xung quanh các nốt. Các mạch này kết nối động mạch gan và tĩnh mạch cửa với tĩnh mạch gan, phục hồi các đường tuần hoàn trong gan. Các mạch nối như vậy cung cấp hệ thống thoát máu tĩnh mạch tương đối thấp, áp lực cao, không thể chứa lượng máu nhiều như bình thường. Kết quả là, áp lực tĩnh mạch cửa tăng lên. Sự biến đổi như vậy trong dòng máu góp phần tăng áp lực tĩnh mạch cửa, tăng còn do các nốt tái tạo chèn ép làm hẹp các tĩnh mạch gan.Tỉ lệ tiến triển từ xơ hóa đến xơ gan và hình thái xơ gan đa dạng từ người này sang người khác. Có lẽ, lý do của sự đa dạng như vậy là mức độ phơi nhiễm với kích thích gây tổn thương và đáp ứng của mỗi cá nhân.Các biến chứngTăng áp lực tĩnh mạch cửalà biến chứng nghiêm trọng nhất của xơ gan, và nó gây ra các biến chứng, bao gồmChảy máu đường tiêu hóa trêntừ thực quản, dạ dày, trực tràng và tăng áp lực tĩnh mạch cửa.Giảm tiểu cầuCổ chướngThương tổn thận cấp (hội chứng gan - thận)Tăng áp động mạch phổi(tăng áp phổi)Hội chứng gan phổi(shunt trong phổi)Có thể có nhiễm trùng dịch cổ trướng (viêm phúc mạc tự phát do vi khuẩn). Tăng áp lực mạch phổi có thể biểu hiện với các triệu chứng suy tim. Các biến chứng của tăng áp lực tĩnh mạch cửa có xu hướng gây ra tử vong đáng kể.Xơ gan có thể gây ra biến chứng tim mạch khác. Giãn mạch, chuyển nhịp từ phải sang trái trong phổi, và thông khí / tưới máu không phù hợp có thể dẫn đến tình trạng thiếu oxy (hội chứng gan phổi).Sự mất dần cấu trúc gan làm suy yếu chức năng, dẫn đến suy gan; nó biểu hiện như rối loạn đông máu,tổn thương thận cấp(hội chứng gan thận), vàbệnh não gan. Bệnh não do gan được đặc trưng bởi suy tư thế vận động, lú lẫn hoặc hôn mê gan và là kết quả của việc gan không có khả năng chuyển hóa các chất độc từ đường tiêu hóa (GI). Nồng độ amoniac trong huyết thanh tăng cao có thể giúp chẩn đoán bệnh não do gan, nhưng nồng độ này không tương quan lắm với mức độ nặng của bệnh não do gan.Tế bào mật tiết ra ít mật, góp phần gây ứ mật vàvàng da. Ít mật trong ruột gây giảm hấp thu chất béo (triglycerides) và vitamin tan trong chất béo. Giảm hấp thu vitamin D có thể góp phần gây loãng xương. Tình trạng suy dinh dưỡng và mất cơ bắp do lão hóa là phổ biến. Các tình trạng này có thể là kết quả của chứng chán ăn với lượng thức ăn ăn vào giảm hoặc ở những bệnh nhân bịbệnh gan liên quan đến rượu, vì kém hấp thu do suy tụy.Rối loạn máu là thường gặp. Thiếu máu thường do cường lách, chảy máu đường tiêu hóa mạn tính,thiếu folate(đặc biệt là ở bệnh nhân rối loạn sử dụng rượu) vàtan máu.Kết quả của xơ gan làm giảm sản xuất các yếu tố prothrombin và antithrombin. Cường lách và thay đổi bài tiết của thrombopoietin góp phần giảm tiểu cầu. Giảm tiểu cầu và giảm sản xuất các yếu tố đông máu có thể gây rối loạn đông máu phức tạp khó dự đoán, tăng nguy cơ bị cả chảy máu và bệnh huyết khối tắc nghẽn (mặc dù INR thường tăng).Giảm bạch cầucũng phổ biến; nó là trung gian củacường láchvà thay đổi bài tiết của erythropoietin và yếu tố kích thích bạch cầu hạt.Ngọc trai & cạm bẫyXem xét các biến chứng huyết khối tắc mạch ở bệnh nhân xơ gan, ngay cả khi INR tăng.Ung thư biểu mô tế bào ganthường gây biến chứng xơ gan do bất kỳ nguyên nhân nào (chỉ cần theo dõi lâm sàng). Tỷ lệ mắc ung thư biểu mô tế bào gan trong bệnh xơ gan do các nguyên nhân cụ thể được liệt kê dưới đây (1):Viêm gan B mạn tính: 3 đến 8% mỗi nămViêm gan C mạn tính: 3 đến 5% mỗi nămViêm đường mật nguyên phát: 3 đến 5% mỗi nămRối loạn chức năng chuyển hóa liên quan đến viêm gan nhiễm mỡ: 0,3% đến 2,6% mỗi nămXơ gan do các nguyên nhân khác, ví dụ:bệnh nhiễm sắc tố sắt mô,bệnh gan liên quan đến rượu,thiếu hụt alpha-1 antitrypsin,bệnh Wilson: Có thể là hơn 1,5% mỗi nămMô bệnh họcXơ gan được đặc trưng bởi các nốt tân tạo và tạo cầu nối xơ hóa. Các nốt không hoàn chỉnh, các nốt không xơ hóa (nốt tái tạo), và xơ hoá gan bẩm sinh (ví dụ như xơ hóa gan lan rộng mà không tái tạo các nốt) không phải là xơ gan.Xơ gan có thể là nốt lớn hoặc nốt nhỏ. Xơ gan dạng nốt nhỏ được đặc trưng bởi các nốt nhỏ đồng nhất (đường kính<3 mm) và các dải mô liên kết dày đều. Thông thường, nốt thiếu tổ chức tiểu thùy; tĩnh mạch gan đầu cuối (trung gian) và khoảng cửa bị bóp méo. Với thời gian, xơ gan nốt lớn thường tiến triển. Các nốt có kích thước khác nhau (đường kính từ 3 mm đến 5 cm) và có một số tổ chức tiểu thùy tương đối bình thường của khoảng cửa, tĩnh mạch gan. Các dải sợi rộng có độ dày khác nhau bao quanh các nốt lớn. Sự phá vỡ cấu trúc gan bình thường được gợi ý bởi sự tập trung của các bộ ba khoảng cửa trong các vết sẹo dạng xơ. Xơ gan hỗn hợp (xơ gan tụy không đầy đủ) kết hợp các thành phần của xơ gan nốt nhỏ và nốt lớn. Sự khác biệt giữa các dạng hình thái xơ gan có giá trị lâm sàng hạn chế.Tài liệu tham khảo về sinh lý bệnh1.Huang DQ, El-Serag HB, Loomba R: Global epidemiology of NAFLD-related HCC: Trends, predictions, risk factors and prevention.Nat Rev Gastroenterol Hepatol8(4):223-238, 2021. doi: 10.1038/s41575-020-00381-6
+
+--- 3. Các triệu chứng và dấu hiệu của xơ gan ---
+
+Xơ gan có thể không có triệu chứng trong nhiều năm miễn là bệnh còn bù. Thông thường, các triệu chứng đầu tiên không đặc hiệu; bao gồm sự mệt mỏi chung (do giải phóng cytokine), chán ăn, khó chịu, và giảm cân (xem bảngCác triệu chứng và dấu hiệu thường gặp do các biến chứng của xơ gan). Gan thường có thể sờ được và rắn chắc, với một bờ tù, nhưng thi thoảng nhỏ và khó sờ được khi khám. Nốt thường không sờ được.Các dấu hiệu lâm sàng cho thấy có tình trạng rối loạn gan mạn tính hoặc sử dụng rượu lâu ngày nhưng không đặc hiệu cho xơ gan bao gồm giảm khối lượng cơ, lòng bàn tay son, tuyến mang tai phát triển, móng tay trắng, co cứng Dupuytren, sao mạch, chứng vú to ở đàn ông, rụng lông nách, teo tinh hoàn, và bệnh lý thần kinh ngoại vi.Một khi bất kỳ biến chứng nào của xơ gan phát triển, nhiều khả năng xảy ra tình trạng mất bù bổ sung (đặc trưng bởi chảy máu đường tiêu hóa, cổ trướng hoặc bệnh não do gan).BảngTriệu chứng và dấu hiệu thông thường do biến chứng của Xơ ganBảngTriệu chứng và dấu hiệu thông thường do biến chứng của Xơ ganTriệu chứng và dấu hiệu thông thường do biến chứng của Xơ ganTriệu chứng hoặc dấu hiệuNguyên nhân có thểChướng bụngCổ chướngKhó chịu ở bụng với sốt hoặc bệnh não gan (hiếm khi với các dấu hiệu phúc mạc)Viêm phúc mạc tự phát do vi khuẩn.Đau hoặc sưng, các triệu chứng huyết khối phổiThuyên tắc huyết khốiĐi câu lạc bộHội chứng gan phổiLẫn lộn, lơ mơBệnh não ganChứng khó thở, thiếu oxy máuHội chứng gan phổiTăng áp phổiMệt mỏi, nhợt nhạt.Thiếu máu do chảy máu,cường lách, suy dinh dưỡng kèm theothiếu folate(hoặcsắthoặcvitamin B12), bệnh mạn tính, hoặc ảnh hưởng của rượu (ví dụ: suy tủy xương)Quá tải dịch, thiểu niệu, triệu chứng suy thậnHội chứng gan thậnDễ gãy xương (do ngã từ chiều cao đứng hoặc thấp hơn), teo cơLoãng xươngdo thiếu vitamin DTeo cơ bắp (mất cơ bắp do lão hóa)Thiếu dinh dưỡngTriệu chứng nhiễm trùngGiảm bạch cầuVàng daỨ mậtĐốm, mảng xuất huyết, chảy máuGiảm tiểu cầu do lách to bởi tăng áp lực tĩnh mạch cửa hoặc những ảnh hưởng trực tiếp của rượu lên tủy xươngRối loạn đông máu do suy chức năng tổng hợp của gan,thiếu vitamin K, hoặc cả haiNgứa, mảng sắc tố vàngỨ mậtChảy máu trực tràngGiãn tĩnh mạch trực tràngLách toTăng áp lực tĩnh mạch cửaPhân mỡGiảm hấp thu chất béo.Xuất huyết tiêu hoácaoGiãn tĩnh mạch thực quản.Bệnh lý dạ dày do tăng áp lực tĩnh mạch cửa.
+
+--- 4. Chẩn đoán xơ gan ---
+
+Xét nghiệm máu về gan, xét nghiệm đông máu, tổng phân tích tế bào máu (CBC), và các xét nghiệm huyết thanh học về các nguyên nhân virusCác xét nghiệm hình ảnh gan thông thường: Siêu âm, CT, MRIĐánh giá hình ảnh không xâm lấn của xơ hóa: Siêu âm đàn hồi thoáng qua, chụp ảnh xung lực bức xạ âm, siêu âm đàn hồi sóng biến dạng 2 chiều, siêu âm đàn hồi cộng hưởng từ +/- tỷ số mỡ và mật độ protonXác định nguyên nhân dựa trên đánh giá lâm sàng, xét nghiệm thường quy cho các nguyên nhân thông thường, và xét nghiệm chọn lọc cho các nguyên nhân ít phổ biến hơnĐôi khi sinh thiết gan (ví dụ: khi khám lâm sàng và xét nghiệm không xâm lấn không kết luận được hoặc khi kết quả sinh thiết có thể thay đổi cách điều trị)Cách tiếp cận chungXơ gan được nghi ngờ ở bệnh nhân có biểu hiện của bất kỳ biến chứng nào của nó (xem bảngCác triệu chứng và dấu hiệu thường gặp do các biến chứng của Xơ gan), đặc biệt là tăng áp lực tĩnh mạch cửa hoặccổ trướng. Xơ gan giai đoạn sớm cần phải được nghĩ đến ở những bệnh nhân có triệu chứng không đặc hiệu hoặc những bất thường đặc trưng trong xét nghiệm được phát hiện tình cờ trong quá trình xét nghiệm, đặc biệt là ở những bệnh nhân có rối loạn hoặc dùng thuốc có thể gây xơ hóa.Các xét nghiệm phát hiện xơ gan và bất kỳ biến chứng nào và để xác định nguyên nhân.Xét nghiệmXét nghiệm chẩn đoán bắt đầu bằngXét nghiệm máu về gan, các xét nghiệm đông máu, công thức máu và xét nghiệm huyết thanh học về viêm gan vi rút mạn tính (xem bảngHuyết thanh học viêm gan BvàHuyết thanh học viêm gan C). Các xét nghiệm trong phòng thí nghiệm đơn thuần có thể làm tăng nghi ngờ về xơ gan nhưng không thể xác nhận hoặc loại trừ nó.Kết quả xét nghiệm có thể bình thường hoặc có thể chỉ ra những bất thường không đặc hiệu. Nồng độ alanine aminotransferase (ALT) và aspartate aminotransferase (AST) thường tăng nhẹ, nhưng các nồng độ này có thể bình thường. Alkaline phosphatase và gamma-glutamyl transpeptidase (GGT) thường bình thường; nồng độ cao cho thấy ứ mật hoặc tắc nghẽn mật. Bilirubin thường là bình thường nhưng tăng khi xơ gan tiến triển, đặc biệt là ởxơ gan mật nguyên phát.Albuminhuyết thanh giảm và thời gian protrombin (PT) kéo dài phản ánh trực tiếp sự suy giảm tổng hợp ở gan – thường là một biến cố ở giai đoạn cuối.Albumincũng có thể thấp khi dinh dưỡng kém.Thiếu máu là phổ biến và thường hồng cầu bình thường và dải phân bố hồng cầu cao. Thiếu máu thường do nhiều yếu tố; các yếu tố góp phần gây ra có thể bao gồmchảy máu đường tiêu hóamạn tính (thường gây thiếu máu hồng cầu nhỏ),thiếu folate(gây thiếu máu hồng cầu to, đặc biệt là khi sử dụng rượu quá mức trong thời gian dài),tan máuvàcường lách. Công thức máu cũng có thể phát hiệngiảm bạch cầu,giảm tiểu cầu, hoặc giảm ba dòng.Chẩn đoán hình ảnhCác xét nghiệm hình ảnh thông thường không nhạy hoặc đặc hiệu với chẩn đoán xơ gan, nhưng thường có thể phát hiện ra các biến chứng của bệnh. Các nghiên cứu chẩn đoán hình ảnh không xâm lấn (ví dụ: siêu âm đàn hồi thoáng qua, chụp xung lực bức xạ âm, đo độ đàn hồi sóng biến dạng 2 chiều và siêu âm đàn hồi cộng hưởng từ) rất hữu ích trong việc phát hiện xơ gan giai đoạn sớm khi các dấu hiệu hình ảnh thông thường không rõ ràng và tăng áp lực tĩnh mạch cửa không rõ ràng.Xơ gan tiến triển, siêu âm cho thấy một gan nhỏ, có nốt. Siêu âm cũng phát hiện thấytăng áp lực tĩnh mạch cửavàcổ trướng.CT và MRI có và không có chất cản quang có thể phát hiện cấu trúc dạng nốt, giãn tĩnh mạch, huyết khối tĩnh mạch cửa/tĩnh mạch lách và xác định tổn thương gan nghi ngờ là ung thư biểu mô tế bào gan. Chụp xạ hình gan dùng keo lưu huỳnh technetium-99m có thể cho thấy gan bắt không đều và tăng bắt ở lách và tủy xương, nhưng nó được sử dụng hạn chế trong thực hành hiện đại.Xác định nguyên nhânXác định nguyên nhân cụ thể của xơ gan cần có thông tin lâm sàng từ tiền sử và thăm khám, cũng như xét nghiệm chọn lọc.Rượu là nguyên nhân có thể xảy ra ở những bệnh nhân có tiền sử rối loạn sử dụng rượu và kết quả xét nghiệm cho thấy AST cao hơn ALT (đặc biệt là tỷ lệ AST/ALT>2), tăng gamma-glutamyl transpeptidase (GGT) vàthiếu máu hồng cầu to do thiếu hụt B12 và axit folic. Sốt, gan to sờ vào có cảm giác đau và vàng da cho thấy có biểu hiện củaviêm gan do rượucấp tính.Phát hiện kháng thể trong huyết thanh kháng viêm gan C (anti-HCV) và HCV-RNA cho thấy bệnh viêm gan C. Phát hiện kháng nguyên bề mặt viêm gan B (HBsAg) và kháng thể lõi của viêm gan B (anti-HBcAb) xác nhậnviêm gan B mạn tính. Viêm gan B mạn tính với tải lượng vi rút HBV rất thấp có thể xảy ra trong trường hợp đồng nhiễm HBV/HDV. Hầu hết các bác sĩ lâm sàng cũng thường xuyên kiểm tra những tình trạng sau:Viêm gan tự miễn: Được gợi ý bằng một lượng kháng thể kháng nhân (thấp là không đặc hiệu và không phải lúc nào cũng là yêu cầu đánh giá thêm) và được khẳng định bởi tăng gammaglobulin (IgG) máu và sự hiện diện của các tự kháng thể khác (ví dụ như kháng thể kháng cơ trơn hoăc kháng ty thể ở gan/thận type 1 kháng thể)Bệnh nhiễm sắc tố sắt mô: Được gợi ý bằng cách tăng độ bão hòa sắt và transferrin trong huyết thanh và được xác nhận bằng xét nghiệm di truyền chất điều hòa sắt nội môi (HFE)Thiếu hụt alpha-1 antitrypsin: Được gợi ý bằng nồng độ alpha-1 antitrypsin trong huyết thanh thấp và được xác định bằng kiểu gen/kiểu hìnhNếu những nguyên nhân trên không được tìm ra, những nguyên nhân khác có thể là:Sự hiện diện của các kháng thể kháng mitochondrial (95%) và IgM tăng cao gợi ýviêm đường mật nguyên phát(PBC), tình trạng này cần được xác nhận bằng sinh thiết.Sự chèn ép và giãn nở các ống mật trong và ngoài gan, được thấy trên MRCP, cho thấy có những trường hợp viêm xơ chai đường mật nguyên phát (PSC).Ceruloplasmin huyết thanh giảm và kết quả xét nghiệmđồngđặc trưng gợi ýbệnh Wilson.Có béo phì và tiền sử bệnh tiểu đường gợi ýviêm gan nhiễm mỡ liên quan đến rối loạn chuyển hóa(MASH) là một chẩn đoán loại trừ trừ khi được xác nhận bằng sinh thiết gan.Công cụ tính toán lâm sàngCác tiêu chuẩn chẩn đoán viêm gan tự miễn.Sinh thiết ganSinh thiết gan là xâm lấn và có thể bị sai sót khi lấy mẫu, nhưng nó vẫn là tiêu chuẩn vàng để chẩn đoán xơ gan. Cần phải có sinh thiết gan trong các trường hợp sau:Nếu các tiêu chuẩn lâm sàng và kiểm tra không xâm lấn không thể kết luận được chẩn đoán xơ gan hoặc căn nguyên của bệnh này (ví dụ: nếu nghi ngờ xơ gan còn bù tốt trên lâm sàng và kết quả hình ảnh không thể đưa ra kết luận)Để xác nhận một số nguyên nhân nhất định gây xơ gan (ví dụ: thoái hóa dạng tinh bột, PBC hoặc PSC ống nhỏ)Để đánh giá mức độ nặng và/hoặc hoạt động của một số nguyên nhân gây xơ gan (ví dụ: viêm gan tự miễn) để định hướng cường độ điều trị.Để xác nhận xơ gan đối với một số tình trạng rối loạn nhất định mà hình ảnh không xâm lấn để đánh giá xơ hóa chưa được xác thực (ví dụ: mang thai, bệnh gan sung huyết và các tình trạng rối loạn ở gan hiếm gặp)Trong những trường hợp xơ gan đã rõ ràng với rối loạn đông máu,tăng áp lực tĩnh mạch cửa,cổ trướng, vàsuy gan, sinh thiết không cần thiết trừ khi kết quả có thể thay đổi điều tri. Ở những bệnh nhân bị cổ trướng, bệnh đông máu và giảm tiểu cầu, cách tiếp cận xuyên suốt để sinh thiết là an toàn nhất. Khi cách tiếp cận này được sử dụng, áp lực có thể được đo và vì vậy có thể tính toán gradient áp lực.Theo dõiTất cả các bệnh nhân bị xơ gan, bất kể nguyên nhân gì, nên được tầm soát thường xuyênung thư tế bào gan. Siêu âm bụng có hoặc không có xét nghiệm alpha-fetoprotein huyết thanh (AFP) được khuyến nghị 6 tháng một lần. Nếu phát hiện những bất thường nghi ngờ HCC, nên thực hiện MRI có tăng cường chất cản quang hoặc CT ba pha vùng bụng (trước khi dùng thuốc cản quang, giai đoạn động mạch và giai đoạn tĩnh mạch). Một số tính năng nhất định trên chẩn đoán hình ảnh có thuốc cản quang (tiêu chuẩn của Hệ thống dữ liệu và báo cáo chẩn đoán hình ảnh gan 5, bao gồm ngấm thuốc sớm ở pha động mạch, thải thuốc trong pha tĩnh mạch cửa, bao ngấm thuốc) có thể xác nhận HCC, giúp bệnh nhân không phải làm sinh thiết. Siêu âm cản quang ra đời hứa hẹn một phương pháp thay thế cho CT hoặc MRI nhưng vẫn đang được nghiên cứu.Sự hiện diện của tăng áp lực tĩnh mạch cửa có ý nghĩa lâm sàng (được định nghĩa là chênh lệch áp lực tĩnh mạch gan ≥ 10 mmHg) cần phải được đánh giá ở bệnh nhân xơ gan còn bù, theo phương thức phù hợp với hướng dẫn đồng thuận của Baveno VII (1). Tiêu chuẩn chẩn đoán được đề xuất sử dụng các phương pháp không xâm lấn để chẩn đoán tăng áp lực tĩnh mạch cửa đáng kể trên lâm sàng bao gồm (2):Độ cứng của gan (LS) trên siêu âm đàn hồi thoáng qua (TE) ≥ 25 kPaLS trên TE 20 – 25 kPa và số lượng tiểu cầu<150 k/mLLS trên TE 15 – 20 kPa và số lượng tiểu cầu<110 k/mLỞ những bệnh nhân bị xơ gan còn bù và tăng áp lực tĩnh mạch cửa đáng kể trên lâm sàng, nên điều trị bằng thuốc chẹn beta không chọn lọc (tốt nhất là bằng carvedilol) để ngăn ngừa tình trạng mất bù. (xemĐiều trị xơ gan.) Nội soi đường tiêu hóa trên không cần thiết để sàng lọc giãn tĩnh mạch dạ dày-thực quản ở bệnh nhân dùng thuốc chẹn beta không chọn lọc bị xơ gan còn bù. Tuy nhiên, nếu bệnh nhân không phải là đối tượng cần dùng thuốc chẹn beta không chọn lọc thì cần phải thực hiện nội soi đường tiêu hóa trên 2 năm đến 3 năm một lần để theo dõi giãn tĩnh mạch dạ dày-thực quản và cần phải thực hiện băng nội soi khi cần thiết.Tài liệu tham khảo chẩn đoán1.de Franchis R, Bosch J, Garcia-Tsao G, Baveno VII Faculty.: Baveno VII - Renewing consensus in portal hypertension.J Hepatol76(4):959-974, 2022. doi: 10.1016/j.jhep.2021.12.022. Erratum in:J Hepatol. Ngày 14 tháng 4 năm 20222.Podrug K, Trkulja V, Zelenika M, et al: Validation of the new diagnostic criteria for clinically significant portal hypertension by platelets and elastography.Dig Dis Sci67(7):3327-3332, 2022 doi: 10.1007/s10620-021-07277-8
+
+--- 5. Điều trị xơ gan ---
+
+Chăm sóc hỗ trợNhìn chung, điều trị mang tính hỗ trợ và bao gồm ngừng dùng các loại thuốc có hại, cung cấp dinh dưỡng (bao gồm cả vitamin bổ sung) và điều trị các rối loạn và biến chứng tiềm ẩn. Nên giảm liều của các loại thuốc bị chuyển hóa ở gan. Tất cả các chất chứa cồn và chất độc cho gan cần tránh. Các triệu chứng cai nghiện khi nằm viện cần phải được dự đoán trước ở những bệnh nhân bị xơ gan và tiếp tục sử dụng rượu lâu dài. Bệnh nhân cần được tiêm vaccineviêm gan A và Btrừ khi họ đã được miễn dịch.Bệnh nhân bị giãn tĩnh mạch cần được điều trị để ngăn ngừa chảy máu (xemTăng áp tĩnh mạch cửa: điều trị). Bệnh nhân xơ gan còn bù có tăng áp lực tĩnh mạch cửa đáng kể trên lâm sàng (theo tiêu chuẩn Baveno VII) cần phải được bắt đầu sử dụng thuốc chẹn beta không chọn lọc để ngăn ngừa tình trạng mất bù (1). Carvedilol là thuốc chẹn beta không chọn lọc được ưu tiên hơn do có lợi ích lớn hơn so với các thuốc chẹn beta không chọn lọc khác (ví dụ: propranolol) và cải thiện thời gian sống thêm. Nếu bệnh nhân không phải là đối tượng cần dùng thuốc chẹn beta không chọn lọc, thì cần phải thực hiện nội soi đường tiêu hóa trên. Giãn tĩnh mạch thực quản vừa và lớn cần phải được điều trị dự phòng bằng phương pháp thắt (thắt) nội soi. Nếu giãn tĩnh mạch dạ dày không thể điều trị bằng phương pháp thắt qua nội soi và bệnh nhân không phải là đối tượng cần dùng thuốc chẹn beta không chọn lọc, có thể sử dụng phương pháp nút tĩnh mạch ngược dòng bằng bóng chèn hoặc tiêm cyanoacrylate qua nội soi.Cầu nối tĩnh mạch cửa chủ(TIPS) nên được xem xét nếu bệnh nhân có biến chứng của tăng áp lực tĩnh mạch cửa kháng trị với các phương pháp điều trị tiêu chuẩn, bao gồm cổ trướng và chảy máu ở búi giãn tĩnh mạch tái phát. TIPS tương đối chống chỉ định ở bệnh nhân suy tim, tăng áp động mạch phổi vừa hoặc nặng, hoặc bệnh não do gan. Bệnh nhân có điểm MELD cao (>18) có nguy cơ tử vong cao hơn sau TIPS.Ghép ganđược chỉ định cho bệnh nhân có bệnh gan giai đoạn cuối hoặc HCC. Nguy cơ tử vong nếu không ghép gan bắt đầu vượt quá nguy cơ khi ghép (ví dụ, các biến chứng khi phẫu thuật, dùng thuốc ức chế miễn dịch kéo dài) khi điểm số MELD trên 15. Vì vậy, nếu điểm≥15, nếu HCC của bệnh nhân đáp ứng các tiêu chuẩn cho điểm trường hợp ngoại lệ MELD, hoặc nếu xơ gan đã mất bù trên lâm sàng, bệnh nhân cần phải được chuyển đến trung tâm cấy ghép.Tài liệu tham khảo về điều trị1.de Franchis R, Bosch J, Garcia-Tsao G, Baveno VII Faculty.: Baveno VII - Renewing consensus in portal hypertension.J Hepatol76(4):959-974, 2022. doi: 10.1016/j.jhep.2021.12.022. Xuất bản điện tử ngày 30 tháng 12 năm 2021. Erratum in:J Hepatol. Ngày 14 tháng 4 năm 2022.
+
+--- 6. Tiên lượng về xơ gan ---
+
+Tiên lượng thường khó dự đoán. Nó phụ thuộc vào các yếu tố như nguyên nhân, mức độ nặng, các biến chứng, các điều kiện phối hợp, các yếu tố chính và hiệu quả của điều trị. Xơ gan được coi là không thể phục hồi, nhưng nhiều bằng chứng gần đây cho thấy tình trạng này có thể hồi phục. Bệnh nhân tiếp tục uống rượu, kể cả một lượng nhỏ, đều có tiên lượng xấu.Phân loại Child -Turcotte-Pugh trẻ em về mức độ nặng của bệnh ganThang điểm Child-Turcotte-Pugh sử dụng thông tin lâm sàng và xét nghiệm để phân tầng mức độ nặng của bệnh, nguy cơ phẫu thuật và tiên lượng tổng thể *xem bảngThang điểm Child Turcotte Pughvàđánh giá thang điểm Child Turcotte Pugh). Tuy nhiên, thang chấm điểm Child-Turcotte-Pugh có những hạn chế; ví dụ, đánh giá mức độ trầm trọng củacổ trướngvàbệnh nãogan là chủ quan; độ tin cậy của các kết quả như vậy đã giảm.Công cụ tính toán lâm sàngPhân loại child-pugh về mức độ nghiêm trọng của bệnh ganBảngThang điểm Child-Turcotte-PughBảngThang điểm Child-Turcotte-PughThang điểm Child-Turcotte-PughYếu tố lâm sàng hoặc xét nghiệmMức độ bất thườngĐiểm được đánh giá*Bệnh não gan cấp†)không11–223–43Cổ chướngkhông1Nhẹ (hoặc được kiểm soát bởi thuốc lợi tiểu)2Ít nhất mức độ vừa dù có điều trị bằng lợi tiểu3Albumin>3,5 g/dL (35 g/L)12,8-3,5 g/dL (28-35 g/L)2<2,8 g/dL (28 g/L)3Bilirubin<2 mg/dL (34 micromol/L)12-3 mg/dL (34- 51 micromol/L)2>3 mg/dL (51 micromol/L)3PT (giây kéo dài)<414–62>63hoặc, thay vì PTINR<1,711,7–2,32>2,33* Rủi ro (điểm) dựa trên tổng số điểm:Thấp (A): 5–6Trung bình (B): 7–9Cao (C): 10–15†Bệnh não gan được phân loại dựa trên các triệu chứng:1: Rối loạn giấc ngủ; giảm tập trung, trầm cảm, lo lắng, hoặc khó chịu2: Buồn ngủ, mất phương hướng, kém trí nhớ ngắn, hành vi tự do.3: Tình cảm; sự nhầm lẫn; mất trí nhớ; tức giận, hoang tưởng, hoặc hành vi kỳ quái khác4: Hôn mêINR = Chỉ số bình thường hóa quốc tế; PT = thời gian prothrombin.* Rủi ro (điểm) dựa trên tổng số điểm:Thấp (A): 5–6Trung bình (B): 7–9Cao (C): 10–15†Bệnh não gan được phân loại dựa trên các triệu chứng:1: Rối loạn giấc ngủ; giảm tập trung, trầm cảm, lo lắng, hoặc khó chịu2: Buồn ngủ, mất phương hướng, kém trí nhớ ngắn, hành vi tự do.3: Tình cảm; sự nhầm lẫn; mất trí nhớ; tức giận, hoang tưởng, hoặc hành vi kỳ quái khác4: Hôn mêINR = Chỉ số bình thường hóa quốc tế; PT = thời gian prothrombin.BảngGiải thích thang điểm Child-Turcotte-PughBảngGiải thích thang điểm Child-Turcotte-PughGiải thích thang điểm Child-Turcotte-PughĐiểmNguy cơ (cấp)Tỉ lệ sống sót (%)1 năm2 năm5–6Thấp (A)100857–9Trung bình (B)806010–15Cao (C)4535Mô hình bệnh gan giai đoạn cuối (MELD)Ngược lại với phân lại Child-Turcotte-Pugh, mô hình cho điểm bệnh gan giai đoạn cuối (MELD) ước tính mức độ nặng của bệnh gan giai đoạn cuối, không phụ thuộc vào nguyên nhân, chỉ dựa trên các kết quả khách quan của xét nghiệm: creatinin huyết thanh, bilirubin huyết thanh, và INR. Điểm số MELD được sử dụng để xác định việc phân bổ các cơ quan có sẵn tạng cho các ứng viênghép ganbởi vì nó có thể sắp xếp các ứng viên theo nguy cơ tử vong (xem bảngđiểm và bảng điểm MELD).Các biến thể của điểm số MELD đôi khi được sử dụng cho các mục đích khác (ví dụ ước tính nguy cơ tử vong 90 ngày ở bệnh nhân viêm gan do rượu, dự đoán nguy cơ tử vong sau phẫu thuật ở bệnh nhân xơ gan). Một biến thể của điểm MELD kết hợp với số đo natri huyết thanh (MELD-Na) dự đoán chính xác hơn tỷ lệ tử vong ở bệnh nhân xơ gan so với điểm MELD thông thường và đã được Mạng lưới chia sẻ nội tạng thống nhất (UNOS)/Mạng lưới mua sắm và cấy ghép nội tạng (OPTN) sử dụng cho đến tháng 7 năm 2023 để ưu tiên bệnh nhân trong danh sách chờ ghép gan. Một biến thể khác của điểm MELD (MELD 3.0) kết hợpalbumin/giới tính huyết thanh và đã cập nhật hệ số của các biến hiện có, đưa ra các thuật ngữ tương tác và hạ mức creatinine tối đa xuống thành 3,0 mg/dL (1). Vào tháng 7 năm 2023, UNOS/OPTN chuyển sang sử dụng MELD 3.0 để ưu tiên các ứng viên ghép gan từ 12 tuổi trở lên.BảngĐiểm MELD và tỷ lệ tử vongBảngĐiểm MELD và tỷ lệ tử vongĐiểm MELD và tỷ lệ tử vongĐiểm (MELD, MELD Na, MELD 3.0)So sánh tỷ lệ tử vong trong 3 tháng*<9MELD: 1,9%MELD Na: 1,8%MED: 3,0: 0,6%10-19MELD: 6,0%MELD Na: 6,2%MELD 3.0: 6,7%20-29MELD: 19,6%MELD Na: 28,0%MELD 3.0: 24,8%30-39MELD: 52,6%MELD Na: 51,8%MELD 3.0: 41,9%>40MELD: 71,3%MELD Na: 37,3%MELD 3.0: 51,1%* Điều trị bệnh nhân người lớn chờ ghép gan.Phỏng theoWiesner R, Edwards E, Freeman R, et al: Model for end-stage liver disease (MELD) and allocation of donor livers.Gastroenterology124(1):91-96, 2003 doi: 10.1053/gast.2003.50016 andKim WR, Mannalithara A, Heimbach JK, et al: MELD 3.0: The model for end-stage liver disease updated for the modern era.Gastroenterology161(6):1887-1895.e4, 2021 doi: 10.1053/j.gastro.2021.08.050.* Điều trị bệnh nhân người lớn chờ ghép gan.Phỏng theoWiesner R, Edwards E, Freeman R, et al: Model for end-stage liver disease (MELD) and allocation of donor livers.Gastroenterology124(1):91-96, 2003 doi: 10.1053/gast.2003.50016 andKim WR, Mannalithara A, Heimbach JK, et al: MELD 3.0: The model for end-stage liver disease updated for the modern era.Gastroenterology161(6):1887-1895.e4, 2021 doi: 10.1053/j.gastro.2021.08.050.Vào năm 2019, Mạng lưới Chia sẻ Nội tạng Thống nhất (UNOS) đã triển khai một bản cập nhật chính sách lớn về cách xử lý trường hợp ngoại lệ MELD (ví dụ: HCC, hội chứng gan phổi). Theo chính sách mới, bệnh nhân được chấm điểm MELD 3.0 cố định dựa trên MELD trung bình khi cấy ghép (MMaT) trong khu vực của họ (có bán kính 250 hải lý), bất kể thời gian chờ đợi của họ.Công cụ tính toán lâm sàngĐiểm MELD 3.0 cho bệnh gan giai đoạn cuối (KHÔNG thích hợp cho bệnh nhân dưới 12 tuổi)Thang điểm bệnh gan giai đoạn cuối ở trẻ em (PELD)Đối với bệnh nhân<12 tuổi, điểm số Bệnh gan cho bệnh nhi giai đoạn cuối (PELD) tương ứng được tính toán. Điểm PELD càng cao nguy cơ càng cao. Vào tháng 7 năm 2023, UNOS/OPTN đã áp dụng một biến thể mới của điểm PELD (PELD Cr), kết hợp creatinine, hệ số cập nhật cho các biến số hiện có cũng như chuyển đổi độ tuổi và suy giảm tăng trưởng thành các biến liên tục.Công cụ tính toán lâm sàngĐiểm PELD Cr cho bệnh gan giai đoạn cuối (bệnh nhân dưới 12 tuổi)Tài liệu tham khảo về điều trị1.Kim WR, Mannalithara A, Heimbach JK, et al: MELD 3.0: The model for end-stage liver disease updated for the modern era.Gastroenterology161(6):1887-1895.e4, 2021 doi: 10.1053/j.gastro.2021.08.050
+
+--- 7. Những điểm chính ---
+
+Bệnh tật và tử vong do xơ gan thường là kết quả của các biến chứng của nó (ví dụ: biến chứng của tăng áp lực tĩnh mạch cửa, suy gan, các vấn đề huyết học).Làm sinh thiết gan nếu chẩn đoán rõ ràng giúp thay đổi điều trị và kết quả tốt hơn.Đánh giá tất cả các bệnh nhân xơ gan về bệnh viêm gan tự miễn, bệnh nhiễm sắc tố sắt mô di truyền và thiếu hụt alpha-1 antitrypsin, cũng như các nguyên nhân phổ biến hơn, bệnh gan nhiễm mỡ liên quan đến rối loạn chức năng chuyển hóa (MASLD, trước đây gọi là bệnh gan nhiễm mỡ không do rượu/NAFLD) và viêm gan do rượu và viêm gan vi rút.Theo dõi định kỳ tất cả bệnh nhân về tăng áp lực tĩnh mạch cửa/giãn tĩnh mạch dạ dày thực quản và ung thư biểu mô tế bào gan có ý nghĩa lâm sàng, làm xét nghiệm theo chỉ định lâm sàng.Dự đoán tiên lượng bằng cách sử dụng hệ thống tính điểm Child-Turcotte-Pugh và mô hình bệnh gan giai đoạn cuối (MELD) và chuyển bệnh nhân có điểm số MELD≥15 để được đánh giá về việc có ghép gan không.Điều trị hỗ trợ xơ gan, bao gồm cả việc sử dụng các liệu pháp để ngăn ngừa chảy máu.

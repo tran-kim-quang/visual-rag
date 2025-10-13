@@ -1,0 +1,655 @@
+TIÊU ĐỀ: Dị ứng thực phẩm
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/dị-ứng-tự-miễn-và-các-rối-loạn-quá-mẫn-khác/dị-ứng-thực-phẩm
+================================================================================
+
+NỘI DUNG:
+
+Dị ứng thực phẩm
+
+Theo
+
+James Fernandez
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 8 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v6515950_vi
+
+dị ứng thức ăn là phản ứng miễn dịch quá mức đối với các thành phần thực phẩm, thường là các protein. Các biểu hiện khác nhau và có thể bao gồm viêm da dị ứng, triệu chứng tiêu hóa hoặc các triệu chứng hô hấp và sốc phản vệ. Chẩn đoán dựa trên tiền sử và đôi khi là xét nghiệm IgE huyết thanh đặc hiệu dị ứng, xét nghiệm da và/hoặc loại bỏ thức ăn. Điều trị là loại bỏ thức ăn gây ra phản ứng và đôi khi uống cromolyn.
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn dị ứng và Atopi
+
+)
+
+Phân biệt dị ứng thực phẩm với các phản ứng không có lợi với thực phẩm (ví dụ,
+
+không dung nạp lactose
+
+,
+
+hội chứng ruột kích thích
+
+, viêm
+
+dạ dày ruột truyền nhiễm
+
+) và phản ứng với các chất phụ gia (ví dụ: bột ngọt, metabisulfite, tartrazine) hoặc các chất gây ô nhiễm thực phẩm (ví dụ: bụi cao su trong thực phẩm do công nhân đeo găng tay cao su xử lý). Tỷ lệ hiện mắc của dị ứng thực phẩm thực sự dao động từ
+
+<
+
+1% đến 3% và thay đổi tùy theo địa lý và phương pháp xác định; bệnh nhân có xu hướng nhầm lẫn giữa không dung nạp với dị ứng (
+
+1
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Warren CM, Sehgal S, Sicherer SH, Gupta RS
+
+. Epidemiology and the Growing Epidemic of Food Allergy in Children and Adults Across the Globe.
+
+Curr Allergy Asthma Rep
+
+24(3):95-106, 2024. doi:10.1007/s11882-023-01120-y
+
+Căn nguyên của dị ứng thực phẩm
+
+Gần như bất kỳ thực phẩm hoặc phụ gia thực phẩm nào có thể gây ra phản ứng dị ứng, nhưng các yếu tố gây nên thông thường nhất bao gồm
+
+Ở trẻ sơ sinh và trẻ nhỏ:
+
+Sữa, đậu nành, trứng, đậu phộng và lúa mì
+
+Ở trẻ lớn hơn và người lớn:
+
+Hạt và hải sản
+
+Sự phản ứng chéo giữa thực phẩm và các chất gây dị ứng không phải là thực phẩm, và sự nhạy cảm có thể xảy ra ngoài đường tiêu hóa. Ví dụ: những bệnh nhân bị dị ứng đường miệng (thường là ngứa, ban đỏ và phù nề ở miệng khi ăn trái cây và rau) có thể bị nhạy cảm do tiếp xúc với phấn hoa có tính kháng nguyên tương tự như kháng nguyên trong thực phẩm. Trẻ em bị dị ứng đậu phộng có thể đã nhạy cảm với các loại kem bôi tại chỗ có dầu đậu phộng được sử dụng để điều trị phát ban. Nhiều bệnh nhân dị ứng với latex cũng dị ứng với chuối, kiwi, bơ, hoặc kết hợp.
+
+Các chứng dị ứng thực phẩm phổ biến hơn ở trẻ em có bố mẹ bị dị ứng thức ăn,
+
+viêm mũi dị ứng
+
+hoặc dị ứng hen.
+
+Nói chung, dị ứng thực phẩm là trung gian của IgE, T tế bào, hoặc cả hai:
+
+Dị ứng qua trung gian IgE
+
+(ví dụ, nổi
+
+mày đay
+
+,
+
+hen suyễn
+
+,
+
+sốc phản vệ
+
+) khởi phát cấp tính, thường phát triển trong giai đoạn nhũ nhi và thường xảy ra ở những người có tiền sử dị ứng gia đình nặng.
+
+Dị ứng T-cell
+
+(ví dụ như bệnh chế độ ăn protein đường tiêu hóa,
+
+bệnh celiac
+
+) biểu hiện dần dần và mạn tính; phổ biến nhất ở trẻ sơ sinh và trẻ nhỏ.
+
+Dị ứng trung gian bởi cả IgE và tế bào T
+
+(ví dụ,
+
+viêm da dị ứng
+
+, bệnh tiêu hóa tăng bạch cầu ái toan) có xu hướng chậm hoặc xuất hiện mạn tính.
+
+Hội chứng dị ứng đường miệng (hội chứng dị ứng thực phẩm phấn hoa)
+
+Hội chứng dị ứng đường miệng (hội chứng dị ứng thực phẩm phấn hoa) là do các protein trong phấn hoa và thực phẩm phản ứng chéo (thường là trái cây sống và rau và các loại hạt). Khi bệnh nhân bị dị ứng với một loại protein phấn hoa cụ thể, hệ thống miễn dịch sẽ phản ứng với một loại protein tương tự trong thực phẩm và tạo ra phản ứng dị ứng. Bệnh nhân thường có thể dung nạp thực phẩm nếu nó được nấu chín hoặc đun nóng vì protein thực phẩm bị biến tính, làm thay đổi cấu trúc của các protein phản ứng chéo.
+
+Các loại phấn hoa và thực phẩm sau đây thường được kết hợp với nhau:
+
+Phấn hoa bạch dương: Táo, hạnh nhân, cà rốt, cần tây, anh đào, quả phỉ, kiwi, đào, lê và mận
+
+Cỏ phấn hoa: Cần tây, dưa, cam, đào và cà chua
+
+Phấn hoa Ragweed: Chuối, dưa chuột, dưa, hạt hướng dương và bí xanh
+
+Các triệu chứng điển hình bao gồm ngứa miệng và cổ họng khi ăn phải thức ăn gây bệnh. Mặc dù phản vệ không phổ biến nhưng nó có thể xảy ra (
+
+1
+
+).
+
+Chẩn đoán hội chứng dị ứng đường miệng thường được thực hiện trên lâm sàng nhưng có thể được xác nhận bằng xét nghiệm chích da.
+
+Điều trị hội chứng dị ứng đường miệng bao gồm tránh thức ăn, nấu chín kỹ thức ăn để làm biến tính protein và mang theo ống tiêm epinephrine tự tiêm, đã nạp sẵn trong trường hợp phản ứng phản vệ.
+
+Bệnh dạ dày ruột do tăng bạch cầu ái toan
+
+Rối loạn bất thường này gây đau, quặn bụng và tiêu chảy với tăng bạch cầu ái toan máu, bạch cầu ái toan trong ruột, và bệnh đường ruột mất protein; bệnh nhân có tiền sử cơ địa dị ứng.
+
+Viêm thực quản tăng bạch cầu ái toan
+
+có thể kèm theo bệnh lý dạ dày ruột tăng bạch cầu ái toan hoặc xảy ra đơn độc. Viêm thực quản bạch cầu ái toan được đặc trưng bởi tình trạng viêm mạn tính của thực quản và có thể gây ra khó nuốt, khó tiêu không liên quan đến acid, không dung nạp thức ăn và đau bụng. Viêm thực quản tăng bạch cầu ái toan có thể gây hẹp; chẩn đoán bằng sinh thiết qua nội soi.
+
+Hội chứng alpha-gal
+
+Hội chứng Alpha-gal đề cập đến một dạng dị ứng được phát hiện gần đây với thịt đỏ (
+
+2
+
+). Alpha-gal là một phân tử đường (galactose-alpha-1,3-galactose) xuất hiện ở hầu hết các loài động vật có vú, ngoại trừ động vật linh trưởng (bao gồm cả con người). Ngoài ra, alpha-gal không xảy ra ở cá, chim hoặc bò sát.
+
+Ít nhất một loài bọ chét (bọ chét sao đơn độc) có alpha-gal trong nước bọt của chúng. Bằng chứng cho thấy rằng vết cắn (đặc biệt là nhiều vết cắn) từ những con bọ ve như vậy có thể khiến một người nhạy cảm với alpha-gal. Vì alpha-gal có trong nhiều loại thịt đỏ (ví dụ: thịt lợn, thịt bò, thịt cừu, thịt nai) và trong các sản phẩm thực phẩm có nguồn gốc từ động vật có vú (ví dụ: các sản phẩm từ sữa, gelatin), những người bị ảnh hưởng có thể phát triển phản ứng dị ứng qua trung gian IgE với những thực phẩm này.
+
+Các phản ứng dị ứng có thể bao gồm phát ban ngứa, khó tiêu, táo bón, buồn nôn và phản ứng phản vệ. Không giống như các loại dị ứng thực phẩm khác, các triệu chứng của hội chứng alpha-gal thường không xuất hiện cho đến sau khi ăn 3 giờ đến 8 giờ.
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Skypala IJ
+
+: Can patients with oral allergy syndrome be at risk of anaphylaxis?
+
+Curr Opin Allergy Clin Immunol
+
+2020 20 (5):459–464, 2020. doi: 10.1097/ACI.0000000000000679
+
+2.
+
+Hashizume H, Fujiyama T, Umayahara T, et al
+
+: Repeated
+
+Amblyomma testudinarium
+
+tick bites are associated with increased galactose-α-1,3-galactose carbohydrate IgE antibody levels: A retrospective cohort study in a single institution.
+
+J Am Acad Dermatol
+
+78 (6):1135–1141.e3, 2018. doi: 10.1016/j.jaad.2017.12.028 Epub 2017 Dec 19.
+
+Các triệu chứng và dấu hiệu của dị ứng thực phẩm
+
+Các triệu chứng và dấu hiệu dị ứng thực phẩm khác nhau do tác nhân dị ứng, cơ chế và tuổi bệnh nhân.
+
+Biểu hiện thông thường nhất ở trẻ sơ sinh là
+
+viêm da dị ứng
+
+đơn thuần hoặc với các triệu chứng tiêu hóa (ví dụ như buồn nôn, nôn ói, tiêu chảy). Trẻ em thường vượt qua các biểu hiện này và phản ứng ngày càng nhiều với các chất gây dị ứng đường hô hấp, với các triệu chứng hen suyễn và viêm mũi; sự tiến triển này được gọi là cơ địa dị ứng tăng dần (atopic march). Ở độ tuổi 10, bệnh nhân hiếm khi có triệu chứng hô hấp sau khi ăn thực phẩm gây dị ứng, mặc dù các xét nghiệm da vẫn dương tính. Nếu viêm da dị ứng dai dẳng hoặc xuất hiện ở trẻ lớn hoặc người lớn, hoạt động của bệnh dường như phần lớn không liên quan đến dị ứng qua trung gian IgE với sự chi phối của các phản ứng qua trung gian tế bào T, mặc dù những bệnh nhân bị dị ứng và viêm da lan rộng có nồng độ IgE trong huyết thanh cao hơn nhiều so với những bệnh nhân bị dị ứng nhưng không bị viêm da.
+
+Khi dị ứng thực phẩm xảy ra ở trẻ lớn hơn và người lớn, phản ứng có khuynh hướng nghiêm trọng hơn (ví dụ như nổi mề đay, phù mạch, thậm chí phản vệ). Ở một vài bệnh nhân, thực phẩm (đặc biệt là lúa mì và tôm) gây nên chứng quá mẫn nếu họ gắng sức sau đó; cơ chế không rõ. Thức ăn cũng có thể gây ra các triệu chứng không đặc hiệu (ví dụ, nhức đầu, ngất). Thỉnh thoảng, viêm bao tử, loét áp tơ, co thắt túi mật, táo bón co thắt, ngứa và eczema quanh hậu môn là do dị ứng thực phẩm.
+
+Các phản ứng qua trung gian tế bào T thường có liên quan đến đường tiêu hóa, gây ra các triệu chứng như đau bụng bán cấp hoặc mạn tính, buồn nôn, quặn bụng và tiêu chảy.
+
+Ngọc trai & cạm bẫy
+
+Xem xét dị ứng thức ăn nếu bệnh nhân có đau bụng bán cấp hoặc mạn tính không rõ nguồn gốc, buồn nôn, nôn ói, đau bụng quặn, hoặc tiêu chảy.
+
+Chẩn đoán dị ứng thực phẩm
+
+Xét nghiệm IgE huyết thanh đặc hiệu cho dị nguyên
+
+Xét nghiệm da
+
+Thử loại bỏ thức ăn (đơn độc hoặc sau khi thử nghiệm da hoặc thử nghiệm IgE huyết thanh đặc hiệu dị ứng)
+
+Sự dị ứng thức ăn nặng nề thường thấy ở người lớn. Khi không xảy ra ở trẻ em (nhóm tuổi bị ảnh hưởng nhiều nhất), chẩn đoán có thể là khó khăn, và rối loạn này phải được phân biệt với các vấn đề về đường tiêu hóa.
+
+Chẩn đoán bệnh celiac
+
+được thảo luận ở nơi khác.
+
+Thử nghiệm (ví dụ xét nghiệm IgE huyết thanh đặc hiệu dị ứng, xét nghiệm da) và thử loại bỏ thức ăn là hữu ích nhất trong chẩn đoán các phản ứng trung gian IgE. Bệnh nhân nên ghi nhật ký thực phẩm, liệt kê tỉ mỉ mọi thứ họ đã ăn và bất kỳ tác dụng phụ nào họ gặp phải (đặc biệt là thời gian liên quan đến việc tiêu thụ thực phẩm), để giúp đưa ra các quyết định liên quan đến việc loại bỏ thực phẩm nghi ngờ.
+
+Chỉ nên thử nghiệm những loại thực phẩm có đáp ứng trên lâm sàng. Việc thử nghiệm trên diện rộng nhiều loại thực phẩm hoặc nhóm thực phẩm không được khuyến khích vì có nguy cơ loại bỏ những thực phẩm không cần thiết khỏi chế độ ăn.
+
+Nếu nghi ngờ phản ứng thực phẩm, hãy thực hiện một trong các bước sau:
+
+Thử IgE huyết thanh đặc hiệu dị ứng
+
+Xét nghiệm da
+
+Trong cả hai trường hợp, một thử nghiệm dương tính không xác nhận một chứng dị ứng liên quan đến lâm sàng. Cả hai xét nghiệm đều có thể có kết quả dương tính giả hoặc âm tính giả. Xét nghiệm da thường nhạy cảm hơn xét nghiệm IgE huyết thanh đặc hiệu với chất gây dị ứng nhưng có nhiều khả năng có kết quả dương tính giả. Xét nghiệm da cung cấp kết quả trong vòng 15 đến 20 phút, nhanh hơn nhiều so với xét nghiệm IgE huyết thanh đặc hiệu với chất gây dị ứng.
+
+Nếu một trong hai xét nghiệm dương tính, các thực phẩm thử nghiệm được loại bỏ khỏi chế độ ăn. Nếu loại trừ thức ăn làm giảm triệu chứng, bệnh nhân sẽ được tiếp xúc lại với thực phẩm (tốt nhất là trong thử nghiệm mù đôi) để xem liệu các triệu chứng có tái diễn hay không (thử thách bằng miệng).. (Xem thêm National Institute of Allergy and Infectious Diseases (NIAID) medical position statement:
+
+Hướng dẫn chẩn đoán và quản lý dị ứng thực phẩm ở Hoa Kỳ
+
+.)
+
+Nếu không thể kiểm tra da để xác nhận dị ứng thực phẩm hoặc kết quả không có kết quả, các lựa chọn tiếp theo có thể bao gồm một hoặc cả hai điều sau:
+
+Loại bỏ thực phẩm mà bệnh nhân nghi ngờ gây ra các triệu chứng dựa trên nhật ký thực phẩm của bệnh nhân, sau đó đánh giá việc giải quyết triệu chứng
+
+Quy định một chế độ ăn bao gồm các thực phẩm tương đối không gây dị ứng và loại bỏ các chất gây dị ứng thực phẩm thông thường (xem bảng
+
+Thực phẩm cho phép trong chế độ ăn loại bỏ chất đại diện
+
+)
+
+Đối với chế độ ăn thứ hai, không có thức ăn hoặc chất lỏng có thể được tiêu thụ khác với những thức ăn được chỉ định. Phải luôn sử dụng các sản phẩm tinh khiết. Nhiều sản phẩm được chuẩn bị thương mại và các bữa ăn có chứa một loại thực phẩm không mong muốn với số lượng lớn (ví dụ như bánh mì lúa mạch đen thương mại chứa bột mì) hoặc trong các dấu vết chất gia vị hoặc chất làm đặc và có thể xác định xem thực phẩm không mong muốn có xuất hiện có thể khó khăn.
+
+Một cuộc thảo luận với bệnh nhân và quan sát từ nhật ký thực phẩm của bệnh nhân có thể giúp lựa chọn chế độ ăn loại bỏ ban đầu. Nếu không cải thiện sau 1 tuần của chế độ ăn ban đầu, cần thử chế độ ăn khác; tuy nhiên, các phản ứng qua trung gian tế bào T có thể mất vài tuần để giải quyết. Nếu các triệu chứng thuyên giảm và nếu bệnh nhân có các triệu chứng ít nghiêm trọng hơn, một thực phẩm mới được thêm vào và ăn với số lượng lớn
+
+>
+
+24 giờ hoặc cho đến khi các triệu chứng trở lại. Nhưng nếu bệnh nhân có các triệu chứng đặc biệt nghiêm trọng, một lượng nhỏ thực phẩm được thử nghiệm được ăn khí có sự hiện diện của bác sĩ lâm sàng, và các phản ứng của bệnh nhân được quan sát thấy.
+
+Sự trầm trọng thêm hoặc tái phát triệu chứng sau khi bổ sung thức ăn mới là bằng chứng tốt nhất về dị ứng.
+
+Bảng
+
+Thực phẩm được phép sử dụng trong chế độ ăn kiêng loại bỏ chất đại diện*
+
+Bảng
+
+Thực phẩm được phép sử dụng trong chế độ ăn kiêng loại bỏ chất đại diện*
+
+Thực phẩm được phép sử dụng trong chế độ ăn kiêng loại bỏ chất đại diện*
+
+Thực phẩm
+
+Chế độ ăn số 1
+
+(Không có thịt bò, thịt lợn, gà, sữa, lúa mạch đen hoặc ngô)
+
+Chế độ ăn số 2
+
+(Không có thịt bò, thịt cừu, sữa hoặc gạo)
+
+Chế độ ăn số 3
+
+(Không có thịt cừu, gà, lúa mạch đen, gạo, ngô hoặc sữa)
+
+Ngũ cốc
+
+Sản phẩm lúa gạo
+
+Sản phẩm ngô
+
+không
+
+Rau
+
+Hành khô, củ cải đường, cà rốt, rau diếp, rau bina
+
+Măng tây, ngô, đậu Hà Lan, bí, đậu đen, cà chua
+
+Củ cải, đậu lima, khoai tây (trắng và ngọt), đậu đen, cà chua
+
+Thịt
+
+Cừu
+
+thịt lợn, gà
+
+thịt lợn, thịt bò
+
+Bột (bánh mì hoặc bánh bích quy)
+
+Cơm
+
+Ngô, 100% lúa mạch đen (bánh mì lúa mạch đen thường có lúa mì)
+
+Đậu Lima, khoai tây, đậu tương
+
+Trái cây
+
+Bưởi, chanh, lê
+
+Quả mơ, đào, dứa, mận
+
+Quả mơ, bưởi, chanh, đào
+
+Chất béo
+
+Dầu hạt bông, dầu ô liu
+
+Dầu ngô, dầu hạt bông
+
+Dầu hạt bông, dầu ô liu
+
+Đồ uống
+
+Cà phê (đen), nước chanh, chè
+
+Cà phê (đen), nước chanh, chè
+
+Cà phê (đen), nước chanh, nước ép trái cây đã được chấp thuận, chè
+
+Thể hỗn hợp
+
+Đường mía, gelatin, đường phong, ô liu, muối, bánh pudding
+
+Mía đường, xirô ngô, gelatin, muối
+
+Đường mía, gelatin, đường phong, ô liu, muối, bánh pudding
+
+* Chế độ ăn số 4: Nếu các triệu chứng vẫn tồn tại khi bệnh nhân đang theo bất kỳ một trong 3 chế độ ăn loại trừ trên và vẫn nghi ngờ, chế độ ăn uống hàng ngày có thể còn giới hạn trong chế độ ăn cơ bản (sử dụng công thức thủy phân hoặc công thức dựa trên axit amin).
+
+* Chế độ ăn số 4: Nếu các triệu chứng vẫn tồn tại khi bệnh nhân đang theo bất kỳ một trong 3 chế độ ăn loại trừ trên và vẫn nghi ngờ, chế độ ăn uống hàng ngày có thể còn giới hạn trong chế độ ăn cơ bản (sử dụng công thức thủy phân hoặc công thức dựa trên axit amin).
+
+Điều trị dị ứng thực phẩm
+
+Loại trừ thức ăn
+
+Đôi khi uống cromolyn
+
+Đôi khi corticosteroid cho bệnh lý ruột tăng bạch cầu ái toan
+
+Liệu pháp miễn dịch uống hoặc ngậm dưới lưỡi để giải mẫn cảm
+
+Kháng thể đơn dòng (omalizumab, dupilumab)
+
+Điều trị dị ứng thực phẩm bao gồm việc loại bỏ thức ăn gây ra phản ứng dị ứng. Do đó, chẩn đoán và điều trị chồng lấp lên nhau. Khi đánh giá hiệu quả của chế độ ăn loại trừ, bác sĩ lâm sàng phải cân nhắc rằng độ nhạy cảm của thực phẩm có thể tự phát.
+
+Bệnh nhân bị dị ứng thực phẩm nghiêm trọng cần được khuyên nên mang theo thuốc kháng histamine ngay nếu phản ứng bắt đầu và một ống tiêm tự tiêm epinephrine đã được bơm sẵn thực hiện khi có phản ứng nặng. Thuốc kháng histamin ít có giá trị ngoại trừ phản ứng cấp tính gây mày đay và phù mạch.
+
+Cromolyn đường uống dường như làm giảm phản ứng dị ứng với thức ăn một cách hiệu quả.
+
+Điều trị bằng corticosteroid dài hạn rất hữu ích cho bệnh lý ruột tăng bạch cầu ái toan có triệu chứng. Hỗn dịch budesonide đường uống có hiệu quả trong điều trị viêm thực quản do tăng bạch cầu ái toan ở người lớn và bệnh nhi từ 11 tuổi trở lên.
+
+Đối với bệnh nhân bị viêm thực quản do tăng bạch cầu ái toan, có thể áp dụng chế độ ăn nguyên tố hoặc chế độ ăn loại trừ 6 loại thực phẩm theo kinh nghiệm (
+
+1
+
+,
+
+2
+
+).
+
+Omalizumab có thể được sử dụng để giúp ngăn ngừa các phản ứng dị ứng nghiêm trọng qua trung gian IgE gây ra với thực phẩm.
+
+Liệu pháp miễn dịch để giải mẫn cảm
+
+Liệu pháp miễn dịch đường uống để giải mẫn cảm với đậu phộng sử dụng bột gây dị ứng đậu phộng đã khử chất béo (
+
+Arachis hypogaea
+
+); có thuốc này để điều trị cho những người từ 4 đến 17 tuổi và bị dị ứng với đậu phộng. Giảm mẫn cảm đường uống bao gồm tăng liều hàng ngày, 2 tuần một lần, trong nhiều tháng lên đến 300 mg. Quá trình giải mẫn cảm có thể được thực hiện tại nhà giữa các lần tăng liều, các lần tăng liều đó được thực hiện tại cơ sở chăm sóc sức khỏe.
+
+Sau khi bệnh nhân dung nạp thành công liều 300 mg trong cơ sở chăm sóc sức khỏe, họ phải dùng vô thời hạn liều 300 mg hàng ngày để duy trì giải mẫn cảm. Ngoài ra, họ vẫn cần duy trì một chế độ ăn kiêng nghiêm ngặt không có đậu phộng nhưng có lợi từ việc giảm nguy cơ phản ứng dị ứng nặng (bao gồm cả phản vệ) khi vô tình tiêu thụ đậu phộng.
+
+Các quy trình giải mẫn cảm bằng đường uống đối với nhiều loại thực phẩm khác đang được nghiên cứu (
+
+3
+
+).
+
+Liệu pháp miễn dịch ngậm dưới lưỡi
+
+để điều trị dị ứng thực phẩm qua trung gian IgE liên quan đến việc nhỏ các giọt chất chiết xuất từ chất gây dị ứng được glyceri hóa dưới lưỡi mỗi ngày một lần. Các chất gây dị ứng đã được nghiên cứu bao gồm đậu phộng (chủ yếu), quả phỉ, đào, táo và sữa. Kết quả ban đầu trong các thử nghiệm lâm sàng giai đoạn II rất hứa hẹn mặc dù cần có thêm các nghiên cứu trước khi phương pháp điều trị này được khuyến nghị rộng rãi trong thực tế (
+
+4
+
+).
+
+Kháng thể đơn dòng
+
+Omalizumab (một kháng thể đơn dòng kháng IgE tái tổ hợp được nhân bản hóa) và các kháng thể đơn dòng kháng IgE khác đã được sử dụng để điều trị những người đã có phản ứng phản vệ nặng với thực phẩm. Trong một nghiên cứu về trẻ em bị dị ứng đậu phộng, omalizumab dẫn đến ngưỡng dung nạp đậu phộng cao hơn ở trẻ em dùng thuốc (
+
+5
+
+).
+
+Việc điều trị bằng các kháng thể đơn dòng khác, chẳng hạn như dupilumab (một kháng thể kháng IL4R), đang được nghiên cứu (
+
+6
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Hirano I, Chan ES, Rank MA, et al
+
+: AGA Institute and the Joint Task Force on Allergy-Immunology Practice Parameters Clinical Guidelines for the Management of Eosinophilic Esophagitis.
+
+Gastroenterology
+
+158(6):1776–1786, 2020. doi:10.1053/j.gastro.2020.02.038
+
+2.
+
+Kliewer KL, Gonsalves N, Dellon ES, et al
+
+: One-food versus six-food elimination diet therapy for the treatment of eosinophilic oesophagitis: a multicentre, randomised, open-label trial.
+
+Lancet Gastroenterol Hepatol
+
+8(5):408–421, 2023. doi:10.1016/S2468-1253(23)00012-2
+
+3.
+
+Anderson B, Wong L, Adlou B, et al
+
+: Oral immunotherapy in children: Clinical considerations and practical management.
+
+J Asthma Allergy
+
+14:1497–1510, 2021. doi: 10.2147/JAA.S282696 eCollection 2021
+
+4.
+
+Schworer SA, Edwin H Kim EH
+
+: Sublingual immunotherapy for food allergy and its future directions.
+
+Immunotherapy
+
+12 (12):921–931, 2020. doi: 10.2217/imt-2020-0123
+
+5.
+
+Sampson HA, Leung DY, Burks AW, et al
+
+: A phase II, randomized, double‑blind, parallel‑group, placebo‑controlled oral food challenge trial of
+
+Xolair
+
+(
+
+omalizumab
+
+) in peanut allergy.
+
+J Allergy Clin Immunol
+
+127 (5):1309–1310.e1, 2011. doi: 10.1016/j.jaci.2011.01.051
+
+6.
+
+Sindher SB, Hillier C, Anderson B, Long A, Chinthrajah RS
+
+: Treatment of food allergy: Oral immunotherapy, biologics, and beyond.
+
+Ann Allergy Asthma Immunol
+
+131(1):29–36, 2023. doi:10.1016/j.anai.2023.04.02
+
+Phòng ngừa dị ứng thực phẩm
+
+Trong nhiều năm, tránh cho trẻ ăn các thức ăn gây dị ứng trẻ sơ sinh (ví dụ đậu phộng) đã được khuyến cáo như là một cách để phòng ngừa dị ứng thực phẩm. Tuy nhiên, một nghiên cứu (
+
+1
+
+) cho thấy rằng việc cho trẻ ăn sớm và thường xuyên thực phẩm có chứa đậu phộng có thể ngăn ngừa dị ứng đậu phộng ở trẻ sơ sinh có nguy cơ cao mắc chứng dị ứng này (ví dụ: trẻ sơ sinh bị dị ứng trứng hoặc bị bệnh chàm). Vì vậy, ngày càng có nhiều bác sĩ lâm sàng rời bỏ việc hạn chế thực phẩm dành cho trẻ sơ sinh dựa trên những lo ngại về dị ứng và cho phép hoặc khuyến khích tiêu thụ những thực phẩm như vậy. Các hướng dẫn hiện hành khuyến cáo
+
+không
+
+nên trì hoãn việc đưa nhiều thực phẩm — nhiều hơn những gì thường được khuyến nghị cho tất cả trẻ sơ sinh — vào chế độ ăn của trẻ sơ sinh, kể cả trẻ sơ sinh có nguy cơ cao. Vì vậy, hầu hết các khuyến nghị là cho trẻ ăn các loại thực phẩm như trứng và đậu phộng vào khoảng 4 đến 6 tháng tuổi (
+
+2
+
+).
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Du Toit G, Roberts G, Sayre PH, et al
+
+: Randomized trial of peanut consumption in infants at risk for peanut allergy.
+
+N Engl J Med
+
+372 (9):803–813, 2015. doi: 10.1056/NEJMoa1414850
+
+2.
+
+Fleischer DM, Sicherer S, Greenhawt M, et al
+
+: Consensus communication on early peanut introduction and the prevention of peanut allergy in high-risk infants.
+
+Pediatr Dermatol
+
+33 (1):103–106, 2016. doi: 10.1111/pde.12685
+
+Những điểm chính
+
+Dị ứng thực phẩm thường qua trung gian IgE (thường dẫn đến phản ứng dị ứng toàn thân cấp tính) hoặc tế bào T (thường dẫn đến các triệu chứng mạn tính ở đường tiêu hóa).
+
+Phân biệt dị ứng thực phẩm với các phản ứng không có lợi với thực phẩm (ví dụ, không dung nạp lactose, hội chứng ruột kích thích, viêm dạ dày ruột truyền nhiễm) và phản ứng với các chất phụ gia (ví dụ: bột ngọt, metabisulfite, tartrazine) hoặc các chất gây ô nhiễm thực phẩm.
+
+Nếu chẩn đoán không rõ ràng về lâm sàng ở người lớn hoặc nếu trẻ đang được đánh giá, có thể sử dụng xét nghiệm da, xét nghiệm IgE huyết thanh đặc hiệu dị ứng hoặc chế độ ăn kiêng.
+
+Đảm bảo rằng bệnh nhân hiểu rằng trong chế độ ăn kiêng loại trừ, họ chỉ có thể ăn các thực phẩm trong danh sách và chỉ các loại thực phẩm thuần túy (loại trừ nhiều thực phẩm được chế biến thương mại).
+
+Các phương pháp điều trị khác bao gồm cromolyn, liệu pháp miễn dịch để giải mẫn cảm và kháng thể đơn dòng.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+National Institute of Allergy and Infectious Diseases (NIAID)
+
+: Guidelines for the diagnosis and management of food allergy in the United States.
+
+Sampson HA, Aceves S, Bock SA, et al
+
+. Food allergy: a practice parameter update-2014.
+
+J Allergy Clin Immunol
+
+134(5):1016-25.e43, 2014. doi:10.1016/j.jaci.2014.05.013
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của dị ứng thực phẩm ---
+
+Gần như bất kỳ thực phẩm hoặc phụ gia thực phẩm nào có thể gây ra phản ứng dị ứng, nhưng các yếu tố gây nên thông thường nhất bao gồmỞ trẻ sơ sinh và trẻ nhỏ:Sữa, đậu nành, trứng, đậu phộng và lúa mìỞ trẻ lớn hơn và người lớn:Hạt và hải sảnSự phản ứng chéo giữa thực phẩm và các chất gây dị ứng không phải là thực phẩm, và sự nhạy cảm có thể xảy ra ngoài đường tiêu hóa. Ví dụ: những bệnh nhân bị dị ứng đường miệng (thường là ngứa, ban đỏ và phù nề ở miệng khi ăn trái cây và rau) có thể bị nhạy cảm do tiếp xúc với phấn hoa có tính kháng nguyên tương tự như kháng nguyên trong thực phẩm. Trẻ em bị dị ứng đậu phộng có thể đã nhạy cảm với các loại kem bôi tại chỗ có dầu đậu phộng được sử dụng để điều trị phát ban. Nhiều bệnh nhân dị ứng với latex cũng dị ứng với chuối, kiwi, bơ, hoặc kết hợp.Các chứng dị ứng thực phẩm phổ biến hơn ở trẻ em có bố mẹ bị dị ứng thức ăn,viêm mũi dị ứnghoặc dị ứng hen.Nói chung, dị ứng thực phẩm là trung gian của IgE, T tế bào, hoặc cả hai:Dị ứng qua trung gian IgE(ví dụ, nổimày đay,hen suyễn,sốc phản vệ) khởi phát cấp tính, thường phát triển trong giai đoạn nhũ nhi và thường xảy ra ở những người có tiền sử dị ứng gia đình nặng.Dị ứng T-cell(ví dụ như bệnh chế độ ăn protein đường tiêu hóa,bệnh celiac) biểu hiện dần dần và mạn tính; phổ biến nhất ở trẻ sơ sinh và trẻ nhỏ.Dị ứng trung gian bởi cả IgE và tế bào T(ví dụ,viêm da dị ứng, bệnh tiêu hóa tăng bạch cầu ái toan) có xu hướng chậm hoặc xuất hiện mạn tính.Hội chứng dị ứng đường miệng (hội chứng dị ứng thực phẩm phấn hoa)Hội chứng dị ứng đường miệng (hội chứng dị ứng thực phẩm phấn hoa) là do các protein trong phấn hoa và thực phẩm phản ứng chéo (thường là trái cây sống và rau và các loại hạt). Khi bệnh nhân bị dị ứng với một loại protein phấn hoa cụ thể, hệ thống miễn dịch sẽ phản ứng với một loại protein tương tự trong thực phẩm và tạo ra phản ứng dị ứng. Bệnh nhân thường có thể dung nạp thực phẩm nếu nó được nấu chín hoặc đun nóng vì protein thực phẩm bị biến tính, làm thay đổi cấu trúc của các protein phản ứng chéo.Các loại phấn hoa và thực phẩm sau đây thường được kết hợp với nhau:Phấn hoa bạch dương: Táo, hạnh nhân, cà rốt, cần tây, anh đào, quả phỉ, kiwi, đào, lê và mậnCỏ phấn hoa: Cần tây, dưa, cam, đào và cà chuaPhấn hoa Ragweed: Chuối, dưa chuột, dưa, hạt hướng dương và bí xanhCác triệu chứng điển hình bao gồm ngứa miệng và cổ họng khi ăn phải thức ăn gây bệnh. Mặc dù phản vệ không phổ biến nhưng nó có thể xảy ra (1).Chẩn đoán hội chứng dị ứng đường miệng thường được thực hiện trên lâm sàng nhưng có thể được xác nhận bằng xét nghiệm chích da.Điều trị hội chứng dị ứng đường miệng bao gồm tránh thức ăn, nấu chín kỹ thức ăn để làm biến tính protein và mang theo ống tiêm epinephrine tự tiêm, đã nạp sẵn trong trường hợp phản ứng phản vệ.Bệnh dạ dày ruột do tăng bạch cầu ái toanRối loạn bất thường này gây đau, quặn bụng và tiêu chảy với tăng bạch cầu ái toan máu, bạch cầu ái toan trong ruột, và bệnh đường ruột mất protein; bệnh nhân có tiền sử cơ địa dị ứng.Viêm thực quản tăng bạch cầu ái toancó thể kèm theo bệnh lý dạ dày ruột tăng bạch cầu ái toan hoặc xảy ra đơn độc. Viêm thực quản bạch cầu ái toan được đặc trưng bởi tình trạng viêm mạn tính của thực quản và có thể gây ra khó nuốt, khó tiêu không liên quan đến acid, không dung nạp thức ăn và đau bụng. Viêm thực quản tăng bạch cầu ái toan có thể gây hẹp; chẩn đoán bằng sinh thiết qua nội soi.Hội chứng alpha-galHội chứng Alpha-gal đề cập đến một dạng dị ứng được phát hiện gần đây với thịt đỏ (2). Alpha-gal là một phân tử đường (galactose-alpha-1,3-galactose) xuất hiện ở hầu hết các loài động vật có vú, ngoại trừ động vật linh trưởng (bao gồm cả con người). Ngoài ra, alpha-gal không xảy ra ở cá, chim hoặc bò sát.Ít nhất một loài bọ chét (bọ chét sao đơn độc) có alpha-gal trong nước bọt của chúng. Bằng chứng cho thấy rằng vết cắn (đặc biệt là nhiều vết cắn) từ những con bọ ve như vậy có thể khiến một người nhạy cảm với alpha-gal. Vì alpha-gal có trong nhiều loại thịt đỏ (ví dụ: thịt lợn, thịt bò, thịt cừu, thịt nai) và trong các sản phẩm thực phẩm có nguồn gốc từ động vật có vú (ví dụ: các sản phẩm từ sữa, gelatin), những người bị ảnh hưởng có thể phát triển phản ứng dị ứng qua trung gian IgE với những thực phẩm này.Các phản ứng dị ứng có thể bao gồm phát ban ngứa, khó tiêu, táo bón, buồn nôn và phản ứng phản vệ. Không giống như các loại dị ứng thực phẩm khác, các triệu chứng của hội chứng alpha-gal thường không xuất hiện cho đến sau khi ăn 3 giờ đến 8 giờ.Tài liệu tham khảo về căn nguyên1.Skypala IJ: Can patients with oral allergy syndrome be at risk of anaphylaxis?Curr Opin Allergy Clin Immunol2020 20 (5):459–464, 2020. doi: 10.1097/ACI.00000000000006792.Hashizume H, Fujiyama T, Umayahara T, et al: RepeatedAmblyomma testudinariumtick bites are associated with increased galactose-α-1,3-galactose carbohydrate IgE antibody levels: A retrospective cohort study in a single institution.J Am Acad Dermatol78 (6):1135–1141.e3, 2018. doi: 10.1016/j.jaad.2017.12.028 Epub 2017 Dec 19.
+
+--- 2. Các triệu chứng và dấu hiệu của dị ứng thực phẩm ---
+
+Các triệu chứng và dấu hiệu dị ứng thực phẩm khác nhau do tác nhân dị ứng, cơ chế và tuổi bệnh nhân.Biểu hiện thông thường nhất ở trẻ sơ sinh làviêm da dị ứngđơn thuần hoặc với các triệu chứng tiêu hóa (ví dụ như buồn nôn, nôn ói, tiêu chảy). Trẻ em thường vượt qua các biểu hiện này và phản ứng ngày càng nhiều với các chất gây dị ứng đường hô hấp, với các triệu chứng hen suyễn và viêm mũi; sự tiến triển này được gọi là cơ địa dị ứng tăng dần (atopic march). Ở độ tuổi 10, bệnh nhân hiếm khi có triệu chứng hô hấp sau khi ăn thực phẩm gây dị ứng, mặc dù các xét nghiệm da vẫn dương tính. Nếu viêm da dị ứng dai dẳng hoặc xuất hiện ở trẻ lớn hoặc người lớn, hoạt động của bệnh dường như phần lớn không liên quan đến dị ứng qua trung gian IgE với sự chi phối của các phản ứng qua trung gian tế bào T, mặc dù những bệnh nhân bị dị ứng và viêm da lan rộng có nồng độ IgE trong huyết thanh cao hơn nhiều so với những bệnh nhân bị dị ứng nhưng không bị viêm da.Khi dị ứng thực phẩm xảy ra ở trẻ lớn hơn và người lớn, phản ứng có khuynh hướng nghiêm trọng hơn (ví dụ như nổi mề đay, phù mạch, thậm chí phản vệ). Ở một vài bệnh nhân, thực phẩm (đặc biệt là lúa mì và tôm) gây nên chứng quá mẫn nếu họ gắng sức sau đó; cơ chế không rõ. Thức ăn cũng có thể gây ra các triệu chứng không đặc hiệu (ví dụ, nhức đầu, ngất). Thỉnh thoảng, viêm bao tử, loét áp tơ, co thắt túi mật, táo bón co thắt, ngứa và eczema quanh hậu môn là do dị ứng thực phẩm.Các phản ứng qua trung gian tế bào T thường có liên quan đến đường tiêu hóa, gây ra các triệu chứng như đau bụng bán cấp hoặc mạn tính, buồn nôn, quặn bụng và tiêu chảy.Ngọc trai & cạm bẫyXem xét dị ứng thức ăn nếu bệnh nhân có đau bụng bán cấp hoặc mạn tính không rõ nguồn gốc, buồn nôn, nôn ói, đau bụng quặn, hoặc tiêu chảy.
+
+--- 3. Chẩn đoán dị ứng thực phẩm ---
+
+Xét nghiệm IgE huyết thanh đặc hiệu cho dị nguyênXét nghiệm daThử loại bỏ thức ăn (đơn độc hoặc sau khi thử nghiệm da hoặc thử nghiệm IgE huyết thanh đặc hiệu dị ứng)Sự dị ứng thức ăn nặng nề thường thấy ở người lớn. Khi không xảy ra ở trẻ em (nhóm tuổi bị ảnh hưởng nhiều nhất), chẩn đoán có thể là khó khăn, và rối loạn này phải được phân biệt với các vấn đề về đường tiêu hóa.Chẩn đoán bệnh celiacđược thảo luận ở nơi khác.Thử nghiệm (ví dụ xét nghiệm IgE huyết thanh đặc hiệu dị ứng, xét nghiệm da) và thử loại bỏ thức ăn là hữu ích nhất trong chẩn đoán các phản ứng trung gian IgE. Bệnh nhân nên ghi nhật ký thực phẩm, liệt kê tỉ mỉ mọi thứ họ đã ăn và bất kỳ tác dụng phụ nào họ gặp phải (đặc biệt là thời gian liên quan đến việc tiêu thụ thực phẩm), để giúp đưa ra các quyết định liên quan đến việc loại bỏ thực phẩm nghi ngờ.Chỉ nên thử nghiệm những loại thực phẩm có đáp ứng trên lâm sàng. Việc thử nghiệm trên diện rộng nhiều loại thực phẩm hoặc nhóm thực phẩm không được khuyến khích vì có nguy cơ loại bỏ những thực phẩm không cần thiết khỏi chế độ ăn.Nếu nghi ngờ phản ứng thực phẩm, hãy thực hiện một trong các bước sau:Thử IgE huyết thanh đặc hiệu dị ứngXét nghiệm daTrong cả hai trường hợp, một thử nghiệm dương tính không xác nhận một chứng dị ứng liên quan đến lâm sàng. Cả hai xét nghiệm đều có thể có kết quả dương tính giả hoặc âm tính giả. Xét nghiệm da thường nhạy cảm hơn xét nghiệm IgE huyết thanh đặc hiệu với chất gây dị ứng nhưng có nhiều khả năng có kết quả dương tính giả. Xét nghiệm da cung cấp kết quả trong vòng 15 đến 20 phút, nhanh hơn nhiều so với xét nghiệm IgE huyết thanh đặc hiệu với chất gây dị ứng.Nếu một trong hai xét nghiệm dương tính, các thực phẩm thử nghiệm được loại bỏ khỏi chế độ ăn. Nếu loại trừ thức ăn làm giảm triệu chứng, bệnh nhân sẽ được tiếp xúc lại với thực phẩm (tốt nhất là trong thử nghiệm mù đôi) để xem liệu các triệu chứng có tái diễn hay không (thử thách bằng miệng).. (Xem thêm National Institute of Allergy and Infectious Diseases (NIAID) medical position statement:Hướng dẫn chẩn đoán và quản lý dị ứng thực phẩm ở Hoa Kỳ.)Nếu không thể kiểm tra da để xác nhận dị ứng thực phẩm hoặc kết quả không có kết quả, các lựa chọn tiếp theo có thể bao gồm một hoặc cả hai điều sau:Loại bỏ thực phẩm mà bệnh nhân nghi ngờ gây ra các triệu chứng dựa trên nhật ký thực phẩm của bệnh nhân, sau đó đánh giá việc giải quyết triệu chứngQuy định một chế độ ăn bao gồm các thực phẩm tương đối không gây dị ứng và loại bỏ các chất gây dị ứng thực phẩm thông thường (xem bảngThực phẩm cho phép trong chế độ ăn loại bỏ chất đại diện)Đối với chế độ ăn thứ hai, không có thức ăn hoặc chất lỏng có thể được tiêu thụ khác với những thức ăn được chỉ định. Phải luôn sử dụng các sản phẩm tinh khiết. Nhiều sản phẩm được chuẩn bị thương mại và các bữa ăn có chứa một loại thực phẩm không mong muốn với số lượng lớn (ví dụ như bánh mì lúa mạch đen thương mại chứa bột mì) hoặc trong các dấu vết chất gia vị hoặc chất làm đặc và có thể xác định xem thực phẩm không mong muốn có xuất hiện có thể khó khăn.Một cuộc thảo luận với bệnh nhân và quan sát từ nhật ký thực phẩm của bệnh nhân có thể giúp lựa chọn chế độ ăn loại bỏ ban đầu. Nếu không cải thiện sau 1 tuần của chế độ ăn ban đầu, cần thử chế độ ăn khác; tuy nhiên, các phản ứng qua trung gian tế bào T có thể mất vài tuần để giải quyết. Nếu các triệu chứng thuyên giảm và nếu bệnh nhân có các triệu chứng ít nghiêm trọng hơn, một thực phẩm mới được thêm vào và ăn với số lượng lớn>24 giờ hoặc cho đến khi các triệu chứng trở lại. Nhưng nếu bệnh nhân có các triệu chứng đặc biệt nghiêm trọng, một lượng nhỏ thực phẩm được thử nghiệm được ăn khí có sự hiện diện của bác sĩ lâm sàng, và các phản ứng của bệnh nhân được quan sát thấy.Sự trầm trọng thêm hoặc tái phát triệu chứng sau khi bổ sung thức ăn mới là bằng chứng tốt nhất về dị ứng.BảngThực phẩm được phép sử dụng trong chế độ ăn kiêng loại bỏ chất đại diện*BảngThực phẩm được phép sử dụng trong chế độ ăn kiêng loại bỏ chất đại diện*Thực phẩm được phép sử dụng trong chế độ ăn kiêng loại bỏ chất đại diện*Thực phẩmChế độ ăn số 1(Không có thịt bò, thịt lợn, gà, sữa, lúa mạch đen hoặc ngô)Chế độ ăn số 2(Không có thịt bò, thịt cừu, sữa hoặc gạo)Chế độ ăn số 3(Không có thịt cừu, gà, lúa mạch đen, gạo, ngô hoặc sữa)Ngũ cốcSản phẩm lúa gạoSản phẩm ngôkhôngRauHành khô, củ cải đường, cà rốt, rau diếp, rau binaMăng tây, ngô, đậu Hà Lan, bí, đậu đen, cà chuaCủ cải, đậu lima, khoai tây (trắng và ngọt), đậu đen, cà chuaThịtCừuthịt lợn, gàthịt lợn, thịt bòBột (bánh mì hoặc bánh bích quy)CơmNgô, 100% lúa mạch đen (bánh mì lúa mạch đen thường có lúa mì)Đậu Lima, khoai tây, đậu tươngTrái câyBưởi, chanh, lêQuả mơ, đào, dứa, mậnQuả mơ, bưởi, chanh, đàoChất béoDầu hạt bông, dầu ô liuDầu ngô, dầu hạt bôngDầu hạt bông, dầu ô liuĐồ uốngCà phê (đen), nước chanh, chèCà phê (đen), nước chanh, chèCà phê (đen), nước chanh, nước ép trái cây đã được chấp thuận, chèThể hỗn hợpĐường mía, gelatin, đường phong, ô liu, muối, bánh puddingMía đường, xirô ngô, gelatin, muốiĐường mía, gelatin, đường phong, ô liu, muối, bánh pudding* Chế độ ăn số 4: Nếu các triệu chứng vẫn tồn tại khi bệnh nhân đang theo bất kỳ một trong 3 chế độ ăn loại trừ trên và vẫn nghi ngờ, chế độ ăn uống hàng ngày có thể còn giới hạn trong chế độ ăn cơ bản (sử dụng công thức thủy phân hoặc công thức dựa trên axit amin).* Chế độ ăn số 4: Nếu các triệu chứng vẫn tồn tại khi bệnh nhân đang theo bất kỳ một trong 3 chế độ ăn loại trừ trên và vẫn nghi ngờ, chế độ ăn uống hàng ngày có thể còn giới hạn trong chế độ ăn cơ bản (sử dụng công thức thủy phân hoặc công thức dựa trên axit amin).
+
+--- 4. Điều trị dị ứng thực phẩm ---
+
+Loại trừ thức ănĐôi khi uống cromolynĐôi khi corticosteroid cho bệnh lý ruột tăng bạch cầu ái toanLiệu pháp miễn dịch uống hoặc ngậm dưới lưỡi để giải mẫn cảmKháng thể đơn dòng (omalizumab, dupilumab)Điều trị dị ứng thực phẩm bao gồm việc loại bỏ thức ăn gây ra phản ứng dị ứng. Do đó, chẩn đoán và điều trị chồng lấp lên nhau. Khi đánh giá hiệu quả của chế độ ăn loại trừ, bác sĩ lâm sàng phải cân nhắc rằng độ nhạy cảm của thực phẩm có thể tự phát.Bệnh nhân bị dị ứng thực phẩm nghiêm trọng cần được khuyên nên mang theo thuốc kháng histamine ngay nếu phản ứng bắt đầu và một ống tiêm tự tiêm epinephrine đã được bơm sẵn thực hiện khi có phản ứng nặng. Thuốc kháng histamin ít có giá trị ngoại trừ phản ứng cấp tính gây mày đay và phù mạch.Cromolyn đường uống dường như làm giảm phản ứng dị ứng với thức ăn một cách hiệu quả.Điều trị bằng corticosteroid dài hạn rất hữu ích cho bệnh lý ruột tăng bạch cầu ái toan có triệu chứng. Hỗn dịch budesonide đường uống có hiệu quả trong điều trị viêm thực quản do tăng bạch cầu ái toan ở người lớn và bệnh nhi từ 11 tuổi trở lên.Đối với bệnh nhân bị viêm thực quản do tăng bạch cầu ái toan, có thể áp dụng chế độ ăn nguyên tố hoặc chế độ ăn loại trừ 6 loại thực phẩm theo kinh nghiệm (1,2).Omalizumab có thể được sử dụng để giúp ngăn ngừa các phản ứng dị ứng nghiêm trọng qua trung gian IgE gây ra với thực phẩm.Liệu pháp miễn dịch để giải mẫn cảmLiệu pháp miễn dịch đường uống để giải mẫn cảm với đậu phộng sử dụng bột gây dị ứng đậu phộng đã khử chất béo (Arachis hypogaea); có thuốc này để điều trị cho những người từ 4 đến 17 tuổi và bị dị ứng với đậu phộng. Giảm mẫn cảm đường uống bao gồm tăng liều hàng ngày, 2 tuần một lần, trong nhiều tháng lên đến 300 mg. Quá trình giải mẫn cảm có thể được thực hiện tại nhà giữa các lần tăng liều, các lần tăng liều đó được thực hiện tại cơ sở chăm sóc sức khỏe.Sau khi bệnh nhân dung nạp thành công liều 300 mg trong cơ sở chăm sóc sức khỏe, họ phải dùng vô thời hạn liều 300 mg hàng ngày để duy trì giải mẫn cảm. Ngoài ra, họ vẫn cần duy trì một chế độ ăn kiêng nghiêm ngặt không có đậu phộng nhưng có lợi từ việc giảm nguy cơ phản ứng dị ứng nặng (bao gồm cả phản vệ) khi vô tình tiêu thụ đậu phộng.Các quy trình giải mẫn cảm bằng đường uống đối với nhiều loại thực phẩm khác đang được nghiên cứu (3).Liệu pháp miễn dịch ngậm dưới lưỡiđể điều trị dị ứng thực phẩm qua trung gian IgE liên quan đến việc nhỏ các giọt chất chiết xuất từ chất gây dị ứng được glyceri hóa dưới lưỡi mỗi ngày một lần. Các chất gây dị ứng đã được nghiên cứu bao gồm đậu phộng (chủ yếu), quả phỉ, đào, táo và sữa. Kết quả ban đầu trong các thử nghiệm lâm sàng giai đoạn II rất hứa hẹn mặc dù cần có thêm các nghiên cứu trước khi phương pháp điều trị này được khuyến nghị rộng rãi trong thực tế (4).Kháng thể đơn dòngOmalizumab (một kháng thể đơn dòng kháng IgE tái tổ hợp được nhân bản hóa) và các kháng thể đơn dòng kháng IgE khác đã được sử dụng để điều trị những người đã có phản ứng phản vệ nặng với thực phẩm. Trong một nghiên cứu về trẻ em bị dị ứng đậu phộng, omalizumab dẫn đến ngưỡng dung nạp đậu phộng cao hơn ở trẻ em dùng thuốc (5).Việc điều trị bằng các kháng thể đơn dòng khác, chẳng hạn như dupilumab (một kháng thể kháng IL4R), đang được nghiên cứu (6).Tài liệu tham khảo về điều trị1.Hirano I, Chan ES, Rank MA, et al: AGA Institute and the Joint Task Force on Allergy-Immunology Practice Parameters Clinical Guidelines for the Management of Eosinophilic Esophagitis.Gastroenterology158(6):1776–1786, 2020. doi:10.1053/j.gastro.2020.02.0382.Kliewer KL, Gonsalves N, Dellon ES, et al: One-food versus six-food elimination diet therapy for the treatment of eosinophilic oesophagitis: a multicentre, randomised, open-label trial.Lancet Gastroenterol Hepatol8(5):408–421, 2023. doi:10.1016/S2468-1253(23)00012-23.Anderson B, Wong L, Adlou B, et al: Oral immunotherapy in children: Clinical considerations and practical management.J Asthma Allergy14:1497–1510, 2021. doi: 10.2147/JAA.S282696 eCollection 20214.Schworer SA, Edwin H Kim EH: Sublingual immunotherapy for food allergy and its future directions.Immunotherapy12 (12):921–931, 2020. doi: 10.2217/imt-2020-01235.Sampson HA, Leung DY, Burks AW, et al: A phase II, randomized, double‑blind, parallel‑group, placebo‑controlled oral food challenge trial ofXolair(omalizumab) in peanut allergy.J Allergy Clin Immunol127 (5):1309–1310.e1, 2011. doi: 10.1016/j.jaci.2011.01.0516.Sindher SB, Hillier C, Anderson B, Long A, Chinthrajah RS: Treatment of food allergy: Oral immunotherapy, biologics, and beyond.Ann Allergy Asthma Immunol131(1):29–36, 2023. doi:10.1016/j.anai.2023.04.02
+
+--- 5. Phòng ngừa dị ứng thực phẩm ---
+
+Trong nhiều năm, tránh cho trẻ ăn các thức ăn gây dị ứng trẻ sơ sinh (ví dụ đậu phộng) đã được khuyến cáo như là một cách để phòng ngừa dị ứng thực phẩm. Tuy nhiên, một nghiên cứu (1) cho thấy rằng việc cho trẻ ăn sớm và thường xuyên thực phẩm có chứa đậu phộng có thể ngăn ngừa dị ứng đậu phộng ở trẻ sơ sinh có nguy cơ cao mắc chứng dị ứng này (ví dụ: trẻ sơ sinh bị dị ứng trứng hoặc bị bệnh chàm). Vì vậy, ngày càng có nhiều bác sĩ lâm sàng rời bỏ việc hạn chế thực phẩm dành cho trẻ sơ sinh dựa trên những lo ngại về dị ứng và cho phép hoặc khuyến khích tiêu thụ những thực phẩm như vậy. Các hướng dẫn hiện hành khuyến cáokhôngnên trì hoãn việc đưa nhiều thực phẩm — nhiều hơn những gì thường được khuyến nghị cho tất cả trẻ sơ sinh — vào chế độ ăn của trẻ sơ sinh, kể cả trẻ sơ sinh có nguy cơ cao. Vì vậy, hầu hết các khuyến nghị là cho trẻ ăn các loại thực phẩm như trứng và đậu phộng vào khoảng 4 đến 6 tháng tuổi (2).Tài liệu tham khảo về phòng ngừa1.Du Toit G, Roberts G, Sayre PH, et al: Randomized trial of peanut consumption in infants at risk for peanut allergy.N Engl J Med372 (9):803–813, 2015. doi: 10.1056/NEJMoa14148502.Fleischer DM, Sicherer S, Greenhawt M, et al: Consensus communication on early peanut introduction and the prevention of peanut allergy in high-risk infants.Pediatr Dermatol33 (1):103–106, 2016. doi: 10.1111/pde.12685
+
+--- 6. Những điểm chính ---
+
+Dị ứng thực phẩm thường qua trung gian IgE (thường dẫn đến phản ứng dị ứng toàn thân cấp tính) hoặc tế bào T (thường dẫn đến các triệu chứng mạn tính ở đường tiêu hóa).Phân biệt dị ứng thực phẩm với các phản ứng không có lợi với thực phẩm (ví dụ, không dung nạp lactose, hội chứng ruột kích thích, viêm dạ dày ruột truyền nhiễm) và phản ứng với các chất phụ gia (ví dụ: bột ngọt, metabisulfite, tartrazine) hoặc các chất gây ô nhiễm thực phẩm.Nếu chẩn đoán không rõ ràng về lâm sàng ở người lớn hoặc nếu trẻ đang được đánh giá, có thể sử dụng xét nghiệm da, xét nghiệm IgE huyết thanh đặc hiệu dị ứng hoặc chế độ ăn kiêng.Đảm bảo rằng bệnh nhân hiểu rằng trong chế độ ăn kiêng loại trừ, họ chỉ có thể ăn các thực phẩm trong danh sách và chỉ các loại thực phẩm thuần túy (loại trừ nhiều thực phẩm được chế biến thương mại).Các phương pháp điều trị khác bao gồm cromolyn, liệu pháp miễn dịch để giải mẫn cảm và kháng thể đơn dòng.
+
+--- 7. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.National Institute of Allergy and Infectious Diseases (NIAID): Guidelines for the diagnosis and management of food allergy in the United States.Sampson HA, Aceves S, Bock SA, et al. Food allergy: a practice parameter update-2014.J Allergy Clin Immunol134(5):1016-25.e43, 2014. doi:10.1016/j.jaci.2014.05.013

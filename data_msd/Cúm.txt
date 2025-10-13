@@ -1,0 +1,561 @@
+TIÊU ĐỀ: Cúm
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/các-vi-rút-đường-hô-hấp/cúm
+================================================================================
+
+NỘI DUNG:
+
+Cúm
+
+(cúm)
+
+Theo
+
+Sophie Katz
+
+,
+
+MD, MPH
+
+,
+
+Vanderbilt University Medical Center
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1018830_vi
+
+Cúm là một
+
+bệnh nhiễm trùng hô hấp
+
+do vi rút gây sốt, sổ mũi, ho, đau đầu và mệt mỏi. Tỷ lệ tử vong có thể xảy ra trong các đợt dịch bộc phát theo mùa, đặc biệt là ở những bệnh nhân có nguy cơ cao (ví dụ: những người được đưa vào sống trong những cơ sở từ thiện, cao tuổi, bị suy tim, hoặc đang mang thai giai đoạn cuối); trong các đại dịch, ngay cả những bệnh nhân trẻ tuổi khỏe mạnh cũng có thể chết. Chẩn đoán thường là dựa vào lâm sàng và phụ thuộc vào mô hình dịch tễ địa phương. Điều trị bằng thuốc kháng vi rút làm giảm thời gian mắc bệnh khoảng 1 ngày và cần được xem xét đặc biệt đối với những bệnh nhân có nguy cơ cao hoặc bệnh nặng. Vắc xin cúm nên được tiêm hàng năm cho tất cả các bệnh nhân đủ điều kiện không có chống chỉ định.
+
+Dịch tễ học
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Cúm là bệnh do vi rút cúm gây ra, nhưng thuật ngữ này được sử dụng phổ biến và không chính xác để chỉ các bệnh tương tự do các tác nhân gây bệnh đường hô hấp do vi rút khác gây ra. Nhóm vi rút cúm được phân loại là tuýp A, B hoặc C theo nucleoprotein và protein ma trận. Nhiễm vi rút cúm C không gây ra bệnh cúm điển hình và không được thảo luận ở đây.
+
+Kháng nguyên cúm
+
+Hemagglutinin (H) là một glycoprotein trên bề mặt vi rút cúm cho phép vi rút gắn kết với axit sialic ở tế bào và bám dính vào màng tế bào vật chủ. Neuraminidase (NA), một glycoprotein bề mặt khác, loại bỏ axit sialic nhờ xúc tác enzym, thúc đẩy việc phát tán vi rút ra khỏi tế bào vật chủ bị nhiễm bệnh. Có 18 tuýp H và 11 tuýp NA, cho 198 tổ hợp có thể, nhưng chỉ một số ít là các tác nhân gây bệnh ở người.
+
+Lệch cấu trúc kháng nguyên
+
+đề cập đến các đột biến tương đối nhỏ, tiến triển trong các tổ hợp trước đây của các kháng nguyên H và NA, dẫn đến sự xuất hiện thường xuyên của các chủng vi rút mới. Những chủng mới này có thể gây ra các đợt bùng phát dịch bệnh theo mùa vì việc bảo vệ bằng kháng thể do chủng vi rút trước đó tạo ra sẽ giảm xuống.
+
+Thay đổi kháng nguyên
+
+đề cập đến sự phát triển tương đối hiếm của các tổ hợp mới của các kháng nguyên H và/hoặc NA, là kết quả của việc sắp xếp lại các tiểu đơn vị của bộ gen vi rút. Các đại dịch có thể là do chuyển đổi kháng nguyên vì các kháng thể chống lại các chủng khác (do chích ngừa hoặc nhiễm tự nhiên) tạo ra ít hoặc không có bảo vệ chống lại chủng mới.
+
+Dịch tễ học về bệnh Cúm
+
+Cúm gây ra bệnh lẻ tẻ lan rộng hàng năm trong mùa thu và mùa đông ở vùng khí hậu ôn đới (các đợt bùng phát dịch theo mùa).
+
+Các đợt bùng phát dịch bệnh theo mùa
+
+do cả vi rút cúm A và B gây ra; kể từ năm 1968, hầu hết các đợt bùng phát dịch cúm theo mùa do H3N2 (một loại vi rút cúm A) gây ra. Các vi rút cúm B có thể gây bệnh nhẹ hơn nhưng thường gây ra các đợt bùng phát dịch với bệnh lý ở mức độ vừa hoặc nặng, khi loại vi rút đang lưu hành chiếm ưu thế hoặc cùng với cúm A.
+
+Hầu hết các đợt bùng phát dịch cúm là do một tuýp huyết thanh chiếm ưu thế, nhưng các loại vi rút cúm khác nhau có thể xuất hiện tuần tự ở một nơi hoặc có thể xuất hiện đồng thời, với một loại vi rút chiếm ưu thế ở một nơi và một loại vi rút khác chiếm ưu thế ở nơi khác.
+
+Báo cáo giám sát hàng tuần về bệnh cúm theo mùa ở Hoa Kỳ có tại
+
+FluView
+
+của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Đại dịch
+
+ít phổ biến hơn. Đã có 6 đại dịch cúm lớn, thường được đặt tên theo vị trí xuất phát được cho là:
+
+1889: Cúm Nga (H2N2)
+
+1900: Cúm Hồng Kông cũ (H3N8)
+
+1918: Cúm Tây Ban Nha (H1N1)
+
+1957: Cúm Châu Á (H2N2)
+
+1968: Cúm Hồng Kông (H3N2)
+
+2009: Cúm lợn (cúm A [H1N1]pdm09)
+
+Vào năm 2009–2010, đại dịch cúm H1N1 đã xảy ra – vi rút lây lan sang > 70 quốc gia và khắp Hoa Kỳ (
+
+1
+
+). Đa số những ca tử vong xảy ra ở Mexico. Ban đầu, vi rút này được gọi là vi rút cúm lợn, nhưng nó là sự kết hợp của vi rút cúm lợn, cúm gia cầm và cúm người. Lây nhiễm không phải là do ăn thịt lợn và rất hiếm khi do tiếp xúc với những con lợn bị nhiễm bệnh. Sau đó, tên vi rút đã được chuẩn hóa thành cúm A (H1N1)pdm09 để biểu thị đại dịch và phân biệt vi rút đó với các chủng H1N1 theo mùa và chủng vi rút H1N1 của đại dịch năm 1918. Kể từ năm 2009, cúm A(H1N1)pdm09 đã lưu hành dưới dạng cúm theo mùa.
+
+Các vi rút cúm có thể lây lan theo
+
+Các giọt nước bọt trong không khí
+
+Tiếp xúc trực tiếp giữa người với người
+
+Tiếp xúc với các vật dụng bị nhiễm bẩn
+
+Sự lan truyền qua đường không khí dường như là cơ chế quan trọng nhất.
+
+Nhóm có nguy cơ cao
+
+Một số bệnh nhân có nguy cơ cao bị các biến chứng do cúm:
+
+Trẻ em
+
+<
+
+5 tuổi; trẻ em < 2 tuổi ở mức nguy cơ đặc biệt cao
+
+Người lớn
+
+>
+
+65 tuổi
+
+Những người có tình trạng bệnh lý mạn tính (ví dụ: bệnh tim phổi, tiểu đường, suy thận hoặc suy gan, bệnh hemoglobin, suy giảm miễn dịch)
+
+Phụ nữ trong ba tháng thứ hai hoặc thứ ba của thai kỳ
+
+Bệnh nhân có tình trạng bệnh lý làm suy giảm việc bài tiết chất tiết ở đường hô hấp (ví dụ: suy giảm khả năng nhận thức, rối loạn thần kinh cơ, đột quỵ, các tình trạng động kinh)
+
+Bệnh nhân
+
+≤
+
+18 tuổi đang dùng aspirin (vì
+
+hội chứng Reye
+
+là một nguy cơ)
+
+Tỉ lệ mắc và tỉ lệ tử vong trên những bệnh nhân này có thể là do cơn cấp tính của bệnh lý bên trong,
+
+hội chứng suy hô hấp cấp
+
+, viêm phổi nguyên phát do cúm, hoặc viêm phổi thứ phát do vi khuẩn.
+
+Tài liệu tham khảo về dịch tễ
+
+1.
+
+Sullivan SJ, Jacobson RM, Dowdle WR, Poland GA
+
+: 2009 H1N1 influenza.
+
+Mayo Clin Proc
+
+. 2010;85(1):64-76. doi:10.4065/mcp.2009.0588
+
+Triệu chứng và dấu hiệu của cúm
+
+Thời gian ủ bệnh cúm dao động từ 1 ngày đến 4 ngày, trung bình là 48 giờ. Trong những trường hợp nhẹ, nhiều triệu chứng giống như
+
+cảm lạnh thông thường
+
+(ví dụ: đau họng, chảy nước mũi); viêm kết mạc nhẹ cũng có thể xảy ra.
+
+Cúm điển hình ở người lớn được đặc trưng bởi khởi phát đột ngột ớn lạnh, sốt, ho và đau nhức toàn thân (đặc biệt là ở lưng và chân). Nhức đầu là triệu chứng nổi bật, thường bị sợ ánh sáng và đau nhức sau mắt. Các triệu chứng hô hấp ban đầu có thể nhẹ, với họng khô và đau, nóng rát dưới xương ức, ho khan và đôi khi là sổ mũi. Sau đó, bệnh ở đường hô hấp dưới trở nên nổi bật; ho có thể dai dẳng, dữ dội và có đờm.
+
+Các triệu chứng về đường tiêu hóa có thể xảy ra và dường như phổ biến hơn với chủng H1N1 của đại dịch 2009 (
+
+1
+
+). Trẻ em có thể bị buồn nôn nhiều, nôn, hoặc đau bụng và trẻ sơ sinh có thể có hội chứng giống như nhiễm khuẩn huyết.
+
+Sau 2 đến 3 ngày, các triệu chứng cấp tính sẽ giảm nhanh, mặc dù sốt có thể kéo dài đến 5 ngày. Ho, yếu, đổ mồ hôi và mệt mỏi có thể kéo dài trong vài ngày hoặc đôi khi kéo dài trong nhiều tuần.
+
+Các biến chứng
+
+Viêm phổi
+
+được gợi ý khi ho nặng hơn, đờm có máu, khó thở và có rale. Viêm phổi thứ phát do vi khuẩn có biểu hiện sốt và ho dai dẳng hoặc tái phát sau khi bệnh ban đầu dường như đang khỏi.
+
+Viêm não
+
+,
+
+viêm cơ tim
+
+và myoglobin niệu, đôi khi có suy thận, xuất hiện không thường xuyên sau khi nhiễm cúm A hoặc cúm B.
+
+Hội chứng Reye
+
+với đặc trưng là bệnh não; gan nhiễm mỡ; tăng men gan, amoniac hoặc cả hai; hạ đường huyết; và bệnh lipid máu, thường xảy ra trong các đợt bùng phát dịch cúm B, đặc biệt là ở những trẻ đã uống aspirin.
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+Cao B, Li XW, Mao Y, et al
+
+. Clinical features of the initial cases of 2009 pandemic influenza A (H1N1) virus infection in China.
+
+N Engl J Med
+
+. 2009;361(26):2507-2517. doi:10.1056/NEJMoa0906612
+
+Chẩn đoán Cúm
+
+Bệnh sử và khám lâm sàng
+
+Đôi khi xét nghiệm kháng nguyên nhanh hoặc chuỗi polymerase phiên mã ngược (RT-PCR)
+
+Đo độ bão hòa oxy trong máu và phim chụp X quang ngực cho bệnh nhân có triệu chứng hô hấp nặng
+
+Chẩn đoán cúm thường được thực hiện dựa trên lâm sàng ở những bệnh nhân mắc hội chứng điển hình khi cúm được biết là có trong cộng đồng.
+
+Mặc dù có sẵn nhiều xét nghiệm chẩn đoán phân tử và phát hiện kháng nguyên nhanh chóng và hầu hết đều có độ đặc hiệu cao, nhưng độ nhạy của các xét nghiệm này rất khác nhau và thường giúp ích rất ít cho việc xử trí bệnh nhân. (Xem
+
+Centers for Disease Control and Prevention (CDC): Overview of Influenza Testing Methods
+
+). Các xét nghiệm chẩn đoán cần phải được thực hiện khi kết quả sẽ ảnh hưởng đến quyết định lâm sàng.
+
+Xét nghiệm RT-PCR có độ nhạy và độ đặc hiệu cao và có thể phân biệt các loại và phân nhóm cúm. Nếu xét nghiệm này được thực hiện nhanh chóng, kết quả có thể được sử dụng để lựa chọn liệu pháp kháng vi rút thích hợp; xét nghiệm này cũng nên được thực hiện khi nghi ngờ cúm ở bệnh nhân nhập viện vì điều trị bằng thuốc kháng vi rút thường được chỉ định (
+
+1
+
+). Ngoài ra, các xét nghiệm này có thể ngăn chặn việc sử dụng thuốc kháng khuẩn không cần thiết và việc xác định loại vi rút cúm cụ thể có thể rất quan trọng để kiểm soát nhiễm trùng. Những xét nghiệm này cũng hữu ích trong việc xác định các đợt bùng phát dịch bệnh hô hấp có phải là do cúm hay không.
+
+Nuôi cấy tế bào từ các tăm bông phết hoặc hút mũi họng phải mất vài ngày và không hữu ích trong việc đưa ra các quyết định xử trí bệnh nhân.
+
+Nếu bệnh nhân có các triệu chứng và dấu hiệu đường hô hấp dưới (ví dụ: khó thở, ran được ghi nhận khi khám phổi), nên đo độ bão hòa oxy trong mạch để phát hiện tình trạng hạ oxy máu và chụp phim X quang ngực để phát hiện viêm phổi. Viêm phổi nguyên phát do cúm xuất hiện dưới dạng thâm nhiễm kẽ khu trú hoặc lan tỏa hoặc dưới dạng
+
+hội chứng suy hô hấp cấp tính
+
+. Viêm phổi thứ phát do vi khuẩn có nhiều khả năng là ở thùy hoặc phân thùy phổi.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Uyeki TM, Bernstein HH, Bradley JS, et al
+
+: Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenza [published correction appears in
+
+Clin Infect  Dis
+
+. Ngày 2 tháng 5 năm 2019;68(10):1790].
+
+Clin Infect Dis
+
+. 2019;68(6):e1-e47. doi:10.1093/cid/ciy866
+
+Điều trị Cúm
+
+Điều trị triệu chứng
+
+Đôi khi dùng thuốc kháng vi rút
+
+Điều trị cho hầu hết bệnh nhân cúm là điều trị triệu chứng; bao gồm nghỉ ngơi, bù nước và hạ sốt khi cần thiết, nhưng tránh dùng aspirin ở bệnh nhân
+
+≤
+
+18 tuổi (do nguy cơ mắc
+
+hội chứng Reye
+
+). Các trường hợp nhiễm khuẩn phức tạp đòi hỏi phải có kháng sinh thích hợp.
+
+Thuốc điều trị cúm
+
+Thuốc kháng vi rút được dùng trong vòng 1 ngày đến 2 ngày kể từ khi khởi phát triệu chứng sẽ làm giảm thời gian sốt, mức độ nặng của các triệu chứng và thời gian trở lại hoạt động bình thường. Khuyến nghị điều trị bằng thuốc kháng vi rút cho những bệnh nhân bị bệnh nặng và
+
+bệnh nhân có nguy cơ cao
+
+(bao gồm tất cả bệnh nhân nhập viện) có các triệu chứng giống cúm; khuyến nghị này dựa trên dữ liệu cho thấy điều trị sớm có thể ngăn ngừa các biến chứng ở những bệnh nhân này.
+
+Thuốc điều trị cúm bao gồm những loại thuốc sau (xem
+
+CDC: Influenza Antiviral Medications: Summary for clinicians
+
+):
+
+Oseltamivir, zanamivir và peramivir (các thuốc ức chế neuraminidase)
+
+Baloxavir marboxil (thuốc ức chế endonuclease)
+
+Các thuốc ức chế neuraminidase can thiệp vào quá trình giải phóng vi rút cúm ra khỏi các tế bào bị nhiễm và do đó ngăn chặn sự lây lan của bệnh.
+
+Thuốc ức chế endnuclease baloxavir marboxil cản trở sự nhân lên của vi rút bằng cách ngăn chặn sự phiên mã RNA của vi rút. Thuốc có tác dụng chống cúm A và B và có thể là một lựa chọn điều trị quan trọng mới nếu vi rút kháng các thuốc ức chế neuraminidase.
+
+Zanamivir
+
+được cho dùng bằng ống hít; thuốc có thể được sử dụng ở người lớn và trẻ em
+
+≥
+
+7 tuổi. Zanamivir đôi khi gây co thắt phế quản và không nên dùng cho bệnh nhân bị bệnh đường thở phản ứng; một số người không thể sử dụng thiết bị xịt hít thuốc.
+
+Oseltamivir
+
+được dùng cho bệnh nhân
+
+>
+
+12 tuổi; liều thấp hơn có thể được sử dụng ở trẻ dưới 2 tuần tuổi. Oseltamivir đôi khi có thể gây buồn nôn và nôn. Ở trẻ em, oseltamivir có thể làm giảm tỷ lệ mắc bệnh viêm tai giữa; tuy nhiên, không có dữ liệu nào khác cho thấy rõ rằng việc điều trị cúm sẽ ngăn ngừa các biến chứng.
+
+Peramivir
+
+được dùng theo đường tĩnh mạch một liều duy nhất và có thể dùng cho bệnh nhân > 6 tháng tuổi không thể dung nạp thuốc uống hoặc thuốc hít. Các nghiên cứu về việc sử dụng thuốc này để điều trị cúm B còn hạn chế.
+
+Baloxavir marboxil
+
+được cho dùng dưới dạng liều uống duy nhất cho bệnh nhân ≥ 5 tuổi mắc bệnh cúm không biến chứng có triệu chứng trong 48 tiếng và những người khỏe mạnh hoặc có
+
+nguy cơ cao
+
+bị biến chứng (
+
+1, 2
+
+).
+
+Adamantanes
+
+(amantadine và rimantadine) đã được sử dụng trước đây; tuy nhiên, hơn 99% vi rút cúm lưu hành hiện tại và gần đây đều kháng với adamantanes, vì vậy những loại thuốc này hiện không được khuyến nghị dùng để điều trị. Adamantanes chặn kênh ion M2 và do đó can thiệp vào phần không có vỏ của vi rút bên trong tế bào. Thuốc chỉ có hiệu quả đối với vi rút cúm A (vi rút cúm B thiếu protein M2).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Hayden FG, Sugaya N, Hirotsu N, et al
+
+:
+
+Baloxavir marboxil
+
+for uncomplicated influenza in adults and adolescents.
+
+N Engl J Med
+
+379:913-923, 2018. doi:10.1056/NEJMoa1716197
+
+2.
+
+Ison MG, Portsmouth S, Yoshida Y, et al
+
+: Early treatment with
+
+baloxavir marboxil
+
+in high-risk adolescent and adult outpatients with uncomplicated influenza (CAPSTONE-2): a randomised, placebo-controlled, phase 3 trial.
+
+Lancet Infect Dis
+
+20(10):1204-1214, 2020. doi: 10.1016/S1473-3099(20)30004-9. Xuất bản điện tử ngày 8 tháng 6 năm 2020. PMID: 32526195.
+
+Tiên lượng về Cúm
+
+Hầu hết bệnh nhân hồi phục hoàn toàn, mặc dù phục hồi hoàn toàn thường mất từ 1 đến 2 tuần. Tuy nhiên, viêm phổi do cúm hoặc liên quan đến cúm là nguyên nhân quan trọng gây bệnh hoặc tử vong trên những bệnh nhân có nguy cơ cao. Điều trị kịp thời bằng thuốc kháng vi rút ở những bệnh nhân này có thể làm giảm tỷ lệ mắc bệnh đường hô hấp dưới và nằm viện. Liệu pháp kháng khuẩn phù hợp làm giảm tỷ lệ tử vong do viêm phổi do nhiễm khuẩn thứ phát.
+
+Nhìn chung, tỷ lệ tử vong theo ca bệnh là thấp (ví dụ: < 1%), nhưng do tỷ lệ mắc bệnh cao nên tổng số ca tử vong có thể đáng kể. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) ước tính rằng ở Hoa Kỳ từ năm 2010 đến năm 2023, số ca nhập viện do cúm theo mùa dao động từ 100.000 ca đến 710.000 ca mỗi năm và số ca tử vong dao động từ 4.900 ca đến 51.000 ca mỗi năm. (
+
+1
+
+). Tỷ lệ nhập viện và tử vong cao nhất ở bệnh nhân > 65 tuổi. Trong các đợt dịch cúm theo mùa điển hình, ước tính khoảng 80% số ca tử vong xảy ra ở bệnh nhân > 65 tuổi; tuy nhiên, 80% số ca tử vong liên quan đến H1N1 được ước tính xảy ra ở những người < 65 tuổi trong 12 tháng đầu tiên của đại dịch H1N1 2009. (
+
+2
+
+,
+
+3
+
+).
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+CDC: Disease Burden of Flu
+
+. Truy cập tháng 4 năm 2024.
+
+2.
+
+Dawood FS, Iuliano AD, Reed C, et al
+
+: Ước tính tỷ lệ tử vong toàn cầu liên quan đến sự lưu hành của đại dịch cúm A H1N1 trong 12 tháng đầu năm 2009: Một nghiên cứu mô hình hóa.
+
+Lancet Infect Dis
+
+12 (9):687–695, 2012. doi: 10.1016/S1473-3099(12)70121-4
+
+3.
+
+CDC:2009 H1N1 Pandemic (H1N1pdm09 virus)
+
+. Truy cập tháng 4 năm 2024.
+
+Phòng ngừa cúm
+
+Các trường hợp nhiễm cúm có thể được ngăn ngừa phần lớn bằng
+
+Chủng ngừa hàng năm
+
+Đôi khi điều trị dự phòng bằng hóa chất (tức là bằng thuốc kháng vi rút)
+
+Các vắc xin cúm
+
+Để biết thảo luận chi tiết về vắc xin cúm, xem
+
+Vắc xin cúm
+
+. Tiêm chủng được chỉ định cho tất cả các bệnh nhân đủ điều kiện nhưng đặc biệt quan trọng đối với những bệnh nhân có nguy cơ cao và các chuyên gia chăm sóc sức khỏe.
+
+Dựa trên các khuyến cáo của
+
+Tổ chức Y tế Thế giới
+
+và các
+
+Trung tâm Phòng ngừa Dịch bệnh
+
+, vắc xin cúm được sửa đổi hàng năm để bao gồm các dòng phổ biến nhất (thường là 2 dòng cúm A và 1 hoặc 2 chủng cúm B). Đôi khi các loại vắc xin khác nhau được sử dụng ở bán cầu bắc và nam.
+
+Các loại vắc xin cúm hiện có trên thị trường bảo vệ chống lại H3N2 theo mùa, đại dịch cúm A H1N1 và cúm B. Danh sách đầy đủ các loại vắc xin cúm cho mùa hiện tại có từ
+
+Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Vắc xin cúm
+
+gia cầm
+
+H5N1 đã được phê duyệt cho những người > 18 tuổi có nguy cơ cao bị phơi nhiễm H5N1 nhưng chỉ có thông qua các cơ quan y tế công cộng. Hiện không có loại vắc xin nào cho các loại vi rút cúm gia cầm khác hiếm khi liên quan đến bệnh ở người (H7N7, H9N2, H7N3 và H7N9).
+
+Thuốc kháng vi rút
+
+Mặc dù tiêm chủng là phương pháp phòng ngừa được ưu tiên nhưng thuốc kháng vi rút cũng có hiệu quả.
+
+Thuốc kháng vi rút dự phòng trước phơi nhiễm
+
+có thể được xem xét trong thời gian có dịch cho bệnh nhân
+
+Những người mới chỉ chích vắc xin trong vòng 2 tuần trước
+
+Dành cho những người có chống chỉ định với việc chích vắc xin
+
+Những người bị suy giảm miễn dịch và do đó có thể không đáp ứng với chích vắc xin
+
+Thuốc kháng vi rút không làm suy giảm khả năng miễn dịch của vắc xin bất hoạt. Có thể ngưng dùng thuốc sau khi chủng ngừa 2 tuần. Nếu không thể tiêm vắc xin, thuốc kháng vi rút sẽ được tiếp tục trong suốt thời gian xảy ra dịch.
+
+Thuốc kháng vi rút dự phòng sau phơi nhiễm
+
+thường được chỉ định cho những người có khả năng bị phơi nhiễm khi các cụm ca bệnh xảy ra trong môi trường kín (ví dụ: viện dưỡng lão, đơn vị bệnh viện). Những loại thuốc này cũng có thể được dùng cho những người tiế xúc trong gia đình hoặc những người bị phơi nhiễm khác có
+
+nguy cơ cao bị các biến chứng do cúm
+
+. Các kiểu kháng thuốc có thể ảnh hưởng đến việc lựa chọn thuốc.
+
+Những điểm chính
+
+Sự sai lệch kháng nguyên nhỏ trong các kháng nguyên H và/hoặc NA tạo ra các chủng gây ra các đợt bùng phát dịch bệnh theo mùa; sự thay đổi cấu trúc kháng nguyên hiếm gặp hơn dẫn đến tổ hợp mới các kháng nguyên H và NA có thể gây ra đại dịch với tỷ lệ tử vong đáng kể.
+
+Bản thân bệnh cúm có thể gây viêm phổi, hoặc bệnh nhân bị cúm có thể bị viêm phổi thứ phát do vi khuẩn.
+
+Chẩn đoán thường là dựa trên lâm sàng nhưng các xét nghiệm RT-PCR nhạy cảm và đặc hiệu có thể phân biệt được các tuýp cúm và các tuýp phụ và do đó giúp chọn lựa liệu pháp kháng vi rút và xác định các đợt bùng phát bệnh hô hấp có phải do cúm hay không.
+
+Điều trị hầu hết các bệnh nhân là điều trị triệu chứng.
+
+Thuốc kháng vi rút được dùng sớm có thể làm giảm nhẹ thời gian và mức độ nặng của các triệu chứng nhưng thường chỉ được sử dụng ở những bệnh nhân có nguy cơ cao; các loại và phân nhóm cúm khác nhau có khả năng kháng các loại thuốc khác nhau.
+
+Tiêm chủng được chỉ định cho tất cả các bệnh nhân đủ điều kiện; thuốc kháng vi rút có thể được sử dụng để phòng ngừa ở những bệnh nhân suy giảm miễn dịch (những người có thể không đáp ứng với tiêm chủng) và những bệnh nhân có các chống chỉ định tiêm chủng.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (cúm) ---
+
+TheoSophie Katz,MD, MPH,Vanderbilt University Medical CenterXem xét bởiBrenda L. Tesini,MD,University of Rochester School of Medicine and DentistryĐã xem xét/Đã chỉnh sửaThg 5 2024|đã sửa đổiThg 4 2025v1018830_vi
+
+--- 2. Dịch tễ học về bệnh Cúm ---
+
+Cúm gây ra bệnh lẻ tẻ lan rộng hàng năm trong mùa thu và mùa đông ở vùng khí hậu ôn đới (các đợt bùng phát dịch theo mùa).Các đợt bùng phát dịch bệnh theo mùado cả vi rút cúm A và B gây ra; kể từ năm 1968, hầu hết các đợt bùng phát dịch cúm theo mùa do H3N2 (một loại vi rút cúm A) gây ra. Các vi rút cúm B có thể gây bệnh nhẹ hơn nhưng thường gây ra các đợt bùng phát dịch với bệnh lý ở mức độ vừa hoặc nặng, khi loại vi rút đang lưu hành chiếm ưu thế hoặc cùng với cúm A.Hầu hết các đợt bùng phát dịch cúm là do một tuýp huyết thanh chiếm ưu thế, nhưng các loại vi rút cúm khác nhau có thể xuất hiện tuần tự ở một nơi hoặc có thể xuất hiện đồng thời, với một loại vi rút chiếm ưu thế ở một nơi và một loại vi rút khác chiếm ưu thế ở nơi khác.Báo cáo giám sát hàng tuần về bệnh cúm theo mùa ở Hoa Kỳ có tạiFluViewcủa Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Đại dịchít phổ biến hơn. Đã có 6 đại dịch cúm lớn, thường được đặt tên theo vị trí xuất phát được cho là:1889: Cúm Nga (H2N2)1900: Cúm Hồng Kông cũ (H3N8)1918: Cúm Tây Ban Nha (H1N1)1957: Cúm Châu Á (H2N2)1968: Cúm Hồng Kông (H3N2)2009: Cúm lợn (cúm A [H1N1]pdm09)Vào năm 2009–2010, đại dịch cúm H1N1 đã xảy ra – vi rút lây lan sang > 70 quốc gia và khắp Hoa Kỳ (1). Đa số những ca tử vong xảy ra ở Mexico. Ban đầu, vi rút này được gọi là vi rút cúm lợn, nhưng nó là sự kết hợp của vi rút cúm lợn, cúm gia cầm và cúm người. Lây nhiễm không phải là do ăn thịt lợn và rất hiếm khi do tiếp xúc với những con lợn bị nhiễm bệnh. Sau đó, tên vi rút đã được chuẩn hóa thành cúm A (H1N1)pdm09 để biểu thị đại dịch và phân biệt vi rút đó với các chủng H1N1 theo mùa và chủng vi rút H1N1 của đại dịch năm 1918. Kể từ năm 2009, cúm A(H1N1)pdm09 đã lưu hành dưới dạng cúm theo mùa.Các vi rút cúm có thể lây lan theoCác giọt nước bọt trong không khíTiếp xúc trực tiếp giữa người với ngườiTiếp xúc với các vật dụng bị nhiễm bẩnSự lan truyền qua đường không khí dường như là cơ chế quan trọng nhất.Nhóm có nguy cơ caoMột số bệnh nhân có nguy cơ cao bị các biến chứng do cúm:Trẻ em<5 tuổi; trẻ em < 2 tuổi ở mức nguy cơ đặc biệt caoNgười lớn>65 tuổiNhững người có tình trạng bệnh lý mạn tính (ví dụ: bệnh tim phổi, tiểu đường, suy thận hoặc suy gan, bệnh hemoglobin, suy giảm miễn dịch)Phụ nữ trong ba tháng thứ hai hoặc thứ ba của thai kỳBệnh nhân có tình trạng bệnh lý làm suy giảm việc bài tiết chất tiết ở đường hô hấp (ví dụ: suy giảm khả năng nhận thức, rối loạn thần kinh cơ, đột quỵ, các tình trạng động kinh)Bệnh nhân≤18 tuổi đang dùng aspirin (vìhội chứng Reyelà một nguy cơ)Tỉ lệ mắc và tỉ lệ tử vong trên những bệnh nhân này có thể là do cơn cấp tính của bệnh lý bên trong,hội chứng suy hô hấp cấp, viêm phổi nguyên phát do cúm, hoặc viêm phổi thứ phát do vi khuẩn.Tài liệu tham khảo về dịch tễ1.Sullivan SJ, Jacobson RM, Dowdle WR, Poland GA: 2009 H1N1 influenza.Mayo Clin Proc. 2010;85(1):64-76. doi:10.4065/mcp.2009.0588
+
+--- 3. Triệu chứng và dấu hiệu của cúm ---
+
+Thời gian ủ bệnh cúm dao động từ 1 ngày đến 4 ngày, trung bình là 48 giờ. Trong những trường hợp nhẹ, nhiều triệu chứng giống nhưcảm lạnh thông thường(ví dụ: đau họng, chảy nước mũi); viêm kết mạc nhẹ cũng có thể xảy ra.Cúm điển hình ở người lớn được đặc trưng bởi khởi phát đột ngột ớn lạnh, sốt, ho và đau nhức toàn thân (đặc biệt là ở lưng và chân). Nhức đầu là triệu chứng nổi bật, thường bị sợ ánh sáng và đau nhức sau mắt. Các triệu chứng hô hấp ban đầu có thể nhẹ, với họng khô và đau, nóng rát dưới xương ức, ho khan và đôi khi là sổ mũi. Sau đó, bệnh ở đường hô hấp dưới trở nên nổi bật; ho có thể dai dẳng, dữ dội và có đờm.Các triệu chứng về đường tiêu hóa có thể xảy ra và dường như phổ biến hơn với chủng H1N1 của đại dịch 2009 (1). Trẻ em có thể bị buồn nôn nhiều, nôn, hoặc đau bụng và trẻ sơ sinh có thể có hội chứng giống như nhiễm khuẩn huyết.Sau 2 đến 3 ngày, các triệu chứng cấp tính sẽ giảm nhanh, mặc dù sốt có thể kéo dài đến 5 ngày. Ho, yếu, đổ mồ hôi và mệt mỏi có thể kéo dài trong vài ngày hoặc đôi khi kéo dài trong nhiều tuần.Các biến chứngViêm phổiđược gợi ý khi ho nặng hơn, đờm có máu, khó thở và có rale. Viêm phổi thứ phát do vi khuẩn có biểu hiện sốt và ho dai dẳng hoặc tái phát sau khi bệnh ban đầu dường như đang khỏi.Viêm não,viêm cơ timvà myoglobin niệu, đôi khi có suy thận, xuất hiện không thường xuyên sau khi nhiễm cúm A hoặc cúm B.Hội chứng Reyevới đặc trưng là bệnh não; gan nhiễm mỡ; tăng men gan, amoniac hoặc cả hai; hạ đường huyết; và bệnh lipid máu, thường xảy ra trong các đợt bùng phát dịch cúm B, đặc biệt là ở những trẻ đã uống aspirin.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.Cao B, Li XW, Mao Y, et al. Clinical features of the initial cases of 2009 pandemic influenza A (H1N1) virus infection in China.N Engl J Med. 2009;361(26):2507-2517. doi:10.1056/NEJMoa0906612
+
+--- 4. Chẩn đoán Cúm ---
+
+Bệnh sử và khám lâm sàngĐôi khi xét nghiệm kháng nguyên nhanh hoặc chuỗi polymerase phiên mã ngược (RT-PCR)Đo độ bão hòa oxy trong máu và phim chụp X quang ngực cho bệnh nhân có triệu chứng hô hấp nặngChẩn đoán cúm thường được thực hiện dựa trên lâm sàng ở những bệnh nhân mắc hội chứng điển hình khi cúm được biết là có trong cộng đồng.Mặc dù có sẵn nhiều xét nghiệm chẩn đoán phân tử và phát hiện kháng nguyên nhanh chóng và hầu hết đều có độ đặc hiệu cao, nhưng độ nhạy của các xét nghiệm này rất khác nhau và thường giúp ích rất ít cho việc xử trí bệnh nhân. (XemCenters for Disease Control and Prevention (CDC): Overview of Influenza Testing Methods). Các xét nghiệm chẩn đoán cần phải được thực hiện khi kết quả sẽ ảnh hưởng đến quyết định lâm sàng.Xét nghiệm RT-PCR có độ nhạy và độ đặc hiệu cao và có thể phân biệt các loại và phân nhóm cúm. Nếu xét nghiệm này được thực hiện nhanh chóng, kết quả có thể được sử dụng để lựa chọn liệu pháp kháng vi rút thích hợp; xét nghiệm này cũng nên được thực hiện khi nghi ngờ cúm ở bệnh nhân nhập viện vì điều trị bằng thuốc kháng vi rút thường được chỉ định (1). Ngoài ra, các xét nghiệm này có thể ngăn chặn việc sử dụng thuốc kháng khuẩn không cần thiết và việc xác định loại vi rút cúm cụ thể có thể rất quan trọng để kiểm soát nhiễm trùng. Những xét nghiệm này cũng hữu ích trong việc xác định các đợt bùng phát dịch bệnh hô hấp có phải là do cúm hay không.Nuôi cấy tế bào từ các tăm bông phết hoặc hút mũi họng phải mất vài ngày và không hữu ích trong việc đưa ra các quyết định xử trí bệnh nhân.Nếu bệnh nhân có các triệu chứng và dấu hiệu đường hô hấp dưới (ví dụ: khó thở, ran được ghi nhận khi khám phổi), nên đo độ bão hòa oxy trong mạch để phát hiện tình trạng hạ oxy máu và chụp phim X quang ngực để phát hiện viêm phổi. Viêm phổi nguyên phát do cúm xuất hiện dưới dạng thâm nhiễm kẽ khu trú hoặc lan tỏa hoặc dưới dạnghội chứng suy hô hấp cấp tính. Viêm phổi thứ phát do vi khuẩn có nhiều khả năng là ở thùy hoặc phân thùy phổi.Tài liệu tham khảo chẩn đoán1.Uyeki TM, Bernstein HH, Bradley JS, et al: Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenza [published correction appears inClin Infect  Dis. Ngày 2 tháng 5 năm 2019;68(10):1790].Clin Infect Dis. 2019;68(6):e1-e47. doi:10.1093/cid/ciy866
+
+--- 5. Điều trị Cúm ---
+
+Điều trị triệu chứngĐôi khi dùng thuốc kháng vi rútĐiều trị cho hầu hết bệnh nhân cúm là điều trị triệu chứng; bao gồm nghỉ ngơi, bù nước và hạ sốt khi cần thiết, nhưng tránh dùng aspirin ở bệnh nhân≤18 tuổi (do nguy cơ mắchội chứng Reye). Các trường hợp nhiễm khuẩn phức tạp đòi hỏi phải có kháng sinh thích hợp.Thuốc điều trị cúmThuốc kháng vi rút được dùng trong vòng 1 ngày đến 2 ngày kể từ khi khởi phát triệu chứng sẽ làm giảm thời gian sốt, mức độ nặng của các triệu chứng và thời gian trở lại hoạt động bình thường. Khuyến nghị điều trị bằng thuốc kháng vi rút cho những bệnh nhân bị bệnh nặng vàbệnh nhân có nguy cơ cao(bao gồm tất cả bệnh nhân nhập viện) có các triệu chứng giống cúm; khuyến nghị này dựa trên dữ liệu cho thấy điều trị sớm có thể ngăn ngừa các biến chứng ở những bệnh nhân này.Thuốc điều trị cúm bao gồm những loại thuốc sau (xemCDC: Influenza Antiviral Medications: Summary for clinicians):Oseltamivir, zanamivir và peramivir (các thuốc ức chế neuraminidase)Baloxavir marboxil (thuốc ức chế endonuclease)Các thuốc ức chế neuraminidase can thiệp vào quá trình giải phóng vi rút cúm ra khỏi các tế bào bị nhiễm và do đó ngăn chặn sự lây lan của bệnh.Thuốc ức chế endnuclease baloxavir marboxil cản trở sự nhân lên của vi rút bằng cách ngăn chặn sự phiên mã RNA của vi rút. Thuốc có tác dụng chống cúm A và B và có thể là một lựa chọn điều trị quan trọng mới nếu vi rút kháng các thuốc ức chế neuraminidase.Zanamivirđược cho dùng bằng ống hít; thuốc có thể được sử dụng ở người lớn và trẻ em≥7 tuổi. Zanamivir đôi khi gây co thắt phế quản và không nên dùng cho bệnh nhân bị bệnh đường thở phản ứng; một số người không thể sử dụng thiết bị xịt hít thuốc.Oseltamivirđược dùng cho bệnh nhân>12 tuổi; liều thấp hơn có thể được sử dụng ở trẻ dưới 2 tuần tuổi. Oseltamivir đôi khi có thể gây buồn nôn và nôn. Ở trẻ em, oseltamivir có thể làm giảm tỷ lệ mắc bệnh viêm tai giữa; tuy nhiên, không có dữ liệu nào khác cho thấy rõ rằng việc điều trị cúm sẽ ngăn ngừa các biến chứng.Peramivirđược dùng theo đường tĩnh mạch một liều duy nhất và có thể dùng cho bệnh nhân > 6 tháng tuổi không thể dung nạp thuốc uống hoặc thuốc hít. Các nghiên cứu về việc sử dụng thuốc này để điều trị cúm B còn hạn chế.Baloxavir marboxilđược cho dùng dưới dạng liều uống duy nhất cho bệnh nhân ≥ 5 tuổi mắc bệnh cúm không biến chứng có triệu chứng trong 48 tiếng và những người khỏe mạnh hoặc cónguy cơ caobị biến chứng (1, 2).Adamantanes(amantadine và rimantadine) đã được sử dụng trước đây; tuy nhiên, hơn 99% vi rút cúm lưu hành hiện tại và gần đây đều kháng với adamantanes, vì vậy những loại thuốc này hiện không được khuyến nghị dùng để điều trị. Adamantanes chặn kênh ion M2 và do đó can thiệp vào phần không có vỏ của vi rút bên trong tế bào. Thuốc chỉ có hiệu quả đối với vi rút cúm A (vi rút cúm B thiếu protein M2).Tài liệu tham khảo về điều trị1.Hayden FG, Sugaya N, Hirotsu N, et al:Baloxavir marboxilfor uncomplicated influenza in adults and adolescents.N Engl J Med379:913-923, 2018. doi:10.1056/NEJMoa17161972.Ison MG, Portsmouth S, Yoshida Y, et al: Early treatment withbaloxavir marboxilin high-risk adolescent and adult outpatients with uncomplicated influenza (CAPSTONE-2): a randomised, placebo-controlled, phase 3 trial.Lancet Infect Dis20(10):1204-1214, 2020. doi: 10.1016/S1473-3099(20)30004-9. Xuất bản điện tử ngày 8 tháng 6 năm 2020. PMID: 32526195.
+
+--- 6. Tiên lượng về Cúm ---
+
+Hầu hết bệnh nhân hồi phục hoàn toàn, mặc dù phục hồi hoàn toàn thường mất từ 1 đến 2 tuần. Tuy nhiên, viêm phổi do cúm hoặc liên quan đến cúm là nguyên nhân quan trọng gây bệnh hoặc tử vong trên những bệnh nhân có nguy cơ cao. Điều trị kịp thời bằng thuốc kháng vi rút ở những bệnh nhân này có thể làm giảm tỷ lệ mắc bệnh đường hô hấp dưới và nằm viện. Liệu pháp kháng khuẩn phù hợp làm giảm tỷ lệ tử vong do viêm phổi do nhiễm khuẩn thứ phát.Nhìn chung, tỷ lệ tử vong theo ca bệnh là thấp (ví dụ: < 1%), nhưng do tỷ lệ mắc bệnh cao nên tổng số ca tử vong có thể đáng kể. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) ước tính rằng ở Hoa Kỳ từ năm 2010 đến năm 2023, số ca nhập viện do cúm theo mùa dao động từ 100.000 ca đến 710.000 ca mỗi năm và số ca tử vong dao động từ 4.900 ca đến 51.000 ca mỗi năm. (1). Tỷ lệ nhập viện và tử vong cao nhất ở bệnh nhân > 65 tuổi. Trong các đợt dịch cúm theo mùa điển hình, ước tính khoảng 80% số ca tử vong xảy ra ở bệnh nhân > 65 tuổi; tuy nhiên, 80% số ca tử vong liên quan đến H1N1 được ước tính xảy ra ở những người < 65 tuổi trong 12 tháng đầu tiên của đại dịch H1N1 2009. (2,3).Tài liệu tham khảo về tiên lượng1.CDC: Disease Burden of Flu. Truy cập tháng 4 năm 2024.2.Dawood FS, Iuliano AD, Reed C, et al: Ước tính tỷ lệ tử vong toàn cầu liên quan đến sự lưu hành của đại dịch cúm A H1N1 trong 12 tháng đầu năm 2009: Một nghiên cứu mô hình hóa.Lancet Infect Dis12 (9):687–695, 2012. doi: 10.1016/S1473-3099(12)70121-43.CDC:2009 H1N1 Pandemic (H1N1pdm09 virus). Truy cập tháng 4 năm 2024.
+
+--- 7. Phòng ngừa cúm ---
+
+Các trường hợp nhiễm cúm có thể được ngăn ngừa phần lớn bằngChủng ngừa hàng nămĐôi khi điều trị dự phòng bằng hóa chất (tức là bằng thuốc kháng vi rút)Các vắc xin cúmĐể biết thảo luận chi tiết về vắc xin cúm, xemVắc xin cúm. Tiêm chủng được chỉ định cho tất cả các bệnh nhân đủ điều kiện nhưng đặc biệt quan trọng đối với những bệnh nhân có nguy cơ cao và các chuyên gia chăm sóc sức khỏe.Dựa trên các khuyến cáo củaTổ chức Y tế Thế giớivà cácTrung tâm Phòng ngừa Dịch bệnh, vắc xin cúm được sửa đổi hàng năm để bao gồm các dòng phổ biến nhất (thường là 2 dòng cúm A và 1 hoặc 2 chủng cúm B). Đôi khi các loại vắc xin khác nhau được sử dụng ở bán cầu bắc và nam.Các loại vắc xin cúm hiện có trên thị trường bảo vệ chống lại H3N2 theo mùa, đại dịch cúm A H1N1 và cúm B. Danh sách đầy đủ các loại vắc xin cúm cho mùa hiện tại có từTrung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Vắc xin cúmgia cầmH5N1 đã được phê duyệt cho những người > 18 tuổi có nguy cơ cao bị phơi nhiễm H5N1 nhưng chỉ có thông qua các cơ quan y tế công cộng. Hiện không có loại vắc xin nào cho các loại vi rút cúm gia cầm khác hiếm khi liên quan đến bệnh ở người (H7N7, H9N2, H7N3 và H7N9).Thuốc kháng vi rútMặc dù tiêm chủng là phương pháp phòng ngừa được ưu tiên nhưng thuốc kháng vi rút cũng có hiệu quả.Thuốc kháng vi rút dự phòng trước phơi nhiễmcó thể được xem xét trong thời gian có dịch cho bệnh nhânNhững người mới chỉ chích vắc xin trong vòng 2 tuần trướcDành cho những người có chống chỉ định với việc chích vắc xinNhững người bị suy giảm miễn dịch và do đó có thể không đáp ứng với chích vắc xinThuốc kháng vi rút không làm suy giảm khả năng miễn dịch của vắc xin bất hoạt. Có thể ngưng dùng thuốc sau khi chủng ngừa 2 tuần. Nếu không thể tiêm vắc xin, thuốc kháng vi rút sẽ được tiếp tục trong suốt thời gian xảy ra dịch.Thuốc kháng vi rút dự phòng sau phơi nhiễmthường được chỉ định cho những người có khả năng bị phơi nhiễm khi các cụm ca bệnh xảy ra trong môi trường kín (ví dụ: viện dưỡng lão, đơn vị bệnh viện). Những loại thuốc này cũng có thể được dùng cho những người tiế xúc trong gia đình hoặc những người bị phơi nhiễm khác cónguy cơ cao bị các biến chứng do cúm. Các kiểu kháng thuốc có thể ảnh hưởng đến việc lựa chọn thuốc.
+
+--- 8. Những điểm chính ---
+
+Sự sai lệch kháng nguyên nhỏ trong các kháng nguyên H và/hoặc NA tạo ra các chủng gây ra các đợt bùng phát dịch bệnh theo mùa; sự thay đổi cấu trúc kháng nguyên hiếm gặp hơn dẫn đến tổ hợp mới các kháng nguyên H và NA có thể gây ra đại dịch với tỷ lệ tử vong đáng kể.Bản thân bệnh cúm có thể gây viêm phổi, hoặc bệnh nhân bị cúm có thể bị viêm phổi thứ phát do vi khuẩn.Chẩn đoán thường là dựa trên lâm sàng nhưng các xét nghiệm RT-PCR nhạy cảm và đặc hiệu có thể phân biệt được các tuýp cúm và các tuýp phụ và do đó giúp chọn lựa liệu pháp kháng vi rút và xác định các đợt bùng phát bệnh hô hấp có phải do cúm hay không.Điều trị hầu hết các bệnh nhân là điều trị triệu chứng.Thuốc kháng vi rút được dùng sớm có thể làm giảm nhẹ thời gian và mức độ nặng của các triệu chứng nhưng thường chỉ được sử dụng ở những bệnh nhân có nguy cơ cao; các loại và phân nhóm cúm khác nhau có khả năng kháng các loại thuốc khác nhau.Tiêm chủng được chỉ định cho tất cả các bệnh nhân đủ điều kiện; thuốc kháng vi rút có thể được sử dụng để phòng ngừa ở những bệnh nhân suy giảm miễn dịch (những người có thể không đáp ứng với tiêm chủng) và những bệnh nhân có các chống chỉ định tiêm chủng.

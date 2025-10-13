@@ -1,0 +1,597 @@
+TIÊU ĐỀ: Mpox (bệnh đậu mùa khỉ)
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-rút-đậu-mùa/mpox-bệnh-đậu-mùa-khỉ
+================================================================================
+
+NỘI DUNG:
+
+Mpox (bệnh đậu mùa khỉ)
+
+(MPX)
+
+Theo
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2023
+
+|
+
+đã sửa đổi
+
+Thg 10 2024
+
+v1023048_vi
+
+Mpox (bệnh đậu mùa khỉ) do vi rút đậu mùa khỉ gây ra, một loại
+
+orthopoxvirus
+
+có liên quan về mặt cấu trúc với vi rút đậu mùa. Bệnh nhân có biểu hiện phát ban dạng mụn nước hoặc mụn mủ, có thể đau và thường kèm theo sốt, khó chịu và nổi hạch. Chẩn đoán bằng phản ứng chuỗi polymerase (PCR). Điều trị nói chung là hỗ trợ và có khả năng bằng thuốc kháng vi rút. Phòng ngừa liên quan đến tiêm vắc xin.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Thông tin thêm
+
+|
+
+Vi rút gây bệnh đậu mùa ở khỉ, giống như
+
+bệnh đậu mùa
+
+, là thành viên của nhóm
+
+Orthopoxvirus
+
+. Có 2 nhánh riêng biệt (các nhóm sinh vật tương tự có nguồn gốc từ một tổ tiên chung): nhánh Tây Phi và nhánh Lưu vực Congo. Mặc dù tên của nó, các loài linh trưởng không phải là người không phải là vi rút của khỉ. Mặc dù vật chủ chưa được xác định rõ, nhưng các sinh vật nghĩ tới hàng đầu là loài gặm nhấm (ví dụ sóc nhỏ) trong rừng nhiệt đới của Châu Phi, chủ yếu ở phía tây và trung tâm Châu Phi. Bệnh do vi rút đậu mùa ở khỉ gây ra ban đầu cũng được gọi là "monkeypox", nhưng vào tháng 11 năm 2022, Tổ chức Y tế Thế giới đã giới thiệu tên "mpox" cho bệnh do vi rút này gây ra (xem
+
+WHO recommends new name for monkeypox disease
+
+).
+
+Trong lịch sử, bệnh ở người chủ yếu chỉ giới hạn trong các trường hợp lẻ tẻ và dịch bệnh xảy ra không thường xuyên, chủ yếu là ở châu Phi. Hầu hết các trường hợp được báo cáo là ở Cộng hòa Dân chủ Congo. Kể từ năm 2016, các trường hợp có chẩn đoán xác định cũng đã được báo cáo ở Sierra Leone, Liberia, Cộng hòa Trung Phi, Cộng hòa Công-gô và Nigeria. Sự gia tăng đáng kể tỷ lệ mắc bệnh ở Châu Phi kể từ năm 2000 được cho là do việc ngừng tiêm phòng bệnh đậu mùa vào năm 1980; những người đã chủng ngừa bệnh đậu mùa, thậm chí > 25 năm trước, sẽ giảm nguy cơ mắc bệnh mpox. Các trường hợp mắc bệnh mpox ở Châu Phi cũng đang gia tăng do con người ngày càng lấn chiếm môi trường sống của các loài động vật mang vi rút.
+
+Trước năm 2022, các ca bệnh bên ngoài châu Phi có liên quan trực tiếp đến việc đi đến miền tây và miền trung châu Phi hoặc liên quan trực tiếp đến động vật nhập khẩu từ khu vực này. Một đợt bùng phát mpox đáng chú ý xảy ra ở Hoa Kỳ vào năm 2003, khi các loài gặm nhấm bị nhiễm bệnh được nhập khẩu làm vật nuôi từ Châu Phi đã lây lan vi rút sang những con chó cưng trên thảo nguyên, sau đó các con chó này đã lây nhiễm cho những người ở Trung Tây. Đợt bùng phát liên quan đến 37 ca bệnh có chẩn đoán xác định và 10 ca bệnh có lẽ là xảy ra ở 6 tiểu bang, nhưng không có ca tử vong (
+
+1
+
+).
+
+Kể từ tháng 5 năm 2022, các trường hợp bị mpox đã được báo cáo ở khoảng 70 quốc gia nơi không lưu hành bệnh này. Tình trạng lây truyền từ người sang người liên tục ở bên ngoài Châu Phi đã được chứng minh. Tổ chức Y tế Thế giới (WHO) đã tuyên bố đợt bùng phát mpox năm 2022 là một trường hợp khẩn cấp về sức khỏe cộng đồng gây quan ngại quốc tế (xem
+
+WHO: Monkeypox (Mpox) Outbreak 2022
+
+). Phần lớn các trường hợp được xác nhận ở các quốc gia không có dịch bệnh là ở Châu Âu và Bắc Mỹ (xem
+
+Centers for Disease Control and Prevention [CDC]: 2022 Mpox Outbreak Global Map
+
+). Hơn 30.000 trường hợp đã được báo cáo tại Hoa Kỳ kể từ tháng 3 năm 2023 (xem
+
+CDC: 2022 US Map & Case Count
+
+). Số ca mắc mới đã giảm đáng kể từ mức cao nhất vào tháng 8 năm 2022. Tất cả các ca bệnh liên quan đến đợt bùng phát toàn cầu năm 2022 đều là biến chủng ở Tây Phi. Các trường hợp đã được báo cáo chủ yếu ở nam giới có quan hệ tình dục đồng giới, nhưng mpox cần phải được xem xét ở bất kỳ ai có biểu hiện phát ban phù hợp với mpox (
+
+2
+
+,
+
+3
+
+).
+
+Trong trường hợp lây truyền từ động vật sang người, mpox có thể được truyền qua dịch cơ thể, bao gồm nước bọt hoặc giọt hô hấp hoặc tiếp xúc với dịch tiết vết thương. Điều này có thể xảy ra qua vết cắn hoặc vết xước của động vật hoặc qua việc sơ chế và tiêu thụ thịt động vật bị nhiễm bệnh.
+
+Quá trình lây truyền từ người sang người xảy ra khi tiếp xúc gần và lâu. Các con đường lây truyền bao gồm các giọt bắn ở đường hô hấp khi tiếp xúc trực diện hoặc tiếp xúc thân thể thân mật kéo dài, tiếp xúc trực tiếp với các tổn thương do lây nhiễm hoặc với các loại dịch khác của cơ thể và đồ vật truyền bệnh qua tiếp xúc với quần áo hoặc đồ vải bị nhiễm vảy ở tổn thương hoặc dịch cơ thể. Quá trình lây truyền từ mẹ sang thai nhi có thể xảy ra qua nhau thai. Hiện vẫn chưa rõ liệu tình trạng lây truyền có thể xảy ra qua tinh dịch hoặc qua dịch âm đạo hay không. Trong đợt bùng phát năm 2022, nhiều ca bệnh xảy ra do lây truyền khi quan hệ tình dục hoặc quan hệ thân mật, nhưng tình trạng này có thể do tiếp xúc trực tiếp với các tổn thương do lây nhiễm hoặc tiếp xúc trực tiếp với dịch tiết ở đường hô hấp.
+
+Thời gian ủ bệnh từ 1 đến 2 tuần nhưng có thể lâu nhất là 3 tuần. Những người có khả năng lây nhiễm từ khi các triệu chứng bắt đầu cho đến khi tất cả các tổn thương đóng vảy và tróc vảy để lộ ra làn da khỏe mạnh. Quá trình này thường mất từ 2 đến 4 tuần.
+
+Dựa trên một nghiên cứu lây truyền ở Châu Phi, tỷ lệ tấn công thứ cấp tổng thể sau khi tiếp xúc với nguồn con người đã biết là 3% và tỷ lệ tấn công lên tới 50% đã được báo cáo ở những người sống chung với người bị nhiễm mpox (
+
+4
+
+). Tình trạng lây truyền trong môi trường bệnh viện đã được ghi nhận trong một môi trường có lưu hành dịch bệnh. Đã có báo cáo về một ca bệnh lây truyền cho nhân viên y tế (
+
+5
+
+). Tỷ lệ tử vong theo ca bệnh là ≤ 10% với biến chủng ở Lưu vực Công-gô, nhưng < 1% với biến chủng ở Tây Phi.
+
+Tài liệu tham khảo
+
+1.
+
+Reynolds MG, Yorita KL, Kuehnert MJ, et al
+
+: Clinical manifestations of human monkeypox influenced by route of infection.
+
+J Infect Dis
+
+194(6):773-80, 2006. doi: 10.1086/505880. Xuất bản điện tử ngày 8 tháng 8 năm 2006. PMID: 16941343.
+
+2. Centers for Disease Control and Prevention (CDC):
+
+Newsroom release: CDC and health partners responding to monkeypox case in the U.S, May 2022
+
+. Truy cập ngày 26 tháng 7 năm 2022.
+
+3. CDC:
+
+Case Definitions for Use in the 2022 Monkeypox Response
+
+. Truy cập ngày 26 tháng 7 năm 2022.
+
+4.
+
+Nolen LD, Osadebe L, Katomba J, et al
+
+: Báo cáo lây từ người sang người trong thời gian xảy ra dịch cúm gia cầm ở Cộng hòa Dân chủ Congo.
+
+Emerg Infect Dis
+
+22 (6):1014–1021, 2016. doi: 10.3201/eid2206.150579
+
+5.
+
+Zachary KC, Shenoy ES
+
+: Monkeypox transmission following exposure in healthcare facilities in nonendemic settings: Low risk but limited literature.
+
+Infect Control Hosp Epidemiol
+
+43(7):920-924, 2022. doi: 10.1017/ice.2022.152. Xuất bản điện tử ngày 9 tháng 6 năm 2022. PMID: 35676244; PMCID: PMC9272466.
+
+Triệu chứng và dấu hiệu của Mpox
+
+Về mặt lâm sàng, mpox tương tự như bệnh đậu mùa. Sau tiền triệu sốt, nhức đầu và khó chịu là phát ban tiến triển từ dạng dát và dạng sẩn sang dạng mụn nước hoặc mụn mủ chắc, nằm sâu, lõm xuống, đóng vảy và rụng theo thời gian. Có nổi hạch trong bệnh mpox nhưng không có ở bệnh đậu mùa.
+
+Tuy nhiên, các biểu hiện lâm sàng không điển hình đã được báo cáo trong đợt bùng phát toàn cầu năm 2022; do đó, chẩn đoán có thể bị muộn. Trong đợt bùng phát năm 2022, phát ban thường được báo cáo là bắt đầu ở vùng sinh dục, quanh hậu môn hoặc vùng miệng và không phải lúc nào cũng lan tỏa hoặc tiến triển qua các giai đoạn điển hình. Đau tại các vị trí tổn thương, cụ thể là viêm trực tràng hoặc đau miệng, có thể là triệu chứng hiện tại. Các triệu chứng tiền triệu toàn thân cũng có thể nhẹ, không có hoặc xuất hiện đồng thời với phát ban. Nhiễm trùng thứ phát có thể xảy ra ở da và phổi.
+
+Có thể khó phân biệt lâm sàng mpox với
+
+bệnh đậu mùa
+
+và herpesvirus như là
+
+thủy đậu
+
+hoặc
+
+vi rút herpes simplex (HSV)
+
+. Ngoài ra, chẩn đoán HSV hoặc một
+
+bệnh nhiễm trùng lây truyền qua đường tình dục
+
+khác không loại trừ đồng nhiễm mpox.
+
+Mpox
+
+Mpox (1)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Mpox (2)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (3)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (4)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (5)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (6)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.
+
+Mpox (7)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.
+
+Mpox (8)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+BÁC SĨ RICHARD USATINE/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Mpox (1)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Mpox (2)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (3)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (4)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (5)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.
+
+Mpox (6)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.
+
+Mpox (7)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+Hình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.
+
+Mpox (8)
+
+Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.
+
+Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).
+
+Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.
+
+... đọc thêm
+
+BÁC SĨ RICHARD USATINE/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Chẩn đoán Mpox
+
+Phản ứng chuỗi Polymerase (PCR)
+
+Chẩn đoán mpox bằng nuôi cấy, phản ứng chuỗi polymerase (PCR), hóa mô miễn dịch hoặc kính hiển vi điện tử, tùy thuộc vào các xét nghiệm có sẵn.
+
+Xét nghiệm PCR sử dụng tổn thương da (chỏm mụn nước hoặc dịch ở mụn nước và mụn mủ và/hoặc lớp vảy khô) là mẫu tối ưu. PCR máu bị hạn chế vì thời gian vi rút lưu hành trong máu ngắn và không được khuyến nghị. Tại Hoa Kỳ, xét nghiệm PCR có sẵn thông qua các phòng thí nghiệm y tế công cộng và phòng thí nghiệm thương mại.
+
+Xét nghiệm cần phải được nghĩ đến ở những bệnh nhân có tổn thương tương thích về mặt lâm sàng và có yếu tố nguy cơ dịch tễ học cũng như bất kỳ bệnh nhân nào có tổn thương đặc trưng (mụn nước nằm sâu hoặc mụn mủ lõm ở trung tâm). (Xem thêm
+
+CDC: Case Definitions for Use in the 2022 Mpox Response
+
+.)
+
+Điều trị Mpox
+
+Hầu hết bệnh nhân mắc bệnh mpox đều có bệnh nhẹ và tự khỏi. Điều này đặc biệt đúng đối với biến chủng Tây Phi là nguyên nhân gây đợt bùng phát toàn cầu hiện nay. Điều trị hỗ trợ bằng thuốc giảm đau, bù dịch và chăm sóc vết thương.
+
+Những bệnh nhân bị bệnh nặng, có các biến chứng hoặc có nguy cơ mắc bệnh nặng cần phải được xem xét điều trị bằng thuốc kháng vi rút. Việc này bao gồm những bệnh nhân có tổn thương xuất huyết hoặc tổn thương hợp nhất, có thương tổn niêm mạc hoặc tổn thương ở bộ phận sinh dục, hoặc các biến chứng khác cần phải nằm viện; bệnh nhân suy giảm miễn dịch, bệnh nhân là trẻ em, bệnh nhân mang thai hoặc cho con bú; và những bệnh nhân có tình trạng da đang bị tróc vảy. Không có phương pháp điều trị an toàn đã được chứng minh cụ thể đối với nhiễm vi rút mpox. Tuy nhiên, có các phương án điều trị sau:
+
+Thuốc kháng vi rút, tecovirimat: Được Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ [FDA] phê duyệt để điều trị bệnh đậu mùa – có sẵn theo công thức bào chế đường uống và đường tĩnh mạch từ CDC thông qua phác đồ Thuốc mới Nghiên cứu Tiếp cận Mở rộng (IND) để điều trị ban đầu hoặc điều trị giai đoạn sớm theo kinh nghiệm đối với bệnh mpox ở mọi lứa tuổi; được phê duyệt cho bệnh đậu mùa và mpox ở Liên minh châu Âu
+
+Thuốc kháng vi rút cidofovir (có bán trên thị trường) hoặc brincidofovir (CMX001, có sẵn thông qua IND sử dụng khẩn cấp cho một bệnh nhân)
+
+Globulin miễn dịch Vaccinia (đường tĩnh mạch), có sẵn từ CDC thông qua quy trình IND Tiếp cận Mở rộng
+
+Dung dịch nhỏ mắt Trifluridine dùng để điều trị tổn thương ở mắt
+
+Tất cả các loại thuốc này đều có hoạt tính chống lại mpox in vitro và trong các mô hình thử nghiệm, nhưng chưa có dữ liệu chứng minh hiệu quả lâm sàng. Các loại thuốc này đã được sử dụng rộng rãi trong đợt bùng phát hiện tại và các thử nghiệm lâm sàng đang được tiến hành. CDC đã phát triển một thuật toán cân nhắc điều trị vào tháng 3 năm 2023 dựa trên bằng chứng và kinh nghiệm sẵn có (
+
+1
+
+). (Xem thêm
+
+CDC: Information for Healthcare Providers on Obtaining and Using TPOXX [Tecovirimat] for Treatment of Mpox
+
+và
+
+CDC: Mpox: Treatment Information for Healthcare Professional
+
+.)
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Rao AK, Schrodt CA, Minhaj FS, et al
+
+: Interim Clinical Treatment Considerations for Severe Manifestations of Mpox — United States, February 2023.
+
+MMWR Morb Mortal Wkly Rep
+
+72:232–243, 2023. doi: 10.15585/mmwr.mm7209a4
+
+Phòng ngừa Mpox
+
+Tiêm vắc xin
+
+Dữ liệu quan sát trước đây từ Châu Phi cho thấy
+
+vắc xin đậu mùa
+
+có hiệu quả ít nhất 85% trong việc ngăn ngừa bệnh mpox, vì vi rút mpox có liên quan chặt chẽ với vi rút gây bệnh đậu mùa (
+
+1
+
+). Tuy nhiên, việc tiêm vắc xin phòng đậu mùa trước không phải lúc nào cũng mang lại khả năng miễn dịch suốt đời nhưng có khả năng làm giảm mức độ nặng của bệnh. Hai loại vắc xin đậu mùa có thể được sử dụng để phòng ngừa bệnh mpox: JYNNEOS (MVA-BN) và ACAM2000 (xem
+
+WHO: Vaccines and immunization for monkeypox: Interim guidance, 16 November 2022
+
+).
+
+Vắc xin JYNNEOS là một loại vắc xin vaccinia sống nhưng đã bị làm yếu (giảm độc lực) và không sinh sản ở người được tiêm vắc xin. Vắc xin này được chỉ định để ngăn ngừa bệnh mpox (và bệnh đậu mùa) ở người lớn từ 18 tuổi trở lên có nguy cơ cao mắc bệnh mpox (hoặc bệnh đậu mùa). Đây là loại vắc xin chính được sử dụng ở Hoa Kỳ trong đợt bùng phát hiện nay. CDC khuyến nghị dùng vắc xin JYNNEOS cho những người có nguy cơ cao phơi nhiễm với mpox hoặc sau khi đã biết hoặc được cho là đã phơi nhiễm với mpox gần đây. Nếu được sử dụng như thuốc dự phòng sau phơi nhiễm (PEP), lý tưởng nhất là nên tiêm trong vòng 4 ngày kể từ khi tiếp xúc, nhưng có thể có hữu dụng trong vòng 14 ngày sau khi phơi nhiễm (xem
+
+CDC: Mpox Vaccination Basics
+
+). Vắc xin được tiêm theo một liệu trình 2 mũi tiêm trong da hoặc tiêm dưới da cách nhau 4 tuần.
+
+Có ít dữ liệu về hiệu quả của vắc xin JYNNEOS trong đợt bùng phát hiện tại. Trên khắp 32 khu vực pháp lý của Hoa Kỳ, trong số nam giới từ 18 tuổi đến 49 tuổi đủ điều kiện tiêm vắc xin JYNNEOS, tỷ lệ mắc bệnh mpox ở nam giới chưa được tiêm phòng cao gấp 14 lần so với những người đã tiêm liều vắc xin đầu tiên ≥ 14 ngày trước đó (xem
+
+CDC: Rates of Mpox Cases by Vaccination Status
+
+). Những người có hệ thống miễn dịch suy yếu có thể tiêm vắc xin JYNNEOS (không giống như ACAM2000) nhưng đáp ứng có thể bị suy giảm.
+
+Vắc xin ACAM2000 có vi rút vaccinia sống, có liên quan đến vi rút bệnh đậu mùa và mang lại khả năng miễn dịch chéo với vi rút bệnh đậu mùa khỉ và vi rút bệnh đậu mùa. Vắc xin này được chỉ định cho những người có nguy cơ cao mắc bệnh mpox (hoặc bệnh đậu mùa). Vắc xin này có sẵn để sử dụng chống lại mpox ở Hoa Kỳ theo quy trình Thuốc mới Nghiên cứu Tiếp cận Mở rộng. ACAM2000 được tiêm bằng cách dùng kim được thiết kế đặc biệt đã được nhúng vào vắc xin đâm nhanh 15 lần vào một vùng nhỏ. Đây được coi là một liều. Sau đó, vị trí tiêm vắc xin được băng lại để ngăn không cho vi rút vaccina lây lan sang các vị trí cơ thể khác hoặc lây lan sang người khác. Việc chủng ngừa được coi là thành công nếu một vết phồng rộp nhỏ xuất hiện trong khoảng 7 ngày sau đó. Nếu nó không xuất hiện, người đó sẽ được tiêm một liều khác.
+
+Tiêm phòng bằng ACAM2000 là nguy hiểm và không được khuyến nghị cho một số người, đặc biệt là những người có các yếu tố nguy cơ sau:
+
+Hệ miễn dịch suy yếu (chẳng hạn như những người bị AIDS hoặc những người dùng thuốc ức chế hệ thống miễn dịch)
+
+Rối loạn về da (đặc biệt là viêm da cơ địa [eczema])
+
+Viêm mắt
+
+Tình trạng bệnh ở tim
+
+Dưới 1 tuổi
+
+Mang thai
+
+Kiểm soát lây nhiễm
+
+Bệnh nhân bị mpox không nhập viện cần phải
+
+Cách ly y tế tại nhà cho đến khi các tổn thương đã khỏi, vảy bong ra và một lớp da nguyên vẹn tươi mới đã hình thành
+
+Tránh tiếp xúc thân thể trực tiếp với người và động vật khác
+
+Không dùng chung các vật dụng có khả năng bị nhiễm bẩn, chẳng hạn như các đồ vải, khăn tắm, quần áo, ly uống nước hoặc dụng cụ ăn uống, đồng thời phải làm sạch và khử trùng các bề mặt và vật dụng thường hay chạm vào
+
+Đeo khẩu trang nếu cần tiếp xúc gần với những người khác trong nhà
+
+Các biện pháp kiểm soát lây nhiễm trong bệnh viện bao gồm cho bệnh nhân vào phòng riêng có đóng cửa. Không cần xử lý đặc biệt đối với không khí trừ khi việc thực hiện các thủ thuật có khả năng lây lan dịch tiết ở miệng (ví dụ: đặt nội khí quản, rút nội khí quản). Cần tránh các hoạt động có thể khiến cho chất thải khô phát tán vào không khí hoặc trên các bề mặt (ví dụ: sử dụng quạt, vung vẩy đồ vải bẩn). Thiết bị bảo hộ cá nhân (PPE) thích hợp bao gồm áo choàng, găng tay, khẩu trang cấp độ N95 (hoặc tương đương) và kính bảo vệ mắt. Các chất khử trùng cấp độ bệnh viện đã đăng ký với EPA có xác nhận về tác dụng với mầm bệnh vi rút mới xuất hiện cần phải được sử dụng để khử trùng theo tiêu chuẩn. Đối với bệnh nhân thuộc biến chủng Tây Phi, chất thải có thể được xử lý theo hướng dẫn thông thường đối với chất thải y tế lây nhiễm. Đối với những bệnh nhân thuộc nhánh Lưu vực Congo, chất thải y tế được phân loại là Loại A theo Quy định về Vật liệu Nguy hiểm của Bộ Giao thông Vận tải Hoa Kỳ (DOT) và cần được kiểm soát phù hợp (xem
+
+CDC: Infection Prevention and Control of Mpox in Healthcare Settings
+
+).
+
+Tất cả nhân viên y tế chăm sóc bệnh nhân mắc bệnh mpox nên theo dõi các triệu chứng ít nhất hai lần mỗi ngày trong 21 ngày kể từ lần gặp cuối cùng của họ. Những người có nguy cơ phơi nhiễm cao (xem
+
+CDC: Mpox: Monitoring and Risk Assessment for Persons Exposed in the Community
+
+) cần phải được cung cấp biện pháp dự phòng sau phơi nhiễm thông qua tiêm vắc xin JYNNEOS hoặc ACAM2000. Lý tưởng nhất, việc tiêm phòng cần phải diễn ra trong vòng 4 ngày sau khi phơi nhiễm nhưng có thể có hiệu lực đến 14 ngày sau khi phơi nhiễm.
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Jezek Z, Grab B, Szczeniowski MV, et al
+
+: Human monkeypox: secondary attack rates.
+
+Bull World Health Organ
+
+66(4):465-70, 1988. PMID: 2844429; PMCID: PMC2491159.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+CDC:
+
+Mpox: 2022 Outbreak Cases and Data
+
+WHO:
+
+Multi-country monkeypox outbreak: situation update
+
+WHO:
+
+Fact sheets: Monkeypox
+
+CDC:
+
+Mpox
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (MPX) ---
+
+TheoBrenda L. Tesini,MD,University of Rochester School of Medicine and DentistryXem xét bởiBrenda L. Tesini,MD,University of Rochester School of Medicine and DentistryĐã xem xét/Đã chỉnh sửaThg 4 2023|đã sửa đổiThg 10 2024v1023048_vi
+
+--- 2. Triệu chứng và dấu hiệu của Mpox ---
+
+Về mặt lâm sàng, mpox tương tự như bệnh đậu mùa. Sau tiền triệu sốt, nhức đầu và khó chịu là phát ban tiến triển từ dạng dát và dạng sẩn sang dạng mụn nước hoặc mụn mủ chắc, nằm sâu, lõm xuống, đóng vảy và rụng theo thời gian. Có nổi hạch trong bệnh mpox nhưng không có ở bệnh đậu mùa.Tuy nhiên, các biểu hiện lâm sàng không điển hình đã được báo cáo trong đợt bùng phát toàn cầu năm 2022; do đó, chẩn đoán có thể bị muộn. Trong đợt bùng phát năm 2022, phát ban thường được báo cáo là bắt đầu ở vùng sinh dục, quanh hậu môn hoặc vùng miệng và không phải lúc nào cũng lan tỏa hoặc tiến triển qua các giai đoạn điển hình. Đau tại các vị trí tổn thương, cụ thể là viêm trực tràng hoặc đau miệng, có thể là triệu chứng hiện tại. Các triệu chứng tiền triệu toàn thân cũng có thể nhẹ, không có hoặc xuất hiện đồng thời với phát ban. Nhiễm trùng thứ phát có thể xảy ra ở da và phổi.Có thể khó phân biệt lâm sàng mpox vớibệnh đậu mùavà herpesvirus như làthủy đậuhoặcvi rút herpes simplex (HSV). Ngoài ra, chẩn đoán HSV hoặc mộtbệnh nhiễm trùng lây truyền qua đường tình dụckhác không loại trừ đồng nhiễm mpox.MpoxMpox (1)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Mpox (2)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (3)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (4)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (5)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (6)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.Mpox (7)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.Mpox (8)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmBÁC SĨ RICHARD USATINE/THƯ VIỆN HÌNH ẢNH KHOA HỌCMpox (1)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Mpox (2)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (3)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (4)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (5)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Cơ quan An ninh Y tế Vương quốc Anh.Mpox (6)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.Mpox (7)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmHình ảnh từ Mạng lưới các bệnh truyền nhiễm do hậu quả cao của NHS Anh.Mpox (8)Mpox tương tự như bệnh đậu mùa về mặt lâm sàng. Trước khi bùng phát năm 2022, các tổn thương da trên bất kỳ bộ phận nào của cơ thể đều có chung một giai đoạn phát triển.Trong đợt bùng phát toàn cầu năm 2022, các biểu hiện lâm sàng không điển hình bao gồm các tổn thương da bắt đầu ở vùng sinh dục, quanh hậu môn hoặc miệng, các tổn thương khu trú ở một vị trí giải phẫu cụ thể và các tổn thương ở các giai đoạn tiến triển khác nhau trên một vị trí giải phẫu cụ thể (ví dụ: mụn nước và mụn mủ tồn tại song song).Không giống như bệnh đậu mùa, nổi hạch thường gặp ở mpox.... đọc thêmBÁC SĨ RICHARD USATINE/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+--- 3. Chẩn đoán Mpox ---
+
+Phản ứng chuỗi Polymerase (PCR)Chẩn đoán mpox bằng nuôi cấy, phản ứng chuỗi polymerase (PCR), hóa mô miễn dịch hoặc kính hiển vi điện tử, tùy thuộc vào các xét nghiệm có sẵn.Xét nghiệm PCR sử dụng tổn thương da (chỏm mụn nước hoặc dịch ở mụn nước và mụn mủ và/hoặc lớp vảy khô) là mẫu tối ưu. PCR máu bị hạn chế vì thời gian vi rút lưu hành trong máu ngắn và không được khuyến nghị. Tại Hoa Kỳ, xét nghiệm PCR có sẵn thông qua các phòng thí nghiệm y tế công cộng và phòng thí nghiệm thương mại.Xét nghiệm cần phải được nghĩ đến ở những bệnh nhân có tổn thương tương thích về mặt lâm sàng và có yếu tố nguy cơ dịch tễ học cũng như bất kỳ bệnh nhân nào có tổn thương đặc trưng (mụn nước nằm sâu hoặc mụn mủ lõm ở trung tâm). (Xem thêmCDC: Case Definitions for Use in the 2022 Mpox Response.)
+
+--- 4. Điều trị Mpox ---
+
+Hầu hết bệnh nhân mắc bệnh mpox đều có bệnh nhẹ và tự khỏi. Điều này đặc biệt đúng đối với biến chủng Tây Phi là nguyên nhân gây đợt bùng phát toàn cầu hiện nay. Điều trị hỗ trợ bằng thuốc giảm đau, bù dịch và chăm sóc vết thương.Những bệnh nhân bị bệnh nặng, có các biến chứng hoặc có nguy cơ mắc bệnh nặng cần phải được xem xét điều trị bằng thuốc kháng vi rút. Việc này bao gồm những bệnh nhân có tổn thương xuất huyết hoặc tổn thương hợp nhất, có thương tổn niêm mạc hoặc tổn thương ở bộ phận sinh dục, hoặc các biến chứng khác cần phải nằm viện; bệnh nhân suy giảm miễn dịch, bệnh nhân là trẻ em, bệnh nhân mang thai hoặc cho con bú; và những bệnh nhân có tình trạng da đang bị tróc vảy. Không có phương pháp điều trị an toàn đã được chứng minh cụ thể đối với nhiễm vi rút mpox. Tuy nhiên, có các phương án điều trị sau:Thuốc kháng vi rút, tecovirimat: Được Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ [FDA] phê duyệt để điều trị bệnh đậu mùa – có sẵn theo công thức bào chế đường uống và đường tĩnh mạch từ CDC thông qua phác đồ Thuốc mới Nghiên cứu Tiếp cận Mở rộng (IND) để điều trị ban đầu hoặc điều trị giai đoạn sớm theo kinh nghiệm đối với bệnh mpox ở mọi lứa tuổi; được phê duyệt cho bệnh đậu mùa và mpox ở Liên minh châu ÂuThuốc kháng vi rút cidofovir (có bán trên thị trường) hoặc brincidofovir (CMX001, có sẵn thông qua IND sử dụng khẩn cấp cho một bệnh nhân)Globulin miễn dịch Vaccinia (đường tĩnh mạch), có sẵn từ CDC thông qua quy trình IND Tiếp cận Mở rộngDung dịch nhỏ mắt Trifluridine dùng để điều trị tổn thương ở mắtTất cả các loại thuốc này đều có hoạt tính chống lại mpox in vitro và trong các mô hình thử nghiệm, nhưng chưa có dữ liệu chứng minh hiệu quả lâm sàng. Các loại thuốc này đã được sử dụng rộng rãi trong đợt bùng phát hiện tại và các thử nghiệm lâm sàng đang được tiến hành. CDC đã phát triển một thuật toán cân nhắc điều trị vào tháng 3 năm 2023 dựa trên bằng chứng và kinh nghiệm sẵn có (1). (Xem thêmCDC: Information for Healthcare Providers on Obtaining and Using TPOXX [Tecovirimat] for Treatment of MpoxvàCDC: Mpox: Treatment Information for Healthcare Professional.)Tài liệu tham khảo về điều trị1.Rao AK, Schrodt CA, Minhaj FS, et al: Interim Clinical Treatment Considerations for Severe Manifestations of Mpox — United States, February 2023.MMWR Morb Mortal Wkly Rep72:232–243, 2023. doi: 10.15585/mmwr.mm7209a4
+
+--- 5. Phòng ngừa Mpox ---
+
+Tiêm vắc xinDữ liệu quan sát trước đây từ Châu Phi cho thấyvắc xin đậu mùacó hiệu quả ít nhất 85% trong việc ngăn ngừa bệnh mpox, vì vi rút mpox có liên quan chặt chẽ với vi rút gây bệnh đậu mùa (1). Tuy nhiên, việc tiêm vắc xin phòng đậu mùa trước không phải lúc nào cũng mang lại khả năng miễn dịch suốt đời nhưng có khả năng làm giảm mức độ nặng của bệnh. Hai loại vắc xin đậu mùa có thể được sử dụng để phòng ngừa bệnh mpox: JYNNEOS (MVA-BN) và ACAM2000 (xemWHO: Vaccines and immunization for monkeypox: Interim guidance, 16 November 2022).Vắc xin JYNNEOS là một loại vắc xin vaccinia sống nhưng đã bị làm yếu (giảm độc lực) và không sinh sản ở người được tiêm vắc xin. Vắc xin này được chỉ định để ngăn ngừa bệnh mpox (và bệnh đậu mùa) ở người lớn từ 18 tuổi trở lên có nguy cơ cao mắc bệnh mpox (hoặc bệnh đậu mùa). Đây là loại vắc xin chính được sử dụng ở Hoa Kỳ trong đợt bùng phát hiện nay. CDC khuyến nghị dùng vắc xin JYNNEOS cho những người có nguy cơ cao phơi nhiễm với mpox hoặc sau khi đã biết hoặc được cho là đã phơi nhiễm với mpox gần đây. Nếu được sử dụng như thuốc dự phòng sau phơi nhiễm (PEP), lý tưởng nhất là nên tiêm trong vòng 4 ngày kể từ khi tiếp xúc, nhưng có thể có hữu dụng trong vòng 14 ngày sau khi phơi nhiễm (xemCDC: Mpox Vaccination Basics). Vắc xin được tiêm theo một liệu trình 2 mũi tiêm trong da hoặc tiêm dưới da cách nhau 4 tuần.Có ít dữ liệu về hiệu quả của vắc xin JYNNEOS trong đợt bùng phát hiện tại. Trên khắp 32 khu vực pháp lý của Hoa Kỳ, trong số nam giới từ 18 tuổi đến 49 tuổi đủ điều kiện tiêm vắc xin JYNNEOS, tỷ lệ mắc bệnh mpox ở nam giới chưa được tiêm phòng cao gấp 14 lần so với những người đã tiêm liều vắc xin đầu tiên ≥ 14 ngày trước đó (xemCDC: Rates of Mpox Cases by Vaccination Status). Những người có hệ thống miễn dịch suy yếu có thể tiêm vắc xin JYNNEOS (không giống như ACAM2000) nhưng đáp ứng có thể bị suy giảm.Vắc xin ACAM2000 có vi rút vaccinia sống, có liên quan đến vi rút bệnh đậu mùa và mang lại khả năng miễn dịch chéo với vi rút bệnh đậu mùa khỉ và vi rút bệnh đậu mùa. Vắc xin này được chỉ định cho những người có nguy cơ cao mắc bệnh mpox (hoặc bệnh đậu mùa). Vắc xin này có sẵn để sử dụng chống lại mpox ở Hoa Kỳ theo quy trình Thuốc mới Nghiên cứu Tiếp cận Mở rộng. ACAM2000 được tiêm bằng cách dùng kim được thiết kế đặc biệt đã được nhúng vào vắc xin đâm nhanh 15 lần vào một vùng nhỏ. Đây được coi là một liều. Sau đó, vị trí tiêm vắc xin được băng lại để ngăn không cho vi rút vaccina lây lan sang các vị trí cơ thể khác hoặc lây lan sang người khác. Việc chủng ngừa được coi là thành công nếu một vết phồng rộp nhỏ xuất hiện trong khoảng 7 ngày sau đó. Nếu nó không xuất hiện, người đó sẽ được tiêm một liều khác.Tiêm phòng bằng ACAM2000 là nguy hiểm và không được khuyến nghị cho một số người, đặc biệt là những người có các yếu tố nguy cơ sau:Hệ miễn dịch suy yếu (chẳng hạn như những người bị AIDS hoặc những người dùng thuốc ức chế hệ thống miễn dịch)Rối loạn về da (đặc biệt là viêm da cơ địa [eczema])Viêm mắtTình trạng bệnh ở timDưới 1 tuổiMang thaiKiểm soát lây nhiễmBệnh nhân bị mpox không nhập viện cần phảiCách ly y tế tại nhà cho đến khi các tổn thương đã khỏi, vảy bong ra và một lớp da nguyên vẹn tươi mới đã hình thànhTránh tiếp xúc thân thể trực tiếp với người và động vật khácKhông dùng chung các vật dụng có khả năng bị nhiễm bẩn, chẳng hạn như các đồ vải, khăn tắm, quần áo, ly uống nước hoặc dụng cụ ăn uống, đồng thời phải làm sạch và khử trùng các bề mặt và vật dụng thường hay chạm vàoĐeo khẩu trang nếu cần tiếp xúc gần với những người khác trong nhàCác biện pháp kiểm soát lây nhiễm trong bệnh viện bao gồm cho bệnh nhân vào phòng riêng có đóng cửa. Không cần xử lý đặc biệt đối với không khí trừ khi việc thực hiện các thủ thuật có khả năng lây lan dịch tiết ở miệng (ví dụ: đặt nội khí quản, rút nội khí quản). Cần tránh các hoạt động có thể khiến cho chất thải khô phát tán vào không khí hoặc trên các bề mặt (ví dụ: sử dụng quạt, vung vẩy đồ vải bẩn). Thiết bị bảo hộ cá nhân (PPE) thích hợp bao gồm áo choàng, găng tay, khẩu trang cấp độ N95 (hoặc tương đương) và kính bảo vệ mắt. Các chất khử trùng cấp độ bệnh viện đã đăng ký với EPA có xác nhận về tác dụng với mầm bệnh vi rút mới xuất hiện cần phải được sử dụng để khử trùng theo tiêu chuẩn. Đối với bệnh nhân thuộc biến chủng Tây Phi, chất thải có thể được xử lý theo hướng dẫn thông thường đối với chất thải y tế lây nhiễm. Đối với những bệnh nhân thuộc nhánh Lưu vực Congo, chất thải y tế được phân loại là Loại A theo Quy định về Vật liệu Nguy hiểm của Bộ Giao thông Vận tải Hoa Kỳ (DOT) và cần được kiểm soát phù hợp (xemCDC: Infection Prevention and Control of Mpox in Healthcare Settings).Tất cả nhân viên y tế chăm sóc bệnh nhân mắc bệnh mpox nên theo dõi các triệu chứng ít nhất hai lần mỗi ngày trong 21 ngày kể từ lần gặp cuối cùng của họ. Những người có nguy cơ phơi nhiễm cao (xemCDC: Mpox: Monitoring and Risk Assessment for Persons Exposed in the Community) cần phải được cung cấp biện pháp dự phòng sau phơi nhiễm thông qua tiêm vắc xin JYNNEOS hoặc ACAM2000. Lý tưởng nhất, việc tiêm phòng cần phải diễn ra trong vòng 4 ngày sau khi phơi nhiễm nhưng có thể có hiệu lực đến 14 ngày sau khi phơi nhiễm.Tài liệu tham khảo về phòng ngừa1.Jezek Z, Grab B, Szczeniowski MV, et al: Human monkeypox: secondary attack rates.Bull World Health Organ66(4):465-70, 1988. PMID: 2844429; PMCID: PMC2491159.
+
+--- 6. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.CDC:Mpox: 2022 Outbreak Cases and DataWHO:Multi-country monkeypox outbreak: situation updateWHO:Fact sheets: MonkeypoxCDC:Mpox

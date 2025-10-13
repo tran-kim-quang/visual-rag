@@ -1,0 +1,553 @@
+TIÊU ĐỀ: Rifamycins
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/rifamycins
+================================================================================
+
+NỘI DUNG:
+
+Rifamycins
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1004399_vi
+
+Rifabutin, Rifampin và Rifapentine
+
+|
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Rifaximin
+
+|
+
+Thông tin thêm
+
+|
+
+Các rifamycins là
+
+kháng sinh
+
+có tính diệt khuẩn và chúng ức chế DNA RNA polymerase phụ thuộc vào vi khuẩn, ức chế tổng hợp RNA. Các kháng sinh sau đây là nhóm rifamycin:
+
+Rifabutin
+
+Rifampin
+
+(rifampicin)
+
+Rifapentine
+
+Rifaximin
+
+Rifabutin, Rifampin và Rifapentine
+
+Rifabutin, Rifampin và rifapentine có cùng dược động học, phổ kháng khuẩn và tác dụng phụ.
+
+Dược động học của nhóm rifamycin
+
+Sự hấp thu qua đường uống là tốt, tạo ra sự phân bố rộng rãi trong các mô và dịch cơ thể, bao gồm cả dịch não tuỷ.
+
+Rifampin
+
+tập trung ở bạch cầu hạt đa nhân và đại thực bào, tạo điều kiện thuận lợi cho việc loại bỏ vi khuẩn khỏi các ổ áp xe. Nó được chuyển hóa trong gan và được loại bỏ trong mật và, ở mức độ thấp hơn nhiều, trong nước tiểu.
+
+Chỉ định của nhóm rifamycin
+
+Rifampin
+
+có hoạt tính chống lại
+
+Hầu hết vi khuẩn Gram dương và một số vi khuẩn gram âm
+
+Loài
+
+Mycobacterium
+
+Tình trạng kháng thuốc phát triển nhanh chóng nên hiếm khi sử dụng
+
+rifampin
+
+đơn độc. Rifampin được sử dụng với các kháng sinh khác
+
+Bệnh lao
+
+Nhiễm mycobacteria không điển hình (
+
+rifampin
+
+có hoạt tính chống lại nhiều loại vi khuẩn mycobacteria không phải lao, nhưng các vi khuẩn
+
+mycobacteria
+
+phát triển nhanh chóng, chẳng hạn như
+
+Mycobacterium fortuitum
+
+,
+
+M. chelonae
+
+hoặc
+
+M. abscessus
+
+, có khả năng kháng thuốc tự nhiên)
+
+Bệnh phong
+
+(với dapsone có hoặc Không áp dụng clofazimine)
+
+Nhiễm trùng tụ cầu
+
+, bao gồm viêm tủy xương, viêm nội tâm mạc, và nhiễm trùng liên quan đến các cơ quan ngoài như khớp giả (với các kháng sinh chống tụ cầu khác)
+
+Nhiễm
+
+Legionella
+
+(dữ liệu cũ cho thấy kết quả tốt hơn khi sử dụng rifampin với
+
+erythromycin
+
+; sử dụng
+
+rifampin
+
+với azithromycin hoặc fluoroquinolone không mang lại lợi ích gì)
+
+Viêm màng não do phế cầu khuẩn
+
+khi các vi khuẩn nhạy cảm với
+
+rifampin
+
+(với vancomycin có hoặc không có ceftriaxone hoặc cefotaxime đối với các vi khuẩn kháng
+
+ceftriaxone
+
+hoặc
+
+cefotaxime
+
+[nồng độ ức chế tối thiểu
+
+>
+
+4 mcg/mL]) hoặc khi đáp ứng lâm sàng hoặc vi sinh dự kiến ​​bị trì hoãn
+
+Rifampin
+
+có thể được sử dụng đơn độc để dự phòng cho những người tiếp xúc gần gũi với bệnh nhân
+
+viêm màng não do não mô cầu
+
+hoặc
+
+viêm màng não do
+
+Haemophilus influenzae
+
+loại b
+
+.
+
+Rifabutin và
+
+rifampin
+
+đều có hiệu quả như nhau trong phác đồ điều trị bệnh lao ở bệnh nhân HIV dương tính và HIV âm tính.  Tuy nhiên, nếu bệnh nhân đang điều trị bằng thuốc kháng vi-rút (ART),
+
+rifabutin
+
+được ưu tiên hơn vì thuốc ít có khả năng tạo ra các enzyme chuyển hóa cytochrom P-450 làm giảm nồng độ các chất ức chế protease và chất ức chế men sao chép ngược không nucleoside trong huyết thanh.
+
+Rifampin được ưu tiên hơn
+
+rifabutin
+
+đối với bệnh phổi do phức hợp
+
+Mycobacteria avium
+
+(MAC), trừ khi bệnh nhân đang được điều trị bằng ARV; trong những trường hợp như vậy,
+
+rifabutin
+
+có thể được thay thế. Tuy nhiên,
+
+rifabutin
+
+được ưu tiên hơn
+
+rifampin
+
+trong điều trị nhiễm MAC lan tỏa vì hoạt tính vượt trội trên in vitro và giảm khả năng tương tác thuốc.
+
+Rifapentine được sử dụng để điều trị lao phổi và lao tiềm ẩn.
+
+Chống chỉ định với nhóm Rifamycin
+
+Rifampin và rifabutin là chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với họ.
+
+Sử dụng nhóm Rifamycin khi mang thai và cho con bú
+
+Một số nghiên cứu về sinh sản ở động vật với
+
+rifabutin
+
+cho thấy tác dụng bất lợi khi nồng độ thuốc cao hơn mức thường đạt được ở người. không có nghiên cứu đầy đủ và kiểm soát tốt đã được thực hiện ở phụ nữ mang thai hoặc cho con bú. An toàn trong khi cho con bú chưa rõ.
+
+Các nghiên cứu về sinh sản ở động vật với
+
+rifampin
+
+hoặc
+
+rifapentine
+
+cho thấy một số nguy cơ (tức là gây quái thai) ở nồng độ thuốc thấp hơn hoặc bằng mức thường đạt được ở người. Chưa có nghiên cứu đầy đủ và có kiểm soát tốt về từng loại thuốc được thực hiện ở phụ nữ mang thai.
+
+Do khả năng gây khối u được thể hiện trong các nghiên cứu trên động vật, nhà sản xuất không khuyến nghị sử dụng
+
+rifampin
+
+trong thời gian cho con bú. Tuy nhiên, Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC)
+
+không coi rifampin là chống chỉ định cho con bú sữa mẹ
+
+; quyết định ngừng cho con bú hay ngừng thuốc tùy thuộc vào tầm quan trọng của thuốc đối với người mẹ.
+
+Tác dụng bất lợi của nhóm rifamycin
+
+Tác dụng ngoại ý của rifamycins bao gồm:
+
+Viêm gan (nghiêm trọng nhất)
+
+Rối loạn đường tiêu hóa
+
+Các ảnh hưởng ở hệ thần kinh trung ương
+
+Sự ức chế tủy
+
+Viêm gan xảy ra thường xuyên hơn khi dùng isoniazid hoặc pyrazinamide đồng thời với rifampin. Trong tuần điều trị đầu tiên,
+
+rifampin
+
+có thể làm tăng thoáng qua bilirubin huyết thanh không liên hợp, do cạnh tranh bài tiết giữa
+
+rifampin
+
+và bilirubin và bản thân điều này không phải là một dấu hiệu để tạm ngừng điều trị.
+
+Các tác dụng trên hệ thần kinh trung ương có thể bao gồm nhức đầu, buồn ngủ, mất ngủ, và lẫn lộn. Phát ban, sốt, giảm bạch cầu, thiếu máu tan máu, giảm tiểu cầu, viêm thận kẽ, hoại tử ống thận cấp, suy thận và viêm thận kẽ thường được coi là phản ứng quá mẫn và xảy ra khi điều trị không liên tục hoặc khi điều trị được tiếp tục sau khi tạm ngừng phác đồ dùng thuốc hàng ngày; các triệu chứng đó đã hết khi ngừng
+
+rifampin
+
+.
+
+Rifabutin có thể gây viêm màng bồ đào một bên hoặc hai bên phụ thuộc vào liều lượng.
+
+Tác dụng phụ ít nghiêm trọng là phổ biến; chúng bao gồm ợ nóng, buồn nôn, nôn ói, và tiêu chảy.
+
+Rifampin
+
+,
+
+rifabutin
+
+và
+
+rifapentine
+
+có thể gây ra sự đổi màu cam đỏ tạm thời của nước tiểu, nước bọt, mồ hôi, đờm và nước mắt. Kính áp tròng mềm có thể bị đổi màu vĩnh viễn.
+
+Cân nhắc về liều dùng của nhóm Rifamycin
+
+Nếu bệnh nhân bị bệnh lý ở gan, nên thực hiện xét nghiệm chức năng gan trước khi bắt đầu điều trị bằng
+
+rifampin
+
+và cứ sau 2 tuần đến 4 tuần trong quá trình điều trị, hoặc nên sử dụng thuốc thay thế. Việc điều chỉnh liều không cần thiết đối với suy thận.
+
+Rifampin tương tác với nhiều loại thuốc vì thuốc này là chất cảm ứng mạnh các enzym cytochrome P-450 (CYP450) của microsome gan.
+
+Rifampin
+
+làm tăng tốc độ đào thải và do đó có thể làm giảm hiệu quả của các loại thuốc sau: thuốc ức chế men chuyển angiotensin, atovaquone, barbiturat, thuốc chẹn beta, thuốc chẹn kênh canxi,
+
+chloramphenicol
+
+,
+
+clarithromycin
+
+, thuốc tránh thai nội tiết tố đường uống và toàn thân, corticosteroid,
+
+cyclosporine
+
+,
+
+dapsone
+
+,
+
+digoxin
+
+,
+
+doxycycline
+
+,
+
+fluconazole
+
+,
+
+haloperidol
+
+,
+
+itraconazole
+
+,
+
+ketoconazole
+
+, thuốc ức chế men sao chép ngược không nucleoside
+
+delavirdine
+
+và
+
+nevirapine
+
+, thuốc giảm đau opioid,
+
+phenytoin
+
+, thuốc ức chế protease,
+
+quinidine
+
+, sulfonylureas,
+
+tacrolimus
+
+,
+
+theophylline
+
+, thyroxine, tocainide, thuốc chống trầm cảm ba vòng,
+
+voriconazole
+
+,
+
+warfarin
+
+và
+
+zidovudine
+
+. Để duy trì hiệu quả điều trị tối ưu của những thuốc này, bác sĩ lâm sàng có thể phải điều chỉnh liều lượng khi bắt đầu hoặc ngừng sử dụng
+
+rifampin
+
+.
+
+Ngược lại, thuốc ức chế protease, cũng như các loại thuốc khác (ví dụ: azole, macrolide
+
+clarithromycin
+
+, thuốc ức chế men sao chép ngược không nucleoside) ức chế enzyme CYP450 và làm tăng nồng độ rifamycin và do đó có khả năng làm tăng tần suất có phản ứng độc hại. Ví dụ: viêm màng bồ đào xảy ra phổ biến hơn khi dùng
+
+rifabutin
+
+với
+
+clarithromycin
+
+hoặc azole.
+
+Rifaximin
+
+Rifaximin là dẫn xuất của
+
+rifamycin
+
+được hấp thu kém sau khi uống; 97% được tìm thấy chủ yếu dưới dạng không đổi trong phân.
+
+Rifaximin
+
+có thể được sử dụng để điều trị theo kinh nghiệm
+
+Rifaximin có thể được sử dụng để điều trị theo kinh nghiệm về
+
+tiêu chảy của người du lịch, chủ yếu do enterotoxigenic và enterooggregative
+
+Escherichia coli
+
+.
+
+Rifaximin
+
+không được biết là có hiệu quả đối với bệnh tiêu chảy do các mầm bệnh đường ruột khác ngoài
+
+E. coli
+
+. Vì
+
+rifaximin
+
+không được hấp thu một cách có hệ thống nên không nên sử dụng thuốc này để điều trị tiêu chảy truyền nhiễm do các mầm bệnh vi khuẩn đường ruột xâm lấn (ví dụ: loài
+
+Shigella
+
+, loài
+
+Salmonella
+
+, loài
+
+Campylobacter
+
+). Liều dùng cho tiêu chảy ở khách du lịch là 200 mg uống, 8 giờ một lần trong 3 ngày ở người lớn và trẻ em
+
+>
+
+12 tuổi.
+
+Rifaximin
+
+cũng có thể được sử dụng để điều trị
+
+Bệnh não cửa-chủ (gan)
+
+Hội chứng ruột kích thích
+
+(IBS)
+
+Tác dụng bất lợi của
+
+rifaximin
+
+bao gồm buồn nôn, nôn, đau bụng và đầy hơi.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Centers for Disease Control and Prevention (CDC):
+
+Treatment for TB Disease and Pregnancy
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Rifabutin, Rifampin và Rifapentine ---
+
+Rifabutin, Rifampin và rifapentine có cùng dược động học, phổ kháng khuẩn và tác dụng phụ.Dược động học của nhóm rifamycinSự hấp thu qua đường uống là tốt, tạo ra sự phân bố rộng rãi trong các mô và dịch cơ thể, bao gồm cả dịch não tuỷ.Rifampintập trung ở bạch cầu hạt đa nhân và đại thực bào, tạo điều kiện thuận lợi cho việc loại bỏ vi khuẩn khỏi các ổ áp xe. Nó được chuyển hóa trong gan và được loại bỏ trong mật và, ở mức độ thấp hơn nhiều, trong nước tiểu.Chỉ định của nhóm rifamycinRifampincó hoạt tính chống lạiHầu hết vi khuẩn Gram dương và một số vi khuẩn gram âmLoàiMycobacteriumTình trạng kháng thuốc phát triển nhanh chóng nên hiếm khi sử dụngrifampinđơn độc. Rifampin được sử dụng với các kháng sinh khácBệnh laoNhiễm mycobacteria không điển hình (rifampincó hoạt tính chống lại nhiều loại vi khuẩn mycobacteria không phải lao, nhưng các vi khuẩnmycobacteriaphát triển nhanh chóng, chẳng hạn nhưMycobacterium fortuitum,M. chelonaehoặcM. abscessus, có khả năng kháng thuốc tự nhiên)Bệnh phong(với dapsone có hoặc Không áp dụng clofazimine)Nhiễm trùng tụ cầu, bao gồm viêm tủy xương, viêm nội tâm mạc, và nhiễm trùng liên quan đến các cơ quan ngoài như khớp giả (với các kháng sinh chống tụ cầu khác)NhiễmLegionella(dữ liệu cũ cho thấy kết quả tốt hơn khi sử dụng rifampin vớierythromycin; sử dụngrifampinvới azithromycin hoặc fluoroquinolone không mang lại lợi ích gì)Viêm màng não do phế cầu khuẩnkhi các vi khuẩn nhạy cảm vớirifampin(với vancomycin có hoặc không có ceftriaxone hoặc cefotaxime đối với các vi khuẩn khángceftriaxonehoặccefotaxime[nồng độ ức chế tối thiểu>4 mcg/mL]) hoặc khi đáp ứng lâm sàng hoặc vi sinh dự kiến ​​bị trì hoãnRifampincó thể được sử dụng đơn độc để dự phòng cho những người tiếp xúc gần gũi với bệnh nhânviêm màng não do não mô cầuhoặcviêm màng não doHaemophilus influenzaeloại b.Rifabutin vàrifampinđều có hiệu quả như nhau trong phác đồ điều trị bệnh lao ở bệnh nhân HIV dương tính và HIV âm tính.  Tuy nhiên, nếu bệnh nhân đang điều trị bằng thuốc kháng vi-rút (ART),rifabutinđược ưu tiên hơn vì thuốc ít có khả năng tạo ra các enzyme chuyển hóa cytochrom P-450 làm giảm nồng độ các chất ức chế protease và chất ức chế men sao chép ngược không nucleoside trong huyết thanh.Rifampin được ưu tiên hơnrifabutinđối với bệnh phổi do phức hợpMycobacteria avium(MAC), trừ khi bệnh nhân đang được điều trị bằng ARV; trong những trường hợp như vậy,rifabutincó thể được thay thế. Tuy nhiên,rifabutinđược ưu tiên hơnrifampintrong điều trị nhiễm MAC lan tỏa vì hoạt tính vượt trội trên in vitro và giảm khả năng tương tác thuốc.Rifapentine được sử dụng để điều trị lao phổi và lao tiềm ẩn.Chống chỉ định với nhóm RifamycinRifampin và rifabutin là chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với họ.Sử dụng nhóm Rifamycin khi mang thai và cho con búMột số nghiên cứu về sinh sản ở động vật vớirifabutincho thấy tác dụng bất lợi khi nồng độ thuốc cao hơn mức thường đạt được ở người. không có nghiên cứu đầy đủ và kiểm soát tốt đã được thực hiện ở phụ nữ mang thai hoặc cho con bú. An toàn trong khi cho con bú chưa rõ.Các nghiên cứu về sinh sản ở động vật vớirifampinhoặcrifapentinecho thấy một số nguy cơ (tức là gây quái thai) ở nồng độ thuốc thấp hơn hoặc bằng mức thường đạt được ở người. Chưa có nghiên cứu đầy đủ và có kiểm soát tốt về từng loại thuốc được thực hiện ở phụ nữ mang thai.Do khả năng gây khối u được thể hiện trong các nghiên cứu trên động vật, nhà sản xuất không khuyến nghị sử dụngrifampintrong thời gian cho con bú. Tuy nhiên, Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC)không coi rifampin là chống chỉ định cho con bú sữa mẹ; quyết định ngừng cho con bú hay ngừng thuốc tùy thuộc vào tầm quan trọng của thuốc đối với người mẹ.Tác dụng bất lợi của nhóm rifamycinTác dụng ngoại ý của rifamycins bao gồm:Viêm gan (nghiêm trọng nhất)Rối loạn đường tiêu hóaCác ảnh hưởng ở hệ thần kinh trung ươngSự ức chế tủyViêm gan xảy ra thường xuyên hơn khi dùng isoniazid hoặc pyrazinamide đồng thời với rifampin. Trong tuần điều trị đầu tiên,rifampincó thể làm tăng thoáng qua bilirubin huyết thanh không liên hợp, do cạnh tranh bài tiết giữarifampinvà bilirubin và bản thân điều này không phải là một dấu hiệu để tạm ngừng điều trị.Các tác dụng trên hệ thần kinh trung ương có thể bao gồm nhức đầu, buồn ngủ, mất ngủ, và lẫn lộn. Phát ban, sốt, giảm bạch cầu, thiếu máu tan máu, giảm tiểu cầu, viêm thận kẽ, hoại tử ống thận cấp, suy thận và viêm thận kẽ thường được coi là phản ứng quá mẫn và xảy ra khi điều trị không liên tục hoặc khi điều trị được tiếp tục sau khi tạm ngừng phác đồ dùng thuốc hàng ngày; các triệu chứng đó đã hết khi ngừngrifampin.Rifabutin có thể gây viêm màng bồ đào một bên hoặc hai bên phụ thuộc vào liều lượng.Tác dụng phụ ít nghiêm trọng là phổ biến; chúng bao gồm ợ nóng, buồn nôn, nôn ói, và tiêu chảy.Rifampin,rifabutinvàrifapentinecó thể gây ra sự đổi màu cam đỏ tạm thời của nước tiểu, nước bọt, mồ hôi, đờm và nước mắt. Kính áp tròng mềm có thể bị đổi màu vĩnh viễn.Cân nhắc về liều dùng của nhóm RifamycinNếu bệnh nhân bị bệnh lý ở gan, nên thực hiện xét nghiệm chức năng gan trước khi bắt đầu điều trị bằngrifampinvà cứ sau 2 tuần đến 4 tuần trong quá trình điều trị, hoặc nên sử dụng thuốc thay thế. Việc điều chỉnh liều không cần thiết đối với suy thận.Rifampin tương tác với nhiều loại thuốc vì thuốc này là chất cảm ứng mạnh các enzym cytochrome P-450 (CYP450) của microsome gan.Rifampinlàm tăng tốc độ đào thải và do đó có thể làm giảm hiệu quả của các loại thuốc sau: thuốc ức chế men chuyển angiotensin, atovaquone, barbiturat, thuốc chẹn beta, thuốc chẹn kênh canxi,chloramphenicol,clarithromycin, thuốc tránh thai nội tiết tố đường uống và toàn thân, corticosteroid,cyclosporine,dapsone,digoxin,doxycycline,fluconazole,haloperidol,itraconazole,ketoconazole, thuốc ức chế men sao chép ngược không nucleosidedelavirdinevànevirapine, thuốc giảm đau opioid,phenytoin, thuốc ức chế protease,quinidine, sulfonylureas,tacrolimus,theophylline, thyroxine, tocainide, thuốc chống trầm cảm ba vòng,voriconazole,warfarinvàzidovudine. Để duy trì hiệu quả điều trị tối ưu của những thuốc này, bác sĩ lâm sàng có thể phải điều chỉnh liều lượng khi bắt đầu hoặc ngừng sử dụngrifampin.Ngược lại, thuốc ức chế protease, cũng như các loại thuốc khác (ví dụ: azole, macrolideclarithromycin, thuốc ức chế men sao chép ngược không nucleoside) ức chế enzyme CYP450 và làm tăng nồng độ rifamycin và do đó có khả năng làm tăng tần suất có phản ứng độc hại. Ví dụ: viêm màng bồ đào xảy ra phổ biến hơn khi dùngrifabutinvớiclarithromycinhoặc azole.
+
+--- 2. Dược động học của nhóm rifamycin ---
+
+Sự hấp thu qua đường uống là tốt, tạo ra sự phân bố rộng rãi trong các mô và dịch cơ thể, bao gồm cả dịch não tuỷ.Rifampintập trung ở bạch cầu hạt đa nhân và đại thực bào, tạo điều kiện thuận lợi cho việc loại bỏ vi khuẩn khỏi các ổ áp xe. Nó được chuyển hóa trong gan và được loại bỏ trong mật và, ở mức độ thấp hơn nhiều, trong nước tiểu.
+
+--- 3. Chỉ định của nhóm rifamycin ---
+
+Rifampincó hoạt tính chống lạiHầu hết vi khuẩn Gram dương và một số vi khuẩn gram âmLoàiMycobacteriumTình trạng kháng thuốc phát triển nhanh chóng nên hiếm khi sử dụngrifampinđơn độc. Rifampin được sử dụng với các kháng sinh khácBệnh laoNhiễm mycobacteria không điển hình (rifampincó hoạt tính chống lại nhiều loại vi khuẩn mycobacteria không phải lao, nhưng các vi khuẩnmycobacteriaphát triển nhanh chóng, chẳng hạn nhưMycobacterium fortuitum,M. chelonaehoặcM. abscessus, có khả năng kháng thuốc tự nhiên)Bệnh phong(với dapsone có hoặc Không áp dụng clofazimine)Nhiễm trùng tụ cầu, bao gồm viêm tủy xương, viêm nội tâm mạc, và nhiễm trùng liên quan đến các cơ quan ngoài như khớp giả (với các kháng sinh chống tụ cầu khác)NhiễmLegionella(dữ liệu cũ cho thấy kết quả tốt hơn khi sử dụng rifampin vớierythromycin; sử dụngrifampinvới azithromycin hoặc fluoroquinolone không mang lại lợi ích gì)Viêm màng não do phế cầu khuẩnkhi các vi khuẩn nhạy cảm vớirifampin(với vancomycin có hoặc không có ceftriaxone hoặc cefotaxime đối với các vi khuẩn khángceftriaxonehoặccefotaxime[nồng độ ức chế tối thiểu>4 mcg/mL]) hoặc khi đáp ứng lâm sàng hoặc vi sinh dự kiến ​​bị trì hoãnRifampincó thể được sử dụng đơn độc để dự phòng cho những người tiếp xúc gần gũi với bệnh nhânviêm màng não do não mô cầuhoặcviêm màng não doHaemophilus influenzaeloại b.Rifabutin vàrifampinđều có hiệu quả như nhau trong phác đồ điều trị bệnh lao ở bệnh nhân HIV dương tính và HIV âm tính.  Tuy nhiên, nếu bệnh nhân đang điều trị bằng thuốc kháng vi-rút (ART),rifabutinđược ưu tiên hơn vì thuốc ít có khả năng tạo ra các enzyme chuyển hóa cytochrom P-450 làm giảm nồng độ các chất ức chế protease và chất ức chế men sao chép ngược không nucleoside trong huyết thanh.Rifampin được ưu tiên hơnrifabutinđối với bệnh phổi do phức hợpMycobacteria avium(MAC), trừ khi bệnh nhân đang được điều trị bằng ARV; trong những trường hợp như vậy,rifabutincó thể được thay thế. Tuy nhiên,rifabutinđược ưu tiên hơnrifampintrong điều trị nhiễm MAC lan tỏa vì hoạt tính vượt trội trên in vitro và giảm khả năng tương tác thuốc.Rifapentine được sử dụng để điều trị lao phổi và lao tiềm ẩn.
+
+--- 4. Chống chỉ định với nhóm Rifamycin ---
+
+Rifampin và rifabutin là chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với họ.
+
+--- 5. Sử dụng nhóm Rifamycin khi mang thai và cho con bú ---
+
+Một số nghiên cứu về sinh sản ở động vật vớirifabutincho thấy tác dụng bất lợi khi nồng độ thuốc cao hơn mức thường đạt được ở người. không có nghiên cứu đầy đủ và kiểm soát tốt đã được thực hiện ở phụ nữ mang thai hoặc cho con bú. An toàn trong khi cho con bú chưa rõ.Các nghiên cứu về sinh sản ở động vật vớirifampinhoặcrifapentinecho thấy một số nguy cơ (tức là gây quái thai) ở nồng độ thuốc thấp hơn hoặc bằng mức thường đạt được ở người. Chưa có nghiên cứu đầy đủ và có kiểm soát tốt về từng loại thuốc được thực hiện ở phụ nữ mang thai.Do khả năng gây khối u được thể hiện trong các nghiên cứu trên động vật, nhà sản xuất không khuyến nghị sử dụngrifampintrong thời gian cho con bú. Tuy nhiên, Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC)không coi rifampin là chống chỉ định cho con bú sữa mẹ; quyết định ngừng cho con bú hay ngừng thuốc tùy thuộc vào tầm quan trọng của thuốc đối với người mẹ.
+
+--- 6. Tác dụng bất lợi của nhóm rifamycin ---
+
+Tác dụng ngoại ý của rifamycins bao gồm:Viêm gan (nghiêm trọng nhất)Rối loạn đường tiêu hóaCác ảnh hưởng ở hệ thần kinh trung ươngSự ức chế tủyViêm gan xảy ra thường xuyên hơn khi dùng isoniazid hoặc pyrazinamide đồng thời với rifampin. Trong tuần điều trị đầu tiên,rifampincó thể làm tăng thoáng qua bilirubin huyết thanh không liên hợp, do cạnh tranh bài tiết giữarifampinvà bilirubin và bản thân điều này không phải là một dấu hiệu để tạm ngừng điều trị.Các tác dụng trên hệ thần kinh trung ương có thể bao gồm nhức đầu, buồn ngủ, mất ngủ, và lẫn lộn. Phát ban, sốt, giảm bạch cầu, thiếu máu tan máu, giảm tiểu cầu, viêm thận kẽ, hoại tử ống thận cấp, suy thận và viêm thận kẽ thường được coi là phản ứng quá mẫn và xảy ra khi điều trị không liên tục hoặc khi điều trị được tiếp tục sau khi tạm ngừng phác đồ dùng thuốc hàng ngày; các triệu chứng đó đã hết khi ngừngrifampin.Rifabutin có thể gây viêm màng bồ đào một bên hoặc hai bên phụ thuộc vào liều lượng.Tác dụng phụ ít nghiêm trọng là phổ biến; chúng bao gồm ợ nóng, buồn nôn, nôn ói, và tiêu chảy.Rifampin,rifabutinvàrifapentinecó thể gây ra sự đổi màu cam đỏ tạm thời của nước tiểu, nước bọt, mồ hôi, đờm và nước mắt. Kính áp tròng mềm có thể bị đổi màu vĩnh viễn.
+
+--- 7. Cân nhắc về liều dùng của nhóm Rifamycin ---
+
+Nếu bệnh nhân bị bệnh lý ở gan, nên thực hiện xét nghiệm chức năng gan trước khi bắt đầu điều trị bằngrifampinvà cứ sau 2 tuần đến 4 tuần trong quá trình điều trị, hoặc nên sử dụng thuốc thay thế. Việc điều chỉnh liều không cần thiết đối với suy thận.Rifampin tương tác với nhiều loại thuốc vì thuốc này là chất cảm ứng mạnh các enzym cytochrome P-450 (CYP450) của microsome gan.Rifampinlàm tăng tốc độ đào thải và do đó có thể làm giảm hiệu quả của các loại thuốc sau: thuốc ức chế men chuyển angiotensin, atovaquone, barbiturat, thuốc chẹn beta, thuốc chẹn kênh canxi,chloramphenicol,clarithromycin, thuốc tránh thai nội tiết tố đường uống và toàn thân, corticosteroid,cyclosporine,dapsone,digoxin,doxycycline,fluconazole,haloperidol,itraconazole,ketoconazole, thuốc ức chế men sao chép ngược không nucleosidedelavirdinevànevirapine, thuốc giảm đau opioid,phenytoin, thuốc ức chế protease,quinidine, sulfonylureas,tacrolimus,theophylline, thyroxine, tocainide, thuốc chống trầm cảm ba vòng,voriconazole,warfarinvàzidovudine. Để duy trì hiệu quả điều trị tối ưu của những thuốc này, bác sĩ lâm sàng có thể phải điều chỉnh liều lượng khi bắt đầu hoặc ngừng sử dụngrifampin.Ngược lại, thuốc ức chế protease, cũng như các loại thuốc khác (ví dụ: azole, macrolideclarithromycin, thuốc ức chế men sao chép ngược không nucleoside) ức chế enzyme CYP450 và làm tăng nồng độ rifamycin và do đó có khả năng làm tăng tần suất có phản ứng độc hại. Ví dụ: viêm màng bồ đào xảy ra phổ biến hơn khi dùngrifabutinvớiclarithromycinhoặc azole.
+
+--- 8. Rifaximin ---
+
+Rifaximin là dẫn xuất củarifamycinđược hấp thu kém sau khi uống; 97% được tìm thấy chủ yếu dưới dạng không đổi trong phân.Rifaximincó thể được sử dụng để điều trị theo kinh nghiệmRifaximin có thể được sử dụng để điều trị theo kinh nghiệm vềtiêu chảy của người du lịch, chủ yếu do enterotoxigenic và enterooggregativeEscherichia coli.Rifaximinkhông được biết là có hiệu quả đối với bệnh tiêu chảy do các mầm bệnh đường ruột khác ngoàiE. coli. Vìrifaximinkhông được hấp thu một cách có hệ thống nên không nên sử dụng thuốc này để điều trị tiêu chảy truyền nhiễm do các mầm bệnh vi khuẩn đường ruột xâm lấn (ví dụ: loàiShigella, loàiSalmonella, loàiCampylobacter). Liều dùng cho tiêu chảy ở khách du lịch là 200 mg uống, 8 giờ một lần trong 3 ngày ở người lớn và trẻ em>12 tuổi.Rifaximincũng có thể được sử dụng để điều trịBệnh não cửa-chủ (gan)Hội chứng ruột kích thích(IBS)Tác dụng bất lợi củarifaximinbao gồm buồn nôn, nôn, đau bụng và đầy hơi.
+
+--- 9. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Centers for Disease Control and Prevention (CDC):Treatment for TB Disease and Pregnancy

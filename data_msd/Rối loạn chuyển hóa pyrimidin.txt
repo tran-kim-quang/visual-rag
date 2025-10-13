@@ -1,0 +1,257 @@
+TIÊU ĐỀ: Rối loạn chuyển hóa pyrimidin
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/rối-loạn-chuyển-hóa-di-truyền/rối-loạn-chuyển-hóa-pyrimidin
+================================================================================
+
+NỘI DUNG:
+
+Rối loạn chuyển hóa pyrimidin
+
+Theo
+
+Matt Demczko
+
+,
+
+MD
+
+,
+
+Mitochondrial Medicine, Children's Hospital of Philadelphia
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2024
+
+v25256591_vi
+
+Thiếu hụt uridine monophosphate synthase (a xit orotic niệu)
+
+|
+
+Thông tin thêm
+
+|
+
+Pyrimidin có thể được tổng hợp một lần nữa hoặc tái chế bằng một con đường tái tạo từ sự dị hóa bình thường. Sự dị hóa của các pyrimidin tạo ra các sản phẩm trung gian chu kỳ axit citric. Có một số rối loạn chuyển hóa pyrimidin (xem
+
+bảng
+
+).
+
+Xem thêm
+
+Cách tiếp cận bệnh nhân nghi ngờ rối loạn chuyển hoá di truyền
+
+.
+
+Bảng
+
+Rối loạn chuyển hóa pyrimidin
+
+Bảng
+
+Rối loạn chuyển hóa pyrimidin
+
+Rối loạn chuyển hóa pyrimidin
+
+Bệnh (Số OMIM)
+
+Khiếm khuyết Protein hoặc Enzyme
+
+Bình luận
+
+Acid uric niệu di truyền
+
+(258900*)
+
+Uridine monophosphate tổng hợp
+
+Sinh hóa:
+
+Tăng orotic niệu
+
+Đặc điểm lâm sàng:
+
+Thiếu máu nguyên hồng cầu khổng lồ, nhiễm trùng tái phát, suy giảm miễn dịch tế bào, khuyết tật phát triển
+
+Điều trị:
+
+Uridine, uridylic và cytidylic acid
+
+Thiếu hụt dihydropyrimidine dehydrogenase (274270)
+
+Thể bẩm sinh
+
+Thể ảnh hưởng do thuốc
+
+Dihydropyrimidine dehydrogenase
+
+Sinh hóa:
+
+Sinh hóa: tăng uracil, thymine, và 5-hydroxymethyluracil trong nước tiểu
+
+Đặc điểm lâm sàng:
+
+Ở thể khuyết tật bẩm sinh, chậm tăng trưởng và phát triển, co giật, co cứng, não bé
+
+Với thể ảnh hưởng do thuốc, phản ứng có hại từ 5-flurouracil, bao gồm suy tủy, nhiễm độc thần kinh, dạ dày ruột và các triệu chứng trên da, tử vong
+
+Điều trị:
+
+Không có biện pháp điều trị đặc hiệu ngoại trừ việc rút thuốc gây ra tình trạng đó
+
+Dihydropyrimidin niệu (222748*)
+
+Dihydropyrimidinase
+
+Sinh hóa:
+
+Tăng dihydrouracil và dihydrothymine trong nước tiểu
+
+Đặc điểm lâm sàng:
+
+Đa dạng; vấn đề ăn uống, co giật, lơ mơ, ngủ gà, nhiễm toan chuyển hóa
+
+Đôi khi lành tính
+
+Điều trị:
+
+Không xác định
+
+Thiếu hụt beta-ureidopropionase (613161*)
+
+Beta-ureidopropionase (beta-alanine synthase)
+
+Sinh hóa:
+
+Tăng ureidopropionate và ureidabutyrate trong nước tiểu
+
+Đặc điểm lâm sàng:
+
+Não bé, chậm phát triển, rối loạn trương lực, chứng vẹo cột sống
+
+Điều trị:
+
+Không xác định
+
+Thiếu hụt Pyrimidine 5
+
+′
+
+nucleotidase (266120*)
+
+5
+
+′
+
+-Monophosphate hydrolase
+
+Sinh hóa:
+
+Không có điều trị đặc hiệu
+
+Đặc điểm lâm sàng:
+
+Thiếu máu tan máu, các hạt ưa kiềm
+
+Điều trị:
+
+Chăm sóc hỗ trợ
+
+Sự thiếu hụt chất hoạt hóa cytidine deaminase (hội chứng IgM loại II; 605257*)
+
+Chất hoạt hóa cytidine deaminase
+
+Sinh hóa:
+
+IgM cao, IgG và IgA thấp hoặc không có
+
+Đặc điểm lâm sàng:
+
+Nhiễm trùng do vi khuẩn tái phát, khiếm khuyết chuyển đổi lớp Ig
+
+Điều trị:
+
+Kiểm soát nhiễm trùng
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+Thiếu hụt uridine monophosphate synthase (a xit orotic niệu)
+
+Uridine monophosphate là enzyme xúc tác cho phản ứng giữa orotate phosphoribosyltransferase và orotidine-5
+
+′
+
+-monophosphate decarboxylase. Khi thiếu hụt, acid orotic tích tụ, gây biểu hiện lâm sàng của thiếu máu nguyên hồng cầu khổng lồ, tinh thể orotic niệu và bệnh thận, dị dạng tim, lác mắt và nhiễm trùng tái phát.
+
+Chẩn đoán thiếu hụt uridine monophosphate synthase bằng cách phân tích DNA và/hoặc xét nghiệm enzym trong nhiều loại mô. (Xem lại
+
+xét nghiệm khi nghi ngờ các rối loạn chuyển hóa di truyền
+
+.)
+
+Điều trị thiếu men uridin monophosphate synthase là bổ sung uridine đường uống.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+: Complete gene, molecular, and chromosomal location information
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thiếu hụt uridine monophosphate synthase (a xit orotic niệu) ---
+
+Uridine monophosphate là enzyme xúc tác cho phản ứng giữa orotate phosphoribosyltransferase và orotidine-5′-monophosphate decarboxylase. Khi thiếu hụt, acid orotic tích tụ, gây biểu hiện lâm sàng của thiếu máu nguyên hồng cầu khổng lồ, tinh thể orotic niệu và bệnh thận, dị dạng tim, lác mắt và nhiễm trùng tái phát.Chẩn đoán thiếu hụt uridine monophosphate synthase bằng cách phân tích DNA và/hoặc xét nghiệm enzym trong nhiều loại mô. (Xem lạixét nghiệm khi nghi ngờ các rối loạn chuyển hóa di truyền.)Điều trị thiếu men uridin monophosphate synthase là bổ sung uridine đường uống.
+
+--- 2. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

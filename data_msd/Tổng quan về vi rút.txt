@@ -1,0 +1,795 @@
+TIÊU ĐỀ: Tổng quan về vi rút
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/virus/tổng-quan-về-vi-rút
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về vi rút
+
+Theo
+
+Laura D Kramer
+
+,
+
+PhD
+
+,
+
+Wadsworth Center, New York State Department of Health
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 1 2025
+
+|
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1017539_vi
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Vi rút là một trong những vi sinh vật nhỏ nhất, thường có đường kính từ 0,02 đến 0,3 micromet, mặc dù gần đây người ta đã phát hiện ra một số loại vi rút rất lớn có kích thước lên tới 1 micromet (ví dụ: megavirus, pandoravirus). Vi rút tồn tại trên toàn thế giới, nhưng sự lây lan của chúng bị hạn chế bởi sức đề kháng tự nhiên, miễn dịch từ các lần nhiễm vi rút trước đó hoặc vắc xin phòng ngừa trước, các biện pháp kiểm soát sức khoẻ cộng đồng và các loại thuốc chống vi rút dự phòng khác. Có vài trăm loại vi rút khác nhau có thể lây nhiễm sang người.
+
+Vi rút chỉ nhân lên hoàn toàn trong tế bào sống của vật chủ (vi khuẩn, thực vật hoặc động vật). Một số vi rút có lớp vỏ ngoài bao gồm protein và lipid, bao quanh một phức hợp protein capsid với ARN bộ gen hoặc DNA và đôi khi là các enzym cần thiết cho các bước đầu tiên của quá trình sao chép vi rút.
+
+Phân loại vi rút
+
+chủ yếu dựa trên trình tự bộ gen của chúng, có tính đến bản chất và cấu trúc của bộ gen và phương pháp sao chép của chúng, nhưng không dựa trên các bệnh mà chúng gây ra (xem
+
+Ủy ban phân loại vi rút quốc tế (ICTV
+
+). Do đó, có vi rút DNA và vi rút RNA; vi rút DNA hoặc vi rút RNA có thể có chuỗi đơn hoặc chuỗi kép vật liệu di truyền. Vi rút RNA chuỗi đơn được chia thành loại có RNA hướng dương và RNA hướng âm. Vi rút RNA hướng dương sở hữu bộ gen RNA chuỗi đơn có thể đóng vai trò là RNA thông tin (mRNA) có thể được dịch mã trực tiếp để tạo ra trình tự axit amin. Vi rút RNA hướng âm sở hữu bộ gen hướng âm, chuỗi đơn, trước tiên phải tổng hợp một bộ gen kháng nguyên hướng dương bổ sung, sau đó được sử dụng để tạo ra RNA hướng âm theo bộ gen.
+
+Bộ gen vi rút nhỏ; bộ gen của các vi rút RNA dao động từ 3,5 kilobas (một số retrovirus) đến 27 kilobases (một số reovirus) và bộ gen của các virus DNA dao động từ 5 kilobases (parvovirus) đến 280 kilobases (một số poxvirus). Kích thước dễ quản lý này, cùng với những tiến bộ hiện tại trong công nghệ giải trình tự nucleotide, có nghĩa là giải trình tự bộ gen vi rút một phần và toàn bộ sẽ trở thành một thành phần thiết yếu trong các nghiên cứu dịch tễ học về các đợt bùng phát dịch bệnh.
+
+Một số loại vi rút RNA sợi đơn, hướng dương gọi là
+
+retrovirus
+
+sử dụng phương pháp sao chép rất khác. Một số các ví dụ về retrovirus là vi rút gây suy giảm miễn dịch ở người và các vi rút gây bệnh bạch cầu ở người. Retrovirus sử dụng men phiên mã ngược để tạo ra một bản sao DNA chuỗi kép (một provirus) từ bộ gen RNA của chúng, chuỗi DNA này sao đó sẽ được tích hợp vào hệ gen của tế bào chủ. Quá trình phiên mã ngược được thực hiện bằng cách sử dụng men sao chép ngược, men này được vi rút mang theo bên trong vỏ của nó. Khi provirus được tích hợp vào DNA của tế bào vật chủ, nó được sao chép bằng cách sử dụng cơ chế điển hình của tế bào để sản xuất ra protein của vi rút và vật liệu di truyền.
+
+Nếu một tế bào dòng mầm bị nhiễm retrovirus, thì tiền vi rút tích hợp có thể trở thành một retrovirus nội sinh được truyền sang con cái. Việc giải trình tự bộ gen người cho thấy khoảng 8% bộ gen người bao gồm các trình tự retrovirus nội sinh, đại diện cho những lần chạm trán trước đây với retrovirus trong quá trình tiến hóa của con người (
+
+1
+
+). Một số chuyên gia cho rằng một số rối loạn chưa rõ nguyên nhân, như bệnh đa xơ cứng, các rối loạn tự miễn nhất định và nhiều loại ung thư, có thể là do retrovirus nội sinh. Một số loại retrovirus nội sinh ở người vẫn duy trì hoạt động phiên mã và sản sinh ra các protein chức năng (ví dụ: syncytin góp phần vào cấu trúc của nhau thai người) (
+
+2
+
+).
+
+Bởi vì phiên mã RNA không liên quan đến cơ chế kiểm tra lỗi tương tự như phiên mã DNA nên các vi rút RNA, đặc biệt là retrovirus dễ bị đột biến.
+
+Cơ chế lây nhiễm vi rút
+
+là vi rút đầu tiên bám vào tế bào vật chủ tại một hoặc nhiều phân tử thụ thể trên bề mặt tế bào. DNA hoặc RNA của vi rút sau đó xâm nhập vào tế bào chủ và tách ra khỏi vỏ ngoài (dạng không vỏ) và sao chép bên trong tế bào chủ trong một quá trình đòi hỏi các enzyme cụ thể. Các vi rút có lõi DNA thường nhân bản trong nhân tế bào chủ, các vi rút lõi RNA điển hình thường nhân bản trong nguyên sinh chất của tế bào. Các thành phần vi rút mới được tổng hợp sau đó lắp ráp thành một hạt vi rút hoàn chỉnh. Tế bào vật chủ thường chết, giải phóng các vi rút mới và tiếp tục lây nhiễm sang các tế bào vật chủ khác. Mỗi bước nhân bản của vi rút liên quan đến các enzyme và chất nền khác nhau và tạo cơ hội để can thiệp vào quá trình lây nhiễm.
+
+Hậu quả của nhiễm vi rút rất đa dạng. Nhiều bệnh nhiễm trùng gây ra bệnh cấp tính sau một thời gian ủ bệnh ngắn, nhưng một số bệnh không có triệu chứng hoặc gây ra các triệu chứng không đáng kể có thể không được nhận ra. Nhiều bệnh nhiễm trùng do vi rút bị hệ miễn dịch loại bỏ, nhưng một số vẫn ở trạng thái tiềm ẩn và một số gây bệnh mạn tính.
+
+(Xem thêm
+
+Các loại bệnh do vi rút
+
+.)
+
+Thời gian nhiễm vi rút
+
+Trong
+
+nhiễm vi rút tiềm ẩn,
+
+RNA hoặc DNA của vi rút vẫn còn trong tế bào chủ nhưng không tái tạo hoặc không gây bệnh trong một thời gian dài, đôi khi đến nhiều năm. Nhiễm vi rút tiềm tàng có thể lây truyền trong giai đoạn không triệu chứng, tạo điều kiện thuận lợi cho sự lây lan từ người sang người. Đôi khi một kích hoạt (đặc biệt là ức chế miễn dịch) gây tái khởi động vi rút.
+
+Các loại vi rút phổ biến vẫn tiềm ẩn bao gồm:
+
+Vi rút Herpes
+
+Vi rút gây suy giảm miễn dịch ở người (HIV)
+
+Papovavirus (bao gồm 2 phân nhóm: virut u nhú và đa u)
+
+Vi rút Ebola
+
+dường như vẫn tồn tại ở các vị trí có đặc quyền miễn dịch trong cơ thể con người (ví dụ: tinh hoàn, mắt) (
+
+3
+
+).
+
+Một số bệnh lý là do
+
+sự tái hoạt động của vi rút
+
+trong hệ thần kinh trung ương sau thời gian tiềm ẩn rất dài. Những bệnh này bao gồm:
+
+Bệnh não chất trắng đa ổ tiến triển
+
+(do vi rút JC [John Cunningham], một polyomavirus)
+
+Viêm não xơ cứng bán cấp
+
+(do vi rút sởi)
+
+Viêm não tiến triển Rubella
+
+(do vi rút rubella)
+
+Bệnh zona
+
+(do vi rút varicella zoster)
+
+Nhiễm vi rút mạn tính
+
+được đặc trưng bởi sự phát tán vi rút liên tục, kéo dài; ví dụ như
+
+nhiễm trùng bẩm sinh do vi rút rubella
+
+hoặc
+
+cytomegalovirus
+
+và
+
+viêm gan B
+
+hoặc
+
+C dai dẳng
+
+.
+
+HIV
+
+có thể gây nhiễm trùng tiềm ẩn và mạn tính.
+
+Các phương thức lây truyền của vi rút
+
+Phương thức lây truyền khác nhau tùy theo từng loại vi rút và một số loại vi rút có thể lây lan qua nhiều hơn một phương thức lây truyền.
+
+Các loại vi rút chủ yếu lây nhiễm cho con người thường lây lan qua đường hô hấp. Tình trạng này có thể xảy ra khi người bị nhiễm bệnh phun ra
+
+các giọt bắn ở đường hô hấp
+
+khi nói chuyện, hắt hơi hoặc ho và các giọt bắn này di chuyển một khoảng cách ngắn và có thể lây nhiễm cho người khác qua các bề mặt niêm mạc như mắt, mũi hoặc miệng (ví dụ: cúm, vi rút hợp bào hô hấp [RSV]). Trong quá trình
+
+lây truyền qua không khí
+
+, các giọt bắn hoặc hạt lơ lửng trong không khí theo thời gian và khoảng cách và gây nhiễm trùng khi người khác hít phải (ví dụ: bệnh sởi, vi rút varicella-zoster).
+
+SARS-CoV-2
+
+có thể lây lan qua giọt bắn hoặc qua không khí.
+
+Lây truyền qua
+
+fomite
+
+xảy ra khi các bề mặt (ví dụ: tay nắm cửa, bàn, thiết bị y tế) bị nhiễm bẩn do mầm bệnh phát tán trực tiếp hoặc qua tiếp xúc bằng tay với người bị nhiễm bệnh (ví dụ: norovirus, rhinovirus).
+
+Lây truyền qua đường
+
+phân-miệng
+
+cũng phổ biến và xảy ra khi vật liệu phân làm ô nhiễm thức ăn, nước hoặc tay và được nuốt vào (ví dụ: norovirus, một số loại enterovirus).
+
+Lây truyền
+
+qua đường máu
+
+xảy ra khi vi rút truyền qua máu hoặc các chất dịch cơ thể khác (ví dụ:
+
+HIV
+
+, vi rút viêm gan
+
+A
+
+,
+
+B
+
+,
+
+C
+
+và
+
+E
+
+). Một số loại arbovirus cũng có thể lây truyền qua máu hoặc dịch cơ thể, bao gồm
+
+chikungunya
+
+,
+
+sốt xuất huyết
+
+,
+
+sốt Tây sông Nile
+
+và
+
+Zika
+
+. Do nguy cơ lây truyền vi rút qua đường máu, máu lấy để truyền phải được xét nghiệm nghiêm ngặt (xem bảng
+
+Xét nghiệm lây truyền bệnh truyền nhiễm
+
+).
+
+Sự lây truyền từ
+
+mẹ sang con (theo chiều dọc)
+
+có thể xảy ra từ người mang thai bị nhiễm bệnh (thường là nhiễm bệnh ban đầu) sang thai nhi trong thời kỳ mang thai. Tình trạng lây truyền cũng có thể xảy ra do tiếp xúc với máu hoặc dịch tiết âm đạo bị nhiễm bệnh trong khi sinh nở hoặc qua sữa mẹ.
+
+Sự lây truyền qua đường
+
+tình dục
+
+của một số loại vi rút có thể xảy ra qua máu hoặc dịch cơ thể (ví dụ: dịch tiết âm đạo, tinh dịch) thông qua
+
+tiếp xúc niêm mạc
+
+(ví dụ: vi rút u nhú ở người,
+
+vi rút herpes simplex
+
+,
+
+Zika
+
+,
+
+Ebola
+
+).
+
+Cytomegalovirus
+
+và
+
+vi rút Epstein-Barr
+
+là những loại vi rút được lây truyền chủ yếu qua việc
+
+cấy ghép mô
+
+. Các vi rút khác như vậy bao gồm
+
+Arbovirus như vi rút
+
+Zika
+
+,
+
+Tây sông Nile
+
+và
+
+sốt xuất huyết
+
+Viêm màng não tăng lympho bào
+
+HIV
+
+Bệnh dại
+
+Viêm gan B
+
+Vi rút Herpes simplex
+
+Nhiều loại vi rút được truyền qua
+
+các vật trung gian truyền bệnh
+
+như là động vật chân đốt như muỗi (ví dụ:
+
+chikungunya
+
+và
+
+Zika
+
+) và ve (ví dụ: vi rút viêm não do ve truyền) (xem
+
+World Health Organization (WHO)
+
+: Vector-borne diseases). Côn trùng cũng có thể là vật trung gian truyền các mầm bệnh do vi khuẩn hoặc ký sinh trùng và gần đây người ta đã xác định dơi là vật chủ của nhiều loại vi rút ở động vật có vú, phổ biến nhất là bệnh dại, nhưng cũng bao gồm cả vi rút gây ra các bệnh nhiễm trùng nghiêm trọng khác ở người (ví dụ:
+
+SARS-CoV-2
+
+, Ebola).
+
+Vi rút lây truyền từ động vật sang người
+
+phát triển ở động vật và sau đó lây truyền sang người, trực tiếp hoặc thông qua vật chủ trung gian hoặc vật chủ trung gian. Ví dụ: vi rút đường hô hấp Trung Đông (MERS-CoV) có thể lây lan từ lạc đà một bướu sang người thông qua tiếp xúc trực tiếp với lạc đà bị nhiễm bệnh. Chim là vật chủ chính của
+
+vi rút Tây sông Nile
+
+; muỗi hút máu chim bị nhiễm bệnh sẽ trở thành vật chủ trung gian truyền bệnh và sau đó muỗi bị nhiễm bệnh có thể truyền vi rút cho người và các động vật có vú khác.
+
+Vi rút và ung thư
+
+Một số loại vi rút gây ung thư và trực tiếp gây ra hoặc làm tăng nguy cơ mắc một số loại ung thư:
+
+Vi rút gây suy giảm miễn dịch ở người (HIV)
+
+:
+
+Sarcoma Kaposi
+
+,
+
+u lympho không Hodgkin
+
+,
+
+ung thư biểu mô cổ tử cung
+
+,
+
+u lympho Hodgkin
+
+và ung thư biểu mô
+
+miệng
+
+,
+
+họng
+
+,
+
+gan
+
+,
+
+phổi
+
+và
+
+hậu môn
+
+Vi rút gây u nhú ở người
+
+(HPV):
+
+Ung thư cổ tử cung
+
+,
+
+ung thư vú
+
+,
+
+ung thư âm đạo
+
+,
+
+ung thư hậu môn
+
+,
+
+ung thư biểu mô miệng
+
+và
+
+ung thư thực quản
+
+Vi rút T-lymphotropic ở người 1
+
+: Một số loại ung thư bạch cầu ở người và lymphoma
+
+Vi rút Epstein-Barr
+
+:
+
+Ung thư biểu mô vòm họng
+
+,
+
+Burkitt lymphoma
+
+,
+
+Hodgkin lymphoma
+
+và u lympho ở những người nhận ghép tạng bị suy giảm miễn dịch
+
+Vi rút
+
+viêm gan B
+
+và
+
+viêm gan C
+
+:
+
+Ung thư biểu mô tế bào gan
+
+Vi rút herpes ở người 8
+
+:
+
+Kaposi sarcoma
+
+, u lympho tràn dịch chính và bệnh Castleman đa chừng (rối loạn lympho cơ hoành)
+
+Tài liệu tham khảo
+
+1.
+
+Suntsova M, Garazha A, Ivanova A, Kaminsky D, Zhavoronkov A, Buzdin A
+
+. Molecular functions of human endogenous retroviruses in health and disease.
+
+Cell Mol Life Sci.
+
+2015;72(19):3653-3675. doi:10.1007/s00018-015-1947-6
+
+2.
+
+Dupressoir A, Lavialle C, Heidmann T
+
+. From ancestral infectious retroviruses to bona fide cellular genes: role of the captured syncytins in placentation.
+
+Placenta.
+
+33(9):663-671, 2012. doi:10.1016/j.placenta.2012.05.005
+
+3.
+
+Schindell BG, Webb AL, Kindrachuk J
+
+. Persistence and sexual transmission of filoviruses.
+
+Viruses.
+
+10(12):683, 2018. doi: 10.3390/v10120683
+
+Chẩn đoán nhiễm vi rút
+
+Nhiễm vi rút và các bệnh liên quan có thể được chẩn đoán theo nhiều cách khác nhau, bao gồm
+
+Dựa trên lâm sàng về tiền sử phơi nhiễm có thể xảy ra, đặc biệt là trong thời gian dịch bệnh (ví dụ: cúm
+
+,
+
+norovirus
+
+,
+
+SARS-CoV-2
+
+) hoặc các triệu chứng hoặc dấu hiệu đặc trưng (ví dụ: trong
+
+bệnh sởi
+
+,
+
+rubella
+
+,
+
+ban đỏ ở trẻ sơ sinh
+
+,
+
+ban đỏ nhiễm trùng
+
+và
+
+thủy đậu
+
+)
+
+Xét nghiệm máu hoặc các mẫu bệnh phẩm khác (ví dụ: đờm)
+
+Các kỹ thuật xét nghiệm vi rút trong phòng thí nghiệm khác nhau tùy theo loại vi rút và tính khả dụng trong hệ thống y tế. Các lựa chọn bao gồm
+
+Các xét nghiệm khuếch đại axit nucleic (NAAT), bao gồm các phương pháp phản ứng chuỗi polymerase (PCR), phát hiện một loại vi rút cụ thể
+
+Xét nghiệm phát hiện kháng nguyên cho protein của vi rút
+
+Huyết thanh học phát hiện kháng thể
+
+Nuôi cấy vi rút phát triển vi rút trong nuôi cấy tế bào
+
+Xét nghiệm kháng thể huỳnh quang trực tiếp (DFA) sử dụng kháng thể được gắn nhãn huỳnh quang để phát hiện kháng nguyên vi rút
+
+Chẩn đoán xét nghiệm xác định chủ yếu là cần thiết khi điều trị đặc hiệu có thể hữu ích hoặc khi tác nhân gây bệnh có thể gây ra mối đe dọa cho sức khỏe cộng đồng. Tại Hoa Kỳ, hầu hết các phòng xét nghiệm bệnh viện có thể xét nghiệm nhiều loại vi rút, nhưng đối với các bệnh ít phổ biến hơn (ví dụ:
+
+bệnh dại
+
+, viêm não ngựa miền Đông, parvovirus B19 ở người), mẫu bệnh phẩm phải được gửi đến các phòng xét nghiệm y tế công cộng của tiểu bang hoặc Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh. Mẫu xét nghiệm có thể là máu, đờm, mô hoặc các mẫu khác, tùy thuộc vào loại vi rút và xét nghiệm.
+
+NAAT có độ nhạy và độ đặc hiệu cao, kết quả có thể có sau 1 giờ đến 2 giờ hoặc 12 giờ hoặc lâu hơn, tùy thuộc vào từng xét nghiệm cụ thể. Xét nghiệm kháng nguyên thường được sử dụng để sàng lọc nhanh và một số xét nghiệm cho kết quả trong vòng 15 phút, nhưng loại xét nghiệm này có thể có độ nhạy hoặc độ đặc hiệu thấp hơn so với NAAT. DFA có tốc độ nhanh nhưng chỉ áp dụng được cho một số lượng vi rút hạn chế và có độ nhạy thấp hơn so với PCR. Nuôi cấy vi rút ít được sử dụng hơn vì mất nhiều thời gian hơn, đòi hỏi nhiều đào tạo hơn và đôi khi cần có biện pháp ngăn chặn cao hơn, nhưng được coi là xét nghiệm tiêu chuẩn vàng.
+
+Xét nghiệm huyết thanh tìm kháng thể trong giai đoạn cấp tính và giai đoạn hồi phục có thể nhạy cảm và đặc hiệu, nhưng chậm; với một số loại vi rút, đặc biệt là flaviviruses, các phản ứng chéo gây nhầm lẫn cho chẩn đoán.
+
+Phương pháp mô bệnh học bằng kính hiển vi điện tử (không phải kính hiển vi quang học) đôi khi có thể phát hiện những thay đổi đặc trưng của tế bào.
+
+Đối với các phương pháp chẩn đoán đặc hiệu, xem bảng:
+
+Xét nghiệm chẩn đoán bệnh truyền nhiễm
+
+.
+
+Điều trị nhiễm vi rút
+
+Thuốc kháng vi rút
+
+Sự tiến bộ trong việc phát triển và sử dụng thuốc kháng vi rút đang diễn ra nhanh chóng. Các cơ chế của thuốc kháng vi rút có thể được định hướng vào các giai đoạn khác nhau của quá trình nhân lên của vi rút. Các cơ chế này có thể
+
+Ức chế sự gắn kết hạt vi rút với màng tế bào chủ hoặc sự giải phóng các axit nucleic của vi rút
+
+Ức chế thụ thể tế bào hoặc yếu tố cần thiết để nhân bản vi rút
+
+Chặn các enzym và protein cụ thể do vi rút mã hóa được tạo ra trong tế bào chủ và cần thiết cho sự nhân lên của vi rút nhưng không cần thiết cho quá trình chuyển hóa tế bào chủ bình thường
+
+Thuốc kháng vi rút thường được sử dụng để điều trị hoặc phòng ngừa các loại
+
+vi rút herpes
+
+(bao gồm cả
+
+cytomegalovirus)
+
+,
+
+vi rút đường hô hấp
+
+(bao gồm cả
+
+SARS-CoV-2
+
+),
+
+HIV
+
+,
+
+viêm gan B mạn tính
+
+và
+
+viêm gan C mạn tính
+
+. Tuy nhiên, một số loại thuốc có hiệu quả chống lại nhiều loại vi rút khác nhau. Ví dụ: một số loại thuốc có hoạt tính chống HIV được sử dụng cho các bệnh nhiễm vi rút khác như là viêm gan B.
+
+Interferons
+
+Interferon là các hợp chất được giải phóng từ các tế bào chủ bị nhiễm để đáp ứng với các kháng nguyên vi rút hoặc các kháng nguyên lạ khác.
+
+Có rất nhiều interferon khác nhau, có nhiều hiệu ứng như chặn chuyển dịch và sao chép RNA vi rút và ngăn chặn sự nhân lên của vi rút mà không làm gián đoạn chức năng của tế bào chủ bình thường.
+
+Trong quá trình điều trị bằng interferon, interferon đôi khi được gắn vào polyethylene glycol (công thức bào chế pegylated), cho phép giải phóng chậm và kéo dài.
+
+Bệnh do vi rút có thể được điều trị bằng liệu pháp interferon bao gồm
+
+Viêm gan B
+
+mạn tính và
+
+Viêm gan C mạn tính
+
+Mụn cóc sinh dục
+
+(condyloma acuminata), do vi rút papilloma ở người gây ra
+
+Kaposi sarcoma
+
+, có liên quan đến nhiễm HIV giai đoạn cuối
+
+Các tác dụng không mong muốn của interferon bao gồm sốt, ớn lạnh, yếu và đau cơ, điển hình bắt đầu từ 7 đến 12 giờ sau lần tiêm đầu tiên và kéo dài đến 12 giờ. Trầm cảm, viêm gan và ức chế tủy xương có thể xảy ra khi sử dụng liều cao.
+
+Kháng thể
+
+Huyết thanh và
+
+kháng thể đơn dòng
+
+(mAbs) của người khỏi bệnh có thể được sử dụng để điều trị một số bệnh nhiễm vi rút (ví dụ:
+
+nhiễm vi rút Zaire Ebola
+
+, vi rút hợp bào hô hấp [RSV], vi rút bệnh dại).
+
+Phòng ngừa nhiễm vi rút
+
+Vắc xin
+
+Vắc-xin
+
+kích thích hệ miễn dịch của một người để ngăn ngừa nhiễm trùng hoặc bệnh nặng do vi rút. Vắc xin chống vi rút được sử dụng chung bao gồm vắc xin cho
+
+COVID-19
+
+Viêm gan A
+
+Viêm gan B
+
+Vi rút gây u nhú ở người
+
+Cúm
+
+Bệnh viêm não Nhật Bản
+
+Sởi
+
+Quai bị
+
+Bệnh bại liệt
+
+Bệnh dại
+
+Vi rút hợp bào đường hô hấp (RSV)
+
+Rotavirus
+
+Rubella
+
+Viêm não do ve truyền (không có ở Hoa Kỳ)
+
+Thủy đậu
+
+Sốt vàng
+
+Vắc xin phòng ngừa Adenovirus,
+
+đậu mùa
+
+và
+
+mpox
+
+hiện có nhưng chỉ được sử dụng cho nhóm có nguy cơ cao (ví dụ: những người dễ bị tổn thương trong thời gian bùng phát dịch, quân nhân).
+
+Vắc-xin Ebola
+
+được tiêm trong thời gian bùng phát dịch bệnh và cho những người có nguy cơ cao.
+
+Vắc-xin sốt xuất huyết
+
+được phê duyệt sử dụng cho một số người đã được xác nhận nhiễm sốt xuất huyết trong phòng thí nghiệm và sống ở những khu vực có sốt xuất huyết lưu hành (xem thêm
+
+U.S. Centers for Disease Control and Prevention [CDC]: Dengue Vaccine
+
+).
+
+Nhiều loại
+
+vắc xin để phòng ngừa COVID-19,
+
+do SARS-CoV-2 gây ra, đã được phát triển, bao gồm cả mRNA và các loại vắc xin khác.
+
+Các bệnh do vi rút có thể được loại bỏ bằng vắc xin hiệu quả. Bệnh đậu mùa đã được thanh toán vào năm 1978 và bệnh dich hạch ở gia súc (do một vi rút liên quan chặt chẽ đến vi rút sởi ở người) đã được loại trừ vào năm 2011. Tiêm chủng mở rộng đã gần như xóa sổ
+
+bệnh bại liệt
+
+trên toàn thế giới, nhưng các trường hợp vẫn xảy ra ở những khu vực chưa tiêm chủng đầy đủ. Từ năm 2022-2024, các trường hợp chỉ xảy ra ở Pakistan và Afghanistan (
+
+1
+
+). Sởi gần như đã bị thanh toán ở nhiều nơi trên thế giới, đặc biệt là ở Châu Mỹ, nhưng vì bệnh sởi rất dễ lây và việc tiêm vắc xin không đầy đủ, thậm chí ở các vùng mà nó được xem là đã được thanh toán nên việc loại bỏ hoàn toàn bệnh sởi không diễn ra trong tương lai gần.
+
+Triển vọng phát triển vắc xin và loại trừ các bệnh nhiễm trùng do vi rút quan trọng khác về mặt lâm sàng (như HIV) hiện vẫn chưa chắc chắn.
+
+Miễn dịch thụ động
+
+Globulin miễn dịch
+
+có sẵn để tạo miễn dịch thụ động dự phòng trong một số tình huống. Các globulin miễn dịch này có thể được sử dụng trước khi phơi nhiễm (ví dụ: đối với bệnh viêm gan A), sau khi phơi nhiễm (ví dụ: đối với bệnh dại, thủy đậu, viêm gan B) và để điều trị bệnh (ví dụ: vắc-xin ngừa bệnh chàm).
+
+Kháng thể đơn dòng chống RSV (nirsevimab) nên được sử dụng để ngăn ngừa nhiễm RSV ở tất cả trẻ sơ sinh có mẹ không tiêm vắc-xin RSV trong thời kỳ mang thai và cũng được khuyến nghị cho một nhóm nhỏ trẻ nhỏ từ 8 tháng tuổi đến 19 tháng tuổi có nguy cơ cao bị RSV nặng. (Xem thêm
+
+CDC: Respiratory Syncytial Virus: Immunizations to Protect Infants
+
+).
+
+Kháng thể đơn dòng có hoạt tính chống lại SARS-CoV-2 dành cho những người bị suy giảm miễn dịch từ trung bình đến nặng và không có khả năng đáp ứng miễn dịch đầy đủ với vắc-xin COVID-19 (xem
+
+Phòng ngừa COVID-19: Kháng thể đơn dòng
+
+).
+
+Kháng thể đơn dòng được sử dụng để điều trị bệnh do vi rút Ebola gây ra bởi vi rút orthoebola Zaire.
+
+Các biện pháp bảo vệ
+
+Nhiều bệnh nhiễm trùng do vi rút có thể được ngăn ngừa bằng các biện pháp bảo vệ thông thường (thay đổi tùy thuộc vào phương thức lây truyền của một tác nhân nhất định).
+
+Các biện pháp quan trọng bao gồm
+
+Rửa tay
+
+Chuẩn bị thức ăn và xử lý nước hợp lý
+
+Tránh tiếp xúc với người mắc bệnh
+
+Thực hành tình dục an toàn hơn
+
+Đeo khẩu trang
+
+Giãn cách khi thích hợp (ví dụ: để phòng ngừa COVID-19)
+
+Đối với các bệnh nhiễm trùng do côn trùng trung gian truyền bệnh (ví dụ: muỗi, ve), việc bảo vệ cá nhân khỏi vết cắn của côn trùng trung gian truyền bệnh là rất quan trọng, chẳng hạn như sử dụng thuốc xua đuổi côn trùng, mặc quần áo phù hợp, lắp lưới cửa sổ trong nhà và loại bỏ các nguồn nước đọng.
+
+Đối với các bệnh nhiễm trùng như là
+
+nhiễm vi rút Ebola
+
+, tránh tiếp xúc với máu và dịch cơ thể (như là nước tiểu, phân, nước bọt, mồ hôi, chất nôn, sữa mẹ, nước ối, tinh dịch và dịch âm đạo) của người bệnh là một biện pháp bảo vệ quan trọng. Nên tránh tiếp xúc với tinh dịch của một người đàn ông đã khỏi bệnh nhiễm trùng do vi rút Ebola cho đến khi xét nghiệm cho thấy vi rút đã hết trong tinh dịch của người đó.
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+World Health Organization (WHO)
+
+. Poliomyelitis (Polio). Truy cập ngày 11 tháng 12 năm 2024.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán nhiễm vi rút ---
+
+Nhiễm vi rút và các bệnh liên quan có thể được chẩn đoán theo nhiều cách khác nhau, bao gồmDựa trên lâm sàng về tiền sử phơi nhiễm có thể xảy ra, đặc biệt là trong thời gian dịch bệnh (ví dụ: cúm,norovirus,SARS-CoV-2) hoặc các triệu chứng hoặc dấu hiệu đặc trưng (ví dụ: trongbệnh sởi,rubella,ban đỏ ở trẻ sơ sinh,ban đỏ nhiễm trùngvàthủy đậu)Xét nghiệm máu hoặc các mẫu bệnh phẩm khác (ví dụ: đờm)Các kỹ thuật xét nghiệm vi rút trong phòng thí nghiệm khác nhau tùy theo loại vi rút và tính khả dụng trong hệ thống y tế. Các lựa chọn bao gồmCác xét nghiệm khuếch đại axit nucleic (NAAT), bao gồm các phương pháp phản ứng chuỗi polymerase (PCR), phát hiện một loại vi rút cụ thểXét nghiệm phát hiện kháng nguyên cho protein của vi rútHuyết thanh học phát hiện kháng thểNuôi cấy vi rút phát triển vi rút trong nuôi cấy tế bàoXét nghiệm kháng thể huỳnh quang trực tiếp (DFA) sử dụng kháng thể được gắn nhãn huỳnh quang để phát hiện kháng nguyên vi rútChẩn đoán xét nghiệm xác định chủ yếu là cần thiết khi điều trị đặc hiệu có thể hữu ích hoặc khi tác nhân gây bệnh có thể gây ra mối đe dọa cho sức khỏe cộng đồng. Tại Hoa Kỳ, hầu hết các phòng xét nghiệm bệnh viện có thể xét nghiệm nhiều loại vi rút, nhưng đối với các bệnh ít phổ biến hơn (ví dụ:bệnh dại, viêm não ngựa miền Đông, parvovirus B19 ở người), mẫu bệnh phẩm phải được gửi đến các phòng xét nghiệm y tế công cộng của tiểu bang hoặc Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh. Mẫu xét nghiệm có thể là máu, đờm, mô hoặc các mẫu khác, tùy thuộc vào loại vi rút và xét nghiệm.NAAT có độ nhạy và độ đặc hiệu cao, kết quả có thể có sau 1 giờ đến 2 giờ hoặc 12 giờ hoặc lâu hơn, tùy thuộc vào từng xét nghiệm cụ thể. Xét nghiệm kháng nguyên thường được sử dụng để sàng lọc nhanh và một số xét nghiệm cho kết quả trong vòng 15 phút, nhưng loại xét nghiệm này có thể có độ nhạy hoặc độ đặc hiệu thấp hơn so với NAAT. DFA có tốc độ nhanh nhưng chỉ áp dụng được cho một số lượng vi rút hạn chế và có độ nhạy thấp hơn so với PCR. Nuôi cấy vi rút ít được sử dụng hơn vì mất nhiều thời gian hơn, đòi hỏi nhiều đào tạo hơn và đôi khi cần có biện pháp ngăn chặn cao hơn, nhưng được coi là xét nghiệm tiêu chuẩn vàng.Xét nghiệm huyết thanh tìm kháng thể trong giai đoạn cấp tính và giai đoạn hồi phục có thể nhạy cảm và đặc hiệu, nhưng chậm; với một số loại vi rút, đặc biệt là flaviviruses, các phản ứng chéo gây nhầm lẫn cho chẩn đoán.Phương pháp mô bệnh học bằng kính hiển vi điện tử (không phải kính hiển vi quang học) đôi khi có thể phát hiện những thay đổi đặc trưng của tế bào.Đối với các phương pháp chẩn đoán đặc hiệu, xem bảng:Xét nghiệm chẩn đoán bệnh truyền nhiễm.
+
+--- 2. Điều trị nhiễm vi rút ---
+
+Thuốc kháng vi rútSự tiến bộ trong việc phát triển và sử dụng thuốc kháng vi rút đang diễn ra nhanh chóng. Các cơ chế của thuốc kháng vi rút có thể được định hướng vào các giai đoạn khác nhau của quá trình nhân lên của vi rút. Các cơ chế này có thểỨc chế sự gắn kết hạt vi rút với màng tế bào chủ hoặc sự giải phóng các axit nucleic của vi rútỨc chế thụ thể tế bào hoặc yếu tố cần thiết để nhân bản vi rútChặn các enzym và protein cụ thể do vi rút mã hóa được tạo ra trong tế bào chủ và cần thiết cho sự nhân lên của vi rút nhưng không cần thiết cho quá trình chuyển hóa tế bào chủ bình thườngThuốc kháng vi rút thường được sử dụng để điều trị hoặc phòng ngừa các loạivi rút herpes(bao gồm cảcytomegalovirus),vi rút đường hô hấp(bao gồm cảSARS-CoV-2),HIV,viêm gan B mạn tínhvàviêm gan C mạn tính. Tuy nhiên, một số loại thuốc có hiệu quả chống lại nhiều loại vi rút khác nhau. Ví dụ: một số loại thuốc có hoạt tính chống HIV được sử dụng cho các bệnh nhiễm vi rút khác như là viêm gan B.InterferonsInterferon là các hợp chất được giải phóng từ các tế bào chủ bị nhiễm để đáp ứng với các kháng nguyên vi rút hoặc các kháng nguyên lạ khác.Có rất nhiều interferon khác nhau, có nhiều hiệu ứng như chặn chuyển dịch và sao chép RNA vi rút và ngăn chặn sự nhân lên của vi rút mà không làm gián đoạn chức năng của tế bào chủ bình thường.Trong quá trình điều trị bằng interferon, interferon đôi khi được gắn vào polyethylene glycol (công thức bào chế pegylated), cho phép giải phóng chậm và kéo dài.Bệnh do vi rút có thể được điều trị bằng liệu pháp interferon bao gồmViêm gan Bmạn tính vàViêm gan C mạn tínhMụn cóc sinh dục(condyloma acuminata), do vi rút papilloma ở người gây raKaposi sarcoma, có liên quan đến nhiễm HIV giai đoạn cuốiCác tác dụng không mong muốn của interferon bao gồm sốt, ớn lạnh, yếu và đau cơ, điển hình bắt đầu từ 7 đến 12 giờ sau lần tiêm đầu tiên và kéo dài đến 12 giờ. Trầm cảm, viêm gan và ức chế tủy xương có thể xảy ra khi sử dụng liều cao.Kháng thểHuyết thanh vàkháng thể đơn dòng(mAbs) của người khỏi bệnh có thể được sử dụng để điều trị một số bệnh nhiễm vi rút (ví dụ:nhiễm vi rút Zaire Ebola, vi rút hợp bào hô hấp [RSV], vi rút bệnh dại).
+
+--- 3. Phòng ngừa nhiễm vi rút ---
+
+Vắc xinVắc-xinkích thích hệ miễn dịch của một người để ngăn ngừa nhiễm trùng hoặc bệnh nặng do vi rút. Vắc xin chống vi rút được sử dụng chung bao gồm vắc xin choCOVID-19Viêm gan AViêm gan BVi rút gây u nhú ở ngườiCúmBệnh viêm não Nhật BảnSởiQuai bịBệnh bại liệtBệnh dạiVi rút hợp bào đường hô hấp (RSV)RotavirusRubellaViêm não do ve truyền (không có ở Hoa Kỳ)Thủy đậuSốt vàngVắc xin phòng ngừa Adenovirus,đậu mùavàmpoxhiện có nhưng chỉ được sử dụng cho nhóm có nguy cơ cao (ví dụ: những người dễ bị tổn thương trong thời gian bùng phát dịch, quân nhân).Vắc-xin Ebolađược tiêm trong thời gian bùng phát dịch bệnh và cho những người có nguy cơ cao.Vắc-xin sốt xuất huyếtđược phê duyệt sử dụng cho một số người đã được xác nhận nhiễm sốt xuất huyết trong phòng thí nghiệm và sống ở những khu vực có sốt xuất huyết lưu hành (xem thêmU.S. Centers for Disease Control and Prevention [CDC]: Dengue Vaccine).Nhiều loạivắc xin để phòng ngừa COVID-19,do SARS-CoV-2 gây ra, đã được phát triển, bao gồm cả mRNA và các loại vắc xin khác.Các bệnh do vi rút có thể được loại bỏ bằng vắc xin hiệu quả. Bệnh đậu mùa đã được thanh toán vào năm 1978 và bệnh dich hạch ở gia súc (do một vi rút liên quan chặt chẽ đến vi rút sởi ở người) đã được loại trừ vào năm 2011. Tiêm chủng mở rộng đã gần như xóa sổbệnh bại liệttrên toàn thế giới, nhưng các trường hợp vẫn xảy ra ở những khu vực chưa tiêm chủng đầy đủ. Từ năm 2022-2024, các trường hợp chỉ xảy ra ở Pakistan và Afghanistan (1). Sởi gần như đã bị thanh toán ở nhiều nơi trên thế giới, đặc biệt là ở Châu Mỹ, nhưng vì bệnh sởi rất dễ lây và việc tiêm vắc xin không đầy đủ, thậm chí ở các vùng mà nó được xem là đã được thanh toán nên việc loại bỏ hoàn toàn bệnh sởi không diễn ra trong tương lai gần.Triển vọng phát triển vắc xin và loại trừ các bệnh nhiễm trùng do vi rút quan trọng khác về mặt lâm sàng (như HIV) hiện vẫn chưa chắc chắn.Miễn dịch thụ độngGlobulin miễn dịchcó sẵn để tạo miễn dịch thụ động dự phòng trong một số tình huống. Các globulin miễn dịch này có thể được sử dụng trước khi phơi nhiễm (ví dụ: đối với bệnh viêm gan A), sau khi phơi nhiễm (ví dụ: đối với bệnh dại, thủy đậu, viêm gan B) và để điều trị bệnh (ví dụ: vắc-xin ngừa bệnh chàm).Kháng thể đơn dòng chống RSV (nirsevimab) nên được sử dụng để ngăn ngừa nhiễm RSV ở tất cả trẻ sơ sinh có mẹ không tiêm vắc-xin RSV trong thời kỳ mang thai và cũng được khuyến nghị cho một nhóm nhỏ trẻ nhỏ từ 8 tháng tuổi đến 19 tháng tuổi có nguy cơ cao bị RSV nặng. (Xem thêmCDC: Respiratory Syncytial Virus: Immunizations to Protect Infants).Kháng thể đơn dòng có hoạt tính chống lại SARS-CoV-2 dành cho những người bị suy giảm miễn dịch từ trung bình đến nặng và không có khả năng đáp ứng miễn dịch đầy đủ với vắc-xin COVID-19 (xemPhòng ngừa COVID-19: Kháng thể đơn dòng).Kháng thể đơn dòng được sử dụng để điều trị bệnh do vi rút Ebola gây ra bởi vi rút orthoebola Zaire.Các biện pháp bảo vệNhiều bệnh nhiễm trùng do vi rút có thể được ngăn ngừa bằng các biện pháp bảo vệ thông thường (thay đổi tùy thuộc vào phương thức lây truyền của một tác nhân nhất định).Các biện pháp quan trọng bao gồmRửa tayChuẩn bị thức ăn và xử lý nước hợp lýTránh tiếp xúc với người mắc bệnhThực hành tình dục an toàn hơnĐeo khẩu trangGiãn cách khi thích hợp (ví dụ: để phòng ngừa COVID-19)Đối với các bệnh nhiễm trùng do côn trùng trung gian truyền bệnh (ví dụ: muỗi, ve), việc bảo vệ cá nhân khỏi vết cắn của côn trùng trung gian truyền bệnh là rất quan trọng, chẳng hạn như sử dụng thuốc xua đuổi côn trùng, mặc quần áo phù hợp, lắp lưới cửa sổ trong nhà và loại bỏ các nguồn nước đọng.Đối với các bệnh nhiễm trùng như lànhiễm vi rút Ebola, tránh tiếp xúc với máu và dịch cơ thể (như là nước tiểu, phân, nước bọt, mồ hôi, chất nôn, sữa mẹ, nước ối, tinh dịch và dịch âm đạo) của người bệnh là một biện pháp bảo vệ quan trọng. Nên tránh tiếp xúc với tinh dịch của một người đàn ông đã khỏi bệnh nhiễm trùng do vi rút Ebola cho đến khi xét nghiệm cho thấy vi rút đã hết trong tinh dịch của người đó.Tài liệu tham khảo về phòng ngừa1.World Health Organization (WHO). Poliomyelitis (Polio). Truy cập ngày 11 tháng 12 năm 2024.

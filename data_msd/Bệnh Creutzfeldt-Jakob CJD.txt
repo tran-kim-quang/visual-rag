@@ -1,0 +1,437 @@
+TIÊU ĐỀ: Bệnh Creutzfeldt-Jakob (CJD)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/bệnh-prion/bệnh-creutzfeldt-jakob-cjd
+================================================================================
+
+NỘI DUNG:
+
+Bệnh Creutzfeldt-Jakob (CJD)
+
+(Bệnh xốp não bán cấp)
+
+Theo
+
+Brian Appleby
+
+,
+
+MD
+
+,
+
+Case Western Reserve University
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1154948_vi
+
+Bệnh Creutzfeldt-Jakob (CJD) là bệnh prion ở người thường gặp nhất. Bệnh xảy ra trên toàn thế giới, có một số dạng và thể. Các triệu chứng CJD bao gồm sa sút trí tuệ, rung giật cơ và các thiếu sót của hệ thần kinh trung ương khác; tử vong thường xảy ra từ 4 tháng đến 2 năm sau khi nhiễm bệnh, tùy thuộc vào dạng và thể CJD. Điều trị là hỗ trợ.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về bệnh Prion
+
+.)
+
+Bệnh Creutzfeldt-Jakob có 3 dạng (
+
+1
+
+):
+
+Tản phát (sCJD)
+
+Có tính gia đình
+
+Mắc phải
+
+sCJD
+
+là loại phổ biến nhất, chiếm khoảng 85% số trường hợp (
+
+2
+
+). sCJD thường ảnh hưởng đến những người > 40 tuổi (trung bình, khoảng 65 tuổi).
+
+CJD có tính gia đình
+
+xảy ra trong khoảng 5 đến 15% các trường hợp. Di truyền gần như phổ biến là gen trội trên nhiễm sắc thể thường; tuổi khởi phát thường sớm hơn so với sCJD và thời gian mắc bệnh trung bình có thể dài hơn.
+
+CJD mắc phải
+
+có thể chiếm < 1% số trường hợp. Xảy ra sau khi ăn thịt bò bị nhiễm prion (trong biến thể CJD [vCJD]). CJD do thầy thuốc gây ra (iCJD) đã được mắc phải thông qua việc sử dụng các ca ghép giác mạc hoặc màng cứng từ xác chết, điện cực nội sọ định vị, hóc môn tăng trưởng hoặc gonadotropin được chế biến từ tuyến yên của con người (
+
+3
+
+). Biến thể CJD đã được chứng minh là lây truyền do thầy thuốc thông qua tiếp xúc với máu, nhưng không có dữ liệu dịch tễ học nào cho thấy các dạng CJD khác (hoặc các bệnh prion khác) được lây truyền theo cách này (
+
+4
+
+). Khoảng một nửa số trường hợp mắc iCJD liên quan đến những thay đổi tương tự như bệnh Alzheimer, cho thấy rằng ở iCJD, một rối loạn giống với bệnh Alzheimer (ngoài CJD) có thể mắc phải do nguyên nhân từ thầy thuốc (
+
+5
+
+).
+
+Biến thể CJD (vCJD)
+
+vCJD là một dạng mắc phải hiếm gặp của CJD. Hầu hết các trường hợp xảy ra ở Vương quốc Anh, nơi có 178 trường hợp tính đến ngày 7 tháng 5 năm 2022 (
+
+6
+
+), so với 55 trường hợp ở tất cả các quốc gia châu Âu và ngoài châu Âu khác tính đến tháng 5 năm 2022. vCJD xảy ra sau khi ăn thịt bò từ gia súc mắc bệnh não xốp ở bò (BSE), còn gọi là bệnh bò điên.
+
+Trong vCJD, các triệu chứng tiến triển ở độ tuổi trung bình trẻ hơn (
+
+<
+
+30 tuổi) so với trong sCJD. Trong những trường hợp gần đây, thời gian ủ bệnh (thời gian từ khi ăn thịt bò nhiễm bệnh đến lúc phát triển các triệu chứng) là từ 12 đến > 20 năm.
+
+Vào đầu những năm 1980, do các quy định đối với việc chế biến phụ phẩm từ động vật được nới lỏng, nên các mô bị nhiễm bệnh, có thể từ cừu bị nhiễm bệnh scrapie hoặc gia súc mắc bệnh BSE, đã đưa prion protein trâu bò (PrP
+
+Sc
+
+) vào thức ăn gia súc. Hàng trăm ngàn gia súc tiến triển thành bệnh BSE. Mặc dù có sự phơi nhiễm rộng, nhưng rất ít người ăn thịt gia súc bị bệnh tiến triển thành vCJD.
+
+Do thời gian ủ bệnh của BSE rất dài nên mối liên hệ giữa BSE và thức ăn bị nhiễm bệnh không được công nhận ở Vương quốc Anh cho đến khi BSE trở thành một đại dịch. Dịch BSE được kiểm soát sau khi giết hàng loạt gia súc và sau khi thay đổi quy trình chế biến phụ phẩm giết mổ, làm giảm đáng kể sự phơi nhiễm thịt vào mô thần kinh. Tại Vương quốc Anh, số ca mắc vCJD mới hàng năm, đạt đỉnh vào năm 2000, đã giảm đều đặn, chỉ còn 2 ca sau năm 2011.
+
+Bốn trường hợp vCJD có liên quan đến truyền máu; xảy ra ở những người được truyền máu từ năm 1996 đến năm 1999. Ở Vương quốc Anh, khoảng 1/2000 người có thể mang vCJD (dựa trên kết quả xét nghiệm một lượng lớn mẫu mô ruột thừa) nhưng không có triệu chứng (
+
+7
+
+); những người này có thể lây truyền bệnh nếu họ hiến máu hoặc có phẫu thuật. Hiện chưa rõ liệu có một lượng lớn những người đã được truyền máu nhiễm bệnh và những người có nguy cơ tiến triển vCJD sau này hay không. Tuy nhiên, tiêu chuẩn giới thiệu người hiến máu liên quan đến vCJD có thể làm giảm thêm nguy cơ lây truyền vCJD qua truyền máu, vốn đã rất thấp bên ngoài Pháp và Vương quốc Anh.
+
+Mặc dù chưa có trường hợp vCJD nào có nguồn gốc từ Bắc Mỹ được báo cáo, BSE đã được báo cáo ở gia súc Bắc Mỹ (6 ở Hoa Kỳ và 20 ở Canada) [
+
+8
+
+]).
+
+Tài liệu tham khảo
+
+1.
+
+Gambetti P, Kong Q, Zou W, et al
+
+: Sporadic and familial CJD: Classification and characterisation.
+
+Br Med Bull
+
+66(1):213-239, 2003. doi: https://doi.org/10.1093/bmb/66.1.213
+
+2.
+
+Ladogana A, Puopolo M, Croes EA, et al
+
+: Mortality from Creutzfeldt-Jakob disease and related disorders in Europe, Australia, and Canada.
+
+Neurology
+
+64(9):1586-1591, 2005. doi: 10.1212/01.WNL.0000160117.56690.B2
+
+3.
+
+Ritchie DL, Barria MA, Peden, AH, et al
+
+: UK Iatrogenic Creutzfeldt-Jakob disease: Investigating human prion transmission across genotypic barriers using human tissue-based and molecular approaches.
+
+Acta Neuropathol
+
+133(4):579-595, 2017.  doi: 10.1007/s00401-016-1638-x
+
+4.
+
+Crowder LA, Dodd RY, Schonberger LB
+
+: Absence of evidence of transfusion transmission risk of Creutzfeldt-Jakob disease in the United States: Results from a 28-year lookback study.
+
+Transfusion
+
+64(6):980-985, 2024. doi: 10.1111/trf.17837
+
+5.
+
+Cali I, Cohen ML, Haik S, et al
+
+: Iatrogenic Creutzfeldt-Jakob disease with amyloid-β pathology: An international study.
+
+Acta Neuropathol Commun
+
+6(1):5, 2018. doi: 10.1186/s40478-017-0503-z
+
+6.
+
+Variant CJD cases worldwide
+
+: National CJD Research & Surveillance Unit. Dữ liệu chính xác tính đến ngày 7 tháng 5, 2022. Truy cập ngày 18 tháng 10 năm 2022.
+
+7.
+
+Gill ON, Spencer Y, Richard-Loendt A, et al
+
+: Prevalence in Britain of abnormal prion protein in human appendices before and after exposure to the cattle BSE epizootic.
+
+Acta Neuropathol
+
+139(6):965-976, 2020. doi: 10.1007/s00401-020-02153-7
+
+8.
+
+Centers for Disease Control and Prevention (CDC)
+
+: Bệnh não xốp ở bò (BSE). Kể từ ngày 10 tháng 5 năm 2024. Truy cập ngày 24 tháng 6 năm 2024.
+
+Các triệu chứng và dấu hiệu của bệnh Creutzfeldt-Jakob
+
+Hầu hết bệnh nhân mắc bệnh Creutzfeldt-Jakob đều bị mất trí nhớ và lú lẫn, cuối cùng phát triển ở tất cả bệnh nhân (
+
+1
+
+); khoảng một phần tư bệnh nhân bị mất phối hợp và mất điều hòa, thường phát triển ở giai đoạn đầu của bệnh.
+
+Động kinh rung giật cơ
+
+khởi phát bởi tiếng động hoặc các kích thích giác quan khác (giật cơ khi giật mình) thường xuất hiện từ giai đoạn giữa đến giai đoạn cuối của bệnh. Người bị vCJD cũng biểu hiện các triệu chứng tâm thần khác (ví dụ: lo âu, trầm cảm) thay vì mất trí nhớ. Các triệu chứng giai đoạn muộn là tương tự nhau ở cả hai thể.
+
+Mặc dù sa sút trí tuệ, thất điều và giật cơ là những triệu chứng đặc trưng nhất nhưng các bất thường thần kinh khác (ví dụ, ảo giác, động kinh, bệnh thần kinh, các rối loạn vận động khác nhau) có thể xảy ra.
+
+Các rối loạn về mắt (ví dụ, khiếm khuyết của thị trường, song thị, nhìn mờ, mất nhận thức thị giác) tồn tại khá phổ biến ở sCJD.
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+Appleby BS, Appleby KK, Crain BJ, et al
+
+: Characteristics of established and proposed sporadic Creutzfeldt-Jakob disease variants.
+
+Arch Neurol
+
+66(2):208-215, 2009. doi: 10.1001/archneurol.2008.533
+
+Chẩn đoán bệnh Creutzfeldt-Jakob
+
+MRI khuếch tán
+
+Các chất chỉ điểm trong dịch não tủy (CSF)
+
+Phức hợp sóng nhọn tuần hoàn (PSWC) trên điện não đồ (EEG)
+
+Loại trừ các rối loạn khác
+
+Nên cân nhắc chẩn đoán bệnh Creutzfeldt-Jakob ở những bệnh nhân cao tuổi mắc sa sút trí tuệ tiến triển nhanh, đặc biệt nếu đi kèm với rung giật cơ hoặc thất điều. Tuy nhiên, các bệnh lý khác có thể biểu hiện giống CJD và phải được cân nhắc; bao gồm:
+
+Viêm mạch máu ở hệ thần kinh trung ương (CNS)
+
+Bệnh Alzheimer
+
+tiến triển nhanh
+
+Bệnh não Hashimoto (bệnh não tự miễn đặc trưng bởi nồng độ kháng thể tuyến giáp cao và đáp ứng với corticosteroid)
+
+U lympho nội mạch (một loại u lympho hiếm)
+
+Viêm não
+
+ảnh hưởng đến hệ thống viền, thân não và tiểu não
+
+Sa sút trí tuệ thể Lewy
+
+Ngộc độc lithium hoặc bismuth.
+
+CJD được nghi ngờ ở những bệnh nhân trẻ có triệu chứng khi họ tiếp xúc với thịt bò bị nhiễm prion ở Vương quốc Anh hoặc các quốc gia có nguy cơ khác hoặc có tiền sử gia đình mắc CJD (CJD gia đình). Trong một số hiếm các trường hợp, sCJD tiến triển ở những bệnh nhân trẻ, nhưng ở những bệnh nhân này, phải loại trừ các bệnh khác.
+
+Chẩn đoán CJD có thể gặp khó khăn.
+
+Xét nghiệm chẩn đoán không xâm lấn tốt nhất cho CJD là
+
+MRI khuếch tán
+
+Nó có thể phát hiện các vùng tăng cường độ tín hiệu (vùng sáng) đang phát triển ở dải vỏ não và/hoặc hạch nền, điều này gợi ý mạnh mẽ đến bệnh CJD. Chụp ảnh khuếch tán có trọng số (DWI) là chuỗi MRI nhạy cảm nhất để xác định những dấu hiệu này (
+
+1
+
+).
+
+Protein 14-3-3, enolase đặc hiệu não và protein tau thường tăng trong dịch não tủy nhưng không đặc hiệu cho CJD. Xét nghiệm dịch não tủy, được gọi là chuyển đổi cảm ứng rung động thời gian thực (RT-QuIC), khuếch đại và phát hiện lượng hoạt động prion tối thiểu trong dịch não tủy; xét nghiệm này chính xác hơn các xét nghiệm dịch não tủy trước đây, với độ nhạy khoảng 90% và độ đặc hiệu khoảng 99% đối với các bệnh prion (
+
+2
+
+). Một xét nghiệm tương tự có thể phát hiện bằng chứng vCJD một cách tin cậy bằng cách xác định prion trong nước tiểu.
+
+Điện não đồ đôi khi có thể hữu ích trong chẩn đoán. Kết quả dương tính ở khoảng 65% bệnh nhân mắc CJD (
+
+3
+
+); EEG cho thấy sóng nhọn đặc trưng theo chu kỳ, nhưng kiểu hình này thường xuất hiện muộn trong bệnh, có thể thoáng qua và không xảy ra ở mọi trường hợp mắc CJD.
+
+Sinh thiết não thường không cần thiết và chỉ được khuyến khích nếu xem xét các tình trạng khác ngoài bệnh prion.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Bizzi A, Pascuzzo R, Blevins J, et al
+
+: Evaluation of a new criterion for detecting prion disease with diffusion magnetic resonance imaging.
+
+JAMA Neurol
+
+77(9):1141-1149, 2020. doi: 10.1001/jamaneurol.2020.1319
+
+2.
+
+Foutz A, Appleby BS, Hamlin C, et al
+
+: Diagnostic and prognostic value of human prion detection in cerebrospinal fluid.
+
+Ann Neurol
+
+81(1):79-92, 2017. doi: 10.1002/ana.24833
+
+3.
+
+Figgie MP Jr, Appleby BS
+
+: Clinical use of improved diagnostic testing for detection of prion disease.
+
+Viruses
+
+13(5):789, 2021. doi: 10.3390/v13050789
+
+Điều trị bệnh Creutzfeldt-Jakob
+
+Chăm sóc hỗ trợ
+
+Chỉ có điều trị hỗ trợ cho các triệu chứng liên quan đến CJD.
+
+Tiên lượng về bệnh Creutzfeldt-Jakob
+
+Tử vong thường xảy ra trong vòng 6 đến 12 tháng, thường là do viêm phổi. Tuổi thọ của vCJD dài hơn (trung bình 1,5 năm).
+
+Phòng ngừa bệnh Creutzfeldt-Jakob
+
+Vì không có cách điều trị hiệu quả nên phòng ngừa CJD lây truyền rất quan trọng.
+
+Người lao động xử lý chất lỏng và mô từ bệnh nhân nghi ngờ có CJD phải đeo găng tay và tránh tiếp xúc với niêm mạc. Da nhiễm bệnh có thể được khử trùng bằng bôi dung dịch natri hydroxide 4% trong 5 đến 10 phút, sau đó rửa bằng nước.
+
+Nồi hấp hơi 132
+
+°
+
+C trong 1 giờ, ngâm trong dung dịch natri hydroxyd 1 N (bình thường) hoặc dung dịch natri hypochlorit 10% trong 1 giờ được khuyến cáo đối với các dụng cụ tiếp xúc với mô của bệnh nhân nghi ngờ hoặc chẩn đoán xác định CJD. Các phương pháp khử trùng tiêu chuẩn (ví dụ như formalin) không có hiệu quả.
+
+Bộ Nông nghiệp Mỹ (USDA) hiện đang tiến hành giám sát BSE.
+
+Những điểm chính
+
+Bệnh Creutzfeldt-Jakob (CJD) là bệnh prion người thường gặp nhất; thể tản phát chiếm khoảng 85% các trường hợp.
+
+CJD mắc phải, có thể chiếm < 1% số trường hợp CJD, có thể là do ăn phải thịt bò bị nhiễm prion (ở dạng CJD [vCJD]) hoặc có thể mắc phải do nguyên nhân y khoa (ở dạng CJD [iCJD]).
+
+Hầu hết các trường hợp vCJD đã xảy ra ở Vương quốc Anh (178 trường hợp tính đến tháng 5 năm 2022, chỉ có 2 trường hợp kể từ năm 2011); 55 trường hợp đã xảy ra ở tất cả các quốc gia châu Âu và ngoài châu Âu khác tính đến tháng 5 năm 2022.
+
+Hầu hết bệnh nhân mắc CJD đều bị mất trí nhớ và lú lẫn, tình trạng này cuối cùng sẽ xuất hiện ở tất cả bệnh nhân; khoảng 25% số bệnh nhân có biểu hiện mất phối hợp và mất điều hòa.
+
+Cân nhắc chẩn đoán CJD ở những bệnh nhân cao tuổi mắc sa sút trí tuệ tiến triển nhanh, đặc biệt nếu họ có rung giật cơ hoặc thất điều, và nghi ngờ ở những bệnh nhân trẻ có triệu chứng từng có tiền sử phơi nhiễm với thịt bò bị nhiễm prion, hoặc có tiền sử gia đình mắc bệnh CJD.
+
+Thực hiện chụp MRI khuếch tán có trọng số để kiểm tra các vùng tăng cường độ tín hiệu ở dải vỏ não và/hoặc hạch nền, đây là những dấu hiệu gợi ý mạnh mẽ bệnh CJD; đồng thời cân nhắc thực hiện xét nghiệm RT-QuIC trên dịch não tủy.
+
+Tử vong thường xảy ra trong vòng 6 đến 12 tháng, nhưng tuổi thọ của vCJD dài hơn, trung bình 1,5 năm.
+
+Nên hấp tiệt trùng bằng hơi nước hoặc ngâm các dụng cụ bị nhiễm bệnh bằng natri hydroxit hoặc sodium hypochlorite để ngăn ngừa sự lây lan.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh xốp não bán cấp) ---
+
+TheoBrian Appleby,MD,Case Western Reserve UniversityXem xét bởiMichael C. Levin,MD,College of Medicine, University of SaskatchewanĐã xem xét/Đã chỉnh sửaThg 7 2024|đã sửa đổiThg 4 2025v1154948_vi
+
+--- 2. Các triệu chứng và dấu hiệu của bệnh Creutzfeldt-Jakob ---
+
+Hầu hết bệnh nhân mắc bệnh Creutzfeldt-Jakob đều bị mất trí nhớ và lú lẫn, cuối cùng phát triển ở tất cả bệnh nhân (1); khoảng một phần tư bệnh nhân bị mất phối hợp và mất điều hòa, thường phát triển ở giai đoạn đầu của bệnh.Động kinh rung giật cơkhởi phát bởi tiếng động hoặc các kích thích giác quan khác (giật cơ khi giật mình) thường xuất hiện từ giai đoạn giữa đến giai đoạn cuối của bệnh. Người bị vCJD cũng biểu hiện các triệu chứng tâm thần khác (ví dụ: lo âu, trầm cảm) thay vì mất trí nhớ. Các triệu chứng giai đoạn muộn là tương tự nhau ở cả hai thể.Mặc dù sa sút trí tuệ, thất điều và giật cơ là những triệu chứng đặc trưng nhất nhưng các bất thường thần kinh khác (ví dụ, ảo giác, động kinh, bệnh thần kinh, các rối loạn vận động khác nhau) có thể xảy ra.Các rối loạn về mắt (ví dụ, khiếm khuyết của thị trường, song thị, nhìn mờ, mất nhận thức thị giác) tồn tại khá phổ biến ở sCJD.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.Appleby BS, Appleby KK, Crain BJ, et al: Characteristics of established and proposed sporadic Creutzfeldt-Jakob disease variants.Arch Neurol66(2):208-215, 2009. doi: 10.1001/archneurol.2008.533
+
+--- 3. Chẩn đoán bệnh Creutzfeldt-Jakob ---
+
+MRI khuếch tánCác chất chỉ điểm trong dịch não tủy (CSF)Phức hợp sóng nhọn tuần hoàn (PSWC) trên điện não đồ (EEG)Loại trừ các rối loạn khácNên cân nhắc chẩn đoán bệnh Creutzfeldt-Jakob ở những bệnh nhân cao tuổi mắc sa sút trí tuệ tiến triển nhanh, đặc biệt nếu đi kèm với rung giật cơ hoặc thất điều. Tuy nhiên, các bệnh lý khác có thể biểu hiện giống CJD và phải được cân nhắc; bao gồm:Viêm mạch máu ở hệ thần kinh trung ương (CNS)Bệnh Alzheimertiến triển nhanhBệnh não Hashimoto (bệnh não tự miễn đặc trưng bởi nồng độ kháng thể tuyến giáp cao và đáp ứng với corticosteroid)U lympho nội mạch (một loại u lympho hiếm)Viêm nãoảnh hưởng đến hệ thống viền, thân não và tiểu nãoSa sút trí tuệ thể LewyNgộc độc lithium hoặc bismuth.CJD được nghi ngờ ở những bệnh nhân trẻ có triệu chứng khi họ tiếp xúc với thịt bò bị nhiễm prion ở Vương quốc Anh hoặc các quốc gia có nguy cơ khác hoặc có tiền sử gia đình mắc CJD (CJD gia đình). Trong một số hiếm các trường hợp, sCJD tiến triển ở những bệnh nhân trẻ, nhưng ở những bệnh nhân này, phải loại trừ các bệnh khác.Chẩn đoán CJD có thể gặp khó khăn.Xét nghiệm chẩn đoán không xâm lấn tốt nhất cho CJD làMRI khuếch tánNó có thể phát hiện các vùng tăng cường độ tín hiệu (vùng sáng) đang phát triển ở dải vỏ não và/hoặc hạch nền, điều này gợi ý mạnh mẽ đến bệnh CJD. Chụp ảnh khuếch tán có trọng số (DWI) là chuỗi MRI nhạy cảm nhất để xác định những dấu hiệu này (1).Protein 14-3-3, enolase đặc hiệu não và protein tau thường tăng trong dịch não tủy nhưng không đặc hiệu cho CJD. Xét nghiệm dịch não tủy, được gọi là chuyển đổi cảm ứng rung động thời gian thực (RT-QuIC), khuếch đại và phát hiện lượng hoạt động prion tối thiểu trong dịch não tủy; xét nghiệm này chính xác hơn các xét nghiệm dịch não tủy trước đây, với độ nhạy khoảng 90% và độ đặc hiệu khoảng 99% đối với các bệnh prion (2). Một xét nghiệm tương tự có thể phát hiện bằng chứng vCJD một cách tin cậy bằng cách xác định prion trong nước tiểu.Điện não đồ đôi khi có thể hữu ích trong chẩn đoán. Kết quả dương tính ở khoảng 65% bệnh nhân mắc CJD (3); EEG cho thấy sóng nhọn đặc trưng theo chu kỳ, nhưng kiểu hình này thường xuất hiện muộn trong bệnh, có thể thoáng qua và không xảy ra ở mọi trường hợp mắc CJD.Sinh thiết não thường không cần thiết và chỉ được khuyến khích nếu xem xét các tình trạng khác ngoài bệnh prion.Tài liệu tham khảo chẩn đoán1.Bizzi A, Pascuzzo R, Blevins J, et al: Evaluation of a new criterion for detecting prion disease with diffusion magnetic resonance imaging.JAMA Neurol77(9):1141-1149, 2020. doi: 10.1001/jamaneurol.2020.13192.Foutz A, Appleby BS, Hamlin C, et al: Diagnostic and prognostic value of human prion detection in cerebrospinal fluid.Ann Neurol81(1):79-92, 2017. doi: 10.1002/ana.248333.Figgie MP Jr, Appleby BS: Clinical use of improved diagnostic testing for detection of prion disease.Viruses13(5):789, 2021. doi: 10.3390/v13050789
+
+--- 4. Điều trị bệnh Creutzfeldt-Jakob ---
+
+Chăm sóc hỗ trợChỉ có điều trị hỗ trợ cho các triệu chứng liên quan đến CJD.
+
+--- 5. Tiên lượng về bệnh Creutzfeldt-Jakob ---
+
+Tử vong thường xảy ra trong vòng 6 đến 12 tháng, thường là do viêm phổi. Tuổi thọ của vCJD dài hơn (trung bình 1,5 năm).
+
+--- 6. Phòng ngừa bệnh Creutzfeldt-Jakob ---
+
+Vì không có cách điều trị hiệu quả nên phòng ngừa CJD lây truyền rất quan trọng.Người lao động xử lý chất lỏng và mô từ bệnh nhân nghi ngờ có CJD phải đeo găng tay và tránh tiếp xúc với niêm mạc. Da nhiễm bệnh có thể được khử trùng bằng bôi dung dịch natri hydroxide 4% trong 5 đến 10 phút, sau đó rửa bằng nước.Nồi hấp hơi 132°C trong 1 giờ, ngâm trong dung dịch natri hydroxyd 1 N (bình thường) hoặc dung dịch natri hypochlorit 10% trong 1 giờ được khuyến cáo đối với các dụng cụ tiếp xúc với mô của bệnh nhân nghi ngờ hoặc chẩn đoán xác định CJD. Các phương pháp khử trùng tiêu chuẩn (ví dụ như formalin) không có hiệu quả.Bộ Nông nghiệp Mỹ (USDA) hiện đang tiến hành giám sát BSE.
+
+--- 7. Những điểm chính ---
+
+Bệnh Creutzfeldt-Jakob (CJD) là bệnh prion người thường gặp nhất; thể tản phát chiếm khoảng 85% các trường hợp.CJD mắc phải, có thể chiếm < 1% số trường hợp CJD, có thể là do ăn phải thịt bò bị nhiễm prion (ở dạng CJD [vCJD]) hoặc có thể mắc phải do nguyên nhân y khoa (ở dạng CJD [iCJD]).Hầu hết các trường hợp vCJD đã xảy ra ở Vương quốc Anh (178 trường hợp tính đến tháng 5 năm 2022, chỉ có 2 trường hợp kể từ năm 2011); 55 trường hợp đã xảy ra ở tất cả các quốc gia châu Âu và ngoài châu Âu khác tính đến tháng 5 năm 2022.Hầu hết bệnh nhân mắc CJD đều bị mất trí nhớ và lú lẫn, tình trạng này cuối cùng sẽ xuất hiện ở tất cả bệnh nhân; khoảng 25% số bệnh nhân có biểu hiện mất phối hợp và mất điều hòa.Cân nhắc chẩn đoán CJD ở những bệnh nhân cao tuổi mắc sa sút trí tuệ tiến triển nhanh, đặc biệt nếu họ có rung giật cơ hoặc thất điều, và nghi ngờ ở những bệnh nhân trẻ có triệu chứng từng có tiền sử phơi nhiễm với thịt bò bị nhiễm prion, hoặc có tiền sử gia đình mắc bệnh CJD.Thực hiện chụp MRI khuếch tán có trọng số để kiểm tra các vùng tăng cường độ tín hiệu ở dải vỏ não và/hoặc hạch nền, đây là những dấu hiệu gợi ý mạnh mẽ bệnh CJD; đồng thời cân nhắc thực hiện xét nghiệm RT-QuIC trên dịch não tủy.Tử vong thường xảy ra trong vòng 6 đến 12 tháng, nhưng tuổi thọ của vCJD dài hơn, trung bình 1,5 năm.Nên hấp tiệt trùng bằng hơi nước hoặc ngâm các dụng cụ bị nhiễm bệnh bằng natri hydroxit hoặc sodium hypochlorite để ngăn ngừa sự lây lan.

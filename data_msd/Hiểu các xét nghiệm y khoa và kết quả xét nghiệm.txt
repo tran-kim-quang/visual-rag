@@ -1,0 +1,1899 @@
+TIÊU ĐỀ: Hiểu các xét nghiệm y khoa và kết quả xét nghiệm
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/quyết-định-lâm-sàng/hiểu-các-xét-nghiệm-y-khoa-và-kết-quả-xét-nghiệm
+================================================================================
+
+NỘI DUNG:
+
+Hiểu các xét nghiệm y khoa và kết quả xét nghiệm
+
+Theo
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Michael R. Wasserman
+
+,
+
+MD
+
+,
+
+California Association of Long Term Care Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2024
+
+|
+
+đã sửa đổi
+
+Thg 11 2024
+
+v1123930_vi
+
+Xác định kết quả xét nghiệm dương tính
+
+|
+
+Đặc điểm của xét nghiệm
+
+|
+
+Test nhị phân
+
+|
+
+Thử nghiệm liên tục
+
+|
+
+Nguyên lý Bayes
+
+|
+
+Test tuần tự
+
+|
+
+Xét nghiệm sàng lọc
+
+|
+
+Ngưỡng xét nghiệm
+
+|
+
+Kết quả xét nghiệm có thể giúp chẩn đoán ở bệnh nhân có triệu chứng (xét nghiệm chẩn đoán) hoặc xác định bệnh ẩn ở bệnh nhân không có triệu chứng (sàng lọc). Nếu các xét nghiệm được chỉ định phù hợp trên cơ sở biểu hiện lâm sàng, thì bất kỳ kết quả nào cũng sẽ hỗ trợ việc đưa ra hoặc loại trừ các chẩn đoán có thể xảy ra. Kết quả xét nghiệm có thể can thiệp vào quá trình quyết định lâm sàng nếu xét nghiệm phân biệt kém giữa bệnh nhân có và không mắc (các) bệnh nghi ngờ hoặc nếu kết quả xét nghiệm được tích hợp không đúng vào bối cảnh lâm sàng.
+
+Các xét nghiệm trong phòng thí nghiệm là không chính xác tuyệt đối và có thể nhầm lẫn trong việc xác định bệnh ở người khỏe mạnh (kết quả dương tính giả) hoặc xác định người có bệnh là không mắc bệnh (kết quả âm tính giả). Khả năng của xét nghiệm trong việc xác định chính xác bệnh nhân mắc một bệnh phụ thuộc vào khả năng một người mắc bệnh đó (xác suất trước đó) cũng như các đặc điểm hoạt động nội tại của xét nghiệm (
+
+1
+
+).
+
+Mặc dù xét nghiệm chẩn đoán thường góp phần quan trọng vào việc đưa ra quyết định lâm sàng chính xác, xét nghiệm có thể gây ra những hậu quả không mong muốn hoặc không lường trước được. Việc xét nghiệm phải được thực hiện một cách thận trọng và có mục đích, với kỳ vọng rằng kết quả xét nghiệm sẽ làm giảm sự mơ hồ xung quanh các vấn đề của bệnh nhân và góp phần cải thiện sức khỏe của họ. Ngoài nguy cơ cung cấp thông tin không chính xác (do đó làm chậm việc bắt đầu điều trị hoặc gây ra điều trị không cần thiết), các xét nghiệm trong phòng thí nghiệm tiêu tốn nguồn lực hạn chế và bản thân các xét nghiệm này có thể gây ra tác dụng bất lợi (ví dụ: tràn khí màng phổi do sinh thiết phổi) hoặc có thể dẫn đến các xét nghiệm không cần thiết bổ sung hoặc gây căng thẳng cho bệnh nhân.
+
+Kết quả xét nghiệm sàng lọc hoặc chẩn đoán phải được diễn giải trong tình huống lâm sàng cụ thể và trong bối cảnh xét nghiệm ở lần khám ban đầu trước đó.
+
+Tài liệu tham khảo
+
+1.
+
+Armstrong KA, Metlay JP
+
+: Annals Clinical Decision Making: Using a Diagnostic Test.
+
+Ann Intern Med.
+
+2020;172(9):604-609. doi:10.7326/M19-1940
+
+Xác định kết quả xét nghiệm dương tính
+
+Trong số các xét nghiệm, phổ biến nhất là những xét nghiệm cung cấp kết quả theo quy mô liên tục, định lượng (ví dụ: đường huyết, số lượng bạch cầu). Các xét nghiệm này có thể cung cấp thông tin lâm sàng hữu ích trong phạm vi của chúng, nhưng các bác sỹ lâm sàng thường sử dụng chúng để chẩn đoán bệnh bằng cách yêu cầu kết quả được phân loại là dương tính hoặc âm tính (ví dụ có bệnh hoặc không bêjnh) dựa trên so sánh với một số tiêu chuẩn hay điểm cắt. Những điểm cắt như vậy thường được lựa chọn dựa trên phân tích thống kê và khái niệm cố gắng để cân bằng tỷ lệ kết quả dương tính giả (gây ra các xét nghiệm hoặc điều trị không cần thiết, tốn kém và có thể nguy hiểm) và kết quả âm tính giả (không chẩn đoán được bệnh có thể điều trị). Xác định điểm cắt cũng phụ thuộc vào việc liệu có tiêu chuẩn vàng để chẩn đoán xác định bệnh lý đang nghi ngờ hay không.
+
+Thông thường, các kết quả kiểm tra định lượng như vậy (ví dụ, xét nghiệm bạch cầu trong trường hợp nghi ngờ viêm phổi do vi khuẩn) thường được mô tả dưới dạng đường cong phân bố (không nhất thiết phải là đường cong bình thường, mặc dù thường được mô tả như vậy). Sự phân bố các kết quả xét nghiệm cho bệnh nhân được tập trung vào một điểm khác biệt so với người không mắc bệnh. Một số bệnh nhân mắc bệnh sẽ có kết quả rất cao hoặc rất thấp, nhưng hầu hết đều có kết quả trung bình. Ngược lại, một số bệnh nhân không mắc bệnh có kết quả rất cao hoặc rất thấp, nhưng hầu hết đều có kết quả trung bình dựa trên một ý nghĩa khác với bệnh nhân mắc bệnh. Đối với hầu hết các xét nghiệm, các phân bổ chồng chéo nhau sao cho nhiều kết quả xét nghiệm có thể xảy ra ở những bệnh nhân có và không có bệnh; những kết quả như vậy được minh họa rõ ràng hơn khi các đường cong được mô tả trên cùng một biểu đồ (xem hình
+
+Phân bổ kết quả xét nghiệm
+
+). Một số bệnh nhân ở trên và dưới điểm cắt được lựa chọn sẽ được mô tả không chính xác. Điều chỉnh điểm cắt để xác định thêm bệnh nhân mắc bệnh (tăng độ nhạy của xét nghiệm) cũng làm tăng số lượng dương tính giả (độ đặc hiệu kém), và di chuyển điểm cắt theo cách ngược lại sẽ giúp tránh dương tính giả nhưng lại tăng số lượng âm tính giả. Mỗi điểm cắt được kết hợp với xác suất cụ thể của kết quả dương tính và dương tính giả.
+
+Phân bố các kết quả xét nghiệm
+
+Bệnh nhân bị bệnh được thể hiện ở phần phân bố trên; bệnh nhân không bị bệnh được thể hiện ở phân bố dưới. Đối với bệnh nhân bị bệnh, vùng dưới sự phân bố các kết quả nằm ở bên phải (ở trên) điểm cut phù hợp với tỷ lệ dương tính thật của xét nghiệm (nghĩa là độ nhạy của nó); vùng nằm phía bên trái của điểm cut (bên dưới) tương ứng với tỷ lệ âm tính giả. Đối với bệnh nhân không có bệnh, khu vực ở bên phải của điểm cut tương ứng với tỷ lệ dương tính giả, và vùng bên trái tương ứng với tỷ lệ âm tính thật (nghĩa là độ đặc hiệu của nó). Đối với 2 phân bố chồng chéo (ví dụ bệnh nhân có bệnh và không có bệnh), di chuyển điểm cut ảnh hưởng đến độ nhạy và độ đặc hiệu, nhưng theo các hướng ngược lại; việc thay đổi điểm cắt từ 1 đến 2 làm giảm số âm tính giả (tăng độ nhạy) nhưng cũng làm tăng số lượng dương tính giả (giảm độ đặc hiệu).
+
+Đường cong đặc trưng hoạt động của bộ thu nhận (ROC)
+
+Biểu đồ của các kết quả dương tính thực (số dương tính thật/số bị bệnh) so với kết quả dương tính giả (số dương tính giả/số không bị bệnh) với một loạt các điểm cắt tạo ra đường cong ROC. Đường cong ROC mô tả đồ họa sự đánh đổi giữa độ nhạy và độ đặc hiệu khi điểm cắt được điều chỉnh (xem hình
+
+Đường cong đặc trưng hoạt động điển hình của bộ thu nhận (ROC)
+
+). Theo quy ước, phần dương tính thật được đặt trên trục y, và phần dương tính giả được đặt trên trục x. Khu vực dưới đường cong ROC càng lớn, sự phân biệt càng tốt giữa có bệnh hoặc không có bệnh.
+
+Đường cong ROC cho phép các test được so sánh với nhiều điểm cắt. Trong ví dụ, Test A thực hiện tốt hơn Test B trên tất cả các phạm vi. Các đường cong ROC cũng giúp lựa chọn điểm cắt được thiết kế để tối đa hóa tiện ích của xét nghiệm. Nếu một xét nghiệm được thiết kế để xác định một bệnh, điểm cắt với độ đặc hiệu cao hơn và độ nhạy thấp hơn được lựa chọn. Nếu một bài kiểm tra được thiết kế để sàng lọc bệnh, một điểm cắt với độ nhạy cao hơn và độ đặc hiệu thấp hơn được lựa chọn.
+
+Đường cong đặc trưng hoạt động của bộ thu nhận (ROC) thông thường
+
+Đặc điểm của xét nghiệm
+
+Một số biến lâm sàng chỉ có 2 kết quả có thể (ví dụ, sống/chết, có thai/không mang thai); các biến này được gọi là biến phân loại và nhị phân. Các kết quả phân loại khác có thể có nhiều giá trị rời rạc (ví dụ, nhóm máu, thang điểm Glasgow) và được gọi là biến danh mục hoặc thứ hạng. Các biến số danh mục như nhóm máu không có thứ tự đặc biệt. Các biến số thứ hạng như Thang điểm Glasgow Coma có các giá trị rời rạc được sắp xếp theo một thứ tự nhất định. Các biến lâm sàng khác, bao gồm nhiều xét nghiệm chẩn đoán điển hình, liên tục và có vô số các kết quả có thể (ví dụ, số lượng bạch cầu, nồng độ đường huyết). Nhiều bác sĩ lâm sàng chọn một điểm cắt làm biến liên tục chuyển thành biến nhị phân (ví dụ, bệnh nhân có mức đường trong máu lúc đói
+
+>
+
+126 mg/dL [7,0 mmol/L] được xem là có bệnh tiểu đường). Các xét nghiệm chẩn đoán liên tục khác có tiện ích chẩn đoán khi chúng có nhiều điểm cắt hoặc khi phạm vi kết quả có giá trị chẩn đoán khác nhau.
+
+Khi kết quả xét nghiệm có thể được định nghĩa là dương tính hoặc âm tính, tất cả các kết quả có thể có thể được ghi lại trong một bảng đơn giản 2×2 (xem bảng
+
+Phân phối kết quả xét nghiệm giả thuyết
+
+) có thể tính được những đặc tính xét nghiệm phân biệt quan trọng, bao gồm độ nhạy, độ đặc hiệu, giá trị tiên đoán dương và âm, và tỷ lệ xác suất (LR), có thể tính (xem bảng
+
+Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%
+
+).
+
+Bảng
+
+Phân bố kết quả kiểm tra giả thuyết
+
+Bảng
+
+Phân bố kết quả kiểm tra giả thuyết
+
+Phân bố kết quả kiểm tra giả thuyết
+
+Các kết quả
+
+Bệnh có biểu hiện
+
+Bệnh không biểu hiện
+
+Test dương tính
+
+Dương tính thật
+
+Dương tính giả
+
+Test âm tính
+
+Âm tính giả
+
+Âm tính thật
+
+Tổng số bệnh nhân
+
+Tất cả bệnh nhân mắc bệnh
+
+Tất cả bệnh nhân không bị bệnh
+
+Độ nhạy, độ đặc hiệu, và giá trị dự đoán
+
+Độ nhạy và độ đặc hiệu thường được coi là đặc điểm của chính xét nghiệm, không phụ thuộc vào quần thể bệnh nhân.
+
+Độ nhạy
+
+là khả năng bệnh nhân mắc bệnh sẽ có kết quả xét nghiệm dương tính (tỷ lệ dương tính thật).
+
+Vì vậy, một xét nghiệm dương tính ở 8 trong số 10 bệnh nhân mắc bệnh có độ nhạy là 0,8 (cũng được biểu thị bằng 80%). Độ nhạy thể hiện một xét nghiệm phát hiện ra bệnh tốt như thế nào; một xét nghiệm có độ nhạy thấp không xác định được nhiều bệnh nhân bị bệnh và một xét nghiệm có độ nhạy cao rất hữu ích để loại trừ chẩn đoán khi kết quả âm tính. Độ nhạy là sự bổ sung của tỷ lệ âm tính giả (tức là tỷ lệ âm tính giả cộng với độ nhạy
+
+=
+
+100%).
+
+Độ đặc hiệu
+
+là khả năng bệnh nhân không mắc bệnh sẽ có kết quả xét nghiệm âm tính (tỷ lệ âm tính thật).
+
+Do vậy, một xét nghiệm âm tính ở 9 trong số 10 bệnh nhân không mắc bệnh có độ đặc hiệu 0,9 (hoặc 90%). Độ đặc hiệu thể hiện mức độ chính xác trong xác định bệnh của một xét nghiệm vì các xét nghiệm với độ đặc hiệu cao có tỷ lệ dương tính giả thấp. Một xét nghiệm với độ đặc hiệu thấp sẽ làm chẩn đoán nhầm người không bệnh thành người bị bệnh. Đó là sự bổ sung của tỷ lệ dương tính giả.
+
+Các giá trị dự đoán
+
+mô tả hành vi xét nghiệm trong một nhóm bệnh nhân nhất định mà không biết họ có mắc bệnh hay không. Đối với một xét nghiệm nhất định, các giá trị dự đoán thay đổi tùy thuộc vào tỷ lệ hiện hành của bệnh trong quần thể bệnh nhân được xét nghiệm.
+
+Giá trị dự báo dương tính (PPV)
+
+là tỷ lệ bệnh nhân có kết quả xét nghiệm dương tính thực sự bị bệnh.
+
+Do vậy, nếu 9 trong số 10 kết quả kiểm tra dương tính là đúng (dương tính thật), PPV là 90%. Bởi vì tất cả trong số các kết quả xét nghiệm dương tính có một số dương tính thực và một số dương tính giả, PPV mô tả khả năng kết quả xét nghiệm dương tính trong một quần thể bệnh nhân nhất định biểu hiện sự dương tính thật.
+
+Giá trị dự đoán âm tính (NPV)
+
+là tỷ lệ bệnh nhân có kết quả xét nghiệm âm tính nhưng thực sự không có bệnh.
+
+Độ nhạy, độ đặc hiệu và giá trị dự đoán
+
+NPV = giá trị dự đoán âm tính; PPV = giá trị dự đoán dương tính.
+
+Như vậy, nếu 8 trong số 10 kết quả xét nghiệm âm tính là đúng (âm tính thật), NPV là 80%. Vì không phải tất cả các kết quả xét nghiệm âm tính đều là âm tính thật, một số bệnh nhân có kết quả xét nghiệm âm tính nhưng lại mắc bệnh. NPV mô tả khả năng là kết quả xét nghiệm âm tính trong một quần thể bệnh nhân nhất định có xét nghiệm âm tính thật.
+
+Công cụ tính toán lâm sàng
+
+Độ nhạy của xét nghiệm
+
+Công cụ tính toán lâm sàng
+
+Độ đặc hiệu của một xét nghiệm
+
+Công cụ tính toán lâm sàng
+
+Giá trị dự báo dương tính từ dữ liệu thô
+
+Công cụ tính toán lâm sàng
+
+Giá trị dự đoán dương tính của một xét nghiệm
+
+Công cụ tính toán lâm sàng
+
+Giá trị dự báo âm tính từ dữ liệu thô
+
+Công cụ tính toán lâm sàng
+
+Giá trị dự báo âm tính của một xét nghiệm
+
+Tỷ lệ xác suất (LRs)
+
+Không giống như độ nhạy và độ đặc hiệu, không áp dụng cho xác suất bệnh nhân xác định, LR cho phép các bác sĩ lâm sàng giải thích các kết quả xét nghiệm ở một bệnh nhân cụ thể với xác suất trước xét nghiệm của bệnh đã được biết (thường là ước lượng).
+
+LR mô tả sự thay đổi xác suất bệnh trước khi xét nghiệm khi biết kết quả xét nghiệm và trả lời câu hỏi
+
+Xác suất sau xét nghiệm đã thay đổi bao nhiêu so với xác suất trước xét nghiệm bây giờ khi biết kết quả xét nghiệm?
+
+Nhiều xét nghiệm lâm sàng là biến nhị phân; chúng nằm trên điểm cắt (dương tính) hoặc dưới điểm cắt (âm tính) và chỉ có 2 kết quả. Các xét nghiệm khác cho kết quả liên tục hoặc xảy ra trong một phạm vi mà nhiều điểm cắt được chọn. Xác suất thực tế sau xét nghiệm phụ thuộc vào độ lớn của LR (phụ thuộc vào đặc tính vận hành thử nghiệm) và dự đoán xác suất của bệnh. Khi xét nghiệm là biến nhị phân và kết quả là dương tính hoặc âm tính, độ nhạy và độ đặc hiệu có thể được sử dụng để tính LR dương tính (LR
+
++
+
+) hoặc LR âm tính (LR
+
+-
+
+).
+
+LR
+
++
+
+:
+
+Tỉ lệ khả năng kết quả xét nghiệm dương tính xảy ra ở bệnh nhân có bệnh (dương tính thật) với khả năng kết quả dương tính xảy ra ở bệnh nhân không mắc bệnh (dương tính giả)
+
+LR
+
+-
+
+:
+
+Tỷ lệ khả năng kết quả xét nghiệm âm tính xảy ra ở bệnh nhân có bệnh (âm tính giả) với khả năng kết quả xét nghiệm âm tính xảy ra ở bệnh nhân không mắc bệnh (âm tính thật)
+
+Khi kết quả là liên tục hoặc có nhiều điểm cắt, đường cong ROC, chứ không phải độ nhạy và độ đặc hiệu, được sử dụng để tính LR thì LR không còn được mô tả là LR
+
++
+
+hay LR
+
+-
+
+.
+
+Vì LR là một tỷ lệ các sự kiện loại trừ lẫn nhau chứ không phải là một phần của tổng số, nó đại diện cho
+
+tỷ lệ
+
+chứ không phải là xác suất. Đối với một xét nghiệm nhất định, LR khác với kết quả dương tính và âm tính.
+
+Ví dụ, cho kết quả xét nghiệm dương tính, LR là 2,0 cho biết tỷ lệ chênh lệch là 2:1 (dương tính thật:dương tính giả) là kết quả xét nghiệm dương tính đại diện cho bệnh nhân bị bệnh. Trong 3 xét nghiệm dương tính, 2 trường hợp xảy ra ở bệnh nhân có bệnh (dương tính thực) và 1 trường hợp xảy ra ở bệnh nhân không mắc bệnh (dương tính giả). Bởi vì dương tính thực và dương tính giả là thành phần của công thức tính độ nhạy và tính đặc hiệu, LR
+
++
+
+cũng có thể được tính như độ nhạy/(1
+
+−
+
+độ đặc hiệu). LR
+
++
+
+càng lớn, thông tin xét nghiệm dương tính càng có giá trị, một xét nghiệm dương tính có LR
+
++
+
+>
+
+10 được coi là bằng chứng mạnh mẽ ủng hộ chẩn đoán. Nói cách khác, ước tính xác suất bị bệnh trước xét nghiệm sẽ tăng mạnh về hướng 100% khi xét nghiệm dương tính có LR cao
+
++
+
+.
+
+Đối với kết quả xét nghiệm âm tính, LR
+
+-
+
+là 0,25 cho thấy tỷ lệ 1: 4 (âm tính giả: âm tính thật) là kết quả xét nghiệm âm tính đại diện cho một bệnh nhân bị bệnh. Trong 5 kết quả xét nghiệm âm tính, một kết quả sẽ xảy ra trên bệnh nhân có bệnh (âm tính giả) và 4 sẽ xuất hiện ở bệnh nhân không có bệnh (âm tính thật). LR
+
+-
+
+cũng có thể được tính như sau (1
+
+−
+
+độ nhạy/độ đặc hiệu. LR
+
+-
+
+càng nhỏ, giá trị thông tin của xét nghiệm âm tính cung cấp càng lớn, một xét nghiệm với giá trị âm tính có LR
+
+<
+
+0,1 được coi là bằng chứng mạnh mẽ loại trừ chẩn đoán. Nói cách khác, ước tính xác suất mắc bệnh trước xét nghiệm sẽ gần bằng 0% khi xét nghiệm âm tính có LR- thấp
+
+-
+
+.
+
+Kết quả xét nghiệm với LRs là 1,0 không mang thông tin và không thể ảnh hưởng đến xác suất mắc bệnh trước test.
+
+LRs thuận tiện cho việc so sánh cáctest và cũng được sử dụng trong
+
+Phân tích Bayesian
+
+để diễn giải kết quả xét nghiệm. Độ nhạy và độ đặc hiệu khi điểm cắt thay đổi, LRs cũng thế. Một ví dụ giả định, ngưỡng cao cho số lượng tế bào bạch cầu (WBC) (ví dụ: 30.000/mcL) trong trường hợp viêm ruột thừa cấp có thủng có thể đặc hiệu hơn và sẽ có LR
+
++
+
+cao nhưng cũng có LR
+
+-
+
+cao (và do đó không cung cấp nhiều thông tin); việc chọn ngưỡng thấp hơn nhiều và rất nhạy (ví dụ: 12.000/mcL) sẽ có LR
+
+-
+
+thấp nhưng cũng có LR
+
++
+
+thấp hơn.
+
+Công cụ tính toán lâm sàng
+
+LR MultiCalc
+
+Công cụ tính toán lâm sàng
+
+Tỷ lệ xác suất của các dữ liệu thô
+
+Công cụ tính toán lâm sàng
+
+Tỷ lệ xác suất dương tính từ dữ liệu thô
+
+Test nhị phân
+
+Một test nhị phân lý tưởng sẽ không có kết quả sai hoặc âm tính giả; tất cả các bệnh nhân có kết quả xét nghiệm dương tính sẽ bị bệnh (100% PPV) và tất cả bệnh nhân có kết quả âm tính sẽ không mắc bệnh (100% NPV).
+
+Trên thực tế, tất cả các xét nghiệm đều có dương tính giả và âm tính giả, một số xét nghiệm có tỷ lệ âm tính giả và dương tính gỉa nhiều hơn những xét nghiệm khác. Để minh họa hậu quả của độ nhạy và độ đặc hiệu không hoàn hảo của kết quả xét nghiệm, hãy xem xét kết quả giả thuyết (xem bảng
+
+Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%
+
+) của xét nghiệm men esterase bạch cầu qua que nhúng nước tiểu trong một nhóm thuần tập 1000 phụ nữ, trong đó 300 (30%) có nhiễm trùng đường tiết niệu (UTI, là chẩn đoán xác định bằng tiêu chuẩn vàng là nuôi cấy nước tiểu). Giả định rằng test que nhúng có độ nhạy là 71% và độ đặc hiệu là 85%.
+
+Độ nhạy 71% có nghĩa là chỉ có 213 (71% trong số 300) phụ nữ
+
+có
+
+UTI sẽ có kết quả test dương tính. 87 người còn lại sẽ có kết quả test âm tính. Độ đặc hiệu 85% có nghĩa là 595 (85% của 700) phụ nữ
+
+không có
+
+UTI sẽ có kết quả xét nghiệm âm tính. 105 trường còn lại sẽ có kết quả test dương tính. Do đó, trong 213
+
++
+
+115
+
+=
+
+318 kết quả kiểm tra dương tính, chỉ có 213 là chính xác (213/318
+
+=
+
+67% PPV); test dương tính làm chẩn đoán UTI chính xác hơn không nhưng không chắc chắn. Cũng có 87
+
++
+
+595
+
+=
+
+682 trường hợp âm tính, trong đó 595 là âm tính thật (595/682
+
+=
+
+87% NPV), những trường hợp này ít khả năng là UTI nhưng không phải là không thể, 13% bệnh nhân có kết quả test âm tính nhưng có UTI.
+
+Bảng
+
+Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%
+
+Bảng
+
+Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%
+
+Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%
+
+Các kết quả
+
+Bệnh có biểu hiện
+
+Bệnh không biểu hiện
+
+Tổng số bệnh nhân
+
+Test dương tính
+
+Dương tính thật (TP)
+
+213 bệnh nhân (71% trong số 300)
+
+Dương tính giả (FP)
+
+105 bệnh nhân (700
+
+−
+
+595)
+
+318 bệnh nhân có kết quả dương tính
+
+Test âm tính
+
+Âm tính giả (FN)
+
+87 bệnh nhân (300
+
+−
+
+213)
+
+Âm tính thật (TN)
+
+595 bệnh nhân (85% trong số 700)
+
+682 bệnh nhân có kết quả âm tính
+
+Tổng số bệnh nhân
+
+300 bệnh nhân mắc UTI (giả định)
+
+700 bệnh nhân không mắc UTI (giả định)
+
+1000 bệnh nhân
+
+Giá trị dự đoán dương tính (PPV)
+
+=
+
+TP/(tất cả bệnh nhân có kết quả dương tính)
+
+=
+
+TP/(TP
+
++
+
+FP)
+
+=
+
+213/(213
+
++
+
+105)
+
+=
+
+67%.
+
+Giá trị dự đoán âm tính (NPV)
+
+=
+
+TN/(tất cả bệnh nhân có kết quả âm tính)
+
+=
+
+TN/(TN
+
++
+
+FN)
+
+=
+
+595/(595
+
++
+
+87)
+
+=
+
+87%.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+4,73.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+0,34.
+
+UTI = Nhiễm trùng đường tiết niệu
+
+Giá trị dự đoán dương tính (PPV)
+
+=
+
+TP/(tất cả bệnh nhân có kết quả dương tính)
+
+=
+
+TP/(TP
+
++
+
+FP)
+
+=
+
+213/(213
+
++
+
+105)
+
+=
+
+67%.
+
+Giá trị dự đoán âm tính (NPV)
+
+=
+
+TN/(tất cả bệnh nhân có kết quả âm tính)
+
+=
+
+TN/(TN
+
++
+
+FN)
+
+=
+
+595/(595
+
++
+
+87)
+
+=
+
+87%.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+4,73.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+0,34.
+
+UTI = Nhiễm trùng đường tiết niệu
+
+Tuy nhiên, PPV và NPVs xuất phát từ nhóm bệnh nhân thuần tập này không thể được sử dụng để giải thích kết quả của cùng một thử nghiệm khi tỷ lệ mắc bệnh cơ bản (thử nghiệm trước hoặc xác suất trước) là khác nhau. Lưu ý tác động của việc thay đổi tỷ lệ mắc bệnh thành 5% (xem bảng
+
+Phân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%
+
+). Hiện nay hầu hết các kết quả dương tính là sai, PPV chỉ 20%; một bệnh nhân có kết quả dương tính có nghĩa là có nhiều khả năng
+
+không
+
+mắc UTI. Tuy nhiên, NPV hiện nay rất cao (98%); một kết quả âm tính về cơ bản loại trừ UTI.
+
+Bảng
+
+Phân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%
+
+Bảng
+
+Phân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%
+
+Phân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%
+
+Các kết quả
+
+Bệnh có biểu hiện
+
+Bệnh không biểu hiện
+
+Tổng số bệnh nhân
+
+Test dương tính
+
+Dương tính thật (TP)
+
+36 bệnh nhân (71% trong số 50)
+
+Dương tính giả (FP)
+
+144 bệnh nhân (950
+
+−
+
+806)
+
+180 bệnh nhân xét nghiệm dương tính
+
+Test âm tính
+
+Âm tính giả (FN)
+
+14 bệnh nhân (50
+
+−
+
+36)
+
+Âm tính thật (TN)
+
+806 bệnh nhân (85% của 950)
+
+820 bệnh nhân với xét nghiệm âm tính
+
+Tổng số bệnh nhân
+
+50 bệnh nhân mắc UTI (giả định)
+
+950 bệnh nhân không có UTI (giả định)
+
+1000 bệnh nhân
+
+Giá trị dự đoán dương tính (PPV)
+
+=
+
+TP/(tất cả đều có kết quả dương tính)
+
+=
+
+TP/(TP
+
++
+
+FP)
+
+=
+
+36/(36
+
++
+
+144)
+
+=
+
+20%.
+
+Giá trị tiên đoán âm tính (NPV)
+
+=
+
+TN/(tất cả đều có kết quả âm tính)
+
+=
+
+TN/(TN
+
++
+
+FN)
+
+=
+
+806/(806
+
++
+
+14)
+
+=
+
+98%.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+4,73.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+0,34.
+
+UTI = Nhiễm trùng đường tiết niệu
+
+Giá trị dự đoán dương tính (PPV)
+
+=
+
+TP/(tất cả đều có kết quả dương tính)
+
+=
+
+TP/(TP
+
++
+
+FP)
+
+=
+
+36/(36
+
++
+
+144)
+
+=
+
+20%.
+
+Giá trị tiên đoán âm tính (NPV)
+
+=
+
+TN/(tất cả đều có kết quả âm tính)
+
+=
+
+TN/(TN
+
++
+
+FN)
+
+=
+
+806/(806
+
++
+
+14)
+
+=
+
+98%.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+4,73.
+
+Tỷ lệ xác suất âm tính (LR
+
+-
+
+)
+
+=
+
+(1
+
+−
+
+độ nhạy/độ đặc hiệu
+
+=
+
+(1
+
+−
+
+0,71)/0,85
+
+=
+
+0,34.
+
+UTI = Nhiễm trùng đường tiết niệu
+
+Lưu ý rằng trong cả hai nhóm bệnh nhân, mặc dù PPV và NPV rất khác nhau, LRs không thay đổi vì LRs chỉ được xác định bởi độ nhạy và độ đặc hiệu của xét nghiệm.
+
+Rõ ràng, kết quả xét nghiệm không đưa ra chẩn đoán xác định mà chỉ ước tính xác suất mắc bệnh có hoặc không, và xác suất sau xét nghiệm (khả năng mắc bệnh cho kết quả xét nghiệm cụ thể) khác nhau rất nhiều dựa trên xác suất trước bệnh cũng như độ nhạy và độ đặc hiệu của xét nghiệm (và do đó là LR).
+
+Công cụ tính toán lâm sàng
+
+Độ nhạy và tỷ lệ âm tính giả
+
+Công cụ tính toán lâm sàng
+
+Độ đặc hiệu và tỉ lệ âm tính giả
+
+Xác xuất trước test
+
+Xác suất trước test không phải là phép đo chính xác; nó dựa trên sự đánh giá lâm sàng về mức độ các triệu chứng cơ năng và thực thể cho thấy bệnh này có mặt, những yếu tố nào trong tiền sử bệnh nhân hỗ trợ chẩn đoán và căn bệnh phổ biến như thế nào. Nhiều thang điểm đánh giá lâm sàng được thiết kế để ước lượng xác suất trước test; thêm điểm cho các tính năng lâm sàng khác nhau tạo điều kiện cho việc tính điểm. Những ví dụ minh hoạ tầm quan trọng của ước tính chính xác xác suất trước test vì tỷ lệ bệnh trong quần thể được xem xét ảnh hưởng đáng kể tới tính tối ưu của xét nghiệm. Cần sử dụng các công cụ ước tính tỷ lệ phổ biến đã công bố hợp lệ khi chúng có sẵn. Ví dụ, có các tiêu chí để
+
+dự đoán xác suất trước test của tắc mạch phổi.
+
+Các điểm tính toán cao hơn mang lại các xác suất ước lượng cao hơn. Trên thực tế, việc xác định xác suất trước khi kiểm tra được hỗ trợ bởi thông tin khách quan, nhưng cũng có thể bị ảnh hưởng bởi kỹ năng và kinh nghiệm của bác sĩ lâm sàng.
+
+Thử nghiệm liên tục
+
+Nhiều kết quả xét nghiệm thể hiện dưới dạng biến liên tục và có thể cung cấp thông tin lâm sàng hữu ích. Bác sỹ lâm sàng thường chọn một điểm cắt cụ thể để tối ưu hóa xét nghiệm. Ví dụ, số lượng bạch cầu (WBC)
+
+>
+
+15.000/mcL có thể được coi là dương tính; giá trị
+
+<
+
+15.000/mcL là âm tính. Khi một xét nghiệm mang lại kết quả liên tục nhưng có điểm cắt nhất định, nó được thể hiện dưới dạng biến nhị phân. Xét nghiệm cũng có thể chọn ra nhiều điểm cắt. Độ nhạy, độ đặc hiệu, PPV, NPV, LR
+
++
+
+, và LR
+
+-
+
+có thể được tính cho một hoặc nhiều điểm cắt. Bảng
+
+Hiệu quả của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi ngờ bị viêm ruột thừa
+
+minh hoạ ảnh hưởng của việc thay đổi điểm cắt của số WBC ở bệnh nhân nghi viêm ruột thừa.
+
+Bảng
+
+Ảnh hưởng của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi viêm ruột thừa
+
+Bảng
+
+Ảnh hưởng của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi viêm ruột thừa
+
+Ảnh hưởng của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi viêm ruột thừa
+
+WBC Cutoff*
+
+Độ nhạy
+
+Độ đặc hiệu
+
+LR+
+
+LR-
+
+>
+
+10.500
+
+84%
+
+53,13%
+
+1,79
+
+0,3
+
+>
+
+11.500
+
+78%
+
+62,5%
+
+2,13
+
+0,32
+
+>
+
+12.850
+
+68%
+
+75%
+
+2,72
+
+0,43
+
+>
+
+13.400
+
+61,33%
+
+78,12%
+
+2,86
+
+0,45
+
+>
+
+14.300
+
+56,67%
+
+81,25%
+
+3,2
+
+0,49
+
+* Nhiều điểm cắt khác nhau được chọn cho một biến liên tục như là số lượng WBC; kết quả trên điểm cắt được coi là dương tính và kết quả dưới điểm cắt được coi là âm tính. Các giá trị được liệt kê là mỗi microlit máu.
+
+LR
+
+=
+
+tỷ lệ khả năng xảy ra; WBC = bạch cầu.
+
+Theo Keskek M, Tez M, Yoldas O, et al: Đặc điểm của số lượng bạch cầu trên bệnh nhân nghi viêm ruột thừa.
+
+American Journal of Emergency Medicine
+
+26:769–772, 2008.
+
+* Nhiều điểm cắt khác nhau được chọn cho một biến liên tục như là số lượng WBC; kết quả trên điểm cắt được coi là dương tính và kết quả dưới điểm cắt được coi là âm tính. Các giá trị được liệt kê là mỗi microlit máu.
+
+LR
+
+=
+
+tỷ lệ khả năng xảy ra; WBC = bạch cầu.
+
+Theo Keskek M, Tez M, Yoldas O, et al: Đặc điểm của số lượng bạch cầu trên bệnh nhân nghi viêm ruột thừa.
+
+American Journal of Emergency Medicine
+
+26:769–772, 2008.
+
+Ngoài ra, việc kết hợp các kết quả thể hiện dưới dạng biến liên tục vào các mức độ khác nhau tỏ ra khá hữu ích. Trong trường hợp này, các kết quả không được đặc trưng là dương tính hoặc âm tính vì có nhiều ngưỡng kết quả, vì vậy mặc dù có thể xác định LR cho từng ngưỡng kết quả, sẽ không còn việc phân biệt LR
+
++
+
+hay LR
+
+-
+
+nữa. Ví dụ, bảng
+
+Sử dụng các Nhóm Đếm số lượng bạch cầu để Xác định Tỷ lệ Khả năng Nhiễm khuẩn huyết ở Trẻ em sốt
+
+minh hoạ mối tương quan giữa số lượng bạch cầu và tình trạng nhiễm khuẩn ở trẻ sốt. Bởi vì LR là xác suất của một kết quả nhất định ở bệnh nhân bị bệnh chia cho xác suất của kết quả đó ở những bệnh nhân không mắc bệnh, LR cho mỗi nhóm số lượng bạch cầu là xác suất nhiễm khuẩn trong nhóm đó chia cho xác suất không nhiễm khuẩn huyết.
+
+Bảng
+
+Sử dụng kết quả phân nhóm số lượng bạch cầu để xác định tỷ lệ xác suất nhiễm khuẩn ở trẻ sốt*
+
+Bảng
+
+Sử dụng kết quả phân nhóm số lượng bạch cầu để xác định tỷ lệ xác suất nhiễm khuẩn ở trẻ sốt*
+
+Sử dụng kết quả phân nhóm số lượng bạch cầu để xác định tỷ lệ xác suất nhiễm khuẩn ở trẻ sốt*
+
+Số lượng bạch cầu
+
+Số trẻ bị nhiễm khuẩn huyết, n = 127 (%)
+
+Số trẻ không bị nhiễm khuẩn huyết, N = 8629 (%)
+
+LR (% có nhiễm khuẩn huyết/% không có nhiễm khuẩn huyết)
+
+0–5000
+
+0 (0,0%)
+
+543 (6,3%)
+
+0,00
+
+5.001–10.000
+
+3 (2,4%)
+
+3291 (38,1%)
+
+0,06
+
+10.001–15.000
+
+15 (11,8%)
+
+2767 (32,1%)
+
+0,37
+
+15.001–20.000
+
+48 (37,8%)
+
+1337 (15,5%)
+
+2,4
+
+20.001–25.000
+
+34 (26,8%)
+
+469 (5,4%)
+
+4,9
+
+25.001–30.000
+
+12 (9,4%)
+
+155 (1,8%)
+
+5,3
+
+>
+
+30.001
+
+15 (11,8%)
+
+67 (0,8%)
+
+15,2
+
+* Tỷ lệ bị vãng khuẩn huyết ở 8756 trẻ em sốt được phân nhóm theo số lượng bạch cầu (các giá trị được liệt kê là trên mỗi microlit máu). LR cho mỗi nhóm được tính bằng cách chia xác suất nhiễm khuẩn huyết do xác suất không nhiễm khuẩn huyết.
+
+LR
+
+=
+
+tỷ lệ khả năng xảy ra; WBC = bạch cầu.
+
+Theo Lee GM, Harper MB: Nguy cơ nhiễm khuẩn ở trẻ nhỏ sốt ở giai đoạn sau sinh,
+
+Haemophilus influenzae
+
+type b.
+
+Archives of Pediatric and Adolescent Medicine
+
+152:624–628, 1998.
+
+* Tỷ lệ bị vãng khuẩn huyết ở 8756 trẻ em sốt được phân nhóm theo số lượng bạch cầu (các giá trị được liệt kê là trên mỗi microlit máu). LR cho mỗi nhóm được tính bằng cách chia xác suất nhiễm khuẩn huyết do xác suất không nhiễm khuẩn huyết.
+
+LR
+
+=
+
+tỷ lệ khả năng xảy ra; WBC = bạch cầu.
+
+Theo Lee GM, Harper MB: Nguy cơ nhiễm khuẩn ở trẻ nhỏ sốt ở giai đoạn sau sinh,
+
+Haemophilus influenzae
+
+type b.
+
+Archives of Pediatric and Adolescent Medicine
+
+152:624–628, 1998.
+
+Việc nhóm các biến liên tục cho phép các kết quả xét nghiệm được sử dụng nhiều hơn khi thiết lập một điểm cắt duy nhất. Sử dụng các phân tích Bayes, các LRs trong bảng
+
+Sử dụng các nhóm đếm bạch cầu để xác định tỷ lệ mắc bệnh ở trẻ sốt
+
+có thể được sử dụng để tính toán xác suất sau thử nghiệm.
+
+Để có kết quả kiểm tra liên tục, nếu đã biết đường cong ROC, không cần thực hiện các phép tính toán như trong
+
+bảng
+
+; các giá trị LRS có thể được tìm thấy trên các điểm khác nhau trên phạm vi kết quả bằng cách sử dụng độ dốc của đường cong ROC tại điểm mong muốn.
+
+Nguyên lý Bayes
+
+Quá trình sử dụng xác suất trước test của bệnh và các đặc tính của test để xác định xác suất sau test được gọi là định lý Bayes hoặc định lý Bayesian sửa đổi. Đối với thực hành lâm sàng thường quy, phương pháp Bayesian thường có nhiều dạng:
+
+Định dạng tỷ lệ xác suất (tính toán hoặc dạng biểu đồ)
+
+Cách tiếp cận theo dạng bảng
+
+Tính toán tỷ lệ xác suất
+
+Nếu xác suất trước test của bệnh được thể hiện bằng tỷ lệ của nó và vì LR của một test đại diện cho tỷ lệ, sản phẩm của 2 đại diện cho tỷ lệ mắc bệnh sau khi kiểm tra (tương tự như nhân 2 xác suất với nhau để tính xác suất xảy ra đồng thời là 2 sự kiện):
+
+Tỷ lệ sác xuất trước test
+
+×
+
+LR
+
+=
+
+tỷ lệ xác suất sau test
+
+Bởi vì các bác sĩ lâm sàng thường nghĩ về xác suất chứ không phải là tỷ lệ, xác suất có thể được chuyển đổi thành tỷ lệ (và ngược lại) với các công thức sau:
+
+Tỷ lệ
+
+=
+
+xác suất/1
+
+−
+
+xác suất
+
+Xác suất
+
+=
+
+tỷ lệ/tỷ lệ
+
++
+
+1
+
+Hãy xem xét ví dụ về nhiễm trùng đường tiết niệu (UTI) như được đưa ra trong bảng
+
+Phân bố kết quả xét nghiệm của xét nghiệm esterase bạch cầu giả định trong nhóm 1.000 phụ nữ với tỷ lệ hiện mắc UTI được cho là 30%
+
+, trong đó xác suất UTI trước khi xét nghiệm là 0,3 và xét nghiệm được sử dụng có LR
+
++
+
+là 4,73 và LR
+
+-
+
+là 0,34. Xác xuất trước test là 0,3 tương ứng với tỷ lệ là 0,3/(1
+
+−
+
+0,3)
+
+=
+
+0,43. Do đó, tỷ lệ sau test UTI xuất hiện ở bệnh nhân có kết quả xét nghiệm dương tính kết quả nhân tỷ lệ trước test với LR
+
++
+
+; 4,73
+
+×
+
+0,43
+
+=
+
+2,03, đại diện cho một xác suất sau test 2,03/(1
+
++
+
+2,03)
+
+=
+
+0,67. Do đó, tính toán của Bayes cho thấy một kết quả test dương tính làm tăng xác suất trước test từ 30% lên 67%, kết quả tương tự thu được trong tính toán PPV ở trong
+
+bảng.
+
+Một phép tính tương tự được thực hiện cho một xét nghiệm âm tính; tỷ lệ sau test
+
+=
+
+0,34
+
+×
+
+0,43
+
+=
+
+0,15, tương ứng với xác suất là 0,15/(1
+
++
+
+0,15)
+
+=
+
+0,13. Do đó, kết quả xét nghiệm âm tính làm giảm xác suất trước test từ 30% xuống 13%, một lần nữa kết quả tương tự thu được trong tính toán NPV trong
+
+bảng.
+
+Nhiều chương trình máy tính y khoa chạy trên thiết bị cầm tay có sẵn để tính toán xác suất sau test từ xác suất trước test và LRs.
+
+Công cụ tính toán lâm sàng
+
+Tỷ lệ từ Xác suất
+
+Công cụ tính toán lâm sàng
+
+Xác suất từ Tỷ lệ
+
+Công cụ tính toán lâm sàng
+
+Thống kê Bayesian I MultiCalc
+
+Công cụ tính toán lâm sàng
+
+Thống kê Bayesian II MultiCalc
+
+Toán đồ tỷ lệ xác suất
+
+Việc sử dụng toán đồ là đặc biệt thuận tiện vì nó tránh được việc chuyển đổi giữa tỉ lệ và xác suất hoặc tạo ra bảng 2
+
+×
+
+2.
+
+Để sử dụng
+
+Biểu đồ Fagan
+
+, một đường thẳng được vẽ từ xác suất tiền kiểm tra qua LR. Xác suất sau test là điểm mà tại đó đường này cắt đường xác suất sau test. Các đường minh họa được vẽ bằng cách sử dụng dữ liệu từ xét nghiệm UTI trong bảng
+
+Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%
+
+. Đường A đại diện cho một kết quả test dương tính; được vẽ từ một xác suất trước test là 0,3 qua một LR
+
++
+
+là 4,73 dẫn đến gái trị sau test hơi
+
+<
+
+0,7 tương đương với xác suất tính là 0,67. Đường B đại diện cho một kết quả test âm tính; nó vẽ từ xác suất trước test là 0,3 qua LR
+
+-
+
+là 0,34 và cho một giá trị sau test
+
+>
+
+0,1; tương đương với xác suất tính là 13%.
+
+Mặc dù toán đồ xuất hiện ít chính xác hơn so với tính toán, các giá trị tiêu biểu cho xác suất trước test thường là ước lượng, do đó sự chính xác rõ ràng của phép tính thường gây hiểu nhầm.
+
+Biểu đồ Fagan
+
+Các đường minh họa được vẽ bằng cách sử dụng dữ liệu từ xét nghiệm nhiễm trùng đường tiết niệu (UTI) trong bảng
+
+Phân bố kết quả xét nghiệm của Xét nghiệm Esterase bạch cầu giả định trong nhóm 1.000 phụ nữ với tỷ lệ hiện mắc UTI được cho là 30%
+
+. Đường A đại diện cho một kết quả test dương tính, được vẽ từ một xác suất trước test là 0,3 qua một LR
+
++
+
+là 4,73 dẫn đến gái trị sau test hơi
+
+<
+
+0,7 tương đương với xác suất tính là 0,67. Đường B đại diện cho kết quả test âm tính được vẽ từ xác suất trước test là 0,3 qua LR
+
+-
+
+là 0,34 dãn đến giá trị sau test
+
+>
+
+0,1, tương đương với xác suất tính là 13%.
+
+LR
+
++
+
+=
+
+tỷ lệ xác suất kết quả dương tính; LR
+
+-
+
+=
+
+LR cho một kết quả âm tính.
+
+Theo Fagan TJ. Thư: Toán đồ định lý Bayes.
+
+New England Journal of Medicine
+
+293:257, 1975.
+
+Cách tiếp cận theo dạng bảng
+
+LR của một test thường không được biết, nhưng độ nhạy và độ đặc hiệu được biết, và có thể ước tính được xác suất trước test. Trong trường hợp này, có thể thực hiện phương pháp Bayes bằng cách sử dụng bảng 2×2 như minh họa trong bảng
+
+Diễn giải kết quả xét nghiệm bạch cầu giả thuyết (LE)
+
+bằng cách sử dụng ví dụ từ bảng
+
+Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ UTI Giả định là 30%
+
+. Lưu ý rằng phương pháp này cho thấy kết quả xét nghiệm dương tính làm tăng khả năng UTI lên 67%, và kết quả âm tính làm giảm 13%, kết quả tương tự thu được bằng cách tính LRs.
+
+Bảng
+
+Diễn giải kết quả xét nghiệm Esterase Leukocyte giả định trong quần thể thuần tập 1000 phụ nữ với tỉ lệ hiện mắc UTI giả định là 30%, độ nhạy 71% và độ đặc hiệu 85%*
+
+Bảng
+
+Diễn giải kết quả xét nghiệm Esterase Leukocyte giả định trong quần thể thuần tập 1000 phụ nữ với tỉ lệ hiện mắc UTI giả định là 30%, độ nhạy 71% và độ đặc hiệu 85%*
+
+Diễn giải kết quả xét nghiệm Esterase Leukocyte giả định trong quần thể thuần tập 1000 phụ nữ với tỉ lệ hiện mắc UTI giả định là 30%, độ nhạy 71% và độ đặc hiệu 85%*
+
+Các kết quả
+
+Mắc UTI
+
+Không mắc UTI
+
+300 bệnh nhân mắc UTI
+
+700 bệnh nhân không bị UTI
+
+Test LE dương tính
+
+213 bệnh nhân (TP)
+
+105 bệnh nhân (FP)
+
+Test LE âm tính
+
+87 bệnh nhân (FN)
+
+595 bệnh nhân (TN)
+
+* Định lý Bayes có thể được đơn giản hóa để cho phép tính toán xác suất sau test khi xác suất trước test đã biết:
+
+Xác suất sau test khi test dương tính
+
+=
+
+TP/(tất cả bệnh nhân có kết quả dương tính)
+
+=
+
+TP/(TP
+
++
+
+FP)
+
+=
+
+213/(213
+
++
+
+105)
+
+=
+
+67%.
+
+Xác suất sau test khi test âm tính
+
+=
+
+TN/(tất cả bệnh nhân có kết quả âm tính)
+
+=
+
+FN/(FN
+
++
+
+TN)
+
+=
+
+87/(87
+
++
+
+595)
+
+=
+
+13%.
+
+FN
+
+=
+
+âm tính giả; FP
+
+=
+
+dương tính giả; TN
+
+=
+
+âm tính thật; TP
+
+=
+
+dương tính thật; UTI = nhiễm trùng đường tiết niệu.
+
+* Định lý Bayes có thể được đơn giản hóa để cho phép tính toán xác suất sau test khi xác suất trước test đã biết:
+
+Xác suất sau test khi test dương tính
+
+=
+
+TP/(tất cả bệnh nhân có kết quả dương tính)
+
+=
+
+TP/(TP
+
++
+
+FP)
+
+=
+
+213/(213
+
++
+
+105)
+
+=
+
+67%.
+
+Xác suất sau test khi test âm tính
+
+=
+
+TN/(tất cả bệnh nhân có kết quả âm tính)
+
+=
+
+FN/(FN
+
++
+
+TN)
+
+=
+
+87/(87
+
++
+
+595)
+
+=
+
+13%.
+
+FN
+
+=
+
+âm tính giả; FP
+
+=
+
+dương tính giả; TN
+
+=
+
+âm tính thật; TP
+
+=
+
+dương tính thật; UTI = nhiễm trùng đường tiết niệu.
+
+Test tuần tự
+
+Các bác sĩ thường làm các xét nghiệm theo trình tự trong nhiều lần đánh giá chẩn đoán. Nếu đã biết tỉ lệ trước test khi test tuần tự và LR cho mỗi test theo trình tự, tỷ lệ sau test có thể được tính theo công thức sau:
+
+Số chênh trước xét nghiệm
+
+×
+
+LR1
+
+×
+
+LR2
+
+×
+
+LR3
+
+=
+
+số chênh sau xét nghiệm
+
+Phương pháp này gặp giới hạn bởi giả thiết cho rằng mỗi test đều có điều kiện độc lập với nhau.
+
+Xét nghiệm sàng lọc
+
+Bệnh nhân thường phải cân nhắc có nên sàng lọc một bệnh lý tiềm ẩn hay không. Cơ sở của một chương trình sàng lọc thành công là việc phát hiện sớm cải thiện kết quả đáng kể về mặt lâm sàng ở những bệnh nhân mắc bệnh ẩn và kết quả dương tính giả có thể xảy ra trong quá trình sàng lọc không tạo ra gánh nặng (ví dụ: chi phí và tác dụng bất lợi của xét nghiệm có tính khẳng định, kích thích lo lắng do xét nghiệm, điều trị không đảm bảo) vượt quá lợi ích đó. Để giảm thiểu những gánh nặng có thể xảy ra này, bác sĩ lâm sàng phải chọn xét nghiệm sàng lọc thích hợp. Việc sàng lọc có thể không phù hợp khi các biện pháp điều trị hoặc phòng ngừa không hiệu quả, trừ khi chẩn đoán có thể ảnh hưởng đến các quyết định trong tương lai của bệnh nhân hoặc gia đình họ. Nếu bệnh rất hiếm gặp, trừ khi có thể xác định được một quần thể phụ có tỷ lệ hiện mắc bệnh cao hơn, việc sàng lọc có thể không hiệu quả về mặt chi phí; có một số trường hợp ngoại lệ, chẳng hạn như một số rối loạn di truyền có thể được chẩn đoán và điều trị ở trẻ sơ sinh.
+
+Về mặt lý thuyết, xét nghiệm tốt nhất cho cả sàng lọc và chẩn đoán là xét nghiệm có độ nhạy cao nha
+
+và
+
+độ đặc hiệu cao nhất. Tuy nhiên, các xét nghiệm chính xác cao như vậy thường phức tạp, tốn kém, và mang tính xâm lấn cao (ví dụ, chụp mạch vành), do đó, không mang tính thực tế trong việc sàng lọc số lượng lớn những người không có triệu chứng. Thông thường, phải có sự cân bằng về độ nhạy, độ đặc hiệu, hoặc cả hai khi lựa chọn xét nghiệm sàng lọc.
+
+Vấn đề bác sỹ lâm sàng có chọn xét nghiệm để tối ưu hóa độ nhạy hoặc độ đặc hiệu hay không phụ thuộc vào kết quả của kết quả dương tính giả hoặc âm tính giả cũng như xác suất trước khi xét nghiệm bệnh. Một xét nghiệm sàng lọc lý tưởng sẽ luôn có kết quả dương tính ở hầu hết các bệnh nhân mắc bệnh, khi đó kết quả âm tính sẽ chắc chắn loại trừ bệnh ở người khỏe mạnh. Khi xét nghiệm tầm soát bệnh lý nặng có sẵn các phương thức điều trị hiệu quả (bệnh động mạch vành), các bác sĩ lâm sàng sẽ sẵn sàng chấp nhận kết quả dương tính giả hơn âm tính giả (độ đặc hiệu thấp và độ nhạy cao). Mặc dù độ nhạy cao là một thuộc tính rất quan trọng cho các xét nghiệm tầm soát, độ đặc hiệu cũng rất quan trọng trong các chiến lược sàng lọc nhất định. Trong số những người có tỷ lệ mắc bệnh cao hơn, PPV của một test sàng lọc tăng lên; khi tỷ lệ hiện mắc giảm, xác suất sau test hoặc tỷ lệ sau test dương tính cũng giảm. Do đó, khi sàng lọc bệnh ở các quần thể có nguy cơ cao, các xét nghiệm với độ nhạy cao được ưu tiên hơn những xét nghiệm có độ đặc hiệu cao bởi vì chúng có khả năng loại trừ bệnh (ít âm tính giả hơn). Mặt khác, ở những nhóm có nguy cơ thấp hoặc những bệnh không phổ biến, trong đó liệu pháp có lợi ích thấp hơn hoặc có nguy cơ cao hơn, các xét nghiệm với độ đặc hiệu cao hơn được ưu tiên hơn.
+
+Tầm soát đa xét nghiệm
+
+Với việc mở rộng các test sàng lọc có sẵn, bác sĩ lâm sàng phải cân nhắc các chỉ định của bộ xét nghiệm đó. Ví dụ, các bộ xét nghiệm chứa 8, 12, hoặc đôi khi 20 xét nghiệm máu thường được thực hiện khi bệnh nhân nhập viện hoặc khi đó là bệnh nhân tới khám bác sĩ mới. Mặc dù loại xét nghiệm này có thể hữu ích trong việc tầm soát bệnh nhân đối với một số bệnh nhất định, việc sử dụng một bộ chưa quá nhiều xét nghiệm có những hậu quả tiêu cực tiềm ẩn. Theo định nghĩa, một xét nghiệm với độ đặc hiệu 95% cho kết quả dương tính giả với 5% bệnh nhân khỏe mạnh, bình thường. Nếu thực hiện 2 xét nghiệm khác nhau có những đặc điểm như vậy, mỗi xét nghiệm dành cho một căn bệnh tiềm ẩn khác nhau, ở một bệnh nhân thực sự không mắc bất kỳ căn bệnh nào, thì khả năng cả hai xét nghiệm đều âm tính là 95%
+
+×
+
+95%, hay xấp xỉ 90%; do đó, có 10% khả năng có ít nhất một kết quả dương tính giả. Nếu thực hiện 3 xét nghiệm như trên, khả năng cả 3 âm tính sẽ là 95%
+
+×
+
+95%
+
+×
+
+95%, hay 86%, tương ứng với 14% khả năng có ít nhất một kết quả dương tính giả. Nếu thực hiện 12 xét nghiệm khác nhau đối với 12 bệnh khác nhau, khả năng đạt được ít nhất một kết quả dương tính giả là 46%. Xác suất này nhấn mạnh sự cần thiết phải thận trọng khi quyết định làm bộ xét nghiệm và khi phiên giải kết quả của bộ xét nghiệm đó.
+
+Nguyên tắc tương tự cũng được áp dụng khi yêu cầu nhiều xét nghiệm nhạy nhưng không đặc hiệu (ví dụ: "huyết thanh tự miễn" bao gồm kháng thể kháng nhân, ribonucleoprotein kháng nhân [anti-RNP], yếu tố dạng thấp) trong quá trình đánh giá bệnh nhân có các triệu chứng không khu trú và không đặc hiệu kéo dài, chẳng hạn như mệt mỏi và đau toàn thân khi không có các dấu hiệu trên khám thực thể hoặc các đặc điểm tiền sử gợi ý chẩn đoán thấp khớp cụ thể hơn.
+
+Ngưỡng xét nghiệm
+
+Chỉ nên tiến hành xét nghiệm nến kết quả của nó ảnh hưởng đến việc quản lý điều trị; nếu không; bệnh nhân sẽ phải chịu chi phí và rủi ro vô ích. Các bác sĩ lâm sàng đôi khi có thể đưa ra quyết định khi nào nên kiểm tra bằng cách so sánh các ước lượng xác suất trước khi thử nghiệm và sau khi thử nghiệm với các ngưỡng nhất định. Trên ngưỡng xác suất nhất định, lợi ích lớn hơn nguy cơ khi điều trị (bao gồm cả nguy cơ nhầm lẫn khi điều trị bệnh nhân không mắc bệnh) và điều trị được chỉ định. Điểm này được gọi là ngưỡng điều trị và được xác định như mô tả trong
+
+Các Chiến lược Ra Quyết định Lâm sàng: Ước tính xác suất và ngưỡng điều trị
+
+. Theo định nghĩa, xét nghiệm là không cần thiết khi xác suất thử trước đã vượt quá TT. Nhưng xét nghiệm được chỉ định nếu xác suất xét nghiệm trước đó thấp hơn ngưỡng điều trị
+
+miễn là một kết quả kiểm tra dương tính có thể làm tăng xác suất sau khi thử nghiệm trên ngưỡng điều trị
+
+. Xác suất thử nghiệm thấp nhất khi xảy ra điều này phụ thuộc vào đặc tính xét nghiệm (ví dụ LR +) và được gọi là ngưỡng xét nghiệm.
+
+Về mặt khái niệm, nếu xét nghiệm tốt nhất cho một căn bệnh nặng có LR + thấp và TT cao, thì có thể hiểu rằng một kết quả xét nghiệm dương tính có thể không làm tăng xác suất sau test trên TT ở bệnh nhân có tỷ lệ trước test thấp nhưng đáng lo ngại (có lẽ rơi vào khoảng 10% hoặc 20%).
+
+Để minh họa rõ hơn bằng số liệu, xem xét
+
+trường hợp đã mô tả phía trên khi bệnh nhân nhồi máu cơ tim (MI
+
+) cấp, sự cân bằng giữa rủi ro và lợi ích đã giúp xác định ngưỡng điều trị là 25%. Khi xác suất của MI vượt quá 25%, liệu pháp tiêu huyết khối được đưa ra. Khi nào nên làm siêu âm tim nhanh trước khi điều trị tiêu huyết khối? Giả định độ nhạy giả thuyết là 60% và độ đặc hiệu 70% đối với siêu âm tim trong chẩn đoán MI; những tỷ lệ phần trăm tương ứng với LR
+
++
+
+là 60/(100
+
+−
+
+70)
+
+=
+
+2 và LR
+
+-
+
+là (100
+
+−
+
+60)/70
+
+=
+
+0,57.
+
+Vấn đề này có thể được giải quyết bằng toán học (tỷ số chênh trước kiểm tra
+
+×
+
+LR
+
+=
+
+tỷ số chênh sau kiểm tra) hoặc trực quan hơn bằng đồ họa bằng cách sử dụng
+
+Biểu đồ Fagan
+
+. Trên biểu đồ, một đường thẳng nối ngưỡng điều trị (25%) trên đường xác suất sau kiểm tra thông qua LR
+
++
+
+(2,0) trên đường LR giữa cắt một xác suất trước kiểm tra xấp xỉ 0,14. Rõ ràng, một xét nghiệm dương tính ở bệnh nhân có bất kỳ xác suất trưoc test
+
+<
+
+14% vẫn sẽ dẫn đến một xác suất sau test thấp hơn ngưỡng điều trị. Trong trường hợp này, siêu âm tim sẽ vô ích vì ngay cả kết quả dương tính cũng không dẫn đến quyết định điều trị; do đó, ngưỡng xét nghiệm
+
+cho xét nghiệm cụ thể
+
+này là 14% (xem hình
+
+Miêu tả ngưỡng xét nghiệm và điều trị
+
+). Một thử nghiệm với một LR khác
+
++
+
+sẽ có một ngưỡng thử nghiệm khác.
+
+Biểu đồ Fagan được sử dụng để xác định nhu cầu kiểm tra
+
+Trong ví dụ này, một bệnh nhân được cho là có ngưỡng điều trị (TT) là 25% đối với nhồi máu cơ tim cấp tính (MI). Khi xác suất của MI vượt quá 25%, liệu pháp tiêu huyết khối được đưa ra. Các bác sĩ lâm sàng có thể sử dụng toán đồ Fagan để quyết định có nên làm siêu âm tim nhanh trước khi điều trị tiêu huyết khối. Giả sử rằng siêu âm tim có độ nhạy giả định là 60% và đặc hiệu là 70% đối với bệnh nhồi máu mới, tỷ lệ phần trăm tương ứng với tỷ suất có thể xảy ra (LR) của kết quả xét nghiệm dương tính (LR
+
++
+
+) của 60/(100
+
+−
+
+70)
+
+=
+
+2. Một đường thẳng nối TT 25% trên đường xác suất sau kiểm tra với LR
+
++
+
+(2,0) trên đường LR ở giữa cắt một xác suất trước kiểm tra xấp xỉ 0,14. Một kết quả xét nghiệm dương tính ở bệnh nhân có xác suất trước khi thử nghiệm
+
+<
+
+14% vẫn tạo ra một xác suất sau khi thử nghiệm ít hơn TT.
+
+Theo Fagan TJ. Thư: Toán đồ định lý Bayes.
+
+New England Journal of Medicine
+
+293:257, 1975.
+
+Mô tả về ngưỡng xét nghiệm và điều trị
+
+Đường ngang thể hiện xác suất sau test.
+
+Vì 14% vẫn là nguy cơ đáng kể đối với MI, rõ ràng là xác suất bệnh dưới ngưỡng kiểm tra (ví dụ, xác suất 10% thử trước) không nhất thiết khẳng định loại trừ bệnh, nó chỉ đưa ra kết quả dương tính, và do
+
+đó
+
+, không chỉ định xét nghiệm. Trong trường hợp này, bác sĩ lâm sàng sẽ quan sát bệnh nhân, để có thêm những phát hiện có thể làm tăng xác suất trước test lên trên ngưỡng xét nghiệm. Trong thực tế, bởi một bệnh thường có sẵn nhiều xét nghiệm, có thể sử dụng phương pháp
+
+xét nghiệm tuần tự
+
+.
+
+Ví dụ này xem xét một xét nghiệm không gây nguy hiểm cho bệnh nhân. Nếu xét nghiệm có những nguy cơ nghiêm trọng (ví dụ như đặt catheter), ngưỡng xét nghiệm phải cao hơn; có thể thực hiện tính toán định lượng nhưng phương pháp này khá phức tạp. Do đó, giảm độ nhạy và độ đặc hiệu của xét nghiệm hoặc tăng nguy cơ của nó sẽ giúp thu hẹp phạm vi xác suất của bệnh tới ngưỡng xét nghiệm là chiến lược tốt nhất. Cải thiện khả năng chẩn đoán phân biệt hoặc giảm nguy cơ của xét nghiệm sẽ mở rộng phạm vi xác suất tới ngưỡng xét nghiệm là chiến lược tốt nhất.
+
+Một ngoại lệ có thể xảy ra đối với việc không làm xét nghiệm, đó là khi xác suất trước test dưới ngưỡng xét nghiệm (nhưng vẫn đáng lo ngại), có thể là nếu kết quả test âm tính có thể
+
+giảm
+
+xác suất sau thử nghiệm dưới ngưỡng mà tại đó có thể cân nhắc chẩn đoán loại trừ bệnh. Sự xác định này đòi hỏi một sự đánh giá chủ quan về mức độ chắc chắn cần thiết khi kết luận rằng bệnh có thể bị loại trừ, và bởi có xác suất thấp, cần đặc biệt chú ý đến bất kỳ nguy cơ nào của xét nghiệm.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Xác định kết quả xét nghiệm dương tính ---
+
+Trong số các xét nghiệm, phổ biến nhất là những xét nghiệm cung cấp kết quả theo quy mô liên tục, định lượng (ví dụ: đường huyết, số lượng bạch cầu). Các xét nghiệm này có thể cung cấp thông tin lâm sàng hữu ích trong phạm vi của chúng, nhưng các bác sỹ lâm sàng thường sử dụng chúng để chẩn đoán bệnh bằng cách yêu cầu kết quả được phân loại là dương tính hoặc âm tính (ví dụ có bệnh hoặc không bêjnh) dựa trên so sánh với một số tiêu chuẩn hay điểm cắt. Những điểm cắt như vậy thường được lựa chọn dựa trên phân tích thống kê và khái niệm cố gắng để cân bằng tỷ lệ kết quả dương tính giả (gây ra các xét nghiệm hoặc điều trị không cần thiết, tốn kém và có thể nguy hiểm) và kết quả âm tính giả (không chẩn đoán được bệnh có thể điều trị). Xác định điểm cắt cũng phụ thuộc vào việc liệu có tiêu chuẩn vàng để chẩn đoán xác định bệnh lý đang nghi ngờ hay không.Thông thường, các kết quả kiểm tra định lượng như vậy (ví dụ, xét nghiệm bạch cầu trong trường hợp nghi ngờ viêm phổi do vi khuẩn) thường được mô tả dưới dạng đường cong phân bố (không nhất thiết phải là đường cong bình thường, mặc dù thường được mô tả như vậy). Sự phân bố các kết quả xét nghiệm cho bệnh nhân được tập trung vào một điểm khác biệt so với người không mắc bệnh. Một số bệnh nhân mắc bệnh sẽ có kết quả rất cao hoặc rất thấp, nhưng hầu hết đều có kết quả trung bình. Ngược lại, một số bệnh nhân không mắc bệnh có kết quả rất cao hoặc rất thấp, nhưng hầu hết đều có kết quả trung bình dựa trên một ý nghĩa khác với bệnh nhân mắc bệnh. Đối với hầu hết các xét nghiệm, các phân bổ chồng chéo nhau sao cho nhiều kết quả xét nghiệm có thể xảy ra ở những bệnh nhân có và không có bệnh; những kết quả như vậy được minh họa rõ ràng hơn khi các đường cong được mô tả trên cùng một biểu đồ (xem hìnhPhân bổ kết quả xét nghiệm). Một số bệnh nhân ở trên và dưới điểm cắt được lựa chọn sẽ được mô tả không chính xác. Điều chỉnh điểm cắt để xác định thêm bệnh nhân mắc bệnh (tăng độ nhạy của xét nghiệm) cũng làm tăng số lượng dương tính giả (độ đặc hiệu kém), và di chuyển điểm cắt theo cách ngược lại sẽ giúp tránh dương tính giả nhưng lại tăng số lượng âm tính giả. Mỗi điểm cắt được kết hợp với xác suất cụ thể của kết quả dương tính và dương tính giả.Phân bố các kết quả xét nghiệmBệnh nhân bị bệnh được thể hiện ở phần phân bố trên; bệnh nhân không bị bệnh được thể hiện ở phân bố dưới. Đối với bệnh nhân bị bệnh, vùng dưới sự phân bố các kết quả nằm ở bên phải (ở trên) điểm cut phù hợp với tỷ lệ dương tính thật của xét nghiệm (nghĩa là độ nhạy của nó); vùng nằm phía bên trái của điểm cut (bên dưới) tương ứng với tỷ lệ âm tính giả. Đối với bệnh nhân không có bệnh, khu vực ở bên phải của điểm cut tương ứng với tỷ lệ dương tính giả, và vùng bên trái tương ứng với tỷ lệ âm tính thật (nghĩa là độ đặc hiệu của nó). Đối với 2 phân bố chồng chéo (ví dụ bệnh nhân có bệnh và không có bệnh), di chuyển điểm cut ảnh hưởng đến độ nhạy và độ đặc hiệu, nhưng theo các hướng ngược lại; việc thay đổi điểm cắt từ 1 đến 2 làm giảm số âm tính giả (tăng độ nhạy) nhưng cũng làm tăng số lượng dương tính giả (giảm độ đặc hiệu).Đường cong đặc trưng hoạt động của bộ thu nhận (ROC)Biểu đồ của các kết quả dương tính thực (số dương tính thật/số bị bệnh) so với kết quả dương tính giả (số dương tính giả/số không bị bệnh) với một loạt các điểm cắt tạo ra đường cong ROC. Đường cong ROC mô tả đồ họa sự đánh đổi giữa độ nhạy và độ đặc hiệu khi điểm cắt được điều chỉnh (xem hìnhĐường cong đặc trưng hoạt động điển hình của bộ thu nhận (ROC)). Theo quy ước, phần dương tính thật được đặt trên trục y, và phần dương tính giả được đặt trên trục x. Khu vực dưới đường cong ROC càng lớn, sự phân biệt càng tốt giữa có bệnh hoặc không có bệnh.Đường cong ROC cho phép các test được so sánh với nhiều điểm cắt. Trong ví dụ, Test A thực hiện tốt hơn Test B trên tất cả các phạm vi. Các đường cong ROC cũng giúp lựa chọn điểm cắt được thiết kế để tối đa hóa tiện ích của xét nghiệm. Nếu một xét nghiệm được thiết kế để xác định một bệnh, điểm cắt với độ đặc hiệu cao hơn và độ nhạy thấp hơn được lựa chọn. Nếu một bài kiểm tra được thiết kế để sàng lọc bệnh, một điểm cắt với độ nhạy cao hơn và độ đặc hiệu thấp hơn được lựa chọn.Đường cong đặc trưng hoạt động của bộ thu nhận (ROC) thông thường
+
+--- 2. Đặc điểm của xét nghiệm ---
+
+Một số biến lâm sàng chỉ có 2 kết quả có thể (ví dụ, sống/chết, có thai/không mang thai); các biến này được gọi là biến phân loại và nhị phân. Các kết quả phân loại khác có thể có nhiều giá trị rời rạc (ví dụ, nhóm máu, thang điểm Glasgow) và được gọi là biến danh mục hoặc thứ hạng. Các biến số danh mục như nhóm máu không có thứ tự đặc biệt. Các biến số thứ hạng như Thang điểm Glasgow Coma có các giá trị rời rạc được sắp xếp theo một thứ tự nhất định. Các biến lâm sàng khác, bao gồm nhiều xét nghiệm chẩn đoán điển hình, liên tục và có vô số các kết quả có thể (ví dụ, số lượng bạch cầu, nồng độ đường huyết). Nhiều bác sĩ lâm sàng chọn một điểm cắt làm biến liên tục chuyển thành biến nhị phân (ví dụ, bệnh nhân có mức đường trong máu lúc đói>126 mg/dL [7,0 mmol/L] được xem là có bệnh tiểu đường). Các xét nghiệm chẩn đoán liên tục khác có tiện ích chẩn đoán khi chúng có nhiều điểm cắt hoặc khi phạm vi kết quả có giá trị chẩn đoán khác nhau.Khi kết quả xét nghiệm có thể được định nghĩa là dương tính hoặc âm tính, tất cả các kết quả có thể có thể được ghi lại trong một bảng đơn giản 2×2 (xem bảngPhân phối kết quả xét nghiệm giả thuyết) có thể tính được những đặc tính xét nghiệm phân biệt quan trọng, bao gồm độ nhạy, độ đặc hiệu, giá trị tiên đoán dương và âm, và tỷ lệ xác suất (LR), có thể tính (xem bảngPhân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%).BảngPhân bố kết quả kiểm tra giả thuyếtBảngPhân bố kết quả kiểm tra giả thuyếtPhân bố kết quả kiểm tra giả thuyếtCác kết quảBệnh có biểu hiệnBệnh không biểu hiệnTest dương tínhDương tính thậtDương tính giảTest âm tínhÂm tính giảÂm tính thậtTổng số bệnh nhânTất cả bệnh nhân mắc bệnhTất cả bệnh nhân không bị bệnhĐộ nhạy, độ đặc hiệu, và giá trị dự đoánĐộ nhạy và độ đặc hiệu thường được coi là đặc điểm của chính xét nghiệm, không phụ thuộc vào quần thể bệnh nhân.Độ nhạylà khả năng bệnh nhân mắc bệnh sẽ có kết quả xét nghiệm dương tính (tỷ lệ dương tính thật).Vì vậy, một xét nghiệm dương tính ở 8 trong số 10 bệnh nhân mắc bệnh có độ nhạy là 0,8 (cũng được biểu thị bằng 80%). Độ nhạy thể hiện một xét nghiệm phát hiện ra bệnh tốt như thế nào; một xét nghiệm có độ nhạy thấp không xác định được nhiều bệnh nhân bị bệnh và một xét nghiệm có độ nhạy cao rất hữu ích để loại trừ chẩn đoán khi kết quả âm tính. Độ nhạy là sự bổ sung của tỷ lệ âm tính giả (tức là tỷ lệ âm tính giả cộng với độ nhạy=100%).Độ đặc hiệulà khả năng bệnh nhân không mắc bệnh sẽ có kết quả xét nghiệm âm tính (tỷ lệ âm tính thật).Do vậy, một xét nghiệm âm tính ở 9 trong số 10 bệnh nhân không mắc bệnh có độ đặc hiệu 0,9 (hoặc 90%). Độ đặc hiệu thể hiện mức độ chính xác trong xác định bệnh của một xét nghiệm vì các xét nghiệm với độ đặc hiệu cao có tỷ lệ dương tính giả thấp. Một xét nghiệm với độ đặc hiệu thấp sẽ làm chẩn đoán nhầm người không bệnh thành người bị bệnh. Đó là sự bổ sung của tỷ lệ dương tính giả.Các giá trị dự đoánmô tả hành vi xét nghiệm trong một nhóm bệnh nhân nhất định mà không biết họ có mắc bệnh hay không. Đối với một xét nghiệm nhất định, các giá trị dự đoán thay đổi tùy thuộc vào tỷ lệ hiện hành của bệnh trong quần thể bệnh nhân được xét nghiệm.Giá trị dự báo dương tính (PPV)là tỷ lệ bệnh nhân có kết quả xét nghiệm dương tính thực sự bị bệnh.Do vậy, nếu 9 trong số 10 kết quả kiểm tra dương tính là đúng (dương tính thật), PPV là 90%. Bởi vì tất cả trong số các kết quả xét nghiệm dương tính có một số dương tính thực và một số dương tính giả, PPV mô tả khả năng kết quả xét nghiệm dương tính trong một quần thể bệnh nhân nhất định biểu hiện sự dương tính thật.Giá trị dự đoán âm tính (NPV)là tỷ lệ bệnh nhân có kết quả xét nghiệm âm tính nhưng thực sự không có bệnh.Độ nhạy, độ đặc hiệu và giá trị dự đoánNPV = giá trị dự đoán âm tính; PPV = giá trị dự đoán dương tính.Như vậy, nếu 8 trong số 10 kết quả xét nghiệm âm tính là đúng (âm tính thật), NPV là 80%. Vì không phải tất cả các kết quả xét nghiệm âm tính đều là âm tính thật, một số bệnh nhân có kết quả xét nghiệm âm tính nhưng lại mắc bệnh. NPV mô tả khả năng là kết quả xét nghiệm âm tính trong một quần thể bệnh nhân nhất định có xét nghiệm âm tính thật.Công cụ tính toán lâm sàngĐộ nhạy của xét nghiệmCông cụ tính toán lâm sàngĐộ đặc hiệu của một xét nghiệmCông cụ tính toán lâm sàngGiá trị dự báo dương tính từ dữ liệu thôCông cụ tính toán lâm sàngGiá trị dự đoán dương tính của một xét nghiệmCông cụ tính toán lâm sàngGiá trị dự báo âm tính từ dữ liệu thôCông cụ tính toán lâm sàngGiá trị dự báo âm tính của một xét nghiệmTỷ lệ xác suất (LRs)Không giống như độ nhạy và độ đặc hiệu, không áp dụng cho xác suất bệnh nhân xác định, LR cho phép các bác sĩ lâm sàng giải thích các kết quả xét nghiệm ở một bệnh nhân cụ thể với xác suất trước xét nghiệm của bệnh đã được biết (thường là ước lượng).LR mô tả sự thay đổi xác suất bệnh trước khi xét nghiệm khi biết kết quả xét nghiệm và trả lời câu hỏiXác suất sau xét nghiệm đã thay đổi bao nhiêu so với xác suất trước xét nghiệm bây giờ khi biết kết quả xét nghiệm?Nhiều xét nghiệm lâm sàng là biến nhị phân; chúng nằm trên điểm cắt (dương tính) hoặc dưới điểm cắt (âm tính) và chỉ có 2 kết quả. Các xét nghiệm khác cho kết quả liên tục hoặc xảy ra trong một phạm vi mà nhiều điểm cắt được chọn. Xác suất thực tế sau xét nghiệm phụ thuộc vào độ lớn của LR (phụ thuộc vào đặc tính vận hành thử nghiệm) và dự đoán xác suất của bệnh. Khi xét nghiệm là biến nhị phân và kết quả là dương tính hoặc âm tính, độ nhạy và độ đặc hiệu có thể được sử dụng để tính LR dương tính (LR+) hoặc LR âm tính (LR-).LR+:Tỉ lệ khả năng kết quả xét nghiệm dương tính xảy ra ở bệnh nhân có bệnh (dương tính thật) với khả năng kết quả dương tính xảy ra ở bệnh nhân không mắc bệnh (dương tính giả)LR-:Tỷ lệ khả năng kết quả xét nghiệm âm tính xảy ra ở bệnh nhân có bệnh (âm tính giả) với khả năng kết quả xét nghiệm âm tính xảy ra ở bệnh nhân không mắc bệnh (âm tính thật)Khi kết quả là liên tục hoặc có nhiều điểm cắt, đường cong ROC, chứ không phải độ nhạy và độ đặc hiệu, được sử dụng để tính LR thì LR không còn được mô tả là LR+hay LR-.Vì LR là một tỷ lệ các sự kiện loại trừ lẫn nhau chứ không phải là một phần của tổng số, nó đại diện chotỷ lệchứ không phải là xác suất. Đối với một xét nghiệm nhất định, LR khác với kết quả dương tính và âm tính.Ví dụ, cho kết quả xét nghiệm dương tính, LR là 2,0 cho biết tỷ lệ chênh lệch là 2:1 (dương tính thật:dương tính giả) là kết quả xét nghiệm dương tính đại diện cho bệnh nhân bị bệnh. Trong 3 xét nghiệm dương tính, 2 trường hợp xảy ra ở bệnh nhân có bệnh (dương tính thực) và 1 trường hợp xảy ra ở bệnh nhân không mắc bệnh (dương tính giả). Bởi vì dương tính thực và dương tính giả là thành phần của công thức tính độ nhạy và tính đặc hiệu, LR+cũng có thể được tính như độ nhạy/(1−độ đặc hiệu). LR+càng lớn, thông tin xét nghiệm dương tính càng có giá trị, một xét nghiệm dương tính có LR+>10 được coi là bằng chứng mạnh mẽ ủng hộ chẩn đoán. Nói cách khác, ước tính xác suất bị bệnh trước xét nghiệm sẽ tăng mạnh về hướng 100% khi xét nghiệm dương tính có LR cao+.Đối với kết quả xét nghiệm âm tính, LR-là 0,25 cho thấy tỷ lệ 1: 4 (âm tính giả: âm tính thật) là kết quả xét nghiệm âm tính đại diện cho một bệnh nhân bị bệnh. Trong 5 kết quả xét nghiệm âm tính, một kết quả sẽ xảy ra trên bệnh nhân có bệnh (âm tính giả) và 4 sẽ xuất hiện ở bệnh nhân không có bệnh (âm tính thật). LR-cũng có thể được tính như sau (1−độ nhạy/độ đặc hiệu. LR-càng nhỏ, giá trị thông tin của xét nghiệm âm tính cung cấp càng lớn, một xét nghiệm với giá trị âm tính có LR<0,1 được coi là bằng chứng mạnh mẽ loại trừ chẩn đoán. Nói cách khác, ước tính xác suất mắc bệnh trước xét nghiệm sẽ gần bằng 0% khi xét nghiệm âm tính có LR- thấp-.Kết quả xét nghiệm với LRs là 1,0 không mang thông tin và không thể ảnh hưởng đến xác suất mắc bệnh trước test.LRs thuận tiện cho việc so sánh cáctest và cũng được sử dụng trongPhân tích Bayesianđể diễn giải kết quả xét nghiệm. Độ nhạy và độ đặc hiệu khi điểm cắt thay đổi, LRs cũng thế. Một ví dụ giả định, ngưỡng cao cho số lượng tế bào bạch cầu (WBC) (ví dụ: 30.000/mcL) trong trường hợp viêm ruột thừa cấp có thủng có thể đặc hiệu hơn và sẽ có LR+cao nhưng cũng có LR-cao (và do đó không cung cấp nhiều thông tin); việc chọn ngưỡng thấp hơn nhiều và rất nhạy (ví dụ: 12.000/mcL) sẽ có LR-thấp nhưng cũng có LR+thấp hơn.Công cụ tính toán lâm sàngLR MultiCalcCông cụ tính toán lâm sàngTỷ lệ xác suất của các dữ liệu thôCông cụ tính toán lâm sàngTỷ lệ xác suất dương tính từ dữ liệu thô
+
+--- 3. Test nhị phân ---
+
+Một test nhị phân lý tưởng sẽ không có kết quả sai hoặc âm tính giả; tất cả các bệnh nhân có kết quả xét nghiệm dương tính sẽ bị bệnh (100% PPV) và tất cả bệnh nhân có kết quả âm tính sẽ không mắc bệnh (100% NPV).Trên thực tế, tất cả các xét nghiệm đều có dương tính giả và âm tính giả, một số xét nghiệm có tỷ lệ âm tính giả và dương tính gỉa nhiều hơn những xét nghiệm khác. Để minh họa hậu quả của độ nhạy và độ đặc hiệu không hoàn hảo của kết quả xét nghiệm, hãy xem xét kết quả giả thuyết (xem bảngPhân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%) của xét nghiệm men esterase bạch cầu qua que nhúng nước tiểu trong một nhóm thuần tập 1000 phụ nữ, trong đó 300 (30%) có nhiễm trùng đường tiết niệu (UTI, là chẩn đoán xác định bằng tiêu chuẩn vàng là nuôi cấy nước tiểu). Giả định rằng test que nhúng có độ nhạy là 71% và độ đặc hiệu là 85%.Độ nhạy 71% có nghĩa là chỉ có 213 (71% trong số 300) phụ nữcóUTI sẽ có kết quả test dương tính. 87 người còn lại sẽ có kết quả test âm tính. Độ đặc hiệu 85% có nghĩa là 595 (85% của 700) phụ nữkhông cóUTI sẽ có kết quả xét nghiệm âm tính. 105 trường còn lại sẽ có kết quả test dương tính. Do đó, trong 213+115=318 kết quả kiểm tra dương tính, chỉ có 213 là chính xác (213/318=67% PPV); test dương tính làm chẩn đoán UTI chính xác hơn không nhưng không chắc chắn. Cũng có 87+595=682 trường hợp âm tính, trong đó 595 là âm tính thật (595/682=87% NPV), những trường hợp này ít khả năng là UTI nhưng không phải là không thể, 13% bệnh nhân có kết quả test âm tính nhưng có UTI.BảngPhân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%BảngPhân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%Phân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%Các kết quảBệnh có biểu hiệnBệnh không biểu hiệnTổng số bệnh nhânTest dương tínhDương tính thật (TP)213 bệnh nhân (71% trong số 300)Dương tính giả (FP)105 bệnh nhân (700−595)318 bệnh nhân có kết quả dương tínhTest âm tínhÂm tính giả (FN)87 bệnh nhân (300−213)Âm tính thật (TN)595 bệnh nhân (85% trong số 700)682 bệnh nhân có kết quả âm tínhTổng số bệnh nhân300 bệnh nhân mắc UTI (giả định)700 bệnh nhân không mắc UTI (giả định)1000 bệnh nhânGiá trị dự đoán dương tính (PPV)=TP/(tất cả bệnh nhân có kết quả dương tính)=TP/(TP+FP)=213/(213+105)=67%.Giá trị dự đoán âm tính (NPV)=TN/(tất cả bệnh nhân có kết quả âm tính)=TN/(TN+FN)=595/(595+87)=87%.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=4,73.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=0,34.UTI = Nhiễm trùng đường tiết niệuGiá trị dự đoán dương tính (PPV)=TP/(tất cả bệnh nhân có kết quả dương tính)=TP/(TP+FP)=213/(213+105)=67%.Giá trị dự đoán âm tính (NPV)=TN/(tất cả bệnh nhân có kết quả âm tính)=TN/(TN+FN)=595/(595+87)=87%.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=4,73.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=0,34.UTI = Nhiễm trùng đường tiết niệuTuy nhiên, PPV và NPVs xuất phát từ nhóm bệnh nhân thuần tập này không thể được sử dụng để giải thích kết quả của cùng một thử nghiệm khi tỷ lệ mắc bệnh cơ bản (thử nghiệm trước hoặc xác suất trước) là khác nhau. Lưu ý tác động của việc thay đổi tỷ lệ mắc bệnh thành 5% (xem bảngPhân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%). Hiện nay hầu hết các kết quả dương tính là sai, PPV chỉ 20%; một bệnh nhân có kết quả dương tính có nghĩa là có nhiều khả năngkhôngmắc UTI. Tuy nhiên, NPV hiện nay rất cao (98%); một kết quả âm tính về cơ bản loại trừ UTI.BảngPhân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%BảngPhân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%Phân bố kết quả thử nghiệm của test men esterase bạch cầu trong một nhóm thuần tập 1000 phụ nữ với tỷ lệ UTI giả định là 5%Các kết quảBệnh có biểu hiệnBệnh không biểu hiệnTổng số bệnh nhânTest dương tínhDương tính thật (TP)36 bệnh nhân (71% trong số 50)Dương tính giả (FP)144 bệnh nhân (950−806)180 bệnh nhân xét nghiệm dương tínhTest âm tínhÂm tính giả (FN)14 bệnh nhân (50−36)Âm tính thật (TN)806 bệnh nhân (85% của 950)820 bệnh nhân với xét nghiệm âm tínhTổng số bệnh nhân50 bệnh nhân mắc UTI (giả định)950 bệnh nhân không có UTI (giả định)1000 bệnh nhânGiá trị dự đoán dương tính (PPV)=TP/(tất cả đều có kết quả dương tính)=TP/(TP+FP)=36/(36+144)=20%.Giá trị tiên đoán âm tính (NPV)=TN/(tất cả đều có kết quả âm tính)=TN/(TN+FN)=806/(806+14)=98%.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=4,73.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=0,34.UTI = Nhiễm trùng đường tiết niệuGiá trị dự đoán dương tính (PPV)=TP/(tất cả đều có kết quả dương tính)=TP/(TP+FP)=36/(36+144)=20%.Giá trị tiên đoán âm tính (NPV)=TN/(tất cả đều có kết quả âm tính)=TN/(TN+FN)=806/(806+14)=98%.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=4,73.Tỷ lệ xác suất âm tính (LR-)=(1−độ nhạy/độ đặc hiệu=(1−0,71)/0,85=0,34.UTI = Nhiễm trùng đường tiết niệuLưu ý rằng trong cả hai nhóm bệnh nhân, mặc dù PPV và NPV rất khác nhau, LRs không thay đổi vì LRs chỉ được xác định bởi độ nhạy và độ đặc hiệu của xét nghiệm.Rõ ràng, kết quả xét nghiệm không đưa ra chẩn đoán xác định mà chỉ ước tính xác suất mắc bệnh có hoặc không, và xác suất sau xét nghiệm (khả năng mắc bệnh cho kết quả xét nghiệm cụ thể) khác nhau rất nhiều dựa trên xác suất trước bệnh cũng như độ nhạy và độ đặc hiệu của xét nghiệm (và do đó là LR).Công cụ tính toán lâm sàngĐộ nhạy và tỷ lệ âm tính giảCông cụ tính toán lâm sàngĐộ đặc hiệu và tỉ lệ âm tính giảXác xuất trước testXác suất trước test không phải là phép đo chính xác; nó dựa trên sự đánh giá lâm sàng về mức độ các triệu chứng cơ năng và thực thể cho thấy bệnh này có mặt, những yếu tố nào trong tiền sử bệnh nhân hỗ trợ chẩn đoán và căn bệnh phổ biến như thế nào. Nhiều thang điểm đánh giá lâm sàng được thiết kế để ước lượng xác suất trước test; thêm điểm cho các tính năng lâm sàng khác nhau tạo điều kiện cho việc tính điểm. Những ví dụ minh hoạ tầm quan trọng của ước tính chính xác xác suất trước test vì tỷ lệ bệnh trong quần thể được xem xét ảnh hưởng đáng kể tới tính tối ưu của xét nghiệm. Cần sử dụng các công cụ ước tính tỷ lệ phổ biến đã công bố hợp lệ khi chúng có sẵn. Ví dụ, có các tiêu chí đểdự đoán xác suất trước test của tắc mạch phổi.Các điểm tính toán cao hơn mang lại các xác suất ước lượng cao hơn. Trên thực tế, việc xác định xác suất trước khi kiểm tra được hỗ trợ bởi thông tin khách quan, nhưng cũng có thể bị ảnh hưởng bởi kỹ năng và kinh nghiệm của bác sĩ lâm sàng.
+
+--- 4. Thử nghiệm liên tục ---
+
+Nhiều kết quả xét nghiệm thể hiện dưới dạng biến liên tục và có thể cung cấp thông tin lâm sàng hữu ích. Bác sỹ lâm sàng thường chọn một điểm cắt cụ thể để tối ưu hóa xét nghiệm. Ví dụ, số lượng bạch cầu (WBC)>15.000/mcL có thể được coi là dương tính; giá trị<15.000/mcL là âm tính. Khi một xét nghiệm mang lại kết quả liên tục nhưng có điểm cắt nhất định, nó được thể hiện dưới dạng biến nhị phân. Xét nghiệm cũng có thể chọn ra nhiều điểm cắt. Độ nhạy, độ đặc hiệu, PPV, NPV, LR+, và LR-có thể được tính cho một hoặc nhiều điểm cắt. BảngHiệu quả của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi ngờ bị viêm ruột thừaminh hoạ ảnh hưởng của việc thay đổi điểm cắt của số WBC ở bệnh nhân nghi viêm ruột thừa.BảngẢnh hưởng của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi viêm ruột thừaBảngẢnh hưởng của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi viêm ruột thừaẢnh hưởng của việc thay đổi điểm cắt của số lượng bạch cầu ở bệnh nhân nghi viêm ruột thừaWBC Cutoff*Độ nhạyĐộ đặc hiệuLR+LR->10.50084%53,13%1,790,3>11.50078%62,5%2,130,32>12.85068%75%2,720,43>13.40061,33%78,12%2,860,45>14.30056,67%81,25%3,20,49* Nhiều điểm cắt khác nhau được chọn cho một biến liên tục như là số lượng WBC; kết quả trên điểm cắt được coi là dương tính và kết quả dưới điểm cắt được coi là âm tính. Các giá trị được liệt kê là mỗi microlit máu.LR=tỷ lệ khả năng xảy ra; WBC = bạch cầu.Theo Keskek M, Tez M, Yoldas O, et al: Đặc điểm của số lượng bạch cầu trên bệnh nhân nghi viêm ruột thừa.American Journal of Emergency Medicine26:769–772, 2008.* Nhiều điểm cắt khác nhau được chọn cho một biến liên tục như là số lượng WBC; kết quả trên điểm cắt được coi là dương tính và kết quả dưới điểm cắt được coi là âm tính. Các giá trị được liệt kê là mỗi microlit máu.LR=tỷ lệ khả năng xảy ra; WBC = bạch cầu.Theo Keskek M, Tez M, Yoldas O, et al: Đặc điểm của số lượng bạch cầu trên bệnh nhân nghi viêm ruột thừa.American Journal of Emergency Medicine26:769–772, 2008.Ngoài ra, việc kết hợp các kết quả thể hiện dưới dạng biến liên tục vào các mức độ khác nhau tỏ ra khá hữu ích. Trong trường hợp này, các kết quả không được đặc trưng là dương tính hoặc âm tính vì có nhiều ngưỡng kết quả, vì vậy mặc dù có thể xác định LR cho từng ngưỡng kết quả, sẽ không còn việc phân biệt LR+hay LR-nữa. Ví dụ, bảngSử dụng các Nhóm Đếm số lượng bạch cầu để Xác định Tỷ lệ Khả năng Nhiễm khuẩn huyết ở Trẻ em sốtminh hoạ mối tương quan giữa số lượng bạch cầu và tình trạng nhiễm khuẩn ở trẻ sốt. Bởi vì LR là xác suất của một kết quả nhất định ở bệnh nhân bị bệnh chia cho xác suất của kết quả đó ở những bệnh nhân không mắc bệnh, LR cho mỗi nhóm số lượng bạch cầu là xác suất nhiễm khuẩn trong nhóm đó chia cho xác suất không nhiễm khuẩn huyết.BảngSử dụng kết quả phân nhóm số lượng bạch cầu để xác định tỷ lệ xác suất nhiễm khuẩn ở trẻ sốt*BảngSử dụng kết quả phân nhóm số lượng bạch cầu để xác định tỷ lệ xác suất nhiễm khuẩn ở trẻ sốt*Sử dụng kết quả phân nhóm số lượng bạch cầu để xác định tỷ lệ xác suất nhiễm khuẩn ở trẻ sốt*Số lượng bạch cầuSố trẻ bị nhiễm khuẩn huyết, n = 127 (%)Số trẻ không bị nhiễm khuẩn huyết, N = 8629 (%)LR (% có nhiễm khuẩn huyết/% không có nhiễm khuẩn huyết)0–50000 (0,0%)543 (6,3%)0,005.001–10.0003 (2,4%)3291 (38,1%)0,0610.001–15.00015 (11,8%)2767 (32,1%)0,3715.001–20.00048 (37,8%)1337 (15,5%)2,420.001–25.00034 (26,8%)469 (5,4%)4,925.001–30.00012 (9,4%)155 (1,8%)5,3>30.00115 (11,8%)67 (0,8%)15,2* Tỷ lệ bị vãng khuẩn huyết ở 8756 trẻ em sốt được phân nhóm theo số lượng bạch cầu (các giá trị được liệt kê là trên mỗi microlit máu). LR cho mỗi nhóm được tính bằng cách chia xác suất nhiễm khuẩn huyết do xác suất không nhiễm khuẩn huyết.LR=tỷ lệ khả năng xảy ra; WBC = bạch cầu.Theo Lee GM, Harper MB: Nguy cơ nhiễm khuẩn ở trẻ nhỏ sốt ở giai đoạn sau sinh,Haemophilus influenzaetype b.Archives of Pediatric and Adolescent Medicine152:624–628, 1998.* Tỷ lệ bị vãng khuẩn huyết ở 8756 trẻ em sốt được phân nhóm theo số lượng bạch cầu (các giá trị được liệt kê là trên mỗi microlit máu). LR cho mỗi nhóm được tính bằng cách chia xác suất nhiễm khuẩn huyết do xác suất không nhiễm khuẩn huyết.LR=tỷ lệ khả năng xảy ra; WBC = bạch cầu.Theo Lee GM, Harper MB: Nguy cơ nhiễm khuẩn ở trẻ nhỏ sốt ở giai đoạn sau sinh,Haemophilus influenzaetype b.Archives of Pediatric and Adolescent Medicine152:624–628, 1998.Việc nhóm các biến liên tục cho phép các kết quả xét nghiệm được sử dụng nhiều hơn khi thiết lập một điểm cắt duy nhất. Sử dụng các phân tích Bayes, các LRs trong bảngSử dụng các nhóm đếm bạch cầu để xác định tỷ lệ mắc bệnh ở trẻ sốtcó thể được sử dụng để tính toán xác suất sau thử nghiệm.Để có kết quả kiểm tra liên tục, nếu đã biết đường cong ROC, không cần thực hiện các phép tính toán như trongbảng; các giá trị LRS có thể được tìm thấy trên các điểm khác nhau trên phạm vi kết quả bằng cách sử dụng độ dốc của đường cong ROC tại điểm mong muốn.
+
+--- 5. Nguyên lý Bayes ---
+
+Quá trình sử dụng xác suất trước test của bệnh và các đặc tính của test để xác định xác suất sau test được gọi là định lý Bayes hoặc định lý Bayesian sửa đổi. Đối với thực hành lâm sàng thường quy, phương pháp Bayesian thường có nhiều dạng:Định dạng tỷ lệ xác suất (tính toán hoặc dạng biểu đồ)Cách tiếp cận theo dạng bảngTính toán tỷ lệ xác suấtNếu xác suất trước test của bệnh được thể hiện bằng tỷ lệ của nó và vì LR của một test đại diện cho tỷ lệ, sản phẩm của 2 đại diện cho tỷ lệ mắc bệnh sau khi kiểm tra (tương tự như nhân 2 xác suất với nhau để tính xác suất xảy ra đồng thời là 2 sự kiện):Tỷ lệ sác xuất trước test×LR=tỷ lệ xác suất sau testBởi vì các bác sĩ lâm sàng thường nghĩ về xác suất chứ không phải là tỷ lệ, xác suất có thể được chuyển đổi thành tỷ lệ (và ngược lại) với các công thức sau:Tỷ lệ=xác suất/1−xác suấtXác suất=tỷ lệ/tỷ lệ+1Hãy xem xét ví dụ về nhiễm trùng đường tiết niệu (UTI) như được đưa ra trong bảngPhân bố kết quả xét nghiệm của xét nghiệm esterase bạch cầu giả định trong nhóm 1.000 phụ nữ với tỷ lệ hiện mắc UTI được cho là 30%, trong đó xác suất UTI trước khi xét nghiệm là 0,3 và xét nghiệm được sử dụng có LR+là 4,73 và LR-là 0,34. Xác xuất trước test là 0,3 tương ứng với tỷ lệ là 0,3/(1−0,3)=0,43. Do đó, tỷ lệ sau test UTI xuất hiện ở bệnh nhân có kết quả xét nghiệm dương tính kết quả nhân tỷ lệ trước test với LR+; 4,73×0,43=2,03, đại diện cho một xác suất sau test 2,03/(1+2,03)=0,67. Do đó, tính toán của Bayes cho thấy một kết quả test dương tính làm tăng xác suất trước test từ 30% lên 67%, kết quả tương tự thu được trong tính toán PPV ở trongbảng.Một phép tính tương tự được thực hiện cho một xét nghiệm âm tính; tỷ lệ sau test=0,34×0,43=0,15, tương ứng với xác suất là 0,15/(1+0,15)=0,13. Do đó, kết quả xét nghiệm âm tính làm giảm xác suất trước test từ 30% xuống 13%, một lần nữa kết quả tương tự thu được trong tính toán NPV trongbảng.Nhiều chương trình máy tính y khoa chạy trên thiết bị cầm tay có sẵn để tính toán xác suất sau test từ xác suất trước test và LRs.Công cụ tính toán lâm sàngTỷ lệ từ Xác suấtCông cụ tính toán lâm sàngXác suất từ Tỷ lệCông cụ tính toán lâm sàngThống kê Bayesian I MultiCalcCông cụ tính toán lâm sàngThống kê Bayesian II MultiCalcToán đồ tỷ lệ xác suấtViệc sử dụng toán đồ là đặc biệt thuận tiện vì nó tránh được việc chuyển đổi giữa tỉ lệ và xác suất hoặc tạo ra bảng 2×2.Để sử dụngBiểu đồ Fagan, một đường thẳng được vẽ từ xác suất tiền kiểm tra qua LR. Xác suất sau test là điểm mà tại đó đường này cắt đường xác suất sau test. Các đường minh họa được vẽ bằng cách sử dụng dữ liệu từ xét nghiệm UTI trong bảngPhân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ Nhiễm trùng Tiểu Giả định là 30%. Đường A đại diện cho một kết quả test dương tính; được vẽ từ một xác suất trước test là 0,3 qua một LR+là 4,73 dẫn đến gái trị sau test hơi<0,7 tương đương với xác suất tính là 0,67. Đường B đại diện cho một kết quả test âm tính; nó vẽ từ xác suất trước test là 0,3 qua LR-là 0,34 và cho một giá trị sau test>0,1; tương đương với xác suất tính là 13%.Mặc dù toán đồ xuất hiện ít chính xác hơn so với tính toán, các giá trị tiêu biểu cho xác suất trước test thường là ước lượng, do đó sự chính xác rõ ràng của phép tính thường gây hiểu nhầm.Biểu đồ FaganCác đường minh họa được vẽ bằng cách sử dụng dữ liệu từ xét nghiệm nhiễm trùng đường tiết niệu (UTI) trong bảngPhân bố kết quả xét nghiệm của Xét nghiệm Esterase bạch cầu giả định trong nhóm 1.000 phụ nữ với tỷ lệ hiện mắc UTI được cho là 30%. Đường A đại diện cho một kết quả test dương tính, được vẽ từ một xác suất trước test là 0,3 qua một LR+là 4,73 dẫn đến gái trị sau test hơi<0,7 tương đương với xác suất tính là 0,67. Đường B đại diện cho kết quả test âm tính được vẽ từ xác suất trước test là 0,3 qua LR-là 0,34 dãn đến giá trị sau test>0,1, tương đương với xác suất tính là 13%.LR+=tỷ lệ xác suất kết quả dương tính; LR-=LR cho một kết quả âm tính.Theo Fagan TJ. Thư: Toán đồ định lý Bayes.New England Journal of Medicine293:257, 1975.Cách tiếp cận theo dạng bảngLR của một test thường không được biết, nhưng độ nhạy và độ đặc hiệu được biết, và có thể ước tính được xác suất trước test. Trong trường hợp này, có thể thực hiện phương pháp Bayes bằng cách sử dụng bảng 2×2 như minh họa trong bảngDiễn giải kết quả xét nghiệm bạch cầu giả thuyết (LE)bằng cách sử dụng ví dụ từ bảngPhân phối Kết quả Xét nghiệm của Xét nghiệm Xóa Bạch cầu Giả định trong Nhóm 1000 Phụ nữ có Tỷ lệ UTI Giả định là 30%. Lưu ý rằng phương pháp này cho thấy kết quả xét nghiệm dương tính làm tăng khả năng UTI lên 67%, và kết quả âm tính làm giảm 13%, kết quả tương tự thu được bằng cách tính LRs.BảngDiễn giải kết quả xét nghiệm Esterase Leukocyte giả định trong quần thể thuần tập 1000 phụ nữ với tỉ lệ hiện mắc UTI giả định là 30%, độ nhạy 71% và độ đặc hiệu 85%*BảngDiễn giải kết quả xét nghiệm Esterase Leukocyte giả định trong quần thể thuần tập 1000 phụ nữ với tỉ lệ hiện mắc UTI giả định là 30%, độ nhạy 71% và độ đặc hiệu 85%*Diễn giải kết quả xét nghiệm Esterase Leukocyte giả định trong quần thể thuần tập 1000 phụ nữ với tỉ lệ hiện mắc UTI giả định là 30%, độ nhạy 71% và độ đặc hiệu 85%*Các kết quảMắc UTIKhông mắc UTI300 bệnh nhân mắc UTI700 bệnh nhân không bị UTITest LE dương tính213 bệnh nhân (TP)105 bệnh nhân (FP)Test LE âm tính87 bệnh nhân (FN)595 bệnh nhân (TN)* Định lý Bayes có thể được đơn giản hóa để cho phép tính toán xác suất sau test khi xác suất trước test đã biết:Xác suất sau test khi test dương tính=TP/(tất cả bệnh nhân có kết quả dương tính)=TP/(TP+FP)=213/(213+105)=67%.Xác suất sau test khi test âm tính=TN/(tất cả bệnh nhân có kết quả âm tính)=FN/(FN+TN)=87/(87+595)=13%.FN=âm tính giả; FP=dương tính giả; TN=âm tính thật; TP=dương tính thật; UTI = nhiễm trùng đường tiết niệu.* Định lý Bayes có thể được đơn giản hóa để cho phép tính toán xác suất sau test khi xác suất trước test đã biết:Xác suất sau test khi test dương tính=TP/(tất cả bệnh nhân có kết quả dương tính)=TP/(TP+FP)=213/(213+105)=67%.Xác suất sau test khi test âm tính=TN/(tất cả bệnh nhân có kết quả âm tính)=FN/(FN+TN)=87/(87+595)=13%.FN=âm tính giả; FP=dương tính giả; TN=âm tính thật; TP=dương tính thật; UTI = nhiễm trùng đường tiết niệu.
+
+--- 6. Test tuần tự ---
+
+Các bác sĩ thường làm các xét nghiệm theo trình tự trong nhiều lần đánh giá chẩn đoán. Nếu đã biết tỉ lệ trước test khi test tuần tự và LR cho mỗi test theo trình tự, tỷ lệ sau test có thể được tính theo công thức sau:Số chênh trước xét nghiệm×LR1×LR2×LR3=số chênh sau xét nghiệmPhương pháp này gặp giới hạn bởi giả thiết cho rằng mỗi test đều có điều kiện độc lập với nhau.
+
+--- 7. Xét nghiệm sàng lọc ---
+
+Bệnh nhân thường phải cân nhắc có nên sàng lọc một bệnh lý tiềm ẩn hay không. Cơ sở của một chương trình sàng lọc thành công là việc phát hiện sớm cải thiện kết quả đáng kể về mặt lâm sàng ở những bệnh nhân mắc bệnh ẩn và kết quả dương tính giả có thể xảy ra trong quá trình sàng lọc không tạo ra gánh nặng (ví dụ: chi phí và tác dụng bất lợi của xét nghiệm có tính khẳng định, kích thích lo lắng do xét nghiệm, điều trị không đảm bảo) vượt quá lợi ích đó. Để giảm thiểu những gánh nặng có thể xảy ra này, bác sĩ lâm sàng phải chọn xét nghiệm sàng lọc thích hợp. Việc sàng lọc có thể không phù hợp khi các biện pháp điều trị hoặc phòng ngừa không hiệu quả, trừ khi chẩn đoán có thể ảnh hưởng đến các quyết định trong tương lai của bệnh nhân hoặc gia đình họ. Nếu bệnh rất hiếm gặp, trừ khi có thể xác định được một quần thể phụ có tỷ lệ hiện mắc bệnh cao hơn, việc sàng lọc có thể không hiệu quả về mặt chi phí; có một số trường hợp ngoại lệ, chẳng hạn như một số rối loạn di truyền có thể được chẩn đoán và điều trị ở trẻ sơ sinh.Về mặt lý thuyết, xét nghiệm tốt nhất cho cả sàng lọc và chẩn đoán là xét nghiệm có độ nhạy cao nhavàđộ đặc hiệu cao nhất. Tuy nhiên, các xét nghiệm chính xác cao như vậy thường phức tạp, tốn kém, và mang tính xâm lấn cao (ví dụ, chụp mạch vành), do đó, không mang tính thực tế trong việc sàng lọc số lượng lớn những người không có triệu chứng. Thông thường, phải có sự cân bằng về độ nhạy, độ đặc hiệu, hoặc cả hai khi lựa chọn xét nghiệm sàng lọc.Vấn đề bác sỹ lâm sàng có chọn xét nghiệm để tối ưu hóa độ nhạy hoặc độ đặc hiệu hay không phụ thuộc vào kết quả của kết quả dương tính giả hoặc âm tính giả cũng như xác suất trước khi xét nghiệm bệnh. Một xét nghiệm sàng lọc lý tưởng sẽ luôn có kết quả dương tính ở hầu hết các bệnh nhân mắc bệnh, khi đó kết quả âm tính sẽ chắc chắn loại trừ bệnh ở người khỏe mạnh. Khi xét nghiệm tầm soát bệnh lý nặng có sẵn các phương thức điều trị hiệu quả (bệnh động mạch vành), các bác sĩ lâm sàng sẽ sẵn sàng chấp nhận kết quả dương tính giả hơn âm tính giả (độ đặc hiệu thấp và độ nhạy cao). Mặc dù độ nhạy cao là một thuộc tính rất quan trọng cho các xét nghiệm tầm soát, độ đặc hiệu cũng rất quan trọng trong các chiến lược sàng lọc nhất định. Trong số những người có tỷ lệ mắc bệnh cao hơn, PPV của một test sàng lọc tăng lên; khi tỷ lệ hiện mắc giảm, xác suất sau test hoặc tỷ lệ sau test dương tính cũng giảm. Do đó, khi sàng lọc bệnh ở các quần thể có nguy cơ cao, các xét nghiệm với độ nhạy cao được ưu tiên hơn những xét nghiệm có độ đặc hiệu cao bởi vì chúng có khả năng loại trừ bệnh (ít âm tính giả hơn). Mặt khác, ở những nhóm có nguy cơ thấp hoặc những bệnh không phổ biến, trong đó liệu pháp có lợi ích thấp hơn hoặc có nguy cơ cao hơn, các xét nghiệm với độ đặc hiệu cao hơn được ưu tiên hơn.Tầm soát đa xét nghiệmVới việc mở rộng các test sàng lọc có sẵn, bác sĩ lâm sàng phải cân nhắc các chỉ định của bộ xét nghiệm đó. Ví dụ, các bộ xét nghiệm chứa 8, 12, hoặc đôi khi 20 xét nghiệm máu thường được thực hiện khi bệnh nhân nhập viện hoặc khi đó là bệnh nhân tới khám bác sĩ mới. Mặc dù loại xét nghiệm này có thể hữu ích trong việc tầm soát bệnh nhân đối với một số bệnh nhất định, việc sử dụng một bộ chưa quá nhiều xét nghiệm có những hậu quả tiêu cực tiềm ẩn. Theo định nghĩa, một xét nghiệm với độ đặc hiệu 95% cho kết quả dương tính giả với 5% bệnh nhân khỏe mạnh, bình thường. Nếu thực hiện 2 xét nghiệm khác nhau có những đặc điểm như vậy, mỗi xét nghiệm dành cho một căn bệnh tiềm ẩn khác nhau, ở một bệnh nhân thực sự không mắc bất kỳ căn bệnh nào, thì khả năng cả hai xét nghiệm đều âm tính là 95%×95%, hay xấp xỉ 90%; do đó, có 10% khả năng có ít nhất một kết quả dương tính giả. Nếu thực hiện 3 xét nghiệm như trên, khả năng cả 3 âm tính sẽ là 95%×95%×95%, hay 86%, tương ứng với 14% khả năng có ít nhất một kết quả dương tính giả. Nếu thực hiện 12 xét nghiệm khác nhau đối với 12 bệnh khác nhau, khả năng đạt được ít nhất một kết quả dương tính giả là 46%. Xác suất này nhấn mạnh sự cần thiết phải thận trọng khi quyết định làm bộ xét nghiệm và khi phiên giải kết quả của bộ xét nghiệm đó.Nguyên tắc tương tự cũng được áp dụng khi yêu cầu nhiều xét nghiệm nhạy nhưng không đặc hiệu (ví dụ: "huyết thanh tự miễn" bao gồm kháng thể kháng nhân, ribonucleoprotein kháng nhân [anti-RNP], yếu tố dạng thấp) trong quá trình đánh giá bệnh nhân có các triệu chứng không khu trú và không đặc hiệu kéo dài, chẳng hạn như mệt mỏi và đau toàn thân khi không có các dấu hiệu trên khám thực thể hoặc các đặc điểm tiền sử gợi ý chẩn đoán thấp khớp cụ thể hơn.
+
+--- 8. Ngưỡng xét nghiệm ---
+
+Chỉ nên tiến hành xét nghiệm nến kết quả của nó ảnh hưởng đến việc quản lý điều trị; nếu không; bệnh nhân sẽ phải chịu chi phí và rủi ro vô ích. Các bác sĩ lâm sàng đôi khi có thể đưa ra quyết định khi nào nên kiểm tra bằng cách so sánh các ước lượng xác suất trước khi thử nghiệm và sau khi thử nghiệm với các ngưỡng nhất định. Trên ngưỡng xác suất nhất định, lợi ích lớn hơn nguy cơ khi điều trị (bao gồm cả nguy cơ nhầm lẫn khi điều trị bệnh nhân không mắc bệnh) và điều trị được chỉ định. Điểm này được gọi là ngưỡng điều trị và được xác định như mô tả trongCác Chiến lược Ra Quyết định Lâm sàng: Ước tính xác suất và ngưỡng điều trị. Theo định nghĩa, xét nghiệm là không cần thiết khi xác suất thử trước đã vượt quá TT. Nhưng xét nghiệm được chỉ định nếu xác suất xét nghiệm trước đó thấp hơn ngưỡng điều trịmiễn là một kết quả kiểm tra dương tính có thể làm tăng xác suất sau khi thử nghiệm trên ngưỡng điều trị. Xác suất thử nghiệm thấp nhất khi xảy ra điều này phụ thuộc vào đặc tính xét nghiệm (ví dụ LR +) và được gọi là ngưỡng xét nghiệm.Về mặt khái niệm, nếu xét nghiệm tốt nhất cho một căn bệnh nặng có LR + thấp và TT cao, thì có thể hiểu rằng một kết quả xét nghiệm dương tính có thể không làm tăng xác suất sau test trên TT ở bệnh nhân có tỷ lệ trước test thấp nhưng đáng lo ngại (có lẽ rơi vào khoảng 10% hoặc 20%).Để minh họa rõ hơn bằng số liệu, xem xéttrường hợp đã mô tả phía trên khi bệnh nhân nhồi máu cơ tim (MI) cấp, sự cân bằng giữa rủi ro và lợi ích đã giúp xác định ngưỡng điều trị là 25%. Khi xác suất của MI vượt quá 25%, liệu pháp tiêu huyết khối được đưa ra. Khi nào nên làm siêu âm tim nhanh trước khi điều trị tiêu huyết khối? Giả định độ nhạy giả thuyết là 60% và độ đặc hiệu 70% đối với siêu âm tim trong chẩn đoán MI; những tỷ lệ phần trăm tương ứng với LR+là 60/(100−70)=2 và LR-là (100−60)/70=0,57.Vấn đề này có thể được giải quyết bằng toán học (tỷ số chênh trước kiểm tra×LR=tỷ số chênh sau kiểm tra) hoặc trực quan hơn bằng đồ họa bằng cách sử dụngBiểu đồ Fagan. Trên biểu đồ, một đường thẳng nối ngưỡng điều trị (25%) trên đường xác suất sau kiểm tra thông qua LR+(2,0) trên đường LR giữa cắt một xác suất trước kiểm tra xấp xỉ 0,14. Rõ ràng, một xét nghiệm dương tính ở bệnh nhân có bất kỳ xác suất trưoc test<14% vẫn sẽ dẫn đến một xác suất sau test thấp hơn ngưỡng điều trị. Trong trường hợp này, siêu âm tim sẽ vô ích vì ngay cả kết quả dương tính cũng không dẫn đến quyết định điều trị; do đó, ngưỡng xét nghiệmcho xét nghiệm cụ thểnày là 14% (xem hìnhMiêu tả ngưỡng xét nghiệm và điều trị). Một thử nghiệm với một LR khác+sẽ có một ngưỡng thử nghiệm khác.Biểu đồ Fagan được sử dụng để xác định nhu cầu kiểm traTrong ví dụ này, một bệnh nhân được cho là có ngưỡng điều trị (TT) là 25% đối với nhồi máu cơ tim cấp tính (MI). Khi xác suất của MI vượt quá 25%, liệu pháp tiêu huyết khối được đưa ra. Các bác sĩ lâm sàng có thể sử dụng toán đồ Fagan để quyết định có nên làm siêu âm tim nhanh trước khi điều trị tiêu huyết khối. Giả sử rằng siêu âm tim có độ nhạy giả định là 60% và đặc hiệu là 70% đối với bệnh nhồi máu mới, tỷ lệ phần trăm tương ứng với tỷ suất có thể xảy ra (LR) của kết quả xét nghiệm dương tính (LR+) của 60/(100−70)=2. Một đường thẳng nối TT 25% trên đường xác suất sau kiểm tra với LR+(2,0) trên đường LR ở giữa cắt một xác suất trước kiểm tra xấp xỉ 0,14. Một kết quả xét nghiệm dương tính ở bệnh nhân có xác suất trước khi thử nghiệm<14% vẫn tạo ra một xác suất sau khi thử nghiệm ít hơn TT.Theo Fagan TJ. Thư: Toán đồ định lý Bayes.New England Journal of Medicine293:257, 1975.Mô tả về ngưỡng xét nghiệm và điều trịĐường ngang thể hiện xác suất sau test.Vì 14% vẫn là nguy cơ đáng kể đối với MI, rõ ràng là xác suất bệnh dưới ngưỡng kiểm tra (ví dụ, xác suất 10% thử trước) không nhất thiết khẳng định loại trừ bệnh, nó chỉ đưa ra kết quả dương tính, và dođó, không chỉ định xét nghiệm. Trong trường hợp này, bác sĩ lâm sàng sẽ quan sát bệnh nhân, để có thêm những phát hiện có thể làm tăng xác suất trước test lên trên ngưỡng xét nghiệm. Trong thực tế, bởi một bệnh thường có sẵn nhiều xét nghiệm, có thể sử dụng phương phápxét nghiệm tuần tự.Ví dụ này xem xét một xét nghiệm không gây nguy hiểm cho bệnh nhân. Nếu xét nghiệm có những nguy cơ nghiêm trọng (ví dụ như đặt catheter), ngưỡng xét nghiệm phải cao hơn; có thể thực hiện tính toán định lượng nhưng phương pháp này khá phức tạp. Do đó, giảm độ nhạy và độ đặc hiệu của xét nghiệm hoặc tăng nguy cơ của nó sẽ giúp thu hẹp phạm vi xác suất của bệnh tới ngưỡng xét nghiệm là chiến lược tốt nhất. Cải thiện khả năng chẩn đoán phân biệt hoặc giảm nguy cơ của xét nghiệm sẽ mở rộng phạm vi xác suất tới ngưỡng xét nghiệm là chiến lược tốt nhất.Một ngoại lệ có thể xảy ra đối với việc không làm xét nghiệm, đó là khi xác suất trước test dưới ngưỡng xét nghiệm (nhưng vẫn đáng lo ngại), có thể là nếu kết quả test âm tính có thểgiảmxác suất sau thử nghiệm dưới ngưỡng mà tại đó có thể cân nhắc chẩn đoán loại trừ bệnh. Sự xác định này đòi hỏi một sự đánh giá chủ quan về mức độ chắc chắn cần thiết khi kết luận rằng bệnh có thể bị loại trừ, và bởi có xác suất thấp, cần đặc biệt chú ý đến bất kỳ nguy cơ nào của xét nghiệm.

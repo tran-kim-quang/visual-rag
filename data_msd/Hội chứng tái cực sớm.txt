@@ -1,0 +1,313 @@
+TIÊU ĐỀ: Hội chứng tái cực sớm
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-ở-tim-do-loạn-sản-thất-phải/hội-chứng-tái-cực-sớm
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng tái cực sớm
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2024
+
+|
+
+đã sửa đổi
+
+Thg 8 2024
+
+v75228833_vi
+
+Hội chứng tái cực sớm là một rối loạn di truyền về chức năng kênh ion của tế bào cơ tim (bệnh lý kênh ion). Bệnh nhân dễ bị nhịp nhanh thất đa hình (VT) và rung thất (VF). Chẩn đoán bằng ECG. Một số bệnh nhân cần máy khử rung tim cấy ghép vào cơ thể (ICD).
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+và
+
+Tổng quan về bệnh kênh ion
+
+.)
+
+Tái cực sớm đề cập đến các dấu hiệu trên ECG điển hình bao gồm điểm J chênh lên
+
+≥
+
+0,1 mV, thường có phức hợp QRS ở cuối líu ríu hoặc chẽ đôi, tiếp theo là đoạn ST chênh lên ở
+
+≥
+
+2 chuyển đạo liền kề khác ngoài V1 đến V3. Kiểu ECG này không phải là hiếm, vì nó xảy ra ở khoảng 5% đến 10% dân số (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+), đặc biệt là ở nam giới, bệnh nhân trẻ tuổi và vận động viên. Hầu hết những người có kiểu ECG tái cực sớm này không có biểu hiện loạn nhịp tim. Tuy nhiên, tái cực sớm phổ biến hơn đáng kể ở những người sống sót sau rung thất vô căn rõ ràng (VF) (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+).
+
+Hội chứng
+
+tái cực sớm đề cập đến những người bị tái cực sớm ở các chuyển đạo dưới hoặc ngoài (dự đoán nguy cơ loạn nhịp tim cao hơn) trên ECG cũng có rối loạn nhịp thất có triệu chứng (
+
+4
+
+).
+
+Hội chứng tái cực sớm dường như là kết quả của các đột biến tạo ra một
+
+Đạt được chức năng của các kênh dòng kali ra ngoài
+
+HOẶC
+
+Mất chức năng của kênh ion dòng natri hoặc kênh ion dòng canxi đi vào
+
+Những thay đổi ở kênh ion này phóng đại các gradient điện áp xuyên thành nhỏ bình thường trong giai đoạn bình nguyên của điện thế hoạt động. Những gradient này tạo ra sóng J và điểm J trên ECG và dẫn đến nhịp nhanh thất đa hình có thể thoái hóa thành
+
+rung thất
+
+trong trường hợp không có các nguyên nhân khác gây tái cực sớm (ví dụ: tăng thân nhiệt hoặc hạ thân nhiệt,
+
+hạ canxi máu
+
+,
+
+tăng kali máu
+
+). Những thay đổi trên ECG tương tự như những thay đổi của
+
+hội chứng Brugada
+
+nhưng xuất hiện ở các đạo trình dưới hoặc ngoài trong hội chứng tái cực sớm hơn là ở các đạo trình trước tim phải của hội chứng Brugada. Điều này và những điểm tương đồng khác đã dẫn đến hội chứng Brugada và hội chứng tái cực sớm được nhóm thành hội chứng sóng J (
+
+4
+
+). Trước VT/VF, kiểu tái cực sớm có thể trở nên phóng đại hơn và VT/VF có thể được thúc đẩy bởi một đợt thiếu máu cục bộ cơ tim.
+
+Hội chứng tái cực sớm dường như là do di truyền, nhưng các đột biến gen đặc hiệu của bệnh hiếm khi được xác định, cho thấy rối loạn này thường là đa gen.
+
+Loạn nhịp thất có thể gây đánh trống ngực và/hoặc ngừng tim. Ngất có thể xảy ra nhưng không phổ biến vì nhịp nhanh thất xảy ra với hội chứng tái cực sớm hiếm khi tự chấm dứt (không giống như một số rối loạn khác gây ra nhịp nhanh thất trong đó ngất phổ biến hơn).
+
+Tài liệu tham khảo chung
+
+1.
+
+Haïssaguerre M, Derval N, Sacher F, et al
+
+: Sudden cardiac arrest associated with early repolarization.
+
+N Engl J Med
+
+358(19):2016–2023, 2008 doi: 10.1056/NEJMoa071968
+
+2.
+
+Rosso R, Kogan E, Belhassen B, et al
+
+: J-point elevation in survivors of primary ventricular fibrillation and matched control subjects: incidence and clinical significance.
+
+J Am Coll Cardiol
+
+52(15):1231–1238, 2008 doi: 10.1016/j.jacc.2008.07.010
+
+3.
+
+Tikkanen JT, Anttonen O, Junttila MJ, et al
+
+: Long-term outcome associated with early repolarization on electrocardiography.
+
+N Engl J Med
+
+361(26):2529–2537, 2009 doi: 10.1056/NEJMoa0907589
+
+4.
+
+Antzelevitch C, Yan GX, Ackerman MJ, et al
+
+: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.
+
+Heart Rhythm
+
+13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+Chẩn đoán hội chứng tái cực sớm
+
+Biểu hiện lâm sàng và ECG đặc trưng
+
+Sàng lọc lâm sàng các thành viên gia đình có quan hệ huyết thống bậc một
+
+Chẩn đoán nên được xem xét ở những bệnh nhân có nhịp nhanh thất đa hình, rung thất hoặc ngừng tim đột ngột (hoặc tiền sử gia đình có những biến cố đó) mà không có bệnh tim cấu trúc và những người cũng có những thay đổi trên ECG cho thấy kiểu tái cực dưới và/hoặc bên sớm. Dấu hiệu ECG điển hình của tái cực sớm là điểm J chênh lên
+
+≥
+
+1 mm (
+
+≥
+
+0,1 mV), sau đó là đoạn ST chênh lên ở
+
+≥
+
+2 chuyển đạo dưới và/hoặc chuyển đạo bên liền kề. Một hệ thống tính điểm chẩn đoán xác suất (Hệ thống tính điểm hội chứng tái cực sớm Thượng Hải) cho hội chứng tái cực sớm đã được đề xuất (
+
+1
+
+).
+
+Do các khiếm khuyết gen cụ thể hiếm khi được xác định nên xét nghiệm di truyền thường không được khuyến nghị cho bệnh nhân hoặc thành viên gia đình. Tuy nhiên, các thành viên gia đình có quan hệ huyết thống bậc một cần phải được đánh giá lâm sàng và bằng ECG.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Antzelevitch C, Yan GX, Ackerman MJ, et al
+
+: J-Wave syndromes expert consensus conference report: Emerging concepts and gaps in knowledge.
+
+Heart Rhythm
+
+13(10):e295–324, 2016 doi: 10.1016/j.hrthm.2016.05.024
+
+Điều trị hội chứng tái cực sớm
+
+Máy khử rung tim cấy ghép vào cơ thể (ICD) nếu có triệu chứng
+
+Đối với
+
+những bệnh nhân không có triệu chứng
+
+nhưng có kiểu ECG tái cực sớm và không có tiền sử gia đình đột tử, không nên điều trị vì những bệnh nhân này có nguy cơ rất thấp.
+
+Bệnh nhân đã bị ngừng tim hoặc có biểu hiện VF hoặc VT đa hình
+
+có nguy cơ cao và có chỉ định loại I cho ICD (
+
+1
+
+). ICD có thể được xem xét cho một số bệnh nhân có mẫu ECG tái cực sớm và một số đặc điểm nguy cơ cao khác (
+
+2
+
+).
+
+Khi cần ức chế phóng điện ICD thường xuyên, quinidin, chẹn dòng kali đi ra có thể tăng lên trong hội chứng tái cực sớm, có thể có hiệu quả. Isoproterenol đường tĩnh mạch có thể hữu ích ở những bệnh nhân có nhiều đợt loạn nhịp thất liên tiếp nhanh chóng (cơn bão điện).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+Circulation
+
+138(13):e272–e391, 2018 doi: 10.1161/CIR.0000000000000549
+
+2.
+
+Priori SG, Wilde AA, Horie M, et al
+
+: HRS/EHRA/APHRS expert consensus statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.
+
+Heart Rhythm
+
+10:1932–1963, 2013 doi: 10.1016/j.hrthm.2013.05.014
+
+Những điểm chính
+
+Hội chứng tái cực sớm là do di truyền và dẫn đến nhịp nhanh thất đa hình (VT), rung thất (VF) và đột tử.
+
+Xem xét chẩn đoán ở những bệnh nhân có nhịp nhanh thất đa hình không rõ nguyên nhân, rung thất hoặc ngừng tim đột ngột và tái cực sớm ở các chuyển đạo dưới hoặc ngoài trên ECG.
+
+Đặt ICD ở những bệnh nhân bị ngừng tim, rung thất hoặc nhịp nhanh thất đa hình.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán hội chứng tái cực sớm ---
+
+Biểu hiện lâm sàng và ECG đặc trưngSàng lọc lâm sàng các thành viên gia đình có quan hệ huyết thống bậc mộtChẩn đoán nên được xem xét ở những bệnh nhân có nhịp nhanh thất đa hình, rung thất hoặc ngừng tim đột ngột (hoặc tiền sử gia đình có những biến cố đó) mà không có bệnh tim cấu trúc và những người cũng có những thay đổi trên ECG cho thấy kiểu tái cực dưới và/hoặc bên sớm. Dấu hiệu ECG điển hình của tái cực sớm là điểm J chênh lên≥1 mm (≥0,1 mV), sau đó là đoạn ST chênh lên ở≥2 chuyển đạo dưới và/hoặc chuyển đạo bên liền kề. Một hệ thống tính điểm chẩn đoán xác suất (Hệ thống tính điểm hội chứng tái cực sớm Thượng Hải) cho hội chứng tái cực sớm đã được đề xuất (1).Do các khiếm khuyết gen cụ thể hiếm khi được xác định nên xét nghiệm di truyền thường không được khuyến nghị cho bệnh nhân hoặc thành viên gia đình. Tuy nhiên, các thành viên gia đình có quan hệ huyết thống bậc một cần phải được đánh giá lâm sàng và bằng ECG.
+
+--- 2. Điều trị hội chứng tái cực sớm ---
+
+Máy khử rung tim cấy ghép vào cơ thể (ICD) nếu có triệu chứngĐối vớinhững bệnh nhân không có triệu chứngnhưng có kiểu ECG tái cực sớm và không có tiền sử gia đình đột tử, không nên điều trị vì những bệnh nhân này có nguy cơ rất thấp.Bệnh nhân đã bị ngừng tim hoặc có biểu hiện VF hoặc VT đa hìnhcó nguy cơ cao và có chỉ định loại I cho ICD (1). ICD có thể được xem xét cho một số bệnh nhân có mẫu ECG tái cực sớm và một số đặc điểm nguy cơ cao khác (2).Khi cần ức chế phóng điện ICD thường xuyên, quinidin, chẹn dòng kali đi ra có thể tăng lên trong hội chứng tái cực sớm, có thể có hiệu quả. Isoproterenol đường tĩnh mạch có thể hữu ích ở những bệnh nhân có nhiều đợt loạn nhịp thất liên tiếp nhanh chóng (cơn bão điện).Tài liệu tham khảo về điều trị1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.Circulation138(13):e272–e391, 2018 doi: 10.1161/CIR.00000000000005492.Priori SG, Wilde AA, Horie M, et al: HRS/EHRA/APHRS expert consensus statement on the diagnosis and management of patients with inherited primary arrhythmia syndromes: document endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.Heart Rhythm10:1932–1963, 2013 doi: 10.1016/j.hrthm.2013.05.014
+
+--- 3. Những điểm chính ---
+
+Hội chứng tái cực sớm là do di truyền và dẫn đến nhịp nhanh thất đa hình (VT), rung thất (VF) và đột tử.Xem xét chẩn đoán ở những bệnh nhân có nhịp nhanh thất đa hình không rõ nguyên nhân, rung thất hoặc ngừng tim đột ngột và tái cực sớm ở các chuyển đạo dưới hoặc ngoài trên ECG.Đặt ICD ở những bệnh nhân bị ngừng tim, rung thất hoặc nhịp nhanh thất đa hình.

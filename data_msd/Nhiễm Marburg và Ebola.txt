@@ -1,0 +1,407 @@
+TIÊU ĐỀ: Nhiễm Marburg và Ebola
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/arboviruses-arenaviridae-và-filoviridae/nhiễm-marburg-và-ebola
+================================================================================
+
+NỘI DUNG:
+
+Nhiễm Marburg và Ebola
+
+Theo
+
+Thomas M. Yuill
+
+,
+
+PhD
+
+,
+
+University of Wisconsin-Madison
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1021037_vi
+
+Marburg và Ebola là nhóm
+
+filovirus
+
+, vi rút gây ra xuất huyết, suy đa cơ quan và tỷ lệ tử vong cao. Chẩn đoán bằng xét nghiệm hấp thụ miễn dịch liên kết enzyme (ELISA), PCR hoặc kính hiển vi điện tử. Điều trị là hỗ trợ. Các biện pháp cách ly và kiểm dịch chặt chẽ là cần thiết để ngăn chặn sự bùng phát.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Virut Marburg và Ebola là các filovirus riêng biệt nhau nhưng gây ra các bệnh tương tự lâm sàng đặc trưng bởi các cơn sốt xuất huyết và thoát mao mạch. Nhiễm virut Ebola có độc tính hơn một chút so với virut Marburg.
+
+Chủng vi rút Ebola
+
+đã được phân biệt thành 5 loài:
+
+Vi-rút Zaire Ebola
+
+Vi rút Sudan Ebola
+
+Vi rút Ebola rừng Tai (trước đây là vi rút Ebola Côte d'Ivoire [rừng Tai nằm ở Côte D'Ivoire])
+
+Vi rút Bundibugyo Ebola
+
+Vi rút Reston Ebola (có ở Châu Á nhưng không gây bệnh ở người)
+
+Hầu hết các đợt bùng phát nhiễm vi rút Marburg và vi rút Ebola đều bắt nguồn từ Trung và Tây Phi cận Sahara. Các đợt bùng phát rất hiếm và lẻ tẻ; các đợt bùng phát này đã được ngăn chặn một phần vì xảy ra ở những khu vực cô lập. Khi có tình trạng lây lan sang các khu vực khác xảy ra, thì thường là do du khách đến từ Châu Phi. Tuy nhiên, vào năm 1967, một cơn sốt xuất huyết Marburg nhỏ xảy ra ở Đức và Nam Tư trong số những nhân viên phòng thí nghiệm, những người đã tiếp xúc với mô từ khỉ xanh nhập khẩu.
+
+Tháng 12 năm 2013, một đợt bùng phát lớn do vi rút Zaire Ebola bắt đầu ở vùng nông thôn Guinea (Tây Phi), sau đó lan sang các vùng đô thị đông dân cư ở Guinea và sang các nước láng giềng Liberia và Sierra Leone. Lần đầu tiên được công nhận vào tháng 3 năm 2014. Đến nay đã có tới hàng ngàn người và tỷ lệ tử vong khoảng 59%. Những du khách bị nhiễm bệnh đã lây lan vi rút Ebola sang Nigeria, Châu Âu và Bắc Mỹ. Các trường hợp của Ebola tiếp tục xảy ra trong những tháng đầu năm 2016; Sierra Leone cuối cùng đã được tuyên bố là không có Ebola vào tháng 3 năm 2016, Guinea, vào tháng 5 năm 2016 và Liberia vào tháng 6 năm 2016.
+
+Vào năm 2017, một đợt bùng phát nhỏ do vi rút Zaire Ebola đã được báo cáo tại một vùng xa xôi của Cộng hòa Dân chủ Congo (DRC); Tổ chức Y tế Thế giới (WHO) đã tuyên bố kết thúc đợt bùng phát này vào tháng 7 năm 2017 (
+
+1
+
+). Vào tháng 5 năm 2018, một đợt bùng phát khác đã xảy ra ở DRC (
+
+2
+
+). Việc kiểm soát diễn ra phức tạp bởi sự phân bố rộng rãi của các vụ án trên khắp 3 tỉnh và sự hiện diện của hàng chục nhóm nổi dậy vũ trang thù địch. Việc xác định trường hợp và truy tìm liên hệ rất khó khăn. Các trung tâm điều trị được thành lập và có nhân viên là các chuyên gia chăm sóc sức khỏe trong nước và quốc tế. Vào cuối năm 2019, cả Hoa Kỳ và Liên minh Châu Âu đã phê duyệt vắc xin Ebola Zaire [rVSV-ZEBOV] giúp chấm dứt dịch bệnh vào tháng 6 năm 2020. Một loại vắc xin thứ hai, vắc xin 2 liều được gọi là Ad26.ZEBOV/MVA-BN-Filo, đã được phê duyệt và đưa vào sử dụng sau đó. Vào tháng 6 năm 2020, một đợt bùng phát dịch Ebola khác đã xảy ra ở tỉnh Équateur của DRC và kết thúc vào tháng 3 năm 2021 (
+
+3
+
+). Vào tháng 10 năm 2021, một đợt bùng phát ở tỉnh Bắc Kivu của Cộng hòa Dân chủ Congo kết thúc vào tháng 12 năm 2021 với 11 trường hợp được xác nhận và 9 trường hợp tử vong (
+
+4
+
+). Vào tháng 4 năm 2022, có một đợt bùng phát nhỏ khác ở tỉnh Équateur của CHDC Congo với 4 trường hợp được xác nhận và 1 trường hợp có thể mắc bệnh, tất cả đều đã chết. Đợt bùng phát đã được tuyên bố là đã kết thúc vào tháng 7 năm 2022 (
+
+5
+
+). Vào tháng 8 năm 2022, một đợt bùng phát ở Bắc Kivu chỉ có một trường hợp được xác nhận; đợt bùng phát đã được tuyên bố là đã kết thúc vào tháng 9 năm 2022 (
+
+6
+
+).
+
+Vào tháng 9 năm 2022, Uganda đã báo cáo một trường hợp mắc bệnh Ebola do vi rút ebola Sudan gây ra, đây là trường hợp đầu tiên trong một thập kỷ. Đợt bùng phát này đã được tuyên bố là đã kết thúc vào tháng 1 năm 2023, sau khi có 142 trường hợp được xác nhận và 77 trường hợp tử vong (
+
+7
+
+).
+
+Có một đợt bùng phát nhỏ bắt đầu vào tháng 2 năm 2021 tại Guinea được cho là bắt đầu từ vợ của một người đàn ông đã khỏi bệnh do nhiễm vi rút Ebola 5 năm trước đó và được cho là đã truyền vi rút cho vợ anh ta. Tình trạng lây nhiễm dai dẳng và lây truyền chậm này được cho là do vi rút có trình tự gen tương tự đáng kể với vi rút bùng phát ở Tây Phi 5 năm đến 7 năm trước đó.
+
+Lây truyền virus Marburg và Ebola
+
+Hầu hết các trường hợp liên quan đến việc tiếp xúc với động vật linh trưởng không phải là người ở châu Phi cận Sahara. Vectors và nguồn bệnh không được biết chính xác, mặc dù virus Marburg đã được nhận diện ở loài dơi, và các trường hợp đã xảy ra ở những người tiếp xúc với loài dơi (ví dụ trong các mỏ hoặc hang động). Sự bùng nổ virus Ebola liên quan đến việc tiêu thụ thịt từ động vật hoang dã ở những vùng bị ảnh hưởng (thịt rừng) hoặc súp làm từ dơi. Nhiễm virus Ebola và Marburg cũng xảy ra sau khi xử lý các mô từ động vật bị nhiễm bệnh.
+
+Filoviruses rất dễ lây. Sự lây truyền từ người sang người xảy ra qua da và niêm mạc màng nhày với chất dịch cơ thể (nước bọt, nôn ói, nước tiểu, phân, mồ hôi, sữa mẹ, tinh dịch) của người có triệu chứng nhiễm bệnh hoặc hiếm từ động vật linh trưởng không phải người. Con người không bị nhiễm trùng cho đến khi họ phát triển các triệu chứng. Triệu chứng và dấu hiệu tồn tại ở những bệnh nhân sống sót trong chừng mực cần thiết để phát triển một phản ứng miễn dịch hiệu quả. Thông thường, những bệnh nhân còn sống sót sẽ loại bỏ hoàn toàn virus và không còn truyền virus; tuy nhiên, vi-rút Ebola có thể tồn tại ở một số địa điểm đặc quyền miễn dịch (mắt, não, tinh hoàn). Loại vi rút này có thể xuất hiện trở lại từ các vị trí này và gây ra di chứng muộn hoặc tái phát và nghi ngờ lây truyền qua đường tình dục từ những người còn sống đến cá thể nhạy cảm.
+
+Tình trạng lây truyền vi rút Marburg qua tinh dịch bị nhiễm bệnh đã được ghi nhận đến 7 tuần sau khi hồi phục trên lâm sàng (
+
+8
+
+). Vi rút Ebola tồn tại trong một năm hoặc lâu hơn trong tinh dịch của 63% nam giới đã khỏi bệnh Ebola. Tuy nhiên, các xét nghiệm PCR không thể xác định liệu virus Ebola sống có và có khả năng lây lan bệnh hay không. Tuy nhiên, một người đàn ông đã truyền vi rút cho bạn tình của mình > 500 ngày sau khi anh ta có các triệu chứng của nhiễm trùng, cho thấy rằng vi rút có thể tồn tại và được lây truyền. Có khả năng Ebola có thể lây lan qua quan hệ tình dục hoặc tiếp xúc khác với tinh dịch (
+
+9
+
+).
+
+Lây truyền qua sol khí đã bị nghi ngờ trong một số trường hợp; tuy nhiên, nếu nó xảy ra, nó có lẽ là hiếm gặp.
+
+Trong đợt bùng phát mới, lây truyền trong chủ yếu từ người sang người, do tiếp xúc gần gũi với máu, chất tiết, dịch cơ thể hoặc các cơ quan của người bị bệnh. Các nghi thức mai táng, trong đó người thân có tiếp xúc thân thể với người đã qua đời, đã đóng một vai trò quan trọng trong việc lây nhiễm.
+
+Tài liệu tham khảo chung
+
+1.
+
+Centers for Disease Control and Prevention (CDC): Ebola
+
+: 2017 Democratic Republic of the Congo, Bas Uélé District. 2017.
+
+2.
+
+World Health Organization (WHO)
+
+: New Ebola outbreak declared in Democratic Republic of the Congo, May 2018.
+
+3.
+
+CDC: Ebola
+
+: 2020 Democratic Republic of the Congo, Equateur Province.
+
+4.
+
+WHO:
+
+Ebola virus disease – Democratic Republic of the Congo, December 2021
+
+5.
+
+WHO:
+
+Ebola outbreak 2022 - Équateur Province, DRC
+
+6.
+
+WHO:
+
+Ebola Virus Disease –Democratic Republic of the Congo, September 2022
+
+7.
+
+WHO:
+
+Ebola disease caused by Sudan ebolavirus – Uganda
+
+8.
+
+WHO:
+
+Fact Sheet: Marburg virus disease. Ngày 15 tháng 2 năm 2018.
+
+9.
+
+Bausch DG, Crozier I
+
+: The Liberia Men's Health Screening Program for Ebola virus: Win-win-win for survivor, scientist, and public health.
+
+Lancet Glob Health
+
+4 (10):e672–673, 2016. doi: 10.1016/S2214-109X(16)30207-8. Xuất bản điện tử vào ngày 2016 tháng 30.
+
+Các triệu chứng và dấu hiệu của nhiễm vi rút Marburg và vi rút Ebola
+
+Triệu chứng nhiễm Marburg và Ebola rất giống nhau.
+
+Sau giai đoạn ủ bệnh từ 2 đến 20 ngày, sốt, đau cơ và nhức đầu xảy ra, thường có đau bụng, buồn nôn, và các triệu chứng hô hấp trên (ho, đau ngực, viêm họng). Chứng sợ ánh sáng, viêm kết mạc, vàng da, và hạch to. Nôn ói và tiêu chảy có thể sớm xảy ra. Tình trạng mê sảng, chóng mặt và hôn mê có thể xảy ra, chỉ ra sự biểu hiện ở thần kinh trung ương.
+
+Các triệu chứng xuất huyết bắt đầu trong vài ngày đầu tiên và bao gồm chấm xuất huyết, vết bầm máu, và chảy máu xung quanh vị trí tiêm truyền và bề mặt niêm mạc. Phát ban dát sẩn, chủ yếu ở thân, bắt đầu từ ngày thứ 5.
+
+Tình trạng giảm thể tích nghiêm trọng có thể phát triển, kết quả từ
+
+Mất nhiều dịch do tiêu chảy và nôn ói
+
+thoát dịch mao mạch, dẫn đến giảm albumin máu và mất dịch từ lòng mạch
+
+Mất chất điện giải có thể gây hạ natri máu nặng, hạ kali máu và hạ calci máu. Rối loạn nhịp tim có thể gặp.
+
+Trong tuần lễ thứ 2 của các triệu chứng, giảm sốt xảy ra bệnh nhân bắt đầu phục hồi, hoặc bệnh nhân bị suy đa phủ tạng dẫn tới tử vong. Phục hồi kéo dài và có thể phức tạp do viêm gan, viêm tủy mắt, viêm tủy ngang, và viêm tinh hoàn. Tử vong dao động từ 25 đến 90%.
+
+Tổn thương mắt (ví dụ, đục thủy tinh thể nặng ở trẻ em) có thể phát triển sau khi phục hồi do nhiễm Ebola. Ở một người trưởng thành, viêm màng bồ đào một bên nghiêm trọng phát triển trong giai đoạn hồi phục sau khi nhiễm trùng.
+
+Một nghiên cứu tiếp theo gần đây về bệnh nhân trong thời gian hồi phục sau khi nhiễm vi rút Ebola đã báo cáo rằng nhiều người sống sót có những hạn chế lớn về nhận thức và thị lực và di động do đau khớp (
+
+1
+
+).
+
+Vi rút Ebola có thể tồn tại trong hệ thống thần kinh trung ương và cuối cùng gây ra tái phát.
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+Jagadesh S, Sevalie S, Fatoma R, et al
+
+: Disability among Ebola survivors and their close contacts in Sierra Leone: A retrospective case-controlled cohort study.
+
+Clin Infect Dis
+
+66 (1):131–133, 2018 doi: 10.1093/cid/cix705
+
+Chẩn đoán nhiễm vi rút Marburg và Ebola
+
+Đánh giá và thử nghiệm theo hướng dẫn của Trung tâm Kiểm soát và Kiểm soát Bệnh tật
+
+Xét nghiệm ELISA và xét nghiệm sao chép ngược (RT-PCR)
+
+Nghi ngờ nhiễm virut Marburg hoặc Ebola ở những bệnh nhân có xu hướng chảy máu, sốt, các triệu chứng khác phù hợp với nhiễm khuẩn filovirus sớm và đi du lịch từ các vùng lưu hành. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) đã ban hành hướng dẫn đánh giá khách du lịch trở về từ các vùng lưu hành dịch bệnh (xem
+
+CDC: Interim Guidance on Risk Assessment and Management of Persons with Potential Ebolavirus Exposure
+
+). Cách tiếp cận tương tự có thể được sử dụng nếu nghi ngờ Marburg virus.
+
+Các trường hợp nên được thảo luận với các cơ quan y tế công cộng, những người có thể hỗ trợ trong tất cả các khía cạnh của quản lý, bao gồm
+
+Quyết định theo đuổi chẩn đoán
+
+Sắp xếp vận chuyển mẫu để thử nghiệm
+
+Điều trị, bao gồm vận chuyển đến các trung tâm được lựa chọn và, khi được chỉ định, sử dụng các liệu pháp mới
+
+Theo dõi địa chỉ liên hệ
+
+Xét nghiệm bao gồm công thức máu, sinh hóa máu thường qui, chức năng gan và xét nghiệm đông máu, và xét nghiệm nước tiểu. Các xét nghiệm chẩn đoán bao gồm ELISA và RT-PCR. Tiêu chuẩn vàng là phát hiện các virion đặc trưng bằng kính hiển vi điện tử của mô bị nhiễm (đặc biệt là gan) hoặc máu.
+
+Điều trị nhiễm vi rút Marburg và Ebola
+
+Chăm sóc hỗ trợ
+
+Điều trị bằng thuốc kháng vi-rút
+
+Chăm sóc hỗ trợ
+
+bao gồm những việc sau đây:
+
+Duy trì thể tích tuần hoàn và cân bằng điện giải
+
+Thay thế các yếu tố đông máu suy giảm
+
+Giảm tối thiểu các thủ tục xâm lấn
+
+Điều trị triệu chứng, bao gồm sử dụng thuốc giảm đau
+
+Hiện có hai phương pháp điều trị bằng kháng thể đơn dòng để điều trị nhiễm vi rút Ebola do Zaire ebolavirus gây ra. Đây là REGN-EB3 và mAb114. REGN-EB3 đã được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) phê duyệt vào tháng 10 năm 2020 và là sự kết hợp của ba kháng thể đơn dòng (atoltivimab/maftivimab/odesivimab). Thuốc thứ hai, mAb114, là một kháng thể đơn dòng duy nhất (ansuvimab) đã được phê duyệt vào tháng 12 năm 2020. Cả hai phương pháp điều trị này đã được chứng minh là hiệu quả trong đợt bùng phát Ebola 2018 đến 2020 ở DRC, chứng tỏ tỷ lệ chữa khỏi khoảng 90% số những bệnh nhân có tải lượng vi rút thấp (điều này cho thấy việc điều trị được bắt đầu trong vài ngày đầu tiên sau khi nhiễm bệnh). Điều này được so sánh với tỷ lệ tử vong được cho là hơn 70% ở những bệnh nhân không được điều trị và chưa được tiêm phòng và là một cải tiến đáng kể so với các loại thuốc thử nghiệm trước đây đối với Ebola (ZMapp, remdesivir).
+
+Cho đến khi hai kháng thể đơn dòng hoặc các kháng thể khác được hiển thị để vô hiệu hóa virus Marburg, vẫn không có điều trị hiệu quả cho nhiễm virus đó.
+
+Phòng ngừa nhiễm vi rút Marburg và Ebola
+
+Một số
+
+vắc xin Ebola
+
+đang được thử nghiệm lâm sàng. rVSV-ZEBOV đã được sử dụng thành công trên quy mô hạn chế vào cuối đợt bùng phát Ebola năm 2016 ở Tây Phi và trên quy mô lớn hơn trong đợt bùng phát năm 2018 ở DRC và đã được FDA chấp thuận vào tháng 12 năm 2019 để phòng ngừa bệnh do Zaire ebolavirus gây ra ở những người từ 18 tuổi trở lên. Vào năm 2020, Cơ quan Dược phẩm Châu Âu đã cấp phép lưu hành trên thị trường loại vắc xin mới thứ hai được phân phối thành 2 liều, mỗi Ad26.ZEBOV và MVA-BN-Filo trong một liều, để phòng ngừa bệnh do vi rút Ebola (loài Zaire ebolavirus) gây ra ở những người từ 1 tuổi trở lên. Vắc xin Zaire Ebola không có bảo vệ chéo chống lại bệnh do vi rút Ebola ở Sudan. Đối với vi rút ebola ở Sudan, có 3 loại vắc xin ứng cử viên được hội đồng chuyên gia độc lập của WHO khuyến nghị thử nghiệm trong đợt bùng phát ở Uganda. Đợt bùng phát đã kết thúc trước khi thử nghiệm vắc xin vòng (tiêm vắc xin cho một nhóm người xung quanh các trường hợp mắc bệnh, thay vì tiêm vắc xin cho toàn bộ dân số) có thể được thực hiện.
+
+Để ngăn ngừa sự lây lan, các bệnh nhân có triệu chứng có khả năng nhiễm Ebola hoặc Marburg phải được cô lập trong các cơ sở ngăn chặn dành riêng. Các đơn vị chăm sóc tích cực chuẩn (ICUs) ở các bệnh viện công không phù hợp. Các cơ sở ngăn chặn đặc biệt cung cấp cho việc kiểm soát toàn bộ nước thải và các sản phẩm hô hấp.
+
+Các nhân viên tiếp xúc với bệnh nhân phải được bao phủ hoàn toàn trong bộ quần áo bảo vệ với hệ thống khí thở nội bộ. Các nhân viên đã được đào tạo phải có sẵn để giúp những người tiếp xúc với bệnh nhân loại bỏ quần áo bảo hộ. Phải tuân theo các quy trình để đeo và tháo mặt nạ, kính bảo vệ, mặt nạ, áo choàng và găng tay (xem CDC
+
+Sequence for Donning Personal Protective Equipment
+
+).
+
+khử trùng triệt để các trang thiết bị, đóng cửa bệnh viện, và giáo dục cộng đồng đã rút ngắn các vụ dịch trước đây.
+
+Tất cả các trường hợp nghi ngờ, kể cả xác chết, đòi hỏi sự cô lập nghiêm ngặt và xử lý đặc biệt.
+
+Vì vi rút Marburg và Ebola có thể tồn tại trong tinh dịch và lây truyền qua đường tình dục, Tổ chức Y tế Thế giới (WHO) khuyến cáo rằng những bệnh nhân đã từng bị nhiễm trùng và bạn tình của họ nên kiêng tất cả các loại quan hệ tình dục xảy ra sau đây:
+
+Cho đến khi 2 xét nghiệm cho kết quả âm tính
+
+Nếu không có xét nghiệm, cho đến khi 12 tháng trôi qua kể từ khi xuất hiện triệu chứng
+
+Để biết thêm thông tin, xem
+
+WHO: Interim recommendations for infection prevention and control
+
+,
+
+WHO: Marburg virus disease
+
+và
+
+WHO: Interim advice on the sexual transmission of the Ebola virus disease
+
+.
+
+Những điểm chính
+
+Các vi rút Ebola và Marburg, mặc dù khác biệt, gây ra các cơn sốt xuất huyết tương tự nhau; Các đợt bùng phát bùng phát chủ yếu do lây truyền từ người sang người khi tiếp xúc với dịch cơ thể bị nhiễm bệnh, nội tạng của người bị nhiễm bệnh hoặc tử thi.
+
+Nghi ngờ nhiễm Marburg hoặc Ebola ở bệnh nhân có xu hướng chảy máu, sốt, các triệu chứng tương thích khác, và đi du lịch từ các vùng lưu hành.
+
+Cô lập bệnh nhân có thể bị nhiễm trùng và sử dụng các thủ tục nghiêm ngặt để bảo vệ người chăm sóc cho những bệnh nhân này.
+
+Vắc xin Ebola đang được phát triển cho Zaire ebolavirus và 2 loại hiện đang được sử dụng thường xuyên ở DRC. Ba loại vắc xin ứng viên đã được phát triển cho Sudan ebolavirus.
+
+Lập kế hoạch chẩn đoán, quản lý và phòng ngừa lây truyền với các cơ quan y tế công cộng.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+Centers for Disease Control and Prevention (CDC): Think Ebola: Early recognition
+
+: Infographic for health care providers approaching a patient who may have Ebola
+
+CDC: Sequence for Donning and Removing Personal Protective Equipment
+
+World Health Organization (WHO): Outbreaks and Emergencies Bulletin
+
+WHO: Interim Infection Prevention and Control Guidance for Care of Patients with Suspected or Confirmed Filovirus Haemorrhagic Fever in Health-Care Settings, with Focus on Ebola, December 2014
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các triệu chứng và dấu hiệu của nhiễm vi rút Marburg và vi rút Ebola ---
+
+Triệu chứng nhiễm Marburg và Ebola rất giống nhau.Sau giai đoạn ủ bệnh từ 2 đến 20 ngày, sốt, đau cơ và nhức đầu xảy ra, thường có đau bụng, buồn nôn, và các triệu chứng hô hấp trên (ho, đau ngực, viêm họng). Chứng sợ ánh sáng, viêm kết mạc, vàng da, và hạch to. Nôn ói và tiêu chảy có thể sớm xảy ra. Tình trạng mê sảng, chóng mặt và hôn mê có thể xảy ra, chỉ ra sự biểu hiện ở thần kinh trung ương.Các triệu chứng xuất huyết bắt đầu trong vài ngày đầu tiên và bao gồm chấm xuất huyết, vết bầm máu, và chảy máu xung quanh vị trí tiêm truyền và bề mặt niêm mạc. Phát ban dát sẩn, chủ yếu ở thân, bắt đầu từ ngày thứ 5.Tình trạng giảm thể tích nghiêm trọng có thể phát triển, kết quả từMất nhiều dịch do tiêu chảy và nôn óithoát dịch mao mạch, dẫn đến giảm albumin máu và mất dịch từ lòng mạchMất chất điện giải có thể gây hạ natri máu nặng, hạ kali máu và hạ calci máu. Rối loạn nhịp tim có thể gặp.Trong tuần lễ thứ 2 của các triệu chứng, giảm sốt xảy ra bệnh nhân bắt đầu phục hồi, hoặc bệnh nhân bị suy đa phủ tạng dẫn tới tử vong. Phục hồi kéo dài và có thể phức tạp do viêm gan, viêm tủy mắt, viêm tủy ngang, và viêm tinh hoàn. Tử vong dao động từ 25 đến 90%.Tổn thương mắt (ví dụ, đục thủy tinh thể nặng ở trẻ em) có thể phát triển sau khi phục hồi do nhiễm Ebola. Ở một người trưởng thành, viêm màng bồ đào một bên nghiêm trọng phát triển trong giai đoạn hồi phục sau khi nhiễm trùng.Một nghiên cứu tiếp theo gần đây về bệnh nhân trong thời gian hồi phục sau khi nhiễm vi rút Ebola đã báo cáo rằng nhiều người sống sót có những hạn chế lớn về nhận thức và thị lực và di động do đau khớp (1).Vi rút Ebola có thể tồn tại trong hệ thống thần kinh trung ương và cuối cùng gây ra tái phát.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.Jagadesh S, Sevalie S, Fatoma R, et al: Disability among Ebola survivors and their close contacts in Sierra Leone: A retrospective case-controlled cohort study.Clin Infect Dis66 (1):131–133, 2018 doi: 10.1093/cid/cix705
+
+--- 2. Chẩn đoán nhiễm vi rút Marburg và Ebola ---
+
+Đánh giá và thử nghiệm theo hướng dẫn của Trung tâm Kiểm soát và Kiểm soát Bệnh tậtXét nghiệm ELISA và xét nghiệm sao chép ngược (RT-PCR)Nghi ngờ nhiễm virut Marburg hoặc Ebola ở những bệnh nhân có xu hướng chảy máu, sốt, các triệu chứng khác phù hợp với nhiễm khuẩn filovirus sớm và đi du lịch từ các vùng lưu hành. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) đã ban hành hướng dẫn đánh giá khách du lịch trở về từ các vùng lưu hành dịch bệnh (xemCDC: Interim Guidance on Risk Assessment and Management of Persons with Potential Ebolavirus Exposure). Cách tiếp cận tương tự có thể được sử dụng nếu nghi ngờ Marburg virus.Các trường hợp nên được thảo luận với các cơ quan y tế công cộng, những người có thể hỗ trợ trong tất cả các khía cạnh của quản lý, bao gồmQuyết định theo đuổi chẩn đoánSắp xếp vận chuyển mẫu để thử nghiệmĐiều trị, bao gồm vận chuyển đến các trung tâm được lựa chọn và, khi được chỉ định, sử dụng các liệu pháp mớiTheo dõi địa chỉ liên hệXét nghiệm bao gồm công thức máu, sinh hóa máu thường qui, chức năng gan và xét nghiệm đông máu, và xét nghiệm nước tiểu. Các xét nghiệm chẩn đoán bao gồm ELISA và RT-PCR. Tiêu chuẩn vàng là phát hiện các virion đặc trưng bằng kính hiển vi điện tử của mô bị nhiễm (đặc biệt là gan) hoặc máu.
+
+--- 3. Điều trị nhiễm vi rút Marburg và Ebola ---
+
+Chăm sóc hỗ trợĐiều trị bằng thuốc kháng vi-rútChăm sóc hỗ trợbao gồm những việc sau đây:Duy trì thể tích tuần hoàn và cân bằng điện giảiThay thế các yếu tố đông máu suy giảmGiảm tối thiểu các thủ tục xâm lấnĐiều trị triệu chứng, bao gồm sử dụng thuốc giảm đauHiện có hai phương pháp điều trị bằng kháng thể đơn dòng để điều trị nhiễm vi rút Ebola do Zaire ebolavirus gây ra. Đây là REGN-EB3 và mAb114. REGN-EB3 đã được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) phê duyệt vào tháng 10 năm 2020 và là sự kết hợp của ba kháng thể đơn dòng (atoltivimab/maftivimab/odesivimab). Thuốc thứ hai, mAb114, là một kháng thể đơn dòng duy nhất (ansuvimab) đã được phê duyệt vào tháng 12 năm 2020. Cả hai phương pháp điều trị này đã được chứng minh là hiệu quả trong đợt bùng phát Ebola 2018 đến 2020 ở DRC, chứng tỏ tỷ lệ chữa khỏi khoảng 90% số những bệnh nhân có tải lượng vi rút thấp (điều này cho thấy việc điều trị được bắt đầu trong vài ngày đầu tiên sau khi nhiễm bệnh). Điều này được so sánh với tỷ lệ tử vong được cho là hơn 70% ở những bệnh nhân không được điều trị và chưa được tiêm phòng và là một cải tiến đáng kể so với các loại thuốc thử nghiệm trước đây đối với Ebola (ZMapp, remdesivir).Cho đến khi hai kháng thể đơn dòng hoặc các kháng thể khác được hiển thị để vô hiệu hóa virus Marburg, vẫn không có điều trị hiệu quả cho nhiễm virus đó.
+
+--- 4. Phòng ngừa nhiễm vi rút Marburg và Ebola ---
+
+Một sốvắc xin Ebolađang được thử nghiệm lâm sàng. rVSV-ZEBOV đã được sử dụng thành công trên quy mô hạn chế vào cuối đợt bùng phát Ebola năm 2016 ở Tây Phi và trên quy mô lớn hơn trong đợt bùng phát năm 2018 ở DRC và đã được FDA chấp thuận vào tháng 12 năm 2019 để phòng ngừa bệnh do Zaire ebolavirus gây ra ở những người từ 18 tuổi trở lên. Vào năm 2020, Cơ quan Dược phẩm Châu Âu đã cấp phép lưu hành trên thị trường loại vắc xin mới thứ hai được phân phối thành 2 liều, mỗi Ad26.ZEBOV và MVA-BN-Filo trong một liều, để phòng ngừa bệnh do vi rút Ebola (loài Zaire ebolavirus) gây ra ở những người từ 1 tuổi trở lên. Vắc xin Zaire Ebola không có bảo vệ chéo chống lại bệnh do vi rút Ebola ở Sudan. Đối với vi rút ebola ở Sudan, có 3 loại vắc xin ứng cử viên được hội đồng chuyên gia độc lập của WHO khuyến nghị thử nghiệm trong đợt bùng phát ở Uganda. Đợt bùng phát đã kết thúc trước khi thử nghiệm vắc xin vòng (tiêm vắc xin cho một nhóm người xung quanh các trường hợp mắc bệnh, thay vì tiêm vắc xin cho toàn bộ dân số) có thể được thực hiện.Để ngăn ngừa sự lây lan, các bệnh nhân có triệu chứng có khả năng nhiễm Ebola hoặc Marburg phải được cô lập trong các cơ sở ngăn chặn dành riêng. Các đơn vị chăm sóc tích cực chuẩn (ICUs) ở các bệnh viện công không phù hợp. Các cơ sở ngăn chặn đặc biệt cung cấp cho việc kiểm soát toàn bộ nước thải và các sản phẩm hô hấp.Các nhân viên tiếp xúc với bệnh nhân phải được bao phủ hoàn toàn trong bộ quần áo bảo vệ với hệ thống khí thở nội bộ. Các nhân viên đã được đào tạo phải có sẵn để giúp những người tiếp xúc với bệnh nhân loại bỏ quần áo bảo hộ. Phải tuân theo các quy trình để đeo và tháo mặt nạ, kính bảo vệ, mặt nạ, áo choàng và găng tay (xem CDCSequence for Donning Personal Protective Equipment).khử trùng triệt để các trang thiết bị, đóng cửa bệnh viện, và giáo dục cộng đồng đã rút ngắn các vụ dịch trước đây.Tất cả các trường hợp nghi ngờ, kể cả xác chết, đòi hỏi sự cô lập nghiêm ngặt và xử lý đặc biệt.Vì vi rút Marburg và Ebola có thể tồn tại trong tinh dịch và lây truyền qua đường tình dục, Tổ chức Y tế Thế giới (WHO) khuyến cáo rằng những bệnh nhân đã từng bị nhiễm trùng và bạn tình của họ nên kiêng tất cả các loại quan hệ tình dục xảy ra sau đây:Cho đến khi 2 xét nghiệm cho kết quả âm tínhNếu không có xét nghiệm, cho đến khi 12 tháng trôi qua kể từ khi xuất hiện triệu chứngĐể biết thêm thông tin, xemWHO: Interim recommendations for infection prevention and control,WHO: Marburg virus diseasevàWHO: Interim advice on the sexual transmission of the Ebola virus disease.
+
+--- 5. Những điểm chính ---
+
+Các vi rút Ebola và Marburg, mặc dù khác biệt, gây ra các cơn sốt xuất huyết tương tự nhau; Các đợt bùng phát bùng phát chủ yếu do lây truyền từ người sang người khi tiếp xúc với dịch cơ thể bị nhiễm bệnh, nội tạng của người bị nhiễm bệnh hoặc tử thi.Nghi ngờ nhiễm Marburg hoặc Ebola ở bệnh nhân có xu hướng chảy máu, sốt, các triệu chứng tương thích khác, và đi du lịch từ các vùng lưu hành.Cô lập bệnh nhân có thể bị nhiễm trùng và sử dụng các thủ tục nghiêm ngặt để bảo vệ người chăm sóc cho những bệnh nhân này.Vắc xin Ebola đang được phát triển cho Zaire ebolavirus và 2 loại hiện đang được sử dụng thường xuyên ở DRC. Ba loại vắc xin ứng viên đã được phát triển cho Sudan ebolavirus.Lập kế hoạch chẩn đoán, quản lý và phòng ngừa lây truyền với các cơ quan y tế công cộng.
+
+--- 6. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.Centers for Disease Control and Prevention (CDC): Think Ebola: Early recognition: Infographic for health care providers approaching a patient who may have EbolaCDC: Sequence for Donning and Removing Personal Protective EquipmentWorld Health Organization (WHO): Outbreaks and Emergencies BulletinWHO: Interim Infection Prevention and Control Guidance for Care of Patients with Suspected or Confirmed Filovirus Haemorrhagic Fever in Health-Care Settings, with Focus on Ebola, December 2014

@@ -1,0 +1,1005 @@
+TIÊU ĐỀ: Suy hô hấp cấp giảm oxy (AHRF, ARDS)
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/suy-hô-hấp-và-thông-khí-cơ-học/suy-hô-hấp-cấp-giảm-oxy-ahrf-ards
+================================================================================
+
+NỘI DUNG:
+
+Suy hô hấp cấp giảm oxy (AHRF, ARDS)
+
+Theo
+
+Bhakti K. Patel
+
+,
+
+MD
+
+,
+
+University of Chicago
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v927066_vi
+
+Suy hô hấp do thiếu oxy cấp tính được định nghĩa là tình trạng thiếu oxy máu nặng (PaO2
+
+<
+
+60 mmHg) mà không có tăng CO2 máu. Nguyên nhân là do luồng thông máu trong phổi dẫn đến sự mất cân bằng thông khí-tưới máu (V/Q) do làm đầy hoặc làm xẹp đường dẫn khí (ví dụ: phù phổi do tim hoặc phù phổi không do tim, viêm phổi, xuất huyết phổi) hoặc có thể là bệnh đường thở (ví dụ: đôi khi hen suyễn, COPD); hoặc bằng cách chuyển dòng máu trong tim từ tuần hoàn bên phải sang bên trái. Các triệu chứng bao gồm khó thở và thở nhanh. Chẩn đoán dựa vào khí máu và chụp X-quang ngực. Xử trí bao gồm các chiến lược oxy không xâm lấn khác nhau như oxy lưu lượng cao, áp lực dương liên tục, hoặc các chiến lược oxy không xâm lấn khác, hoặc thở máy xâm lấn, khi cần thiết.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+(Xem thêm
+
+Tổng quan về thông khí cơ học
+
+)
+
+Công cụ tính toán lâm sàng
+
+tỷ số paO2 / FiO2 (đối với tính toán MODS)
+
+Căn nguyên của AHRF
+
+Thâm nhiễm phế nang trong suy hô hấp cấp giảm oxy (AHRF) có thể là kết quả của
+
+Tăng áp lực mao mạch phế nang, như xảy ra trong
+
+suy thất trái
+
+(nguyên nhân
+
+phù phổi
+
+) hoặc tăng thể tích tuần hoàn
+
+Tăng tính thấm màng phế nang mao mạch, như xảy ra trong bất kỳ điều kiện nào dẫn đến hội chứng suy hô hấp cấp (ARDS)
+
+Máu (như
+
+xuất huyết phế nang lan tỏa
+
+) hoặc dịch rỉ viêm (như xảy ra trong
+
+viêm phổi
+
+hoặc các bệnh phổi viêm khác)
+
+Các luồng thông trong tim phải sang trái, trong đó máu tĩnh mạch bị khử oxy đi qua phổi và đi vào hệ tuần hoàn, thường xảy ra như một biến chứng lâu dài của các luồng thông từ trái sang phải lớn, không được điều trị (ví dụ: do
+
+lỗ bầu dục
+
+,
+
+thông liên nhĩ
+
+). Hội chứng này được đặt tên là
+
+Hội chứng Eisenmenger
+
+. Thảo luận này tập trung vào giảm oxy máu kháng trị do nguyên nhân phổi.
+
+Sinh lý bệnh AHRF
+
+ARDS
+
+ARDS là một tổn thương phổi lan tỏa, viêm là nguyên nhân gây ra AHRF (
+
+1
+
+). ARDS được chia thành 3 loại mức độ nặng: nhẹ, trung bình và nặng dựa trên tình trạng thiếu oxy và tiêu chuẩn lâm sàng. Mức độ nhẹ tương ứng với bệnh cảnh trước được gọi là tổn thương phổi cấp (ALI).
+
+Bảng
+
+Định nghĩa ARDS theo Berlin
+
+Bảng
+
+Định nghĩa ARDS theo Berlin
+
+Định nghĩa ARDS theo Berlin
+
+Phân loại ARDS
+
+Oxy hóa
+
+Mức độ nặng
+
+Nhẹ
+
+200 mm Hg
+
+<
+
+PaO2/FIO2
+
+≤
+
+300 mm Hg* khi có PEEP hoặc CPAP
+
+≥
+
+5 cm H2O
+
+Vừa
+
+100 mm Hg
+
+<
+
+PaO2/FIO2
+
+≤
+
+200 mm Hg khi có PEEP
+
+≥
+
+5 cm H2O
+
+Nặng
+
+PaO2/FIO2
+
+≤
+
+100 mm Hg khi có PEEP
+
+≥
+
+5 cm H2O
+
+Tiêu chuẩn lâm sàng
+
+Thời gian
+
+Khởi phát trong vòng 1 tuần sau khi có tác nhân hoặc có các triệu chứng về hô hấp mới hoặc trầm trọng hơn
+
+Hình ảnh (X-quang hoặc CT ngực)
+
+Thâm nhiễm cả hai bên không giải thích được hoàn toàn bằng tràn dịch, xẹp phổi hoặc thùy phổi, hoặc các nốt
+
+Nguồn gốc phù
+
+Suy hô hấp không giải thích đầy đủ do suy tim hay tình trạng quá tải dịch
+
+* PaO2 theo mm Hg; FIO2 trong phần thập phân (ví dụ, 0,5).
+
+ARDS
+
+=
+
+hội chứng suy hô hấp cấp tính; CPAP = áp lực dương liên tục; FIO2 = phần trăm oxy thở vào; PaO2 = áp suất riêng phần oxy động mạch; PEEP = áp lực dương cuối kỳ thở ra.
+
+Phỏng theo
+
+ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, et al
+
+: Acute respiratory distress syndrome: The Berlin definition.
+
+Journal of the American Medical Association
+
+307:2526–2533, 2012. doi: 10.1001/jama.2012.5669
+
+* PaO2 theo mm Hg; FIO2 trong phần thập phân (ví dụ, 0,5).
+
+ARDS
+
+=
+
+hội chứng suy hô hấp cấp tính; CPAP = áp lực dương liên tục; FIO2 = phần trăm oxy thở vào; PaO2 = áp suất riêng phần oxy động mạch; PEEP = áp lực dương cuối kỳ thở ra.
+
+Phỏng theo
+
+ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, et al
+
+: Acute respiratory distress syndrome: The Berlin definition.
+
+Journal of the American Medical Association
+
+307:2526–2533, 2012. doi: 10.1001/jama.2012.5669
+
+Chẩn đoán ARDS dựa trên định nghĩa Berlin là một thách thức trong việc thay đổi thực hành lâm sàng (tức là tăng cường sử dụng ống thông mũi lưu lượng cao và sử dụng rộng rãi phương pháp đo độ bão hòa oxy trong máu) và thường không thể áp dụng trong các môi trường có nguồn lực thấp (do thiếu tiếp cận thường xuyên với chụp X-quang ngực, lấy mẫu khí máu động mạch và thở máy). Do đó, một hội đồng đồng thuận đã đề xuất sửa đổi định nghĩa Berlin nhằm đưa vào phương pháp siêu âm để xác nhận các đám mờ hai bên; sử dụng áp suất dương cuối thì thở ra (PEEP)
+
+và
+
+oxy lưu lượng cao (ít nhất 30 L/phút); và độ bão hòa oxy/phân đoạn oxy hít vào (FiO2)
+
+≤
+
+315 nếu độ bão hòa oxy
+
+≤
+
+97% (
+
+2
+
+). Các định nghĩa mới cho các thiết lập nguồn lực thấp không phân loại mức độ nặng.
+
+Trong ARDS, viêm phổi hoặc đáp ứng viêm hệ thống dẫn đến sự giải phóng các cytokine và các phân tử tiền viêm khác. Các cytokine kích hoạt đại thực bào phế nang và tuyển bạch cầu trung tính vào phổi, từ đó giải phóng leukotrien, chất oxy hóa, yếu tố kích hoạt tiểu cầu và protease, góp phần gây tổn thương mô ở phổi cũng như các cơ quan khác (chấn thương sinh học). Những chất này làm tổn thương thành mạch mao mạch và biểu mô phế nang, phá vỡ các rào cản giữa các mao mạch và phế nang. Dịch phù, protein và các mảnh vỡ tế bào làm ngập các phế nang và khoảng kẽ, làm gián đoạn chất hoạt động bề mặt, xẹp phế nang, bất tương xứng thông khí - tưới máu, shunt và
+
+tăng áp phổi
+
+. Xẹp phế nang thường xảy ra ở các vùng phổi phụ thuộc. Giai đoạn sớm của ARDS được gọi là xuất tiết. Sau đó, có sự tăng sinh của biểu mô phế nang và xơ hóa, tạo thành giai đoạn tăng sinh xơ.
+
+Nguyên nhân của ARDS có thể liên quan đến tổn thương phổi trực tiếp hoặc gián tiếp.
+
+Nguyên nhân thường gặp của tổn thương phổi trực tiếp
+
+là
+
+Hít phải dịch axit
+
+Viêm phổi
+
+Các nguyên nhân ít gặp hơn
+
+gây tổn thương phổi trực tiếp là
+
+Xuất huyết phế nang lan tỏa
+
+Dập phổi
+
+Đuối nước
+
+Ghép phổi
+
+Tắc mạch do mỡ
+
+Tổn thương đương thở do hít phải khí
+
+Tắc mạch ối
+
+Nguyên nhân thường gặp của tổn thương phổi gián tiếp
+
+bao gồm
+
+Nhiễm khuẩn huyết
+
+Chấn thương với sốc giảm thể tích kéo dài
+
+Các nguyên nhân ít gặp hơn
+
+gây tổn thương phổi gián tiếp bao gồm
+
+Viêm tụy
+
+Truyền máu số lượng lớn
+
+(ví dụ:
+
+>
+
+15 đơn vị)
+
+Ghép tuỷ
+
+Bỏng
+
+Tim phổi nhân tạo
+
+Quá liều hoặc ngộ độc thuốc (ví dụ:
+
+aspirin
+
+,
+
+cocaine
+
+, opioid, phenothiazines, thuốc chống trầm cảm ba vòng)
+
+Phù phổi thần kinh do đột quỵ, co giật, chấn thương đầu, thiếu oxy máu
+
+Tiền sản giật
+
+Sẩy thai nhiễm khuẩn
+
+Thuốc cản quang (hiếm)
+
+Nhiễm khuẩn huyết
+
+và
+
+viêm phổi
+
+chiếm khoảng 60% số trường hợp ARDS.
+
+Giảm oxy máu kháng trị
+
+Bất kể nguyên nhân gây ra tình trạng lấp đầy khoảng không trong AHRF là gì, khoảng không khí bị ngập hoặc xẹp không cho phép khí hít vào đi vào, do đó máu tưới vào các phế nang đó vẫn ở hàm lượng oxy tĩnh mạch hỗn hợp cho dù FIO2 cao đến đâu. Hiệu ứng này dẫn tới máu không được oxy hóa về tĩnh mạch phổi và gây tình trạng thiếu oxy máu động mạch. Ngược lại, tình trạng hạ oxy máu do các phế nang thông khí có ít thông khí hơn so với tưới máu (tức là tỷ lệ thông khí/tưới máu thấp xảy ra trong
+
+bệnh hen suyễn
+
+hoặc
+
+bệnh phổi tắc nghẽn mạn tính
+
+[COPD] và ở một mức độ nào đó trong ARDS) có thể dễ dàng điều chỉnh bằng cách oxy bổ sung; do đó, suy hô hấp do hen suyễn hoặc COPD thường thở máy nhiều hơn suy hô hấp do hạ oxy máu.
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Grasselli G, Calfee CS, Camporota L, et al
+
+: ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies.
+
+Intensive Care Med
+
+49(7):727–759, 2023. doi:10.1007/s00134-023-07050-7
+
+2.
+
+Matthay MA, Arabi Y, Arroliga AC, et al
+
+. A New Global Definition of Acute Respiratory Distress Syndrome.
+
+Am J Respir Crit Care Med
+
+2024;209(1):37-47. doi:10.1164/rccm.202303-0558WS
+
+Triệu chứng và Dấu hiệu của AHRF
+
+Thiếu oxy cấp tính (Xem thêm
+
+Giảm độ bão hòa Oxy
+
+máu) có thể gây khó thở, bồn chồn, và lo lắng. Các dấu hiệu bao gồm lú lẫn hoặc thay đổi ý thức, xanh tím, thở nhanh, nhịp tim nhanh, và vã mồ hôi. Có thể dẫn đến
+
+rối loạn nhịp tim
+
+và
+
+hôn mê
+
+.
+
+Khí hít vào làm mở các đường thở đang bị sập, gây ra ran nổ, phát hiện khi nghe phổi; ran nổ thường lan tỏa nhưng đôi khi nhiều hơn ở đáy phổi, đặc biệt là ở thùy dưới bên trái do trọng lượng của tim làm tăng
+
+xẹp phổi
+
+. Tĩnh mạch cổ nổi xảy ra với áp lực dương cuối kỳ thở ra rất cao (PEEP) hoặc suy thất trái.
+
+Chẩn đoán AHRF
+
+Chụp X-quang ngực, đo độ bão hòa oxy trong máu và đo khí máu động mạch (ABG)
+
+Định nghĩa lâm sàng (xem bảng
+
+Định nghĩa ARDS của Berlin
+
+)
+
+Thiếu oxy máy thường được nhận ra khi sử dụng phương pháp đo SpO2. Bệnh nhân có độ bão hòa oxy thấp cần phải chụp X-quang ngực và điều trị bổ sung oxy trong khi chờ kết quả xét nghiệm. Không phải tất cả bệnh nhân có độ bão hòa oxy thấp đều cần đo ABG.
+
+Nếu thở oxy không cải thiện để oxy bão hòa
+
+>
+
+90%, cần nghi ngờ shunt từ phải sang trái. Một sự thâm nhiễm của phế nang rõ ràng trên X-quang ngực chỉ ra nguyên nhân là do phế nang, chứ không phải là một shunt tim mạch. Tuy nhiên, khi xuất hiện bệnh, tình trạng thiếu oxy máu có thể xảy ra trước khi nhìn thấy những thay đổi trên X-quang.
+
+Khi có chẩn đoán AHRF thì cần phải xác định nguyên nhân. Cả hai nguyên nhân ở phổi và ngoài phổi cần phải được xem xét. Đôi khi một rối loạn đang tiến triển được biết rõ (ví dụ,
+
+nhồi máu cơ tim cấp tính
+
+,
+
+viêm tụy
+
+,
+
+nhiễm trùng
+
+) là một nguyên nhân rõ ràng. Trong những trường hợp khác, tiền sử mang tính gợi ý; nghi ngờ
+
+viêm phổi
+
+ở bệnh nhân bị suy giảm miễn dịch và nghi ngờ xuất huyết phế nang sau khi ghép tủy xương hoặc ở bệnh nhân mắc bệnh thấp khớp toàn thân. Tuy nhiên, thông thường, những bệnh nhân bị bệnh nặng đã được truyền một lượng lớn dịch qua đường tĩnh mạch để hồi sức và AHRF áp suất cao (ví dụ: do suy tâm thất hoặc quá tải dịch) do điều trị phải được phân biệt với AHRF áp suất thấp tiềm ẩn (ví dụ: do nhiễm trùng huyết hoặc viêm phổi).
+
+Phù phổi (X-quang)
+
+Hình ảnh
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phù phổi áp lực cao do suy thất trái được gợi ý bởi tiếng tim thứ ba (S3), tĩnh mạch cổ nổi và phù ngoại biên khi khám và bởi sự hiện diện của thâm nhiễm trung tâm lan tỏa, tim to và cuống mạch máu rộng bất thường trên phim chụp X-quang ngực. Sự thâm nhiễm lan tỏa, hai bên của ARDS thường ở ngoại biên hơn. Thâm nhiễm khu trú thường xảy ra do viêm phổi thùy,
+
+xẹp phổi
+
+, hoặc
+
+đụng dập phổi
+
+. Mặc dù siêu âm tim có thể cho thấy rối loạn chức năng tâm thất trái, ngụ ý nguồn gốc tim, phát hiện này không cụ thể vì nhiễm trùng cũng có thể làm giảm sự co bóp cơ tim.
+
+Các hình ảnh chụp ngực của ARDS
+
+Hội chứng suy hô hấp cấp
+
+Phim chụp X-quang ngực đứng thẳng này cho thấy các nốt mờ hai bên lan tỏa đặc trưng của hội chứng suy hô hấp cấp tính (ARDS).
+
+... đọc thêm
+
+Được sự cho phép của nhà xuất bản. Theo Herdegen J, Bone R. Trong
+
+Atlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections
+
+. Do G Mandell (biên tập loạt bài) và MS Simberkoff biên tập. Philadelphia, Current Medicine, 1996.
+
+Phim chụp CT của một bệnh nhân bị ARDS
+
+Mũi tên màu đỏ chỉ vào các nốt mờ của phế nang lan tỏa trên bệnh nhân ARDS (hội chứng suy hô hấp cấp tính). Bệnh nhân cũng có tim to, một máy khử rung tim cấy ghép tự động ba dây dẫn có đầu vào ở tâm thất phải và một ống thông Swan Ganz có đầu nhọn ở động mạch phổi.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang của bệnh nhân bị ARDS
+
+Mũi tên chỉ vào một số nốt mờ lan tỏa ở phế nang lan ở bệnh nhân ARDS (hội chứng suy hô hấp cấp tính).
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Hội chứng suy hô hấp cấp
+
+Phim chụp X-quang ngực đứng thẳng này cho thấy các nốt mờ hai bên lan tỏa đặc trưng của hội chứng suy hô hấp cấp tính (ARDS).
+
+... đọc thêm
+
+Được sự cho phép của nhà xuất bản. Theo Herdegen J, Bone R. Trong
+
+Atlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections
+
+. Do G Mandell (biên tập loạt bài) và MS Simberkoff biên tập. Philadelphia, Current Medicine, 1996.
+
+Phim chụp CT của một bệnh nhân bị ARDS
+
+Mũi tên màu đỏ chỉ vào các nốt mờ của phế nang lan tỏa trên bệnh nhân ARDS (hội chứng suy hô hấp cấp tính). Bệnh nhân cũng có tim to, một máy khử rung tim cấy ghép tự động ba dây dẫn có đầu vào ở tâm thất phải và một ống thông Swan Ganz có đầu nhọn ở động mạch phổi.
+
+... đọc thêm
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Phim chụp X-quang của bệnh nhân bị ARDS
+
+Mũi tên chỉ vào một số nốt mờ lan tỏa ở phế nang lan ở bệnh nhân ARDS (hội chứng suy hô hấp cấp tính).
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Khi ARDS được chẩn đoán nhưng nguyên nhân không rõ ràng (ví dụ: chấn thương, nhiễm trùng huyết, nhiễm trùng phổi nặng, viêm tụy), việc xem xét các loại thuốc, thuốc bất hợp pháp và các xét nghiệm chẩn đoán, thủ thuật và phương pháp điều trị gần đây có thể gợi ý nguyên nhân không được nhận biết, chẳng hạn như sử dụng thuốc cản quang chụp X-quang,
+
+thuyên tắc mạch do khí
+
+hoặc
+
+truyền máu
+
+. Khi không phát hiện được nguyên nhân nguy cơ, một số chuyên gia khuyên nên thực hiện nội soi phế quản kèm theo rửa phế quản phế nang để loại trừ xuất huyết phế nang và
+
+viêm phổi do tăng bạch cầu ái toan
+
+và nếu thủ thuật này không phát hiện được thì sinh thiết phổi để loại trừ các bệnh lý khác (ví dụ:
+
+viêm phổi kẽ do quá mẫn
+
+,
+
+viêm phổi kẽ cấp tính
+
+).
+
+Điều trị AHRF
+
+Hỗ trợ oxy không xâm lấn
+
+Thông khí cơ học nếu độ bão hòa là
+
+<
+
+90% với oxy lưu lượng cao
+
+AHRF thường được điều trị ban đầu bằng 70% đến 100% oxy được cung cấp không xâm lấn (ví dụ: bằng mặt nạ không tái thở) (
+
+1
+
+). Tuy nhiên, việc sử dụng hỗ trợ oxy không xâm lấn, chẳng hạn như ống thông mũi lưu lượng cao (HFNC) và thông khí áp lực dương không xâm lấn (NIPPV), để xử lý ban đầu tình trạng suy hô hấp có hạ oxy máu cấp tính đã gia tăng trong đại dịch COVID-19 do hiệu ứng tiết kiệm của máy thở có khả năng xảy ra.
+
+Hỗ trợ oxy không xâm lấn có thể tránh
+
+đặt nội khí quản
+
+và các biến chứng của đặt nội khí quản; tuy nhiên, việc thở tự nhiên khi gắng sức quá mức có thể gây tổn thương phổi (được gọi là tổn thương phổi do bệnh nhân tự gây ra). Một thử nghiệm lâm sàng so sánh hiệu quả của HFNC, NIPPV mặt nạ và oxy tiêu chuẩn trong việc ngăn ngừa đặt nội khí quản cho thấy rằng HFNC có thể ngăn ngừa đặt nội khí quản ở bệnh nhân có tỷ lệ PaO2/FiO2
+
+<
+
+200 (
+
+2
+
+). Đã ghi nhận tỷ lệ tử vong trong 90 ngày tăng lên ở những bệnh nhân được chọn ngẫu nhiên với NIPPV và thở oxy tiêu chuẩn so với HFNC. Một giải thích cho tỷ lệ tử vong quá mức này ở nhóm NIPPV đeo mặt nạ có thể là do thể tích khí lưu thông quá mức làm trầm trọng thêm tình trạng tổn thương phổi.
+
+Một thử nghiệm lâm sàng nhỏ khác so sánh việc cung cấp oxy bằng mũ bảo hiểm có mặt nạ cho thấy tỷ lệ đặt nội khí quản và tử vong thấp hơn khi sử dụng mũ bảo hiểm (
+
+3
+
+). Có dữ liệu hạn chế so sánh việc sử dụng mũ bảo hiểm NIPPV với HFNC ở bệnh nhân suy hô hấp có hạ oxy máu cấp tính liên quan đến COVID-19, cho thấy rằng mũ bảo hiểm NIPPV có thể làm giảm tỷ lệ đặt nội khí quản nhưng không cải thiện số ngày không cần hỗ trợ hô hấp (
+
+4
+
+). Do đó, không có bằng chứng thuyết phục chỉ ra tính ưu việt hơn của một trong hai cách tiếp cận trong việc xử trí ban đầu tình trạng giảm oxy máu. Do lo ngại về việc tăng tỷ lệ tử vong có thể do đặt nội khí quản chậm ở những bệnh nhân có tỷ lệ PaO2/FiO2
+
+≤
+
+150, nên thận trọng khi sử dụng hỗ trợ oxy không xâm lấn trong tình trạng thiếu oxy từ trung bình đến nặng (
+
+5
+
+).
+
+Nếu hỗ trợ oxy không xâm lấn không dẫn đến độ bão hòa oxy
+
+>
+
+90%, có lẽ nên xem xét thở máy. Kiểm soát đặc hiệu thay đổi tùy theo từng bệnh nền.
+
+Công cụ tính toán lâm sàng
+
+Cân nặng lý tưởng của cơ thể
+
+Thông khí cơ học trong phù phổi do tim
+
+Thông khí cơ học (Xem thêm
+
+Tổng quan về thông khí cơ học
+
+) có lợi cho thất trái bằng nhiều cách. Áp lực dương thở vào sẽ làm giảm tiền gánh thất trái và phải và hậu gánh thất trái và làm giảm công thở. Giảm công thở có thể cho phép tái phân phối cung lượng tim bị hạn chế ra khỏi các cơ hô hấp quá mức. Áp lực thở ra (
+
+áp suất đường thởi dương thở ra
+
+[EPAP] hoặc PEEP) phân phối lại dịch phù phổi từ phế nang ra khoảng kẽ, cho phép nhiều phế nang tham gia vào việc trao đổi khí. (Tuy nhiên, khi giải phóng bệnh nhân có cung lượng tim thấp ra khỏi thở máy sang thở máy không xâm lấn, việc chuyển từ áp lực đường thở dương sang âm có thể làm tăng hậu tải và dẫn đến phù phổi cấp hoặc hạ huyết áp trầm trọng hơn.)
+
+Thông khí áp lực dương không xâm lấn (NIPPV)
+
+, cho dù thông khí áp lực dương liên tục hay thông khí hai bên, đều hữu ích trong việc ngăn ngừa đặt nội khí quản ở nhiều bệnh nhân mà điều trị bằng thuốc thường dẫn đến cải thiện nhanh chóng. Các thiết lập thông thường là áp lực thở vào (IPAP) từ 10 đến 15 cm H2O và EPAP từ 5 đến 8 cm H2O.
+
+Thông khí cơ học thông thường có thể sử dụng một vài
+
+chế độ máy thở
+
+. Thông thường nhất, hỗ trợ kiểm soát (A/C) được sử dụng trong cài đặt cấp, khi cần hỗ trợ thở máy đầy đủ. Các thiết lập ban đầu là thể tích thông khí từ 6 đến 8 mL/kg trọng lượng cơ thể lý tưởng, tần số thở 25 lần/phút, FiO2 là 1,0, và PEEP từ 5 đến 8 cm H2O. Sau đó PEEP có thể được tăng dần mỗi 2,5 cm H2O trong khi FiO2 được giảm xuống mức không độc.
+
+Có thể sử dụng thông khí hỗ trợ áp lực (với mức PEEP tương tự). Áp lực đường thở hít vào ban đầu được cung cấp phải đủ để các cơ hô hấp được nghỉ ngơi theo đánh giá chủ quan của bệnh nhân, nhịp thở và việc sử dụng cơ hô hấp. Thông thường, một mức độ hỗ trợ áp lực cần là từ 10 đến 20 cm H2O trên PEEP.
+
+Thông khí cơ học trong ARDS
+
+Gần như tất cả bệnh nhân mắc ARDS đều cần phải thở máy (
+
+1
+
+), ngoài việc cải thiện quá trình oxy hóa, còn làm giảm nhu cầu oxy bằng cách cho cơ hô hấp nghỉ ngơi. Mục tiêu bao gồm
+
+Áp lực phế nang cao nguyên
+
+<
+
+30 cm H2O (cân nhắc các yếu tố có thể làm giảm độ giãn nở thành ngực và bụng)
+
+Thể tích khí lưu thông 6 mL/kg trọng lượng cơ thể lý tưởng để giảm thiểu tổn thương phổi thêm
+
+FIO2 càng thấp càng tốt để duy trì độ bão hòa oxy đầy đủ nhằm giảm thiểu độc tính oxy có thể xảy ra
+
+PEEP
+
+phải cao đủ để duy trì các phế nang mở và giảm FiO2 cho đến khi đạt được áp lực cao nguyên từ 28 đến 30 cm H2O. Bệnh nhân ARDS mức độ từ trung bình đến nặng có nguy cơ tử vong thấp hơn khi sử dụng PEEP cao hơn.
+
+Thông khí áp lực dương không xâm lấn (NIPPV)
+
+đôi khi hữu ích trong ARDS. Tuy nhiên, so với điều trị phù phổi do tim, cần phải có mức hỗ trợ cao hơn trong thời gian dài hơn, EPAP từ 8 đến 12 cm H2O thường cần thiết để duy trì đủ oxy hóa. Đạt được áp lực thở ra này, bệnh nhân khó có thể chịu được do đòi hỏi áp lực thở vào
+
+>
+
+18 đến 20 cm H2O; duy trì việc thông khí nên khó khăn, mặt nạ sẽ trở nên khó chịu hơn, hoại tử da và hơi vào dạ dày có thể xảy ra. Ngoài ra, những bệnh nhân được điều trị bằng NIPPV mà sau đó cần đặt nội khí quản thường tiến triển đến tình trạng nặng hơn so với khi họ được đặt nội khí quản trước đó; do đó, có thể xảy ra tình trạng khử độ bão hòa nghiêm trọng tại thời điểm đặt nội khí quản. Cần có sự theo dõi chuyên sâu và lựa chọn cẩn thận bệnh nhân NIPPV.
+
+Thông khí cơ học thông thường trong ARDS trước đây tập trung vào việc bình thường hóa các giá trị khí máu. Rõ ràng là thông khí với thể tích khí lưu thông thấp làm giảm tỷ lệ tử vong. Theo đó, ở hầu hết bệnh nhân, thể tích thông khí nên được đặt ở mức 6 mL/kg trọng lượng cơ thể lý tưởng (xem thanh bên
+
+Điều chỉnh Máy thở Ban đầu trong ARDS
+
+). Cài đặt này đòi hỏi sự gia tăng tần số thở, thậm chí lên đến 35 lần/phút, để tạo ra đủ thông khí phế nang cho phép đào thải CO2. Tuy nhiên, đôi khi tình trạng
+
+nhiễm toan hô hấp
+
+phát sinh, một số mức độ được chấp nhận vì lợi ích tốt hơn trong việc hạn chế
+
+tổn thương phổi liên quan đến máy thở
+
+và thường được dung nạp tốt, đặc biệt là khi pH
+
+≥
+
+7,15. Nếu pH giảm xuống dưới 7,15, truyền bicarbonate có thể hữu ích. Tương tự, độ bão hòa oxy dưới mức "bình thường" có thể được chấp nhận; độ bão hòa mục tiêu từ 88 đến 95% làm hạn chế tiếp xúc với mức độc tố quá mức của FiO2 và vẫn có lợi cho sự sống còn.
+
+Bởi vì tăng CO2 hoặc thể tích khí lưu thông thấp có thể gây khó thở và khiến bệnh nhân thở theo kiểu không phối hợp với máy thở, thuốc giảm đau (fentanyl hoặc morphine) và thuốc an thần (ví dụ: propofol bắt đầu ở mức 5 mcg/kg/phút và tăng lên có tác dụng lên tới 50 mcg/kg/phút; do nguy cơ tăng triglycerid máu, có thể cần phải kiểm tra nồng độ triglycerid 48 tiếng một lần (xem thêm
+
+An thần và cảm giác thoải mái
+
+). An thần được ưa thích hơn thuốc phong tỏa thần kinh cơ bởi vì phong tỏa vẫn đòi hỏi sự an thần và có thể gây ra yếu cơ kéo dài.
+
+PEEP
+
+cải thiện oxy hóa trong ARDS bằng cách tăng thể tích được trao đổi oxy qua huy động phế nang, cho phép sử dụng FiO2 thấp. Mức PEEP tối ưu và cách xác định nó đã được thảo luận. Việc sử dụng thường quy các nghiệm pháp huy động (ví dụ: chuẩn độ PEEP đến áp suất tối đa từ 35 đến 40 cm H2O và giữ trong 1 phút) sau đó chuẩn độ PEEP giảm dần được phát hiện có liên quan đến tỷ lệ tử vong tăng lên trong 28 ngày (
+
+6
+
+). Do đó, nhiều bác sĩ lâm sàng chỉ sử dụng PEEP thấp nhất để có đủ oxy bão hòa máu động mạch với FiO2 ở mức không gây độc. Ở hầu hết bệnh nhân, mức này là PEEP từ 8 đến 15 cm H2O, mặc dù đôi khi những bệnh nhân ARDS nặng cần có mức
+
+>
+
+20 cm H2O. Trong những trường hợp này, cần chú ý chặt chẽ đến các phương tiện tối ưu hóa cung cấp oxy và giảm thiểu oxy tiêu thụ.
+
+Dấu hiệu tốt nhất về tình trạng căng quá mức của phế nang là đo áp lực cao nguyên thông qua
+
+nghiệm pháp tạm ngừng cuối thì hít vào
+
+; nên kiểm tra áp lực cao nguyên 4 tiếng một lần và sau mỗi lần thay đổi PEEP hoặc thay đổi thể tích khí lưu thông. Áp lực cao nguyên mục tiêu là
+
+<
+
+30 cm H2O ở những bệnh nhân có độ giãn nở thành ngực bình thường. Để tránh giảm thông khí, mục tiêu áp lực cao nguyên có thể cần phải cao hơn ở những bệnh nhân có độ giãn nở thành ngực bất thường (ví dụ:
+
+cổ trướng
+
+,
+
+tràn dịch màng phổi
+
+, chướng bụng cấp tính,
+
+chấn thương ngực).
+
+Ngược lại, nếu áp lực cao nguyên vượt quá 30 cm H2O và không có vấn đề gì với thành ngực có thể góp phần gây ra tình trạng này, bác sĩ nên giảm thể tích khí lưu thông theo mức tăng từ 0,5 mL/kg đến 1,0 mL/kg tùy theo khả năng chịu đựng, tối thiểu là 4 mL/kg, tăng nhịp thở để bù cho việc giảm thông khí phút và kiểm tra màn hình hiển thị dạng sóng của máy thở để đảm bảo thở ra hoàn toàn. Tần số thở thường có thể tăng lên đến 35 lần/phút trước khi hiện tượng bẫy khí quá mức xảy ra do kết quả thở ra không đầy đủ. Nếu áp lực cao nguyên
+
+<
+
+25 cm H2O và thể tích thông khí là
+
+<
+
+6 mL/kg, thể tích thông khí có thể tăng lên 6 mL/kg hoặc cho đến khi áp suất cao nguyên
+
+>
+
+25 cm H2O.
+
+Một số nghiên cứu viên tin rằng thông khí kiểm soát áp lực bảo vệ phổi tốt hơn kiểm soát thể tích, nhưng thiếu dữ liệu hỗ trợ và áp lực đỉnh chứ không phải áp lực cao nguyên đang được kiểm soát. Với thông khí điều khiển áp lực, vì thể tích thông khí sẽ thay đổi khi độ giãn nở của phổi tiến triển, cần liên tục theo dõi thể tích thông khí và điều chỉnh áp lực thở vào để đảm bảo rằng bệnh nhân không nhận được thể tích thông khí quá cao hoặc quá thấp.
+
+Kiểm soát thông khí ban đầu trong ARDS
+
+Nói chung, cách tiếp cận sau đây được đề nghị để kiểm soát thông khí trong ARDS:
+
+Chế độ hỗ trợ- kiểm soát được sử dụng ban đầu với thể tích thông khí 6 mL/kg trọng lượng lý tưởng, tần số thở 25 lần/phút, tốc độ dòng 60 L/phút, FiO2 1,0 và PEEP 15 cm H2O.
+
+Khi độ bão hòa oxy là
+
+>
+
+90%, FIO2 giảm.
+
+Sau đó, PEEP giảm xuống 2,5 cm H2O tăng khả năng dung nạp để tìm PEEP ít nhất mà độ bão hòa oxy động mạch 90% trên FiO2
+
+≤
+
+0,6.
+
+Tần số thở tăng lên đến 35 phút/phút để đạt được độ pH
+
+>
+
+7,15, hoặc cho đến khi có dòng cuối kỳ thở ra.
+
+Trọng lượng cơ thể lý tưởng (IBW) thay vì trọng lượng cơ thể thực tế được sử dụng để xác định thể tích khí lưu thông thích hợp cho bệnh nhân mắc bệnh phổi đang thở máy.
+
+Tư thế nằm sấp
+
+cải thiện oxy hóa ở một số bệnh nhân bằng cách cho phép huy động vùng phổi không có thông khí. Một số bằng chứng cho thấy tư thế này cải thiện đáng kể thời gian sống thêm (
+
+7
+
+,
+
+8
+
+). Điều thú vị là, lợi ích với tỷ lệ tử vong từ tư thế nằm sấp không liên quan đến mức độ hạ oxy máu hoặc mức độ trao đổi khí bất thường mà có thể làm giảm tổn thương phổi liên quan đến máy thở.
+
+Kiểm soát dịch
+
+tối ưu ở bệnh nhân ARDS cân bằng yêu cầu về thể tích tuần hoàn thích hợp để bảo vệ sự tưới máu cơ quan với mục tiêu giảm tải tiền gánh, hạn chế việc xuất hiện dịch thấm trong phổi. Một thử nghiệm đa trung tâm lớn đã chỉ ra rằng kiểm soát dịch dè dặt, trong đó ít dịch được cho, rút ngắn thời gian thở máy và thời gian điều trị trong khoa hồi sức tích cực khi so sánh với chiến lược truyền dịch tự do hơn. Tuy nhiên, không có sự khác biệt về thời gian sống thêm giữa 2 phương pháp và việc sử dụng ống thông động mạch phổi cũng không cải thiện kết quả (
+
+9
+
+). Bệnh nhân không bị
+
+sốc
+
+là những ứng cử viên cho cách tiếp cận như vậy nhưng cần được theo dõi chặt chẽ để tìm bằng chứng giảm tưới máu cơ quan đích, chẳng hạn như hạ huyết áp, thiểu niệu, mạch yếu hoặc tứ chi lạnh.
+
+Việc điều trị dược lý dứt khoát đối với ARDS nhằm làm giảm tình trạng bệnh và tử vong vẫn còn khó đánh giá. Oxit nitric dạng hít, chất thay thế bề mặt, protein C hoạt hóa (drotrecogin alfa) và nhiều tác nhân khác nhằm điều chỉnh phản ứng viêm đã được nghiên cứu và nhận thấy không làm giảm tỷ lệ mắc bệnh hoặc tử vong (
+
+10
+
+). Dữ liệu về hiệu quả của hiệu quả corticosteroid trong ARDS không đưa ra kết luận (
+
+11
+
+). Một thử nghiệm lâm sàng không làm mù gần đây về dexamethasone được sử dụng sớm trong ARDS từ trung bình đến nặng cho thấy cải thiện về số ngày không thở máy và tỷ lệ tử vong, nhưng thử nghiệm đã bị dừng sớm do đăng ký chậm, điều này có thể làm tăng hiệu quả điều trị (
+
+12
+
+). Do đó, vai trò của corticosteroid trong ARDS vẫn chưa chắc chắn và cần nhiều dữ liệu hơn.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Grasselli G, Calfee CS, Camporota L, et al
+
+: ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies.
+
+Intensive Care Med
+
+49(7):727–759, 2023. doi:10.1007/s00134-023-07050-7
+
+2.
+
+Frat JP, Thille AW, Mercat A, et al
+
+: High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.
+
+N Engl J Med
+
+372:2185–2196, 2015. doi: 10.1056/NEJMoa1503326
+
+3.
+
+Patel BK, Wolfe KS, Pohlman AS, et al
+
+: Effect of noninvasive ventilation delivered by helmet vs face mask on the rate of endotracheal intubation in patients with acute respiratory distress syndrome: A randomized clinical trial.
+
+J AMA
+
+315(22):2435–2441, 2016. doi: 10.1001/jama.2016.6338
+
+4.
+
+Grieco DL, Menga LS, Cesarano M, et al
+
+: Effect of helmet noninvasive ventilation vs high-flow nasal oxygen on days free of respiratory support in patients With COVID-19 and moderate to severe hypoxemic respiratory failure: The HENIVOT randomized clinical trial.
+
+JAMA
+
+325(17):1731–1743, 2021. doi: 10.1001/jama.2021.4682
+
+5.
+
+Bellani G, Laffey JG, Pham T, et al
+
+: Noninvasive ventilation of patients with acute respiratory distress syndrome. Insights from the LUNG SAFE study.
+
+Am J Respir Crit Care Med
+
+195(1):67–77, 2017. doi: 10.1164/rccm.201606-1306OC
+
+Demiselle J, Calzia E, Hartmann C, et al
+
+: Target arterial PO2 according to the underlying pathology: a mini-review of the available data in mechanically ventilated patients.
+
+Ann Intensive Care
+
+11(1):88, 2021. doi:10.1186/s13613-021-00872-y
+
+6.
+
+Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators, Cavalcanti AB, Suzumura ÉA, et al
+
+: Effect of lung recruitment and titrated positive end-expiratory pressure (PEEP) vs low PEEP on mortality in patients with acute respiratory distress syndrome: A randomized clinical trial.
+
+JAMA
+
+318(14):1335–1345, 2017. doi: 10.1001/jama.2017.14171
+
+7.
+
+Guérin C, Reignier J, Richard JC, et al
+
+: Prone positioning in severe acute respiratory distress syndrome.
+
+N Engl J Med
+
+368(23):2159–2168, 2013. doi: 10.1056/NEJMoa1214103
+
+8.
+
+Scholten EL, Beitler JR, Prisk GK, et al
+
+: Treatment of ARDS with prone positioning.
+
+Chest
+
+151:215–224, 2017. doi: 10.1016/j.chest.2016.06.032. Epub 2016 Jul 8
+
+9.
+
+National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network, Wiedemann HP, Wheeler AP, et al
+
+: Comparison of two fluid-management strategies in acute lung injury.
+
+N Engl J Med
+
+354(24):2564-2575, 2006. doi: 10.1056/NEJMoa062200
+
+10.
+
+Qadir N, Chang SY
+
+: Pharmacologic Treatments for Acute Respiratory Distress Syndrome.
+
+Crit Care Clin
+
+37(4):877–893, 2021. doi:10.1016/j.ccc.2021.05.009
+
+11.
+
+Lewis SR, Pritchard MW, Thomas CM, Smith AF
+
+: Pharmacological agents for adults with acute respiratory distress syndrome.
+
+Cochrane Database Syst Rev
+
+7(7):CD004477, 2019. doi:10.1002/14651858.CD004477.pub3
+
+12.
+
+Villar J, Ferrando C, Martinez D, et al
+
+:
+
+Dexamethasone
+
+treatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial.
+
+Lancet Respir Med
+
+8: 267–276, 2020. doi: 10.1016/S2213-2600(19)30417-5
+
+Tiên lượng về AHRF
+
+Tiên lượng rất khác nhau và phụ thuộc vào nhiều yếu tố, bao gồm
+
+Nguyên nhân của suy hô hấp
+
+Mức độ nặng của bệnh
+
+Tuổi
+
+Tình trạng sức khỏe mạn tính
+
+Nhìn chung, tỷ lệ tử vong trong ARDS rất cao (40% đến 60%) nhưng đã giảm trong những năm gần đây xuống còn 25 đến 40% (
+
+1
+
+), có thể là do những cải tiến trong thở máy và điều trị nhiễm trùng huyết. Tuy nhiên, tỷ lệ tử vong vẫn rất cao (> 40%) đối với bệnh nhân ARDS nặng (ví dụ những người có PaO2:FIO2 < 100 mm Hg).
+
+Thông thường, tử vong không phải do rối loạn hô hấp mà do nhiễm khuẩn huyết và suy đa tạng. Sự tồn tại của bạch cầu trung tính và mức độ cytokine cao trong chất dịch rửa phế quản sẽ dự đoán tiên lượng xấu. Tỷ lệ tử vong tăng lên theo tuổi tác, sự có mặt của sepsis và mức độ nghiêm trọng của suy cơ quan hiện có hoặc rối loạn chức năng cơ quan đi kèm.
+
+Chức năng phổi trở lại gần như bình thường sau 6 tháng đến 12 tháng ở hầu hết bệnh nhân sống sót sau ARDS; tuy nhiên, những bệnh nhân có diễn biến lâm sàng kéo dài hoặc bệnh nặng có thể còn sót lại các triệu chứng ở phổi và nhiều bệnh nhân bị yếu thần kinh cơ dai dẳng, hạn chế vận động và suy giảm nhận thức.
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Bellani G, Laffey JG, Pham T, et al
+
+. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries [published correction appears in
+
+JAMA
+
+ngày 19 tháng 7 năm 2016;316(3):350] [published correction appears in
+
+JAMA
+
+ngày 19 tháng 7 năm 2016;316(3):350].
+
+JAMA
+
+2016;315(8):788-800. doi:10.1001/jama.2016.0291
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của AHRF ---
+
+Thâm nhiễm phế nang trong suy hô hấp cấp giảm oxy (AHRF) có thể là kết quả củaTăng áp lực mao mạch phế nang, như xảy ra trongsuy thất trái(nguyên nhânphù phổi) hoặc tăng thể tích tuần hoànTăng tính thấm màng phế nang mao mạch, như xảy ra trong bất kỳ điều kiện nào dẫn đến hội chứng suy hô hấp cấp (ARDS)Máu (nhưxuất huyết phế nang lan tỏa) hoặc dịch rỉ viêm (như xảy ra trongviêm phổihoặc các bệnh phổi viêm khác)Các luồng thông trong tim phải sang trái, trong đó máu tĩnh mạch bị khử oxy đi qua phổi và đi vào hệ tuần hoàn, thường xảy ra như một biến chứng lâu dài của các luồng thông từ trái sang phải lớn, không được điều trị (ví dụ: dolỗ bầu dục,thông liên nhĩ). Hội chứng này được đặt tên làHội chứng Eisenmenger. Thảo luận này tập trung vào giảm oxy máu kháng trị do nguyên nhân phổi.
+
+--- 2. Sinh lý bệnh AHRF ---
+
+ARDSARDS là một tổn thương phổi lan tỏa, viêm là nguyên nhân gây ra AHRF (1). ARDS được chia thành 3 loại mức độ nặng: nhẹ, trung bình và nặng dựa trên tình trạng thiếu oxy và tiêu chuẩn lâm sàng. Mức độ nhẹ tương ứng với bệnh cảnh trước được gọi là tổn thương phổi cấp (ALI).BảngĐịnh nghĩa ARDS theo BerlinBảngĐịnh nghĩa ARDS theo BerlinĐịnh nghĩa ARDS theo BerlinPhân loại ARDSOxy hóaMức độ nặngNhẹ200 mm Hg<PaO2/FIO2≤300 mm Hg* khi có PEEP hoặc CPAP≥5 cm H2OVừa100 mm Hg<PaO2/FIO2≤200 mm Hg khi có PEEP≥5 cm H2ONặngPaO2/FIO2≤100 mm Hg khi có PEEP≥5 cm H2OTiêu chuẩn lâm sàngThời gianKhởi phát trong vòng 1 tuần sau khi có tác nhân hoặc có các triệu chứng về hô hấp mới hoặc trầm trọng hơnHình ảnh (X-quang hoặc CT ngực)Thâm nhiễm cả hai bên không giải thích được hoàn toàn bằng tràn dịch, xẹp phổi hoặc thùy phổi, hoặc các nốtNguồn gốc phùSuy hô hấp không giải thích đầy đủ do suy tim hay tình trạng quá tải dịch* PaO2 theo mm Hg; FIO2 trong phần thập phân (ví dụ, 0,5).ARDS=hội chứng suy hô hấp cấp tính; CPAP = áp lực dương liên tục; FIO2 = phần trăm oxy thở vào; PaO2 = áp suất riêng phần oxy động mạch; PEEP = áp lực dương cuối kỳ thở ra.Phỏng theoARDS Definition Task Force, Ranieri VM, Rubenfeld GD, et al: Acute respiratory distress syndrome: The Berlin definition.Journal of the American Medical Association307:2526–2533, 2012. doi: 10.1001/jama.2012.5669* PaO2 theo mm Hg; FIO2 trong phần thập phân (ví dụ, 0,5).ARDS=hội chứng suy hô hấp cấp tính; CPAP = áp lực dương liên tục; FIO2 = phần trăm oxy thở vào; PaO2 = áp suất riêng phần oxy động mạch; PEEP = áp lực dương cuối kỳ thở ra.Phỏng theoARDS Definition Task Force, Ranieri VM, Rubenfeld GD, et al: Acute respiratory distress syndrome: The Berlin definition.Journal of the American Medical Association307:2526–2533, 2012. doi: 10.1001/jama.2012.5669Chẩn đoán ARDS dựa trên định nghĩa Berlin là một thách thức trong việc thay đổi thực hành lâm sàng (tức là tăng cường sử dụng ống thông mũi lưu lượng cao và sử dụng rộng rãi phương pháp đo độ bão hòa oxy trong máu) và thường không thể áp dụng trong các môi trường có nguồn lực thấp (do thiếu tiếp cận thường xuyên với chụp X-quang ngực, lấy mẫu khí máu động mạch và thở máy). Do đó, một hội đồng đồng thuận đã đề xuất sửa đổi định nghĩa Berlin nhằm đưa vào phương pháp siêu âm để xác nhận các đám mờ hai bên; sử dụng áp suất dương cuối thì thở ra (PEEP)vàoxy lưu lượng cao (ít nhất 30 L/phút); và độ bão hòa oxy/phân đoạn oxy hít vào (FiO2)≤315 nếu độ bão hòa oxy≤97% (2). Các định nghĩa mới cho các thiết lập nguồn lực thấp không phân loại mức độ nặng.Trong ARDS, viêm phổi hoặc đáp ứng viêm hệ thống dẫn đến sự giải phóng các cytokine và các phân tử tiền viêm khác. Các cytokine kích hoạt đại thực bào phế nang và tuyển bạch cầu trung tính vào phổi, từ đó giải phóng leukotrien, chất oxy hóa, yếu tố kích hoạt tiểu cầu và protease, góp phần gây tổn thương mô ở phổi cũng như các cơ quan khác (chấn thương sinh học). Những chất này làm tổn thương thành mạch mao mạch và biểu mô phế nang, phá vỡ các rào cản giữa các mao mạch và phế nang. Dịch phù, protein và các mảnh vỡ tế bào làm ngập các phế nang và khoảng kẽ, làm gián đoạn chất hoạt động bề mặt, xẹp phế nang, bất tương xứng thông khí - tưới máu, shunt vàtăng áp phổi. Xẹp phế nang thường xảy ra ở các vùng phổi phụ thuộc. Giai đoạn sớm của ARDS được gọi là xuất tiết. Sau đó, có sự tăng sinh của biểu mô phế nang và xơ hóa, tạo thành giai đoạn tăng sinh xơ.Nguyên nhân của ARDS có thể liên quan đến tổn thương phổi trực tiếp hoặc gián tiếp.Nguyên nhân thường gặp của tổn thương phổi trực tiếplàHít phải dịch axitViêm phổiCác nguyên nhân ít gặp hơngây tổn thương phổi trực tiếp làXuất huyết phế nang lan tỏaDập phổiĐuối nướcGhép phổiTắc mạch do mỡTổn thương đương thở do hít phải khíTắc mạch ốiNguyên nhân thường gặp của tổn thương phổi gián tiếpbao gồmNhiễm khuẩn huyếtChấn thương với sốc giảm thể tích kéo dàiCác nguyên nhân ít gặp hơngây tổn thương phổi gián tiếp bao gồmViêm tụyTruyền máu số lượng lớn(ví dụ:>15 đơn vị)Ghép tuỷBỏngTim phổi nhân tạoQuá liều hoặc ngộ độc thuốc (ví dụ:aspirin,cocaine, opioid, phenothiazines, thuốc chống trầm cảm ba vòng)Phù phổi thần kinh do đột quỵ, co giật, chấn thương đầu, thiếu oxy máuTiền sản giậtSẩy thai nhiễm khuẩnThuốc cản quang (hiếm)Nhiễm khuẩn huyếtvàviêm phổichiếm khoảng 60% số trường hợp ARDS.Giảm oxy máu kháng trịBất kể nguyên nhân gây ra tình trạng lấp đầy khoảng không trong AHRF là gì, khoảng không khí bị ngập hoặc xẹp không cho phép khí hít vào đi vào, do đó máu tưới vào các phế nang đó vẫn ở hàm lượng oxy tĩnh mạch hỗn hợp cho dù FIO2 cao đến đâu. Hiệu ứng này dẫn tới máu không được oxy hóa về tĩnh mạch phổi và gây tình trạng thiếu oxy máu động mạch. Ngược lại, tình trạng hạ oxy máu do các phế nang thông khí có ít thông khí hơn so với tưới máu (tức là tỷ lệ thông khí/tưới máu thấp xảy ra trongbệnh hen suyễnhoặcbệnh phổi tắc nghẽn mạn tính[COPD] và ở một mức độ nào đó trong ARDS) có thể dễ dàng điều chỉnh bằng cách oxy bổ sung; do đó, suy hô hấp do hen suyễn hoặc COPD thường thở máy nhiều hơn suy hô hấp do hạ oxy máu.Tài liệu tham khảo sinh bệnh học1.Grasselli G, Calfee CS, Camporota L, et al: ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies.Intensive Care Med49(7):727–759, 2023. doi:10.1007/s00134-023-07050-72.Matthay MA, Arabi Y, Arroliga AC, et al. A New Global Definition of Acute Respiratory Distress Syndrome.Am J Respir Crit Care Med2024;209(1):37-47. doi:10.1164/rccm.202303-0558WS
+
+--- 3. Triệu chứng và Dấu hiệu của AHRF ---
+
+Thiếu oxy cấp tính (Xem thêmGiảm độ bão hòa Oxymáu) có thể gây khó thở, bồn chồn, và lo lắng. Các dấu hiệu bao gồm lú lẫn hoặc thay đổi ý thức, xanh tím, thở nhanh, nhịp tim nhanh, và vã mồ hôi. Có thể dẫn đếnrối loạn nhịp timvàhôn mê.Khí hít vào làm mở các đường thở đang bị sập, gây ra ran nổ, phát hiện khi nghe phổi; ran nổ thường lan tỏa nhưng đôi khi nhiều hơn ở đáy phổi, đặc biệt là ở thùy dưới bên trái do trọng lượng của tim làm tăngxẹp phổi. Tĩnh mạch cổ nổi xảy ra với áp lực dương cuối kỳ thở ra rất cao (PEEP) hoặc suy thất trái.
+
+--- 4. Chẩn đoán AHRF ---
+
+Chụp X-quang ngực, đo độ bão hòa oxy trong máu và đo khí máu động mạch (ABG)Định nghĩa lâm sàng (xem bảngĐịnh nghĩa ARDS của Berlin)Thiếu oxy máy thường được nhận ra khi sử dụng phương pháp đo SpO2. Bệnh nhân có độ bão hòa oxy thấp cần phải chụp X-quang ngực và điều trị bổ sung oxy trong khi chờ kết quả xét nghiệm. Không phải tất cả bệnh nhân có độ bão hòa oxy thấp đều cần đo ABG.Nếu thở oxy không cải thiện để oxy bão hòa>90%, cần nghi ngờ shunt từ phải sang trái. Một sự thâm nhiễm của phế nang rõ ràng trên X-quang ngực chỉ ra nguyên nhân là do phế nang, chứ không phải là một shunt tim mạch. Tuy nhiên, khi xuất hiện bệnh, tình trạng thiếu oxy máu có thể xảy ra trước khi nhìn thấy những thay đổi trên X-quang.Khi có chẩn đoán AHRF thì cần phải xác định nguyên nhân. Cả hai nguyên nhân ở phổi và ngoài phổi cần phải được xem xét. Đôi khi một rối loạn đang tiến triển được biết rõ (ví dụ,nhồi máu cơ tim cấp tính,viêm tụy,nhiễm trùng) là một nguyên nhân rõ ràng. Trong những trường hợp khác, tiền sử mang tính gợi ý; nghi ngờviêm phổiở bệnh nhân bị suy giảm miễn dịch và nghi ngờ xuất huyết phế nang sau khi ghép tủy xương hoặc ở bệnh nhân mắc bệnh thấp khớp toàn thân. Tuy nhiên, thông thường, những bệnh nhân bị bệnh nặng đã được truyền một lượng lớn dịch qua đường tĩnh mạch để hồi sức và AHRF áp suất cao (ví dụ: do suy tâm thất hoặc quá tải dịch) do điều trị phải được phân biệt với AHRF áp suất thấp tiềm ẩn (ví dụ: do nhiễm trùng huyết hoặc viêm phổi).Phù phổi (X-quang)Hình ảnh© 2017 Bác sĩ Elliot K. Fishman.Phù phổi áp lực cao do suy thất trái được gợi ý bởi tiếng tim thứ ba (S3), tĩnh mạch cổ nổi và phù ngoại biên khi khám và bởi sự hiện diện của thâm nhiễm trung tâm lan tỏa, tim to và cuống mạch máu rộng bất thường trên phim chụp X-quang ngực. Sự thâm nhiễm lan tỏa, hai bên của ARDS thường ở ngoại biên hơn. Thâm nhiễm khu trú thường xảy ra do viêm phổi thùy,xẹp phổi, hoặcđụng dập phổi. Mặc dù siêu âm tim có thể cho thấy rối loạn chức năng tâm thất trái, ngụ ý nguồn gốc tim, phát hiện này không cụ thể vì nhiễm trùng cũng có thể làm giảm sự co bóp cơ tim.Các hình ảnh chụp ngực của ARDSHội chứng suy hô hấp cấpPhim chụp X-quang ngực đứng thẳng này cho thấy các nốt mờ hai bên lan tỏa đặc trưng của hội chứng suy hô hấp cấp tính (ARDS).... đọc thêmĐược sự cho phép của nhà xuất bản. Theo Herdegen J, Bone R. TrongAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections. Do G Mandell (biên tập loạt bài) và MS Simberkoff biên tập. Philadelphia, Current Medicine, 1996.Phim chụp CT của một bệnh nhân bị ARDSMũi tên màu đỏ chỉ vào các nốt mờ của phế nang lan tỏa trên bệnh nhân ARDS (hội chứng suy hô hấp cấp tính). Bệnh nhân cũng có tim to, một máy khử rung tim cấy ghép tự động ba dây dẫn có đầu vào ở tâm thất phải và một ống thông Swan Ganz có đầu nhọn ở động mạch phổi.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Phim chụp X-quang của bệnh nhân bị ARDSMũi tên chỉ vào một số nốt mờ lan tỏa ở phế nang lan ở bệnh nhân ARDS (hội chứng suy hô hấp cấp tính).© 2017 Bác sĩ Elliot K. Fishman.Hội chứng suy hô hấp cấpPhim chụp X-quang ngực đứng thẳng này cho thấy các nốt mờ hai bên lan tỏa đặc trưng của hội chứng suy hô hấp cấp tính (ARDS).... đọc thêmĐược sự cho phép của nhà xuất bản. Theo Herdegen J, Bone R. TrongAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections. Do G Mandell (biên tập loạt bài) và MS Simberkoff biên tập. Philadelphia, Current Medicine, 1996.Phim chụp CT của một bệnh nhân bị ARDSMũi tên màu đỏ chỉ vào các nốt mờ của phế nang lan tỏa trên bệnh nhân ARDS (hội chứng suy hô hấp cấp tính). Bệnh nhân cũng có tim to, một máy khử rung tim cấy ghép tự động ba dây dẫn có đầu vào ở tâm thất phải và một ống thông Swan Ganz có đầu nhọn ở động mạch phổi.... đọc thêm© 2017 Bác sĩ Elliot K. Fishman.Phim chụp X-quang của bệnh nhân bị ARDSMũi tên chỉ vào một số nốt mờ lan tỏa ở phế nang lan ở bệnh nhân ARDS (hội chứng suy hô hấp cấp tính).© 2017 Bác sĩ Elliot K. Fishman.Khi ARDS được chẩn đoán nhưng nguyên nhân không rõ ràng (ví dụ: chấn thương, nhiễm trùng huyết, nhiễm trùng phổi nặng, viêm tụy), việc xem xét các loại thuốc, thuốc bất hợp pháp và các xét nghiệm chẩn đoán, thủ thuật và phương pháp điều trị gần đây có thể gợi ý nguyên nhân không được nhận biết, chẳng hạn như sử dụng thuốc cản quang chụp X-quang,thuyên tắc mạch do khíhoặctruyền máu. Khi không phát hiện được nguyên nhân nguy cơ, một số chuyên gia khuyên nên thực hiện nội soi phế quản kèm theo rửa phế quản phế nang để loại trừ xuất huyết phế nang vàviêm phổi do tăng bạch cầu ái toanvà nếu thủ thuật này không phát hiện được thì sinh thiết phổi để loại trừ các bệnh lý khác (ví dụ:viêm phổi kẽ do quá mẫn,viêm phổi kẽ cấp tính).
+
+--- 5. Điều trị AHRF ---
+
+Hỗ trợ oxy không xâm lấnThông khí cơ học nếu độ bão hòa là<90% với oxy lưu lượng caoAHRF thường được điều trị ban đầu bằng 70% đến 100% oxy được cung cấp không xâm lấn (ví dụ: bằng mặt nạ không tái thở) (1). Tuy nhiên, việc sử dụng hỗ trợ oxy không xâm lấn, chẳng hạn như ống thông mũi lưu lượng cao (HFNC) và thông khí áp lực dương không xâm lấn (NIPPV), để xử lý ban đầu tình trạng suy hô hấp có hạ oxy máu cấp tính đã gia tăng trong đại dịch COVID-19 do hiệu ứng tiết kiệm của máy thở có khả năng xảy ra.Hỗ trợ oxy không xâm lấn có thể tránhđặt nội khí quảnvà các biến chứng của đặt nội khí quản; tuy nhiên, việc thở tự nhiên khi gắng sức quá mức có thể gây tổn thương phổi (được gọi là tổn thương phổi do bệnh nhân tự gây ra). Một thử nghiệm lâm sàng so sánh hiệu quả của HFNC, NIPPV mặt nạ và oxy tiêu chuẩn trong việc ngăn ngừa đặt nội khí quản cho thấy rằng HFNC có thể ngăn ngừa đặt nội khí quản ở bệnh nhân có tỷ lệ PaO2/FiO2<200 (2). Đã ghi nhận tỷ lệ tử vong trong 90 ngày tăng lên ở những bệnh nhân được chọn ngẫu nhiên với NIPPV và thở oxy tiêu chuẩn so với HFNC. Một giải thích cho tỷ lệ tử vong quá mức này ở nhóm NIPPV đeo mặt nạ có thể là do thể tích khí lưu thông quá mức làm trầm trọng thêm tình trạng tổn thương phổi.Một thử nghiệm lâm sàng nhỏ khác so sánh việc cung cấp oxy bằng mũ bảo hiểm có mặt nạ cho thấy tỷ lệ đặt nội khí quản và tử vong thấp hơn khi sử dụng mũ bảo hiểm (3). Có dữ liệu hạn chế so sánh việc sử dụng mũ bảo hiểm NIPPV với HFNC ở bệnh nhân suy hô hấp có hạ oxy máu cấp tính liên quan đến COVID-19, cho thấy rằng mũ bảo hiểm NIPPV có thể làm giảm tỷ lệ đặt nội khí quản nhưng không cải thiện số ngày không cần hỗ trợ hô hấp (4). Do đó, không có bằng chứng thuyết phục chỉ ra tính ưu việt hơn của một trong hai cách tiếp cận trong việc xử trí ban đầu tình trạng giảm oxy máu. Do lo ngại về việc tăng tỷ lệ tử vong có thể do đặt nội khí quản chậm ở những bệnh nhân có tỷ lệ PaO2/FiO2≤150, nên thận trọng khi sử dụng hỗ trợ oxy không xâm lấn trong tình trạng thiếu oxy từ trung bình đến nặng (5).Nếu hỗ trợ oxy không xâm lấn không dẫn đến độ bão hòa oxy>90%, có lẽ nên xem xét thở máy. Kiểm soát đặc hiệu thay đổi tùy theo từng bệnh nền.Công cụ tính toán lâm sàngCân nặng lý tưởng của cơ thểThông khí cơ học trong phù phổi do timThông khí cơ học (Xem thêmTổng quan về thông khí cơ học) có lợi cho thất trái bằng nhiều cách. Áp lực dương thở vào sẽ làm giảm tiền gánh thất trái và phải và hậu gánh thất trái và làm giảm công thở. Giảm công thở có thể cho phép tái phân phối cung lượng tim bị hạn chế ra khỏi các cơ hô hấp quá mức. Áp lực thở ra (áp suất đường thởi dương thở ra[EPAP] hoặc PEEP) phân phối lại dịch phù phổi từ phế nang ra khoảng kẽ, cho phép nhiều phế nang tham gia vào việc trao đổi khí. (Tuy nhiên, khi giải phóng bệnh nhân có cung lượng tim thấp ra khỏi thở máy sang thở máy không xâm lấn, việc chuyển từ áp lực đường thở dương sang âm có thể làm tăng hậu tải và dẫn đến phù phổi cấp hoặc hạ huyết áp trầm trọng hơn.)Thông khí áp lực dương không xâm lấn (NIPPV), cho dù thông khí áp lực dương liên tục hay thông khí hai bên, đều hữu ích trong việc ngăn ngừa đặt nội khí quản ở nhiều bệnh nhân mà điều trị bằng thuốc thường dẫn đến cải thiện nhanh chóng. Các thiết lập thông thường là áp lực thở vào (IPAP) từ 10 đến 15 cm H2O và EPAP từ 5 đến 8 cm H2O.Thông khí cơ học thông thường có thể sử dụng một vàichế độ máy thở. Thông thường nhất, hỗ trợ kiểm soát (A/C) được sử dụng trong cài đặt cấp, khi cần hỗ trợ thở máy đầy đủ. Các thiết lập ban đầu là thể tích thông khí từ 6 đến 8 mL/kg trọng lượng cơ thể lý tưởng, tần số thở 25 lần/phút, FiO2 là 1,0, và PEEP từ 5 đến 8 cm H2O. Sau đó PEEP có thể được tăng dần mỗi 2,5 cm H2O trong khi FiO2 được giảm xuống mức không độc.Có thể sử dụng thông khí hỗ trợ áp lực (với mức PEEP tương tự). Áp lực đường thở hít vào ban đầu được cung cấp phải đủ để các cơ hô hấp được nghỉ ngơi theo đánh giá chủ quan của bệnh nhân, nhịp thở và việc sử dụng cơ hô hấp. Thông thường, một mức độ hỗ trợ áp lực cần là từ 10 đến 20 cm H2O trên PEEP.Thông khí cơ học trong ARDSGần như tất cả bệnh nhân mắc ARDS đều cần phải thở máy (1), ngoài việc cải thiện quá trình oxy hóa, còn làm giảm nhu cầu oxy bằng cách cho cơ hô hấp nghỉ ngơi. Mục tiêu bao gồmÁp lực phế nang cao nguyên<30 cm H2O (cân nhắc các yếu tố có thể làm giảm độ giãn nở thành ngực và bụng)Thể tích khí lưu thông 6 mL/kg trọng lượng cơ thể lý tưởng để giảm thiểu tổn thương phổi thêmFIO2 càng thấp càng tốt để duy trì độ bão hòa oxy đầy đủ nhằm giảm thiểu độc tính oxy có thể xảy raPEEPphải cao đủ để duy trì các phế nang mở và giảm FiO2 cho đến khi đạt được áp lực cao nguyên từ 28 đến 30 cm H2O. Bệnh nhân ARDS mức độ từ trung bình đến nặng có nguy cơ tử vong thấp hơn khi sử dụng PEEP cao hơn.Thông khí áp lực dương không xâm lấn (NIPPV)đôi khi hữu ích trong ARDS. Tuy nhiên, so với điều trị phù phổi do tim, cần phải có mức hỗ trợ cao hơn trong thời gian dài hơn, EPAP từ 8 đến 12 cm H2O thường cần thiết để duy trì đủ oxy hóa. Đạt được áp lực thở ra này, bệnh nhân khó có thể chịu được do đòi hỏi áp lực thở vào>18 đến 20 cm H2O; duy trì việc thông khí nên khó khăn, mặt nạ sẽ trở nên khó chịu hơn, hoại tử da và hơi vào dạ dày có thể xảy ra. Ngoài ra, những bệnh nhân được điều trị bằng NIPPV mà sau đó cần đặt nội khí quản thường tiến triển đến tình trạng nặng hơn so với khi họ được đặt nội khí quản trước đó; do đó, có thể xảy ra tình trạng khử độ bão hòa nghiêm trọng tại thời điểm đặt nội khí quản. Cần có sự theo dõi chuyên sâu và lựa chọn cẩn thận bệnh nhân NIPPV.Thông khí cơ học thông thường trong ARDS trước đây tập trung vào việc bình thường hóa các giá trị khí máu. Rõ ràng là thông khí với thể tích khí lưu thông thấp làm giảm tỷ lệ tử vong. Theo đó, ở hầu hết bệnh nhân, thể tích thông khí nên được đặt ở mức 6 mL/kg trọng lượng cơ thể lý tưởng (xem thanh bênĐiều chỉnh Máy thở Ban đầu trong ARDS). Cài đặt này đòi hỏi sự gia tăng tần số thở, thậm chí lên đến 35 lần/phút, để tạo ra đủ thông khí phế nang cho phép đào thải CO2. Tuy nhiên, đôi khi tình trạngnhiễm toan hô hấpphát sinh, một số mức độ được chấp nhận vì lợi ích tốt hơn trong việc hạn chếtổn thương phổi liên quan đến máy thởvà thường được dung nạp tốt, đặc biệt là khi pH≥7,15. Nếu pH giảm xuống dưới 7,15, truyền bicarbonate có thể hữu ích. Tương tự, độ bão hòa oxy dưới mức "bình thường" có thể được chấp nhận; độ bão hòa mục tiêu từ 88 đến 95% làm hạn chế tiếp xúc với mức độc tố quá mức của FiO2 và vẫn có lợi cho sự sống còn.Bởi vì tăng CO2 hoặc thể tích khí lưu thông thấp có thể gây khó thở và khiến bệnh nhân thở theo kiểu không phối hợp với máy thở, thuốc giảm đau (fentanyl hoặc morphine) và thuốc an thần (ví dụ: propofol bắt đầu ở mức 5 mcg/kg/phút và tăng lên có tác dụng lên tới 50 mcg/kg/phút; do nguy cơ tăng triglycerid máu, có thể cần phải kiểm tra nồng độ triglycerid 48 tiếng một lần (xem thêmAn thần và cảm giác thoải mái). An thần được ưa thích hơn thuốc phong tỏa thần kinh cơ bởi vì phong tỏa vẫn đòi hỏi sự an thần và có thể gây ra yếu cơ kéo dài.PEEPcải thiện oxy hóa trong ARDS bằng cách tăng thể tích được trao đổi oxy qua huy động phế nang, cho phép sử dụng FiO2 thấp. Mức PEEP tối ưu và cách xác định nó đã được thảo luận. Việc sử dụng thường quy các nghiệm pháp huy động (ví dụ: chuẩn độ PEEP đến áp suất tối đa từ 35 đến 40 cm H2O và giữ trong 1 phút) sau đó chuẩn độ PEEP giảm dần được phát hiện có liên quan đến tỷ lệ tử vong tăng lên trong 28 ngày (6). Do đó, nhiều bác sĩ lâm sàng chỉ sử dụng PEEP thấp nhất để có đủ oxy bão hòa máu động mạch với FiO2 ở mức không gây độc. Ở hầu hết bệnh nhân, mức này là PEEP từ 8 đến 15 cm H2O, mặc dù đôi khi những bệnh nhân ARDS nặng cần có mức>20 cm H2O. Trong những trường hợp này, cần chú ý chặt chẽ đến các phương tiện tối ưu hóa cung cấp oxy và giảm thiểu oxy tiêu thụ.Dấu hiệu tốt nhất về tình trạng căng quá mức của phế nang là đo áp lực cao nguyên thông quanghiệm pháp tạm ngừng cuối thì hít vào; nên kiểm tra áp lực cao nguyên 4 tiếng một lần và sau mỗi lần thay đổi PEEP hoặc thay đổi thể tích khí lưu thông. Áp lực cao nguyên mục tiêu là<30 cm H2O ở những bệnh nhân có độ giãn nở thành ngực bình thường. Để tránh giảm thông khí, mục tiêu áp lực cao nguyên có thể cần phải cao hơn ở những bệnh nhân có độ giãn nở thành ngực bất thường (ví dụ:cổ trướng,tràn dịch màng phổi, chướng bụng cấp tính,chấn thương ngực).Ngược lại, nếu áp lực cao nguyên vượt quá 30 cm H2O và không có vấn đề gì với thành ngực có thể góp phần gây ra tình trạng này, bác sĩ nên giảm thể tích khí lưu thông theo mức tăng từ 0,5 mL/kg đến 1,0 mL/kg tùy theo khả năng chịu đựng, tối thiểu là 4 mL/kg, tăng nhịp thở để bù cho việc giảm thông khí phút và kiểm tra màn hình hiển thị dạng sóng của máy thở để đảm bảo thở ra hoàn toàn. Tần số thở thường có thể tăng lên đến 35 lần/phút trước khi hiện tượng bẫy khí quá mức xảy ra do kết quả thở ra không đầy đủ. Nếu áp lực cao nguyên<25 cm H2O và thể tích thông khí là<6 mL/kg, thể tích thông khí có thể tăng lên 6 mL/kg hoặc cho đến khi áp suất cao nguyên>25 cm H2O.Một số nghiên cứu viên tin rằng thông khí kiểm soát áp lực bảo vệ phổi tốt hơn kiểm soát thể tích, nhưng thiếu dữ liệu hỗ trợ và áp lực đỉnh chứ không phải áp lực cao nguyên đang được kiểm soát. Với thông khí điều khiển áp lực, vì thể tích thông khí sẽ thay đổi khi độ giãn nở của phổi tiến triển, cần liên tục theo dõi thể tích thông khí và điều chỉnh áp lực thở vào để đảm bảo rằng bệnh nhân không nhận được thể tích thông khí quá cao hoặc quá thấp.Kiểm soát thông khí ban đầu trong ARDSNói chung, cách tiếp cận sau đây được đề nghị để kiểm soát thông khí trong ARDS:Chế độ hỗ trợ- kiểm soát được sử dụng ban đầu với thể tích thông khí 6 mL/kg trọng lượng lý tưởng, tần số thở 25 lần/phút, tốc độ dòng 60 L/phút, FiO2 1,0 và PEEP 15 cm H2O.Khi độ bão hòa oxy là>90%, FIO2 giảm.Sau đó, PEEP giảm xuống 2,5 cm H2O tăng khả năng dung nạp để tìm PEEP ít nhất mà độ bão hòa oxy động mạch 90% trên FiO2≤0,6.Tần số thở tăng lên đến 35 phút/phút để đạt được độ pH>7,15, hoặc cho đến khi có dòng cuối kỳ thở ra.Trọng lượng cơ thể lý tưởng (IBW) thay vì trọng lượng cơ thể thực tế được sử dụng để xác định thể tích khí lưu thông thích hợp cho bệnh nhân mắc bệnh phổi đang thở máy.Tư thế nằm sấpcải thiện oxy hóa ở một số bệnh nhân bằng cách cho phép huy động vùng phổi không có thông khí. Một số bằng chứng cho thấy tư thế này cải thiện đáng kể thời gian sống thêm (7,8). Điều thú vị là, lợi ích với tỷ lệ tử vong từ tư thế nằm sấp không liên quan đến mức độ hạ oxy máu hoặc mức độ trao đổi khí bất thường mà có thể làm giảm tổn thương phổi liên quan đến máy thở.Kiểm soát dịchtối ưu ở bệnh nhân ARDS cân bằng yêu cầu về thể tích tuần hoàn thích hợp để bảo vệ sự tưới máu cơ quan với mục tiêu giảm tải tiền gánh, hạn chế việc xuất hiện dịch thấm trong phổi. Một thử nghiệm đa trung tâm lớn đã chỉ ra rằng kiểm soát dịch dè dặt, trong đó ít dịch được cho, rút ngắn thời gian thở máy và thời gian điều trị trong khoa hồi sức tích cực khi so sánh với chiến lược truyền dịch tự do hơn. Tuy nhiên, không có sự khác biệt về thời gian sống thêm giữa 2 phương pháp và việc sử dụng ống thông động mạch phổi cũng không cải thiện kết quả (9). Bệnh nhân không bịsốclà những ứng cử viên cho cách tiếp cận như vậy nhưng cần được theo dõi chặt chẽ để tìm bằng chứng giảm tưới máu cơ quan đích, chẳng hạn như hạ huyết áp, thiểu niệu, mạch yếu hoặc tứ chi lạnh.Việc điều trị dược lý dứt khoát đối với ARDS nhằm làm giảm tình trạng bệnh và tử vong vẫn còn khó đánh giá. Oxit nitric dạng hít, chất thay thế bề mặt, protein C hoạt hóa (drotrecogin alfa) và nhiều tác nhân khác nhằm điều chỉnh phản ứng viêm đã được nghiên cứu và nhận thấy không làm giảm tỷ lệ mắc bệnh hoặc tử vong (10). Dữ liệu về hiệu quả của hiệu quả corticosteroid trong ARDS không đưa ra kết luận (11). Một thử nghiệm lâm sàng không làm mù gần đây về dexamethasone được sử dụng sớm trong ARDS từ trung bình đến nặng cho thấy cải thiện về số ngày không thở máy và tỷ lệ tử vong, nhưng thử nghiệm đã bị dừng sớm do đăng ký chậm, điều này có thể làm tăng hiệu quả điều trị (12). Do đó, vai trò của corticosteroid trong ARDS vẫn chưa chắc chắn và cần nhiều dữ liệu hơn.Tài liệu tham khảo về điều trị1.Grasselli G, Calfee CS, Camporota L, et al: ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies.Intensive Care Med49(7):727–759, 2023. doi:10.1007/s00134-023-07050-72.Frat JP, Thille AW, Mercat A, et al: High-flow oxygen through nasal cannula in acute hypoxemic respiratory failure.N Engl J Med372:2185–2196, 2015. doi: 10.1056/NEJMoa15033263.Patel BK, Wolfe KS, Pohlman AS, et al: Effect of noninvasive ventilation delivered by helmet vs face mask on the rate of endotracheal intubation in patients with acute respiratory distress syndrome: A randomized clinical trial.J AMA315(22):2435–2441, 2016. doi: 10.1001/jama.2016.63384.Grieco DL, Menga LS, Cesarano M, et al: Effect of helmet noninvasive ventilation vs high-flow nasal oxygen on days free of respiratory support in patients With COVID-19 and moderate to severe hypoxemic respiratory failure: The HENIVOT randomized clinical trial.JAMA325(17):1731–1743, 2021. doi: 10.1001/jama.2021.46825.Bellani G, Laffey JG, Pham T, et al: Noninvasive ventilation of patients with acute respiratory distress syndrome. Insights from the LUNG SAFE study.Am J Respir Crit Care Med195(1):67–77, 2017. doi: 10.1164/rccm.201606-1306OCDemiselle J, Calzia E, Hartmann C, et al: Target arterial PO2 according to the underlying pathology: a mini-review of the available data in mechanically ventilated patients.Ann Intensive Care11(1):88, 2021. doi:10.1186/s13613-021-00872-y6.Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators, Cavalcanti AB, Suzumura ÉA, et al: Effect of lung recruitment and titrated positive end-expiratory pressure (PEEP) vs low PEEP on mortality in patients with acute respiratory distress syndrome: A randomized clinical trial.JAMA318(14):1335–1345, 2017. doi: 10.1001/jama.2017.141717.Guérin C, Reignier J, Richard JC, et al: Prone positioning in severe acute respiratory distress syndrome.N Engl J Med368(23):2159–2168, 2013. doi: 10.1056/NEJMoa12141038.Scholten EL, Beitler JR, Prisk GK, et al: Treatment of ARDS with prone positioning.Chest151:215–224, 2017. doi: 10.1016/j.chest.2016.06.032. Epub 2016 Jul 89.National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network, Wiedemann HP, Wheeler AP, et al: Comparison of two fluid-management strategies in acute lung injury.N Engl J Med354(24):2564-2575, 2006. doi: 10.1056/NEJMoa06220010.Qadir N, Chang SY: Pharmacologic Treatments for Acute Respiratory Distress Syndrome.Crit Care Clin37(4):877–893, 2021. doi:10.1016/j.ccc.2021.05.00911.Lewis SR, Pritchard MW, Thomas CM, Smith AF: Pharmacological agents for adults with acute respiratory distress syndrome.Cochrane Database Syst Rev7(7):CD004477, 2019. doi:10.1002/14651858.CD004477.pub312.Villar J, Ferrando C, Martinez D, et al:Dexamethasonetreatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial.Lancet Respir Med8: 267–276, 2020. doi: 10.1016/S2213-2600(19)30417-5
+
+--- 6. Tiên lượng về AHRF ---
+
+Tiên lượng rất khác nhau và phụ thuộc vào nhiều yếu tố, bao gồmNguyên nhân của suy hô hấpMức độ nặng của bệnhTuổiTình trạng sức khỏe mạn tínhNhìn chung, tỷ lệ tử vong trong ARDS rất cao (40% đến 60%) nhưng đã giảm trong những năm gần đây xuống còn 25 đến 40% (1), có thể là do những cải tiến trong thở máy và điều trị nhiễm trùng huyết. Tuy nhiên, tỷ lệ tử vong vẫn rất cao (> 40%) đối với bệnh nhân ARDS nặng (ví dụ những người có PaO2:FIO2 < 100 mm Hg).Thông thường, tử vong không phải do rối loạn hô hấp mà do nhiễm khuẩn huyết và suy đa tạng. Sự tồn tại của bạch cầu trung tính và mức độ cytokine cao trong chất dịch rửa phế quản sẽ dự đoán tiên lượng xấu. Tỷ lệ tử vong tăng lên theo tuổi tác, sự có mặt của sepsis và mức độ nghiêm trọng của suy cơ quan hiện có hoặc rối loạn chức năng cơ quan đi kèm.Chức năng phổi trở lại gần như bình thường sau 6 tháng đến 12 tháng ở hầu hết bệnh nhân sống sót sau ARDS; tuy nhiên, những bệnh nhân có diễn biến lâm sàng kéo dài hoặc bệnh nặng có thể còn sót lại các triệu chứng ở phổi và nhiều bệnh nhân bị yếu thần kinh cơ dai dẳng, hạn chế vận động và suy giảm nhận thức.Tài liệu tham khảo về tiên lượng bệnh1.Bellani G, Laffey JG, Pham T, et al. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries [published correction appears inJAMAngày 19 tháng 7 năm 2016;316(3):350] [published correction appears inJAMAngày 19 tháng 7 năm 2016;316(3):350].JAMA2016;315(8):788-800. doi:10.1001/jama.2016.0291

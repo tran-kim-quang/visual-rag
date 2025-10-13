@@ -1,0 +1,144 @@
+TIÊU ĐỀ: Kiểm tra độ nhạy cảm
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/xét-nghiệm-chẩn-đoán-bệnh-lý-truyền-nhiễm/kiểm-tra-độ-nhạy-cảm
+================================================================================
+
+NỘI DUNG:
+
+Kiểm tra độ nhạy cảm
+
+Theo
+
+Maria T. Vazquez-Pertejo
+
+,
+
+MD, FACP
+
+,
+
+Wellington Regional Medical Center;
+
+Larry M. Bush
+
+,
+
+MD, FACP
+
+,
+
+Charles E. Schmidt College of Medicine, Florida Atlantic University
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 1 2025
+
+v998415_vi
+
+Xét nghiệm độ nhạy cảm xác định mức độ dễ bị tổn thương của vi khuẩn đối với thuốc kháng khuẩn bằng cách cho một nồng độ chuẩn của sinh vật tiếp xúc với nồng độ thuốc kháng khuẩn cụ thể. Xét nghiệm độ nhạy cảm có thể được thực hiện đối với vi khuẩn, nấm và virus. Đối với một số sinh vật, kết quả thu được khi sử dụng một loại thuốc kháng khuẩn có thể dự đoán kết quả khi sử dụng các loại thuốc kháng khuẩn tương tự. Vì vậy, không phải tất cả các loại thuốc kháng khuẩn có khả năng hữu ích đều được thử nghiệm.
+
+Thử nghiệm độ nhạy cảm thực hiện trong phòng thí nghiệm và có thể không tính toán được nhiều yếu tố trong cơ thể (ví dụ, dược động học và dược lực học, nồng độ thuốc đặc hiệu tại mô tổn thương, trạng thái miễn dịch của vật chủ, hàng rào bảo vệ của vật chủ) có thể ảnh hưởng đến sự thành công của điều trị. Do đó, kết quả xét nghiệm độ nhạy cảm không phải lúc nào cũng tiên lượng được kết quả điều trị.
+
+Kiểm tra độ nhậy có thể được thực hiện theo phương pháp định tính, bán định lượng hoặc sử dụng
+
+phương pháp dựa trên axit nucleic
+
+. Xét nghiệm cũng có thể xác định hiệu quả của việc kết hợp các thuốc kháng sinh khác nhau (kiểm tra sức mạnh đồng vận).
+
+Phương pháp định tính
+
+Các phương pháp định tính ít chính xác hơn bán định lượng. Kết quả thường được báo cáo là 1 trong những phần sau:
+
+Nhạy cảm (S)
+
+Trung bình (I)
+
+Kháng thuốc (R)
+
+Một số chủng không đủ tiêu chuẩn xác định kháng thuốc có thể chỉ báo cáo là nhạy hoặc không nhạy. Việc xác định nồng độ cụ thể của từng thuốc cho kết quả S, I và R dựa trên nhiều yếu tố, đặc biệt là dữ liệu về dược động học, dược lực học, lâm sàng và vi sinh học.
+
+Phương pháp khuếch tán đĩa
+
+thường được sử dụng (còn được gọi là xét nghiệm Kirby-Bauer) phù hợp với vi sinh vật mọc nhanh. Huyền phù của vi sinh vật phân lập được trải đều lên thạch sau đó đặt đĩa ngâm tẩm với nồng độ kháng sinh khác nhau lên bề mặt thạch. Sau khi ủ (thường từ 16 đến 18 giờ), đo đường kính của vùng ức chế xung quanh mỗi đĩa. Mỗi kiểu kết hợp sinh vật-kháng sinh có đường kính khác nhau biểu thị S, I hoặc R.
+
+Phương pháp bán định lượng
+
+Phương pháp bán định lượng xác định nồng độ tối thiểu của thuốc kháng khuẩn có tác dụng ức chế sự phát triển của một sinh vật cụ thể trong ống nghiệm. Nồng độ ức chế tối thiểu (MIC) được báo cáo dưới dạng một giá trị số, sau đó có thể dịch thành 1 trong 4 nhóm: S (nhạy cảm), I (trung bình), R (kháng), hoặc đôi khi không nhạy. Xác định MIC được sử dụng chủ yếu cho các vi khuẩn đã phân lập được, bao gồm mycobacteria và kị khí, hoặc nấm, đặc biệt là loài
+
+Candida
+
+.
+
+Nồng độ diệt khuẩn tối thiểu (MBC) có thể xác định được nhưng kỹ thuật khó khăn và các tiêu chuẩn cho việc phiên giải kết quả vẫn chưa được thống nhất. Giá trị của xét nghiệm MBC là cho biết liệu thuốc kháng khuẩn có thể có tác dụng kìm khuẩn hay diệt khuẩn.
+
+Thuốc kháng khuẩn có thể được pha loãng trong thạch hoặc môi trường nuôi cấy, sau đó tiêm vào vi khuẩn. Pha loãng trong canh thang là tiêu chuẩn vàng nhưng rất tốn công vì mỗi một nồng độ thuốc phải pha trên mỗi ống. Một phương pháp hiệu quả hơn là sử dụng một dải màng polyester được tẩm chất kháng khuẩn theo nồng độ gradien dọc theo chiều dài của dải. Dải kháng sinh được đặt trên đĩa thạch chứa chất cấy và MIC được xác định bằng vị trí trên dải nơi bắt đầu ức chế; nhiều chất kháng khuẩn có thể được thử nghiệm trên một đĩa.
+
+MIC cho phép biết được mối tương quan giữa độ nhạy cảm của vi sinh vật với thuốc và nồng độ thuốc tự do có thể đạt được trong mô (thuốc tự do là thuốc không liên kết với protein). Nếu nồng độ thuốc tự do trong mô cao hơn MIC, điều trị có thể thành công. Các chỉ định của S, I và R được lấy từ nghiên cứu MIC thường tương quan với nồng độ thuốc tự do trong huyết thanh, huyết tương hoặc nước tiểu.
+
+Phương pháp dựa trên acid nucleic
+
+Các xét nghiệm này ứng dụng
+
+kỹ thuật acid nucleic
+
+tương tự như các chất được sử dụng để nhận dạng sinh vật nhưng được sửa đổi để phát hiện các gen kháng hoặc đột biến đã biết. Một ví dụ là
+
+mecA
+
+, một gen kháng
+
+oxacillin
+
+ở
+
+S. aureus
+
+; nếu gen này có mặt, sinh vật này được coi là kháng với hầu hết các
+
+beta
+
+-lactam bất kể kết quả độ cảm rõ ràng như thế nào. Tuy nhiên, mặc dù một số gen như vậy được biết đến, sự hiện diện của chúng không chỉ ra kháng thuốc trên in vivo. Ngoài ra, vì có thể có những đột biến mới hoặc các gen kháng thuốc khác, sự vắng mặt của các gen này không đảm bảo rằng thuốc còn nhạy cảm. Vì những lý do này, các phương pháp xét nghiệm độ nhạy theo kiểu hình thông thường vẫn là phương pháp tiêu chuẩn để đánh giá độ nhạy của vi khuẩn và nấm với các thuốc kháng khuẩn.
+
+Tuy nhiên, các phương pháp dựa trên axit nucleic được ưa chuộng hơn
+
+Chẩn đoán nhanh
+
+bệnh lao đa kháng thuốc
+
+trong nhóm nguy cơ
+
+Chẩn đoán nhanh lao đa kháng ở những nhóm có nguy cơ cao và để phát hiện nhanh kháng thuốc trực tiếp của các vi sinh vật thu được từ mẫu cấy máu dương tính.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

@@ -1,0 +1,361 @@
+TIÊU ĐỀ: Rối loạn chuyển hoá Methionine
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/rối-loạn-chuyển-hóa-di-truyền/rối-loạn-chuyển-hoá-methionine
+================================================================================
+
+NỘI DUNG:
+
+Rối loạn chuyển hoá Methionine
+
+Theo
+
+Matt Demczko
+
+,
+
+MD
+
+,
+
+Mitochondrial Medicine, Children's Hospital of Philadelphia
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2024
+
+v25252373_vi
+
+Một số khuyết tật trong quá trình chuyển hoá methionine dẫn đến sự tích tụ homocysteine (và dimer của nó, homocystine) với các tác động bất lợi bao gồm khuynh hướng huyết khối, lệch thủy tinh thể, và các bất thường hệ thần kinh trung ương và xương.
+
+Homocystine niệu cổ điển
+
+|
+
+Cystathionin niệu
+
+|
+
+Thiếu hụt sulfit oxydase
+
+|
+
+Thông tin thêm
+
+|
+
+Có rất nhiều rối loạn chuyển hóa methionine và lưu huỳnh (
+
+xem bảng
+
+) cũng như nhiều loại khác
+
+các rối loạn chuyển hoá axit amin và axit hữu cơ
+
+. Xem thêm
+
+Cách tiếp cận bệnh nhân nghi ngờ rối loạn chuyển hoá di truyền
+
+và
+
+xét nghiệm khi nghi ngờ các rối loạn chuyển hoá di truyền
+
+.
+
+Homocysteine là một chất trung gian trong chuyển hóa methionine; nó có thể được tái methyl hoá để tái tạo methionine hoặc kết hợp với serine trong một loạt các phản ứng chuyển sulfur để hình thành cystathionine và sau đó là cysteine. Cysteine sau đó được chuyển hóa thành sulfite, taurine và glutathione. Các khuyết tật khác nhau trong sự tái methyl hóa hoặc chuyển sulfur có thể làm cho homocysteine tích tụ, dẫn đến bệnh tật.
+
+Bước đầu tiên trong quá trình chuyển hoá methionine là chuyển đổi nó thành adenosylmethionine; chuyển đổi này đòi hỏi enzyme methionine adenosyltransferase. Thiếu enzyme này dẫn đến tăng methionine, điều này không có ý nghĩa lâm sàng, ngoại trừ việc gây ra dương tính giả
+
+sàng lọc sơ sinh
+
+kết quả cho homocystin niệu.
+
+Bảng
+
+Rối loạn chuyển hóa Methionine và lưu huỳnh
+
+Bảng
+
+Rối loạn chuyển hóa Methionine và lưu huỳnh
+
+Rối loạn chuyển hóa Methionine và lưu huỳnh
+
+Bệnh (Số OMIM)
+
+Khiếm khuyết Protein hoặc Enzyme
+
+Bình luận
+
+Homocystin niệu
+
+(236200*)
+
+Cystathionine beta -synthase
+
+Sinh hóa:
+
+Methionine niệu, homocystin niệu
+
+Đặc điểm lâm sàng:
+
+Loãng xương, vẹo cột sống, da trắng, thuỷ tinh thể sai vị trí, khuyết tật trí tuệ tiến triển, huyết khối tắc mạch
+
+Điều trị:
+
+Pyridoxine, folate, betaine cho bệnh nhân không đáp ứng, chế độ ăn ít methionine với bổ sung một số L-cysteine và vitamin C
+
+Thiếu methylenetetrahydrofolate reductase (236250*)
+
+Methylenetetrahydrofolate reductase
+
+Sinh hóa:
+
+Methionine huyết tương thấp đến bình thường, homocystin máu, homocystin niệu
+
+Đặc điểm lâm sàng:
+
+Thay đổi từ không triệu chứng đến đầu nhỏ, giảm trương lực cơ, co giật, bất thường dáng đi, và khuyết tật về trí tuệ đến ngưng thở, hôn mê và tử vong
+
+Điều trị:
+
+Pyridoxin, folate (axit folic), hydroxycobalamin, methionine, betain
+
+Methylmalonic axit máu-homocystin niệu-thiếu máu nguyên hồng cầu khổng lồ (cblC; 236270*)
+
+Methionine synthase reductase
+
+Sinh hóa:
+
+Homocystin niệu, homocystin máu, methionine huyết tương thấp, không có axit methylmalonic niệu, B12 và folate bình thường
+
+Đặc điểm lâm sàng:
+
+Ăn khó, tăng trưởng kém, khuyết tật về trí tuệ, mất điều hoà, teo não
+
+Điều trị:
+
+Hydroxycobalamin, folate, L-methionine
+
+Methylmalonic axit máu-homocystin niệu-thiếu máu nguyên hồng cầu khổng lồ (cblC; 250940*)
+
+Methionine synthase
+
+Tương tự như bệnh thiếu máu nguyên bào nuôi-thiếu máu nguyên bào khổng lồ homocystin niệu cblE
+
+Tăng methionine máu (250850*)
+
+Methionine adenosyltransferase I và III
+
+Sinh hóa:
+
+Tăng methionine huyết tương
+
+Đặc điểm lâm sàng:
+
+Chủ yếu không triệu chứng, hơi thở nặng mùi
+
+Điều trị:
+
+Không cần thiết
+
+Cystathionin niệu
+
+(219500*)
+
+Cystathionine gamma-lyase
+
+Sinh hóa:
+
+Cystathionin niệu
+
+Đặc điểm lâm sàng:
+
+Thường bình thường; đã có báo cáo về thiểu năng trí tuệ
+
+Điều trị:
+
+Pyridoxin
+
+Thiếu hụt Sulfit oxidase
+
+(606887*)
+
+Sulfite oxidase
+
+Sinh hóa:
+
+Tăng sulfit nước tiểu, thiosulfate, và S-sulfocysteine; giảm sulfat
+
+Đặc điểm lâm sàng:
+
+Đặc điểm lâm sàng:Chậm phát triển chậm, thuỷ tinh thể sai vị trí, chàm, mọc răng chậm, tóc mỏng, liệt nửa người, giảm trương lực cơ trẻ nhỏ, tăng trương lực cơ, động kinh, múa vờn, mất điều hoà, loạn trương lực cơ, tử vong
+
+Điều trị:
+
+Không có điều trị hiệu quả
+
+Thiếu hụt cofactor Molybdenum (252150*)
+
+Protein MOCS1A và MOCS1B
+
+Sinh hóa:
+
+Sulfite, thiosulfate, S-sulfocysteine, taurine, hypoxanthine, và xanthine niệu tăng; giảm sulfate và urate
+
+Đặc điểm lâm sàng:
+
+Tương tự như thiếu hụt sulfite oxidase cũng như có các loại sỏi niệu
+
+Điều trị:
+
+Không có điều trị hiệu quả
+
+Chế độ ăn có hàm lượng lưu huỳnh thấp có thể hữu ích ở những bệnh nhân có triệu chứng nhẹ hơn
+
+Molybdopterin synthase
+
+Gephyrin
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+Homocystine niệu cổ điển
+
+Rối loạn này là do sự thiếu hụt
+
+di truyền lặn
+
+trên nhiễm sắc thể thường của cystathionine beta-synthase, xác tác sự hình thành cystathionine từ homocysteine và serine. Homocysteine tích tụ và dimer hoá để tạo thành homocystine disulfide, được bài tiết qua nước tiểu. Bởi vì sự tái methyl hóa còn nguyên vẹn, một số homocysteine bổ sung được chuyển thành methionine, tích tụ trong máu. Hàm lượng homocysteine dư thừa có khuynh hướng tạo huyết khối và có tác dụng phụ lên mô liên kết (có thể liên quan đến fibrillin), đặc biệt là mắt và bộ xương; các phản ứng thần kinh bất lợi có thể là do huyết khối hoặc tác động trực tiếp.
+
+Hiện tượng huyết khối tắc động mạch và tĩnh mạch có thể xảy ra ở mọi lứa tuổi. Nhiều bệnh nhân phát triển thuỷ tinh thể lệch (ectopia lentis), khuyết tật trí tuệ, và loãng xương. Bệnh nhân có thể có
+
+một tạng người marfan
+
+mặc dù họ thường không cao.
+
+Chẩn đoán homocystin niệu cổ điển bằng
+
+sàng lọc sơ sinh
+
+với tăng methionine huyết thanh; nồng độ tổng homocysteine huyết tương tăng được khẳng định. Có thể thực hiện xét nghiệm enzym trong nguyên bào sợi da.
+
+Điều trị chứng homocystin niệu cổ điển là chế độ ăn ít methionine và bổ sung L-cysteine ​​phối hợp với pyridoxine liều cao (một đồng yếu tố Cysathionine synthetase) bằng đường uống mỗi ngày một lần. Bởi vì khoảng một nửa số bệnh nhân đáp ứng với liều cao pyridoxine đơn độc, một số bác sĩ lâm sàng không hạn chế lượng methionine đưa vào ở những bệnh nhân này. Betaine (trimethylglycine) làm tăng khả năng tái methyl hóa, cũng có thể giúp giảm homocysteine. Liều betaine thường bắt đầu từ 100 đến 125 mg/kg đường uống 2 lần mỗi ngày và được điều chỉnh dựa trên nồng độ homocysteine; yêu cầu rất khác nhau, đôi khi cần ≥ 9 g/ngày. Folate 1 đến 5 mg một lần/ngày cũng được cho.
+
+Với điều trị sớm, trí tuệ đạt bình thường hoặc gần bình thường.
+
+Vitamin C, 100 mg uống một lần mỗi ngày, cũng có thể được dùng để giúp ngăn ngừa huyết khối.
+
+Các dạng homocystin niệu khác
+
+Các khuyết tật khác nhau trong quá trình tái methyl hoá có thể dẫn đến homocystin niệu. Các khiếm khuyết bao gồm sự thiếu hụt methionine synthase (MS) và MS reductase (MSR), việc cung cấp methylcobalamin và adenosylcobalamin, và sự thiếu methylenetetrahydrofolate reductase (MTHFR, loại cần thiết để tạo ra 5-methyltetrahydrofolate cần cho phản ứng MS). Vì không có tăng methionine trong các dạng homocystin niệu này nên chúng không được phát hiện qua sàng lọc sơ sinh.
+
+Biểu hiện lâm sàng cũng tương tự như các dạng khác của homocystine niệu. Ngoài ra, thiếu hụt MS và MSR đi kèm theo thâm hụt thần kinh và thiếu máu
+
+nguyên hồng cầu khổng lồ
+
+. Biểu hiện lâm sàng của sự thiếu hụt MTHFR rất khác nhau, bao gồm khiếm khuyết về trí tuệ, rối loạn tâm thần, yếu, mất điều hoà, và co cứng.
+
+Chẩn đoán thiếu hụt MS và MSR được gợi ý bởi homocystin niệu và thiếu máu nguyên hồng cầu khổng lồ và xác định bằng xét nghiệm DNA. Bệnh nhân có khiếm khuyết cobalamin có thiếu máu nguyên hồng cầu khổng lồ và thiếu máu do methylmalonic. Thiếu MTHFR được chẩn đoán bằng xét nghiệm DNA.
+
+Điều trị bằng cách thay thế hydroxycobalamin (đối với bệnh nhân bị khuyết tật MS, MSR và cobalamin) và bổ sung folate tương tự như homocystin niệu đặc trưng.
+
+Cystathionin niệu
+
+Rối loạn này là do thiếu hụt men cysathionase, chất này chuyển đổi cysathionine thành
+
+cysteine
+
+. Sự tích lũy cystathionine làm tăng bài tiết qua nước tiểu nhưng không có triệu chứng lâm sàng.
+
+Thiếu hụt sulfit oxydase
+
+Sulfite oxyase chuyển đổi sulfite thành sunfat ở bước cuối cùng của quá trình phân hủy
+
+cystein
+
+và methionine; nó đòi hỏi một đồng yếu tố molypden. Sự thiếu hụt của enzyme hoặc cofactor gây ra bệnh tương tự; di truyền cho cả hai đều là
+
+lặn trên nhiễm sắc thể thường
+
+.
+
+Ở dạng nặng nhất, các biểu hiện lâm sàng xuất hiện ở trẻ sơ sinh và bao gồm co giật, giảm trương lực cơ, rung giật cơ, tiến triển đến tử vong sớm. Bệnh nhân có biểu hiện nhẹ hơn có thể biểu hiện tương tự như
+
+bại não
+
+và có thể có vận động
+
+kiểu múa giật.
+
+Chẩn đoán thiếu hụt sulfit oxidase được gợi ý bằng cách tăng sulfit niệu và được xác nhận bằng cách đo nồng độ enzym trong nguyên bào sợi và nồng độ cofactor trong mẫu sinh thiết gan và/hoặc xét nghiệm di truyền.
+
+Điều trị thiếu hụt Sulfit oxidase là điều trị hỗ trợ.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+: Complete gene, molecular, and chromosomal location information
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Homocystine niệu cổ điển ---
+
+Rối loạn này là do sự thiếu hụtdi truyền lặntrên nhiễm sắc thể thường của cystathionine beta-synthase, xác tác sự hình thành cystathionine từ homocysteine và serine. Homocysteine tích tụ và dimer hoá để tạo thành homocystine disulfide, được bài tiết qua nước tiểu. Bởi vì sự tái methyl hóa còn nguyên vẹn, một số homocysteine bổ sung được chuyển thành methionine, tích tụ trong máu. Hàm lượng homocysteine dư thừa có khuynh hướng tạo huyết khối và có tác dụng phụ lên mô liên kết (có thể liên quan đến fibrillin), đặc biệt là mắt và bộ xương; các phản ứng thần kinh bất lợi có thể là do huyết khối hoặc tác động trực tiếp.Hiện tượng huyết khối tắc động mạch và tĩnh mạch có thể xảy ra ở mọi lứa tuổi. Nhiều bệnh nhân phát triển thuỷ tinh thể lệch (ectopia lentis), khuyết tật trí tuệ, và loãng xương. Bệnh nhân có thể cómột tạng người marfanmặc dù họ thường không cao.Chẩn đoán homocystin niệu cổ điển bằngsàng lọc sơ sinhvới tăng methionine huyết thanh; nồng độ tổng homocysteine huyết tương tăng được khẳng định. Có thể thực hiện xét nghiệm enzym trong nguyên bào sợi da.Điều trị chứng homocystin niệu cổ điển là chế độ ăn ít methionine và bổ sung L-cysteine ​​phối hợp với pyridoxine liều cao (một đồng yếu tố Cysathionine synthetase) bằng đường uống mỗi ngày một lần. Bởi vì khoảng một nửa số bệnh nhân đáp ứng với liều cao pyridoxine đơn độc, một số bác sĩ lâm sàng không hạn chế lượng methionine đưa vào ở những bệnh nhân này. Betaine (trimethylglycine) làm tăng khả năng tái methyl hóa, cũng có thể giúp giảm homocysteine. Liều betaine thường bắt đầu từ 100 đến 125 mg/kg đường uống 2 lần mỗi ngày và được điều chỉnh dựa trên nồng độ homocysteine; yêu cầu rất khác nhau, đôi khi cần ≥ 9 g/ngày. Folate 1 đến 5 mg một lần/ngày cũng được cho.Với điều trị sớm, trí tuệ đạt bình thường hoặc gần bình thường.Vitamin C, 100 mg uống một lần mỗi ngày, cũng có thể được dùng để giúp ngăn ngừa huyết khối.
+
+--- 2. Cystathionin niệu ---
+
+Rối loạn này là do thiếu hụt men cysathionase, chất này chuyển đổi cysathionine thànhcysteine. Sự tích lũy cystathionine làm tăng bài tiết qua nước tiểu nhưng không có triệu chứng lâm sàng.
+
+--- 3. Thiếu hụt sulfit oxydase ---
+
+Sulfite oxyase chuyển đổi sulfite thành sunfat ở bước cuối cùng của quá trình phân hủycysteinvà methionine; nó đòi hỏi một đồng yếu tố molypden. Sự thiếu hụt của enzyme hoặc cofactor gây ra bệnh tương tự; di truyền cho cả hai đều làlặn trên nhiễm sắc thể thường.Ở dạng nặng nhất, các biểu hiện lâm sàng xuất hiện ở trẻ sơ sinh và bao gồm co giật, giảm trương lực cơ, rung giật cơ, tiến triển đến tử vong sớm. Bệnh nhân có biểu hiện nhẹ hơn có thể biểu hiện tương tự nhưbại nãovà có thể có vận độngkiểu múa giật.Chẩn đoán thiếu hụt sulfit oxidase được gợi ý bằng cách tăng sulfit niệu và được xác nhận bằng cách đo nồng độ enzym trong nguyên bào sợi và nồng độ cofactor trong mẫu sinh thiết gan và/hoặc xét nghiệm di truyền.Điều trị thiếu hụt Sulfit oxidase là điều trị hỗ trợ.
+
+--- 4. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

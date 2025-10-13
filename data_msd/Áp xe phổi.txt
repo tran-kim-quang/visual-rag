@@ -1,0 +1,745 @@
+TIÊU ĐỀ: Áp xe phổi
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-chức-năng-hô-hấp/áp-xe-phổi/áp-xe-phổi
+================================================================================
+
+NỘI DUNG:
+
+Áp xe phổi
+
+Theo
+
+Sanjay Sethi
+
+,
+
+MD
+
+,
+
+University at Buffalo, Jacobs School of Medicine and Biomedical Sciences
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2025
+
+v918394_vi
+
+Áp xe phổi là tình trạng nhiễm trùng phổi hoại tử đặc trưng bởi tổn thương dạng hang có giới hạn chứa đầy mủ. Bệnh thường do hít phải dịch tiết từ miệng ở những bệnh nhân có nguy cơ hít phải và khởi phát chậm. Các triệu chứng bao gồm ho có đờm, sốt, đổ mồ hôi đêm và sụt cân. Chẩn đoán chủ yếu dựa vào phim chụp X-quang ngực. Thường điều trị bằng thuốc ức chế beta-lactam/beta-lactamase phối hợp hoặc carbapenem.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Căn nguyên của áp xe phổi
+
+Hít dịch tiết vùng miệng (phổ biến nhất)
+
+Tắc nghẽn nội phế quản
+
+Lan rộng trực tiếp
+
+Tác nhân gây bệnh lan từ đường máu đến phổi (ít phổ biến hơn)
+
+Hầu hết các áp xe phổi phát triển sau khi hít phải dịch tiết miệng ở những bệnh nhân bị viêm nướu hoặc vệ sinh răng miệng kém. Thông thường, bệnh nhân sẽ bị thay đổi ý thức do uống rượu hoặc sử dụng ma túy, hoặc sử dụng thuốc gây mê, thuốc an thần hoặc thuốc phiện. Những bệnh nhân lớn tuổi hơn và những người không thể giải quyết được chất bài tiết ở miệng của họ, thường là vì bệnh thần kinh, cũng có nguy cơ. Áp xe phổi sau đó có thể hình thành do viêm phổi khu trú phát triển thành hoại tử và tổn thương dạng hang chứa đầy mủ (
+
+1
+
+).
+
+Áp xe phổi cũng có thể phát triển thứ phát do tắc nghẽn nội phế quản (ví dụ, do
+
+ung thư biểu mô phế quản
+
+hoặc dị vật) hoặc do suy giảm miễn dịch (ví dụ, do
+
+nhiễm HIV giai đoạn tiến triển
+
+hoặc sau khi ghép và sử dụng thuốc ức chế miễn dịch).
+
+Nguyên nhân ít gặp hơn của áp xe phổi là viêm phổi hoại tử phát triển từ các tác nhân lan đến theo đường máu do huyết khối hóa mủ (ví dụ tắc mạch nhiễm khuẩn do truyền thuốc đường tĩnh mạch hoặc là
+
+Hội chứng Lemierre
+
+) hoặc
+
+viêm nội tâm mạc
+
+tim phải. Trái ngược với hít phải và tắc nghẽn, các tình trạng này thường xuất hiện cấp tính và gây ra nhiều ổ áp xe phổi mà không phải một ổ áp xe.
+
+Nhiễm trùng trực tiếp (ví dụ: lây lan từ mủ màng phổi, áp xe dưới cơ hoành hoặc trung thất) thay vì lây truyền qua đường máu có thể xảy ra với một số loại vi khuẩn sinh mủ (ví dụ:
+
+Staphylococcus aureus
+
+).
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Vaarst JK, Sperling S, Dahl VN, et al
+
+. Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.
+
+Respir Med
+
+2023;216:107305. doi:10.1016/j.rmed.2023.107305
+
+Sinh lý bệnh của áp xe phổi
+
+Các tác nhân gây bệnh phổ biến nhất của áp xe phổi do hít là vi khuẩn kị khí, nhưng khoảng một nửa trong số tất cả các ca bệnh liên quan đến cả sinh vật kỵ khí và hiếu khí (xem bảng
+
+Nguyên nhân nhiễm trùng của tổn thương phổi có hang
+
+).
+
+Các mầm bệnh
+
+kị khí
+
+phổ biến nhất là
+
+Peptostreptococcus
+
+Fusobacterium
+
+Prevotellaprevotella
+
+Bacteroides
+
+Các mầm bệnh
+
+ái khí
+
+phổ biến nhất là
+
+Streptococci
+
+Tụ cầu
+
+, đôi khi là tụ cầu vàng
+
+kháng Methicillin
+
+(MRSA)
+
+Đôi khi, các trường hợp là do vi khuẩn gram âm, đặc biệt là
+
+Klebsiella
+
+(
+
+1
+
+). Những bệnh nhân suy giảm miễn dịch bị áp xe phổi thường bị nhiễm
+
+Pseudomonas aeruginosa
+
+hoặc các trực khuẩn gram âm khác nhưng cũng có thể bị nhiễm
+
+Nocardia
+
+, mycobacteria hoặc nấm.
+
+Sự xuất hiện của các tác nhân gây bệnh vào phổi trước tiên sẽ gây viêm, trong hơn một hoặc hai tuần dẫn đến hoại tử mô và sau đó hình thành áp-xe. Áp xe thường vỡ vào lòng phế quản, và các thành phần của nó được khạc ra ngoài làm mất dần ổ dịch - khí. Trong khoảng 10% các trường hợp, sự khuyeechs tán trực tiếp hoặc gián tiếp (qua lỗ rò phế quản - màng phổi) vào màng phổi gây ra tràn mủ màng phổi. Ít phổ biến hơn, tình trạng lây lan tiếp theo từ tràn mủ màng phổi lâu ngày không được điều trị hoặc điều trị không đầy đủ có thể lan đến nhu mô phổi và khu trú, dẫn đến áp xe.
+
+Áp xe phổi có thể là hậu quả của viêm phổi hoại tử hoặc hoại thư. Viêm phổi hoại tử là biến chứng nặng của bệnh viêm phổi, biểu hiện bằng tình trạng suy thoái nhanh chóng của mô phổi và hình thành các tổn thương dạng hang gây áp xe. Ngược lại, hoại thư phổi là biến chứng hiếm gặp và nặng của bệnh viêm phổi hoại tử, đặc trưng bởi tình trạng hoại tử lan rộng ở mô phổi. Các trường hợp hoại thư phổi hiếm gặp (hoại tử lan rộng liên quan đến thùy hoặc phổi) hoặc viêm phổi tối cấp với nhiễm trùng huyết đã được báo cáo với các mầm bệnh như MRSA,
+
+Pneumococcus
+
+và
+
+Klebsiella
+
+. Một số bệnh nhân có nguy cơ bị áp xe do
+
+Mycobacterium tuberculosis
+
+và một số trường hợp hiếm gặp là do nhiễm trùng amip (ví dụ: với
+
+Entamoeba histolytica
+
+), u nang sán, bệnh sán lá phổi, hoặc nhiễm trùng
+
+Burkholderia pseudomallei
+
+.
+
+Bảng
+
+Tác nhân truyền nhiễm của các tổn thương dạng hang ở phổi
+
+Bảng
+
+Tác nhân truyền nhiễm của các tổn thương dạng hang ở phổi
+
+Tác nhân truyền nhiễm của các tổn thương dạng hang ở phổi
+
+Nguyên nhân
+
+Ví dụ (rối loạn)
+
+Tác nhân hiếu khí
+
+Burkholderia pseudomallei
+
+*, †
+
+Klebsiella pneumoniae
+
+*
+
+Nocardia
+
+‡
+
+Pseudomonas aeruginosa
+
+*
+
+Staphylococcus aureus
+
+§
+
+Streptococcus milleri
+
+§
+
+Các phế cầu khác §
+
+Sinh vật kỵ khí
+
+Actinomyces
+
+‡
+
+Bacteroides sp
+
+*
+
+Clostridium
+
+‡
+
+Fusobacterium
+
+*
+
+Peptostreptococcus
+
+§
+
+Prevotella
+
+*
+
+Nấm
+
+Aspergillus
+
+(
+
+aspergillosis
+
+)
+
+Blastomyces dermatitidis
+
+(
+
+blastomycosis
+
+)
+
+Coccidioides immitis
+
+(
+
+coccidioidomycosis
+
+)
+
+Cryptococcus neoformans
+
+(
+
+nhiễm nấm cryptococcus)
+
+Histoplasma capsulatum
+
+(
+
+histoplasmosis
+
+)
+
+Pneumocystis jirovecii
+
+.
+
+P. jirovecii pneumonia
+
+Rhizomucor
+
+(
+
+mucormycosis
+
+)
+
+Rhizopus
+
+(
+
+mucormycosis
+
+)
+
+Sporothrix schenckii
+
+(
+
+sporotrichosis
+
+)
+
+Mycobacteria
+
+Mycobacterium avium-cellulare
+
+Mycobacterium kansasii
+
+Mycobacterium tuberculosis
+
+(
+
+bệnh lao
+
+)†
+
+Ký sinh trùng
+
+Entamoeba histolytica
+
+(
+
+nhiễm a míp
+
+)†
+
+Echinococcus granulosus
+
+(
+
+nhiễm echinococcus
+
+)†
+
+Echinococcus multilocularis
+
+(
+
+Nhiễm Echinococcus
+
+)†
+
+Paragonimus westermani
+
+(
+
+bệnh sán lá phổi
+
+)†
+
+* Vi khuẩn Gram âm.
+
+† Những nguyên nhân này thường chỉ xảy ra ở một số khu vực có tỷ lệ hiện nhiễm cao hoặc sau khi di chuyên đến những khu vực như vậy.
+
+‡ Trực khuẩn gram dương.
+
+§Cầu khuẩn gram dương.
+
+* Vi khuẩn Gram âm.
+
+† Những nguyên nhân này thường chỉ xảy ra ở một số khu vực có tỷ lệ hiện nhiễm cao hoặc sau khi di chuyên đến những khu vực như vậy.
+
+‡ Trực khuẩn gram dương.
+
+§Cầu khuẩn gram dương.
+
+Tài liệu tham khảo về sinh lý bệnh
+
+1.
+
+Takayanagi N, Kagiyama N, Ishiguro T, Tokunaga D, Sugita Y
+
+. Etiology and outcome of community-acquired lung abscess.
+
+Respiration
+
+2010;80(2):98-105. doi:10.1159/000312404
+
+Các triệu chứng và dấu hiệu của áp xe phổi
+
+Các triệu chứng của áp xe do vi khuẩn kỵ khí hoặc hỗn hợp vi khuẩn kỵ khí và hiếu khí thường là mạn tính, phát triển trong nhiều tuần hoặc nhiều tháng, bao gồm ho có đờm, sốt và ớn lạnh, đổ mồ hôi đêm và sụt cân (
+
+1
+
+,
+
+2
+
+). Có thể có ngón tay dùi trống. Bệnh nhân cũng có thể có hiện tượng ho máu và đau ngực kiểu màng phổi. Đờm có thể là mủ hoặc lẫn máu và có mùi kinh điển hoặc thối. Bệnh nhân có thể có hơi thở nặng mùi. Có thể có tình trạng chán ăn và mệt mỏi do viêm mạn tính.
+
+Các triệu chứng của áp xe do vi khuẩn hiếu khí phát triển cấp tính hơn (vài giờ đến vài ngày) và giống với viêm phổi do vi khuẩn. Áp xe do các sinh vật khác ngoài vi khuẩn kỵ khí (ví dụ:
+
+Mycobacteria
+
+,
+
+Nocardia
+
+) không có chất tiết đường hô hấp thối rữa và có nhiều khả năng xảy ra ở các vùng phổi không phụ thuộc và phát triển bán cấp tính (vài tuần đến vài tháng).
+
+Các dấu hiệu của áp xe phổi, nếu có, không đặc hiệu và giống với các dấu hiệu của bệnh viêm phổi: âm thở thay đổi cho thấy có sự đông đặc hoặc tràn dịch, nhiệt độ
+
+≥
+
+38
+
+°
+
+C, có tiếng ran nổ ở vùng bị thương tổn, tiếng dê kêu và gõ đục khi có tràn dịch. Bệnh nhân thường có dấu hiệu của bệnh nha chu và tiền sử có nguyên nhân gây hít sặc, chẳng hạn như khó nuốt hoặc tình trạng gây suy giảm ý thức (
+
+3
+
+).
+
+Tài liệu tham khảo về các dấu hiệu và triệu chứng
+
+1.
+
+Montméat V, Bonny V, Urbina T, et al
+
+. Epidemiology and Clinical Patterns of Lung Abscesses in ICU: A French Multicenter Retrospective Study.
+
+Chest
+
+2024;165(1):48-57. doi:10.1016/j.chest.2023.08.020
+
+2.
+
+Vaarst JK, Sperling S, Dahl VN, et al
+
+. Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.
+
+Respir Med
+
+2023;216:107305. doi:10.1016/j.rmed.2023.107305
+
+3.
+
+Moreira Jda S, Camargo Jde J, Felicetti JC, Goldenfun PR, Moreira AL, Porto Nda S
+
+. Lung abscess: analysis of 252 consecutive cases diagnosed between 1968 and 2004.
+
+J Bras Pneumol
+
+2006;32(2):136-143. doi:10.1590/s1806-37132006000200009
+
+Chẩn đoán áp xe phổi
+
+Chụp X-quang ngực
+
+Rất thường xuyên chụp cắt lớp vi tính ngực (CT) để hiển thị hình ảnh rõ hơn hoặc nếu nghi ngờ tắc nghẽn nội phế quản
+
+Nhuộm Gram và nuôi cấy đờm để tìm vi khuẩn hiếu khí và nhuộm Gram và nuôi cấy máu để tìm vi khuẩn hiếu khí và kỵ khí
+
+Nếu có chỉ định lâm sàng, nuôi cấy đờm để tìm nấm và vi khuẩn lao
+
+Nội soi phế quản khi cần thiết để loại trừ ung thư (nội phế quản), phát hiện các tác nhân gây bệnh bất thường như nấm hoặc vi khuẩn lao và ở những bệnh nhân có kết quả nuôi cấy âm tính, trong các biểu hiện không điển hình và ở những bệnh nhân suy giảm miễn dịch
+
+Nhuộm Gram và nuôi cấy bất kỳ dịch màng phổi nào
+
+Nghi ngờ áp xe phổi dựa trên tiền sử bệnh án của bệnh nhân có nguy cơ (ví dụ: dễ hít sặc do thay đổi ý thức hoặc khó nuốt hoặc bị suy giảm miễn dịch) và được xác nhận bằng phim chụp X-quang ngực cho thấy có hang.
+
+Trong nhiễm trùng kỵ khí do hít phải, phim chụp X-quang ngực thường cho thấy hình ảnh đông đặc với một khoang duy nhất chứa mức khí-dịch ở một số phần của phổi, mức này sẽ thay đổi khi bệnh nhân nằm ngửa (ví dụ: các phân thùy sau của thùy trên hoặc các phân thùy đáy trên hoặc phân thùy đáy ngoài của thùy dưới). Mô hình này giúp phân biệt áp xe kỵ khí từ các nguyên nhân khác gây tổn thương dạng hang, vì bệnh phổi lan tỏa hoặc tắc mạch thường gây ra nhiều hang và bệnh lao thường ở đỉnh phổi.
+
+Áp xe phổi (phim X-quang)
+
+Hình ảnh
+
+Được sự cho phép của nhà xuất bản. Theo Leaf H. Trong
+
+Atlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections
+
+. Biên tập bởi GL Mandell (biên tập loạt bài) và MS Simberkoff. Philadelphia, Current Medicine, 1996.
+
+Chụp CT không phải lúc nào cũng cần thiết (ví dụ: nếu tình trạng hang rõ ràng trên phim chụp X-quang ngực ở bệnh nhân có yếu tố nguy cơ áp xe phổi). Tuy nhiên, chụp CT có thể hữu ích khi nghi ngờ có hang nhưng không thấy rõ trên phim chụp X-quang ngực, khi nghi ngờ có khối u phổi bên dưới cản trở đường dẫn lưu của một phân thùy phổi hoặc khi cần phân biệt áp xe với mủ màng phổi hoặc bóng khí có mức nước-khí.
+
+Áp xe phổi (chụp CT)
+
+Hình ảnh
+
+ZEPHYR/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Ung thư biểu mô phế quản
+
+có thể dẫn đến tắc nghẽn đường thở gây ra viêm phổi và hình thành áp xe. Nên nghi ngờ ung thư phế quản dạng hang ở những bệnh nhân không đáp ứng với điều trị bằng thuốc kháng khuẩn hoặc có những dấu hiệu bất thường như tổn thương dạng hang mà không có đông đặc xung quanh hoặc không có dấu hiệu và triệu chứng nhiễm trùng như sốt.
+
+Nội soi phế quản đôi khi được thực hiện để loại trừ ung thư hoặc có dị vật hoặc để phát hiện các mầm bệnh bất thường, chẳng hạn như nấm hoặc vi khuẩn lao. Nội soi phế quản cũng được thực hiện nếu bệnh nhân bị suy giảm miễn dịch và nên được cân nhắc ở những bệnh nhân không đáp ứng phù hợp với thuốc kháng sinh theo kinh nghiệm ban đầu.
+
+Nên cân nhắc siêu âm tim qua thành ngực hoặc qua thực quản để loại trừ viêm nội tâm mạc nhiễm trùng ở những bệnh nhân có nhiều áp xe phổi.
+
+Nhuộm Gram và nuôi cấy
+
+Cần phải nhuộm Gram và nuôi cấy cả mẫu đờm và máu để giúp xác định tác nhân gây bệnh. Cần phải gửi mẫu máu để nuôi cấy tìm vi khuẩn hiếu khí và kỵ khí. Tuy nhiên, mẫu đờm thường chỉ được gửi để nuôi cấy vi khuẩn hiếu khí; nuôi cấy đờm thường bị nhiễm hệ vi khuẩn đường miệng, làm phức tạp việc giải thích nuôi cấy vi khuẩn kỵ khí. Nếu đờm thối thì vi khuẩn kỵ khí có thể là nguyên nhân. Nếu có tràn mủ màng phổi, dịch màng phổi cung cấp nguồn nuôi cấy kỵ khí tốt (
+
+1
+
+). Các mẫu nội soi phế quản có ít nhiễm bẩn ở hầu họng hơn và nên được gửi đi để nuôi cấy vi khuẩn kỵ khí.
+
+Khi đặc điểm lâm sàng ít nghĩ tới vi khuẩn kỵ khí, nên nghi ngờ nhiễm trùng hiếu khí, nấm hoặc mycobacteria, và cần cố gắng để xác định mầm bệnh. Nuôi cấy đờm, dịch phế quản, hoặc cả hai đều có ích.
+
+Chẩn đoán phân biệt
+
+Tổn thương phổi dạng hang không phải lúc nào cũng do áp xe phổi gây ra (
+
+2
+
+). Các nguyên nhân khác gây ra tổn thương phổi dạng hang bao gồm:
+
+Mủ màng phổi hoặc kén có mức nước - hơi
+
+Giãn phế quản
+
+dạng nang (dạng túi)
+
+Ung thư phổi
+
+Nhồi máu phổi
+
+Bụi phổi silic
+
+dạng nốt có hoại tử trung tâm
+
+Thuyên tắc động mạch phổi
+
+Bệnh phổi biệt lập
+
+Bệnh sarcoid
+
+Viêm đa mạch u hạt
+
+Các nốt ở phổi dạng thấp
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Bartlett JG
+
+. Anaerobic bacterial infections of the lung.
+
+Chest
+
+1987;91(6):901-909. doi:10.1378/chest.91.6.901
+
+2.
+
+Gadkowski LB, Stout JE
+
+. Cavitary pulmonary disease.
+
+Clin Microbiol Rev
+
+2008;21(2):305-333. doi:10.1128/CMR.00060-07
+
+Điều trị áp xe phổi
+
+Kháng sinh đường tĩnh mạch hoặc, đối với bệnh nhân nhẹ hơn, kháng sinh đường uống
+
+Dẫn lưu qua da, qua đường khí quản hoặc phẫu thuật khi không đáp ứng với kháng sinh hoặc tràn mủ màng phổi
+
+Lựa chọn chính là dạng phối hợp beta-lactam/thuốc ức chế beta-lactamase, ví dụ như ampicillin/sulbactam (
+
+1
+
+). Các phương pháp thay thế, đặc biệt là đối với những bệnh nhân nghi ngờ nhiễm trùng gram âm, bao gồm carbapenem (ví dụ: imipenem/cilastatin) hoặc liệu pháp phối hợp metronidazole cộng với ceftriaxone. Ở những bệnh nhân bị dị ứng với penicillin, moxifloxacin hoặc liệu pháp phối hợp levofloxacin và metronidazole là những lựa chọn thay thế. Clindamycin hiện nay ít được sử dụng vì lo ngại về nhiễm
+
+Clostridioides difficile
+
+và tình trạng kháng kháng sinh.
+
+Những bệnh nhân ít nghiêm trọng hơn có thể được dùng thuốc kháng sinh đường uống như amoxicillin/acid clavulanic hoặc moxifloxacin ở những bệnh nhân bị dị ứng với penicillin. Phác đồ theo đường tĩnh mạch có thể được chuyển đổi thành phác đồ theo đường uống khi bệnh nhân hết sốt và ổn định về mặt lâm sàng (
+
+2
+
+).
+
+Đối với các bệnh nhiễm trùng liên quan đến MRSA, phương pháp điều trị tốt nhất là linezolid hoặc vancomycin.
+
+Nếu trực khuẩn gram âm được nuôi cấy với nồng độ đáng kể từ đờm hoặc máu và được xác định trên nhuộm gram, chế độ kháng sinh cần phải được sửa đổi để bao gồm mầm bệnh cụ thể ngoài vi khuẩn kỵ khí.
+
+Thời gian điều trị tối ưu vẫn chưa được biết rõ, nhưng thông lệ chung là điều trị cho đến khi chụp X-quang ngực cho thấy vết thương phục hồi hoàn toàn hoặc để lại sẹo nhỏ, ổn định, thường mất từ ​​3 tuần đến 6 tuần hoặc lâu hơn. Nhìn chung, áp xe càng lớn thì thời gian chụp X-quang cho thấy tình trạng lành càng lâu.
+
+Mặc dù đã được khuyến nghị trước đây, hầu hết các tác giả không còn khuyến nghị vật lý trị liệu ngực và dẫn lưu theo tư thế nữa vì nguy cơ nhiễm trùng lan sang các phế quản khác khi nhiễm trùng lan rộng hoặc tắc nghẽn cấp tính.
+
+Nếu bệnh nhân không hạ sốt hoặc cải thiện về mặt lâm sàng sau 7 ngày đến 10 ngày, họ cần được đánh giá các tác nhân gây bệnh kháng thuốc hoặc bất thường, tắc nghẽn đường thở và các nguyên nhân gây ra hang không do nhiễm trùng, thường bao gồm đánh giá bằng nội soi phế quản vùng phổi bị thương tổn. Chụp CT có thể giúp phát hiện sự phát triển của các biến chứng như tràn mủ màng phổi và xác định phương pháp can thiệp tối ưu vào ổ áp xe. Khi có tràn mủ màng phổi thì cần được dẫn lưu. Phẫu thuật cắt bỏ hoặc dẫn lưu áp xe phổi là cần thiết đối với khoảng 10% số bệnh nhân có tổn thương không đáp ứng với thuốc kháng sinh và những bệnh nhân bị hoại tử phổi. Kháng thuốc điều trị bằng kháng sinh thường gặp nhất ở các lỗ sâu lớn và áp xe sau tắc nghẽn (
+
+3
+
+).
+
+Dẫn lưu áp xe dưới màng phổi bằng ống thông qua da hoặc đặt ống thông đuôi lợn dưới sự dẫn hướng của hình ảnh (siêu âm, chụp CT hoặc huỳnh quang) vào áp xe trung tâm có thể giúp dẫn lưu dễ dàng hơn (
+
+4
+
+,
+
+5
+
+). Khi cần phẫu thuật, cắt thùy phổi là thủ thuật phổ biến nhất; cắt bỏ từng phân thùy phổi có thể đủ cho các tổn thương nhỏ. Phẫu thuật cắt phổi có thể cần thiết đối với nhiều ổ áp xe không đáp ứng với điều trị bằng thuốc hoặc đối với hoại tử phổi.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Reinhardt JF, Johnston L, Ruane P, et al
+
+. A randomized, double-blind comparison of
+
+sulbactam/ampicillin
+
+and
+
+clindamycin
+
+for the treatment of aerobic and aerobic-anaerobic infections.
+
+Rev Infect Dis
+
+1986;8 Suppl 5:S569-S575. doi:10.1093/clinids/8.supplement_5.s569
+
+2.
+
+Ott SR, Allewelt M, Lorenz J, Reimnitz P, Lode H; German Lung Abscess Study Group
+
+.
+
+Moxifloxacin
+
+vs
+
+ampicillin/sulbactam
+
+in aspiration pneumonia and primary lung abscess.
+
+Infection
+
+2008;36(1):23-30. doi:10.1007/s15010-007-7043-6
+
+3.
+
+Kuhajda I, Zarogoulidis K, Tsirgogianni K, et al
+
+. Lung abscess-etiology, diagnostic and treatment options.
+
+Ann Transl Med
+
+2015;3(13):183. doi:10.3978/j.issn.2305-5839.2015.07.08
+
+4.
+
+Herth F, Ernst A, Becker HD
+
+. Endoscopic drainage of lung abscesses: technique and outcome.
+
+Chest
+
+2005;127(4):1378-1381. doi:10.1378/chest.127.4.1378
+
+5.
+
+Kelogrigoris M, Tsagouli P, Stathopoulos K, Tsagaridou I, Thanos L
+
+. CT-guided percutaneous drainage of lung abscesses: review of 40 cases.
+
+JBR-BTR
+
+2011;94(4):191-195. doi:10.5334/jbr-btr.583
+
+Những điểm chính
+
+Áp xe phổi thường xuất hiện do hít phải chất tiết vùng miệng ở những bệnh nhân suy giảm ý thức; do đó, vi khuẩn kỵ khí là một trong các mầm bệnh phổ biến.
+
+Nghi ngờ áp xe phổi ở những bệnh nhân dễ bị hít sặc, có triệu chứng bán cấp về thể chất và phổi và phim chụp X-quang ngực của họ cho thấy các tổn thương tương ứng như các ổ.
+
+Điều trị ban đầu với kháng sinh; nếu bệnh nhân không đáp ứng trong vòng 7 đến 10 ngày, đánh giá chúng đối với các mầm bệnh bất thường hoặc kháng bệnh, tổn thương tắc nghẽn phế quản và các nguyên nhân không gây nhiễm trùng phổi.
+
+Dẫn lưu mủ màng phổi và cân nhắc phẫu thuật cắt bỏ hoặc dẫn lưu áp xe phổi không đáp ứng với điều trị bằng thuốc và ở những bệnh nhân bị hoại thư phổi.
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của áp xe phổi ---
+
+Hít dịch tiết vùng miệng (phổ biến nhất)Tắc nghẽn nội phế quảnLan rộng trực tiếpTác nhân gây bệnh lan từ đường máu đến phổi (ít phổ biến hơn)Hầu hết các áp xe phổi phát triển sau khi hít phải dịch tiết miệng ở những bệnh nhân bị viêm nướu hoặc vệ sinh răng miệng kém. Thông thường, bệnh nhân sẽ bị thay đổi ý thức do uống rượu hoặc sử dụng ma túy, hoặc sử dụng thuốc gây mê, thuốc an thần hoặc thuốc phiện. Những bệnh nhân lớn tuổi hơn và những người không thể giải quyết được chất bài tiết ở miệng của họ, thường là vì bệnh thần kinh, cũng có nguy cơ. Áp xe phổi sau đó có thể hình thành do viêm phổi khu trú phát triển thành hoại tử và tổn thương dạng hang chứa đầy mủ (1).Áp xe phổi cũng có thể phát triển thứ phát do tắc nghẽn nội phế quản (ví dụ, doung thư biểu mô phế quảnhoặc dị vật) hoặc do suy giảm miễn dịch (ví dụ, donhiễm HIV giai đoạn tiến triểnhoặc sau khi ghép và sử dụng thuốc ức chế miễn dịch).Nguyên nhân ít gặp hơn của áp xe phổi là viêm phổi hoại tử phát triển từ các tác nhân lan đến theo đường máu do huyết khối hóa mủ (ví dụ tắc mạch nhiễm khuẩn do truyền thuốc đường tĩnh mạch hoặc làHội chứng Lemierre) hoặcviêm nội tâm mạctim phải. Trái ngược với hít phải và tắc nghẽn, các tình trạng này thường xuất hiện cấp tính và gây ra nhiều ổ áp xe phổi mà không phải một ổ áp xe.Nhiễm trùng trực tiếp (ví dụ: lây lan từ mủ màng phổi, áp xe dưới cơ hoành hoặc trung thất) thay vì lây truyền qua đường máu có thể xảy ra với một số loại vi khuẩn sinh mủ (ví dụ:Staphylococcus aureus).Tài liệu tham khảo nguyên nhân gây bệnh1.Vaarst JK, Sperling S, Dahl VN, et al. Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.Respir Med2023;216:107305. doi:10.1016/j.rmed.2023.107305
+
+--- 2. Sinh lý bệnh của áp xe phổi ---
+
+Các tác nhân gây bệnh phổ biến nhất của áp xe phổi do hít là vi khuẩn kị khí, nhưng khoảng một nửa trong số tất cả các ca bệnh liên quan đến cả sinh vật kỵ khí và hiếu khí (xem bảngNguyên nhân nhiễm trùng của tổn thương phổi có hang).Các mầm bệnhkị khíphổ biến nhất làPeptostreptococcusFusobacteriumPrevotellaprevotellaBacteroidesCác mầm bệnhái khíphổ biến nhất làStreptococciTụ cầu, đôi khi là tụ cầu vàngkháng Methicillin(MRSA)Đôi khi, các trường hợp là do vi khuẩn gram âm, đặc biệt làKlebsiella(1). Những bệnh nhân suy giảm miễn dịch bị áp xe phổi thường bị nhiễmPseudomonas aeruginosahoặc các trực khuẩn gram âm khác nhưng cũng có thể bị nhiễmNocardia, mycobacteria hoặc nấm.Sự xuất hiện của các tác nhân gây bệnh vào phổi trước tiên sẽ gây viêm, trong hơn một hoặc hai tuần dẫn đến hoại tử mô và sau đó hình thành áp-xe. Áp xe thường vỡ vào lòng phế quản, và các thành phần của nó được khạc ra ngoài làm mất dần ổ dịch - khí. Trong khoảng 10% các trường hợp, sự khuyeechs tán trực tiếp hoặc gián tiếp (qua lỗ rò phế quản - màng phổi) vào màng phổi gây ra tràn mủ màng phổi. Ít phổ biến hơn, tình trạng lây lan tiếp theo từ tràn mủ màng phổi lâu ngày không được điều trị hoặc điều trị không đầy đủ có thể lan đến nhu mô phổi và khu trú, dẫn đến áp xe.Áp xe phổi có thể là hậu quả của viêm phổi hoại tử hoặc hoại thư. Viêm phổi hoại tử là biến chứng nặng của bệnh viêm phổi, biểu hiện bằng tình trạng suy thoái nhanh chóng của mô phổi và hình thành các tổn thương dạng hang gây áp xe. Ngược lại, hoại thư phổi là biến chứng hiếm gặp và nặng của bệnh viêm phổi hoại tử, đặc trưng bởi tình trạng hoại tử lan rộng ở mô phổi. Các trường hợp hoại thư phổi hiếm gặp (hoại tử lan rộng liên quan đến thùy hoặc phổi) hoặc viêm phổi tối cấp với nhiễm trùng huyết đã được báo cáo với các mầm bệnh như MRSA,PneumococcusvàKlebsiella. Một số bệnh nhân có nguy cơ bị áp xe doMycobacterium tuberculosisvà một số trường hợp hiếm gặp là do nhiễm trùng amip (ví dụ: vớiEntamoeba histolytica), u nang sán, bệnh sán lá phổi, hoặc nhiễm trùngBurkholderia pseudomallei.BảngTác nhân truyền nhiễm của các tổn thương dạng hang ở phổiBảngTác nhân truyền nhiễm của các tổn thương dạng hang ở phổiTác nhân truyền nhiễm của các tổn thương dạng hang ở phổiNguyên nhânVí dụ (rối loạn)Tác nhân hiếu khíBurkholderia pseudomallei*, †Klebsiella pneumoniae*Nocardia‡Pseudomonas aeruginosa*Staphylococcus aureus§Streptococcus milleri§Các phế cầu khác §Sinh vật kỵ khíActinomyces‡Bacteroides sp*Clostridium‡Fusobacterium*Peptostreptococcus§Prevotella*NấmAspergillus(aspergillosis)Blastomyces dermatitidis(blastomycosis)Coccidioides immitis(coccidioidomycosis)Cryptococcus neoformans(nhiễm nấm cryptococcus)Histoplasma capsulatum(histoplasmosis)Pneumocystis jirovecii.P. jirovecii pneumoniaRhizomucor(mucormycosis)Rhizopus(mucormycosis)Sporothrix schenckii(sporotrichosis)MycobacteriaMycobacterium avium-cellulareMycobacterium kansasiiMycobacterium tuberculosis(bệnh lao)†Ký sinh trùngEntamoeba histolytica(nhiễm a míp)†Echinococcus granulosus(nhiễm echinococcus)†Echinococcus multilocularis(Nhiễm Echinococcus)†Paragonimus westermani(bệnh sán lá phổi)†* Vi khuẩn Gram âm.† Những nguyên nhân này thường chỉ xảy ra ở một số khu vực có tỷ lệ hiện nhiễm cao hoặc sau khi di chuyên đến những khu vực như vậy.‡ Trực khuẩn gram dương.§Cầu khuẩn gram dương.* Vi khuẩn Gram âm.† Những nguyên nhân này thường chỉ xảy ra ở một số khu vực có tỷ lệ hiện nhiễm cao hoặc sau khi di chuyên đến những khu vực như vậy.‡ Trực khuẩn gram dương.§Cầu khuẩn gram dương.Tài liệu tham khảo về sinh lý bệnh1.Takayanagi N, Kagiyama N, Ishiguro T, Tokunaga D, Sugita Y. Etiology and outcome of community-acquired lung abscess.Respiration2010;80(2):98-105. doi:10.1159/000312404
+
+--- 3. Các triệu chứng và dấu hiệu của áp xe phổi ---
+
+Các triệu chứng của áp xe do vi khuẩn kỵ khí hoặc hỗn hợp vi khuẩn kỵ khí và hiếu khí thường là mạn tính, phát triển trong nhiều tuần hoặc nhiều tháng, bao gồm ho có đờm, sốt và ớn lạnh, đổ mồ hôi đêm và sụt cân (1,2). Có thể có ngón tay dùi trống. Bệnh nhân cũng có thể có hiện tượng ho máu và đau ngực kiểu màng phổi. Đờm có thể là mủ hoặc lẫn máu và có mùi kinh điển hoặc thối. Bệnh nhân có thể có hơi thở nặng mùi. Có thể có tình trạng chán ăn và mệt mỏi do viêm mạn tính.Các triệu chứng của áp xe do vi khuẩn hiếu khí phát triển cấp tính hơn (vài giờ đến vài ngày) và giống với viêm phổi do vi khuẩn. Áp xe do các sinh vật khác ngoài vi khuẩn kỵ khí (ví dụ:Mycobacteria,Nocardia) không có chất tiết đường hô hấp thối rữa và có nhiều khả năng xảy ra ở các vùng phổi không phụ thuộc và phát triển bán cấp tính (vài tuần đến vài tháng).Các dấu hiệu của áp xe phổi, nếu có, không đặc hiệu và giống với các dấu hiệu của bệnh viêm phổi: âm thở thay đổi cho thấy có sự đông đặc hoặc tràn dịch, nhiệt độ≥38°C, có tiếng ran nổ ở vùng bị thương tổn, tiếng dê kêu và gõ đục khi có tràn dịch. Bệnh nhân thường có dấu hiệu của bệnh nha chu và tiền sử có nguyên nhân gây hít sặc, chẳng hạn như khó nuốt hoặc tình trạng gây suy giảm ý thức (3).Tài liệu tham khảo về các dấu hiệu và triệu chứng1.Montméat V, Bonny V, Urbina T, et al. Epidemiology and Clinical Patterns of Lung Abscesses in ICU: A French Multicenter Retrospective Study.Chest2024;165(1):48-57. doi:10.1016/j.chest.2023.08.0202.Vaarst JK, Sperling S, Dahl VN, et al. Lung abscess: Clinical characteristics of 222 Danish patients diagnosed from 2016 to 2021.Respir Med2023;216:107305. doi:10.1016/j.rmed.2023.1073053.Moreira Jda S, Camargo Jde J, Felicetti JC, Goldenfun PR, Moreira AL, Porto Nda S. Lung abscess: analysis of 252 consecutive cases diagnosed between 1968 and 2004.J Bras Pneumol2006;32(2):136-143. doi:10.1590/s1806-37132006000200009
+
+--- 4. Chẩn đoán áp xe phổi ---
+
+Chụp X-quang ngựcRất thường xuyên chụp cắt lớp vi tính ngực (CT) để hiển thị hình ảnh rõ hơn hoặc nếu nghi ngờ tắc nghẽn nội phế quảnNhuộm Gram và nuôi cấy đờm để tìm vi khuẩn hiếu khí và nhuộm Gram và nuôi cấy máu để tìm vi khuẩn hiếu khí và kỵ khíNếu có chỉ định lâm sàng, nuôi cấy đờm để tìm nấm và vi khuẩn laoNội soi phế quản khi cần thiết để loại trừ ung thư (nội phế quản), phát hiện các tác nhân gây bệnh bất thường như nấm hoặc vi khuẩn lao và ở những bệnh nhân có kết quả nuôi cấy âm tính, trong các biểu hiện không điển hình và ở những bệnh nhân suy giảm miễn dịchNhuộm Gram và nuôi cấy bất kỳ dịch màng phổi nàoNghi ngờ áp xe phổi dựa trên tiền sử bệnh án của bệnh nhân có nguy cơ (ví dụ: dễ hít sặc do thay đổi ý thức hoặc khó nuốt hoặc bị suy giảm miễn dịch) và được xác nhận bằng phim chụp X-quang ngực cho thấy có hang.Trong nhiễm trùng kỵ khí do hít phải, phim chụp X-quang ngực thường cho thấy hình ảnh đông đặc với một khoang duy nhất chứa mức khí-dịch ở một số phần của phổi, mức này sẽ thay đổi khi bệnh nhân nằm ngửa (ví dụ: các phân thùy sau của thùy trên hoặc các phân thùy đáy trên hoặc phân thùy đáy ngoài của thùy dưới). Mô hình này giúp phân biệt áp xe kỵ khí từ các nguyên nhân khác gây tổn thương dạng hang, vì bệnh phổi lan tỏa hoặc tắc mạch thường gây ra nhiều hang và bệnh lao thường ở đỉnh phổi.Áp xe phổi (phim X-quang)Hình ảnhĐược sự cho phép của nhà xuất bản. Theo Leaf H. TrongAtlas of Infectious Diseases: Pleuropulmonary and Bronchial Infections. Biên tập bởi GL Mandell (biên tập loạt bài) và MS Simberkoff. Philadelphia, Current Medicine, 1996.Chụp CT không phải lúc nào cũng cần thiết (ví dụ: nếu tình trạng hang rõ ràng trên phim chụp X-quang ngực ở bệnh nhân có yếu tố nguy cơ áp xe phổi). Tuy nhiên, chụp CT có thể hữu ích khi nghi ngờ có hang nhưng không thấy rõ trên phim chụp X-quang ngực, khi nghi ngờ có khối u phổi bên dưới cản trở đường dẫn lưu của một phân thùy phổi hoặc khi cần phân biệt áp xe với mủ màng phổi hoặc bóng khí có mức nước-khí.Áp xe phổi (chụp CT)Hình ảnhZEPHYR/THƯ VIỆN HÌNH ẢNH KHOA HỌCUng thư biểu mô phế quảncó thể dẫn đến tắc nghẽn đường thở gây ra viêm phổi và hình thành áp xe. Nên nghi ngờ ung thư phế quản dạng hang ở những bệnh nhân không đáp ứng với điều trị bằng thuốc kháng khuẩn hoặc có những dấu hiệu bất thường như tổn thương dạng hang mà không có đông đặc xung quanh hoặc không có dấu hiệu và triệu chứng nhiễm trùng như sốt.Nội soi phế quản đôi khi được thực hiện để loại trừ ung thư hoặc có dị vật hoặc để phát hiện các mầm bệnh bất thường, chẳng hạn như nấm hoặc vi khuẩn lao. Nội soi phế quản cũng được thực hiện nếu bệnh nhân bị suy giảm miễn dịch và nên được cân nhắc ở những bệnh nhân không đáp ứng phù hợp với thuốc kháng sinh theo kinh nghiệm ban đầu.Nên cân nhắc siêu âm tim qua thành ngực hoặc qua thực quản để loại trừ viêm nội tâm mạc nhiễm trùng ở những bệnh nhân có nhiều áp xe phổi.Nhuộm Gram và nuôi cấyCần phải nhuộm Gram và nuôi cấy cả mẫu đờm và máu để giúp xác định tác nhân gây bệnh. Cần phải gửi mẫu máu để nuôi cấy tìm vi khuẩn hiếu khí và kỵ khí. Tuy nhiên, mẫu đờm thường chỉ được gửi để nuôi cấy vi khuẩn hiếu khí; nuôi cấy đờm thường bị nhiễm hệ vi khuẩn đường miệng, làm phức tạp việc giải thích nuôi cấy vi khuẩn kỵ khí. Nếu đờm thối thì vi khuẩn kỵ khí có thể là nguyên nhân. Nếu có tràn mủ màng phổi, dịch màng phổi cung cấp nguồn nuôi cấy kỵ khí tốt (1). Các mẫu nội soi phế quản có ít nhiễm bẩn ở hầu họng hơn và nên được gửi đi để nuôi cấy vi khuẩn kỵ khí.Khi đặc điểm lâm sàng ít nghĩ tới vi khuẩn kỵ khí, nên nghi ngờ nhiễm trùng hiếu khí, nấm hoặc mycobacteria, và cần cố gắng để xác định mầm bệnh. Nuôi cấy đờm, dịch phế quản, hoặc cả hai đều có ích.Chẩn đoán phân biệtTổn thương phổi dạng hang không phải lúc nào cũng do áp xe phổi gây ra (2). Các nguyên nhân khác gây ra tổn thương phổi dạng hang bao gồm:Mủ màng phổi hoặc kén có mức nước - hơiGiãn phế quảndạng nang (dạng túi)Ung thư phổiNhồi máu phổiBụi phổi silicdạng nốt có hoại tử trung tâmThuyên tắc động mạch phổiBệnh phổi biệt lậpBệnh sarcoidViêm đa mạch u hạtCác nốt ở phổi dạng thấpTài liệu tham khảo chẩn đoán1.Bartlett JG. Anaerobic bacterial infections of the lung.Chest1987;91(6):901-909. doi:10.1378/chest.91.6.9012.Gadkowski LB, Stout JE. Cavitary pulmonary disease.Clin Microbiol Rev2008;21(2):305-333. doi:10.1128/CMR.00060-07
+
+--- 5. Điều trị áp xe phổi ---
+
+Kháng sinh đường tĩnh mạch hoặc, đối với bệnh nhân nhẹ hơn, kháng sinh đường uốngDẫn lưu qua da, qua đường khí quản hoặc phẫu thuật khi không đáp ứng với kháng sinh hoặc tràn mủ màng phổiLựa chọn chính là dạng phối hợp beta-lactam/thuốc ức chế beta-lactamase, ví dụ như ampicillin/sulbactam (1). Các phương pháp thay thế, đặc biệt là đối với những bệnh nhân nghi ngờ nhiễm trùng gram âm, bao gồm carbapenem (ví dụ: imipenem/cilastatin) hoặc liệu pháp phối hợp metronidazole cộng với ceftriaxone. Ở những bệnh nhân bị dị ứng với penicillin, moxifloxacin hoặc liệu pháp phối hợp levofloxacin và metronidazole là những lựa chọn thay thế. Clindamycin hiện nay ít được sử dụng vì lo ngại về nhiễmClostridioides difficilevà tình trạng kháng kháng sinh.Những bệnh nhân ít nghiêm trọng hơn có thể được dùng thuốc kháng sinh đường uống như amoxicillin/acid clavulanic hoặc moxifloxacin ở những bệnh nhân bị dị ứng với penicillin. Phác đồ theo đường tĩnh mạch có thể được chuyển đổi thành phác đồ theo đường uống khi bệnh nhân hết sốt và ổn định về mặt lâm sàng (2).Đối với các bệnh nhiễm trùng liên quan đến MRSA, phương pháp điều trị tốt nhất là linezolid hoặc vancomycin.Nếu trực khuẩn gram âm được nuôi cấy với nồng độ đáng kể từ đờm hoặc máu và được xác định trên nhuộm gram, chế độ kháng sinh cần phải được sửa đổi để bao gồm mầm bệnh cụ thể ngoài vi khuẩn kỵ khí.Thời gian điều trị tối ưu vẫn chưa được biết rõ, nhưng thông lệ chung là điều trị cho đến khi chụp X-quang ngực cho thấy vết thương phục hồi hoàn toàn hoặc để lại sẹo nhỏ, ổn định, thường mất từ ​​3 tuần đến 6 tuần hoặc lâu hơn. Nhìn chung, áp xe càng lớn thì thời gian chụp X-quang cho thấy tình trạng lành càng lâu.Mặc dù đã được khuyến nghị trước đây, hầu hết các tác giả không còn khuyến nghị vật lý trị liệu ngực và dẫn lưu theo tư thế nữa vì nguy cơ nhiễm trùng lan sang các phế quản khác khi nhiễm trùng lan rộng hoặc tắc nghẽn cấp tính.Nếu bệnh nhân không hạ sốt hoặc cải thiện về mặt lâm sàng sau 7 ngày đến 10 ngày, họ cần được đánh giá các tác nhân gây bệnh kháng thuốc hoặc bất thường, tắc nghẽn đường thở và các nguyên nhân gây ra hang không do nhiễm trùng, thường bao gồm đánh giá bằng nội soi phế quản vùng phổi bị thương tổn. Chụp CT có thể giúp phát hiện sự phát triển của các biến chứng như tràn mủ màng phổi và xác định phương pháp can thiệp tối ưu vào ổ áp xe. Khi có tràn mủ màng phổi thì cần được dẫn lưu. Phẫu thuật cắt bỏ hoặc dẫn lưu áp xe phổi là cần thiết đối với khoảng 10% số bệnh nhân có tổn thương không đáp ứng với thuốc kháng sinh và những bệnh nhân bị hoại tử phổi. Kháng thuốc điều trị bằng kháng sinh thường gặp nhất ở các lỗ sâu lớn và áp xe sau tắc nghẽn (3).Dẫn lưu áp xe dưới màng phổi bằng ống thông qua da hoặc đặt ống thông đuôi lợn dưới sự dẫn hướng của hình ảnh (siêu âm, chụp CT hoặc huỳnh quang) vào áp xe trung tâm có thể giúp dẫn lưu dễ dàng hơn (4,5). Khi cần phẫu thuật, cắt thùy phổi là thủ thuật phổ biến nhất; cắt bỏ từng phân thùy phổi có thể đủ cho các tổn thương nhỏ. Phẫu thuật cắt phổi có thể cần thiết đối với nhiều ổ áp xe không đáp ứng với điều trị bằng thuốc hoặc đối với hoại tử phổi.Tài liệu tham khảo về điều trị1.Reinhardt JF, Johnston L, Ruane P, et al. A randomized, double-blind comparison ofsulbactam/ampicillinandclindamycinfor the treatment of aerobic and aerobic-anaerobic infections.Rev Infect Dis1986;8 Suppl 5:S569-S575. doi:10.1093/clinids/8.supplement_5.s5692.Ott SR, Allewelt M, Lorenz J, Reimnitz P, Lode H; German Lung Abscess Study Group.Moxifloxacinvsampicillin/sulbactamin aspiration pneumonia and primary lung abscess.Infection2008;36(1):23-30. doi:10.1007/s15010-007-7043-63.Kuhajda I, Zarogoulidis K, Tsirgogianni K, et al. Lung abscess-etiology, diagnostic and treatment options.Ann Transl Med2015;3(13):183. doi:10.3978/j.issn.2305-5839.2015.07.084.Herth F, Ernst A, Becker HD. Endoscopic drainage of lung abscesses: technique and outcome.Chest2005;127(4):1378-1381. doi:10.1378/chest.127.4.13785.Kelogrigoris M, Tsagouli P, Stathopoulos K, Tsagaridou I, Thanos L. CT-guided percutaneous drainage of lung abscesses: review of 40 cases.JBR-BTR2011;94(4):191-195. doi:10.5334/jbr-btr.583
+
+--- 6. Những điểm chính ---
+
+Áp xe phổi thường xuất hiện do hít phải chất tiết vùng miệng ở những bệnh nhân suy giảm ý thức; do đó, vi khuẩn kỵ khí là một trong các mầm bệnh phổ biến.Nghi ngờ áp xe phổi ở những bệnh nhân dễ bị hít sặc, có triệu chứng bán cấp về thể chất và phổi và phim chụp X-quang ngực của họ cho thấy các tổn thương tương ứng như các ổ.Điều trị ban đầu với kháng sinh; nếu bệnh nhân không đáp ứng trong vòng 7 đến 10 ngày, đánh giá chúng đối với các mầm bệnh bất thường hoặc kháng bệnh, tổn thương tắc nghẽn phế quản và các nguyên nhân không gây nhiễm trùng phổi.Dẫn lưu mủ màng phổi và cân nhắc phẫu thuật cắt bỏ hoặc dẫn lưu áp xe phổi không đáp ứng với điều trị bằng thuốc và ở những bệnh nhân bị hoại thư phổi.

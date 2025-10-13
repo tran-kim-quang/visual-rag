@@ -1,0 +1,151 @@
+TIÊU ĐỀ: Rối loạn tái tạo purine
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/rối-loạn-chuyển-hóa-di-truyền/rối-loạn-tái-tạo-purine
+================================================================================
+
+NỘI DUNG:
+
+Rối loạn tái tạo purine
+
+Theo
+
+Matt Demczko
+
+,
+
+MD
+
+,
+
+Mitochondrial Medicine, Children's Hospital of Philadelphia
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2024
+
+v25256334_vi
+
+Hội chứng Lesch-Nyhan
+
+|
+
+Thiếu hụt adenine phosphoribosyltransferase
+
+|
+
+Thông tin thêm
+
+|
+
+Các purine là thành phần chính của hệ thống năng lượng tế bào (ví dụ ATP, NAD), tín hiệu (ví dụ, GTP, cAMP, cGMP), và cùng với việc tạo ra pyrimidin, RNA và DNA.
+
+Các purine có thể được tổng hợp một lần nữa hoặc tái chế bằng một con đường tái tạo từ sự dị hoa thông thường.
+
+Sản phẩm cuối cùng của sự dị hóa hoàn toàn các purine là acid uric.
+
+Ngoài rối loạn tái tạo purine, rối loạn chuyển hóa purine (xem thêm bảng
+
+Rối loạn chuyển hóa purine
+
+) bao gồm
+
+Rối loạn dị hóa purine
+
+Rối loạn tổng hợp nucleotide purine
+
+Xem thêm
+
+Cách tiếp cận bệnh nhân nghi ngờ rối loạn chuyển hoá di truyền
+
+và
+
+xét nghiệm khi nghi ngờ các rối loạn chuyển hoá di truyền
+
+.
+
+Hội chứng Lesch-Nyhan
+
+Hội chứng Lesch-Nyhan là một rối loạn
+
+gen lặn liên kết nhiễm sắc thể X
+
+hiếm gặp do thiếu hụt hypoxanthine-guaninephosphoribosyl transferase (HPRT); mức độ thiếu hụt (và do đó biểu hiện) thay đổi tùy theo đột biến cụ thể. Thiếu HPRT dẫn đến sự thất bại của con đường tái tạo hypoxanthine và guanine. Những purin này thay vào đó bị thoái hoá thành acid uric. Ngoài ra, giảm lượng inositol monophosphate và guanosyl monophosphate làm tăng chuyển đổi 5-phosphoribosyl-1-pyrophosphate (PRPP) thành 5-phosphoribosylamine, làm tăng thêm sự sản xuất quá nhiều acid uric. Tăng acid uric trong nước tiểu dẫn đến bệnh gout và các biến chứng của nó. Bệnh nhân cũng có một số rối loạn nhận thức và hành vi, nguyên nhân là không rõ ràng; chúng dường như không liên quan đến acid uric.
+
+Bệnh thường biểu hiện ở trẻ từ 3 tháng tuổi đến 12 tháng tuổi với sự xuất hiện kết tủa màu cam, cát (xanthine) trong nước tiểu; bệnh tiến triển đến thương tổn hệ thần kinh trung ương với tình trạng thiểu năng trí tuệ, bại não co cứng, cử động không chủ ý và hành vi tự cắt xén bản thân (đặc biệt là cắn). Sau đó, tăng uric máu mãn tính gây ra các triệu chứng của bệnh gout (ví dụ, bệnh sỏi niệu, bệnh thận, viêm khớp gút, sạn urat).
+
+Chẩn đoán hội chứng Lesch-Nyhan được gợi ý bởi sự kết hợp của chứng rối loạn trương lực, khuyết tật về trí tuệ và tự làm tổn thương. Mức acid uric trong huyết thanh thường tăng lên, nhưng thường được xác định bằng xét nghiệm men HPRT.
+
+Rối loạn chức năng thần kinh trung ương không có biện pháp điều trị; điều trị hỗ trợ là chủ yếu. Tình trạng tự cắt xén bản thân có thể cần phải kiềm chế về thể chất, nhổ răng và đôi khi dùng thuốc; nhiều loại thuốc đã được sử dụng. Tăng axit uric máu được điều trị bằng chế độ ăn ít purine (ví dụ như tránh ăn thịt, đậu, cá mòi) và allopurinol, chất ức chế xanthine oxidase (enzym cuối cùng trong con đường dị hóa purine).
+
+Allopurinol
+
+ngăn ngừa sự chuyển đổi hypoxanthine tích lũy thành axit uric; vì hypoxanthine hòa tan cao nên nó được bài tiết.
+
+Thiếu hụt adenine phosphoribosyltransferase
+
+Thiếu hụt adenine phosphoribosyltransferase là một rối loạn
+
+gen lặn trên nhiễm sắc thể thường
+
+hiếm gặp dẫn đến không có khả năng tận dụng adenine để tổng hợp purine. Adenine tích lũy bị oxy hóa thành 2,8-dihyroxyadenine, kết tủa trong đường tiết niệu, gây ra các vấn đề tương tự như bệnh thận do acid uric (ví dụ như cơn đau quặn thận, nhiễm trùng thường xuyên, và nếu được chẩn đoán muộn sẽ dẫn tới suy thận). Sự khởi phát có thể xảy ra ở mọi lứa tuổi.
+
+Chẩn đoán thiếu hụt adeninephosphoribosyltransferase bằng cách phát hiện nồng độ 2,8-dihyroxyadenine, 8-hyroxyadenine và adenine tăng cao trong nước tiểu và được xác nhận bằng phân tích DNA; axit uric huyết thanh bình thường.
+
+Điều trị thiếu hụt adenine phosphoribosyltransferase với việc hạn chế purine trong chế độ ăn uống, tăng lượng dịch đưa vào và tránh kiềm hóa nước tiểu. Allopurinol có thể ngăn ngừa oxy hóa adenine; ghép thận có thể cần thiết cho bệnh thận giai đoạn cuối.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+: Complete gene, molecular, and chromosomal location information
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Hội chứng Lesch-Nyhan ---
+
+Hội chứng Lesch-Nyhan là một rối loạngen lặn liên kết nhiễm sắc thể Xhiếm gặp do thiếu hụt hypoxanthine-guaninephosphoribosyl transferase (HPRT); mức độ thiếu hụt (và do đó biểu hiện) thay đổi tùy theo đột biến cụ thể. Thiếu HPRT dẫn đến sự thất bại của con đường tái tạo hypoxanthine và guanine. Những purin này thay vào đó bị thoái hoá thành acid uric. Ngoài ra, giảm lượng inositol monophosphate và guanosyl monophosphate làm tăng chuyển đổi 5-phosphoribosyl-1-pyrophosphate (PRPP) thành 5-phosphoribosylamine, làm tăng thêm sự sản xuất quá nhiều acid uric. Tăng acid uric trong nước tiểu dẫn đến bệnh gout và các biến chứng của nó. Bệnh nhân cũng có một số rối loạn nhận thức và hành vi, nguyên nhân là không rõ ràng; chúng dường như không liên quan đến acid uric.Bệnh thường biểu hiện ở trẻ từ 3 tháng tuổi đến 12 tháng tuổi với sự xuất hiện kết tủa màu cam, cát (xanthine) trong nước tiểu; bệnh tiến triển đến thương tổn hệ thần kinh trung ương với tình trạng thiểu năng trí tuệ, bại não co cứng, cử động không chủ ý và hành vi tự cắt xén bản thân (đặc biệt là cắn). Sau đó, tăng uric máu mãn tính gây ra các triệu chứng của bệnh gout (ví dụ, bệnh sỏi niệu, bệnh thận, viêm khớp gút, sạn urat).Chẩn đoán hội chứng Lesch-Nyhan được gợi ý bởi sự kết hợp của chứng rối loạn trương lực, khuyết tật về trí tuệ và tự làm tổn thương. Mức acid uric trong huyết thanh thường tăng lên, nhưng thường được xác định bằng xét nghiệm men HPRT.Rối loạn chức năng thần kinh trung ương không có biện pháp điều trị; điều trị hỗ trợ là chủ yếu. Tình trạng tự cắt xén bản thân có thể cần phải kiềm chế về thể chất, nhổ răng và đôi khi dùng thuốc; nhiều loại thuốc đã được sử dụng. Tăng axit uric máu được điều trị bằng chế độ ăn ít purine (ví dụ như tránh ăn thịt, đậu, cá mòi) và allopurinol, chất ức chế xanthine oxidase (enzym cuối cùng trong con đường dị hóa purine).Allopurinolngăn ngừa sự chuyển đổi hypoxanthine tích lũy thành axit uric; vì hypoxanthine hòa tan cao nên nó được bài tiết.
+
+--- 2. Thiếu hụt adenine phosphoribosyltransferase ---
+
+Thiếu hụt adenine phosphoribosyltransferase là một rối loạngen lặn trên nhiễm sắc thể thườnghiếm gặp dẫn đến không có khả năng tận dụng adenine để tổng hợp purine. Adenine tích lũy bị oxy hóa thành 2,8-dihyroxyadenine, kết tủa trong đường tiết niệu, gây ra các vấn đề tương tự như bệnh thận do acid uric (ví dụ như cơn đau quặn thận, nhiễm trùng thường xuyên, và nếu được chẩn đoán muộn sẽ dẫn tới suy thận). Sự khởi phát có thể xảy ra ở mọi lứa tuổi.Chẩn đoán thiếu hụt adeninephosphoribosyltransferase bằng cách phát hiện nồng độ 2,8-dihyroxyadenine, 8-hyroxyadenine và adenine tăng cao trong nước tiểu và được xác nhận bằng phân tích DNA; axit uric huyết thanh bình thường.Điều trị thiếu hụt adenine phosphoribosyltransferase với việc hạn chế purine trong chế độ ăn uống, tăng lượng dịch đưa vào và tránh kiềm hóa nước tiểu. Allopurinol có thể ngăn ngừa oxy hóa adenine; ghép thận có thể cần thiết cho bệnh thận giai đoạn cuối.
+
+--- 3. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

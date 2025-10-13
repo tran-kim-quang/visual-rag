@@ -1,0 +1,86 @@
+TIÊU ĐỀ: Công nghệ chẩn đoán di truyền
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/nguyên-lý-cơ-bản-của-di-truyền-y-học/công-nghệ-chẩn-đoán-di-truyền
+================================================================================
+
+NỘI DUNG:
+
+Công nghệ chẩn đoán di truyền
+
+Theo
+
+Quasar S. Padiath
+
+,
+
+MBBS, PhD
+
+,
+
+University of Pittsburgh
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1123610_vi
+
+Công nghệ chẩn đoán di truyền đã có những tiến bộ đáng kể. Một lượng nhỏ DNA có thể được khuếch đại bằng cách sử dụng quá trình phản ứng chuỗi polymerase (PCR), có thể tạo ra hàng triệu bản sao của gen hoặc các đoạn gen. RNA có thể được khuếch đại bằng cách kết hợp enzyme phiên mã ngược (RT) với PCR truyền thống.
+
+(Xem thêm
+
+Tổng quan về di truyền học
+
+.)
+
+Các mẫu gen
+
+có thể được sử dụng để định vị các đoạn cụ thể của DNA bình thường hoặc đột biến. Các phương pháp thăm dò khác nhau có thể nghiên cứu các kích thước khác nhau của chuỗi DNA. Một đoạn DNA đã biết có thể được nhân bản và sau đó được gắn nhãn huỳnh quang (sử dụng phương pháp lai tại chỗ gắn huỳnh quang [FISH]); đoạn này sau đó được kết hợp với mẫu thử nghiệm. Sau đó, DNA đã gắn nhãn nối với đoạn DNA bổ trợ (cDNA) của nó và có thể được phát hiện bằng cách định lượng và định tính huỳnh quang. Các mẫu gen có thể phát hiện ra một số rối loạn trước và sau khi sinh.
+
+Vi mảng DNA
+
+là công cụ mạnh có thể được sử dụng để xác định các đột biến DNA. Một vi mảng đơn lẻ có thể kiểm tra hàng triệu thay đổi DNA khác nhau chỉ bằng một mẫu. Các vi mảng DNA có thể được sử dụng trong các nghiên cứu kết hợp trên toàn bộ hệ gen (GWAS) để so sánh các quần thể bệnh nhân và quần thể đối chứng nhằm xác định các biến thể DNA có thể góp phần gây ra nguy cơ mắc bệnh.
+
+Phép lai bộ gen so sánh theo mảng (aCGH)
+
+là một loại vi mảngy hiện được sử dụng thường xuyên để xác định các vùng trình tự DNA bị đột biến mất đoạn hoặc bị đột biến lặp đoạn trong các nhiễm sắc thể cụ thể trên cơ sở toàn bộ hệ gen. DNA từ bệnh nhân được so sánh với một hệ gen mẫu sử dụng nhiều mẫu dò oligonucleotide. Sử dụng aCGH, toàn bộ hệ gen có thể được kiểm tra (truy vấn).
+
+Công nghệ xác định trình tự thế hệ tiếp theo
+
+đã thay đổi đáng kể cách tiếp cận chẩn đoán di truyền. Công nghệ này liên quan đến việc phá vỡ toàn bộ hệ gen thành các phân đoạn nhỏ, sắp xếp các phân đoạn, và sau đó lắp ráp các trình tự bằng các kỹ thuật tính toán chuyên sâu để cung cấp trình tự base-by-base của toàn bộ hệ gen hoặc nhiều vùng giới hạn hơn, chẳng hạn như phần mang thông tin chính của hệ gen được gọi là exome (tổng hợp từ các exon). Quá trình này giúp xác định một hoặc nhiều biến đổi nucleotide cũng như các vùng bị chèn hoặc xóa. Chi phí sử dụng công nghệ này đã giảm đáng kể và sẽ tiếp tục giảm. Các thiết bị và các phương pháp tính toán cũng tiếp tục được cải thiện.
+
+Công nghệ mang tính cách mạng và phát triển nhanh chóng này đã chuyển một phần đáng kể các khía cạnh kỹ thuật của chẩn đoán di truyền sang giải trình tự thế hệ tiếp theo và trở thành trụ cột chính của chẩn đoán di truyền. Tuy nhiên, khối lượng thông tin khổng lồ được tạo ra bằng cách giải trình tự exome hoặc bộ gen dẫn đến nhiều vấn đề diễn giải có thể làm phức tạp việc hiểu kết quả. Vượt qua những khó khăn trên, những kỹ thuật này là công nghệ của tương lai.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

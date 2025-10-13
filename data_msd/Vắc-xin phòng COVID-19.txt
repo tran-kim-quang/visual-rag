@@ -1,0 +1,327 @@
+TIÊU ĐỀ: Vắc-xin phòng COVID-19
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/tiêm-chủng/vắc-xin-phòng-covid-19
+================================================================================
+
+NỘI DUNG:
+
+Vắc-xin phòng COVID-19
+
+Theo
+
+Margot L. Savoy
+
+,
+
+MD, MPH
+
+,
+
+Lewis Katz School of Medicine at Temple University
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v51459217_vi
+
+Chế phẩm
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định và Thận trọng
+
+|
+
+Liều lượng và cách tiêm
+
+|
+
+Tác dụng phụ
+
+|
+
+Thông tin thêm
+
+|
+
+Vắc xin COVID-19 cung cấp sự bảo vệ chống lại
+
+COVID-19
+
+, căn bệnh do nhiễm vi rút SARS-CoV-2 gây ra. Tiêm chủng là chiến lược hiệu quả nhất để ngăn ngừa tình trạng bệnh nặng và tử vong do nhiễm SARS-CoV-2. Từ tháng 1 năm 2021 đến tháng 4 năm 2022, khi biến thể Omicron chiếm ưu thế, tỷ lệ nhập viện lần lượt cao hơn 10,5 lần ở những người chưa được tiêm chủng và cao hơn 2,5 lần ở những người được tiêm chủng không có liều tiêm nhắc lại so với những người đã được tiêm liều nhắc lại (
+
+1
+
+).
+
+Hiện có nhiều loại vắc xin COVID-19 đang được sử dụng trên toàn thế giới (xem
+
+Bảng thông tin thị trường vắc xin COVID-19 của UNICEF
+
+và
+
+Bảng thông tin về vi rút Corona [Covid-19] của WHO
+
+); nội dung này chỉ bao gồm những loại vắc xin hiện đang được sử dụng ở Hoa Kỳ.
+
+Tại Hoa Kỳ, công thức bào chế cập nhật giai đoạn 2023–2024 của các loại vắc xin ngừa COVID-19 sau đây đang được sử dụng:
+
+Vắc xin mRNA của vi rút SARS-CoV-2 (COVID-19) do Pfizer-BioNTech sản xuất
+
+Vắc xin mRNA của vi rút SARS-CoV-2 (COVID-19) do Moderna sản xuất
+
+Vắc xin hạt nano protein gai tổ hợp của vi rút SARS-CoV-2 (COVID-19) do Novavax sản xuất
+
+Vắc xin vectơ adenovirus virus SARS-CoV-2 (Covid-19) do Janssen/Johnson & Johnson sản xuất không còn có sẵn ở Hoa Kỳ.
+
+Để biết thêm thông tin, xem
+
+CDC: Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States
+
+,
+
+COVID-19 Advisory Committee on Immunization Practices Vaccine Recommendations
+
+, the FDA prescribing information for the
+
+Pfizer-BioNTech
+
+and
+
+Moderna
+
+vaccines, và the FDA fact sheets for
+
+Pfizer-BioNTech
+
+,
+
+Moderna
+
+, and
+
+Novavax
+
+. Để biết bản tóm tắt về những thay đổi đối với lịch tiêm chủng dành cho người lớn 2024, hãy xem
+
+Recommended Adult Immunization Schedule, United States, 2024
+
+của Ủy ban Tư vấn về Thực hành Tiêm chủng (ACIP).
+
+(Xem thêm
+
+Tổng quan về tiêm chủng
+
+và
+
+COVID-19
+
+.)
+
+Tài liệu tham khảo
+
+1.
+
+Havers FP, Pham H, Taylor CA, et al
+
+: COVID-19-Associated Hospitalizations Among Vaccinated and Unvaccinated Adults 18 Years or Older in 13 US States, January 2021 to April 2022.
+
+JAMA Intern Med
+
+182(10):1071-1081, 2022 doi:10.1001/jamainternmed.2022.4299
+
+Chế phẩm vắc xin phòng Covid-19
+
+Có hai loại vắc xin mRNA cho COVID-19:
+
+Vắc xin mRNA cập nhật 2023-2024 của vi rút SARS-CoV-2 (COVID-19) do Pfizer-BioNTech sản xuất
+
+Vắc xin mRNA cập nhật 2023-2024 của vi rút SARS-CoV-2 (COVID-19) do Moderna sản xuất
+
+Các loại vắc xin mRNA không chứa kháng nguyên vi rút mà cung cấp một đoạn mRNA tổng hợp nhỏ mã hóa cho kháng nguyên đích mong muốn (protein gai). Sau khi được các tế bào của hệ miễn dịch tiếp nhận, mRNA của vắc xin sẽ phân hủy sau khi dẫn hướng tế bào đó sản xuất kháng nguyên vi rút. Sau đó, kháng nguyên được giải phóng và kích hoạt đáp ứng miễn dịch mong muốn để ngăn ngừa nhiễm bệnh nặng khi phơi nhiễm với vi rút thực sự.
+
+Có một loại vắc xin protein gai phòng COVID-19:
+
+Vắc xin hạt nano protein gai tái tổ hợp của vi rút SARS-CoV-2 (Covid-19) 2023-2024 do Novavax sản xuất
+
+Vắc xin protein gai chứa dạng tái tổ hợp của protein gai SARS-CoV-2, sau đó kích hoạt đáp ứng miễn dịch mong muốn.
+
+Chỉ định của vắc xin phòng COVID-19
+
+Vắc xin mRNA cập nhật 2023-2024 của vi rút SARS-CoV-2 (COVID-19) do Pfizer-BioNTech sản xuất và vắc xin do Moderna sản xuất được khuyên dùng cho những người từ 6 tháng tuổi trở lên.
+
+Trong giai đoạn 2024-2025, người lớn từ 65 tuổi trở lên nên tiêm 2 liều vắc-xin COVID-19 mới nhất. Những người từ ≥6 tháng tuổi có tình trạng suy giảm miễn dịch ở mức trung bình hoặc nặng cũng nên tiêm ≥ 2 liều để bảo vệ chống lại COVID-19 nặng (
+
+1
+
+).
+
+Vắc xin hạt nano protein gai tái tổ hợp của vi rút SARS-CoV-2 (COVID-19) cập nhật 2023-2024 (do Novavax sản xuất) được khuyến nghị cho những người từ 12 tuổi trở lên.
+
+Tài liệu tham khảo về chỉ định
+
+1.
+
+Roper LE, Godfrey M, Link-Gelles R, et al
+
+. Sử dụng liều bổ sung của vắc-xin COVID-19 2024–2025 cho người lớn từ ≥ 65 tuổi và người từ ≥ 6 tháng tuổi bị suy giảm miễn dịch ở mức độ trung bình hoặc nặng: Recommendations of the Advisory Committee on Immunization Practices — United States, 2024. MMWR Morb Mortal Wkly Rep 2024;73:1118–1123. DOI: http://dx.doi.org/10.15585/mmwr.mm7349a2
+
+Chống chỉ định và thận trọng của vắc xin phòng COVID-19
+
+Chống chỉ định đối với vắc xin phòng COVID-19
+
+là
+
+Phản ứng dị ứng nặng sau khi tiêm một liều trước đó của một trong hai loại vắc xin
+
+Phản ứng dị ứng nặng với một thành phần của vắc xin
+
+Các biện pháp phòng ngừa đối với vắc xin phòng COVID-19
+
+là
+
+Phản ứng phản vệ
+
+cấp tính ngay sau khi tiêm một liều
+
+Suy giảm miễn dịch, bao gồm cả do liệu pháp ức chế miễn dịch
+
+Phải có ngay biện pháp điều trị nội khoa thích hợp để kiểm soát các phản ứng dị ứng tức thời trong trường hợp phản ứng phản vệ cấp tính xảy ra sau khi tiêm bất kỳ loại vắc xin phòng COVID-19 nào. Những người được tiêm vắc xin phòng COVID-19 cần phải được theo dõi để biết các phản ứng bất lợi tức thì.
+
+Những người bị suy giảm miễn dịch, bao gồm cả những người dùng liệu pháp ức chế miễn dịch, có thể có suy giảm đáp ứng miễn dịch với các loại vắc xin này.
+
+FDA đã đưa ra cảnh báo đối với vắc xin mRNA và vắc xin protein tăng đột biến rằng
+
+bệnh viêm cơ tim
+
+và
+
+viêm màng ngoài tim
+
+đã được báo cáo sau khi tiêm các loại vắc xin này, cho thấy có thể có nguy cơ gia tăng xảy ra các biến cố này sau khi tiêm chủng (xem thông tin của FDA về các loại vắc xin được sản xuất của
+
+Pfizer-BioNTech
+
+,
+
+Moderna
+
+và
+
+Novavax
+
+). Nguy cơ đã được quan sát thấy là cao nhất ở nam giới trẻ tuổi. Người được tiêm vắc xin cần phải được điều trị ngay lập tức nếu họ bị đau ngực, khó thở hoặc có cảm giác tim đập nhanh, rung rẩy hoặc đập thình thịch sau khi tiêm vắc xin. Mặc dù một số người đã cần phải có hồi sức tích cực, những dữ liệu từ các nghiên cứu theo dõi ngắn hạn cho thấy rằng các triệu chứng thường hết bằng điều trị bảo tồn. (Xem thêm
+
+CDC: Clinical Considerations: Myocarditis and Pericarditis after Receipt of COVID-19 Vaccines Among Adolescents and Young Adults
+
+.)
+
+Xem thêm
+
+CDC: Các tác dụng bất lợi chọn lọc được báo cáo sau khi tiêm vắc xin phòng COVID-19
+
+.
+
+Liều lượng và cách sử dụng vắc xin phòng COVID-19
+
+Đối với các loại vắc xin ngừa COVID-19 có sẵn để sử dụng ở Hoa Kỳ, tất cả thông tin về liều lượng và cách sử dụng cho mọi nhóm tuổi và những người có tình trạng đặc biệt đều có sẵn từ CDC tại phần
+
+Xem xét lâm sàng tạm thời khi sử dụng vắc xin phòng COVID-19 hiện đã được phê duyệt hoặc cấp phép ở Hoa Kỳ
+
+.
+
+Liều vắc xin phòng COVID-19 nên được tiêm bằng đường tiêm bắp.
+
+Tác dụng bất lợi của vắc xin phòng COVID-19
+
+Để biết thông tin về các tác dụng bất lợi, hãy xem
+
+U.S. Food and Drug Administration (FDA)
+
+.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+Centers for Disease Control and Prevention (CDC):
+
+Sử dụng vắc xin phòng COVID-19 ở Hoa Kỳ
+
+Advisory Committee on Immunization Practices (ACIP):
+
+Khuyến nghị về vắc xin phòng COVID-19 của ACIP
+
+European Centre for Disease Prevention and Control (ECDC):
+
+Coronavirus Disease (COVID-19): Recommended vaccinations
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chế phẩm vắc xin phòng Covid-19 ---
+
+Có hai loại vắc xin mRNA cho COVID-19:Vắc xin mRNA cập nhật 2023-2024 của vi rút SARS-CoV-2 (COVID-19) do Pfizer-BioNTech sản xuấtVắc xin mRNA cập nhật 2023-2024 của vi rút SARS-CoV-2 (COVID-19) do Moderna sản xuấtCác loại vắc xin mRNA không chứa kháng nguyên vi rút mà cung cấp một đoạn mRNA tổng hợp nhỏ mã hóa cho kháng nguyên đích mong muốn (protein gai). Sau khi được các tế bào của hệ miễn dịch tiếp nhận, mRNA của vắc xin sẽ phân hủy sau khi dẫn hướng tế bào đó sản xuất kháng nguyên vi rút. Sau đó, kháng nguyên được giải phóng và kích hoạt đáp ứng miễn dịch mong muốn để ngăn ngừa nhiễm bệnh nặng khi phơi nhiễm với vi rút thực sự.Có một loại vắc xin protein gai phòng COVID-19:Vắc xin hạt nano protein gai tái tổ hợp của vi rút SARS-CoV-2 (Covid-19) 2023-2024 do Novavax sản xuấtVắc xin protein gai chứa dạng tái tổ hợp của protein gai SARS-CoV-2, sau đó kích hoạt đáp ứng miễn dịch mong muốn.
+
+--- 2. Chỉ định của vắc xin phòng COVID-19 ---
+
+Vắc xin mRNA cập nhật 2023-2024 của vi rút SARS-CoV-2 (COVID-19) do Pfizer-BioNTech sản xuất và vắc xin do Moderna sản xuất được khuyên dùng cho những người từ 6 tháng tuổi trở lên.Trong giai đoạn 2024-2025, người lớn từ 65 tuổi trở lên nên tiêm 2 liều vắc-xin COVID-19 mới nhất. Những người từ ≥6 tháng tuổi có tình trạng suy giảm miễn dịch ở mức trung bình hoặc nặng cũng nên tiêm ≥ 2 liều để bảo vệ chống lại COVID-19 nặng (1).Vắc xin hạt nano protein gai tái tổ hợp của vi rút SARS-CoV-2 (COVID-19) cập nhật 2023-2024 (do Novavax sản xuất) được khuyến nghị cho những người từ 12 tuổi trở lên.
+
+--- 3. Chống chỉ định và thận trọng của vắc xin phòng COVID-19 ---
+
+Chống chỉ định đối với vắc xin phòng COVID-19làPhản ứng dị ứng nặng sau khi tiêm một liều trước đó của một trong hai loại vắc xinPhản ứng dị ứng nặng với một thành phần của vắc xinCác biện pháp phòng ngừa đối với vắc xin phòng COVID-19làPhản ứng phản vệcấp tính ngay sau khi tiêm một liềuSuy giảm miễn dịch, bao gồm cả do liệu pháp ức chế miễn dịchPhải có ngay biện pháp điều trị nội khoa thích hợp để kiểm soát các phản ứng dị ứng tức thời trong trường hợp phản ứng phản vệ cấp tính xảy ra sau khi tiêm bất kỳ loại vắc xin phòng COVID-19 nào. Những người được tiêm vắc xin phòng COVID-19 cần phải được theo dõi để biết các phản ứng bất lợi tức thì.Những người bị suy giảm miễn dịch, bao gồm cả những người dùng liệu pháp ức chế miễn dịch, có thể có suy giảm đáp ứng miễn dịch với các loại vắc xin này.FDA đã đưa ra cảnh báo đối với vắc xin mRNA và vắc xin protein tăng đột biến rằngbệnh viêm cơ timvàviêm màng ngoài timđã được báo cáo sau khi tiêm các loại vắc xin này, cho thấy có thể có nguy cơ gia tăng xảy ra các biến cố này sau khi tiêm chủng (xem thông tin của FDA về các loại vắc xin được sản xuất củaPfizer-BioNTech,ModernavàNovavax). Nguy cơ đã được quan sát thấy là cao nhất ở nam giới trẻ tuổi. Người được tiêm vắc xin cần phải được điều trị ngay lập tức nếu họ bị đau ngực, khó thở hoặc có cảm giác tim đập nhanh, rung rẩy hoặc đập thình thịch sau khi tiêm vắc xin. Mặc dù một số người đã cần phải có hồi sức tích cực, những dữ liệu từ các nghiên cứu theo dõi ngắn hạn cho thấy rằng các triệu chứng thường hết bằng điều trị bảo tồn. (Xem thêmCDC: Clinical Considerations: Myocarditis and Pericarditis after Receipt of COVID-19 Vaccines Among Adolescents and Young Adults.)Xem thêmCDC: Các tác dụng bất lợi chọn lọc được báo cáo sau khi tiêm vắc xin phòng COVID-19.
+
+--- 4. Liều lượng và cách sử dụng vắc xin phòng COVID-19 ---
+
+Đối với các loại vắc xin ngừa COVID-19 có sẵn để sử dụng ở Hoa Kỳ, tất cả thông tin về liều lượng và cách sử dụng cho mọi nhóm tuổi và những người có tình trạng đặc biệt đều có sẵn từ CDC tại phầnXem xét lâm sàng tạm thời khi sử dụng vắc xin phòng COVID-19 hiện đã được phê duyệt hoặc cấp phép ở Hoa Kỳ.Liều vắc xin phòng COVID-19 nên được tiêm bằng đường tiêm bắp.
+
+--- 5. Tác dụng bất lợi của vắc xin phòng COVID-19 ---
+
+Để biết thông tin về các tác dụng bất lợi, hãy xemU.S. Food and Drug Administration (FDA).
+
+--- 6. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.Centers for Disease Control and Prevention (CDC):Sử dụng vắc xin phòng COVID-19 ở Hoa KỳAdvisory Committee on Immunization Practices (ACIP):Khuyến nghị về vắc xin phòng COVID-19 của ACIPEuropean Centre for Disease Prevention and Control (ECDC):Coronavirus Disease (COVID-19): Recommended vaccinations

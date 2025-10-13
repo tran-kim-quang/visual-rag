@@ -1,0 +1,283 @@
+TIÊU ĐỀ: Tổng quan về hệ thống miễn dịch
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/sinh-học-của-hệ-miễn-dịch/tổng-quan-về-hệ-thống-miễn-dịch
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về hệ thống miễn dịch
+
+Theo
+
+Peter J. Delves
+
+,
+
+PhD
+
+,
+
+University College London, London, UK
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2024
+
+v991990_vi
+
+Đáp ứng miễn dịch
+
+|
+
+Các điểm thiết yếu ở người cao tuổi
+
+|
+
+Hệ miễn dịch phân biệt bản thân với yếu tố lạ và loại bỏ khỏi cơ thể các phân tử và tế bào lạ tiềm ẩn nguy hiểm. Hệ miễn dịch cũng có khả năng nhận biết và tiêu diệt các tế bào bất thường xuất phát từ các mô vật chủ. Bất kỳ phân tử nào có khả năng được hệ miễn dịch nhận biết được coi là một kháng nguyên (Ag).
+
+Da, giác mạc và niêm mạc của đường hô hấp, đường tiêu hóa và đường sinh dục tạo thành một hàng rào vật lý là tuyến phòng thủ đầu tiên của cơ thể. Một số hàng rào này cũng có chức năng miễn dịch hoạt động:
+
+Bên ngoài, lớp thượng bì sừng hóa: Các tế bào sừng trong da tiết ra các chất peptide kháng khuẩn (defensin), tuyến bã và tuyến mồ hôi tiết ra các chất ức chế vi khuẩn (ví dụ: axit lactic, axit béo). Ngoài ra, nhiều tế bào miễn dịch (ví dụ, các tế bào mast, tế bào lympho trong biểu mô, các tế bào Langerhans lấy mẫu lấy mẫu kháng nguyên) nằm trong da.
+
+Giác mạc: Nước mắt có chứa defensin. Các đại thực bào và tế bào đuôi gai cư trú trong giác mạc và các tế bào miễn dịch khác, bao gồm tế bào T và bạch cầu trung tính thực bào, được tuyển chọn thông qua mạch máu vùng rìa trong quá trình nhiễm trùng.
+
+Niêm mạc của đường hô hấp, tiêu hóa và sinh dục: Chất nhầy có chứa các chất chống vi khuẩn, chẳng hạn như lysozyme, lactoferrin và kháng thể tiết immunoglobulin (Ig) A (SIgA).
+
+Sự xâm nhập các hàng rào giải phẫu có thể khởi phát 2 loại phản ứng miễn dịch:
+
+Bẩm sinh
+
+Mắc phải
+
+Nhiều thành phần phân tử (ví dụ,
+
+bổ thể
+
+,
+
+cytokine
+
+,
+
+các chất phản ứng pha cấp tính
+
+) tham gia vào cả miễn dịch bẩm sinh và mắc phải.
+
+Miễn dịch bẩm sinh
+
+Miễn dịch bẩm sinh (tự nhiên) không đòi hỏi phải có phơi nhiễm trước với kháng nguyên (tức là trí nhớ miễn dịch) để có thể đầy đủ hiệu quả. Do đó, cơ chế miến dịch này có thể đáp ứng ngay lập tức với sự xâm nhập. Khả năng miễn dịch bẩm sinh sử dụng các thụ thể nhận dạng mẫu (PRR) để phát hiện các mẫu phân tử liên quan đến mầm bệnh ngoại lai (PAMP) và các mẫu phân tử liên quan đến tổn thương vật chủ (DAMP).
+
+Các thành phần bao gồm
+
+Tế bào thực bào (ví dụ, bạch cầu trung tính, bạch cầu đơn nhân, đại thực bào)
+
+Bạch cầu đa nhân (ngoài bạch cầu trung tính thực bào, bao gồm bạch cầu ái toan và bạch cầu ái kiềm)
+
+Các tế bào giống lympho tự nhiên (ví dụ, các tế bào diệt tự nhiên)
+
+Tế bào thực bào
+
+(
+
+bạch cầu đa nhân trung tính
+
+trong máu và mô,
+
+tế bào đơn nhân
+
+trong máu,
+
+đại thực bào
+
+trong các mô) tiêu hoá và phá hủy các kháng nguyên xâm nhập. Sự tấn công của các tế bào thực bào có thể được tạo điều kiện khi kháng nguyên được bao phủ bởi kháng thể (Ab), được tạo ra như một phần của miễn dịch thu được, hoặc khi các protein bổ thể opsonin hóa kháng nguyên.
+
+Bạch cầu đa nhân
+
+(bạch cầu trung tính, bạch cầu ái toan, bạch cầu ái kiềm) và
+
+tế bào đơn nhân
+
+(mono bào, đại thực bào,
+
+tế bào mast
+
+) giải phóng các chất trung gian gây viêm.
+
+Tế bào diệt tự nhiên
+
+giết các tế bào nhiễm virus và một số tế bào khối u.
+
+Miễn dịch mắc phải
+
+Miễn dịch mắc phải (thích ứng) cần phải có sự tiếp xúc trước với kháng nguyên để có đầy đủ hiệu quả và cần thời gian để phát triển sau tiếp xúc ban đầu với một yếu tố xâm nhập mới. Sau đó, đáp ứng rất nhanh. Hệ thống ghi nhớ các phơi nhiễm trong quá khứ và kháng nguyên đặc hiệu.
+
+Các thành phần bao gồm
+
+Tế bào B
+
+Tế bào T
+
+Miễn dịch mắc phải bao gồm
+
+Miễn dịch dịch thể:
+
+Có nguồn gốc từ
+
+Đáp ứng tế bào B
+
+(các tế bào B phát triển thành tương bào tiết ra kháng thể hòa tan đặc hiệu với kháng nguyên)
+
+Miễn dịch qua trung gian tế bào:
+
+Bắt nguồn từ
+
+đáp ứng của T-cell
+
+nhất định
+
+Tế bào B và tế bào T đạt đến độ trưởng thành trong các mô dạng bạch huyết nguyên phát. Tế bào B trưởng thành trong tủy xương và tế bào T trưởng thành trong tuyến ức. Các tế bào B và tế bào T trưởng thành sau đó phối hợp với nhau để tiêu diệt những kẻ xâm lược.
+
+Tế bào trình diện kháng nguyên
+
+cần thiết để trình diện kháng nguyên với hầu hết các loại tế bào T.
+
+Đáp ứng miễn dịch
+
+Miễn dịch bảo vệ hiệu quả đòi hỏi phải kích hoạt, điều chỉnh và dung giải phản ứng miễn dịch.
+
+Kích hoạt
+
+Các tế bào của hệ thống miễn dịch được kích hoạt khi một kháng nguyên lạ (Ag) được nhận ra bởi các thụ thể bề mặt tế bào. Những thụ thể bề mặt tế bào này có thể đặc hiệu cho
+
+Các cấu trúc (PAMP) có liên quan đến một số mầm bệnh khác nhau (ví dụ: được PRR nhận biết như các thụ thể giống Toll, mannose và các thụ thể scavenger trên tế bào đuôi gai và các tế bào khác)
+
+Các cấu trúc có liên quan đặc biệt với các mầm bệnh cụ thể (nhận biết bằng kháng thể xuyên màng biểu hiện trên tế bào B hoặc bởi các thụ thể tế bào T biểu hiện trên tế bào T)
+
+PRR nhận ra các PAMP vi khuẩn phổ biến như lipopolysacarit gram âm, peptidoglycan gram dương, Flagellin của vi khuẩn, dinucleotide cytosine-guanosine không được methyl hóa (mô típ CpG) và RNA sợi đôi của vi rút. Những thụ thể này cũng có thể nhận ra các phân tử (DAMP) được tạo ra bởi các tế bào của con người bị căng thẳng hoặc bị nhiễm bệnh.
+
+Sự hoạt hóa cũng có thể xảy ra khi phức hợp kháng thể-kháng nguyên và bổ thể-vi sinh vật liên kết với các thụ thể bề mặt đối với vùng có thể kết tinh (Fc) của IgG (Fc-gamma R) và đối với C3b và iC3b.
+
+Sau khi được công nhận, phức hợp kháng nguyên, kháng nguyên-kháng thể hoặc phức hợp vi sinh vật bổ thể sẽ bị thực bào. Hầu hết các vi sinh vật đều bị giết chết sau khi chúng bị thực bào, nhưng một số khác lại ức chế khả năng giết chết tế bào trong nội bào (ví dụ, mycobacteria đã bị bắt bởi đại thực bào ức chế khả năng giết chết của tế bào đó). Trong những trường hợp như vậy, các cytokine có nguồn gốc từ tế bào T, đặc biệt là các interferon-gamma (IFN-gamma), kích thích thực bào để sản xuất nhiều enzyme ly giải và các sản phẩm diệt vi khuẩn khác và do đó tăng cường khả năng giết hoặc cô lập các vi sinh vật.
+
+Trừ khi kháng nguyên bị thực bào nhanh chóng và bị phân hủy hoàn toàn (một trường hợp hiếm gặp), đáp ứng miễn dịch thu được sẽ được huy động thông qua việc nhận biết kháng nguyên bởi các thụ thể đặc hiệu cao trên bề mặt tế bào B và tế bào T. Đáp ứng này bắt đầu ở các mô dạng bạch huyết thứ cấp:
+
+Lách để kháng nguyên lưu hành
+
+Các hạch bạch huyết khu vực cho kháng nguyên mô
+
+Các mô bạch huyết gắn liền với niêm mạc (ví dụ, amidan, adenoids, các mảng Peyer) cho kháng nguyên niêm mạc
+
+Ví dụ: tế bào đuôi gai Langerhans thực bào kháng nguyên ở da và di chuyển đến các hạch bạch huyết tại chỗ. Trong các hạch bạch huyết, các peptide có nguồn gốc từ kháng nguyên được biểu hiện trên bề mặt tế bào đuôi gai trong
+
+các phân tử phức hợp tương hợp mô học chính (MHC)
+
+loại II, trình diện peptide cho các tế bào T (Th) trợ giúp CD4. Khi tế bào Th tham gia vào phức hợp MHC-peptide và nhận được nhiều tín hiệu kích thích khác nhau (có thể bị ức chế bởi một số loại thuốc ức chế miễn dịch), nó được kích hoạt để biểu hiện các thụ thể đối với cytokine interleukin (IL)-2 và tiết ra một số cytokine. Mỗi tập con của tế bào Th tiết ra các phức hợp khác nhau và do đó tạo thành các phản ứng miễn dịch khác nhau.
+
+Một số tế bào Th trở nên biệt hóa thành tế bào nang T hỗ trợ (Tfh), di chuyển vào vùng tế bào B của các mô bạch huyết thứ cấp. Trong quá trình đáp ứng miễn dịch tích cực, các cấu trúc được gọi là trung tâm mầm bệnh phát triển bên trong các mô bạch huyết thứ cấp, nơi tế bào Tfh hỗ trợ kích hoạt tế bào B, tăng sinh, chuyển đổi lớp kháng thể, trưởng thành ái lực của đáp ứng kháng thể và biệt hóa tế bào B trong
+
+tế bào B nhớ
+
+và thành tiền thân của các tương bào tiết kháng thể. Ngoài ra, trong trung tâm mầm còn có các tế bào đuôi gai dạng nang (một loại tế bào hoàn toàn khác với các tế bào đuôi gai thông thường), chúng trình diện kháng nguyên nguyên vẹn (trong phức hợp kháng nguyên-kháng thể) cho tế bào B.
+
+Các phân tử MHC class II thường trình diện các peptide có nguồn gốc từ kháng nguyên ngoại bào (ngoại sinh) (ví dụ, từ nhiều vi khuẩn) đến tế bào CD4 Th ; ngược lại, các phân tử MHC trong lớp I thường trình diện các peptide có nguồn gốc từ kháng nguyên nội bào (nội sinh) (ví dụ, từ virut) đến tế bào T CD8. Các tế bào T gây độc được kích hoạt sau đó giết chết các tế bào bị nhiễm bệnh.
+
+Điều hòa
+
+Đáp ứng miễn dịch phải được điều chỉnh để ngăn ngừa tổn thương quá mức cho vật chủ (ví dụ:
+
+sốc phản vệ
+
+,
+
+bão cytokine
+
+,
+
+hội chứng giải phóng cytokine
+
+và phá hủy mô trên diện rộng). Các tế bào T điều hòa (hầu hết biểu hiện yếu tố phiên mã Foxp3) giúp kiểm soát phản ứng miễn dịch thông qua sự bài tiết các cytokine ức chế miễn dịch như IL-10 và yếu tố tăng trưởng biến đổi-beta (TGF-beta), hoặc thông qua các cơ chế phụ thuộc vào tế bào.
+
+Những tế bào điều hòa này giúp ngăn ngừa phản ứng tự miễn dịch và có thể giúp giải quyết những phản ứng đang diễn ra đối với kháng nguyên ngoại sinh.
+
+Dung giải
+
+Đáp ứng miễn dịch dung giải khi kháng nguyên bị tách ra hoặc loại bỏ khỏi cơ thể. Nếu không có sự kích thích của kháng nguyên, sự tiết ra của cytokine sẽ dừng lại, và các tế bào T gây độc được kích hoạt sẽ tự chết theo chương trình. Sự chết theo chương trình đánh dấu một tế bào cho sự thực bào ngay lập tức, ngăn ngừa sự lan tỏa của các thành phần nội bào và sự phát triển phản ứng viêm thứ phát. Các tế bào T và tế bào B đã biệt hóa thành các tế bào nhớ sẽ thoát khỏi số phận này.
+
+Các điểm thiết yếu ở người cao tuổi: Hệ miễn dịch
+
+Với sự lão hóa, hệ thống miễn dịch trở nên kém hiệu quả theo những cách sau:
+
+Hệ thống miễn dịch trở nên ít có khả năng phân biệt được bản thân với ngoại lai, làm cho quá trình phát triển các tự kháng thể và các rối loạn tự miễn dịch trở nên phổ biến hơn.
+
+Đại thực bào
+
+tiêu diệt vi khuẩn, tế bào ung thư và các kháng nguyên khác chậm hơn, có lẽ là góp phần làm tăng tỷ lệ mắc bệnh ung thư ở người cao tuổi.
+
+Tế bào T phản ứng với kháng nguyên kém nhanh hơn.
+
+Có ít tế bào lympho hơn có thể đáp ứng với kháng nguyên mới.
+
+Cơ thể lão hóa tạo ra ít bổ thể để đáp ứng với các bệnh nhiễm trùng do vi khuẩn.
+
+Mặc dù nồng độ kháng thể tổng thể không giảm đáng kể, ái tính liên kết giữa kháng thể với kháng nguyên bị giảm, có thể góp phần làm tăng tỷ lệ mắc
+
+bệnh viêm phổi
+
+,
+
+cúm
+
+,
+
+viêm nội tâm mạc nhiễm khuẩn
+
+và
+
+uốn ván
+
+và tăng nguy cơ tử vong do những rối loạn này trong số người lớn tuổi. Những thay đổi này có thể phần nào giải thích tại sao vắc-xin lại kém hiệu quả ở người cao tuổi.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Đáp ứng miễn dịch ---
+
+Miễn dịch bảo vệ hiệu quả đòi hỏi phải kích hoạt, điều chỉnh và dung giải phản ứng miễn dịch.Kích hoạtCác tế bào của hệ thống miễn dịch được kích hoạt khi một kháng nguyên lạ (Ag) được nhận ra bởi các thụ thể bề mặt tế bào. Những thụ thể bề mặt tế bào này có thể đặc hiệu choCác cấu trúc (PAMP) có liên quan đến một số mầm bệnh khác nhau (ví dụ: được PRR nhận biết như các thụ thể giống Toll, mannose và các thụ thể scavenger trên tế bào đuôi gai và các tế bào khác)Các cấu trúc có liên quan đặc biệt với các mầm bệnh cụ thể (nhận biết bằng kháng thể xuyên màng biểu hiện trên tế bào B hoặc bởi các thụ thể tế bào T biểu hiện trên tế bào T)PRR nhận ra các PAMP vi khuẩn phổ biến như lipopolysacarit gram âm, peptidoglycan gram dương, Flagellin của vi khuẩn, dinucleotide cytosine-guanosine không được methyl hóa (mô típ CpG) và RNA sợi đôi của vi rút. Những thụ thể này cũng có thể nhận ra các phân tử (DAMP) được tạo ra bởi các tế bào của con người bị căng thẳng hoặc bị nhiễm bệnh.Sự hoạt hóa cũng có thể xảy ra khi phức hợp kháng thể-kháng nguyên và bổ thể-vi sinh vật liên kết với các thụ thể bề mặt đối với vùng có thể kết tinh (Fc) của IgG (Fc-gamma R) và đối với C3b và iC3b.Sau khi được công nhận, phức hợp kháng nguyên, kháng nguyên-kháng thể hoặc phức hợp vi sinh vật bổ thể sẽ bị thực bào. Hầu hết các vi sinh vật đều bị giết chết sau khi chúng bị thực bào, nhưng một số khác lại ức chế khả năng giết chết tế bào trong nội bào (ví dụ, mycobacteria đã bị bắt bởi đại thực bào ức chế khả năng giết chết của tế bào đó). Trong những trường hợp như vậy, các cytokine có nguồn gốc từ tế bào T, đặc biệt là các interferon-gamma (IFN-gamma), kích thích thực bào để sản xuất nhiều enzyme ly giải và các sản phẩm diệt vi khuẩn khác và do đó tăng cường khả năng giết hoặc cô lập các vi sinh vật.Trừ khi kháng nguyên bị thực bào nhanh chóng và bị phân hủy hoàn toàn (một trường hợp hiếm gặp), đáp ứng miễn dịch thu được sẽ được huy động thông qua việc nhận biết kháng nguyên bởi các thụ thể đặc hiệu cao trên bề mặt tế bào B và tế bào T. Đáp ứng này bắt đầu ở các mô dạng bạch huyết thứ cấp:Lách để kháng nguyên lưu hànhCác hạch bạch huyết khu vực cho kháng nguyên môCác mô bạch huyết gắn liền với niêm mạc (ví dụ, amidan, adenoids, các mảng Peyer) cho kháng nguyên niêm mạcVí dụ: tế bào đuôi gai Langerhans thực bào kháng nguyên ở da và di chuyển đến các hạch bạch huyết tại chỗ. Trong các hạch bạch huyết, các peptide có nguồn gốc từ kháng nguyên được biểu hiện trên bề mặt tế bào đuôi gai trongcác phân tử phức hợp tương hợp mô học chính (MHC)loại II, trình diện peptide cho các tế bào T (Th) trợ giúp CD4. Khi tế bào Th tham gia vào phức hợp MHC-peptide và nhận được nhiều tín hiệu kích thích khác nhau (có thể bị ức chế bởi một số loại thuốc ức chế miễn dịch), nó được kích hoạt để biểu hiện các thụ thể đối với cytokine interleukin (IL)-2 và tiết ra một số cytokine. Mỗi tập con của tế bào Th tiết ra các phức hợp khác nhau và do đó tạo thành các phản ứng miễn dịch khác nhau.Một số tế bào Th trở nên biệt hóa thành tế bào nang T hỗ trợ (Tfh), di chuyển vào vùng tế bào B của các mô bạch huyết thứ cấp. Trong quá trình đáp ứng miễn dịch tích cực, các cấu trúc được gọi là trung tâm mầm bệnh phát triển bên trong các mô bạch huyết thứ cấp, nơi tế bào Tfh hỗ trợ kích hoạt tế bào B, tăng sinh, chuyển đổi lớp kháng thể, trưởng thành ái lực của đáp ứng kháng thể và biệt hóa tế bào B trongtế bào B nhớvà thành tiền thân của các tương bào tiết kháng thể. Ngoài ra, trong trung tâm mầm còn có các tế bào đuôi gai dạng nang (một loại tế bào hoàn toàn khác với các tế bào đuôi gai thông thường), chúng trình diện kháng nguyên nguyên vẹn (trong phức hợp kháng nguyên-kháng thể) cho tế bào B.Các phân tử MHC class II thường trình diện các peptide có nguồn gốc từ kháng nguyên ngoại bào (ngoại sinh) (ví dụ, từ nhiều vi khuẩn) đến tế bào CD4 Th ; ngược lại, các phân tử MHC trong lớp I thường trình diện các peptide có nguồn gốc từ kháng nguyên nội bào (nội sinh) (ví dụ, từ virut) đến tế bào T CD8. Các tế bào T gây độc được kích hoạt sau đó giết chết các tế bào bị nhiễm bệnh.Điều hòaĐáp ứng miễn dịch phải được điều chỉnh để ngăn ngừa tổn thương quá mức cho vật chủ (ví dụ:sốc phản vệ,bão cytokine,hội chứng giải phóng cytokinevà phá hủy mô trên diện rộng). Các tế bào T điều hòa (hầu hết biểu hiện yếu tố phiên mã Foxp3) giúp kiểm soát phản ứng miễn dịch thông qua sự bài tiết các cytokine ức chế miễn dịch như IL-10 và yếu tố tăng trưởng biến đổi-beta (TGF-beta), hoặc thông qua các cơ chế phụ thuộc vào tế bào.Những tế bào điều hòa này giúp ngăn ngừa phản ứng tự miễn dịch và có thể giúp giải quyết những phản ứng đang diễn ra đối với kháng nguyên ngoại sinh.Dung giảiĐáp ứng miễn dịch dung giải khi kháng nguyên bị tách ra hoặc loại bỏ khỏi cơ thể. Nếu không có sự kích thích của kháng nguyên, sự tiết ra của cytokine sẽ dừng lại, và các tế bào T gây độc được kích hoạt sẽ tự chết theo chương trình. Sự chết theo chương trình đánh dấu một tế bào cho sự thực bào ngay lập tức, ngăn ngừa sự lan tỏa của các thành phần nội bào và sự phát triển phản ứng viêm thứ phát. Các tế bào T và tế bào B đã biệt hóa thành các tế bào nhớ sẽ thoát khỏi số phận này.
+
+--- 2. Các điểm thiết yếu ở người cao tuổi: Hệ miễn dịch ---
+
+Với sự lão hóa, hệ thống miễn dịch trở nên kém hiệu quả theo những cách sau:Hệ thống miễn dịch trở nên ít có khả năng phân biệt được bản thân với ngoại lai, làm cho quá trình phát triển các tự kháng thể và các rối loạn tự miễn dịch trở nên phổ biến hơn.Đại thực bàotiêu diệt vi khuẩn, tế bào ung thư và các kháng nguyên khác chậm hơn, có lẽ là góp phần làm tăng tỷ lệ mắc bệnh ung thư ở người cao tuổi.Tế bào T phản ứng với kháng nguyên kém nhanh hơn.Có ít tế bào lympho hơn có thể đáp ứng với kháng nguyên mới.Cơ thể lão hóa tạo ra ít bổ thể để đáp ứng với các bệnh nhiễm trùng do vi khuẩn.Mặc dù nồng độ kháng thể tổng thể không giảm đáng kể, ái tính liên kết giữa kháng thể với kháng nguyên bị giảm, có thể góp phần làm tăng tỷ lệ mắcbệnh viêm phổi,cúm,viêm nội tâm mạc nhiễm khuẩnvàuốn vánvà tăng nguy cơ tử vong do những rối loạn này trong số người lớn tuổi. Những thay đổi này có thể phần nào giải thích tại sao vắc-xin lại kém hiệu quả ở người cao tuổi.

@@ -1,0 +1,633 @@
+TIÊU ĐỀ: Sốt Địa Trung Hải gia đình
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/hội-chứng-sốt-chu-kỳ-di-truyền/sốt-địa-trung-hải-gia-đình
+================================================================================
+
+NỘI DUNG:
+
+Sốt Địa Trung Hải gia đình
+
+Theo
+
+Gil Amarilyo
+
+,
+
+MD
+
+,
+
+Tel Aviv University
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 12 2023
+
+v1104007_vi
+
+Sốt Địa Trung Hải có tính chất gia đình là một rối loạn gen lặn trên nhiễm sắc thể thường, đặc trưng bởi các cơn sốt và viêm phúc mạc tái phát, đôi khi có viêm màng phổi, ban đỏ giống viêm quầng, viêm khớp và hiếm gặp là viêm màng ngoài tim. Bệnh thoái hóa dạng tinh bột có thể phát triển, đôi khi dẫn đến suy thận. Những người có nguồn gốc di truyền ở khu vực Địa Trung Hải thường bị bệnh nhiều hơn các nhóm dân tộc khác. Chẩn đoán dựa vào nghi ngờ trên lâm sàng và xét nghiệm di truyền. Điều trị bằng colchicine dự phòng để ngăn ngừa các đợt cấp tính cũng như bệnh amyloidosis ở hầu hết các bệnh nhân. Những bệnh nhân kháng hoặc không dung nạp
+
+colchicine
+
+có thể được điều trị bằng thuốc ức chế interleukin-1 (
+
+anakinra
+
+,
+
+canakinumab
+
+,
+
+rilonacept
+
+). Tiên lượng tốt với điều trị.
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Sốt Địa Trung Hải gia đình (FMF) là một căn bệnh của những người có nguồn gốc di truyền ở lưu vực Địa Trung Hải, chủ yếu là những người có nguồn gốc Do Thái Sephardic, Ả Rập Bắc Phi, Armenia, Thổ Nhĩ Kỳ, Hy Lạp hoặc Ý. Tuy nhiên, các trường hợp đã xảy ra ở đủ các nhóm khác (ví dụ: những người có nguồn gốc Do Thái Ashkenazi, Cuba hoặc Nhật Bản), do đó không nên loại trừ chẩn đoán chỉ dựa trên cơ sở tổ tiên.
+
+Nguyên nhân của sốt Địa Trung Hải có tính gia đình
+
+FMF do
+
+Các đột biến trong
+
+MEFV
+
+gen trên nhánh ngắn của nhiễm sắc thể 16
+
+Đột biến được di truyền cổ điển theo kiểu
+
+gen lặn trên nhiễm sắc thể thường
+
+, nhưng các dị hợp tử có thể biểu hiện kiểu hình lâm sàng. Các đột biến của FMF là tăng chức năng, nghĩa là chúng tạo ra hoạt động mới hoặc tăng cường trên protein, với hiệu ứng liều lượng gen (tức là nhiều bản sao của gen bất thường mang lại hiệu quả lớn hơn). Gen
+
+MEFV
+
+thông thường mã hóa cho protein pyrin, được thấy trong bạch cầu trung tính trong máu.
+
+Pyrin đóng vai trò trong
+
+khả năng miễn dịch bẩm sinh
+
+. Nó cảm nhận được những thay đổi trong hoạt động của GTPase RhoA nhỏ, một công tắc phân tử điều chỉnh nhiều đường dẫn truyền tín hiệu khác nhau bao gồm cả tổ chức bộ khung tế bào. Độc tố độc lực của mầm bệnh (chẳng hạn như
+
+Clostridioides difficile
+
+,
+
+Burkholderia cenocepacia
+
+và
+
+Vibrio cholera
+
+)  điều hòa hoạt động của RhoA và gây ra tập hợp pyrin cùng với các protein khác thành một inflammasome pyrin, cuối cùng tạo ra cytokine interleukin-1 beta tiền viêm (IL- 1 phiên bản beta). Các biến thể gây bệnh
+
+MEFV
+
+ủng hộ trạng thái hoạt động của pyrin và làm phát sinh vỡ màng tế bào (chết tế bào theo chương trình tiền viêm) và giải phóng các cytokine tiền viêm (
+
+1
+
+).
+
+Có bằng chứng mạnh mẽ cho thấy
+
+Yersinia pestis
+
+, nguyên nhân gây ra
+
+bệnh dịch hạch thể hạch
+
+, đã dẫn đến sự lựa chọn tích cực các đột biến
+
+MEFV
+
+liên quan đến FMF. Những đột biến này mang lại lợi thế sống sót cho một số người có
+
+Yersinia pestis
+
+(
+
+2
+
+).
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Ben-Chetrit E
+
+: Old paradigms and new concepts in familial Mediterranean fever (FMF) - an update 2023.
+
+Rheumatology (Oxford)
+
+kead439, 2023. doi: 10.1093/rheumatology/kead439
+
+2.
+
+Park YH, Remmers EF, Lee W, et al
+
+: Ancient familial Mediterranean fever mutations in human pyrin and resistance to
+
+Yersinia pestis
+
+.
+
+Nat Immunol
+
+21(8):857–867, 2020. doi: 10.1038/s41590-020-0705-6
+
+Các triệu chứng và dấu hiệu của sốt Địa Trung Hải có tính gia đình
+
+Bệnh FMF khởi phát thường ở độ tuổi từ 5 tuổi đến 15 tuổi nhưng có thể muộn hơn hoặc sớm hơn nhiều, ngay cả khi còn nhỏ. Không có biểu hiện mẫu cho các lần tái phát. Các triệu chứng thường kéo dài từ 12 giờ đến 72 giờ nhưng có thể kéo dài hơn. Tần suất dao động từ 2 đợt cấp/tuần đến 1 đợt/năm (thông thường nhất, mỗi 2 đến 6 tuần). Các yếu tố gây căng thẳng về thể chất và tinh thần (ví dụ: chấn thương thể chất, nhiễm trùng, kinh nguyệt) có thể gây khởi phát các cơn bệnh (
+
+1
+
+). Mức độ nặng và tần suất có xu hướng giảm khi mang thai và ở bệnh nhân bị
+
+thoái hóa dạng tinh bột
+
+. Thuyên giảm bệnh tự nhiên có thể kéo dài hàng năm.
+
+Sốt cao tới 40
+
+°
+
+C, thường kèm theo
+
+viêm phúc mạc
+
+, là biểu hiện chính. Đau bụng (thường bắt đầu ở một góc phần tư và lan rộng đến toàn bộ bụng) xảy ra ở khoảng 95% bệnh nhân và có thể thay đổi mức độ nặng trong các đợt bệnh. Giảm nhu động ruột, chướng bụng, phản ứng thành bụng, cảm ứng phúc mạc thường rõ trong đợt cấp và không thể phân biệt được với thủng tạng rỗng khi thăm khám. Do đó, một số bệnh nhân phải trải qua phẫu thuật nội soi khẩn cấp trước khi đưa ra chẩn đoán chính xác. Khi bị tổn thương màng phổi, khó thở do đau màng phổi có thể xảy ra.
+
+Các biểu hiện khác của FMF bao gồm viêm khớp (ở 25%), thường liên quan đến đầu gối, cổ chân và hông; phát ban giống như
+
+viêm quầng
+
+ở cẳng chân; và sưng bìu và đau do viêm lớp tinh mạc.
+
+Viêm màng ngoài tim
+
+xảy ra rất hiếm khi xảy ra. Các biểu hiện ở màng phổi, màng hoạt dịch và da của FMF có tần suất khác nhau giữa các quần thể khác nhau (
+
+2
+
+).
+
+Mặc dù mức độ nghiêm trọng của các triệu chứng trong các đợt cấp, hầu hết bệnh nhân hồi phục nhanh chóng và khỏe mạnh cho đến đợt tiếp theo.
+
+Rối loạn sốt định kỳ tự viêm
+
+CAPS = hội chứng chu kỳ liên quan đến cryopyrin; FMF = sốt Địa Trung Hải có tính chất gia đình; NOMID = bệnh viêm đa hệ thống khởi phát ở trẻ sơ sinh; PFAPA = các cơn sốt định kỳ kèm theo viêm miệng áp-tơ, viêm họng và viêm hạch; TRAPS = hội chứng chu kỳ liên quan đến thụ thể yếu tố hoại tử khối u.
+
+Phỏng theo
+
+Sag E, Bilginer Y, Ozen S
+
+: Autoinflammatory diseases with periodic fevers.
+
+Curr Rheumatol Rep
+
+19(7):41, 2017. doi: 10.1007/s11926-017-0670-8
+
+Các biến chứng của sốt Địa Trung Hải gia đình
+
+Biến chứng lâu dài đáng kể nhất của FMF là
+
+Suy thận mạn tính do sự lắng đọng của protein amyloid trong thận
+
+Amyloid cũng có thể tích tụ trong đường tiêu hóa, gan, lách, tim, tinh hoàn, và tuyến giáp.
+
+FMF có thể gây vô sinh hoặc sảy thai tự nhiên ở 1/3 số phụ nữ không được điều trị vì hình thành dính vùng phúc mạc tiểu khung, cản trở việc thụ thai.
+
+FMF làm tăng nguy cơ bị các rối loạn viêm khác, chẳng hạn như
+
+viêm cột sống dính khớp
+
+,
+
+viêm mạch máu liên quan đến globulin miễn dịch A (IgA)
+
+,
+
+viêm nút động mạch
+
+và
+
+bệnh Behçet
+
+(
+
+3
+
+).
+
+Tài liệu tham khảo về các dấu hiệu và triệu chứng
+
+1.
+
+Yenokyan G, Armenian HK
+
+: Triggers for attacks in familial Mediterranean fever: application of the case-crossover design.
+
+Am J Epidemiol
+
+175(10):1054-1061, 2012. doi: 10.1093/aje/kwr460
+
+2.
+
+Ben-Chetrit E, Yazici H
+
+: Familial Mediterranean fever: different faces around the world.
+
+Clin Exp Rheumatol
+
+37 Suppl 121(6):18-22, 2019. PMID: 31694745
+
+3.
+
+Balcı-Peynircioğlu B, Kaya-Akça Ü, Arıcı ZS, et al
+
+: Comorbidities in familial Mediterranean fever: Analysis of 2000 genetically confirmed patients.
+
+Rheumatology (Oxford)
+
+59(6):1372–1380, 2020. doi: 10.1093/rheumatology/kez410
+
+Chẩn đoán sốt Địa Trung Hải có tính gia đình
+
+Đánh giá lâm sàng
+
+Xét nghiệm di truyền
+
+Chẩn đoán sốt Địa Trung Hải có tính gia đình chủ yếu dựa trên lâm sàng dựa trên tiêu chuẩn Tel HaShomer (xem bảng
+
+Tiêu chuẩn Tel HaShomer để chẩn đoán sốt Địa Trung Hải gia đình
+
+) (
+
+1
+
+), nhưng xét nghiệm di truyền hiện có và đặc biệt hữu ích trong việc đánh giá các trường hợp không điển hình. Tuy nhiên, xét nghiệm di truyền không phải luôn đúng; một số bệnh nhân kiểu hình FMF rất rõ ràng nhưng chỉ có một gen đột biến duy nhất hoặc đôi khi không có đột biến rõ ràng trong gen
+
+MEFV
+
+. Khoảng 10 đến 20% bệnh nhân đáp ứng các tiêu chuẩn chẩn đoán FMF không có đột biến
+
+MEFV
+
+, gợi ý các yếu tố biểu sinh và môi trường góp phần vào quá trình sinh bệnh
+
+2
+
+).
+
+Các xét nghiệm không đặc hiệu bao gồm tăng các bạch cầu chủ yếu là bạch cầu trung tính, tốc độ máu lắng, protein phản ứng C, và fibrinogen. Bài tiết qua nước tiểu
+
+>
+
+0,5 g protein/24 giờ có thể gợi ý bệnh thận thoái hóa dạng tinh bột.
+
+Chẩn đoán phân biệt
+
+bao gồm
+
+bệnh porphyria cấp không liên tục
+
+,
+
+bệnh phù mạch di truyền
+
+với các cơn đau bụng,
+
+viêm tụy
+
+tái phát, và các triệu chứng sốt tái phát di truyền khác.
+
+Bảng
+
+Tiêu chuẩn Tel HaShomer trong chẩn đoán bệnh sốt Địa Trung Hải có tính gia đình*
+
+Bảng
+
+Tiêu chuẩn Tel HaShomer trong chẩn đoán bệnh sốt Địa Trung Hải có tính gia đình*
+
+Tiêu chuẩn Tel HaShomer trong chẩn đoán bệnh sốt Địa Trung Hải có tính gia đình*
+
+Các tiêu chuẩn chính
+
+Các cơn điển hình † của
+
+Viêm phúc mạc (toàn thể)
+
+Viêm màng phổi (một bên) hoặc viêm màng ngoài tim
+
+Viêm khớp một khớp ở hông, đầu gối hoặc cổ chân
+
+Chỉ sốt
+
+Các cơn không hoàn toàn ‡ của bụng
+
+Tiêu chuẩn phụ
+
+Các cơn không hoàn toàn ‡ liên quan đến ngực, khớp hoặc cả hai
+
+Đau chân khi gắng sức
+
+Đáp ứng thuận lợi với điều trị bằng colchicine
+
+* Chẩn đoán cần có ≥ 1 tiêu chí chính
+
+hoặc
+
+≥ 2 tiêu chí phụ.
+
+† Các cơn điển hình là tái phát (ít nhất 3 đợt cùng loại), sốt (nhiệt độ trực tràng ≥ 38°C) và thời gian ngắn (12 giờ đến 72 giờ).
+
+‡ Các cơn không hoàn toàn gây đau đớn và tái phát. Chúng khác với các cơn điển hình ở 1 hoặc 2 đặc điểm:
+
+Nhiệt độ bình thường hoặc < 38°C.
+
+Cơn kéo dài hơn hoặc ngắn hơn một cuộc cơn điển hình nhưng không dưới 6 giờ và kéo dài không quá 1 tuần.
+
+Không có dấu hiệu viêm phúc mạc trong các cơn đau bụng.
+
+Các cơn đau bụng khu trú.
+
+Viêm khớp xảy ra ở khớp không phải khớp háng, đầu gối hoặc cổ chân.
+
+Dữ liệu từ
+
+Livneh A, Langevitz P, Zemer D, et al
+
+: Criteria for the diagnosis of familial Mediterranean fever.
+
+Arthritis Rheum
+
+40(10):1879–1885, 1997. doi: 10.1002/art.1780401023
+
+* Chẩn đoán cần có ≥ 1 tiêu chí chính
+
+hoặc
+
+≥ 2 tiêu chí phụ.
+
+† Các cơn điển hình là tái phát (ít nhất 3 đợt cùng loại), sốt (nhiệt độ trực tràng ≥ 38°C) và thời gian ngắn (12 giờ đến 72 giờ).
+
+‡ Các cơn không hoàn toàn gây đau đớn và tái phát. Chúng khác với các cơn điển hình ở 1 hoặc 2 đặc điểm:
+
+Nhiệt độ bình thường hoặc < 38°C.
+
+Cơn kéo dài hơn hoặc ngắn hơn một cuộc cơn điển hình nhưng không dưới 6 giờ và kéo dài không quá 1 tuần.
+
+Không có dấu hiệu viêm phúc mạc trong các cơn đau bụng.
+
+Các cơn đau bụng khu trú.
+
+Viêm khớp xảy ra ở khớp không phải khớp háng, đầu gối hoặc cổ chân.
+
+Dữ liệu từ
+
+Livneh A, Langevitz P, Zemer D, et al
+
+: Criteria for the diagnosis of familial Mediterranean fever.
+
+Arthritis Rheum
+
+40(10):1879–1885, 1997. doi: 10.1002/art.1780401023
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Livneh A, Langevitz P, Zemer D, et al
+
+: Criteria for the diagnosis of familial Mediterranean fever.
+
+Arthritis Rheum
+
+40(10):1879–1885, 1997. doi: 10.1002/art.1780401023
+
+2.
+
+Booty MG, Chae JJ, Masters SL, et al
+
+: Familial Mediterranean fever with a single MEFV mutation: Where is the second hit?
+
+Arthritis Rheum
+
+60(6):1851-1861, 2009. doi: 10.1002/art.24569
+
+Điều trị sốt Địa Trung Hải có tính chất gia đình
+
+Daily
+
+colchicine
+
+Ở những bệnh nhân kháng hoặc không dung nạp
+
+colchicine
+
+, thuốc ức chế interleukin-1 (IL-1)
+
+Colchicine dự phòng hàng ngày cần phải được bắt đầu ngay sau khi chẩn đoán được thực hiện để ngăn ngừa các đợt tấn công cũng như
+
+bệnh thoái hóa dạng tinh bột
+
+(
+
+1
+
+).
+
+Colchicine
+
+giúp thuyên giảm hoàn toàn hoặc cải thiện rõ rệt ở gần 95% số bệnh nhân. Nếu các đợt tấn công hoặc viêm cận lâm sàng vẫn tồn tại, nên tăng liều
+
+colchicine
+
+. Bắt đầu sử dụng
+
+colchicine
+
+khi cơn bệnh đang ở đỉnh điểm sẽ không có lợi. Trẻ em cần điều chỉnh liều
+
+colchicine
+
+thường dựa trên độ tuổi, cân nặng và mức độ nặng của kiểu hình và kiểu gen (
+
+2
+
+). Cũng nên điều chỉnh liều cho bệnh nhân rối loạn chức năng gan hoặc rối loạn chức năng thận. Dự phòng colchicine rộng rãi dẫn đến giảm đáng kể tỷ lệ mắc bệnh amyloid và suy thận.
+
+Colchicine không làm tăng nguy cơ vô sinh hoặc sảy thai tự nhiên ở những phụ nữ bị thương tổn; khi dùng trong thời kỳ mang thai, nó không làm tăng nguy cơ gây quái thai. Thiếu đáp ứng với
+
+colchicine
+
+thường là do kém tuân thủ phác đồ điều trị.
+
+Những bệnh nhân kháng hoặc không dung nạp
+
+colchicine
+
+có thể được điều trị bằng thuốc ức chế IL-1 (anakinra mỗi ngày một lần, rilonacept hàng tuần hoặc canakinumab 4 tuần một lần) (
+
+3
+
+,
+
+4
+
+). Tuy nhiên, vai trò của thuốc ức chế IL-1 trong việc ngăn ngừa bệnh thoái hóa dạng tinh bột vẫn chưa được biết rõ và bệnh nhân dùng thuốc ức chế IL nên tiếp tục dùng colchicine nếu dung nạp được.
+
+Thuốc chống viêm không steroid (NSAID) và acetaminophen đôi khi cần thiết để giảm đau.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Ter Haar N, Lachmann H, Özen S, et al
+
+: Treatment of autoinflammatory diseases: results from the Eurofever Registry and a literature review.
+
+Ann Rheum Dis
+
+72(5):678-685, 2013. doi: 10.1136/annrheumdis-2011-201268
+
+2.
+
+Goldberg O, Levinsky Y, Peled O, et al
+
+: Age dependent safety and efficacy of colchicine treatment for familial mediterranean fever in children.
+
+Semin Arthritis Rheum
+
+49(3):459-463, 2019. doi: 10.1016/j.semarthrit.2019.05.011
+
+2.
+
+Ozen S, Demirkaya E, Erer B, et al
+
+: EULAR recommendations for the management of familial Mediterranean fever.
+
+Ann Rheum Dis
+
+75(4):644–651, 2016. doi: 10.1136/annrheumdis-2015-208690
+
+3.
+
+De Benedetti F, Gattorno M, Anton J, et al
+
+:
+
+Canakinumab
+
+for the treatment of autoinflammatory recurrent fever syndromes.
+
+N Engl J Med
+
+378(20): 1908-1919, 2018. doi: 10.1056/NEJMoa1706314
+
+Những điểm chính
+
+Sốt Địa Trung Hải có tính gia đình (FMF) là do đột biến gen lặn trên nhiễm sắc thể thường ở gen
+
+MEFV
+
+, mã hóa protein pyrin giúp điều chỉnh phản ứng viêm ở bạch cầu trung tính.
+
+Những người có nguồn gốc di truyền ở vùng Địa Trung Hải thường bị ảnh hưởng nhiều hơn (nhưng không hoàn toàn loại trừ bệnh bằng nguồn gốc di truyền).
+
+Bệnh nhân có các cơn sốt ngắn, đau bụng, và đôi khi các triệu chứng khác như viêm màng phổi, viêm khớp và phát ban.
+
+Bệnh thoái hóa dạng tinh bột ở thận, đôi khi gây suy thận, là biến chứng phổ biến nhất, nhưng
+
+colchicine
+
+dự phòng có tác dụng bảo vệ chống lại bệnh thoái hóa dạng tinh bột.
+
+Chẩn đoán dựa trên lâm sàng; xét nghiệm di truyền có sẵn và có thể hỗ trợ chẩn đoán.
+
+Colchicine hàng ngày mang lại bảo vệ đáng kể chống lại các cơn cấp của bệnh ở hầu hết bệnh nhân, nhưng những bệnh nhân kháng hoặc không dung nạp
+
+colchicine
+
+có thể được dùng thuốc ức chế IL-1 (anakinra, rilonacept hoặc canakinumab).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân của sốt Địa Trung Hải có tính gia đình ---
+
+FMF doCác đột biến trongMEFVgen trên nhánh ngắn của nhiễm sắc thể 16Đột biến được di truyền cổ điển theo kiểugen lặn trên nhiễm sắc thể thường, nhưng các dị hợp tử có thể biểu hiện kiểu hình lâm sàng. Các đột biến của FMF là tăng chức năng, nghĩa là chúng tạo ra hoạt động mới hoặc tăng cường trên protein, với hiệu ứng liều lượng gen (tức là nhiều bản sao của gen bất thường mang lại hiệu quả lớn hơn). GenMEFVthông thường mã hóa cho protein pyrin, được thấy trong bạch cầu trung tính trong máu.Pyrin đóng vai trò trongkhả năng miễn dịch bẩm sinh. Nó cảm nhận được những thay đổi trong hoạt động của GTPase RhoA nhỏ, một công tắc phân tử điều chỉnh nhiều đường dẫn truyền tín hiệu khác nhau bao gồm cả tổ chức bộ khung tế bào. Độc tố độc lực của mầm bệnh (chẳng hạn nhưClostridioides difficile,Burkholderia cenocepaciavàVibrio cholera)  điều hòa hoạt động của RhoA và gây ra tập hợp pyrin cùng với các protein khác thành một inflammasome pyrin, cuối cùng tạo ra cytokine interleukin-1 beta tiền viêm (IL- 1 phiên bản beta). Các biến thể gây bệnhMEFVủng hộ trạng thái hoạt động của pyrin và làm phát sinh vỡ màng tế bào (chết tế bào theo chương trình tiền viêm) và giải phóng các cytokine tiền viêm (1).Có bằng chứng mạnh mẽ cho thấyYersinia pestis, nguyên nhân gây rabệnh dịch hạch thể hạch, đã dẫn đến sự lựa chọn tích cực các đột biếnMEFVliên quan đến FMF. Những đột biến này mang lại lợi thế sống sót cho một số người cóYersinia pestis(2).Tài liệu tham khảo về căn nguyên1.Ben-Chetrit E: Old paradigms and new concepts in familial Mediterranean fever (FMF) - an update 2023.Rheumatology (Oxford)kead439, 2023. doi: 10.1093/rheumatology/kead4392.Park YH, Remmers EF, Lee W, et al: Ancient familial Mediterranean fever mutations in human pyrin and resistance toYersinia pestis.Nat Immunol21(8):857–867, 2020. doi: 10.1038/s41590-020-0705-6
+
+--- 2. Các triệu chứng và dấu hiệu của sốt Địa Trung Hải có tính gia đình ---
+
+Bệnh FMF khởi phát thường ở độ tuổi từ 5 tuổi đến 15 tuổi nhưng có thể muộn hơn hoặc sớm hơn nhiều, ngay cả khi còn nhỏ. Không có biểu hiện mẫu cho các lần tái phát. Các triệu chứng thường kéo dài từ 12 giờ đến 72 giờ nhưng có thể kéo dài hơn. Tần suất dao động từ 2 đợt cấp/tuần đến 1 đợt/năm (thông thường nhất, mỗi 2 đến 6 tuần). Các yếu tố gây căng thẳng về thể chất và tinh thần (ví dụ: chấn thương thể chất, nhiễm trùng, kinh nguyệt) có thể gây khởi phát các cơn bệnh (1). Mức độ nặng và tần suất có xu hướng giảm khi mang thai và ở bệnh nhân bịthoái hóa dạng tinh bột. Thuyên giảm bệnh tự nhiên có thể kéo dài hàng năm.Sốt cao tới 40°C, thường kèm theoviêm phúc mạc, là biểu hiện chính. Đau bụng (thường bắt đầu ở một góc phần tư và lan rộng đến toàn bộ bụng) xảy ra ở khoảng 95% bệnh nhân và có thể thay đổi mức độ nặng trong các đợt bệnh. Giảm nhu động ruột, chướng bụng, phản ứng thành bụng, cảm ứng phúc mạc thường rõ trong đợt cấp và không thể phân biệt được với thủng tạng rỗng khi thăm khám. Do đó, một số bệnh nhân phải trải qua phẫu thuật nội soi khẩn cấp trước khi đưa ra chẩn đoán chính xác. Khi bị tổn thương màng phổi, khó thở do đau màng phổi có thể xảy ra.Các biểu hiện khác của FMF bao gồm viêm khớp (ở 25%), thường liên quan đến đầu gối, cổ chân và hông; phát ban giống nhưviêm quầngở cẳng chân; và sưng bìu và đau do viêm lớp tinh mạc.Viêm màng ngoài timxảy ra rất hiếm khi xảy ra. Các biểu hiện ở màng phổi, màng hoạt dịch và da của FMF có tần suất khác nhau giữa các quần thể khác nhau (2).Mặc dù mức độ nghiêm trọng của các triệu chứng trong các đợt cấp, hầu hết bệnh nhân hồi phục nhanh chóng và khỏe mạnh cho đến đợt tiếp theo.Rối loạn sốt định kỳ tự viêmCAPS = hội chứng chu kỳ liên quan đến cryopyrin; FMF = sốt Địa Trung Hải có tính chất gia đình; NOMID = bệnh viêm đa hệ thống khởi phát ở trẻ sơ sinh; PFAPA = các cơn sốt định kỳ kèm theo viêm miệng áp-tơ, viêm họng và viêm hạch; TRAPS = hội chứng chu kỳ liên quan đến thụ thể yếu tố hoại tử khối u.Phỏng theoSag E, Bilginer Y, Ozen S: Autoinflammatory diseases with periodic fevers.Curr Rheumatol Rep19(7):41, 2017. doi: 10.1007/s11926-017-0670-8Các biến chứng của sốt Địa Trung Hải gia đìnhBiến chứng lâu dài đáng kể nhất của FMF làSuy thận mạn tính do sự lắng đọng của protein amyloid trong thậnAmyloid cũng có thể tích tụ trong đường tiêu hóa, gan, lách, tim, tinh hoàn, và tuyến giáp.FMF có thể gây vô sinh hoặc sảy thai tự nhiên ở 1/3 số phụ nữ không được điều trị vì hình thành dính vùng phúc mạc tiểu khung, cản trở việc thụ thai.FMF làm tăng nguy cơ bị các rối loạn viêm khác, chẳng hạn nhưviêm cột sống dính khớp,viêm mạch máu liên quan đến globulin miễn dịch A (IgA),viêm nút động mạchvàbệnh Behçet(3).Tài liệu tham khảo về các dấu hiệu và triệu chứng1.Yenokyan G, Armenian HK: Triggers for attacks in familial Mediterranean fever: application of the case-crossover design.Am J Epidemiol175(10):1054-1061, 2012. doi: 10.1093/aje/kwr4602.Ben-Chetrit E, Yazici H: Familial Mediterranean fever: different faces around the world.Clin Exp Rheumatol37 Suppl 121(6):18-22, 2019. PMID: 316947453.Balcı-Peynircioğlu B, Kaya-Akça Ü, Arıcı ZS, et al: Comorbidities in familial Mediterranean fever: Analysis of 2000 genetically confirmed patients.Rheumatology (Oxford)59(6):1372–1380, 2020. doi: 10.1093/rheumatology/kez410
+
+--- 3. Chẩn đoán sốt Địa Trung Hải có tính gia đình ---
+
+Đánh giá lâm sàngXét nghiệm di truyềnChẩn đoán sốt Địa Trung Hải có tính gia đình chủ yếu dựa trên lâm sàng dựa trên tiêu chuẩn Tel HaShomer (xem bảngTiêu chuẩn Tel HaShomer để chẩn đoán sốt Địa Trung Hải gia đình) (1), nhưng xét nghiệm di truyền hiện có và đặc biệt hữu ích trong việc đánh giá các trường hợp không điển hình. Tuy nhiên, xét nghiệm di truyền không phải luôn đúng; một số bệnh nhân kiểu hình FMF rất rõ ràng nhưng chỉ có một gen đột biến duy nhất hoặc đôi khi không có đột biến rõ ràng trong genMEFV. Khoảng 10 đến 20% bệnh nhân đáp ứng các tiêu chuẩn chẩn đoán FMF không có đột biếnMEFV, gợi ý các yếu tố biểu sinh và môi trường góp phần vào quá trình sinh bệnh2).Các xét nghiệm không đặc hiệu bao gồm tăng các bạch cầu chủ yếu là bạch cầu trung tính, tốc độ máu lắng, protein phản ứng C, và fibrinogen. Bài tiết qua nước tiểu>0,5 g protein/24 giờ có thể gợi ý bệnh thận thoái hóa dạng tinh bột.Chẩn đoán phân biệtbao gồmbệnh porphyria cấp không liên tục,bệnh phù mạch di truyềnvới các cơn đau bụng,viêm tụytái phát, và các triệu chứng sốt tái phát di truyền khác.BảngTiêu chuẩn Tel HaShomer trong chẩn đoán bệnh sốt Địa Trung Hải có tính gia đình*BảngTiêu chuẩn Tel HaShomer trong chẩn đoán bệnh sốt Địa Trung Hải có tính gia đình*Tiêu chuẩn Tel HaShomer trong chẩn đoán bệnh sốt Địa Trung Hải có tính gia đình*Các tiêu chuẩn chínhCác cơn điển hình † củaViêm phúc mạc (toàn thể)Viêm màng phổi (một bên) hoặc viêm màng ngoài timViêm khớp một khớp ở hông, đầu gối hoặc cổ chânChỉ sốtCác cơn không hoàn toàn ‡ của bụngTiêu chuẩn phụCác cơn không hoàn toàn ‡ liên quan đến ngực, khớp hoặc cả haiĐau chân khi gắng sứcĐáp ứng thuận lợi với điều trị bằng colchicine* Chẩn đoán cần có ≥ 1 tiêu chí chínhhoặc≥ 2 tiêu chí phụ.† Các cơn điển hình là tái phát (ít nhất 3 đợt cùng loại), sốt (nhiệt độ trực tràng ≥ 38°C) và thời gian ngắn (12 giờ đến 72 giờ).‡ Các cơn không hoàn toàn gây đau đớn và tái phát. Chúng khác với các cơn điển hình ở 1 hoặc 2 đặc điểm:Nhiệt độ bình thường hoặc < 38°C.Cơn kéo dài hơn hoặc ngắn hơn một cuộc cơn điển hình nhưng không dưới 6 giờ và kéo dài không quá 1 tuần.Không có dấu hiệu viêm phúc mạc trong các cơn đau bụng.Các cơn đau bụng khu trú.Viêm khớp xảy ra ở khớp không phải khớp háng, đầu gối hoặc cổ chân.Dữ liệu từLivneh A, Langevitz P, Zemer D, et al: Criteria for the diagnosis of familial Mediterranean fever.Arthritis Rheum40(10):1879–1885, 1997. doi: 10.1002/art.1780401023* Chẩn đoán cần có ≥ 1 tiêu chí chínhhoặc≥ 2 tiêu chí phụ.† Các cơn điển hình là tái phát (ít nhất 3 đợt cùng loại), sốt (nhiệt độ trực tràng ≥ 38°C) và thời gian ngắn (12 giờ đến 72 giờ).‡ Các cơn không hoàn toàn gây đau đớn và tái phát. Chúng khác với các cơn điển hình ở 1 hoặc 2 đặc điểm:Nhiệt độ bình thường hoặc < 38°C.Cơn kéo dài hơn hoặc ngắn hơn một cuộc cơn điển hình nhưng không dưới 6 giờ và kéo dài không quá 1 tuần.Không có dấu hiệu viêm phúc mạc trong các cơn đau bụng.Các cơn đau bụng khu trú.Viêm khớp xảy ra ở khớp không phải khớp háng, đầu gối hoặc cổ chân.Dữ liệu từLivneh A, Langevitz P, Zemer D, et al: Criteria for the diagnosis of familial Mediterranean fever.Arthritis Rheum40(10):1879–1885, 1997. doi: 10.1002/art.1780401023Tài liệu tham khảo chẩn đoán1.Livneh A, Langevitz P, Zemer D, et al: Criteria for the diagnosis of familial Mediterranean fever.Arthritis Rheum40(10):1879–1885, 1997. doi: 10.1002/art.17804010232.Booty MG, Chae JJ, Masters SL, et al: Familial Mediterranean fever with a single MEFV mutation: Where is the second hit?Arthritis Rheum60(6):1851-1861, 2009. doi: 10.1002/art.24569
+
+--- 4. Điều trị sốt Địa Trung Hải có tính chất gia đình ---
+
+DailycolchicineỞ những bệnh nhân kháng hoặc không dung nạpcolchicine, thuốc ức chế interleukin-1 (IL-1)Colchicine dự phòng hàng ngày cần phải được bắt đầu ngay sau khi chẩn đoán được thực hiện để ngăn ngừa các đợt tấn công cũng nhưbệnh thoái hóa dạng tinh bột(1).Colchicinegiúp thuyên giảm hoàn toàn hoặc cải thiện rõ rệt ở gần 95% số bệnh nhân. Nếu các đợt tấn công hoặc viêm cận lâm sàng vẫn tồn tại, nên tăng liềucolchicine. Bắt đầu sử dụngcolchicinekhi cơn bệnh đang ở đỉnh điểm sẽ không có lợi. Trẻ em cần điều chỉnh liềucolchicinethường dựa trên độ tuổi, cân nặng và mức độ nặng của kiểu hình và kiểu gen (2). Cũng nên điều chỉnh liều cho bệnh nhân rối loạn chức năng gan hoặc rối loạn chức năng thận. Dự phòng colchicine rộng rãi dẫn đến giảm đáng kể tỷ lệ mắc bệnh amyloid và suy thận.Colchicine không làm tăng nguy cơ vô sinh hoặc sảy thai tự nhiên ở những phụ nữ bị thương tổn; khi dùng trong thời kỳ mang thai, nó không làm tăng nguy cơ gây quái thai. Thiếu đáp ứng vớicolchicinethường là do kém tuân thủ phác đồ điều trị.Những bệnh nhân kháng hoặc không dung nạpcolchicinecó thể được điều trị bằng thuốc ức chế IL-1 (anakinra mỗi ngày một lần, rilonacept hàng tuần hoặc canakinumab 4 tuần một lần) (3,4). Tuy nhiên, vai trò của thuốc ức chế IL-1 trong việc ngăn ngừa bệnh thoái hóa dạng tinh bột vẫn chưa được biết rõ và bệnh nhân dùng thuốc ức chế IL nên tiếp tục dùng colchicine nếu dung nạp được.Thuốc chống viêm không steroid (NSAID) và acetaminophen đôi khi cần thiết để giảm đau.Tài liệu tham khảo về điều trị1.Ter Haar N, Lachmann H, Özen S, et al: Treatment of autoinflammatory diseases: results from the Eurofever Registry and a literature review.Ann Rheum Dis72(5):678-685, 2013. doi: 10.1136/annrheumdis-2011-2012682.Goldberg O, Levinsky Y, Peled O, et al: Age dependent safety and efficacy of colchicine treatment for familial mediterranean fever in children.Semin Arthritis Rheum49(3):459-463, 2019. doi: 10.1016/j.semarthrit.2019.05.0112.Ozen S, Demirkaya E, Erer B, et al: EULAR recommendations for the management of familial Mediterranean fever.Ann Rheum Dis75(4):644–651, 2016. doi: 10.1136/annrheumdis-2015-2086903.De Benedetti F, Gattorno M, Anton J, et al:Canakinumabfor the treatment of autoinflammatory recurrent fever syndromes.N Engl J Med378(20): 1908-1919, 2018. doi: 10.1056/NEJMoa1706314
+
+--- 5. Những điểm chính ---
+
+Sốt Địa Trung Hải có tính gia đình (FMF) là do đột biến gen lặn trên nhiễm sắc thể thường ở genMEFV, mã hóa protein pyrin giúp điều chỉnh phản ứng viêm ở bạch cầu trung tính.Những người có nguồn gốc di truyền ở vùng Địa Trung Hải thường bị ảnh hưởng nhiều hơn (nhưng không hoàn toàn loại trừ bệnh bằng nguồn gốc di truyền).Bệnh nhân có các cơn sốt ngắn, đau bụng, và đôi khi các triệu chứng khác như viêm màng phổi, viêm khớp và phát ban.Bệnh thoái hóa dạng tinh bột ở thận, đôi khi gây suy thận, là biến chứng phổ biến nhất, nhưngcolchicinedự phòng có tác dụng bảo vệ chống lại bệnh thoái hóa dạng tinh bột.Chẩn đoán dựa trên lâm sàng; xét nghiệm di truyền có sẵn và có thể hỗ trợ chẩn đoán.Colchicine hàng ngày mang lại bảo vệ đáng kể chống lại các cơn cấp của bệnh ở hầu hết bệnh nhân, nhưng những bệnh nhân kháng hoặc không dung nạpcolchicinecó thể được dùng thuốc ức chế IL-1 (anakinra, rilonacept hoặc canakinumab).

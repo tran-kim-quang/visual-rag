@@ -1,0 +1,122 @@
+TIÊU ĐỀ: Các phương pháp nhận dạng không dựa trên acid nucleic cho bệnh lý truyền nhiễm
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/xét-nghiệm-chẩn-đoán-bệnh-lý-truyền-nhiễm/các-phương-pháp-nhận-dạng-không-dựa-trên-acid-nucleic-cho-bệnh-lý-truyền-nhiễm
+================================================================================
+
+NỘI DUNG:
+
+Các phương pháp nhận dạng không dựa trên acid nucleic cho bệnh lý truyền nhiễm
+
+Theo
+
+Maria T. Vazquez-Pertejo
+
+,
+
+MD, FACP
+
+,
+
+Wellington Regional Medical Center;
+
+Larry M. Bush
+
+,
+
+MD, FACP
+
+,
+
+Charles E. Schmidt College of Medicine, Florida Atlantic University
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 1 2025
+
+v998508_vi
+
+Once an organism has been isolated by
+
+culture
+
+, it must be identified. Việc xác định có vai trò quan trọng trong việc quyết định cách xử lý (ví dụ: thuốc men, biện pháp cách ly). Các phương pháp xác định không dựa trên axit nucleic sử dụng các đặc điểm kiểu hình (chức năng hoặc hình thái) của sinh vật thay vì
+
+các đặc điểm kiểu gen (ví dụ: NAAT)
+
+.
+
+Các đặc điểm sinh trưởng của vi sinh vật trên môi trường nuôi cấy như kích cỡ, màu sắc và hình dạng của khuẩn lạc, cung cấp manh mối cho việc xác định loài và kết hợp thêm với
+
+nhuộm Gram
+
+trực tiếp, định hướng cho các xét nghiệm tiếp theo.
+
+Có rất nhiều xét nghiệm sinh hóa; mỗi loại được giới hạn cho các sinh vật thuộc một loài nhất định (ví dụ, vi khuẩn hiếu khí hoặc kị khí). Một số đánh giá khả năng sử dụng các chất nền khác nhau của vi khuẩn để tăng trưởng. Một số đánh giá khác sự hiện diện hoặc hoạt động của các enzyme chủ chốt (ví dụ, coagulase, catalase). Xét nghiệm được thực hiện theo trình tự, các kết quả trước sẽ xác định xét nghiệm tiếp theo được sử dụng. Chuỗi các xét nghiệm là vô số và khác nhau giữa các phòng thí nghiệm.
+
+Các xét nghiệm nhận dạng không dựa trên acid nucleic có thể liên quan đến
+
+Hướng dẫn sử dụng
+
+Hệ thống tự động
+
+Xét nghiệm huyết thanh học
+
+Phương pháp sắc ký
+
+Phương pháp khối phổ
+
+Một số bộ kít thương mại sẵn có bao gồm tổ hợp các xét nghiệm riêng lẻ có thể được thực hiện đồng thời bằng cách sử dụng một mẫu cấy duy nhất của vi sinh vật và có thể hữu ích cho một khoảng vi sinh vật rộng hơn. Nhiều hệ thống xét nghiệm có độ chính xác cao nhưng cần nhiều ngày để có kết quả.
+
+Xét nghiệm huyết thanh học
+
+Xét nghiệm huyết thanh (miễn dịch hoặc sinh hóa) có thể được sử dụng để phát hiện đáp ứng dịch thể, đặc biệt là kháng thể được sản sinh ra để đáp ứng với các kháng nguyên được giải phóng từ tác nhân truyền nhiễm hoặc chống lại chính các kháng nguyên đó (ví dụ: các kháng nguyên liên quan đến giang mai hoặc cryptococcus).
+
+Phương pháp sắc ký
+
+Các thành phần vi khuẩn hoặc các sản phẩm do vi khuẩn sản xuất ra được tách riêng và xác định bằng sắc ký lỏng cao áp (HPLC) hoặc sắc ký khí. Thông thường, nhận dạng bằng cách so sánh một acid béo của vi khuẩn với cơ sở dữ liệụ có sẵn.
+
+Các phương pháp sắc ký có thể được sử dụng để xác định vi khuẩn hiếu khí và kị khí, mycobacteria và nấm. Độ chính xác của xét nghiệm phụ thuộc vào điều kiện sử dụng để nuôi cấy bệnh phẩm và chất lượng của cơ sở dữ liệu - cơ sở có thể không chính xác hoặc không đầy đủ.
+
+Phương pháp khối phổ
+
+Quang phổ khối có thể phát hiện các protein khác nhau với khối lượng khác nhau trong một bệnh phẩm. Các mầm bệnh cụ thể có các protein đặc biệt, và khối lượng tương đối và sự phong phú của mỗi protein sẽ được sử dụng để xác định một vi sinh vật. Đo phổ khối là một trong số nhiều công nghệ tiên tiến đang được phát triển để phát hiện và xác định các tác nhân chiến tranh sinh học và khủng bố sinh học. Tuy nhiên, phương pháp này có hạn chế vì không giống như một số
+
+phương pháp dựa trên axit nucleic
+
+, nó không dễ dàng triển khai ngoài thực địa.
+
+Hiện tại, một dạng quang phổ khối được gọi là ion hoá thời gian giải phóng laze hỗ trợ (MALDI-TOF) đang được sử dụng để xác định vi khuẩn (bao gồm cả mycobacteria), nấm men, nấm mốc và các virus tiềm ẩn. Ưu điểm của phương pháp này là các vi sinh vật có thể được xác định trong < 1 giờ; các phương pháp truyền thống có thể cần từ 24 đến 48 giờ.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

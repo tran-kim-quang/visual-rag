@@ -1,0 +1,685 @@
+TIÊU ĐỀ: Tổng quan về nhiễm Rickettsia và nhiễm trùng tương tự
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/bệnh-do-rickettsia-và-các-sinh-vật-có-liên-quan/tổng-quan-về-nhiễm-rickettsia-và-nhiễm-trùng-tương-tự
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về nhiễm Rickettsia và nhiễm trùng tương tự
+
+Theo
+
+William A. Petri, Jr
+
+,
+
+MD, PhD
+
+,
+
+University of Virginia School of Medicine
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 1 2024
+
+|
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1008872_vi
+
+Bệnh rickettsial (rickettsioses) và các bệnh liên quan (anaplasmosis, ehrlichiosis, sốt Q, sốt mò) gây ra do nhiễm các cầu trực khuẩn gram âm ký sinh nội bào bắt buộc. Tất cả các vi sinh vật trong nhóm này, ngoại trừ
+
+Coxiella burnetii
+
+, có vector truyền bệnh do côn trùng chân đốt. Các triệu chứng thường bao gồm sốt khởi phát đột ngột kèm theo đau đầu dữ dội, khó chịu, mệt mỏi và phát ban đặc trưng trong đa số các trường hợp. Chẩn đoán dựa vào lâm sàng, chẩn đoán xác định bằng phương pháp miễn dịch huỳnh quang hoặc PCR. Điều trị bậc một là bằng doxycycline.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Rickettsia
+
+,
+
+Orientia
+
+,
+
+Ehrlichia
+
+,
+
+Anaplasma
+
+, và các loài
+
+Coxiella
+
+đã từng được cho là thuộc cùng một họ nhưng bây giờ, dựa trên phân tích di truyền, chúng thuộc các họ khác nhau. Mặc dù nhóm sinh vật này đòi hỏi các tế bào sống để phát triển, nhưng chúng vẫn là vi khuẩn thực sự bởi vì chúng có các enzyme cần thiết cho sự chuyển hóa và vách tế bào, sử dụng oxy và nhạy cảm với kháng sinh.
+
+Những sinh vật này thường có vật chủ chính là động vật và động vật chân đốt là vector truyền bệnh; ngoại trừ
+
+R. prowazekii
+
+, có con người là vật chủ chính, và
+
+C. burnetii
+
+không đòi hỏi một vector động vật chân đốt. Đối với một số sinh vật (ví dụ:
+
+R. rickettsii
+
+và các bệnh rickettsia sốt đốm khác và
+
+R. akari
+
+,
+
+R. felis
+
+và
+
+Orientia
+
+), vật truyền bệnh cũng là ổ chứa và sự phân bố địa lý của các bệnh rickettsia này được xác định bởi loài động vật chân đốt bị nhiễm bệnh. Các vectơ cụ thể, ổ chứa và vùng lưu hành rất khác nhau (xem bảng
+
+Các bệnh do Rickettsia, Orientia, Ehrlichia, Anaplasma và Coxiella gây ra
+
+).
+
+Có rất nhiều loài rickettsial, nhưng 3 loài gây ra hầu hết các bệnh nhiễm khuẩn ở người bao gồm:
+
+R. rickettsii
+
+R. prowazekii
+
+R. typhi
+
+Bảng
+
+Bệnh do các loài
+
+Rickettsia, Orientia, Ehrlichia, Anaplasma và Coxiella
+
+Bảng
+
+Bệnh do các loài
+
+Rickettsia, Orientia, Ehrlichia, Anaplasma và Coxiella
+
+Bệnh do các loài <i >Rickettsia, Orientia, Ehrlichia, Anaplasma và Coxiella</i>
+
+Dịch bệnh
+
+Sinh vật
+
+Ban hoặc Eschar
+
+Vector
+
+Vùng dịch tễ
+
+Sốt phát ban
+
+Sốt phát ban dịch tễ
+
+,
+
+Bệnh Brill-Zinsser
+
+Rickettsia prowazekii
+
+Thân mình đến chân tay
+
+Có thể vắng mặt trong bệnh Brill-Zinsser
+
+Không có eschar
+
+Cơ thể chấy, rận
+
+Trên toàn thế giới
+
+Sốt ban do chuột
+
+R. typhi
+
+,
+
+R. felis
+
+Thân mình đến chân tay
+
+Không có eschar
+
+Bọ chét chuột, bọ chét mèo
+
+Trên toàn thế giới
+
+Sốt mò
+
+Sốt mò
+
+(bệnh tsutsugamushi)
+
+Orientia tsutsugamushi
+
+(trước kia được gọi là
+
+R. tsutsugamushi
+
+)
+
+Thân mình đến chân tay
+
+Hiện diện Eschar
+
+Ấu trùng ve mò (Chiggers)
+
+Khu vực Châu Á Thái Bình Dương với phạm vi là Nhật Bản, Hàn Quốc, Trung Quốc, Ấn Độ và Bắc Úc
+
+Sốt đốm
+
+Sốt phát ban Rocky Mountain
+
+R. rickettsii
+
+Phát ban từ chân tay đến thân mình
+
+Không có eschar
+
+Bọ Ixodid (cứng), bao gồm
+
+Dermacentor andersoni
+
+(bọ gỗ), chủ yếu ở miền Tây Hoa Kỳ và
+
+D. variabilis
+
+(ve chó), chủ yếu ở miền Đông và miền Nam Hoa Kỳ
+
+Tây bán cầu, bao gồm hầu hết Hoa Kỳ (trừ Maine, Hawaii và Alaska); Trung tâm và nam Mỹ
+
+Rickettsiosis bọ cánh cứng ở Bắc Á
+
+R. sibirica
+
+Thân mình, tứ chi, mặt
+
+Hiện diện nhiều eschar
+
+Ve cứng
+
+Trung Á, Siberia, Mông Cổ, Trung Quốc
+
+Sốt phát ban Queensland
+
+R. australis
+
+Thân mình, tứ chi, mặt
+
+Hiện diện Eschar
+
+Ve cứng
+
+Úc
+
+Sốt ve đốt châu Phi
+
+R. africae
+
+Nhiều eschars trên tay chân tại các vị trí ve đốt
+
+Ve cứng
+
+Châu Phi Hạ Sahara, Tây Ấn
+
+Sốt phát ban Địa Trung Hải (sốt boutonneuse)*
+
+R. conorii
+
+Thân mình, tứ chi, mặt
+
+Hiện diện Eschar
+
+Rhipicephalus sanguineus
+
+(Ve chó nâu)
+
+Châu Phi; Ấn Độ; Nam Âu; Trung Đông tiếp giáp biển Địa Trung Hải, Biển Đen và Biển Caspian
+
+Rickettsialpox
+
+R. akari
+
+Thân mình, tứ chi, mặt
+
+Hiện diện Eschar
+
+Mạt
+
+Hoa Kỳ, Nga, Hàn Quốc, Châu Phi
+
+Nhiễm Rickettsia do
+
+R. parkeri
+
+R. parkeri
+
+Hiện diện Eschar
+
+Ve vùng Gulf Coast (
+
+Amblyomma maculatum
+
+)
+
+Miền Nam Hoa Kỳ, Nam Mỹ
+
+Sốt ve ở Bờ biển Thái Bình Dương
+
+R. philipii (364D)
+
+Hiện diện Eschar
+
+Bệnh nhẹ
+
+Ve bờ biển Thái Bình Dương (
+
+Dermacentor Occidentalis
+
+)
+
+California
+
+Ehrlichiosis và anaplasmosis
+
+Ehrlichiosis ái tính bạch cầu mono
+
+Ehrlichia chaffeensis
+
+Không phổ biến nhưng thường gặp hơn ở trẻ em
+
+Không có eschar
+
+Ve (
+
+A. americanum
+
+, còn được gọi là ve ngôi sao đơn độc)
+
+Đông Nam và Nam Trung Bộ Hoa Kỳ
+
+Anaplasmosis ái tính bạch cầu hạt
+
+Anaplasma phagocytophilum
+
+không
+
+Không có eschar
+
+Ve (
+
+Ixodes scapularis
+
+ở phía đông và miền Trung Tây Hoa Kỳ,
+
+I. pacificus
+
+ở miền tây Hoa Kỳ, có thể
+
+I. ricinus
+
+ở châu Âu)
+
+Ở Hoa Kỳ, vùng Đông Bắc, giữa Đại Tây Dương, thượng Trung Tây và Bờ Tây; Châu Âu
+
+Sốt Q
+
+Sốt Q
+
+Coxiella burnetii
+
+Hiếm nhưng phổ biến hơn ở trẻ em
+
+Không có eschar
+
+Không cần vector truyền bệnh
+
+Trên toàn thế giới
+
+* Thường được biết đến theo khu vực xảy ra (ví dụ, sốt mò Ấn Độ, sốt Marseilles).
+
+* Thường được biết đến theo khu vực xảy ra (ví dụ, sốt mò Ấn Độ, sốt Marseilles).
+
+Các triệu chứng và dấu hiệu của nhiễm Rickettsia
+
+Rickettsiae nhân lên ở vị trí gắn của động vật chân đốt và thường gây ra tổn thương cục bộ (eschar). Chúng xâm nhập vào da hoặc màng nhầy; một số (
+
+R. rickettsii
+
+) nhân lên trong tế bào nội mô của các mạch máu nhỏ, gây viêm mạch, và các loài khác nhân lên trong các bạch cầu (các loài
+
+Ehrlichia
+
+trong bạch cầu mono, các loài
+
+Anaplasma
+
+trong bạch cầu hạt).
+
+Các triệu chứng thường bao gồm sốt khởi phát đột ngột kèm theo đau đầu dữ dội, khó chịu, mệt mỏi và phát ban đặc trưng trong đa số các trường hợp.
+
+Bệnh hạch bạch huyết khu vực phổ biến với nhiễm trùng do các loài
+
+Orientia
+
+hoặc các loài thuộc nhóm sốt phát ban (ngoại trừ
+
+R. rickettsii
+
+).
+
+Viêm nội mạc mạch máu do
+
+R. rickettsii
+
+gây ra ban xuất huyết (bởi vì sự xuất huyết ở vùng tổn thương), dấu hiệu viêm não, hoại tử da và mô.
+
+Trong nhiễm rickettsia có sốt phát ban nghiêm trọng, bệnh nhân có thể có hoại tử da, phù nề (do tăng tính thấm mạch máu), hoại tử ngón, suy tuần hoàn, sốc, thiểu niệu, vô niệu,thiếu máu, tăng ure máu, hạ natri máu, hạ kali máu, sảng, và hôn mê.
+
+Chẩn đoán Rickettsial và các bệnh nhiễm trùng liên quan
+
+Bệnh sử và khám lâm sàng
+
+Nhuộm huỳnh quang kháng thể với mảnh sinh thiết vị trí phát ban để phát hiện các sinh vật
+
+Xét nghiệm huyết thanh học trong giai đoạn cấp tính và cả giai đoạn hồi phục (xét nghiệm huyết thanh học không có giá trị trong chẩn đoán bệnh cấp tính)
+
+Phản ứng chuỗi Polymerase (PCR)
+
+Phân biệt rickettsial với các bệnh nhiễm trùng khác
+
+Rickettsial và các bệnh liên quan phải được phân biệt với các nhiễm trùng cấp tính khác, chủ yếu là nhiễm não mô cầu, sởi đức, và rubella. Tiền sử liên quan đến chấy rận hoặc bọ chét, vết ve đốt, hoặc hiện diện trong một khu vực lưu hành của bệnh được biết đến là hữu ích, nhưng thường không khai thác được. Các bác sĩ lâm sàng nên đặc biệt hỏi về việc đi đến một vùng lưu hành trong thời kỳ ủ bệnh.
+
+Các đặc điểm lâm sàng có thể giúp phân biệt bệnh:
+
+Nhiễm khuẩn máu do não mô cầu
+
+:
+
+Phát ban có thể có màu hồng, chấm, ban dát sẩn, hoặc petechial ở dạng subacute và ban xuất huyết dạng mảng hoặc ecchymotic ở dạng fulminant. Phát ban phát triển nhanh chóng trong bệnh viêm màng não do não mô cầu và nôn thường xuất hiện khi thay đổi tư thế.
+
+Bệnh sởi
+
+:
+
+Phát ban bắt đầu trên mặt, lan rộng đến ngực, lưng và cánh tay, và sớm tiến triển tạo thành các mảng.
+
+Rubella
+
+:
+
+Phát ban thường là các ban nhỏ rời rạc. Phát ban thường là các ban nhỏ rời rạc Sự phát triển các hạch bạch huyết sau tai và thiếu tính độc hại gợi ý bệnh sởi Đức.
+
+Nhiễm khuẩn máu do não mô cầu, Rubeola và Rubella
+
+Nhiễm khuẩn máu do não mô cầu
+
+Nhiễm khuẩn máu do não mô cầu tối cấp ban đầu gây ra các chấm xuất huyết, phát triển thành đám và nhanh chóng tiến triển thành các vết bầm máu.
+
+... đọc thêm
+
+Ảnh do bác sĩ Gust cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Rubeola (phát ban dạng dát)
+
+Rubeola (bệnh sởi) có biểu hiện là phát ban dạng dát lan tỏa thành đám.
+
+Hình ảnh do bác sĩ Heinz F. Eichenwald, Bệnh viện New York và Trung tâm Y tế Cornell cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Rubella
+
+Rubella có biểu hiện là phát ban lan tỏa bao gồm các dát dạng chấm nhỏ, rời rạc không kết lại với nhau.
+
+Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Nhiễm khuẩn máu do não mô cầu
+
+Nhiễm khuẩn máu do não mô cầu tối cấp ban đầu gây ra các chấm xuất huyết, phát triển thành đám và nhanh chóng tiến triển thành các vết bầm máu.
+
+... đọc thêm
+
+Ảnh do bác sĩ Gust cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Rubeola (phát ban dạng dát)
+
+Rubeola (bệnh sởi) có biểu hiện là phát ban dạng dát lan tỏa thành đám.
+
+Hình ảnh do bác sĩ Heinz F. Eichenwald, Bệnh viện New York và Trung tâm Y tế Cornell cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Rubella
+
+Rubella có biểu hiện là phát ban lan tỏa bao gồm các dát dạng chấm nhỏ, rời rạc không kết lại với nhau.
+
+Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Phân biệt giữa các bệnh rickettsial
+
+Bệnh Rickettsial cũng cần phải được phân biệt với nhau. Các đặc điểm lâm sàng cho phép phân biệt một số, nhưng chồng chéo là đáng kể:
+
+Sốt phát ban Rocky Mountain
+
+(RMSF):
+
+Phát ban thường xuất hiện vào khoảng ngày sốt thứ tư và xuất hiện dưới dạng các ban trắng, ban đầu ở cổ tay và cổ chân. Sau đó, ban lan ra các bộ phận còn lại và dần dần trở thành ban xuất huyết khi lan ra thân, lòng bàn tay và lòng bàn chân trong vài ngày. Một số bệnh nhân RMSF không phát ban. Viêm mạch thường phát triển; nó có thể ảnh hưởng đến da, mô dưới da, hệ thống thần kinh trung ương, phổi, tim, thận, gan, hoặc lách.
+
+Sốt phát ban dịch tễ
+
+:
+
+Phát ban ban đầu xuất hiện ban đầu ở các nếp gấp nách và trên thân. Sau đó, nó lan rộng ra ngoại vi, hiếm khi tiến triển đến lòng bàn tay, bàn chân, và mặt. Các bất thường nghiêm trọng về sinh lý học và sinh bệnh học xảy ra tương tự như của RMSF.
+
+Sốt ban do chuột
+
+:
+
+Phát ban này không phải ban xuất huyết, không phồng rộp, và không lan rộng, và các biến chứng về thận và mạch máu không phổ biến.
+
+Sốt mò
+
+:
+
+Các biểu hiện cũng tương tự như các biểu hiện của RMSF và sốt phát ban dịch tễ. Tuy nhiên, sốt mò xảy ra ở các khu vực địa lý khác nhau, và thường xuyên phát hiện một eschar.
+
+Rickettsialpox
+
+:
+
+Bệnh này nhẹ, và phát ban, dưới dạng túi có xung quanh ban đỏ, là thưa và có thể giống như
+
+thủy đậu
+
+.
+
+Sốt ve đốt châu Phi
+
+(do
+
+R. africae
+
+): Triệu chứng tương tự như các bệnh khác của rickettsial. Phát ban này có đặc điểm là có nhiều vết xước đen ở ngoại vi với hoại tử vùng.
+
+Sốt phát ban Rocky Mountain
+
+Hình ảnh
+
+Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Sốt phát ban bụi rậm
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Yoshiki Taniguchi cung cấp. Theo Taniguchi, Y: Mảng mô chết đóng vảy, sốt và phát ban ở một người đàn ông 43 tuổi.
+
+Dermatology Online Journal
+
+3(2), 1997.
+
+Xét nghiệm
+
+Kiến thức về cư trú và du lịch gần đây thường giúp chẩn đoán vì nhiều rickettsiae xuất hiện mang tính địa phương liên quan đến một số khu vực địa lý nhất định. Tuy nhiên, xét nghiệm thường được yêu cầu để chẩn đoán xác định.
+
+Các xét nghiệm hữu ích nhất cho
+
+R. rickettsii
+
+là xét nghiệm miễn dịch huỳnh quang gián tiếp (IFA) và phản ứng chuỗi polymerase (PCR) của mẫu sinh thiết của phát ban. Cấy tìm Rickettsia rất khó và không hữu ích về mặt lâm sàng. Đối với các loài
+
+Ehrlichia
+
+, PCR huyết thanh là xét nghiệm tốt nhất. Xét nghiệm huyết thanh học không hữu ích cho chẩn đoán cấp tính bởi vì chúng chỉ thường dương tính trong thời kỳ hồi phục.
+
+Điều trị nhiễm Rickettsia và các bệnh nhiễm trùng liên quan
+
+Tetracyclines
+
+Do các xét nghiệm chẩn đoán có thể mất thời gian và có thể không nhạy cảm nên kháng sinh thường bắt đầu theo kinh nghiệm để ngăn ngừa sự tiến triển nặng, tử vong và kéo dài thời gian hồi phục.
+
+Tetracyclines
+
+là phương pháp điều trị bước đầu: doxycycline cho đến khi bệnh nhân cải thiện, hết sốt trong 24 tiếng đến 48 tiếng và đã được điều trị ít nhất 7 ngày. Các chế phẩm đường tĩnh mạch được dùng cho bệnh nhân quá yếu không thể dùng được đường uống. Mặc dù một số tetracycline có thể gây ố răng ở trẻ em < 8 tuổi,
+
+Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC)
+
+và các cơ quan khác nhận thấy rằng có thể sử dụng
+
+doxycycline
+
+trong thời gian ngắn (5 ngày đến 10 ngày, như được sử dụng cho bệnh rickettsial) ở trẻ em. không gây ố răng hay làm suy yếu men răng (
+
+1
+
+). Doxycycline điều trị bệnh do rickettsia ở trẻ em mọi lứa tuổi được Viện Hàn lâm Nhi khoa Hoa Kỳ và các chuyên gia khác khuyên dùng (xem
+
+The American Academy of Pediatrics Red Book
+
+). Đối với những bệnh nhân không dung nạp doxycycline, nên giải mẫn cảm.
+
+Cloramphenicol
+
+là điều trị bước hai khi không thể sử dụng doxycycline.
+
+Chloramphenicol
+
+không có ở Hoa Kỳ và việc dùng để tiêm bắp không hiệu quả.
+
+Chloramphenicol
+
+có thể gây ra các tác dụng phụ về huyết học, đòi hỏi phải theo dõi các chỉ số máu.
+
+Cả hai loại thuốc này đều có tính chất kìm rickettsia, không có tác dụng diệt rickettsia.
+
+Ciprofloxacin và các fluoroquinolon khác
+
+có hiệu quả in vitro đối với một số loại rickettsiae, nhưng rất ít kinh nghiệm lâm sàng hỗ trợ việc sử dụng fluoroquinolon cho RMSF.
+
+Bởi vì những bệnh nhân bị RMSF nặng hoặc sốt phát ban dịch tễ nặng có thể có tăng rõ rệt tính thấm mao mạch ở giai đoạn sau, nên truyền dịch đường tĩnh mạch thật thận trọng để duy trì huyết áp đồng thời tránh làm tình trạng phù phổi và phù não trở nên trầm trọng hơn.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Todd SR, Dahlgren FS, Traeger MS, et al
+
+: No visible dental staining in children treated with
+
+doxycycline
+
+for suspected Rocky Mountain Spotted Fever.
+
+J Pediatr
+
+166(5):1246-51, 2015 doi: 10.1016/j.jpeds.2015.02.015
+
+Những điểm chính
+
+Bệnh Rickettsial và các bệnh liên quan (bệnh anaplasmosis, bệnh ehrlichiosis, sốt Q, sốt mò) là bệnh do một nhóm vi khuẩn gram âm, ký sinh nội bào; tất cả, ngoại trừ
+
+Coxiella burnetii
+
+, có vector truyền bệnh là động vật chân đốt.
+
+Bệnh Rickettsial gây ra sốt, và tùy thuộc vào bệnh, đôi khi là tổn thương cục bộ (eschar), nổi ban đỏ, nổi hạch bạch huyết vùng, viêm não, viêm mạch máu, hoại tử da và mô, suy tạng và suy tuần hoàn.
+
+Phân biệt bệnh do rickettsia và các bệnh liên quan với các bệnh nhiễm trùng cấp tính khác và với nhau dựa trên bệnh sử, dấu hiệu điển hình khi khám và kết quả xét nghiệm (ví dụ: sinh thiết bằng xét nghiệm miễn dịch huỳnh quang gián tiếp, xét nghiệm huyết thanh học, PCR).
+
+Điều trị bằng kháng sinh theo kinh nghiệm, không chờ đợi kết quả xét nghiệm chẩn đoán, để ngăn ngừa sự nặng lên, tử vong và kéo dài thời gian hồi phục.
+
+Điều trị bậc một là bằng doxycycline.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các triệu chứng và dấu hiệu của nhiễm Rickettsia ---
+
+Rickettsiae nhân lên ở vị trí gắn của động vật chân đốt và thường gây ra tổn thương cục bộ (eschar). Chúng xâm nhập vào da hoặc màng nhầy; một số (R. rickettsii) nhân lên trong tế bào nội mô của các mạch máu nhỏ, gây viêm mạch, và các loài khác nhân lên trong các bạch cầu (các loàiEhrlichiatrong bạch cầu mono, các loàiAnaplasmatrong bạch cầu hạt).Các triệu chứng thường bao gồm sốt khởi phát đột ngột kèm theo đau đầu dữ dội, khó chịu, mệt mỏi và phát ban đặc trưng trong đa số các trường hợp.Bệnh hạch bạch huyết khu vực phổ biến với nhiễm trùng do các loàiOrientiahoặc các loài thuộc nhóm sốt phát ban (ngoại trừR. rickettsii).Viêm nội mạc mạch máu doR. rickettsiigây ra ban xuất huyết (bởi vì sự xuất huyết ở vùng tổn thương), dấu hiệu viêm não, hoại tử da và mô.Trong nhiễm rickettsia có sốt phát ban nghiêm trọng, bệnh nhân có thể có hoại tử da, phù nề (do tăng tính thấm mạch máu), hoại tử ngón, suy tuần hoàn, sốc, thiểu niệu, vô niệu,thiếu máu, tăng ure máu, hạ natri máu, hạ kali máu, sảng, và hôn mê.
+
+--- 2. Chẩn đoán Rickettsial và các bệnh nhiễm trùng liên quan ---
+
+Bệnh sử và khám lâm sàngNhuộm huỳnh quang kháng thể với mảnh sinh thiết vị trí phát ban để phát hiện các sinh vậtXét nghiệm huyết thanh học trong giai đoạn cấp tính và cả giai đoạn hồi phục (xét nghiệm huyết thanh học không có giá trị trong chẩn đoán bệnh cấp tính)Phản ứng chuỗi Polymerase (PCR)Phân biệt rickettsial với các bệnh nhiễm trùng khácRickettsial và các bệnh liên quan phải được phân biệt với các nhiễm trùng cấp tính khác, chủ yếu là nhiễm não mô cầu, sởi đức, và rubella. Tiền sử liên quan đến chấy rận hoặc bọ chét, vết ve đốt, hoặc hiện diện trong một khu vực lưu hành của bệnh được biết đến là hữu ích, nhưng thường không khai thác được. Các bác sĩ lâm sàng nên đặc biệt hỏi về việc đi đến một vùng lưu hành trong thời kỳ ủ bệnh.Các đặc điểm lâm sàng có thể giúp phân biệt bệnh:Nhiễm khuẩn máu do não mô cầu:Phát ban có thể có màu hồng, chấm, ban dát sẩn, hoặc petechial ở dạng subacute và ban xuất huyết dạng mảng hoặc ecchymotic ở dạng fulminant. Phát ban phát triển nhanh chóng trong bệnh viêm màng não do não mô cầu và nôn thường xuất hiện khi thay đổi tư thế.Bệnh sởi:Phát ban bắt đầu trên mặt, lan rộng đến ngực, lưng và cánh tay, và sớm tiến triển tạo thành các mảng.Rubella:Phát ban thường là các ban nhỏ rời rạc. Phát ban thường là các ban nhỏ rời rạc Sự phát triển các hạch bạch huyết sau tai và thiếu tính độc hại gợi ý bệnh sởi Đức.Nhiễm khuẩn máu do não mô cầu, Rubeola và RubellaNhiễm khuẩn máu do não mô cầuNhiễm khuẩn máu do não mô cầu tối cấp ban đầu gây ra các chấm xuất huyết, phát triển thành đám và nhanh chóng tiến triển thành các vết bầm máu.... đọc thêmẢnh do bác sĩ Gust cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Rubeola (phát ban dạng dát)Rubeola (bệnh sởi) có biểu hiện là phát ban dạng dát lan tỏa thành đám.Hình ảnh do bác sĩ Heinz F. Eichenwald, Bệnh viện New York và Trung tâm Y tế Cornell cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.RubellaRubella có biểu hiện là phát ban lan tỏa bao gồm các dát dạng chấm nhỏ, rời rạc không kết lại với nhau.Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Nhiễm khuẩn máu do não mô cầuNhiễm khuẩn máu do não mô cầu tối cấp ban đầu gây ra các chấm xuất huyết, phát triển thành đám và nhanh chóng tiến triển thành các vết bầm máu.... đọc thêmẢnh do bác sĩ Gust cung cấp thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Rubeola (phát ban dạng dát)Rubeola (bệnh sởi) có biểu hiện là phát ban dạng dát lan tỏa thành đám.Hình ảnh do bác sĩ Heinz F. Eichenwald, Bệnh viện New York và Trung tâm Y tế Cornell cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.RubellaRubella có biểu hiện là phát ban lan tỏa bao gồm các dát dạng chấm nhỏ, rời rạc không kết lại với nhau.Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Phân biệt giữa các bệnh rickettsialBệnh Rickettsial cũng cần phải được phân biệt với nhau. Các đặc điểm lâm sàng cho phép phân biệt một số, nhưng chồng chéo là đáng kể:Sốt phát ban Rocky Mountain(RMSF):Phát ban thường xuất hiện vào khoảng ngày sốt thứ tư và xuất hiện dưới dạng các ban trắng, ban đầu ở cổ tay và cổ chân. Sau đó, ban lan ra các bộ phận còn lại và dần dần trở thành ban xuất huyết khi lan ra thân, lòng bàn tay và lòng bàn chân trong vài ngày. Một số bệnh nhân RMSF không phát ban. Viêm mạch thường phát triển; nó có thể ảnh hưởng đến da, mô dưới da, hệ thống thần kinh trung ương, phổi, tim, thận, gan, hoặc lách.Sốt phát ban dịch tễ:Phát ban ban đầu xuất hiện ban đầu ở các nếp gấp nách và trên thân. Sau đó, nó lan rộng ra ngoại vi, hiếm khi tiến triển đến lòng bàn tay, bàn chân, và mặt. Các bất thường nghiêm trọng về sinh lý học và sinh bệnh học xảy ra tương tự như của RMSF.Sốt ban do chuột:Phát ban này không phải ban xuất huyết, không phồng rộp, và không lan rộng, và các biến chứng về thận và mạch máu không phổ biến.Sốt mò:Các biểu hiện cũng tương tự như các biểu hiện của RMSF và sốt phát ban dịch tễ. Tuy nhiên, sốt mò xảy ra ở các khu vực địa lý khác nhau, và thường xuyên phát hiện một eschar.Rickettsialpox:Bệnh này nhẹ, và phát ban, dưới dạng túi có xung quanh ban đỏ, là thưa và có thể giống nhưthủy đậu.Sốt ve đốt châu Phi(doR. africae): Triệu chứng tương tự như các bệnh khác của rickettsial. Phát ban này có đặc điểm là có nhiều vết xước đen ở ngoại vi với hoại tử vùng.Sốt phát ban Rocky MountainHình ảnhHình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Sốt phát ban bụi rậmHình ảnhHình ảnh do bác sĩ Yoshiki Taniguchi cung cấp. Theo Taniguchi, Y: Mảng mô chết đóng vảy, sốt và phát ban ở một người đàn ông 43 tuổi.Dermatology Online Journal3(2), 1997.Xét nghiệmKiến thức về cư trú và du lịch gần đây thường giúp chẩn đoán vì nhiều rickettsiae xuất hiện mang tính địa phương liên quan đến một số khu vực địa lý nhất định. Tuy nhiên, xét nghiệm thường được yêu cầu để chẩn đoán xác định.Các xét nghiệm hữu ích nhất choR. rickettsiilà xét nghiệm miễn dịch huỳnh quang gián tiếp (IFA) và phản ứng chuỗi polymerase (PCR) của mẫu sinh thiết của phát ban. Cấy tìm Rickettsia rất khó và không hữu ích về mặt lâm sàng. Đối với các loàiEhrlichia, PCR huyết thanh là xét nghiệm tốt nhất. Xét nghiệm huyết thanh học không hữu ích cho chẩn đoán cấp tính bởi vì chúng chỉ thường dương tính trong thời kỳ hồi phục.
+
+--- 3. Điều trị nhiễm Rickettsia và các bệnh nhiễm trùng liên quan ---
+
+TetracyclinesDo các xét nghiệm chẩn đoán có thể mất thời gian và có thể không nhạy cảm nên kháng sinh thường bắt đầu theo kinh nghiệm để ngăn ngừa sự tiến triển nặng, tử vong và kéo dài thời gian hồi phục.Tetracyclineslà phương pháp điều trị bước đầu: doxycycline cho đến khi bệnh nhân cải thiện, hết sốt trong 24 tiếng đến 48 tiếng và đã được điều trị ít nhất 7 ngày. Các chế phẩm đường tĩnh mạch được dùng cho bệnh nhân quá yếu không thể dùng được đường uống. Mặc dù một số tetracycline có thể gây ố răng ở trẻ em < 8 tuổi,Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC)và các cơ quan khác nhận thấy rằng có thể sử dụngdoxycyclinetrong thời gian ngắn (5 ngày đến 10 ngày, như được sử dụng cho bệnh rickettsial) ở trẻ em. không gây ố răng hay làm suy yếu men răng (1). Doxycycline điều trị bệnh do rickettsia ở trẻ em mọi lứa tuổi được Viện Hàn lâm Nhi khoa Hoa Kỳ và các chuyên gia khác khuyên dùng (xemThe American Academy of Pediatrics Red Book). Đối với những bệnh nhân không dung nạp doxycycline, nên giải mẫn cảm.Cloramphenicollà điều trị bước hai khi không thể sử dụng doxycycline.Chloramphenicolkhông có ở Hoa Kỳ và việc dùng để tiêm bắp không hiệu quả.Chloramphenicolcó thể gây ra các tác dụng phụ về huyết học, đòi hỏi phải theo dõi các chỉ số máu.Cả hai loại thuốc này đều có tính chất kìm rickettsia, không có tác dụng diệt rickettsia.Ciprofloxacin và các fluoroquinolon kháccó hiệu quả in vitro đối với một số loại rickettsiae, nhưng rất ít kinh nghiệm lâm sàng hỗ trợ việc sử dụng fluoroquinolon cho RMSF.Bởi vì những bệnh nhân bị RMSF nặng hoặc sốt phát ban dịch tễ nặng có thể có tăng rõ rệt tính thấm mao mạch ở giai đoạn sau, nên truyền dịch đường tĩnh mạch thật thận trọng để duy trì huyết áp đồng thời tránh làm tình trạng phù phổi và phù não trở nên trầm trọng hơn.Tài liệu tham khảo về điều trị1.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated withdoxycyclinefor suspected Rocky Mountain Spotted Fever.J Pediatr166(5):1246-51, 2015 doi: 10.1016/j.jpeds.2015.02.015
+
+--- 4. Những điểm chính ---
+
+Bệnh Rickettsial và các bệnh liên quan (bệnh anaplasmosis, bệnh ehrlichiosis, sốt Q, sốt mò) là bệnh do một nhóm vi khuẩn gram âm, ký sinh nội bào; tất cả, ngoại trừCoxiella burnetii, có vector truyền bệnh là động vật chân đốt.Bệnh Rickettsial gây ra sốt, và tùy thuộc vào bệnh, đôi khi là tổn thương cục bộ (eschar), nổi ban đỏ, nổi hạch bạch huyết vùng, viêm não, viêm mạch máu, hoại tử da và mô, suy tạng và suy tuần hoàn.Phân biệt bệnh do rickettsia và các bệnh liên quan với các bệnh nhiễm trùng cấp tính khác và với nhau dựa trên bệnh sử, dấu hiệu điển hình khi khám và kết quả xét nghiệm (ví dụ: sinh thiết bằng xét nghiệm miễn dịch huỳnh quang gián tiếp, xét nghiệm huyết thanh học, PCR).Điều trị bằng kháng sinh theo kinh nghiệm, không chờ đợi kết quả xét nghiệm chẩn đoán, để ngăn ngừa sự nặng lên, tử vong và kéo dài thời gian hồi phục.Điều trị bậc một là bằng doxycycline.

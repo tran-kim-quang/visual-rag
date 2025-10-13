@@ -1,0 +1,569 @@
+TIÊU ĐỀ: Ung thư dạ dày
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tiêu-hóa/khối-u-đường-tiêu-hóa/ung-thư-dạ-dày
+================================================================================
+
+NỘI DUNG:
+
+Ung thư dạ dày
+
+Theo
+
+Anthony Villano
+
+,
+
+MD
+
+,
+
+Fox Chase Cancer Center
+
+Xem xét bởi
+
+Minhhuyen Nguyen
+
+,
+
+MD
+
+,
+
+Fox Chase Cancer Center, Temple University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2025
+
+v895682_vi
+
+Căn nguyên của ung thư dạ dày là đa yếu tố, nhưng
+
+Helicobacter pylori
+
+đóng một vai trò quan trọng. Triệu chứng của bệnh bao gồm cảm giác no sớm, chướng bụng và chảy máu nhưng có xu hướng xảy ra muộn. Chẩn đoán bằng nội soi, tiếp theo là chụp CT và siêu âm nội soi để phân giai đoạn bệnh. Điều trị bằng phẫu thuật đôi khi phối hợp với hóa trị hoặc hóa xạ trị. Thời gian sống thêm thường ngắn trừ khi bệnh còn khu trú.
+
+Các yếu tố nguy cơ
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Ung thư biểu mô tuyến dạ dày chiếm 95% số các khối u ác tính của dạ dày; ít phổ biến hơn là
+
+u lympho
+
+dạ dày khu trú,
+
+khối u mô đệm đường tiêu hóa
+
+và sarcom cơ trơn.
+
+Ung thư dạ dày là loại ung thư phổ biến thứ năm trên toàn thế giới, nhưng tỷ lệ mắc bệnh rất khác nhau. Tỷ lệ mắc bệnh cực kỳ cao ở Đông Á (Mông Cổ có tỷ lệ mắc bệnh cao nhất) và Đông Âu, và thấp nhất ở Châu Phi (
+
+1
+
+). Ở Hoa Kỳ, tỷ lệ mắc bệnh đã giảm trong những thập kỷ gần đây.
+
+Ung thư dạ dày ước tính chiếm 26.890 ca mắc và 10.880 ca tử vong tại Hoa Kỳ vào năm 2024, khiến ung thư dạ dày trở thành loại ung thư được chẩn đoán phổ biến thứ 16 và là nguyên nhân gây tử vong do ung thư đứng thứ 17 tại Hoa Kỳ (
+
+2
+
+).
+
+Tại Hoa Kỳ, ung thư dạ dày phổ biến nhất ở người da đen, người gốc Tây Ban Nha và người Mỹ gốc Ấn Độ. Its incidence increases with age.
+
+Tài liệu tham khảo
+
+1.
+
+Bray F, Laversanne M, Sung H, et al
+
+. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries.
+
+CA Cancer J Clin.
+
+2024;74(3):229-263. doi:10.3322/caac.21834
+
+2.
+
+Siegel RL, Giaquinto AN, Jemal A
+
+. Cancer statistics, 2024 [published correction appears in
+
+CA Cancer J Clin
+
+. Tháng 3-tháng 4 năm 2024;74(2):203. doi: 10.3322/caac.21830].
+
+CA Cancer J Clin
+
+. 2024;74(1):12-49. doi:10.3322/caac.21820
+
+Căn nguyên của ung thư dạ dày
+
+Các yếu tố nguy cơ của ung thư dạ dày bao gồm:
+
+Nhiễm
+
+Helicobacter pylori
+
+(khi bệnh liên quan đến chuyển sản ruột non dạ dày lan rộng)
+
+Viêm dạ dày teo tự miễn
+
+Hút thuốc (và những người hút thuốc có thể bị suy giảm phản ứng với điều trị)
+
+Polyp dạ dày
+
+Yếu tố di truyền
+
+Yếu tố chế độ ăn uống không được chứng minh là nguyên nhân; tuy nhiên, Cơ quan Nghiên cứu Ung thư Quốc tế (IARC) của Tổ chức Y tế Thế giới (WHO) đã báo cáo mối liên hệ tích cực giữa việc tiêu thụ thịt đã qua chế biến và ung thư dạ dày (
+
+1
+
+).
+
+Polyp dạ dà
+
+y có thể là tiền thân của ung thư. Polyp có viêm có thể phát sinh ở những bệnh nhân dùng thuốc chống viêm không steroid (NSAID) và polyp hố đáy mắt thường gặp ở những bệnh nhân dùng thuốc ức chế bơm proton. Polyp tuyến, đặc biệt là đa polyp, mặc dù hiếm gặp, có nhiều khả năng nhất phát triển thành ung thư. Đặc biệt là có khả năng bị ung thư nếu một polyp tuyến có đường kính
+
+>
+
+2 cm hoặc có mô học hình lông nhung.
+
+Đa dạng
+
+yếu tố di truyền
+
+cũng là các yếu tố nguy cơ. Ung thư dạ dày lan tỏa do di truyền có liên quan đến một đột biến ở gen
+
+cadherin 1
+
+(
+
+CDH1
+
+) và không có tổn thương tiền căn. Đột biến này là một tính trạng gen trội trên nhiễm sắc thể thường với khả năng xâm nhập cao. Những bệnh nhân bị thương tổn thường bị ung thư dạ dày ở độ tuổi sớm (trung bình 38 tuổi) và có nguy cơ mắc ung thư dạ dày trong suốt cuộc đời khoảng 80%. (
+
+2
+
+). Phụ nữ bị bệnh cũng có nguy cơ cao phát triển ung thư vú tiểu thùy. Bệnh nhân có tiền sử cá nhân hoặc gia đình bị ung thư dạ dày lan tỏa và/hoặc ung thư vú tiểu thùy ở nhiều thành viên trong gia đình, đặc biệt là nếu họ được chẩn đoán trước 50 tuổi, nên được giới thiệu để được tư vấn và xét nghiệm di truyền. Cắt dạ dày dự phòng nên được thực hiện cho những người mang đột biến
+
+CDH1
+
+không có triệu chứng ở độ tuổi từ 18 tuổi đến 40 tuổi (
+
+3
+
+). Giám sát ung thư vú bằng MRI vú hàng năm bắt đầu từ 30 tuổi cũng được khuyến nghị đối với những phụ nữ có đột biến
+
+CDH1
+
+(
+
+4
+
+). Có những trường hợp báo cáo về ung thư đại trực tràng ở những người mang đột biến
+
+CDH1
+
+. Dữ liệu không đủ để khuyến nghị sàng lọc ung thư đại tràng cho tất cả người mang mầm bệnh hoặc gia đình họ; tuy nhiên, nếu ung thư đại tràng đã được chẩn đoán ở người mang mầm bệnh, các thành viên trong gia đình họ nên sàng lọc ung thư đại tràng bắt đầu ở tuổi 40 hoặc trẻ hơn 10 tuổi so với thời điểm thành viên trẻ nhất trong gia đình có chẩn đoán (
+
+4
+
+). Các hội chứng di truyền khác có xu hướng dẫn đến ung thư dạ dày bao gồm
+
+bệnh polyp tuyến gia đình
+
+,
+
+hội chứng Lynch
+
+, hội chứng bệnh polyp vị thành niên và
+
+hội chứng Peutz-Jeghers
+
+.
+
+Tài liệu tham khảo về các yếu tố nguy cơ
+
+1.
+
+Bouvard V, Loomis D, Guyton KZ, et al
+
+. Carcinogenicity of consumption of red and processed meat.
+
+Lancet Oncol.
+
+16(16):1599–1600, 2015. doi: 10.1016/S1470-2045(15)00444-1
+
+2.
+
+Pharoah PD, Guilford P, Caldas C; International Gastric Cancer Linkage Consortium
+
+. Incidence of gastric cancer and breast cancer in CDH1 (E-cadherin) mutation carriers from hereditary diffuse gastric cancer families.
+
+Gastroenterology.
+
+121(6):1348-1353, 2001. doi: 10.1053/gast.2001.29611
+
+3.
+
+Shepard B, Yoder L, Holmes C
+
+. Prophylactic total gastrectomy for hereditary diffuse gastric cancer.
+
+ACG Case Rep J.
+
+3(4):e179, 2016. doi: 10.14309/crj.2016.152
+
+4.
+
+van der Post RS, Vogelaar IP, Carneiro F, et al
+
+. Hereditary diffuse gastric cancer: Updated clinical guidelines with an emphasis on germline CDH1 mutation carriers.
+
+J Med Genet.
+
+52(6):361–374, 2015. doi: 10.1136/jmedgenet-2015-103094
+
+Sinh lý bệnh của ung thư dạ dày
+
+Ung thư biểu mô tuyến dạ dày có thể được phân loại:
+
+Dạng lồi: Khối u dạng polyp hoặc dạng nấm.
+
+Thâm nhập: Khối u bị loét.
+
+Lan theo bề mặt: Khối u lan dọc theo niêm mạc hoặc thâm nhiễm bề ngoài trong thành dạ dày.
+
+Ung thư xơ cứng dạ dày: Khối u thâm nhiễm thành dạ dày với phản ứng xơ kèm theo gây ra dạ dày có hình ảnh "cái chai bọc da".
+
+Thể hỗn hợp: Khối u có đặc điểm của
+
+≥
+
+2 loại khác; loại này là phổ biến nhất.
+
+Tiên lượng sẽ tốt hơn với các khối u thể lồi so với các khối u thể lan tỏa vì các khối u thể lồi có triệu chứng sớm hơn.
+
+Ung thư dạ dày
+
+Hình ảnh
+
+Hình ảnh do bác sĩ David M. Martin cung cấp.
+
+Các triệu chứng và dấu hiệu của ung thư dạ dày
+
+Các triệu chứng ban đầu của ung thư dạ dày không đặc hiệu, thường bao gồm
+
+chứng khó tiêu
+
+gợi ý
+
+loét dạ dày
+
+. Bệnh nhân và bác sĩ đều có xu hướng loại bỏ các triệu chứng hoặc điều trị bệnh nhân vì bệnh axit.
+
+Sau đó, cảm giác no sớm (no sau khi ăn một lượng nhỏ thức ăn) có thể xảy ra nếu ung thư làm tắc vùng môn vị hoặc nếu dạ dày không giãn ra được thứ phát sau ung thư xơ cứng dạ dày.
+
+Khó nuốt
+
+có thể xảy ra khi ung thư ở vùng tâm vị của dạ dày cản trở đường ra của thực quản. Mệt mỏi, sụt cân thường do ăn kém và là triệu chứng phổ biến. Nôn máu ồ ạt hoặc đi ngoài phân đen hiếm gặp, tuy nhiên thiếu máu thứ phát có thể xảy ra do mất máu ẩn. Đôi khi, các triệu chứng đầu tiên là do di căn (ví dụ: vàng da, cổ trướng, gãy xương).
+
+Các dấu hiệu thực thể có thể không đáng kể hoặc chỉ giới hạn ở phân dương tính với máu. Ở giai đoạn muộn của diễn biến bệnh, các bất thường bao gồm một khối ở thượng vị; hạch rốn, hạch thượng đòn trái, hoặc hạch nách trái; gan to; và một khối ở buồng trứng hoặc ở trực tràng. Các tổn thương ở phổi, ở hệ thần kinh trung ương và ở xương có thể xảy ra.
+
+Chẩn đoán ung thư dạ dày
+
+Nội soi có sinh thiết
+
+Sau đó chụp CT và siêu âm có nội soi
+
+Chẩn đoán phân biệt
+
+ung thư dạ dày thường bao gồm
+
+loét dạ dày và các biến chứng của nó
+
+.
+
+Bệnh nhân nghi ngờ bị ung thư dạ dày nên có nội soi sinh thiết nhiều mảnh và làm tế bào học bàn chải. Đôi khi, sinh thiết giới hạn ở niêm mạc bỏ lỡ các mô khối u ở dưới niêm mạc. Phim chụp X-quang, đặc biệt là chụp bari chất cản quang kép, có thể cho thấy tổn thương nhưng hiếm khi tránh được việc cần phải nội soi sau đó.
+
+Bệnh nhân được xác định ung thư cần chụp CT ngực và bụng để xác định mức độ lan rộng của khối u. Nếu CT không phát hiện di căn, cần tiến hành siêu âm nội soi để xác định độ sâu của khối u và tình trạng thương tổn hạch bạch huyết vùng. Các kết quả thu được giúp hướng dẫn điều trị và giúp xác định tiên lượng.
+
+Cần thực hiện các xét nghiệm máu cơ bản, bao gồm công thức máu, điện giải và xét nghiệm gan để đánh giá tình trạng thiếu máu, bù nước, tình trạng chung và khả năng di căn gan. Nồng độ kháng nguyên ung thư biểu mô phôi (EA) nên được đánh giá trước và sau phẫu thuật.
+
+Sàng lọc
+
+Sàng lọc bằng nội soi được sử dụng ở những quần thể có nguy cơ cao (ví dụ: người Nhật Bản) nhưng không được khuyến nghị ở Hoa Kỳ.
+
+Sàng lọc theo dõi tái phát ở bệnh nhân được điều trị bao gồm nội soi và chụp CT ngực, bụng và khung chậu.
+
+Điều trị ung thư dạ dày
+
+Phẫu thuật cắt bỏ, đôi khi phối hợp với hóa trị, xạ trị hoặc cả hai (hóa xạ trị)
+
+Quyết định điều trị ung thư dạ dày phụ thuộc vào việc phân giai đoạn khối u và mong muốn của bệnh nhân (một số có thể chọn từ bỏ điều trị tích cực—xem
+
+Chỉ thị trước
+
+).
+
+Phẫu thuật chữa khỏi bệnh bao gồm cắt bỏ hầu hết (cắt bỏ một phần dạ dày) hoặc toàn bộ (cắt bỏ toàn bộ dạ dày) và các hạch bạch huyết lân cận và hợp lý ở những bệnh nhân có bệnh giới hạn ở dạ dày và có thể là các hạch bạch huyết vùng (
+
+<
+
+50% số bệnh nhân) (
+
+1
+
+). Bệnh nhân thường được hóa trị trong thời gian phẫu thuật (tức là trước khi phẫu thuật và sau khi phẫu thuật) thường dùng phác đồ FLOT (5-fluorouracil, leucovorin, oxaliplatin, docetaxel) (
+
+2
+
+).
+
+Đối với những bệnh nhân được cắt bỏ hạch không đầy đủ hoặc bệnh có hạch dương tính hoặc được cắt bỏ không hoàn toàn, hóa trị bổ trợ hoặc hóa xạ trị đôi khi được sử dụng.
+
+Di căn hoặc tổn thương hạch rộng ngăn cản phẫu thuật điều trị, và nhiều nhất là các thủ thuật giảm nhẹ nên được thực hiện. Tuy nhiên, mức độ lây lan thực sự của khối u thường không được công nhận cho đến khi cố gắng phẫu thuật điều trị. Phẫu thuật giảm nhẹ thường bao gồm cắt dạ dày ruột để bỏ qua chỗ tắc ở môn vị, và chỉ nên thực hiện nếu chất lượng cuộc sống của bệnh nhân có thể được cải thiện. Ở những bệnh nhân không trải qua phẫu thuật, các phác đồ hóa trị liệu phối hợp khác nhau (5-fluorouracil, capecitabine, doxorubicin, mitomycin, cisplatin, oxaliplatin, irinotecan, paclitaxel, docetaxel hoặc leucovorin) có thể tạo ra đáp ứng tạm thời và chỉ cải thiện một chút thời gian sống thêm.
+
+Đối với bệnh ở giai đoạn tiến triển với khối u biểu hiện thụ thể yếu tố tăng trưởng biểu bì ở người 2 (HER2+), có thể sử dụng trastuzumab (một kháng thể đơn dòng nhắm đích HER2) hoặc ramucirumab (một loại thuốc ức chế yếu tố tăng trưởng nội mô mạch máu [VEGF]) kết hợp với hóa trị liệu. Liệu pháp miễn dịch như là pembrolizumab hiện có để sử dụng cho những bệnh nhân bị ung thư dạ dày giai đoạn tiến triển hoặc di căn dương tính với phối tử gắn kích hoạt chết tế bào theo chương trình 1 (PD-L1). Thuốc ức chế thụ thể kích hoạt chết tế bào theo chương trình 1 (ví dụ: nivolumab) có sẵn để sử dụng bên ngoài Hoa Kỳ cho bệnh nhân ung thư dạ dày giai đoạn tiến triển. Xạ trị có lợi ích hạn chế đối với bệnh nhân di căn.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Ajani JA, D'Amico TA, Bentrem DJ, et al
+
+. Gastric Cancer, Version 2,2022, NCCN Clinical Practice Guidelines in Oncology.
+
+J Natl Compr Canc Netw.
+
+Tháng 2 năm 2022;20(2):167-192. doi: 10.6004/jnccn.2022.0008
+
+2.
+
+Al-Batran SE, Homann N, Pauligk C, et al
+
+. Perioperative chemotherapy with
+
+fluorouracil
+
+plus
+
+leucovorin
+
+,
+
+oxaliplatin
+
+, and
+
+docetaxel
+
+versus
+
+fluorouracil
+
+or
+
+capecitabine
+
+plus
+
+cisplatin
+
+and
+
+epirubicin
+
+for locally advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): A randomised, phase 2/3 trial.
+
+Lancet.
+
+393(10184):1948-1957, 2019. doi: 10.1016/S0140-6736(18)32557-1
+
+Tiên lượng về bệnh ung thư dạ dày
+
+Tiên lượng phụ thuộc rất nhiều vào giai đoạn bệnh nhưng nhìn chung là xấu (tỷ lệ sống 5 năm:
+
+<
+
+5 đến 15%) vì hầu hết bệnh nhân có biểu hiện khi bệnh tiến triển. Thời gian sống thêm toàn bộ trung vị ở những bệnh nhân được lựa chọn kỹ càng sau hóa trị ở giai đoạn chu phẫu và phẫu thuật có thể lên tới 50 tháng dựa trên các thử nghiệm phân nhóm ngẫu nhiên hiện đại (
+
+1
+
+,
+
+2
+
+). Nếu khối u chỉ giới hạn ở niêm mạc hoặc dưới niêm mạc, tỷ lệ có thời gian sống thêm 5 năm có thể lên tới 95% (
+
+3
+
+). Đối với các khối u gây thương tổn các hạch bạch huyết tại chỗ, thời gian sống thêm tương quan với số lượng hạch bị thương tổn. Bệnh lan rộng hơn hầu như luôn gây tử vong trong vòng 6 tháng đến 12 tháng.
+
+U lympho dạ dày có tiên lượng tốt hơn (xem
+
+U lympho mô dạng bạch huyết liên quan đến niêm mạc (MALT)
+
+và
+
+U lympho không Hodgkin
+
+).
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+Cunningham D, Allum WH, Stenning SP, et al
+
+. Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer.
+
+N Engl J Med.
+
+355(1):11-20, 2006. doi: 10.1056/NEJMoa055531
+
+2.
+
+Al-Batran SE, Homann N, Pauligk C, et al
+
+. Perioperative chemotherapy with
+
+fluorouracil
+
+plus
+
+leucovorin
+
+,
+
+oxaliplatin
+
+, and
+
+docetaxel
+
+versus
+
+fluorouracil
+
+or
+
+capecitabine
+
+plus
+
+cisplatin
+
+and
+
+epirubicin
+
+for locally advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): A randomised, phase 2/3 trial.
+
+Lancet.
+
+393(10184):1948-1957, 2019. doi: 10.1016/S0140-6736(18)32557-1
+
+3.
+
+Zhang J, Zhou Y, Jiang K, et al
+
+. Evaluation of the seventh AJCC TNM staging system for gastric cancer: a meta-analysis of cohort studies.
+
+Tumour Biol.
+
+35(9):8525-8532, 2014. doi: 10.1007/s13277-014-1848-6
+
+Những điểm chính
+
+Nhiễm
+
+Helicobacter pylori
+
+là một yếu tố nguy cơ của một số bệnh ung thư dạ dày.
+
+Các triệu chứng ban đầu không đặc hiệu và thường giống với viêm loét dạ dày.
+
+Sàng lọc bằng nội soi được sử dụng ở những quần thể có nguy cơ cao (ví dụ: người Nhật Bản) nhưng không được khuyến nghị ở Hoa Kỳ.
+
+Phẫu thuật điều trị, có thể kết hợp hóa trị và xạ trị, là hợp lý ở những bệnh nhân có u khu trú tại dạ dày và có lẽ là các hạch bạch huyết vùng.
+
+Nhìn chung, tiên lượng sống thêm thấp (tỷ lệ sống 5 năm: 5 đến 15%) vì nhiều bệnh nhân có biểu hiện bệnh khi bệnh tiến triển.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của ung thư dạ dày ---
+
+Các yếu tố nguy cơ của ung thư dạ dày bao gồm:NhiễmHelicobacter pylori(khi bệnh liên quan đến chuyển sản ruột non dạ dày lan rộng)Viêm dạ dày teo tự miễnHút thuốc (và những người hút thuốc có thể bị suy giảm phản ứng với điều trị)Polyp dạ dàyYếu tố di truyềnYếu tố chế độ ăn uống không được chứng minh là nguyên nhân; tuy nhiên, Cơ quan Nghiên cứu Ung thư Quốc tế (IARC) của Tổ chức Y tế Thế giới (WHO) đã báo cáo mối liên hệ tích cực giữa việc tiêu thụ thịt đã qua chế biến và ung thư dạ dày (1).Polyp dạ dày có thể là tiền thân của ung thư. Polyp có viêm có thể phát sinh ở những bệnh nhân dùng thuốc chống viêm không steroid (NSAID) và polyp hố đáy mắt thường gặp ở những bệnh nhân dùng thuốc ức chế bơm proton. Polyp tuyến, đặc biệt là đa polyp, mặc dù hiếm gặp, có nhiều khả năng nhất phát triển thành ung thư. Đặc biệt là có khả năng bị ung thư nếu một polyp tuyến có đường kính>2 cm hoặc có mô học hình lông nhung.Đa dạngyếu tố di truyềncũng là các yếu tố nguy cơ. Ung thư dạ dày lan tỏa do di truyền có liên quan đến một đột biến ở gencadherin 1(CDH1) và không có tổn thương tiền căn. Đột biến này là một tính trạng gen trội trên nhiễm sắc thể thường với khả năng xâm nhập cao. Những bệnh nhân bị thương tổn thường bị ung thư dạ dày ở độ tuổi sớm (trung bình 38 tuổi) và có nguy cơ mắc ung thư dạ dày trong suốt cuộc đời khoảng 80%. (2). Phụ nữ bị bệnh cũng có nguy cơ cao phát triển ung thư vú tiểu thùy. Bệnh nhân có tiền sử cá nhân hoặc gia đình bị ung thư dạ dày lan tỏa và/hoặc ung thư vú tiểu thùy ở nhiều thành viên trong gia đình, đặc biệt là nếu họ được chẩn đoán trước 50 tuổi, nên được giới thiệu để được tư vấn và xét nghiệm di truyền. Cắt dạ dày dự phòng nên được thực hiện cho những người mang đột biếnCDH1không có triệu chứng ở độ tuổi từ 18 tuổi đến 40 tuổi (3). Giám sát ung thư vú bằng MRI vú hàng năm bắt đầu từ 30 tuổi cũng được khuyến nghị đối với những phụ nữ có đột biếnCDH1(4). Có những trường hợp báo cáo về ung thư đại trực tràng ở những người mang đột biếnCDH1. Dữ liệu không đủ để khuyến nghị sàng lọc ung thư đại tràng cho tất cả người mang mầm bệnh hoặc gia đình họ; tuy nhiên, nếu ung thư đại tràng đã được chẩn đoán ở người mang mầm bệnh, các thành viên trong gia đình họ nên sàng lọc ung thư đại tràng bắt đầu ở tuổi 40 hoặc trẻ hơn 10 tuổi so với thời điểm thành viên trẻ nhất trong gia đình có chẩn đoán (4). Các hội chứng di truyền khác có xu hướng dẫn đến ung thư dạ dày bao gồmbệnh polyp tuyến gia đình,hội chứng Lynch, hội chứng bệnh polyp vị thành niên vàhội chứng Peutz-Jeghers.Tài liệu tham khảo về các yếu tố nguy cơ1.Bouvard V, Loomis D, Guyton KZ, et al. Carcinogenicity of consumption of red and processed meat.Lancet Oncol.16(16):1599–1600, 2015. doi: 10.1016/S1470-2045(15)00444-12.Pharoah PD, Guilford P, Caldas C; International Gastric Cancer Linkage Consortium. Incidence of gastric cancer and breast cancer in CDH1 (E-cadherin) mutation carriers from hereditary diffuse gastric cancer families.Gastroenterology.121(6):1348-1353, 2001. doi: 10.1053/gast.2001.296113.Shepard B, Yoder L, Holmes C. Prophylactic total gastrectomy for hereditary diffuse gastric cancer.ACG Case Rep J.3(4):e179, 2016. doi: 10.14309/crj.2016.1524.van der Post RS, Vogelaar IP, Carneiro F, et al. Hereditary diffuse gastric cancer: Updated clinical guidelines with an emphasis on germline CDH1 mutation carriers.J Med Genet.52(6):361–374, 2015. doi: 10.1136/jmedgenet-2015-103094
+
+--- 2. Sinh lý bệnh của ung thư dạ dày ---
+
+Ung thư biểu mô tuyến dạ dày có thể được phân loại:Dạng lồi: Khối u dạng polyp hoặc dạng nấm.Thâm nhập: Khối u bị loét.Lan theo bề mặt: Khối u lan dọc theo niêm mạc hoặc thâm nhiễm bề ngoài trong thành dạ dày.Ung thư xơ cứng dạ dày: Khối u thâm nhiễm thành dạ dày với phản ứng xơ kèm theo gây ra dạ dày có hình ảnh "cái chai bọc da".Thể hỗn hợp: Khối u có đặc điểm của≥2 loại khác; loại này là phổ biến nhất.Tiên lượng sẽ tốt hơn với các khối u thể lồi so với các khối u thể lan tỏa vì các khối u thể lồi có triệu chứng sớm hơn.Ung thư dạ dàyHình ảnhHình ảnh do bác sĩ David M. Martin cung cấp.
+
+--- 3. Các triệu chứng và dấu hiệu của ung thư dạ dày ---
+
+Các triệu chứng ban đầu của ung thư dạ dày không đặc hiệu, thường bao gồmchứng khó tiêugợi ýloét dạ dày. Bệnh nhân và bác sĩ đều có xu hướng loại bỏ các triệu chứng hoặc điều trị bệnh nhân vì bệnh axit.Sau đó, cảm giác no sớm (no sau khi ăn một lượng nhỏ thức ăn) có thể xảy ra nếu ung thư làm tắc vùng môn vị hoặc nếu dạ dày không giãn ra được thứ phát sau ung thư xơ cứng dạ dày.Khó nuốtcó thể xảy ra khi ung thư ở vùng tâm vị của dạ dày cản trở đường ra của thực quản. Mệt mỏi, sụt cân thường do ăn kém và là triệu chứng phổ biến. Nôn máu ồ ạt hoặc đi ngoài phân đen hiếm gặp, tuy nhiên thiếu máu thứ phát có thể xảy ra do mất máu ẩn. Đôi khi, các triệu chứng đầu tiên là do di căn (ví dụ: vàng da, cổ trướng, gãy xương).Các dấu hiệu thực thể có thể không đáng kể hoặc chỉ giới hạn ở phân dương tính với máu. Ở giai đoạn muộn của diễn biến bệnh, các bất thường bao gồm một khối ở thượng vị; hạch rốn, hạch thượng đòn trái, hoặc hạch nách trái; gan to; và một khối ở buồng trứng hoặc ở trực tràng. Các tổn thương ở phổi, ở hệ thần kinh trung ương và ở xương có thể xảy ra.
+
+--- 4. Chẩn đoán ung thư dạ dày ---
+
+Nội soi có sinh thiếtSau đó chụp CT và siêu âm có nội soiChẩn đoán phân biệtung thư dạ dày thường bao gồmloét dạ dày và các biến chứng của nó.Bệnh nhân nghi ngờ bị ung thư dạ dày nên có nội soi sinh thiết nhiều mảnh và làm tế bào học bàn chải. Đôi khi, sinh thiết giới hạn ở niêm mạc bỏ lỡ các mô khối u ở dưới niêm mạc. Phim chụp X-quang, đặc biệt là chụp bari chất cản quang kép, có thể cho thấy tổn thương nhưng hiếm khi tránh được việc cần phải nội soi sau đó.Bệnh nhân được xác định ung thư cần chụp CT ngực và bụng để xác định mức độ lan rộng của khối u. Nếu CT không phát hiện di căn, cần tiến hành siêu âm nội soi để xác định độ sâu của khối u và tình trạng thương tổn hạch bạch huyết vùng. Các kết quả thu được giúp hướng dẫn điều trị và giúp xác định tiên lượng.Cần thực hiện các xét nghiệm máu cơ bản, bao gồm công thức máu, điện giải và xét nghiệm gan để đánh giá tình trạng thiếu máu, bù nước, tình trạng chung và khả năng di căn gan. Nồng độ kháng nguyên ung thư biểu mô phôi (EA) nên được đánh giá trước và sau phẫu thuật.Sàng lọcSàng lọc bằng nội soi được sử dụng ở những quần thể có nguy cơ cao (ví dụ: người Nhật Bản) nhưng không được khuyến nghị ở Hoa Kỳ.Sàng lọc theo dõi tái phát ở bệnh nhân được điều trị bao gồm nội soi và chụp CT ngực, bụng và khung chậu.
+
+--- 5. Điều trị ung thư dạ dày ---
+
+Phẫu thuật cắt bỏ, đôi khi phối hợp với hóa trị, xạ trị hoặc cả hai (hóa xạ trị)Quyết định điều trị ung thư dạ dày phụ thuộc vào việc phân giai đoạn khối u và mong muốn của bệnh nhân (một số có thể chọn từ bỏ điều trị tích cực—xemChỉ thị trước).Phẫu thuật chữa khỏi bệnh bao gồm cắt bỏ hầu hết (cắt bỏ một phần dạ dày) hoặc toàn bộ (cắt bỏ toàn bộ dạ dày) và các hạch bạch huyết lân cận và hợp lý ở những bệnh nhân có bệnh giới hạn ở dạ dày và có thể là các hạch bạch huyết vùng (<50% số bệnh nhân) (1). Bệnh nhân thường được hóa trị trong thời gian phẫu thuật (tức là trước khi phẫu thuật và sau khi phẫu thuật) thường dùng phác đồ FLOT (5-fluorouracil, leucovorin, oxaliplatin, docetaxel) (2).Đối với những bệnh nhân được cắt bỏ hạch không đầy đủ hoặc bệnh có hạch dương tính hoặc được cắt bỏ không hoàn toàn, hóa trị bổ trợ hoặc hóa xạ trị đôi khi được sử dụng.Di căn hoặc tổn thương hạch rộng ngăn cản phẫu thuật điều trị, và nhiều nhất là các thủ thuật giảm nhẹ nên được thực hiện. Tuy nhiên, mức độ lây lan thực sự của khối u thường không được công nhận cho đến khi cố gắng phẫu thuật điều trị. Phẫu thuật giảm nhẹ thường bao gồm cắt dạ dày ruột để bỏ qua chỗ tắc ở môn vị, và chỉ nên thực hiện nếu chất lượng cuộc sống của bệnh nhân có thể được cải thiện. Ở những bệnh nhân không trải qua phẫu thuật, các phác đồ hóa trị liệu phối hợp khác nhau (5-fluorouracil, capecitabine, doxorubicin, mitomycin, cisplatin, oxaliplatin, irinotecan, paclitaxel, docetaxel hoặc leucovorin) có thể tạo ra đáp ứng tạm thời và chỉ cải thiện một chút thời gian sống thêm.Đối với bệnh ở giai đoạn tiến triển với khối u biểu hiện thụ thể yếu tố tăng trưởng biểu bì ở người 2 (HER2+), có thể sử dụng trastuzumab (một kháng thể đơn dòng nhắm đích HER2) hoặc ramucirumab (một loại thuốc ức chế yếu tố tăng trưởng nội mô mạch máu [VEGF]) kết hợp với hóa trị liệu. Liệu pháp miễn dịch như là pembrolizumab hiện có để sử dụng cho những bệnh nhân bị ung thư dạ dày giai đoạn tiến triển hoặc di căn dương tính với phối tử gắn kích hoạt chết tế bào theo chương trình 1 (PD-L1). Thuốc ức chế thụ thể kích hoạt chết tế bào theo chương trình 1 (ví dụ: nivolumab) có sẵn để sử dụng bên ngoài Hoa Kỳ cho bệnh nhân ung thư dạ dày giai đoạn tiến triển. Xạ trị có lợi ích hạn chế đối với bệnh nhân di căn.Tài liệu tham khảo về điều trị1.Ajani JA, D'Amico TA, Bentrem DJ, et al. Gastric Cancer, Version 2,2022, NCCN Clinical Practice Guidelines in Oncology.J Natl Compr Canc Netw.Tháng 2 năm 2022;20(2):167-192. doi: 10.6004/jnccn.2022.00082.Al-Batran SE, Homann N, Pauligk C, et al. Perioperative chemotherapy withfluorouracilplusleucovorin,oxaliplatin, anddocetaxelversusfluorouracilorcapecitabinepluscisplatinandepirubicinfor locally advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): A randomised, phase 2/3 trial.Lancet.393(10184):1948-1957, 2019. doi: 10.1016/S0140-6736(18)32557-1
+
+--- 6. Tiên lượng về bệnh ung thư dạ dày ---
+
+Tiên lượng phụ thuộc rất nhiều vào giai đoạn bệnh nhưng nhìn chung là xấu (tỷ lệ sống 5 năm:<5 đến 15%) vì hầu hết bệnh nhân có biểu hiện khi bệnh tiến triển. Thời gian sống thêm toàn bộ trung vị ở những bệnh nhân được lựa chọn kỹ càng sau hóa trị ở giai đoạn chu phẫu và phẫu thuật có thể lên tới 50 tháng dựa trên các thử nghiệm phân nhóm ngẫu nhiên hiện đại (1,2). Nếu khối u chỉ giới hạn ở niêm mạc hoặc dưới niêm mạc, tỷ lệ có thời gian sống thêm 5 năm có thể lên tới 95% (3). Đối với các khối u gây thương tổn các hạch bạch huyết tại chỗ, thời gian sống thêm tương quan với số lượng hạch bị thương tổn. Bệnh lan rộng hơn hầu như luôn gây tử vong trong vòng 6 tháng đến 12 tháng.U lympho dạ dày có tiên lượng tốt hơn (xemU lympho mô dạng bạch huyết liên quan đến niêm mạc (MALT)vàU lympho không Hodgkin).Tài liệu tham khảo về tiên lượng1.Cunningham D, Allum WH, Stenning SP, et al. Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer.N Engl J Med.355(1):11-20, 2006. doi: 10.1056/NEJMoa0555312.Al-Batran SE, Homann N, Pauligk C, et al. Perioperative chemotherapy withfluorouracilplusleucovorin,oxaliplatin, anddocetaxelversusfluorouracilorcapecitabinepluscisplatinandepirubicinfor locally advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): A randomised, phase 2/3 trial.Lancet.393(10184):1948-1957, 2019. doi: 10.1016/S0140-6736(18)32557-13.Zhang J, Zhou Y, Jiang K, et al. Evaluation of the seventh AJCC TNM staging system for gastric cancer: a meta-analysis of cohort studies.Tumour Biol.35(9):8525-8532, 2014. doi: 10.1007/s13277-014-1848-6
+
+--- 7. Những điểm chính ---
+
+NhiễmHelicobacter pylorilà một yếu tố nguy cơ của một số bệnh ung thư dạ dày.Các triệu chứng ban đầu không đặc hiệu và thường giống với viêm loét dạ dày.Sàng lọc bằng nội soi được sử dụng ở những quần thể có nguy cơ cao (ví dụ: người Nhật Bản) nhưng không được khuyến nghị ở Hoa Kỳ.Phẫu thuật điều trị, có thể kết hợp hóa trị và xạ trị, là hợp lý ở những bệnh nhân có u khu trú tại dạ dày và có lẽ là các hạch bạch huyết vùng.Nhìn chung, tiên lượng sống thêm thấp (tỷ lệ sống 5 năm: 5 đến 15%) vì nhiều bệnh nhân có biểu hiện bệnh khi bệnh tiến triển.

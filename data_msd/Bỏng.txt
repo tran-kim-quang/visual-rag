@@ -1,0 +1,787 @@
+TIÊU ĐỀ: Bỏng
+URL: https://www.msdmanuals.com/vi/professional/chấn-thương-ngộ-độc/bỏng/bỏng
+================================================================================
+
+NỘI DUNG:
+
+Bỏng
+
+Theo
+
+Damien Wilson Carter
+
+,
+
+MD
+
+,
+
+Tufts University School of Medicine
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v1112766_vi
+
+Bỏng là các thương tích của da hoặc các mô khác do tiếp xúc với nhiệt, bức xạ, hóa chất hoặc điện. Bỏng được phân loại theo độ sâu (bỏng dày cục bộ bề mặt và bỏng dày cục bộ sâu, bỏng dày hoàn toàn) và phần trăm bỏng trên tổng diện tích bề mặt cơ thể (TBSA). Các biến chứng và các vấn đề liên quan bao gồm sốc giảm thể tích, tổn thương do hít, nhiễm trùng, sẹo và co thắt. Bệnh nhân bị bỏng rộng (
+
+>
+
+20% TBSA) đòi hỏi hồi sức bằng dịch. Phương pháp điều trị vết thương do bỏng bao gồm thuốc kháng khuẩn tại chỗ, làm sạch thường xuyên, nâng cao và đôi khi ghép da. Phục hồi chức năng đặc biệt, bao gồm các bài tập vận động và nẹp, thường là cần thiết.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Các biến chứng
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Bỏng gây ra khoảng 4.000 ca tử vong/năm ở Hoa Kỳ và khoảng 400.000 lượt đến khoa cấp cứu (
+
+1
+
+).
+
+(Xem thêm
+
+Bỏng mắt
+
+và
+
+Nuốt phải hóa chất
+
+.)
+
+Tài liệu tham khảo
+
+1.
+
+American Burn Association
+
+: Burn Incidence Fact Sheet. Truy cập ngày 22 tháng 7 năm 2024.
+
+Căn nguyên của bỏng
+
+Bỏng nhiệt
+
+có thể do bất kỳ nguồn nhiệt nào ở bên ngoài (ngọn lửa, chất lỏng nóng, vật thể rắn nóng hoặc đôi khi là hơi nước). Hỏa hoạn cũng có thể dẫn đến
+
+hít phải khói
+
+độc (xem thêm
+
+Ngộ độc Carbon Monoxide
+
+).
+
+Ngọc trai & cạm bẫy
+
+Đánh giá đường thở và xem xét đặt nội khí quản sớm nếu bệnh nhân có các triệu chứng hô hấp, đờm có ga, bỏng quanh miệng, lông mũi bị cháy xém hoặc bị giam giữ trong môi trường bỏng rát.
+
+Đánh giá thành sau họng rất hữu ích trong việc đánh giá tổn thương đường thở. Nếu không có bằng chứng phù nề hoặc ban đỏ ở thành sau hầu họng, khả năng tổn thương đường thở là không thể.
+
+Bỏng do bức xạ
+
+thường là kết quả của việc tiếp xúc lâu dài với bức xạ cực tím từ mặt trời (
+
+cháy nắng
+
+) nhưng cũng có thể là kết quả của việc tiếp xúc lâu dài hoặc mạnh với các nguồn bức xạ cực tím khác (ví dụ: giường tắm nắng) hoặc do tiếp xúc với nguồn tia X hoặc các bức xạ không phải từ mặt trời khác (xem phần
+
+Phơi nhiễm và ô nhiễm bức xạ
+
+).
+
+Bỏng hoá chất
+
+có thể là axit mạnh, kiềm mạnh (ví dụ: chất nhuộm, xi măng), phenol, cresols, khí mù tạc, phốt pho và một số sản phẩm dầu mỏ (ví dụ, xăng, sơn mỏng). Hoại tử da và mô sâu hơn gây ra bởi các tác nhân này có thể tiến triển trong vài giờ.
+
+Bỏng điện
+
+là kết quả của sự sinh nhiệt và điện di của màng tế bào liên quan đến dòng điện tử lớn. Bỏng điện cao thế (
+
+>
+
+1000 vôn) thường gây tổn thương mô sâu trên diện rộng đối với các mô dẫn điện, chẳng hạn như cơ, dây thần kinh và mạch máu, mặc dù tổn thương da rõ ràng là rất ít.
+
+Các sự kiện liên quan đến bỏng (ví dụ, nhảy từ một tòa nhà đang cháy, bị va đập bởi các mảnh vụn,đâm vào xe cơ giới) có thể gây thương tích khác. Nên cân nhắc lạm dụng ở trẻ nhỏ và bệnh nhân lớn tuổi bị bỏng (xem
+
+Ngược đãi trẻ em
+
+và
+
+Lạm dụng người cao tuổi
+
+).
+
+Sinh lý bệnh bỏng
+
+Nhiệt từ bỏng gây ra biến tính protein và do đó hoại tử đông tụ. Xung quanh mô đông, các tiểu cầu kết tụ, các mạch máu co thắt, và mô vùng xung quanh được tưới máu (gọi là vùng ứ huyết) có thể mở rộng quanh vết thương. Trong khu vực ứ huyết, mô bị tăng tiết và viêm.
+
+Tổn thương hàng rào biểu bì bình thường cho phép
+
+Sự xâm nhập của vi khuẩn
+
+Mất dịch ngoài
+
+Diều hòa thân nhiệt
+
+Các mô bị tổn thương thường trở nên phù nề, làm tăng thêm tình trạng mất thể tích nội mạch. Mất nhiệt có thể đáng kể do không có sự điều chỉnh nhiệt ở mô bị tổn thương, đặc biệt là những vết thương bị phơi nhiễm.
+
+Độ sâu của bỏng
+
+Bỏng
+
+nông
+
+(trước đây là bỏng độ 1) chỉ giới hạn ở lớp biểu bì.
+
+Bỏng
+
+một phần độ dày
+
+(trước đây là bỏng độ 2) liên quan đến một phần lớp hạ bì và có thể nông hoặc sâu.
+
+Bỏng dày cục bộ bê mặt bao gồm lớp nhú hạ bì (thuộc bề mặt hơn). Những vết bỏng này sẽ lành lại trong vòng 1 đến 2 tuần, và sẹo thường là tối thiểu. Quá trình chữa lành bỏng xảy ra từ các tế bào biểu bì lót tuyến mồ hôi và các nang lông; các tế bào này phát triển lên bề mặt, sau đó di chuyển qua bề mặt để gặp các tế bào từ các tuyến lân cận và nang lông.
+
+Bỏng dày cục bộ sâu bao gồm lớp hạ bì sâu hơn và mất
+
+≥
+
+2 tuần để chữa lành. Quá trình chữa lành bỏng chỉ xảy ra từ nang lông, thường để lại sẹo và có thể nghiêm trọng.
+
+Bỏng nông (bỏng độ 1)
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Bỏng
+
+toàn bộ độ dày
+
+(trước đây là bỏng độ 1) lan rộng qua toàn bộ lớp hạ bì và vào lớp mỡ bên dưới. Quá trình lành bỏng chỉ xảy ra ở ngoại vi; những vết bỏng này, trừ khi nhỏ, nếu không sẽ đòi hỏi phải cắt bỏ và ghép da.
+
+Các biến chứng của bỏng
+
+Bỏng gây ra các biến chứng toàn thân và biến chứng tại chỗ. Các yếu tố chính góp phần vào các biến chứng toàn thân là rách da và mất dịch. Các biến chứng tại chỗ bao gồm sẹo vảy, co cứng, và tạo sẹo.
+
+Biến chứng bỏng hệ thống
+
+Tỷ lệ phần trăm bỏng trên diện tích bề mặt cơ thể (TBSA) càng lớn, nguy cơ phát sinh biến chứng toàn thân càng lớn. Các yếu tố nguy cơ đối với các biến chứng toàn thân nghiêm trọng và gây tử vong bao gồm tất cả những điều sau đây:
+
+Bỏng một phần và toàn bộ bề dày
+
+≥
+
+40% TBSA
+
+Tuổi
+
+>
+
+60 tuổi hoặc
+
+<
+
+2 tuổi
+
+Có chấn thương lớn đồng thời hoặc hít phải khói
+
+Các biến chứng toàn thân thường gặp nhất của là giảm thể tích và nhiễm trùng.
+
+Giảm thể tích,
+
+gây ra giảm tưới máu mô bị bỏng và đôi khi gây sốc, có thể do bị mất dịch từ các vết bong sâu hoặc có liên quan đến diện tích bỏng bề mặt lớn; phù toàn thân do mất dịch trong lòng mạch ra mô kẽ và tế bào. Ngoài ra, mất dịch không thể nhận thấy có thể là đáng kể. Giảm tưới máu mô bị bỏng cũng có thể là kết quả trực tiếp do tổn thương đến mạch máu hoặc do co thắt mạch thứ phát do giảm thể tích.
+
+Nhiễm trùng,
+
+ngay cả ở những vết bỏng nhỏ, là một nguyên nhân phổ biến của
+
+nhiễm khuẩn huyết
+
+và tử vong, cũng như các biến chứng tại chỗ. Sự suy giảm bảo vệ của vật chủ và xâm nhập và mô bị kích thích làm tăng xâm nhập và phát triển của vi khuẩn. Các nguyên nhân phổ biến nhất là Streptococci và Staphylococci trong vài ngày đầu và vi khuẩn Gram âm sau 5 đến 7 ngày; tuy nhiên, hệ vi khuẩn hầu như luôn hỗn hợp.
+
+Bất thường về chuyển hóa
+
+có thể bao gồm giảm albumin, một phần do hòa loãng máu (thứ phát sau khi bù dịch thay thế) và một phần là do sự mất protein vào khoang ngoài mạch thông qua các mao mạch bị tổn thương. Sự thiếu hụt điện giải do pha loãng có thể tiến triển; Chúng bao gồm
+
+giảm magie
+
+,
+
+giảm phospho
+
+, và
+
+hạ kali
+
+. Toan chuyển hóa có thể là kết quả của sốc.
+
+Sự tiêu cơ vân
+
+hoặc tan máu có thể là hậu quả của bỏng nhiệt sâu hoặc bỏng điện ở cơ do cơ bị thiếu máu dẫn đến co cứng. Tiêu cơ vân gây ra myoglobin niệu hoặc tan máu gây ra hemoglobin niệu có thể dẫn đến
+
+hoại tử ống cấp
+
+và
+
+tổn thương thận cấp
+
+.
+
+Hạ thân nhiệt
+
+có thể do truyền một lượng lớn dịch mát vào tĩnh mạch và tiếp xúc nhiều bề mặt cơ thể với môi trường khoa cấp cứu mát mẻ, đặc biệt ở những bệnh nhân bị bỏng rộng.
+
+Tắc ruột
+
+là phổ biến sau khi bỏng diện rộng.
+
+Biến chứng bỏng tại chỗ
+
+Sẹo vảy
+
+cứng, mô chết do bỏng sâu. Một sẹo vảy tròn, bao quanh hoàn toàn một chi (hoặc đôi khi cả cổ hoặc thân mình), có khả năng bị co thắt. Một sẹo vảy co thắt giới hạn việc mở rộng mô để đáp ứng với phù nề; thay vào đó, mô tăng áp, cuối cùng gây thiếu máu cục bộ. Tình trạng thiếu máu cục bộ đe doạ đến khả năng sống của các chi và các khoảng cách xa tới sẹo vảy, một sẹo vảy vòng quanh cổ hoặc lồng ngực có thể làm giảm chức năng thông khí.
+
+Sẹo và co cứng
+
+là kết quả từ việc chữa lành vết bỏng sâu. Tùy thuộc vào mức độ của vết sẹo, sự biến dạng co cứng có thể xuất hiện ở các khớp. Nếu vết bỏng nằm gần khớp (đặc biệt ở tay), ở bàn chân, hoặc ở đáy chậu, chức năng có thể bị suy giảm nghiêm trọng. Nhiễm trùng có thể làm tăng tạo sẹo.
+
+Sẹo lồi
+
+hình thành ở một số bệnh nhân bị bỏng, đặc biệt là ở những bệnh nhân có da sẫm màu hơn.
+
+Triệu chứng và dấu hiệu của bỏng
+
+Bỏng một phần độ dày (độ 2)
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Steven E. Wolf cung cấp.
+
+Bỏng toàn bộ độ dày (độ 3)
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Steven E. Wolf cung cấp.
+
+Các triệu chứng và dấu hiệu ở vết thương phụ thuộc vào chiều sâu bị bỏng:
+
+Bỏng nông
+
+:
+
+Những vết bỏng có màu đỏ, tái và lan rộng, khi ấn nhẹ, đau và căng. Không có các bọng nước và phồng rộp.
+
+Bỏng dày một phần bề mặt:
+
+Những vết bỏng gây áp lực, đau và căng. Các bọng nước và phồng rộp không phát triển trong 24 giờ. Nền của bọng nước và phồng rộp có máu hồng và tiết ra dịch có fibrin.
+
+Bỏng dày một phần sâu:
+
+Những vết bỏng có thể trắng, đỏ hoặc đốm cả đỏ và trắng. Chúng không tái và ít đau đớn và căng hơn các vết bỏng ở bề mặt. Cảm giác châm kim thường được hiểu là áp suất hơn là hình thái. Các bọng nước và phồng rộp có thể tiến triển; các vết bỏng thông thường là khô.
+
+Bỏng dày toàn bộ:
+
+Những vết bỏng này có thể có màu trắng và mềm dẻo, đen và bị cháy, màu nâu và như da, hoặc màu đỏ sáng do có hemoglobin cố định ở vùng dưới da. Các vết bỏng dày toàn bộ bị tái có thể kích thích vùng da bình thường, ngoại trừ vùng da không bị áp lực. Bỏng dày toàn phần thường không đau và không có cảm giác. Các sợi lông có thể dễ dàng bị kéo ra khỏi nang lông. Không hình thành các bọng nước và phồng rộp. Đôi khi, các đặc điểm phân biệt vết bỏng toàn bộ độ dày với vết bỏng một phần độ dày phải mất 24 giờ đến 48 giờ mới phát sinh.
+
+Chẩn đoán bỏng
+
+Đánh giá lâm sàng về mức độ bỏng và độ sâu
+
+Xét nghiệm trong phòng thí nghiệm và chụp X-quang ngực ở bệnh nhân nhập viện
+
+Vị trí và chiều sâu của vùng bỏng được ghi lại trên sơ đồ bỏng. Bỏng có độ tương thích về cả bỏng dày một phần sâu và bỏng dày toàn phần được coi là bỏng dày toàn phần.
+
+Tỷ lệ phần trăm bỏng trên TBSA được tính toán; chỉ có bỏng dày một phần và bỏng dày toàn bộ mới được đưa vào tính toán
+
+(1)
+
+. Đối với người lớn, tỷ lệ phần trăm TBSA cho các bộ phận của cơ thể được ước tính theo quy tắc chín và đối với trẻ em, biểu đồ Lund-Browder (
+
+[A] Quy tắc chín [cho người lớn] và [B] Biểu đồ Lund-Browder [cho trẻ em] để ước tính mức độ bỏng
+
+); đối với các vết bỏng nhỏ hơn và rải rác, có thể ước tính dựa trên kích thước của toàn bộ bàn tay mở của bệnh nhân (không chỉ lòng bàn tay), chiếm khoảng 1% TBSA. Phương pháp đo theo kích thước bàn tay đặc biệt hữu ích trong việc tính toán diện tích bề mặt vết bỏng ở vùng bị bỏng một phần. Ví dụ: nếu một cánh tay (tương đương 9% nếu liên quan hoàn toàn) không bị bỏng hoàn toàn, kích thước bàn tay của bệnh nhân có thể được sử dụng làm mẫu để ước tính phạm vi của các khu vực không thương tổn (hoặc có thương tổn) rải rác. Diện tích không liên quan có thể được trừ đi diện tích 9% của cánh tay để tính toán chính xác hơn diện tích bề mặt bị bỏng của cánh tay. Trẻ em có đầu to hơn và chân nhỏ hơn nên tỷ lệ TBSA được ước tính chính xác hơn khi sử dụng biểu đồ Lund-Browder.
+
+(A) Quy tắc số chín (dành cho người lớn) và (B) Biểu đồ Lund-Browder (dành cho trẻ em) để ước tính mức độ bỏng
+
+(Redrawn từ Artz CP, JA Moncrief:
+
+Điều trị bỏng
+
+, ed. 2. Philadelphia, Công ty của WB Saunders, 1969; sử dụng với sự cho phép.)
+
+Ở những bệnh nhân nằm viện có nguy cơ bị biến chứng toàn thân (tức là bệnh nhân trưởng thành có > 20% TBSA, trẻ em có > 15% TBSA và bệnh nhân lớn tuổi bị thương do điện với mức tiếp xúc > 1K volt và các bệnh lý tim, phổi hoặc thận đi kèm đáng kể), cần đo hemoglobin và hematocrit, chất điện giải trong huyết thanh, nitơ
+
+urê
+
+máu, creatinin,
+
+albumin
+
+, protein, phosphate và canxi ion hóa. Ngoài ra còn cần phải làm điện tâm đồ, xét nghiệm nước tiểu để tìm myoglobin và chụp X-quang ngực. Myoglobin niệu (có nghĩa là tan máu hoặc tiêu cơ vân) được gợi ý bởi nước tiểu có màu tối rõ ràng hoặc có kết quả dương tính với máu trên que thử khi không thấy hồng cầu trên vi kính. Các xét nghiệm này được lặp lại nếu cần.
+
+Khoang cơ
+
+được đánh giá ở những bệnh nhân bị myoglobin niệu.
+
+Nhiễm trùng vết bỏng
+
+được gợi ý bởi chất tiết từ vết thương, quá trình làm lành vết thương thất bại, hoặc bằng chứng hệ thống về nhiễm trùng (ví dụ như không dung nạp thức ăn, giảm tiểu cầu, tăng nồng độ glucose huyết thanh). Sốt và tăng số lượng bạch cầu thường gặp trên bệnh nhân bị bỏng mà không có nhiễm trùng và do đó đây là những dấu hiệu không đáng tin cậy để phát hiện nhiễm trùng. Nếu chẩn đoán là không rõ ràng, nhiễm trùng có thể được xác nhận bằng sinh thiết; cấy dịch bề mặt vết thương hoặc chất tiết là không đáng tin cậy. Nhiều trung tâm xét nghiệm cho bệnh nhân khi nhập viện để tìm vi khuẩn
+
+Staphylococcus aureus
+
+kháng methicillin (MRSA).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Kamolz LP, Parvizi D, Giretzlehner M, et al
+
+: Burn surface area calculation: What do we need in future.
+
+Burns
+
+40(1):171-172, 2014. doi: 10.1016/j.burns.2013.07.021
+
+Điều trị bỏng
+
+Dịch truyền tĩnh mạch đối với các vết bỏng một phần và toàn bộ
+
+>
+
+10% tổng diện tích bề mặt cơ thể (TBSA)
+
+Làm sạch vết thương, băng và đánh giá tuần tự
+
+Các biện pháp hỗ trợ
+
+Chuyển hoặc gửi bệnh nhân được lựa chọn đến trung tâm bỏng
+
+Phẫu thuật và vật lý trị liệu cho bỏng dày một phần sâu và bỏng dày toàn bộ
+
+Điều trị ban đầu
+
+Điều trị bắt đầu từ trước viện. Những ưu tiên ban đầu cũng giống như đối với bất kỳ bệnh nhân bị thương nào: ABC (đường thở, hô hấp, và tuần hoàn). Một đường thở được cung cấp, thông khí được hỗ trợ, và nếu có liên quan đến
+
+hít phải khói
+
+được xử lý bằng thở oxy 100%. Dập tắt các vết cháy đang còn, loại bỏ các vật liệu cháy và nóng. Loại bỏ toàn bộ quần áo. Hóa chất, trừ bột, được làm sạch bằng nước; bột nên được chải đi trước khi ướt. Các vết bỏng do axit, kiềm hoặc các hợp chất hữu cơ (ví dụ phenol, cresols, hóa dầu) được làm sạch với nước trong ít nhất 20 phút sau khi không có gì có vẻ còn lại.
+
+Truyền dịch tĩnh mạch
+
+Dịch truyền tĩnh mạch cho bệnh nhân bị sốc hoặc bỏng một phần và bỏng toàn bộ
+
+>
+
+10% TBSA. Một kim truyền kích thước từ 14 đến 16 G được đặt trong 1 hoặc 2 tĩnh mạch ngoại biên ở vùng da không bị bỏng nếu có thể. Tránh lấy đường truyền tĩnh mạch nếu có nguy cơ cao bị nhiễm trùng.
+
+Khối lượng dịch truyền ban đầu được hướng dẫn bằng điều trị theo bằng chứng lâm sàng có sốc
+
+(1)
+
+. Nếu không có
+
+sốc
+
+thì việc truyền dịch nhằm mục đích bù dịch bị thiếu hụt và cung cấp duy trì dịch cho bệnh nhân. Công thức Parkland (4 mL/kg) × % TBSA bị bỏng (bỏng một phần và bỏng toàn bộ) được sử dụng để ước tính nhu cầu thể tích dịch trong 24 giờ đầu sau khi bỏng (không phải sau khi đến bệnh viện) và xác định tốc độ truyền dịch theo đường tĩnh mạch. Một nửa số dịch tính toán được truyền trong 8 giờ đầu tiên; phần còn lại được truyền trong 16 giờ tiếp theo. Các dung dịch được sử dụng như Ringer's lactat do một lượng lớn dịch đẳng trương có thể gây ra tình trạng toan chuyển hóa tăng Clo máu.
+
+Ví dụ: ở một người nặng 100 kg bị bỏng TBSA 50%, thể tích dịch theo công thức Parkland sẽ là
+
+Một nửa thể tích, 10 L, được truyền liên tục trong 8 giờ đầu sau bỏng, và 10 L còn lại được truyền trong 16 giờ sau. Trên thực tế, công thức này chỉ là khởi đầu, và tốc độ truyền được điều chỉnh dựa trên đáp ứng lâm sàng. Lượng nước tiểu, thường được đo bằng ống thông tiểu lưu lại, là chỉ số thông thường về đáp ứng lâm sàng; mục tiêu là duy trì lượng nước tiểu là 0,5 mL/kg/giờ ở người lớn và 1,0 mL/kg/giờ ở trẻ em (
+
+<
+
+30 kg).
+
+Nhu cầu dịch duy trì cho trẻ em
+
+bổ sung cần được tính toán và thêm riêng vì trẻ em có nguy cơ bị hạ đường huyết khi hồi sức khối lượng lớn. Khi cho lượng dung dịch lớn điển hình, cũng rất quan trọng để tránh tình trạng quá tải dịch, suy tim trái và
+
+hội chứng khoang
+
+. Truyền dịch có thể được chuẩn độ để chỉ đạt được lượng nước tiểu mục tiêu. Các thông số lâm sàng, bao gồm cả lượng nước tiểu và các dấu hiệu sốc hoặc suy tim, được ghi lại ít nhất mỗi giờ trên băng các.
+
+Ngọc trai & cạm bẫy
+
+Parkland và các công thức hồi sức cấp cứu vết bỏng khác chỉ là điểm khởi đầu; thể tích và tốc độ chất lỏng được điều chỉnh dựa trên phản ứng lâm sàng.
+
+Một số bác sĩ lâm sàng truyền dịch keo, thường là
+
+albumin
+
+, sau 12 giờ cho những bệnh nhân bị bỏng nặng hơn, những bệnh nhân rất trẻ hoặc rất già, hoặc những bệnh nhân mắc bệnh tim và cần truyền lượng dịch lớn.
+
+Nếu lượng nước tiểu không đủ mặc dù đã sử dụng một lượng lớn dung dịch crystalloid, thì cần phải hội chẩn với trung tâm bỏng vì những bệnh nhân này có nguy cơ cao bị biến chứng hồi sức, bao gồm hội chứng khoang bụng và tứ chi. Những bệnh nhân có lượng nước tiểu không đủ mặc dù đã dùng một lượng lớn dịch crystalloid có thể đáp ứng với việc truyền dung dịch colloid hoặc các biện pháp khác. Trong các phân tích tổng hợp, việc sử dụng
+
+albumin
+
+đã được chứng minh là làm giảm tổng lượng dịch khoảng một nửa sau 72 giờ bị thương. Các phân tích tổng hợp gợi ý rằng cần có các thử nghiệm bổ sung để xác định ảnh hưởng đối với tỷ lệ tử vong và bệnh tật của việc sử dụng dung dịch colloid với dung dịch crystalloid (
+
+2, 3, 4
+
+).
+
+Đối với bệnh nhân
+
+tiêu cơ vân
+
+, truyền dịch là phương pháp điều trị chính, và mục tiêu là duy trì lượng nước tiểu ít nhất 0,5 và 1,0 mL/kg/giờ. Mặc dù một số cơ quan chức năng đã khuyến nghị kiềm hóa nước tiểu bằng cách truyền dịch tĩnh mạch có chứa natri bicarbonate để điều trị globin cơ niệu kịch phát, nhưng có rất ít bằng chứng về kết quả bệnh nhân được cải thiện, vì vậy việc kiềm hóa không còn được khuyến nghị.
+
+Công cụ tính toán lâm sàng
+
+Bù dịch trong bệnh nhân bỏng là người lớn (ước lượng dịch tinh thể Parkland)
+
+Chăm sóc vết thương ban đầu
+
+Sau khi giảm đau đầy đủ, vết thương được làm sạch bằng xà phòng và nước, đồng thời loại bỏ tất cả các mảnh vụn rời ra. Nước rửa nên ở nhiệt độ phòng hoặc ấm hơn để tránh gây hạ thân nhiệt. Các bọng nước bị vỡ trừ những vết nhỏ trên lòng bàn tay, ngón tay, và lòng bàn tay, sẽ được lấy đi. Các bọng nước không vỡ có thể được giữ nguyên, nhưng cần được điều trị bằng thuốc kháng sinh tại chỗ. Với bệnh nhân được chuyển đến trung tâm bỏng, có thể dùng băng gạc khô (kem bỏng có thể gây cản trở việc đánh giá vết thương ở cơ sở tiếp nhận), bệnh nhân được giữ ấm và giảm đau tương đối bằng thuốc opioid đường tĩnh mạch.
+
+Sau khi vết thương được làm sạch và được đánh giá bởi bác sĩ điều trị cuối cùng, vết bỏng có thể được điều trị tại chỗ. Đối với những vết bỏng dày cục bộ, chỉ cần điều trị đơn độc bằng thuốc tại chô một cách thích hợp. Tất cả các vết bỏng dày cục bộ sâu và bỏng dày toàn phần nên được điều trị bằng cắt bỏ và ghép da, nhưng trong các phương pháp điều trị tạm thời, thuốc bôi tại chỗ là thích hợp.
+
+Điều trị tại chỗ có thể là bằng
+
+Thuốc mỡ kháng khuẩn (ví dụ, 1% bạc sulfadiazine, mafenide axetat)
+
+Băng gạc thương mại kết hợp bạc (ví dụ: băng gạc bạc tinh thể nano giải phóng bền vững)
+
+Băng vết thương sinh tổng hợp (còn được gọi là sản phẩm da nhân tạo)
+
+Băng bạc chỉ nên được xem xét đối với vết bỏng một phần độ dầy của da có độ ẩm đáng kể ở vết thương vì quá trình hoạt hóa bạc cần vết thương ẩm. Sulfadiazine bạc có thể gây giảm bạch cầu thoáng qua. Một số (nhưng không phải tất cả) băng xơ ngâm tẩm bạc phải được giữ ẩm nhưng có thể không cần thay thường xuyên như 7 ngày một lần (để giảm thiểu đau đớn liên quan đến việc chăm sóc vết thương lặp đi lặp lại).
+
+Thuốc mỡ bôi tại chỗ phải được thay hàng ngày. Các sản phẩm da nhân tạo và băng tẩm bạc không được thay thường xuyên nhưng có thể gây ra tình trạng mưng mủ tiềm ẩn đòi hỏi phải loại bỏ, đặc biệt là khi vết thương sâu. Chi bị bỏng cần phải được nâng cao lên. Băng ép như băng thun quấn nên được sử dụng để giảm phù nề và cải thiện quá trình lành vết thương.
+
+Mũi giải độc tố uốn ván nhắc lại
+
+(tiêm dưới da hoặc tiêm bắp) được tiêm cho tất cả những bệnh nhân bị bỏng trừ những người bị bỏng nhẹ đã được tiêm phòng đầy đủ trước đó và những người chưa được tiêm nhắc lại trong vòng 5 năm qua. Những bệnh nhân tiêm nhắc lại ở xa hơn hoặc chưa tiêm đủ liệu trình vắc xin được tiêm 250 đơn vị globulin miễn dịch uốn ván (người) tiêm bắp và đồng thời tiêm vắc xin chủ động (xem
+
+Phòng ngừa uốn ván
+
+).
+
+Có thể cần phải phẫu thuật cắt sẹo vảy (rạch sẹo) của những sẹo vảy co thắt để có thể mở rộng phần ngực hoặc đảm bảo tưới máu chi. Tuy nhiên, sẹo vảy co thắt hiếm khi đe doạ khả năng sống còn của chi ở trong vài giờ đầu tiên, do đó, nếu có thể chuyển đến trung tâm bỏng trong thời gian đó, thì phẫu thuật rạch sẹo có thể được hoãn lại cho đến khi đó. Nếu không thể chuyển viện kịp thời, nên thực hiện phẫu thuật cắt bỏ mô hoại tử có ý kiến của trung tâm tư vấn bỏng.
+
+Các biện pháp hỗ trợ
+
+Điều trị tình trạng hạ thân nhiệt
+
+, và giảm đau. Opioid (ví dụ morphine) nên được cho dùng đường tĩnh mạch với liều lượng lớn để giải quyết được cơn đau. Điều trị thiếu hụt điện giải có thể cần bổ sung canxi (Ca), magiê (Mg), kali (K) hoặc phosphate (PO
+
+4
+
+).
+
+Hỗ trợ dinh dưỡng
+
+được chỉ định cho bệnh nhân bị bỏng
+
+>
+
+20% TBSA hoặc suy dinh dưỡng trước đó. Hỗ trợ bằng ống thông cho ăn bắt đầu càng sớm càng tốt nếu dinh dưỡng bằng miệng không khả thi hoặc không đầy đủ. Hỗ trợ dinh dưỡng ngoài đường tiêu hóa (truyền tĩnh mạch) hiếm khi cần đến.
+
+Nhập viện và chuyển viện
+
+Sau khi điều trị ban đầu và ổn định, cần đánh giá nhu cầu chuyển viện và/hoặc nhập viện. Nên hội chẩn với trung tâm bỏng để thảo luận về các phương án điều trị cho
+
+Bỏng toàn bộ độ dày của da
+
+>
+
+1% TBSA
+
+Bỏng một phần độ dày của da
+
+>
+
+5% TBSA
+
+Bỏng tay, mặt, bàn chân, hoặc đáy chậu (bỏng dày một phần hoặc sâu hơn)
+
+Do có nhiều yếu tố liên quan đến kết quả bỏng, nên thảo luận sớm về các chi tiết cụ thể của từng trường hợp với trung tâm bỏng có lẽ hữu ích hơn so với việc áp dụng các tiêu chí cứng nhắc mà không tham khảo ý kiến.
+
+Ngoài ra, cần phải chuyển viện và/hoặc nhập viện nếu
+
+Bệnh nhân
+
+<
+
+2 tuổi hoặc
+
+>
+
+60 tuổi.
+
+Tuân thủ các biện pháp chăm sóc tại nhà có thể gặp nhiều khó khăn (ví dụ: nếu cần nâng cao tay hoặc chân, thường là khó thực hiện ở nhà).
+
+Nhiều chuyên gia khuyến nghị rằng tất cả các vết bỏng, ngoại trừ vết bỏng nông
+
+<
+
+1% TBSA, đều phải được điều trị bởi các bác sĩ có kinh nghiệm và nên cân nhắc điều trị theo dõi khẩn cấp tại trung tâm bỏng đối với tất cả các vết bỏng một phần hoặc toàn bộ có độ dày
+
+>
+
+2% TBSA. Duy trì giảm đau và tập vận động có thể rất khó khăn đối với nhiều bệnh nhân và người chăm sóc. Ngay cả những bệnh nhân không được điều trị nội trú cũng có thể được hưởng lợi từ việc chuyển viện hoặc giới thiệu sớm đến trung tâm bỏng để có thể bắt đầu chăm sóc vết thương, băng bó chuyên dụng và các bài tập vận động sớm.
+
+Nhiễm trùng
+
+Kháng sinh dự phòng đường toàn thân không được dùng.
+
+Việc điều trị kháng sinh theo kinh nghiệm ban đầu đối với nhiễm trùng rõ ràng trong 5 ngày đầu tiên nên tập trung vào tụ cầu và phế cầu (ví dụ với vancomycin cho bệnh nhân nội trú có bệnh phẩm khuẩn lạc MRSA dương tính). Nhiễm trùng phát triển sau 5 ngày được điều trị bằng kháng sinh phổ rộng có hiệu quả chống vi khuẩn Gram dương và Gram âm. Lựa chọn kháng sinh sau đó được điều chỉnh dựa trên kết quả nuôi cấy và độ nhạy của kháng sinh. Cắt bỏ vết thương bỏng có nhiễm trùng sâu hơn sẽ tối ưu hóa cơ hội giải quyết nhiễm trùng. Việc ghép da nên được trì hoãn cho đến khi tình trạng nhiễm trùng được giải quyết.
+
+Phẫu thuật
+
+Phẫu thuật được chỉ định cho bỏng mà không được mong đợi có thể chữa lành trong vòng 2 tuần, bao gồm phần lớn bỏng dày cục bộ sâu và tất cả bỏng dày toàn phần. Sẹo vảy được loại bỏ càng sớm càng tốt, lý tưởng là trong vòng 3 ngày để ngăn ngừa
+
+nhiễm trùng
+
+và tạo điều kiện cho việc ghép da sớm, rút ngắn thời gian nằm viện và cải thiện chức năng. Nếu vết bỏng lan rộng và đe doạ đến tính mạng, các vết thương lớn nhất sẽ được loại bỏ sớm nhất để đóng phạm vi đốt càng sớm càng tốt. (Xem thêm
+
+Cách cắt bỏ mô hoại tử
+
+.)
+
+Sau khi cắt bỏ, quá trình ghép da diễn ra lý tưởng bằng cách sử dụng các mảnh ghép tự thân có độ dày một phần (da của bệnh nhân), là vĩnh viễn (
+
+5
+
+). Ghép tự thân có thể được cấy ghép như các tấm (một mảng da liền) hoặc ghép nối (các tấm da của người hiến tặng được kéo dài để che khu vực rộng hơn bằng cách tạo nhiều khoảng cách đều nhau bằng các vết rạch nhỏ). Lưới da được sử dụng ở những vùng ít quan tâm hơn khi bỏng TBSA
+
+>
+
+20% và da của người cho là khan hiếm. Các lưới da có hình dáng giống như lưới, và đôi khi sẽ tạo sẹo phì đại.
+
+Khi bỏng
+
+>
+
+40% TBSA và nguồn cung cấp vật liệu ghép tự thân không đủ, có thể sử dụng một mẫu tái tạo da nhân tạo làm lớp phủ tạm thời (
+
+5
+
+). Có thể tạm thời sử dụng cấp ghép khác cá thể (da từ người hiến) hoặc ghép ngoại lai (ví dụ da lợn); nhưng bị thải ghép trong vòng 10- 14 ngày. Cả hai loại che phủ tạm thời đều phải được thay thế bằng ghép da tự thân.
+
+Phẫu thuật mở cân, mạc các khoang để giải áp khoang được thực hiện khi áp lực khoang
+
+>
+
+30 mm Hg.
+
+Hội chứng khoang
+
+hiếm gặp ở các vết bỏng khác ngoài
+
+bỏng do điện cao thế
+
+(
+
+6
+
+).
+
+Vật lý và vận động trị liệu
+
+Liệu pháp vật lý và trị liệu bắt đầu khi nhập viện để giảm thiểu sự tạo sẹo và co thắt, đặc biệt đối với các bề mặt cơ thể có độ căng da cao và cử động thường xuyên (ví dụ như mặt, tay) và để tối ưu hóa chức năng. Các bài tập chủ động và thụ động nhiều chuyển động trở nên dễ dàng hơn khi phù đầu ban đầu giảm xuống (được tăng cường bởi độ nâng và độ ép thích hợp); chúng được thực hiện một hoặc hai lần mỗi ngày. Sau khi ghép, các bài tập thường bị tạm dừng trong 3 ngày, sau đó được tiếp tục lại, nhưng tại một số trung tâm được bắt đầu trong vòng 24 giờ kể từ khi ghép. Các trường hợp chi bị bỏng dày một phần sâu hoặc bỏng dày toàn bộ được cố định ở tư thế chức năng càng sớm càng tốt và giữ liên tục (trừ khi tập thể dục) cho đến khi được ghép da hoặc bệnh nhân được chưa lành, hoặc cả hai.
+
+Điều trị ngoại trú
+
+Điều trị ngoại trú bao gồm việc giữ cho vết bỏng sạch sẽ và, trong chừng mực có thể, giữ phần cơ thể bị ảnh hưởng nâng cao lên và, đối với tứ chi, được ép (ví dụ, bằng cách quấn đàn hồi bên ngoài băng gạc). Cần thay băng mỗi ngày đối với bỏng được điều trị bằng thuốc bôi tại chỗ. Thuốc mỡ được sử dụng và sau đó được bao phủ bằng băng gạc khô không bám dính và băng nén. Băng bạc nên được thay từ 7 đến 10 ngày một lần, tùy thuộc vào khuyến nghị sản phẩm cụ thể. Thay băng chỉ đơn giản là liên quan đến việc tháo băng cũ và thay thế bằng một cái mới. Không được thay băng Biosynthetic khi không có mủ. Gạc Biosynthetic nên chỉ cần được bao phủ bằng gạc khô, được thay đổi hàng ngày. (Xem thêm
+
+Cách cắt lọc và băng vết bỏng
+
+.)
+
+Lịch tái khám của bệnh nhân ngoại trú được lên kế hoạch tùy theo mức độ bỏng (ví dụ như bỏng rất nhỏ, thăm khám ban đầu trong vòng 24 giờ, sau đó các lần thăm khám sau 7 đến 10 ngày một lần). Các lần tái khám bao gồm rạch vết bỏng nếu có chỉ định, đánh giá lại mức độ bỏng và đánh giá nhu cầu về vật lý trị liệu và ghép da. Bệnh nhân nên tái khám sớm hơn nếu nhận thấy dấu hiệu nhiễm trùng, chẳng hạn như tăng độ đỏ kéo dài từ các vết thương, tăng số lượng mủ và đau, hoặc thay đổi hình dạng vết thương với sự phát triển của đốm đen hoặc đỏ. Nếu các dấu hiệu này xảy ra, cần nhanh chóng đánh giá y tế. Điều trị ngoại trú có thể chấp nhận được đối với viêm tại chỗ vết bỏng nhỏ ở bệnh nhân khỏe mạnh tuổi từ 2 đến 60 tuổi; nhập viện được chỉ định cho các trường hợp nhiễm trùng khác.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Pham TN, Cancio CL, Gibran NS
+
+: American Burn Association practice guidelines burn shock resuscitation.
+
+J Burn Care Res
+
+29(1):257-266, 2008. doi: 10.1097/BCR.0b013e31815f3876
+
+2.
+
+Eljaiek R, Heylbroeck C, Dubois MJ
+
+: Albumin administration for fluid resuscitation in burn patients: A systematic review and meta-analysis.
+
+Burns
+
+43(1):17-24, 2017. doi: 10.1016/j.burns.2016.08.001
+
+3.
+
+Greenhalgh DG, Cartotto R, Taylor SL
+
+: Burn resuscitation practices in North America: Results of the Acute Burn Resuscitation Multicenter Prospective Trial (ABRUPT).
+
+Ann Surg
+
+10.1097/SLA.0000000000005166, 2021. doi: 10.1097/SLA.0000000000005166.
+
+4.
+
+Navickis RJ, Greenhalgh DG, Wilkes MM
+
+: Albumin in burn shock resuscitation: A meta-analysis of controlled clinical studies.
+
+J Burn Care Res
+
+37(3):e268-278, 2016 doi: 10.1097/BCR.0000000000000201
+
+5.
+
+Kagan RJ, Peck MD, Ahrenholz DH, et al
+
+: Surgical management of the burn wound and use of skin substitutes: An expert panel white paper.
+
+J Burn Care Res
+
+34:e60–79, 2013. doi: 10.1097/BCR.0b013e31827039a6
+
+6.
+
+International Society for Burn Injury (ISBI) Practice Guidelines Committee: Steering Committee; Advisory Committee.
+
+ISBI Practice Guidelines for Burn Care.
+
+Burns
+
+42(5):953-1021, 2016. doi: 10.1016/j.burns.2016.05.013
+
+Những điểm chính
+
+Các dấu hiệu để đánh giá độ sâu của bỏng bao gồm sự có mặt của bọng nước hoặc nốt phồng rộp (gợi ý bỏng dày một phần); và giảm nhận cảm, sẹo vảy khô, giảm các giác và dễ dàng nhổ sợi lông ra khỏi nang (gợi ý bỏng dày toàn bộ).
+
+Nếu vết bỏng một phần hoặc toàn bộ độ dày
+
+>
+
+10% TBSA, hãy truyền dung dịch Ringer lactate đường tĩnh mạch với tốc độ ban đầu được dẫn hướng theo công thức Parkland (4 mL/kg × %TBSA bị bỏng trong 24 giờ đầu sau khi bị bỏng) và điều chỉnh theo lượng nước tiểu mỗi giờ.
+
+Đối với các vết sẹo vảy có đường bao quanh hoặc co thắt, hãy xem xét việc mở sẹo.
+
+Các biện pháp hỗ trợ bao gồm giảm đau đầy đủ và nếu bỏng
+
+>
+
+20% TBSA, hỗ trợ dinh dưỡng sớm.
+
+Nên cân nhắc tư vấn tại trung tâm bỏng nếu vết bỏng liên quan đến bàn tay, bàn chân hoặc đáy chậu (dày một phần hoặc sâu hơn); là
+
+>
+
+5% TBSA (độ dày một phần hoặc sâu hơn); là > 1% TBSA (toàn bộ độ dày); hoặc nếu bệnh nhân
+
+>
+
+60 tuổi hoặc
+
+<
+
+2 tuổi hoặc không có khả năng tuân thủ đầy đủ các biện pháp chăm sóc tại nhà.
+
+Điều trị bằng phẫu thuật nếu có mảng mô chết đóng vảy, áp suất khoang
+
+>
+
+30 mm Hg hoặc thường là nếu vết bỏng có độ dày toàn bộ hoặc độ dày một phần sâu.
+
+Đối với nhiễm trùng, hãy dùng áp dụng kháng sinh tại chỗ (để phòng ngừa); thường xuyên kiểm tra vết bỏng (để chẩn đoán sớm biến chứng); và sử dụng kháng sinh toàn thân, thay đổi cách điều trị khi cần thiết, và thỉnh thoảng lọc bỏ vùng bị nhiễm bệnh (đối với điều trị).
+
+Bắt đầu điều trị vật lý và trị liệu sớm để giảm thiểu sự sẹo và co bóp.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của bỏng ---
+
+Bỏng nhiệtcó thể do bất kỳ nguồn nhiệt nào ở bên ngoài (ngọn lửa, chất lỏng nóng, vật thể rắn nóng hoặc đôi khi là hơi nước). Hỏa hoạn cũng có thể dẫn đếnhít phải khóiđộc (xem thêmNgộ độc Carbon Monoxide).Ngọc trai & cạm bẫyĐánh giá đường thở và xem xét đặt nội khí quản sớm nếu bệnh nhân có các triệu chứng hô hấp, đờm có ga, bỏng quanh miệng, lông mũi bị cháy xém hoặc bị giam giữ trong môi trường bỏng rát.Đánh giá thành sau họng rất hữu ích trong việc đánh giá tổn thương đường thở. Nếu không có bằng chứng phù nề hoặc ban đỏ ở thành sau hầu họng, khả năng tổn thương đường thở là không thể.Bỏng do bức xạthường là kết quả của việc tiếp xúc lâu dài với bức xạ cực tím từ mặt trời (cháy nắng) nhưng cũng có thể là kết quả của việc tiếp xúc lâu dài hoặc mạnh với các nguồn bức xạ cực tím khác (ví dụ: giường tắm nắng) hoặc do tiếp xúc với nguồn tia X hoặc các bức xạ không phải từ mặt trời khác (xem phầnPhơi nhiễm và ô nhiễm bức xạ).Bỏng hoá chấtcó thể là axit mạnh, kiềm mạnh (ví dụ: chất nhuộm, xi măng), phenol, cresols, khí mù tạc, phốt pho và một số sản phẩm dầu mỏ (ví dụ, xăng, sơn mỏng). Hoại tử da và mô sâu hơn gây ra bởi các tác nhân này có thể tiến triển trong vài giờ.Bỏng điệnlà kết quả của sự sinh nhiệt và điện di của màng tế bào liên quan đến dòng điện tử lớn. Bỏng điện cao thế (>1000 vôn) thường gây tổn thương mô sâu trên diện rộng đối với các mô dẫn điện, chẳng hạn như cơ, dây thần kinh và mạch máu, mặc dù tổn thương da rõ ràng là rất ít.Các sự kiện liên quan đến bỏng (ví dụ, nhảy từ một tòa nhà đang cháy, bị va đập bởi các mảnh vụn,đâm vào xe cơ giới) có thể gây thương tích khác. Nên cân nhắc lạm dụng ở trẻ nhỏ và bệnh nhân lớn tuổi bị bỏng (xemNgược đãi trẻ emvàLạm dụng người cao tuổi).
+
+--- 2. Sinh lý bệnh bỏng ---
+
+Nhiệt từ bỏng gây ra biến tính protein và do đó hoại tử đông tụ. Xung quanh mô đông, các tiểu cầu kết tụ, các mạch máu co thắt, và mô vùng xung quanh được tưới máu (gọi là vùng ứ huyết) có thể mở rộng quanh vết thương. Trong khu vực ứ huyết, mô bị tăng tiết và viêm.Tổn thương hàng rào biểu bì bình thường cho phépSự xâm nhập của vi khuẩnMất dịch ngoàiDiều hòa thân nhiệtCác mô bị tổn thương thường trở nên phù nề, làm tăng thêm tình trạng mất thể tích nội mạch. Mất nhiệt có thể đáng kể do không có sự điều chỉnh nhiệt ở mô bị tổn thương, đặc biệt là những vết thương bị phơi nhiễm.Độ sâu của bỏngBỏngnông(trước đây là bỏng độ 1) chỉ giới hạn ở lớp biểu bì.Bỏngmột phần độ dày(trước đây là bỏng độ 2) liên quan đến một phần lớp hạ bì và có thể nông hoặc sâu.Bỏng dày cục bộ bê mặt bao gồm lớp nhú hạ bì (thuộc bề mặt hơn). Những vết bỏng này sẽ lành lại trong vòng 1 đến 2 tuần, và sẹo thường là tối thiểu. Quá trình chữa lành bỏng xảy ra từ các tế bào biểu bì lót tuyến mồ hôi và các nang lông; các tế bào này phát triển lên bề mặt, sau đó di chuyển qua bề mặt để gặp các tế bào từ các tuyến lân cận và nang lông.Bỏng dày cục bộ sâu bao gồm lớp hạ bì sâu hơn và mất≥2 tuần để chữa lành. Quá trình chữa lành bỏng chỉ xảy ra từ nang lông, thường để lại sẹo và có thể nghiêm trọng.Bỏng nông (bỏng độ 1)Hình ảnh© Springer Science+Business MediaBỏngtoàn bộ độ dày(trước đây là bỏng độ 1) lan rộng qua toàn bộ lớp hạ bì và vào lớp mỡ bên dưới. Quá trình lành bỏng chỉ xảy ra ở ngoại vi; những vết bỏng này, trừ khi nhỏ, nếu không sẽ đòi hỏi phải cắt bỏ và ghép da.
+
+--- 3. Các biến chứng của bỏng ---
+
+Bỏng gây ra các biến chứng toàn thân và biến chứng tại chỗ. Các yếu tố chính góp phần vào các biến chứng toàn thân là rách da và mất dịch. Các biến chứng tại chỗ bao gồm sẹo vảy, co cứng, và tạo sẹo.Biến chứng bỏng hệ thốngTỷ lệ phần trăm bỏng trên diện tích bề mặt cơ thể (TBSA) càng lớn, nguy cơ phát sinh biến chứng toàn thân càng lớn. Các yếu tố nguy cơ đối với các biến chứng toàn thân nghiêm trọng và gây tử vong bao gồm tất cả những điều sau đây:Bỏng một phần và toàn bộ bề dày≥40% TBSATuổi>60 tuổi hoặc<2 tuổiCó chấn thương lớn đồng thời hoặc hít phải khóiCác biến chứng toàn thân thường gặp nhất của là giảm thể tích và nhiễm trùng.Giảm thể tích,gây ra giảm tưới máu mô bị bỏng và đôi khi gây sốc, có thể do bị mất dịch từ các vết bong sâu hoặc có liên quan đến diện tích bỏng bề mặt lớn; phù toàn thân do mất dịch trong lòng mạch ra mô kẽ và tế bào. Ngoài ra, mất dịch không thể nhận thấy có thể là đáng kể. Giảm tưới máu mô bị bỏng cũng có thể là kết quả trực tiếp do tổn thương đến mạch máu hoặc do co thắt mạch thứ phát do giảm thể tích.Nhiễm trùng,ngay cả ở những vết bỏng nhỏ, là một nguyên nhân phổ biến củanhiễm khuẩn huyếtvà tử vong, cũng như các biến chứng tại chỗ. Sự suy giảm bảo vệ của vật chủ và xâm nhập và mô bị kích thích làm tăng xâm nhập và phát triển của vi khuẩn. Các nguyên nhân phổ biến nhất là Streptococci và Staphylococci trong vài ngày đầu và vi khuẩn Gram âm sau 5 đến 7 ngày; tuy nhiên, hệ vi khuẩn hầu như luôn hỗn hợp.Bất thường về chuyển hóacó thể bao gồm giảm albumin, một phần do hòa loãng máu (thứ phát sau khi bù dịch thay thế) và một phần là do sự mất protein vào khoang ngoài mạch thông qua các mao mạch bị tổn thương. Sự thiếu hụt điện giải do pha loãng có thể tiến triển; Chúng bao gồmgiảm magie,giảm phospho, vàhạ kali. Toan chuyển hóa có thể là kết quả của sốc.Sự tiêu cơ vânhoặc tan máu có thể là hậu quả của bỏng nhiệt sâu hoặc bỏng điện ở cơ do cơ bị thiếu máu dẫn đến co cứng. Tiêu cơ vân gây ra myoglobin niệu hoặc tan máu gây ra hemoglobin niệu có thể dẫn đếnhoại tử ống cấpvàtổn thương thận cấp.Hạ thân nhiệtcó thể do truyền một lượng lớn dịch mát vào tĩnh mạch và tiếp xúc nhiều bề mặt cơ thể với môi trường khoa cấp cứu mát mẻ, đặc biệt ở những bệnh nhân bị bỏng rộng.Tắc ruộtlà phổ biến sau khi bỏng diện rộng.Biến chứng bỏng tại chỗSẹo vảycứng, mô chết do bỏng sâu. Một sẹo vảy tròn, bao quanh hoàn toàn một chi (hoặc đôi khi cả cổ hoặc thân mình), có khả năng bị co thắt. Một sẹo vảy co thắt giới hạn việc mở rộng mô để đáp ứng với phù nề; thay vào đó, mô tăng áp, cuối cùng gây thiếu máu cục bộ. Tình trạng thiếu máu cục bộ đe doạ đến khả năng sống của các chi và các khoảng cách xa tới sẹo vảy, một sẹo vảy vòng quanh cổ hoặc lồng ngực có thể làm giảm chức năng thông khí.Sẹo và co cứnglà kết quả từ việc chữa lành vết bỏng sâu. Tùy thuộc vào mức độ của vết sẹo, sự biến dạng co cứng có thể xuất hiện ở các khớp. Nếu vết bỏng nằm gần khớp (đặc biệt ở tay), ở bàn chân, hoặc ở đáy chậu, chức năng có thể bị suy giảm nghiêm trọng. Nhiễm trùng có thể làm tăng tạo sẹo.Sẹo lồihình thành ở một số bệnh nhân bị bỏng, đặc biệt là ở những bệnh nhân có da sẫm màu hơn.
+
+--- 4. Triệu chứng và dấu hiệu của bỏng ---
+
+Bỏng một phần độ dày (độ 2)Hình ảnhHình ảnh do bác sĩ Steven E. Wolf cung cấp.Bỏng toàn bộ độ dày (độ 3)Hình ảnhHình ảnh do bác sĩ Steven E. Wolf cung cấp.Các triệu chứng và dấu hiệu ở vết thương phụ thuộc vào chiều sâu bị bỏng:Bỏng nông:Những vết bỏng có màu đỏ, tái và lan rộng, khi ấn nhẹ, đau và căng. Không có các bọng nước và phồng rộp.Bỏng dày một phần bề mặt:Những vết bỏng gây áp lực, đau và căng. Các bọng nước và phồng rộp không phát triển trong 24 giờ. Nền của bọng nước và phồng rộp có máu hồng và tiết ra dịch có fibrin.Bỏng dày một phần sâu:Những vết bỏng có thể trắng, đỏ hoặc đốm cả đỏ và trắng. Chúng không tái và ít đau đớn và căng hơn các vết bỏng ở bề mặt. Cảm giác châm kim thường được hiểu là áp suất hơn là hình thái. Các bọng nước và phồng rộp có thể tiến triển; các vết bỏng thông thường là khô.Bỏng dày toàn bộ:Những vết bỏng này có thể có màu trắng và mềm dẻo, đen và bị cháy, màu nâu và như da, hoặc màu đỏ sáng do có hemoglobin cố định ở vùng dưới da. Các vết bỏng dày toàn bộ bị tái có thể kích thích vùng da bình thường, ngoại trừ vùng da không bị áp lực. Bỏng dày toàn phần thường không đau và không có cảm giác. Các sợi lông có thể dễ dàng bị kéo ra khỏi nang lông. Không hình thành các bọng nước và phồng rộp. Đôi khi, các đặc điểm phân biệt vết bỏng toàn bộ độ dày với vết bỏng một phần độ dày phải mất 24 giờ đến 48 giờ mới phát sinh.
+
+--- 5. Chẩn đoán bỏng ---
+
+Đánh giá lâm sàng về mức độ bỏng và độ sâuXét nghiệm trong phòng thí nghiệm và chụp X-quang ngực ở bệnh nhân nhập việnVị trí và chiều sâu của vùng bỏng được ghi lại trên sơ đồ bỏng. Bỏng có độ tương thích về cả bỏng dày một phần sâu và bỏng dày toàn phần được coi là bỏng dày toàn phần.Tỷ lệ phần trăm bỏng trên TBSA được tính toán; chỉ có bỏng dày một phần và bỏng dày toàn bộ mới được đưa vào tính toán(1). Đối với người lớn, tỷ lệ phần trăm TBSA cho các bộ phận của cơ thể được ước tính theo quy tắc chín và đối với trẻ em, biểu đồ Lund-Browder ([A] Quy tắc chín [cho người lớn] và [B] Biểu đồ Lund-Browder [cho trẻ em] để ước tính mức độ bỏng); đối với các vết bỏng nhỏ hơn và rải rác, có thể ước tính dựa trên kích thước của toàn bộ bàn tay mở của bệnh nhân (không chỉ lòng bàn tay), chiếm khoảng 1% TBSA. Phương pháp đo theo kích thước bàn tay đặc biệt hữu ích trong việc tính toán diện tích bề mặt vết bỏng ở vùng bị bỏng một phần. Ví dụ: nếu một cánh tay (tương đương 9% nếu liên quan hoàn toàn) không bị bỏng hoàn toàn, kích thước bàn tay của bệnh nhân có thể được sử dụng làm mẫu để ước tính phạm vi của các khu vực không thương tổn (hoặc có thương tổn) rải rác. Diện tích không liên quan có thể được trừ đi diện tích 9% của cánh tay để tính toán chính xác hơn diện tích bề mặt bị bỏng của cánh tay. Trẻ em có đầu to hơn và chân nhỏ hơn nên tỷ lệ TBSA được ước tính chính xác hơn khi sử dụng biểu đồ Lund-Browder.(A) Quy tắc số chín (dành cho người lớn) và (B) Biểu đồ Lund-Browder (dành cho trẻ em) để ước tính mức độ bỏng(Redrawn từ Artz CP, JA Moncrief:Điều trị bỏng, ed. 2. Philadelphia, Công ty của WB Saunders, 1969; sử dụng với sự cho phép.)Ở những bệnh nhân nằm viện có nguy cơ bị biến chứng toàn thân (tức là bệnh nhân trưởng thành có > 20% TBSA, trẻ em có > 15% TBSA và bệnh nhân lớn tuổi bị thương do điện với mức tiếp xúc > 1K volt và các bệnh lý tim, phổi hoặc thận đi kèm đáng kể), cần đo hemoglobin và hematocrit, chất điện giải trong huyết thanh, nitơurêmáu, creatinin,albumin, protein, phosphate và canxi ion hóa. Ngoài ra còn cần phải làm điện tâm đồ, xét nghiệm nước tiểu để tìm myoglobin và chụp X-quang ngực. Myoglobin niệu (có nghĩa là tan máu hoặc tiêu cơ vân) được gợi ý bởi nước tiểu có màu tối rõ ràng hoặc có kết quả dương tính với máu trên que thử khi không thấy hồng cầu trên vi kính. Các xét nghiệm này được lặp lại nếu cần.Khoang cơđược đánh giá ở những bệnh nhân bị myoglobin niệu.Nhiễm trùng vết bỏngđược gợi ý bởi chất tiết từ vết thương, quá trình làm lành vết thương thất bại, hoặc bằng chứng hệ thống về nhiễm trùng (ví dụ như không dung nạp thức ăn, giảm tiểu cầu, tăng nồng độ glucose huyết thanh). Sốt và tăng số lượng bạch cầu thường gặp trên bệnh nhân bị bỏng mà không có nhiễm trùng và do đó đây là những dấu hiệu không đáng tin cậy để phát hiện nhiễm trùng. Nếu chẩn đoán là không rõ ràng, nhiễm trùng có thể được xác nhận bằng sinh thiết; cấy dịch bề mặt vết thương hoặc chất tiết là không đáng tin cậy. Nhiều trung tâm xét nghiệm cho bệnh nhân khi nhập viện để tìm vi khuẩnStaphylococcus aureuskháng methicillin (MRSA).Tài liệu tham khảo chẩn đoán1.Kamolz LP, Parvizi D, Giretzlehner M, et al: Burn surface area calculation: What do we need in future.Burns40(1):171-172, 2014. doi: 10.1016/j.burns.2013.07.021
+
+--- 6. Điều trị bỏng ---
+
+Dịch truyền tĩnh mạch đối với các vết bỏng một phần và toàn bộ>10% tổng diện tích bề mặt cơ thể (TBSA)Làm sạch vết thương, băng và đánh giá tuần tựCác biện pháp hỗ trợChuyển hoặc gửi bệnh nhân được lựa chọn đến trung tâm bỏngPhẫu thuật và vật lý trị liệu cho bỏng dày một phần sâu và bỏng dày toàn bộĐiều trị ban đầuĐiều trị bắt đầu từ trước viện. Những ưu tiên ban đầu cũng giống như đối với bất kỳ bệnh nhân bị thương nào: ABC (đường thở, hô hấp, và tuần hoàn). Một đường thở được cung cấp, thông khí được hỗ trợ, và nếu có liên quan đếnhít phải khóiđược xử lý bằng thở oxy 100%. Dập tắt các vết cháy đang còn, loại bỏ các vật liệu cháy và nóng. Loại bỏ toàn bộ quần áo. Hóa chất, trừ bột, được làm sạch bằng nước; bột nên được chải đi trước khi ướt. Các vết bỏng do axit, kiềm hoặc các hợp chất hữu cơ (ví dụ phenol, cresols, hóa dầu) được làm sạch với nước trong ít nhất 20 phút sau khi không có gì có vẻ còn lại.Truyền dịch tĩnh mạchDịch truyền tĩnh mạch cho bệnh nhân bị sốc hoặc bỏng một phần và bỏng toàn bộ>10% TBSA. Một kim truyền kích thước từ 14 đến 16 G được đặt trong 1 hoặc 2 tĩnh mạch ngoại biên ở vùng da không bị bỏng nếu có thể. Tránh lấy đường truyền tĩnh mạch nếu có nguy cơ cao bị nhiễm trùng.Khối lượng dịch truyền ban đầu được hướng dẫn bằng điều trị theo bằng chứng lâm sàng có sốc(1). Nếu không cósốcthì việc truyền dịch nhằm mục đích bù dịch bị thiếu hụt và cung cấp duy trì dịch cho bệnh nhân. Công thức Parkland (4 mL/kg) × % TBSA bị bỏng (bỏng một phần và bỏng toàn bộ) được sử dụng để ước tính nhu cầu thể tích dịch trong 24 giờ đầu sau khi bỏng (không phải sau khi đến bệnh viện) và xác định tốc độ truyền dịch theo đường tĩnh mạch. Một nửa số dịch tính toán được truyền trong 8 giờ đầu tiên; phần còn lại được truyền trong 16 giờ tiếp theo. Các dung dịch được sử dụng như Ringer's lactat do một lượng lớn dịch đẳng trương có thể gây ra tình trạng toan chuyển hóa tăng Clo máu.Ví dụ: ở một người nặng 100 kg bị bỏng TBSA 50%, thể tích dịch theo công thức Parkland sẽ làMột nửa thể tích, 10 L, được truyền liên tục trong 8 giờ đầu sau bỏng, và 10 L còn lại được truyền trong 16 giờ sau. Trên thực tế, công thức này chỉ là khởi đầu, và tốc độ truyền được điều chỉnh dựa trên đáp ứng lâm sàng. Lượng nước tiểu, thường được đo bằng ống thông tiểu lưu lại, là chỉ số thông thường về đáp ứng lâm sàng; mục tiêu là duy trì lượng nước tiểu là 0,5 mL/kg/giờ ở người lớn và 1,0 mL/kg/giờ ở trẻ em (<30 kg).Nhu cầu dịch duy trì cho trẻ embổ sung cần được tính toán và thêm riêng vì trẻ em có nguy cơ bị hạ đường huyết khi hồi sức khối lượng lớn. Khi cho lượng dung dịch lớn điển hình, cũng rất quan trọng để tránh tình trạng quá tải dịch, suy tim trái vàhội chứng khoang. Truyền dịch có thể được chuẩn độ để chỉ đạt được lượng nước tiểu mục tiêu. Các thông số lâm sàng, bao gồm cả lượng nước tiểu và các dấu hiệu sốc hoặc suy tim, được ghi lại ít nhất mỗi giờ trên băng các.Ngọc trai & cạm bẫyParkland và các công thức hồi sức cấp cứu vết bỏng khác chỉ là điểm khởi đầu; thể tích và tốc độ chất lỏng được điều chỉnh dựa trên phản ứng lâm sàng.Một số bác sĩ lâm sàng truyền dịch keo, thường làalbumin, sau 12 giờ cho những bệnh nhân bị bỏng nặng hơn, những bệnh nhân rất trẻ hoặc rất già, hoặc những bệnh nhân mắc bệnh tim và cần truyền lượng dịch lớn.Nếu lượng nước tiểu không đủ mặc dù đã sử dụng một lượng lớn dung dịch crystalloid, thì cần phải hội chẩn với trung tâm bỏng vì những bệnh nhân này có nguy cơ cao bị biến chứng hồi sức, bao gồm hội chứng khoang bụng và tứ chi. Những bệnh nhân có lượng nước tiểu không đủ mặc dù đã dùng một lượng lớn dịch crystalloid có thể đáp ứng với việc truyền dung dịch colloid hoặc các biện pháp khác. Trong các phân tích tổng hợp, việc sử dụngalbuminđã được chứng minh là làm giảm tổng lượng dịch khoảng một nửa sau 72 giờ bị thương. Các phân tích tổng hợp gợi ý rằng cần có các thử nghiệm bổ sung để xác định ảnh hưởng đối với tỷ lệ tử vong và bệnh tật của việc sử dụng dung dịch colloid với dung dịch crystalloid (2, 3, 4).Đối với bệnh nhântiêu cơ vân, truyền dịch là phương pháp điều trị chính, và mục tiêu là duy trì lượng nước tiểu ít nhất 0,5 và 1,0 mL/kg/giờ. Mặc dù một số cơ quan chức năng đã khuyến nghị kiềm hóa nước tiểu bằng cách truyền dịch tĩnh mạch có chứa natri bicarbonate để điều trị globin cơ niệu kịch phát, nhưng có rất ít bằng chứng về kết quả bệnh nhân được cải thiện, vì vậy việc kiềm hóa không còn được khuyến nghị.Công cụ tính toán lâm sàngBù dịch trong bệnh nhân bỏng là người lớn (ước lượng dịch tinh thể Parkland)Chăm sóc vết thương ban đầuSau khi giảm đau đầy đủ, vết thương được làm sạch bằng xà phòng và nước, đồng thời loại bỏ tất cả các mảnh vụn rời ra. Nước rửa nên ở nhiệt độ phòng hoặc ấm hơn để tránh gây hạ thân nhiệt. Các bọng nước bị vỡ trừ những vết nhỏ trên lòng bàn tay, ngón tay, và lòng bàn tay, sẽ được lấy đi. Các bọng nước không vỡ có thể được giữ nguyên, nhưng cần được điều trị bằng thuốc kháng sinh tại chỗ. Với bệnh nhân được chuyển đến trung tâm bỏng, có thể dùng băng gạc khô (kem bỏng có thể gây cản trở việc đánh giá vết thương ở cơ sở tiếp nhận), bệnh nhân được giữ ấm và giảm đau tương đối bằng thuốc opioid đường tĩnh mạch.Sau khi vết thương được làm sạch và được đánh giá bởi bác sĩ điều trị cuối cùng, vết bỏng có thể được điều trị tại chỗ. Đối với những vết bỏng dày cục bộ, chỉ cần điều trị đơn độc bằng thuốc tại chô một cách thích hợp. Tất cả các vết bỏng dày cục bộ sâu và bỏng dày toàn phần nên được điều trị bằng cắt bỏ và ghép da, nhưng trong các phương pháp điều trị tạm thời, thuốc bôi tại chỗ là thích hợp.Điều trị tại chỗ có thể là bằngThuốc mỡ kháng khuẩn (ví dụ, 1% bạc sulfadiazine, mafenide axetat)Băng gạc thương mại kết hợp bạc (ví dụ: băng gạc bạc tinh thể nano giải phóng bền vững)Băng vết thương sinh tổng hợp (còn được gọi là sản phẩm da nhân tạo)Băng bạc chỉ nên được xem xét đối với vết bỏng một phần độ dầy của da có độ ẩm đáng kể ở vết thương vì quá trình hoạt hóa bạc cần vết thương ẩm. Sulfadiazine bạc có thể gây giảm bạch cầu thoáng qua. Một số (nhưng không phải tất cả) băng xơ ngâm tẩm bạc phải được giữ ẩm nhưng có thể không cần thay thường xuyên như 7 ngày một lần (để giảm thiểu đau đớn liên quan đến việc chăm sóc vết thương lặp đi lặp lại).Thuốc mỡ bôi tại chỗ phải được thay hàng ngày. Các sản phẩm da nhân tạo và băng tẩm bạc không được thay thường xuyên nhưng có thể gây ra tình trạng mưng mủ tiềm ẩn đòi hỏi phải loại bỏ, đặc biệt là khi vết thương sâu. Chi bị bỏng cần phải được nâng cao lên. Băng ép như băng thun quấn nên được sử dụng để giảm phù nề và cải thiện quá trình lành vết thương.Mũi giải độc tố uốn ván nhắc lại(tiêm dưới da hoặc tiêm bắp) được tiêm cho tất cả những bệnh nhân bị bỏng trừ những người bị bỏng nhẹ đã được tiêm phòng đầy đủ trước đó và những người chưa được tiêm nhắc lại trong vòng 5 năm qua. Những bệnh nhân tiêm nhắc lại ở xa hơn hoặc chưa tiêm đủ liệu trình vắc xin được tiêm 250 đơn vị globulin miễn dịch uốn ván (người) tiêm bắp và đồng thời tiêm vắc xin chủ động (xemPhòng ngừa uốn ván).Có thể cần phải phẫu thuật cắt sẹo vảy (rạch sẹo) của những sẹo vảy co thắt để có thể mở rộng phần ngực hoặc đảm bảo tưới máu chi. Tuy nhiên, sẹo vảy co thắt hiếm khi đe doạ khả năng sống còn của chi ở trong vài giờ đầu tiên, do đó, nếu có thể chuyển đến trung tâm bỏng trong thời gian đó, thì phẫu thuật rạch sẹo có thể được hoãn lại cho đến khi đó. Nếu không thể chuyển viện kịp thời, nên thực hiện phẫu thuật cắt bỏ mô hoại tử có ý kiến của trung tâm tư vấn bỏng.Các biện pháp hỗ trợĐiều trị tình trạng hạ thân nhiệt, và giảm đau. Opioid (ví dụ morphine) nên được cho dùng đường tĩnh mạch với liều lượng lớn để giải quyết được cơn đau. Điều trị thiếu hụt điện giải có thể cần bổ sung canxi (Ca), magiê (Mg), kali (K) hoặc phosphate (PO4).Hỗ trợ dinh dưỡngđược chỉ định cho bệnh nhân bị bỏng>20% TBSA hoặc suy dinh dưỡng trước đó. Hỗ trợ bằng ống thông cho ăn bắt đầu càng sớm càng tốt nếu dinh dưỡng bằng miệng không khả thi hoặc không đầy đủ. Hỗ trợ dinh dưỡng ngoài đường tiêu hóa (truyền tĩnh mạch) hiếm khi cần đến.Nhập viện và chuyển việnSau khi điều trị ban đầu và ổn định, cần đánh giá nhu cầu chuyển viện và/hoặc nhập viện. Nên hội chẩn với trung tâm bỏng để thảo luận về các phương án điều trị choBỏng toàn bộ độ dày của da>1% TBSABỏng một phần độ dày của da>5% TBSABỏng tay, mặt, bàn chân, hoặc đáy chậu (bỏng dày một phần hoặc sâu hơn)Do có nhiều yếu tố liên quan đến kết quả bỏng, nên thảo luận sớm về các chi tiết cụ thể của từng trường hợp với trung tâm bỏng có lẽ hữu ích hơn so với việc áp dụng các tiêu chí cứng nhắc mà không tham khảo ý kiến.Ngoài ra, cần phải chuyển viện và/hoặc nhập viện nếuBệnh nhân<2 tuổi hoặc>60 tuổi.Tuân thủ các biện pháp chăm sóc tại nhà có thể gặp nhiều khó khăn (ví dụ: nếu cần nâng cao tay hoặc chân, thường là khó thực hiện ở nhà).Nhiều chuyên gia khuyến nghị rằng tất cả các vết bỏng, ngoại trừ vết bỏng nông<1% TBSA, đều phải được điều trị bởi các bác sĩ có kinh nghiệm và nên cân nhắc điều trị theo dõi khẩn cấp tại trung tâm bỏng đối với tất cả các vết bỏng một phần hoặc toàn bộ có độ dày>2% TBSA. Duy trì giảm đau và tập vận động có thể rất khó khăn đối với nhiều bệnh nhân và người chăm sóc. Ngay cả những bệnh nhân không được điều trị nội trú cũng có thể được hưởng lợi từ việc chuyển viện hoặc giới thiệu sớm đến trung tâm bỏng để có thể bắt đầu chăm sóc vết thương, băng bó chuyên dụng và các bài tập vận động sớm.Nhiễm trùngKháng sinh dự phòng đường toàn thân không được dùng.Việc điều trị kháng sinh theo kinh nghiệm ban đầu đối với nhiễm trùng rõ ràng trong 5 ngày đầu tiên nên tập trung vào tụ cầu và phế cầu (ví dụ với vancomycin cho bệnh nhân nội trú có bệnh phẩm khuẩn lạc MRSA dương tính). Nhiễm trùng phát triển sau 5 ngày được điều trị bằng kháng sinh phổ rộng có hiệu quả chống vi khuẩn Gram dương và Gram âm. Lựa chọn kháng sinh sau đó được điều chỉnh dựa trên kết quả nuôi cấy và độ nhạy của kháng sinh. Cắt bỏ vết thương bỏng có nhiễm trùng sâu hơn sẽ tối ưu hóa cơ hội giải quyết nhiễm trùng. Việc ghép da nên được trì hoãn cho đến khi tình trạng nhiễm trùng được giải quyết.Phẫu thuậtPhẫu thuật được chỉ định cho bỏng mà không được mong đợi có thể chữa lành trong vòng 2 tuần, bao gồm phần lớn bỏng dày cục bộ sâu và tất cả bỏng dày toàn phần. Sẹo vảy được loại bỏ càng sớm càng tốt, lý tưởng là trong vòng 3 ngày để ngăn ngừanhiễm trùngvà tạo điều kiện cho việc ghép da sớm, rút ngắn thời gian nằm viện và cải thiện chức năng. Nếu vết bỏng lan rộng và đe doạ đến tính mạng, các vết thương lớn nhất sẽ được loại bỏ sớm nhất để đóng phạm vi đốt càng sớm càng tốt. (Xem thêmCách cắt bỏ mô hoại tử.)Sau khi cắt bỏ, quá trình ghép da diễn ra lý tưởng bằng cách sử dụng các mảnh ghép tự thân có độ dày một phần (da của bệnh nhân), là vĩnh viễn (5). Ghép tự thân có thể được cấy ghép như các tấm (một mảng da liền) hoặc ghép nối (các tấm da của người hiến tặng được kéo dài để che khu vực rộng hơn bằng cách tạo nhiều khoảng cách đều nhau bằng các vết rạch nhỏ). Lưới da được sử dụng ở những vùng ít quan tâm hơn khi bỏng TBSA>20% và da của người cho là khan hiếm. Các lưới da có hình dáng giống như lưới, và đôi khi sẽ tạo sẹo phì đại.Khi bỏng>40% TBSA và nguồn cung cấp vật liệu ghép tự thân không đủ, có thể sử dụng một mẫu tái tạo da nhân tạo làm lớp phủ tạm thời (5). Có thể tạm thời sử dụng cấp ghép khác cá thể (da từ người hiến) hoặc ghép ngoại lai (ví dụ da lợn); nhưng bị thải ghép trong vòng 10- 14 ngày. Cả hai loại che phủ tạm thời đều phải được thay thế bằng ghép da tự thân.Phẫu thuật mở cân, mạc các khoang để giải áp khoang được thực hiện khi áp lực khoang>30 mm Hg.Hội chứng khoanghiếm gặp ở các vết bỏng khác ngoàibỏng do điện cao thế(6).Vật lý và vận động trị liệuLiệu pháp vật lý và trị liệu bắt đầu khi nhập viện để giảm thiểu sự tạo sẹo và co thắt, đặc biệt đối với các bề mặt cơ thể có độ căng da cao và cử động thường xuyên (ví dụ như mặt, tay) và để tối ưu hóa chức năng. Các bài tập chủ động và thụ động nhiều chuyển động trở nên dễ dàng hơn khi phù đầu ban đầu giảm xuống (được tăng cường bởi độ nâng và độ ép thích hợp); chúng được thực hiện một hoặc hai lần mỗi ngày. Sau khi ghép, các bài tập thường bị tạm dừng trong 3 ngày, sau đó được tiếp tục lại, nhưng tại một số trung tâm được bắt đầu trong vòng 24 giờ kể từ khi ghép. Các trường hợp chi bị bỏng dày một phần sâu hoặc bỏng dày toàn bộ được cố định ở tư thế chức năng càng sớm càng tốt và giữ liên tục (trừ khi tập thể dục) cho đến khi được ghép da hoặc bệnh nhân được chưa lành, hoặc cả hai.Điều trị ngoại trúĐiều trị ngoại trú bao gồm việc giữ cho vết bỏng sạch sẽ và, trong chừng mực có thể, giữ phần cơ thể bị ảnh hưởng nâng cao lên và, đối với tứ chi, được ép (ví dụ, bằng cách quấn đàn hồi bên ngoài băng gạc). Cần thay băng mỗi ngày đối với bỏng được điều trị bằng thuốc bôi tại chỗ. Thuốc mỡ được sử dụng và sau đó được bao phủ bằng băng gạc khô không bám dính và băng nén. Băng bạc nên được thay từ 7 đến 10 ngày một lần, tùy thuộc vào khuyến nghị sản phẩm cụ thể. Thay băng chỉ đơn giản là liên quan đến việc tháo băng cũ và thay thế bằng một cái mới. Không được thay băng Biosynthetic khi không có mủ. Gạc Biosynthetic nên chỉ cần được bao phủ bằng gạc khô, được thay đổi hàng ngày. (Xem thêmCách cắt lọc và băng vết bỏng.)Lịch tái khám của bệnh nhân ngoại trú được lên kế hoạch tùy theo mức độ bỏng (ví dụ như bỏng rất nhỏ, thăm khám ban đầu trong vòng 24 giờ, sau đó các lần thăm khám sau 7 đến 10 ngày một lần). Các lần tái khám bao gồm rạch vết bỏng nếu có chỉ định, đánh giá lại mức độ bỏng và đánh giá nhu cầu về vật lý trị liệu và ghép da. Bệnh nhân nên tái khám sớm hơn nếu nhận thấy dấu hiệu nhiễm trùng, chẳng hạn như tăng độ đỏ kéo dài từ các vết thương, tăng số lượng mủ và đau, hoặc thay đổi hình dạng vết thương với sự phát triển của đốm đen hoặc đỏ. Nếu các dấu hiệu này xảy ra, cần nhanh chóng đánh giá y tế. Điều trị ngoại trú có thể chấp nhận được đối với viêm tại chỗ vết bỏng nhỏ ở bệnh nhân khỏe mạnh tuổi từ 2 đến 60 tuổi; nhập viện được chỉ định cho các trường hợp nhiễm trùng khác.Tài liệu tham khảo về điều trị1.Pham TN, Cancio CL, Gibran NS: American Burn Association practice guidelines burn shock resuscitation.J Burn Care Res29(1):257-266, 2008. doi: 10.1097/BCR.0b013e31815f38762.Eljaiek R, Heylbroeck C, Dubois MJ: Albumin administration for fluid resuscitation in burn patients: A systematic review and meta-analysis.Burns43(1):17-24, 2017. doi: 10.1016/j.burns.2016.08.0013.Greenhalgh DG, Cartotto R, Taylor SL: Burn resuscitation practices in North America: Results of the Acute Burn Resuscitation Multicenter Prospective Trial (ABRUPT).Ann Surg10.1097/SLA.0000000000005166, 2021. doi: 10.1097/SLA.0000000000005166.4.Navickis RJ, Greenhalgh DG, Wilkes MM: Albumin in burn shock resuscitation: A meta-analysis of controlled clinical studies.J Burn Care Res37(3):e268-278, 2016 doi: 10.1097/BCR.00000000000002015.Kagan RJ, Peck MD, Ahrenholz DH, et al: Surgical management of the burn wound and use of skin substitutes: An expert panel white paper.J Burn Care Res34:e60–79, 2013. doi: 10.1097/BCR.0b013e31827039a66.International Society for Burn Injury (ISBI) Practice Guidelines Committee: Steering Committee; Advisory Committee.ISBI Practice Guidelines for Burn Care.Burns42(5):953-1021, 2016. doi: 10.1016/j.burns.2016.05.013
+
+--- 7. Những điểm chính ---
+
+Các dấu hiệu để đánh giá độ sâu của bỏng bao gồm sự có mặt của bọng nước hoặc nốt phồng rộp (gợi ý bỏng dày một phần); và giảm nhận cảm, sẹo vảy khô, giảm các giác và dễ dàng nhổ sợi lông ra khỏi nang (gợi ý bỏng dày toàn bộ).Nếu vết bỏng một phần hoặc toàn bộ độ dày>10% TBSA, hãy truyền dung dịch Ringer lactate đường tĩnh mạch với tốc độ ban đầu được dẫn hướng theo công thức Parkland (4 mL/kg × %TBSA bị bỏng trong 24 giờ đầu sau khi bị bỏng) và điều chỉnh theo lượng nước tiểu mỗi giờ.Đối với các vết sẹo vảy có đường bao quanh hoặc co thắt, hãy xem xét việc mở sẹo.Các biện pháp hỗ trợ bao gồm giảm đau đầy đủ và nếu bỏng>20% TBSA, hỗ trợ dinh dưỡng sớm.Nên cân nhắc tư vấn tại trung tâm bỏng nếu vết bỏng liên quan đến bàn tay, bàn chân hoặc đáy chậu (dày một phần hoặc sâu hơn); là>5% TBSA (độ dày một phần hoặc sâu hơn); là > 1% TBSA (toàn bộ độ dày); hoặc nếu bệnh nhân>60 tuổi hoặc<2 tuổi hoặc không có khả năng tuân thủ đầy đủ các biện pháp chăm sóc tại nhà.Điều trị bằng phẫu thuật nếu có mảng mô chết đóng vảy, áp suất khoang>30 mm Hg hoặc thường là nếu vết bỏng có độ dày toàn bộ hoặc độ dày một phần sâu.Đối với nhiễm trùng, hãy dùng áp dụng kháng sinh tại chỗ (để phòng ngừa); thường xuyên kiểm tra vết bỏng (để chẩn đoán sớm biến chứng); và sử dụng kháng sinh toàn thân, thay đổi cách điều trị khi cần thiết, và thỉnh thoảng lọc bỏ vùng bị nhiễm bệnh (đối với điều trị).Bắt đầu điều trị vật lý và trị liệu sớm để giảm thiểu sự sẹo và co bóp.

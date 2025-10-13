@@ -1,0 +1,309 @@
+TIÊU ĐỀ: Chụp cộng hưởng từ
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-nguyên-lý-cơ-bản-trong-chẩn-đoán-hình-ảnh/chụp-cộng-hưởng-từ
+================================================================================
+
+NỘI DUNG:
+
+Chụp cộng hưởng từ
+
+Theo
+
+Mustafa A. Mafraji
+
+,
+
+MD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 11 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1125030_vi
+
+Chỉ định chụp MRI
+
+|
+
+Các kỹ thuật MRI khác
+
+|
+
+Nhược điểm của MRI
+
+|
+
+MRI theo trọng số T1
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+MRI đầu gối
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+MRI phục hồi đảo ngược T1 ngắn của toàn bộ cơ thể
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+MRI sử dụng từ trường và sóng radio để tạo ra các lớp cắt mỏng của mô cơ quan. Các proton trong các mô xoay liên tục để tạo ra nhiều từ trường nhỏ được sắp xếp ngẫu nhiên. Khi được bao bọc bởi một từ trường mạnh của máy MRI, trục từ trường của các proton trong mô sẽ xếp dọc theo từ trường của MRI. Xung tần số radio sau đó sẽ được sử dụng để làm cho một số proton đảo trục ngẫu nhiên trái chiều từ trường, từ đó tạo ra trạng thái năng lượng cao. Sau khi xung này biến mất, các proton rơi vào trạng thái nghỉ và quay trở lại sắp xếp theo trục của từ trường ban đầu của máy MRI. Mức độ và tốc độ giải phóng năng lượng xảy ra trong quá trình các proton quay trở lại trục ban đầu (thư duỗi T1) và khi chúng dao động (tiến động) (thư duỗi T2) được ghi lại dưới dạng bản đồ cường độ tín hiệu bởi các cuộn thu (ăng ten) đặt nằm trong thiết bị chụp MRI. Máy tính sẽ sử dụng các thuật toán khác nhau để phân tích những tín hiệu này và tạo ra những hình ảnh giải phẫu chi tiết.
+
+Cường độ tín hiệu tương đối (độ sáng) của các mô trong phim MRI được xác định bởi các yếu tố sau đây
+
+Loại xung tần số vô tuyến và gradient dạng tín hiệu sóng sử dụng trong khi chụp
+
+Đặc tính T1 và T2 nội tại của mô
+
+Mật độ proton của mô
+
+Bằng cách thay đổi các xung tần số vô tuyến và gradient dạng tín hiệu, máy tính sẽ tạo ra các xung cụ thể, từ đó quyết định cách thức thu nhận và hiển thị hình ảnh khác nhau của mô. Hình ảnh có thể là
+
+Ảnh T1W
+
+Ảnh T2W
+
+Ảnh mật độ proton
+
+Ví dụ, mô mỡ xuất hiện dưới dạng ảnh sáng trên hình ảnh T1W và tương đối tối (cường độ tín hiệu thấp) trên T2W; nước và dịch xuất hiện tương đối tối trên hình ảnh T1 và sáng trên T2W. Các hình ảnh T1 thể hiện rõ mô hình giải phẫu bình thường của mô mềm và mô mỡ (ví dụ để xác định khối chứa mô mỡ). Hình ảnh T2W tỏ ra tối ưu hơn trong hiển thị các loại dịch và các hình ảnh bất thường (như hình ảnh u, viêm, chấn thương). Trên thực tế lâm sàng, hình ảnh T1 và T2 đều giúp bổ sung thêm thông tin, vì vậy cả hai đều có vai trò rất quan trọng trong việc mô tả rõ các tổn thương bất thường.
+
+Máy chụp MRI có độ phân giải cao được giới thiệu gần đây giúp tăng chất lượng hình ảnh và độ chính xác trong chẩn đoán, đồng thời tạo ra nhiều chuỗi xung bổ sung để xác định rõ hơn các mô và khối u.
+
+Chỉ định chụp MRI
+
+MRI được ưu tiên hơn CT khi độ phân giải tương phản mô mềm phải rất chi tiết (ví dụ, để đánh giá các bất thường dây thần kinh sọ hoặc tủy sống, tổn thương viêm, chấn thương, nghi ngờ u ở hệ thống cơ xương khớp, hoặc các tổn thương nội khớp). MRI cũng hữu dụng trong các trường hợp sau đây:
+
+Chẩn đoán hình ảnh mạch máu:
+
+Chụp mạch cộng hưởng từ (MRA) cho phép hiển thị hình ảnh các động mạch, với độ chính xác cao và ít xâm lấn hơn so với chụp mạch thường. Chất cản quang gadolinium đôi khi được sử dụng. MRA có thể được sử dụng trong chụp động mạch chủ ngực, chủ bụng, các động mạch não, động mạch cảnh, động mạch tạng ổ bụng, động mạch thận và động mạch chi dưới. Chụp tĩnh mạch (chụp cộng hưởng từ tĩnh mạch hoặc MRV) cung cấp hình ảnh với chất lượng tốt nhất trong các trường hợp bất thường tĩnh mạch, bao gồm cả huyết khối và các dị dạng mạch.
+
+Các bất thường ở gan và đường mật:
+
+Chụp cộng hưởng từ mật tụy (MRCP) đặc biệt có giá trị, bởi nó là một phương pháp không xâm lấn, có độ chính xác cao trong chẩn đoán hình ảnh hệ thống đường mật và tụy.
+
+Các khối tại hệ thống sinh dục nữ:
+
+MRI hỗ trợ cho siêu âm, nhằm mô tả rõ hơn các đặc tính của khối u tại phần phụ và chẩn đoán giai đoạn các khối u ở tử cung.
+
+Một số loại gãy xương nhất định:
+
+Hình ảnh gãy xương hông ở bệnh nhân bị loãng xương được hiển thị trên phim chụp MRI một cách rất chính xác.
+
+Thâm nhiễm tủy xương và di căn xương:
+
+MRI đặc biệt hữu ích để đánh giá bệnh nhân có xạ hình xương dương tính và chụp X-quang bình thường và để xác định các bất thường của tủy xương như là di căn so với các tổn thương không ác tính.
+
+MRI cũng có thể là lựa chọn thay thế cho CT có tiêm chất cản quang ở những bệnh nhân có nguy cơ cao phản ứng với thuốc cản quang iod.
+
+Các thuốc cản quang
+
+Chất cản quang thường được sử dụng trong chụp MRI để làm nổi bật cấu trúc mạch máu, làm rõ các đặc trưng của tổn thương viêm và u.
+
+Đây là các chất có từ tính, do đó chúng ảnh hưởng đến thời gian thư giãn của proton. Tiêm khớp dẫn xuất gadolinium có thể được sử dụng trong chụp MRI các cấu trúc nội khớp.
+
+Các kỹ thuật MRI khác
+
+Chụp cộng hưởng từ khuếch tán
+
+Cường độ tín hiệu liên quan đến sự khuếch tán các phân tử nước trong mô. Loại MRI này có thể được sử dụng trong
+
+Phát hiện thiếu máu cục bộ và nhồi máu trong giai đoạn sớm
+
+Phát hiện bệnh lý thuộc chất trắng của não
+
+Để phân biệt áp xe với một khối u nang
+
+Chẩn đoán giai đoạn nhiều loại khối u khác nhau, ví dụ như ung thư phổi không tế bào nhỏ
+
+Chuỗi xung điểm vang đồng phẳng
+
+Kỹ thuật siêu nhanh này (hình ảnh thu được trong
+
+<
+
+1 giây) được sử dụng để khuếch tán, tưới máu và tạo hình ảnh chức năng của não và tim. Ưu điểm tiềm năng của nó là việc thể hiện rõ hoạt động của não và tim, đồng thời giảm nhiễu do các chuyển động gây ra. Tuy nhiên, việc sử dụng còn khá nhiều hạn chế, do cần có một hệ thống phần cứng kỹ thuật đặc biệt đi kèm. Kỹ thuật này có độ nhạy cao hơn so với MRI thông thường.
+
+MRI chức năng
+
+MRI chức năng được sử dụng để đánh giá hoạt động của não theo vị trí.
+
+Phổ biến nhất là cách chụp não ở độ phân giải thấp với tần số cao (mỗi 2 đến 3 giây/lần chụp). Người ta có thể phân biêt được sự thay đổi oxy hóa Hemoglobin, từ đó ước tính hoạt động chuyển hóa trên các phần khác nhau của não.
+
+MRI chức năng đôi khi được sử dụng trong nghiên cứu, khi đối tượng nghiên cứu tiến hành các hành vi nhận thức khác nhau (ví dụ, giải phương trình toán học); các bộ phận đang hoạt động chuyển hóa mạnh được cho là những bộ phận tham gia nhiều nhất vào hành vi nhận thức đó. Cách thiết lập mối tương quan về mặt giải phẫu và chức năng này được gọi là lập bản đồ não.
+
+MRI chức năng có thể được sử dụng trong cả cơ sở nghiên cứu và lâm sàng. Nó đặc biệt hữu ích về mặt lâm sàng trong việc lập bản đồ các vùng vận động hoặc ngôn ngữ (ví dụ, các vùng vỏ não mà khi bị cắt bỏ sẽ dẫn đến thiếu hụt trong xử lý cảm giác, chức năng vận động hoặc xử lý ngôn ngữ) ở những bệnh nhân có bất thường nội sọ như khối u và dị dạng động mạch được phẫu thuật. đã lên kế hoạch. Nó cũng được sử dụng ngày càng nhiều để lập kế hoạch phẫu thuật động kinh.
+
+Chụp MRI chuỗi xung gradient echo
+
+Gradient echo là một chuỗi xung được dùng để chụp hình ảnh dòng máu và dịch não tủy đang di chuyển (ví dụ trong chụp MRI mạch). Các nhiễu do chuyển động gây ra sẽ làm mờ hình ảnh trong quá trình chụp, do đó. bệnh nhân được yêu cầu phải nín thở trong khi chụp (ví dụ chụp tim, phổi, và tạng ổ bụng). Do có tốc độ rất nhanh, kỹ thuật này có thể làm giảm các nhiễu nói trên.
+
+Chụp cộng hưởng từ phổ
+
+Chụp cộng hưởng từ phổ kết hợp giữa chụp cộng hưởng từ (chủ yếu cung cấp thông tin dựa vào lượng nước và mỡ trong mô) và cộng hưởng từ hạt nhân (NMR). Chụp cộng hưởng từ hạt nhân cung cấp thông tin về các chất chuyển hóa mô và các bất thường về sinh hóa; thông tin này có thể giúp phân biệt một số loại u và các bất thường khác.
+
+Chụp cộng hưởng từ ruột non
+
+Chụp cộng hưởng từ ruột đã trở nên khá phổ biến, nhất là trong theo dõi các bệnh lý viêm ruột non ở đối tượng trẻ em.
+
+Lợi thế của chụp MRI ruột non so với CT ruột non là không cần dùng tới bức xạ ion hóa.
+
+Chụp MRI tưới máu
+
+Chụp MRI là phương pháp đánh giá một cách tương đối lưu lượng máu não. Nó có thể được sử dụng để phát hiện
+
+Vùng thiếu máu não trong chẩn đoán đột quỵ
+
+Các vùng tăng sinh mạch giúp chỉ thị khối u
+
+Thông tin này có thể giúp hướng dẫn sinh thiết.
+
+Chụp cắt lớp phát xạ positron (PET)–MRI
+
+PET-MRI là phương thức chụp kết hợp giữa chụp
+
+PET
+
+chức năng với chụp MRI toàn thân. Người ta thường sử dụng chuỗi xung T1W và chuỗi xung T1 phục hồi đảo ngược ngắn (STIR). Đây là phương pháp khá mới và chỉ có ở một vài trung tâm y tế lớn.
+
+Nhược điểm của MRI
+
+MRI tương đối đắt, thời gian chụp đòi hỏi lâu hơn CT và không phải sẵn có ở mọi nơi.
+
+Các nhược điểm khác
+
+Từ trường
+
+Hội chứng sợ không gian hẹp
+
+Phản ứng thuốc cản quang
+
+Từ trường
+
+Chụp MRI chống chỉ định trong các trường hợp bệnh nhân có cấy ghép các vật liệu kim loại. Các loại vật liệu này dễ bị ảnh hưởng bởi từ trường mạnh. Những loại vật liệu này bao gồm
+
+Kim loại sắt từ (có chứa sắt)
+
+Thiết bị y tế được kích hoạt thông qua từ trường, hoặc được kiểm soát bởi dòng điện (cấy máy tạo nhịp, cấy máy khử rung tim, cấy cochclear)
+
+Dây hoặc vật liệu điện không phải sắt từ (dây máy tạo nhịp, một số loại catheter động mạch phổi)
+
+Vật liệu sắt từ
+
+có thể bị di dời bởi từ trường mạnh, gây tổn thương cơ quan gần đó, ví dụ như khi từ trường gây di lệch các clip kẹp mạch gây xuất huyết. Có nhiều khả năng bị di lệch nếu vật liệu đã ở đúng vị trí
+
+<
+
+6 tuần (trước khi hình thành mô sẹo). Vật liệu sắt từ cũng có thể gây nhiễu ảnh chụp.
+
+Thiết bị y tế được kích hoạt thông qua từ trường
+
+có thể bị hỏng hóc khi tiếp xúc với từ trường.
+
+Từ trường có thể tạo ra dòng điện trong bất cứ loạt vật liệu dẫn điện nào, từ đó phát nhiệt đủ mạnh để gây bỏng cho các mô xung quanh.
+
+Việc một thiết bị cụ thể có tương thích với MRI hay không tùy thuộc vào loại thiết bị, các bộ phận và nhà sản xuất của thiết bị đó (xem
+
+MRIsafety.com
+
+). Bệnh nhân có thiết bị cấy ghép không nên được đặt trong từ trường MRI cho đến khi người kiểm tra chắc chắn rằng MRI an toàn với thiết bị đó. Thêm vào đó, các máy MRI khác nhau có lực từ trường mạnh yếu khác nhau, từ đó gây ra những ảnh hưởng khác nhau trên những thiết bị này.
+
+Từ trường MRI rất mạnh và có thể luôn ở chế độ bật sẵn. Do đó, khi một thiết bị có chứa vật liệu sắt từ (ví dụ như bình Oxygen, cọc truyền kim loại) đặt ở vị trí cửa phòng chụp, từ trường gây ra bởi thiết bị MRI có thể kéo chúng về phía lõi nam châm với tốc độ cao và dễ gây chấn thương cho người đứng trên đường di chuyển của chúng. Cách duy nhất để tách các vật thể này ra khỏi lõi nam châm của máy chụp MRI là tắt (làm nguội) từ trường.
+
+Chứng sợ không gian kín
+
+Khoang chụp trong máy MRI rất kín và hẹp, do đó, nó có thể gây khởi phát hội chứng sợ không gian hẹp ngay cả ở những bệnh nhân chưa từng có tiền sử mắc hội chứng này hoặc mắc rối loạn lo âu trước đây. Ngoài ra, một số bệnh nhân béo phì không thể ngồi vừa trên bàn hoặc bên trong máy. Dùng thuốc chống lo âu trước (ví dụ: alprazolam hoặc lorazepam 1 mg đến 2 mg uống) 15 phút đến 30 phút trước khi chụp có hiệu quả đối với hầu hết bệnh nhân lo lắng.
+
+Máy chụp MRI có mặt mở có thể được sử dụng cho những bệnh nhân mắc chứng sợ không gian hẹp (hoặc những người mắc chứng béo phì nặng). Ảnh chụp ở các máy MRI mở có thể có chất lượng thấp các máy MRI kín phụ thuộc vào từ trường, nhưng thông thường chất lượng ảnh vẫn đủ để chẩn đoán.
+
+Bệnh nhân cần được cảnh báo rằng quá trình chụp có thể gây ra những tiếng ồn, tiếng va đập với cường độ lớn.
+
+Phản ứng thuốc cản quang
+
+Các chất cản quang nguồn gốc Gadolinium tiêm tĩnh mạch có thể gây nhức đầu, buồn nôn, đau, rối loạn vị giác và cảm giác lạnh ở vị trí tiêm.
+
+Phản ứng thuốc cản quang mức độ nặng rất hiếm gặp và có tỷ lệ xuất hiện thấp hơn nhiều so với thuốc cản quang nguồn gốc iod.
+
+Tuy nhiên, xơ hóa hệ thống do thận (NSF) đã được báo cáo ở một số ít bệnh nhân mắc bệnh thận mạn tính tiến triển và hầu hết các trường hợp này đều có liên quan đến thuốc cản quang có gadolinium nhóm I (GBCM). NSF là một chứng rối loạn hiếm gặp nhưng đe dọa tính mạng, liên quan đến xơ hóa da, mạch máu và các cơ quan nội tạng, dẫn đến tàn tật nặng hoặc tử vong. GBCM nhóm I không còn được quảng cáo ở Hoa Kỳ hoặc Châu Âu (xem
+
+European Medicines Agency, November 2009 press release
+
+).
+
+Khả năng phát triển NSF hoặc nhiễm độc thận là cực kỳ thấp ở những bệnh nhân sử dụng GBCM nhóm II, ngay cả ở những bệnh nhân có nguy cơ cao. Tuyên bố đồng thuận của Hiệp hội X quang Hoa Kỳ và Tổ chức Thận Quốc gia chỉ ra rằng sàng lọc chức năng thận là không bắt buộc đối với bất kỳ GBCM Nhóm II nào (
+
+1
+
+). Thuốc cản quang có gadolinium chỉ nên được sử dụng khi cần thiết và ở liều thấp nhất có thể.
+
+Tài liệu tham khảo
+
+1.
+
+Weinreb JC, Rodby RA, Yee J, et al
+
+: Use of Intravenous Gadolinium-based Contrast Media in Patients with Kidney Disease: Consensus Statements from the American College of Radiology and the National Kidney Foundation.
+
+Radiology
+
+298(1):28-35, 2021 doi:10.1148/radiol.2020202903
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định chụp MRI ---
+
+MRI được ưu tiên hơn CT khi độ phân giải tương phản mô mềm phải rất chi tiết (ví dụ, để đánh giá các bất thường dây thần kinh sọ hoặc tủy sống, tổn thương viêm, chấn thương, nghi ngờ u ở hệ thống cơ xương khớp, hoặc các tổn thương nội khớp). MRI cũng hữu dụng trong các trường hợp sau đây:Chẩn đoán hình ảnh mạch máu:Chụp mạch cộng hưởng từ (MRA) cho phép hiển thị hình ảnh các động mạch, với độ chính xác cao và ít xâm lấn hơn so với chụp mạch thường. Chất cản quang gadolinium đôi khi được sử dụng. MRA có thể được sử dụng trong chụp động mạch chủ ngực, chủ bụng, các động mạch não, động mạch cảnh, động mạch tạng ổ bụng, động mạch thận và động mạch chi dưới. Chụp tĩnh mạch (chụp cộng hưởng từ tĩnh mạch hoặc MRV) cung cấp hình ảnh với chất lượng tốt nhất trong các trường hợp bất thường tĩnh mạch, bao gồm cả huyết khối và các dị dạng mạch.Các bất thường ở gan và đường mật:Chụp cộng hưởng từ mật tụy (MRCP) đặc biệt có giá trị, bởi nó là một phương pháp không xâm lấn, có độ chính xác cao trong chẩn đoán hình ảnh hệ thống đường mật và tụy.Các khối tại hệ thống sinh dục nữ:MRI hỗ trợ cho siêu âm, nhằm mô tả rõ hơn các đặc tính của khối u tại phần phụ và chẩn đoán giai đoạn các khối u ở tử cung.Một số loại gãy xương nhất định:Hình ảnh gãy xương hông ở bệnh nhân bị loãng xương được hiển thị trên phim chụp MRI một cách rất chính xác.Thâm nhiễm tủy xương và di căn xương:MRI đặc biệt hữu ích để đánh giá bệnh nhân có xạ hình xương dương tính và chụp X-quang bình thường và để xác định các bất thường của tủy xương như là di căn so với các tổn thương không ác tính.MRI cũng có thể là lựa chọn thay thế cho CT có tiêm chất cản quang ở những bệnh nhân có nguy cơ cao phản ứng với thuốc cản quang iod.Các thuốc cản quangChất cản quang thường được sử dụng trong chụp MRI để làm nổi bật cấu trúc mạch máu, làm rõ các đặc trưng của tổn thương viêm và u.Đây là các chất có từ tính, do đó chúng ảnh hưởng đến thời gian thư giãn của proton. Tiêm khớp dẫn xuất gadolinium có thể được sử dụng trong chụp MRI các cấu trúc nội khớp.
+
+--- 2. Các kỹ thuật MRI khác ---
+
+Chụp cộng hưởng từ khuếch tánCường độ tín hiệu liên quan đến sự khuếch tán các phân tử nước trong mô. Loại MRI này có thể được sử dụng trongPhát hiện thiếu máu cục bộ và nhồi máu trong giai đoạn sớmPhát hiện bệnh lý thuộc chất trắng của nãoĐể phân biệt áp xe với một khối u nangChẩn đoán giai đoạn nhiều loại khối u khác nhau, ví dụ như ung thư phổi không tế bào nhỏChuỗi xung điểm vang đồng phẳngKỹ thuật siêu nhanh này (hình ảnh thu được trong<1 giây) được sử dụng để khuếch tán, tưới máu và tạo hình ảnh chức năng của não và tim. Ưu điểm tiềm năng của nó là việc thể hiện rõ hoạt động của não và tim, đồng thời giảm nhiễu do các chuyển động gây ra. Tuy nhiên, việc sử dụng còn khá nhiều hạn chế, do cần có một hệ thống phần cứng kỹ thuật đặc biệt đi kèm. Kỹ thuật này có độ nhạy cao hơn so với MRI thông thường.MRI chức năngMRI chức năng được sử dụng để đánh giá hoạt động của não theo vị trí.Phổ biến nhất là cách chụp não ở độ phân giải thấp với tần số cao (mỗi 2 đến 3 giây/lần chụp). Người ta có thể phân biêt được sự thay đổi oxy hóa Hemoglobin, từ đó ước tính hoạt động chuyển hóa trên các phần khác nhau của não.MRI chức năng đôi khi được sử dụng trong nghiên cứu, khi đối tượng nghiên cứu tiến hành các hành vi nhận thức khác nhau (ví dụ, giải phương trình toán học); các bộ phận đang hoạt động chuyển hóa mạnh được cho là những bộ phận tham gia nhiều nhất vào hành vi nhận thức đó. Cách thiết lập mối tương quan về mặt giải phẫu và chức năng này được gọi là lập bản đồ não.MRI chức năng có thể được sử dụng trong cả cơ sở nghiên cứu và lâm sàng. Nó đặc biệt hữu ích về mặt lâm sàng trong việc lập bản đồ các vùng vận động hoặc ngôn ngữ (ví dụ, các vùng vỏ não mà khi bị cắt bỏ sẽ dẫn đến thiếu hụt trong xử lý cảm giác, chức năng vận động hoặc xử lý ngôn ngữ) ở những bệnh nhân có bất thường nội sọ như khối u và dị dạng động mạch được phẫu thuật. đã lên kế hoạch. Nó cũng được sử dụng ngày càng nhiều để lập kế hoạch phẫu thuật động kinh.Chụp MRI chuỗi xung gradient echoGradient echo là một chuỗi xung được dùng để chụp hình ảnh dòng máu và dịch não tủy đang di chuyển (ví dụ trong chụp MRI mạch). Các nhiễu do chuyển động gây ra sẽ làm mờ hình ảnh trong quá trình chụp, do đó. bệnh nhân được yêu cầu phải nín thở trong khi chụp (ví dụ chụp tim, phổi, và tạng ổ bụng). Do có tốc độ rất nhanh, kỹ thuật này có thể làm giảm các nhiễu nói trên.Chụp cộng hưởng từ phổChụp cộng hưởng từ phổ kết hợp giữa chụp cộng hưởng từ (chủ yếu cung cấp thông tin dựa vào lượng nước và mỡ trong mô) và cộng hưởng từ hạt nhân (NMR). Chụp cộng hưởng từ hạt nhân cung cấp thông tin về các chất chuyển hóa mô và các bất thường về sinh hóa; thông tin này có thể giúp phân biệt một số loại u và các bất thường khác.Chụp cộng hưởng từ ruột nonChụp cộng hưởng từ ruột đã trở nên khá phổ biến, nhất là trong theo dõi các bệnh lý viêm ruột non ở đối tượng trẻ em.Lợi thế của chụp MRI ruột non so với CT ruột non là không cần dùng tới bức xạ ion hóa.Chụp MRI tưới máuChụp MRI là phương pháp đánh giá một cách tương đối lưu lượng máu não. Nó có thể được sử dụng để phát hiệnVùng thiếu máu não trong chẩn đoán đột quỵCác vùng tăng sinh mạch giúp chỉ thị khối uThông tin này có thể giúp hướng dẫn sinh thiết.Chụp cắt lớp phát xạ positron (PET)–MRIPET-MRI là phương thức chụp kết hợp giữa chụpPETchức năng với chụp MRI toàn thân. Người ta thường sử dụng chuỗi xung T1W và chuỗi xung T1 phục hồi đảo ngược ngắn (STIR). Đây là phương pháp khá mới và chỉ có ở một vài trung tâm y tế lớn.
+
+--- 3. Nhược điểm của MRI ---
+
+MRI tương đối đắt, thời gian chụp đòi hỏi lâu hơn CT và không phải sẵn có ở mọi nơi.Các nhược điểm khácTừ trườngHội chứng sợ không gian hẹpPhản ứng thuốc cản quangTừ trườngChụp MRI chống chỉ định trong các trường hợp bệnh nhân có cấy ghép các vật liệu kim loại. Các loại vật liệu này dễ bị ảnh hưởng bởi từ trường mạnh. Những loại vật liệu này bao gồmKim loại sắt từ (có chứa sắt)Thiết bị y tế được kích hoạt thông qua từ trường, hoặc được kiểm soát bởi dòng điện (cấy máy tạo nhịp, cấy máy khử rung tim, cấy cochclear)Dây hoặc vật liệu điện không phải sắt từ (dây máy tạo nhịp, một số loại catheter động mạch phổi)Vật liệu sắt từcó thể bị di dời bởi từ trường mạnh, gây tổn thương cơ quan gần đó, ví dụ như khi từ trường gây di lệch các clip kẹp mạch gây xuất huyết. Có nhiều khả năng bị di lệch nếu vật liệu đã ở đúng vị trí<6 tuần (trước khi hình thành mô sẹo). Vật liệu sắt từ cũng có thể gây nhiễu ảnh chụp.Thiết bị y tế được kích hoạt thông qua từ trườngcó thể bị hỏng hóc khi tiếp xúc với từ trường.Từ trường có thể tạo ra dòng điện trong bất cứ loạt vật liệu dẫn điện nào, từ đó phát nhiệt đủ mạnh để gây bỏng cho các mô xung quanh.Việc một thiết bị cụ thể có tương thích với MRI hay không tùy thuộc vào loại thiết bị, các bộ phận và nhà sản xuất của thiết bị đó (xemMRIsafety.com). Bệnh nhân có thiết bị cấy ghép không nên được đặt trong từ trường MRI cho đến khi người kiểm tra chắc chắn rằng MRI an toàn với thiết bị đó. Thêm vào đó, các máy MRI khác nhau có lực từ trường mạnh yếu khác nhau, từ đó gây ra những ảnh hưởng khác nhau trên những thiết bị này.Từ trường MRI rất mạnh và có thể luôn ở chế độ bật sẵn. Do đó, khi một thiết bị có chứa vật liệu sắt từ (ví dụ như bình Oxygen, cọc truyền kim loại) đặt ở vị trí cửa phòng chụp, từ trường gây ra bởi thiết bị MRI có thể kéo chúng về phía lõi nam châm với tốc độ cao và dễ gây chấn thương cho người đứng trên đường di chuyển của chúng. Cách duy nhất để tách các vật thể này ra khỏi lõi nam châm của máy chụp MRI là tắt (làm nguội) từ trường.Chứng sợ không gian kínKhoang chụp trong máy MRI rất kín và hẹp, do đó, nó có thể gây khởi phát hội chứng sợ không gian hẹp ngay cả ở những bệnh nhân chưa từng có tiền sử mắc hội chứng này hoặc mắc rối loạn lo âu trước đây. Ngoài ra, một số bệnh nhân béo phì không thể ngồi vừa trên bàn hoặc bên trong máy. Dùng thuốc chống lo âu trước (ví dụ: alprazolam hoặc lorazepam 1 mg đến 2 mg uống) 15 phút đến 30 phút trước khi chụp có hiệu quả đối với hầu hết bệnh nhân lo lắng.Máy chụp MRI có mặt mở có thể được sử dụng cho những bệnh nhân mắc chứng sợ không gian hẹp (hoặc những người mắc chứng béo phì nặng). Ảnh chụp ở các máy MRI mở có thể có chất lượng thấp các máy MRI kín phụ thuộc vào từ trường, nhưng thông thường chất lượng ảnh vẫn đủ để chẩn đoán.Bệnh nhân cần được cảnh báo rằng quá trình chụp có thể gây ra những tiếng ồn, tiếng va đập với cường độ lớn.Phản ứng thuốc cản quangCác chất cản quang nguồn gốc Gadolinium tiêm tĩnh mạch có thể gây nhức đầu, buồn nôn, đau, rối loạn vị giác và cảm giác lạnh ở vị trí tiêm.Phản ứng thuốc cản quang mức độ nặng rất hiếm gặp và có tỷ lệ xuất hiện thấp hơn nhiều so với thuốc cản quang nguồn gốc iod.Tuy nhiên, xơ hóa hệ thống do thận (NSF) đã được báo cáo ở một số ít bệnh nhân mắc bệnh thận mạn tính tiến triển và hầu hết các trường hợp này đều có liên quan đến thuốc cản quang có gadolinium nhóm I (GBCM). NSF là một chứng rối loạn hiếm gặp nhưng đe dọa tính mạng, liên quan đến xơ hóa da, mạch máu và các cơ quan nội tạng, dẫn đến tàn tật nặng hoặc tử vong. GBCM nhóm I không còn được quảng cáo ở Hoa Kỳ hoặc Châu Âu (xemEuropean Medicines Agency, November 2009 press release).Khả năng phát triển NSF hoặc nhiễm độc thận là cực kỳ thấp ở những bệnh nhân sử dụng GBCM nhóm II, ngay cả ở những bệnh nhân có nguy cơ cao. Tuyên bố đồng thuận của Hiệp hội X quang Hoa Kỳ và Tổ chức Thận Quốc gia chỉ ra rằng sàng lọc chức năng thận là không bắt buộc đối với bất kỳ GBCM Nhóm II nào (1). Thuốc cản quang có gadolinium chỉ nên được sử dụng khi cần thiết và ở liều thấp nhất có thể.Tài liệu tham khảo1.Weinreb JC, Rodby RA, Yee J, et al: Use of Intravenous Gadolinium-based Contrast Media in Patients with Kidney Disease: Consensus Statements from the American College of Radiology and the National Kidney Foundation.Radiology298(1):28-35, 2021 doi:10.1148/radiol.2020202903

@@ -1,0 +1,188 @@
+TIÊU ĐỀ: Tổng quan bất thường về nhiễm sắc thể
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/bất-thường-về-nhiễm-sắc-thể-và-gen/tổng-quan-bất-thường-về-nhiễm-sắc-thể
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan bất thường về nhiễm sắc thể
+
+Theo
+
+Nina N. Powell-Hamilton
+
+,
+
+MD
+
+,
+
+Sidney Kimmel Medical College at Thomas Jefferson University
+
+Xem xét bởi
+
+Alicia R. Pekarsky
+
+,
+
+MD
+
+,
+
+State University of New York Upstate Medical University, Upstate Golisano
+Children's Hospital
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2023
+
+v1098843_vi
+
+Bất thường nhiễm sắc thể gây ra nhiều rối loạn khác nhau. Những bất thường ảnh hưởng đến nhiễm sắc thể thường (22 nhiễm sắc thể ghép đôi giống nhau ở nam và nữ) phổ biến hơn những bất thường ảnh hưởng đến nhiễm sắc thể giới tính (X và Y).
+
+Những bất thường về nhiễm sắc thể được chia làm nhiều loại nhưng thường gặp nhất là bất thường về số lượng và cấu trúc. Những bất thường về số lượng có thể liên quan đến một phần hoặc toàn bộ nhiễm sắc thể.
+
+Bất thường về số lượng
+
+bao gồm
+
+Trisomy: 3 nhiễm sắc thể (thêm một nhiễm sắc thể)
+
+Monosomy: một nhiễm sắc thể (mất một nhiễm sắc thể)
+
+Bất thường cấu trúc
+
+bao gồm
+
+Chuyển vị (các bất thường trong đó toàn bộ nhiễm sắc thể hoặc các đoạn nhiễm sắc thể kết hợp không thích hợp với các nhiễm sắc thể khác)
+
+Xóa và nhân đôi các phần khác nhau của nhiễm sắc thể
+
+Thuật ngữ
+
+Một số thuật ngữ cụ thể trong lĩnh vực di truyền học rất quan trọng để mô tả các bất thường về nhiễm sắc thể:
+
+Aneuploidy: Các bất thường nhiễm sắc thể phổ biến nhất gây ra bởi thêm hoặc mất một nhiếm sắc thể.
+
+Karyotype: Tập hợp toàn bộ các nhiễm sắc thể trong tế bào của người.
+
+Genotype: Bộ gen được quy định bởi các nhiễm sắc thể.
+
+Kiểu hình: Các dấu hiệu lâm sàng của người đó bao gồm hình dáng bên ngoài – thành phần sinh hóa, sinh lý và thể chất được xác định bởi kiểu gen và các yếu tố môi trường (xem
+
+Nguyên tắc chung về di truyền y học
+
+).
+
+Thuyết thể khảm
+
+: Sự có mặt của ≥ 2 dòng tế bào khác nhau về kiểu gen ở người đã phát triển từ một trứng thụ tinh duy nhất.
+
+Chẩn đoán bất thường nhiễm sắc thể
+
+Phân tích nhiễm sắc thể (karyotyping)
+
+Dải
+
+Phương pháp lai tại chỗ gắn huỳnh quang (FISH)
+
+Phân tích vi mảng nhiễm sắc thể (lai ghép bộ gen so sánh mảng)
+
+(Xem thêm
+
+Công nghệ giải trình tự thế hệ tiếp theo
+
+.)
+
+Tế bào lympho thường được sử dụng để phân tích nhiễm sắc thể, ngoại trừ trước khi sinh, khi
+
+tế bào ối
+
+hoặc tế bào gai rau được sử dụng (xem
+
+Chọc ối
+
+). Phân tích karyotype là việc khóa tế bào ở thời kì trung gian trong quá trình phân bào và nhuộm cố định nhiễm sắc thể. Nhiễm sắc thể từ các tế bào đơn được chụp ảnh lại sau đó hình ảnh của chúng được sắp xếp, tạo thành một karyotype.
+
+Một số kỹ thuật được sử dụng để phân biệt tốt hơn các nhiễm sắc thể:
+
+Trong kỹ thuật tạo dải cổ điển (ví dụ: dải G [Giemsa], dải Q [huỳnh quang] và dải C), thuốc nhuộm được sử dụng để nhuộm các dải trên nhiễm sắc thể.
+
+Phân tích nhiễm sắc thể độ phân giải cao sử dụng các phương pháp nuôi cấy đặc biệt để có được nhiễm sắc thể ở thời kì tiền phân bào và kì giữa sớm. Các nhiễm sắc thể ít bị cô đặc hơn so với phân tích nhiễm sắc thể ở kì giữa sớm thông thường, và số lượng các băng nhận diện được mở rộng, cho phép phân tích karyotype tốt hơn.
+
+Kĩ thuật lập karyotype quang phổ (còn được gọi là sơn nhiễm sắc thể) sử dụng các kỹ thuật lai nhiễm sắc thể huỳnh quang đặc hiệu tại chỗ (chromosome - specific fluorescent in situ hybridization - FISH) giúp cải thiện khả năng phát hiện một số bất thường, bao gồm chuyển đoạn và đảo đoạn.
+
+Phân tích phân tử nhiễm sắc thể (CMA), còn được gọi là phép lai gen di truyền so sánh (aCGH) là một kỹ thuật đơn bước cho phép quét toàn bộ bộ gen về các bất thường về liều lượng nhiễm sắc thể, bao gồm tăng (nhân bản) hoặc giảm (xóa bỏ), giúp nghĩ đến những mất cân bằng của sự chuyển đoạn. Phân tích vi mảng đa hình nucleotide đơn (SNP) có khả năng bổ sung để phát hiện các vùng đồng hợp tử, có thể được nhìn thấy trong các trường hợp cha mẹ có chung tổ tiên (đồng chủng) và cũng như khi có sự
+
+hai bảo sao nhiễm sắc thể từ một nguồn
+
+(tức là, cả hai bản sao của nhiễm sắc thể, hoặc một phần của nhiễm sắc thể, được thừa hưởng từ bố hoặc từ mẹ, thay vì 1 bản sao từ mẹ và 1 bản sao từ bố). Cần lưu ý rằng CMA không phát hiện được đột biến cân bằng (ví dụ, chuyển đoạn, đảo đoạn) không liên quan đến việc xóa hoặc lặp đoạn.
+
+Sàng lọc
+
+Phương pháp sàng lọc trước sinh không xâm lấn (NIPS) được sử dụng để
+
+xét nghiệm sàng lọc di truyền trước sinh
+
+(
+
+1
+
+). Những phương pháp này liên quan đến việc thu thập các chuỗi DNA của thai nhi không có tế bào từ mẫu máu của người mẹ, chủ yếu dành cho trisomy 21 (
+
+hội chứng Down
+
+),
+
+trisomy 13
+
+,
+
+trisomy 18
+
+và lệch bội lẻ nhiễm sắc thể giới tính. NIPS đã được sử dụng như một xét nghiệm sàng lọc
+
+các hội chứng vi mất đoạn
+
+thông thường (ví dụ: mất đoạn 22q11). Điều quan trọng cần lưu ý là độ nhạy và độ đặc hiệu khác nhau đối với các bất thường nhiễm sắc thể khác nhau. Khuyến nghị rằng bất kỳ bất thường nào được phát hiện với NIPS đều cần phải được xác nhận bằng xét nghiệm chẩn đoán.
+
+Tài liệu tham khảo về sàng lọc
+
+1.
+
+American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine
+
+: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.
+
+Obstet Gynecol
+
+136(4):e48-e69, 2020. doi: 10.1097/AOG.0000000000004084
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán bất thường nhiễm sắc thể ---
+
+Phân tích nhiễm sắc thể (karyotyping)DảiPhương pháp lai tại chỗ gắn huỳnh quang (FISH)Phân tích vi mảng nhiễm sắc thể (lai ghép bộ gen so sánh mảng)(Xem thêmCông nghệ giải trình tự thế hệ tiếp theo.)Tế bào lympho thường được sử dụng để phân tích nhiễm sắc thể, ngoại trừ trước khi sinh, khitế bào ốihoặc tế bào gai rau được sử dụng (xemChọc ối). Phân tích karyotype là việc khóa tế bào ở thời kì trung gian trong quá trình phân bào và nhuộm cố định nhiễm sắc thể. Nhiễm sắc thể từ các tế bào đơn được chụp ảnh lại sau đó hình ảnh của chúng được sắp xếp, tạo thành một karyotype.Một số kỹ thuật được sử dụng để phân biệt tốt hơn các nhiễm sắc thể:Trong kỹ thuật tạo dải cổ điển (ví dụ: dải G [Giemsa], dải Q [huỳnh quang] và dải C), thuốc nhuộm được sử dụng để nhuộm các dải trên nhiễm sắc thể.Phân tích nhiễm sắc thể độ phân giải cao sử dụng các phương pháp nuôi cấy đặc biệt để có được nhiễm sắc thể ở thời kì tiền phân bào và kì giữa sớm. Các nhiễm sắc thể ít bị cô đặc hơn so với phân tích nhiễm sắc thể ở kì giữa sớm thông thường, và số lượng các băng nhận diện được mở rộng, cho phép phân tích karyotype tốt hơn.Kĩ thuật lập karyotype quang phổ (còn được gọi là sơn nhiễm sắc thể) sử dụng các kỹ thuật lai nhiễm sắc thể huỳnh quang đặc hiệu tại chỗ (chromosome - specific fluorescent in situ hybridization - FISH) giúp cải thiện khả năng phát hiện một số bất thường, bao gồm chuyển đoạn và đảo đoạn.Phân tích phân tử nhiễm sắc thể (CMA), còn được gọi là phép lai gen di truyền so sánh (aCGH) là một kỹ thuật đơn bước cho phép quét toàn bộ bộ gen về các bất thường về liều lượng nhiễm sắc thể, bao gồm tăng (nhân bản) hoặc giảm (xóa bỏ), giúp nghĩ đến những mất cân bằng của sự chuyển đoạn. Phân tích vi mảng đa hình nucleotide đơn (SNP) có khả năng bổ sung để phát hiện các vùng đồng hợp tử, có thể được nhìn thấy trong các trường hợp cha mẹ có chung tổ tiên (đồng chủng) và cũng như khi có sựhai bảo sao nhiễm sắc thể từ một nguồn(tức là, cả hai bản sao của nhiễm sắc thể, hoặc một phần của nhiễm sắc thể, được thừa hưởng từ bố hoặc từ mẹ, thay vì 1 bản sao từ mẹ và 1 bản sao từ bố). Cần lưu ý rằng CMA không phát hiện được đột biến cân bằng (ví dụ, chuyển đoạn, đảo đoạn) không liên quan đến việc xóa hoặc lặp đoạn.Sàng lọcPhương pháp sàng lọc trước sinh không xâm lấn (NIPS) được sử dụng đểxét nghiệm sàng lọc di truyền trước sinh(1). Những phương pháp này liên quan đến việc thu thập các chuỗi DNA của thai nhi không có tế bào từ mẫu máu của người mẹ, chủ yếu dành cho trisomy 21 (hội chứng Down),trisomy 13,trisomy 18và lệch bội lẻ nhiễm sắc thể giới tính. NIPS đã được sử dụng như một xét nghiệm sàng lọccác hội chứng vi mất đoạnthông thường (ví dụ: mất đoạn 22q11). Điều quan trọng cần lưu ý là độ nhạy và độ đặc hiệu khác nhau đối với các bất thường nhiễm sắc thể khác nhau. Khuyến nghị rằng bất kỳ bất thường nào được phát hiện với NIPS đều cần phải được xác nhận bằng xét nghiệm chẩn đoán.Tài liệu tham khảo về sàng lọc1.American College of Obstetricians and Gynecologists’ Committee on Practice Bulletins—Obstetrics; Committee on Genetics; Society for Maternal-Fetal Medicine: Screening for fetal chromosomal abnormalities: ACOG Practice Bulletin, Number 226.Obstet Gynecol136(4):e48-e69, 2020. doi: 10.1097/AOG.0000000000004084

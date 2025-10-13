@@ -1,0 +1,927 @@
+TIÊU ĐỀ: Bệnh Alzheimer
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/sảng-và-sa-sút-trí-tuệ/bệnh-alzheimer
+================================================================================
+
+NỘI DUNG:
+
+Bệnh Alzheimer
+
+Theo
+
+Juebin Huang
+
+,
+
+MD, PhD
+
+,
+
+Department of Neurology, University of Mississippi Medical Center
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 2 2025
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v8417845_vi
+
+Bệnh Alzheimer gây suy thoái nhận thức tiến triển và được đặc trưng bởi sự lắng đọng beta amyloid và các đám rối thần kinh ở vỏ não và chất xám dưới vỏ. Chẩn đoán dựa vào lâm sàng; xét nghiệm và chẩn đoán hình ảnh thường được sử dụng để tìm kiếm các dấu hiệu đặc hiệu gợi ý bệnh Alzheimer. Điều trị bằng phối hợp các biện pháp hỗ trợ và điều trị bằng thuốc. Các loại thuốc bao gồm thuốc ức chế cholinesterase,
+
+memantine
+
+và liệu pháp kháng thể đơn dòng kháng dạng tinh bột ở những bệnh nhân được chọn.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Tổng quan về mê sảng
+
+và
+
+Sa sút trí tuệ
+
+)
+
+Bệnh Alzheimer, một rối loạn thần kinh nhận thức, là nguyên nhân phổ biến nhất gây ra
+
+sa sút trí tuệ
+
+; chiếm 60% đến 80% số các trường hợp sa sút trí tuệ ở người cao tuổi. Tại Hoa Kỳ, ước tính có khoảng 11% số người từ 65 tuổi trở lên mắc bệnh Alzheimer. Tỷ lệ người mắc bệnh Alzheimer tăng theo độ tuổi (
+
+1
+
+):
+
+Tuổi từ 65 đến 74: 5%
+
+Tuổi từ 75 đến 84: 13%
+
+Tuổi ≥ 85: 33%
+
+Căn bệnh này phổ biến gấp đôi ở nữ giới so với nam giới, một phần là do nữ giới có tuổi thọ cao hơn. Tỷ lệ hiện mắc ở các nước công nghiệp hóa dự kiến ​​sẽ tăng khi tỷ lệ người cao tuổi tăng lên.
+
+Tài liệu tham khảo chung
+
+1.
+
+2024 Alzheimer's disease facts and figures
+
+.
+
+Alzheimers Dement
+
+2024;20(5):3708-3821. doi:10.1002/alz.13809
+
+Căn nguyên của bệnh Alzheimer
+
+Hầu hết các trường hợp bệnh Alzheimer là nhỏ lẻ, khởi phát muộn (
+
+≥
+
+65 tuổi) và nguyên nhân không rõ ràng. Nguy cơ phát triển bệnh được dự đoán tốt nhất theo độ tuổi. Tuy nhiên, khoảng 5 đến 15% các trường hợp có tính chất gia đình; một nửa trong số những trường hợp này khởi phát sớm (tiền lão) (
+
+<
+
+65 tuổi) và thường liên quan đến các đột biến gen đặc hiệu.
+
+Ít nhất 5 vị trí di truyền khác nhau, nằm trên nhiễm sắc thể số 1, 12, 14, 19 và 21 ảnh hưởng đến sự khởi phát và tiến triển của bệnh Alzheimer.
+
+Đột biến ở các gen của protein tiền thân dạng tinh bột, presenilin I và presenilin II, có thể dẫn đến dạng bệnh Alzheimer gen trội trên nhiễm sắc thể thường, thường khởi phát sớm. Ở những bệnh nhân có thương tổn, quá trình xử lý protein tiền chất dạng tinh bột bị thay đổi, dẫn đến sự lắng đọng và tập hợp dạng sợi dạng tinh bột beta; dạng tinh bột beta là thành phần chính của các mảng viêm dây thần kinh (lão suy), tình trạng này bao gồm quá trình thoái hóa sợi trục hoặc quá trình thoái hóa đuôi gai, tế bào hình sao và tế bào thần kinh đệm xung quanh lõi dạng tinh bột. Dạng tinh bột beta cũng có thể làm thay đổi các hoạt động của kinase và phosphatase theo những cách cuối cùng dẫn đến quá trình hyperphosphoryl hóa tau (một loại protein ổn định các vi ống) và hình thành các đám rối sợi thần kinh.
+
+Các yếu tố di truyền khác bao gồm apolipoprotein (apo) E (epsilon) alleles (ε). Protein Apo E ảnh hưởng đến sự tích tụ beta-amyloid, sự toàn vẹn của khung tế bào và hiệu quả của việc sửa chữa nơ-ron. Nguy cơ mắc bệnh Alzheimer tăng đáng kể (lên đến 15 lần) ở những người có 2 alen epsilon-4 (ApoE4) và có thể giảm ở những người có alen epsilon-2 (
+
+1
+
+).
+
+Các yếu tố nguy cơ về mạch máu, chẳng hạn như tăng huyết áp, tiểu đường, rối loạn lipid máu và hút thuốc, có thể làm tăng nguy cơ mắc bệnh Alzheimer. Ngày càng có nhiều bằng chứng cho thấy việc điều trị tích cực các yếu tố nguy cơ này càng sớm càng tốt có thể làm giảm nguy cơ phát triển suy giảm nhận thức ở tuổi già.
+
+Mối quan hệ giữa các yếu tố khác, chẳng hạn như nồng độ
+
+estrogen
+
+thấp và tiếp xúc với kim loại nặng, với bệnh Alzheimer vẫn chưa được xác định.
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Raulin AC, Doss SV, Trottier ZA, Ikezu TC, Bu G, Liu CC
+
+. ApoE in Alzheimer's disease: pathophysiology and therapeutic strategies.
+
+Mol Neurodegener
+
+2022;17(1):72. doi:10.1186/s13024-022-00574-4
+
+Sinh lý bệnh của bệnh Alzheimer
+
+2 dấu hiệu bệnh lý của bệnh Alzheimer là
+
+Tích tụ dạng tinh bột beta ngoại bào (trong mảng viêm dây thần kinh)
+
+Đám rối tơ thần kinh trong tế bào (các sợi xoắn kép)
+
+Sự lắng đọng amyloid beta và các đám rối tơ thần kinh dẫn đến mất các khớp thần kinh và tế bào thần kinh, dẫn đến teo những khu vực não bị ảnh hưởng, thường bắt đầu từ mặt trong thùy thái dương.
+
+Cơ chế các peptide beta-amyloid và đám rối tơ thần kinh gây ra các tổn thương này hiện vẫn chưa được hiểu biết đầy đủ. Các giả thuyết:
+
+Các
+
+giả thuyết amyloid
+
+cho rằng việc tích tụ dần beta-amyloid trong não sẽ phát động một chuỗi các sự kiện kết thúc bằng chết tế bào thần kinh, mất các khớp thần kinh và thiếu hụt tăng dần các chất dẫn truyền thần kinh; tất cả những ảnh hưởng này góp phần gây ra các triệu chứng lâm sàng của sa sút trí tuệ.
+
+Một đáp ứng miễn dịch bền vững và tình trạng viêm
+
+đã được quan sát thấy trong não của những bệnh nhân mắc bệnh Alzheimer. Một số chuyên gia đã đề xuất rằng viêm là đặc điểm bệnh lý cốt lõi thứ ba của bệnh Alzheimer (
+
+1
+
+).
+
+Rối loạn chuyển hóa glucose
+
+đã được chứng minh là có vai trò quan trọng trong sự phát triển của bệnh Alzheimer (
+
+2
+
+).
+
+Cơ chế Prion
+
+đã được xác định trong bệnh Alzheimer. Trong
+
+bệnh prion
+
+, một protein bề mặt tế bào bình thường được gọi là prion protein bị cuộn sai thành một dạng gây bệnh gọi là prion. Prion sau đó làm cho các prion protein khác gấp nếp sai tương tự, dẫn đến một sự gia tăng rõ rệt các protein bất thường, dẫn đến tổn thương não. Trong bệnh Alzheimer, người ta cho rằng beta-amyloid trong các mảng tích tụ amyloid ở não và protein tau trong các đám rối tơ thần kinh có tính chất giống như prion, có đặc tính tự tái tạo.
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Kinney JW, Bemiller SM, Murtishaw AS, et al
+
+: Inflammation as a central mechanism in Alzheimer's disease.
+
+Alzheimers Dement (NY)
+
+4:575–590, 2018. doi: 10.1016/j.trci.2018.06.014
+
+2.
+
+González A, Calfío C, Churruca M, Maccioni RB
+
+: Glucose metabolism and AD: evidence for a potential diabetes type 3.
+
+Alzheimers Res Ther
+
+14(1):56, 2022. doi: 10.1186/s13195-022-00996-8
+
+Triệu chứng và dấu hiệu của bệnh Alzheimer
+
+Bệnh nhân Alzheimer có
+
+triệu chứng cơ năng và thực thể của sa sút trí tuệ
+
+.
+
+Biểu hiện phổ biến sớm nhất
+
+của bệnh Alzheimer là
+
+Mất trí nhớ ngắn hạn (ví dụ, hỏi lặp đi lặp lại một câu, thường xuyên đặt sai đồ vật hoặc quên các cuộc hẹn)
+
+Các thiếu hụt nhận thức khác có xu hướng liên quan đến nhiều chức năng, bao gồm những lĩnh vực sau:
+
+Suy giảm khả năng lý luận, khó khăn trong việc xử lý các nhiệm vụ phức tạp và phán đoán kém (ví dụ: không có khả năng quản lý tài khoản ngân hàng, đưa ra quyết định tài chính kém)
+
+Rối loạn chức năng ngôn ngữ (ví dụ, khó khăn trong việc suy nghĩ về những từ thông dụng, lỗi trong nói và/hoặc viết)
+
+Rối loạn chức năng thị giác không gian (ví dụ, không có khả năng nhận dạng khuôn mặt hoặc các đồ vật thông thường)
+
+Các triệu chứng của bệnh Alzheimer tiến triển dần dần nhưng có thể ổn định trong một thời gian.
+
+Rối loạn hành vi
+
+(ví dụ như đi lang thang, kích động, la hét, hoang tưởng bị hại) hay gặp.
+
+Chẩn đoán bệnh Alzheimer
+
+Tương tự như các nguyên nhân sa sút trí tuệ khác
+
+Thăm khám trạng thái tinh thần kỹ lưỡng
+
+Bệnh sử và khám lâm sàng
+
+thử nghiệm trong phòng thí nghiệm
+
+Chẩn đoán hình ảnh thần kinh
+
+Nhìn chung, cách tiếp cận ban đầu để chẩn đoán bệnh Alzheimer cũng tương tự như
+
+chẩn đoán các dạng sa sút trí tuệ khác
+
+. Tuy nhiên, bất chấp các đặc điểm lâm sàng, xét nghiệm và chẩn đoán hình ảnh cụ thể, chẩn đoán xác định bệnh Alzheimer chỉ có thể được xác nhận bằng cách đánh giá mô học não sau khi tử vong.
+
+Đánh giá bao gồm tiền sử bệnh, khám thần kinh và kiểm tra nhận thức (ví dụ: Kiểm tra trạng thái tinh thần tối thiểu) (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+). Các nghiên cứu bổ sung để hỗ trợ chẩn đoán và loại trừ các nguyên nhân khác bao gồm phân tích dịch não tủy, xét nghiệm trong phòng thí nghiệm và xét nghiệm sinh học, và chụp PET.
+
+Tiêu chuẩn lâm sàng có thể giúp phân biệt bệnh Alzheimer với các dạng sa sút trí tuệ khác, chẳng hạn như
+
+sa sút trí tuệ dao mạch máu
+
+và
+
+sa sút trí tuệ do có các thể Lewy
+
+.
+
+Tiêu chuẩn chẩn đoán truyền thống đối với bệnh Alzheimer bao gồm tất cả những điều sau đây:
+
+Chứng sa sút trí tuệ được xác định dựa vào lâm sàng và được ghi nhận bằng việc thăm khám chi tiết trạng thái tinh thần.
+
+Thiếu sót ở
+
+≥
+
+2 loại hình nhận thức
+
+Khởi phát dần dần (tức là qua nhiều tháng đến nhiều năm, chứ không phải vài ngày hay vài tuần) và sự xấu đi dần dần của trí nhớ và các chức năng nhận thức khác
+
+Không rối loạn ý thức
+
+Bắt đầu sau tuổi 40, thường gặp nhất sau tuổi 65
+
+Không có bệnh hệ thống hoặc não nào (ví dụ như khối u, đột quỵ) có thể giải thích sự thiếu sót tăng dần trong trí nhớ và nhận thức
+
+Tuy nhiên, những điểm khác biệt so với các tiêu chuẩn này không loại trừ chẩn đoán bệnh Alzheimer, đặc biệt là vì bệnh nhân có thể bị sa sút trí tuệ hỗn hợp.
+
+Hướng dẫn chẩn đoán của Viện Lão khoa Quốc gia–Hiệp hội Alzheimer (
+
+2
+
+) cũng bao gồm các chất chỉ điểm sinh học cho quá trình bệnh lý sinh lý của bệnh Alzheimer:
+
+Nồng độ beta-amyloid thấp trong dịch não tủy
+
+Các lắng đọng amyloid beta trong não được phát hiện bằng chụp cắt lớp vi tính phát xạ positron (PET) có sử dụng các chất đánh dấu phóng xạ gắn đặc hiệu vào các mảng beta-amyloid (ví dụ, hợp chất Pittsburgh B [PiB], florbetapir)
+
+Các dấu hiệu sinh học khác cho thấy sự thoái hóa của nơ ron thần kinh ở khu vực tổn thương:
+
+Mức độ tăng cao của protein tau trong dịch não tủy hoặc tau lắng đọng trong não được phát hiện bằng hình ảnh PET sử dụng chất đánh dấu phóng xạ gắn kết đặc biệt với tau
+
+Giảm chuyển hóa ở vỏ não tại vùng thái dương đỉnh, đo bằng cách phim PET với deoxyglucose được đánh dấu fluorine-18 (18F) (fluorodeoxyglucose, hoặc FDG)
+
+Teo cục bộ ở mặt trong, mặt dưới và mặt bên các thùy thái dương và mặt trong thùy đỉnh, được phát hiện bởi phim MRI
+
+Những phát hiện này làm tăng khả năng sa sút trí tuệ do bệnh Alzheimer. Tuy nhiên, các hướng dẫn (
+
+2
+
+,
+
+4
+
+) không khuyến nghị sử dụng thường quy các chất chỉ điểm sinh học này để chẩn đoán vì tính chuẩn hóa và tính khả dụng còn hạn chế. Ngoài ra, họ không khuyến cáo kiểm tra thường quy apo epsilon-4 allele.
+
+Các xét nghiệm trong phòng thí nghiệm (ví dụ, hormone kích thích tuyến giáp, nồng độ vitamin B12) và chẩn đoán hình ảnh thần kinh (MRI hoặc CT) được thực hiện để kiểm tra các nguyên nhân khác có thể điều trị được và các rối loạn có thể làm trầm trọng thêm các triệu chứng. Nếu các phát hiện lâm sàng gợi ý một rối loạn khác (ví dụ HIV, giang mai), cần chỉ định xét nghiệm chẩn đoán rối loạn ấy.
+
+Chẩn đoán phân biệt
+
+Phân biệt bệnh Alzheimer với các nguyên nhân sa sút trí tuệ khác là rất khó. Điểm số thiếu máu cục bộ Hachinski đã sửa đổi đôi khi được sử dụng để giúp phân biệt
+
+sa sút trí tuệ do mạch máu (chủ yếu là sa sút trí tuệ do nhồi máu nhiều lần)
+
+với bệnh Alzheimer; nó có tính hữu ích hạn chế về mặt lâm sàng, nhưng hữu ích khi không có chẩn đoán hình ảnh thần kinh (
+
+5
+
+). Các đặc điểm chính có thể giúp phân biệt bệnh Alzheimer với sa sút trí tuệ do nhồi máu nhiều lần, một loại suy giảm nhận thức và sa sút trí tuệ do mạch máu (xem bảng
+
+Sự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh Alzheimer
+
+). Sự biến động về nhận thức, các triệu chứng của bệnh Parkinson, ảo giác thị giác hình thành rõ ràng và trí nhớ ngắn hạn tương đối được bảo tồn gợi ý
+
+sa sút trí tuệ có các thể Lewy
+
+(xem bảng
+
+Sự khác biệt giữa bệnh Alzheimer và sa sút trí tuệ có các thể Lewy
+
+).
+
+Bệnh nhân bị bệnh Alzheimer thường ăn mặc đẹp và gọn gàng hơn những bệnh nhân mắc bệnh sa sút trí tuệ khác.
+
+Bảng
+
+Sự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh Alzheimer
+
+Bảng
+
+Sự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh Alzheimer
+
+Sự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh Alzheimer
+
+Đánh giá lâm sàng
+
+Suy giảm nhận thức do mạch máu và sa sút trí tuệ
+
+Bệnh Alzheimer
+
+Tiền sử của bệnh hiện nay
+
+Tiến triển từng bước về nhận thức sau nhiều lần nhồi máu
+
+Bệnh thiếu máu não cục bộ dưới vỏ với tiến triển chậm
+
+Suy giảm nhận thức chậm
+
+P Tiền sử y khoa (Past medical history)
+
+Yếu tố nguy cơ hoặc bệnh mạch máu não
+
+Bệnh động mạch vành
+
+Bệnh mạch ngoại vi
+
+Tiền sử gia đình
+
+Vascular cognitive impairment and dementia
+
+Bệnh Alzheimer
+
+Trạng thái tâm thần
+
+Thay đổi, tùy thuộc vào vị trí tổn thương do thiếu máu cục bộ
+
+Suy giảm nhẹ chức năng điều hành do bệnh mạch máu thiếu máu cục bộ dưới vỏ não
+
+Suy giảm trí nhớ điển hình của bệnh Alzheimer (ví dụ: quên nhanh, bỏ qua các tín hiệu về môi trường và xã hội)
+
+Các dấu hiệu về thần kinh
+
+Thiếu sót thần kinh khu trú, rối loạn dáng đi
+
+Suy giảm trạng thái tinh thần; các trạng thái khác bình thường cho đến khi bệnh tiến triển
+
+Các dấu hiệu về tim mạch
+
+Các dấu hiệu liên quan đến các yếu tố nguy cơ tim mạch (ví dụ: thay đổi da ở chân do bệnh động mạch ngoại biên, phù ấn lõm do suy tim, nhịp tim không đều do rung nhĩ, tăng huyết áp)
+
+Thường là bình thường
+
+Các xét nghiệm cần thiết
+
+Đo hemoglobin A1C và lipid, các chất này có thể tăng cao
+
+Điện tâm đồ để kiểm tra rung nhĩ
+
+Các xét nghiệm thường quy trong phòng thí nghiệm để kiểm tra sa sút trí tuệ có thể hồi phục (bảng xét nghiệm toàn diện về chuyển hóa, CBC, TSH, nồng độ vitamin B12, khả năng hấp thụ kháng thể treponemal huỳnh quang) để loại trừ các nguyên nhân khác có thể có gây suy giảm nhận thức
+
+Chụp MRI/CT
+
+Nhồi máu khu trú ở những vùng não cụ thể quan trọng đối với nhận thức và hành vi, thay đổi chất trắng tập trung
+
+Trong suy giảm nhận thức và sa sút trí tuệ do mạch máu đơn thuần, bảo tồn tương đối thể tích vùng hồi hải mã
+
+Teo hồi hải mã, thùy thái dương, thùy đỉnh và thùy trán
+
+FDG-PET
+
+Giảm chuyển hóa đa ổ thay đổi theo vị trí tổn thương mạch máu não
+
+Giảm chuyển hóa ở thùy đỉnh, thùy thái dương và sau đó ở thùy trán mà không có giảm chuyển hóa ở vỏ não cảm giác-vận động sơ cấp
+
+Chất chỉ điểm sinh học
+
+không
+
+Dạng tinh bột beta hoặc tau phosphoryl hóa được phát hiện trong CSF hoặc được phát hiện bằng PET
+
+CBC = công thức máu; CSF = dịch não tủy; ECG = điện tâm đồ; FDG-PET = chụp cắt lớp phát xạ positron fludeoxyglucose; PET = chụp cắt lớp phát xạ positron; TSH = hormone kích thích tuyến giáp.
+
+Phỏng theo
+
+Wong EC, Chui HC
+
+: Vascular cognitive impairment and dementia.
+
+Continuum (Minneap Minn)
+
+28 (3):750–780, 2022 doi: 10.1212/CON.0000000000001124
+
+CBC = công thức máu; CSF = dịch não tủy; ECG = điện tâm đồ; FDG-PET = chụp cắt lớp phát xạ positron fludeoxyglucose; PET = chụp cắt lớp phát xạ positron; TSH = hormone kích thích tuyến giáp.
+
+Phỏng theo
+
+Wong EC, Chui HC
+
+: Vascular cognitive impairment and dementia.
+
+Continuum (Minneap Minn)
+
+28 (3):750–780, 2022 doi: 10.1212/CON.0000000000001124
+
+Bảng
+
+Sự khác biệt giữa bệnh Alzheimer và chứng sa sút trí tuệ với thể Lewy
+
+Bảng
+
+Sự khác biệt giữa bệnh Alzheimer và chứng sa sút trí tuệ với thể Lewy
+
+Sự khác biệt giữa bệnh Alzheimer và chứng sa sút trí tuệ với thể Lewy
+
+Đặc điểm
+
+Sa sút trí tuệ với thể Lewy
+
+Bệnh Alzheimer
+
+Bệnh học
+
+Thể Lewy trong tế bào thần kinh của vỏ não
+
+Mảng viêm dây thần kinh, đám rối sợi thần kinh và lắng đọng dạng tinh bột beta ở vỏ não và ở chất xám dưới vỏ
+
+Dịch tễ học
+
+Ảnh hưởng gấp đôi ở nam giới
+
+Ảnh hưởng gấp đôi ở phụ nữ
+
+Di truyền
+
+Hiếm khi có tính gia đình
+
+Có tính chất gia đình trong 5-15% trường hợp
+
+Dao động hàng ngày
+
+Nổi bật
+
+Một số
+
+Trí nhớ ngắn hạn
+
+Ít bị ảnh hưởng hơn
+
+Thiếu sót trong độ cảnh tỉnh và chú ý nhiều hơn so với khả năng ghi nhớ
+
+Mất trong giai đoạn sớm của bệnh
+
+Triệu chứng Parkinson
+
+Nổi bật, rõ ràng trong giai đoạn đầu của bệnh
+
+Co cứng trục thân và lối đi không ổn định
+
+Rất hiếm, xảy ra trong giai đoạn muộn của bệnh
+
+Dáng đi bình thường
+
+Rối loạn thần kinh thực vật
+
+Phổ biến
+
+Hiếm
+
+Các ảo giác
+
+Xuất hiện ở khoảng 80%, thông thường ở giai đoạn sớm của bệnh.
+
+Phổ biến nhất là hình ảnh trực quan
+
+Xuất hiện ở khoảng 20% bệnh nhân, thông thường khi bệnh tiến triển mức độ vừa phải
+
+Tác dụng phụ với thuốc chống rối loạn tâm thần
+
+Phổ biến
+
+Các triệu chứng ngoại tháp nặng lên cấp tính, có thể ở mức độ nặng hoặc đe doạ đến tính mạng
+
+Phổ biến
+
+Có thể làm trầm trọng thêm các triệu chứng của sa sút trí tuệ
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+NICE: National Institute for Health and Care Excellence
+
+: Dementia: assessment, management and support for people living with dementia and their carers. NICE guideline [NG97]. Xuất bản: ngày 20 tháng 6 năm 2018.
+
+2.
+
+Jack CR Jr, Andrews JS, Beach TG, et al
+
+: Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup.
+
+Alzheimers Dement
+
+20(8):5143–5169, 2024. doi:10.1002/alz.13859
+
+3.
+
+Alzheimer's Association
+
+: 2018 Alzheimer's Association Dementia Care Practice Recommendations. Ngày 18 tháng 1 năm 2028. Truy cập ngày 3 tháng 2 năm 2025.
+
+4.
+
+Chételat G, Arbizu J, Barthel H, et al
+
+: Amyloid-PET and 18 F-FDG-PET in the diagnostic investigation of Alzheimer's disease and other dementias.
+
+Lancet Neurol
+
+19:951–962, 2020. doi: 10.1016/S1474-4422(20)30314-8
+
+5.
+
+Hachinski VC, Iliff LD, Zilhka E, et al
+
+: Cerebral blood flow in dementia.
+
+Arch Neurol
+
+32(9):632–637, 1975. doi: 10.1001/archneur.1975.00490510088009
+
+Điều trị bệnh Alzheimer
+
+Các biện pháp an toàn và hỗ trợ
+
+Có thể là thuốc ức chế cholinesterase và
+
+memantine
+
+Liệu pháp kháng thể đơn dòng kháng dạng tinh bột ở những bệnh nhân được chọn
+
+Các biện pháp an toàn và hỗ trợ
+
+chi bệnh Alzheimer cũng giống như của tất cả các loại sa sút trí tuệ. Ví dụ, môi trường nên đủ sáng, vui vẻ, và quen thuộc, và cần được thiết kế để củng cố khả năng định hướng (ví dụ, đặt đồng hồ lớn và lịch trong phòng). Cần thực hiện các biện pháp bảo đảm an toàn bệnh nhân (ví dụ hệ thống giám sát tín hiệu cho bệnh nhân lang thang).
+
+Cung cấp
+
+giúp đỡ cho người chăm sóc
+
+, những người có thể trải qua căng thẳng đáng kể, cũng rất quan trọng. Các y tá và nhân viên xã hội có thể hướng dẫn người chăm sóc cách đáp ứng tốt nhất nhu cầu của bệnh nhân. Các chuyên gia chăm sóc sức khỏe nên theo dõi các triệu chứng ban đầu của tình trạng căng thẳng và kiệt sức ở người chăm sóc và khi cần, hãy đề xuất các dịch vụ hỗ trợ.
+
+Điều trị triệu chứng của bệnh Alzheimer
+
+Chất ức chế cholinesterase
+
+cải thiện một cách khiêm tốn chức năng nhận thức và trí nhớ ở một số bệnh nhân. Nhìn chung, donepezil, rivastigmine và galantamine đều có hiệu quả như nhau.
+
+Donepezil là một loại thuốc bước đầu vì thuốc có liều dùng một lần/ngày và được dung nạp tốt. Cần tiếp tục điều trị nếu cải thiện chức năng sau vài tháng, nhưng nếu không thì nên dừng lại. Tác dụng phụ thường gặp nhất là tác dụng trên đường tiêu hóa (ví dụ như buồn nôn, tiêu chảy). Hiếm khi, chóng mặt và loạn nhịp tim xảy ra. Có thể giảm thiểu tác dụng bất lợi bằng cách tăng liều dần dần (xem bảng Thuốc điều trị bệnh Alzheimer).
+
+Rivastigmine có sẵn dưới dạng dung dịch lỏng và dạng miếng dán.
+
+Galantamine điều chỉnh thụ thể nicotinic. Thuốc này có tác dụng kích thích giải phóng acetylcholine và tăng cường tác dụng của thuốc.
+
+Galantamine
+
+có thể có lợi hơn cho các triệu chứng về hành vi so với các loại thuốc khác.
+
+Memantine,
+
+một thuốc đối kháng thụ thể
+
+N
+
+-metyl-
+
+d
+
+aspartate (NMDA), dường như cải thiện được nhận thức và khả năng hoạt động chức năng của bệnh nhân mắc bệnh Alzheimer từ vừa đến nặng. Đối với bệnh nhân suy thận cần phải giảm liều hoặc tránh dùng thuốc.
+
+Memantine
+
+có thể được sử dụng với thuốc ức chế cholinesterase.
+
+Các loại thuốc khác
+
+đang được nghiên cứu. Hiệu quả của vitamin E liều cao, selegiline, thuốc chống viêm không steroid (NSAID), chiết xuất
+
+bạch quả
+
+và statin vẫn chưa rõ ràng. Liệu pháp
+
+Estrogen
+
+dường như không hữu ích trong việc phòng ngừa hoặc điều trị và có thể gây hại.
+
+Điều trị bệnh Alzheimer bằng phương pháp thay đổi bệnh
+
+Liệu pháp kháng thể đơn dòng kháng amyloid có thể phù hợp với một số bệnh nhân mắc bệnh nhẹ. Kháng thể đơn dòng kháng dạng tinh bột chứng minh khả năng cải thiện bệnh bằng cách giảm gánh nặng mảng bám dạng tinh bột trong não và làm chậm quá trình suy giảm nhận thức, mặc dù những lợi ích lâm sàng quan sát được vẫn còn khiêm tốn. Cơ chế tác dụng của kháng thể kháng dạng tinh bột là gắn kết và loại bỏ beta dạng tinh bột kết tụ. Các thử nghiệm lâm sàng về kháng thể đơn dòng kháng dạng tinh bột đã chứng minh được khả năng làm giảm đáng kể về mặt thống kê tỷ lệ suy giảm lâm sàng được xác định bằng các biện pháp đánh giá kết quả nhận thức và chức năng ở những bệnh nhân mắc bệnh Alzheimer giai đoạn đầu và xác nhận bệnh lý dạng tinh bột bằng phương pháp quét PET dạng tinh bột hoặc nghiên cứu dịch não tủy.
+
+Lecanemab là kháng thể đơn dòng kháng dạng tinh bột globulin miễn dịch gamma 1 (IgG1) tái tổ hợp của người, gắn kết với các oligome dạng tinh bột, nguyên sợi và các sợi không hòa tan. Trong một thử nghiệm phân nhóm ngẫu nhiên, những bệnh nhân suy giảm nhận thức nhẹ và bệnh Alzheimer nhẹ được dùng
+
+lecanemab
+
+cho thấy giảm 27% suy giảm nhận thức ở thời điểm 18 tháng khi so sánh với giả dược, được đo bằng điểm số Clinical Dementia Rating-Sum of Boxes (CDR-SB) (
+
+1
+
+).
+
+Donanemab là kháng thể IgG nhắm đích pyroglutamate trên mảng bám beta dạng tinh bột trưởng thành. Trong một thử nghiệm phân nhóm ngẫu nhiên khác bao gồm những bệnh nhân bị suy giảm nhận thức nhẹ và bệnh Alzheimer nhẹ, tình trạng suy giảm lâm sàng, được đo bằng Thang đánh giá bệnh Alzheimer tích hợp (iADRS), đã giảm 35% ở những bệnh nhân dùng
+
+donanemab
+
+so với giả dược ở thời điểm 18 tháng (
+
+2
+
+).
+
+Liệu pháp kháng thể đơn dòng kháng dạng tinh bột có liên quan đến các tác dụng bất lợi đáng kể, bao gồm các bất thường về chẩn đoán hình ảnh liên quan đến dạng tinh bột (ARIA), bao gồm các thay đổi tín hiệu MRI của phù não (ARIA-E) và/hoặc xuất huyết nhỏ và nhiễm hemosiderin nông (ARIA-H). Trong các thử nghiệm phân nhóm ngẫu nhiên đã đề cập ở trên, ARIA-E phát triển ở 12,6% số bệnh nhân dùng lecanemab và ở 24% số bệnh nhân dùng donanemab (
+
+1
+
+,
+
+2
+
+). Ngoài ra, ARIA-H xảy ra ở 17,3% số bệnh nhân dùng
+
+lecanemab
+
+và 19,7% số bệnh nhân dùng
+
+donanemab
+
+. ARIA thường xảy ra ở giai đoạn đầu của quá trình điều trị và không gây ra triệu chứng nào cho phần lớn bệnh nhân. Tuy nhiên, có tới 0,8% số bệnh nhân được điều trị bằng
+
+lecanemab
+
+bị ARIA có các triệu chứng nặng, bao gồm đau đầu, lú lẫn, rối loạn thị lực, mất phương hướng, rối loạn dáng đi và co giật (
+
+3
+
+). Có 3 trường hợp tử vong trong số những bệnh nhân dùng
+
+donanemab
+
+do ARIA nặng. Chụp MRI não theo dõi liên tục đã được khuyến nghị để theo dõi ARIA cho những bệnh nhân đang dùng kháng thể đơn dòng kháng dạng tinh bột. Bệnh nhân mang alen E4 của gen
+
+ApoE
+
+, đặc biệt là người mang đồng hợp tử, có tỷ lệ xuất hiện ARIA cao hơn đáng kể (
+
+3
+
+). Việc kiểm tra tình trạng ApoEε4 được khuyến nghị trước khi bắt đầu điều trị bằng thuốc kháng dạng tinh bột để đánh giá nguy cơ mắc ARIA.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+van Dyck CH, Swanson CJ, Aisen P, et al
+
+:
+
+Lecanemab
+
+in Early Alzheimer's Disease.
+
+N Engl J Med
+
+388(1):9–21, 2023. doi: 10.1056/NEJMoa2212948
+
+2.
+
+Sims JR, Zimmer JA, Evans CD, et al
+
+:
+
+Donanemab
+
+in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial.
+
+JAMA
+
+330(6):512–527, 2023. doi: 10.1001/jama.2023.13239
+
+3.
+
+Cummings J, Apostolova L, Rabinovici GD, et al
+
+:
+
+Lecanemab
+
+: Appropriate Use Recommendations.
+
+J Prev Alzheimers Dis
+
+10(3):362–377, 2023. doi:10.14283/jpad.2023.30
+
+Tiên lượng về bệnh Alzheimer
+
+Mặc dù tốc độ tiến triển thay đổi khác nhau ở bệnh nhân Alzheimer, nhưng không thể tránh khỏi suy giảm nhận thức. Thời gian sống thêm từ thời điểm chẩn đoán là 9 năm trong một nhóm lớn (
+
+1
+
+), mặc dù con số này khác nhau giữa các nghiên cứu và có thể bị ảnh hưởng bởi các yếu tố nhân khẩu học và yếu tố lâm sàng khác. Tỷ lệ sống thêm trung bình từ khi bệnh nhân không còn đi bộ nữa là khoảng 6 tháng.
+
+Các vấn đề giai đoạn cuối đời
+
+Bởi vì khả năng hiểu biết và đánh giá suy giảm ở bệnh nhân sa sút trí tuệ, cho nên có thể cần phải chỉ định một thành viên trong gia đình, người giám hộ, hoặc luật sư để giám sát tài chính. Giai đoạn sớm của sa sút trí tuệ, trước khi bệnh nhân hết khả năng, cần làm rõ mong muốn của bệnh nhân về chăm sóc và nên thực hiện các thỏa thuận về tài chính và pháp lý (ví dụ: giấy uỷ quyền lâu dài,
+
+quyền lực lâu dài của luật sư đối với việc chăm sóc sức khoẻ
+
+). Khi các tài liệu này được ký kết,
+
+năng lực
+
+của bệnh nhân cần được đánh giá, và kết quả đánh giá ghi nhận. Các quyết định về việc nuôi dưỡng thụ động và điều trị các rối loạn cấp tính được thực hiện tốt nhất trước khi nhu cầu phát triển.
+
+Trong sa sút trí tuệ gai đoạn muộn, các
+
+biện pháp giảm nhẹ
+
+có thể thích hợp hơn các can thiệp tích cực hoặc chăm sóc tại bệnh viện.
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+de Melo Queiroz E, Marques Couto C, da Cruz Mecone CA, Souza Lima Macedo W, Caramelli P
+
+: Clinical profile and survival analysis of Alzheimer's disease patients in a Brazilian cohort.
+
+Neurol Sci
+
+45(1):129–137, 2024. doi:10.1007/s10072-023-06937-z
+
+Phòng ngừa bệnh Alzheimer
+
+Bằng chứng quan sát cho thấy nguy cơ mắc bệnh Alzheimer có thể giảm nhờ những biện pháp sau:
+
+Tiếp tục thực hiện các hoạt động trí tuệ khó (ví dụ, học các kỹ năng mới, giải các câu đố ô chữ) khi đến tuổi già
+
+Tập thể dục đều đặn
+
+Kiểm soát tăng huyết áp
+
+Giảm mức cholesterol
+
+Dùng chế độ ăn uống giàu axit béo omega-3 và ít chất béo no
+
+Có bằng chứng trái chiều về tác động của rượu đối với bệnh Alzheimer, một số nghiên cứu chỉ ra tác dụng bảo vệ và một số khác lại cho rằng nguy cơ mắc bệnh tăng lên (
+
+1
+
+). Khi chứng sa sút trí tuệ xuất hiện, việc kiêng rượu thường được khuyến cáo vì rượu có thể làm trầm trọng thêm các triệu chứng sa sút trí tuệ.
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Piazza-Gardner AK, Gaffud TJ, Barry AE
+
+: The impact of alcohol on Alzheimer's disease: a systematic review.
+
+Aging Ment Health
+
+17(2):133–146, 2013. doi:10.1080/13607863.2012.742488
+
+Những điểm chính
+
+Mặc dù yếu tố di truyền có thể liên quan, hầu hết các trường hợp mắc bệnh Alzheimer đều là lẻ tẻ, và nguy cơ được dự đoán tốt nhất dựa trên độ tuổi của bệnh nhân.
+
+Phân biệt bệnh Alzheimer với các nguyên nhân khác của sa sút trí tuệ (như sa sút trí tuệ do nguyên nhân mạch máu, sa sút trí tuệ thể Lewy) có thể rất khó khăn nhưng thường được thực hiện đúng nhất bằng các tiêu chuẩn lâm sàng, chính xác 85% khi chẩn đoán xác định.
+
+Điều trị bệnh Alzheimer bằng sự kết hợp các biện pháp hỗ trợ và điều trị bằng thuốc, có thể bao gồm thuốc ức chế cholinesterase, memantine và liệu pháp kháng thể đơn dòng kháng dạng tinh bột.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Alzheimer's Association
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của bệnh Alzheimer ---
+
+Hầu hết các trường hợp bệnh Alzheimer là nhỏ lẻ, khởi phát muộn (≥65 tuổi) và nguyên nhân không rõ ràng. Nguy cơ phát triển bệnh được dự đoán tốt nhất theo độ tuổi. Tuy nhiên, khoảng 5 đến 15% các trường hợp có tính chất gia đình; một nửa trong số những trường hợp này khởi phát sớm (tiền lão) (<65 tuổi) và thường liên quan đến các đột biến gen đặc hiệu.Ít nhất 5 vị trí di truyền khác nhau, nằm trên nhiễm sắc thể số 1, 12, 14, 19 và 21 ảnh hưởng đến sự khởi phát và tiến triển của bệnh Alzheimer.Đột biến ở các gen của protein tiền thân dạng tinh bột, presenilin I và presenilin II, có thể dẫn đến dạng bệnh Alzheimer gen trội trên nhiễm sắc thể thường, thường khởi phát sớm. Ở những bệnh nhân có thương tổn, quá trình xử lý protein tiền chất dạng tinh bột bị thay đổi, dẫn đến sự lắng đọng và tập hợp dạng sợi dạng tinh bột beta; dạng tinh bột beta là thành phần chính của các mảng viêm dây thần kinh (lão suy), tình trạng này bao gồm quá trình thoái hóa sợi trục hoặc quá trình thoái hóa đuôi gai, tế bào hình sao và tế bào thần kinh đệm xung quanh lõi dạng tinh bột. Dạng tinh bột beta cũng có thể làm thay đổi các hoạt động của kinase và phosphatase theo những cách cuối cùng dẫn đến quá trình hyperphosphoryl hóa tau (một loại protein ổn định các vi ống) và hình thành các đám rối sợi thần kinh.Các yếu tố di truyền khác bao gồm apolipoprotein (apo) E (epsilon) alleles (ε). Protein Apo E ảnh hưởng đến sự tích tụ beta-amyloid, sự toàn vẹn của khung tế bào và hiệu quả của việc sửa chữa nơ-ron. Nguy cơ mắc bệnh Alzheimer tăng đáng kể (lên đến 15 lần) ở những người có 2 alen epsilon-4 (ApoE4) và có thể giảm ở những người có alen epsilon-2 (1).Các yếu tố nguy cơ về mạch máu, chẳng hạn như tăng huyết áp, tiểu đường, rối loạn lipid máu và hút thuốc, có thể làm tăng nguy cơ mắc bệnh Alzheimer. Ngày càng có nhiều bằng chứng cho thấy việc điều trị tích cực các yếu tố nguy cơ này càng sớm càng tốt có thể làm giảm nguy cơ phát triển suy giảm nhận thức ở tuổi già.Mối quan hệ giữa các yếu tố khác, chẳng hạn như nồng độestrogenthấp và tiếp xúc với kim loại nặng, với bệnh Alzheimer vẫn chưa được xác định.Tài liệu tham khảo nguyên nhân gây bệnh1.Raulin AC, Doss SV, Trottier ZA, Ikezu TC, Bu G, Liu CC. ApoE in Alzheimer's disease: pathophysiology and therapeutic strategies.Mol Neurodegener2022;17(1):72. doi:10.1186/s13024-022-00574-4
+
+--- 2. Sinh lý bệnh của bệnh Alzheimer ---
+
+2 dấu hiệu bệnh lý của bệnh Alzheimer làTích tụ dạng tinh bột beta ngoại bào (trong mảng viêm dây thần kinh)Đám rối tơ thần kinh trong tế bào (các sợi xoắn kép)Sự lắng đọng amyloid beta và các đám rối tơ thần kinh dẫn đến mất các khớp thần kinh và tế bào thần kinh, dẫn đến teo những khu vực não bị ảnh hưởng, thường bắt đầu từ mặt trong thùy thái dương.Cơ chế các peptide beta-amyloid và đám rối tơ thần kinh gây ra các tổn thương này hiện vẫn chưa được hiểu biết đầy đủ. Các giả thuyết:Cácgiả thuyết amyloidcho rằng việc tích tụ dần beta-amyloid trong não sẽ phát động một chuỗi các sự kiện kết thúc bằng chết tế bào thần kinh, mất các khớp thần kinh và thiếu hụt tăng dần các chất dẫn truyền thần kinh; tất cả những ảnh hưởng này góp phần gây ra các triệu chứng lâm sàng của sa sút trí tuệ.Một đáp ứng miễn dịch bền vững và tình trạng viêmđã được quan sát thấy trong não của những bệnh nhân mắc bệnh Alzheimer. Một số chuyên gia đã đề xuất rằng viêm là đặc điểm bệnh lý cốt lõi thứ ba của bệnh Alzheimer (1).Rối loạn chuyển hóa glucoseđã được chứng minh là có vai trò quan trọng trong sự phát triển của bệnh Alzheimer (2).Cơ chế Prionđã được xác định trong bệnh Alzheimer. Trongbệnh prion, một protein bề mặt tế bào bình thường được gọi là prion protein bị cuộn sai thành một dạng gây bệnh gọi là prion. Prion sau đó làm cho các prion protein khác gấp nếp sai tương tự, dẫn đến một sự gia tăng rõ rệt các protein bất thường, dẫn đến tổn thương não. Trong bệnh Alzheimer, người ta cho rằng beta-amyloid trong các mảng tích tụ amyloid ở não và protein tau trong các đám rối tơ thần kinh có tính chất giống như prion, có đặc tính tự tái tạo.Tài liệu tham khảo sinh bệnh học1.Kinney JW, Bemiller SM, Murtishaw AS, et al: Inflammation as a central mechanism in Alzheimer's disease.Alzheimers Dement (NY)4:575–590, 2018. doi: 10.1016/j.trci.2018.06.0142.González A, Calfío C, Churruca M, Maccioni RB: Glucose metabolism and AD: evidence for a potential diabetes type 3.Alzheimers Res Ther14(1):56, 2022. doi: 10.1186/s13195-022-00996-8
+
+--- 3. Triệu chứng và dấu hiệu của bệnh Alzheimer ---
+
+Bệnh nhân Alzheimer cótriệu chứng cơ năng và thực thể của sa sút trí tuệ.Biểu hiện phổ biến sớm nhấtcủa bệnh Alzheimer làMất trí nhớ ngắn hạn (ví dụ, hỏi lặp đi lặp lại một câu, thường xuyên đặt sai đồ vật hoặc quên các cuộc hẹn)Các thiếu hụt nhận thức khác có xu hướng liên quan đến nhiều chức năng, bao gồm những lĩnh vực sau:Suy giảm khả năng lý luận, khó khăn trong việc xử lý các nhiệm vụ phức tạp và phán đoán kém (ví dụ: không có khả năng quản lý tài khoản ngân hàng, đưa ra quyết định tài chính kém)Rối loạn chức năng ngôn ngữ (ví dụ, khó khăn trong việc suy nghĩ về những từ thông dụng, lỗi trong nói và/hoặc viết)Rối loạn chức năng thị giác không gian (ví dụ, không có khả năng nhận dạng khuôn mặt hoặc các đồ vật thông thường)Các triệu chứng của bệnh Alzheimer tiến triển dần dần nhưng có thể ổn định trong một thời gian.Rối loạn hành vi(ví dụ như đi lang thang, kích động, la hét, hoang tưởng bị hại) hay gặp.
+
+--- 4. Chẩn đoán bệnh Alzheimer ---
+
+Tương tự như các nguyên nhân sa sút trí tuệ khácThăm khám trạng thái tinh thần kỹ lưỡngBệnh sử và khám lâm sàngthử nghiệm trong phòng thí nghiệmChẩn đoán hình ảnh thần kinhNhìn chung, cách tiếp cận ban đầu để chẩn đoán bệnh Alzheimer cũng tương tự nhưchẩn đoán các dạng sa sút trí tuệ khác. Tuy nhiên, bất chấp các đặc điểm lâm sàng, xét nghiệm và chẩn đoán hình ảnh cụ thể, chẩn đoán xác định bệnh Alzheimer chỉ có thể được xác nhận bằng cách đánh giá mô học não sau khi tử vong.Đánh giá bao gồm tiền sử bệnh, khám thần kinh và kiểm tra nhận thức (ví dụ: Kiểm tra trạng thái tinh thần tối thiểu) (1,2,3). Các nghiên cứu bổ sung để hỗ trợ chẩn đoán và loại trừ các nguyên nhân khác bao gồm phân tích dịch não tủy, xét nghiệm trong phòng thí nghiệm và xét nghiệm sinh học, và chụp PET.Tiêu chuẩn lâm sàng có thể giúp phân biệt bệnh Alzheimer với các dạng sa sút trí tuệ khác, chẳng hạn nhưsa sút trí tuệ dao mạch máuvàsa sút trí tuệ do có các thể Lewy.Tiêu chuẩn chẩn đoán truyền thống đối với bệnh Alzheimer bao gồm tất cả những điều sau đây:Chứng sa sút trí tuệ được xác định dựa vào lâm sàng và được ghi nhận bằng việc thăm khám chi tiết trạng thái tinh thần.Thiếu sót ở≥2 loại hình nhận thứcKhởi phát dần dần (tức là qua nhiều tháng đến nhiều năm, chứ không phải vài ngày hay vài tuần) và sự xấu đi dần dần của trí nhớ và các chức năng nhận thức khácKhông rối loạn ý thứcBắt đầu sau tuổi 40, thường gặp nhất sau tuổi 65Không có bệnh hệ thống hoặc não nào (ví dụ như khối u, đột quỵ) có thể giải thích sự thiếu sót tăng dần trong trí nhớ và nhận thứcTuy nhiên, những điểm khác biệt so với các tiêu chuẩn này không loại trừ chẩn đoán bệnh Alzheimer, đặc biệt là vì bệnh nhân có thể bị sa sút trí tuệ hỗn hợp.Hướng dẫn chẩn đoán của Viện Lão khoa Quốc gia–Hiệp hội Alzheimer (2) cũng bao gồm các chất chỉ điểm sinh học cho quá trình bệnh lý sinh lý của bệnh Alzheimer:Nồng độ beta-amyloid thấp trong dịch não tủyCác lắng đọng amyloid beta trong não được phát hiện bằng chụp cắt lớp vi tính phát xạ positron (PET) có sử dụng các chất đánh dấu phóng xạ gắn đặc hiệu vào các mảng beta-amyloid (ví dụ, hợp chất Pittsburgh B [PiB], florbetapir)Các dấu hiệu sinh học khác cho thấy sự thoái hóa của nơ ron thần kinh ở khu vực tổn thương:Mức độ tăng cao của protein tau trong dịch não tủy hoặc tau lắng đọng trong não được phát hiện bằng hình ảnh PET sử dụng chất đánh dấu phóng xạ gắn kết đặc biệt với tauGiảm chuyển hóa ở vỏ não tại vùng thái dương đỉnh, đo bằng cách phim PET với deoxyglucose được đánh dấu fluorine-18 (18F) (fluorodeoxyglucose, hoặc FDG)Teo cục bộ ở mặt trong, mặt dưới và mặt bên các thùy thái dương và mặt trong thùy đỉnh, được phát hiện bởi phim MRINhững phát hiện này làm tăng khả năng sa sút trí tuệ do bệnh Alzheimer. Tuy nhiên, các hướng dẫn (2,4) không khuyến nghị sử dụng thường quy các chất chỉ điểm sinh học này để chẩn đoán vì tính chuẩn hóa và tính khả dụng còn hạn chế. Ngoài ra, họ không khuyến cáo kiểm tra thường quy apo epsilon-4 allele.Các xét nghiệm trong phòng thí nghiệm (ví dụ, hormone kích thích tuyến giáp, nồng độ vitamin B12) và chẩn đoán hình ảnh thần kinh (MRI hoặc CT) được thực hiện để kiểm tra các nguyên nhân khác có thể điều trị được và các rối loạn có thể làm trầm trọng thêm các triệu chứng. Nếu các phát hiện lâm sàng gợi ý một rối loạn khác (ví dụ HIV, giang mai), cần chỉ định xét nghiệm chẩn đoán rối loạn ấy.Chẩn đoán phân biệtPhân biệt bệnh Alzheimer với các nguyên nhân sa sút trí tuệ khác là rất khó. Điểm số thiếu máu cục bộ Hachinski đã sửa đổi đôi khi được sử dụng để giúp phân biệtsa sút trí tuệ do mạch máu (chủ yếu là sa sút trí tuệ do nhồi máu nhiều lần)với bệnh Alzheimer; nó có tính hữu ích hạn chế về mặt lâm sàng, nhưng hữu ích khi không có chẩn đoán hình ảnh thần kinh (5). Các đặc điểm chính có thể giúp phân biệt bệnh Alzheimer với sa sút trí tuệ do nhồi máu nhiều lần, một loại suy giảm nhận thức và sa sút trí tuệ do mạch máu (xem bảngSự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh Alzheimer). Sự biến động về nhận thức, các triệu chứng của bệnh Parkinson, ảo giác thị giác hình thành rõ ràng và trí nhớ ngắn hạn tương đối được bảo tồn gợi ýsa sút trí tuệ có các thể Lewy(xem bảngSự khác biệt giữa bệnh Alzheimer và sa sút trí tuệ có các thể Lewy).Bệnh nhân bị bệnh Alzheimer thường ăn mặc đẹp và gọn gàng hơn những bệnh nhân mắc bệnh sa sút trí tuệ khác.BảngSự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh AlzheimerBảngSự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh AlzheimerSự khác biệt giữa suy giảm nhận thức và sa sút trí tuệ do mạch máu và bệnh AlzheimerĐánh giá lâm sàngSuy giảm nhận thức do mạch máu và sa sút trí tuệBệnh AlzheimerTiền sử của bệnh hiện nayTiến triển từng bước về nhận thức sau nhiều lần nhồi máuBệnh thiếu máu não cục bộ dưới vỏ với tiến triển chậmSuy giảm nhận thức chậmP Tiền sử y khoa (Past medical history)Yếu tố nguy cơ hoặc bệnh mạch máu nãoBệnh động mạch vànhBệnh mạch ngoại viTiền sử gia đìnhVascular cognitive impairment and dementiaBệnh AlzheimerTrạng thái tâm thầnThay đổi, tùy thuộc vào vị trí tổn thương do thiếu máu cục bộSuy giảm nhẹ chức năng điều hành do bệnh mạch máu thiếu máu cục bộ dưới vỏ nãoSuy giảm trí nhớ điển hình của bệnh Alzheimer (ví dụ: quên nhanh, bỏ qua các tín hiệu về môi trường và xã hội)Các dấu hiệu về thần kinhThiếu sót thần kinh khu trú, rối loạn dáng điSuy giảm trạng thái tinh thần; các trạng thái khác bình thường cho đến khi bệnh tiến triểnCác dấu hiệu về tim mạchCác dấu hiệu liên quan đến các yếu tố nguy cơ tim mạch (ví dụ: thay đổi da ở chân do bệnh động mạch ngoại biên, phù ấn lõm do suy tim, nhịp tim không đều do rung nhĩ, tăng huyết áp)Thường là bình thườngCác xét nghiệm cần thiếtĐo hemoglobin A1C và lipid, các chất này có thể tăng caoĐiện tâm đồ để kiểm tra rung nhĩCác xét nghiệm thường quy trong phòng thí nghiệm để kiểm tra sa sút trí tuệ có thể hồi phục (bảng xét nghiệm toàn diện về chuyển hóa, CBC, TSH, nồng độ vitamin B12, khả năng hấp thụ kháng thể treponemal huỳnh quang) để loại trừ các nguyên nhân khác có thể có gây suy giảm nhận thứcChụp MRI/CTNhồi máu khu trú ở những vùng não cụ thể quan trọng đối với nhận thức và hành vi, thay đổi chất trắng tập trungTrong suy giảm nhận thức và sa sút trí tuệ do mạch máu đơn thuần, bảo tồn tương đối thể tích vùng hồi hải mãTeo hồi hải mã, thùy thái dương, thùy đỉnh và thùy tránFDG-PETGiảm chuyển hóa đa ổ thay đổi theo vị trí tổn thương mạch máu nãoGiảm chuyển hóa ở thùy đỉnh, thùy thái dương và sau đó ở thùy trán mà không có giảm chuyển hóa ở vỏ não cảm giác-vận động sơ cấpChất chỉ điểm sinh họckhôngDạng tinh bột beta hoặc tau phosphoryl hóa được phát hiện trong CSF hoặc được phát hiện bằng PETCBC = công thức máu; CSF = dịch não tủy; ECG = điện tâm đồ; FDG-PET = chụp cắt lớp phát xạ positron fludeoxyglucose; PET = chụp cắt lớp phát xạ positron; TSH = hormone kích thích tuyến giáp.Phỏng theoWong EC, Chui HC: Vascular cognitive impairment and dementia.Continuum (Minneap Minn)28 (3):750–780, 2022 doi: 10.1212/CON.0000000000001124CBC = công thức máu; CSF = dịch não tủy; ECG = điện tâm đồ; FDG-PET = chụp cắt lớp phát xạ positron fludeoxyglucose; PET = chụp cắt lớp phát xạ positron; TSH = hormone kích thích tuyến giáp.Phỏng theoWong EC, Chui HC: Vascular cognitive impairment and dementia.Continuum (Minneap Minn)28 (3):750–780, 2022 doi: 10.1212/CON.0000000000001124BảngSự khác biệt giữa bệnh Alzheimer và chứng sa sút trí tuệ với thể LewyBảngSự khác biệt giữa bệnh Alzheimer và chứng sa sút trí tuệ với thể LewySự khác biệt giữa bệnh Alzheimer và chứng sa sút trí tuệ với thể LewyĐặc điểmSa sút trí tuệ với thể LewyBệnh AlzheimerBệnh họcThể Lewy trong tế bào thần kinh của vỏ nãoMảng viêm dây thần kinh, đám rối sợi thần kinh và lắng đọng dạng tinh bột beta ở vỏ não và ở chất xám dưới vỏDịch tễ họcẢnh hưởng gấp đôi ở nam giớiẢnh hưởng gấp đôi ở phụ nữDi truyềnHiếm khi có tính gia đìnhCó tính chất gia đình trong 5-15% trường hợpDao động hàng ngàyNổi bậtMột sốTrí nhớ ngắn hạnÍt bị ảnh hưởng hơnThiếu sót trong độ cảnh tỉnh và chú ý nhiều hơn so với khả năng ghi nhớMất trong giai đoạn sớm của bệnhTriệu chứng ParkinsonNổi bật, rõ ràng trong giai đoạn đầu của bệnhCo cứng trục thân và lối đi không ổn địnhRất hiếm, xảy ra trong giai đoạn muộn của bệnhDáng đi bình thườngRối loạn thần kinh thực vậtPhổ biếnHiếmCác ảo giácXuất hiện ở khoảng 80%, thông thường ở giai đoạn sớm của bệnh.Phổ biến nhất là hình ảnh trực quanXuất hiện ở khoảng 20% bệnh nhân, thông thường khi bệnh tiến triển mức độ vừa phảiTác dụng phụ với thuốc chống rối loạn tâm thầnPhổ biếnCác triệu chứng ngoại tháp nặng lên cấp tính, có thể ở mức độ nặng hoặc đe doạ đến tính mạngPhổ biếnCó thể làm trầm trọng thêm các triệu chứng của sa sút trí tuệ
+
+--- 5. Điều trị bệnh Alzheimer ---
+
+Các biện pháp an toàn và hỗ trợCó thể là thuốc ức chế cholinesterase vàmemantineLiệu pháp kháng thể đơn dòng kháng dạng tinh bột ở những bệnh nhân được chọnCác biện pháp an toàn và hỗ trợchi bệnh Alzheimer cũng giống như của tất cả các loại sa sút trí tuệ. Ví dụ, môi trường nên đủ sáng, vui vẻ, và quen thuộc, và cần được thiết kế để củng cố khả năng định hướng (ví dụ, đặt đồng hồ lớn và lịch trong phòng). Cần thực hiện các biện pháp bảo đảm an toàn bệnh nhân (ví dụ hệ thống giám sát tín hiệu cho bệnh nhân lang thang).Cung cấpgiúp đỡ cho người chăm sóc, những người có thể trải qua căng thẳng đáng kể, cũng rất quan trọng. Các y tá và nhân viên xã hội có thể hướng dẫn người chăm sóc cách đáp ứng tốt nhất nhu cầu của bệnh nhân. Các chuyên gia chăm sóc sức khỏe nên theo dõi các triệu chứng ban đầu của tình trạng căng thẳng và kiệt sức ở người chăm sóc và khi cần, hãy đề xuất các dịch vụ hỗ trợ.Điều trị triệu chứng của bệnh AlzheimerChất ức chế cholinesterasecải thiện một cách khiêm tốn chức năng nhận thức và trí nhớ ở một số bệnh nhân. Nhìn chung, donepezil, rivastigmine và galantamine đều có hiệu quả như nhau.Donepezil là một loại thuốc bước đầu vì thuốc có liều dùng một lần/ngày và được dung nạp tốt. Cần tiếp tục điều trị nếu cải thiện chức năng sau vài tháng, nhưng nếu không thì nên dừng lại. Tác dụng phụ thường gặp nhất là tác dụng trên đường tiêu hóa (ví dụ như buồn nôn, tiêu chảy). Hiếm khi, chóng mặt và loạn nhịp tim xảy ra. Có thể giảm thiểu tác dụng bất lợi bằng cách tăng liều dần dần (xem bảng Thuốc điều trị bệnh Alzheimer).Rivastigmine có sẵn dưới dạng dung dịch lỏng và dạng miếng dán.Galantamine điều chỉnh thụ thể nicotinic. Thuốc này có tác dụng kích thích giải phóng acetylcholine và tăng cường tác dụng của thuốc.Galantaminecó thể có lợi hơn cho các triệu chứng về hành vi so với các loại thuốc khác.Memantine,một thuốc đối kháng thụ thểN-metyl-daspartate (NMDA), dường như cải thiện được nhận thức và khả năng hoạt động chức năng của bệnh nhân mắc bệnh Alzheimer từ vừa đến nặng. Đối với bệnh nhân suy thận cần phải giảm liều hoặc tránh dùng thuốc.Memantinecó thể được sử dụng với thuốc ức chế cholinesterase.Các loại thuốc khácđang được nghiên cứu. Hiệu quả của vitamin E liều cao, selegiline, thuốc chống viêm không steroid (NSAID), chiết xuấtbạch quảvà statin vẫn chưa rõ ràng. Liệu phápEstrogendường như không hữu ích trong việc phòng ngừa hoặc điều trị và có thể gây hại.Điều trị bệnh Alzheimer bằng phương pháp thay đổi bệnhLiệu pháp kháng thể đơn dòng kháng amyloid có thể phù hợp với một số bệnh nhân mắc bệnh nhẹ. Kháng thể đơn dòng kháng dạng tinh bột chứng minh khả năng cải thiện bệnh bằng cách giảm gánh nặng mảng bám dạng tinh bột trong não và làm chậm quá trình suy giảm nhận thức, mặc dù những lợi ích lâm sàng quan sát được vẫn còn khiêm tốn. Cơ chế tác dụng của kháng thể kháng dạng tinh bột là gắn kết và loại bỏ beta dạng tinh bột kết tụ. Các thử nghiệm lâm sàng về kháng thể đơn dòng kháng dạng tinh bột đã chứng minh được khả năng làm giảm đáng kể về mặt thống kê tỷ lệ suy giảm lâm sàng được xác định bằng các biện pháp đánh giá kết quả nhận thức và chức năng ở những bệnh nhân mắc bệnh Alzheimer giai đoạn đầu và xác nhận bệnh lý dạng tinh bột bằng phương pháp quét PET dạng tinh bột hoặc nghiên cứu dịch não tủy.Lecanemab là kháng thể đơn dòng kháng dạng tinh bột globulin miễn dịch gamma 1 (IgG1) tái tổ hợp của người, gắn kết với các oligome dạng tinh bột, nguyên sợi và các sợi không hòa tan. Trong một thử nghiệm phân nhóm ngẫu nhiên, những bệnh nhân suy giảm nhận thức nhẹ và bệnh Alzheimer nhẹ được dùnglecanemabcho thấy giảm 27% suy giảm nhận thức ở thời điểm 18 tháng khi so sánh với giả dược, được đo bằng điểm số Clinical Dementia Rating-Sum of Boxes (CDR-SB) (1).Donanemab là kháng thể IgG nhắm đích pyroglutamate trên mảng bám beta dạng tinh bột trưởng thành. Trong một thử nghiệm phân nhóm ngẫu nhiên khác bao gồm những bệnh nhân bị suy giảm nhận thức nhẹ và bệnh Alzheimer nhẹ, tình trạng suy giảm lâm sàng, được đo bằng Thang đánh giá bệnh Alzheimer tích hợp (iADRS), đã giảm 35% ở những bệnh nhân dùngdonanemabso với giả dược ở thời điểm 18 tháng (2).Liệu pháp kháng thể đơn dòng kháng dạng tinh bột có liên quan đến các tác dụng bất lợi đáng kể, bao gồm các bất thường về chẩn đoán hình ảnh liên quan đến dạng tinh bột (ARIA), bao gồm các thay đổi tín hiệu MRI của phù não (ARIA-E) và/hoặc xuất huyết nhỏ và nhiễm hemosiderin nông (ARIA-H). Trong các thử nghiệm phân nhóm ngẫu nhiên đã đề cập ở trên, ARIA-E phát triển ở 12,6% số bệnh nhân dùng lecanemab và ở 24% số bệnh nhân dùng donanemab (1,2). Ngoài ra, ARIA-H xảy ra ở 17,3% số bệnh nhân dùnglecanemabvà 19,7% số bệnh nhân dùngdonanemab. ARIA thường xảy ra ở giai đoạn đầu của quá trình điều trị và không gây ra triệu chứng nào cho phần lớn bệnh nhân. Tuy nhiên, có tới 0,8% số bệnh nhân được điều trị bằnglecanemabbị ARIA có các triệu chứng nặng, bao gồm đau đầu, lú lẫn, rối loạn thị lực, mất phương hướng, rối loạn dáng đi và co giật (3). Có 3 trường hợp tử vong trong số những bệnh nhân dùngdonanemabdo ARIA nặng. Chụp MRI não theo dõi liên tục đã được khuyến nghị để theo dõi ARIA cho những bệnh nhân đang dùng kháng thể đơn dòng kháng dạng tinh bột. Bệnh nhân mang alen E4 của genApoE, đặc biệt là người mang đồng hợp tử, có tỷ lệ xuất hiện ARIA cao hơn đáng kể (3). Việc kiểm tra tình trạng ApoEε4 được khuyến nghị trước khi bắt đầu điều trị bằng thuốc kháng dạng tinh bột để đánh giá nguy cơ mắc ARIA.Tài liệu tham khảo về điều trị1.van Dyck CH, Swanson CJ, Aisen P, et al:Lecanemabin Early Alzheimer's Disease.N Engl J Med388(1):9–21, 2023. doi: 10.1056/NEJMoa22129482.Sims JR, Zimmer JA, Evans CD, et al:Donanemabin Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial.JAMA330(6):512–527, 2023. doi: 10.1001/jama.2023.132393.Cummings J, Apostolova L, Rabinovici GD, et al:Lecanemab: Appropriate Use Recommendations.J Prev Alzheimers Dis10(3):362–377, 2023. doi:10.14283/jpad.2023.30
+
+--- 6. Tiên lượng về bệnh Alzheimer ---
+
+Mặc dù tốc độ tiến triển thay đổi khác nhau ở bệnh nhân Alzheimer, nhưng không thể tránh khỏi suy giảm nhận thức. Thời gian sống thêm từ thời điểm chẩn đoán là 9 năm trong một nhóm lớn (1), mặc dù con số này khác nhau giữa các nghiên cứu và có thể bị ảnh hưởng bởi các yếu tố nhân khẩu học và yếu tố lâm sàng khác. Tỷ lệ sống thêm trung bình từ khi bệnh nhân không còn đi bộ nữa là khoảng 6 tháng.Các vấn đề giai đoạn cuối đờiBởi vì khả năng hiểu biết và đánh giá suy giảm ở bệnh nhân sa sút trí tuệ, cho nên có thể cần phải chỉ định một thành viên trong gia đình, người giám hộ, hoặc luật sư để giám sát tài chính. Giai đoạn sớm của sa sút trí tuệ, trước khi bệnh nhân hết khả năng, cần làm rõ mong muốn của bệnh nhân về chăm sóc và nên thực hiện các thỏa thuận về tài chính và pháp lý (ví dụ: giấy uỷ quyền lâu dài,quyền lực lâu dài của luật sư đối với việc chăm sóc sức khoẻ). Khi các tài liệu này được ký kết,năng lựccủa bệnh nhân cần được đánh giá, và kết quả đánh giá ghi nhận. Các quyết định về việc nuôi dưỡng thụ động và điều trị các rối loạn cấp tính được thực hiện tốt nhất trước khi nhu cầu phát triển.Trong sa sút trí tuệ gai đoạn muộn, cácbiện pháp giảm nhẹcó thể thích hợp hơn các can thiệp tích cực hoặc chăm sóc tại bệnh viện.Tài liệu tham khảo về tiên lượng bệnh1.de Melo Queiroz E, Marques Couto C, da Cruz Mecone CA, Souza Lima Macedo W, Caramelli P: Clinical profile and survival analysis of Alzheimer's disease patients in a Brazilian cohort.Neurol Sci45(1):129–137, 2024. doi:10.1007/s10072-023-06937-z
+
+--- 7. Phòng ngừa bệnh Alzheimer ---
+
+Bằng chứng quan sát cho thấy nguy cơ mắc bệnh Alzheimer có thể giảm nhờ những biện pháp sau:Tiếp tục thực hiện các hoạt động trí tuệ khó (ví dụ, học các kỹ năng mới, giải các câu đố ô chữ) khi đến tuổi giàTập thể dục đều đặnKiểm soát tăng huyết ápGiảm mức cholesterolDùng chế độ ăn uống giàu axit béo omega-3 và ít chất béo noCó bằng chứng trái chiều về tác động của rượu đối với bệnh Alzheimer, một số nghiên cứu chỉ ra tác dụng bảo vệ và một số khác lại cho rằng nguy cơ mắc bệnh tăng lên (1). Khi chứng sa sút trí tuệ xuất hiện, việc kiêng rượu thường được khuyến cáo vì rượu có thể làm trầm trọng thêm các triệu chứng sa sút trí tuệ.Tài liệu tham khảo về phòng ngừa1.Piazza-Gardner AK, Gaffud TJ, Barry AE: The impact of alcohol on Alzheimer's disease: a systematic review.Aging Ment Health17(2):133–146, 2013. doi:10.1080/13607863.2012.742488
+
+--- 8. Những điểm chính ---
+
+Mặc dù yếu tố di truyền có thể liên quan, hầu hết các trường hợp mắc bệnh Alzheimer đều là lẻ tẻ, và nguy cơ được dự đoán tốt nhất dựa trên độ tuổi của bệnh nhân.Phân biệt bệnh Alzheimer với các nguyên nhân khác của sa sút trí tuệ (như sa sút trí tuệ do nguyên nhân mạch máu, sa sút trí tuệ thể Lewy) có thể rất khó khăn nhưng thường được thực hiện đúng nhất bằng các tiêu chuẩn lâm sàng, chính xác 85% khi chẩn đoán xác định.Điều trị bệnh Alzheimer bằng sự kết hợp các biện pháp hỗ trợ và điều trị bằng thuốc, có thể bao gồm thuốc ức chế cholinesterase, memantine và liệu pháp kháng thể đơn dòng kháng dạng tinh bột.
+
+--- 9. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Alzheimer's Association

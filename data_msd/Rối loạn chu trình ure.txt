@@ -1,0 +1,467 @@
+TIÊU ĐỀ: Rối loạn chu trình ure
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/rối-loạn-chuyển-hóa-di-truyền/rối-loạn-chu-trình-ure
+================================================================================
+
+NỘI DUNG:
+
+Rối loạn chu trình ure
+
+Theo
+
+Matt Demczko
+
+,
+
+MD
+
+,
+
+Mitochondrial Medicine, Children's Hospital of Philadelphia
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2024
+
+v25252877_vi
+
+Rối loạn chu trình
+
+urê
+
+được đặc trưng bởi tăng ammoniac máu trong các điều kiện dị hoá hoặc nạp protein vào.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Thông tin thêm
+
+|
+
+Có nhiều loại chu trình
+
+urê
+
+và các bệnh liên quan (xem
+
+bảng
+
+) cũng như nhiều
+
+rối loạn chuyển hóa axit amin và axit hữu cơ
+
+khác. Xem thêm
+
+Cách tiếp cận bệnh nhân nghi ngờ rối loạn chuyển hoá di truyền
+
+.
+
+Các rối loạn chu trình
+
+urê
+
+nguyên phát (UCD) bao gồm thiếu hụt carbamoyl phosphate synthase (CPS), thiếu hụt ornithine transcarbamylase (OTC), thiếu hụt argininosuccine synthetase (citrullinemia), thiếu hụt argininosuccine lyase (argininosuccinic aciduria), thiếu hụt arginase (argininemia) và thiếu hụt
+
+N
+
+-acetylglutamate synthetase (NAGS). Sự thiếu hụt enzyme càng "gần", tăng ammoniac máu càng nặng; do đó, mức độ nghiêm trọng của bệnh theo thứ tự giảm dần là thiếu hụt NAGS, thiếu CPS, thiếu OTC, citrullin máu, argininosuccinic axit niệu, và arginin máu.
+
+Di truyền đối với tất cả các rối loạn chu trình ure (UCD) là
+
+di truyền lặn
+
+trên nhiễm sắc thê thường, ngoại trừ thiếu ornithine transcarbamylase (OTC), là
+
+liên kết X
+
+.
+
+Bảng
+
+Rối loạn chu trình ure và các rối loạn liên quan
+
+Bảng
+
+Rối loạn chu trình ure và các rối loạn liên quan
+
+Rối loạn chu trình ure và các rối loạn liên quan
+
+Bệnh (Số OMIM)
+
+Khiếm khuyết Protein hoặc Enzyme
+
+Bình luận
+
+Thiếu Ornithine-transcarbamoylase (OTC) (311250*)
+
+OTC
+
+Sinh hóa:
+
+Tăng ornithine và glutamine, giảm citrulline và arginine, tăng đáng kể orotate nước tiểu
+
+Đặc điểm lâm sàng:
+
+Ở nam giới, nôn tái diễn, kích thích, li bì, hôn mê tăng ammoniac máu, phù não, co cứng, khiếm khuyết về trí tuệ, co giật, tử vong
+
+Ở phụ nữ mang gen, các biểu hiện khác nhau, từ sự chậm tăng trưởng, tầm vóc nhỏ, ghét protein, và tăng ammoniac máu sau sinh đến các triệu chứng nặng như ở nam giới bị bệnh
+
+Điều trị:
+
+Thẩm phân máu đối với đợt tăng ammoniac máu quá mức, Na benzoate, Na phenylacetate, Na phenylbutyrate, chế độ ăn ít protein được bổ sung hỗn hợp axit amin thiết yếu và arginine, citrulline, các thử nghiệm thực nghiệm về liệu pháp gen, ghép gan (điều trị)
+
+Những thử nghiệm về liệu pháp gen, ghép gan (là thuốc chữa bệnh)
+
+Thiếu
+
+N
+
+-Acetylglutamate synthetase (237310*)
+
+N
+
+-Acetylglutamate synthetase
+
+Sinh hóa:
+
+Tương tự như thiếu OTC ngoại trừ orotate nước tiểu bình thường đến thấp
+
+Đặc điểm lâm sàng:
+
+Tương tự như thiếu OTC ngoại trừ những người mang gen không có triệu chứng
+
+Điều trị:
+
+Tương tự như thiếu OTC và còn bổ sung
+
+N
+
+-carbamylglutamat
+
+Thiếu carbamoyl phosphate synthetase (CPS) (237300*)
+
+Carbamoyl phosphate synthetase
+
+Sinh hóa:
+
+Tương tự như thiếu OTC ngoại trừ orotate nước tiểu bình thường đến thấp
+
+Đặc điểm lâm sàng:
+
+Tương tự như thiếu OTC ngoại trừ những người mang gen không có triệu chứng
+
+Điều trị:
+
+Na benzoate và arginine
+
+Bệnh Citrulline máu loại I (215700*)
+
+Axit argininosuccinic synthetase
+
+Sinh hóa:
+
+Citrulline và glutamine huyết tương cao, citrullin niệu, orotic axit niệu
+
+Đặc điểm lâm sàng:
+
+Tăng ammoniac máu từng đợt, tăng trưởng kém, ghét protein, li bì, nôn, hôn mê, co giật, phù não, chậm phát triển
+
+Điều trị:
+
+Tương tự như thiếu OTC ngoại trừ bổ sung citrulline không được khuyến cáo
+
+Ghép gan
+
+Bệnh citrulline máu loại II (605814*, 603471*)
+
+Citrin
+
+Sinh hóa:
+
+Tăng cytrulline, methionine, galactose, và bilirubin huyết tương
+
+Đặc điểm lâm sàng:
+
+Với khởi phát ở giai đoạn sơ sinh, ứ mật được giải quyết trước 3 tháng tuổi
+
+Với khởi phát của người lớn, đái dầm, chậm có kinh, đảo lộn giấc ngủ, nôn, hoang tưởng, ảo giác, rối loạn tâm thần, hôn mê
+
+Điều trị:
+
+Ghép gan; ngoài ra không có điều trị rõ ràng
+
+Argininosuccinic axit niệu (207900*)
+
+Argininosuccinate lyase
+
+Sinh hóa:
+
+Tăng cytrulline và glutamine huyết tương, tăng argininosuccinate nước tiểu
+
+Đặc điểm lâm sàng:
+
+Tăng ammoniac máu từng đợt, xơ gan, tăng men gan, gan to, ghét protein, nôn, co giật, khuyết tật trí tuệ, mất điều hoà, li bì, hôn mê, tóc gãy dòn có hạt
+
+Điều trị:
+
+Bổ sung Arginine
+
+Arginine máu (107830*)
+
+Arginase I
+
+Sinh hóa:
+
+Tăng arginine huyết tương, diaminoacid niệu (arginin niệu, lysin niệu, cystin niệu, ornithin niệu), orotic axit niệu, pyrimidin niệu
+
+Đặc điểm lâm sàng:
+
+Chậm tăng trưởng và phát triển, chán ăn, nôn, co giật, co cứng, kích thích, tăng động, không dung nạp protein, tăng ammoniac máu
+
+Điều trị:
+
+Chế độ ăn ít protein, benzoat, phenylacetate, cấy ghép gan
+
+Không dung nạp protein lysinuric (dibasic aminoacid niệu II; 222700*)
+
+Vận chuyển axit amin dibasic
+
+Sinh hóa:
+
+Lysine, ornithine, và arginine nước tiểu cao
+
+Đặc điểm lâm sàng:
+
+Không dung nạp protein, tăng ammoniac máu từng đợt, chậm tăng trưởng và phát triển, tiêu chảy, nôn, gan to, xơ gan, giảm bạch cầu, thiểu xương, gãy xương, hôn mê
+
+Điều trị:
+
+Chế độ ăn ít protein, citrulline
+
+Tăng ornithine máu, tăng ammoniac máu, và homocitrulline máu (238970*)
+
+Ornithine translocase ty thể
+
+Sinh hóa:
+
+Tăng ornithine huyết tương, homocitrulline máu
+
+Đặc điểm lâm sàng:
+
+Khuyết tât trí tuệ, liệt co cứng tiến triển, lẫn lộn từng đợt, tăng ammoniac máu, mất phối hợp động tác, co giật, nôn, bệnh võng mạc, dẫn truyền thần kinh và điện thế kích thích bất thường, loạn dưỡng chất trắng.
+
+Điều trị:
+
+Bổ sung lysine, ornithine, hoặc citrulline
+
+Ornithine máu (258870*)
+
+Ornithine aminotransferase
+
+Sinh hóa:
+
+Tăng ornithin trong huyết tương và ornithin, lysine, và arginine nước tiểu; lysine, axit glutamic, và glutamine huyết tương thấp
+
+Đặc điểm lâm sàng:
+
+Cận thị, mù tối, mù, mất thị lực ngoại biên tiến triển, teo đám rối màng mạch và võng mạc tiến triển, giảm trương lực cơ gốc chi nhẹ, bệnh cơ.
+
+Điều trị:
+
+Pyridoxin, chế độ ăn ít arginine, lysine và alpha-aminoisobutyrate làm tăng mất ornithine qua thận; bổ sung proline hoặc creatine
+
+Hội chứng tăng insulin-tăng ammoniac máu (606762*)
+
+Tăng hoạt tính của dehydrogenase glutamate
+
+Sinh hóa:
+
+Tăng alpha-ketoglutarat niệu
+
+Đặc điểm lâm sàng:
+
+Co giật, hạ đường huyết tái diễn, tăng insulin, tăng ammoniac máu không triệu chứng
+
+Điều trị:
+
+Phòng hạ đường huyết
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+Các triệu chứng và dấu hiệu của rối loạn chu kỳ
+
+urê
+
+Biểu hiện lâm sàng bao gồm từ nhẹ (ví dụ, chậm lớn, thiểu năng trí tuệ, tăng ammoniac máu từng đợt) đến nghiêm trọng (ví dụ tình trạng tinh thần thay đổi, hôn mê, tử vong).
+
+Các biểu hiện ở người mang là nữ bị thiếu OTC bao gồm từ sự chậm tăng trưởng, chậm phát triển, bất thường tâm thần, và tăng ammoniac máu từng đợt (đặc biệt là sau sinh) đến một kiểu hình tương tự như nam giới bị bệnh (tức là nôn tái diễn, kích thích, li bì, hôn mê tăng ammoniac máu, phù não, co cứng, khuyết tật trí tuệ, co giật, tử vong).
+
+Chẩn đoán rối loạn chu kỳ
+
+urê
+
+Xét nghiệm axit amin trong huyết thanh
+
+Chẩn đoán rối loạn chu trình
+
+urê
+
+dựa trên
+
+các hồ sơ axit amin
+
+. Ví dụ, ornithine tăng cao cho thấy sự thiếu hụt CPS hoặc thiếu OTC, trong khi đó citruline tăng cao cho thấy bệnh citrulline máu. Để phân biệt giữa sự thiếu hụt CPS và thiếu OTC, đo nồng độ axit orotic hữu ích vì sự tích lũy carbamoyl phosphate trong thiếu OTC dẫn đến sự chuyển hoá thay thế của nó với axit orotic.
+
+Xét nghiệm di truyền có thể khẳng định chẩn đoán.
+
+Điều trị rối loạn chu kỳ
+
+urê
+
+Chế độ ăn hạn chế protein
+
+Bổ sung
+
+arginine
+
+hoặc citrulline
+
+Natri phenylbutyrat
+
+Có thể ghép gan
+
+Điều trị rối loạn chu trình
+
+urê
+
+bằng chế độ ăn hạn chế protein nhưng vẫn cung cấp đủ axit amin cho sự tăng trưởng, phát triển và chuyển hóa protein bình thường.
+
+Arginine là một phương pháp điều trị chủ yếu. Nó cung cấp đầy đủ các chất trung gian của chu trình
+
+urê
+
+để khuyến khích việc kết hợp nhiều gốc nitơ hơn vào các chất trung gian của chu trình
+
+urê
+
+, mỗi chất này đều có thể bài tiết dễ dàng.
+
+Arginine
+
+cũng là chất điều hòa tích cực quá trình tổng hợp acetylglutamate. Các nghiên cứu cho thấy citrulline đường uống có hiệu quả hơn
+
+arginin
+
+e ở những bệnh nhân thiếu hụt OTC (
+
+1
+
+).
+
+Xử lý bổ sung bằng natri benzoate, phenylbutyrate hoặc phenylacetate, bằng cách liên hợp
+
+glycine
+
+(natri benzoate) và glutamine (phenylbutyrate và phenylacetate) tạo ra một “bồn chứa nitơ”.
+
+Mặc dù những tiến bộ điều trị này, rất nhiều rối loạn chu trình ure vẫn còn khó điều trị, và ghép gan là cần thiết cho nhiều bệnh nhân. Thời điểm ghép gan là rất quan trọng. Tối ưu, ghép khi trẻ lớn để giảm nguy cơ (
+
+>
+
+1 tuổi), nhưng điều quan trọng là không đợi lâu đến mức tăng ammoniac máu (thường liên quan đến bệnh tật) gây ra tổn hại không thể khắc phục được đối với hệ thần kinh trung ương.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Imbard A, Bouchereau J, Arnoux JB, et al
+
+. Citrulline in the management of patients with
+
+urea
+
+cycle disorders.
+
+Orphanet J Rare Dis
+
+. 2023;18(1):207. Xuất bản ngày 21 tháng 7 năm 2023. doi:10.1186/s13023-023-02800-8
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+: Complete gene, molecular, and chromosomal location information
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các triệu chứng và dấu hiệu của rối loạn chu kỳurê ---
+
+Biểu hiện lâm sàng bao gồm từ nhẹ (ví dụ, chậm lớn, thiểu năng trí tuệ, tăng ammoniac máu từng đợt) đến nghiêm trọng (ví dụ tình trạng tinh thần thay đổi, hôn mê, tử vong).Các biểu hiện ở người mang là nữ bị thiếu OTC bao gồm từ sự chậm tăng trưởng, chậm phát triển, bất thường tâm thần, và tăng ammoniac máu từng đợt (đặc biệt là sau sinh) đến một kiểu hình tương tự như nam giới bị bệnh (tức là nôn tái diễn, kích thích, li bì, hôn mê tăng ammoniac máu, phù não, co cứng, khuyết tật trí tuệ, co giật, tử vong).
+
+--- 2. Chẩn đoán rối loạn chu kỳurê ---
+
+Xét nghiệm axit amin trong huyết thanhChẩn đoán rối loạn chu trìnhurêdựa trêncác hồ sơ axit amin. Ví dụ, ornithine tăng cao cho thấy sự thiếu hụt CPS hoặc thiếu OTC, trong khi đó citruline tăng cao cho thấy bệnh citrulline máu. Để phân biệt giữa sự thiếu hụt CPS và thiếu OTC, đo nồng độ axit orotic hữu ích vì sự tích lũy carbamoyl phosphate trong thiếu OTC dẫn đến sự chuyển hoá thay thế của nó với axit orotic.Xét nghiệm di truyền có thể khẳng định chẩn đoán.
+
+--- 3. Điều trị rối loạn chu kỳurê ---
+
+Chế độ ăn hạn chế proteinBổ sungargininehoặc citrullineNatri phenylbutyratCó thể ghép ganĐiều trị rối loạn chu trìnhurêbằng chế độ ăn hạn chế protein nhưng vẫn cung cấp đủ axit amin cho sự tăng trưởng, phát triển và chuyển hóa protein bình thường.Arginine là một phương pháp điều trị chủ yếu. Nó cung cấp đầy đủ các chất trung gian của chu trìnhurêđể khuyến khích việc kết hợp nhiều gốc nitơ hơn vào các chất trung gian của chu trìnhurê, mỗi chất này đều có thể bài tiết dễ dàng.Argininecũng là chất điều hòa tích cực quá trình tổng hợp acetylglutamate. Các nghiên cứu cho thấy citrulline đường uống có hiệu quả hơnarginine ở những bệnh nhân thiếu hụt OTC (1).Xử lý bổ sung bằng natri benzoate, phenylbutyrate hoặc phenylacetate, bằng cách liên hợpglycine(natri benzoate) và glutamine (phenylbutyrate và phenylacetate) tạo ra một “bồn chứa nitơ”.Mặc dù những tiến bộ điều trị này, rất nhiều rối loạn chu trình ure vẫn còn khó điều trị, và ghép gan là cần thiết cho nhiều bệnh nhân. Thời điểm ghép gan là rất quan trọng. Tối ưu, ghép khi trẻ lớn để giảm nguy cơ (>1 tuổi), nhưng điều quan trọng là không đợi lâu đến mức tăng ammoniac máu (thường liên quan đến bệnh tật) gây ra tổn hại không thể khắc phục được đối với hệ thần kinh trung ương.Tài liệu tham khảo về điều trị1.Imbard A, Bouchereau J, Arnoux JB, et al. Citrulline in the management of patients withureacycle disorders.Orphanet J Rare Dis. 2023;18(1):207. Xuất bản ngày 21 tháng 7 năm 2023. doi:10.1186/s13023-023-02800-8
+
+--- 4. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

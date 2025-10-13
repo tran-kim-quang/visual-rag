@@ -1,0 +1,609 @@
+TIÊU ĐỀ: Chuyển hóa thuốc
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-động-học/chuyển-hóa-thuốc
+================================================================================
+
+NỘI DUNG:
+
+Chuyển hóa thuốc
+
+Theo
+
+Jennifer Le
+
+,
+
+PharmD, MAS, BCPS-ID, FIDSA, FCCP, FCSHP
+
+,
+
+Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+San Diego
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2024
+
+v26490528_vi
+
+Chuyển hóa thuốc xảy ra chủ yếu ở gan (để đánh giá, xem [
+
+1
+
+]). Mặc dù sự chuyển hóa thường làm mất tác dụng của thuốc, một số chất chuyển hóa của thuốc có hoạt tính dược lý – thậm chí đôi khi còn mạnh hơn hợp chất gốc. Chất không có hoạt tính hoặc có hoạt tính yếu bị chuyển hóa thành chất chuyển hóa có hoạt tính được gọi là tiền thuốc, đặc biệt nếu được bào chế để có hoạt tính mạnh hơn.
+
+Thuốc có thể được chuyển hóa bằng cách oxy hóa, giảm kích thước phân tử, thủy phân, hydrat hóa, liên hợp, cô đặc, hoặc đồng trùng hợp; dù là quá trình gì thì mục tiêu là làm cho thuốc trở thành dạng dễ được bài xuất ra ngoài. Các enzym tham gia vào quá trình chuyển hóa có mặt trong nhiều mô nhưng thường tập trung nhiều hơn ở gan.
+
+Tốc độ chuyển hóa thuốc khác nhau giữa các bệnh nhân. Một số bệnh nhân chuyển hóa một loại thuốc nhanh đến mức không đạt được nồng độ điều trị trong máu và mô; ở những bệnh nhân khác, sự chuyển hóa diễn ra chậm đến mức ở liều thông thường cũng có thể gây độc. Tốc độ chuyển hóa của thuốc theo từng cá thể bị ảnh hưởng bởi các yếu tố gen, các bệnh mắc kèm (đặc biệt là bệnh gan mạn tính và suy tim sung huyết) và các tương tác thuốc (đặc biệt là các tương tác liên quan đến cảm ứng hoặc ức chế chuyển hóa).
+
+Đối với nhiều loại thuốc, sự chuyển hóa diễn ra trong 2 pha.
+
+Phản ứng pha I liên quan đến sự hình thành của một nhóm chức mới hoặc thay đổi hoặc phân cắt (oxy hóa, giảm phân tử, thủy phân); những phản ứng này là phản ứng không tổng hợp.
+
+Phản ứng giai đoạn II liên quan đến sự liên hợp với một chất nội sinh (ví dụ: axit glucuronic, sulfat,
+
+glycine
+
+); những phản ứng này là tổng hợp.
+
+Các chất chuyển hóa được hình thành trong các phản ứng tổng hợp có tính phân cực hơn và do đó dễ dàng được thải trừ qua thận (trong nước tiểu) và gan (trong mật) hơn các chất được tạo thành trong phản ứng không tổng hợp. Một số loại thuốc chỉ trải qua các phản ứng chuyển hóa ở pha I hoặc pha II; do đó, số pha phản ánh chức năng hơn là phân loại thứ tự chuyển hóa.
+
+Các chất vận chuyển thuốc ở gan có mặt khắp các tế bào gan nhu mô và ảnh hưởng đến sự phân bố, chuyển hóa và đào thải thuốc ở gan (để biết thêm thông tin, hãy xem [
+
+1
+
+,
+
+2
+
+]). 2 dạng phương thức vận chuyển chính, là
+
+Dòng đi vào, chuyển các phân tử vào gan
+
+Dòng đi ra, làm trung gian bài tiết thuốc vào máu hoặc vào mật
+
+Đa hình di truyền có thể ảnh hưởng khác nhau đến biểu hiện và chức năng của các chất vận chuyển thuốc ở gan, có khả năng làm thay đổi tính nhạy cảm của bệnh nhân với các tác dụng bất lợi của thuốc và
+
+tổn thương gan do thuốc
+
+. Ví dụ: người mang một số kiểu gen vận chuyển nhất định biểu hiện nồng độ statin trong máu tăng cao và dễ mắc bệnh cơ do statin hơn khi statin được sử dụng để điều trị tăng cholesterol máu (
+
+1
+
+,
+
+2
+
+).
+
+(Xem thêm
+
+Tổng quan về Dược động học
+
+.)
+
+Tốc độ
+
+Đối với hầu hết các loại thuốc, tốc độ chuyển hóa theo bất kỳ con đường nào đều có giới hạn trên (giới hạn về khả năng). Tuy nhiên, hầu hết các loại thuốc ở nồng độ điều trị thường chỉ chiếm một số ít các vị trí của enzym chuyển hóa và tốc độ chuyển hóa tăng khi nồng độ thuốc tăng. Trong trường hợp đó, được gọi là thải trừ bậc 1 (hoặc động học), tốc độ chuyển hóa của thuốc là phần không đổi của thuốc còn lại trong cơ thể (nghĩa là, thuốc có thời gian bán thải cụ thể).
+
+Ví dụ, nếu có 500 mg trong cơ thể ở thời điểm 0, sau khi chuyển hóa, có thể còn 250 mg sau 1 giờ và 125 mg sau 2 giờ (với thời gian bán thải là 1 giờ). Tuy nhiên, khi hầu hết các vị trí enzym bị chiếm hết, sự chuyển hóa diễn ra ở tốc độ tối đa và không thay đổi theo tỉ lệ với nồng độ thuốc; thay vào đó, một lượng thuốc nhất định được chuyển hóa trong một đơn vị thời gian (động học bậc không). Trong trường hợp này, nếu có 500 mg thuốc trong cơ thể ở thời điểm 0, sau khi chuyển hóa, có thể còn 450 mg sau 1 giờ và 400 mg sau 2 giờ (với độ thanh thải tối đa 50 mg/giờ và không có thời gian bán thải cụ thể). Khi nồng độ thuốc tăng lên, sự chuyển hóa được chuyển từ bậc 1 sang bậc 0.
+
+Cytochrom P-450
+
+Hệ thống enzym quan trọng nhất trong quá trình chuyển hóa pha I là cytochrom P-450 (CYP450), hệ thống isoenzym xúc tác quá trình oxy hóa nhiều loại thuốc. Các electron được cung cấp bởi nicotinamide
+
+adenine
+
+dinucleotide phosphate (NADPH)–CYP450 reductase, một flavoprotein chuyển electron từ NADPH (dạng khử của nicotinamide
+
+adenine
+
+dinucleotide phosphate) sang CYP450.
+
+Các enzym CYP450 có thể bị gây cảm ứng hoặc ức chế bởi nhiều loại thuốc và các chất sẽ gây ra tương tác thuốc, trong đó một thuốc có thể tăng cường độc tính hoặc giảm tác dụng điều trị của một thuốc khác. Ví dụ về các loại thuốc tương tác với các enzym cụ thể, xem bảng
+
+Các chất phổ biến tương tác với enzym Cytochrome P-450
+
+và
+
+Tương tác thuốc
+
+.
+
+Bảng
+
+Các chất phổ biến tương tác với enzym Cytochrom P-450
+
+Bảng
+
+Các chất phổ biến tương tác với enzym Cytochrom P-450
+
+Các chất phổ biến tương tác với enzym Cytochrom P-450
+
+Enzym
+
+Cơ chất
+
+Các chất ức chế
+
+Các chất cảm ứng
+
+CYP1A2
+
+Acetaminophen
+
+Caffeine
+
+Clarithromycin
+
+Estradiol
+
+Haloperidol
+
+Lidocaine
+
+Methadone
+
+Olanzapine
+
+Propranolol
+
+Ritonavir
+
+Tacrine
+
+Theophylline
+
+Thuốc chống trầm cảm ba vòng
+
+Verapamil
+
+(R)
+
+-Warinarin
+
+Amiodarone
+
+Cimetidin
+
+Ciprofloxacin
+
+Erythromycin
+
+Fluvoxamin
+
+Ticlopidin
+
+Thịt bò nướng
+
+than
+
+Khói thuốc lá
+
+Omeprazole
+
+Phenobarbital
+
+Phenytoin
+
+Rifampin
+
+CYP2C9
+
+Celecoxib
+
+Diclofenac
+
+Fluoxetine
+
+Glipizide
+
+Glyburide
+
+Indomethacin
+
+Nifedipine
+
+Phenytoin
+
+Piroxicam
+
+Progesterone
+
+Testosterone
+
+Thuốc chống trầm cảm ba vòng
+
+Axit valproic
+
+Voriconazole
+
+(S)
+
+-Warfarin
+
+Amiodarone
+
+Cimetidin
+
+Fluconazole
+
+Lovastatin
+
+Ritonavir
+
+Sertraline
+
+Sulfamethoxazole
+
+Topiramate
+
+Trimethoprim
+
+Voriconazole
+
+Zafirlukast
+
+Dexamethasone
+
+Phenobarbital
+
+Các barbiturat khác
+
+Phenytoin
+
+Rifampin
+
+CYP2C19
+
+Diazepam
+
+(S)
+
+-Mephenytoin
+
+Omeprazole
+
+Pentamidine
+
+Propranolol
+
+Voriconazole
+
+(R)
+
+-Warinarin
+
+Cimetidin
+
+Fluoxetine
+
+Fluvoxamin
+
+Ketoconazole
+
+Lansoprazole
+
+Omeprazole
+
+Paroxetin
+
+Ticlopidin
+
+Carbamazepine
+
+Phenobarbital
+
+Prednisone
+
+Rifampin
+
+CYP2D6
+
+Thuốc chẹn beta
+
+Codeine
+
+Dextromethorphan
+
+Flecainide
+
+Haloperidol
+
+Lidocaine
+
+Mexiletine
+
+Morphine
+
+Omeprazole
+
+Phenothiazines
+
+Quinidin
+
+Risperidon
+
+Các thuốc ức chế tái hấp thu serotonin có chọn lọc
+
+Tamoxifen
+
+Testosterone
+
+Tramadol
+
+Trazodone
+
+Thuốc chống trầm cảm ba vòng
+
+Venlafaxine
+
+Amiodarone
+
+Bupropion
+
+Celecoxib
+
+Cimetidin
+
+Fluoxetine
+
+Fluvoxamin
+
+Metoclopramide
+
+Methadone
+
+Paroxetin
+
+Quinidin
+
+Ritonavir
+
+Sertraline
+
+Carbamazepine
+
+Dexamethasone
+
+Phenobarbital
+
+Phenytoin
+
+Rifampin
+
+CYP2E1
+
+Acetaminophen
+
+Rượu
+
+Disulfiram
+
+Rượu
+
+Isoniazid
+
+Sử dụng thuốc lá
+
+CYP3A4
+
+Amiodarone
+
+Aprepitant
+
+Các thuốc chống nấm Azole
+
+Nhóm benzodiazepine
+
+Thuốc chẹn kênh canxi
+
+Caffeine
+
+Carbamazepine
+
+Clarithromycin
+
+Cyclosporine
+
+Delavirdine
+
+Enalapril
+
+Estradiol
+
+Estrogen
+
+Erythromycin
+
+Fentanyl
+
+Finasteride
+
+Indinavir
+
+Lidocaine
+
+Lopinavir
+
+Loratadine
+
+Methadone
+
+Nelfinavir
+
+Omeprazole
+
+Thuốc giảm đau opioid
+
+Prednisone
+
+Progesterone
+
+Ritonavir
+
+Saquinavir
+
+Sildenafil
+
+Sirolimus
+
+Statin
+
+Tacrolimus
+
+Tamoxifen
+
+Thuốc chống trầm cảm ba vòng
+
+(R)
+
+-Warinarin
+
+Amiodarone
+
+Amprenavir
+
+Atazanavir
+
+Các thuốc chống nấm Azole
+
+Cimetidin
+
+Ciprofloxacin
+
+Clarithromycin
+
+Delavirdine
+
+Diltiazem
+
+Erythromycin
+
+Fluoxetine
+
+Fluvoxamin
+
+Nước bưởi chùm
+
+Indinavir
+
+Metronidazole
+
+Nefazodone
+
+Nelfinavir
+
+Nifedipine
+
+Omeprazole
+
+Paroxetin
+
+Posaconazole
+
+Propoxyphen
+
+Ritonavir
+
+Saquinavir
+
+Sertraline
+
+Verapamil
+
+Voriconazole
+
+Carbamazepine
+
+Dexamethasone
+
+Isoniazid
+
+Phenobarbital
+
+Phenytoin
+
+Prednisone
+
+Rifampin
+
+Cùng với sự lão hóa, khả năng chuyển hóa của gan thông qua hệ thống enzym CYP450 sẽ giảm
+
+≥
+
+30% bởi vì lượng gan và lưu lượng máu giảm. Do đó, các loại thuốc được chuyển hóa thông qua hệ thống này đạt đến mức cao hơn và có thời gian bán hủy kéo dài ở người cao tuổi (xem hình
+
+So sánh kết quả dược động học của diazepam ở nam giới trẻ tuổi [A]...
+
+). Do trẻ sơ sinh chỉ phát triển một phần hệ thống enzym gan, trẻ em sẽ khó chuyển hóa nhiều loại thuốc.
+
+Liên hợp
+
+Glucuronid hóa, phản ứng phổ biến nhất ở pha II, là phản ứng duy nhất xảy ra trong hệ thống enzym gan. Glucuronid được tiết ra trong mật và được bài tiết trong nước tiểu. Do đó, sự liên hợp làm cho hầu hết các loại thuốc dễ tan hơn và dễ dàng bài tiết bởi thận. Liên hợp axit amin với glutamine hoặc
+
+glycine
+
+tạo ra các liên hợp dễ dàng được bài tiết qua nước tiểu nhưng không được bài tiết nhiều qua mật. Tuổi tác không ảnh hưởng đến sự glucuronid hóa. Tuy nhiên, ở trẻ sơ sinh, quá trình chuyển đổi thành glucuronide diễn ra chậm, có khả năng gây ra những tác dụng nghiêm trọng (ví dụ như với
+
+chloramphenicol
+
+).
+
+Sự liên hợp cũng có thể xảy ra thông qua quá trình acetyl hóa hoặc sulfo hóa. Các ester sulfat phân cực và dễ dàng bài tiết qua nước tiểu. Tuổi tác không ảnh hưởng đến những quá trình này.
+
+Tài liệu tham khảo
+
+1.
+
+Patel M, Taskar KS, Zamek-Gliszczynski MJ
+
+: Importance of hepatic transporters in clinical disposition of drugs and their metabolites.
+
+J Clin Pharmacol
+
+56(Suppl 7):S23–S39, 2016.  doi: 10.1002/jcph.671
+
+2.
+
+Pan G
+
+: Roles of hepatic drug transporters in drug disposition and liver toxicity.
+
+Adv Exp Med Biol
+
+1141:293-340, 2019. doi:10.1007/978-981-13-7647-4_6
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

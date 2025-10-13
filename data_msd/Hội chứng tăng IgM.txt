@@ -1,0 +1,199 @@
+TIÊU ĐỀ: Hội chứng tăng IgM
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/rối-loạn-miễn-dịch/hội-chứng-tăng-igm
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng tăng IgM
+
+Theo
+
+James Fernandez
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v994610_vi
+
+Hội chứng tăng IgM là sự thiếu hụt globulin miễn dịch (Ig) có đặc trưng bởi nồng độ IgM huyết thanh bình thường hoặc tăng và giảm hoặc vắng mặt các globulin miễn dịch huyết thanh khác, dẫn đến sự nhạy cảm với các bệnh nhiễm trùng do vi khuẩn. Chẩn đoán bao gồm xét nghiệm đếm tế bào dòng chảy để xác định biểu hiện phối tử CD40 và xét nghiệm di truyền. Phương pháp điều trị bằng cách thay thế globulin miễn dịch và ghép tế bào gốc tạo máu. Bệnh giảm bạch cầu trung tính nặng có thể được điều trị bằng G-CSF.
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn về miễn dịch
+
+và
+
+Cách tiếp cận với bệnh nhân có rối loạn miễn dịch
+
+.)
+
+Hội chứng tăng IgM là
+
+rối loạn suy giảm miễn dịch tiên phát
+
+có liên quan đến
+
+kết hợp thiếu hụt miễn dịch dịch thể và miễn dịch tế bào
+
+. Nó có thể là
+
+Có liên kết X (hầu hết các trường hợp)
+
+Tính trạng lặn thường
+
+Các biểu hiện khác nhau tùy thuộc vào đột biến và vị trí của nó.
+
+Hội chứng tăng IgM liên kết X
+
+Hầu hết các trường hợp đều liên quan đến X và gây ra bởi các đột biến gen trên nhiễm sắc thể X mã hóa protein (CD154 hoặc CD40 ligand) trên bề mặt của các tế bào T hỗ trợ hoạt hóa. Với sự hiện diện của cytokine, phối hợp CD40 bình thường tương tác với các tế bào B và do đó báo hiệu chúng chuyển từ sản xuất IgM sang sản xuất IgA, IgG hoặc IgE. Trong hội chứng tăng IgM liên kết X, các tế bào T thiếu chức năng CD40 và không thể báo hiệu các tế bào B chuyển đổi. Do đó, các tế bào B sản xuất chỉ IgM; Mức IgM có thể bình thường hoặc tăng.
+
+Bệnh nhân có dạng liên kết X có thể bị giảm bạch cầu trung tính nghiêm trọng và thường xuất hiện ở giai đoạn sơ sinh với
+
+viêm phổi do Pneumocystis jirovecii
+
+. Mô bạch huyết rất nhỏ vì sự thiếu hụt tín hiệu phối tử CD 40 không kích hoạt được các tế bào B. Nếu không, biểu hiện lâm sàng tương tự như biểu hiện của
+
+không gammaglobulin máu liên kết nhiễm sắc thể X
+
+và bao gồm nhiễm trùng phổi do vi khuẩn sinh mủ tái phát trong 2 năm đầu đời. Tính nhạy cảm với nhiễm trùng
+
+Cryptosporidium
+
+có thể tăng lên. Nhiều bệnh nhân tử vong trước tuổi dậy thì và những người sống lâu hơn thường mắc
+
+bệnh xơ gan
+
+hoặc
+
+u lympho
+
+tế bào B.
+
+Hội chứng tăng IgM di truyền lặn
+
+Trong hội chứng tăng IgM di truyền lặn với đột biến CD40, các biểu hiện tương tự như ở dạng liên kết X.
+
+Ít nhất 4 dạng lặn trên nhiễm sắc thể thường liên quan đến khuyết tật tế bào B. Ở 2 trong số các dạng này (thiếu chất hoạt hóa cytidine deaminase (AID) hoặc glycosylase DNA uracil [UNG]), nồng độ IgM huyết thanh cao hơn nhiều so với dạng liên kết X; tăng sản tổ chức lympho (bao gồm bệnh hạch bạch huyết, lách to và phì đại khẩu cái), và các rối loạn tự miễn dịch có thể có mặt. Không có giảm bạch cầu.
+
+Chẩn đoán Hội chứng tăng IgM
+
+Biểu hiện CD40 ligand và xét nghiệm di truyền
+
+Chẩn đoán hội chứng tăng IgM được nghi ngờ dựa trên các tiêu chuẩn lâm sàng, bao gồm nhiễm trùng hô hấp tái phát, tiêu chảy mạn tính và tăng sản bạch huyết. Nồng độ Ig huyết thanh được đo giúp hỗ trợ chẩn đoán; nồng độ IgM huyết thanh bình thường hoặc tăng và nồng độ thấp hoặc vắng mặt các Ig khác. Cần phải đo dòng chảy tế bào biểu hiện ligand CD40 trên bề mặt tế bào T.
+
+Khi có thể, chẩn đoán được xác nhận bằng xét nghiệm di truyền. Xét nghiệm di truyền trước sinh có thể được cung cấp cho phụ nữ khi mang thai nếu họ có tiền sử gia đình bị thiếu CD40. Xét nghiệm di truyền của những họ hàng khác không thường xuyên được thực hiện.
+
+Các phát hiện khác trong phòng thí nghiệm bao gồm giảm số lượng tế bào B nhớ (CD27) và không có các tế bào B nhớ chéo (IgD-CD27).
+
+Các thành viên trong gia đình của những bệnh nhân đã biết nên được xét nghiệm nếu họ có bệnh cảnh lâm sàng phù hợp với căn bệnh này.
+
+Điều trị hội chứng tăng IgM
+
+Liệu pháp thay thế globulin miễn dịch dự phòng (IgG) và đôi khi trimethoprim/sulfamethoxazole
+
+Yếu tố kích thích khuẩn lạc bạch cầu hạt (G-CSF) cho tình trạng giảm bạch cầu trung tính nặng
+
+Ghép tế bào gốc tạo máu khi có thể
+
+Điều trị hội chứng tăng IgM thường bao gồm liệu pháp thay thế
+
+globulin miễn dịch
+
+. Giảm bạch cầu trung tính nặng có thể được điều trị bằng G-CSF (
+
+1
+
+).
+
+Bệnh nhân có đột biến dạng có liên kết X hoặc đột biến CD40 được cho dùng trimethoprim/sulfamethoxazole để ngăn ngừa
+
+P. jirovecii
+
+và các biện pháp phòng ngừa về môi trường được thực hiện để làm giảm nguy cơ bị nhiễm
+
+Cryptosporidium
+
+(xem
+
+Viêm đường tiêu hóa: phòng ngừa
+
+). Tuy nhiên, vì tiên lượng kém,
+
+việc ghép tế bào gốc tạo huyết
+
+. có thể chữa khỏi, được ưa thích hơn nếu có một người hiến tặng là anh chị em ruột giống hệt (HLA).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+França TT, Barreiros LA, Al-Ramadi BK, Ochs HD, Cabral-Marques O, Condino-Neto A
+
+: CD40 ligand deficiency: treatment strategies and novel therapeutic perspectives.
+
+Expert Rev Clin Immunol
+
+15(5):529–540, 2019. doi:10.1080/1744666X.2019.1573674
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán Hội chứng tăng IgM ---
+
+Biểu hiện CD40 ligand và xét nghiệm di truyềnChẩn đoán hội chứng tăng IgM được nghi ngờ dựa trên các tiêu chuẩn lâm sàng, bao gồm nhiễm trùng hô hấp tái phát, tiêu chảy mạn tính và tăng sản bạch huyết. Nồng độ Ig huyết thanh được đo giúp hỗ trợ chẩn đoán; nồng độ IgM huyết thanh bình thường hoặc tăng và nồng độ thấp hoặc vắng mặt các Ig khác. Cần phải đo dòng chảy tế bào biểu hiện ligand CD40 trên bề mặt tế bào T.Khi có thể, chẩn đoán được xác nhận bằng xét nghiệm di truyền. Xét nghiệm di truyền trước sinh có thể được cung cấp cho phụ nữ khi mang thai nếu họ có tiền sử gia đình bị thiếu CD40. Xét nghiệm di truyền của những họ hàng khác không thường xuyên được thực hiện.Các phát hiện khác trong phòng thí nghiệm bao gồm giảm số lượng tế bào B nhớ (CD27) và không có các tế bào B nhớ chéo (IgD-CD27).Các thành viên trong gia đình của những bệnh nhân đã biết nên được xét nghiệm nếu họ có bệnh cảnh lâm sàng phù hợp với căn bệnh này.
+
+--- 2. Điều trị hội chứng tăng IgM ---
+
+Liệu pháp thay thế globulin miễn dịch dự phòng (IgG) và đôi khi trimethoprim/sulfamethoxazoleYếu tố kích thích khuẩn lạc bạch cầu hạt (G-CSF) cho tình trạng giảm bạch cầu trung tính nặngGhép tế bào gốc tạo máu khi có thểĐiều trị hội chứng tăng IgM thường bao gồm liệu pháp thay thếglobulin miễn dịch. Giảm bạch cầu trung tính nặng có thể được điều trị bằng G-CSF (1).Bệnh nhân có đột biến dạng có liên kết X hoặc đột biến CD40 được cho dùng trimethoprim/sulfamethoxazole để ngăn ngừaP. jiroveciivà các biện pháp phòng ngừa về môi trường được thực hiện để làm giảm nguy cơ bị nhiễmCryptosporidium(xemViêm đường tiêu hóa: phòng ngừa). Tuy nhiên, vì tiên lượng kém,việc ghép tế bào gốc tạo huyết. có thể chữa khỏi, được ưa thích hơn nếu có một người hiến tặng là anh chị em ruột giống hệt (HLA).Tài liệu tham khảo về điều trị1.França TT, Barreiros LA, Al-Ramadi BK, Ochs HD, Cabral-Marques O, Condino-Neto A: CD40 ligand deficiency: treatment strategies and novel therapeutic perspectives.Expert Rev Clin Immunol15(5):529–540, 2019. doi:10.1080/1744666X.2019.1573674

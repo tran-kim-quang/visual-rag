@@ -1,0 +1,981 @@
+TIÊU ĐỀ: Đa u tủy xương
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/rối-loạn-tương-bào/đa-u-tủy-xương
+================================================================================
+
+NỘI DUNG:
+
+Đa u tủy xương
+
+(Bệnh u tủy, U tủy tương bào)
+
+Theo
+
+James R. Berenson
+
+,
+
+MD
+
+,
+
+Institute for Myeloma and Bone Cancer Research
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 8 2024
+
+v976220_vi
+
+Đa u tủy xương là ung thư của tương bào mà sản xuất ra các globulin miễn dịch đơn dòng, xâm lấn và phá hủy xương lân cận. Các biểu hiện thường gặp bao gồm tổn thương tiêu xương gây đau và/hoặc gây gãy xương, suy thận, tăng canxi máu, thiếu máu và nhiễm trùng tái phát. Chẩn đoán thường đòi hỏi phải chứng minh có protein M (đôi khi có trong nước tiểu chứ không phải huyết thanh nhưng hiếm khi không có hoàn toàn) và/hoặc protein niệu chuỗi nhẹ và lượng tương bào quá mức trong tủy xương. Điều trị cụ thể thường bao gồm một số dạng phối hợp hóa trị liệu thông thường, corticosteroid và một hoặc nhiều loại thuốc bổ sung như thuốc ức chế proteasome (ví dụ: bortezomib, carfilzomib, ixazomib), thuốc điều hòa miễn dịch (ví dụ: lenalidomide, thalidomide, pomalidomide) hoặc kháng thể đơn dòng (ví dụ: daratumumab, isatuximab, elotuzumab). Các phương pháp tiếp cận dựa trên kháng thể và tế bào T nhắm đích kháng nguyên trưởng thành của tế bào B đã cho thấy hiệu quả. Có thể sử dụng melphalan liều cao sau đó ghép tế bào đồng loài.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Tổng quan về bất thường van tim
+
+.)
+
+Tại Hoa Kỳ, nguy cơ mắc bệnh đa u tủy trong đời là 1 trên 132 (0,76%) (
+
+1
+
+). Độ tuổi trung vị là khoảng 70 năm. Tỷ lệ hiện hành ở người da đen gấp đôi so với người da trắng. Có một ưu thế nhỏ đối với nam giới. Nguyên nhân gây bệnh vẫn chưa được biết rõ, mặc dù các yếu tố nhiễm sắc thể và di truyền, bức xạ và hóa chất đã được đưa ra.
+
+Hiệp hội Ung thư Hoa Kỳ ước tính rằng vào năm 2024 tại Hoa Kỳ sẽ có khoảng 35.780 trường hợp mới mắc bệnh đa u tủy được chẩn đoán và khoảng 12.540 ca tử vong (
+
+1
+
+). Thời gian sống thêm tiếp tục được cải thiện với các báo cáo gần đây cho thấy thời gian sống thêm trung bình là hơn 10 năm (
+
+2
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+American Cancer Society
+
+. Key Statistics About Multiple Myeloma. Atlanta, Ga., American Cancer Society; 2024.
+
+2.
+
+Jew S, Bujarski S, Rgidor B, et al
+
+: Clinical outcomes and serum B-cell maturation antigen levels in a real-world unselected population of newly diagnosed multiple myeloma patients.
+
+Target Oncol
+
+18(5):735–747, 2023. doi:10.1007/s11523-023-00990-6
+
+Sinh lý bệnh của đa u tủy
+
+Protein M (protein immunoglobulin đơn dòng) do các tương bào ác tính sản sinh là IgG ở khoảng 50% đến 55% số bệnh nhân u tủy và IgA ở khoảng 20% (
+
+1
+
+). Trong số bệnh nhân sản sinh ra IgG hoặc IgA, 40% cũng có protein niệu Bence Jones, là chuỗi nhẹ đơn dòng kappa (
+
+κ
+
+) hoặc lambda (
+
+λ
+
+) tự do trong nước tiểu. Từ 15 đến 20% bệnh nhân, tương bào chỉ tiết ra protein Bence Jones. U tủy IgM và IgD mỗi loại chiếm khoảng 1% đến 2% các trường hợp; u tủy IgD thường gặp hơn ở những bệnh nhân gốc Á. U tủy IgE cực kỳ hiếm gặp.
+
+Hiếm khi, bệnh nhân không có protein M trong máu và trong nước tiểu. Tuy nhiên, xét nghiệm chuỗi nhẹ tự do trong huyết thanh cho thấy có chuỗi nhẹ đơn dòng ở nhiều bệnh nhân trước đây được cho là mắc bệnh u tủy không tiết.
+
+Loãng xương
+
+lan tỏa hoặc tổn thương tiêu xương lẻ tẻ thường xuất hiện, với các vị trí phổ biến nhất là xương chậu, cột sống, xương sườn, xương đùi, xương cánh tay và hộp sọ. Các tổn thương do các u tương bao phì đại thay thế xương hoặc do các cytokine được các tương bào ác tính tiết ra kích hoạt các nguyên bào xương và ức chế các nguyên bào xương, dẫn đến mất xương. Các tổn thương tiêu xương thường là nhiều; đôi khi, chúng là những khối lớn trong tủy. Tăng mất xương cũng có thể dẫn đến
+
+tăng canxi huyết
+
+.
+
+Các u tương bào đơn độc bất thường nhưng có thể xuất hiện ở bất kỳ mô nào, đặc biệt ở đường hô hấp trên.
+
+Ở nhiều bệnh nhân, có suy thận khi chẩn đoán hoặc phát triển trong suốt quá trình rối loạn. Suy thận có nhiều nguyên nhân, thông thường nó xuất phát từ sự lắng đọng của các chuỗi nhẹ trong các
+
+ống lượn xa
+
+hoặc tăng canxi huyết.
+
+Bệnh nhân thường bị thiếu máu, chủ yếu là do bệnh thận hoặc do tế bào ung thư ức chế quá trình tạo hồng cầu. Thiếu máu ở bệnh nhân đa u tủy xương cũng có thể là do các nguyên nhân không liên quan khác, bao gồm
+
+thiếu sắt
+
+hoặc
+
+thiếu vitamin B12
+
+.
+
+Do thiếu các kháng thể bình thường và các rối loạn miễn dịch khác, một số bệnh nhân đã tăng nhạy cảm với nhiễm khuẩn. Nhiễm vi rút, đặc biệt là
+
+nhiễm herpes zoster
+
+, cũng có thể xảy ra do các phương thức điều trị như thuốc ức chế proteasome (ví dụ: bortezomib, ixazomib, carfilzomib) và kháng thể đơn dòng (ví dụ: daratumumab, elotuzumab, isatuximab).
+
+Thoái hóa dạng tinh bột
+
+xảy ra ở 10% số bệnh nhân mắc bệnh u tủy, thường gặp nhất ở những bệnh nhân có protein M loại lambda (
+
+2
+
+).
+
+Các biểu hiện biến thể của đa u tủy xảy ra (xem bảng
+
+Các biểu hiện biến thể của đa u tủy
+
+).
+
+Bảng
+
+Các biến thể của đa u tủy xương
+
+Bảng
+
+Các biến thể của đa u tủy xương
+
+Các biến thể của đa u tủy xương
+
+Hình thức
+
+Đặc điểm
+
+U tương bào ngoài tủy
+
+U tương bào xuất hiện ở bên ngoài hệ thống tủy xương.
+
+U tương bào đặc của xương
+
+U tương bào đơn độc ở xương, thường không tiết protein M
+
+U tủy xơ cốt (
+
+hội chứng POEMS
+
+)
+
+Bệnh đa thần kinh (viêm đa dây thần kinh mạn tính)
+
+Tạng to (gan to, lách to, hạch to)
+
+Bệnh nội tiết (ví dụ như chứng vú to đàn ông, teo tinh hoàn)
+
+Protein M
+
+Thay đổi da (ví dụ, tăng sắc tố, thừa tóc)
+
+Đa u tủy xương không tiết
+
+Không có protein M trong huyết thanh và nước tiểu
+
+Không có các chuỗi nhẹ tăng nồng độ tự do trong huyết thanh
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Kyle RA, Gertz MA, Witzig TE, et al
+
+. Review of 1027 patients with newly diagnosed multiple myeloma.
+
+Mayo Clin Proc
+
+2003;78(1):21-33. doi:10.4065/78.1.21
+
+2.
+
+Ríos-Tamayo R, Krsnik I, Gómez-Bueno M, et al
+
+. AL Amyloidosis and Multiple Myeloma: A Complex Scenario in Which Cardiac Involvement Remains the Key Prognostic Factor. Life (Basel). 2023;13(7):1518. Xuất bản ngày 6 tháng 7 năm 2023. doi:10.3390/life13071518
+
+Các triệu chứng và dấu hiệu của đa u tủy
+
+Đau xương dai dẳng (đặc biệt là ở lưng hoặc ngực), suy thận và nhiễm khuẩn tái phát là những vấn đề thường gặp nhất khi đến khám, nhưng nhiều bệnh nhân được xác định khi các xét nghiệm thường quy cho thấy protein toàn phần trong máu tăng cao, protein niệu hoặc không rõ nguyên nhân. thiếu máu hoặc suy thận.
+
+Các triệu chứng thiếu máu chiếm ưu thế hoặc có thể là lý do duy nhất để đánh giá ở một số bệnh nhân và một số ít bệnh nhân có
+
+biểu hiện của hội chứng tăng độ nhớt máu
+
+.
+
+Gãy xương bệnh lý (dễ gãy) (tức là gãy xương xảy ra khi có chấn thương không đáng kể hoặc không có chấn thương) là phổ biến và xẹp đốt sống có thể dẫn đến
+
+chèn ép tủy sống
+
+và liệt chi dưới.
+
+Bệnh lý thần kinh ngoại biên
+
+,
+
+hội chứng ống cổ tay
+
+(đặc biệt là ở những bệnh nhân bị
+
+thoái hóa dạng tinh bột
+
+), chảy máu bất thường và các triệu chứng
+
+tăng canxi huyết
+
+(ví dụ: uống nhiều, mất nước) là phổ biến.
+
+Hạch to, gan to ít gặp.
+
+Chẩn đoán đa u tủy
+
+Công thức máu (CBC) có đếm tiểu cầu, tiêu bản phết máu ngoại biên và bảng xét nghiệm sinh hóa (nitơ
+
+urê
+
+máu [BUN], creatinine, canxi, axit uric, lactate dehydrogenase [LDH])
+
+Điện di protein huyết thanh và nước tiểu (từ mẫu nước tiểu thu thập trong 24 giờ) sau đó là cố định miễn dịch; định lượng globulin miễn dịch; và chuỗi nhẹ tự do huyết thanh
+
+Các phim chụp X-quang (khảo sát xương) và chụp cắt lớp phát xạ positron (PET)-CT hoặc chụp MRI toàn thân
+
+Xét nghiệm tủy xương, bao gồm xét nghiệm tế bào học di truyền và huỳnh quang tại chỗ (FISH)
+
+Nghi ngờ mắc bệnh đa u tủy ở những bệnh nhân > 40 tuổi có tình trạng đau xương dai dẳng không rõ nguyên nhân, đặc biệt là vào ban đêm hoặc khi nghỉ ngơi, có các triệu chứng điển hình khác, bất thường về xét nghiệm không rõ nguyên nhân (ví dụ: protein máu hoặc protein niệu tăng cao, tăng canxi huyết, suy thận, thiếu máu) hoặc các phim chụp X-quang cho thấy gãy xương bệnh lý hoặc tổn thương tiêu xương.
+
+Đánh giá xét thí nghiệm bao gồm xét nghiệm máu thường quy, LDH, microglobulin beta-2 huyết thanh, điện di miễn dịch cố định nước tiểu và huyết thanh và chuỗi nhẹ tự do trong huyết thanh. Bệnh nhân cũng nên được khảo sát xương và chụp PET-CT hoặc chụp MRI toàn thân vì các kiểm tra này nhạy cảm hơn với bệnh xương so với các phim chụp X-quang. Xét nghiệm tủy xương cũng được yêu cầu cùng với xét nghiệm di truyền tế bào thông thường và nghiên cứu FISH (để biết thêm thông tin, hãy xem tài liệu tham khảo
+
+1 và 2
+
+).
+
+Các xét nghiệm máu thường quy bao gồm CBC và bảng xét nghiệm sinh hóa. Thiếu máu xuất hiện ở 80% số bệnh nhân, thường là thiếu máu normocytic, normochromic với sự hình thành các đám hồng cầu (các cụm từ 3 đến 12 tế bào hồng cầu xếp thành chồng) (
+
+3
+
+). Số lượng bạch cầu và số lượng tiểu cầu thường là bình thường. BUN, creatinine huyết thanh, LDH, beta-2 microglobulin và axit uric huyết thanh có thể tăng cao. Khoảng trống anion đôi khi thấp. Tăng canxi có ở khoảng 10% bệnh nhân.
+
+Điện di protein và miễn dịch cố định được thực hiện trên mẫu huyết thanh và mẫu nước tiểu cô đặc từ mẫu thu thập trong 24 giờ để xác định, định lượng và mô tả đặc điểm của protein M. Điện di protein huyết thanh xác định protein M ở khoảng 80% đến 90% số bệnh nhân. Phần lớn trong số 10% đến 20% còn lại là những bệnh nhân chỉ có chuỗi nhẹ đơn dòng tự do (protein Bence Jones) có thể phát hiện trong máu bằng xét nghiệm chuỗi nhẹ tự do hoặc trong nước tiểu bằng điện di protein nước tiểu và miễn dịch cố định. Protein đơn dòng không xuất hiện rõ ràng khi chẩn đoán ở một tỷ lệ nhỏ bệnh nhân; trong quá trình mắc bệnh, ít bệnh nhân có bằng chứng về protein đơn dòng hơn.
+
+Điện di miễn dịch cố định có thể xác định loại immunoglobulin của protein M (IgG, IgA hoặc ít gặp hơn là IgD, IgM hoặc IgE) và thường có thể phát hiện protein chuỗi nhẹ nếu điện di miễn dịch huyết thanh âm tính; điện di miễn dịch cố định được thực hiện ngay cả khi xét nghiệm huyết thanh âm tính nếu nghi ngờ mạnh mắc bệnh đa u tủy.
+
+Định lượng chuỗi nhẹ kappa, lambda tự do trong huyết thanh hoặc sự khác biệt giữa chuỗi nhẹ có liên quan và không liên quan giúp khẳng định chẩn đoán và cũng có thể được sử dụng để theo dõi hiệu quả điều trị và cung cấp dữ liệu tiên lượng.
+
+Nồng độ beta-2 microglobulin trong huyết thanh được đo nếu chẩn đoán được xác nhận hoặc rất có khả năng, và cùng với
+
+albumin
+
+huyết thanh, được sử dụng như một phần của hệ thống phân loại quốc tế (xem bảng
+
+Hệ thống phân loại quốc tế đã sửa đổi cho bệnh đa u tủy
+
+). Beta-2 microglobulin là một protein nhỏ trên màng của tất cả các tế bào. Nồng độ của nó thay đổi trực tiếp với khối u và mức độ nghiêm trọng của rối loạn chức năng thận.
+
+Bảng
+
+Hệ thống phân đoạn quốc tế đã sửa đổi cho bệnh đa u tủy
+
+Bảng
+
+Hệ thống phân đoạn quốc tế đã sửa đổi cho bệnh đa u tủy
+
+Hệ thống phân đoạn quốc tế đã sửa đổi cho bệnh đa u tủy
+
+Giai đoạn
+
+Tiêu chuẩn
+
+I
+
+Beta-2 microglobulin < 3,5 mcg/mL (< 297 nmol/L)
+
+và
+
+Albumin
+
+huyết thanh ≥ 3,5 g/dL(≥ 35 g/L)
+
+LDH bình thường
+
+Bất thường về tế bào học nguy cơ chuẩn theo FISH*
+
+II
+
+Không giai đoạn I hoặc III
+
+III
+
+Beta-2 microglobulin ≥ 5,5 mcg/mL (≥ 466 nmol/L)
+
+và
+
+Bất thường về tế bào di truyền có nguy cơ cao do FISH† và/hoặc LDH cao
+
+* Các bất thường về tế bào di truyền có nguy cơ tiêu chuẩn bao gồm t(11;14), t(6;14) và trisomy.
+
+† Các bất thường về tế bào di truyền có nguy cơ cao bao gồm t(4;14), t(14;16) hoặc 17p-.
+
+FISH=phương pháp lai tại chỗ gắn huỳnh quang; LDH = lactate dehydrogenase.
+
+Dữ liệu từ
+
+Palumbo A, Avet-Loiseau H, Oliva S, et al
+
+. Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group.
+
+J Clin Oncol
+
+2015;33(26):2863-2869. doi:10.1200/JCO.2015.61.2267
+
+* Các bất thường về tế bào di truyền có nguy cơ tiêu chuẩn bao gồm t(11;14), t(6;14) và trisomy.
+
+† Các bất thường về tế bào di truyền có nguy cơ cao bao gồm t(4;14), t(14;16) hoặc 17p-.
+
+FISH=phương pháp lai tại chỗ gắn huỳnh quang; LDH = lactate dehydrogenase.
+
+Dữ liệu từ
+
+Palumbo A, Avet-Loiseau H, Oliva S, et al
+
+. Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group.
+
+J Clin Oncol
+
+2015;33(26):2863-2869. doi:10.1200/JCO.2015.61.2267
+
+Các phim chụp X-quang bao gồm khảo sát bộ xương (tức là chụp X-quang hộp sọ, xương dài, cột sống, xương chậu và xương sườn). Tổn thương tiêu xương bị đục thủng hoặc loãng xương lan tỏa có mặt ở khoảng 80% số trường hợp (
+
+3
+
+). Chụp cắt lớp xương thường không hữu ích. MRI toàn thân có thể cho biết tổn thương chi tiết hơn và có được nếu có các vị trí cụ thể của đau hoặc triệu chứng thần kinh. Chụp PET-CT cung cấp thông tin tiên lượng và có thể giúp xác định xem bệnh nhân mắc u tương bào hay đa u tủy xương.
+
+Đa u tủy xương
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael J. Joyce, và bác sĩ Hakan Ilaslan cung cấp.
+
+Chọc hút và sinh thiết tủy xương
+
+được thực hiện và cho thấy các dải hoặc các cụm tương bào; u tủy được chẩn đoán khi có ≥ 10% số tế bào thuộc loại này. Tuy nhiên, tình trạng tủy xương bị thương tổn không đồng đều; do đó, một số mẫu từ bệnh nhân mắc bệnh u tủy có thể cho thấy
+
+<
+
+10% số tương bào. Tuy nhiên, tỷ lệ phần trăm tương bào trong tủy xương hiếm khi bình thường. Hình thái tương bào không tương quan với loại Ig được tổng hợp. Các nghiên cứu về nhiễm sắc thể trên tủy xương (ví dụ: sử dụng các phương pháp xét nghiệm tế bào học như FISH và hóa mô miễn dịch) có thể cho thấy những bất thường về kiểu nhân đặc hiệu trong các tương bào có thể ảnh hưởng đến lựa chọn điều trị và có liên quan đến sự khác biệt về thời gian sống thêm.
+
+Chẩn đoán và phân biệt với các bệnh ác tính khác (ví dụ: ung thư biểu mô di căn,
+
+u lympho
+
+,
+
+bệnh bạch cầu
+
+) và với
+
+bệnh lý gamma đơn dòng có ý nghĩa chưa xác định
+
+thường cần phải có nhiều tiêu chuẩn:
+
+Các tương bào tủy xương hoặc u tương bào
+
+Protein M trong huyết thanh và/hoặc nước tiểu
+
+Tổn thương cơ quan (tăng canxi huyết, suy thận, thiếu máu, hoặc tổn thương xương)
+
+Ở những bệnh nhân không có protein M huyết thanh, chẩn đoán đa u tủy xương khi protein niệu Bence Jones
+
+>
+
+200 mg/24 giờ hoặc có các chuỗi nhẹ huyết thanh bất thường, tổn thương tiêu xương (không có dấu hiệu của ung thư di căn hoặc bệnh u hạt), và có các tương bào trong tủy xương thành cụm hoặc dải.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Sive J, Cuthill K, Hunter H, Kazmi M, Pratt G, Smith D và thay mặt cho British Society of Haematology
+
+: Guidelines on the diagnosis, investigation and initial treatment of myeloma: a British Society for Haematology/UK Myeloma Forum Guideline.
+
+Brit J Haematol
+
+193:245–268, 2021. doi:10.1111/bjh.17410
+
+2.
+
+Rajkumar SV
+
+: Multiple myeloma: 2022 update on diagnosis, risk-stratification and management.
+
+Am J Hematol
+
+97(8):1086-1107, 2022. doi:10.1002/ajh.26590
+
+3.
+
+Kyle RA, Gertz MA, Witzig TE, et al
+
+. Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc. 2003;78(1):21-33. doi:10.4065/78.1.21
+
+Điều trị đa u tủy
+
+Hóa trị thông thường và corticosteroid cho bệnh nhân có triệu chứng
+
+Liệu pháp bổ sung bằng thuốc điều hòa miễn dịch và kháng thể đơn dòng
+
+Có thể ghép tế bào gốc đồng loài
+
+Có thể điều trị bằng xạ trị đối với các vùng có triệu chứng cụ thể mà không đáp ứng với hóa trị toàn thân
+
+Điều trị các biến chứng, ví dụ: thiếu máu, tăng canxi máu, rối loạn chức năng thận, nhiễm trùng và bệnh xương
+
+Điều trị bệnh tái phát hoặc kháng trị bằng các thuốc điều hòa miễn dịch, kháng thể đơn dòng, thuốc ức chế proteasome và các phương pháp điều trị tế bào mới hơn
+
+Liệu pháp này bao gồm điều trị trực tiếp các tế bào ác tính ở những bệnh nhân có triệu chứng và những bệnh nhân bị rối loạn chức năng cơ quan liên quan đến bệnh u tủy (thiếu máu, rối loạn chức năng thận, tăng canxi huyết hoặc bệnh về xương).
+
+Trong số những bệnh nhân ban đầu đến khám mà không có rối loạn chức năng cơ quan, các yếu tố nguy cơ cần điều trị nhanh bệnh u tủy bao gồm
+
+> 60% tương bào trong tủy xương
+
+> 1 tổn thương trên phim chụp MRI
+
+Nồng độ chuỗi nhẹ tự do trong huyết thanh > 100 mg/L
+
+Những bệnh nhân có các yếu tố nguy cơ này được coi là mắc bệnh u tủy hoạt động và cần được điều trị ngay lập tức mặc dù việc điều trị sớm cho những bệnh nhân này chưa được chứng minh là có thể cải thiện thời gian sống thêm toàn bộ của họ. Những bệnh nhân không có các yếu tố nguy cơ này hoặc rối loạn chức năng nội tạng có thể không được điều trị ngay lập tức, điều này thường được giữ lại cho đến khi các triệu chứng hoặc biến chứng phát triển.
+
+Điều trị các tế bào ác tính
+
+Hóa trị thông thường
+
+, bao gồm melphalan đường uống và prednisone theo chu kỳ từ 4 tuần đến 6 tuần trong 8 chu kỳ đến 12 chu kỳ với đánh giá đáp ứng hàng tháng, là phương pháp điều trị ban đầu cho bệnh đa u tủy. Tuy nhiên, kết quả có thể tốt hơn khi bổ sung thuốc ức chế proteasome (ví dụ: bortezomib, carfilzomib hoặc ixazomib) hoặc thuốc điều hòa miễn dịch (lenalidomide, thalidomide).
+
+Các thuốc hóa trị liệu khác, bao gồm cyclophosphamide, bendamustine, doxorubicin và doxorubicin pegylated liposome (doxorubicin liposome), cũng hiệu quả hơn khi phối hợp với thuốc điều hòa miễn dịch (thalidomide, lenalidomide, bortezomib). Thời gian sống thêm cao hơn khi điều trị ban đầu bao gồm cả bortezomib và lenalidomide cộng với corticosteroid.
+
+Việc bổ sung kháng thể đơn dòng anti-CD38, daratumumab hoặc isatuximab, vào bortezomib và dexamethasone có hoặc không có lenalidomide như một phần của điều trị ban đầu dường như cải thiện kết quả (
+
+1
+
+).
+
+Đáp ứng với điều trị (xem bảng
+
+Xác định đáp ứng với điều trị ung thư
+
+) được biểu thị bằng
+
+Giảm M-protein trong huyết thanh và trong nước tiểu
+
+Giảm nồng độ của chuỗi nhẹ tự do có liên quan trong huyết thanh
+
+Tăng số lượng hồng cầu
+
+Cải thiện chức năng thận ở bệnh nhân có biểu hiện suy thận
+
+Bình thường trở lại nồng độ canxi trong số những người có nồng độ canxi cao
+
+Giảm đau xương
+
+Giảm mệt mỏi
+
+Ghép tế bào gốc
+
+máu ngoại vi tự thân
+
+có thể được xem xét cho những bệnh nhân có đủ chức năng tim, gan, phổi và thận, đặc biệt là những người có bệnh ổn định hoặc có đáp ứng sau vài chu kỳ điều trị ban đầu. Tuy nhiên, các phương pháp điều trị bằng dược lý có hiệu quả cao và có thể làm cho việc ghép tạng ít cần thiết hơn hoặc không cần thiết nữa. Các thử nghiệm lâm sàng cho thấy thời gian sống không tiến triển dài hơn, nhưng không cải thiện được thời gian sống thêm toàn bộ khi bệnh nhân trải qua ghép tế bào gốc như một phần của liệu pháp ban đầu (
+
+2
+
+).
+
+Ghép tế bào gốc đồng loài sau hóa trị liệu không ức chế tủy (ví dụ, cyclophosphamide liều thấp và fludarabine liều thấp) hoặc liệu pháp xạ trị liều thấp có thể có thờ gian sống không bệnh từ 5 đến 10 năm ở một số bệnh nhân. Tuy nhiên, cấy ghép tế bào gốc đồng loại kèm theo hóa trị liệu loại bỏ tủy hoặc không loại bỏ tủy vẫn còn là thử nghiệm vì tỷ lệ mắc bệnh và tỷ lệ tử vong cao do
+
+bệnh mảnh ghép chống ký chủ
+
+.
+
+Điều trị đa u tủy tái phát hoặc kháng trị
+
+Đối với bệnh nhân bị u tủy tái phát hoặc kháng trị, các phối hợp hiệu quả bao gồm
+
+Corticosteroid
+
+Thuốc ức chế proteasome (bortezomib, ixazomib, carfilzomib)
+
+Thuốc điều hòa miễn dịch (thalidomide, lenalidomide, pomalidomide)
+
+Kháng thể đơn dòng (daratumumab, isatuximab, elotuzumab)
+
+Những loại thuốc này thường được phối hợp với các thuốc có hiệu quả khác mà bệnh nhân chưa được điều trị.
+
+Bệnh nhân có thời gian thuyên giảm kéo dài có thể đáp ứng với liệu pháp điều trị lại bằng cùng một phác đồ đã dẫn đến thuyên giảm ban đầu. Bệnh nhân không đáp ứng với một sự phối hợp thuốc nhất định có thể đáp ứng khi một loại thuốc khác cùng nhóm (ví dụ: thuốc ức chế proteasome, thuốc điều hòa miễn dịch, thuốc hóa trị liệu) được thay thế.
+
+Kháng thể đơn dòng nhắm vào các protein trên tế bào u tủy cũng rất hiệu quả trong điều trị u tủy tái phát hoặc kháng trị. Các kháng thể đơn dòng có sẵn bao gồm các kháng thể nhắm đích
+
+CD38 (daratumumab, isatuximab)
+
+Phân tử kích hoạt tế bào lympho theo tín hiệu F7 (SLAMF7—elotuzumab)
+
+Các kháng thể đơn dòng này cải thiện hiệu quả của các loại thuốc khác được sử dụng để điều trị bệnh đa u tủy, bao gồm các thuốc điều hòa miễn dịch thalidomide, lenalidomide và pomalidomide và các thuốc ức chế proteasome bortezomib và carfilzomib (
+
+3, 4
+
+). Tuy nhiên, việc điều trị bằng bất kỳ loại kháng thể đơn dòng nào trong số này và chỉ dùng dexamethasone đều có hiệu quả ở nhiều bệnh nhân, đặc biệt là những bệnh nhân có tiến triển bệnh chỉ được đánh dấu bằng sự gia tăng các chất chỉ điểm khối u được đo. Cách tiếp cận này tránh được tác dụng bất lợi của các loại thuốc bổ sung.
+
+Khi phối hợp với các loại thuốc điều trị u tủy hoạt động khác, đặc biệt là bortezomib, các loại thuốc sau đây đặc biệt hiệu quả:
+
+Thuốc ức chế chọn lọc của selinexor xuất khẩu hạt nhân
+
+Thuốc ức chế histone deacetylase panobinostat
+
+Có những phương pháp điều trị miễn dịch hiệu quả nhắm vào kháng nguyên trưởng thành tế bào B (BCMA). Những phương pháp điều trị này bao gồm
+
+Liệu pháp tế bào cho bệnh u tủy, bao gồm liệu pháp tế bào T thụ thể kháng nguyên khảm (CAR) idecabtagene, vicleucel và ciltacabtagene autoleucel
+
+Các kháng thể đặc hiệu kép cũng nhắm vào CD3 trên tế bào T (teclistamab và elranatamab) (
+
+5, 6
+
+)
+
+Kháng thể đặc hiệu kép nhắm vào thụ thể ghép cặp protein G, nhóm C, nhóm 5, thành viên D (GPRC5D) trên các tế bào đa u tủy và cả CD3 (talquetamab) (
+
+6
+
+)
+
+Mặc dù các phương pháp điều trị này có hiệu quả, nhưng có thể gây ra các tác dụng bất lợi cấp tính đáng kể
+
+(hội chứng giải phóng cytokine
+
+, các vấn đề về thần kinh), nguy cơ cao mắc các bệnh nhiễm trùng nặng kéo dài và ung thư thứ phát.
+
+Thuốc ức chế BCL-2 dạng uống venetoclax đã được chứng minh là có hiệu quả trong điều trị bệnh nhân có tế bào u tủy biểu hiện dấu hiệu di truyền t(11;14) và có thể phối hợp với thuốc ức chế proteasome và kháng thể đơn dòng (
+
+7
+
+).
+
+Điều trị duy trì
+
+Liệu pháp duy trì đã được thử nghiệm bằng các loại thuốc không phải hóa trị liệu, bao gồm interferon alfa, giúp kéo dài thời gian thuyên giảm nhưng không cải thiện thời gian sống thêm và có liên quan đến các tác dụng bất lợi đáng kể. Sau khi đáp ứng với các phác đồ có cơ sở corticosteroid, có thể điều trj duy trì bằng corticosteroid đơn trị.
+
+Thalidomide cũng có thể có hiệu quả khi dùng làm phương pháp điều trị duy trì và lenalidomide đơn trị liệu hoặc kèm theo corticosteroid có hiệu quả khi dùng làm phương pháp điều trị duy trì. Tuy nhiên, có một số lo ngại về ung thư thứ phát ở những bệnh nhân được điều trị bằng lenalidomide trong thời gian dài, đặc biệt là sau khi
+
+ghép tế bào gốc tự thân
+
+. Do đó, nguy cơ phát triển ung thư thứ phát phải được cân nhắc với việc cải thiện thời gian sống thêm.
+
+Thuốc ức chế proteasome đường uống, ixazomib, có hiệu quả dưới dạng đơn thuốc trong điều trị duy trì. Người ta vẫn chưa biết liệu phối hợp giữa ixazomib và lenalidomide có hiệu quả hơn hay không.
+
+Vai trò của kháng thể đơn dòng làm liệu pháp duy trì vẫn chưa được xác định.
+
+Điều trị các biến chứng
+
+Ngoài việc điều trị trực tiếp các tế bào ác tính, liệu pháp cũng phải hướng vào các biến chứng, bao gồm
+
+Thiếu máu
+
+Tăng canxi máu
+
+Tăng axit uric máu
+
+Tăng độ nhớt máu
+
+Nhiễm trùng
+
+Suy thận
+
+Tổn thương xương
+
+Tình trạng thiếu máu
+
+không thuyên giảm nhiều khi điều trị bằng hóa trị có thể được điều trị bằng erythropoietin tái tổ hợp. Nếu thiếu máu gây ra các triệu chứng tim mạch hoặc các triệu chứng toàn thân đáng kể,
+
+cần truyền khối hồng cầu
+
+. Thông thường bệnh nhân thiếu sắt vì những lý do không liên quan đến u tủy và cần bổ sung sắt qua đường tĩnh mạch. Bệnh nhân bị thiếu máu nên định kỳ đo nồng độ sắt, transferrin và ferritin trong huyết thanh để theo dõi lượng sắt dự trữ cũng như nồng độ vitamin B12.
+
+Nếu
+
+độ nhớt máu tăng cao
+
+, điều hiếm khi xảy ra ở bệnh nhân mắc bệnh u tủy, cần phải
+
+thay huyết tương
+
+.
+
+Tăng canxi máu
+
+được điều trị bằng thuốc lợi tiểu mạnh, bisphosphonat IV (tốt nhất là axit zoledronic) sau khi bù nước, và đôi khi bằng calcitonin hoặc prednisone. Denosumab cũng có thể được sử dụng để điều trị tăng canxi máu, đặc biệt là ở những bệnh nhân bị suy thận nặng. Bệnh nhân nên tránh thực phẩm chứa canxi, bổ sung canxi và
+
+vitamin D
+
+.
+
+Tăng axit uric máu
+
+có thể xảy ra ở một số bệnh nhân có gánh nặng khối u và các vấn đề trao đổi chất cơ bản. Tuy nhiên, hầu hết không cần allopurinol. Allopurinol hoặc rasburicaseđược chỉ định cho bệnh nhân có nồng độ axit uric huyết thanh cao hoặc gánh nặng khối u và nguy cơ cao
+
+hội chứng ly giải khối u
+
+do điều trị.
+
+Nhiễm trùng
+
+có nhiều khả năng xảy ra trong quá trình điều trị làm
+
+giảm bạch cầu trung tính
+
+. Ngoài ra, nhiễm vi rút
+
+herpes zoster
+
+xảy ra thường xuyên trên bệnh nhân được điều trị bằng một số loại thuốc chống ung thư, đặc biệt là các thuốc ức chế proteasome (bortezomib, carfilzomib, ixazomib) và các kháng thể đơn dòng (daratumumab, isatuximab, elotuzumab). Các phương pháp điều trị theo chỉ định của BCMA có liên quan đến nguy cơ nhiễm trùng nặng rất cao.
+
+Nhiễm trùng do vi khuẩn được ghi nhận cần phải được điều trị bằng kháng sinh. Việc sử dụng kháng sinh dự phòng không được khuyến nghị thường quy.
+
+Việc sử dụng thuốc kháng vi rút dự phòng (ví dụ: acyclovir, valganciclovir, famciclovir) được chỉ định cho những bệnh nhân đang dùng thuốc ức chế proteasome (bortezomib, carfilzomib, ixazomib), kháng thể đơn dòng (daratumumab, isatuximab, elotuzumab), kháng thể hai đặc hiệu (teclistamab, elranatamab, talquetamab) hoặc liệu pháp tế bào T CAR (idecabtagene vicleucel, ciltacabtagene autoleucel).
+
+Dự phòng bằng globulin miễn dịch đường tĩnh mạch có thể làm giảm nguy cơ nhiễm trùng nhưng thường được dành riêng cho bệnh nhân có nồng độ globulin miễn dịch không giải phóng thấp và bị nhiễm trùng tái diễn.
+
+Vắc xin phòng phế cầu khuẩn
+
+và
+
+vắc xin phòng cúm
+
+được chỉ định để ngăn ngừa nhiễm trùng nhưng không hiệu quả ở hầu hết bệnh nhân do suy giảm miễn dịch liên quan đến bệnh và điều trị. Không khuyến nghị sử dụng vắc xin sống ở những bệnh nhân có hệ thống miễn dịch suy yếu. Để ngăn ngừa nhiễm trùng herpes zoster, có thể tiêm
+
+vắc xin phòng ngừa bệnh zona
+
+tái tổ hợp không có khả năng sống nhưng hiệu quả lại hạn chế.
+
+Tổn thương thận
+
+có thể được cải thiện bằng bù dịch thích hợp. Ngay cả những bệnh nhân có protein Bence Jones kéo dài, nồng dộ cao (
+
+≥
+
+10 đến 30 g/ngày) có thể có chức năng thận còn nguyên vẹn nếu họ duy trì lượng nước tiểu
+
+>
+
+2000 mL/ngày. Mất nước kết hợp dùng thuốc cản quang áp lực thẩm thấu cao đường tĩnh mạch, có thể gây ra suy thận cấp tính ở bệnh nhân có protein niệu Bence Jones. Trao đổi huyết tương có thể có hiệu quả trong một số trường hợp. Nên tránh dùng thuốc gây độc thận. Điều trị nhanh chóng và tích cực u tủy bên dưới để giảm nồng độ globulin miễn dịch đơn dòng gây độc cho thận là rất quan trọng để đảo ngược tình trạng này.
+
+Điều trị
+
+tổn thương xương
+
+đòi hỏi nhiều biện pháp hỗ trợ. Duy trì khả năng vận động và bổ sung canxi và
+
+vitamin D,
+
+khi cần thiết, giúp duy trì mật độ xương ở những bệnh nhân không bị tăng canxi huyết liên quan đến bệnh. Nồng độ
+
+vitamin D
+
+nên được đo khi chẩn đoán và theo định kỳ và điều chỉnh liều lượng
+
+vitamin D
+
+cho phù hợp. Thuốc giảm đau và xạ trị giảm liều (18-24 gray) có thể làm giảm đau xương. Tuy nhiên, xạ trị có thể gây độc hại đáng kể, và vì ức chế chức năng tủy xương, có thể làm giảm khả năng chấp nhận liều gây độc tế bào khi hóa trị toàn thân.
+
+Hầu hết bệnh nhân, đặc biệt là những người có tổn thương tiêu xương, loãng xương hoặc mất xương nên dùng bisphosphonate đường tĩnh mạch hàng tháng (pamidronate hoặc axit zoledronic). Bisphosphonates làm giảm các biến chứng xương và giảm đau xương và có thể có tác dụng chống u. Đối với bệnh nhân suy thận có khả năng hồi phục do đa u tủy nhưng không liên quan đến tăng canxi máu hoặc với phản ứng truyền dịch liên tục sau khi truyền bisphosphonat, một lựa chọn khác là không chứa bisphosphonat và không gây phản ứng thận. Cả bisphosphonate và densousmab đều có thể gây ra hoại tử xương hàm. Duy trì sức khoẻ răng miệng tốt và tránh các răng giả và cấy ghép răng là rất quan trọng để giảm thiểu nguy cơ biến chứng này.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Abdallah N, Kumar SK
+
+.
+
+Daratumumab
+
+in untreated newly diagnosed multiple myeloma.
+
+Ther Adv Hematol
+
+2019;10:2040620719894871. doi:10.1177/2040620719894871
+
+2.
+
+Richardson PG, Jacobus SJ, Weller EA, et al
+
+. Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma.
+
+N Engl J Med
+
+2022;387(2):132-147. doi:10.1056/NEJMoa2204925
+
+3.
+
+Palumbo A, Chanan-Khan A, Weisel K, et al
+
+.
+
+Daratumumab
+
+,
+
+Bortezomib
+
+, and
+
+Dexamethasone
+
+for Multiple Myeloma.
+
+N Engl J Med
+
+2016;375(8):754-766. doi:10.1056/NEJMoa1606038
+
+4.
+
+Arnall JR, Maples KT, Harvey RD, et al
+
+.
+
+Daratumumab
+
+for the treatment of multiple myeloma: A review of clinical applicability and operational considerations.
+
+AnnalsPharmacother
+
+2022;56(8):927-940. doi: 10.1177/10600280211058754
+
+5.
+
+Yang J, Zhou W, Li D, et al
+
+. BCMA-targeting chimeric antigen receptor T-cell therapy for multiple myeloma.
+
+Cancer Lett
+
+2023;553:215949. doi: 10.1016/j.canlet.2022.215949
+
+6.
+
+Lee H, Neri P, Bahlis NJ
+
+. BCMA- or GPRC5D-targeting bispecific antibodies in multiple myeloma: efficacy, safety, and resistance mechanisms.
+
+Blood
+
+2024;143(13):1211-1217. doi: 10.1182/blood.2023022499
+
+7.
+
+He W, He F, Hu H
+
+. Efficacy and safety of
+
+venetoclax
+
+-based regimens in relapsed or refractory multiple myeloma: a systematic review and meta-analysis of prospective trials.
+
+Ann Med
+
+2023;55(1):1029-1036. doi:10.1080/07853890.2023.2186480
+
+Tiên lượng về đa u tủy
+
+Mặc dù bệnh đa u tủy tiến triển và không thể chữa khỏi, nhưng thời gian sống thêm trung bình đã được cải thiện lên hơn 11 năm ở những bệnh nhân không được chọn trong một nghiên cứu gần đây (
+
+1
+
+).
+
+Các dấu hiệu tiên lượng không thuận lợi khi chẩn đoán là giai đoạn cao hơn, nồng độ albumin huyết thanh thấp hơn, nồng độ beta-2 microglobulin cao hơn, nồng độ LDH tăng cao, bất thường về di truyền tế bào đặc hiệu trong tế bào khối u và nồng độ tế bào ác tính trong máu cao hơn. Bệnh nhân ban đầu có biểu hiện bị suy thận cũng hoạt động kém trừ khi chức năng thận được cải thiện khi điều trị, điều này thường xảy ra với các phương án điều trị hiện tại.
+
+Bởi vì đa u tủy cuối cùng gây tử vong, bệnh nhân có thể được hưởng lợi từ các cuộc thảo luận về
+
+chăm sóc cuối đời
+
+có sự tham gia của bác sĩ lâm sàng, gia đình và bạn bè thích hợp. Các biện pháp chăm sóc bao gồm
+
+hướng dẫn trước
+
+, giảm đau, nuôi dưỡng đường sonde.
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Jew S, Bujarski S, Regidor B, et al
+
+. Clinical outcomes and serum B-cell maturation antigen levels in a real-world unselected population of newly diagnosed multiple myeloma patients.
+
+Target Oncol
+
+2023;18:735-747. doi: 10.1007/s11523-023-00990-6
+
+Những điểm chính
+
+Tương bào ác tính sản xuất ra globulin miễn dịch đơn dòng, xâm lấn và phá hủy xương.
+
+Sự lan rộng u tương bào và sự bài tiết cytokine gây ra nhiều tổn thương tiêu xương lỗ chỗ (thường là ở xương chậu, xương sống, sườn và sọ) và loãng xương lan tỏa; đau, gãy xương và tăng canxi máu là phổ biến.
+
+Thiếu máu và suy thận là phổ biến.
+
+Thoái hóa dạng tinh bột xảy ra ở khoảng 10%, điển hình là bệnh nhân sản xuất quá mức chuỗi nhẹ lambda.
+
+Thực hiện điện di protein trong huyết thanh và nước tiểu, sau đó là cố định miễn dịch, định lượng các globulin miễn dịch và đo các chuỗi nhẹ tự do trong huyết thanh.
+
+Chọc hút và sinh thiết tủy xương.
+
+Bệnh nhân có triệu chứng và những người bị suy giảm chức năng cơ quan nên được điều trị bằng liệu pháp dược lý, có thể bao gồm corticosteroid, thuốc hóa trị, thuốc ức chế proteasome, thuốc điều hòa miễn dịch, kháng thể đơn dòng, thuốc ức chế chọn lọc xuất khẩu nhân, thuốc ức chế histone deacetylase và liệu pháp miễn dịch dựa trên tế bào và kháng thể nhắm đích kháng nguyên trưởng thành tế bào B.
+
+Ghép tế bào gốc là một lựa chọn cho một số bệnh nhân, nhưng các phương pháp điều trị bằng dược lý có hiệu quả cao có thể khiến phương pháp này không cần thiết đối với những bệnh nhân khác.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+Bal S, Giri S, Godby KN, Costa LJ
+
+: New regimens and directions in the management of newly diagnosed multiple myeloma.
+
+Am J Hematol
+
+96:367–378, 2021 doi:10.1002/ajh.26080
+
+Cook G, Morris CTCM
+
+: Evolution or revolution in multiple myeloma therapy and the role of the UK.
+
+Brit J Haematol
+
+191:542–551, 2020. doi:10.1111/bjh.17148
+
+Cowan AJ, Green DJ, Kwok M, et al
+
+. Diagnosis and management of multiple myeloma: A review.
+
+JAMA
+
+327:464-477, 2022 doi: 10.1001/jama.2022.0003
+
+Gulla A, Anderson KC
+
+: Multiple myeloma: the (r)evolution of current therapy and a glance into the future.
+
+Haematologica
+
+105:2358–2367, 2020. doi:10.3324/haematol.2020.247015
+
+Rafae A., Rhee FV, Hadidi SA
+
+: Perspectives on the treatment of multiple myeloma.
+
+Oncologist
+
+29:200-212, 2024. doi: 10.1093/oyad306
+
+Rajkumar SV
+
+: Multiple Myeloma: 2022 update on diagnosis, risk stratification, and management.
+
+Am J Hematol
+
+97:1086–1107, 2022. doi: 10.1002/ajh.26590
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh u tủy, U tủy tương bào) ---
+
+TheoJames R. Berenson,MD,Institute for Myeloma and Bone Cancer ResearchXem xét bởiJerry L. Spivak,MD; MACP,, Johns Hopkins University School of MedicineĐã xem xét/Đã chỉnh sửađã sửa đổiThg 8 2024v976220_vi
+
+--- 2. Sinh lý bệnh của đa u tủy ---
+
+Protein M (protein immunoglobulin đơn dòng) do các tương bào ác tính sản sinh là IgG ở khoảng 50% đến 55% số bệnh nhân u tủy và IgA ở khoảng 20% (1). Trong số bệnh nhân sản sinh ra IgG hoặc IgA, 40% cũng có protein niệu Bence Jones, là chuỗi nhẹ đơn dòng kappa (κ) hoặc lambda (λ) tự do trong nước tiểu. Từ 15 đến 20% bệnh nhân, tương bào chỉ tiết ra protein Bence Jones. U tủy IgM và IgD mỗi loại chiếm khoảng 1% đến 2% các trường hợp; u tủy IgD thường gặp hơn ở những bệnh nhân gốc Á. U tủy IgE cực kỳ hiếm gặp.Hiếm khi, bệnh nhân không có protein M trong máu và trong nước tiểu. Tuy nhiên, xét nghiệm chuỗi nhẹ tự do trong huyết thanh cho thấy có chuỗi nhẹ đơn dòng ở nhiều bệnh nhân trước đây được cho là mắc bệnh u tủy không tiết.Loãng xươnglan tỏa hoặc tổn thương tiêu xương lẻ tẻ thường xuất hiện, với các vị trí phổ biến nhất là xương chậu, cột sống, xương sườn, xương đùi, xương cánh tay và hộp sọ. Các tổn thương do các u tương bao phì đại thay thế xương hoặc do các cytokine được các tương bào ác tính tiết ra kích hoạt các nguyên bào xương và ức chế các nguyên bào xương, dẫn đến mất xương. Các tổn thương tiêu xương thường là nhiều; đôi khi, chúng là những khối lớn trong tủy. Tăng mất xương cũng có thể dẫn đếntăng canxi huyết.Các u tương bào đơn độc bất thường nhưng có thể xuất hiện ở bất kỳ mô nào, đặc biệt ở đường hô hấp trên.Ở nhiều bệnh nhân, có suy thận khi chẩn đoán hoặc phát triển trong suốt quá trình rối loạn. Suy thận có nhiều nguyên nhân, thông thường nó xuất phát từ sự lắng đọng của các chuỗi nhẹ trong cácống lượn xahoặc tăng canxi huyết.Bệnh nhân thường bị thiếu máu, chủ yếu là do bệnh thận hoặc do tế bào ung thư ức chế quá trình tạo hồng cầu. Thiếu máu ở bệnh nhân đa u tủy xương cũng có thể là do các nguyên nhân không liên quan khác, bao gồmthiếu sắthoặcthiếu vitamin B12.Do thiếu các kháng thể bình thường và các rối loạn miễn dịch khác, một số bệnh nhân đã tăng nhạy cảm với nhiễm khuẩn. Nhiễm vi rút, đặc biệt lànhiễm herpes zoster, cũng có thể xảy ra do các phương thức điều trị như thuốc ức chế proteasome (ví dụ: bortezomib, ixazomib, carfilzomib) và kháng thể đơn dòng (ví dụ: daratumumab, elotuzumab, isatuximab).Thoái hóa dạng tinh bộtxảy ra ở 10% số bệnh nhân mắc bệnh u tủy, thường gặp nhất ở những bệnh nhân có protein M loại lambda (2).Các biểu hiện biến thể của đa u tủy xảy ra (xem bảngCác biểu hiện biến thể của đa u tủy).BảngCác biến thể của đa u tủy xươngBảngCác biến thể của đa u tủy xươngCác biến thể của đa u tủy xươngHình thứcĐặc điểmU tương bào ngoài tủyU tương bào xuất hiện ở bên ngoài hệ thống tủy xương.U tương bào đặc của xươngU tương bào đơn độc ở xương, thường không tiết protein MU tủy xơ cốt (hội chứng POEMS)Bệnh đa thần kinh (viêm đa dây thần kinh mạn tính)Tạng to (gan to, lách to, hạch to)Bệnh nội tiết (ví dụ như chứng vú to đàn ông, teo tinh hoàn)Protein MThay đổi da (ví dụ, tăng sắc tố, thừa tóc)Đa u tủy xương không tiếtKhông có protein M trong huyết thanh và nước tiểuKhông có các chuỗi nhẹ tăng nồng độ tự do trong huyết thanhTài liệu tham khảo sinh bệnh học1.Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 patients with newly diagnosed multiple myeloma.Mayo Clin Proc2003;78(1):21-33. doi:10.4065/78.1.212.Ríos-Tamayo R, Krsnik I, Gómez-Bueno M, et al. AL Amyloidosis and Multiple Myeloma: A Complex Scenario in Which Cardiac Involvement Remains the Key Prognostic Factor. Life (Basel). 2023;13(7):1518. Xuất bản ngày 6 tháng 7 năm 2023. doi:10.3390/life13071518
+
+--- 3. Các triệu chứng và dấu hiệu của đa u tủy ---
+
+Đau xương dai dẳng (đặc biệt là ở lưng hoặc ngực), suy thận và nhiễm khuẩn tái phát là những vấn đề thường gặp nhất khi đến khám, nhưng nhiều bệnh nhân được xác định khi các xét nghiệm thường quy cho thấy protein toàn phần trong máu tăng cao, protein niệu hoặc không rõ nguyên nhân. thiếu máu hoặc suy thận.Các triệu chứng thiếu máu chiếm ưu thế hoặc có thể là lý do duy nhất để đánh giá ở một số bệnh nhân và một số ít bệnh nhân cóbiểu hiện của hội chứng tăng độ nhớt máu.Gãy xương bệnh lý (dễ gãy) (tức là gãy xương xảy ra khi có chấn thương không đáng kể hoặc không có chấn thương) là phổ biến và xẹp đốt sống có thể dẫn đếnchèn ép tủy sốngvà liệt chi dưới.Bệnh lý thần kinh ngoại biên,hội chứng ống cổ tay(đặc biệt là ở những bệnh nhân bịthoái hóa dạng tinh bột), chảy máu bất thường và các triệu chứngtăng canxi huyết(ví dụ: uống nhiều, mất nước) là phổ biến.Hạch to, gan to ít gặp.
+
+--- 4. Chẩn đoán đa u tủy ---
+
+Công thức máu (CBC) có đếm tiểu cầu, tiêu bản phết máu ngoại biên và bảng xét nghiệm sinh hóa (nitơurêmáu [BUN], creatinine, canxi, axit uric, lactate dehydrogenase [LDH])Điện di protein huyết thanh và nước tiểu (từ mẫu nước tiểu thu thập trong 24 giờ) sau đó là cố định miễn dịch; định lượng globulin miễn dịch; và chuỗi nhẹ tự do huyết thanhCác phim chụp X-quang (khảo sát xương) và chụp cắt lớp phát xạ positron (PET)-CT hoặc chụp MRI toàn thânXét nghiệm tủy xương, bao gồm xét nghiệm tế bào học di truyền và huỳnh quang tại chỗ (FISH)Nghi ngờ mắc bệnh đa u tủy ở những bệnh nhân > 40 tuổi có tình trạng đau xương dai dẳng không rõ nguyên nhân, đặc biệt là vào ban đêm hoặc khi nghỉ ngơi, có các triệu chứng điển hình khác, bất thường về xét nghiệm không rõ nguyên nhân (ví dụ: protein máu hoặc protein niệu tăng cao, tăng canxi huyết, suy thận, thiếu máu) hoặc các phim chụp X-quang cho thấy gãy xương bệnh lý hoặc tổn thương tiêu xương.Đánh giá xét thí nghiệm bao gồm xét nghiệm máu thường quy, LDH, microglobulin beta-2 huyết thanh, điện di miễn dịch cố định nước tiểu và huyết thanh và chuỗi nhẹ tự do trong huyết thanh. Bệnh nhân cũng nên được khảo sát xương và chụp PET-CT hoặc chụp MRI toàn thân vì các kiểm tra này nhạy cảm hơn với bệnh xương so với các phim chụp X-quang. Xét nghiệm tủy xương cũng được yêu cầu cùng với xét nghiệm di truyền tế bào thông thường và nghiên cứu FISH (để biết thêm thông tin, hãy xem tài liệu tham khảo1 và 2).Các xét nghiệm máu thường quy bao gồm CBC và bảng xét nghiệm sinh hóa. Thiếu máu xuất hiện ở 80% số bệnh nhân, thường là thiếu máu normocytic, normochromic với sự hình thành các đám hồng cầu (các cụm từ 3 đến 12 tế bào hồng cầu xếp thành chồng) (3). Số lượng bạch cầu và số lượng tiểu cầu thường là bình thường. BUN, creatinine huyết thanh, LDH, beta-2 microglobulin và axit uric huyết thanh có thể tăng cao. Khoảng trống anion đôi khi thấp. Tăng canxi có ở khoảng 10% bệnh nhân.Điện di protein và miễn dịch cố định được thực hiện trên mẫu huyết thanh và mẫu nước tiểu cô đặc từ mẫu thu thập trong 24 giờ để xác định, định lượng và mô tả đặc điểm của protein M. Điện di protein huyết thanh xác định protein M ở khoảng 80% đến 90% số bệnh nhân. Phần lớn trong số 10% đến 20% còn lại là những bệnh nhân chỉ có chuỗi nhẹ đơn dòng tự do (protein Bence Jones) có thể phát hiện trong máu bằng xét nghiệm chuỗi nhẹ tự do hoặc trong nước tiểu bằng điện di protein nước tiểu và miễn dịch cố định. Protein đơn dòng không xuất hiện rõ ràng khi chẩn đoán ở một tỷ lệ nhỏ bệnh nhân; trong quá trình mắc bệnh, ít bệnh nhân có bằng chứng về protein đơn dòng hơn.Điện di miễn dịch cố định có thể xác định loại immunoglobulin của protein M (IgG, IgA hoặc ít gặp hơn là IgD, IgM hoặc IgE) và thường có thể phát hiện protein chuỗi nhẹ nếu điện di miễn dịch huyết thanh âm tính; điện di miễn dịch cố định được thực hiện ngay cả khi xét nghiệm huyết thanh âm tính nếu nghi ngờ mạnh mắc bệnh đa u tủy.Định lượng chuỗi nhẹ kappa, lambda tự do trong huyết thanh hoặc sự khác biệt giữa chuỗi nhẹ có liên quan và không liên quan giúp khẳng định chẩn đoán và cũng có thể được sử dụng để theo dõi hiệu quả điều trị và cung cấp dữ liệu tiên lượng.Nồng độ beta-2 microglobulin trong huyết thanh được đo nếu chẩn đoán được xác nhận hoặc rất có khả năng, và cùng vớialbuminhuyết thanh, được sử dụng như một phần của hệ thống phân loại quốc tế (xem bảngHệ thống phân loại quốc tế đã sửa đổi cho bệnh đa u tủy). Beta-2 microglobulin là một protein nhỏ trên màng của tất cả các tế bào. Nồng độ của nó thay đổi trực tiếp với khối u và mức độ nghiêm trọng của rối loạn chức năng thận.BảngHệ thống phân đoạn quốc tế đã sửa đổi cho bệnh đa u tủyBảngHệ thống phân đoạn quốc tế đã sửa đổi cho bệnh đa u tủyHệ thống phân đoạn quốc tế đã sửa đổi cho bệnh đa u tủyGiai đoạnTiêu chuẩnIBeta-2 microglobulin < 3,5 mcg/mL (< 297 nmol/L)vàAlbuminhuyết thanh ≥ 3,5 g/dL(≥ 35 g/L)LDH bình thườngBất thường về tế bào học nguy cơ chuẩn theo FISH*IIKhông giai đoạn I hoặc IIIIIIBeta-2 microglobulin ≥ 5,5 mcg/mL (≥ 466 nmol/L)vàBất thường về tế bào di truyền có nguy cơ cao do FISH† và/hoặc LDH cao* Các bất thường về tế bào di truyền có nguy cơ tiêu chuẩn bao gồm t(11;14), t(6;14) và trisomy.† Các bất thường về tế bào di truyền có nguy cơ cao bao gồm t(4;14), t(14;16) hoặc 17p-.FISH=phương pháp lai tại chỗ gắn huỳnh quang; LDH = lactate dehydrogenase.Dữ liệu từPalumbo A, Avet-Loiseau H, Oliva S, et al. Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group.J Clin Oncol2015;33(26):2863-2869. doi:10.1200/JCO.2015.61.2267* Các bất thường về tế bào di truyền có nguy cơ tiêu chuẩn bao gồm t(11;14), t(6;14) và trisomy.† Các bất thường về tế bào di truyền có nguy cơ cao bao gồm t(4;14), t(14;16) hoặc 17p-.FISH=phương pháp lai tại chỗ gắn huỳnh quang; LDH = lactate dehydrogenase.Dữ liệu từPalumbo A, Avet-Loiseau H, Oliva S, et al. Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group.J Clin Oncol2015;33(26):2863-2869. doi:10.1200/JCO.2015.61.2267Các phim chụp X-quang bao gồm khảo sát bộ xương (tức là chụp X-quang hộp sọ, xương dài, cột sống, xương chậu và xương sườn). Tổn thương tiêu xương bị đục thủng hoặc loãng xương lan tỏa có mặt ở khoảng 80% số trường hợp (3). Chụp cắt lớp xương thường không hữu ích. MRI toàn thân có thể cho biết tổn thương chi tiết hơn và có được nếu có các vị trí cụ thể của đau hoặc triệu chứng thần kinh. Chụp PET-CT cung cấp thông tin tiên lượng và có thể giúp xác định xem bệnh nhân mắc u tương bào hay đa u tủy xương.Đa u tủy xươngHình ảnhHình ảnh do bác sĩ Michael J. Joyce, và bác sĩ Hakan Ilaslan cung cấp.Chọc hút và sinh thiết tủy xươngđược thực hiện và cho thấy các dải hoặc các cụm tương bào; u tủy được chẩn đoán khi có ≥ 10% số tế bào thuộc loại này. Tuy nhiên, tình trạng tủy xương bị thương tổn không đồng đều; do đó, một số mẫu từ bệnh nhân mắc bệnh u tủy có thể cho thấy<10% số tương bào. Tuy nhiên, tỷ lệ phần trăm tương bào trong tủy xương hiếm khi bình thường. Hình thái tương bào không tương quan với loại Ig được tổng hợp. Các nghiên cứu về nhiễm sắc thể trên tủy xương (ví dụ: sử dụng các phương pháp xét nghiệm tế bào học như FISH và hóa mô miễn dịch) có thể cho thấy những bất thường về kiểu nhân đặc hiệu trong các tương bào có thể ảnh hưởng đến lựa chọn điều trị và có liên quan đến sự khác biệt về thời gian sống thêm.Chẩn đoán và phân biệt với các bệnh ác tính khác (ví dụ: ung thư biểu mô di căn,u lympho,bệnh bạch cầu) và vớibệnh lý gamma đơn dòng có ý nghĩa chưa xác địnhthường cần phải có nhiều tiêu chuẩn:Các tương bào tủy xương hoặc u tương bàoProtein M trong huyết thanh và/hoặc nước tiểuTổn thương cơ quan (tăng canxi huyết, suy thận, thiếu máu, hoặc tổn thương xương)Ở những bệnh nhân không có protein M huyết thanh, chẩn đoán đa u tủy xương khi protein niệu Bence Jones>200 mg/24 giờ hoặc có các chuỗi nhẹ huyết thanh bất thường, tổn thương tiêu xương (không có dấu hiệu của ung thư di căn hoặc bệnh u hạt), và có các tương bào trong tủy xương thành cụm hoặc dải.Tài liệu tham khảo chẩn đoán1.Sive J, Cuthill K, Hunter H, Kazmi M, Pratt G, Smith D và thay mặt cho British Society of Haematology: Guidelines on the diagnosis, investigation and initial treatment of myeloma: a British Society for Haematology/UK Myeloma Forum Guideline.Brit J Haematol193:245–268, 2021. doi:10.1111/bjh.174102.Rajkumar SV: Multiple myeloma: 2022 update on diagnosis, risk-stratification and management.Am J Hematol97(8):1086-1107, 2022. doi:10.1002/ajh.265903.Kyle RA, Gertz MA, Witzig TE, et al. Review of 1027 patients with newly diagnosed multiple myeloma. Mayo Clin Proc. 2003;78(1):21-33. doi:10.4065/78.1.21
+
+--- 5. Điều trị đa u tủy ---
+
+Hóa trị thông thường và corticosteroid cho bệnh nhân có triệu chứngLiệu pháp bổ sung bằng thuốc điều hòa miễn dịch và kháng thể đơn dòngCó thể ghép tế bào gốc đồng loàiCó thể điều trị bằng xạ trị đối với các vùng có triệu chứng cụ thể mà không đáp ứng với hóa trị toàn thânĐiều trị các biến chứng, ví dụ: thiếu máu, tăng canxi máu, rối loạn chức năng thận, nhiễm trùng và bệnh xươngĐiều trị bệnh tái phát hoặc kháng trị bằng các thuốc điều hòa miễn dịch, kháng thể đơn dòng, thuốc ức chế proteasome và các phương pháp điều trị tế bào mới hơnLiệu pháp này bao gồm điều trị trực tiếp các tế bào ác tính ở những bệnh nhân có triệu chứng và những bệnh nhân bị rối loạn chức năng cơ quan liên quan đến bệnh u tủy (thiếu máu, rối loạn chức năng thận, tăng canxi huyết hoặc bệnh về xương).Trong số những bệnh nhân ban đầu đến khám mà không có rối loạn chức năng cơ quan, các yếu tố nguy cơ cần điều trị nhanh bệnh u tủy bao gồm> 60% tương bào trong tủy xương> 1 tổn thương trên phim chụp MRINồng độ chuỗi nhẹ tự do trong huyết thanh > 100 mg/LNhững bệnh nhân có các yếu tố nguy cơ này được coi là mắc bệnh u tủy hoạt động và cần được điều trị ngay lập tức mặc dù việc điều trị sớm cho những bệnh nhân này chưa được chứng minh là có thể cải thiện thời gian sống thêm toàn bộ của họ. Những bệnh nhân không có các yếu tố nguy cơ này hoặc rối loạn chức năng nội tạng có thể không được điều trị ngay lập tức, điều này thường được giữ lại cho đến khi các triệu chứng hoặc biến chứng phát triển.Điều trị các tế bào ác tínhHóa trị thông thường, bao gồm melphalan đường uống và prednisone theo chu kỳ từ 4 tuần đến 6 tuần trong 8 chu kỳ đến 12 chu kỳ với đánh giá đáp ứng hàng tháng, là phương pháp điều trị ban đầu cho bệnh đa u tủy. Tuy nhiên, kết quả có thể tốt hơn khi bổ sung thuốc ức chế proteasome (ví dụ: bortezomib, carfilzomib hoặc ixazomib) hoặc thuốc điều hòa miễn dịch (lenalidomide, thalidomide).Các thuốc hóa trị liệu khác, bao gồm cyclophosphamide, bendamustine, doxorubicin và doxorubicin pegylated liposome (doxorubicin liposome), cũng hiệu quả hơn khi phối hợp với thuốc điều hòa miễn dịch (thalidomide, lenalidomide, bortezomib). Thời gian sống thêm cao hơn khi điều trị ban đầu bao gồm cả bortezomib và lenalidomide cộng với corticosteroid.Việc bổ sung kháng thể đơn dòng anti-CD38, daratumumab hoặc isatuximab, vào bortezomib và dexamethasone có hoặc không có lenalidomide như một phần của điều trị ban đầu dường như cải thiện kết quả (1).Đáp ứng với điều trị (xem bảngXác định đáp ứng với điều trị ung thư) được biểu thị bằngGiảm M-protein trong huyết thanh và trong nước tiểuGiảm nồng độ của chuỗi nhẹ tự do có liên quan trong huyết thanhTăng số lượng hồng cầuCải thiện chức năng thận ở bệnh nhân có biểu hiện suy thậnBình thường trở lại nồng độ canxi trong số những người có nồng độ canxi caoGiảm đau xươngGiảm mệt mỏiGhép tế bào gốcmáu ngoại vi tự thâncó thể được xem xét cho những bệnh nhân có đủ chức năng tim, gan, phổi và thận, đặc biệt là những người có bệnh ổn định hoặc có đáp ứng sau vài chu kỳ điều trị ban đầu. Tuy nhiên, các phương pháp điều trị bằng dược lý có hiệu quả cao và có thể làm cho việc ghép tạng ít cần thiết hơn hoặc không cần thiết nữa. Các thử nghiệm lâm sàng cho thấy thời gian sống không tiến triển dài hơn, nhưng không cải thiện được thời gian sống thêm toàn bộ khi bệnh nhân trải qua ghép tế bào gốc như một phần của liệu pháp ban đầu (2).Ghép tế bào gốc đồng loài sau hóa trị liệu không ức chế tủy (ví dụ, cyclophosphamide liều thấp và fludarabine liều thấp) hoặc liệu pháp xạ trị liều thấp có thể có thờ gian sống không bệnh từ 5 đến 10 năm ở một số bệnh nhân. Tuy nhiên, cấy ghép tế bào gốc đồng loại kèm theo hóa trị liệu loại bỏ tủy hoặc không loại bỏ tủy vẫn còn là thử nghiệm vì tỷ lệ mắc bệnh và tỷ lệ tử vong cao dobệnh mảnh ghép chống ký chủ.Điều trị đa u tủy tái phát hoặc kháng trịĐối với bệnh nhân bị u tủy tái phát hoặc kháng trị, các phối hợp hiệu quả bao gồmCorticosteroidThuốc ức chế proteasome (bortezomib, ixazomib, carfilzomib)Thuốc điều hòa miễn dịch (thalidomide, lenalidomide, pomalidomide)Kháng thể đơn dòng (daratumumab, isatuximab, elotuzumab)Những loại thuốc này thường được phối hợp với các thuốc có hiệu quả khác mà bệnh nhân chưa được điều trị.Bệnh nhân có thời gian thuyên giảm kéo dài có thể đáp ứng với liệu pháp điều trị lại bằng cùng một phác đồ đã dẫn đến thuyên giảm ban đầu. Bệnh nhân không đáp ứng với một sự phối hợp thuốc nhất định có thể đáp ứng khi một loại thuốc khác cùng nhóm (ví dụ: thuốc ức chế proteasome, thuốc điều hòa miễn dịch, thuốc hóa trị liệu) được thay thế.Kháng thể đơn dòng nhắm vào các protein trên tế bào u tủy cũng rất hiệu quả trong điều trị u tủy tái phát hoặc kháng trị. Các kháng thể đơn dòng có sẵn bao gồm các kháng thể nhắm đíchCD38 (daratumumab, isatuximab)Phân tử kích hoạt tế bào lympho theo tín hiệu F7 (SLAMF7—elotuzumab)Các kháng thể đơn dòng này cải thiện hiệu quả của các loại thuốc khác được sử dụng để điều trị bệnh đa u tủy, bao gồm các thuốc điều hòa miễn dịch thalidomide, lenalidomide và pomalidomide và các thuốc ức chế proteasome bortezomib và carfilzomib (3, 4). Tuy nhiên, việc điều trị bằng bất kỳ loại kháng thể đơn dòng nào trong số này và chỉ dùng dexamethasone đều có hiệu quả ở nhiều bệnh nhân, đặc biệt là những bệnh nhân có tiến triển bệnh chỉ được đánh dấu bằng sự gia tăng các chất chỉ điểm khối u được đo. Cách tiếp cận này tránh được tác dụng bất lợi của các loại thuốc bổ sung.Khi phối hợp với các loại thuốc điều trị u tủy hoạt động khác, đặc biệt là bortezomib, các loại thuốc sau đây đặc biệt hiệu quả:Thuốc ức chế chọn lọc của selinexor xuất khẩu hạt nhânThuốc ức chế histone deacetylase panobinostatCó những phương pháp điều trị miễn dịch hiệu quả nhắm vào kháng nguyên trưởng thành tế bào B (BCMA). Những phương pháp điều trị này bao gồmLiệu pháp tế bào cho bệnh u tủy, bao gồm liệu pháp tế bào T thụ thể kháng nguyên khảm (CAR) idecabtagene, vicleucel và ciltacabtagene autoleucelCác kháng thể đặc hiệu kép cũng nhắm vào CD3 trên tế bào T (teclistamab và elranatamab) (5, 6)Kháng thể đặc hiệu kép nhắm vào thụ thể ghép cặp protein G, nhóm C, nhóm 5, thành viên D (GPRC5D) trên các tế bào đa u tủy và cả CD3 (talquetamab) (6)Mặc dù các phương pháp điều trị này có hiệu quả, nhưng có thể gây ra các tác dụng bất lợi cấp tính đáng kể(hội chứng giải phóng cytokine, các vấn đề về thần kinh), nguy cơ cao mắc các bệnh nhiễm trùng nặng kéo dài và ung thư thứ phát.Thuốc ức chế BCL-2 dạng uống venetoclax đã được chứng minh là có hiệu quả trong điều trị bệnh nhân có tế bào u tủy biểu hiện dấu hiệu di truyền t(11;14) và có thể phối hợp với thuốc ức chế proteasome và kháng thể đơn dòng (7).Điều trị duy trìLiệu pháp duy trì đã được thử nghiệm bằng các loại thuốc không phải hóa trị liệu, bao gồm interferon alfa, giúp kéo dài thời gian thuyên giảm nhưng không cải thiện thời gian sống thêm và có liên quan đến các tác dụng bất lợi đáng kể. Sau khi đáp ứng với các phác đồ có cơ sở corticosteroid, có thể điều trj duy trì bằng corticosteroid đơn trị.Thalidomide cũng có thể có hiệu quả khi dùng làm phương pháp điều trị duy trì và lenalidomide đơn trị liệu hoặc kèm theo corticosteroid có hiệu quả khi dùng làm phương pháp điều trị duy trì. Tuy nhiên, có một số lo ngại về ung thư thứ phát ở những bệnh nhân được điều trị bằng lenalidomide trong thời gian dài, đặc biệt là sau khighép tế bào gốc tự thân. Do đó, nguy cơ phát triển ung thư thứ phát phải được cân nhắc với việc cải thiện thời gian sống thêm.Thuốc ức chế proteasome đường uống, ixazomib, có hiệu quả dưới dạng đơn thuốc trong điều trị duy trì. Người ta vẫn chưa biết liệu phối hợp giữa ixazomib và lenalidomide có hiệu quả hơn hay không.Vai trò của kháng thể đơn dòng làm liệu pháp duy trì vẫn chưa được xác định.Điều trị các biến chứngNgoài việc điều trị trực tiếp các tế bào ác tính, liệu pháp cũng phải hướng vào các biến chứng, bao gồmThiếu máuTăng canxi máuTăng axit uric máuTăng độ nhớt máuNhiễm trùngSuy thậnTổn thương xươngTình trạng thiếu máukhông thuyên giảm nhiều khi điều trị bằng hóa trị có thể được điều trị bằng erythropoietin tái tổ hợp. Nếu thiếu máu gây ra các triệu chứng tim mạch hoặc các triệu chứng toàn thân đáng kể,cần truyền khối hồng cầu. Thông thường bệnh nhân thiếu sắt vì những lý do không liên quan đến u tủy và cần bổ sung sắt qua đường tĩnh mạch. Bệnh nhân bị thiếu máu nên định kỳ đo nồng độ sắt, transferrin và ferritin trong huyết thanh để theo dõi lượng sắt dự trữ cũng như nồng độ vitamin B12.Nếuđộ nhớt máu tăng cao, điều hiếm khi xảy ra ở bệnh nhân mắc bệnh u tủy, cần phảithay huyết tương.Tăng canxi máuđược điều trị bằng thuốc lợi tiểu mạnh, bisphosphonat IV (tốt nhất là axit zoledronic) sau khi bù nước, và đôi khi bằng calcitonin hoặc prednisone. Denosumab cũng có thể được sử dụng để điều trị tăng canxi máu, đặc biệt là ở những bệnh nhân bị suy thận nặng. Bệnh nhân nên tránh thực phẩm chứa canxi, bổ sung canxi vàvitamin D.Tăng axit uric máucó thể xảy ra ở một số bệnh nhân có gánh nặng khối u và các vấn đề trao đổi chất cơ bản. Tuy nhiên, hầu hết không cần allopurinol. Allopurinol hoặc rasburicaseđược chỉ định cho bệnh nhân có nồng độ axit uric huyết thanh cao hoặc gánh nặng khối u và nguy cơ caohội chứng ly giải khối udo điều trị.Nhiễm trùngcó nhiều khả năng xảy ra trong quá trình điều trị làmgiảm bạch cầu trung tính. Ngoài ra, nhiễm vi rútherpes zosterxảy ra thường xuyên trên bệnh nhân được điều trị bằng một số loại thuốc chống ung thư, đặc biệt là các thuốc ức chế proteasome (bortezomib, carfilzomib, ixazomib) và các kháng thể đơn dòng (daratumumab, isatuximab, elotuzumab). Các phương pháp điều trị theo chỉ định của BCMA có liên quan đến nguy cơ nhiễm trùng nặng rất cao.Nhiễm trùng do vi khuẩn được ghi nhận cần phải được điều trị bằng kháng sinh. Việc sử dụng kháng sinh dự phòng không được khuyến nghị thường quy.Việc sử dụng thuốc kháng vi rút dự phòng (ví dụ: acyclovir, valganciclovir, famciclovir) được chỉ định cho những bệnh nhân đang dùng thuốc ức chế proteasome (bortezomib, carfilzomib, ixazomib), kháng thể đơn dòng (daratumumab, isatuximab, elotuzumab), kháng thể hai đặc hiệu (teclistamab, elranatamab, talquetamab) hoặc liệu pháp tế bào T CAR (idecabtagene vicleucel, ciltacabtagene autoleucel).Dự phòng bằng globulin miễn dịch đường tĩnh mạch có thể làm giảm nguy cơ nhiễm trùng nhưng thường được dành riêng cho bệnh nhân có nồng độ globulin miễn dịch không giải phóng thấp và bị nhiễm trùng tái diễn.Vắc xin phòng phế cầu khuẩnvàvắc xin phòng cúmđược chỉ định để ngăn ngừa nhiễm trùng nhưng không hiệu quả ở hầu hết bệnh nhân do suy giảm miễn dịch liên quan đến bệnh và điều trị. Không khuyến nghị sử dụng vắc xin sống ở những bệnh nhân có hệ thống miễn dịch suy yếu. Để ngăn ngừa nhiễm trùng herpes zoster, có thể tiêmvắc xin phòng ngừa bệnh zonatái tổ hợp không có khả năng sống nhưng hiệu quả lại hạn chế.Tổn thương thậncó thể được cải thiện bằng bù dịch thích hợp. Ngay cả những bệnh nhân có protein Bence Jones kéo dài, nồng dộ cao (≥10 đến 30 g/ngày) có thể có chức năng thận còn nguyên vẹn nếu họ duy trì lượng nước tiểu>2000 mL/ngày. Mất nước kết hợp dùng thuốc cản quang áp lực thẩm thấu cao đường tĩnh mạch, có thể gây ra suy thận cấp tính ở bệnh nhân có protein niệu Bence Jones. Trao đổi huyết tương có thể có hiệu quả trong một số trường hợp. Nên tránh dùng thuốc gây độc thận. Điều trị nhanh chóng và tích cực u tủy bên dưới để giảm nồng độ globulin miễn dịch đơn dòng gây độc cho thận là rất quan trọng để đảo ngược tình trạng này.Điều trịtổn thương xươngđòi hỏi nhiều biện pháp hỗ trợ. Duy trì khả năng vận động và bổ sung canxi vàvitamin D,khi cần thiết, giúp duy trì mật độ xương ở những bệnh nhân không bị tăng canxi huyết liên quan đến bệnh. Nồng độvitamin Dnên được đo khi chẩn đoán và theo định kỳ và điều chỉnh liều lượngvitamin Dcho phù hợp. Thuốc giảm đau và xạ trị giảm liều (18-24 gray) có thể làm giảm đau xương. Tuy nhiên, xạ trị có thể gây độc hại đáng kể, và vì ức chế chức năng tủy xương, có thể làm giảm khả năng chấp nhận liều gây độc tế bào khi hóa trị toàn thân.Hầu hết bệnh nhân, đặc biệt là những người có tổn thương tiêu xương, loãng xương hoặc mất xương nên dùng bisphosphonate đường tĩnh mạch hàng tháng (pamidronate hoặc axit zoledronic). Bisphosphonates làm giảm các biến chứng xương và giảm đau xương và có thể có tác dụng chống u. Đối với bệnh nhân suy thận có khả năng hồi phục do đa u tủy nhưng không liên quan đến tăng canxi máu hoặc với phản ứng truyền dịch liên tục sau khi truyền bisphosphonat, một lựa chọn khác là không chứa bisphosphonat và không gây phản ứng thận. Cả bisphosphonate và densousmab đều có thể gây ra hoại tử xương hàm. Duy trì sức khoẻ răng miệng tốt và tránh các răng giả và cấy ghép răng là rất quan trọng để giảm thiểu nguy cơ biến chứng này.Tài liệu tham khảo về điều trị1.Abdallah N, Kumar SK.Daratumumabin untreated newly diagnosed multiple myeloma.Ther Adv Hematol2019;10:2040620719894871. doi:10.1177/20406207198948712.Richardson PG, Jacobus SJ, Weller EA, et al. Triplet Therapy, Transplantation, and Maintenance until Progression in Myeloma.N Engl J Med2022;387(2):132-147. doi:10.1056/NEJMoa22049253.Palumbo A, Chanan-Khan A, Weisel K, et al.Daratumumab,Bortezomib, andDexamethasonefor Multiple Myeloma.N Engl J Med2016;375(8):754-766. doi:10.1056/NEJMoa16060384.Arnall JR, Maples KT, Harvey RD, et al.Daratumumabfor the treatment of multiple myeloma: A review of clinical applicability and operational considerations.AnnalsPharmacother2022;56(8):927-940. doi: 10.1177/106002802110587545.Yang J, Zhou W, Li D, et al. BCMA-targeting chimeric antigen receptor T-cell therapy for multiple myeloma.Cancer Lett2023;553:215949. doi: 10.1016/j.canlet.2022.2159496.Lee H, Neri P, Bahlis NJ. BCMA- or GPRC5D-targeting bispecific antibodies in multiple myeloma: efficacy, safety, and resistance mechanisms.Blood2024;143(13):1211-1217. doi: 10.1182/blood.20230224997.He W, He F, Hu H. Efficacy and safety ofvenetoclax-based regimens in relapsed or refractory multiple myeloma: a systematic review and meta-analysis of prospective trials.Ann Med2023;55(1):1029-1036. doi:10.1080/07853890.2023.2186480
+
+--- 6. Tiên lượng về đa u tủy ---
+
+Mặc dù bệnh đa u tủy tiến triển và không thể chữa khỏi, nhưng thời gian sống thêm trung bình đã được cải thiện lên hơn 11 năm ở những bệnh nhân không được chọn trong một nghiên cứu gần đây (1).Các dấu hiệu tiên lượng không thuận lợi khi chẩn đoán là giai đoạn cao hơn, nồng độ albumin huyết thanh thấp hơn, nồng độ beta-2 microglobulin cao hơn, nồng độ LDH tăng cao, bất thường về di truyền tế bào đặc hiệu trong tế bào khối u và nồng độ tế bào ác tính trong máu cao hơn. Bệnh nhân ban đầu có biểu hiện bị suy thận cũng hoạt động kém trừ khi chức năng thận được cải thiện khi điều trị, điều này thường xảy ra với các phương án điều trị hiện tại.Bởi vì đa u tủy cuối cùng gây tử vong, bệnh nhân có thể được hưởng lợi từ các cuộc thảo luận vềchăm sóc cuối đờicó sự tham gia của bác sĩ lâm sàng, gia đình và bạn bè thích hợp. Các biện pháp chăm sóc bao gồmhướng dẫn trước, giảm đau, nuôi dưỡng đường sonde.Tài liệu tham khảo về tiên lượng bệnh1.Jew S, Bujarski S, Regidor B, et al. Clinical outcomes and serum B-cell maturation antigen levels in a real-world unselected population of newly diagnosed multiple myeloma patients.Target Oncol2023;18:735-747. doi: 10.1007/s11523-023-00990-6
+
+--- 7. Những điểm chính ---
+
+Tương bào ác tính sản xuất ra globulin miễn dịch đơn dòng, xâm lấn và phá hủy xương.Sự lan rộng u tương bào và sự bài tiết cytokine gây ra nhiều tổn thương tiêu xương lỗ chỗ (thường là ở xương chậu, xương sống, sườn và sọ) và loãng xương lan tỏa; đau, gãy xương và tăng canxi máu là phổ biến.Thiếu máu và suy thận là phổ biến.Thoái hóa dạng tinh bột xảy ra ở khoảng 10%, điển hình là bệnh nhân sản xuất quá mức chuỗi nhẹ lambda.Thực hiện điện di protein trong huyết thanh và nước tiểu, sau đó là cố định miễn dịch, định lượng các globulin miễn dịch và đo các chuỗi nhẹ tự do trong huyết thanh.Chọc hút và sinh thiết tủy xương.Bệnh nhân có triệu chứng và những người bị suy giảm chức năng cơ quan nên được điều trị bằng liệu pháp dược lý, có thể bao gồm corticosteroid, thuốc hóa trị, thuốc ức chế proteasome, thuốc điều hòa miễn dịch, kháng thể đơn dòng, thuốc ức chế chọn lọc xuất khẩu nhân, thuốc ức chế histone deacetylase và liệu pháp miễn dịch dựa trên tế bào và kháng thể nhắm đích kháng nguyên trưởng thành tế bào B.Ghép tế bào gốc là một lựa chọn cho một số bệnh nhân, nhưng các phương pháp điều trị bằng dược lý có hiệu quả cao có thể khiến phương pháp này không cần thiết đối với những bệnh nhân khác.
+
+--- 8. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.Bal S, Giri S, Godby KN, Costa LJ: New regimens and directions in the management of newly diagnosed multiple myeloma.Am J Hematol96:367–378, 2021 doi:10.1002/ajh.26080Cook G, Morris CTCM: Evolution or revolution in multiple myeloma therapy and the role of the UK.Brit J Haematol191:542–551, 2020. doi:10.1111/bjh.17148Cowan AJ, Green DJ, Kwok M, et al. Diagnosis and management of multiple myeloma: A review.JAMA327:464-477, 2022 doi: 10.1001/jama.2022.0003Gulla A, Anderson KC: Multiple myeloma: the (r)evolution of current therapy and a glance into the future.Haematologica105:2358–2367, 2020. doi:10.3324/haematol.2020.247015Rafae A., Rhee FV, Hadidi SA: Perspectives on the treatment of multiple myeloma.Oncologist29:200-212, 2024. doi: 10.1093/oyad306Rajkumar SV: Multiple Myeloma: 2022 update on diagnosis, risk stratification, and management.Am J Hematol97:1086–1107, 2022. doi: 10.1002/ajh.26590

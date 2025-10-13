@@ -1,0 +1,575 @@
+TIÊU ĐỀ: Quá mẫn với thuốc
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/dị-ứng-tự-miễn-và-các-rối-loạn-quá-mẫn-khác/quá-mẫn-với-thuốc
+================================================================================
+
+NỘI DUNG:
+
+Quá mẫn với thuốc
+
+Theo
+
+James Fernandez
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 8 2024
+
+|
+
+đã sửa đổi
+
+Thg 12 2024
+
+v996143_vi
+
+Quá mẫn cảm với thuốc là phản ứng qua trung gian miễn dịch với thuốc. Các triệu chứng từ nhẹ đến nặng và bao gồm phát ban, sốc phản vệ, và bệnh huyết thanh. Chẩn đoán lâm sàng; thỉnh thoảng xét nghiệm da có tác dụng. Phương pháp điều trị bao gồm ngừng thuốc, điều trị hỗ trợ (ví dụ: bằng thuốc kháng histamin) và đôi khi là giải mẫn cảm.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn dị ứng và Atopi
+
+)
+
+Quá mẫn với thuốc khác với các tác dụng bất lợi và độc hại có thể xảy ra do thuốc và các vấn đề do
+
+tương tác thuốc
+
+.
+
+Sinh lý bệnh của quá mẫn với thuốc
+
+Một số loại thuốc protein và polypeptide lớn (ví dụ:
+
+insulin
+
+, kháng thể điều trị) có thể kích thích trực tiếp quá trình sản sinh kháng thể. Tuy nhiên, hầu hết các loại thuốc đều có tác dụng như hapten, gắn kết cộng hóa trị với protein trong huyết thanh hoặc tế bào, bao gồm các peptide được nhúng trong các phân tử phức hợp tương hợp mô chính (MHC). Gắn kết này làm cho phức hợp protein-thuốc có tính sinh miễn dịch, kích thích quá trình sản sinh kháng thể kháng thuốc, đáp ứng của tế bào T chống lại thuốc hoặc cả hai. Haptens cũng có thể gắn kết trực tiếp với các phân tử MHC lớp II, trực tiếp kích hoạt các tế bào T. Một số loại thuốc có tác dụng như tiền haptens. Khi được chuyển hóa, prohaptens trở thành haptens; ví dụ, penicillin không phải là kháng nguyên, nhưng sản phẩm giáng hóa chính của nó, acid benzylpenicilloic, có thể kết hợp với protein mô để tạo thành benzylpenicilloyl (BPO), một yếu tố quyết định kháng nguyên chính. Một số loại thuốc gắn kết và kích thích trực tiếp thụ thể tế bào T (TCR); ý nghĩa lâm sàng của gắn kết TCR không hapten đang được xác định (
+
+1
+
+).
+
+Người ta vẫn chưa rõ quá trình nhạy cảm ban đầu diễn ra như thế nào và hệ thống miễn dịch ban đầu tham gia ra sao, nhưng khi một loại thuốc kích thích đáp ứng miễn dịch, phản ứng chéo với các loại thuốc khác trong và giữa các nhóm thuốc có thể xảy ra. Ví dụ: những bệnh nhân nhạy cảm với
+
+penicillin
+
+rất có khả năng phản ứng với penicillin bán tổng hợp (ví dụ: amoxicillin, carbenicillin, ticarcillin). Trong các nghiên cứu ban đầu được thiết kế kém, khoảng 10% số bệnh nhân có tiền sử nhạy cảm với
+
+penicillin
+
+đã phản ứng với cephalosporin, có cấu trúc beta-lactam tương tự; phát hiện này được trích dẫn làm bằng chứng về phản ứng chéo giữa các nhóm thuốc này. Tuy nhiên, trong các nghiên cứu được thiết kế tốt hơn (
+
+2
+
+), chỉ có khoảng 2% số bệnh nhân bị dị ứng
+
+penicillin
+
+được phát hiện trong quá trình thử nghiệm da phản ứng với cephalosporin; khoảng cùng tỷ lệ bệnh nhân phản ứng với các loại kháng sinh không liên quan về mặt cấu trúc (ví dụ: thuốc sulfa). Đôi khi các phản ứng chéo này và các phản ứng chéo khác (ví dụ giữa thuốc kháng sinh sulfonamid và thuốc kháng sinh không chứa chất không kháng sinh) là do khuynh hướng dị ứng hơn là phản ứng chéo miễn dịch.
+
+Ngọc trai & cạm bẫy
+
+Dị ứng penicillin không phải lúc nào cũng loại trừ việc sử dụng cephalosporin.
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Pichler WJ, Watkins S, Yerly D
+
+. Risk Assessment in Drug Hypersensitivity: Detecting Small Molecules Which Outsmart the Immune System.
+
+Front Allergy
+
+3:827893, 2022. doi:10.3389/falgy.2022.827893
+
+2.
+
+Caruso C, Valluzzi RL, Colantuono S, Gaeta F, Romano A
+
+. β-Lactam Allergy and Cross-Reactivity: A Clinician's Guide to Selecting an Alternative Antibiotic.
+
+J Asthma Allergy
+
+14:31-46, 2021. doi:10.2147/JAA.S242061
+
+Các triệu chứng và dấu hiệu của quá mẫn với thuốc
+
+Các triệu chứng và dấu hiệu của dị ứng thuốc khác nhau tùy theo bệnh nhân và loại thuốc, và một loại thuốc có thể gây ra phản ứng khác nhau ở những bệnh nhân khác nhau. Điều nghiêm trọng nhất là
+
+phản vệ
+
+(phản ứng quá mẫn loại I); ban đỏ (ví dụ, ban đỏ dạng sởi),
+
+nổi mày đay
+
+và sốt là phổ biến. Phản ứng thuốc cố định – phản ứng tái phát tại cùng một vị trí trên cơ thể mỗi khi bệnh nhân tiếp xúc với cùng một loại thuốc – là không phổ biến.
+
+Một số hội chứng lâm sàng riêng biệt có thể liên quan đến các loại phản ứng quá mẫn khác:
+
+Bệnh huyết thanh
+
+Thiếu máu tan máu
+
+miễn dịch do thuốc
+
+DRESS (phát ban thuốc với tăng bạch cầu ái toan và triệu chứng toàn thân)
+
+Tác dụng trên phổi
+
+Tác dụng trên thận
+
+Các hiện tượng tự miễn khác
+
+Bệnh huyết thanh
+
+thường xảy ra từ 7 đến 10 ngày sau khi phơi nhiễm và gây ra sốt, đau khớp và phát ban. Cơ chế là
+
+phản ứng quá mẫn loại III
+
+do phức hợp thuốc-kháng thể và hoạt hóa bổ thể. Một số bệnh nhân bị viêm khớp, phù nề, hoặc các triệu chứng đường tiêu hóa. Các triệu chứng tự giới hạn, kéo dài từ 1 đến 2 tuần. Thuốc kháng sinh beta-lactam và sulfonamid, sắt-dextran và carbamazepine thường liên quan đến.
+
+Thiếu máu tan máu miễn dịch do thuốc
+
+có thể phát sinh khi xảy ra tương tác kháng thể-thuốc-hồng cầu (RBC) (ví dụ: với cephalosporin và với cefotetan) hoặc khi một loại thuốc (ví dụ: fludarabine, methyldopa) làm thay đổi màng RBC theo cách gây ra quá trình sản sinh tự kháng thể. Những phản ứng này là
+
+phản ứng quá mẫn loại II
+
+.
+
+Hội chứng DRESS (phát ban do thuốc kèm theo tăng bạch cầu ái toan và các triệu chứng toàn thân)
+
+, còn được gọi là hội chứng quá mẫn do thuốc (DHS), là
+
+phản ứng quá mẫn loại IV
+
+có thể bắt đầu trong vòng 12 tuần sau khi bắt đầu điều trị bằng thuốc và có thể xảy ra sau khi tăng liều. Các triệu chứng có thể kéo dài hoặc tái phát trong vài tuần sau khi ngừng điều trị bằng thuốc. Bệnh nhân có tình trạng
+
+tăng bạch cầu ái toan
+
+rõ rệt và thường bị viêm gan, phát ban, sưng mặt, phù nề toàn thân và nổi hạch. Carbamazepine, phenytoin, allopurinol và lamotrigine thường có liên quan.
+
+Một số loại thuốc có thể gây ra tác dụng phụ lên phổi
+
+(ví dụ: bleomycin, amiodarone, nitrofurantoin, amphotericin B, sulphonamides, sulfasalazine). Những loại thuốc này có thể gây ra các triệu chứng về hô hấp (khác với tình trạng thở khò khè có thể xảy ra khi có quá mẫn loại I), suy giảm chức năng phổi và các thay đổi khác về phổi (gọi là
+
+bệnh phổi do thuốc
+
+, thường gặp nhất là
+
+bệnh phổi kẽ
+
+). Những ảnh hưởng này được cho là chủ yếu là phản ứng quá mẫn loại III và loại IV.
+
+Tác dụng trên thận
+
+do dị ứng phổ biến nhất là
+
+viêm ống thận kẽ
+
+; thuốc chống viêm không steroid (NSAID bao gồm thuốc ức chế COX-2), methicillin, thuốc kháng khuẩn và cimetidine thường có liên quan. Các phản ứng quá mẫn loại I, III và/hoặc IV có thể liên quan.
+
+Các hiện tượng tự miễn khác
+
+có thể xảy ra. Hydralazine, propylthiouracil và procainamide có thể gây ra hội chứng giống
+
+lupus ban đỏ hệ thống
+
+(SLE), là một phản ứng quá mẫn loại III. Hội chứng có thể nhẹ (với chứng đau khớp, sốt và phát ban) hoặc khá trầm trọng (với viêm thanh mạc, sốt cao và khó chịu), nhưng có xu hướng không ảnh hưởng thận và hệ thần kinh trung ương.  Xét nghiệm kháng thể kháng nhân dương tính. Penicillamine có thể gây ra bệnh SLE và các rối loạn tự miễn dịch khác (ví dụ:
+
+bệnh nhược cơ
+
+, là phản ứng quá mẫn loại II). Một số loại thuốc, bao gồm thuốc kháng giáp, thuốc chống lao, một số loại kháng sinh, allopurinol, hydralazine và atorvastatin, có thể gây
+
+viêm mạch
+
+liên quan đến kháng thể tự miễn kháng tế bào chất bạch cầu trung tính quanh nhân (p-ANCA). Kháng thể tự miễn p-ANCA có tác dụng chống lại myeloperoxidase (MPO), gây ra phản ứng quá mẫn loại II. Các thuốc ức chế điểm kiểm soát miễn dịch, một loại liệu pháp miễn dịch ung thư thường được sử dụng, có thể có các tác dụng phụ liên quan đến miễn dịch. Những tác dụng này là kết quả của sự kích hoạt miễn dịch không đặc hiệu và có thể ảnh hưởng đến hầu hết mọi hệ cơ quan; tuy nhiên, chúng thường ảnh hưởng nhất đến da, gan, đường tiêu hóa, tim và hệ nội tiết.
+
+Chẩn đoán quá mẫn với thuốc
+
+Báo cáo của bệnh nhân về phản ứng sau khi dùng thuốc
+
+Xét nghiệm da
+
+Đôi khi thử nghiệm kích thích bằng thuốc
+
+Đôi khi xét nghiệm trực tiếp và gián tiếp kháng thể globulin
+
+Những tình trạng sau đây có thể giúp phân biệt tình trạng quá mẫn cảm với thuốc với tác dụng bất lợi và độc hại của thuốc cũng như các vấn đề do
+
+tương tác thuốc
+
+.
+
+Thời gian khởi phát
+
+Tác dụng đã biết của thuốc
+
+Kết quả của thử nghiệm dùng thuốc lặp lại
+
+Ví dụ: phản ứng liên quan đến liều thường là ngộ độc thuốc, không phải là quá mẫn với thuốc.
+
+Quá mẫn với thuốc được cho là xảy ra khi phản ứng xảy ra trong vòng vài phút đến vài giờ sau khi dùng thuốc. Tuy nhiên, nhiều bệnh nhân khai có phản ứng trong quá khứ có đặc điểm không chắc chắn. Trong những trường hợp như vậy, nếu không có chất thay thế tương đương (ví dụ, khi cần penicillin để điều trị bệnh giang mai), cần cân nhắc việc xét nghiệm.
+
+Xét nghiệm da
+
+Các xét nghiệm tìm
+
+quá mẫn loại I (qua trung gian IgE)
+
+giúp xác định phản ứng với kháng sinh beta-lactam, huyết thanh ngoại lai (xenogeneic), và một số vắc xin và hormone polypeptide. Tuy nhiên, thông thường chỉ có một số ít bệnh nhân báo cáo về dị ứng penicillin có phản ứng dương tính khi thử nghiệm ở da (
+
+1
+
+). Ngoài ra, đối với hầu hết các loại thuốc (bao gồm cả cephalosporin), xét nghiệm da không đáng tin cậy và vì xét nghiệm này chỉ phát hiện các phản ứng qua trung gian IgE nên không dự đoán được sự xuất hiện của phát ban dạng sởi, thiếu máu tan máu hoặc viêm thận.
+
+Xét nghiệm Penicillin da
+
+có thể được thực hiện nếu bệnh nhân có tiền sử phản ứng quá mẫn ngay lập tức phải dùng penicillin. Hợp chất BPO-polylysine và penicillin G được sử dụng với histamine và nước muối làm chất kiểm soát. Các
+
+xét nghiệm lẩy da
+
+được sử dụng đầu tiên. Nếu bệnh nhân có tiền sử phản ứng phản vệ nặng, thuốc thử phải được pha loãng 100 lần để thử nghiệm ban đầu. Nếu xét nghiệm lẩy da là âm tính, xét nghiệm nội bì có thể cần làm. Nếu thử nghiệm ở da cho kết quả dương tính, bệnh nhân chỉ nên được dùng
+
+penicillin
+
+trong khuôn khổ của phác đồ giải mẫn giảm cảm với thuốc. Nếu xét nghiệm âm tính, phản ứng nghiêm trọng là rất khó xảy ra nhưng không loại trừ. Do đó, thử nghiệm uống với amoxicillin thường được thực hiện sau khi kết quả xét nghiệm da âm tính để loại trừ hoàn toàn khả năng bị dị ứng qua trung gian IgE.
+
+Đối với
+
+xét nghiệm da huyết thanh dị loài,
+
+những bệnh nhân không dị ứng và những người trước đây chưa từng được điều trị bằng huyết thanh (như ngựa) lần đầu tiên nên được thử nghiệm gai với độ pha loãng 1:10; nếu xét nghiệm này âm tính, 0,02 mL pha loãng 1:1000 được tiêm trong da. Đường kính
+
+>
+
+0,5 cm phát triển trong vòng 15 phút ở những bệnh nhân nhạy cảm. Ban đầu, đối với tất cả các bệnh nhân trước đây có thể đã nhận được huyết thanh – cho dù có phản ứng hay không – và đối với những người có tiền sử nghi ngờ về dị ứng, cần phải làm xét nghiệm lẩy da bằng độ pha loãng 1:1000; nếu kết quả là âm tính, 1:100 được sử dụng, và nếu kết quả là âm tính một lần nữa, 1:10 được sử dụng như trên. Một kết quả âm tính loại trừ khả năng sốc phản vệ nhưng không dự đoán được tỷ lệ mắc bệnh huyết thanh sau đó.
+
+Kiểm tra khác
+
+Đối với thử nghiệm kích thích thuốc, thuốc nghi ngờ gây phản ứng quá mẫn sẽ được dùng với liều tăng dần để thúc đẩy phản ứng. Thử nghiệm này thường an toàn và hiệu quả nếu được thực hiện trong một môi trường được kiểm soát.
+
+Vì quá mẫn với thuốc có liên quan đến một số kiểu gen kháng nguyên bạch cầu người (HLA) lớp I, nên việc phân tích kiểu gen của bệnh nhân từ các nhóm dân tộc cụ thể có thể xác định những người có nguy cơ cao bị phản ứng quá mẫn (
+
+2
+
+).
+
+Bảng
+
+Một số yếu tố nguy cơ HLA đối với quá mẫn với thuốc
+
+Bảng
+
+Một số yếu tố nguy cơ HLA đối với quá mẫn với thuốc
+
+Một số yếu tố nguy cơ HLA đối với quá mẫn với thuốc
+
+Thuốc
+
+Dân tộc
+
+HLA Haplotype
+
+Phản ứng quá mẫn
+
+Abacavir
+
+Tổ tiên châu Âu
+
+HLA-B*5701
+
+Quá mẫn với Abacavir (thường sốt, phát ban, GI và các triệu chứng hô hấp)
+
+Allopurinol
+
+Tổ tiên châu Á, tổ tiên châu Phi
+
+Ít gặp hơn, tổ tiên châu Âu
+
+HLA-B*5801
+
+SJS/TEN; DRESS
+
+Carbamazepine
+
+Tổ tiên châu Âu, tổ tiên Nhật Bản
+
+HLA-A*3101
+
+SJS/TEN
+
+Carbamazepine
+
+Tổ tiên châu Á
+
+HLA-B*1502
+
+SJS/TEN; DRESS
+
+Dapsone
+
+Tổ tiên người Hoa đại lục
+
+HLA-B*1301
+
+DRESS
+
+Fosphenytoin
+
+Phenytoin
+
+Tổ tiên châu Á
+
+HLA-B*1502
+
+SJS/TEN
+
+Lamotrigine
+
+Tổ tiên châu Á
+
+HLA-B*1502
+
+SJS/TEN
+
+DRESS = phát ban do thuốc có tình trạng tăng bạch cầu ái toan và các triệu chứng toàn thân; GI = đường tiêu hóa; HLA = kháng nguyên bạch cầu người; SJS/TEN = hội chứng Stevens-Johnson (SJS) và ly hoại tử thượng bì nhiễm độc (TEN).
+
+DRESS = phát ban do thuốc có tình trạng tăng bạch cầu ái toan và các triệu chứng toàn thân; GI = đường tiêu hóa; HLA = kháng nguyên bạch cầu người; SJS/TEN = hội chứng Stevens-Johnson (SJS) và ly hoại tử thượng bì nhiễm độc (TEN).
+
+Các xét nghiệm phản ứng thuốc về mặt huyết học bao gồm
+
+xét nghiệm kháng globulin trực tiếp và gián tiếp
+
+. Các xét nghiệm cho quá mẫn với thuốc đặc hiệu khác (ví dụ, xét nghiệm IgE huyết thanh đặc hiệu dị ứng, phóng thích histamin, phóng thích bazophil hoặc ức chế tế bào mast, biến đổi tế bào lympho) không đáng tin cậy hoặc mang tính thử nghiệm.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Providencia R, Aali G, Zhu F, et al
+
+.
+
+Penicillin
+
+Allergy Testing and Delabeling for Patients Who Are Prescribed
+
+Penicillin
+
+: A Systematic Review for a World Health Organization Guideline.
+
+Clin Rev Allergy Immunol
+
+66(2):223-240, 2024. doi:10.1007/s12016-024-08988-2
+
+2.
+
+Deshpande P, Hertzman RJ, Palubinsky AM, et al
+
+. Immunopharmacogenomics: Mechanisms of HLA-Associated Drug Reactions.
+
+Clin Pharmacol Ther
+
+110(3):607-615, 2021. doi:10.1002/cpt.2343
+
+Điều trị quá mẫn cảm với thuốc
+
+Ngừng dùng thuốc
+
+Điều trị hỗ trợ (ví dụ, thuốc kháng histamine, corticosteroid, epinephrine)
+
+Đôi khi giải mẫn cảm
+
+Điều trị dị ứng thuốc là ngừng thuốc liên quan; hầu hết các triệu chứng và dấu hiệu sẽ hết trong vòng vài ngày sau khi ngừng thuốc.
+
+Điều trị triệu chứng và hỗ trợ cho các phản ứng cấp tính có thể bao gồm
+
+Thuốc kháng histamine điều trị ngứa
+
+NSAID để điều trị đau khớp
+
+Corticosteroid cho các phản ứng nặng (ví dụ, viêm da tróc da, co thắt phế quản)
+
+Epinephrine cho phản vệ
+
+Các tình trạng như sốt do thuốc, phát ban không ngứa hoặc phản ứng nhẹ của hệ thống cơ quan không cần điều trị nào khác ngoài việc ngừng thuốc (để điều trị các phản ứng lâm sàng cụ thể, hãy xem phần khác trong CẨM NANG).
+
+Giải mẫn cảm
+
+giải mẫn cảm nhanh có thể là cần thiết nếu quá mẫn qua trung gian IgE đã xuất hiện và nếu điều trị là điều cần thiết và không có giải pháp thay thế. Giảm mẫn cảm nhanh chóng tạo ra dung nạp tạm thời – tức là trong khoảng thời gian bệnh nhân tiếp xúc với kháng nguyên (thuốc). Nếu bệnh nhân sau 24 đến 48 giờ mà không tiếp xúc, hiện tượng mẫn cảm sẽ xảy ra và bệnh nhân một lần nữa dễ bị tổn thương nếu tiếp xúc. Nếu có thể, sự mất nhạy cảm nên được thực hiện với cộng tác của một chuyên gia dị ứng. Không nên thực hiện thủ thuật này ở những bệnh nhân đã từng mắc
+
+hội chứng Stevens-Johnson
+
+, bệnh huyết thanh, DRESS hoặc các phản ứng quá mẫn muộn nặng hoặc phản ứng quá mẫn nặng trên da khác. Giảm mẫn cảm thường không hiệu quả đối với phản ứng qua trung gian tế bào T và không nên được thực hiện trong những trường hợp như vậy. Bất cứ khi nào giải mẫn cảm được sử dụng, oxy, epinephrine, và thiết bị hồi sức phải có sẵn để điều trị kịp thời sốc phản vệ.
+
+Giải mẫn cảm được dựa trên liều lượng gia tăng của kháng nguyên mỗi 15 đến 20 phút, bắt đầu với liều nhỏ để gây sốc phản vệ dưới lâm sàng trước khi dùng liều điều trị. Quy trình này phụ thuộc vào sự hiện diện liên tục của thuốc trong huyết thanh và do đó không được gián đoạn; quá trình giảm nhạy cảm được thực hiện ngay sau khi dùng liều điều trị đầy đủ. Quá mẫn thường quay lại từ 24 đến 48 giờ sau khi ngừng điều trị. Phản ứng nhẹ (ví dụ, ngứa, phát ban) thường gặp trong giải mãn cảm.
+
+Các quy trình giải mẫn cảm có thể được thiết kế cho phản ứng thuốc qua trung gian IgE và có hiệu quả đối với các loại thuốc được cho là nguyên nhân gây ra các phản ứng này (
+
+1
+
+,
+
+2
+
+). Các phác đồ điển hình là uống hoặc đường tĩnh mạch và thường là một phác đồ 8 đến 16 bước với liều tăng dần ở mỗi bước cho đến khi đạt được liều mục tiêu. Liều nhắm đích được tiếp tục trong thời gian tiêu chuẩn; việc tạm dừng dùng thuốc có thể khiến có tình trạng mẫn cảm quay trở lại. Khi sử dụng đường tĩnh mạch, nhiều dung dịch ở mức nồng độ tăng được pha chế và tốc độ truyền được điều chỉnh để tăng liều theo từng bước.
+
+Việc giải mẫn cảm với thuốc nhanh chóng đã thành công đối với nhiều loại thuốc kháng sinh, thuốc sinh học, thuốc trị tiểu đường, aspirin và các loại thuốc khác.
+
+Nếu xét nghiệm da với huyết thanh khác loài dương tính, nguy cơ sốc phản vệ cao. Nếu điều trị huyết thanh là cần thiết, giải mẫn cảm phải làm trước.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Castells M
+
+: Desensitization for drug allergy.
+
+Curr Opin Allergy Clin Immunol
+
+6 (6):476–481, 2006.
+
+2.
+
+Chastain DB, Hutzley VJ, Parekh J, et al
+
+: Antimicrobial desensitization: A review of published protocols.
+
+Pharmacy (Basel)
+
+7 (3):112, 2019. doi: 10.3390/pharmacy7030112
+
+Tiên lượng về quá mẫn với thuốc
+
+Quá mẫn giảm theo thời gian. Kháng thể IgE có ở 90% số bệnh nhân sau khi có phản ứng dị ứng loại I 1 năm nhưng chỉ có ở khoảng 20% đến 30% số bệnh nhân sau 10 năm (
+
+1
+
+). Những bệnh nhân bị phản ứng phản vệ có nhiều khả năng giữ lại kháng thể với thuốc gây bệnh lâu hơn.
+
+Những người bị dị ứng thuốc nên được hướng dẫn về cách tránh dùng thuốc và nên mang theo giấy tờ tùy thân hoặc vòng đeo tay cảnh báo. Các biểu đồ phải luôn được đánh dấu thích hợp.
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Shenoy ES, Macy E, Rowe T, Blumenthal KG
+
+. Evaluation and Management of
+
+Penicillin
+
+Allergy: A Review.
+
+JAMA
+
+321(2):188-199, 2019. doi:10.1001/jama.2018.19283
+
+Những điểm chính
+
+Phản ứng quá mẫn với thuốc thường là loại I (tức thời, qua trung gian IgE), nhưng có thể là loại II, III hoặc IV.
+
+Quá mẫn với thuốc thường có thể được chẩn đoán dựa trên tiền sử (chủ yếu là báo cáo của bệnh nhân về phản ứng sau khi bắt đầu dùng thuốc), nhưng phải loại trừ các tác dụng bất lợi và độc hại đã biết của thuốc cũng như tương tác thuốc.
+
+Nếu chẩn đoán không rõ ràng, thường cần thử nghiệm da nhưng đôi khi cần xét nghiệm kích thích dùng thuốc hoặc các xét nghiệm cụ thể khác có thể xác định một số loại thuốc là nguyên nhân, đặc biệt là nếu nguyên nhân chủ yếu là phản ứng quá mẫn loại I.
+
+Kết quả xét nghiệm da âm tính loại trừ khả năng phản vệ nhưng không dự đoán tỷ lệ mắc bệnh huyết thanh tiếp theo hoặc các phản ứng không qua trung gian IgE khác.
+
+Điều trị quá mẫn loại I với thuốc kháng histamine, NSAID cho chứng đau khớp, corticosteroid cho các phản ứng nặng (ví dụ viêm da tróc da, co thắt phế quản), và epinephrine cho phản vệ.
+
+Nếu phải sử dụng thuốc gây dị ứng, hãy thử phương pháp giải mẫn cảm nhanh chóng, nếu có thể, hãy phối hợp với bác sĩ chuyên khoa dị ứng để tạm thời giảm nguy cơ xảy ra phản ứng quá mẫn loại I với thuốc.
+
+Quá mẫn có xu hướng giảm theo thời gian.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của quá mẫn với thuốc ---
+
+Một số loại thuốc protein và polypeptide lớn (ví dụ:insulin, kháng thể điều trị) có thể kích thích trực tiếp quá trình sản sinh kháng thể. Tuy nhiên, hầu hết các loại thuốc đều có tác dụng như hapten, gắn kết cộng hóa trị với protein trong huyết thanh hoặc tế bào, bao gồm các peptide được nhúng trong các phân tử phức hợp tương hợp mô chính (MHC). Gắn kết này làm cho phức hợp protein-thuốc có tính sinh miễn dịch, kích thích quá trình sản sinh kháng thể kháng thuốc, đáp ứng của tế bào T chống lại thuốc hoặc cả hai. Haptens cũng có thể gắn kết trực tiếp với các phân tử MHC lớp II, trực tiếp kích hoạt các tế bào T. Một số loại thuốc có tác dụng như tiền haptens. Khi được chuyển hóa, prohaptens trở thành haptens; ví dụ, penicillin không phải là kháng nguyên, nhưng sản phẩm giáng hóa chính của nó, acid benzylpenicilloic, có thể kết hợp với protein mô để tạo thành benzylpenicilloyl (BPO), một yếu tố quyết định kháng nguyên chính. Một số loại thuốc gắn kết và kích thích trực tiếp thụ thể tế bào T (TCR); ý nghĩa lâm sàng của gắn kết TCR không hapten đang được xác định (1).Người ta vẫn chưa rõ quá trình nhạy cảm ban đầu diễn ra như thế nào và hệ thống miễn dịch ban đầu tham gia ra sao, nhưng khi một loại thuốc kích thích đáp ứng miễn dịch, phản ứng chéo với các loại thuốc khác trong và giữa các nhóm thuốc có thể xảy ra. Ví dụ: những bệnh nhân nhạy cảm vớipenicillinrất có khả năng phản ứng với penicillin bán tổng hợp (ví dụ: amoxicillin, carbenicillin, ticarcillin). Trong các nghiên cứu ban đầu được thiết kế kém, khoảng 10% số bệnh nhân có tiền sử nhạy cảm vớipenicillinđã phản ứng với cephalosporin, có cấu trúc beta-lactam tương tự; phát hiện này được trích dẫn làm bằng chứng về phản ứng chéo giữa các nhóm thuốc này. Tuy nhiên, trong các nghiên cứu được thiết kế tốt hơn (2), chỉ có khoảng 2% số bệnh nhân bị dị ứngpenicillinđược phát hiện trong quá trình thử nghiệm da phản ứng với cephalosporin; khoảng cùng tỷ lệ bệnh nhân phản ứng với các loại kháng sinh không liên quan về mặt cấu trúc (ví dụ: thuốc sulfa). Đôi khi các phản ứng chéo này và các phản ứng chéo khác (ví dụ giữa thuốc kháng sinh sulfonamid và thuốc kháng sinh không chứa chất không kháng sinh) là do khuynh hướng dị ứng hơn là phản ứng chéo miễn dịch.Ngọc trai & cạm bẫyDị ứng penicillin không phải lúc nào cũng loại trừ việc sử dụng cephalosporin.Tài liệu tham khảo sinh bệnh học1.Pichler WJ, Watkins S, Yerly D. Risk Assessment in Drug Hypersensitivity: Detecting Small Molecules Which Outsmart the Immune System.Front Allergy3:827893, 2022. doi:10.3389/falgy.2022.8278932.Caruso C, Valluzzi RL, Colantuono S, Gaeta F, Romano A. β-Lactam Allergy and Cross-Reactivity: A Clinician's Guide to Selecting an Alternative Antibiotic.J Asthma Allergy14:31-46, 2021. doi:10.2147/JAA.S242061
+
+--- 2. Các triệu chứng và dấu hiệu của quá mẫn với thuốc ---
+
+Các triệu chứng và dấu hiệu của dị ứng thuốc khác nhau tùy theo bệnh nhân và loại thuốc, và một loại thuốc có thể gây ra phản ứng khác nhau ở những bệnh nhân khác nhau. Điều nghiêm trọng nhất làphản vệ(phản ứng quá mẫn loại I); ban đỏ (ví dụ, ban đỏ dạng sởi),nổi mày đayvà sốt là phổ biến. Phản ứng thuốc cố định – phản ứng tái phát tại cùng một vị trí trên cơ thể mỗi khi bệnh nhân tiếp xúc với cùng một loại thuốc – là không phổ biến.Một số hội chứng lâm sàng riêng biệt có thể liên quan đến các loại phản ứng quá mẫn khác:Bệnh huyết thanhThiếu máu tan máumiễn dịch do thuốcDRESS (phát ban thuốc với tăng bạch cầu ái toan và triệu chứng toàn thân)Tác dụng trên phổiTác dụng trên thậnCác hiện tượng tự miễn khácBệnh huyết thanhthường xảy ra từ 7 đến 10 ngày sau khi phơi nhiễm và gây ra sốt, đau khớp và phát ban. Cơ chế làphản ứng quá mẫn loại IIIdo phức hợp thuốc-kháng thể và hoạt hóa bổ thể. Một số bệnh nhân bị viêm khớp, phù nề, hoặc các triệu chứng đường tiêu hóa. Các triệu chứng tự giới hạn, kéo dài từ 1 đến 2 tuần. Thuốc kháng sinh beta-lactam và sulfonamid, sắt-dextran và carbamazepine thường liên quan đến.Thiếu máu tan máu miễn dịch do thuốccó thể phát sinh khi xảy ra tương tác kháng thể-thuốc-hồng cầu (RBC) (ví dụ: với cephalosporin và với cefotetan) hoặc khi một loại thuốc (ví dụ: fludarabine, methyldopa) làm thay đổi màng RBC theo cách gây ra quá trình sản sinh tự kháng thể. Những phản ứng này làphản ứng quá mẫn loại II.Hội chứng DRESS (phát ban do thuốc kèm theo tăng bạch cầu ái toan và các triệu chứng toàn thân), còn được gọi là hội chứng quá mẫn do thuốc (DHS), làphản ứng quá mẫn loại IVcó thể bắt đầu trong vòng 12 tuần sau khi bắt đầu điều trị bằng thuốc và có thể xảy ra sau khi tăng liều. Các triệu chứng có thể kéo dài hoặc tái phát trong vài tuần sau khi ngừng điều trị bằng thuốc. Bệnh nhân có tình trạngtăng bạch cầu ái toanrõ rệt và thường bị viêm gan, phát ban, sưng mặt, phù nề toàn thân và nổi hạch. Carbamazepine, phenytoin, allopurinol và lamotrigine thường có liên quan.Một số loại thuốc có thể gây ra tác dụng phụ lên phổi(ví dụ: bleomycin, amiodarone, nitrofurantoin, amphotericin B, sulphonamides, sulfasalazine). Những loại thuốc này có thể gây ra các triệu chứng về hô hấp (khác với tình trạng thở khò khè có thể xảy ra khi có quá mẫn loại I), suy giảm chức năng phổi và các thay đổi khác về phổi (gọi làbệnh phổi do thuốc, thường gặp nhất làbệnh phổi kẽ). Những ảnh hưởng này được cho là chủ yếu là phản ứng quá mẫn loại III và loại IV.Tác dụng trên thậndo dị ứng phổ biến nhất làviêm ống thận kẽ; thuốc chống viêm không steroid (NSAID bao gồm thuốc ức chế COX-2), methicillin, thuốc kháng khuẩn và cimetidine thường có liên quan. Các phản ứng quá mẫn loại I, III và/hoặc IV có thể liên quan.Các hiện tượng tự miễn kháccó thể xảy ra. Hydralazine, propylthiouracil và procainamide có thể gây ra hội chứng giốnglupus ban đỏ hệ thống(SLE), là một phản ứng quá mẫn loại III. Hội chứng có thể nhẹ (với chứng đau khớp, sốt và phát ban) hoặc khá trầm trọng (với viêm thanh mạc, sốt cao và khó chịu), nhưng có xu hướng không ảnh hưởng thận và hệ thần kinh trung ương.  Xét nghiệm kháng thể kháng nhân dương tính. Penicillamine có thể gây ra bệnh SLE và các rối loạn tự miễn dịch khác (ví dụ:bệnh nhược cơ, là phản ứng quá mẫn loại II). Một số loại thuốc, bao gồm thuốc kháng giáp, thuốc chống lao, một số loại kháng sinh, allopurinol, hydralazine và atorvastatin, có thể gâyviêm mạchliên quan đến kháng thể tự miễn kháng tế bào chất bạch cầu trung tính quanh nhân (p-ANCA). Kháng thể tự miễn p-ANCA có tác dụng chống lại myeloperoxidase (MPO), gây ra phản ứng quá mẫn loại II. Các thuốc ức chế điểm kiểm soát miễn dịch, một loại liệu pháp miễn dịch ung thư thường được sử dụng, có thể có các tác dụng phụ liên quan đến miễn dịch. Những tác dụng này là kết quả của sự kích hoạt miễn dịch không đặc hiệu và có thể ảnh hưởng đến hầu hết mọi hệ cơ quan; tuy nhiên, chúng thường ảnh hưởng nhất đến da, gan, đường tiêu hóa, tim và hệ nội tiết.
+
+--- 3. Chẩn đoán quá mẫn với thuốc ---
+
+Báo cáo của bệnh nhân về phản ứng sau khi dùng thuốcXét nghiệm daĐôi khi thử nghiệm kích thích bằng thuốcĐôi khi xét nghiệm trực tiếp và gián tiếp kháng thể globulinNhững tình trạng sau đây có thể giúp phân biệt tình trạng quá mẫn cảm với thuốc với tác dụng bất lợi và độc hại của thuốc cũng như các vấn đề dotương tác thuốc.Thời gian khởi phátTác dụng đã biết của thuốcKết quả của thử nghiệm dùng thuốc lặp lạiVí dụ: phản ứng liên quan đến liều thường là ngộ độc thuốc, không phải là quá mẫn với thuốc.Quá mẫn với thuốc được cho là xảy ra khi phản ứng xảy ra trong vòng vài phút đến vài giờ sau khi dùng thuốc. Tuy nhiên, nhiều bệnh nhân khai có phản ứng trong quá khứ có đặc điểm không chắc chắn. Trong những trường hợp như vậy, nếu không có chất thay thế tương đương (ví dụ, khi cần penicillin để điều trị bệnh giang mai), cần cân nhắc việc xét nghiệm.Xét nghiệm daCác xét nghiệm tìmquá mẫn loại I (qua trung gian IgE)giúp xác định phản ứng với kháng sinh beta-lactam, huyết thanh ngoại lai (xenogeneic), và một số vắc xin và hormone polypeptide. Tuy nhiên, thông thường chỉ có một số ít bệnh nhân báo cáo về dị ứng penicillin có phản ứng dương tính khi thử nghiệm ở da (1). Ngoài ra, đối với hầu hết các loại thuốc (bao gồm cả cephalosporin), xét nghiệm da không đáng tin cậy và vì xét nghiệm này chỉ phát hiện các phản ứng qua trung gian IgE nên không dự đoán được sự xuất hiện của phát ban dạng sởi, thiếu máu tan máu hoặc viêm thận.Xét nghiệm Penicillin dacó thể được thực hiện nếu bệnh nhân có tiền sử phản ứng quá mẫn ngay lập tức phải dùng penicillin. Hợp chất BPO-polylysine và penicillin G được sử dụng với histamine và nước muối làm chất kiểm soát. Cácxét nghiệm lẩy dađược sử dụng đầu tiên. Nếu bệnh nhân có tiền sử phản ứng phản vệ nặng, thuốc thử phải được pha loãng 100 lần để thử nghiệm ban đầu. Nếu xét nghiệm lẩy da là âm tính, xét nghiệm nội bì có thể cần làm. Nếu thử nghiệm ở da cho kết quả dương tính, bệnh nhân chỉ nên được dùngpenicillintrong khuôn khổ của phác đồ giải mẫn giảm cảm với thuốc. Nếu xét nghiệm âm tính, phản ứng nghiêm trọng là rất khó xảy ra nhưng không loại trừ. Do đó, thử nghiệm uống với amoxicillin thường được thực hiện sau khi kết quả xét nghiệm da âm tính để loại trừ hoàn toàn khả năng bị dị ứng qua trung gian IgE.Đối vớixét nghiệm da huyết thanh dị loài,những bệnh nhân không dị ứng và những người trước đây chưa từng được điều trị bằng huyết thanh (như ngựa) lần đầu tiên nên được thử nghiệm gai với độ pha loãng 1:10; nếu xét nghiệm này âm tính, 0,02 mL pha loãng 1:1000 được tiêm trong da. Đường kính>0,5 cm phát triển trong vòng 15 phút ở những bệnh nhân nhạy cảm. Ban đầu, đối với tất cả các bệnh nhân trước đây có thể đã nhận được huyết thanh – cho dù có phản ứng hay không – và đối với những người có tiền sử nghi ngờ về dị ứng, cần phải làm xét nghiệm lẩy da bằng độ pha loãng 1:1000; nếu kết quả là âm tính, 1:100 được sử dụng, và nếu kết quả là âm tính một lần nữa, 1:10 được sử dụng như trên. Một kết quả âm tính loại trừ khả năng sốc phản vệ nhưng không dự đoán được tỷ lệ mắc bệnh huyết thanh sau đó.Kiểm tra khácĐối với thử nghiệm kích thích thuốc, thuốc nghi ngờ gây phản ứng quá mẫn sẽ được dùng với liều tăng dần để thúc đẩy phản ứng. Thử nghiệm này thường an toàn và hiệu quả nếu được thực hiện trong một môi trường được kiểm soát.Vì quá mẫn với thuốc có liên quan đến một số kiểu gen kháng nguyên bạch cầu người (HLA) lớp I, nên việc phân tích kiểu gen của bệnh nhân từ các nhóm dân tộc cụ thể có thể xác định những người có nguy cơ cao bị phản ứng quá mẫn (2).BảngMột số yếu tố nguy cơ HLA đối với quá mẫn với thuốcBảngMột số yếu tố nguy cơ HLA đối với quá mẫn với thuốcMột số yếu tố nguy cơ HLA đối với quá mẫn với thuốcThuốcDân tộcHLA HaplotypePhản ứng quá mẫnAbacavirTổ tiên châu ÂuHLA-B*5701Quá mẫn với Abacavir (thường sốt, phát ban, GI và các triệu chứng hô hấp)AllopurinolTổ tiên châu Á, tổ tiên châu PhiÍt gặp hơn, tổ tiên châu ÂuHLA-B*5801SJS/TEN; DRESSCarbamazepineTổ tiên châu Âu, tổ tiên Nhật BảnHLA-A*3101SJS/TENCarbamazepineTổ tiên châu ÁHLA-B*1502SJS/TEN; DRESSDapsoneTổ tiên người Hoa đại lụcHLA-B*1301DRESSFosphenytoinPhenytoinTổ tiên châu ÁHLA-B*1502SJS/TENLamotrigineTổ tiên châu ÁHLA-B*1502SJS/TENDRESS = phát ban do thuốc có tình trạng tăng bạch cầu ái toan và các triệu chứng toàn thân; GI = đường tiêu hóa; HLA = kháng nguyên bạch cầu người; SJS/TEN = hội chứng Stevens-Johnson (SJS) và ly hoại tử thượng bì nhiễm độc (TEN).DRESS = phát ban do thuốc có tình trạng tăng bạch cầu ái toan và các triệu chứng toàn thân; GI = đường tiêu hóa; HLA = kháng nguyên bạch cầu người; SJS/TEN = hội chứng Stevens-Johnson (SJS) và ly hoại tử thượng bì nhiễm độc (TEN).Các xét nghiệm phản ứng thuốc về mặt huyết học bao gồmxét nghiệm kháng globulin trực tiếp và gián tiếp. Các xét nghiệm cho quá mẫn với thuốc đặc hiệu khác (ví dụ, xét nghiệm IgE huyết thanh đặc hiệu dị ứng, phóng thích histamin, phóng thích bazophil hoặc ức chế tế bào mast, biến đổi tế bào lympho) không đáng tin cậy hoặc mang tính thử nghiệm.Tài liệu tham khảo chẩn đoán1.Providencia R, Aali G, Zhu F, et al.PenicillinAllergy Testing and Delabeling for Patients Who Are PrescribedPenicillin: A Systematic Review for a World Health Organization Guideline.Clin Rev Allergy Immunol66(2):223-240, 2024. doi:10.1007/s12016-024-08988-22.Deshpande P, Hertzman RJ, Palubinsky AM, et al. Immunopharmacogenomics: Mechanisms of HLA-Associated Drug Reactions.Clin Pharmacol Ther110(3):607-615, 2021. doi:10.1002/cpt.2343
+
+--- 4. Điều trị quá mẫn cảm với thuốc ---
+
+Ngừng dùng thuốcĐiều trị hỗ trợ (ví dụ, thuốc kháng histamine, corticosteroid, epinephrine)Đôi khi giải mẫn cảmĐiều trị dị ứng thuốc là ngừng thuốc liên quan; hầu hết các triệu chứng và dấu hiệu sẽ hết trong vòng vài ngày sau khi ngừng thuốc.Điều trị triệu chứng và hỗ trợ cho các phản ứng cấp tính có thể bao gồmThuốc kháng histamine điều trị ngứaNSAID để điều trị đau khớpCorticosteroid cho các phản ứng nặng (ví dụ, viêm da tróc da, co thắt phế quản)Epinephrine cho phản vệCác tình trạng như sốt do thuốc, phát ban không ngứa hoặc phản ứng nhẹ của hệ thống cơ quan không cần điều trị nào khác ngoài việc ngừng thuốc (để điều trị các phản ứng lâm sàng cụ thể, hãy xem phần khác trong CẨM NANG).Giải mẫn cảmgiải mẫn cảm nhanh có thể là cần thiết nếu quá mẫn qua trung gian IgE đã xuất hiện và nếu điều trị là điều cần thiết và không có giải pháp thay thế. Giảm mẫn cảm nhanh chóng tạo ra dung nạp tạm thời – tức là trong khoảng thời gian bệnh nhân tiếp xúc với kháng nguyên (thuốc). Nếu bệnh nhân sau 24 đến 48 giờ mà không tiếp xúc, hiện tượng mẫn cảm sẽ xảy ra và bệnh nhân một lần nữa dễ bị tổn thương nếu tiếp xúc. Nếu có thể, sự mất nhạy cảm nên được thực hiện với cộng tác của một chuyên gia dị ứng. Không nên thực hiện thủ thuật này ở những bệnh nhân đã từng mắchội chứng Stevens-Johnson, bệnh huyết thanh, DRESS hoặc các phản ứng quá mẫn muộn nặng hoặc phản ứng quá mẫn nặng trên da khác. Giảm mẫn cảm thường không hiệu quả đối với phản ứng qua trung gian tế bào T và không nên được thực hiện trong những trường hợp như vậy. Bất cứ khi nào giải mẫn cảm được sử dụng, oxy, epinephrine, và thiết bị hồi sức phải có sẵn để điều trị kịp thời sốc phản vệ.Giải mẫn cảm được dựa trên liều lượng gia tăng của kháng nguyên mỗi 15 đến 20 phút, bắt đầu với liều nhỏ để gây sốc phản vệ dưới lâm sàng trước khi dùng liều điều trị. Quy trình này phụ thuộc vào sự hiện diện liên tục của thuốc trong huyết thanh và do đó không được gián đoạn; quá trình giảm nhạy cảm được thực hiện ngay sau khi dùng liều điều trị đầy đủ. Quá mẫn thường quay lại từ 24 đến 48 giờ sau khi ngừng điều trị. Phản ứng nhẹ (ví dụ, ngứa, phát ban) thường gặp trong giải mãn cảm.Các quy trình giải mẫn cảm có thể được thiết kế cho phản ứng thuốc qua trung gian IgE và có hiệu quả đối với các loại thuốc được cho là nguyên nhân gây ra các phản ứng này (1,2). Các phác đồ điển hình là uống hoặc đường tĩnh mạch và thường là một phác đồ 8 đến 16 bước với liều tăng dần ở mỗi bước cho đến khi đạt được liều mục tiêu. Liều nhắm đích được tiếp tục trong thời gian tiêu chuẩn; việc tạm dừng dùng thuốc có thể khiến có tình trạng mẫn cảm quay trở lại. Khi sử dụng đường tĩnh mạch, nhiều dung dịch ở mức nồng độ tăng được pha chế và tốc độ truyền được điều chỉnh để tăng liều theo từng bước.Việc giải mẫn cảm với thuốc nhanh chóng đã thành công đối với nhiều loại thuốc kháng sinh, thuốc sinh học, thuốc trị tiểu đường, aspirin và các loại thuốc khác.Nếu xét nghiệm da với huyết thanh khác loài dương tính, nguy cơ sốc phản vệ cao. Nếu điều trị huyết thanh là cần thiết, giải mẫn cảm phải làm trước.Tài liệu tham khảo về điều trị1.Castells M: Desensitization for drug allergy.Curr Opin Allergy Clin Immunol6 (6):476–481, 2006.2.Chastain DB, Hutzley VJ, Parekh J, et al: Antimicrobial desensitization: A review of published protocols.Pharmacy (Basel)7 (3):112, 2019. doi: 10.3390/pharmacy7030112
+
+--- 5. Tiên lượng về quá mẫn với thuốc ---
+
+Quá mẫn giảm theo thời gian. Kháng thể IgE có ở 90% số bệnh nhân sau khi có phản ứng dị ứng loại I 1 năm nhưng chỉ có ở khoảng 20% đến 30% số bệnh nhân sau 10 năm (1). Những bệnh nhân bị phản ứng phản vệ có nhiều khả năng giữ lại kháng thể với thuốc gây bệnh lâu hơn.Những người bị dị ứng thuốc nên được hướng dẫn về cách tránh dùng thuốc và nên mang theo giấy tờ tùy thân hoặc vòng đeo tay cảnh báo. Các biểu đồ phải luôn được đánh dấu thích hợp.Tài liệu tham khảo về tiên lượng bệnh1.Shenoy ES, Macy E, Rowe T, Blumenthal KG. Evaluation and Management ofPenicillinAllergy: A Review.JAMA321(2):188-199, 2019. doi:10.1001/jama.2018.19283
+
+--- 6. Những điểm chính ---
+
+Phản ứng quá mẫn với thuốc thường là loại I (tức thời, qua trung gian IgE), nhưng có thể là loại II, III hoặc IV.Quá mẫn với thuốc thường có thể được chẩn đoán dựa trên tiền sử (chủ yếu là báo cáo của bệnh nhân về phản ứng sau khi bắt đầu dùng thuốc), nhưng phải loại trừ các tác dụng bất lợi và độc hại đã biết của thuốc cũng như tương tác thuốc.Nếu chẩn đoán không rõ ràng, thường cần thử nghiệm da nhưng đôi khi cần xét nghiệm kích thích dùng thuốc hoặc các xét nghiệm cụ thể khác có thể xác định một số loại thuốc là nguyên nhân, đặc biệt là nếu nguyên nhân chủ yếu là phản ứng quá mẫn loại I.Kết quả xét nghiệm da âm tính loại trừ khả năng phản vệ nhưng không dự đoán tỷ lệ mắc bệnh huyết thanh tiếp theo hoặc các phản ứng không qua trung gian IgE khác.Điều trị quá mẫn loại I với thuốc kháng histamine, NSAID cho chứng đau khớp, corticosteroid cho các phản ứng nặng (ví dụ viêm da tróc da, co thắt phế quản), và epinephrine cho phản vệ.Nếu phải sử dụng thuốc gây dị ứng, hãy thử phương pháp giải mẫn cảm nhanh chóng, nếu có thể, hãy phối hợp với bác sĩ chuyên khoa dị ứng để tạm thời giảm nguy cơ xảy ra phản ứng quá mẫn loại I với thuốc.Quá mẫn có xu hướng giảm theo thời gian.

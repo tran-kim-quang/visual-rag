@@ -1,0 +1,441 @@
+TIÊU ĐỀ: Nhiễm trùng mycobacteria không phải lao
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/mycobacteria/nhiễm-trùng-mycobacteria-không-phải-lao
+================================================================================
+
+NỘI DUNG:
+
+Nhiễm trùng mycobacteria không phải lao
+
+Theo
+
+Edward A. Nardell
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2022
+
+|
+
+đã sửa đổi
+
+Thg 9 2022
+
+v1011373_vi
+
+Có hơn 170 loài vi khuẩn mycobacteria được công nhận, chủ yếu là ở môi trường. Tiếp xúc với môi trường với nhiều sinh vật này là phổ biến, nhưng hầu hết tiếp xúc không gây nhiễm trùng và nhiều nhiễm trùng không gây bệnh. Bệnh thường đòi hỏi một khiếm khuyết trong hệ thống phòng thủ của vật chủ tại chỗ hoặc toàn thân. Những người bị bệnh phổi mạn tính (đặc biệt là
+
+bệnh xơ nang
+
+), người cao tuổi yếu và người suy giảm miễn dịch có nguy cơ cao nhất, nhưng những người khác với các khiếm khuyết ít rõ ràng hơn có thể bị bệnh tiến triển. Các loài mới và các ca nhiễm được báo cáo thường xuyên. (
+
+lao
+
+do nhiễm vi khuẩn mycobacteria được thảo luận ở những nơi khác.)
+
+Các vi khuẩn Mycobacteria khác với
+
+Mycobacterium tuberculosis
+
+có thể là tác nhân gây bệnh cho người và tỷ lệ nhiễm bệnh dường như đang tăng lên. Những sinh vật này thường có trong đất và nước và ít độc hơn ở người so với
+
+M. tuberculosis
+
+. Các bệnh nhiễm trùng do các vi sinh vật này được gọi là nhiễm trùng mycobacteria không điển hình, liên quan đến môi trường, và nhiễm vi khuẩn không điển hình không phải lao (NTM). Những vi sinh vật này cũng gây ra một loạt các biểu hiện bệnh ở những người bị nhiễm HIV hoặc bị suy giảm miễn dịch, nhưng những biểu hiện đó không được thảo luận ở đây.
+
+Nhiễm NTM nói chung không lây nhiễm (tức là thường do mắc phải từ môi trường hơn là từ người bị nhiễm bệnh), vì vậy chúng không phải là bệnh sức khỏe cộng đồng được báo cáo và rất khó xác định chính xác tỷ lệ nhiễm NTM. Ngoài ra, việc phân lập một loại vi sinh vật NTM không nhất thiết có nghĩa là nó là nguyên nhân gây bệnh. Tuy nhiên, số lượng bệnh nhân bị nhiễm NTM cần điều trị dường như đang tăng lên. Không rõ mức độ gia tăng rõ ràng này là bao nhiêu do nhận thức tốt hơn và cải thiện xét nghiệm chẩn đoán và tỷ lệ nhiễm bệnh gia tăng thực tế là bao nhiêu. Khả năng sống thêm lâu hơn của bệnh nhân xơ nang và bệnh nhân mắc các bệnh phổi dễ mắc khác có thể là một yếu tố. Bởi vì các vi sinh vật NTM có khả năng chống lại nồng độ clo thường xuyên trong nước công cộng (
+
+1
+
+), nên việc tiếp xúc nhiều hơn với các nguồn nước được sục khí thông qua vòi hoa sen thường xuyên, vòi phun nước, màn hình nước trang trí có thể đóng một vai trò nào đó. Biến đổi khí hậu môi trường cũng có thể đóng một vai trò nào đó vì khí hậu ấm hơn, ẩm ướt hơn mở rộng các khu vực mà NTM có thể sinh sống. Trên toàn thế giới, có sự đa dạng về địa lý đáng kể về tỷ lệ hiện hành của NTM trong bệnh phẩm lâm sàng và các nguồn môi trường. Ở Hoa Kỳ, các vùng khí hậu phía Nam ấm hơn, ẩm ướt thường có nhiều phân lập NTM hơn so với các vùng khí hậu phía Bắc lạnh hơn, khô hơn.
+
+Phức hợp Mycobacterium avium
+
+(MAC) - loài có họ hàng gần với
+
+M. avium
+
+và
+
+M. intracellulare
+
+- là nguyên nhân gây ra hầu hết các bệnh do NTM, nhưng
+
+M. abscessus
+
+đang ngày càng trở nên phổ biến. Các loài gây bệnh khác là
+
+M. kansasii
+
+,
+
+M. xenopi
+
+,
+
+M. marinum
+
+,
+
+M. ulcerans
+
+,
+
+M. fortuitum
+
+và
+
+M. chelonae
+
+(
+
+M. fortuitum
+
+và
+
+M. chelonae
+
+liên quan đến
+
+M. abscessus
+
+). Mặc dù sự lây truyền từ người sang người của hầu hết các bệnh nhiễm trùng do NTM thường không được cho là xảy ra, nhưng
+
+M. abscessus
+
+có thể lây truyền giữa những bệnh nhân bị xơ nang.
+
+Phổi
+
+là nơi nhiễm bệnh phổ biến nhất; hầu hết các bệnh nhiễm trùng phổi này là do MAC nhưng cũng có thể do
+
+M. kansasii
+
+,
+
+M. xenopi
+
+hoặc
+
+M. abscessus
+
+. Các trường hợp không thường xuyên bao gồm
+
+hạch bạch huyết
+
+, xương và khớp,
+
+da
+
+và
+
+vết thương
+
+. Tuy nhiên, tỷ lệ mắc
+
+bệnh MAC lan tỏa
+
+ở bệnh nhân nhiễm HIV, và đề kháng với thuốc chống lao là nguyên tắc (ngoại trừ
+
+M. kansasii
+
+và
+
+M. xenopi
+
+).
+
+Chẩn đoán nhiễm trùng mycobacterial không thường xuyên thường được thực hiện thông qua nhuộm acid nhanh và nuôi cấy bệnh phẩm. Mặc dù có các xét nghiệm khuếch đại axit nucleic (NAATs) đối với các vi sinh vật NTM phổ biến nhất, ở Hoa Kỳ, xét nghiệm này ngày càng được thực hiện trong các phòng thí nghiệm y tế công cộng của bang sử dụng các phương pháp phân tử và các phương pháp khác.
+
+Nhiễm trùng mycobacterial không thường xuyên được quản lý tốt nhất bởi một chuyên gia có chuyên môn đặc biệt trong khu vực đó. Để biết thông tin chẩn đoán và điều trị cập nhật về chẩn đoán và quản lý những trường hợp nhiễm bệnh thách thức này, hãy xem Hiệp hội Lồng ngực Hoa Kỳ, Hiệp hội Hô hấp Châu Âu, Hiệp hội Vi sinh lâm sàng và Bệnh truyền nhiễm Châu Âu, và
+
+Hướng dẫn thực hành năm 2020 của Hiệp hội Bệnh truyền nhiễm Hoa Kỳ về điều trị vi khuẩn không lao bệnh phổi
+
+.
+
+Tài liệu tham khảo chung
+
+1.
+
+Norton GJ, Williams M, Falkinham JO 3rd, Honda JR
+
+: Physical measures to reduce exposure to tap water-associated nontuberculous mycobacteria.
+
+Front Public Health
+
+8:190, 2020. doi: 10.3389/fpubh.2020.00190
+
+Bệnh lý phổi
+
+Bệnh nhân điển hình là một phụ nữ trung niên trở lên bị giãn phế quản, vẹo cột sống, ngực lõm hoặc sa van hai lá nhưng không có bất thường về phổi. Phức hợp
+
+Mycobacterium avium
+
+(MAC) cũng gây ra bệnh phổi ở đàn ông da trắng trung niên trở lên với các vấn đề về phổi trước đó như
+
+viêm phế quản mạn tính
+
+,
+
+khí phế thũng
+
+, lao đã lành,
+
+giãn phế quản
+
+hoặc
+
+bệnh bụi phổi silic
+
+. MAC gây giãn phế quản hay giãn phế quản dẫn đến MAC không phải lúc nào cũng rõ ràng ở bất kỳ bệnh nhân nào; cả hai hiện tượng xảy ra. Ở những phụ nữ lớn tuổi gầy có ho khan mạn tính, hội chứng này thường được gọi là hội chứng Lady Windermere; nó xuất hiện với tần số ngày càng tăng mà không rõ lí do.
+
+Một nhóm đối tượng quan trọng khác có thể bị nhiễm và mắc bệnh NTM là bệnh nhân bị
+
+xơ nang
+
+. Với việc quản lý CF tốt hơn, bệnh nhân sống lâu hơn và do đó có nhiều khả năng phát triển các biến chứng như bệnh NTM.
+
+Ho và xuất tiết đờm thường phổ biến, triệu chứng liên quan khác là mệt mỏi, giảm cân và sốt nhẹ. Quá trình bệnh có thể diễn biến từ từ chậm chạp hoặc ổn định trong thời gian dài. Suy hô hấp hoặc ho ra máu tái diễn có thể xảy ra. Mờ kẽ dang xơ hóa trên X- quang tương tự như lao nhưng hang thường có xu hướng thành mỏng và hiếm khi gặp tràn dịch màng phổi. Tổn thương kẽ dạng cây và nụ, được quan sát thấy trên phim chụp CT ngực, cũng được coi là đặc trưng của bệnh MAC.
+
+Xét nghiệm và nuôi cấy đờm được thực hiện để chẩn đoán MAC và để phân biệt nhiễm trùng MAC với bệnh lao.
+
+Xác định tính nhạy cảm của thuốc có thể hữu ích cho một số kết hợp giữa các sinh vật/thuốc nhưng chỉ có thể được thực hiện trong các phòng thí nghiệm có chuyên môn cao. Đối với MAC, sự nhạy cảm với clarithromycin là một yếu tố tiên đoán đáp ứng điều trị.
+
+Đối với bệnh có triệu chứng vừa phải do MAC với kết quả cấy và phết đờm dương tính, clarithromycin 500 mg mỗi lần uống hoặc azithromycin 600 mg mỗi ngày một lần, rifampin (RIF) 600 mg uống mỗi ngày một lần và ethambutol (EMB) 15 đến 25 mg/kg uống một lần/ngày nên được sử dụng trong 12 đến 18 tháng hoặc cho đến khi mẫu cấy âm tính trong 12 tháng.
+
+Đối với các trường hợp tiến triển không đáp ứng với thuốc tiêu chuẩn, kết hợp 4 đến 6 loại thuốc bao gồm clarithromycin 500 mg mỗi lần uống hoặc azithromycin 600 mg mỗi ngày một lần, rifabutin 300 mg mỗi ngày một lần, ciprofloxacin 250 đến 500 mg mỗi lần uống hoặc tiêm tĩnh mạch, clofazimine 100 đến 200 mg uống một lần/ngày và amikacin 10 đến 15 mg/kg tiêm tĩnh mạch một lần/ngày có thể được thử dùng.
+
+Phẫu thuật cắt bỏ được khuyến cáo trong những trường hợp ngoại lệ có tổn thương khu trú ở những bệnh nhân trẻ tuổi, khỏe mạnh.
+
+Nhiễm trùng do
+
+M. kansasii
+
+và
+
+M. xenopi
+
+đáp ứng với isoniazid, rifabutin, và EMB, có hoặc không có streptomycin hoặc clarithromycin, dược cho trong vòng 18 đến 24 tháng.
+
+M. abscessus
+
+là một sinh vật đa kháng thuốc. Các chủng phân lập của vi khuẩn này có khả năng kháng thuốc trong ống nghiệm với hầu hết các kháng sinh đường uống nhưng nhìn chung nhạy cảm với một số kháng sinh đường tiêm hạn chế, bao gồm tigecycline, imipenem, cefoxitin và amikacin; khuyến cáo điều trị bằng ít nhất 3 loại thuốc có hoạt tính (xem
+
+hướng dẫn thực hành năm 2020 về điều trị bệnh phổi không do vi khuẩn lao
+
+).
+
+Tất cả các chủng vi khuẩn mycobacter nonoperculous kháng lại pyrazinamide.
+
+Viêm hạch bạch huyết
+
+Ở trẻ em từ 1 đến 5 tuổi, viêm tuyến dưới hàm mạn tính và viêm hạch dưới hàm chủ yếu là do MAC hoặc
+
+M. scrofulaceum
+
+. Có thể nhiễm vi sinh vật trong đất qua ăn uống đường miệng.
+
+Chẩn đoán thường bằng sinh thiết dịch tiết.
+
+Thông thường, cắt bỏ là điều trị đầy đủ và hóa trị liệu là không bắt buộc.
+
+Bệnh ngoài da
+
+Bệnh u hạt bể bơi
+
+là một bệnh u hạt bề mặt loét nhưng hường tự khỏi, gây ra bời nhiễm
+
+Mycobacterium marinum
+
+khi bơi lội trong các bể bị ô nhiễm hoặc nhiễm khi làm sạch bể cá ở nhà.
+
+M. ulcerans
+
+và
+
+M. kansasii
+
+đôi khi có liên quan. Các vết thương, đỏ da, mở rộng và biến màu tím, thường xảy ra nhất trên các chi trên hoặc đầu gối.
+
+Lành bệnh có thể xảy ra một cách tự nhiên, nhưng minocycline hoặc doxycycline 100 đến 200 mg đường uống x 1 lần/ngày, clarithromycin 500 mg đường uống x 2 lần/ngày hoặc RIF cộng với EMB trong 3 đến 6 tháng đã có hiệu quả chống lại
+
+M. marinum
+
+.
+
+Loét Buruli
+
+, do
+
+M. ulcerans
+
+, xảy ra ở các vùng nông thôn của > 30 quốc gia nhiệt đới và cận nhiệt đới. Tổn thương khởi đầu như một nốt dưới da không đau, một vùng lan tỏa không đau hoặc khối sưng rắn không đau ở chân tay hoặc mặt. Nhiễm trùng tiến triển gây ra sự phá hủy da và mô mềm; loét lớn có thể hình thành trên chân hoặc cánh tay. Điều trị có thể dẫn đến sự co cứng, sẹo và biến dạng nghiêm trọng.
+
+Để chẩn đoán, phản ứng chuỗi polymerase nên được sử dụng.
+
+Tổ chức Y tế Thế giới (WHO) khuyến cáo điều trị 8 tuần phối hợp một lần/ngày với rifampicin 10 mg/kg uống cùng với streptomycin 15 mg/kg tiêm bắp clarithromycin 7,5 mg/kg uống (ưu tiên trong thai kỳ), hoặc moxifloxacin 400 mg uống. Tuy nhiên, streptomycin có vấn đề vì nó là đường tiêm và gây độc. WHO tuyên bố rằng một nghiên cứu gần đây cho thấy phối hợp rifampicin (10 mg/kg một lần/ngày) và clarithromycin (7,5 mg/kg 2 lần một ngày) hiện là phương pháp điều trị được khuyến nghị (
+
+1
+
+).
+
+Tham khảo nhiễm trùng da
+
+1.
+
+World Health Organization (WHO)
+
+: Loét Buruli (nhiễm
+
+Mycobacterium ulcerans
+
+). Truy cập ngày 26 tháng 4 năm 2022.
+
+Vết thương và nhiễm trùng do dị vật
+
+Mycobacteria không phải lao được hình thành các màng sinh học; chúng có thể tồn tại trong hệ thống nước trong khu dân cư, văn phòng và các cơ sở chăm sóc sức khoẻ. Chúng rất khó để loại bỏ bằng các biện pháp khử nhiễm thông thường (ví dụ sử dụng clo, clo hữu cơ hoặc kiềm).
+
+Mycobacteria phát triển nhanh chóng (
+
+Mycobacterium fortuitum
+
+phức tạp
+
+M. chelonae
+
+,
+
+M. abscessus
+
+complex) có thể gây ra sự bùng phát bệnh nhiễm trùng bệnh viện, thường là do tiêm dung dịch bị nhiễm bẩn, vết thương nhiễm bẩn bằng nước, sử dụng các dụng cụ bị ô nhiễm hoặc cấy ghép các thiết bị bị ô nhiễm. Những bệnh nhiễm trùng này cũng có thể phát triển sau các thủ thuật thẩm mỹ, châm cứu hoặc xăm mình. Phức hợp
+
+M. fortuitum
+
+đã gây ra nhiễm trùng nghiêm trọng cho các vết thương xuyên thấu ở mắt và da (đặc biệt là bàn chân), hình xăm và ở những bệnh nhân dùng vật liệu bị ô nhiễm (ví dụ: van tim lợn, mô cấy ghép vú, sáp xương).
+
+Ở Mỹ,
+
+M. abscessus
+
+nhiễm trùng xảy ra ở Georgia (2015) và California (2016). Các đợt bùng phát này ở trẻ em khi nước bị ô nhiễm
+
+M. abscessus
+
+màng sinh học được sử dụng để tưới vào buồng tủy của tủy răng; kết quả nhiễm trùng nặng.
+
+Việc điều trị yêu cầu loại bỏ vùng hoại tử và các vật liệu ngoại lai. Thuốc được sử dụng bao gồm
+
+Imipenem 1 g tĩnh mạch mỗi 6 giờ
+
+Levofloxacin 500 mg IV hoặc uống một lần/ngày
+
+Clarithromycin 500 mg uống 2 lần/ngày
+
+Trimethoprim/sulfamethoxazole 1 viên cường độ gấp đôi, uống 2 lần/ngày
+
+Doxycycline 100 đến 200 mg uống một lần/ngày
+
+Cefoxitin 2 g đường tĩnh mạch 6 giờ đến 8 giờ một lần
+
+Amikacin 10 đến 15 mg/kg IV một lần/ngày
+
+Điều trị kết hợp với ít nhất 2 loại thuốc có hoạt tính in vitro được khuyến khích. Thời gian điều trị trung bình là 24 tháng và có thể lâu hơn nếu vật liệu bị nhiễm trùng vẫn còn trong cơ thể. Amikacin thường được bao gồm trong 3 đến 6 tháng đầu điều trị. Nhiễm trùng do
+
+M. abscessus
+
+và
+
+M. chelonae
+
+thường kháng với hầu hết các kháng sinh, cực kì khó hoặc không có khả năng chữa được, và nên được chuyển đến một chuyên gia có kinh nghiệm.
+
+Bệnh lan tỏa
+
+Phức hợp
+
+Mycobacterium avium
+
+(MAC) gây ra nhiễm trùng phổ biến ở bệnh nhân AIDS tiên triển và đôi khi ở những bệnh nhân bị suy giảm miễn dịch khác, bao gồm cả cấy ghép nội tạng và bệnh bạch cầu. Ở bệnh nhân AIDS, MAC lan tỏa thường phát triển muộn (không giống như bệnh lao phát triển sớm), xảy ra đồng thời với các bệnh nhiễm trùng cơ hội khác.
+
+Nhiễm MAC lan tỏa gây sốt, thiếu máu, giảm tiểu cầu, tiêu chảy và đau bụng (có đặc điểm tương tự như
+
+bệnh Whipple
+
+).
+
+Chẩn đoán nhiễm trùng MAC lan tỏa có thể được xác nhận bằng nuôi cấy máu hoặc tủy xương hoặc bằng sinh thiết (ví dụ, sinh thiết kim nhỏ qua da của gan hoặc các hạch bạch huyết hoại tử). Căn nguyên sinh vật có thể được xác định trong phân và các mẫu bệnh phẩm hô hấp, nhưng các sinh vật từ những mẫu vật này thường là nhiễm bẩn chứ không phải căn nguyên thật.
+
+Liệu pháp kết hợp để loại bỏ nhiễm khuẩn huyết và giảm bớt các triệu chứng thường cần 2 hoặc 3 loại thuốc; một dạng phối hợp là clarithromycin 500 mg mỗi lần uống hoặc azithromycin 600 mg mỗi ngày một lần, cộng với EMB 15 đến 25 mg/kg một lần/ngày. Đôi khi dùng rifabutin 300 mg một lần/ngày được chỉ định. Sau khi điều trị thành công, cần phải ngăn ngừa bệnh tiến triển mạn tính hoặc tái phát bằng clarithromycin hoặc azithromycin kết hợp EMB.
+
+Bệnh nhân nhiễm HIV không được chẩn đoán trước khi biểu hiện MAC lan tỏa nên được điều trị bằng thuốc kháng vi khuẩn trong 2 tuần trước khi bắt đầu điều trị bằng thuốc kháng vi rút để giảm nguy cơ phát sinh
+
+hội chứng viêm phục hồi miễn dịc
+
+h (IRIS).
+
+Bệnh nhân nhiễm HIV và số lượng CD4
+
+<
+
+100 tế bào/mcL (0,01 × 10
+
+9
+
+/L) cần điều trị dự phòng MAC lan tỏa bằng azithromycin 1,2 g uống một lần/tuần hoặc clarithromycin 500 mg, uống 2 lần/ngày.
+
+Thông tin thêm
+
+Sau đây là một nguồn thông tin bằng tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Hiệp hội Lồng ngực Hoa Kỳ, Hiệp hội Hô hấp Châu Âu, Hiệp hội Vi sinh Lâm sàng và Bệnh Truyền nhiễm Châu Âu, và Hiệp hội Các bệnh Truyền nhiễm Hoa Kỳ:
+
+Điều trị bệnh phổi do vi khuẩn không lao: An official ATS/ERS/ESCMID/IDSA clinical practice guideline
+
+(2020)
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thông tin thêm ---
+
+Sau đây là một nguồn thông tin bằng tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Hiệp hội Lồng ngực Hoa Kỳ, Hiệp hội Hô hấp Châu Âu, Hiệp hội Vi sinh Lâm sàng và Bệnh Truyền nhiễm Châu Âu, và Hiệp hội Các bệnh Truyền nhiễm Hoa Kỳ:Điều trị bệnh phổi do vi khuẩn không lao: An official ATS/ERS/ESCMID/IDSA clinical practice guideline(2020)

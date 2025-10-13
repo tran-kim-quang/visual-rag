@@ -1,0 +1,493 @@
+TIÊU ĐỀ: Đo lường trao đổi khí
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-chức-năng-hô-hấp/đánh-giá-chức-năng-hô-hấp-pft/đo-lường-trao-đổi-khí
+================================================================================
+
+NỘI DUNG:
+
+Đo lường trao đổi khí
+
+Theo
+
+Karen L. Wood
+
+,
+
+MD
+
+,
+
+Grant Medical Center, Ohio Health
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2024
+
+|
+
+đã sửa đổi
+
+Thg 2 2025
+
+v912823_vi
+
+Khả năng khuếch tán Carbon Monoxide
+
+|
+
+Đo độ bão hòa oxy trong máu động mạch
+
+|
+
+Kiểm tra khí máu động mạch (ABG)
+
+|
+
+Giảm oxy máu
+
+|
+
+Tăng CO2 máu và giảm CO2 máu
+
+|
+
+Ngộ độc CO
+
+|
+
+Methemoglobin máu
+
+|
+
+Quá trình trao đổi khí được đo bằng một số phương pháp, bao gồm:
+
+Khả năng khuếch tán carbon monoxide
+
+Đo độ bão hòa oxy trong máu động mạch
+
+Lấy mẫu khí máu động mạch
+
+Khả năng khuếch tán Carbon Monoxide
+
+Khả năng khuếch tán carbon monoxide (DLCO) của phổi là thước đo khả năng vận chuyển khí từ phế nang qua biểu mô phế nang và nội mô mao mạch đến hồng cầu. DLCO không chỉ phụ thuộc vào diện tích và độ dày của hàng rào khí-máu mà còn phụ thuộc vào thể tích máu trong mao mạch phổi. Sự phân bố thể tích phế nang và thông khí cũng ảnh hưởng đến phép đo.
+
+DLCO được đo bằng cách lấy mẫu khí thở ra cuối cùng để đo carbon monoxide (CO) sau khi bệnh nhân được hít một lượng nhỏ khí CO, nín thở và thở ra. DLCO đo được nên được điều chỉnh cho thể tích phế nang (được ước tính từ quá trình
+
+pha loãng helium
+
+) và hematocrit của bệnh nhân. DLCO được báo cáo dưới dạng mL/phút/mm Hg và dưới dạng phần trăm của giá trị dự đoán được biểu thị dưới dạng điểm z (
+
+1
+
+).
+
+Tình trạng làm giảm DLCO
+
+Các tình trạng chủ yếu ảnh hưởng đến mạch máu phổi, như
+
+tăng áp động mạch phổi
+
+nguyên phát và
+
+tắc mạch phổi
+
+, làm giảm DLCO. Các tình trạng ảnh hưởng đến thông khí phổi, như
+
+khí phế thũng
+
+và
+
+xơ phổi
+
+, giảm cả DLCO và thông khí phế nang (V
+
+A
+
+). Giảm DLCO cũng xảy ra ở những bệnh nhân bị cắt phổi trước đó vì tổng thể tích phổi nhỏ hơn, nhưng DLCO điều chỉnh hoặc thậm chí vượt quá mức bình thường khi điều chỉnh theo V
+
+A
+
+vì có sự tăng thêm diện tích bề mặt mạch máu được hổi phục trong phần phổi còn lại. Bệnh nhân thiếu máu có DLCO thấp hơn giá trị đúng khi điều chỉnh theo hemoglobin.
+
+Tinh trạng làm tăng DLCO
+
+Các điều kiện gây ra DLCO cao hơn dự đoán bao gồm:
+
+Suy tim
+
+Đa hồng cầu
+
+Xuất huyết phế nang
+
+Hen
+
+DLCO tăng trong suy tim có lẽ là do áp lực tĩnh mạch và động mạch phổi tăng huy động thêm các vi mạch phổi.
+
+Trong bệnh đa hồng cầu, DLCO tăng do hematocrit tăng và sự tăng sinh mạch máu xảy ra do áp lực mạch phổi tăng vì độ nhớt tăng.
+
+Trong xuất huyết phế nang, hồng cầu trong phế nang cũng có thể liên kết với carbon monoxide, làm tăng DLCO.
+
+Trong bệnh hen, sự gia tăng DLCO được cho là do sự tăng sinh mạch; tuy nhiên, một số dữ liệu cho thấy nó cũng có thể là do yếu tố tăng trưởng đã kích thích quá trình tăng sinh mạch.
+
+Công cụ tính toán lâm sàng
+
+Khả năng khuếch tán carbon monoxide (DLCO) được điều chỉnh trong thiếu máu
+
+Tài liệu tham khảo về DLCO
+
+1.
+
+Graham BL, Brusasco V, Burgos F, et al
+
+. 2017 ERS/ATS standards for single-breath carbon monoxide uptake in the lung [published correction appears in
+
+Eur Respir J
+
+ngày 22 tháng 11 năm 2018;52(5):].
+
+Eur Respir J
+
+2017;49(1):1600016. doi:10.1183/13993003.00016-2016
+
+Đo độ bão hòa oxy trong máu động mạch
+
+Đo độ bão hòa oxy trong máu động mạch qua da giúp ước lượng độ bão hòa oxy (SpO2) của máu mao mạch dựa trên sự hấp thụ ánh sáng từ các điốt phát sáng đặt tại đầu một ngón tay hoặc một đầu dò bám dính. Các ước tính nói chung là rất chính xác và tương quan trong vòng 5% độ bão hòa oxy máu động mạch đo được (SaO2). Kết quả có thể kém chính xác hơn ở bệnh nhân:
+
+Sắc tố da cao
+
+Loạn nhịp tim
+
+Huyết áp thấp
+
+Co mạch hệ thống nhiều
+
+Kết quả đo độ bão hòa oxy trong máu động mạch cũng ít chính xác hơn ở bệnh nhân dùng sơn móng tay.
+
+Đo độ bão hòa oxy trong máu động mạch chỉ có thể phát hiện oxyhemoglobin hoặc giảm hemoglobin nhưng không phát hiện được các loại hemoglobin khác; tuy nhiên, nó không chính xác khi nồng độ carboxyhemoglobin trong máu tăng lên, như xảy ra trong
+
+ngộ độc carbon monoxide
+
+và methemoglobin huyết.
+
+Kiểm tra khí máu động mạch (ABG)
+
+Lấy mẫu ABG được thực hiện để có được các phép đo chính xác về áp suất riêng phần của oxy động mạch (PaO2), áp suất riêng phần của carbon dioxide động mạch (PaCO2) và độ pH động mạch; các biến số này, được điều chỉnh theo nhiệt độ của bệnh nhân, cho phép tính toán nồng độ bicarbonate (cũng có thể được đo trực tiếp từ máu tĩnh mạch) và độ bão hòa oxy. Lấy khí máu động mạch cũng có thể đo chính xác carboxyhemoglobin và methemoglobin.
+
+Vị trí lấy máu thường tại động mạch quay. Bởi vì chọc kim vào động mạch trong một số ít trường hợp dẫn đến huyết khối và suy giảm tưới máu đến các mô ở xa, nên nghiệm pháp Allen có thể được thực hiện để đánh giá sự đầy đủ của tuần hoàn bàng hệ. Trong nghiệm pháp này, động mạch quay và trụ đồng thời bị ép cho đến khi tay bệnh nhân trở nên nhợt nhạt. Sau đó người ta bỏ ép động mạch trụ trong khi vẫn ép tại vị trí động mạch quay. Nếu toàn bộ bàn tay trở về màu cơ bản trong vòng 7 giây sau khi giải phóng xung trụ, điều đó cho thấy dòng máu chảy qua động mạch trụ là đủ.
+
+Trong điều kiện vô trùng, kim tiêm cỡ 22 đến 25 gauge được gắn vào một ống tiêm có tráng
+
+heparin
+
+và chọc vào gần vị trí mạch quay đập, từ từ đưa mũi kim một cách nhẹ nhàng vào động mạch cho đến khi có máu chảy vào bơm tiêm. Huyết áp tâm thu thường đủ để dòng máu đẩy ngược lại pitton của bơm tiêm. Sau khi lấy được từ 3 đến 5mL máu, nhanh chóng rút kim ra và ấn vào vị trí đâm để tạo giúp cầm máu. Đồng thời, mẫu khí máu động mạch được đặt trên đá lạnh để giảm lượng oxy tiêu thụ và giảm quá trình sản sinh carbon dioxide của bạch cầu và được gửi đến phòng thí nghiệm.
+
+Giảm oxy máu
+
+Hạ oxy máu là tình trạng giảm áp suất riêng phần của oxy (PO2) trong máu động mạch.
+
+Hạ oxy máu là giảm PO2 trong mô.
+
+Khí máu động mạch đánh giá chính xác có thiếu oxy máu không, thường được định nghĩa là PaO2 đủ thấp để làm giảm SaO2 dưới 90% (tức là PaO2
+
+<
+
+60 mm Hg). Những bất thường về hemoglobin (ví dụ: methemoglobin), nhiệt độ cao hơn, độ pH thấp hơn và nồng độ 2,3-diphosphoglycerate cao hơn làm giảm hemoglobin SaO2 mặc dù có đủ PaO2, như đã biểu thị bằng đường cong phân ly oxyhemoglobin (xem hình
+
+Đường cong phân ly oxyhemoglobin
+
+).
+
+Đường cong phân ly oxyhemoglobin
+
+Nồng độ oxyhemoglobin huyết tương liên quan đến PO2. Po2 ở độ bão hòa 50% (P50) thường là 27 mm Hg.
+
+Đường cong phân ly dịch sang bên phải bởi sự tăng ion hydro (H
+
++
+
+), tăng hồng cầu, 2,3-diphosphoglycerate (DPG), tăng nhiệt độ (T) và tăng PCO2.
+
+Giảm H
+
++
+
+, DPG, nhiệt độ và PCO2 làm thay đổi đường cong sang trái.
+
+Huyết sắc tố được đặc trưng bởi sự dịch chuyển sang phải của đường cong có ái lực với oxy giảm và huyết sắc tố được đặc trưng bởi sự dịch chuyển sang trái của đường cong có ái lực với oxy tăng lên.
+
+Nguyên nhân gây hạ oxy máu có thể được phân loại dựa trên việc chênh lệch PO2 phế nang-động mạch [(A-a)DO2], được định nghĩa là sự khác biệt giữa áp lực oxy phế nang (PAO2) và PaO2, tăng hay bình thường (xem bảng
+
+Công thức tính áp suất oxy phế nang và gradient oxy phế nang so với động mạch
+
+).
+
+Đối với bệnh nhân ở mực nước biển và không khí trong phòng thở, FIO2
+
+=
+
+0,21 và (A-a)DO2 có thể được đơn giản hóa.
+
+Giá trị (A-a)DO2 bình thường ước lượng
+
+<
+
+(2,5
+
++
+
+[FIO2
+
+×
+
+tuổi] hoặc ít hơn giá trị tuyệt đối của FiO2 (ví dụ,
+
+<
+
+21 với khí phòng;
+
+<
+
+30 với FiO2 30%) điều chỉnh theo những tác dụng này.
+
+Bảng
+
+Phương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạch
+
+Bảng
+
+Phương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạch
+
+Phương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạch
+
+Tính toán PAO2
+
+FIO2 là tỷ lệ oxy hít vào (ví dụ: 0,21 trong không khí trong phòng), Patm là áp suất khí quyển xung quanh (ví dụ: 760 mm Hg ở mực nước biển), PH2O là áp suất riêng phần của hơi nước (ví dụ: thường là 47 mm Hg ), PaCO2 là áp suất riêng phần đo được của carbon dioxide động mạch và R là thương số hô hấp, được giả định là 0,8 ở bệnh nhân đang nghỉ ngơi và ăn chế độ ăn bình thường.
+
+Đơn giản hóa gradient PO2 phế nang-động mạch (A-a)DO2
+
+(A-a)DO2 là gradient PO2 phế nang-động mạch. (A-a)DO2 thường là
+
+<
+
+20 nhưng tăng theo độ tuổi (do suy giảm chức năng phổi liên quan đến tuổi tác) và với sự gia tăng FIO2 (vì, mặc dù hemoglobin trở nên bão hòa 100% ở mức PaO2 khoảng 150 mm Hg, oxy vẫn hòa tan trong máu, và hàm lượng oxy trong huyết tương tiếp tục tăng khi FIO2 tăng).
+
+Công cụ tính toán lâm sàng
+
+A-a Gradient
+
+Giảm oxy máu với (A-a) DO2 tăng
+
+Giảm oxy máu với (A-a) Do2 tăng là do:
+
+Tỷ lệ thông khí/tưới máu thấp (V/Q) (một dạng của V/Q không phù hợp)
+
+Shunt phải - trái
+
+Khả năng khuếch tán giảm nặng
+
+Tỷ lệ V/Q thấp
+
+là một trong những lý do phổ biến nhất gây ra tình trạng hạ oxy máu và góp phần gây ra tình trạng hạ oxy máu trong bệnh phổi tắc nghẽn mạn tính (
+
+COPD
+
+) và
+
+hen suyễn
+
+. Trong phổi bình thường, tưới máu khu vực phù hợp chặt chẽ với thông khí tại khu vực đó vì sự co mạch máu xảy ra khi có thiếu oxy phế nang. Trong tình trạng bệnh lý, rối loạn điều hòa dẫn đến sự tưới máu mà các đơn vị phế nang đang nhận được ít hơn sự thông khí (V/Q không phù hợp). Do đó, máu tĩnh mạch hệ thống đi qua các mao mạch phổi mà không đạt được mức PaO2 bình thường. Sự không phù hợp V/Q cũng có thể xảy ra khi tăng lưu lượng máu ngay cả khi thông khí bình thường, như trong bệnh gan. Oxy bổ sung có thể làm giảm tình trạng thiếu oxy do tỷ lệ V/Q thấp bằng cách tăng PaO2, mặc dù sự tăng (A-a) DO2 vẫn tồn tại.
+
+Shunt phải - trái
+
+là một ví dụ về tỷ lệ V/Q thấp. Khi có shunt, máu khử oxy từ động mạch phổi đi đến tim trái mà không đi qua các phần phổi có thông khí. Shunt có thể xảy ra thông qua nhu mô phổi, thông qua các đoạn nối bất thường giữa tuần hoàn động mạch phổi và tĩnh mạch, hoặc thông qua các lỗ thông bất thường trong tim (ví dụ: lỗ bầu dục). Hạ oxy máu do shunt từ phải sang trái không đáp ứng với oxy bổ sung.
+
+Khả năng khuếch tán kém
+
+hiếm khi xảy ra đơn độc; thông thường nó đi kèm với tỷ lệ V/Q thấp. Do oxy được bão hòa hoàn toàn hemoglobin chỉ sau một thời gian ngắn máu tiếp xúc với không khí trong phế nang, thiếu máu do suy giảm khả năng khuếch tán chỉ xảy ra khi cung lượng tim tăng lên (ví dụ như trong khi tập thể dục), khi áp suất không khí thấp (ví dụ: ở độ cao lớn) hoặc khi
+
+>
+
+50% nhu mô phổi bị phá hủy. Như với tỷ lệ V/Q thấp, (Aa)DO2 tăng lên nhưng PaO2 có thể tăng lên bằng cách tăng FiO2. Thiếu oxy máu do suy giảm khả năng khuếch tán thì có đáp ứng với oxy bổ sung.
+
+Giảm oxy máu với (A-a) DO2 bình thường
+
+Giảm oxy máu với (A-a) DO2 bình thường là do
+
+Giảm thông khí
+
+Giảm phân áp oxy trong khí thở vào (PIO2)
+
+Giảm thông khí
+
+(giảm thông khí phế nang) làm giảm PAO2 và làm tăng PaCO2, do đó giảm PaO2. Trong trường hợp giảm thông khí đơn thuần, (A-a) DO2 bình thường. Nguyên nhân gây giảm thông khí bao gồm giảm nhịp thở hoặc thở nông (ví dụ: do bệnh lý thần kinh cơ,
+
+béo phì nặng
+
+, dùng thuốc quá liều hoặc bù cho
+
+nhiễm kiềm chuyển hóa
+
+) hoặc tăng tỷ lệ thông khí khoảng chết ở bệnh nhân đã ở giới hạn thông khí tối đa (ví dụ: đợt cấp nặng của
+
+COPD
+
+). Giảm oxy máu do giảm thông khí đáp ứng với thở oxy.
+
+Giảm PIO2
+
+là nguyên nhân không thường gặp cuối cùng của hạ oxy máu, trong hầu hết các trường hợp chỉ xảy ra ở độ cao lớn. Mặc dù FIO2 không thay đổi theo độ cao, áp suất không khí xung quanh giảm theo cấp số nhân; do đó, PiO2 cũng giảm. Ví dụ, PiO2 chỉ có 43 mm Hg ở đỉnh núi Mt. Everest (cao 8848 m [29.028 ft]). (Aa) DO2 vẫn bình thường. Giảm oxy của đường hô hấp làm tăng thông khí phế nang và làm giảm mức PaCO2. Loại giảm oxy máu này có đáp ứng với oxy bổ sung.
+
+Tăng CO2 máu và giảm CO2 máu
+
+Áp suất riêng phần của carbon dioxide (PCO2) thường được duy trì từ 35 mmHg đến 45 mm Hg. Một đường cong phân ly tương tự như oxy cũng tồn tại đối với carbon dioxide nhưng gần như tuyến tính trong phạm vi sinh lý của PaCO2. PCO2 bất thường hầu như luôn liên quan đến rối loạn thông khí (trừ khi xảy ra khi bù cho một bất thường chuyển hóa) và luôn liên quan đến sự thay đổi cân bằng axit-base.
+
+Tăng CO2 máu
+
+Tăng CO2 là PCO2
+
+>
+
+45 mm Hg. Nguyên nhân gây tăng CO2 máu cũng giống như nguyên nhân gây
+
+giảm thông khí
+
+(ví dụ: những bệnh lý làm giảm nhịp thở, thở nông hoặc tăng tỷ lệ thông khí khoảng chết ở bệnh nhân đã ở giới hạn thông khí tối đa). Bệnh lý làm tăng sản sinh CO2 (ví dụ:
+
+cường giáp
+
+, sốt) khi kết hợp với việc không có khả năng tăng thông khí cũng gây ra tình trạng tăng CO2 máu.
+
+Giảm CO2 máu
+
+Giảm CO2 máu là PCO2
+
+<
+
+35 mm Hg. Giảm CO2 máu luôn do tăng thông khí do các tình trạng liên quan đến
+
+Phổi (ví dụ:
+
+phù phổi
+
+,
+
+thuyên tắc mạch phổi)
+
+Tim (ví dụ:
+
+suy tim)
+
+Chuyển hóa (ví dụ:
+
+nhiễm toan
+
+)
+
+Thuốc (ví dụ: aspirin,
+
+progesterone)
+
+Hệ thần kinh trung ương (ví dụ: nhiễm trùng, khối u, chảy máu, tăng áp lực nội sọ)
+
+Các tình trạng sinh lý (ví dụ: đau, mang thai)
+
+Giảm CO2 máu được cho là trực tiếp làm tăng co thắt phế quản và hạ thấp ngưỡng thiếu máu não và thiếu máu cơ tim, có lẽ thông qua các ảnh hưởng của nó đối với tình trạng axit-base.
+
+Ngộ độc CO
+
+Carbon monoxide liên kết với hemoglobin với ái lực cao gấp 210 lần so với oxy và ngăn cản vận chuyển oxy. Về mặt lâm sàng, nồng độ carboxyhemoglobin độc hại thường là kết quả của việc phơi nhiễm với khói thải ra hoặc do hít phải khói, mặc dù những người hút thuốc có nồng độ carboxyhemoglobin có thể phát hiện được.
+
+Bệnh nhân
+
+ngộ độc carbon monoxide
+
+có thể có các triệu chứng không đặc hiệu như khó chịu, đau đầu và buồn nôn. Vì ngộ độc thường xảy ra trong những tháng có thời tiết lạnh (do dùng lò sưởi trong nhà với nhiên liệu dễ cháy), các triệu chứng có thể bị lẫn lộn với hội chứng nhiễm virus như cúm. Các bác sĩ lâm sàng phải cảnh giác với khả năng ngộ độc carbon monoxide và đo nồng độ carboxyhemoglobin khi có chỉ định. Carboxyhemoglobin có thể được đo trực tiếp từ máu tĩnh mạch - một mẫu máu động mạch là không cần thiết. Độ bão hòa oxy được xác định bằng phương pháp đo độ bão hòa oxy trong máu động mạch sẽ ở mức bình thường hoặc cao (vì phương pháp đo độ bão hòa oxy trong máu động mạch chuẩn không thể phân biệt giữa oxyhemoglobin và carboxyhemoglobin) và không thể sử dụng để sàng lọc ngộ độc carbon monoxide. Carboxyhemoglobin có thể được đo bằng đồng đo độ bão hòa oxy.
+
+Phương pháp điều trị là sử dụng oxy 100% (rút ngắn thời gian bán hủy của carboxyhemoglobin) và đôi khi sử dụng buồng cao áp.
+
+Ngọc trai & cạm bẫy
+
+Mức carboxyhemoglobin có thể được đo trực tiếp từ máu tĩnh mạch. Khí máu động mạch là không cần thiết.
+
+Methemoglobin máu
+
+Methemoglobin là hemoglobin trong đó sắt bị oxy hóa từ Fe2+ sang Fe3+. Methemoglobin không mang oxy và làm dịch chuyển đường cong phân ly oxyhemoglobin bình thường (xem hình
+
+Đường cong phân ly oxyhemoglobin
+
+) sang trái, do đó hạn chế giải phóng oxy đến các mô.
+
+Methemoglobin huyết là do một số loại thuốc (ví dụ: dapsone, thuốc gây tê cục bộ, nitrat, primaquine, sulfonamid) hoặc ít phổ biến hơn là do một số hóa chất (ví dụ: thuốc nhuộm anilin, dẫn xuất benzen) gây ra.
+
+Nồng độ methemoglobin có thể được đo trực tiếp bằng đồng đo độ bão hòa oxy (phát ra 4 bước sóng ánh sáng và có khả năng phát hiện methemoglobin, carboxyhemoglobin, hemoglobin và oxyhemoglobin). Độ bão hòa oxy đo bằng đo độ bão hòa oxy trong máu động mạch sẽ không chính xác khi có methemoglobin huyết.
+
+Bệnh nhân bị methemoglobin huyết thường bị tím tái nhất mà không có triệu chứng nào khác. Trong những trường hợp nặng, việc cung cấp oxy giảm đến mức có các triệu chứng thiếu oxy mô như lú lẫn, đau thắt ngực và đau cơ.
+
+Việc ngừng sử dụng thuốc gây bệnh hoặc ngừng phơi nhiễm với hóa chất thường là đủ hiệu quả. Hiếm khi, xanh methylene (chất khử; dung dịch 1% được truyền tĩnh mạch chậm từ 1 mg/kg đến 2 mg/kg) hoặc
+
+truyền máu thay thế
+
+.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Khả năng khuếch tán Carbon Monoxide ---
+
+Khả năng khuếch tán carbon monoxide (DLCO) của phổi là thước đo khả năng vận chuyển khí từ phế nang qua biểu mô phế nang và nội mô mao mạch đến hồng cầu. DLCO không chỉ phụ thuộc vào diện tích và độ dày của hàng rào khí-máu mà còn phụ thuộc vào thể tích máu trong mao mạch phổi. Sự phân bố thể tích phế nang và thông khí cũng ảnh hưởng đến phép đo.DLCO được đo bằng cách lấy mẫu khí thở ra cuối cùng để đo carbon monoxide (CO) sau khi bệnh nhân được hít một lượng nhỏ khí CO, nín thở và thở ra. DLCO đo được nên được điều chỉnh cho thể tích phế nang (được ước tính từ quá trìnhpha loãng helium) và hematocrit của bệnh nhân. DLCO được báo cáo dưới dạng mL/phút/mm Hg và dưới dạng phần trăm của giá trị dự đoán được biểu thị dưới dạng điểm z (1).Tình trạng làm giảm DLCOCác tình trạng chủ yếu ảnh hưởng đến mạch máu phổi, nhưtăng áp động mạch phổinguyên phát vàtắc mạch phổi, làm giảm DLCO. Các tình trạng ảnh hưởng đến thông khí phổi, nhưkhí phế thũngvàxơ phổi, giảm cả DLCO và thông khí phế nang (VA). Giảm DLCO cũng xảy ra ở những bệnh nhân bị cắt phổi trước đó vì tổng thể tích phổi nhỏ hơn, nhưng DLCO điều chỉnh hoặc thậm chí vượt quá mức bình thường khi điều chỉnh theo VAvì có sự tăng thêm diện tích bề mặt mạch máu được hổi phục trong phần phổi còn lại. Bệnh nhân thiếu máu có DLCO thấp hơn giá trị đúng khi điều chỉnh theo hemoglobin.Tinh trạng làm tăng DLCOCác điều kiện gây ra DLCO cao hơn dự đoán bao gồm:Suy timĐa hồng cầuXuất huyết phế nangHenDLCO tăng trong suy tim có lẽ là do áp lực tĩnh mạch và động mạch phổi tăng huy động thêm các vi mạch phổi.Trong bệnh đa hồng cầu, DLCO tăng do hematocrit tăng và sự tăng sinh mạch máu xảy ra do áp lực mạch phổi tăng vì độ nhớt tăng.Trong xuất huyết phế nang, hồng cầu trong phế nang cũng có thể liên kết với carbon monoxide, làm tăng DLCO.Trong bệnh hen, sự gia tăng DLCO được cho là do sự tăng sinh mạch; tuy nhiên, một số dữ liệu cho thấy nó cũng có thể là do yếu tố tăng trưởng đã kích thích quá trình tăng sinh mạch.Công cụ tính toán lâm sàngKhả năng khuếch tán carbon monoxide (DLCO) được điều chỉnh trong thiếu máuTài liệu tham khảo về DLCO1.Graham BL, Brusasco V, Burgos F, et al. 2017 ERS/ATS standards for single-breath carbon monoxide uptake in the lung [published correction appears inEur Respir Jngày 22 tháng 11 năm 2018;52(5):].Eur Respir J2017;49(1):1600016. doi:10.1183/13993003.00016-2016
+
+--- 2. Đo độ bão hòa oxy trong máu động mạch ---
+
+Đo độ bão hòa oxy trong máu động mạch qua da giúp ước lượng độ bão hòa oxy (SpO2) của máu mao mạch dựa trên sự hấp thụ ánh sáng từ các điốt phát sáng đặt tại đầu một ngón tay hoặc một đầu dò bám dính. Các ước tính nói chung là rất chính xác và tương quan trong vòng 5% độ bão hòa oxy máu động mạch đo được (SaO2). Kết quả có thể kém chính xác hơn ở bệnh nhân:Sắc tố da caoLoạn nhịp timHuyết áp thấpCo mạch hệ thống nhiềuKết quả đo độ bão hòa oxy trong máu động mạch cũng ít chính xác hơn ở bệnh nhân dùng sơn móng tay.Đo độ bão hòa oxy trong máu động mạch chỉ có thể phát hiện oxyhemoglobin hoặc giảm hemoglobin nhưng không phát hiện được các loại hemoglobin khác; tuy nhiên, nó không chính xác khi nồng độ carboxyhemoglobin trong máu tăng lên, như xảy ra trongngộ độc carbon monoxidevà methemoglobin huyết.
+
+--- 3. Kiểm tra khí máu động mạch (ABG) ---
+
+Lấy mẫu ABG được thực hiện để có được các phép đo chính xác về áp suất riêng phần của oxy động mạch (PaO2), áp suất riêng phần của carbon dioxide động mạch (PaCO2) và độ pH động mạch; các biến số này, được điều chỉnh theo nhiệt độ của bệnh nhân, cho phép tính toán nồng độ bicarbonate (cũng có thể được đo trực tiếp từ máu tĩnh mạch) và độ bão hòa oxy. Lấy khí máu động mạch cũng có thể đo chính xác carboxyhemoglobin và methemoglobin.Vị trí lấy máu thường tại động mạch quay. Bởi vì chọc kim vào động mạch trong một số ít trường hợp dẫn đến huyết khối và suy giảm tưới máu đến các mô ở xa, nên nghiệm pháp Allen có thể được thực hiện để đánh giá sự đầy đủ của tuần hoàn bàng hệ. Trong nghiệm pháp này, động mạch quay và trụ đồng thời bị ép cho đến khi tay bệnh nhân trở nên nhợt nhạt. Sau đó người ta bỏ ép động mạch trụ trong khi vẫn ép tại vị trí động mạch quay. Nếu toàn bộ bàn tay trở về màu cơ bản trong vòng 7 giây sau khi giải phóng xung trụ, điều đó cho thấy dòng máu chảy qua động mạch trụ là đủ.Trong điều kiện vô trùng, kim tiêm cỡ 22 đến 25 gauge được gắn vào một ống tiêm có trángheparinvà chọc vào gần vị trí mạch quay đập, từ từ đưa mũi kim một cách nhẹ nhàng vào động mạch cho đến khi có máu chảy vào bơm tiêm. Huyết áp tâm thu thường đủ để dòng máu đẩy ngược lại pitton của bơm tiêm. Sau khi lấy được từ 3 đến 5mL máu, nhanh chóng rút kim ra và ấn vào vị trí đâm để tạo giúp cầm máu. Đồng thời, mẫu khí máu động mạch được đặt trên đá lạnh để giảm lượng oxy tiêu thụ và giảm quá trình sản sinh carbon dioxide của bạch cầu và được gửi đến phòng thí nghiệm.Giảm oxy máuHạ oxy máu là tình trạng giảm áp suất riêng phần của oxy (PO2) trong máu động mạch.Hạ oxy máu là giảm PO2 trong mô.Khí máu động mạch đánh giá chính xác có thiếu oxy máu không, thường được định nghĩa là PaO2 đủ thấp để làm giảm SaO2 dưới 90% (tức là PaO2<60 mm Hg). Những bất thường về hemoglobin (ví dụ: methemoglobin), nhiệt độ cao hơn, độ pH thấp hơn và nồng độ 2,3-diphosphoglycerate cao hơn làm giảm hemoglobin SaO2 mặc dù có đủ PaO2, như đã biểu thị bằng đường cong phân ly oxyhemoglobin (xem hìnhĐường cong phân ly oxyhemoglobin).Đường cong phân ly oxyhemoglobinNồng độ oxyhemoglobin huyết tương liên quan đến PO2. Po2 ở độ bão hòa 50% (P50) thường là 27 mm Hg.Đường cong phân ly dịch sang bên phải bởi sự tăng ion hydro (H+), tăng hồng cầu, 2,3-diphosphoglycerate (DPG), tăng nhiệt độ (T) và tăng PCO2.Giảm H+, DPG, nhiệt độ và PCO2 làm thay đổi đường cong sang trái.Huyết sắc tố được đặc trưng bởi sự dịch chuyển sang phải của đường cong có ái lực với oxy giảm và huyết sắc tố được đặc trưng bởi sự dịch chuyển sang trái của đường cong có ái lực với oxy tăng lên.Nguyên nhân gây hạ oxy máu có thể được phân loại dựa trên việc chênh lệch PO2 phế nang-động mạch [(A-a)DO2], được định nghĩa là sự khác biệt giữa áp lực oxy phế nang (PAO2) và PaO2, tăng hay bình thường (xem bảngCông thức tính áp suất oxy phế nang và gradient oxy phế nang so với động mạch).Đối với bệnh nhân ở mực nước biển và không khí trong phòng thở, FIO2=0,21 và (A-a)DO2 có thể được đơn giản hóa.Giá trị (A-a)DO2 bình thường ước lượng<(2,5+[FIO2×tuổi] hoặc ít hơn giá trị tuyệt đối của FiO2 (ví dụ,<21 với khí phòng;<30 với FiO2 30%) điều chỉnh theo những tác dụng này.BảngPhương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạchBảngPhương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạchPhương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạchTính toán PAO2FIO2 là tỷ lệ oxy hít vào (ví dụ: 0,21 trong không khí trong phòng), Patm là áp suất khí quyển xung quanh (ví dụ: 760 mm Hg ở mực nước biển), PH2O là áp suất riêng phần của hơi nước (ví dụ: thường là 47 mm Hg ), PaCO2 là áp suất riêng phần đo được của carbon dioxide động mạch và R là thương số hô hấp, được giả định là 0,8 ở bệnh nhân đang nghỉ ngơi và ăn chế độ ăn bình thường.Đơn giản hóa gradient PO2 phế nang-động mạch (A-a)DO2(A-a)DO2 là gradient PO2 phế nang-động mạch. (A-a)DO2 thường là<20 nhưng tăng theo độ tuổi (do suy giảm chức năng phổi liên quan đến tuổi tác) và với sự gia tăng FIO2 (vì, mặc dù hemoglobin trở nên bão hòa 100% ở mức PaO2 khoảng 150 mm Hg, oxy vẫn hòa tan trong máu, và hàm lượng oxy trong huyết tương tiếp tục tăng khi FIO2 tăng).Công cụ tính toán lâm sàngA-a GradientGiảm oxy máu với (A-a) DO2 tăngGiảm oxy máu với (A-a) Do2 tăng là do:Tỷ lệ thông khí/tưới máu thấp (V/Q) (một dạng của V/Q không phù hợp)Shunt phải - tráiKhả năng khuếch tán giảm nặngTỷ lệ V/Q thấplà một trong những lý do phổ biến nhất gây ra tình trạng hạ oxy máu và góp phần gây ra tình trạng hạ oxy máu trong bệnh phổi tắc nghẽn mạn tính (COPD) vàhen suyễn. Trong phổi bình thường, tưới máu khu vực phù hợp chặt chẽ với thông khí tại khu vực đó vì sự co mạch máu xảy ra khi có thiếu oxy phế nang. Trong tình trạng bệnh lý, rối loạn điều hòa dẫn đến sự tưới máu mà các đơn vị phế nang đang nhận được ít hơn sự thông khí (V/Q không phù hợp). Do đó, máu tĩnh mạch hệ thống đi qua các mao mạch phổi mà không đạt được mức PaO2 bình thường. Sự không phù hợp V/Q cũng có thể xảy ra khi tăng lưu lượng máu ngay cả khi thông khí bình thường, như trong bệnh gan. Oxy bổ sung có thể làm giảm tình trạng thiếu oxy do tỷ lệ V/Q thấp bằng cách tăng PaO2, mặc dù sự tăng (A-a) DO2 vẫn tồn tại.Shunt phải - tráilà một ví dụ về tỷ lệ V/Q thấp. Khi có shunt, máu khử oxy từ động mạch phổi đi đến tim trái mà không đi qua các phần phổi có thông khí. Shunt có thể xảy ra thông qua nhu mô phổi, thông qua các đoạn nối bất thường giữa tuần hoàn động mạch phổi và tĩnh mạch, hoặc thông qua các lỗ thông bất thường trong tim (ví dụ: lỗ bầu dục). Hạ oxy máu do shunt từ phải sang trái không đáp ứng với oxy bổ sung.Khả năng khuếch tán kémhiếm khi xảy ra đơn độc; thông thường nó đi kèm với tỷ lệ V/Q thấp. Do oxy được bão hòa hoàn toàn hemoglobin chỉ sau một thời gian ngắn máu tiếp xúc với không khí trong phế nang, thiếu máu do suy giảm khả năng khuếch tán chỉ xảy ra khi cung lượng tim tăng lên (ví dụ như trong khi tập thể dục), khi áp suất không khí thấp (ví dụ: ở độ cao lớn) hoặc khi>50% nhu mô phổi bị phá hủy. Như với tỷ lệ V/Q thấp, (Aa)DO2 tăng lên nhưng PaO2 có thể tăng lên bằng cách tăng FiO2. Thiếu oxy máu do suy giảm khả năng khuếch tán thì có đáp ứng với oxy bổ sung.Giảm oxy máu với (A-a) DO2 bình thườngGiảm oxy máu với (A-a) DO2 bình thường là doGiảm thông khíGiảm phân áp oxy trong khí thở vào (PIO2)Giảm thông khí(giảm thông khí phế nang) làm giảm PAO2 và làm tăng PaCO2, do đó giảm PaO2. Trong trường hợp giảm thông khí đơn thuần, (A-a) DO2 bình thường. Nguyên nhân gây giảm thông khí bao gồm giảm nhịp thở hoặc thở nông (ví dụ: do bệnh lý thần kinh cơ,béo phì nặng, dùng thuốc quá liều hoặc bù chonhiễm kiềm chuyển hóa) hoặc tăng tỷ lệ thông khí khoảng chết ở bệnh nhân đã ở giới hạn thông khí tối đa (ví dụ: đợt cấp nặng củaCOPD). Giảm oxy máu do giảm thông khí đáp ứng với thở oxy.Giảm PIO2là nguyên nhân không thường gặp cuối cùng của hạ oxy máu, trong hầu hết các trường hợp chỉ xảy ra ở độ cao lớn. Mặc dù FIO2 không thay đổi theo độ cao, áp suất không khí xung quanh giảm theo cấp số nhân; do đó, PiO2 cũng giảm. Ví dụ, PiO2 chỉ có 43 mm Hg ở đỉnh núi Mt. Everest (cao 8848 m [29.028 ft]). (Aa) DO2 vẫn bình thường. Giảm oxy của đường hô hấp làm tăng thông khí phế nang và làm giảm mức PaCO2. Loại giảm oxy máu này có đáp ứng với oxy bổ sung.Tăng CO2 máu và giảm CO2 máuÁp suất riêng phần của carbon dioxide (PCO2) thường được duy trì từ 35 mmHg đến 45 mm Hg. Một đường cong phân ly tương tự như oxy cũng tồn tại đối với carbon dioxide nhưng gần như tuyến tính trong phạm vi sinh lý của PaCO2. PCO2 bất thường hầu như luôn liên quan đến rối loạn thông khí (trừ khi xảy ra khi bù cho một bất thường chuyển hóa) và luôn liên quan đến sự thay đổi cân bằng axit-base.Tăng CO2 máuTăng CO2 là PCO2>45 mm Hg. Nguyên nhân gây tăng CO2 máu cũng giống như nguyên nhân gâygiảm thông khí(ví dụ: những bệnh lý làm giảm nhịp thở, thở nông hoặc tăng tỷ lệ thông khí khoảng chết ở bệnh nhân đã ở giới hạn thông khí tối đa). Bệnh lý làm tăng sản sinh CO2 (ví dụ:cường giáp, sốt) khi kết hợp với việc không có khả năng tăng thông khí cũng gây ra tình trạng tăng CO2 máu.Giảm CO2 máuGiảm CO2 máu là PCO2<35 mm Hg. Giảm CO2 máu luôn do tăng thông khí do các tình trạng liên quan đếnPhổi (ví dụ:phù phổi,thuyên tắc mạch phổi)Tim (ví dụ:suy tim)Chuyển hóa (ví dụ:nhiễm toan)Thuốc (ví dụ: aspirin,progesterone)Hệ thần kinh trung ương (ví dụ: nhiễm trùng, khối u, chảy máu, tăng áp lực nội sọ)Các tình trạng sinh lý (ví dụ: đau, mang thai)Giảm CO2 máu được cho là trực tiếp làm tăng co thắt phế quản và hạ thấp ngưỡng thiếu máu não và thiếu máu cơ tim, có lẽ thông qua các ảnh hưởng của nó đối với tình trạng axit-base.Ngộ độc COCarbon monoxide liên kết với hemoglobin với ái lực cao gấp 210 lần so với oxy và ngăn cản vận chuyển oxy. Về mặt lâm sàng, nồng độ carboxyhemoglobin độc hại thường là kết quả của việc phơi nhiễm với khói thải ra hoặc do hít phải khói, mặc dù những người hút thuốc có nồng độ carboxyhemoglobin có thể phát hiện được.Bệnh nhânngộ độc carbon monoxidecó thể có các triệu chứng không đặc hiệu như khó chịu, đau đầu và buồn nôn. Vì ngộ độc thường xảy ra trong những tháng có thời tiết lạnh (do dùng lò sưởi trong nhà với nhiên liệu dễ cháy), các triệu chứng có thể bị lẫn lộn với hội chứng nhiễm virus như cúm. Các bác sĩ lâm sàng phải cảnh giác với khả năng ngộ độc carbon monoxide và đo nồng độ carboxyhemoglobin khi có chỉ định. Carboxyhemoglobin có thể được đo trực tiếp từ máu tĩnh mạch - một mẫu máu động mạch là không cần thiết. Độ bão hòa oxy được xác định bằng phương pháp đo độ bão hòa oxy trong máu động mạch sẽ ở mức bình thường hoặc cao (vì phương pháp đo độ bão hòa oxy trong máu động mạch chuẩn không thể phân biệt giữa oxyhemoglobin và carboxyhemoglobin) và không thể sử dụng để sàng lọc ngộ độc carbon monoxide. Carboxyhemoglobin có thể được đo bằng đồng đo độ bão hòa oxy.Phương pháp điều trị là sử dụng oxy 100% (rút ngắn thời gian bán hủy của carboxyhemoglobin) và đôi khi sử dụng buồng cao áp.Ngọc trai & cạm bẫyMức carboxyhemoglobin có thể được đo trực tiếp từ máu tĩnh mạch. Khí máu động mạch là không cần thiết.Methemoglobin máuMethemoglobin là hemoglobin trong đó sắt bị oxy hóa từ Fe2+ sang Fe3+. Methemoglobin không mang oxy và làm dịch chuyển đường cong phân ly oxyhemoglobin bình thường (xem hìnhĐường cong phân ly oxyhemoglobin) sang trái, do đó hạn chế giải phóng oxy đến các mô.Methemoglobin huyết là do một số loại thuốc (ví dụ: dapsone, thuốc gây tê cục bộ, nitrat, primaquine, sulfonamid) hoặc ít phổ biến hơn là do một số hóa chất (ví dụ: thuốc nhuộm anilin, dẫn xuất benzen) gây ra.Nồng độ methemoglobin có thể được đo trực tiếp bằng đồng đo độ bão hòa oxy (phát ra 4 bước sóng ánh sáng và có khả năng phát hiện methemoglobin, carboxyhemoglobin, hemoglobin và oxyhemoglobin). Độ bão hòa oxy đo bằng đo độ bão hòa oxy trong máu động mạch sẽ không chính xác khi có methemoglobin huyết.Bệnh nhân bị methemoglobin huyết thường bị tím tái nhất mà không có triệu chứng nào khác. Trong những trường hợp nặng, việc cung cấp oxy giảm đến mức có các triệu chứng thiếu oxy mô như lú lẫn, đau thắt ngực và đau cơ.Việc ngừng sử dụng thuốc gây bệnh hoặc ngừng phơi nhiễm với hóa chất thường là đủ hiệu quả. Hiếm khi, xanh methylene (chất khử; dung dịch 1% được truyền tĩnh mạch chậm từ 1 mg/kg đến 2 mg/kg) hoặctruyền máu thay thế.
+
+--- 4. Giảm oxy máu ---
+
+Hạ oxy máu là tình trạng giảm áp suất riêng phần của oxy (PO2) trong máu động mạch.Hạ oxy máu là giảm PO2 trong mô.Khí máu động mạch đánh giá chính xác có thiếu oxy máu không, thường được định nghĩa là PaO2 đủ thấp để làm giảm SaO2 dưới 90% (tức là PaO2<60 mm Hg). Những bất thường về hemoglobin (ví dụ: methemoglobin), nhiệt độ cao hơn, độ pH thấp hơn và nồng độ 2,3-diphosphoglycerate cao hơn làm giảm hemoglobin SaO2 mặc dù có đủ PaO2, như đã biểu thị bằng đường cong phân ly oxyhemoglobin (xem hìnhĐường cong phân ly oxyhemoglobin).Đường cong phân ly oxyhemoglobinNồng độ oxyhemoglobin huyết tương liên quan đến PO2. Po2 ở độ bão hòa 50% (P50) thường là 27 mm Hg.Đường cong phân ly dịch sang bên phải bởi sự tăng ion hydro (H+), tăng hồng cầu, 2,3-diphosphoglycerate (DPG), tăng nhiệt độ (T) và tăng PCO2.Giảm H+, DPG, nhiệt độ và PCO2 làm thay đổi đường cong sang trái.Huyết sắc tố được đặc trưng bởi sự dịch chuyển sang phải của đường cong có ái lực với oxy giảm và huyết sắc tố được đặc trưng bởi sự dịch chuyển sang trái của đường cong có ái lực với oxy tăng lên.Nguyên nhân gây hạ oxy máu có thể được phân loại dựa trên việc chênh lệch PO2 phế nang-động mạch [(A-a)DO2], được định nghĩa là sự khác biệt giữa áp lực oxy phế nang (PAO2) và PaO2, tăng hay bình thường (xem bảngCông thức tính áp suất oxy phế nang và gradient oxy phế nang so với động mạch).Đối với bệnh nhân ở mực nước biển và không khí trong phòng thở, FIO2=0,21 và (A-a)DO2 có thể được đơn giản hóa.Giá trị (A-a)DO2 bình thường ước lượng<(2,5+[FIO2×tuổi] hoặc ít hơn giá trị tuyệt đối của FiO2 (ví dụ,<21 với khí phòng;<30 với FiO2 30%) điều chỉnh theo những tác dụng này.BảngPhương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạchBảngPhương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạchPhương trình tính áp suất oxy phế nang và gradient oxy phế nang so với động mạchTính toán PAO2FIO2 là tỷ lệ oxy hít vào (ví dụ: 0,21 trong không khí trong phòng), Patm là áp suất khí quyển xung quanh (ví dụ: 760 mm Hg ở mực nước biển), PH2O là áp suất riêng phần của hơi nước (ví dụ: thường là 47 mm Hg ), PaCO2 là áp suất riêng phần đo được của carbon dioxide động mạch và R là thương số hô hấp, được giả định là 0,8 ở bệnh nhân đang nghỉ ngơi và ăn chế độ ăn bình thường.Đơn giản hóa gradient PO2 phế nang-động mạch (A-a)DO2(A-a)DO2 là gradient PO2 phế nang-động mạch. (A-a)DO2 thường là<20 nhưng tăng theo độ tuổi (do suy giảm chức năng phổi liên quan đến tuổi tác) và với sự gia tăng FIO2 (vì, mặc dù hemoglobin trở nên bão hòa 100% ở mức PaO2 khoảng 150 mm Hg, oxy vẫn hòa tan trong máu, và hàm lượng oxy trong huyết tương tiếp tục tăng khi FIO2 tăng).Công cụ tính toán lâm sàngA-a GradientGiảm oxy máu với (A-a) DO2 tăngGiảm oxy máu với (A-a) Do2 tăng là do:Tỷ lệ thông khí/tưới máu thấp (V/Q) (một dạng của V/Q không phù hợp)Shunt phải - tráiKhả năng khuếch tán giảm nặngTỷ lệ V/Q thấplà một trong những lý do phổ biến nhất gây ra tình trạng hạ oxy máu và góp phần gây ra tình trạng hạ oxy máu trong bệnh phổi tắc nghẽn mạn tính (COPD) vàhen suyễn. Trong phổi bình thường, tưới máu khu vực phù hợp chặt chẽ với thông khí tại khu vực đó vì sự co mạch máu xảy ra khi có thiếu oxy phế nang. Trong tình trạng bệnh lý, rối loạn điều hòa dẫn đến sự tưới máu mà các đơn vị phế nang đang nhận được ít hơn sự thông khí (V/Q không phù hợp). Do đó, máu tĩnh mạch hệ thống đi qua các mao mạch phổi mà không đạt được mức PaO2 bình thường. Sự không phù hợp V/Q cũng có thể xảy ra khi tăng lưu lượng máu ngay cả khi thông khí bình thường, như trong bệnh gan. Oxy bổ sung có thể làm giảm tình trạng thiếu oxy do tỷ lệ V/Q thấp bằng cách tăng PaO2, mặc dù sự tăng (A-a) DO2 vẫn tồn tại.Shunt phải - tráilà một ví dụ về tỷ lệ V/Q thấp. Khi có shunt, máu khử oxy từ động mạch phổi đi đến tim trái mà không đi qua các phần phổi có thông khí. Shunt có thể xảy ra thông qua nhu mô phổi, thông qua các đoạn nối bất thường giữa tuần hoàn động mạch phổi và tĩnh mạch, hoặc thông qua các lỗ thông bất thường trong tim (ví dụ: lỗ bầu dục). Hạ oxy máu do shunt từ phải sang trái không đáp ứng với oxy bổ sung.Khả năng khuếch tán kémhiếm khi xảy ra đơn độc; thông thường nó đi kèm với tỷ lệ V/Q thấp. Do oxy được bão hòa hoàn toàn hemoglobin chỉ sau một thời gian ngắn máu tiếp xúc với không khí trong phế nang, thiếu máu do suy giảm khả năng khuếch tán chỉ xảy ra khi cung lượng tim tăng lên (ví dụ như trong khi tập thể dục), khi áp suất không khí thấp (ví dụ: ở độ cao lớn) hoặc khi>50% nhu mô phổi bị phá hủy. Như với tỷ lệ V/Q thấp, (Aa)DO2 tăng lên nhưng PaO2 có thể tăng lên bằng cách tăng FiO2. Thiếu oxy máu do suy giảm khả năng khuếch tán thì có đáp ứng với oxy bổ sung.Giảm oxy máu với (A-a) DO2 bình thườngGiảm oxy máu với (A-a) DO2 bình thường là doGiảm thông khíGiảm phân áp oxy trong khí thở vào (PIO2)Giảm thông khí(giảm thông khí phế nang) làm giảm PAO2 và làm tăng PaCO2, do đó giảm PaO2. Trong trường hợp giảm thông khí đơn thuần, (A-a) DO2 bình thường. Nguyên nhân gây giảm thông khí bao gồm giảm nhịp thở hoặc thở nông (ví dụ: do bệnh lý thần kinh cơ,béo phì nặng, dùng thuốc quá liều hoặc bù chonhiễm kiềm chuyển hóa) hoặc tăng tỷ lệ thông khí khoảng chết ở bệnh nhân đã ở giới hạn thông khí tối đa (ví dụ: đợt cấp nặng củaCOPD). Giảm oxy máu do giảm thông khí đáp ứng với thở oxy.Giảm PIO2là nguyên nhân không thường gặp cuối cùng của hạ oxy máu, trong hầu hết các trường hợp chỉ xảy ra ở độ cao lớn. Mặc dù FIO2 không thay đổi theo độ cao, áp suất không khí xung quanh giảm theo cấp số nhân; do đó, PiO2 cũng giảm. Ví dụ, PiO2 chỉ có 43 mm Hg ở đỉnh núi Mt. Everest (cao 8848 m [29.028 ft]). (Aa) DO2 vẫn bình thường. Giảm oxy của đường hô hấp làm tăng thông khí phế nang và làm giảm mức PaCO2. Loại giảm oxy máu này có đáp ứng với oxy bổ sung.
+
+--- 5. Tăng CO2 máu và giảm CO2 máu ---
+
+Áp suất riêng phần của carbon dioxide (PCO2) thường được duy trì từ 35 mmHg đến 45 mm Hg. Một đường cong phân ly tương tự như oxy cũng tồn tại đối với carbon dioxide nhưng gần như tuyến tính trong phạm vi sinh lý của PaCO2. PCO2 bất thường hầu như luôn liên quan đến rối loạn thông khí (trừ khi xảy ra khi bù cho một bất thường chuyển hóa) và luôn liên quan đến sự thay đổi cân bằng axit-base.Tăng CO2 máuTăng CO2 là PCO2>45 mm Hg. Nguyên nhân gây tăng CO2 máu cũng giống như nguyên nhân gâygiảm thông khí(ví dụ: những bệnh lý làm giảm nhịp thở, thở nông hoặc tăng tỷ lệ thông khí khoảng chết ở bệnh nhân đã ở giới hạn thông khí tối đa). Bệnh lý làm tăng sản sinh CO2 (ví dụ:cường giáp, sốt) khi kết hợp với việc không có khả năng tăng thông khí cũng gây ra tình trạng tăng CO2 máu.Giảm CO2 máuGiảm CO2 máu là PCO2<35 mm Hg. Giảm CO2 máu luôn do tăng thông khí do các tình trạng liên quan đếnPhổi (ví dụ:phù phổi,thuyên tắc mạch phổi)Tim (ví dụ:suy tim)Chuyển hóa (ví dụ:nhiễm toan)Thuốc (ví dụ: aspirin,progesterone)Hệ thần kinh trung ương (ví dụ: nhiễm trùng, khối u, chảy máu, tăng áp lực nội sọ)Các tình trạng sinh lý (ví dụ: đau, mang thai)Giảm CO2 máu được cho là trực tiếp làm tăng co thắt phế quản và hạ thấp ngưỡng thiếu máu não và thiếu máu cơ tim, có lẽ thông qua các ảnh hưởng của nó đối với tình trạng axit-base.
+
+--- 6. Ngộ độc CO ---
+
+Carbon monoxide liên kết với hemoglobin với ái lực cao gấp 210 lần so với oxy và ngăn cản vận chuyển oxy. Về mặt lâm sàng, nồng độ carboxyhemoglobin độc hại thường là kết quả của việc phơi nhiễm với khói thải ra hoặc do hít phải khói, mặc dù những người hút thuốc có nồng độ carboxyhemoglobin có thể phát hiện được.Bệnh nhânngộ độc carbon monoxidecó thể có các triệu chứng không đặc hiệu như khó chịu, đau đầu và buồn nôn. Vì ngộ độc thường xảy ra trong những tháng có thời tiết lạnh (do dùng lò sưởi trong nhà với nhiên liệu dễ cháy), các triệu chứng có thể bị lẫn lộn với hội chứng nhiễm virus như cúm. Các bác sĩ lâm sàng phải cảnh giác với khả năng ngộ độc carbon monoxide và đo nồng độ carboxyhemoglobin khi có chỉ định. Carboxyhemoglobin có thể được đo trực tiếp từ máu tĩnh mạch - một mẫu máu động mạch là không cần thiết. Độ bão hòa oxy được xác định bằng phương pháp đo độ bão hòa oxy trong máu động mạch sẽ ở mức bình thường hoặc cao (vì phương pháp đo độ bão hòa oxy trong máu động mạch chuẩn không thể phân biệt giữa oxyhemoglobin và carboxyhemoglobin) và không thể sử dụng để sàng lọc ngộ độc carbon monoxide. Carboxyhemoglobin có thể được đo bằng đồng đo độ bão hòa oxy.Phương pháp điều trị là sử dụng oxy 100% (rút ngắn thời gian bán hủy của carboxyhemoglobin) và đôi khi sử dụng buồng cao áp.Ngọc trai & cạm bẫyMức carboxyhemoglobin có thể được đo trực tiếp từ máu tĩnh mạch. Khí máu động mạch là không cần thiết.
+
+--- 7. Methemoglobin máu ---
+
+Methemoglobin là hemoglobin trong đó sắt bị oxy hóa từ Fe2+ sang Fe3+. Methemoglobin không mang oxy và làm dịch chuyển đường cong phân ly oxyhemoglobin bình thường (xem hìnhĐường cong phân ly oxyhemoglobin) sang trái, do đó hạn chế giải phóng oxy đến các mô.Methemoglobin huyết là do một số loại thuốc (ví dụ: dapsone, thuốc gây tê cục bộ, nitrat, primaquine, sulfonamid) hoặc ít phổ biến hơn là do một số hóa chất (ví dụ: thuốc nhuộm anilin, dẫn xuất benzen) gây ra.Nồng độ methemoglobin có thể được đo trực tiếp bằng đồng đo độ bão hòa oxy (phát ra 4 bước sóng ánh sáng và có khả năng phát hiện methemoglobin, carboxyhemoglobin, hemoglobin và oxyhemoglobin). Độ bão hòa oxy đo bằng đo độ bão hòa oxy trong máu động mạch sẽ không chính xác khi có methemoglobin huyết.Bệnh nhân bị methemoglobin huyết thường bị tím tái nhất mà không có triệu chứng nào khác. Trong những trường hợp nặng, việc cung cấp oxy giảm đến mức có các triệu chứng thiếu oxy mô như lú lẫn, đau thắt ngực và đau cơ.Việc ngừng sử dụng thuốc gây bệnh hoặc ngừng phơi nhiễm với hóa chất thường là đủ hiệu quả. Hiếm khi, xanh methylene (chất khử; dung dịch 1% được truyền tĩnh mạch chậm từ 1 mg/kg đến 2 mg/kg) hoặctruyền máu thay thế.

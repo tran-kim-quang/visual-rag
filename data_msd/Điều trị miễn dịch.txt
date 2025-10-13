@@ -1,0 +1,1394 @@
+TIÊU ĐỀ: Điều trị miễn dịch
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/sinh-học-của-hệ-miễn-dịch/điều-trị-miễn-dịch
+================================================================================
+
+NỘI DUNG:
+
+Điều trị miễn dịch
+
+Theo
+
+Peter J. Delves
+
+,
+
+PhD
+
+,
+
+University College London, London, UK
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 2 2024
+
+|
+
+đã sửa đổi
+
+Thg 3 2024
+
+v992805_vi
+
+Các tác nhân liệu pháp miễn dịch sử dụng hoặc thay đổi
+
+cơ chế miễn dịch
+
+. Việc sử dụng các thuốc này đang phát triển nhanh chóng; các loại mới, thuốc mới và cách sử dụng mới của các loại thuốc hiện tại đang tiếp tục được phát triển. Một số lớp khác nhau của các tác nhân miễn dịch điều trị đã được phát triển (xem thêm bảng:
+
+Một số tác nhân miễn dịch trong sử dụng lâm sàng
+
+):
+
+Kháng thể đơn dòng
+
+Protein tổng hợp
+
+Các thụ thể cytokine hoà tan
+
+Cytokine tái tổ hợp
+
+Các phân tử nhỏ
+
+Liệu pháp tế bào
+
+Bảng
+
+Một số tác nhân điều trị miễn dịch trong sử dụng lâm sàng
+
+Bảng
+
+Một số tác nhân điều trị miễn dịch trong sử dụng lâm sàng
+
+Một số tác nhân điều trị miễn dịch trong sử dụng lâm sàng
+
+Thuốc
+
+Những ảnh hưởng
+
+Một số chỉ định*
+
+Kháng thể đơn dòng†
+
+Abciximab
+
+Thụ thể kháng glycoprotein IIb/IIIa của tiểu cầu
+
+Phòng ngừa biến chứng thiếu máu cơ tim ở bệnh nhân được can thiệp mạch vành qua da hoặc ở bệnh nhân có nguy cơ cao bị
+
+hội chứng mạch vành cấp tính
+
+Adalimumab
+
+Kháng TNF-alpha
+
+Viêm cột sống dính khớp
+
+Bệnh Crohn
+
+Viêm tuyến mồ hôi mủ
+
+Viêm đa khớp vô căn ở trẻ vị thành niên
+
+Viêm khớp dạng thấp
+
+Viêm loét đại tràng
+
+Viêm màng bồ đào
+
+không nhiễm trùng
+
+Bệnh vẩy nến
+
+thể mảng bám mạn tính
+
+Bệnh viêm khớp vẩy nến
+
+Alemtuzumab
+
+Kháng tế bào B (CD52)
+
+CLL
+
+tế bào B
+
+Tái phát
+
+bệnh đa xơ cứng
+
+Alirocumab
+
+Kháng proprotein convertase subtilisin kexin type 9
+
+Giảm LDL cholesterol, như là một sự bổ sung cho chế độ ăn và statin, ở người lớn
+
+tăng cholesterol máu tính chất gia đình dị hợp tử
+
+hoặc
+
+bệnh xơ vữa động mạch
+
+Atezolizumab
+
+Kháng PD-L1
+
+Ung thư biểu mô tế bào chuyển tiếp (biểu mô đường tiết niệu)
+
+NSCLC
+
+Ung thư phổi tế bào nhỏ
+
+Ung thư vú
+
+có bộ ba xét nghiệm âm tính
+
+Ung thư biểu mô tế bào gan
+
+Ung thư tế bào hắc tố
+
+dương tính với đột biến
+
+BRAF V600
+
+Sarcoma phần mềm phế nang
+
+Avelumab
+
+Kháng PD-L1
+
+Ung thư biểu mô tế bào Merkel
+
+Ung thư tế bào thận
+
+Ung thư biểu mô đường niệu
+
+Basiliximab
+
+Thụ thể kháng IL-2
+
+Cấy ghép thận
+
+Belimumab
+
+Protein kích thích kháng tế bào lympho B (kháng BLyS)
+
+Lupus ban đỏ toàn thân
+
+Benralizumab
+
+Thụ thể alpha kháng IL-5
+
+Hen suyễn
+
+do tăng bạch cầu ái toan
+
+Bevacizumab
+
+Kháng VEGF-A
+
+Ung thư biểu mô buồng trứng, ung thư
+
+vòi trứng
+
+hoặc ung thư phúc mạc nguyên phát
+
+U nguyên bào thần kinh đệm
+
+Ung thư đại trực tràng
+
+Ung thư vú HER2 âm tính
+
+Ung thư tế bào thận
+
+Ung thư cổ tử cung
+
+NSCLC
+
+không vảy
+
+Bezlotoxumab
+
+Kháng
+
+Clostridioides (formerly, Clostridium) difficile
+
+độc tố B
+
+Nhiễm
+
+C. difficile
+
+Blinatumomab
+
+Cụ thể: Kháng CD19 và kháng CD3c
+
+ALL
+
+tiền thân tế bào B
+
+Brentuximab vedotin
+
+Kháng CD30 (liên kết với chất chống phân bào monomethyl auristatin E)
+
+U lympho Hodgkin
+
+ALCL hoặc u lympho tế bào T biểu hiện CD30 khác
+
+Brodalumab
+
+Thụ thể kháng IL-17
+
+Bệnh vẩy nến thể mảng
+
+Brolucizumab
+
+Kháng VEGF-A
+
+Phù hoàng điểm do đái tháo đường
+
+Thoái hóa hoàng điểm tuổi già
+
+thể tân mạch (ướt)
+
+Burosumab
+
+Yếu tố tăng trưởng chống xơ hóa 23
+
+Giảm phosphat máu liên kết nhiễm sắc thể giới tính X
+
+Canakinumab
+
+Kháng IL-1 beta
+
+Bệnh viêm khớp tự phát thiếu niên
+
+Bệnh Gút
+
+Hội chứng sốt chu kỳ:
+
+Hội chứng chu kỳ liên quan đến cryopyrin
+
+Hội chứng sốt chu kỳ liên quan đến thụ thể TNF
+
+Hội chứng tăng globulin miễn dịch D
+
+(thiếu mevalonate kinase)
+
+Sốt Địa Trung Hải có tính chất gia đình
+
+Caplacizumab
+
+Yếu tố kháng von Willebrand
+
+Ban xuất huyết giảm tiểu cầu huyết khối
+
+mắc phải
+
+Cemiplimab
+
+Kháng PD-1
+
+Ung thư biểu mô tế bào vảy ở da
+
+Ung thư biểu mô tế bào đáy
+
+NSCLC
+
+Certolizumab (mảnh pegylated Fab)
+
+Kháng TNF-alpha
+
+Viêm cột sống dính khớp
+
+Bệnh Crohn
+
+Bệnh vẩy nến thể mảng
+
+Viêm khớp dạng thấp
+
+Bệnh viêm khớp vẩy nến
+
+Viêm cột sống dính khớp trục
+
+không chụp X-quang
+
+Cetuximab
+
+Kháng EGFR
+
+HNSCC
+
+Ung thư đại trực tràng
+
+Crientylizumab
+
+Kháng P-selectin
+
+Bệnh hồng cầu hình liềm
+
+Daratumumab
+
+Kháng CD38
+
+Đa u tủy xương
+
+Denosumab
+
+Kháng RANKL
+
+U tế bào khổng lồ
+
+của xương
+
+Tăng canxi máu trong bệnh ác tính
+
+Loãng xương
+
+Đề phòng các biến chứng tại xương (ví dụ, gãy xương, đau xương) ở bệnh nhân
+
+đa u tủy xương
+
+di căn xương
+
+từ khối u đặc
+
+Để tăng khối lượng xương ở nam giới được điều trị bằng liệu pháp thiếu hụt androgen cho
+
+bệnh ung thư tuyến tiền liệt
+
+và ở nữ giới được điều trị bằng thuốc ức chế aromatase bổ trợ cho
+
+bệnh ung thư vú
+
+Dinutuximab
+
+Glycolipid kháng GD2
+
+U nguyên bào thần kinh
+
+ở trẻ em
+
+Dupilumab
+
+Thụ thể alpha kháng IL-4
+
+Viêm da cơ địa
+
+Hen suyễn do cơ địa dị ứng
+
+Viêm mũi xoang
+
+mạn tính có
+
+bệnh polyp mũi
+
+Viêm thực quản tăng bạch cầu ái toan
+
+Ngứa dạng nốt
+
+Durvalumab
+
+Kháng PD-L1
+
+Ung thư biểu mô đường niệu
+
+NSCLC
+
+Ung thư phổi tế bào nhỏ
+
+Eculizumab
+
+Thành phần chống lại bổ thế C5
+
+Hội chứng đái máu tan huyết
+
+không điển hình
+
+Đái huyết sắc tố kịch phát ban đêm
+
+Elotuzumab
+
+Kháng SLAMF7
+
+Đa u tủy xương
+
+Emapalumab
+
+Anti IFN-gamma
+
+Hội chứng thực bào máu
+
+(HLH)
+
+Emicizumab
+
+Kháng yếu tố IXa và kháng
+
+yếu tố X
+
+đặc hiệu kép
+
+Phòng ngừa hoặc giảm các đợt chảy máu ở bệnh nhân mắc
+
+bệnh Hemophilia A
+
+Enfortumab vedotin
+
+Kháng Nectin-4 (liên kết với chất chống phân bào monomethyl auristatin E)
+
+Ung thư biểu mô tiết niệu
+
+Erenumab
+
+Kháng
+
+calcitonin
+
+thụ thể liên quan đến gen
+
+Phòng ngừa
+
+đau nửa đầu
+
+Evolocumab
+
+Kháng proprotein convertase subtilisin kexin type 9
+
+Giảm nguy cơ tim mạch ở bệnh nhân
+
+bệnh động mạch vành
+
+Làm giảm LDL-cholesterol trong
+
+tăng cholesterol máu mang tính gia đình
+
+hoặc
+
+bệnh tim mạch do xơ vữa động mạch
+
+Fremanezumab
+
+Kháng
+
+calcitonin
+
+thụ thể liên quan đến gen
+
+Phòng ngừa
+
+đau nửa đầu
+
+Galcanezumab
+
+Kháng
+
+calcitonin
+
+thụ thể liên quan đến gen
+
+Phòng ngừa
+
+đau nửa đầu
+
+Gemtuzumab
+
+Kháng liên hợp CD33-ozogamicin
+
+Bệnh bạch cầu cấp dòng tủy
+
+CD33+
+
+Golimumab
+
+Kháng TNF-alpha
+
+Viêm khớp dạng thấp
+
+Bệnh viêm khớp vẩy nến
+
+Viêm cột sống dính khớp
+
+Viêm loét đại tràng
+
+Guselkumab
+
+Kháng IL-23
+
+Bệnh vẩy nến thể mảng
+
+Bệnh viêm khớp vẩy nến
+
+Ibalizumab
+
+Kháng CD4
+
+Nhiễm vi rút suy giảm miễn dịch ở người (HIV) típ 1
+
+Ibritumomab tiuxetan
+
+Kháng CD20, liên kết với chất phóng xạ yttrium 90)
+
+U lympho không Hodgkin
+
+tế bào B
+
+Idarucizumab
+
+Kháng
+
+dabigatran
+
+Đảo ngược tác dụng chống đông máu của dabigatran khi cần thiết cho phẫu thuật cấp cứu/thủ thuật khẩn cấp hoặc trong trường hợp chảy máu đe dọa tính mạng hoặc chảy máu không kiểm soát được
+
+Infliximab
+
+Kháng TNF-alpha
+
+Bệnh Crohn
+
+hoặc
+
+viêm đại tràng thể loét
+
+Viêm khớp dạng thấp
+
+Viêm cột sống dính khớp
+
+Bệnh viêm khớp vẩy nến
+
+Bệnh vẩy nến thể mảng
+
+Inotuzumab
+
+Kháng liên hợp CD22-ozogamicin
+
+ALL
+
+tiền thân tế bào B
+
+Ipilimumab
+
+Kháng CTLA-4
+
+Ung thư tế bào hắc tố
+
+Ung thư tế bào thận
+
+Ung thư đại trực tràng
+
+Isatuximab
+
+Kháng CD38
+
+Đa u tủy xương
+
+Ixekizumab
+
+Kháng IL17A
+
+Bệnh vẩy nến thể mảng
+
+Bệnh viêm khớp vẩy nến
+
+Viêm cột sống dính khớp
+
+Lanarfumab
+
+Kháng huyết tương kallikrein
+
+Phù mạch di truyền
+
+Mepolizumab
+
+Kháng IL-5
+
+Hen suyễn
+
+do tăng bạch cầu ái toan
+
+Viêm mũi xoang mạn tính có polyp mũi
+
+U hạt tế bào ưa axit với viêm đa mạch (EGPA)
+
+Hội chứng tăng bạch cầu ưa axit
+
+Mogamulizumab
+
+Kháng CCR4
+
+U sùi thể nấm
+
+Hội chứng Sezary
+
+Moxetumomab
+
+Kháng CD22 liên kết với dạng rút gọn của
+
+Pseudomonas
+
+ngoại độc tố PE38
+
+Bệnh bạch cầu tế bào tóc
+
+Natalizumab
+
+Tiểu đơn vị integrin kháng alpha-4
+
+Đa xơ cứng
+
+Bệnh Crohn
+
+Necitumumab
+
+EGFR1
+
+NSCLC
+
+vảy
+
+Nivolumab
+
+Kháng PD-1
+
+Ung thư tế bào hắc tố
+
+NSCLC
+
+U trung biểu mô
+
+Ung thư tế bào thận
+
+U lympho Hodgkin
+
+HNSCC
+
+Ung thư biểu mô đường niệu
+
+Ung thư đại trực tràng
+
+Ung thư biểu mô tế bào gan
+
+Ung thư thực quản
+
+và ung thư dạ dày-thực quản
+
+Ung thư dạ dày
+
+Obiltoxaximab
+
+Kháng nguyên chống bảo vệ của
+
+Bacillus anthracis
+
+Bệnh than
+
+thể hô hấp (sử dụng với kháng sinh)
+
+Obinutuzumab
+
+Kháng CD20
+
+U lympho
+
+thể nang
+
+CLL
+
+Ocrelizumab
+
+Kháng CD20
+
+Đa xơ cứng
+
+Ofatumumab
+
+Kháng CD20
+
+CLL
+
+Omalizumab
+
+Kháng IgE
+
+Hen
+
+Mày đay
+
+Palivizumab
+
+Kháng virus hợp bào đường hô hấp (RSV) protein F
+
+Phòng ngừa
+
+bệnh RSV
+
+nghiêm trọng ở đường hô hấp dưới
+
+Panitumumab
+
+Kháng EGFR
+
+Ung thư đại trực tràng
+
+Pembrolizumab
+
+Kháng PD-1
+
+Ung thư tế bào hắc tố
+
+NSCLC
+
+Ung thư phổi tế bào nhỏ
+
+HNSCC
+
+U lympho Hodgkin
+
+U lympho tế bào B
+
+Ung thư biểu mô đường niệu
+
+Ung thư đại trực tràng
+
+Ung thư biểu mô tuyến
+
+dạ dày
+
+hoặc ở vùng tiếp nối dạ dày-thực quản
+
+Ung thư biểu mô tế bào vảy thực quản
+
+Ung thư cổ tử cung
+
+Ung thư biểu mô tế bào gan
+
+Ung thư biểu mô tế bào Merkel
+
+Ung thư tế bào thận
+
+Ung thư nội mạc tử cung
+
+Pertuzumab
+
+Kháng HER2
+
+Ung thư vú
+
+Polatuzumab
+
+Kháng CD79b
+
+U lympho tế bào B
+
+Ramucirumab
+
+Kháng VEGFR-2
+
+Ung thư đại trực tràng
+
+NSCLC
+
+Ung thư biểu mô tuyến
+
+dạ dày
+
+hoặc ở vùng tiếp nối dạ dày-thực quản
+
+Ung thư biểu mô tế bào gan
+
+Ranibizumab
+
+Kháng VEGF
+
+Thoái hóa hoàng điểm tuổi già
+
+thể tân mạch (ướt)
+
+Chấm phù sau
+
+tắc tĩnh mạch võng mạc
+
+Phù hoàng điểm do đái tháo đường
+
+Bệnh võng mạc đái tháo đường
+
+Tân mạch hắc mạc
+
+Rululumumab
+
+Kháng C5
+
+Đái huyết sắc tố kịch phát ban đêm
+
+Hội chứng đái máu tan huyết
+
+không điển hình
+
+Nhược cơ
+
+Raxibacumab
+
+Kháng nguyên chống bảo vệ của
+
+Bacillus anthracis
+
+Bệnh than
+
+do hít phải
+
+Reslizumab
+
+Kháng IL-5
+
+Hen suyễn
+
+do tăng bạch cầu ái toan
+
+Risainizumab
+
+Kháng IL-23p19
+
+Bệnh vẩy nến thể mảng
+
+Bệnh viêm khớp vẩy nến
+
+Rituximab
+
+Kháng CD20
+
+U lympho
+
+tế bào B CD20+
+
+Bệnh bạch cầu
+
+Viêm khớp dạng thấp
+
+Pemphigus thông thường
+
+Viêm đa mạch u hạt
+
+Viêm đa vi mạch
+
+Romosozumab
+
+Kháng sclerostin
+
+Loãng xương
+
+Sarilumab
+
+Thụ thể kháng IL-6
+
+Viêm khớp dạng thấp
+
+Viêm đa cơ do thấp khớp
+
+Secukinumab
+
+Kháng IL-17A
+
+Viêm cột sống dính khớp
+
+Viêm cột sống dính khớp trục không chụp X-quang
+
+Bệnh viêm khớp vẩy nến
+
+Bệnh vẩy nến thể mảng
+
+Siltuximab
+
+Kháng IL-6
+
+Bệnh Castleman đa trung tâm
+
+Sotrovimab
+
+Epitope gai chống SARS-Cov-2 được bảo tồn
+
+COVID-19
+
+Folrotumumab
+
+Thụ thể kháng IGF-1
+
+Bệnh tuyến giáp
+
+Tildrakizumab
+
+Kháng IL-23
+
+Bệnh vẩy nến thể mảng
+
+Tocilizumab
+
+Thụ thể kháng IL-6
+
+Viêm khớp dạng thấp
+
+Bệnh viêm khớp tự phát thiếu niên
+
+Viêm động mạch tế bào khổng lồ
+
+Hội chứng giải phóng Cytokine
+
+sau điều trị bằng tế bào CAR T
+
+Tositumomab
+
+Kháng CD20, liên kết với iốt phóng xạ [
+
+131
+
+]
+
+U lympho non-Hodgkin
+
+CD20+
+
+Trastuzumab
+
+Kháng HER2
+
+Ung thư vú
+
+HER2+
+
+Ung thư biểu mô tuyến
+
+dạ dày
+
+hoặc ở vùng tiếp nối dạ dày-thực quản có HER2+
+
+Ustekinumab
+
+Kháng IL-12 và IL-23
+
+Bệnh vẩy nến thể mảng
+
+Bệnh Crohn
+
+Viêm loét đại tràng
+
+Bệnh viêm khớp vẩy nến
+
+Vedolizumab
+
+Kháng alpha-4 beta-7 integrin
+
+Viêm loét đại tràng
+
+Bệnh Crohn
+
+Protein tổng hợp
+
+Abatacept (vùng ngoại bào CTLA-4 hòa lẫn với vùng Fc của IgG1)
+
+Ức chế kích hoạt tế bào T
+
+Viêm khớp dạng thấp
+
+Bệnh viêm khớp tự phát thiếu niên
+
+Bệnh viêm khớp vẩy nến
+
+Ghép tế bào gốc tạo máu
+
+Aflibercept (các phần của miền ngoại bào VEGF hợp nhất với vùng Fc của IgG1
+
+Ức chế tân mạch và tính thấm thành mạch
+
+Thoái hóa hoàng điểm tuổi già thể tân mạch (ướt)
+
+Denileukin diftitox (sự kết hợp của IL-2 với độc tố bạch hầu)
+
+Đưa độc tố toxin đến thành phần CD25 của thụ thể IL-2
+
+U lympho
+
+tế bào T ngoài da CD25+
+
+Etanercept (kết hợp 2 receptor TNF-alpha CD120b với vùng Fc của IgG1)
+
+Giảm mức TNF
+
+Viêm khớp dạng thấp
+
+Bệnh viêm khớp tự phát thiếu niên
+
+Bệnh viêm khớp vẩy nến
+
+Viêm cột sống dính khớp
+
+Bệnh vẩy nến thể mảng
+
+Thụ thể cytokine hòa tan
+
+Anakinra (chất đối kháng thụ thể IL-1, đôi khi pegylated cho thời gian bán hủy dài hơn)
+
+Ức chế cạnh tranh các hoạt động của IL-1 alpha và IL-1 beta
+
+Viêm khớp dạng thấp
+
+Trẻ sơ sinh bị viêm đa cơ quan bệnh hệ thống
+
+(NOMID)
+
+Thiếu chất đối kháng thụ thể IL-1 (DIRA)
+
+Bệnh Gút
+
+Viêm khớp do canxi pyrophosphat
+
+(giả gút)
+
+Cytokines
+
+IFN-alpha
+
+Thuốc chống tăng sinh và kháng vi-rút
+
+Viêm gan B mạn tính
+
+Viêm gan C mạn tính
+
+Sarcom Kaposi
+
+liên quan đến AIDS
+
+Bệnh bạch cầu kinh dòng tủy
+
+Sùi mào gà
+
+Bệnh bạch cầu tế bào tóc
+
+Ung thư tế bào hắc tố
+
+U lympho không Hodgkin
+
+IFN-beta
+
+Thuốc chống tăng sinh và kháng vi-rút
+
+Đa xơ cứng
+
+IFN-gamma
+
+Kích thích miễn dịch và kháng virus
+
+Kiểm soát nhiễm trùng ở
+
+bệnh u hạt mạn tính
+
+Bệnh loãng xương
+
+ác tính
+
+IL-2
+
+Kích thích miễn dịch
+
+Ung thư tế bào thận
+
+Ung thư tế bào hắc tố
+
+IL-11
+
+Yếu tố tăng trưởng huyết khối
+
+Giảm tiểu cầu
+
+G-CSF
+
+Kích thích sản xuất bạch cầu
+
+Giảm bạch cầu trung tính
+
+GM-CSF
+
+Kích thích sản xuất bạch cầu hạt và bạch cầu mono/đại thực bào
+
+Giảm bạch cầu trung tính
+
+Liệu pháp tế bào
+
+Liệu pháp kháng nguyên tế bào T (CAR T)
+
+Tế bào T tự thân biến đổi gen CD19
+
+U lympho
+
+tế bào B
+
+Sipuleucel-T
+
+Tế bào máu đơn nhân Tự thân tuân hoàn trong máu ngoại vi ICAM-1+ hoạt hóa với phosphatase axit tuyến tiền liệt và GM-CSF
+
+Ung thư tuyến tiền liệt
+
+Tisagenlecleucel (CAR T)
+
+Tế bào T tự thân biến đổi gen CD19
+
+ALL
+
+tiền thân tế bào B
+
+U lympho
+
+tế bào B
+
+* Nhiều loại thuốc trị liệu miễn dịch chỉ được chấp thuận sử dụng ở một số nhóm bệnh nhân nhất định (ví dụ: dựa trên độ tuổi, phân nhóm và giai đoạn bệnh, điều trị trước đó, v.v.). Các loại thuốc này thường được sử dụng phối hợp với các loại thuốc khác. Tham khảo thông tin kê đơn để biết thêm chi tiết.
+
+† mAbs được sử dụng để kiểm tra chẩn đoán và chẩn đoán hình ảnh X quang không được đưa vào.
+
+Antibody Society
+
+duy trì một danh sách đầy đủ các liệu pháp kháng thể đã được phê duyệt và những nghiên cứu về điều trị tại Hoa Kỳ và Liên minh Châu Âu.
+
+ALCL = u lympho tế bào lớn thoái biến; ALL = bệnh bạch cầu nguyên bao lympho cấp tính; ANCA = kháng thể tế bào chất kháng bạch cầu trung tính; CAR = thụ thể kháng nguyên khảm; CD
+
+=
+
+cụm biệt hóa; CLL = bệnh bạch cầu kinh dòng lympho; CTLA
+
+=
+
+kháng nguyên tế bào lympho T gây độc tế bào; EGFR = thụ thể yếu tố tăng trưởng biểu bì; Fc
+
+=
+
+mảnh có thể kết tinh được; G-CSF
+
+=
+
+yếu tố kích thích cụm bạch cầu hạt; GM-CSF
+
+=
+
+yếu tố kích thích cụm bạch cầu hạt-đại thực bào; HER2 = thụ thể yếu tố tăng trưởng biểu bì ở người 2; HNSCC = ung thư biểu mô tế bào vảy ở đầu và cổ; ICAM = phân tử bám dính giữa các tế bào; IFN
+
+=
+
+interferon; IL = interleukin; LDL = lipoprotein tỷ trọng thấp; mAb
+
+=
+
+kháng thể đơn dòng; MRD = bệnh tồn dư tối thiểu; NSCLC = ung thư phổi không tế bào nhỏ; PD-L1 = phối tử gắn kích hoạt chết tế bào theo chương trình 1; RANKL = chất kích hoạt thụ thể của phối tử beta kappa yếu tố hạt nhân; SLAMF7 = thành viên họ phân tử kích hoạt tế bào lympho phát tín hiệu 7; TNF
+
+=
+
+yếu tố hoại tử khối u; VEGF-A = yếu tố tăng trưởng nội mô mạch máu A; VEGFR = Thụ thể VEGF.
+
+* Nhiều loại thuốc trị liệu miễn dịch chỉ được chấp thuận sử dụng ở một số nhóm bệnh nhân nhất định (ví dụ: dựa trên độ tuổi, phân nhóm và giai đoạn bệnh, điều trị trước đó, v.v.). Các loại thuốc này thường được sử dụng phối hợp với các loại thuốc khác. Tham khảo thông tin kê đơn để biết thêm chi tiết.
+
+† mAbs được sử dụng để kiểm tra chẩn đoán và chẩn đoán hình ảnh X quang không được đưa vào.
+
+Antibody Society
+
+duy trì một danh sách đầy đủ các liệu pháp kháng thể đã được phê duyệt và những nghiên cứu về điều trị tại Hoa Kỳ và Liên minh Châu Âu.
+
+ALCL = u lympho tế bào lớn thoái biến; ALL = bệnh bạch cầu nguyên bao lympho cấp tính; ANCA = kháng thể tế bào chất kháng bạch cầu trung tính; CAR = thụ thể kháng nguyên khảm; CD
+
+=
+
+cụm biệt hóa; CLL = bệnh bạch cầu kinh dòng lympho; CTLA
+
+=
+
+kháng nguyên tế bào lympho T gây độc tế bào; EGFR = thụ thể yếu tố tăng trưởng biểu bì; Fc
+
+=
+
+mảnh có thể kết tinh được; G-CSF
+
+=
+
+yếu tố kích thích cụm bạch cầu hạt; GM-CSF
+
+=
+
+yếu tố kích thích cụm bạch cầu hạt-đại thực bào; HER2 = thụ thể yếu tố tăng trưởng biểu bì ở người 2; HNSCC = ung thư biểu mô tế bào vảy ở đầu và cổ; ICAM = phân tử bám dính giữa các tế bào; IFN
+
+=
+
+interferon; IL = interleukin; LDL = lipoprotein tỷ trọng thấp; mAb
+
+=
+
+kháng thể đơn dòng; MRD = bệnh tồn dư tối thiểu; NSCLC = ung thư phổi không tế bào nhỏ; PD-L1 = phối tử gắn kích hoạt chết tế bào theo chương trình 1; RANKL = chất kích hoạt thụ thể của phối tử beta kappa yếu tố hạt nhân; SLAMF7 = thành viên họ phân tử kích hoạt tế bào lympho phát tín hiệu 7; TNF
+
+=
+
+yếu tố hoại tử khối u; VEGF-A = yếu tố tăng trưởng nội mô mạch máu A; VEGFR = Thụ thể VEGF.
+
+Kháng thể đơn dòng
+
+Các kháng thể đơn dòng (mAb) được sản xuất in vitro để nhận ra những kháng nguyên đặc hiệu (Ag); chúng được sử dụng để điều trị khối u chắc và u hệ tạo máu, các rối loạn viêm và các bệnh nhiễm trùng. Hầu hết các mAb khi sử dụng trên lâm sàng nhắm mục tiêu vào một Ag duy nhất, nhưng một số ít được thiết kế để có tính đặc hiệu kép. Các kháng thể đơn dòng hiện đang được sử dụng trong lâm sàng bao gồm
+
+Murine
+
+Thể khảm
+
+Từ người
+
+Hoàn toàn ở con người
+
+Kháng thể đơn dòng chuột
+
+được sản xuất bằng cách tiêm kháng nguyên vào một con chuột, thu lá lách của nó để có được các tế bào B sản xuất kháng thể đặc hiệu cho kháng nguyên, kết hợp những tế bào đó với các tế bào tủy chuột bất tử, phát triển các tế bào hybridoma (ví dụ, trong nuôi cấy tế bào) và thu kháng thể. Mặc dù các kháng thể chuột tương tự như các kháng thể của người, việc sử dụng lâm sàng các kháng thể đơn dòng chuột bị giới hạn bởi vì chúng tạo ra sản phẩm chống chuột ở người, có thể gây ra chứng bệnh huyết thanh phức hợp miễn dịch (
+
+phản ứng quá mẫn
+
+loại III) và được dọn dẹp nhanh chóng.
+
+Để giảm thiểu các vấn đề do sử dụng kháng thể chuột thuần túy, các nhà nghiên cứu đã sử dụng các kỹ thuật tái tổ hợp ADN để tạo ra các kháng thể đơn dòng có một phần của con người và một phần chuột. Tùy thuộc vào tỷ lệ của phân tử kháng thể là con người, sản phẩm kết quả được gọi là một trong những danh pháp sau đây:
+
+Thể khảm
+
+Từ người
+
+Ở cả kháng thể đơn dòng khảm và kháng thể đơn dòng được cấy gen bệnh lý của người, quy trình thường bắt đầu như trên với việc sản sinh ra các tế bào u lai của chuột nhắt tạo ra kháng thể đối với kháng nguyên mong muốn. Sau đó, DNA của một số hoặc tất cả phần biến đổi của kháng thể chuột được hợp nhất với DNA cho immunoglobulin của người. DNA kết quả được đặt trong môi trường nuôi cấy tế bào động vật có vú, sau đó biểu hiện gen kết quả, tạo ra kháng thể mong muốn. Nếu gen chuột cho toàn bộ vùng biến được nối liền với vùng liên hằng định của con người, sản phẩm được gọi là "chimeric". Nếu chỉ sử dụng gen chuột cho vùng biến thể liên kết kháng nguyên của vùng biến đổi, sản phẩm được gọi là "humanized".
+
+Các kháng thể đơn dòng Chimeric
+
+kích hoạt các tế bào trình diện kháng nguyên (APC) và các tế bào T hiệu quả hơn các mAbs chuột nhưng vẫn có thể tạo ra sản phẩm kháng chimeric kháng thể.
+
+Kháng thể đơn dòng từ người
+
+chống lại các kháng nguyên khác nhau để điều trị
+
+ung thư đại trực tràng
+
+và
+
+ung thư vú
+
+,
+
+bệnh bạch cầu
+
+, dị ứng, bệnh tự miễn dịch, thải ghép tạng, và
+
+nhiễm trùng virus hợp bào hô hấp
+
+.
+
+Kháng thể đơn dòng hoàn toàn của con người
+
+được sản xuất bằng cách sử dụng các con chuột chuyển gen có chứa gen globulin miễn dịch ở người hoặc sử dụng phương pháp nhân bản thể thực khuẩn(ví dụ một phương pháp nhân bản dựa trên dòng dựa trên thực khuẩn vi khuẩn) của các gen immunoglobulin được phân lập từ tế bào B người. Các kháng thể đơn dòng hoàn toàn của người làm giảm khả năng sinh miễn dịch và do đó có thể có ít tác dụng bất lợi hơn.
+
+Các kháng thể đơn dòng nhắm vào các phân tử checkpoint trên các tế bào T hoặc các tế bào khối u (gọi là các chất ức chế checkpoint - xem bảng
+
+Một số tác nhân miễn dịch trong sử dụng lâm sàng
+
+) được sử dụng để ngăn chặn sự điều chỉnh giảm đáp ứng của khối u và điều trị hiệu quả một số bệnh ung thư kháng thuốc. Tuy nhiên, vì các phân tử checkpoint cũng có liên quan đến các phản ứng miễn dịch khác, các chất ức chế checkpoint có thể gây ra phản ứng viêm và tự miễn dịch nghiêm trọng (cả hệ thống và cơ quan).
+
+Protein tổng hợp
+
+Các protein lai được tạo ra bằng cách liên kết các trình tự gen mã hoá tất cả hoặc một phần của 2 loại protein khác nhau để tạo ra một polypeptide chimeric có chứa các thuộc tính mong muốn từ các phân tử mẹ (ví dụ, một thành phần nhắm vào tế bào kết hợp với một độc tố tế bào). Thời gian bán thải tuần hoàn của protein điều trị cũng thường được cải thiện bằng cách kết hợp chúng với một protein khác có thời gian bán hủy huyết thanh dài hơn (ví dụ vùng Fc của IgG).
+
+Các thụ thể cytokine hoà tan
+
+Các phiên bản hòa tan của thụ thể cytokine có thể ngăn chặn hoạt động của cytokine bằng cách gắn kết với chúng trước khi chúng gắn vào thụ thể bề mặt tế bào bình thường.
+
+Etanercept, một protein tổng hợp, bao gồm 2 chuỗi giống hệt nhau từ receptor CD120b cho yếu tố hoại tử khối u (TNF)-alpha. Do đó, tác nhân này ngăn chặn TNF-alpha và được sử dụng để điều trị
+
+viêm khớp dạng thấp
+
+, viêm đa khớp
+
+viêm khớp thiếu niên vô căn
+
+viêm cột sống dính khớp
+
+,
+
+viêm khớp vẩy nến
+
+và
+
+bệnh vẩy nến mảng
+
+.
+
+Cytokine tái tổ hợp
+
+Các yếu tố kích thích tạo cụm (CSF), như
+
+erythropoietin
+
+, granulocyte CSF (G-CSF), và granulocyte-macrophage CSF (GM-CSF), được sử dụng ở những bệnh nhân trải qua hóa trị hoặc cấy ghép cho các rối loạn huyết học và ung thư và ở những bệnh nhân bị giảm bạch cầu trung tính mạn tính nghiêm trọng (xem bảng
+
+Một số tác nhân miễn dịch trong sử dụng lâm sàng
+
+). Interferon-alpha (IFN-alpha) và IFN-gamma được sử dụng để điều trị ung thư, rối loạn suy giảm miễn dịch và nhiễm vi rút. IFN-beta được sử dụng để điều trị
+
+bệnh đa xơ cứng
+
+tái phát.
+
+Anakinra, được sử dụng để điều trị
+
+bệnh viêm khớp dạng thấp
+
+, là một dạng tái tổ hợp, được sửa đổi một chút của thuốc đối kháng IL-1R xuất hiện tự nhiên; thuốc này gắn vào thụ thể IL-1 và do đó ngăn chặn sự gắn kết của IL-1, nhưng không giống như IL-1, nó không kích hoạt thụ thể.
+
+Các tế bào thể hiện các thụ thể cytokine có thể được nhắm mục tiêu bằng các phiên bản sửa đổi của cytokine có liên quan (ví dụ, denileukin diftitox, là một protein tổng hợp có chứa trình tự từ IL-2 và độc tố bạch hầu). Denileukin được sử dụng trong
+
+u lympho tế bào T ở da
+
+để nhắm đích độc tố vào các tế bào biểu hiện phần CD25 của thụ thể IL-2.
+
+Các phân tử nhỏ
+
+Các peptit mạch thẳng nhỏ, peptit mạch vòng và các phân tử hữu cơ nhỏ đang được phát triển như chất chủ vận hoặc chất đối kháng cho các ứng dụng khác nhau. Việc sàng lọc các thư viện peptide và hợp chất hữu cơ có thể xác định các chất bắt chước tiềm năng (ví dụ: thuốc chủ vận cho các thụ thể của
+
+erythropoietin
+
+, trompoietin và G-CSF).
+
+Liệu pháp tế bào
+
+Các tế bào hệ miễn dịch được thu thập (ví dụ như bằng gạn tách bạch cầu) và kích hoạt trong ống nghiệm trước khi chúng được đưa trở lại bệnh nhân. Mục đích là để khuếch đại phản ứng miễn dịch tự nhiên không tương xứng bình thường đối với ung thư. Các phương pháp kích hoạt các tế bào miễn dịch bao gồm việc sử dụng các cytokine để kích thích và tăng số lượng các tế bào T gây độc tế bào chống ung thư và sử dụng phơi nhiễm liều cao cho tế bào trình diện kháng nguyên như tế bào tua với các kháng nguyên khối u. Trước khi được trả lại cho bệnh nhân, các tế bào T có thể được biến đổi gen để biểu hiện các thụ thể kháng nguyên chimeric (CAR) hoặc các thụ thể tế bào T (TCR) có khả năng nhận ra các kháng nguyên của khối u
+
+bệnh bạch cầu
+
+và
+
+u lympho
+
+.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

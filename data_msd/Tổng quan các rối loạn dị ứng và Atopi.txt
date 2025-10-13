@@ -1,0 +1,1279 @@
+TIÊU ĐỀ: Tổng quan các rối loạn dị ứng và Atopi
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/dị-ứng-tự-miễn-và-các-rối-loạn-quá-mẫn-khác/tổng-quan-các-rối-loạn-dị-ứng-và-atopi
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan các rối loạn dị ứng và Atopi
+
+Theo
+
+James Fernandez
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 8 2024
+
+v994881_vi
+
+Phân loại phản ứng quá mẫn
+
+|
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Rối loạn dị ứng (bao gồm cả bệnh atopy) và các chứng rối loạn quá mẫn khác là phản ứng miễn dịch không thích hợp hoặc quá mức đối với kháng nguyên ngoại lai. Các phản ứng miễn dịch không phù hợp bao gồm những phản ứng được định hướng sai đối với các thành phần nội tại của cơ thể (bản thân), dẫn đến
+
+rối loạn tự miễn
+
+. Chủ đề này tập trung vào phản ứng quá mẫn loại I.
+
+Phân loại phản ứng quá mẫn
+
+Phản ứng quá mẫn được chia thành 4 loại (từ I đến IV) do phân loại Gell và Coombs. Rối loạn quá mẫn thường liên quan đến hơn một loại.
+
+Phản ứng quá mẫn loại I
+
+Phản ứng loại I (tức quá mẫn nhanh) là trung gian IgE. Kháng nguyên liên kết với IgE gắn với tế bào mast ở mô và tế bào bạch cầu ưa bazo trong máu, gây ra giải phóng các chất trung gian đã được hình thành trước đó (ví dụ histamine, protease, các yếu tố hóa ứng động) và tổng hợp các chất trung gian khác (ví dụ như prostaglandins, leukotrienes, yếu tố kích hoạt tiểu cầu, cytokine). Các chất làm trung gian gây giãn mạch, tăng thẩm thấu mao mạch, tăng tiết nhầy, co thắt cơ, và xâm nhập mô với bạch cầu ái toan, tế bào T hỗ trợ loại 2 (TH2), và các tế bào viêm khác.
+
+Các phản ứng quá mẫn loại I tiến triển < 1 giờ sau khi tiếp xúc với kháng nguyên.
+
+Phản ứng loại I bao gồm tất cả các chứng bệnh atopy (ví dụ, Bệnh
+
+viêm da cơ địa
+
+,
+
+hen
+
+,
+
+viêm mũi
+
+,
+
+viêm kết mạc
+
+) và nhiều hội chứng dị ứng (ví dụ,
+
+phản vệ
+
+, một số trường hợp
+
+phù mạch
+
+,
+
+nổi mày đay
+
+, dị ứng cao su và một số
+
+dị ứng thực phẩm
+
+). Các thuật ngữ atopy và dị ứng thường được sử dụng thay cho nhau nhưng khác:
+
+Atopy
+
+là phản ứng miễn dịch quá mức qua trung gian IgE; tất cả các rối loạn atopy là rối loạn quá mẫn type I.
+
+Dị ứng
+
+là bất kỳ phản ứng miễn dịch phóng đại đối với một kháng nguyên ngoại lai bất kể cơ chế.
+
+Do đó, tất cả các tình trạng rối loạn thể tạng dị ứng được coi là dị ứng, nhưng nhiều tình trạng rối loại dị ứng (ví dụ:
+
+viêm phổi kẽ do quá mẫn
+
+) không phải là thể tạng dị ứng.
+
+Các
+
+rối loạn dị ứng
+
+thường ảnh hưởng đến mũi, mắt, da và phổi. Các rối loạn này bao gồm
+
+viêm kết mạc
+
+,
+
+viêm da dị ứng
+
+ngoại sinh (loại chàm phổ biến nhất),
+
+nổi mề đay
+
+do miễn dịch, một số dạng
+
+phù mạch
+
+,
+
+dị ứng với latex
+
+cấp tính, một số rối loạn dị ứng phổi (ví dụ,
+
+hen suyễn
+
+do dị ứng, các thành phần trung gian IgE của
+
+bệnh aspergillus phế quản phổi dị ứng
+
+),
+
+viêm mũi dị ứn
+
+g và phản ứng dị ứng với
+
+nọc độc
+
+.
+
+Phản ứng quá mẫn loại II
+
+Các phản ứng loại II (quá mẫn gây độc tế bào phụ thuộc kháng thể) là kết quả khi kháng thể liên kết với kháng nguyên bề mặt tế bào hoặc một phân tử kết hợp với bề mặt tế bào. Cấu trúc kháng nguyên-kháng thể gắn kết bề mặt (trái ngược với phức hợp kháng nguyên-kháng thể tuần hoàn trong quá mẫn loại III) kích hoạt các tế bào tham gia vào quá trình gây độc tế bào qua trung gian tế bào phụ thuộc vào kháng thể (ví dụ: tế bào diệt tự nhiên, bạch cầu ái toan, đại thực bào), bổ thể, hoặc cả hai. Kết quả là tổn thương tế bào và mô.
+
+Các rối loạn liên quan đến phản ứng loại II bao gồm việc
+
+thải tạng ghép mức độ siêu cấp tính
+
+, Coombs dương tính
+
+bệnh thiếu máu tan máu
+
+,
+
+Viêm tuyến giáp Hashimoto
+
+, và các bệnh kháng màng đáy cầu thận (ví dụ,
+
+Hội chứng Goodpasture
+
+).
+
+Phản ứng quá mẫn loại III
+
+Phản ứng loại III (bệnh phức hợp miễn dịch) gây viêm để phản ứng với các phức hợp miễn dịch kháng nguyên kháng thể lưu hành lắng đọng trong mạch hoặc mô. Các phức hợp này có thể kích hoạt
+
+hệ thống bổ thể
+
+hoặc gắn kết và kích hoạt một số tế bào miễn dịch, dẫn đến giải phóng các chất trung gian gây viêm.
+
+Hậu quả của sự hình thành phức hợp miễn dịch phụ thuộc một phần vào tỷ lệ tương đối của kháng nguyên và kháng thể trong phức hệ miễn dịch. Giai đoạn sớm trong đáp ứng miễn dịch, do dư thừa kháng nguyên trong các phức hợp kháng nguyên kháng thể nhỏ, nên không kích hoạt bổ thể. Sau đó, khi kháng nguyên và kháng thể cân bằng hơn, các phức hợp miễn dịch lớn hơn và có xu hướng lắng đọng trong các mô khác nhau (ví dụ, cầu thận, mạch máu), gây ra phản ứng hệ thống. Dạng isotype của các kháng thể được tạo ra thay đổi trong quá trình đáp ứng miễn dịch và isotype, glycosyl hóa, kích thước và điện tích của các thành phần của phức hợp góp phần vào đáp ứng lâm sàng.
+
+Các rối loạn loại III bao gồm bệnh huyết thanh,
+
+lupus ban đỏ hệ thống (SLE)
+
+,
+
+viêm khớp dạng tháp (RA)
+
+,
+
+chứng viêm mạch leukocytoclastic
+
+,
+
+cryoglobulinemia
+
+, cấp
+
+viêm phổi quá mẫn
+
+, và một số loại
+
+viêm cầu thận
+
+.
+
+Phản ứng type III tiến triển từ 4 đến 10 ngày sau khi tiếp xúc với kháng nguyên, và nếu tiếp xúc với kháng nguyên tiếp tục, có thể trở thành mạn tính.
+
+Phản ứng quá mẫn loại IV
+
+Phản ứng loại IV (quá mẫn muộn) không liên quan đến kháng thể mà do tế bào T làm trung gian.
+
+Các tế bào T, mẫn cảm sau khi tiếp xúc với một kháng nguyên cụ thể, được kích hoạt bằng cách tiếp xúc liên tục hoặc tiếp xúc lại với kháng nguyên; chúng gây tổn thương mô bằng các hiệu ứng độc trực tiếp hoặc thông qua phóng thích cytokine kích hoạt bạch cầu ái toan, bạch cầu mono và đại thực bào, bạch cầu trung tính hoặc các tế bào diệt tự nhiên.
+
+Các bệnh lý liên quan đến phản ứng loại IV bao gồm
+
+hội chứng Stevens-Johnson
+
+,
+
+hoại tử biểu bì nhiễm độc (SJS/TEN)
+
+,
+
+phát ban do thuốc với tình trạng tăng bạch cầu ái toan và các triệu chứng toàn thân (DRESS)
+
+,
+
+viêm da tiếp xúc
+
+(ví dụ: cây thường xuân độc),
+
+viêm phổi kẽ do quá mẫn
+
+bán cấp và mạn tính,
+
+thải ghép đồng loài
+
+cấp tính và mạn tính, đáp ứng miễn dịch với bệnh lao và nhiều dạng
+
+quá mẫn với thuốc
+
+.
+
+Dị ứng với latex
+
+Dị ứng latex là phản ứng miễn dịch quá mức với các protein hòa tan trong nước có trong các sản phẩm từ latex (ví dụ: găng tay cao su, đê chắn nha khoa, bao cao su, ống thông cho thiết bị hô hấp, ống thông tiểu, đầu thụt tháo có vòng cao su bơm hơi).
+
+Bắt đầu từ cuối những năm 1980, tỷ lệ mắc bệnh tăng lên ở những người làm việc trong lĩnh vực chăm sóc sức khỏe khi việc chú trọng vào các biện pháp phòng ngừa chung dẫn đến việc sử dụng găng tay cao su thường xuyên.
+
+Phản ứng với latex có thể là
+
+Cấp tính (trung gian IgE)
+
+Chậm (qua trung gian tế bào)
+
+Phản ứng cấp tính gây nổi mày đay và sốc phản vệ; phản ứng chậm gây viêm da.
+
+Sau khi các chuyên gia chăm sóc sức khỏe đeo găng tay cao su, da thường bị kích ứng và đóng vảy, nhưng phản ứng này thường là kích ứng hóa chất chứ không phải dị ứng cao su.
+
+Chẩn đoán dị ứng mủ cao su chủ yếu dựa vào tiền sử bệnh. Có xét nghiệm da và xét nghiệm phát hiện kháng thể IgE antilatex.
+
+Điều trị là tránh latex. Phần lớn, các cơ sở chăm sóc sức khỏe hiện không có latex và tỷ lệ dị ứng với latex đã giảm đáng kể.*
+
+*Xem
+
+Raulf M
+
+: Hiện trạng dị ứng latex nghề nghiệp.
+
+Curr Opin Allergy Clin Immunol
+
+20 (2):112–116, 2020.
+
+*Xem
+
+Raulf M
+
+: Hiện trạng dị ứng latex nghề nghiệp.
+
+Curr Opin Allergy Clin Immunol
+
+20 (2):112–116, 2020.
+
+Căn nguyên của các tình trạng rối loạn dị ứng và thể tạng dị ứng
+
+Các yếu tố di truyền phức tạp, môi trường và yếu tố đặc trưng vùng góp phần gây ra dị ứng qua trung gian IgE.
+
+Yếu tố di truyền
+
+có thể liên quan, như gợi ý khi có tính chất gia đình, liên kết giữa atopy và loci HLA riêng biệt, và tính đa hình của một số gen, bao gồm cả các chuỗi beta thụ thể IgE ái lực cao, chuỗi alpha-thụ thể interleukin (IL)-4, IL-4, IL-13, CD14, dipeptidyl-peptidase 10 (DPP10), và một domain disintegrin và metalloprotease 33 (
+
+ADAM33
+
+).
+
+Yếu tố môi trường
+
+tương tác với các yếu tố di truyền để duy trì đáp ứng miễn dịch qua trung gian tế bào thông qua tế bào T hỗ trợ loại 2 (TH2). Tế bào TH2 kích hoạt bạch cầu ái toan, thúc đẩy sản xuất IgE, và là tiền dị ứng. Tiếp xúc với vi khuẩn, vi rút và nội độc tố (ví dụ: lipopolysaccharide) ở thời thơ ấu có thể chuyển đáp ứng tế bào TH2 tự nhiên sang đáp ứng tế bào T hỗ trợ loại 1 (TH1), ức chế tế bào TH2 và do đó ngăn chặn phản ứng dị ứng. Tế bào T điều hòa (Treg) (ví dụ: CD4
+
++
+
+, CD25
+
++
+
+, Foxp3
+
++
+
+), có khả năng ức chế đáp ứng của tế bào TH2 và các tế bào dạng sợi tiết IL-12, thúc đẩy đáp ứng của tế bào TH1, có lẽ cũng có liên quan. Xu hướng ở các quốc gia có lợi thế kinh tế hơn hướng tới các gia đình nhỏ hơn với ít con hơn, môi trường trong nhà sạch hơn và sử dụng kháng sinh rộng rãi hơn có thể hạn chế việc trẻ em tiếp xúc với các tác nhân truyền nhiễm thúc đẩy đáp ứng chủ yếu của tế bào TH1; những xu hướng như vậy có thể giải thích sự gia tăng tỷ lệ mắc một số bệnh dị ứng.
+
+Các yếu tố khác góp phần vào sự phát triển dị ứng bao gồm tiếp xúc với dị nguyên mạn tính và mẫn cảm, chế độ ăn uống và các chất ô nhiễm môi trường.
+
+Các yếu tố đặc hiệu tại vị trí giải phẫu
+
+bao gồm các phân tử kết dính trong biểu mô phế quản và da và các phân tử trong đường tiêu hóa (GI) hướng dẫn tế bào TH2 đến các mô đích. Thành phần của đường tiêu hóa, đường hô hấp, và hệ vi khuẩn trên da dường như ảnh hưởng mạnh đến sự phát triển của dị ứng da. Các vi sinh vật này có thể mang đến mục tiêu mới cho điều trị dị ứng.
+
+Dị nguyên
+
+Theo định nghĩa, một dị nguyên gây ra phản ứng miễn dịch trung gian IgE hoặc qua trung gian tế bào T loại IV. Các chất gây dị ứng hầu như luôn là những protein có trọng lượng phân tử thấp; nhiều chất trong nhóm này có thể gắn với các hạt không khí.
+
+Các nguồn gây dị ứng thường gây ra phản ứng dị ứng cấp tính và mạn tính (loại I và loại IV) bao gồm
+
+Mạt bụi nhà
+
+Lông động vật
+
+Phấn hoa (cây, cỏ, cỏ dại)
+
+Đất
+
+Thức ăn
+
+Nước bọt và nọc độc của côn trùng (lây truyền qua các vết cắn và các vết đốt)
+
+M Thuốc, trị liệu đang dùng (Medications)
+
+Hóa chất gia dụng (ví dụ: hydroxyisohexyl 3-cyclohexene carboxaldehyde, cinnamal, eugenol)
+
+Đối với phản ứng quá mẫn loại IV, thuốc là nguyên nhân phổ biến nhất.
+
+Sinh lý bệnh của tình trạng rối loạn cơ địa dị ứng và dị ứng
+
+Khi chất gây dị ứng liên kết với các tế bào mast và bạch cầu ái toan đã được mẫn cảm gắn IgE, histamin được giải phóng khỏi các hạt trong tế bào. Các tế bào mast được phân bố rộng rãi nhưng tập trung nhiều nhất ở da, phổi và niêm mạc đường tiêu hóa (GI); histamine tạo điều kiện cho tình trang viêm và là chất trung gian đầu tiên của tình trạng dị ứng lâm sàng. Sự phá vỡ mô tế bào và các chất khác nhau (các chất gây kích ứng mô, opiates, các chất hoạt động bề mặt, các thành phần bổ thể C3a và C5a) có thể trực tiếp kích hoạt giải phóng histamine, không phụ thuộc IgE.
+
+Histamine gây ra những hiện tượng sau:
+
+Giãn mạch cục bộ (gây ban đỏ)
+
+Tăng thẩm thấu mao mạch và phù (gây sẩn phù)
+
+Làm giãn mạch các tiểu động mạch xung quanh bởi các cơ chế phản xạ nơ-ron (gây ra dát phẳng - vùng da đỏ quanh một sẩn phù)
+
+Kích thích thần kinh cảm giác (gây ngứa)
+
+Co thắt cơ trơn đường hô hấp (co thắt phế quản) và đường tiêu hóa (tăng nhu động của GI)
+
+Tăng tiết chất nhày ở mũi, tiết nước bọt và ở phế quản
+
+Khi giải phóng một cách có hệ thống, histamine gây giãn động mạch và có thể gây ra kết tụ máu ngoại vi và hạ huyết áp; giãn mạch não có thể là nguyên nhân gây đau đầu vận mạch. Histamine làm tăng thẩm thấu mao mạch; tình trạng mất plasma và protein huyết tương vào khoảng gian mạch có thể làm tình trạng sốc tuần hoàn trầm trọng hơn. Sự mất mát này làm gia tăng bù catecholamine từ các tế bào chromafin của tuyến thượng thận.
+
+Các triệu chứng và dấu hiệu của tình trạng rối loạn cơ địa dị ứng và dị ứng
+
+Các triệu chứng phổ biến của rối loạn dị ứng quá mẫn loại I bao gồm
+
+Chảy mũi, hắt hơi, và nghẹt mũi (đường hô hấp trên)
+
+Khò khè và khó thở (đường hô hấp dưới)
+
+Ngứa (mắt, mũi, da)
+
+Các dấu hiệu có thể bao gồm phù nề cuốn mũi, đau xoang khi ấn, thở khò khè, sung huyết và phù kết mạc,
+
+nổi mề đay
+
+,
+
+phù mạch
+
+,
+
+viêm da
+
+và (nếu mạn tính) liken hóa da.
+
+Thở rít, thở khò khè, và hạ huyết áp là những dấu hiệu nguy hiểm đến tính mạng
+
+sốc phản vệ
+
+.
+
+Chẩn đoán các tình trạng rối loạn dị ứng và thể tạng dị ứng
+
+Bệnh sử và khám lâm sàng
+
+Đôi khi làm công thức máu (để kiểm tra bạch cầu ái toan) và xét nghiệm nồng độ IgE huyết thanh (các xét nghiệm không đặc hiệu)
+
+Thường xuyên thực hiện xét nghiệm da và xét nghiệm nồng độ IgE huyết thanh đặc hiệu với dị nguyên (các xét nghiệm đặc hiệu)
+
+Hiếm khi làm xét nghiệm kích thích
+
+Khai thác bệnh sử toàn diện đáng tin cậy hơn các xét nghiệm hoặc sàng lọc. Bệnh sử nên được khai thác
+
+Các câu hỏi về tần số và thời gian của các lần bị dị ứng và tình trạng thay đổi theo thời gian
+
+Các yếu tố khởi phát nếu nhận dạng được
+
+Liên quan đến hoàn cảnh hoặc theo mùa (ví dụ, xảy ra trong mùa bụi phấn, sau khi tiếp xúc với động vật, cỏ khô, bụi, khi tập thể dục, hoặc ở những nơi cụ thể)
+
+Tiền sử gia đình có các triệu chứng tương tự hoặc rối loạn dị ứng
+
+Đáp ứng với điều trị thử
+
+Tuổi khi bắt đầu có thể rất quan trọng trong
+
+bệnh hen
+
+vì hen ở trẻ em thường do dị ứng và không nghĩ tới do dị ứng nếu bệnh hen bắt đầu sau 30 tuổi.
+
+Các xét nghiệm không đặc hiệu
+
+Một số xét nghiệm có thể gợi ý nhưng không khẳng định nguồn gốc dị ứng của các triệu chứng.
+
+Có thể thực hiện xét nghiệm
+
+công thức máu (CBC)
+
+để phát hiện tình trạng
+
+tăng bạch cầu ái toan
+
+nếu bệnh nhân không dùng corticosteroid, thuốc làm giảm số lượng bạch cầu ái toan. Tuy nhiên, công thức máu có giá trị giới hạn bởi vì bạch cầu ái toan có thể tăng lên trong cả tình trạng dị ứng hoặc các tình trạng khác (ví dụ như quá mẫn cảm, ung thư, bệnh viêm ruột, nhiễm ký sinh trùng), số lượng bạch cầu ái toan bình thường không loại trừ dị ứng. Tổng số lượng bạch cầu thường là bình thường. Thiếu máu và tăng tiểu cầu tiên phát không phải là dấu hiệu điển hình của phản ứng dị ứng và nên nhanh chóng xem xét của một rối loạn viêm hệ thống.
+
+Có thể đánh giá số lượng bạch cầu trong nước mũi hoặc đờm; nếu tìm thấy bạch cầu ái toan có thể cho rằng có tình trạng viêm qua trung gian TH2.
+
+Nồng độ IgE toàn phần trong huyết thanh
+
+tăng cao trong các bệnh dị ứng nhưng không giúp ích nhiều trong việc đưa ra chẩn đoán dị ứng cụ thể vì chúng cũng có thể tăng cao trong
+
+các bệnh nhiễm trùng ký sinh trùng
+
+,
+
+bệnh bạch cầu đơn nhân nhiễm trùng
+
+, một số
+
+bệnh tự miễn
+
+, phản ứng thuốc, rối loạn suy giảm miễn dịch (
+
+hội chứng tăng IgE
+
+và
+
+hội chứng Wiskott-Aldrich
+
+),
+
+bệnh liên quan đến IgG4
+
+và một số dạng
+
+bệnh đa u tủ
+
+y. Nồng độ IgE có ích trong việc theo dõi đáp ứng điều trị
+
+bệnh aspergillosis phế quản phổi dị ứng
+
+.
+
+Các xét nghiệm đặc hiệu
+
+Xét nghiệm da
+
+sử dụng các nồng độ chuẩn của dị nguyên được đưa trực tiếp vào da và được chỉ định khi khai thác bệnh sử và khám thực thể chi tiết không xác định nguyên nhân và yếu tố khởi phát gây nên các triệu chứng dai dẳng hoặc trầm trọng. Xét nghiệm da có giá trị dự đoán dương tính cao hơn trong chẩn đoán viêm mũi dị ứng và viêm kết mạc so với chẩn đoán hen suyễn dị ứng hoặc dị ứng thực phẩm; giá trị dự đoán âm tính đối với dị ứng thực phẩm cao (
+
+1
+
+).
+
+Các kháng nguyên được sử dụng phổ biến nhất là phấn (cây, cỏ, cỏ dại), mốc, phân mạt bụi nhà, động vật và huyết thanh, thuốc diệt côn trùng, thực phẩm, kháng sinh beta-lactam. Lựa chọn kháng nguyên dựa vào bệnh sử của bệnh nhân và tỷ lệ lưu hành.
+
+Hai kỹ thuật thực hiện xét nghiệm da có thể được sử dụng:
+
+Lẩy da (lẩy)
+
+Nội bì
+
+Xét nghiệm lẩy có thể phát hiện hầu hết các tình trạng dị ứng, nó thường được thực hiện đầu tiên. Xét nghiệm nội bì nhạy hơn nhưng kém đặc hiệu hơn; nó có thể được chỉ định để đánh giá độ nhạy cảm đối với dị nguyên khi kết quả xét nghiệm lẩy âm tính hoặc không rõ ràng.
+
+Thực hiện
+
+xét nghiệm lẩy
+
+, nhỏ một giọt chiết xuất kháng nguyên trên da, sau đó lẩy lên bằng chích hoặc đâm qua giọt chiết xuất bằng đầu của kim 27 gauge với góc 20
+
+°
+
+hoặc sử dụng kim lẩy chuyên dụng.
+
+Nếu không có chất gây dị ứng được xác định trong xét nghiệm lẩy da, thử nghiệm trong da được thực hiện.
+
+Thực hiện
+
+xét nghiệm nội bì
+
+, cần lượng chiết xuất đủ để tạo một sẩn 1 hoặc 2 mm (bình thường 0,02 mL) được tiêm vào trong da với bơm tiêm 0,5 hoặc 1mL và mũi kim vát 27 gauge.
+
+Xét nghiệm lẩy da và xét nghiệm nội bì trong da cần có chứng âm với chất pha loãng riêng và histamine (10 mg/mL với xét nghiệm lẩy, 0,01 mL dung dịch với tỷ lệ 1:1000 với xét nghiệm nội bì) như chứng dương. Đối với bệnh nhân đã từng (
+
+<
+
+1 năm) phản ứng toàn thân đối với kháng nguyên làm xét nghiệm, xét nghiệm bắt đầu với chất thử được pha loãng 100 lần, sau đó 10 lần, và tiếp đến là nồng độ tiêu chuẩn.
+
+xét nghiệm được đánh giá là dương nếu xảy ra phản ứng sẩn phù và dát đỏ và đường kính sẩn phù lớn hơn 3 đến 5 mm so với chứng âm sau 15 đến 20 phút.
+
+Dương tính giả xảy ra trong bệnh da liễu (phản ứng sẩn phù và dát đỏ do gãi hoặc chà da). Âm tính giả xảy ra khi các chất chiết xuất từ ​​chất gây dị ứng đã được bảo quản không đúng cách hoặc đã quá hạn.
+
+Một số loại thuốc cũng có thể ảnh hưởng đến kết quả và nên ngừng dùng vài ngày đến một tuần trước khi xét nghiệm. Các loại thuốc này bao gồm thuốc kháng histamine không kê đơn (OTC) và thuốc kháng histamin theo toa, thuốc chống trầm cảm ba vòng, omalizumab và thuốc ức chế monoamine oxidase. Một số bác sĩ lâm sàng cho rằng nên tránh làm xét nghiệm ở những bệnh nhân sử dụng thuốc chẹn beta vì những bệnh nhân này thường có nguy cơ bị phản ứng nặng. Những yếu tố nguy cơ này có thể dự đoán xảy ra khi có giảm chức năng tim phổi và bao gồm bệnh mạch vành, loạn nhịp tim và người cao tuổi. Ngoài ra, thuốc chẹn beta có thể cản trở việc điều trị các phản ứng nặng bằng cách ngăn chặn đáp ứng với thuốc chủ vận beta-adrenergic như là
+
+epinephrine
+
+.
+
+Các xét nghiệm IgE huyết thanh đặc hiệu với dị nguyên
+
+sử dụng kháng thể kháng IgE gắn nhãn enzyme để phát hiện sự gắn kết của IgE huyết thanh với một dị nguyên đã biết. Các xét nghiệm này được thực hiện khi xét nghiệm ở da có thể không hiệu quả hoặc có nguy cơ, ví dụ: khi các loại thuốc ảnh hưởng đến kết quả xét nghiệm không thể tạm thời ngừng trước khi xét nghiệm hoặc khi một rối loạn về da như bệnh chàm, bệnh da vẽ nổi hoặc bệnh vẩy nến khiến cho việc xét nghiệm da trở nên khó khăn. Đối với các xét nghiệm IgE huyết thanh đặc hiệu với dị nguyên, dị nguyên được cố định trên bề mặt tổng hợp. Sau khi có trong huyết thanh bệnh nhân và kháng thể kháng IgE có gắn nhãn enzyme, chất nền của enzyme được thêm vào; chất nền cung cấp khả năng phát hiện huỳnh quang hoặc phát quang hóa học. Các xét nghiệm IgE đặc hiệu cho chất gây dị ứng đã thay thế xét nghiệm chất hấp thụ dị ứng phóng xạ (RAST), sử dụng kháng thể kháng IgE 125-I được đánh dấu. Mặc dù các xét nghiệm IgE huyết thanh đặc hiệu với chất gây dị ứng không phải là chất phóng xạ, nhưng đôi khi chúng vẫn được gọi là RAST.
+
+Thử nghiệm tiền kích thích
+
+bao gồm một thử thách bằng miệng, liên quan đến việc tiếp xúc trực tiếp của niêm mạc với chất gây dị ứng; nó được chỉ định cho những bệnh nhân phải ghi lại phản ứng của họ (ví dụ, đối với các yêu cầu về nghề nghiệp hoặc khuyết tật) và để loại trừ dị ứng qua trung gian IgE ở những bệnh nhân được cho là có nguy cơ dị ứng thấp. Xét nghiệm này thường được thực hiện để loại trừ dị ứng thực phẩm và thuốc. Các loại xét nghiệm tiền kích thích khác bao gồm yêu cầu bệnh nhân tập thể dục để chẩn đoán bệnh hen suyễn do gắng sức. Có thể thực hiện nhiều thử nghiệm kích thích khác nhau để phát hiện
+
+nổi mày đay
+
+vật lý tại phòng khám; bao gồm đặt một viên đá lạnh lên da trong 4 phút để chẩn đoán nổi mày đay do lạnh, yêu cầu bệnh nhân tập thể dục để tăng nhiệt độ cơ thể và do đó xác nhận bệnh mày đay cholinergic, và đặt một thiết bị rung (thiết bị rung trong phòng thí nghiệm) trên cánh tay hoặc bàn tay của bệnh nhân để xác định bệnh mày đay rung qua trung gian tế bào mast.
+
+Thử nghiệm mũi và phế quản
+
+chủ yếu là công cụ nghiên cứu, nhưng thử nghiệm phế quản đôi khi được sử dụng khi ý nghĩa lâm sàng của xét nghiệm da dương tính không rõ ràng hoặc khi không có chiết xuất kháng nguyên nào (ví dụ: đối với
+
+bệnh hen suyễn liên quan đến công việc
+
+).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Patel G, Saltoun C
+
+. Skin testing in allergy.
+
+Allergy Asthma Proc
+
+2019;40(6):366-368. doi:10.2500/aap.2019.40.4248
+
+Điều trị các tình trạng rối loạn dị ứng và thể tạng dị ứng
+
+Điều trị cấp cứu
+
+Loại bỏ hoặc tránh các tác nhân gây dị ứng
+
+Thuốc kháng H1
+
+Thuốc ổn định tế bào mast
+
+Corticosteroid chống viêm và thuốc ức chế leukotriene
+
+Liệu pháp miễn dịch (giảm mẫn cảm)
+
+Điều trị cấp cứu
+
+Phản ứng dị ứng nặng (ví dụ,
+
+phản vệ
+
+) cần điều trị cấp cứu ngay lập tức bằng epinephrine.
+
+Nếu đường thở bị ảnh hưởng (ví dụ, trong
+
+phù mạch
+
+), đảm bảo đường thở là ưu tiên cao nhất. Điều trị có thể bao gồm
+
+epinephrine
+
+và/hoặc
+
+đặt nội khí quản
+
+.
+
+Những bệnh nhân có phản ứng dị ứng nặng nên được khuyên mang theo ống tiêm tự tiêm epinephrine và các thuốc kháng histamin uống, và nếu có phản ứng nặng xảy ra sử dụng các phương pháp điều trị này càng nhanh càng tốt và sau đó đến khoa cấp cứu. Ở đó, bệnh nhân có thể được theo dõi chặt chẽ và điều trị có thể được lặp lại hoặc điều chỉnh khi cần thiết.
+
+Kiểm soát môi trường
+
+Loại bỏ hoặc tránh các tác nhân gây dị ứng là phương pháp điều trị chính và
+
+chiến lược dự phòng
+
+cho người bị dị ứng. Tuy nhiên, khi bệnh nhân mẫn cảm với nhiều chất gây dị ứng, việc tránh hoàn toàn về cơ bản là không thể.
+
+Thuốc kháng histamine
+
+Thuốc kháng histamine chẹn các thụ thể histamine; chúng không ảnh hưởng đến quá trình sản xuất histamin hoặc chuyển hóa. Có 4 thụ thể histamine khác nhau: H1, H2, H3 và H4.
+
+Thuốc kháng histamine ngăn chặn thụ thể H1 (thuốc chẹn H1) là phương pháp điều trị chính cho các rối loạn dị ứng. Thuốc chẹn H2 chủ yếu được sử dụng để ức chế axit dạ dày nhưng cũng hữu ích cho một số phản ứng dị ứng; thuốc này có thể được chỉ định làm liệu pháp bổ sung để
+
+điều trị sốc phản vệ
+
+,
+
+bệnh tăng bạch cầu mast
+
+và một số bệnh dị ứng, đặc biệt là
+
+nổi mày đay
+
+tự phát mạn tính.
+
+Uống thuốc kháng H1
+
+thuốc kháng làm giảm các triệu chứng dị ứng khác nhau (ví dụ viêm mũi kết mạc dị ứng,
+
+viêm mũi dị ứng
+
+,
+
+viêm kết mạc
+
+,
+
+nổi mề đay
+
+, các tổn thương da khác, phản ứng nhẹ đối với các lần truyền máu không tương thích); thuốc ít có hiệu quả đối với giãn phế quản dị ứng và giãn mạch toàn thân. Sự khởi đầu của tác dụng thường là 15 đến 30 phút, với tác dụng đỉnh điểm trong 1 giờ; thời gian hoạt động thường là từ 3 đến 6 giờ.
+
+Các sản phẩm có chứa đường uống thuốc chẹn H1 và kích thích thần kinh giao cảm (ví dụ, pseudoephedrine) không kê đơn có sẵn rộng rãi để sử dụng ở người lớn và trẻ em từ 12 tuổi trở lên. Các thuốc này đặc biệt có ích khi cần cả thuốc kháng histamin và thuốc giảm triệu chứng nghẹt mũi trong mũi; tuy nhiên, đôi khi bị chống chỉ định (ví dụ, nếu bệnh nhân đang dùng chất ức chế monoamine oxidase [MAOI]).
+
+Thuốc kháng H1 đường uống được phân loại thành
+
+Thế hệ thứ nhất: Gây ngủ
+
+Thế hệ thứ hai: Không gây ngủ (tỉnh táo tốt hơn do ít gây ngủ)
+
+Thuốc kháng histamine thế hệ thứ nhất
+
+có sẵn không cần đơn. Các thuốc này dễ dàng vượt qua hàng rào máu não. Tất cả các thuốc đều có tính chất gây ngủ và kháng cholinergic đáng kể; thuốc gây ra những vấn đề đặc biệt cho người cao tuổi và bệnh nhân bị tăng nhãn áp, tăng sản tuyến tiền liệt lành tính, táo bón, tụt huyết áp, mê sảng, hoặc chứng mất trí.
+
+Thuốc kháng histamine thế hệ thứ hai
+
+có sẵn không cần đơn. Các thuốc này không vượt qua hàng rào máu não dễ dàng như các thuốc kháng histamine thế hệ thứ nhất. Thuốc kháng histamin thế hệ thứ hai thường được ưu tiên sử dụng.
+
+Thuốc kháng histamine có thể được sử dụng theo nhiều đường khác nhau, bao gồm
+
+Theo đường uống (nhiều – xem bảng
+
+Thuốc chặn H1 dùng theo đường uống
+
+)
+
+Nhỏ mũi (azelastine hoặc olopatadine để điều trị viêm mũi)
+
+Thuốc nhỏ mắt (ví dụ: azelastine, emedastine, ketotifen, levocabastine, olopatadine, pemirolast [không có ở Hoa Kỳ] để điều trị viêm kết mạc)
+
+Da (ví dụ: diphenhydramine, doxepin)
+
+Bảng
+
+Thuốc chẹn H1 đường uống
+
+Bảng
+
+Thuốc chẹn H1 đường uống
+
+Thuốc chẹn H1 đường uống
+
+Thuốc
+
+Các chế phẩm sẵn có
+
+Thế hệ thứ nhất*
+
+Brompheniramine†
+
+Chỉ có sẵn dưới dạng sản phẩm phối hợp với thuốc chống tắc nghẽn mũi hoặc thuốc chống ho, không được khuyến nghị cho trẻ em < 6 tuổi
+
+Viên nén 4, 8 và 12 mg
+
+2 mg/5 mL thuốc dung dịch
+
+Viên nén 8 và 12 mg (phóng thích kéo dài, kéo dài, đơn chất)
+
+Chlorpheniramine†
+
+Chỉ có sẵn dưới dạng sản phẩm phối hợp với thuốc chống tắc nghẽn mũi hoặc thuốc chống ho, không được khuyến nghị cho trẻ em < 6 tuổi
+
+Viên nén nhai 2 mg
+
+Viên nén 4, 8 và 12 mg
+
+Phóng thích kéo dài:
+
+viên nén hoặc viên nang 12 mg
+
+2 mg/5 mL si-rô
+
+Clemastine
+
+Viên 1,34 và 2,68 mg
+
+0,67 mg/5 mL si-rô
+
+Cyproheptadine
+
+Viên nén 4 mg
+
+2 mg/5 mL si-rô
+
+Dexchlorpheniramine
+
+Viên nén 2 mg
+
+2 mg/5 mL si-rô
+
+Viên nén 4 và 6 mg (phóng thích kéo dài)
+
+Diphenhydramine
+
+Viên nén 25 đến 50 mg hoặc viên nén
+
+Viên nén nhai 12,5 mg
+
+12,5 mg/5 mL elixir
+
+si-rô 12,5 mg/mL
+
+Hydroxyzin
+
+Viên nang 25, 50, và 100 mg
+
+Viên 10, 25, 50, và 100 mg
+
+10 mg/5 mL si-rô
+
+25 mg/5 mL dung dịch uống
+
+Promethazine
+
+Các lựa chọn thay thế an toàn hơn được ưu tiên cho các rối loạn dị ứng ở trẻ em
+
+Viên nén 12,5, 25 và 50 mg
+
+6,25 mg/5 mL và 25 mg/5 mL si-rô
+
+Thế hệ thứ hai
+
+Acrivastine/pseudoephedrine
+
+8-mg acrivastine cộng với viên nang pseudoephedrine 60mg
+
+Cetirizine
+
+Viên nén 5 và 10 mg
+
+Si-rô 1 mg/mL
+
+Desloratadine
+
+Viên nén 5 mg
+
+Si-rô 0,5 mg/mL
+
+Fexofenadine
+
+Viên nén 30, 60 và 180 mg
+
+Viên hòa tan 30 mg đường uống
+
+6 mg/mL dung dịch uống
+
+Levocetirizine
+
+Viên nén 5 mg
+
+Dung dịch uống 0,5 mg/mL
+
+Loratadine
+
+Viên nén và viên nang 10 mg
+
+Viên nén nhai 5 mg
+
+Viên nén hòa tan 5 và 10 mg
+
+Si-rô 1 mg/mL
+
+Dung dịch uống 1 mg/mL
+
+Mizolastine
+
+Viên nén 10 mg
+
+* Hầu hết các thuốc kháng histamine thế hệ thứ nhất đều có đặc tính kháng cholinergic mạnh. Nhìn chung, không nên dùng thuốc này cho người cao tuổi hoặc bệnh nhân mắc bệnh tăng nhãn áp, phì đại lành tính tuyến tiền liệt, táo bón, mê sảng, mất trí nhớ hoặc hạ huyết áp tư thế đứng. Những loại thuốc này thường gây buồn ngủ, khô miệng, mờ mắt, bí tiểu, táo bón và hạ huyết áp tư thế đứng.
+
+Ở trẻ em, thuốc kháng histamin thế hệ thứ nhất chỉ nên sử dụng khi cần thiết do có khả năng gây ra tác dụng bất lợi, đặc biệt là khi phối hợp với các thuốc khác; thuốc kháng histamin thế hệ thứ hai được ưu tiên sử dụng cho viêm mũi dị ứng.
+
+† Thông thường, brompheniramine và chlorpheniramine chỉ có sẵn khi phối hợp với các loại thuốc khác (ví dụ: thuốc thông mũi, thuốc giảm ho). Không nên dùng
+
+brompheniramine
+
+và
+
+chlorpheniramine
+
+phối hợp với các thuốc khác (ví dụ: dextromethorphan, phenylephrine) cho trẻ em dưới 6 tuổi.
+
+* Hầu hết các thuốc kháng histamine thế hệ thứ nhất đều có đặc tính kháng cholinergic mạnh. Nhìn chung, không nên dùng thuốc này cho người cao tuổi hoặc bệnh nhân mắc bệnh tăng nhãn áp, phì đại lành tính tuyến tiền liệt, táo bón, mê sảng, mất trí nhớ hoặc hạ huyết áp tư thế đứng. Những loại thuốc này thường gây buồn ngủ, khô miệng, mờ mắt, bí tiểu, táo bón và hạ huyết áp tư thế đứng.
+
+Ở trẻ em, thuốc kháng histamin thế hệ thứ nhất chỉ nên sử dụng khi cần thiết do có khả năng gây ra tác dụng bất lợi, đặc biệt là khi phối hợp với các thuốc khác; thuốc kháng histamin thế hệ thứ hai được ưu tiên sử dụng cho viêm mũi dị ứng.
+
+† Thông thường, brompheniramine và chlorpheniramine chỉ có sẵn khi phối hợp với các loại thuốc khác (ví dụ: thuốc thông mũi, thuốc giảm ho). Không nên dùng
+
+brompheniramine
+
+và
+
+chlorpheniramine
+
+phối hợp với các thuốc khác (ví dụ: dextromethorphan, phenylephrine) cho trẻ em dưới 6 tuổi.
+
+Thuốc ổn định tế bào mast
+
+Thuốc ổn định tế bào mast ngăn chặn việc giải phóng các chất trung gian từ các tế bào mast.
+
+Thuốc ổn định tế bào mast được sử dụng khi các loại thuốc khác (ví dụ: thuốc kháng histamin, corticosteroid tại chỗ) không hiệu quả hoặc không được dung nạp tốt. Các loại thuốc này cũng thường được sử dụng ở những bệnh nhân bị bệnh tế bào mast khi sự hoạt hóa và phóng thích chất trung gian của tế bào mast lấn át các thuốc kháng histamine thông thường.
+
+Những loại thuốc này có thể được cho dùng
+
+Theo đường uống (cromolyn, ketotifen)
+
+Nhỏ mũi (ví dụ, azelastine, cromolyn)
+
+Nhỏ mắt (ví dụ, azelastine, cromolyn, lodoxamide, ketotifen, nedocromil, olopatadine, pemirolast)
+
+Một số loại thuốc nhỏ mắt và nhỏ mũi (ví dụ: azelastine, ketotifen, olopatadine, pemirolast) là thuốc ổn định tế bào mast/thuốc kháng histamine tác dụng kép.
+
+Thuốc chống viêm
+
+Corticosteroid có thể được dùng đường hít (xem bảng
+
+Corticosteroid trong mũi
+
+và
+
+thuốc ổn định tế bào mast nhỏ trong mũi
+
+) hoặc theo đường uống.
+
+Corticosteroid uống
+
+được chỉ định cho:
+
+Các rối loạn dị ứng nặng nhưng tự hạn chế và không dễ điều trị bằng corticosteroid tại chỗ (ví dụ,
+
+cơn hen nặng cấp
+
+,
+
+viêm da tiếp xúc
+
+lan tỏa nặng)
+
+Các rối loạn kháng trị với các biện pháp khác
+
+Corticosteroid mắt
+
+chỉ được sử dụng khi có sự tham gia của bác sĩ nhãn khoa vì nhiễm trùng và tăng áp lực nội nhãn là những tác dụng bất lợi tiềm ẩn.
+
+Thuốc chống viêm không steroid (NSAID) thường không hữu ích, ngoại trừ các dạng dùng tại chỗ được sử dụng để làm giảm viêm kết mạc và ngứa do viêm kết mạc dị ứng.
+
+Bảng
+
+Corticosteroid trong mũi
+
+Bảng
+
+Corticosteroid trong mũi
+
+Corticosteroid trong mũi
+
+Thuốc
+
+Liều lượng trên mỗi nhát xịt
+
+Beclomethasone
+
+42 mcg
+
+40 mcg
+
+80 mcg
+
+Budesonide
+
+32 mcg
+
+Ciclesonide
+
+Bình xịt mũi (37 mcg)
+
+Thuốc xịt mũi (50 mcg)
+
+Flunisolide
+
+25 mcg
+
+Fluticasone furoate
+
+27,5 mcg
+
+Fluticasone propionate*
+
+50 mcg
+
+Mometasone
+
+50 mcg
+
+Triamcinolone
+
+55 mcg
+
+* Có dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).
+
+* Có dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).
+
+Bảng
+
+Thuốc ổn định tế bào mast trong mũi
+
+Bảng
+
+Thuốc ổn định tế bào mast trong mũi
+
+Thuốc ổn định tế bào mast trong mũi
+
+Thuốc
+
+Liều lượng trên mỗi nhát xịt
+
+Azelastine*,†
+
+137 mcg trong dung dịch 0,1%
+
+205,5 mg trong dung dịch 0,15%
+
+Cromolyn
+
+5,2 mg
+
+Olopatadine*
+
+665 mcg
+
+* Azelastine và olopatadine là thuốc ổn định tế bào mast/kháng histamine có tác dụng kép.
+
+† Có sẵn dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).
+
+* Azelastine và olopatadine là thuốc ổn định tế bào mast/kháng histamine có tác dụng kép.
+
+† Có sẵn dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).
+
+Các loại thuốc khác
+
+Thuốc ức chế leukotriene
+
+(ví dụ: montelukast, zafirlukast, zileuton) được chỉ định để điều trị các trường hợp sau (xem thêm bảng
+
+Điều trị hen suyễn bằng thuốc
+
+):
+
+Hen suyễn dai dẳng nhẹ; Montelukast, zafirlukast hoặc zileuton
+
+Viêm mũi dị ứng theo mùa: Montelukast
+
+Mày đay: Montelukast hoặc zafirlukast
+
+Kháng thể kháng IgE (
+
+omalizumab
+
+) được chỉ định cho những trường hợp sau:
+
+Bệnh hen nặng hoặc trung bình dai dẳng kháng với điều trị chuẩn
+
+Mày đay tự phát mạn tính kháng lại liệu pháp kháng histamine
+
+Polyps mũi
+
+Phản ứng dị ứng loại 1 (bao gồm sốc phản vệ) có thể xảy ra khi vô tình tiếp xúc với 1 hoặc nhiều loại thực phẩm ở bệnh nhân ≥ 1 tuổi bị dị ứng thực phẩm qua trung gian IgE
+
+Liệu pháp miễn dịch
+
+Tiếp xúc với dị nguyên với liều tăng dần (giảm mẫn cảm hoặc giải mẫn cảm) bằng tiêm hoặc đường uống hoặc dùng liều cao dưới lưỡi có thể gây ra tình trạng dung nạp. Liệu pháp này được chỉ định khi không thể tránh tiếp xúc với chất gây dị ứng và điều trị bằng thuốc không đủ hiệu quả.
+
+Cơ chế không rõ nhưng có thể liên quan đến sự khởi phát của những điều sau đây:
+
+Kháng thể IgG, cạnh tranh với IgE đối với dị nguyên hoặc ngăn chặn IgE gắn kết với thụ thể IgE tế bào mast
+
+Interferon
+
+-gamma, IL-12, và cytokines tiết ra bởi tế bào TH1
+
+Các tế bào T điều hòa
+
+Để đạt hiệu quả đầy đủ, liều tiêm ban đầu được tiêm một lần hoặc hai lần/tuần. Liều dùng thường bắt đầu từ 0,1 đến 1,0 đơn vị hoạt tính sinh học (BAU), tùy thuộc vào mức độ nhạy cảm của bệnh nhân và tăng dần hàng tuần hoặc mỗi 2 tuần
+
+≤
+
+2 lần cho mỗi lần tiêm cho đến khi đạt được liều tối đa có thể dung nạp (liều bắt đầu gây ra tác dụng bất lợi ở mức độ vừa phải).
+
+Bệnh nhân cần được theo dõi trong khoảng 30 phút sau khi tiêm trong quá trình tăng liều vì sốc phản vệ có thể xảy ra sau khi tiêm.
+
+Sau đó, tiêm liều tối đa phải được cho từ 2 đến 4 tuần suốt năm; điều trị suốt năm tốt hơn so với điều trị trước hoặc trong mùa, thậm chí ở các trường hợp dị ứng theo mùa.
+
+Các chất gây dị ứng được sử dụng là những chất thường không thể tránh khỏi:
+
+Phấn hoa
+
+Mạt bụi nhà
+
+Đất
+
+Nọc độc của côn trùng đốt
+
+Nọc độc côn trùng được chuẩn hóa theo trọng lượng. Giảm mẫn cảm vẩy da động vật thường chỉ thực hiện ở những bệnh nhân không thể tránh tiếp xúc (ví dụ như bác sỹ thú y, nhân viên phòng thí nghiệm), nhưng có rất ít bằng chứng là nó rất hữu ích. Có thể thực hiện phương pháp giảm nhạy cảm với đậu phộng và đã thành công trong khoảng 60% đến 80% số trường hợp (
+
+1
+
+).
+
+Giảm mẫn cảm
+
+có thể thực hiện đối với penicillin và một số loại thuốc khác và đối với huyết thanh lạ (khác loài). Giảm nhạy cảm với dị ứng thuốc thường thành công trong hầu hết các trường hợp (
+
+2
+
+).
+
+Tác dụng phụ
+
+thường gặp liên quan đến quá liều, thỉnh thoảng xảy ra khi tiêm bắp hoặc tiêm tĩnh mạch liều quá cao, và biểu hiện có thể từ ho nhẹ hoặc chảy mũi đến nổi mề đay, hen nặng, sốc phản vệ, và hiếm khi tử vong. Tác dụng phụ có thể được ngăn ngừa bằng những cách sau:
+
+Tăng dần từng liều nhỏ
+
+Lặp lại hoặc giảm liều nếu phản ứng cục bộ đối với mũi tiêm trước đó mạnh (
+
+≥
+
+đường kính 2,5 cm)
+
+Giảm liều khi sử dụng một loại chiết xuất mới
+
+Giảm liều lượng chất chiết xuất từ phấn hoa trong mùa phấn. Epinephrine, oxygen, và thiết bị hồi sức nên sẵn sàng ngay lập tức để điều trị kịp thời tình trạng quá mẫn.
+
+Liệu pháp miễn dịch dưới lưỡi
+
+với phấn hoa cỏ, cây cỏ phấn hương, hoặc chất chiết xuất từ chất gây dị ứng mạt bụi nhà có thể được sử dụng cho bệnh viêm mũi dị ứng khi bệnh do những chất gây dị ứng này gây ra. Liều thứ nhất được sử dụng tại cơ sở y tế; bệnh nhân nên được theo dõi trong 30 phút sau khi dùng vì có thể xảy ra phản vệ. Nếu liều thứ nhất được dung nạp, bệnh nhân dùng liều tiếp theo hàng ngày ở nhà. Ở người lớn, liều ban đầu không tăng, nhưng ở trẻ em và thanh thiếu niên từ 10 đến 17 tuổi, liều được tăng trong 3 ngày đầu. Đối với những bệnh nhân bị dị ứng phấn hoa cỏ hoặc cỏ phấn hương, việc điều trị được bắt đầu trước khi bắt đầu mỗi mùa phấn hoa cỏ hoặc cỏ phấn hương ít nhất 3 tháng và duy trì trong suốt mùa.
+
+Tỷ lệ sốc phản vệ đối với các chiết xuất miễn dịch dưới lưỡi có bán trên thị trường đã được báo cáo là 0,02% đến 0,03% so với gần 0,1% đối với liệu pháp miễn dịch dưới da (SCIT) (
+
+3
+
+).
+
+Liệu pháp miễn dịch đường uống để điều trị
+
+dị ứng đậu phộng
+
+sử dụng bột đậu phộng đã khử chất béo. Tăng liều được thực hiện bằng cách sử dụng 5 liều tăng dần từ 0,5 mg đến 6 mg trong một ngày được cho dùng trong cơ sở chăm sóc sức khỏe. Sau phác đồ ban đầu này là liều hàng ngày bắt đầu từ 3 mg và tăng từ 50 đến 100% 2 tuần một lần trong vòng 22 tuần trước khi đạt đến liều duy trì 300 mg mỗi ngày một lần. Mỗi lần tăng liều được cho dùng trong một cơ sở chăm sóc sức khỏe. Nếu liều ban đầu được dung nạp, các liều tiếp theo được dùng hàng ngày trong 2 tuần; các liều này có thể được dùng tại nhà. Sau khi bệnh nhân dung nạp thành công liều 300 mg trong cơ sở chăm sóc sức khỏe, họ phải dùng vô thời hạn liều 300 mg hàng ngày để duy trì giải mẫn cảm.
+
+Điều trị dị ứng trong thời kỳ mang thai và cho con bú
+
+Đối với
+
+phụ nữ mang thai
+
+bị dị ứng môi trường và các triệu chứng về xoang-phổi, tránh xa tác nhân gây dị ứng là cách tốt nhất để kiểm soát các triệu chứng. Nếu các triệu chứng trầm trọng, cần sử dụng thuốc xịt trong mũi kháng histamin. Chỉ nên dùng thuốc kháng histamine đường uống nếu thuốc kháng histamine dạng xịt trong mũi không đáp ứng.
+
+Trong
+
+cho con bú
+
+thuốc kháng histamine không gây nghiện được ưa thích hơn. Thuốc kháng histamine có thể được sử dụng, nhưng chúng có thể gây buồn ngủ và kích thích ở trẻ sơ sinh. Nếu cần phải dùng thuốc kháng histamine, trẻ nên được theo dõi những tác dụng này.
+
+Thuốc kháng histamin dạng xịt trong mũi được ưa thích hơn thuốc kháng histamine đường uống. Nếu thuốc kháng histamin đường uống là cần thiết để kiểm soát các triệu chứng, nên dùng ngay sau thời gian cho con bú. Cyproheptadine là chống chỉ định trong thời gian cho con bú vì nó làm giảm nồng độ prolactin và do đó có thể làm giảm tiết sữa.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Alghamdi R, Alshaier R, Alotaibi A, et al
+
+: Immunotherapy Effectiveness in Treating Peanut Hypersensitivity: A Systemic Review.
+
+Cureus
+
+14(2):e21832, 2022. doi:10.7759/cureus.21832
+
+2.
+
+Brennan PJ, Rodriguez Bouza T, Hsu FI, Sloane DE, Castells MC
+
+: Hypersensitivity reactions to mAbs: 105 desensitizations in 23 patients, from evaluation to treatment.
+
+J Allergy Clin Immunol
+
+124(6):1259–1266, 2009. doi:10.1016/j.jaci.2009.09.009
+
+3.
+
+Zeiger RS, Schatz M, Pomichowski ME, et al
+
+: Real-world assessment of anaphylaxis and eosinophilic esophagitis with 12 SQ house dust mite SLIT-tablet sublingual immunotherapy.
+
+J Allergy Clin Immunol Glob
+
+3(3):100250, 2024. doi:10.1016/j.jacig.2024.100250
+
+Phòng ngừa các tình trạng rối loạn dị ứng và thể tạng dị ứng
+
+Các chất kích thích gây dị ứng nên được loại bỏ hoặc tránh. Các nội dung bao gồm:
+
+Loại bỏ các vật dụng thu gom bụi, như đồ lặt vặt, tạp chí, sách và đồ chơi mềm
+
+Sử dụng gối sợi tổng hợp và nệm không thấm nước
+
+Thường xuyên giặt ga trải giường, vỏ gối và chăn bằng nước nóng
+
+Thường xuyên lau nhà, bao gồm lau bụi, hút bụi và lau nhà
+
+Tháo bỏ đồ nội thất bọc nệm và thảm hoặc thường xuyên hút bụi đồ nội thất bọc nệm và thảm
+
+Thay rèm cửa
+
+Diệt gián để loại bỏ phơi nhiễm
+
+Sử dụng máy hút ẩm trong các tầng hầm và các phòng kín, ẩm ướt khác
+
+Sử dụng máy hút chân không và bộ lọc không khí hạt có hiệu suất cao (HEPA)
+
+Tránh các tác nhân gây khởi phát là thực phẩm hoặc thuốc
+
+Hạn chế vật nuôi trong một số phòng nhất định hoặc không cho chúng ra khỏi nhà
+
+Đối với những người bị dị ứng theo mùa nghiêm trọng, có thể di chuyển đến một khu vực không có chất gây dị ứng
+
+Các tác nhân kích thích không gây dị ứng (ví dụ: khói thuốc, mùi nặng, khói thuốc, ô nhiễm không khí, nhiệt độ lạnh, độ ẩm cao) cũng nên tránh hoặc kiểm soát khi có thể.
+
+Những điểm chính
+
+Các phản ứng dị ứng (thường gây ra bởi phân bọ nhà, phân vật nuôi, phấn hoa, hoặc nấm mốc) là do trung gian IgE gây phóng thích histamine.
+
+Khai thác bệnh sử toàn diện, bao gồm mô tả chi tiết về tần số và thời gian của các đợt dị ứng, xuất hiện các triệu chứng theo mùa, hoàn cảnh xuất hiện, tiền sử gia đình, các yếu tố kịch phát có thể và đáp ứng đối với các phương pháp điều trị đã dùng vì bệnh sử tin cậy hơn so với xét nghiệm.
+
+Khi khai thác bệnh sử và thăm khám không xác định nguyên nhân, xét nghiệm da hoặc xét nghiệm IgE huyết thanh đặc hiệu dị ứng có thể giúp xác định chất gây dị ứng.
+
+Loại bỏ hoặc tránh dị nguyên là chìa khóa để điều trị và phòng ngừa; giảm triệu chứng, sử dụng thuốc chẹn H1, corticosteroid tại chỗ, và/hoặc thuốc ổn định tế bào mast.
+
+Nếu không thể tránh được chất gây dị ứng và các phương pháp điều trị khác không có hiệu quả, thì cần sử dụng liệu pháp miễn dịch.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+American Academy of Allergy, Asthma and Immunology
+
+: Trang web này cung cấp thông tin chung về các rối loạn dị ứng cho các bác sĩ lâm sàng ở Hoa Kỳ, thông tin về các cơ hội giáo dục và thông tin cho bệnh nhân
+
+European Academy of Allergy and Clinical Immunology
+
+: Trang web này thúc đẩy cả nghiên cứu cơ bản và lâm sàng về các rối loạn dị ứng, cung cấp cho các bác sĩ lâm sàng một vị trí trung tâm để tìm kiếm thông tin và liên hệ, đồng thời cung cấp các nguồn lực cho bệnh nhân
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Phân loại phản ứng quá mẫn ---
+
+Phản ứng quá mẫn được chia thành 4 loại (từ I đến IV) do phân loại Gell và Coombs. Rối loạn quá mẫn thường liên quan đến hơn một loại.Phản ứng quá mẫn loại IPhản ứng loại I (tức quá mẫn nhanh) là trung gian IgE. Kháng nguyên liên kết với IgE gắn với tế bào mast ở mô và tế bào bạch cầu ưa bazo trong máu, gây ra giải phóng các chất trung gian đã được hình thành trước đó (ví dụ histamine, protease, các yếu tố hóa ứng động) và tổng hợp các chất trung gian khác (ví dụ như prostaglandins, leukotrienes, yếu tố kích hoạt tiểu cầu, cytokine). Các chất làm trung gian gây giãn mạch, tăng thẩm thấu mao mạch, tăng tiết nhầy, co thắt cơ, và xâm nhập mô với bạch cầu ái toan, tế bào T hỗ trợ loại 2 (TH2), và các tế bào viêm khác.Các phản ứng quá mẫn loại I tiến triển < 1 giờ sau khi tiếp xúc với kháng nguyên.Phản ứng loại I bao gồm tất cả các chứng bệnh atopy (ví dụ, Bệnhviêm da cơ địa,hen,viêm mũi,viêm kết mạc) và nhiều hội chứng dị ứng (ví dụ,phản vệ, một số trường hợpphù mạch,nổi mày đay, dị ứng cao su và một sốdị ứng thực phẩm). Các thuật ngữ atopy và dị ứng thường được sử dụng thay cho nhau nhưng khác:Atopylà phản ứng miễn dịch quá mức qua trung gian IgE; tất cả các rối loạn atopy là rối loạn quá mẫn type I.Dị ứnglà bất kỳ phản ứng miễn dịch phóng đại đối với một kháng nguyên ngoại lai bất kể cơ chế.Do đó, tất cả các tình trạng rối loạn thể tạng dị ứng được coi là dị ứng, nhưng nhiều tình trạng rối loại dị ứng (ví dụ:viêm phổi kẽ do quá mẫn) không phải là thể tạng dị ứng.Cácrối loạn dị ứngthường ảnh hưởng đến mũi, mắt, da và phổi. Các rối loạn này bao gồmviêm kết mạc,viêm da dị ứngngoại sinh (loại chàm phổ biến nhất),nổi mề đaydo miễn dịch, một số dạngphù mạch,dị ứng với latexcấp tính, một số rối loạn dị ứng phổi (ví dụ,hen suyễndo dị ứng, các thành phần trung gian IgE củabệnh aspergillus phế quản phổi dị ứng),viêm mũi dị ứng và phản ứng dị ứng vớinọc độc.Phản ứng quá mẫn loại IICác phản ứng loại II (quá mẫn gây độc tế bào phụ thuộc kháng thể) là kết quả khi kháng thể liên kết với kháng nguyên bề mặt tế bào hoặc một phân tử kết hợp với bề mặt tế bào. Cấu trúc kháng nguyên-kháng thể gắn kết bề mặt (trái ngược với phức hợp kháng nguyên-kháng thể tuần hoàn trong quá mẫn loại III) kích hoạt các tế bào tham gia vào quá trình gây độc tế bào qua trung gian tế bào phụ thuộc vào kháng thể (ví dụ: tế bào diệt tự nhiên, bạch cầu ái toan, đại thực bào), bổ thể, hoặc cả hai. Kết quả là tổn thương tế bào và mô.Các rối loạn liên quan đến phản ứng loại II bao gồm việcthải tạng ghép mức độ siêu cấp tính, Coombs dương tínhbệnh thiếu máu tan máu,Viêm tuyến giáp Hashimoto, và các bệnh kháng màng đáy cầu thận (ví dụ,Hội chứng Goodpasture).Phản ứng quá mẫn loại IIIPhản ứng loại III (bệnh phức hợp miễn dịch) gây viêm để phản ứng với các phức hợp miễn dịch kháng nguyên kháng thể lưu hành lắng đọng trong mạch hoặc mô. Các phức hợp này có thể kích hoạthệ thống bổ thểhoặc gắn kết và kích hoạt một số tế bào miễn dịch, dẫn đến giải phóng các chất trung gian gây viêm.Hậu quả của sự hình thành phức hợp miễn dịch phụ thuộc một phần vào tỷ lệ tương đối của kháng nguyên và kháng thể trong phức hệ miễn dịch. Giai đoạn sớm trong đáp ứng miễn dịch, do dư thừa kháng nguyên trong các phức hợp kháng nguyên kháng thể nhỏ, nên không kích hoạt bổ thể. Sau đó, khi kháng nguyên và kháng thể cân bằng hơn, các phức hợp miễn dịch lớn hơn và có xu hướng lắng đọng trong các mô khác nhau (ví dụ, cầu thận, mạch máu), gây ra phản ứng hệ thống. Dạng isotype của các kháng thể được tạo ra thay đổi trong quá trình đáp ứng miễn dịch và isotype, glycosyl hóa, kích thước và điện tích của các thành phần của phức hợp góp phần vào đáp ứng lâm sàng.Các rối loạn loại III bao gồm bệnh huyết thanh,lupus ban đỏ hệ thống (SLE),viêm khớp dạng tháp (RA),chứng viêm mạch leukocytoclastic,cryoglobulinemia, cấpviêm phổi quá mẫn, và một số loạiviêm cầu thận.Phản ứng type III tiến triển từ 4 đến 10 ngày sau khi tiếp xúc với kháng nguyên, và nếu tiếp xúc với kháng nguyên tiếp tục, có thể trở thành mạn tính.Phản ứng quá mẫn loại IVPhản ứng loại IV (quá mẫn muộn) không liên quan đến kháng thể mà do tế bào T làm trung gian.Các tế bào T, mẫn cảm sau khi tiếp xúc với một kháng nguyên cụ thể, được kích hoạt bằng cách tiếp xúc liên tục hoặc tiếp xúc lại với kháng nguyên; chúng gây tổn thương mô bằng các hiệu ứng độc trực tiếp hoặc thông qua phóng thích cytokine kích hoạt bạch cầu ái toan, bạch cầu mono và đại thực bào, bạch cầu trung tính hoặc các tế bào diệt tự nhiên.Các bệnh lý liên quan đến phản ứng loại IV bao gồmhội chứng Stevens-Johnson,hoại tử biểu bì nhiễm độc (SJS/TEN),phát ban do thuốc với tình trạng tăng bạch cầu ái toan và các triệu chứng toàn thân (DRESS),viêm da tiếp xúc(ví dụ: cây thường xuân độc),viêm phổi kẽ do quá mẫnbán cấp và mạn tính,thải ghép đồng loàicấp tính và mạn tính, đáp ứng miễn dịch với bệnh lao và nhiều dạngquá mẫn với thuốc.Dị ứng với latexDị ứng latex là phản ứng miễn dịch quá mức với các protein hòa tan trong nước có trong các sản phẩm từ latex (ví dụ: găng tay cao su, đê chắn nha khoa, bao cao su, ống thông cho thiết bị hô hấp, ống thông tiểu, đầu thụt tháo có vòng cao su bơm hơi).Bắt đầu từ cuối những năm 1980, tỷ lệ mắc bệnh tăng lên ở những người làm việc trong lĩnh vực chăm sóc sức khỏe khi việc chú trọng vào các biện pháp phòng ngừa chung dẫn đến việc sử dụng găng tay cao su thường xuyên.Phản ứng với latex có thể làCấp tính (trung gian IgE)Chậm (qua trung gian tế bào)Phản ứng cấp tính gây nổi mày đay và sốc phản vệ; phản ứng chậm gây viêm da.Sau khi các chuyên gia chăm sóc sức khỏe đeo găng tay cao su, da thường bị kích ứng và đóng vảy, nhưng phản ứng này thường là kích ứng hóa chất chứ không phải dị ứng cao su.Chẩn đoán dị ứng mủ cao su chủ yếu dựa vào tiền sử bệnh. Có xét nghiệm da và xét nghiệm phát hiện kháng thể IgE antilatex.Điều trị là tránh latex. Phần lớn, các cơ sở chăm sóc sức khỏe hiện không có latex và tỷ lệ dị ứng với latex đã giảm đáng kể.**XemRaulf M: Hiện trạng dị ứng latex nghề nghiệp.Curr Opin Allergy Clin Immunol20 (2):112–116, 2020.*XemRaulf M: Hiện trạng dị ứng latex nghề nghiệp.Curr Opin Allergy Clin Immunol20 (2):112–116, 2020.
+
+--- 2. Căn nguyên của các tình trạng rối loạn dị ứng và thể tạng dị ứng ---
+
+Các yếu tố di truyền phức tạp, môi trường và yếu tố đặc trưng vùng góp phần gây ra dị ứng qua trung gian IgE.Yếu tố di truyềncó thể liên quan, như gợi ý khi có tính chất gia đình, liên kết giữa atopy và loci HLA riêng biệt, và tính đa hình của một số gen, bao gồm cả các chuỗi beta thụ thể IgE ái lực cao, chuỗi alpha-thụ thể interleukin (IL)-4, IL-4, IL-13, CD14, dipeptidyl-peptidase 10 (DPP10), và một domain disintegrin và metalloprotease 33 (ADAM33).Yếu tố môi trườngtương tác với các yếu tố di truyền để duy trì đáp ứng miễn dịch qua trung gian tế bào thông qua tế bào T hỗ trợ loại 2 (TH2). Tế bào TH2 kích hoạt bạch cầu ái toan, thúc đẩy sản xuất IgE, và là tiền dị ứng. Tiếp xúc với vi khuẩn, vi rút và nội độc tố (ví dụ: lipopolysaccharide) ở thời thơ ấu có thể chuyển đáp ứng tế bào TH2 tự nhiên sang đáp ứng tế bào T hỗ trợ loại 1 (TH1), ức chế tế bào TH2 và do đó ngăn chặn phản ứng dị ứng. Tế bào T điều hòa (Treg) (ví dụ: CD4+, CD25+, Foxp3+), có khả năng ức chế đáp ứng của tế bào TH2 và các tế bào dạng sợi tiết IL-12, thúc đẩy đáp ứng của tế bào TH1, có lẽ cũng có liên quan. Xu hướng ở các quốc gia có lợi thế kinh tế hơn hướng tới các gia đình nhỏ hơn với ít con hơn, môi trường trong nhà sạch hơn và sử dụng kháng sinh rộng rãi hơn có thể hạn chế việc trẻ em tiếp xúc với các tác nhân truyền nhiễm thúc đẩy đáp ứng chủ yếu của tế bào TH1; những xu hướng như vậy có thể giải thích sự gia tăng tỷ lệ mắc một số bệnh dị ứng.Các yếu tố khác góp phần vào sự phát triển dị ứng bao gồm tiếp xúc với dị nguyên mạn tính và mẫn cảm, chế độ ăn uống và các chất ô nhiễm môi trường.Các yếu tố đặc hiệu tại vị trí giải phẫubao gồm các phân tử kết dính trong biểu mô phế quản và da và các phân tử trong đường tiêu hóa (GI) hướng dẫn tế bào TH2 đến các mô đích. Thành phần của đường tiêu hóa, đường hô hấp, và hệ vi khuẩn trên da dường như ảnh hưởng mạnh đến sự phát triển của dị ứng da. Các vi sinh vật này có thể mang đến mục tiêu mới cho điều trị dị ứng.Dị nguyênTheo định nghĩa, một dị nguyên gây ra phản ứng miễn dịch trung gian IgE hoặc qua trung gian tế bào T loại IV. Các chất gây dị ứng hầu như luôn là những protein có trọng lượng phân tử thấp; nhiều chất trong nhóm này có thể gắn với các hạt không khí.Các nguồn gây dị ứng thường gây ra phản ứng dị ứng cấp tính và mạn tính (loại I và loại IV) bao gồmMạt bụi nhàLông động vậtPhấn hoa (cây, cỏ, cỏ dại)ĐấtThức ănNước bọt và nọc độc của côn trùng (lây truyền qua các vết cắn và các vết đốt)M Thuốc, trị liệu đang dùng (Medications)Hóa chất gia dụng (ví dụ: hydroxyisohexyl 3-cyclohexene carboxaldehyde, cinnamal, eugenol)Đối với phản ứng quá mẫn loại IV, thuốc là nguyên nhân phổ biến nhất.
+
+--- 3. Sinh lý bệnh của tình trạng rối loạn cơ địa dị ứng và dị ứng ---
+
+Khi chất gây dị ứng liên kết với các tế bào mast và bạch cầu ái toan đã được mẫn cảm gắn IgE, histamin được giải phóng khỏi các hạt trong tế bào. Các tế bào mast được phân bố rộng rãi nhưng tập trung nhiều nhất ở da, phổi và niêm mạc đường tiêu hóa (GI); histamine tạo điều kiện cho tình trang viêm và là chất trung gian đầu tiên của tình trạng dị ứng lâm sàng. Sự phá vỡ mô tế bào và các chất khác nhau (các chất gây kích ứng mô, opiates, các chất hoạt động bề mặt, các thành phần bổ thể C3a và C5a) có thể trực tiếp kích hoạt giải phóng histamine, không phụ thuộc IgE.Histamine gây ra những hiện tượng sau:Giãn mạch cục bộ (gây ban đỏ)Tăng thẩm thấu mao mạch và phù (gây sẩn phù)Làm giãn mạch các tiểu động mạch xung quanh bởi các cơ chế phản xạ nơ-ron (gây ra dát phẳng - vùng da đỏ quanh một sẩn phù)Kích thích thần kinh cảm giác (gây ngứa)Co thắt cơ trơn đường hô hấp (co thắt phế quản) và đường tiêu hóa (tăng nhu động của GI)Tăng tiết chất nhày ở mũi, tiết nước bọt và ở phế quảnKhi giải phóng một cách có hệ thống, histamine gây giãn động mạch và có thể gây ra kết tụ máu ngoại vi và hạ huyết áp; giãn mạch não có thể là nguyên nhân gây đau đầu vận mạch. Histamine làm tăng thẩm thấu mao mạch; tình trạng mất plasma và protein huyết tương vào khoảng gian mạch có thể làm tình trạng sốc tuần hoàn trầm trọng hơn. Sự mất mát này làm gia tăng bù catecholamine từ các tế bào chromafin của tuyến thượng thận.
+
+--- 4. Các triệu chứng và dấu hiệu của tình trạng rối loạn cơ địa dị ứng và dị ứng ---
+
+Các triệu chứng phổ biến của rối loạn dị ứng quá mẫn loại I bao gồmChảy mũi, hắt hơi, và nghẹt mũi (đường hô hấp trên)Khò khè và khó thở (đường hô hấp dưới)Ngứa (mắt, mũi, da)Các dấu hiệu có thể bao gồm phù nề cuốn mũi, đau xoang khi ấn, thở khò khè, sung huyết và phù kết mạc,nổi mề đay,phù mạch,viêm davà (nếu mạn tính) liken hóa da.Thở rít, thở khò khè, và hạ huyết áp là những dấu hiệu nguy hiểm đến tính mạngsốc phản vệ.
+
+--- 5. Chẩn đoán các tình trạng rối loạn dị ứng và thể tạng dị ứng ---
+
+Bệnh sử và khám lâm sàngĐôi khi làm công thức máu (để kiểm tra bạch cầu ái toan) và xét nghiệm nồng độ IgE huyết thanh (các xét nghiệm không đặc hiệu)Thường xuyên thực hiện xét nghiệm da và xét nghiệm nồng độ IgE huyết thanh đặc hiệu với dị nguyên (các xét nghiệm đặc hiệu)Hiếm khi làm xét nghiệm kích thíchKhai thác bệnh sử toàn diện đáng tin cậy hơn các xét nghiệm hoặc sàng lọc. Bệnh sử nên được khai thácCác câu hỏi về tần số và thời gian của các lần bị dị ứng và tình trạng thay đổi theo thời gianCác yếu tố khởi phát nếu nhận dạng đượcLiên quan đến hoàn cảnh hoặc theo mùa (ví dụ, xảy ra trong mùa bụi phấn, sau khi tiếp xúc với động vật, cỏ khô, bụi, khi tập thể dục, hoặc ở những nơi cụ thể)Tiền sử gia đình có các triệu chứng tương tự hoặc rối loạn dị ứngĐáp ứng với điều trị thửTuổi khi bắt đầu có thể rất quan trọng trongbệnh henvì hen ở trẻ em thường do dị ứng và không nghĩ tới do dị ứng nếu bệnh hen bắt đầu sau 30 tuổi.Các xét nghiệm không đặc hiệuMột số xét nghiệm có thể gợi ý nhưng không khẳng định nguồn gốc dị ứng của các triệu chứng.Có thể thực hiện xét nghiệmcông thức máu (CBC)để phát hiện tình trạngtăng bạch cầu ái toannếu bệnh nhân không dùng corticosteroid, thuốc làm giảm số lượng bạch cầu ái toan. Tuy nhiên, công thức máu có giá trị giới hạn bởi vì bạch cầu ái toan có thể tăng lên trong cả tình trạng dị ứng hoặc các tình trạng khác (ví dụ như quá mẫn cảm, ung thư, bệnh viêm ruột, nhiễm ký sinh trùng), số lượng bạch cầu ái toan bình thường không loại trừ dị ứng. Tổng số lượng bạch cầu thường là bình thường. Thiếu máu và tăng tiểu cầu tiên phát không phải là dấu hiệu điển hình của phản ứng dị ứng và nên nhanh chóng xem xét của một rối loạn viêm hệ thống.Có thể đánh giá số lượng bạch cầu trong nước mũi hoặc đờm; nếu tìm thấy bạch cầu ái toan có thể cho rằng có tình trạng viêm qua trung gian TH2.Nồng độ IgE toàn phần trong huyết thanhtăng cao trong các bệnh dị ứng nhưng không giúp ích nhiều trong việc đưa ra chẩn đoán dị ứng cụ thể vì chúng cũng có thể tăng cao trongcác bệnh nhiễm trùng ký sinh trùng,bệnh bạch cầu đơn nhân nhiễm trùng, một sốbệnh tự miễn, phản ứng thuốc, rối loạn suy giảm miễn dịch (hội chứng tăng IgEvàhội chứng Wiskott-Aldrich),bệnh liên quan đến IgG4và một số dạngbệnh đa u tủy. Nồng độ IgE có ích trong việc theo dõi đáp ứng điều trịbệnh aspergillosis phế quản phổi dị ứng.Các xét nghiệm đặc hiệuXét nghiệm dasử dụng các nồng độ chuẩn của dị nguyên được đưa trực tiếp vào da và được chỉ định khi khai thác bệnh sử và khám thực thể chi tiết không xác định nguyên nhân và yếu tố khởi phát gây nên các triệu chứng dai dẳng hoặc trầm trọng. Xét nghiệm da có giá trị dự đoán dương tính cao hơn trong chẩn đoán viêm mũi dị ứng và viêm kết mạc so với chẩn đoán hen suyễn dị ứng hoặc dị ứng thực phẩm; giá trị dự đoán âm tính đối với dị ứng thực phẩm cao (1).Các kháng nguyên được sử dụng phổ biến nhất là phấn (cây, cỏ, cỏ dại), mốc, phân mạt bụi nhà, động vật và huyết thanh, thuốc diệt côn trùng, thực phẩm, kháng sinh beta-lactam. Lựa chọn kháng nguyên dựa vào bệnh sử của bệnh nhân và tỷ lệ lưu hành.Hai kỹ thuật thực hiện xét nghiệm da có thể được sử dụng:Lẩy da (lẩy)Nội bìXét nghiệm lẩy có thể phát hiện hầu hết các tình trạng dị ứng, nó thường được thực hiện đầu tiên. Xét nghiệm nội bì nhạy hơn nhưng kém đặc hiệu hơn; nó có thể được chỉ định để đánh giá độ nhạy cảm đối với dị nguyên khi kết quả xét nghiệm lẩy âm tính hoặc không rõ ràng.Thực hiệnxét nghiệm lẩy, nhỏ một giọt chiết xuất kháng nguyên trên da, sau đó lẩy lên bằng chích hoặc đâm qua giọt chiết xuất bằng đầu của kim 27 gauge với góc 20°hoặc sử dụng kim lẩy chuyên dụng.Nếu không có chất gây dị ứng được xác định trong xét nghiệm lẩy da, thử nghiệm trong da được thực hiện.Thực hiệnxét nghiệm nội bì, cần lượng chiết xuất đủ để tạo một sẩn 1 hoặc 2 mm (bình thường 0,02 mL) được tiêm vào trong da với bơm tiêm 0,5 hoặc 1mL và mũi kim vát 27 gauge.Xét nghiệm lẩy da và xét nghiệm nội bì trong da cần có chứng âm với chất pha loãng riêng và histamine (10 mg/mL với xét nghiệm lẩy, 0,01 mL dung dịch với tỷ lệ 1:1000 với xét nghiệm nội bì) như chứng dương. Đối với bệnh nhân đã từng (<1 năm) phản ứng toàn thân đối với kháng nguyên làm xét nghiệm, xét nghiệm bắt đầu với chất thử được pha loãng 100 lần, sau đó 10 lần, và tiếp đến là nồng độ tiêu chuẩn.xét nghiệm được đánh giá là dương nếu xảy ra phản ứng sẩn phù và dát đỏ và đường kính sẩn phù lớn hơn 3 đến 5 mm so với chứng âm sau 15 đến 20 phút.Dương tính giả xảy ra trong bệnh da liễu (phản ứng sẩn phù và dát đỏ do gãi hoặc chà da). Âm tính giả xảy ra khi các chất chiết xuất từ ​​chất gây dị ứng đã được bảo quản không đúng cách hoặc đã quá hạn.Một số loại thuốc cũng có thể ảnh hưởng đến kết quả và nên ngừng dùng vài ngày đến một tuần trước khi xét nghiệm. Các loại thuốc này bao gồm thuốc kháng histamine không kê đơn (OTC) và thuốc kháng histamin theo toa, thuốc chống trầm cảm ba vòng, omalizumab và thuốc ức chế monoamine oxidase. Một số bác sĩ lâm sàng cho rằng nên tránh làm xét nghiệm ở những bệnh nhân sử dụng thuốc chẹn beta vì những bệnh nhân này thường có nguy cơ bị phản ứng nặng. Những yếu tố nguy cơ này có thể dự đoán xảy ra khi có giảm chức năng tim phổi và bao gồm bệnh mạch vành, loạn nhịp tim và người cao tuổi. Ngoài ra, thuốc chẹn beta có thể cản trở việc điều trị các phản ứng nặng bằng cách ngăn chặn đáp ứng với thuốc chủ vận beta-adrenergic như làepinephrine.Các xét nghiệm IgE huyết thanh đặc hiệu với dị nguyênsử dụng kháng thể kháng IgE gắn nhãn enzyme để phát hiện sự gắn kết của IgE huyết thanh với một dị nguyên đã biết. Các xét nghiệm này được thực hiện khi xét nghiệm ở da có thể không hiệu quả hoặc có nguy cơ, ví dụ: khi các loại thuốc ảnh hưởng đến kết quả xét nghiệm không thể tạm thời ngừng trước khi xét nghiệm hoặc khi một rối loạn về da như bệnh chàm, bệnh da vẽ nổi hoặc bệnh vẩy nến khiến cho việc xét nghiệm da trở nên khó khăn. Đối với các xét nghiệm IgE huyết thanh đặc hiệu với dị nguyên, dị nguyên được cố định trên bề mặt tổng hợp. Sau khi có trong huyết thanh bệnh nhân và kháng thể kháng IgE có gắn nhãn enzyme, chất nền của enzyme được thêm vào; chất nền cung cấp khả năng phát hiện huỳnh quang hoặc phát quang hóa học. Các xét nghiệm IgE đặc hiệu cho chất gây dị ứng đã thay thế xét nghiệm chất hấp thụ dị ứng phóng xạ (RAST), sử dụng kháng thể kháng IgE 125-I được đánh dấu. Mặc dù các xét nghiệm IgE huyết thanh đặc hiệu với chất gây dị ứng không phải là chất phóng xạ, nhưng đôi khi chúng vẫn được gọi là RAST.Thử nghiệm tiền kích thíchbao gồm một thử thách bằng miệng, liên quan đến việc tiếp xúc trực tiếp của niêm mạc với chất gây dị ứng; nó được chỉ định cho những bệnh nhân phải ghi lại phản ứng của họ (ví dụ, đối với các yêu cầu về nghề nghiệp hoặc khuyết tật) và để loại trừ dị ứng qua trung gian IgE ở những bệnh nhân được cho là có nguy cơ dị ứng thấp. Xét nghiệm này thường được thực hiện để loại trừ dị ứng thực phẩm và thuốc. Các loại xét nghiệm tiền kích thích khác bao gồm yêu cầu bệnh nhân tập thể dục để chẩn đoán bệnh hen suyễn do gắng sức. Có thể thực hiện nhiều thử nghiệm kích thích khác nhau để phát hiệnnổi mày đayvật lý tại phòng khám; bao gồm đặt một viên đá lạnh lên da trong 4 phút để chẩn đoán nổi mày đay do lạnh, yêu cầu bệnh nhân tập thể dục để tăng nhiệt độ cơ thể và do đó xác nhận bệnh mày đay cholinergic, và đặt một thiết bị rung (thiết bị rung trong phòng thí nghiệm) trên cánh tay hoặc bàn tay của bệnh nhân để xác định bệnh mày đay rung qua trung gian tế bào mast.Thử nghiệm mũi và phế quảnchủ yếu là công cụ nghiên cứu, nhưng thử nghiệm phế quản đôi khi được sử dụng khi ý nghĩa lâm sàng của xét nghiệm da dương tính không rõ ràng hoặc khi không có chiết xuất kháng nguyên nào (ví dụ: đối vớibệnh hen suyễn liên quan đến công việc).Tài liệu tham khảo chẩn đoán1.Patel G, Saltoun C. Skin testing in allergy.Allergy Asthma Proc2019;40(6):366-368. doi:10.2500/aap.2019.40.4248
+
+--- 6. Điều trị các tình trạng rối loạn dị ứng và thể tạng dị ứng ---
+
+Điều trị cấp cứuLoại bỏ hoặc tránh các tác nhân gây dị ứngThuốc kháng H1Thuốc ổn định tế bào mastCorticosteroid chống viêm và thuốc ức chế leukotrieneLiệu pháp miễn dịch (giảm mẫn cảm)Điều trị cấp cứuPhản ứng dị ứng nặng (ví dụ,phản vệ) cần điều trị cấp cứu ngay lập tức bằng epinephrine.Nếu đường thở bị ảnh hưởng (ví dụ, trongphù mạch), đảm bảo đường thở là ưu tiên cao nhất. Điều trị có thể bao gồmepinephrinevà/hoặcđặt nội khí quản.Những bệnh nhân có phản ứng dị ứng nặng nên được khuyên mang theo ống tiêm tự tiêm epinephrine và các thuốc kháng histamin uống, và nếu có phản ứng nặng xảy ra sử dụng các phương pháp điều trị này càng nhanh càng tốt và sau đó đến khoa cấp cứu. Ở đó, bệnh nhân có thể được theo dõi chặt chẽ và điều trị có thể được lặp lại hoặc điều chỉnh khi cần thiết.Kiểm soát môi trườngLoại bỏ hoặc tránh các tác nhân gây dị ứng là phương pháp điều trị chính vàchiến lược dự phòngcho người bị dị ứng. Tuy nhiên, khi bệnh nhân mẫn cảm với nhiều chất gây dị ứng, việc tránh hoàn toàn về cơ bản là không thể.Thuốc kháng histamineThuốc kháng histamine chẹn các thụ thể histamine; chúng không ảnh hưởng đến quá trình sản xuất histamin hoặc chuyển hóa. Có 4 thụ thể histamine khác nhau: H1, H2, H3 và H4.Thuốc kháng histamine ngăn chặn thụ thể H1 (thuốc chẹn H1) là phương pháp điều trị chính cho các rối loạn dị ứng. Thuốc chẹn H2 chủ yếu được sử dụng để ức chế axit dạ dày nhưng cũng hữu ích cho một số phản ứng dị ứng; thuốc này có thể được chỉ định làm liệu pháp bổ sung đểđiều trị sốc phản vệ,bệnh tăng bạch cầu mastvà một số bệnh dị ứng, đặc biệt lànổi mày đaytự phát mạn tính.Uống thuốc kháng H1thuốc kháng làm giảm các triệu chứng dị ứng khác nhau (ví dụ viêm mũi kết mạc dị ứng,viêm mũi dị ứng,viêm kết mạc,nổi mề đay, các tổn thương da khác, phản ứng nhẹ đối với các lần truyền máu không tương thích); thuốc ít có hiệu quả đối với giãn phế quản dị ứng và giãn mạch toàn thân. Sự khởi đầu của tác dụng thường là 15 đến 30 phút, với tác dụng đỉnh điểm trong 1 giờ; thời gian hoạt động thường là từ 3 đến 6 giờ.Các sản phẩm có chứa đường uống thuốc chẹn H1 và kích thích thần kinh giao cảm (ví dụ, pseudoephedrine) không kê đơn có sẵn rộng rãi để sử dụng ở người lớn và trẻ em từ 12 tuổi trở lên. Các thuốc này đặc biệt có ích khi cần cả thuốc kháng histamin và thuốc giảm triệu chứng nghẹt mũi trong mũi; tuy nhiên, đôi khi bị chống chỉ định (ví dụ, nếu bệnh nhân đang dùng chất ức chế monoamine oxidase [MAOI]).Thuốc kháng H1 đường uống được phân loại thànhThế hệ thứ nhất: Gây ngủThế hệ thứ hai: Không gây ngủ (tỉnh táo tốt hơn do ít gây ngủ)Thuốc kháng histamine thế hệ thứ nhấtcó sẵn không cần đơn. Các thuốc này dễ dàng vượt qua hàng rào máu não. Tất cả các thuốc đều có tính chất gây ngủ và kháng cholinergic đáng kể; thuốc gây ra những vấn đề đặc biệt cho người cao tuổi và bệnh nhân bị tăng nhãn áp, tăng sản tuyến tiền liệt lành tính, táo bón, tụt huyết áp, mê sảng, hoặc chứng mất trí.Thuốc kháng histamine thế hệ thứ haicó sẵn không cần đơn. Các thuốc này không vượt qua hàng rào máu não dễ dàng như các thuốc kháng histamine thế hệ thứ nhất. Thuốc kháng histamin thế hệ thứ hai thường được ưu tiên sử dụng.Thuốc kháng histamine có thể được sử dụng theo nhiều đường khác nhau, bao gồmTheo đường uống (nhiều – xem bảngThuốc chặn H1 dùng theo đường uống)Nhỏ mũi (azelastine hoặc olopatadine để điều trị viêm mũi)Thuốc nhỏ mắt (ví dụ: azelastine, emedastine, ketotifen, levocabastine, olopatadine, pemirolast [không có ở Hoa Kỳ] để điều trị viêm kết mạc)Da (ví dụ: diphenhydramine, doxepin)BảngThuốc chẹn H1 đường uốngBảngThuốc chẹn H1 đường uốngThuốc chẹn H1 đường uốngThuốcCác chế phẩm sẵn cóThế hệ thứ nhất*Brompheniramine†Chỉ có sẵn dưới dạng sản phẩm phối hợp với thuốc chống tắc nghẽn mũi hoặc thuốc chống ho, không được khuyến nghị cho trẻ em < 6 tuổiViên nén 4, 8 và 12 mg2 mg/5 mL thuốc dung dịchViên nén 8 và 12 mg (phóng thích kéo dài, kéo dài, đơn chất)Chlorpheniramine†Chỉ có sẵn dưới dạng sản phẩm phối hợp với thuốc chống tắc nghẽn mũi hoặc thuốc chống ho, không được khuyến nghị cho trẻ em < 6 tuổiViên nén nhai 2 mgViên nén 4, 8 và 12 mgPhóng thích kéo dài:viên nén hoặc viên nang 12 mg2 mg/5 mL si-rôClemastineViên 1,34 và 2,68 mg0,67 mg/5 mL si-rôCyproheptadineViên nén 4 mg2 mg/5 mL si-rôDexchlorpheniramineViên nén 2 mg2 mg/5 mL si-rôViên nén 4 và 6 mg (phóng thích kéo dài)DiphenhydramineViên nén 25 đến 50 mg hoặc viên nénViên nén nhai 12,5 mg12,5 mg/5 mL elixirsi-rô 12,5 mg/mLHydroxyzinViên nang 25, 50, và 100 mgViên 10, 25, 50, và 100 mg10 mg/5 mL si-rô25 mg/5 mL dung dịch uốngPromethazineCác lựa chọn thay thế an toàn hơn được ưu tiên cho các rối loạn dị ứng ở trẻ emViên nén 12,5, 25 và 50 mg6,25 mg/5 mL và 25 mg/5 mL si-rôThế hệ thứ haiAcrivastine/pseudoephedrine8-mg acrivastine cộng với viên nang pseudoephedrine 60mgCetirizineViên nén 5 và 10 mgSi-rô 1 mg/mLDesloratadineViên nén 5 mgSi-rô 0,5 mg/mLFexofenadineViên nén 30, 60 và 180 mgViên hòa tan 30 mg đường uống6 mg/mL dung dịch uốngLevocetirizineViên nén 5 mgDung dịch uống 0,5 mg/mLLoratadineViên nén và viên nang 10 mgViên nén nhai 5 mgViên nén hòa tan 5 và 10 mgSi-rô 1 mg/mLDung dịch uống 1 mg/mLMizolastineViên nén 10 mg* Hầu hết các thuốc kháng histamine thế hệ thứ nhất đều có đặc tính kháng cholinergic mạnh. Nhìn chung, không nên dùng thuốc này cho người cao tuổi hoặc bệnh nhân mắc bệnh tăng nhãn áp, phì đại lành tính tuyến tiền liệt, táo bón, mê sảng, mất trí nhớ hoặc hạ huyết áp tư thế đứng. Những loại thuốc này thường gây buồn ngủ, khô miệng, mờ mắt, bí tiểu, táo bón và hạ huyết áp tư thế đứng.Ở trẻ em, thuốc kháng histamin thế hệ thứ nhất chỉ nên sử dụng khi cần thiết do có khả năng gây ra tác dụng bất lợi, đặc biệt là khi phối hợp với các thuốc khác; thuốc kháng histamin thế hệ thứ hai được ưu tiên sử dụng cho viêm mũi dị ứng.† Thông thường, brompheniramine và chlorpheniramine chỉ có sẵn khi phối hợp với các loại thuốc khác (ví dụ: thuốc thông mũi, thuốc giảm ho). Không nên dùngbrompheniraminevàchlorpheniraminephối hợp với các thuốc khác (ví dụ: dextromethorphan, phenylephrine) cho trẻ em dưới 6 tuổi.* Hầu hết các thuốc kháng histamine thế hệ thứ nhất đều có đặc tính kháng cholinergic mạnh. Nhìn chung, không nên dùng thuốc này cho người cao tuổi hoặc bệnh nhân mắc bệnh tăng nhãn áp, phì đại lành tính tuyến tiền liệt, táo bón, mê sảng, mất trí nhớ hoặc hạ huyết áp tư thế đứng. Những loại thuốc này thường gây buồn ngủ, khô miệng, mờ mắt, bí tiểu, táo bón và hạ huyết áp tư thế đứng.Ở trẻ em, thuốc kháng histamin thế hệ thứ nhất chỉ nên sử dụng khi cần thiết do có khả năng gây ra tác dụng bất lợi, đặc biệt là khi phối hợp với các thuốc khác; thuốc kháng histamin thế hệ thứ hai được ưu tiên sử dụng cho viêm mũi dị ứng.† Thông thường, brompheniramine và chlorpheniramine chỉ có sẵn khi phối hợp với các loại thuốc khác (ví dụ: thuốc thông mũi, thuốc giảm ho). Không nên dùngbrompheniraminevàchlorpheniraminephối hợp với các thuốc khác (ví dụ: dextromethorphan, phenylephrine) cho trẻ em dưới 6 tuổi.Thuốc ổn định tế bào mastThuốc ổn định tế bào mast ngăn chặn việc giải phóng các chất trung gian từ các tế bào mast.Thuốc ổn định tế bào mast được sử dụng khi các loại thuốc khác (ví dụ: thuốc kháng histamin, corticosteroid tại chỗ) không hiệu quả hoặc không được dung nạp tốt. Các loại thuốc này cũng thường được sử dụng ở những bệnh nhân bị bệnh tế bào mast khi sự hoạt hóa và phóng thích chất trung gian của tế bào mast lấn át các thuốc kháng histamine thông thường.Những loại thuốc này có thể được cho dùngTheo đường uống (cromolyn, ketotifen)Nhỏ mũi (ví dụ, azelastine, cromolyn)Nhỏ mắt (ví dụ, azelastine, cromolyn, lodoxamide, ketotifen, nedocromil, olopatadine, pemirolast)Một số loại thuốc nhỏ mắt và nhỏ mũi (ví dụ: azelastine, ketotifen, olopatadine, pemirolast) là thuốc ổn định tế bào mast/thuốc kháng histamine tác dụng kép.Thuốc chống viêmCorticosteroid có thể được dùng đường hít (xem bảngCorticosteroid trong mũivàthuốc ổn định tế bào mast nhỏ trong mũi) hoặc theo đường uống.Corticosteroid uốngđược chỉ định cho:Các rối loạn dị ứng nặng nhưng tự hạn chế và không dễ điều trị bằng corticosteroid tại chỗ (ví dụ,cơn hen nặng cấp,viêm da tiếp xúclan tỏa nặng)Các rối loạn kháng trị với các biện pháp khácCorticosteroid mắtchỉ được sử dụng khi có sự tham gia của bác sĩ nhãn khoa vì nhiễm trùng và tăng áp lực nội nhãn là những tác dụng bất lợi tiềm ẩn.Thuốc chống viêm không steroid (NSAID) thường không hữu ích, ngoại trừ các dạng dùng tại chỗ được sử dụng để làm giảm viêm kết mạc và ngứa do viêm kết mạc dị ứng.BảngCorticosteroid trong mũiBảngCorticosteroid trong mũiCorticosteroid trong mũiThuốcLiều lượng trên mỗi nhát xịtBeclomethasone42 mcg40 mcg80 mcgBudesonide32 mcgCiclesonideBình xịt mũi (37 mcg)Thuốc xịt mũi (50 mcg)Flunisolide25 mcgFluticasone furoate27,5 mcgFluticasone propionate*50 mcgMometasone50 mcgTriamcinolone55 mcg* Có dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).* Có dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).BảngThuốc ổn định tế bào mast trong mũiBảngThuốc ổn định tế bào mast trong mũiThuốc ổn định tế bào mast trong mũiThuốcLiều lượng trên mỗi nhát xịtAzelastine*,†137 mcg trong dung dịch 0,1%205,5 mg trong dung dịch 0,15%Cromolyn5,2 mgOlopatadine*665 mcg* Azelastine và olopatadine là thuốc ổn định tế bào mast/kháng histamine có tác dụng kép.† Có sẵn dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).* Azelastine và olopatadine là thuốc ổn định tế bào mast/kháng histamine có tác dụng kép.† Có sẵn dạng phối hợp của azelastine/fluticasone (137 mcg/50 mcg).Các loại thuốc khácThuốc ức chế leukotriene(ví dụ: montelukast, zafirlukast, zileuton) được chỉ định để điều trị các trường hợp sau (xem thêm bảngĐiều trị hen suyễn bằng thuốc):Hen suyễn dai dẳng nhẹ; Montelukast, zafirlukast hoặc zileutonViêm mũi dị ứng theo mùa: MontelukastMày đay: Montelukast hoặc zafirlukastKháng thể kháng IgE (omalizumab) được chỉ định cho những trường hợp sau:Bệnh hen nặng hoặc trung bình dai dẳng kháng với điều trị chuẩnMày đay tự phát mạn tính kháng lại liệu pháp kháng histaminePolyps mũiPhản ứng dị ứng loại 1 (bao gồm sốc phản vệ) có thể xảy ra khi vô tình tiếp xúc với 1 hoặc nhiều loại thực phẩm ở bệnh nhân ≥ 1 tuổi bị dị ứng thực phẩm qua trung gian IgELiệu pháp miễn dịchTiếp xúc với dị nguyên với liều tăng dần (giảm mẫn cảm hoặc giải mẫn cảm) bằng tiêm hoặc đường uống hoặc dùng liều cao dưới lưỡi có thể gây ra tình trạng dung nạp. Liệu pháp này được chỉ định khi không thể tránh tiếp xúc với chất gây dị ứng và điều trị bằng thuốc không đủ hiệu quả.Cơ chế không rõ nhưng có thể liên quan đến sự khởi phát của những điều sau đây:Kháng thể IgG, cạnh tranh với IgE đối với dị nguyên hoặc ngăn chặn IgE gắn kết với thụ thể IgE tế bào mastInterferon-gamma, IL-12, và cytokines tiết ra bởi tế bào TH1Các tế bào T điều hòaĐể đạt hiệu quả đầy đủ, liều tiêm ban đầu được tiêm một lần hoặc hai lần/tuần. Liều dùng thường bắt đầu từ 0,1 đến 1,0 đơn vị hoạt tính sinh học (BAU), tùy thuộc vào mức độ nhạy cảm của bệnh nhân và tăng dần hàng tuần hoặc mỗi 2 tuần≤2 lần cho mỗi lần tiêm cho đến khi đạt được liều tối đa có thể dung nạp (liều bắt đầu gây ra tác dụng bất lợi ở mức độ vừa phải).Bệnh nhân cần được theo dõi trong khoảng 30 phút sau khi tiêm trong quá trình tăng liều vì sốc phản vệ có thể xảy ra sau khi tiêm.Sau đó, tiêm liều tối đa phải được cho từ 2 đến 4 tuần suốt năm; điều trị suốt năm tốt hơn so với điều trị trước hoặc trong mùa, thậm chí ở các trường hợp dị ứng theo mùa.Các chất gây dị ứng được sử dụng là những chất thường không thể tránh khỏi:Phấn hoaMạt bụi nhàĐấtNọc độc của côn trùng đốtNọc độc côn trùng được chuẩn hóa theo trọng lượng. Giảm mẫn cảm vẩy da động vật thường chỉ thực hiện ở những bệnh nhân không thể tránh tiếp xúc (ví dụ như bác sỹ thú y, nhân viên phòng thí nghiệm), nhưng có rất ít bằng chứng là nó rất hữu ích. Có thể thực hiện phương pháp giảm nhạy cảm với đậu phộng và đã thành công trong khoảng 60% đến 80% số trường hợp (1).Giảm mẫn cảmcó thể thực hiện đối với penicillin và một số loại thuốc khác và đối với huyết thanh lạ (khác loài). Giảm nhạy cảm với dị ứng thuốc thường thành công trong hầu hết các trường hợp (2).Tác dụng phụthường gặp liên quan đến quá liều, thỉnh thoảng xảy ra khi tiêm bắp hoặc tiêm tĩnh mạch liều quá cao, và biểu hiện có thể từ ho nhẹ hoặc chảy mũi đến nổi mề đay, hen nặng, sốc phản vệ, và hiếm khi tử vong. Tác dụng phụ có thể được ngăn ngừa bằng những cách sau:Tăng dần từng liều nhỏLặp lại hoặc giảm liều nếu phản ứng cục bộ đối với mũi tiêm trước đó mạnh (≥đường kính 2,5 cm)Giảm liều khi sử dụng một loại chiết xuất mớiGiảm liều lượng chất chiết xuất từ phấn hoa trong mùa phấn. Epinephrine, oxygen, và thiết bị hồi sức nên sẵn sàng ngay lập tức để điều trị kịp thời tình trạng quá mẫn.Liệu pháp miễn dịch dưới lưỡivới phấn hoa cỏ, cây cỏ phấn hương, hoặc chất chiết xuất từ chất gây dị ứng mạt bụi nhà có thể được sử dụng cho bệnh viêm mũi dị ứng khi bệnh do những chất gây dị ứng này gây ra. Liều thứ nhất được sử dụng tại cơ sở y tế; bệnh nhân nên được theo dõi trong 30 phút sau khi dùng vì có thể xảy ra phản vệ. Nếu liều thứ nhất được dung nạp, bệnh nhân dùng liều tiếp theo hàng ngày ở nhà. Ở người lớn, liều ban đầu không tăng, nhưng ở trẻ em và thanh thiếu niên từ 10 đến 17 tuổi, liều được tăng trong 3 ngày đầu. Đối với những bệnh nhân bị dị ứng phấn hoa cỏ hoặc cỏ phấn hương, việc điều trị được bắt đầu trước khi bắt đầu mỗi mùa phấn hoa cỏ hoặc cỏ phấn hương ít nhất 3 tháng và duy trì trong suốt mùa.Tỷ lệ sốc phản vệ đối với các chiết xuất miễn dịch dưới lưỡi có bán trên thị trường đã được báo cáo là 0,02% đến 0,03% so với gần 0,1% đối với liệu pháp miễn dịch dưới da (SCIT) (3).Liệu pháp miễn dịch đường uống để điều trịdị ứng đậu phộngsử dụng bột đậu phộng đã khử chất béo. Tăng liều được thực hiện bằng cách sử dụng 5 liều tăng dần từ 0,5 mg đến 6 mg trong một ngày được cho dùng trong cơ sở chăm sóc sức khỏe. Sau phác đồ ban đầu này là liều hàng ngày bắt đầu từ 3 mg và tăng từ 50 đến 100% 2 tuần một lần trong vòng 22 tuần trước khi đạt đến liều duy trì 300 mg mỗi ngày một lần. Mỗi lần tăng liều được cho dùng trong một cơ sở chăm sóc sức khỏe. Nếu liều ban đầu được dung nạp, các liều tiếp theo được dùng hàng ngày trong 2 tuần; các liều này có thể được dùng tại nhà. Sau khi bệnh nhân dung nạp thành công liều 300 mg trong cơ sở chăm sóc sức khỏe, họ phải dùng vô thời hạn liều 300 mg hàng ngày để duy trì giải mẫn cảm.Điều trị dị ứng trong thời kỳ mang thai và cho con búĐối vớiphụ nữ mang thaibị dị ứng môi trường và các triệu chứng về xoang-phổi, tránh xa tác nhân gây dị ứng là cách tốt nhất để kiểm soát các triệu chứng. Nếu các triệu chứng trầm trọng, cần sử dụng thuốc xịt trong mũi kháng histamin. Chỉ nên dùng thuốc kháng histamine đường uống nếu thuốc kháng histamine dạng xịt trong mũi không đáp ứng.Trongcho con búthuốc kháng histamine không gây nghiện được ưa thích hơn. Thuốc kháng histamine có thể được sử dụng, nhưng chúng có thể gây buồn ngủ và kích thích ở trẻ sơ sinh. Nếu cần phải dùng thuốc kháng histamine, trẻ nên được theo dõi những tác dụng này.Thuốc kháng histamin dạng xịt trong mũi được ưa thích hơn thuốc kháng histamine đường uống. Nếu thuốc kháng histamin đường uống là cần thiết để kiểm soát các triệu chứng, nên dùng ngay sau thời gian cho con bú. Cyproheptadine là chống chỉ định trong thời gian cho con bú vì nó làm giảm nồng độ prolactin và do đó có thể làm giảm tiết sữa.Tài liệu tham khảo về điều trị1.Alghamdi R, Alshaier R, Alotaibi A, et al: Immunotherapy Effectiveness in Treating Peanut Hypersensitivity: A Systemic Review.Cureus14(2):e21832, 2022. doi:10.7759/cureus.218322.Brennan PJ, Rodriguez Bouza T, Hsu FI, Sloane DE, Castells MC: Hypersensitivity reactions to mAbs: 105 desensitizations in 23 patients, from evaluation to treatment.J Allergy Clin Immunol124(6):1259–1266, 2009. doi:10.1016/j.jaci.2009.09.0093.Zeiger RS, Schatz M, Pomichowski ME, et al: Real-world assessment of anaphylaxis and eosinophilic esophagitis with 12 SQ house dust mite SLIT-tablet sublingual immunotherapy.J Allergy Clin Immunol Glob3(3):100250, 2024. doi:10.1016/j.jacig.2024.100250
+
+--- 7. Phòng ngừa các tình trạng rối loạn dị ứng và thể tạng dị ứng ---
+
+Các chất kích thích gây dị ứng nên được loại bỏ hoặc tránh. Các nội dung bao gồm:Loại bỏ các vật dụng thu gom bụi, như đồ lặt vặt, tạp chí, sách và đồ chơi mềmSử dụng gối sợi tổng hợp và nệm không thấm nướcThường xuyên giặt ga trải giường, vỏ gối và chăn bằng nước nóngThường xuyên lau nhà, bao gồm lau bụi, hút bụi và lau nhàTháo bỏ đồ nội thất bọc nệm và thảm hoặc thường xuyên hút bụi đồ nội thất bọc nệm và thảmThay rèm cửaDiệt gián để loại bỏ phơi nhiễmSử dụng máy hút ẩm trong các tầng hầm và các phòng kín, ẩm ướt khácSử dụng máy hút chân không và bộ lọc không khí hạt có hiệu suất cao (HEPA)Tránh các tác nhân gây khởi phát là thực phẩm hoặc thuốcHạn chế vật nuôi trong một số phòng nhất định hoặc không cho chúng ra khỏi nhàĐối với những người bị dị ứng theo mùa nghiêm trọng, có thể di chuyển đến một khu vực không có chất gây dị ứngCác tác nhân kích thích không gây dị ứng (ví dụ: khói thuốc, mùi nặng, khói thuốc, ô nhiễm không khí, nhiệt độ lạnh, độ ẩm cao) cũng nên tránh hoặc kiểm soát khi có thể.
+
+--- 8. Những điểm chính ---
+
+Các phản ứng dị ứng (thường gây ra bởi phân bọ nhà, phân vật nuôi, phấn hoa, hoặc nấm mốc) là do trung gian IgE gây phóng thích histamine.Khai thác bệnh sử toàn diện, bao gồm mô tả chi tiết về tần số và thời gian của các đợt dị ứng, xuất hiện các triệu chứng theo mùa, hoàn cảnh xuất hiện, tiền sử gia đình, các yếu tố kịch phát có thể và đáp ứng đối với các phương pháp điều trị đã dùng vì bệnh sử tin cậy hơn so với xét nghiệm.Khi khai thác bệnh sử và thăm khám không xác định nguyên nhân, xét nghiệm da hoặc xét nghiệm IgE huyết thanh đặc hiệu dị ứng có thể giúp xác định chất gây dị ứng.Loại bỏ hoặc tránh dị nguyên là chìa khóa để điều trị và phòng ngừa; giảm triệu chứng, sử dụng thuốc chẹn H1, corticosteroid tại chỗ, và/hoặc thuốc ổn định tế bào mast.Nếu không thể tránh được chất gây dị ứng và các phương pháp điều trị khác không có hiệu quả, thì cần sử dụng liệu pháp miễn dịch.
+
+--- 9. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.American Academy of Allergy, Asthma and Immunology: Trang web này cung cấp thông tin chung về các rối loạn dị ứng cho các bác sĩ lâm sàng ở Hoa Kỳ, thông tin về các cơ hội giáo dục và thông tin cho bệnh nhânEuropean Academy of Allergy and Clinical Immunology: Trang web này thúc đẩy cả nghiên cứu cơ bản và lâm sàng về các rối loạn dị ứng, cung cấp cho các bác sĩ lâm sàng một vị trí trung tâm để tìm kiếm thông tin và liên hệ, đồng thời cung cấp các nguồn lực cho bệnh nhân

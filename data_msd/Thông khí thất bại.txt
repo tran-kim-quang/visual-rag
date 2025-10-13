@@ -1,0 +1,429 @@
+TIÊU ĐỀ: Thông khí thất bại
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/suy-hô-hấp-và-thông-khí-cơ-học/thông-khí-thất-bại
+================================================================================
+
+NỘI DUNG:
+
+Thông khí thất bại
+
+Theo
+
+Bhakti K. Patel
+
+,
+
+MD
+
+,
+
+University of Chicago
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2024
+
+|
+
+đã sửa đổi
+
+Thg 10 2024
+
+v927321_vi
+
+Thở máy thất bại là sự gia tăng của PaCO2 (hypercapnia) xảy ra khi hoạt động hô hấp không còn được hỗ trợ bởi cơ hô hấp hoặc hoạt động của hệ thống thông khí. Các nguyên nhân phổ biến nhất là các đợt cấp nặng của COPD và hen, quá liều thuốc ức chế sự vận động của hô hấp và các tình trạng gây suy yếu hệ hô hấp (ví dụ hội chứng Guillain-Barré, nhược cơ, ngộ độc). Các phát hiện bao gồm khó thở, thở nhanh và lú lẫn. Tử vong có thể xảy ra. Chẩn đoán dựa trên khí máu và khám bệnh nhân; X-quang ngực và đánh giá lâm sàng có thể giúp phân tích nguyên nhân. Điều trị khác nhau tùy theo điều kiện nhưng thường bao gồm thông khí cơ học.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+(Xem thêm
+
+Tổng quan về thông khí cơ học
+
+)
+
+Hai nguyên nhân chính gây ra suy hô hấp bao gồm
+
+Đợt cấp nặng của
+
+bệnh hen suyễ
+
+n (tức là tình trạng hen suyễn)
+
+Đợt cấp của
+
+COPD
+
+(bệnh phổi tắc nghẽn mạn tính)
+
+Suy hô hấp do COPD được gọi là suy hô hấp cấp trên nền suy hô hấp mạn tính (ACRF).
+
+Sinh lý bệnh của suy thông khí
+
+Tăng CO2 xuất hiện khi thở thông khí phế nang giảm hoặc không tăng đủ để đáp ứng sự tăng sản xuất CO2. Giảm sự thông khí phế nang do giảm thông khí phút hoặc tăng thông khí khoảng chết mà không tăng thông khí phút tương ứng phù hợp.
+
+Thông khí thất bại có thể xảy ra khi có quá tải về hệ thống hô hấp (ví dụ, do sức cản hoặc độ đàn hồi phổi và ngực) so với khả năng thần kinh cơ để đạt được nỗ lực thở vào hiệu quả. Căng phồng quá mức ở những bệnh nhân bị hạn chế lưu lượng thở ra ngày càng tăng (như trong đợt cấp của hen suyễn hoặc COPD) cũng có thể làm tăng tải nội tại trên các cơ hít vào và dẫn đến yếu cơ. Khi tải lượng thông khí phút tăng lên (ví dụ: như xảy ra trong nhiễm trùng huyết), hệ thống hô hấp bị tổn thương có thể không đáp ứng được nhu cầu tăng lên này (để biết nguyên nhân, xem hình
+
+Sự cân bằng giữa tải trọng và năng lực thần kinh cơ
+
+).
+
+Khoảng chết sinh lý
+
+là một phần của cây phế quản mà không tham gia trao đổi khí. Nó bao gồm
+
+Khoảng chết giải phẫu (hầu họng, khí quản và đường thở)
+
+Khoảng chết phế nang (tức là, phế nang được thông khí nhưng không tưới máu)
+
+Khoảng chết sinh lý cũng có thể là kết quả của shunt hoặc giảm thông khí/tưới máu (V/Q) nếu bệnh nhân không thể tăng thông khí phút một cách thích hợp. Khoảng chết sinh lý thường chiếm khoảng 30% đến 40% thể tích khí lưu thông nhưng tăng lên 50% ở những bệnh nhân được đặt nội khí quản và
+
+>
+
+70% ở những bệnh nhân bị
+
+thuyên tắc động mạch phổi
+
+nghiêm trọng, khí phế thũng nặng hoặc
+
+tình trạng hen suyễn
+
+. Vì vậy, đối với bất kỳ thông khí phút nào, thì khoảng chết càng lớn, càng giảm thải trừ CO2.
+
+Tăng sản xuất CO2, như xảy ra với sốt,
+
+nhiễm trùng huyết
+
+, chấn thương,
+
+bỏng
+
+,
+
+cường giáp
+
+và
+
+tăng thân nhiệt ác tính
+
+, không phải là nguyên nhân chính gây suy thông khí vì bệnh nhân cần tăng thông khí để bù đắp. Thông khí thất bại liên quan đến những vấn đề này chỉ xảy ra khi khả năng bù trừ bị ảnh hưởng.
+
+Tăng CO2 làm giảm pH động mạch (
+
+toan hô hấp
+
+). Axit máu nặng (pH
+
+<
+
+7,2) góp phần gây ra
+
+Co mạch động mạch phổi
+
+Giãn mạch toàn thân
+
+Giảm khả năng co bóp của cơ tim
+
+Tăng kali máu
+
+Huyết áp thấp
+
+Kích thích tim, có khả năng gây rối loạn nhịp tim đe dọa tính mạng
+
+Theo thời gian, hệ đệm và thận có thể khắc phục được sự biến đổi toan máu. Tuy nhiên, sự tăng đột ngột của PaCO2 (phân áp riêng phần oxy) có thể xảy ra nhanh hơn thay đổi bù trừ (PaCO2 tăng từ 3 đến 6 mm Hg/phút trong một bệnh nhân hoàn toàn ngừng thở).
+
+Tăng CO2 cấp tính cũng gây giãn mạch não, làm tăng áp lực nội sọ, một vấn đề lớn ở bệnh nhân
+
+chấn thương sọ não
+
+.
+
+Sự cân bằng giữa tải trọng (thông khí trở kháng, đàn hồi và phút) và năng lực thần kinh cơ (điều khiển, truyền dẫn và sức mạnh cơ bắp) quyết định khả năng duy trì thông khí phế nang
+
+PEEP = áp lực dương cuối kỳ thở ra.
+
+Các triệu chứng và dấu hiệu của suy thông khí
+
+Triệu chứng chủ yếu của suy hô hấp là
+
+Khó thở
+
+Các dấu hiệu suy thông khí là do tăng tải, các dấu hiệu bao gồm việc co kéo các cơ hô hấp phụ, thở nhanh, nhịp tim nhanh, vã mồ hôi, lo lắng, thể tích thông khí giảm, thở không đều hoặc thở hổn hển, và chuyển động ngực bụng nghịch thường.
+
+Khi suy hô hấp do suy giảm chức năng hô hấp, sẽ thấy rõ hiện tượng giảm thở và/hoặc nhịp thở thấp.
+
+Suy thông khí dẫn đến tăng CO2 máu, gây ra các biểu hiện ở hệ thần kinh trung ương, từ những thay đổi tinh tế về tính cách đến lú lẫn, bế tắc hoặc hôn mê rõ rệt. Tăng CO2 mạn tính được dung nạp tốt hơn cấp tính và có ít triệu chứng hơn.
+
+Chẩn đoán suy thông khí
+
+Đo khí máu động mạch (ABGs)
+
+Chụp X-quang ngực
+
+Các xét nghiệm xác định nguyên nhân
+
+Nên nghi ngờ suy hô hấp ở những bệnh nhân bị suy hô hấp, mệt mỏi khi thở hoặc tím tái, hoặc thay đổi cảm giác và ở những người có rối loạn gây suy nhược thần kinh cơ. Thở nhanh cũng là một mối lo; tần số thở
+
+>
+
+28 đến 30 lần/phút không thể duy trì được trong thời gian dài, đặc biệt ở bệnh nhân cao tuổi hoặc yếu.
+
+Nếu nghi ngờ thông khí thất bại, cần phải phân tích khí máu, đo SpO2 và chụp X-quang ngực. Làm thán đồ tại giường có thể được sử dụng để xác định mức độ tăng CO2. Nhiễm toan hô hấp trên khí máu (ví dụ pH
+
+<
+
+7,35 và PCO2
+
+>
+
+50) xác nhận chẩn đoán.
+
+Bệnh nhân suy hô hấp mạn tính thường có mức PCO2 khá cao (ví dụ, từ 60 đến 90 mm Hg) ở mức cơ bản, điển hình với độ pH chỉ hơi toan. Ở những bệnh nhân này, mức độ toan máu cao hơn PCO2 là dấu hiệu chính cho việc giảm thông khí cấp tính.
+
+Bởi vì các phép đo ABG có thể bình thường hoặc cho thấy sự bù trừ hô hấp không đủ ở bệnh nhân
+
+nhiễm toan chuyển hóa
+
+và suy thông khí sớm, một số kiểm tra chức năng phổi tại giường bệnh có thể giúp dự đoán tình trạng suy thông khí, đặc biệt ở những bệnh nhân suy nhược thần kinh cơ có thể không chịu được suy thông khí mà không có biểu hiện suy hô hấp. Dung tích sống
+
+<
+
+10 đến 15 mL/kg và không có khả năng tạo ra lực thở vào âm 15 cm H2O cho thấy suy thông khí sắp xảy ra.
+
+Xác định nguyên nhân
+
+Sau khi chẩn đoán thở máy thất bại, nguyên nhân phải được xác định.
+
+Đôi khi có một rối loạn tiến triển đã biết (ví dụ như
+
+hôn mê
+
+,
+
+cơn hen
+
+cấp tính,
+
+COPD
+
+đợt cấp,
+
+suy giáp
+
+nặng,
+
+nhược cơ
+
+,
+
+ngộ độc
+
+) là một nguyên nhân rõ ràng. Trong những trường hợp khác, bệnh sử có thể gợi ý; khởi phát đột ngột của thở nhanh và hạ huyết áp sau phẫu thuật có thể do
+
+thuyên tắc phổi
+
+, các dấu hiệu thần kinh khu trú cho thấy nguyên nhân thần kinh trung ương hoặc thần kinh cơ.
+
+Khả năng hoạt động của thần kinh cơ có thể được đánh giá thông qua việc đánh giá sức mạnh cơ hô hấp (lực âm thở vào và lực thở ra), sự dẫn truyền thần kinh cơ (dây thần kinh và điện cơ) và các nghiên cứu về nguyên nhân trung khu điều khiển (ngộ độc, chụp não và xét nghiệm chức năng tuyến giáp).
+
+Điều trị suy thông khí
+
+Điều trị nguyên nhân
+
+Thường sử dụng thông khí áp lực dương
+
+Điều trị suy hô hấp nhằm mục đích điều chỉnh sự mất cân bằng giữa sức mạnh của hệ thống hô hấp và tải trọng của nó cũng như theo nguyên nhân. Các tác nhân gây bít tắc rõ ràng (ví dụ, co thắt phế quản, nhầy niêm mạc, các dị vật) nên được điều chỉnh nếu có thể.
+
+Cơn hen phế quản cấp (SA)
+
+Bệnh nhân bị cơn hen cần được điều trị trong khoa hồi sức tích cực bởi các nhân viên có kỹ năng kiểm soát đường thở. (Xem thêm
+
+Điều trị các cơn hen cấp
+
+)
+
+Thông khí áp lực dương không xâm lấn (NIPPV)
+
+có thể làm giảm ngay công thở và có thể ngăn chặn việc đặt nội khí quản cho đến khi điều trị bằng thuốc có hiệu quả. Việc sử dụng mặt nạ phải được thực hiện cẩn thận để nâng cao cảm giác thoải mái bằng cách có lẽ chỉ bắt đầu bằng việc chuẩn độ áp lực dương thở ra (EPAP) vì một trong những chức năng chính của áp lực dương thở vào (IPAP) là tăng thể tích khí lưu thông và ở những bệnh nhân có tình trạng hen suyễn, thể tích phổi cuối thì thở ra đạt đến tổng dung tích phổi (xem thêm
+
+Cơ chế hô hấp
+
+).
+
+Sau khi giải thích về lợi ích của nó, bệnh nhân giữ mặt nạ trên mặt trong khi áp lực nhỏ được áp dụng (áp lực dương liên tục [CPAP] 3-5 cm H2O). Sau khi được dung nạp, mặt nạ được gắn chặt vào vị trí trong khi áp lực tăng dần tới khi BN thấy thoải mái và làm giảm công thở qua đánh giá theo tần số thở và sử dụng các cơ hô hấp phụ. Bệnh nhân cần phải được lựa chọn cẩn thận (ví dụ: tránh những bệnh nhân sắp cần đặt nội khí quản) và nên điều chỉnh cài đặt trên cơ sở từng cá nhân.
+
+Thông khí cơ học qua
+
+ống nội khí quản
+
+được chỉ định cho suy hô hấp sắp xảy ra trên lâm sàng bằng các dấu hiệu như là mất ý thức, nói từng từ đơn, tư thế cúi người, và thở nông. Các giá trị ABG cho thấy tình trạng tăng CO2 máu ngày càng trầm trọng cũng là một dấu hiệu, mặc dù việc xác nhận bằng cách đo ABG là không cần thiết và không nên thay thế phán đoán của bác sĩ. Đặt nội khí quản miệng hơn mũi vì sẽ có một ống nội khí quản lớn hơn, làm giảm sức cản đường thở và cho phép hút qua ống dễ dàng hơn, có thể được sử dụng.
+
+Tụt huyết áp và
+
+tràn khí màng phổi
+
+đôi khi xảy ra sau khi đặt nội khí quản đối với tình trạng hen suyễn và đợt cấp của COPD (xem thêm
+
+Biến chứng của thông khí cơ học và biện pháp bảo vệ
+
+). Những biến chứng và tỷ lệ tử vong tương ứng đã giảm đáng kể do chiến lược thở máy nhấn mạnh đến việc hạn chế căng phồng quá mức trong việc đạt mức CO2 bình thường. Trong cơn hen cấp, thông khí đủ để đạt được một pH bình thường thường gây ra tình trạng căng phồng phổi quá mức. Để tránh căng phồng quá mức, cài đặt máy thở ban đầu bao gồm
+
+Thể tích khí lưu thông từ 5 đến 7 mL/kg
+
+Nhịp thở từ 10 đến 18 lần/phút
+
+Dòng thở vào có thể cần khá cao (ví dụ, 70 đến 120 L/phút) với một mẫu sóng vuông để tạo điều kiện cho thời gian thở ra tối đa.
+
+Căng phồng quá mức động nguy hiểm khó có thể xảy ra miễn là áp lực cao nguyên đo được là
+
+<
+
+30 đến 35 cm H2O và áp lực dương cuối thì thở ra nội tại (
+
+PEEP nội tại
+
+) là
+
+<
+
+15 cm H2O. Tuy nhiên, những áp lực này có thể khó đo do hoạt động của cơ hô hấp hít vào và thở ra. Áp lực cao nguyên
+
+>
+
+35 cm H2O được kiểm soát bằng cách giảm thể tích thông khí (giả định rằng đánh giá lâm sàng không chỉ ra áp lực cao là kết quả của sự giảm giãn nở của thành ngực hoặc bụng) hoặc tần số thở.
+
+Mặc dù có thể giảm áp lực đường thở đỉnh bằng cách giảm tốc độ dòng đỉnh hoặc bằng cách thay đổi dạng sóng dòng thành dạng giảm dần (tức là sao cho tốc độ dòng cao khi bắt đầu thở và giảm dần theo thời gian),
+
+không
+
+nên thực hiện những thay đổi như vậy. Mặc dù tốc độ dòng cao đòi hỏi áp lực cao để vượt qua được sức cản đường thở cao của cơn hen cấp, áp lực này sẽ bị phân tán qua các đường dẫn khí lớn, có sụn. Tốc độ dòng thấp hơn (ví dụ,
+
+<
+
+60 L/phút) làm giảm thời gian thở ra, do đó tăng thể tích cuối kỳ thở ra (và gây PEEP nội sinh) và cho phép lượng khí thở ra lớn hơn trong nhịp thở kế tiếp. Đôi khi, những bệnh nhân có PEEP nội sinh cao có thể cần phải tăng PEEP trên máy thở để tạo điều kiện thuận lợi cho việc kích hoạt và giảm công việc thở của máy thở.
+
+Sử dụng thể tích thông khí thấp thường gây ra tình trạng tăng CO2, điều này được cho phép vì mục đích tốt hơn là làm giảm thiểu mức căng phồng động quá mức. pH động mạch
+
+>
+
+7,15 nói chung dung nạp tốt về mặt sinh lý nhưng thường đòi hỏi phải dùng nhiều thuốc an thần và opioid. Nên tránh các thuốc chẹn thần kinh cơ sau khi đặt nội khí quản bởi vì sử dụng các thuốc này kết hợp với corticosteroid có thể gây ra bệnh cơ nghiêm trọng và đôi khi không hồi phục, đặc biệt là sau 24 giờ sử dụng kết hợp. Bệnh nhân kích thích cần được điều trị bằng an thần chứ không phải là giãn cơ, nhưng tốt nhất là điều chỉnh được máy thở theo nhu cầu của bệnh nhân để giảm sự cần thiết phải dùng an thần.
+
+Hầu hết bệnh nhân có tình trạng hen suyễn đều cải thiện đến mức không cần thở máy (ví dụ: trong vòng 2 ngày đến 5 ngày), mặc dù một số ít gặp phải tình trạng tắc nghẽn luồng khí nặng kéo dài. Xem
+
+Giải phóng khỏi thông khí cơ học
+
+để thảo luận về cách tiếp cận chung.
+
+Đợt cấp suy hô hấp mạn
+
+Ở bệnh nhân đợt cấp suy hô hấp mạn (ACRF) do
+
+COPD
+
+gây ra, oxy tiêu thụ cho công thở hơn nhiều lần so với bệnh nhân không mắc bệnh phổi nền. Việc tăng hoạt động hô hấp này xảy ra trong điều kiện khả năng hoạt động thần kinh cơ hầu như không đủ đáp ứng, dẫn đến bệnh nhân dễ bị mệt mỏi để duy trì sự thông khí. Bệnh nhân mắc COPD có thể dễ bị suy hô hấp do những tổn thương dường như tầm thường và việc phục hồi đòi hỏi phải xác định và điều chỉnh một cách có hệ thống những yếu tố thúc đẩy này (xem thêm
+
+Điều trị đợt cấp của COPD
+
+). Để khôi phục lại sự cân bằng giữa sức mạnh thần kinh cơ và hoạt động cần đạt, các bác sĩ lâm sàng cần làm giảm sự tắc nghẽn của thông khí cũng như sự căng giãn quá mức bằng cách sử dụng thuốc giãn phế quản và corticosteroid và điều trị nhiễm trùng bằng kháng sinh. Nồng độ K, phospho và Mg thấp trong huyết thanh có thể làm trầm trọng thêm tình trạng yếu cơ, làm sự hồi phục không hiệu quả và cần được xác định và điều trị.
+
+NIPPV
+
+là phương pháp điều trị ban đầu được ưu tiên đối với nhiều bệnh nhân mắc ACRF, dẫn đến giảm tỷ lệ
+
+viêm phổi liên quan đến máy thở
+
+, thời gian nằm viện và tỷ lệ tử vong so với
+
+đặt nội khí quản
+
+. Hầu hết bệnh nhân được điều trị bằng NIPPV không cần đặt nội khí quản. Ưu điểm của NIPPV bao gồm dễ sử dụng và lấy ra. Sau khi ổn định ban đầu, NIPPV có thể bị dừng tạm thời để cho phép uống bằng đường uống ở những bệnh nhân được chọn. Các thử nghiệm của việc thở không cần hỗ trợ được thực hiện dễ dàng, và NIPPV có thể được áp dụng lại như đã chỉ định từ trước.
+
+Cài đặt được điều chỉnh theo công thở với đánh giá của bệnh nhân, tần số thở và thể tích khí lưu thông và sự sử dụng cơ hô hấp phụ. Ở nhiều bệnh nhân, chỉ dùng EPAP có thể là đủ, điều này có lợi vì một trong những chức năng chính của áp lực đường thở dương hít vào là tăng thể tích khí lưu thông, và ở những bệnh nhân ACRF, thể tích phổi cuối kỳ thở ra đạt đến tổng dung tích phổi (xem thêm
+
+Cơ học hô hấp
+
+). Sự suy giảm ý thức (và cần đặt ống nội khí quản) được đánh giá tốt nhất trên lâm sàng; đo khí máu động mạch (ABG) có thể sai lầm. Mặc dù tăng CO2 máu trầm trọng hơn thường chỉ ra thất bại điều trị, khả năng dung nạp tăng CO2 máu khác nhau rõ rệt ở các bệnh nhân. Một số bệnh nhân có PaCO2
+
+>
+
+100 mm Hg tỉnh táo và quen với NIPPV, trong khi những bệnh nhân khác cần đặt nội khí quản ở mức PaCO2 thấp hơn nhiều.
+
+Thông khí cơ học thông thường trong ACRF nhằm mục đích giảm thiểu tình trạng căng phồng quá mức động và chống lại các tác động bất lợi của
+
+PEEP nội tại
+
+(PEEP tự động) trong khi giúp các cơ hô hấp mệt mỏi được nghỉ ngơi. Các thiết lập ban đầu được khuyến cáo là hỗ trợ - kiểm soát (A/C) với thể tích thông khí từ 5 đến 7 mL/kg và tần số thở từ 20 đến 24 lần/phút, mặc dù một số bệnh nhân cần tần số thở ban đầu thấp hơn để hạn chế PEEP nội sinh. PEEP nội sinh này đại diện cho một ngưỡng thở vào phải được người bệnh vượt qua để kích hoạt máy thở, làm tăng thêm công thở và mất sự nghỉ ngơi hoàn toàn trên máy thở. Để cân đối ảnh hưởng PEEP nội sinh, PEEP bên ngoài nên được áp dụng đến một mức
+
+≤
+
+85% PEEP nội sinh (thiết lập điển hình từ 5 đến 10 cm H2O). Áp dụng này làm giảm công thở vào mà không tăng sự căng phồng phổi quá mức. Tốc độ dòng thở vào cao nên được sử dụng để tối đa hóa thời gian thở ra. Những thiết lập này giảm thiểu nguy cơ bị kiềm hóa máu sau khi thông khí ban đầu quá mạnh. Tụt huyết áp cũng có thể xảy ra ngay sau khi đặt nội khí quản (xem thêm
+
+Các biến chứng của thở máy và các biện pháp bảo vệ
+
+).
+
+Hầu hết bệnh nhân đều cần hỗ trợ thở máy hoàn toàn trong 24 đến 48 giờ trước khi thử thở tự nhiên được cân nhắc. Nó không được xác định xem liệu thời gian điều trị này là cần thiết để các cơ hô hấp nghỉ hay để cho sự căng phồng phổi quá mức giảm xuống, dẫn đến tăng sức mạnh của cơ hô hấp. Bệnh nhân thường ngủ sâu trong thời gian này, trái ngược với bệnh nhân hen thường đòi hỏi chút an thần. Việc nghỉ ngơi đầy đủ thường không thể đạt được nếu thiếu chú ý đến nỗ lực của bệnh nhân. Nỗ lực này có thể biểu hiện như sử dụng cơ hô hấp phụ, áp lực đường thở thấp ở đầu hoặc suốt kỳ thở vào, hoặc thường xuyên không thể kích hoạt máy thở, cho thấy PEEP nội sinh cao, yếu cơ hoặc cả hai.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của suy thông khí ---
+
+Tăng CO2 xuất hiện khi thở thông khí phế nang giảm hoặc không tăng đủ để đáp ứng sự tăng sản xuất CO2. Giảm sự thông khí phế nang do giảm thông khí phút hoặc tăng thông khí khoảng chết mà không tăng thông khí phút tương ứng phù hợp.Thông khí thất bại có thể xảy ra khi có quá tải về hệ thống hô hấp (ví dụ, do sức cản hoặc độ đàn hồi phổi và ngực) so với khả năng thần kinh cơ để đạt được nỗ lực thở vào hiệu quả. Căng phồng quá mức ở những bệnh nhân bị hạn chế lưu lượng thở ra ngày càng tăng (như trong đợt cấp của hen suyễn hoặc COPD) cũng có thể làm tăng tải nội tại trên các cơ hít vào và dẫn đến yếu cơ. Khi tải lượng thông khí phút tăng lên (ví dụ: như xảy ra trong nhiễm trùng huyết), hệ thống hô hấp bị tổn thương có thể không đáp ứng được nhu cầu tăng lên này (để biết nguyên nhân, xem hìnhSự cân bằng giữa tải trọng và năng lực thần kinh cơ).Khoảng chết sinh lýlà một phần của cây phế quản mà không tham gia trao đổi khí. Nó bao gồmKhoảng chết giải phẫu (hầu họng, khí quản và đường thở)Khoảng chết phế nang (tức là, phế nang được thông khí nhưng không tưới máu)Khoảng chết sinh lý cũng có thể là kết quả của shunt hoặc giảm thông khí/tưới máu (V/Q) nếu bệnh nhân không thể tăng thông khí phút một cách thích hợp. Khoảng chết sinh lý thường chiếm khoảng 30% đến 40% thể tích khí lưu thông nhưng tăng lên 50% ở những bệnh nhân được đặt nội khí quản và>70% ở những bệnh nhân bịthuyên tắc động mạch phổinghiêm trọng, khí phế thũng nặng hoặctình trạng hen suyễn. Vì vậy, đối với bất kỳ thông khí phút nào, thì khoảng chết càng lớn, càng giảm thải trừ CO2.Tăng sản xuất CO2, như xảy ra với sốt,nhiễm trùng huyết, chấn thương,bỏng,cường giápvàtăng thân nhiệt ác tính, không phải là nguyên nhân chính gây suy thông khí vì bệnh nhân cần tăng thông khí để bù đắp. Thông khí thất bại liên quan đến những vấn đề này chỉ xảy ra khi khả năng bù trừ bị ảnh hưởng.Tăng CO2 làm giảm pH động mạch (toan hô hấp). Axit máu nặng (pH<7,2) góp phần gây raCo mạch động mạch phổiGiãn mạch toàn thânGiảm khả năng co bóp của cơ timTăng kali máuHuyết áp thấpKích thích tim, có khả năng gây rối loạn nhịp tim đe dọa tính mạngTheo thời gian, hệ đệm và thận có thể khắc phục được sự biến đổi toan máu. Tuy nhiên, sự tăng đột ngột của PaCO2 (phân áp riêng phần oxy) có thể xảy ra nhanh hơn thay đổi bù trừ (PaCO2 tăng từ 3 đến 6 mm Hg/phút trong một bệnh nhân hoàn toàn ngừng thở).Tăng CO2 cấp tính cũng gây giãn mạch não, làm tăng áp lực nội sọ, một vấn đề lớn ở bệnh nhânchấn thương sọ não.Sự cân bằng giữa tải trọng (thông khí trở kháng, đàn hồi và phút) và năng lực thần kinh cơ (điều khiển, truyền dẫn và sức mạnh cơ bắp) quyết định khả năng duy trì thông khí phế nangPEEP = áp lực dương cuối kỳ thở ra.
+
+--- 2. Các triệu chứng và dấu hiệu của suy thông khí ---
+
+Triệu chứng chủ yếu của suy hô hấp làKhó thởCác dấu hiệu suy thông khí là do tăng tải, các dấu hiệu bao gồm việc co kéo các cơ hô hấp phụ, thở nhanh, nhịp tim nhanh, vã mồ hôi, lo lắng, thể tích thông khí giảm, thở không đều hoặc thở hổn hển, và chuyển động ngực bụng nghịch thường.Khi suy hô hấp do suy giảm chức năng hô hấp, sẽ thấy rõ hiện tượng giảm thở và/hoặc nhịp thở thấp.Suy thông khí dẫn đến tăng CO2 máu, gây ra các biểu hiện ở hệ thần kinh trung ương, từ những thay đổi tinh tế về tính cách đến lú lẫn, bế tắc hoặc hôn mê rõ rệt. Tăng CO2 mạn tính được dung nạp tốt hơn cấp tính và có ít triệu chứng hơn.
+
+--- 3. Chẩn đoán suy thông khí ---
+
+Đo khí máu động mạch (ABGs)Chụp X-quang ngựcCác xét nghiệm xác định nguyên nhânNên nghi ngờ suy hô hấp ở những bệnh nhân bị suy hô hấp, mệt mỏi khi thở hoặc tím tái, hoặc thay đổi cảm giác và ở những người có rối loạn gây suy nhược thần kinh cơ. Thở nhanh cũng là một mối lo; tần số thở>28 đến 30 lần/phút không thể duy trì được trong thời gian dài, đặc biệt ở bệnh nhân cao tuổi hoặc yếu.Nếu nghi ngờ thông khí thất bại, cần phải phân tích khí máu, đo SpO2 và chụp X-quang ngực. Làm thán đồ tại giường có thể được sử dụng để xác định mức độ tăng CO2. Nhiễm toan hô hấp trên khí máu (ví dụ pH<7,35 và PCO2>50) xác nhận chẩn đoán.Bệnh nhân suy hô hấp mạn tính thường có mức PCO2 khá cao (ví dụ, từ 60 đến 90 mm Hg) ở mức cơ bản, điển hình với độ pH chỉ hơi toan. Ở những bệnh nhân này, mức độ toan máu cao hơn PCO2 là dấu hiệu chính cho việc giảm thông khí cấp tính.Bởi vì các phép đo ABG có thể bình thường hoặc cho thấy sự bù trừ hô hấp không đủ ở bệnh nhânnhiễm toan chuyển hóavà suy thông khí sớm, một số kiểm tra chức năng phổi tại giường bệnh có thể giúp dự đoán tình trạng suy thông khí, đặc biệt ở những bệnh nhân suy nhược thần kinh cơ có thể không chịu được suy thông khí mà không có biểu hiện suy hô hấp. Dung tích sống<10 đến 15 mL/kg và không có khả năng tạo ra lực thở vào âm 15 cm H2O cho thấy suy thông khí sắp xảy ra.Xác định nguyên nhânSau khi chẩn đoán thở máy thất bại, nguyên nhân phải được xác định.Đôi khi có một rối loạn tiến triển đã biết (ví dụ nhưhôn mê,cơn hencấp tính,COPDđợt cấp,suy giápnặng,nhược cơ,ngộ độc) là một nguyên nhân rõ ràng. Trong những trường hợp khác, bệnh sử có thể gợi ý; khởi phát đột ngột của thở nhanh và hạ huyết áp sau phẫu thuật có thể dothuyên tắc phổi, các dấu hiệu thần kinh khu trú cho thấy nguyên nhân thần kinh trung ương hoặc thần kinh cơ.Khả năng hoạt động của thần kinh cơ có thể được đánh giá thông qua việc đánh giá sức mạnh cơ hô hấp (lực âm thở vào và lực thở ra), sự dẫn truyền thần kinh cơ (dây thần kinh và điện cơ) và các nghiên cứu về nguyên nhân trung khu điều khiển (ngộ độc, chụp não và xét nghiệm chức năng tuyến giáp).
+
+--- 4. Điều trị suy thông khí ---
+
+Điều trị nguyên nhânThường sử dụng thông khí áp lực dươngĐiều trị suy hô hấp nhằm mục đích điều chỉnh sự mất cân bằng giữa sức mạnh của hệ thống hô hấp và tải trọng của nó cũng như theo nguyên nhân. Các tác nhân gây bít tắc rõ ràng (ví dụ, co thắt phế quản, nhầy niêm mạc, các dị vật) nên được điều chỉnh nếu có thể.Cơn hen phế quản cấp (SA)Bệnh nhân bị cơn hen cần được điều trị trong khoa hồi sức tích cực bởi các nhân viên có kỹ năng kiểm soát đường thở. (Xem thêmĐiều trị các cơn hen cấp)Thông khí áp lực dương không xâm lấn (NIPPV)có thể làm giảm ngay công thở và có thể ngăn chặn việc đặt nội khí quản cho đến khi điều trị bằng thuốc có hiệu quả. Việc sử dụng mặt nạ phải được thực hiện cẩn thận để nâng cao cảm giác thoải mái bằng cách có lẽ chỉ bắt đầu bằng việc chuẩn độ áp lực dương thở ra (EPAP) vì một trong những chức năng chính của áp lực dương thở vào (IPAP) là tăng thể tích khí lưu thông và ở những bệnh nhân có tình trạng hen suyễn, thể tích phổi cuối thì thở ra đạt đến tổng dung tích phổi (xem thêmCơ chế hô hấp).Sau khi giải thích về lợi ích của nó, bệnh nhân giữ mặt nạ trên mặt trong khi áp lực nhỏ được áp dụng (áp lực dương liên tục [CPAP] 3-5 cm H2O). Sau khi được dung nạp, mặt nạ được gắn chặt vào vị trí trong khi áp lực tăng dần tới khi BN thấy thoải mái và làm giảm công thở qua đánh giá theo tần số thở và sử dụng các cơ hô hấp phụ. Bệnh nhân cần phải được lựa chọn cẩn thận (ví dụ: tránh những bệnh nhân sắp cần đặt nội khí quản) và nên điều chỉnh cài đặt trên cơ sở từng cá nhân.Thông khí cơ học quaống nội khí quảnđược chỉ định cho suy hô hấp sắp xảy ra trên lâm sàng bằng các dấu hiệu như là mất ý thức, nói từng từ đơn, tư thế cúi người, và thở nông. Các giá trị ABG cho thấy tình trạng tăng CO2 máu ngày càng trầm trọng cũng là một dấu hiệu, mặc dù việc xác nhận bằng cách đo ABG là không cần thiết và không nên thay thế phán đoán của bác sĩ. Đặt nội khí quản miệng hơn mũi vì sẽ có một ống nội khí quản lớn hơn, làm giảm sức cản đường thở và cho phép hút qua ống dễ dàng hơn, có thể được sử dụng.Tụt huyết áp vàtràn khí màng phổiđôi khi xảy ra sau khi đặt nội khí quản đối với tình trạng hen suyễn và đợt cấp của COPD (xem thêmBiến chứng của thông khí cơ học và biện pháp bảo vệ). Những biến chứng và tỷ lệ tử vong tương ứng đã giảm đáng kể do chiến lược thở máy nhấn mạnh đến việc hạn chế căng phồng quá mức trong việc đạt mức CO2 bình thường. Trong cơn hen cấp, thông khí đủ để đạt được một pH bình thường thường gây ra tình trạng căng phồng phổi quá mức. Để tránh căng phồng quá mức, cài đặt máy thở ban đầu bao gồmThể tích khí lưu thông từ 5 đến 7 mL/kgNhịp thở từ 10 đến 18 lần/phútDòng thở vào có thể cần khá cao (ví dụ, 70 đến 120 L/phút) với một mẫu sóng vuông để tạo điều kiện cho thời gian thở ra tối đa.Căng phồng quá mức động nguy hiểm khó có thể xảy ra miễn là áp lực cao nguyên đo được là<30 đến 35 cm H2O và áp lực dương cuối thì thở ra nội tại (PEEP nội tại) là<15 cm H2O. Tuy nhiên, những áp lực này có thể khó đo do hoạt động của cơ hô hấp hít vào và thở ra. Áp lực cao nguyên>35 cm H2O được kiểm soát bằng cách giảm thể tích thông khí (giả định rằng đánh giá lâm sàng không chỉ ra áp lực cao là kết quả của sự giảm giãn nở của thành ngực hoặc bụng) hoặc tần số thở.Mặc dù có thể giảm áp lực đường thở đỉnh bằng cách giảm tốc độ dòng đỉnh hoặc bằng cách thay đổi dạng sóng dòng thành dạng giảm dần (tức là sao cho tốc độ dòng cao khi bắt đầu thở và giảm dần theo thời gian),khôngnên thực hiện những thay đổi như vậy. Mặc dù tốc độ dòng cao đòi hỏi áp lực cao để vượt qua được sức cản đường thở cao của cơn hen cấp, áp lực này sẽ bị phân tán qua các đường dẫn khí lớn, có sụn. Tốc độ dòng thấp hơn (ví dụ,<60 L/phút) làm giảm thời gian thở ra, do đó tăng thể tích cuối kỳ thở ra (và gây PEEP nội sinh) và cho phép lượng khí thở ra lớn hơn trong nhịp thở kế tiếp. Đôi khi, những bệnh nhân có PEEP nội sinh cao có thể cần phải tăng PEEP trên máy thở để tạo điều kiện thuận lợi cho việc kích hoạt và giảm công việc thở của máy thở.Sử dụng thể tích thông khí thấp thường gây ra tình trạng tăng CO2, điều này được cho phép vì mục đích tốt hơn là làm giảm thiểu mức căng phồng động quá mức. pH động mạch>7,15 nói chung dung nạp tốt về mặt sinh lý nhưng thường đòi hỏi phải dùng nhiều thuốc an thần và opioid. Nên tránh các thuốc chẹn thần kinh cơ sau khi đặt nội khí quản bởi vì sử dụng các thuốc này kết hợp với corticosteroid có thể gây ra bệnh cơ nghiêm trọng và đôi khi không hồi phục, đặc biệt là sau 24 giờ sử dụng kết hợp. Bệnh nhân kích thích cần được điều trị bằng an thần chứ không phải là giãn cơ, nhưng tốt nhất là điều chỉnh được máy thở theo nhu cầu của bệnh nhân để giảm sự cần thiết phải dùng an thần.Hầu hết bệnh nhân có tình trạng hen suyễn đều cải thiện đến mức không cần thở máy (ví dụ: trong vòng 2 ngày đến 5 ngày), mặc dù một số ít gặp phải tình trạng tắc nghẽn luồng khí nặng kéo dài. XemGiải phóng khỏi thông khí cơ họcđể thảo luận về cách tiếp cận chung.Đợt cấp suy hô hấp mạnỞ bệnh nhân đợt cấp suy hô hấp mạn (ACRF) doCOPDgây ra, oxy tiêu thụ cho công thở hơn nhiều lần so với bệnh nhân không mắc bệnh phổi nền. Việc tăng hoạt động hô hấp này xảy ra trong điều kiện khả năng hoạt động thần kinh cơ hầu như không đủ đáp ứng, dẫn đến bệnh nhân dễ bị mệt mỏi để duy trì sự thông khí. Bệnh nhân mắc COPD có thể dễ bị suy hô hấp do những tổn thương dường như tầm thường và việc phục hồi đòi hỏi phải xác định và điều chỉnh một cách có hệ thống những yếu tố thúc đẩy này (xem thêmĐiều trị đợt cấp của COPD). Để khôi phục lại sự cân bằng giữa sức mạnh thần kinh cơ và hoạt động cần đạt, các bác sĩ lâm sàng cần làm giảm sự tắc nghẽn của thông khí cũng như sự căng giãn quá mức bằng cách sử dụng thuốc giãn phế quản và corticosteroid và điều trị nhiễm trùng bằng kháng sinh. Nồng độ K, phospho và Mg thấp trong huyết thanh có thể làm trầm trọng thêm tình trạng yếu cơ, làm sự hồi phục không hiệu quả và cần được xác định và điều trị.NIPPVlà phương pháp điều trị ban đầu được ưu tiên đối với nhiều bệnh nhân mắc ACRF, dẫn đến giảm tỷ lệviêm phổi liên quan đến máy thở, thời gian nằm viện và tỷ lệ tử vong so vớiđặt nội khí quản. Hầu hết bệnh nhân được điều trị bằng NIPPV không cần đặt nội khí quản. Ưu điểm của NIPPV bao gồm dễ sử dụng và lấy ra. Sau khi ổn định ban đầu, NIPPV có thể bị dừng tạm thời để cho phép uống bằng đường uống ở những bệnh nhân được chọn. Các thử nghiệm của việc thở không cần hỗ trợ được thực hiện dễ dàng, và NIPPV có thể được áp dụng lại như đã chỉ định từ trước.Cài đặt được điều chỉnh theo công thở với đánh giá của bệnh nhân, tần số thở và thể tích khí lưu thông và sự sử dụng cơ hô hấp phụ. Ở nhiều bệnh nhân, chỉ dùng EPAP có thể là đủ, điều này có lợi vì một trong những chức năng chính của áp lực đường thở dương hít vào là tăng thể tích khí lưu thông, và ở những bệnh nhân ACRF, thể tích phổi cuối kỳ thở ra đạt đến tổng dung tích phổi (xem thêmCơ học hô hấp). Sự suy giảm ý thức (và cần đặt ống nội khí quản) được đánh giá tốt nhất trên lâm sàng; đo khí máu động mạch (ABG) có thể sai lầm. Mặc dù tăng CO2 máu trầm trọng hơn thường chỉ ra thất bại điều trị, khả năng dung nạp tăng CO2 máu khác nhau rõ rệt ở các bệnh nhân. Một số bệnh nhân có PaCO2>100 mm Hg tỉnh táo và quen với NIPPV, trong khi những bệnh nhân khác cần đặt nội khí quản ở mức PaCO2 thấp hơn nhiều.Thông khí cơ học thông thường trong ACRF nhằm mục đích giảm thiểu tình trạng căng phồng quá mức động và chống lại các tác động bất lợi củaPEEP nội tại(PEEP tự động) trong khi giúp các cơ hô hấp mệt mỏi được nghỉ ngơi. Các thiết lập ban đầu được khuyến cáo là hỗ trợ - kiểm soát (A/C) với thể tích thông khí từ 5 đến 7 mL/kg và tần số thở từ 20 đến 24 lần/phút, mặc dù một số bệnh nhân cần tần số thở ban đầu thấp hơn để hạn chế PEEP nội sinh. PEEP nội sinh này đại diện cho một ngưỡng thở vào phải được người bệnh vượt qua để kích hoạt máy thở, làm tăng thêm công thở và mất sự nghỉ ngơi hoàn toàn trên máy thở. Để cân đối ảnh hưởng PEEP nội sinh, PEEP bên ngoài nên được áp dụng đến một mức≤85% PEEP nội sinh (thiết lập điển hình từ 5 đến 10 cm H2O). Áp dụng này làm giảm công thở vào mà không tăng sự căng phồng phổi quá mức. Tốc độ dòng thở vào cao nên được sử dụng để tối đa hóa thời gian thở ra. Những thiết lập này giảm thiểu nguy cơ bị kiềm hóa máu sau khi thông khí ban đầu quá mạnh. Tụt huyết áp cũng có thể xảy ra ngay sau khi đặt nội khí quản (xem thêmCác biến chứng của thở máy và các biện pháp bảo vệ).Hầu hết bệnh nhân đều cần hỗ trợ thở máy hoàn toàn trong 24 đến 48 giờ trước khi thử thở tự nhiên được cân nhắc. Nó không được xác định xem liệu thời gian điều trị này là cần thiết để các cơ hô hấp nghỉ hay để cho sự căng phồng phổi quá mức giảm xuống, dẫn đến tăng sức mạnh của cơ hô hấp. Bệnh nhân thường ngủ sâu trong thời gian này, trái ngược với bệnh nhân hen thường đòi hỏi chút an thần. Việc nghỉ ngơi đầy đủ thường không thể đạt được nếu thiếu chú ý đến nỗ lực của bệnh nhân. Nỗ lực này có thể biểu hiện như sử dụng cơ hô hấp phụ, áp lực đường thở thấp ở đầu hoặc suốt kỳ thở vào, hoặc thường xuyên không thể kích hoạt máy thở, cho thấy PEEP nội sinh cao, yếu cơ hoặc cả hai.

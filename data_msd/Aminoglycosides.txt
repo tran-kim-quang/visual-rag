@@ -1,0 +1,413 @@
+TIÊU ĐỀ: Aminoglycosides
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/aminoglycosides
+================================================================================
+
+NỘI DUNG:
+
+Aminoglycosides
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1002080_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Aminoglycosid có hoạt tính diệt khuẩn
+
+phụ thuộc vào nồng độ
+
+. Các
+
+kháng sinh
+
+này kết hợp với ribosome 30S, do đó ức chế sự tổng hợp protein của vi khuẩn.
+
+Spectinomycin
+
+là một kháng sinh kìm khuẩn liên quan đến hóa học liên quan đến các aminoglycosides.
+
+Bảng
+
+Aminoglycosides
+
+Aminoglycosides
+
+Amikacin
+
+Gentamicin
+
+Kanamycin
+
+Neomycin*
+
+Plazomicin
+
+Streptomycin
+
+Tobramycin
+
+* Chỉ nên dùng tại chỗ hoặc uống.
+
+* Chỉ nên dùng tại chỗ hoặc uống.
+
+Dược động học của nhóm aminoglycoside
+
+Nhóm aminoglycoside được hấp thu kém qua đường uống nhưng được hấp thu tốt qua phúc mạc, khoang màng phổi, khớp và da bị bong tróc.
+
+Aminoglycosides thường được dùng đường tĩnh mạch nhưng có thể được tiêm bắp nếu không thể dùng đường tĩnh mạch. Aminoglycosides được phân phối tốt vào dịch ngoại bào ngoại trừ dịch kính, dịch não tuỷ chất tiết đường hô hấp và mật (đặc biệt ở những bệnh nhân bị tắc nghẽn mật). Tiêm nội nhãn cầu là cần thiết để điều trị viêm nội nhãn. Tiêm trong màng cứng thường được yêu cầu để đạt đến mức độ dịch cao đủ để điều trị viêm màng não.
+
+Nhóm aminoglycoside được bài tiết qua lọc cầu thận và có thời gian bán hủy trong huyết thanh từ 2 giờ đến 3 giờ; thời gian bán hủy tăng theo cấp số nhân khi mức lọc cầu thận giảm (ví dụ: ở bệnh nhân suy thận, ở người cao tuổi).
+
+Chỉ định cho Aminoglycoside
+
+Aminoglycosides được sử dụng cho
+
+Nhiễm khuẩn gram âm
+
+nghiêm trọng
+
+Aminoglycosides hoạt động chống lại hầu hết các vi khuẩn hiếu khí và kỵ khí không bắt buộc nhưng không hoạt động chống lại kỵ khí và hầu hết các vi khuẩn gram dương, trừ hầu hết các
+
+staphylococci
+
+; tuy nhiên, một số trực khuẩn Gram âm và tụ cầu vàng đã kháng.
+
+Aminoglycosides thường không được sử dụng một mình, trừ khi được sử dụng cho
+
+bệnh dịch hạch
+
+và
+
+bệnh sốt thỏ
+
+. Chúng thường được sử dụng với phổ rộng beta-lactam cho nhiễm trùng nghiêm trọng nghi ngờ là do một loài trực khuẩn gram âm. Tuy nhiên, do sự gia tăng đề kháng với aminoglycoside, một fluoroquinolone có thể được thay thế cho aminoglycoside trong phác đồ theo kinh nghiệm ban đầu tùy thuộc vào mô hình nhạy cảm với fluoroquinolone ở cộng đồng địa phương. Nếu phát hiện mầm bệnh nhạy cảm với kháng sinh đi kèm, có thể ngừng sử dụng aminoglycosid sau 2 ngày đến 3 ngày.
+
+Gentamicin hoặc ít gặp hơn streptomycin có thể được sử dụng cùng với các kháng sinh khác để điều trị
+
+viêm nội tâm mạc
+
+do Streptococci hoặc Enterococci. Enterococci kháng aminoglycoside đã trở thành vấn đề phổ biến. Bởi vì điều trị viêm nội tâm mạc do enterococ đòi hỏi phải sử dụng lâu dài một chất aminoglycosid độc hại và độc thận, cộng với một loại thuốc hoạt tính lên thành tế bào vi khuẩn (ví dụ penicillin, vancomycin) để đạt được sự kết hợp diệt khuẩn, việc chọn aminoglycosid phải dựa trên thử nghiệm nhạy cảm in vitro. Sự nhạy cảm in vitro của aminoglycosides được dự đoán khi liệu pháp aminoglycoside liều thấp được kết hợp với một loại thuốc có hoạt tính lên thành tế bào. Nếu chủng đó nhạy cảm với nồng độ
+
+gentamicin
+
+và streptomycin cao thì
+
+gentamicin
+
+được ưu tiên hơn vì nồng độ trong huyết thanh có thể được xác định dễ dàng và độc tính ít hơn. Mức độ kháng gentamicin in vitro ở mức độ cao không loại trừ tính nhạy cảm của các chủng này với mức độ cao của
+
+streptomycin
+
+; trong những trường hợp như vậy, nên sử dụng
+
+streptomycin
+
+nếu những chủng này nhạy cảm với nồng độ
+
+streptomycin
+
+cao.
+
+Có rất ít lựa chọn điều trị cho bệnh viêm nội tâm mạc do enterococci kháng lại nồng độ gentamicin và streptomycin cao; Không có sự kết hợp thuốc có hoạt tính trên thành tế bào/aminoglycoside nào tồn tại đối với bệnh viêm nội tâm mạc do các chủng như vậy, nhưng phối hợp giữa thuốc có hoạt tính ở thành tế bào ampicillin và ceftriaxone dường như có hiệu quả và giảm thiểu nguy cơ nhiễm độc thận. Nhiều bác sĩ lâm sàng sử dụng
+
+ampicillin
+
+cộng với
+
+ceftriaxone
+
+thay vì
+
+ampicillin
+
+cộng
+
+gentamicin
+
+để điều trị viêm nội tâm mạc do
+
+Enterococcus faecalis
+
+, ngay cả đối với các chủng không kháng aminoglycoside, vì hiệu quả tương tự và độc tính ít hơn.
+
+Streptomycin bị hạn chế sử dụng do kháng thuốc và độc tính. Nó được sử dụng để điều trị
+
+bệnh sốt thỏ
+
+và
+
+bệnh dịch hạch
+
+, và với các kháng sinh khác, để điều trị
+
+lao
+
+. Kanamycin vẫn có thể đóng một vai trò nào đó trong điều trị một số trường hợp
+
+bệnh lao
+
+kháng đa thuốc kết hợp với các kháng sinh khác.
+
+Vì độc tính, neomycin bị giới hạn sử dụng tại chỗ với một lượng nhỏ.
+
+Neomycin
+
+có sẵn để sử dụng cho mắt, tai, miệng, trực tràng và làm chất rửa bàng quang.
+
+Neomycin
+
+đường uống được sử dụng tại chỗ chống lại hệ vi sinh vật đường ruột để chuẩn bị cho ruột trước khi phẫu thuật và điều trị hôn mê gan.
+
+Chống chỉ định với Aminoglycoside
+
+Aminoglycosid là chống chỉ định ở những bệnh nhân dị ứng với chúng.
+
+Sử dụng nhóm aminoglycoside khi mang thai và cho con bú
+
+Với nhóm aminoglycoside, có thể có nguy cơ đối với thai nhi (ví dụ: độc tính trên thính giác với streptomycin), nhưng lợi ích lâm sàng có thể lớn hơn nguy cơ. Nếu một aminoglycosid được sử dụng trong thời kỳ mang thai hoặc nếu bệnh nhân mang thai trong khi dùng một aminoglycoside, cô ấy nên được thông báo về nguy cơ tiềm ẩn cho thai nhi.
+
+Aminoglycosides nhập sữa mẹ nhưng hấp thu qua đường miệng không nhiều. Vì vậy, chúng được xem là tương thích với việc sử dụng trong thời gian cho con bú.
+
+Tác dụng bất lợi của Aminoglycosides
+
+Tất cả các aminoglycosides nguyên nhân
+
+Độc tính về thận (thường hồi phục)
+
+Độc tính tiền đình và thính giác (thường không hồi phục)
+
+Kéo dài các tác dụng của thuốc chẹn thần kinh
+
+Triệu chứng và dấu hiệu tổn thương tiền đình là chóng mặt và mất ngủ.
+
+Các yếu tố rủi ro
+
+đối với nhiễm độc thận, tiền đình và thính giác là
+
+Liều thường xuyên hoặc rất cao
+
+Nồng độ thuốc trong máu rất cao
+
+Thời gian điều trị kéo dài (đặc biệt là
+
+>
+
+3 ngày)
+
+Tuổi cao
+
+Rối loạn thận trước đây
+
+Dùng đồng thời
+
+vancomycin
+
+,
+
+cyclosporine
+
+,
+
+amphotericin B
+
+, thuốc cản quang iod hoặc các chất độc với thận khác
+
+Đối với độc tính thính giác, một khuynh hướng di truyền, các vấn đề nghe trễ đã tồn tại và sử dụng đồng thời các thuốc lợi tiểu tuần hoàn
+
+Liều cao được cho trong một thời gian dài thường gây ra nhiều mối quan tâm về độc tính của thận, nhưng ngay cả liều thấp trong một thời gian ngắn có thể làm giảm đi chức năng thận.
+
+Bệnh nhân dùng aminoglycosid cho
+
+>
+
+2 tuần và những người có nguy cơ nhiễm độc tiền đình và tai nghe nên được theo dõi bằng bởi chuyên khoa tai mũi họng. Khi có dấu hiệu ngộ độc đầu tiên, nên ngừng thuốc (nếu có thể) hoặc điều chỉnh liều lượng.
+
+Aminoglycosid có thể kéo dài tác dụng của chẹn thần kinh cơ (ví dụ, succinylcholine, thuốc giống curare) và làm xấu đi các yếu kém trong các rối loạn ảnh hưởng đến việc truyền dẫn thần kinh cơ (ví dụ nhược cơ). Những tác dụng này đặc biệt dễ xảy ra khi dùng thuốc quá nhanh hoặc nồng độ trong huyết thanh quá cao. Tác dụng đôi khi có thể giải quyết nhanh hơn nếu bệnh nhân được dùng neostigmine hoặc calcium đường tĩnh mạch. Các ảnh hưởng thần kinh khác bao gồm dị cảm và biến chứng thần kinh ngoại vi.
+
+Phản ứng quá mẫn ít gặp ngoại trừ viêm da tiếp xúc do dùng
+
+neomycin
+
+tại chỗ. Hàm lượng neomycin cao có thể gây giảm hấp thu.
+
+Cân nhắc về liều lượng đối với Aminoglycoside
+
+Vì tính độc hại phụ thuộc nhiều hơn vào thời gian điều trị hơn so với nồng độ đỉnh và do hiệu quả
+
+phụ thuộc vào nồng độ
+
+hơn là phụ thuộc vào thời gian, nên tránh dùng liều liên tục. Liều theo đường tĩnh mạch một lần/ngày được ưu tiên hơn so với dùng thuốc ngắt quãng truyền thống đối với hầu hết các chỉ định. Liều một lần/ngày có thể không được ưu tiên khi sử dụng cho các trường hợp phối hợp vi khuẩn gram dương (ví dụ, viêm nội tâm mạc enterococcal) hoặc ở những bệnh nhân đang mang thai, bị bỏng đáng kể (> 20% diện tích bề mặt cơ thể), hoặc bị suy thận (độ thanh thải creatinin < 40 mL/phút). Các aminoglycoside tĩnh mạch thường được truyền trong 30 đến 60 phút.
+
+Nếu bệnh nhân có cân nặng thấp hơn trọng lượng cơ thể lý tưởng (IBW), thì tổng trọng lượng cơ thể (TBW) của họ nên được sử dụng để tính liều. Nếu TBW lớn hơn IBW nhưng nhỏ hơn 120% IBW, thì liều lượng phải dựa trên IBW. Nếu TBW lớn hơn 120% IBW, trọng lượng cơ thể đã điều chỉnh (ABW) nên được sử dụng để tính liều:
+
+IBW tính bằng kg (nam): 50 + (2,3 × inch trên 60 inch)
+
+IBW tính bằng kg (nữ): 45,5 + (2,3 × inch trên 60 inch)
+
+ABW tính bằng kg: IBW + [0,4 × (TBW - IBW)]
+
+Ở bệnh nhân có chức năng thận bình thường, liều dùng một lần/ngày là
+
+Gentamicin hoặc tobramycin: 5 mg/kg (7 mg/kg nếu bệnh nhân nặng), 24 giờ một lần
+
+Amikacin: 15 mg/kg, 24 tiếng một lần
+
+Nếu bệnh nhân đáp ứng với liều
+
+gentamicin
+
+hoặc
+
+tobramycin
+
+7 mg/kg trên lâm sàng và chức năng thận tiếp tục bình thường thì có thể giảm liều một lần/ngày xuống 5 mg/kg sau vài ngày điều trị đầu tiên.
+
+Ở những bệnh nhân nặng, nên xác định nồng độ đỉnh huyết thanh sau liều đầu tiên. Ở tất cả các bệnh nhân, nồng độ đỉnh và nồng độ đáy được đo sau khi dùng liều thứ hai hoặc thứ ba (khi chia liều hàng ngày) hoặc khi điều trị kéo dài
+
+>
+
+3 ngày, cũng như sau khi thay đổi liều. Creatinine trong huyết thanh được đo 2 ngày đến 3 ngày một lần và nếu nó ổn định thì không cần đo lại nồng độ aminoglycoside huyết thanh. Nồng độ đỉnh cao là 60 phút sau khi tiêm bắp hoặc 30 phút sau khi kết thúc truyền tĩnh mạch 30 phút. Nồng độ đáy được đo trong vòng 30 phút trước khi liều kế tiếp.
+
+Với liều một lần/ngày, nồng độ đỉnh trong huyết thanh gấp ít nhất 10 lần nồng độ ức chế tối thiểu (MIC) mong muốn. Mức đỉnh mong muốn này thường là 15 đến 20 mcg/mL đối với gentamicin (31,35 đến 41,80 micromol/L) và tobramycin (32,08 đến 42,78 micromol/L). Liều lượng được điều chỉnh để đảm bảo nồng độ đỉnh điều trị trong huyết thanh (để tạo điều kiện cho hoạt động phụ thuộc vào nồng độ) và nồng độ đáy không độc hại. Ở những bệnh nhân bị bệnh nặng, những người có thể tích phân bố mở rộng và được dùng liều ban đầu cao hơn, nồng độ đỉnh trong huyết thanh mục tiêu là 16 mcg/mL đến 24 mcg/mL đối với
+
+gentamicin
+
+(33,44 đến 50,16 micromol/L) và
+
+tobramycin
+
+( 34,22 đến 51,34 micromol/L) và 56 mcg/mL đến 64 mcg/mL (95,65 micromol/L đến 109,31 micromol/L) đối với amikacin. Đối với
+
+gentamicin
+
+và
+
+tobramycin
+
+, nồng độ đáy phải
+
+<
+
+1 mcg/mL (< 2,09 micromol/L đối với
+
+gentamicin
+
+và < 2,14 micromol/L đối với
+
+tobramycin
+
+) ở thời điểm 18 giờ đến 24 giờ sau liều đầu tiên với liều một lần/ngày và từ 1 mcg/mL đến 2 mcg/mL (từ 2,09 micromol/L đến 4,18 micromol/L đối với
+
+gentamicin
+
+và từ 2,14 micromol/L đến 4,28 micromol/L đối với
+
+tobramycin
+
+) với liều ngắt quãng truyền thống.
+
+Đối với bệnh nhân suy thận dùng liều ngắt quãng truyền thống, liều tấn công giống như đối với bệnh nhân có chức năng thận bình thường; thông thường, khoảng cách dùng thuốc được tăng lên hơn là giảm liều lượng. Hướng dẫn về liều duy trì dựa trên giá trị creatinine huyết thanh hoặc độ thanh thải creatinine hiện có nhưng không chính xác và nên đo nồng độ trong máu.
+
+Nếu bệnh nhân đang dùng liều cao beta-lactam và một aminoglycosid, nồng độ huyết thanh beta-lactam có thể làm mất hoạt tính aminoglycoside
+
+in vitro
+
+trong mẫu huyết thanh thu được để xác định nồng độ thuốc trừ phi mẫu được khảo sát ngay hoặc đông lạnh. Nếu bệnh nhân bị suy thận đồng thời dùng aminoglycoside và liều cao beta-lactam, nồng độ aminoglycosid huyết thanh có thể thấp hơn do sự tương tác trong cơ thể kéo dài.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học của nhóm aminoglycoside ---
+
+Nhóm aminoglycoside được hấp thu kém qua đường uống nhưng được hấp thu tốt qua phúc mạc, khoang màng phổi, khớp và da bị bong tróc.Aminoglycosides thường được dùng đường tĩnh mạch nhưng có thể được tiêm bắp nếu không thể dùng đường tĩnh mạch. Aminoglycosides được phân phối tốt vào dịch ngoại bào ngoại trừ dịch kính, dịch não tuỷ chất tiết đường hô hấp và mật (đặc biệt ở những bệnh nhân bị tắc nghẽn mật). Tiêm nội nhãn cầu là cần thiết để điều trị viêm nội nhãn. Tiêm trong màng cứng thường được yêu cầu để đạt đến mức độ dịch cao đủ để điều trị viêm màng não.Nhóm aminoglycoside được bài tiết qua lọc cầu thận và có thời gian bán hủy trong huyết thanh từ 2 giờ đến 3 giờ; thời gian bán hủy tăng theo cấp số nhân khi mức lọc cầu thận giảm (ví dụ: ở bệnh nhân suy thận, ở người cao tuổi).
+
+--- 2. Chỉ định cho Aminoglycoside ---
+
+Aminoglycosides được sử dụng choNhiễm khuẩn gram âmnghiêm trọngAminoglycosides hoạt động chống lại hầu hết các vi khuẩn hiếu khí và kỵ khí không bắt buộc nhưng không hoạt động chống lại kỵ khí và hầu hết các vi khuẩn gram dương, trừ hầu hết cácstaphylococci; tuy nhiên, một số trực khuẩn Gram âm và tụ cầu vàng đã kháng.Aminoglycosides thường không được sử dụng một mình, trừ khi được sử dụng chobệnh dịch hạchvàbệnh sốt thỏ. Chúng thường được sử dụng với phổ rộng beta-lactam cho nhiễm trùng nghiêm trọng nghi ngờ là do một loài trực khuẩn gram âm. Tuy nhiên, do sự gia tăng đề kháng với aminoglycoside, một fluoroquinolone có thể được thay thế cho aminoglycoside trong phác đồ theo kinh nghiệm ban đầu tùy thuộc vào mô hình nhạy cảm với fluoroquinolone ở cộng đồng địa phương. Nếu phát hiện mầm bệnh nhạy cảm với kháng sinh đi kèm, có thể ngừng sử dụng aminoglycosid sau 2 ngày đến 3 ngày.Gentamicin hoặc ít gặp hơn streptomycin có thể được sử dụng cùng với các kháng sinh khác để điều trịviêm nội tâm mạcdo Streptococci hoặc Enterococci. Enterococci kháng aminoglycoside đã trở thành vấn đề phổ biến. Bởi vì điều trị viêm nội tâm mạc do enterococ đòi hỏi phải sử dụng lâu dài một chất aminoglycosid độc hại và độc thận, cộng với một loại thuốc hoạt tính lên thành tế bào vi khuẩn (ví dụ penicillin, vancomycin) để đạt được sự kết hợp diệt khuẩn, việc chọn aminoglycosid phải dựa trên thử nghiệm nhạy cảm in vitro. Sự nhạy cảm in vitro của aminoglycosides được dự đoán khi liệu pháp aminoglycoside liều thấp được kết hợp với một loại thuốc có hoạt tính lên thành tế bào. Nếu chủng đó nhạy cảm với nồng độgentamicinvà streptomycin cao thìgentamicinđược ưu tiên hơn vì nồng độ trong huyết thanh có thể được xác định dễ dàng và độc tính ít hơn. Mức độ kháng gentamicin in vitro ở mức độ cao không loại trừ tính nhạy cảm của các chủng này với mức độ cao củastreptomycin; trong những trường hợp như vậy, nên sử dụngstreptomycinnếu những chủng này nhạy cảm với nồng độstreptomycincao.Có rất ít lựa chọn điều trị cho bệnh viêm nội tâm mạc do enterococci kháng lại nồng độ gentamicin và streptomycin cao; Không có sự kết hợp thuốc có hoạt tính trên thành tế bào/aminoglycoside nào tồn tại đối với bệnh viêm nội tâm mạc do các chủng như vậy, nhưng phối hợp giữa thuốc có hoạt tính ở thành tế bào ampicillin và ceftriaxone dường như có hiệu quả và giảm thiểu nguy cơ nhiễm độc thận. Nhiều bác sĩ lâm sàng sử dụngampicillincộng vớiceftriaxonethay vìampicillincộnggentamicinđể điều trị viêm nội tâm mạc doEnterococcus faecalis, ngay cả đối với các chủng không kháng aminoglycoside, vì hiệu quả tương tự và độc tính ít hơn.Streptomycin bị hạn chế sử dụng do kháng thuốc và độc tính. Nó được sử dụng để điều trịbệnh sốt thỏvàbệnh dịch hạch, và với các kháng sinh khác, để điều trịlao. Kanamycin vẫn có thể đóng một vai trò nào đó trong điều trị một số trường hợpbệnh laokháng đa thuốc kết hợp với các kháng sinh khác.Vì độc tính, neomycin bị giới hạn sử dụng tại chỗ với một lượng nhỏ.Neomycincó sẵn để sử dụng cho mắt, tai, miệng, trực tràng và làm chất rửa bàng quang.Neomycinđường uống được sử dụng tại chỗ chống lại hệ vi sinh vật đường ruột để chuẩn bị cho ruột trước khi phẫu thuật và điều trị hôn mê gan.
+
+--- 3. Chống chỉ định với Aminoglycoside ---
+
+Aminoglycosid là chống chỉ định ở những bệnh nhân dị ứng với chúng.
+
+--- 4. Sử dụng nhóm aminoglycoside khi mang thai và cho con bú ---
+
+Với nhóm aminoglycoside, có thể có nguy cơ đối với thai nhi (ví dụ: độc tính trên thính giác với streptomycin), nhưng lợi ích lâm sàng có thể lớn hơn nguy cơ. Nếu một aminoglycosid được sử dụng trong thời kỳ mang thai hoặc nếu bệnh nhân mang thai trong khi dùng một aminoglycoside, cô ấy nên được thông báo về nguy cơ tiềm ẩn cho thai nhi.Aminoglycosides nhập sữa mẹ nhưng hấp thu qua đường miệng không nhiều. Vì vậy, chúng được xem là tương thích với việc sử dụng trong thời gian cho con bú.
+
+--- 5. Tác dụng bất lợi của Aminoglycosides ---
+
+Tất cả các aminoglycosides nguyên nhânĐộc tính về thận (thường hồi phục)Độc tính tiền đình và thính giác (thường không hồi phục)Kéo dài các tác dụng của thuốc chẹn thần kinhTriệu chứng và dấu hiệu tổn thương tiền đình là chóng mặt và mất ngủ.Các yếu tố rủi rođối với nhiễm độc thận, tiền đình và thính giác làLiều thường xuyên hoặc rất caoNồng độ thuốc trong máu rất caoThời gian điều trị kéo dài (đặc biệt là>3 ngày)Tuổi caoRối loạn thận trước đâyDùng đồng thờivancomycin,cyclosporine,amphotericin B, thuốc cản quang iod hoặc các chất độc với thận khácĐối với độc tính thính giác, một khuynh hướng di truyền, các vấn đề nghe trễ đã tồn tại và sử dụng đồng thời các thuốc lợi tiểu tuần hoànLiều cao được cho trong một thời gian dài thường gây ra nhiều mối quan tâm về độc tính của thận, nhưng ngay cả liều thấp trong một thời gian ngắn có thể làm giảm đi chức năng thận.Bệnh nhân dùng aminoglycosid cho>2 tuần và những người có nguy cơ nhiễm độc tiền đình và tai nghe nên được theo dõi bằng bởi chuyên khoa tai mũi họng. Khi có dấu hiệu ngộ độc đầu tiên, nên ngừng thuốc (nếu có thể) hoặc điều chỉnh liều lượng.Aminoglycosid có thể kéo dài tác dụng của chẹn thần kinh cơ (ví dụ, succinylcholine, thuốc giống curare) và làm xấu đi các yếu kém trong các rối loạn ảnh hưởng đến việc truyền dẫn thần kinh cơ (ví dụ nhược cơ). Những tác dụng này đặc biệt dễ xảy ra khi dùng thuốc quá nhanh hoặc nồng độ trong huyết thanh quá cao. Tác dụng đôi khi có thể giải quyết nhanh hơn nếu bệnh nhân được dùng neostigmine hoặc calcium đường tĩnh mạch. Các ảnh hưởng thần kinh khác bao gồm dị cảm và biến chứng thần kinh ngoại vi.Phản ứng quá mẫn ít gặp ngoại trừ viêm da tiếp xúc do dùngneomycintại chỗ. Hàm lượng neomycin cao có thể gây giảm hấp thu.
+
+--- 6. Cân nhắc về liều lượng đối với Aminoglycoside ---
+
+Vì tính độc hại phụ thuộc nhiều hơn vào thời gian điều trị hơn so với nồng độ đỉnh và do hiệu quảphụ thuộc vào nồng độhơn là phụ thuộc vào thời gian, nên tránh dùng liều liên tục. Liều theo đường tĩnh mạch một lần/ngày được ưu tiên hơn so với dùng thuốc ngắt quãng truyền thống đối với hầu hết các chỉ định. Liều một lần/ngày có thể không được ưu tiên khi sử dụng cho các trường hợp phối hợp vi khuẩn gram dương (ví dụ, viêm nội tâm mạc enterococcal) hoặc ở những bệnh nhân đang mang thai, bị bỏng đáng kể (> 20% diện tích bề mặt cơ thể), hoặc bị suy thận (độ thanh thải creatinin < 40 mL/phút). Các aminoglycoside tĩnh mạch thường được truyền trong 30 đến 60 phút.Nếu bệnh nhân có cân nặng thấp hơn trọng lượng cơ thể lý tưởng (IBW), thì tổng trọng lượng cơ thể (TBW) của họ nên được sử dụng để tính liều. Nếu TBW lớn hơn IBW nhưng nhỏ hơn 120% IBW, thì liều lượng phải dựa trên IBW. Nếu TBW lớn hơn 120% IBW, trọng lượng cơ thể đã điều chỉnh (ABW) nên được sử dụng để tính liều:IBW tính bằng kg (nam): 50 + (2,3 × inch trên 60 inch)IBW tính bằng kg (nữ): 45,5 + (2,3 × inch trên 60 inch)ABW tính bằng kg: IBW + [0,4 × (TBW - IBW)]Ở bệnh nhân có chức năng thận bình thường, liều dùng một lần/ngày làGentamicin hoặc tobramycin: 5 mg/kg (7 mg/kg nếu bệnh nhân nặng), 24 giờ một lầnAmikacin: 15 mg/kg, 24 tiếng một lầnNếu bệnh nhân đáp ứng với liềugentamicinhoặctobramycin7 mg/kg trên lâm sàng và chức năng thận tiếp tục bình thường thì có thể giảm liều một lần/ngày xuống 5 mg/kg sau vài ngày điều trị đầu tiên.Ở những bệnh nhân nặng, nên xác định nồng độ đỉnh huyết thanh sau liều đầu tiên. Ở tất cả các bệnh nhân, nồng độ đỉnh và nồng độ đáy được đo sau khi dùng liều thứ hai hoặc thứ ba (khi chia liều hàng ngày) hoặc khi điều trị kéo dài>3 ngày, cũng như sau khi thay đổi liều. Creatinine trong huyết thanh được đo 2 ngày đến 3 ngày một lần và nếu nó ổn định thì không cần đo lại nồng độ aminoglycoside huyết thanh. Nồng độ đỉnh cao là 60 phút sau khi tiêm bắp hoặc 30 phút sau khi kết thúc truyền tĩnh mạch 30 phút. Nồng độ đáy được đo trong vòng 30 phút trước khi liều kế tiếp.Với liều một lần/ngày, nồng độ đỉnh trong huyết thanh gấp ít nhất 10 lần nồng độ ức chế tối thiểu (MIC) mong muốn. Mức đỉnh mong muốn này thường là 15 đến 20 mcg/mL đối với gentamicin (31,35 đến 41,80 micromol/L) và tobramycin (32,08 đến 42,78 micromol/L). Liều lượng được điều chỉnh để đảm bảo nồng độ đỉnh điều trị trong huyết thanh (để tạo điều kiện cho hoạt động phụ thuộc vào nồng độ) và nồng độ đáy không độc hại. Ở những bệnh nhân bị bệnh nặng, những người có thể tích phân bố mở rộng và được dùng liều ban đầu cao hơn, nồng độ đỉnh trong huyết thanh mục tiêu là 16 mcg/mL đến 24 mcg/mL đối vớigentamicin(33,44 đến 50,16 micromol/L) vàtobramycin( 34,22 đến 51,34 micromol/L) và 56 mcg/mL đến 64 mcg/mL (95,65 micromol/L đến 109,31 micromol/L) đối với amikacin. Đối vớigentamicinvàtobramycin, nồng độ đáy phải<1 mcg/mL (< 2,09 micromol/L đối vớigentamicinvà < 2,14 micromol/L đối vớitobramycin) ở thời điểm 18 giờ đến 24 giờ sau liều đầu tiên với liều một lần/ngày và từ 1 mcg/mL đến 2 mcg/mL (từ 2,09 micromol/L đến 4,18 micromol/L đối vớigentamicinvà từ 2,14 micromol/L đến 4,28 micromol/L đối vớitobramycin) với liều ngắt quãng truyền thống.Đối với bệnh nhân suy thận dùng liều ngắt quãng truyền thống, liều tấn công giống như đối với bệnh nhân có chức năng thận bình thường; thông thường, khoảng cách dùng thuốc được tăng lên hơn là giảm liều lượng. Hướng dẫn về liều duy trì dựa trên giá trị creatinine huyết thanh hoặc độ thanh thải creatinine hiện có nhưng không chính xác và nên đo nồng độ trong máu.Nếu bệnh nhân đang dùng liều cao beta-lactam và một aminoglycosid, nồng độ huyết thanh beta-lactam có thể làm mất hoạt tính aminoglycosidein vitrotrong mẫu huyết thanh thu được để xác định nồng độ thuốc trừ phi mẫu được khảo sát ngay hoặc đông lạnh. Nếu bệnh nhân bị suy thận đồng thời dùng aminoglycoside và liều cao beta-lactam, nồng độ aminoglycosid huyết thanh có thể thấp hơn do sự tương tác trong cơ thể kéo dài.

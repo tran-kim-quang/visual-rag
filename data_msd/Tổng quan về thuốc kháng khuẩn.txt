@@ -1,0 +1,483 @@
+TIÊU ĐỀ: Tổng quan về thuốc kháng khuẩn
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/tổng-quan-về-thuốc-kháng-khuẩn
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về thuốc kháng khuẩn
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v999947_vi
+
+Lựa chọn và sử dụng kháng sinh
+
+|
+
+Kháng kháng sinh
+
+|
+
+Thuốc kháng khuẩn có nguồn gốc từ vi khuẩn hoặc nấm mốc hoặc được tổng hợp mới. Về mặt kỹ thuật, “kháng sinh” chỉ đề cập đến thuốc chống vi trùng có nguồn gốc từ vi khuẩn hoặc nấm mốc nhưng thường (bao gồm cả trong CẨM NANG) được sử dụng đồng nghĩa với “thuốc kháng khuẩn”.
+
+Kháng sinh có nhiều cơ chế hoạt động, bao gồm:
+
+Ức chế tổng hợp thành tế bào
+
+Tăng tính thấm của màng tế bào
+
+Can thiệp vào quá trình tổng hợp protein, chuyển hóa axit nucleic và các quá trình trao đổi chất khác (ví dụ tổng hợp axit folic).
+
+Thuốc kháng sinh đôi khi tương tác với các loại thuốc khác, làm tăng hoặc giảm nồng độ trong huyết thanh của các loại thuốc khác bằng cách tăng hoặc giảm quá trình trao đổi chất của các thuốc đó hoặc bằng nhiều cơ chế khác. Các tương tác quan trọng nhất về mặt lâm sàng liên quan đến các thuốc có tỷ lệ điều trị thấp (tức là mức độ độc hại gần với mức điều trị). Ngoài ra, các loại thuốc khác có thể làm tăng hoặc giảm nồng độ thuốc kháng sinh.
+
+Nhiều chất kháng sinh có liên quan đến hóa học và do đó được nhóm vào các lớp. Mặc dù các loại thuốc trong mỗi lớp có cùng tính chất cấu trúc và chức năng, nhưng chúng thường có các dược lực học và phổ hoạt động khác nhau.
+
+Lựa chọn và sử dụng kháng sinh
+
+Chỉ nên sử dụng kháng sinh nếu có bằng chứng lâm sàng hoặc xét nghiệm cho thấy nhiễm khuẩn. Sử dụng trong điều trị bệnh do vi rút hoặc sốt không rõ nguyên nhân trong hầu hết các trường hợp là không phù hợp; thuốc sẽ khiến bệnh nhân bị các biến chứng liên quan đến kháng sinh, phá vỡ hệ vi sinh vật khỏe mạnh bình thường và góp phần kháng vi khuẩn mà không mang lại bất kỳ lợi ích nào. Các sinh vật kháng kháng sinh có liên quan đến gần 5 triệu ca tử vong trên toàn thế giới vào năm 2019 (
+
+1
+
+) và lạm dụng kháng sinh là một yếu tố không cần thiết thúc đẩy tỷ lệ kháng thuốc. Thông tin mở rộng về kháng kháng sinh có sẵn từ Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (
+
+2
+
+) và Tổ chức Y tế Thế giới (
+
+3
+
+).
+
+Một số bệnh nhiễm trùng do vi khuẩn (ví dụ, áp xe, nhiễm trùng với người nước ngoài) cần can thiệp phẫu thuật và không đáp ứng với kháng sinh một mình.
+
+Nhìn chung, bác sĩ lâm sàng nên sử dụng kháng sinh có phổ tác dụng hẹp nhất và trong thời gian ngắn nhất.
+
+(Xem thêm
+
+Các loại kháng sinh ở trẻ sơ sinh
+
+.)
+
+Phổ kháng khuẩn
+
+Nuôi cấy và xét nghiệm độ nhạy cảm với kháng sinh là điều cần thiết để lựa chọn loại kháng sinh cho các bệnh nhiễm trùng nghiêm trọng. Tuy nhiên, điều trị thường phải bắt đầu trước khi có kết quả nuôi cấy, cần phải lựa chọn theo các mầm bệnh có khả năng xảy ra nhất (lựa chọn kháng sinh theo kinh nghiệm).
+
+Cho dù được lựa chọn theo kết quả nuôi cấy hay không, nên sử dụng kháng sinh có phổ hoạt động hẹp nhất có thể kiểm soát nhiễm trùng. Để điều trị theo kinh nghiệm các trường hợp nhiễm trùng nghiêm trọng có thể liên quan đến bất kỳ một trong số các mầm bệnh (ví dụ như sốt ở bệnh nhân giảm bạch cầu) hoặc có thể là do nhiều mầm bệnh (ví dụ đa nhiễm trùng vi khuẩn kỵ khí) cần phải có một kháng sinh phổ rộng. Các mầm bệnh có khả năng xảy ra nhất và tính nhạy cảm của các mầm bệnh đó với kháng sinh thay đổi tùy theo vị trí địa lý (trong thành phố hoặc thậm chí trong bệnh viện) và có thể thay đổi theo thời gian. Dữ liệu về độ nhạy cảm nên được tổng hợp thành kháng sinh đồ và được sử dụng để điều trị theo kinh nghiệm nếu có thể. Kháng sinh đồ tóm tắt các mô hình nhạy cảm với kháng sinh tại cơ sở cụ thể (hoặc theo địa điểm cụ thể) của mầm bệnh thông thường đối với các kháng sinh thường được sử dụng.
+
+Đối với những trường hợp nhiễm trùng nghiêm trọng, phối hợp kháng sinh thường cần thiết vì có thể có nhiều loài vi khuẩn hoặc do tác dụng hiệp đồng chống lại một loại vi khuẩn đơn lẻ.
+
+Tính hiệp đồng
+
+thường được định nghĩa là một hành động diệt khuẩn nhanh hơn và đầy đủ hơn từ sự kết hợp của kháng sinh hơn là chỉ xảy ra với một trong hai loại kháng sinh. Một ví dụ phổ biến là một kháng sinh có hoạt tính lên thành tế bào (ví dụ, một
+
+beta-lactam
+
+,
+
+vancomycin
+
+) cộng với một
+
+aminoglycosid
+
+.
+
+Tính hiệu quả
+
+Trong lâm sàng hiệu quả kháng sinh chịu ảnh hưởng của nhiều yếu tố bao gồm
+
+Dược động học
+
+: Tiến trình thời gian của nồng độ kháng sinh, bị ảnh hưởng bởi các yếu tố như
+
+hấp thu
+
+,
+
+phân bố
+
+, nồng độ trong nước và mô, liên kết protein,
+
+tỷ lệ chuyển hóa
+
+và
+
+bài tiết
+
+)
+
+Dược lực học
+
+: Hoạt tính kháng khuẩn của nồng độ kháng sinh tại chỗ trên mầm bệnh mục tiêu và phản ứng của mầm bệnh đó, bao gồm cả tình trạng kháng thuốc
+
+Sự hiện diện của vật liệu nhân tạo
+
+Kiểm soát nguồn lây
+
+Tương tác thuốc
+
+hoặc chất ức chế
+
+Cơ chế phòng thủ của cơ thể
+
+Kháng sinh
+
+diệt khuẩn
+
+diệt vi khuẩn. Kháng sinh
+
+kìm khuẩn
+
+làm chậm hoặc ngừng sự phát triển của vi khuẩn in vitro. Những định nghĩa này không tuyệt đối; kháng sinh kìm khuẩn có thể tiêu diệt một số loài vi khuẩn nhạy cảm và kháng sinh diệt khuẩn chỉ có thể ức chế sự phát triển của một số loài vi khuẩn nhạy cảm. Các phương pháp định lượng chính xác hơn xác định nồng độ in vitro tối thiểu mà kháng sinh có thể ức chế quá trình phát triển (nồng độ ức chế tối thiểu [MIC]) hoặc tiêu diệt (nồng độ diệt khuẩn tối thiểu [MBC]). Thuốc kháng sinh có hoạt tính diệt khuẩn có thể cải thiện việc tiêu diệt vi khuẩn khi cơ chế bảo vệ cơ thể bị khiếm khuyết ở cơ quan nhiễm trùng (ví dụ như trong viêm màng não hoặc viêm nội tâm mạc) hoặc có hệ thống (ví dụ ở những bệnh nhân giảm bạch cầu trung tính hoặc suy giảm miễn dịch theo cách khác). Tuy nhiên, dữ liệu lâm sàng còn hạn chế chỉ ra rằng nên chọn kháng sinh diệt khuẩn thay vì kháng sinh kìm khuẩn chỉ dựa trên cơ sở phân loại đó. Việc lựa chọn kháng sinh để có hiệu quả tối ưu phải dựa trên mức độ thay đổi nồng độ thuốc theo thời gian so với MIC hơn là liệu kháng sinh đó có hoạt tính diệt khuẩn hay kìm khuẩn hay không.
+
+Thuốc kháng sinh có thể được nhóm thành 3 loại chung (
+
+4
+
+) dựa trên dược động học giúp tối ưu hóa hoạt tính kháng khuẩn (dược lực học):
+
+Phụ thuộc vào nồng độ:
+
+Cường độ
+
+theo đó nồng độ đỉnh vượt quá MIC (thường được biểu thị bằng tỷ số đỉnh-MIC) tương quan tốt nhất với hoạt tính kháng khuẩn
+
+Phụ thuộc vào thời gian:
+
+Thời gian
+
+của khoảng thời gian dùng thuốc trong đó nồng độ kháng sinh vượt quá MIC (thường được biểu thị bằng tỷ lệ phần trăm thời gian trên MIC) tương quan tốt nhất với hoạt tính kháng khuẩn
+
+Phụ thuộc vào tiếp xúc:
+
+Lượng thuốc
+
+liên quan đến MIC (lượng thuốc là 24 giờ dưới đường cong nồng độ [AUC24]; tỷ lệ AUC24-MIC tương ứng tốt nhất với hoạt tính kháng khuẩn)
+
+Aminoglycosides
+
+,
+
+fluoroquinolones
+
+và
+
+daptomycin
+
+có hoạt tính diệt khuẩn phụ thuộc vào nồng độ. Tăng nồng độ của chúng từ các mức hơi cao hơn MIC đến các mức cao hơn MIC làm tăng tỷ lệ và mức độ hoạt động diệt khuẩn của chúng. Ngoài ra, nếu nồng độ vượt quá MIC thậm chí một thời gian ngắn, aminoglycosides và fluoroquinolones có hiệu ứng sau kháng sinh (PAE) trên vi khuẩn còn lại; thời gian PAE cũng phụ thuộc vào nồng độ. Nếu PAE dài, mức độ thuốc có thể thấp hơn MIC trong thời gian dài mà không làm giảm hiệu quả, cho phép dùng ít thường xuyên hơn. Do đó, nhóm aminoglycoside và nhóm fluoroquinolone thường có hiệu quả nhất khi tiêm tấn công ngắt quãng để đạt nồng độ đỉnh trong huyết thanh tự do (tức là phần kháng sinh không gắn kết với protein trong huyết thanh)
+
+≥
+
+10 lần MIC của vi khuẩn.
+
+Nhóm Beta-lactams
+
+,
+
+clarithromycin
+
+và
+
+erythromycin
+
+có hoạt tính diệt khuẩn phụ thuộc vào thời gian. Tăng nồng độ tự do trong huyết thành của các thuốc này trên MIC không làm tăng hoạt tính diệt khuẩn, và việc giết chết cơ thể của chúng nói chung chậm. Ngoài ra, vì Không áp dụng hoặc rất ngắn ức chế sự phát triển của vi khuẩn sau khi nồng độ giảm xuống dưới MIC (tác dụng hậu kháng sinh), beta-lactam thường có hiệu quả nhất khi nồng độ thuốc trong huyết thanh (thuốc không liên quan đến protein huyết thanh) cao hơn MIC
+
+≥
+
+50% thời gian. Vì
+
+ceftriaxone
+
+có thời gian bán hủy trong huyết thanh dài (khoảng 8 giờ), nồng độ huyết thanh tự do vượt quá MIC của các mầm bệnh rất nhạy cảm trong toàn bộ khoảng thời gian dùng thuốc 24 giờ. Tuy nhiên, đối với beta-lactam có thời gian bán hủy huyết thanh
+
+≤
+
+2 giờ, cần phải dùng liều thường xuyên hoặc tiêm truyền liên tục để tối ưu hóa thời gian trên MIC.
+
+Hầu hết các kháng sinh có hoạt tính kháng khuẩn phụ thuộc vào mức độ phơi nhiễm được đặc trưng bởi tỷ lệ AUC-MIC (xem hình
+
+Thời gian so với nồng độ của một liều duy nhất của kháng sinh theo lý thuyết
+
+).
+
+Vancomycin
+
+,
+
+nhóm tetracycline
+
+và
+
+clindamycin
+
+là những ví dụ.
+
+Thời gian so với nồng độ của một liều kháng sinh theo lý thuyết
+
+Có 3 thông số dược động học/dược lực học liên quan đến hiệu quả kháng khuẩn:
+
+Tỷ lệ nồng độ đỉnh trong huyết thanh với MIC
+
+Phần trăm thời gian trên MIC
+
+Tỷ lệ AUC 24 giờ trên MIC
+
+Đường dùng
+
+Đối với nhiều loại thuốc kháng sinh, dùng đường uống sẽ dẫn đến lượng thuốc điều trị gần như nhanh như dùng đường tiêm tĩnh mạch. Tuy nhiên, tiêm tĩnh mạch kháng sinh có sẵn dùng theo đường uống được ưu tiên trong các trường hợp sau:
+
+Thuốc kháng sinh đường uống không thể dung nạp được (ví dụ, do nôn ói).
+
+Thuốc kháng sinh đường uống hấp thụ kém (ví dụ, do sự hấp thu kém ở hậu môn sau khi phẫu thuật, suy giảm nhu động ruột).
+
+Bệnh nhân đang bị bệnh nặng, có thể làm giảm lưu thông đường tiêu hóa hoặc thậm chí làm chậm sự chậm trễ ngắn hạn với việc uống thuốc gây hại.
+
+Quần thể đặc biệt
+
+Có thể cần phải điều chỉnh liều lượng và thời gian điều trị kháng sinh cho những đối tượng sau:
+
+Trẻ sơ sinh
+
+Người cao tuổi
+
+Bệnh nhân suy thận
+
+Bệnh nhân suy gan (thường là cefoperazone, chloramphenicol, metronidazole, rifabutin, và rifampin)
+
+Bệnh nhân béo phì
+
+Bệnh nhân xơ nang
+
+Mang thai và cho con bú
+
+ảnh hưởng đến việc lựa chọn kháng sinh. Penicillin, cephalosporin, và erythromycin là những kháng sinh an toàn nhất trong thai kỳ; tetracyclines là chống chỉ định. Hầu hết các kháng sinh đều đạt được nồng độ đủ trong sữa mẹ để ảnh hưởng đến em bé bú sữa mẹ, đôi khi chống chỉ định của chúng đối với những phụ nữ đang cho con bú sữa mẹ.
+
+Thời lượng
+
+Kháng sinh nên được tiếp tục cho đến khi các bằng chứng khách quan về nhiễm trùng hệ thống (ví dụ: sốt, triệu chứng, các kết quả xét nghiệm bất thường) hết trong nhiều ngày. Đối với một số trường hợp nhiễm trùng (ví dụ:
+
+viêm nội tâm mạc
+
+,
+
+lao
+
+,
+
+viêm tủy xương
+
+,
+
+bệnh phong
+
+), điều trị kháng sinh vẫn tiếp tục trong vài tuần hoặc vài tháng để tránh tái phát.
+
+Các biến chứng
+
+Các biến chứng của điều trị kháng sinh bao gồm nhiễm trùng nặng do các vi khuẩn kém nhạy hoặc nhiếm nấm và các tác dụng phụ lên da, thận, huyết học, thần kinh và đường tiêu hoá.
+
+Các tác dụng bất lợi thường đòi hỏi phải ngừng sử dụng kháng sinh gây bệnh và thay thế bằng một loại kháng sinh khác mà vi khuẩn nhạy cảm; đôi khi, không có lựa chọn thay thế nào.
+
+Tài liệu tham khảo về lựa chọn và sử dụng kháng sinh
+
+1.
+
+Antimicrobial Resistance Collaborators
+
+. Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis [published correction appears in Lancet. Ngày 1 tháng 10 năm 2022;400(10358):1102].
+
+Lancet
+
+. 2022;399(10325):629-655. doi:10.1016/S0140-6736(21)02724-0
+
+2.
+
+Centers for Disease Control and Prevention
+
+: Antibiotic resistance threats in the United States, 2019. Truy cập ngày 12 tháng 2 năm 2024.
+
+3.
+
+World Health Organization:
+
+Global antimicrobial resistance and use surveillance system (‎GLASS)‎ report: 2022. Truy cập ngày 12 tháng 2 năm 2024.
+
+4.
+
+A PK/PD Approach to Antibiotic Therapy
+
+. RxKinetic. Truy cập ngày 12 tháng 2 năm 2024.
+
+Kháng kháng sinh
+
+Khả năng kháng thuốc kháng sinh có thể vốn có ở một loài vi khuẩn cụ thể hoặc có thể đạt được thông qua đột biến hoặc tiếp nhận gen kháng thuốc kháng sinh từ một sinh vật khác. Các cơ chế kháng khác nhau được mã hoá bởi các gen này (xem bảng
+
+Điều chỉnh cơ chế kháng kháng sinh phổ biến
+
+). Các gen kháng có thể lây truyền qua lại giữa 2 tế bào vi khuẩn bằng các cơ chế sau:
+
+Chuyển đổi (hấp thu DNA tự do từ cơ thể khác)
+
+Tải nạp (lây nhiễm bởi virus của vi khuẩn)
+
+Sự liên hợp (trao đổi vật liệu di truyền dưới dạng một trong hai plasmid, là những mảnh ghép độc lập ADN ngoại bào, hoặc transposon, những nhóm gen có khả năng thay đổi vị trí trên nhiễm sắc thể DNA
+
+Plasmid và transposon có thể nhanh chóng phổ biến các gen kháng.
+
+Sử dụng kháng sinh ưu tiên loại bỏ các vi khuẩn không kháng thuốc, làm gia tăng tỉ lệ các vi khuẩn kháng thuốc còn lại. Sử dụng kháng sinh có tác dụng này không chỉ đối với vi khuẩn gây bệnh mà còn đối với hệ vi sinh vật vùng bình thường; hệ vi sinh vật vùng bình thường kháng lại có thể trở thành một hồ chứa cho các gen kháng có thể lây lan sang mầm bệnh.
+
+Bảng
+
+Cơ chế kháng kháng sinh phổ biến
+
+Bảng
+
+Cơ chế kháng kháng sinh phổ biến
+
+Cơ chế kháng kháng sinh phổ biến
+
+Cơ chế
+
+Ví dụ
+
+Giảm tính thấm màng ngoài
+
+Mất màng ngoài của D2 trong kháng imipenem
+
+Pseudomonas aeruginosa
+
+Sự bất hoạt enzym
+
+Sản sinh beta-lactamase làm bất hoạt penicillin ở
+
+Staphylococcus aureus
+
+kháng penicillin,
+
+Haemophilus  influenzae
+
+và
+
+Escherichia coli
+
+Sản sinh enzyme bất hoạt aminoglycoside ở enterococci kháng
+
+gentamicin
+
+Thay đổi mục tiêu
+
+Giảm ái lực của các protein liên kết với penicilin đối với kháng sinh beta-lactam (ví dụ: ở
+
+Staphylococcus aureu
+
+s kháng methicillin [MRSA] và
+
+Streptococcus pneumoniae
+
+làm giảm tính nhạy cảm với penicilin)
+
+Giảm ái lực của ARN methyl hóa ribosome đối với macrolid, clindamycin, và quinupristin trong kháng MLSB
+
+S. aureus
+
+Giảm ái lực của tiền chất đã thay đổi thành tế bào đối với vancomycin (ví dụ, ở
+
+Enterococcus faecium
+
+)
+
+Giảm ái lực của enzym tháo xoắn DNA đối với fluoroquinolones trong kháng fluoroquinolone
+
+S. aureus
+
+Bơm tăng thải kháng sinh
+
+Tăng bơm ra tetracycline, macrolide,
+
+clindamycin
+
+hoặc fluoroquinolones (ví dụ: ở
+
+S.aureus
+
+)
+
+Bỏ qua ức chế kháng sinh và sản xuất thừa mục tiêu
+
+Sự phát triển của các đột biến vi khuẩn có thể tồn tại trên các sản phẩm (ví dụ: thymidine) có trong môi trường, không chỉ các sản phẩm được tổng hợp trong vi khuẩn hoặc có thể sản xuất quá mức mục tiêu của thuốc, do đó giảm thiểu ảnh hưởng của nó trên con đường đó (ví dụ, ở một số vi khuẩn nhất định tiếp xúc với trimethoprim/sulfamethoxazole)
+
+MLSB
+
+=
+
+macrolide, lincoside, streptogramin B.
+
+MLSB
+
+=
+
+macrolide, lincoside, streptogramin B.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Lựa chọn và sử dụng kháng sinh ---
+
+Chỉ nên sử dụng kháng sinh nếu có bằng chứng lâm sàng hoặc xét nghiệm cho thấy nhiễm khuẩn. Sử dụng trong điều trị bệnh do vi rút hoặc sốt không rõ nguyên nhân trong hầu hết các trường hợp là không phù hợp; thuốc sẽ khiến bệnh nhân bị các biến chứng liên quan đến kháng sinh, phá vỡ hệ vi sinh vật khỏe mạnh bình thường và góp phần kháng vi khuẩn mà không mang lại bất kỳ lợi ích nào. Các sinh vật kháng kháng sinh có liên quan đến gần 5 triệu ca tử vong trên toàn thế giới vào năm 2019 (1) và lạm dụng kháng sinh là một yếu tố không cần thiết thúc đẩy tỷ lệ kháng thuốc. Thông tin mở rộng về kháng kháng sinh có sẵn từ Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (2) và Tổ chức Y tế Thế giới (3).Một số bệnh nhiễm trùng do vi khuẩn (ví dụ, áp xe, nhiễm trùng với người nước ngoài) cần can thiệp phẫu thuật và không đáp ứng với kháng sinh một mình.Nhìn chung, bác sĩ lâm sàng nên sử dụng kháng sinh có phổ tác dụng hẹp nhất và trong thời gian ngắn nhất.(Xem thêmCác loại kháng sinh ở trẻ sơ sinh.)Phổ kháng khuẩnNuôi cấy và xét nghiệm độ nhạy cảm với kháng sinh là điều cần thiết để lựa chọn loại kháng sinh cho các bệnh nhiễm trùng nghiêm trọng. Tuy nhiên, điều trị thường phải bắt đầu trước khi có kết quả nuôi cấy, cần phải lựa chọn theo các mầm bệnh có khả năng xảy ra nhất (lựa chọn kháng sinh theo kinh nghiệm).Cho dù được lựa chọn theo kết quả nuôi cấy hay không, nên sử dụng kháng sinh có phổ hoạt động hẹp nhất có thể kiểm soát nhiễm trùng. Để điều trị theo kinh nghiệm các trường hợp nhiễm trùng nghiêm trọng có thể liên quan đến bất kỳ một trong số các mầm bệnh (ví dụ như sốt ở bệnh nhân giảm bạch cầu) hoặc có thể là do nhiều mầm bệnh (ví dụ đa nhiễm trùng vi khuẩn kỵ khí) cần phải có một kháng sinh phổ rộng. Các mầm bệnh có khả năng xảy ra nhất và tính nhạy cảm của các mầm bệnh đó với kháng sinh thay đổi tùy theo vị trí địa lý (trong thành phố hoặc thậm chí trong bệnh viện) và có thể thay đổi theo thời gian. Dữ liệu về độ nhạy cảm nên được tổng hợp thành kháng sinh đồ và được sử dụng để điều trị theo kinh nghiệm nếu có thể. Kháng sinh đồ tóm tắt các mô hình nhạy cảm với kháng sinh tại cơ sở cụ thể (hoặc theo địa điểm cụ thể) của mầm bệnh thông thường đối với các kháng sinh thường được sử dụng.Đối với những trường hợp nhiễm trùng nghiêm trọng, phối hợp kháng sinh thường cần thiết vì có thể có nhiều loài vi khuẩn hoặc do tác dụng hiệp đồng chống lại một loại vi khuẩn đơn lẻ.Tính hiệp đồngthường được định nghĩa là một hành động diệt khuẩn nhanh hơn và đầy đủ hơn từ sự kết hợp của kháng sinh hơn là chỉ xảy ra với một trong hai loại kháng sinh. Một ví dụ phổ biến là một kháng sinh có hoạt tính lên thành tế bào (ví dụ, mộtbeta-lactam,vancomycin) cộng với mộtaminoglycosid.Tính hiệu quảTrong lâm sàng hiệu quả kháng sinh chịu ảnh hưởng của nhiều yếu tố bao gồmDược động học: Tiến trình thời gian của nồng độ kháng sinh, bị ảnh hưởng bởi các yếu tố nhưhấp thu,phân bố, nồng độ trong nước và mô, liên kết protein,tỷ lệ chuyển hóavàbài tiết)Dược lực học: Hoạt tính kháng khuẩn của nồng độ kháng sinh tại chỗ trên mầm bệnh mục tiêu và phản ứng của mầm bệnh đó, bao gồm cả tình trạng kháng thuốcSự hiện diện của vật liệu nhân tạoKiểm soát nguồn lâyTương tác thuốchoặc chất ức chếCơ chế phòng thủ của cơ thểKháng sinhdiệt khuẩndiệt vi khuẩn. Kháng sinhkìm khuẩnlàm chậm hoặc ngừng sự phát triển của vi khuẩn in vitro. Những định nghĩa này không tuyệt đối; kháng sinh kìm khuẩn có thể tiêu diệt một số loài vi khuẩn nhạy cảm và kháng sinh diệt khuẩn chỉ có thể ức chế sự phát triển của một số loài vi khuẩn nhạy cảm. Các phương pháp định lượng chính xác hơn xác định nồng độ in vitro tối thiểu mà kháng sinh có thể ức chế quá trình phát triển (nồng độ ức chế tối thiểu [MIC]) hoặc tiêu diệt (nồng độ diệt khuẩn tối thiểu [MBC]). Thuốc kháng sinh có hoạt tính diệt khuẩn có thể cải thiện việc tiêu diệt vi khuẩn khi cơ chế bảo vệ cơ thể bị khiếm khuyết ở cơ quan nhiễm trùng (ví dụ như trong viêm màng não hoặc viêm nội tâm mạc) hoặc có hệ thống (ví dụ ở những bệnh nhân giảm bạch cầu trung tính hoặc suy giảm miễn dịch theo cách khác). Tuy nhiên, dữ liệu lâm sàng còn hạn chế chỉ ra rằng nên chọn kháng sinh diệt khuẩn thay vì kháng sinh kìm khuẩn chỉ dựa trên cơ sở phân loại đó. Việc lựa chọn kháng sinh để có hiệu quả tối ưu phải dựa trên mức độ thay đổi nồng độ thuốc theo thời gian so với MIC hơn là liệu kháng sinh đó có hoạt tính diệt khuẩn hay kìm khuẩn hay không.Thuốc kháng sinh có thể được nhóm thành 3 loại chung (4) dựa trên dược động học giúp tối ưu hóa hoạt tính kháng khuẩn (dược lực học):Phụ thuộc vào nồng độ:Cường độtheo đó nồng độ đỉnh vượt quá MIC (thường được biểu thị bằng tỷ số đỉnh-MIC) tương quan tốt nhất với hoạt tính kháng khuẩnPhụ thuộc vào thời gian:Thời giancủa khoảng thời gian dùng thuốc trong đó nồng độ kháng sinh vượt quá MIC (thường được biểu thị bằng tỷ lệ phần trăm thời gian trên MIC) tương quan tốt nhất với hoạt tính kháng khuẩnPhụ thuộc vào tiếp xúc:Lượng thuốcliên quan đến MIC (lượng thuốc là 24 giờ dưới đường cong nồng độ [AUC24]; tỷ lệ AUC24-MIC tương ứng tốt nhất với hoạt tính kháng khuẩn)Aminoglycosides,fluoroquinolonesvàdaptomycincó hoạt tính diệt khuẩn phụ thuộc vào nồng độ. Tăng nồng độ của chúng từ các mức hơi cao hơn MIC đến các mức cao hơn MIC làm tăng tỷ lệ và mức độ hoạt động diệt khuẩn của chúng. Ngoài ra, nếu nồng độ vượt quá MIC thậm chí một thời gian ngắn, aminoglycosides và fluoroquinolones có hiệu ứng sau kháng sinh (PAE) trên vi khuẩn còn lại; thời gian PAE cũng phụ thuộc vào nồng độ. Nếu PAE dài, mức độ thuốc có thể thấp hơn MIC trong thời gian dài mà không làm giảm hiệu quả, cho phép dùng ít thường xuyên hơn. Do đó, nhóm aminoglycoside và nhóm fluoroquinolone thường có hiệu quả nhất khi tiêm tấn công ngắt quãng để đạt nồng độ đỉnh trong huyết thanh tự do (tức là phần kháng sinh không gắn kết với protein trong huyết thanh)≥10 lần MIC của vi khuẩn.Nhóm Beta-lactams,clarithromycinvàerythromycincó hoạt tính diệt khuẩn phụ thuộc vào thời gian. Tăng nồng độ tự do trong huyết thành của các thuốc này trên MIC không làm tăng hoạt tính diệt khuẩn, và việc giết chết cơ thể của chúng nói chung chậm. Ngoài ra, vì Không áp dụng hoặc rất ngắn ức chế sự phát triển của vi khuẩn sau khi nồng độ giảm xuống dưới MIC (tác dụng hậu kháng sinh), beta-lactam thường có hiệu quả nhất khi nồng độ thuốc trong huyết thanh (thuốc không liên quan đến protein huyết thanh) cao hơn MIC≥50% thời gian. Vìceftriaxonecó thời gian bán hủy trong huyết thanh dài (khoảng 8 giờ), nồng độ huyết thanh tự do vượt quá MIC của các mầm bệnh rất nhạy cảm trong toàn bộ khoảng thời gian dùng thuốc 24 giờ. Tuy nhiên, đối với beta-lactam có thời gian bán hủy huyết thanh≤2 giờ, cần phải dùng liều thường xuyên hoặc tiêm truyền liên tục để tối ưu hóa thời gian trên MIC.Hầu hết các kháng sinh có hoạt tính kháng khuẩn phụ thuộc vào mức độ phơi nhiễm được đặc trưng bởi tỷ lệ AUC-MIC (xem hìnhThời gian so với nồng độ của một liều duy nhất của kháng sinh theo lý thuyết).Vancomycin,nhóm tetracyclinevàclindamycinlà những ví dụ.Thời gian so với nồng độ của một liều kháng sinh theo lý thuyếtCó 3 thông số dược động học/dược lực học liên quan đến hiệu quả kháng khuẩn:Tỷ lệ nồng độ đỉnh trong huyết thanh với MICPhần trăm thời gian trên MICTỷ lệ AUC 24 giờ trên MICĐường dùngĐối với nhiều loại thuốc kháng sinh, dùng đường uống sẽ dẫn đến lượng thuốc điều trị gần như nhanh như dùng đường tiêm tĩnh mạch. Tuy nhiên, tiêm tĩnh mạch kháng sinh có sẵn dùng theo đường uống được ưu tiên trong các trường hợp sau:Thuốc kháng sinh đường uống không thể dung nạp được (ví dụ, do nôn ói).Thuốc kháng sinh đường uống hấp thụ kém (ví dụ, do sự hấp thu kém ở hậu môn sau khi phẫu thuật, suy giảm nhu động ruột).Bệnh nhân đang bị bệnh nặng, có thể làm giảm lưu thông đường tiêu hóa hoặc thậm chí làm chậm sự chậm trễ ngắn hạn với việc uống thuốc gây hại.Quần thể đặc biệtCó thể cần phải điều chỉnh liều lượng và thời gian điều trị kháng sinh cho những đối tượng sau:Trẻ sơ sinhNgười cao tuổiBệnh nhân suy thậnBệnh nhân suy gan (thường là cefoperazone, chloramphenicol, metronidazole, rifabutin, và rifampin)Bệnh nhân béo phìBệnh nhân xơ nangMang thai và cho con búảnh hưởng đến việc lựa chọn kháng sinh. Penicillin, cephalosporin, và erythromycin là những kháng sinh an toàn nhất trong thai kỳ; tetracyclines là chống chỉ định. Hầu hết các kháng sinh đều đạt được nồng độ đủ trong sữa mẹ để ảnh hưởng đến em bé bú sữa mẹ, đôi khi chống chỉ định của chúng đối với những phụ nữ đang cho con bú sữa mẹ.Thời lượngKháng sinh nên được tiếp tục cho đến khi các bằng chứng khách quan về nhiễm trùng hệ thống (ví dụ: sốt, triệu chứng, các kết quả xét nghiệm bất thường) hết trong nhiều ngày. Đối với một số trường hợp nhiễm trùng (ví dụ:viêm nội tâm mạc,lao,viêm tủy xương,bệnh phong), điều trị kháng sinh vẫn tiếp tục trong vài tuần hoặc vài tháng để tránh tái phát.Các biến chứngCác biến chứng của điều trị kháng sinh bao gồm nhiễm trùng nặng do các vi khuẩn kém nhạy hoặc nhiếm nấm và các tác dụng phụ lên da, thận, huyết học, thần kinh và đường tiêu hoá.Các tác dụng bất lợi thường đòi hỏi phải ngừng sử dụng kháng sinh gây bệnh và thay thế bằng một loại kháng sinh khác mà vi khuẩn nhạy cảm; đôi khi, không có lựa chọn thay thế nào.Tài liệu tham khảo về lựa chọn và sử dụng kháng sinh1.Antimicrobial Resistance Collaborators. Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis [published correction appears in Lancet. Ngày 1 tháng 10 năm 2022;400(10358):1102].Lancet. 2022;399(10325):629-655. doi:10.1016/S0140-6736(21)02724-02.Centers for Disease Control and Prevention: Antibiotic resistance threats in the United States, 2019. Truy cập ngày 12 tháng 2 năm 2024.3.World Health Organization:Global antimicrobial resistance and use surveillance system (‎GLASS)‎ report: 2022. Truy cập ngày 12 tháng 2 năm 2024.4.A PK/PD Approach to Antibiotic Therapy. RxKinetic. Truy cập ngày 12 tháng 2 năm 2024.
+
+--- 2. Kháng kháng sinh ---
+
+Khả năng kháng thuốc kháng sinh có thể vốn có ở một loài vi khuẩn cụ thể hoặc có thể đạt được thông qua đột biến hoặc tiếp nhận gen kháng thuốc kháng sinh từ một sinh vật khác. Các cơ chế kháng khác nhau được mã hoá bởi các gen này (xem bảngĐiều chỉnh cơ chế kháng kháng sinh phổ biến). Các gen kháng có thể lây truyền qua lại giữa 2 tế bào vi khuẩn bằng các cơ chế sau:Chuyển đổi (hấp thu DNA tự do từ cơ thể khác)Tải nạp (lây nhiễm bởi virus của vi khuẩn)Sự liên hợp (trao đổi vật liệu di truyền dưới dạng một trong hai plasmid, là những mảnh ghép độc lập ADN ngoại bào, hoặc transposon, những nhóm gen có khả năng thay đổi vị trí trên nhiễm sắc thể DNAPlasmid và transposon có thể nhanh chóng phổ biến các gen kháng.Sử dụng kháng sinh ưu tiên loại bỏ các vi khuẩn không kháng thuốc, làm gia tăng tỉ lệ các vi khuẩn kháng thuốc còn lại. Sử dụng kháng sinh có tác dụng này không chỉ đối với vi khuẩn gây bệnh mà còn đối với hệ vi sinh vật vùng bình thường; hệ vi sinh vật vùng bình thường kháng lại có thể trở thành một hồ chứa cho các gen kháng có thể lây lan sang mầm bệnh.BảngCơ chế kháng kháng sinh phổ biếnBảngCơ chế kháng kháng sinh phổ biếnCơ chế kháng kháng sinh phổ biếnCơ chếVí dụGiảm tính thấm màng ngoàiMất màng ngoài của D2 trong kháng imipenemPseudomonas aeruginosaSự bất hoạt enzymSản sinh beta-lactamase làm bất hoạt penicillin ởStaphylococcus aureuskháng penicillin,Haemophilus  influenzaevàEscherichia coliSản sinh enzyme bất hoạt aminoglycoside ở enterococci khánggentamicinThay đổi mục tiêuGiảm ái lực của các protein liên kết với penicilin đối với kháng sinh beta-lactam (ví dụ: ởStaphylococcus aureus kháng methicillin [MRSA] vàStreptococcus pneumoniaelàm giảm tính nhạy cảm với penicilin)Giảm ái lực của ARN methyl hóa ribosome đối với macrolid, clindamycin, và quinupristin trong kháng MLSBS. aureusGiảm ái lực của tiền chất đã thay đổi thành tế bào đối với vancomycin (ví dụ, ởEnterococcus faecium)Giảm ái lực của enzym tháo xoắn DNA đối với fluoroquinolones trong kháng fluoroquinoloneS. aureusBơm tăng thải kháng sinhTăng bơm ra tetracycline, macrolide,clindamycinhoặc fluoroquinolones (ví dụ: ởS.aureus)Bỏ qua ức chế kháng sinh và sản xuất thừa mục tiêuSự phát triển của các đột biến vi khuẩn có thể tồn tại trên các sản phẩm (ví dụ: thymidine) có trong môi trường, không chỉ các sản phẩm được tổng hợp trong vi khuẩn hoặc có thể sản xuất quá mức mục tiêu của thuốc, do đó giảm thiểu ảnh hưởng của nó trên con đường đó (ví dụ, ở một số vi khuẩn nhất định tiếp xúc với trimethoprim/sulfamethoxazole)MLSB=macrolide, lincoside, streptogramin B.MLSB=macrolide, lincoside, streptogramin B.

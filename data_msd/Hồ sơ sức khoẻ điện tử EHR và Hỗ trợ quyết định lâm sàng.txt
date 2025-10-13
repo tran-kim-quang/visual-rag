@@ -1,0 +1,169 @@
+TIÊU ĐỀ: Hồ sơ sức khoẻ điện tử (EHR) và Hỗ trợ quyết định lâm sàng
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/quyết-định-lâm-sàng/hồ-sơ-sức-khoẻ-điện-tử-ehr-và-hỗ-trợ-quyết-định-lâm-sàng
+================================================================================
+
+NỘI DUNG:
+
+Hồ sơ sức khoẻ điện tử (EHR) và Hỗ trợ quyết định lâm sàng
+
+Theo
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Michael R. Wasserman
+
+,
+
+MD
+
+,
+
+California Association of Long Term Care Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v39822973_vi
+
+Hồ sơ sức khỏe điện tử (EHR) đã tạo ra những thay đổi trong việc cung cấp dịch vụ chăm sóc sức khỏe bằng cách cung cấp lượng lớn dữ liệu bệnh nhân và thông tin lâm sàng để sử dụng cho mục đích hỗ trợ quyết định lâm sàng (CDS), cũng như cho phép bệnh nhân tiếp cận trực tiếp với nhiều thông tin tương tự.
+
+Tại Hoa Kỳ, luật pháp đã tạo ra các động lực tài chính để áp dụng EHR và quan trọng hơn là để sử dụng nó một cách có ý nghĩa. Mặc dù việc áp dụng EHR đã diễn ra nhanh chóng tại Hoa Kỳ, nhưng tác động cuối cùng của nó đối với việc chăm sóc bệnh nhân, sức khỏe của bác sĩ và sự hài lòng của chuyên gia vẫn chưa rõ ràng và có thể sẽ tiếp tục phát triển trong nhiều năm khi những công dụng và thách thức mới được phát hiện.
+
+Lượng thông tin bệnh nhân tuyệt đối có sẵn tại một địa điểm điện tử duy nhất, thường có thể tìm kiếm được bằng kỹ thuật số thay vì trong các tập giấy có thể hỗ trợ việc ra quyết định lâm sàng, ngay cả khi EHR chỉ là một kho lưu trữ thông tin và hình ảnh có thể được tìm kiếm, xem xét và so sánh.
+
+Sau đây là một số lợi ích tiềm ẩn của EHR:
+
+EHR loại bỏ các vấn đề về khả năng đọc của hồ sơ viết tay (mặc dù nó có thể gây ra lỗi từ phần mềm nhận dạng giọng nói).
+
+EHR cho phép nhiều nhà cung cấp xem hồ sơ cùng lúc, từ nhiều địa điểm khác nhau.
+
+Tương tác thuốc tự động và cảnh báo dị ứng và phát hiện lỗi dùng thuốc có thể làm giảm sai sót của thuốc.
+
+Các liên kết có liên quan về mặt lâm sàng được nhúng trong EHR tới thông tin về bệnh tật, tầm soát thích hợp, chủng ngừa và điều trị có thể khuyến khích bác sĩ lâm sàng truy cập thông tin mới nhất về vấn đề của bệnh nhân theo thời gian thực.
+
+Các công cụ chấm điểm lâm sàng và máy tính xác suất xét nghiệm trước được liên kết hoặc nhúng trong EHR có thể thu thập thông tin từ hồ sơ bệnh án của bệnh nhân cụ thể để hỗ trợ bác sĩ lâm sàng đưa ra chẩn đoán và quyết định điều trị, đồng thời cho phép can thiệp sớm hơn trong quá trình phát triển bệnh. Việc sàng lọc ngôn ngữ thực tế của các mục nhập của bác sĩ bằng thuật toán trí tuệ nhân tạo có thể đưa ra các cân nhắc chẩn đoán cũng như tạo điều kiện thuận lợi cho việc tiến hành nghiên cứu lâm sàng.
+
+Các thông số lâm sàng (ví dụ, dấu hiệu sinh tồn, kết quả xét nghiệm) có trong EHR có thể được sử dụng để tạo ra các thông báo thông báo cho bác sĩ lâm sàng hoặc thậm chí kích hoạt các đơn đặt hàng đã định trước, các gói chẩn đoán và điều trị, hoặc các con đường lâm sàng. Một ví dụ, trong một nghiên cứu gần đây, bệnh nhân nhi ở độ tuổi từ 10 đến 17 được chọn ngẫu nhiên để chăm sóc thông thường hoặc được hỗ trợ bởi quyết định lâm sàng liên quan đến EHR (CDS) trong các lần thăm khám. Công cụ CDS hiển thị áp lực máu và phân vị, xác định tăng huyết áp sự cố, và đưa ra các đơn đặt hàng phù hợp. Tăng huyết áp được xác định ở 1,7% trong số 31.579 bệnh nhân trong thời gian 2 năm. Khi CDS có sẵn, 17,1% bệnh nhân tăng huyết áp được giới thiệu để giảm cân và tư vấn tập thể dục; 9,4% có xét nghiệm bổ sung cho tăng huyết áp. Tuy nhiên, khi chăm sóc thông thường được cung cấp, chỉ có 3,9% bệnh nhân tăng huyết áp được giới thiệu để tư vấn và 4,2% có xét nghiệm bổ sung. Các tác giả kết luận rằng hỗ trợ quyết định lâm sàng liên quan đến EHR có tác động đáng kể và có lợi cho việc nhận biết tăng huyết áp ở trẻ em (
+
+1
+
+).
+
+Cung cấp CDS liên kết EHR tại thời điểm đặt hàng xét nghiệm chẩn đoán có thể làm giảm việc sử dụng năng suất thấp hoặc xét nghiệm chẩn đoán không phù hợp. Trong một nghiên cứu gần đây, các bác sĩ lâm sàng, vào thời điểm nhập viện, đã được trình bày các tiêu chí phù hợp cho các nghiên cứu hình ảnh được đưa ra bởi MRI, CT, y học hạt nhân, PET và siêu âm. Các bác sĩ lâm sàng đã được nhắc nhở để lựa chọn một chỉ định cấu trúc cho các xét nghiệm mong muốn. Chỉ định đã chọn được ánh xạ bởi một công cụ CDS có sẵn trên thị trường (ACR Chọn) với các tiêu chí ACR đặc trưng cho các xét nghiệm được lựa chọn là: tiện ích thấp hoặc không thích hợp, tiện ích cận biên hoặc trung gian. Hỗ trợ CDS này làm giảm tần suất các xét nghiệm tiện ích thấp từ 11% xuống còn 5,4% và tăng tần suất các xét nghiệm tiện ích cao từ 64,5% xuống còn 84%. Sự cải thiện đã được nhìn thấy trong số các bác sĩ, bác sĩ nội trú, và các nhà cung cấp thực hành nâng cao (y tá và trợ lý bác sĩ) và được thấy rõ nhất ở các bác sĩ nội trú (bác sĩ nội trú (
+
+2
+
+).
+
+Nói chung, các biện pháp này nhằm giảm sự khác biệt trong thực hành lâm sàng bằng cách hướng dẫn các bác sĩ lâm sàng về những gì được coi là thực hành tốt nhất được xác định bởi các chuyên gia, các hiệp hội chuyên nghiệp, các nhà cung cấp bảo hiểm hoặc các tổ chức chăm sóc sức khoẻ. Bởi vì EHR ghi lại khi các kích hoạt hoặc gợi ý được cung cấp cho các bác sĩ lâm sàng, nên tuân thủ các quy trình hoặc hướng dẫn. Những ví dụ này minh họa tiềm năng chưa được thực hiện của EHR trong CDS. Các hệ thống EHR trưởng thành và EHR-CDS tinh chế sẽ làm tăng quyết định y khoa truyền thống trong tương lai. Hơn nữa, việc kết hợp phần mềm trí tuệ nhân tạo và máy học vào EHR, mặc dù vẫn đang trong giai đoạn đầu, có khả năng thay đổi cách các bác sĩ lâm sàng thu thập và phân tích thông tin bệnh nhân (
+
+3
+
+).
+
+Mặt khác, các tác động có hại tiềm ẩn của EHR cũng đã được ghi nhận:
+
+Tăng đáng kể thời gian của nhà cung cấp dành cho việc ghi chép và đánh máy (bao gồm cả trong quá trình gặp bệnh nhân, làm thay đổi đáng kể bản chất xã hội của tương tác); việc sử dụng EHR được công nhận là một yếu tố góp phần gây ra tình trạng kiệt sức của bác sĩ
+
+Khối lượng tài liệu trong biểu đồ tăng lên khiến việc xác định thông tin liên quan trở nên khó khăn hơn (ví dụ: sao chép nội dung từ các ghi chú trước đó và dán nó không ghi ngày tháng vào các ghi chú gặp gỡ hiện tại, có thể để thuận tiện hoặc để biện minh cho mức thanh toán, tạo ra sự nhầm lẫn và hoài nghi về tính chính xác của phần còn lại của ghi chú)
+
+Menu thả xuống để nhập yêu cầu làm tăng khả năng chọn nhầm (
+
+4
+
+)
+
+Tài liệu tham khảo
+
+1.
+
+Kharbanda EO, Asche SE, Sinaiko AR, et al
+
+: Clinical decision support for recognition and management of hypertension: a randomized trial.
+
+Pediatrics
+
+141(2), 2018. doi: 10.1542/peds.2017-2954
+
+2.
+
+Huber TC, Krishnaraj A, Patrie J, et al
+
+: Impact of a commercially available clinical decision support program on provider ordering habits.
+
+J Am Coll Radiol
+
+15(7): 951-957, 2018. doi: 10.1016/j.jacr.2018.03.045
+
+3.
+
+Haug CJ, Drazen JM
+
+. Artificial Intelligence and Machine Learning in Clinical Medicine, 2023.
+
+N Engl J Med
+
+. 2023;388(13):1201-1208. doi:10.1056/NEJMra2302038
+
+4.
+
+Carayon P, Du S, Brown R, Cartmill R, Johnson M, Wetterneck TB
+
+: EHR-related medication errors in two ICUs.
+
+J Healthc Risk Manag
+
+. 2017;36(3):6-15. doi:10.1002/jhrm.21259
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+The Health Information Technology for Economic and Clinical Health (HITECH) Act
+
+: Promotes the adoption and meaningful use of health information technology
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.The Health Information Technology for Economic and Clinical Health (HITECH) Act: Promotes the adoption and meaningful use of health information technology

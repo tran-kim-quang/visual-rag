@@ -1,0 +1,159 @@
+TIÊU ĐỀ: Bằng chứng dựa trên Y học và hướng dẫn lâm sàng
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/quyết-định-lâm-sàng/bằng-chứng-dựa-trên-y-học-và-hướng-dẫn-lâm-sàng
+================================================================================
+
+NỘI DUNG:
+
+Bằng chứng dựa trên Y học và hướng dẫn lâm sàng
+
+Theo
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Michael R. Wasserman
+
+,
+
+MD
+
+,
+
+California Association of Long Term Care Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v1123716_vi
+
+Y học dựa trên bằng chứng
+
+|
+
+Clinical Guidelines
+
+|
+
+Các bác sĩ luôn cảm thấy rằng quyết định của họ dựa trên bằng chứng; do đó, thuật ngữ hiện tại “y học dựa trên bằng chứng” không phải là một khái niệm mới. Tuy nhiên, cách sử dụng thuật ngữ này hiện nay ngụ ý một quá trình ra quyết định có cấu trúc và chính thức hơn. “Bằng chứng” lâm sàng có nhiều dạng khác nhau, bao gồm sự kết hợp giữa các chiến lược đã được ghi nhớ có hiệu quả đối với bệnh nhân trước đó, lời khuyên của cố vấn và đồng nghiệp, ấn tượng chung về “những gì đang được thực hiện” (ví dụ: dựa trên các bài báo tổng quan đã công bố, tóm tắt và báo cáo ca bệnh, hội thảo, hướng dẫn đã công bố, tờ hướng dẫn sử dụng sản phẩm của Cục Quản lý Thực phẩm và Dược phẩm (FDA), quảng cáo dược phẩm). Việc dựa vào những nguồn thông tin khác nhau này dẫn đến sự khác biệt lớn trong các chiến lược chẩn đoán và điều trị các tình trạng tương tự, ngay cả khi có bằng chứng đáng tin cậy ủng hộ một phương pháp tiếp cận cụ thể trong việc xử trí bệnh nhân. Ngoài ra, còn có sự khác biệt giữa các quốc gia, khu vực, bệnh viện và thậm chí trong từng nhóm thực hành.
+
+Y học dựa trên bằng chứng
+
+Sự khác biệt trong các chiến lược và giữa các quốc gia, khu vực và phương pháp thực hành đã dẫn đến nhu cầu về một phương pháp tiếp cận có hệ thống hơn nhằm xác định chiến lược phù hợp nhất cho từng bệnh nhân bằng cách sử dụng hệ thống bằng chứng đã được thiết lập; phương pháp tiếp cận này được gọi là y học dựa trên bằng chứng (EBM). EBM được xây dựng dựa trên các đánh giá nghiêm ngặt về tài liệu y khoa có liên quan và tuân theo một loạt các bước riêng biệt, nhưng EBM không loại trừ việc bác sĩ lâm sàng cá nhân kết hợp kinh nghiệm lâm sàng cá nhân hoặc sở thích của bệnh nhân vào quá trình ra quyết định (
+
+1
+
+).
+
+EBM không phải là sự ứng dụng mù quáng các khuyến cáo thu thập được từ các tài liệu đã được xuất bản gần đây cho vấn đề của từng bệnh nhân cụ thể. Nó không ngụ ý một mô hình chăm sóc "một quy mô phù hợp với tất cả". Thay vào đó, việc áp dụng EBM đòi hỏi một loạt các bước để thu thập đủ thông tin hữu ích nhằm trả lời câu hỏi được xây dựng cẩn thận cho từng bệnh nhân. Việc tích hợp đầy đủ các nguyên tắc của EBM sẽ kết hợp hệ thống giá trị của bệnh nhân, bao gồm những yếu tố như chi phí phát sinh, tín ngưỡng tôn giáo hoặc đạo đức của bệnh nhân và quyền tự chủ của bệnh nhân. Áp dụng các nguyên tắc EBM thường liên quan đến các bước sau:
+
+Xây dựng một câu hỏi lâm sàng
+
+Thu thập bằng chứng để trả lời câu hỏi
+
+Đánh giá chất lượng và hiệu lực của bằng chứng
+
+Quyết định xem bằng chứng có sẵn có liên quan đến việc chăm sóc một bệnh nhân cụ thể hay không và liên quan như thế nào
+
+Xây dựng một câu hỏi lâm sàng
+
+Câu hỏi cần phải cụ thể. Những câu hỏi cụ thể có nhiều khả năng được giải quyết trong tài liệu y khoa. Một câu hỏi được thiết kế tốt chỉ rõ quần thể, can thiệp (xét nghiệm chẩn đoán, điều trị), so sánh (điều trị A vs điều trị B) và kết cục. "Cách tốt nhất để đánh giá người bị đau bụng là gì?" không phải là một câu hỏi quá hữu ích để theo đuổi trong y văn. Một câu hỏi hữu ích và cụ thể hơn có thể là "chụp CT hay siêu âm tốt hơn để loại trừ viêm ruột thừa cấp là nguyên nhân gây đau bụng dưới cấp tính ở nam giới 30 tuổi?"
+
+Thu thập bằng chứng để trả lời câu hỏi
+
+Tuyển chọn các nghiên cứu liên quan từ việc rà soát lại tài liệu. Các nguồn tài nguyên chuẩn được tham khảo (ví dụ: MEDLINE hoặc PubMed cho các nghiên cứu chính, Cochrane Collaboration để có các bài đánh giá có hệ thống về các lựa chọn điều trị cho các câu hỏi lâm sàng cụ thể và các bài đánh giá ít có cấu trúc khác trong tài liệu y khoa).
+
+Đánh giá chất lượng và hiệu lực của bằng chứng
+
+Không phải tất cả các nghiên cứu khoa học có giá trị như nhau. Các loại nghiên cứu khác nhau có sức mạnh khoa học và tính hợp pháp khác nhau và đối lập với bất kỳ loại nghiên cứu nào nhất định, các ví dụ riêng biệt khác nhau về chất lượng của phương pháp, giá trị bên trong, tính toán kết quả tổng hợp và khả năng áp dụng cho một bệnh nhân (có giá trị bên ngoài).
+
+Mức độ bằng chứng
+
+được xếp hạng từ 1 đến 5 theo thứ tự giảm dần chất lượng. Các loại nghiên cứu ở mỗi cấp độ có phần khác nhau tùy theo câu hỏi lâm sàng (ví dụ: chẩn đoán, điều trị hoặc phân tích kinh tế), nhưng các loại này thường bao gồm những nội dung sau:
+
+Cấp độ 1 (chất lượng cao nhất): Đánh giá có hệ thống hoặc phân tích tổng hợp các thử nghiệm phân nhóm ngẫu nhiên có đối chứng (RCT) và các thử nghiệm phân nhóm ngẫu nhiên có đối chứng, đơn lẻ, chất lượng cao
+
+Cấp độ 2: Nghiên cứu thuần tập được thiết kế tốt
+
+Cấp độ 3: Các nghiên cứu bệnh chứng được xem xét có hệ thống
+
+Cấp độ 4: Chuỗi ca bệnh và nghiên cứu đoàn hệ và nghiên cứu bệnh chứng kém chất lượng hơn
+
+Cấp độ 5: Ý kiến ​​chuyên gia dựa trên lý luận từ sinh lý học, nghiên cứu thực nghiệm hoặc các nguyên tắc cơ bản, không dựa trên đánh giá quan trọng
+
+Đối với phân tích EBM, nên sử dụng mức bằng chứng cao nhất hiện có. Tuy nhiên, do số lượng các thử nghiệm phân nhóm ngẫu nhiên, có đối chứng, chất lượng cao còn ít so với số lượng các câu hỏi lâm sàng có thể có nên bằng chứng cấp độ 4 hoặc 5 kém tin cậy hơn thường là tất cả những gì có sẵn. Bằng chứng chất lượng thấp không có nghĩa là không nên sử dụng quy trình EBM, mà chỉ có nghĩa là sức mạnh của kết luận có thể yếu hơn.
+
+Quyết định cách áp dụng các bằng chứng cho sự chăm sóc của một bệnh nhân cụ thể
+
+Bởi vì bằng chứng tốt nhất hiện có có thể đến từ các quần thể bệnh nhân có các đặc điểm khác với các đặc điểm của bệnh nhân được đề cập, nên cần có sự đánh giá đáng kể khi áp dụng kết quả từ một thử nghiệm ngẫu nhiên cho một bệnh nhân cụ thể. Ngoài ra, cần phải lưu tâm đến những mong muốn của bệnh nhân về các xét nghiệm và điều trị xâm lấn hoặc không xâm lấn, và điều trị cũng cần chú ý đến khả năng dung nạp của bệnh nhân đối với các tác dụng phụ gây khó chịu, các nguy cơ tai biến có thể xảy ra. Ví dụ, mặc dù đánh giá EBM có thể cho thấy một lợi ích rõ ràng tăng thêm thời gian sống 3 tháng của một phác đồ hóa chất tích cực trong một dạng bệnh ung thư nhất định, nhưng mỗi bệnh nhân có thể có sự lựa chọn khác nhau tùy thuộc vào việc người bệnh muốn kéo dài thời gian sống hay muốn giảm bớt đau đớn. Chi phí xét nghiệm và điều trị cũng có thể ảnh hưởng đến quyết định của bác sĩ và bệnh nhân, đặc biệt khi một số lựa chọn thay thế có chi phí cao hơn đáng kế cho bệnh nhân. Những cân nhắc bổ sung là quần thể bệnh nhân tự nguyện tham gia thử nghiệm lâm sàng thường không giống với quần thể bệnh nhân nói chung được chăm sóc tại phòng khám đa khoa và dịch vụ chăm sóc được cung cấp trong môi trường thử nghiệm lâm sàng không giống hệt với dịch vụ chăm sóc nói chung trong cộng đồng y tế.
+
+Hạn chế của cách tiếp cận dựa trên bằng chứng
+
+Hàng chục câu hỏi lâm sàng phải được giải đáp trong suốt một ngày làm việc tại phòng khám. Mặc dù một số trong số các câu hỏi đó có thể là chủ đề của đánh giá EBM hiện có để tham khảo, nhưng hầu hết thì không, và việc chuẩn bị một phân tích EBM chính thức tốn quá nhiều thời gian để có thể trả lời một câu hỏi lâm sàng ngay lập tức. Ngay cả khi thời gian không phải là yếu tố cần xem xét, nhiều câu hỏi lâm sàng vẫn không được giải quyết trong bất kỳ nghiên cứu có liên quan nào trong tài liệu. Những thách thức bao gồm việc quyết định những quyết định lâm sàng nào đảm bảo tìm kiếm bằng chứng hỗ trợ, cách tìm và đánh giá bằng chứng, cũng như cách sử dụng tốt nhất bằng chứng đó trong bối cảnh lâm sàng.
+
+Tài liệu tham khảo về y học dựa trên bằng chứng
+
+1.
+
+Tonelli MR, Shapiro D
+
+: Experiential knowledge in clinical medicine: use and justification.
+
+Theor Med Bioeth
+
+. 2020;41(2-3):67-82. doi:10.1007/s11017-020-09521-0
+
+Clinical Guidelines
+
+Các hướng dẫn lâm sàng đã trở nên phổ biến rộng rãi trong lĩnh vực y học; nhiều hiệp hội chuyên biệt đã công bố các hướng dẫn như vậy. Nhiều hướng dẫn được phát triển bằng phương pháp cụ thể kết hợp các nguyên tắc của EBM và các khuyến nghị về quy trình đồng thuận hoặc Delphi do một nhóm chuyên gia đưa ra. Do tính không đồng nhất của các hướng dẫn này, các hướng dẫn lâm sàng không thể tự động quyết định cách chăm sóc cho từng bệnh nhân.
+
+Một số hướng dẫn lâm sàng tuân theo các quy tắc "nếu, thì" (ví dụ: nếu bệnh nhân sốt và giảm bạch cầu trung tính, thì điều trị kháng sinh phổ rộng). Các quy tắc phức tạp hơn, nhiều bước hơn, có thể được chuẩn hóa dưới dạng các thuật toán. Các hướng dẫn và các thuật toán nói chung đơn giản và dễ sử dụng, nhưng chỉ nên áp dụng cho những bệnh nhân có đặc điểm lâm sàng (ví dụ như nhân khẩu học, bệnh tật, đặc điểm lâm sàng) tương tự như nhóm bệnh nhân trong khuyến cáo.
+
+Các hướng dẫn không nhất thiết phải tính đến mức độ không chắc chắn vốn có trong kết quả xét nghiệm, khả năng điều trị thành công cũng như nguy cơ và lợi ích tương đối của từng phương pháp điều trị. Để kết hợp tính không chắc chắn và giá trị của các kết quả vào quá trình ra quyết định lâm sàng, bác sĩ lâm sàng phải thường xuyên áp dụng các nguyên tắc về quyết định định lượng hoặc phân tích (xem thêm
+
+Các Chiến lược Ra Quyết định Lâm sàng
+
+). Ngoài ra, nhiều nhóm công bố hướng dẫn yêu cầu chỉ sử dụng dữ liệu thử nghiệm phân nhóm ngẫu nhiên trong quá trình phát triển hướng dẫn, đây có thể là một hạn chế rất đáng kể và dẫn đến một số khuyến nghị trong hướng dẫn có thể khác với cách chăm sóc thông thường.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Y học dựa trên bằng chứng ---
+
+Sự khác biệt trong các chiến lược và giữa các quốc gia, khu vực và phương pháp thực hành đã dẫn đến nhu cầu về một phương pháp tiếp cận có hệ thống hơn nhằm xác định chiến lược phù hợp nhất cho từng bệnh nhân bằng cách sử dụng hệ thống bằng chứng đã được thiết lập; phương pháp tiếp cận này được gọi là y học dựa trên bằng chứng (EBM). EBM được xây dựng dựa trên các đánh giá nghiêm ngặt về tài liệu y khoa có liên quan và tuân theo một loạt các bước riêng biệt, nhưng EBM không loại trừ việc bác sĩ lâm sàng cá nhân kết hợp kinh nghiệm lâm sàng cá nhân hoặc sở thích của bệnh nhân vào quá trình ra quyết định (1).EBM không phải là sự ứng dụng mù quáng các khuyến cáo thu thập được từ các tài liệu đã được xuất bản gần đây cho vấn đề của từng bệnh nhân cụ thể. Nó không ngụ ý một mô hình chăm sóc "một quy mô phù hợp với tất cả". Thay vào đó, việc áp dụng EBM đòi hỏi một loạt các bước để thu thập đủ thông tin hữu ích nhằm trả lời câu hỏi được xây dựng cẩn thận cho từng bệnh nhân. Việc tích hợp đầy đủ các nguyên tắc của EBM sẽ kết hợp hệ thống giá trị của bệnh nhân, bao gồm những yếu tố như chi phí phát sinh, tín ngưỡng tôn giáo hoặc đạo đức của bệnh nhân và quyền tự chủ của bệnh nhân. Áp dụng các nguyên tắc EBM thường liên quan đến các bước sau:Xây dựng một câu hỏi lâm sàngThu thập bằng chứng để trả lời câu hỏiĐánh giá chất lượng và hiệu lực của bằng chứngQuyết định xem bằng chứng có sẵn có liên quan đến việc chăm sóc một bệnh nhân cụ thể hay không và liên quan như thế nàoXây dựng một câu hỏi lâm sàngCâu hỏi cần phải cụ thể. Những câu hỏi cụ thể có nhiều khả năng được giải quyết trong tài liệu y khoa. Một câu hỏi được thiết kế tốt chỉ rõ quần thể, can thiệp (xét nghiệm chẩn đoán, điều trị), so sánh (điều trị A vs điều trị B) và kết cục. "Cách tốt nhất để đánh giá người bị đau bụng là gì?" không phải là một câu hỏi quá hữu ích để theo đuổi trong y văn. Một câu hỏi hữu ích và cụ thể hơn có thể là "chụp CT hay siêu âm tốt hơn để loại trừ viêm ruột thừa cấp là nguyên nhân gây đau bụng dưới cấp tính ở nam giới 30 tuổi?"Thu thập bằng chứng để trả lời câu hỏiTuyển chọn các nghiên cứu liên quan từ việc rà soát lại tài liệu. Các nguồn tài nguyên chuẩn được tham khảo (ví dụ: MEDLINE hoặc PubMed cho các nghiên cứu chính, Cochrane Collaboration để có các bài đánh giá có hệ thống về các lựa chọn điều trị cho các câu hỏi lâm sàng cụ thể và các bài đánh giá ít có cấu trúc khác trong tài liệu y khoa).Đánh giá chất lượng và hiệu lực của bằng chứngKhông phải tất cả các nghiên cứu khoa học có giá trị như nhau. Các loại nghiên cứu khác nhau có sức mạnh khoa học và tính hợp pháp khác nhau và đối lập với bất kỳ loại nghiên cứu nào nhất định, các ví dụ riêng biệt khác nhau về chất lượng của phương pháp, giá trị bên trong, tính toán kết quả tổng hợp và khả năng áp dụng cho một bệnh nhân (có giá trị bên ngoài).Mức độ bằng chứngđược xếp hạng từ 1 đến 5 theo thứ tự giảm dần chất lượng. Các loại nghiên cứu ở mỗi cấp độ có phần khác nhau tùy theo câu hỏi lâm sàng (ví dụ: chẩn đoán, điều trị hoặc phân tích kinh tế), nhưng các loại này thường bao gồm những nội dung sau:Cấp độ 1 (chất lượng cao nhất): Đánh giá có hệ thống hoặc phân tích tổng hợp các thử nghiệm phân nhóm ngẫu nhiên có đối chứng (RCT) và các thử nghiệm phân nhóm ngẫu nhiên có đối chứng, đơn lẻ, chất lượng caoCấp độ 2: Nghiên cứu thuần tập được thiết kế tốtCấp độ 3: Các nghiên cứu bệnh chứng được xem xét có hệ thốngCấp độ 4: Chuỗi ca bệnh và nghiên cứu đoàn hệ và nghiên cứu bệnh chứng kém chất lượng hơnCấp độ 5: Ý kiến ​​chuyên gia dựa trên lý luận từ sinh lý học, nghiên cứu thực nghiệm hoặc các nguyên tắc cơ bản, không dựa trên đánh giá quan trọngĐối với phân tích EBM, nên sử dụng mức bằng chứng cao nhất hiện có. Tuy nhiên, do số lượng các thử nghiệm phân nhóm ngẫu nhiên, có đối chứng, chất lượng cao còn ít so với số lượng các câu hỏi lâm sàng có thể có nên bằng chứng cấp độ 4 hoặc 5 kém tin cậy hơn thường là tất cả những gì có sẵn. Bằng chứng chất lượng thấp không có nghĩa là không nên sử dụng quy trình EBM, mà chỉ có nghĩa là sức mạnh của kết luận có thể yếu hơn.Quyết định cách áp dụng các bằng chứng cho sự chăm sóc của một bệnh nhân cụ thểBởi vì bằng chứng tốt nhất hiện có có thể đến từ các quần thể bệnh nhân có các đặc điểm khác với các đặc điểm của bệnh nhân được đề cập, nên cần có sự đánh giá đáng kể khi áp dụng kết quả từ một thử nghiệm ngẫu nhiên cho một bệnh nhân cụ thể. Ngoài ra, cần phải lưu tâm đến những mong muốn của bệnh nhân về các xét nghiệm và điều trị xâm lấn hoặc không xâm lấn, và điều trị cũng cần chú ý đến khả năng dung nạp của bệnh nhân đối với các tác dụng phụ gây khó chịu, các nguy cơ tai biến có thể xảy ra. Ví dụ, mặc dù đánh giá EBM có thể cho thấy một lợi ích rõ ràng tăng thêm thời gian sống 3 tháng của một phác đồ hóa chất tích cực trong một dạng bệnh ung thư nhất định, nhưng mỗi bệnh nhân có thể có sự lựa chọn khác nhau tùy thuộc vào việc người bệnh muốn kéo dài thời gian sống hay muốn giảm bớt đau đớn. Chi phí xét nghiệm và điều trị cũng có thể ảnh hưởng đến quyết định của bác sĩ và bệnh nhân, đặc biệt khi một số lựa chọn thay thế có chi phí cao hơn đáng kế cho bệnh nhân. Những cân nhắc bổ sung là quần thể bệnh nhân tự nguyện tham gia thử nghiệm lâm sàng thường không giống với quần thể bệnh nhân nói chung được chăm sóc tại phòng khám đa khoa và dịch vụ chăm sóc được cung cấp trong môi trường thử nghiệm lâm sàng không giống hệt với dịch vụ chăm sóc nói chung trong cộng đồng y tế.Hạn chế của cách tiếp cận dựa trên bằng chứngHàng chục câu hỏi lâm sàng phải được giải đáp trong suốt một ngày làm việc tại phòng khám. Mặc dù một số trong số các câu hỏi đó có thể là chủ đề của đánh giá EBM hiện có để tham khảo, nhưng hầu hết thì không, và việc chuẩn bị một phân tích EBM chính thức tốn quá nhiều thời gian để có thể trả lời một câu hỏi lâm sàng ngay lập tức. Ngay cả khi thời gian không phải là yếu tố cần xem xét, nhiều câu hỏi lâm sàng vẫn không được giải quyết trong bất kỳ nghiên cứu có liên quan nào trong tài liệu. Những thách thức bao gồm việc quyết định những quyết định lâm sàng nào đảm bảo tìm kiếm bằng chứng hỗ trợ, cách tìm và đánh giá bằng chứng, cũng như cách sử dụng tốt nhất bằng chứng đó trong bối cảnh lâm sàng.Tài liệu tham khảo về y học dựa trên bằng chứng1.Tonelli MR, Shapiro D: Experiential knowledge in clinical medicine: use and justification.Theor Med Bioeth. 2020;41(2-3):67-82. doi:10.1007/s11017-020-09521-0
+
+--- 2. Clinical Guidelines ---
+
+Các hướng dẫn lâm sàng đã trở nên phổ biến rộng rãi trong lĩnh vực y học; nhiều hiệp hội chuyên biệt đã công bố các hướng dẫn như vậy. Nhiều hướng dẫn được phát triển bằng phương pháp cụ thể kết hợp các nguyên tắc của EBM và các khuyến nghị về quy trình đồng thuận hoặc Delphi do một nhóm chuyên gia đưa ra. Do tính không đồng nhất của các hướng dẫn này, các hướng dẫn lâm sàng không thể tự động quyết định cách chăm sóc cho từng bệnh nhân.Một số hướng dẫn lâm sàng tuân theo các quy tắc "nếu, thì" (ví dụ: nếu bệnh nhân sốt và giảm bạch cầu trung tính, thì điều trị kháng sinh phổ rộng). Các quy tắc phức tạp hơn, nhiều bước hơn, có thể được chuẩn hóa dưới dạng các thuật toán. Các hướng dẫn và các thuật toán nói chung đơn giản và dễ sử dụng, nhưng chỉ nên áp dụng cho những bệnh nhân có đặc điểm lâm sàng (ví dụ như nhân khẩu học, bệnh tật, đặc điểm lâm sàng) tương tự như nhóm bệnh nhân trong khuyến cáo.Các hướng dẫn không nhất thiết phải tính đến mức độ không chắc chắn vốn có trong kết quả xét nghiệm, khả năng điều trị thành công cũng như nguy cơ và lợi ích tương đối của từng phương pháp điều trị. Để kết hợp tính không chắc chắn và giá trị của các kết quả vào quá trình ra quyết định lâm sàng, bác sĩ lâm sàng phải thường xuyên áp dụng các nguyên tắc về quyết định định lượng hoặc phân tích (xem thêmCác Chiến lược Ra Quyết định Lâm sàng). Ngoài ra, nhiều nhóm công bố hướng dẫn yêu cầu chỉ sử dụng dữ liệu thử nghiệm phân nhóm ngẫu nhiên trong quá trình phát triển hướng dẫn, đây có thể là một hạn chế rất đáng kể và dẫn đến một số khuyến nghị trong hướng dẫn có thể khác với cách chăm sóc thông thường.

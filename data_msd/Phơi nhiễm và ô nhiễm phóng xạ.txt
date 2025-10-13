@@ -1,0 +1,2067 @@
+TIÊU ĐỀ: Phơi nhiễm và ô nhiễm phóng xạ
+URL: https://www.msdmanuals.com/vi/professional/chấn-thương-ngộ-độc/phơi-nhiễm-và-ô-nhiễm-phóng-xạ/phơi-nhiễm-và-ô-nhiễm-phóng-xạ
+================================================================================
+
+NỘI DUNG:
+
+Phơi nhiễm và ô nhiễm phóng xạ
+
+Theo
+
+Jerrold T. Bushberg
+
+,
+
+PhD, DABMP, DABSNM
+
+,
+
+The National Council on Radiation Protection and Measurements
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 1 2025
+
+v1113211_vi
+
+Bức xạ ion hóa gây tổn thương mô khác nhau tùy thuộc vào liều lượng bức xạ, tốc độ tiếp xúc, loại bức xạ và bộ phận cơ thể tiếp xúc. Triệu chứng có thể tại chỗ (như bỏng) hoặc toàn thân (ví dụ, bệnh cấp tính do xạ trị). Chẩn đoán dựa vào tiền sử phơi nhiễm, dấu hiệu và triệu chứng, đôi khi phải sử dụng thiết bị phát hiện bức xạ để định vị và xác định nhiễm phóng xạ. Việc xử trí tập trung vào các chấn thương liên quan, khử nhiễm, các biện pháp hỗ trợ và giảm thiểu sự tiếp xúc của các chuyên gia chăm sóc sức khỏe. Bệnh nhân nhiễm xạ nặng cấp tính được cách ly, thuốc kháng khuẩn và chống viêm và điều trị hồi phục tủy xương. Các bệnh nhân bị nhiễm xạ trong với một số hạt nhân phóng xạ đặc biệt có thể được điều trị bằng chất ức chế hấp thu hoặc chất tạo phức kết tủa.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Bức xạ ion hóa do các nguyên tố phóng xạ và các thiết bị như máy chụp X-quang và máy xạ trị phát ra.
+
+Các loại bức xạ
+
+Bức xạ bao gồm
+
+Các hạt (các hạt alpha, các hạt beta, neutron)
+
+Các sóng điện từ năng lượng cao (tia x, tia gamma)
+
+Hạt alpha
+
+là các hạt nhân nguyên tử heli phát ra bởi một số hạt nhân phóng xạ có số nguyên tử cao (ví dụ, plutonium, radium, uranium); chúng không thể đâm xuyên vào da ở độ sâu vượt quá lớn (
+
+<
+
+0,1 mm).
+
+Các hạt beta
+
+là các electron năng lượng cao phát ra từ hạt nhân của các nguyên tử không ổn định (ví dụ, cesium-137, iốt-131). Những hạt này có thể thâm nhập sâu hơn vào da (1 đến 2 cm) và gây tổn thương cả biểu mô và dưới biểu mô.
+
+Neutron
+
+là các hạt trung hòa về điện phát ra bởi một vài hạt nhân phóng xạ (ví dụ, californium-252) và được tạo ra trong phản ứng phân rã hạt nhân (ví dụ trong lò phản ứng hạt nhân); độ xuyên sâu vào mô của chúng thay đổi từ vài milimet đến vài chục centimet, tùy thuộc vào năng lượng của chúng. Các hạt này va chạm với hạt nhân của các nguyên tử ổn định, dẫn đến phát ra các proton năng lượng, các hạt alpha và beta và bức xạ gamma.
+
+Tia gamma và tia X
+
+là các bức xạ điện từ (ví dụ các photon) có bước sóng rất ngắn, có thể xuyên sâu vào mô (nhiều cm). Trong khi một số photon tích tụ tất cả năng lượng của chúng trong cơ thể, thì các photon khác có cùng năng lượng có thể chỉ tích lũy một phần năng lượng của chúng và những photon khác có thể hoàn toàn đi qua cơ thể mà không tương tác.
+
+Do những đặc tính này, các hạt alpha và beta gây ra tổn thương nhiều nhất khi các nguyên tử phóng xạ phát ra chúng ở
+
+bên trong
+
+cơ thể (nhiễm xạ trong), đối với nguồn tia beta, tác động trực tiếp
+
+trên bề mặt
+
+cơ thể; chỉ các mô gần với hạt nhân phóng xạ mới bị ảnh hưởng. Tia gamma và tia X có thể gây ra tổn thương ở khoảng cách xa so với nguồn phát của chúng và gây ra
+
+hội chứng nhiễm xạ cấp
+
+. ARS có thể xảy ra bởi một vừa liều đủ của một vài loại hạt nhân phóng xạ được tích lũy ở bên trong cơ thể, được phân bố rộng rãi trong các mô, các cơ quan và có tác động đặc hiệu cao (SA). Ví dụ: polonium-210 (Po-210) có hoạt độ riêng là 166 terabecquerel trên một gam (TBq/g) và 1 mcg (xấp xỉ kích thước của một hạt muối) Po-210 gây ra liều toàn thân là 50 Sv (~20 lần liều gây chết trung bình).
+
+Đo lường bức xạ
+
+Các đơn vị đo lường thông thường bao gồm rơn-ghen, rad và rem.
+
+Roentge
+
+n (R) là đơn vị đo mức độ phơi nhiễm, đo khả năng ion hóa của tia X hoặc bức xạ gamma trong không khí.
+
+Liều hấp thụ bức xạ
+
+(rad) là lượng năng lượng bức xạ được hấp thụ trên một đơn vị khối lượng.
+
+Đơn vị tương đương roentgen ở người
+
+(rem) được sử dụng vì mức độ tổn thương sinh học trên mỗi rad thay đổi tùy theo loại bức xạ (ví dụ: mức độ tổn thương này cao hơn đối với neutron so với tia X hoặc bức xạ gamma). Liều lượng tính bằng rad được hiệu chỉnh bằng hệ số chất lượng loại bức xạ; đơn vị
+
+liều tương đương
+
+thu được là rem.
+
+Bên ngoài Hoa Kỳ và trong các tài liệu khoa học, đơn vị SI (Hệ thống quốc tế) được sử dụng, trong đó rad được thay thế bằng
+
+gray
+
+(Gy) và rem được thay thế bằng
+
+sievert
+
+(Sv); 1 Gy
+
+=
+
+100 rad và 1 Sv
+
+=
+
+100 rem. Rad và rem (Gy và Sv) là tương ứng như nhau (tức là yếu tố chất lượng bằng 1) khi mô tả đối với tia X hoặc tia gamma hoặc beta.
+
+Lượng (số lượng) hoạt độ phóng xạ được thể hiện dưới dạng số lượng các phân rã hạt nhân (biến đổi hạt nhân) mỗi giây.
+
+becquerel
+
+(Bq) là đơn vị SI của độ phóng xạ; một Bq là 1 lần phân rã mỗi giây (dps). Đơn vị thông thường, Curie (Ci), đôi khi vẫn được sử dụng ở Hoa Kỳ, trong đó 1 curie bằng 37 tỷ Bq. Điều này tương đương với 37.000 megabecquerel (MBq) hoặc 37 gigabecquerel (GBq).
+
+Các loại phơi nhiễm
+
+Phơi nhiễm phóng xạ có thể do
+
+Ô nhiễm
+
+Chiếu xạ
+
+Ô nhiễm phóng xạ
+
+là sự tiếp xúc ngoài ý muốn và lưu giữ chất phóng xạ, thường ở dạng bụi hoặc chất lỏng. Nhiễm xạ có thể ở
+
+Bên ngoài
+
+Bên trong
+
+Nhiễm bên ngoài
+
+là nhiễm bẩn trên da hoặc quần áo, một số chất có thể rơi ra hoặc bị cọ xát, làm nhiễm bẩn người và đồ vật khác.
+
+Nhiễm bên trong
+
+là sự xâm nhập không mong muốn của vật liệu phóng xạ vào cơ thể thông qua đường tiêu hóa, hít phải hoặc qua các vết rách trên da. Trong cơ thể, chất phóng xạ có thể được vận chuyển đến các vị trí khác nhau (ví dụ, tủy xương), nơi nó tiếp tục phát ra bức xạ cho đến khi nó được lấy ra hoặc bị phân hủy. Nhiễm xạ bên trong khó khăn hơn để loại bỏ.
+
+Mặc dù có thể có sự nhiễm xạ bên trong với bất kỳ chất phóng xạ nào, trong lịch sử, hầu hết các trường hợp nhiễm xạ gây ra một nguy cơ đáng kể cho bệnh nhân có liên quan đến một số lượng nhỏ các hạt nhân phóng xạ như phosphorus-32, coban-60, stronti-90, cesium-137, iodine -131, iốt-125, radium-226, urani-235, urani-238, plutoni-238, plutoni-239, polonium-210 và americium-241.
+
+Chiếu xạ
+
+là tiếp xúc với bức xạ chứ không phải chất phóng xạ (tức là không có sự nhiễm).
+
+Phơi nhiễm bức xạ có thể xảy ra mà không cần nguồn bức xạ (ví dụ: vật liệu phóng xạ, máy chụp X-quang) tiếp xúc với người đó. Khi nguồn bức xạ bị loại bỏ hoặc tắt, sự phơi nhiễm sẽ kết thúc.
+
+Chiếu xạ có thể bao gồm toàn bộ cơ thể hoặc một phần nhỏ của cơ thể (ví dụ: từ xạ trị). Nếu liều đủ cao, bức xạ toàn thân có thể dẫn đến các triệu chứng toàn thân và
+
+hội chứng bức xạ
+
+. Chiếu xạ một bộ phận nhỏ của cơ thể có thể dẫn đến các ảnh hưởng tại chỗ. Xạ trị cũng có thể gây tổn thương cho các mô bình thường gần mô đích.
+
+Con người không phát ra bức xạ (trở thành nguồn phóng xạ) sau khi bị chiếu xạ.
+
+Nguồn phơi nhiễm
+
+Nguồn tiếp xúc với bức xạ có thể là nguồn tự nhiên hoặc nhân tạo (xem bảng
+
+Mức tiếp xúc với bức xạ trung bình hàng năm tại Hoa Kỳ
+
+).
+
+Con người thường xuyên phơi nhiễm với mức thấp của nguồn phóng xạ tự nhiên gọi là bức xạ nền. Bức xạ nền xuất phát từ nguồn phóng xạ trong vũ trụ và từ các nguyên tố phóng xạ trong không khí, nước và mặt đất. Bức xạ vũ trụ tập trung ở các cực bởi từ trường của trái đất và bị suy giảm bởi khí quyển. Do đó, những người sống ở vĩ độ cao hoặc ở trên những vùng có độ cao lớn, hay phải di chuyển bằng máy bay thường bị phơi nhiễm nhiều hơn.
+
+Các nguồn phóng xạ bên ngoài nguồn gốc từ đất chủ yếu là do sự có mặt của các nguyên tố phóng xạ với chu kỳ bán rã tương đương với tuổi của trái đất (~ 4,5 tỷ năm). Đặc biệt là uranium-238 và thorium-232, cùng với hàng chục sản phẩm phóng xạ của các chất này và một đồng vị phóng xạ của kali (K-40), có mặt trong nhiều loại đá và khoáng chất.
+
+Một lượng nhỏ các chất phóng xạ này có trong thực phẩm, nước và không khí và do đó gây ra phơi nhiễm bên trong vì các chất phóng xạ này luôn được đưa vào cơ thể. Phần lớn liều từ các hạt nhân phóng xạ kết hợp bên trong là từ các đồng vị phóng xạ carbon (C-14) và kali (K-40), và do những nguyên tố này và các nguyên tố khác (dạng ổn định và dạng phóng xạ) được bổ sung liên tục trong cơ thể bằng cách ăn và hít phải, có khoảng 7000 nguyên tử trải qua quá trình phân rã phóng xạ trong cơ thể mỗi giây.
+
+Ở Hoa Kỳ, phơi nhiễm bên trong do hít phải các đồng vị phóng xạ của khí radon hiếm (Rn-222 và Rn-220) chiếm tỷ lệ lớn nhất trong liều bức xạ tự nhiên trung bình trên đầu người. Bức xạ vũ trụ, các nguyên tố phóng xạ trong cơ thể và bức xạ mặt đất bên ngoài là những nguồn tiếp xúc với bức xạ ít thường xuyên hơn (
+
+1, 2
+
+). Con người nhận được liều lượng hiệu quả trung bình khoảng 3 millisievert (mSv)/năm từ các nguồn tự nhiên (dao động từ 0,5 đến 20 mSv/năm). Tuy nhiên, ở một số nơi trên thế giới, mọi người nhận
+
+>
+
+50 mSv/năm. Liều lượng từ bức xạ nền tự nhiên quá thấp để có thể gây ra thương tổn do bức xạ.
+
+Ở Hoa Kỳ, trung bình mỗi người nhận được khoảng 3 mSv/năm từ các nguồn do con người tạo ra, phần lớn trong số đó liên quan đến
+
+chẩn đoán hình ảnh y khoa
+
+. Tính theo bình quân đầu người, sự đóng góp của việc tiếp xúc với các kỹ thuật chẩn đoán hình ảnh cao nhất đối với chụp CT và các thủ thuật can thiệp tim mạch hạt nhân. Tuy nhiên, các thủ thuật chẩn đoán y khoa hiếm khi truyền đủ liều lượng bức xạ để gây tổn thương. Các trường hợp ngoại lệ có thể bao gồm một số thủ thuật can thiệp kéo dài được hướng dẫn bằng màn huỳnh quang (ví dụ: tái tạo nội mạch, nút mạch, triệt đốt sóng cao tần cho tim và khối u) gây tổn thương da và các mô bên dưới. Về mặt lý thuyết, có một sự gia tăng nhỏ về nguy cơ ung thư do tiếp xúc nhiều với hình ảnh y tế.
+
+Viêm da phóng xạ mạn tính
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Một phần rất nhỏ các kết quả phơi nhiễm trung bình công cộng đến từ tai nạn phóng xạ và sự cố phóng xạ do việc thử nghiệm vũ khí hạt nhân. Tai nạn có thể từ các máy phóng xạ công nghiệp, các nguồn bức xạ công nghiệp và lò phản ứng hạt nhân. Những tai nạn này thường là kết quả của việc không tuân thủ đúng các quy trình an toàn (ví dụ, các khoá liên động bị bỏ qua).
+
+Các tổn thương do phóng xạ cũng được gây ra bởi các nguồn từ y tế hoặc công nghiệp do làm thất thoát hoặc bị đánh cắp các chất có tính phóng xạ. Những người có nhu cầu cần chăm sóc y tế vì những tổn thương do phóng xạ có thể không nhận thức được rằng họ đã bị phơi nhiễm với bức xạ.
+
+Các vụ phát tán vật liệu phóng xạ không mong muốn đã xảy ra, bao gồm từ nhà máy Three Mile Island ở Pennsylvania vào năm 1979, lò phản ứng Chernobyl ở Ukraine vào năm 1986 và cơ sở điện hạt nhân Fukushima Daiichi ở Nhật Bản vào năm 2011 (
+
+3, 4, 5
+
+).
+
+Phơi nhiễm từ sự cố ở Three Mile Island là tối thiểu nhất bởi vì không có lỗ thủng nào của bình chứa hạt nhân phóng xạ xảy ra như ở Chernobyl và không có vụ nổ hydro xảy ra như ở Fukushima. Những người sống trong phạm vi 1,6 km quanh Đảo Three Mile chỉ nhận được tối đa khoảng 0,08 mSv (một phần nhỏ so với lượng phóng xạ nhận được từ các nguồn tự nhiên trong một tháng).
+
+Ngược lại, 115.000 người cuối cùng được sơ tán khỏi khu vực xung quanh nhà máy Chernobyl đã nhận được liều hiệu dụng trung bình khoảng 30 mSv và liều tuyến giáp trung bình khoảng 490 mGy. Những người làm việc tại nhà máy Chernobyl tại thời điểm tai nạn đã nhận được liều cao hơn rất nhiều. Hơn 30 công nhân và nhân viên cứu hộ khẩn cấp đã chết trong vòng vài tháng sau tai nạn và nhiều người bị bệnh bức xạ cấp tính. Mức độ ô nhiễm thấp từ vụ tai nạn đó đã được phát hiện ở những nơi xa xôi khác tại Châu Âu, Châu Á và thậm chí (ở mức độ thấp hơn) là Bắc Mỹ. Tổng lượng phơi nhiễm tích lũy trung bình đối với dân số nói chung ở nhiều khu vực bị ảnh hưởng của Belarus, Nga và Ukraine trong khoảng thời gian 20 năm sau tai nạn ước tính khoảng 9 mSv.
+
+Trận động đất và sóng thần ở Nhật Bản vào tháng 2011 đã dẫn đến việc giải phóng chất phóng xạ ra môi trường từ một số lò phản ứng tại nhà máy điện hạt nhân Fukushima Daiichi. Không có thương tích nghiêm trọng do bức xạ gây ra cho nhân viên tại chỗ. Trong số gần 400.000 cư dân ở tỉnh Fukushima, liều hiệu quả ước tính (dựa trên các cuộc phỏng vấn và mô hình tái cấu trúc liều) là < 2 mSv đối với 95% người dân và
+
+<
+
+5 mSv đối với 99,8%. Ước tính của Tổ chức Y tế Thế giới cao hơn một chút vì các giả định có chủ ý thận trọng hơn về phơi nhiễm phóng xạ. Liều hiệu quả ở các quận không liền kề với Fukushima được ước tính là từ 0,1 đến 1 mSv và liều đối với người dân bên ngoài Nhật Bản là không đáng kể (
+
+<
+
+0,01 mSv).
+
+Sự cố phơi nhiễm bức xạ đáng kể nhất đối với một bộ phận dân cư xảy ra sau vụ nổ hai quả bom nguyên tử ở Nhật Bản vào tháng 8 năm 1945, khiến khoảng 110.000 người tử vong do chấn thương tức thời của vụ nổ và sức nóng. Số lượng ca tử vong (
+
+<
+
+1000) vì ung thư do phóng xạ ít hơn nhiều đã xảy ra trong những năm tiếp theo. Việc giám sát y tế đang diễn ra đối với những người sống sót sau vụ nổ vẫn là một trong những nguồn dữ liệu quan trọng nhất để đánh giá nguy cơ ung thư do phóng xạ.
+
+Mặc dù một số vụ án hình sự về việc cố ý đầu độc cá nhân đã được báo cáo, tình trạng phơi nhiễm bức xạ đối với dân chúng do các hoạt động khủng bố vẫn chưa xảy ra nhưng vẫn là mối quan ngại (xem thêm
+
+Vũ khí phóng xạ
+
+). Một kịch bản có thể bao gồm việc sử dụng một thiết bị để gây ô nhiễm một khu vực bằng cách phân tán chất phóng xạ (ví dụ, từ một thiết bị xạ trị bị loại bỏ hoặc nguồn công nghiệp cesium-137 hoặc cobalt-60). Thiết bị phân tán bức xạ (RDD) sử dụng chất nổ thông thường được gọi là bom bẩn. Các kịch bản khủng bố khác bao gồm việc sử dụng một nguồn bức xạ ẩn để phơi bày những người không nghi ngờ tới với liều bức xạ lớn, tấn công một lò phản ứng hạt nhân hoặc cơ sở lưu trữ chất phóng xạ và việc phát nổ một vũ khí hạt nhân (ví dụ, một thiết bị hạt nhân [IND], một vũ khí bị đánh cắp).
+
+Bảng
+
+Mức độ phơi nhiễm bức xạ trung bình hàng năm ở Hoa Kỳ*
+
+Bảng
+
+Mức độ phơi nhiễm bức xạ trung bình hàng năm ở Hoa Kỳ*
+
+Mức độ phơi nhiễm bức xạ trung bình hàng năm ở Hoa Kỳ*
+
+Nguồn
+
+Liều hiệu dụng (millisieverts)
+
+Nguồn bức xạ tự nhiên xảy ra
+
+Khí radon
+
+2,3
+
+Các nguồn mặt đất khác
+
+0,2
+
+Bức xạ từ mặt trời và vũ trụ
+
+0,3
+
+Các nguyên tố phóng xạ bên trong tự nhiên
+
+0,3
+
+Tổng cộng
+
+3,1
+
+Nguồn bức xạ do con người tạo ra (mức độ phơi nhiễm trung bình của một người)
+
+Chẩn đoán X quang và y học hạt nhân
+
+3,0
+
+Sản phẩm tiêu thụ
+
+0,1
+
+Bụi phóng xạ từ thử nghiệm vũ khí hạt nhân
+
+<
+
+0,01
+
+Ngành công nghiệp hạt nhân
+
+<
+
+0,01
+
+Tổng cộng
+
+3,1
+
+Tổng số phơi nhiễm hàng năm
+
+6,2
+
+Các nguồn phơi nhiễm bức xạ khác (trung bình mỗi lần phơi nhiễm hoặc mỗi thủ thuật)
+
+Di chuyển bằng máy bay
+
+†
+
+0,001-0,014/giờ bay
+
+Phim chụp X-quang nha khoa
+
+0,005
+
+Phim chụp X-quang ngực (phim thẳng)
+
+0,02
+
+Phim chụp X-quang ngực (2 phim: thẳng và nghiêng)
+
+0,1
+
+Chụp X-quang tuyến vú
+
+0,4
+
+Chụp CT, đầu
+
+2
+
+Chụp CT, cơ thể (ngực, bụng, khung chậu)
+
+6–8
+
+Thụt barit
+
+8…
+
+Y học hạt nhân (ví dụ: xạ hình xương)
+
+4,2
+
+* Hội đồng Quốc gia về Bảo vệ và Đo lường Bức xạ. Phơi nhiễm với bức xạ ion hóa của dân chúng Hoa Kỳ. Báo cáo NCRP 160 National Council on Radiation Protection and Measurements, Bethesda, MD, 2009.
+
+†
+
+Thiết bị kiểm tra hành khách bằng máy chụp X-quang không được sử dụng ở Hoa Kỳ kể từ năm 2014 nhưng có thể được sử dụng ở các quốc gia khác. Tại Hoa Kỳ, các thiết bị kiểm tra hành khách sử dụng sóng milimet (mmW), một loại bức xạ không ion hóa. Những tần số này cũng được sử dụng trong các cơ sở viễn thông không dây 5G.
+
+* Hội đồng Quốc gia về Bảo vệ và Đo lường Bức xạ. Phơi nhiễm với bức xạ ion hóa của dân chúng Hoa Kỳ. Báo cáo NCRP 160 National Council on Radiation Protection and Measurements, Bethesda, MD, 2009.
+
+†
+
+Thiết bị kiểm tra hành khách bằng máy chụp X-quang không được sử dụng ở Hoa Kỳ kể từ năm 2014 nhưng có thể được sử dụng ở các quốc gia khác. Tại Hoa Kỳ, các thiết bị kiểm tra hành khách sử dụng sóng milimet (mmW), một loại bức xạ không ion hóa. Những tần số này cũng được sử dụng trong các cơ sở viễn thông không dây 5G.
+
+Tài liệu tham khảo
+
+1.
+
+United States Environmental Protection Agency (EPA)
+
+. Radiation Sources and Doses. Truy cập ngày 2 tháng 1 năm 2025.
+
+2,
+
+Centers for Disease Control and Prevention (CDC)
+
+. Radiation Emergencies: Radiation Thermometer. Truy cập ngày 2 tháng 1 năm 2025.
+
+3.
+
+United States Nuclear Regulatory Commission.
+
+Backgrounder on the Three Mile Island Accident. Truy cập ngày 2 tháng 1 năm 2025.
+
+4.
+
+International Atomic Energy Agency
+
+. The 1986 Chornobyl nuclear power plant accident. Truy cập ngày 2 tháng 1 năm 2025.
+
+5.
+
+World Nuclear Association
+
+. Fukushima Daiichi Accident. Truy cập ngày 2 tháng 1 năm 2025.
+
+Sinh lý bệnh của phơi nhiễm và ô nhiễm phóng xạ
+
+Bức xạ ion hóa có thể gây tổn hại trực tiếp đến DNA, RNA và protein. Tuy nhiên, thiệt hại cho các phân tử này thường là gián tiếp, gây ra bởi các gốc tự do có phản ứng cao được tạo ra bởi sự tương tác của bức xạ với các phân tử nước trong tế bào.
+
+Liều phóng xạ lớn có thể gây chết tế bào và liều thấp hơn có thể ảnh hưởng đến hệ thống sửa chữa phân tử nội sinh, cân bằng nội môi và phân chia tế bào. Tổn thương các phần này và các thành phần của tế bào khác có thể dẫn đến giảm sản mô, teo và xơ hóa. Tuy nhiên, chỉ riêng việc tiêu diệt tế bào không thể giải thích được nhiều phản ứng của mô vì những phản ứng đó còn phụ thuộc vào các sự kiện phức tạp, bao gồm phản ứng viêm, oxy hóa mạn tính và phản ứng miễn dịch, cũng như tổn thương mạch máu và ma trận ngoại bào.
+
+Nói chung, các phản ứng ban đầu, chẳng hạn như ở da và đường tiêu hóa, liên quan đến việc giết chết các tế bào gốc/tế bào tiền thân sớm, loại tế bào mà cung cấp các tế bào chức năng trưởng thành trong mô, cũng như các phản ứng viêm.
+
+Các phản ứng muộn (ví dụ: ở phổi, thận và não) liên quan đến các tương tác phức tạp và năng động giữa nhiều loại tế bào trong mô và cơ quan và bao gồm các tế bào miễn dịch xâm nhập; sản xuất cytokine và các yếu tố tăng trưởng; thường theo chuỗi phản ứng tuần hoàn, dai dẳng; và căng thẳng oxy hóa mạn tính.
+
+Các yếu tố ảnh hưởng đến đáp ứng
+
+đáp ứng sinh học đối với bức xạ thay đổi theo
+
+tính nhạy cảm với phóng xạ của mô
+
+Liều
+
+Suất liều
+
+Thời gian phơi nhiễm
+
+Mức độ phản ứng viêm
+
+Tuổi
+
+Bệnh kèm theo
+
+Sự hiện diện của các rối loạn khiếm khuyết sửa chữa DNA di truyền (ví dụ:
+
+thất điều hòa-giãn mạch
+
+, hội chứng Bloom,
+
+thiếu máu Fanconi
+
+)
+
+Các tế bào và các mô khác nhau về sự nhạy cảm của chúng với tia xạ. Nói chung, các tế bào chưa biệt hóa và những tế bào có khả năng phân bào cao (ví dụ, tế bào gốc, tế bào ung thư) dễ bị tổn thương đối với tia xạ. Vì bức xạ làm giảm nhanh sự phân chia tế bào gốc hơn là các tế bào trưởng thành, thường có khoảng thời gian tiềm ẩn giữa sự phơi nhiễm phóng xạ và tổn thương quá mức do bức xạ. Tổn thương không biểu hiện cho đến khi một phần đáng kể các tế bào trưởng thành chết do lão hoá tự nhiên và do mất tế bào gốc, không được thay thế.
+
+Mức độ nhạy cảm của tế bào
+
+giảm dần theo thứ tự
+
+Tế bào bạch huyết
+
+Tế bào gốc
+
+tế bào tăng sinh tủy xương
+
+Tế bào biểu mô ruột
+
+Tế bào gốc biểu bì
+
+Tế bào gan
+
+tế bào biểu mô phế nang và biểu mô đường mật
+
+Tế bào biểu mô thận
+
+Các tế bào nội mô (màng phổi và phúc mạc)
+
+Tế bào mô liên kết
+
+Tế bào xương
+
+Tế bào cơ, não và tủy sống
+
+Mức độ nghiêm trọng của tổn thương bức xạ phụ thuộc vào liều lượng và thời gian mà nó tác động. Liều cao, đơn và nhanh gây hại nhiều hơn so với liều tương tự trong vài tuần hoặc vài tháng. Đáp ứng với liều cũng phụ thuộc vào phần cơ thể bị phơi nhiễm. Bệnh tật đáng kể là điều chắc chắn và có thể tử vong sau khi liều toàn thân
+
+>
+
+4,5 Gy được đưa vào trong một khoảng thời gian ngắn (vài phút đến vài giờ) (
+
+1
+
+); tuy nhiên, liều 10 Gy có thể được dung nạp tốt khi đưa vào trong một thời gian dài cho một vùng mô nhỏ (ví dụ, để
+
+điều trị ung thư
+
+).
+
+Các yếu tố khác có thể làm tăng độ nhạy cảm đối với tổn thương bức xạ. Trẻ em dễ bị tổn thương do bức xạ hơn vì chúng có khả năng phân chia tế bào cao hơn. Ở trẻ em, một số cơ quan và mô như não, thủy tinh thể và tuyến giáp nhạy cảm hơn với bức xạ so với người lớn. Những người đồng hợp tử với gen gây
+
+chứng thất điều-giãn mạch
+
+biểu hiện tăng nhạy cảm rất nhiều với tổn thương do bức xạ. Các bệnh lý như là bệnh thấp khớp toàn thân và bệnh tiểu đường có thể làm tăng độ nhạy cảm với tổn thương do bức xạ. Một số loại thuốc và tác nhân hóa trị liệu (ví dụ: dactinomycin, doxorubicin, bleomycin, 5-fluorouracil, methotrexate) cũng có thể làm tăng độ nhạy cảm với tổn thương do bức xạ. Một số tác nhân hóa trị liệu (ví dụ: doxorubicin, etoposide, paclitaxel, epirubicin), kháng sinh (ví dụ: cefotetan), statin (ví dụ: simvastatin) và các chế phẩm thảo dược (ví dụ: cây ban Âu) có thể gây ra phản ứng viêm da tại vị trí chiếu xạ trước đó (hồi tưởng bức xạ) nhiều tuần đến nhiều năm sau khi tiếp xúc tại cùng một vị trí (
+
+2
+
+).
+
+Các tác động sinh ung thư, quái thai, bệnh lý di truyền
+
+Tổn thương di truyền do bức xạ gây ra ở tế bào soma có thể dẫn đến chuyển đổi ác tính. Tiếp xúc với bức xạ trong tử cung có thể dẫn đến tác dụng gây quái thai và tổn thương tế bào mầm làm tăng khả năng lý thuyết về các khiếm khuyết di truyền có thể lây truyền.
+
+Tiếp xúc toàn thân kéo dài được cho là làm tăng nguy cơ tử vong do ung thư trung bình trong suốt cuộc đời của người lớn (
+
+3
+
+).
+
+Cơ hội phát sinh ung thư do các liều thường gặp (nghĩa là từ bức xạ nền và các xét nghiệm hình ảnh điển hình [xem
+
+Nguy cơ bức xạ ion hóa
+
+]) ít hơn nhiều và có thể bằng không.
+
+Ước tính có sự tăng nguy cơ ung thư vì tia xạ là kết quả của những liều lượng thấp nhưng trong thời gian dài của những người trong vùng lân cận của các sự cố của lò phản ứng hạt nhân như Fukushima đã được thực hiện bằng cách ngoại suy xuống từ những tác dụng đã biết của liều cao hơn. Hậu quả rất nhỏ về lý thuyết được nhân lên bởi một quần thể lớn khi nói đến số tử vong do ung thư có liên quan. Tuy nhiên, giá trị của các ngoại suy như vậy không thể khẳng định được chắc chắn bởi vì giả thuyết tăng nguy cơ quá nhỏ nên không thể phát hiện được trong các nghiên cứu dịch tễ học và khả năng không có sự tăng nguy cơ ung thư do phơi nhiễm này không thể bị loại trừ.
+
+Trẻ em dễ mắc nguy cơ ung thư do bức xạ hơn vì chúng có số lượng tế bào phân chia trong tương lai cao hơn và tuổi thọ dài hơn, thời gian có thể biểu hiện ung thư cũng dài hơn. Chụp CT bụng ở trẻ 1 tuổi ước tính làm tăng nguy cơ mắc ung thư tuyệt đối trong suốt cuộc đời ước tính của trẻ khoảng 0,1% đến 0,2% (
+
+4
+
+).
+
+Hạt nhân phóng xạ được tích tụ vào các mô đặc biệt có khả năng gây ung thư tại các tổ chức này (ví dụ, tai nạn lò phản ứng Chernobyl đã dẫn tới việc sử dụng iốt nồng độ phóng xạ đáng kể do tiêu dùng sữa bị phơi nhiễm phóng xạ và các trường hợp ung thư tuyến giáp xuất hiện ở trẻ em bị phơi nhiễm).
+
+Thai nhi rất dễ bị tổn thương do bức xạ liều cao. Tuy nhiên, với liều lượng
+
+<
+
+100 mGy, hậu quả gây quái thai là không có. Nguy cơ ở những thai nhi nhận liều bức xạ thông thường gián tiếp qua xét nghiệm chẩn đoán hình ảnh của mẹ là rất nhỏ so với nguy cơ dị tật bẩm sinh chung (từ 2 đến 6% khi sinh) và lợi ích của xét nghiệm chẩn đoán. Nguy cơ mắc bệnh ung thư tăng lên do tiếp xúc với bức xạ trong tử cung gần giống với nguy cơ do tiếp xúc với bức xạ ở trẻ em, cao gấp khoảng 2 đến 3 lần so với nguy cơ ở người lớn là 5%/Sv (
+
+5
+
+).
+
+Ở thai nhi, phơi nhiễm vượt quá 300 mGy trong 8 đến 15 tuần sau khi thụ thai có thể làm giảm trí thông minh (
+
+6
+
+).
+
+Những nguy cơ tiềm ẩn từ việc phơi nhiễm với bức xạ bắt buộc phải xem xét cẩn thận nhu cầu (hoặc các lựa chọn thay thế) kiểm tra chẩn đoán hình ảnh liên quan đến bức xạ, tối ưu hóa việc phơi nhiễm với bức xạ đối với thể trạng cơ thể và câu hỏi lâm sàng được đặt ra, cũng như chú ý đến việc sử dụng các quy trình bảo vệ bức xạ thích hợp, đặc biệt là ở trẻ em và phụ nữ mang thai.
+
+Tổn thương cho các tế bào sinh sản đã được chứng minh là gây ra dị tật bẩm sinh ở con của những động vật thực nghiệm bị chiếu xạ nghiêm trọng. Tuy nhiên, các tác động di truyền đã không được tìm thấy ở trẻ em của những người tiếp xúc với phóng xạ, bao gồm cả những đứa trẻ Nhật Bản sống sót sau những vụ đánh bom nguyên tử hoặc những đứa trẻ ung thư sống sót sau khi điều trị bằng xạ trị.
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Centers for Disease Control and Prevention (CDC)
+
+. Acute Radiation Syndrome: Information for Clinicians. Truy cập ngày 2 tháng 1 năm 2025.
+
+2.
+
+Balter S, Hopewell JW, Miller DL, et al
+
+. Fluoroscopically guided interventional procedures: A review of radiation effects on patients' skin and hair.
+
+Radiology.
+
+254(2):326-341, 2010 doi:10.1148/radiol.2542082312
+
+3.
+
+National Research Council of the National Academies, Committee to Assess Health Risks from Exposure to Low Levels of Ionizing Radiation
+
+. Health risks from exposure to low levels of ionizing radiation: BEIR VII, Phase 2. Truy cập ngày 2 tháng 1 năm 2025.
+
+4.
+
+United Nations Scientific Committee on the Effects of Atomic Radiation
+
+. Sources, Effects and Risks of Ionizing Radiation. Scientific Annex B: Effects of radiation exposure of children. Truy cập ngày 2 tháng 1 năm 2025.
+
+5.
+
+National Council on Radiation Protection and Measurements (NCRP)
+
+. Report No. 174 – Preconception and Prenatal Radiation Exposure: Health Effects and Protective Guidance (2013). Truy cập ngày 2 tháng 1 năm 2025.
+
+6.
+
+Moon EK, Wang W, Newman JS, Bayona-Molano Mdel P
+
+. Challenges in interventional radiology: the pregnant patient.
+
+Semin Intervent Radiol.
+
+2013;30(4):394-402. doi:10.1055/s-0033-1359734
+
+Các triệu chứng và dấu hiệu của phơi nhiễm và ô nhiễm bức xạ
+
+Các biểu hiện lâm sàng phụ thuộc vào việc phơi nhiễm phóng xạ đến toàn bộ cơ thể (
+
+Hội chứng chiếu xạ cấp tính
+
+) hoặc được giới hạn ở một phần nhỏ của cơ thể (
+
+Tổn thương Bức xạ Khu trú
+
+).
+
+Hội chứng chiếu xạ cấp tính (ARS)
+
+Sau khi toàn bộ cơ thể hoặc phần lớn cơ thể nhận được một liều phóng xạ xuyên qua da, có thể có một số triệu chứng khác nhau:
+
+Hội chứng mạch máu não
+
+Hội chứng dạ dày-ruột (GI)
+
+Hội chứng cơ quan tạo máu
+
+Các hội chứng này có 3 giai đoạn khác nhau:
+
+Giai đoạn báo trước (ít nhất 2 ngày sau khi tiếp xúc): Có thể xuất hiện tình trạng mệt mỏi và triệu chứng tiêu hóa (buồn nôn, chán ăn, nôn ói, tiêu chảy).
+
+Giai đoạn tiềm ẩn không triệu chứng (vài giờ đến 21 ngày sau khi phơi nhiễm)
+
+Giai đoạn bệnh toàn thân biểu hiện rõ rệt (giờ đến
+
+>
+
+60 ngày sau khi phơi nhiễm): Bệnh được phân loại theo biểu hiện ở các cơ quan chính
+
+Biểu hiện hội chứng nào, mức độ nghiêm trọng của nó và tốc độ tiến triển nhanh như thế nào phụ thuộc vào liều bức xạ (xem bảng
+
+Ảnh hưởng của chiếu xạ toàn thân từ nguồn bức xạ ngoài hoặc hấp thụ nguồn bức xạ trong
+
+). Các triệu chứng và thời gian tiến triển là tương đối phù hợp với một liều phóng xạ nhất định và do đó có thể giúp đánh giá phơi nhiễm phóng xạ.
+
+Hội chứng mạch não,
+
+xuất hiện ở liều phóng xạ toàn thân rất cao (
+
+>
+
+30 Gy), luôn gây tử vong. Giai đoạn báo trước tiến triển trong vòng vài phút đến 1 giờ sau khi phơi nhiễm. Giai đoạn không triệu chứng thường hiếm hoặc không có. Bệnh nhân biểu hiện run, co giật, mất điều hò, phù não và chết trong vòng vài giờ đến 1 hoặc 2 ngày.
+
+Hội chứng đường tiêu hóa
+
+là biểu hiện chủ yếu sau liều toàn thân khoảng 6 đến 30 Gy. Triệu chứng ban đầu thường được ghi nhận, tiến triển trong khoảng 1 giờ và được giải quyết trong 2 ngày. Trong giai đoạn tiềm ẩn thường kéo dài 4-5 ngày, tế bào niêm mạc ống tiêu hóa chết dần. Tế bào chết sẽ gây tình trạng khó chịu, buồn nôn, nôn ói, tiêu chảy dẫn đến mất nước nghiêm trọng, mất cân bằng điện giải, giảm thể tích huyết tương và trụy mạch. Cũng có thể xuất hiện hoại tử ruột, đẫn đến thủng ruột, nhiễm khuẩn huyết và shock nhiễm khuẩn. Thường là tử vong. Bệnh nhân nhận liều
+
+>
+
+10 Gy có thể xuất hiện các triệu chứng mạch máu não (gợi ý liều chết). Những người sống sót sẽ mắc hội chứng cơ quan tạo máu.
+
+Hội chứng cơ quan tạo máu
+
+là biểu hiện chủ yếu sau liều toàn thân khoảng 1 đến 6 Gy và bao gồm tình trạng giảm toàn thể các tế bào máu. Một giai đoạn báo hiệu nhẹ nhàng có thể bắt đầu từ 1 đến 6 giờ, kéo dài 24 đến 48 giờ. Tế bào gốc tủy xương bị suy giảm đáng kể, nhưng các tế bào máu trưởng thành đang lưu hành trong mạch máu hầu như không bị ảnh hưởng. Tế bào lympho đang lưu hành trong tuần hoàn là ngoại lệ và giảm bạch cầu lympho có thể biểu hiện trong vòng vài giờ đến vài ngày sau khi phơi nhiễm. Khi các tế bào trong mạch máu chết do lão hóa, chúng không được bổ sung đầy đủ, dẫn đến tình trạng giảm 3 dòng. Vì vậy, bệnh nhân không có triệu chứng trong giai đoạn tiềm ẩn khoảng 4,5 tuần sau khi dùng liều 1-Gy đến khi quá trình tạo máu bị ảnh hưởng. Nguy cơ nhiễm trùng tăng lên do hậu quả của
+
+giảm bạch cầu đa nhân trung tính
+
+(biểu hiện rõ nhất sau 2-4 tuần) và giảm sản xuất kháng thể. Xuất huyết dưới da và chảy máu niêm mạc là hậu quả của
+
+giảm tiểu cầu
+
+, tiến triển trong vòng 3 đến 4 tuần và có thể tồn tại trong nhiều tháng. Thiếu máu tiến triển chậm vì hồng cầu có tuổi thọ dài hơn bạch cầu và tiểu cầu. Những người sống sót thì tăng nguy cơ mắc các loại ung thư do phóng xạ, trong đó có
+
+bệnh bạch cầu
+
+cấp.
+
+Bảng
+
+Ảnh hưởng của Chiếu xạ Toàn thân từ Nguồn Bức xạ Ngoài hoặc Hấp thụ Nguồn Bức xạ Trong
+
+Bảng
+
+Ảnh hưởng của Chiếu xạ Toàn thân từ Nguồn Bức xạ Ngoài hoặc Hấp thụ Nguồn Bức xạ Trong
+
+Ảnh hưởng của Chiếu xạ Toàn thân từ Nguồn Bức xạ Ngoài hoặc Hấp thụ Nguồn Bức xạ Trong
+
+Giai đoạn có hội chứng
+
+Đặc điểm
+
+Khoảng liều (Gy)*,
+
+†
+
+1–2
+
+2–6
+
+6–8
+
+8–30
+
+> 30
+
+Tiền triệu
+
+Tỷ lệ buồn nôn và nôn
+
+5–50%
+
+50–100%
+
+75–100%
+
+90–100%
+
+100%
+
+Thời điểm bắt đầu buồn nôn và nôn sau khi phơi nhiễm
+
+‡
+
+2-6 giờ
+
+1-2 giờ
+
+10-60 phút
+
+<
+
+10 phút
+
+Phút
+
+Thời gian buồn nôn và nôn
+
+<
+
+24 giờ
+
+24-48 giờ
+
+<
+
+48 giờ
+
+<
+
+48 giờ
+
+Chưa phát hiện bất thường (bệnh nhân tử vong
+
+<
+
+48 giờ)
+
+Mức độ nghiêm trọng và tỷ lệ mắc bệnh tiêu chảy
+
+không
+
+Không bị đến nhẹ (
+
+<
+
+10%)
+
+Vừa đến nặng (
+
+>
+
+10%)
+
+Nặng (
+
+>
+
+95%)
+
+Nghiêm trọng (100%)
+
+Thời điểm bắt đầu tiêu chảy sau khi phơi nhiễm
+
+—
+
+3-8 giờ
+
+1-3 giờ
+
+<
+
+1 giờ
+
+<
+
+1 giờ
+
+Mức độ nghiêm trọng và tỷ lệ đau đầu
+
+Nhẹ
+
+Ít tới trung bình (50%)
+
+Trung bình (80%)
+
+Nặng (80-90%)
+
+Nghiêm trọng (100%)
+
+Thời điểm bắt đầu đau đầu sau khi phơi nhiễm
+
+—
+
+4-24 giờ
+
+3-4 giờ
+
+1-2 giờ
+
+<
+
+1 giờ
+
+Mức độ sốt
+
+Hết sốt
+
+Tăng vừa phải
+
+Vừa đến nặng
+
+Nặng
+
+Nặng
+
+Tỷ lệ sốt
+
+—
+
+10–100%
+
+100%
+
+100%
+
+100%
+
+Thời điểm bắt đầu sốt sau khi phơi nhiễm
+
+—
+
+1-3 giờ
+
+<
+
+1 giờ
+
+<
+
+1 giờ
+
+<
+
+1 giờ
+
+Chức năng hệ thần kinh trung ương
+
+Không bị suy giảm
+
+Suy giảm nhận thức trong 6-20 giờ
+
+Suy giảm nhận thức
+
+>
+
+24 giờ
+
+Mất ý thức nhanh chóng ở liều cao
+
+Có thể có khoảng tỉnh trong vài giờ
+
+Thất điều
+
+Động kinh
+
+Run
+
+Li bì
+
+Giai đoạn tiềm ẩn
+
+Không có triệu chứng
+
+28-31 ngày
+
+7-28 ngày
+
+<
+
+7 ngày
+
+không
+
+không
+
+Khởi phát bệnh
+
+Biểu hiện lâm sàng
+
+Giảm bạch số lượng bạch cầu từ nhẹ đến trung bình
+
+Mệt mỏi
+
+Yếu
+
+Giảm bạch cầu từ trung bình đến nặng
+
+Ban xuất huyết
+
+Xuất huyết
+
+Nhiễm trùng
+
+Rụng lông, tóc sau 3 Gy
+
+Giảm bạch cầu nặng
+
+Sốt cao
+
+Bệnh tiêu chảy
+
+Nôn
+
+Chóng mặt và mất phương hướng
+
+Huyết áp thấp
+
+Rối loạn điện giải
+
+Buồn nôn
+
+Nôn
+
+Tiêu chảy nặng
+
+Sốt cao
+
+Rối loạn điện giải
+
+Sốc
+
+Chưa phát hiện bất thường (bệnh nhân tử vong
+
+<
+
+48 giờ)
+
+Hội chứng hệ thống cơ quan nổi trội
+
+Rối loạn tạo máu
+
+Rối loạn tạo máu
+
+Tiêu hóa (tế bào niêm mạc)
+
+Tiêu hóa (tế bào niêm mạc)
+
+Hệ thần kinh trung ương
+
+Nhập viện
+
+Theo dõi ngoại trú
+
+Đề nghị khi cần thiết
+
+Khẩn cấp
+
+Điều trị giảm nhẹ (chỉ điều trị triệu chứng)
+
+Điều trị giảm nhẹ (chỉ điều trị triệu chứng)
+
+Tỷ lệ tử vong cấp tính nếu không chăm sóc y tế
+
+0–5%
+
+5–100%
+
+95–100%
+
+100%
+
+100%
+
+Tỷ lệ tử vong cấp tính khi đã chăm sóc y tế
+
+0–5%
+
+5–50%
+
+50–100%
+
+100%
+
+100%
+
+Tử vong
+
+6-8 tuần
+
+4-6 tuần
+
+2-4 tuần
+
+2 ngày-2 tuần
+
+1-2 ngày
+
+* 1 rad
+
+=
+
+1 cGy; 100 rad
+
+=
+
+1 Gy.
+
+†
+
+Chiếu xạ toàn thân với liều lượng lên tới ~1 Gy không có khả năng gây ra bất kỳ triệu chứng nào.
+
+‡
+
+Mặc dù thời gian nôn là phương pháp nhanh chóng và rẻ tiền để ước tính liều bức xạ, nhưng cần thận trọng khi sử dụng vì phương pháp này không chính xác và có tỷ lệ dương tính giả cao. Các thông tin khác như số lượng tế bào lympho và chi tiết về khả năng phơi nhiễm sẽ giúp cải thiện độ chính xác.
+
+Được chuyển thể từ tài liệu của Viện nghiên cứu sinh học phóng xạ của các lực lượng vũ trang về hoạt động y học quân sự:
+
+Medical Management of Radiological Casualties
+
+, edition 3. tháng 6 năm 2010.
+
+* 1 rad
+
+=
+
+1 cGy; 100 rad
+
+=
+
+1 Gy.
+
+†
+
+Chiếu xạ toàn thân với liều lượng lên tới ~1 Gy không có khả năng gây ra bất kỳ triệu chứng nào.
+
+‡
+
+Mặc dù thời gian nôn là phương pháp nhanh chóng và rẻ tiền để ước tính liều bức xạ, nhưng cần thận trọng khi sử dụng vì phương pháp này không chính xác và có tỷ lệ dương tính giả cao. Các thông tin khác như số lượng tế bào lympho và chi tiết về khả năng phơi nhiễm sẽ giúp cải thiện độ chính xác.
+
+Được chuyển thể từ tài liệu của Viện nghiên cứu sinh học phóng xạ của các lực lượng vũ trang về hoạt động y học quân sự:
+
+Medical Management of Radiological Casualties
+
+, edition 3. tháng 6 năm 2010.
+
+Tổn thương bức xạ trên da
+
+là tổn thương da và mô dưới da do liều phóng xạ cấp ở mức thấp 3 Gy (xem bảng
+
+Tổn thương khu trú do bức xạ
+
+). Tổn thương bức xạ da có thể xảy ra với các hội chứng bức xạ cấp tính hoặc tiếp xúc với bức xạ khu trú và có phạm vi từ ban đỏ thoáng qua nhẹ đến hoại tử. Tác động muộn (
+
+>
+
+6 tháng sau khi phơi nhiễm) bao gồm tăng sắc tố, giảm sắc tố, xơ hóa tiến triển và giãn mao mạch lan tỏa. Da bị suy yếu và có thể dễ dàng bị tổn thương do chấn thương cơ học nhẹ. Vùng da bị phơi nhiễm phóng xạ sẽ tăng nguy cơ
+
+ung thư biểu mô tế bào vảy
+
+. Đặc biệt cần phải xem khả năng phơi nhiễm phóng xạ khi bệnh nhân bị bỏng da không liền, đau mà không có tiền sử tổn thương do nhiệt.
+
+Tổn thương Bức xạ Khu trú
+
+Tia phóng xạ có thể gây cả tổn thương cấp tính và mãn tính tới gần như mọi cơ quan (xem bảng
+
+Tổn thương Bức xạ Khu trú
+
+). Ở đa số bệnh nhân, những tác dụng phụ này xảy ra khi tiến hành
+
+xạ trị
+
+. Các nguồn tiếp xúc thông thường khác bao gồm tiếp xúc vô ý với thực phẩm có bức xạ, thiết bị xạ trị, thiết bị nhiễu xạ tia X và các nguồn bức xạ công nghiệp hoặc y tế khác có khả năng tạo ra suất liều cao. Ngoài ra, phơi nhiễm lâu dài với tia X trong một số can thiệp với chiếu tia X liên tục trên màn huỳnh quang tăng sáng có thể dẫn đến CRI. Các vết đau hoặc loét do phóng xạ có thể mất vài tháng hoặc nhiều năm để tiến triển hoàn toàn. Bệnh nhân bị CRI nặng đau nhiều và thường cần can thiệp phẫu thuật.
+
+Bảng
+
+Tổn thương Bức xạ Khu trú*
+
+Bảng
+
+Tổn thương Bức xạ Khu trú*
+
+Tổn thương Bức xạ Khu trú*
+
+Mô bị phơi nhiễm
+
+Tác dụng phụ
+
+Não
+
+Xem
+
+Xạ trị Nội sọ và Độc tính Thần kinh
+
+Tim và mạch máu
+
+Đau ngực, viêm màng ngoài tim do phóng xạ, viêm cơ tim phóng xạ
+
+Da
+
+Liều 2-4 Gy: ban đỏ thoáng qua: Ban đỏ thoáng qua
+
+Liều 4-5 Gy: Ban đỏ thoáng qua, rụng tóc tạm thời (trong vòng 2-3 tuần phơi nhiễm với liều
+
+>
+
+~ 4 Gy)
+
+Liều 5-10 Gy: Tình trạng ban đỏ trên da kéo dài, có thể là rụng tóc vĩnh viễn, tróc da khô (với những phơi nhiễm ở cuối khoảng liều)
+
+Liều 10-15 Gy: Bong da khô (trong vòng 2-8 tuần kể từ khi phơi nhiễm)
+
+Liều 15-20 Gy: Bong da ướt (trong vòng 2-4 tuần sau khi phơi nhiễm)
+
+Liều 15-25 Gy: Hình thành vết phồng da (trong vòng 2-3 tuần sau khi tiếp xúc)
+
+Liều
+
+>
+
+20 Gy: Loét da (trong vòng 2-3 tuần sau khi tiếp xúc)
+
+Liều
+
+>
+
+25 Gy: Hoại tử da (
+
+>
+
+3 tuần sau khi phơi nhiễm)
+
+Tuyến sinh dục
+
+Giảm tinh trùng, vô kinh, giảm ham muốn tình dục
+
+Ngưỡng liều (tỷ lệ ~1% tỷ lệ) cho vô sinh:
+
+Tinh hoàn:
+
+>
+
+6 Gy, khởi phát ~ 3 tuần
+
+Buồng trứng:
+
+>
+
+3 Gy, khởi phát
+
+<
+
+1 tuần
+
+Đầu và cổ
+
+Viêm niêm mạc miệng, đau khi nuốt, ung thư biểu mô tuyến giáp
+
+Cơ và xương
+
+Đau cơ, xuất hiện khối u, sarcom xương
+
+Mắt
+
+Liều
+
+>
+
+~ 0,5 Gy: Đục thủy tinh thể (sau thời gian tiềm ẩn ~ 20 năm, liều càng cao và càng trẻ tuổi khi tiếp xúc, thì thời gian tiềm ẩn càng ngắn)
+
+Phổi
+
+Viêm phổi cấp
+
+Phơi nhiễm phân đoạn
+
+>
+
+30 Gy: Đôi khi gây tử vong (LD-50 ~
+
+>
+
+10 Gy liều cao duy nhất)
+
+Xơ phổi
+
+Thận
+
+Giảm mức lọc cầu thận, giảm chức năng ống thận
+
+Liều cao (sau giai đoạn tiềm ẩn 6 tháng đến 1 năm): Protein niệu, suy thận, thiếu máu, cao huyết áp
+
+Liều tích lũy
+
+>
+
+20 Gy trong
+
+<
+
+5 tuần: Xơ hóa do phóng xạ, thiểu niệu do suy thận
+
+Tủy sống
+
+Liều
+
+>
+
+50 Gy: Bệnh lý tủy
+
+Thai nhi
+
+Hạn chế tăng trưởng, dị tật bẩm sinh, rối loạn chuyển hóa bẩm sinh, thai chết lưu
+
+Liều
+
+<
+
+0,1 Gy: Không có tác động đáng kể
+
+Nguy cơ ung thư trong tương lai gần bằng mức phơi nhiễm của trẻ em: ~ 10–15% mỗi Gy
+
+Authors on behalf of ICRP, Stewart FA, Akleyev AV, et al
+
+. Xuất bản ICRP 118: ICRP statement on tissue reactions and early and late effects of radiation in normal tissues and organs--threshold doses for tissue reactions in a radiation protection context.
+
+Ann ICRP
+
+. 2012;41(1-2):1-322. doi:10.1016/j.icrp.2012.02.001
+
+GFR
+
+=
+
+mức lọc cầu thận, Gy
+
+=
+
+gray; LD-50 = liều dự kiến sẽ gây tử vong cho 50% số bệnh nhân.
+
+* Tổn thương đặc trưng do xạ trị.
+
+Authors on behalf of ICRP, Stewart FA, Akleyev AV, et al
+
+. Xuất bản ICRP 118: ICRP statement on tissue reactions and early and late effects of radiation in normal tissues and organs--threshold doses for tissue reactions in a radiation protection context.
+
+Ann ICRP
+
+. 2012;41(1-2):1-322. doi:10.1016/j.icrp.2012.02.001
+
+GFR
+
+=
+
+mức lọc cầu thận, Gy
+
+=
+
+gray; LD-50 = liều dự kiến sẽ gây tử vong cho 50% số bệnh nhân.
+
+* Tổn thương đặc trưng do xạ trị.
+
+Chẩn đoán phơi nhiễm và ô nhiễm bức xạ
+
+Các triệu chứng, mức độ nghiêm trọng và triệu chứng tiềm ẩn
+
+Số lượng tuyệt đối tế bào lympho và nồng độ amylase huyết thanh
+
+Chẩn đoán là dựa vào tiền sử phơi nhiễm, triệu chứng và dấu hiệu lâm sàng kèm theo kết quả xét nghiệm. Thời điểm xuất hiện, thời gian diễn biến và mức độ nghiêm trọng của các triệu chứng có thể giúp xác định liều bức xạ và do đó cũng giúp phân loại bệnh nhân liên quan đến hậu quả của bức xạ. Tuy nhiên, một số triệu chứng ban đầu (như buồn nôn, nôn ói, tiêu chảy, run) không đặc hiệu và được gây ra do các nguyên nhân khác ngoài xạ trị nên được cân nhắc. Một số bệnh nhân
+
+không
+
+phơi nhiễm đủ để xuất hiện hội chứng nhiễm xạ cấp tính có thể có triệu chứng tương tự, không đặc hiệu, đặc biệt là sau một cuộc tấn công khủng bố hoặc tai nạn lò phản ứng.
+
+Sau khi phơi nhiễm phóng xạ cấp tính, xét nghiệm tổng phân tích tế bào máu so sánh sự khác biệt về số lượng tuyệt đối của tế bào lympho, thực hiện và lặp lại sau 24, 48 và 72 giờ sau khi phơi nhiễm để ước lượng liều bức xạ ban đầu và tiên lượng (xem bảng
+
+Mối quan hệ giữa số lượng tế bào bạch huyết tuyệt đối, liều lượng bức xạ, và tiên lượng
+
+). Mối quan hệ giữa liều lượng và số lượng tế bào lympho có thể bị thay đổi do chấn thương vật lý, có thể làm dịch chuyển tế bào lympho từ khoảng kẽ vào mạch máu, làm tăng số lượng bạch cầu lympho (
+
+1
+
+,
+
+2
+
+). Mức tác động của các yếu tố này là thoáng qua và thường giải quyết trong vòng 24 đến 48 giờ sau khi chấn thương cơ thể. Sự gia tăng thoáng qua về số lượng bạch cầu lympho này có thể gợi ý tiên lượng lạc quan sai lầm cho đến khi số lượng bạch cầu lympho giảm xuống. Tổng phân tích tế bào máu ngoại vi được lặp lại hàng tuần để theo dõi hoạt động của tủy xương cũng như dựa trên diễn biến lâm sàng. Nồng độ amylase huyết thanh tăng theo thời gian phụ thuộc vào liều bắt đầu từ 24 giờ sau khi phơi nhiễm phóng xạ đáng kể, mức độ được thể hiện ở sự khác biệt giữa nồng độ cơ bản và nồng độ những ngày sau đó. Các xét nghiệm khác cần được thực hiện nếu có thể:
+
+Protein phản ứng C (CRP): CRP tăng theo liều lượng bức xạ; mức độ có thể phân biệt giữa bệnh nhân tiếp xúc ít và nhiều.
+
+Nồng độ citrulline trong máu: Giảm nồng độ citrulline cho thấy tổn thương đường tiêu hoá.
+
+Nồng độ phối tử Fms Tyrosine kinase-3 (FLT-3) máu: FLT-3 là dấu hiệu cho tổn thương cơ quan tạo máu.
+
+Interleukin-6 (IL-6): Dấu ấn viêm này tăng ở liều phóng xạ cao hơn.
+
+Xét nghiệm yếu tố kích thích tạo bạch cầu hạt (G-CSF): Nồng độ tăng ở liều phóng xạ cao hơn.
+
+Các xét nghiệm về di truyền học tế bào với chỉ số phân tán quá mức: Các xét nghiệm này được sử dụng để đánh giá phơi nhiễm một phần cơ thể.
+
+Bảng
+
+Mối quan hệ giữa số lượng bạch cầu lympho tuyệt đối ở người lớn sau 48 giờ, liều bức xạ*
+
+,
+
+†
+
+và tiên lượng
+
+Bảng
+
+Mối quan hệ giữa số lượng bạch cầu lympho tuyệt đối ở người lớn sau 48 giờ, liều bức xạ*
+
+,
+
+†
+
+và tiên lượng
+
+Mối quan hệ giữa số lượng bạch cầu lympho tuyệt đối ở người lớn sau 48 giờ, liều bức xạ*<sup >,</sup><sup >†</sup> và tiên lượng
+
+Số lượng tuyệt đối tế bào lympho thấp nhất (tế bào/mL)
+
+Liều lượng bức xạ (Gy)
+
+Tiên lượng
+
+>
+
+1500 (người lớn bình thường)
+
+‡
+
+(
+
+>
+
+1,5 × 10
+
+9
+
+/L)
+
+0,0–0,4
+
+Rất tốt
+
+1000–1499 (1–1,499 × 10
+
+9
+
+/L)
+
+0,5–1,9
+
+Tốt
+
+500–999 (0,5–0,999 × 10
+
+9
+
+/L)
+
+2,0–3,9
+
+Dè dặt
+
+100–499 (0,1–0,499 ×10
+
+9
+
+/L)
+
+4,0–7,9
+
+Kém
+
+<
+
+100 (
+
+<
+
+0.1 × 10
+
+9
+
+/L)
+
+≥ 8,0
+
+Hầu như tử vong
+
+* Chiếu xạ toàn thân (liều gần đúng).
+
+†
+
+Mối quan hệ liều lượng-đáp ứng giữa số lượng bạch cầu lympho tuyệt đối được thể hiện trong bảng này có thể bị ảnh hưởng bởi chấn thương vật lý đi kèm. Phản ứng căng thẳng đối với chấn thương thể chất đi kèm với tăng bạch cầu máu ngoại vi nói chung với những thay đổi khác nhau trong công thức bạch cầu và phân nhóm bạch cầu lympho.
+
+‡
+
+Trẻ em thường có số lượng cao hơn và giảm dần theo độ tuổi, từ mức trung bình là 4600/mL (4,6 × 10
+
+9
+
+/L) ở độ tuổi 0–2 tuổi xuống 3100/mL (3,1 × 10
+
+9
+
+/L) ở độ tuổi 2–6 tuổi và xuống 2300/mL (2,3 × 10
+
+9
+
+/L) ở độ tuổi 7–17 tuổi.
+
+Phỏng theo
+
+Mettler FA Jr, Voelz GL
+
+. Phơi nhiễm phóng xạ cơ bản – những gì mong đợi và cách đáp ứng.
+
+New Engl J Med.
+
+346:1554–1561, 2002. doi: 10.1056/NEJMra000365
+
+* Chiếu xạ toàn thân (liều gần đúng).
+
+†
+
+Mối quan hệ liều lượng-đáp ứng giữa số lượng bạch cầu lympho tuyệt đối được thể hiện trong bảng này có thể bị ảnh hưởng bởi chấn thương vật lý đi kèm. Phản ứng căng thẳng đối với chấn thương thể chất đi kèm với tăng bạch cầu máu ngoại vi nói chung với những thay đổi khác nhau trong công thức bạch cầu và phân nhóm bạch cầu lympho.
+
+‡
+
+Trẻ em thường có số lượng cao hơn và giảm dần theo độ tuổi, từ mức trung bình là 4600/mL (4,6 × 10
+
+9
+
+/L) ở độ tuổi 0–2 tuổi xuống 3100/mL (3,1 × 10
+
+9
+
+/L) ở độ tuổi 2–6 tuổi và xuống 2300/mL (2,3 × 10
+
+9
+
+/L) ở độ tuổi 7–17 tuổi.
+
+Phỏng theo
+
+Mettler FA Jr, Voelz GL
+
+. Phơi nhiễm phóng xạ cơ bản – những gì mong đợi và cách đáp ứng.
+
+New Engl J Med.
+
+346:1554–1561, 2002. doi: 10.1056/NEJMra000365
+
+Ô nhiễm phóng xạ
+
+Khi nghi ngờ bị nhiễm xạ, toàn bộ cơ thể cần được kiểm tra bằng một cửa sổ Geiger-Muller mỏng gắn với một đồng hồ khảo sát (Geiger counter) để xác định vị trí và mức độ nhiễm xạ bên ngoài. Ngoài ra, để phát hiện có thể nhiễm xạ bên trong, mũi, tai, miệng và vết thương sẽ được lau bằng khăn lau đã được làm sạch và sau đó kiểm tra bằng bộ đếm. Nước tiểu, phân và dịch nôn cũng nên được kiểm tra phóng xạ nếu nghi ngờ ô nhiễm từ bên trong.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Toft P, Tønnesen E, Helbo-Hansen HS, et al
+
+. Redistribution of granulocytes in patients after major surgical stress.
+
+APMIS.
+
+102(1):43-48, 1994. doi: 10.1111/j.1699-0463.1994.tb04843.x
+
+2.
+
+DeRijk R, Michelson D, Karp B, et al
+
+. Exercise and circadian rhythm-induced variations in plasma cortisol differentially regulate interleukin-1 beta (IL-1 beta), IL-6, and tumor necrosis factor-alpha (TNF alpha) production in humans: high sensitivity of TNF alpha and resistance of IL-6.
+
+J Clin Endocrinol Metab.
+
+82(7):2182-2191, 1997. doi: 10.1210/jcem.82.7.4041
+
+Điều trị phơi nhiễm và ô nhiễm bức xạ
+
+Trước tiên điều trị vết thương, chấn thương nghiêm trọng hoặc các tình trạng bệnh đe dọa đến mạng sống
+
+Giảm thiểu sự tiếp xúc và ô nhiễm bức xạ của nhân viên chăm sóc sức khỏe
+
+Xử lý ô nhiễm phóng xạ bên ngoài và bên trong
+
+Đôi khi cần các đo lường mức độ phóng xạ đặc biệt cho từng nguồn hạt nhân phóng xạ
+
+Dự phòng và điều trị tổn thương hệ miễn dịch
+
+Giảm thiểu phản ứng viêm
+
+Chăm sóc hỗ trợ
+
+Phơi nhiễm bức xạ có thể kèm theo các thương tích cơ thể (ví dụ như từ bỏng, nổ, ngã).
+
+Chấn thương liên quan đe dọa tính mạng ngay lập tức hơn là tiếp xúc với bức xạ và phải được điều trị nhanh chóng
+
+(xem
+
+Phương pháp tiếp cận bệnh nhân chấn thương: Đánh giá và điều trị
+
+). Với bệnh nhân chấn thương nặng việc hồi sức cần được ưu tiên hơn việc khử phóng xạ, không cần trì hoãn cấp cứu để chờ các thiết bị và nhân viên quản lý bức xạ. Các biện pháp phòng ngừa chung, cũng như chăm sóc chấn thương định kỳ, bảo hộ thích hợp cho đội ngũ chăm sóc.
+
+Ngọc trai & cạm bẫy
+
+Chấn thương liên quan đe dọa tính mạng ngay lập tức hơn so với phơi nhiễm phóng xạ và phải được điều trị nhanh chóng.
+
+Các biện pháp phòng ngừa chung, cũng như chăm sóc chấn thương định kỳ, bảo hộ thích hợp cho đội ngũ chăm sóc.
+
+Bảng
+
+Xử trí các hội chứng cấp tính do bức xạ (ARS)
+
+Bảng
+
+Xử trí các hội chứng cấp tính do bức xạ (ARS)
+
+Xử trí các hội chứng cấp tính do bức xạ (ARS)
+
+Hội chứng
+
+Khuyến nghị và điểm mạnh của khuyến nghị*
+
+Rối loạn tạo máu
+
+G-CSF (yếu tố kích thích cụm bạch cầu hạt) hoặc GM-CSF (yếu tố kích thích cụm bạch cầu hạt-đại thực bào) khi số lượng bạch cầu trung tính tuyệt đối (ANC)
+
+<
+
+0,5 × 10
+
+9
+
+tế bào/L (↑)
+
+Thuốc kích thích erythropoietin ở bệnh nhân thiếu máu kéo dài (↓)
+
+Tế bào gốc tạo máu sau khi điều trị cytokine thất bại từ 2 đến 3 tuần để gây hồi phục bất sản tủy trong trường hợp không bị suy cơ quan không tạo máu (↓)
+
+Đường tiêu hóa
+
+Fluoroquinolone hoặc kháng sinh tương tự từ 2 đến 4 ngày sau khi phơi nhiễm với bức xạ (↓)
+
+Khử nhiễm ruột và kháng sinh đường tiêm khi có chỉ định (↓)
+
+Thuốc đối kháng thụ thể serotonin dự phòng khi nghi ngờ phơi nhiễm
+
+>
+
+2 Gy (↓)
+
+Loperamid, cần để kiểm soát tiêu chảy (↓)
+
+Giai đoạn ở da
+
+Thuốc corticosteroid nhóm II–III tại chỗ
+
+, thuốc kháng sinh tại chỗ và thuốc kháng histamin tại chỗ dùng cho vết bỏng, vết loét hoặc mụn nước do bức xạ (↑)
+
+Corticosteroid đường toàn thân cho bỏng do bức xạ, loét hoặc hoại tử trong trường hợp không có chỉ định cụ thể cho việc sử dụng corticosteroid đường toàn thân (phản đối mạnh mẽ thực hành)
+
+Phẫu thuật cắt bỏ và ghép các vết loét do bức xạ hoặc hoại tử khu trú với những cơn đau khó chữa (↑)
+
+Mạch máu thần kinh
+
+Chăm sóc hỗ trợ bằng thuốc đối kháng thụ thể serotonin, mannitol, furosemide và thuốc giảm đau (↑)
+
+Điều trị hồi sức tích cực
+
+Liệu pháp thay thế dịch, chất điện giải và thuốc an thần ở những bệnh nhân bị bỏng nặng, giảm thể tích tuần hoàn và/hoặc sốc (↑)
+
+Thở máy với chiến lược bảo vệ phổi ở bệnh nhân suy hô hấp cấp (↑)
+
+Khử nhiễm có chọn lọc ở miệng họng hoặc khử nhiễm có chọn lọc của đường tiêu hóa (↓)
+
+Duy trì đường huyết trung bình từ 140 đến 180 mg/dL (7,8 đến 10 mmol/L) cho đa số bệnh nhân hồi sức tích cực (↓)
+
+Thuốc chẹn H2 hoặc thuốc ức chế bơm proton
+
+* Điểm mạnh của khuyến nghị có lợi cho việc thực hành: ↑ = Mạnh; ↓ = Yếu
+
+Modified from
+
+Dainiak N
+
+. Medical management of acute radiation syndrome and associated infections in a high-casualty incident.
+
+J Radiat Res.
+
+59(suppl 2):ii54-ii64, 2018 doi:10.1093/jrr/rry004
+
+* Điểm mạnh của khuyến nghị có lợi cho việc thực hành: ↑ = Mạnh; ↓ = Yếu
+
+Modified from
+
+Dainiak N
+
+. Medical management of acute radiation syndrome and associated infections in a high-casualty incident.
+
+J Radiat Res.
+
+59(suppl 2):ii54-ii64, 2018 doi:10.1093/jrr/rry004
+
+Chuẩn bị
+
+Trong khuôn khổ của kế hoạch chuẩn bị ứng phó tình huống khẩn cấp, các bệnh viện cần có các quy trình và nhân viên được đào tạo để xử lý bệnh nhân bị nhiễm phải chất nguy hiểm, bao gồm cả chất phóng xạ. Các cơ quan quản lý và công nhận (ví dụ: sở y tế tiểu bang hoặc Ủy ban Liên hợp tại Hoa Kỳ) thường yêu cầu phải có các kế hoạch này.
+
+Nếu có thể, bề mặt khu vực điều trị nên được phủ bằng nhựa để giúp khử nhiễm xạ cơ sở. Biện pháp phòng chống này không bao giờ được ưu tiên hơn cung cấp các biện pháp quản lý y tế. Khay đựng chất thải (có nhãn "Cảnh báo, chất phóng xạ"), thùng chứa mẫu và Ống đếm Geiger phải sẵn sàng. Tất cả các thiết bị đã tiếp xúc với phòng hoặc với bệnh nhân (kể cả thiết bị cứu thương) nên được cách ly cho đến khi xác định được là không còn nhiễm xạ. Một ngoại lệ là
+
+tình huống thương vong hàng loạt
+
+, trong đó các thiết bị quan trọng bị nhiễm bẩn nhẹ như trực thăng, xe cứu thương, phòng chấn thương, máy chụp X-quang, CT và các cơ sở phẫu thuật phải được khử nhiễm nhanh chóng ở mức có thể và đưa vào sử dụng trở lại.
+
+Nhân viên điều trị hoặc vận chuyển bệnh nhân nên tuân thủ các biện pháp phòng ngừa tiêu chuẩn, đội mũ, mặt nạ, áo choàng, găng tay và bọc giày. Dụng cụ qua sử dụng phải được bỏ trong các túi hoặc bình chứa đặc biệt. Phải mang thiết bị đo liều lượng để giám sát mức độ ô nhiễm với phóng xạ. Nhân viên có thể được luân chuyển công tác để giảm thiểu phơi nhiễm và nhân viên mang thai nên được đưa ra khỏi khu vực điều trị.
+
+Do tỷ lệ phơi nhiễm thấp được dự đoán từ hầu hết các bệnh nhân bị nhiễm xạ, nên các nhân viên y tế chăm sóc bệnh nhân thông thường không có khả năng nhận được liều lượng vượt quá giới hạn nghề nghiệp là 0,05 Sv/năm (
+
+1
+
+). Ngay cả trong trường hợp nghiêm trọng có thương vong do bức xạ từ tai nạn lò phản ứng hạt nhân Chernobyl, nhân viên y tế đã điều trị bệnh nhân trong bệnh viện nhận được
+
+<
+
+0,01 Sv. Một số khuyến cáo cho rằng liều tối thiểu 0,5 Gy có thể xem là nguy cơ chấp nhận được đới với hoạt dộng chăm sóc sức khỏe.
+
+Xác định nhiễm xạ
+
+Việc xác định nhiễm xạ trên bệnh nhân nên tiến hành trong phòng cách ly (nếu đủ điều kiện), khử nhiễm phóng xạ và thông báo cho nhân viên an toàn bức xạ của bệnh viện, cán bộ y tế công cộng, các nhóm đối phó vật liệu nguy hiểm và các cơ quan thực thi pháp luật để điều tra nguồn phóng xạ.
+
+Nên xác định mức độ nhiễm bên ngoài bằng cách quét bằng máy đo bức xạ phù hợp với bệnh nhân được cho là bị nhiễm chất phóng xạ (ví dụ: máy đo Geiger) (
+
+2
+
+).
+
+Khử nhiễm xạ bên ngoài
+
+Trình tự và thứ tự ưu tiên tiêu chuẩn là
+
+Cởi bỏ quần áo và các mảnh vỡ bên ngoài
+
+Làm sạch vết thương trước khi tẩy xạ vùng da lành.
+
+Vệ sinh khu vực bị nhiễm xạ nhiều nhất đầu tiên
+
+Sử dụng máy dò phóng xạ để theo dõi tiến triển của quá trình tẩy xạ
+
+Tiếp tục khử nhiễm xạ cho đến khi các khu vực dưới 2 đến 3 lần bức xạ nền hoặc không có sự giảm đáng kể sau các nỗ lực khử nhiễm
+
+Quần áo được loại bỏ cẩn thận để giảm thiểu sự lây lan của ô nhiễm phóng xạ và đặt trong các thùng chứa nhãn nguy hiểm độc hại phóng xạ. Việc cởi bỏ quần áo có thể loại bỏ khoảng 90% nhiễm bên ngoài. Các vật lạ phải được coi là bị nhiễm xạ cho đến khi được kiểm tra bằng đồng hồ đo phóng xạ.
+
+Các vết thương bị ô nhiễm được làm sạch trước khi làm sạch các vùng da còn nguyên vẹn; rửa nước muối và nhẹ nhàng lau bằng một miếng gạc phẫu thuật. Việc loại bỏ tối thiểu các cạnh vết thương có thể được thực hiện nếu còn nhiễm bẩn sau nhiều lần cố gắng làm sạch. Không cần phải cắt lọc ngoài rìa vết thương. Tuy nhiên, mảnh đạn phóng xạ ẩn trong đó có thể có tỷ lệ phơi nhiễm bức xạ rất cao và do đó cần phải được lấy ra bằng kẹp dài hoặc thiết bị tương tự và đặt vào hộp đựng bằng chì.
+
+Da, tóc bị nhiễm xạ được rửa bằng nước ấm và chất tẩy nhẹ cho đến khi các phép đo phóng xạ cho thấy mức thấp "levels below" liều dưới 2 đến 3 lần bức xạ nền bình thường hoặc cho đến khi rửa tiếp không làm giảm đáng kể mức độ nhiễm xạ. Tất cả các vết thương đều được che chắn trong quá trình vệ sinh để ngăn ngừa gây nhiễm các vật liệu phóng xạ. Việc lau bề mặt da có thể được cân nhắc nhưng không nên làm xước da. Cần đặc biệt chú ý đến móng tay và nếp da. Tóc mà vẫn bị nhiễm xạ sẽ được cắt bằng kéo hoặc máy cắt điện; tránh cạo râu. Kích thích đổ mồ hôi (ví dụ, đeo găng tay cao su vào bàn tay bị ô nhiễm) có thể giúp loại bỏ ô nhiễm còn dư trên da.
+
+Vết bỏng được rửa nhẹ nhàng thay vì chà sát vì chà sát có thể làm tăng mức độ nặng của vết thương. Thay quần áo sẽ giúp loại bỏ sự ô nhiễm còn sót lại.
+
+Việc khử nhiễm xạ không cần thiết đối với những bệnh nhân đã tiếp xúc với nguồn phóng xạ bên ngoài nhưng không bị nhiễm xạ.
+
+Khử nhiễm xạ bên trong
+
+Chất phóng xạ bị nhiễm phải được loại bỏ ngay bằng cách nôn ói hoặc rửa dạ dày kỹ nếu tiếp xúc gần đây. Thường xuyên súc miệng với nước muối hoặc hydrogen peroxid pha loãng được chỉ định khi nhiễm xạ vùng miệng. Mắt bị tiếp xúc với nước phải được khử trùng bằng cách dẫn dòng nước hoặc nước muối theo chiều ngang và hướng ra xa mũi để tránh làm nhiễm bẩn ống dẫn lệ mũi.
+
+Mức độ khẩn cấp và tầm quan trọng của việc sử dụng các biện pháp xử lý cụ thể phụ thuộc vào loại và lượng hạt nhân phóng xạ, dạng hóa học và các đặc tính chuyển hóa (ví dụ: độ hòa tan, ái lực với các cơ quan đích cụ thể), con đường nhiễm xạ (ví dụ: hít phải, nuốt phải, vết thương) và hiệu quả của phương pháp điều trị. Quyết định xử lý nhiễm bên trong đòi hỏi phải có kiến thức về những nguy cơ tiềm ẩn; nên tham khảo ý kiến của chuyên gia (ví dụ:
+
+Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC)
+
+: Cấp cứu bức xạ: Hướng dẫn lâm sàng và nguồn lực dành cho chuyên gia,
+
+Trung tâm hỗ trợ khẩn cấp về bức xạ/Cơ sở đào tạo [REAC/TS]
+
+tại Hoa Kỳ,
+
+Cơ quan Năng lượng Nguyên tử Quốc tế: Trung tâm Sự cố và Cấp cứu
+
+).
+
+Các phương pháp loại bỏ chất gây ô nhiễm phóng xạ
+
+(
+
+3
+
+) khỏi cơ thể (tẩy rửa) bao gồm
+
+Độ bão hòa của cơ quan đích (ví dụ: kali iodide [KI] đối với đồng vị iốt) (xem
+
+U.S. Department of Health and Human Services Radiation Emergency Medical Management
+
+: Guidance on Diagnosis and Treatment for Healthcare Providers)
+
+Quá trình thải độc tại vị trí xâm nhập hoặc trong dịch cơ thể sau đó bài tiết nhanh (ví dụ: canxi hoặc kẽm diethylenetriamine penta-acetate [DTPA] đối với americium, californium, plutonium và yttrium)
+
+Tăng tốc độ quá trình chuyển hóa của hạt nhân phóng xạ bằng sự pha loãng đồng vị phóng xạ (ví dụ, nước cho nhiễm hydro-3)
+
+Kết tủa hạt nhân phóng xạ trong lòng ruột, kèm theo bài tiết qua phân (ví dụ, dung dịch calcium dạng uống hoặc dung dịch aluminum phosphat cho nhiễm strontium-90)
+
+Trao đổi ion trong đường tiêu hóa (ví dụ: xanh Phổ cho xesi-137, rubidi-82, thali-201)
+
+Bởi vì một vụ tai nạn lò phản ứng hạt nhân nghiêm trọng giải phóng các sản phẩm phân hạch vào môi trường có thể khiến nhiều nhóm người tiếp xúc với iốt phóng xạ, nên việc khử độc bằng kali iodide uống đã được nghiên cứu rất chi tiết (
+
+4
+
+).
+
+Kali iốt
+
+bão hòa các thụ thể iốt của tuyến giáp. Việc cắt bỏ bằng kali iodide đường uống giúp ngăn tuyến này hấp thụ iốt phóng xạ, đây là nguyên nhân chính gây bệnh tật.
+
+Kali iodua
+
+có hiệu quả
+
+>
+
+95% khi được dùng vào thời điểm tối ưu (trước khi phơi nhiễm 1 tiếng). Tuy nhiên, hiệu quả giảm đáng kể theo thời gian (~80% hiệu quả ở 2 giờ sau khi phơi nhiễm và dùng nhiều hơn 24 giờ sau khi phơi nhiễm sẽ không có tác dụng bảo vệ).
+
+Kali iodua
+
+có thể được cho dùng dưới dạng viên nén hoặc dưới dạng dung dịch siêu bão hòa (liều lượng: người lớn và trẻ em
+
+>
+
+68 kg, 130 mg; từ 3 đến 18 tuổi [
+
+<
+
+68 kg], 65 mg; từ 1 đến 36 tháng tuổi, 32 mg; tuổi
+
+<
+
+1 tháng, 16 mg). Hợp chất bên trong với iốt phóng xạ và không có lợi trongvnhiễm xạ bên trong với các chất phóng xạ khác. Hầu hết các loại thuốc khác được sử dụng để khử mùi kém hiệu quả hơn nhiều và chỉ giảm liều cho bệnh nhân từ 25 đến 75%. Chống chỉ định với
+
+kali iodua
+
+bao gồm dị ứng iốt và một số rối loạn da liên quan đến độ nhạy cảm với iốt (ví dụ:
+
+viêm da dạng herpes
+
+, viêm mạch mày đay).
+
+Quản lý đặc biệt
+
+Chăm sóc hỗ trợ được cung cấp khi cần thiết và bao gồm xử trí sốc và hạ oxy máu và giảm đau và lo lắng. Thông thường, cần dùng thuốc benzodiazepin (ví dụ: lorazepam) để kiểm soát cơn co giật, thuốc chống nôn (ví dụ: metoclopramide, prochlorperazine, ondansetron) để kiểm soát tình trạng nôn mửa và thuốc chống tiêu chảy dạng uống (ví dụ: kaolin/pectin, loperamide) để điều trị tiêu chảy.
+
+Chưa có điều trị đặc hiệu cho hội chứng mạch não. Đây là nguyên nhân tử vong phổ biến; cần chăm sóc giảm nhẹ cho bệnh nhân.
+
+Hội chứng dạ dày ruột được điều trị bằng bồi phụ nước và điện giải. Cần thực hiện chế độ dinh dưỡng ngoài ruột để ruột được hồi phục. Ở những bệnh nhân sốt, cần bắt đầu dùng kháng sinh phổ rộng (ví dụ: fluoroquinolone) ngay lập tức.
+
+Sốc nhiễm khuẩn
+
+do nhiễm trùng nặng vẫn là nguyên nhân gây tử vong nhiều nhất.
+
+Điều trị hội chứng rối loạn tạo máu tương tự như chứng giảm sinh tủy và suy tủy do bất kỳ nguyên nhân nào. Các chế phẩm máu nên được truyền để điều trị tình trạng thiếu máu và giảm tiểu cầu, và các yếu tố tăng trưởng tạo máu (yếu tố kích thích tạo khuẩn lạc bạch cầu hạt và yếu tố kích thích tạo khuẩn lạc đại thực bào bạch cầu hạt) khi số lượng bạch cầu trung tính tuyệt đối < 0,5 × 10
+
+9
+
+tế bào/L (< 500 tế bào/mm
+
+3)
+
+. Kháng sinh phổ rộng nên được dùng để điều trị giảm bạch cầu trung tính và sốt giảm bạch cầu trung tính (xem
+
+Điều trị giảm bạch cầu trung tính và giảm bạch cầu lympho
+
+) (
+
+5
+
+). Bệnh nhân suy giảm bạch cầu cũng nên được cách ly. Với liều bức xạ toàn thân
+
+>
+
+4 Gy, khả năng phục hồi tủy xương là kém, các yếu tố tăng trưởng tế bào máu nên được cung cấp càng sớm càng tốt. Filgrastim có thể được sử dụng để điều trị suy tủy do phóng xạ.
+
+Ghép tế bào gốc tạo máu
+
+có tỷ lệ thành công hạn chế nhưng nên cân nhắc khi tiếp xúc với liều
+
+>
+
+7 đến 10 Gy.
+
+Cytokines
+
+có thể có tác dụng (
+
+5
+
+). Các loại thuốc và liều lượng khuyến nghị là
+
+Filgrastim (yếu tố kích thích tạo cụm bạch cầu hạt [G-CSF]) được tiêm dưới da càng sớm càng tốt sau khi nghi ngờ hoặc xác nhận tiếp xúc với liều bức xạ lớn hơn 2 Gy
+
+Sargramostim (yếu tố kích thích tạo cụm đại thực bào bạch cầu hạt [GM-CSF]) dưới da
+
+Pegfilgrastim (pegylated G-CSF) tiêm dưới da
+
+Các vết sưng đau hoặc loét do phóng xạ gây ra không thể lành có thể được điều trị bằng ghép da hoặc các thủ thuật phẫu thuật khác.
+
+Ngoài việc theo dõi thường xuyên các dấu hiệu của một số rối loạn nhất định (ví dụ khám mắt để phát hiện bệnh đục thủy tinh thể, xét nghiệm chức năng tuyến giáp) thì không biện pháp đặc hiệu nào để theo dõi, sàng lọc hoặc điều trị cụ thể cho các tổn thương cơ quan trong cơ thể hoặc ung thư.
+
+Tài liệu tham khảo về điều trị
+
+1. Mettler FA, Upton A.C, Hendee W. 2008. Medical Effects of Ionizing Radiation: 3rd Edition. United States. https://doi.org/10.1118/1.3021455
+
+2.
+
+US Department of Health and Human Services
+
+. Radiation Emergency Medical Management: Guidance on Diagnosis and Treatment for Healthcare Providers. Truy cập ngày 2 tháng 1 năm 2025.
+
+3.
+
+US Department of Health and Human Services
+
+. Managing Internal Radiation Contamination. Truy cập ngày 2 tháng 1 năm 2025.
+
+4.
+
+Centers for Disease Control and Prevention (CDC)
+
+. Radiation Emergencies; Potassium Iodide (KI). Truy cập ngày 2 tháng 1 năm 2025.
+
+5.
+
+Armed Forces Radiobiology Research Institute (AFRRI)
+
+. Medical Management of Radiological Casualties Handbook. 5th ed. Bethesda, MD: AFRRI; 2023 Truy cập ngày 2 tháng 1 năm 2025.
+
+Tiên lượng về phơi nhiễm và ô nhiễm bức xạ
+
+Nếu không được điều trị nội khoa,
+
+LD-50/60 (liều lượng dự kiến ​​gây tử vong cho 50% bệnh nhân trong vòng 60 ngày) đối với bức xạ theo đường toàn thân là khoảng 3 Gy; tiếp xúc với
+
+>
+
+6 Gy gần như luôn gây tử vong. Thời gian tử vong ngắn khi tăng liều. Tử vong có thể xảy ra trong vòng vài giờ tới vài ngày ở những bệnh nhân có hội chứng mạch não và thường trong vòng 2 ngày đến vài tuần ở những bệnh nhân có hội chứng đường tiêu hóa. Ở bệnh nhân có hội chứng rối loạn cơ quan tạo máu, tử vong có thể xảy ra trong vòng 4 đến 8 tuần do nhiễm khuẩn hoặc xuất huyết nặng.
+
+Khi phơi nhiễm liều
+
+<
+
+6 Gy, khả năng sống sót là có thể và tỉ lệ nghịch với tổng liều. Bệnh nhân tiếp xúc với liều toàn thân
+
+<
+
+2 Gy sẽ hồi phục hoàn toàn trong vòng 1 giờ, mặc dù các di chứng lâu dài (ví dụ ung thư) có thể xuất hiện.
+
+Nếu được chăm sóc y tế
+
+, liều LD-50/60 là 6 Gy. Đôi khi đã có những bệnh nhân sống sót với độ phơi nhiễm lên đến 10 Gy. Bệnh kèm theo, các vết thương và bỏng nặng làm tiên lượng xấu đi.
+
+Phòng ngừa phơi nhiễm và ô nhiễm bức xạ
+
+Bảo vệ khỏi phơi nhiễm bức xạ được thực hiện bằng cách
+
+Tránh nhiễm chất phóng xạ
+
+Giảm thiểu thời gian phơi nhiễm
+
+Tối đa hóa khoảng cách từ nguồn bức xạ
+
+Che chắn nguồn bức xạ
+
+Những nguyên tắc này có thể được áp dụng cho phơi nhiễm bức xạ y tế cũng như tai nạn công nghiệp và các sự kiện khủng bố có phơi nhiễm bức xạ.
+
+Phòng ngừa phơi nhiễm và nhiễm xạ ở bệnh nhân
+
+Trong quá trình xạ trị, các bộ phận cơ thể ở gần nhưng không phải là mục tiêu của quá trình điều trị nên được che chắn bằng chì ở mức độ có thể được. Tuy nhiên, việc che chắn tuyến sinh dục không còn được khuyến nghị thường xuyên đối với chụp X quang chẩn đoán hoặc chụp cắt lớp vi tính (
+
+1
+
+,
+
+2
+
+). Người ta đã xác định rằng việc che chắn có thể cản trở cho việc chẩn đoán hình ảnh bằng cách có khả năng che khuất các vùng quan trọng của cơ thể, dẫn đến việc phải kiểm tra lại, điều này có thể vô tình dẫn đến mức phơi nhiễm bức xạ cao hơn trong quá trình kiểm tra chẩn đoán hình ảnh. Hơn nữa, nguồn phơi nhiễm bức xạ chính với các cơ quan lân cận trường chụp là từ sự phân tán bên trong của tia X từ các mô trong trường chụp (
+
+1
+
+,
+
+3
+
+-
+
+5
+
+).
+
+Phòng ngừa phơi nhiễm và nhiễm xạ ở nhân viên y tế
+
+Nhân viên y tế thường xuyên tiếp xúc với nguồn bức xạ phải tuân theo các quy trình để giảm thiểu thời gian tiếp xúc, tối đa hóa khoảng cách từ nguồn bức xạ và đeo đồ bảo hộ thích hợp.
+
+Mặc dù nhân viên được che chắn bằng tạp dề hoặc các tấm chắn trong suốt thời gian tác nghiệp giảm được hậu quả việc tiếp xúc với các tia X năng lượng thấp nhưng kéo dài từ các xét nghiệm chẩn đoán và chụp phim can thiệp nhưng những tạp dề và tấm chắn này hầu như không có ích trong việc giảm phơi nhiễm với các tia gamma năng lượng cao do hạt nhân phóng xạ sinh ra mà có thể sẽ được sử dụng trong một vụ khủng bố hoặc được giải phóng trong một vụ tai nạn nhà máy điện hạt nhân. Trong những trường hợp như vậy, các biện pháp có thể giảm thiểu sự phơi nhiễm bao gồm sử dụng các biện pháp đề phòng tiêu chuẩn, các biện pháp khử nhiễm xạ và duy trì khoảng cách từ các bệnh nhân bị nhiễm xạ khi không trực tiếp chăm sóc.
+
+Tất cả nhân viên làm việc xung quanh nguồn bức xạ phải đeo thẻ đo liều nếu họ có nguy cơ phơi nhiễm
+
+>
+
+10% liều nghề nghiệp tối đa cho phép (0,05 Sv) (
+
+6
+
+). Liều kế điện tử tự đọc giúp ích cho việc theo dõi liều tích lũy nhận được trong một sự cố.
+
+Phản ứng của cộng đồng
+
+Sau khi môi trường bị nhiễm xạ ở mức cao lan rộng do tai nạn nhà máy điện hạt nhân hoặc cố ý giải phóng chất phóng xạ, có thể giảm thiểu phơi nhiễm với phóng xạ bằng các cách
+
+Ẩn nấp tại chỗ
+
+Di chuyển khỏi khu vực bị nhiễm xạ
+
+Khuyến nghị nào cần tuân theo phụ thuộc vào nhiều biến số cụ thể theo biến cố, bao gồm
+
+Thời gian đã trôi qua kể từ lần giải phóng bức xạ đầu tiên
+
+Cho dù việc giải phóng bức xạ đã dừng hay đang tiếp tục
+
+Các tình trạng thời tiết
+
+Sự sẵn có và loại nơi trú ẩn
+
+Điều kiện sơ tán (ví dụ: giao thông, khả năng vận chuyển)
+
+Những thông điệp nhất quán và ngắn gọn từ các viên chức y tế công cộng có thể giúp giảm bớt sự hoảng loạn không cần thiết và giảm số lượng người có nguy cơ thấp đến khoa cấp cứu, do đó giúp các khoa cấp cứu không bị quá tải. Một kế hoạch truyền thông như vậy cần được tiến hành trong bất cứ sự cố nào. Nên có kế hoạch giảm nhu cầu về các nguồn lực của khoa cấp cứu bằng cách cung cấp một địa điểm thay thế để sơ cứu, khử nhiễm và tư vấn cho những người không có vấn đề y tế khẩn cấp.
+
+Các viên chức y tế công cộng nên khuyến cáo người dân làm theo lời khuyên của các viên chức y tế công cộng địa phương trên hệ thống thông báo cảnh báo khẩn cấp. Nếu nghi ngờ, trú ẩn tại chỗ là lựa chọn tốt nhất đến khi có thêm thông tin bổ sung. Khi chọn nơi trú ẩn, nên chọn chỗ trung tâm của các kết cấu bê tông hoặc kim loại ở tầng trên hoặc dưới (ví dụ, trong tầng hầm) là tốt nhất. Nếu biến cố là một vụ nổ vũ khí hạt nhân, có thể nhanh chóng tìm thấy nơi trú ẩn tại chỗ như một nơi trú ẩn hiệu quả trong vài giờ đầu tiên sau khi phát nổ và sau đó làm theo lời khuyên của các quan chức ứng phó khẩn cấp địa phương.
+
+Thuốc phòng ngừa
+
+Người dân sống trong phạm vi 16 km tính từ nhà máy điện hạt nhân phải luôn có sẵn thuốc viên kali iodide để phòng trường hợp iốt phóng xạ, một sản phẩm phụ của quá trình phân hạch, bị phát tán từ nhà máy. Kali iốt giúp ngăn ngừa sự hấp thu iốt phóng xạ của tuyến giáp (
+
+7
+
+). Loại thuốc này có thể được lấy từ hiệu thuốc địa phương và một số cơ sở y tế công cộng.
+
+Thuốc bảo vệ khỏi phóng xạ, chẳng hạn như hợp chất thiol có đặc tính thu hồi gốc tự do, đã được chứng minh là làm giảm tỷ lệ tử vong khi được dùng trước hoặc tại thời điểm chiếu xạ ở bệnh nhân đang hóa trị và/hoặc xạ trị. Cần các nghiên cứu bổ sung để chứng minh lợi ích trong việc phơi nhiễm bức xạ không y khoa (ví dụ: tai nạn nhà máy điện hạt nhân).
+
+Amifostin
+
+là một loại thuốc bảo vệ phóng xạ mạnh có thể tiêm được. Thuốc được sử dụng trên lâm sàng để ngăn ngừa khô miệng ở những bệnh nhân đang được xạ trị. Các tác dụng bất lợi bao gồm buồn nôn và nôn, hạ huyết áp và giảm canxi huyết thanh. Việc tiếp xúc với thuốc này ở thai nhi có thể gây ra dị tật bẩm sinh (
+
+8
+
+).
+
+Palifermin,
+
+yếu tố tăng trưởng biểu mô niêm mạc, là phiên bản biến đổi của một loại protein tự nhiên ở người có tên là yếu tố tăng trưởng tế bào sừng (KGF) được sản xuất trong phòng thí nghiệm (xem
+
+U.S. Food & Drug Administration: Palifermin
+
+). Nó được sử dụng để giảm nguy cơ phát triển viêm niêm mạc nặng và giảm thời gian viêm niêm mạc ở những bệnh nhân được hóa trị và xạ trị liều cao sau đó là giải cứu tế bào gốc. Palifermin có thể tương tác với heparin, do đó nên tráng rửa đường tĩnh mạch bằng nước muối sinh lý trước và sau khi dùng palifermin. Các tác dụng bất lợi bao gồm phát ban, viêm tụy, sốt và phù ngoại biên. Việc thai nhi tiếp xúc với loại thuốc này có thể gây ra dị tật bẩm sinh.
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+National Council on Radiation Protection and Measurements
+
+. NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography. NCRP Statement No. 13 Ngày 12 tháng 1 năm 2021. Truy cập ngày 2 tháng 1 năm 2025.
+
+2.
+
+National Council on Radiation Protection and Measurements
+
+. NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography: Companion to NCRP Statement No. 13 Ngày 12 tháng 1 năm 2021. Truy cập ngày 2 tháng 1 năm 2025.
+
+3.
+
+American Association of Physicists in Medicine
+
+. Publications: Medical Physics Practice Guidelines. Truy cập ngày 2 tháng 1 năm 2025.
+
+4.
+
+American College of Radiology
+
+. Patient Gonadal and Fetal Shielding Education Module. Truy cập ngày 2 tháng 1 năm 2025.
+
+5.
+
+American College of Radiology
+
+. NCRP Recommends Against Routine Gonadal Shielding. Truy cập ngày 2 tháng 1 năm 2025.
+
+6.
+
+United States Code of Federal Regulations
+
+Title 10 Energy § 10.20.1502 Conditions requiring individual monitoring of external and internal occupational dose. Truy cập ngày 2 tháng 1 năm 2025.
+
+7.
+
+United States Code of Federal Regulations
+
+Title 10 Energy § 10.50.47 Emergency plans. Truy cập ngày 2 tháng 1 năm 2025.
+
+8.
+
+Singh VK, Seed TM
+
+.The efficacy and safety of
+
+amifostine
+
+for the acute radiation syndrome.
+
+Expert Opin Drug Saf
+
+18(11):1077-1090, 2019 doi: 10.1080/14740338.2019.1666104
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của phơi nhiễm và ô nhiễm phóng xạ ---
+
+Bức xạ ion hóa có thể gây tổn hại trực tiếp đến DNA, RNA và protein. Tuy nhiên, thiệt hại cho các phân tử này thường là gián tiếp, gây ra bởi các gốc tự do có phản ứng cao được tạo ra bởi sự tương tác của bức xạ với các phân tử nước trong tế bào.Liều phóng xạ lớn có thể gây chết tế bào và liều thấp hơn có thể ảnh hưởng đến hệ thống sửa chữa phân tử nội sinh, cân bằng nội môi và phân chia tế bào. Tổn thương các phần này và các thành phần của tế bào khác có thể dẫn đến giảm sản mô, teo và xơ hóa. Tuy nhiên, chỉ riêng việc tiêu diệt tế bào không thể giải thích được nhiều phản ứng của mô vì những phản ứng đó còn phụ thuộc vào các sự kiện phức tạp, bao gồm phản ứng viêm, oxy hóa mạn tính và phản ứng miễn dịch, cũng như tổn thương mạch máu và ma trận ngoại bào.Nói chung, các phản ứng ban đầu, chẳng hạn như ở da và đường tiêu hóa, liên quan đến việc giết chết các tế bào gốc/tế bào tiền thân sớm, loại tế bào mà cung cấp các tế bào chức năng trưởng thành trong mô, cũng như các phản ứng viêm.Các phản ứng muộn (ví dụ: ở phổi, thận và não) liên quan đến các tương tác phức tạp và năng động giữa nhiều loại tế bào trong mô và cơ quan và bao gồm các tế bào miễn dịch xâm nhập; sản xuất cytokine và các yếu tố tăng trưởng; thường theo chuỗi phản ứng tuần hoàn, dai dẳng; và căng thẳng oxy hóa mạn tính.Các yếu tố ảnh hưởng đến đáp ứngđáp ứng sinh học đối với bức xạ thay đổi theotính nhạy cảm với phóng xạ của môLiềuSuất liềuThời gian phơi nhiễmMức độ phản ứng viêmTuổiBệnh kèm theoSự hiện diện của các rối loạn khiếm khuyết sửa chữa DNA di truyền (ví dụ:thất điều hòa-giãn mạch, hội chứng Bloom,thiếu máu Fanconi)Các tế bào và các mô khác nhau về sự nhạy cảm của chúng với tia xạ. Nói chung, các tế bào chưa biệt hóa và những tế bào có khả năng phân bào cao (ví dụ, tế bào gốc, tế bào ung thư) dễ bị tổn thương đối với tia xạ. Vì bức xạ làm giảm nhanh sự phân chia tế bào gốc hơn là các tế bào trưởng thành, thường có khoảng thời gian tiềm ẩn giữa sự phơi nhiễm phóng xạ và tổn thương quá mức do bức xạ. Tổn thương không biểu hiện cho đến khi một phần đáng kể các tế bào trưởng thành chết do lão hoá tự nhiên và do mất tế bào gốc, không được thay thế.Mức độ nhạy cảm của tế bàogiảm dần theo thứ tựTế bào bạch huyếtTế bào gốctế bào tăng sinh tủy xươngTế bào biểu mô ruộtTế bào gốc biểu bìTế bào gantế bào biểu mô phế nang và biểu mô đường mậtTế bào biểu mô thậnCác tế bào nội mô (màng phổi và phúc mạc)Tế bào mô liên kếtTế bào xươngTế bào cơ, não và tủy sốngMức độ nghiêm trọng của tổn thương bức xạ phụ thuộc vào liều lượng và thời gian mà nó tác động. Liều cao, đơn và nhanh gây hại nhiều hơn so với liều tương tự trong vài tuần hoặc vài tháng. Đáp ứng với liều cũng phụ thuộc vào phần cơ thể bị phơi nhiễm. Bệnh tật đáng kể là điều chắc chắn và có thể tử vong sau khi liều toàn thân>4,5 Gy được đưa vào trong một khoảng thời gian ngắn (vài phút đến vài giờ) (1); tuy nhiên, liều 10 Gy có thể được dung nạp tốt khi đưa vào trong một thời gian dài cho một vùng mô nhỏ (ví dụ, đểđiều trị ung thư).Các yếu tố khác có thể làm tăng độ nhạy cảm đối với tổn thương bức xạ. Trẻ em dễ bị tổn thương do bức xạ hơn vì chúng có khả năng phân chia tế bào cao hơn. Ở trẻ em, một số cơ quan và mô như não, thủy tinh thể và tuyến giáp nhạy cảm hơn với bức xạ so với người lớn. Những người đồng hợp tử với gen gâychứng thất điều-giãn mạchbiểu hiện tăng nhạy cảm rất nhiều với tổn thương do bức xạ. Các bệnh lý như là bệnh thấp khớp toàn thân và bệnh tiểu đường có thể làm tăng độ nhạy cảm với tổn thương do bức xạ. Một số loại thuốc và tác nhân hóa trị liệu (ví dụ: dactinomycin, doxorubicin, bleomycin, 5-fluorouracil, methotrexate) cũng có thể làm tăng độ nhạy cảm với tổn thương do bức xạ. Một số tác nhân hóa trị liệu (ví dụ: doxorubicin, etoposide, paclitaxel, epirubicin), kháng sinh (ví dụ: cefotetan), statin (ví dụ: simvastatin) và các chế phẩm thảo dược (ví dụ: cây ban Âu) có thể gây ra phản ứng viêm da tại vị trí chiếu xạ trước đó (hồi tưởng bức xạ) nhiều tuần đến nhiều năm sau khi tiếp xúc tại cùng một vị trí (2).Các tác động sinh ung thư, quái thai, bệnh lý di truyềnTổn thương di truyền do bức xạ gây ra ở tế bào soma có thể dẫn đến chuyển đổi ác tính. Tiếp xúc với bức xạ trong tử cung có thể dẫn đến tác dụng gây quái thai và tổn thương tế bào mầm làm tăng khả năng lý thuyết về các khiếm khuyết di truyền có thể lây truyền.Tiếp xúc toàn thân kéo dài được cho là làm tăng nguy cơ tử vong do ung thư trung bình trong suốt cuộc đời của người lớn (3).Cơ hội phát sinh ung thư do các liều thường gặp (nghĩa là từ bức xạ nền và các xét nghiệm hình ảnh điển hình [xemNguy cơ bức xạ ion hóa]) ít hơn nhiều và có thể bằng không.Ước tính có sự tăng nguy cơ ung thư vì tia xạ là kết quả của những liều lượng thấp nhưng trong thời gian dài của những người trong vùng lân cận của các sự cố của lò phản ứng hạt nhân như Fukushima đã được thực hiện bằng cách ngoại suy xuống từ những tác dụng đã biết của liều cao hơn. Hậu quả rất nhỏ về lý thuyết được nhân lên bởi một quần thể lớn khi nói đến số tử vong do ung thư có liên quan. Tuy nhiên, giá trị của các ngoại suy như vậy không thể khẳng định được chắc chắn bởi vì giả thuyết tăng nguy cơ quá nhỏ nên không thể phát hiện được trong các nghiên cứu dịch tễ học và khả năng không có sự tăng nguy cơ ung thư do phơi nhiễm này không thể bị loại trừ.Trẻ em dễ mắc nguy cơ ung thư do bức xạ hơn vì chúng có số lượng tế bào phân chia trong tương lai cao hơn và tuổi thọ dài hơn, thời gian có thể biểu hiện ung thư cũng dài hơn. Chụp CT bụng ở trẻ 1 tuổi ước tính làm tăng nguy cơ mắc ung thư tuyệt đối trong suốt cuộc đời ước tính của trẻ khoảng 0,1% đến 0,2% (4).Hạt nhân phóng xạ được tích tụ vào các mô đặc biệt có khả năng gây ung thư tại các tổ chức này (ví dụ, tai nạn lò phản ứng Chernobyl đã dẫn tới việc sử dụng iốt nồng độ phóng xạ đáng kể do tiêu dùng sữa bị phơi nhiễm phóng xạ và các trường hợp ung thư tuyến giáp xuất hiện ở trẻ em bị phơi nhiễm).Thai nhi rất dễ bị tổn thương do bức xạ liều cao. Tuy nhiên, với liều lượng<100 mGy, hậu quả gây quái thai là không có. Nguy cơ ở những thai nhi nhận liều bức xạ thông thường gián tiếp qua xét nghiệm chẩn đoán hình ảnh của mẹ là rất nhỏ so với nguy cơ dị tật bẩm sinh chung (từ 2 đến 6% khi sinh) và lợi ích của xét nghiệm chẩn đoán. Nguy cơ mắc bệnh ung thư tăng lên do tiếp xúc với bức xạ trong tử cung gần giống với nguy cơ do tiếp xúc với bức xạ ở trẻ em, cao gấp khoảng 2 đến 3 lần so với nguy cơ ở người lớn là 5%/Sv (5).Ở thai nhi, phơi nhiễm vượt quá 300 mGy trong 8 đến 15 tuần sau khi thụ thai có thể làm giảm trí thông minh (6).Những nguy cơ tiềm ẩn từ việc phơi nhiễm với bức xạ bắt buộc phải xem xét cẩn thận nhu cầu (hoặc các lựa chọn thay thế) kiểm tra chẩn đoán hình ảnh liên quan đến bức xạ, tối ưu hóa việc phơi nhiễm với bức xạ đối với thể trạng cơ thể và câu hỏi lâm sàng được đặt ra, cũng như chú ý đến việc sử dụng các quy trình bảo vệ bức xạ thích hợp, đặc biệt là ở trẻ em và phụ nữ mang thai.Tổn thương cho các tế bào sinh sản đã được chứng minh là gây ra dị tật bẩm sinh ở con của những động vật thực nghiệm bị chiếu xạ nghiêm trọng. Tuy nhiên, các tác động di truyền đã không được tìm thấy ở trẻ em của những người tiếp xúc với phóng xạ, bao gồm cả những đứa trẻ Nhật Bản sống sót sau những vụ đánh bom nguyên tử hoặc những đứa trẻ ung thư sống sót sau khi điều trị bằng xạ trị.Tài liệu tham khảo sinh bệnh học1.Centers for Disease Control and Prevention (CDC). Acute Radiation Syndrome: Information for Clinicians. Truy cập ngày 2 tháng 1 năm 2025.2.Balter S, Hopewell JW, Miller DL, et al. Fluoroscopically guided interventional procedures: A review of radiation effects on patients' skin and hair.Radiology.254(2):326-341, 2010 doi:10.1148/radiol.25420823123.National Research Council of the National Academies, Committee to Assess Health Risks from Exposure to Low Levels of Ionizing Radiation. Health risks from exposure to low levels of ionizing radiation: BEIR VII, Phase 2. Truy cập ngày 2 tháng 1 năm 2025.4.United Nations Scientific Committee on the Effects of Atomic Radiation. Sources, Effects and Risks of Ionizing Radiation. Scientific Annex B: Effects of radiation exposure of children. Truy cập ngày 2 tháng 1 năm 2025.5.National Council on Radiation Protection and Measurements (NCRP). Report No. 174 – Preconception and Prenatal Radiation Exposure: Health Effects and Protective Guidance (2013). Truy cập ngày 2 tháng 1 năm 2025.6.Moon EK, Wang W, Newman JS, Bayona-Molano Mdel P. Challenges in interventional radiology: the pregnant patient.Semin Intervent Radiol.2013;30(4):394-402. doi:10.1055/s-0033-1359734
+
+--- 2. Các triệu chứng và dấu hiệu của phơi nhiễm và ô nhiễm bức xạ ---
+
+Các biểu hiện lâm sàng phụ thuộc vào việc phơi nhiễm phóng xạ đến toàn bộ cơ thể (Hội chứng chiếu xạ cấp tính) hoặc được giới hạn ở một phần nhỏ của cơ thể (Tổn thương Bức xạ Khu trú).Hội chứng chiếu xạ cấp tính (ARS)Sau khi toàn bộ cơ thể hoặc phần lớn cơ thể nhận được một liều phóng xạ xuyên qua da, có thể có một số triệu chứng khác nhau:Hội chứng mạch máu nãoHội chứng dạ dày-ruột (GI)Hội chứng cơ quan tạo máuCác hội chứng này có 3 giai đoạn khác nhau:Giai đoạn báo trước (ít nhất 2 ngày sau khi tiếp xúc): Có thể xuất hiện tình trạng mệt mỏi và triệu chứng tiêu hóa (buồn nôn, chán ăn, nôn ói, tiêu chảy).Giai đoạn tiềm ẩn không triệu chứng (vài giờ đến 21 ngày sau khi phơi nhiễm)Giai đoạn bệnh toàn thân biểu hiện rõ rệt (giờ đến>60 ngày sau khi phơi nhiễm): Bệnh được phân loại theo biểu hiện ở các cơ quan chínhBiểu hiện hội chứng nào, mức độ nghiêm trọng của nó và tốc độ tiến triển nhanh như thế nào phụ thuộc vào liều bức xạ (xem bảngẢnh hưởng của chiếu xạ toàn thân từ nguồn bức xạ ngoài hoặc hấp thụ nguồn bức xạ trong). Các triệu chứng và thời gian tiến triển là tương đối phù hợp với một liều phóng xạ nhất định và do đó có thể giúp đánh giá phơi nhiễm phóng xạ.Hội chứng mạch não,xuất hiện ở liều phóng xạ toàn thân rất cao (>30 Gy), luôn gây tử vong. Giai đoạn báo trước tiến triển trong vòng vài phút đến 1 giờ sau khi phơi nhiễm. Giai đoạn không triệu chứng thường hiếm hoặc không có. Bệnh nhân biểu hiện run, co giật, mất điều hò, phù não và chết trong vòng vài giờ đến 1 hoặc 2 ngày.Hội chứng đường tiêu hóalà biểu hiện chủ yếu sau liều toàn thân khoảng 6 đến 30 Gy. Triệu chứng ban đầu thường được ghi nhận, tiến triển trong khoảng 1 giờ và được giải quyết trong 2 ngày. Trong giai đoạn tiềm ẩn thường kéo dài 4-5 ngày, tế bào niêm mạc ống tiêu hóa chết dần. Tế bào chết sẽ gây tình trạng khó chịu, buồn nôn, nôn ói, tiêu chảy dẫn đến mất nước nghiêm trọng, mất cân bằng điện giải, giảm thể tích huyết tương và trụy mạch. Cũng có thể xuất hiện hoại tử ruột, đẫn đến thủng ruột, nhiễm khuẩn huyết và shock nhiễm khuẩn. Thường là tử vong. Bệnh nhân nhận liều>10 Gy có thể xuất hiện các triệu chứng mạch máu não (gợi ý liều chết). Những người sống sót sẽ mắc hội chứng cơ quan tạo máu.Hội chứng cơ quan tạo máulà biểu hiện chủ yếu sau liều toàn thân khoảng 1 đến 6 Gy và bao gồm tình trạng giảm toàn thể các tế bào máu. Một giai đoạn báo hiệu nhẹ nhàng có thể bắt đầu từ 1 đến 6 giờ, kéo dài 24 đến 48 giờ. Tế bào gốc tủy xương bị suy giảm đáng kể, nhưng các tế bào máu trưởng thành đang lưu hành trong mạch máu hầu như không bị ảnh hưởng. Tế bào lympho đang lưu hành trong tuần hoàn là ngoại lệ và giảm bạch cầu lympho có thể biểu hiện trong vòng vài giờ đến vài ngày sau khi phơi nhiễm. Khi các tế bào trong mạch máu chết do lão hóa, chúng không được bổ sung đầy đủ, dẫn đến tình trạng giảm 3 dòng. Vì vậy, bệnh nhân không có triệu chứng trong giai đoạn tiềm ẩn khoảng 4,5 tuần sau khi dùng liều 1-Gy đến khi quá trình tạo máu bị ảnh hưởng. Nguy cơ nhiễm trùng tăng lên do hậu quả củagiảm bạch cầu đa nhân trung tính(biểu hiện rõ nhất sau 2-4 tuần) và giảm sản xuất kháng thể. Xuất huyết dưới da và chảy máu niêm mạc là hậu quả củagiảm tiểu cầu, tiến triển trong vòng 3 đến 4 tuần và có thể tồn tại trong nhiều tháng. Thiếu máu tiến triển chậm vì hồng cầu có tuổi thọ dài hơn bạch cầu và tiểu cầu. Những người sống sót thì tăng nguy cơ mắc các loại ung thư do phóng xạ, trong đó cóbệnh bạch cầucấp.BảngẢnh hưởng của Chiếu xạ Toàn thân từ Nguồn Bức xạ Ngoài hoặc Hấp thụ Nguồn Bức xạ TrongBảngẢnh hưởng của Chiếu xạ Toàn thân từ Nguồn Bức xạ Ngoài hoặc Hấp thụ Nguồn Bức xạ TrongẢnh hưởng của Chiếu xạ Toàn thân từ Nguồn Bức xạ Ngoài hoặc Hấp thụ Nguồn Bức xạ TrongGiai đoạn có hội chứngĐặc điểmKhoảng liều (Gy)*,†1–22–66–88–30> 30Tiền triệuTỷ lệ buồn nôn và nôn5–50%50–100%75–100%90–100%100%Thời điểm bắt đầu buồn nôn và nôn sau khi phơi nhiễm‡2-6 giờ1-2 giờ10-60 phút<10 phútPhútThời gian buồn nôn và nôn<24 giờ24-48 giờ<48 giờ<48 giờChưa phát hiện bất thường (bệnh nhân tử vong<48 giờ)Mức độ nghiêm trọng và tỷ lệ mắc bệnh tiêu chảykhôngKhông bị đến nhẹ (<10%)Vừa đến nặng (>10%)Nặng (>95%)Nghiêm trọng (100%)Thời điểm bắt đầu tiêu chảy sau khi phơi nhiễm—3-8 giờ1-3 giờ<1 giờ<1 giờMức độ nghiêm trọng và tỷ lệ đau đầuNhẹÍt tới trung bình (50%)Trung bình (80%)Nặng (80-90%)Nghiêm trọng (100%)Thời điểm bắt đầu đau đầu sau khi phơi nhiễm—4-24 giờ3-4 giờ1-2 giờ<1 giờMức độ sốtHết sốtTăng vừa phảiVừa đến nặngNặngNặngTỷ lệ sốt—10–100%100%100%100%Thời điểm bắt đầu sốt sau khi phơi nhiễm—1-3 giờ<1 giờ<1 giờ<1 giờChức năng hệ thần kinh trung ươngKhông bị suy giảmSuy giảm nhận thức trong 6-20 giờSuy giảm nhận thức>24 giờMất ý thức nhanh chóng ở liều caoCó thể có khoảng tỉnh trong vài giờThất điềuĐộng kinhRunLi bìGiai đoạn tiềm ẩnKhông có triệu chứng28-31 ngày7-28 ngày<7 ngàykhôngkhôngKhởi phát bệnhBiểu hiện lâm sàngGiảm bạch số lượng bạch cầu từ nhẹ đến trung bìnhMệt mỏiYếuGiảm bạch cầu từ trung bình đến nặngBan xuất huyếtXuất huyếtNhiễm trùngRụng lông, tóc sau 3 GyGiảm bạch cầu nặngSốt caoBệnh tiêu chảyNônChóng mặt và mất phương hướngHuyết áp thấpRối loạn điện giảiBuồn nônNônTiêu chảy nặngSốt caoRối loạn điện giảiSốcChưa phát hiện bất thường (bệnh nhân tử vong<48 giờ)Hội chứng hệ thống cơ quan nổi trộiRối loạn tạo máuRối loạn tạo máuTiêu hóa (tế bào niêm mạc)Tiêu hóa (tế bào niêm mạc)Hệ thần kinh trung ươngNhập việnTheo dõi ngoại trúĐề nghị khi cần thiếtKhẩn cấpĐiều trị giảm nhẹ (chỉ điều trị triệu chứng)Điều trị giảm nhẹ (chỉ điều trị triệu chứng)Tỷ lệ tử vong cấp tính nếu không chăm sóc y tế0–5%5–100%95–100%100%100%Tỷ lệ tử vong cấp tính khi đã chăm sóc y tế0–5%5–50%50–100%100%100%Tử vong6-8 tuần4-6 tuần2-4 tuần2 ngày-2 tuần1-2 ngày* 1 rad=1 cGy; 100 rad=1 Gy.†Chiếu xạ toàn thân với liều lượng lên tới ~1 Gy không có khả năng gây ra bất kỳ triệu chứng nào.‡Mặc dù thời gian nôn là phương pháp nhanh chóng và rẻ tiền để ước tính liều bức xạ, nhưng cần thận trọng khi sử dụng vì phương pháp này không chính xác và có tỷ lệ dương tính giả cao. Các thông tin khác như số lượng tế bào lympho và chi tiết về khả năng phơi nhiễm sẽ giúp cải thiện độ chính xác.Được chuyển thể từ tài liệu của Viện nghiên cứu sinh học phóng xạ của các lực lượng vũ trang về hoạt động y học quân sự:Medical Management of Radiological Casualties, edition 3. tháng 6 năm 2010.* 1 rad=1 cGy; 100 rad=1 Gy.†Chiếu xạ toàn thân với liều lượng lên tới ~1 Gy không có khả năng gây ra bất kỳ triệu chứng nào.‡Mặc dù thời gian nôn là phương pháp nhanh chóng và rẻ tiền để ước tính liều bức xạ, nhưng cần thận trọng khi sử dụng vì phương pháp này không chính xác và có tỷ lệ dương tính giả cao. Các thông tin khác như số lượng tế bào lympho và chi tiết về khả năng phơi nhiễm sẽ giúp cải thiện độ chính xác.Được chuyển thể từ tài liệu của Viện nghiên cứu sinh học phóng xạ của các lực lượng vũ trang về hoạt động y học quân sự:Medical Management of Radiological Casualties, edition 3. tháng 6 năm 2010.Tổn thương bức xạ trên dalà tổn thương da và mô dưới da do liều phóng xạ cấp ở mức thấp 3 Gy (xem bảngTổn thương khu trú do bức xạ). Tổn thương bức xạ da có thể xảy ra với các hội chứng bức xạ cấp tính hoặc tiếp xúc với bức xạ khu trú và có phạm vi từ ban đỏ thoáng qua nhẹ đến hoại tử. Tác động muộn (>6 tháng sau khi phơi nhiễm) bao gồm tăng sắc tố, giảm sắc tố, xơ hóa tiến triển và giãn mao mạch lan tỏa. Da bị suy yếu và có thể dễ dàng bị tổn thương do chấn thương cơ học nhẹ. Vùng da bị phơi nhiễm phóng xạ sẽ tăng nguy cơung thư biểu mô tế bào vảy. Đặc biệt cần phải xem khả năng phơi nhiễm phóng xạ khi bệnh nhân bị bỏng da không liền, đau mà không có tiền sử tổn thương do nhiệt.Tổn thương Bức xạ Khu trúTia phóng xạ có thể gây cả tổn thương cấp tính và mãn tính tới gần như mọi cơ quan (xem bảngTổn thương Bức xạ Khu trú). Ở đa số bệnh nhân, những tác dụng phụ này xảy ra khi tiến hànhxạ trị. Các nguồn tiếp xúc thông thường khác bao gồm tiếp xúc vô ý với thực phẩm có bức xạ, thiết bị xạ trị, thiết bị nhiễu xạ tia X và các nguồn bức xạ công nghiệp hoặc y tế khác có khả năng tạo ra suất liều cao. Ngoài ra, phơi nhiễm lâu dài với tia X trong một số can thiệp với chiếu tia X liên tục trên màn huỳnh quang tăng sáng có thể dẫn đến CRI. Các vết đau hoặc loét do phóng xạ có thể mất vài tháng hoặc nhiều năm để tiến triển hoàn toàn. Bệnh nhân bị CRI nặng đau nhiều và thường cần can thiệp phẫu thuật.BảngTổn thương Bức xạ Khu trú*BảngTổn thương Bức xạ Khu trú*Tổn thương Bức xạ Khu trú*Mô bị phơi nhiễmTác dụng phụNãoXemXạ trị Nội sọ và Độc tính Thần kinhTim và mạch máuĐau ngực, viêm màng ngoài tim do phóng xạ, viêm cơ tim phóng xạDaLiều 2-4 Gy: ban đỏ thoáng qua: Ban đỏ thoáng quaLiều 4-5 Gy: Ban đỏ thoáng qua, rụng tóc tạm thời (trong vòng 2-3 tuần phơi nhiễm với liều>~ 4 Gy)Liều 5-10 Gy: Tình trạng ban đỏ trên da kéo dài, có thể là rụng tóc vĩnh viễn, tróc da khô (với những phơi nhiễm ở cuối khoảng liều)Liều 10-15 Gy: Bong da khô (trong vòng 2-8 tuần kể từ khi phơi nhiễm)Liều 15-20 Gy: Bong da ướt (trong vòng 2-4 tuần sau khi phơi nhiễm)Liều 15-25 Gy: Hình thành vết phồng da (trong vòng 2-3 tuần sau khi tiếp xúc)Liều>20 Gy: Loét da (trong vòng 2-3 tuần sau khi tiếp xúc)Liều>25 Gy: Hoại tử da (>3 tuần sau khi phơi nhiễm)Tuyến sinh dụcGiảm tinh trùng, vô kinh, giảm ham muốn tình dụcNgưỡng liều (tỷ lệ ~1% tỷ lệ) cho vô sinh:Tinh hoàn:>6 Gy, khởi phát ~ 3 tuầnBuồng trứng:>3 Gy, khởi phát<1 tuầnĐầu và cổViêm niêm mạc miệng, đau khi nuốt, ung thư biểu mô tuyến giápCơ và xươngĐau cơ, xuất hiện khối u, sarcom xươngMắtLiều>~ 0,5 Gy: Đục thủy tinh thể (sau thời gian tiềm ẩn ~ 20 năm, liều càng cao và càng trẻ tuổi khi tiếp xúc, thì thời gian tiềm ẩn càng ngắn)PhổiViêm phổi cấpPhơi nhiễm phân đoạn>30 Gy: Đôi khi gây tử vong (LD-50 ~>10 Gy liều cao duy nhất)Xơ phổiThậnGiảm mức lọc cầu thận, giảm chức năng ống thậnLiều cao (sau giai đoạn tiềm ẩn 6 tháng đến 1 năm): Protein niệu, suy thận, thiếu máu, cao huyết ápLiều tích lũy>20 Gy trong<5 tuần: Xơ hóa do phóng xạ, thiểu niệu do suy thậnTủy sốngLiều>50 Gy: Bệnh lý tủyThai nhiHạn chế tăng trưởng, dị tật bẩm sinh, rối loạn chuyển hóa bẩm sinh, thai chết lưuLiều<0,1 Gy: Không có tác động đáng kểNguy cơ ung thư trong tương lai gần bằng mức phơi nhiễm của trẻ em: ~ 10–15% mỗi GyAuthors on behalf of ICRP, Stewart FA, Akleyev AV, et al. Xuất bản ICRP 118: ICRP statement on tissue reactions and early and late effects of radiation in normal tissues and organs--threshold doses for tissue reactions in a radiation protection context.Ann ICRP. 2012;41(1-2):1-322. doi:10.1016/j.icrp.2012.02.001GFR=mức lọc cầu thận, Gy=gray; LD-50 = liều dự kiến sẽ gây tử vong cho 50% số bệnh nhân.* Tổn thương đặc trưng do xạ trị.Authors on behalf of ICRP, Stewart FA, Akleyev AV, et al. Xuất bản ICRP 118: ICRP statement on tissue reactions and early and late effects of radiation in normal tissues and organs--threshold doses for tissue reactions in a radiation protection context.Ann ICRP. 2012;41(1-2):1-322. doi:10.1016/j.icrp.2012.02.001GFR=mức lọc cầu thận, Gy=gray; LD-50 = liều dự kiến sẽ gây tử vong cho 50% số bệnh nhân.* Tổn thương đặc trưng do xạ trị.
+
+--- 3. Chẩn đoán phơi nhiễm và ô nhiễm bức xạ ---
+
+Các triệu chứng, mức độ nghiêm trọng và triệu chứng tiềm ẩnSố lượng tuyệt đối tế bào lympho và nồng độ amylase huyết thanhChẩn đoán là dựa vào tiền sử phơi nhiễm, triệu chứng và dấu hiệu lâm sàng kèm theo kết quả xét nghiệm. Thời điểm xuất hiện, thời gian diễn biến và mức độ nghiêm trọng của các triệu chứng có thể giúp xác định liều bức xạ và do đó cũng giúp phân loại bệnh nhân liên quan đến hậu quả của bức xạ. Tuy nhiên, một số triệu chứng ban đầu (như buồn nôn, nôn ói, tiêu chảy, run) không đặc hiệu và được gây ra do các nguyên nhân khác ngoài xạ trị nên được cân nhắc. Một số bệnh nhânkhôngphơi nhiễm đủ để xuất hiện hội chứng nhiễm xạ cấp tính có thể có triệu chứng tương tự, không đặc hiệu, đặc biệt là sau một cuộc tấn công khủng bố hoặc tai nạn lò phản ứng.Sau khi phơi nhiễm phóng xạ cấp tính, xét nghiệm tổng phân tích tế bào máu so sánh sự khác biệt về số lượng tuyệt đối của tế bào lympho, thực hiện và lặp lại sau 24, 48 và 72 giờ sau khi phơi nhiễm để ước lượng liều bức xạ ban đầu và tiên lượng (xem bảngMối quan hệ giữa số lượng tế bào bạch huyết tuyệt đối, liều lượng bức xạ, và tiên lượng). Mối quan hệ giữa liều lượng và số lượng tế bào lympho có thể bị thay đổi do chấn thương vật lý, có thể làm dịch chuyển tế bào lympho từ khoảng kẽ vào mạch máu, làm tăng số lượng bạch cầu lympho (1,2). Mức tác động của các yếu tố này là thoáng qua và thường giải quyết trong vòng 24 đến 48 giờ sau khi chấn thương cơ thể. Sự gia tăng thoáng qua về số lượng bạch cầu lympho này có thể gợi ý tiên lượng lạc quan sai lầm cho đến khi số lượng bạch cầu lympho giảm xuống. Tổng phân tích tế bào máu ngoại vi được lặp lại hàng tuần để theo dõi hoạt động của tủy xương cũng như dựa trên diễn biến lâm sàng. Nồng độ amylase huyết thanh tăng theo thời gian phụ thuộc vào liều bắt đầu từ 24 giờ sau khi phơi nhiễm phóng xạ đáng kể, mức độ được thể hiện ở sự khác biệt giữa nồng độ cơ bản và nồng độ những ngày sau đó. Các xét nghiệm khác cần được thực hiện nếu có thể:Protein phản ứng C (CRP): CRP tăng theo liều lượng bức xạ; mức độ có thể phân biệt giữa bệnh nhân tiếp xúc ít và nhiều.Nồng độ citrulline trong máu: Giảm nồng độ citrulline cho thấy tổn thương đường tiêu hoá.Nồng độ phối tử Fms Tyrosine kinase-3 (FLT-3) máu: FLT-3 là dấu hiệu cho tổn thương cơ quan tạo máu.Interleukin-6 (IL-6): Dấu ấn viêm này tăng ở liều phóng xạ cao hơn.Xét nghiệm yếu tố kích thích tạo bạch cầu hạt (G-CSF): Nồng độ tăng ở liều phóng xạ cao hơn.Các xét nghiệm về di truyền học tế bào với chỉ số phân tán quá mức: Các xét nghiệm này được sử dụng để đánh giá phơi nhiễm một phần cơ thể.BảngMối quan hệ giữa số lượng bạch cầu lympho tuyệt đối ở người lớn sau 48 giờ, liều bức xạ*,†và tiên lượngBảngMối quan hệ giữa số lượng bạch cầu lympho tuyệt đối ở người lớn sau 48 giờ, liều bức xạ*,†và tiên lượngMối quan hệ giữa số lượng bạch cầu lympho tuyệt đối ở người lớn sau 48 giờ, liều bức xạ*<sup >,</sup><sup >†</sup> và tiên lượngSố lượng tuyệt đối tế bào lympho thấp nhất (tế bào/mL)Liều lượng bức xạ (Gy)Tiên lượng>1500 (người lớn bình thường)‡(>1,5 × 109/L)0,0–0,4Rất tốt1000–1499 (1–1,499 × 109/L)0,5–1,9Tốt500–999 (0,5–0,999 × 109/L)2,0–3,9Dè dặt100–499 (0,1–0,499 ×109/L)4,0–7,9Kém<100 (<0.1 × 109/L)≥ 8,0Hầu như tử vong* Chiếu xạ toàn thân (liều gần đúng).†Mối quan hệ liều lượng-đáp ứng giữa số lượng bạch cầu lympho tuyệt đối được thể hiện trong bảng này có thể bị ảnh hưởng bởi chấn thương vật lý đi kèm. Phản ứng căng thẳng đối với chấn thương thể chất đi kèm với tăng bạch cầu máu ngoại vi nói chung với những thay đổi khác nhau trong công thức bạch cầu và phân nhóm bạch cầu lympho.‡Trẻ em thường có số lượng cao hơn và giảm dần theo độ tuổi, từ mức trung bình là 4600/mL (4,6 × 109/L) ở độ tuổi 0–2 tuổi xuống 3100/mL (3,1 × 109/L) ở độ tuổi 2–6 tuổi và xuống 2300/mL (2,3 × 109/L) ở độ tuổi 7–17 tuổi.Phỏng theoMettler FA Jr, Voelz GL. Phơi nhiễm phóng xạ cơ bản – những gì mong đợi và cách đáp ứng.New Engl J Med.346:1554–1561, 2002. doi: 10.1056/NEJMra000365* Chiếu xạ toàn thân (liều gần đúng).†Mối quan hệ liều lượng-đáp ứng giữa số lượng bạch cầu lympho tuyệt đối được thể hiện trong bảng này có thể bị ảnh hưởng bởi chấn thương vật lý đi kèm. Phản ứng căng thẳng đối với chấn thương thể chất đi kèm với tăng bạch cầu máu ngoại vi nói chung với những thay đổi khác nhau trong công thức bạch cầu và phân nhóm bạch cầu lympho.‡Trẻ em thường có số lượng cao hơn và giảm dần theo độ tuổi, từ mức trung bình là 4600/mL (4,6 × 109/L) ở độ tuổi 0–2 tuổi xuống 3100/mL (3,1 × 109/L) ở độ tuổi 2–6 tuổi và xuống 2300/mL (2,3 × 109/L) ở độ tuổi 7–17 tuổi.Phỏng theoMettler FA Jr, Voelz GL. Phơi nhiễm phóng xạ cơ bản – những gì mong đợi và cách đáp ứng.New Engl J Med.346:1554–1561, 2002. doi: 10.1056/NEJMra000365Ô nhiễm phóng xạKhi nghi ngờ bị nhiễm xạ, toàn bộ cơ thể cần được kiểm tra bằng một cửa sổ Geiger-Muller mỏng gắn với một đồng hồ khảo sát (Geiger counter) để xác định vị trí và mức độ nhiễm xạ bên ngoài. Ngoài ra, để phát hiện có thể nhiễm xạ bên trong, mũi, tai, miệng và vết thương sẽ được lau bằng khăn lau đã được làm sạch và sau đó kiểm tra bằng bộ đếm. Nước tiểu, phân và dịch nôn cũng nên được kiểm tra phóng xạ nếu nghi ngờ ô nhiễm từ bên trong.Tài liệu tham khảo chẩn đoán1.Toft P, Tønnesen E, Helbo-Hansen HS, et al. Redistribution of granulocytes in patients after major surgical stress.APMIS.102(1):43-48, 1994. doi: 10.1111/j.1699-0463.1994.tb04843.x2.DeRijk R, Michelson D, Karp B, et al. Exercise and circadian rhythm-induced variations in plasma cortisol differentially regulate interleukin-1 beta (IL-1 beta), IL-6, and tumor necrosis factor-alpha (TNF alpha) production in humans: high sensitivity of TNF alpha and resistance of IL-6.J Clin Endocrinol Metab.82(7):2182-2191, 1997. doi: 10.1210/jcem.82.7.4041
+
+--- 4. Điều trị phơi nhiễm và ô nhiễm bức xạ ---
+
+Trước tiên điều trị vết thương, chấn thương nghiêm trọng hoặc các tình trạng bệnh đe dọa đến mạng sốngGiảm thiểu sự tiếp xúc và ô nhiễm bức xạ của nhân viên chăm sóc sức khỏeXử lý ô nhiễm phóng xạ bên ngoài và bên trongĐôi khi cần các đo lường mức độ phóng xạ đặc biệt cho từng nguồn hạt nhân phóng xạDự phòng và điều trị tổn thương hệ miễn dịchGiảm thiểu phản ứng viêmChăm sóc hỗ trợPhơi nhiễm bức xạ có thể kèm theo các thương tích cơ thể (ví dụ như từ bỏng, nổ, ngã).Chấn thương liên quan đe dọa tính mạng ngay lập tức hơn là tiếp xúc với bức xạ và phải được điều trị nhanh chóng(xemPhương pháp tiếp cận bệnh nhân chấn thương: Đánh giá và điều trị). Với bệnh nhân chấn thương nặng việc hồi sức cần được ưu tiên hơn việc khử phóng xạ, không cần trì hoãn cấp cứu để chờ các thiết bị và nhân viên quản lý bức xạ. Các biện pháp phòng ngừa chung, cũng như chăm sóc chấn thương định kỳ, bảo hộ thích hợp cho đội ngũ chăm sóc.Ngọc trai & cạm bẫyChấn thương liên quan đe dọa tính mạng ngay lập tức hơn so với phơi nhiễm phóng xạ và phải được điều trị nhanh chóng.Các biện pháp phòng ngừa chung, cũng như chăm sóc chấn thương định kỳ, bảo hộ thích hợp cho đội ngũ chăm sóc.BảngXử trí các hội chứng cấp tính do bức xạ (ARS)BảngXử trí các hội chứng cấp tính do bức xạ (ARS)Xử trí các hội chứng cấp tính do bức xạ (ARS)Hội chứngKhuyến nghị và điểm mạnh của khuyến nghị*Rối loạn tạo máuG-CSF (yếu tố kích thích cụm bạch cầu hạt) hoặc GM-CSF (yếu tố kích thích cụm bạch cầu hạt-đại thực bào) khi số lượng bạch cầu trung tính tuyệt đối (ANC)<0,5 × 109tế bào/L (↑)Thuốc kích thích erythropoietin ở bệnh nhân thiếu máu kéo dài (↓)Tế bào gốc tạo máu sau khi điều trị cytokine thất bại từ 2 đến 3 tuần để gây hồi phục bất sản tủy trong trường hợp không bị suy cơ quan không tạo máu (↓)Đường tiêu hóaFluoroquinolone hoặc kháng sinh tương tự từ 2 đến 4 ngày sau khi phơi nhiễm với bức xạ (↓)Khử nhiễm ruột và kháng sinh đường tiêm khi có chỉ định (↓)Thuốc đối kháng thụ thể serotonin dự phòng khi nghi ngờ phơi nhiễm>2 Gy (↓)Loperamid, cần để kiểm soát tiêu chảy (↓)Giai đoạn ở daThuốc corticosteroid nhóm II–III tại chỗ, thuốc kháng sinh tại chỗ và thuốc kháng histamin tại chỗ dùng cho vết bỏng, vết loét hoặc mụn nước do bức xạ (↑)Corticosteroid đường toàn thân cho bỏng do bức xạ, loét hoặc hoại tử trong trường hợp không có chỉ định cụ thể cho việc sử dụng corticosteroid đường toàn thân (phản đối mạnh mẽ thực hành)Phẫu thuật cắt bỏ và ghép các vết loét do bức xạ hoặc hoại tử khu trú với những cơn đau khó chữa (↑)Mạch máu thần kinhChăm sóc hỗ trợ bằng thuốc đối kháng thụ thể serotonin, mannitol, furosemide và thuốc giảm đau (↑)Điều trị hồi sức tích cựcLiệu pháp thay thế dịch, chất điện giải và thuốc an thần ở những bệnh nhân bị bỏng nặng, giảm thể tích tuần hoàn và/hoặc sốc (↑)Thở máy với chiến lược bảo vệ phổi ở bệnh nhân suy hô hấp cấp (↑)Khử nhiễm có chọn lọc ở miệng họng hoặc khử nhiễm có chọn lọc của đường tiêu hóa (↓)Duy trì đường huyết trung bình từ 140 đến 180 mg/dL (7,8 đến 10 mmol/L) cho đa số bệnh nhân hồi sức tích cực (↓)Thuốc chẹn H2 hoặc thuốc ức chế bơm proton* Điểm mạnh của khuyến nghị có lợi cho việc thực hành: ↑ = Mạnh; ↓ = YếuModified fromDainiak N. Medical management of acute radiation syndrome and associated infections in a high-casualty incident.J Radiat Res.59(suppl 2):ii54-ii64, 2018 doi:10.1093/jrr/rry004* Điểm mạnh của khuyến nghị có lợi cho việc thực hành: ↑ = Mạnh; ↓ = YếuModified fromDainiak N. Medical management of acute radiation syndrome and associated infections in a high-casualty incident.J Radiat Res.59(suppl 2):ii54-ii64, 2018 doi:10.1093/jrr/rry004Chuẩn bịTrong khuôn khổ của kế hoạch chuẩn bị ứng phó tình huống khẩn cấp, các bệnh viện cần có các quy trình và nhân viên được đào tạo để xử lý bệnh nhân bị nhiễm phải chất nguy hiểm, bao gồm cả chất phóng xạ. Các cơ quan quản lý và công nhận (ví dụ: sở y tế tiểu bang hoặc Ủy ban Liên hợp tại Hoa Kỳ) thường yêu cầu phải có các kế hoạch này.Nếu có thể, bề mặt khu vực điều trị nên được phủ bằng nhựa để giúp khử nhiễm xạ cơ sở. Biện pháp phòng chống này không bao giờ được ưu tiên hơn cung cấp các biện pháp quản lý y tế. Khay đựng chất thải (có nhãn "Cảnh báo, chất phóng xạ"), thùng chứa mẫu và Ống đếm Geiger phải sẵn sàng. Tất cả các thiết bị đã tiếp xúc với phòng hoặc với bệnh nhân (kể cả thiết bị cứu thương) nên được cách ly cho đến khi xác định được là không còn nhiễm xạ. Một ngoại lệ làtình huống thương vong hàng loạt, trong đó các thiết bị quan trọng bị nhiễm bẩn nhẹ như trực thăng, xe cứu thương, phòng chấn thương, máy chụp X-quang, CT và các cơ sở phẫu thuật phải được khử nhiễm nhanh chóng ở mức có thể và đưa vào sử dụng trở lại.Nhân viên điều trị hoặc vận chuyển bệnh nhân nên tuân thủ các biện pháp phòng ngừa tiêu chuẩn, đội mũ, mặt nạ, áo choàng, găng tay và bọc giày. Dụng cụ qua sử dụng phải được bỏ trong các túi hoặc bình chứa đặc biệt. Phải mang thiết bị đo liều lượng để giám sát mức độ ô nhiễm với phóng xạ. Nhân viên có thể được luân chuyển công tác để giảm thiểu phơi nhiễm và nhân viên mang thai nên được đưa ra khỏi khu vực điều trị.Do tỷ lệ phơi nhiễm thấp được dự đoán từ hầu hết các bệnh nhân bị nhiễm xạ, nên các nhân viên y tế chăm sóc bệnh nhân thông thường không có khả năng nhận được liều lượng vượt quá giới hạn nghề nghiệp là 0,05 Sv/năm (1). Ngay cả trong trường hợp nghiêm trọng có thương vong do bức xạ từ tai nạn lò phản ứng hạt nhân Chernobyl, nhân viên y tế đã điều trị bệnh nhân trong bệnh viện nhận được<0,01 Sv. Một số khuyến cáo cho rằng liều tối thiểu 0,5 Gy có thể xem là nguy cơ chấp nhận được đới với hoạt dộng chăm sóc sức khỏe.Xác định nhiễm xạViệc xác định nhiễm xạ trên bệnh nhân nên tiến hành trong phòng cách ly (nếu đủ điều kiện), khử nhiễm phóng xạ và thông báo cho nhân viên an toàn bức xạ của bệnh viện, cán bộ y tế công cộng, các nhóm đối phó vật liệu nguy hiểm và các cơ quan thực thi pháp luật để điều tra nguồn phóng xạ.Nên xác định mức độ nhiễm bên ngoài bằng cách quét bằng máy đo bức xạ phù hợp với bệnh nhân được cho là bị nhiễm chất phóng xạ (ví dụ: máy đo Geiger) (2).Khử nhiễm xạ bên ngoàiTrình tự và thứ tự ưu tiên tiêu chuẩn làCởi bỏ quần áo và các mảnh vỡ bên ngoàiLàm sạch vết thương trước khi tẩy xạ vùng da lành.Vệ sinh khu vực bị nhiễm xạ nhiều nhất đầu tiênSử dụng máy dò phóng xạ để theo dõi tiến triển của quá trình tẩy xạTiếp tục khử nhiễm xạ cho đến khi các khu vực dưới 2 đến 3 lần bức xạ nền hoặc không có sự giảm đáng kể sau các nỗ lực khử nhiễmQuần áo được loại bỏ cẩn thận để giảm thiểu sự lây lan của ô nhiễm phóng xạ và đặt trong các thùng chứa nhãn nguy hiểm độc hại phóng xạ. Việc cởi bỏ quần áo có thể loại bỏ khoảng 90% nhiễm bên ngoài. Các vật lạ phải được coi là bị nhiễm xạ cho đến khi được kiểm tra bằng đồng hồ đo phóng xạ.Các vết thương bị ô nhiễm được làm sạch trước khi làm sạch các vùng da còn nguyên vẹn; rửa nước muối và nhẹ nhàng lau bằng một miếng gạc phẫu thuật. Việc loại bỏ tối thiểu các cạnh vết thương có thể được thực hiện nếu còn nhiễm bẩn sau nhiều lần cố gắng làm sạch. Không cần phải cắt lọc ngoài rìa vết thương. Tuy nhiên, mảnh đạn phóng xạ ẩn trong đó có thể có tỷ lệ phơi nhiễm bức xạ rất cao và do đó cần phải được lấy ra bằng kẹp dài hoặc thiết bị tương tự và đặt vào hộp đựng bằng chì.Da, tóc bị nhiễm xạ được rửa bằng nước ấm và chất tẩy nhẹ cho đến khi các phép đo phóng xạ cho thấy mức thấp "levels below" liều dưới 2 đến 3 lần bức xạ nền bình thường hoặc cho đến khi rửa tiếp không làm giảm đáng kể mức độ nhiễm xạ. Tất cả các vết thương đều được che chắn trong quá trình vệ sinh để ngăn ngừa gây nhiễm các vật liệu phóng xạ. Việc lau bề mặt da có thể được cân nhắc nhưng không nên làm xước da. Cần đặc biệt chú ý đến móng tay và nếp da. Tóc mà vẫn bị nhiễm xạ sẽ được cắt bằng kéo hoặc máy cắt điện; tránh cạo râu. Kích thích đổ mồ hôi (ví dụ, đeo găng tay cao su vào bàn tay bị ô nhiễm) có thể giúp loại bỏ ô nhiễm còn dư trên da.Vết bỏng được rửa nhẹ nhàng thay vì chà sát vì chà sát có thể làm tăng mức độ nặng của vết thương. Thay quần áo sẽ giúp loại bỏ sự ô nhiễm còn sót lại.Việc khử nhiễm xạ không cần thiết đối với những bệnh nhân đã tiếp xúc với nguồn phóng xạ bên ngoài nhưng không bị nhiễm xạ.Khử nhiễm xạ bên trongChất phóng xạ bị nhiễm phải được loại bỏ ngay bằng cách nôn ói hoặc rửa dạ dày kỹ nếu tiếp xúc gần đây. Thường xuyên súc miệng với nước muối hoặc hydrogen peroxid pha loãng được chỉ định khi nhiễm xạ vùng miệng. Mắt bị tiếp xúc với nước phải được khử trùng bằng cách dẫn dòng nước hoặc nước muối theo chiều ngang và hướng ra xa mũi để tránh làm nhiễm bẩn ống dẫn lệ mũi.Mức độ khẩn cấp và tầm quan trọng của việc sử dụng các biện pháp xử lý cụ thể phụ thuộc vào loại và lượng hạt nhân phóng xạ, dạng hóa học và các đặc tính chuyển hóa (ví dụ: độ hòa tan, ái lực với các cơ quan đích cụ thể), con đường nhiễm xạ (ví dụ: hít phải, nuốt phải, vết thương) và hiệu quả của phương pháp điều trị. Quyết định xử lý nhiễm bên trong đòi hỏi phải có kiến thức về những nguy cơ tiềm ẩn; nên tham khảo ý kiến của chuyên gia (ví dụ:Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC): Cấp cứu bức xạ: Hướng dẫn lâm sàng và nguồn lực dành cho chuyên gia,Trung tâm hỗ trợ khẩn cấp về bức xạ/Cơ sở đào tạo [REAC/TS]tại Hoa Kỳ,Cơ quan Năng lượng Nguyên tử Quốc tế: Trung tâm Sự cố và Cấp cứu).Các phương pháp loại bỏ chất gây ô nhiễm phóng xạ(3) khỏi cơ thể (tẩy rửa) bao gồmĐộ bão hòa của cơ quan đích (ví dụ: kali iodide [KI] đối với đồng vị iốt) (xemU.S. Department of Health and Human Services Radiation Emergency Medical Management: Guidance on Diagnosis and Treatment for Healthcare Providers)Quá trình thải độc tại vị trí xâm nhập hoặc trong dịch cơ thể sau đó bài tiết nhanh (ví dụ: canxi hoặc kẽm diethylenetriamine penta-acetate [DTPA] đối với americium, californium, plutonium và yttrium)Tăng tốc độ quá trình chuyển hóa của hạt nhân phóng xạ bằng sự pha loãng đồng vị phóng xạ (ví dụ, nước cho nhiễm hydro-3)Kết tủa hạt nhân phóng xạ trong lòng ruột, kèm theo bài tiết qua phân (ví dụ, dung dịch calcium dạng uống hoặc dung dịch aluminum phosphat cho nhiễm strontium-90)Trao đổi ion trong đường tiêu hóa (ví dụ: xanh Phổ cho xesi-137, rubidi-82, thali-201)Bởi vì một vụ tai nạn lò phản ứng hạt nhân nghiêm trọng giải phóng các sản phẩm phân hạch vào môi trường có thể khiến nhiều nhóm người tiếp xúc với iốt phóng xạ, nên việc khử độc bằng kali iodide uống đã được nghiên cứu rất chi tiết (4).Kali iốtbão hòa các thụ thể iốt của tuyến giáp. Việc cắt bỏ bằng kali iodide đường uống giúp ngăn tuyến này hấp thụ iốt phóng xạ, đây là nguyên nhân chính gây bệnh tật.Kali ioduacó hiệu quả>95% khi được dùng vào thời điểm tối ưu (trước khi phơi nhiễm 1 tiếng). Tuy nhiên, hiệu quả giảm đáng kể theo thời gian (~80% hiệu quả ở 2 giờ sau khi phơi nhiễm và dùng nhiều hơn 24 giờ sau khi phơi nhiễm sẽ không có tác dụng bảo vệ).Kali ioduacó thể được cho dùng dưới dạng viên nén hoặc dưới dạng dung dịch siêu bão hòa (liều lượng: người lớn và trẻ em>68 kg, 130 mg; từ 3 đến 18 tuổi [<68 kg], 65 mg; từ 1 đến 36 tháng tuổi, 32 mg; tuổi<1 tháng, 16 mg). Hợp chất bên trong với iốt phóng xạ và không có lợi trongvnhiễm xạ bên trong với các chất phóng xạ khác. Hầu hết các loại thuốc khác được sử dụng để khử mùi kém hiệu quả hơn nhiều và chỉ giảm liều cho bệnh nhân từ 25 đến 75%. Chống chỉ định vớikali ioduabao gồm dị ứng iốt và một số rối loạn da liên quan đến độ nhạy cảm với iốt (ví dụ:viêm da dạng herpes, viêm mạch mày đay).Quản lý đặc biệtChăm sóc hỗ trợ được cung cấp khi cần thiết và bao gồm xử trí sốc và hạ oxy máu và giảm đau và lo lắng. Thông thường, cần dùng thuốc benzodiazepin (ví dụ: lorazepam) để kiểm soát cơn co giật, thuốc chống nôn (ví dụ: metoclopramide, prochlorperazine, ondansetron) để kiểm soát tình trạng nôn mửa và thuốc chống tiêu chảy dạng uống (ví dụ: kaolin/pectin, loperamide) để điều trị tiêu chảy.Chưa có điều trị đặc hiệu cho hội chứng mạch não. Đây là nguyên nhân tử vong phổ biến; cần chăm sóc giảm nhẹ cho bệnh nhân.Hội chứng dạ dày ruột được điều trị bằng bồi phụ nước và điện giải. Cần thực hiện chế độ dinh dưỡng ngoài ruột để ruột được hồi phục. Ở những bệnh nhân sốt, cần bắt đầu dùng kháng sinh phổ rộng (ví dụ: fluoroquinolone) ngay lập tức.Sốc nhiễm khuẩndo nhiễm trùng nặng vẫn là nguyên nhân gây tử vong nhiều nhất.Điều trị hội chứng rối loạn tạo máu tương tự như chứng giảm sinh tủy và suy tủy do bất kỳ nguyên nhân nào. Các chế phẩm máu nên được truyền để điều trị tình trạng thiếu máu và giảm tiểu cầu, và các yếu tố tăng trưởng tạo máu (yếu tố kích thích tạo khuẩn lạc bạch cầu hạt và yếu tố kích thích tạo khuẩn lạc đại thực bào bạch cầu hạt) khi số lượng bạch cầu trung tính tuyệt đối < 0,5 × 109tế bào/L (< 500 tế bào/mm3). Kháng sinh phổ rộng nên được dùng để điều trị giảm bạch cầu trung tính và sốt giảm bạch cầu trung tính (xemĐiều trị giảm bạch cầu trung tính và giảm bạch cầu lympho) (5). Bệnh nhân suy giảm bạch cầu cũng nên được cách ly. Với liều bức xạ toàn thân>4 Gy, khả năng phục hồi tủy xương là kém, các yếu tố tăng trưởng tế bào máu nên được cung cấp càng sớm càng tốt. Filgrastim có thể được sử dụng để điều trị suy tủy do phóng xạ.Ghép tế bào gốc tạo máucó tỷ lệ thành công hạn chế nhưng nên cân nhắc khi tiếp xúc với liều>7 đến 10 Gy.Cytokinescó thể có tác dụng (5). Các loại thuốc và liều lượng khuyến nghị làFilgrastim (yếu tố kích thích tạo cụm bạch cầu hạt [G-CSF]) được tiêm dưới da càng sớm càng tốt sau khi nghi ngờ hoặc xác nhận tiếp xúc với liều bức xạ lớn hơn 2 GySargramostim (yếu tố kích thích tạo cụm đại thực bào bạch cầu hạt [GM-CSF]) dưới daPegfilgrastim (pegylated G-CSF) tiêm dưới daCác vết sưng đau hoặc loét do phóng xạ gây ra không thể lành có thể được điều trị bằng ghép da hoặc các thủ thuật phẫu thuật khác.Ngoài việc theo dõi thường xuyên các dấu hiệu của một số rối loạn nhất định (ví dụ khám mắt để phát hiện bệnh đục thủy tinh thể, xét nghiệm chức năng tuyến giáp) thì không biện pháp đặc hiệu nào để theo dõi, sàng lọc hoặc điều trị cụ thể cho các tổn thương cơ quan trong cơ thể hoặc ung thư.Tài liệu tham khảo về điều trị1. Mettler FA, Upton A.C, Hendee W. 2008. Medical Effects of Ionizing Radiation: 3rd Edition. United States. https://doi.org/10.1118/1.30214552.US Department of Health and Human Services. Radiation Emergency Medical Management: Guidance on Diagnosis and Treatment for Healthcare Providers. Truy cập ngày 2 tháng 1 năm 2025.3.US Department of Health and Human Services. Managing Internal Radiation Contamination. Truy cập ngày 2 tháng 1 năm 2025.4.Centers for Disease Control and Prevention (CDC). Radiation Emergencies; Potassium Iodide (KI). Truy cập ngày 2 tháng 1 năm 2025.5.Armed Forces Radiobiology Research Institute (AFRRI). Medical Management of Radiological Casualties Handbook. 5th ed. Bethesda, MD: AFRRI; 2023 Truy cập ngày 2 tháng 1 năm 2025.
+
+--- 5. Tiên lượng về phơi nhiễm và ô nhiễm bức xạ ---
+
+Nếu không được điều trị nội khoa,LD-50/60 (liều lượng dự kiến ​​gây tử vong cho 50% bệnh nhân trong vòng 60 ngày) đối với bức xạ theo đường toàn thân là khoảng 3 Gy; tiếp xúc với>6 Gy gần như luôn gây tử vong. Thời gian tử vong ngắn khi tăng liều. Tử vong có thể xảy ra trong vòng vài giờ tới vài ngày ở những bệnh nhân có hội chứng mạch não và thường trong vòng 2 ngày đến vài tuần ở những bệnh nhân có hội chứng đường tiêu hóa. Ở bệnh nhân có hội chứng rối loạn cơ quan tạo máu, tử vong có thể xảy ra trong vòng 4 đến 8 tuần do nhiễm khuẩn hoặc xuất huyết nặng.Khi phơi nhiễm liều<6 Gy, khả năng sống sót là có thể và tỉ lệ nghịch với tổng liều. Bệnh nhân tiếp xúc với liều toàn thân<2 Gy sẽ hồi phục hoàn toàn trong vòng 1 giờ, mặc dù các di chứng lâu dài (ví dụ ung thư) có thể xuất hiện.Nếu được chăm sóc y tế, liều LD-50/60 là 6 Gy. Đôi khi đã có những bệnh nhân sống sót với độ phơi nhiễm lên đến 10 Gy. Bệnh kèm theo, các vết thương và bỏng nặng làm tiên lượng xấu đi.
+
+--- 6. Phòng ngừa phơi nhiễm và ô nhiễm bức xạ ---
+
+Bảo vệ khỏi phơi nhiễm bức xạ được thực hiện bằng cáchTránh nhiễm chất phóng xạGiảm thiểu thời gian phơi nhiễmTối đa hóa khoảng cách từ nguồn bức xạChe chắn nguồn bức xạNhững nguyên tắc này có thể được áp dụng cho phơi nhiễm bức xạ y tế cũng như tai nạn công nghiệp và các sự kiện khủng bố có phơi nhiễm bức xạ.Phòng ngừa phơi nhiễm và nhiễm xạ ở bệnh nhânTrong quá trình xạ trị, các bộ phận cơ thể ở gần nhưng không phải là mục tiêu của quá trình điều trị nên được che chắn bằng chì ở mức độ có thể được. Tuy nhiên, việc che chắn tuyến sinh dục không còn được khuyến nghị thường xuyên đối với chụp X quang chẩn đoán hoặc chụp cắt lớp vi tính (1,2). Người ta đã xác định rằng việc che chắn có thể cản trở cho việc chẩn đoán hình ảnh bằng cách có khả năng che khuất các vùng quan trọng của cơ thể, dẫn đến việc phải kiểm tra lại, điều này có thể vô tình dẫn đến mức phơi nhiễm bức xạ cao hơn trong quá trình kiểm tra chẩn đoán hình ảnh. Hơn nữa, nguồn phơi nhiễm bức xạ chính với các cơ quan lân cận trường chụp là từ sự phân tán bên trong của tia X từ các mô trong trường chụp (1,3-5).Phòng ngừa phơi nhiễm và nhiễm xạ ở nhân viên y tếNhân viên y tế thường xuyên tiếp xúc với nguồn bức xạ phải tuân theo các quy trình để giảm thiểu thời gian tiếp xúc, tối đa hóa khoảng cách từ nguồn bức xạ và đeo đồ bảo hộ thích hợp.Mặc dù nhân viên được che chắn bằng tạp dề hoặc các tấm chắn trong suốt thời gian tác nghiệp giảm được hậu quả việc tiếp xúc với các tia X năng lượng thấp nhưng kéo dài từ các xét nghiệm chẩn đoán và chụp phim can thiệp nhưng những tạp dề và tấm chắn này hầu như không có ích trong việc giảm phơi nhiễm với các tia gamma năng lượng cao do hạt nhân phóng xạ sinh ra mà có thể sẽ được sử dụng trong một vụ khủng bố hoặc được giải phóng trong một vụ tai nạn nhà máy điện hạt nhân. Trong những trường hợp như vậy, các biện pháp có thể giảm thiểu sự phơi nhiễm bao gồm sử dụng các biện pháp đề phòng tiêu chuẩn, các biện pháp khử nhiễm xạ và duy trì khoảng cách từ các bệnh nhân bị nhiễm xạ khi không trực tiếp chăm sóc.Tất cả nhân viên làm việc xung quanh nguồn bức xạ phải đeo thẻ đo liều nếu họ có nguy cơ phơi nhiễm>10% liều nghề nghiệp tối đa cho phép (0,05 Sv) (6). Liều kế điện tử tự đọc giúp ích cho việc theo dõi liều tích lũy nhận được trong một sự cố.Phản ứng của cộng đồngSau khi môi trường bị nhiễm xạ ở mức cao lan rộng do tai nạn nhà máy điện hạt nhân hoặc cố ý giải phóng chất phóng xạ, có thể giảm thiểu phơi nhiễm với phóng xạ bằng các cáchẨn nấp tại chỗDi chuyển khỏi khu vực bị nhiễm xạKhuyến nghị nào cần tuân theo phụ thuộc vào nhiều biến số cụ thể theo biến cố, bao gồmThời gian đã trôi qua kể từ lần giải phóng bức xạ đầu tiênCho dù việc giải phóng bức xạ đã dừng hay đang tiếp tụcCác tình trạng thời tiếtSự sẵn có và loại nơi trú ẩnĐiều kiện sơ tán (ví dụ: giao thông, khả năng vận chuyển)Những thông điệp nhất quán và ngắn gọn từ các viên chức y tế công cộng có thể giúp giảm bớt sự hoảng loạn không cần thiết và giảm số lượng người có nguy cơ thấp đến khoa cấp cứu, do đó giúp các khoa cấp cứu không bị quá tải. Một kế hoạch truyền thông như vậy cần được tiến hành trong bất cứ sự cố nào. Nên có kế hoạch giảm nhu cầu về các nguồn lực của khoa cấp cứu bằng cách cung cấp một địa điểm thay thế để sơ cứu, khử nhiễm và tư vấn cho những người không có vấn đề y tế khẩn cấp.Các viên chức y tế công cộng nên khuyến cáo người dân làm theo lời khuyên của các viên chức y tế công cộng địa phương trên hệ thống thông báo cảnh báo khẩn cấp. Nếu nghi ngờ, trú ẩn tại chỗ là lựa chọn tốt nhất đến khi có thêm thông tin bổ sung. Khi chọn nơi trú ẩn, nên chọn chỗ trung tâm của các kết cấu bê tông hoặc kim loại ở tầng trên hoặc dưới (ví dụ, trong tầng hầm) là tốt nhất. Nếu biến cố là một vụ nổ vũ khí hạt nhân, có thể nhanh chóng tìm thấy nơi trú ẩn tại chỗ như một nơi trú ẩn hiệu quả trong vài giờ đầu tiên sau khi phát nổ và sau đó làm theo lời khuyên của các quan chức ứng phó khẩn cấp địa phương.Thuốc phòng ngừaNgười dân sống trong phạm vi 16 km tính từ nhà máy điện hạt nhân phải luôn có sẵn thuốc viên kali iodide để phòng trường hợp iốt phóng xạ, một sản phẩm phụ của quá trình phân hạch, bị phát tán từ nhà máy. Kali iốt giúp ngăn ngừa sự hấp thu iốt phóng xạ của tuyến giáp (7). Loại thuốc này có thể được lấy từ hiệu thuốc địa phương và một số cơ sở y tế công cộng.Thuốc bảo vệ khỏi phóng xạ, chẳng hạn như hợp chất thiol có đặc tính thu hồi gốc tự do, đã được chứng minh là làm giảm tỷ lệ tử vong khi được dùng trước hoặc tại thời điểm chiếu xạ ở bệnh nhân đang hóa trị và/hoặc xạ trị. Cần các nghiên cứu bổ sung để chứng minh lợi ích trong việc phơi nhiễm bức xạ không y khoa (ví dụ: tai nạn nhà máy điện hạt nhân).Amifostinlà một loại thuốc bảo vệ phóng xạ mạnh có thể tiêm được. Thuốc được sử dụng trên lâm sàng để ngăn ngừa khô miệng ở những bệnh nhân đang được xạ trị. Các tác dụng bất lợi bao gồm buồn nôn và nôn, hạ huyết áp và giảm canxi huyết thanh. Việc tiếp xúc với thuốc này ở thai nhi có thể gây ra dị tật bẩm sinh (8).Palifermin,yếu tố tăng trưởng biểu mô niêm mạc, là phiên bản biến đổi của một loại protein tự nhiên ở người có tên là yếu tố tăng trưởng tế bào sừng (KGF) được sản xuất trong phòng thí nghiệm (xemU.S. Food & Drug Administration: Palifermin). Nó được sử dụng để giảm nguy cơ phát triển viêm niêm mạc nặng và giảm thời gian viêm niêm mạc ở những bệnh nhân được hóa trị và xạ trị liều cao sau đó là giải cứu tế bào gốc. Palifermin có thể tương tác với heparin, do đó nên tráng rửa đường tĩnh mạch bằng nước muối sinh lý trước và sau khi dùng palifermin. Các tác dụng bất lợi bao gồm phát ban, viêm tụy, sốt và phù ngoại biên. Việc thai nhi tiếp xúc với loại thuốc này có thể gây ra dị tật bẩm sinh.Tài liệu tham khảo về phòng ngừa1.National Council on Radiation Protection and Measurements. NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography. NCRP Statement No. 13 Ngày 12 tháng 1 năm 2021. Truy cập ngày 2 tháng 1 năm 2025.2.National Council on Radiation Protection and Measurements. NCRP Recommendations for Ending Routine Gonadal Shielding During Abdominal and Pelvic Radiography: Companion to NCRP Statement No. 13 Ngày 12 tháng 1 năm 2021. Truy cập ngày 2 tháng 1 năm 2025.3.American Association of Physicists in Medicine. Publications: Medical Physics Practice Guidelines. Truy cập ngày 2 tháng 1 năm 2025.4.American College of Radiology. Patient Gonadal and Fetal Shielding Education Module. Truy cập ngày 2 tháng 1 năm 2025.5.American College of Radiology. NCRP Recommends Against Routine Gonadal Shielding. Truy cập ngày 2 tháng 1 năm 2025.6.United States Code of Federal RegulationsTitle 10 Energy § 10.20.1502 Conditions requiring individual monitoring of external and internal occupational dose. Truy cập ngày 2 tháng 1 năm 2025.7.United States Code of Federal RegulationsTitle 10 Energy § 10.50.47 Emergency plans. Truy cập ngày 2 tháng 1 năm 2025.8.Singh VK, Seed TM.The efficacy and safety ofamifostinefor the acute radiation syndrome.Expert Opin Drug Saf18(11):1077-1090, 2019 doi: 10.1080/14740338.2019.1666104

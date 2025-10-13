@@ -1,0 +1,421 @@
+TIÊU ĐỀ: Cách thực hiện kiểm tra E-FAST
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/cách-thực-hiện-các-thủ-thuật-cấp-cứu-khác-trong-y-khoa/cách-thực-hiện-kiểm-tra-e-fast
+================================================================================
+
+NỘI DUNG:
+
+Cách thực hiện kiểm tra E-FAST
+
+Theo
+
+Dorothy Habrat
+
+,
+
+DO
+
+,
+
+University of New Mexico School of Medicine
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 12 2023
+
+v52127025_vi
+
+E-FAST (Đánh giá tập trung mở rộng với bằng sóng siêu âm trong chấn thương) là một phương pháp siêu âm tại giường được thiết kế để phát hiện dịch màng bụng, dịch màng ngoài tim, tràn khí màng phổi và/hoặc tràn máu màng phổi ở bệnh nhân chấn thương.
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Các biến chứng
+
+|
+
+Thiết bị
+
+|
+
+Cân nhắc bổ sung
+
+|
+
+Tư thế
+
+|
+
+Giải phẫu liên quan
+
+|
+
+Mô tả các bước tiến hành thủ thuật.
+
+|
+
+Cảnh báo và các lỗi thường gặp
+
+|
+
+Các mẹo và thủ thuật
+
+|
+
+Bài kiểm tra FAST (đánh giá tập trung bằng siêu âm trong chấn thương) để xem có dịch không – được cho là máu trong bối cảnh trường lâm sàng thích hợp – hiển thị hình ảnh 10 cấu trúc hoặc khoang ở 4 khu vực:
+
+Màng ngoài tim
+
+Quanh gan
+
+Quanh lách
+
+Khung chậu
+
+E-FAST (Extends-FAST) khảo sát thêm khoang màng phổi phía trước và bên (nhìn lồng ngực) để đánh giá
+
+tràn khí màng phổi
+
+hoặc
+
+tràn dịch màng phổi
+
+, được cho là tràn máu màng phổi ở bệnh nhân chấn thương.
+
+E-FAST có độ nhạy và độ đặc hiệu cao (đặc biệt là ở bệnh nhân hạ huyết áp). Việc này có thể được thực hiện nhanh chóng, không xâm lấn, không tiếp xúc với bức xạ và có thể được lặp lại. Do những lợi ích này, siêu âm về cơ bản đã thay thế
+
+phương pháp rửa phúc mạc chẩn đoán
+
+(DPL) trong đánh giá bệnh nhân chấn thương.
+
+Ở một bệnh nhân có huyết động không ổn định, E-FAST dương tính có thể cho thấy cần phải can thiệp ngay lập tức (ví dụ:
+
+mở ngực bằng ống
+
+, cửa sổ màng ngoài tim, mở bụng chẩn đoán).
+
+Ở bệnh nhân có huyết động ổn định, E-FAST có thể hướng dẫn xét nghiệm chẩn đoán sâu hơn.
+
+Mặc dù E-FAST được thiết kế để đẩy nhanh việc chăm sóc những bệnh nhân bị thương, nhưng các thành phần này đã được chứng minh là hữu ích như siêu âm tại giường (POCUS) cho những bệnh nhân bị hạ huyết áp nhưng không bị thương để xác định dịch tự do do các nguyên nhân khác (ví dụ: vỡ
+
+thai ngoài tử cung
+
+, vỡ
+
+phình động mạch chủ bụng
+
+).
+
+Chỉ định kiểm tra E-FAST
+
+Đánh giá chấn thương, tụt huyết áp và/hoặc sốc không rõ căn nguyên ở bệnh nhân chấn thương để xác định nhu cầu can thiệp
+
+Đánh giá hạ huyết áp hoặc sốc không rõ nguyên nhân ở bệnh nhân không bị chấn thương
+
+Để xác định vỡ thai ngoài tử cung
+
+Chống chỉ định kiểm tra E-FAST
+
+Chống chỉ định tuyệt đối
+
+Làm sáng tỏ nhu cầu chăm sóc dứt điểm nhạy cảm với thời gian (sẽ bị trì hoãn bằng cách làm siêu âm)
+
+Chống chỉ định tương đối
+
+không
+
+Các biến chứng của kiểm tra E-FAST
+
+Siêu âm là một thủ thuật không xâm lấn, do đó khó có thể xảy ra các biến chứng do thủ thuật.
+
+Thiết bị trong kiểm tra E-FAST
+
+Máy siêu âm tại giường
+
+Đầu dò tần số thấp (ví dụ, 2 đến 5 MHz) (đầu dò), hoặc mảng cong hoặc mảng theo pha*
+
+Đầu dò tuyến tính tần số cao (ví dụ, 5 đến 10 MHz), để kiểm tra màng phổi
+
+Gel siêu âm (không vô trùng) hoặc chất bôi trơn phẫu thuật có nước
+
+Găng tay, để che đầu thăm dò (hàng rào bảo vệ)
+
+* Đầu dò mảng theo pha thường được ưu tiên với E-FAST vì chân nhỏ của nó có thể dễ dàng được đặt giữa các xương sườn hơn.
+
+Những cân nhắc bổ sung cho kiểm tra E-FAST
+
+Kiểm tra E-FAST cần phải được hoàn tất trong
+
+<
+
+5 phút.
+
+Túi màng ngoài tim được đánh giá đầu tiên, đặc biệt là sau chấn thương xuyên thấu, vì dịch màng ngoài tim sau chấn thương có thể đe dọa tính mạng ngay lập tức và thay thế cho việc điều trị các chấn thương khác.
+
+Kiểm tra E-FAST tối đa hóa độ nhạy bằng các vị trí phụ thuộc vào hình ảnh trong khoang phúc mạc, nơi ưu tiên cho ứ đọng dịch. Dịch này xuất hiện dưới dạng các vùng không dội âm (màu đen) lấp đầy các khoảng trống tiềm ẩn. Việc kiểm tra cũng tập trung vào giao diện giữa các tạng đặc để tối đa hóa khả năng hiển thị dịch.
+
+Xác định tư thế trong kiểm tra E-FAST
+
+Bệnh nhân nằm ngửa.
+
+Người vận hành đứng ở bên cạnh gần bụng bệnh nhân. (Theo truyền thống, người vận hành được hướng dẫn là phải ở phía bên phải của bệnh nhân để có thể sử dụng tay phải, nhưng vị trí này là không cần thiết và vị trí của người điều hành có thể dựa trên sở thích của người vận hành.)
+
+Nếu có điều kiện, bệnh nhân có thể được để ở tư thế Trendelenburg khoảng 5 độ để tăng độ nhạy trong việc phát hiện dịch màng bụng vùng hạ sườn phải.
+
+Giải phẫu liên quan trong kiểm tra E-FAST
+
+Rãnh quanh đại tràng phải sâu hơn và ít bị cản trở hơn bên trái. Dịch ưu tiên chảy sang bên phải. Vì vậy, khu vực này nên được đánh giá đầu tiên trong khoang phúc mạc (thông thường là sau khi màng tim đã được chụp ảnh).
+
+Một khoảng trống tiềm ẩn được hình thành do phản xạ của phúc mạc từ trực tràng đến bàng quang ở nam hoặc từ trực tràng đến tử cung ở nữ. Dịch ưu tiên chảy vào khu vực này từ các rãnh bên phải hoặc bên trái. Khung chậu là một trong những phần phụ thuộc và dễ hiển thị hình ảnh nhất của khoang phúc mạc; do đó, các chỗ ứ đọng dịch có thể nhìn thấy ở đây sớm hơn so với các khu vực khác.
+
+Mô tả từng bước về kiểm tra E-FAST
+
+Sử dụng đầu dò cong hoặc đầu dò mảng theo pha.
+
+Định hướng đầu dò tiêu chuẩn:
+
+Đảm bảo rằng hình ảnh trên màn hình tương quan với hướng không gian của đầu dò khi bạn cầm và di chuyển nó. Điểm đánh dấu định hướng của đầu dò tương ứng với điểm đánh dấu trên màn hình siêu âm. Điều chỉnh cài đặt màn hình và vị trí đầu dò nếu cần để đạt được hướng trái-phải chính xác. Theo truyền thống, khi thu được hình ảnh để kiểm tra E-FAST, hãy định vị điểm đánh dấu hướng đầu dò ở phía bên phải của bệnh nhân và kiểm tra xem điểm đánh dấu trên màn hình siêu âm có nằm ở góc trên bên trái của màn hình hay không.
+
+Phủ gel siêu âm lên đầu dò, kéo găng tay hoặc vỏ bọc đầu dò thật chặt lên đầu dò để loại bỏ tất cả bọt khí và cố định găng tay/vỏ bọc vào đúng vị trí (ví dụ: bằng dây cao su).
+
+Phủ một lớp gel lên đầu dò đã được che phủ; việc sử dụng gel không đầy đủ sẽ hạn chế tầm nhìn về giải phẫu liên quan.
+
+Xem màng ngoài tim (tim)
+
+Phần tim của kiểm tra E-FAST tìm kiếm tràn máu màng ngoài tim, trong chấn thương, dễ bị tổn thương nhất ở vị trí dưới mũi ức.*
+
+* CHÚ Ý: Định hướng tim mạch thông thường ngược lại với tất cả các lần quét khác với điểm đánh dấu ở phía bên phải của màn hình. Khi thu được các chế độ xem trục ngắn, dấu định hướng của đầu dò sẽ nằm ở phía bên trái của bệnh nhân và khi lấy các chế độ xem trục dài, dấu định hướng của đầu dò sẽ hướng về phía đầu của bệnh nhân.
+
+Khi sử dụng thuốc cấp cứu hoặc định hướng X-quang, giữ đầu dò nằm ngang ở vùng dưới sườn gần như song song với da và chỉ hướng về bên trái xương ức của bệnh nhân và hướng về phía đầu. Điểm đánh dấu định hướng đầu dò phải ở phía bên phải của bệnh nhân.
+
+Di chuyển đầu dò xa hơn về bên phải của bệnh nhân; bờ gan sẽ xuất hiện, làm cho thùy trái của gan có thể được sử dụng như một cửa sổ âm thanh.
+
+Giữ đầu dò trên da của bệnh nhân và nhẹ nhàng đẩy nó xuống, hướng nó vào giữa đầu và vai trái của bệnh nhân.
+
+Di chuyển đầu dò càng cao vào không gian dưới mũi ức càng tốt.
+
+Trên màn hình siêu âm, từ trên xuống dưới, quan sát gan, tâm thất phải và tâm thất trái. Tâm thất phải tiếp giáp với gan vì nó ở phía trước hơn tâm thất trái. 2 tâm thất ở trên và ở bên phải màn hình và tâm nhĩ ở dưới và ở bên trái.
+
+Để cải thiện hình ảnh, hãy tăng cài đặt độ sâu đầu dò trên bảng điều khiển hoặc đưa tim đến gần đầu dò hơn bằng cách cho bệnh nhân hít thở sâu.
+
+Dịch màng ngoài tim xuất hiện là một khoảng đen (giảm âm) giữa các đường trắng của màng ngoài tim.
+
+Tràn dịch màng phổi có thể bị nhầm lẫn với tràn dịch màng ngoài tim và có thể được phân biệt bởi sự xuất hiện của nó phía sau động mạch chủ đi xuống chế độ xem trục dài của tim.
+
+Mỡ màng ngoài tim cũng có thể bị nhầm lẫn với dịch màng ngoài tim. Các miếng mỡ màng ngoài tim có vẻ bằng phẳng nhưng di chuyển theo tim trái ngược với dịch màng ngoài tim, dịch này đứng yên.
+
+Chế độ xem quanh gan (góc phần tư trên bên phải)
+
+Di chuyển đầu dò sang góc phần tư trên bên phải, để xác định dịch tự do trong khoang màng bụng.
+
+Đặt đầu dò vào khoang liên sườn thứ 10 hoặc 11, ngay trước đường giữa của nách. Trỏ điểm đánh dấu định hướng đầu dò về phía đầu. Để loại bỏ bóng của xương sườn, hãy xoay đầu dò và nhìn giữa các xương sườn.
+
+Hình ảnh mặt phân giới (khoảng trống tiềm ẩn) giữa thận phải và gan, được gọi là túi Morison. Nếu chỉ có thể nhìn thấy thận, hãy trượt đầu dò về phía đầu dọc theo đường nách giữa mỗi lần một khoang gian sườn cho đến khi nhìn thấy gan. Nếu chỉ nhìn thấy gan, hãy trượt đầu dò về phía cuối cơ thể mỗi lần một khoang gian sườn cho đến khi nhìn thấy thận. Những người mới bắt đầu thường đặt đầu dò quá về phía trước trên bụng; Sau đó trượt đầu dò ra sau có thể giúp hiển thị hình ảnh thận.
+
+Ở góc nhìn phần tư trên bên phải, túi Morison là vị trí phổ biến nhất để hiển thị hình ảnh dịch tự do. Quét toàn bộ chiều dài của thận để tránh bỏ sót một ổ tích tụ dịch nhỏ.
+
+Di chuyển đầu dò để tìm tràn máu màng phổi. Cơ hoành xuất hiện như một đường cong màu trắng sáng với gan ở bên phải và phổi bình thường ở bên trái. Phổi bình thường phân tán sóng siêu âm và xuất hiện như "tuyết".
+
+Tràn máu màng phổi có biểu hiện là tăng âm. Ngoài ra, đường gai, có thể nhìn thấy ở dưới cùng của màn hình, sẽ tiếp tục đi qua cơ hoành và vào ngực. Máu trong nửa lồng ngực có tác dụng như một cửa sổ âm thanh cho phép hiển thị hình ảnh cột sống. Dấu hiệu này được gọi là sự tiếp tục bất thường của đường gai ("dấu hiệu gai") và không xảy ra trong trường hợp không có tràn máu màng phổi, vì không khí trong phổi phân tán sóng siêu âm, che khuất hình ảnh của đường gai.
+
+Chế độ xem quanh lách (góc phần tư trên bên trái)
+
+Di chuyển đầu dò sang góc phần tư trên bên trái để xác định dịch tự do trong khoang màng bụng.
+
+Thận trái nằm hơi ở phía sau và về phía đầu hơn thận phải một chút, do đó, đặt đầu dò trên đường nách sau giữa khoang liên sườn thứ 9 và thứ 10 với điểm đánh dấu định hướng đầu dò về phía đầu.
+
+Góc phần tư trên bên trái là hình ảnh phản chiếu của bên phải, lách xuất hiện ở đầu màn hình, cơ hoành ở bên trái và thận ở bên phải.
+
+Dịch có nhiều khả năng đọng lại xung quanh lách hơn là giữa lách và thận, và dịch ở phần tư trên bên trái thường biểu thị chấn thương lách.
+
+Một lần nữa, đánh giá tình trạng tràn máu màng phổi bằng cách tìm dịch ứ đọng trên cơ hoành và sự tiếp tục bất thường của đường gai.
+
+Chế độ xem khung chậu (trên khớp mu)
+
+Di chuyển đầu dò đến khung chậu. Vị trí này nhạy cảm nhất để phát hiện dịch trong khoang màng bụng.
+
+Đặt đầu dò ngay phía trên của khớp mu theo hướng ngang với điểm đánh dấu định hướng của đầu dò ở bên phải bệnh nhân. Nghiêng đầu dò xuống khung chậu và giữ nó ở đường giữa. Bây giờ quét toàn bộ bàng quang từ trên xuống dưới để xác định dịch tự do.
+
+Tiếp theo, xoay đầu dò 90 độ theo chiều kim đồng hồ để điểm đánh dấu định hướng đầu dò hướng về phía đầu. Trong chế độ xem đứng dọc (dọc) này, tiếp tục quét đầu dò từ phải sang trái để đánh giá toàn bộ bàng quang.
+
+Có thể nhìn thấy bàng quang phía trước và giảm âm vì nó chứa đầy dịch. Ở một bệnh nhân nam, dịch có nhiều khả năng tích tụ trong túi trực tràng bàng quang, giữa bàng quang và trực tràng. Ở một bệnh nhân nữ, dịch rất có thể tích tụ trong túi tử cung bàng quang, giữa bàng quang và tử cung. Đu đưa từ từ đầu dò từ bên này sang bên kia sẽ làm tăng độ nhạy của quá trình khám.
+
+Xem lồng ngực
+
+Đánh giá màng phổi để xác định
+
+tràn khí màng phổi
+
+.
+
+Sử dụng một đầu dò tuyến tính (tần số cao, độ phân giải cao, thâm nhập nông).
+
+Giữ đầu dò vuông góc với xương sườn, điểm đánh dấu định hướng đầu dò hướng về phía đầu; bắt đầu xung quanh khoang liên sườn thứ 3 hoặc thứ 4 ở đường giữa xương đòn. Cần lấy thêm các hình ảnh.
+
+Để tăng độ nhạy của quá trình khám, hình ảnh bề mặt màng phổi ở một số vị trí dọc theo cả thành ngực trước và ngoài.
+
+Trong chấn thương, khi bệnh nhân thường nằm ngửa, cử động cột sống bị hạn chế, nơi dễ phát hiện tràn khí màng phổi nhất là phía trước. Tuy nhiên, bệnh nhân có thể bị tràn khí màng phổi bên riêng biệt. Vì vậy, điều quan trọng là phải xem nhiều vị trí của phổi.
+
+Giữ đầu dò vuông góc với xương sườn. Một chiếc xương sườn sẽ đổ bóng đằng sau nó. Đường màng phổi (màu trắng) có thể nhìn thấy được. Ba dấu hiệu bình thường là xương sườn trượt, đuôi sao chổi và đường A.
+
+– Xương sườn trượt sẽ xuất hiện dưới dạng độ vang âm hỗn hợp mờ, dạng hạt bên dưới đường màng phổi. Nó đôi khi được gọi là "kiến trên một khúc gỗ". Ở chế độ M, dạng hạt bên dưới đường màng phổi xuất hiện như cát trên bãi biển và được gọi là "dấu hiệu bờ biển".
+
+– Đuôi sao chổi xuất hiện dưới dạng hình chiếu xuống từ đường màng phổi, di chuyển theo chiều dọc.
+
+– Các đường A dạng phản ánh giả tạo của đường màng phổi xảy ra ở khoảng nửa đường giữa đường màng phổi và phần dưới của màn hình.
+
+Nếu tràn khí màng phổi ở một bệnh nhân chấn thương, sẽ không có chuyển động trượt ở đường màng phổi, không có đuôi sao chổi và không có đường A.
+
+Nếu không chắc chắn có phổi trượt, hãy sử dụng chế độ M trên vùng màng phổi đó. Ở chế độ M, dấu hiệu bờ biển bình thường sẽ không xuất hiện. Thay vào đó, cái gọi là "ký hiệu mã vạch" sẽ hiển thị, nó xuất hiện dưới dạng nhiều đường ngang từ trên cùng đến dưới cùng của màn hình.
+
+FAST mở rộng (Đánh giá khoang màng phổi)
+
+Vị trí đầu dò vuông góc với sườn
+
+Đầu dò cần phải được đặt vuông góc với xương sườn. Cũng lưu ý rằng phải trỏ điểm đánh dấu định hướng của đầu dò về phía đầu.
+
+... đọc thêm
+
+Bản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.
+
+Hình ảnh siêu âm của xương sườn và đường màng phổi
+
+Xương sườn (mũi tên màu vàng) xuất hiện dưới dạng cấu trúc âm tăng (màu trắng) có bóng mờ bên dưới xương sườn. Đường màng phổi (mũi tên màu đỏ) hiện rõ ở khoang liên sườn.
+
+... đọc thêm
+
+Bản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.
+
+Đường màng phổi bình thường
+
+Đường màng phổi có âm tăng (mũi tên màu đỏ). Trong quá trình hô hấp, quá trình trượt của xương sườn sẽ làm cho đường màng phổi lung linh và tạo ra hình ảnh giống như “đàn kiến đang đi trên một khúc gỗ” khi được hiển thị hình ảnh trong video theo thời gian thực (mũi tên màu xanh lá cây). Các đường chữ A (mũi tên màu vàng) xuất hiện do phản xạ ảnh giả của sóng siêu âm.
+
+... đọc thêm
+
+Bản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.
+
+Vị trí đầu dò vuông góc với sườn
+
+Đầu dò cần phải được đặt vuông góc với xương sườn. Cũng lưu ý rằng phải trỏ điểm đánh dấu định hướng của đầu dò về phía đầu.
+
+... đọc thêm
+
+Bản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.
+
+Hình ảnh siêu âm của xương sườn và đường màng phổi
+
+Xương sườn (mũi tên màu vàng) xuất hiện dưới dạng cấu trúc âm tăng (màu trắng) có bóng mờ bên dưới xương sườn. Đường màng phổi (mũi tên màu đỏ) hiện rõ ở khoang liên sườn.
+
+... đọc thêm
+
+Bản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.
+
+Đường màng phổi bình thường
+
+Đường màng phổi có âm tăng (mũi tên màu đỏ). Trong quá trình hô hấp, quá trình trượt của xương sườn sẽ làm cho đường màng phổi lung linh và tạo ra hình ảnh giống như “đàn kiến đang đi trên một khúc gỗ” khi được hiển thị hình ảnh trong video theo thời gian thực (mũi tên màu xanh lá cây). Các đường chữ A (mũi tên màu vàng) xuất hiện do phản xạ ảnh giả của sóng siêu âm.
+
+... đọc thêm
+
+Bản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.
+
+Đánh giá tập trung mở rộng bằn...
+
+Các video
+
+Cảnh báo và các lỗi thường gặp khi kiểm tra E-FAST
+
+Kiến thức về giải phẫu bề mặt và bên dưới là rất quan trọng trong việc xác định vị trí thích hợp ban đầu của đầu dò.
+
+Kiểm tra E-FAST bình thường không loại trừ chấn thương trong ổ bụng.
+
+Hãy lưu ý đến về các biến thể giải phẫu.
+
+Lời khuyên và thủ thuật trong kiểm tra E-FAST
+
+Giảm độ sáng đèn nếu có thể để giúp tăng độ tương phản và hỗ trợ điều chỉnh độ lợi.
+
+Giảm độ sâu khi chuyển từ chế độ xem tim sang chế độ xem bụng và sau đó sang chế độ xem lồng ngực.
+
+Hãy nhớ rằng không phải tất cả loại dịch đều xuất hiện phản âm (ví dụ, máu đông có thể có phản âm hỗn hợp).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định kiểm tra E-FAST ---
+
+Đánh giá chấn thương, tụt huyết áp và/hoặc sốc không rõ căn nguyên ở bệnh nhân chấn thương để xác định nhu cầu can thiệpĐánh giá hạ huyết áp hoặc sốc không rõ nguyên nhân ở bệnh nhân không bị chấn thươngĐể xác định vỡ thai ngoài tử cung
+
+--- 2. Chống chỉ định kiểm tra E-FAST ---
+
+Chống chỉ định tuyệt đốiLàm sáng tỏ nhu cầu chăm sóc dứt điểm nhạy cảm với thời gian (sẽ bị trì hoãn bằng cách làm siêu âm)Chống chỉ định tương đốikhông
+
+--- 3. Các biến chứng của kiểm tra E-FAST ---
+
+Siêu âm là một thủ thuật không xâm lấn, do đó khó có thể xảy ra các biến chứng do thủ thuật.
+
+--- 4. Thiết bị trong kiểm tra E-FAST ---
+
+Máy siêu âm tại giườngĐầu dò tần số thấp (ví dụ, 2 đến 5 MHz) (đầu dò), hoặc mảng cong hoặc mảng theo pha*Đầu dò tuyến tính tần số cao (ví dụ, 5 đến 10 MHz), để kiểm tra màng phổiGel siêu âm (không vô trùng) hoặc chất bôi trơn phẫu thuật có nướcGăng tay, để che đầu thăm dò (hàng rào bảo vệ)* Đầu dò mảng theo pha thường được ưu tiên với E-FAST vì chân nhỏ của nó có thể dễ dàng được đặt giữa các xương sườn hơn.
+
+--- 5. Những cân nhắc bổ sung cho kiểm tra E-FAST ---
+
+Kiểm tra E-FAST cần phải được hoàn tất trong<5 phút.Túi màng ngoài tim được đánh giá đầu tiên, đặc biệt là sau chấn thương xuyên thấu, vì dịch màng ngoài tim sau chấn thương có thể đe dọa tính mạng ngay lập tức và thay thế cho việc điều trị các chấn thương khác.Kiểm tra E-FAST tối đa hóa độ nhạy bằng các vị trí phụ thuộc vào hình ảnh trong khoang phúc mạc, nơi ưu tiên cho ứ đọng dịch. Dịch này xuất hiện dưới dạng các vùng không dội âm (màu đen) lấp đầy các khoảng trống tiềm ẩn. Việc kiểm tra cũng tập trung vào giao diện giữa các tạng đặc để tối đa hóa khả năng hiển thị dịch.
+
+--- 6. Xác định tư thế trong kiểm tra E-FAST ---
+
+Bệnh nhân nằm ngửa.Người vận hành đứng ở bên cạnh gần bụng bệnh nhân. (Theo truyền thống, người vận hành được hướng dẫn là phải ở phía bên phải của bệnh nhân để có thể sử dụng tay phải, nhưng vị trí này là không cần thiết và vị trí của người điều hành có thể dựa trên sở thích của người vận hành.)Nếu có điều kiện, bệnh nhân có thể được để ở tư thế Trendelenburg khoảng 5 độ để tăng độ nhạy trong việc phát hiện dịch màng bụng vùng hạ sườn phải.
+
+--- 7. Giải phẫu liên quan trong kiểm tra E-FAST ---
+
+Rãnh quanh đại tràng phải sâu hơn và ít bị cản trở hơn bên trái. Dịch ưu tiên chảy sang bên phải. Vì vậy, khu vực này nên được đánh giá đầu tiên trong khoang phúc mạc (thông thường là sau khi màng tim đã được chụp ảnh).Một khoảng trống tiềm ẩn được hình thành do phản xạ của phúc mạc từ trực tràng đến bàng quang ở nam hoặc từ trực tràng đến tử cung ở nữ. Dịch ưu tiên chảy vào khu vực này từ các rãnh bên phải hoặc bên trái. Khung chậu là một trong những phần phụ thuộc và dễ hiển thị hình ảnh nhất của khoang phúc mạc; do đó, các chỗ ứ đọng dịch có thể nhìn thấy ở đây sớm hơn so với các khu vực khác.
+
+--- 8. Mô tả từng bước về kiểm tra E-FAST ---
+
+Sử dụng đầu dò cong hoặc đầu dò mảng theo pha.Định hướng đầu dò tiêu chuẩn:Đảm bảo rằng hình ảnh trên màn hình tương quan với hướng không gian của đầu dò khi bạn cầm và di chuyển nó. Điểm đánh dấu định hướng của đầu dò tương ứng với điểm đánh dấu trên màn hình siêu âm. Điều chỉnh cài đặt màn hình và vị trí đầu dò nếu cần để đạt được hướng trái-phải chính xác. Theo truyền thống, khi thu được hình ảnh để kiểm tra E-FAST, hãy định vị điểm đánh dấu hướng đầu dò ở phía bên phải của bệnh nhân và kiểm tra xem điểm đánh dấu trên màn hình siêu âm có nằm ở góc trên bên trái của màn hình hay không.Phủ gel siêu âm lên đầu dò, kéo găng tay hoặc vỏ bọc đầu dò thật chặt lên đầu dò để loại bỏ tất cả bọt khí và cố định găng tay/vỏ bọc vào đúng vị trí (ví dụ: bằng dây cao su).Phủ một lớp gel lên đầu dò đã được che phủ; việc sử dụng gel không đầy đủ sẽ hạn chế tầm nhìn về giải phẫu liên quan.Xem màng ngoài tim (tim)Phần tim của kiểm tra E-FAST tìm kiếm tràn máu màng ngoài tim, trong chấn thương, dễ bị tổn thương nhất ở vị trí dưới mũi ức.** CHÚ Ý: Định hướng tim mạch thông thường ngược lại với tất cả các lần quét khác với điểm đánh dấu ở phía bên phải của màn hình. Khi thu được các chế độ xem trục ngắn, dấu định hướng của đầu dò sẽ nằm ở phía bên trái của bệnh nhân và khi lấy các chế độ xem trục dài, dấu định hướng của đầu dò sẽ hướng về phía đầu của bệnh nhân.Khi sử dụng thuốc cấp cứu hoặc định hướng X-quang, giữ đầu dò nằm ngang ở vùng dưới sườn gần như song song với da và chỉ hướng về bên trái xương ức của bệnh nhân và hướng về phía đầu. Điểm đánh dấu định hướng đầu dò phải ở phía bên phải của bệnh nhân.Di chuyển đầu dò xa hơn về bên phải của bệnh nhân; bờ gan sẽ xuất hiện, làm cho thùy trái của gan có thể được sử dụng như một cửa sổ âm thanh.Giữ đầu dò trên da của bệnh nhân và nhẹ nhàng đẩy nó xuống, hướng nó vào giữa đầu và vai trái của bệnh nhân.Di chuyển đầu dò càng cao vào không gian dưới mũi ức càng tốt.Trên màn hình siêu âm, từ trên xuống dưới, quan sát gan, tâm thất phải và tâm thất trái. Tâm thất phải tiếp giáp với gan vì nó ở phía trước hơn tâm thất trái. 2 tâm thất ở trên và ở bên phải màn hình và tâm nhĩ ở dưới và ở bên trái.Để cải thiện hình ảnh, hãy tăng cài đặt độ sâu đầu dò trên bảng điều khiển hoặc đưa tim đến gần đầu dò hơn bằng cách cho bệnh nhân hít thở sâu.Dịch màng ngoài tim xuất hiện là một khoảng đen (giảm âm) giữa các đường trắng của màng ngoài tim.Tràn dịch màng phổi có thể bị nhầm lẫn với tràn dịch màng ngoài tim và có thể được phân biệt bởi sự xuất hiện của nó phía sau động mạch chủ đi xuống chế độ xem trục dài của tim.Mỡ màng ngoài tim cũng có thể bị nhầm lẫn với dịch màng ngoài tim. Các miếng mỡ màng ngoài tim có vẻ bằng phẳng nhưng di chuyển theo tim trái ngược với dịch màng ngoài tim, dịch này đứng yên.Chế độ xem quanh gan (góc phần tư trên bên phải)Di chuyển đầu dò sang góc phần tư trên bên phải, để xác định dịch tự do trong khoang màng bụng.Đặt đầu dò vào khoang liên sườn thứ 10 hoặc 11, ngay trước đường giữa của nách. Trỏ điểm đánh dấu định hướng đầu dò về phía đầu. Để loại bỏ bóng của xương sườn, hãy xoay đầu dò và nhìn giữa các xương sườn.Hình ảnh mặt phân giới (khoảng trống tiềm ẩn) giữa thận phải và gan, được gọi là túi Morison. Nếu chỉ có thể nhìn thấy thận, hãy trượt đầu dò về phía đầu dọc theo đường nách giữa mỗi lần một khoang gian sườn cho đến khi nhìn thấy gan. Nếu chỉ nhìn thấy gan, hãy trượt đầu dò về phía cuối cơ thể mỗi lần một khoang gian sườn cho đến khi nhìn thấy thận. Những người mới bắt đầu thường đặt đầu dò quá về phía trước trên bụng; Sau đó trượt đầu dò ra sau có thể giúp hiển thị hình ảnh thận.Ở góc nhìn phần tư trên bên phải, túi Morison là vị trí phổ biến nhất để hiển thị hình ảnh dịch tự do. Quét toàn bộ chiều dài của thận để tránh bỏ sót một ổ tích tụ dịch nhỏ.Di chuyển đầu dò để tìm tràn máu màng phổi. Cơ hoành xuất hiện như một đường cong màu trắng sáng với gan ở bên phải và phổi bình thường ở bên trái. Phổi bình thường phân tán sóng siêu âm và xuất hiện như "tuyết".Tràn máu màng phổi có biểu hiện là tăng âm. Ngoài ra, đường gai, có thể nhìn thấy ở dưới cùng của màn hình, sẽ tiếp tục đi qua cơ hoành và vào ngực. Máu trong nửa lồng ngực có tác dụng như một cửa sổ âm thanh cho phép hiển thị hình ảnh cột sống. Dấu hiệu này được gọi là sự tiếp tục bất thường của đường gai ("dấu hiệu gai") và không xảy ra trong trường hợp không có tràn máu màng phổi, vì không khí trong phổi phân tán sóng siêu âm, che khuất hình ảnh của đường gai.Chế độ xem quanh lách (góc phần tư trên bên trái)Di chuyển đầu dò sang góc phần tư trên bên trái để xác định dịch tự do trong khoang màng bụng.Thận trái nằm hơi ở phía sau và về phía đầu hơn thận phải một chút, do đó, đặt đầu dò trên đường nách sau giữa khoang liên sườn thứ 9 và thứ 10 với điểm đánh dấu định hướng đầu dò về phía đầu.Góc phần tư trên bên trái là hình ảnh phản chiếu của bên phải, lách xuất hiện ở đầu màn hình, cơ hoành ở bên trái và thận ở bên phải.Dịch có nhiều khả năng đọng lại xung quanh lách hơn là giữa lách và thận, và dịch ở phần tư trên bên trái thường biểu thị chấn thương lách.Một lần nữa, đánh giá tình trạng tràn máu màng phổi bằng cách tìm dịch ứ đọng trên cơ hoành và sự tiếp tục bất thường của đường gai.Chế độ xem khung chậu (trên khớp mu)Di chuyển đầu dò đến khung chậu. Vị trí này nhạy cảm nhất để phát hiện dịch trong khoang màng bụng.Đặt đầu dò ngay phía trên của khớp mu theo hướng ngang với điểm đánh dấu định hướng của đầu dò ở bên phải bệnh nhân. Nghiêng đầu dò xuống khung chậu và giữ nó ở đường giữa. Bây giờ quét toàn bộ bàng quang từ trên xuống dưới để xác định dịch tự do.Tiếp theo, xoay đầu dò 90 độ theo chiều kim đồng hồ để điểm đánh dấu định hướng đầu dò hướng về phía đầu. Trong chế độ xem đứng dọc (dọc) này, tiếp tục quét đầu dò từ phải sang trái để đánh giá toàn bộ bàng quang.Có thể nhìn thấy bàng quang phía trước và giảm âm vì nó chứa đầy dịch. Ở một bệnh nhân nam, dịch có nhiều khả năng tích tụ trong túi trực tràng bàng quang, giữa bàng quang và trực tràng. Ở một bệnh nhân nữ, dịch rất có thể tích tụ trong túi tử cung bàng quang, giữa bàng quang và tử cung. Đu đưa từ từ đầu dò từ bên này sang bên kia sẽ làm tăng độ nhạy của quá trình khám.Xem lồng ngựcĐánh giá màng phổi để xác địnhtràn khí màng phổi.Sử dụng một đầu dò tuyến tính (tần số cao, độ phân giải cao, thâm nhập nông).Giữ đầu dò vuông góc với xương sườn, điểm đánh dấu định hướng đầu dò hướng về phía đầu; bắt đầu xung quanh khoang liên sườn thứ 3 hoặc thứ 4 ở đường giữa xương đòn. Cần lấy thêm các hình ảnh.Để tăng độ nhạy của quá trình khám, hình ảnh bề mặt màng phổi ở một số vị trí dọc theo cả thành ngực trước và ngoài.Trong chấn thương, khi bệnh nhân thường nằm ngửa, cử động cột sống bị hạn chế, nơi dễ phát hiện tràn khí màng phổi nhất là phía trước. Tuy nhiên, bệnh nhân có thể bị tràn khí màng phổi bên riêng biệt. Vì vậy, điều quan trọng là phải xem nhiều vị trí của phổi.Giữ đầu dò vuông góc với xương sườn. Một chiếc xương sườn sẽ đổ bóng đằng sau nó. Đường màng phổi (màu trắng) có thể nhìn thấy được. Ba dấu hiệu bình thường là xương sườn trượt, đuôi sao chổi và đường A.– Xương sườn trượt sẽ xuất hiện dưới dạng độ vang âm hỗn hợp mờ, dạng hạt bên dưới đường màng phổi. Nó đôi khi được gọi là "kiến trên một khúc gỗ". Ở chế độ M, dạng hạt bên dưới đường màng phổi xuất hiện như cát trên bãi biển và được gọi là "dấu hiệu bờ biển".– Đuôi sao chổi xuất hiện dưới dạng hình chiếu xuống từ đường màng phổi, di chuyển theo chiều dọc.– Các đường A dạng phản ánh giả tạo của đường màng phổi xảy ra ở khoảng nửa đường giữa đường màng phổi và phần dưới của màn hình.Nếu tràn khí màng phổi ở một bệnh nhân chấn thương, sẽ không có chuyển động trượt ở đường màng phổi, không có đuôi sao chổi và không có đường A.Nếu không chắc chắn có phổi trượt, hãy sử dụng chế độ M trên vùng màng phổi đó. Ở chế độ M, dấu hiệu bờ biển bình thường sẽ không xuất hiện. Thay vào đó, cái gọi là "ký hiệu mã vạch" sẽ hiển thị, nó xuất hiện dưới dạng nhiều đường ngang từ trên cùng đến dưới cùng của màn hình.FAST mở rộng (Đánh giá khoang màng phổi)Vị trí đầu dò vuông góc với sườnĐầu dò cần phải được đặt vuông góc với xương sườn. Cũng lưu ý rằng phải trỏ điểm đánh dấu định hướng của đầu dò về phía đầu.... đọc thêmBản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.Hình ảnh siêu âm của xương sườn và đường màng phổiXương sườn (mũi tên màu vàng) xuất hiện dưới dạng cấu trúc âm tăng (màu trắng) có bóng mờ bên dưới xương sườn. Đường màng phổi (mũi tên màu đỏ) hiện rõ ở khoang liên sườn.... đọc thêmBản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.Đường màng phổi bình thườngĐường màng phổi có âm tăng (mũi tên màu đỏ). Trong quá trình hô hấp, quá trình trượt của xương sườn sẽ làm cho đường màng phổi lung linh và tạo ra hình ảnh giống như “đàn kiến đang đi trên một khúc gỗ” khi được hiển thị hình ảnh trong video theo thời gian thực (mũi tên màu xanh lá cây). Các đường chữ A (mũi tên màu vàng) xuất hiện do phản xạ ảnh giả của sóng siêu âm.... đọc thêmBản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.Vị trí đầu dò vuông góc với sườnĐầu dò cần phải được đặt vuông góc với xương sườn. Cũng lưu ý rằng phải trỏ điểm đánh dấu định hướng của đầu dò về phía đầu.... đọc thêmBản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.Hình ảnh siêu âm của xương sườn và đường màng phổiXương sườn (mũi tên màu vàng) xuất hiện dưới dạng cấu trúc âm tăng (màu trắng) có bóng mờ bên dưới xương sườn. Đường màng phổi (mũi tên màu đỏ) hiện rõ ở khoang liên sườn.... đọc thêmBản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.Đường màng phổi bình thườngĐường màng phổi có âm tăng (mũi tên màu đỏ). Trong quá trình hô hấp, quá trình trượt của xương sườn sẽ làm cho đường màng phổi lung linh và tạo ra hình ảnh giống như “đàn kiến đang đi trên một khúc gỗ” khi được hiển thị hình ảnh trong video theo thời gian thực (mũi tên màu xanh lá cây). Các đường chữ A (mũi tên màu vàng) xuất hiện do phản xạ ảnh giả của sóng siêu âm.... đọc thêmBản quyền của Hospital Procedures Consultants, tại www.hospitalprocedures.org.Đánh giá tập trung mở rộng bằn...Các video
+
+--- 9. Cảnh báo và các lỗi thường gặp khi kiểm tra E-FAST ---
+
+Kiến thức về giải phẫu bề mặt và bên dưới là rất quan trọng trong việc xác định vị trí thích hợp ban đầu của đầu dò.Kiểm tra E-FAST bình thường không loại trừ chấn thương trong ổ bụng.Hãy lưu ý đến về các biến thể giải phẫu.
+
+--- 10. Lời khuyên và thủ thuật trong kiểm tra E-FAST ---
+
+Giảm độ sáng đèn nếu có thể để giúp tăng độ tương phản và hỗ trợ điều chỉnh độ lợi.Giảm độ sâu khi chuyển từ chế độ xem tim sang chế độ xem bụng và sau đó sang chế độ xem lồng ngực.Hãy nhớ rằng không phải tất cả loại dịch đều xuất hiện phản âm (ví dụ, máu đông có thể có phản âm hỗn hợp).

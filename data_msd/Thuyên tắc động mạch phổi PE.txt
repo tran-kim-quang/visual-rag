@@ -1,0 +1,2511 @@
+TIÊU ĐỀ: Thuyên tắc động mạch phổi (PE)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-chức-năng-hô-hấp/thuyên-tắc-mạch-phổi/thuyên-tắc-động-mạch-phổi-pe
+================================================================================
+
+NỘI DUNG:
+
+Thuyên tắc động mạch phổi (PE)
+
+Theo
+
+Todd M. Bull
+
+,
+
+MD
+
+,
+
+University of Colorado, Pulmonary and Critical Care;
+
+Peter Hountras
+
+,
+
+MD
+
+,
+
+University of Colorado
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 11 2024
+
+|
+
+đã sửa đổi
+
+Thg 3 2025
+
+v915335_vi
+
+Thuyên tắc động mạch phổi (PE) là tắc nghẽn nhánh động mạch phổi do huyết khối xuất phát từ nơi khác, điển hình là ở tĩnh mạch lớn ở chân hoặc khung chậu. Các yếu tố nguy cơ gây thuyên tắc động mạch phổi là các bệnh lý làm suy giảm sự đàn hổi của tĩnh mạch, các bệnh lý gây tổn thương hoặc rối loạn chức năng nội mạc mạch máu, và tình trạng tăng đông. Các triệu chứng thuyên tắc động mạch phổi không đặc hiệu bao gồm khó thở, đau ngực kiểu màng phổi, trong các trường hợp nặng hơn là nhức đầu, mệt xỉu, ngất, hoặc ngừng tim. Các dấu hiệu cũng không đặc hiệu và có thể bao gồm thở nhanh, nhịp tim nhanh và trong trường hợp nghiêm trọng hơn là hạ huyết áp. Chẩn đoán thuyên tắc động mạch phổi được thực hiện phổ biến nhất là bằng chụp CT mạch máu, mặc dù đôi khi cần phải chụp cắt lớp thông khí/tưới máu. Điều trị thuyên tắc phổi bằng thuốc chống đông máu và đôi khi làm tan cục máu đông bằng phương pháp tiêu huyết khối đường toàn thân hoặc qua ống thông hoặc bằng cách loại bỏ cục máu đông thông qua việc lấy cục nghẽn bằng ống thông hút hoặc phẫu thuật cắt bỏ. Khi có chống chỉ định dùng thuốc chống đông máu, có thể cần cân nhắc sử dụng bộ lọc tĩnh mạch chủ dưới (IVC) cho đến khi tiếp tục dùng thuốc chống đông máu. Các biện pháp phòng ngừa bao gồm vận động sớm, dùng thuốc chống đông máu và ở những bệnh nhân nhập viện, đôi khi dùng các thiết bị nén cơ học áp vào chân.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị chung
+
+|
+
+Chống đông
+
+|
+
+Giảm nhanh tác động của huyết khối
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Tỷ lệ bị thuyên tắc mạch phổi ước tính hàng năm trên toàn thế giới là khoảng 1/1000 người (
+
+1
+
+). Có tới 20% số người có chẩn đoán bị PE cấp tính sẽ tử vong trong 90 ngày tới (
+
+2
+
+). Tuy nhiên, nguyên nhân tử vong thường không phải do PE mà là do tình trạng bệnh lý nền làm tăng nguy cơ bị PE. Từ 30% đến 50% số bệnh nhân có PE mô tả những hạn chế về chức năng và vận động cho đến một năm sau khi có biến cố, được gọi là hội chứng sau PE (
+
+3
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Kahn SR, de Wit K
+
+. Pulmonary Embolism.
+
+N Engl J Med
+
+2022;387(1):45-57. doi:10.1056/NEJMcp2116489
+
+2.
+
+Lehnert P, Lange T, Møller CH, Olsen PS, Carlsen J
+
+. Acute Pulmonary Embolism in a National Danish Cohort: Increasing Incidence and Decreasing Mortality.
+
+Thromb Haemost
+
+2018;118(3):539-546. doi:10.1160/TH17-08-0531
+
+3.
+
+Kahn SR, Hirsch AM, Akaberi A, et al
+
+. Functional and Exercise Limitations After a First Episode of Pulmonary Embolism: Results of the ELOPE Prospective Cohort Study.
+
+Chest
+
+2017;151(5):1058-1068. doi:10.1016/j.chest.2016.11.030
+
+Căn nguyên của thuyên tắc động mạch phổi
+
+Gần như tất cả các cục nghẽn động mạch phổi phát sinh từ huyết khối tĩnh mạch của chân hoặc khung chậu (
+
+huyết khối tĩnh mạch sâu
+
+). Nguy cơ thuyên tắc cao hơn với huyết khối đi đến tĩnh mạch từ tĩnh mạch khoeo trở lên. Huyết khối cũng có thể bắt nguồn từ tĩnh mạch cánh tay hoặc tĩnh mạch trung tâm ở ngực (do đặt ống thông tĩnh mạch trung tâm hoặc do hậu quả của hội chứng lối thoát ngực) gây ra.
+
+Thuyên tắc mạch phổi cũng có thể phát sinh từ
+
+các nguồn không phải do huyết khối
+
+(ví dụ: tắc mạch do khí, nước ối, mỡ, chất liệu bị nhiễm trùng, xi măng chỉnh hình, dị vật, khối u).
+
+Yếu tố nguy cơ cho huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi (xem bảng:
+
+Yếu tố nguy cơ của huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi
+
+) là tương tự ở trẻ em và người lớn và bao gồm
+
+Các tình trạng làm ảnh hưởng đến sự hồi phục của tĩnh mạch, bao gồm nghỉ ngơi tại giường và không đi lại
+
+Các tình trạng gây tổn thương hoặc rối loạn chức năng nội mô như chấn thương hoặc phẫu thuật
+
+Rối loạn tăng đông (ưa huyết khối) tiềm ẩn như ung thư hoặc
+
+rối loạn đông máu nguyên phát
+
+COVID-19
+
+có thể là một yếu tố nguy cơ gây huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi do tình trạng tăng đông gây ra huyết khối mạch máu lớn và thuyên tắc huyết khối (
+
+1
+
+).
+
+Bảng
+
+Các yếu tố nguy cơ đối với huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi
+
+Bảng
+
+Các yếu tố nguy cơ đối với huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi
+
+Các yếu tố nguy cơ đối với huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi
+
+Tuổi > 60 tuổi
+
+Ung thư và
+
+ung thư tăng sinh tủy
+
+Một số loại thuốc hóa trị liệu (ví dụ, bevacizumab, thalidomide)
+
+Điều hòa hormone
+
+Estrogen
+
+Các chất điều hòa thụ thể Estrogen (ví dụ, raloxifene, tamoxifen)
+
+Estrogen
+
+và progestins ngoại sinh, bao gồm thuốc ngừa thai đường uống và trị liệu
+
+estrogen
+
+Testosterone
+
+ngoại sinh
+
+Suy tim
+
+Bất động/giảm di chuyển (ví dụ, đi xe kéo dài, đi máy bay)
+
+Đặt catheter tĩnh mạch
+
+Nhiễm trùng (tức là nguyên nhân gây ra tình trạng bất động và phản ứng viêm toàn thân;
+
+SARS-CoV-2
+
+xuất hiện tiền huyết khối)
+
+Hội chứng thận hư
+
+Béo phì
+
+Thời kỳ mang thai/sau sinh
+
+Thuyên tắc huyết khối trước đó
+
+Bệnh hồng cầu hình liềm
+
+Hút thuốc
+
+Đột quỵ
+
+Rối loạn tăng đông (thrombophilias)
+
+Hội chứng kháng phospholipid
+
+Thiếu Antithrombin
+
+Đột biến yếu tố V Leiden,
+
+gây ra sự kháng yếu tố protein C hoạt hóa
+
+Giảm tiểu cầu do heparin
+
+Các khiếm khuyết ly giải fibrin di truyền
+
+Tăng homocystine
+
+Tăng nồng độ yếu tố VIII
+
+Tăng nồng độ yếu tố XI
+
+Tăng nồng độ
+
+yếu tố von Willebrand
+
+Đái huyết sắc tố kịch phát ban đêm
+
+Thiếu Protein C
+
+Thiếu Protein S
+
+Biến thể gen Prothrombin G20210A
+
+Sự thiếu hụt hoặc rối loạn chức năng chất ức chế theo con đường yếu tố tổ chức
+
+Chấn thương/phẫu thuật
+
+Các tình trạng khác liên quan đến giảm vận động, tổn thương tĩnh mạch hoặc tăng đông
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Poor HD
+
+. Pulmonary Thrombosis and Thromboembolism in COVID-19.
+
+Chest
+
+2021;160(4):1471-1480. doi:10.1016/j.chest.2021.06.016
+
+Sinh lý bệnh của thuyên tắc động mạch phổi
+
+Khi huyết khối tĩnh mạch sâu phát triển, cục máu đông có thể bị đẩy ra và di chuyển qua hệ thống tĩnh mạch và tim phải để cư trú trong các động mạch phổi, nơi chúng bít tắc một phần hoặc toàn bộ một hoặc nhiều mạch máu. Hậu quả phụ thuộc vào kích cỡ và số lượng của cục nghẽn, tình trạng cơ bản của phổi, chức năng tâm thất phải (RV), và khả năng của hệ thống tan huyết khối nội tại để làm tan cục máu đông. Tử vong khi xảy ra thường là do suy thất phải.
+
+Các cục nghẽn nhỏ có thể không gây ảnh hưởng sinh lý cấp tính và có thể bắt đầu tiêu đi nhanh chóng và được giải quyết trong vòng vài giờ hoặc vài ngày. Các cục nghẽn lớn hơn có thể gây ra
+
+Tăng thông khí phản xạ (thở nhanh)
+
+Hạ oxy máu do thông khí/tưới máu (V/Q) không phù hợp
+
+Hàm lượng oxy tĩnh mạch hỗn hợp thấp do lưu lượng tim thấp
+
+Xẹp phổi
+
+do tình trạng giảm CO2 phế nang và bất thường về chất hoạt động bề mặt
+
+Tăng sức cản mạch máu phổi do tắc nghẽn cơ học và co mạch dẫn đến nhịp tim nhanh và hạ huyết áp
+
+Sự tiêu bào nội sinh làm giảm hầu hết các cục nghẽn, ngay cả những cục nghẽn kích thước vừa phải, và sự thay đổi về sinh lý giảm đi qua nhiều giờ hoặc nhiều ngày. Một số cục nghẽn chống lại quá trình ly giải và có thể tổ chức và tồn tại và đôi khi gây tăng áp động mạch phổi do thuyên tắc huyết khối mạn tính (CTEPH).
+
+Cục nghẽn phổi có thể được phân loại theo các tác động sinh lý theo mô tả của Hiệp hội Tim mạch Châu Âu/Hiệp hội Tim mạch Hoa Kỳ (
+
+1
+
+) thành các loại sau:
+
+Nguy cơ cao (khối): Giảm chức năng tâm thất phải gây tụt huyết áp, được xác định bởi huyết áp tâm thu < 90 mmHg hoặc tụt huyết áp tâm thu ≥ 40 mm Hg so với lần khám ban đầu trong thời gian 15 phút
+
+Nguy cơ trung bình (khối phụ): Suy giảm chức năng tâm thất phải không có hạ huyết áp. Điều này được chứng minh bằng phì đại thất phải và/hoặc giảm chức năng vận động trên chẩn đoán hình ảnh (ví dụ: chụp CT mạch, siêu âm tim) cũng như bằng tình trạng tăng các chất chỉ điểm sinh học hệ tuần hoàn (ví dụ: troponin, peptide natriuretic não). Lưu ý rằng Hiệp hội Tim mạch Châu Âu định nghĩa thuyên tắc phổi có nguy cơ trung bình là những bệnh nhân có chỉ số mức độ thuyên tắc động mạch phổi đơn giản (sPESI) > 0, do đó bao gồm cả những bệnh nhân có các bệnh lý hoặc dấu hiệu khác, chẳng hạn như tuổi > 80, tiền sử ung thư, bệnh phổi mạn tính, nhịp tim nhanh (nhịp tim > 110), hạ huyết áp (huyết áp tâm thu < 100 mmHg) và giảm oxy máu (độ bão hòa oxyhemoglobin động mạch < 90%) (
+
+1
+
+,
+
+2
+
+). Thuyên tắc mạch phổi nguy cơ trung bình có thể được chia thành nguy cơ cao trung bình (có rối loạn chức năng tâm thất phải theo chẩn đoán hình ảnh
+
+và
+
+chất chỉ điểm sinh học trong hệ tuần hoàn tăng cao) và nguy cơ thấp trung bình (có rối loạn chức năng tâm thất phải theo chẩn đoán hình ảnh
+
+hoặc
+
+tăng chất chỉ điểm sinh học trong hệ tuần hoàn).
+
+Nguy cơ thấp: Không có suy thất phải và không có hạ huyết áp (và theo Hiệp hội Tim mạch Châu Âu, điểm sPESI = 0)
+
+Thuyên tắc phổi vùng yên ngựa
+
+mô tả thuyên tắc mạch phổi nằm ở chỗ phân nhánh của động mạch phổi chính và vào động mạch phổi phải và động mạch phổi trái; thuyên tắc ở vùng yên ngựa thường, nhưng không phải luôn luôn, có nguy cơ trung bình hoặc nguy cơ cao. Hình dạng yên ngựa không quy định một phương pháp điều trị cụ thể. Mặc dù cục nghẽn hình yên ngựa thường có kích thước lớn, gây tắc nghẽn gần như hoàn toàn hoặc hoàn toàn, nhưng cục nghẽn đó cũng có thể tương đối mỏng và không gây tắc nghẽn.
+
+Trong 1% đến 3% số trường hợp thuyên tắc  động mạch phổi, tình trạng tắc nghẽn mạn tính còn lại dẫn đến
+
+tăng áp động mạch phổi
+
+(tăng áp động mạch phổi do huyết khối mạn tính) tiến triển trong nhiều tháng đến nhiều năm và có thể dẫn đến suy tim phải mạn tính (
+
+3
+
+).
+
+Khi một cục nghẽn lớn làm tắc nghẽn cấp tính các động mạch phổi lớn hoặc khi nhiều cục nghẽn nhỏ hơn kết hợp lại làm tắc nghẽn một tỷ lệ đáng kể các mạch máu đầu xa hơn, áp lực RV tăng lên, có thể dẫn đến
+
+suy RV cấp tính
+
+,
+
+sốc
+
+hoặc tử vong đột ngột. Nguy cơ tử vong phụ thuộc vào mức độ và tốc độ tăng áp lực tim phải và tình trạng tim phổi nền của bệnh nhân. Bệnh nhân mắc bệnh tim phổi trước đó có nguy cơ tử vong cao hơn, nhưng những bệnh nhân trẻ và/hoặc khỏe mạnh khác có thể sống sót thậm chí khi tắc mạch phổi có bít tắc > 50% số giường động mạch phổi.
+
+Nhồi máu phổi do PE đôi khi được biểu hiện bằng hình ảnh hình nêm ở màng phổi trên phim chụp X-quang ngực hoặc các phương thức chẩn đoán hình ảnh khác. Tỷ lệ thấp này là do cung cấp máu kép cho phổi (ví dụ như phế quản và phổi). Nói chung, nhồi máu phổi là do thuyên tắc nhỏ hơn bị kẹt ở các động mạch phổi ở xa hơn và gần như luôn hồi phục hoàn toàn; nhồi máu phổi được phát hiện sớm, thường là trước khi hoại tử xảy ra.
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Konstantinides SV, Meyer G, Becattini C, et al
+
+: 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS).
+
+Eur Heart J
+
+2020;41(4):543-603. doi:10.1093/eurheartj/ehz405
+
+2.
+
+Jiménez D, Aujesky D, Moores L, et al
+
+: Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism.
+
+Arch Intern Med
+
+2010;170(15):1383-1389. doi:10.1001/archinternmed.2010.199
+
+3.
+
+Ende-Verhaar YM, Cannegieter SC, Vonk Noordegraaf A, et al
+
+: Incidence of chronic thromboembolic pulmonary hypertension after acute pulmonary embolism: a contemporary view of the published literature.
+
+Eur Respir J
+
+2017;49(2):1601792. doi:10.1183/13993003.01792-2016
+
+Các triệu chứng và dấu hiệu của thuyên tắc động mạch phổi
+
+Nhiều cục nghẽn động mạch phổi nhỏ, sinh lý không đặc hiệu và không có triệu chứng. Ngay cả khi xuất hiện, các triệu chứng không đặc hiệu và khác nhau về tần suất và cường độ, phụ thuộc vào mức độ tắc nghẽn mạch máu phổi và chức năng tim phổi trước đó.
+
+Cục nghẽn thường gây ra
+
+Khó thở cấp tính
+
+Đau ngực kiểu màng phổi (khi có nhồi máu phổi)
+
+Khó thở có thể ở mức ít khi nghỉ ngơi và có thể tăng hơn trong suốt quá trình hoạt động.
+
+Các triệu chứng ít gặp hơn bao gồm:
+
+Ho (thường do bệnh lý đi kèm hoặc do giãn động mạch phổi)
+
+Ho máu (thỉnh thoảng xảy ra khi có nhồi máu phổi)
+
+Ở bệnh nhân lớn tuổi, triệu chứng đầu tiên có thể là thay đổi trạng thái tinh thần.
+
+Cục nghẽn động mạch phổi lớn có thể biểu hiện tụt huyết áp, nhịp tim nhanh, choáng váng/tiền ngất, ngất, hoặc ngừng tim.
+
+Các dấu hiệu phổ biến nhất của thuyên tắc động mạch phổi là
+
+Nhịp tim nhanh
+
+Thở nhanh
+
+Ít phổ biến hơn, bệnh nhân có hạ huyết áp.
+
+Có thể có tiếng tim thứ hai to (S2) do thành phần van động mạch phổi lớn (P2) nhưng không phổ biến ở PE cấp tính vì áp lực động mạch phổi chỉ tăng ở mức không đáng kể. Có thể có tiếng ran hoặc thở khò khè, nhưng những âm thanh này thường là do bệnh lý đi kèm. Trong trường hợp có suy thất phải, có thể thấy rõ tĩnh mạch cảnh trong giãn và nhịp tim phải đập mạnh, và có thể nghe thấy tiếng phi nước đại của tim phải (tiếng tim thứ ba [S3]), có hoặc không có hở van ba lá.
+
+Sốt, nếu có, thường ở mức độ thấp trừ khi gây ra bởi tình trạng bệnh nền.
+
+Nhồi máu phổi thường được đặc trưng bởi đau ngực (chủ yếu là màng phổi) và thỉnh thoảng ho ra máu. Thành ngực có thể bị mềm.
+
+Tăng áp động mạch phổi do thuyên tắc huyết khối mạn tính gây ra các triệu chứng và dấu hiệu của suy tim phải, bao gồm khó thở, mệt mỏi, phù ngoại vi tiến triển trong nhiều tháng đến nhiều năm.
+
+Bệnh nhân có thuyên tắc động mạch phổi cấp tính cũng có thể có các triệu chứng
+
+huyết khối tĩnh mạch sâu
+
+(tức là, đau, sưng, và/hoặc ban đỏ ở chân hoặc cánh tay). Tuy nhiên, các triệu chứng ở chân như vậy thường không xuất hiện.
+
+Chẩn đoán thuyên tắc động mạch phổi
+
+Chỉ số nghi ngờ cao
+
+Đánh giá khả năng kiểm tra trước (dựa trên các dấu hiệu lâm sàng, bao gồm đo độ bão hòa oxy trong máu và chụp X-quang ngực)
+
+Thăm dò tiếp theo dựa trên xác suất bệnh trước test
+
+Khó chẩn đoán thuyên tắc động mạch phổi vì triệu chứng không đặc hiệu và các xét nghiệm chẩn đoán có độ nhạy, độ đặc hiệu không phải 100%. Điều quan trọng là cần nghĩ đến PE trong chẩn đoán phân biệt nếu gặp các triệu chứng không đặc hiệu, chẳng hạn như khó thở, đau ngực kiểu màng phổi, ho máu, nhức đầu, hoặc ngất. Vì vậy, PE nên được xem xét trong chẩn đoán phân biệt của bệnh nhân nghi ngờ
+
+Thiếu máu cơ tim
+
+Suy tim
+
+Cơn kịch phát của bệnh phổi tắc nghẽn mạn tính (COPD)
+
+Tràn khí màng phổi
+
+Viêm phổi
+
+Nhiễm khuẩn huyết
+
+Hội chứng ngực cấp
+
+tính (ở bệnh nhân bị bệnh hồng cầu hình liềm)
+
+Lo lắng cấp tính
+
+đi kèm tăng thông khí
+
+Nhịp tim nhanh không giải thích được là dấu hiệu có tính chất gợi ý. Thuyên tắc động mạch phổi cũng nên được xem xét ở bất kỳ bệnh nhân cao tuổi nào có tình trạng thở nhanh và thay đổi ý thức.
+
+Đánh giá ban đầu nên bao gồm đo độ bão hòa oxy trong máu và phim chụp X-quang ngực. Điện tâm đồ (ECG), đo khí máu động mạch (ABG) hoặc cả hai có thể giúp loại trừ các chẩn đoán khác (ví dụ:
+
+nhồi máu cơ tim cấp tính
+
+).
+
+Phim chụp X-quang ngực
+
+thường không đặc hiệu nhưng có thể cho thấy
+
+xẹp phổi
+
+, thâm nhiễm khu trú, nửa cơ hoành nhô cao hoặc tràn dịch màng phổi. Các dấu hiệu kinh điển về mất khu trú các dấu mạch máu (dấu hiệu Westermark), mật độ ngoại vi, hình nêm phát sinh từ màng phổi (bướu Hampton), hoặc mở rộng động mạch phổi phải xuống là dấu hiệu gợi ý nhưng không phổ biến (tức là không nhạy cảm) và có mức độ đặc hiệu thấp. Chụp X-quang ngực cũng có thể giúp loại trừ bệnh viêm phổi. Nhồi máu phổi do thuyên tắc động mạch phổi có thể bị nhầm lẫn với viêm phổi.
+
+Đo độ bão hòa oxy máu
+
+giúp nhanh chóng đánh giá tình trạng oxy hóa máu; giảm O2 máu là một dấu hiệu của PE, và cần thiết phải đánh giá thêm.
+
+Xét nghiệm khí máu
+
+cần phải được xem xét, đặc biệt đối với những bệnh nhân khó thở hoặc thở nhanh mà không phát hiện thấy tình trạng thiếu oxy bằng phương pháp đo độ bão hòa oxy trong máu.
+
+Đo khí máu động mạch
+
+có thể cho thấy sự chênh lệch giữa oxy phế nang và động mạch (A-a) tăng lên (đôi khi được gọi là gradient A-a) hoặc giảm CO2 máu. Đo độ bão hòa oxy trong mạch và xét nghiệm khí máu có độ nhạy vừa phải đối với PE, nhưng không đặc hiệu. Độ bão hòa oxy có thể bình thường do lượng cục máu đông nhỏ hoặc do tăng thông khí bù trừ; áp suất riêng phần carbon dioxide (PCO2) rất thấp được phát hiện khi đo khí máu động mạch có thể xác nhận tình trạng giảm thông khí.
+
+ECG
+
+thường cho thấy nhịp tim nhanh và các bất thường sóng ST-T khác nhau, không đặc hiệu cho thuyên tắc mạch phổi (xem hình
+
+ECG trong thuyên tắc mạch phổi
+
+). S1Q3T3 (sóng S ở chuyển đạo I, sóng Q ở chuyển đạo III, sóng T đảo ngược ở chuyển đạo III) hoặc blốc nhánh phải mới có thể cho thấy tác động của việc tăng đột ngột kích thước RV ảnh hưởng đến đường dẫn truyền RV; những phát hiện này có độ đặc hiệu vừa phải nhưng không nhạy cảm, chỉ xảy ra ở khoảng 5% số bệnh nhân, mặc dù những dấu hiệu này xảy ra ở tỷ lệ cao hơn ở những bệnh nhân có PE rất lớn. Có thể có lệch trục phải (R
+
+>
+
+S ở V1) và sóng P phế. Sóng T đảo ngược từ chuyển đạo V1 đến V4.
+
+Điện tâm đồ trong thuyên tắc mạch phổi
+
+ECG cho thấy nhịp tim nhanh xoang ở tốc độ 110 nhịp/phút, S1Q3T3 và R
+
+=
+
+S ở V1 trên bệnh nhân đã có chứng minh thuyên tắc động mạch phổi cấp tính.
+
+Công cụ tính toán lâm sàng
+
+A-a Gradient
+
+Xác suất lâm sàng
+
+Xác suất lâm sàng của thuyên tắc động mạch phổi có thể được đánh giá bằng cách kết hợp các dấu hiệu trên điện tâm đồ và trên phim chụp X-quang ngực kèm theo các dấu hiệu từ bệnh sử và khám thực thể. Điểm số dự đoán lâm sàng, chẳng hạn như điểm Wells hoặc điểm Geneva đã sửa đổi (
+
+1
+
+), hoặc quy tắc Tiêu chuẩn loại trừ thuyên tắc động mạch phổi (PERC), có thể hỗ trợ bác sĩ lâm sàng đánh giá khả năng có thuyên tắc động mạch phổi cấp tính. Các thang điểm dự đoán này dựa trên một loạt các yếu tố lâm sàng, với điểm tích luỹ tương ứng với xác suất của PE trước khi test (xác suất mắc bệnh trước test). Ví dụ, kết quả điểm Wells giúp phân loại khả năng có hoặc không có tắc mạch phổi. Điểm xác suất lâm sàng được nghiên cứu tốt nhất ở những bệnh nhân đến khoa cấp cứu thay vì những bệnh nhân đã nhập viện.
+
+Công cụ tính toán lâm sàng
+
+Điểm Geneva đã sửa đổi để ước tính xác suất lâm sàng của bệnh thuyên tắc động mạch phổi ở người lớn
+
+Công cụ tính toán lâm sàng
+
+Quy tắc PERC để đánh giá khả năng thuyên tắc động mạch phổi
+
+Một trong những tiêu chuẩn lâm sàng quan trọng là đánh giá xem PE có nhiều khả năng hơn một chẩn đoán thay thế hay không, và việc xác định này hơi chủ quan. Tuy nhiên, đánh giá lâm sàng của các bác sĩ lâm sàng có kinh nghiệm cũng nhạy cảm bằng hoặc thậm chí nhạy hơn kết quả từ các điểm dự đoán chính thức. Có lẽ nên xem xét khả năng bị PE cao hơn nếu một hoặc nhiều triệu chứng và dấu hiệu, đặc biệt là khó thở, ho ra máu, nhịp tim nhanh hoặc hạ oxy máu, không thể giải thích được bằng lâm sàng hoặc bằng kết quả chụp X-quang ngực.
+
+Xác suất trước khi thăm dò giúp hướng dẫn chiến lược kiểm tra và giải thích các kết quả thăm dò. Bệnh nhân không nghĩ đến khả năng tắc mạch phổi chỉ cần xét nghiệm bổ sung tối thiểu (ví dụ như xét nghiệm D-dimer). Trong những trường hợp như vậy, xét nghiệm D-dimer âm tính (
+
+<
+
+0,4 mcg/mL [
+
+<
+
+2,2 nmol/L]) là dấu hiệu cao cho thấy
+
+không có
+
+thuyên tắc động mạch phổi. Ngược lại, nếu lâm sàng nghi ngờ tắc mạch phổi cao và nguy cơ chảy máu thấp, bệnh nhân ngay lập tức được cho thuốc chống đông trong khi chẩn đoán được xác nhận bằng các xét nghiệm bổ sung.
+
+Quy tắc PERC quy định 8 tiêu chí. Sự hiện diện của tất cả các tiêu chuẩn này ở một bệnh nhân, dựa trên kết quả lâm sàng, có nguy cơ thấp chỉ ra rằng xét nghiệm PE không được chỉ định (
+
+2
+
+). Các tiêu chí là:
+
+Tuổi < 50 tuổi
+
+Nhịp tim < 100
+
+Độ bão hòa oxy ≥ 95%
+
+Không có huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổi trước đó
+
+Không có sưng chân một bên
+
+Không sử dụng
+
+estrogen
+
+Không ho ra máu
+
+Không có phẫu thuật hoặc chấn thương cần phải nằm viện trong vòng 4 tuần qua
+
+Sử dụng quy tắc PERC đã được khuyến nghị là một cách để giảm tỷ lệ xét nghiệm để xem có PE không bằng xét nghiệm thông thường sử dụng D-dimer, nhưng với tỷ lệ độ nhạy và giá trị dự đoán âm tương tự.
+
+Công cụ tính toán lâm sàng
+
+Khả năng PE: Thang điểm Wells
+
+Xét nghiệm chẩn đoán
+
+Sàng lọc bệnh nhân ngoại trú bằng xét nghiệm D-dimer nếu khả năng trước xét nghiệm thấp hoặc trung bình
+
+Nếu khả năng trước xét nghiệm cao hoặc nếu kết quả D-dimer tăng cao, chụp CT động mạch, hoặc nếu suy thận hoặc khi có chống chỉ định dùng thuốc cản quang CT, kèm theo chụp thông khí/tưới máu (V/Q)
+
+Đôi khi siêu âm chân hoặc cánh tay (để xác nhận huyết khối tĩnh mạch sâu khi chẩn đoán hình ảnh phổi bị trễ hoặc bị cấm)
+
+Không có phác đồ nào được chấp nhận rộng rãi để tiếp cận nghi ngờ thuyên tắc động mạch phổi cấp tính. Các xét nghiệm hữu ích nhất để chẩn đoán hoặc loại trừ PE là
+
+Xét nghiệm D-dimer
+
+Chụp CT mạch
+
+Chụp thông khí/tưới máu
+
+Siêu âm Doppler
+
+Siêu âm tim có thể hữu ích để xác định thuyên tắc mạch phổi trên đường đến phổi (cục máu đông trong quá trình vận chuyển) hoặc để tìm bằng chứng về rối loạn chức năng thất phải mới. Các dấu hiệu trên siêu âm tim có thể gợi ý thuyên tắc mạch phổi bao gồm dấu hiệu 60/60, là sự kết hợp giữa thời gian tăng tốc động mạch phổi < 60 mili giây với chênh lệch đỉnh tâm thu của van ba lá < 60 mm Hg (
+
+3
+
+) và dấu hiệu McConnell, dấu hiệu này là khả năng co bóp của thành tự do RV bị suy giảm so với đỉnh RV (
+
+4
+
+).
+
+D-Dimer
+
+là sản phẩm phụ của quá trình tiêu sợi huyết nội tại; do đó, nồng độ tăng cao xảy ra khi gần đây có huyết khối. Theo truyền thống, khi xác suất tiền xét nghiệm được coi là thấp hoặc trung bình, mức D-dimer âm tính (
+
+<
+
+0,4 mcg/mL [
+
+<
+
+2,2 nmol/L]) có độ nhạy cao đối với việc
+
+không có
+
+PE với giá trị dự báo âm tính > 95% (
+
+5
+
+); trong hầu hết các trường hợp, kết quả này đủ tin cậy để loại trừ chẩn đoán PE tại khoa cấp cứu hoặc phòng khám. Gần đây, dữ liệu đã chỉ ra rằng tuổi tác có thể làm tăng nồng độ D-dimer, điều này có thể gây ra kết quả xét nghiệm dương tính giả. Do đó, ở những bệnh nhân có xác suất PE trước xét nghiệm thấp hoặc trung bình và trên 50 tuổi, hệ số điều chỉnh phổ biến nhất là sử dụng giá trị ngưỡng của tuổi nhân với 10 tính bằng ng/mL. Tuy nhiên, nồng độ D-dimer tăng cao không đặc hiệu cho cục nghẽn tĩnh mạch vì nhiều bệnh nhân không có huyết khối tĩnh mạch sâu (DVT) hoặc PE cũng có mức độ tăng cao (đặc biệt ở những bệnh nhân nhập viện). Do đó, cần phải xét nghiệm thêm khi nồng D-dimer tăng cao hoặc khi xác suất PE trước xét nghiệm cao.
+
+Chụp CT mạch máu
+
+là kỹ thuật hình ảnh được ưu tiên để chẩn đoán thuyên tắc động mạch phổi cấp tính. Đây là phương pháp cho kết quả nhanh, chính xác, độ nhạy và đặc hiệu cao. Nó cũng có thể cung cấp thêm thông tin về các bệnh lý phổi khác (ví dụ, chứng minh viêm phổi là nguyên nhân gây ra giảm oxy hay đau ngực kiểu màng phổi nhiều hơn là tắc mạch phổi) cũng như mức độ nghiêm trọng của PE (ví dụ bằng kích thước của tâm thất phải hoặc trào ngược vào tĩnh mạch gan). Mặc dù chất lượng chụp kém do hiện tượng chuyển động hoặc lượng thuốc cản quang kém có thể hạn chế độ nhạy của xét nghiệm, công nghệ chụp CT cho phép thời gian chụp
+
+<
+
+2 giây, cung cấp hình ảnh tương đối không chuyển động ở những bệnh nhân khó thở. Thời gian quét nhanh cho phép sử dụng một lượng nhỏ các chất cản quang có chứa i-ốt làm giảm nguy cơ tổn thương thận cấp tính.
+
+Thuyên tắc động mạch phổi (CTA ngực)
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Victor F. Tapson cung cấp
+
+Độ nhạy của chụp CT động mạch là cao nhất đối với thuyên tắc mạch phổi ở động mạch phổi chính hoặc ở các mạch của thùy hoặc phân thùy phổi. Độ nhạy của chụp CT mạch thấp nhất đối với cục nghẽn ở các mạch nhánh phụ (khoảng 30% số tất cả các cục nghẽn động mạch phổi). Tuy nhiên, chụp CT mạch vẫn là phương tiện được ưu tiên để chẩn đoán PE cấp tính nếu không có chống chỉ định.
+
+Chụp thông khí/tưới máu (V/Q)
+
+trong thuyên tắc động mạch phổi phát hiện những vùng phổi được thông khí nhưng không được tưới máu. Chụp V/Q mất nhiều thời gian hơn chụp CT mạch máu và kém đặc hiệu hơn. Tuy nhiên, khi kết quả chụp X-quang ngực bình thường hoặc gần bình thường và không có bệnh phổi tiềm ẩn đáng kể nào thì đây là kiểm tra có độ nhạy cao. Chụp V/Q đặc biệt hữu ích khi suy thận không cho phép sử dụng thuốc cản quang, vốn cần thiết cho chụp động mạch CT và ở những bệnh nhân đang mang thai (
+
+6
+
+). Ở một số bệnh viện, việc quét V/Q có thể được thực hiện bằng một máy di động cung cấp 3 góc nhìn về thông khí và tưới máu, rất hữu ích khi bệnh nhân quá ốm, không thể di chuyển được. Các khiếm khuyết về tưới máu có thể xảy ra trong nhiều tình trạng phổi khác (ví dụ,
+
+COPD
+
+,
+
+xơ phổi
+
+,
+
+viêm phổi
+
+,
+
+tràn dịch màng phổi
+
+). Sự không tương xứng về tưới máu giống tắc mạch phổi có thể xảy ra trong viêm mạch phổi, tắc tĩnh mạch phổi và
+
+Bệnh sarcoid
+
+.
+
+Kết quả dựa trên mô hình không cân xứng V/Q và được báo cáo là bình thường, xác suất thấp, xác suất trung bình hoặc xác suất cao của thuyên tắc động mạch phổi.
+
+Xác suất lâm sàng trước khi kiểm tra của thuyên tắc động mạch phổi phải được sử dụng cùng với kết quả chụp V/Q để xác định nhu cầu điều trị hoặc xét nghiệm thêm. (
+
+7
+
+).
+
+Thuyên tắc động mạch phổi (chụp thông khí-tưới máu)
+
+Chụp thông khí-tưới máu cho thấy xác suất cao bị thuyên tắc động mạch phổi cấp tính. Thông khí tương đối không bị ảnh hưởng, trong khi hình ảnh tưới máu cho thấy những khiếm khuyết lớn, đặc biệt là ở phổi trái.
+
+Hình ảnh do bác sĩ Victor F. Tapson cung cấp
+
+Siêu âm Doppler
+
+là một kỹ thuật an toàn, không xâm lấn, di động để phát hiện cục nghẽn ở chân hoặc cánh tay. Có thể phát hiện cục máu đông bằng cách quan sát thấy tĩnh mạch bị nén kém hoặc lưu lượng máu giảm qua siêu âm Doppler. Kiểm tra này có độ nhạy
+
+>
+
+95% và độ đặc hiệu
+
+>
+
+95% đối với cục nghẽn (
+
+8
+
+). Phát hiện DVT trong tĩnh mạch bắp chân hoặc tĩnh mạch chậu có thể khó khăn hơn nhưng nói chung có thể làm được. Người thực hiện siêu âm nên cố gắng phản ánh hình ảnh tĩnh mạch khoeo ở thì tưới máu của nó.
+
+Việc không có cục nghẽn ở tĩnh mạch chân không loại trừ khả năng cục nghẽn từ các nguồn khác, chẳng hạn như các chi trên hoặc mạch máu vùng chậu, nhưng những bệnh nhân nghi ngờ bị DVT và có kết quả âm tính trên siêu âm Doppler có thời gian sống thêm không biến cố
+
+>
+
+95%, vì cục nghẽn từ các nguồn khác ít phổ biến hơn nhiều.
+
+Mặc dù siêu âm chân hoặc cánh tay không phải là phương pháp chẩn đoán PE, nhưng một nghiên cứu phát hiện cục nghẽn ở chân hoặc ở nách-dưới đòn sẽ xác định việc cần thiết phải dùng thuốc chống đông và có thể loại trừ nhu cầu xét nghiệm chẩn đoán thêm trừ khi cân nhắc liệu pháp tích cực hơn (ví dụ: liệu pháp tiêu huyết khối). Do đó, việc dừng đánh giá chẩn đoán sau khi phát hiện DVT trên siêu âm chân hoặc cánh tay là phù hợp nhất đối với những bệnh nhân ổn định có chống chỉ định với thuốc cản quang CT và những bệnh nhân mà chụp V/Q được dự đoán có độ đặc hiệu thấp (ví dụ: ở những bệnh nhân có phum chụp X-quang ngực bất thường). Trong khi nghi ngờ tắc mạch phổi cấp, kết quả siêu âm bình thường cũng vẫn cần thiết tiến hành các thăm dò bổ sung.
+
+Ngọc trai & cạm bẫy
+
+Trong trường hợp nghi ngờ thuyên tắc động mạch phổi cấp tính, việc không có huyết khối tĩnh mạch trên siêu âm không loại trừ được thuyên tắc động mạch phổi.
+
+Siêu âm tim
+
+có thể cho thấy cục máu đông ở tâm nhĩ phải hoặc tâm thất phải, nhưng siêu âm tim thường được sử dụng nhất để phân tầng nguy cơ trong PE cấp tính. Sự xuất hiện của giãn thất phải và giảm vận động có thể gợi ý sự cần thiết phải điều trị tích cực hơn.
+
+Xét nghiệm chất chỉ điểm về tim
+
+là một phương tiện hữu ích để phân tầng nguy cơ tử vong ở những bệnh nhân bị thuyên tắc động mạch phổi cấp tính. Xét nghiệm chất chỉ điểm sinh học tim có thể được sử dụng như một biện pháp hỗ trợ cho các xét nghiệm khác nếu nghi ngờ hoặc chứng minh được mắc PE. Nồng độ troponin tăng cao biểu hiện sự thiếu máu thất phải (hoặc đôi khi là thất trái). Nồng độ BNP và pro-BNP tăng cao có thể cho thấy sự rối loạn chức năng thất phải; tuy nhiên, các xét nghiệm này không phải là đặc trưng cho thất phải giãn hoặc tắc mạch phổi.
+
+Xét nghiệm về rối loạn huyết khối (ưu huyết khối)
+
+không nên được thực hiện thường xuyên. Việc xét nghiệm cần phải được xem xét đối với những bệnh nhân PE vô căn (nghĩa là không biết có yếu tố nguy cơ hoặc nguyên nhân nào), đặc biệt là nếu họ trẻ tuổi (< 60 tuổi), có PE tái phát hoặc có tiền sử gia đình dương tính. Một số bệnh ưu huyết khối, chẳng hạn như
+
+hội chứng kháng phospholipid
+
+, cần có các loại liệu pháp chống đông máu dành riêng cho từng bệnh.
+
+Chụp động mạch phổi
+
+hiếm khi cần để chẩn đoán PE cấp tính vì chụp CT mạch máu không xâm lấn có độ nhạy và độ đặc hiệu tương tự. Tuy nhiên, ở những bệnh nhân đang sử dụng phương pháp tiêu huyết khối bằng catheter, chụp động mạch phổi được sử dụng để đánh giá vị trí catheter và có thể được sử dụng như một phương tiện nhanh để xác định rõ sự thành công của thủ thuật khi rút catheter. Chụp động mạch phổi cũng được sử dụng cùng với đặt ống thông tim phải để đánh giá xem bệnh nhân tăng áp động mạch phổi do thuyên tắc huyết khối mạn tính có phải là ứng cử viên cho phẫu thuật cắt bỏ nội mạc động mạch phổi hay không.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Le Gal G, Righini M, Roy PM, et al
+
+: Prediction of pulmonary embolism in the emergency department: the revised Geneva score.
+
+Ann Intern Med
+
+144:165–171, 2006.
+
+2.
+
+Kline JA, Courtney DM, Kabrhel C, et al
+
+. Prospective multicenter evaluation of the pulmonary embolism rule-out criteria.
+
+J Thromb Haemost
+
+6(5):772-780, 2008 doi:10.1111/j.1538-7836.2008.02944.x
+
+3.
+
+Kurzyna M, Torbicki A, Pruszczyk P, et al
+
+: Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism.
+
+Am J Cardiol
+
+90(5):507–511, 2002 doi:10.1016/s0002-9149(02)02523-7
+
+4.
+
+McConnell MV, Solomon SD, Rayan ME, et al
+
+: Regional right ventricular dysfunction detected by echocardiography in acute pulmonary embolism.
+
+Am J Cardiol
+
+78(4):469–473, 1996 doi:10.1016/s0002-9149(96)00339-6
+
+5.
+
+Bass AR, Fields KG, Goto R, Turissini G, Dey S, Russell LA
+
+: Clinical Decision Rules for Pulmonary Embolism in Hospitalized Patients: A Systematic Literature Review and Meta-analysis.
+
+Thromb Haemost
+
+2017;117(11):2176-2185. doi:10.1160/TH17-06-0395
+
+6.
+
+Leung AN, Bull TM, Jaeschke R, et al
+
+: SI An official American Thoracic Society/Society of Thoracic Radiology clinical practice guideline: evaluation of suspected pulmonary embolism in pregnancy.
+
+Am J Respir Crit Care Med
+
+2011;184(10):1200-1208. doi:10.1164/rccm.201108-1575ST
+
+7.
+
+PIOPED Investigators
+
+: Value of the ventilation/perfusion scan in acute pulmonary embolism. Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED).
+
+JAMA
+
+263(20):2753–2759, 1990 doi:10.1001/jama.1990.03440200057023
+
+8.
+
+Habscheid W, Höhmann M, Wilhelm T, Epping J
+
+: Real-time ultrasound in the diagnosis of acute deep venous thrombosis of the lower extremity.
+
+Angiology
+
+41(8):599–608, 1990. doi:10.1177/000331979004100803
+
+Điều trị chung của thuyên tắc động mạch phổi
+
+Liệu pháp hỗ trợ
+
+Chống đông
+
+Đặt màng lọc tĩnh mạch chủ dưới (hiếm khi dùng, ở một số bệnh nhân được chọn)
+
+Giảm gánh nặng cục máu đông nhanh chóng thông qua việc tiêu huyết khối hoặc phẫu thuật cắt bỏ huyết khối (ở những bệnh nhân được chọn)
+
+Đánh giá nhanh
+
+vì cần thiết phải điều trị hỗ trợ. Ở bệnh nhân thiếu oxy máu, cần cung cấp oxy. Ở những bệnh nhân bị hạ huyết áp do PE rất lớn, cần phải truyền dịch theo đường tĩnh mạch dưới dạng tấn công, chú ý đến hiệu quả và tình trạng thể tích. Cần thận trọng vì quá tải tâm thất phải có thể dẫn đến tình trạng xấu đi. Thuốc co mạch cũng có thể được dùng nếu bù dịch không tăng được huyết áp. Norepinephrine được sử dụng nhiều nhất như là trị liệu đầu tay. Các thuốc tăng co bóp cơ tim như dobutamine và milrinone cũng cần phải được xem xét tùy thuộc vào chức năng thất phải.
+
+Nói chung,
+
+Bệnh nhân có nguy cơ thấp chỉ nên dùng thuốc chống đông máu
+
+Bệnh nhân có nguy cơ cao cần phải dùng thuốc chống đông kết hợp với các biện pháp bổ sung như tiêu huyết khối đường toàn thân hoặc điều trị bằng phẫu thuật hoặc qua ống thông.
+
+Đối với những bệnh nhân có nguy cơ trung bình (cao hoặc thấp), việc cân nhắc điều trị sẽ phức tạp hơn. Những bệnh nhân có nguy cơ trung bình-thấp thường được điều trị bằng thuốc chống đông đơn thuần. Tuy nhiên, những bệnh nhân thuộc nhóm nguy cơ trung bình cần được đánh giá lại toàn bộ bệnh cảnh lâm sàng để phát hiện bất kỳ tình trạng lâm sàng xấu đi nào, bao gồm cả
+
+Suy giảm các sinh hiệu
+
+Mức độ nặng của rối loạn chức năng RV bằng siêu âm tim
+
+Lượng oxy cần thiết và nhu cầu dùng thuốc làm co mạch
+
+Vị trí và gánh nặng của cục máu đông
+
+Thuốc chống đông
+
+là phương pháp điều trị chính cho PE.
+
+Giảm nhanh gánh nặng cục máu đông
+
+thông qua liệu pháp tiêu sợi huyết hoặc phẫu thuật lấy huyết khối được chỉ định cho những bệnh nhân bị hạ huyết áp không khỏi sau khi hồi sức dịch và cho một số bệnh nhân
+
+được chọn
+
+bị suy giảm chức năng thất phải hoặc nhu cầu oxy tăng cao.
+
+Nên cân nhắc
+
+đặt bộ lọc tĩnh mạch chủ dưới qua da
+
+(IVCF) có thể tháo rời cho những bệnh nhân có chống chỉ định dùng thuốc chống đông hoặc những bệnh nhân bị PE tái phát mặc dù đã dùng thuốc chống đông. Ví dụ: những bệnh nhân bị PE cấp tính và cục máu đông tồn dư ở chân và không thể dùng thuốc chống đông máu, cần phải đặt màng lọc vì họ có nguy cơ dai dẳng bị huyết khối tĩnh mạch sâu sau đó.
+
+Nằm viện
+
+trong ít nhất 24 đến 48 giờ được thực hiện đối với hầu hết bệnh nhân PE. Bệnh nhân có sinh hiệu bất thường hoặc PE có nguy cơ cao hoặc nguy cơ trung bình cần thời gian nằm viện lâu hơn.
+
+Bệnh nhân mắc PE có nguy cơ cao phải được
+
+nhập viện vào khoa hồi sức tích cực (ICU)
+
+. Nhập viện ICU cũng nên được xem xét nếu bệnh nhân có
+
+Tăng gánh nặng
+
+Hội chứng thất phải
+
+Thiếu oxy máu đáng kể
+
+Huyết áp thấp hoặc ở ngưỡng thấp
+
+Suy giảm về lâm sàng
+
+Có thể sử dụng
+
+điều trị ngoại trú
+
+cho những bệnh nhân chọn lọc có nguy cơ thấp và tình cờ phát hiện PE hoặc cho những người có cục máu đông rất nhỏ và triệu chứng ở mức không đáng kể là các sinh hiệu của họ ổn định, ngay việc hướng dẫn sẽ được thực hiện và cần có ngay tại chỗ kế hoạch hợp lý dành cho việc điều trị ngoại trú và theo dõi.
+
+Nhóm ứng phó thuyên tắc mạch phổi (PERT)
+
+Với các phương án điều trị ngày càng phát triển và thiếu các thử nghiệm phân nhóm ngẫu nhiên có đối chứng, việc lựa chọn phương pháp điều trị thích hợp cho từng bệnh nhân có thể là một thách thức. Nhiều bệnh viện sử dụng một nhóm bác sĩ lâm sàng đa ngành (nhóm ứng phó thuyên tắc mạch phổi) để nhanh chóng đánh giá bệnh nhân, xác định mức độ nguy cơ bị thuyên tắc mạch phổi và đưa ra các quyết định điều trị phức tạp cần thiết. Các nhóm này có thể bao gồm các bác sĩ lâm sàng trong lĩnh vực chăm sóc phổi/hồi sức tích cực, tim mạch can thiệp, X quang can thiệp, phẫu thuật tim lồng ngực, huyết học, cấp cứu nội khoa và các chuyên khoa khác. Các nghiên cứu đơn trung tâm gần đây được công bố đã cho thấy tỷ lệ chảy máu thấp hơn, thời gian điều trị chống đông máu ngắn hơn, giảm tỷ lệ tử vong trong 30 ngày và giảm việc sử dụng màn lọc IVC ở những bệnh nhân được PERT xử trí. Việc sử dụng PERT trong điều trị PE cấp tính hiện được Hiệp hội Tim mạch Châu Âu khuyến nghị (
+
+1
+
+,
+
+2
+
+).
+
+Tài liệu tham khảo về điều trị tổng quát
+
+1.
+
+Chaudhury P, Gadre SK, Schneider E, et al
+
+. Impact of Multidisciplinary Pulmonary Embolism Response Team Availability on Management and Outcomes.
+
+Am J Cardiol
+
+2019;124(9):1465-1469. doi:10.1016/j.amjcard.2019.07.043
+
+2.
+
+Konstantinides SV, Meyer G, Becattini C, et al
+
+. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC).
+
+Eur Respir J
+
+2019;54(3):1901647. doi:10.1183/13993003.01647-2019
+
+Chống đông máu trong thuyên tắc mạch phổi
+
+Thuốc chống đông ban đầu sau đó là thuốc chống đông duy trì được chỉ định cho những bệnh nhân bị tắc mạch phổi cấp tính để ngăn ngừa tắc mạch thêm cũng như hình thành cục máu đông mới. Bắt đầu điều trị bằng thuốc chống đông bất cứ khi nào nghi ngờ tắc mạch phổi cấp, miễn là nguy cơ chảy máu thấp. Nếu không, nên bắt đầu chống đông máu ngay khi có chẩn đoán. Thời gian điều trị chống đông máu được phát hiện có tác động đến tỷ lệ tử vong. Những bệnh nhân đạt được liệu pháp chống đông máu trong vòng 24 giờ đã được phát hiện là có cải thiện đáng kể về tỷ lệ tử vong trong bệnh viện cũng như tỷ lệ tử vong trong 30 ngày (
+
+1
+
+).
+
+Khả năng về lợi ích so với tác hại trong điều trị cục nghẽn ở các mạch máu nhỏ hơn, theo phân đoạn nhỏ (đặc biệt là các cục nghẽn không có triệu chứng và được phát hiện tình cờ) vẫn chưa được biết rõ và có khả năng đối với một số bệnh nhân, tác hại có thể lớn hơn lợi ích. Tuy nhiên, điều trị vẫn được khuyến khích cho đại đa số bệnh nhân.
+
+Các biến chứng chính của điều trị chống đông máu là chảy máu, do đó bệnh nhân nên được theo dõi biến chứng chảy máu trong khi nằm viện.
+
+Điều trị chống đông khởi đầu
+
+Lựa chọn
+
+thuốc chống đông khởi đầu
+
+cho tắc mạch phổi cấp tính bao gồm
+
+Heparin
+
+không phân đoạn đường tĩnh mạch
+
+Heparin
+
+trọng lượng phân tử thấp tiêm dưới da
+
+Thuốc ức chế
+
+yếu tố Xa
+
+(
+
+apixaban
+
+,
+
+edoxaban
+
+hoặc
+
+rivaroxaban
+
+đường uống hoặc
+
+fondaparinux
+
+tiêm dưới da)
+
+Thuốc ức chế
+
+thrombin
+
+trực tiếp (
+
+argatroban
+
+đường tĩnh mạch,
+
+dabigatran
+
+đường uống) cho bệnh nhân bị giảm tiểu cầu do
+
+heparin
+
+Heparin không phân đoạn tĩnh mạch
+
+có thời gian bán hủy ngắn (hữu ích khi có nguy cơ chảy máu cao) và có thể hết tác dụng với protamine. Ban đầu tiêm tấn công một liều
+
+heparin
+
+không phân đoạn, sau đó truyền
+
+heparin
+
+theo phác đồ để đạt được thời gian Thromboplastin từng phần được kích hoạt (PTT) gấp 1,5 đến 2,5 lần so với mức kiểm soát bình thường. Do đó,
+
+heparin
+
+không phân đoạn đòi hỏi phải nằm viện liên tục để sử dụng. Hơn nữa, dược động học của
+
+heparin
+
+không phân đoạn tương đối khó dự đoán, dẫn đến thường xuyên xảy ra tình trạng chống đông quá mức và dưới mức chống đông và cần phải điều chỉnh liều thường xuyên. Một số bác sĩ lâm sàng ưu tiên phác đồ
+
+heparin
+
+không phân đoạn theo đường tĩnh mạch này khi điều trị tiêu huyết khối được cho dùng hoặc được dự tính hoặc khi bệnh nhân có nguy cơ chảy máu vì nếu chảy máu xảy ra, thời gian bán hủy ngắn có nghĩa là tác dụng chống đông nhanh chóng bị đảo ngược sau khi ngừng truyền.
+
+Heparin trọng lượng phân tử thấp tiêm dưới da
+
+có một số ưu điểm so với
+
+heparin
+
+không phân đoạn bao gồm
+
+Tính sinh khả dụng cao
+
+Liều lượng dựa trên cân nặng mang lại hiệu quả chống đông máu có thể dự đoán được hơn so với liều lượng dựa trên cân nặng của
+
+heparin
+
+không phân đoạn, cho phép thời gian điều trị nhanh hơn.
+
+Dễ sử dụng (có thể tiêm dưới da một hoặc hai lần mỗi ngày)
+
+Giảm tỷ lệ chảy máu
+
+Kết quả có thể tốt hơn
+
+Có thể cho bệnh nhân tự tiêm (do đó cho phép xuất viện sớm từ bệnh viện)
+
+Nguy cơ giảm tiểu cầu do
+
+heparin
+
+thấp hơn so với
+
+heparin
+
+tiêu chuẩn, không phân đoạn
+
+Các loại
+
+heparin
+
+trọng lượng phân tử thấp có thể được sử dụng bao gồm dalteparin, enoxaparin và tinzaparin.
+
+Ở những bệnh nhân suy thận, cần giảm liều và sau đó cần xác minh lại liều dùng phù hợp bằng cách kiểm tra nồng độ
+
+yếu tố Xa
+
+trong huyết thanh (mục tiêu: 0,5 đến 1,2 IU/mL đo ở thời điểm 3 giờ đến 4 giờ sau khi dùng liều thứ tư). Heparin trọng lượng phân tử thấp thường chống chỉ định ở những bệnh nhân suy thận nặng (độ thanh thải creatinin < 30 mL/phút [0,5 mL/giây/m
+
+2
+
+]). Heparin trọng lượng phân tử thấp có thể đảo ngược tác dụng một phần bằng protamine.
+
+Tác dụng phụ của tất cả các heparin bao gồm:
+
+Chảy máu
+
+Giảm tiểu cầu (bao gồm
+
+giảm tiểu cầu do heparin
+
+gây ra với khả năng thuyên tắc huyết khối)
+
+Mày đay
+
+Sốc phản vệ
+
+(hiếm gặp)
+
+Chảy máu do sử dụng quá nhiều heparin kèm theo heparin không phân đoạn có thể được điều trị bằng truyền protamine. Việc sử dụng
+
+heparin
+
+quá mức bằng heparin trọng lượng phân tử thấp cũng có thể được điều trị bằng protamine.
+
+Fondaparinux
+
+là thuốc đối kháng
+
+yếu tố Xa
+
+được tiêm dưới da. Thuốc có thể được sử dụng trong DVT cấp tính và PE cấp tính thay vì
+
+heparin
+
+hoặc
+
+heparin
+
+trọng lượng phân tử thấp. Kết quả có vẻ tương tự như kết quả của
+
+heparin
+
+không phân đoạn. Ưu điểm bao gồm điều trị liều cố định một lần hoặc hai lần mỗi ngày, không cần theo dõi mức độ chống đông, giảm nguy cơ bị giảm tiểu cầu. Việc dùng thuốc bị chống chỉ định nếu độ thanh thải creatinin < 30 mL/phút (0,5 mL/giây/m
+
+2
+
+).
+
+Các
+
+thuốc ức chế
+
+yếu tố Xa
+
+khác, apixaban, Rivaroxaban và edoxaban, có ưu điểm là dùng liều cố định đường uống và khả năng được sử dụng làm
+
+thuốc chống đông máu để duy trì
+
+mà không cần theo dõi tác dụng chống đông máu trong phòng thí nghiệm. Thuốc cũng ít gây ra tương tác bất lợi với các thuốc khác, mặc dù liệu pháp chống nấm azole và thuốc ức chế protease sẽ làm tăng nồng độ thuốc ức chế
+
+yếu tố Xa
+
+đường uống và một số thuốc chống co giật và rifampin sẽ làm giảm nồng độ thuốc ức chế
+
+yếu tố
+
+Xa đường uống. Mặc dù
+
+rivaroxaban
+
+và
+
+apixaban
+
+không cần phải dùng kết hợp với thuốc chống đông đường tiêm truyền khi dùng làm liệu pháp ban đầu, nhưng
+
+edoxaban
+
+lại cần phải dùng một loại thuốc chống đông đường tiêm truyền trong 5 ngày đến 10 ngày.
+
+Giảm liều được chỉ định cho bệnh nhân suy thận. Apixaban có thể được sử dụng trên bệnh nhân suy thận và sử dụng an toàn trên bệnh nhân chạy thận nhân tạo.
+
+Có thể đảo ngược tác dụng chống đông máu của thuốc ức chế
+
+yếu tố Xa
+
+đường uống (rivaroxaban, apixaban, edoxaban) bằng andexanet, mặc dù loại thuốc này không được sử dụng rộng rãi. Có thể đảo ngược tác dụng của fondaparinux bằng cách sử dụng yếu tố VII hoạt hóa tái tổ hợp (
+
+2
+
+). Thời gian bán hủy của thuốc ức chế
+
+yếu tố Xa
+
+ngắn hơn nhiều so với thời gian bán hủy của warfarin. Nếu chảy máu tiến triển đòi cần điều trị đối kháng, cần cân nhắc sử dụng phức hợp 4-prothrombin và nên hội chẩn chuyên khoa huyết học.
+
+Độ an toàn và hiệu quả của những loại thuốc này ở những bệnh nhân bị PE có biến chứng mất bù tim phổi nặng chưa được nghiên cứu và thuốc tiêm truyền nên được sử dụng để chống đông máu cho những bệnh nhân này cho đến khi chức năng tim phổi được cải thiện đáng kể.
+
+Thuốc ức chế
+
+trực tiếp
+
+thrombin
+
+dabigatran cũng có hiệu quả trong điều trị DVT và PE cấp tính.
+
+Dabigatran
+
+cần phải kết hợp với thuốc chống đông đường tiêm truyền khi dùng làm liệu pháp ban đầu. Idarucizumab có hiệu quả trong việc đảo ngược tác dụng của
+
+dabigatran
+
+.
+
+Ở những bệnh nhân nghi ngờ hoặc đã được chứng minh bị
+
+giảm tiểu cầu do heparin
+
+, có thể sử dụng argatroban đường tĩnh mạch hoặc fondaparinux dưới da để chống đông máu. Việc sử dụng thuốc chống đông đường uống trực tiếp (dabigatran, apixaban, edoxaban, rivaroxaban) trong tình huống này được xác định là an toàn trong một phân tích tổng hợp gần đây (
+
+3
+
+).
+
+Điều trị chống đông duy trì
+
+Điều trị chống đông duy trì
+
+được chỉ định để giảm nguy cơ đông máu hoặc thuyên tắc huyết khối và để giảm nguy cơ hình thành cục máu đông. Lựa chọn thuốc để duy trì thuốc chống đông máu bao gồm
+
+Thuốc kháng
+
+vitamin K
+
+đường uống (VKA) (warfarin ở Hoa Kỳ)
+
+Thuốc ức chế
+
+yếu tố Xa
+
+đường uống (apixaban, rivaroxaban, edoxaban)
+
+Thuốc ức chế
+
+thrombin
+
+trực tiếp đường uống (dabigatran)
+
+Hiếm khi tiêm dưới da heparin trọng lượng phân tử thấp hoặc tiêm dưới da fondaparinux
+
+Warfarin
+
+là một phương án chống đông máu đường uống hiệu quả lâu dài đã được sử dụng trong nhiều thập kỷ, nhưng thuốc này không thuận tiện vì một số lý do. Ở hầu hết bệnh nhân,
+
+warfarin
+
+được bắt đầu dùng vào cùng ngày với liệu pháp heparin (hoặc fondaparinux) được sử dụng để chống đông ban đầu. Liệu pháp
+
+heparin
+
+(hoặc
+
+fondaparinux
+
+) cần phải được kết hợp với liệu pháp
+
+warfarin
+
+trong tối thiểu 5 ngày
+
+và
+
+cho đến khi tỷ lệ chuẩn hóa quốc tế (INR) nằm trong phạm vi điều trị (2,0 đến 3,0) trong ít nhất 24 giờ.
+
+Nhược điểm chính của
+
+warfarin
+
+là cần theo dõi INR định kỳ, điều chỉnh liều thường xuyên và tương tác với thuốc, thực phẩm chức năng và thực phẩm. Các bác sĩ kê đơn
+
+warfarin
+
+nên cảnh giác với những tương tác như vậy; ở bệnh nhân dùng
+
+warfarin
+
+, hầu như bất kỳ loại thuốc hoặc chất nào mới uống đều phải được kiểm tra.
+
+Chảy máu là biến chứng thường gặp nhất khi điều trị bằng
+
+warfarin
+
+; bệnh nhân
+
+>
+
+65 tuổi và những người có bệnh kèm theo (đặc biệt là tiểu đường, nhồi máu cơ tim gần đây, hematocrit
+
+<
+
+30%, hoặc creatinine
+
+>
+
+1,5 mg/dL [
+
+>
+
+133 micromol/L]) và có tiền sử bị đột quỵ hoặc chảy máu đường tiêu hóa dường như ở mức nguy cơ lớn nhất. Chảy máu có thể được đảo ngược bằng vitamin K và trong trường hợp khẩn cấp, bằng huyết tương đông lạnh tươi hoặc chế phẩm cô đặc (phức hợp cô đặc prothrombin) có chứa yếu tố II (prothrombin), yếu tố VII,
+
+yếu tố IX
+
+,
+
+yếu tố X
+
+, protein C và protein S. Vitamin K có thể gây đỏ bừng mặt, đau tại chỗ và hiếm khi gây sốc phản vệ.
+
+Hoại tử do
+
+warfarin
+
+, một biến chứng nghiêm trọng của liệu pháp
+
+warfarin
+
+, là tình trạng tăng đông nghịch thường có thể xảy ra khi bắt đầu dùng liệu pháp
+
+warfarin
+
+.
+
+Warfarin
+
+làm bất hoạt các yếu tố đông máu phụ thuộc vitamin K II, VII, IX và X. Đồng thời, các protein C và S phụ thuộc vitamin K cũng bị bất hoạt. Điều này có thể gây ra tình trạng tăng đông máu nghịch thường, trong đó các vi huyết khối hình thành ở các tĩnh mạch ở da và dưới da, dẫn đến hoại tử da. Dựa trên những cân nhắc này và sự phát triển của các thuốc chống đông đường uống tiện lợi hơn, việc sử dụng
+
+warfarin
+
+đã giảm đáng kể. Tuy nhiên, cân nhắc về chi phí vẫn khiến
+
+warfarin
+
+trở thành lựa chọn điều trị hợp lý cho một số bệnh nhân.
+
+Ngọc trai & cạm bẫy
+
+Ở bệnh nhân đang dùng
+
+warfarin
+
+, cần kiểm tra bất kỳ loại thuốc hoặc thực phẩm chức năng mới nào để xem có tương tác tiềm ẩn nào không.
+
+Thuốc chống đông ức chế
+
+yếu tố Xa
+
+đường uống
+
+là apixaban, edoxaban và rivaroxaban có thể được sử dụng cho cả liệu pháp chống đông ban đầu và duy trì (xem bảng
+
+Thuốc chống đông đường uống trực tiếp để điều trị thuyên tắc huyết khối tĩnh mạch
+
+). Những loại thuốc này tiện lợi hơn warfarin do liều dùng cố định và không cần theo dõi trong phòng xét nghiệm, cũng như có ít tương tác hơn. Trong các thử nghiệm lâm sàng,
+
+rivaroxaban
+
+(
+
+4
+
+,
+
+5
+
+),
+
+apixaban
+
+(
+
+6
+
+), and
+
+edoxaban
+
+(
+
+7
+
+) có hiệu quả (trong phân tích không kém hơn) như
+
+warfarin
+
+trong việc ngăn ngừa DVT và PE tái phát. Một phân tích tổng hợp các thử nghiệm giai đoạn III, phân nhóm ngẫu nhiên có đối chứng trên quy mô lớn cho thấy tỷ lệ chảy máu nghiêm trọng, bao gồm xuất huyết nội sọ, thấp hơn đáng kể khi dùng thuốc chống đông ức chế
+
+yếu tố Xa
+
+đường uống so với
+
+warfarin
+
+(
+
+8
+
+). Một lợi thế khác của cả
+
+rivaroxaban
+
+và
+
+apixaban
+
+là liều dùng có thể được giảm xuống sau khi bệnh nhân được điều trị trong 6 tháng đến 12 tháng (
+
+9
+
+).
+
+Một lưu ý quan trọng là edoxaban cần phải dùng heparin ban đầu hoặc heparin trọng lượng phân tử thấp trước 5 đến 10 ngày.
+
+Dabigatran, thuốc ức chế trực tiếp
+
+thrombin
+
+cũng có thể được sử dụng để duy trì liệu pháp chống đông máu. Cũng như với edoxaban, cần điều trị từ 5 đến 10 ngày bằng heparin không phân đoạn hoặc heparin trọng lượng phân tử thấp trước khi bắt đầu dùng dabigatran. Chảy máu liên quan đến lâm sàng ở nhóm
+
+dabigatran
+
+thấp hơn so với
+
+warfarin
+
+. Việc sử dụng
+
+dabigatran
+
+làm điều trị duy trì có những ưu điểm và nhược điểm tương tự như việc sử dụng thuốc ức chế
+
+yếu tố Xa
+
+.
+
+Sự cần thiết phải điều trị heparin ban đầu trước khi sử dụng edoxaban hoặc dabigatran phản ánh cách thức tiến hành các thử nghiệm lâm sàng.
+
+Heparin trọng lượng phân tử thấp tiêm dưới da
+
+được sử dụng chủ yếu cho bệnh nhân ung thư có nguy cơ cao bị thuyên tắc mạch phổi hoặc bệnh nhân thuyên tắc mạch phổi tái phát mặc dù đã sử dụng các thuốc chống đông máu khác. Tuy nhiên, nhiều thử nghiệm gần đây về apixaban, edoxaban và rivaroxaban đã được hoàn thành ở những bệnh nhân ung thư và các thuốc này hiện được khuyến nghị thay thế
+
+heparin
+
+trọng lượng phân tử thấp (
+
+10
+
+).
+
+Aspirin
+
+đã được nghiên cứu để điều trị duy trì lâu dài. Nó có vẻ hiệu quả hơn giả dược nhưng ít hiệu quả hơn tất cả các thuốc chống đông khác có sẵn. Rivaroxaban, 10 mg một lần/ngày, đã được chứng minh là hiệu quả hơn trong việc giảm DVT/PE tái phát nhưng vẫn an toàn như
+
+aspirin
+
+ở những bệnh nhân đã được điều trị bằng thuốc chống đông trong 6 tháng đến 12 tháng (
+
+9
+
+).
+
+Thời gian điều trị chống đông máu
+
+Thời gian điều trị duy trì chống đông
+
+đối với thuyên tắc động mạch phổi, phụ thuộc vào nhiều yếu tố (ví dụ: các yếu tố nguy cơ đối với thuyên tắc động mạch phổi, nguy cơ chảy máu) và có thể dao động từ 3 tháng đến điều trị suốt đời. Các yếu tố nguy cơ thoáng qua rõ ràng (ví dụ: bất động, phẫu thuật gần đây, chấn thương) chỉ cần điều trị 3 tháng. Những bệnh nhân bị PE không nguyên nhân, những người có các yếu tố nguy cơ bền vững hơn đối với PE (ví dụ, ung thư, rối loạn đông máu) và những người bị PE tái phát có thể được hưởng lợi từ việc kháng đông suốt đời với điều kiện nguy cơ chảy máu thấp hoặc trung bình. Ở những bệnh nhân bị thuyên tắc huyết khối tĩnh mạch vô căn, nên thực hiện đánh giá hàng năm về nguy cơ chảy máu so với nguy cơ đông máu và đưa ra quyết định chung sáng suốt về việc tiếp tục dùng thuốc chống đông máu.
+
+Các yếu tố nguy cơ chảy máu
+
+bao gồm
+
+> 65 tuổi
+
+Chảy máu trước đây
+
+Giảm tiểu cầu
+
+Điều trị chống tiểu cầu
+
+Kiểm soát thuốc chống đông máu kém
+
+Ngã thường xuyên
+
+Suy gan
+
+Lạm dụng rượu
+
+Phẫu thuật gần đây
+
+Giảm công suất chức năng
+
+Đột quỵ trước đó
+
+Bệnh tiểu đường
+
+Thiếu máu
+
+Ung thư
+
+Suy thận
+
+Nguy cơ chảy máu thấp được định nghĩa là không có yếu tố nguy cơ chảy máu, nguy cơ chảy máu trung bình được xác định là một yếu tố nguy cơ và nguy cơ chảy máu cao được xác định là có hai hoặc nhiều yếu tố nguy cơ.
+
+Đối với những bệnh nhân được coi là phù hợp để dùng thuốc chống đông máu dài hạn, sau 6 tháng điều trị bằng rivaroxaban hoặc apixaban, có thể cân nhắc giảm liều.
+
+Tài liệu tham khảo về thuốc chống đông
+
+1.
+
+Smith SB, Geske JB, Maguire JM, Zane NA, Carter RE, Morgenthaler TI
+
+. Early anticoagulation is associated with reduced mortality for acute pulmonary embolism.
+
+Chest
+
+2010;137(6):1382-1390. doi:10.1378/chest.09-0959
+
+2.
+
+Yee J, Kaide CG
+
+. Emergency Reversal of Anticoagulation.
+
+West J Emerg Med
+
+2019;20(5):770-783. doi:10.5811/westjem.2018.5.38235
+
+3.
+
+Nilius H, Kaufmann J, Cuker A, Nagler M
+
+. Comparative effectiveness and safety of anticoagulants for the treatment of
+
+heparin
+
+-induced thrombocytopenia.
+
+Am J Hematol
+
+2021;96(7):805-815. doi:10.1002/ajh.26194
+
+4.
+
+EINSTEIN Investigators, Bauersachs R, Berkowitz SD, et al
+
+: Oral
+
+rivaroxaban
+
+for symptomatic venous thromboembolism.
+
+N Engl J Med
+
+363(26):2499–2510, 2010. doi:10.1056/NEJMoa1007903
+
+5.
+
+EINSTEIN-PE Investigators, Buller HR, Prins MH, et al
+
+: Oral
+
+rivaroxaban
+
+for the treatment of symptomatic pulmonary embolism.
+
+N Engl J Med
+
+366 (14):1287–1297, 2012. doi:10.1056/NEJMoa1113572
+
+6.
+
+Agnelli G, Buller HR, Cohen A, et al
+
+: Oral
+
+apixaban
+
+for the treatment of acute venous thromboembolism.
+
+N Engl J Med
+
+369(9):799–808, 2013. doi:10.1056/NEJMoa1302507
+
+7.
+
+Hokusai-VTE Investigators, Buller HR, Decousus H, et al
+
+:
+
+Edoxaban
+
+versus
+
+warfarin
+
+for the treatment of symptomatic venous thromboembolism.
+
+N Engl J Med
+
+369(15): 1406–1415, 2013. doi:10.1056/NEJMoa1306638
+
+8.
+
+van Es N, Coppens M, Schulman S, et al:
+
+Direct oral anticoagulants compared with vitamin K antagonists for acute symptomatic venous thromboembolism: evidence from phase 3 trials.
+
+Blood
+
+124 (12): 1968–1975, 2014. doi:10.1182/blood-2014-04-571232
+
+9.
+
+Weitz JI, Lensing AWA, Prins MH, et al
+
+:
+
+Rivaroxaban
+
+or
+
+aspirin
+
+for extended treatment of venous thromboembolism.
+
+N Engl J Med
+
+376:1211–1222, 2017. doi: 10.1056/NEJMoa1700518.
+
+10.
+
+Stevens SM, Woller SC, Kreuziger LB, et al
+
+: Antithrombotic therapy for VTE disease: Second update of the CHEST Guideline and Expert Panel Report [published correction appears in
+
+Chest
+
+2022 Jul;162(1):269].
+
+Chest
+
+2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.055
+
+Giảm nhanh tác động của huyết khối
+
+Nên cân nhắc việc loại bỏ cục máu đông bằng phương pháp cắt bỏ cục máu đông hoặc làm tan cục máu đông bằng liệu pháp tiêu sợi huyết qua đường tĩnh mạch hoặc ống thông đối với tình trạng thuyên tắc động mạch phổi cấp tính liên quan đến hạ huyết áp không khỏi sau khi hồi sức truyền dịch (PE nguy cơ cao/lớn) (
+
+1
+
+). Những bệnh nhân bị hạ huyết áp và cần điều trị bằng thuốc vận mạch là những ứng cử viên rõ ràng. Bệnh nhân có huyết áp tâm thu < 90 mm Hg hoặc huyết áp tâm thu giảm so với giá trị ban đầu > 40 mm Hg kéo dài ít nhất 15 phút mặc dù việc thử bù dịch đều bị ảnh hưởng về mặt huyết động và cũng là ứng viên.
+
+Mặc dù thuốc chống đông thường được khuyến nghị cho những bệnh nhân bị rối loạn chức năng RV nhẹ (dựa trên kết quả lâm sàng, ECG hoặc siêu âm tim), liệu pháp tiêu huyết khối hoặc lấy huyết khối có thể cần thiết khi tổn thương RV và/hoặc hạ oxy máu nặng ngay cả khi không có hạ huyết áp, đặc biệt là khi tình trạng xấu đi có khả năng được gợi ý bởi tình trạng tăng nhịp tim hoặc giảm độ bão hòa oxy hoặc giảm huyết áp.
+
+Liệu pháp tiêu sợi huyết toàn thân
+
+Liệu pháp tiêu huyết khối toàn thân bằng alteplase (thuốc kích hoạt
+
+plasminogen
+
+mô [tPA]) là một phương pháp không xâm lấn để nhanh chóng khôi phục lưu lượng máu đến phổi, nhưng lợi ích lâu dài không vượt trội rõ ràng so với nguy cơ xuất huyết ở một số bệnh nhân. Các chuyên gia đồng ý rằng liệu pháp tiêu huyết khối toàn thân cần phải được áp dụng cho những bệnh nhân bị rối loạn huyết động nếu không có chống chỉ định, đặc biệt khi không có sẵn các biện pháp khác để giảm nhanh gánh nặng cục máu đông. Mặc dù không có thử nghiệm phân nhóm ngẫu nhiên theo thời gian nào về liệu pháp tiêu huyết khối toàn thân cho thấy thời gian sống thêm được cải thiện ở những bệnh nhân PE có nguy cơ trung bình/một phần phổi, một số chuyên gia khuyên dùng thuốc tiêu huyết khối, đặc biệt khi bệnh nhân cũng có nhiều cục máu đông hoặc lớn; rối loạn chức năng RV rất nghiêm trọng; nhịp tim nhanh rõ rệt; thiếu oxy máu đáng kể; các dấu hiệu đồng thời khác như là cục máu đông tồn dư ở chân, giá trị troponin dương tính và/hoặc giá trị BNP tăng cao; và không có chống chỉ định thực sự nào đối với việc sử dụng thuốc đó. Các trường hợp khác chỉ dành liệu pháp tiêu huyết khối cho những bệnh nhân PE có nguy cơ cao (lớn).
+
+Chống chỉ định tuyệt đối
+
+của thuốc tiêu sợi huyết bao gồm
+
+Tiền sử xuất huyết não
+
+Đột quỵ do thiếu máu não cục bộ trong vòng 1 năm
+
+Đang chảy máu bên ngoài hay bên trong từ bất kỳ nguồn nào
+
+Chấn thương nội sọ hoặc phẫu thuật trong vòng 2 tháng
+
+Khối u trong sọ
+
+Một số lần phẫu thuật trong những tuần trước
+
+Chống chỉ định tương đối
+
+bao gồm
+
+> 75 tuổi
+
+Phẫu thuật gần đây (≤ 10 ngày)
+
+Xuất huyết chảy máu (như suy gan)
+
+Mang thai
+
+Các vết thủng gần đây của các tĩnh mạch lớn không thể ép được (ví dụ: tĩnh mạch dưới đòn)
+
+Đặt ống thông động mạch đùi gần đây (ví dụ, ≤ 10 ngày)
+
+Bệnh loét dạ dày hoặc các bệnh khác làm tăng nguy cơ chảy máu
+
+Tăng huyết áp nặng (huyết áp tâm thu > 180 mm Hg hoặc huyết áp tâm trương > 110 mm Hg)
+
+Chấn thương đầu do ngất do PE, ngay cả khi CT não bình thường
+
+Ngoại trừ xuất huyết nội sọ đồng thời, liệu pháp tiêu huyết khối đôi khi được chỉ định cho những bệnh nhân PE có nguy cơ cao (lớn) có "chống chỉ định tuyệt đối" với liệu pháp đó nếu không có can thiệp thì dự đoán là sẽ tử vong. Ở những bệnh nhân có chống chỉ định tương đối, quyết định dùng thuốc tiêu sợi huyết phụ thuộc vào từng bệnh nhân cụ thể.
+
+Tại Hoa Kỳ, alteplase (tPA) được sử dụng để tiêu huyết khối toàn thân. Streptokinase và urokinase không được sử dụng trong điều trị PE cấp tính.
+
+Tại Hoa Kỳ, khi sử dụng thuốc tiêu huyết khối toàn thân, heparin thường được ngừng lại sau liều tấn công ban đầu. Tuy nhiên, ở châu Âu,
+
+heparin
+
+thường được tiếp tục sử dụng và không có xác định rõ ràng về phương pháp nào được ưu tiên. Những nguy cơ chảy máu sau đây cần được xem xét:
+
+Chảy máu, nếu xảy ra, có thể được điều trị bằng cryoprecipitate hoặc huyết tương đông lạnh tươi. Vị trí tiếp cận mạch máu dễ bị chảy máu có thể được băng ép lại. Khả năng chảy máu sau khi tiêu huyết khối toàn thân đã dẫn đến việc tăng cường thực hiện tiêu huyết khối qua ống thông vì liều lượng thuốc tiêu huyết khối được sử dụng thấp hơn nhiều.
+
+Phương pháp tiêu huyết khối qua catheter
+
+Liệu pháp PE qua ống thông (tiêu huyết khối, cắt bỏ huyết khối) sử dụng vị trí đặt ống thông vào động mạch phổi để làm gián đoạn, loại bỏ và/hoặc làm tan cục máu đông. Chỉ định sử dụng thuốc này đang được mở rộng ở những bệnh nhân có nguy cơ cao và những bệnh nhân có nguy cơ trung bình cao. Trong liệu pháp tiêu huyết khối PE qua ống thông, các động mạch phổi được tiếp cận thông qua thủ thuật chụp động mạch phổi thông thường và thuốc tiêu huyết khối được đưa trực tiếp đến phần cục nghẽn lớn ở đầu gần qua ống thông. Kỹ thuật được nghiên cứu rộng rãi nhất là sử dụng siêu âm tần số cao, công suất thấp. Siêu âm đẩy nhanh quá trình tiêu sợi huyết bằng cách phân tách các sợi fibrin và tăng tính thấm của cục máu đông đối với thuốc tiêu sợi huyết. Một thử nghiệm có đối chứng, phân nhóm ngẫu nhiên, nghiên cứu ULTIMA, đã chứng minh rằng việc sử dụng thuốc tiêu sợi huyết qua ống thông ở những bệnh nhân có cục máu đông đầu gần và bằng chứng về tình trạng căng thẳng RV dẫn đến cải thiện tỷ lệ RV/LV sau 24 giờ so với chỉ dùng thuốc chống đông (
+
+2
+
+). Tuy nhiên, không có sự khác biệt giữa các nhóm về chức năng RV, tỷ lệ RV/LV sau 90 ngày hoặc tỷ lệ tử vong sau 90 ngày (
+
+2
+
+).
+
+Phá vỡ bằng cơ học, hoặc loại bỏ huyết khối thông qua hút huyết khối mà không dùng thuốc tiêu huyết khối, đang được sử dụng rộng rãi hơn. Cơ chế loại bỏ cục máu đông bao gồm hút trực tiếp hoặc phân mảnh bằng cách hút. Các thiết bị cho mục đích này khác nhau về kích thước của ống thông và phương pháp lấy huyết khối. Nếu việc sử dụng thuốc tiêu huyết khối bị chống chỉ định, phương pháp hút huyết khối qua ống thông có thể được xem xét và tùy thuộc vào nguồn lực và chuyên môn của địa phương, hãy thử trước khi phẫu thuật lấy huyết khối. Bệnh nhân được phẫu thuật lấy huyết khối theo phương pháp cơ học vẫn cần dùng thuốc chống đông. Dữ liệu về việc sử dụng các thiết bị hút chỗ thuyên tắc được giới hạn ở những bệnh nhân có nguy cơ trung bình cao hoặc nguy cơ cao đã tham gia vào các nghiên cứu và sổ đăng ký một nhóm (
+
+3
+
+).
+
+Phẫu thuật lấy huyết khối
+
+Phẫu thuật lấy huyết khối
+
+được dành riêng cho bệnh nhân nhồi máu phổi bị hạ huyết áp mặc dù có các biện pháp hỗ trợ (huyết áp tâm thu liên tục
+
+≤
+
+90 mm Hg sau khi điều trị bù dịch và oxy hoặc nếu cần phải điều trị bằng thuốc vận mạch) hoặc sắp ngừng tim, ngừng hô hấp. Phẫu thuật lấy huyết khối có thể được cân nhắc nếu sử dụng thuốc tiêu huyết khối bị chống chỉ định, mặc dù phương pháp hút huyết khối qua ống thông có thể được thử trước tiên. Cũng giống như tiêu huyết khối qua catheter/hút cục máu đông, quyết định tiến hành phẫu thuật và lựa chọn kỹ thuật phụ thuộc vào nguồn lực địa phương và chuyên môn. Phẫu thuật lấy huyết khối là một chiến lược điều trị PE cấp tính đang giảm tần suất khi các kỹ thuật qua da qua ống thông trở nên phổ biến rộng rãi hơn.
+
+Tuần hoàn ngoài cơ thể
+
+Oxy hóa màng ngoài cơ thể (ECMO) đôi khi được sử dụng trong trường hợp thuyên tắc động mạch phổi cấp tính thảm khốc khi thuốc tiêu sợi huyết chống chỉ định hoặc không hiệu quả. ECMO có thể đóng vai trò là cầu nối cho phẫu thuật lấy huyết khối hoặc điều trị bằng catheter, hoặc có thể cần thời gian để cải thiện bằng thuốc chống đông.
+
+Tài liệu tham khảo về làm giảm nhanh chóng gánh nặng cục máu đông
+
+1.
+
+Ortel TL, Neumann I, Ageno W, et al
+
+. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.
+
+Blood Adv
+
+2020;4(19):4693-4738. doi:10.1182/bloodadvances.2020001830
+
+2.
+
+Kucher N, Boekstegers P, Müller OJ, et al
+
+. Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism.
+
+Circulation
+
+2014;129(4):479-486. doi:10.1161/CIRCULATIONAHA.113.005544
+
+3.
+
+Hountras P, Bull TM
+
+. Advanced therapies for pulmonary embolism.
+
+Curr Opin Pulm Med
+
+2020;26(5):397-405. doi:10.1097/MCP.0000000000000714
+
+Tiên lượng về thuyên tắc động mạch phổi
+
+Hầu hết các trường hợp tử vong do thuyên tắc động mạch phổi xảy ra trong vòng 1 giờ sau khi phát hiện bệnh (
+
+1
+
+). Hầu hết các bệnh nhân tử vong do hậu quả của PE cấp tính không được chẩn đoán trước khi tử vong. Trên thực tế, ở hầu hết các bệnh nhân này không được nghi ngờ có tắc mạch phổi. Tỷ lệ tử vong tại bệnh viện nói chung dao động từ khoảng 8% ở những bệnh nhân ổn định đến 25% ở những người bị sốc tim và đến 65% ở những bệnh nhân cần hồi sức tim phổi (
+
+2
+
+).
+
+Các dự đoán tốt nhất để giảm tử vong bao gồm:
+
+Cải thiện tần suất chẩn đoán (ví dụ bằng cách đưa tắc mạch phổi vào chẩn đoán phân biệt khi bệnh nhân có các triệu chứng hoặc dấu hiệu không đặc hiệu nhưng có nghi ngờ tắc mạch phổi)
+
+Cải thiện mức độ nhanh chóng của chẩn đoán
+
+Cải thiện phân tầng nguy cơ
+
+Cải thiện mức độ nhanh chóng của việc bắt đầu điều trị chống đông máu
+
+Điều trị dự phòng tốt cho bệnh nhân có nguy cơ cao
+
+Nồng độ D-dimer rất cao dường như dự đoán một kết cục kém.
+
+Bệnh nhân có bệnh lý huyết khối gây tắc mạch mạn tính biểu hiện ít, nhưng là vấn đề quan trọng của bệnh nhân có PE còn sống sót. Liệu pháp chống đông máu làm giảm tỷ lệ tái phát của PE.
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+Wood KE
+
+. Major pulmonary embolism: review of a pathophysiologic approach to the golden hour of hemodynamically significant pulmonary embolism.
+
+Chest
+
+2002;121(3):877-905. doi:10.1378/chest.121.3.877
+
+2.
+
+Kasper W, Konstantinides S, Geibel A, et al
+
+. Management strategies and determinants of outcome in acute major pulmonary embolism: results of a multicenter registry.
+
+J Am Coll Cardiol
+
+1997;30(5):1165-1171. doi:10.1016/s0735-1097(97)00319-7
+
+Phòng ngừa thuyên tắc động mạch phổi
+
+Dự phòng thuyên tắc huyết khối tĩnh mạch cấp
+
+Phòng ngừa thuyên tắc động mạch phổi có nghĩa là
+
+phòng ngừa huyết khối tĩnh mạch sâu
+
+(DVT); nhu cầu phụ thuộc vào nguy cơ của bệnh nhân, bao gồm
+
+Loại hình và thời gian của bất kỳ phẫu thuật nào
+
+Các bệnh kèm theo, bao gồm ung thư và rối loạn tăng đông
+
+Sự hiện diện của một ống thông tĩnh mạch trung tâm
+
+Tiền sử trước đây bị huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổi
+
+Những bệnh nhân phải nằm liệt giường và nhập viện cũng như những bệnh nhân được phẫu thuật, đặc biệt là phẫu thuật chỉnh hình, sẽ được hưởng lợi đáng kể từ biện pháp phòng ngừa huyết khối tĩnh mạch và hầu hết những bệnh nhân này có thể được xác định trước khi hình thành huyết khối (xem bảng
+
+Đánh giá nguy cơ huyết khối
+
+). Các biện pháp phòng ngừa bao gồm heparin không phân đoạn liều thấp, heparin trọng lượng phân tử thấp, warfarin, fondaparinux, thuốc chống đông đường uống trực tiếp (ví dụ: rivaroxaban, apixaban), thiết bị ép và tất ép đàn hồi.
+
+Việc lựa chọn thuốc hoặc thiết bị phụ thuộc vào nhiều yếu tố, bao gồm thông tin nhân khẩu học của bệnh nhân, nguy cơ theo nhận thức, chống chỉ định (ví dụ: nguy cơ chảy máu), chi phí tương đối và tính dễ sử dụng. Hiệp hội Bác sĩ Lồng ngực Hoa Kỳ đã công bố các khuyến nghị toàn diện dựa trên bằng chứng về điều trị dự phòng DVT cấp tính, bao gồm thời gian điều trị dự phòng, ở bệnh nhân phẫu thuật và không phẫu thuật cũng như trong thai kỳ (
+
+1
+
+,
+
+2
+
+). Sự cần thiết dự phòng đã được nghiên cứu ở nhiều nhóm bệnh nhân.
+
+Loại phẫu thuật cũng như những tình trạng sức khỏe đặc biệt cụ thể của bệnh nhân xác định nguy cơ mắc huyết khối tĩnh mạch sâu. Các yếu tố nguy cơ độc lập đối với bệnh nhân phẫu thuật và không phẫu thuật bao gồm
+
+Tuổi
+
+≥
+
+60 tuổi
+
+Trước đây bị huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổi
+
+Ung thư
+
+Gây mê
+
+≥
+
+2 giờ
+
+bất động tại giường
+
+≥
+
+4 ngày
+
+Nam giới
+
+Ở bệnh viện ≥ 2 ngày
+
+Nhiễm khuẩn huyết
+
+Phụ nữ có thai hoặc thời kì hậu sản
+
+Đặt đường truyền tĩnh mạch trung tâm
+
+Chỉ số khối cơ thể (BMI) > 40
+
+Điểm Caprini thường được sử dụng để phân tầng nguy cơ DVT và xác định nhu cầu phòng ngừa DVT ở những bệnh nhân không phẫu thuật chỉnh hình (xem bảng
+
+Đánh giá nguy cơ huyết khối
+
+).
+
+Bảng
+
+Đánh giá nguy cơ rủi ro cho bệnh huyết khối
+
+Bảng
+
+Đánh giá nguy cơ rủi ro cho bệnh huyết khối
+
+Đánh giá nguy cơ rủi ro cho bệnh huyết khối
+
+Yếu tố Nguy cơ
+
+Điểm
+
+Tuổi (năm)
+
+41–60
+
+1
+
+60–74
+
+2
+
+≥ 75
+
+3
+
+Phẫu thuật
+
+Phẫu thuật nhỏ trong thời gian nằm viện
+
+1
+
+Đại phẫu trong vòng 1 tháng qua
+
+1
+
+Phẫu thuật nội soi trong thời gian nằm viện
+
+2
+
+Đại phẫu thuật kéo dài > 45 phút trong thời gian nằm viện
+
+1
+
+Phẫu thuật nội soi kéo dài > 45 phút trong thời gian nằm viện
+
+2
+
+Tạo hình khớp lớn ở chân trong thời gian nằm viện
+
+5
+
+Các bệnh đồng mắc
+
+Giãn tĩnh mạch
+
+1
+
+Bệnh viêm đại tràng
+
+1
+
+Phù ở chân (hiện tại)
+
+1
+
+Béo phì (BMI > 25)
+
+1
+
+Nhồi máu cơ tim cấp
+
+1
+
+Suy tim trong vòng 1 tháng trước
+
+1
+
+Nhiễm khuẩn huyết trong vòng 1 tháng trước
+
+1
+
+Bệnh phổi nghiêm trọng* trong vòng 1 tháng trước
+
+1
+
+Chức năng phổi bất thường (ví dụ, COPD)
+
+1
+
+Đặt đường truyền tĩnh mạch trung tâm
+
+2
+
+Ung thư (hiện tại hoặc trước đó)
+
+2
+
+Tiền sử huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổi
+
+3
+
+Tiền sử huyết khối gia đình†
+
+3
+
+Đột biến yếu tố V Leiden
+
+3
+
+Đột biến Prothrombin 20210A
+
+3
+
+Tăng homocysteine huyết thanh
+
+3
+
+Kháng thể kháng đông lupus dương tính
+
+3
+
+Kháng thể kháng cardiolipin cao
+
+3
+
+Giảm tiểu cầu do
+
+heparin
+
+3
+
+Bệnh tăng đông bẩm sinh hoặc mắc phải khác
+
+3
+
+Đột quỵ trong vòng 1 tháng trước
+
+5
+
+Đa chấn thương trong vòng 1 tháng trước
+
+5
+
+Tổn thương tủy sống cấp tính/liệt trong vòng 1 tháng trước
+
+5
+
+Bất động
+
+Nghỉ ngơi trên giường hiện tại (bệnh nhân nội khoa)
+
+1
+
+Nghỉ ngơi trên giường > 72 giờ
+
+2
+
+Cố định bằng bột thạch cao trong vòng 1 tháng trước
+
+2
+
+Gãy xương hông, xương chậu hoặc chân trong vòng 1 tháng trước
+
+5
+
+Các yếu tố nguy cơ bổ sung ở phụ nữ
+
+Dùng thuốc tránh thai đường uống hoặc liệu pháp thay thế hormone
+
+1
+
+Mang thai hoặc sau sinh trong vòng 1 tháng trước
+
+1
+
+Tiền sử thai chết lưu không rõ nguyên nhân, sẩy thai tự nhiên tái phát (> 3), sinh non do nhiễm độc máu hoặc trẻ chậm tăng trưởng
+
+1
+
+Khác
+
+Các yếu tố nguy cơ khác‡
+
+1
+
+* Bệnh phổi nghiêm trọng bao gồm viêm phổi.
+
+† Tiền sử gia đình bị huyết khối là yếu tố nguy cơ bị bỏ qua nhiều nhất.
+
+‡ Các yếu tố nguy cơ khác bao gồm BMI > 40, hút thuốc, tiểu đường cần điều trị bằng
+
+insulin
+
+, hóa trị, truyền máu và thời gian phẫu thuật > 2 giờ.
+
+Data from
+
+Gould MK, Garcia DA, Wren SM, et al
+
+. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears in
+
+Chest
+
+2012 May;141(5):1369].
+
+Chest
+
+2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297
+
+BMI = chỉ số khối cơ thể; COPD = bệnh phổi tắc nghẽn mạn tính; DVT = huyết khối tĩnh mạch sâu; PE = thuyên tắc động mạch phổi.
+
+* Bệnh phổi nghiêm trọng bao gồm viêm phổi.
+
+† Tiền sử gia đình bị huyết khối là yếu tố nguy cơ bị bỏ qua nhiều nhất.
+
+‡ Các yếu tố nguy cơ khác bao gồm BMI > 40, hút thuốc, tiểu đường cần điều trị bằng
+
+insulin
+
+, hóa trị, truyền máu và thời gian phẫu thuật > 2 giờ.
+
+Data from
+
+Gould MK, Garcia DA, Wren SM, et al
+
+. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears in
+
+Chest
+
+2012 May;141(5):1369].
+
+Chest
+
+2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297
+
+BMI = chỉ số khối cơ thể; COPD = bệnh phổi tắc nghẽn mạn tính; DVT = huyết khối tĩnh mạch sâu; PE = thuyên tắc động mạch phổi.
+
+Nhu cầu điều trị dự phòng huyết khối tĩnh mạch sâu dựa trên điểm đánh giá nguy cơ (Xem bàng
+
+Điều trị dự phòng dựa trên thang điểm Caprini
+
+). Các biện pháp phòng ngừa thích hợp, từ việc đi lại sớm đến sử dụng heparin, phụ thuộc vào tổng điểm (
+
+3
+
+).
+
+Bảng
+
+Dự phòng dựa trên Điểm Caprini
+
+Bảng
+
+Dự phòng dựa trên Điểm Caprini
+
+Dự phòng dựa trên Điểm Caprini
+
+Điểm
+
+Rủi ro
+
+Dự phòng
+
+0
+
+Rất thấp
+
+Vận động sớm
+
+1–2
+
+Thấp
+
+Thiết bị nén liên tục (SCD)
+
+3–4
+
+Vừa
+
+Heparin 8 giờ một lần hoặc heparin trọng lượng phân tử thấp +/- SCD
+
+≥ 5
+
+Cao
+
+Heparin hoặc heparin trọng lượng phân tử thấp +/- SCD
+
+Data from
+
+Gould MK, Garcia DA, Wren SM, et al
+
+. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears in
+
+Chest
+
+2012 May;141(5):1369].
+
+Chest
+
+2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297
+
+Data from
+
+Gould MK, Garcia DA, Wren SM, et al
+
+. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears in
+
+Chest
+
+2012 May;141(5):1369].
+
+Chest
+
+2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297
+
+Phác đồ thuốc phòng ngừa thuyên tắc mạch phổi
+
+Điều trị bằng thuốc để ngăn ngừa DVT thường bị trì hoãn cho đến sau phẫu thuật để giúp tránh chảy máu trong khi phẫu thuật. Tuy nhiên, dự phòng trước khi điều trị cũng có hiệu quả.
+
+Ở những bệnh nhân phẫu thuật tổng quát,
+
+heparin không phân đoạn liều thấp
+
+được dùng trong 7 đến 10 ngày hoặc cho đến khi bệnh nhân có thể đi lại được hoàn toàn. Những bệnh nhân bị bất động và không phải phẫu thuật cũng nên được dùng
+
+heparin
+
+không phân đoạn liều thấp cho đến khi họ có thể đi lại được.
+
+Liều dùng
+
+heparin trọng lượng phân tử thấp
+
+để dự phòng
+
+huyết khối tĩnh mạch sâu
+
+phụ thuộc vào loại thuốc cụ thể (enoxaparin, dalteparin, tinzaparin). Heparin trọng lượng phân tử thấp ít nhất cũng có hiệu quả tương đương với
+
+heparin
+
+không phân đoạn liều thấp trong phòng ngừa DVT và PE.
+
+Fondaparinux
+
+2,5 mg tiêm dưới da một lần mỗi ngày có hiệu quả tương đương với heparin trọng lượng phân tử thấp đối với những bệnh nhân đã phẫu thuật chỉnh hình và những bệnh nhân bị giảm tiểu cầu do
+
+heparin
+
+hoặc một số tình trạng khác, chẳng hạn như sau đại phẫu thuật chỉnh hình (
+
+4
+
+). Đó là một loại thuốc ức chế
+
+yếu tố Xa
+
+chọn lọc.
+
+Warfarin
+
+thường hiệu quả và an toàn ở mức liều được điều chỉnh để duy trì INR từ 2 đến 3 ở những bệnh nhân đã được thay khớp háng hoặc thay khớp gối toàn bộ. Việc sử dụng
+
+Warfarin
+
+ngày càng được thay thế bằng việc sử dụng thuốc chống đông máu đường uống trực tiếp.
+
+Thuốc chống đông máu đường uống
+
+trực tiếp rivaroxaban và apixaban là thuốc ức chế
+
+yếu tố Xa
+
+. Các loại thuốc này có thể được sử dụng để phòng ngừa DVT/PE cấp tính ở những bệnh nhân được phẫu thuật thay khớp gối hoặc thay khớp háng toàn bộ.
+
+Thiết bị dự phòng thuyên tắc động mạch phổi
+
+Màng lọc tĩnh mạch chủ dưới, ép bằng khí nén ngắt quãng (còn được gọi là thiết bị nén tuần tự [SCD]) và tất ép đàn hồi theo mức độ có thể được sử dụng riêng lẻ hoặc kết hợp với thuốc để ngăn ngừa PE. Cho dù các thiết bị này được sử dụng một mình hoặc kết hợp, chúng tùy thuộc vào chỉ dẫn cụ thể.
+
+Màng lọc tĩnh mạch chủ dưới
+
+(IVCF) có thể giúp ngăn ngừa PE ở bệnh nhân DVT ở chân hoặc mạch máu vùng chậu, nhưng đặt IVCF có thể gây nguy cơ biến chứng lâu dài. Bằng chứng đặt ra câu hỏi về hiệu quả của các bộ lọc có thể thu hồi ở những bệnh nhân đang dùng thuốc chống đông máu (
+
+5
+
+). Màng lọc được chỉ định rõ ràng nhất ở những bệnh nhân có
+
+Cần ngăn ngừa huyết khối tĩnh mạch sâu và chống chỉ định thuốc chống đông máu
+
+Huyết khối tĩnh mạch sâu tái phát (hoặc cục nghẽn) mặc dù có dùng thuốc chống đông đầy đủ
+
+Có thể có chức năng tim phổi bị hạn chế, gây lo ngại về khả năng chịu đựng thêm các cục nghẽn nhỏ.
+
+Bởi vì tuần hoàn bàng hệ tĩnh mạch có thể phát triển, tạo ra một con đường cho cục nghẽn để tránh IVCF tồn tại lâu dài và do các bộ lọc đôi khi gây huyết khối, bệnh nhân bị DVT tái phát hoặc các yếu tố nguy cơ không thể điều chỉnh được đối với DVT vẫn có thể cần dùng thuốc chống đông máu. Một phin lọc tĩnh mạch chủ dưới được đặt trong tĩnh mạch chủ dưới thấp hơn tĩnh mạch thận thông qua catheter của tĩnh mạch cảnh trong hoặc tĩnh mạch đùi. Hầu hết các phin lọc tĩnh mạch chủ dưới đều có thể tháo rời được. Đôi khi, màng lọc bị bong ra và có thể di chuyển lên giường tĩnh mạch, thậm chí đến tim hoặc mạch máu phổi. Bộ lọc cũng có thể bị huyết khối, gây ra tình trạng tắc nghẽn tĩnh mạch nặng (bao gồm cả viêm tắc tĩnh mạch xanh cấp tính) ở chân, thiếu máu cục bộ ở phần dưới cơ thể và tổn thương thận cấp tính (
+
+6
+
+).
+
+Khí nén ngắt quãng
+
+(IPC) với SCDs cung cấp áp lực nén nhịp nhàng bên ngoài lên cẳng chân hoặc cẳng chân và đùi. Nó có hiệu quả để ngăn ngừa huyết khối tĩnh mạch bắp chân hơn các tĩnh mạch ở gần. Nó chưa đủ để dự phòng đơn độc sau khi thay khớp háng hoặc khớp gối nhưng thường được sử dụng ở những bệnh nhân có nguy cơ thấp sau các loại phẫu thuật khác hoặc ở những bệnh nhân nội khoa có nguy cơ bị huyết khối tĩnh mạch sâu thấp, những người có nguy cơ bị chảy máu cao. Về mặt lý thuyết, IPC có thể gây ra PE ở những bệnh nhân bị bất động và phát sinh DVT tiềm ẩn mà không được điều trị dự phòng DVT.
+
+Tất ép đàn hồi theo mức độ
+
+có thể kém hiệu quả hơn so với ép chân bằng khí nén bên ngoài.
+
+Lựa chọn phòng ngừa thuyên tắc động mạch phổi
+
+Sau khi phẫu thuật với tỉ lệ mắc DVT/PE cao, khuyến cáo sử dụng heparin không phân đoạn liều thấp, heparin trọng lượng phân tử thấp, hoặc điều chỉnh liều warfarin.
+
+Sau
+
+phẫu thuật chỉnh hình khớp háng hoặc khớp gối,
+
+các phương án bổ sung bao gồm thuốc chống đông máu đường uống trực tiếp rivaroxaban và apixaban. Những loại thuốc này an toàn và hiệu quả, không giống như warfarin, các loại thuốc này không cần phải có xét nghiệm trong phòng thí nghiệm để theo dõi mức độ chống đông máu.
+
+Cho
+
+phẫu thuật thay khớp háng toàn bộ,
+
+bệnh nhân nên tiếp tục dùng thuốc chống đông trong 35 ngày sau phẫu thuật. Ở những bệnh nhân được chọn có nguy cơ cao về DVT/PE và xuất huyết, dự phòng bằng cách đặt lưới lọc tĩnh mạch chủ dưới tạm thời.
+
+Ở những bệnh nhân trải qua các thủ thuật phẫu thuật thần kinh tự chọn,
+
+nguy cơ mắc DVT/PE cũng cao. Do lo ngại về chảy máu nội sọ, các phương pháp vật lý (SCD và tất đàn hồi) thường được sử dụng ở những bệnh nhân đã được phẫu thuật thần kinh; tuy nhiên, heparin trọng lượng phân tử thấp dường như là một lựa chọn thay thế có thể chấp nhận được. Mặc dù không có hướng dẫn cụ thể nào, việc kết hợp SCD và
+
+heparin
+
+trọng lượng phân tử thấp có thể hiệu quả hơn so với việc dùng riêng từng loại ở những bệnh nhân có nguy cơ cao.
+
+Ở
+
+những bệnh nhân bị chấn thương tủy sống hoặc chấn thương đa chấn thương,
+
+dữ liệu hạn chế ủng hộ việc kết hợp SCD, vớ nén đàn hồi và
+
+heparin
+
+trọng lượng phân tử thấp để ngăn ngừa DVT/PE (
+
+7
+
+). Đối với những bệnh nhân có nguy cơ rất cao, IVCF tạm thời có thể được cân nhắc sử dụng.
+
+Ở
+
+những bệnh nhân bệnh cấp tính
+
+, có thể dùng
+
+heparin
+
+không phân đoạn liều thấp,
+
+heparin
+
+trọng lượng phân tử thấp hoặc
+
+fondaparinux
+
+. SCD, túi nén đàn hồi, hoặc cả hai có thể được sử dụng khi chống chỉ định với thuốc chống đông. Đối với bệnh nhân bị đột quỵ do thiếu máu não cục bộ, có thể sử dụng
+
+heparin
+
+không phân đoạn liều thấp hoặc
+
+heparin
+
+trọng lượng phân tử thấp; SCD, tất ép đàn hồi hoặc cả hai có thể có hiệu quả.
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Kearon C, Akl EA, Ornelas J, et al
+
+. Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report [published correction appears in
+
+Chest
+
+2016 Oct;150(4):988].
+
+Chest
+
+2016;149(2):315-352. doi:10.1016/j.chest.2015.11.026
+
+2.
+
+Stevens SM, Woller SC, Kreuziger LB, et al
+
+. Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears in
+
+Chest
+
+2022 Jul;162(1):269].
+
+Chest
+
+2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.055
+
+3.
+
+Gould MK, Garcia DA, Wren SM, et al
+
+. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears in
+
+Chest
+
+2012 May;141(5):1369].
+
+Chest
+
+2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297
+
+4.
+
+Tran AH, Lee G
+
+.
+
+Fondaparinux
+
+for prevention of venous thromboembolism in major orthopedic surgery.
+
+Ann Pharmacother
+
+2003;37(11):1632-1643. doi:10.1345/aph.1C104
+
+5.
+
+Mismetti P, Laporte S, Pellerin O, et al
+
+. Effect of a retrievable inferior vena cava filter plus anticoagulation vs anticoagulation alone on risk of recurrent pulmonary embolism: a randomized clinical trial.
+
+JAMA
+
+2015;313(16):1627-1635. doi:10.1001/jama.2015.3780
+
+6.
+
+Marron RM, Rali P, Hountras P, Bull TM
+
+. Inferior Vena Cava Filters: Past, Present, and Future.
+
+Chest
+
+2020;158(6):2579-2589. doi:10.1016/j.chest.2020.08.002
+
+7.
+
+Aito S, Pieri A, D'Andrea M, Marcelli F, Cominelli E
+
+. Primary prevention of deep venous thrombosis and pulmonary embolism in acute spinal cord injured patients.
+
+Spinal Cord
+
+2002;40(6):300-303. doi:10.1038/sj.sc.3101298
+
+Những điểm chính
+
+Thuyên tắc mạch phổi cấp tính (PE) là một tình trạng bệnh lý phổ biến và có khả năng tàn phá nặng nề.
+
+Lâm sàng nghi ngờ và xác nhận chẩn đoán là rất cần thiết vì ở đa số bệnh nhân tử vong do nhồi máu phổi cấp tính, nhồi máu phổi thậm chí không được nghi ngờ.
+
+Bởi vì thuốc chống đông máu cải thiện thời gian sống thêm, bệnh nhân cần phải được dùng thuốc chống đông máu khi có chẩn đoán hoặc nghi ngờ nhiều về PE.
+
+Những bệnh nhân có PE có nguy cơ cao/rất lớn và một số bệnh nhân có PE nguy cơ trung bình/một phần phổi cần phải được xem xét điều trị tiêu huyết khối hoặc cắt bỏ huyết khối.
+
+Phòng ngừa huyết khối tĩnh mạch sâu (và do đó PE) cần phải được xem xét ở tất cả các bệnh nhân nhập viện và có nguy cơ.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của thuyên tắc động mạch phổi ---
+
+Gần như tất cả các cục nghẽn động mạch phổi phát sinh từ huyết khối tĩnh mạch của chân hoặc khung chậu (huyết khối tĩnh mạch sâu). Nguy cơ thuyên tắc cao hơn với huyết khối đi đến tĩnh mạch từ tĩnh mạch khoeo trở lên. Huyết khối cũng có thể bắt nguồn từ tĩnh mạch cánh tay hoặc tĩnh mạch trung tâm ở ngực (do đặt ống thông tĩnh mạch trung tâm hoặc do hậu quả của hội chứng lối thoát ngực) gây ra.Thuyên tắc mạch phổi cũng có thể phát sinh từcác nguồn không phải do huyết khối(ví dụ: tắc mạch do khí, nước ối, mỡ, chất liệu bị nhiễm trùng, xi măng chỉnh hình, dị vật, khối u).Yếu tố nguy cơ cho huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi (xem bảng:Yếu tố nguy cơ của huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi) là tương tự ở trẻ em và người lớn và bao gồmCác tình trạng làm ảnh hưởng đến sự hồi phục của tĩnh mạch, bao gồm nghỉ ngơi tại giường và không đi lạiCác tình trạng gây tổn thương hoặc rối loạn chức năng nội mô như chấn thương hoặc phẫu thuậtRối loạn tăng đông (ưa huyết khối) tiềm ẩn như ung thư hoặcrối loạn đông máu nguyên phátCOVID-19có thể là một yếu tố nguy cơ gây huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi do tình trạng tăng đông gây ra huyết khối mạch máu lớn và thuyên tắc huyết khối (1).BảngCác yếu tố nguy cơ đối với huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổiBảngCác yếu tố nguy cơ đối với huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổiCác yếu tố nguy cơ đối với huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổiTuổi > 60 tuổiUng thư vàung thư tăng sinh tủyMột số loại thuốc hóa trị liệu (ví dụ, bevacizumab, thalidomide)Điều hòa hormoneEstrogenCác chất điều hòa thụ thể Estrogen (ví dụ, raloxifene, tamoxifen)Estrogenvà progestins ngoại sinh, bao gồm thuốc ngừa thai đường uống và trị liệuestrogenTestosteronengoại sinhSuy timBất động/giảm di chuyển (ví dụ, đi xe kéo dài, đi máy bay)Đặt catheter tĩnh mạchNhiễm trùng (tức là nguyên nhân gây ra tình trạng bất động và phản ứng viêm toàn thân;SARS-CoV-2xuất hiện tiền huyết khối)Hội chứng thận hưBéo phìThời kỳ mang thai/sau sinhThuyên tắc huyết khối trước đóBệnh hồng cầu hình liềmHút thuốcĐột quỵRối loạn tăng đông (thrombophilias)Hội chứng kháng phospholipidThiếu AntithrombinĐột biến yếu tố V Leiden,gây ra sự kháng yếu tố protein C hoạt hóaGiảm tiểu cầu do heparinCác khiếm khuyết ly giải fibrin di truyềnTăng homocystineTăng nồng độ yếu tố VIIITăng nồng độ yếu tố XITăng nồng độyếu tố von WillebrandĐái huyết sắc tố kịch phát ban đêmThiếu Protein CThiếu Protein SBiến thể gen Prothrombin G20210ASự thiếu hụt hoặc rối loạn chức năng chất ức chế theo con đường yếu tố tổ chứcChấn thương/phẫu thuậtCác tình trạng khác liên quan đến giảm vận động, tổn thương tĩnh mạch hoặc tăng đôngTài liệu tham khảo nguyên nhân gây bệnh1.Poor HD. Pulmonary Thrombosis and Thromboembolism in COVID-19.Chest2021;160(4):1471-1480. doi:10.1016/j.chest.2021.06.016
+
+--- 2. Sinh lý bệnh của thuyên tắc động mạch phổi ---
+
+Khi huyết khối tĩnh mạch sâu phát triển, cục máu đông có thể bị đẩy ra và di chuyển qua hệ thống tĩnh mạch và tim phải để cư trú trong các động mạch phổi, nơi chúng bít tắc một phần hoặc toàn bộ một hoặc nhiều mạch máu. Hậu quả phụ thuộc vào kích cỡ và số lượng của cục nghẽn, tình trạng cơ bản của phổi, chức năng tâm thất phải (RV), và khả năng của hệ thống tan huyết khối nội tại để làm tan cục máu đông. Tử vong khi xảy ra thường là do suy thất phải.Các cục nghẽn nhỏ có thể không gây ảnh hưởng sinh lý cấp tính và có thể bắt đầu tiêu đi nhanh chóng và được giải quyết trong vòng vài giờ hoặc vài ngày. Các cục nghẽn lớn hơn có thể gây raTăng thông khí phản xạ (thở nhanh)Hạ oxy máu do thông khí/tưới máu (V/Q) không phù hợpHàm lượng oxy tĩnh mạch hỗn hợp thấp do lưu lượng tim thấpXẹp phổido tình trạng giảm CO2 phế nang và bất thường về chất hoạt động bề mặtTăng sức cản mạch máu phổi do tắc nghẽn cơ học và co mạch dẫn đến nhịp tim nhanh và hạ huyết ápSự tiêu bào nội sinh làm giảm hầu hết các cục nghẽn, ngay cả những cục nghẽn kích thước vừa phải, và sự thay đổi về sinh lý giảm đi qua nhiều giờ hoặc nhiều ngày. Một số cục nghẽn chống lại quá trình ly giải và có thể tổ chức và tồn tại và đôi khi gây tăng áp động mạch phổi do thuyên tắc huyết khối mạn tính (CTEPH).Cục nghẽn phổi có thể được phân loại theo các tác động sinh lý theo mô tả của Hiệp hội Tim mạch Châu Âu/Hiệp hội Tim mạch Hoa Kỳ (1) thành các loại sau:Nguy cơ cao (khối): Giảm chức năng tâm thất phải gây tụt huyết áp, được xác định bởi huyết áp tâm thu < 90 mmHg hoặc tụt huyết áp tâm thu ≥ 40 mm Hg so với lần khám ban đầu trong thời gian 15 phútNguy cơ trung bình (khối phụ): Suy giảm chức năng tâm thất phải không có hạ huyết áp. Điều này được chứng minh bằng phì đại thất phải và/hoặc giảm chức năng vận động trên chẩn đoán hình ảnh (ví dụ: chụp CT mạch, siêu âm tim) cũng như bằng tình trạng tăng các chất chỉ điểm sinh học hệ tuần hoàn (ví dụ: troponin, peptide natriuretic não). Lưu ý rằng Hiệp hội Tim mạch Châu Âu định nghĩa thuyên tắc phổi có nguy cơ trung bình là những bệnh nhân có chỉ số mức độ thuyên tắc động mạch phổi đơn giản (sPESI) > 0, do đó bao gồm cả những bệnh nhân có các bệnh lý hoặc dấu hiệu khác, chẳng hạn như tuổi > 80, tiền sử ung thư, bệnh phổi mạn tính, nhịp tim nhanh (nhịp tim > 110), hạ huyết áp (huyết áp tâm thu < 100 mmHg) và giảm oxy máu (độ bão hòa oxyhemoglobin động mạch < 90%) (1,2). Thuyên tắc mạch phổi nguy cơ trung bình có thể được chia thành nguy cơ cao trung bình (có rối loạn chức năng tâm thất phải theo chẩn đoán hình ảnhvàchất chỉ điểm sinh học trong hệ tuần hoàn tăng cao) và nguy cơ thấp trung bình (có rối loạn chức năng tâm thất phải theo chẩn đoán hình ảnhhoặctăng chất chỉ điểm sinh học trong hệ tuần hoàn).Nguy cơ thấp: Không có suy thất phải và không có hạ huyết áp (và theo Hiệp hội Tim mạch Châu Âu, điểm sPESI = 0)Thuyên tắc phổi vùng yên ngựamô tả thuyên tắc mạch phổi nằm ở chỗ phân nhánh của động mạch phổi chính và vào động mạch phổi phải và động mạch phổi trái; thuyên tắc ở vùng yên ngựa thường, nhưng không phải luôn luôn, có nguy cơ trung bình hoặc nguy cơ cao. Hình dạng yên ngựa không quy định một phương pháp điều trị cụ thể. Mặc dù cục nghẽn hình yên ngựa thường có kích thước lớn, gây tắc nghẽn gần như hoàn toàn hoặc hoàn toàn, nhưng cục nghẽn đó cũng có thể tương đối mỏng và không gây tắc nghẽn.Trong 1% đến 3% số trường hợp thuyên tắc  động mạch phổi, tình trạng tắc nghẽn mạn tính còn lại dẫn đếntăng áp động mạch phổi(tăng áp động mạch phổi do huyết khối mạn tính) tiến triển trong nhiều tháng đến nhiều năm và có thể dẫn đến suy tim phải mạn tính (3).Khi một cục nghẽn lớn làm tắc nghẽn cấp tính các động mạch phổi lớn hoặc khi nhiều cục nghẽn nhỏ hơn kết hợp lại làm tắc nghẽn một tỷ lệ đáng kể các mạch máu đầu xa hơn, áp lực RV tăng lên, có thể dẫn đếnsuy RV cấp tính,sốchoặc tử vong đột ngột. Nguy cơ tử vong phụ thuộc vào mức độ và tốc độ tăng áp lực tim phải và tình trạng tim phổi nền của bệnh nhân. Bệnh nhân mắc bệnh tim phổi trước đó có nguy cơ tử vong cao hơn, nhưng những bệnh nhân trẻ và/hoặc khỏe mạnh khác có thể sống sót thậm chí khi tắc mạch phổi có bít tắc > 50% số giường động mạch phổi.Nhồi máu phổi do PE đôi khi được biểu hiện bằng hình ảnh hình nêm ở màng phổi trên phim chụp X-quang ngực hoặc các phương thức chẩn đoán hình ảnh khác. Tỷ lệ thấp này là do cung cấp máu kép cho phổi (ví dụ như phế quản và phổi). Nói chung, nhồi máu phổi là do thuyên tắc nhỏ hơn bị kẹt ở các động mạch phổi ở xa hơn và gần như luôn hồi phục hoàn toàn; nhồi máu phổi được phát hiện sớm, thường là trước khi hoại tử xảy ra.Tài liệu tham khảo sinh bệnh học1.Konstantinides SV, Meyer G, Becattini C, et al: 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS).Eur Heart J2020;41(4):543-603. doi:10.1093/eurheartj/ehz4052.Jiménez D, Aujesky D, Moores L, et al: Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism.Arch Intern Med2010;170(15):1383-1389. doi:10.1001/archinternmed.2010.1993.Ende-Verhaar YM, Cannegieter SC, Vonk Noordegraaf A, et al: Incidence of chronic thromboembolic pulmonary hypertension after acute pulmonary embolism: a contemporary view of the published literature.Eur Respir J2017;49(2):1601792. doi:10.1183/13993003.01792-2016
+
+--- 3. Các triệu chứng và dấu hiệu của thuyên tắc động mạch phổi ---
+
+Nhiều cục nghẽn động mạch phổi nhỏ, sinh lý không đặc hiệu và không có triệu chứng. Ngay cả khi xuất hiện, các triệu chứng không đặc hiệu và khác nhau về tần suất và cường độ, phụ thuộc vào mức độ tắc nghẽn mạch máu phổi và chức năng tim phổi trước đó.Cục nghẽn thường gây raKhó thở cấp tínhĐau ngực kiểu màng phổi (khi có nhồi máu phổi)Khó thở có thể ở mức ít khi nghỉ ngơi và có thể tăng hơn trong suốt quá trình hoạt động.Các triệu chứng ít gặp hơn bao gồm:Ho (thường do bệnh lý đi kèm hoặc do giãn động mạch phổi)Ho máu (thỉnh thoảng xảy ra khi có nhồi máu phổi)Ở bệnh nhân lớn tuổi, triệu chứng đầu tiên có thể là thay đổi trạng thái tinh thần.Cục nghẽn động mạch phổi lớn có thể biểu hiện tụt huyết áp, nhịp tim nhanh, choáng váng/tiền ngất, ngất, hoặc ngừng tim.Các dấu hiệu phổ biến nhất của thuyên tắc động mạch phổi làNhịp tim nhanhThở nhanhÍt phổ biến hơn, bệnh nhân có hạ huyết áp.Có thể có tiếng tim thứ hai to (S2) do thành phần van động mạch phổi lớn (P2) nhưng không phổ biến ở PE cấp tính vì áp lực động mạch phổi chỉ tăng ở mức không đáng kể. Có thể có tiếng ran hoặc thở khò khè, nhưng những âm thanh này thường là do bệnh lý đi kèm. Trong trường hợp có suy thất phải, có thể thấy rõ tĩnh mạch cảnh trong giãn và nhịp tim phải đập mạnh, và có thể nghe thấy tiếng phi nước đại của tim phải (tiếng tim thứ ba [S3]), có hoặc không có hở van ba lá.Sốt, nếu có, thường ở mức độ thấp trừ khi gây ra bởi tình trạng bệnh nền.Nhồi máu phổi thường được đặc trưng bởi đau ngực (chủ yếu là màng phổi) và thỉnh thoảng ho ra máu. Thành ngực có thể bị mềm.Tăng áp động mạch phổi do thuyên tắc huyết khối mạn tính gây ra các triệu chứng và dấu hiệu của suy tim phải, bao gồm khó thở, mệt mỏi, phù ngoại vi tiến triển trong nhiều tháng đến nhiều năm.Bệnh nhân có thuyên tắc động mạch phổi cấp tính cũng có thể có các triệu chứnghuyết khối tĩnh mạch sâu(tức là, đau, sưng, và/hoặc ban đỏ ở chân hoặc cánh tay). Tuy nhiên, các triệu chứng ở chân như vậy thường không xuất hiện.
+
+--- 4. Chẩn đoán thuyên tắc động mạch phổi ---
+
+Chỉ số nghi ngờ caoĐánh giá khả năng kiểm tra trước (dựa trên các dấu hiệu lâm sàng, bao gồm đo độ bão hòa oxy trong máu và chụp X-quang ngực)Thăm dò tiếp theo dựa trên xác suất bệnh trước testKhó chẩn đoán thuyên tắc động mạch phổi vì triệu chứng không đặc hiệu và các xét nghiệm chẩn đoán có độ nhạy, độ đặc hiệu không phải 100%. Điều quan trọng là cần nghĩ đến PE trong chẩn đoán phân biệt nếu gặp các triệu chứng không đặc hiệu, chẳng hạn như khó thở, đau ngực kiểu màng phổi, ho máu, nhức đầu, hoặc ngất. Vì vậy, PE nên được xem xét trong chẩn đoán phân biệt của bệnh nhân nghi ngờThiếu máu cơ timSuy timCơn kịch phát của bệnh phổi tắc nghẽn mạn tính (COPD)Tràn khí màng phổiViêm phổiNhiễm khuẩn huyếtHội chứng ngực cấptính (ở bệnh nhân bị bệnh hồng cầu hình liềm)Lo lắng cấp tínhđi kèm tăng thông khíNhịp tim nhanh không giải thích được là dấu hiệu có tính chất gợi ý. Thuyên tắc động mạch phổi cũng nên được xem xét ở bất kỳ bệnh nhân cao tuổi nào có tình trạng thở nhanh và thay đổi ý thức.Đánh giá ban đầu nên bao gồm đo độ bão hòa oxy trong máu và phim chụp X-quang ngực. Điện tâm đồ (ECG), đo khí máu động mạch (ABG) hoặc cả hai có thể giúp loại trừ các chẩn đoán khác (ví dụ:nhồi máu cơ tim cấp tính).Phim chụp X-quang ngựcthường không đặc hiệu nhưng có thể cho thấyxẹp phổi, thâm nhiễm khu trú, nửa cơ hoành nhô cao hoặc tràn dịch màng phổi. Các dấu hiệu kinh điển về mất khu trú các dấu mạch máu (dấu hiệu Westermark), mật độ ngoại vi, hình nêm phát sinh từ màng phổi (bướu Hampton), hoặc mở rộng động mạch phổi phải xuống là dấu hiệu gợi ý nhưng không phổ biến (tức là không nhạy cảm) và có mức độ đặc hiệu thấp. Chụp X-quang ngực cũng có thể giúp loại trừ bệnh viêm phổi. Nhồi máu phổi do thuyên tắc động mạch phổi có thể bị nhầm lẫn với viêm phổi.Đo độ bão hòa oxy máugiúp nhanh chóng đánh giá tình trạng oxy hóa máu; giảm O2 máu là một dấu hiệu của PE, và cần thiết phải đánh giá thêm.Xét nghiệm khí máucần phải được xem xét, đặc biệt đối với những bệnh nhân khó thở hoặc thở nhanh mà không phát hiện thấy tình trạng thiếu oxy bằng phương pháp đo độ bão hòa oxy trong máu.Đo khí máu động mạchcó thể cho thấy sự chênh lệch giữa oxy phế nang và động mạch (A-a) tăng lên (đôi khi được gọi là gradient A-a) hoặc giảm CO2 máu. Đo độ bão hòa oxy trong mạch và xét nghiệm khí máu có độ nhạy vừa phải đối với PE, nhưng không đặc hiệu. Độ bão hòa oxy có thể bình thường do lượng cục máu đông nhỏ hoặc do tăng thông khí bù trừ; áp suất riêng phần carbon dioxide (PCO2) rất thấp được phát hiện khi đo khí máu động mạch có thể xác nhận tình trạng giảm thông khí.ECGthường cho thấy nhịp tim nhanh và các bất thường sóng ST-T khác nhau, không đặc hiệu cho thuyên tắc mạch phổi (xem hìnhECG trong thuyên tắc mạch phổi). S1Q3T3 (sóng S ở chuyển đạo I, sóng Q ở chuyển đạo III, sóng T đảo ngược ở chuyển đạo III) hoặc blốc nhánh phải mới có thể cho thấy tác động của việc tăng đột ngột kích thước RV ảnh hưởng đến đường dẫn truyền RV; những phát hiện này có độ đặc hiệu vừa phải nhưng không nhạy cảm, chỉ xảy ra ở khoảng 5% số bệnh nhân, mặc dù những dấu hiệu này xảy ra ở tỷ lệ cao hơn ở những bệnh nhân có PE rất lớn. Có thể có lệch trục phải (R>S ở V1) và sóng P phế. Sóng T đảo ngược từ chuyển đạo V1 đến V4.Điện tâm đồ trong thuyên tắc mạch phổiECG cho thấy nhịp tim nhanh xoang ở tốc độ 110 nhịp/phút, S1Q3T3 và R=S ở V1 trên bệnh nhân đã có chứng minh thuyên tắc động mạch phổi cấp tính.Công cụ tính toán lâm sàngA-a GradientXác suất lâm sàngXác suất lâm sàng của thuyên tắc động mạch phổi có thể được đánh giá bằng cách kết hợp các dấu hiệu trên điện tâm đồ và trên phim chụp X-quang ngực kèm theo các dấu hiệu từ bệnh sử và khám thực thể. Điểm số dự đoán lâm sàng, chẳng hạn như điểm Wells hoặc điểm Geneva đã sửa đổi (1), hoặc quy tắc Tiêu chuẩn loại trừ thuyên tắc động mạch phổi (PERC), có thể hỗ trợ bác sĩ lâm sàng đánh giá khả năng có thuyên tắc động mạch phổi cấp tính. Các thang điểm dự đoán này dựa trên một loạt các yếu tố lâm sàng, với điểm tích luỹ tương ứng với xác suất của PE trước khi test (xác suất mắc bệnh trước test). Ví dụ, kết quả điểm Wells giúp phân loại khả năng có hoặc không có tắc mạch phổi. Điểm xác suất lâm sàng được nghiên cứu tốt nhất ở những bệnh nhân đến khoa cấp cứu thay vì những bệnh nhân đã nhập viện.Công cụ tính toán lâm sàngĐiểm Geneva đã sửa đổi để ước tính xác suất lâm sàng của bệnh thuyên tắc động mạch phổi ở người lớnCông cụ tính toán lâm sàngQuy tắc PERC để đánh giá khả năng thuyên tắc động mạch phổiMột trong những tiêu chuẩn lâm sàng quan trọng là đánh giá xem PE có nhiều khả năng hơn một chẩn đoán thay thế hay không, và việc xác định này hơi chủ quan. Tuy nhiên, đánh giá lâm sàng của các bác sĩ lâm sàng có kinh nghiệm cũng nhạy cảm bằng hoặc thậm chí nhạy hơn kết quả từ các điểm dự đoán chính thức. Có lẽ nên xem xét khả năng bị PE cao hơn nếu một hoặc nhiều triệu chứng và dấu hiệu, đặc biệt là khó thở, ho ra máu, nhịp tim nhanh hoặc hạ oxy máu, không thể giải thích được bằng lâm sàng hoặc bằng kết quả chụp X-quang ngực.Xác suất trước khi thăm dò giúp hướng dẫn chiến lược kiểm tra và giải thích các kết quả thăm dò. Bệnh nhân không nghĩ đến khả năng tắc mạch phổi chỉ cần xét nghiệm bổ sung tối thiểu (ví dụ như xét nghiệm D-dimer). Trong những trường hợp như vậy, xét nghiệm D-dimer âm tính (<0,4 mcg/mL [<2,2 nmol/L]) là dấu hiệu cao cho thấykhông cóthuyên tắc động mạch phổi. Ngược lại, nếu lâm sàng nghi ngờ tắc mạch phổi cao và nguy cơ chảy máu thấp, bệnh nhân ngay lập tức được cho thuốc chống đông trong khi chẩn đoán được xác nhận bằng các xét nghiệm bổ sung.Quy tắc PERC quy định 8 tiêu chí. Sự hiện diện của tất cả các tiêu chuẩn này ở một bệnh nhân, dựa trên kết quả lâm sàng, có nguy cơ thấp chỉ ra rằng xét nghiệm PE không được chỉ định (2). Các tiêu chí là:Tuổi < 50 tuổiNhịp tim < 100Độ bão hòa oxy ≥ 95%Không có huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổi trước đóKhông có sưng chân một bênKhông sử dụngestrogenKhông ho ra máuKhông có phẫu thuật hoặc chấn thương cần phải nằm viện trong vòng 4 tuần quaSử dụng quy tắc PERC đã được khuyến nghị là một cách để giảm tỷ lệ xét nghiệm để xem có PE không bằng xét nghiệm thông thường sử dụng D-dimer, nhưng với tỷ lệ độ nhạy và giá trị dự đoán âm tương tự.Công cụ tính toán lâm sàngKhả năng PE: Thang điểm WellsXét nghiệm chẩn đoánSàng lọc bệnh nhân ngoại trú bằng xét nghiệm D-dimer nếu khả năng trước xét nghiệm thấp hoặc trung bìnhNếu khả năng trước xét nghiệm cao hoặc nếu kết quả D-dimer tăng cao, chụp CT động mạch, hoặc nếu suy thận hoặc khi có chống chỉ định dùng thuốc cản quang CT, kèm theo chụp thông khí/tưới máu (V/Q)Đôi khi siêu âm chân hoặc cánh tay (để xác nhận huyết khối tĩnh mạch sâu khi chẩn đoán hình ảnh phổi bị trễ hoặc bị cấm)Không có phác đồ nào được chấp nhận rộng rãi để tiếp cận nghi ngờ thuyên tắc động mạch phổi cấp tính. Các xét nghiệm hữu ích nhất để chẩn đoán hoặc loại trừ PE làXét nghiệm D-dimerChụp CT mạchChụp thông khí/tưới máuSiêu âm DopplerSiêu âm tim có thể hữu ích để xác định thuyên tắc mạch phổi trên đường đến phổi (cục máu đông trong quá trình vận chuyển) hoặc để tìm bằng chứng về rối loạn chức năng thất phải mới. Các dấu hiệu trên siêu âm tim có thể gợi ý thuyên tắc mạch phổi bao gồm dấu hiệu 60/60, là sự kết hợp giữa thời gian tăng tốc động mạch phổi < 60 mili giây với chênh lệch đỉnh tâm thu của van ba lá < 60 mm Hg (3) và dấu hiệu McConnell, dấu hiệu này là khả năng co bóp của thành tự do RV bị suy giảm so với đỉnh RV (4).D-Dimerlà sản phẩm phụ của quá trình tiêu sợi huyết nội tại; do đó, nồng độ tăng cao xảy ra khi gần đây có huyết khối. Theo truyền thống, khi xác suất tiền xét nghiệm được coi là thấp hoặc trung bình, mức D-dimer âm tính (<0,4 mcg/mL [<2,2 nmol/L]) có độ nhạy cao đối với việckhông cóPE với giá trị dự báo âm tính > 95% (5); trong hầu hết các trường hợp, kết quả này đủ tin cậy để loại trừ chẩn đoán PE tại khoa cấp cứu hoặc phòng khám. Gần đây, dữ liệu đã chỉ ra rằng tuổi tác có thể làm tăng nồng độ D-dimer, điều này có thể gây ra kết quả xét nghiệm dương tính giả. Do đó, ở những bệnh nhân có xác suất PE trước xét nghiệm thấp hoặc trung bình và trên 50 tuổi, hệ số điều chỉnh phổ biến nhất là sử dụng giá trị ngưỡng của tuổi nhân với 10 tính bằng ng/mL. Tuy nhiên, nồng độ D-dimer tăng cao không đặc hiệu cho cục nghẽn tĩnh mạch vì nhiều bệnh nhân không có huyết khối tĩnh mạch sâu (DVT) hoặc PE cũng có mức độ tăng cao (đặc biệt ở những bệnh nhân nhập viện). Do đó, cần phải xét nghiệm thêm khi nồng D-dimer tăng cao hoặc khi xác suất PE trước xét nghiệm cao.Chụp CT mạch máulà kỹ thuật hình ảnh được ưu tiên để chẩn đoán thuyên tắc động mạch phổi cấp tính. Đây là phương pháp cho kết quả nhanh, chính xác, độ nhạy và đặc hiệu cao. Nó cũng có thể cung cấp thêm thông tin về các bệnh lý phổi khác (ví dụ, chứng minh viêm phổi là nguyên nhân gây ra giảm oxy hay đau ngực kiểu màng phổi nhiều hơn là tắc mạch phổi) cũng như mức độ nghiêm trọng của PE (ví dụ bằng kích thước của tâm thất phải hoặc trào ngược vào tĩnh mạch gan). Mặc dù chất lượng chụp kém do hiện tượng chuyển động hoặc lượng thuốc cản quang kém có thể hạn chế độ nhạy của xét nghiệm, công nghệ chụp CT cho phép thời gian chụp<2 giây, cung cấp hình ảnh tương đối không chuyển động ở những bệnh nhân khó thở. Thời gian quét nhanh cho phép sử dụng một lượng nhỏ các chất cản quang có chứa i-ốt làm giảm nguy cơ tổn thương thận cấp tính.Thuyên tắc động mạch phổi (CTA ngực)Hình ảnhHình ảnh do bác sĩ Victor F. Tapson cung cấpĐộ nhạy của chụp CT động mạch là cao nhất đối với thuyên tắc mạch phổi ở động mạch phổi chính hoặc ở các mạch của thùy hoặc phân thùy phổi. Độ nhạy của chụp CT mạch thấp nhất đối với cục nghẽn ở các mạch nhánh phụ (khoảng 30% số tất cả các cục nghẽn động mạch phổi). Tuy nhiên, chụp CT mạch vẫn là phương tiện được ưu tiên để chẩn đoán PE cấp tính nếu không có chống chỉ định.Chụp thông khí/tưới máu (V/Q)trong thuyên tắc động mạch phổi phát hiện những vùng phổi được thông khí nhưng không được tưới máu. Chụp V/Q mất nhiều thời gian hơn chụp CT mạch máu và kém đặc hiệu hơn. Tuy nhiên, khi kết quả chụp X-quang ngực bình thường hoặc gần bình thường và không có bệnh phổi tiềm ẩn đáng kể nào thì đây là kiểm tra có độ nhạy cao. Chụp V/Q đặc biệt hữu ích khi suy thận không cho phép sử dụng thuốc cản quang, vốn cần thiết cho chụp động mạch CT và ở những bệnh nhân đang mang thai (6). Ở một số bệnh viện, việc quét V/Q có thể được thực hiện bằng một máy di động cung cấp 3 góc nhìn về thông khí và tưới máu, rất hữu ích khi bệnh nhân quá ốm, không thể di chuyển được. Các khiếm khuyết về tưới máu có thể xảy ra trong nhiều tình trạng phổi khác (ví dụ,COPD,xơ phổi,viêm phổi,tràn dịch màng phổi). Sự không tương xứng về tưới máu giống tắc mạch phổi có thể xảy ra trong viêm mạch phổi, tắc tĩnh mạch phổi vàBệnh sarcoid.Kết quả dựa trên mô hình không cân xứng V/Q và được báo cáo là bình thường, xác suất thấp, xác suất trung bình hoặc xác suất cao của thuyên tắc động mạch phổi.Xác suất lâm sàng trước khi kiểm tra của thuyên tắc động mạch phổi phải được sử dụng cùng với kết quả chụp V/Q để xác định nhu cầu điều trị hoặc xét nghiệm thêm. (7).Thuyên tắc động mạch phổi (chụp thông khí-tưới máu)Chụp thông khí-tưới máu cho thấy xác suất cao bị thuyên tắc động mạch phổi cấp tính. Thông khí tương đối không bị ảnh hưởng, trong khi hình ảnh tưới máu cho thấy những khiếm khuyết lớn, đặc biệt là ở phổi trái.Hình ảnh do bác sĩ Victor F. Tapson cung cấpSiêu âm Dopplerlà một kỹ thuật an toàn, không xâm lấn, di động để phát hiện cục nghẽn ở chân hoặc cánh tay. Có thể phát hiện cục máu đông bằng cách quan sát thấy tĩnh mạch bị nén kém hoặc lưu lượng máu giảm qua siêu âm Doppler. Kiểm tra này có độ nhạy>95% và độ đặc hiệu>95% đối với cục nghẽn (8). Phát hiện DVT trong tĩnh mạch bắp chân hoặc tĩnh mạch chậu có thể khó khăn hơn nhưng nói chung có thể làm được. Người thực hiện siêu âm nên cố gắng phản ánh hình ảnh tĩnh mạch khoeo ở thì tưới máu của nó.Việc không có cục nghẽn ở tĩnh mạch chân không loại trừ khả năng cục nghẽn từ các nguồn khác, chẳng hạn như các chi trên hoặc mạch máu vùng chậu, nhưng những bệnh nhân nghi ngờ bị DVT và có kết quả âm tính trên siêu âm Doppler có thời gian sống thêm không biến cố>95%, vì cục nghẽn từ các nguồn khác ít phổ biến hơn nhiều.Mặc dù siêu âm chân hoặc cánh tay không phải là phương pháp chẩn đoán PE, nhưng một nghiên cứu phát hiện cục nghẽn ở chân hoặc ở nách-dưới đòn sẽ xác định việc cần thiết phải dùng thuốc chống đông và có thể loại trừ nhu cầu xét nghiệm chẩn đoán thêm trừ khi cân nhắc liệu pháp tích cực hơn (ví dụ: liệu pháp tiêu huyết khối). Do đó, việc dừng đánh giá chẩn đoán sau khi phát hiện DVT trên siêu âm chân hoặc cánh tay là phù hợp nhất đối với những bệnh nhân ổn định có chống chỉ định với thuốc cản quang CT và những bệnh nhân mà chụp V/Q được dự đoán có độ đặc hiệu thấp (ví dụ: ở những bệnh nhân có phum chụp X-quang ngực bất thường). Trong khi nghi ngờ tắc mạch phổi cấp, kết quả siêu âm bình thường cũng vẫn cần thiết tiến hành các thăm dò bổ sung.Ngọc trai & cạm bẫyTrong trường hợp nghi ngờ thuyên tắc động mạch phổi cấp tính, việc không có huyết khối tĩnh mạch trên siêu âm không loại trừ được thuyên tắc động mạch phổi.Siêu âm timcó thể cho thấy cục máu đông ở tâm nhĩ phải hoặc tâm thất phải, nhưng siêu âm tim thường được sử dụng nhất để phân tầng nguy cơ trong PE cấp tính. Sự xuất hiện của giãn thất phải và giảm vận động có thể gợi ý sự cần thiết phải điều trị tích cực hơn.Xét nghiệm chất chỉ điểm về timlà một phương tiện hữu ích để phân tầng nguy cơ tử vong ở những bệnh nhân bị thuyên tắc động mạch phổi cấp tính. Xét nghiệm chất chỉ điểm sinh học tim có thể được sử dụng như một biện pháp hỗ trợ cho các xét nghiệm khác nếu nghi ngờ hoặc chứng minh được mắc PE. Nồng độ troponin tăng cao biểu hiện sự thiếu máu thất phải (hoặc đôi khi là thất trái). Nồng độ BNP và pro-BNP tăng cao có thể cho thấy sự rối loạn chức năng thất phải; tuy nhiên, các xét nghiệm này không phải là đặc trưng cho thất phải giãn hoặc tắc mạch phổi.Xét nghiệm về rối loạn huyết khối (ưu huyết khối)không nên được thực hiện thường xuyên. Việc xét nghiệm cần phải được xem xét đối với những bệnh nhân PE vô căn (nghĩa là không biết có yếu tố nguy cơ hoặc nguyên nhân nào), đặc biệt là nếu họ trẻ tuổi (< 60 tuổi), có PE tái phát hoặc có tiền sử gia đình dương tính. Một số bệnh ưu huyết khối, chẳng hạn nhưhội chứng kháng phospholipid, cần có các loại liệu pháp chống đông máu dành riêng cho từng bệnh.Chụp động mạch phổihiếm khi cần để chẩn đoán PE cấp tính vì chụp CT mạch máu không xâm lấn có độ nhạy và độ đặc hiệu tương tự. Tuy nhiên, ở những bệnh nhân đang sử dụng phương pháp tiêu huyết khối bằng catheter, chụp động mạch phổi được sử dụng để đánh giá vị trí catheter và có thể được sử dụng như một phương tiện nhanh để xác định rõ sự thành công của thủ thuật khi rút catheter. Chụp động mạch phổi cũng được sử dụng cùng với đặt ống thông tim phải để đánh giá xem bệnh nhân tăng áp động mạch phổi do thuyên tắc huyết khối mạn tính có phải là ứng cử viên cho phẫu thuật cắt bỏ nội mạc động mạch phổi hay không.Tài liệu tham khảo chẩn đoán1.Le Gal G, Righini M, Roy PM, et al: Prediction of pulmonary embolism in the emergency department: the revised Geneva score.Ann Intern Med144:165–171, 2006.2.Kline JA, Courtney DM, Kabrhel C, et al. Prospective multicenter evaluation of the pulmonary embolism rule-out criteria.J Thromb Haemost6(5):772-780, 2008 doi:10.1111/j.1538-7836.2008.02944.x3.Kurzyna M, Torbicki A, Pruszczyk P, et al: Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism.Am J Cardiol90(5):507–511, 2002 doi:10.1016/s0002-9149(02)02523-74.McConnell MV, Solomon SD, Rayan ME, et al: Regional right ventricular dysfunction detected by echocardiography in acute pulmonary embolism.Am J Cardiol78(4):469–473, 1996 doi:10.1016/s0002-9149(96)00339-65.Bass AR, Fields KG, Goto R, Turissini G, Dey S, Russell LA: Clinical Decision Rules for Pulmonary Embolism in Hospitalized Patients: A Systematic Literature Review and Meta-analysis.Thromb Haemost2017;117(11):2176-2185. doi:10.1160/TH17-06-03956.Leung AN, Bull TM, Jaeschke R, et al: SI An official American Thoracic Society/Society of Thoracic Radiology clinical practice guideline: evaluation of suspected pulmonary embolism in pregnancy.Am J Respir Crit Care Med2011;184(10):1200-1208. doi:10.1164/rccm.201108-1575ST7.PIOPED Investigators: Value of the ventilation/perfusion scan in acute pulmonary embolism. Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED).JAMA263(20):2753–2759, 1990 doi:10.1001/jama.1990.034402000570238.Habscheid W, Höhmann M, Wilhelm T, Epping J: Real-time ultrasound in the diagnosis of acute deep venous thrombosis of the lower extremity.Angiology41(8):599–608, 1990. doi:10.1177/000331979004100803
+
+--- 5. Điều trị chung của thuyên tắc động mạch phổi ---
+
+Liệu pháp hỗ trợChống đôngĐặt màng lọc tĩnh mạch chủ dưới (hiếm khi dùng, ở một số bệnh nhân được chọn)Giảm gánh nặng cục máu đông nhanh chóng thông qua việc tiêu huyết khối hoặc phẫu thuật cắt bỏ huyết khối (ở những bệnh nhân được chọn)Đánh giá nhanhvì cần thiết phải điều trị hỗ trợ. Ở bệnh nhân thiếu oxy máu, cần cung cấp oxy. Ở những bệnh nhân bị hạ huyết áp do PE rất lớn, cần phải truyền dịch theo đường tĩnh mạch dưới dạng tấn công, chú ý đến hiệu quả và tình trạng thể tích. Cần thận trọng vì quá tải tâm thất phải có thể dẫn đến tình trạng xấu đi. Thuốc co mạch cũng có thể được dùng nếu bù dịch không tăng được huyết áp. Norepinephrine được sử dụng nhiều nhất như là trị liệu đầu tay. Các thuốc tăng co bóp cơ tim như dobutamine và milrinone cũng cần phải được xem xét tùy thuộc vào chức năng thất phải.Nói chung,Bệnh nhân có nguy cơ thấp chỉ nên dùng thuốc chống đông máuBệnh nhân có nguy cơ cao cần phải dùng thuốc chống đông kết hợp với các biện pháp bổ sung như tiêu huyết khối đường toàn thân hoặc điều trị bằng phẫu thuật hoặc qua ống thông.Đối với những bệnh nhân có nguy cơ trung bình (cao hoặc thấp), việc cân nhắc điều trị sẽ phức tạp hơn. Những bệnh nhân có nguy cơ trung bình-thấp thường được điều trị bằng thuốc chống đông đơn thuần. Tuy nhiên, những bệnh nhân thuộc nhóm nguy cơ trung bình cần được đánh giá lại toàn bộ bệnh cảnh lâm sàng để phát hiện bất kỳ tình trạng lâm sàng xấu đi nào, bao gồm cảSuy giảm các sinh hiệuMức độ nặng của rối loạn chức năng RV bằng siêu âm timLượng oxy cần thiết và nhu cầu dùng thuốc làm co mạchVị trí và gánh nặng của cục máu đôngThuốc chống đônglà phương pháp điều trị chính cho PE.Giảm nhanh gánh nặng cục máu đôngthông qua liệu pháp tiêu sợi huyết hoặc phẫu thuật lấy huyết khối được chỉ định cho những bệnh nhân bị hạ huyết áp không khỏi sau khi hồi sức dịch và cho một số bệnh nhânđược chọnbị suy giảm chức năng thất phải hoặc nhu cầu oxy tăng cao.Nên cân nhắcđặt bộ lọc tĩnh mạch chủ dưới qua da(IVCF) có thể tháo rời cho những bệnh nhân có chống chỉ định dùng thuốc chống đông hoặc những bệnh nhân bị PE tái phát mặc dù đã dùng thuốc chống đông. Ví dụ: những bệnh nhân bị PE cấp tính và cục máu đông tồn dư ở chân và không thể dùng thuốc chống đông máu, cần phải đặt màng lọc vì họ có nguy cơ dai dẳng bị huyết khối tĩnh mạch sâu sau đó.Nằm việntrong ít nhất 24 đến 48 giờ được thực hiện đối với hầu hết bệnh nhân PE. Bệnh nhân có sinh hiệu bất thường hoặc PE có nguy cơ cao hoặc nguy cơ trung bình cần thời gian nằm viện lâu hơn.Bệnh nhân mắc PE có nguy cơ cao phải đượcnhập viện vào khoa hồi sức tích cực (ICU). Nhập viện ICU cũng nên được xem xét nếu bệnh nhân cóTăng gánh nặngHội chứng thất phảiThiếu oxy máu đáng kểHuyết áp thấp hoặc ở ngưỡng thấpSuy giảm về lâm sàngCó thể sử dụngđiều trị ngoại trúcho những bệnh nhân chọn lọc có nguy cơ thấp và tình cờ phát hiện PE hoặc cho những người có cục máu đông rất nhỏ và triệu chứng ở mức không đáng kể là các sinh hiệu của họ ổn định, ngay việc hướng dẫn sẽ được thực hiện và cần có ngay tại chỗ kế hoạch hợp lý dành cho việc điều trị ngoại trú và theo dõi.Nhóm ứng phó thuyên tắc mạch phổi (PERT)Với các phương án điều trị ngày càng phát triển và thiếu các thử nghiệm phân nhóm ngẫu nhiên có đối chứng, việc lựa chọn phương pháp điều trị thích hợp cho từng bệnh nhân có thể là một thách thức. Nhiều bệnh viện sử dụng một nhóm bác sĩ lâm sàng đa ngành (nhóm ứng phó thuyên tắc mạch phổi) để nhanh chóng đánh giá bệnh nhân, xác định mức độ nguy cơ bị thuyên tắc mạch phổi và đưa ra các quyết định điều trị phức tạp cần thiết. Các nhóm này có thể bao gồm các bác sĩ lâm sàng trong lĩnh vực chăm sóc phổi/hồi sức tích cực, tim mạch can thiệp, X quang can thiệp, phẫu thuật tim lồng ngực, huyết học, cấp cứu nội khoa và các chuyên khoa khác. Các nghiên cứu đơn trung tâm gần đây được công bố đã cho thấy tỷ lệ chảy máu thấp hơn, thời gian điều trị chống đông máu ngắn hơn, giảm tỷ lệ tử vong trong 30 ngày và giảm việc sử dụng màn lọc IVC ở những bệnh nhân được PERT xử trí. Việc sử dụng PERT trong điều trị PE cấp tính hiện được Hiệp hội Tim mạch Châu Âu khuyến nghị (1,2).Tài liệu tham khảo về điều trị tổng quát1.Chaudhury P, Gadre SK, Schneider E, et al. Impact of Multidisciplinary Pulmonary Embolism Response Team Availability on Management and Outcomes.Am J Cardiol2019;124(9):1465-1469. doi:10.1016/j.amjcard.2019.07.0432.Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC).Eur Respir J2019;54(3):1901647. doi:10.1183/13993003.01647-2019
+
+--- 6. Chống đông máu trong thuyên tắc mạch phổi ---
+
+Thuốc chống đông ban đầu sau đó là thuốc chống đông duy trì được chỉ định cho những bệnh nhân bị tắc mạch phổi cấp tính để ngăn ngừa tắc mạch thêm cũng như hình thành cục máu đông mới. Bắt đầu điều trị bằng thuốc chống đông bất cứ khi nào nghi ngờ tắc mạch phổi cấp, miễn là nguy cơ chảy máu thấp. Nếu không, nên bắt đầu chống đông máu ngay khi có chẩn đoán. Thời gian điều trị chống đông máu được phát hiện có tác động đến tỷ lệ tử vong. Những bệnh nhân đạt được liệu pháp chống đông máu trong vòng 24 giờ đã được phát hiện là có cải thiện đáng kể về tỷ lệ tử vong trong bệnh viện cũng như tỷ lệ tử vong trong 30 ngày (1).Khả năng về lợi ích so với tác hại trong điều trị cục nghẽn ở các mạch máu nhỏ hơn, theo phân đoạn nhỏ (đặc biệt là các cục nghẽn không có triệu chứng và được phát hiện tình cờ) vẫn chưa được biết rõ và có khả năng đối với một số bệnh nhân, tác hại có thể lớn hơn lợi ích. Tuy nhiên, điều trị vẫn được khuyến khích cho đại đa số bệnh nhân.Các biến chứng chính của điều trị chống đông máu là chảy máu, do đó bệnh nhân nên được theo dõi biến chứng chảy máu trong khi nằm viện.Điều trị chống đông khởi đầuLựa chọnthuốc chống đông khởi đầucho tắc mạch phổi cấp tính bao gồmHeparinkhông phân đoạn đường tĩnh mạchHeparintrọng lượng phân tử thấp tiêm dưới daThuốc ức chếyếu tố Xa(apixaban,edoxabanhoặcrivaroxabanđường uống hoặcfondaparinuxtiêm dưới da)Thuốc ức chếthrombintrực tiếp (argatrobanđường tĩnh mạch,dabigatranđường uống) cho bệnh nhân bị giảm tiểu cầu doheparinHeparin không phân đoạn tĩnh mạchcó thời gian bán hủy ngắn (hữu ích khi có nguy cơ chảy máu cao) và có thể hết tác dụng với protamine. Ban đầu tiêm tấn công một liềuheparinkhông phân đoạn, sau đó truyềnheparintheo phác đồ để đạt được thời gian Thromboplastin từng phần được kích hoạt (PTT) gấp 1,5 đến 2,5 lần so với mức kiểm soát bình thường. Do đó,heparinkhông phân đoạn đòi hỏi phải nằm viện liên tục để sử dụng. Hơn nữa, dược động học củaheparinkhông phân đoạn tương đối khó dự đoán, dẫn đến thường xuyên xảy ra tình trạng chống đông quá mức và dưới mức chống đông và cần phải điều chỉnh liều thường xuyên. Một số bác sĩ lâm sàng ưu tiên phác đồheparinkhông phân đoạn theo đường tĩnh mạch này khi điều trị tiêu huyết khối được cho dùng hoặc được dự tính hoặc khi bệnh nhân có nguy cơ chảy máu vì nếu chảy máu xảy ra, thời gian bán hủy ngắn có nghĩa là tác dụng chống đông nhanh chóng bị đảo ngược sau khi ngừng truyền.Heparin trọng lượng phân tử thấp tiêm dưới dacó một số ưu điểm so vớiheparinkhông phân đoạn bao gồmTính sinh khả dụng caoLiều lượng dựa trên cân nặng mang lại hiệu quả chống đông máu có thể dự đoán được hơn so với liều lượng dựa trên cân nặng củaheparinkhông phân đoạn, cho phép thời gian điều trị nhanh hơn.Dễ sử dụng (có thể tiêm dưới da một hoặc hai lần mỗi ngày)Giảm tỷ lệ chảy máuKết quả có thể tốt hơnCó thể cho bệnh nhân tự tiêm (do đó cho phép xuất viện sớm từ bệnh viện)Nguy cơ giảm tiểu cầu doheparinthấp hơn so vớiheparintiêu chuẩn, không phân đoạnCác loạiheparintrọng lượng phân tử thấp có thể được sử dụng bao gồm dalteparin, enoxaparin và tinzaparin.Ở những bệnh nhân suy thận, cần giảm liều và sau đó cần xác minh lại liều dùng phù hợp bằng cách kiểm tra nồng độyếu tố Xatrong huyết thanh (mục tiêu: 0,5 đến 1,2 IU/mL đo ở thời điểm 3 giờ đến 4 giờ sau khi dùng liều thứ tư). Heparin trọng lượng phân tử thấp thường chống chỉ định ở những bệnh nhân suy thận nặng (độ thanh thải creatinin < 30 mL/phút [0,5 mL/giây/m2]). Heparin trọng lượng phân tử thấp có thể đảo ngược tác dụng một phần bằng protamine.Tác dụng phụ của tất cả các heparin bao gồm:Chảy máuGiảm tiểu cầu (bao gồmgiảm tiểu cầu do heparingây ra với khả năng thuyên tắc huyết khối)Mày đaySốc phản vệ(hiếm gặp)Chảy máu do sử dụng quá nhiều heparin kèm theo heparin không phân đoạn có thể được điều trị bằng truyền protamine. Việc sử dụngheparinquá mức bằng heparin trọng lượng phân tử thấp cũng có thể được điều trị bằng protamine.Fondaparinuxlà thuốc đối khángyếu tố Xađược tiêm dưới da. Thuốc có thể được sử dụng trong DVT cấp tính và PE cấp tính thay vìheparinhoặcheparintrọng lượng phân tử thấp. Kết quả có vẻ tương tự như kết quả củaheparinkhông phân đoạn. Ưu điểm bao gồm điều trị liều cố định một lần hoặc hai lần mỗi ngày, không cần theo dõi mức độ chống đông, giảm nguy cơ bị giảm tiểu cầu. Việc dùng thuốc bị chống chỉ định nếu độ thanh thải creatinin < 30 mL/phút (0,5 mL/giây/m2).Cácthuốc ức chếyếu tố Xakhác, apixaban, Rivaroxaban và edoxaban, có ưu điểm là dùng liều cố định đường uống và khả năng được sử dụng làmthuốc chống đông máu để duy trìmà không cần theo dõi tác dụng chống đông máu trong phòng thí nghiệm. Thuốc cũng ít gây ra tương tác bất lợi với các thuốc khác, mặc dù liệu pháp chống nấm azole và thuốc ức chế protease sẽ làm tăng nồng độ thuốc ức chếyếu tố Xađường uống và một số thuốc chống co giật và rifampin sẽ làm giảm nồng độ thuốc ức chếyếu tốXa đường uống. Mặc dùrivaroxabanvàapixabankhông cần phải dùng kết hợp với thuốc chống đông đường tiêm truyền khi dùng làm liệu pháp ban đầu, nhưngedoxabanlại cần phải dùng một loại thuốc chống đông đường tiêm truyền trong 5 ngày đến 10 ngày.Giảm liều được chỉ định cho bệnh nhân suy thận. Apixaban có thể được sử dụng trên bệnh nhân suy thận và sử dụng an toàn trên bệnh nhân chạy thận nhân tạo.Có thể đảo ngược tác dụng chống đông máu của thuốc ức chếyếu tố Xađường uống (rivaroxaban, apixaban, edoxaban) bằng andexanet, mặc dù loại thuốc này không được sử dụng rộng rãi. Có thể đảo ngược tác dụng của fondaparinux bằng cách sử dụng yếu tố VII hoạt hóa tái tổ hợp (2). Thời gian bán hủy của thuốc ức chếyếu tố Xangắn hơn nhiều so với thời gian bán hủy của warfarin. Nếu chảy máu tiến triển đòi cần điều trị đối kháng, cần cân nhắc sử dụng phức hợp 4-prothrombin và nên hội chẩn chuyên khoa huyết học.Độ an toàn và hiệu quả của những loại thuốc này ở những bệnh nhân bị PE có biến chứng mất bù tim phổi nặng chưa được nghiên cứu và thuốc tiêm truyền nên được sử dụng để chống đông máu cho những bệnh nhân này cho đến khi chức năng tim phổi được cải thiện đáng kể.Thuốc ức chếtrực tiếpthrombindabigatran cũng có hiệu quả trong điều trị DVT và PE cấp tính.Dabigatrancần phải kết hợp với thuốc chống đông đường tiêm truyền khi dùng làm liệu pháp ban đầu. Idarucizumab có hiệu quả trong việc đảo ngược tác dụng củadabigatran.Ở những bệnh nhân nghi ngờ hoặc đã được chứng minh bịgiảm tiểu cầu do heparin, có thể sử dụng argatroban đường tĩnh mạch hoặc fondaparinux dưới da để chống đông máu. Việc sử dụng thuốc chống đông đường uống trực tiếp (dabigatran, apixaban, edoxaban, rivaroxaban) trong tình huống này được xác định là an toàn trong một phân tích tổng hợp gần đây (3).Điều trị chống đông duy trìĐiều trị chống đông duy trìđược chỉ định để giảm nguy cơ đông máu hoặc thuyên tắc huyết khối và để giảm nguy cơ hình thành cục máu đông. Lựa chọn thuốc để duy trì thuốc chống đông máu bao gồmThuốc khángvitamin Kđường uống (VKA) (warfarin ở Hoa Kỳ)Thuốc ức chếyếu tố Xađường uống (apixaban, rivaroxaban, edoxaban)Thuốc ức chếthrombintrực tiếp đường uống (dabigatran)Hiếm khi tiêm dưới da heparin trọng lượng phân tử thấp hoặc tiêm dưới da fondaparinuxWarfarinlà một phương án chống đông máu đường uống hiệu quả lâu dài đã được sử dụng trong nhiều thập kỷ, nhưng thuốc này không thuận tiện vì một số lý do. Ở hầu hết bệnh nhân,warfarinđược bắt đầu dùng vào cùng ngày với liệu pháp heparin (hoặc fondaparinux) được sử dụng để chống đông ban đầu. Liệu phápheparin(hoặcfondaparinux) cần phải được kết hợp với liệu phápwarfarintrong tối thiểu 5 ngàyvàcho đến khi tỷ lệ chuẩn hóa quốc tế (INR) nằm trong phạm vi điều trị (2,0 đến 3,0) trong ít nhất 24 giờ.Nhược điểm chính củawarfarinlà cần theo dõi INR định kỳ, điều chỉnh liều thường xuyên và tương tác với thuốc, thực phẩm chức năng và thực phẩm. Các bác sĩ kê đơnwarfarinnên cảnh giác với những tương tác như vậy; ở bệnh nhân dùngwarfarin, hầu như bất kỳ loại thuốc hoặc chất nào mới uống đều phải được kiểm tra.Chảy máu là biến chứng thường gặp nhất khi điều trị bằngwarfarin; bệnh nhân>65 tuổi và những người có bệnh kèm theo (đặc biệt là tiểu đường, nhồi máu cơ tim gần đây, hematocrit<30%, hoặc creatinine>1,5 mg/dL [>133 micromol/L]) và có tiền sử bị đột quỵ hoặc chảy máu đường tiêu hóa dường như ở mức nguy cơ lớn nhất. Chảy máu có thể được đảo ngược bằng vitamin K và trong trường hợp khẩn cấp, bằng huyết tương đông lạnh tươi hoặc chế phẩm cô đặc (phức hợp cô đặc prothrombin) có chứa yếu tố II (prothrombin), yếu tố VII,yếu tố IX,yếu tố X, protein C và protein S. Vitamin K có thể gây đỏ bừng mặt, đau tại chỗ và hiếm khi gây sốc phản vệ.Hoại tử dowarfarin, một biến chứng nghiêm trọng của liệu phápwarfarin, là tình trạng tăng đông nghịch thường có thể xảy ra khi bắt đầu dùng liệu phápwarfarin.Warfarinlàm bất hoạt các yếu tố đông máu phụ thuộc vitamin K II, VII, IX và X. Đồng thời, các protein C và S phụ thuộc vitamin K cũng bị bất hoạt. Điều này có thể gây ra tình trạng tăng đông máu nghịch thường, trong đó các vi huyết khối hình thành ở các tĩnh mạch ở da và dưới da, dẫn đến hoại tử da. Dựa trên những cân nhắc này và sự phát triển của các thuốc chống đông đường uống tiện lợi hơn, việc sử dụngwarfarinđã giảm đáng kể. Tuy nhiên, cân nhắc về chi phí vẫn khiếnwarfarintrở thành lựa chọn điều trị hợp lý cho một số bệnh nhân.Ngọc trai & cạm bẫyỞ bệnh nhân đang dùngwarfarin, cần kiểm tra bất kỳ loại thuốc hoặc thực phẩm chức năng mới nào để xem có tương tác tiềm ẩn nào không.Thuốc chống đông ức chếyếu tố Xađường uốnglà apixaban, edoxaban và rivaroxaban có thể được sử dụng cho cả liệu pháp chống đông ban đầu và duy trì (xem bảngThuốc chống đông đường uống trực tiếp để điều trị thuyên tắc huyết khối tĩnh mạch). Những loại thuốc này tiện lợi hơn warfarin do liều dùng cố định và không cần theo dõi trong phòng xét nghiệm, cũng như có ít tương tác hơn. Trong các thử nghiệm lâm sàng,rivaroxaban(4,5),apixaban(6), andedoxaban(7) có hiệu quả (trong phân tích không kém hơn) nhưwarfarintrong việc ngăn ngừa DVT và PE tái phát. Một phân tích tổng hợp các thử nghiệm giai đoạn III, phân nhóm ngẫu nhiên có đối chứng trên quy mô lớn cho thấy tỷ lệ chảy máu nghiêm trọng, bao gồm xuất huyết nội sọ, thấp hơn đáng kể khi dùng thuốc chống đông ức chếyếu tố Xađường uống so vớiwarfarin(8). Một lợi thế khác của cảrivaroxabanvàapixabanlà liều dùng có thể được giảm xuống sau khi bệnh nhân được điều trị trong 6 tháng đến 12 tháng (9).Một lưu ý quan trọng là edoxaban cần phải dùng heparin ban đầu hoặc heparin trọng lượng phân tử thấp trước 5 đến 10 ngày.Dabigatran, thuốc ức chế trực tiếpthrombincũng có thể được sử dụng để duy trì liệu pháp chống đông máu. Cũng như với edoxaban, cần điều trị từ 5 đến 10 ngày bằng heparin không phân đoạn hoặc heparin trọng lượng phân tử thấp trước khi bắt đầu dùng dabigatran. Chảy máu liên quan đến lâm sàng ở nhómdabigatranthấp hơn so vớiwarfarin. Việc sử dụngdabigatranlàm điều trị duy trì có những ưu điểm và nhược điểm tương tự như việc sử dụng thuốc ức chếyếu tố Xa.Sự cần thiết phải điều trị heparin ban đầu trước khi sử dụng edoxaban hoặc dabigatran phản ánh cách thức tiến hành các thử nghiệm lâm sàng.Heparin trọng lượng phân tử thấp tiêm dưới dađược sử dụng chủ yếu cho bệnh nhân ung thư có nguy cơ cao bị thuyên tắc mạch phổi hoặc bệnh nhân thuyên tắc mạch phổi tái phát mặc dù đã sử dụng các thuốc chống đông máu khác. Tuy nhiên, nhiều thử nghiệm gần đây về apixaban, edoxaban và rivaroxaban đã được hoàn thành ở những bệnh nhân ung thư và các thuốc này hiện được khuyến nghị thay thếheparintrọng lượng phân tử thấp (10).Aspirinđã được nghiên cứu để điều trị duy trì lâu dài. Nó có vẻ hiệu quả hơn giả dược nhưng ít hiệu quả hơn tất cả các thuốc chống đông khác có sẵn. Rivaroxaban, 10 mg một lần/ngày, đã được chứng minh là hiệu quả hơn trong việc giảm DVT/PE tái phát nhưng vẫn an toàn nhưaspirinở những bệnh nhân đã được điều trị bằng thuốc chống đông trong 6 tháng đến 12 tháng (9).Thời gian điều trị chống đông máuThời gian điều trị duy trì chống đôngđối với thuyên tắc động mạch phổi, phụ thuộc vào nhiều yếu tố (ví dụ: các yếu tố nguy cơ đối với thuyên tắc động mạch phổi, nguy cơ chảy máu) và có thể dao động từ 3 tháng đến điều trị suốt đời. Các yếu tố nguy cơ thoáng qua rõ ràng (ví dụ: bất động, phẫu thuật gần đây, chấn thương) chỉ cần điều trị 3 tháng. Những bệnh nhân bị PE không nguyên nhân, những người có các yếu tố nguy cơ bền vững hơn đối với PE (ví dụ, ung thư, rối loạn đông máu) và những người bị PE tái phát có thể được hưởng lợi từ việc kháng đông suốt đời với điều kiện nguy cơ chảy máu thấp hoặc trung bình. Ở những bệnh nhân bị thuyên tắc huyết khối tĩnh mạch vô căn, nên thực hiện đánh giá hàng năm về nguy cơ chảy máu so với nguy cơ đông máu và đưa ra quyết định chung sáng suốt về việc tiếp tục dùng thuốc chống đông máu.Các yếu tố nguy cơ chảy máubao gồm> 65 tuổiChảy máu trước đâyGiảm tiểu cầuĐiều trị chống tiểu cầuKiểm soát thuốc chống đông máu kémNgã thường xuyênSuy ganLạm dụng rượuPhẫu thuật gần đâyGiảm công suất chức năngĐột quỵ trước đóBệnh tiểu đườngThiếu máuUng thưSuy thậnNguy cơ chảy máu thấp được định nghĩa là không có yếu tố nguy cơ chảy máu, nguy cơ chảy máu trung bình được xác định là một yếu tố nguy cơ và nguy cơ chảy máu cao được xác định là có hai hoặc nhiều yếu tố nguy cơ.Đối với những bệnh nhân được coi là phù hợp để dùng thuốc chống đông máu dài hạn, sau 6 tháng điều trị bằng rivaroxaban hoặc apixaban, có thể cân nhắc giảm liều.Tài liệu tham khảo về thuốc chống đông1.Smith SB, Geske JB, Maguire JM, Zane NA, Carter RE, Morgenthaler TI. Early anticoagulation is associated with reduced mortality for acute pulmonary embolism.Chest2010;137(6):1382-1390. doi:10.1378/chest.09-09592.Yee J, Kaide CG. Emergency Reversal of Anticoagulation.West J Emerg Med2019;20(5):770-783. doi:10.5811/westjem.2018.5.382353.Nilius H, Kaufmann J, Cuker A, Nagler M. Comparative effectiveness and safety of anticoagulants for the treatment ofheparin-induced thrombocytopenia.Am J Hematol2021;96(7):805-815. doi:10.1002/ajh.261944.EINSTEIN Investigators, Bauersachs R, Berkowitz SD, et al: Oralrivaroxabanfor symptomatic venous thromboembolism.N Engl J Med363(26):2499–2510, 2010. doi:10.1056/NEJMoa10079035.EINSTEIN-PE Investigators, Buller HR, Prins MH, et al: Oralrivaroxabanfor the treatment of symptomatic pulmonary embolism.N Engl J Med366 (14):1287–1297, 2012. doi:10.1056/NEJMoa11135726.Agnelli G, Buller HR, Cohen A, et al: Oralapixabanfor the treatment of acute venous thromboembolism.N Engl J Med369(9):799–808, 2013. doi:10.1056/NEJMoa13025077.Hokusai-VTE Investigators, Buller HR, Decousus H, et al:Edoxabanversuswarfarinfor the treatment of symptomatic venous thromboembolism.N Engl J Med369(15): 1406–1415, 2013. doi:10.1056/NEJMoa13066388.van Es N, Coppens M, Schulman S, et al:Direct oral anticoagulants compared with vitamin K antagonists for acute symptomatic venous thromboembolism: evidence from phase 3 trials.Blood124 (12): 1968–1975, 2014. doi:10.1182/blood-2014-04-5712329.Weitz JI, Lensing AWA, Prins MH, et al:Rivaroxabanoraspirinfor extended treatment of venous thromboembolism.N Engl J Med376:1211–1222, 2017. doi: 10.1056/NEJMoa1700518.10.Stevens SM, Woller SC, Kreuziger LB, et al: Antithrombotic therapy for VTE disease: Second update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.055
+
+--- 7. Giảm nhanh tác động của huyết khối ---
+
+Nên cân nhắc việc loại bỏ cục máu đông bằng phương pháp cắt bỏ cục máu đông hoặc làm tan cục máu đông bằng liệu pháp tiêu sợi huyết qua đường tĩnh mạch hoặc ống thông đối với tình trạng thuyên tắc động mạch phổi cấp tính liên quan đến hạ huyết áp không khỏi sau khi hồi sức truyền dịch (PE nguy cơ cao/lớn) (1). Những bệnh nhân bị hạ huyết áp và cần điều trị bằng thuốc vận mạch là những ứng cử viên rõ ràng. Bệnh nhân có huyết áp tâm thu < 90 mm Hg hoặc huyết áp tâm thu giảm so với giá trị ban đầu > 40 mm Hg kéo dài ít nhất 15 phút mặc dù việc thử bù dịch đều bị ảnh hưởng về mặt huyết động và cũng là ứng viên.Mặc dù thuốc chống đông thường được khuyến nghị cho những bệnh nhân bị rối loạn chức năng RV nhẹ (dựa trên kết quả lâm sàng, ECG hoặc siêu âm tim), liệu pháp tiêu huyết khối hoặc lấy huyết khối có thể cần thiết khi tổn thương RV và/hoặc hạ oxy máu nặng ngay cả khi không có hạ huyết áp, đặc biệt là khi tình trạng xấu đi có khả năng được gợi ý bởi tình trạng tăng nhịp tim hoặc giảm độ bão hòa oxy hoặc giảm huyết áp.Liệu pháp tiêu sợi huyết toàn thânLiệu pháp tiêu huyết khối toàn thân bằng alteplase (thuốc kích hoạtplasminogenmô [tPA]) là một phương pháp không xâm lấn để nhanh chóng khôi phục lưu lượng máu đến phổi, nhưng lợi ích lâu dài không vượt trội rõ ràng so với nguy cơ xuất huyết ở một số bệnh nhân. Các chuyên gia đồng ý rằng liệu pháp tiêu huyết khối toàn thân cần phải được áp dụng cho những bệnh nhân bị rối loạn huyết động nếu không có chống chỉ định, đặc biệt khi không có sẵn các biện pháp khác để giảm nhanh gánh nặng cục máu đông. Mặc dù không có thử nghiệm phân nhóm ngẫu nhiên theo thời gian nào về liệu pháp tiêu huyết khối toàn thân cho thấy thời gian sống thêm được cải thiện ở những bệnh nhân PE có nguy cơ trung bình/một phần phổi, một số chuyên gia khuyên dùng thuốc tiêu huyết khối, đặc biệt khi bệnh nhân cũng có nhiều cục máu đông hoặc lớn; rối loạn chức năng RV rất nghiêm trọng; nhịp tim nhanh rõ rệt; thiếu oxy máu đáng kể; các dấu hiệu đồng thời khác như là cục máu đông tồn dư ở chân, giá trị troponin dương tính và/hoặc giá trị BNP tăng cao; và không có chống chỉ định thực sự nào đối với việc sử dụng thuốc đó. Các trường hợp khác chỉ dành liệu pháp tiêu huyết khối cho những bệnh nhân PE có nguy cơ cao (lớn).Chống chỉ định tuyệt đốicủa thuốc tiêu sợi huyết bao gồmTiền sử xuất huyết nãoĐột quỵ do thiếu máu não cục bộ trong vòng 1 nămĐang chảy máu bên ngoài hay bên trong từ bất kỳ nguồn nàoChấn thương nội sọ hoặc phẫu thuật trong vòng 2 thángKhối u trong sọMột số lần phẫu thuật trong những tuần trướcChống chỉ định tương đốibao gồm> 75 tuổiPhẫu thuật gần đây (≤ 10 ngày)Xuất huyết chảy máu (như suy gan)Mang thaiCác vết thủng gần đây của các tĩnh mạch lớn không thể ép được (ví dụ: tĩnh mạch dưới đòn)Đặt ống thông động mạch đùi gần đây (ví dụ, ≤ 10 ngày)Bệnh loét dạ dày hoặc các bệnh khác làm tăng nguy cơ chảy máuTăng huyết áp nặng (huyết áp tâm thu > 180 mm Hg hoặc huyết áp tâm trương > 110 mm Hg)Chấn thương đầu do ngất do PE, ngay cả khi CT não bình thườngNgoại trừ xuất huyết nội sọ đồng thời, liệu pháp tiêu huyết khối đôi khi được chỉ định cho những bệnh nhân PE có nguy cơ cao (lớn) có "chống chỉ định tuyệt đối" với liệu pháp đó nếu không có can thiệp thì dự đoán là sẽ tử vong. Ở những bệnh nhân có chống chỉ định tương đối, quyết định dùng thuốc tiêu sợi huyết phụ thuộc vào từng bệnh nhân cụ thể.Tại Hoa Kỳ, alteplase (tPA) được sử dụng để tiêu huyết khối toàn thân. Streptokinase và urokinase không được sử dụng trong điều trị PE cấp tính.Tại Hoa Kỳ, khi sử dụng thuốc tiêu huyết khối toàn thân, heparin thường được ngừng lại sau liều tấn công ban đầu. Tuy nhiên, ở châu Âu,heparinthường được tiếp tục sử dụng và không có xác định rõ ràng về phương pháp nào được ưu tiên. Những nguy cơ chảy máu sau đây cần được xem xét:Chảy máu, nếu xảy ra, có thể được điều trị bằng cryoprecipitate hoặc huyết tương đông lạnh tươi. Vị trí tiếp cận mạch máu dễ bị chảy máu có thể được băng ép lại. Khả năng chảy máu sau khi tiêu huyết khối toàn thân đã dẫn đến việc tăng cường thực hiện tiêu huyết khối qua ống thông vì liều lượng thuốc tiêu huyết khối được sử dụng thấp hơn nhiều.Phương pháp tiêu huyết khối qua catheterLiệu pháp PE qua ống thông (tiêu huyết khối, cắt bỏ huyết khối) sử dụng vị trí đặt ống thông vào động mạch phổi để làm gián đoạn, loại bỏ và/hoặc làm tan cục máu đông. Chỉ định sử dụng thuốc này đang được mở rộng ở những bệnh nhân có nguy cơ cao và những bệnh nhân có nguy cơ trung bình cao. Trong liệu pháp tiêu huyết khối PE qua ống thông, các động mạch phổi được tiếp cận thông qua thủ thuật chụp động mạch phổi thông thường và thuốc tiêu huyết khối được đưa trực tiếp đến phần cục nghẽn lớn ở đầu gần qua ống thông. Kỹ thuật được nghiên cứu rộng rãi nhất là sử dụng siêu âm tần số cao, công suất thấp. Siêu âm đẩy nhanh quá trình tiêu sợi huyết bằng cách phân tách các sợi fibrin và tăng tính thấm của cục máu đông đối với thuốc tiêu sợi huyết. Một thử nghiệm có đối chứng, phân nhóm ngẫu nhiên, nghiên cứu ULTIMA, đã chứng minh rằng việc sử dụng thuốc tiêu sợi huyết qua ống thông ở những bệnh nhân có cục máu đông đầu gần và bằng chứng về tình trạng căng thẳng RV dẫn đến cải thiện tỷ lệ RV/LV sau 24 giờ so với chỉ dùng thuốc chống đông (2). Tuy nhiên, không có sự khác biệt giữa các nhóm về chức năng RV, tỷ lệ RV/LV sau 90 ngày hoặc tỷ lệ tử vong sau 90 ngày (2).Phá vỡ bằng cơ học, hoặc loại bỏ huyết khối thông qua hút huyết khối mà không dùng thuốc tiêu huyết khối, đang được sử dụng rộng rãi hơn. Cơ chế loại bỏ cục máu đông bao gồm hút trực tiếp hoặc phân mảnh bằng cách hút. Các thiết bị cho mục đích này khác nhau về kích thước của ống thông và phương pháp lấy huyết khối. Nếu việc sử dụng thuốc tiêu huyết khối bị chống chỉ định, phương pháp hút huyết khối qua ống thông có thể được xem xét và tùy thuộc vào nguồn lực và chuyên môn của địa phương, hãy thử trước khi phẫu thuật lấy huyết khối. Bệnh nhân được phẫu thuật lấy huyết khối theo phương pháp cơ học vẫn cần dùng thuốc chống đông. Dữ liệu về việc sử dụng các thiết bị hút chỗ thuyên tắc được giới hạn ở những bệnh nhân có nguy cơ trung bình cao hoặc nguy cơ cao đã tham gia vào các nghiên cứu và sổ đăng ký một nhóm (3).Phẫu thuật lấy huyết khốiPhẫu thuật lấy huyết khốiđược dành riêng cho bệnh nhân nhồi máu phổi bị hạ huyết áp mặc dù có các biện pháp hỗ trợ (huyết áp tâm thu liên tục≤90 mm Hg sau khi điều trị bù dịch và oxy hoặc nếu cần phải điều trị bằng thuốc vận mạch) hoặc sắp ngừng tim, ngừng hô hấp. Phẫu thuật lấy huyết khối có thể được cân nhắc nếu sử dụng thuốc tiêu huyết khối bị chống chỉ định, mặc dù phương pháp hút huyết khối qua ống thông có thể được thử trước tiên. Cũng giống như tiêu huyết khối qua catheter/hút cục máu đông, quyết định tiến hành phẫu thuật và lựa chọn kỹ thuật phụ thuộc vào nguồn lực địa phương và chuyên môn. Phẫu thuật lấy huyết khối là một chiến lược điều trị PE cấp tính đang giảm tần suất khi các kỹ thuật qua da qua ống thông trở nên phổ biến rộng rãi hơn.Tuần hoàn ngoài cơ thểOxy hóa màng ngoài cơ thể (ECMO) đôi khi được sử dụng trong trường hợp thuyên tắc động mạch phổi cấp tính thảm khốc khi thuốc tiêu sợi huyết chống chỉ định hoặc không hiệu quả. ECMO có thể đóng vai trò là cầu nối cho phẫu thuật lấy huyết khối hoặc điều trị bằng catheter, hoặc có thể cần thời gian để cải thiện bằng thuốc chống đông.Tài liệu tham khảo về làm giảm nhanh chóng gánh nặng cục máu đông1.Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv2020;4(19):4693-4738. doi:10.1182/bloodadvances.20200018302.Kucher N, Boekstegers P, Müller OJ, et al. Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism.Circulation2014;129(4):479-486. doi:10.1161/CIRCULATIONAHA.113.0055443.Hountras P, Bull TM. Advanced therapies for pulmonary embolism.Curr Opin Pulm Med2020;26(5):397-405. doi:10.1097/MCP.0000000000000714
+
+--- 8. Tiên lượng về thuyên tắc động mạch phổi ---
+
+Hầu hết các trường hợp tử vong do thuyên tắc động mạch phổi xảy ra trong vòng 1 giờ sau khi phát hiện bệnh (1). Hầu hết các bệnh nhân tử vong do hậu quả của PE cấp tính không được chẩn đoán trước khi tử vong. Trên thực tế, ở hầu hết các bệnh nhân này không được nghi ngờ có tắc mạch phổi. Tỷ lệ tử vong tại bệnh viện nói chung dao động từ khoảng 8% ở những bệnh nhân ổn định đến 25% ở những người bị sốc tim và đến 65% ở những bệnh nhân cần hồi sức tim phổi (2).Các dự đoán tốt nhất để giảm tử vong bao gồm:Cải thiện tần suất chẩn đoán (ví dụ bằng cách đưa tắc mạch phổi vào chẩn đoán phân biệt khi bệnh nhân có các triệu chứng hoặc dấu hiệu không đặc hiệu nhưng có nghi ngờ tắc mạch phổi)Cải thiện mức độ nhanh chóng của chẩn đoánCải thiện phân tầng nguy cơCải thiện mức độ nhanh chóng của việc bắt đầu điều trị chống đông máuĐiều trị dự phòng tốt cho bệnh nhân có nguy cơ caoNồng độ D-dimer rất cao dường như dự đoán một kết cục kém.Bệnh nhân có bệnh lý huyết khối gây tắc mạch mạn tính biểu hiện ít, nhưng là vấn đề quan trọng của bệnh nhân có PE còn sống sót. Liệu pháp chống đông máu làm giảm tỷ lệ tái phát của PE.Tài liệu tham khảo về tiên lượng1.Wood KE. Major pulmonary embolism: review of a pathophysiologic approach to the golden hour of hemodynamically significant pulmonary embolism.Chest2002;121(3):877-905. doi:10.1378/chest.121.3.8772.Kasper W, Konstantinides S, Geibel A, et al. Management strategies and determinants of outcome in acute major pulmonary embolism: results of a multicenter registry.J Am Coll Cardiol1997;30(5):1165-1171. doi:10.1016/s0735-1097(97)00319-7
+
+--- 9. Phòng ngừa thuyên tắc động mạch phổi ---
+
+Dự phòng thuyên tắc huyết khối tĩnh mạch cấpPhòng ngừa thuyên tắc động mạch phổi có nghĩa làphòng ngừa huyết khối tĩnh mạch sâu(DVT); nhu cầu phụ thuộc vào nguy cơ của bệnh nhân, bao gồmLoại hình và thời gian của bất kỳ phẫu thuật nàoCác bệnh kèm theo, bao gồm ung thư và rối loạn tăng đôngSự hiện diện của một ống thông tĩnh mạch trung tâmTiền sử trước đây bị huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổiNhững bệnh nhân phải nằm liệt giường và nhập viện cũng như những bệnh nhân được phẫu thuật, đặc biệt là phẫu thuật chỉnh hình, sẽ được hưởng lợi đáng kể từ biện pháp phòng ngừa huyết khối tĩnh mạch và hầu hết những bệnh nhân này có thể được xác định trước khi hình thành huyết khối (xem bảngĐánh giá nguy cơ huyết khối). Các biện pháp phòng ngừa bao gồm heparin không phân đoạn liều thấp, heparin trọng lượng phân tử thấp, warfarin, fondaparinux, thuốc chống đông đường uống trực tiếp (ví dụ: rivaroxaban, apixaban), thiết bị ép và tất ép đàn hồi.Việc lựa chọn thuốc hoặc thiết bị phụ thuộc vào nhiều yếu tố, bao gồm thông tin nhân khẩu học của bệnh nhân, nguy cơ theo nhận thức, chống chỉ định (ví dụ: nguy cơ chảy máu), chi phí tương đối và tính dễ sử dụng. Hiệp hội Bác sĩ Lồng ngực Hoa Kỳ đã công bố các khuyến nghị toàn diện dựa trên bằng chứng về điều trị dự phòng DVT cấp tính, bao gồm thời gian điều trị dự phòng, ở bệnh nhân phẫu thuật và không phẫu thuật cũng như trong thai kỳ (1,2). Sự cần thiết dự phòng đã được nghiên cứu ở nhiều nhóm bệnh nhân.Loại phẫu thuật cũng như những tình trạng sức khỏe đặc biệt cụ thể của bệnh nhân xác định nguy cơ mắc huyết khối tĩnh mạch sâu. Các yếu tố nguy cơ độc lập đối với bệnh nhân phẫu thuật và không phẫu thuật bao gồmTuổi≥60 tuổiTrước đây bị huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổiUng thưGây mê≥2 giờbất động tại giường≥4 ngàyNam giớiỞ bệnh viện ≥ 2 ngàyNhiễm khuẩn huyếtPhụ nữ có thai hoặc thời kì hậu sảnĐặt đường truyền tĩnh mạch trung tâmChỉ số khối cơ thể (BMI) > 40Điểm Caprini thường được sử dụng để phân tầng nguy cơ DVT và xác định nhu cầu phòng ngừa DVT ở những bệnh nhân không phẫu thuật chỉnh hình (xem bảngĐánh giá nguy cơ huyết khối).BảngĐánh giá nguy cơ rủi ro cho bệnh huyết khốiBảngĐánh giá nguy cơ rủi ro cho bệnh huyết khốiĐánh giá nguy cơ rủi ro cho bệnh huyết khốiYếu tố Nguy cơĐiểmTuổi (năm)41–60160–742≥ 753Phẫu thuậtPhẫu thuật nhỏ trong thời gian nằm viện1Đại phẫu trong vòng 1 tháng qua1Phẫu thuật nội soi trong thời gian nằm viện2Đại phẫu thuật kéo dài > 45 phút trong thời gian nằm viện1Phẫu thuật nội soi kéo dài > 45 phút trong thời gian nằm viện2Tạo hình khớp lớn ở chân trong thời gian nằm viện5Các bệnh đồng mắcGiãn tĩnh mạch1Bệnh viêm đại tràng1Phù ở chân (hiện tại)1Béo phì (BMI > 25)1Nhồi máu cơ tim cấp1Suy tim trong vòng 1 tháng trước1Nhiễm khuẩn huyết trong vòng 1 tháng trước1Bệnh phổi nghiêm trọng* trong vòng 1 tháng trước1Chức năng phổi bất thường (ví dụ, COPD)1Đặt đường truyền tĩnh mạch trung tâm2Ung thư (hiện tại hoặc trước đó)2Tiền sử huyết khối tĩnh mạch sâu hoặc thuyên tắc động mạch phổi3Tiền sử huyết khối gia đình†3Đột biến yếu tố V Leiden3Đột biến Prothrombin 20210A3Tăng homocysteine huyết thanh3Kháng thể kháng đông lupus dương tính3Kháng thể kháng cardiolipin cao3Giảm tiểu cầu doheparin3Bệnh tăng đông bẩm sinh hoặc mắc phải khác3Đột quỵ trong vòng 1 tháng trước5Đa chấn thương trong vòng 1 tháng trước5Tổn thương tủy sống cấp tính/liệt trong vòng 1 tháng trước5Bất độngNghỉ ngơi trên giường hiện tại (bệnh nhân nội khoa)1Nghỉ ngơi trên giường > 72 giờ2Cố định bằng bột thạch cao trong vòng 1 tháng trước2Gãy xương hông, xương chậu hoặc chân trong vòng 1 tháng trước5Các yếu tố nguy cơ bổ sung ở phụ nữDùng thuốc tránh thai đường uống hoặc liệu pháp thay thế hormone1Mang thai hoặc sau sinh trong vòng 1 tháng trước1Tiền sử thai chết lưu không rõ nguyên nhân, sẩy thai tự nhiên tái phát (> 3), sinh non do nhiễm độc máu hoặc trẻ chậm tăng trưởng1KhácCác yếu tố nguy cơ khác‡1* Bệnh phổi nghiêm trọng bao gồm viêm phổi.† Tiền sử gia đình bị huyết khối là yếu tố nguy cơ bị bỏ qua nhiều nhất.‡ Các yếu tố nguy cơ khác bao gồm BMI > 40, hút thuốc, tiểu đường cần điều trị bằnginsulin, hóa trị, truyền máu và thời gian phẫu thuật > 2 giờ.Data fromGould MK, Garcia DA, Wren SM, et al. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297BMI = chỉ số khối cơ thể; COPD = bệnh phổi tắc nghẽn mạn tính; DVT = huyết khối tĩnh mạch sâu; PE = thuyên tắc động mạch phổi.* Bệnh phổi nghiêm trọng bao gồm viêm phổi.† Tiền sử gia đình bị huyết khối là yếu tố nguy cơ bị bỏ qua nhiều nhất.‡ Các yếu tố nguy cơ khác bao gồm BMI > 40, hút thuốc, tiểu đường cần điều trị bằnginsulin, hóa trị, truyền máu và thời gian phẫu thuật > 2 giờ.Data fromGould MK, Garcia DA, Wren SM, et al. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297BMI = chỉ số khối cơ thể; COPD = bệnh phổi tắc nghẽn mạn tính; DVT = huyết khối tĩnh mạch sâu; PE = thuyên tắc động mạch phổi.Nhu cầu điều trị dự phòng huyết khối tĩnh mạch sâu dựa trên điểm đánh giá nguy cơ (Xem bàngĐiều trị dự phòng dựa trên thang điểm Caprini). Các biện pháp phòng ngừa thích hợp, từ việc đi lại sớm đến sử dụng heparin, phụ thuộc vào tổng điểm (3).BảngDự phòng dựa trên Điểm CapriniBảngDự phòng dựa trên Điểm CapriniDự phòng dựa trên Điểm CapriniĐiểmRủi roDự phòng0Rất thấpVận động sớm1–2ThấpThiết bị nén liên tục (SCD)3–4VừaHeparin 8 giờ một lần hoặc heparin trọng lượng phân tử thấp +/- SCD≥ 5CaoHeparin hoặc heparin trọng lượng phân tử thấp +/- SCDData fromGould MK, Garcia DA, Wren SM, et al. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297Data fromGould MK, Garcia DA, Wren SM, et al. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-2297Phác đồ thuốc phòng ngừa thuyên tắc mạch phổiĐiều trị bằng thuốc để ngăn ngừa DVT thường bị trì hoãn cho đến sau phẫu thuật để giúp tránh chảy máu trong khi phẫu thuật. Tuy nhiên, dự phòng trước khi điều trị cũng có hiệu quả.Ở những bệnh nhân phẫu thuật tổng quát,heparin không phân đoạn liều thấpđược dùng trong 7 đến 10 ngày hoặc cho đến khi bệnh nhân có thể đi lại được hoàn toàn. Những bệnh nhân bị bất động và không phải phẫu thuật cũng nên được dùngheparinkhông phân đoạn liều thấp cho đến khi họ có thể đi lại được.Liều dùngheparin trọng lượng phân tử thấpđể dự phònghuyết khối tĩnh mạch sâuphụ thuộc vào loại thuốc cụ thể (enoxaparin, dalteparin, tinzaparin). Heparin trọng lượng phân tử thấp ít nhất cũng có hiệu quả tương đương vớiheparinkhông phân đoạn liều thấp trong phòng ngừa DVT và PE.Fondaparinux2,5 mg tiêm dưới da một lần mỗi ngày có hiệu quả tương đương với heparin trọng lượng phân tử thấp đối với những bệnh nhân đã phẫu thuật chỉnh hình và những bệnh nhân bị giảm tiểu cầu doheparinhoặc một số tình trạng khác, chẳng hạn như sau đại phẫu thuật chỉnh hình (4). Đó là một loại thuốc ức chếyếu tố Xachọn lọc.Warfarinthường hiệu quả và an toàn ở mức liều được điều chỉnh để duy trì INR từ 2 đến 3 ở những bệnh nhân đã được thay khớp háng hoặc thay khớp gối toàn bộ. Việc sử dụngWarfarinngày càng được thay thế bằng việc sử dụng thuốc chống đông máu đường uống trực tiếp.Thuốc chống đông máu đường uốngtrực tiếp rivaroxaban và apixaban là thuốc ức chếyếu tố Xa. Các loại thuốc này có thể được sử dụng để phòng ngừa DVT/PE cấp tính ở những bệnh nhân được phẫu thuật thay khớp gối hoặc thay khớp háng toàn bộ.Thiết bị dự phòng thuyên tắc động mạch phổiMàng lọc tĩnh mạch chủ dưới, ép bằng khí nén ngắt quãng (còn được gọi là thiết bị nén tuần tự [SCD]) và tất ép đàn hồi theo mức độ có thể được sử dụng riêng lẻ hoặc kết hợp với thuốc để ngăn ngừa PE. Cho dù các thiết bị này được sử dụng một mình hoặc kết hợp, chúng tùy thuộc vào chỉ dẫn cụ thể.Màng lọc tĩnh mạch chủ dưới(IVCF) có thể giúp ngăn ngừa PE ở bệnh nhân DVT ở chân hoặc mạch máu vùng chậu, nhưng đặt IVCF có thể gây nguy cơ biến chứng lâu dài. Bằng chứng đặt ra câu hỏi về hiệu quả của các bộ lọc có thể thu hồi ở những bệnh nhân đang dùng thuốc chống đông máu (5). Màng lọc được chỉ định rõ ràng nhất ở những bệnh nhân cóCần ngăn ngừa huyết khối tĩnh mạch sâu và chống chỉ định thuốc chống đông máuHuyết khối tĩnh mạch sâu tái phát (hoặc cục nghẽn) mặc dù có dùng thuốc chống đông đầy đủCó thể có chức năng tim phổi bị hạn chế, gây lo ngại về khả năng chịu đựng thêm các cục nghẽn nhỏ.Bởi vì tuần hoàn bàng hệ tĩnh mạch có thể phát triển, tạo ra một con đường cho cục nghẽn để tránh IVCF tồn tại lâu dài và do các bộ lọc đôi khi gây huyết khối, bệnh nhân bị DVT tái phát hoặc các yếu tố nguy cơ không thể điều chỉnh được đối với DVT vẫn có thể cần dùng thuốc chống đông máu. Một phin lọc tĩnh mạch chủ dưới được đặt trong tĩnh mạch chủ dưới thấp hơn tĩnh mạch thận thông qua catheter của tĩnh mạch cảnh trong hoặc tĩnh mạch đùi. Hầu hết các phin lọc tĩnh mạch chủ dưới đều có thể tháo rời được. Đôi khi, màng lọc bị bong ra và có thể di chuyển lên giường tĩnh mạch, thậm chí đến tim hoặc mạch máu phổi. Bộ lọc cũng có thể bị huyết khối, gây ra tình trạng tắc nghẽn tĩnh mạch nặng (bao gồm cả viêm tắc tĩnh mạch xanh cấp tính) ở chân, thiếu máu cục bộ ở phần dưới cơ thể và tổn thương thận cấp tính (6).Khí nén ngắt quãng(IPC) với SCDs cung cấp áp lực nén nhịp nhàng bên ngoài lên cẳng chân hoặc cẳng chân và đùi. Nó có hiệu quả để ngăn ngừa huyết khối tĩnh mạch bắp chân hơn các tĩnh mạch ở gần. Nó chưa đủ để dự phòng đơn độc sau khi thay khớp háng hoặc khớp gối nhưng thường được sử dụng ở những bệnh nhân có nguy cơ thấp sau các loại phẫu thuật khác hoặc ở những bệnh nhân nội khoa có nguy cơ bị huyết khối tĩnh mạch sâu thấp, những người có nguy cơ bị chảy máu cao. Về mặt lý thuyết, IPC có thể gây ra PE ở những bệnh nhân bị bất động và phát sinh DVT tiềm ẩn mà không được điều trị dự phòng DVT.Tất ép đàn hồi theo mức độcó thể kém hiệu quả hơn so với ép chân bằng khí nén bên ngoài.Lựa chọn phòng ngừa thuyên tắc động mạch phổiSau khi phẫu thuật với tỉ lệ mắc DVT/PE cao, khuyến cáo sử dụng heparin không phân đoạn liều thấp, heparin trọng lượng phân tử thấp, hoặc điều chỉnh liều warfarin.Sauphẫu thuật chỉnh hình khớp háng hoặc khớp gối,các phương án bổ sung bao gồm thuốc chống đông máu đường uống trực tiếp rivaroxaban và apixaban. Những loại thuốc này an toàn và hiệu quả, không giống như warfarin, các loại thuốc này không cần phải có xét nghiệm trong phòng thí nghiệm để theo dõi mức độ chống đông máu.Chophẫu thuật thay khớp háng toàn bộ,bệnh nhân nên tiếp tục dùng thuốc chống đông trong 35 ngày sau phẫu thuật. Ở những bệnh nhân được chọn có nguy cơ cao về DVT/PE và xuất huyết, dự phòng bằng cách đặt lưới lọc tĩnh mạch chủ dưới tạm thời.Ở những bệnh nhân trải qua các thủ thuật phẫu thuật thần kinh tự chọn,nguy cơ mắc DVT/PE cũng cao. Do lo ngại về chảy máu nội sọ, các phương pháp vật lý (SCD và tất đàn hồi) thường được sử dụng ở những bệnh nhân đã được phẫu thuật thần kinh; tuy nhiên, heparin trọng lượng phân tử thấp dường như là một lựa chọn thay thế có thể chấp nhận được. Mặc dù không có hướng dẫn cụ thể nào, việc kết hợp SCD vàheparintrọng lượng phân tử thấp có thể hiệu quả hơn so với việc dùng riêng từng loại ở những bệnh nhân có nguy cơ cao.Ởnhững bệnh nhân bị chấn thương tủy sống hoặc chấn thương đa chấn thương,dữ liệu hạn chế ủng hộ việc kết hợp SCD, vớ nén đàn hồi vàheparintrọng lượng phân tử thấp để ngăn ngừa DVT/PE (7). Đối với những bệnh nhân có nguy cơ rất cao, IVCF tạm thời có thể được cân nhắc sử dụng.Ởnhững bệnh nhân bệnh cấp tính, có thể dùngheparinkhông phân đoạn liều thấp,heparintrọng lượng phân tử thấp hoặcfondaparinux. SCD, túi nén đàn hồi, hoặc cả hai có thể được sử dụng khi chống chỉ định với thuốc chống đông. Đối với bệnh nhân bị đột quỵ do thiếu máu não cục bộ, có thể sử dụngheparinkhông phân đoạn liều thấp hoặcheparintrọng lượng phân tử thấp; SCD, tất ép đàn hồi hoặc cả hai có thể có hiệu quả.Tài liệu tham khảo về phòng ngừa1.Kearon C, Akl EA, Ornelas J, et al. Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report [published correction appears inChest2016 Oct;150(4):988].Chest2016;149(2):315-352. doi:10.1016/j.chest.2015.11.0262.Stevens SM, Woller SC, Kreuziger LB, et al. Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.0553.Gould MK, Garcia DA, Wren SM, et al. Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChest2012 May;141(5):1369].Chest2012;141(2 Suppl):e227S-e277S. doi:10.1378/chest.11-22974.Tran AH, Lee G.Fondaparinuxfor prevention of venous thromboembolism in major orthopedic surgery.Ann Pharmacother2003;37(11):1632-1643. doi:10.1345/aph.1C1045.Mismetti P, Laporte S, Pellerin O, et al. Effect of a retrievable inferior vena cava filter plus anticoagulation vs anticoagulation alone on risk of recurrent pulmonary embolism: a randomized clinical trial.JAMA2015;313(16):1627-1635. doi:10.1001/jama.2015.37806.Marron RM, Rali P, Hountras P, Bull TM. Inferior Vena Cava Filters: Past, Present, and Future.Chest2020;158(6):2579-2589. doi:10.1016/j.chest.2020.08.0027.Aito S, Pieri A, D'Andrea M, Marcelli F, Cominelli E. Primary prevention of deep venous thrombosis and pulmonary embolism in acute spinal cord injured patients.Spinal Cord2002;40(6):300-303. doi:10.1038/sj.sc.3101298
+
+--- 10. Những điểm chính ---
+
+Thuyên tắc mạch phổi cấp tính (PE) là một tình trạng bệnh lý phổ biến và có khả năng tàn phá nặng nề.Lâm sàng nghi ngờ và xác nhận chẩn đoán là rất cần thiết vì ở đa số bệnh nhân tử vong do nhồi máu phổi cấp tính, nhồi máu phổi thậm chí không được nghi ngờ.Bởi vì thuốc chống đông máu cải thiện thời gian sống thêm, bệnh nhân cần phải được dùng thuốc chống đông máu khi có chẩn đoán hoặc nghi ngờ nhiều về PE.Những bệnh nhân có PE có nguy cơ cao/rất lớn và một số bệnh nhân có PE nguy cơ trung bình/một phần phổi cần phải được xem xét điều trị tiêu huyết khối hoặc cắt bỏ huyết khối.Phòng ngừa huyết khối tĩnh mạch sâu (và do đó PE) cần phải được xem xét ở tất cả các bệnh nhân nhập viện và có nguy cơ.

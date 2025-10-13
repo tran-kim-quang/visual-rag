@@ -1,0 +1,1487 @@
+TIÊU ĐỀ: Hồi sinh tim phổi (CPR) ở người lớn
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/ngừng-tim-và-hồi-sức-tim-phổi-cpr/hồi-sinh-tim-phổi-cpr-ở-người-lớn
+================================================================================
+
+NỘI DUNG:
+
+Hồi sinh tim phổi (CPR) ở người lớn
+
+Theo
+
+Shira A. Schlesinger
+
+,
+
+MD, MPH
+
+,
+
+Harbor-UCLA Medical Center
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2024
+
+|
+
+đã sửa đổi
+
+Thg 1 2025
+
+v925708_vi
+
+CPR: Đường thở và hô hấp
+
+|
+
+CPR: Circulation
+
+|
+
+CPR: Khử rung
+
+|
+
+CPR: Theo dõi và đường truyền tĩnh mạch
+
+|
+
+CPR: Trường hợp đặc biệt
+
+|
+
+CPR: Thuốc điều trị ACLS
+
+|
+
+Điều trị loạn nhịp tim trong CPR
+
+|
+
+CPR: Chấm dứt hồi sức
+
+|
+
+CPR: Chăm sóc sau khi hồi sức
+
+|
+
+Thông tin thêm
+
+|
+
+Hồi sức tim phổi (CPR) là một đáp ứng tuần tự có tổ chức, đáp ứng với tình trạng
+
+ngừng tim
+
+, bao gồm
+
+Nhận biết tình trạng không có nhịp thở và tuần hoàn
+
+Hỗ trợ sống cơ bản với ép tim ngoài lồng ngực và hỗ trợ hô hấp
+
+Hồi sinh tim phổi nâng cao (ACLS) với kiểm soát đường thở và kiểm soát nhịp
+
+Chăm sóc sau khi hồi sức
+
+(Xem thêm
+
+Hồi sinh sơ sinh
+
+và
+
+Hồi sinh tim phổi ở trẻ sơ sinh và trẻ nhỏ
+
+.)
+
+Tiến hành ép tim kịp thời và khử rung tim sớm (khi có chỉ định) là chìa khóa thành công.
+
+Tốc độ, hiệu quả và việc áp dụng CPR đúng cách với ít gián đoạn nhất có thể sẽ quyết định kết quả thành công; trường hợp ngoại lệ hiếm hoi là hạ thân nhiệt nghiêm trọng do ngâm mình trong nước lạnh mà không bị đuối nước, khi đó có thể hồi sức thành công bằng CPR ngắt quãng ngay cả sau khi ngừng tim kéo dài (
+
+1
+
+).
+
+Tổng quan về CPR
+
+Các hướng dẫn dành cho chuyên gia chăm sóc sức khỏe từ Hiệp hội Tim mạch Hoa Kỳ (AHA) được tuân theo (xem hình
+
+Chăm sóc tim mạch cấp cứu toàn diện cho người lớn
+
+) (
+
+2
+
+,
+
+3
+
+). Nếu một người được cho là ngừng tim, người cứu hộ trước tiên sẽ xác nhận tình trạng không đáp ứng và xác nhận không có nhịp thở hoặc chỉ thở ngáp. Sau đó, người cứu hộ kêu gọi giúp đỡ. Bất cứ ai trả lời đều được hướng dẫn để kích hoạt hệ thống ứng phó khẩn cấp (hoặc nhân viên hồi sức tại bệnh viện thích hợp) và, nếu có thể, có được một máy khử rung tim. Hồi sinh cơ bản cần phải được bắt đầu ngay lập tức (
+
+2
+
+).
+
+Nếu không có ai hồi đáp lời kêu cứu, trước tiên người cứu hộ sẽ kích hoạt hệ thống ứng phó khẩn cấp và sau đó bắt đầu hồi sinh cơ bản bằng cách thực hiện 30 lần ép ngực với tốc độ 100 lần/phút đến 120 lần/phút và độ sâu từ 5 cm đến 6 cm, cho phép lồng ngực tường trở lại chiều cao tối đa giữa các lần ép tim, sau đó mở đường thở (nâng cằm và ngửa trán ra sau) và thổi ngạt 2 lần. Chu trình ép tim và thổi ngạt được tiếp tục (xem bảng
+
+Kỹ thuật CPR dành cho chuyên gia chăm sóc sức khỏe
+
+) mà không bị gián đoạn; tốt nhất là mỗi người cứu hộ được thay thế sau mỗi 2 phút. Điều quan trọng là ngay cả những người ngoài cuộc chưa được đào tạo phải bắt đầu và duy trì ép tim liên tục cho đến khi có sự trợ giúp lành nghề. Do đó, nhiều chuyên gia cấp cứu hiện đưa ra các hướng dẫn trước khi đến cho người gọi điện, bao gồm cả hướng dẫn qua điện thoại theo phương pháp CPR chỉ ép tim.
+
+Khi có máy khử rung (bằng tay hoặc tự động), bệnh nhân
+
+rung thất
+
+(VF) hoặc
+
+nhịp nhanh thất
+
+vô mạch (VT) được chỉ định sốc không đồng bộ (xem thêm
+
+Khử rung tim
+
+). Nếu ngừng tim không chứng kiến và có máy khử rung tim tại hiện trường, bệnh nhân có rung thất hoặc nhịp nhanh thất cần được khử rung tim ngay lập tức, với việc ép tim ngay lập tức sau khi sốc điện; khử rung sớm có thể nhanh chóng chuyển đổi rung thất hoặc nhịp nhanh thất vô mạch sang nhịp xoang. Nếu nhịp ban đầu là hoạt động điện vô nhịp hoặc vô tâm thu, nên dùng liều ban đầu epinephrine 1 mg đường tĩnh mạch/IO (tiêm tĩnh mạch/trong xương) càng sớm càng tốt sau khi ghi nhận có ngừng tim.
+
+Chăm sóc cấp cứu tim mạch toàn diện cho người lớn
+
+* Nếu có đủ số nhân viên được đào tạo, việc đánh giá bệnh nhân, CPR, và kích hoạt hệ thống ứng phó khẩn cấp nên xảy ra đồng thời.
+
+Based on the 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Các kỹ thuật được sử dụng trong CPR cơ bản dành cho 1 và 2 người được liệt kê trong Bảng
+
+Kỹ thuật CPR dành cho nhân viên y tế
+
+. Mức độ thành thạo đạt được tốt nhất thông qua quá trình đào tạo thực hành.
+
+* Nếu có đủ số nhân viên được đào tạo, việc đánh giá bệnh nhân, CPR, và kích hoạt hệ thống ứng phó khẩn cấp nên xảy ra đồng thời.
+
+Based on the 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Các kỹ thuật được sử dụng trong CPR cơ bản dành cho 1 và 2 người được liệt kê trong Bảng
+
+Kỹ thuật CPR dành cho nhân viên y tế
+
+. Mức độ thành thạo đạt được tốt nhất thông qua quá trình đào tạo thực hành.
+
+Bảng
+
+Kỹ thuật CPR dành cho nhân viên y tế
+
+Bảng
+
+Kỹ thuật CPR dành cho nhân viên y tế
+
+Kỹ thuật CPR dành cho nhân viên y tế
+
+Nhóm tuổi
+
+CPR một người*
+
+CPR hai người
+
+Thể tích thổi ngạt
+
+Thanh thiếu niên và người lớn
+
+Chu kỳ 30 lần ép tim với tốc độ 100–120 lần ép/phút, sau đó là 2 lần thổi ngạt (mỗi lần 1 giây)
+
+Độ sâu ép tim 5–6 cm; để lồng ngực phồng trở lại hoàn toàn giữa các lần ép
+
+Chu kỳ 30 lần ấn ngực với tốc độ 100–120 lần/phút, tiếp theo là 2 lần thổi ngạt (mỗi lần 1 giây trong thời gian tạm dừng 3–4 giây) HOẶC ấn ngực liên tục với 1 lần thổi ngạt sau mỗi 6 giây
+
+Nếu sử dụng đường thở nâng cao (SGA hoặc ETT), thông khí không đồng bộ, 1 lần thở, 6 giây một lần, kèm theo ép tim liên tục
+
+Mỗi lần thổi ngạt khoảng 500-600 mL khí (thận trọng để không làm tăng thông khí)
+
+Trẻ em (1 tuổi - tuổi dậy thì)†
+
+Chu kỳ 30 lần ép với tốc độ 100–120 lần ép/phút, sau đó là 2 lần thổi ngạt (mỗi lần 1 giây)
+
+Độ sâu khi ép là 5 cm hoặc ⅓ đường kính trước-sau của lồng ngực; để lồng ngực phồng trở lại hoàn toàn giữa các lần ép
+
+Chu kỳ 15 lần ép tim với tốc độ 100–120 lần ép/phút, sau đó là 2 lần thổi ngạt (mỗi lần 1 giây)
+
+Nếu sử dụng đường thở nâng cao (SGA hoặc ETT), thông khí nên được thực hiện với tốc độ 20–30 mỗi phút, không tạm dừng ép.
+
+Thổi ngạt với thể tích ít hơn so với người lớn (đủ để làm căng lồng ngực)
+
+Trẻ nhỏ (
+
+<
+
+1 tuổi, trừ trẻ sơ sinh)
+
+Chu kỳ 30 lần ép với tốc độ 100–120 lần ép/phút, sau đó là 2 lần thổi ngạt (mỗi lần 1 giây)
+
+Độ sâu khi ép phải là 4 cm hoặc 1/3 đường kính trước-sau của lồng ngực; cho lồng ngực phồng hoàn toàn giữa các lần ép.
+
+Chu kỳ 15 lần ép tim với tốc độ 100–120 lần ép/phút, sau đó là 2 lần thổi ngạt (mỗi lần 1 giây)
+
+Nếu sử dụng đường thở nâng cao (SGA hoặc ETT), thông khí nên được thực hiện với tốc độ 30 mỗi phút, không tạm dừng ép tim
+
+Thổi ngạt nhẹ, đủ để làm căng lồng ngực
+
+* Đối với người cứu hộ không chuyên, khuyến nghị hồi sức tim phổi chỉ ép tim ở người lớn nếu người cứu hộ không sẵn lòng hoặc không thể hà hơi thổi ngạt bằng miệng.
+
+† Tuổi dậy thì được định nghĩa là khi phát triển vú ở nữ giới và lông nách ở nam giới.
+
+Data from
+
+Panchal AR, Bartos JA, Cabañas JG, et al
+
+: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S366–S468, 2020. doi:10.1161/CIR.0000000000000916 and from
+
+Topjian AA, Raymond TT, Atkins D, et al
+
+: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S469–S523, 2020. doi:10.1161/CIR.0000000000000901
+
+ETT
+
+=
+
+ống nội khí quản; SGA
+
+=
+
+đường thở trên thanh quản.
+
+* Đối với người cứu hộ không chuyên, khuyến nghị hồi sức tim phổi chỉ ép tim ở người lớn nếu người cứu hộ không sẵn lòng hoặc không thể hà hơi thổi ngạt bằng miệng.
+
+† Tuổi dậy thì được định nghĩa là khi phát triển vú ở nữ giới và lông nách ở nam giới.
+
+Data from
+
+Panchal AR, Bartos JA, Cabañas JG, et al
+
+: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S366–S468, 2020. doi:10.1161/CIR.0000000000000916 and from
+
+Topjian AA, Raymond TT, Atkins D, et al
+
+: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S469–S523, 2020. doi:10.1161/CIR.0000000000000901
+
+ETT
+
+=
+
+ống nội khí quản; SGA
+
+=
+
+đường thở trên thanh quản.
+
+Tài liệu tham khảo chung
+
+1.
+
+Gordon L, Paal P, Ellerton JA, Brugger H, Peek GJ, Zafren K
+
+: Delayed and intermittent CPR for severe accidental hypothermia.
+
+Resuscitation
+
+90:46–49, 2015. doi:10.1016/j.resuscitation.2015.02.017
+
+2.
+
+Panchal AR, Bartos JA, Cabañas JG, et al
+
+: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S366–S468, 2020. doi:10.1161/CIR.0000000000000916
+
+3.
+
+Atkins DL, Sasson C, Hsu A, et al
+
+: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.
+
+Circ Cardiovasc Qual Outcomes
+
+15(4):e008900, 2022. doi:10.1161/CIRCOUTCOMES.122.008900
+
+CPR: Đường thở và hô hấp
+
+Khai thông đường thở là ưu tiên thứ hai (xem
+
+Khai thông và mở đường thở trên
+
+) sau khi bắt đầu ép ngực. Đối với chứng ngừng tim ngoài bệnh viện với nhịp có thể sốc ban đầu, có thể chấp nhận cung cấp oxy thụ động trong 6 phút đầu tiên, trong khuôn khổ của gói dịch vụ y tế khẩn cấp nhằm giảm thiểu thời gian tạm dừng trong quá trình thực hiện hồi sức tim phổi và khử rung tim ban đầu. Đối với các biện pháp cơ học về hồi sức ở trẻ em, xem bảng
+
+Hướng dẫn Hồi sức Nhi khoa - Các biện pháp Cơ học
+
+.
+
+Khi các chuyên gia chăm sóc sức khỏe làm hồi sức tim phổi, nên bắt đầu thông khí bằng
+
+bóng bóp-van-mặt nạ
+
+càng sớm càng tốt, nhưng thông khí bằng bóng bóp-van-mặt nạ không được trì hoãn việc bắt đầu ép tim hoặc khử rung tim. Nhân viên cứu hộ không chuyên có thể thực hiện hồi sức tim phổi theo kiểu chỉ ép tim hoặc, nếu được đào tạo để làm như vậy, có thể hô hấp nhân tạo qua đường miệng-miệng (đối với người lớn, thanh thiếu niên và trẻ em) hoặc kết hợp vừa miệng-miệng và miệng-mũi (đối với trẻ sơ sinh). Nếu có thể, có thể đưa
+
+ống thông khí hầu họng
+
+vào để duy trì sự thông thoáng của đường thở trong quá trình thông khí bằng túi-van-mặt nạ. Áp suất cực đại không được khuyến khích.
+
+Thực hiện thông khí Bóng mask ...
+
+Các video
+
+Nếu thấy bụng chướng, kiểm tra lại đường thở và giảm lượng khí thổi ngạt. Đặt nội khí quản mũi dạ dày hoặc dạ dày để làm giảm mức độ chướng của dạ dày không được làm gián đoạn CPR.
+
+Khi những người cứu hộ đủ trình độ chuyên môn có mặt, đặt một đường thở nâng cao (ống nội khí quản hoặc đường thở trên thanh quản)
+
+mà không làm gián đoạn quá trình ép tim
+
+sau khi cố gắng hồi sức tim phổi và khử rung tim ban đầu, theo mô tả trong
+
+Thiết lập và kiểm soát đường thở
+
+. Thực hiện thổi ngạt 6 giây một lần (10 nhịp thở/phút) mà không làm gián đoạn quá trình ép tim ở người lớn; trẻ sơ sinh và trẻ em được thổi ngạt 2 đến 3 giây một lần (20 đến 30 lần thổi ngạt/phút). Tuy nhiên, ép tim và khử rung được ưu tiên hơn là việc đặt nội khí quản. Trừ có mặt các nhân viên cứu hộ có nhiều kinh nghiệm, có thể bị trì hoãn đặt nội khí quản để thông khí bằng
+
+bóng-van-mặt nạ
+
+,
+
+mặt nạ thanh quản
+
+, hoặc thiết bị tương tự.
+
+Đối với những bệnh nhân nghi ngờ mắc
+
+COVID-19
+
+, Hiệp hội Tim mạch Hoa Kỳ đã ban hành hướng dẫn tạm thời về hồi sinh cơ bản và nâng cao (1
+
+1, 2
+
+).
+
+Cách đặt mask thanh quản
+
+Các video
+
+Tài liệu tham khảo về đường thở và hô hấp
+
+1.
+
+Edelson DP, Sasson C, Chan PS, et al; American Heart Association ECC Interim COVID Guidance Authors
+
+: Interim Guidance for Basic and Advanced Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association.
+
+Circulation
+
+141(25):e933–e943, 2020 doi: 10.1161/CIRCULATIONAHA.120.047463
+
+2.
+
+Goodloe JM, Topjian A, Hsu A, et al
+
+: Interim Guidance for Emergency Medical Services Management of Out-of-Hospital Cardiac Arrest During the COVID-19 Pandemic.
+
+Circ Cardiovasc Qual Outcomes
+
+14(7):e007666, 2021 doi:10.1161/CIRCOUTCOMES.120.007666
+
+CPR: Circulation
+
+Ép tim
+
+Cách hồi sức tim phổi (CPR) ở ...
+
+Các video
+
+Ép tim nên được bắt đầu ngay lập tức khi nhận thấy tim ngừng đập và thực hiện với mức gián đoạn tối thiểu cho đến khi khử được rung tim. Ở bệnh nhân không có phản ứng và không ai chứng kiến ​​cảnh họ ngã gục, người cứu hộ được đào tạo phải ngay lập tức tiến hành ép tim ngoài lồng ngực, tiếp theo là hô hấp nhân tạo. Ép ngực không được gián đoạn
+
+>
+
+10 giây bất cứ lúc nào (ví dụ: để đặt nội khí quản, khử rung tim, phân tích nhịp, đặt ống thông đường tĩnh mạch trung tâm hoặc vận chuyển). Một chu kỳ ép tim phải bao gồm 50% ép tim và 50% để lồng ngực nở ra; trong giai đoạn giải ép, điều quan trọng là để cho lồng ngực nở hoàn toàn. Phân tích nhịp và khử rung (nếu phù hợp) được thực hiện ngay khi có máy khử rung tim.
+
+Độ sâu ép ngực được khuyến nghị cho người lớn là khoảng 5 cm đến 6 cm. Lý tưởng là, ép tim ngoài lồng ngực gây ra mạch đập ở mỗi nhịp ép tim, mặc dù cung lượng tim chỉ khoảng 20 - 30% so với bình thường. Tuy nhiên, việc bắt mạch trong quá trình ép ngực là khó khăn, ngay cả đối với các bác sĩ lâm sàng có kinh nghiệm và thường không đáng tin cậy. Việc theo dõi định lượng carbon dioxide cuối thì thở ra có thể cung cấp ước tính tốt hơn về lưu lượng tim trong quá trình ép tim; những bệnh nhân bị tưới máu không đủ sẽ có ít máu tĩnh mạch trở về phổi và do đó có mức carbon dioxide cuối thì thở ra thấp. Tăng thông khí trong quá trình hồi sức tim phổi cũng có thể dẫn đến mức carbon dioxide cuối thì thở ra thấp. Mặc dù có ít bằng chứng hỗ trợ các con số cụ thể trong quá trình theo dõi sinh lý, nhưng nhìn chung người ta chấp nhận rằng mức carbon dioxide cuối thì thở ra > 10 và lý tưởng nhất là > 20 mm Hg có liên quan đến CPR đầy đủ. Sự gia tăng đột ngột đáng kể nồng độ carbon dioxide cuối thì thở ra hoặc mạch đập rõ ràng khi ngừng ép tim cho thấy tuần hoàn tự nhiên đang được phục hồi.
+
+Thiết bị ép tim cơ học
+
+có sẵn; các thiết bị này hiệu quả như ép bằng tay nhưng có thể giảm thiểu tác động của ép lỗi và người ép bị mệt. Chúng có thể đặc biệt hữu ích trong một số trường hợp, chẳng hạn như trong quá trình vận chuyển bệnh nhân hoặc trong phòng thí nghiệm thông tim. Những thiết bị này cũng đã được khuyến nghị sử dụng cho những bệnh nhân có nghi ngờ hoặc được xác nhận nhiễm COVID-19 (
+
+1
+
+).
+
+Ép tim hở ngực
+
+thông qua
+
+mở thông lồng ngực
+
+có thể hiệu quả nhưng chỉ được sử dụng ở những bệnh nhân bị vết thương thấu ngực, ngay sau khi phẫu thuật tim (nghĩa là trong vòng 48 giờ), trong trường hợp
+
+chèn ép tim
+
+và đặc biệt nhất là sau khi ngừng tim trong phòng mổ khi ngực của bệnh nhân đã mở. Tuy nhiên, phẫu thuật ngực đòi hỏi sự đào tạo và kinh nghiệm và chỉ được thực hiện tốt nhất trong những chỉ định hạn chế này.
+
+Các biến chứng của ép tim
+
+Một biến chứng thường gặp là trào ngược dạ dày kèm theo hít phải dịch dạ dày, gây
+
+viêm phổi do hít phải dịch dạ dày
+
+đe dọa tính mạng ở những bệnh nhân đã được hồi sức.
+
+Thường không thể tránh được tình trạng tách rời sụn sườn và
+
+gãy xương sườn
+
+vì điều quan trọng là phải ép ngực đủ để tạo ra đủ lưu lượng máu. Gãy xương là khá hiếm ở trẻ em vì tính linh hoạt của thành ngực.
+
+Huyết khối từ tủy xương đến phổi hiếm khi được báo cáo sau khi ép tim ngoài lồng ngực, nhưng không có bằng chứng rõ ràng rằng chúng góp phần vào tử vong. Chấn thương phổi rất hiếm, nhưng
+
+tràn khí màng phổi
+
+sau khi gãy xương sườn xâm nhập có thể xảy ra.
+
+Tràn khí màng phổi áp lực
+
+cần phải được xem xét ở bệnh nhân đã phục hồi tuần hoàn tự nhiên sau khi hồi sức tim phổi kéo dài và sau đó trở nên khó thở hoặc thiếu oxy máu và đột ngột ngừng thở.
+
+Rất khó xảy ra chấn thương cơ tim nghiêm trọng do ép tim, ngoại trừ chấn thương phình tâm thất có từ trước.
+
+Việc quan tâm đến những thương tích này không làm ngăn cản cấp cứu ngừng tuần hoàn.
+
+Rách gan là một biến chứng hiếm nhưng có thể nghiêm trọng (đôi khi gây tử vong) và thường gây ra do ép ở vị trí dưới xương ức. Vỡ dạ dày (đặc biệt nếu dạ dày bị căng phồng do không khí) cũng là một biến chứng hiếm hoi. Vỡ lách muộn thường rất hiếm gặp.
+
+Tài liệu tham khảo về hệ tuần hoàn
+
+1.
+
+Atkins DL, Sasson C, Hsu A, et al
+
+: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.
+
+Circ Cardiovasc Qual Outcomes
+
+2022;15(4):e008900. doi:10.1161/CIRCOUTCOMES.122.008900
+
+CPR: Khử rung
+
+Ở người lớn, nhịp tim phổ biến nhất trong trường hợp ngừng tim có chứng kiến ​​là
+
+rung thất
+
+(VF); việc chuyển đổi nhanh sang nhịp tim tưới máu là điều cần thiết.
+
+Nhịp nhanh thất
+
+vô mạch (VT) được xử lý giống như VF.
+
+Cách khử rung tim ở người lớn
+
+Các video
+
+Khử rung tim nhanh là biện pháp can thiệp duy nhất đối với ngừng tim, ngoài CPR chất lượng cao, đã được chứng minh là có thể cải thiện khả năng sống sót; tuy nhiên, mức độ thành công của việc khử rung tim phụ thuộc vào thời gian, với tỷ lệ thành công giảm khoảng 10% sau mỗi phút VF (hoặc VT vô mạch). Máy khử rung tim bên ngoài tự động (AED) cho phép những người cứu hộ được đào tạo tối thiểu điều trị VT hoặc VF vô mạch. Máy được sử dụng bởi những người cấp cứu đầu tiên (cảnh sát và các cơ quan cứu hỏa) và sự sẵn có của máy này tại các địa điểm công cộng làm tăng khả năng hồi sức.
+
+Đặt một bản điện cực sốc điện và một miếng đệm khử rung tim ở thành ngực trước bên phải bên dưới xương đòn ở đường giữa xương đòn và các miếng còn lại ở khoang liên sườn thứ 5 hoặc khoang liên sườn thứ 6 bên trái ở đỉnh tim theo đường nách trước. Ngoài ra, có thể để 2 miếng lót như sau: một miếng lót ở nửa lồng ngực phía trước bên trái và miếng lót còn lại ở nửa lồng ngực phía sau bên trái. Các miếng đệm khử rung tim được sử dụng kèm theo keo dẫn điện; miếng đệm có chứa gel dẫn điện. Hầu hết các máy khử rung tim sử dụng miếng đệm thay vì bản điện cực.
+
+Nên thực hiện một lần sốc điện ban đầu ngay khi phát hiện ra loại nhịp có thể sốc điện, sau đó ngay lập tức bắt đầu ép tim. Mức năng lượng cho máy khử rung hai pha là từ 150 đến 200 joules (2 joules/kg ở trẻ em) cho cú sốc ban đầu; máy khử rung một pha được cài đặt ở mức 360 joules cho cú sốc ban đầu. Nhịp sau sốc điện được kiểm tra sau 2 phút ép tim. Các cú sốc tiếp theo được phân phối ở mức năng lượng tương đương hoặc cao hơn (tối đa 360 joules ở người lớn, hoặc 10 joules/kg ở trẻ em). Bệnh nhân vẫn trong tình trạng VF hoặc VT vô mạch sẽ được sốc điện thêm 2 phút một lần, cùng với việc tiếp tục ép tim và thở máy và
+
+điều trị bằng thuốc
+
+tùy chọn.
+
+CPR: Theo dõi và đường truyền tĩnh mạch
+
+Theo dõi điện tâm đồ (ECG) được thiết lập để xác định nhịp tim cơ bản.
+
+Một đường truyền tĩnh mạch được thiếp lập; thiết lập hai đường truyền làm giảm thiểu nguy cơ mất khả năng tiếp cận đường truyền trong thời gian cấp cứu ngừng tuần hoàn. Ưu tiên các đường truyền ngoại biên lớn như tĩnh mạch trước cẳng tay. Ở người lớn và trẻ em, nếu không thể nhanh chóng thiết lập một đường truyền ngoại biên, thì có thể đặt một đường truyền trung tâm dưới đòn hoặc ở đùi (xem
+
+Thủ thuật
+
+) với điều kiện là có thể thực hiện mà không cần ngừng ép ngực (thường khó). Các đường truyền trong xương (xem
+
+Truyền trong xương
+
+) là những lựa chọn thay thế, đặc biệt là ở trẻ em, vì có thể đặt các đường truyền này một cách nhanh chóng để tránh chậm trễ trong việc sử dụng liều epinephrine đầu tiên. Catheter tĩnh mạch đùi (xem
+
+Thủ thuật
+
+), là một lựa chọn vì cấp cứu ngừng tuần hoàn không cần phải dừng lại và có ít nguy cơ biến chứng nguy hiểm; tuy nhiên, chúng có thể có tỷ lệ thành công thấp hơn do không có nhịp đập của động mạch để hướng dẫn đặt.
+
+Loại và thể tích dịch hoặc thuốc được truyền tùy thuộc vào tình trạng lâm sàng. Thông thường, truyền tĩnh mạch chậm dung dịch nước muối sinh lý 0,9% (chỉ đủ để giữ cho đường truyền tĩnh mạch mở); chỉ cần bù dịch mạnh (dung dịch tinh thể và dung dịch keo, máu) khi ngừng tim do giảm thể tích máu (xem mục
+
+Hồi sức bằng dịch đường tĩnh mạch
+
+) hoặc như một phần của quá trình điều trị
+
+sốc tim
+
+sau khi tuần hoàn tự nhiên trở lại.
+
+CPR: Trường hợp đặc biệt
+
+Trong
+
+trường hợp
+
+điện giật
+
+,
+
+nhân viên cứu hộ phải chắc chắn rằng bệnh nhân không còn tiếp xúc với nguồn điện nữa để tránh bị điện giật. Việc người cứu hộ sử dụng các vật liệu không phải kim loại hoặc gậy và nối đất cho phép loại bỏ nguồn điện khỏi bệnh nhân một cách an toàn trước khi bắt đầu cấp cứu ngừng tuần hoàn.
+
+Trong
+
+đuối nước
+
+,
+
+thổi ngạt có thể được bắt đầu ngay từ lúc nằm trong vùng nước nông, mặc dù ép tim có thể không được thực hiện hiệu quả cho đến khi bệnh nhân được đặt nằm ngang trên bề mặt chắc chắn.
+
+Nếu
+
+ngừng tim sau chấn thương,
+
+các thao tác khai thông đường thở và thổi ngạt bên ngoài sau khi làm sạch đường thở được ưu tiên cao nhất vì tắc nghẽn đường thở là nguyên nhân có thể chữa được nhất khi ngừng tuần hoàn. Nếu nghi ngờ chấn thương cột sống cổ, nên thực hiện động tác đẩy hàm (xem hình
+
+Động tác đẩy hàm
+
+), nhưng không nên nghiêng đầu và nâng cằm. Các nguyên nhân có thể sống sót khác của ngừng tim do chấn thương bao gồm
+
+chèn ép tim
+
+và
+
+tràn khí màng phổi áp lực
+
+, là những tình huống mà việc giải áp sẽ giúp cứu sống bệnh nhân. Tuy nhiên, hầu hết các bệnh nhân bị ngừng tim do chấn thương đều bị giảm thể tích nghiêm trọng do mất máu (do đó việc ép tim có thể không hiệu quả) hoặc chấn thương não không thể phục hôi được.
+
+CPR: Thuốc điều trị ACLS
+
+Mặc dù đã được sử dụng rộng rãi và lâu dài, nhưng chưa có loại thuốc hoặc sự kết hợp thuốc nào được chứng minh chắc chắn có thể làm tăng khả năng sống sót nguyên vẹn về mặt thần kinh cho đến khi xuất viện ở những bệnh nhân bị ngừng tim. Một số loại thuốc dường như có thể cải thiện khả năng phục hồi tuần hoàn tự nhiên và do đó có thể được sử dụng một cách hợp lý (để biết liều lượng, bao gồm cả liều dùng cho nhi khoa, hãy xem bảng
+
+Thuốc thường dùng để hồi sức
+
+). Điều trị bằng thuốc để điều trị sốc và ngừng tim vẫn đang được nghiên cứu.
+
+Bảng
+
+Các loại thuốc thường được sử dụng để hồi sức*
+
+Bảng
+
+Các loại thuốc thường được sử dụng để hồi sức*
+
+Các loại thuốc thường được sử dụng để hồi sức*
+
+Thuốc†
+
+Liều người lớn
+
+Liều trẻ em
+
+Adenosine
+
+6 mg ban đầu, sau đó 12 mg
+
+×
+
+2, nếu cần
+
+0,1 mg/kg ban đầu, sau đó 0,2 mg/kg
+
+×
+
+2
+
+Amiodarone
+
+Đối với rung thất/nhịp nhanh thất vô mạch: 300 mg tĩnh mạch tiêm trong 2 phút
+
+Nếu VF/VT vô mạch dai dẳng, có thể cho thêm 150 mg
+
+Đối với rung thất/nhịp nhanh thất vô mạch: 5 mg/kg tiêm tĩnh mạch
+
+Nếu VF dai dẳng/VT vô mạch, có thể lặp lại tổng cộng tối đa 3 liều
+
+Đối với tưới máu cơ tim:
+
+Liều tấn công: 150 mg tiêm tĩnh mạch trong 10 phút, sau đó là
+
+Truyền (nhỏ giọt): 1 mg/phút
+
+×
+
+6 giờ, sau đó 0,5 mg/phút
+
+×
+
+24 giờ
+
+Đối với nhịp nhanh thất còn mạch: 5 mg/kg trong vòng 20-60 phút, có thể lặp lại đến hai lần tối đa 15 mg/kg/ngày
+
+Atropine‡
+
+1 mg Lặp lại môi 3-5 phút để có kết quả hoặc tổng liều 3 mg (liều tối thiểu 0,5 mg)
+
+0,02 mg/kg, lặp lại một lần trong 3-5 phút nếu cần, liều tối thiểu 0,1 mg
+
+Canxi clorua
+
+1 g
+
+20 mg/kg
+
+Calcium gluceptate§
+
+0,66 g
+
+Không có
+
+Calcium gluconate
+
+3 g
+
+30 mg/kg
+
+Dobutamine
+
+2–5 mcg/kg/phút – tăng dần khi cần thiết đến tối đa 20 mcg/kg/phút
+
+Giống như liều người lớn
+
+Dopamine
+
+2–5 mcg/kg/phút – tăng dần khi cần thiết đến tối đa 20 mcg/kg/phút
+
+Giống như liều người lớn
+
+Epinephrine
+
+Bolus: 1 mg
+
+Truyền: 2-10 mcg/phút
+
+Bolus: 0,01 mg/kg
+
+Truyền: 0,1-1,0 mcg/kg/phút
+
+Glucose (chỉ dùng cho trường hợp hạ đường huyết đã được ghi nhận)
+
+25 g 50% D/W
+
+0,5–1 g/kg 10% D/W
+
+Tránh nồng độ cao ở trẻ sơ sinh và trẻ nhỏ. Khuyến nghị sử dụng 10% D/W cho trẻ sơ sinh và 10% hoặc 25% cho trẻ em
+
+Lidocaine
+
+1-1,5 mg/kg; lặp lại mỗi 5-10 phút đến tối đa 3 mg/kg
+
+Liều tải: 1 mg/kg
+
+Truyền: 20-50 mcg/kg/phút
+
+Magnesium sulfate
+
+1-2 g
+
+25-50 mg/kg đến tối đa 2 g
+
+Naloxone
+
+2–4 mg trong mũi hoặc 0,4 mg tiêm bắp
+
+0,1 mg/kg nếu bệnh nhân
+
+<
+
+20 kg hoặc
+
+<
+
+5 tuổi
+
+2 mg nếu bệnh nhân ≥ 20 kg hoặc ≥ 5 tuổi
+
+Norepinephrine
+
+Truyền dịch: 5–30 mcg/phút
+
+Truyền: Bắt đầu với 0,05-0,1 mcg/kg/phút (liều tối đa 2 mcg/kg/phút)
+
+Phenylephrine
+
+Truyền: 0,1-0,5 mcg/kg/phút
+
+Truyền: 0,1-0,5 mcg/kg/phút
+
+Procainamide
+
+20–50 mg/phút (tổng liều tối đa là 17 mg/kg
+
+15 mg/kg trong 30–60 phút
+
+Natri bicarbonate
+
+50 mEq
+
+1 mEq/kg
+
+Hướng dẫn PALS 2020 không khuyến nghị sử dụng natri bicarbonate ở bệnh nhi ngoại trừ những bệnh nhân bị tăng kali máu, hạ canxi máu, tăng magie máu, ngộ độc thuốc chống trầm cảm ba vòng hoặc quá liều thuốc chẹn kênh canxi¶
+
+* Chỉ dẫn và sử dụng, xem văn bản.
+
+† IV hoặc tiêm tủy xương.
+
+‡ Atropine không còn được khuyến nghị dùng cho bệnh nhân bị VT vô mạch. Thuốc này chỉ được sử dụng giới hạn ở những bệnh nhân có nhịp tim chậm có triệu chứng.
+
+§ Hiếm khi sử dụng.
+
+¶
+
+Maconochie IK, Aickin R, Hazinski MF, et al
+
+. Pediatric Life Support 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.
+
+Pediatrics
+
+2021;147(Suppl 1):e2020038505B. doi:10.1542/peds.2020-038505B
+
+D/W
+
+=
+
+dextrose trong nước; SVT
+
+=
+
+nhịp nhanh trên thất; VF
+
+=
+
+rung thất; VT
+
+=
+
+nhịp nhanh thất.
+
+* Chỉ dẫn và sử dụng, xem văn bản.
+
+† IV hoặc tiêm tủy xương.
+
+‡ Atropine không còn được khuyến nghị dùng cho bệnh nhân bị VT vô mạch. Thuốc này chỉ được sử dụng giới hạn ở những bệnh nhân có nhịp tim chậm có triệu chứng.
+
+§ Hiếm khi sử dụng.
+
+¶
+
+Maconochie IK, Aickin R, Hazinski MF, et al
+
+. Pediatric Life Support 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.
+
+Pediatrics
+
+2021;147(Suppl 1):e2020038505B. doi:10.1542/peds.2020-038505B
+
+D/W
+
+=
+
+dextrose trong nước; SVT
+
+=
+
+nhịp nhanh trên thất; VF
+
+=
+
+rung thất; VT
+
+=
+
+nhịp nhanh thất.
+
+Ở bệnh nhân có đường truyền tĩnh mạch ngoại biên, việc dùng thuốc được tiếp nối bằng một liều tấn công dịch truyền tĩnh mạch (truyền tĩnh mạch “mở rộng” ở người lớn; 3 ml đến 5 ml ở trẻ nhỏ) để đưa thuốc vào tuần hoàn trung tâm. Ở bệnh nhân không có đường truyền tĩnh mạch hoặc đường truyền trong xương (IO), naloxone, atropine và epinephrine, khi được chỉ định, có thể được cung cấp thông qua ống nội khí quản từ 2 đến 2,5 lần liều TM. Trong quá trình đưa thuốc qua ống nội khí quản, cần dừng ép trong thời gian ngắn.
+
+Thuốc bước một
+
+Thuốc chính bước đầu được sử dụng trong trường hợp ngừng tim là
+
+Epinephrine
+
+Epinephrine 1 mg đường tĩnh mạch/trong xương nên được tiêm càng sớm càng tốt cho những bệnh nhân có nhịp ban đầu không thể dò được và có thể lặp lại, 3 đến 5 phút một lần. Nên dùng sớm ở những nhịp không thể sốc điện, vì bằng chứng cho thấy khả năng sống sót tăng lên khi dùng sớm trong hồi sức (
+
+1
+
+) hoặc đối với
+
+nhịp nhanh thất
+
+(VT) hoặc
+
+rung thất
+
+(VF) không đáp ứng với 2 lần sốc điện.
+
+Epinephrine
+
+có tác dụng kết hợp giữa alpha-adrenergic và beta-adrenergic. Tác dụng alpha-adrenergic có thể làm tăng áp lực mạch vành thì tâm trương, do đó làm tăng tưới máu cơ tim trong quá trình ép tim.
+
+Epinephrine
+
+cũng làm tăng khả năng khử rung tim thành công. Tuy nhiên, tác dụng của beta - adrenergic có thể gây bất lợi vì nó làm tăng nhu cầu oxy (đặc biệt là ở tim) và gây giãn mạch. Không khuyến nghị tiêm
+
+epinephrine
+
+vào tim vì ngoài việc làm gián đoạn tình trạng chèn ép trước tim, còn có thể xảy ra tràn khí màng phổi, rách động mạch vành và chèn ép tim.
+
+Vasopressin không hiệu quả hơn epinephrine và do đó không được khuyến nghị là thuốc điều trị bước đầu trong hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ (
+
+2
+
+). Tuy nhiên, nếu không có
+
+epinephrine
+
+thì có thể dùng
+
+vasopressin
+
+thay thế.
+
+Có thể dùng
+
+amiodarone
+
+300 mg nếu lần khử rung tim thứ ba không thành công sau khi dùng epinephrine. Có thể dùng thêm một liều
+
+amiodarone
+
+(150 mg) nếu vẫn có nhịp tim có thể sốc được kháng trị mặc dù đã có từ 5 lần sốc trở lên và đã dùng từ 2 liều epinephrine trở lên.
+
+Amiodarone
+
+cũng có giá trị tiềm năng nếu VT hoặc VF vô mạch tái phát sau khi khử rung tim thành công; liều ban đầu thấp hơn (150 mg) được dùng trong 10 phút sau đó truyền liên tục. Không có bằng chứng thuyết phục rằng nó làm tăng khả năng sống sót đến khi xuất viện. Lidocaine là một thuốc chống loạn nhịp thay thế cho
+
+amiodarone
+
+.
+
+Các loại thuốc khác
+
+Một số loại thuốc bổ sung có thể hữu ích trong những trường hợp cụ thể.
+
+Atropine sulfate
+
+là thuốc tác dụng giãn phế vị, làm tăng nhịp tim và dẫn truyền qua nút nhĩ thất. Nó được dùng cho nhịp tim chậm có triệu chứng và block nhĩ thất độ cao. Không khuyến nghị sử dụng thuốc này cho trường hợp ngừng tim hoặc hoạt động điện không có mạch đập.
+
+Canxi clorua
+
+được khuyên dùng cho bệnh nhân
+
+tăng kali máu
+
+,
+
+tăng magie máu
+
+,
+
+hạ canxi máu
+
+, hoặc ngộ độc chẹn kênh canxi. Ở những bệnh nhân khác, vì canxi nội bào đã cao hơn bình thường, nên bổ sung canxi có thể gây bất lợi. Vì ngừng tim ở bệnh nhân lọc máu thường là kết quả của hoặc tăng kali máu, nên những bệnh nhân này có thể được hưởng lợi từ thử nghiệm canxi nếu không xác định được nồng độ kali tại giường. Cần thận trọng vì canxi làm trầm trọng thêm độc tính của digitalis và có thể gây ngừng tim.
+
+Lidocain
+
+được khuyến nghị thay thế cho amiodarone đối với VF hoặc VT không đáp ứng với khử rung tim và điều trị thuốc vận mạch ban đầu bằng epinephrine. Nó cũng có thể được xem xét sau khi tuần hoàn tự nhiên trở lại sau ngừng tim do VF hoặc VT (ở người lớn) để ngăn ngừa VF hoặc VT tái phát.
+
+Magnesium sulfate
+
+chưa được chứng minh là cải thiện kết quả trong các nghiên cứu lâm sàng phân nhóm ngẫu nhiên (
+
+3
+
+). Tuy nhiên, nó có thể hữu ích ở những bệnh nhân bị
+
+xoắn đỉnh
+
+hoặc đã biết hoặc nghi ngờ thiếu magiê (tức là bệnh nhân rối loạn sử dụng rượu hoặc tiêu chảy kéo dài).
+
+Procainamide
+
+là thuốc điều trị bước hai cho VF hoặc VT kháng trị. Tuy nhiên, procainamide không được khuyến cáo cho trường hợp ngừng tim vô mạch ở trẻ em và không còn được khuyến cáo theo hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ để điều trị rối loạn nhịp thất sau ngừng tim. Tuy nhiên, theo hướng dẫn của Hội đồng hồi sức châu Âu năm 2021, đây là một lựa chọn để điều trị cho những bệnh nhân ổn định về huyết động với nhịp tim nhanh có phức hợp QRS rộng, vì một số nghiên cứu đã chỉ ra mối liên quan với ít biến cố bất lợi nghiêm trọng hơn so với amiodarone (
+
+4
+
+).
+
+Phenytoin
+
+có thể hiếm khi được sử dụng để điều trị VT, nhưng chỉ khi VT là do ngộ độc digitalis và không đáp ứng với các thuốc khác. Liều 50 đến 100 mg/phút mỗi 5 phút được cho đến khi nhịp được cải thiện hoặc tổng liều lên đến 20 mg/kg.
+
+Natri bicarbonate
+
+không được khuyến nghị trừ khi ngừng tim là do tăng kali máu, nhiễm toan chuyển hóa nặng hoặc quá liều thuốc chống trầm cảm ba vòng.
+
+Natri bicarbonate
+
+có thể được cân nhắc khi tình trạng ngừng tim kéo dài (
+
+>
+
+10 phút); chỉ được thực hiện nếu có thông khí tốt. Khi sử dụng
+
+natri bicarbonate
+
+, cần theo dõi nồng độ bicarbonate huyết thanh hoặc tình trạng thiếu hụt kiềm trước khi truyền và sau mỗi liều 50 mEq (1 mEq/kg ở trẻ em).
+
+Tài liệu tham khảo về thuốc dùng cho ACLS
+
+1.
+
+Okubo M, Komukai S, Callaway CW, Izawa J
+
+. Association of Timing of
+
+Epinephrine
+
+Administration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.
+
+JAMA Netw Open
+
+4(8):e2120176, 2021. doi:10.1001/jamanetworkopen.2021.20176
+
+2.
+
+Merchant RM, Topjian AA, Panchal AR, et al
+
+: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S337-S357, 2020 doi:10.1161/CIR.0000000000000918
+
+3.
+
+Thel MC, Armstrong AL, McNulty SE, Califf RM, O'Connor CM
+
+: Randomised trial of magnesium in in-hospital cardiac arrest. Duke Internal Medicine Housestaff.
+
+Lancet
+
+350(9087):1272–1276, 1997. doi:10.1016/s0140-6736(97)05048-4
+
+4.
+
+Soar J, Böttiger BW, Carli P, et al
+
+: European Resuscitation Council Guidelines 2021: Adult advanced life support [published correction appears in
+
+Resuscitation
+
+2021 Oct;167:105-106].
+
+Resuscitation
+
+161:115-151, 2021 doi:10.1016/j.resuscitation.2021.02.010
+
+Điều trị loạn nhịp tim trong CPR
+
+Rung thất hoặc nhịp nhanh thất vô mạch
+
+được điều trị bằng một sốc điện trực tiếp, tốt nhất với dạng sóng hai pha, càng sớm càng tốt sau khi xác định nhịp. Mặc dù một số bằng chứng trong phòng thí nghiệm cho thấy ngược lại, nhưng không nên trì hoãn việc khử rung để thực hiện một chu kỳ ép tim. Ép tim nên bị làm gián đoạn không quá 10 giây tại một thời điểm để khử rung. Các mức năng lượng khuyến nghị cho khử rung tim khác nhau:
+
+120 joules đến 200 joules đối với máy khử rung tim hai pha
+
+360 joules cho máy khử rung tim một pha
+
+Nếu điều trị không thành công sau 2 lần thử, dùng epinephrine 1 mg đường tĩnh mạch và lặp lại 3 đến 5 phút một lần. Thực hiện khử rung tim ở mức năng lượng tương tự hoặc cao hơn 1 phút đến 2 phút sau mỗi lần tiêm epinephrine.
+
+Nếu vẫn tồn tại rung thất, dùng amiodarone 300 mg IV. Sau đó, nếu VF/VT tái phát, dùng amiodarone 150 mg, sau đó truyền tĩnh mạch 1 mg/phút trong 6 giờ, rồi 0,5 mg/phút.
+
+Máy khử rung tim bên ngoài tự động (AED) cung cấp một dây cáp dành cho nhi khoa giúp giảm hiệu quả năng lượng truyền tới trẻ em. (Để biết mức năng lượng ở trẻ em, hãy xem mục
+
+Khử rung tim
+
+; để biết liều dùng thuốc, hãy xem bảng
+
+Thuốc thường dùng để hồi sức
+
+.)
+
+Vô tâm thu có thể là kết quả giả do bị lỏng kết nối hoặc mất kết nối; do đó, giám sát kết nối nên được kiểm tra và nhịp nên được xem thêm ở một chuyển đạo khác. Nếu khẳng định vô tâm thu, bệnh nhân được dùng epinephrine 1 mg IV lặp lại mỗi 3 đến 5 phút. Không khuyến khích khử rung cho tình trạng vô tâm thu (bởi vì nó "có thể gây rung thất") vì các chấn động điện có thể gây tổn thương cơ tim không phục hồi.
+
+Hoạt động điện vô mạch là sự sụp đổ của tuần hoàn xảy ra mặc dù các hoạt động điện trong điện tâm đồ (ECG) vẫn còn. Bệnh nhân có hoạt động điện vô mạch được tiêm epinephrine 1,0 mg đường tĩnh mạch lặp lại 3 đến 5 phút một lần, sau đó truyền 500 đến 1000 mL (20 mL/kg đối với trẻ em) truyền nước muối sinh lý 0,9% nếu nghi ngờ giảm thể tích tuần hoàn. Chèn ép tim có thể gây ra hoạt động điện không hoạt động, nhưng rối loạn này thường xảy ra ở bệnh nhân sau mở ngực và ở bệnh nhân tràn dịch màng ngoài tim hoặc chấn thương ngực lớn. Trong các thiết lập như vậy,chọc dịch màng tim hoặc mở ngực được thực hiện (xem hình
+
+Chọc dịch màng ngoài tim
+
+). Chèn ép hiếm khi là nguyên nhân gây ngừng tim, nhưng nếu nghi ngờ có thể được xác nhận bằng siêu âm hoặc, nếu siêu âm không có sẵn, thì chọc dịch màng tim.
+
+CPR: Chấm dứt hồi sức
+
+Cấp cứu ngừng tuần hoàn nên được tiếp tục cho đến khi hệ thống tim phổi được ổn định, bệnh nhân được tuyên bố là đã chết, hoặc một người cứu hộ đơn lẻ với thể chất không thể tiếp tục cấp cứu được nữa. Nếu nghi ngờ ngừng tim là do
+
+hạ thân nhiệt
+
+, cần tiếp tục hồi sức tim phổi (CPR) cho đến khi cơ thể ấm trở lại lên đến 34
+
+°
+
+C.
+
+Quyết định chấm dứt cấp cứu ngừng tuần hoàn là một quyết định trên lâm sàng, các bác sĩ lâm sàng xem xét thời gian ngừng tim, tuổi của bệnh nhân và tiên lượng của các bệnh lý kèm theo. Quyết định này thường được thực hiện khi không tái lập tuần hoàn tự nhiên sau khi các biện pháp cấp cứu ngừng tuần hoàn và các biện pháp hồi sức tim phổi nâng cao đã được thực hiện. Ở những bệnh nhân được đặt nội khí quản, nồng độ carbon dioxide cuối thì thở ra (ETCO2)
+
+<
+
+10 mm Hg sau 20 phút hồi sức tim phổi là dấu hiệu tiên lượng kém. Các nghiên cứu về kết quả sau ngừng tim đã phát hiện ra rằng khả năng sống sót thuận lợi về mặt thần kinh là < 1% ở những bệnh nhân lớn tuổi –
+
+1
+
+,
+
+2
+
+trường hợp ngừng tim không có người chứng kiến ​​và nhịp tim ban đầu không thể sốc được.
+
+Tài liệu tham khảo về chấm dứt hồi sức
+
+1.
+
+Goto Y, Funada A, Maeda T, Okada H, Goto Y
+
+: Field termination-of-resuscitation rule for refractory out-of-hospital cardiac arrests in Japan.
+
+J Cardiol
+
+73(3):240–246, 2019 doi:10.1016/j.jjcc.2018.12.002
+
+2.
+
+Grunau B, Scheuermeyer F, Kawano T, et al
+
+: North American validation of the Bokutoh criteria for withholding professional resuscitation in non-traumatic out-of-hospital cardiac arrest.
+
+Resuscitation
+
+135:51–56, 2019 doi:10.1016/j.resuscitation.2019.01.008
+
+CPR: Chăm sóc sau khi hồi sức
+
+Việc phục hồi tuần hoàn tự nhiên chỉ là mục tiêu trung gian trong hồi sức. Mục tiêu cuối cùng là sống sót đến khi xuất viện với chức năng thần kinh tốt, điều này chỉ đạt được ở một số ít bệnh nhân có khả năng phục hồi tuần hoàn tự nhiên. Để tối đa hóa khả năng đạt kết cục tốt, bác sĩ lâm sàng phải cung cấp chăm sóc hỗ trợ tốt (ví dụ, kiểm soát huyết áp, nhiệt độ và nhịp tim) và điều trị các tình trạng cơ bản, đặc biệt là các
+
+hội chứng vành cấp
+
+.
+
+Chăm sóc sau hồi sức bao gồm giảm thiểu chấn thương tái tưới máu xảy ra sau giai đoạn thiếu máu cục bộ. Chăm sóc sau hồi sức nên bắt đầu ngay sau khi xác định được tình trạng tuần hoàn tự nhiên đã được phục hồi. Để giảm thiểu tổn thương do tăng oxy ở phổi, nên giảm lượng oxy cung cấp cho đến khi đạt được độ bão hòa oxy ngoại biên (SpO2) là 94%. Tốc độ và thể tích thông khí phải được chuẩn độ đến số đọc carbon dioxide cuối thì thở ra là 35 đến 40 mm Hg. Cần dùng một liều dịch tấn công nếu có thể dung nạp được và truyền thuốc làm co mạch nếu cần thiết để duy trì huyết áp tâm thu > 90 mm Hg.
+
+Các xét nghiệm trong phòng thí nghiệm sau hồi sức bao gồm khí máu động mạch (ABG), công thức máu (CBC) và hóa sinh máu, bao gồm chất điện giải, glucose, BUN (nitơ
+
+urê
+
+máu), creatinine và các chất chỉ điểm sinh học tim. (Creatine kinase thường tăng lên do tổn thương cơ xương do cấp cứu ngừng tuần hoàn, troponins không bị ảnh hưởng bởi cấp cứu ngừng tuần hoàn hoặc khử rung tim.) Áp suất riêng phần oxy trong động mạch (PaO2) nên được giữ ở mức gần bình thường (80 đến 100 mm Hg). Hematocrit phải được duy trì ở mức
+
+≥
+
+30%, và glucose ở mức 140 đến 180 mg/dL (7,7 đến 9,9 mmol/L); chất điện giải, đặc biệt là kali, phải nằm trong phạm vi bình thường.
+
+Chụp động mạch vành
+
+Quyết định làm
+
+thông tim
+
+sau khi hồi sức tim ngừng tim nên được cá nhân hoá dựa trên ECG, dấu hiệu lâm sàng, đánh giá của bác sĩ can thiệp tim mạch và tiên lượng của bệnh nhân. Hướng dẫn đề xuất chụp động mạch khẩn cấp cho bệnh nhân trưởng thành nghi ngờ nguyên nhân tim và bị nhồi máu cơ tim có đoạn ST chênh lên (STEMI) trên điện tâm đồ (
+
+1
+
+).
+
+Người ta vẫn chưa rõ liệu việc thông tim khẩn cấp (trong vòng 2 giờ) hoặc chậm hơn (trung bình khoảng 120 giờ sau khi ngừng tim) ở những bệnh nhân không bị STEMI trên kết quả điện tâm đồ có mang lại lợi ích trên lâm sàng nào không (
+
+2
+
+). Một số nhà nghiên cứu ủng hộ việc sử dụng rộng rãi thông tim sau khi phục hồi tuần hoàn tự nhiên, thực hiện thủ thuật này cho hầu hết bệnh nhân trừ khi nguyên nhân rõ ràng không có khả năng là do tim (ví dụ: đuối nước) hoặc có chống chỉ định (ví dụ: chảy máu nội sọ).
+
+Hỗ trợ thần kinh
+
+Dưới 10% số bệnh nhân sống sót sau cơn ngừng tim ngoài bệnh viện có chức năng hệ thần kinh trung ương tốt (điểm số theo thang điểm hiệu suất não [CPC] là 1 hoặc 2 – xem bảng
+
+Thang điểm hiệu suất não
+
+) khi xuất viện (
+
+3, 4, 5
+
+). Điểm CPC bằng 1 cho thấy hoạt động não tốt (bệnh nhân tỉnh táo, minh mẫn và có khả năng làm việc nhưng có thể bị khiếm khuyết nhẹ về thần kinh hoặc tâm lý). Điểm CPC là 2 cho thấy hoạt động não ở mức trung bình (bệnh nhân tỉnh táo, có thể thực hiện các hoạt động sinh hoạt hàng ngày [ADL] và làm việc trong môi trường đơn giản). Tổn thương não do thiếu oxy là hậu quả của tổn thương do thiếu máu cục bộ và phù não (xem phần
+
+Sinh lý bệnh của ngừng tim
+
+). Cả quá trình tổn thương và hồi phục có thể tiến triển trong vòng 48 đến 72 giờ sau khi hồi sức.
+
+Bảng
+
+Thước đo hoạt động não (Người lớn)*
+
+Bảng
+
+Thước đo hoạt động não (Người lớn)*
+
+Thước đo hoạt động não (Người lớn)*
+
+Điểm
+
+Phân loại
+
+Mô tả
+
+1
+
+Bình thường (hiệu suất não trẻ em)
+
+Ý thức, tỉnh táo, có khả năng làm việc và có một cuộc sống bình thường
+
+Có thể có những thiếu sót tâm lý hoặc thần kinh nhỏ (ví dụ, loạn sản nhẹ, liệt nửa người không biến dạng, bất thường thần kinh sọ nhỏ)
+
+2
+
+Khuyết tật trung bình (khuyết tật nhưng không phụ thuộc)
+
+Có ý thức, có đủ chức năng não để làm việc bán thời gian trong môi trường được che chở và các hoạt động độc lập trong cuộc sống hàng ngày (ví dụ: mặc quần áo, đi lại bằng phương tiện công cộng, chuẩn bị thức ăn)
+
+Có thể bị liệt nửa người, co giật, thất điều, rối loạn vận ngôn, rối loạn trí nhớ vĩnh viễn hoặc rối loạn tâm thần
+
+3
+
+Khuyết tật nặng (ý thức nhưng tàn tật và phụ thuộc)
+
+Có ý thức, nhưng phụ thuộc vào người khác để được hỗ trợ hàng ngày; có ít nhất nhận thức hạn chế
+
+Thể loại này bao gồm nhiều loại rối loạn chức năng thần kinh, từ những bệnh nhân có thể đi lại nhưng bị rối loạn trí nhớ nghiêm trọng hoặc
+
+sa sút trí tuệ
+
+khiến họ không thể tồn tại độc lập cho đến những bệnh nhân bị liệt và chỉ có thể giao tiếp bằng mắt (như trong
+
+hội chứng khóa chặt
+
+).
+
+4
+
+Bất tỉnh (hôn mê hoặc trạng thái thực vật)
+
+Mất ý thức, không nhận thức được môi trường xung quanh, không nhận thức; không có tương tác bằng lời nói hoặc tâm lý với môi trường
+
+5
+
+Chết não
+
+Họp
+
+tiêu chí chết não
+
+hoặc chết theo tiêu chuẩn truyền thống
+
+* Mức độ chức năng tồi tệ nhất cho bất kỳ tiêu chí được sử dụng để phân loại. Thiếu hụt chỉ được tính nếu chúng là kết quả của rối loạn thần kinh. Các cuộc đánh giá dựa trên hồ sơ bệnh án hoặc cuộc phỏng vấn với người chăm sóc.
+
+Dữ liệu từ Safar P. Resuscitation after Brain Ischemia. In: Grenvik A, Safar P, editors. Brain Failure and Resuscitation. 1981. pp. 155–184
+
+* Mức độ chức năng tồi tệ nhất cho bất kỳ tiêu chí được sử dụng để phân loại. Thiếu hụt chỉ được tính nếu chúng là kết quả của rối loạn thần kinh. Các cuộc đánh giá dựa trên hồ sơ bệnh án hoặc cuộc phỏng vấn với người chăm sóc.
+
+Dữ liệu từ Safar P. Resuscitation after Brain Ischemia. In: Grenvik A, Safar P, editors. Brain Failure and Resuscitation. 1981. pp. 155–184
+
+Duy trì oxy hóa và áp lực tưới máu não (tránh tăng thông khí, tăng oxy, giảm oxy máu và hạ huyết áp) có thể làm giảm các biến chứng trong não. Hạ đường huyết và tăng đường huyết đều có thể làm tổn thương não sau thiếu máu và cần được điều trị.
+
+Ở người lớn, nên
+
+kiểm soát nhiệt độ mục tiêu
+
+cho những bệnh nhân vẫn không phản ứng sau khi tuần hoàn tự nhiên đã trở lại (
+
+6, 7
+
+). Các khuyến nghị hiện tại là nhắm mục tiêu giữ nhiệt độ bình thường (< 37,5ºC), mặc dù nhiều nhà nghiên cứu và bác sĩ lâm sàng vẫn tiếp tục ủng hộ việc hạ thân nhiệt (nhiệt độ cơ thể từ 32°C đến 36°C). Bất kể nhiệt độ mục tiêu đã chọn là gì, việc kiểm soát nhiệt độ chủ động được bắt đầu ngay khi tuần hoàn tự phát quay trở lại. Các kỹ thuật gây ra và duy trì thân nhiệt thấp có thể là bên ngoài hoặc bên trong. Các phương pháp làm lạnh bên ngoài rất dễ áp dụng và nằm trong khoảng từ việc sử dụng các gói nước đá bên ngoài đến một số thiết bị thương mại làm mát bên ngoài có khả năng lưu thông lượng nước lạnh trên da. Để làm mát bên trong, các dung dịch tĩnh mạch được làm lạnh (4°C) có thể được truyền nhanh đến khi nhiệt độ cơ thể thấp hơn, nhưng phương pháp này có thể gây khó khăn cho bệnh nhân không dung nạp được nhiều dịch bổ sung. Ngoài ra, còn có các thiết bị trao đổi nhiệt bên ngoài tuần hoàn bằng nước lạnh đến ống dẫn trao đổi nhiệt trong lòng tĩnh mạch có sử dụng thiết kế vòng kín, trong đó nước lạnh luân chuyển qua ống thông và trở lại thiết bị chứ không phải vào bệnh nhân. Một phương pháp làm mát bên trong khác là sử dụng thiết bị ngoài cơ thể để lưu thông và làm mát máu bên ngoài cơ thể sau đó đưa máu trở lại hệ tuần hoàn trung tâm. Bất kể phương pháp được chọn là gì, mục tiêu là làm mát bệnh nhân nhanh chóng và duy trì nhiệt độ trung tâm ở mức mục tiêu (< 37,5ºC đối với thân nhiệt bình thường hoặc từ 32°C đến 36°C đối với hạ thân nhiệt) trong 24 giờ sau khi phục hồi tuần hoàn tự phát. Không có bằng chứng nào cho thấy bất kỳ nhiệt độ cụ thể nào trong phạm vi này là tốt hơn, nhưng điều bắt buộc là phải tránh tình trạng tăng thân nhiệt (
+
+1, 8
+
+).
+
+Nhiều
+
+phương pháp điều trị bằng thuốc
+
+, bao gồm cả thuốc làm sạch gốc tự do, chất chống oxy hóa, thuốc ức chế glutamate và thuốc chẹn kênh canxi, đều có lợi về mặt lý thuyết. Nhiều nghiên cứu đã thành công trên mô hình động vật, nhưng chưa có nghiên cứu nào chứng minh được hiệu quả trong thử nghiệm trên người.
+
+Hỗ trợ huyết áp
+
+Khuyến nghị hiện tại là duy trì huyết áp động mạch trung bình (MAP)
+
+>
+
+65 mm Hg và huyết áp tâm thu
+
+>
+
+90 mm Hg (
+
+9
+
+). Ở những bệnh nhân bị cao huyết áp, một mục tiêu hợp lý là huyết áp tâm thu thấp hơn 30 mmHg so với trước khi tim nghỉ. Huyết áp động mạch (MAP) được đo tốt nhất bằng catheter động mạch. Dùng ống thông động mạch phổi trực tiếp để theo dõi huyết động học đã bị loại bỏ.
+
+Hỗ trợ huyết áp bao gồm
+
+Truyền crystalloid đường tĩnh mạch (nước muối sinh lý thông thường hoặc Ringer lactated)
+
+Thuốc tăng co bóp cơ tim hoặc thuốc làm co mạch với mục tiêu duy trì huyết áp tâm thu ít nhất là 90 mm Hg và MAP ít nhất là 65 mm Hg
+
+Hiếm khi phải dùng bóng đối xung động mạch chủ
+
+Bệnh nhân có MAP thấp và áp lực tĩnh mạch trung tâm thấp nên được truyền dịch tĩnh mạch với dung dịch nước muối sinh lý 0,9% theo từng đợt 250 mL.
+
+Công cụ tính toán lâm sàng
+
+Huyết áp trung bình (huyết áp hệ thống hoặc áp lực động mạch phổi)
+
+Mặc dù việc sử dụng thuốc tăng co bóp cơ tim và thuốc làm co mạch chưa được chứng minh là có thể cải thiện khả năng sống sót lâu dài, người cao tuổi có MAP ở mức trung bình thấp (70 đến 80 mm Hg) và áp lực tĩnh mạch trung tâm bình thường hoặc cao có thể được truyền thuốc tăng co bóp cơ tim (ví dụ: dobutamine bắt đầu với liều 2 đến 5 mcg/kg/phút). Amrinone hoặc milrinone là những thuốc thay thế hiếm khi được sử dụng (xem bảng
+
+Thuốc thường dùng để hồi sức
+
+).
+
+Nếu biện pháp này không có hiệu quả, có thể xem xét sử dụng thuốc tăng co bóp cơ tim và co mặt như dopamine. Các lựa chọn thay thế là epinephrine và thuốc co mạch ngoại vi norepinephrine và phenylephrine (xem bảng
+
+Thuốc thường dùng để hồi sức
+
+). Tuy nhiên, thuốc hoạt mạch cần phải được sử dụng ở mức liều tối thiểu cần thiết để đạt được MAP bình thường thấp vì nó có thể làm tăng sức cản mạch máu và làm giảm tưới máu cơ quan, đặc biệt là ở mạc treo ruột. Nó cũng làm tăng lượng công việc của tim tại thời điểm khi chức năng giảm do rối loạn chức năng cơ tim sau khi hồi phục.
+
+Nếu MAP vẫn
+
+<
+
+70 mm Hg ở những bệnh nhân có thể bị
+
+nhồi máu cơ tim
+
+(MI), nên cân nhắc can thiệp bằng bóng đối xung trong động mạch chủ. Bệnh nhân có MAP bình thường và áp lực tĩnh mạch trung tâm cao hoặc tĩnh mạch chủ dưới giãn rộng có thể cải thiện bằng liệu pháp tăng co bóp cơ tim hoặc giảm hậu gánh bằng nitroprusside hoặc nitroglycerin.
+
+Chống xung động bóng trong động mạch chủ có thể hỗ trợ tình trạng tuần hoàn lưu lượng thấp do suy bơm thất trái không đáp ứng với thuốc. Một ống thông có bóng được đưa vào thông qua động mạch đùi, qua da hoặc bằng phẫu thuật cắt động mạch, đi ngược vào động mạch chủ ngực gần với động mạch phế quản trái. Bóng được thổi phồng trong thời gian tâm trương, làm tăng tưới máu động mạch vành, và ẹp xuống trong thời gian tâm thu, làm giảm hậu gánh. Giá trị chính của nó là biện pháp tạm thời khi nguyên nhân gây sốc có thể được điều chỉnh bằng phẫu thuật hoặc can thiệp qua da (ví dụ:
+
+nhồi máu cơ tim cấp
+
+có tắc nghẽn động mạch vành lớn,
+
+hở van hai lá
+
+cấp,
+
+thông liên thất
+
+).
+
+Sau điều trị rối loạn nhịp tim do tuần hoàn tự phát trở lại
+
+Mặc dù
+
+rung thất
+
+(VF) hoặc
+
+nhịp nhanh thất
+
+(VT) có thể tái phát sau khi hồi sức, thuốc chống loạn nhịp dự phòng không cải thiện khả năng sống sót và không được sử dụng thường quy. Tuy nhiên, những bệnh nhân biểu hiện nhịp tim như vậy có thể được điều trị bằng procainamide, lidocaine (xem phần
+
+Thuốc khác
+
+) hoặc amiodarone (xem phần
+
+Thuốc điều trị bước đầu
+
+) ngoài phương pháp khử rung tim.
+
+Cách thực hiện tạo nhịp qua da...
+
+Các video
+
+Những bệnh nhân bị ngừng tim do VF hoặc VT không liên quan đến nhồi máu cơ tim cấp tính là những ứng cử viên đối với
+
+máy khử rung tim cấy ghép vào cơ thể
+
+(ICD). ICD được cấy ghép tương tự như máy điều hòa nhịp tim và có dây dẫn trong tim và đôi khi có các điện cực dưới da. Chúng có thể cảm nhận nhịp tim và cung cấp nhịp tim hoặc sốc nhịp theo chỉ định.
+
+Tùy thuộc vào loại loạn nhịp cụ thể, nhịp tim nhanh trên thất sau hồi sức có thể được điều trị bằng thuốc dùng khi loạn nhịp như vậy xảy ra trong các bối cảnh khác.
+
+Các tài liệu tham khảo chăm sóc sau khi hồi sức tim phổi
+
+1.
+
+Wyckoff MH, Greif R, Morley PT, et al
+
+: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.
+
+Circulation
+
+146(25):e483–e557, 2022 doi:10.1161/CIR.0000000000001095
+
+2.
+
+Spoormans EM, Lemkes JS, Janssens GN, et al
+
+: Ischaemic electrocardiogram patterns and its association with survival in out-of-hospital cardiac arrest patients without ST-segment elevation myocardial infarction: a COACT trials' post-hoc subgroup analysis.
+
+Eur Heart J Acute Cardiovasc Care
+
+11(7):535-543, 2022 doi:10.1093/ehjacc/zuac060
+
+3.
+
+CARES
+
+: Cardiac Arrest Registry to Enhance Survival. CARES 2023 Annual Report. https://mycares.net/
+
+4.
+
+Jennett B, Bond M
+
+: Assessment of outcome after severe brain damage.
+
+Lancet
+
+1(7905):480–484, 1975. doi:10.1016/s0140-6736(75)92830-5
+
+5. Safar P. Resuscitation after Brain Ischemia. In: Grenvik A, Safar P, editors. Brain Failure and Resuscitation. 1981 pp. 155–184.
+
+6.
+
+Bernard SA, Gray TW, Buist MD, et al
+
+: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.
+
+N Engl J Med
+
+346:557–563, 2002. doi: 10.1056/NEJMoa003289
+
+7.
+
+Nielsen N, Wetterslev J, Cronberg T, et al
+
+: Targeted temperature management at 33°C versus 36°C after cardiac arrest.
+
+N Engl J Med
+
+369:2197–2206, 2013. doi: 10.1056/NEJMoa1310519
+
+8.
+
+Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force
+
+: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.
+
+Resuscitation
+
+167:160–172, 2021 doi:10.1016/j.resuscitation.2021.08.040
+
+9.
+
+Nolan JP, Sandroni C, Böttiger BW, et al
+
+: European Resuscitation Council and European Society of Intensive Care Medicine guidelines 2021: post-resuscitation care.
+
+Intensive Care Med
+
+47(4):369–421, 2021. doi:10.1007/s00134-021-06368-4
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+American Heart Association 2020 CPR and ECC Guidelines
+
+: These guidelines for cardiopulmonary resuscitation (CPR) and emergency cardiovascular care (ECC) are based on the most recent review of resuscitation science, protocols, and education.
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. CPR: Đường thở và hô hấp ---
+
+Khai thông đường thở là ưu tiên thứ hai (xemKhai thông và mở đường thở trên) sau khi bắt đầu ép ngực. Đối với chứng ngừng tim ngoài bệnh viện với nhịp có thể sốc ban đầu, có thể chấp nhận cung cấp oxy thụ động trong 6 phút đầu tiên, trong khuôn khổ của gói dịch vụ y tế khẩn cấp nhằm giảm thiểu thời gian tạm dừng trong quá trình thực hiện hồi sức tim phổi và khử rung tim ban đầu. Đối với các biện pháp cơ học về hồi sức ở trẻ em, xem bảngHướng dẫn Hồi sức Nhi khoa - Các biện pháp Cơ học.Khi các chuyên gia chăm sóc sức khỏe làm hồi sức tim phổi, nên bắt đầu thông khí bằngbóng bóp-van-mặt nạcàng sớm càng tốt, nhưng thông khí bằng bóng bóp-van-mặt nạ không được trì hoãn việc bắt đầu ép tim hoặc khử rung tim. Nhân viên cứu hộ không chuyên có thể thực hiện hồi sức tim phổi theo kiểu chỉ ép tim hoặc, nếu được đào tạo để làm như vậy, có thể hô hấp nhân tạo qua đường miệng-miệng (đối với người lớn, thanh thiếu niên và trẻ em) hoặc kết hợp vừa miệng-miệng và miệng-mũi (đối với trẻ sơ sinh). Nếu có thể, có thể đưaống thông khí hầu họngvào để duy trì sự thông thoáng của đường thở trong quá trình thông khí bằng túi-van-mặt nạ. Áp suất cực đại không được khuyến khích.Thực hiện thông khí Bóng mask ...Các videoNếu thấy bụng chướng, kiểm tra lại đường thở và giảm lượng khí thổi ngạt. Đặt nội khí quản mũi dạ dày hoặc dạ dày để làm giảm mức độ chướng của dạ dày không được làm gián đoạn CPR.Khi những người cứu hộ đủ trình độ chuyên môn có mặt, đặt một đường thở nâng cao (ống nội khí quản hoặc đường thở trên thanh quản)mà không làm gián đoạn quá trình ép timsau khi cố gắng hồi sức tim phổi và khử rung tim ban đầu, theo mô tả trongThiết lập và kiểm soát đường thở. Thực hiện thổi ngạt 6 giây một lần (10 nhịp thở/phút) mà không làm gián đoạn quá trình ép tim ở người lớn; trẻ sơ sinh và trẻ em được thổi ngạt 2 đến 3 giây một lần (20 đến 30 lần thổi ngạt/phút). Tuy nhiên, ép tim và khử rung được ưu tiên hơn là việc đặt nội khí quản. Trừ có mặt các nhân viên cứu hộ có nhiều kinh nghiệm, có thể bị trì hoãn đặt nội khí quản để thông khí bằngbóng-van-mặt nạ,mặt nạ thanh quản, hoặc thiết bị tương tự.Đối với những bệnh nhân nghi ngờ mắcCOVID-19, Hiệp hội Tim mạch Hoa Kỳ đã ban hành hướng dẫn tạm thời về hồi sinh cơ bản và nâng cao (11, 2).Cách đặt mask thanh quảnCác videoTài liệu tham khảo về đường thở và hô hấp1.Edelson DP, Sasson C, Chan PS, et al; American Heart Association ECC Interim COVID Guidance Authors: Interim Guidance for Basic and Advanced Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association.Circulation141(25):e933–e943, 2020 doi: 10.1161/CIRCULATIONAHA.120.0474632.Goodloe JM, Topjian A, Hsu A, et al: Interim Guidance for Emergency Medical Services Management of Out-of-Hospital Cardiac Arrest During the COVID-19 Pandemic.Circ Cardiovasc Qual Outcomes14(7):e007666, 2021 doi:10.1161/CIRCOUTCOMES.120.007666
+
+--- 2. CPR: Circulation ---
+
+Ép timCách hồi sức tim phổi (CPR) ở ...Các videoÉp tim nên được bắt đầu ngay lập tức khi nhận thấy tim ngừng đập và thực hiện với mức gián đoạn tối thiểu cho đến khi khử được rung tim. Ở bệnh nhân không có phản ứng và không ai chứng kiến ​​cảnh họ ngã gục, người cứu hộ được đào tạo phải ngay lập tức tiến hành ép tim ngoài lồng ngực, tiếp theo là hô hấp nhân tạo. Ép ngực không được gián đoạn>10 giây bất cứ lúc nào (ví dụ: để đặt nội khí quản, khử rung tim, phân tích nhịp, đặt ống thông đường tĩnh mạch trung tâm hoặc vận chuyển). Một chu kỳ ép tim phải bao gồm 50% ép tim và 50% để lồng ngực nở ra; trong giai đoạn giải ép, điều quan trọng là để cho lồng ngực nở hoàn toàn. Phân tích nhịp và khử rung (nếu phù hợp) được thực hiện ngay khi có máy khử rung tim.Độ sâu ép ngực được khuyến nghị cho người lớn là khoảng 5 cm đến 6 cm. Lý tưởng là, ép tim ngoài lồng ngực gây ra mạch đập ở mỗi nhịp ép tim, mặc dù cung lượng tim chỉ khoảng 20 - 30% so với bình thường. Tuy nhiên, việc bắt mạch trong quá trình ép ngực là khó khăn, ngay cả đối với các bác sĩ lâm sàng có kinh nghiệm và thường không đáng tin cậy. Việc theo dõi định lượng carbon dioxide cuối thì thở ra có thể cung cấp ước tính tốt hơn về lưu lượng tim trong quá trình ép tim; những bệnh nhân bị tưới máu không đủ sẽ có ít máu tĩnh mạch trở về phổi và do đó có mức carbon dioxide cuối thì thở ra thấp. Tăng thông khí trong quá trình hồi sức tim phổi cũng có thể dẫn đến mức carbon dioxide cuối thì thở ra thấp. Mặc dù có ít bằng chứng hỗ trợ các con số cụ thể trong quá trình theo dõi sinh lý, nhưng nhìn chung người ta chấp nhận rằng mức carbon dioxide cuối thì thở ra > 10 và lý tưởng nhất là > 20 mm Hg có liên quan đến CPR đầy đủ. Sự gia tăng đột ngột đáng kể nồng độ carbon dioxide cuối thì thở ra hoặc mạch đập rõ ràng khi ngừng ép tim cho thấy tuần hoàn tự nhiên đang được phục hồi.Thiết bị ép tim cơ họccó sẵn; các thiết bị này hiệu quả như ép bằng tay nhưng có thể giảm thiểu tác động của ép lỗi và người ép bị mệt. Chúng có thể đặc biệt hữu ích trong một số trường hợp, chẳng hạn như trong quá trình vận chuyển bệnh nhân hoặc trong phòng thí nghiệm thông tim. Những thiết bị này cũng đã được khuyến nghị sử dụng cho những bệnh nhân có nghi ngờ hoặc được xác nhận nhiễm COVID-19 (1).Ép tim hở ngựcthông quamở thông lồng ngựccó thể hiệu quả nhưng chỉ được sử dụng ở những bệnh nhân bị vết thương thấu ngực, ngay sau khi phẫu thuật tim (nghĩa là trong vòng 48 giờ), trong trường hợpchèn ép timvà đặc biệt nhất là sau khi ngừng tim trong phòng mổ khi ngực của bệnh nhân đã mở. Tuy nhiên, phẫu thuật ngực đòi hỏi sự đào tạo và kinh nghiệm và chỉ được thực hiện tốt nhất trong những chỉ định hạn chế này.Các biến chứng của ép timMột biến chứng thường gặp là trào ngược dạ dày kèm theo hít phải dịch dạ dày, gâyviêm phổi do hít phải dịch dạ dàyđe dọa tính mạng ở những bệnh nhân đã được hồi sức.Thường không thể tránh được tình trạng tách rời sụn sườn vàgãy xương sườnvì điều quan trọng là phải ép ngực đủ để tạo ra đủ lưu lượng máu. Gãy xương là khá hiếm ở trẻ em vì tính linh hoạt của thành ngực.Huyết khối từ tủy xương đến phổi hiếm khi được báo cáo sau khi ép tim ngoài lồng ngực, nhưng không có bằng chứng rõ ràng rằng chúng góp phần vào tử vong. Chấn thương phổi rất hiếm, nhưngtràn khí màng phổisau khi gãy xương sườn xâm nhập có thể xảy ra.Tràn khí màng phổi áp lựccần phải được xem xét ở bệnh nhân đã phục hồi tuần hoàn tự nhiên sau khi hồi sức tim phổi kéo dài và sau đó trở nên khó thở hoặc thiếu oxy máu và đột ngột ngừng thở.Rất khó xảy ra chấn thương cơ tim nghiêm trọng do ép tim, ngoại trừ chấn thương phình tâm thất có từ trước.Việc quan tâm đến những thương tích này không làm ngăn cản cấp cứu ngừng tuần hoàn.Rách gan là một biến chứng hiếm nhưng có thể nghiêm trọng (đôi khi gây tử vong) và thường gây ra do ép ở vị trí dưới xương ức. Vỡ dạ dày (đặc biệt nếu dạ dày bị căng phồng do không khí) cũng là một biến chứng hiếm hoi. Vỡ lách muộn thường rất hiếm gặp.Tài liệu tham khảo về hệ tuần hoàn1.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes2022;15(4):e008900. doi:10.1161/CIRCOUTCOMES.122.008900
+
+--- 3. CPR: Khử rung ---
+
+Ở người lớn, nhịp tim phổ biến nhất trong trường hợp ngừng tim có chứng kiến ​​làrung thất(VF); việc chuyển đổi nhanh sang nhịp tim tưới máu là điều cần thiết.Nhịp nhanh thấtvô mạch (VT) được xử lý giống như VF.Cách khử rung tim ở người lớnCác videoKhử rung tim nhanh là biện pháp can thiệp duy nhất đối với ngừng tim, ngoài CPR chất lượng cao, đã được chứng minh là có thể cải thiện khả năng sống sót; tuy nhiên, mức độ thành công của việc khử rung tim phụ thuộc vào thời gian, với tỷ lệ thành công giảm khoảng 10% sau mỗi phút VF (hoặc VT vô mạch). Máy khử rung tim bên ngoài tự động (AED) cho phép những người cứu hộ được đào tạo tối thiểu điều trị VT hoặc VF vô mạch. Máy được sử dụng bởi những người cấp cứu đầu tiên (cảnh sát và các cơ quan cứu hỏa) và sự sẵn có của máy này tại các địa điểm công cộng làm tăng khả năng hồi sức.Đặt một bản điện cực sốc điện và một miếng đệm khử rung tim ở thành ngực trước bên phải bên dưới xương đòn ở đường giữa xương đòn và các miếng còn lại ở khoang liên sườn thứ 5 hoặc khoang liên sườn thứ 6 bên trái ở đỉnh tim theo đường nách trước. Ngoài ra, có thể để 2 miếng lót như sau: một miếng lót ở nửa lồng ngực phía trước bên trái và miếng lót còn lại ở nửa lồng ngực phía sau bên trái. Các miếng đệm khử rung tim được sử dụng kèm theo keo dẫn điện; miếng đệm có chứa gel dẫn điện. Hầu hết các máy khử rung tim sử dụng miếng đệm thay vì bản điện cực.Nên thực hiện một lần sốc điện ban đầu ngay khi phát hiện ra loại nhịp có thể sốc điện, sau đó ngay lập tức bắt đầu ép tim. Mức năng lượng cho máy khử rung hai pha là từ 150 đến 200 joules (2 joules/kg ở trẻ em) cho cú sốc ban đầu; máy khử rung một pha được cài đặt ở mức 360 joules cho cú sốc ban đầu. Nhịp sau sốc điện được kiểm tra sau 2 phút ép tim. Các cú sốc tiếp theo được phân phối ở mức năng lượng tương đương hoặc cao hơn (tối đa 360 joules ở người lớn, hoặc 10 joules/kg ở trẻ em). Bệnh nhân vẫn trong tình trạng VF hoặc VT vô mạch sẽ được sốc điện thêm 2 phút một lần, cùng với việc tiếp tục ép tim và thở máy vàđiều trị bằng thuốctùy chọn.
+
+--- 4. CPR: Theo dõi và đường truyền tĩnh mạch ---
+
+Theo dõi điện tâm đồ (ECG) được thiết lập để xác định nhịp tim cơ bản.Một đường truyền tĩnh mạch được thiếp lập; thiết lập hai đường truyền làm giảm thiểu nguy cơ mất khả năng tiếp cận đường truyền trong thời gian cấp cứu ngừng tuần hoàn. Ưu tiên các đường truyền ngoại biên lớn như tĩnh mạch trước cẳng tay. Ở người lớn và trẻ em, nếu không thể nhanh chóng thiết lập một đường truyền ngoại biên, thì có thể đặt một đường truyền trung tâm dưới đòn hoặc ở đùi (xemThủ thuật) với điều kiện là có thể thực hiện mà không cần ngừng ép ngực (thường khó). Các đường truyền trong xương (xemTruyền trong xương) là những lựa chọn thay thế, đặc biệt là ở trẻ em, vì có thể đặt các đường truyền này một cách nhanh chóng để tránh chậm trễ trong việc sử dụng liều epinephrine đầu tiên. Catheter tĩnh mạch đùi (xemThủ thuật), là một lựa chọn vì cấp cứu ngừng tuần hoàn không cần phải dừng lại và có ít nguy cơ biến chứng nguy hiểm; tuy nhiên, chúng có thể có tỷ lệ thành công thấp hơn do không có nhịp đập của động mạch để hướng dẫn đặt.Loại và thể tích dịch hoặc thuốc được truyền tùy thuộc vào tình trạng lâm sàng. Thông thường, truyền tĩnh mạch chậm dung dịch nước muối sinh lý 0,9% (chỉ đủ để giữ cho đường truyền tĩnh mạch mở); chỉ cần bù dịch mạnh (dung dịch tinh thể và dung dịch keo, máu) khi ngừng tim do giảm thể tích máu (xem mụcHồi sức bằng dịch đường tĩnh mạch) hoặc như một phần của quá trình điều trịsốc timsau khi tuần hoàn tự nhiên trở lại.
+
+--- 5. CPR: Trường hợp đặc biệt ---
+
+Trongtrường hợpđiện giật,nhân viên cứu hộ phải chắc chắn rằng bệnh nhân không còn tiếp xúc với nguồn điện nữa để tránh bị điện giật. Việc người cứu hộ sử dụng các vật liệu không phải kim loại hoặc gậy và nối đất cho phép loại bỏ nguồn điện khỏi bệnh nhân một cách an toàn trước khi bắt đầu cấp cứu ngừng tuần hoàn.Trongđuối nước,thổi ngạt có thể được bắt đầu ngay từ lúc nằm trong vùng nước nông, mặc dù ép tim có thể không được thực hiện hiệu quả cho đến khi bệnh nhân được đặt nằm ngang trên bề mặt chắc chắn.Nếungừng tim sau chấn thương,các thao tác khai thông đường thở và thổi ngạt bên ngoài sau khi làm sạch đường thở được ưu tiên cao nhất vì tắc nghẽn đường thở là nguyên nhân có thể chữa được nhất khi ngừng tuần hoàn. Nếu nghi ngờ chấn thương cột sống cổ, nên thực hiện động tác đẩy hàm (xem hìnhĐộng tác đẩy hàm), nhưng không nên nghiêng đầu và nâng cằm. Các nguyên nhân có thể sống sót khác của ngừng tim do chấn thương bao gồmchèn ép timvàtràn khí màng phổi áp lực, là những tình huống mà việc giải áp sẽ giúp cứu sống bệnh nhân. Tuy nhiên, hầu hết các bệnh nhân bị ngừng tim do chấn thương đều bị giảm thể tích nghiêm trọng do mất máu (do đó việc ép tim có thể không hiệu quả) hoặc chấn thương não không thể phục hôi được.
+
+--- 6. CPR: Thuốc điều trị ACLS ---
+
+Mặc dù đã được sử dụng rộng rãi và lâu dài, nhưng chưa có loại thuốc hoặc sự kết hợp thuốc nào được chứng minh chắc chắn có thể làm tăng khả năng sống sót nguyên vẹn về mặt thần kinh cho đến khi xuất viện ở những bệnh nhân bị ngừng tim. Một số loại thuốc dường như có thể cải thiện khả năng phục hồi tuần hoàn tự nhiên và do đó có thể được sử dụng một cách hợp lý (để biết liều lượng, bao gồm cả liều dùng cho nhi khoa, hãy xem bảngThuốc thường dùng để hồi sức). Điều trị bằng thuốc để điều trị sốc và ngừng tim vẫn đang được nghiên cứu.BảngCác loại thuốc thường được sử dụng để hồi sức*BảngCác loại thuốc thường được sử dụng để hồi sức*Các loại thuốc thường được sử dụng để hồi sức*Thuốc†Liều người lớnLiều trẻ emAdenosine6 mg ban đầu, sau đó 12 mg×2, nếu cần0,1 mg/kg ban đầu, sau đó 0,2 mg/kg×2AmiodaroneĐối với rung thất/nhịp nhanh thất vô mạch: 300 mg tĩnh mạch tiêm trong 2 phútNếu VF/VT vô mạch dai dẳng, có thể cho thêm 150 mgĐối với rung thất/nhịp nhanh thất vô mạch: 5 mg/kg tiêm tĩnh mạchNếu VF dai dẳng/VT vô mạch, có thể lặp lại tổng cộng tối đa 3 liềuĐối với tưới máu cơ tim:Liều tấn công: 150 mg tiêm tĩnh mạch trong 10 phút, sau đó làTruyền (nhỏ giọt): 1 mg/phút×6 giờ, sau đó 0,5 mg/phút×24 giờĐối với nhịp nhanh thất còn mạch: 5 mg/kg trong vòng 20-60 phút, có thể lặp lại đến hai lần tối đa 15 mg/kg/ngàyAtropine‡1 mg Lặp lại môi 3-5 phút để có kết quả hoặc tổng liều 3 mg (liều tối thiểu 0,5 mg)0,02 mg/kg, lặp lại một lần trong 3-5 phút nếu cần, liều tối thiểu 0,1 mgCanxi clorua1 g20 mg/kgCalcium gluceptate§0,66 gKhông cóCalcium gluconate3 g30 mg/kgDobutamine2–5 mcg/kg/phút – tăng dần khi cần thiết đến tối đa 20 mcg/kg/phútGiống như liều người lớnDopamine2–5 mcg/kg/phút – tăng dần khi cần thiết đến tối đa 20 mcg/kg/phútGiống như liều người lớnEpinephrineBolus: 1 mgTruyền: 2-10 mcg/phútBolus: 0,01 mg/kgTruyền: 0,1-1,0 mcg/kg/phútGlucose (chỉ dùng cho trường hợp hạ đường huyết đã được ghi nhận)25 g 50% D/W0,5–1 g/kg 10% D/WTránh nồng độ cao ở trẻ sơ sinh và trẻ nhỏ. Khuyến nghị sử dụng 10% D/W cho trẻ sơ sinh và 10% hoặc 25% cho trẻ emLidocaine1-1,5 mg/kg; lặp lại mỗi 5-10 phút đến tối đa 3 mg/kgLiều tải: 1 mg/kgTruyền: 20-50 mcg/kg/phútMagnesium sulfate1-2 g25-50 mg/kg đến tối đa 2 gNaloxone2–4 mg trong mũi hoặc 0,4 mg tiêm bắp0,1 mg/kg nếu bệnh nhân<20 kg hoặc<5 tuổi2 mg nếu bệnh nhân ≥ 20 kg hoặc ≥ 5 tuổiNorepinephrineTruyền dịch: 5–30 mcg/phútTruyền: Bắt đầu với 0,05-0,1 mcg/kg/phút (liều tối đa 2 mcg/kg/phút)PhenylephrineTruyền: 0,1-0,5 mcg/kg/phútTruyền: 0,1-0,5 mcg/kg/phútProcainamide20–50 mg/phút (tổng liều tối đa là 17 mg/kg15 mg/kg trong 30–60 phútNatri bicarbonate50 mEq1 mEq/kgHướng dẫn PALS 2020 không khuyến nghị sử dụng natri bicarbonate ở bệnh nhi ngoại trừ những bệnh nhân bị tăng kali máu, hạ canxi máu, tăng magie máu, ngộ độc thuốc chống trầm cảm ba vòng hoặc quá liều thuốc chẹn kênh canxi¶* Chỉ dẫn và sử dụng, xem văn bản.† IV hoặc tiêm tủy xương.‡ Atropine không còn được khuyến nghị dùng cho bệnh nhân bị VT vô mạch. Thuốc này chỉ được sử dụng giới hạn ở những bệnh nhân có nhịp tim chậm có triệu chứng.§ Hiếm khi sử dụng.¶Maconochie IK, Aickin R, Hazinski MF, et al. Pediatric Life Support 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Pediatrics2021;147(Suppl 1):e2020038505B. doi:10.1542/peds.2020-038505BD/W=dextrose trong nước; SVT=nhịp nhanh trên thất; VF=rung thất; VT=nhịp nhanh thất.* Chỉ dẫn và sử dụng, xem văn bản.† IV hoặc tiêm tủy xương.‡ Atropine không còn được khuyến nghị dùng cho bệnh nhân bị VT vô mạch. Thuốc này chỉ được sử dụng giới hạn ở những bệnh nhân có nhịp tim chậm có triệu chứng.§ Hiếm khi sử dụng.¶Maconochie IK, Aickin R, Hazinski MF, et al. Pediatric Life Support 2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations.Pediatrics2021;147(Suppl 1):e2020038505B. doi:10.1542/peds.2020-038505BD/W=dextrose trong nước; SVT=nhịp nhanh trên thất; VF=rung thất; VT=nhịp nhanh thất.Ở bệnh nhân có đường truyền tĩnh mạch ngoại biên, việc dùng thuốc được tiếp nối bằng một liều tấn công dịch truyền tĩnh mạch (truyền tĩnh mạch “mở rộng” ở người lớn; 3 ml đến 5 ml ở trẻ nhỏ) để đưa thuốc vào tuần hoàn trung tâm. Ở bệnh nhân không có đường truyền tĩnh mạch hoặc đường truyền trong xương (IO), naloxone, atropine và epinephrine, khi được chỉ định, có thể được cung cấp thông qua ống nội khí quản từ 2 đến 2,5 lần liều TM. Trong quá trình đưa thuốc qua ống nội khí quản, cần dừng ép trong thời gian ngắn.Thuốc bước mộtThuốc chính bước đầu được sử dụng trong trường hợp ngừng tim làEpinephrineEpinephrine 1 mg đường tĩnh mạch/trong xương nên được tiêm càng sớm càng tốt cho những bệnh nhân có nhịp ban đầu không thể dò được và có thể lặp lại, 3 đến 5 phút một lần. Nên dùng sớm ở những nhịp không thể sốc điện, vì bằng chứng cho thấy khả năng sống sót tăng lên khi dùng sớm trong hồi sức (1) hoặc đối vớinhịp nhanh thất(VT) hoặcrung thất(VF) không đáp ứng với 2 lần sốc điện.Epinephrinecó tác dụng kết hợp giữa alpha-adrenergic và beta-adrenergic. Tác dụng alpha-adrenergic có thể làm tăng áp lực mạch vành thì tâm trương, do đó làm tăng tưới máu cơ tim trong quá trình ép tim.Epinephrinecũng làm tăng khả năng khử rung tim thành công. Tuy nhiên, tác dụng của beta - adrenergic có thể gây bất lợi vì nó làm tăng nhu cầu oxy (đặc biệt là ở tim) và gây giãn mạch. Không khuyến nghị tiêmepinephrinevào tim vì ngoài việc làm gián đoạn tình trạng chèn ép trước tim, còn có thể xảy ra tràn khí màng phổi, rách động mạch vành và chèn ép tim.Vasopressin không hiệu quả hơn epinephrine và do đó không được khuyến nghị là thuốc điều trị bước đầu trong hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ (2). Tuy nhiên, nếu không cóepinephrinethì có thể dùngvasopressinthay thế.Có thể dùngamiodarone300 mg nếu lần khử rung tim thứ ba không thành công sau khi dùng epinephrine. Có thể dùng thêm một liềuamiodarone(150 mg) nếu vẫn có nhịp tim có thể sốc được kháng trị mặc dù đã có từ 5 lần sốc trở lên và đã dùng từ 2 liều epinephrine trở lên.Amiodaronecũng có giá trị tiềm năng nếu VT hoặc VF vô mạch tái phát sau khi khử rung tim thành công; liều ban đầu thấp hơn (150 mg) được dùng trong 10 phút sau đó truyền liên tục. Không có bằng chứng thuyết phục rằng nó làm tăng khả năng sống sót đến khi xuất viện. Lidocaine là một thuốc chống loạn nhịp thay thế choamiodarone.Các loại thuốc khácMột số loại thuốc bổ sung có thể hữu ích trong những trường hợp cụ thể.Atropine sulfatelà thuốc tác dụng giãn phế vị, làm tăng nhịp tim và dẫn truyền qua nút nhĩ thất. Nó được dùng cho nhịp tim chậm có triệu chứng và block nhĩ thất độ cao. Không khuyến nghị sử dụng thuốc này cho trường hợp ngừng tim hoặc hoạt động điện không có mạch đập.Canxi cloruađược khuyên dùng cho bệnh nhântăng kali máu,tăng magie máu,hạ canxi máu, hoặc ngộ độc chẹn kênh canxi. Ở những bệnh nhân khác, vì canxi nội bào đã cao hơn bình thường, nên bổ sung canxi có thể gây bất lợi. Vì ngừng tim ở bệnh nhân lọc máu thường là kết quả của hoặc tăng kali máu, nên những bệnh nhân này có thể được hưởng lợi từ thử nghiệm canxi nếu không xác định được nồng độ kali tại giường. Cần thận trọng vì canxi làm trầm trọng thêm độc tính của digitalis và có thể gây ngừng tim.Lidocainđược khuyến nghị thay thế cho amiodarone đối với VF hoặc VT không đáp ứng với khử rung tim và điều trị thuốc vận mạch ban đầu bằng epinephrine. Nó cũng có thể được xem xét sau khi tuần hoàn tự nhiên trở lại sau ngừng tim do VF hoặc VT (ở người lớn) để ngăn ngừa VF hoặc VT tái phát.Magnesium sulfatechưa được chứng minh là cải thiện kết quả trong các nghiên cứu lâm sàng phân nhóm ngẫu nhiên (3). Tuy nhiên, nó có thể hữu ích ở những bệnh nhân bịxoắn đỉnhhoặc đã biết hoặc nghi ngờ thiếu magiê (tức là bệnh nhân rối loạn sử dụng rượu hoặc tiêu chảy kéo dài).Procainamidelà thuốc điều trị bước hai cho VF hoặc VT kháng trị. Tuy nhiên, procainamide không được khuyến cáo cho trường hợp ngừng tim vô mạch ở trẻ em và không còn được khuyến cáo theo hướng dẫn của Hiệp hội Tim mạch Hoa Kỳ để điều trị rối loạn nhịp thất sau ngừng tim. Tuy nhiên, theo hướng dẫn của Hội đồng hồi sức châu Âu năm 2021, đây là một lựa chọn để điều trị cho những bệnh nhân ổn định về huyết động với nhịp tim nhanh có phức hợp QRS rộng, vì một số nghiên cứu đã chỉ ra mối liên quan với ít biến cố bất lợi nghiêm trọng hơn so với amiodarone (4).Phenytoincó thể hiếm khi được sử dụng để điều trị VT, nhưng chỉ khi VT là do ngộ độc digitalis và không đáp ứng với các thuốc khác. Liều 50 đến 100 mg/phút mỗi 5 phút được cho đến khi nhịp được cải thiện hoặc tổng liều lên đến 20 mg/kg.Natri bicarbonatekhông được khuyến nghị trừ khi ngừng tim là do tăng kali máu, nhiễm toan chuyển hóa nặng hoặc quá liều thuốc chống trầm cảm ba vòng.Natri bicarbonatecó thể được cân nhắc khi tình trạng ngừng tim kéo dài (>10 phút); chỉ được thực hiện nếu có thông khí tốt. Khi sử dụngnatri bicarbonate, cần theo dõi nồng độ bicarbonate huyết thanh hoặc tình trạng thiếu hụt kiềm trước khi truyền và sau mỗi liều 50 mEq (1 mEq/kg ở trẻ em).Tài liệu tham khảo về thuốc dùng cho ACLS1.Okubo M, Komukai S, Callaway CW, Izawa J. Association of Timing ofEpinephrineAdministration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.JAMA Netw Open4(8):e2120176, 2021. doi:10.1001/jamanetworkopen.2021.201762.Merchant RM, Topjian AA, Panchal AR, et al: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S337-S357, 2020 doi:10.1161/CIR.00000000000009183.Thel MC, Armstrong AL, McNulty SE, Califf RM, O'Connor CM: Randomised trial of magnesium in in-hospital cardiac arrest. Duke Internal Medicine Housestaff.Lancet350(9087):1272–1276, 1997. doi:10.1016/s0140-6736(97)05048-44.Soar J, Böttiger BW, Carli P, et al: European Resuscitation Council Guidelines 2021: Adult advanced life support [published correction appears inResuscitation2021 Oct;167:105-106].Resuscitation161:115-151, 2021 doi:10.1016/j.resuscitation.2021.02.010
+
+--- 7. Điều trị loạn nhịp tim trong CPR ---
+
+Rung thất hoặc nhịp nhanh thất vô mạchđược điều trị bằng một sốc điện trực tiếp, tốt nhất với dạng sóng hai pha, càng sớm càng tốt sau khi xác định nhịp. Mặc dù một số bằng chứng trong phòng thí nghiệm cho thấy ngược lại, nhưng không nên trì hoãn việc khử rung để thực hiện một chu kỳ ép tim. Ép tim nên bị làm gián đoạn không quá 10 giây tại một thời điểm để khử rung. Các mức năng lượng khuyến nghị cho khử rung tim khác nhau:120 joules đến 200 joules đối với máy khử rung tim hai pha360 joules cho máy khử rung tim một phaNếu điều trị không thành công sau 2 lần thử, dùng epinephrine 1 mg đường tĩnh mạch và lặp lại 3 đến 5 phút một lần. Thực hiện khử rung tim ở mức năng lượng tương tự hoặc cao hơn 1 phút đến 2 phút sau mỗi lần tiêm epinephrine.Nếu vẫn tồn tại rung thất, dùng amiodarone 300 mg IV. Sau đó, nếu VF/VT tái phát, dùng amiodarone 150 mg, sau đó truyền tĩnh mạch 1 mg/phút trong 6 giờ, rồi 0,5 mg/phút.Máy khử rung tim bên ngoài tự động (AED) cung cấp một dây cáp dành cho nhi khoa giúp giảm hiệu quả năng lượng truyền tới trẻ em. (Để biết mức năng lượng ở trẻ em, hãy xem mụcKhử rung tim; để biết liều dùng thuốc, hãy xem bảngThuốc thường dùng để hồi sức.)Vô tâm thu có thể là kết quả giả do bị lỏng kết nối hoặc mất kết nối; do đó, giám sát kết nối nên được kiểm tra và nhịp nên được xem thêm ở một chuyển đạo khác. Nếu khẳng định vô tâm thu, bệnh nhân được dùng epinephrine 1 mg IV lặp lại mỗi 3 đến 5 phút. Không khuyến khích khử rung cho tình trạng vô tâm thu (bởi vì nó "có thể gây rung thất") vì các chấn động điện có thể gây tổn thương cơ tim không phục hồi.Hoạt động điện vô mạch là sự sụp đổ của tuần hoàn xảy ra mặc dù các hoạt động điện trong điện tâm đồ (ECG) vẫn còn. Bệnh nhân có hoạt động điện vô mạch được tiêm epinephrine 1,0 mg đường tĩnh mạch lặp lại 3 đến 5 phút một lần, sau đó truyền 500 đến 1000 mL (20 mL/kg đối với trẻ em) truyền nước muối sinh lý 0,9% nếu nghi ngờ giảm thể tích tuần hoàn. Chèn ép tim có thể gây ra hoạt động điện không hoạt động, nhưng rối loạn này thường xảy ra ở bệnh nhân sau mở ngực và ở bệnh nhân tràn dịch màng ngoài tim hoặc chấn thương ngực lớn. Trong các thiết lập như vậy,chọc dịch màng tim hoặc mở ngực được thực hiện (xem hìnhChọc dịch màng ngoài tim). Chèn ép hiếm khi là nguyên nhân gây ngừng tim, nhưng nếu nghi ngờ có thể được xác nhận bằng siêu âm hoặc, nếu siêu âm không có sẵn, thì chọc dịch màng tim.
+
+--- 8. CPR: Chấm dứt hồi sức ---
+
+Cấp cứu ngừng tuần hoàn nên được tiếp tục cho đến khi hệ thống tim phổi được ổn định, bệnh nhân được tuyên bố là đã chết, hoặc một người cứu hộ đơn lẻ với thể chất không thể tiếp tục cấp cứu được nữa. Nếu nghi ngờ ngừng tim là dohạ thân nhiệt, cần tiếp tục hồi sức tim phổi (CPR) cho đến khi cơ thể ấm trở lại lên đến 34°C.Quyết định chấm dứt cấp cứu ngừng tuần hoàn là một quyết định trên lâm sàng, các bác sĩ lâm sàng xem xét thời gian ngừng tim, tuổi của bệnh nhân và tiên lượng của các bệnh lý kèm theo. Quyết định này thường được thực hiện khi không tái lập tuần hoàn tự nhiên sau khi các biện pháp cấp cứu ngừng tuần hoàn và các biện pháp hồi sức tim phổi nâng cao đã được thực hiện. Ở những bệnh nhân được đặt nội khí quản, nồng độ carbon dioxide cuối thì thở ra (ETCO2)<10 mm Hg sau 20 phút hồi sức tim phổi là dấu hiệu tiên lượng kém. Các nghiên cứu về kết quả sau ngừng tim đã phát hiện ra rằng khả năng sống sót thuận lợi về mặt thần kinh là < 1% ở những bệnh nhân lớn tuổi –1,2trường hợp ngừng tim không có người chứng kiến ​​và nhịp tim ban đầu không thể sốc được.Tài liệu tham khảo về chấm dứt hồi sức1.Goto Y, Funada A, Maeda T, Okada H, Goto Y: Field termination-of-resuscitation rule for refractory out-of-hospital cardiac arrests in Japan.J Cardiol73(3):240–246, 2019 doi:10.1016/j.jjcc.2018.12.0022.Grunau B, Scheuermeyer F, Kawano T, et al: North American validation of the Bokutoh criteria for withholding professional resuscitation in non-traumatic out-of-hospital cardiac arrest.Resuscitation135:51–56, 2019 doi:10.1016/j.resuscitation.2019.01.008
+
+--- 9. CPR: Chăm sóc sau khi hồi sức ---
+
+Việc phục hồi tuần hoàn tự nhiên chỉ là mục tiêu trung gian trong hồi sức. Mục tiêu cuối cùng là sống sót đến khi xuất viện với chức năng thần kinh tốt, điều này chỉ đạt được ở một số ít bệnh nhân có khả năng phục hồi tuần hoàn tự nhiên. Để tối đa hóa khả năng đạt kết cục tốt, bác sĩ lâm sàng phải cung cấp chăm sóc hỗ trợ tốt (ví dụ, kiểm soát huyết áp, nhiệt độ và nhịp tim) và điều trị các tình trạng cơ bản, đặc biệt là cáchội chứng vành cấp.Chăm sóc sau hồi sức bao gồm giảm thiểu chấn thương tái tưới máu xảy ra sau giai đoạn thiếu máu cục bộ. Chăm sóc sau hồi sức nên bắt đầu ngay sau khi xác định được tình trạng tuần hoàn tự nhiên đã được phục hồi. Để giảm thiểu tổn thương do tăng oxy ở phổi, nên giảm lượng oxy cung cấp cho đến khi đạt được độ bão hòa oxy ngoại biên (SpO2) là 94%. Tốc độ và thể tích thông khí phải được chuẩn độ đến số đọc carbon dioxide cuối thì thở ra là 35 đến 40 mm Hg. Cần dùng một liều dịch tấn công nếu có thể dung nạp được và truyền thuốc làm co mạch nếu cần thiết để duy trì huyết áp tâm thu > 90 mm Hg.Các xét nghiệm trong phòng thí nghiệm sau hồi sức bao gồm khí máu động mạch (ABG), công thức máu (CBC) và hóa sinh máu, bao gồm chất điện giải, glucose, BUN (nitơurêmáu), creatinine và các chất chỉ điểm sinh học tim. (Creatine kinase thường tăng lên do tổn thương cơ xương do cấp cứu ngừng tuần hoàn, troponins không bị ảnh hưởng bởi cấp cứu ngừng tuần hoàn hoặc khử rung tim.) Áp suất riêng phần oxy trong động mạch (PaO2) nên được giữ ở mức gần bình thường (80 đến 100 mm Hg). Hematocrit phải được duy trì ở mức≥30%, và glucose ở mức 140 đến 180 mg/dL (7,7 đến 9,9 mmol/L); chất điện giải, đặc biệt là kali, phải nằm trong phạm vi bình thường.Chụp động mạch vànhQuyết định làmthông timsau khi hồi sức tim ngừng tim nên được cá nhân hoá dựa trên ECG, dấu hiệu lâm sàng, đánh giá của bác sĩ can thiệp tim mạch và tiên lượng của bệnh nhân. Hướng dẫn đề xuất chụp động mạch khẩn cấp cho bệnh nhân trưởng thành nghi ngờ nguyên nhân tim và bị nhồi máu cơ tim có đoạn ST chênh lên (STEMI) trên điện tâm đồ (1).Người ta vẫn chưa rõ liệu việc thông tim khẩn cấp (trong vòng 2 giờ) hoặc chậm hơn (trung bình khoảng 120 giờ sau khi ngừng tim) ở những bệnh nhân không bị STEMI trên kết quả điện tâm đồ có mang lại lợi ích trên lâm sàng nào không (2). Một số nhà nghiên cứu ủng hộ việc sử dụng rộng rãi thông tim sau khi phục hồi tuần hoàn tự nhiên, thực hiện thủ thuật này cho hầu hết bệnh nhân trừ khi nguyên nhân rõ ràng không có khả năng là do tim (ví dụ: đuối nước) hoặc có chống chỉ định (ví dụ: chảy máu nội sọ).Hỗ trợ thần kinhDưới 10% số bệnh nhân sống sót sau cơn ngừng tim ngoài bệnh viện có chức năng hệ thần kinh trung ương tốt (điểm số theo thang điểm hiệu suất não [CPC] là 1 hoặc 2 – xem bảngThang điểm hiệu suất não) khi xuất viện (3, 4, 5). Điểm CPC bằng 1 cho thấy hoạt động não tốt (bệnh nhân tỉnh táo, minh mẫn và có khả năng làm việc nhưng có thể bị khiếm khuyết nhẹ về thần kinh hoặc tâm lý). Điểm CPC là 2 cho thấy hoạt động não ở mức trung bình (bệnh nhân tỉnh táo, có thể thực hiện các hoạt động sinh hoạt hàng ngày [ADL] và làm việc trong môi trường đơn giản). Tổn thương não do thiếu oxy là hậu quả của tổn thương do thiếu máu cục bộ và phù não (xem phầnSinh lý bệnh của ngừng tim). Cả quá trình tổn thương và hồi phục có thể tiến triển trong vòng 48 đến 72 giờ sau khi hồi sức.BảngThước đo hoạt động não (Người lớn)*BảngThước đo hoạt động não (Người lớn)*Thước đo hoạt động não (Người lớn)*ĐiểmPhân loạiMô tả1Bình thường (hiệu suất não trẻ em)Ý thức, tỉnh táo, có khả năng làm việc và có một cuộc sống bình thườngCó thể có những thiếu sót tâm lý hoặc thần kinh nhỏ (ví dụ, loạn sản nhẹ, liệt nửa người không biến dạng, bất thường thần kinh sọ nhỏ)2Khuyết tật trung bình (khuyết tật nhưng không phụ thuộc)Có ý thức, có đủ chức năng não để làm việc bán thời gian trong môi trường được che chở và các hoạt động độc lập trong cuộc sống hàng ngày (ví dụ: mặc quần áo, đi lại bằng phương tiện công cộng, chuẩn bị thức ăn)Có thể bị liệt nửa người, co giật, thất điều, rối loạn vận ngôn, rối loạn trí nhớ vĩnh viễn hoặc rối loạn tâm thần3Khuyết tật nặng (ý thức nhưng tàn tật và phụ thuộc)Có ý thức, nhưng phụ thuộc vào người khác để được hỗ trợ hàng ngày; có ít nhất nhận thức hạn chếThể loại này bao gồm nhiều loại rối loạn chức năng thần kinh, từ những bệnh nhân có thể đi lại nhưng bị rối loạn trí nhớ nghiêm trọng hoặcsa sút trí tuệkhiến họ không thể tồn tại độc lập cho đến những bệnh nhân bị liệt và chỉ có thể giao tiếp bằng mắt (như tronghội chứng khóa chặt).4Bất tỉnh (hôn mê hoặc trạng thái thực vật)Mất ý thức, không nhận thức được môi trường xung quanh, không nhận thức; không có tương tác bằng lời nói hoặc tâm lý với môi trường5Chết nãoHọptiêu chí chết nãohoặc chết theo tiêu chuẩn truyền thống* Mức độ chức năng tồi tệ nhất cho bất kỳ tiêu chí được sử dụng để phân loại. Thiếu hụt chỉ được tính nếu chúng là kết quả của rối loạn thần kinh. Các cuộc đánh giá dựa trên hồ sơ bệnh án hoặc cuộc phỏng vấn với người chăm sóc.Dữ liệu từ Safar P. Resuscitation after Brain Ischemia. In: Grenvik A, Safar P, editors. Brain Failure and Resuscitation. 1981. pp. 155–184* Mức độ chức năng tồi tệ nhất cho bất kỳ tiêu chí được sử dụng để phân loại. Thiếu hụt chỉ được tính nếu chúng là kết quả của rối loạn thần kinh. Các cuộc đánh giá dựa trên hồ sơ bệnh án hoặc cuộc phỏng vấn với người chăm sóc.Dữ liệu từ Safar P. Resuscitation after Brain Ischemia. In: Grenvik A, Safar P, editors. Brain Failure and Resuscitation. 1981. pp. 155–184Duy trì oxy hóa và áp lực tưới máu não (tránh tăng thông khí, tăng oxy, giảm oxy máu và hạ huyết áp) có thể làm giảm các biến chứng trong não. Hạ đường huyết và tăng đường huyết đều có thể làm tổn thương não sau thiếu máu và cần được điều trị.Ở người lớn, nênkiểm soát nhiệt độ mục tiêucho những bệnh nhân vẫn không phản ứng sau khi tuần hoàn tự nhiên đã trở lại (6, 7). Các khuyến nghị hiện tại là nhắm mục tiêu giữ nhiệt độ bình thường (< 37,5ºC), mặc dù nhiều nhà nghiên cứu và bác sĩ lâm sàng vẫn tiếp tục ủng hộ việc hạ thân nhiệt (nhiệt độ cơ thể từ 32°C đến 36°C). Bất kể nhiệt độ mục tiêu đã chọn là gì, việc kiểm soát nhiệt độ chủ động được bắt đầu ngay khi tuần hoàn tự phát quay trở lại. Các kỹ thuật gây ra và duy trì thân nhiệt thấp có thể là bên ngoài hoặc bên trong. Các phương pháp làm lạnh bên ngoài rất dễ áp dụng và nằm trong khoảng từ việc sử dụng các gói nước đá bên ngoài đến một số thiết bị thương mại làm mát bên ngoài có khả năng lưu thông lượng nước lạnh trên da. Để làm mát bên trong, các dung dịch tĩnh mạch được làm lạnh (4°C) có thể được truyền nhanh đến khi nhiệt độ cơ thể thấp hơn, nhưng phương pháp này có thể gây khó khăn cho bệnh nhân không dung nạp được nhiều dịch bổ sung. Ngoài ra, còn có các thiết bị trao đổi nhiệt bên ngoài tuần hoàn bằng nước lạnh đến ống dẫn trao đổi nhiệt trong lòng tĩnh mạch có sử dụng thiết kế vòng kín, trong đó nước lạnh luân chuyển qua ống thông và trở lại thiết bị chứ không phải vào bệnh nhân. Một phương pháp làm mát bên trong khác là sử dụng thiết bị ngoài cơ thể để lưu thông và làm mát máu bên ngoài cơ thể sau đó đưa máu trở lại hệ tuần hoàn trung tâm. Bất kể phương pháp được chọn là gì, mục tiêu là làm mát bệnh nhân nhanh chóng và duy trì nhiệt độ trung tâm ở mức mục tiêu (< 37,5ºC đối với thân nhiệt bình thường hoặc từ 32°C đến 36°C đối với hạ thân nhiệt) trong 24 giờ sau khi phục hồi tuần hoàn tự phát. Không có bằng chứng nào cho thấy bất kỳ nhiệt độ cụ thể nào trong phạm vi này là tốt hơn, nhưng điều bắt buộc là phải tránh tình trạng tăng thân nhiệt (1, 8).Nhiềuphương pháp điều trị bằng thuốc, bao gồm cả thuốc làm sạch gốc tự do, chất chống oxy hóa, thuốc ức chế glutamate và thuốc chẹn kênh canxi, đều có lợi về mặt lý thuyết. Nhiều nghiên cứu đã thành công trên mô hình động vật, nhưng chưa có nghiên cứu nào chứng minh được hiệu quả trong thử nghiệm trên người.Hỗ trợ huyết ápKhuyến nghị hiện tại là duy trì huyết áp động mạch trung bình (MAP)>65 mm Hg và huyết áp tâm thu>90 mm Hg (9). Ở những bệnh nhân bị cao huyết áp, một mục tiêu hợp lý là huyết áp tâm thu thấp hơn 30 mmHg so với trước khi tim nghỉ. Huyết áp động mạch (MAP) được đo tốt nhất bằng catheter động mạch. Dùng ống thông động mạch phổi trực tiếp để theo dõi huyết động học đã bị loại bỏ.Hỗ trợ huyết áp bao gồmTruyền crystalloid đường tĩnh mạch (nước muối sinh lý thông thường hoặc Ringer lactated)Thuốc tăng co bóp cơ tim hoặc thuốc làm co mạch với mục tiêu duy trì huyết áp tâm thu ít nhất là 90 mm Hg và MAP ít nhất là 65 mm HgHiếm khi phải dùng bóng đối xung động mạch chủBệnh nhân có MAP thấp và áp lực tĩnh mạch trung tâm thấp nên được truyền dịch tĩnh mạch với dung dịch nước muối sinh lý 0,9% theo từng đợt 250 mL.Công cụ tính toán lâm sàngHuyết áp trung bình (huyết áp hệ thống hoặc áp lực động mạch phổi)Mặc dù việc sử dụng thuốc tăng co bóp cơ tim và thuốc làm co mạch chưa được chứng minh là có thể cải thiện khả năng sống sót lâu dài, người cao tuổi có MAP ở mức trung bình thấp (70 đến 80 mm Hg) và áp lực tĩnh mạch trung tâm bình thường hoặc cao có thể được truyền thuốc tăng co bóp cơ tim (ví dụ: dobutamine bắt đầu với liều 2 đến 5 mcg/kg/phút). Amrinone hoặc milrinone là những thuốc thay thế hiếm khi được sử dụng (xem bảngThuốc thường dùng để hồi sức).Nếu biện pháp này không có hiệu quả, có thể xem xét sử dụng thuốc tăng co bóp cơ tim và co mặt như dopamine. Các lựa chọn thay thế là epinephrine và thuốc co mạch ngoại vi norepinephrine và phenylephrine (xem bảngThuốc thường dùng để hồi sức). Tuy nhiên, thuốc hoạt mạch cần phải được sử dụng ở mức liều tối thiểu cần thiết để đạt được MAP bình thường thấp vì nó có thể làm tăng sức cản mạch máu và làm giảm tưới máu cơ quan, đặc biệt là ở mạc treo ruột. Nó cũng làm tăng lượng công việc của tim tại thời điểm khi chức năng giảm do rối loạn chức năng cơ tim sau khi hồi phục.Nếu MAP vẫn<70 mm Hg ở những bệnh nhân có thể bịnhồi máu cơ tim(MI), nên cân nhắc can thiệp bằng bóng đối xung trong động mạch chủ. Bệnh nhân có MAP bình thường và áp lực tĩnh mạch trung tâm cao hoặc tĩnh mạch chủ dưới giãn rộng có thể cải thiện bằng liệu pháp tăng co bóp cơ tim hoặc giảm hậu gánh bằng nitroprusside hoặc nitroglycerin.Chống xung động bóng trong động mạch chủ có thể hỗ trợ tình trạng tuần hoàn lưu lượng thấp do suy bơm thất trái không đáp ứng với thuốc. Một ống thông có bóng được đưa vào thông qua động mạch đùi, qua da hoặc bằng phẫu thuật cắt động mạch, đi ngược vào động mạch chủ ngực gần với động mạch phế quản trái. Bóng được thổi phồng trong thời gian tâm trương, làm tăng tưới máu động mạch vành, và ẹp xuống trong thời gian tâm thu, làm giảm hậu gánh. Giá trị chính của nó là biện pháp tạm thời khi nguyên nhân gây sốc có thể được điều chỉnh bằng phẫu thuật hoặc can thiệp qua da (ví dụ:nhồi máu cơ tim cấpcó tắc nghẽn động mạch vành lớn,hở van hai lácấp,thông liên thất).Sau điều trị rối loạn nhịp tim do tuần hoàn tự phát trở lạiMặc dùrung thất(VF) hoặcnhịp nhanh thất(VT) có thể tái phát sau khi hồi sức, thuốc chống loạn nhịp dự phòng không cải thiện khả năng sống sót và không được sử dụng thường quy. Tuy nhiên, những bệnh nhân biểu hiện nhịp tim như vậy có thể được điều trị bằng procainamide, lidocaine (xem phầnThuốc khác) hoặc amiodarone (xem phầnThuốc điều trị bước đầu) ngoài phương pháp khử rung tim.Cách thực hiện tạo nhịp qua da...Các videoNhững bệnh nhân bị ngừng tim do VF hoặc VT không liên quan đến nhồi máu cơ tim cấp tính là những ứng cử viên đối vớimáy khử rung tim cấy ghép vào cơ thể(ICD). ICD được cấy ghép tương tự như máy điều hòa nhịp tim và có dây dẫn trong tim và đôi khi có các điện cực dưới da. Chúng có thể cảm nhận nhịp tim và cung cấp nhịp tim hoặc sốc nhịp theo chỉ định.Tùy thuộc vào loại loạn nhịp cụ thể, nhịp tim nhanh trên thất sau hồi sức có thể được điều trị bằng thuốc dùng khi loạn nhịp như vậy xảy ra trong các bối cảnh khác.Các tài liệu tham khảo chăm sóc sau khi hồi sức tim phổi1.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022 doi:10.1161/CIR.00000000000010952.Spoormans EM, Lemkes JS, Janssens GN, et al: Ischaemic electrocardiogram patterns and its association with survival in out-of-hospital cardiac arrest patients without ST-segment elevation myocardial infarction: a COACT trials' post-hoc subgroup analysis.Eur Heart J Acute Cardiovasc Care11(7):535-543, 2022 doi:10.1093/ehjacc/zuac0603.CARES: Cardiac Arrest Registry to Enhance Survival. CARES 2023 Annual Report. https://mycares.net/4.Jennett B, Bond M: Assessment of outcome after severe brain damage.Lancet1(7905):480–484, 1975. doi:10.1016/s0140-6736(75)92830-55. Safar P. Resuscitation after Brain Ischemia. In: Grenvik A, Safar P, editors. Brain Failure and Resuscitation. 1981 pp. 155–184.6.Bernard SA, Gray TW, Buist MD, et al: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.N Engl J Med346:557–563, 2002. doi: 10.1056/NEJMoa0032897.Nielsen N, Wetterslev J, Cronberg T, et al: Targeted temperature management at 33°C versus 36°C after cardiac arrest.N Engl J Med369:2197–2206, 2013. doi: 10.1056/NEJMoa13105198.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021 doi:10.1016/j.resuscitation.2021.08.0409.Nolan JP, Sandroni C, Böttiger BW, et al: European Resuscitation Council and European Society of Intensive Care Medicine guidelines 2021: post-resuscitation care.Intensive Care Med47(4):369–421, 2021. doi:10.1007/s00134-021-06368-4
+
+--- 10. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.American Heart Association 2020 CPR and ECC Guidelines: These guidelines for cardiopulmonary resuscitation (CPR) and emergency cardiovascular care (ECC) are based on the most recent review of resuscitation science, protocols, and education.

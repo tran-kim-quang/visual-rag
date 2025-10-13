@@ -1,0 +1,1037 @@
+TIÊU ĐỀ: Tiếp cận bệnh nhân chấn thương
+URL: https://www.msdmanuals.com/vi/professional/chấn-thương-ngộ-độc/tiếp-cận-bệnh-nhân-chấn-thương/tiếp-cận-bệnh-nhân-chấn-thương
+================================================================================
+
+NỘI DUNG:
+
+Tiếp cận bệnh nhân chấn thương
+
+Theo
+
+Jaime Jordan
+
+,
+
+MD
+
+,
+
+UCLA School of Medicine
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1109727_vi
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Tham khảo chẩn đoán và điều trị
+
+|
+
+Thông tin thêm
+
+|
+
+Chấn thương là nguyên nhân gây tử vong hàng đầu đối với những người từ 1 tuổi đến 44 tuổi. Tại Hoa Kỳ, có 306.086 ca tử vong do chấn thương vào năm 2021, khoảng 73% trong số đó là do tai nạn. Trong số tử vong do thương tích, hơn 65% là do tự ý gây ra. Ngoài tử vong, chấn thương còn dẫn đến khoảng 40 triệu lượt khám tại khoa cấp cứu hàng năm (
+
+1
+
+).
+
+Các bệnh nhân chấn thương nhẹ không ảnh hưởng tính mạng ngay được điều trị tại các trung tâm chấn thương, các bệnh viện có đội ngũ nhân viên đặc biệt và áp dung quy trình chăm sóc cho những bệnh nhân chấn thương nặng. Các tiêu chuẩn để chỉ định như vậy (và về nhu cầu vận chuyển đến các trung tâm/bệnh viện đó) khác nhau nhưng thường tuân theo các hướng dẫn của chính phủ hoặc hiệp hội y tế, chẳng hạn như hướng dẫn của Ủy ban Chấn thương của Hiệp hội Phẫu thuật Hoa Kỳ.
+
+Nhiều chấn thương khác nhau sẽ được đề cập tại các phần khác trong CẨM NANG:
+
+Chấn thương xương khớp
+
+Chấn thương tủy sống
+
+các chấn thương vùng đầu
+
+Chấn thương mặt
+
+Chấn thương mắt
+
+Chấn thương cơ quan niệu-sinh dục
+
+Rách tai
+
+Tài liệu tham khảo chung
+
+1.
+
+Centers for Disease Control and Prevention, National Center for Health Statistics
+
+: All injuries. FastStats. Có tại https://www.cdc.gov/nchs/fastats/injury.htm. Truy cập ngày 15 tháng 3 năm 2024.
+
+Nguyên nhân của chấn thương
+
+Trong vô số cách khiến con người bị thương, hầu hết có thể được phân loại là do vật tầy hoặc do vật sắc nhọn. Chấn thương đụng dập khi có một lực tác động mạnh (ví dụ, đấm, đá, đánh bằng vật tù, ngã, va chạm xe cơ giới, vụ nổ). Thương tích xuyên thấu bao gồm tổn thương da bởi một vật sắc (ví dụ như dao, kính vỡ) hoặc đạn (như đầu đạn, mảnh vụn từ vụ nổ).
+
+Các loại thương tổn khác bao gồm
+
+bỏng hóa chất bỏng nhiệt
+
+,
+
+hít phải khí độc hoặc nuốt phải chất độc
+
+và
+
+tổn thương do bức xạ
+
+.
+
+Sinh lý bệnh của chấn thương
+
+Theo định nghĩa, tất cả các chấn thương đều gây tổn thương mô
+
+trực tiếp
+
+; bản chất và mức độ phụ thuộc vào vị trí giải phẫu, cơ chế và mức độ lực. Tổn thương nặng trực tiếp đến các cơ quan quan trọng (ví dụ như tim, não, tủy sống) là nguyên nhân gây tử vong ngay lập tức.
+
+Ngoài ra, những bệnh nhân sống sót sau lần gây chấn thương ban đầu có thể phát triển các thương tổn
+
+gián tiếp
+
+tiếp theo trong thời gian ngắn. Tổn thương mạch máu gây ra xuất huyết, có thể chảy máu ra ngoài (có thể thấy được) hoặc bên trong cơ thể, hoặc nằm trong các tạng gây đụng dập, tụ máu, hoặc chảy vào các khoang tự nhiên của cơ thể (ví dụ khoang phúc mạc, khoang màng phổi). Với mất máu ít (tức là
+
+<
+
+10% lượng máu) hầu hết các bệnh nhân đều dung nạp tốt. Mất máu nhiều sẽ gây tụt huyết áp dần và giảm tưới máu mô (
+
+sốc
+
+), dẫn đến rối loạn chức năng tế bào, suy chức năng cơ quan, và cuối cùng là tử vong. Sốc mất máu và
+
+tổn thương não
+
+gây ra hầu hết các trường hợp tử vong trong thời gian ngắn (tức là trong vòng vài giờ), và suy đa tạng do sốc kéo dài gây ra tử vong trong quãng thời gian tiếp (14 ngày đầu). Các trường hợp tử vong trong giai đoạn sau chấn thương còn do nhiễm trùng do phá vỡ hàng rào giải phẫu và rối loạn chức năng hệ miễn dịch.
+
+Đánh giá và điều trị bệnh nhân chấn thương
+
+Chẩn đoán ban đầu: Đánh giá và ổn định bằng cách sử dụng từ ghi nhớ A, B, C, D, E, (
+
+A
+
+irway,
+
+B
+
+reathing,
+
+C
+
+irculation,
+
+D
+
+isability [neurologic status], and
+
+E
+
+xposure/
+
+E
+
+nvironmental control (Đường thở, Hơi thở, Tuần hoàn, Khuyết tật [trạng thái thần kinh] và Kiểm soát phơi nhiễm/Môi trường))
+
+Khảo sát thứ cấp: Khám từ đầu đến chân sau khi đã thăm khám thì đầu
+
+Chụp cắt lớp vi tinh và các chẩn đoán hình ảnh khác
+
+Việc chăm sóc tại khoa cấp cứu thay vì chăm sóc khẩn cấp tại nơi xảy ra tai nạn được thảo luận ở đây. Đánh giá và điều trị được thực hiện đồng thời, bắt đầu từ các hệ cơ quan có thể gây đe doạ đến tính mạng nếu tổn thương.
+
+Tập trung vào các tổn thương nghiêm trọng nhưng không gây tử vong (ví dụ, gãy hở cẳng chân, chấn thương cắt cụt ngón tay) trước khi đánh giá các tổn thương đe dọa tính mạng ngay lập tức có thể là một sai lầm chết người
+
+.
+
+Đánh giá ban đầu và ổn định được thực hiện một cách có hệ thống dựa trên các hệ thống A, B, C, D, E. được kiểm tra nhanh chóng các bất thường nghiêm trọng (khảo sát ban đầu); khám chi tiết hơn (khảo sát thứ cấp) được thực hiện sau khi bệnh nhân ổn định.
+
+Ngọc trai & cạm bẫy
+
+Tập trung vào các tổn thương nghiêm trọng nhưng không gây tử vong (ví dụ, gãy hở cẳng chân, chấn thương cắt cụt ngón tay) trước khi đánh giá các tổn thương đe dọa tính mạng ngay lập tức có thể là một sai lầm chết người.
+
+Đường thở
+
+Mức độ thông thoáng của đường thở bị đe dọa bởi cục máu đông, răng hoặc dị vật trong hầu họng; tình trạng lỏng lẻo của mô mềm và lưỡi rút về phía sau do mất ý thức (ví dụ: do chấn thương đầu, sốc, nhiễm độc); và/hoặc phù nề hoặc tụ máu do chấn thương cổ trực tiếp. Những nguyên nhân tắc nghẽn dễ nhìn thấy khi khám trực tiếp miệng hoặc cổ; bệnh nhân có thể nói liền mạch giúp xác nhận rằng đường thở có thể không bị nguy hiểm.
+
+Máu và dị vật được lấy ra bằng cách hút hoặc bằng tay. Bệnh nhân bị vô tri giác, không chắc chắn về độ thông thoáng của đường thở, cơ chế bảo vệ đường thở, tình trạng trao đổi oxy hoặc thông khí và bệnh nhân bị tổn thương vòm họng đáng kể cần
+
+đặt nội khí quản
+
+; thông thường các loại thuốc được dùng để gây bất tỉnh và gây tê trước khi đặt nội khí quản. Có nhiều dụng cụ có sẵn để hỗ trợ kiểm soát đường thở bao gồm các dụng cụ ngoài thanh môn, bougie đường thở và đèn soi thanh quản. Một thiết bị đo CO2 bằng chỉ thị màu, hoặc tốt nhất, ghi thán đồ dạng sóng có thể giúp xác định ống khí quản đã đặt đúng vị trí thích hợp.
+
+Nếu bệnh nhân cần một đường thở nhân tạo và ống nội khí quản không thể đặt được (ví dụ do phù nề đường hô hấp do bỏng nhiệt) hoặc bị chống chỉ định (ví dụ gãy xương hàm mặt phức tạp), phẫu thuật hoặc
+
+mở màng giáp nhẫn
+
+qua da được chỉ định. Chú ý: Khi đánh giá hoặc thao tác trên đường thở của bệnh nhân, giữ cố định cột sống cổ phải được duy trì (ví dụ bằng nẹp cổ cứng, kỹ thuật cố định thẳng hàng) cho đến khi chấn thương cột sống cổ đã được loại trừ bằng thăm khám, chẩn đoán hình ảnh, hoặc cả hai.
+
+Thở
+
+Việc thông khí đầy đủ bị đe dọa bởi sự giảm sút chức năng của trung tâm điều hoà hô hấp (thường là do chấn thương sọ não, ngộ độc, hoặc sốc) hoặc do
+
+chấn thương ngực
+
+(như tràn máu hoặc tràn khí màng phổi, gãy xương sườn nhiều, dập phổi).
+
+Thành ngực được bộc lộ hoàn toàn để kiểm tra mức độ giãn nở của thành ngực, các dấu hiệu bên ngoài của chấn thương và chuyển động nghịch thường của thành ngực (tức là thành ngực co lại khi hít vào), điều này cho thấy
+
+dấu hiệu mảng sườn di động
+
+. Khám thành ngực bằng tay để phát hiện gãy xương sườn và tràn khí dưới da (đôi khi đây là dấu hiệu duy nhất trong tràn khí màng phổi).
+
+Sự thông khí đầy đủ thường được kiểm tra bằng nghe phổi.
+
+Tràn khí màng phổi áp lực
+
+,
+
+tràn khí màng phổi đơn thuần
+
+, hoặc
+
+tràn máu màng phổi
+
+có thể làm giảm rì rào phế nang ở bên phổi bị tổn thương. Tràn khí màng phổi áp lực cũng có thể gây giãn các tĩnh mạch cổ; hạ huyết áp và di lệch khí quản sang phía đối diện bên tổn thương là những dấu hiệu sau đó.
+
+Tràn khí màng phổi được giải chèn ép bằng ống thông lồng ngực (xem
+
+Cách thực hiện phẫu thuật mở lồng ngực bằng ống thông và ống thông
+
+). Ở những bệnh nhân có dấu hiệu phù hợp với tràn khí màng phổi, nên chụp phim chụp X-quang ngực hoặc siêu âm tại giường trước khi bắt đầu thông khí áp lực dương. Thông khí áp lực dương có thể làm tăng tràn khí màng phổi đơn thuần hoặc biến nó thành tràn khí màng phổi áp lực. Nếu nghi ngờ tràn khí màng phổi áp lực thì có thể giảm áp bằng phẫu thuật mở ngực bằng ngón tay (đưa ngón tay vào khoang màng phổi)
+
+kim mở thông ngực
+
+(ví dụ: kim 14 cữ châm vào đường giữa mao mạch, khoang liên sườn thứ 5) để ổn định bệnh nhân nếu không thể đưa ống ngực vào ngay lập tức. Tình trạng giảm thông khí được điều trị bằng đặt nội khí quản và
+
+thở máy
+
+.
+
+Tràn khí màng phổi hở
+
+được che bằng băng kín 3 mặt; mặt thứ 4 không được dán để giải phóng áp lực có thể tích tụ và gây tràn khí màng phổi áp lực.
+
+Circulation
+
+Chảy máu ngoài đáng kể có thể từ bất kì mạch máu lớn nào nhưng luôn thấy rõ ràng Chảy máu trong đe doạ tính mạng thường ít rõ ràng hơn. Chảy máu trong đe doạ tính mạng thường ít rõ ràng hơn. Tuy nhiên, khối lượng xuất huyết này chỉ có thể xảy ra ở một vài khoang cơ thể: ngực, bụng,sau phúc mạc và mô mềm của khung chậu hoặc đùi (ví dụ, do gãy xương chậu hoặc xương đùi).
+
+Mạch và huyết áp được đánh giá, và các dấu hiệu của sốc được ghi nhận (ví dụ, thở nhanh, da nhợt, vã mồ hôi, tình trạng tri giác thay đổi, tưới máu mao mạch kém). Bụng trướng và ấn đau, mất vững khung chậu, sự biến dạng đùi thường xảy ra khi xuất huyết nội tại những khu vực này đủ lớn để đe dọa tính mạng.
+
+Chảy máu bên ngoài được kiểm soát bằng áp lực trực tiếp. Ga rô nên được áp dụng cho chảy máu tứ chi nếu chảy máu không được kiểm soát bằng áp lực trực tiếp. Đặt hai đường truyền tĩnh mạch lớn (ví dụ: cỡ 14 hoặc 16), bắt đầu với dung dịch muối 0,9% hoặc dung dịch Ringer lactate; truyền nhanh chóng 1 L (20 mL/kg đối với trẻ em) khi có dấu hiệu
+
+sốc và giảm thể tích tuần hoàn
+
+. Nên cân nhắc sử dụng sớm liệu pháp máu toàn phần hoặc từng phần máu. Đo nồng độ lactate hoặc khí máu tại giường (và tính toán lượng dư thừa gốc) có thể giúp chỉ ra mức độ nặng của giảm tưới máu mô và do đó giúp định hướng điều trị dịch. Các phác đồ đã được phát triển cho những bệnh nhân yêu cầu khối lượng lớn các sản phẩm máu (các phác đồ truyền máu khối lượng lớn), bao gồm đánh giá đông máu.
+
+Khi lâm sàng biểu hiện rõ có chảy máu nặng trong ổ bụng, bệnh nhân có thể cần phải phẫu thuật mở bụng ngay. Việc đặt một bóng nong nội mạch hồi sức để điều trị tắc động mạch chủ (REBOA) có thể giúp ổn định bệnh nhân trước khi phẫu thuật. Bệnh nhân bị xuất huyết ồ ạt trong lồng ngực có thể cần phải
+
+phẫu thuật mở thông lồng ngực
+
+ngay lập tức và có thể tự truyền máu lấy được qua
+
+phẫu thuật mở thông lồng ngực bằng ống thông
+
+.
+
+Ngọc trai & cạm bẫy
+
+Các dấu hiệu của shock mất máu do tụt huyết áp ở bệnh nhân chấn thương sọ não đơn thuần cần phải tìm nguyên nhân chảy máu trong khác vì chấn thương sọ não đơn thuần không gây mất máu dẫn đến sốc giảm thể tích.
+
+Khuyết tật (rối loạn chức năng thần kinh)
+
+Chức năng thần kinh được đánh giá về những thâm hụt nghiêm trọng liên quan đến não và tủy sống. Thang điểm hôn mê Glasgow (GCS; xem bảng
+
+Thang điểm Glasgow
+
+và
+
+Thang điểm hôn mê Glasgow cho trẻ sơ sinh và trẻ nhỏ
+
+) và phản ứng đồng tử với ánh sáng được sử dụng để đánh giá mức độ ý thức và mức độ nghiêm trọng của tổn thương nội sọ.
+
+Chuyển động tổng thể và cảm giác ở mỗi chi được sử dụng để sàng lọc
+
+chấn thương tủy sống
+
+nghiêm trọng. Cột sống cổ được thăm khám về độ mềm dẻo và biến dạng và cố định trong nẹp cổ cứng cho đến khi chấn thương cột sống cổ được loại trừ. Với sự ổn định cẩn thận của đầu và cổ bằng tay, bệnh nhân được đăng nhập vào một bên để cho phép
+
+Sờ cột sống ngực và cột sống thắt lưng
+
+Kiểm tra lưng
+
+Khám trực tràng nếu được chỉ định để kiểm tra âm sắc (giảm âm cho thấy có thể bị tổn thương tủy sống), tuyến tiền liệt (tuyến tiền liệt nằm trên cao gợi ý chấn thương niệu đạo hoặc vùng chậu) và có máu
+
+Tại Hoa Kỳ, hầu hết bệnh nhân đến bằng xe cứu thương đều được cố định trên một tấm ván dài và cứng để dễ vận chuyển và để ổn định khả năng gãy xương cột sống. Bệnh nhân cần phải được đưa ra khỏi ván càng sớm càng tốt vì cảm giác khá khó chịu và vết loét do tì đè có thể xảy ra trong vòng vài giờ (
+
+1
+
+).
+
+Bảng
+
+Thang điểm đánh giá tri giác (GCS)
+
+Bảng
+
+Thang điểm đánh giá tri giác (GCS)
+
+Thang điểm đánh giá tri giác (GCS)
+
+Khu vực Đánh giá
+
+Đáp ứng
+
+Điểm*
+
+Mở mắt
+
+Mở tự nhiên
+
+4
+
+Gọi mở
+
+3
+
+Mở mắt khi kích thích đau vào các chi hoặc xương ức
+
+2
+
+không
+
+1
+
+Lời nói
+
+Có định hướng
+
+5
+
+Mất định hướng, nhưng có thể trả lời câu hỏi
+
+4
+
+Câu trả lời không phù hợp với câu hỏi; từ ngữ không rõ ràng
+
+3
+
+Lời nói không thể hiểu được
+
+2
+
+không
+
+1
+
+Vận động
+
+Làm theo mệnh lệnh
+
+6
+
+Đáp ứng kích thích đau bằng cử động có mục đích
+
+5
+
+Rút khỏi kích thích đau
+
+4
+
+Đáp ứng đau với tư thế gập bất thường (tư thế mất vỏ não)
+
+3
+
+Phản ứng với đau bằng duỗi cứng bất thường (tư thế mất não)
+
+2
+
+không
+
+1
+
+* Điểm kết hợp
+
+<
+
+8 thường được coi là hôn mê và có thể gợi ý chấn thương sọ não nặng.
+
+Phỏng theo
+
+Teasdale G, Jennett B
+
+: Assessment of coma and impaired consciousness. A practical scale.
+
+Lancet
+
+2:81-84; 1974. doi: 10.1016/s0140-6736(74)91639-0
+
+* Điểm kết hợp
+
+<
+
+8 thường được coi là hôn mê và có thể gợi ý chấn thương sọ não nặng.
+
+Phỏng theo
+
+Teasdale G, Jennett B
+
+: Assessment of coma and impaired consciousness. A practical scale.
+
+Lancet
+
+2:81-84; 1974. doi: 10.1016/s0140-6736(74)91639-0
+
+Bảng
+
+Thang điểm Glasgow đã được Sửa đổi cho Trẻ sơ sinh và Trẻ em
+
+Bảng
+
+Thang điểm Glasgow đã được Sửa đổi cho Trẻ sơ sinh và Trẻ em
+
+Thang điểm Glasgow đã được Sửa đổi cho Trẻ sơ sinh và Trẻ em
+
+Khu vực Đánh giá
+
+Trẻ sơ sinh
+
+Trẻ em
+
+Điểm*
+
+Mở mắt
+
+Mở tự nhiên
+
+Mở tự nhiên
+
+4
+
+Mở để phản ứng với kích thích bằng lời nói
+
+Mở để phản ứng với kích thích bằng lời nói
+
+3
+
+Mở chỉ để phản ứng với cơn đau
+
+Mở chỉ để phản ứng với cơn đau
+
+2
+
+Không đáp ứng
+
+Không đáp ứng
+
+1
+
+Trả lời bằng lời nói
+
+Thì thầm và bập bẹ
+
+Định hướng, thích hợp
+
+5
+
+Khóc, cáu kỉnh
+
+Bối rối
+
+4
+
+Rên rỉ khi đáp ứng với đau
+
+Trang phục không thích hợp
+
+3
+
+Rên rỉ khi đáp ứng với đau
+
+Những từ không thể hiểu được hoặc những âm thanh không xác định
+
+2
+
+Không đáp ứng
+
+Không đáp ứng
+
+1
+
+Đáp ứng vận động†
+
+Vận động tự phát và có mục đích
+
+Làm theo mệnh lệnh
+
+6
+
+Rút khi kích thích đau
+
+định vị được kích thích đau
+
+5
+
+Rút ra để đáp ứng với cơn đau
+
+Rút ra để đáp ứng với cơn đau
+
+4
+
+Đáp ứng với đau bằng tư thế co cứng mất vỏ (phản xạ gấp bất thường)
+
+Đáp ứng với đau bằng tư thế co cứng mất vỏ (phản xạ gấp bất thường)
+
+3
+
+Đáp ứng với đau bằng tư thế duỗi cứng mất não (phản xạ duỗi bất thường)
+
+Đáp ứng với đau bằng tư thế duỗi cứng mất não (phản xạ duỗi bất thường)
+
+2
+
+Không đáp ứng
+
+Không đáp ứng
+
+1
+
+* Điểm
+
+≤
+
+12 gợi ý tình trạng thương tổn đầu nặng. Điểm
+
+≤
+
+8 cho thấy có thể cần phải đặt nội khí quản và thở máy cũng như cần theo dõi áp lực nội sọ.
+
+† Nếu bệnh nhân được đặt nội khí quản, mất ý thức, hoặc chưa biết nói, điều quan trọng nhất là đánh giá vận động. Phần này cần được đánh giá cẩn thận.
+
+Phỏng theo Davis RJ et al: Head and spinal cord injury. Trong
+
+Textbook of Pediatric Intensive Care
+
+, do MC Rogers biên tập. Baltimore, Williams & Wilkins, 1987; James H, Anas N, Perkin RM:
+
+Brain Insults in Infants and Children
+
+. New York, Grune & Stratton, 1985; and
+
+Morray JP, Tyler DC, Jones TK, et al
+
+: Coma scale for use in brain-injured children.
+
+Critical Care Medicine
+
+12:1018–1020, 1984. doi: 10.1097/00003246-198412000-00002; and
+
+Carney N, Totten AM, O'Reilly C, et al
+
+: Guidelines for the management of severe traumatic brain injury, fourth edition.
+
+Neurosurgery
+
+80(1):6-15. doi: 10.1227/NEU.0000000000001432.
+
+* Điểm
+
+≤
+
+12 gợi ý tình trạng thương tổn đầu nặng. Điểm
+
+≤
+
+8 cho thấy có thể cần phải đặt nội khí quản và thở máy cũng như cần theo dõi áp lực nội sọ.
+
+† Nếu bệnh nhân được đặt nội khí quản, mất ý thức, hoặc chưa biết nói, điều quan trọng nhất là đánh giá vận động. Phần này cần được đánh giá cẩn thận.
+
+Phỏng theo Davis RJ et al: Head and spinal cord injury. Trong
+
+Textbook of Pediatric Intensive Care
+
+, do MC Rogers biên tập. Baltimore, Williams & Wilkins, 1987; James H, Anas N, Perkin RM:
+
+Brain Insults in Infants and Children
+
+. New York, Grune & Stratton, 1985; and
+
+Morray JP, Tyler DC, Jones TK, et al
+
+: Coma scale for use in brain-injured children.
+
+Critical Care Medicine
+
+12:1018–1020, 1984. doi: 10.1097/00003246-198412000-00002; and
+
+Carney N, Totten AM, O'Reilly C, et al
+
+: Guidelines for the management of severe traumatic brain injury, fourth edition.
+
+Neurosurgery
+
+80(1):6-15. doi: 10.1227/NEU.0000000000001432.
+
+Bệnh nhân bị
+
+chấn thương sọ não
+
+nặng (GCS
+
+<
+
+8) có thể cần
+
+đặt nội khí quản
+
+để bảo vệ đường thở, chụp não, đánh giá phẫu thuật thần kinh và liệu pháp ngăn ngừa chấn thương não thứ phát (ví dụ: tối ưu hóa huyết áp và trao đổi oxy, dự phòng co giật, điều trị tăng áp lực nội sọ, đôi khi phải tăng thông khí tạm thời cho những bệnh nhân có dấu hiệu sắp
+
+thoát vị não
+
+).
+
+Tiếp xúc/kiểm soát môi trường
+
+Để đảm bảo tất cả các tổn thương không bị bỏ sót, bệnh nhân cần được cởi tất cả quần áo (bằng cách cắt bỏ) và kiểm tra toàn bộ bề mặt cơ thể để tìm các dấu hiệu của chấn thương kín đáo. Bệnh nhân cần được giữ ấm (ví dụ, bằng chăn ấm và sử dụng dung dịch truyền tĩnh mạch đã được làm ấm) để tránh hạ thân nhiệt.
+
+Khảo sát thứ cấp
+
+Sau khi các mối đe dọa tức thời đến tính mạng bệnh nhân được đánh giá và bệnh nhân đã ổn định, cần đánh giá kỹ lưỡng hơn, và tập trung vào bệnh sử, tiền sử. Nếu chỉ có thể trao đổi hạn chế, lịch sử "AMPLE" là các thông tin cần thiết lấy:
+
+A
+
+Dị ứng (Allergies)
+
+M
+
+Thuốc, trị liệu đang dùng (Medications)
+
+P
+
+Tiền sử y khoa (Past medical history)
+
+L
+
+Bữa ăn cuối cùng (Last meal)
+
+E
+
+Hoàn cảnh chấn thương (Events of the injury)
+
+Sau khi bệnh nhân được cởi quần áo hoàn toàn, khám tổng thể tiến hành từ đầu đến chân; đặc biệt chú ý đến tất cả các lỗ tự nhiên và khám chi tiết hơn các vùng đã kiểm tra ban đầu. Tất cả các mô mềm cần được kiểm tra xem cố tổn thương hay sưng không, tất cả các xương cần được sờ nắn để tìm điểm đau, và đánh giá biên độ vận động của các khớp (trừ khi đã thấy có gãy hoặc biến dạng rõ rệt).
+
+Thường đặt xông tiểu
+
+trong trường hợp bệnh nhân chấn thương nặng và bất tỉnh mà không có bằng chứng nào chỉ ra có chấn thương niệu đạo (ví dụ như có máu ở lỗ niệu đạo ngoài, bầm máu vùng đáy chậu). Những bệnh nhân chấn thương nặng thường cũng được đặt ống xông dạ dày.
+
+Các vết thương hở được che lại bằng băng vô trùng, việc làm sạch và sửa chữa sẽ được hoãn lại cho đến khi đánh giá và xử lý xong các chấn thương nghiêm trọng hơn. Trật khớp nghiêm trọng rõ ràng trên lâm sàng với biến dạng rõ rệt hoặc tổn thương thần kinh mạch máu được chụp ảnh và giảm bớt ngay khi các mối đe dọa tính mạng ngay lập tức được giải quyết.
+
+Các trường hợp chắc chắn hay nghi ngờ có gãy xương đều cần được nẹp cố định trong khi chờ để đánh giá đầy đủ các chấn thương nặng và các phim chụp phù hợp. Gãy xương chậu không ổn định rõ ràng về mặt lâm sàng được ổn định bằng chất kết dính khung chậu thương mại hoặc tấm trải giường để giúp đóng không gian khung chậu và giảm chảy máu; chảy máu dữ dội có thể yêu cầu làm tắc động mạch khẩn cấp, phẫu thuật cố định hoặc kiểm soát phẫu thuật trực tiếp.
+
+Ở
+
+những bệnh nhân chấn thương khi mang thai,
+
+ưu tiên hàng đầu là ổn định người phụ nữ, đây cũng là cách tốt nhất để đảm bảo sự ổn định của thai nhi. Cần hội chẩn với bác sĩ sản khoa ngay lập tức đối với những bệnh nhân bị chấn thương nghiêm trọng hoặc có dấu hiệu biến chứng thai kỳ (ví dụ: nhịp tim thai bất thường, ra máu âm đạo, các cơn co). Ở ≥ 20 tuần của thai kỳ, đáy tử cung có thể được sờ thấy ở hoặc trên rốn và đủ lớn để chèn ép tĩnh mạch chủ dưới; do đó, bất động ở tư thế nằm ngửa có thể cản trở tĩnh mạch trở lại và gây hạ huyết áp. Tử cung có thể được đẩy sang trái của bệnh nhân bằng tay hoặc có thể nghiêng toàn bộ tấm ván sau sang trái để giảm bớt sức ép. Nếu bệnh nhân mang thai ≥ 20 tuần bị ngừng tim và nỗ lực hồi sức không thành công, nên bắt đầu mổ lấy thai (phẫu thuật cắt tử cung hồi sức) trong vòng 4 phút sau khi ngừng tim và thai nhi được sinh trong vòng 5 phút (
+
+2
+
+).
+
+Nếu thai nhi ≥ 22 tuần tuổi (giới hạn khả năng sống sót thấp hơn), việc theo dõi thai nhi được thực hiện và tiếp tục trong ít nhất 4 giờ đến 6 giờ. Rh
+
+0
+
+(D) globulin miễn dịch được làm cho tất cả những phụ nữ Rh (-) ngay cả sau khi có chấn thương nhẹ.
+
+Xét nghiệm
+
+Chẩn đoán hình ảnh và xét nghiệm bổ sung đánh giá lâm sàng. Bệnh nhân có vết thương xuyên thấu thường có tổn thương khu trú, do đó có thể giới hạn chẩn đoán hình ảnh đến các vùng liên quan rõ ràng. Chấn thương do vật tầy, đặc biệt là khi có sự giảm tốc đáng kể (ví dụ: ngã nghiêm trọng, tai nạn xe cơ giới), có thể ảnh hưởng đến bất kỳ bộ phận nào của cơ thể và các nghiên cứu chẩn đoán hình ảnh được chỉ định bởi cơ chế chấn thương và các dấu hiệu khi khám.
+
+Chụp phim cột sống cổ có thể được hoãn lại ở những bệnh nhân không say, không có các triệu chứng thần kinh khu trú, không có nhạy cảm đau đường giữa cột sống cổ hoặc chấn thương mất tập trung (như gãy xương đùi), và còn tỉnh táo, minh mẫn. Tất cả những trường hợp khác nên được chụp phim cột sống cổ, tốt nhất là sử dụng CT.
+
+Phim chụp X-quang ngực có thể xác định tình trạng gián đoạn đường thở, tổn thương phổi, tràn máu màng phổi và tràn khí màng phổi; nó cũng có thể gợi ý rách động mạch chủ ngực (ví dụ: do giãn trung thất). Tuy nhiên CT ngực nhạy cảm hơn với hầu hết các chấn thương trong lồng ngực và thường được ưu tiên dùng. Chẩn đoán hình ảnh ngực hiện nay thường được thực hiện tại giường bệnh bằng cách sử dụng
+
+đánh giá tập trung mở rộng bằng siêu âm trong chấn thương (E-FAST)
+
+, đặc biệt là nếu bệnh nhân không ổn định. Tràn khí màng phổi, tràn máu màng phổi, và tràn máu màng ngoài tim có thể được xác định.
+
+Chụp CT ngực, bụng, khung chậu, cột sống, hoặc đầu, hoặc trong trường hợp đặc biệt chụp kết hợp nhiều bộ phần, thường được chỉ định cho những bệnh nhân đa chấn thương nặng do va đập.
+
+Xác định chấn thương trong ổ bụng rất cần thiết. Trong quá khứ,
+
+chọc rửa màng bụng chẩn đoán
+
+(DPL) được sử dụng để đánh giá máu trong ổ bụng. Trong DPL, một ống lọc được đưa qua thành bụng vào khoang phúc mạc. Nếu hút được
+
+>
+
+10 mL máu thì ngay lập tức mở bụng. Nếu không hút được máu, bơm 1 lít dung dịch nước muối sinh lý 0,9% qua ống lọc sau đó dẫn ngược trở ra; phân tích dịch đó để có định hướng. Tuy nhiên, ở tất cả các khu vực trừ khu vực có nguồn lực hạn chế, DPL phần lớn đã được thay thế bằng kiểm tra E-FAST tại giường, đặc biệt là đối với những bệnh nhân không ổn định; nó rất nhạy cảm với lượng máu trong phúc mạc đáng kể và do đó cần phải phẫu thuật nội soi ngay lập tức. Nếu bệnh nhân ổn định, CT được ưu tiên sử dụng hơn; nó rất chính xác, cho hình ảnh của cả các cấu trúc sau phúc mạc và xương, và cho thấy khối máu và đôi khi cả nơi chảy máu.
+
+Đánh giá tập trung mở rộng bằn...
+
+Các video
+
+Nếu nghi ngờ
+
+gãy xương chậu
+
+, chụp CT vùng chậu; nó chính xác hơn chụp X-quang thông thường.
+
+CT đầu thường được thực hiện ở bệnh nhân có sự thay đổi ý thức hoặc có dấu hiệu thần kinh khu trú và ở bệnh nhân mất ý thức kéo dài. Một số bằng chứng cho thấy CT không cần thiết ở những bệnh nhân mất ý thức trong thời gian ngắn (tức là
+
+<
+
+5 giây) hoặc mất trí nhớ thoáng qua hoặc mất phương hướng thoáng qua nhưng vẫn tỉnh táo với chỉ số GCS là 15 khi khám. Chẩn đoán hình ảnh được thực hiện tự do hơn ở những bệnh nhân đau đầu dai dẳng, nôn mửa, mất trí nhớ, co giật,
+
+>
+
+60 tuổi, nhiễm độc ma túy hoặc rượu và ở những bệnh nhân dùng thuốc chống đông máu hoặc thuốc chống tiểu cầu. Các quy tắc quyết định lâm sàng đã được phát triển để giúp xác định bệnh nhân nào nên chụp CT đầu (
+
+3
+
+). Những nguyên tắc quyết định này nên được sử dụng để hỗ trợ, không thay thế quyết định lâm sàng.
+
+Đối với trẻ em bị chấn thương đầu, Mạng lưới Nghiên cứu Ứng dụng Chăm sóc Cấp cứu Nhi khoa (PECARN) đã phát triển một thuật toán có thể giúp hạn chế phơi nhiễm phóng xạ từ việc chụp CT đầu; quan sát lâm sàng được thực hiện ở những bệnh nhân nhi có thể đã chụp CT.
+
+Đánh giá trẻ em từ 0 đến 2 tuổi có chấn thương đầu
+
+* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.
+
+† Bao gồm các vụ tai nạn xe cơ giới mà bệnh nhân bị văng ra ngoài, có hành khách khác tử vong, hoặc phương tiện bị lật ngược; va chạm của xe cơ giới với người đi bộ hoặc đi xe đạp không đội mũ bảo hiểm; ngã cao
+
+>
+
+0,9 m đối với trẻ em
+
+<
+
+2 tuổi; hoặc bị một vật nặng đập vào đầu.
+
+​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em
+
+>
+
+3 tháng tuổi.
+
+ED
+
+=
+
+khoa cấp cứu; GCS
+
+=
+
+Thang điểm hôn mê Glasgow; LOC
+
+=
+
+mất ý thức.
+
+Phỏng theo
+
+Kupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network
+
+: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.
+
+Lancet
+
+374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0
+
+* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.
+
+† Bao gồm các vụ tai nạn xe cơ giới mà bệnh nhân bị văng ra ngoài, có hành khách khác tử vong, hoặc phương tiện bị lật ngược; va chạm của xe cơ giới với người đi bộ hoặc đi xe đạp không đội mũ bảo hiểm; ngã cao
+
+>
+
+0,9 m đối với trẻ em
+
+<
+
+2 tuổi; hoặc bị một vật nặng đập vào đầu.
+
+​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em
+
+>
+
+3 tháng tuổi.
+
+ED
+
+=
+
+khoa cấp cứu; GCS
+
+=
+
+Thang điểm hôn mê Glasgow; LOC
+
+=
+
+mất ý thức.
+
+Phỏng theo
+
+Kupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network
+
+: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.
+
+Lancet
+
+374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0
+
+Đánh giá Trẻ em
+
+≥
+
+2 tuổi có chấn thương đầu
+
+* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.
+
+† Bao gồm va chạm xe cơ giới liên quan đến việc đẩy bệnh nhân, hành khách khác tử vong hoặc lật xe; va chạm xe cơ giới với người đi bộ, đi xe đạp không đội mũ bảo hiểm; và độ cao của cú ngã
+
+>
+
+1,5 m đối với trẻ em
+
+≥
+
+2 tuổi; và một cú đánh vào đầu bởi một vật có tác động mạnh.
+
+​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em
+
+>
+
+3 tháng tuổi.
+
+ED
+
+=
+
+khoa cấp cứu; GCS
+
+=
+
+Thang điểm hôn mê Glasgow; LOC
+
+=
+
+mất ý thức.
+
+Phỏng theo
+
+Kupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network
+
+: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.
+
+Lancet
+
+374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0
+
+* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.
+
+† Bao gồm va chạm xe cơ giới liên quan đến việc đẩy bệnh nhân, hành khách khác tử vong hoặc lật xe; va chạm xe cơ giới với người đi bộ, đi xe đạp không đội mũ bảo hiểm; và độ cao của cú ngã
+
+>
+
+1,5 m đối với trẻ em
+
+≥
+
+2 tuổi; và một cú đánh vào đầu bởi một vật có tác động mạnh.
+
+​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em
+
+>
+
+3 tháng tuổi.
+
+ED
+
+=
+
+khoa cấp cứu; GCS
+
+=
+
+Thang điểm hôn mê Glasgow; LOC
+
+=
+
+mất ý thức.
+
+Phỏng theo
+
+Kupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network
+
+: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.
+
+Lancet
+
+374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0
+
+Patients with suspected
+
+spinal cord injury
+
+should be imaged using MRI.
+
+Chấn thương động mạch chủ
+
+nên được xem xét ở những bệnh nhân bị chấn thương ngực giảm tốc độ nghiêm trọng hoặc có dấu hiệu gợi ý (ví dụ: mạch không đều hoặc đo huyết áp không đối xứng, thiếu máu cục bộ cơ quan đích, các dấu hiệu gợi ý trên phim chụp X-quang ngực); những bệnh nhân này có thể cần chụp CT mạch hoặc chẩn đoán hình ảnh khác của động mạch chủ. Thuốc chẹn beta tác dụng ngắn có thể được sử dụng để kiểm soát nhịp tim và huyết áp ở bệnh nhân chấn thương động mạch chủ.
+
+Tất cả các bệnh nhân nghi ngờ bị
+
+chấn thương ngực do vật tầy
+
+đáng kể nên được đặt trên máy theo dõi tim và đo điện tâm đồ để phát hiện
+
+tổn thương cơ tim
+
+và
+
+loạn nhịp tim
+
+. Bệnh nhân có bất thường trên điện tim thường được làm xét nghiệm định lượng các marker của tim trong máu và đôi khi được
+
+siêu âm tim
+
+để đánh giá xem có vùng cơ tim bị đụng dập hay không.
+
+Cần phải xem xét các tổn thương mạch máu với động mạch cảnh và động mạch đốt sống ở những bệnh nhân bị chấn thương đầu và cổ, đặc biệt là các trường hợp có dấu hiệu thần kinh một bên, dấu hiệu dây an toàn ở cổ (vệt dài bầm máu do dây thắt qua vai), hoặc một tổn thương liên quan (ví dụ gãy đốt C1, C2, hoặc C3; gãy các đốt sống khác kèm trượt đốt sống; hay cơ chế treo) Những bệnh nhân này nên được chụp CT mạch. Những bệnh nhân như vậy thường nên
+
+chụp CT mạch
+
+.
+
+Các phim chụp X-quang thường quy khi nghi ngờ có gãy xương và trật khớp các chi. Các phương tiện chẩn đoán hình ảnh khác được làm tùy theo các chỉ định cụ thể (ví dụ chụp mạch để chẩn đoán và đôi khi dùng làm tắc mạch bị tổnvthương; CT giúp đánh giá tốt hơn đối với cột sống, khung chậu, hoặc các gãy khớp phức tạp).
+
+Các xét nghiệm có thể hữu ích bao gồm:
+
+Hoàn tất công thức máu để thiết lập giá trị ở lần khám ban đầu
+
+Đo nồng độ hemoglobin nhiều lần để đánh giá chảy máu
+
+Khí máu xác định áp lực một phần của oxy, áp lực một phần của carbon dioxide, và thiếu hụt bazơ
+
+Tìm máu trong nước tiểu
+
+Glucose để đánh giá hạ đường huyết
+
+Xác định nhóm máu và chéo máu để truyền máu khi cần
+
+Đông, cầm máu
+
+Đánh giá dịch truyền (lactat huyết thanh, mức độ thiếu kiềm trong khí máu động mạch, và đo độ bão hòa Oxy tĩnh mạch trung tâm ở những bệnh nhân có đường truyền tĩnh mạch trung tâm) được chỉ định để giúp xác định sớm hoặc hỗ trợ điều trị
+
+sốc
+
+. Các xét nghiệm khác (ví dụ các chất điện giải và các chất hóa học khác) ít hữu ích trừ khi có gợi ý liên quan từ tiền sử y khoa (ví dụ, suy thận, sử dụng lợi tiểu).
+
+Sàng lọc độc tính (ví dụ: sàng lọc nồng độ cồn trong máu, sàng lọc độc tính trong nước tiểu) thường được thực hiện; kết quả của xét nghiệm này hiếm khi thay đổi cách xử trí ngay lập tức nhưng có thể giúp xác định
+
+rối loạn sử dụng chất gây nghiện
+
+là nguyên nhân có thể gây thương tổn, cho phép can thiệp để ngăn ngừa chấn thương tiếp theo.
+
+D-Dimer, fibrinogen, và sản phẩm giáng hóa fibrin có thể cần định lượng ở bệnh nhân mang thai bị chấn thương. Kết quả xét nghiệm có thể bất thường ở những
+
+bệnh nhân rau bong non
+
+; tuy nhiên, các xét nghiệm này không nhạy và cũng không đặc hiệu nên không thể khẳng định chắc chắn hay loại trừ chẩn đoán.
+
+Tài liệu tham khảo về đánh giá và điều trị
+
+1.
+
+Fischer PE, Perina DG, Delbridge TR, et al
+
+: Spinal motion restriction in the trauma patient — A Joint Position Statement.
+
+Prehosp Emerg Care
+
+22(6):659-661, 2018. doi: 10.1080/10903127.2018.1481476
+
+2.
+
+Jeejeebhoy FM, Zelop CM, Lipman S, et al
+
+: Cardiac arrest in pregnancy: A scientific statement from the American Heart Association.
+
+Circulation
+
+132(18):1747-1773, 2015. doi: 10.1161/CIR.0000000000000300
+
+3.
+
+Bouida W, Marghli S, Souissi S, et al
+
+: Prediction value of the Canadian CT head rule and the New Orleans criteria for positive head CT scan and acute neurosurgical procedures in minor head trauma: A multicenter external validation study.
+
+Ann Emerg Med
+
+61(5): 521-527, 2013. doi: 10.1016/j.annemergmed.2012.07.016
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+American College of Surgeons Revised Statement on Trauma Center Designation Based Upon System Need and the Economic Drivers Impacting Trauma Systems
+
+: This addendum to the 2014 statement was added in June 2021 to address specific issues related to the economic drivers that have an impact on trauma systems.
+
+Pediatric Emergency Care Applied Research Network (PECARN)
+
+: This site provides information about multi-center research on the prevention and management of acute illnesses and injuries in children.
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân của chấn thương ---
+
+Trong vô số cách khiến con người bị thương, hầu hết có thể được phân loại là do vật tầy hoặc do vật sắc nhọn. Chấn thương đụng dập khi có một lực tác động mạnh (ví dụ, đấm, đá, đánh bằng vật tù, ngã, va chạm xe cơ giới, vụ nổ). Thương tích xuyên thấu bao gồm tổn thương da bởi một vật sắc (ví dụ như dao, kính vỡ) hoặc đạn (như đầu đạn, mảnh vụn từ vụ nổ).Các loại thương tổn khác bao gồmbỏng hóa chất bỏng nhiệt,hít phải khí độc hoặc nuốt phải chất độcvàtổn thương do bức xạ.
+
+--- 2. Sinh lý bệnh của chấn thương ---
+
+Theo định nghĩa, tất cả các chấn thương đều gây tổn thương môtrực tiếp; bản chất và mức độ phụ thuộc vào vị trí giải phẫu, cơ chế và mức độ lực. Tổn thương nặng trực tiếp đến các cơ quan quan trọng (ví dụ như tim, não, tủy sống) là nguyên nhân gây tử vong ngay lập tức.Ngoài ra, những bệnh nhân sống sót sau lần gây chấn thương ban đầu có thể phát triển các thương tổngián tiếptiếp theo trong thời gian ngắn. Tổn thương mạch máu gây ra xuất huyết, có thể chảy máu ra ngoài (có thể thấy được) hoặc bên trong cơ thể, hoặc nằm trong các tạng gây đụng dập, tụ máu, hoặc chảy vào các khoang tự nhiên của cơ thể (ví dụ khoang phúc mạc, khoang màng phổi). Với mất máu ít (tức là<10% lượng máu) hầu hết các bệnh nhân đều dung nạp tốt. Mất máu nhiều sẽ gây tụt huyết áp dần và giảm tưới máu mô (sốc), dẫn đến rối loạn chức năng tế bào, suy chức năng cơ quan, và cuối cùng là tử vong. Sốc mất máu vàtổn thương nãogây ra hầu hết các trường hợp tử vong trong thời gian ngắn (tức là trong vòng vài giờ), và suy đa tạng do sốc kéo dài gây ra tử vong trong quãng thời gian tiếp (14 ngày đầu). Các trường hợp tử vong trong giai đoạn sau chấn thương còn do nhiễm trùng do phá vỡ hàng rào giải phẫu và rối loạn chức năng hệ miễn dịch.
+
+--- 3. Đánh giá và điều trị bệnh nhân chấn thương ---
+
+Chẩn đoán ban đầu: Đánh giá và ổn định bằng cách sử dụng từ ghi nhớ A, B, C, D, E, (Airway,Breathing,Circulation,Disability [neurologic status], andExposure/Environmental control (Đường thở, Hơi thở, Tuần hoàn, Khuyết tật [trạng thái thần kinh] và Kiểm soát phơi nhiễm/Môi trường))Khảo sát thứ cấp: Khám từ đầu đến chân sau khi đã thăm khám thì đầuChụp cắt lớp vi tinh và các chẩn đoán hình ảnh khácViệc chăm sóc tại khoa cấp cứu thay vì chăm sóc khẩn cấp tại nơi xảy ra tai nạn được thảo luận ở đây. Đánh giá và điều trị được thực hiện đồng thời, bắt đầu từ các hệ cơ quan có thể gây đe doạ đến tính mạng nếu tổn thương.Tập trung vào các tổn thương nghiêm trọng nhưng không gây tử vong (ví dụ, gãy hở cẳng chân, chấn thương cắt cụt ngón tay) trước khi đánh giá các tổn thương đe dọa tính mạng ngay lập tức có thể là một sai lầm chết người.Đánh giá ban đầu và ổn định được thực hiện một cách có hệ thống dựa trên các hệ thống A, B, C, D, E. được kiểm tra nhanh chóng các bất thường nghiêm trọng (khảo sát ban đầu); khám chi tiết hơn (khảo sát thứ cấp) được thực hiện sau khi bệnh nhân ổn định.Ngọc trai & cạm bẫyTập trung vào các tổn thương nghiêm trọng nhưng không gây tử vong (ví dụ, gãy hở cẳng chân, chấn thương cắt cụt ngón tay) trước khi đánh giá các tổn thương đe dọa tính mạng ngay lập tức có thể là một sai lầm chết người.Đường thởMức độ thông thoáng của đường thở bị đe dọa bởi cục máu đông, răng hoặc dị vật trong hầu họng; tình trạng lỏng lẻo của mô mềm và lưỡi rút về phía sau do mất ý thức (ví dụ: do chấn thương đầu, sốc, nhiễm độc); và/hoặc phù nề hoặc tụ máu do chấn thương cổ trực tiếp. Những nguyên nhân tắc nghẽn dễ nhìn thấy khi khám trực tiếp miệng hoặc cổ; bệnh nhân có thể nói liền mạch giúp xác nhận rằng đường thở có thể không bị nguy hiểm.Máu và dị vật được lấy ra bằng cách hút hoặc bằng tay. Bệnh nhân bị vô tri giác, không chắc chắn về độ thông thoáng của đường thở, cơ chế bảo vệ đường thở, tình trạng trao đổi oxy hoặc thông khí và bệnh nhân bị tổn thương vòm họng đáng kể cầnđặt nội khí quản; thông thường các loại thuốc được dùng để gây bất tỉnh và gây tê trước khi đặt nội khí quản. Có nhiều dụng cụ có sẵn để hỗ trợ kiểm soát đường thở bao gồm các dụng cụ ngoài thanh môn, bougie đường thở và đèn soi thanh quản. Một thiết bị đo CO2 bằng chỉ thị màu, hoặc tốt nhất, ghi thán đồ dạng sóng có thể giúp xác định ống khí quản đã đặt đúng vị trí thích hợp.Nếu bệnh nhân cần một đường thở nhân tạo và ống nội khí quản không thể đặt được (ví dụ do phù nề đường hô hấp do bỏng nhiệt) hoặc bị chống chỉ định (ví dụ gãy xương hàm mặt phức tạp), phẫu thuật hoặcmở màng giáp nhẫnqua da được chỉ định. Chú ý: Khi đánh giá hoặc thao tác trên đường thở của bệnh nhân, giữ cố định cột sống cổ phải được duy trì (ví dụ bằng nẹp cổ cứng, kỹ thuật cố định thẳng hàng) cho đến khi chấn thương cột sống cổ đã được loại trừ bằng thăm khám, chẩn đoán hình ảnh, hoặc cả hai.ThởViệc thông khí đầy đủ bị đe dọa bởi sự giảm sút chức năng của trung tâm điều hoà hô hấp (thường là do chấn thương sọ não, ngộ độc, hoặc sốc) hoặc dochấn thương ngực(như tràn máu hoặc tràn khí màng phổi, gãy xương sườn nhiều, dập phổi).Thành ngực được bộc lộ hoàn toàn để kiểm tra mức độ giãn nở của thành ngực, các dấu hiệu bên ngoài của chấn thương và chuyển động nghịch thường của thành ngực (tức là thành ngực co lại khi hít vào), điều này cho thấydấu hiệu mảng sườn di động. Khám thành ngực bằng tay để phát hiện gãy xương sườn và tràn khí dưới da (đôi khi đây là dấu hiệu duy nhất trong tràn khí màng phổi).Sự thông khí đầy đủ thường được kiểm tra bằng nghe phổi.Tràn khí màng phổi áp lực,tràn khí màng phổi đơn thuần, hoặctràn máu màng phổicó thể làm giảm rì rào phế nang ở bên phổi bị tổn thương. Tràn khí màng phổi áp lực cũng có thể gây giãn các tĩnh mạch cổ; hạ huyết áp và di lệch khí quản sang phía đối diện bên tổn thương là những dấu hiệu sau đó.Tràn khí màng phổi được giải chèn ép bằng ống thông lồng ngực (xemCách thực hiện phẫu thuật mở lồng ngực bằng ống thông và ống thông). Ở những bệnh nhân có dấu hiệu phù hợp với tràn khí màng phổi, nên chụp phim chụp X-quang ngực hoặc siêu âm tại giường trước khi bắt đầu thông khí áp lực dương. Thông khí áp lực dương có thể làm tăng tràn khí màng phổi đơn thuần hoặc biến nó thành tràn khí màng phổi áp lực. Nếu nghi ngờ tràn khí màng phổi áp lực thì có thể giảm áp bằng phẫu thuật mở ngực bằng ngón tay (đưa ngón tay vào khoang màng phổi)kim mở thông ngực(ví dụ: kim 14 cữ châm vào đường giữa mao mạch, khoang liên sườn thứ 5) để ổn định bệnh nhân nếu không thể đưa ống ngực vào ngay lập tức. Tình trạng giảm thông khí được điều trị bằng đặt nội khí quản vàthở máy.Tràn khí màng phổi hởđược che bằng băng kín 3 mặt; mặt thứ 4 không được dán để giải phóng áp lực có thể tích tụ và gây tràn khí màng phổi áp lực.CirculationChảy máu ngoài đáng kể có thể từ bất kì mạch máu lớn nào nhưng luôn thấy rõ ràng Chảy máu trong đe doạ tính mạng thường ít rõ ràng hơn. Chảy máu trong đe doạ tính mạng thường ít rõ ràng hơn. Tuy nhiên, khối lượng xuất huyết này chỉ có thể xảy ra ở một vài khoang cơ thể: ngực, bụng,sau phúc mạc và mô mềm của khung chậu hoặc đùi (ví dụ, do gãy xương chậu hoặc xương đùi).Mạch và huyết áp được đánh giá, và các dấu hiệu của sốc được ghi nhận (ví dụ, thở nhanh, da nhợt, vã mồ hôi, tình trạng tri giác thay đổi, tưới máu mao mạch kém). Bụng trướng và ấn đau, mất vững khung chậu, sự biến dạng đùi thường xảy ra khi xuất huyết nội tại những khu vực này đủ lớn để đe dọa tính mạng.Chảy máu bên ngoài được kiểm soát bằng áp lực trực tiếp. Ga rô nên được áp dụng cho chảy máu tứ chi nếu chảy máu không được kiểm soát bằng áp lực trực tiếp. Đặt hai đường truyền tĩnh mạch lớn (ví dụ: cỡ 14 hoặc 16), bắt đầu với dung dịch muối 0,9% hoặc dung dịch Ringer lactate; truyền nhanh chóng 1 L (20 mL/kg đối với trẻ em) khi có dấu hiệusốc và giảm thể tích tuần hoàn. Nên cân nhắc sử dụng sớm liệu pháp máu toàn phần hoặc từng phần máu. Đo nồng độ lactate hoặc khí máu tại giường (và tính toán lượng dư thừa gốc) có thể giúp chỉ ra mức độ nặng của giảm tưới máu mô và do đó giúp định hướng điều trị dịch. Các phác đồ đã được phát triển cho những bệnh nhân yêu cầu khối lượng lớn các sản phẩm máu (các phác đồ truyền máu khối lượng lớn), bao gồm đánh giá đông máu.Khi lâm sàng biểu hiện rõ có chảy máu nặng trong ổ bụng, bệnh nhân có thể cần phải phẫu thuật mở bụng ngay. Việc đặt một bóng nong nội mạch hồi sức để điều trị tắc động mạch chủ (REBOA) có thể giúp ổn định bệnh nhân trước khi phẫu thuật. Bệnh nhân bị xuất huyết ồ ạt trong lồng ngực có thể cần phảiphẫu thuật mở thông lồng ngựcngay lập tức và có thể tự truyền máu lấy được quaphẫu thuật mở thông lồng ngực bằng ống thông.Ngọc trai & cạm bẫyCác dấu hiệu của shock mất máu do tụt huyết áp ở bệnh nhân chấn thương sọ não đơn thuần cần phải tìm nguyên nhân chảy máu trong khác vì chấn thương sọ não đơn thuần không gây mất máu dẫn đến sốc giảm thể tích.Khuyết tật (rối loạn chức năng thần kinh)Chức năng thần kinh được đánh giá về những thâm hụt nghiêm trọng liên quan đến não và tủy sống. Thang điểm hôn mê Glasgow (GCS; xem bảngThang điểm GlasgowvàThang điểm hôn mê Glasgow cho trẻ sơ sinh và trẻ nhỏ) và phản ứng đồng tử với ánh sáng được sử dụng để đánh giá mức độ ý thức và mức độ nghiêm trọng của tổn thương nội sọ.Chuyển động tổng thể và cảm giác ở mỗi chi được sử dụng để sàng lọcchấn thương tủy sốngnghiêm trọng. Cột sống cổ được thăm khám về độ mềm dẻo và biến dạng và cố định trong nẹp cổ cứng cho đến khi chấn thương cột sống cổ được loại trừ. Với sự ổn định cẩn thận của đầu và cổ bằng tay, bệnh nhân được đăng nhập vào một bên để cho phépSờ cột sống ngực và cột sống thắt lưngKiểm tra lưngKhám trực tràng nếu được chỉ định để kiểm tra âm sắc (giảm âm cho thấy có thể bị tổn thương tủy sống), tuyến tiền liệt (tuyến tiền liệt nằm trên cao gợi ý chấn thương niệu đạo hoặc vùng chậu) và có máuTại Hoa Kỳ, hầu hết bệnh nhân đến bằng xe cứu thương đều được cố định trên một tấm ván dài và cứng để dễ vận chuyển và để ổn định khả năng gãy xương cột sống. Bệnh nhân cần phải được đưa ra khỏi ván càng sớm càng tốt vì cảm giác khá khó chịu và vết loét do tì đè có thể xảy ra trong vòng vài giờ (1).BảngThang điểm đánh giá tri giác (GCS)BảngThang điểm đánh giá tri giác (GCS)Thang điểm đánh giá tri giác (GCS)Khu vực Đánh giáĐáp ứngĐiểm*Mở mắtMở tự nhiên4Gọi mở3Mở mắt khi kích thích đau vào các chi hoặc xương ức2không1Lời nóiCó định hướng5Mất định hướng, nhưng có thể trả lời câu hỏi4Câu trả lời không phù hợp với câu hỏi; từ ngữ không rõ ràng3Lời nói không thể hiểu được2không1Vận độngLàm theo mệnh lệnh6Đáp ứng kích thích đau bằng cử động có mục đích5Rút khỏi kích thích đau4Đáp ứng đau với tư thế gập bất thường (tư thế mất vỏ não)3Phản ứng với đau bằng duỗi cứng bất thường (tư thế mất não)2không1* Điểm kết hợp<8 thường được coi là hôn mê và có thể gợi ý chấn thương sọ não nặng.Phỏng theoTeasdale G, Jennett B: Assessment of coma and impaired consciousness. A practical scale.Lancet2:81-84; 1974. doi: 10.1016/s0140-6736(74)91639-0* Điểm kết hợp<8 thường được coi là hôn mê và có thể gợi ý chấn thương sọ não nặng.Phỏng theoTeasdale G, Jennett B: Assessment of coma and impaired consciousness. A practical scale.Lancet2:81-84; 1974. doi: 10.1016/s0140-6736(74)91639-0BảngThang điểm Glasgow đã được Sửa đổi cho Trẻ sơ sinh và Trẻ emBảngThang điểm Glasgow đã được Sửa đổi cho Trẻ sơ sinh và Trẻ emThang điểm Glasgow đã được Sửa đổi cho Trẻ sơ sinh và Trẻ emKhu vực Đánh giáTrẻ sơ sinhTrẻ emĐiểm*Mở mắtMở tự nhiênMở tự nhiên4Mở để phản ứng với kích thích bằng lời nóiMở để phản ứng với kích thích bằng lời nói3Mở chỉ để phản ứng với cơn đauMở chỉ để phản ứng với cơn đau2Không đáp ứngKhông đáp ứng1Trả lời bằng lời nóiThì thầm và bập bẹĐịnh hướng, thích hợp5Khóc, cáu kỉnhBối rối4Rên rỉ khi đáp ứng với đauTrang phục không thích hợp3Rên rỉ khi đáp ứng với đauNhững từ không thể hiểu được hoặc những âm thanh không xác định2Không đáp ứngKhông đáp ứng1Đáp ứng vận động†Vận động tự phát và có mục đíchLàm theo mệnh lệnh6Rút khi kích thích đauđịnh vị được kích thích đau5Rút ra để đáp ứng với cơn đauRút ra để đáp ứng với cơn đau4Đáp ứng với đau bằng tư thế co cứng mất vỏ (phản xạ gấp bất thường)Đáp ứng với đau bằng tư thế co cứng mất vỏ (phản xạ gấp bất thường)3Đáp ứng với đau bằng tư thế duỗi cứng mất não (phản xạ duỗi bất thường)Đáp ứng với đau bằng tư thế duỗi cứng mất não (phản xạ duỗi bất thường)2Không đáp ứngKhông đáp ứng1* Điểm≤12 gợi ý tình trạng thương tổn đầu nặng. Điểm≤8 cho thấy có thể cần phải đặt nội khí quản và thở máy cũng như cần theo dõi áp lực nội sọ.† Nếu bệnh nhân được đặt nội khí quản, mất ý thức, hoặc chưa biết nói, điều quan trọng nhất là đánh giá vận động. Phần này cần được đánh giá cẩn thận.Phỏng theo Davis RJ et al: Head and spinal cord injury. TrongTextbook of Pediatric Intensive Care, do MC Rogers biên tập. Baltimore, Williams & Wilkins, 1987; James H, Anas N, Perkin RM:Brain Insults in Infants and Children. New York, Grune & Stratton, 1985; andMorray JP, Tyler DC, Jones TK, et al: Coma scale for use in brain-injured children.Critical Care Medicine12:1018–1020, 1984. doi: 10.1097/00003246-198412000-00002; andCarney N, Totten AM, O'Reilly C, et al: Guidelines for the management of severe traumatic brain injury, fourth edition.Neurosurgery80(1):6-15. doi: 10.1227/NEU.0000000000001432.* Điểm≤12 gợi ý tình trạng thương tổn đầu nặng. Điểm≤8 cho thấy có thể cần phải đặt nội khí quản và thở máy cũng như cần theo dõi áp lực nội sọ.† Nếu bệnh nhân được đặt nội khí quản, mất ý thức, hoặc chưa biết nói, điều quan trọng nhất là đánh giá vận động. Phần này cần được đánh giá cẩn thận.Phỏng theo Davis RJ et al: Head and spinal cord injury. TrongTextbook of Pediatric Intensive Care, do MC Rogers biên tập. Baltimore, Williams & Wilkins, 1987; James H, Anas N, Perkin RM:Brain Insults in Infants and Children. New York, Grune & Stratton, 1985; andMorray JP, Tyler DC, Jones TK, et al: Coma scale for use in brain-injured children.Critical Care Medicine12:1018–1020, 1984. doi: 10.1097/00003246-198412000-00002; andCarney N, Totten AM, O'Reilly C, et al: Guidelines for the management of severe traumatic brain injury, fourth edition.Neurosurgery80(1):6-15. doi: 10.1227/NEU.0000000000001432.Bệnh nhân bịchấn thương sọ nãonặng (GCS<8) có thể cầnđặt nội khí quảnđể bảo vệ đường thở, chụp não, đánh giá phẫu thuật thần kinh và liệu pháp ngăn ngừa chấn thương não thứ phát (ví dụ: tối ưu hóa huyết áp và trao đổi oxy, dự phòng co giật, điều trị tăng áp lực nội sọ, đôi khi phải tăng thông khí tạm thời cho những bệnh nhân có dấu hiệu sắpthoát vị não).Tiếp xúc/kiểm soát môi trườngĐể đảm bảo tất cả các tổn thương không bị bỏ sót, bệnh nhân cần được cởi tất cả quần áo (bằng cách cắt bỏ) và kiểm tra toàn bộ bề mặt cơ thể để tìm các dấu hiệu của chấn thương kín đáo. Bệnh nhân cần được giữ ấm (ví dụ, bằng chăn ấm và sử dụng dung dịch truyền tĩnh mạch đã được làm ấm) để tránh hạ thân nhiệt.Khảo sát thứ cấpSau khi các mối đe dọa tức thời đến tính mạng bệnh nhân được đánh giá và bệnh nhân đã ổn định, cần đánh giá kỹ lưỡng hơn, và tập trung vào bệnh sử, tiền sử. Nếu chỉ có thể trao đổi hạn chế, lịch sử "AMPLE" là các thông tin cần thiết lấy:ADị ứng (Allergies)MThuốc, trị liệu đang dùng (Medications)PTiền sử y khoa (Past medical history)LBữa ăn cuối cùng (Last meal)EHoàn cảnh chấn thương (Events of the injury)Sau khi bệnh nhân được cởi quần áo hoàn toàn, khám tổng thể tiến hành từ đầu đến chân; đặc biệt chú ý đến tất cả các lỗ tự nhiên và khám chi tiết hơn các vùng đã kiểm tra ban đầu. Tất cả các mô mềm cần được kiểm tra xem cố tổn thương hay sưng không, tất cả các xương cần được sờ nắn để tìm điểm đau, và đánh giá biên độ vận động của các khớp (trừ khi đã thấy có gãy hoặc biến dạng rõ rệt).Thường đặt xông tiểutrong trường hợp bệnh nhân chấn thương nặng và bất tỉnh mà không có bằng chứng nào chỉ ra có chấn thương niệu đạo (ví dụ như có máu ở lỗ niệu đạo ngoài, bầm máu vùng đáy chậu). Những bệnh nhân chấn thương nặng thường cũng được đặt ống xông dạ dày.Các vết thương hở được che lại bằng băng vô trùng, việc làm sạch và sửa chữa sẽ được hoãn lại cho đến khi đánh giá và xử lý xong các chấn thương nghiêm trọng hơn. Trật khớp nghiêm trọng rõ ràng trên lâm sàng với biến dạng rõ rệt hoặc tổn thương thần kinh mạch máu được chụp ảnh và giảm bớt ngay khi các mối đe dọa tính mạng ngay lập tức được giải quyết.Các trường hợp chắc chắn hay nghi ngờ có gãy xương đều cần được nẹp cố định trong khi chờ để đánh giá đầy đủ các chấn thương nặng và các phim chụp phù hợp. Gãy xương chậu không ổn định rõ ràng về mặt lâm sàng được ổn định bằng chất kết dính khung chậu thương mại hoặc tấm trải giường để giúp đóng không gian khung chậu và giảm chảy máu; chảy máu dữ dội có thể yêu cầu làm tắc động mạch khẩn cấp, phẫu thuật cố định hoặc kiểm soát phẫu thuật trực tiếp.Ởnhững bệnh nhân chấn thương khi mang thai,ưu tiên hàng đầu là ổn định người phụ nữ, đây cũng là cách tốt nhất để đảm bảo sự ổn định của thai nhi. Cần hội chẩn với bác sĩ sản khoa ngay lập tức đối với những bệnh nhân bị chấn thương nghiêm trọng hoặc có dấu hiệu biến chứng thai kỳ (ví dụ: nhịp tim thai bất thường, ra máu âm đạo, các cơn co). Ở ≥ 20 tuần của thai kỳ, đáy tử cung có thể được sờ thấy ở hoặc trên rốn và đủ lớn để chèn ép tĩnh mạch chủ dưới; do đó, bất động ở tư thế nằm ngửa có thể cản trở tĩnh mạch trở lại và gây hạ huyết áp. Tử cung có thể được đẩy sang trái của bệnh nhân bằng tay hoặc có thể nghiêng toàn bộ tấm ván sau sang trái để giảm bớt sức ép. Nếu bệnh nhân mang thai ≥ 20 tuần bị ngừng tim và nỗ lực hồi sức không thành công, nên bắt đầu mổ lấy thai (phẫu thuật cắt tử cung hồi sức) trong vòng 4 phút sau khi ngừng tim và thai nhi được sinh trong vòng 5 phút (2).Nếu thai nhi ≥ 22 tuần tuổi (giới hạn khả năng sống sót thấp hơn), việc theo dõi thai nhi được thực hiện và tiếp tục trong ít nhất 4 giờ đến 6 giờ. Rh0(D) globulin miễn dịch được làm cho tất cả những phụ nữ Rh (-) ngay cả sau khi có chấn thương nhẹ.Xét nghiệmChẩn đoán hình ảnh và xét nghiệm bổ sung đánh giá lâm sàng. Bệnh nhân có vết thương xuyên thấu thường có tổn thương khu trú, do đó có thể giới hạn chẩn đoán hình ảnh đến các vùng liên quan rõ ràng. Chấn thương do vật tầy, đặc biệt là khi có sự giảm tốc đáng kể (ví dụ: ngã nghiêm trọng, tai nạn xe cơ giới), có thể ảnh hưởng đến bất kỳ bộ phận nào của cơ thể và các nghiên cứu chẩn đoán hình ảnh được chỉ định bởi cơ chế chấn thương và các dấu hiệu khi khám.Chụp phim cột sống cổ có thể được hoãn lại ở những bệnh nhân không say, không có các triệu chứng thần kinh khu trú, không có nhạy cảm đau đường giữa cột sống cổ hoặc chấn thương mất tập trung (như gãy xương đùi), và còn tỉnh táo, minh mẫn. Tất cả những trường hợp khác nên được chụp phim cột sống cổ, tốt nhất là sử dụng CT.Phim chụp X-quang ngực có thể xác định tình trạng gián đoạn đường thở, tổn thương phổi, tràn máu màng phổi và tràn khí màng phổi; nó cũng có thể gợi ý rách động mạch chủ ngực (ví dụ: do giãn trung thất). Tuy nhiên CT ngực nhạy cảm hơn với hầu hết các chấn thương trong lồng ngực và thường được ưu tiên dùng. Chẩn đoán hình ảnh ngực hiện nay thường được thực hiện tại giường bệnh bằng cách sử dụngđánh giá tập trung mở rộng bằng siêu âm trong chấn thương (E-FAST), đặc biệt là nếu bệnh nhân không ổn định. Tràn khí màng phổi, tràn máu màng phổi, và tràn máu màng ngoài tim có thể được xác định.Chụp CT ngực, bụng, khung chậu, cột sống, hoặc đầu, hoặc trong trường hợp đặc biệt chụp kết hợp nhiều bộ phần, thường được chỉ định cho những bệnh nhân đa chấn thương nặng do va đập.Xác định chấn thương trong ổ bụng rất cần thiết. Trong quá khứ,chọc rửa màng bụng chẩn đoán(DPL) được sử dụng để đánh giá máu trong ổ bụng. Trong DPL, một ống lọc được đưa qua thành bụng vào khoang phúc mạc. Nếu hút được>10 mL máu thì ngay lập tức mở bụng. Nếu không hút được máu, bơm 1 lít dung dịch nước muối sinh lý 0,9% qua ống lọc sau đó dẫn ngược trở ra; phân tích dịch đó để có định hướng. Tuy nhiên, ở tất cả các khu vực trừ khu vực có nguồn lực hạn chế, DPL phần lớn đã được thay thế bằng kiểm tra E-FAST tại giường, đặc biệt là đối với những bệnh nhân không ổn định; nó rất nhạy cảm với lượng máu trong phúc mạc đáng kể và do đó cần phải phẫu thuật nội soi ngay lập tức. Nếu bệnh nhân ổn định, CT được ưu tiên sử dụng hơn; nó rất chính xác, cho hình ảnh của cả các cấu trúc sau phúc mạc và xương, và cho thấy khối máu và đôi khi cả nơi chảy máu.Đánh giá tập trung mở rộng bằn...Các videoNếu nghi ngờgãy xương chậu, chụp CT vùng chậu; nó chính xác hơn chụp X-quang thông thường.CT đầu thường được thực hiện ở bệnh nhân có sự thay đổi ý thức hoặc có dấu hiệu thần kinh khu trú và ở bệnh nhân mất ý thức kéo dài. Một số bằng chứng cho thấy CT không cần thiết ở những bệnh nhân mất ý thức trong thời gian ngắn (tức là<5 giây) hoặc mất trí nhớ thoáng qua hoặc mất phương hướng thoáng qua nhưng vẫn tỉnh táo với chỉ số GCS là 15 khi khám. Chẩn đoán hình ảnh được thực hiện tự do hơn ở những bệnh nhân đau đầu dai dẳng, nôn mửa, mất trí nhớ, co giật,>60 tuổi, nhiễm độc ma túy hoặc rượu và ở những bệnh nhân dùng thuốc chống đông máu hoặc thuốc chống tiểu cầu. Các quy tắc quyết định lâm sàng đã được phát triển để giúp xác định bệnh nhân nào nên chụp CT đầu (3). Những nguyên tắc quyết định này nên được sử dụng để hỗ trợ, không thay thế quyết định lâm sàng.Đối với trẻ em bị chấn thương đầu, Mạng lưới Nghiên cứu Ứng dụng Chăm sóc Cấp cứu Nhi khoa (PECARN) đã phát triển một thuật toán có thể giúp hạn chế phơi nhiễm phóng xạ từ việc chụp CT đầu; quan sát lâm sàng được thực hiện ở những bệnh nhân nhi có thể đã chụp CT.Đánh giá trẻ em từ 0 đến 2 tuổi có chấn thương đầu* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.† Bao gồm các vụ tai nạn xe cơ giới mà bệnh nhân bị văng ra ngoài, có hành khách khác tử vong, hoặc phương tiện bị lật ngược; va chạm của xe cơ giới với người đi bộ hoặc đi xe đạp không đội mũ bảo hiểm; ngã cao>0,9 m đối với trẻ em<2 tuổi; hoặc bị một vật nặng đập vào đầu.​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em>3 tháng tuổi.ED=khoa cấp cứu; GCS=Thang điểm hôn mê Glasgow; LOC=mất ý thức.Phỏng theoKupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.Lancet374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.† Bao gồm các vụ tai nạn xe cơ giới mà bệnh nhân bị văng ra ngoài, có hành khách khác tử vong, hoặc phương tiện bị lật ngược; va chạm của xe cơ giới với người đi bộ hoặc đi xe đạp không đội mũ bảo hiểm; ngã cao>0,9 m đối với trẻ em<2 tuổi; hoặc bị một vật nặng đập vào đầu.​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em>3 tháng tuổi.ED=khoa cấp cứu; GCS=Thang điểm hôn mê Glasgow; LOC=mất ý thức.Phỏng theoKupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.Lancet374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0Đánh giá Trẻ em≥2 tuổi có chấn thương đầu* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.† Bao gồm va chạm xe cơ giới liên quan đến việc đẩy bệnh nhân, hành khách khác tử vong hoặc lật xe; va chạm xe cơ giới với người đi bộ, đi xe đạp không đội mũ bảo hiểm; và độ cao của cú ngã>1,5 m đối với trẻ em≥2 tuổi; và một cú đánh vào đầu bởi một vật có tác động mạnh.​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em>3 tháng tuổi.ED=khoa cấp cứu; GCS=Thang điểm hôn mê Glasgow; LOC=mất ý thức.Phỏng theoKupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.Lancet374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0* Bao gồm kích động, lơ mơ, lặp đi lặp lại câu hỏi, và đáp ứng chậm trong giao tiếp bằng lời nói.† Bao gồm va chạm xe cơ giới liên quan đến việc đẩy bệnh nhân, hành khách khác tử vong hoặc lật xe; va chạm xe cơ giới với người đi bộ, đi xe đạp không đội mũ bảo hiểm; và độ cao của cú ngã>1,5 m đối với trẻ em≥2 tuổi; và một cú đánh vào đầu bởi một vật có tác động mạnh.​‡ Không có dấu hiệu nào khác gợi ý có chấn thương sọ não, ngoại trừ ví dụ như mất ý thức (LOC), đau đầu, nôn ói, và các khối tụ máu da đầu ở trẻ em>3 tháng tuổi.ED=khoa cấp cứu; GCS=Thang điểm hôn mê Glasgow; LOC=mất ý thức.Phỏng theoKupperman N, Holmes JF, Dayan PS, et al for the Pediatric Emergency Care Applied Research Network: Identification of children at very low risk of clinically-important brain injuries after head trauma: A prospective cohort study.Lancet374: 1160-1170, 2009. doi:10.1016/S0140-6736(09)61558-0Patients with suspectedspinal cord injuryshould be imaged using MRI.Chấn thương động mạch chủnên được xem xét ở những bệnh nhân bị chấn thương ngực giảm tốc độ nghiêm trọng hoặc có dấu hiệu gợi ý (ví dụ: mạch không đều hoặc đo huyết áp không đối xứng, thiếu máu cục bộ cơ quan đích, các dấu hiệu gợi ý trên phim chụp X-quang ngực); những bệnh nhân này có thể cần chụp CT mạch hoặc chẩn đoán hình ảnh khác của động mạch chủ. Thuốc chẹn beta tác dụng ngắn có thể được sử dụng để kiểm soát nhịp tim và huyết áp ở bệnh nhân chấn thương động mạch chủ.Tất cả các bệnh nhân nghi ngờ bịchấn thương ngực do vật tầyđáng kể nên được đặt trên máy theo dõi tim và đo điện tâm đồ để phát hiệntổn thương cơ timvàloạn nhịp tim. Bệnh nhân có bất thường trên điện tim thường được làm xét nghiệm định lượng các marker của tim trong máu và đôi khi đượcsiêu âm timđể đánh giá xem có vùng cơ tim bị đụng dập hay không.Cần phải xem xét các tổn thương mạch máu với động mạch cảnh và động mạch đốt sống ở những bệnh nhân bị chấn thương đầu và cổ, đặc biệt là các trường hợp có dấu hiệu thần kinh một bên, dấu hiệu dây an toàn ở cổ (vệt dài bầm máu do dây thắt qua vai), hoặc một tổn thương liên quan (ví dụ gãy đốt C1, C2, hoặc C3; gãy các đốt sống khác kèm trượt đốt sống; hay cơ chế treo) Những bệnh nhân này nên được chụp CT mạch. Những bệnh nhân như vậy thường nênchụp CT mạch.Các phim chụp X-quang thường quy khi nghi ngờ có gãy xương và trật khớp các chi. Các phương tiện chẩn đoán hình ảnh khác được làm tùy theo các chỉ định cụ thể (ví dụ chụp mạch để chẩn đoán và đôi khi dùng làm tắc mạch bị tổnvthương; CT giúp đánh giá tốt hơn đối với cột sống, khung chậu, hoặc các gãy khớp phức tạp).Các xét nghiệm có thể hữu ích bao gồm:Hoàn tất công thức máu để thiết lập giá trị ở lần khám ban đầuĐo nồng độ hemoglobin nhiều lần để đánh giá chảy máuKhí máu xác định áp lực một phần của oxy, áp lực một phần của carbon dioxide, và thiếu hụt bazơTìm máu trong nước tiểuGlucose để đánh giá hạ đường huyếtXác định nhóm máu và chéo máu để truyền máu khi cầnĐông, cầm máuĐánh giá dịch truyền (lactat huyết thanh, mức độ thiếu kiềm trong khí máu động mạch, và đo độ bão hòa Oxy tĩnh mạch trung tâm ở những bệnh nhân có đường truyền tĩnh mạch trung tâm) được chỉ định để giúp xác định sớm hoặc hỗ trợ điều trịsốc. Các xét nghiệm khác (ví dụ các chất điện giải và các chất hóa học khác) ít hữu ích trừ khi có gợi ý liên quan từ tiền sử y khoa (ví dụ, suy thận, sử dụng lợi tiểu).Sàng lọc độc tính (ví dụ: sàng lọc nồng độ cồn trong máu, sàng lọc độc tính trong nước tiểu) thường được thực hiện; kết quả của xét nghiệm này hiếm khi thay đổi cách xử trí ngay lập tức nhưng có thể giúp xác địnhrối loạn sử dụng chất gây nghiệnlà nguyên nhân có thể gây thương tổn, cho phép can thiệp để ngăn ngừa chấn thương tiếp theo.D-Dimer, fibrinogen, và sản phẩm giáng hóa fibrin có thể cần định lượng ở bệnh nhân mang thai bị chấn thương. Kết quả xét nghiệm có thể bất thường ở nhữngbệnh nhân rau bong non; tuy nhiên, các xét nghiệm này không nhạy và cũng không đặc hiệu nên không thể khẳng định chắc chắn hay loại trừ chẩn đoán.Tài liệu tham khảo về đánh giá và điều trị1.Fischer PE, Perina DG, Delbridge TR, et al: Spinal motion restriction in the trauma patient — A Joint Position Statement.Prehosp Emerg Care22(6):659-661, 2018. doi: 10.1080/10903127.2018.14814762.Jeejeebhoy FM, Zelop CM, Lipman S, et al: Cardiac arrest in pregnancy: A scientific statement from the American Heart Association.Circulation132(18):1747-1773, 2015. doi: 10.1161/CIR.00000000000003003.Bouida W, Marghli S, Souissi S, et al: Prediction value of the Canadian CT head rule and the New Orleans criteria for positive head CT scan and acute neurosurgical procedures in minor head trauma: A multicenter external validation study.Ann Emerg Med61(5): 521-527, 2013. doi: 10.1016/j.annemergmed.2012.07.016
+
+--- 4. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.American College of Surgeons Revised Statement on Trauma Center Designation Based Upon System Need and the Economic Drivers Impacting Trauma Systems: This addendum to the 2014 statement was added in June 2021 to address specific issues related to the economic drivers that have an impact on trauma systems.Pediatric Emergency Care Applied Research Network (PECARN): This site provides information about multi-center research on the prevention and management of acute illnesses and injuries in children.
