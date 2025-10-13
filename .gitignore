@@ -24,6 +24,7 @@ rad.json
 TestResults.xml
 
 # Python
+.venv/
 venv/
 __pycache__/
 *.pyc
