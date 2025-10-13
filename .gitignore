@@ -22,3 +22,18 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data_msd/
+chroma_db/
+
+# IDE
+.idea/
+
+# Debug
+*.html
