@@ -1,0 +1,763 @@
+TIÊU ĐỀ: Tổng quan về rối loạn chuyển hóa porphyrin
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/rối-loạn-chuyển-hóa-porphyrin/tổng-quan-về-rối-loạn-chuyển-hóa-porphyrin
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về rối loạn chuyển hóa porphyrin
+
+Theo
+
+Herbert L. Bonkovsky
+
+,
+
+MD
+
+,
+
+Wake Forest University School of Medicine;
+
+Sean R. Rudnick
+
+,
+
+MD
+
+,
+
+Wake Forest University School of Medicine
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 1 2025
+
+v983562_vi
+
+Rối loạn chuyển hóa porphyria là một rối loạn hiếm gặp trong đó có khiếm khuyết ở con đường tổng hợp heme, trong tất cả các loại trừ một loại (rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X), do thiếu hụt enzyme của con đường tổng hợp heme do di truyền hoặc mắc phải. Những thiếu hụt này, cùng với các yếu tố khác, đặc biệt là điều chỉnh tăng bước kiểm soát tỷ lệ đầu tiên và thông thường trong con đường này, khiến cho tiền chất heme tích lũy, gây ra độc tính. Rối loạn chuyển hóa porphyrin được xác định do thiếu hụt một loại enzyme cụ thể hoặc, trong trường hợp rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X, do đột biến tăng chức năng. Có hai biểu hiện lâm sàng chính: bất thường về thần kinh thực vật và thần kinh nội tạng (rối loạn chuyển hóa porphyrin cấp tính) và da nhạy cảm ánh sáng (rối loạn chuyển hóa porphyrin da).
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Chẩn đoán
+
+|
+
+Porphyrin niệu thứ phát
+
+|
+
+Heme, một hợp chất có chứa sắt, là một đồng yếu tố cần thiết của nhiều hemoprotein. Hầu như tất cả các tế bào của cơ thể người đều cần và tổng hợp heme. Tuy nhiên, hầu hết heme (~85%) được tổng hợp trong tủy xương (bởi nguyên hồng cầu và hồng cầu lưới) và được kết hợp thành huyết sắc tố. Gan là vị trí tích cực thứ hai tổng hợp heme, hầu hết được kết hợp với các enzyme cytochrome P-450. Tổng hợp Heme cần 8 enzyme (xem bảng
+
+Chất nền và Enzyme của con đường tổng hợp Heme
+
+). Các enzyme này tạo ra và biến đổi các loại phân tử đặc biệt gọi là sinh porphyrinogen hoặc porphyrin (và tiền thân của các chất này); quá trình tích tụ của các chất này gây ra biểu hiện lâm sàng của rối loạn chuyển hóa porphyrin.
+
+Nguyên nhân rối loạn chuyển hóa porphyrin
+
+Ngoại trừ loại
+
+rối loạn chuyển hóa pocphirin biểu hiện da muộn
+
+lẻ tẻ (PCT, cũng có một loại di truyền), rối loạn chuyển hóa porphyrin là bệnh di truyền. Di truyền gen trội nhiễm sắc thể thường là phổ biến nhất.
+
+Trong
+
+rối loạn chuyển hóa porphyrin gen trội trên nhiễm sắc thể thường
+
+, các trạng thái dị đồng hợp tử hoặc trạng thái dị hợp tử kép (tức là 2 đột biến dị hợp tử riêng biệt, một đột biến ở mỗi allele của cùng một gen trên cùng một bệnh nhân) có thể không tương thích với sự sống, thường gây tử vong cho thai nhi. Bệnh xâm nhập qua gen dị hợp tử; do đó, biểu hiện lâm sàng của bệnh ít phổ biến hơn so với tần suất kiểu gen. Porphyria cấp tính từng đợt (AIP) và PCT là những dạng rối loạn chuyển hóa porphyrin phổ biến nhất. Trong số 2 rối loạn chuyển hóa porphyrin phổ biến nhất, rối loạn chuyển hóa porphyrin cấp tính từng đợt (AIP) là do gen trội trên nhiễm sắc thể thường khoảng 20% số trường hợp PCT là do gen trội trên nhiễm sắc thể thường. Tỷ lệ PCT khoảng 1/10.000. Tần suất của đột biến gen gây ra AIP là khoảng 1/1500, nhưng vì sự thâm nhập thấp, tỷ lệ bệnh lâm sàng cũng khoảng 1/10.000. Tỷ lệ hiện mắc của cả PCT và AIP thay đổi rất nhiều giữa các vùng và nhóm dân tộc (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+,
+
+4
+
+).
+
+Trong
+
+rối loạn chuyển hóa porphyrin gen lặn trên nhiễm sắc thể thường
+
+, chỉ có các trạng thái đồng hợp tử hoặc phức hợp dị hợp tử kép gây bệnh.
+
+Erythropoietic protoporphyria
+
+, loại rối loạn chuyển hóa porphyrin phổ biến thứ 3, là bệnh di truyền gen lặn trên nhiễm sắc thể thường.
+
+Di truyền liên kết nhiễm sắc thể X xảy ra ở một trong những dạng rối loạn chuyển hóa porphyrin,
+
+rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X
+
+(XLP), trong đó có các đột biến tăng chức năng, thường là đột biến mất đoạn ở exon 11 của gen
+
+ALAS2
+
+.
+
+Bảng
+
+Cơ chất và enzyme của con đường tổng hợp Heme và các bệnh liên quan đến sự thiếu hụt hoặc tăng chức năng của các chất này
+
+Bảng
+
+Cơ chất và enzyme của con đường tổng hợp Heme và các bệnh liên quan đến sự thiếu hụt hoặc tăng chức năng của các chất này
+
+Cơ chất và enzyme của con đường tổng hợp Heme và các bệnh liên quan đến sự thiếu hụt hoặc tăng chức năng của các chất này
+
+Cơ chất/
+
+Enzym
+
+*
+
+Porphyria
+
+Triệu chứng thần kinh
+
+Triệu chứng da
+
+Di truyền
+
+Glycine
+
++
+
+succinyl coenzyme A
+
+Synthase
+
+đặc hiệu hồng cầu 2 (ALAS 2)
+
+†
+
+Rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X (do
+
+tăng
+
+hoạt tính của enzyme)†
+
+Không
+
+Kiểu hình tương tự như rối loạn chuyển hóa protoporphyrin tạo hồng cầu
+
+Liên kết nhiễm sắc thể X
+
+Axit delta-aminolevulinic
+
+Delta-
+
+dehydratase (ALAD) (còn gọi là porphobilinogen [PBG] synthase)
+
+Porphyria thiếu hụt ALAD
+
+Có
+
+Không
+
+Tính trạng lặn thường
+
+Porphobilinogen
+
+Porphobilinogen deaminase (còn gọi là hydroxymethylbilane synthase)
+
+Porphyria cấp tính từng cơn
+
+Có
+
+Không
+
+Tính trạng trội
+
+Hydroxymethylbilane
+
+Uroporphyrinogen III cosynthase
+
+Rối loạn chuyển hóa porphyrin tạo hồng cầu bẩm sinh
+
+Không
+
+Tổn thương da trầm trọng.
+
+Tính trạng lặn thường
+
+Uroporphyrinogen III
+
+Uroporphyrinogen decarboxylase
+
+Porphyria cutanea tarda
+
+Không
+
+Da mỏng manh, mụn nước, bọng nước
+
+Hai biến thể:
+
+Đột biến trội nhiễm sắc thể thường (20-25% trường hợp)
+
+Không có mối liên hệ di truyền đã biết (lẻ tẻ, 75-80%)
+
+Rối loạn chuyển hóa porphyrin tạo hồng cầu ở gan
+
+Không
+
+Mụn nước nặng từ thời thơ ấu; thường biến dạng
+
+Tính trạng lặn thường
+
+Coproporphyrinogen III
+
+Copolyme coproporphyrinogen
+
+Coproporphyria di truyền
+
+Có
+
+Da dễ vỡ, phồng rộp
+
+Tính trạng trội
+
+Protoporphyrinogen IX
+
+Protoporphyrinogen oxidase
+
+Variegate porphyria
+
+Có
+
+Da dễ vỡ, phồng rộp
+
+Tính trạng trội
+
+Protoporphyrin IX
+
+Ferrochelatase
+
+Protoporphyria tạo hồng cầu
+
+Không, ngoại trừ bệnh nhân bị bệnh lý gan mật nặng
+
+Da đau, sưng, đỏ; lichen hóa và những thay đổi nhỏ khác trên da, nhưng không có mụn nước
+
+Tính trạng lặn thường
+
+Heme (sản phẩm cuối cùng được kết hợp trong các protein heme khác nhau)
+
+—
+
+—
+
+—
+
+—
+
+* Được liệt kê là các chất trung gian nối tiếp nhau trong con đường sinh tổng hợp heme, bắt đầu bằng
+
+glycine
+
+và succinyl CoA và kết thúc bằng heme. Thiếu enzyme gây ra sự tích tụ của các hợp chất tiền thân.
+
+† Rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X là kết quả từ các đột biến chức năng làm
+
+tăng
+
+hoạt động của ALAS 2, gây ra sự tích tụ protoporphyrin.
+
+Giảm
+
+hoạt động của ALAS 2 gây ra
+
+thiếu máu nguyên bào sắt
+
+.
+
+* Được liệt kê là các chất trung gian nối tiếp nhau trong con đường sinh tổng hợp heme, bắt đầu bằng
+
+glycine
+
+và succinyl CoA và kết thúc bằng heme. Thiếu enzyme gây ra sự tích tụ của các hợp chất tiền thân.
+
+† Rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X là kết quả từ các đột biến chức năng làm
+
+tăng
+
+hoạt động của ALAS 2, gây ra sự tích tụ protoporphyrin.
+
+Giảm
+
+hoạt động của ALAS 2 gây ra
+
+thiếu máu nguyên bào sắt
+
+.
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Chen B, Solis-Villa C, Hakenberg J, et al
+
+. Acute Intermittent Porphyria: Predicted Pathogenicity of HMBS Variants Indicates Extremely Low Penetrance of the Autosomal Dominant Disease. Hum Mutat. 2016;37(11):1215-1222. doi:10.1002/humu.23067
+
+2.
+
+Chen B, Whatley S, Badminton M, et al
+
+. International Porphyria Molecular Diagnostic Collaborative: an evidence-based database of verified pathogenic and benign variants for the porphyrias.
+
+Genet Med
+
+2019;21(11):2605-2613. doi:10.1038/s41436-019-0537-7
+
+3.
+
+Elder G, Harper P, Badminton M, Sandberg S, Deybach JC
+
+. The incidence of inherited porphyrias in Europe.
+
+J Inherit Metab Dis
+
+2013;36(5):849-857. doi:10.1007/s10545-012-9544-4
+
+4.
+
+Yasuda M, Chen B, Desnick RJ
+
+. Recent advances on porphyria genetics: Inheritance, penetrance & molecular heterogeneity, including new modifying/causative genes.
+
+Mol Genet Metab
+
+2019;128(3):320-331. doi:10.1016/j.ymgme.2018.11.012
+
+Sinh lý bệnh của rối loạn chuyển hóa porphyrin
+
+Rối loạn chuyển hóa porphyrin là kết quả của sự thiếu hụt bất kỳ enzyme nào trong 7 enzyme cuối cùng của con đường tổng hợp heme hoặc từ
+
+tăng
+
+hoạt tính dạng hồng cầu của enzyme đầu tiên trong con đường, ALA synthase-2 (ALAS 2). (
+
+Sự thiếu hụt
+
+protein ALAS 2 gây
+
+thiếu máu nguyên bào sắt
+
+hơn là bệnh porphyria). Các gen đơn mã hóa từng enzym; bất kỳ một số đột biến có thể làm thay đổi mức độ và/hoặc hoạt động của enzyme được mã hoá bởi gen đó. Khi một enzyme tổng hợp heme bị thiếu hoặc khiếm khuyết, cơ chất của nó và các chất tiền thân khác của heme được biến đổi bởi enzyme đó có thể tích tụ trong tủy xương, gan, da, hoặc các mô khác và gây độc. Những tiền chất này có thể xuất hiện dư thừa trong máu và được bài tiết qua nước tiểu, mật, hoặc phân.
+
+Mặc dù rối loạn chuyển hóa porphyrin được xác định chính xác nhất theo loại enzyme bị thiếu hụt, việc phân loại theo vị trí chính sản xuất quá mức tiền chất heme (tế bào gan hoặc hồng cầu) hoặc các đặc điểm lâm sàng chính (cấp tính hoặc da) thường hữu ích.
+
+Rối loạn chuyển hóa porphyrin cấp tính
+
+biểu hiện dưới dạng các cơn đau dữ dội ngắt quãng. Thông thường bệnh nhân có các triệu chứng về bụng, tâm thần và thần kinh. Các cơn cấp tính thường xảy ra do thời gian nhịn ăn hoặc ăn kiêng khắc nghiệt, uống quá nhiều rượu, dùng thuốc, mắc bệnh khác, căng thẳng trong cuộc sống và các yếu tố ngoại sinh khác. Ở phụ nữ trẻ, hoạt động nội tiết tố theo chu kỳ cũng là yếu tố khởi phát điển hình của các cơn cấp.
+
+Rối loạn chuyển hóa porphyrin da
+
+có xu hướng gây ra các triệu chứng liên tục hoặc không liên tục liên quan đến tình trạng nhạy cảm với ánh sáng ở da. Một số thể rối loạn chuyển hóa porphyrin cấp tính (coproporphyria di truyền, porphyria rải rác) cũng có thể có biểu hiện trên da. Do khả năng thâm nhập khác nhau trong rối loạn chuyển hóa porphyrin dị hợp tử, bệnh biểu hiện trên lâm sàng ít phổ biến hơn so với bệnh do di truyền (xem bảng
+
+Các đặc điểm chính của hai dạng rối loạn chuyển hóa porphyrin gan phổ biến nhất
+
+).
+
+Đổi màu nước tiểu
+
+(đỏ hoặc nâu đỏ) có thể xảy ra trong giai đoạn có triệu chứng của tất cả các dạng rối loạn chuyển hóa porphyria ngoại trừ rối loạn chuyển hóa protoporphyrin tạo hồng cầu (EPP) và rối loạn chuyển hóa porphyrin do thiếu hụt ALAD. Tình trạng đổi màu do quá trình oxy hóa các porphyrinogen thành các porphyrin tương ứng, porphyrin tiền chất của porphobilinogen (PBG), hoặc cả hai. Đôi khi màu sắc thay đổi sau khi nước tiểu đã ở trong không khí hoặc ánh sáng trong vài phút, cho phép thời gian cho quá trình oxy hóa không enzym. Trong rối loạn chuyển hóa porphyrin cấp tính, ngoại trừ rối loạn chuyển hóa porphyrin do thiếu ALAD, khoảng 1 trong 3 trường hợp dị hợp tử (thường gặp ở nữ giới hơn nam giới) cũng có tình trạng tăng bài tiết PBG qua nước tiểu (và đổi màu nước tiểu) trong giai đoạn tiềm ẩn. Vì có nhiều nguyên nhân khác khiến nước tiểu chuyển từ màu hồng sang màu nâu, đặc biệt là sau khi tiếp xúc với ánh sáng và không khí, nên phát hiện này, mặc dù hữu ích như một manh mối để gợi ý chẩn đoán rối loạn chuyển hóa porphyrin, nhưng không cần thiết hoặc không đủ để xác định hoặc loại trừ chẩn đoán. Các chỉ số đo sinh hóa là cần thiết để chẩn đoán chính xác.
+
+Bảng
+
+Các đặc điểm chính của hai bệnh rối loạn chuyển hóa porphyrin ở gan phổ biến nhất
+
+Bảng
+
+Các đặc điểm chính của hai bệnh rối loạn chuyển hóa porphyrin ở gan phổ biến nhất
+
+Các đặc điểm chính của hai bệnh rối loạn chuyển hóa porphyrin ở gan phổ biến nhất
+
+Porphyria
+
+Các triệu chứng biểu hiện
+
+Các yếu tố làm trầm trọng thêm
+
+Các xét nghiệm tầm soát quan trọng nhất*
+
+Điều trị
+
+Porphyria cấp tính từng cơn
+
+Nội tại thần kinh (liên tục, cấp tính)
+
+Uống rượu
+
+Nhịn ăn/ăn kiêng khắc nghiệt
+
+Phẫu thuật nối tắt dạ dày hoặc phẫu thuật nối tắt
+
+Nhiễm trùng
+
+Các thuốc (chủ yếu là các thuốc gây cảm ứng cytochrome P-450)
+
+Dung môi hữu cơ
+
+Căng thẳng về thể chất hoặc cảm xúc/bệnh lý đi kèm
+
+Progesterone
+
+/ progestogens
+
+PBG và creatinine niệu†
+
+Glucose
+
+Heme
+
+Givosiran
+
+Porphyria cutanea tarda
+
+các tổn thương da phồng rộp (mạn tính)
+
+Uống rượu
+
+Estrogens
+
+Hydrocarbon halogen hóa
+
+Vi rút viêm gan C
+
+HIV
+
+Sắt
+
+Hút thuốc
+
+Porphyrin huyết thanh hoặc nước tiểu
+
+Thuốc kháng vi-rút tác động trực tiếp để chữa nhiễm vi-rút viêm gan C
+
+Liều thấp chloroquine hoặc hydroxychloroquine
+
+Rút máu tĩnh mạch
+
+* Trong giai đoạn có triệu chứng.
+
+† Creatinine được dùng để làm cho nồng độ PBG trong nước tiểu trở về bình thường vì độ pha loãng của nước tiểu thay đổi.
+
+PBG
+
+=
+
+porphobilinogen.
+
+* Trong giai đoạn có triệu chứng.
+
+† Creatinine được dùng để làm cho nồng độ PBG trong nước tiểu trở về bình thường vì độ pha loãng của nước tiểu thay đổi.
+
+PBG
+
+=
+
+porphobilinogen.
+
+Chẩn đoán rối loạn chuyển hóa porphyrin
+
+Xét nghiệm máu hoặc nước tiểu
+
+Bệnh nhân có các triệu chứng cho thấy rối loạn chuyển hóa porphyrin sẽ được sàng lọc bằng xét nghiệm máu hoặc xét nghiệm nước tiểu để tìm porphyrin hoặc các tiền chất porphyrin là porphobilinogen (PBG) và
+
+axit delta-aminolevulinic
+
+(ALA) (xem bảng
+
+Xét nghiệm sàng lọc và xác nhận rối loạn chuyển hóa porphyrin
+
+). Các kết quả bất thường trên sàng lọc được xác nhận bằng các xét nghiệm thêm.
+
+Những bệnh nhân không có triệu chứng, bao gồm những người nghi ngờ mang bệnh và những người đang trong thời gian giữa các cơn bệnh, cũng được đánh giá tương tự. Tuy nhiên, các xét nghiệm này ít nhạy cảm trong những trường hợp này; đo lường hoạt động enzyme hồng cầu hoặc bạch cầu được cân nhắc là nhạy cảm hơn. Tuy nhiên, các xét nghiệm đối với nhiều enzyme của con đường (ví dụ: uroporphyrinogen III cosynthase [urogen 3 synthase], coproporphyrinogen oxidase [CPOX], protoporphyrinogen oxidase [PPOX], ferrochelatase [FECH]) thường không có trên thị trường.
+
+Phân tích di truyền là rất chính xác và ưu tiên sử dụng trong các gia đình khi đột biến được xác định. Xét nghiệm di truyền sẽ tiết lộ các đột biến liên quan đến bệnh đã biết ở hầu hết bệnh nhân mắc chứng rối loạn chuyển hóa porphyrin di truyền; tuy nhiên, trong một tỷ lệ nhỏ (~1%) bệnh nhân bị ảnh hưởng về mặt lâm sàng và sinh hóa, xét nghiệm di truyền sẽ không phát hiện ra đột biến gây bệnh. Do đó, việc chẩn đoán chính xác tiếp tục đòi hỏi sự tích hợp chu đáo của các kết quả lâm sàng, sinh hóa và di truyền. Xét nghiệm tiền sản (chọc ối hoặc lấy mẫu tế bào biểu mô màng đệm) có thể làm nhưng hiếm khi được chỉ định.
+
+Bảng
+
+Xét nghiệm sàng lọc và xác nhận bệnh rối loạn chuyển hóa porphyrin
+
+Bảng
+
+Xét nghiệm sàng lọc và xác nhận bệnh rối loạn chuyển hóa porphyrin
+
+Xét nghiệm sàng lọc và xác nhận bệnh rối loạn chuyển hóa porphyrin
+
+Xét nghiệm
+
+Ở người bệnh có triệu chứng thần kinh cấp tính
+
+Ở bệnh nhân nhạy cảm với ánh sáng
+
+Sàng lọc
+
+ALA, PBG, creatinine trong nước tiểu (mẫu nước tiểu ngẫu nhiên)
+
+*
+
+Porphyrin huyết tương†
+
+Xác nhận (khi kết quả xét nghiệm tầm soát có bất thường điển hình)
+
+ALA, PBG và creatinine trong nước tiểu (xét nghiệm định lượng)*
+
+Porphyrin trong phân và trong nước tiểu
+
+†
+
+PBG deaminase tế bào hồng cầu
+
+Porphyrin huyết tương†
+
+Xét nghiệm di truyền
+
+Porphyrin trong hồng cầu (toàn phần và không có kim loại)
+
+ALA, PBG, porphyrin và creatinine trong nước tiểu (định lượng)
+
+*
+
+Porphyrin trong phân
+
+‡
+
+Porphyrin huyết tương†
+
+Xét nghiệm di truyền
+
+* Kết quả được hiệu chỉnh theo nồng độ creatinin trong nước tiểu.
+
+†
+
+Phương pháp được ưa chuộng nhất là phương pháp quang phổ huỳnh quang trực tiếp.
+
+‡
+
+Porphyrin trong nước tiểu và trong phân chỉ được phân đoạn nếu porphyrin toàn phần tăng lên.
+
+Dữ liệu từ
+
+Wang B, Bonkovsky HL, Lim JK, Balwani M
+
+. AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.
+
+Gastroenterology
+
+2023;164(3):484-491. doi:10.1053/j.gastro.2022.11.034
+
+ALA
+
+=
+
+axit delta-aminolevulinic
+
+; PBG
+
+=
+
+porphobilinogen.
+
+* Kết quả được hiệu chỉnh theo nồng độ creatinin trong nước tiểu.
+
+†
+
+Phương pháp được ưa chuộng nhất là phương pháp quang phổ huỳnh quang trực tiếp.
+
+‡
+
+Porphyrin trong nước tiểu và trong phân chỉ được phân đoạn nếu porphyrin toàn phần tăng lên.
+
+Dữ liệu từ
+
+Wang B, Bonkovsky HL, Lim JK, Balwani M
+
+. AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.
+
+Gastroenterology
+
+2023;164(3):484-491. doi:10.1053/j.gastro.2022.11.034
+
+ALA
+
+=
+
+axit delta-aminolevulinic
+
+; PBG
+
+=
+
+porphobilinogen.
+
+Porphyrin niệu thứ phát
+
+Một số bệnh không liên quan đến rối loạn chuyển hóa porphyrin có thể liên quan đến việc tình trạng bài tiết porphyrin qua nước tiểu; hiện tượng này được mô tả như porphyrin niệu thứ phát.
+
+Các rối loạn huyết học, bệnh gan mật, và độc tố (ví dụ như rượu, benzen, chì) có thể làm bài tiết coproporphyrin trong nước tiểu tăng lên. Tăng bài tiết coproporphyrin trong nước tiểu có thể xảy ra trong bất kỳ rối loạn gan mật nào vì mật là một trong những con đường bài tiết porphyrin. Một số lượng lớn thuốc và hóa chất ức chế các chất vận chuyển anion hữu cơ, thường vận chuyển porphyrin, đặc biệt là coproporphyrin, vào mật; các ví dụ phổ biến bao gồm artesunate, balsalazide, benazepril, chlorpropamide, các corticosteroid, demeclocycline, diflunisal, flavonoid, irbesartan, axit mefenamic, nitazoxanide, penciclovir, probenecid, rifampicin, rosuvastatin, stiripentol, telmisartan và valsartan, trong những chất khác (
+
+1, 2
+
+). Những loại thuốc đó cũng có thể dẫn đến tăng bài tiết porphyrin trong nước tiểu. Một số loại thuốc cũng có thể khiến cho enzyme cytochrome P450 có hoạt tính, dẫn đến tình trạng cảm ứng nhẹ ALAS-1 và sau đó làm tăng coproporphyrin ở gan đồng thời làm tăng porphyrin trong nước tiểu. Uroporphyrin cũng có thể tăng lên ở bệnh nhân rối loạn mật gan. Protoporphyrin không được bài tiết qua nước tiểu vì nó không tan trong nước.
+
+Các rối loạn gây ra porphyrin niệu thứ phát (cũng như các rối loạn gây ra các hội chứng lâm sàng giống rối loạn chuyển hóa porphyrin cấp tính) thường không làm tăng nồng độ ALA và PBG trong nước tiểu, do đó, nồng độ ALA và PBG bình thường giúp phân biệt porphyrin niệu thứ phát với rối loạn chuyển hóa porphyrin cấp tính. Tuy nhiên, một số bệnh nhân bị
+
+ngộ độc chì
+
+có thể có nồng độ ALA trong nước tiểu tăng. Nồng độ chì trong máu nên được đo ở những bệnh nhân như vậy. Nếu ALA và PBG niệu bình thường hoặc chỉ tăng nhẹ, đo nồng độ porphyrin toàn phần trong nước tiểu và số liệu sắc ký lỏng hiệu suất cao của các porphyrin này rất hữu ích cho chẩn đoán phân biệt các hội chứng porphyric cấp.
+
+Coproporphyrin (CP) I và III cùng với các chất chỉ điểm sinh học khác có thể có tác dụng như các chất chỉ điểm sinh học chọn lọc và nhạy cảm đối với một số tương tác giữa các thuốc nhất định (
+
+3, 4, 5, 6
+
+). Ngoài ra, CP I và III là những chất chỉ điểm sinh học tiềm năng có thể theo dõi tiến triển của viêm gan nhiễm mỡ liên quan đến rối loạn chuyển hóa (
+
+7
+
+).
+
+Tài liệu tham khảo về porphyrin niệu thứ phát
+
+1.
+
+An G, Wang X, Morris ME
+
+: Flavonoids are inhibitors of human organic anion transporter 1 (OAT1)-mediated transport.
+
+Drug Metab Dispos
+
+42(9):1357–1366, 2014. doi: 10.1124/dmd.114.059337
+
+2.
+
+Duan P, Li S, Ni A, et al
+
+: Potent inhibitors of human organic anion transporters 1 and 3 from clinical drug libraries: Discovery and molecular characterization.
+
+Mol Pharm
+
+9(11):3340–3346, 2012. doi: 10.1021/mp300365t
+
+3.
+
+Barnett S, Ogungbenro K, Ménochet K, et al
+
+: Comprehensive evaluation of the utility of 20 endogenous molecules as biomarkers of OATP1B inhibition compared with
+
+rosuvastatin
+
+and coproporphyrin I.
+
+J Pharmacol Exp Ther
+
+368(1):125–135, 2019 doi:10.1124/jpet.118.253062
+
+4.
+
+Barnett S, Ogungbenro K, Ménochet K, et al
+
+: Gaining mechanistic insight into coproporphyrin I as endogenous biomarker for OATP1B-mediated drug-drug interactions using population pharmacokinetic modeling and simulation.
+
+Clin Pharmacol Ther
+
+104(3):564–574, 2018 doi:10.1002/cpt.983
+
+5.
+
+Kunze A, Ediage EN, Dillen L, et al
+
+: Clinical investigation of coproporphyrins as sensitive biomarkers to predict mild to strong OATP1B-mediated drug-drug interactions.
+
+Clin Pharmacokinet
+
+57(12):1559–1570, 2018 doi:10.1007/s40262-018-0648-3
+
+6.
+
+Shen H, Christopher L, Lai Y, et al
+
+: Further studies to support the use of coproporphyrin I and III as novel clinical biomarkers for evaluating the potential for organic anion transporting polypeptide 1B1 and OATP1B3 inhibition.
+
+Drug Metab Dispos
+
+46(8):1075–1082, 2018 doi:10.1124/dmd.118.081125
+
+7.
+
+Chatterjee S, Mukherjee S, Sankara Sivaprasad LVJ, et al
+
+: Transporter activity changes in nonalcoholic steatohepatitis: Assessment with plasma coproporphyrin I and III.
+
+J Pharmacol Exp Ther
+
+376(1):29–39, 2021 doi:10.1124/jpet.120.000291
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân rối loạn chuyển hóa porphyrin ---
+
+Ngoại trừ loạirối loạn chuyển hóa pocphirin biểu hiện da muộnlẻ tẻ (PCT, cũng có một loại di truyền), rối loạn chuyển hóa porphyrin là bệnh di truyền. Di truyền gen trội nhiễm sắc thể thường là phổ biến nhất.Trongrối loạn chuyển hóa porphyrin gen trội trên nhiễm sắc thể thường, các trạng thái dị đồng hợp tử hoặc trạng thái dị hợp tử kép (tức là 2 đột biến dị hợp tử riêng biệt, một đột biến ở mỗi allele của cùng một gen trên cùng một bệnh nhân) có thể không tương thích với sự sống, thường gây tử vong cho thai nhi. Bệnh xâm nhập qua gen dị hợp tử; do đó, biểu hiện lâm sàng của bệnh ít phổ biến hơn so với tần suất kiểu gen. Porphyria cấp tính từng đợt (AIP) và PCT là những dạng rối loạn chuyển hóa porphyrin phổ biến nhất. Trong số 2 rối loạn chuyển hóa porphyrin phổ biến nhất, rối loạn chuyển hóa porphyrin cấp tính từng đợt (AIP) là do gen trội trên nhiễm sắc thể thường khoảng 20% số trường hợp PCT là do gen trội trên nhiễm sắc thể thường. Tỷ lệ PCT khoảng 1/10.000. Tần suất của đột biến gen gây ra AIP là khoảng 1/1500, nhưng vì sự thâm nhập thấp, tỷ lệ bệnh lâm sàng cũng khoảng 1/10.000. Tỷ lệ hiện mắc của cả PCT và AIP thay đổi rất nhiều giữa các vùng và nhóm dân tộc (1,2,3,4).Trongrối loạn chuyển hóa porphyrin gen lặn trên nhiễm sắc thể thường, chỉ có các trạng thái đồng hợp tử hoặc phức hợp dị hợp tử kép gây bệnh.Erythropoietic protoporphyria, loại rối loạn chuyển hóa porphyrin phổ biến thứ 3, là bệnh di truyền gen lặn trên nhiễm sắc thể thường.Di truyền liên kết nhiễm sắc thể X xảy ra ở một trong những dạng rối loạn chuyển hóa porphyrin,rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X(XLP), trong đó có các đột biến tăng chức năng, thường là đột biến mất đoạn ở exon 11 của genALAS2.BảngCơ chất và enzyme của con đường tổng hợp Heme và các bệnh liên quan đến sự thiếu hụt hoặc tăng chức năng của các chất nàyBảngCơ chất và enzyme của con đường tổng hợp Heme và các bệnh liên quan đến sự thiếu hụt hoặc tăng chức năng của các chất nàyCơ chất và enzyme của con đường tổng hợp Heme và các bệnh liên quan đến sự thiếu hụt hoặc tăng chức năng của các chất nàyCơ chất/Enzym*PorphyriaTriệu chứng thần kinhTriệu chứng daDi truyềnGlycine+succinyl coenzyme ASynthaseđặc hiệu hồng cầu 2 (ALAS 2)†Rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X (dotănghoạt tính của enzyme)†KhôngKiểu hình tương tự như rối loạn chuyển hóa protoporphyrin tạo hồng cầuLiên kết nhiễm sắc thể XAxit delta-aminolevulinicDelta-dehydratase (ALAD) (còn gọi là porphobilinogen [PBG] synthase)Porphyria thiếu hụt ALADCóKhôngTính trạng lặn thườngPorphobilinogenPorphobilinogen deaminase (còn gọi là hydroxymethylbilane synthase)Porphyria cấp tính từng cơnCóKhôngTính trạng trộiHydroxymethylbilaneUroporphyrinogen III cosynthaseRối loạn chuyển hóa porphyrin tạo hồng cầu bẩm sinhKhôngTổn thương da trầm trọng.Tính trạng lặn thườngUroporphyrinogen IIIUroporphyrinogen decarboxylasePorphyria cutanea tardaKhôngDa mỏng manh, mụn nước, bọng nướcHai biến thể:Đột biến trội nhiễm sắc thể thường (20-25% trường hợp)Không có mối liên hệ di truyền đã biết (lẻ tẻ, 75-80%)Rối loạn chuyển hóa porphyrin tạo hồng cầu ở ganKhôngMụn nước nặng từ thời thơ ấu; thường biến dạngTính trạng lặn thườngCoproporphyrinogen IIICopolyme coproporphyrinogenCoproporphyria di truyềnCóDa dễ vỡ, phồng rộpTính trạng trộiProtoporphyrinogen IXProtoporphyrinogen oxidaseVariegate porphyriaCóDa dễ vỡ, phồng rộpTính trạng trộiProtoporphyrin IXFerrochelataseProtoporphyria tạo hồng cầuKhông, ngoại trừ bệnh nhân bị bệnh lý gan mật nặngDa đau, sưng, đỏ; lichen hóa và những thay đổi nhỏ khác trên da, nhưng không có mụn nướcTính trạng lặn thườngHeme (sản phẩm cuối cùng được kết hợp trong các protein heme khác nhau)————* Được liệt kê là các chất trung gian nối tiếp nhau trong con đường sinh tổng hợp heme, bắt đầu bằngglycinevà succinyl CoA và kết thúc bằng heme. Thiếu enzyme gây ra sự tích tụ của các hợp chất tiền thân.† Rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X là kết quả từ các đột biến chức năng làmtănghoạt động của ALAS 2, gây ra sự tích tụ protoporphyrin.Giảmhoạt động của ALAS 2 gây rathiếu máu nguyên bào sắt.* Được liệt kê là các chất trung gian nối tiếp nhau trong con đường sinh tổng hợp heme, bắt đầu bằngglycinevà succinyl CoA và kết thúc bằng heme. Thiếu enzyme gây ra sự tích tụ của các hợp chất tiền thân.† Rối loạn chuyển hóa protoporphyrin liên kết nhiễm sắc thể X là kết quả từ các đột biến chức năng làmtănghoạt động của ALAS 2, gây ra sự tích tụ protoporphyrin.Giảmhoạt động của ALAS 2 gây rathiếu máu nguyên bào sắt.Tài liệu tham khảo về căn nguyên1.Chen B, Solis-Villa C, Hakenberg J, et al. Acute Intermittent Porphyria: Predicted Pathogenicity of HMBS Variants Indicates Extremely Low Penetrance of the Autosomal Dominant Disease. Hum Mutat. 2016;37(11):1215-1222. doi:10.1002/humu.230672.Chen B, Whatley S, Badminton M, et al. International Porphyria Molecular Diagnostic Collaborative: an evidence-based database of verified pathogenic and benign variants for the porphyrias.Genet Med2019;21(11):2605-2613. doi:10.1038/s41436-019-0537-73.Elder G, Harper P, Badminton M, Sandberg S, Deybach JC. The incidence of inherited porphyrias in Europe.J Inherit Metab Dis2013;36(5):849-857. doi:10.1007/s10545-012-9544-44.Yasuda M, Chen B, Desnick RJ. Recent advances on porphyria genetics: Inheritance, penetrance & molecular heterogeneity, including new modifying/causative genes.Mol Genet Metab2019;128(3):320-331. doi:10.1016/j.ymgme.2018.11.012
+
+--- 2. Sinh lý bệnh của rối loạn chuyển hóa porphyrin ---
+
+Rối loạn chuyển hóa porphyrin là kết quả của sự thiếu hụt bất kỳ enzyme nào trong 7 enzyme cuối cùng của con đường tổng hợp heme hoặc từtănghoạt tính dạng hồng cầu của enzyme đầu tiên trong con đường, ALA synthase-2 (ALAS 2). (Sự thiếu hụtprotein ALAS 2 gâythiếu máu nguyên bào sắthơn là bệnh porphyria). Các gen đơn mã hóa từng enzym; bất kỳ một số đột biến có thể làm thay đổi mức độ và/hoặc hoạt động của enzyme được mã hoá bởi gen đó. Khi một enzyme tổng hợp heme bị thiếu hoặc khiếm khuyết, cơ chất của nó và các chất tiền thân khác của heme được biến đổi bởi enzyme đó có thể tích tụ trong tủy xương, gan, da, hoặc các mô khác và gây độc. Những tiền chất này có thể xuất hiện dư thừa trong máu và được bài tiết qua nước tiểu, mật, hoặc phân.Mặc dù rối loạn chuyển hóa porphyrin được xác định chính xác nhất theo loại enzyme bị thiếu hụt, việc phân loại theo vị trí chính sản xuất quá mức tiền chất heme (tế bào gan hoặc hồng cầu) hoặc các đặc điểm lâm sàng chính (cấp tính hoặc da) thường hữu ích.Rối loạn chuyển hóa porphyrin cấp tínhbiểu hiện dưới dạng các cơn đau dữ dội ngắt quãng. Thông thường bệnh nhân có các triệu chứng về bụng, tâm thần và thần kinh. Các cơn cấp tính thường xảy ra do thời gian nhịn ăn hoặc ăn kiêng khắc nghiệt, uống quá nhiều rượu, dùng thuốc, mắc bệnh khác, căng thẳng trong cuộc sống và các yếu tố ngoại sinh khác. Ở phụ nữ trẻ, hoạt động nội tiết tố theo chu kỳ cũng là yếu tố khởi phát điển hình của các cơn cấp.Rối loạn chuyển hóa porphyrin dacó xu hướng gây ra các triệu chứng liên tục hoặc không liên tục liên quan đến tình trạng nhạy cảm với ánh sáng ở da. Một số thể rối loạn chuyển hóa porphyrin cấp tính (coproporphyria di truyền, porphyria rải rác) cũng có thể có biểu hiện trên da. Do khả năng thâm nhập khác nhau trong rối loạn chuyển hóa porphyrin dị hợp tử, bệnh biểu hiện trên lâm sàng ít phổ biến hơn so với bệnh do di truyền (xem bảngCác đặc điểm chính của hai dạng rối loạn chuyển hóa porphyrin gan phổ biến nhất).Đổi màu nước tiểu(đỏ hoặc nâu đỏ) có thể xảy ra trong giai đoạn có triệu chứng của tất cả các dạng rối loạn chuyển hóa porphyria ngoại trừ rối loạn chuyển hóa protoporphyrin tạo hồng cầu (EPP) và rối loạn chuyển hóa porphyrin do thiếu hụt ALAD. Tình trạng đổi màu do quá trình oxy hóa các porphyrinogen thành các porphyrin tương ứng, porphyrin tiền chất của porphobilinogen (PBG), hoặc cả hai. Đôi khi màu sắc thay đổi sau khi nước tiểu đã ở trong không khí hoặc ánh sáng trong vài phút, cho phép thời gian cho quá trình oxy hóa không enzym. Trong rối loạn chuyển hóa porphyrin cấp tính, ngoại trừ rối loạn chuyển hóa porphyrin do thiếu ALAD, khoảng 1 trong 3 trường hợp dị hợp tử (thường gặp ở nữ giới hơn nam giới) cũng có tình trạng tăng bài tiết PBG qua nước tiểu (và đổi màu nước tiểu) trong giai đoạn tiềm ẩn. Vì có nhiều nguyên nhân khác khiến nước tiểu chuyển từ màu hồng sang màu nâu, đặc biệt là sau khi tiếp xúc với ánh sáng và không khí, nên phát hiện này, mặc dù hữu ích như một manh mối để gợi ý chẩn đoán rối loạn chuyển hóa porphyrin, nhưng không cần thiết hoặc không đủ để xác định hoặc loại trừ chẩn đoán. Các chỉ số đo sinh hóa là cần thiết để chẩn đoán chính xác.BảngCác đặc điểm chính của hai bệnh rối loạn chuyển hóa porphyrin ở gan phổ biến nhấtBảngCác đặc điểm chính của hai bệnh rối loạn chuyển hóa porphyrin ở gan phổ biến nhấtCác đặc điểm chính của hai bệnh rối loạn chuyển hóa porphyrin ở gan phổ biến nhấtPorphyriaCác triệu chứng biểu hiệnCác yếu tố làm trầm trọng thêmCác xét nghiệm tầm soát quan trọng nhất*Điều trịPorphyria cấp tính từng cơnNội tại thần kinh (liên tục, cấp tính)Uống rượuNhịn ăn/ăn kiêng khắc nghiệtPhẫu thuật nối tắt dạ dày hoặc phẫu thuật nối tắtNhiễm trùngCác thuốc (chủ yếu là các thuốc gây cảm ứng cytochrome P-450)Dung môi hữu cơCăng thẳng về thể chất hoặc cảm xúc/bệnh lý đi kèmProgesterone/ progestogensPBG và creatinine niệu†GlucoseHemeGivosiranPorphyria cutanea tardacác tổn thương da phồng rộp (mạn tính)Uống rượuEstrogensHydrocarbon halogen hóaVi rút viêm gan CHIVSắtHút thuốcPorphyrin huyết thanh hoặc nước tiểuThuốc kháng vi-rút tác động trực tiếp để chữa nhiễm vi-rút viêm gan CLiều thấp chloroquine hoặc hydroxychloroquineRút máu tĩnh mạch* Trong giai đoạn có triệu chứng.† Creatinine được dùng để làm cho nồng độ PBG trong nước tiểu trở về bình thường vì độ pha loãng của nước tiểu thay đổi.PBG=porphobilinogen.* Trong giai đoạn có triệu chứng.† Creatinine được dùng để làm cho nồng độ PBG trong nước tiểu trở về bình thường vì độ pha loãng của nước tiểu thay đổi.PBG=porphobilinogen.
+
+--- 3. Chẩn đoán rối loạn chuyển hóa porphyrin ---
+
+Xét nghiệm máu hoặc nước tiểuBệnh nhân có các triệu chứng cho thấy rối loạn chuyển hóa porphyrin sẽ được sàng lọc bằng xét nghiệm máu hoặc xét nghiệm nước tiểu để tìm porphyrin hoặc các tiền chất porphyrin là porphobilinogen (PBG) vàaxit delta-aminolevulinic(ALA) (xem bảngXét nghiệm sàng lọc và xác nhận rối loạn chuyển hóa porphyrin). Các kết quả bất thường trên sàng lọc được xác nhận bằng các xét nghiệm thêm.Những bệnh nhân không có triệu chứng, bao gồm những người nghi ngờ mang bệnh và những người đang trong thời gian giữa các cơn bệnh, cũng được đánh giá tương tự. Tuy nhiên, các xét nghiệm này ít nhạy cảm trong những trường hợp này; đo lường hoạt động enzyme hồng cầu hoặc bạch cầu được cân nhắc là nhạy cảm hơn. Tuy nhiên, các xét nghiệm đối với nhiều enzyme của con đường (ví dụ: uroporphyrinogen III cosynthase [urogen 3 synthase], coproporphyrinogen oxidase [CPOX], protoporphyrinogen oxidase [PPOX], ferrochelatase [FECH]) thường không có trên thị trường.Phân tích di truyền là rất chính xác và ưu tiên sử dụng trong các gia đình khi đột biến được xác định. Xét nghiệm di truyền sẽ tiết lộ các đột biến liên quan đến bệnh đã biết ở hầu hết bệnh nhân mắc chứng rối loạn chuyển hóa porphyrin di truyền; tuy nhiên, trong một tỷ lệ nhỏ (~1%) bệnh nhân bị ảnh hưởng về mặt lâm sàng và sinh hóa, xét nghiệm di truyền sẽ không phát hiện ra đột biến gây bệnh. Do đó, việc chẩn đoán chính xác tiếp tục đòi hỏi sự tích hợp chu đáo của các kết quả lâm sàng, sinh hóa và di truyền. Xét nghiệm tiền sản (chọc ối hoặc lấy mẫu tế bào biểu mô màng đệm) có thể làm nhưng hiếm khi được chỉ định.BảngXét nghiệm sàng lọc và xác nhận bệnh rối loạn chuyển hóa porphyrinBảngXét nghiệm sàng lọc và xác nhận bệnh rối loạn chuyển hóa porphyrinXét nghiệm sàng lọc và xác nhận bệnh rối loạn chuyển hóa porphyrinXét nghiệmỞ người bệnh có triệu chứng thần kinh cấp tínhỞ bệnh nhân nhạy cảm với ánh sángSàng lọcALA, PBG, creatinine trong nước tiểu (mẫu nước tiểu ngẫu nhiên)*Porphyrin huyết tương†Xác nhận (khi kết quả xét nghiệm tầm soát có bất thường điển hình)ALA, PBG và creatinine trong nước tiểu (xét nghiệm định lượng)*Porphyrin trong phân và trong nước tiểu†PBG deaminase tế bào hồng cầuPorphyrin huyết tương†Xét nghiệm di truyềnPorphyrin trong hồng cầu (toàn phần và không có kim loại)ALA, PBG, porphyrin và creatinine trong nước tiểu (định lượng)*Porphyrin trong phân‡Porphyrin huyết tương†Xét nghiệm di truyền* Kết quả được hiệu chỉnh theo nồng độ creatinin trong nước tiểu.†Phương pháp được ưa chuộng nhất là phương pháp quang phổ huỳnh quang trực tiếp.‡Porphyrin trong nước tiểu và trong phân chỉ được phân đoạn nếu porphyrin toàn phần tăng lên.Dữ liệu từWang B, Bonkovsky HL, Lim JK, Balwani M. AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology2023;164(3):484-491. doi:10.1053/j.gastro.2022.11.034ALA=axit delta-aminolevulinic; PBG=porphobilinogen.* Kết quả được hiệu chỉnh theo nồng độ creatinin trong nước tiểu.†Phương pháp được ưa chuộng nhất là phương pháp quang phổ huỳnh quang trực tiếp.‡Porphyrin trong nước tiểu và trong phân chỉ được phân đoạn nếu porphyrin toàn phần tăng lên.Dữ liệu từWang B, Bonkovsky HL, Lim JK, Balwani M. AGA Clinical Practice Update on Diagnosis and Management of Acute Hepatic Porphyrias: Expert Review.Gastroenterology2023;164(3):484-491. doi:10.1053/j.gastro.2022.11.034ALA=axit delta-aminolevulinic; PBG=porphobilinogen.
+
+--- 4. Porphyrin niệu thứ phát ---
+
+Một số bệnh không liên quan đến rối loạn chuyển hóa porphyrin có thể liên quan đến việc tình trạng bài tiết porphyrin qua nước tiểu; hiện tượng này được mô tả như porphyrin niệu thứ phát.Các rối loạn huyết học, bệnh gan mật, và độc tố (ví dụ như rượu, benzen, chì) có thể làm bài tiết coproporphyrin trong nước tiểu tăng lên. Tăng bài tiết coproporphyrin trong nước tiểu có thể xảy ra trong bất kỳ rối loạn gan mật nào vì mật là một trong những con đường bài tiết porphyrin. Một số lượng lớn thuốc và hóa chất ức chế các chất vận chuyển anion hữu cơ, thường vận chuyển porphyrin, đặc biệt là coproporphyrin, vào mật; các ví dụ phổ biến bao gồm artesunate, balsalazide, benazepril, chlorpropamide, các corticosteroid, demeclocycline, diflunisal, flavonoid, irbesartan, axit mefenamic, nitazoxanide, penciclovir, probenecid, rifampicin, rosuvastatin, stiripentol, telmisartan và valsartan, trong những chất khác (1, 2). Những loại thuốc đó cũng có thể dẫn đến tăng bài tiết porphyrin trong nước tiểu. Một số loại thuốc cũng có thể khiến cho enzyme cytochrome P450 có hoạt tính, dẫn đến tình trạng cảm ứng nhẹ ALAS-1 và sau đó làm tăng coproporphyrin ở gan đồng thời làm tăng porphyrin trong nước tiểu. Uroporphyrin cũng có thể tăng lên ở bệnh nhân rối loạn mật gan. Protoporphyrin không được bài tiết qua nước tiểu vì nó không tan trong nước.Các rối loạn gây ra porphyrin niệu thứ phát (cũng như các rối loạn gây ra các hội chứng lâm sàng giống rối loạn chuyển hóa porphyrin cấp tính) thường không làm tăng nồng độ ALA và PBG trong nước tiểu, do đó, nồng độ ALA và PBG bình thường giúp phân biệt porphyrin niệu thứ phát với rối loạn chuyển hóa porphyrin cấp tính. Tuy nhiên, một số bệnh nhân bịngộ độc chìcó thể có nồng độ ALA trong nước tiểu tăng. Nồng độ chì trong máu nên được đo ở những bệnh nhân như vậy. Nếu ALA và PBG niệu bình thường hoặc chỉ tăng nhẹ, đo nồng độ porphyrin toàn phần trong nước tiểu và số liệu sắc ký lỏng hiệu suất cao của các porphyrin này rất hữu ích cho chẩn đoán phân biệt các hội chứng porphyric cấp.Coproporphyrin (CP) I và III cùng với các chất chỉ điểm sinh học khác có thể có tác dụng như các chất chỉ điểm sinh học chọn lọc và nhạy cảm đối với một số tương tác giữa các thuốc nhất định (3, 4, 5, 6). Ngoài ra, CP I và III là những chất chỉ điểm sinh học tiềm năng có thể theo dõi tiến triển của viêm gan nhiễm mỡ liên quan đến rối loạn chuyển hóa (7).Tài liệu tham khảo về porphyrin niệu thứ phát1.An G, Wang X, Morris ME: Flavonoids are inhibitors of human organic anion transporter 1 (OAT1)-mediated transport.Drug Metab Dispos42(9):1357–1366, 2014. doi: 10.1124/dmd.114.0593372.Duan P, Li S, Ni A, et al: Potent inhibitors of human organic anion transporters 1 and 3 from clinical drug libraries: Discovery and molecular characterization.Mol Pharm9(11):3340–3346, 2012. doi: 10.1021/mp300365t3.Barnett S, Ogungbenro K, Ménochet K, et al: Comprehensive evaluation of the utility of 20 endogenous molecules as biomarkers of OATP1B inhibition compared withrosuvastatinand coproporphyrin I.J Pharmacol Exp Ther368(1):125–135, 2019 doi:10.1124/jpet.118.2530624.Barnett S, Ogungbenro K, Ménochet K, et al: Gaining mechanistic insight into coproporphyrin I as endogenous biomarker for OATP1B-mediated drug-drug interactions using population pharmacokinetic modeling and simulation.Clin Pharmacol Ther104(3):564–574, 2018 doi:10.1002/cpt.9835.Kunze A, Ediage EN, Dillen L, et al: Clinical investigation of coproporphyrins as sensitive biomarkers to predict mild to strong OATP1B-mediated drug-drug interactions.Clin Pharmacokinet57(12):1559–1570, 2018 doi:10.1007/s40262-018-0648-36.Shen H, Christopher L, Lai Y, et al: Further studies to support the use of coproporphyrin I and III as novel clinical biomarkers for evaluating the potential for organic anion transporting polypeptide 1B1 and OATP1B3 inhibition.Drug Metab Dispos46(8):1075–1082, 2018 doi:10.1124/dmd.118.0811257.Chatterjee S, Mukherjee S, Sankara Sivaprasad LVJ, et al: Transporter activity changes in nonalcoholic steatohepatitis: Assessment with plasma coproporphyrin I and III.J Pharmacol Exp Ther376(1):29–39, 2021 doi:10.1124/jpet.120.000291

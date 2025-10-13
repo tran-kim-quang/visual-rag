@@ -1,0 +1,563 @@
+TIÊU ĐỀ: Nhiễm trùng khớp giả
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-mô-cơ-xương-và-mô-liên-kết/nhiễm-khuẩn-xương-khớp/nhiễm-trùng-khớp-giả
+================================================================================
+
+NỘI DUNG:
+
+Nhiễm trùng khớp giả
+
+Theo
+
+Bethany Lehman
+
+,
+
+DO
+
+,
+
+Cleveland Clinic Lerner College of Medicine
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2024
+
+|
+
+đã sửa đổi
+
+Thg 1 2025
+
+v907752_vi
+
+Các khớp giả có nguy cơ nhiễm trùng cấp tính và mạn tính, có thể gây nhiễm khuẩn huyết, tàn tật, hoặc tử vong. Các triệu chứng bao gồm đau khớp, sưng và hạn chế vận động. Chẩn đoán có thể khó xác định và dựa trên các tiêu chuẩn khác nhau. Điều trị bằng kháng sinh kéo dài và thường kết hợp với phẫu thuật mổ khớp.
+
+Căn nguyên
+
+|
+
+Các yếu tố nguy cơ
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Nguyên nhân của viêm khớp giả nhiễm trùng
+
+Nhiễm trùng thường gặp ở khớp giả hơn là khớp tự nhiên. Các khớp này thường do việc tiêm nhiễm vi khuẩn vào khớp trong thời gian phẫu thuật hoặc do vãng khuẩn huyết sau phẫu thuật từ nhiễm trùng da, viêm phổi, dụng cụ xâm lấn, nhiễm trùng đường tiết niệu, có thể là do té ngã hoặc hiếm khi là do các thủ thuật nha khoa.
+
+Nhiễm trùng khớp phát triển trong vòng 1 năm sau phẫu thuật ở hai phần ba số trường hợp (
+
+1
+
+). Trong vài tháng đầu sau phẫu thuật,
+
+Staphylococcus aureus
+
+là nguyên nhân gây nhiễm trùng ở khoảng 50% số trường hợp; nguyên nhân ít phổ biến hơn là hệ vi khuẩn hỗn hợp, vi khuẩn gram âm và vi khuẩn kỵ khí (
+
+2
+
+).
+
+Cutibacterium acnes
+
+đặc biệt là phổ biến ở các khớp vai giả bị nhiễm trùng và có thể cần nuôi cấy kéo dài (lên đến 2 tuần) để phát hiện (
+
+3
+
+). Các loài
+
+Candida
+
+có thể lây nhiễm vào khớp giả, nhưng nhiễm
+
+Candida
+
+rất hiếm gặp (
+
+4
+
+).
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Hasenauer MD, Ho H, Engh CA 3rd, Engh CA Jr.
+
+Factors Associated With the Incidence and Timing of Total Knee Arthroplasty
+
+Infection. J Arthroplasty.
+
+2022;37(6S):S276-S280.e3. doi:10.1016/j.arth.2022.02.034
+
+2.
+
+Tsaras G, Osmon DR, Mabry T, et al.
+
+Incidence, secular trends, and outcomes of prosthetic joint infection: a population-based study, olmsted county, Minnesota, 1969-2007.
+
+Infect Control Hosp Epidemiol.
+
+2012;33(12):1207-1212. doi:10.1086/668421
+
+3.
+
+Vilchez HH, Escudero-Sanchez R, Fernandez-Sampedro M, et al.
+
+Prosthetic Shoulder Joint Infection by Cutibacterium acnes: Does Rifampin Improve Prognosis? A Retrospective, Multicenter, Observational Study.
+
+Antibiotics (Basel).
+
+2021;10(5):475. Xuất bản ngày 21 tháng 4 năm 2021. doi:10.3390/antibiotics10050475
+
+4.
+
+Grzelecki D, Grajek A, Dudek P, et al.
+
+Periprosthetic Joint Infections Caused by Candida Species-A Single-Center Experience and Systematic Review of the Literature.
+
+J Fungi (Basel).
+
+2022;8(8):797. Xuất bản ngày 29 tháng 7 năm 2022 doi:10.3390/jof8080797
+
+Các yếu tố nguy cơ gây viêm khớp nhiễm trùng khớp giả
+
+Các yếu tố nguy cơ liên quan đến bệnh nhân và phẫu thuật có thể làm tăng nguy cơ nhiễm trùng khớp giả.
+
+Các yếu tố nguy cơ cụ thể của bệnh nhân bao gồm (
+
+1
+
+).
+
+Ức chế miễn dịch (ví dụ: từ prednisone, thuốc ức chế TNF, các chất sinh học khác)
+
+Viêm khớp dạng thấp
+
+Đái tháo đường
+
+Tình trạng ác tính
+
+Bệnh thận mạn tính
+
+Béo phì
+
+Các yếu tố nguy cơ đặc hiệu của phẫu thuật bao gồm phẫu thuật thay khớp trước đó, nhiễm trùng tại vị trí phẫu thuật trước đó, thời gian phẫu thuật, biến chứng sau phẫu thuật (ví dụ: tụ máu hoặc vết thương hở) và vãng khuẩn huyết do
+
+S. aureus
+
+đi kèm. (
+
+2
+
+).
+
+Tài liệu tham khảo về yếu tố nguy cơ
+
+1.
+
+Kunutsor SK, Whitehouse MR, Blom AW, Beswick AD; INFORM Team
+
+. Patient-Related Risk Factors for Periprosthetic Joint Infection after Total Joint Arthroplasty: A Systematic Review and Meta-Analysis.
+
+PLoS One.
+
+2016;11(3):e0150866. Xuất bản ngày 3 tháng 3 năm 2016. doi:10.1371/journal.pone.0150866
+
+2.
+
+Tande AJ, Palraj BR, Osmon DR, et al.
+
+Clinical Presentation, Risk Factors, and Outcomes of Hematogenous Prosthetic Joint Infection in Patients with Staphylococcus aureus Bacteremia.
+
+Am J Med.
+
+2016;129(2):221.e11-221.e2.21E20. doi:10.1016/j.amjmed.2015.09.006
+
+Triệu chứng và dấu hiệu bệnh viêm khớp giả nhiễm khuẩn cấp tính
+
+Các triệu chứng và dấu hiệu của nhiễm trùng khớp giả phụ thuộc vào thời gian sau phẫu thuật và có thể được phân loại thành khởi phát sớm, khởi phát chậm và khởi phát muộn (
+
+1
+
+), (
+
+2
+
+).
+
+Nhiễm trùng sớm/cấp tính
+
+xảy ra trong vòng 3 tháng sau phẫu thuật. Bệnh khởi phát đột ngột, khớp sưng, đau và ban đỏ. Các triệu chứng toàn thân như là sốt và ớn lạnh thường xuất hiện. Những bệnh nhiễm trùng này thường xảy ra trong quá trình làm thủ thuật ngoại khoa.
+
+Nhiễm trùng khởi phát chậm
+
+xảy ra từ 3 tháng đến 12 tháng sau phẫu thuật. Có thể có tình trạng chảy dịch liên tục ở vết thương (ví dụ: đường xoang) và khớp có vẻ ấm, sưng và đau. Nhiễm trùng có thể xảy ra trong quá trình phẫu thuật thay khớp hoặc trong giai đoạn đầu hậu phẫu.
+
+Nhiễm trùng
+
+khởi phát muộn
+
+xảy ra sau hơn 12 tháng kể từ lần phẫu thuật đầu tiên. Có khởi phát đau khớp cấp tính, nhạy cảm và ban đỏ ở khớp trước đây có chức năng tốt. Nhiễm trùng có thể xảy ra do lây truyền qua đường máu từ một vị trí nhiễm trùng khác.
+
+Tài liệu tham khảo về các dấu hiệu và triệu chứng
+
+1.
+
+Parvizi J, Gehrke T; International Consensus Group on Periprosthetic Joint Infection.
+
+Definition of periprosthetic joint infection.
+
+J Arthroplasty.
+
+2014;29(7):1331. doi:10.1016/j.arth.2014.03.009
+
+2.
+
+Barrett L, Atkins B.
+
+The clinical presentation of prosthetic joint infection. J
+
+Antimicrob Chemother.
+
+2014;69 Suppl 1:i25-i27. doi:10.1093/jac/dku250
+
+Chẩn đoán viêm khớp giả nhiễm trùng
+
+Dựa vào lâm sàng, vi sinh, mô bệnh học và chẩn đoán hình ảnh
+
+Việc chẩn đoán nhiễm trùng khớp giả thường đòi hỏi sự kết hợp của các tiêu chuẩn về lâm sàng, vi sinh, mô bệnh học và chẩn đoán hình ảnh. Không có cách tiếp cận chuẩn hóa nào để chẩn đoán nhiễm trùng khớp giả và nhiều tiêu chuẩn đã được đề xuất (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+,
+
+4
+
+).
+
+Chẩn đoán xác định nhiễm trùng khớp giả có thể được đưa ra khi 2 mẫu nuôi cấy từ khớp có kết quả dương tính với cùng một loại vi sinh vật. Tình trạng thông nhau giữa đường xoang và bộ phận giả cũng có thể mang tính chẩn đoán (
+
+2
+
+).
+
+Protein C phản ứng (CRP) trong huyết thanh, tốc độ máu lắng (ESR) và D-dimer đều có thể tăng cao trong nhiễm trùng ở khớp giả. Nên lấy mẫu dịch
+
+khớp
+
+để đếm số lượng tế bào và nuôi cấy. Trong nhiễm trùng giai đoạn sớm, công thức bạch cầu (WBC) trong dịch khớp thường > 10.000 tế bào/mcL (10 × 10
+
+9
+
+/L) (
+
+5
+
+).
+
+Trong trường hợp nhiễm trùng khởi phát chậm hoặc khởi phát muộn, số lượng bạch cầu trong dịch khớp thường > 3000 tế bào/microL. Dịch khớp cũng cần phải được phân tích để có công thức bạch cầu theo số lượng bạch cầu.
+
+Trong nhiễm trùng cấp tính, tỷ lệ bạch cầu trung tính đa nhân (PMN) thường > 90% và trong nhiễm trùng khởi phát chậm và khởi phát muộn, tỷ lệ PMN thường > 80%. Xét nghiệm alpha-defensin trong dịch khớp dương tính cũng có thể là dấu hiệu của nhiễm trùng (
+
+6
+
+).
+
+Các phim chụp X-quang có thể cho thấy phản ứng màng xương hoặc tình trạng lỏng lẻo của bộ phận giả hoặc phản ứng màng xương nhưng không có giá trị chẩn đoán. Chụp xương bằng technetium-99m và quét tế bào bạch cầu gắn indium có độ nhạy cao hơn chụp X-quang nhưng thiếu tính đặc hiệu trong giai đoạn hậu phẫu ngay sau đó. Mô quanh bộ phận giả được thu thập tại thời điểm phẫu thuật có thể được gửi đi để nuôi cấy và phân tích mô học (
+
+4
+
+).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Parvizi J, Gehrke T; International Consensus Group on Periprosthetic Joint Infection. Definition of periprosthetic joint infection.
+
+J Arthroplasty.
+
+2014;29(7):1331. doi:10.1016/j.arth.2014.03.009
+
+2.
+
+Parvizi J, Tan TL, Goswami K, et al.
+
+The 2018 Definition of Periprosthetic Hip and Knee Infection: An Evidence-Based and Validated Criteria.
+
+J Arthroplasty.
+
+2018;33(5):1309-1314.e2. doi:10.1016/j.arth.2018.02.078
+
+3.
+
+McNally M, Sousa R, Wouthuyzen-Bakker M, et al.
+
+The EBJIS definition of periprosthetic joint infection.
+
+Bone Joint J.
+
+2021;103-B(1):18-25. doi:10.1302/0301-620X.103B1.BJJ-2020-1381.R1
+
+4.
+
+Osmon DR, Berbari EF, Berendt AR, et al.
+
+Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America.
+
+Clin Infect Dis.
+
+2013;56(1):e1-e25. doi:10.1093/cid/cis803
+
+5.
+
+beam E, Osmon D.
+
+Prosthetic Joint Infection Update.
+
+Infect Dis Clin North Am.
+
+2018;32(4):843-859 doi:10.1016/j.idc.2018.06.005
+
+6.
+
+Lee YS, Koo KH, Kim HJ, et al.
+
+Synovial Fluid Biomarkers for the Diagnosis of Periprosthetic Joint Infection: A Systematic Review and Meta-Analysis. J
+
+Bone Joint Surg Am.
+
+2017;99(24):2077-2084. doi:10.2106/JBJS.17.00123
+
+Điều trị viêm khớp giả nhiễm trùng
+
+Phẫu thuật khớp loại bỏ tổ chức hoại tử
+
+Thay thế bộ phận giả
+
+Sử dụng kháng sinh toàn thân kéo dài
+
+Điều trị nhiễm trùng khớp giả cần phải kéo dài và thường phải phẫu thuật tỉ mỉ loại bỏ bộ phận giả kèm theo các chất gắn kết, ổ áp xe và mô hoại tử. Việc cắt lọc được thực hiện sau đó bằng cách thay thế bộ phận giả ngay lập tức hoặc đặt một miếng đệm tẩm kháng sinh và sau đó cấy ghép bộ phận giả mới bị chậm (2 tháng đến 4 tháng) bằng xi măng tẩm kháng sinh (
+
+1
+
+).
+
+Liệu pháp kháng sinh đường toàn thân dài hạn được sử dụng trong cả hai trường hợp (
+
+1
+
+); liệu pháp theo kinh nghiệm được bắt đầu sau khi thực hiện nuôi cấy trong khi phẫu thuật và thường phối hợp điều trị các vi khuẩn gram dương kháng methicillin (ví dụ: vancomycin 1 g theo đường tĩnh mạch, 12 giờ một lần) và các vi khuẩn gram âm hiếu khí (ví dụ: piperacillin/tazobactam 3,375 g theo đường tĩnh mạch, 6 giờ một lần hoặc ceftazidime 2 g theo đường tĩnh mạch, 8 giờ một lần) và được điều chỉnh dựa trên kết quả nuôi cấy và xét nghiệm độ nhạy.
+
+Nếu nhiễm trùng khớp giả là do
+
+S. aureus
+
+, liệu pháp kháng sinh bao gồm liệu trình điều trị đặc hiệu tác nhân gây bệnh trong 6 tuần phối hợp với rifampin 300 mg đến 450 mg uống hai lần mỗi ngày để thâm nhập vào màng sinh học. Sau liệu trình điều trị ban đầu kéo dài 6 tuần, liệu pháp tiếp tục bằng rifampin cộng với một loại kháng sinh đường uống đi kèm (lý tưởng nhất là levofloxacin hoặc ciprofloxacin nếu nhạy cảm) trong 3 tháng đối với nhiễm trùng khớp háng và 6 tháng đối với nhiễm trùng khớp gối (
+
+1
+
+).
+
+Tỷ lệ thành công chung không bị nhiễm trùng sau 5 năm phụ thuộc vào phương pháp phẫu thuật, nhưng có thể đạt gần 80% sau khi phối hợp điều trị nội khoa và phẫu thuật (
+
+2
+
+), (
+
+3
+
+).
+
+Cắt lọc tạo hình khớp có hoặc không làm dính khớp thường được dành riêng cho bệnh nhân bị nhiễm trùng không kiểm soát được và cán xương không đủ.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Osmon DR, Berbari EF, Berendt AR, et al.
+
+Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America.
+
+Clin Infect Dis.
+
+2013;56(1):e1-e25. doi:10.1093/cid/cis803
+
+2.
+
+Berbari EF, Osmon DR, Duffy MC, et al.
+
+Outcome of prosthetic joint infection in patients with rheumatoid arthritis: the impact of medical and surgical therapy in 200 episodes.
+
+Clin Infect Dis.
+
+2006;42(2):216-223. doi:10.1086/498507
+
+3.
+
+Sousa R, Abreu MA
+
+. Treatment of Prosthetic Joint Infection with Debridement, Antibiotics and Irrigation with Implant Retention - a Narrative Review.
+
+J Bone Jt Infect.
+
+2018;3(3):108-117. Xuất bản ngày 8 tháng 6 năm 2018. doi:10.7150/jbji.24285
+
+Phòng ngừa viêm khớp giả nhiễm trùng
+
+Trong trường hợp không có chỉ định khác (ví dụ: bệnh van tim), kháng sinh dự phòng không được khuyến nghị thường quy trước khi thực hiện công việc nha khoa (
+
+1
+
+). Xem
+
+Tiêu chuẩn sử dụng thích hợp
+
+của Học viện Phẫu thuật Chỉnh hình Hoa Kỳ (AAOS) để ngăn ngừa nhiễm trùng cấy ghép chỉnh hình ở bệnh nhân trải qua các thủ thuật nha khoa. Tuy nhiên, thuốc kháng sinh dự phòng có thể được khuyến nghị cho những bệnh nhân trải qua các thủ thuật tiết niệu có nguy cơ vãng khuẩn huyết cao (ví dụ: tán sỏi).
+
+Tại nhiều trung tâm, bệnh nhân được sàng lọc nhiễm
+
+S. aureus
+
+bằng nuôi cấy dịch nhầy mũi. Người mang mầm bệnh được khử trùng bằng thuốc mỡ mupirocin trước khi phẫu thuật cấy ghép khớp giả (
+
+2
+
+).
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Sollecito TP, Abt E, Lockhart PB, et al.
+
+The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.
+
+J Am Dent Assoc.
+
+2015;146(1):11-16.e8. doi:10.1016/j.adaj.2014.11.012
+
+2.
+
+Smith M, Herwaldt L.
+
+Nasal decolonization: What antimicrobials and antiseptics are most effective before surgery and in the ICU.
+
+Am J Infect Control.
+
+2023;51(11S):A64-A71. doi:10.1016/j.ajic.2023.02.004
+
+Những điểm chính
+
+Nghi ngờ viêm khớp nhiễm trùng ở khớp giả ở những bệnh nhân có khớp nóng, ban đỏ, đau hoặc đau khớp dai dẳng không rõ nguyên nhân, với nguy cơ cao nhất là trong vòng một năm sau phẫu thuật.
+
+Tiến hành chọc hút khớp và gửi đi nuôi cấy và phân tích dịch hoạt dịch; các phim chụp X-quang và kiểm tra thường quy hiếm khi có ích.
+
+Điều trị bằng cả phẫu thuật mở khớp và cắt lọc và kháng sinh theo đường toàn thân nhắm mục tiêu lâu dài.
+
+Thêm rifampin vào thuốc kháng sinh chống tụ cầu để tăng khả năng thâm nhập vào màng sinh học.
+
+Tài liệu tham khảo
+
+1.
+
+Sollecito TP, Abt E, Lockhart PB, et al.
+
+The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.
+
+J Am Dent Assoc.
+
+2015;146(1):11-16.e8. doi:10.1016/j.adaj.2014.11.012
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân của viêm khớp giả nhiễm trùng ---
+
+Nhiễm trùng thường gặp ở khớp giả hơn là khớp tự nhiên. Các khớp này thường do việc tiêm nhiễm vi khuẩn vào khớp trong thời gian phẫu thuật hoặc do vãng khuẩn huyết sau phẫu thuật từ nhiễm trùng da, viêm phổi, dụng cụ xâm lấn, nhiễm trùng đường tiết niệu, có thể là do té ngã hoặc hiếm khi là do các thủ thuật nha khoa.Nhiễm trùng khớp phát triển trong vòng 1 năm sau phẫu thuật ở hai phần ba số trường hợp (1). Trong vài tháng đầu sau phẫu thuật,Staphylococcus aureuslà nguyên nhân gây nhiễm trùng ở khoảng 50% số trường hợp; nguyên nhân ít phổ biến hơn là hệ vi khuẩn hỗn hợp, vi khuẩn gram âm và vi khuẩn kỵ khí (2).Cutibacterium acnesđặc biệt là phổ biến ở các khớp vai giả bị nhiễm trùng và có thể cần nuôi cấy kéo dài (lên đến 2 tuần) để phát hiện (3). Các loàiCandidacó thể lây nhiễm vào khớp giả, nhưng nhiễmCandidarất hiếm gặp (4).
+
+--- 2. Các yếu tố nguy cơ gây viêm khớp nhiễm trùng khớp giả ---
+
+Các yếu tố nguy cơ liên quan đến bệnh nhân và phẫu thuật có thể làm tăng nguy cơ nhiễm trùng khớp giả.Các yếu tố nguy cơ cụ thể của bệnh nhân bao gồm (1).Ức chế miễn dịch (ví dụ: từ prednisone, thuốc ức chế TNF, các chất sinh học khác)Viêm khớp dạng thấpĐái tháo đườngTình trạng ác tínhBệnh thận mạn tínhBéo phìCác yếu tố nguy cơ đặc hiệu của phẫu thuật bao gồm phẫu thuật thay khớp trước đó, nhiễm trùng tại vị trí phẫu thuật trước đó, thời gian phẫu thuật, biến chứng sau phẫu thuật (ví dụ: tụ máu hoặc vết thương hở) và vãng khuẩn huyết doS. aureusđi kèm. (2).
+
+--- 3. Triệu chứng và dấu hiệu bệnh viêm khớp giả nhiễm khuẩn cấp tính ---
+
+Các triệu chứng và dấu hiệu của nhiễm trùng khớp giả phụ thuộc vào thời gian sau phẫu thuật và có thể được phân loại thành khởi phát sớm, khởi phát chậm và khởi phát muộn (1), (2).Nhiễm trùng sớm/cấp tínhxảy ra trong vòng 3 tháng sau phẫu thuật. Bệnh khởi phát đột ngột, khớp sưng, đau và ban đỏ. Các triệu chứng toàn thân như là sốt và ớn lạnh thường xuất hiện. Những bệnh nhiễm trùng này thường xảy ra trong quá trình làm thủ thuật ngoại khoa.Nhiễm trùng khởi phát chậmxảy ra từ 3 tháng đến 12 tháng sau phẫu thuật. Có thể có tình trạng chảy dịch liên tục ở vết thương (ví dụ: đường xoang) và khớp có vẻ ấm, sưng và đau. Nhiễm trùng có thể xảy ra trong quá trình phẫu thuật thay khớp hoặc trong giai đoạn đầu hậu phẫu.Nhiễm trùngkhởi phát muộnxảy ra sau hơn 12 tháng kể từ lần phẫu thuật đầu tiên. Có khởi phát đau khớp cấp tính, nhạy cảm và ban đỏ ở khớp trước đây có chức năng tốt. Nhiễm trùng có thể xảy ra do lây truyền qua đường máu từ một vị trí nhiễm trùng khác.
+
+--- 4. Chẩn đoán viêm khớp giả nhiễm trùng ---
+
+Dựa vào lâm sàng, vi sinh, mô bệnh học và chẩn đoán hình ảnhViệc chẩn đoán nhiễm trùng khớp giả thường đòi hỏi sự kết hợp của các tiêu chuẩn về lâm sàng, vi sinh, mô bệnh học và chẩn đoán hình ảnh. Không có cách tiếp cận chuẩn hóa nào để chẩn đoán nhiễm trùng khớp giả và nhiều tiêu chuẩn đã được đề xuất (1,2,3,4).Chẩn đoán xác định nhiễm trùng khớp giả có thể được đưa ra khi 2 mẫu nuôi cấy từ khớp có kết quả dương tính với cùng một loại vi sinh vật. Tình trạng thông nhau giữa đường xoang và bộ phận giả cũng có thể mang tính chẩn đoán (2).Protein C phản ứng (CRP) trong huyết thanh, tốc độ máu lắng (ESR) và D-dimer đều có thể tăng cao trong nhiễm trùng ở khớp giả. Nên lấy mẫu dịchkhớpđể đếm số lượng tế bào và nuôi cấy. Trong nhiễm trùng giai đoạn sớm, công thức bạch cầu (WBC) trong dịch khớp thường > 10.000 tế bào/mcL (10 × 109/L) (5).Trong trường hợp nhiễm trùng khởi phát chậm hoặc khởi phát muộn, số lượng bạch cầu trong dịch khớp thường > 3000 tế bào/microL. Dịch khớp cũng cần phải được phân tích để có công thức bạch cầu theo số lượng bạch cầu.Trong nhiễm trùng cấp tính, tỷ lệ bạch cầu trung tính đa nhân (PMN) thường > 90% và trong nhiễm trùng khởi phát chậm và khởi phát muộn, tỷ lệ PMN thường > 80%. Xét nghiệm alpha-defensin trong dịch khớp dương tính cũng có thể là dấu hiệu của nhiễm trùng (6).Các phim chụp X-quang có thể cho thấy phản ứng màng xương hoặc tình trạng lỏng lẻo của bộ phận giả hoặc phản ứng màng xương nhưng không có giá trị chẩn đoán. Chụp xương bằng technetium-99m và quét tế bào bạch cầu gắn indium có độ nhạy cao hơn chụp X-quang nhưng thiếu tính đặc hiệu trong giai đoạn hậu phẫu ngay sau đó. Mô quanh bộ phận giả được thu thập tại thời điểm phẫu thuật có thể được gửi đi để nuôi cấy và phân tích mô học (4).
+
+--- 5. Điều trị viêm khớp giả nhiễm trùng ---
+
+Phẫu thuật khớp loại bỏ tổ chức hoại tửThay thế bộ phận giảSử dụng kháng sinh toàn thân kéo dàiĐiều trị nhiễm trùng khớp giả cần phải kéo dài và thường phải phẫu thuật tỉ mỉ loại bỏ bộ phận giả kèm theo các chất gắn kết, ổ áp xe và mô hoại tử. Việc cắt lọc được thực hiện sau đó bằng cách thay thế bộ phận giả ngay lập tức hoặc đặt một miếng đệm tẩm kháng sinh và sau đó cấy ghép bộ phận giả mới bị chậm (2 tháng đến 4 tháng) bằng xi măng tẩm kháng sinh (1).Liệu pháp kháng sinh đường toàn thân dài hạn được sử dụng trong cả hai trường hợp (1); liệu pháp theo kinh nghiệm được bắt đầu sau khi thực hiện nuôi cấy trong khi phẫu thuật và thường phối hợp điều trị các vi khuẩn gram dương kháng methicillin (ví dụ: vancomycin 1 g theo đường tĩnh mạch, 12 giờ một lần) và các vi khuẩn gram âm hiếu khí (ví dụ: piperacillin/tazobactam 3,375 g theo đường tĩnh mạch, 6 giờ một lần hoặc ceftazidime 2 g theo đường tĩnh mạch, 8 giờ một lần) và được điều chỉnh dựa trên kết quả nuôi cấy và xét nghiệm độ nhạy.Nếu nhiễm trùng khớp giả là doS. aureus, liệu pháp kháng sinh bao gồm liệu trình điều trị đặc hiệu tác nhân gây bệnh trong 6 tuần phối hợp với rifampin 300 mg đến 450 mg uống hai lần mỗi ngày để thâm nhập vào màng sinh học. Sau liệu trình điều trị ban đầu kéo dài 6 tuần, liệu pháp tiếp tục bằng rifampin cộng với một loại kháng sinh đường uống đi kèm (lý tưởng nhất là levofloxacin hoặc ciprofloxacin nếu nhạy cảm) trong 3 tháng đối với nhiễm trùng khớp háng và 6 tháng đối với nhiễm trùng khớp gối (1).Tỷ lệ thành công chung không bị nhiễm trùng sau 5 năm phụ thuộc vào phương pháp phẫu thuật, nhưng có thể đạt gần 80% sau khi phối hợp điều trị nội khoa và phẫu thuật (2), (3).Cắt lọc tạo hình khớp có hoặc không làm dính khớp thường được dành riêng cho bệnh nhân bị nhiễm trùng không kiểm soát được và cán xương không đủ.
+
+--- 6. Phòng ngừa viêm khớp giả nhiễm trùng ---
+
+Trong trường hợp không có chỉ định khác (ví dụ: bệnh van tim), kháng sinh dự phòng không được khuyến nghị thường quy trước khi thực hiện công việc nha khoa (1). XemTiêu chuẩn sử dụng thích hợpcủa Học viện Phẫu thuật Chỉnh hình Hoa Kỳ (AAOS) để ngăn ngừa nhiễm trùng cấy ghép chỉnh hình ở bệnh nhân trải qua các thủ thuật nha khoa. Tuy nhiên, thuốc kháng sinh dự phòng có thể được khuyến nghị cho những bệnh nhân trải qua các thủ thuật tiết niệu có nguy cơ vãng khuẩn huyết cao (ví dụ: tán sỏi).Tại nhiều trung tâm, bệnh nhân được sàng lọc nhiễmS. aureusbằng nuôi cấy dịch nhầy mũi. Người mang mầm bệnh được khử trùng bằng thuốc mỡ mupirocin trước khi phẫu thuật cấy ghép khớp giả (2).Tài liệu tham khảo về phòng ngừa1.Sollecito TP, Abt E, Lockhart PB, et al.The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners--a report of the American Dental Association Council on Scientific Affairs.J Am Dent Assoc.2015;146(1):11-16.e8. doi:10.1016/j.adaj.2014.11.0122.Smith M, Herwaldt L.Nasal decolonization: What antimicrobials and antiseptics are most effective before surgery and in the ICU.Am J Infect Control.2023;51(11S):A64-A71. doi:10.1016/j.ajic.2023.02.004
+
+--- 7. Những điểm chính ---
+
+Nghi ngờ viêm khớp nhiễm trùng ở khớp giả ở những bệnh nhân có khớp nóng, ban đỏ, đau hoặc đau khớp dai dẳng không rõ nguyên nhân, với nguy cơ cao nhất là trong vòng một năm sau phẫu thuật.Tiến hành chọc hút khớp và gửi đi nuôi cấy và phân tích dịch hoạt dịch; các phim chụp X-quang và kiểm tra thường quy hiếm khi có ích.Điều trị bằng cả phẫu thuật mở khớp và cắt lọc và kháng sinh theo đường toàn thân nhắm mục tiêu lâu dài.Thêm rifampin vào thuốc kháng sinh chống tụ cầu để tăng khả năng thâm nhập vào màng sinh học.

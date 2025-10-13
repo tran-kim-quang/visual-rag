@@ -1,0 +1,717 @@
+TIÊU ĐỀ: Lưu lượng thở, thể tích phổi và biểu đồ lưu lượng thể tích
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-chức-năng-hô-hấp/đánh-giá-chức-năng-hô-hấp-pft/lưu-lượng-thở-thể-tích-phổi-và-biểu-đồ-lưu-lượng-thể-tích
+================================================================================
+
+NỘI DUNG:
+
+Lưu lượng thở, thể tích phổi và biểu đồ lưu lượng thể tích
+
+Theo
+
+Karen L. Wood
+
+,
+
+MD
+
+,
+
+Grant Medical Center, Ohio Health
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2024
+
+|
+
+đã sửa đổi
+
+Thg 9 2024
+
+v912529_vi
+
+Các dạng bất thường
+
+|
+
+Thử nghiệm kích thích phế quản
+
+|
+
+Các phép đo lưu lượng và thể tích phổi có thể được sử dụng để bệnh phổi tắc nghẽn và bệnh phổi hạn chế, để xác định mức độ nặng và đánh giá đáp ứng điều trị.
+
+Các kiểm tra bao gồm đo phế dung kế để đo lưu lượng khí hít vào và lưu lượng khí thở ra và thể tích phổi và đôi khi kiểm tra quai lưu lượng thể tích để xác định các bất thường cụ thể do tắc nghẽn và do hạn chế. Ở những bệnh nhân có các bất thường do tắc nghẽn, đo phế dung được lặp lại sau khi dùng thuốc giãn phế quản tác dụng ngắn dạng hít để đánh giá khả năng hồi phục và đáp ứng với điều trị.
+
+Các phép đo thường được thể hiện dưới dạng các giá trị lưu lượng và thể tích tuyệt đối hoặc tỉ lệ phần trăm so với các giá trị dự đoán được lấy từ dữ liệu thu được từ các quần thể lớn được cho là có chức năng phổi bình thường. Các biến được sử dụng để dự đoán các giá trị bình thường bao gồm tuổi, giới tính, chủng tộc và chiều cao.
+
+Công cụ tính toán lâm sàng
+
+PFT dự đoán các giá trị bằng phương trình GLI trung tính theo chủng tộc năm 2022, từ 3 tuổi đến 95 tuổi
+
+Vấn đề này còn gây tranh cãi về việc có nên điều chỉnh theo chủng tộc và dân tộc khi giải thích các kiểm tra chức năng phổi hay không. Ngày càng có nhiều bằng chứng cho thấy chủng tộc và dân tộc không giải thích chính xác những khác biệt đã quan sát thấy về chức năng phổi được đo, mà phản ánh tác động của các yếu tố xã hội và yếu tố môi trường, góp phần hơn nữa vào sự chênh lệch trong chăm sóc sức khỏe. Các nghiên cứu đã chỉ ra rằng việc sử dụng các phương trình tham chiếu dựa trên chủng tộc và dân tộc có khả năng đánh giá thấp mức độ nặng của bệnh phổi (và do đó dẫn đến việc điều trị kém) ở những người không phải Da trắng (
+
+1
+
+,
+
+2
+
+). Hiệp hội Lồng ngực Hoa Kỳ (ATS) đã khuyến nghị thay thế các phương trình tham chiếu dân tộc hoặc chủng tộc cụ thể đã sử dụng trước đó (
+
+3
+
+) bằng các phương trình có nguồn gốc từ các phương trình tham chiếu trung lập về chủng tộc như là các phương trình có nguồn gốc từ phương trình trung bình Sáng kiến Chức năng Phổi Toàn cầu (Global Lung Function Initiative, GLI) (
+
+4
+
+,
+
+5
+
+). Hiệp hội Hô hấp Châu Âu (ERS)/ATS năm 2022 đã xác nhận rằng việc sử dụng các bộ tài liệu tham khảo trung lập về chủng tộc có thể dẫn đến những thay đổi về trình độ chuyên môn đối với các phương pháp điều trị cụ thể (ví dụ: phẫu thuật, ghép phổi), điều này nhấn mạnh nhu cầu nghiên cứu đang diễn ra để hiểu tác động tiềm ẩn đối với việc ra quyết định lâm sàng và kết quả của bệnh nhân (
+
+6
+
+).
+
+Lưu lượng thở
+
+Các phép đo định lượng về lưu lượng hít vào và thở ra được thu nhận từ đo chức năng hô hấp gắng sức. Sử dụng kẹp để bịt hai lỗ mũi.
+
+Trong
+
+đánh giá lưu lượng và thể tích khí hít vào
+
+, bệnh nhân thở ra hết mức có thể, sau đó hít vào hết sức. Thể tích đỉnh khi hít vào là lượng khí hít vào tối đa trong một hơi thở sâu và lưu lượng hít vào là thể tích hít vào mỗi giây.
+
+Trong đánh giá
+
+lưu lượng và thể tích thở ra
+
+, bệnh nhân hít vào càng sâu càng tốt, ngậm môi quanh ống ngậm và thở ra mạnh và hoàn toàn nhất có thể vào một thiết bị ghi lại thể tích thở ra (dung tích sống gắng sức [FVC]) và thể tích thở ra trong giây đầu tiên (thể tích thở ra gắng sức trong 1 giây [FEV1] – xem hình
+
+Biểu đồ phế dung bình thường
+
+).
+
+Những nghiệm pháp này cho ra một số chỉ số:
+
+FVC: Lượng khí tối đa mà bệnh nhân có thể thở ra hết sức sau khí hít vào hết sức
+
+FEV1: Thể tích khí thở ra trong giây đầu tiên
+
+Lưu lượng đỉnh (PEF): Lưu lượng khí tối đa khi bệnh nhân thở ra
+
+FEV1 là thông số lưu lượng có thể tái tạo được nhiều nhất và đặc biệt hữu ích trong việc chẩn đoán và theo dõi bệnh nhân mắc các bệnh phổi tắc nghẽn (ví dụ:
+
+hen suyễn
+
+,
+
+COPD
+
+[bệnh phổi tắc nghẽn mạn tính]).
+
+FEV1 và FVC giúp phân biệt bệnh lý tắc nghẽn và bệnh lý hạn chế. Nếu FEV1 bình thường, bệnh phổi tắc nghẽn không thể hồi phục không có khả năng xảy ra. Nếu FVC bình thường, bệnh hạn chế không có khả năng xảy ra. Tỷ lệ FEV1/FVC giảm cho thấy có tắc nghẽn. Đo lại FEV1 và FVC khi dùng thuốc giãn phế quản tác dụng ngắn ở những bệnh nhân có bằng chứng tắc nghẽn trong thử nghiệm ban đầu rất hữu ích trong việc phân biệt bệnh nhân có co thắt phế quản có thể hồi phục như xảy ra trong bệnh hen với những bệnh nhân bị tắc nghẽn cố định trong COPD.
+
+Một số người có các yếu tố nguy cơ về COPD (ví dụ: hút thuốc lá, nhiễm trùng trước đó, phơi nhiễm nghề nghiệp, phơi nhiễm ô nhiễm không khí) nhưng không chứng minh được tình trạng tắc nghẽn rõ ràng khi kiểm tra chức năng phổi. Những người này được cho là bị tiền COPD (
+
+7
+
+). Cần có các nghiên cứu sâu hơn để mô tả quần thể này, nhưng việc theo dõi các giá trị đo phế dung theo thời gian có thể hữu ích trong việc xác định những bệnh nhân có khả năng bị COPD.
+
+Phế dung đồ bình thường
+
+FEF
+
+25–75%
+
+=
+
+lưu lượng thở ra gắng sức khi thở ra từ 25% đến 75% FVC; FEV
+
+1
+
+=
+
+thể tích thở ra gắng sức trong giây đầu tiên của nghiệm pháp kiểm tra dung tích sống gắng sức; FVC
+
+=
+
+dung tích sống gắng sức (lượng không khí thở ra gắng sức tối đa sau khi hít vào tối đa).
+
+Lưu lượng khí thở ra gắng sức trung bình trong khoảng thời gian 25-75% FVC có thể là dấu hiệu nhạy hơn khi đánh giá giới hạn luồng khí trong đường thở nhỏ so với FEV1, nhưng khả năng lặp lại của chỉ số này là rất thấp.
+
+Lưu lượng đỉnh (PEF) là lưu lượng tối đa trong quá trình thở ra. Chỉ số này được sử dụng chủ yếu để theo dõi tại nhà cho bệnh nhân
+
+hen suyễn
+
+và để xác định sự biến đổi lưu lượng thở trong ngày. Hen suyễn có thể được theo dõi bằng cách so sánh PEF với chỉ số tốt nhất của bản thân người đó.
+
+Việc phân tích các chỉ số này phụ thuộc vào sự nỗ lực tốt của bệnh nhân, thường được cải thiện bằng cách hướng dẫn trong thời gian thực hiện. Các biểu đồ hô hấp chấp nhận được cần có:
+
+Sự khởi đầu tốt của phép đo (ví dụ, sự thở ra nhanh và hết sức)
+
+Không ho
+
+Đường cong mềm mại
+
+Quá trình thở ra không bị kết thúc sớm (ví dụ: thời gian thở ra tối thiểu là 6 giây mà không thay đổi về thể tích trong 1 giây cuối)
+
+Sự thay đổi trong các lần thực hiện lặp lại có thể được chấp nhận trong 5% hoặc 100 mL so với các lần thực hiện khác. Các kết quả không đạt được các tiêu chuẩn tối thiểu này cần phải được xem xét cẩn thận.
+
+Thể tích phổi
+
+Thể tích phổi được đo bằng cách xác định dung tích cặn chức năng (FRC). FRC là lượng không khí còn lại trong phổi sau khi thở ra bình thường. Tổng dung tích toàn phổi (TLC) là lượng khí chứa trong phổi sau khi hít vào tối đa. Việc biết FRC cho phép chia phổi thành các thể tích nhỏ được đo bằng phép đo phế dung hoặc theo tính toán (xem hình
+
+Thể tích phổi bình thường
+
+). Thông thường FRC đại diện cho khoảng 40% TLC.
+
+Thể tích phổi bình thường
+
+ERV
+
+=
+
+thể tích dự trữ thở ra; FRC
+
+=
+
+dung tích cặn chức năng; IC
+
+=
+
+dung tích hít vào; IRV
+
+=
+
+thể tích dự trữ hít vào; RV
+
+=
+
+thể tích khí cặn; TLC
+
+=
+
+dung tích toàn phổi; VC
+
+=
+
+dung tích sống; V
+
+T
+
+=
+
+thể tích khí lưu thông.
+
+FRC
+
+=
+
+RV
+
++
+
+ERV; IC
+
+=
+
+V
+
+T
+
++
+
+IRV; VC
+
+=
+
+V
+
+T
+
++
+
+IRV
+
++
+
+ERV.
+
+FRC được đo bằng cách sử dụng các kỹ thuật pha loãng khí hoặc một máy ghi thể tích (cách này chính xác hơn ở những bệnh nhân có giới hạn luồng không khí và khí cạm).
+
+Kỹ thuật pha loãng khí
+
+bao gồm
+
+Kỹ thuật rửa trôi nitơ
+
+Kỹ thuật cân bằng heli
+
+Với kỹ thuật rửa trôi nitơ, bệnh nhân thở ra tới FRC và sau đó hít thở từ một máy đo hô hấp ký có chứa oxy 100%. Thử nghiệm kết thúc khi nồng độ nitơ thở ra bằng không. Thể tích khí nitơ thở ra thu được bằng 81% lượng FRC ban đầu.
+
+Với kỹ thuật cân bằng heli, bệnh nhân sẽ thở ra FRC và sau đó được kết nối với một hệ thống khép kín chứa các lượng khí heli và oxy đã biết. Nồng độ heli được đo cho đến khi bằng nhau khi hít vào và thở ra, cho thấy nồng độ này đã cân bằng với thể tích khí trong phổi, sau đó có thể ước tính nồng độ này từ sự thay đổi nồng độ heli đã xảy ra.
+
+Cả hai kỹ thuật này đều có thể đánh giá FRC thấp hơn thực tế bởi vì chúng chỉ đo được thể tích phổi có sự thông khí. Ở những bệnh nhân bị hạn chế thông khí nghiêm trọng, một lượng đáng kể thể tích bẫy khí có thể thông khí rất kém hoặc hoàn toàn không có thông khí.
+
+Biểu đồ đo thể tích cơ thể
+
+sử dụng định luật Boyle (P1V1
+
+=
+
+P2V2, trong đó P là áp suất và V là thể tích) để đo thể tích khí nén trong lồng ngực. Biểu đồ đo thể tích cơ thể chính xác hơn các kỹ thuật pha loãng khí. Trong khi ngồi trong một hộp kín, bệnh nhân sẽ cố gắng hít vào từ một ống kín, bắt đầu từ FRC. Khi thành ngực nở ra, áp suất trong hộp kín tăng lên. Biết được thể tích hộp trước khi hít vào và áp suất trong hộp trước và sau khi nỗ lực hít vào cho phép tính toán sự thay đổi thể tích hộp, nó phải bằng sự thay đổi thể tích phổi.
+
+Công cụ tính toán lâm sàng
+
+Thể tích phổi Multicalc
+
+Biểu đồ lưu lượng - thể tích
+
+Ngược lại với đồ thị hô hấp ký, hiển thị luồng không khí (theo Lít) theo thời gian (theo giây), biểu đồ lưu lượng - thể tích thể hiện lưu lượng khí (Lít/giây) liên quan đến thể tích phổi (theo Lít) khi hít vào hết sức sau khi thở ra hết sức (thể tích khí cặn [RV]) và khi thở ra hết sức sau khi hít vào hết sức (TLC). Ưu điểm chính của biểu đồ lưu lượng thể tích là nó có thể cho thấy luồng không khí phù hợp với thể tích phổi cụ thể hay không. Ví dụ, luồng khí thở bình thường chậm hơn khi thể tích phổi thấp vì lực co thắt đàn hồi thấp hơn ở khi thể tích phổi thấp hơn. Bệnh nhân bị xơ phổi có thể tích phổi thấp và luồng khí thở của họ có xu hướng giảm nếu đo đơn độc. Tuy nhiên, khi luồng khí thở được thể hiện dưới dạng một hàm số của thể tích phổi, rõ ràng luồng khí thở thực sự cao hơn bình thường (do đặc tính đàn hồi tăng lên của phổi bị xơ).
+
+Biểu đồ lưu lượng - thể tích đòi hỏi phải đo thể tích phổi tuyệt đối. Đáng tiếc là nhiều phòng thí nghiệm chỉ đơn giản dựa trên FVC; đường cong lưu lượng - FVC không có thì hít vào và do đó không cung cấp nhiều thông tin.
+
+Tài liệu tham khảo chung
+
+1.
+
+Baugh AD, Shiboski S, Hansel NN, et al
+
+. Reconsidering the Utility of Race-Specific Lung Function Prediction Equations [published correction appears in
+
+Am J Respir Crit Care Med
+
+ngày 15 tháng 7 năm 2022;206(2):230].
+
+Am J Respir Crit Care Med
+
+2022;205(7):819-829. doi:10.1164/rccm.202105-1246OC
+
+2.
+
+Ekström M, Mannino D
+
+. Research race-specific reference values and lung function impairment, breathlessness and prognosis: Analysis of NHANES 2007-2012 [bản chỉnh sửa đã xuất bản trong
+
+Respir Res
+
+ngày 3 tháng 2 năm 2023;24(1):41].
+
+Respir Res
+
+2022;23(1):271. Xuất bản ngày 1 tháng 10 năm 2022. doi:10.1186/s12931-022-02194-4
+
+3.
+
+Bhakta NR, Bime C, Kaminsky DA, et al
+
+. Race and Ethnicity in Pulmonary Function Test Interpretation: An Official American Thoracic Society Statement.
+
+Am J Respir Crit Care Med
+
+2023;207(8):978-995. doi:10.1164/rccm.202302-0310ST
+
+4.
+
+Quanjer PH, Stanojevic S, Cole TJ, et al
+
+. Multi-ethnic reference values for spirometry for the 3-95-yr age range: the global lung function 2012 equations.
+
+Eur Respir J
+
+2012;40(6):1324-1343. doi:10.1183/09031936.00080312
+
+5.
+
+Bowerman C, Bhakta NR, Brazzale D, et al
+
+. A Race-neutral Approach to the Interpretation of Lung Function Measurements.
+
+Am J Respir Crit Care Med
+
+2023;207(6):768-774. doi:10.1164/rccm.202205-0963OC
+
+6.
+
+Stanojevic S, Kaminsky DA, Miller MR, et al
+
+. ERS/ATS technical standard on interpretive strategies for routine lung function tests.
+
+Eur Respir J
+
+2022;60(1):2101499. Xuất bản ngày 13 tháng 7 năm 2022. doi:10.1183/13993003.01499-2021
+
+7.
+
+Han MK, Agusti A, Celli BR, et al
+
+. From GOLD 0 to Pre-COPD.
+
+Am J Respir Crit Care Med
+
+2021;203(4):414-423. doi:10.1164/rccm.202008-3328PP
+
+Các dạng bất thường
+
+Các bệnh lý hô hấp thường gặp nhất có thể được phân loại là tắc nghẽn hoặc hạn chế trên cơ sở lưu lượng thở và thể tích phổi (xem bảng
+
+Các thay đổi sinh lý đặc trưng liên quan đến các bệnh phổi
+
+).
+
+Bảng
+
+Những thay đổi sinh lý đặc trưng liên quan đến bệnh phổi
+
+Bảng
+
+Những thay đổi sinh lý đặc trưng liên quan đến bệnh phổi
+
+Những thay đổi sinh lý đặc trưng liên quan đến bệnh phổi
+
+Biện pháp
+
+Bệnh lý tắc nghẽn
+
+Bệnh lý hạn chế
+
+Bệnh lý dhỗn hợp
+
+FEV1/FVC
+
+Giảm
+
+Bình thường hoặc tăng
+
+Giảm
+
+FEV1
+
+Giảm
+
+Giảm, bình thường hoặc tăng
+
+Giảm
+
+FVC
+
+Giảm hoặc bình thường
+
+Giảm
+
+Giảm hoặc bình thường
+
+TLC
+
+Bình thường hoặc tăng
+
+Giảm
+
+Giảm, bình thường hoặc tăng
+
+RV
+
+Bình thường hoặc tăng
+
+Giảm
+
+Giảm, bình thường hoặc tăng
+
+FEV1
+
+=
+
+lưu lượng khí thở ra gắng sức trong 1 giây; FVC
+
+=
+
+dung tích thở ra gắng sức; RV
+
+=
+
+thể tích khí cặn; TLC
+
+=
+
+dung tích toàn phổi.
+
+FEV1
+
+=
+
+lưu lượng khí thở ra gắng sức trong 1 giây; FVC
+
+=
+
+dung tích thở ra gắng sức; RV
+
+=
+
+thể tích khí cặn; TLC
+
+=
+
+dung tích toàn phổi.
+
+Bệnh lý tắc nghẽn
+
+Bệnh lý tắc nghẽn đặc trưng bởi sự giảm lưu lượng khí thở, đặc biệt là FEV1 và FEV1 thể hiện dưới dạng phần trăm của FVC (FEV1/FVC). Mức độ giảm FEV1 so với giá trị dự đoán sẽ xác định mức độ khiếm khuyết do tắc nghẽn. Khiếm khuyết do tắc nghẽn là do:
+
+Tăng sức cản đường thở do các bất thường trong đường thở (ví dụ: khối u, chất tiết, dày niêm mạc)
+
+Sự thay đổi tại thành đường thở (ví dụ: co cơ trơn, phù nề)
+
+Giảm độ đàn hồi của phổi (ví dụ: sự phá hủy nhu mô trong khí phế thũng)
+
+Với luồng không khí giảm, thời gian thở ra dài hơn bình thường, không khí có thể bị mắc kẹt trong phổi do không được thở ra hết, do đó làm tăng thể tích phổi (ví dụ, TLC, RV).
+
+Các ví dụ phổ biến nhất về bệnh lý tắc nghẽn là
+
+COPD
+
+,
+
+hen suyễn
+
+và
+
+giãn phế quản
+
+.
+
+ERS và ATS đã cập nhật hướng dẫn về việc giải thích các xét nghiệm chức năng phổi trong việc phân loại mức độ nặng của bệnh phổi tắc nghẽn (xem bảng
+
+Mức độ nặng của suy giảm chức năng phổi)
+
+(
+
+1
+
+). Các hướng dẫn này khuyến nghị thể hiện tất cả các phép đo, bao gồm đo phế dung, thể tích phổi và khả năng khuếch tán của phổi đối với carbon monoxide (DLCO), dưới dạng điểm z chứ không phải là tỷ lệ phần trăm của các giá trị dự đoán đến mức độ nặng. Điểm z dưới -1,645 cho thấy giá trị nhỏ hơn bách phân vị thứ 5 của dự đoán dựa trên các đối chứng bắt cặp khỏe mạnh. Để đánh giá đáp ứng với thuốc giãn phế quản, các hướng dẫn hiện nay khuyến nghị sử dụng phần trăm thay đổi so với giá trị dự đoán của một cá nhân (thay vì giá trị ở lần khám ban đầu) và họ khuyến nghị sử dụng việc cải thiện FEV1 và/hoặc FVC
+
+≥
+
+10% làm tiêu chuẩn cho tình trạng tăng đáp ứng của đường thở.
+
+Bảng
+
+Mức độ nặng của suy chức năng phổi
+
+Bảng
+
+Mức độ nặng của suy chức năng phổi
+
+Mức độ nặng của suy chức năng phổi
+
+S Mức độ nghiêm trọng
+
+Điểm Z
+
+Nhẹ
+
+-1,65 đến -2,5
+
+Vừa
+
+-2,51 đến -4,0
+
+Nặng
+
+<
+
+-4,1
+
+Data from
+
+Stanojevic S, Kaminsky DA, Miller MR, et al
+
+. ERS/ATS technical standard on interpretive strategies for routine lung function tests.
+
+Eur Respir J
+
+2022;60(1):2101499. Xuất bản ngày 13 tháng 7 năm 2022. doi:10.1183/13993003.01499-2021
+
+Data from
+
+Stanojevic S, Kaminsky DA, Miller MR, et al
+
+. ERS/ATS technical standard on interpretive strategies for routine lung function tests.
+
+Eur Respir J
+
+2022;60(1):2101499. Xuất bản ngày 13 tháng 7 năm 2022. doi:10.1183/13993003.01499-2021
+
+Bệnh lý hạn chế
+
+Bệnh lý hạn chế được đặc trưng bởi sự giảm thể tích phổi, cụ thể là TLC thấp hơn giới hạn dưới của bình thường (điểm z nhỏ hơn -1,65, tương ứng với ít hơn bách phân vị thứ năm dự đoán dựa trên đối chứng bắt cặp khỏe mạnh). Tuy nhiên, trong trường hợp hạn chế sớm, TLC có thể là bình thường (là kết quả của nỗ lực hít vào mạnh) và bất thường duy nhất có thể là giảm RV. Mức giảm TLC xác định mức độ nặng của hạn chế. Thể tích phổi giảm làm giảm luồng không khí (giảm FEV1). Tuy nhiên, lưu lượng so với thể tích phổi tăng lên, do đó tỷ lệ FEV1/FVC bình thường hoặc tăng.
+
+Bệnh lý hạn chế xảy ra do:
+
+Mất thể tích phổi (ví dụ: cắt thùy phổi)
+
+Những bất thường của cấu trúc xung quanh phổi (ví dụ: bệnh màng phổi, gù vẹo cột sống, béo phì)
+
+Yếu cơ hô hấp (ví dụ: bệnh lý thần kinh cơ)
+
+Những bất thường của nhu mô phổi (ví dụ:
+
+xơ phổi
+
+)
+
+Đặc điểm chung là giảm sự hoạt động của phổi, thành ngực hoặc cả hai.
+
+Tài liệu tham khảo về các mô hình bất thường
+
+1.
+
+Stanojevic S, Kaminsky DA, Miller MR, et al
+
+. ERS/ATS technical standard on interpretive strategies for routine lung function tests.
+
+Eur Respir J
+
+2022;60(1):2101499. Xuất bản ngày 13 tháng 7 năm 2022. doi:10.1183/13993003.01499-2021
+
+2.
+
+Coates AL, Wanger J, Cockcroft DW, et al
+
+. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.
+
+Eur Respir J
+
+2017;49(5):1601526. Xuất bản ngày 1 tháng 5 năm 2017. doi:10.1183/13993003.01526-2016
+
+3.
+
+Parsons JP, Hallstrand TS, Mastronarde JG, et al
+
+. An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.
+
+Am J Respir Crit Care Med
+
+2013;187(9):1016-1027. doi:10.1164/rccm.201303-0437ST
+
+Thử nghiệm kích thích phế quản
+
+Thử nghiệm kích thích phế quản được sử dụng để chẩn đoán các tình trạng như hen suyễn, đặc biệt là khi đo phế dung là bình thường nhưng có nghi ngờ về tăng phản ứng đường thở. Thử nghiệm có thể được thực hiện bằng methacholine dạng hít, tập thể dục hoặc tăng thông khí tự nguyện (EVH) bằng cách sử dụng không khí ở nhiệt độ môi trường xung quanh hoặc nhiệt độ lạnh.
+
+Một số bệnh nhân hen suyễn có thể có chức năng phổi bình thường và các thông số đo phế dung bình thường giữa các đợt kịch phát. Khi nghi ngờ hen vẫn ở mức cao mặc dù kết quả đo phế dung bình thường,
+
+kiểm tra bằng thử nghiệm kích thích phế quản
+
+bằng methacholine, một chất tương tự tổng hợp của
+
+acetylcholine
+
+là chất kích thích phế quản không đặc hiệu, được chỉ định để phát hiện hoặc loại trừ co thắt phế quản. Trong kiểm tra bằng thử nghiệm
+
+methacholine
+
+, các thông số đo phế dung được đo ở lần khám ban đầu và sau khi hít phải liều
+
+methacholine
+
+tăng dần. Liều
+
+methacholine
+
+làm giảm 20% FEV1 được gọi là PD20. Các phòng thí nghiệm có các định nghĩa khác nhau về mức độ phản ứng quá mức của đường thở, nhưng nhìn chung, những bệnh nhân có biểu hiện FEV1 giảm ít nhất 20% so với mức cơ bản (PD20) khi liều
+
+methacholine
+
+dạng hít được cung cấp
+
+<
+
+25 mcg được coi là chẩn đoán tăng phản ứng phế quản, trong khi PD20 > 400 mcg loại trừ chẩn đoán. Giá trị PD20 từ 25 mcg đến 400 mcg không thể đưa ra kết luận (
+
+1
+
+).
+
+Nghiệm pháp gắng sức
+
+có thể được sử dụng để phát hiện bệnh hen suyễn do tập thể dục nhưng ít nhạy cảm hơn việc kiểm tra bằng thử nghiệm methacholine để phát hiện tình trạng tăng phản ứng đường thở nói chung. Bệnh nhân thực hiện công việc ở mức độ liên tục trên máy chạy bộ hoặc máy đo tốc độ đạp xe trong 6 phút đến 8 phút ở cường độ được chọn để tạo ra nhịp tim bằng 80% nhịp tim tối đa dự đoán. Các chỉ số FEV1 và FVC được đo trước tập và 5, 15, và 30 phút sau khi tập thể dục. Co thắt phế quản do tập thể dục làm giảm FEV1 hoặc FVC
+
+≥
+
+10% đến 15% sau khi tập thể dục (
+
+2
+
+)..
+
+EVH cũng có thể được sử dụng để chẩn đoán hen do tập thể dục. EVH liên quan đến việc tăng thông khí chứa carbon dioxide 5% và oxy 21% ở thông khí tối đa 85% chủ động trong 6 phút. FEV1 sau đó được đo theo khoảng thời gian quy định sau khi thử nghiệm. Giống như các nghiệm pháp kích thích khác, mức độ suy giảm FEV1 để chẩn đoán chứng co thắt phế quản do tập thể dục thay đổi tùy theo phòng thí nghiệm.
+
+Tăng phản ứng do lạnh có thể được đánh giá bằng một kiểm tra tương tự, trong đó bệnh nhân tăng thông khí trong 3 phút đến 6 phút với hỗn hợp khí được làm mát từ -10°C đến -20°C. Kiểm tra này cần phải có thiết bị làm mát chuyên dụng có thể không có sẵn trong nhiều phòng thí nghiệm.
+
+Tài liệu tham khảo về thử nghiệm kích thích phế quản
+
+1.
+
+Coates AL, Wanger J, Cockcroft DW, et al
+
+. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.
+
+Eur Respir J
+
+2017;49(5):1601526. Xuất bản ngày 1 tháng 5 năm 2017. doi:10.1183/13993003.01526-2016
+
+2.
+
+Parsons JP, Hallstrand TS, Mastronarde JG, et al
+
+. An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.
+
+Am J Respir Crit Care Med
+
+2013;187(9):1016-1027. doi:10.1164/rccm.201303-0437ST
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các dạng bất thường ---
+
+Các bệnh lý hô hấp thường gặp nhất có thể được phân loại là tắc nghẽn hoặc hạn chế trên cơ sở lưu lượng thở và thể tích phổi (xem bảngCác thay đổi sinh lý đặc trưng liên quan đến các bệnh phổi).BảngNhững thay đổi sinh lý đặc trưng liên quan đến bệnh phổiBảngNhững thay đổi sinh lý đặc trưng liên quan đến bệnh phổiNhững thay đổi sinh lý đặc trưng liên quan đến bệnh phổiBiện phápBệnh lý tắc nghẽnBệnh lý hạn chếBệnh lý dhỗn hợpFEV1/FVCGiảmBình thường hoặc tăngGiảmFEV1GiảmGiảm, bình thường hoặc tăngGiảmFVCGiảm hoặc bình thườngGiảmGiảm hoặc bình thườngTLCBình thường hoặc tăngGiảmGiảm, bình thường hoặc tăngRVBình thường hoặc tăngGiảmGiảm, bình thường hoặc tăngFEV1=lưu lượng khí thở ra gắng sức trong 1 giây; FVC=dung tích thở ra gắng sức; RV=thể tích khí cặn; TLC=dung tích toàn phổi.FEV1=lưu lượng khí thở ra gắng sức trong 1 giây; FVC=dung tích thở ra gắng sức; RV=thể tích khí cặn; TLC=dung tích toàn phổi.Bệnh lý tắc nghẽnBệnh lý tắc nghẽn đặc trưng bởi sự giảm lưu lượng khí thở, đặc biệt là FEV1 và FEV1 thể hiện dưới dạng phần trăm của FVC (FEV1/FVC). Mức độ giảm FEV1 so với giá trị dự đoán sẽ xác định mức độ khiếm khuyết do tắc nghẽn. Khiếm khuyết do tắc nghẽn là do:Tăng sức cản đường thở do các bất thường trong đường thở (ví dụ: khối u, chất tiết, dày niêm mạc)Sự thay đổi tại thành đường thở (ví dụ: co cơ trơn, phù nề)Giảm độ đàn hồi của phổi (ví dụ: sự phá hủy nhu mô trong khí phế thũng)Với luồng không khí giảm, thời gian thở ra dài hơn bình thường, không khí có thể bị mắc kẹt trong phổi do không được thở ra hết, do đó làm tăng thể tích phổi (ví dụ, TLC, RV).Các ví dụ phổ biến nhất về bệnh lý tắc nghẽn làCOPD,hen suyễnvàgiãn phế quản.ERS và ATS đã cập nhật hướng dẫn về việc giải thích các xét nghiệm chức năng phổi trong việc phân loại mức độ nặng của bệnh phổi tắc nghẽn (xem bảngMức độ nặng của suy giảm chức năng phổi)(1). Các hướng dẫn này khuyến nghị thể hiện tất cả các phép đo, bao gồm đo phế dung, thể tích phổi và khả năng khuếch tán của phổi đối với carbon monoxide (DLCO), dưới dạng điểm z chứ không phải là tỷ lệ phần trăm của các giá trị dự đoán đến mức độ nặng. Điểm z dưới -1,645 cho thấy giá trị nhỏ hơn bách phân vị thứ 5 của dự đoán dựa trên các đối chứng bắt cặp khỏe mạnh. Để đánh giá đáp ứng với thuốc giãn phế quản, các hướng dẫn hiện nay khuyến nghị sử dụng phần trăm thay đổi so với giá trị dự đoán của một cá nhân (thay vì giá trị ở lần khám ban đầu) và họ khuyến nghị sử dụng việc cải thiện FEV1 và/hoặc FVC≥10% làm tiêu chuẩn cho tình trạng tăng đáp ứng của đường thở.BảngMức độ nặng của suy chức năng phổiBảngMức độ nặng của suy chức năng phổiMức độ nặng của suy chức năng phổiS Mức độ nghiêm trọngĐiểm ZNhẹ-1,65 đến -2,5Vừa-2,51 đến -4,0Nặng<-4,1Data fromStanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499. Xuất bản ngày 13 tháng 7 năm 2022. doi:10.1183/13993003.01499-2021Data fromStanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499. Xuất bản ngày 13 tháng 7 năm 2022. doi:10.1183/13993003.01499-2021Bệnh lý hạn chếBệnh lý hạn chế được đặc trưng bởi sự giảm thể tích phổi, cụ thể là TLC thấp hơn giới hạn dưới của bình thường (điểm z nhỏ hơn -1,65, tương ứng với ít hơn bách phân vị thứ năm dự đoán dựa trên đối chứng bắt cặp khỏe mạnh). Tuy nhiên, trong trường hợp hạn chế sớm, TLC có thể là bình thường (là kết quả của nỗ lực hít vào mạnh) và bất thường duy nhất có thể là giảm RV. Mức giảm TLC xác định mức độ nặng của hạn chế. Thể tích phổi giảm làm giảm luồng không khí (giảm FEV1). Tuy nhiên, lưu lượng so với thể tích phổi tăng lên, do đó tỷ lệ FEV1/FVC bình thường hoặc tăng.Bệnh lý hạn chế xảy ra do:Mất thể tích phổi (ví dụ: cắt thùy phổi)Những bất thường của cấu trúc xung quanh phổi (ví dụ: bệnh màng phổi, gù vẹo cột sống, béo phì)Yếu cơ hô hấp (ví dụ: bệnh lý thần kinh cơ)Những bất thường của nhu mô phổi (ví dụ:xơ phổi)Đặc điểm chung là giảm sự hoạt động của phổi, thành ngực hoặc cả hai.Tài liệu tham khảo về các mô hình bất thường1.Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests.Eur Respir J2022;60(1):2101499. Xuất bản ngày 13 tháng 7 năm 2022. doi:10.1183/13993003.01499-20212.Coates AL, Wanger J, Cockcroft DW, et al. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.Eur Respir J2017;49(5):1601526. Xuất bản ngày 1 tháng 5 năm 2017. doi:10.1183/13993003.01526-20163.Parsons JP, Hallstrand TS, Mastronarde JG, et al. An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.Am J Respir Crit Care Med2013;187(9):1016-1027. doi:10.1164/rccm.201303-0437ST
+
+--- 2. Thử nghiệm kích thích phế quản ---
+
+Thử nghiệm kích thích phế quản được sử dụng để chẩn đoán các tình trạng như hen suyễn, đặc biệt là khi đo phế dung là bình thường nhưng có nghi ngờ về tăng phản ứng đường thở. Thử nghiệm có thể được thực hiện bằng methacholine dạng hít, tập thể dục hoặc tăng thông khí tự nguyện (EVH) bằng cách sử dụng không khí ở nhiệt độ môi trường xung quanh hoặc nhiệt độ lạnh.Một số bệnh nhân hen suyễn có thể có chức năng phổi bình thường và các thông số đo phế dung bình thường giữa các đợt kịch phát. Khi nghi ngờ hen vẫn ở mức cao mặc dù kết quả đo phế dung bình thường,kiểm tra bằng thử nghiệm kích thích phế quảnbằng methacholine, một chất tương tự tổng hợp củaacetylcholinelà chất kích thích phế quản không đặc hiệu, được chỉ định để phát hiện hoặc loại trừ co thắt phế quản. Trong kiểm tra bằng thử nghiệmmethacholine, các thông số đo phế dung được đo ở lần khám ban đầu và sau khi hít phải liềumethacholinetăng dần. Liềumethacholinelàm giảm 20% FEV1 được gọi là PD20. Các phòng thí nghiệm có các định nghĩa khác nhau về mức độ phản ứng quá mức của đường thở, nhưng nhìn chung, những bệnh nhân có biểu hiện FEV1 giảm ít nhất 20% so với mức cơ bản (PD20) khi liềumethacholinedạng hít được cung cấp<25 mcg được coi là chẩn đoán tăng phản ứng phế quản, trong khi PD20 > 400 mcg loại trừ chẩn đoán. Giá trị PD20 từ 25 mcg đến 400 mcg không thể đưa ra kết luận (1).Nghiệm pháp gắng sứccó thể được sử dụng để phát hiện bệnh hen suyễn do tập thể dục nhưng ít nhạy cảm hơn việc kiểm tra bằng thử nghiệm methacholine để phát hiện tình trạng tăng phản ứng đường thở nói chung. Bệnh nhân thực hiện công việc ở mức độ liên tục trên máy chạy bộ hoặc máy đo tốc độ đạp xe trong 6 phút đến 8 phút ở cường độ được chọn để tạo ra nhịp tim bằng 80% nhịp tim tối đa dự đoán. Các chỉ số FEV1 và FVC được đo trước tập và 5, 15, và 30 phút sau khi tập thể dục. Co thắt phế quản do tập thể dục làm giảm FEV1 hoặc FVC≥10% đến 15% sau khi tập thể dục (2)..EVH cũng có thể được sử dụng để chẩn đoán hen do tập thể dục. EVH liên quan đến việc tăng thông khí chứa carbon dioxide 5% và oxy 21% ở thông khí tối đa 85% chủ động trong 6 phút. FEV1 sau đó được đo theo khoảng thời gian quy định sau khi thử nghiệm. Giống như các nghiệm pháp kích thích khác, mức độ suy giảm FEV1 để chẩn đoán chứng co thắt phế quản do tập thể dục thay đổi tùy theo phòng thí nghiệm.Tăng phản ứng do lạnh có thể được đánh giá bằng một kiểm tra tương tự, trong đó bệnh nhân tăng thông khí trong 3 phút đến 6 phút với hỗn hợp khí được làm mát từ -10°C đến -20°C. Kiểm tra này cần phải có thiết bị làm mát chuyên dụng có thể không có sẵn trong nhiều phòng thí nghiệm.Tài liệu tham khảo về thử nghiệm kích thích phế quản1.Coates AL, Wanger J, Cockcroft DW, et al. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests.Eur Respir J2017;49(5):1601526. Xuất bản ngày 1 tháng 5 năm 2017. doi:10.1183/13993003.01526-20162.Parsons JP, Hallstrand TS, Mastronarde JG, et al. An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction.Am J Respir Crit Care Med2013;187(9):1016-1027. doi:10.1164/rccm.201303-0437ST

@@ -1,0 +1,367 @@
+TIÊU ĐỀ: Bệnh phổi đột lỗ
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-chức-năng-hô-hấp/bệnh-phổi-kẽ/bệnh-phổi-đột-lỗ
+================================================================================
+
+NỘI DUNG:
+
+Bệnh phổi đột lỗ
+
+Theo
+
+Joyce Lee
+
+,
+
+MD, MAS
+
+,
+
+University of Colorado School of Medicine
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v920397_vi
+
+Lymphangioleiomatomatosis (LAM) là một sự tăng trưởng không đau của tế bào cơ trơn xung quanh phổi, các mạch máu phổi, mạch bạch huyết, và màng phổi. Bệnh này rất hiếm gặp và chủ yếu xảy ra ở phụ nữ trẻ. Các triệu chứng bao gồm khó thở, ho, đau ngực và ho ra máu; tràn dịch dưỡng chấp và tràn khí màng phổi tự phát là phổ biến. Nghi ngờ chẩn đoán được đưa ra dựa trên các triệu chứng và các dấu hiệu trên phim chụp X-quang ngực và được xác nhận bằng chụp CT độ phân giải cao. Điều trị bằng
+
+sirolimus
+
+hoặc ghép phổi. Tiên đoán là không chắc chắn, nhưng rối loạn dần dần tiến triển và qua nhiều năm thường dẫn đến suy hô hấp và tử vong.
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Bệnh u cơ trơn-bạch huyết ở phổi (LAM) là một bệnh hiếm gặp thường ảnh hưởng đến phụ nữ từ 20 tuổi đến 40 tuổi. Phụ nữ da trắng có nguy cơ cao nhất. LAM gây thương tổn đến
+
+<
+
+1 trong 1 triệu người mỗi năm (
+
+1
+
+); tuy nhiên, với những tiến bộ trong sàng lọc, tỷ lệ hiện mắc đang tăng lên (
+
+2
+
+).
+
+Bệnh u cơ trơn-bạch huyết đặc trưng bởi sự tăng sinh của các tế bào cơ trơn không điển hình khắp ngực, bao gồm nhu mô phổi, mạch máu, mạch bạch huyết và màng phổi, dẫn đến biến dạng cấu trúc phổi, khí phế thũng dạng nang và suy giảm chức năng phổi tiến triển.
+
+Tài liệu tham khảo chung
+
+1.
+
+Harknett EC, Chang WY, Byrnes S, et al
+
+. Use of variability in national and regional data to estimate the prevalence of lymphangioleiomyomatosis.
+
+QJM
+
+2011;104(11):971-979. doi:10.1093/qjmed/hcr116
+
+2.
+
+Lynn E, Forde SH, Franciosi AN, et al
+
+. Updated Prevalence of Lymphangioleiomyomatosis in Europe.
+
+Am J Respir Crit Care Med
+
+2024;209(4):456-459. doi:10.1164/rccm.202310-1736LE
+
+Căn nguyên của bệnh u cơ trơn-bạch huyết ở phổi
+
+Nguyên nhân gây ra bệnh u cơ trơn-bạch huyết được cho là do đột biến gen mất chức năng của các protein xơ cứng củ, tuberin và hamartin. Biểu hiện không được kiểm soát của các yếu tố tăng trưởng có liên quan đến quá trình sinh bệnh. Giả thuyết cho rằng hormone sinh dục nữ đóng vai trò trong quá trình sinh bệnh vẫn chưa được chứng minh.
+
+Bệnh này thường tự phát, nhưng LAM có nhiều điểm tương đồng với các triệu chứng ở phổi của
+
+bệnh xơ cứng củ
+
+; LAM xảy ra ở một số bệnh nhân mắc bệnh xơ cứng củ và một số người cho rằng đây là dạng không điển hình của bệnh xơ cứng củ. Các đột biến ở gen phức hợp bệnh xơ cứng-2 (
+
+TSC-2
+
+) đã được mô tả trong các tế bào LAM và u mạch (các hamartomas thận lành tính cấu tạo từ cơ trơn, mạch máu và mỡ). U cơ mỡ mạch xuất hiện ở 50% bệnh nhân mắc bệnh LAM. Những quan sát này cho thấy 1 trong 2 khả năng:
+
+Thể khảm soma của các đột biến
+
+TSC-2
+
+trong phổi và thận dẫn đến các ổ bệnh chồng lên nền các tế bào bình thường trong các mô này (mặc dù có thể dự đoán có nhiều vị trí bệnh riêng biệt). Những đột biến này dẫn đến sự biểu hiện quá mức không được kiểm soát của các yếu tố tăng trưởng (ví dụ: yếu tố tăng trưởng nội mô mạch máu [VEGF], yếu tố tăng trưởng giống
+
+insulin
+
+[IGF], yếu tố tăng trưởng có nguồn gốc từ tiểu cầu [PDGF], yếu tố tăng trưởng nguyên bào sợi [FGF]) cũng được cho là góp phần vào sự tiến triển của bệnh. Matrix metalloproteinase và cathepsin có thể chịu trách nhiệm cho quá trình di chuyển và biệt hóa tế bào, góp phần tái tạo mô.
+
+Bệnh u cơ trơn-bạch huyết là khối u di căn, phá hủy, mức độ thấp, có thể có nguồn gốc từ tử cung và lan rộng qua hệ thống bạch huyết.
+
+Các triệu chứng và dấu hiệu của bệnh u cơ trơn-bạch huyết ở phổi
+
+Các triệu chứng ban đầu của bệnh u cơ trơn-bạch huyết là mệt mỏi và khó thở (đặc biệt là khi gắng sức). Những triệu chứng này có thể bị hiểu nhầm là triệu chứng của
+
+bệnh hen suyễn
+
+hoặc
+
+bệnh phổi tắc nghẽn mạn tính
+
+(COPD). Ít gặp hơn, có thể xảy ra ho, đau ngực và ho ra máu. Có rất ít dấu hiệu bệnh tật, nhưng một số phụ nữ có ran nổ và khò khè. Hiếm khi xảy ra tình trạng tăng áp động mạch phổi.
+
+Nhiều bệnh nhân có
+
+tràn khí màng phổi
+
+tự phát cũng như
+
+tràn dịch màng phổi
+
+. Họ cũng có thể biểu hiện bằng các biểu hiện của bệnh lý hạch bạch huyết trục, thường gây tắc nghẽn bạch huyết, bao gồm tràn dịch màng phổi do dưỡng chấp, cổ trướng do dưỡng chấp và dịch niệu do dưỡng chấp. Triệu chứng được cho là tồi tệ hơn trong thời kỳ mang thai.
+
+U cơ mỡ mạch thận, mặc dù thường không có triệu chứng, có thể gây ra chảy máu nếu các khối u đó phát triển lớn (ví dụ: > 4 cm), thường biểu hiện như là tiểu máu hoặc đau mạng sườn.
+
+Chẩn đoán bệnh u cơ trơn-bạch huyết ở phổi
+
+Phim chụp X-quang ngực và chụp CT độ phân giải cao (HRCT)
+
+Đo chức năng hô hấp
+
+Xét nghiệm VEGF-D
+
+Sinh thiết phổi nếu HRCT và xét nghiệm VEGF-D không đưa ra chẩn đoán
+
+Chẩn đoán nghi ngờ bệnh u cơ trơn-bạch huyết ở phụ nữ trẻ có triệu chứng khó thở kèm theo thay đổi kẽ với thể tích phổi bình thường hoặc tăng trên phim chụp X-quang ngực, tràn khí màng phổi tự phát hoặc tràn dịch dưỡng chấp (
+
+1
+
+). Bệnh u cơ trơn-bạch huyết thường bị chẩn đoán nhầm là một dạng
+
+bệnh phổi kẽ
+
+khác.
+
+HRCT được khuyến nghị cho tất cả các bệnh nhân nghi ngờ mắc bệnh này; phát hiện nhiều nang nhỏ, phân bố rải rác, thành mỏng thường là dấu hiệu đặc trưng của LAM. Tràn khí màng phổi, tràn dịch màng phổi và tràn dịch dưỡng chấp (ở lồng ngực hoặc ở bụng) có thể được nhìn thấy trên hình ảnh.
+
+Bệnh phổi đột lỗ
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Joyce Lee cung cấp
+
+Định lượng VEGF-D huyết thanh được khuyến cáo. Nồng độ VEGF-D huyết thanh tăng ở phần lớn phụ nữ bị LAM và bình thường ở phụ nữ có các dạng bệnh nang phổi khác. Mức VEGF-D tăng cao có thể xác nhận LAM, nhưng mức bình thường không loại trừ chẩn đoán (
+
+2
+
+).
+
+Sinh thiết (phẫu thuật) chỉ được chỉ định khi các kết quả HRCT và xét nghiệm VEGF-D không đưa ra được chẩn đoán. Các phát hiện về sự gia tăng bất thường các tế bào cơ trơn (các tế bào LAM) liên quan đến những thay đổi nang ttrên mô bệnh học xác nhận bệnh.
+
+Các kiểm tra chức năng phổi
+
+hỗ trợ chẩn đoán và đặc biệt hữu ích cho việc theo dõi. Rối loạn điển hình là rối loạn thông khí tắc nghẽn hoặc hỗn hợp. Phổi thường bị tăng trương lực với sự gia tăng dung tích toàn phổi (TLC) và thể tích lồng ngực. Bẫy khí (tăng thể tích khí cặn [RV] và RV/TLC) thường có mặt. Áp suất riêng phần của oxy động mạch (PaO2) và khả năng khuếch tán carbon monoxide của phổi (DLCO) thường giảm. Hoạt động thể lực giảm ở hầu hết các bệnh nhân.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+McCarthy C, Gupta N, Johnson SR, Yu JJ, McCormack FX
+
+. Lymphangioleiomyomatosis: pathogenesis, clinical features, diagnosis, and management.
+
+Lancet Respir Med
+
+2021;9(11):1313-1327. doi:10.1016/S2213-2600(21)00228-9
+
+2.
+
+McCormack FX, Gupta N, Finlay GR, et al
+
+: Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management.
+
+Am J Respir Crit Care Med
+
+194 (6):748–761, 2016.
+
+Điều trị bệnh u cơ trơn-bạch huyết phổi
+
+Sirolimus
+
+Ghép phổi
+
+Sirolimus (một thuốc ức chế mTOR) có thể giúp ổn định hoặc làm chậm tình trạng suy giảm chức năng phổi ở những bệnh nhân bị suy phổi vừa phải (thể tích thở ra gắng sức trong 1 giây [FEV1] < 70% dự đoán). Điều trị bằng
+
+sirolimus
+
+được khuyến nghị cho những bệnh nhân có chức năng phổi bất thường hoặc suy giảm (
+
+1
+
+). Các phương pháp điều trị thay thế, chẳng hạn như thay đổi nội tiết tố bằng progestin, tamoxifen, cắt bỏ buồng trứng hoặc liệu pháp chống viêm tetracycline phần lớn không hiệu quả và không được khuyến nghị.
+
+Tràn khí màng phổi có thể khó xử trí vì nó thường tái phát, hai bên và ít đáp ứng với các biện pháp tiêu chuẩn. Tràn khí màng phổi tái phát đòi hỏi phải chà sát màng phổi, gây dính bằng bột talc hoặc hóa chất, hoặc cắt bỏ màng phổi. Nút mạch để ngăn ngừa chảy máu nên được xem xét để điều trị u cơ mỡ mạch
+
+>
+
+4 cm.
+
+Điều trị chuẩn của bệnh u cơ trơn-bạch huyết phổi là
+
+ghép phổi
+
+, nhưng rối loạn có thể tái phát trong phổi được ghép.
+
+Hầu hết bệnh nhân đều có thể dung nạp tốt việc đi lại bằng máy bay (
+
+2
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Feemster LC, Lyons PG, Chatterjee RS, et al
+
+. Summary for Clinicians: Lymphangioleiomyomatosis Diagnosis and Management Clinical Practice Guideline.
+
+Ann Am Thorac Soc
+
+2017;14(7):1073-1075. doi:10.1513/AnnalsATS.201609-685CME
+
+2.
+
+Taveira-DaSilva AM, Burstein D, Hathaway OM, et al
+
+. Pneumothorax after air travel in lymphangioleiomyomatosis, idiopathic pulmonary fibrosis, and sarcoidosis.
+
+Chest
+
+2009;136(3):665-670. doi:10.1378/chest.08-3034
+
+Tiên lượng cho bệnh u cơ trơn-bạch huyết phổi
+
+Tiên lượng cho bệnh nhân mắc bệnh u cơ trơn mạch bạch huyết vẫn chưa rõ ràng vì căn bệnh này rất hiếm gặp và diễn biến lâm sàng của bệnh nhân mắc bệnh LAM cũng khác nhau. Nói chung, bệnh tiến triển từ từ, cuối cùng dẫn đến suy hô hấp và tử vong. Tỷ lệ của thời gian sống thêm 10 năm ước tính có thể thay đổi, nhưng vượt quá 90% và khả quan hơn so với suy nghĩ trước đây (
+
+1
+
+). Phụ nữ nên được khuyên rằng sự tiến triển có thể tăng lên trong thời gian mang thai.
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Gupta N, Lee HS, Ryu JH, et al
+
+. The NHLBI LAM Registry: Prognostic Physiologic and Radiologic Biomarkers Emerge From a 15-Year Prospective Longitudinal Analysis.
+
+Chest
+
+2019;155(2):288-296. doi:10.1016/j.chest.2018.06.016
+
+Những điểm chính
+
+Bệnh u cơ trơn-bạch huyết (LAM) có thể bắt chước bệnh phổi kẽ nhưng thực chất là tình trạng phát triển chậm, hiếm gặp của các tế bào cơ trơn ở nhiều cơ quan khác nhau, bao gồm cả phổi.
+
+Xem xét chẩn đoán ở những phụ nữ trẻ bị khó thở không rõ nguyên nhân cùng với những thay đổi kẽ với thể tích phổi bình thường hoặc tăng trên phim chụp X-quang ngực, tràn khí màng phổi tự phát hoặc tràn dịch màng phổi do dưỡng chấp.
+
+Thực hiện xét nghiệm CT độ phân giải cao và VEGF-D (yếu tố tăng trưởng nội mô mạch máu D); nếu kết quả không rõ ràng, hãy cân nhắc sinh thiết phổi bằng phẫu thuật.
+
+Xem xét điều trị bằng sirolimus cho LAM với chức năng phổi bất thường hoặc giảm dần.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+LAM Foundation
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của bệnh u cơ trơn-bạch huyết ở phổi ---
+
+Nguyên nhân gây ra bệnh u cơ trơn-bạch huyết được cho là do đột biến gen mất chức năng của các protein xơ cứng củ, tuberin và hamartin. Biểu hiện không được kiểm soát của các yếu tố tăng trưởng có liên quan đến quá trình sinh bệnh. Giả thuyết cho rằng hormone sinh dục nữ đóng vai trò trong quá trình sinh bệnh vẫn chưa được chứng minh.Bệnh này thường tự phát, nhưng LAM có nhiều điểm tương đồng với các triệu chứng ở phổi củabệnh xơ cứng củ; LAM xảy ra ở một số bệnh nhân mắc bệnh xơ cứng củ và một số người cho rằng đây là dạng không điển hình của bệnh xơ cứng củ. Các đột biến ở gen phức hợp bệnh xơ cứng-2 (TSC-2) đã được mô tả trong các tế bào LAM và u mạch (các hamartomas thận lành tính cấu tạo từ cơ trơn, mạch máu và mỡ). U cơ mỡ mạch xuất hiện ở 50% bệnh nhân mắc bệnh LAM. Những quan sát này cho thấy 1 trong 2 khả năng:Thể khảm soma của các đột biếnTSC-2trong phổi và thận dẫn đến các ổ bệnh chồng lên nền các tế bào bình thường trong các mô này (mặc dù có thể dự đoán có nhiều vị trí bệnh riêng biệt). Những đột biến này dẫn đến sự biểu hiện quá mức không được kiểm soát của các yếu tố tăng trưởng (ví dụ: yếu tố tăng trưởng nội mô mạch máu [VEGF], yếu tố tăng trưởng giốnginsulin[IGF], yếu tố tăng trưởng có nguồn gốc từ tiểu cầu [PDGF], yếu tố tăng trưởng nguyên bào sợi [FGF]) cũng được cho là góp phần vào sự tiến triển của bệnh. Matrix metalloproteinase và cathepsin có thể chịu trách nhiệm cho quá trình di chuyển và biệt hóa tế bào, góp phần tái tạo mô.Bệnh u cơ trơn-bạch huyết là khối u di căn, phá hủy, mức độ thấp, có thể có nguồn gốc từ tử cung và lan rộng qua hệ thống bạch huyết.
+
+--- 2. Các triệu chứng và dấu hiệu của bệnh u cơ trơn-bạch huyết ở phổi ---
+
+Các triệu chứng ban đầu của bệnh u cơ trơn-bạch huyết là mệt mỏi và khó thở (đặc biệt là khi gắng sức). Những triệu chứng này có thể bị hiểu nhầm là triệu chứng củabệnh hen suyễnhoặcbệnh phổi tắc nghẽn mạn tính(COPD). Ít gặp hơn, có thể xảy ra ho, đau ngực và ho ra máu. Có rất ít dấu hiệu bệnh tật, nhưng một số phụ nữ có ran nổ và khò khè. Hiếm khi xảy ra tình trạng tăng áp động mạch phổi.Nhiều bệnh nhân cótràn khí màng phổitự phát cũng nhưtràn dịch màng phổi. Họ cũng có thể biểu hiện bằng các biểu hiện của bệnh lý hạch bạch huyết trục, thường gây tắc nghẽn bạch huyết, bao gồm tràn dịch màng phổi do dưỡng chấp, cổ trướng do dưỡng chấp và dịch niệu do dưỡng chấp. Triệu chứng được cho là tồi tệ hơn trong thời kỳ mang thai.U cơ mỡ mạch thận, mặc dù thường không có triệu chứng, có thể gây ra chảy máu nếu các khối u đó phát triển lớn (ví dụ: > 4 cm), thường biểu hiện như là tiểu máu hoặc đau mạng sườn.
+
+--- 3. Chẩn đoán bệnh u cơ trơn-bạch huyết ở phổi ---
+
+Phim chụp X-quang ngực và chụp CT độ phân giải cao (HRCT)Đo chức năng hô hấpXét nghiệm VEGF-DSinh thiết phổi nếu HRCT và xét nghiệm VEGF-D không đưa ra chẩn đoánChẩn đoán nghi ngờ bệnh u cơ trơn-bạch huyết ở phụ nữ trẻ có triệu chứng khó thở kèm theo thay đổi kẽ với thể tích phổi bình thường hoặc tăng trên phim chụp X-quang ngực, tràn khí màng phổi tự phát hoặc tràn dịch dưỡng chấp (1). Bệnh u cơ trơn-bạch huyết thường bị chẩn đoán nhầm là một dạngbệnh phổi kẽkhác.HRCT được khuyến nghị cho tất cả các bệnh nhân nghi ngờ mắc bệnh này; phát hiện nhiều nang nhỏ, phân bố rải rác, thành mỏng thường là dấu hiệu đặc trưng của LAM. Tràn khí màng phổi, tràn dịch màng phổi và tràn dịch dưỡng chấp (ở lồng ngực hoặc ở bụng) có thể được nhìn thấy trên hình ảnh.Bệnh phổi đột lỗHình ảnhHình ảnh do bác sĩ Joyce Lee cung cấpĐịnh lượng VEGF-D huyết thanh được khuyến cáo. Nồng độ VEGF-D huyết thanh tăng ở phần lớn phụ nữ bị LAM và bình thường ở phụ nữ có các dạng bệnh nang phổi khác. Mức VEGF-D tăng cao có thể xác nhận LAM, nhưng mức bình thường không loại trừ chẩn đoán (2).Sinh thiết (phẫu thuật) chỉ được chỉ định khi các kết quả HRCT và xét nghiệm VEGF-D không đưa ra được chẩn đoán. Các phát hiện về sự gia tăng bất thường các tế bào cơ trơn (các tế bào LAM) liên quan đến những thay đổi nang ttrên mô bệnh học xác nhận bệnh.Các kiểm tra chức năng phổihỗ trợ chẩn đoán và đặc biệt hữu ích cho việc theo dõi. Rối loạn điển hình là rối loạn thông khí tắc nghẽn hoặc hỗn hợp. Phổi thường bị tăng trương lực với sự gia tăng dung tích toàn phổi (TLC) và thể tích lồng ngực. Bẫy khí (tăng thể tích khí cặn [RV] và RV/TLC) thường có mặt. Áp suất riêng phần của oxy động mạch (PaO2) và khả năng khuếch tán carbon monoxide của phổi (DLCO) thường giảm. Hoạt động thể lực giảm ở hầu hết các bệnh nhân.Tài liệu tham khảo chẩn đoán1.McCarthy C, Gupta N, Johnson SR, Yu JJ, McCormack FX. Lymphangioleiomyomatosis: pathogenesis, clinical features, diagnosis, and management.Lancet Respir Med2021;9(11):1313-1327. doi:10.1016/S2213-2600(21)00228-92.McCormack FX, Gupta N, Finlay GR, et al: Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management.Am J Respir Crit Care Med194 (6):748–761, 2016.
+
+--- 4. Điều trị bệnh u cơ trơn-bạch huyết phổi ---
+
+SirolimusGhép phổiSirolimus (một thuốc ức chế mTOR) có thể giúp ổn định hoặc làm chậm tình trạng suy giảm chức năng phổi ở những bệnh nhân bị suy phổi vừa phải (thể tích thở ra gắng sức trong 1 giây [FEV1] < 70% dự đoán). Điều trị bằngsirolimusđược khuyến nghị cho những bệnh nhân có chức năng phổi bất thường hoặc suy giảm (1). Các phương pháp điều trị thay thế, chẳng hạn như thay đổi nội tiết tố bằng progestin, tamoxifen, cắt bỏ buồng trứng hoặc liệu pháp chống viêm tetracycline phần lớn không hiệu quả và không được khuyến nghị.Tràn khí màng phổi có thể khó xử trí vì nó thường tái phát, hai bên và ít đáp ứng với các biện pháp tiêu chuẩn. Tràn khí màng phổi tái phát đòi hỏi phải chà sát màng phổi, gây dính bằng bột talc hoặc hóa chất, hoặc cắt bỏ màng phổi. Nút mạch để ngăn ngừa chảy máu nên được xem xét để điều trị u cơ mỡ mạch>4 cm.Điều trị chuẩn của bệnh u cơ trơn-bạch huyết phổi làghép phổi, nhưng rối loạn có thể tái phát trong phổi được ghép.Hầu hết bệnh nhân đều có thể dung nạp tốt việc đi lại bằng máy bay (2).Tài liệu tham khảo về điều trị1.Feemster LC, Lyons PG, Chatterjee RS, et al. Summary for Clinicians: Lymphangioleiomyomatosis Diagnosis and Management Clinical Practice Guideline.Ann Am Thorac Soc2017;14(7):1073-1075. doi:10.1513/AnnalsATS.201609-685CME2.Taveira-DaSilva AM, Burstein D, Hathaway OM, et al. Pneumothorax after air travel in lymphangioleiomyomatosis, idiopathic pulmonary fibrosis, and sarcoidosis.Chest2009;136(3):665-670. doi:10.1378/chest.08-3034
+
+--- 5. Tiên lượng cho bệnh u cơ trơn-bạch huyết phổi ---
+
+Tiên lượng cho bệnh nhân mắc bệnh u cơ trơn mạch bạch huyết vẫn chưa rõ ràng vì căn bệnh này rất hiếm gặp và diễn biến lâm sàng của bệnh nhân mắc bệnh LAM cũng khác nhau. Nói chung, bệnh tiến triển từ từ, cuối cùng dẫn đến suy hô hấp và tử vong. Tỷ lệ của thời gian sống thêm 10 năm ước tính có thể thay đổi, nhưng vượt quá 90% và khả quan hơn so với suy nghĩ trước đây (1). Phụ nữ nên được khuyên rằng sự tiến triển có thể tăng lên trong thời gian mang thai.Tài liệu tham khảo về tiên lượng bệnh1.Gupta N, Lee HS, Ryu JH, et al. The NHLBI LAM Registry: Prognostic Physiologic and Radiologic Biomarkers Emerge From a 15-Year Prospective Longitudinal Analysis.Chest2019;155(2):288-296. doi:10.1016/j.chest.2018.06.016
+
+--- 6. Những điểm chính ---
+
+Bệnh u cơ trơn-bạch huyết (LAM) có thể bắt chước bệnh phổi kẽ nhưng thực chất là tình trạng phát triển chậm, hiếm gặp của các tế bào cơ trơn ở nhiều cơ quan khác nhau, bao gồm cả phổi.Xem xét chẩn đoán ở những phụ nữ trẻ bị khó thở không rõ nguyên nhân cùng với những thay đổi kẽ với thể tích phổi bình thường hoặc tăng trên phim chụp X-quang ngực, tràn khí màng phổi tự phát hoặc tràn dịch màng phổi do dưỡng chấp.Thực hiện xét nghiệm CT độ phân giải cao và VEGF-D (yếu tố tăng trưởng nội mô mạch máu D); nếu kết quả không rõ ràng, hãy cân nhắc sinh thiết phổi bằng phẫu thuật.Xem xét điều trị bằng sirolimus cho LAM với chức năng phổi bất thường hoặc giảm dần.
+
+--- 7. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.LAM Foundation

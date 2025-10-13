@@ -1,0 +1,148 @@
+TIÊU ĐỀ: Cai máy thở
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/suy-hô-hấp-và-thông-khí-cơ-học/cai-máy-thở
+================================================================================
+
+NỘI DUNG:
+
+Cai máy thở
+
+Theo
+
+Bhakti K. Patel
+
+,
+
+MD
+
+,
+
+University of Chicago
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 4 2024
+
+v927445_vi
+
+Việc ngưng hỗ trợ thở máy được thực hiện tốt nhất không bằng cách giảm dần mức độ hỗ trợ của máy (cai) mà bằng cách xác định một cách hệ thống và loại bỏ các tác nhân gây suy hô hấp.
+
+(Xem thêm
+
+Tổng quan về thông khí cơ học
+
+)
+
+Khi các chất gây kích thích suy hô hấp đã được loại bỏ, máy thở không còn cần thiết nữa. Tuy nhiên, nếu các tác nhân vẫn còn hoặc sự phục hồi không hoàn toàn, giảm sự hỗ trợ cần thiết của máy thở sẽ làm chậm sự phục hồi. Các thử nghiệm thở tự nhiên hàng ngày sử dụng ống chữ T làm giảm thời gian thở máy so với việc giảm dần nhịp thở bằng cách sử dụng
+
+thông khí bắt buộc ngắt quãng đồng bộ (SIMV)
+
+. Hơn nữa, một thử nghiệm lâm sàng so sánh thử nghiệm dùng ống chữ T kéo dài 2 tiếng “có yêu cầu cao hơn” với thử nghiệm hỗ trợ áp lực trong 30 phút “ít yêu cầu hơn”, đã chứng minh tỷ lệ rút ống thành công tăng lên với thông khí hỗ trợ áp lực trong 30 phút “ít yêu cầu hơn”. không tăng nguy cơ đặt lại nội khí quản (
+
+1
+
+).
+
+Một khi bệnh nhân không còn bị sốc, có một độ bão hòa oxy động mạch đầy đủ với phần trăm oxy thở vào (FIO2)
+
+≤
+
+0,5 có áp lực dương cuối kỳ thở ra (PEEP)
+
+≤
+
+7,5 cm H2O, không có bằng chứng cho thấy hoạt động hô hấp không bền vững (ví dụ, thông khí phút
+
+>
+
+20 L/phút), một thử nghiệm thở tự nhiên hàng ngày được thực hiện bằng cách sử dụng thở ống chữ T hoặc áp lực dương liên tục (CPAP) là 5 cm H2O.
+
+Bệnh nhân có khả năng duy trì thở tự nhiên thường thở chậm và sâu, thay vì nhanh và nông. Quan sát này đã được chính thức hóa như là
+
+rapid shallow breathing (RSB) index
+
+chỉ số thở nhanh nông (RSB), được xác định bằng cách chia tần số thở không được hỗ trợ của bệnh nhân (trong nhịp thở/phút) cho thể tích thông khí (theo L). Một giá trị
+
+<
+
+105 cho thấy rằng thở tự nhiên có thể sẽ thành công, mặc dù một phép đo đơn lẻ không phải là tiên đoán thành công một cách hoàn hảo (
+
+2
+
+).
+
+Quyết định liệu có nên rút ống cho bệnh nhân sau khi thử nghiệm thở tự nhiên đã thay bằng việc sử dụng chỉ số thở nhanh nông và dựa nhiều hơn vào đánh giá lâm sàng trong quá trình thử nghiệm, bổ sung bằng đánh giá khí máu. Bệnh nhân có khả năng vận động tốt trong một cuộc thử nghiệm thở ngắn từ 1 đến 2 giờ và những người có khí máu thuận lợi là những ứng cử viên tốt cho việc rút nội khí quản. Quyết định rút ống là một quyết định riêng biệt không liên quan đến quyết định ngừng hỗ trợ thở máy và cần phải đánh giá phản xạ bảo vệ đường thở và ý thức bệnh nhân, cũng như tình trạng thông thoáng của đường thở.
+
+Thuốc an thần và opioid
+
+có thể kéo dài thời gian thở máy. Những loại thuốc như vậy có thể tích tụ và gây ra tình trạng an thần kéo dài, làm nản lòng những nỗ lực thực hiện các thử nghiệm thở tự nhiên ngay cả khi nguyên nhân gây suy hô hấp đã được khắc phục. Mức độ an thần nên được đánh giá liên tục và nên cai thuốc càng sớm càng tốt. Các phác đồ chính thức có thể được sử dụng, hoặc ngắt quãng hàng ngày có thể được thực hiện. Truyền dịch được dừng lại cho đến khi nào bệnh nhân tỉnh dậy hoặc làm theo các lệnh hoặc cần phải dùng lại thuốc an thần nếu bệnh nhân kích động, thở không đồng bộ với máy thở, hoặc các rối loạn sinh lý khác. Nếu vẫn cần sử dụng thuốc an thần, thuốc sẽ được cho lại với liều bằng nửa liều trước và tăng liều khi cần thiết. Một số bằng chứng chỉ ra rằng thời gian thở máy trung bình giảm ở các cơ sở sử dụng "nghỉ dùng thuốc an thần" hàng ngày hoặc các phương pháp an thần khác, cũng như các thử nghiệm thở tự nhiên hàng ngày (
+
+3
+
+).
+
+Tài liệu tham khảo
+
+1.
+
+Subira C, Hernandez G, Vazquez A, et al
+
+: Effect of pressure support vs T-piece ventilation strategies during spontaneous breathing trials on successful extubation among patients receiving mechanical ventilation: A randomized clinical trial.
+
+JAMA
+
+321(22):2175-2182, 2019. doi: 10.1001/jama.2019.7234
+
+2.
+
+Karthika M, Al Enezi FA, Pillai LV, Arabi YM
+
+: Rapid shallow breathing index.
+
+Ann Thorac Med
+
+11(3):167–176, 2016. doi: 10.4103/1817-1737.176876
+
+3.
+
+Kress JP, Pohlman AS, O'Connor MF, Hall JB
+
+: Daily interruption of sedative infusions in critically ill patients undergoing mechanical ventilation.
+
+N Engl J Med
+
+342(20):1471–1477, 2000. doi:10.1056/NEJM200005183422002
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

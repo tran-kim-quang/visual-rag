@@ -1,0 +1,817 @@
+TIÊU ĐỀ: Cường giáp
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/bệnh-lý-tuyến-giáp/cường-giáp
+================================================================================
+
+NỘI DUNG:
+
+Cường giáp
+
+(Bệnh nhiễm độc giáp, bao gồm cả bệnh Graves)
+
+Theo
+
+Laura Boucai
+
+,
+
+MD
+
+,
+
+Weill Cornell Medical College
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 2 2024
+
+|
+
+đã sửa đổi
+
+Thg 5 2025
+
+v981601_vi
+
+Cường giáp được đặc trưng bởi tăng chuyển hóa và tăng nồng độ các hormone tuyến giáp tự do. Các triệu chứng bao gồm đánh trống ngực, mệt mỏi, giảm cân, không chịu được nhiệt, lo lắng và run. Chẩn đoán bằng lâm sàng và xét nghiệm chức năng tuyến giáp. Điều trị phụ thuộc vào nguyên nhân.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về chức năng tuyến giáp
+
+.)
+
+Bệnh cường giáp ảnh hưởng đến khoảng 1% số dân ở Hoa Kỳ. Nó có thể xảy ra ở mọi lứa tuổi nhưng phổ biến hơn ở phụ nữ trong độ tuổi từ 20 tuổi đến 50 tuổi (
+
+1
+
+).
+
+Bệnh cường giáp có thể được phân loại dựa trên sự hấp thu iốt phóng xạ của tuyến giáp và nồng độ hormone tuyến giáp lưu hành (xem bảng
+
+Kết quả xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhau
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Lee SY, Pearce EN
+
+. Hyperthyroidism: A Review.
+
+JAMA
+
+2023;330(15):1472-1483. doi:10.1001/jama.2023.19052
+
+Nguyên nhân Cường giáp
+
+Bệnh cường giáp có thể là do tăng
+
+tổng hợp và bài tiết hormone tuyến giáp
+
+(thyroxine [T4] và triiodothyronine [T3]) từ tuyến giáp, do globulin miễn dịch kích thích tuyến giáp (TSI) hoặc do cường chức năng tuyến giáp tự trị gây ra. Nó cũng có thể là kết quả của sự phóng thích hormone tuyến giáp quá mức từ tuyến giáp mà không tăng tổng hợp. Sự phóng thích này thường gây ra bởi những thay đổi phá huỷ tuyến giáp của các dạng viêm tuyến giáp.
+
+Các nguyên nhân phổ biến nhất
+
+của bệnh cường giáp bao gồm
+
+Bệnh Graves
+
+Bướu đa nhân
+
+Nhân nóng cường chức năng, nhân độc, tự trị
+
+Viêm tuyến giáp
+
+Bệnh Graves (bệnh bướu độc lan tỏa),
+
+nguyên nhân phổ biến nhất của cường giáp, được đặc trưng bởi cường giáp và một trong những biểu hiện sau đây:
+
+Bướu cổ
+
+Vận nhãn ngoài
+
+Bệnh da do thâm nhiễm
+
+Bệnh Graves là do tự kháng thể (TSI) chống lại thụ thể hormone kích thích tuyến giáp (TSH) của tuyến giáp; không giống như hầu hết các tự kháng thể có tính chất ức chế, tự kháng thể này có tính chất kích thích, do đó gây ra sự tổng hợp và bài tiết liên tục lượng T4 và T3 dư thừa. Bệnh Basedow (như
+
+viêm tuyến giáp Hashimoto
+
+đôi khi xảy ra cùng với các rối loạn tự miễn khác, bao gồm bệnh
+
+đái tháo đường
+
+loại 1,
+
+bạch biến
+
+, tóc bạc sớm, thiếu máu ác tính, các bệnh mô liên kết, và
+
+hội chứng suy đa tuyến
+
+. Yếu tố di truyền làm gia tăng nguy cơ bệnh Basedow, mặc dù các gen liên quan chưa được biết đến.
+
+Bệnh sinh của bệnh mắt do thâm nhiễm (gây lồi mắt trong bệnh Basedow) chưa được hiểu biết rõ ràng nhưng có thể là do các globulin miễn dịch tác động trực tiếp trên thụ thể TSH trong nguyên bào sợi và tế bào mỡ trong hốc mắt gây ra giải phóng các cytokine tiền viêm, viêm và tích tụ glycosaminoglycans. Biểu hiện mắt cũng có thể xảy ra trước khi bắt đầu có tình trạng cường giáp hoặc có thể xuất hiện muộn đến 20 năm sau và thường xấu đi hoặc giảm một cách độc lập với biểu hiện lâm sàng của cường giáp. Có bệnh mắt điển hình khi chức năng tuyến giáp bình thường được gọi là bệnh Graves bình giáp (xem ảnh
+
+Biểu hiện ở mắt của bệnh Graves – Lồi mắt
+
+).
+
+Bướu đơn nhân hoặc đa nhân độc (bệnh Plumeer)
+
+đôi khi là kết quả từ các đột biến gen thụ thể TSH gây ra hoạt hóa tuyến giáp liên tục. Bệnh nhân có bướu nhân độc không có biểu hiện tự miễn dịch hoặc các kháng thể lưu hành được quan sát thấy ở bệnh nhân bị bệnh Basedow. Ngoài ra, trái ngược với bệnh Basedow, những người bướu nhân độc và bướu đa nhân thường không thuyên giảm bệnh.
+
+Bệnh tuyến giáp viêm (viêm tuyến giáp)
+
+bao gồm viêm tuyến giáp u hạt bán cấp,
+
+viêm tuyến giáp Hashimoto
+
+và
+
+viêm tuyến giáp tế bào lympho im lặng
+
+, một biến thể của viêm tuyến giáp Hashimoto. Cường giáp thường gặp hơn trong
+
+viêm tuyến giáp u hạt bán cấp
+
+và là kết quả của những thay đổi phá hủy trong tuyến và giải phóng hormone dự trữ chứ không phải do tăng tổng hợp. Suy giáp có thể xảy ra sau đó.
+
+Tiết TSH không thích hợp
+
+là một nguyên nhân hiếm. Bệnh nhân cường giáp nguyên phát có nồng độ TSH không thể phát hiện được. Tuy nhiên, nồng độ TSH có thể được phát hiện ở những bệnh nhân có u tuyến yên thùy trước tiết TSH hoặc có tuyến yên kháng hormone tuyến giáp, ở những bệnh nhân có nồng độ TSH cao. TSH được tạo ra trong cả hai rối loạn tuyến yên này có hoạt tính sinh học mạnh hơn TSH bình thường. Tăng dưới nhóm alpha TSH trong máu (hữu ích trong chẩn đoán phân biệt) xảy ra ở những bệnh nhân có u tuyến yên tiết TSH.
+
+Cường giáp do thuốc
+
+có thể là kết quả của amiodarone, thuốc ức chế điểm kiểm soát được sử dụng trong điều trị ung thư, alemtuzumab được sử dụng trong điều trị bệnh đa xơ cứng hoặc interferon-alfa, có thể gây viêm tuyến giáp kèm theo bệnh cường giáp và các rối loạn tuyến giáp khác. Mặc dù thường gây ra chứng suy giáp, lithium hiếm khi gây ra chứng cường giáp. Bệnh nhân dùng các thuốc này cần được theo dõi chặt chẽ.
+
+Nhiễm độc giáp giả tạo
+
+là cường giáp do cố ý hoặc tình cờ tiêu thụ quá nhiều hormone tuyến giáp.
+
+Ăn quá nhiều iốt
+
+gây ra chứng cường giáp với sự hấp thụ iốt phóng xạ của tuyến giáp thấp. Nó thường xảy ra trên những bệnh nhân có bướu cổ dạng nốt không độc hại (đặc biệt là bệnh nhân cao tuổi) được dùng thuốc có chứa iốt (ví dụ: amiodarone) hoặc những người trải qua nghiên cứu X quang bằng thuốc cản quang giàu iốt. Nguyên nhân có thể do quá thừa iốt cung cấp chất nền cho các vùng tự trị có chức năng (tức là không theo sự điều hòa của TSH) của tuyến giáp để sản sinh hormone. Suy giáp thường kéo dài khi lượng iốt dư thừa vẫn còn cao trong tuần hoàn.
+
+Mang thai trứng nước
+
+(chửa trứng) và ung thư đường mật
+
+tạo ra nồng độ
+
+gonadotropin màng đệm người
+
+(hCG) cao trong huyết thanh, một chất kích thích tuyến giáp yếu. Nồng độ hCG cao nhất trong ba tháng đầu của thai kỳ và dẫn đến giảm TSH huyết thanh và tăng nhẹ T4 tự do trong huyết thanh đôi khi được quan sát thấy vào thời điểm đó. Sự kích thích tuyến giáp tăng có thể một phần do tăng mức hCG, một biến thể hCG dường như là một chất kích thích tuyến giáp mạnh hơn so với hCG sialated hơn. Cường giáp trong thai trứng, ung thư biểu mô màng đệm và
+
+chứng nôn nghén nặng
+
+là thoáng qua; chức năng tuyến giáp bình thường trở lại khi thai trứng được loại bỏ, ung thư biểu mô màng đệm được điều trị thích hợp hoặc chứng nôn nghén giảm đi.
+
+Cường giáp không tự miễn do đột biến trội nhiễm sắc thể thường
+
+biểu hiện trong suốt thời thơ ấu. Nó là kết quả của sự đột biến trong gen quy định thụ thể TSH gây ra sản xuất hormone kích thích tuyến giáp liên tục.
+
+Ung thư tuyến giáp di căn
+
+có thể là nguyên nhân. Sự sản xuất quá nhiều hormone tuyến giáp hiếm khi xảy ra do ung thư tuyến giáp thể nang di căn có chức năng, đặc biệt là trong các di căn phổi.
+
+U quái giáp buồng trứng
+
+phát triển khi các khối u quái buồng trứng chứa đủ mô tuyến giáp gây ra cường giáp. Sự hấp thu iốt phóng xạ xảy ra trong khung chậu, và sự hấp thu ở tuyến giáp thường bị triệt tiêu.
+
+Sinh lý bệnh Cường giáp
+
+Trong cường giáp, T3 huyết thanh thường tăng lên nhiều hơn T4, có thể là do tăng tiết của T3 cũng như chuyển đổi T4 thành T3 trong mô ngoại vi. Ở một số bệnh nhân, chỉ tăng T3 (nhiễm độc T3).
+
+Nhiễm độc T3 có thể xảy ra trong bất kỳ rối loạn phổ biến nào gây ra chứng cường giáp, bao gồm bệnh Basedow, bướu đa nhân tuyến giáp và nhân độc tuyến giáp tự trị chức năng. Nếu nhiễm độc T3 không được điều trị, bệnh nhân cũng thường phát sinh các bất thường về xét nghiệm điển hình của bệnh cường giáp (tức là tăng T4 và tăng lượng hấp thu iốt-123). Các thể viêm tuyến giáp thường có một giai đoạn cường giáp, sau đó là giai đoạn suy giáp.
+
+Triệu chứng và Dấu hiệu Cường giáp
+
+Hầu hết các triệu chứng và dấu hiệu đều giống nhau bất kể nguyên nhân. Các trường hợp ngoại lệ bao gồm bệnh mắt thâm nhiễm và bệnh da thâm nhiễm, chỉ xảy ra ở bệnh Graves.
+
+Ngọc trai & cạm bẫy
+
+Người lớn tuổi mắc bệnh cường giáp có thể có các triệu chứng tương tự như trầm cảm hoặc sa sút trí tuệ.
+
+Biểu hiện lâm sàng có thể rầm rộ hoặc khó nhận biết. Có thể có bướu cổ hoặc nhân.
+
+Nhiều triệu chứng phổ biến của cường giáp là do tăng cường độ nhạy cảm với hormone adrenergic, chẳng hạn như hồi hộp, đánh trống ngực, tăng động, tăng tiết mồ hôi, mẫn cảm với nhiệt, mệt mỏi, tăng cảm giác thèm ăn, sụt cân, mất ngủ, suy nhược và đi tiêu thường xuyên (thỉnh thoảng tiêu chảy). Có thể xuất hiện giảm kinh nguyệt.
+
+Các dấu hiệu có thể bao gồm da ấm, ẩm, run, nhịp tim nhanh, áp lực mạch mở rộng và rung nhĩ.
+
+Bệnh Graves (tuyến giáp phì đại)
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Bệnh nhân người cao tuổi, đặc biệt là những người có bướu cổ có độc, có thể có biểu hiện cường giáp không điển hình (không thờ ơ hoặc bị che khuất) với các triệu chứng giống như
+
+trầm cảm
+
+hoặc
+
+chứng mất trí.
+
+Hầu hết không có lồi mắt hoặc run.
+
+Rung nhĩ
+
+,
+
+ngất
+
+, thay đổi cảm giác,
+
+suy tim
+
+và suy nhược có nhiều khả năng hơn. Các triệu chứng và dấu hiệu có thể chỉ liên quan đến một cơ quan.
+
+Dấu hiệu ở mắt
+
+Các dấu hiệu ở mắt của bệnh cường giáp bao gồm nhìn chằm chằm, mí mắt sụp xuống, co rút mí mắt và tiêm kết mạc nhẹ và phần lớn là do kích thích adrenergic quá mức. Các dấu hiệu này thường thuyên giảm khi điều trị thành công để bình thường hóa nồng độ hormone tuyến giáp.
+
+Bệnh mắt thâm nhiễm, còn gọi là bệnh mắt do tuyến giáp, là một bệnh phát triển nghiêm trọng hơn và đặc trưng cho bệnh Graves. Bệnh có thể xảy ra nhiều năm trước hoặc sau khi bị cường giáp. Nó được đặc trưng bởi đau vùng mắt, chảy nước mắt, kích ứng, chói mắt, tăng mô hậu nhãn cầu, lồi mắt, và thâm nhiễm tế bào lympho của các cơ vận nhãn, gây yếu các cơ mắt thường dẫn đến nhìn đôi.
+
+Biểu hiện mắt của bệnh Graves
+
+Bệnh nhãn khoa thâm nhiễm trong bệnh Graves
+
+Một bệnh nhân bị bệnh Graves có các dấu hiệu ở mắt, bao gồm các vết nứt mí mặt mở rộng, co rút mi mắt, lác và lồi mắt.
+
+Được sự cho phép của nhà xuất bản. Theo Mulligan M, Cousins M. Trong
+
+Atlas of Anesthesia: Preoperative Preparation and Intraoperative Monitoring
+
+. Do R Miller (biên tập loạt bài) và JL Lichtor biên tập. Philadelphia, Current Medicine, 1998.
+
+Biểu hiện mắt của bệnh Basedow
+
+© Springer Science+Business Media
+
+Cận cảnh lồi mắt
+
+© Springer Science+Business Media
+
+Biểu hiện mắt của bệnh Graves – Không có khả năng nhắm mắt
+
+© Springer Science+Business Media
+
+Biểu hiện mắt của bệnh Graves – Túi dưới ổ mắt
+
+© Springer Science+Business Media
+
+Bệnh nhãn khoa thâm nhiễm trong bệnh Graves
+
+Một bệnh nhân bị bệnh Graves có các dấu hiệu ở mắt, bao gồm các vết nứt mí mặt mở rộng, co rút mi mắt, lác và lồi mắt.
+
+Được sự cho phép của nhà xuất bản. Theo Mulligan M, Cousins M. Trong
+
+Atlas of Anesthesia: Preoperative Preparation and Intraoperative Monitoring
+
+. Do R Miller (biên tập loạt bài) và JL Lichtor biên tập. Philadelphia, Current Medicine, 1998.
+
+Biểu hiện mắt của bệnh Basedow
+
+© Springer Science+Business Media
+
+Cận cảnh lồi mắt
+
+© Springer Science+Business Media
+
+Biểu hiện mắt của bệnh Graves – Không có khả năng nhắm mắt
+
+© Springer Science+Business Media
+
+Biểu hiện mắt của bệnh Graves – Túi dưới ổ mắt
+
+© Springer Science+Business Media
+
+Bệnh da do thâm nhiễm
+
+Bệnh lý da xâm lấn, còn gọi là phù niêm trước xương chày (một thuật ngữ gây nhầm lẫn, vì phù niêm thường gặp trong suy giáp), được đặc trưng bởi sự xâm nhập của chất có nguồn gốc từ protein, thường ở khu vực trước xương chày. Nó hiếm khi xảy ra trong trường hợp không có bệnh mắt Basedow. Thương tổn thường xuất hiện gồm ngứa và ban đỏ trong giai đoạn đầu và sau đó trở nên cứng. Bệnh da thâm nhiễm có thể xuất hiện nhiều năm trước hoặc sau khi cường giáp.
+
+Biểu hiện của chứng phù niêm trước xương chày
+
+Phù niêm trước xương chày
+
+Bức ảnh này cho thấy một bệnh nhân bị phù niêm vùng trước xương chày, đặc trưng là phù nề không ấn lõm, da dày có vảy và tăng sắc tố.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Karen McKoy cung cấp
+
+Phù niêm trước xương chày (nhẹ)
+
+© Springer Science+Business Media
+
+Phù niêm trước xương chày trên bệnh nhân bị bệnh Graves
+
+Được sự cho phép của nhà xuất bản. Theo Burman K, Becker K, Cytryn A và cộng sự. Trong
+
+Atlas of Clinical Endocrinology: Thyroid Diseases
+
+. Biên tập bởi SG Korenman (biên tập loạt bài) và MI Surks. Philadelphia, Current Medicine, 1999.
+
+Phù niêm trước xương chày
+
+Bức ảnh này cho thấy một bệnh nhân bị phù niêm vùng trước xương chày, đặc trưng là phù nề không ấn lõm, da dày có vảy và tăng sắc tố.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Karen McKoy cung cấp
+
+Phù niêm trước xương chày (nhẹ)
+
+© Springer Science+Business Media
+
+Phù niêm trước xương chày trên bệnh nhân bị bệnh Graves
+
+Được sự cho phép của nhà xuất bản. Theo Burman K, Becker K, Cytryn A và cộng sự. Trong
+
+Atlas of Clinical Endocrinology: Thyroid Diseases
+
+. Biên tập bởi SG Korenman (biên tập loạt bài) và MI Surks. Philadelphia, Current Medicine, 1999.
+
+Bão giáp
+
+Cơn bão giáp là một dạng cường giáp cấp tính do cường giáp nặng không được điều trị hoặc điều trị không đầy đủ. Rất hiếm, xảy ra ở những bệnh nhân bị bệnh Basedow hoặc bướu đa nhân độc (bướu nhân độc là nguyên nhân ít phổ biến hơn và thường biểu hiện ít nghiêm trọng hơn). Triệu chứng có thể rầm rộ do nhiễm trùng, chấn thương, phẫu thuật, tắc mạch, toan ceton do đái tháo đường, hoặc chứng tiền sản giật.
+
+Cơn bão giáp gây ra các triệu chứng triệu chứng cường giáp rầm rộ, đột ngột với một hoặc nhiều biểu hiện sau: sốt, suy nhược cơ thể và nhược cơ, hưng cảm với sự thay đổi về cảm xúc, lẫn lộn, rối loạn tâm thần, hôn mê, buồn nôn, nôn ói, tiêu chảy và gan to có vàng da. Bệnh nhân có thể có biểu hiện nhịp tim nhanh hoặc trụy tim mạch và sốc.
+
+Cơn bão giáp là tình trạng cấp cứu đe dọa tính mạng đòi hỏi phải điều trị kịp thời.
+
+Chẩn đoán Cường giáp
+
+Đo TSH
+
+Đo T4 tự do, cộng với T3 tự do hoặc T3 toàn phần
+
+Đôi khi là đo hấp thụ iốt phóng xạ
+
+Chẩn đoán dựa trên các tiền sử, bệnh sử, khám lâm sàng và xét nghiệm chức năng tuyến giáp. Đo nồng độ TSH trong huyết thanh là xét nghiệm tốt nhất vì TSH bị ức chế ở bệnh nhân cường giáp ngoại trừ trường hợp hiếm gặp khi nguyên nhân là do u tuyến yên tiết TSH hoặc tuyến yên kháng lại sự ức chế thông thường của hormone tuyến giáp.
+
+T4 tự do tăng trong cường giáp. Tuy nhiên, T4 có thể bình thường giả trong bệnh cường giáp thực sự ở bệnh nhân bị bệnh toàn thân nặng (tương tự như nồng độ thấp giả xảy ra trong
+
+hội chứng bệnh lý có tuyến giáp bình thường
+
+) và trong nhiễm độc T3. Nếu T4 tự do bình thường và TSH thấp ở bệnh nhân có triệu chứng khó nhận biết và có dấu hiệu cường giáp, thì nên đo T3 huyết thanh để phát hiện nhiễm độc T3; kết quả T3 tăng cao khẳng định chẩn đoán đó.
+
+Nguyên nhân thường có thể được chẩn đoán bằng lâm sàng (ví dụ: đang sử dụng thuốc, hoặc sự có mặt của các dấu hiệu đặc biệt đối của bệnh Basedow). Nếu không, có thể đo độ hấp thu iốt phóng xạ của tuyến giáp bằng sử dụng iốt-123. Khi cường giáp là do sản sinh quá nhiều hormone, mức hấp thu iốt phóng xạ của tuyến giáp thường tăng lên (lan tỏa trong bệnh Graves, tập trung ở bướu cổ đơn nhân hoặc đa nhân). Khi cường giáp do viêm tuyến giáp, ăn uống iốt, hoặc sản xuất hormone lạc chỗ, lượng iốt phóng xạ thấp.
+
+Các kháng thể thụ thể TSH có thể được đo để đánh giá bệnh Graves. Việc đo lường được thực hiện ở phụ nữ mang thai có tiền sử bệnh Graves trong ba tháng cuối của thai kỳ để đánh giá nguy cơ mắc
+
+bệnh Graves ở trẻ sơ sinh
+
+; Kháng thể thụ thể TSH dễ dàng đi qua nhau thai để kích thích tuyến giáp của thai nhi. Hầu hết các bệnh nhân mắc bệnh Basedow đều có các kháng thể peroxidase tuần hoàn, và ít kháng thể chống thromboglulin hơn.
+
+Sự tiết TSH không thích hợp là không phổ biến. Chẩn đoán được xác nhận khi cường giáp xảy ra với tăng nồng độ T4 tự do và T3 trong tuần hoàn và TSH huyết thanh bình thường hoặc tăng.
+
+Nếu nghi ngờ nhiễm độc giáp, có thể đo thyroglobulin; chỉ số này thường thấp hoặc bình thường- thấp, không giống như ở tất cả các nguyên nhân khác của cường giáp.
+
+Cường giáp dưới lâm sàng
+
+Cường giáp dưới lâm sàng là tình trạng TSH thấp ở bệnh nhân có nồng độ T4 tự do và T3 huyết thanh bình thường và không có các triệu chứng hoặc có rất ít các triệu chứng cường giáp.
+
+Cường giáp dưới lâm sàng ít phổ biến hơn
+
+suy giáp dưới lâm sàng
+
+.
+
+Nhiều bệnh nhân có cường giáp dưới lâm sàng do đang dùng levothyroxine. Các nguyên nhân khác của cường giáp dưới lâm sàng cũng tương tự như các nguyên nhân gây
+
+cường giáp
+
+.
+
+Bệnh nhân có TSH huyết thanh
+
+<
+
+0,1 microU/mL (0,1 mU/L) có tỷ lệ bị
+
+rung nhĩ
+
+tăng lên (đặc biệt là bệnh nhân cao tuổi), mật độ xương giảm, gãy xương tăng và tỷ lệ tử vong tăng. Bệnh nhân có TSH trong huyết thanh chỉ thấp hơn mức bình thường một chút sẽ ít gặp các biến chứng này hơn.
+
+Điêu trị bệnh Cường giáp
+
+Điều trị cường giáp phụ thuộc vào nguyên nhân (
+
+1
+
+) nhưng có thể bao gồm
+
+Iốt phóng xạ
+
+Methimazole hoặc propylthiouracil
+
+Thuốc chẹn beta
+
+Iốt
+
+Phẫu thuật
+
+Muối iốt hoạt động phóng xạ (iốt-131, iốt phóng xạ)
+
+Tại Hoa Kỳ, iốt-131 là phương pháp điều trị cường giáp phổ biến nhất. Iốt phóng xạ thường được khuyến cáo là lựa chọn điều trị cho bệnh Graves và bướu cổ nốt độc ở tất cả bệnh nhân, kể cả trẻ em. Các nghiên cứu dịch tễ học báo cáo nguy cơ mắc các khối u ác tính thứ phát tăng rất nhỏ khi điều trị bằng I-131, tùy thuộc vào loại ung thư và thời gian theo dõi (
+
+2
+
+), vì vậy một số bác sĩ lâm sàng sử dụng thuốc kháng giáp thay thế. Liều lượng iốt-131 khó điều chỉnh vì không thể dự đoán được đáp ứng của tuyến này; một số bác sĩ lâm sàng đưa ra liều tiêu chuẩn từ 8 milicurie đến 15 milicurie. Những người khác điều chỉnh liều dựa trên ước tính kích thước tuyến giáp và sự hấp thu 24 giờ để cung cấp một liều 80-120 microcurie/gram mô tuyến giáp.
+
+Khi cung cấp đủ iod-131 để gây ra bệnh bình giáp, khoảng 25% đến 50
+
+%
+
+số bệnh nhân bị suy giáp 1 năm sau đó và tỷ lệ này tiếp tục tăng hàng năm. Vì vậy, hầu hết bệnh nhân cuối cùng sẽ bị suy giáp và cần phải thay thế hormone tuyến giáp. Tuy nhiên, nếu sử dụng liều nhỏ hơn, tỷ lệ tái phát cao hơn. Liều lớn hơn, chẳng hạn như 10 milicurie đến 20 milicurie, thường gây suy giáp trong vòng 6 tháng.
+
+Iốt phóng xạ không được sử dụng trong thời gian cho con bú vì nó có thể xâm nhập vào sữa mẹ và gây ra chứng suy giáp ở trẻ sơ sinh. Nó không được sử dụng trong thời kỳ mang thai vì nó đi qua nhau thai và có thể gây ra chứng suy giáp trạng nặng ở bào thai. Không có bằng chứng nào cho thấy iod phóng xạ làm tăng tỷ lệ mắc các khối u, bệnh bạch cầu, ung thư tuyến giáp hoặc dị tật bẩm sinh ở trẻ sinh ra từ những phụ nữ bị cường giáp trước đây nhưng có thai sau khi hoàn tất điều trị.
+
+Methimazole và propylthiouracil
+
+Những loại thuốc kháng giáp này ngăn chặn peroxidase của tuyến giáp, làm giảm sự tổ chức của iodide và làm giảm phản ứng ghép đôi. Propylthiouracil liều cao cũng ức chế chuyển đổi T4 thành T3 ở ngoại vi.
+
+Methimazole là thuốc được ưu tiên. Liều khởi đầu thông thường của
+
+methimazole
+
+là 5 mg đến 20 mg đường uống 1 lần đến 3 lần mỗi ngày. Quá trình trở lại bình thường của TSH chậm hơn quá trình trở lại bình thường của nồng độ T4 và T3 theo tuần. Do đó, khi nồng độ T4 và T3 trở về bình thường thì giảm liều xuống mức thấp nhất có hiệu quả, thường là
+
+methimazole
+
+2,5 mg đến 10 mg mỗi ngày một lần để tránh gây suy giáp. Kiểm soát thường đạt được trong 2 đến 3 tháng. Liều duy trì của
+
+methimazole
+
+có thể được tiếp tục trong
+
+≥
+
+1 năm tùy theo hoàn cảnh lâm sàng. Carbimazole, được sử dụng rộng rãi ở châu Âu nhưng không có sẵn ở Hoa Kỳ, nhanh chóng được chuyển đổi thành
+
+methimazole
+
+. Liều khởi đầu thông thường tương tự như
+
+methimazole
+
+; liều duy trì là 2,5 mg đến 10 mg đường uống một lần/ngày hoặc 2,5 mg đến 5 mg hai lần/ngày.
+
+Do suy gan nặng ở một số bệnh nhân
+
+<
+
+40 tuổi, đặc biệt là trẻ em, propylthiouracil chỉ được khuyến nghị trong những trường hợp đặc biệt (ví dụ: trong ba tháng đầu của thai kỳ, trong cơn bão tuyến giáp). Liều khởi đầu thông thường của
+
+propylthiouracil
+
+là 100 mg đến 150 mg đường uống 8 giờ một lần. Có thể kiểm soát nhanh chóng bằng cách tăng liều lượng của
+
+propylthiouracil
+
+lên 150 mg đến 200 mg, 8 giờ một lần. Liều dùng như vậy hoặc liều lượng cao hơn (đến 400 mg mỗi 8 giờ) thường được dùng cho những bệnh nhân nặng, bao gồm nhưng bệnh nhân có cơn bão giáp, để ngăn chặn sự chuyển đổi T4 thành T3. Liều duy trì với
+
+propylthiouracil
+
+là 50 mg x 2 lần/ngày hoặc 3 lần/ngày
+
+Khoảng 20% đến 50
+
+%
+
+số bệnh nhân mắc bệnh Graves vẫn thuyên giảm sau đợt điều trị từ 1 năm đến 2 năm dùng
+
+methimazole
+
+hoặc
+
+propylthiouracil
+
+. Sự trở lại bình thường hoặc giảm đáng kể kích thước tuyến, sự phục hồi nồng độ TSH huyết thanh bình thường và khỏi các triệu chứng cường giáp là những dấu hiệu tiên lượng tốt về sự thuyên giảm lâu dài. Việc sử dụng đồng thời thuốc kháng giáp và levothyroxin không cải thiện tỷ lệ thuyên giảm ở bệnh nhân mắc bệnh Graves. Vì bướu có nốt độc hiếm khi thuyên giảm nên thuốc kháng giáp chỉ được dùng để chuẩn bị cho điều trị bằng phẫu thuật hoặc điều trị bằng iốt-131.
+
+Các tác dụng bất lợi bao gồm phát ban, phản ứng dị ứng, chức năng gan bất thường (bao gồm suy gan khi dùng propylthiouracil) và mất bạch cầu hạt có thể hồi phục ở khoảng 0,1
+
+%
+
+số bệnh nhân. Bệnh nhân dị ứng với một loại thuốc có thể được chuyển sang loại thuốc khác, nhưng có thể xảy ra hiện tượng mẫn cảm chéo. Nếu xảy ra tình trạng mất bạch cầu hạt, bệnh nhân không thể chuyển sang dùng thuốc khác; nên sử dụng liệu pháp khác (ví dụ: iod phóng xạ, phẫu thuật).
+
+Ngọc trai & cạm bẫy
+
+Nếu tình trạng mất bạch cầu hạt xảy ra với một trong các loại thuốc kháng peroxidase tuyến giáp (
+
+methimazole
+
+hoặc
+
+propylthiouracil
+
+), hãy tránh sử dụng một loại thuốc khác cùng nhóm; thay vào đó hãy sử dụng liệu pháp khác (ví dụ: iod phóng xạ, phẫu thuật).
+
+Các tác dụng bất lợi tiềm ẩn hoặc các đặc điểm khác khác nhau giữa 2 loại thuốc và hướng dẫn chỉ định cho từng loại. Methimazole chỉ cần uống một lần/ngày, giúp bệnh nhân tuân thủ tốt hơn. Hơn nữa, khi sử dụng
+
+methimazole
+
+với liều lượng
+
+<
+
+20 mg mỗi ngày, tình trạng mất bạch cầu hạt ít gặp hơn; với propylthiouracil, tình trạng mất bạch cầu hạt có thể xảy ra ở bất kỳ liều lượng nào.
+
+Methimazole đã được sử dụng thành công ở phụ nữ mang thai và cho con bú mà không gây biến chứng cho thai nhi hoặc trẻ sơ sinh, nhưng hiếm khi
+
+methimazole
+
+có liên quan đến dị tật da đầu và dị tật đường tiêu hóa ở trẻ sơ sinh và bệnh phôi thai hiếm gặp. Vì những biến chứng này nên propylthiouracil được sử dụng trong ba tháng đầu của thai kỳ.
+
+Propylthiouracil được ưu tiên dùng để điều trị cơn bão giáp, vì liều lượng cao được sử dụng (trên 800 mg mỗi ngày) ngăn chặn một phần sự chuyển đổi ngoại vi của T4 thành T3 ngoài việc giảm sản sinh ở tuyến giáp.
+
+Phối hợp giữa propylthiouracil và dexamethasone liều cao, cũng là một thuốc ức chế mạnh chuyển đổi T4 thành T3, có thể làm giảm các triệu chứng cường giáp nặng ở bệnh nhân có cơn bão tuyến giáp và khôi phục nồng độ T3 huyết thanh về mức bình thường trong vòng một tuần.
+
+Thuốc chẹn beta
+
+Các triệu chứng và dấu hiệu của cường giáp do kích thích giao cảm có thể đáp ứng với thuốc chẹn beta; propranolol hay được sử dụng nhiều nhất, atenolol hoặc metoprolol có thể thích hợp hơn.
+
+Các biểu hiện thường có đáp ứng với thuốc chẹn beta bao gồm
+
+Nhịp tim nhanh
+
+Run
+
+Một số triệu chứng tâm thần (ví dụ: lo lắng)
+
+Mí mắt trễ
+
+Đôi khi không dung nạp nhiệt và đổ mồ hôi, tiêu chảy và bệnh cơ phần gần cũng đáp ứng với thuốc chẹn beta.
+
+Các biểu hiện thường không đáp ứng với thuốc chẹn beta bao gồm
+
+Bướu cổ
+
+Vận nhãn ngoài
+
+Sụt cân
+
+Tiếng ù
+
+Tăng tiêu thụ oxy
+
+Tăng nồng độ thyroxine tuần hoàn
+
+Propranolol được chỉ định trong cơn bão giáp (xem bảng
+
+Điều trị cơn bão giáp
+
+). Nó làm giảm nhịp tim nhanh, thường là trong vòng 2 đến 3 giờ với đường uống và trong vài phút nếu tiêm tĩnh mạch. Esmolol chỉ nên được sử dụng trong phòng chăm sóc đặc biệt vì nó yêu cầu chuẩn độ và theo dõi cẩn thận. Thuốc chẹn beta cũng được chỉ định trong điều trị nhịp tim nhanh do cường giáp, đặc biệt là ở bệnh nhân cao tuổi, vì thuốc kháng giáp thường mất vài tuần để có hiệu quả hoàn toàn.
+
+Thuốc chẹn kênh canxi có thể kiểm soát nhịp tim nhanh ở những bệnh nhân có chống chỉ định với thuốc chẹn beta.
+
+Iốt
+
+Iốt trong liều dược lý ức chế sự giải phóng T3 và T4 trong vài giờ và ức chế sự phân bố iốt, hiệu ứng chuyển tiếp kéo dài từ vài ngày đến một tuần, sau đó sự ức chế thường chấm dứt. Iốt được sử dụng để xử trí cấp cứu cơn bão tuyến giáp, cho bệnh nhân cường giáp được phẫu thuật cấp cứu ngoài tuyến giáp và (vì nó cũng làm giảm lưu lượng máu của tuyến giáp) để chuẩn bị trước phẫu thuật cho bệnh nhân cường giáp được phẫu thuật cắt tuyến giáp. Iốt thường không được sử dụng để điều trị cường giáp. Liều thông thường là từ 2 đến 3 giọt (100 đến 150 mg) dung dịch kali iodide bão hòa uống 3 hoặc 4 lần một ngày hoặc bằng muối natri iodide trong 1 L dung dịch muối 0,9% 0,5 đến 1 g truyền chậm cho một lần một ngày.
+
+Các biến chứng của điều trị iốt bao gồm viêm tuyến nước bọt, viêm kết mạc và phát ban.
+
+Phẫu thuật
+
+Phẫu thuật được chỉ định cho những bệnh nhân mắc bệnh Graves mà bệnh cường giáp tái phát sau một đợt dùng thuốc kháng giáp và từ chối điều trị bằng iốt-131, những bệnh nhân không thể dung nạp thuốc kháng giáp, bệnh nhân có bướu cổ rất lớn và ở một số bệnh nhân trẻ tuổi bị bướu cổ có u tuyến độc và bướu cổ đa nhân. Phẫu thuật có thể được thực hiện ở bệnh nhân cao tuổi có bướu giáp nhân khổng lồ.
+
+Phẫu thuật thường phục hồi chức năng bình thường. Sự tái phát sau phẫu thuật thay đổi từ 2 đến 16
+
+%
+
+; nguy cơ suy giáp liên quan trực tiếp đến mức độ rộng của phẫu thuật lấy mô giáp. Liệt dây thanh và suy cận giáp là những biến chứng không thường gặp. Dung dịch muối kali iodide 3 giọt (khoảng 100 đến 150 mg) uống 3 lần/ngày nên được cho trong 10 ngày trước khi phẫu thuật để làm giảm chảy máu trong tuyến. Methimazole cũng phải được cho vì bệnh nhân nên được đưa về bình giáp trước khi sử dụng iodide. Dexamethasone có thể được bổ sung để nhanh đạt bình giáp. Phẫu thuật vùng cổ trước khó khăn hơn ở những bệnh nhân trước đây đã được phẫu thuật cắt bỏ tuyến giáp hoặc điều trị bằng iod phóng xạ do có mô sẹo.
+
+Điều trị cơn bão giáp
+
+Một chế độ điều trị cho cơn bão giáp được chỉ ra trong bảng
+
+Điều trị Bão giáp
+
+. Nguyên nhân kết tủa cũng cần được giải quyết.
+
+Bảng
+
+Điều trị cơn bão giáp
+
+Bảng
+
+Điều trị cơn bão giáp
+
+Điều trị cơn bão giáp
+
+Propylthiouracil: 600 mg uống cho trước khi cho iốt, sau đó 200-400 mg, 6-8 giờ một lần
+
+Iốt: 5 giọt (0,25 mL) dung dịch bão hòa kali iodide uống, 6 giờ một lần
+
+hoặc là
+
+4–8 giọt dung dịch Lugol 2% uống, 6-8 giờ một lần
+
+hoặc là
+
+Truyền chậm nhỏ giọt 1g muối natri iodide trong hơn 24 giờ.
+
+Propranolol: uống 60–80 mg, 4–6 giờ một lần với sự điều chỉnh thích hợp cho nhịp tim và huyết áp
+
+hoặc là
+
+Propranolol: 0,5–1 mg đường tĩnh mạch trong 10–15 phút, 4 giờ một lần (không quá 1 mg/phút) dưới sự theo dõi chặt chẽ
+
+Liều lặp lại 1 mg sau 2 phút, nếu cần, hoặc dùng esmolol
+
+Dung dịch dextrose truyền tĩnh mạch.
+
+Điều chỉnh thăng bằng nước và điện giải
+
+Chăn lạnh cho bệnh nhân bị tăng thân nhiệt
+
+Các thuốc chống loạn nhịp (ví dụ, thuốc chẹn kênh canxi,
+
+adenosine
+
+, thuốc chẹn beta) nếu cần cho bệnh nhân rung nhĩ
+
+Điều trị bệnh nền, như nhiễm trùng
+
+Corticosteroid: Hydrocortisone 100 mg tĩnh mạch mỗi 8 giờ
+
+hoặc là
+
+Dexamethasone 2 mg đường tĩnh mạch, 6 giờ một lần
+
+Liệu pháp điều trị dứt điểm sau khi kiểm soát cơn cường giáp cấp bằng cách cắt bỏ tuyến giáp với iốt-131 hoặc điều trị phẫu thuật.
+
+Điều trị bệnh da do thâm nhiễm
+
+Trong bệnh da do thâm nhiễm (ở bệnh Basedow), corticosteroid tại chỗ hoặc tiêm corticosteroid vào tổn thương có thể làm giảm bệnh lý da. Bệnh da đôi khi thuyên giảm tự nhiên sau vài tháng hoặc nhiều năm.
+
+Điều trị bệnh mắt do thâm nhiễm
+
+Bệnh mắt nên được điều trị đồng thời bởi bác sĩ nội tiết và bác sĩ nhãn khoa cùng điều trị và có thể cần đến selen, corticosteroid, xạ quanh mắt và phẫu thuật. Phẫu thuật cắt bỏ tuyến giáp có thể giúp giải quyết hoặc ngăn ngừa sự tiến triển của bệnh mắt. Teprotumumab, một thuốc ức chế thụ thể yếu tố tăng trưởng 1 (IGF-1) giống
+
+insulin
+
+, là liệu pháp rất hiệu quả đối với bệnh mắt nặng vừa phải (
+
+3
+
+). Liệu pháp iốt phóng xạ có thể làm tăng tiến triển của bệnh mắt khi bệnh mắt đang hoạt động và do vậy chống chỉ định iốt phóng xạ trong giai đoạn bệnh mắt hoạt động.
+
+Xử trí cường giáp cận lâm sàng
+
+Ở những bệnh nhân có cường giáp dưới lâm sàng đang dùng levothyroxine, giảm liều là cách điều trị thích hợp nhất trừ khi liệu pháp điều trị nhằm mục đích duy trì mức TSH bị ức chế ở bệnh nhân ung thư tuyến giáp.
+
+Điều trị được chỉ định cho những bệnh nhân cường giáp cận lâm sàng nội sinh (TSH huyết thanh
+
+<
+
+0,1 mIU/L [
+
+<
+
+< 0,1 microIU/mL]), đặc biệt là những người bị rung nhĩ hoặc giảm mật độ chất khoáng xương. Cách điều trị thông thường là điều trị iốt-131, nhưng methimazole liều thấp cũng có hiệu quả.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Ross DS, Burch HB, Cooper DS, et al
+
+: 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis.
+
+Thyroid
+
+26(10):1343–1421, 2016. doi: 10.1089/thy.2016.0229
+
+2.
+
+Shim SR, Kitahara CM, Cha ES, Kim SJ, Bang YJ, Lee WJ
+
+: Cancer Risk After Radioactive Iodine Treatment for Hyperthyroidism: A Systematic Review and Meta-analysis.
+
+JAMA Netw Open
+
+4(9):e2125072, 2021 doi:10.1001/jamanetworkopen.2021.25072
+
+3.
+
+Douglas RS, Kahaly GJ, Patel A, et al
+
+:
+
+Teprotumumab
+
+for the treatment of active thyroid eye disease.
+
+N Engl J Med
+
+382(4):341–352. 2020. doi: 10.1056/NEJMoa1910434
+
+Những điểm chính
+
+Nguyên nhân phổ biến nhất của bệnh cường giáp là bệnh Graves, do tuyến giáp tổng hợp hormone quá mức do kích thích tự miễn dịch.
+
+Các nguyên nhân khác gây cường giáp bao gồm kích thích quá mức tuyến giáp bình thường (ví dụ: do hormone kích thích tuyến giáp [TSH],
+
+gonadotropin màng đệm ở người
+
+[hCG], uống iốt hoặc thuốc có có iốt), tổng hợp hormone quá mức do tuyến giáp bất thường (ví dụ: bướu cổ độc), giải phóng quá nhiều hormone tuyến giáp (ví dụ: do viêm tuyến giáp) hoặc uống quá nhiều hormone tuyến giáp.
+
+Các triệu chứng và dấu hiệu bao gồm nhịp tim nhanh, mệt mỏi, sụt cân, căng thẳng và run rẩy; bệnh nhân mắc bệnh Graves cũng có thể bị lồi mắt và bệnh da thâm nhiễm.
+
+T4 tự do, và/hoặc T3 tự do hoặc toàn phần tăng, và TSH bị ức chế (trừ những trường hợp hiếm gặp hơn của cường giáp do nguyên nhân tuyến yên).
+
+Sự tổng hợp hormone có thể bị ức chế bởi methimazole (hoặc trong một số trường hợp nhất định, propylthiouracil) và các triệu chứng cường giao cảm giảm khi điều trị bằng các thuốc chẹn beta; điều trị lâu dài có thể cần phải loại bỏ nhu mô giáp bằng iốt phóng xạ hoặc phẫu thuật.
+
+Bão giáp – do bệnh cường giáp nặng không được điều trị hoặc điều trị không đầy đủ – là một trường hợp cấp cứu đe dọa tính mạng với các triệu chứng cường giáp nghiêm trọng và có thể dẫn đến trụy tim mạch hoặc sốc; nó được điều trị bằng phác đồ thuốc kháng giáp, iốt, thuốc chẹn beta, corticosteroid và hỗ trợ huyết động.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh nhiễm độc giáp, bao gồm cả bệnh Graves) ---
+
+TheoLaura Boucai,MD,Weill Cornell Medical CollegeXem xét bởiGlenn D. Braunstein,MD,Cedars-Sinai Medical CenterĐã xem xét/Đã chỉnh sửaThg 2 2024|đã sửa đổiThg 5 2025v981601_vi
+
+--- 2. Nguyên nhân Cường giáp ---
+
+Bệnh cường giáp có thể là do tăngtổng hợp và bài tiết hormone tuyến giáp(thyroxine [T4] và triiodothyronine [T3]) từ tuyến giáp, do globulin miễn dịch kích thích tuyến giáp (TSI) hoặc do cường chức năng tuyến giáp tự trị gây ra. Nó cũng có thể là kết quả của sự phóng thích hormone tuyến giáp quá mức từ tuyến giáp mà không tăng tổng hợp. Sự phóng thích này thường gây ra bởi những thay đổi phá huỷ tuyến giáp của các dạng viêm tuyến giáp.Các nguyên nhân phổ biến nhấtcủa bệnh cường giáp bao gồmBệnh GravesBướu đa nhânNhân nóng cường chức năng, nhân độc, tự trịViêm tuyến giápBệnh Graves (bệnh bướu độc lan tỏa),nguyên nhân phổ biến nhất của cường giáp, được đặc trưng bởi cường giáp và một trong những biểu hiện sau đây:Bướu cổVận nhãn ngoàiBệnh da do thâm nhiễmBệnh Graves là do tự kháng thể (TSI) chống lại thụ thể hormone kích thích tuyến giáp (TSH) của tuyến giáp; không giống như hầu hết các tự kháng thể có tính chất ức chế, tự kháng thể này có tính chất kích thích, do đó gây ra sự tổng hợp và bài tiết liên tục lượng T4 và T3 dư thừa. Bệnh Basedow (nhưviêm tuyến giáp Hashimotođôi khi xảy ra cùng với các rối loạn tự miễn khác, bao gồm bệnhđái tháo đườngloại 1,bạch biến, tóc bạc sớm, thiếu máu ác tính, các bệnh mô liên kết, vàhội chứng suy đa tuyến. Yếu tố di truyền làm gia tăng nguy cơ bệnh Basedow, mặc dù các gen liên quan chưa được biết đến.Bệnh sinh của bệnh mắt do thâm nhiễm (gây lồi mắt trong bệnh Basedow) chưa được hiểu biết rõ ràng nhưng có thể là do các globulin miễn dịch tác động trực tiếp trên thụ thể TSH trong nguyên bào sợi và tế bào mỡ trong hốc mắt gây ra giải phóng các cytokine tiền viêm, viêm và tích tụ glycosaminoglycans. Biểu hiện mắt cũng có thể xảy ra trước khi bắt đầu có tình trạng cường giáp hoặc có thể xuất hiện muộn đến 20 năm sau và thường xấu đi hoặc giảm một cách độc lập với biểu hiện lâm sàng của cường giáp. Có bệnh mắt điển hình khi chức năng tuyến giáp bình thường được gọi là bệnh Graves bình giáp (xem ảnhBiểu hiện ở mắt của bệnh Graves – Lồi mắt).Bướu đơn nhân hoặc đa nhân độc (bệnh Plumeer)đôi khi là kết quả từ các đột biến gen thụ thể TSH gây ra hoạt hóa tuyến giáp liên tục. Bệnh nhân có bướu nhân độc không có biểu hiện tự miễn dịch hoặc các kháng thể lưu hành được quan sát thấy ở bệnh nhân bị bệnh Basedow. Ngoài ra, trái ngược với bệnh Basedow, những người bướu nhân độc và bướu đa nhân thường không thuyên giảm bệnh.Bệnh tuyến giáp viêm (viêm tuyến giáp)bao gồm viêm tuyến giáp u hạt bán cấp,viêm tuyến giáp Hashimotovàviêm tuyến giáp tế bào lympho im lặng, một biến thể của viêm tuyến giáp Hashimoto. Cường giáp thường gặp hơn trongviêm tuyến giáp u hạt bán cấpvà là kết quả của những thay đổi phá hủy trong tuyến và giải phóng hormone dự trữ chứ không phải do tăng tổng hợp. Suy giáp có thể xảy ra sau đó.Tiết TSH không thích hợplà một nguyên nhân hiếm. Bệnh nhân cường giáp nguyên phát có nồng độ TSH không thể phát hiện được. Tuy nhiên, nồng độ TSH có thể được phát hiện ở những bệnh nhân có u tuyến yên thùy trước tiết TSH hoặc có tuyến yên kháng hormone tuyến giáp, ở những bệnh nhân có nồng độ TSH cao. TSH được tạo ra trong cả hai rối loạn tuyến yên này có hoạt tính sinh học mạnh hơn TSH bình thường. Tăng dưới nhóm alpha TSH trong máu (hữu ích trong chẩn đoán phân biệt) xảy ra ở những bệnh nhân có u tuyến yên tiết TSH.Cường giáp do thuốccó thể là kết quả của amiodarone, thuốc ức chế điểm kiểm soát được sử dụng trong điều trị ung thư, alemtuzumab được sử dụng trong điều trị bệnh đa xơ cứng hoặc interferon-alfa, có thể gây viêm tuyến giáp kèm theo bệnh cường giáp và các rối loạn tuyến giáp khác. Mặc dù thường gây ra chứng suy giáp, lithium hiếm khi gây ra chứng cường giáp. Bệnh nhân dùng các thuốc này cần được theo dõi chặt chẽ.Nhiễm độc giáp giả tạolà cường giáp do cố ý hoặc tình cờ tiêu thụ quá nhiều hormone tuyến giáp.Ăn quá nhiều iốtgây ra chứng cường giáp với sự hấp thụ iốt phóng xạ của tuyến giáp thấp. Nó thường xảy ra trên những bệnh nhân có bướu cổ dạng nốt không độc hại (đặc biệt là bệnh nhân cao tuổi) được dùng thuốc có chứa iốt (ví dụ: amiodarone) hoặc những người trải qua nghiên cứu X quang bằng thuốc cản quang giàu iốt. Nguyên nhân có thể do quá thừa iốt cung cấp chất nền cho các vùng tự trị có chức năng (tức là không theo sự điều hòa của TSH) của tuyến giáp để sản sinh hormone. Suy giáp thường kéo dài khi lượng iốt dư thừa vẫn còn cao trong tuần hoàn.Mang thai trứng nước(chửa trứng) và ung thư đường mậttạo ra nồng độgonadotropin màng đệm người(hCG) cao trong huyết thanh, một chất kích thích tuyến giáp yếu. Nồng độ hCG cao nhất trong ba tháng đầu của thai kỳ và dẫn đến giảm TSH huyết thanh và tăng nhẹ T4 tự do trong huyết thanh đôi khi được quan sát thấy vào thời điểm đó. Sự kích thích tuyến giáp tăng có thể một phần do tăng mức hCG, một biến thể hCG dường như là một chất kích thích tuyến giáp mạnh hơn so với hCG sialated hơn. Cường giáp trong thai trứng, ung thư biểu mô màng đệm vàchứng nôn nghén nặnglà thoáng qua; chức năng tuyến giáp bình thường trở lại khi thai trứng được loại bỏ, ung thư biểu mô màng đệm được điều trị thích hợp hoặc chứng nôn nghén giảm đi.Cường giáp không tự miễn do đột biến trội nhiễm sắc thể thườngbiểu hiện trong suốt thời thơ ấu. Nó là kết quả của sự đột biến trong gen quy định thụ thể TSH gây ra sản xuất hormone kích thích tuyến giáp liên tục.Ung thư tuyến giáp di căncó thể là nguyên nhân. Sự sản xuất quá nhiều hormone tuyến giáp hiếm khi xảy ra do ung thư tuyến giáp thể nang di căn có chức năng, đặc biệt là trong các di căn phổi.U quái giáp buồng trứngphát triển khi các khối u quái buồng trứng chứa đủ mô tuyến giáp gây ra cường giáp. Sự hấp thu iốt phóng xạ xảy ra trong khung chậu, và sự hấp thu ở tuyến giáp thường bị triệt tiêu.
+
+--- 3. Sinh lý bệnh Cường giáp ---
+
+Trong cường giáp, T3 huyết thanh thường tăng lên nhiều hơn T4, có thể là do tăng tiết của T3 cũng như chuyển đổi T4 thành T3 trong mô ngoại vi. Ở một số bệnh nhân, chỉ tăng T3 (nhiễm độc T3).Nhiễm độc T3 có thể xảy ra trong bất kỳ rối loạn phổ biến nào gây ra chứng cường giáp, bao gồm bệnh Basedow, bướu đa nhân tuyến giáp và nhân độc tuyến giáp tự trị chức năng. Nếu nhiễm độc T3 không được điều trị, bệnh nhân cũng thường phát sinh các bất thường về xét nghiệm điển hình của bệnh cường giáp (tức là tăng T4 và tăng lượng hấp thu iốt-123). Các thể viêm tuyến giáp thường có một giai đoạn cường giáp, sau đó là giai đoạn suy giáp.
+
+--- 4. Triệu chứng và Dấu hiệu Cường giáp ---
+
+Hầu hết các triệu chứng và dấu hiệu đều giống nhau bất kể nguyên nhân. Các trường hợp ngoại lệ bao gồm bệnh mắt thâm nhiễm và bệnh da thâm nhiễm, chỉ xảy ra ở bệnh Graves.Ngọc trai & cạm bẫyNgười lớn tuổi mắc bệnh cường giáp có thể có các triệu chứng tương tự như trầm cảm hoặc sa sút trí tuệ.Biểu hiện lâm sàng có thể rầm rộ hoặc khó nhận biết. Có thể có bướu cổ hoặc nhân.Nhiều triệu chứng phổ biến của cường giáp là do tăng cường độ nhạy cảm với hormone adrenergic, chẳng hạn như hồi hộp, đánh trống ngực, tăng động, tăng tiết mồ hôi, mẫn cảm với nhiệt, mệt mỏi, tăng cảm giác thèm ăn, sụt cân, mất ngủ, suy nhược và đi tiêu thường xuyên (thỉnh thoảng tiêu chảy). Có thể xuất hiện giảm kinh nguyệt.Các dấu hiệu có thể bao gồm da ấm, ẩm, run, nhịp tim nhanh, áp lực mạch mở rộng và rung nhĩ.Bệnh Graves (tuyến giáp phì đại)Hình ảnh© Springer Science+Business MediaBệnh nhân người cao tuổi, đặc biệt là những người có bướu cổ có độc, có thể có biểu hiện cường giáp không điển hình (không thờ ơ hoặc bị che khuất) với các triệu chứng giống nhưtrầm cảmhoặcchứng mất trí.Hầu hết không có lồi mắt hoặc run.Rung nhĩ,ngất, thay đổi cảm giác,suy timvà suy nhược có nhiều khả năng hơn. Các triệu chứng và dấu hiệu có thể chỉ liên quan đến một cơ quan.Dấu hiệu ở mắtCác dấu hiệu ở mắt của bệnh cường giáp bao gồm nhìn chằm chằm, mí mắt sụp xuống, co rút mí mắt và tiêm kết mạc nhẹ và phần lớn là do kích thích adrenergic quá mức. Các dấu hiệu này thường thuyên giảm khi điều trị thành công để bình thường hóa nồng độ hormone tuyến giáp.Bệnh mắt thâm nhiễm, còn gọi là bệnh mắt do tuyến giáp, là một bệnh phát triển nghiêm trọng hơn và đặc trưng cho bệnh Graves. Bệnh có thể xảy ra nhiều năm trước hoặc sau khi bị cường giáp. Nó được đặc trưng bởi đau vùng mắt, chảy nước mắt, kích ứng, chói mắt, tăng mô hậu nhãn cầu, lồi mắt, và thâm nhiễm tế bào lympho của các cơ vận nhãn, gây yếu các cơ mắt thường dẫn đến nhìn đôi.Biểu hiện mắt của bệnh GravesBệnh nhãn khoa thâm nhiễm trong bệnh GravesMột bệnh nhân bị bệnh Graves có các dấu hiệu ở mắt, bao gồm các vết nứt mí mặt mở rộng, co rút mi mắt, lác và lồi mắt.Được sự cho phép của nhà xuất bản. Theo Mulligan M, Cousins M. TrongAtlas of Anesthesia: Preoperative Preparation and Intraoperative Monitoring. Do R Miller (biên tập loạt bài) và JL Lichtor biên tập. Philadelphia, Current Medicine, 1998.Biểu hiện mắt của bệnh Basedow© Springer Science+Business MediaCận cảnh lồi mắt© Springer Science+Business MediaBiểu hiện mắt của bệnh Graves – Không có khả năng nhắm mắt© Springer Science+Business MediaBiểu hiện mắt của bệnh Graves – Túi dưới ổ mắt© Springer Science+Business MediaBệnh nhãn khoa thâm nhiễm trong bệnh GravesMột bệnh nhân bị bệnh Graves có các dấu hiệu ở mắt, bao gồm các vết nứt mí mặt mở rộng, co rút mi mắt, lác và lồi mắt.Được sự cho phép của nhà xuất bản. Theo Mulligan M, Cousins M. TrongAtlas of Anesthesia: Preoperative Preparation and Intraoperative Monitoring. Do R Miller (biên tập loạt bài) và JL Lichtor biên tập. Philadelphia, Current Medicine, 1998.Biểu hiện mắt của bệnh Basedow© Springer Science+Business MediaCận cảnh lồi mắt© Springer Science+Business MediaBiểu hiện mắt của bệnh Graves – Không có khả năng nhắm mắt© Springer Science+Business MediaBiểu hiện mắt của bệnh Graves – Túi dưới ổ mắt© Springer Science+Business MediaBệnh da do thâm nhiễmBệnh lý da xâm lấn, còn gọi là phù niêm trước xương chày (một thuật ngữ gây nhầm lẫn, vì phù niêm thường gặp trong suy giáp), được đặc trưng bởi sự xâm nhập của chất có nguồn gốc từ protein, thường ở khu vực trước xương chày. Nó hiếm khi xảy ra trong trường hợp không có bệnh mắt Basedow. Thương tổn thường xuất hiện gồm ngứa và ban đỏ trong giai đoạn đầu và sau đó trở nên cứng. Bệnh da thâm nhiễm có thể xuất hiện nhiều năm trước hoặc sau khi cường giáp.Biểu hiện của chứng phù niêm trước xương chàyPhù niêm trước xương chàyBức ảnh này cho thấy một bệnh nhân bị phù niêm vùng trước xương chày, đặc trưng là phù nề không ấn lõm, da dày có vảy và tăng sắc tố.... đọc thêmHình ảnh do bác sĩ Karen McKoy cung cấpPhù niêm trước xương chày (nhẹ)© Springer Science+Business MediaPhù niêm trước xương chày trên bệnh nhân bị bệnh GravesĐược sự cho phép của nhà xuất bản. Theo Burman K, Becker K, Cytryn A và cộng sự. TrongAtlas of Clinical Endocrinology: Thyroid Diseases. Biên tập bởi SG Korenman (biên tập loạt bài) và MI Surks. Philadelphia, Current Medicine, 1999.Phù niêm trước xương chàyBức ảnh này cho thấy một bệnh nhân bị phù niêm vùng trước xương chày, đặc trưng là phù nề không ấn lõm, da dày có vảy và tăng sắc tố.... đọc thêmHình ảnh do bác sĩ Karen McKoy cung cấpPhù niêm trước xương chày (nhẹ)© Springer Science+Business MediaPhù niêm trước xương chày trên bệnh nhân bị bệnh GravesĐược sự cho phép của nhà xuất bản. Theo Burman K, Becker K, Cytryn A và cộng sự. TrongAtlas of Clinical Endocrinology: Thyroid Diseases. Biên tập bởi SG Korenman (biên tập loạt bài) và MI Surks. Philadelphia, Current Medicine, 1999.Bão giápCơn bão giáp là một dạng cường giáp cấp tính do cường giáp nặng không được điều trị hoặc điều trị không đầy đủ. Rất hiếm, xảy ra ở những bệnh nhân bị bệnh Basedow hoặc bướu đa nhân độc (bướu nhân độc là nguyên nhân ít phổ biến hơn và thường biểu hiện ít nghiêm trọng hơn). Triệu chứng có thể rầm rộ do nhiễm trùng, chấn thương, phẫu thuật, tắc mạch, toan ceton do đái tháo đường, hoặc chứng tiền sản giật.Cơn bão giáp gây ra các triệu chứng triệu chứng cường giáp rầm rộ, đột ngột với một hoặc nhiều biểu hiện sau: sốt, suy nhược cơ thể và nhược cơ, hưng cảm với sự thay đổi về cảm xúc, lẫn lộn, rối loạn tâm thần, hôn mê, buồn nôn, nôn ói, tiêu chảy và gan to có vàng da. Bệnh nhân có thể có biểu hiện nhịp tim nhanh hoặc trụy tim mạch và sốc.Cơn bão giáp là tình trạng cấp cứu đe dọa tính mạng đòi hỏi phải điều trị kịp thời.
+
+--- 5. Chẩn đoán Cường giáp ---
+
+Đo TSHĐo T4 tự do, cộng với T3 tự do hoặc T3 toàn phầnĐôi khi là đo hấp thụ iốt phóng xạChẩn đoán dựa trên các tiền sử, bệnh sử, khám lâm sàng và xét nghiệm chức năng tuyến giáp. Đo nồng độ TSH trong huyết thanh là xét nghiệm tốt nhất vì TSH bị ức chế ở bệnh nhân cường giáp ngoại trừ trường hợp hiếm gặp khi nguyên nhân là do u tuyến yên tiết TSH hoặc tuyến yên kháng lại sự ức chế thông thường của hormone tuyến giáp.T4 tự do tăng trong cường giáp. Tuy nhiên, T4 có thể bình thường giả trong bệnh cường giáp thực sự ở bệnh nhân bị bệnh toàn thân nặng (tương tự như nồng độ thấp giả xảy ra tronghội chứng bệnh lý có tuyến giáp bình thường) và trong nhiễm độc T3. Nếu T4 tự do bình thường và TSH thấp ở bệnh nhân có triệu chứng khó nhận biết và có dấu hiệu cường giáp, thì nên đo T3 huyết thanh để phát hiện nhiễm độc T3; kết quả T3 tăng cao khẳng định chẩn đoán đó.Nguyên nhân thường có thể được chẩn đoán bằng lâm sàng (ví dụ: đang sử dụng thuốc, hoặc sự có mặt của các dấu hiệu đặc biệt đối của bệnh Basedow). Nếu không, có thể đo độ hấp thu iốt phóng xạ của tuyến giáp bằng sử dụng iốt-123. Khi cường giáp là do sản sinh quá nhiều hormone, mức hấp thu iốt phóng xạ của tuyến giáp thường tăng lên (lan tỏa trong bệnh Graves, tập trung ở bướu cổ đơn nhân hoặc đa nhân). Khi cường giáp do viêm tuyến giáp, ăn uống iốt, hoặc sản xuất hormone lạc chỗ, lượng iốt phóng xạ thấp.Các kháng thể thụ thể TSH có thể được đo để đánh giá bệnh Graves. Việc đo lường được thực hiện ở phụ nữ mang thai có tiền sử bệnh Graves trong ba tháng cuối của thai kỳ để đánh giá nguy cơ mắcbệnh Graves ở trẻ sơ sinh; Kháng thể thụ thể TSH dễ dàng đi qua nhau thai để kích thích tuyến giáp của thai nhi. Hầu hết các bệnh nhân mắc bệnh Basedow đều có các kháng thể peroxidase tuần hoàn, và ít kháng thể chống thromboglulin hơn.Sự tiết TSH không thích hợp là không phổ biến. Chẩn đoán được xác nhận khi cường giáp xảy ra với tăng nồng độ T4 tự do và T3 trong tuần hoàn và TSH huyết thanh bình thường hoặc tăng.Nếu nghi ngờ nhiễm độc giáp, có thể đo thyroglobulin; chỉ số này thường thấp hoặc bình thường- thấp, không giống như ở tất cả các nguyên nhân khác của cường giáp.Cường giáp dưới lâm sàngCường giáp dưới lâm sàng là tình trạng TSH thấp ở bệnh nhân có nồng độ T4 tự do và T3 huyết thanh bình thường và không có các triệu chứng hoặc có rất ít các triệu chứng cường giáp.Cường giáp dưới lâm sàng ít phổ biến hơnsuy giáp dưới lâm sàng.Nhiều bệnh nhân có cường giáp dưới lâm sàng do đang dùng levothyroxine. Các nguyên nhân khác của cường giáp dưới lâm sàng cũng tương tự như các nguyên nhân gâycường giáp.Bệnh nhân có TSH huyết thanh<0,1 microU/mL (0,1 mU/L) có tỷ lệ bịrung nhĩtăng lên (đặc biệt là bệnh nhân cao tuổi), mật độ xương giảm, gãy xương tăng và tỷ lệ tử vong tăng. Bệnh nhân có TSH trong huyết thanh chỉ thấp hơn mức bình thường một chút sẽ ít gặp các biến chứng này hơn.
+
+--- 6. Điêu trị bệnh Cường giáp ---
+
+Điều trị cường giáp phụ thuộc vào nguyên nhân (1) nhưng có thể bao gồmIốt phóng xạMethimazole hoặc propylthiouracilThuốc chẹn betaIốtPhẫu thuậtMuối iốt hoạt động phóng xạ (iốt-131, iốt phóng xạ)Tại Hoa Kỳ, iốt-131 là phương pháp điều trị cường giáp phổ biến nhất. Iốt phóng xạ thường được khuyến cáo là lựa chọn điều trị cho bệnh Graves và bướu cổ nốt độc ở tất cả bệnh nhân, kể cả trẻ em. Các nghiên cứu dịch tễ học báo cáo nguy cơ mắc các khối u ác tính thứ phát tăng rất nhỏ khi điều trị bằng I-131, tùy thuộc vào loại ung thư và thời gian theo dõi (2), vì vậy một số bác sĩ lâm sàng sử dụng thuốc kháng giáp thay thế. Liều lượng iốt-131 khó điều chỉnh vì không thể dự đoán được đáp ứng của tuyến này; một số bác sĩ lâm sàng đưa ra liều tiêu chuẩn từ 8 milicurie đến 15 milicurie. Những người khác điều chỉnh liều dựa trên ước tính kích thước tuyến giáp và sự hấp thu 24 giờ để cung cấp một liều 80-120 microcurie/gram mô tuyến giáp.Khi cung cấp đủ iod-131 để gây ra bệnh bình giáp, khoảng 25% đến 50%số bệnh nhân bị suy giáp 1 năm sau đó và tỷ lệ này tiếp tục tăng hàng năm. Vì vậy, hầu hết bệnh nhân cuối cùng sẽ bị suy giáp và cần phải thay thế hormone tuyến giáp. Tuy nhiên, nếu sử dụng liều nhỏ hơn, tỷ lệ tái phát cao hơn. Liều lớn hơn, chẳng hạn như 10 milicurie đến 20 milicurie, thường gây suy giáp trong vòng 6 tháng.Iốt phóng xạ không được sử dụng trong thời gian cho con bú vì nó có thể xâm nhập vào sữa mẹ và gây ra chứng suy giáp ở trẻ sơ sinh. Nó không được sử dụng trong thời kỳ mang thai vì nó đi qua nhau thai và có thể gây ra chứng suy giáp trạng nặng ở bào thai. Không có bằng chứng nào cho thấy iod phóng xạ làm tăng tỷ lệ mắc các khối u, bệnh bạch cầu, ung thư tuyến giáp hoặc dị tật bẩm sinh ở trẻ sinh ra từ những phụ nữ bị cường giáp trước đây nhưng có thai sau khi hoàn tất điều trị.Methimazole và propylthiouracilNhững loại thuốc kháng giáp này ngăn chặn peroxidase của tuyến giáp, làm giảm sự tổ chức của iodide và làm giảm phản ứng ghép đôi. Propylthiouracil liều cao cũng ức chế chuyển đổi T4 thành T3 ở ngoại vi.Methimazole là thuốc được ưu tiên. Liều khởi đầu thông thường củamethimazolelà 5 mg đến 20 mg đường uống 1 lần đến 3 lần mỗi ngày. Quá trình trở lại bình thường của TSH chậm hơn quá trình trở lại bình thường của nồng độ T4 và T3 theo tuần. Do đó, khi nồng độ T4 và T3 trở về bình thường thì giảm liều xuống mức thấp nhất có hiệu quả, thường làmethimazole2,5 mg đến 10 mg mỗi ngày một lần để tránh gây suy giáp. Kiểm soát thường đạt được trong 2 đến 3 tháng. Liều duy trì củamethimazolecó thể được tiếp tục trong≥1 năm tùy theo hoàn cảnh lâm sàng. Carbimazole, được sử dụng rộng rãi ở châu Âu nhưng không có sẵn ở Hoa Kỳ, nhanh chóng được chuyển đổi thànhmethimazole. Liều khởi đầu thông thường tương tự nhưmethimazole; liều duy trì là 2,5 mg đến 10 mg đường uống một lần/ngày hoặc 2,5 mg đến 5 mg hai lần/ngày.Do suy gan nặng ở một số bệnh nhân<40 tuổi, đặc biệt là trẻ em, propylthiouracil chỉ được khuyến nghị trong những trường hợp đặc biệt (ví dụ: trong ba tháng đầu của thai kỳ, trong cơn bão tuyến giáp). Liều khởi đầu thông thường củapropylthiouracillà 100 mg đến 150 mg đường uống 8 giờ một lần. Có thể kiểm soát nhanh chóng bằng cách tăng liều lượng củapropylthiouracillên 150 mg đến 200 mg, 8 giờ một lần. Liều dùng như vậy hoặc liều lượng cao hơn (đến 400 mg mỗi 8 giờ) thường được dùng cho những bệnh nhân nặng, bao gồm nhưng bệnh nhân có cơn bão giáp, để ngăn chặn sự chuyển đổi T4 thành T3. Liều duy trì vớipropylthiouracillà 50 mg x 2 lần/ngày hoặc 3 lần/ngàyKhoảng 20% đến 50%số bệnh nhân mắc bệnh Graves vẫn thuyên giảm sau đợt điều trị từ 1 năm đến 2 năm dùngmethimazolehoặcpropylthiouracil. Sự trở lại bình thường hoặc giảm đáng kể kích thước tuyến, sự phục hồi nồng độ TSH huyết thanh bình thường và khỏi các triệu chứng cường giáp là những dấu hiệu tiên lượng tốt về sự thuyên giảm lâu dài. Việc sử dụng đồng thời thuốc kháng giáp và levothyroxin không cải thiện tỷ lệ thuyên giảm ở bệnh nhân mắc bệnh Graves. Vì bướu có nốt độc hiếm khi thuyên giảm nên thuốc kháng giáp chỉ được dùng để chuẩn bị cho điều trị bằng phẫu thuật hoặc điều trị bằng iốt-131.Các tác dụng bất lợi bao gồm phát ban, phản ứng dị ứng, chức năng gan bất thường (bao gồm suy gan khi dùng propylthiouracil) và mất bạch cầu hạt có thể hồi phục ở khoảng 0,1%số bệnh nhân. Bệnh nhân dị ứng với một loại thuốc có thể được chuyển sang loại thuốc khác, nhưng có thể xảy ra hiện tượng mẫn cảm chéo. Nếu xảy ra tình trạng mất bạch cầu hạt, bệnh nhân không thể chuyển sang dùng thuốc khác; nên sử dụng liệu pháp khác (ví dụ: iod phóng xạ, phẫu thuật).Ngọc trai & cạm bẫyNếu tình trạng mất bạch cầu hạt xảy ra với một trong các loại thuốc kháng peroxidase tuyến giáp (methimazolehoặcpropylthiouracil), hãy tránh sử dụng một loại thuốc khác cùng nhóm; thay vào đó hãy sử dụng liệu pháp khác (ví dụ: iod phóng xạ, phẫu thuật).Các tác dụng bất lợi tiềm ẩn hoặc các đặc điểm khác khác nhau giữa 2 loại thuốc và hướng dẫn chỉ định cho từng loại. Methimazole chỉ cần uống một lần/ngày, giúp bệnh nhân tuân thủ tốt hơn. Hơn nữa, khi sử dụngmethimazolevới liều lượng<20 mg mỗi ngày, tình trạng mất bạch cầu hạt ít gặp hơn; với propylthiouracil, tình trạng mất bạch cầu hạt có thể xảy ra ở bất kỳ liều lượng nào.Methimazole đã được sử dụng thành công ở phụ nữ mang thai và cho con bú mà không gây biến chứng cho thai nhi hoặc trẻ sơ sinh, nhưng hiếm khimethimazolecó liên quan đến dị tật da đầu và dị tật đường tiêu hóa ở trẻ sơ sinh và bệnh phôi thai hiếm gặp. Vì những biến chứng này nên propylthiouracil được sử dụng trong ba tháng đầu của thai kỳ.Propylthiouracil được ưu tiên dùng để điều trị cơn bão giáp, vì liều lượng cao được sử dụng (trên 800 mg mỗi ngày) ngăn chặn một phần sự chuyển đổi ngoại vi của T4 thành T3 ngoài việc giảm sản sinh ở tuyến giáp.Phối hợp giữa propylthiouracil và dexamethasone liều cao, cũng là một thuốc ức chế mạnh chuyển đổi T4 thành T3, có thể làm giảm các triệu chứng cường giáp nặng ở bệnh nhân có cơn bão tuyến giáp và khôi phục nồng độ T3 huyết thanh về mức bình thường trong vòng một tuần.Thuốc chẹn betaCác triệu chứng và dấu hiệu của cường giáp do kích thích giao cảm có thể đáp ứng với thuốc chẹn beta; propranolol hay được sử dụng nhiều nhất, atenolol hoặc metoprolol có thể thích hợp hơn.Các biểu hiện thường có đáp ứng với thuốc chẹn beta bao gồmNhịp tim nhanhRunMột số triệu chứng tâm thần (ví dụ: lo lắng)Mí mắt trễĐôi khi không dung nạp nhiệt và đổ mồ hôi, tiêu chảy và bệnh cơ phần gần cũng đáp ứng với thuốc chẹn beta.Các biểu hiện thường không đáp ứng với thuốc chẹn beta bao gồmBướu cổVận nhãn ngoàiSụt cânTiếng ùTăng tiêu thụ oxyTăng nồng độ thyroxine tuần hoànPropranolol được chỉ định trong cơn bão giáp (xem bảngĐiều trị cơn bão giáp). Nó làm giảm nhịp tim nhanh, thường là trong vòng 2 đến 3 giờ với đường uống và trong vài phút nếu tiêm tĩnh mạch. Esmolol chỉ nên được sử dụng trong phòng chăm sóc đặc biệt vì nó yêu cầu chuẩn độ và theo dõi cẩn thận. Thuốc chẹn beta cũng được chỉ định trong điều trị nhịp tim nhanh do cường giáp, đặc biệt là ở bệnh nhân cao tuổi, vì thuốc kháng giáp thường mất vài tuần để có hiệu quả hoàn toàn.Thuốc chẹn kênh canxi có thể kiểm soát nhịp tim nhanh ở những bệnh nhân có chống chỉ định với thuốc chẹn beta.IốtIốt trong liều dược lý ức chế sự giải phóng T3 và T4 trong vài giờ và ức chế sự phân bố iốt, hiệu ứng chuyển tiếp kéo dài từ vài ngày đến một tuần, sau đó sự ức chế thường chấm dứt. Iốt được sử dụng để xử trí cấp cứu cơn bão tuyến giáp, cho bệnh nhân cường giáp được phẫu thuật cấp cứu ngoài tuyến giáp và (vì nó cũng làm giảm lưu lượng máu của tuyến giáp) để chuẩn bị trước phẫu thuật cho bệnh nhân cường giáp được phẫu thuật cắt tuyến giáp. Iốt thường không được sử dụng để điều trị cường giáp. Liều thông thường là từ 2 đến 3 giọt (100 đến 150 mg) dung dịch kali iodide bão hòa uống 3 hoặc 4 lần một ngày hoặc bằng muối natri iodide trong 1 L dung dịch muối 0,9% 0,5 đến 1 g truyền chậm cho một lần một ngày.Các biến chứng của điều trị iốt bao gồm viêm tuyến nước bọt, viêm kết mạc và phát ban.Phẫu thuậtPhẫu thuật được chỉ định cho những bệnh nhân mắc bệnh Graves mà bệnh cường giáp tái phát sau một đợt dùng thuốc kháng giáp và từ chối điều trị bằng iốt-131, những bệnh nhân không thể dung nạp thuốc kháng giáp, bệnh nhân có bướu cổ rất lớn và ở một số bệnh nhân trẻ tuổi bị bướu cổ có u tuyến độc và bướu cổ đa nhân. Phẫu thuật có thể được thực hiện ở bệnh nhân cao tuổi có bướu giáp nhân khổng lồ.Phẫu thuật thường phục hồi chức năng bình thường. Sự tái phát sau phẫu thuật thay đổi từ 2 đến 16%; nguy cơ suy giáp liên quan trực tiếp đến mức độ rộng của phẫu thuật lấy mô giáp. Liệt dây thanh và suy cận giáp là những biến chứng không thường gặp. Dung dịch muối kali iodide 3 giọt (khoảng 100 đến 150 mg) uống 3 lần/ngày nên được cho trong 10 ngày trước khi phẫu thuật để làm giảm chảy máu trong tuyến. Methimazole cũng phải được cho vì bệnh nhân nên được đưa về bình giáp trước khi sử dụng iodide. Dexamethasone có thể được bổ sung để nhanh đạt bình giáp. Phẫu thuật vùng cổ trước khó khăn hơn ở những bệnh nhân trước đây đã được phẫu thuật cắt bỏ tuyến giáp hoặc điều trị bằng iod phóng xạ do có mô sẹo.Điều trị cơn bão giápMột chế độ điều trị cho cơn bão giáp được chỉ ra trong bảngĐiều trị Bão giáp. Nguyên nhân kết tủa cũng cần được giải quyết.BảngĐiều trị cơn bão giápBảngĐiều trị cơn bão giápĐiều trị cơn bão giápPropylthiouracil: 600 mg uống cho trước khi cho iốt, sau đó 200-400 mg, 6-8 giờ một lầnIốt: 5 giọt (0,25 mL) dung dịch bão hòa kali iodide uống, 6 giờ một lầnhoặc là4–8 giọt dung dịch Lugol 2% uống, 6-8 giờ một lầnhoặc làTruyền chậm nhỏ giọt 1g muối natri iodide trong hơn 24 giờ.Propranolol: uống 60–80 mg, 4–6 giờ một lần với sự điều chỉnh thích hợp cho nhịp tim và huyết áphoặc làPropranolol: 0,5–1 mg đường tĩnh mạch trong 10–15 phút, 4 giờ một lần (không quá 1 mg/phút) dưới sự theo dõi chặt chẽLiều lặp lại 1 mg sau 2 phút, nếu cần, hoặc dùng esmololDung dịch dextrose truyền tĩnh mạch.Điều chỉnh thăng bằng nước và điện giảiChăn lạnh cho bệnh nhân bị tăng thân nhiệtCác thuốc chống loạn nhịp (ví dụ, thuốc chẹn kênh canxi,adenosine, thuốc chẹn beta) nếu cần cho bệnh nhân rung nhĩĐiều trị bệnh nền, như nhiễm trùngCorticosteroid: Hydrocortisone 100 mg tĩnh mạch mỗi 8 giờhoặc làDexamethasone 2 mg đường tĩnh mạch, 6 giờ một lầnLiệu pháp điều trị dứt điểm sau khi kiểm soát cơn cường giáp cấp bằng cách cắt bỏ tuyến giáp với iốt-131 hoặc điều trị phẫu thuật.Điều trị bệnh da do thâm nhiễmTrong bệnh da do thâm nhiễm (ở bệnh Basedow), corticosteroid tại chỗ hoặc tiêm corticosteroid vào tổn thương có thể làm giảm bệnh lý da. Bệnh da đôi khi thuyên giảm tự nhiên sau vài tháng hoặc nhiều năm.Điều trị bệnh mắt do thâm nhiễmBệnh mắt nên được điều trị đồng thời bởi bác sĩ nội tiết và bác sĩ nhãn khoa cùng điều trị và có thể cần đến selen, corticosteroid, xạ quanh mắt và phẫu thuật. Phẫu thuật cắt bỏ tuyến giáp có thể giúp giải quyết hoặc ngăn ngừa sự tiến triển của bệnh mắt. Teprotumumab, một thuốc ức chế thụ thể yếu tố tăng trưởng 1 (IGF-1) giốnginsulin, là liệu pháp rất hiệu quả đối với bệnh mắt nặng vừa phải (3). Liệu pháp iốt phóng xạ có thể làm tăng tiến triển của bệnh mắt khi bệnh mắt đang hoạt động và do vậy chống chỉ định iốt phóng xạ trong giai đoạn bệnh mắt hoạt động.Xử trí cường giáp cận lâm sàngỞ những bệnh nhân có cường giáp dưới lâm sàng đang dùng levothyroxine, giảm liều là cách điều trị thích hợp nhất trừ khi liệu pháp điều trị nhằm mục đích duy trì mức TSH bị ức chế ở bệnh nhân ung thư tuyến giáp.Điều trị được chỉ định cho những bệnh nhân cường giáp cận lâm sàng nội sinh (TSH huyết thanh<0,1 mIU/L [<< 0,1 microIU/mL]), đặc biệt là những người bị rung nhĩ hoặc giảm mật độ chất khoáng xương. Cách điều trị thông thường là điều trị iốt-131, nhưng methimazole liều thấp cũng có hiệu quả.Tài liệu tham khảo về điều trị1.Ross DS, Burch HB, Cooper DS, et al: 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis.Thyroid26(10):1343–1421, 2016. doi: 10.1089/thy.2016.02292.Shim SR, Kitahara CM, Cha ES, Kim SJ, Bang YJ, Lee WJ: Cancer Risk After Radioactive Iodine Treatment for Hyperthyroidism: A Systematic Review and Meta-analysis.JAMA Netw Open4(9):e2125072, 2021 doi:10.1001/jamanetworkopen.2021.250723.Douglas RS, Kahaly GJ, Patel A, et al:Teprotumumabfor the treatment of active thyroid eye disease.N Engl J Med382(4):341–352. 2020. doi: 10.1056/NEJMoa1910434
+
+--- 7. Những điểm chính ---
+
+Nguyên nhân phổ biến nhất của bệnh cường giáp là bệnh Graves, do tuyến giáp tổng hợp hormone quá mức do kích thích tự miễn dịch.Các nguyên nhân khác gây cường giáp bao gồm kích thích quá mức tuyến giáp bình thường (ví dụ: do hormone kích thích tuyến giáp [TSH],gonadotropin màng đệm ở người[hCG], uống iốt hoặc thuốc có có iốt), tổng hợp hormone quá mức do tuyến giáp bất thường (ví dụ: bướu cổ độc), giải phóng quá nhiều hormone tuyến giáp (ví dụ: do viêm tuyến giáp) hoặc uống quá nhiều hormone tuyến giáp.Các triệu chứng và dấu hiệu bao gồm nhịp tim nhanh, mệt mỏi, sụt cân, căng thẳng và run rẩy; bệnh nhân mắc bệnh Graves cũng có thể bị lồi mắt và bệnh da thâm nhiễm.T4 tự do, và/hoặc T3 tự do hoặc toàn phần tăng, và TSH bị ức chế (trừ những trường hợp hiếm gặp hơn của cường giáp do nguyên nhân tuyến yên).Sự tổng hợp hormone có thể bị ức chế bởi methimazole (hoặc trong một số trường hợp nhất định, propylthiouracil) và các triệu chứng cường giao cảm giảm khi điều trị bằng các thuốc chẹn beta; điều trị lâu dài có thể cần phải loại bỏ nhu mô giáp bằng iốt phóng xạ hoặc phẫu thuật.Bão giáp – do bệnh cường giáp nặng không được điều trị hoặc điều trị không đầy đủ – là một trường hợp cấp cứu đe dọa tính mạng với các triệu chứng cường giáp nghiêm trọng và có thể dẫn đến trụy tim mạch hoặc sốc; nó được điều trị bằng phác đồ thuốc kháng giáp, iốt, thuốc chẹn beta, corticosteroid và hỗ trợ huyết động.

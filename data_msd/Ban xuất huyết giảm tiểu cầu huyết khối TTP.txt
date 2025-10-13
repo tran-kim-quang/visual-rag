@@ -1,0 +1,523 @@
+TIÊU ĐỀ: Ban xuất huyết giảm tiểu cầu huyết khối (TTP)
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/giảm-tiểu-cầu-và-rối-loạn-chức-năng-tiểu-cầu/ban-xuất-huyết-giảm-tiểu-cầu-huyết-khối-ttp
+================================================================================
+
+NỘI DUNG:
+
+Ban xuất huyết giảm tiểu cầu huyết khối (TTP)
+
+Theo
+
+David J. Kuter
+
+,
+
+MD, DPhil
+
+,
+
+Harvard Medical School
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 3 2025
+
+v971389_vi
+
+Ban xuất huyết giảm tiểu cầu huyết khối (TTP) là một rối loạn cấp tính, bùng phát đặc trưng bởi giảm tiểu cầu, thiếu máu tán huyết vi mô và đôi khi tổn thương nội tạng. Biểu hiện lâm sàng có thể bao gồm sự thay đổi về mức độ ý thức và suy thận. Chẩn đoán đòi hỏi phải chứng minh các bất thường về xét nghiệm đặc trưng trong phòng thí nghiệm, bao gồm thiếu máu tán huyết âm tính với xét nghiệm kháng globulin trực tiếp và giảm nồng độ
+
+ADAMTS13
+
+. Điều trị bao gồm trao đổi huyết tương, corticosteroid, rituximab và hiếm khi sử dụng caplacizumab.
+
+Sinh lý bệnh
+
+|
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về rối loạn tiểu cầu
+
+.)
+
+TTP là một dạng
+
+bệnh vi mạch huyết khối
+
+(TMA) do thiếu
+
+ADAMTS13
+
+nặng, có thể qua trung gian miễn dịch hoặc di truyền. Một dạng TMA thường được nhận biết khác là
+
+hội chứng tan máu tăng urê huyết
+
+(HUS), có liên quan đến nhiễm khuẩn sản sinh độc tố Shiga hoặc bất thường trong hệ thống bổ thể.
+
+Sinh lý bệnh TTP
+
+Ban xuất huyết giảm tiểu cầu huyết khối (tương tự như
+
+hội chứng tán huyết-urê huyết
+
+[HUS]) liên quan đến sự phá hủy tiểu cầu không do miễn dịch. Tổn thương nội mô là tình trạng thường gặp. Lưới tiểu cầu-fibrin lỏng lẻo lắng trên thành nhiều mạch máu nhỏ và làm hỏng các tiểu cầu và hồng cầu (RBC), làm giảm tiểu cầu và thiếu máu đáng kể (thiếu máu tan máu vi mạch). Tiểu cầu cũng được tiêu thụ trong nhiều huyết khối nhỏ, góp phần làm giảm tiểu cầu.
+
+Nhiều cơ quan phát triển huyết khối tiểu cầu –
+
+yếu tố von Willebrand
+
+(VWF) khu trú chủ yếu ở các điểm nối động mạch, được mô tả là bệnh lý vi mạch huyết khối. Đặc biệt não, đường tiêu hoá và thận có thể bị ảnh hưởng. Mặc dù tổn thương thận thường xuất hiện trên sinh thiết (nếu có)
+
+tổn thương thận cấp
+
+hiếm gặp, không giống như trong HUS. Các vi huyết khối không bao gồm RBC hoặc fibrin (không giống như
+
+huyết khối trong đông máu nội mạch rải rác
+
+) và không biểu hiện đặc tính thâm nhiễm bạch cầu hạt
+
+viêm mạch
+
+). Huyết khối mạch lớn không phổ biến.
+
+Nguyên nhân gây ra TTP
+
+Ban xuất huyết giảm tiểu cầu huyết khối là do
+
+Hoạt động thiếu hụt bẩm sinh hoặc mắc phải của enzyme trong huyết tương
+
+ADAMTS13
+
+Enzyme
+
+ADAMTS13
+
+là một protease trong huyết tương có tác dụng phân cắt
+
+yếu tố von Willebran
+
+d (VWF) thành các kích thước nhỏ hơn và do đó loại bỏ các multimer VWF lớn bất thường có thể tích tụ trên các tế bào nội mô nơi chúng có thể gây ra huyết khối tiểu cầu. Hoạt động của
+
+ADAMTS13
+
+thường phải
+
+<
+
+10% mức bình thường để TTP có biểu hiện. Các yếu tố tiền huyết khối khác cũng cần phải được trình bày.
+
+Hầu hết các trường hợp đều mắc phải và liên quan đến việc phát triển tự kháng thể chống lại
+
+ADAMTS13
+
+. Các trường hợp hiếm gặp là di truyền (hội chứng Upshaw-Schulman), liên quan đến đột biến gen lặn
+
+ADAMTS13
+
+.
+
+Trong nhiều trường hợp mắc phải, nguyên nhân của tự kháng thể là không rõ. Các yếu tố nguy cơ đã biết bao gồm (
+
+1
+
+)
+
+Giới (nữ)
+
+Sử dụng desmopressin
+
+Mang thai (TTP thường không thể phân biệt được với
+
+tiền sản hoặc sản giật
+
+nặng)
+
+Người da đen cũng có thể tăng nguy cơ bị TTP dựa trên dữ liệu đoàn hệ từ Hoa Kỳ, điều này đã báo cáo nguy cơ cao hơn gấp 7 lần (
+
+1
+
+).
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Reese JA, Muthurajah DS, Kremer Hovinga JA, Vesely SK, Terrell DR, George JN
+
+. Children and adults with thrombotic thrombocytopenic purpura associated with severe, acquired
+
+Adamts13
+
+deficiency: comparison of incidence, demographic and clinical features.
+
+Pediatr Blood Cancer
+
+2013;60(10):1676-1682. doi:10.1002/pbc.24612
+
+Triệu chứng và Dấu hiệu TTP
+
+Các trường hợp di truyền thường biểu hiện ở trẻ sơ sinh và trẻ nhỏ. Các trường hợp mắc phải thường xảy ra ở người lớn.
+
+Các triệu chứng ban đầu có thể nhẹ và phát triển dần dần hoặc cấp tính và nặng. Nếu không điều trị, bệnh tiến triển và thường gây tử vong.
+
+Thiếu máu thường gây ra yếu và mệt mỏi.
+
+Giảm tiểu cầu thường gây ra xuất huyết hoặc chảy máu.
+
+Các biểu hiện thiếu máu cục bộ phát triển với mức độ nghiêm trọng khác nhau ở nhiều cơ quan. Những biểu hiện này bao gồm yếu, lú lẫn, co giật và/hoặc hôn mê, đau bụng, buồn nôn, nôn, tiêu chảy và loạn nhịp tim do tổn thương cơ tim. Sốt thường không xảy ra.
+
+Các triệu chứng và dấu hiệu của ban xuất huyết giảm tiểu cầu huyết khối và
+
+hội chứng tan máu tăng urê huyết
+
+(HUS) không thể phân biệt được, ngoại trừ các triệu chứng thần kinh ít gặp hơn và suy thận phổ biến hơn với HUS.
+
+Chuẩn đoán TTP
+
+Công thức máu (CBC) với tiểu cầu, phiến đồ máu ngoại vi, số lượng hồng cầu lưới, xét nghiệm kháng thể trực tiếp (Coombs), lactate dehydrogenase (LDH), thời gian prothrombin (PT), thời gian thromboplastin riêng phần (PTT),
+
+fibrinogen
+
+, haptoglobin và bilirubin huyết thanh ( trực tiếp và gián tiếp)
+
+Xét nghiệm phân tích nước tiểu và xét nghiệm chức năng thận
+
+Hoạt tính và nồng độ tự kháng thể của
+
+ADAMTS13
+
+Loại trừ các rối loạn giảm tiểu cầu
+
+TTP-HUS bị nghi ngờ ở những bệnh nhân có triệu chứng gợi ý là giảm tiểu cầu, và thiếu máu. Nếu nghi ngờ rối loạn, xét nghiệm phân tích nước tiểu và chức năng thận, CBC, phiến đồ máu ngoại vi, số lượng hồng cầu lưới, LDH huyết thanh, haptoglobin, hoạt tính của
+
+ADAMTS13
+
+và xét nghiệm tự kháng thể (chất ức chế), bilirubin huyết thanh (trực tiếp và gián tiếp) và xét nghiệm kháng thể trực tiếp sẽ được thực hiện.
+
+Nhận biết sớm là rất quan trọng để bắt đầu điều trị càng nhanh càng tốt. Có thể cần bắt đầu điều trị trong những trường hợp nghi ngờ trước khi hoàn thành xét nghiệm
+
+ADAMTS13
+
+xác nhận nếu các biểu hiện khác của TTP (triệu chứng lâm sàng, giảm tiểu cầu, LDH tăng, xét nghiệm phiến đồ máu ngoại vi) phù hợp với chẩn đoán này.
+
+Chẩn đoán TTP được gợi ý bởi
+
+Giảm tiểu cầu và thiếu máu
+
+Các hồng cầu bị phân mảnh trên phiến đồ máu cho thấy tình trạng tan máu vi mạch (mảnh hồng cầu: hồng cầu đội mũ bảo hiểm, hồng cầu hình tam giác, hồng cầu có hình dạng méo mó – xem ảnh
+
+Mảnh hồng cầu
+
+)
+
+Bằng chứng về tan máu (giảm mức Hemoglobin, hồng cầu đa sắc, tăng hồng cầu lưới, tăng LDH huyết thanh và bilirubin, giảm haptoglobin)
+
+Xét nghiệm antiglobulin trực tiếp âm tính
+
+Xét nghiệm đông máu bình thường
+
+Gậy điểm số PLASMIC giúp cung cấp xác suất trước khi kiểm tra TTP và giúp hướng dẫn các quyết định điều trị (
+
+1
+
+).
+
+Công cụ tính toán lâm sàng
+
+Điểm số PLASMIC để ước tính khả năng thiếu ADAMTS13 nặng ở người lớn nghi ngờ TTP
+
+Xét nghiệm hoạt tính của
+
+ADAMTS13
+
+và tự kháng thể thích hợp ở những bệnh nhân có nghi ngờ TTP. Mặc dù không nên trì hoãn điều trị ban đầu để chờ kết quả xét nghiệm
+
+ADAMTS13
+
+, nhưng kết quả rất quan trọng để dẫn hướng điều trị tiếp theo. Nồng độ
+
+ADAMTS13
+
+<
+
+10% với sự hiện diện của kháng thể chống lại
+
+ADAMTS13
+
+là đặc điểm của hầu hết người lớn mắc TTP và những bệnh nhân này đáp ứng với trao đổi huyết tương và ức chế miễn dịch (corticosteroid và rituximab).
+
+Bệnh nhân có nồng độ
+
+ADAMTS13
+
+≥
+
+10% và không có kháng thể chống lại
+
+ADAMTS13
+
+khó có thể đáp ứng với trao đổi huyết tương và ức chế miễn dịch và nên được đánh giá các nguyên nhân khác gây thiếu máu và giảm tiểu cầu, bao gồm
+
+đông máu nội mạch rải rác trong lòng mạch
+
+,
+
+nhiễm trùng huyết
+
+, ung thư tiềm ẩn với tình trạng tăng đông và viêm tắc tĩnh mạch di trú (hội chứng Trousseau),
+
+tiền sản giật
+
+,
+
+xơ cứng hệ thống
+
+,
+
+lupus ban đỏ hệ thống
+
+,
+
+tăng huyết áp nhanh
+
+và thải ghép thận cấp tính. Một khả năng khác là bệnh vi mạch huyết khối do thuốc (do các loại thuốc như quinine, cyclosporine, tacrolimus và thuốc hóa trị ung thư [ví dụ: mitomycin C, gemcitabine] kích hoạt. (Những bệnh nhân này có nồng độ ADAMTS 13 bình thường và không đáp ứng với trao đổi huyết tương, corticosteroid hoặc ức chế bổ thể.)
+
+Những bệnh nhân hiếm gặp có thể có nồng độ
+
+ADAMTS13
+
+thấp nhưng không có tự kháng thể; những bệnh nhân như vậy nên trải qua xét nghiệm di truyền
+
+ADAMTS13
+
+để xác nhận hội chứng Upshaw-Schulman bẩm sinh vì họ sẽ chỉ cần truyền huyết tương mà không cần ức chế miễn dịch. Xét nghiệm di truyền cũng được chỉ định ở những bệnh nhân khởi phát trong thời thơ ấu hoặc mang thai, các đợt tái phát, tiền sử gia đình hoặc các nghi ngờ lâm sàng khác.
+
+Nếu không xét nghiệm được ADMTS13 thì giảm tiểu cầu không rõ nguyên nhân và
+
+thiếu máu tan huyết
+
+là chứng cứ đầy đủ cho một chẩn đoán giả định.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Bendapudi PK, Hurwitz S, Fry A, et al
+
+. Derivation and external validation of the PLASMIC score for rapid assessment of adults with thrombotic microangiopathies: a cohort study.
+
+Lancet Haematol
+
+2017;4(4):e157-e164. doi:10.1016/S2352-3026(17)30026-1
+
+Điều trị TTP
+
+Trao đổi huyết tương
+
+Corticosteroid và rituximab
+
+Caplacizumab (hiếm khi)
+
+Xuất huyết giảm tiểu cầu không được điều trị hầu như luôn gây tử vong. Tuy nhiên, với việc
+
+trao đổi huyết tương
+
+, > 91% bệnh nhân hồi phục hoàn toàn (
+
+1
+
+). Trao đổi huyết tương được bắt đầu khẩn cấp và tiếp tục hàng ngày trong vài ngày hoặc nhiều tuần cho đến khi có bằng chứng cho thấy hoạt động của bệnh đã giảm bớt, được biểu thị bằng số lượng tiểu cầu và nồng độ LDH bình thường (
+
+2
+
+). Người lớn bị ban xuất huyết giảm tiểu cầu huyết khối cũng được dùng corticosteroid.
+
+Ngọc trai & cạm bẫy
+
+Ở những bệnh nhân giảm tiểu cầu không rõ nguyên nhân và thiếu máu tan máu vi mạch, nghi ngờ TTP và bắt đầu trao đổi huyết tương khẩn cấp.
+
+Caplacizumab, một loại globulin miễn dịch miền đơn biến đổi nhân bản hóa (nanobody) chống
+
+yếu tố von Willebrand
+
+, ức chế sự tương tác giữa các multiner
+
+yếu tố von Willebrand
+
+và tiểu cầu lớn bất thường.
+
+Caplacizumab
+
+dường như giúp đẩy nhanh quá trình giảm tiểu cầu, nhưng có thể làm tăng xu hướng chảy máu. Mặc dù nó có thể làm giảm nhu cầu trao đổi huyết tương, nhưng nó đơn độc hiếm khi gây ra sự thuyên giảm bệnh; vai trò của nó trong điều trị TTP là chủ đề của nhiều cuộc tranh luận nhưng vẫn chưa rõ ràng. Hiệp hội Quốc tế về Huyết khối và Giãn máu (ISTH) có điều kiện khuyến nghị sử dụng
+
+caplacizumab
+
+(
+
+3
+
+). Tuy nhiên, các phân tích gần đây cho thấy nhiều bất đồng đối với việc sử dụng
+
+caplicizumab
+
+dựa trên chi phí cao đáng kể của liệu pháp này và khả năng làm tăng nguy cơ chảy máu (
+
+4
+
+).
+
+Hầu hết bệnh nhân có 1 lần mắc TTP. Tuy nhiên, tái phát xảy ra ở khoảng 40% số bệnh nhân bị thiếu hụt nghiêm trọng hoạt tính của
+
+ADAMTS13
+
+do chất ức chế tự kháng thể của
+
+ADAMTS13
+
+. Ở những bệnh nhân tái diễn khi ngừng trao đổi huyết tương hoặc ở những bệnh nhân tái phát, ức chế miễn dịch mạnh với rituximab có thể có hiệu quả. Bệnh nhân phải được đánh giá nhanh chóng nếu có triệu chứng tái phát.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Bell WR, Braine HG, Ness PM, Kickler TS
+
+. Improved survival in thrombotic thrombocytopenic purpura-hemolytic uremic syndrome. Clinical experience in 108 patients.
+
+N Engl J Med
+
+1991;325(6):398-403. doi:10.1056/NEJM199108083250605
+
+2.
+
+Zheng XL, Vesely SK, Cataland SR, et al
+
+. Good practice statements (GPS) for the clinical care of patients with thrombotic thrombocytopenic purpura.
+
+J Thromb Haemost
+
+2020;18(10):2503-2512. doi:10.1111/jth.15009
+
+3.
+
+Zheng XL, Vesely SK, Cataland SR, et al
+
+. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura.
+
+J Thromb Haemost
+
+2020;18(10):2496-2502. doi:10.1111/jth.15010
+
+4.
+
+Goshua G, Sinha P, Hendrickson JE, Tormey C, Bendapudi PK, Lee AI
+
+. Cost effectiveness of
+
+caplacizumab
+
+in acquired thrombotic thrombocytopenic purpura.
+
+Blood
+
+2021;137(7):969-976. doi:10.1182/blood.2020006052
+
+Những điểm chính
+
+Tiểu cầu và hồng cầu bị phá hủy không miễn dịch bởi huyết khối vi mạch, dẫn đến giảm tiểu cầu, thiếu máu và thiếu máu cục bộ cơ quan.
+
+Nguyên nhân là do hoạt tính thiếu hụt của protease
+
+ADAMTS1
+
+3, thường là do tự kháng thể mắc phải nhưng hiếm khi do đột biến gen di truyền.
+
+Ban xuất huyết giảm tiểu cầu không được điều trị thường gây tử vong.
+
+Điều trị kịp thời với trao đổi huyết tương cùng với corticosteroid và rituximab cho kết quả tỷ lệ sống sót > 85%.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh TTP ---
+
+Ban xuất huyết giảm tiểu cầu huyết khối (tương tự nhưhội chứng tán huyết-urê huyết[HUS]) liên quan đến sự phá hủy tiểu cầu không do miễn dịch. Tổn thương nội mô là tình trạng thường gặp. Lưới tiểu cầu-fibrin lỏng lẻo lắng trên thành nhiều mạch máu nhỏ và làm hỏng các tiểu cầu và hồng cầu (RBC), làm giảm tiểu cầu và thiếu máu đáng kể (thiếu máu tan máu vi mạch). Tiểu cầu cũng được tiêu thụ trong nhiều huyết khối nhỏ, góp phần làm giảm tiểu cầu.Nhiều cơ quan phát triển huyết khối tiểu cầu –yếu tố von Willebrand(VWF) khu trú chủ yếu ở các điểm nối động mạch, được mô tả là bệnh lý vi mạch huyết khối. Đặc biệt não, đường tiêu hoá và thận có thể bị ảnh hưởng. Mặc dù tổn thương thận thường xuất hiện trên sinh thiết (nếu có)tổn thương thận cấphiếm gặp, không giống như trong HUS. Các vi huyết khối không bao gồm RBC hoặc fibrin (không giống nhưhuyết khối trong đông máu nội mạch rải rác) và không biểu hiện đặc tính thâm nhiễm bạch cầu hạtviêm mạch). Huyết khối mạch lớn không phổ biến.
+
+--- 2. Nguyên nhân gây ra TTP ---
+
+Ban xuất huyết giảm tiểu cầu huyết khối là doHoạt động thiếu hụt bẩm sinh hoặc mắc phải của enzyme trong huyết tươngADAMTS13EnzymeADAMTS13là một protease trong huyết tương có tác dụng phân cắtyếu tố von Willebrand (VWF) thành các kích thước nhỏ hơn và do đó loại bỏ các multimer VWF lớn bất thường có thể tích tụ trên các tế bào nội mô nơi chúng có thể gây ra huyết khối tiểu cầu. Hoạt động củaADAMTS13thường phải<10% mức bình thường để TTP có biểu hiện. Các yếu tố tiền huyết khối khác cũng cần phải được trình bày.Hầu hết các trường hợp đều mắc phải và liên quan đến việc phát triển tự kháng thể chống lạiADAMTS13. Các trường hợp hiếm gặp là di truyền (hội chứng Upshaw-Schulman), liên quan đến đột biến gen lặnADAMTS13.Trong nhiều trường hợp mắc phải, nguyên nhân của tự kháng thể là không rõ. Các yếu tố nguy cơ đã biết bao gồm (1)Giới (nữ)Sử dụng desmopressinMang thai (TTP thường không thể phân biệt được vớitiền sản hoặc sản giậtnặng)Người da đen cũng có thể tăng nguy cơ bị TTP dựa trên dữ liệu đoàn hệ từ Hoa Kỳ, điều này đã báo cáo nguy cơ cao hơn gấp 7 lần (1).Tài liệu tham khảo nguyên nhân gây bệnh1.Reese JA, Muthurajah DS, Kremer Hovinga JA, Vesely SK, Terrell DR, George JN. Children and adults with thrombotic thrombocytopenic purpura associated with severe, acquiredAdamts13deficiency: comparison of incidence, demographic and clinical features.Pediatr Blood Cancer2013;60(10):1676-1682. doi:10.1002/pbc.24612
+
+--- 3. Triệu chứng và Dấu hiệu TTP ---
+
+Các trường hợp di truyền thường biểu hiện ở trẻ sơ sinh và trẻ nhỏ. Các trường hợp mắc phải thường xảy ra ở người lớn.Các triệu chứng ban đầu có thể nhẹ và phát triển dần dần hoặc cấp tính và nặng. Nếu không điều trị, bệnh tiến triển và thường gây tử vong.Thiếu máu thường gây ra yếu và mệt mỏi.Giảm tiểu cầu thường gây ra xuất huyết hoặc chảy máu.Các biểu hiện thiếu máu cục bộ phát triển với mức độ nghiêm trọng khác nhau ở nhiều cơ quan. Những biểu hiện này bao gồm yếu, lú lẫn, co giật và/hoặc hôn mê, đau bụng, buồn nôn, nôn, tiêu chảy và loạn nhịp tim do tổn thương cơ tim. Sốt thường không xảy ra.Các triệu chứng và dấu hiệu của ban xuất huyết giảm tiểu cầu huyết khối vàhội chứng tan máu tăng urê huyết(HUS) không thể phân biệt được, ngoại trừ các triệu chứng thần kinh ít gặp hơn và suy thận phổ biến hơn với HUS.
+
+--- 4. Chuẩn đoán TTP ---
+
+Công thức máu (CBC) với tiểu cầu, phiến đồ máu ngoại vi, số lượng hồng cầu lưới, xét nghiệm kháng thể trực tiếp (Coombs), lactate dehydrogenase (LDH), thời gian prothrombin (PT), thời gian thromboplastin riêng phần (PTT),fibrinogen, haptoglobin và bilirubin huyết thanh ( trực tiếp và gián tiếp)Xét nghiệm phân tích nước tiểu và xét nghiệm chức năng thậnHoạt tính và nồng độ tự kháng thể củaADAMTS13Loại trừ các rối loạn giảm tiểu cầuTTP-HUS bị nghi ngờ ở những bệnh nhân có triệu chứng gợi ý là giảm tiểu cầu, và thiếu máu. Nếu nghi ngờ rối loạn, xét nghiệm phân tích nước tiểu và chức năng thận, CBC, phiến đồ máu ngoại vi, số lượng hồng cầu lưới, LDH huyết thanh, haptoglobin, hoạt tính củaADAMTS13và xét nghiệm tự kháng thể (chất ức chế), bilirubin huyết thanh (trực tiếp và gián tiếp) và xét nghiệm kháng thể trực tiếp sẽ được thực hiện.Nhận biết sớm là rất quan trọng để bắt đầu điều trị càng nhanh càng tốt. Có thể cần bắt đầu điều trị trong những trường hợp nghi ngờ trước khi hoàn thành xét nghiệmADAMTS13xác nhận nếu các biểu hiện khác của TTP (triệu chứng lâm sàng, giảm tiểu cầu, LDH tăng, xét nghiệm phiến đồ máu ngoại vi) phù hợp với chẩn đoán này.Chẩn đoán TTP được gợi ý bởiGiảm tiểu cầu và thiếu máuCác hồng cầu bị phân mảnh trên phiến đồ máu cho thấy tình trạng tan máu vi mạch (mảnh hồng cầu: hồng cầu đội mũ bảo hiểm, hồng cầu hình tam giác, hồng cầu có hình dạng méo mó – xem ảnhMảnh hồng cầu)Bằng chứng về tan máu (giảm mức Hemoglobin, hồng cầu đa sắc, tăng hồng cầu lưới, tăng LDH huyết thanh và bilirubin, giảm haptoglobin)Xét nghiệm antiglobulin trực tiếp âm tínhXét nghiệm đông máu bình thườngGậy điểm số PLASMIC giúp cung cấp xác suất trước khi kiểm tra TTP và giúp hướng dẫn các quyết định điều trị (1).Công cụ tính toán lâm sàngĐiểm số PLASMIC để ước tính khả năng thiếu ADAMTS13 nặng ở người lớn nghi ngờ TTPXét nghiệm hoạt tính củaADAMTS13và tự kháng thể thích hợp ở những bệnh nhân có nghi ngờ TTP. Mặc dù không nên trì hoãn điều trị ban đầu để chờ kết quả xét nghiệmADAMTS13, nhưng kết quả rất quan trọng để dẫn hướng điều trị tiếp theo. Nồng độADAMTS13<10% với sự hiện diện của kháng thể chống lạiADAMTS13là đặc điểm của hầu hết người lớn mắc TTP và những bệnh nhân này đáp ứng với trao đổi huyết tương và ức chế miễn dịch (corticosteroid và rituximab).Bệnh nhân có nồng độADAMTS13≥10% và không có kháng thể chống lạiADAMTS13khó có thể đáp ứng với trao đổi huyết tương và ức chế miễn dịch và nên được đánh giá các nguyên nhân khác gây thiếu máu và giảm tiểu cầu, bao gồmđông máu nội mạch rải rác trong lòng mạch,nhiễm trùng huyết, ung thư tiềm ẩn với tình trạng tăng đông và viêm tắc tĩnh mạch di trú (hội chứng Trousseau),tiền sản giật,xơ cứng hệ thống,lupus ban đỏ hệ thống,tăng huyết áp nhanhvà thải ghép thận cấp tính. Một khả năng khác là bệnh vi mạch huyết khối do thuốc (do các loại thuốc như quinine, cyclosporine, tacrolimus và thuốc hóa trị ung thư [ví dụ: mitomycin C, gemcitabine] kích hoạt. (Những bệnh nhân này có nồng độ ADAMTS 13 bình thường và không đáp ứng với trao đổi huyết tương, corticosteroid hoặc ức chế bổ thể.)Những bệnh nhân hiếm gặp có thể có nồng độADAMTS13thấp nhưng không có tự kháng thể; những bệnh nhân như vậy nên trải qua xét nghiệm di truyềnADAMTS13để xác nhận hội chứng Upshaw-Schulman bẩm sinh vì họ sẽ chỉ cần truyền huyết tương mà không cần ức chế miễn dịch. Xét nghiệm di truyền cũng được chỉ định ở những bệnh nhân khởi phát trong thời thơ ấu hoặc mang thai, các đợt tái phát, tiền sử gia đình hoặc các nghi ngờ lâm sàng khác.Nếu không xét nghiệm được ADMTS13 thì giảm tiểu cầu không rõ nguyên nhân vàthiếu máu tan huyếtlà chứng cứ đầy đủ cho một chẩn đoán giả định.Tài liệu tham khảo chẩn đoán1.Bendapudi PK, Hurwitz S, Fry A, et al. Derivation and external validation of the PLASMIC score for rapid assessment of adults with thrombotic microangiopathies: a cohort study.Lancet Haematol2017;4(4):e157-e164. doi:10.1016/S2352-3026(17)30026-1
+
+--- 5. Điều trị TTP ---
+
+Trao đổi huyết tươngCorticosteroid và rituximabCaplacizumab (hiếm khi)Xuất huyết giảm tiểu cầu không được điều trị hầu như luôn gây tử vong. Tuy nhiên, với việctrao đổi huyết tương, > 91% bệnh nhân hồi phục hoàn toàn (1). Trao đổi huyết tương được bắt đầu khẩn cấp và tiếp tục hàng ngày trong vài ngày hoặc nhiều tuần cho đến khi có bằng chứng cho thấy hoạt động của bệnh đã giảm bớt, được biểu thị bằng số lượng tiểu cầu và nồng độ LDH bình thường (2). Người lớn bị ban xuất huyết giảm tiểu cầu huyết khối cũng được dùng corticosteroid.Ngọc trai & cạm bẫyỞ những bệnh nhân giảm tiểu cầu không rõ nguyên nhân và thiếu máu tan máu vi mạch, nghi ngờ TTP và bắt đầu trao đổi huyết tương khẩn cấp.Caplacizumab, một loại globulin miễn dịch miền đơn biến đổi nhân bản hóa (nanobody) chốngyếu tố von Willebrand, ức chế sự tương tác giữa các multineryếu tố von Willebrandvà tiểu cầu lớn bất thường.Caplacizumabdường như giúp đẩy nhanh quá trình giảm tiểu cầu, nhưng có thể làm tăng xu hướng chảy máu. Mặc dù nó có thể làm giảm nhu cầu trao đổi huyết tương, nhưng nó đơn độc hiếm khi gây ra sự thuyên giảm bệnh; vai trò của nó trong điều trị TTP là chủ đề của nhiều cuộc tranh luận nhưng vẫn chưa rõ ràng. Hiệp hội Quốc tế về Huyết khối và Giãn máu (ISTH) có điều kiện khuyến nghị sử dụngcaplacizumab(3). Tuy nhiên, các phân tích gần đây cho thấy nhiều bất đồng đối với việc sử dụngcaplicizumabdựa trên chi phí cao đáng kể của liệu pháp này và khả năng làm tăng nguy cơ chảy máu (4).Hầu hết bệnh nhân có 1 lần mắc TTP. Tuy nhiên, tái phát xảy ra ở khoảng 40% số bệnh nhân bị thiếu hụt nghiêm trọng hoạt tính củaADAMTS13do chất ức chế tự kháng thể củaADAMTS13. Ở những bệnh nhân tái diễn khi ngừng trao đổi huyết tương hoặc ở những bệnh nhân tái phát, ức chế miễn dịch mạnh với rituximab có thể có hiệu quả. Bệnh nhân phải được đánh giá nhanh chóng nếu có triệu chứng tái phát.Tài liệu tham khảo về điều trị1.Bell WR, Braine HG, Ness PM, Kickler TS. Improved survival in thrombotic thrombocytopenic purpura-hemolytic uremic syndrome. Clinical experience in 108 patients.N Engl J Med1991;325(6):398-403. doi:10.1056/NEJM1991080832506052.Zheng XL, Vesely SK, Cataland SR, et al. Good practice statements (GPS) for the clinical care of patients with thrombotic thrombocytopenic purpura.J Thromb Haemost2020;18(10):2503-2512. doi:10.1111/jth.150093.Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura.J Thromb Haemost2020;18(10):2496-2502. doi:10.1111/jth.150104.Goshua G, Sinha P, Hendrickson JE, Tormey C, Bendapudi PK, Lee AI. Cost effectiveness ofcaplacizumabin acquired thrombotic thrombocytopenic purpura.Blood2021;137(7):969-976. doi:10.1182/blood.2020006052
+
+--- 6. Những điểm chính ---
+
+Tiểu cầu và hồng cầu bị phá hủy không miễn dịch bởi huyết khối vi mạch, dẫn đến giảm tiểu cầu, thiếu máu và thiếu máu cục bộ cơ quan.Nguyên nhân là do hoạt tính thiếu hụt của proteaseADAMTS13, thường là do tự kháng thể mắc phải nhưng hiếm khi do đột biến gen di truyền.Ban xuất huyết giảm tiểu cầu không được điều trị thường gây tử vong.Điều trị kịp thời với trao đổi huyết tương cùng với corticosteroid và rituximab cho kết quả tỷ lệ sống sót > 85%.

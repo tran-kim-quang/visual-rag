@@ -1,0 +1,217 @@
+TIÊU ĐỀ: Các lỗi nhận thức trong việc ra quyết định lâm sàng
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/quyết-định-lâm-sàng/các-lỗi-nhận-thức-trong-việc-ra-quyết-định-lâm-sàng
+================================================================================
+
+NỘI DUNG:
+
+Các lỗi nhận thức trong việc ra quyết định lâm sàng
+
+Theo
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Michael R. Wasserman
+
+,
+
+MD
+
+,
+
+California Association of Long Term Care Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v1123894_vi
+
+Các loại lỗi nhận thức
+
+|
+
+Các yếu tố nguy cơ đối với lỗi nhận thức
+
+|
+
+Mặc dù các mô hình toán học định lượng có thể hướng dẫn việc ra quyết định lâm sàng, các bác sĩ lâm sàng hiếm khi có thể sử dụng các phép tính chính thức để đưa ra các quyết định chăm sóc bệnh nhân trong thực hành hàng ngày. Thay vào đó, sự hiểu biết trực quan về xác suất được kết hợp với các quá trình nhận thức được gọi là phương pháp tìm kiếm để hướng dẫn phán đoán lâm sàng (
+
+1
+
+).
+
+Heuristics
+
+thường được gọi là quy tắc ngón tay cái, ước đoán, hoặc lối tắt. Phương pháp tiếp cận theo kinh nghiệm thường liên quan đến việc nhận dạng mẫu và dựa vào sự tích hợp tiềm thức của dữ liệu bệnh nhân với kinh nghiệm trước đó thay vì dựa vào việc tạo ra chẩn đoán phân biệt nghiêm ngặt một cách có ý thức được đánh giá chính thức bằng cách sử dụng dữ liệu cụ thể từ tài liệu.
+
+Lý luận không chính thức như vậy rất hữu ích nhưng dễ sai lầm vì phương pháp suy luận có thể gây ra một số loại lỗi vô thức (lỗi nhận thức). Các nghiên cứu cho thấy nhiều lỗi y khoa liên quan đến lỗi nhận thức hơn là thiếu kiến thức hoặc thông tin.
+
+Tài liệu tham khảo
+
+1.
+
+Restrepo D, Armstrong KA, Metlay JP
+
+: Annals Clinical Decision Making: Avoiding Cognitive Errors in Clinical Decision Making.
+
+Ann Intern Med
+
+. 2020;172(11):747-751. doi:10.7326/M19-3692
+
+Các loại lỗi nhận thức
+
+Có nhiều loại lỗi nhận thức (lý luận), và mặc dù rõ ràng việc tránh sai sót quan trọng hơn là phân loại chúng một cách chính xác khi đã mắc phải, nhận thức về các loại lỗi nhận thức phổ biến có thể giúp bác sĩ lâm sàng nhận ra và tránh các lỗi đó.
+
+Các lỗi nhận thức có thể được phân loại như sau
+
+Đánh giá sai về xác suất thử nghiệm trước (đánh giá quá cao hoặc đánh giá thấp khả năng mắc bệnh)
+
+Không xem xét nghiêm túc tất cả các khả năng liên quan
+
+Ngọc trai & cạm bẫy
+
+Có rất nhiều loại lỗi nhận thức được đặt tên, nhưng chúng có xu hướng chia thành 2 nhóm: lỗi đánh giá xác suất trước khi kiểm tra và không xem xét nghiêm túc tất cả các khả năng liên quan.
+
+Cả hai loại lỗi này đều có thể dễ dàng dẫn đến việc kiểm tra không đúng cách (quá nhiều hoặc quá ít) và chẩn đoán bị bỏ sót hoặc chậm trễ.
+
+Lỗi khả dụng
+
+Lỗi sẵn có là khi bác sĩ lâm sàng chọn điều đầu tiên xuất hiện trong đầu họ. Điều này có thể đánh giá thấp khả năng thực tế mắc bệnh trước khi xét nghiệm vì một trải nghiệm gần đây hoặc đáng nhớ khiến chẩn đoán đó dễ "xuất hiện" trong tâm trí hơn.
+
+Kinh nghiệm thường dẫn đến sự đánh giá quá cao về xác suất khi có một sự ghi nhớ ấn tượng về một trường hợp lâm sàng không mong muốn hoặc liên quan đến kiện tụng. Ví dụ, một bác sĩ lâm sàng đã bỏ lỡ chẩn đoán tắc mạch phổi ở một phụ nữ trẻ khỏe mạnh bị đau ngực, nhưng không có những yếu tố nguy cơ rõ ràng, từ đó có thể đánh giá quá cao nguy cơ tắc mạch phổi ở những bệnh nhân tương tự và dẫn đến chỉ định chụp MSCT mạch phổi cho những ca nguy cơ thấp tương tự.
+
+Kinh nghiệm hạn chế cũng có thể dẫn đến việc đánh giá thấp. Ví dụ: một bác sĩ nội trú mới chỉ khám một vài bệnh nhân bị đau ngực, tất cả đều có nguyên nhân lành tính, có thể đánh giá sơ bộ về bệnh tim mạch hoặc thuyên tắc huyết khối ngay cả trong số những bệnh nhân có tỷ lệ hiện mắc không thấp.
+
+lỗi đại diện
+
+Sai số đại diện là khi bác sĩ lâm sàng tập trung vào sự hiện diện hoặc không có các biểu hiện kinh điển của bệnh mà không tính đến tỷ lệ hiện mắc bệnh. Ví dụ, bệnh nhân nam 60 tuổi, thể trạng gầy, xuất hiện triệu chứng đau ngực mơ hồ trong vài giờ, và không có tiền sử gì đặc biệt trước đây, dù những triệu chứng này không phù hợp với triệu chứng của nhồi máu cơ tim điển hình, tuy nhiên cũng không được bỏ sót chẩn đoán nhồi máu cơ tim ở những bệnh nhân này, vì nhồi máu cơ tim rất phổ biến ở độ tuổi đó, và triệu chứng lâm sàng của nhồi máu cơ tim rất biến đổi. Ngược lại, một người đàn ông khỏe mạnh 20 tuổi đột nhiên bị đau ngực dữ dội và đau lưng có thể bị nghi ngờ bị phình tách động mạch chủ ngực vì những đặc điểm lâm sàng này thường gặp ở
+
+bệnh phình tách động mạch chủ
+
+. Lỗi nhận thức là không tính đến thực tế là phình tách động mạch chủ rất hiếm gặp ở bệnh nhân 20 tuổi, khỏe mạnh và không có tiền sử gia đình mắc các bệnh như vậy; do đó, cần xem xét các nguyên nhân khác có khả năng xảy ra hơn (ví dụ: tràn khí màng phổi, viêm màng phổi) trước. Sai số đại diện cũng xảy ra khi các bác sĩ lâm sàng không nhận ra rằng kết quả xét nghiệm dương tính (đối với bất kỳ xét nghiệm nào có độ đặc hiệu dưới 100%) trong một quần thể mà bệnh được xét nghiệm hiếm gặp có nhiều khả năng là dương tính giả hơn là dương tính thật.
+
+Đóng sớm
+
+Kết luận sớm là đưa ra và bám vào chẩn đoán mang tính phỏng đoán. Đây là một trong những lỗi phổ biến nhất; bác sĩ lâm sàng chẩn đoán nhanh chóng (thường dựa trên nhận dạng mẫu), không xem xét các chẩn đoán khác có thể xảy ra và ngừng thu thập dữ liệu sớm. Chẩn đoán nghi ngờ thậm chí có thể chưa được xác nhận bằng kiểm tra phù hợp. Các lỗi kết luận sớm có thể xảy ra bất cứ khi nào nhưng nó đặc biệt phổ biến khi bệnh nhân xuất hiện những triệu chứng của một bệnh lý đã biết trước - ví dụ, nếu một bệnh nhân nữ có tiền sử đau nửa đầu nhiều năm, nay xuất hiện đau đầu dữ dội, bác sĩ dễ chẩn đoán ngay là một cơn đau nửa đầu, mặc dù thực sự bệnh nhân đang có tình trạng xuất huyết dưới nhện. Một biến thể khác của chẩn đoán sớm xảy ra khi các nhà lâm sàng tiếp theo (ví dụ như chuyên gia tư vấn các ca bệnh phức tạp) dễ dàng chấp nhận các chẩn đoán trước đó mà không thu thập và xem xét dữ liệu liên quan một cách độc lập. Hồ sơ bệnh án điện tử có thể làm trầm trọng thêm các lỗi đóng hồ sơ sớm vì các chẩn đoán không chính xác, ban đầu có thể được liệt kê là có khả năng xảy ra, thường được đưa vào nhiều ghi chú và ngày càng được coi là chính xác.
+
+lỗi neo
+
+Lỗi mỏ neo xảy ra khi các bác sĩ lâm sàng kiên định bám vào một ấn tượng ban đầu ngay cả khi dữ liệu xung đột và mâu thuẫn tích tụ. Ví dụ: chẩn đoán
+
+viêm tụy cấp
+
+là khá hợp lý đối với một người đàn ông 60 tuổi bị đau thượng vị và buồn nôn, ngồi xổm về phía trước, ôm bụng và có tiền sử bị viêm tụy do rượu nhiều lần mà ông cho biết là có cảm giác tương tự như những gì ông đang cảm thấy hiện tại. Tuy nhiên, mặc dù bệnh nhân nói rằng họ đã không uống rượu trong nhiều năm và có nồng độ enzyme tuyến tụy trong máu bình thường, các bác sĩ lâm sàng vẫn có thể giảm thiểu những dữ liệu này (ví dụ: bệnh nhân đang nói dối, tuyến tụy của bệnh nhân bị tổn thương, xét nghiệm có sai sót), do đó lỗi mỏ neo và làm chậm quá trình chẩn đoán chính xác tình trạng
+
+loét dạ dày
+
+xuyên thấu. Các bác sĩ lâm sàng nên coi bất kỳ dữ liệu mâu thuẫn nào là bằng chứng cho thấy cần phải tiếp tục tìm kiếm chẩn đoán khác thay vì coi đó là bất thường cần bỏ qua. Ban đầu, có thể không có bằng chứng hỗ trợ (tức là, cho việc chẩn đoán sai) trong một số trường hợp mắc lỗi mỏ neo, nhưng những lỗi đó thường được nhận ra sau đó.
+
+Thiên kiến xác nhận
+
+Thành kiến xác nhận là "hái quả anh đào", có nghĩa là các bác sĩ lâm sàng chấp nhận một cách có chọn lọc dữ liệu lâm sàng ủng hộ một giả thuyết mong muốn và bỏ qua những dữ liệu không ủng hộ. Xu hướng thiên vị xác nhận thường làm trầm trọng thêm lỗi mỏ neo giữ khi bác sĩ lâm sàng sử dụng dữ liệu xác nhận để hỗ trợ giả thuyết bị mỏ neo ngay cả khi cũng có bằng chứng mâu thuẫn. Ví dụ, bác sĩ có thể kiên định bám vào bệnh sử của bệnh nhân cho thấy hội chứng mạch vành cấp (ACS) để xác nhận nghi ngờ ban đầu của ACS ngay cả khi không có sự biến đổi động học trên điện tâm đồ và men tim.
+
+lỗi quy kết
+
+Lỗi phân bổ liên quan đến việc đưa ra quyết định dựa trên những định kiến tiêu cực, có thể khiến các bác sĩ lâm sàng bỏ qua hoặc giảm thiểu khả năng mắc bệnh nghiêm trọng. Ví dụ: các bác sĩ lâm sàng có thể cho rằng một bệnh nhân bất tỉnh có mùi rượu là do say rượu và bỏ sót tình trạng
+
+hạ đường huyết
+
+,
+
+nhiễm toan ceton do đái tháo đường
+
+hoặc
+
+chấn thương nội sọ
+
+, hoặc họ có thể cho rằng một bệnh nhân mắc chứng rối loạn sử dụng chất gây nghiện bị đau lưng chỉ đơn giản là đang tìm kiếm thuốc phiện và bỏ sót tình trạng
+
+áp xe ngoài màng cứng
+
+. Bệnh nhân tâm thần bị một bệnh thực thể thường dễ mắc lỗi quy kết vì họ không chỉ dễ bị gán ghép tiêu cực mà còn thường mô tả các triệu chứng của mình theo cách không rõ ràng, không nhất quán hoặc khó hiểu, khiến các bác sĩ lâm sàng thiếu cảnh giác cho rằng các triệu chứng của họ mang tính chất chức năng.
+
+lỗi cảm tính
+
+Lỗi ảnh hưởng liên quan đến việc để cho cảm xúc cá nhân (tích cực hoặc tiêu cực) về một bệnh nhân ảnh hưởng đến quyết định. Ví dụ: tránh các xét nghiệm hoặc kiểm tra khó chịu nhưng cần thiết vì sự yêu mến hoặc thông cảm với bệnh nhân (ví dụ: tránh khám vùng chậu và xét nghiệm các bệnh lây truyền qua đường tình dục đối với bệnh nhân theo đạo hoặc là giám đốc điều hành cấp cao hoặc tránh nuôi cấy máu đối với bệnh nhân bị bệnh nặng có tĩnh mạch kém). Tương tự như vậy, lỗi tình cảm bao gồm việc không thực hiện đánh giá tiêu chuẩn đối với một bệnh nhân không được ưa chuộng (ví dụ: giảm thiểu tầm quan trọng của chứng khó thở ở một bệnh nhân hay lăng mạ bằng lời nói hoặc ở một người mắc bệnh phổi tắc nghẽn mạn tính nhưng vẫn tiếp tục hút thuốc).
+
+Các yếu tố nguy cơ đối với lỗi nhận thức
+
+Các yếu tố bên trong và bên ngoài có thể làm tăng nguy cơ mắc lỗi nhận thức.
+
+Các yếu tố bên trong bao gồm
+
+Kiến thức, đào tạo và kinh nghiệm y tế
+
+Quá tự tin vào bản thân hoặc các chuyên gia tư vấn
+
+thiếu ngủ
+
+Cân bằng giữa việc chấp nhận rủi ro/không thích rủi ro
+
+Các yếu tố nguy cơ trên lâm sàng bao gồm
+
+Khối lượng công việc
+
+sao nhãng
+
+Quản lý tài nguyên nhóm và áp lực đồng nghiệp
+
+Giảm thiểu các lỗi nhận thức
+
+Một số chiến lược cụ thể có thể giúp giảm thiểu các lỗi nhận thức. Thông thường, sau hỏi bệnh và khám lâm sàng, bác sĩ lâm sàng thường đưa ra một chẩn đoán sơ bộ dựa trên heuristic (phương pháp tự tìm tòi). Tại thời điểm này, việc tạm dừng để đưa ra một số phản biện hoặc một vài câu hỏi là tương đối dễ dàng:
+
+Nếu đó
+
+không phải
+
+là chẩn đoán sơ bộ, có thể có chẩn đoán khác là gì?
+
+Chẩn đoán nguy hiểm nhất có thể là gì?
+
+Có bằng chứng nào trái ngược với chẩn đoán sơ bộ đó không?
+
+Những câu hỏi này có thể giúp mở rộng chẩn đoán phân biệt để đưa ra những chẩn đoán có thể đã bị bỏ sót vì các lỗi nhận thức, và do đó, thúc đây các bác sĩ lâm sàng khai thác thêm thông tin cần thiết.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các loại lỗi nhận thức ---
+
+Có nhiều loại lỗi nhận thức (lý luận), và mặc dù rõ ràng việc tránh sai sót quan trọng hơn là phân loại chúng một cách chính xác khi đã mắc phải, nhận thức về các loại lỗi nhận thức phổ biến có thể giúp bác sĩ lâm sàng nhận ra và tránh các lỗi đó.Các lỗi nhận thức có thể được phân loại như sauĐánh giá sai về xác suất thử nghiệm trước (đánh giá quá cao hoặc đánh giá thấp khả năng mắc bệnh)Không xem xét nghiêm túc tất cả các khả năng liên quanNgọc trai & cạm bẫyCó rất nhiều loại lỗi nhận thức được đặt tên, nhưng chúng có xu hướng chia thành 2 nhóm: lỗi đánh giá xác suất trước khi kiểm tra và không xem xét nghiêm túc tất cả các khả năng liên quan.Cả hai loại lỗi này đều có thể dễ dàng dẫn đến việc kiểm tra không đúng cách (quá nhiều hoặc quá ít) và chẩn đoán bị bỏ sót hoặc chậm trễ.Lỗi khả dụngLỗi sẵn có là khi bác sĩ lâm sàng chọn điều đầu tiên xuất hiện trong đầu họ. Điều này có thể đánh giá thấp khả năng thực tế mắc bệnh trước khi xét nghiệm vì một trải nghiệm gần đây hoặc đáng nhớ khiến chẩn đoán đó dễ "xuất hiện" trong tâm trí hơn.Kinh nghiệm thường dẫn đến sự đánh giá quá cao về xác suất khi có một sự ghi nhớ ấn tượng về một trường hợp lâm sàng không mong muốn hoặc liên quan đến kiện tụng. Ví dụ, một bác sĩ lâm sàng đã bỏ lỡ chẩn đoán tắc mạch phổi ở một phụ nữ trẻ khỏe mạnh bị đau ngực, nhưng không có những yếu tố nguy cơ rõ ràng, từ đó có thể đánh giá quá cao nguy cơ tắc mạch phổi ở những bệnh nhân tương tự và dẫn đến chỉ định chụp MSCT mạch phổi cho những ca nguy cơ thấp tương tự.Kinh nghiệm hạn chế cũng có thể dẫn đến việc đánh giá thấp. Ví dụ: một bác sĩ nội trú mới chỉ khám một vài bệnh nhân bị đau ngực, tất cả đều có nguyên nhân lành tính, có thể đánh giá sơ bộ về bệnh tim mạch hoặc thuyên tắc huyết khối ngay cả trong số những bệnh nhân có tỷ lệ hiện mắc không thấp.lỗi đại diệnSai số đại diện là khi bác sĩ lâm sàng tập trung vào sự hiện diện hoặc không có các biểu hiện kinh điển của bệnh mà không tính đến tỷ lệ hiện mắc bệnh. Ví dụ, bệnh nhân nam 60 tuổi, thể trạng gầy, xuất hiện triệu chứng đau ngực mơ hồ trong vài giờ, và không có tiền sử gì đặc biệt trước đây, dù những triệu chứng này không phù hợp với triệu chứng của nhồi máu cơ tim điển hình, tuy nhiên cũng không được bỏ sót chẩn đoán nhồi máu cơ tim ở những bệnh nhân này, vì nhồi máu cơ tim rất phổ biến ở độ tuổi đó, và triệu chứng lâm sàng của nhồi máu cơ tim rất biến đổi. Ngược lại, một người đàn ông khỏe mạnh 20 tuổi đột nhiên bị đau ngực dữ dội và đau lưng có thể bị nghi ngờ bị phình tách động mạch chủ ngực vì những đặc điểm lâm sàng này thường gặp ởbệnh phình tách động mạch chủ. Lỗi nhận thức là không tính đến thực tế là phình tách động mạch chủ rất hiếm gặp ở bệnh nhân 20 tuổi, khỏe mạnh và không có tiền sử gia đình mắc các bệnh như vậy; do đó, cần xem xét các nguyên nhân khác có khả năng xảy ra hơn (ví dụ: tràn khí màng phổi, viêm màng phổi) trước. Sai số đại diện cũng xảy ra khi các bác sĩ lâm sàng không nhận ra rằng kết quả xét nghiệm dương tính (đối với bất kỳ xét nghiệm nào có độ đặc hiệu dưới 100%) trong một quần thể mà bệnh được xét nghiệm hiếm gặp có nhiều khả năng là dương tính giả hơn là dương tính thật.Đóng sớmKết luận sớm là đưa ra và bám vào chẩn đoán mang tính phỏng đoán. Đây là một trong những lỗi phổ biến nhất; bác sĩ lâm sàng chẩn đoán nhanh chóng (thường dựa trên nhận dạng mẫu), không xem xét các chẩn đoán khác có thể xảy ra và ngừng thu thập dữ liệu sớm. Chẩn đoán nghi ngờ thậm chí có thể chưa được xác nhận bằng kiểm tra phù hợp. Các lỗi kết luận sớm có thể xảy ra bất cứ khi nào nhưng nó đặc biệt phổ biến khi bệnh nhân xuất hiện những triệu chứng của một bệnh lý đã biết trước - ví dụ, nếu một bệnh nhân nữ có tiền sử đau nửa đầu nhiều năm, nay xuất hiện đau đầu dữ dội, bác sĩ dễ chẩn đoán ngay là một cơn đau nửa đầu, mặc dù thực sự bệnh nhân đang có tình trạng xuất huyết dưới nhện. Một biến thể khác của chẩn đoán sớm xảy ra khi các nhà lâm sàng tiếp theo (ví dụ như chuyên gia tư vấn các ca bệnh phức tạp) dễ dàng chấp nhận các chẩn đoán trước đó mà không thu thập và xem xét dữ liệu liên quan một cách độc lập. Hồ sơ bệnh án điện tử có thể làm trầm trọng thêm các lỗi đóng hồ sơ sớm vì các chẩn đoán không chính xác, ban đầu có thể được liệt kê là có khả năng xảy ra, thường được đưa vào nhiều ghi chú và ngày càng được coi là chính xác.lỗi neoLỗi mỏ neo xảy ra khi các bác sĩ lâm sàng kiên định bám vào một ấn tượng ban đầu ngay cả khi dữ liệu xung đột và mâu thuẫn tích tụ. Ví dụ: chẩn đoánviêm tụy cấplà khá hợp lý đối với một người đàn ông 60 tuổi bị đau thượng vị và buồn nôn, ngồi xổm về phía trước, ôm bụng và có tiền sử bị viêm tụy do rượu nhiều lần mà ông cho biết là có cảm giác tương tự như những gì ông đang cảm thấy hiện tại. Tuy nhiên, mặc dù bệnh nhân nói rằng họ đã không uống rượu trong nhiều năm và có nồng độ enzyme tuyến tụy trong máu bình thường, các bác sĩ lâm sàng vẫn có thể giảm thiểu những dữ liệu này (ví dụ: bệnh nhân đang nói dối, tuyến tụy của bệnh nhân bị tổn thương, xét nghiệm có sai sót), do đó lỗi mỏ neo và làm chậm quá trình chẩn đoán chính xác tình trạngloét dạ dàyxuyên thấu. Các bác sĩ lâm sàng nên coi bất kỳ dữ liệu mâu thuẫn nào là bằng chứng cho thấy cần phải tiếp tục tìm kiếm chẩn đoán khác thay vì coi đó là bất thường cần bỏ qua. Ban đầu, có thể không có bằng chứng hỗ trợ (tức là, cho việc chẩn đoán sai) trong một số trường hợp mắc lỗi mỏ neo, nhưng những lỗi đó thường được nhận ra sau đó.Thiên kiến xác nhậnThành kiến xác nhận là "hái quả anh đào", có nghĩa là các bác sĩ lâm sàng chấp nhận một cách có chọn lọc dữ liệu lâm sàng ủng hộ một giả thuyết mong muốn và bỏ qua những dữ liệu không ủng hộ. Xu hướng thiên vị xác nhận thường làm trầm trọng thêm lỗi mỏ neo giữ khi bác sĩ lâm sàng sử dụng dữ liệu xác nhận để hỗ trợ giả thuyết bị mỏ neo ngay cả khi cũng có bằng chứng mâu thuẫn. Ví dụ, bác sĩ có thể kiên định bám vào bệnh sử của bệnh nhân cho thấy hội chứng mạch vành cấp (ACS) để xác nhận nghi ngờ ban đầu của ACS ngay cả khi không có sự biến đổi động học trên điện tâm đồ và men tim.lỗi quy kếtLỗi phân bổ liên quan đến việc đưa ra quyết định dựa trên những định kiến tiêu cực, có thể khiến các bác sĩ lâm sàng bỏ qua hoặc giảm thiểu khả năng mắc bệnh nghiêm trọng. Ví dụ: các bác sĩ lâm sàng có thể cho rằng một bệnh nhân bất tỉnh có mùi rượu là do say rượu và bỏ sót tình trạnghạ đường huyết,nhiễm toan ceton do đái tháo đườnghoặcchấn thương nội sọ, hoặc họ có thể cho rằng một bệnh nhân mắc chứng rối loạn sử dụng chất gây nghiện bị đau lưng chỉ đơn giản là đang tìm kiếm thuốc phiện và bỏ sót tình trạngáp xe ngoài màng cứng. Bệnh nhân tâm thần bị một bệnh thực thể thường dễ mắc lỗi quy kết vì họ không chỉ dễ bị gán ghép tiêu cực mà còn thường mô tả các triệu chứng của mình theo cách không rõ ràng, không nhất quán hoặc khó hiểu, khiến các bác sĩ lâm sàng thiếu cảnh giác cho rằng các triệu chứng của họ mang tính chất chức năng.lỗi cảm tínhLỗi ảnh hưởng liên quan đến việc để cho cảm xúc cá nhân (tích cực hoặc tiêu cực) về một bệnh nhân ảnh hưởng đến quyết định. Ví dụ: tránh các xét nghiệm hoặc kiểm tra khó chịu nhưng cần thiết vì sự yêu mến hoặc thông cảm với bệnh nhân (ví dụ: tránh khám vùng chậu và xét nghiệm các bệnh lây truyền qua đường tình dục đối với bệnh nhân theo đạo hoặc là giám đốc điều hành cấp cao hoặc tránh nuôi cấy máu đối với bệnh nhân bị bệnh nặng có tĩnh mạch kém). Tương tự như vậy, lỗi tình cảm bao gồm việc không thực hiện đánh giá tiêu chuẩn đối với một bệnh nhân không được ưa chuộng (ví dụ: giảm thiểu tầm quan trọng của chứng khó thở ở một bệnh nhân hay lăng mạ bằng lời nói hoặc ở một người mắc bệnh phổi tắc nghẽn mạn tính nhưng vẫn tiếp tục hút thuốc).
+
+--- 2. Các yếu tố nguy cơ đối với lỗi nhận thức ---
+
+Các yếu tố bên trong và bên ngoài có thể làm tăng nguy cơ mắc lỗi nhận thức.Các yếu tố bên trong bao gồmKiến thức, đào tạo và kinh nghiệm y tếQuá tự tin vào bản thân hoặc các chuyên gia tư vấnthiếu ngủCân bằng giữa việc chấp nhận rủi ro/không thích rủi roCác yếu tố nguy cơ trên lâm sàng bao gồmKhối lượng công việcsao nhãngQuản lý tài nguyên nhóm và áp lực đồng nghiệp

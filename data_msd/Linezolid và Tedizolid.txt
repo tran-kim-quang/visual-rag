@@ -1,0 +1,421 @@
+TIÊU ĐỀ: Linezolid và Tedizolid
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/linezolid-và-tedizolid
+================================================================================
+
+NỘI DUNG:
+
+Linezolid và Tedizolid
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v13957546_vi
+
+Linezolid
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Tedizolid
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Thông tin thêm
+
+|
+
+Linezolid và tedizolid là
+
+kháng sinh oxazolidinone
+
+.
+
+Linezolid
+
+Linezolid là một chất kháng sinh oxazolidinone có hoạt tính chống lại những tác nhân đây:
+
+Streptococci
+
+Enterococci
+
+, bao gồm cả enterococci kháng
+
+vancomycin
+
+(VRE)
+
+Staphylococci
+
+bao gồm tụ cầu vàng kháng methicillin
+
+S. aureus
+
+,(MRSA) và các chủng kháng với các nhóm kháng sinh khác
+
+Mycobacteria
+
+, bao gồm
+
+Mycobacterium tuberculosis
+
+Kỵ khí
+
+chẳng hạn như
+
+Fusobacterium
+
+,
+
+Prevotella
+
+,
+
+Porphyromonas
+
+, và
+
+Bacteroides
+
+spp và peptostreptococci
+
+Chống chỉ định với
+
+Linezolid
+
+Linezolid chống chỉ định ở những bệnh nhân có phản ứng dị ứng trước đó.
+
+Chống chỉ định dùng
+
+Linezolid
+
+ở những bệnh nhân đang dùng thuốc ức chế monamine oxidase (MAOIs).
+
+Hội chứng serotonin
+
+Linezolid là một MAOI có thể đảo ngược, không chọn lọc; Sự ức chế MAO làm cho mức chất dẫn truyền thần kinh serotonin tăng lên. Do đó,
+
+linezolid
+
+có khả năng gây ra
+
+hội chứng serotonin
+
+(trạng thái tăng serotonin được đặc trưng bởi sự thay đổi trạng thái tâm thần, các bất thường về thần kinh và mất ổn định hệ thần kinh tự chủ) khi sử dụng ở những bệnh nhân có một trong các tình trạng sau:
+
+U carcinoid nội tiết
+
+hoạt động
+
+Sử dụng thuốc có hoạt tính serotonergic
+
+Những loại thuốc này bao gồm các chất ức chế tái hấp thu serotonin có chọn lọc, MAOIs (ví dụ: phenelzine, isocarboxazid), thuốc chống trầm cảm ba vòng, chất chủ vận thụ thể serotonin 1B,1D (triptans), meperidine, methadone, bupropion và buspirone. Một phân tích sử dụng dữ liệu từ Hệ thống báo cáo biến cố bất lợi của FDA (
+
+FAERS)
+
+cho thấy
+
+linezolid
+
+có nhiều khả năng gây ra
+
+hội chứng serotonin
+
+khi được sử dụng với citalopram (hoặc escitalopram) hoặc methadone (
+
+1
+
+). Dữ liệu tiếp theo từ các nghiên cứu đoàn hệ cho thấy rằng
+
+linezolid
+
+có thể được dùng một cách an toàn cho hầu hết bệnh nhân dùng thuốc chống trầm cảm và opioid (
+
+2
+
+,
+
+3
+
+). Vì vậy, những bệnh nhân đang dùng những loại thuốc này và những người cần
+
+linezolid
+
+khẩn cấp có thể được điều trị nếu lợi ích được cho là lớn hơn nguy cơ. Tuy nhiên, nên tránh phối hợp linezolid với
+
+citalopram (hoặc escitalopram)
+
+hoặc
+
+methadone
+
+khi có thể.
+
+Bệnh nhân gần đây hoặc đang sử dụng bất kỳ loại thuốc serotonergic và linezolid nào nên được theo dõi cẩn thận các biểu hiện của hội chứng serotonin trong 2 tuần sau khi ngừng thuốc (đối với fluoxetine, 5 tuần) hoặc trong 24 giờ sau liều
+
+linezolid
+
+cuối cùng.
+
+Linezolid
+
+chưa được nghiên cứu ở những bệnh nhân mắc hội chứng carcinoid; chỉ nên sử dụng nếu bệnh nhân được theo dõi chặt chẽ các triệu chứng và dấu hiệu của hội chứng serotonin.
+
+Tăng huyết áp
+
+Không nên dùng Linezolid cho những bệnh nhân sau đây trừ khi chúng được theo dõi chặt chẽ việc tăng huyết áp:
+
+Những người dùng bất kỳ loại thuốc nào sau đây: Thuốc giống giao cảm (ví dụ: pseudoephedrine), thuốc vận mạch (ví dụ: epinephrine, norepinephrine) hoặc thuốc dopaminergic (ví dụ: dopamine, dobutamine)
+
+Những người có tăng huyết áp không kiểm soát được
+
+Những người bị cường giáp
+
+Những người bị u thượng thận
+
+Tham khảo chống chỉ định
+
+1.
+
+Gatti M, Raschi E, De Ponti F
+
+. Serotonin syndrome by drug interactions with
+
+linezolid
+
+: clues from pharmacovigilance-pharmacokinetic/pharmacodynamic analysis.
+
+Eur J Clin Pharmacol
+
+. 2021;77(2):233-239. doi:10.1007/s00228-020-02990-1
+
+2.
+
+Bai AD, McKenna S, Wise H, Loeb M, Gill SS
+
+. Association of
+
+Linezolid
+
+With Risk of Serotonin Syndrome in Patients Receiving Antidepressants.
+
+JAMA Netw Open
+
+. 2022;5(12):e2247426. Xuất bản ngày 1 tháng 12 năm 2022. doi:10.1001/jamanetworkopen.2022.47426
+
+3.
+
+Mitwally H, Saad MO, Alkhiyami D, et al
+
+. Risk of serotonin syndrome in acutely ill patients receiving
+
+linezolid
+
+and opioids concomitantly: a retrospective cohort study.
+
+IJID Reg
+
+. 2022;5:137-140. Xuất bản ngày 24 tháng 9 năm 2022. doi:10.1016/j.ijregi.2022.09.008
+
+Sử dụng
+
+Linezolid
+
+trong thời kỳ mang thai và cho con bú
+
+Các nghiên cứu sinh sản động vật với linezolid cho thấy một số nguy cơ, và không có nghiên cứu đầy đủ, kiểm soát tốt đã được thực hiện ở phụ nữ mang thai. Chỉ nên sử dụng
+
+Linezolid
+
+trong thời kỳ mang thai nếu lợi ích mang lại lớn hơn nguy cơ tiềm ẩn đối với thai nhi.
+
+Vẫn chưa rõ
+
+linezolid
+
+có được bài tiết qua sữa mẹ hay có an toàn khi sử dụng trong thời kỳ cho con bú hay không.
+
+Tác dụng bất lợi của
+
+Linezolid
+
+bao gồm
+
+Tác dụng phụ của linezolid bao gồm
+
+Ức chế tủy xương có hồi phục
+
+Viêm dây thần kinh ngoại biên không hồi phục
+
+Viêm thần kinh thị có hồi phục
+
+Hội chứng serotonin
+
+Nhiễm toan lactic có thể hồi phục
+
+Ức chế tủy xương có thể hồi phục, bao gồm giảm tiểu cầu, giảm bạch cầu và thiếu máu, xảy ra ở khoảng 3% số bệnh nhân (tỷ lệ phần trăm cao hơn ở trẻ sơ sinh và trẻ nhỏ), thường khi điều trị
+
+>
+
+2 tuần. Do đó, công thức máu được theo dõi hàng tuần, đặc biệt khi điều trị kéo dài
+
+>
+
+2 tuần.
+
+Bệnh thần kinh ngoại vi và thị giác có thể xảy ra khi sử dụng kéo dài và bệnh nhân dùng liệu pháp linezolid dài hạn nên được theo dõi chặt chẽ với những rối loạn này.
+
+Tedizolid
+
+Tedizolid là một loại kháng sinh oxazolidinone có phổ hoạt động tương tự như
+
+linezolid
+
+, mặc dù thuốc này có thể có hoạt tính chống lại một số cầu khuẩn gram dương kháng
+
+linezolid
+
+.
+
+Trong các thử nghiệm lâm sàng, nguy cơ mắc
+
+hội chứng serotonin
+
+và giảm tiểu cầu ở
+
+tedizolid
+
+thấp hơn so với
+
+linezolid
+
+. Tedizolid, giống như
+
+linezolid
+
+, có thể gây giảm bạch cầu trung tính đáng kể và việc sử dụng các kháng sinh oxazolidinone này không được khuyến nghị ở những bệnh nhân có số lượng bạch cầu trung tính < 1000 tế bào/mcL (< 1 × 10
+
+9
+
+/L) khi có các lựa chọn thay thế có thể chấp nhận được.
+
+Sử dụng
+
+Tedizolid
+
+khi mang thai và cho con bú
+
+Các nghiên cứu về sinh sản ở động vật với tedizolid cho thấy một số nguy cơ và chưa có nghiên cứu đầy đủ, có kiểm soát tốt nào được thực hiện ở phụ nữ mang thai. Chỉ nên sử dụng
+
+Tedizolid
+
+trong thời kỳ mang thai nếu lợi ích mang lại lớn hơn nguy cơ tiềm ẩn đối với thai nhi.
+
+Hiện chưa rõ liệu
+
+tedizolid
+
+có được bài tiết qua sữa mẹ hay an toàn khi sử dụng trong thời kỳ cho con bú hay không.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+FDA Adverse Events Reporting System (
+
+FAERS
+
+): A toll that allows users to query FAERS data
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Linezolid ---
+
+Linezolid là một chất kháng sinh oxazolidinone có hoạt tính chống lại những tác nhân đây:StreptococciEnterococci, bao gồm cả enterococci khángvancomycin(VRE)Staphylococcibao gồm tụ cầu vàng kháng methicillinS. aureus,(MRSA) và các chủng kháng với các nhóm kháng sinh khácMycobacteria, bao gồmMycobacterium tuberculosisKỵ khíchẳng hạn nhưFusobacterium,Prevotella,Porphyromonas, vàBacteroidesspp và peptostreptococciChống chỉ định vớiLinezolidLinezolid chống chỉ định ở những bệnh nhân có phản ứng dị ứng trước đó.Chống chỉ định dùngLinezolidở những bệnh nhân đang dùng thuốc ức chế monamine oxidase (MAOIs).Hội chứng serotoninLinezolid là một MAOI có thể đảo ngược, không chọn lọc; Sự ức chế MAO làm cho mức chất dẫn truyền thần kinh serotonin tăng lên. Do đó,linezolidcó khả năng gây rahội chứng serotonin(trạng thái tăng serotonin được đặc trưng bởi sự thay đổi trạng thái tâm thần, các bất thường về thần kinh và mất ổn định hệ thần kinh tự chủ) khi sử dụng ở những bệnh nhân có một trong các tình trạng sau:U carcinoid nội tiếthoạt độngSử dụng thuốc có hoạt tính serotonergicNhững loại thuốc này bao gồm các chất ức chế tái hấp thu serotonin có chọn lọc, MAOIs (ví dụ: phenelzine, isocarboxazid), thuốc chống trầm cảm ba vòng, chất chủ vận thụ thể serotonin 1B,1D (triptans), meperidine, methadone, bupropion và buspirone. Một phân tích sử dụng dữ liệu từ Hệ thống báo cáo biến cố bất lợi của FDA (FAERS)cho thấylinezolidcó nhiều khả năng gây rahội chứng serotoninkhi được sử dụng với citalopram (hoặc escitalopram) hoặc methadone (1). Dữ liệu tiếp theo từ các nghiên cứu đoàn hệ cho thấy rằnglinezolidcó thể được dùng một cách an toàn cho hầu hết bệnh nhân dùng thuốc chống trầm cảm và opioid (2,3). Vì vậy, những bệnh nhân đang dùng những loại thuốc này và những người cầnlinezolidkhẩn cấp có thể được điều trị nếu lợi ích được cho là lớn hơn nguy cơ. Tuy nhiên, nên tránh phối hợp linezolid vớicitalopram (hoặc escitalopram)hoặcmethadonekhi có thể.Bệnh nhân gần đây hoặc đang sử dụng bất kỳ loại thuốc serotonergic và linezolid nào nên được theo dõi cẩn thận các biểu hiện của hội chứng serotonin trong 2 tuần sau khi ngừng thuốc (đối với fluoxetine, 5 tuần) hoặc trong 24 giờ sau liềulinezolidcuối cùng.Linezolidchưa được nghiên cứu ở những bệnh nhân mắc hội chứng carcinoid; chỉ nên sử dụng nếu bệnh nhân được theo dõi chặt chẽ các triệu chứng và dấu hiệu của hội chứng serotonin.Tăng huyết ápKhông nên dùng Linezolid cho những bệnh nhân sau đây trừ khi chúng được theo dõi chặt chẽ việc tăng huyết áp:Những người dùng bất kỳ loại thuốc nào sau đây: Thuốc giống giao cảm (ví dụ: pseudoephedrine), thuốc vận mạch (ví dụ: epinephrine, norepinephrine) hoặc thuốc dopaminergic (ví dụ: dopamine, dobutamine)Những người có tăng huyết áp không kiểm soát đượcNhững người bị cường giápNhững người bị u thượng thậnTham khảo chống chỉ định1.Gatti M, Raschi E, De Ponti F. Serotonin syndrome by drug interactions withlinezolid: clues from pharmacovigilance-pharmacokinetic/pharmacodynamic analysis.Eur J Clin Pharmacol. 2021;77(2):233-239. doi:10.1007/s00228-020-02990-12.Bai AD, McKenna S, Wise H, Loeb M, Gill SS. Association ofLinezolidWith Risk of Serotonin Syndrome in Patients Receiving Antidepressants.JAMA Netw Open. 2022;5(12):e2247426. Xuất bản ngày 1 tháng 12 năm 2022. doi:10.1001/jamanetworkopen.2022.474263.Mitwally H, Saad MO, Alkhiyami D, et al. Risk of serotonin syndrome in acutely ill patients receivinglinezolidand opioids concomitantly: a retrospective cohort study.IJID Reg. 2022;5:137-140. Xuất bản ngày 24 tháng 9 năm 2022. doi:10.1016/j.ijregi.2022.09.008Sử dụngLinezolidtrong thời kỳ mang thai và cho con búCác nghiên cứu sinh sản động vật với linezolid cho thấy một số nguy cơ, và không có nghiên cứu đầy đủ, kiểm soát tốt đã được thực hiện ở phụ nữ mang thai. Chỉ nên sử dụngLinezolidtrong thời kỳ mang thai nếu lợi ích mang lại lớn hơn nguy cơ tiềm ẩn đối với thai nhi.Vẫn chưa rõlinezolidcó được bài tiết qua sữa mẹ hay có an toàn khi sử dụng trong thời kỳ cho con bú hay không.Tác dụng bất lợi củaLinezolidbao gồmTác dụng phụ của linezolid bao gồmỨc chế tủy xương có hồi phụcViêm dây thần kinh ngoại biên không hồi phụcViêm thần kinh thị có hồi phụcHội chứng serotoninNhiễm toan lactic có thể hồi phụcỨc chế tủy xương có thể hồi phục, bao gồm giảm tiểu cầu, giảm bạch cầu và thiếu máu, xảy ra ở khoảng 3% số bệnh nhân (tỷ lệ phần trăm cao hơn ở trẻ sơ sinh và trẻ nhỏ), thường khi điều trị>2 tuần. Do đó, công thức máu được theo dõi hàng tuần, đặc biệt khi điều trị kéo dài>2 tuần.Bệnh thần kinh ngoại vi và thị giác có thể xảy ra khi sử dụng kéo dài và bệnh nhân dùng liệu pháp linezolid dài hạn nên được theo dõi chặt chẽ với những rối loạn này.
+
+--- 2. Chống chỉ định vớiLinezolid ---
+
+Linezolid chống chỉ định ở những bệnh nhân có phản ứng dị ứng trước đó.Chống chỉ định dùngLinezolidở những bệnh nhân đang dùng thuốc ức chế monamine oxidase (MAOIs).Hội chứng serotoninLinezolid là một MAOI có thể đảo ngược, không chọn lọc; Sự ức chế MAO làm cho mức chất dẫn truyền thần kinh serotonin tăng lên. Do đó,linezolidcó khả năng gây rahội chứng serotonin(trạng thái tăng serotonin được đặc trưng bởi sự thay đổi trạng thái tâm thần, các bất thường về thần kinh và mất ổn định hệ thần kinh tự chủ) khi sử dụng ở những bệnh nhân có một trong các tình trạng sau:U carcinoid nội tiếthoạt độngSử dụng thuốc có hoạt tính serotonergicNhững loại thuốc này bao gồm các chất ức chế tái hấp thu serotonin có chọn lọc, MAOIs (ví dụ: phenelzine, isocarboxazid), thuốc chống trầm cảm ba vòng, chất chủ vận thụ thể serotonin 1B,1D (triptans), meperidine, methadone, bupropion và buspirone. Một phân tích sử dụng dữ liệu từ Hệ thống báo cáo biến cố bất lợi của FDA (FAERS)cho thấylinezolidcó nhiều khả năng gây rahội chứng serotoninkhi được sử dụng với citalopram (hoặc escitalopram) hoặc methadone (1). Dữ liệu tiếp theo từ các nghiên cứu đoàn hệ cho thấy rằnglinezolidcó thể được dùng một cách an toàn cho hầu hết bệnh nhân dùng thuốc chống trầm cảm và opioid (2,3). Vì vậy, những bệnh nhân đang dùng những loại thuốc này và những người cầnlinezolidkhẩn cấp có thể được điều trị nếu lợi ích được cho là lớn hơn nguy cơ. Tuy nhiên, nên tránh phối hợp linezolid vớicitalopram (hoặc escitalopram)hoặcmethadonekhi có thể.Bệnh nhân gần đây hoặc đang sử dụng bất kỳ loại thuốc serotonergic và linezolid nào nên được theo dõi cẩn thận các biểu hiện của hội chứng serotonin trong 2 tuần sau khi ngừng thuốc (đối với fluoxetine, 5 tuần) hoặc trong 24 giờ sau liềulinezolidcuối cùng.Linezolidchưa được nghiên cứu ở những bệnh nhân mắc hội chứng carcinoid; chỉ nên sử dụng nếu bệnh nhân được theo dõi chặt chẽ các triệu chứng và dấu hiệu của hội chứng serotonin.Tăng huyết ápKhông nên dùng Linezolid cho những bệnh nhân sau đây trừ khi chúng được theo dõi chặt chẽ việc tăng huyết áp:Những người dùng bất kỳ loại thuốc nào sau đây: Thuốc giống giao cảm (ví dụ: pseudoephedrine), thuốc vận mạch (ví dụ: epinephrine, norepinephrine) hoặc thuốc dopaminergic (ví dụ: dopamine, dobutamine)Những người có tăng huyết áp không kiểm soát đượcNhững người bị cường giápNhững người bị u thượng thậnTham khảo chống chỉ định1.Gatti M, Raschi E, De Ponti F. Serotonin syndrome by drug interactions withlinezolid: clues from pharmacovigilance-pharmacokinetic/pharmacodynamic analysis.Eur J Clin Pharmacol. 2021;77(2):233-239. doi:10.1007/s00228-020-02990-12.Bai AD, McKenna S, Wise H, Loeb M, Gill SS. Association ofLinezolidWith Risk of Serotonin Syndrome in Patients Receiving Antidepressants.JAMA Netw Open. 2022;5(12):e2247426. Xuất bản ngày 1 tháng 12 năm 2022. doi:10.1001/jamanetworkopen.2022.474263.Mitwally H, Saad MO, Alkhiyami D, et al. Risk of serotonin syndrome in acutely ill patients receivinglinezolidand opioids concomitantly: a retrospective cohort study.IJID Reg. 2022;5:137-140. Xuất bản ngày 24 tháng 9 năm 2022. doi:10.1016/j.ijregi.2022.09.008
+
+--- 3. Sử dụngLinezolidtrong thời kỳ mang thai và cho con bú ---
+
+Các nghiên cứu sinh sản động vật với linezolid cho thấy một số nguy cơ, và không có nghiên cứu đầy đủ, kiểm soát tốt đã được thực hiện ở phụ nữ mang thai. Chỉ nên sử dụngLinezolidtrong thời kỳ mang thai nếu lợi ích mang lại lớn hơn nguy cơ tiềm ẩn đối với thai nhi.Vẫn chưa rõlinezolidcó được bài tiết qua sữa mẹ hay có an toàn khi sử dụng trong thời kỳ cho con bú hay không.
+
+--- 4. Tác dụng bất lợi củaLinezolidbao gồm ---
+
+Tác dụng phụ của linezolid bao gồmỨc chế tủy xương có hồi phụcViêm dây thần kinh ngoại biên không hồi phụcViêm thần kinh thị có hồi phụcHội chứng serotoninNhiễm toan lactic có thể hồi phụcỨc chế tủy xương có thể hồi phục, bao gồm giảm tiểu cầu, giảm bạch cầu và thiếu máu, xảy ra ở khoảng 3% số bệnh nhân (tỷ lệ phần trăm cao hơn ở trẻ sơ sinh và trẻ nhỏ), thường khi điều trị>2 tuần. Do đó, công thức máu được theo dõi hàng tuần, đặc biệt khi điều trị kéo dài>2 tuần.Bệnh thần kinh ngoại vi và thị giác có thể xảy ra khi sử dụng kéo dài và bệnh nhân dùng liệu pháp linezolid dài hạn nên được theo dõi chặt chẽ với những rối loạn này.
+
+--- 5. Tedizolid ---
+
+Tedizolid là một loại kháng sinh oxazolidinone có phổ hoạt động tương tự nhưlinezolid, mặc dù thuốc này có thể có hoạt tính chống lại một số cầu khuẩn gram dương khánglinezolid.Trong các thử nghiệm lâm sàng, nguy cơ mắchội chứng serotoninvà giảm tiểu cầu ởtedizolidthấp hơn so vớilinezolid. Tedizolid, giống nhưlinezolid, có thể gây giảm bạch cầu trung tính đáng kể và việc sử dụng các kháng sinh oxazolidinone này không được khuyến nghị ở những bệnh nhân có số lượng bạch cầu trung tính < 1000 tế bào/mcL (< 1 × 109/L) khi có các lựa chọn thay thế có thể chấp nhận được.Sử dụngTedizolidkhi mang thai và cho con búCác nghiên cứu về sinh sản ở động vật với tedizolid cho thấy một số nguy cơ và chưa có nghiên cứu đầy đủ, có kiểm soát tốt nào được thực hiện ở phụ nữ mang thai. Chỉ nên sử dụngTedizolidtrong thời kỳ mang thai nếu lợi ích mang lại lớn hơn nguy cơ tiềm ẩn đối với thai nhi.Hiện chưa rõ liệutedizolidcó được bài tiết qua sữa mẹ hay an toàn khi sử dụng trong thời kỳ cho con bú hay không.Thông tin thêmTài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.FDA Adverse Events Reporting System (FAERS): A toll that allows users to query FAERS data
+
+--- 6. Sử dụngTedizolidkhi mang thai và cho con bú ---
+
+Các nghiên cứu về sinh sản ở động vật với tedizolid cho thấy một số nguy cơ và chưa có nghiên cứu đầy đủ, có kiểm soát tốt nào được thực hiện ở phụ nữ mang thai. Chỉ nên sử dụngTedizolidtrong thời kỳ mang thai nếu lợi ích mang lại lớn hơn nguy cơ tiềm ẩn đối với thai nhi.Hiện chưa rõ liệutedizolidcó được bài tiết qua sữa mẹ hay an toàn khi sử dụng trong thời kỳ cho con bú hay không.
+
+--- 7. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.FDA Adverse Events Reporting System (FAERS): A toll that allows users to query FAERS data

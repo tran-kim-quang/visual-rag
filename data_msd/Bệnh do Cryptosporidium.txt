@@ -1,0 +1,513 @@
+TIÊU ĐỀ: Bệnh do Cryptosporidium
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/động-vật-đơn-bào-đường-ruột-và-microsporidia/bệnh-do-cryptosporidium
+================================================================================
+
+NỘI DUNG:
+
+Bệnh do Cryptosporidium
+
+Theo
+
+Chelsea Marie
+
+,
+
+PhD
+
+,
+
+University of Virginia;
+
+William A. Petri, Jr
+
+,
+
+MD, PhD
+
+,
+
+University of Virginia School of Medicine
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1015650_vi
+
+Bệnh do Cryptosporidium là bệnh nhiễm trùng gây ra bởi nhiễm
+
+Cryptosporidium
+
+. Bệnh lây truyền qua đường phân - miệng. Triệu chứng hay gặp của bệnh là tiêu chảy phân nước và đôi khi các dấu hiệu nguy hiểm đường tiêu hóa khác. Bệnh thường tự khỏi ở những bệnh nhân suy giảm miễn dịch nhưng có thể dai dẳng và nặng ở những bệnh nhân bị vi rút gây suy giảm miễn dịch ở người (HIV), đặc biệt là những người mắc bệnh giai đoạn cuối. Chẩn đoán xác định bằng định danh nguyên nhân gây bệnh hoặc kháng nguyên trong phân. Điều trị cho những người có hệ miễn dịch bình thường, khi cần thiết, bằng nitazoxanide đường uống. Đối với bệnh nhân nhiễm HIV, liệu pháp kháng vi rút hoạt tính cao (ART) và chăm sóc hỗ trợ được sử dụng; nitazoxanide đường uống có thể cải thiện các triệu chứng nhưng không nhất thiết chữa khỏi nhiễm trùng, đặc biệt ở những người nhiễm HIV giai đoạn cuối.
+
+Sinh lý bệnh
+
+|
+
+Dịch tễ học
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Tổng quan về nhiễm trùng ký sinh trùng đơn bào đường ruột và Microsporidia
+
+.)
+
+Sinh lý bệnh của bệnh do Cryptosporidium
+
+Cryptosporidia là động vật nguyên sinh nội bào bắt buộc, nhân lên trong các tế bào biểu mô ruột non của vật chủ là động vật có xương sống.
+
+Sau khi nuốt kén hợp tử
+
+Cryptosporidium
+
+đã thụ tinh, chúng thoát kén ở trong đường tiêu hóa bám vào ống tiêu hóa và giải phóng các thoa trùng và ký sinh vào các tế bào biểu mô đường tiêu hóa. Trong tế bào biểu mô, thoa trùng chuyển dạng thành thể tự dưỡng, nhân đôi và sinh sản kén hợp tử.
+
+Hai loại kén hợp tử được sinh ra:
+
+Kén hợp tử có vỏ dày, thường được bài tiết từ vật chủ
+
+Kén hợp tử có vỏ mỏng, liên quan chủ yếu tự nhiễm.
+
+Các kén hợp tử có vỏ dày vào ống tiêu hóa và thải qua phân của người bị bệnh; chúng có thể gây nhiễm ngay lập tức từ người này sang người khác qua đường phân-miệng. Cần rất ít kén hợp tử (ví dụ:
+
+<
+
+100 kén) để gây bệnh, do đó làm tăng nguy cơ lây truyền từ người sang người (
+
+1
+
+).
+
+Khi các kén hợp tử gây nhiễm khuẩn được con người hoặc vật chủ có xương sống khác ăn vào, vòng đời sẽ bắt đầu lại.
+
+Vòng đời của
+
+Cryptosporidium
+
+Hình ảnh
+
+Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Các kén hợp tử có khả năng chống lại với các điều kiện khác nghiệt như nồng độ clo thường được sử dụng trong các hệ thống xử lý nước công cộng và bể bơi mặc dù tuân thủ nồng độ clo được khuyến cáo thông thường.
+
+Tài liệu tham khảo về sinh lý bệnh
+
+1.
+
+DuPont HL, Chappell CL, Sterling CR, et al
+
+: The infectivity of
+
+Cryptosporidium parvum
+
+in healthy volunteers.
+
+N Engl J Med
+
+. 1995;332(13):855-859. doi:10.1056/NEJM199503303321304
+
+Dịch tễ học của bệnh do Cryptosporidiosis
+
+Các chủng
+
+Cryptosporidium
+
+gây bệnh cho nhiều loài động vật.
+
+Cryptosporidium parvum
+
+và
+
+C. hominis
+
+(trước đây gọi là
+
+C. parvum
+
+genotype 1) là các nguyên nhân chính gây nhiễm cryptosporidiosis ở người. Các ca nhiễm
+
+C. felis
+
+,
+
+C. meleagridis
+
+,
+
+C. canis
+
+và
+
+C. muris
+
+cũng đã được báo cáo. Ăn phải ngay cả một số lượng tương đối nhỏ kén hợp tử cũng có thể dẫn đến bệnh. Nhiễm cryptosporidium bắt nguồn từ:
+
+Ăn các thực phẩm và uống nước bị nhiễm phân có chứa mầm bệnh (thường là nước trong bể bơi công cộng và khu dân cư, bồn nước,bồn nước nóng, công viên nước, hồ hoặc suối)
+
+Tiếp xúc trực tiếp người - người
+
+Lây truyền bệnh
+
+Bệnh do Cryptosporidium là bệnh lưu hành trên toàn thế giới và là nguyên nhân phổ biến gây tiêu chảy nặng vừa phải ở châu Phi cận Sahara và Nam Á (
+
+1
+
+).
+
+Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) ước tính rằng hàng năm có khoảng 823.000 trường hợp bị bệnh do cryptosporidium ở Hoa Kỳ, trong đó khoảng 10% là do du lịch quốc tế (xem
+
+CDC: Yellow Book 2024: Cryptosporidiosis).
+
+Tại Hoa Kỳ từ năm 2009 đến năm 2017, đã có 444 đợt bùng phát bệnh do cryptosporidium được báo cáo, dẫn đến 7.465 trường hợp ở 40 tiểu bang và Puerto Rico. Số vụ bùng phát được báo cáo tăng trung bình 13% mỗi năm, có khả năng là do việc sử dụng các chẩn đoán phân tử tăng lên. Các nguyên nhân hàng đầu bao gồm nuốt phải nước bị ô nhiễm trong hồ bơi hoặc sân chơi dưới nước, tiếp xúc với gia súc bị nhiễm bệnh và tiếp xúc với người bị nhiễm bệnh trong môi trường chăm sóc trẻ em (
+
+2
+
+). Tại Milwaukee, Wisconsin,
+
+>
+
+400.000 người bị ảnh hưởng trong đợt bùng phát dịch bệnh qua đường nước vào năm 1993, khi nguồn cung cấp nước của thành phố bị ô nhiễm bởi nước thải trong những trận mưa xuân khi hệ thống lọc không hoạt động chính xác (
+
+3
+
+).
+
+Trẻ em, khách du lịch nước ngoài, bệnh nhân suy giảm miễn dịch và nhân viên y tế chăm sóc cho bệnh nhân nhiễm cryptosporidiosis có tăng nguy cơ nhiễm bệnh. Bùng phát dịch có thể xảy ra ở các trung tâm chăm sóc ban ngày. Số lượng kén hợp tử cần thiết gây nhiễm bệnh ít, sự bài tiết kén hợp tử kéo dài, sự đề kháng của kén hợp tử với clo và kích thước kén hợp tử nhỏ gia tăng mối quan tâm về các bể bơi có trẻ em dùng tã lót sử dụng.
+
+Tiêu chảy nặng, mạn tính vì bệnh do cryptosporidium là một vấn đề ở bệnh nhân nhiễm
+
+HIV
+
+, đặc biệt là những người chưa được điều trị bằng thuốc kháng retrovirus (ART).
+
+Tài liệu tham khảo về dịch tễ học
+
+1.
+
+Sow SO, Muhsen K, Nasrin D, et al
+
+: The Burden of Cryptosporidium Diarrheal Disease among Children < 24 Months of Age in Moderate/High Mortality Regions of Sub-Saharan Africa and South Asia, Utilizing Data from the Global Enteric Multicenter Study (GEMS).
+
+PLoS Negl Trop Dis
+
+. 2016;10(5):e0004729. Xuất bản ngày 24 tháng 5 năm 2016. doi:10.1371/journal.pntd.0004729
+
+2.
+
+Gharpure R, Perez A, Miller AD, et al
+
+: Bùng phát Cryptosporidiosis — Hoa Kỳ, 2009-2017.
+
+MMWR Morb Mortal Wkly Rep
+
+68:568-72, 2019.
+
+3.
+
+Mac Kenzie WR, Hoxie NJ, Proctor ME, et al
+
+: A massive outbreak in Milwaukee of
+
+cryptosporidium
+
+infection transmitted through the public water supply [published correction appears in
+
+N Engl J Med
+
+ngày 13 tháng 10 năm 1994;331(15):1035].
+
+N Engl J Med
+
+. 1994;331(3):161-167. doi:10.1056/NEJM199407213310304
+
+Các triệu chứng và dấu hiệu của bệnh do Cryptosporidium
+
+Thời gian ủ bệnh của bệnh do cryptosporidium là khoảng 1 tuần và bệnh lâm sàng xảy ra ở 80% số người nhiễm bệnh. Khởi phát đột ngột, tiêu chảy phân toàn nước không kiểm soát, đau quặn bụng, và buồn nôn, chán ăn, sốt, và khó chịu ít gặp. Triệu chứng thường kéo dài 2 đến 3 tuần, hiếm khi
+
+≥
+
+1 tháng, sau đó giảm đi. Bài tiết kén hợp tử trong phân có thể tiếp tục trong vài tuần sau khi các triệu chứng đã giảm bớt. Quá trình bài xuất kén hợp tử không triệu chứng thường hay gặp ở trẻ ở các nước có tình trạng vệ sinh kém. Bệnh do Cryptosporidium cũng liên quan đến tình trạng suy dinh dưỡng ở trẻ em sống ở những vùng này.
+
+Ở
+
+người suy giảm miễn dịch
+
+, triệu chứng khởi phát có thể tiến triển từ từ, nhưng triệu chứng tiêu chảy gặp thường nặng hơn. Trừ khi thiếu hụt miễn dịch cơ bản được điều chỉnh, nếu không tình trạng nhiễm trùng dai dẳng sẽ gây ra tiêu chảy khó chữa suốt đời. Mất nước
+
+>
+
+5 L/ngày đến 10 L/ngày đã được báo cáo ở một số bệnh nhân nhiễm HIV (đặc biệt là những người có số lượng CD4 < 100 tế bào/microL). Ruột là vị trí tổn thương hay gặp nhất ở những người bị suy giảm miễn dịch; tuy nhiên, các cơ quan khác (ví dụ, đường mật, tụy, đường hô hấp) có thể gặp.
+
+Chẩn đoán bệnh do Cryptosporidium
+
+Xét nghiệm ELISA tìm kháng nguyên trong phân hoặc biện pháp phân tử tìm DNA của ký sinh trùng
+
+Soi phân tìm ký sinh trùng (kỹ thuật đặc biệt cần thiết)
+
+Xác định các kén hợp tử kháng axit trong phân xác định chẩn đoán nhiễm cryptosporidium, nhưng các phương pháp kiểm tra phân thường xuyên (ví dụ: xét nghiệm tìm phân và trứng) thường không đáng tin cậy. Bài xuất kén hợp tử trong phân không liên tục và xét nghiệm nhiều mẫu phân nên được tiến hành. Một số kỹ thuật tập trung bệnh phẩm làm tăng khả năng chẩn đoán. Kén hợp tử
+
+Cryptosporidium
+
+có thể được xác định dưới kinh hiển vi tương phản pha hoặc nhuộm bằng kỹ thuật Ziehl-Neelsen hoặc kỹ thuật Kinyoun. Kính hiển vi miễn dịch huỳnh quang với kháng thể đơn dòng gắn Fluorescein được áp dụng vì độ nhạy và độ đặc hiệu cao hơn.
+
+Xét nghiệm miễn dịch enzym trong phân với kháng nguyên
+
+Cryptosporidium
+
+độ nhạy cao hơn so với dùng kính hiển vi tìm kén hợp tử.
+
+Xét nghiệm phát hiện ADN đặc hiệu của
+
+C. parvum
+
+và
+
+C. hominis
+
+đang phát triển.
+
+Sinh thiết ruột có thể thấy
+
+Cryptosporidium
+
+trong tế bào biểu mô.
+
+Có xác xét nghiệm huyết thanh học; tuy nhiên, xét nghiệm này chủ yếu được sử dụng như một công cụ dịch tễ học, do sự tồn tại của các kháng thể hạn chế việc sử dụng các xét nghiệm đó trong chẩn đoán bệnh nhiễm trùng cấp tính.
+
+Điều trị bệnh do Cryptosporidium
+
+Nitazoxanide đường uống ở bệnh nhân không nhiễm HIV và nhiễm trùng dai dẳng
+
+Điều trị bằng thuốc kháng retrovirus (ART) ở bệnh nhân nhiễm HIV; nitazoxanide có thể cải thiện triệu chứng nhưng không nhất thiết chữa khỏi nhiễm trùng
+
+Ở những
+
+người những người đáp ứng miễn dịch
+
+bình thường, nhiễm Cryptosporidium tự giới hạn. Đối với nhiễm trùng nặng hoặc dai dẳng, nitazoxanide đường uống được sử dụng.
+
+Không có thuốc nào được chứng minh là có hiệu quả ở
+
+bệnh nhân bị ức chế miễn dịch.
+
+Đối với bệnh nhân nhiễm HIV, việc phục hồi miễn dịch bằng
+
+ART
+
+là chìa khóa. Nitazoxanide trong 14 ngày hoặc lâu hơn có hiệu quả trong việc giảm triệu chứng ở người lớn có số lượng CD4 > 50/mcL. Paromomycin, hoặc phối hợp paromomycin và nitazoxanide, có thể được dùng để làm giảm tiêu chảy và tình trạng kém hấp thu dai dẳng của thuốc kháng sinh, có thể xảy ra với bệnh do cryptosporidium mạn tính (
+
+1
+
+).
+
+Có thể cần các biện pháp hỗ trợ, bù nước bằng đường uống hoặc đường tiêm và tăng sắc tố cho bệnh nhân suy giảm miễn dịch mắc bệnh nặng.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Pantenburg B, Cabada MM, White AC Jr
+
+: Treatment of cryptosporidiosis.
+
+Expert Rev Anti Infect Ther
+
+7(4):385-91, 2009. doi: 10.1586/eri.09.24
+
+Phòng ngừa bệnh do Cryptosporidium
+
+Phòng ngừa nhiễm cryptosporidium cần có
+
+Xử lý nước công cộng hiệu quả
+
+Đảm bảo vệ sinh khi nấu ăn
+
+Các biện pháp phòng ngừa đặc biệt khi đi du lịch quốc tế
+
+Vệ sinh răng miệng thích hợp
+
+Rửa tay kỹ sau khi tiếp xúc với phân người và động vật
+
+Không nuốt nước khi bơi trong hồ, sông, suối, biển, bể bơi và bồn tắm nước nóng
+
+Thực hành tình dục an toàn hơn
+
+Đặc biệt lưu ý khi đến các khu vực có điều kiện vệ sinh kém
+
+Các khuyến nghị cụ thể dành cho công chúng và những người có khả năng miễn dịch bị suy giảm do HIV hoặc các nguyên nhân khác có tại Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) (xem CDC:
+
+General Public
+
+và
+
+Immunocompromised Persons
+
+).
+
+Phân của bệnh nhân nhiễm cryptosporidium có nguy cơ lây bệnh rất cao; vì vậy quản lý phân chặt chẽ cần tuân thủ nghiêm ngặt. Hướng dẫn an toàn sinh học đặc biệt xây dựng để xử lý các mẫu bệnh phẩm lâm sàng. Đun sôi nước có khả năng bị ô nhiễm trong 1 phút (3 phút ở độ cao > 2000 mét) là phương pháp khử nhiễm đáng tin cậy nhất; chỉ các bộ lọc có kích thước lỗ
+
+≤
+
+1 micromet (được chỉ định là “tuyệt đối 1 micron” hoặc được chứng nhận theo Tiêu chuẩn quốc tế NSF/ANSI số 53 hoặc số 58) mới loại bỏ kén hợp tử
+
+Cryptosporidium
+
+.
+
+Du khách có thể giảm nguy cơ mắc bệnh do cryptosporidium bằng cách tuân thủ cẩn thận các biện pháp phòng ngừa thực phẩm và nước và sử dụng các kỹ thuật rửa tay thích hợp. Chất khử trùng tay có cồn không có hiệu quả chống lại ký sinh trùng này. (Xem thêm CDC: Yellow Book:
+
+Cryptosporidiosis
+
+và
+
+Food & Water precautions.
+
+)
+
+Những điểm chính
+
+Bệnh nhiễm Cryptosporidium dễ dàng lây truyền bởi vì sự bài xuất dai dẳng của kén hợp tử hợp tử trong phân trong vài tuần sau khi hết triệu chứng, chỉ cần nhiễm một lượng rất nhỏ kén hợp tử để gây bệnh và kén hợp tử rất khó bị loại bỏ bằng lọc nước thông thường và khả năng đề kháng với khử trùng bằng clo.
+
+Tiêu chảy phân toàn nước kèm đau quặn bụng thường tự khỏi nhưng có thể nặng và kéo dài suốt đời ở bệnh nhân HIV giai đoạn cuối.
+
+Chẩn đoán thường sử dụng phương pháp miễn dịch enzym phát hiện kháng nguyên
+
+Cryptosporidium
+
+trong phân; soi phân bằng kính hiển vi; xét nghiệm sau thường ít nhạy hơn và đòi hỏi các kỹ thuật xét nghiệm đặc biệt khác (ví dụ như kích hiển vi tương phản pha, nhuộm nhanh với dung dịch aicd).
+
+Đối với những người không nhiễm HIV, hãy sử dụng nitazoxanide nếu các triệu chứng vẫn tồn tại.
+
+Điều trị người nhiễm HIV bằng ART; các triệu chứng có thể giảm bớt khi hệ thống miễn dịch được cải thiện nhờ điều trị ART.
+
+Nitazoxanide có thể cải thiện các triệu chứng nhưng không phải lúc nào cũng chữa khỏi nhiễm trùng ở người nhiễm HIV giai đoạn cuối.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+US Department of Health and Human Services:
+
+Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV-Exposed and HIV-Infected Children
+
+Centers for Disease Control and Prevention (CDC)
+
+:
+
+Cryptosporidium
+
+Prevention & Control: Includes recommendations intended to help prevent and control cryptosporidiosis in the general public
+
+CDC:
+
+Cryptosporidium
+
+Prevention & Control – Immunocompromised Persons
+
+CDC: Yellow Book:
+
+Bệnh do Cryptosporidium
+
+CDC: Yellow Book:
+
+Food & Water Precautions
+
+European Centre for Disease Prevention and Control
+
+: Bệnh do Cryptosporidium
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của bệnh do Cryptosporidium ---
+
+Cryptosporidia là động vật nguyên sinh nội bào bắt buộc, nhân lên trong các tế bào biểu mô ruột non của vật chủ là động vật có xương sống.Sau khi nuốt kén hợp tửCryptosporidiumđã thụ tinh, chúng thoát kén ở trong đường tiêu hóa bám vào ống tiêu hóa và giải phóng các thoa trùng và ký sinh vào các tế bào biểu mô đường tiêu hóa. Trong tế bào biểu mô, thoa trùng chuyển dạng thành thể tự dưỡng, nhân đôi và sinh sản kén hợp tử.Hai loại kén hợp tử được sinh ra:Kén hợp tử có vỏ dày, thường được bài tiết từ vật chủKén hợp tử có vỏ mỏng, liên quan chủ yếu tự nhiễm.Các kén hợp tử có vỏ dày vào ống tiêu hóa và thải qua phân của người bị bệnh; chúng có thể gây nhiễm ngay lập tức từ người này sang người khác qua đường phân-miệng. Cần rất ít kén hợp tử (ví dụ:<100 kén) để gây bệnh, do đó làm tăng nguy cơ lây truyền từ người sang người (1).Khi các kén hợp tử gây nhiễm khuẩn được con người hoặc vật chủ có xương sống khác ăn vào, vòng đời sẽ bắt đầu lại.Vòng đời củaCryptosporidiumHình ảnhHình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Các kén hợp tử có khả năng chống lại với các điều kiện khác nghiệt như nồng độ clo thường được sử dụng trong các hệ thống xử lý nước công cộng và bể bơi mặc dù tuân thủ nồng độ clo được khuyến cáo thông thường.Tài liệu tham khảo về sinh lý bệnh1.DuPont HL, Chappell CL, Sterling CR, et al: The infectivity ofCryptosporidium parvumin healthy volunteers.N Engl J Med. 1995;332(13):855-859. doi:10.1056/NEJM199503303321304
+
+--- 2. Dịch tễ học của bệnh do Cryptosporidiosis ---
+
+Các chủngCryptosporidiumgây bệnh cho nhiều loài động vật.Cryptosporidium parvumvàC. hominis(trước đây gọi làC. parvumgenotype 1) là các nguyên nhân chính gây nhiễm cryptosporidiosis ở người. Các ca nhiễmC. felis,C. meleagridis,C. canisvàC. muriscũng đã được báo cáo. Ăn phải ngay cả một số lượng tương đối nhỏ kén hợp tử cũng có thể dẫn đến bệnh. Nhiễm cryptosporidium bắt nguồn từ:Ăn các thực phẩm và uống nước bị nhiễm phân có chứa mầm bệnh (thường là nước trong bể bơi công cộng và khu dân cư, bồn nước,bồn nước nóng, công viên nước, hồ hoặc suối)Tiếp xúc trực tiếp người - ngườiLây truyền bệnhBệnh do Cryptosporidium là bệnh lưu hành trên toàn thế giới và là nguyên nhân phổ biến gây tiêu chảy nặng vừa phải ở châu Phi cận Sahara và Nam Á (1).Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) ước tính rằng hàng năm có khoảng 823.000 trường hợp bị bệnh do cryptosporidium ở Hoa Kỳ, trong đó khoảng 10% là do du lịch quốc tế (xemCDC: Yellow Book 2024: Cryptosporidiosis).Tại Hoa Kỳ từ năm 2009 đến năm 2017, đã có 444 đợt bùng phát bệnh do cryptosporidium được báo cáo, dẫn đến 7.465 trường hợp ở 40 tiểu bang và Puerto Rico. Số vụ bùng phát được báo cáo tăng trung bình 13% mỗi năm, có khả năng là do việc sử dụng các chẩn đoán phân tử tăng lên. Các nguyên nhân hàng đầu bao gồm nuốt phải nước bị ô nhiễm trong hồ bơi hoặc sân chơi dưới nước, tiếp xúc với gia súc bị nhiễm bệnh và tiếp xúc với người bị nhiễm bệnh trong môi trường chăm sóc trẻ em (2). Tại Milwaukee, Wisconsin,>400.000 người bị ảnh hưởng trong đợt bùng phát dịch bệnh qua đường nước vào năm 1993, khi nguồn cung cấp nước của thành phố bị ô nhiễm bởi nước thải trong những trận mưa xuân khi hệ thống lọc không hoạt động chính xác (3).Trẻ em, khách du lịch nước ngoài, bệnh nhân suy giảm miễn dịch và nhân viên y tế chăm sóc cho bệnh nhân nhiễm cryptosporidiosis có tăng nguy cơ nhiễm bệnh. Bùng phát dịch có thể xảy ra ở các trung tâm chăm sóc ban ngày. Số lượng kén hợp tử cần thiết gây nhiễm bệnh ít, sự bài tiết kén hợp tử kéo dài, sự đề kháng của kén hợp tử với clo và kích thước kén hợp tử nhỏ gia tăng mối quan tâm về các bể bơi có trẻ em dùng tã lót sử dụng.Tiêu chảy nặng, mạn tính vì bệnh do cryptosporidium là một vấn đề ở bệnh nhân nhiễmHIV, đặc biệt là những người chưa được điều trị bằng thuốc kháng retrovirus (ART).Tài liệu tham khảo về dịch tễ học1.Sow SO, Muhsen K, Nasrin D, et al: The Burden of Cryptosporidium Diarrheal Disease among Children < 24 Months of Age in Moderate/High Mortality Regions of Sub-Saharan Africa and South Asia, Utilizing Data from the Global Enteric Multicenter Study (GEMS).PLoS Negl Trop Dis. 2016;10(5):e0004729. Xuất bản ngày 24 tháng 5 năm 2016. doi:10.1371/journal.pntd.00047292.Gharpure R, Perez A, Miller AD, et al: Bùng phát Cryptosporidiosis — Hoa Kỳ, 2009-2017.MMWR Morb Mortal Wkly Rep68:568-72, 2019.3.Mac Kenzie WR, Hoxie NJ, Proctor ME, et al: A massive outbreak in Milwaukee ofcryptosporidiuminfection transmitted through the public water supply [published correction appears inN Engl J Medngày 13 tháng 10 năm 1994;331(15):1035].N Engl J Med. 1994;331(3):161-167. doi:10.1056/NEJM199407213310304
+
+--- 3. Các triệu chứng và dấu hiệu của bệnh do Cryptosporidium ---
+
+Thời gian ủ bệnh của bệnh do cryptosporidium là khoảng 1 tuần và bệnh lâm sàng xảy ra ở 80% số người nhiễm bệnh. Khởi phát đột ngột, tiêu chảy phân toàn nước không kiểm soát, đau quặn bụng, và buồn nôn, chán ăn, sốt, và khó chịu ít gặp. Triệu chứng thường kéo dài 2 đến 3 tuần, hiếm khi≥1 tháng, sau đó giảm đi. Bài tiết kén hợp tử trong phân có thể tiếp tục trong vài tuần sau khi các triệu chứng đã giảm bớt. Quá trình bài xuất kén hợp tử không triệu chứng thường hay gặp ở trẻ ở các nước có tình trạng vệ sinh kém. Bệnh do Cryptosporidium cũng liên quan đến tình trạng suy dinh dưỡng ở trẻ em sống ở những vùng này.Ởngười suy giảm miễn dịch, triệu chứng khởi phát có thể tiến triển từ từ, nhưng triệu chứng tiêu chảy gặp thường nặng hơn. Trừ khi thiếu hụt miễn dịch cơ bản được điều chỉnh, nếu không tình trạng nhiễm trùng dai dẳng sẽ gây ra tiêu chảy khó chữa suốt đời. Mất nước>5 L/ngày đến 10 L/ngày đã được báo cáo ở một số bệnh nhân nhiễm HIV (đặc biệt là những người có số lượng CD4 < 100 tế bào/microL). Ruột là vị trí tổn thương hay gặp nhất ở những người bị suy giảm miễn dịch; tuy nhiên, các cơ quan khác (ví dụ, đường mật, tụy, đường hô hấp) có thể gặp.
+
+--- 4. Chẩn đoán bệnh do Cryptosporidium ---
+
+Xét nghiệm ELISA tìm kháng nguyên trong phân hoặc biện pháp phân tử tìm DNA của ký sinh trùngSoi phân tìm ký sinh trùng (kỹ thuật đặc biệt cần thiết)Xác định các kén hợp tử kháng axit trong phân xác định chẩn đoán nhiễm cryptosporidium, nhưng các phương pháp kiểm tra phân thường xuyên (ví dụ: xét nghiệm tìm phân và trứng) thường không đáng tin cậy. Bài xuất kén hợp tử trong phân không liên tục và xét nghiệm nhiều mẫu phân nên được tiến hành. Một số kỹ thuật tập trung bệnh phẩm làm tăng khả năng chẩn đoán. Kén hợp tửCryptosporidiumcó thể được xác định dưới kinh hiển vi tương phản pha hoặc nhuộm bằng kỹ thuật Ziehl-Neelsen hoặc kỹ thuật Kinyoun. Kính hiển vi miễn dịch huỳnh quang với kháng thể đơn dòng gắn Fluorescein được áp dụng vì độ nhạy và độ đặc hiệu cao hơn.Xét nghiệm miễn dịch enzym trong phân với kháng nguyênCryptosporidiumđộ nhạy cao hơn so với dùng kính hiển vi tìm kén hợp tử.Xét nghiệm phát hiện ADN đặc hiệu củaC. parvumvàC. hominisđang phát triển.Sinh thiết ruột có thể thấyCryptosporidiumtrong tế bào biểu mô.Có xác xét nghiệm huyết thanh học; tuy nhiên, xét nghiệm này chủ yếu được sử dụng như một công cụ dịch tễ học, do sự tồn tại của các kháng thể hạn chế việc sử dụng các xét nghiệm đó trong chẩn đoán bệnh nhiễm trùng cấp tính.
+
+--- 5. Điều trị bệnh do Cryptosporidium ---
+
+Nitazoxanide đường uống ở bệnh nhân không nhiễm HIV và nhiễm trùng dai dẳngĐiều trị bằng thuốc kháng retrovirus (ART) ở bệnh nhân nhiễm HIV; nitazoxanide có thể cải thiện triệu chứng nhưng không nhất thiết chữa khỏi nhiễm trùngỞ nhữngngười những người đáp ứng miễn dịchbình thường, nhiễm Cryptosporidium tự giới hạn. Đối với nhiễm trùng nặng hoặc dai dẳng, nitazoxanide đường uống được sử dụng.Không có thuốc nào được chứng minh là có hiệu quả ởbệnh nhân bị ức chế miễn dịch.Đối với bệnh nhân nhiễm HIV, việc phục hồi miễn dịch bằngARTlà chìa khóa. Nitazoxanide trong 14 ngày hoặc lâu hơn có hiệu quả trong việc giảm triệu chứng ở người lớn có số lượng CD4 > 50/mcL. Paromomycin, hoặc phối hợp paromomycin và nitazoxanide, có thể được dùng để làm giảm tiêu chảy và tình trạng kém hấp thu dai dẳng của thuốc kháng sinh, có thể xảy ra với bệnh do cryptosporidium mạn tính (1).Có thể cần các biện pháp hỗ trợ, bù nước bằng đường uống hoặc đường tiêm và tăng sắc tố cho bệnh nhân suy giảm miễn dịch mắc bệnh nặng.Tài liệu tham khảo về điều trị1.Pantenburg B, Cabada MM, White AC Jr: Treatment of cryptosporidiosis.Expert Rev Anti Infect Ther7(4):385-91, 2009. doi: 10.1586/eri.09.24
+
+--- 6. Phòng ngừa bệnh do Cryptosporidium ---
+
+Phòng ngừa nhiễm cryptosporidium cần cóXử lý nước công cộng hiệu quảĐảm bảo vệ sinh khi nấu ănCác biện pháp phòng ngừa đặc biệt khi đi du lịch quốc tếVệ sinh răng miệng thích hợpRửa tay kỹ sau khi tiếp xúc với phân người và động vậtKhông nuốt nước khi bơi trong hồ, sông, suối, biển, bể bơi và bồn tắm nước nóngThực hành tình dục an toàn hơnĐặc biệt lưu ý khi đến các khu vực có điều kiện vệ sinh kémCác khuyến nghị cụ thể dành cho công chúng và những người có khả năng miễn dịch bị suy giảm do HIV hoặc các nguyên nhân khác có tại Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) (xem CDC:General PublicvàImmunocompromised Persons).Phân của bệnh nhân nhiễm cryptosporidium có nguy cơ lây bệnh rất cao; vì vậy quản lý phân chặt chẽ cần tuân thủ nghiêm ngặt. Hướng dẫn an toàn sinh học đặc biệt xây dựng để xử lý các mẫu bệnh phẩm lâm sàng. Đun sôi nước có khả năng bị ô nhiễm trong 1 phút (3 phút ở độ cao > 2000 mét) là phương pháp khử nhiễm đáng tin cậy nhất; chỉ các bộ lọc có kích thước lỗ≤1 micromet (được chỉ định là “tuyệt đối 1 micron” hoặc được chứng nhận theo Tiêu chuẩn quốc tế NSF/ANSI số 53 hoặc số 58) mới loại bỏ kén hợp tửCryptosporidium.Du khách có thể giảm nguy cơ mắc bệnh do cryptosporidium bằng cách tuân thủ cẩn thận các biện pháp phòng ngừa thực phẩm và nước và sử dụng các kỹ thuật rửa tay thích hợp. Chất khử trùng tay có cồn không có hiệu quả chống lại ký sinh trùng này. (Xem thêm CDC: Yellow Book:CryptosporidiosisvàFood & Water precautions.)
+
+--- 7. Những điểm chính ---
+
+Bệnh nhiễm Cryptosporidium dễ dàng lây truyền bởi vì sự bài xuất dai dẳng của kén hợp tử hợp tử trong phân trong vài tuần sau khi hết triệu chứng, chỉ cần nhiễm một lượng rất nhỏ kén hợp tử để gây bệnh và kén hợp tử rất khó bị loại bỏ bằng lọc nước thông thường và khả năng đề kháng với khử trùng bằng clo.Tiêu chảy phân toàn nước kèm đau quặn bụng thường tự khỏi nhưng có thể nặng và kéo dài suốt đời ở bệnh nhân HIV giai đoạn cuối.Chẩn đoán thường sử dụng phương pháp miễn dịch enzym phát hiện kháng nguyênCryptosporidiumtrong phân; soi phân bằng kính hiển vi; xét nghiệm sau thường ít nhạy hơn và đòi hỏi các kỹ thuật xét nghiệm đặc biệt khác (ví dụ như kích hiển vi tương phản pha, nhuộm nhanh với dung dịch aicd).Đối với những người không nhiễm HIV, hãy sử dụng nitazoxanide nếu các triệu chứng vẫn tồn tại.Điều trị người nhiễm HIV bằng ART; các triệu chứng có thể giảm bớt khi hệ thống miễn dịch được cải thiện nhờ điều trị ART.Nitazoxanide có thể cải thiện các triệu chứng nhưng không phải lúc nào cũng chữa khỏi nhiễm trùng ở người nhiễm HIV giai đoạn cuối.
+
+--- 8. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.US Department of Health and Human Services:Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV-Exposed and HIV-Infected ChildrenCenters for Disease Control and Prevention (CDC):CryptosporidiumPrevention & Control: Includes recommendations intended to help prevent and control cryptosporidiosis in the general publicCDC:CryptosporidiumPrevention & Control – Immunocompromised PersonsCDC: Yellow Book:Bệnh do CryptosporidiumCDC: Yellow Book:Food & Water PrecautionsEuropean Centre for Disease Prevention and Control: Bệnh do Cryptosporidium

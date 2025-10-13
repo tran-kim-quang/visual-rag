@@ -1,0 +1,487 @@
+TIÊU ĐỀ: Tổng quan về chức năng tuyến giáp
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/bệnh-lý-tuyến-giáp/tổng-quan-về-chức-năng-tuyến-giáp
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về chức năng tuyến giáp
+
+Theo
+
+Laura Boucai
+
+,
+
+MD
+
+,
+
+Weill Cornell Medical College
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2024
+
+v981221_vi
+
+Tổng hợp và giải phóng các hormone tuyến giáp
+
+|
+
+Các xét nghiệm chức năng tuyến giáp
+
+|
+
+Sàng lọc xem có rối loạn chức năng tuyến giáp không
+
+|
+
+Hấp thụ và hình ảnh Iốt phóng xạ
+
+|
+
+Tuyến giáp, nằm ở vùng cổ trước, ngay dưới sụn nhẫn, gồm 2 thùy được nối bởi một eo tuyến giáp. Các tế bào nang trong tuyến sinh ra 2 hormone tuyến giáp chính:
+
+Tetraiodothyronine (thyroxine, T4)
+
+Triiodothyronine (T3)
+
+Những hormone này hoạt động trên tế bào trong hầu hết mọi mô của cơ thể bằng cách kết hợp với thụ thể trong nhân tế bào và thay đổi biểu hiện của một loạt các sản phẩm gen. Hormone tuyến giáp cần thiết cho sự phát triển bình thường của não và mô soma ở thai nhi và trẻ sơ sinh, và ở mọi người ở mọi lứa tuổi, hormone tuyến giáp điều chỉnh chuyển hóa protein, carbohydrate và chất béo.
+
+T4 có hoạt động nội tiết tố tối thiểu, nhưng thời gian bán hủy dài (8 ngày) đóng vai trò là nguồn dự trữ hoặc tiền hormone cho T3. T4 được chuyển đổi (trong hầu hết các mô) thành T3, dạng hoạt động gắn kết với các thụ thể hạt nhân và đảo ngược T3 (rT3), một dạng hormone tuyến giáp không hoạt động mà không có hoạt động trao đổi chất. Nồng độ rT3 tăng trong một số bệnh.
+
+Các tế bào cạnh nang (tế bào C) trong tuyến giáp tiết ra hormone
+
+calcitonin
+
+, hormone này được giải phóng để đáp ứng với tình trạng
+
+tăng canxi máu
+
+và làm giảm nồng độ canxi trong huyết thanh (xem
+
+Điều hòa chuyển hóa canxi
+
+).
+
+Tổng hợp và giải phóng các hormone tuyến giáp
+
+Tổng hợp hormone tuyến giáp cần iốt (xem hình
+
+Tổng hợp các hormone tuyến giáp
+
+). Iốt được ăn vào qua thực phẩm và nước chứa iodide, được tập trung chủ yếu vào tuyến giáp và chuyển hóa thành iốt hữu cơ trong các tế bào nang bằng peroxidase tuyến giáp. Các tế bào nang bao quanh một không gian (nang) chứa đầy keo, bao gồm thyroglobulin, một glycoprotein chứa tyrosine trong ma trận của nó. Tyrosine khi tiếp xúc với màng tế bào nang được iốt hóa ở vị trí 1 (monoiodotyrosine) hoặc 2 (diiodotyrosine) và sau đó kết hợp với nhau để tạo ra 2 dạng hormone tuyến giáp.
+
+Diiodotyrosine
+
++
+
+diiodotyrosine
+
+→
+
+T4
+
+Diiodotyrosine
+
++
+
+monoiodotyrosine
+
+→
+
+T3
+
+Tổng hợp các hormone tuyến giáp
+
+T3 và T4 vẫn được kết hợp với thyroglobulin trong nang cho đến khi các tế bào nang lấy thyroglobulin làm giọt keo. Khi vào trong các tế bào nang giáp, T3 và T4 được tách ra từ thyroglobulin.
+
+T3 và T4 tự do sau đó được giải phóng vào máu, nơi chúng được liên kết với các protein huyết thanh để vận chuyển. Protein vận chuyển chính là globulin gắn với thyroxine (TBG), có ái lực cao nhưng khả năng thấp đối với T3 và T4. TBG thường mang khoảng 75% lượng hormone tuyến giáp gắn kết.
+
+Các protein liên kết khác là
+
+Thyroxin gắn prealbumin (transthyretin), có ái lực cao nhưng có dung tích thấp với T4
+
+Albumin
+
+, có ái lực thấp nhưng khả năng thu nhận cao đối với T3 và T4
+
+Khoảng 0,3% T3 toàn phần trong huyết thanh và 0,03% T4 toàn phần trong huyết thanh ở dạng tự do và ở trạng thái cân bằng với các hormone gắn kết. Chỉ T3 tự do và T4 tự do là sẵn sàng để hoạt động ở các mô ngoại vi.
+
+Tất cả các phản ứng cần thiết cho sự hình thành và giải phóng T3 và T4 được kiểm soát bởi hormone kích thích tuyến giáp (TSH), do các tế bào hướng giáp tuyến yên tiết ra. Sự tiết TSH được kiểm soát bởi cơ chế điều hòa ngược âm tính trong tuyến yên: Lượng T4 và T3 tự do tăng làm ức chế quá trình tổng hợp và tiết TSH, trong khi lượng giảm thì làm tăng tiết TSH. Tiết TSH cũng bị ảnh hưởng bởi hormone giải phóng
+
+thyrotropin
+
+(TRH), được tổng hợp ở vùng dưới đồi. Cơ chế chính xác điều chỉnh tổng hợp và giải phóng TRH không rõ ràng, mặc dù quá trình điều hòa ngược âm tính từ các hormone tuyến giáp ức chế tổng hợp TRH.
+
+Hầu hết T3 lưu hành được sản sinh bên ngoài tuyến giáp ở các mô ngoại biên bằng cách monodeiod hóa T4. Chỉ một phần năm T3 lưu hành được tiết ra trực tiếp bởi tuyến giáp.
+
+Các xét nghiệm chức năng tuyến giáp
+
+Đo lượng hormone kích thích tuyến giáp (TSH)
+
+Định lượng TSH là phương tiện tốt nhất để xác định có rối loạn chức năng tuyến giáp (xem bảng
+
+Kết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhau
+
+). Nồng độ TSH bình thường loại trừ
+
+cường giáp
+
+hoặc
+
+suy giáp
+
+, ngoại trừ ở những bệnh nhân bị suy giáp trung ương do bệnh ở vùng dưới đồi hoặc tuyến yên hoặc ở những bệnh nhân hiếm gặp có tình trạng tuyến yên kháng hormone tuyến giáp. TSH huyết thanh có thể thấp một cách giả tạo ở những người ốm nặng, đặc biệt là ở những bệnh nhân dùng glucocorticoid hoặc dopamine (xem
+
+Hội chứng bệnh có tuyến giáp bình thường
+
+).
+
+Sự thay đổi nồng độ TSH huyết thanh khi có nồng độ T4 huyết thanh, T4 tự do, T3 huyết thanh và T3 tự do bình thường xác định các hội chứng
+
+cường giáp cận lâm sàng
+
+(TSH huyết thanh thấp) và
+
+suy giáp cận lâm sàng
+
+(TSH huyết thanh tăng cao).
+
+Bảng
+
+Kết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhau
+
+Bảng
+
+Kết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhau
+
+Kết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhau
+
+Trạng thái sinh lý
+
+TSH huyết thanh
+
+T4 tự do huyết thanh
+
+T3 huyết thanh
+
+Uống iốt phóng xạ 24 giờ
+
+Cường giáp
+
+Không được điều trị
+
+Thấp*
+
+Cao
+
+Cao
+
+Cao
+
+Nhiễm độc T3
+
+Thấp
+
+Bình thường
+
+Cao
+
+Bình thường hoặc cao
+
+Suy giáp
+
+Tiên phát, không được điều trị
+
+Cao
+
+Thấp
+
+Thấp hoặc bình thường
+
+Thấp hoặc bình thường
+
+Thứ phát đến bệnh tuyến yên
+
+Thấp hoặc bình thường
+
+Thấp
+
+Thấp hoặc bình thường
+
+Thấp hoặc bình thường
+
+Bình giáp
+
+Bệnh nhân uống
+
+iốt
+
+Bình thường
+
+Bình thường
+
+Bình thường
+
+Thấp
+
+Bệnh nhân dùng hormone tuyến giáp ngoại sinh
+
+Bình thường hoặc thấp
+
+Bình thường ở bệnh nhân uống T4, thấp ở bệnh nhân uống T3
+
+Cao ở bệnh nhân uống T3, bình thường ở bệnh nhân uống T4
+
+Thấp
+
+Bệnh nhân uống
+
+estrogen
+
+Bình thường
+
+Bình thường
+
+Cao
+
+Bình thường
+
+Hội chứng bình giáp bệnh lí
+
+Bình thường, thấp, hoặc cao
+
+Bình thường hoặc thấp
+
+Thấp
+
+Bình thường
+
+* TSH thấp ở những bệnh nhân cường giáp, ngoại trừ trường hợp hiếm khi nguyên nhân là u tuyến yên tuyến yên tiết TSH hoặc có sự đề kháng tuyến yên do sự ức chế của hormone tuyến giáp.
+
+T3
+
+=
+
+triiodothyronine; T4
+
+=
+
+thyroxine; TSH
+
+=
+
+hormone kích thích tuyến giáp.
+
+* TSH thấp ở những bệnh nhân cường giáp, ngoại trừ trường hợp hiếm khi nguyên nhân là u tuyến yên tuyến yên tiết TSH hoặc có sự đề kháng tuyến yên do sự ức chế của hormone tuyến giáp.
+
+T3
+
+=
+
+triiodothyronine; T4
+
+=
+
+thyroxine; TSH
+
+=
+
+hormone kích thích tuyến giáp.
+
+Đo thyroxine (T4)
+
+Tổng lượng T4 trong huyết thanh là thước đo lượng hormone liên kết và tự do. Những thay đổi về nồng độ protein huyết thanh liên kết với hormone tuyến giáp (TBG hoặc
+
+albumin
+
+) tạo ra những thay đổi tương ứng trong tổng lượng T4, mặc dù mức T4 tự do có hoạt tính sinh lý không thay đổi. Vì vậy, một bệnh nhân có thể có nồng độ T4 tự do sinh lý bình thường nhưng có nồng độ T4 toàn phần trong huyết thanh bất thường. T4 tự do trong huyết thanh có thể được đo trực tiếp, tránh được những sai lầm trong việc diễn giải nồng độ T4 toàn phần.
+
+Chỉ số T4 tự do là một giá trị được tính toán hiệu chỉnh theo tổng lượng T4 do ảnh hưởng của việc thay đổi nồng độ các protein huyết thanh liên kết hormone tuyến giáp và do đó cho biết ước tính T4 tự do khi đã đo tổng lượng T4. Tỷ lệ liên kết hormone tuyến giáp hoặc sự hấp thu T4 nhựa được sử dụng để ước tính mức độ liên kết protein. Chỉ số T4 tự do có sẵn và so sánh tốt với phép đo định lượng trực tiếp T4 tự do.
+
+Đo triiodothyronine (T3)
+
+T3 huyết thanh toàn phần và T3 tự do đều có thể đo được. Bởi vì T3 gắn kết chặt chẽ với TBG (mặc dù ít hơn 10 lần so với T4), nồng độ T3 toàn phần trong huyết thanh bị ảnh hưởng bởi sự thay đổi nồng độ TBG huyết thanh và bởi các thuốc ảnh hưởng đến gắn kết với TBG. Nồng độ T3 tự do trong huyết thanh cũng được đo bằng các phương pháp trực tiếp và gián tiếp (chỉ số T3 tự do) như đã được mô tả đối với nồng độ T4 và là chỉ số chính đánh giá ngộ độc giáp.
+
+Globulin mang thyroxin
+
+TBG có thể định lượng được. Nó tăng lên trong thời kỳ mang thai, do liệu pháp
+
+estrogen
+
+hoặc do sử dụng thuốc tránh thai đường uống có
+
+estrogen
+
+-
+
+progestin
+
+và trong
+
+giai đoạn cấp tính của viêm gan truyền nhiễm
+
+. TBG cũng có thể tăng lên do đột biến liên kết X trong gen mã hóa TBG. TBG thường giảm trong các bệnh làm giảm tổng hợp protein gan, sử dụng steroid đồng hoá, hội chứng thận hư và sử dụng corticosteroid quá nhiều. Liều lượng lớn một số loại thuốc nhất định, chẳng hạn như
+
+phenytoin
+
+và
+
+aspirin
+
+và các dẫn xuất của các loại thuốc đó, thay thế T4 khỏi vị trí gắn kết của nó trên TBG, làm giảm đáng kể nồng độ T4 toàn phần trong huyết thanh.
+
+Tự kháng thể đối với peroxidase tuyến giáp
+
+Các tự kháng thể với peroxidase tuyến giáp có mặt ở hầu hết các bệnh nhân
+
+viêm tuyến giáp Hashimoto
+
+(một số trong đó cũng có tự kháng thể với thyroglobulin) và ở hầu hết bệnh nhân mắc Basedow. Những tự kháng thể này là dấu hiệu của bệnh tự miễn nhưng có thể không phải là nguyên nhân gây bệnh. Tuy nhiên, một tự kháng thể chống lại thụ thể hormone kích thích tuyến giáp (globulin miễn dịch kích thích tuyến giáp [TSI]) trên tế bào nang tuyến giáp là nguyên nhân gây ra bệnh cường giáp trong bệnh Graves. Tự kháng thể kháng T4 và T3 có thể được tìm thấy ở bệnh nhân có bệnh lí tuyến giáp tự miễn và có thể ảnh hưởng đến đo nồng độ T4 và T3 nhưng hiếm khi có lâm sàng điển hình.
+
+Thyroglobulin
+
+Tuyến giáp là nguồn cung cấp thyroglobulin duy nhất, có thể dễ dàng phát hiện được trong huyết thanh của người khỏe mạnh và thường tăng cao ở những bệnh nhân bị bướu cổ không độc hại hoặc độc hại (sản xuất hormone tuyến giáp và gây ra triệu chứng cường giáp). Việc sử dung nguyên tắc định lượng thyroglobulin huyết thanh là đánh giá bệnh nhân sau khi phẫu thuật cắt bỏ toàn bộ hoặc gần toàn bộ (có hoặc không sử dụng điều trị bằng iốt-131) cho các ung thư tuyến giáp khác nhau. Giá trị thyroglobulin huyết thanh bình thường hoặc tăng cao cho thấy sự hiện diện của mô tuyến giáp bình thường hoặc ung thư còn sót lại ở những bệnh nhân dùng liều
+
+levothyroxin
+
+ức chế TSH hoặc sau khi ngừng sử dụng
+
+levothyroxin
+
+. Tuy nhiên, các kháng thể với thyroglobulin làm nhiễu sự đo lường thyroglobulin.
+
+Sàng lọc xem có rối loạn chức năng tuyến giáp không
+
+Sàng lọc bệnh tuyến giáp được khuyến nghị ở nhiều tiểu bang và quốc gia cho tất cả trẻ sơ sinh để phát hiện
+
+bệnh suy giáp bẩm sinh
+
+, bệnh này có thể làm giảm sự phát triển bình thường nếu không được điều trị (
+
+1
+
+).
+
+Không khuyến nghị sàng lọc thường quy cho người lớn không có triệu chứng, bao gồm cả phụ nữ mang thai không có yếu tố nguy cơ mắc bệnh tuyến giáp do không đủ bằng chứng về lợi ích (
+
+2
+
+). Đối với những bệnh nhân có yếu tố nguy cơ, nên đo TSH huyết thanh và là xét nghiệm tốt nhất để sàng lọc cả cường giáp và suy giáp.
+
+Do tỷ lệ hiện mắc của
+
+suy giáp cận lâm sàng
+
+ngày càng tăng (được định nghĩa là TSH huyết thanh tăng nhưng nồng độ T4 bình thường) ở người cao tuổi, một số cơ quan có thẩm quyền khuyến nghị sàng lọc hàng năm đối với những người
+
+>
+
+70 tuổi, mặc dù nồng độ TSH huyết thanh đã được chứng minh là tăng theo tuổi mà không cần biểu thị bệnh tật. Sự gia tăng này đã dẫn đến việc điều trị quá mức ở 40% số bệnh nhân (
+
+3
+
+), vì vậy không chắc chắn liệu việc điều trị cho người cao tuổi đã được phát hiện suy giáp dưới lâm sàng có mang lại lợi ích gì hay không.
+
+Tài liệu tham khảo về sàng lọc bệnh
+
+1.
+
+Rose SR, Wassner AJ, Wintergerst KA, et al
+
+. Congenital Hypothyroidism: Screening and Management.
+
+Pediatrics
+
+2023;151(1):e2022060420. doi:10.1542/peds.2022-060420
+
+2.
+
+Thyroid Disease in Pregnancy
+
+: ACOG Practice Bulletin, Number 223.
+
+Obstet Gynecol
+
+2020;135(6):e261-e274. doi:10.1097/AOG.0000000000003893
+
+3.
+
+Somwaru LL, Arnold AM, Joshi N, Fried LP, Cappola AR
+
+. High frequency of and factors associated with thyroid hormone over-replacement and under-replacement in men and women aged 65 and over.
+
+J Clin Endocrinol Metab
+
+2009;94(4):1342-1345. doi:10.1210/jc.2008-1696
+
+Hấp thụ và hình ảnh Iốt phóng xạ
+
+Có thể đo lường sự hấp thụ iốt phóng xạ. Một lượng vi lượng iốt phóng xạ được cho uống hoặc qua đường tĩnh mạch; một máy quét sau đó phát hiện lượng iốt phóng xạ mà tuyến giáp hấp thụ. Đồng vị phóng xạ hay dùng hơn là iốt-123, do chất này cho bệnh nhân phơi nhiễm với liều phóng xạ tối thiểu (ít hơn nhiều so với iốt-131). Sự hấp thu iốt-123 tại tuyến giáp rất đa dạng khi hấp thụ iốt và thấp ở bệnh nhân đã phơi nhiễm với quá nhiều iốt.
+
+Thử nghiệm có giá trị trong
+
+chẩn đoán phân biệt cường giáp
+
+do các nguyên nhân khác nhau (sự hấp thu cao trong bệnh Basedow, sự hấp thu thấp trong viêm tuyến giáp). Thăm dò này cũng giúp ích trong việc tính liều iốt-131 cần thiết để điều trị cường giáp.
+
+Chẩn đoán hình ảnh sử dụng một máy chụp hình nhấp nháy sau khi uống đồng vị phóng xạ (iốt phóng xạ hoặc technetium 99m pertechnetate) để biểu hiện sự hấp thu Iod phóng xạ. Các vùng tăng tập trung (nóng) hoặc giảm (lạnh) giúp phân biệt các vùng có thể là ung thư (ung thư tuyến giáp gặp ở
+
+<
+
+1% các nhân nóng so với 10 đến 20% các nhân lạnh).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Tổng hợp và giải phóng các hormone tuyến giáp ---
+
+Tổng hợp hormone tuyến giáp cần iốt (xem hìnhTổng hợp các hormone tuyến giáp). Iốt được ăn vào qua thực phẩm và nước chứa iodide, được tập trung chủ yếu vào tuyến giáp và chuyển hóa thành iốt hữu cơ trong các tế bào nang bằng peroxidase tuyến giáp. Các tế bào nang bao quanh một không gian (nang) chứa đầy keo, bao gồm thyroglobulin, một glycoprotein chứa tyrosine trong ma trận của nó. Tyrosine khi tiếp xúc với màng tế bào nang được iốt hóa ở vị trí 1 (monoiodotyrosine) hoặc 2 (diiodotyrosine) và sau đó kết hợp với nhau để tạo ra 2 dạng hormone tuyến giáp.Diiodotyrosine+diiodotyrosine→T4Diiodotyrosine+monoiodotyrosine→T3Tổng hợp các hormone tuyến giápT3 và T4 vẫn được kết hợp với thyroglobulin trong nang cho đến khi các tế bào nang lấy thyroglobulin làm giọt keo. Khi vào trong các tế bào nang giáp, T3 và T4 được tách ra từ thyroglobulin.T3 và T4 tự do sau đó được giải phóng vào máu, nơi chúng được liên kết với các protein huyết thanh để vận chuyển. Protein vận chuyển chính là globulin gắn với thyroxine (TBG), có ái lực cao nhưng khả năng thấp đối với T3 và T4. TBG thường mang khoảng 75% lượng hormone tuyến giáp gắn kết.Các protein liên kết khác làThyroxin gắn prealbumin (transthyretin), có ái lực cao nhưng có dung tích thấp với T4Albumin, có ái lực thấp nhưng khả năng thu nhận cao đối với T3 và T4Khoảng 0,3% T3 toàn phần trong huyết thanh và 0,03% T4 toàn phần trong huyết thanh ở dạng tự do và ở trạng thái cân bằng với các hormone gắn kết. Chỉ T3 tự do và T4 tự do là sẵn sàng để hoạt động ở các mô ngoại vi.Tất cả các phản ứng cần thiết cho sự hình thành và giải phóng T3 và T4 được kiểm soát bởi hormone kích thích tuyến giáp (TSH), do các tế bào hướng giáp tuyến yên tiết ra. Sự tiết TSH được kiểm soát bởi cơ chế điều hòa ngược âm tính trong tuyến yên: Lượng T4 và T3 tự do tăng làm ức chế quá trình tổng hợp và tiết TSH, trong khi lượng giảm thì làm tăng tiết TSH. Tiết TSH cũng bị ảnh hưởng bởi hormone giải phóngthyrotropin(TRH), được tổng hợp ở vùng dưới đồi. Cơ chế chính xác điều chỉnh tổng hợp và giải phóng TRH không rõ ràng, mặc dù quá trình điều hòa ngược âm tính từ các hormone tuyến giáp ức chế tổng hợp TRH.Hầu hết T3 lưu hành được sản sinh bên ngoài tuyến giáp ở các mô ngoại biên bằng cách monodeiod hóa T4. Chỉ một phần năm T3 lưu hành được tiết ra trực tiếp bởi tuyến giáp.
+
+--- 2. Các xét nghiệm chức năng tuyến giáp ---
+
+Đo lượng hormone kích thích tuyến giáp (TSH)Định lượng TSH là phương tiện tốt nhất để xác định có rối loạn chức năng tuyến giáp (xem bảngKết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhau). Nồng độ TSH bình thường loại trừcường giáphoặcsuy giáp, ngoại trừ ở những bệnh nhân bị suy giáp trung ương do bệnh ở vùng dưới đồi hoặc tuyến yên hoặc ở những bệnh nhân hiếm gặp có tình trạng tuyến yên kháng hormone tuyến giáp. TSH huyết thanh có thể thấp một cách giả tạo ở những người ốm nặng, đặc biệt là ở những bệnh nhân dùng glucocorticoid hoặc dopamine (xemHội chứng bệnh có tuyến giáp bình thường).Sự thay đổi nồng độ TSH huyết thanh khi có nồng độ T4 huyết thanh, T4 tự do, T3 huyết thanh và T3 tự do bình thường xác định các hội chứngcường giáp cận lâm sàng(TSH huyết thanh thấp) vàsuy giáp cận lâm sàng(TSH huyết thanh tăng cao).BảngKết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhauBảngKết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhauKết quả của các xét nghiệm chức năng tuyến giáp trong các tình huống lâm sàng khác nhauTrạng thái sinh lýTSH huyết thanhT4 tự do huyết thanhT3 huyết thanhUống iốt phóng xạ 24 giờCường giápKhông được điều trịThấp*CaoCaoCaoNhiễm độc T3ThấpBình thườngCaoBình thường hoặc caoSuy giápTiên phát, không được điều trịCaoThấpThấp hoặc bình thườngThấp hoặc bình thườngThứ phát đến bệnh tuyến yênThấp hoặc bình thườngThấpThấp hoặc bình thườngThấp hoặc bình thườngBình giápBệnh nhân uốngiốtBình thườngBình thườngBình thườngThấpBệnh nhân dùng hormone tuyến giáp ngoại sinhBình thường hoặc thấpBình thường ở bệnh nhân uống T4, thấp ở bệnh nhân uống T3Cao ở bệnh nhân uống T3, bình thường ở bệnh nhân uống T4ThấpBệnh nhân uốngestrogenBình thườngBình thườngCaoBình thườngHội chứng bình giáp bệnh líBình thường, thấp, hoặc caoBình thường hoặc thấpThấpBình thường* TSH thấp ở những bệnh nhân cường giáp, ngoại trừ trường hợp hiếm khi nguyên nhân là u tuyến yên tuyến yên tiết TSH hoặc có sự đề kháng tuyến yên do sự ức chế của hormone tuyến giáp.T3=triiodothyronine; T4=thyroxine; TSH=hormone kích thích tuyến giáp.* TSH thấp ở những bệnh nhân cường giáp, ngoại trừ trường hợp hiếm khi nguyên nhân là u tuyến yên tuyến yên tiết TSH hoặc có sự đề kháng tuyến yên do sự ức chế của hormone tuyến giáp.T3=triiodothyronine; T4=thyroxine; TSH=hormone kích thích tuyến giáp.Đo thyroxine (T4)Tổng lượng T4 trong huyết thanh là thước đo lượng hormone liên kết và tự do. Những thay đổi về nồng độ protein huyết thanh liên kết với hormone tuyến giáp (TBG hoặcalbumin) tạo ra những thay đổi tương ứng trong tổng lượng T4, mặc dù mức T4 tự do có hoạt tính sinh lý không thay đổi. Vì vậy, một bệnh nhân có thể có nồng độ T4 tự do sinh lý bình thường nhưng có nồng độ T4 toàn phần trong huyết thanh bất thường. T4 tự do trong huyết thanh có thể được đo trực tiếp, tránh được những sai lầm trong việc diễn giải nồng độ T4 toàn phần.Chỉ số T4 tự do là một giá trị được tính toán hiệu chỉnh theo tổng lượng T4 do ảnh hưởng của việc thay đổi nồng độ các protein huyết thanh liên kết hormone tuyến giáp và do đó cho biết ước tính T4 tự do khi đã đo tổng lượng T4. Tỷ lệ liên kết hormone tuyến giáp hoặc sự hấp thu T4 nhựa được sử dụng để ước tính mức độ liên kết protein. Chỉ số T4 tự do có sẵn và so sánh tốt với phép đo định lượng trực tiếp T4 tự do.Đo triiodothyronine (T3)T3 huyết thanh toàn phần và T3 tự do đều có thể đo được. Bởi vì T3 gắn kết chặt chẽ với TBG (mặc dù ít hơn 10 lần so với T4), nồng độ T3 toàn phần trong huyết thanh bị ảnh hưởng bởi sự thay đổi nồng độ TBG huyết thanh và bởi các thuốc ảnh hưởng đến gắn kết với TBG. Nồng độ T3 tự do trong huyết thanh cũng được đo bằng các phương pháp trực tiếp và gián tiếp (chỉ số T3 tự do) như đã được mô tả đối với nồng độ T4 và là chỉ số chính đánh giá ngộ độc giáp.Globulin mang thyroxinTBG có thể định lượng được. Nó tăng lên trong thời kỳ mang thai, do liệu phápestrogenhoặc do sử dụng thuốc tránh thai đường uống cóestrogen-progestinvà tronggiai đoạn cấp tính của viêm gan truyền nhiễm. TBG cũng có thể tăng lên do đột biến liên kết X trong gen mã hóa TBG. TBG thường giảm trong các bệnh làm giảm tổng hợp protein gan, sử dụng steroid đồng hoá, hội chứng thận hư và sử dụng corticosteroid quá nhiều. Liều lượng lớn một số loại thuốc nhất định, chẳng hạn nhưphenytoinvàaspirinvà các dẫn xuất của các loại thuốc đó, thay thế T4 khỏi vị trí gắn kết của nó trên TBG, làm giảm đáng kể nồng độ T4 toàn phần trong huyết thanh.Tự kháng thể đối với peroxidase tuyến giápCác tự kháng thể với peroxidase tuyến giáp có mặt ở hầu hết các bệnh nhânviêm tuyến giáp Hashimoto(một số trong đó cũng có tự kháng thể với thyroglobulin) và ở hầu hết bệnh nhân mắc Basedow. Những tự kháng thể này là dấu hiệu của bệnh tự miễn nhưng có thể không phải là nguyên nhân gây bệnh. Tuy nhiên, một tự kháng thể chống lại thụ thể hormone kích thích tuyến giáp (globulin miễn dịch kích thích tuyến giáp [TSI]) trên tế bào nang tuyến giáp là nguyên nhân gây ra bệnh cường giáp trong bệnh Graves. Tự kháng thể kháng T4 và T3 có thể được tìm thấy ở bệnh nhân có bệnh lí tuyến giáp tự miễn và có thể ảnh hưởng đến đo nồng độ T4 và T3 nhưng hiếm khi có lâm sàng điển hình.ThyroglobulinTuyến giáp là nguồn cung cấp thyroglobulin duy nhất, có thể dễ dàng phát hiện được trong huyết thanh của người khỏe mạnh và thường tăng cao ở những bệnh nhân bị bướu cổ không độc hại hoặc độc hại (sản xuất hormone tuyến giáp và gây ra triệu chứng cường giáp). Việc sử dung nguyên tắc định lượng thyroglobulin huyết thanh là đánh giá bệnh nhân sau khi phẫu thuật cắt bỏ toàn bộ hoặc gần toàn bộ (có hoặc không sử dụng điều trị bằng iốt-131) cho các ung thư tuyến giáp khác nhau. Giá trị thyroglobulin huyết thanh bình thường hoặc tăng cao cho thấy sự hiện diện của mô tuyến giáp bình thường hoặc ung thư còn sót lại ở những bệnh nhân dùng liềulevothyroxinức chế TSH hoặc sau khi ngừng sử dụnglevothyroxin. Tuy nhiên, các kháng thể với thyroglobulin làm nhiễu sự đo lường thyroglobulin.
+
+--- 3. Sàng lọc xem có rối loạn chức năng tuyến giáp không ---
+
+Sàng lọc bệnh tuyến giáp được khuyến nghị ở nhiều tiểu bang và quốc gia cho tất cả trẻ sơ sinh để phát hiệnbệnh suy giáp bẩm sinh, bệnh này có thể làm giảm sự phát triển bình thường nếu không được điều trị (1).Không khuyến nghị sàng lọc thường quy cho người lớn không có triệu chứng, bao gồm cả phụ nữ mang thai không có yếu tố nguy cơ mắc bệnh tuyến giáp do không đủ bằng chứng về lợi ích (2). Đối với những bệnh nhân có yếu tố nguy cơ, nên đo TSH huyết thanh và là xét nghiệm tốt nhất để sàng lọc cả cường giáp và suy giáp.Do tỷ lệ hiện mắc củasuy giáp cận lâm sàngngày càng tăng (được định nghĩa là TSH huyết thanh tăng nhưng nồng độ T4 bình thường) ở người cao tuổi, một số cơ quan có thẩm quyền khuyến nghị sàng lọc hàng năm đối với những người>70 tuổi, mặc dù nồng độ TSH huyết thanh đã được chứng minh là tăng theo tuổi mà không cần biểu thị bệnh tật. Sự gia tăng này đã dẫn đến việc điều trị quá mức ở 40% số bệnh nhân (3), vì vậy không chắc chắn liệu việc điều trị cho người cao tuổi đã được phát hiện suy giáp dưới lâm sàng có mang lại lợi ích gì hay không.Tài liệu tham khảo về sàng lọc bệnh1.Rose SR, Wassner AJ, Wintergerst KA, et al. Congenital Hypothyroidism: Screening and Management.Pediatrics2023;151(1):e2022060420. doi:10.1542/peds.2022-0604202.Thyroid Disease in Pregnancy: ACOG Practice Bulletin, Number 223.Obstet Gynecol2020;135(6):e261-e274. doi:10.1097/AOG.00000000000038933.Somwaru LL, Arnold AM, Joshi N, Fried LP, Cappola AR. High frequency of and factors associated with thyroid hormone over-replacement and under-replacement in men and women aged 65 and over.J Clin Endocrinol Metab2009;94(4):1342-1345. doi:10.1210/jc.2008-1696
+
+--- 4. Hấp thụ và hình ảnh Iốt phóng xạ ---
+
+Có thể đo lường sự hấp thụ iốt phóng xạ. Một lượng vi lượng iốt phóng xạ được cho uống hoặc qua đường tĩnh mạch; một máy quét sau đó phát hiện lượng iốt phóng xạ mà tuyến giáp hấp thụ. Đồng vị phóng xạ hay dùng hơn là iốt-123, do chất này cho bệnh nhân phơi nhiễm với liều phóng xạ tối thiểu (ít hơn nhiều so với iốt-131). Sự hấp thu iốt-123 tại tuyến giáp rất đa dạng khi hấp thụ iốt và thấp ở bệnh nhân đã phơi nhiễm với quá nhiều iốt.Thử nghiệm có giá trị trongchẩn đoán phân biệt cường giápdo các nguyên nhân khác nhau (sự hấp thu cao trong bệnh Basedow, sự hấp thu thấp trong viêm tuyến giáp). Thăm dò này cũng giúp ích trong việc tính liều iốt-131 cần thiết để điều trị cường giáp.Chẩn đoán hình ảnh sử dụng một máy chụp hình nhấp nháy sau khi uống đồng vị phóng xạ (iốt phóng xạ hoặc technetium 99m pertechnetate) để biểu hiện sự hấp thu Iod phóng xạ. Các vùng tăng tập trung (nóng) hoặc giảm (lạnh) giúp phân biệt các vùng có thể là ung thư (ung thư tuyến giáp gặp ở<1% các nhân nóng so với 10 đến 20% các nhân lạnh).

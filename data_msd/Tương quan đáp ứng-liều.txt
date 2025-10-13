@@ -1,0 +1,114 @@
+TIÊU ĐỀ: Tương quan đáp ứng-liều
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-lực-học/tương-quan-đáp-ứng-liều
+================================================================================
+
+NỘI DUNG:
+
+Tương quan đáp ứng-liều
+
+Theo
+
+Abimbola Farinde
+
+,
+
+PhD, PharmD
+
+,
+
+Columbia Southern University, Orange Beach, AL
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1109558_vi
+
+Bất kể
+
+tác dụng của thuốc
+
+xảy ra như thế nào – thông qua liên kết hoặc tương tác hóa học – nồng độ của thuốc tại vị trí tác dụng sẽ kiểm soát tác dụng đó. Tuy nhiên, đáp ứng theo nồng độ có thể phức tạp và thường không tuyến tính. Mối quan hệ giữa liều lượng thuốc, bất kể đường sử dụng, và nồng độ thuốc ở cấp độ tế bào thậm chí còn phức tạp hơn (xem
+
+Dược động học
+
+).
+
+Dữ liệu đáp ứng-liều thường được vẽ bằng đồ thị liều hoặc công thức của liều (ví dụ như log
+
+10
+
+liều) trên trục x và hiệu quả đo được (đáp ứng) trên trục y. Bởi vì hiệu quả thuốc là một công thức giữa liều lượng và thời gian, một biểu đồ mô tả mối tương quan liều-đáp ứng độc lập với thời gian. Hiệu quả được đo bằng cách ghi lại dưới dạng cực đại tại thời điểm hiệu quả nhiều nhất hoặc trong các trạng thái ổn định (ví dụ như trong truyền tĩnh mạch liên tục). Tác dụng của thuốc có thể được định lượng ở mức độ phân tử, tế bào, mô, cơ quan, hệ thống cơ quan, hoặc cơ thể.
+
+Đường cong đáp ứng theo liều giả định có các đặc điểm khác nhau (xem hình
+
+Đường cong đáp ứng theo liều giả định
+
+):
+
+Hiệu lực (vị trí của đường cong dọc theo trục liều)
+
+Hiệu quả tối đa hoặc hiệu ứng trần (đáp ứng có thể đạt được nhiều nhất)
+
+Độ dốc (thay đổi trong đáp ứng ở mỗi đơn vị liều)
+
+Đường cong đáp ứng theo liều giả định
+
+Sự khác nhau về sinh học (sự khác nhau về mức độ đáp ứng giữa các đối tượng thử nghiệm trong cùng một quần thể với cùng một liều thuốc) cũng xảy ra. Việc vẽ đồ thị đường cong đáp ứng theo liều của các loại thuốc được nghiên cứu trong các điều kiện giống hệt nhau có thể giúp so sánh hồ sơ dược lý của các loại thuốc (xem hình
+
+So sánh các đường cong đáp ứng theo liều đối với thuốc X, Y và Z
+
+). Thông tin này giúp xác định được liều thiết để đạt được hiệu quả mong muốn.
+
+So sánh đường cong đáp ứng theo liều của thuốc X, Y và Z
+
+Thuốc X có hoạt tính sinh học lớn hơn ở mỗi liều tương đương và do đó có hiệu quả hơn thuốc Y hoặc Z. Thuốc X và Z có hiệu quả như nhau, được chỉ ra bởi đáp ứng tối đa có thể đạt được (hiệu ứng trần). Thuốc Y mạnh hơn thuốc Z, nhưng hiệu quả tối đa của thuốc thấp hơn.
+
+Đáp ứng-liều, bao gồm các nguyên tắc dược động học và dược lực học, xác định liều và tần suất dùng cũng như phạm vi điều trị cho một loại thuốc trong quần thể. Phạm vi điều trị (tỷ lệ nồng độ độc tính tối thiểu đến nồng độ trung bình có hiệu quả) giúp xác định hiệu quả và tính an toàn của thuốc. Tăng liều thuốc có chỉ số điều trị nhỏ sẽ làm tăng khả năng gây độc. Tuy nhiên, các đặc điểm này khác nhau theo quần thể và bị ảnh hưởng bởi các yếu tố liên quan đến bệnh nhân, chẳng hạn như
+
+mang thai
+
+,
+
+tuổi tác
+
+, và chức năng cơ quan (ví dụ,
+
+GFR ước tính
+
+).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

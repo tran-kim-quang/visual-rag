@@ -1,0 +1,141 @@
+TIÊU ĐỀ: Chụp cắt lớp phát xạ positron (PET)
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-nguyên-lý-cơ-bản-trong-chẩn-đoán-hình-ảnh/chụp-cắt-lớp-phát-xạ-positron-pet
+================================================================================
+
+NỘI DUNG:
+
+Chụp cắt lớp phát xạ positron (PET)
+
+Theo
+
+Mustafa A. Mafraji
+
+,
+
+MD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2023
+
+v13948668_vi
+
+Chỉ định chụp PET
+
+|
+
+Các dạng cải tiến của PET
+
+|
+
+Nhược điểm của PET
+
+|
+
+Chụp cắt lớp phát xạ Positron (PET), một kiểu
+
+chụp hạt nhân phóng xạ
+
+, sử dụng các hợp chất chứa hạt nhân phóng xạ phân rã bằng cách giải phóng một positron (tương đương phản vật chất tích điện dương của một điện tử). Các positron được giải phóng sẽ kết hợp với một electron và tạo ra 2 photon di chuyển ngược nhau 180
+
+°
+
+. Các hệ thống đầu dò di chuyển theo hình nhẫn bao quanh nguồn phát xạ positron, cùng lúc đó định vị 2 photon nói trên để xác định vị trí nguồn và tạo ra các hình ảnh chụp cắt lớp màu. Kỹ thuật chụp PET có thể cung cấp thông tin về chức năng của các mô, do có sự kết hợp các chất phóng xạ phát positron với các hợp chất chuyển hóa. Giá trị hấp thu chuẩn (SUV) chỉ ra hoạt động trao đổi chất của tổn thương; thông thường, SUV càng cao thì cường độ màu càng rõ.
+
+Hợp chất được sử dụng phổ biến nhất trong PET lâm sàng là
+
+Fluorine-18 [
+
+18
+
+F] - được đánh dấu deoxyglucose (FDG)
+
+FDG là một dạng glucose tái tổ hợp, sự hấp thu của nó tỷ lệ thuận với tốc độ trao đổi chất của glucose. Tốc độ trao đổi chất tương đối của glucose trên một đối tượng bệnh nhân (SUV) được tính toán như sau: Lượng FDG đưa vào qua đường tiêm chia trọng lượng cơ thể của bệnh nhân.
+
+Chỉ định chụp PET
+
+Các chỉ định lâm sàng của chụp PET bao gồm
+
+Ung thư (chẩn đoán giai đoạn, đánh giá các loại ung thư cụ thể, đánh giá đáp ứng điều trị), chiếm khoảng 80% tổng số ca chụp PET
+
+Đánh giá chức năng tim (đánh giá chức năng co cơ tim, phát hiện vùng cơ tim đông miên)
+
+Đánh giá chức năng thần kinh (đánh giá chứng sa sút trí tuệ và co giật)
+
+Các ứng dụng của PET vẫn đang tiếp tục được mở rộng nghiên cứu.
+
+Các dạng cải tiến của PET
+
+FDG-PET-CT
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+PET-CT
+
+Chụp PET cung cấp thông tin về mặt chức năng, dựa trên nền tảng thông tin về mặt giải phẫu của chụp
+
+CT
+
+.
+
+Nhược điểm của PET
+
+Liều bức xạ hiệu dụng điển hình vào khoảng 7 mSv. Liều bức xạ hiệu dụng với PET-CT là 5 đến 18 mSv.
+
+Cần có máy gia tốc từ trường để tạo ra FDG. FDG có thời gian bán hủy ngắn (110 phút); do đó, việc vận chuyển và tiến hành chụp cần diễn ra rất nhanh. Điều nay dẫn đến những hạn chế về chi phí, bất tiện, và giới hạn chụp PET mức độ nhiều trong thực hành lâm sàng.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định chụp PET ---
+
+Các chỉ định lâm sàng của chụp PET bao gồmUng thư (chẩn đoán giai đoạn, đánh giá các loại ung thư cụ thể, đánh giá đáp ứng điều trị), chiếm khoảng 80% tổng số ca chụp PETĐánh giá chức năng tim (đánh giá chức năng co cơ tim, phát hiện vùng cơ tim đông miên)Đánh giá chức năng thần kinh (đánh giá chứng sa sút trí tuệ và co giật)Các ứng dụng của PET vẫn đang tiếp tục được mở rộng nghiên cứu.
+
+--- 2. Các dạng cải tiến của PET ---
+
+FDG-PET-CTHình ảnhHình ảnh do bác sĩ Hakan Ilaslan cung cấp.PET-CTChụp PET cung cấp thông tin về mặt chức năng, dựa trên nền tảng thông tin về mặt giải phẫu của chụpCT.
+
+--- 3. Nhược điểm của PET ---
+
+Liều bức xạ hiệu dụng điển hình vào khoảng 7 mSv. Liều bức xạ hiệu dụng với PET-CT là 5 đến 18 mSv.Cần có máy gia tốc từ trường để tạo ra FDG. FDG có thời gian bán hủy ngắn (110 phút); do đó, việc vận chuyển và tiến hành chụp cần diễn ra rất nhanh. Điều nay dẫn đến những hạn chế về chi phí, bất tiện, và giới hạn chụp PET mức độ nhiều trong thực hành lâm sàng.

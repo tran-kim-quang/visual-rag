@@ -1,0 +1,281 @@
+TIÊU ĐỀ: Fosfomycin
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/fosfomycin
+================================================================================
+
+NỘI DUNG:
+
+Fosfomycin
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v13957421_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Fosfomycin là một loại
+
+kháng sinh
+
+mới có cấu trúc hóa học không liên quan đến các loại kháng sinh đã biết khác. Đó là một loại thuốc diệt khuẩn làm gián đoạn quá trình tổng hợp thành tế bào bằng cách ức chế phosphoenolpyruvate synthetase và do đó cản trở việc sản sinh ra peptidoglycan.
+
+Tại Hoa Kỳ,
+
+fosfomycin
+
+chỉ có ở dạng công thức bào chế dạng bột fosfomycin tromethamine, có thể hòa tan trong chất lỏng và dùng theo đường uống. Bên ngoài Hoa Kỳ, các công thức bào chế đường tĩnh mạch có sẵn.
+
+Dược động học của
+
+Fosfomycin
+
+Khả dụng sinh học của muối tromethamine fosfomycin là thấp (khoảng 40%), và do đó, nồng độ huyết thanh thấp so với nồng độ ức chế tối thiểu (MICs). Vì lý do này,
+
+fosfomycin
+
+được sử dụng để điều trị
+
+nhiễm trùng đường tiết niệu dưới
+
+không biến chứng, không phải
+
+viêm bể thận
+
+.
+
+Fosfomycin
+
+không gắn kết với protein huyết tương và phân bố rộng rãi vào các mô.
+
+Fosfomycin
+
+được bài tiết qua nước tiểu chủ yếu bằng cách lọc ở cầu thận mà không chuyển hóa sinh học. Sau khi uống thuốc, nồng độ urê vượt quá MICs của các mầm bệnh còn nhạy trong hơn 24 giờ.
+
+Công thức bào chế theo đường tĩnh mạch của
+
+fosfomycin
+
+có sẵn ở một số quốc gia ngoài Hoa Kỳ và có thể hữu ích trong các trường hợp nhiễm trùng nghiêm trọng hơn, bao gồm nhiễm trùng hệ thần kinh trung ương, viêm tủy xương và viêm phổi; khi được sử dụng để điều trị các bệnh nhiễm trùng này, nó thường được sử dụng cùng với các loại kháng sinh khác như là beta-lactam.
+
+Chỉ định của
+
+Fosfomycin
+
+Fosfomycin có hoạt tính chống lại cả vi khuẩn gram dương và gram âm, bao gồm cả một số vi khuẩn kháng kháng sinh như là
+
+Staphylococcus aureus
+
+, bao gồm cả
+
+S. aureus
+
+kháng methicillin (MRSA)
+
+Các loài
+
+Enterococcus
+
+, bao gồm cả Enterococci kháng
+
+vancomycin
+
+(VRE)
+
+Escherichia coli
+
+, bao gồm sản xuất beta-lactamase phổ rộng (ESBL) và kháng fluoroquinolone
+
+E. coli
+
+Chỉ nên sử dụng fosfomycin đường uống cho các bệnh nhiễm trùng đường tiết niệu không biến chứng (tức là phần dưới) do
+
+E. coli
+
+hoặc enterococci gây ra. Tuy nhiên, fosfomycin đường tĩnh mạch (nếu có) đôi khi được sử dụng để điều trị nhiễm trùng do vi khuẩn đa kháng thuốc ở các vị trí giải phẫu khác.
+
+Fosfomycin
+
+đường uống không được khuyến nghị để điều trị hầu hết các loài không phải
+
+E. coli
+
+, Enterobacterales hoặc
+
+Pseudomonas
+
+ngay cả trong trường hợp nhiễm trùng đường tiết niệu dưới không biến chứng (
+
+1
+
+). Hơn nữa, Ủy ban Kiểm tra Độ nhạy Kháng sinh Châu Âu (EUCAST) không xác nhận các điểm dừng nhạy cảm đối với
+
+fosfomycin
+
+đường tĩnh mạch chống lại
+
+P. aeruginosa
+
+(
+
+2
+
+).
+
+Tài liệu tham khảo về chỉ định
+
+1.
+
+Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ
+
+. Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.
+
+Clin Infect Dis
+
+. Xuất bản trực tuyến ngày 18 tháng Bảy năm 2023. doi:10.1093/cid/ciad428
+
+2.
+
+European Committee on Antimicrobial Susceptibility Testing (EUCAST)
+
+: Clinical breakpoints - breakpoints and guidance. Truy cập ngày 15 tháng 4 năm 2024.
+
+Chống chỉ định với
+
+Fosfomycin
+
+Không có chống chỉ định đáng kể đối với việc sử dụng ngoại trừ quá mẫn với fosfomycin hoặc với bất kỳ thành phần nào của công thức.
+
+Sử dụng
+
+Fosfomycin
+
+trong thời kỳ mang thai và cho con bú
+
+Fosfomycin đi qua nhau thai nhưng thường được coi là an toàn để điều trị viêm bàng quang ở phụ nữ mang thai.
+
+Chưa biết rõ lượng
+
+fosfomycin
+
+đi vào sữa mẹ và nên thận trọng nếu việc điều trị bằng
+
+fosfomycin
+
+là cần thiết cho phụ nữ đang cho con bú.
+
+Tác dụng bất lợi của
+
+Fosfomycin
+
+Fosfomycin nói chung dung nạp tốt và có tỷ lệ tác dụng phụ thấp, bao gồm các triệu chứng tiêu hoá chủ yếu (như buồn nôn, tiêu chảy).
+
+Cân nhắc về liều dùng của
+
+Fosfomycin
+
+Đối với nhiễm trùng đường tiết niệu không biến chứng ở phụ nữ, dùng một liều duy nhất fosfomycin tromethamine 5,61 g (tương đương 3 g
+
+fosfomycin
+
+) hòa tan trong chất lỏng. Một đợt điều trị dài hơn có thể là cần thiết cho các bệnh nhiễm trùng tại các vị trí khác.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học củaFosfomycin ---
+
+Khả dụng sinh học của muối tromethamine fosfomycin là thấp (khoảng 40%), và do đó, nồng độ huyết thanh thấp so với nồng độ ức chế tối thiểu (MICs). Vì lý do này,fosfomycinđược sử dụng để điều trịnhiễm trùng đường tiết niệu dướikhông biến chứng, không phảiviêm bể thận.Fosfomycinkhông gắn kết với protein huyết tương và phân bố rộng rãi vào các mô.Fosfomycinđược bài tiết qua nước tiểu chủ yếu bằng cách lọc ở cầu thận mà không chuyển hóa sinh học. Sau khi uống thuốc, nồng độ urê vượt quá MICs của các mầm bệnh còn nhạy trong hơn 24 giờ.Công thức bào chế theo đường tĩnh mạch củafosfomycincó sẵn ở một số quốc gia ngoài Hoa Kỳ và có thể hữu ích trong các trường hợp nhiễm trùng nghiêm trọng hơn, bao gồm nhiễm trùng hệ thần kinh trung ương, viêm tủy xương và viêm phổi; khi được sử dụng để điều trị các bệnh nhiễm trùng này, nó thường được sử dụng cùng với các loại kháng sinh khác như là beta-lactam.
+
+--- 2. Chỉ định củaFosfomycin ---
+
+Fosfomycin có hoạt tính chống lại cả vi khuẩn gram dương và gram âm, bao gồm cả một số vi khuẩn kháng kháng sinh như làStaphylococcus aureus, bao gồm cảS. aureuskháng methicillin (MRSA)Các loàiEnterococcus, bao gồm cả Enterococci khángvancomycin(VRE)Escherichia coli, bao gồm sản xuất beta-lactamase phổ rộng (ESBL) và kháng fluoroquinoloneE. coliChỉ nên sử dụng fosfomycin đường uống cho các bệnh nhiễm trùng đường tiết niệu không biến chứng (tức là phần dưới) doE. colihoặc enterococci gây ra. Tuy nhiên, fosfomycin đường tĩnh mạch (nếu có) đôi khi được sử dụng để điều trị nhiễm trùng do vi khuẩn đa kháng thuốc ở các vị trí giải phẫu khác.Fosfomycinđường uống không được khuyến nghị để điều trị hầu hết các loài không phảiE. coli, Enterobacterales hoặcPseudomonasngay cả trong trường hợp nhiễm trùng đường tiết niệu dưới không biến chứng (1). Hơn nữa, Ủy ban Kiểm tra Độ nhạy Kháng sinh Châu Âu (EUCAST) không xác nhận các điểm dừng nhạy cảm đối vớifosfomycinđường tĩnh mạch chống lạiP. aeruginosa(2).Tài liệu tham khảo về chỉ định1.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ. Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis. Xuất bản trực tuyến ngày 18 tháng Bảy năm 2023. doi:10.1093/cid/ciad4282.European Committee on Antimicrobial Susceptibility Testing (EUCAST): Clinical breakpoints - breakpoints and guidance. Truy cập ngày 15 tháng 4 năm 2024.
+
+--- 3. Chống chỉ định vớiFosfomycin ---
+
+Không có chống chỉ định đáng kể đối với việc sử dụng ngoại trừ quá mẫn với fosfomycin hoặc với bất kỳ thành phần nào của công thức.
+
+--- 4. Sử dụngFosfomycintrong thời kỳ mang thai và cho con bú ---
+
+Fosfomycin đi qua nhau thai nhưng thường được coi là an toàn để điều trị viêm bàng quang ở phụ nữ mang thai.Chưa biết rõ lượngfosfomycinđi vào sữa mẹ và nên thận trọng nếu việc điều trị bằngfosfomycinlà cần thiết cho phụ nữ đang cho con bú.
+
+--- 5. Tác dụng bất lợi củaFosfomycin ---
+
+Fosfomycin nói chung dung nạp tốt và có tỷ lệ tác dụng phụ thấp, bao gồm các triệu chứng tiêu hoá chủ yếu (như buồn nôn, tiêu chảy).
+
+--- 6. Cân nhắc về liều dùng củaFosfomycin ---
+
+Đối với nhiễm trùng đường tiết niệu không biến chứng ở phụ nữ, dùng một liều duy nhất fosfomycin tromethamine 5,61 g (tương đương 3 gfosfomycin) hòa tan trong chất lỏng. Một đợt điều trị dài hơn có thể là cần thiết cho các bệnh nhiễm trùng tại các vị trí khác.

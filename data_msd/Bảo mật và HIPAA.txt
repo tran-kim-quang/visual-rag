@@ -1,0 +1,145 @@
+TIÊU ĐỀ: Bảo mật và HIPAA
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-vấn-đề-về-pháp-lý/bảo-mật-và-hipaa
+================================================================================
+
+NỘI DUNG:
+
+Bảo mật và HIPAA
+
+Theo
+
+Thaddeus Mason Pope
+
+,
+
+JD, PhD
+
+,
+
+Mitchell Hamline School of Law
+
+Xem xét bởi
+
+Michael R. Wasserman
+
+,
+
+MD
+
+,
+
+California Association of Long Term Care Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2023
+
+v1129981_vi
+
+Theo truyền thống, đạo đức chăm sóc sức khoẻ bao hàm nhu cầu giữ bí mật thông tin y tế của bệnh nhân. Tuy nhiên, tại Hoa Kỳ, Đạo luật về Trách nhiệm Giải trình và Cung cấp Thông tin Bảo hiểm Y tế (HIPAA, xem
+
+Pub. L 104-191 (1996)
+
+)) đã hệ thống hóa trách nhiệm của các chuyên gia chăm sóc sức khỏe, chương trình bảo hiểm y tế, cơ quan thanh toán chăm sóc sức khỏe và các đối tác kinh doanh của họ, những người được cung cấp thông tin điện tử truyền tải thông tin sức khỏe và thông tin liên quan (ví dụ: hồ sơ sức khỏe, đăng ký, thanh toán, xác minh khả năng đủ điều kiện). Nói chung, đây là các thực thể được bảo vệ theo HIPAA. (Xem thêm
+
+U.S. Department of Health and Human Services: HIPAA for Professionals
+
+.)
+
+Các điều khoản chính của HIPAA được thể hiện trong ba quy tắc sau (hiện có trong quy tắc tổng hợp), tất cả đều nhằm bảo vệ quyền riêng tư và bảo mật của thông tin sức khỏe có thể nhận dạng cá nhân, được gọi là thông tin sức khỏe được bảo vệ (PHI):
+
+Quy tắc về quyền riêng tư: Đặt ra các tiêu chuẩn để bảo vệ PHI và trao cho bệnh nhân những quyền quan trọng đối với thông tin sức khỏe của họ
+
+Quy tắc về bảo mật: Thiết lập các biện pháp bảo vệ mà các tổ chức thuộc phạm vi điều chỉnh và đối tác kinh doanh của họ phải thực hiện để bảo vệ quyền riêng tư, tính toàn vẹn và bảo mật của PHI điện tử
+
+Quy tắc về thông báo vi phạm: Yêu cầu các tổ chức được bảo vệ phải thông báo cho các cá nhân bị ảnh hưởng, chính phủ liên bang và trong một số trường hợp, các phương tiện truyền thông về việc vi phạm PHI không được bảo mật
+
+Văn phòng Dân quyền thuộc Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ thực thi ba quy tắc này và cung cấp hướng dẫn về việc tuân thủ các quy tắc.
+
+Các khía cạnh chính của Quy tắc bảo mật được mô tả dưới đây.
+
+Truy cập hồ sơ bệnh án
+
+Thông thường, bệnh nhân hoặc đại diện được ủy quyền của họ có thể xem và lấy bản sao hồ sơ y tế của họ và yêu cầu sửa chữa nếu họ nhận ra lỗi. Vì mục đích của Quy tắc quyền riêng tư, "đại diện cá nhân" được ủy quyền của bệnh nhân là người giám hộ hoặc người bảo hộ có thẩm quyền đối với các quyết định về sức khỏe, người đại diện hoặc người được ủy quyền được chỉ định trong chỉ thị trước hoặc
+
+giấy ủy quyền lâu dài về chăm sóc sức khỏe
+
+hoặc thành viên gia đình hoặc người bạn được ủy quyền làm người đại diện đưa ra các quyết định về sức khỏe theo luật tiểu bang. Bệnh nhân cũng có quyền cho phép người khác truy cập vào tất cả hoặc một phần hồ sơ bệnh án của họ bằng văn bản ủy quyền có chữ ký.
+
+Thông báo về bảo mật riêng tư
+
+Các chuyên gia chăm sóc sức khỏe phải đưa ra thông báo về khả năng sử dụng PHI của họ và về các quyền của bệnh nhân theo quy định của HIPAA.
+
+Giới hạn sử dụng thông tin sức khỏe được bảo vệ (PHI)
+
+HIPAA giới hạn cách các chuyên gia chăm sóc sức khỏe có thể sử dụng PHI. Đạo luật này không hạn chế các bác sĩ, y tá và các chuyên gia chăm sóc sức khỏe khác chia sẻ thông tin cần thiết để điều trị cho bệnh nhân của họ. Tiết lộ cho các cơ quan trao đổi thông tin y tế và cơ quan y tế công cộng vì mục đích y tế công cộng trong các sự kiện như đại dịch COVID-19 cũng được phép tiết lộ theo hướng dẫn của Văn phòng Dân quyền thuộc Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ. Tuy nhiên, các chuyên gia chăm sóc sức khỏe chỉ có thể sử dụng hoặc chia sẻ lượng thông tin được bảo vệ tối thiểu cần thiết cho một mục đích cụ thể. Trong hầu hết các trường hợp, PHI không được sử dụng cho các mục đích không liên quan đến chăm sóc sức khỏe. Ví dụ, bệnh nhân phải ký một ủy quyền cụ thể trước khi nhà cung cấp dịch vụ chăm sóc sức khoẻ có thể tiết lộ thông tin y tế cho công ty bảo hiểm nhân thọ, ngân hàng, công ty tiếp thị hoặc doanh nghiệp bên ngoài khác cho các mục đích không liên quan đến nhu cầu chăm sóc sức khoẻ hiện tại của bệnh nhân.
+
+Tiếp thị
+
+Tiếp thị là truyền thông được thiết kế để khuyến khích mọi người mua một sản phẩm hoặc dịch vụ cụ thể. HIPAA yêu cầu phải có sự cho phép cụ thể của bệnh nhân trước khi tiết lộ PHI cho mục đích lưu hành sản phẩm. Các nhà cung cấp chăm sóc sức khoẻ phải tiết lộ bất kỳ khoản thanh toán nào sẽ nhận được do tiếp thị. Tuy nhiên, các nhà cung cấp dịch vụ y tế có thể tự do liên lạc với bệnh nhân về các lựa chọn điều trị, sản phẩm và các dịch vụ liên quan đến sức khoẻ khác, bao gồm các chương trình quản lý bệnh.
+
+Thông tin mật
+
+Các chuyên gia chăm sóc sức khỏe nên thực hiện các bước hợp lý để đảm bảo rằng thông tin liên lạc của họ với bệnh nhân được bảo mật và phù hợp với ưu tiên của bệnh nhân. Ví dụ: các cuộc thảo luận y tế giữa bác sĩ lâm sàng và bệnh nhân thường nên diễn ra riêng tư hoặc bệnh nhân có thể muốn bác sĩ lâm sàng gọi đến phòng khám của họ hơn là về nhà. Tuy nhiên, trừ khi bệnh nhân phản đối, bác sĩ lâm sàng có thể chia sẻ PHI với người thân trong gia đình của bệnh nhân hoặc ai đó được biết là bạn thân nếu thông tin liên quan đến người đó tham gia vào việc chăm sóc bệnh nhân hoặc thanh toán cho việc chăm sóc và thông tin chỉ giới hạn ở những gì được cần thiết cho việc tham gia của người đó. Các bác sĩ lâm sàng được kỳ vọng sẽ đưa ra phán đoán chuyên môn.
+
+Đại diện cá nhân được ủy quyền
+
+của bệnh nhân phải được đối xử giống như bệnh nhân trong việc tiếp cận thông tin và tham gia vào quá trình ra quyết định. Như vậy, người đại diện có quyền truy cập thông tin như nhau và được thực hiện các quyền như nhau về bảo mật thông tin. Tuy nhiên, các chuyên gia chăm sóc sức khỏe có thể hạn chế thông tin hoặc quyền truy cập nếu người đại diện có những lo ngại hợp lý về bạo lực gia đình, lạm dụng hoặc bỏ bê.
+
+Một số thông tin liên lạc không thể giữ bí mật. Các chuyên gia chăm sóc sức khỏe đôi khi được luật pháp tiểu bang hoặc địa phương yêu cầu tiết lộ một số thông tin nhất định, thường là do tình trạng bệnh có thể gây nguy hiểm cho người khác. HIPAA cho phép tiết lộ PHI cho các cơ quan y tế công cộng được ủy quyền hợp pháp để nhận thông tin đó nhằm mục đích ngăn ngừa hoặc kiểm soát bệnh tật, chấn thương hoặc khuyết tật (
+
+1
+
+). (Xem thêm
+
+U.S. Department of Health and Human Services: HIPAA for Professionals: Disclosures for Public Health Activities
+
+.) Ví dụ: một số bệnh truyền nhiễm (ví dụ: COVID-19, HIV, giang mai, bệnh lao) phải được báo cáo cho cơ quan y tế công cộng tiểu bang hoặc địa phương. Các dấu hiệu lạm dụng trẻ em và ở nhiều tiểu bang, lạm dụng hoặc bỏ bê người lớn hoặc người cao tuổi thường phải được báo cáo cho các dịch vụ bảo vệ. Ở một số tiểu bang, các tình trạng có thể làm suy giảm nghiêm trọng khả năng lái xe của bệnh nhân, chẳng hạn như chứng mất trí nhớ hoặc các cơn co giật gần đây, phải được báo cáo cho Bộ Phương tiện Cơ giới.
+
+Khiếu nại
+
+Bệnh nhân có thể nộp đơn khiếu nại về việc tuân thủ các quy định về bảo mật này. Khiếu nại có thể được gửi trực tiếp đến chuyên gia chăm sóc sức khỏe, Văn phòng Dân quyền thuộc Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ hoặc nhân viên tuân thủ quyền riêng tư do tổ chức chỉ định tuân thủ HIPAA. Mặc dù bệnh nhân không có quyền nộp đơn kiện riêng theo HIPAA nhưng họ có thể khởi kiện theo các luật khác bảo vệ quyền riêng tư và bảo mật. Văn phòng Dân quyền thường xuyên áp dụng các hình phạt dân sự và hình sự đối với việc tiết lộ thông tin sức khỏe cá nhân không đúng cách. Cách tốt nhất dành cho các chuyên gia chăm sóc sức khỏe là phải được thông tin đầy đủ về HIPAA, hành động một cách thiện chí và thực hiện những nỗ lực hợp lý để tuân thủ.
+
+Tài liệu tham khảo
+
+1.
+
+United States Code of Federal Regulations (CFR): 45 CFR §164.512
+
+. Truy cập ngày 22 tháng 9 năm 2023.
+
+Thông tin thêm
+
+U.S. Department of Health and Human Services: HIPAA for Professionals
+
+: Cung cấp thông tin chi tiết về HIPAA cũng như các quy tắc và cách quản lý của tổ chức này, bao gồm các câu hỏi thường gặp về HIPAA.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thông tin thêm ---
+
+U.S. Department of Health and Human Services: HIPAA for Professionals: Cung cấp thông tin chi tiết về HIPAA cũng như các quy tắc và cách quản lý của tổ chức này, bao gồm các câu hỏi thường gặp về HIPAA.

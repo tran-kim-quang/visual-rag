@@ -1,0 +1,799 @@
+TIÊU ĐỀ: Cơ sở tế bào và phân tử của ung thư
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/tổng-quan-về-ung-thư/cơ-sở-tế-bào-và-phân-tử-của-ung-thư
+================================================================================
+
+NỘI DUNG:
+
+Cơ sở tế bào và phân tử của ung thư
+
+Theo
+
+Robert Peter Gale
+
+,
+
+MD, PhD, DSC(hc)
+
+,
+
+Imperial College London
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v977168_vi
+
+Động học tế bào
+
+|
+
+Sự phát triển và di căn của ung thư
+
+|
+
+Hệ thống miễn dịch và ung thư
+
+|
+
+Bất thường về phân tử trong ung thư
+
+|
+
+Các yếu tố môi trường và ung thư
+
+|
+
+Rối loạn miễn dịch
+
+|
+
+Nhiều yếu tố có liên quan đến việc gây ra và cho phép sự tăng sinh không kiểm soát của các tế bào xảy ra trong ung thư.
+
+(Xem thêm
+
+Tổng quan về ung thư
+
+.)
+
+Động học tế bào
+
+Thời gian thế hệ là thời gian cần thiết để một tế bào hoàn thành một chu kỳ phân chia tế bào (xem hình
+
+Chu kỳ tế bào
+
+) và tạo ra 2 tế bào con. Các tế bào ung thu, đặc biệt là những tế bào có nguồn gốc từ tủy xương hay hệ bạch huyết có thể có thời gian nhân đôi ngắn hơn và thường có tỷ lệ tế bào ở pha G0 (pha nghỉ) ít hơn. Tế bào u ban đầu tăng sinh theo quy luật hàm số mũ sau đó đạt đến giới hạn khi số tế bào chết đi gần như tương đương với số tế bào mới sinh ra. Tốc độ tăng sinh tế bào chậm dần có thể liên quan tới sự cạn kiệt chất dinh dưỡng và Oxygen vốn cần thiết cho sự tăng trưởng nhanh của khối u. Các khối u nhỏ có tỷ lệ tế bào phân chia cao hơn so với khối u lớn.
+
+Quần thể con các tế bào trong bệnh ung thư có các đặc tính của tế bào gốc. Do đó các tế bào này có khả năng tăng sinh. Các tế bào đó cũng ít bị tổn thương do thuốc hóa trị hoặc xạ trị hơn. Các tế bào khối u có khả năng hồi phục phát triển trở lại sau phẫu thuật, hóa trị và/hoặc xạ trị.
+
+Động học tế bào của một số loại ung thư cụ thể là yếu tố quan trọng cần cân nhắc khi thiết kế phác đồ thuốc chống ung thư và có thể ảnh hưởng đến lịch trình dùng thuốc và khoảng thời gian điều trị. Nhiều loại thuốc chống ung thư, chẳng hạn như thuốc chống chuyển hóa, có hiệu quả nhất khi các tế bào đang phân chia tích cực. Một số loại thuốc chỉ có tác dụng trong một giai đoạn cụ thể của chu kỳ tế bào, đòi hỏi phải dùng thuốc trong thời gian dài để bắt kịp các tế bào phân chia trong giai đoạn nhạy cảm tối đa.
+
+Chu kỳ tế bào
+
+G
+
+0
+
+=
+
+giai đoạn nghỉ (không tăng sinh tế bào); G
+
+1
+
+=
+
+giai đoạn tổng hợp tiền DNA có thể thay đổi (12 giờ đến vài ngày); S
+
+=
+
+tổng hợp DNA (thường từ 2 đến 4 giờ); G
+
+2
+
+=
+
+sau tổng hợp DNA (2 đến 4 giờ) — lượng DNA tứ bội được tìm thấy trong tế bào; M
+
+1
+
+=
+
+phân bào có tơ (1 đến 2 giờ).
+
+Sự phát triển và di căn của ung thư
+
+Khi khối u phát triển, chất dinh dưỡng được cung cấp bởi sự khuếch tán trực tiếp từ hệ tuần hoàn. Sự phát triển tại chỗ của khối u được tăng cường bởi các enzym (như enzym tiêu protein), có vai trò phá hủy mô xung quanh. Khi thể tích ung thư tăng lên, ung thư có thể giải phóng các yếu tố hình thành mạch máu, chẳng hạn như yếu tố tăng trưởng nội mô mạch máu (VEGF), thúc đẩy sự hình thành các mạch máu mới cần thiết cho sự phát triển tiếp theo.
+
+Ung thư có thể giải phóng tế bào vào máu và hệ bạch huyết ngay từ giai đoạn phát triển rất sớm. Từ các mô hình động vật, ước tính một khối u 1 cm sẽ thải ra
+
+>
+
+1 triệu tế bào/24 giờ vào máu. Các tế bào ung thư tuần hoàn được tìm thấy ở nhiều bệnh nhân bị ung thư giai đoạn tiến triển và thậm chí ở một số ung thư giai đoạn khu trú. Mặc dù hầu hết các tế bào ung thư tuần hoàn sẽ chết đi, nhưng tế bào cơ hội có thể xâm nhập vào các mô, tạo ra di căn ở một vị trí xa. Các khối u di căn phát triển giống như ung thư nguyên phát và sau đó có thể làm phát sinh các khối u di căn khác. Hầu hết bệnh nhân ung thư chết vì di căn chứ không phải vì ung thư ở vị trí ban đầu.
+
+Các thí nghiệm cho thấy khả năng xâm nhập, di chuyển, cấy ghép thành công và kích thích tăng sinh mạch máu tân tạo là các đặc tính quan trọng của tế bào di căn, giống như một tập con của tế bào u nguyên phát.
+
+Hệ thống miễn dịch và ung thư
+
+Trên bề mặt tế bào ung thư thường có các neoantigens mà hệ thống miễn dịch nhận dạng là "bất ngã", dẫn đến sự tấn công của hệ thống miễn dịch. Khi nào và nếu cuộc tấn công miễn dịch này có hiệu quả, ung thư có thể không bao giờ phát triển. Sự phá hủy các tế bào ung thư có thể được hoàn tất, trong trường hợp đó ung thư không bao giờ xuất hiện. Tuy nhiên, một số tế bào ung thư có hoặc có khả năng tránh được sự phát hiện và/hoặc tiêu diệt của hệ thống miễn dịch, cho phép chúng tiếp tục nhân lên.
+
+Hiện vẫn chưa rõ lý do tại sao
+
+suy giảm miễn dịch bẩm sinh hoặc mắc phải
+
+lại có nhiều khả năng phát triển các bệnh ung thư hiếm gặp như ung thư hắc tố da, ung thư biểu mô tế bào thận, u lympho mà không phải các bệnh ung thư phổ biến như ung thư phổi, vú, tuyến tiền liệt, đại tràng. Hầu hết các bệnh ung thư trong đó hệ thống miễn dịch hoạt động hiệu quả là do vi-rút gây ra.
+
+Dưới áp lực chọn lọc (ví dụ: tiến hóa), tế bào ung thư có thể đóng vai trò là các protein chốt kiểm soát miễn dịch. Protein điểm kiểm soát là các phân tử trên bề mặt tế bào, có chức năng báo hiệu cho tế bào T rằng các tế bào biểu hiện các protein này là bình thường và không nên bị tấn công. Ví dụ: protein PD-L1, được nhận ra bởi phân tử PD-1 trên các tế bào T; khi PD-L1 liên kết với PD-1 trên tế bào T, sẽ ngăn chặn được đợt tấn công của miễn dịch. Liệu pháp điều trị ung thư bằng cách sử dụng kháng thể đơn dòng gọi là chất ức chế chốt kiểm soát miễn dịch, ngăn chặn PD-L1 hoặc PD-1, cho phép hệ thống miễn dịch tấn công các tế bào ung thư được bảo vệ. Protein liên kết với tế bào lympho T gây độc tế bào 4 (CTLA-4) là một protein điểm kiểm soát khác ngăn chặn sự tấn công của hệ miễn dịch và có thể bị một kháng thể đặc hiệu chặn theo cách tương tự. Bởi vì các protein chốt kiểm soát miễn dịch có thể có mặt trên các tế bào bình thường, nên chất ức chế chốt kiểm soát miễn dịch cũng có thể tạo ra phản ứng tự miễn dịch.
+
+Tế bào T biến đổi gen (gọi là liệu pháp tế bào T kháng thụ thể chimeric [CAR-T] cũng có thể được sử dụng trong liệu pháp miễn dịch. Trong quá trình này, các tế bào T được lấy ra từ bệnh nhân và biến đổi gen để thể hiện các thụ thể có chứa một miền nhận diện cho một kháng nguyên cụ thể kết hợp với miền báo hiệu nội bào kích hoạt tế bào T. Khi các tế bào T biến đổi được truyền vào, chúng có thể tấn công các tế bào mang kháng nguyên đích đó. Thông thường, kháng nguyên đích chỉ đặc hiệu dòng dõi, không đặc hiệu đối với bệnh ung thư. Liệu pháp tế bào T CAR-T có hiệu quả nhất đối với các bệnh ung thư tế bào B như
+
+bệnh bạch cầu nguyên bào lympho cấp tính tế bào B
+
+,
+
+u lympho tế bào B
+
+và
+
+u tủy tế bào plasma
+
+(đa u tủy). Hiệu quả của liệu pháp tế bào CAR-T đối với các bệnh ung thư thể rắn thông thường vẫn chưa được xác định.
+
+Bất thường về phân tử trong ung thư
+
+Các đột biến gen dẫn tới sự hình thành của các tế bào ung thư, do đó chúng xuất hiện trong tất cả các bệnh ung thư. Những đột biến này làm thay đổi số lượng hoặc chức năng của các sản phẩm protein điều hòa sự tăng trưởng và phân chia tế bào và sửa chữa DNA. Hai loại gen đột biến chính là
+
+Gen sinh ung thư
+
+Gen ức chế khối u
+
+Gen sinh ung thư
+
+Các gen sinh ung là dạng bất thường của gen bình thường (proto-oncogenes) điều chỉnh các khía cạnh khác nhau của sự phát triển và biệt hóa tế bào. Đột biến các gen này gây ra kích thích trực tiếp và liên tục nhiều con đường dẫn truyền (ví dụ: các thụ thể yếu tố phát triển bề mặt tế bào, các con đường dẫn truyền tín hiệu tải nạp nội bào, các yếu tố sao chép, các yếu tố phát triển khác) kiểm soát sự tăng trưởng và phân chia tế bào, sửa chữa DNA, tăng sinh mạch và nhiều quá trình sinh lý học khác.
+
+Có
+
+>
+
+100 gen gây ung thư có thể góp phần vào sự chuyển dạng thành tế bào ung thư ở người. Ví dụ, gen
+
+RAS
+
+mã hoá protein ras, mang tín hiệu từ các thụ thể gắn vào màng tế bào trên con đường RAS- MAPKinase tới nhân tế bào, điều hòa phân chia tế bào. Các đột biến có thể dẫn đến sự hoạt hóa không thích hợp của protein ras, dẫn đến tăng trưởng tế bào không kiểm soát được. Protein ras bất thường ở khoảng 25% số bệnh ung thư ở người (
+
+1
+
+).
+
+Các gen sinh ung thư khác cũng được chỉ ra có liên quan đến các loại ung thư nhất định. Bao gồm
+
+HER2
+
+(khuếch đại trong ung thư vú và ung thư dạ dày và ít phổ biến hơn trong ung thư phổi)
+
+BCR::ABL1
+
+(gen thể khảm có trong bệnh bạch cầu mạn dòng tủy và một số bệnh bạch cầu cấp dòng lympho tế bào B)
+
+CMYC
+
+C-MYC (u lympho Burkitt)
+
+NMYC
+
+N-MYC (ung thư phổi tế bào nhỏ, u nguyên bào thần kinh)
+
+EGFR
+
+(ung thư biểu mô tuyến của phổi)
+
+EML4ALK
+
+(gen chimeric có trong ung thư biểu mô tuyến của phổi)
+
+KRAS
+
+(ung thư tuyến tụy, ung thư phổi)
+
+Các gen sinh ung thư đặc hiệu có thể có ý nghĩa quan trọng trong chẩn đoán, điều trị và tiên lượng (xem phần bàn luận về các loại ung thư cụ thể).
+
+Oncogenes thường là kết quả của
+
+Đột biến điểm tế bào soma mắc phải (ví dụ: từ chất gây ung thư hóa học)
+
+Sự khuếch đại gen (ví dụ, sự gia tăng số lượng bản sao của một gen bình thường)
+
+Sự chuyển đoạn (trong đó các đoạn gen khác nhau được nối lại với nhau để tạo thành một trình tự duy nhất)
+
+Những thay đổi này có thể làm tăng hoạt tính của sản phẩm gen (protein) hoặc thay đổi chức năng của nó. Đôi khi, sự đột biến của các gen trong tế bào mầm dẫn đến sự di truyền của một xu hướng ung thư.
+
+Gen ức chế khối u
+
+Các gen như
+
+TP53
+
+BRCA1
+
+và
+
+BRCA2
+
+đóng vai trò trong sự phân chia tế bào bình thường và sửa chữa DNA, rất cần thiết trong phát hiện tín hiệu tăng trưởng bất thường hay tổn thương DNA của tế bào. Nếu những gen này mất chức năng do đột biến di truyền hoặc đột biến mới, hệ thống theo dõi bắt cặp DNA bị mất hiệu quả, các tế bào có đột biến di truyền tự phát vẫn tồn tại và được nhân lên, cuối cùng hình thành khối u.
+
+Giống như hầu hết các gen, có 2 alen mã hoá cho mỗi gen ức chế khối u. Một allen bất thường của một gen có thể di truyền, dẫn đến cơ thể chỉ còn một allen còn chức năng của gen ức chế khối u. Nếu đột biến
+
+xảy ra
+
+ở alen chức năng, cơ chế bảo vệ bình thường của gen ức chế khối u bình thường thứ hai sẽ bị mất.
+
+Một protein điều hoà quan trọng khác, p53, có vai trò ngăn ngừa sự sao chép DNA bị tổn thương ở tế bào bình thường và thúc đẩy sự chết tế bào theo chương trình (apoptosis) ở tế bào có DNA bất thường. Protein p53 bất hoạt hoặc bị thay đổi chức năng dẫn đến các tế bào có DNA bất thường tiếp tục sống sót và phân chia.
+
+TP53
+
+Các đột biến được di truyền cho các tế bào con, làm tăng nguy cơ sao chép DNA bất thường và hậu quả là sự chuyển dạng thành tế bào ung thư.
+
+TP53
+
+bị khiếm khuyết trong nhiều bệnh ung thư ở người.
+
+BRCA1
+
+và
+
+BRCA2
+
+các đột biến làm giảm chức năng làm tăng nguy cơ ung thư vú và ung thư buồng trứng.
+
+Ví dụ, gen u nguyên bào võng mạc (
+
+RB
+
+) mã hoá protein Rb, có tác dụng điều hòa chu kỳ tế bào bằng cách dừng quá trình sao chép DNA. Các đột biến trong họ gia đình gen
+
+RB
+
+xảy ra trong nhiều bệnh ung thư ở người, với các tế bào mang gen đột biến phân chia liên tục.
+
+Giống như các gen sinh ung thư, đột biến gen ức chế khối u như
+
+TP53
+
+hay
+
+RB
+
+ở các dòng tế bào trong các dòng tế bào sinh dục có thể di truyền và làm tăng nguy cơ ung thư ở thế hệ sau.
+
+Bất thường nhiễm sắc thể
+
+Bất thường về nhiễm sắc thể
+
+có thể xảy ra thông qua cơ chế đột biến mất đoạn, đột biến chuyển đoạn, nhân đôi và các cơ chế khác. Nếu những biến đổi này làm hoạt hóa hay bất hoạt các gen mà dẫn đến tăng sự phân chia tế bào so với các tế bào bình thường, khi đó ung thư có thể phát triển. Bất thường về nhiễm sắc thể xảy ra ở nhiều bệnh ung thư ở người. Trong một số bệnh lý bẩm sinh (như hội chứng Bloom, thiếu máu Fanconi, hội chứng Down), quá trình sửa chữa DNA bị khiếm khuyết đứt gãy nhiễm sắc thể thường gặp, làm cho trẻ có nguy cơ cao mắc bệnh bạch cầu cấp và u lympho.
+
+Các ảnh hưởng khác
+
+Hầu hết các loại ung thư biểu mô có thể là kết quả của một chuỗi các đột biến dẫn đến sự chuyển đổi của tế bào ung thư. Ví dụ, quá trình phát triển của ung thư đại tràng trong bệnh polyp có tính gia đình diễn ra thông qua một chuỗi các biến cố di truyền: tăng sinh biểu mô (mất gen ức chế trên nhiễm sắc thể 5), u tuyến giai đoạn đầu (thay đổi quá trình methyl hóa DNA), u tuyến giai đoạn trung gian (hoạt động quá mức của
+
+RAS
+
+gây ung thư), u tuyến giai đoạn muộn (mất gen ức chế trên nhiễm sắc thể 18) và cuối cùng là ung thư (mất gen trên nhiễm sắc thể 17). Các biến đổi di truyền tiếp theo có thể xảy ra để ung thư di căn.
+
+Các đoạn đầu nhiễm sắc thể
+
+là các phức hợp nucleoprotein nằm ở đầu các đầu của nhiễm sắc thể giúp duy trì tính toàn vẹn của chúng. Ở mô bình thường, các đoạn đầu nhiễm sắc thể này ngắn dần (trong quá trình lão hóa) nên sự phân chia tế bào chỉ có giới hạn. Enzym telomerase, nếu được hoạt hoá trong tế bào khối u, hỗ trợ quá trình tổng hợp telomere mới và cho phép tăng sinh liên tục các tế bào bệnh ung thư. Bất thường di truyền trong các gen chịu trách nhiệm tái tạo telomere dẫn đến telomere ngắn lại, làm tăng nguy cơ ung thư đối với da, đường tiêu hóa và tủy xương.
+
+Tài liệu tham khảo về bất thường về phân tử
+
+1.
+
+Keeton AB, Salter EA, Piazza GA
+
+. The RAS-Effector Interaction as a Drug Target.
+
+Cancer Res
+
+2017;77(2):221-226. doi:10.1158/0008-5472.CAN-16-0938
+
+Các yếu tố môi trường và ung thư
+
+Nhiễm trùng
+
+Virus
+
+góp phần vào cơ chế bệnh sinh nhiều loại ung thư ở người (xem bảng
+
+Virus liên quan đến ung thư
+
+). Quá trình sinh bệnh có thể xảy ra thông qua sự tích hợp các yếu tố di truyền của vi rút vào DNA của vật chủ (
+
+1
+
+). Những gen mới này được biểu hiện ở người bệnh; chúng có thể ảnh hưởng đến sự tăng trưởng hoặc phân chia tế bào hoặc phá vỡ các gen bình thường ở tế bào người bệnh vốn cần thiết để kiểm soát sự tăng trưởng và phân chia tế bào. Ngoài ra, nhiễm virus có thể gây ra suy giảm miễn dịch, dẫn đến giảm kiểm soát miễn dịch đối với các khối u ở giai đoạn sớm. Nhiễm HIV làm tăng nguy cơ mắc một số bệnh ung thư (xem phần
+
+Ung thư thường gặp ở bệnh nhân nhiễm HIV
+
+).
+
+Bảng
+
+Các virus liên quan đến ung thư
+
+Bảng
+
+Các virus liên quan đến ung thư
+
+Các virus liên quan đến ung thư
+
+Virus
+
+Một số bệnh ung thư liên quan
+
+Vi-rút Epstein-Barr
+
+U lympho Burkitt
+
+U lympho Hodgkin
+
+Ung thư biểu mô vòm họng
+
+Vi-rút viêm gan B hoặc vi-rút viêm gan C
+
+Ung thư biểu mô tế bào gan
+
+Papillomavirus ở người
+
+Ung thư hậu môn
+
+Ung thư cổ tử cung
+
+Ung thư dương vật
+
+Ung thư amidan và đôi khi là
+
+các bệnh ung thư đầu và cổ
+
+khác
+
+Ung thư âm hộ
+
+Vi rút T-lymphotropic ở người-1 (HTVL-1)
+
+U lympho tế bào T người lớn
+
+Vi rút herpes liên quan đến bệnh sarcoma Kaposi
+
+Kaposi sarcoma
+
+Bệnh Castleman đa trung tâm
+
+U lympho tràn dịch nguyên phát
+
+Polyomavirus tế bào Merkel
+
+Ung thư biểu mô tế bào Merkel
+
+Vi khuẩn
+
+cũng có thể gây ung thư.
+
+Nhiễm Helicobacter pylori
+
+làm tăng nguy cơ mắc một số loại ung thư (ung thư biểu mô dạ dày, u lympho dạ dày, u lympho mô dạng lympho liên quan đến niêm mạc [MALT])(
+
+2
+
+,
+
+3
+
+).
+
+Ký sinh trùng
+
+một số loại có thể dẫn đến ung thư.
+
+Schistosoma haematobium
+
+và
+
+Clonorchis sinensis
+
+gây viêm mạn tính và xơ hóa bàng quang, có thể dẫn đến ung thư.
+
+Opisthorchis sinensis
+
+có liên quan đến ung thư tuyến tụy và ống mật (
+
+4
+
+).
+
+Phóng xạ
+
+Tia cực tím
+
+có thể gây ra ung thư da (ví dụ: ung thư biểu mô tế bào đáy và ung thư biểu mô tế bào vảy, ung thư tế bào hắc tố) do gây tổn thương DNA. Tổn thương DNA này bao gồm sự hình thành chất dimer thymidine gây ra tổn thương DNA, có thể ngăn cản quá trình cắt bỏ và tái tổng hợp chuỗi DNA bình thường. Những bệnh nhân có khiếm khuyết bẩm sinh trong quá trình sửa chữa DNA (ví dụ: bệnh khô da nhiễm sắc tố) hoặc bị suy giảm miễn dịch do thuốc hoặc mắc bệnh nền đặc biệt dễ bị ung thư da do tiếp xúc với tia cực tím.
+
+Bức xạ ion hoá
+
+cũng gây ung thư. Ví dụ: những người sống sót sau vụ nổ bom nguyên tử ở Hiroshima và Nagasaki có tỷ lệ mắc bệnh bạch cầu và ung thư dạng đặc cao hơn dự kiến. Tương tự như vậy, phơi nhiễm với bức xạ trị liệu có thể dẫn đến bệnh bạch cầu, ung thư vú, khối u mô liên kết và các loại ung thư rắn khác nhiều năm sau khi phơi nhiễm. Phơi nhiễm với tia X trong các nghiên cứu chẩn đoán hình ảnh được cho là làm tăng nguy cơ bị ung thư (xem phần
+
+Nguy cơ của bức xạ y tế
+
+). Phơi nhiễm do nghề nghiệp (ví dụ: công nhân mỏ tiếp xúc với uranium) có liên quan đến phát triển của ung thư phổi, đặc biệt là ở những người hút thuốc. Phơi nhiễm kéo dài với chiếu xạ nghề nghiệp hoặc lắng đọng chất thori dioxit trong cơ thể gây ra sarcom mạch và bệnh bạch cầu cấp dòng tuỷ.
+
+Radon,
+
+một loại khí phóng xạ được giải phóng từ đất, làm tăng nguy cơ bị ung thư phổi, đặc biệt là ở những người hút thuốc. Thông thường, radon phân tán nhanh chóng vào khí quyển và không gây hại. Tuy nhiên, khi một tòa nhà được đặt trên đất có hàm lượng radon cao, radon có thể tích tụ, đôi khi tạo ra mức đủ cao trong không khí để gây hại.
+
+Thuốc và hóa chất
+
+Estrogen
+
+và progestin phối hợp trong thuốc ngừa thai đường uống có thể làm tăng nhẹ nguy cơ ung thư vú, nhưng nguy cơ này giảm theo thời gian. Liệu pháp
+
+estrogen
+
+đơn thuần, không có
+
+progesterone
+
+, làm tăng nguy cơ ung thư tử cung. Những rủi ro gia tăng này ở mức độ vừa phải.
+
+Diethylstilbestrol (DES) làm tăng nguy cơ ung bị thư vú ở những phụ nữ dùng thuốc này. Chất này cũng làm tăng nguy cơ bị ung thư âm đạo ở những phụ nữ phoi nhiễm với chất này trước khi sinh khi mẹ họ dùng DES.
+
+Sử dụng steroid đồng hóa trong thời gian dài có thể làm tăng nguy cơ bị ung thư gan và đẩy nhanh quá trình ung thư tuyến tiền liệt.
+
+Điều trị ung thư chỉ bằng thuốc hóa trị hoặc kết hợp với xạ trị làm tăng nguy cơ phát triển bệnh ung thư thứ hai, cũng như thuốc ức chế miễn dịch dùng trong ghép tạng. Các loại ung thư thường gia tăng do thuốc ức chế miễn dịch là ung thư da (bao gồm cả ung thư hắc tố), ung thư thận và u nguyên bào thần kinh. Hydroxyurea làm tăng nguy cơ ung thư da do tiếp xúc với ánh nắng mặt trời, ngoài ra còn làm tăng nguy cơ mắc bệnh bạch cầu cấp tính ở những bệnh nhân mắc chứng rối loạn tăng sinh tủy (ví dụ: bệnh đa hồng cầu nguyên phát, bệnh tăng tiểu cầu) được điều trị lâu dài bằng
+
+hydroxyurea
+
+.
+
+Hydroxyurea
+
+không chỉ gây đột biến mất đoạn 17p, dẫn đến mất alen
+
+TP53
+
+mà còn làm suy yếu hoạt động TP53 ở những bệnh nhân mắc chứng rối loạn tăng sinh tủy.
+
+Các chất hóa học gây ung thư có thể gây ra đột biến gen và dẫn đến phát triển không kiểm soát và hình thành khối u (xem bảng
+
+Các chất gây ung thư hóa học phổ biến
+
+) (
+
+5
+
+). Các chất khác, được gọi là hiệp đồng gây ung thư, có ít hoặc không có tiềm năng gây ung thư nhưng tăng cường khả năng gây ung thư của tác nhân khác khi phơi nhiễm đồng thời.
+
+Bảng
+
+Hóa chất thường gặp gây ung thư
+
+Bảng
+
+Hóa chất thường gặp gây ung thư
+
+Hóa chất thường gặp gây ung thư
+
+Chất gây ung thư
+
+Loại ung thư
+
+Môi trường và công nghiệp
+
+Các amin thơm
+
+Ung thư bàng quang
+
+Asen
+
+Ung thư phổi
+
+Ung thư da
+
+chất amiăng
+
+Ung thư phổi
+
+U trung biểu mô
+
+Benzene
+
+Bệnh bạch cầu
+
+Chromates
+
+Ung thư phổi
+
+Chất thải diesel
+
+Ung thư phổi
+
+Formaldehyde
+
+Bệnh bạch cầu
+
+Ung thư mũi
+
+Ung thư vòm mũi họng
+
+Thuốc nhuộm tóc
+
+Ung thư bàng quang
+
+Lymphoma
+
+Bức xạ ion hóa
+
+Nhiều loại ung thư
+
+Sợi khoáng công nghiệp
+
+Ung thư phổi
+
+Niken
+
+Ung thư phổi
+
+Ung thư xoang mũi
+
+Chất liệu sơn
+
+Bệnh bạch cầu
+
+Ung thư phổi
+
+Thuốc trừ sâu, không có asen
+
+Ung thư phổi
+
+Radon
+
+Ung thư phổi
+
+Phóng xạ
+
+Hầu hết các loại ung thư
+
+Tia cực tím
+
+Ung thư da
+
+Vinyl clorua
+
+Sarcom mạch máu của gan
+
+Lối sống
+
+Rượu
+
+Ung thư vú
+
+Ung thư đại trực tràng
+
+Ung thư thực quản
+
+Ung thư thanh quản
+
+Ung thư gan
+
+Ung thư miệng
+
+Ung thư hầu họng
+
+Trầu
+
+Ung thư miệng-họng
+
+Thuốc lá
+
+Bệnh bạch cầu cấp dòng tủy
+
+Ung thư bàng quang
+
+Ung thư cổ tử cung
+
+Ung thư đại trực tràng
+
+Ung thư thực quản
+
+Ung thư vùng đầu cổ
+
+Ung thư thận
+
+Ung thư gan
+
+Ung thư phổi
+
+Ung thư tụy
+
+Ung thư dạ dày
+
+Dược phẩm*
+
+Các thuốc alkyl hóa (cyclophosphamide, thuốc tương tự platin)
+
+Bệnh bạch cầu
+
+Diethylstilbestrol (DES)
+
+Ung thư cổ tử cung âm đạo ở phụ nữ phơi nhiễm
+
+Thuốc ức chế miễn dịch
+
+Kaposi sarcoma
+
+Ung thư thận
+
+Lymphoma
+
+Ung thư tế bào hắc tố
+
+Ung thư da
+
+Oxymetholone
+
+Ung thư gan
+
+Chất ức chế topoisomerase (anthracyclines, etoposide)
+
+Bệnh bạch cầu
+
+* Nhân viên y tế phơi nhiễm với thuốc chống ung thư cũng có nguy cơ bị ảnh hưởng xấu đến khả năng sinh sản.
+
+* Nhân viên y tế phơi nhiễm với thuốc chống ung thư cũng có nguy cơ bị ảnh hưởng xấu đến khả năng sinh sản.
+
+Các chất trong chế độ ăn
+
+Một số chất được tiêu thụ trong chế độ ăn có thể làm tăng nguy cơ ung thư. Ví dụ, một chế độ ăn nhiều chất béo có liên quan đến việc tăng nguy cơ ung thư ruột kết, vú và có thể là ung thư tuyến tiền liệt. Những người uống nhiều rượu có nguy cơ cao mắc các bệnh ung thư khác nhau, bao gồm ung thư đầu cổ, gan và thực quản. Chế độ ăn nhiều thức ăn hun khói, chế biến sẵn hoặc trong thịt nấu ở nhiệt độ cao làm tăng nguy cơ bị ung thư dạ dày. Những người thừa cân hoặc béo phì có nguy cơ cao hơn bị nhiều loại ung thư, đặc biệt là ung thư vú, ung thư nội mạc tử cung, ung thư đại tràng, ung thư thận và ung thư thực quản.
+
+Các yếu tố vật lý
+
+Viêm da, phổi, đường tiêu hóa hoặc tuyến giáp mạn tính có thể dẫn đến sự tiến triển của ung thư. Ví dụ, bệnh nhân bị viêm đại tràng mạn tính (viêm loét đại tràng) có nguy cơ cao bị ung thư đại trực tràng.
+
+Tiếp xúc với ánh nắng mặt trời làm tăng nguy cơ ung thư da và ung thư hắc tố.
+
+Tài liệu tham khảo về các yếu tố môi trường
+
+1.
+
+White MK, Pagano JS, Khalili K
+
+. Viruses and human cancers: a long road of discovery of molecular paradigms.
+
+Clin Microbiol Rev
+
+2014;27(3):463-481. doi:10.1128/CMR.00124-13
+
+2.
+
+Lin WC, Tsai HF, Kuo SH, et al
+
+. Translocation of Helicobacter pylori CagA into Human B lymphocytes, the origin of mucosa-associated lymphoid tissue lymphoma. Cancer Res. 2010;70(14):5740-5748. doi:10.1158/0008-5472.CAN-09-46902.
+
+3.
+
+Parsonnet J, Hansen S, Rodriguez L, et al
+
+. Helicobacter pylori infection and gastric lymphoma.
+
+N Engl J Med
+
+1994;330(18):1267-1271. doi:10.1056/NEJM199405053301803
+
+4.
+
+Botelho MC, Richter J
+
+. Editorial: Parasites and Cancer.
+
+Front Med
+
+(Lausanne). 2019;6:55. Xuất bản ngày 22 tháng 3 năm 2019. doi:10.3389/fmed.2019.00055
+
+5.
+
+Baan R, Grosse Y, Straif K, et al
+
+. A review of human carcinogens--Part F: chemical agents and related occupations.
+
+Lancet Oncol
+
+2009;10(12):1143-1144. doi:10.1016/s1470-2045(09)70358-4
+
+Rối loạn miễn dịch
+
+Rối loạn chức năng hệ thống miễn dịch do đột biến gen di truyền, bệnh lý mắc phải, lão hóa hoặc thuốc ức chế miễn dịch làm cản trở quá trình giám sát miễn dịch bình thường đối với khối u giai đoạn đầu và dẫn đến tỷ lệ ung thư cao hơn. Các rối loạn miễn dịch liên quan đến ung thư được biết đến bao gồm
+
+Chứng thất điều- giãn mạch
+
+(bệnh bạch cầu cấp dòng lympho [ALL], u não, ung thư dạ dày)
+
+Hội chứng Wiskott-Aldrich
+
+(u lympho, bệnh bạch cầu cấp dòng lympho)
+
+Bệnh thiếu gamma-globulin liên quan đến nhiễm sắc thể X
+
+(u lympho, bệnh bạch cầu cấp dòng lympho)
+
+Suy giảm miễn dịch do thuốc ức chế miễn dịch hoặc nhiễm HIV (u lympho, ung thư thận, ung thư tế bào hắc tố, ung thư cổ tử cung, ung thư đầu và cổ, sarcoma Kaposi)
+
+Bệnh tự miễn dịch bao gồm
+
+lupus ban đỏ hệ thống
+
+,
+
+viêm khớp dạng thấp (RA)
+
+và
+
+Hội chứng Sjögren
+
+(u lympho tế bào B)
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Động học tế bào ---
+
+Thời gian thế hệ là thời gian cần thiết để một tế bào hoàn thành một chu kỳ phân chia tế bào (xem hìnhChu kỳ tế bào) và tạo ra 2 tế bào con. Các tế bào ung thu, đặc biệt là những tế bào có nguồn gốc từ tủy xương hay hệ bạch huyết có thể có thời gian nhân đôi ngắn hơn và thường có tỷ lệ tế bào ở pha G0 (pha nghỉ) ít hơn. Tế bào u ban đầu tăng sinh theo quy luật hàm số mũ sau đó đạt đến giới hạn khi số tế bào chết đi gần như tương đương với số tế bào mới sinh ra. Tốc độ tăng sinh tế bào chậm dần có thể liên quan tới sự cạn kiệt chất dinh dưỡng và Oxygen vốn cần thiết cho sự tăng trưởng nhanh của khối u. Các khối u nhỏ có tỷ lệ tế bào phân chia cao hơn so với khối u lớn.Quần thể con các tế bào trong bệnh ung thư có các đặc tính của tế bào gốc. Do đó các tế bào này có khả năng tăng sinh. Các tế bào đó cũng ít bị tổn thương do thuốc hóa trị hoặc xạ trị hơn. Các tế bào khối u có khả năng hồi phục phát triển trở lại sau phẫu thuật, hóa trị và/hoặc xạ trị.Động học tế bào của một số loại ung thư cụ thể là yếu tố quan trọng cần cân nhắc khi thiết kế phác đồ thuốc chống ung thư và có thể ảnh hưởng đến lịch trình dùng thuốc và khoảng thời gian điều trị. Nhiều loại thuốc chống ung thư, chẳng hạn như thuốc chống chuyển hóa, có hiệu quả nhất khi các tế bào đang phân chia tích cực. Một số loại thuốc chỉ có tác dụng trong một giai đoạn cụ thể của chu kỳ tế bào, đòi hỏi phải dùng thuốc trong thời gian dài để bắt kịp các tế bào phân chia trong giai đoạn nhạy cảm tối đa.Chu kỳ tế bàoG0=giai đoạn nghỉ (không tăng sinh tế bào); G1=giai đoạn tổng hợp tiền DNA có thể thay đổi (12 giờ đến vài ngày); S=tổng hợp DNA (thường từ 2 đến 4 giờ); G2=sau tổng hợp DNA (2 đến 4 giờ) — lượng DNA tứ bội được tìm thấy trong tế bào; M1=phân bào có tơ (1 đến 2 giờ).
+
+--- 2. Sự phát triển và di căn của ung thư ---
+
+Khi khối u phát triển, chất dinh dưỡng được cung cấp bởi sự khuếch tán trực tiếp từ hệ tuần hoàn. Sự phát triển tại chỗ của khối u được tăng cường bởi các enzym (như enzym tiêu protein), có vai trò phá hủy mô xung quanh. Khi thể tích ung thư tăng lên, ung thư có thể giải phóng các yếu tố hình thành mạch máu, chẳng hạn như yếu tố tăng trưởng nội mô mạch máu (VEGF), thúc đẩy sự hình thành các mạch máu mới cần thiết cho sự phát triển tiếp theo.Ung thư có thể giải phóng tế bào vào máu và hệ bạch huyết ngay từ giai đoạn phát triển rất sớm. Từ các mô hình động vật, ước tính một khối u 1 cm sẽ thải ra>1 triệu tế bào/24 giờ vào máu. Các tế bào ung thư tuần hoàn được tìm thấy ở nhiều bệnh nhân bị ung thư giai đoạn tiến triển và thậm chí ở một số ung thư giai đoạn khu trú. Mặc dù hầu hết các tế bào ung thư tuần hoàn sẽ chết đi, nhưng tế bào cơ hội có thể xâm nhập vào các mô, tạo ra di căn ở một vị trí xa. Các khối u di căn phát triển giống như ung thư nguyên phát và sau đó có thể làm phát sinh các khối u di căn khác. Hầu hết bệnh nhân ung thư chết vì di căn chứ không phải vì ung thư ở vị trí ban đầu.Các thí nghiệm cho thấy khả năng xâm nhập, di chuyển, cấy ghép thành công và kích thích tăng sinh mạch máu tân tạo là các đặc tính quan trọng của tế bào di căn, giống như một tập con của tế bào u nguyên phát.
+
+--- 3. Hệ thống miễn dịch và ung thư ---
+
+Trên bề mặt tế bào ung thư thường có các neoantigens mà hệ thống miễn dịch nhận dạng là "bất ngã", dẫn đến sự tấn công của hệ thống miễn dịch. Khi nào và nếu cuộc tấn công miễn dịch này có hiệu quả, ung thư có thể không bao giờ phát triển. Sự phá hủy các tế bào ung thư có thể được hoàn tất, trong trường hợp đó ung thư không bao giờ xuất hiện. Tuy nhiên, một số tế bào ung thư có hoặc có khả năng tránh được sự phát hiện và/hoặc tiêu diệt của hệ thống miễn dịch, cho phép chúng tiếp tục nhân lên.Hiện vẫn chưa rõ lý do tại saosuy giảm miễn dịch bẩm sinh hoặc mắc phảilại có nhiều khả năng phát triển các bệnh ung thư hiếm gặp như ung thư hắc tố da, ung thư biểu mô tế bào thận, u lympho mà không phải các bệnh ung thư phổ biến như ung thư phổi, vú, tuyến tiền liệt, đại tràng. Hầu hết các bệnh ung thư trong đó hệ thống miễn dịch hoạt động hiệu quả là do vi-rút gây ra.Dưới áp lực chọn lọc (ví dụ: tiến hóa), tế bào ung thư có thể đóng vai trò là các protein chốt kiểm soát miễn dịch. Protein điểm kiểm soát là các phân tử trên bề mặt tế bào, có chức năng báo hiệu cho tế bào T rằng các tế bào biểu hiện các protein này là bình thường và không nên bị tấn công. Ví dụ: protein PD-L1, được nhận ra bởi phân tử PD-1 trên các tế bào T; khi PD-L1 liên kết với PD-1 trên tế bào T, sẽ ngăn chặn được đợt tấn công của miễn dịch. Liệu pháp điều trị ung thư bằng cách sử dụng kháng thể đơn dòng gọi là chất ức chế chốt kiểm soát miễn dịch, ngăn chặn PD-L1 hoặc PD-1, cho phép hệ thống miễn dịch tấn công các tế bào ung thư được bảo vệ. Protein liên kết với tế bào lympho T gây độc tế bào 4 (CTLA-4) là một protein điểm kiểm soát khác ngăn chặn sự tấn công của hệ miễn dịch và có thể bị một kháng thể đặc hiệu chặn theo cách tương tự. Bởi vì các protein chốt kiểm soát miễn dịch có thể có mặt trên các tế bào bình thường, nên chất ức chế chốt kiểm soát miễn dịch cũng có thể tạo ra phản ứng tự miễn dịch.Tế bào T biến đổi gen (gọi là liệu pháp tế bào T kháng thụ thể chimeric [CAR-T] cũng có thể được sử dụng trong liệu pháp miễn dịch. Trong quá trình này, các tế bào T được lấy ra từ bệnh nhân và biến đổi gen để thể hiện các thụ thể có chứa một miền nhận diện cho một kháng nguyên cụ thể kết hợp với miền báo hiệu nội bào kích hoạt tế bào T. Khi các tế bào T biến đổi được truyền vào, chúng có thể tấn công các tế bào mang kháng nguyên đích đó. Thông thường, kháng nguyên đích chỉ đặc hiệu dòng dõi, không đặc hiệu đối với bệnh ung thư. Liệu pháp tế bào T CAR-T có hiệu quả nhất đối với các bệnh ung thư tế bào B nhưbệnh bạch cầu nguyên bào lympho cấp tính tế bào B,u lympho tế bào Bvàu tủy tế bào plasma(đa u tủy). Hiệu quả của liệu pháp tế bào CAR-T đối với các bệnh ung thư thể rắn thông thường vẫn chưa được xác định.
+
+--- 4. Bất thường về phân tử trong ung thư ---
+
+Các đột biến gen dẫn tới sự hình thành của các tế bào ung thư, do đó chúng xuất hiện trong tất cả các bệnh ung thư. Những đột biến này làm thay đổi số lượng hoặc chức năng của các sản phẩm protein điều hòa sự tăng trưởng và phân chia tế bào và sửa chữa DNA. Hai loại gen đột biến chính làGen sinh ung thưGen ức chế khối uGen sinh ung thưCác gen sinh ung là dạng bất thường của gen bình thường (proto-oncogenes) điều chỉnh các khía cạnh khác nhau của sự phát triển và biệt hóa tế bào. Đột biến các gen này gây ra kích thích trực tiếp và liên tục nhiều con đường dẫn truyền (ví dụ: các thụ thể yếu tố phát triển bề mặt tế bào, các con đường dẫn truyền tín hiệu tải nạp nội bào, các yếu tố sao chép, các yếu tố phát triển khác) kiểm soát sự tăng trưởng và phân chia tế bào, sửa chữa DNA, tăng sinh mạch và nhiều quá trình sinh lý học khác.Có>100 gen gây ung thư có thể góp phần vào sự chuyển dạng thành tế bào ung thư ở người. Ví dụ, genRASmã hoá protein ras, mang tín hiệu từ các thụ thể gắn vào màng tế bào trên con đường RAS- MAPKinase tới nhân tế bào, điều hòa phân chia tế bào. Các đột biến có thể dẫn đến sự hoạt hóa không thích hợp của protein ras, dẫn đến tăng trưởng tế bào không kiểm soát được. Protein ras bất thường ở khoảng 25% số bệnh ung thư ở người (1).Các gen sinh ung thư khác cũng được chỉ ra có liên quan đến các loại ung thư nhất định. Bao gồmHER2(khuếch đại trong ung thư vú và ung thư dạ dày và ít phổ biến hơn trong ung thư phổi)BCR::ABL1(gen thể khảm có trong bệnh bạch cầu mạn dòng tủy và một số bệnh bạch cầu cấp dòng lympho tế bào B)CMYCC-MYC (u lympho Burkitt)NMYCN-MYC (ung thư phổi tế bào nhỏ, u nguyên bào thần kinh)EGFR(ung thư biểu mô tuyến của phổi)EML4ALK(gen chimeric có trong ung thư biểu mô tuyến của phổi)KRAS(ung thư tuyến tụy, ung thư phổi)Các gen sinh ung thư đặc hiệu có thể có ý nghĩa quan trọng trong chẩn đoán, điều trị và tiên lượng (xem phần bàn luận về các loại ung thư cụ thể).Oncogenes thường là kết quả củaĐột biến điểm tế bào soma mắc phải (ví dụ: từ chất gây ung thư hóa học)Sự khuếch đại gen (ví dụ, sự gia tăng số lượng bản sao của một gen bình thường)Sự chuyển đoạn (trong đó các đoạn gen khác nhau được nối lại với nhau để tạo thành một trình tự duy nhất)Những thay đổi này có thể làm tăng hoạt tính của sản phẩm gen (protein) hoặc thay đổi chức năng của nó. Đôi khi, sự đột biến của các gen trong tế bào mầm dẫn đến sự di truyền của một xu hướng ung thư.Gen ức chế khối uCác gen nhưTP53BRCA1vàBRCA2đóng vai trò trong sự phân chia tế bào bình thường và sửa chữa DNA, rất cần thiết trong phát hiện tín hiệu tăng trưởng bất thường hay tổn thương DNA của tế bào. Nếu những gen này mất chức năng do đột biến di truyền hoặc đột biến mới, hệ thống theo dõi bắt cặp DNA bị mất hiệu quả, các tế bào có đột biến di truyền tự phát vẫn tồn tại và được nhân lên, cuối cùng hình thành khối u.Giống như hầu hết các gen, có 2 alen mã hoá cho mỗi gen ức chế khối u. Một allen bất thường của một gen có thể di truyền, dẫn đến cơ thể chỉ còn một allen còn chức năng của gen ức chế khối u. Nếu đột biếnxảy raở alen chức năng, cơ chế bảo vệ bình thường của gen ức chế khối u bình thường thứ hai sẽ bị mất.Một protein điều hoà quan trọng khác, p53, có vai trò ngăn ngừa sự sao chép DNA bị tổn thương ở tế bào bình thường và thúc đẩy sự chết tế bào theo chương trình (apoptosis) ở tế bào có DNA bất thường. Protein p53 bất hoạt hoặc bị thay đổi chức năng dẫn đến các tế bào có DNA bất thường tiếp tục sống sót và phân chia.TP53Các đột biến được di truyền cho các tế bào con, làm tăng nguy cơ sao chép DNA bất thường và hậu quả là sự chuyển dạng thành tế bào ung thư.TP53bị khiếm khuyết trong nhiều bệnh ung thư ở người.BRCA1vàBRCA2các đột biến làm giảm chức năng làm tăng nguy cơ ung thư vú và ung thư buồng trứng.Ví dụ, gen u nguyên bào võng mạc (RB) mã hoá protein Rb, có tác dụng điều hòa chu kỳ tế bào bằng cách dừng quá trình sao chép DNA. Các đột biến trong họ gia đình genRBxảy ra trong nhiều bệnh ung thư ở người, với các tế bào mang gen đột biến phân chia liên tục.Giống như các gen sinh ung thư, đột biến gen ức chế khối u nhưTP53hayRBở các dòng tế bào trong các dòng tế bào sinh dục có thể di truyền và làm tăng nguy cơ ung thư ở thế hệ sau.Bất thường nhiễm sắc thểBất thường về nhiễm sắc thểcó thể xảy ra thông qua cơ chế đột biến mất đoạn, đột biến chuyển đoạn, nhân đôi và các cơ chế khác. Nếu những biến đổi này làm hoạt hóa hay bất hoạt các gen mà dẫn đến tăng sự phân chia tế bào so với các tế bào bình thường, khi đó ung thư có thể phát triển. Bất thường về nhiễm sắc thể xảy ra ở nhiều bệnh ung thư ở người. Trong một số bệnh lý bẩm sinh (như hội chứng Bloom, thiếu máu Fanconi, hội chứng Down), quá trình sửa chữa DNA bị khiếm khuyết đứt gãy nhiễm sắc thể thường gặp, làm cho trẻ có nguy cơ cao mắc bệnh bạch cầu cấp và u lympho.Các ảnh hưởng khácHầu hết các loại ung thư biểu mô có thể là kết quả của một chuỗi các đột biến dẫn đến sự chuyển đổi của tế bào ung thư. Ví dụ, quá trình phát triển của ung thư đại tràng trong bệnh polyp có tính gia đình diễn ra thông qua một chuỗi các biến cố di truyền: tăng sinh biểu mô (mất gen ức chế trên nhiễm sắc thể 5), u tuyến giai đoạn đầu (thay đổi quá trình methyl hóa DNA), u tuyến giai đoạn trung gian (hoạt động quá mức củaRASgây ung thư), u tuyến giai đoạn muộn (mất gen ức chế trên nhiễm sắc thể 18) và cuối cùng là ung thư (mất gen trên nhiễm sắc thể 17). Các biến đổi di truyền tiếp theo có thể xảy ra để ung thư di căn.Các đoạn đầu nhiễm sắc thểlà các phức hợp nucleoprotein nằm ở đầu các đầu của nhiễm sắc thể giúp duy trì tính toàn vẹn của chúng. Ở mô bình thường, các đoạn đầu nhiễm sắc thể này ngắn dần (trong quá trình lão hóa) nên sự phân chia tế bào chỉ có giới hạn. Enzym telomerase, nếu được hoạt hoá trong tế bào khối u, hỗ trợ quá trình tổng hợp telomere mới và cho phép tăng sinh liên tục các tế bào bệnh ung thư. Bất thường di truyền trong các gen chịu trách nhiệm tái tạo telomere dẫn đến telomere ngắn lại, làm tăng nguy cơ ung thư đối với da, đường tiêu hóa và tủy xương.Tài liệu tham khảo về bất thường về phân tử1.Keeton AB, Salter EA, Piazza GA. The RAS-Effector Interaction as a Drug Target.Cancer Res2017;77(2):221-226. doi:10.1158/0008-5472.CAN-16-0938
+
+--- 5. Các yếu tố môi trường và ung thư ---
+
+Nhiễm trùngVirusgóp phần vào cơ chế bệnh sinh nhiều loại ung thư ở người (xem bảngVirus liên quan đến ung thư). Quá trình sinh bệnh có thể xảy ra thông qua sự tích hợp các yếu tố di truyền của vi rút vào DNA của vật chủ (1). Những gen mới này được biểu hiện ở người bệnh; chúng có thể ảnh hưởng đến sự tăng trưởng hoặc phân chia tế bào hoặc phá vỡ các gen bình thường ở tế bào người bệnh vốn cần thiết để kiểm soát sự tăng trưởng và phân chia tế bào. Ngoài ra, nhiễm virus có thể gây ra suy giảm miễn dịch, dẫn đến giảm kiểm soát miễn dịch đối với các khối u ở giai đoạn sớm. Nhiễm HIV làm tăng nguy cơ mắc một số bệnh ung thư (xem phầnUng thư thường gặp ở bệnh nhân nhiễm HIV).BảngCác virus liên quan đến ung thưBảngCác virus liên quan đến ung thưCác virus liên quan đến ung thưVirusMột số bệnh ung thư liên quanVi-rút Epstein-BarrU lympho BurkittU lympho HodgkinUng thư biểu mô vòm họngVi-rút viêm gan B hoặc vi-rút viêm gan CUng thư biểu mô tế bào ganPapillomavirus ở ngườiUng thư hậu mônUng thư cổ tử cungUng thư dương vậtUng thư amidan và đôi khi làcác bệnh ung thư đầu và cổkhácUng thư âm hộVi rút T-lymphotropic ở người-1 (HTVL-1)U lympho tế bào T người lớnVi rút herpes liên quan đến bệnh sarcoma KaposiKaposi sarcomaBệnh Castleman đa trung tâmU lympho tràn dịch nguyên phátPolyomavirus tế bào MerkelUng thư biểu mô tế bào MerkelVi khuẩncũng có thể gây ung thư.Nhiễm Helicobacter pylorilàm tăng nguy cơ mắc một số loại ung thư (ung thư biểu mô dạ dày, u lympho dạ dày, u lympho mô dạng lympho liên quan đến niêm mạc [MALT])(2,3).Ký sinh trùngmột số loại có thể dẫn đến ung thư.Schistosoma haematobiumvàClonorchis sinensisgây viêm mạn tính và xơ hóa bàng quang, có thể dẫn đến ung thư.Opisthorchis sinensiscó liên quan đến ung thư tuyến tụy và ống mật (4).Phóng xạTia cực tímcó thể gây ra ung thư da (ví dụ: ung thư biểu mô tế bào đáy và ung thư biểu mô tế bào vảy, ung thư tế bào hắc tố) do gây tổn thương DNA. Tổn thương DNA này bao gồm sự hình thành chất dimer thymidine gây ra tổn thương DNA, có thể ngăn cản quá trình cắt bỏ và tái tổng hợp chuỗi DNA bình thường. Những bệnh nhân có khiếm khuyết bẩm sinh trong quá trình sửa chữa DNA (ví dụ: bệnh khô da nhiễm sắc tố) hoặc bị suy giảm miễn dịch do thuốc hoặc mắc bệnh nền đặc biệt dễ bị ung thư da do tiếp xúc với tia cực tím.Bức xạ ion hoácũng gây ung thư. Ví dụ: những người sống sót sau vụ nổ bom nguyên tử ở Hiroshima và Nagasaki có tỷ lệ mắc bệnh bạch cầu và ung thư dạng đặc cao hơn dự kiến. Tương tự như vậy, phơi nhiễm với bức xạ trị liệu có thể dẫn đến bệnh bạch cầu, ung thư vú, khối u mô liên kết và các loại ung thư rắn khác nhiều năm sau khi phơi nhiễm. Phơi nhiễm với tia X trong các nghiên cứu chẩn đoán hình ảnh được cho là làm tăng nguy cơ bị ung thư (xem phầnNguy cơ của bức xạ y tế). Phơi nhiễm do nghề nghiệp (ví dụ: công nhân mỏ tiếp xúc với uranium) có liên quan đến phát triển của ung thư phổi, đặc biệt là ở những người hút thuốc. Phơi nhiễm kéo dài với chiếu xạ nghề nghiệp hoặc lắng đọng chất thori dioxit trong cơ thể gây ra sarcom mạch và bệnh bạch cầu cấp dòng tuỷ.Radon,một loại khí phóng xạ được giải phóng từ đất, làm tăng nguy cơ bị ung thư phổi, đặc biệt là ở những người hút thuốc. Thông thường, radon phân tán nhanh chóng vào khí quyển và không gây hại. Tuy nhiên, khi một tòa nhà được đặt trên đất có hàm lượng radon cao, radon có thể tích tụ, đôi khi tạo ra mức đủ cao trong không khí để gây hại.Thuốc và hóa chấtEstrogenvà progestin phối hợp trong thuốc ngừa thai đường uống có thể làm tăng nhẹ nguy cơ ung thư vú, nhưng nguy cơ này giảm theo thời gian. Liệu phápestrogenđơn thuần, không cóprogesterone, làm tăng nguy cơ ung thư tử cung. Những rủi ro gia tăng này ở mức độ vừa phải.Diethylstilbestrol (DES) làm tăng nguy cơ ung bị thư vú ở những phụ nữ dùng thuốc này. Chất này cũng làm tăng nguy cơ bị ung thư âm đạo ở những phụ nữ phoi nhiễm với chất này trước khi sinh khi mẹ họ dùng DES.Sử dụng steroid đồng hóa trong thời gian dài có thể làm tăng nguy cơ bị ung thư gan và đẩy nhanh quá trình ung thư tuyến tiền liệt.Điều trị ung thư chỉ bằng thuốc hóa trị hoặc kết hợp với xạ trị làm tăng nguy cơ phát triển bệnh ung thư thứ hai, cũng như thuốc ức chế miễn dịch dùng trong ghép tạng. Các loại ung thư thường gia tăng do thuốc ức chế miễn dịch là ung thư da (bao gồm cả ung thư hắc tố), ung thư thận và u nguyên bào thần kinh. Hydroxyurea làm tăng nguy cơ ung thư da do tiếp xúc với ánh nắng mặt trời, ngoài ra còn làm tăng nguy cơ mắc bệnh bạch cầu cấp tính ở những bệnh nhân mắc chứng rối loạn tăng sinh tủy (ví dụ: bệnh đa hồng cầu nguyên phát, bệnh tăng tiểu cầu) được điều trị lâu dài bằnghydroxyurea.Hydroxyureakhông chỉ gây đột biến mất đoạn 17p, dẫn đến mất alenTP53mà còn làm suy yếu hoạt động TP53 ở những bệnh nhân mắc chứng rối loạn tăng sinh tủy.Các chất hóa học gây ung thư có thể gây ra đột biến gen và dẫn đến phát triển không kiểm soát và hình thành khối u (xem bảngCác chất gây ung thư hóa học phổ biến) (5). Các chất khác, được gọi là hiệp đồng gây ung thư, có ít hoặc không có tiềm năng gây ung thư nhưng tăng cường khả năng gây ung thư của tác nhân khác khi phơi nhiễm đồng thời.BảngHóa chất thường gặp gây ung thưBảngHóa chất thường gặp gây ung thưHóa chất thường gặp gây ung thưChất gây ung thưLoại ung thưMôi trường và công nghiệpCác amin thơmUng thư bàng quangAsenUng thư phổiUng thư dachất amiăngUng thư phổiU trung biểu môBenzeneBệnh bạch cầuChromatesUng thư phổiChất thải dieselUng thư phổiFormaldehydeBệnh bạch cầuUng thư mũiUng thư vòm mũi họngThuốc nhuộm tócUng thư bàng quangLymphomaBức xạ ion hóaNhiều loại ung thưSợi khoáng công nghiệpUng thư phổiNikenUng thư phổiUng thư xoang mũiChất liệu sơnBệnh bạch cầuUng thư phổiThuốc trừ sâu, không có asenUng thư phổiRadonUng thư phổiPhóng xạHầu hết các loại ung thưTia cực tímUng thư daVinyl cloruaSarcom mạch máu của ganLối sốngRượuUng thư vúUng thư đại trực tràngUng thư thực quảnUng thư thanh quảnUng thư ganUng thư miệngUng thư hầu họngTrầuUng thư miệng-họngThuốc láBệnh bạch cầu cấp dòng tủyUng thư bàng quangUng thư cổ tử cungUng thư đại trực tràngUng thư thực quảnUng thư vùng đầu cổUng thư thậnUng thư ganUng thư phổiUng thư tụyUng thư dạ dàyDược phẩm*Các thuốc alkyl hóa (cyclophosphamide, thuốc tương tự platin)Bệnh bạch cầuDiethylstilbestrol (DES)Ung thư cổ tử cung âm đạo ở phụ nữ phơi nhiễmThuốc ức chế miễn dịchKaposi sarcomaUng thư thậnLymphomaUng thư tế bào hắc tốUng thư daOxymetholoneUng thư ganChất ức chế topoisomerase (anthracyclines, etoposide)Bệnh bạch cầu* Nhân viên y tế phơi nhiễm với thuốc chống ung thư cũng có nguy cơ bị ảnh hưởng xấu đến khả năng sinh sản.* Nhân viên y tế phơi nhiễm với thuốc chống ung thư cũng có nguy cơ bị ảnh hưởng xấu đến khả năng sinh sản.Các chất trong chế độ ănMột số chất được tiêu thụ trong chế độ ăn có thể làm tăng nguy cơ ung thư. Ví dụ, một chế độ ăn nhiều chất béo có liên quan đến việc tăng nguy cơ ung thư ruột kết, vú và có thể là ung thư tuyến tiền liệt. Những người uống nhiều rượu có nguy cơ cao mắc các bệnh ung thư khác nhau, bao gồm ung thư đầu cổ, gan và thực quản. Chế độ ăn nhiều thức ăn hun khói, chế biến sẵn hoặc trong thịt nấu ở nhiệt độ cao làm tăng nguy cơ bị ung thư dạ dày. Những người thừa cân hoặc béo phì có nguy cơ cao hơn bị nhiều loại ung thư, đặc biệt là ung thư vú, ung thư nội mạc tử cung, ung thư đại tràng, ung thư thận và ung thư thực quản.Các yếu tố vật lýViêm da, phổi, đường tiêu hóa hoặc tuyến giáp mạn tính có thể dẫn đến sự tiến triển của ung thư. Ví dụ, bệnh nhân bị viêm đại tràng mạn tính (viêm loét đại tràng) có nguy cơ cao bị ung thư đại trực tràng.Tiếp xúc với ánh nắng mặt trời làm tăng nguy cơ ung thư da và ung thư hắc tố.Tài liệu tham khảo về các yếu tố môi trường1.White MK, Pagano JS, Khalili K. Viruses and human cancers: a long road of discovery of molecular paradigms.Clin Microbiol Rev2014;27(3):463-481. doi:10.1128/CMR.00124-132.Lin WC, Tsai HF, Kuo SH, et al. Translocation of Helicobacter pylori CagA into Human B lymphocytes, the origin of mucosa-associated lymphoid tissue lymphoma. Cancer Res. 2010;70(14):5740-5748. doi:10.1158/0008-5472.CAN-09-46902.3.Parsonnet J, Hansen S, Rodriguez L, et al. Helicobacter pylori infection and gastric lymphoma.N Engl J Med1994;330(18):1267-1271. doi:10.1056/NEJM1994050533018034.Botelho MC, Richter J. Editorial: Parasites and Cancer.Front Med(Lausanne). 2019;6:55. Xuất bản ngày 22 tháng 3 năm 2019. doi:10.3389/fmed.2019.000555.Baan R, Grosse Y, Straif K, et al. A review of human carcinogens--Part F: chemical agents and related occupations.Lancet Oncol2009;10(12):1143-1144. doi:10.1016/s1470-2045(09)70358-4
+
+--- 6. Rối loạn miễn dịch ---
+
+Rối loạn chức năng hệ thống miễn dịch do đột biến gen di truyền, bệnh lý mắc phải, lão hóa hoặc thuốc ức chế miễn dịch làm cản trở quá trình giám sát miễn dịch bình thường đối với khối u giai đoạn đầu và dẫn đến tỷ lệ ung thư cao hơn. Các rối loạn miễn dịch liên quan đến ung thư được biết đến bao gồmChứng thất điều- giãn mạch(bệnh bạch cầu cấp dòng lympho [ALL], u não, ung thư dạ dày)Hội chứng Wiskott-Aldrich(u lympho, bệnh bạch cầu cấp dòng lympho)Bệnh thiếu gamma-globulin liên quan đến nhiễm sắc thể X(u lympho, bệnh bạch cầu cấp dòng lympho)Suy giảm miễn dịch do thuốc ức chế miễn dịch hoặc nhiễm HIV (u lympho, ung thư thận, ung thư tế bào hắc tố, ung thư cổ tử cung, ung thư đầu và cổ, sarcoma Kaposi)Bệnh tự miễn dịch bao gồmlupus ban đỏ hệ thống,viêm khớp dạng thấp (RA)vàHội chứng Sjögren(u lympho tế bào B)

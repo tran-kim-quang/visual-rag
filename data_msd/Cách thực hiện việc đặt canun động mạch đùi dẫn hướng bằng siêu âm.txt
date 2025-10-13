@@ -1,0 +1,535 @@
+TIÊU ĐỀ: Cách thực hiện việc đặt canun động mạch đùi, dẫn hướng bằng siêu âm
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/cách-thực-hiện-các-thủ-thuật-mạch-máu-trung-tâm/cách-thực-hiện-việc-đặt-canun-động-mạch-đùi-dẫn-hướng-bằng-siêu-âm
+================================================================================
+
+NỘI DUNG:
+
+Cách thực hiện việc đặt canun động mạch đùi, dẫn hướng bằng siêu âm
+
+Theo
+
+Cherisse Berry
+
+,
+
+MD
+
+,
+
+Rutgers Health, New Jersey Medical School
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 10 2024
+
+|
+
+đã sửa đổi
+
+Thg 2 2025
+
+v39771219_vi
+
+Đặt canun động mạch đùi có dẫn hướng bằng siêu âm sử dụng sóng siêu âm thời gian thực (động) để dẫn hướng chọc dò động mạch và một dây dẫn hướng (kỹ thuật Seldinger) để luồn một ống thông qua động mạch đùi và vào động mạch chủ đầu xa.
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Các biến chứng
+
+|
+
+Thiết bị
+
+|
+
+Cân nhắc bổ sung
+
+|
+
+Giải phẫu liên quan
+
+|
+
+Tư thế
+
+|
+
+Mô tả các bước tiến hành thủ thuật.
+
+|
+
+Cảnh báo và các lỗi thường gặp
+
+|
+
+Dẫn hướng bằng siêu âm rất hữu ích trong việc đặt canun các động mạch không thể sờ thấy được (ví dụ: do béo phì hoặc do động mạch nhỏ). Khi có dẫn hướng siêu âm và nhân viên được đào tạo, phương pháp này có thể được sử dụng.
+
+(Xem thêm
+
+Tiếp cận mạch máu
+
+và
+
+Đặt ống thông tĩnh mạch trung tâm
+
+.)
+
+Chỉ định đặt canun động mạch đùi, có dẫn hướng bằng siêu âm
+
+Dùng cho bệnh nhân bệnh nặng, tình trạng không ổn định, đặc biệt là những bệnh nhân bị sốc kháng trị và suy hô hấp:
+
+Đo huyết áp liên tục
+
+Đo khí máu lặp lại (áp suất riêng phần của oxy trong máu động mạch [PO2], áp suất riêng phần của carbon dioxide [PCO2], pH)
+
+Đo chức năng tim liên tục, thay cho đặt ống thông động mạch phổi
+
+Lấy các mẫu máu lặp đi lặp lại để làm các xét nghiệm
+
+Đặt canun động mạch cũng được sử dụng trong các trường hợp dịch chuyển lớn hoặc mất máu (ví dụ: đại phẫu thuật), hỗ trợ co bóp cơ tim và hạ thân nhiệt (bao gồm cả hạ thân nhiệt do gây mê) và để chụp mạch, nút mạch điều trị và kiểm soát xuất huyết khi đặt ống thông có bóng nong để nút động mạch chủ hồi sức (REBOA).
+
+Chống chỉ định đặt canun động mạch đùi, có dẫn hướng bằng siêu âm
+
+Chống chỉ định tuyệt đối
+
+Người vận hành siêu âm chưa được đào tạo hoặc thiếu kinh nghiệm
+
+Động mạch không phù hợp, bị huyết khối, xơ vữa nặng hoặc không thể tiếp cận được khi được siêu âm
+
+Chấn thương hoặc nghi ngờ chấn thương động mạch đùi hoặc động mạch chậu ngoài cùng bên do chấn thương
+
+Một động mạch không thể sờ thấy hoặc không thể phát hiện được bằng siêu âm (tức là, nếu không rõ vị trí động mạch thì không nên đặt canun)
+
+Tuần hoàn không đầy đủ (ví dụ:
+
+hội chứng Raynaud
+
+,
+
+viêm tắc mạch huyết khối
+
+)
+
+Bỏng dày toàn bộ
+
+Nhiễm trùng cục bộ tại vị trí chọc kim
+
+Ống thông tẩm kháng sinh ở bệnh nhân bị dị ứng với loại kháng sinh cụ thể
+
+Chống chỉ định tương đối
+
+Bệnh lý đông máu, bao gồm giảm tiểu cầu hoặc thuốc chống đông máu (bao gồm thuốc chống kết tập tiểu cầu)*
+
+Biến dạng giải phẫu cục bộ, do chấn thương hoặc bẩm sinh, hoặc do béo phì
+
+Tiền sử trước đây có phẫu thuật hoặc đặt ống thông ở vị trí dự định đặt†
+
+Xơ vữa động mạch
+
+Dòng chảy bàng hệ không đủ
+
+Bệnh nhân không hợp tác (nên dùng thuốc an thần nếu cần thiết)
+
+* Thuốc chống đông máu (ví dụ: thuốc chống rung nhĩ) làm tăng nguy cơ chảy máu khi đặt canun động mạch đùi, nhưng nguy cơ này phải được cân nhắc so với tăng nguy cơ bị huyết khối (ví dụ: đột quỵ) nếu tác dụng chống đông máu bị đảo ngược. Thảo luận về bất kỳ phương pháp đảo ngược nào được cân nhắc với bác sĩ lâm sàng quản lý thuốc chống đông máu của bệnh nhân và với bệnh nhân.
+
+† Cần phải tránh cắt động mạch đùi sau khi phẫu thuật bắc cầu mạch máu (vì có thể gây tổn thương cho mảnh ghép bắc cầu) và ở những bệnh nhân bị suy mạch máu đoạn xa (để tránh gây khởi phát thiếu máu cục bộ).
+
+Các biến chứng của đặt canun động mạch đùi, có dẫn hướng bằng siêu âm
+
+Các biến chứng tiềm tàng gồm
+
+Khối máu tụ
+
+Nhiễm trùng
+
+Làm tổn thương động mạch
+
+Huyết khối (do chính ống thông)
+
+Thủng động mạch
+
+Tổn thương dây thần kinh
+
+Thuyên tắc khí (ví dụ, xảy ra trong quá trình xả ống thông)
+
+Ống thông lạc chỗ
+
+Thủng bàng quang hoặc thủng ruột
+
+Để giảm nguy cơ nhiễm trùng đường máu liên quan đến đường truyền trung tâm (CLABSI), ống thông động mạch đùi cần phải được tháo ra ngay khi không còn cần dùng nữa.
+
+Tỷ lệ huyết khối và thiếu máu cục bộ đầu xa cao hơn nhiều so với ống thông động mạch quay.
+
+Các biến chứng hiếm gặp bao gồm thiếu máu cục bộ ở chi và hoại tử chi, giả phình mạch và lỗ rò động-tĩnh mạch. Dây dẫn hướng, ống thông, hoặc thuyên tắc cholesterol cũng hiếm khi xảy ra.
+
+Thiết bị để đặt canun động mạch đùi, có dẫn hướng bằng siêu âm
+
+Quy trình vô trùng, bảo vệ hàng rào
+
+Dung dịch sát trùng (ví dụ: chlorhexidine-cồn, chlorhexidine, povidone-iodine, cồn)
+
+Săng mổ vô trùng cỡ lớn, khăn lau
+
+Mũ, khẩu trang, áo choàng, găng tay vô trùng
+
+Tấm chắn mặt
+
+Hướng dẫn siêu âm
+
+Máy siêu âm có tần số cao (ví dụ: 5 đến 10 MHz), đầu dò mảng tuyến tính (đầu dò)
+
+Gel siêu âm, không vô trùng và vô trùng
+
+Vỏ bọc đầu dò vô trùng cho đầu dò và dây đầu dò và dây cao su vô trùng (hoặc có thể đặt đầu dò bên trong găng tay vô trùng và dây quấn bên trong vải phủ vô trùng)
+
+Kỹ thuật Seldinger (catheter qua dây dẫn hướng)
+
+Thuốc gây tê tại chỗ (ví dụ: lidocaine 1% không có epinephrine, khoảng 5 mL)
+
+Kim gây mê nhỏ (ví dụ: cỡ 25 đến 27 gauge, dài khoảng 3 cm)
+
+Kim gây mê lớn (cỡ 22 gauge, dài 4 cm)
+
+Kim của bộ đặt động mạch đùi (ví dụ: cỡ 18 gauge, dài 7 cm)
+
+Ống tiêm 3 và 5 mL (sử dụng ống tiêm có đầu trượt cho kim của dụng cụ đặt ống thông)
+
+Dây dẫn hướng (dài 30 cm)
+
+Dao mổ (lưỡi số 11)
+
+Ống thông động mạch đùi (4 French [hoặc 18 hoặc 20 gauge] một ống thông đơn, dài ≥ 15 cm)
+
+Gạc vô trùng (ví dụ: hình vuông 10 × 10 cm)
+
+Nước muối sinh lý vô trùng để rửa ống áp lực và ống thông động mạch
+
+Chỉ lụa hoặc nylon không tiêu (ví dụ, 3-0 hoặc 4-0)
+
+Miếng dán chlorhexidine, băng kín trong suốt
+
+Theo dõi áp suất động mạch
+
+Đường ống động mạch (ống áp lực không giãn nở)
+
+Cảm biến và máy theo dõi huyết áp (máy nghiệm dao động)
+
+2 khóa chặn ba chiều
+
+Xả nước muối sinh lý liên tục (túi 0,5 hoặc 1 L nước muối sinh lý thông thường, máy tiêm định lượng và thiết bị xả liên tục [cho phép theo dõi áp lực động mạch đồng thời và nhỏ giọt nước muối sinh lý chậm để giữ cho ống thông mở])
+
+Ngược lại với việc đặt ống thông tĩnh mạch trung tâm, việc sử dụng dụng cụ nong mô không được khuyến khích khi đặt ống thông động mạch đùi để ngăn ngừa mất máu quá nhiều do giãn động mạch hoặc tổn thương động mạch ngoài ý muốn.
+
+Không sử dụng các thiết bị catheter qua kim hoặc catheter xuyên qua kim để đặt ống thông động mạch đùi.
+
+Cần phải có 1 hoặc 2 trợ lý.
+
+Cân nhắc bổ sung
+
+Chế độ xem siêu âm trục ngắn (mặt cắt ngang, ngang) rất dễ lấy và là chế độ xem tốt hơn để xác định các tĩnh mạch và động mạch cũng như hướng của chúng với nhau. Việc xác định một đầu kim ở mặt cắt ngang cần phải có một số kỹ năng vì kim xuất hiện dưới dạng một chấm phản xạ (màu trắng) và đầu kim chỉ có thể được phân biệt bằng sự biến mất và xuất hiện lại của chấm đầu kim khi đầu kim đi qua lại trên mặt phẳng hình ảnh.
+
+Chế độ xem trục ngắn thường được sử dụng để xác định vị trí chọc mạch máu thích hợp và để dẫn hướng việc đưa kim theo góc nghiêng (ví dụ, ≥ 45°).
+
+Chế độ xem siêu âm trục dài (dọc, trong mặt phẳng) về mặt kỹ thuật khó thực hiện hơn (phải giữ đầu dò, động mạch và kim trên cùng một mặt phẳng), nhưng nó cho thấy kim theo chiều dọc, do đó toàn bộ kim, bao gồm cả đầu kim, có thể được chụp liên tục khi nó tiếp cận và đi vào mạch máu; chế độ xem liên tục này giúp tránh vị trí bất thường.
+
+Chế độ xem trục dài rất hữu ích khi góc đâm kim nông (ví dụ: trong trường hợp đặt canun ở nách/dưới xương đòn) và để khẳng định mức thẳng hàng kim theo chiều dọc thích hợp trong quá trình đâm kim theo trục ngắn.
+
+Nếu cần phải đặt canun lần thứ hai, hãy sử dụng thiết bị mới (tức là không tái sử dụng kim, ống thông hoặc thiết bị khác vì các ống thông đó có thể bị mô hoặc máu làm tắc nghẽn).
+
+Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.
+
+Giải phẫu liên quan trong đặt canun động mạch đùi, có dẫn hướng bằng siêu âm
+
+Động mạch và tĩnh mạch đùi có thể tiếp cận được trong tam giác đùi, được xác định bởi dây chằng bẹn ở trên, ở trong là cơ khép dài và ở ngoài là cơ may.
+
+Dây chằng bẹn nằm dưới da theo đường thẳng giữa xương mu và gai chậu trước trên.
+
+Hình ảnh động mạch đùi nằm dưới điểm giữa của dây chằng bẹn.
+
+Hình ảnh tĩnh mạch đùi ở trong tiếp giáp với động mạch. Với khoảng cách ngày càng tăng từ dây chằng bẹn, tĩnh mạch chạy dưới động mạch. Tuy nhiên, các mạch máu này thường xuyên có thay đổi hướng.
+
+Dây thần kinh đùi nằm bên ngoài động mạch.
+
+Động mạch đùi to và nằm sâu. Đặt canun cần có góc đâm kim dốc (45°) cũng như kim và ống thông có đường kính lớn hơn và dài hơn và cần phải có kỹ thuật ống thông qua dây dẫn hướng (Seldinger) (so với phương pháp đặt canun động mạch quay.
+
+Vị trí chọc kim ở da bị ảnh hưởng bởi cả hình ảnh và kích thước của đầu dò.
+
+Điểm chọc vào động mạch đùi mong muốn là gần chỗ phân nhánh của nó vào động mạch đùi nông và động mạch đùi sâu và thấp hơn dây chằng bẹn. Chảy máu do chọc đi chọc lại vào mạch máu ở đây có thể được kiểm soát bằng cách ép từ bên ngoài lên các mạch máu vào chỏm xương đùi.
+
+Khoảng sau phúc mạc nằm trên dây chằng bẹn. Chọc đi chọc lại vào mạch máu ở đây gây chảy máu sau phúc mạc và không thể ép từ bên ngoài vào các mạch máu để cầm máu được.
+
+Giải phẫu mạch máu vùng đùi
+
+Mô hình 3D
+
+Tư thế đặt canun động mạch đùi, có dẫn hướng bằng siêu âm
+
+Nâng giường lên độ cao thoải mái cho bạn (tức là bạn có thể đứng thẳng trong khi làm thủ thuật).
+
+Bệnh nhân ở tư thế nằm ngửa.
+
+Chân giạng và xoay ngoài.
+
+Rút bỏ màng máu hoặc thu ống thông niệu đạo khỏi vùng bẹn (sử dụng băng dính hoặc người hỗ trợ nếu cần).
+
+Mô tả từng bước đặt canun động mạch đùi, có dẫn hướng bằng siêu âm
+
+Kiểm tra xem máy siêu âm đã được cấu hình và hoạt động chính xác chưa: Đảm bảo rằng hình ảnh trên màn hình mà bạn đang xem tương quan với hướng không gian của đầu dò khi bạn đang cầm và di chuyển nó. Vạch đánh dấu ở mặt bên trên đầu dò tương ứng với điểm đánh dấu trên màn hình siêu âm. Điều chỉnh cài đặt màn hình và vị trí đầu dò nếu cần để đạt được hướng trái phải chính xác.
+
+Tiến hành kiểm tra siêu âm không vô trùng (tức là sử dụng đầu dò không che phủ và gel không vô trùng) của động mạch đùi cách dây chằng bẹn khoảng 2,5 cm và xác định xem động mạch có phù hợp để đặt canun hay không. Sử dụng chế độ xem trục ngắn (mặt cắt ngang). Mạch máu giảm âm (xuất hiện màu đen trên màn hình siêu âm). Các động mạch nói chung nhỏ hơn, có thành dày và tròn (thay vì thành mỏng và hình trứng) và ít dễ bị nén (khi ép nhẹ lên da bên trên) hơn so với các tĩnh mạch bắt cặp của động mạch.
+
+Sử dụng chế độ Doppler màu để xác định mức độ thông của lòng động mạch và chế độ Doppler quang phổ để xác định dòng máu đập trong động mạch.
+
+Đặt canun động mạch đùi tại vị trí có hình ảnh trục ngắn tối ưu (nghĩa là, mặt cắt ngang có đường kính lớn của động mạch, không có tĩnh mạch bên trên).
+
+Lông thừa có thể được kẹp lại nhưng không được cạo khỏi vị trí đó. Cạo lông làm tăng nguy cơ nhiễm trùng.
+
+Chuẩn bị thiết bị
+
+Đặt dụng cụ vô trùng trên các khay dụng cụ tiệt trùng được đậy kín.
+
+Sử dụng thiết bị bảo hộ cá nhân thích hợp.
+
+Rút thuốc gây tê cục bộ vào một ống tiêm.
+
+Lắp kim của dụng cụ đặt ống thông động mạch đùi vào một ống tiêm 5 mL có từ 1 đến 2 mL nước muối sinh lý vô trùng trong đó.
+
+Hút nước muối sinh lý vô trùng vào một ống tiêm 3 hoặc 5 mL sẽ dùng để rửa.
+
+Lắp ống cảm biến vào cảm biến huyết áp và rửa ống đó bằng nước muối sinh lý thông thường vô trùng.
+
+Chuẩn bị trường mổ vô trùng
+
+Dùng dung dịch sát trùng quét một vùng da rộng, từ gai chậu trước trên đến đường giữa và kéo dài xuống dưới dây chằng bẹn 15 cm.
+
+Để dung dịch sát khuẩn khô trong ít nhất 1 phút.
+
+Đặt khăn lau vô trùng xung quanh vị trí chọc kim.
+
+Đặt các săng mổ vô trùng lớn (ví dụ, săng mổ che toàn thân) để thiết lập một trường vô trùng lớn.
+
+Đeo khẩu trang và mũ vô trùng.
+
+Mặc áo choàng và đeo găng tay vô trùng.
+
+Trùm vỏ bọc vô trùng lên đầu dò siêu âm
+
+Chỉ đạo người trợ lý của bạn (không vô trùng) phủ đầu dò bằng gel siêu âm không vô trùng và sau đó cầm đầu dò, hướng đầu của đầu dò lên trên, ngay bên ngoài trường vô trùng.
+
+Luồn tay thuận có đeo găng tay của bạn vào vỏ bọc đầu dò vô trùng.
+
+Dùng tay thuận của bạn nắm chặt đầu của đầu dò (bây giờ đã được che bởi vỏ bọc đầu dò).
+
+Sử dụng bàn tay không thuận đã đeo găng của bạn để dàn vỏ bọc vô trùng trên đầu dò và vuốt nó xuống hết theo dây.
+
+Không chạm vào dây không được bọc kín cũng không để dây chạm vào trường vô trùng khi bạn dàn vỏ bọc.
+
+Kéo chặt nắp đậy đầu dò để loại bỏ hết bọt khí và đảm bảo đầu dò được phủ gel siêu âm.
+
+Quấn dây cao su vô trùng xung quanh đầu dò để cố định vỏ bọc ở nguyên vị trí.
+
+Bây giờ đầu dò được bọc kín có thể để trên săng mổ vô trùng.
+
+Gây tê tại chỗ đặt canun
+
+Bôi gel siêu âm vô trùng lên đầu của đầu dò đã được bọc kín.
+
+Sử dụng dẫn hướng siêu âm trục ngắn:
+
+Lấy hình ảnh cắt ngang tối ưu của động mạch đùi cách dây chằng bẹn khoảng 2,5 cm.
+
+Trượt đầu dò theo chiều ngang nếu cần để đặt hình ảnh động mạch ở trung tâm của màn hình siêu âm.
+
+Khi động mạch nằm ở giữa trên màn hình siêu âm, điểm giữa của đầu dò sẽ trở thành điểm đánh dấu bề mặt chỉ định trung tâm lòng động mạch bên dưới.
+
+Giữ đầu dò ở vị trí này.
+
+Trên màn hình siêu âm, đo độ sâu đến trung tâm của động mạch.
+
+Khi sử dụng dẫn hướng siêu âm trục ngắn, chọc kim thủ thuật (gây tê cục bộ và kim của dụng cụ đặt ống thông) vào da tại điểm ở đầu xa và vuông góc với điểm giữa của đầu dò bằng khoảng cách của độ sâu động mạch. Sau đó, ban đầu đẩy kim vào da theo một góc 45° hướng về điểm giữa của đầu dò. Liên tục giữ áp lực âm nhẹ trên pít-tông khi bạn đẩy kim.
+
+Tiêm một nốt sẩn thuốc tê tại điểm chọc kim, sau đó tiêm thuốc tê vào da và các mô mềm dọc theo đường 45° dẫn đến động mạch.
+
+Hơi nghiêng đầu dò về phía trước và phía sau khi bạn đẩy kim gây tê để liên tục xác định đầu kim và giữ cho nó cách xa động mạch và tĩnh mạch một cách an toàn.
+
+Chọc kim của dụng cụ đặt ống thông động mạch đùi bằng dẫn hướng siêu âm
+
+Tiếp tục sử dụng hướng dẫn siêu âm trục ngắn (như mô tả ở trên để tiêm thuốc gây tê tại chỗ).
+
+Chọc kim của dụng cụ đặt ống thông (với phần vát kim hướng lên trên).
+
+Đẩy kim về phía trước trong khi hút.
+
+Duy trì hình ảnh siêu âm của đầu kim khi bạn đẩy kim bằng cách liên tục nghiêng đầu dò về phía trước và phía sau một chút (đầu kim xuất hiện và biến mất khi mặt phẳng siêu âm quét qua lại trên nó).
+
+Nếu đầu kim đi lạc khỏi động mạch,
+
+hãy điều chỉnh hướng ngoài của kim để giữ cho đầu kim ở trên tâm của động mạch.
+
+Nếu đầu kim tiến đến động mạch quá chậm,
+
+hãy rút kim ra một chút, tăng góc đưa kim vào và tiến lại.
+
+Khi đầu kim tiến gần đến động mạch, hãy điều chỉnh tốc độ và góc đâm kim để kim có thể đi vào một cách có kiểm soát nhất có thể.
+
+Thành bề ngoài của động mạch sẽ thụt vào khi đầu kim chạm vào nó. Sau đó, kim chọc tiếng pốp qua thành đó để đi vào lòng động mạch, kèm theo một tia máu đỏ tươi (nếu được thở oxy bình thường) trong nòng của ống tiêm.
+
+Giữ ống tiêm bất động tại vị trí này và luôn hiển thị đầu kim. Tình trạng di lệch là phổ biến, và thậm chí một cử động nhẹ cũng có thể làm di lệch đầu kim ra khỏi động mạch.
+
+Lấy ống tiêm ra khỏi kim bằng tay thuận của bạn. Ghi nhận dòng máu đỏ tươi đang đập.
+
+Sau đó, ngay lập tức đặt ngón tay cái của bạn qua đốc kim để ngăn dòng máu (có thể chảy nhiều do đặt canun động mạch) và ngăn không khí xâm nhập vào hệ thống động mạch.
+
+Tùy chọn: Nếu đoạn động mạch đùi có thể tiếp cận đủ dài để chứa trục dài của đầu dò, trước tiên bạn có thể sử dụng chế độ xem trục ngắn (mặt cắt ngang) để hướng kim vào động mạch và sau đó xoay đầu dò 90° để lấy chế độ xem trục dài (trong mặt phẳng, theo chiều dọc) của kim và động mạch, cho hình ảnh rõ hơn về chọc dò động mạch. Di chuyển đầu dò nếu cần để giữ cả kim và động mạch trong tầm nhìn (trong mặt phẳng). Dùng đầu dò ấn nhẹ để động mạch vẫn nằm dưới đầu dò và không lăn sang một bên.
+
+Luồn dây dẫn hướng
+
+Tiếp tục giữ bất động kim của dụng cụ đặt ống thông.
+
+Chọc đầu cong chữ J của dây dẫn hướng vào kim của dụng cụ đặt ống thông với đường cong chữ J hướng lên trên. Bạn có thể sử dụng dẫn hướng siêu âm (trục ngắn hoặc trục dài) để xác minh dây dẫn hướng đã vào động mạch.
+
+Đẩy dây dẫn hướng qua kim của dụng cụ đặt ống thông và động mạch. Không nên ép dây dẫn hướng; dây dẫn hướng phải trượt nhẹ nhàng. Dưới dẫn hướng siêu âm trục dài, bạn có thể cẩn thận làm phẳng góc đâm kim trong khi vẫn giữ đầu kim trong động mạch, tạo điều kiện cho dây dẫn hướng đi qua. Đẩy dây dẫn hướng vào sâu bên trong bình cho đến khi dây cách mạch máu ít nhất khoảng 8 cm đến 10 cm.
+
+Không bao giờ được thả dây dẫn hướng ra. Mặc dù hiếm gặp, tình trạng tắc nghẽn dây dẫn hướng do nguyên nhân y khoa có thể xảy ra.
+
+Sau khi dây dẫn hướng đã được đưa vào, điều quan trọng là phải tiếp tục giữ chặt dây bằng một tay và kiểm soát dây trong suốt quá trình thực hiện.
+
+Nếu bạn cảm thấy có bất kỳ lực cản nào khi bạn đẩy dây dẫn hướng,
+
+hãy dừng lại và sử dụng dẫn hướng siêu âm để kiểm tra vị trí của dây dẫn hướng và kim. Cố gắng nhẹ nhàng rút dây dẫn hướng ra một chút, xoay nhẹ rồi đẩy vào lại hoặc cố gắng nhẹ nhàng rút toàn bộ dây ra, đưa đầu kim trở lại động mạch (xác nhận bằng cách kiểm tra máu tĩnh mạch đã hồi về) rồi luồn lại dây vào.
+
+Tuy nhiên, nếu bạn cảm thấy có bất kỳ lực cản nào khi rút dây,
+
+hãy chấm dứt thủ thuật và rút kim và dây dẫn hướng cùng nhau cùng một lúc (để ngăn đầu kim cắt qua dây dẫn hướng bên trong bệnh nhân). Sau đó, dùng gạc vuông giữ đè bên ngoài lên khu vực đó trong 10 phút để giúp ngăn ngừa chảy máu và tụ máu.
+
+Đặt ống thông động mạch đùi dư...
+
+Các video
+
+Tháo kim của dụng cụ đặt ống thông (sau khi luồn dây dẫn hướng thành công)
+
+Đầu tiên, cầm chắc dây dẫn hướng ở đầu xa kim khi bạn rút kim ra khỏi da.
+
+Sau đó, giữ chặt dây dẫn hướng trên bề mặt da khi bạn trượt kim xuống chiều dài còn lại của dây dẫn hướng để lấy kim ra.
+
+Sau khi kim đã được rút ra, hãy siêu âm lại động mạch theo cả mặt phẳng ngang và mặt phẳng dọc để xác nhận vị trí của dây dẫn hướng trong động mạch.
+
+Mở rộng vị trí chọc da
+
+Sử dụng dao mổ, rạch một vết nhỏ (<5 mm) vào vị trí chọc ở da, tránh tiếp xúc với dây dẫn hướng, để mở rộng vị trí đó và cho nó phù hợp với đường kính lớn hơn của ống thông động mạch đùi. Không được thả dây dẫn hướng.
+
+Đặt ống thông
+
+Đẩy ống thông qua dây dẫn hướng đến bề mặt da: Giữ dây dẫn hướng cố định trên bề mặt da, luồn đầu ống thông qua đầu xa của dây dẫn hướng và trượt ống thông xuống bề mặt da theo góc 45°. Đầu xa của dây dẫn hướng bây giờ sẽ nhô ra khỏi cổng đốc.
+
+Nếu đầu xa của dây dẫn hướng không nhô ra khỏi đốc kim ở cổng,
+
+hãy từ từ đẩy dây dẫn hướng ra ngoài bề mặt da trong khi giữ đầu ống thông gần bề mặt cho đến khi dây dẫn hướng nhô ra.
+
+Đẩy ống thông vào động mạch: Nắm chặt và điều khiển dây dẫn hướng ở nơi nó nhô ra khỏi đốc. Giữ ống thông gần đầu dây dẫn hướng và đưa đầu ống qua da. Sau đó, sử dụng chuyển động vặn nút chai khi cần thiết, đẩy dần toàn bộ chiều dài của ống thông động mạch đùi.
+
+Sử dụng siêu âm để xác minh vị trí đặt ống thông vào động mạch.
+
+Tiếp tục nắm cả dây dẫn hướng và ống thông.
+
+Rút dây dẫn hướng: Rút dây dẫn hướng trong khi giữ cố định ống thông ở vị trí trên bề mặt da. Quý vị sẽ thấy máu chảy ra từ ống thông theo từng nhịp đập. Dùng ngón tay cái của bạn che đốc.
+
+Lắp ống đầu dò áp lực động mạch (đã được rửa sạch bằng nước muối sinh lý) vào đốc ống thông và xác minh dạng sóng áp lực động mạch trên màn hình điều khiển.
+
+Để đo áp lực ống thông động mạch chính xác, hãy đảm bảo rằng van khóa trên đầu dò được cân bằng thích hợp với tim (trục tĩnh mạch của bệnh nhân, là giao điểm của khoảng liên sườn thứ tư và đường nách giữa).
+
+Băng chỗ chọc kim
+
+Nếu bệnh nhân tỉnh táo hoặc được an thần nhẹ, hãy sử dụng lidocaine 1% để gây tê da tại các vị trí khâu đã định.
+
+Đặt một đĩa tẩm chlorhexidine lên da tại điểm đặt ống thông.
+
+Khâu kẹp gắn trên ống thông vào da.
+
+Đắp băng kín vô trùng. Băng keo trong suốt thường được sử dụng.
+
+Cảnh báo và các lỗi thường gặp khi đặt canun động mạch đùi có dẫn hướng bằng siêu âm
+
+Không bao giờ nắm lỏng dây dẫn hướng.
+
+Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.
+
+Để giúp ngăn ngừa thuyên tắc do khí, cần tháo bỏ ống thông ở mạch máu đùi (động mạch hoặc tĩnh mạch) với vị trí đặt ống thông mạch máu nằm cao hơn tim và hướng dẫn bệnh nhân thực hiện nghiệm pháp Valsalva nếu có thể.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định đặt canun động mạch đùi, có dẫn hướng bằng siêu âm ---
+
+Dùng cho bệnh nhân bệnh nặng, tình trạng không ổn định, đặc biệt là những bệnh nhân bị sốc kháng trị và suy hô hấp:Đo huyết áp liên tụcĐo khí máu lặp lại (áp suất riêng phần của oxy trong máu động mạch [PO2], áp suất riêng phần của carbon dioxide [PCO2], pH)Đo chức năng tim liên tục, thay cho đặt ống thông động mạch phổiLấy các mẫu máu lặp đi lặp lại để làm các xét nghiệmĐặt canun động mạch cũng được sử dụng trong các trường hợp dịch chuyển lớn hoặc mất máu (ví dụ: đại phẫu thuật), hỗ trợ co bóp cơ tim và hạ thân nhiệt (bao gồm cả hạ thân nhiệt do gây mê) và để chụp mạch, nút mạch điều trị và kiểm soát xuất huyết khi đặt ống thông có bóng nong để nút động mạch chủ hồi sức (REBOA).
+
+--- 2. Chống chỉ định đặt canun động mạch đùi, có dẫn hướng bằng siêu âm ---
+
+Chống chỉ định tuyệt đốiNgười vận hành siêu âm chưa được đào tạo hoặc thiếu kinh nghiệmĐộng mạch không phù hợp, bị huyết khối, xơ vữa nặng hoặc không thể tiếp cận được khi được siêu âmChấn thương hoặc nghi ngờ chấn thương động mạch đùi hoặc động mạch chậu ngoài cùng bên do chấn thươngMột động mạch không thể sờ thấy hoặc không thể phát hiện được bằng siêu âm (tức là, nếu không rõ vị trí động mạch thì không nên đặt canun)Tuần hoàn không đầy đủ (ví dụ:hội chứng Raynaud,viêm tắc mạch huyết khối)Bỏng dày toàn bộNhiễm trùng cục bộ tại vị trí chọc kimỐng thông tẩm kháng sinh ở bệnh nhân bị dị ứng với loại kháng sinh cụ thểChống chỉ định tương đốiBệnh lý đông máu, bao gồm giảm tiểu cầu hoặc thuốc chống đông máu (bao gồm thuốc chống kết tập tiểu cầu)*Biến dạng giải phẫu cục bộ, do chấn thương hoặc bẩm sinh, hoặc do béo phìTiền sử trước đây có phẫu thuật hoặc đặt ống thông ở vị trí dự định đặt†Xơ vữa động mạchDòng chảy bàng hệ không đủBệnh nhân không hợp tác (nên dùng thuốc an thần nếu cần thiết)* Thuốc chống đông máu (ví dụ: thuốc chống rung nhĩ) làm tăng nguy cơ chảy máu khi đặt canun động mạch đùi, nhưng nguy cơ này phải được cân nhắc so với tăng nguy cơ bị huyết khối (ví dụ: đột quỵ) nếu tác dụng chống đông máu bị đảo ngược. Thảo luận về bất kỳ phương pháp đảo ngược nào được cân nhắc với bác sĩ lâm sàng quản lý thuốc chống đông máu của bệnh nhân và với bệnh nhân.† Cần phải tránh cắt động mạch đùi sau khi phẫu thuật bắc cầu mạch máu (vì có thể gây tổn thương cho mảnh ghép bắc cầu) và ở những bệnh nhân bị suy mạch máu đoạn xa (để tránh gây khởi phát thiếu máu cục bộ).
+
+--- 3. Các biến chứng của đặt canun động mạch đùi, có dẫn hướng bằng siêu âm ---
+
+Các biến chứng tiềm tàng gồmKhối máu tụNhiễm trùngLàm tổn thương động mạchHuyết khối (do chính ống thông)Thủng động mạchTổn thương dây thần kinhThuyên tắc khí (ví dụ, xảy ra trong quá trình xả ống thông)Ống thông lạc chỗThủng bàng quang hoặc thủng ruộtĐể giảm nguy cơ nhiễm trùng đường máu liên quan đến đường truyền trung tâm (CLABSI), ống thông động mạch đùi cần phải được tháo ra ngay khi không còn cần dùng nữa.Tỷ lệ huyết khối và thiếu máu cục bộ đầu xa cao hơn nhiều so với ống thông động mạch quay.Các biến chứng hiếm gặp bao gồm thiếu máu cục bộ ở chi và hoại tử chi, giả phình mạch và lỗ rò động-tĩnh mạch. Dây dẫn hướng, ống thông, hoặc thuyên tắc cholesterol cũng hiếm khi xảy ra.
+
+--- 4. Thiết bị để đặt canun động mạch đùi, có dẫn hướng bằng siêu âm ---
+
+Quy trình vô trùng, bảo vệ hàng ràoDung dịch sát trùng (ví dụ: chlorhexidine-cồn, chlorhexidine, povidone-iodine, cồn)Săng mổ vô trùng cỡ lớn, khăn lauMũ, khẩu trang, áo choàng, găng tay vô trùngTấm chắn mặtHướng dẫn siêu âmMáy siêu âm có tần số cao (ví dụ: 5 đến 10 MHz), đầu dò mảng tuyến tính (đầu dò)Gel siêu âm, không vô trùng và vô trùngVỏ bọc đầu dò vô trùng cho đầu dò và dây đầu dò và dây cao su vô trùng (hoặc có thể đặt đầu dò bên trong găng tay vô trùng và dây quấn bên trong vải phủ vô trùng)Kỹ thuật Seldinger (catheter qua dây dẫn hướng)Thuốc gây tê tại chỗ (ví dụ: lidocaine 1% không có epinephrine, khoảng 5 mL)Kim gây mê nhỏ (ví dụ: cỡ 25 đến 27 gauge, dài khoảng 3 cm)Kim gây mê lớn (cỡ 22 gauge, dài 4 cm)Kim của bộ đặt động mạch đùi (ví dụ: cỡ 18 gauge, dài 7 cm)Ống tiêm 3 và 5 mL (sử dụng ống tiêm có đầu trượt cho kim của dụng cụ đặt ống thông)Dây dẫn hướng (dài 30 cm)Dao mổ (lưỡi số 11)Ống thông động mạch đùi (4 French [hoặc 18 hoặc 20 gauge] một ống thông đơn, dài ≥ 15 cm)Gạc vô trùng (ví dụ: hình vuông 10 × 10 cm)Nước muối sinh lý vô trùng để rửa ống áp lực và ống thông động mạchChỉ lụa hoặc nylon không tiêu (ví dụ, 3-0 hoặc 4-0)Miếng dán chlorhexidine, băng kín trong suốtTheo dõi áp suất động mạchĐường ống động mạch (ống áp lực không giãn nở)Cảm biến và máy theo dõi huyết áp (máy nghiệm dao động)2 khóa chặn ba chiềuXả nước muối sinh lý liên tục (túi 0,5 hoặc 1 L nước muối sinh lý thông thường, máy tiêm định lượng và thiết bị xả liên tục [cho phép theo dõi áp lực động mạch đồng thời và nhỏ giọt nước muối sinh lý chậm để giữ cho ống thông mở])Ngược lại với việc đặt ống thông tĩnh mạch trung tâm, việc sử dụng dụng cụ nong mô không được khuyến khích khi đặt ống thông động mạch đùi để ngăn ngừa mất máu quá nhiều do giãn động mạch hoặc tổn thương động mạch ngoài ý muốn.Không sử dụng các thiết bị catheter qua kim hoặc catheter xuyên qua kim để đặt ống thông động mạch đùi.Cần phải có 1 hoặc 2 trợ lý.
+
+--- 5. Cân nhắc bổ sung ---
+
+Chế độ xem siêu âm trục ngắn (mặt cắt ngang, ngang) rất dễ lấy và là chế độ xem tốt hơn để xác định các tĩnh mạch và động mạch cũng như hướng của chúng với nhau. Việc xác định một đầu kim ở mặt cắt ngang cần phải có một số kỹ năng vì kim xuất hiện dưới dạng một chấm phản xạ (màu trắng) và đầu kim chỉ có thể được phân biệt bằng sự biến mất và xuất hiện lại của chấm đầu kim khi đầu kim đi qua lại trên mặt phẳng hình ảnh.Chế độ xem trục ngắn thường được sử dụng để xác định vị trí chọc mạch máu thích hợp và để dẫn hướng việc đưa kim theo góc nghiêng (ví dụ, ≥ 45°).Chế độ xem siêu âm trục dài (dọc, trong mặt phẳng) về mặt kỹ thuật khó thực hiện hơn (phải giữ đầu dò, động mạch và kim trên cùng một mặt phẳng), nhưng nó cho thấy kim theo chiều dọc, do đó toàn bộ kim, bao gồm cả đầu kim, có thể được chụp liên tục khi nó tiếp cận và đi vào mạch máu; chế độ xem liên tục này giúp tránh vị trí bất thường.Chế độ xem trục dài rất hữu ích khi góc đâm kim nông (ví dụ: trong trường hợp đặt canun ở nách/dưới xương đòn) và để khẳng định mức thẳng hàng kim theo chiều dọc thích hợp trong quá trình đâm kim theo trục ngắn.Nếu cần phải đặt canun lần thứ hai, hãy sử dụng thiết bị mới (tức là không tái sử dụng kim, ống thông hoặc thiết bị khác vì các ống thông đó có thể bị mô hoặc máu làm tắc nghẽn).Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.
+
+--- 6. Giải phẫu liên quan trong đặt canun động mạch đùi, có dẫn hướng bằng siêu âm ---
+
+Động mạch và tĩnh mạch đùi có thể tiếp cận được trong tam giác đùi, được xác định bởi dây chằng bẹn ở trên, ở trong là cơ khép dài và ở ngoài là cơ may.Dây chằng bẹn nằm dưới da theo đường thẳng giữa xương mu và gai chậu trước trên.Hình ảnh động mạch đùi nằm dưới điểm giữa của dây chằng bẹn.Hình ảnh tĩnh mạch đùi ở trong tiếp giáp với động mạch. Với khoảng cách ngày càng tăng từ dây chằng bẹn, tĩnh mạch chạy dưới động mạch. Tuy nhiên, các mạch máu này thường xuyên có thay đổi hướng.Dây thần kinh đùi nằm bên ngoài động mạch.Động mạch đùi to và nằm sâu. Đặt canun cần có góc đâm kim dốc (45°) cũng như kim và ống thông có đường kính lớn hơn và dài hơn và cần phải có kỹ thuật ống thông qua dây dẫn hướng (Seldinger) (so với phương pháp đặt canun động mạch quay.Vị trí chọc kim ở da bị ảnh hưởng bởi cả hình ảnh và kích thước của đầu dò.Điểm chọc vào động mạch đùi mong muốn là gần chỗ phân nhánh của nó vào động mạch đùi nông và động mạch đùi sâu và thấp hơn dây chằng bẹn. Chảy máu do chọc đi chọc lại vào mạch máu ở đây có thể được kiểm soát bằng cách ép từ bên ngoài lên các mạch máu vào chỏm xương đùi.Khoảng sau phúc mạc nằm trên dây chằng bẹn. Chọc đi chọc lại vào mạch máu ở đây gây chảy máu sau phúc mạc và không thể ép từ bên ngoài vào các mạch máu để cầm máu được.Giải phẫu mạch máu vùng đùiMô hình 3D
+
+--- 7. Tư thế đặt canun động mạch đùi, có dẫn hướng bằng siêu âm ---
+
+Nâng giường lên độ cao thoải mái cho bạn (tức là bạn có thể đứng thẳng trong khi làm thủ thuật).Bệnh nhân ở tư thế nằm ngửa.Chân giạng và xoay ngoài.Rút bỏ màng máu hoặc thu ống thông niệu đạo khỏi vùng bẹn (sử dụng băng dính hoặc người hỗ trợ nếu cần).
+
+--- 8. Mô tả từng bước đặt canun động mạch đùi, có dẫn hướng bằng siêu âm ---
+
+Kiểm tra xem máy siêu âm đã được cấu hình và hoạt động chính xác chưa: Đảm bảo rằng hình ảnh trên màn hình mà bạn đang xem tương quan với hướng không gian của đầu dò khi bạn đang cầm và di chuyển nó. Vạch đánh dấu ở mặt bên trên đầu dò tương ứng với điểm đánh dấu trên màn hình siêu âm. Điều chỉnh cài đặt màn hình và vị trí đầu dò nếu cần để đạt được hướng trái phải chính xác.Tiến hành kiểm tra siêu âm không vô trùng (tức là sử dụng đầu dò không che phủ và gel không vô trùng) của động mạch đùi cách dây chằng bẹn khoảng 2,5 cm và xác định xem động mạch có phù hợp để đặt canun hay không. Sử dụng chế độ xem trục ngắn (mặt cắt ngang). Mạch máu giảm âm (xuất hiện màu đen trên màn hình siêu âm). Các động mạch nói chung nhỏ hơn, có thành dày và tròn (thay vì thành mỏng và hình trứng) và ít dễ bị nén (khi ép nhẹ lên da bên trên) hơn so với các tĩnh mạch bắt cặp của động mạch.Sử dụng chế độ Doppler màu để xác định mức độ thông của lòng động mạch và chế độ Doppler quang phổ để xác định dòng máu đập trong động mạch.Đặt canun động mạch đùi tại vị trí có hình ảnh trục ngắn tối ưu (nghĩa là, mặt cắt ngang có đường kính lớn của động mạch, không có tĩnh mạch bên trên).Lông thừa có thể được kẹp lại nhưng không được cạo khỏi vị trí đó. Cạo lông làm tăng nguy cơ nhiễm trùng.Chuẩn bị thiết bịĐặt dụng cụ vô trùng trên các khay dụng cụ tiệt trùng được đậy kín.Sử dụng thiết bị bảo hộ cá nhân thích hợp.Rút thuốc gây tê cục bộ vào một ống tiêm.Lắp kim của dụng cụ đặt ống thông động mạch đùi vào một ống tiêm 5 mL có từ 1 đến 2 mL nước muối sinh lý vô trùng trong đó.Hút nước muối sinh lý vô trùng vào một ống tiêm 3 hoặc 5 mL sẽ dùng để rửa.Lắp ống cảm biến vào cảm biến huyết áp và rửa ống đó bằng nước muối sinh lý thông thường vô trùng.Chuẩn bị trường mổ vô trùngDùng dung dịch sát trùng quét một vùng da rộng, từ gai chậu trước trên đến đường giữa và kéo dài xuống dưới dây chằng bẹn 15 cm.Để dung dịch sát khuẩn khô trong ít nhất 1 phút.Đặt khăn lau vô trùng xung quanh vị trí chọc kim.Đặt các săng mổ vô trùng lớn (ví dụ, săng mổ che toàn thân) để thiết lập một trường vô trùng lớn.Đeo khẩu trang và mũ vô trùng.Mặc áo choàng và đeo găng tay vô trùng.Trùm vỏ bọc vô trùng lên đầu dò siêu âmChỉ đạo người trợ lý của bạn (không vô trùng) phủ đầu dò bằng gel siêu âm không vô trùng và sau đó cầm đầu dò, hướng đầu của đầu dò lên trên, ngay bên ngoài trường vô trùng.Luồn tay thuận có đeo găng tay của bạn vào vỏ bọc đầu dò vô trùng.Dùng tay thuận của bạn nắm chặt đầu của đầu dò (bây giờ đã được che bởi vỏ bọc đầu dò).Sử dụng bàn tay không thuận đã đeo găng của bạn để dàn vỏ bọc vô trùng trên đầu dò và vuốt nó xuống hết theo dây.Không chạm vào dây không được bọc kín cũng không để dây chạm vào trường vô trùng khi bạn dàn vỏ bọc.Kéo chặt nắp đậy đầu dò để loại bỏ hết bọt khí và đảm bảo đầu dò được phủ gel siêu âm.Quấn dây cao su vô trùng xung quanh đầu dò để cố định vỏ bọc ở nguyên vị trí.Bây giờ đầu dò được bọc kín có thể để trên săng mổ vô trùng.Gây tê tại chỗ đặt canunBôi gel siêu âm vô trùng lên đầu của đầu dò đã được bọc kín.Sử dụng dẫn hướng siêu âm trục ngắn:Lấy hình ảnh cắt ngang tối ưu của động mạch đùi cách dây chằng bẹn khoảng 2,5 cm.Trượt đầu dò theo chiều ngang nếu cần để đặt hình ảnh động mạch ở trung tâm của màn hình siêu âm.Khi động mạch nằm ở giữa trên màn hình siêu âm, điểm giữa của đầu dò sẽ trở thành điểm đánh dấu bề mặt chỉ định trung tâm lòng động mạch bên dưới.Giữ đầu dò ở vị trí này.Trên màn hình siêu âm, đo độ sâu đến trung tâm của động mạch.Khi sử dụng dẫn hướng siêu âm trục ngắn, chọc kim thủ thuật (gây tê cục bộ và kim của dụng cụ đặt ống thông) vào da tại điểm ở đầu xa và vuông góc với điểm giữa của đầu dò bằng khoảng cách của độ sâu động mạch. Sau đó, ban đầu đẩy kim vào da theo một góc 45° hướng về điểm giữa của đầu dò. Liên tục giữ áp lực âm nhẹ trên pít-tông khi bạn đẩy kim.Tiêm một nốt sẩn thuốc tê tại điểm chọc kim, sau đó tiêm thuốc tê vào da và các mô mềm dọc theo đường 45° dẫn đến động mạch.Hơi nghiêng đầu dò về phía trước và phía sau khi bạn đẩy kim gây tê để liên tục xác định đầu kim và giữ cho nó cách xa động mạch và tĩnh mạch một cách an toàn.Chọc kim của dụng cụ đặt ống thông động mạch đùi bằng dẫn hướng siêu âmTiếp tục sử dụng hướng dẫn siêu âm trục ngắn (như mô tả ở trên để tiêm thuốc gây tê tại chỗ).Chọc kim của dụng cụ đặt ống thông (với phần vát kim hướng lên trên).Đẩy kim về phía trước trong khi hút.Duy trì hình ảnh siêu âm của đầu kim khi bạn đẩy kim bằng cách liên tục nghiêng đầu dò về phía trước và phía sau một chút (đầu kim xuất hiện và biến mất khi mặt phẳng siêu âm quét qua lại trên nó).Nếu đầu kim đi lạc khỏi động mạch,hãy điều chỉnh hướng ngoài của kim để giữ cho đầu kim ở trên tâm của động mạch.Nếu đầu kim tiến đến động mạch quá chậm,hãy rút kim ra một chút, tăng góc đưa kim vào và tiến lại.Khi đầu kim tiến gần đến động mạch, hãy điều chỉnh tốc độ và góc đâm kim để kim có thể đi vào một cách có kiểm soát nhất có thể.Thành bề ngoài của động mạch sẽ thụt vào khi đầu kim chạm vào nó. Sau đó, kim chọc tiếng pốp qua thành đó để đi vào lòng động mạch, kèm theo một tia máu đỏ tươi (nếu được thở oxy bình thường) trong nòng của ống tiêm.Giữ ống tiêm bất động tại vị trí này và luôn hiển thị đầu kim. Tình trạng di lệch là phổ biến, và thậm chí một cử động nhẹ cũng có thể làm di lệch đầu kim ra khỏi động mạch.Lấy ống tiêm ra khỏi kim bằng tay thuận của bạn. Ghi nhận dòng máu đỏ tươi đang đập.Sau đó, ngay lập tức đặt ngón tay cái của bạn qua đốc kim để ngăn dòng máu (có thể chảy nhiều do đặt canun động mạch) và ngăn không khí xâm nhập vào hệ thống động mạch.Tùy chọn: Nếu đoạn động mạch đùi có thể tiếp cận đủ dài để chứa trục dài của đầu dò, trước tiên bạn có thể sử dụng chế độ xem trục ngắn (mặt cắt ngang) để hướng kim vào động mạch và sau đó xoay đầu dò 90° để lấy chế độ xem trục dài (trong mặt phẳng, theo chiều dọc) của kim và động mạch, cho hình ảnh rõ hơn về chọc dò động mạch. Di chuyển đầu dò nếu cần để giữ cả kim và động mạch trong tầm nhìn (trong mặt phẳng). Dùng đầu dò ấn nhẹ để động mạch vẫn nằm dưới đầu dò và không lăn sang một bên.Luồn dây dẫn hướngTiếp tục giữ bất động kim của dụng cụ đặt ống thông.Chọc đầu cong chữ J của dây dẫn hướng vào kim của dụng cụ đặt ống thông với đường cong chữ J hướng lên trên. Bạn có thể sử dụng dẫn hướng siêu âm (trục ngắn hoặc trục dài) để xác minh dây dẫn hướng đã vào động mạch.Đẩy dây dẫn hướng qua kim của dụng cụ đặt ống thông và động mạch. Không nên ép dây dẫn hướng; dây dẫn hướng phải trượt nhẹ nhàng. Dưới dẫn hướng siêu âm trục dài, bạn có thể cẩn thận làm phẳng góc đâm kim trong khi vẫn giữ đầu kim trong động mạch, tạo điều kiện cho dây dẫn hướng đi qua. Đẩy dây dẫn hướng vào sâu bên trong bình cho đến khi dây cách mạch máu ít nhất khoảng 8 cm đến 10 cm.Không bao giờ được thả dây dẫn hướng ra. Mặc dù hiếm gặp, tình trạng tắc nghẽn dây dẫn hướng do nguyên nhân y khoa có thể xảy ra.Sau khi dây dẫn hướng đã được đưa vào, điều quan trọng là phải tiếp tục giữ chặt dây bằng một tay và kiểm soát dây trong suốt quá trình thực hiện.Nếu bạn cảm thấy có bất kỳ lực cản nào khi bạn đẩy dây dẫn hướng,hãy dừng lại và sử dụng dẫn hướng siêu âm để kiểm tra vị trí của dây dẫn hướng và kim. Cố gắng nhẹ nhàng rút dây dẫn hướng ra một chút, xoay nhẹ rồi đẩy vào lại hoặc cố gắng nhẹ nhàng rút toàn bộ dây ra, đưa đầu kim trở lại động mạch (xác nhận bằng cách kiểm tra máu tĩnh mạch đã hồi về) rồi luồn lại dây vào.Tuy nhiên, nếu bạn cảm thấy có bất kỳ lực cản nào khi rút dây,hãy chấm dứt thủ thuật và rút kim và dây dẫn hướng cùng nhau cùng một lúc (để ngăn đầu kim cắt qua dây dẫn hướng bên trong bệnh nhân). Sau đó, dùng gạc vuông giữ đè bên ngoài lên khu vực đó trong 10 phút để giúp ngăn ngừa chảy máu và tụ máu.Đặt ống thông động mạch đùi dư...Các videoTháo kim của dụng cụ đặt ống thông (sau khi luồn dây dẫn hướng thành công)Đầu tiên, cầm chắc dây dẫn hướng ở đầu xa kim khi bạn rút kim ra khỏi da.Sau đó, giữ chặt dây dẫn hướng trên bề mặt da khi bạn trượt kim xuống chiều dài còn lại của dây dẫn hướng để lấy kim ra.Sau khi kim đã được rút ra, hãy siêu âm lại động mạch theo cả mặt phẳng ngang và mặt phẳng dọc để xác nhận vị trí của dây dẫn hướng trong động mạch.Mở rộng vị trí chọc daSử dụng dao mổ, rạch một vết nhỏ (<5 mm) vào vị trí chọc ở da, tránh tiếp xúc với dây dẫn hướng, để mở rộng vị trí đó và cho nó phù hợp với đường kính lớn hơn của ống thông động mạch đùi. Không được thả dây dẫn hướng.Đặt ống thôngĐẩy ống thông qua dây dẫn hướng đến bề mặt da: Giữ dây dẫn hướng cố định trên bề mặt da, luồn đầu ống thông qua đầu xa của dây dẫn hướng và trượt ống thông xuống bề mặt da theo góc 45°. Đầu xa của dây dẫn hướng bây giờ sẽ nhô ra khỏi cổng đốc.Nếu đầu xa của dây dẫn hướng không nhô ra khỏi đốc kim ở cổng,hãy từ từ đẩy dây dẫn hướng ra ngoài bề mặt da trong khi giữ đầu ống thông gần bề mặt cho đến khi dây dẫn hướng nhô ra.Đẩy ống thông vào động mạch: Nắm chặt và điều khiển dây dẫn hướng ở nơi nó nhô ra khỏi đốc. Giữ ống thông gần đầu dây dẫn hướng và đưa đầu ống qua da. Sau đó, sử dụng chuyển động vặn nút chai khi cần thiết, đẩy dần toàn bộ chiều dài của ống thông động mạch đùi.Sử dụng siêu âm để xác minh vị trí đặt ống thông vào động mạch.Tiếp tục nắm cả dây dẫn hướng và ống thông.Rút dây dẫn hướng: Rút dây dẫn hướng trong khi giữ cố định ống thông ở vị trí trên bề mặt da. Quý vị sẽ thấy máu chảy ra từ ống thông theo từng nhịp đập. Dùng ngón tay cái của bạn che đốc.Lắp ống đầu dò áp lực động mạch (đã được rửa sạch bằng nước muối sinh lý) vào đốc ống thông và xác minh dạng sóng áp lực động mạch trên màn hình điều khiển.Để đo áp lực ống thông động mạch chính xác, hãy đảm bảo rằng van khóa trên đầu dò được cân bằng thích hợp với tim (trục tĩnh mạch của bệnh nhân, là giao điểm của khoảng liên sườn thứ tư và đường nách giữa).Băng chỗ chọc kimNếu bệnh nhân tỉnh táo hoặc được an thần nhẹ, hãy sử dụng lidocaine 1% để gây tê da tại các vị trí khâu đã định.Đặt một đĩa tẩm chlorhexidine lên da tại điểm đặt ống thông.Khâu kẹp gắn trên ống thông vào da.Đắp băng kín vô trùng. Băng keo trong suốt thường được sử dụng.
+
+--- 9. Cảnh báo và các lỗi thường gặp khi đặt canun động mạch đùi có dẫn hướng bằng siêu âm ---
+
+Không bao giờ nắm lỏng dây dẫn hướng.Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.Để giúp ngăn ngừa thuyên tắc do khí, cần tháo bỏ ống thông ở mạch máu đùi (động mạch hoặc tĩnh mạch) với vị trí đặt ống thông mạch máu nằm cao hơn tim và hướng dẫn bệnh nhân thực hiện nghiệm pháp Valsalva nếu có thể.

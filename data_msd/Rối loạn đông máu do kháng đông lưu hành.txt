@@ -1,0 +1,279 @@
+TIÊU ĐỀ: Rối loạn đông máu do kháng đông lưu hành
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/rối-loạn-coagulation/rối-loạn-đông-máu-do-kháng-đông-lưu-hành
+================================================================================
+
+NỘI DUNG:
+
+Rối loạn đông máu do kháng đông lưu hành
+
+Theo
+
+Michael B. Streiff
+
+,
+
+MD
+
+,
+
+Johns Hopkins University School of Medicine
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 9 2023
+
+|
+
+đã sửa đổi
+
+Thg 11 2023
+
+v972638_vi
+
+Kháng đông lưu hành thường là tự kháng thể trung hòa các yếu tố đông máu cụ thể trong cơ thể (ví dụ, một loại tự kháng thể chống lại yếu tố VIII hoặc yếu tố V) hoặc ức chế các protein gắn phospholipid trong thực nghiệm (kháng thể kháng phospholipid). Đôi khi, loại tự kháng thể sau cùng này gây ra chảy máu do gắn kết với các phức hợp prothrombin-phospholipid trong cơ thể.
+
+Thuốc ức chế yếu tố VIII và yếu tố IX
+
+|
+
+Điều trị
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn đông máu
+
+.)
+
+Cần nghi ngờ có kháng đông lưu hành ở bệnh nhân bị
+
+chảy máu quá nhiều
+
+, xét nghiệm có PT hoặc PTT kéo dài. Các kết quả này không được điều chỉnh khi lặp lại với mẫu trộn huyết tương của bệnh nhân với huyết tương bình thường theo tỷ lệ 1:1.
+
+Các tự kháng thể chống lại phức hợp protein/phospholipid thường gây ra huyết khối động mạch và/hoặc huyết khối tĩnh mạch (
+
+hội chứng kháng phospholipid
+
+[APS]). Sinh lý bệnh chính xác của huyết khối trong APS là không rõ. Mặc dù các tự kháng thể protein-phospholipid thường gắn kết với beta2-glycoprotein-1, nhưng vẫn chưa rõ sự tương tác này gây ra huyết khối như thế nào. Tuy nhiên, với một nhóm bệnh nhân, các kháng thể liên kết với phức hợp prothrombin-phospholipid làm giảm prothrombin trong máu và gây chảy máu.
+
+Thuốc ức chế yếu tố VIII và yếu tố IX
+
+Các kháng thể đồng vị với yếu tố VIII phát triển ở khoảng 30% số bệnh nhân mắc
+
+bệnh máu khó đông A
+
+nặng do biến chứng của tình trạng tiếp xúc nhiều lần với các phân tử yếu tố VIII bình thường trong quá trình
+
+điều trị thay thế
+
+(
+
+1
+
+). Tự kháng thể kháng VIII có thể phát sinh ở bệnh nhân không bị bệnh hemophilia, ví dụ ở phụ nữ sau sinh, như là biểu hiện của rối loạn tự miễn hệ thống hoặc do rối loạn điều hòa miễn dịch thoáng qua; hoặc ở bệnh nhân cao tuổi mà không có bằng chứng rõ ràng về các rối loạn nền khác. Bệnh nhân có kháng VIII có thể có xuất huyết nặng đe dọa cuộc sống.
+
+Tương tự như vậy, những bệnh nhân mắc
+
+bệnh máu khó đông B
+
+nặng có thể phát triển đồng kháng thể với
+
+yếu tố IX
+
+, mặc dù điều này ít phổ biến hơn, chỉ xảy ra ở khoảng 2% đến 3% (
+
+2
+
+).
+
+Huyết tương có kháng thể yếu tố VIII sẽ có PTT kéo dài, kết quả này không điều chỉnh khi lấy huyết tương bình thường hoặc một nguồn VIII khác được thêm vào trong hỗn hợp 1:1 với huyết tương của bệnh nhân. Xét nghiệm được thực hiện ngay sau khi trộn hỗn hợp và một lần nữa sau khi ủ. Thử nghiệm tương tự được thực hiện đối với kháng thể
+
+yếu tố IX
+
+.
+
+Tài liệu tham khảo chung
+
+1.
+
+Iorio A, Fischer K, Makris M
+
+. Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.
+
+Br J Haematol
+
+2017;178(1):20-31. doi:10.1111/bjh.14610
+
+2.
+
+Puetz J, Soucie JM, Kempton CL, Monahan PE
+
+; Hemophilia Treatment Center Network (HTCN) Investigators. Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.
+
+Haemophilia
+
+2014;20(1):25-31. doi:10.1111/hae.12229
+
+Điều trị
+
+Ở những bệnh nhân không mắc bệnh máu khó đông, cyclophosphamide, corticosteroid hoặc rituximab được sử dụng để loại bỏ các chất ức chế
+
+Ở những bệnh nhân mắc bệnh máu khó đông, tạo ra dung nạp miễn dịch bằng cách thay thế yếu tố liều cao trong thời gian dài được sử dụng để loại bỏ các chất ức chế.
+
+Ở những bệnh nhân không mắc bệnh máu khó đông nhưng phát triển các chất ức chế yếu tố, điều trị bằng cyclophosphamide, corticosteroid hoặc rituximab (kháng thể đơn dòng kháng CD20 trên tế bào lympho) được sử dụng để ngăn chặn quá trình sản sinh tự kháng thể. Ở một vài bệnh nhân, các tự kháng thể có thể tự biến mất đột ngột.
+
+Ở những bệnh nhân mắc bệnh máu khó đông A, các chất ức chế yếu tố VIII sẽ được loại bỏ khi tạo ra dung nạp miễn dịch bằng cách thay thế yếu tố VIII liều cao. Một số phác đồ bao gồm ức chế miễn dịch ở những bệnh nhân mắc bệnh khó chữa.
+
+Ở những bệnh nhân mắc bệnh máu khó đông B và thuốc ức chế
+
+yếu tố IX
+
+, phơi nhiễm với
+
+yếu tố IX
+
+có thể gây ra
+
+phản ứng phản vệ
+
+và
+
+hội chứng thận hư
+
+. Giải mẫn cảm với
+
+yếu tố IX
+
+kết hợp với ức chế miễn dịch là một chiến lược tiềm năng để tạo điều kiện thuận lợi cho việc tạo ra dung nạp miễn dịch ở những bệnh nhân này.
+
+Yếu tố VIIa tái tổ hợp ở người được sử dụng để điều trị các đợt chảy máu cấp tính ở bệnh nhân mắc bệnh máu khó đông A hoặc B bằng thuốc ức chế hoặc bệnh nhân không mắc bệnh máu khó đông nhưng phát triển tự kháng thể yếu tố VIII hoặc IX. Các chất cô đặc phức hợp prothrombin đã hoạt hóa cũng có thể được sử dụng để điều trị chảy máu ở những bệnh nhân dùng thuốc ức chế yếu tố VIII có hoặc không có bệnh ưa chảy máu A. Bởi vì các chất cô đặc phức hợp prothrombin đã hoạt hóa có chứa
+
+yếu tố IX
+
+nên không thể được sử dụng để điều trị cho những bệnh nhân có thuốc ức chế
+
+yếu tố IX
+
+. (
+
+1
+
+).
+
+Emicizumab là một kháng thể đơn dòng đặc hiệu kép tái tổ hợp được nhân hóa, gắn kết với cả
+
+yếu tố IX
+
+và
+
+yếu tố X
+
+, liên kết chúng thành một phức hợp hoạt động giống yếu tố Xase giúp loại bỏ nhu cầu đối với yếu tố VIII.
+
+Emicizumab
+
+có thể được sử dụng để ngăn ngừa hoặc làm giảm tần suất chảy máu ở bệnh nhân mắc bệnh máu khó đông A bằng thuốc ức chế yếu tố VIII.
+
+Fitusiran và concizumab đang được nghiên cứu để điều trị kháng thể kháng yếu tố VIII hoặc kháng
+
+yếu tố IX
+
+mắc phải (
+
+2, 3
+
+).
+
+Ngoài ra, trong các thử nghiệm lâm sàng còn có dạng yếu tố lợn tái tổ hợp VIII (
+
+4
+
+) đã cạn kiệt ở miền B đã làm giảm phản ứng chéo với các chất ức chế kháng thể kháng người của yếu tố VIII.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Kruse-Jarres R, Kempton CL, Baudo F, et al
+
+. Acquired hemophilia A: Updated review of evidence and treatment guidance.
+
+Am J Hematol
+
+2017;92(7):695-705. doi:10.1002/ajh.24777
+
+2.
+
+Sehgal A, Barros S, Ivanciu L, et al
+
+: An RNAi therapeutic targeting antithrombin to rebalance the coagulation system and promote hemostasis in hemophilia.
+
+Nat Med
+
+21:492–497, 2015.
+
+3.
+
+Chowdary P, Lethagen S, Friedrich U, et al
+
+: Safety and pharmacokinetics of anti-TFPI antibody (concizumab) in healthy volunteers and patients with hemophilia: A randomized first human dose trial.
+
+J Thromb Haemost
+
+13:743–754, 2015.
+
+4.
+
+Kempton CL, Abshire TC, Deveras RA, et al
+
+: Pharmacokinetics and safety of OBI-1, a recombinant B domain-deleted porcine factor VIII in subjects with hemophilia A.
+
+Haemophilia
+
+18:798–804, 2012.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thuốc ức chế yếu tố VIII và yếu tố IX ---
+
+Các kháng thể đồng vị với yếu tố VIII phát triển ở khoảng 30% số bệnh nhân mắcbệnh máu khó đông Anặng do biến chứng của tình trạng tiếp xúc nhiều lần với các phân tử yếu tố VIII bình thường trong quá trìnhđiều trị thay thế(1). Tự kháng thể kháng VIII có thể phát sinh ở bệnh nhân không bị bệnh hemophilia, ví dụ ở phụ nữ sau sinh, như là biểu hiện của rối loạn tự miễn hệ thống hoặc do rối loạn điều hòa miễn dịch thoáng qua; hoặc ở bệnh nhân cao tuổi mà không có bằng chứng rõ ràng về các rối loạn nền khác. Bệnh nhân có kháng VIII có thể có xuất huyết nặng đe dọa cuộc sống.Tương tự như vậy, những bệnh nhân mắcbệnh máu khó đông Bnặng có thể phát triển đồng kháng thể vớiyếu tố IX, mặc dù điều này ít phổ biến hơn, chỉ xảy ra ở khoảng 2% đến 3% (2).Huyết tương có kháng thể yếu tố VIII sẽ có PTT kéo dài, kết quả này không điều chỉnh khi lấy huyết tương bình thường hoặc một nguồn VIII khác được thêm vào trong hỗn hợp 1:1 với huyết tương của bệnh nhân. Xét nghiệm được thực hiện ngay sau khi trộn hỗn hợp và một lần nữa sau khi ủ. Thử nghiệm tương tự được thực hiện đối với kháng thểyếu tố IX.Tài liệu tham khảo chung1.Iorio A, Fischer K, Makris M. Large scale studies assessing anti-factor VIII antibody development in previously untreated haemophilia A: what has been learned, what to believe and how to learn more.Br J Haematol2017;178(1):20-31. doi:10.1111/bjh.146102.Puetz J, Soucie JM, Kempton CL, Monahan PE; Hemophilia Treatment Center Network (HTCN) Investigators. Prevalent inhibitors in haemophilia B subjects enrolled in the Universal Data Collection database.Haemophilia2014;20(1):25-31. doi:10.1111/hae.12229Điều trịỞ những bệnh nhân không mắc bệnh máu khó đông, cyclophosphamide, corticosteroid hoặc rituximab được sử dụng để loại bỏ các chất ức chếỞ những bệnh nhân mắc bệnh máu khó đông, tạo ra dung nạp miễn dịch bằng cách thay thế yếu tố liều cao trong thời gian dài được sử dụng để loại bỏ các chất ức chế.Ở những bệnh nhân không mắc bệnh máu khó đông nhưng phát triển các chất ức chế yếu tố, điều trị bằng cyclophosphamide, corticosteroid hoặc rituximab (kháng thể đơn dòng kháng CD20 trên tế bào lympho) được sử dụng để ngăn chặn quá trình sản sinh tự kháng thể. Ở một vài bệnh nhân, các tự kháng thể có thể tự biến mất đột ngột.Ở những bệnh nhân mắc bệnh máu khó đông A, các chất ức chế yếu tố VIII sẽ được loại bỏ khi tạo ra dung nạp miễn dịch bằng cách thay thế yếu tố VIII liều cao. Một số phác đồ bao gồm ức chế miễn dịch ở những bệnh nhân mắc bệnh khó chữa.Ở những bệnh nhân mắc bệnh máu khó đông B và thuốc ức chếyếu tố IX, phơi nhiễm vớiyếu tố IXcó thể gây raphản ứng phản vệvàhội chứng thận hư. Giải mẫn cảm vớiyếu tố IXkết hợp với ức chế miễn dịch là một chiến lược tiềm năng để tạo điều kiện thuận lợi cho việc tạo ra dung nạp miễn dịch ở những bệnh nhân này.Yếu tố VIIa tái tổ hợp ở người được sử dụng để điều trị các đợt chảy máu cấp tính ở bệnh nhân mắc bệnh máu khó đông A hoặc B bằng thuốc ức chế hoặc bệnh nhân không mắc bệnh máu khó đông nhưng phát triển tự kháng thể yếu tố VIII hoặc IX. Các chất cô đặc phức hợp prothrombin đã hoạt hóa cũng có thể được sử dụng để điều trị chảy máu ở những bệnh nhân dùng thuốc ức chế yếu tố VIII có hoặc không có bệnh ưa chảy máu A. Bởi vì các chất cô đặc phức hợp prothrombin đã hoạt hóa có chứayếu tố IXnên không thể được sử dụng để điều trị cho những bệnh nhân có thuốc ức chếyếu tố IX. (1).Emicizumab là một kháng thể đơn dòng đặc hiệu kép tái tổ hợp được nhân hóa, gắn kết với cảyếu tố IXvàyếu tố X, liên kết chúng thành một phức hợp hoạt động giống yếu tố Xase giúp loại bỏ nhu cầu đối với yếu tố VIII.Emicizumabcó thể được sử dụng để ngăn ngừa hoặc làm giảm tần suất chảy máu ở bệnh nhân mắc bệnh máu khó đông A bằng thuốc ức chế yếu tố VIII.Fitusiran và concizumab đang được nghiên cứu để điều trị kháng thể kháng yếu tố VIII hoặc khángyếu tố IXmắc phải (2, 3).Ngoài ra, trong các thử nghiệm lâm sàng còn có dạng yếu tố lợn tái tổ hợp VIII (4) đã cạn kiệt ở miền B đã làm giảm phản ứng chéo với các chất ức chế kháng thể kháng người của yếu tố VIII.Tài liệu tham khảo về điều trị1.Kruse-Jarres R, Kempton CL, Baudo F, et al. Acquired hemophilia A: Updated review of evidence and treatment guidance.Am J Hematol2017;92(7):695-705. doi:10.1002/ajh.247772.Sehgal A, Barros S, Ivanciu L, et al: An RNAi therapeutic targeting antithrombin to rebalance the coagulation system and promote hemostasis in hemophilia.Nat Med21:492–497, 2015.3.Chowdary P, Lethagen S, Friedrich U, et al: Safety and pharmacokinetics of anti-TFPI antibody (concizumab) in healthy volunteers and patients with hemophilia: A randomized first human dose trial.J Thromb Haemost13:743–754, 2015.4.Kempton CL, Abshire TC, Deveras RA, et al: Pharmacokinetics and safety of OBI-1, a recombinant B domain-deleted porcine factor VIII in subjects with hemophilia A.Haemophilia18:798–804, 2012.
+
+--- 2. Điều trị ---
+
+Ở những bệnh nhân không mắc bệnh máu khó đông, cyclophosphamide, corticosteroid hoặc rituximab được sử dụng để loại bỏ các chất ức chếỞ những bệnh nhân mắc bệnh máu khó đông, tạo ra dung nạp miễn dịch bằng cách thay thế yếu tố liều cao trong thời gian dài được sử dụng để loại bỏ các chất ức chế.Ở những bệnh nhân không mắc bệnh máu khó đông nhưng phát triển các chất ức chế yếu tố, điều trị bằng cyclophosphamide, corticosteroid hoặc rituximab (kháng thể đơn dòng kháng CD20 trên tế bào lympho) được sử dụng để ngăn chặn quá trình sản sinh tự kháng thể. Ở một vài bệnh nhân, các tự kháng thể có thể tự biến mất đột ngột.Ở những bệnh nhân mắc bệnh máu khó đông A, các chất ức chế yếu tố VIII sẽ được loại bỏ khi tạo ra dung nạp miễn dịch bằng cách thay thế yếu tố VIII liều cao. Một số phác đồ bao gồm ức chế miễn dịch ở những bệnh nhân mắc bệnh khó chữa.Ở những bệnh nhân mắc bệnh máu khó đông B và thuốc ức chếyếu tố IX, phơi nhiễm vớiyếu tố IXcó thể gây raphản ứng phản vệvàhội chứng thận hư. Giải mẫn cảm vớiyếu tố IXkết hợp với ức chế miễn dịch là một chiến lược tiềm năng để tạo điều kiện thuận lợi cho việc tạo ra dung nạp miễn dịch ở những bệnh nhân này.Yếu tố VIIa tái tổ hợp ở người được sử dụng để điều trị các đợt chảy máu cấp tính ở bệnh nhân mắc bệnh máu khó đông A hoặc B bằng thuốc ức chế hoặc bệnh nhân không mắc bệnh máu khó đông nhưng phát triển tự kháng thể yếu tố VIII hoặc IX. Các chất cô đặc phức hợp prothrombin đã hoạt hóa cũng có thể được sử dụng để điều trị chảy máu ở những bệnh nhân dùng thuốc ức chế yếu tố VIII có hoặc không có bệnh ưa chảy máu A. Bởi vì các chất cô đặc phức hợp prothrombin đã hoạt hóa có chứayếu tố IXnên không thể được sử dụng để điều trị cho những bệnh nhân có thuốc ức chếyếu tố IX. (1).Emicizumab là một kháng thể đơn dòng đặc hiệu kép tái tổ hợp được nhân hóa, gắn kết với cảyếu tố IXvàyếu tố X, liên kết chúng thành một phức hợp hoạt động giống yếu tố Xase giúp loại bỏ nhu cầu đối với yếu tố VIII.Emicizumabcó thể được sử dụng để ngăn ngừa hoặc làm giảm tần suất chảy máu ở bệnh nhân mắc bệnh máu khó đông A bằng thuốc ức chế yếu tố VIII.Fitusiran và concizumab đang được nghiên cứu để điều trị kháng thể kháng yếu tố VIII hoặc khángyếu tố IXmắc phải (2, 3).Ngoài ra, trong các thử nghiệm lâm sàng còn có dạng yếu tố lợn tái tổ hợp VIII (4) đã cạn kiệt ở miền B đã làm giảm phản ứng chéo với các chất ức chế kháng thể kháng người của yếu tố VIII.

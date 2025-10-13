@@ -1,0 +1,793 @@
+TIÊU ĐỀ: Thuốc kháng nấm
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/nấm/thuốc-kháng-nấm
+================================================================================
+
+NỘI DUNG:
+
+Thuốc kháng nấm
+
+Theo
+
+Paschalis Vergidis
+
+,
+
+MD, MSc
+
+,
+
+Mayo Clinic College of Medicine & Science
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2023
+
+v1011807_vi
+
+Amphotericin B
+
+|
+
+Thuốc chống nấm nhóm Azole
+
+|
+
+Echinocandins
+
+|
+
+Flucytosine
+
+|
+
+Các loại thuốc điều trị kháng nấm toàn thân bao gồm những loại sau (xem thêm bảng
+
+Thuốc điều trị nhiễm nấm toàn thân
+
+):
+
+Amphotericin B (và các dạng phức hợp lipid)
+
+Các dẫn xuất azole khác nhau (fluconazol, isavuconazonium [còn gọi là isavuconazol], itraconazol, posaconazol và voriconazol)
+
+Echinocandins (anidulafungin, caspofungin, và micafungin)
+
+Flucytosine
+
+Amphotericin B, một loại thuốc hiệu quả nhưng tương đối độc hại, từ lâu đã trở thành phương pháp điều trị chống nấm chủ yếu đối với các bệnh nấm xâm lấn và nghiêm trọng. Tuy nhiên, các triazoles và echinocandins mới hơn có hiệu lực và ít độc hại hơn. Hiện nay những thuốc này được khuyến cáo là thuốc bậc một cho nhiều trường hợp nhiễm nấm xâm lấn. Những loại thuốc này đã làm thay đổi rõ rệt cách tiếp cận với điều trị kháng nấm, thậm chí cho phép điều trị nhiễm nấm mạn tính bằng thuốc đường uống.
+
+(Xem thêm
+
+Tổng quan về Nhiễm nấm
+
+.)
+
+Bảng
+
+Thuốc điều trị nhiễm nấm toàn thân
+
+Bảng
+
+Thuốc điều trị nhiễm nấm toàn thân
+
+Thuốc điều trị nhiễm nấm toàn thân
+
+Thuốc
+
+Áp dụng
+
+Tác dụng bất lợi tiềm ẩn
+
+Amphotericin B
+
+Hầu hết các bệnh nhiễm nấm
+
+Công thức thông thường: Phản ứng khi truyền, bệnh lý thần kinh, rối loạn tiêu hóa, suy thận, thiếu máu, huyết khối tĩnh mạch, điếc, phát ban, giảm kali huyết, hạ magie huyết
+
+Công thức lipid: Phản ứng khi truyền*, suy thận*
+
+Anidulafungin
+
+Aspergillosis
+
+Bệnh nấm Candida
+
+, bao gồm nhiễm Candida huyết
+
+Viêm gan, tiêu chảy, hạ kali máu, phản ứng khi truyền
+
+Caspofungin
+
+Aspergillosis
+
+Bệnh nấm Candida
+
+, bao gồm nhiễm Candida huyết
+
+Viêm tĩnh mạch, đau đầu, rối loạn tiêu hóa, phát ban
+
+Fluconazole
+
+Nhiễm nấm niêm mạc và toàn thân
+
+nhiễm candida
+
+Viêm màng não do Cryptococcus
+
+Viêm màng não do nấm Coccidioides
+
+Rối loạn tiêu hóa, phát ban, viêm gan, kéo dài khoảng QT
+
+Flucytosine†
+
+Nhiễm nấm Candida
+
+(hệ thống)
+
+Bệnh do nấm cryptococcus
+
+Giảm bạch cầu do nhiễm độc tủy xương, bệnh thần kinh, buồn nôn, nôn mửa, tổn thương gan và thận, viêm đại tràng
+
+Isavuconazonium (isavuconazol)‡
+
+Aspergillosis
+
+Mucormycosis
+
+Buồn nôn, nôn, viêm gan, rút ngắn QT mà không có bằng chứng về nguy cơ tim, các phản ứng liên quan đến truyền dịch
+
+Itraconazole
+
+Bệnh nâm da
+
+Bệnh do nấm histoplasma
+
+,
+
+bệnh do nấm blastomyces
+
+,
+
+bệnh do nấm coccidioides
+
+,
+
+bệnh do nấm sportrichum
+
+,
+
+bệnh do nấm aspergillus
+
+Viêm gan, rối loạn tiêu hóa, phát ban, đau đầu, chóng mặt, hạ kali máu, tăng huyết áp, phù, kéo dài khoảng QT, suy tim
+
+Micafungin
+
+Aspergillosis
+
+Bệnh nấm Candida
+
+, bao gồm nhiễm Candida huyết
+
+Viêm tắc tĩnh mạch, viêm gan, phát ban, đau đầu, buồn nôn
+
+Posaconazole§
+
+Aspergillosis
+
+Mucormycosis
+
+Phòng ngừa nhiễm nấm xâm lấn
+
+Nhiễm nấm candida miệng kháng với fluconazol
+
+Viêm gan, rối loạn tiêu hóa, phát ban, kéo dài khoảng QT
+
+Rezafungin
+
+Nhiễm candida máu
+
+Nhiễm Candida xâm lấn
+
+Nhạy cảm với ánh sáng, xét nghiệm gan bất thường, phản ứng liên quan đến truyền dịch/thuốc (đỏ bừng, cảm giác nóng, nổi mề đay, buồn nôn, tức ngực)
+
+Voriconazole
+
+Nhiễm Aspergillosis xâm lấn
+
+Nhiễm nấm Candida
+
+Fusariosis
+
+Scedosporiosis
+
+Rối loạn tiêu hóa, rối loạn thị giác thoáng qua, phù ngoại vi, phát ban, viêm gan, kéo dài khoảng QT
+
+* Tác dụng phụ này ít gặp hơn với lipid kết hợp so với thông thường.
+
+† Amphotericin B được sử dụng với flucytosine cho các trường hợp nhiễm nấm
+
+Candida
+
+và cryptococcus nghiêm trọng.
+
+‡ Isavuconazol được dùng dưới dạng tiền thuốc isavuconazonium; 372 mg
+
+isavuconazonium
+
+tương đương với 200 mg isavuconazol.
+
+§ Viên nén giải phóng chậm, hỗn dịch uống giải phóng chậm và hỗn dịch uống giải phóng ngay của posaconazol KHÔNG thể thay thế cho nhau vì sự khác biệt về liều lượng.
+
+* Tác dụng phụ này ít gặp hơn với lipid kết hợp so với thông thường.
+
+† Amphotericin B được sử dụng với flucytosine cho các trường hợp nhiễm nấm
+
+Candida
+
+và cryptococcus nghiêm trọng.
+
+‡ Isavuconazol được dùng dưới dạng tiền thuốc isavuconazonium; 372 mg
+
+isavuconazonium
+
+tương đương với 200 mg isavuconazol.
+
+§ Viên nén giải phóng chậm, hỗn dịch uống giải phóng chậm và hỗn dịch uống giải phóng ngay của posaconazol KHÔNG thể thay thế cho nhau vì sự khác biệt về liều lượng.
+
+Công cụ tính toán lâm sàng
+
+Hiệu chỉnh khoảng QT (Điện tâm đồ)
+
+Amphotericin B
+
+Amphotericin B là liệu pháp kháng nấm cơ bản cho các trường hợp nhiễm nấm xâm lấn và nghiêm trọng, nhưng các thuốc chống nấm khác (như fluconazole, voriconazole, posaconazole, echinocandins) hiện nay được xem như là thuốc bậc một đối với các trường hợp này. Mặc dù
+
+amphotericin B
+
+có khả năng thẩm thấu dịch não tủy tốt nhưng vẫn có hiệu quả đối với một số bệnh nấm như là v
+
+iêm màng não do nấm cryptococcus
+
+.
+
+Công thức
+
+Có 2 công thức bào chế của
+
+amphotericin B
+
+:
+
+Dạng thông thường
+
+Dạng phức hợp lipid
+
+Đối với
+
+dạng thông thường
+
+, amphotericin B deoxycholate, phải luôn được pha trong dung dịch đường 5% vì muối có thể làm kết tủa thuốc. Thường được cho trong khoảng từ 2 đến 3 giờ, mặc dù truyền nhanh hơn trong vòng 20 đến 60 phút có thể được sử dụng ở những bệnh nhân nhất định. Tuy nhiên, truyền nhanh hơn thường không có lợi thế.
+
+Nhiều bệnh nhân có ớn lạnh, sốt, buồn nôn, nôn mửa, chán ăn, đau đầu, và đôi khi, hạ huyết áp trong và vài giờ sau khi truyền.
+
+Amphotericin B
+
+cũng có thể gây viêm tĩnh mạch huyết khối do hóa chất khi tiêm qua tĩnh mạch ngoại biên; dùng ống thông tĩnh mạch trung tâm có thể thích hợp hơn. Thường sử dụng thuốc tiền mê bằng acetaminophen hoặc thuốc chống viêm không steroid; nếu những loại thuốc này không hiệu quả, hydrocortisone 25 mg đến 50 mg hoặc diphenhydramine 25 mg đôi khi được thêm vào dịch truyền hoặc tiêm dưới dạng tiêm liều tấn công theo đường tĩnh mạch riêng biệt. Thông thường,
+
+hydrocortisone
+
+có thể được giảm dần và bỏ qua trong quá trình điều trị kéo dài. Có thể giảm bớt hoặc ngăn ngừa triệu chứng ớn lạnh và rét run nặng bằng meperidine 50 đến 75 mg truyền tĩnh mạch.
+
+Một số
+
+chế phẩm lipid
+
+làm giảm độc tính của amphotericin B (đặc biệt là các triệu chứng độc thận và các triệu chứng trong khi truyền dịch). Có hai chế phẩm sẵn có:
+
+Phức hợp lipid
+
+amphotericin B
+
+Amphotericin B
+
+có hạt mỡ
+
+Công thức bào chế có lipid được ưu tiên hơn
+
+amphotericin B
+
+thông thường vì các công thức bào chế này gây ra ít triệu chứng liên quan đến tiêm truyền hơn và ít độc tính trên thận hơn.
+
+Các tác dụng bất lợi
+
+Tác dụng bất lợi chính của
+
+amphotericin B
+
+là
+
+Gây độc thận(phổ biến nhất)
+
+Hạ kali máu
+
+Hạ magie máu
+
+Ức chế tủy xương
+
+Suy thận là nguy cơ độc tính chính của liệu pháp
+
+amphotericin B
+
+. Theo dõi Creatinine huyết thanh và Ure trước khi điều trị và đều đặn trong quá trình điều trị: vài lần/tuần trong 2 đến 3 tuần đầu tiên, sau đó 1 đến 4 lần/tháng theo chỉ định lâm sàng.
+
+Amphotericin B
+
+là thuốc duy nhất trong số các thuốc kháng sinh gây độc cho thận vì thuốc này không được đào thải đáng kể qua thận và không tích lũy khi suy thận nặng hơn. Tuy nhiên, nên giảm liều hoặc nên sử dụng một dạng lipid thay thế nếu creatinin huyết thanh tăng lên
+
+>
+
+2.0 to 2.5 mg/dL (
+
+>
+
+177 to 221 micromol/L) or BUN tăng lên tới
+
+>
+
+50 mg/dL (
+
+>
+
+18 millimole/L). Độc tính cấp tính trên thận có thể giảm bằng cách truyền dịch tích cực bằng nước muối sinh lý trước khi truyền
+
+amphotericin B
+
+; phải cho truyền ít nhất 1 L nước muối sinh lý trước khi truyền
+
+amphotericin B
+
+.
+
+Những bất thường về chức năng thận ở mức độ nhẹ đến trung bình do
+
+amphotericin B
+
+thường đỡ dần dần sau khi hoàn tất điều trị. Tổn thương vĩnh viễn xảy ra chủ yếu sau khi điều trị kéo dài; sau tổng liều
+
+>
+
+4 g, khoảng 75% số bệnh nhân bị suy thận kéo dài.
+
+Amphotericin B
+
+cũng có thể làm giảm đáp ứng erythropoietin và gây thiếu máu. Nhiễm độc gan hoặc các tác dụng phụ bất lợi khác không thường gặp.
+
+Thuốc chống nấm nhóm Azole
+
+Nhóm Azole ngăn chặn sự tổng hợp ergosterol, một thành phần quan trọng của màng tế bào nấm. Thuốc được dùng đường uống để điều trị nhiễm nấm mạn tính. Thuốc uống đầu tiên như vậy, ketoconazol, đã được thay thế bằng các dẫn xuất triazole hiệu quả hơn, ít độc hơn, như fluconazol, itraconazol, voriconazol, posaconazol và isavuconazonium.
+
+Tương tác thuốc có thể xảy ra với tất cả các azole nhưng ít xảy ra hơn với
+
+fluconazol
+
+. Các tương tác thuốc được đề cập dưới đây không nhằm mục đích liệt kê đầy đủ; bác sĩ lâm sàng nên tham khảo tài liệu tham khảo về tương tác thuốc cụ thể trước khi sử dụng thuốc chống nấm azole (xem thêm
+
+Cơ sở dữ liệu về tương tác thuốc chống nấm
+
+).
+
+Ngọc trai & cạm bẫy
+
+Tương tác thuốc thường xảy ra với thuốc chống nấm nhóm azole; xem xét tất cả các loại thuốc dùng đồng thời trước khi kê đơn.
+
+Fluconazole
+
+Thuốc hòa tan trong nước này được hấp thu gần như hoàn toàn sau khi uống một liều. Fluconazole được bài tiết dưới dạng hầu như không thay đổi trong nước tiểu và có thời gian bán hủy
+
+>
+
+24 giờ, cho phép dùng liều duy nhất hàng ngày. Thuốc có độ ngấm cao vào dịch não tủy (
+
+≥
+
+70% nồng độ huyết thanh) và đặc biệt hữu ích trong điều trị
+
+viêm màng não do cryptococcus
+
+và viêm màng não do nấm coccidioidal. Nó cũng là một trong những loại thuốc bậc một để điều trị nhiễm nấm huyết do Candida ở bệnh nhân không giảm bạch cầu hạt.
+
+Liều fluconazole dao động từ 200 mg đến 400 mg uống một lần/ngày đến cao tới 800 mg một lần/ngày đối với nhiễm nấm
+
+Candida glabrata
+
+và viêm màng não do nấm coccidioides. Liều hàng ngày
+
+≥
+
+1000 mg đã được sử dụng và có độc tính chấp nhận được. Đáng chú ý là
+
+Pichia kudriavzevii
+
+(
+
+Candida krusei
+
+) vốn có khả năng kháng
+
+fluconazole
+
+.
+
+Các tác dụng bất lợi
+
+thường xảy ra nhất với
+
+fluconazole
+
+là cảm giác khó chịu ở đường tiêu hóa (GI) và phát ban. Độc tính nặng hơn là bất thường, nhưng những điều sau đây đã xảy ra: hoại tử gan, hội chứng Stevens-Johnson, sốc phản vệ, rụng tóc từng mảng và khi dùng trong thời gian dài trong ba tháng đầu của thai kỳ, dị tật thai nhi bẩm sinh.
+
+Tương tác thuốc
+
+xảy ra với
+
+fluconazole
+
+ít thường xuyên hơn so với các azole khác. Tuy nhiên,
+
+fluconazole
+
+đôi khi làm tăng nồng độ trong huyết thanh của thuốc chẹn kênh canxi, cyclosporine, rifabutin, phenytoin, tacrolimus và thuốc chống đông đường uống loại warfarin. Rifampin có thể làm giảm nồng độ
+
+fluconazol
+
+e trong máu.
+
+Itraconazole
+
+Itraconazole là điều trị cơ bản của
+
+Viêm bạch huyết do Sporotrichosis
+
+nhiễm
+
+Histoplasma
+
+mức độ nhẹ và vừa
+
+nhiễm Blastomyces
+
+và
+
+nhiễm nấm paracoccidioidosis
+
+. Thuốc cũng có hiệu quả đối với bệnh do nấm aspergillus phổi mạn tính,
+
+bệnh do nấm coccidioides
+
+và một số loại
+
+bệnh do nấm màu
+
+. Mặc dù khả năng thâm nhập vào dịch não tủy kém,
+
+itraconazole
+
+có thể được sử dụng để điều trị một số loại viêm màng não do nấm nhưng không phải là thuốc được lựa chọn. Do khả năng hòa tan trong lipid và gắn kết với protein cao nên nồng độ
+
+itraconazole
+
+trong máu có xu hướng thấp nhưng nồng độ trong mô thường cao. Nồng độ thuốc trong nước tiểu và dịch não tủy là không đáng kể. Việc sử dụng
+
+itraconazole
+
+đã giảm khi việc sử dụng voriconazol và posaconazol tăng lên.
+
+Tác dụng bất lợi
+
+của
+
+itraconazole
+
+với liều lên tới 400 mg/ngày thường gặp nhất là ở đường tiêu hóa, nhưng một số nam giới đã báo cáo rối loạn cương dương và liều cao hơn có thể gây hạ kali máu, tăng huyết áp và phù ngoại biên. Các tác dụng phụ được ghi nhân khác bao gồm phát ban dị ứng, viêm gan và ảo giác. Một cảnh báo nhấn mạnh của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ về bệnh suy tim đã được ban hành.
+
+Tương tác thuốc và thực phẩm
+
+quan trọng. Khi sử dụng dạng viên nang, đồ uống có tính axit (ví dụ: cola, nước ép trái cây có tính axit) hoặc thực phẩm (đặc biệt là thực phẩm giàu chất béo) sẽ cải thiện sự hấp thu
+
+itraconazole
+
+từ đường tiêu hóa. Tuy nhiên, khả năng hấp thu có thể bị giảm nếu dùng itraconazol cùng với thuốc kê đơn hoặc thuốc không kê đơn dùng để giảm độ axit dạ dày.
+
+Một số loại thuốc, bao gồm rifampin, rifabutin, didanosine, phenytoin và carbamazepine, có thể làm giảm nồng độ itraconazole trong huyết thanh.
+
+Itraconazol cũng ức chế quá trình thoái hóa trao đổi chất của các loại thuốc khác, làm tăng nồng độ trong máu với những hậu quả nghiêm trọng. Rối loạn nhịp tim nghiêm trọng, thậm chí gây tử vong có thể xảy ra nếu dùng itraconazol với cisapride (không có ở Hoa Kỳ) hoặc một số loại thuốc kháng histamine (ví dụ: terfenadine, astemizole, có lẽ là loratadine). Tiêu cơ vân có liên quan đến tăng nồng độ cyclosporine hoặc statin trong máu do
+
+itraconazole
+
+gây ra.
+
+Itraconazole
+
+có thể làm tăng nồng độ trong huyết thanh của một số loại thuốc (ví dụ: tacrolimus, warfarin, digoxin) và nên theo dõi thuốc điều trị khi sử dụng các thuốc này với
+
+itraconazole
+
+.
+
+Một công thức bào chế mới của
+
+itraconazole
+
+(SUBA-
+
+itraconazole
+
+, viết tắt của SUper BioAvailable) đã cải thiện sinh khả dụng mà không cần đến môi trường axit trong dạ dày. SUBA-
+
+itraconazole
+
+được dùng cùng với thức ăn và có thể được sử dụng để điều trị bệnh do nấm histoplasma, bệnh do nấm blastomyces và bệnh do nấm aspergillus. Liều lượng của thuốc này khác với các dạng
+
+itraconazole
+
+khác.
+
+Voriconazole
+
+Triazol phổ rộng có sẵn dưới dạng viên nén và dạng tiêm truyền. Thuốc được coi là điều trị được lựa chọn đối với các nhiễm trùng do
+
+aspergillus
+
+(
+
+bệnh do aspergillus
+
+) ở những vật chủ có khả năng miễn dịch và suy giảm miễn dịch. Voriconazole cũng có thể được sử dụng để điều trị nhiễm trùng do
+
+Scedosporium apiospermum
+
+và nhiễm
+
+Fusarium
+
+. Ngoài ra, thuốc này có hiệu quả trong điều trị viêm thực quản do nấm và
+
+nhiễm nấm candida xâm lấn
+
+, mặc dù nó thường không được coi là phương pháp điều trị đầu tiên; nó có hoạt tính chống lại nhiều loài
+
+Candida
+
+hơn so với fluconazol.
+
+Các tác dụng bất lợi
+
+phải được theo dõi bao gồm nhiễm độc gan, rối loạn thị giác (thường gặp), ảo giác và phản ứng da liễu (ví dụ: nhạy cảm với ánh sáng).
+
+Voriconazole
+
+có thể kéo dài khoảng QT.
+
+Tương tác thuốc
+
+rất nhiều, đặc biệt là với một số loại thuốc ức chế miễn dịch được sử dụng sau khi cấy ghép cơ quan.
+
+Posaconazole
+
+Posaconazole là triazole có sẵn dưới dạng hỗn dịch, thuốc viên và dạng tiêm truyền. Viên nén giải phóng chậm là dạng bào chế được ưu tiên hơn do khả dụng sinh học qua đường uống được cải thiện. Thuốc này có hoạt tính mạnh chống với các loại nấm men và nấm mốc;có hiệu quả điều trị các bệnh nhiễm trùng khác nhau do nấm mốc, ví dụ như do các loài nấm có vách đen (ví dụ,
+
+Cladophialophora
+
+sp). Thuốc có hiệu quả chống lại nhiều chủng
+
+nấm mucormycose
+
+.
+
+Posaconazole
+
+cũng có thể được sử dụng làm thuốc dự phòng chống nấm ở bệnh nhân giảm bạch cầu trung tính có khối u ác tính về huyết học và ở những người được ghép tủy xương.
+
+Tác dụng bất lợi
+
+của p
+
+osaconazole
+
+, cũng như các triazole khác, bao gồm kéo dài khoảng QT và viêm gan.
+
+Tương tác thuốc
+
+xảy ra với nhiều loại thuốc, bao gồm rifabutin, rifampin, statin và các thuốc ức chế miễn dịch khác nhau.
+
+Isavuconazonium
+
+Isavuconazonium là một triazole phổ rộng để điều trị
+
+bệnh do nấm aspergillus
+
+và
+
+bệnh do nấm mucormyces
+
+. Nó có sẵn dưới dạng công thức IV cũng như viên nang uống. Có cả dạng truyền tiêm truyền và dạng uống Không cần giám sát nồng độ thuốc.
+
+Tác dụng bất lợi
+
+của
+
+isavuconazonium
+
+bao gồm rối loạn tiêu hóa và viêm gan; khoảng QT có thể giảm.
+
+Tương tác thuốc xảy ra
+
+với nhiều loại thuốc.
+
+Oteseconazole
+
+Oteseconazole
+
+là một loại thuốc chống nấm azole mới, dùng đường uống, được sử dụng để điều trị bệnh nấm candida âm hộ-âm đạo tái phát.
+
+Tác dụng bất lợi
+
+của
+
+oteseconazole
+
+bao gồm đau đầu và buồn nôn.
+
+Tương tác thuốc
+
+xảy ra với rosuvastatin.
+
+Echinocandins
+
+Echinocandin là các lipopeptit hòa tan trong nước có tác dụng ức chế tổng hợp glucan. Chúng chỉ có sẵn trong công thức IV. Cơ chế hoạt động của thuốc là duy nhất trong số các thuốc chống nấm; echinocandin nhắm vào thành tế bào nấm, khiến chúng trở nên hấp dẫn vì chúng không có khả năng kháng chéo với các loại thuốc khác và mục tiêu của chúng là nấm và không có đối tác ở động vật có vú. Nồng độ thuốc trong nước tiểu và trong dịch não tủy không đáng kể.
+
+Echinocandin có bán ở Hoa Kỳ là anidulafungin, caspofungin micafungin và rezafungin. Có rất ít bằng chứng cho thấy loại thuốc này tốt hơn loại kia, nhưng
+
+anidulafungin
+
+dường như tương tác với ít loại thuốc hơn những loại khác.
+
+Cần điều chỉnh liều
+
+caspofungin
+
+ở bệnh nhân suy gan nặng.
+
+Anidulafungin
+
+không được chuyển hóa ở gan nhưng được đào thải bằng cách thoái giáng chậm, tự phát. Không cần điều chỉnh liều của
+
+anidulafungin
+
+trong bệnh suy gan.
+
+Những loại thuốc này có khả năng diệt nấm đối với hầu hết các chủng
+
+candida
+
+quan trọng về mặt lâm sàng (xem
+
+điều trị bệnh do nấm candida xâm lấn
+
+) nhưng được coi là thuốc diệt nấm đối với
+
+aspergillus
+
+.
+
+Tác dụng phụ
+
+của echinocandins bao gồm viêm gan và phát ban.
+
+Flucytosine
+
+Flucytosine, một chất tương tự nucleic acid, có khả năng hòa tan trong nước và hấp thu tốt sau khi uống. Tình trạng kháng thuốc từ trước hoặc mới xuất hiện là phổ biến, vì vậy thuốc này hầu như luôn được sử dụng cùng với một loại thuốc chống nấm khác, thường là amphotericin B.
+
+Flucytosine
+
+kết hợp với
+
+amphotericin B
+
+được sử dụng chủ yếu để điều trị
+
+bệnh do nấm cryptococcus
+
+nhưng cũng có giá trị đối với một số trường hợp
+
+nhiễm nấm candida
+
+lan tỏa (bao gồm cả viêm nội tâm mạc).
+
+Flucytosine
+
+cộng với azole chống nấm có thể có lợi trong điều trị
+
+viêm màng não do cryptococcus
+
+và một số bệnh nấm khác.
+
+Tác dụng bất lợi
+
+chính của
+
+flucytosine
+
+là ức chế tủy xương (giảm tiểu cầu và giảm bạch cầu), nhiễm độc gan và viêm ruột; mức độ ức chế tủy xương tỷ lệ thuận với nồng độ trong huyết thanh.
+
+Vì flucytosine được đào thải chủ yếu qua thận nên nồng độ trong máu sẽ tăng nếu độc tính trên thận phát sinh khi sử dụng đồng thời với
+
+amphotericin B
+
+, đặc biệt khi dùng
+
+amphotericin B
+
+với liều
+
+>
+
+0,4 mg/kg/ngày. Cần theo dõi nồng độ
+
+flucytosine
+
+trong huyết thanh và điều chỉnh liều lượng để duy trì mức từ 40 đến 90 mcg/mL. Xét nghiệm công thức máu và xét nghiệm về gan thận hai lần/tuần. Nếu không có điều kiện đo nồng độ thuốc huyết thanh, điều trị bắt đầu ở liều 25 mg/kg 4 lần một ngày và giảm liều khi có suy thận.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Amphotericin B ---
+
+Amphotericin B là liệu pháp kháng nấm cơ bản cho các trường hợp nhiễm nấm xâm lấn và nghiêm trọng, nhưng các thuốc chống nấm khác (như fluconazole, voriconazole, posaconazole, echinocandins) hiện nay được xem như là thuốc bậc một đối với các trường hợp này. Mặc dùamphotericin Bcó khả năng thẩm thấu dịch não tủy tốt nhưng vẫn có hiệu quả đối với một số bệnh nấm như là viêm màng não do nấm cryptococcus.Công thứcCó 2 công thức bào chế củaamphotericin B:Dạng thông thườngDạng phức hợp lipidĐối vớidạng thông thường, amphotericin B deoxycholate, phải luôn được pha trong dung dịch đường 5% vì muối có thể làm kết tủa thuốc. Thường được cho trong khoảng từ 2 đến 3 giờ, mặc dù truyền nhanh hơn trong vòng 20 đến 60 phút có thể được sử dụng ở những bệnh nhân nhất định. Tuy nhiên, truyền nhanh hơn thường không có lợi thế.Nhiều bệnh nhân có ớn lạnh, sốt, buồn nôn, nôn mửa, chán ăn, đau đầu, và đôi khi, hạ huyết áp trong và vài giờ sau khi truyền.Amphotericin Bcũng có thể gây viêm tĩnh mạch huyết khối do hóa chất khi tiêm qua tĩnh mạch ngoại biên; dùng ống thông tĩnh mạch trung tâm có thể thích hợp hơn. Thường sử dụng thuốc tiền mê bằng acetaminophen hoặc thuốc chống viêm không steroid; nếu những loại thuốc này không hiệu quả, hydrocortisone 25 mg đến 50 mg hoặc diphenhydramine 25 mg đôi khi được thêm vào dịch truyền hoặc tiêm dưới dạng tiêm liều tấn công theo đường tĩnh mạch riêng biệt. Thông thường,hydrocortisonecó thể được giảm dần và bỏ qua trong quá trình điều trị kéo dài. Có thể giảm bớt hoặc ngăn ngừa triệu chứng ớn lạnh và rét run nặng bằng meperidine 50 đến 75 mg truyền tĩnh mạch.Một sốchế phẩm lipidlàm giảm độc tính của amphotericin B (đặc biệt là các triệu chứng độc thận và các triệu chứng trong khi truyền dịch). Có hai chế phẩm sẵn có:Phức hợp lipidamphotericin BAmphotericin Bcó hạt mỡCông thức bào chế có lipid được ưu tiên hơnamphotericin Bthông thường vì các công thức bào chế này gây ra ít triệu chứng liên quan đến tiêm truyền hơn và ít độc tính trên thận hơn.Các tác dụng bất lợiTác dụng bất lợi chính củaamphotericin BlàGây độc thận(phổ biến nhất)Hạ kali máuHạ magie máuỨc chế tủy xươngSuy thận là nguy cơ độc tính chính của liệu phápamphotericin B. Theo dõi Creatinine huyết thanh và Ure trước khi điều trị và đều đặn trong quá trình điều trị: vài lần/tuần trong 2 đến 3 tuần đầu tiên, sau đó 1 đến 4 lần/tháng theo chỉ định lâm sàng.Amphotericin Blà thuốc duy nhất trong số các thuốc kháng sinh gây độc cho thận vì thuốc này không được đào thải đáng kể qua thận và không tích lũy khi suy thận nặng hơn. Tuy nhiên, nên giảm liều hoặc nên sử dụng một dạng lipid thay thế nếu creatinin huyết thanh tăng lên>2.0 to 2.5 mg/dL (>177 to 221 micromol/L) or BUN tăng lên tới>50 mg/dL (>18 millimole/L). Độc tính cấp tính trên thận có thể giảm bằng cách truyền dịch tích cực bằng nước muối sinh lý trước khi truyềnamphotericin B; phải cho truyền ít nhất 1 L nước muối sinh lý trước khi truyềnamphotericin B.Những bất thường về chức năng thận ở mức độ nhẹ đến trung bình doamphotericin Bthường đỡ dần dần sau khi hoàn tất điều trị. Tổn thương vĩnh viễn xảy ra chủ yếu sau khi điều trị kéo dài; sau tổng liều>4 g, khoảng 75% số bệnh nhân bị suy thận kéo dài.Amphotericin Bcũng có thể làm giảm đáp ứng erythropoietin và gây thiếu máu. Nhiễm độc gan hoặc các tác dụng phụ bất lợi khác không thường gặp.
+
+--- 2. Thuốc chống nấm nhóm Azole ---
+
+Nhóm Azole ngăn chặn sự tổng hợp ergosterol, một thành phần quan trọng của màng tế bào nấm. Thuốc được dùng đường uống để điều trị nhiễm nấm mạn tính. Thuốc uống đầu tiên như vậy, ketoconazol, đã được thay thế bằng các dẫn xuất triazole hiệu quả hơn, ít độc hơn, như fluconazol, itraconazol, voriconazol, posaconazol và isavuconazonium.Tương tác thuốc có thể xảy ra với tất cả các azole nhưng ít xảy ra hơn vớifluconazol. Các tương tác thuốc được đề cập dưới đây không nhằm mục đích liệt kê đầy đủ; bác sĩ lâm sàng nên tham khảo tài liệu tham khảo về tương tác thuốc cụ thể trước khi sử dụng thuốc chống nấm azole (xem thêmCơ sở dữ liệu về tương tác thuốc chống nấm).Ngọc trai & cạm bẫyTương tác thuốc thường xảy ra với thuốc chống nấm nhóm azole; xem xét tất cả các loại thuốc dùng đồng thời trước khi kê đơn.FluconazoleThuốc hòa tan trong nước này được hấp thu gần như hoàn toàn sau khi uống một liều. Fluconazole được bài tiết dưới dạng hầu như không thay đổi trong nước tiểu và có thời gian bán hủy>24 giờ, cho phép dùng liều duy nhất hàng ngày. Thuốc có độ ngấm cao vào dịch não tủy (≥70% nồng độ huyết thanh) và đặc biệt hữu ích trong điều trịviêm màng não do cryptococcusvà viêm màng não do nấm coccidioidal. Nó cũng là một trong những loại thuốc bậc một để điều trị nhiễm nấm huyết do Candida ở bệnh nhân không giảm bạch cầu hạt.Liều fluconazole dao động từ 200 mg đến 400 mg uống một lần/ngày đến cao tới 800 mg một lần/ngày đối với nhiễm nấmCandida glabratavà viêm màng não do nấm coccidioides. Liều hàng ngày≥1000 mg đã được sử dụng và có độc tính chấp nhận được. Đáng chú ý làPichia kudriavzevii(Candida krusei) vốn có khả năng khángfluconazole.Các tác dụng bất lợithường xảy ra nhất vớifluconazolelà cảm giác khó chịu ở đường tiêu hóa (GI) và phát ban. Độc tính nặng hơn là bất thường, nhưng những điều sau đây đã xảy ra: hoại tử gan, hội chứng Stevens-Johnson, sốc phản vệ, rụng tóc từng mảng và khi dùng trong thời gian dài trong ba tháng đầu của thai kỳ, dị tật thai nhi bẩm sinh.Tương tác thuốcxảy ra vớifluconazoleít thường xuyên hơn so với các azole khác. Tuy nhiên,fluconazoleđôi khi làm tăng nồng độ trong huyết thanh của thuốc chẹn kênh canxi, cyclosporine, rifabutin, phenytoin, tacrolimus và thuốc chống đông đường uống loại warfarin. Rifampin có thể làm giảm nồng độfluconazole trong máu.ItraconazoleItraconazole là điều trị cơ bản củaViêm bạch huyết do SporotrichosisnhiễmHistoplasmamức độ nhẹ và vừanhiễm Blastomycesvànhiễm nấm paracoccidioidosis. Thuốc cũng có hiệu quả đối với bệnh do nấm aspergillus phổi mạn tính,bệnh do nấm coccidioidesvà một số loạibệnh do nấm màu. Mặc dù khả năng thâm nhập vào dịch não tủy kém,itraconazolecó thể được sử dụng để điều trị một số loại viêm màng não do nấm nhưng không phải là thuốc được lựa chọn. Do khả năng hòa tan trong lipid và gắn kết với protein cao nên nồng độitraconazoletrong máu có xu hướng thấp nhưng nồng độ trong mô thường cao. Nồng độ thuốc trong nước tiểu và dịch não tủy là không đáng kể. Việc sử dụngitraconazoleđã giảm khi việc sử dụng voriconazol và posaconazol tăng lên.Tác dụng bất lợicủaitraconazolevới liều lên tới 400 mg/ngày thường gặp nhất là ở đường tiêu hóa, nhưng một số nam giới đã báo cáo rối loạn cương dương và liều cao hơn có thể gây hạ kali máu, tăng huyết áp và phù ngoại biên. Các tác dụng phụ được ghi nhân khác bao gồm phát ban dị ứng, viêm gan và ảo giác. Một cảnh báo nhấn mạnh của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ về bệnh suy tim đã được ban hành.Tương tác thuốc và thực phẩmquan trọng. Khi sử dụng dạng viên nang, đồ uống có tính axit (ví dụ: cola, nước ép trái cây có tính axit) hoặc thực phẩm (đặc biệt là thực phẩm giàu chất béo) sẽ cải thiện sự hấp thuitraconazoletừ đường tiêu hóa. Tuy nhiên, khả năng hấp thu có thể bị giảm nếu dùng itraconazol cùng với thuốc kê đơn hoặc thuốc không kê đơn dùng để giảm độ axit dạ dày.Một số loại thuốc, bao gồm rifampin, rifabutin, didanosine, phenytoin và carbamazepine, có thể làm giảm nồng độ itraconazole trong huyết thanh.Itraconazol cũng ức chế quá trình thoái hóa trao đổi chất của các loại thuốc khác, làm tăng nồng độ trong máu với những hậu quả nghiêm trọng. Rối loạn nhịp tim nghiêm trọng, thậm chí gây tử vong có thể xảy ra nếu dùng itraconazol với cisapride (không có ở Hoa Kỳ) hoặc một số loại thuốc kháng histamine (ví dụ: terfenadine, astemizole, có lẽ là loratadine). Tiêu cơ vân có liên quan đến tăng nồng độ cyclosporine hoặc statin trong máu doitraconazolegây ra.Itraconazolecó thể làm tăng nồng độ trong huyết thanh của một số loại thuốc (ví dụ: tacrolimus, warfarin, digoxin) và nên theo dõi thuốc điều trị khi sử dụng các thuốc này vớiitraconazole.Một công thức bào chế mới củaitraconazole(SUBA-itraconazole, viết tắt của SUper BioAvailable) đã cải thiện sinh khả dụng mà không cần đến môi trường axit trong dạ dày. SUBA-itraconazoleđược dùng cùng với thức ăn và có thể được sử dụng để điều trị bệnh do nấm histoplasma, bệnh do nấm blastomyces và bệnh do nấm aspergillus. Liều lượng của thuốc này khác với các dạngitraconazolekhác.VoriconazoleTriazol phổ rộng có sẵn dưới dạng viên nén và dạng tiêm truyền. Thuốc được coi là điều trị được lựa chọn đối với các nhiễm trùng doaspergillus(bệnh do aspergillus) ở những vật chủ có khả năng miễn dịch và suy giảm miễn dịch. Voriconazole cũng có thể được sử dụng để điều trị nhiễm trùng doScedosporium apiospermumvà nhiễmFusarium. Ngoài ra, thuốc này có hiệu quả trong điều trị viêm thực quản do nấm vànhiễm nấm candida xâm lấn, mặc dù nó thường không được coi là phương pháp điều trị đầu tiên; nó có hoạt tính chống lại nhiều loàiCandidahơn so với fluconazol.Các tác dụng bất lợiphải được theo dõi bao gồm nhiễm độc gan, rối loạn thị giác (thường gặp), ảo giác và phản ứng da liễu (ví dụ: nhạy cảm với ánh sáng).Voriconazolecó thể kéo dài khoảng QT.Tương tác thuốcrất nhiều, đặc biệt là với một số loại thuốc ức chế miễn dịch được sử dụng sau khi cấy ghép cơ quan.PosaconazolePosaconazole là triazole có sẵn dưới dạng hỗn dịch, thuốc viên và dạng tiêm truyền. Viên nén giải phóng chậm là dạng bào chế được ưu tiên hơn do khả dụng sinh học qua đường uống được cải thiện. Thuốc này có hoạt tính mạnh chống với các loại nấm men và nấm mốc;có hiệu quả điều trị các bệnh nhiễm trùng khác nhau do nấm mốc, ví dụ như do các loài nấm có vách đen (ví dụ,Cladophialophorasp). Thuốc có hiệu quả chống lại nhiều chủngnấm mucormycose.Posaconazolecũng có thể được sử dụng làm thuốc dự phòng chống nấm ở bệnh nhân giảm bạch cầu trung tính có khối u ác tính về huyết học và ở những người được ghép tủy xương.Tác dụng bất lợicủa posaconazole, cũng như các triazole khác, bao gồm kéo dài khoảng QT và viêm gan.Tương tác thuốcxảy ra với nhiều loại thuốc, bao gồm rifabutin, rifampin, statin và các thuốc ức chế miễn dịch khác nhau.IsavuconazoniumIsavuconazonium là một triazole phổ rộng để điều trịbệnh do nấm aspergillusvàbệnh do nấm mucormyces. Nó có sẵn dưới dạng công thức IV cũng như viên nang uống. Có cả dạng truyền tiêm truyền và dạng uống Không cần giám sát nồng độ thuốc.Tác dụng bất lợicủaisavuconazoniumbao gồm rối loạn tiêu hóa và viêm gan; khoảng QT có thể giảm.Tương tác thuốc xảy ravới nhiều loại thuốc.OteseconazoleOteseconazolelà một loại thuốc chống nấm azole mới, dùng đường uống, được sử dụng để điều trị bệnh nấm candida âm hộ-âm đạo tái phát.Tác dụng bất lợicủaoteseconazolebao gồm đau đầu và buồn nôn.Tương tác thuốcxảy ra với rosuvastatin.
+
+--- 3. Echinocandins ---
+
+Echinocandin là các lipopeptit hòa tan trong nước có tác dụng ức chế tổng hợp glucan. Chúng chỉ có sẵn trong công thức IV. Cơ chế hoạt động của thuốc là duy nhất trong số các thuốc chống nấm; echinocandin nhắm vào thành tế bào nấm, khiến chúng trở nên hấp dẫn vì chúng không có khả năng kháng chéo với các loại thuốc khác và mục tiêu của chúng là nấm và không có đối tác ở động vật có vú. Nồng độ thuốc trong nước tiểu và trong dịch não tủy không đáng kể.Echinocandin có bán ở Hoa Kỳ là anidulafungin, caspofungin micafungin và rezafungin. Có rất ít bằng chứng cho thấy loại thuốc này tốt hơn loại kia, nhưnganidulafungindường như tương tác với ít loại thuốc hơn những loại khác.Cần điều chỉnh liềucaspofunginở bệnh nhân suy gan nặng.Anidulafunginkhông được chuyển hóa ở gan nhưng được đào thải bằng cách thoái giáng chậm, tự phát. Không cần điều chỉnh liều củaanidulafungintrong bệnh suy gan.Những loại thuốc này có khả năng diệt nấm đối với hầu hết các chủngcandidaquan trọng về mặt lâm sàng (xemđiều trị bệnh do nấm candida xâm lấn) nhưng được coi là thuốc diệt nấm đối vớiaspergillus.Tác dụng phụcủa echinocandins bao gồm viêm gan và phát ban.
+
+--- 4. Flucytosine ---
+
+Flucytosine, một chất tương tự nucleic acid, có khả năng hòa tan trong nước và hấp thu tốt sau khi uống. Tình trạng kháng thuốc từ trước hoặc mới xuất hiện là phổ biến, vì vậy thuốc này hầu như luôn được sử dụng cùng với một loại thuốc chống nấm khác, thường là amphotericin B.Flucytosinekết hợp vớiamphotericin Bđược sử dụng chủ yếu để điều trịbệnh do nấm cryptococcusnhưng cũng có giá trị đối với một số trường hợpnhiễm nấm candidalan tỏa (bao gồm cả viêm nội tâm mạc).Flucytosinecộng với azole chống nấm có thể có lợi trong điều trịviêm màng não do cryptococcusvà một số bệnh nấm khác.Tác dụng bất lợichính củaflucytosinelà ức chế tủy xương (giảm tiểu cầu và giảm bạch cầu), nhiễm độc gan và viêm ruột; mức độ ức chế tủy xương tỷ lệ thuận với nồng độ trong huyết thanh.Vì flucytosine được đào thải chủ yếu qua thận nên nồng độ trong máu sẽ tăng nếu độc tính trên thận phát sinh khi sử dụng đồng thời vớiamphotericin B, đặc biệt khi dùngamphotericin Bvới liều>0,4 mg/kg/ngày. Cần theo dõi nồng độflucytosinetrong huyết thanh và điều chỉnh liều lượng để duy trì mức từ 40 đến 90 mcg/mL. Xét nghiệm công thức máu và xét nghiệm về gan thận hai lần/tuần. Nếu không có điều kiện đo nồng độ thuốc huyết thanh, điều trị bắt đầu ở liều 25 mg/kg 4 lần một ngày và giảm liều khi có suy thận.

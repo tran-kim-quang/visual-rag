@@ -1,0 +1,643 @@
+TIÊU ĐỀ: Theo dõi và xét nghiệm trên Bệnh nhân bị bệnh nặng
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/cách-tiếp-cận-điều-trị-bệnh-nhân-bị-bệnh-nặng/theo-dõi-và-xét-nghiệm-trên-bệnh-nhân-bị-bệnh-nặng
+================================================================================
+
+NỘI DUNG:
+
+Theo dõi và xét nghiệm trên Bệnh nhân bị bệnh nặng
+
+Theo
+
+Cherisse Berry
+
+,
+
+MD
+
+,
+
+Rutgers Health, New Jersey Medical School
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2022
+
+|
+
+đã sửa đổi
+
+Thg 4 2024
+
+v924325_vi
+
+Xét nghiệm máu
+
+|
+
+Theo dõi tim mạch
+
+|
+
+Theo dõi ống thông động mạch phổi
+
+|
+
+Đánh giá cung lượng tim không xâm nhập
+
+|
+
+Theo dõi áp lực nội sọ (ICP)
+
+|
+
+Quang phổ cận hồng ngoại (NIRS)
+
+|
+
+Một số theo dõi phải bệnh nhân chăm sóc tích cực phụ thuộc vào quan sát trực tiếp và khám thực thể và ngắt quãng, với tần suất tùy thuộc vào bệnh của bệnh nhân. Các theo dõi khác đang được tiến hành liên tục, nhờ các thiết bị hiện đại đòi hỏi phải được đào tạo và có kinh nghiệm vận hành. Hầu hết các thiết bị này sẽ báo động nếu vượt quá các thông số sinh lý. Mỗi khoa hồi sức tích cực (ICU) phải tuân thủ đúng các quy trình nghiêm ngặt khi có báo động.
+
+Việc theo dõi thường bao gồm đo các sinh hiệu (nhiệt độ, huyết áp, mạch và nhịp thở), định lượng tất cả lượng dịch đưa vào và thải ra và thường là áp lực nội sọ và/hoặc cân nặng hàng ngày. Huyết áp có thể được ghi lại bằng máy đo huyết áp tự động, hoặc có thể sử dụng ống thông động mạch để theo dõi huyết áp liên tục. Một cảm biến xuyên da để đo độ bão hòa oxy trong máu cũng được sử dụng.
+
+Xét nghiệm máu
+
+Mặc dù việc lấy máu thường xuyên có thể gây vỡ ven, gây đau và dẫn đến mất máu, bệnh nhân ICU vẫn có các xét nghiệm máu hàng ngày thường để giúp chẩn đoán sớm tình trạng bệnh. Đặt một
+
+catheter tĩnh mạch trung tâm
+
+hoặc
+
+ống thông động mạch
+
+có thể tạo điều kiện cho việc lấy máu dễ dàng mà không cần chọc nhiều lần, nhưng cần cân nhắc nguy cơ biến chứng. Nói chung, bệnh nhân cần một bộ xét nghiệm điện giải và công thức máu toàn phần (CBC). Bệnh nhân cũng cần phải được đo nồng độ magiê, photphat và canxi ion hóa. Bệnh nhân được nuôi hoàn toàn qua đường tĩnh mạch cần được làm các xét nghiệm về gan và bộ xét nghiệm đông máu hàng tuần. Các xét nghiệm khác (ví dụ: cấy máu để tìm nguyên nhân gây sốt, xét nghiệm công thức máu theo tuần tự để tìm khả năng mất máu đang xảy ra) được thực hiện khi cần thiết.
+
+Xét nghiệm nhanh tại chỗ sử dụng các thiết bị thu nhỏ tự động hóa rất cao, để làm một số xét nghiệm máu tại giường hoặc đơn vị của bệnh nhân (đặc biệt là đơn vị hồi sức tích cực, khoa cấp cứu và phòng mổ). Các xét nghiệm thường làm bao gồm hóa sinh, glucose, khí máu (ABG), CTM, các marker tim, và xét nghiệm đông máu. Nhiều xét nghiệm thực hiện trong thời gian
+
+<
+
+2 phút và cần
+
+<
+
+0,5 mL máu.
+
+Theo dõi tim mạch
+
+Hầu hết bệnh nhân chăm sóc tích cực phải được theo dõi liên tục hoạt động của tim bằng hệ thống 3 đạo trình; tín hiệu thường chuyển đến máy theo dõi trung tâm nhờ máy phát sóng vô tuyến nhỏ gắn trên bệnh nhân. Các hệ thống tự động báo động khi phát hiện tần số và nhịp bất thường và lưu lại để kiểm tra sau đó.
+
+Một số máy theo dõi tim mạch chuyên dụng theo dõi các thông số nâng cao hơn liên quan đến thiếu máu mạch vành, mặc dù lợi ích lâm sàng của chúng không rõ ràng. Các thông số này bao gồm theo dõi liên tục đoạn ST và biến thiên nhịp tim. Mất các biến thiên nhịp beat-to-beat bình thường báo hiệu sự giảm hoạt động tự trị và có thể là thiếu máu mạch vành và tăng nguy cơ tử vong.
+
+Theo dõi ống thông động mạch phổi
+
+Sử dụng ống thông động mạch phổi (PAC hay còn gọi là catheter Swan - Ganz) đang ít dần ở bệnh nhân ICU. Ống thông có bóng ở đầu, di chuyển theo dòng máu, được đưa qua tĩnh mạch trung tâm qua tim phải lên động mạch phổi. Ống thông thường chứa một số cổng có thể theo dõi áp lực hoặc tiêm truyền dịch. Một số loại PAC mang một cảm biến để đo độ bão hòa oxy tĩnh mạch trung tâm. Dữ liệu từ PAC được sử dụng chủ yếu để xác định lưu lượng tim và tiền gánh. Tiền gánh được ước tính chủ yếu dựa vào
+
+áp lực động mạch phổi bít
+
+. Tuy nhiên, tiền gánh có thể xác định chính xác hơn bằng thể tích cuối tâm trương tâm thất phải, được đo bằng các cảm biến nhiệt đáp ứng nhanh với nhịp tim.
+
+Mặc dù đã được sử dụng trong thời gian dài, PAC vẫn chưa chứng minh được là làm giảm tỷ lệ tử vong và tàn phế. Trái lại, sử dụng PAC có liên quan làm tăng tỷ lệ tử vong. Điều này có thể giải thích là do các biến chứng của liên quan đến PAC và do đọc sai kết quả thu được. Chính vì thế, nhiều bác sĩ cho rằng PAC, khi kết hợp với các dữ liệu đo được khách quan với lâm sàng, hỗ trợ điều trị nhất định cho các bệnh nhân bị bệnh nặng. Giống như nhiều kỹ thuật đo chức năng sống, giá trị thay đổi theo thời gian thường có ý nghĩa hơn một giá trị bất thường đơn độc. Các chỉ định có thể của PAC được liệt kê trong bảng
+
+Các chỉ định có thể của Ống thông động mạch phổi
+
+.
+
+Bảng
+
+Các chỉ định có thể Ống thông động mạch phổi
+
+Các chỉ định có thể Ống thông động mạch phổi
+
+Rối loạn ở tim
+
+Hở van tim cấp tính
+
+Chèn ép tim
+
+Suy tim
+
+phức tạp
+
+Nhồi máu cơ tim
+
+có biến chứng
+
+Thủng vách ngăn
+
+Rối loạn huyết động*
+
+Đánh giá tình trạng dịch
+
+Sốc
+
+Theo dõi huyết động
+
+Phẫu thuật tim
+
+Chăm sóc sau phẫu thuật ở bệnh nhân hồi sức
+
+Phẫu thuật và chăm sóc sau phẫu thuật ở bệnh nhân bị bệnh nhân hồi sức tim mạch
+
+Rối loạn hô hấp
+
+Tắc mạch phổi
+
+phức tạp
+
+Tăng áp động mạch phổi
+
+* Đặc biệt là khi cần dùng thuốc tăng co bóp.
+
+* Đặc biệt là khi cần dùng thuốc tăng co bóp.
+
+Phim X-quang cho thấy vị trí chính xác của ống thông Swan-Ganz
+
+Hình ảnh
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Thủ thuật
+
+Ống thông động mạch phổi (PAC) được luồn qua một ống thông đặc biệt trong tĩnh mạch dưới đòn (Thường là bên trái) hoặc tĩnh mạch cảnh trong (thường bên phải) hoặc ít phổ biến hơn là tĩnh mạch đùi khi hút xẹp bóng (ở đầu ống thông). Một khi đầu ống thông tới tĩnh mạch chủ trên, bơm bóng lên để dòng máu sẽ đẩy ống thông đi. Vị trí của đầu ống thông thường được xác định bằng cách theo dõi áp lực (xem bảng
+
+Áp lực bình thường trong tim và mạch lớn
+
+để biết áp lực trong tim và mạch lớn) hoặc đôi khi bằng soi huỳnh quang nếu có. Ống thông vào thất phải được chỉ điểm bằng tăng áp lực tâm thu đột ngột lên khoảng 30 mmHg; áp lực tâm trương không thay đổi so với áp lực tĩnh mạch chủ trên và nhĩ phải. Khi ống thông vào đến động mạch phổi, áp lực tâm thu không thay đổi, nhưng áp lực tâm trương tăng cao trên áp lực cuối tâm trương thất phải hoặc áp lực tĩnh mạch trung tâm (CVP); tức là áp lực xung (sự khác biệt giữa áp lực tâm thu và tâm trương) thu hẹp lại. Ống thông tiếp tục trôi cho đến khi đầu bóng mắc lại ở đoạn xa động mạch phổi. Sau khi bóng đã vào đúng chỗ trong động mạch phổi, cần làm xẹp bóng. Chụp X-quang ngực để kiểm tra vị trí thích hợp.
+
+Đặt ống thông động mạch phổi
+
+Các video
+
+Bảng
+
+Áp lực bình thường trong tim và mạch máu lớn
+
+Bảng
+
+Áp lực bình thường trong tim và mạch máu lớn
+
+Áp lực bình thường trong tim và mạch máu lớn
+
+Loại áp lực
+
+Trung bình (mmHg)
+
+Dải (mmHg)
+
+Tâm nhĩ phải
+
+3
+
+0–8
+
+Tâm thất phải
+
+Đỉnh tâm thu
+
+25
+
+15–30
+
+Cuối tâm trương
+
+4
+
+0–8
+
+Động mạch phổi
+
+Trung bình
+
+15
+
+9–16
+
+Đỉnh tâm thu
+
+25
+
+15–30
+
+Cuối tâm trương
+
+9
+
+4–14
+
+Động mạch phổi bít (động mạch phổi bịt)
+
+Trung bình
+
+9
+
+2–12
+
+Tâm nhĩ trái
+
+Trung bình
+
+8
+
+2–12
+
+Sóng A
+
+10
+
+4–16
+
+Sóng V
+
+13
+
+6–12
+
+Tâm thất trái
+
+Đỉnh tâm thu
+
+130
+
+90–140
+
+Cuối tâm trương
+
+9
+
+5–12
+
+Động mạch cánh tay
+
+Trung bình
+
+85
+
+70–150
+
+Đỉnh tâm thu
+
+130
+
+90–140
+
+Cuối tâm trương
+
+70
+
+60–90
+
+Được tham khảo từ Fowler NO:
+
+Chẩn đoán và điều trị bệnh tim
+
+, ed 3. Philadelphia, JB Lippincott, 1980, tr. 11.
+
+Được tham khảo từ Fowler NO:
+
+Chẩn đoán và điều trị bệnh tim
+
+, ed 3. Philadelphia, JB Lippincott, 1980, tr. 11.
+
+Áp lực tâm thu (bình thường, 15 đến 30 mmHg) và áp lực tâm trương (bình thường, 5 đến 13 mmHg) được đo khi bóng xẹp. Áp lực tâm trương tương đồng với áp lực bít, mặc dù áp lực tâm trương có thể cao hơn áp lực bít khi có tăng sức cản mạch phổi hậu quả của bệnh phổi nguyên phát (như
+
+xơ phổi
+
+,
+
+tăng áp động mạch phổi
+
+).
+
+Áp lực động mạch phổi bít (áp lực bịt động mạch phổi)
+
+Khi bóng được bơm lên, áp lực ở đầu ống thông phản ánh áp lực tĩnh của tĩnh mạch của phổi. Không được để bóng căng
+
+>
+
+30 giây nhằm tránh tắc mạch phổi. Thông thường, áp lực động mạch phổi bít (PAOP) xấp xỉ bằng áp lực trung bình nhĩ trái, do đó xấp xỉ bằng áp lực cuối tâm trương thất trái (LVEDP). LVEDP phản ứng thể tích cuối tâm trương thất trái (LVEDV). LVEDV đại diện cho tiền gánh, đó là tham số đích đích thực. Nhiều yếu tố gây nhiễu kết quả PAOP làm LVEDV không chính xác. Những yếu tố này bao gồm
+
+hẹp van hai lá
+
+, hở van hai lá, áp lực dương cuối thì thở ra ở mức cao (
+
+>
+
+10 cm H2O) và những thay đổi về độ giãn nở của tâm thất trái (ví dụ: do
+
+nhồi máu cơ tim
+
+, tràn dịch màng ngoài tim hoặc tăng hậu gánh). Khó khăn về kỹ thuật do bơm bóng căng quá mức, vị trí ống thông không chính xác, áp lực phế nang vượt quá áp lực tĩnh mạch phổi, hoặc
+
+tăng áp lực động mạch phổi
+
+nặng (có thể làm cho quả bóng khó bít).
+
+Tăng PAOP xảy ra trong
+
+suy tim
+
+trái. Giảm PAOP xảy ra khi có giảm thể tích máu hoặc giảm tiền gánh.
+
+Oxy tĩnh mạch trộn
+
+Máu tĩnh mạch trộn bao gồm máu từ tĩnh mạch chủ trên và tĩnh mạch chủ dưới đi qua tim phải đến động mạch phổi. Có thể lấy mẫu máu từ cổng xa của PAC, nhưng một số catheter đã gắn các cảm biến sợi quang đo trực tiếp lượng oxy bão hòa.
+
+Nguyên nhân của lượng oxy tĩnh mạch trộn thấp (SmvO2) gồm thiếu máu, bệnh phổi, carboxyhemoglobin, cung lượng tim thấp và tăng nhu cầu chuyển hóa tổ chức. Tỷ lệ SaO2 trên (SaO2 - SmvO2) xác định độ mức độ đủ của lượng oxy cung cấp. Tỷ lệ lý tưởng là 4:1, trong khi 2:1 là tỷ lệ chấp nhận tối thiểu để duy trì nhu cầu chuyến hóa ái khí.
+
+Cung lượng tim (CO)
+
+Cung lượng tim được đo bằng cách bơm nhanh nước lạnh hoặc, ở những thế hệ ống thông mới, hòa loãng nhiệt bằng nước ấm liên tục (Xem bảng
+
+Đo lưu lượng và cung lượng tim
+
+). Chỉ số tim được tính bằng chia cung lượng tim theo diện tích da cơ thể để điều chỉnh theo kích thước bệnh nhân (xem bảng
+
+Các giá trị bình thường của chỉ số tim và các biện pháp liên quan
+
+).
+
+Công cụ tính toán lâm sàng
+
+Diện tích bề mặt cơ thể (Phương pháp Du Bois)
+
+Công cụ tính toán lâm sàng
+
+Tính cung lượng tim
+
+Công cụ tính toán lâm sàng
+
+Cung lượng tim
+
+Các biến số khác có thể được tính từ cung lượng tim. Chúng bao gồm trở kháng mạch phổi và mạch hệ thống, và công tống máu của thất phải (RVSW) và thất trái (LVSW).
+
+Bảng
+
+Giá trị bình thường cho Chỉ số tim và các phép đo liên quan
+
+Bảng
+
+Giá trị bình thường cho Chỉ số tim và các phép đo liên quan
+
+Giá trị bình thường cho Chỉ số tim và các phép đo liên quan
+
+Đo lường
+
+Đơn vị ± SD
+
+Hấp thụ khí oxy
+
+143
+
+±
+
+14,3 mL/phút/m
+
+2
+
+Sự chênh lệch nồng độ oxy động mạch - tĩnh mạch
+
+4,1
+
+±
+
+0,6 dL
+
+Chỉ số tim
+
+3,5
+
+±
+
+0,7 L/phút/m
+
+2
+
+Chỉ số nhát bóp
+
+46
+
+±
+
+8,1 mL/phút/m
+
+2
+
+Tổng trở kháng mạch hệ thống
+
+1130
+
+±
+
+178 dynes-giây-cm
+
+-5
+
+Tổng trở kháng mạch phổi
+
+205
+
+±
+
+51 dynes-giây-cm
+
+-5
+
+Trở kháng động mạch phổi
+
+67
+
+±
+
+23 dynes-giây-cm
+
+-5
+
+SD
+
+=
+
+độ lệch chuẩn.
+
+Được chuyển thể từ Barratt-Boyes BG, Wood EH: Cung lượng tim và các phép đo liên quan và các giá trị áp lực trong tim phải và các mạch máu liên quan, cùng với việc phân tích đáp ứng huyết động đối khi thở hỗn hợp oxy cao trên những người khỏe mạnh.
+
+Tạp chí Y học thực nghiệm và lâm sàng
+
+51:72–90, 1958.
+
+SD
+
+=
+
+độ lệch chuẩn.
+
+Được chuyển thể từ Barratt-Boyes BG, Wood EH: Cung lượng tim và các phép đo liên quan và các giá trị áp lực trong tim phải và các mạch máu liên quan, cùng với việc phân tích đáp ứng huyết động đối khi thở hỗn hợp oxy cao trên những người khỏe mạnh.
+
+Tạp chí Y học thực nghiệm và lâm sàng
+
+51:72–90, 1958.
+
+Các biến chứng
+
+Ống thông động mạch phổi (PAC) có thể khó đặt.
+
+Các loạn nhịp tim
+
+, đặc biệt là loạn nhịp thất, là biến chứng phổ biến nhất. Nhồi máu phổi sau khi bơm bóng quá mức hoặc bơm liên tục, thủng động mạch phổi, thủng thành tim, tổn thương van tim, và
+
+viêm nội tâm mạc
+
+có thể xảy ra. Hiếm khi, ống thông có thể cuộn tròn thành một nút trong tâm thất phải (đặc biệt ở bệnh nhân suy tim, bệnh cơ tim hoặc tăng áp lực phổi).
+
+Vỡ động mạch phổi xảy ra ở
+
+<
+
+0,1% số bệnh nhân đặt PAC. Biến chứng nguy kịch này thường gây tử vong và xảy ra ngay lập tức khi bơm bóng chèn lần đầu hoặc trong lần kiểm tra áp lực sau đó. Do đó, nhiều bác sĩ thích theo dõi áp lực tâm trương động mạch phổi hơn các áp lực bơm bóng chèn.
+
+Đánh giá cung lượng tim không xâm nhập
+
+Các phương pháp khác xác định cung lượng tim, chẳng hạn như siêu âm tại chỗ, theo dõi Doppler thực quản và trở kháng sinh học lồng ngực, có thể được sử dụng để tránh các biến chứng của ống thông động mạch phổi (PAC). Mặc dù những phương pháp này có thể hữu ích, nhưng không có phương pháp nào đáng tin cậy như PAC.
+
+Siêu âm tại điểm chăm sóc
+
+Siêu âm điểm chăm sóc đã trở thành không thể thiếu trong chăm sóc quan trọng để chẩn đoán nhanh các bất thường về chức năng cũng như giải phẫu. Thiết bị siêu âm cầm tay là thiết bị cầm tay và do đó tiết kiệm thời gian và không cần phải di chuyển bệnh nhân. Chất lượng thông tin thu được từ siêu âm tại điểm chăm sóc đôi khi phù hợp hoặc vượt trội so với những kỹ thuật hình ảnh đắt tiền hơn. Sử dụng hợp lý siêu âm làm giảm tiếp xúc với bức xạ ion hóa. Trong chăm sóc cấp tính, siêu âm điểm chăm sóc đặc biệt hữu ích cho việc đánh giá bụng, ngực và tim. Đôi khi nó có thể được sử dụng để chẩn đoán huyết khối tĩnh mạch sâu.
+
+Siêu âm bụng
+
+có thể được sử dụng để xác định dịch tự do (ngoại mạch), thường là một phần của
+
+đánh giá tập trung với siêu âm trong chấn thương
+
+(FAST – thường được thực hiện trong quá trình đánh giá chấn thương và hồi sức). Dịch tự do ở bệnh nhân chấn thương hạ huyết áp có thể là máu, chỉ định can thiệp phẫu thuật. Các cơ quan bụng cũng có thể được đánh giá.
+
+Siêu âm tim
+
+rất cần thiết để đánh giá giải phẫu cũng như tình trạng huyết động bằng cách đánh giá kích thước buồng, chuyển động thành, sức co bóp và phân suất tống máu. Đánh giá siêu âm tim nhanh tập trung (FREE) là một ví dụ về đánh giá siêu âm theo cấu trúc. FREE được thực hiện bằng cách sử dụng 4 cửa sổ siêu âm tim tiêu chuẩn: trục dài cạnh xương ức, trục ngắn cạnh xương ức, cửa sổ đỉnh tim và cửa sổ dưới mũi ức. FREE đánh giá phân suất tống máu thất trái (EF), thể tích nhát bóp (SV), cung lượng tim (CO) và chỉ số tim (CI) và cho phép đánh giá bệnh nhân bị hạ huyết áp (
+
+1
+
+). Khi đánh giá bệnh nhân tụt huyết áp, siêu âm là không thể thiếu để xác nhận những điều sau:
+
+Giảm thể tích máu: Ngay cả khi tĩnh mạch chủ dưới có vẻ đầy (có thể xảy ra ở bệnh nhân thở nhanh), tình trạng giảm thể tích tuần hoàn được gợi ý bởi tình trạng tăng huyết áp trái và gần như không có máu ở cuối tâm thu.
+
+Rối loạn chức năng tâm thất trái: Rối loạn chức năng thất trái được gợi ý bởi các bất thường chuyển động của thành tim và giảm phân suất tống máu hoặc đo được (do một bác sĩ có kinh nghiệm đánh giá kích thước tổng thể và sự co giãn rõ ràng và sự dày lên của các thành thất trái).
+
+Suy thất phải: Tâm thất phải bằng 60% kích thước của tâm thất trái, hình tam giác, và có bề mặt bên trong gồ ghề. Suy tim phải có thể gợi ý thuyên tắc phổi.
+
+Tràn dịch màng ngoài tim và ép tim
+
+Siêu âm ngực
+
+có thể được sử dụng để xác định dịch màng phổi và tràn khí màng phổi với độ nhạy cao hơn và giá trị dự đoán âm tính hơn so với chụp X-quang thường quy. Ví dụ, mất khả năng trượt của phổi trong một khu vực kéo dài trên 3 khoảng liên sườn và các đường chữ A (các ảnh giả nằm ngang) là mỗi đường đều nhạy cảm gần như 100% và khi được kết hợp lại, có vẻ đặc hiệu cao. Âm vang của dịch màng phổi và những thay đổi trong màng phổi và nhu mô phổi lân cận cũng giúp xác định nguyên nhân của dịch màng phổi. (Xem
+
+Cách khám E-FAST
+
+.)
+
+Siêu âm điểm chăm sóc cũng rất hữu ích cho việc tìm kiếm huyết khối tĩnh mạch sâu và đánh giá các cơ quan trong ổ bụng.
+
+Máy theo dõi Doppler thực quản (EDM)
+
+Thiết bị này là một ống thông mềm 6 mm được luồn qua mũi họng xuống thực quản và nằm phía sau tim. Một đầu dò dòng chảy Doppler ở đầu của nó cho phép theo dõi liên tục lượng cung lượng tim và thể tích nhát bóp. Không giống như PAC xâm lấn, theo dõi Doppler thực quản (EDM) không gây tràn khí màng phổi, loạn nhịp, hoặc nhiễm trùng. EDM có thể thực sự chính xác hơn PAC ở bệnh nhân tổn thương van tim, bất thường vách liên thất, loạn nhịp tim, hoặc tăng áp động mạch phổi. Tuy nhiên, EDM có thể mất dạng sóng chỉ với một thay đổi vị trí nhỏ và khiến các thông số bị mờ, không chính xác.
+
+Trở kháng sinh học lồng ngực
+
+Các hệ thống này sử dụng điện cực đặt trên ngực trước và vùng cổ để đo trở kháng điện của ngực. Giá trị này thay đổi theo biến thiên thể tích máu trong lồng ngực theo từng nhát bóp nhờ đó có thể ước lượng cung lượng tim. Hệ thống này không gây hại và cung cấp các giá trị nhanh (trong vòng từ 2 đến 5 phút); tuy nhiên, kỹ thuật rất nhạy với sự thay đổi tiếp xúc điện cực với bệnh nhân. Trở kháng sinh học lồng ngực có giá trị hơn trong việc phát hiện những thay đổi cung lượng tim của một bệnh nhân cụ thể so với đo cung lượng tim chính xác.
+
+Tài liệu tham khảo đánh giá cung lượng tim không xâm lấn
+
+1.
+
+Murthi SB, Hess JR, Hess A, et al
+
+: Focused rapid echocardiographic evaluation versus vascular catheter-based assessment of cardiac output and function in critically ill trauma patients.
+
+J Trauma Acute Care Surg
+
+72 (5):1158–1164, 2012. doi: 10.1097/TA.0b013e31824d1112
+
+Theo dõi áp lực nội sọ (ICP)
+
+Theo dõi áp lực nội sọ là tiêu chuẩn cho những bệnh nhân bị chấn thương đầu kín nặng và đôi khi được sử dụng cho một số rối loạn não khác, chẳng hạn như trong một số trường hợp được chọn của
+
+não úng thủy
+
+và
+
+tăng huyết áp nội sọ tự phát
+
+(giả u não) hoặc trong xử trí sau phẫu thuật hoặc xử trí sau thuyên tắc
+
+dị dạng động tĩnh mạch
+
+. Các thiết bị này được sử dụng để theo dõi ICP (thường là 5 đến 15 mm Hg) và để tối ưu hóa áp lực tưới máu não (áp lực trung bình trừ áp lực nội sọ). Thông thường, áp lực tưới máu não phải giữ
+
+>
+
+60 mm Hg.
+
+Một số máy theo dõi áp lực nội soi có sẵn. Dẫn lưu ngoài não thất (EVD) là phương pháp hữu ích nhất; một ống thông được đặt qua hộp sọ vào não thất (ống thông sàn não thất). Thiết bị này được ưa thích vì ống thông cũng có thể dẫn lưu dịch não tủy (CSF) và do đó giảm áp lực nội sọ. Tuy nhiên, dẫn lưu ngoài não thất cũng là phương pháp xâm lấn nhất, có tỷ lệ nhiễm trùng cao nhất và khó đặt nhất. Đôi khi, dẫn lưu ngoài não thất bị tắc nghẽn do phù não nặng.
+
+Các loại thiết bị nội sọ khác bao gồm máy theo dõi trong nhu mô, chốt dưới màng nhện, chốt dưới màng cứng và chốt ngoài màng cứng được chèn giữa hộp sọ và màng cứng qua đó cảm biến áp suất được đưa qua. Trong số này, máy đo áp lực mô não thường được sử dụng nhiều hơn. Tất cả các thiết bị đo áp lực nội sọ thường phải được thay hoặc rút sau 5 đến 7 ngày vì nguy cơ nhiễm trùng.
+
+Quang phổ cận hồng ngoại (NIRS)
+
+Quang phổ cận hồng ngoại là một phương pháp không xâm lấn để theo dõi liên tục quá trình oxy hóa và tưới máu cơ quan cuối. Các cảm biến quang phổ cận hồng ngoại thường được đặt trên da phía trên mô đích để theo dõi trạng thái oxy hóa khử của tế bào sắc tố ty thể, phản ánh quá trình tưới máu của mô. Quang phổ cận hồng ngoại có thể giúp chẩn đoán hội chứng khoang cấp (ví dụ: trong chấn thương) hoặc thiếu máu cục bộ sau khi chuyển mô tự do và có thể hữu ích trong việc theo dõi sau phẫu thuật các mảnh ghép bắc cầu mạch máu chi dưới. Theo dõi quang phổ cận hồng ngoại về pH ruột non có thể được sử dụng để đánh giá mức độ hồi sức đầy đủ.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Xét nghiệm máu ---
+
+Mặc dù việc lấy máu thường xuyên có thể gây vỡ ven, gây đau và dẫn đến mất máu, bệnh nhân ICU vẫn có các xét nghiệm máu hàng ngày thường để giúp chẩn đoán sớm tình trạng bệnh. Đặt mộtcatheter tĩnh mạch trung tâmhoặcống thông động mạchcó thể tạo điều kiện cho việc lấy máu dễ dàng mà không cần chọc nhiều lần, nhưng cần cân nhắc nguy cơ biến chứng. Nói chung, bệnh nhân cần một bộ xét nghiệm điện giải và công thức máu toàn phần (CBC). Bệnh nhân cũng cần phải được đo nồng độ magiê, photphat và canxi ion hóa. Bệnh nhân được nuôi hoàn toàn qua đường tĩnh mạch cần được làm các xét nghiệm về gan và bộ xét nghiệm đông máu hàng tuần. Các xét nghiệm khác (ví dụ: cấy máu để tìm nguyên nhân gây sốt, xét nghiệm công thức máu theo tuần tự để tìm khả năng mất máu đang xảy ra) được thực hiện khi cần thiết.Xét nghiệm nhanh tại chỗ sử dụng các thiết bị thu nhỏ tự động hóa rất cao, để làm một số xét nghiệm máu tại giường hoặc đơn vị của bệnh nhân (đặc biệt là đơn vị hồi sức tích cực, khoa cấp cứu và phòng mổ). Các xét nghiệm thường làm bao gồm hóa sinh, glucose, khí máu (ABG), CTM, các marker tim, và xét nghiệm đông máu. Nhiều xét nghiệm thực hiện trong thời gian<2 phút và cần<0,5 mL máu.
+
+--- 2. Theo dõi tim mạch ---
+
+Hầu hết bệnh nhân chăm sóc tích cực phải được theo dõi liên tục hoạt động của tim bằng hệ thống 3 đạo trình; tín hiệu thường chuyển đến máy theo dõi trung tâm nhờ máy phát sóng vô tuyến nhỏ gắn trên bệnh nhân. Các hệ thống tự động báo động khi phát hiện tần số và nhịp bất thường và lưu lại để kiểm tra sau đó.Một số máy theo dõi tim mạch chuyên dụng theo dõi các thông số nâng cao hơn liên quan đến thiếu máu mạch vành, mặc dù lợi ích lâm sàng của chúng không rõ ràng. Các thông số này bao gồm theo dõi liên tục đoạn ST và biến thiên nhịp tim. Mất các biến thiên nhịp beat-to-beat bình thường báo hiệu sự giảm hoạt động tự trị và có thể là thiếu máu mạch vành và tăng nguy cơ tử vong.
+
+--- 3. Theo dõi ống thông động mạch phổi ---
+
+Sử dụng ống thông động mạch phổi (PAC hay còn gọi là catheter Swan - Ganz) đang ít dần ở bệnh nhân ICU. Ống thông có bóng ở đầu, di chuyển theo dòng máu, được đưa qua tĩnh mạch trung tâm qua tim phải lên động mạch phổi. Ống thông thường chứa một số cổng có thể theo dõi áp lực hoặc tiêm truyền dịch. Một số loại PAC mang một cảm biến để đo độ bão hòa oxy tĩnh mạch trung tâm. Dữ liệu từ PAC được sử dụng chủ yếu để xác định lưu lượng tim và tiền gánh. Tiền gánh được ước tính chủ yếu dựa vàoáp lực động mạch phổi bít. Tuy nhiên, tiền gánh có thể xác định chính xác hơn bằng thể tích cuối tâm trương tâm thất phải, được đo bằng các cảm biến nhiệt đáp ứng nhanh với nhịp tim.Mặc dù đã được sử dụng trong thời gian dài, PAC vẫn chưa chứng minh được là làm giảm tỷ lệ tử vong và tàn phế. Trái lại, sử dụng PAC có liên quan làm tăng tỷ lệ tử vong. Điều này có thể giải thích là do các biến chứng của liên quan đến PAC và do đọc sai kết quả thu được. Chính vì thế, nhiều bác sĩ cho rằng PAC, khi kết hợp với các dữ liệu đo được khách quan với lâm sàng, hỗ trợ điều trị nhất định cho các bệnh nhân bị bệnh nặng. Giống như nhiều kỹ thuật đo chức năng sống, giá trị thay đổi theo thời gian thường có ý nghĩa hơn một giá trị bất thường đơn độc. Các chỉ định có thể của PAC được liệt kê trong bảngCác chỉ định có thể của Ống thông động mạch phổi.BảngCác chỉ định có thể Ống thông động mạch phổiCác chỉ định có thể Ống thông động mạch phổiRối loạn ở timHở van tim cấp tínhChèn ép timSuy timphức tạpNhồi máu cơ timcó biến chứngThủng vách ngănRối loạn huyết động*Đánh giá tình trạng dịchSốcTheo dõi huyết độngPhẫu thuật timChăm sóc sau phẫu thuật ở bệnh nhân hồi sứcPhẫu thuật và chăm sóc sau phẫu thuật ở bệnh nhân bị bệnh nhân hồi sức tim mạchRối loạn hô hấpTắc mạch phổiphức tạpTăng áp động mạch phổi* Đặc biệt là khi cần dùng thuốc tăng co bóp.* Đặc biệt là khi cần dùng thuốc tăng co bóp.Phim X-quang cho thấy vị trí chính xác của ống thông Swan-GanzHình ảnh© 2017 Bác sĩ Elliot K. Fishman.Thủ thuậtỐng thông động mạch phổi (PAC) được luồn qua một ống thông đặc biệt trong tĩnh mạch dưới đòn (Thường là bên trái) hoặc tĩnh mạch cảnh trong (thường bên phải) hoặc ít phổ biến hơn là tĩnh mạch đùi khi hút xẹp bóng (ở đầu ống thông). Một khi đầu ống thông tới tĩnh mạch chủ trên, bơm bóng lên để dòng máu sẽ đẩy ống thông đi. Vị trí của đầu ống thông thường được xác định bằng cách theo dõi áp lực (xem bảngÁp lực bình thường trong tim và mạch lớnđể biết áp lực trong tim và mạch lớn) hoặc đôi khi bằng soi huỳnh quang nếu có. Ống thông vào thất phải được chỉ điểm bằng tăng áp lực tâm thu đột ngột lên khoảng 30 mmHg; áp lực tâm trương không thay đổi so với áp lực tĩnh mạch chủ trên và nhĩ phải. Khi ống thông vào đến động mạch phổi, áp lực tâm thu không thay đổi, nhưng áp lực tâm trương tăng cao trên áp lực cuối tâm trương thất phải hoặc áp lực tĩnh mạch trung tâm (CVP); tức là áp lực xung (sự khác biệt giữa áp lực tâm thu và tâm trương) thu hẹp lại. Ống thông tiếp tục trôi cho đến khi đầu bóng mắc lại ở đoạn xa động mạch phổi. Sau khi bóng đã vào đúng chỗ trong động mạch phổi, cần làm xẹp bóng. Chụp X-quang ngực để kiểm tra vị trí thích hợp.Đặt ống thông động mạch phổiCác videoBảngÁp lực bình thường trong tim và mạch máu lớnBảngÁp lực bình thường trong tim và mạch máu lớnÁp lực bình thường trong tim và mạch máu lớnLoại áp lựcTrung bình (mmHg)Dải (mmHg)Tâm nhĩ phải30–8Tâm thất phảiĐỉnh tâm thu2515–30Cuối tâm trương40–8Động mạch phổiTrung bình159–16Đỉnh tâm thu2515–30Cuối tâm trương94–14Động mạch phổi bít (động mạch phổi bịt)Trung bình92–12Tâm nhĩ tráiTrung bình82–12Sóng A104–16Sóng V136–12Tâm thất tráiĐỉnh tâm thu13090–140Cuối tâm trương95–12Động mạch cánh tayTrung bình8570–150Đỉnh tâm thu13090–140Cuối tâm trương7060–90Được tham khảo từ Fowler NO:Chẩn đoán và điều trị bệnh tim, ed 3. Philadelphia, JB Lippincott, 1980, tr. 11.Được tham khảo từ Fowler NO:Chẩn đoán và điều trị bệnh tim, ed 3. Philadelphia, JB Lippincott, 1980, tr. 11.Áp lực tâm thu (bình thường, 15 đến 30 mmHg) và áp lực tâm trương (bình thường, 5 đến 13 mmHg) được đo khi bóng xẹp. Áp lực tâm trương tương đồng với áp lực bít, mặc dù áp lực tâm trương có thể cao hơn áp lực bít khi có tăng sức cản mạch phổi hậu quả của bệnh phổi nguyên phát (nhưxơ phổi,tăng áp động mạch phổi).Áp lực động mạch phổi bít (áp lực bịt động mạch phổi)Khi bóng được bơm lên, áp lực ở đầu ống thông phản ánh áp lực tĩnh của tĩnh mạch của phổi. Không được để bóng căng>30 giây nhằm tránh tắc mạch phổi. Thông thường, áp lực động mạch phổi bít (PAOP) xấp xỉ bằng áp lực trung bình nhĩ trái, do đó xấp xỉ bằng áp lực cuối tâm trương thất trái (LVEDP). LVEDP phản ứng thể tích cuối tâm trương thất trái (LVEDV). LVEDV đại diện cho tiền gánh, đó là tham số đích đích thực. Nhiều yếu tố gây nhiễu kết quả PAOP làm LVEDV không chính xác. Những yếu tố này bao gồmhẹp van hai lá, hở van hai lá, áp lực dương cuối thì thở ra ở mức cao (>10 cm H2O) và những thay đổi về độ giãn nở của tâm thất trái (ví dụ: donhồi máu cơ tim, tràn dịch màng ngoài tim hoặc tăng hậu gánh). Khó khăn về kỹ thuật do bơm bóng căng quá mức, vị trí ống thông không chính xác, áp lực phế nang vượt quá áp lực tĩnh mạch phổi, hoặctăng áp lực động mạch phổinặng (có thể làm cho quả bóng khó bít).Tăng PAOP xảy ra trongsuy timtrái. Giảm PAOP xảy ra khi có giảm thể tích máu hoặc giảm tiền gánh.Oxy tĩnh mạch trộnMáu tĩnh mạch trộn bao gồm máu từ tĩnh mạch chủ trên và tĩnh mạch chủ dưới đi qua tim phải đến động mạch phổi. Có thể lấy mẫu máu từ cổng xa của PAC, nhưng một số catheter đã gắn các cảm biến sợi quang đo trực tiếp lượng oxy bão hòa.Nguyên nhân của lượng oxy tĩnh mạch trộn thấp (SmvO2) gồm thiếu máu, bệnh phổi, carboxyhemoglobin, cung lượng tim thấp và tăng nhu cầu chuyển hóa tổ chức. Tỷ lệ SaO2 trên (SaO2 - SmvO2) xác định độ mức độ đủ của lượng oxy cung cấp. Tỷ lệ lý tưởng là 4:1, trong khi 2:1 là tỷ lệ chấp nhận tối thiểu để duy trì nhu cầu chuyến hóa ái khí.Cung lượng tim (CO)Cung lượng tim được đo bằng cách bơm nhanh nước lạnh hoặc, ở những thế hệ ống thông mới, hòa loãng nhiệt bằng nước ấm liên tục (Xem bảngĐo lưu lượng và cung lượng tim). Chỉ số tim được tính bằng chia cung lượng tim theo diện tích da cơ thể để điều chỉnh theo kích thước bệnh nhân (xem bảngCác giá trị bình thường của chỉ số tim và các biện pháp liên quan).Công cụ tính toán lâm sàngDiện tích bề mặt cơ thể (Phương pháp Du Bois)Công cụ tính toán lâm sàngTính cung lượng timCông cụ tính toán lâm sàngCung lượng timCác biến số khác có thể được tính từ cung lượng tim. Chúng bao gồm trở kháng mạch phổi và mạch hệ thống, và công tống máu của thất phải (RVSW) và thất trái (LVSW).BảngGiá trị bình thường cho Chỉ số tim và các phép đo liên quanBảngGiá trị bình thường cho Chỉ số tim và các phép đo liên quanGiá trị bình thường cho Chỉ số tim và các phép đo liên quanĐo lườngĐơn vị ± SDHấp thụ khí oxy143±14,3 mL/phút/m2Sự chênh lệch nồng độ oxy động mạch - tĩnh mạch4,1±0,6 dLChỉ số tim3,5±0,7 L/phút/m2Chỉ số nhát bóp46±8,1 mL/phút/m2Tổng trở kháng mạch hệ thống1130±178 dynes-giây-cm-5Tổng trở kháng mạch phổi205±51 dynes-giây-cm-5Trở kháng động mạch phổi67±23 dynes-giây-cm-5SD=độ lệch chuẩn.Được chuyển thể từ Barratt-Boyes BG, Wood EH: Cung lượng tim và các phép đo liên quan và các giá trị áp lực trong tim phải và các mạch máu liên quan, cùng với việc phân tích đáp ứng huyết động đối khi thở hỗn hợp oxy cao trên những người khỏe mạnh.Tạp chí Y học thực nghiệm và lâm sàng51:72–90, 1958.SD=độ lệch chuẩn.Được chuyển thể từ Barratt-Boyes BG, Wood EH: Cung lượng tim và các phép đo liên quan và các giá trị áp lực trong tim phải và các mạch máu liên quan, cùng với việc phân tích đáp ứng huyết động đối khi thở hỗn hợp oxy cao trên những người khỏe mạnh.Tạp chí Y học thực nghiệm và lâm sàng51:72–90, 1958.Các biến chứngỐng thông động mạch phổi (PAC) có thể khó đặt.Các loạn nhịp tim, đặc biệt là loạn nhịp thất, là biến chứng phổ biến nhất. Nhồi máu phổi sau khi bơm bóng quá mức hoặc bơm liên tục, thủng động mạch phổi, thủng thành tim, tổn thương van tim, vàviêm nội tâm mạccó thể xảy ra. Hiếm khi, ống thông có thể cuộn tròn thành một nút trong tâm thất phải (đặc biệt ở bệnh nhân suy tim, bệnh cơ tim hoặc tăng áp lực phổi).Vỡ động mạch phổi xảy ra ở<0,1% số bệnh nhân đặt PAC. Biến chứng nguy kịch này thường gây tử vong và xảy ra ngay lập tức khi bơm bóng chèn lần đầu hoặc trong lần kiểm tra áp lực sau đó. Do đó, nhiều bác sĩ thích theo dõi áp lực tâm trương động mạch phổi hơn các áp lực bơm bóng chèn.
+
+--- 4. Đánh giá cung lượng tim không xâm nhập ---
+
+Các phương pháp khác xác định cung lượng tim, chẳng hạn như siêu âm tại chỗ, theo dõi Doppler thực quản và trở kháng sinh học lồng ngực, có thể được sử dụng để tránh các biến chứng của ống thông động mạch phổi (PAC). Mặc dù những phương pháp này có thể hữu ích, nhưng không có phương pháp nào đáng tin cậy như PAC.Siêu âm tại điểm chăm sócSiêu âm điểm chăm sóc đã trở thành không thể thiếu trong chăm sóc quan trọng để chẩn đoán nhanh các bất thường về chức năng cũng như giải phẫu. Thiết bị siêu âm cầm tay là thiết bị cầm tay và do đó tiết kiệm thời gian và không cần phải di chuyển bệnh nhân. Chất lượng thông tin thu được từ siêu âm tại điểm chăm sóc đôi khi phù hợp hoặc vượt trội so với những kỹ thuật hình ảnh đắt tiền hơn. Sử dụng hợp lý siêu âm làm giảm tiếp xúc với bức xạ ion hóa. Trong chăm sóc cấp tính, siêu âm điểm chăm sóc đặc biệt hữu ích cho việc đánh giá bụng, ngực và tim. Đôi khi nó có thể được sử dụng để chẩn đoán huyết khối tĩnh mạch sâu.Siêu âm bụngcó thể được sử dụng để xác định dịch tự do (ngoại mạch), thường là một phần củađánh giá tập trung với siêu âm trong chấn thương(FAST – thường được thực hiện trong quá trình đánh giá chấn thương và hồi sức). Dịch tự do ở bệnh nhân chấn thương hạ huyết áp có thể là máu, chỉ định can thiệp phẫu thuật. Các cơ quan bụng cũng có thể được đánh giá.Siêu âm timrất cần thiết để đánh giá giải phẫu cũng như tình trạng huyết động bằng cách đánh giá kích thước buồng, chuyển động thành, sức co bóp và phân suất tống máu. Đánh giá siêu âm tim nhanh tập trung (FREE) là một ví dụ về đánh giá siêu âm theo cấu trúc. FREE được thực hiện bằng cách sử dụng 4 cửa sổ siêu âm tim tiêu chuẩn: trục dài cạnh xương ức, trục ngắn cạnh xương ức, cửa sổ đỉnh tim và cửa sổ dưới mũi ức. FREE đánh giá phân suất tống máu thất trái (EF), thể tích nhát bóp (SV), cung lượng tim (CO) và chỉ số tim (CI) và cho phép đánh giá bệnh nhân bị hạ huyết áp (1). Khi đánh giá bệnh nhân tụt huyết áp, siêu âm là không thể thiếu để xác nhận những điều sau:Giảm thể tích máu: Ngay cả khi tĩnh mạch chủ dưới có vẻ đầy (có thể xảy ra ở bệnh nhân thở nhanh), tình trạng giảm thể tích tuần hoàn được gợi ý bởi tình trạng tăng huyết áp trái và gần như không có máu ở cuối tâm thu.Rối loạn chức năng tâm thất trái: Rối loạn chức năng thất trái được gợi ý bởi các bất thường chuyển động của thành tim và giảm phân suất tống máu hoặc đo được (do một bác sĩ có kinh nghiệm đánh giá kích thước tổng thể và sự co giãn rõ ràng và sự dày lên của các thành thất trái).Suy thất phải: Tâm thất phải bằng 60% kích thước của tâm thất trái, hình tam giác, và có bề mặt bên trong gồ ghề. Suy tim phải có thể gợi ý thuyên tắc phổi.Tràn dịch màng ngoài tim và ép timSiêu âm ngựccó thể được sử dụng để xác định dịch màng phổi và tràn khí màng phổi với độ nhạy cao hơn và giá trị dự đoán âm tính hơn so với chụp X-quang thường quy. Ví dụ, mất khả năng trượt của phổi trong một khu vực kéo dài trên 3 khoảng liên sườn và các đường chữ A (các ảnh giả nằm ngang) là mỗi đường đều nhạy cảm gần như 100% và khi được kết hợp lại, có vẻ đặc hiệu cao. Âm vang của dịch màng phổi và những thay đổi trong màng phổi và nhu mô phổi lân cận cũng giúp xác định nguyên nhân của dịch màng phổi. (XemCách khám E-FAST.)Siêu âm điểm chăm sóc cũng rất hữu ích cho việc tìm kiếm huyết khối tĩnh mạch sâu và đánh giá các cơ quan trong ổ bụng.Máy theo dõi Doppler thực quản (EDM)Thiết bị này là một ống thông mềm 6 mm được luồn qua mũi họng xuống thực quản và nằm phía sau tim. Một đầu dò dòng chảy Doppler ở đầu của nó cho phép theo dõi liên tục lượng cung lượng tim và thể tích nhát bóp. Không giống như PAC xâm lấn, theo dõi Doppler thực quản (EDM) không gây tràn khí màng phổi, loạn nhịp, hoặc nhiễm trùng. EDM có thể thực sự chính xác hơn PAC ở bệnh nhân tổn thương van tim, bất thường vách liên thất, loạn nhịp tim, hoặc tăng áp động mạch phổi. Tuy nhiên, EDM có thể mất dạng sóng chỉ với một thay đổi vị trí nhỏ và khiến các thông số bị mờ, không chính xác.Trở kháng sinh học lồng ngựcCác hệ thống này sử dụng điện cực đặt trên ngực trước và vùng cổ để đo trở kháng điện của ngực. Giá trị này thay đổi theo biến thiên thể tích máu trong lồng ngực theo từng nhát bóp nhờ đó có thể ước lượng cung lượng tim. Hệ thống này không gây hại và cung cấp các giá trị nhanh (trong vòng từ 2 đến 5 phút); tuy nhiên, kỹ thuật rất nhạy với sự thay đổi tiếp xúc điện cực với bệnh nhân. Trở kháng sinh học lồng ngực có giá trị hơn trong việc phát hiện những thay đổi cung lượng tim của một bệnh nhân cụ thể so với đo cung lượng tim chính xác.Tài liệu tham khảo đánh giá cung lượng tim không xâm lấn1.Murthi SB, Hess JR, Hess A, et al: Focused rapid echocardiographic evaluation versus vascular catheter-based assessment of cardiac output and function in critically ill trauma patients.J Trauma Acute Care Surg72 (5):1158–1164, 2012. doi: 10.1097/TA.0b013e31824d1112
+
+--- 5. Theo dõi áp lực nội sọ (ICP) ---
+
+Theo dõi áp lực nội sọ là tiêu chuẩn cho những bệnh nhân bị chấn thương đầu kín nặng và đôi khi được sử dụng cho một số rối loạn não khác, chẳng hạn như trong một số trường hợp được chọn củanão úng thủyvàtăng huyết áp nội sọ tự phát(giả u não) hoặc trong xử trí sau phẫu thuật hoặc xử trí sau thuyên tắcdị dạng động tĩnh mạch. Các thiết bị này được sử dụng để theo dõi ICP (thường là 5 đến 15 mm Hg) và để tối ưu hóa áp lực tưới máu não (áp lực trung bình trừ áp lực nội sọ). Thông thường, áp lực tưới máu não phải giữ>60 mm Hg.Một số máy theo dõi áp lực nội soi có sẵn. Dẫn lưu ngoài não thất (EVD) là phương pháp hữu ích nhất; một ống thông được đặt qua hộp sọ vào não thất (ống thông sàn não thất). Thiết bị này được ưa thích vì ống thông cũng có thể dẫn lưu dịch não tủy (CSF) và do đó giảm áp lực nội sọ. Tuy nhiên, dẫn lưu ngoài não thất cũng là phương pháp xâm lấn nhất, có tỷ lệ nhiễm trùng cao nhất và khó đặt nhất. Đôi khi, dẫn lưu ngoài não thất bị tắc nghẽn do phù não nặng.Các loại thiết bị nội sọ khác bao gồm máy theo dõi trong nhu mô, chốt dưới màng nhện, chốt dưới màng cứng và chốt ngoài màng cứng được chèn giữa hộp sọ và màng cứng qua đó cảm biến áp suất được đưa qua. Trong số này, máy đo áp lực mô não thường được sử dụng nhiều hơn. Tất cả các thiết bị đo áp lực nội sọ thường phải được thay hoặc rút sau 5 đến 7 ngày vì nguy cơ nhiễm trùng.
+
+--- 6. Quang phổ cận hồng ngoại (NIRS) ---
+
+Quang phổ cận hồng ngoại là một phương pháp không xâm lấn để theo dõi liên tục quá trình oxy hóa và tưới máu cơ quan cuối. Các cảm biến quang phổ cận hồng ngoại thường được đặt trên da phía trên mô đích để theo dõi trạng thái oxy hóa khử của tế bào sắc tố ty thể, phản ánh quá trình tưới máu của mô. Quang phổ cận hồng ngoại có thể giúp chẩn đoán hội chứng khoang cấp (ví dụ: trong chấn thương) hoặc thiếu máu cục bộ sau khi chuyển mô tự do và có thể hữu ích trong việc theo dõi sau phẫu thuật các mảnh ghép bắc cầu mạch máu chi dưới. Theo dõi quang phổ cận hồng ngoại về pH ruột non có thể được sử dụng để đánh giá mức độ hồi sức đầy đủ.

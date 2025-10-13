@@ -1,0 +1,563 @@
+TIÊU ĐỀ: Tổng quan về hệ thống hệ nội tiết
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/nguyên-lý-của-nội-tiết-học/tổng-quan-về-hệ-thống-hệ-nội-tiết
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về hệ thống hệ nội tiết
+
+Theo
+
+William F. Young, Jr
+
+,
+
+MD, MSc
+
+,
+
+Mayo Clinic College of Medicine
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 2 2025
+
+|
+
+đã sửa đổi
+
+Thg 3 2025
+
+v980107_vi
+
+Mối quan hệ vùng hạ đồi - tuyến yên
+
+|
+
+Kiểm soát vùng dưới đồi
+
+|
+
+Chức năng thùy trước tuyến yên
+
+|
+
+Chức năng thùy sau tuyến yên
+
+|
+
+Hệ thống nội tiết điều hòa chức năng giữa các cơ quan khác nhau thông qua các hormon, là các chất hóa học được giải phóng vào máu từ các loại tế bào đặc biệt trong các tuyến nội tiết (không có ống dẫn). Khi lưu hành trong máu, các hormone ảnh hưởng tới chức năng của các cơ quan đích, đó có thể là một tuyến nội tiết hay một cơ quan khác. Một số hormone tác động lên tế bào của cơ quan mà chúng được giải phóng (hiệu ứng cận tiết), hoặc thậm chí là trên cùng một loại tế bào (hiệu ứng tự tiết).
+
+Hormone có thể là
+
+Peptide (một hoặc nhiều axit amin được liên kết bằng liên kết hóa học) với nhiều kích cỡ khác nhau
+
+Steroid (dẫn xuất từ cholesterol)
+
+Dẫn xuất axit amin
+
+Các hormone gắn chọn lọc với các thụ thể nằm bên trong hoặc trên bề mặt tế bào đích. Các thụ thể bên trong tế bào tương tác với các hormone điều chỉnh chức năng gen (ví dụ: corticosteroid,
+
+vitamin D
+
+, hormone tuyến giáp). Các thụ thể trên bề mặt tế bào gắn kết với các hormone điều hòa hoạt động của enzym hoặc ảnh hưởng đến các kênh ion (ví dụ: GH, TRH).
+
+Rối loạn nội tiết
+
+là hậu quả của rối loạn các tuyến nội tiết và/hoặc các mô đích của chúng.
+
+Tuyến yên và các cơ quan đích của tuyến này
+
+Hệ thống nội tiết nữ
+
+Mô hình 3D
+
+Hệ thống nội tiết nam
+
+Mô hình 3D
+
+Mối quan hệ vùng hạ đồi - tuyến yên
+
+Chức năng tuyến nội tiết ngoại vi được kiểm soát ở mức độ khác nhau bởi các hormone tuyến yên. Một số chức năng (ví dụ: tiết
+
+insulin
+
+của tuyến tụy, chủ yếu được kiểm soát bởi nồng độ glucose trong máu) được kiểm soát ở mức tối thiểu hoặc không phụ thuộc vào sự kiểm soát của tuyến yên (ví dụ: tiết
+
+của tuyến cận giáp, chủ yếu để đáp ứng với nồng độ canxi trong máu), trong khi nhiều chức năng khác (ví dụ: tiết hormone của tuyến giáp hoặc hormone của tuyến sinh dục) được kiểm soát ở mức độ lớn. Sự tiết hormone tuyến yên được kiểm soát bởi vùng dưới đồi.
+
+Sự tương tác giữa vùng dưới đồi và tuyến yên (gọi là trục dưới đồi-tuyến yên) là một hệ thống kiểm soát phản hồi. Vùng dưới đồi nhận tín hiệu từ hầu như tất cả các khu vực khác của hệ thần kinh trung ương và gửi đến tuyến yên. Đáp lại, tuyến yên tiết ra nhiều hormone kích thích một vài tuyến nội tiết trên cơ thể. Hệ dưới đồi phát hiện ra sự thay đổi nồng độ các hormone trong máu, qua đó sẽ tăng hoặc giảm sự kích thích tuyến yên để duy trì cân bằng nội môi.
+
+Vùng dưới đồi điều chỉnh các hoạt động của thùy trước và sau của tuyến yên theo những cách khác nhau. Các hormone thần kinh được tổng hợp ở vùng dưới đồi đến tuyến yên trước (tuyến yên dưới) thông qua hệ thống mạch máu cửa chuyên biệt và điều chỉnh quá trình tổng hợp và giải phóng 6 hormone peptide chính của tuyến yên trước (xem hình
+
+Tuyến yên và các cơ quan đích của tuyến này
+
+). Các hormone thùy trước tuyến yên điều hoà các tuyến nội tiết ngoại vi (tuyến giáp, tuyến thượng thận, và tuyến sinh dục) cũng như sự phát triển và tiết sữa. Không có kết nối thần kinh trực tiếp giữa vùng dưới đồi và tuyến yên.
+
+Ngược lại, thùy sau tuyến yên (neurohypophysis) bao gồm các sợi trục có nguồn gốc từ thân các tế bào thần kinh nằm ở vùng dưới đồi. Những sợi trục này có vai trò là nơi lưu trữ 2 hormone peptide,
+
+vasopressin
+
+(hormone chống bài niệu) và
+
+oxytocin
+
+, được tổng hợp từ vùng dưới đồi; các hormone này hoạt động ở ngoại vi để điều hòa sự cân bằng nước, bài xuất sữa, và sự co tử cung.
+
+Hầu như tất cả các hormone sản sinh từ vùng dưới đồi và tuyến yên được giải phóng theo nhịp; pha chế tiết xen kẽ pha không hoạt động. Một số hormone (ví dụ: ACTH, GH, prolactin) có nhịp sinh học rõ ràng; những hormone khác (ví dụ: LH và FSH trong chu kỳ kinh nguyệt) có nhịp tính bằng tháng và chồng nối nhau.
+
+Bảng
+
+Hormone thần kinh vùng dưới đồi
+
+Bảng
+
+Hormone thần kinh vùng dưới đồi
+
+Hormone thần kinh vùng dưới đồi
+
+Hormone được sản sinh bởi hoặc hoạt động trên mô tế bào thần kinh
+
+Những ảnh hưởng của hormone thùy trước tuyến yên
+
+Hiệu ứng
+
+Hormone giải phóng
+
+Corticotropin
+
+= CRH
+
+ACTH
+
+Kích thích
+
+Dopamine
+
+Prolactin
+
+LH
+
+FSH
+
+TSH
+
+Ức chế
+
+Ức chế
+
+Ức chế
+
+Ức chế
+
+Hormone giải phóng gonadotropin
+
+LH
+
+FSH
+
+Kích thích*
+
+Kích thích*
+
+Hormone giải phóng hormone tăng trưởng
+
+GH
+
+Kích thích
+
+Hormone giải phóng prolactin
+
+Prolactin
+
+Kích thích
+
+Somatostatin
+
+GH
+
+TSH
+
+Ức chế
+
+Ức chế
+
+Hormone giải phóng Thyrotropin
+
+TSH
+
+Prolactin
+
+Kích thích
+
+Kích thích
+
+* Dưới điều kiện sinh lý và khi thêm chất ngoại sinh một cách gián đoạn. Truyền liên tục ức chế sự phóng thích LH và FSH.
+
+ACTH
+
+=
+
+hormone kích thích vỏ thượng thận (
+
+corticotropin
+
+); FSH
+
+=
+
+hormone kích thích nang trứng; GH
+
+=
+
+hormone tăng trưởng; LH
+
+=
+
+hormone lutein hóa; TSH
+
+=
+
+hormone kích thích tuyến giáp.
+
+* Dưới điều kiện sinh lý và khi thêm chất ngoại sinh một cách gián đoạn. Truyền liên tục ức chế sự phóng thích LH và FSH.
+
+ACTH
+
+=
+
+hormone kích thích vỏ thượng thận (
+
+corticotropin
+
+); FSH
+
+=
+
+hormone kích thích nang trứng; GH
+
+=
+
+hormone tăng trưởng; LH
+
+=
+
+hormone lutein hóa; TSH
+
+=
+
+hormone kích thích tuyến giáp.
+
+Kiểm soát vùng dưới đồi
+
+Cho đến nay, người ta đã xác định được 7 hormone thần kinh vùng dưới đồi quan trọng về mặt sinh lý bệnh (xem bảng
+
+Tế bào thần kinh hạ đồi
+
+). Ngoại trừ amin sinh học
+
+dopamin
+
+, tất cả đều là những peptide nhỏ. Rất nhiều hormone được tạo ra ở tuyến ngoại vi cũng như ở vùng dưới đồi và hoạt động ở hệ nội tiết ngoại vi tại chỗ, đặc biệt là ở đường tiêu hóa. Ví dụ như peptide hoạt mạch tại ruột (VIP), kích thích giải phóng prolactin.
+
+Các hormone thần kinh có thể kiểm soát việc giải phóng các hormone tuyến yên. Sự điều hòa hoạt động của hầu hết các hormone thùy trước tuyến yên phụ thuộc vào các tín hiệu kích thích từ vùng dưới đồi; ngoại trừ prolactin, được điều chỉnh bởi tín hiệu ức chế. Tổn thương cuống tuyến yên (nối tuyến yên với vùng dưới đồi) làm tăng phóng thích prolactin tăng, giảm giải phóng tất cả các hormone khác ở thùy trước tuyến yên.
+
+Nhiều bất thường về vùng dưới đồi (bao gồm cả khối u và viêm não và các tổn thương viêm khác) có thể làm thay đổi sự giải phóng các hormone thần kinh vùng dưới đồi. Vì hormone thần kinh được tổng hợp ở các trung tâm khác nhau trong vùng dưới đồi, nên có những rối loạn ảnh hưởng đến chỉ một hoặc nhiều neuropeptide. Kết quả có thể là giảm hoặc tăng tiết hormone thần kinh. Các hội chứng lâm sàng là kết quả của rối loạn chức năng hormone tuyến yên (ví dụ:
+
+thiếu hụt arginine vasopressin
+
+,
+
+bệnh to đầu chi
+
+và
+
+suy tuyến yên
+
+) được thảo luận ở nơi khác.
+
+Chức năng thùy trước tuyến yên
+
+Các tế bào của thùy trước (chiếm 80% trọng lượng tuyến yên) tổng hợp và giải phóng một số hormone cần thiết cho sự tăng trưởng và phát triển bình thường, kích thích hoạt động của một số tuyến đích.
+
+Hormone kích thích vỏ thượng thận (ACTH)
+
+ACTH còn được gọi là
+
+corticotropin
+
+. Hormone giải phóng
+
+Corticotropin
+
+(CRH) là tác nhân chính kích thích sự giải phóng ACTH,
+
+vasopressin
+
+là tác nhân còn lại và chủ yếu phát huy vai trò khi cơ thể gặp căng thẳng. ACTH kích thích vỏ thượng thận giải phóng
+
+cortisol
+
+và một số nội tiết tố androgen yếu, chẳng hạn như dehydroepiandrosterone (DHEA).
+
+Cortisol
+
+tuần hoàn và các corticosteroid khác (kể cả corticosteroid ngoại sinh) ức chế sự giải phóng CRH và ACTH. Trục CRH-ACTH-
+
+cortisol
+
+là thành phần trung tâm của đáp ứng đối với căng thẳng. Nếu không có ACTH, vỏ thượng thận bị teo đi và gần như ngừng tiết
+
+cortisol
+
+.
+
+Hormone kích thích tuyến giáp (TSH)
+
+TSH điều chỉnh cấu trúc và chức năng của tuyến giáp và kích thích sự tổng hợp và giải phóng hormone tuyến giáp. Sự tổng hợp và giải phóng TSH được kích thích bởi hormone TRH vùng dưới đồi và bị ức chế (điều hòa ngược âm tính) bởi nồng độ hormone tuyến giáp.
+
+Hormone lutein hóa (LH) và hormone kích thích nang trứng (FSH)
+
+LH và FSH kiểm soát việc sản sinh các hormone sinh dục. Sự tổng hợp và giải phóng LH và FSH được kích thích chủ yếu bằng hormone phóng thích gonadotropin (GnRH) và bị ức chế bởi
+
+estrogen
+
+và
+
+testosterone
+
+. Một yếu tố kiểm soát sự giải phóng GnRH là kisspeptin, một peptide dưới đồi được kích hoạt bởi nồng độ leptin tăng lên ở tuổi dậy thì. Hai hormone sinh dục, hoạt hóa và ức chế, chỉ ảnh hưởng đến FSH.
+
+Ở phụ nữ
+
+, LH và FSH kích thích sự phát triển nang trứng và
+
+sự rụng trứng
+
+.
+
+Ở
+
+nam giới
+
+, FSH tác động lên các tế bào Sertoli và cần thiết cho quá trình sinh tinh; LH tác động lên tế bào Leydig của tinh hoàn để kích thích
+
+sinh tổng hợp
+
+testosterone
+
+.
+
+Hormone tăng trưởng (GH)
+
+GH kích thích sự tăng trưởng của tế bào soma và điều hòa sự trao đổi chất. Hormone kích thích hormone tăng trưởng (GHRH) là chất kích thích chủ yếu và
+
+somatostatin
+
+là chất ức chế chính trong tổng hợp và giải phóng GH. GH kiểm soát quá trình tổng hợp yếu tố tăng trưởng giống
+
+insulin
+
+1 (IGF-1, còn gọi là somatomedin-C), phần lớn kiểm soát sự tăng trưởng. Mặc dù IGF-1 được sản sinh bởi nhiều mô, nhưng gan là nguồn chính. Loại IGF-1 tồn tại ở cơ có vai trò giúp tăng cường sức mạnh cơ bắp. Nó ít chịu sự kiểm soát của GH hơn là loại nguồn gốc ở gan.
+
+Tác dụng chuyển hóa của GH là hai pha. GH ban đầu phát huy tác dụng giống
+
+insulin
+
+, tăng hấp thu glucose ở cơ và ở mỡ, kích thích sự hấp thu axit amin và tổng hợp protein ở gan và ở cơ và ức chế quá trình phân giải mỡ trong mô mỡ. Vài giờ sau đó, GH có tác dụng trên chuyển hóa đối ngược
+
+insulin
+
+. Các tác dụng này bao gồm ức chế sự hấp thu và sử dụng glucose, làm cho glucose trong máu và phân giải lipid tăng lên, làm tăng axit béo tự do trong huyết tương. Nồng độ GH tăng lên trong thời gian nhịn ăn, giúp duy trì mức đường trong máu và vận động chất béo làm nguyên liệu trao đổi chất thay thế. Sản sinh GH giảm khi lão hóa. Ghrelin, một hormone được sản sinh trong dạ dày, thúc đẩy sự phóng thích GH từ tuyến yên, tăng lượng thức ăn đưa vào và cải thiện trí nhớ.
+
+Prolactin
+
+Prolactin được tạo ra trong các tế bào có tên là lactotrophs chiếm khoảng 30% số tế bào của thùy trước tuyến yên. Tuyến yên tăng kích thước gấp đôi trong thời kỳ mang thai, chủ yếu do tăng sản và phì đại lactotrophs. Ở người, chức năng chính của prolactin là kích thích sản sinh sữa. Ngoài ra, prolactin được giải phóng khi quan hệ tình dục và khi căng thẳng. Prolactin có thể là một chỉ số nhạy cảm khi chức năng tuyến yên bị rối loạn; u tuyến yên thường gây tăng tiết prolactin; u xâm lấn hoặc chèn ép tuyến yên có thể gây thiếu prolactin.
+
+Các hormone khác
+
+Một số hormone khác được sản sinh bởi thùy trước tuyến yên. Các chất này bao gồm pro-opiomelanocortin (POMC, làm tăng ACTH), hormone kích thích melanocyte alpha và beta (MSH), beta-lipotropin (
+
+β
+
+-LPH), enkephalins, và endorphins. POMC và MSH có thể gây tăng sắc tố da và chỉ có ý nghĩa lâm sàng trong các rối loạn mà ACTH tăng lên rõ rệt (ví dụ như
+
+bệnh Addison
+
+, hội chứng Nelson). Chức năng của
+
+β
+
+-LPH hiện còn chưa rõ. Enkephalin và endorphin là các opioid nội sinh có khả năng gắn kết và kích hoạt các thụ thể opioid trong toàn bộ hệ thần kinh trung ương.
+
+Chức năng thùy sau tuyến yên
+
+Thùy sau tuyến yên tiết
+
+vasopressin
+
+(còn được gọi là
+
+arginine
+
+vasopressin
+
+hoặc hormone chống bài niệu [ADH]) và
+
+oxytocin
+
+. Cả hai loại hormone đều được giải phóng theo đáp ứng xung thần kinh và có thời gian bán hủy khoảng 10 phút.
+
+Vasopressin (hormone chống bài niệu, ADH)
+
+Vasopressin
+
+có tác dụng chủ yếu là thúc đẩy quá trình giữ nước của thận bằng cách tăng tính thấm của biểu mô ống xa với nước. Ở nồng độ cao,
+
+vasopressin
+
+cũng có thể gây ra co thắt mạch. Giống như
+
+aldosterone
+
+,
+
+vasopressin
+
+đóng vai trò quan trọng trong việc duy trì cân bằng nội môi và giữ nước cho mạch máu và tế bào. Các kích thích chính gây giải phóng
+
+vasopressin
+
+là sự tăng áp lực thẩm thấu trong cơ thể, được cảm nhận bởi các thụ thể thẩm thấu vùng dưới đồi.
+
+Các kích thích lớn khác là
+
+giảm số lượng
+
+, được cảm nhận bởi baroreceptors (thụ thể nhạy cảm áp) ở tâm thất trái, xoang động mạch cảnh, cung động mạch chủ, sau đó truyền đến hệ thần kinh trung ương thông qua các dây thần kinh phế vị và thanh quản. Những tác nhân khác gây giải phóng
+
+vasopressin
+
+bao gồm đau, căng thẳng, nôn, thiếu oxy, tập thể dục, hạ đường huyết, chất chủ vận cholinergic, thuốc chẹn bêta, angiotensin và prostaglandin. Các chất ức chế tiết
+
+vasopressin
+
+bao gồm rượu, thuốc chẹn alpha và glucocorticoid.
+
+Thiếu
+
+vasopressin
+
+gây ra tình trạng thiếu hụt
+
+arginine vasopressin
+
+([AVP-D] còn được gọi là bệnh đái tháo nhạt trung ương). Tình trạng thận không có khả năng đáp ứng bình thường với
+
+vasopressin
+
+gây ra tình trạng
+
+kháng vasopressin arginine
+
+([AVP-R] còn được gọi là bệnh đái tháo nhạt do thận). Cắt tuyến yên không gây đái tháo nhạt bởi vì một vài nơ - ron vùng dưới đồi sản sinh lượng nhỏ
+
+vasopressin
+
+.
+
+Copeptin cùng được sản sinh với
+
+vasopressin
+
+ở sau tuyến yên. Định lượng copeptin có thể hữu ích trong việc phân biệt nguyên nhân
+
+hạ natri máu
+
+.
+
+Oxytocin
+
+Oxytocin
+
+có 2 cơ quan đích:
+
+Các tế bào cơ biểu mô ở vú, bao quanh các nang của tuyến vú
+
+Tế bào cơ trơn của tử cung
+
+Việc cho bú kích thích sản sinh
+
+oxytocin
+
+, làm cho tế bào cơ biểu mô co lại. Sự co thắt này làm cho sữa di chuyển từ các nang ra các xoang lớn để tiết ra (khi trẻ ăn sữa ngoài, không bú mẹ sẽ làm giảm phản xạ này ở phụ nữ).
+
+Oxytocin
+
+kích thích sự co lại của tế bào cơ tử cung sưng và độ nhạy của tử cung với
+
+oxytocin
+
+tăng trong suốt thai kỳ. Tuy nhiên, nồng độ trong huyết tương không tăng mạnh trong khi sinh, và vai trò của
+
+oxytocin
+
+ở giai đoạn đầu cuộc đẻ vẫn chưa rõ ràng.
+
+Cơ thể nam giới có một lượng rất ít
+
+oxytocin
+
+, người ta không tìm thấy có kích thích nào gây tăng tiết oxytocin ở nam.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Mối quan hệ vùng hạ đồi - tuyến yên ---
+
+Chức năng tuyến nội tiết ngoại vi được kiểm soát ở mức độ khác nhau bởi các hormone tuyến yên. Một số chức năng (ví dụ: tiếtinsulincủa tuyến tụy, chủ yếu được kiểm soát bởi nồng độ glucose trong máu) được kiểm soát ở mức tối thiểu hoặc không phụ thuộc vào sự kiểm soát của tuyến yên (ví dụ: tiếtcủa tuyến cận giáp, chủ yếu để đáp ứng với nồng độ canxi trong máu), trong khi nhiều chức năng khác (ví dụ: tiết hormone của tuyến giáp hoặc hormone của tuyến sinh dục) được kiểm soát ở mức độ lớn. Sự tiết hormone tuyến yên được kiểm soát bởi vùng dưới đồi.Sự tương tác giữa vùng dưới đồi và tuyến yên (gọi là trục dưới đồi-tuyến yên) là một hệ thống kiểm soát phản hồi. Vùng dưới đồi nhận tín hiệu từ hầu như tất cả các khu vực khác của hệ thần kinh trung ương và gửi đến tuyến yên. Đáp lại, tuyến yên tiết ra nhiều hormone kích thích một vài tuyến nội tiết trên cơ thể. Hệ dưới đồi phát hiện ra sự thay đổi nồng độ các hormone trong máu, qua đó sẽ tăng hoặc giảm sự kích thích tuyến yên để duy trì cân bằng nội môi.Vùng dưới đồi điều chỉnh các hoạt động của thùy trước và sau của tuyến yên theo những cách khác nhau. Các hormone thần kinh được tổng hợp ở vùng dưới đồi đến tuyến yên trước (tuyến yên dưới) thông qua hệ thống mạch máu cửa chuyên biệt và điều chỉnh quá trình tổng hợp và giải phóng 6 hormone peptide chính của tuyến yên trước (xem hìnhTuyến yên và các cơ quan đích của tuyến này). Các hormone thùy trước tuyến yên điều hoà các tuyến nội tiết ngoại vi (tuyến giáp, tuyến thượng thận, và tuyến sinh dục) cũng như sự phát triển và tiết sữa. Không có kết nối thần kinh trực tiếp giữa vùng dưới đồi và tuyến yên.Ngược lại, thùy sau tuyến yên (neurohypophysis) bao gồm các sợi trục có nguồn gốc từ thân các tế bào thần kinh nằm ở vùng dưới đồi. Những sợi trục này có vai trò là nơi lưu trữ 2 hormone peptide,vasopressin(hormone chống bài niệu) vàoxytocin, được tổng hợp từ vùng dưới đồi; các hormone này hoạt động ở ngoại vi để điều hòa sự cân bằng nước, bài xuất sữa, và sự co tử cung.Hầu như tất cả các hormone sản sinh từ vùng dưới đồi và tuyến yên được giải phóng theo nhịp; pha chế tiết xen kẽ pha không hoạt động. Một số hormone (ví dụ: ACTH, GH, prolactin) có nhịp sinh học rõ ràng; những hormone khác (ví dụ: LH và FSH trong chu kỳ kinh nguyệt) có nhịp tính bằng tháng và chồng nối nhau.BảngHormone thần kinh vùng dưới đồiBảngHormone thần kinh vùng dưới đồiHormone thần kinh vùng dưới đồiHormone được sản sinh bởi hoặc hoạt động trên mô tế bào thần kinhNhững ảnh hưởng của hormone thùy trước tuyến yênHiệu ứngHormone giải phóngCorticotropin= CRHACTHKích thíchDopamineProlactinLHFSHTSHỨc chếỨc chếỨc chếỨc chếHormone giải phóng gonadotropinLHFSHKích thích*Kích thích*Hormone giải phóng hormone tăng trưởngGHKích thíchHormone giải phóng prolactinProlactinKích thíchSomatostatinGHTSHỨc chếỨc chếHormone giải phóng ThyrotropinTSHProlactinKích thíchKích thích* Dưới điều kiện sinh lý và khi thêm chất ngoại sinh một cách gián đoạn. Truyền liên tục ức chế sự phóng thích LH và FSH.ACTH=hormone kích thích vỏ thượng thận (corticotropin); FSH=hormone kích thích nang trứng; GH=hormone tăng trưởng; LH=hormone lutein hóa; TSH=hormone kích thích tuyến giáp.* Dưới điều kiện sinh lý và khi thêm chất ngoại sinh một cách gián đoạn. Truyền liên tục ức chế sự phóng thích LH và FSH.ACTH=hormone kích thích vỏ thượng thận (corticotropin); FSH=hormone kích thích nang trứng; GH=hormone tăng trưởng; LH=hormone lutein hóa; TSH=hormone kích thích tuyến giáp.
+
+--- 2. Kiểm soát vùng dưới đồi ---
+
+Cho đến nay, người ta đã xác định được 7 hormone thần kinh vùng dưới đồi quan trọng về mặt sinh lý bệnh (xem bảngTế bào thần kinh hạ đồi). Ngoại trừ amin sinh họcdopamin, tất cả đều là những peptide nhỏ. Rất nhiều hormone được tạo ra ở tuyến ngoại vi cũng như ở vùng dưới đồi và hoạt động ở hệ nội tiết ngoại vi tại chỗ, đặc biệt là ở đường tiêu hóa. Ví dụ như peptide hoạt mạch tại ruột (VIP), kích thích giải phóng prolactin.Các hormone thần kinh có thể kiểm soát việc giải phóng các hormone tuyến yên. Sự điều hòa hoạt động của hầu hết các hormone thùy trước tuyến yên phụ thuộc vào các tín hiệu kích thích từ vùng dưới đồi; ngoại trừ prolactin, được điều chỉnh bởi tín hiệu ức chế. Tổn thương cuống tuyến yên (nối tuyến yên với vùng dưới đồi) làm tăng phóng thích prolactin tăng, giảm giải phóng tất cả các hormone khác ở thùy trước tuyến yên.Nhiều bất thường về vùng dưới đồi (bao gồm cả khối u và viêm não và các tổn thương viêm khác) có thể làm thay đổi sự giải phóng các hormone thần kinh vùng dưới đồi. Vì hormone thần kinh được tổng hợp ở các trung tâm khác nhau trong vùng dưới đồi, nên có những rối loạn ảnh hưởng đến chỉ một hoặc nhiều neuropeptide. Kết quả có thể là giảm hoặc tăng tiết hormone thần kinh. Các hội chứng lâm sàng là kết quả của rối loạn chức năng hormone tuyến yên (ví dụ:thiếu hụt arginine vasopressin,bệnh to đầu chivàsuy tuyến yên) được thảo luận ở nơi khác.
+
+--- 3. Chức năng thùy trước tuyến yên ---
+
+Các tế bào của thùy trước (chiếm 80% trọng lượng tuyến yên) tổng hợp và giải phóng một số hormone cần thiết cho sự tăng trưởng và phát triển bình thường, kích thích hoạt động của một số tuyến đích.Hormone kích thích vỏ thượng thận (ACTH)ACTH còn được gọi làcorticotropin. Hormone giải phóngCorticotropin(CRH) là tác nhân chính kích thích sự giải phóng ACTH,vasopressinlà tác nhân còn lại và chủ yếu phát huy vai trò khi cơ thể gặp căng thẳng. ACTH kích thích vỏ thượng thận giải phóngcortisolvà một số nội tiết tố androgen yếu, chẳng hạn như dehydroepiandrosterone (DHEA).Cortisoltuần hoàn và các corticosteroid khác (kể cả corticosteroid ngoại sinh) ức chế sự giải phóng CRH và ACTH. Trục CRH-ACTH-cortisollà thành phần trung tâm của đáp ứng đối với căng thẳng. Nếu không có ACTH, vỏ thượng thận bị teo đi và gần như ngừng tiếtcortisol.Hormone kích thích tuyến giáp (TSH)TSH điều chỉnh cấu trúc và chức năng của tuyến giáp và kích thích sự tổng hợp và giải phóng hormone tuyến giáp. Sự tổng hợp và giải phóng TSH được kích thích bởi hormone TRH vùng dưới đồi và bị ức chế (điều hòa ngược âm tính) bởi nồng độ hormone tuyến giáp.Hormone lutein hóa (LH) và hormone kích thích nang trứng (FSH)LH và FSH kiểm soát việc sản sinh các hormone sinh dục. Sự tổng hợp và giải phóng LH và FSH được kích thích chủ yếu bằng hormone phóng thích gonadotropin (GnRH) và bị ức chế bởiestrogenvàtestosterone. Một yếu tố kiểm soát sự giải phóng GnRH là kisspeptin, một peptide dưới đồi được kích hoạt bởi nồng độ leptin tăng lên ở tuổi dậy thì. Hai hormone sinh dục, hoạt hóa và ức chế, chỉ ảnh hưởng đến FSH.Ở phụ nữ, LH và FSH kích thích sự phát triển nang trứng vàsự rụng trứng.Ởnam giới, FSH tác động lên các tế bào Sertoli và cần thiết cho quá trình sinh tinh; LH tác động lên tế bào Leydig của tinh hoàn để kích thíchsinh tổng hợptestosterone.Hormone tăng trưởng (GH)GH kích thích sự tăng trưởng của tế bào soma và điều hòa sự trao đổi chất. Hormone kích thích hormone tăng trưởng (GHRH) là chất kích thích chủ yếu vàsomatostatinlà chất ức chế chính trong tổng hợp và giải phóng GH. GH kiểm soát quá trình tổng hợp yếu tố tăng trưởng giốnginsulin1 (IGF-1, còn gọi là somatomedin-C), phần lớn kiểm soát sự tăng trưởng. Mặc dù IGF-1 được sản sinh bởi nhiều mô, nhưng gan là nguồn chính. Loại IGF-1 tồn tại ở cơ có vai trò giúp tăng cường sức mạnh cơ bắp. Nó ít chịu sự kiểm soát của GH hơn là loại nguồn gốc ở gan.Tác dụng chuyển hóa của GH là hai pha. GH ban đầu phát huy tác dụng giốnginsulin, tăng hấp thu glucose ở cơ và ở mỡ, kích thích sự hấp thu axit amin và tổng hợp protein ở gan và ở cơ và ức chế quá trình phân giải mỡ trong mô mỡ. Vài giờ sau đó, GH có tác dụng trên chuyển hóa đối ngượcinsulin. Các tác dụng này bao gồm ức chế sự hấp thu và sử dụng glucose, làm cho glucose trong máu và phân giải lipid tăng lên, làm tăng axit béo tự do trong huyết tương. Nồng độ GH tăng lên trong thời gian nhịn ăn, giúp duy trì mức đường trong máu và vận động chất béo làm nguyên liệu trao đổi chất thay thế. Sản sinh GH giảm khi lão hóa. Ghrelin, một hormone được sản sinh trong dạ dày, thúc đẩy sự phóng thích GH từ tuyến yên, tăng lượng thức ăn đưa vào và cải thiện trí nhớ.ProlactinProlactin được tạo ra trong các tế bào có tên là lactotrophs chiếm khoảng 30% số tế bào của thùy trước tuyến yên. Tuyến yên tăng kích thước gấp đôi trong thời kỳ mang thai, chủ yếu do tăng sản và phì đại lactotrophs. Ở người, chức năng chính của prolactin là kích thích sản sinh sữa. Ngoài ra, prolactin được giải phóng khi quan hệ tình dục và khi căng thẳng. Prolactin có thể là một chỉ số nhạy cảm khi chức năng tuyến yên bị rối loạn; u tuyến yên thường gây tăng tiết prolactin; u xâm lấn hoặc chèn ép tuyến yên có thể gây thiếu prolactin.Các hormone khácMột số hormone khác được sản sinh bởi thùy trước tuyến yên. Các chất này bao gồm pro-opiomelanocortin (POMC, làm tăng ACTH), hormone kích thích melanocyte alpha và beta (MSH), beta-lipotropin (β-LPH), enkephalins, và endorphins. POMC và MSH có thể gây tăng sắc tố da và chỉ có ý nghĩa lâm sàng trong các rối loạn mà ACTH tăng lên rõ rệt (ví dụ nhưbệnh Addison, hội chứng Nelson). Chức năng củaβ-LPH hiện còn chưa rõ. Enkephalin và endorphin là các opioid nội sinh có khả năng gắn kết và kích hoạt các thụ thể opioid trong toàn bộ hệ thần kinh trung ương.
+
+--- 4. Chức năng thùy sau tuyến yên ---
+
+Thùy sau tuyến yên tiếtvasopressin(còn được gọi làargininevasopressinhoặc hormone chống bài niệu [ADH]) vàoxytocin. Cả hai loại hormone đều được giải phóng theo đáp ứng xung thần kinh và có thời gian bán hủy khoảng 10 phút.Vasopressin (hormone chống bài niệu, ADH)Vasopressincó tác dụng chủ yếu là thúc đẩy quá trình giữ nước của thận bằng cách tăng tính thấm của biểu mô ống xa với nước. Ở nồng độ cao,vasopressincũng có thể gây ra co thắt mạch. Giống nhưaldosterone,vasopressinđóng vai trò quan trọng trong việc duy trì cân bằng nội môi và giữ nước cho mạch máu và tế bào. Các kích thích chính gây giải phóngvasopressinlà sự tăng áp lực thẩm thấu trong cơ thể, được cảm nhận bởi các thụ thể thẩm thấu vùng dưới đồi.Các kích thích lớn khác làgiảm số lượng, được cảm nhận bởi baroreceptors (thụ thể nhạy cảm áp) ở tâm thất trái, xoang động mạch cảnh, cung động mạch chủ, sau đó truyền đến hệ thần kinh trung ương thông qua các dây thần kinh phế vị và thanh quản. Những tác nhân khác gây giải phóngvasopressinbao gồm đau, căng thẳng, nôn, thiếu oxy, tập thể dục, hạ đường huyết, chất chủ vận cholinergic, thuốc chẹn bêta, angiotensin và prostaglandin. Các chất ức chế tiếtvasopressinbao gồm rượu, thuốc chẹn alpha và glucocorticoid.Thiếuvasopressingây ra tình trạng thiếu hụtarginine vasopressin([AVP-D] còn được gọi là bệnh đái tháo nhạt trung ương). Tình trạng thận không có khả năng đáp ứng bình thường vớivasopressingây ra tình trạngkháng vasopressin arginine([AVP-R] còn được gọi là bệnh đái tháo nhạt do thận). Cắt tuyến yên không gây đái tháo nhạt bởi vì một vài nơ - ron vùng dưới đồi sản sinh lượng nhỏvasopressin.Copeptin cùng được sản sinh vớivasopressinở sau tuyến yên. Định lượng copeptin có thể hữu ích trong việc phân biệt nguyên nhânhạ natri máu.OxytocinOxytocincó 2 cơ quan đích:Các tế bào cơ biểu mô ở vú, bao quanh các nang của tuyến vúTế bào cơ trơn của tử cungViệc cho bú kích thích sản sinhoxytocin, làm cho tế bào cơ biểu mô co lại. Sự co thắt này làm cho sữa di chuyển từ các nang ra các xoang lớn để tiết ra (khi trẻ ăn sữa ngoài, không bú mẹ sẽ làm giảm phản xạ này ở phụ nữ).Oxytocinkích thích sự co lại của tế bào cơ tử cung sưng và độ nhạy của tử cung vớioxytocintăng trong suốt thai kỳ. Tuy nhiên, nồng độ trong huyết tương không tăng mạnh trong khi sinh, và vai trò củaoxytocinở giai đoạn đầu cuộc đẻ vẫn chưa rõ ràng.Cơ thể nam giới có một lượng rất ítoxytocin, người ta không tìm thấy có kích thích nào gây tăng tiết oxytocin ở nam.

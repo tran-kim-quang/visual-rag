@@ -1,0 +1,233 @@
+TIÊU ĐỀ: U mô đệm đường tiêu hóa (GISTs)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tiêu-hóa/khối-u-đường-tiêu-hóa/u-mô-đệm-đường-tiêu-hóa-gists
+================================================================================
+
+NỘI DUNG:
+
+U mô đệm đường tiêu hóa (GISTs)
+
+Theo
+
+Anthony Villano
+
+,
+
+MD
+
+,
+
+Fox Chase Cancer Center
+
+Xem xét bởi
+
+Minhhuyen Nguyen
+
+,
+
+MD
+
+,
+
+Fox Chase Cancer Center, Temple University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2025
+
+v29280057_vi
+
+Các khối u mô đệm đường tiêu hóa là các khối u của đường tiêu hóa có nguồn gốc từ các tế bào tiền thân trung mô ở thành ruột (tế bào kẽ Cajal). Chẩn đoán thường bằng nội soi. Điều trị là phẫu thuật cắt bỏ.
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Các khối u mô đệm đường tiêu hóa (Gastrointestinal stromal tumors, GIST) được phân loại là một loại sarcoma mô mềm và là loại sarcoma phổ biến nhất phát sinh trong đường tiêu hóa. Nhìn chung, các khối u này rất hiếm gặp với khoảng 4000 đến 6000 trường hợp mới hàng năm ở Hoa Kỳ (
+
+1
+
+).
+
+GIST là kết quả của đột biến ở tyrosine kinase thụ thể. Phần lớn là do đột biến gen
+
+C-KIT
+
+, trong khi một số là do đột biến gen
+
+PDGFRA
+
+(
+
+2
+
+). Một số do xạ trị vùng bụng trước đó khi điều trị các khối u khác. Phần còn lại là do nhiều đột biến ít phổ biến hơn và thường được gọi là GIST thể hoang dại.
+
+Trong một nghiên cứu, 51% số GIST xảy ra ở dạ dày, 36% ở ruột non và một số nhỏ ở thực quản, đại tràng và trực tràng (
+
+3
+
+). Độ tuổi trung bình khi có triệu chứng là 50 đến 60.
+
+GIST có thể phát sinh ở những người mắc hội chứng di truyền. 2 loại phổ biến nhất là
+
+Bệnh u xơ thần kinh loại 1
+
+Thiếu hụt SDH gia đình (hội chứng Carney-Stratakis)
+
+GIST thường phát triển chậm nhưng tình trạng này có nhiều khả năng là ác tính. Khả năng ác tính của một GIST cụ thể có liên quan đến vị trí bắt nguồn của bệnh trong đường tiêu hóa, kích thước của khối u nguyên phát và tỷ lệ phân bào được quan sát thấy trên sinh thiết (hoặc bệnh lý phẫu thuật). Trong số này, các khối u nhỏ ở dạ dày có tỷ lệ phân bào thấp có kết quả thuận lợi nhất. Những trường hợp có kích thước < 2 cm có khả năng ác tính rất thấp (2% đến 5%) và thường được kiểm soát bằng theo dõi.
+
+Các triệu chứng của GIST rất khác nhau tùy theo vị trí nhưng bao gồm chảy máu,
+
+khó tiêu
+
+và tắc nghẽn. Các trường hợp này cũng thường được phát hiện tình cờ trên chẩn đoán hình ảnh được thực hiện vì một lý do khác.
+
+Tài liệu tham khảo
+
+1.
+
+Cancer.Net
+
+. Key Statistics for Gastrointestinal Stromal Tumors. Truy cập ngày 6 tháng 2 năm 2025.
+
+2.
+
+Heinrich MC, Corless CL, Duensing A, et al
+
+. PDGFRA activating mutations in gastrointestinal stromal tumors.
+
+Science.
+
+299(5607):708-710, 2003. doi: 10.1126/science.1079666
+
+3.
+
+Tran T, Davila JA, El-Serag HB
+
+. The epidemiology of malignant gastrointestinal stromal tumors: An analysis of 1,458 cases from 1992 to 2000.
+
+Am J Gastroenterol.
+
+100(1):162–168, 2005. doi: 10.1111/j.1572-0241.2005.40709.x
+
+Chẩn đoán GIST
+
+Endoscopy
+
+Chẩn đoán GIST thường bằng nội soi, sinh thiết và siêu âm nội soi để phân loại giai đoạn.
+
+Hóa mô miễn dịch có nhuộm dương tính với CD117 (C-KIT) và DOG-1 là đặc trưng bệnh để chẩn đoán GIST.
+
+Sau khi được chẩn đoán, tất cả bệnh nhân đều cần được phân giai đoạn hoàn chỉnh bằng chụp CT ngực, bụng và vùng chậu.
+
+Điều trị GIST
+
+Phẫu thuật cắt bỏ
+
+Đôi khi dùng liệu pháp bổ trợ
+
+Điều trị GIST phụ thuộc vào giai đoạn và đặc điểm phân tử của khối u.
+
+Đối với GIST tại chỗ, điều trị là phẫu thuật cắt bỏ. Bệnh nhân có bệnh di căn (phổ biến nhất là đến gan) cũng có thể là ứng cử viên cho phẫu thuật tùy thuộc vào mức độ thương tổn ở gan, kích thước khối u và khả năng cắt bỏ bằng phẫu thuật.
+
+Đối với hầu hết các trường hợp GIST không thể cắt bỏ hoặc di căn, thuốc ức chế tyrosine kinase imatinib có thể được sử dụng khi khối u dương tính với protein KIT CD117 (
+
+1
+
+). Thuốc đó cũng có thể được sử dụng làm liệu pháp bổ trợ sau khi cắt bỏ những bệnh nhân có nguy cơ cao. Sau khi phẫu thuật, imatinib thường được dùng trong 3 năm, mặc dù dữ liệu hạn chế hỗ trợ thời gian dài hơn (
+
+2
+
+).
+
+Imatinib
+
+cũng thường được cho dùng trước khi phẫu thuật để thu nhỏ các khối u có thể cắt bỏ ở ranh giới và giúp phẫu thuật trở nên khả thi hoặc dễ dàng hơn. Đối với các khối u kháng
+
+imatinib
+
+, có thể sử dụng sunitinib và regorafenib.
+
+Avapritinib, một loại thuốc ức chế tyrosine kinase khác, nên được sử dụng làm liệu pháp bước đầu cho những bệnh nhân có đột biến exon 18 của thụ thể yếu tố tăng trưởng có nguồn gốc từ tiểu cầu (PDGFRA), bao gồm đột biến PDGFRA D842V (
+
+3
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Dematteo RP, Ballman KV, Antonescu CR, et al
+
+. Adjuvant imatinib mesylate after resection of localised, primary gastrointestinal stromal tumour: A randomised, double-blind, placebo-controlled trial.
+
+Lancet.
+
+373(9669):1097–1104, 2009. doi: 10.1016/S0140-6736(09)60500-6
+
+Clarification and additional information
+
+.
+
+Lancet.
+
+374(9688):450, 2009.
+
+2.
+
+Raut CP, Espat NJ, Maki RG, et al
+
+. Efficacy and Tolerability of 5-Year Adjuvant Imatinib Treatment for Patients With Resected Intermediate- or High-Risk Primary Gastrointestinal Stromal Tumor: The PERSIST-5 Clinical Trial.
+
+JAMA Oncol.
+
+2018;4(12):e184060. doi:10.1001/jamaoncol.2018.4060
+
+3.
+
+Jones RL, Serrano C, von Mehren M, et al
+
+. Avapritinib in unresectable or metastatic PDGFRA D842V-mutant gastrointestinal stromal tumours: Long-term efficacy and safety data from the NAVIGATOR phase I trial.
+
+Eur J Cancer.
+
+Tháng 3 năm 2021;145:132-142. doi: 10.1016/j.ejca.2020.12.008
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán GIST ---
+
+EndoscopyChẩn đoán GIST thường bằng nội soi, sinh thiết và siêu âm nội soi để phân loại giai đoạn.Hóa mô miễn dịch có nhuộm dương tính với CD117 (C-KIT) và DOG-1 là đặc trưng bệnh để chẩn đoán GIST.Sau khi được chẩn đoán, tất cả bệnh nhân đều cần được phân giai đoạn hoàn chỉnh bằng chụp CT ngực, bụng và vùng chậu.
+
+--- 2. Điều trị GIST ---
+
+Phẫu thuật cắt bỏĐôi khi dùng liệu pháp bổ trợĐiều trị GIST phụ thuộc vào giai đoạn và đặc điểm phân tử của khối u.Đối với GIST tại chỗ, điều trị là phẫu thuật cắt bỏ. Bệnh nhân có bệnh di căn (phổ biến nhất là đến gan) cũng có thể là ứng cử viên cho phẫu thuật tùy thuộc vào mức độ thương tổn ở gan, kích thước khối u và khả năng cắt bỏ bằng phẫu thuật.Đối với hầu hết các trường hợp GIST không thể cắt bỏ hoặc di căn, thuốc ức chế tyrosine kinase imatinib có thể được sử dụng khi khối u dương tính với protein KIT CD117 (1). Thuốc đó cũng có thể được sử dụng làm liệu pháp bổ trợ sau khi cắt bỏ những bệnh nhân có nguy cơ cao. Sau khi phẫu thuật, imatinib thường được dùng trong 3 năm, mặc dù dữ liệu hạn chế hỗ trợ thời gian dài hơn (2).Imatinibcũng thường được cho dùng trước khi phẫu thuật để thu nhỏ các khối u có thể cắt bỏ ở ranh giới và giúp phẫu thuật trở nên khả thi hoặc dễ dàng hơn. Đối với các khối u khángimatinib, có thể sử dụng sunitinib và regorafenib.Avapritinib, một loại thuốc ức chế tyrosine kinase khác, nên được sử dụng làm liệu pháp bước đầu cho những bệnh nhân có đột biến exon 18 của thụ thể yếu tố tăng trưởng có nguồn gốc từ tiểu cầu (PDGFRA), bao gồm đột biến PDGFRA D842V (3).

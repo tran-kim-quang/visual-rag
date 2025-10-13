@@ -1,0 +1,208 @@
+TIÊU ĐỀ: Sốc điện chuyển nhịp - khử rung tim bằng dòng điện 1 chiều (DC)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/tổng-quan-loạn-nhịp-tim-và-rối-loạn-dẫn-truyền/sốc-điện-chuyển-nhịp-khử-rung-tim-bằng-dòng-điện-1-chiều-dc
+================================================================================
+
+NỘI DUNG:
+
+Sốc điện chuyển nhịp - khử rung tim bằng dòng điện 1 chiều (DC)
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2025
+
+v21365816_vi
+
+Quyết định điều trị
+
+loạn nhịp tim
+
+phụ thuộc vào các triệu chứng và mức độ nặng có thể có của bệnh. Điều trị theo nguyên nhân. Trong trường hợp cần thiết, có thể áp dụng một phương pháp điều trị chống loạn nhịp, bao gồm
+
+thuốc chống loạn nhịp
+
+, sốc điện chuyển nhịp-phá rung,
+
+cấy máy chuyển nhịp-phá rung tự động
+
+(ICD),
+
+máy tạo nhịp tim
+
+(và một dạng đặc biệt của tạo nhịp tim,
+
+máy tạo nhịp tái đồng bộ tim
+
+),
+
+triệt đốt rối loạn nhịp qua đường ống thông
+
+,
+
+phẫu thuật
+
+hoặc một phương pháp kết hợp.
+
+Phương pháp sốc điện ngoài lồng ngực tạo ra một dòng điện một chiều với mức năng lượng lớn đủ để
+
+khử cực toàn bộ cơ tim
+
+trong một khoảng thời gian ngắn, đưa cơ tim rơi vào thời kỳ trơ với các xung khử cực. Tiếp đó, ổ chủ nhịp có tính tự động cao nhất của tim (thường là nút xoang) sẽ "tiếp quản" vai trò phát xung để kiểm soát nhịp tim. Sốc điện chuyển nhịp - phá rung rất có hiệu quả trong việc dập tắt các rối loạn nhịp nhanh do cơ chế vòng vào lại. Tuy nhiên, phương pháp này ít có hiệu quả trong cắt các cơn nhịp nhanh do cơ chế tăng tính tự động vì sau khi sốc điện, các ổ rối loạn nhịp do tăng tính tự động sẽ dễ dàng làm tái phát cơn nhịp nhanh. Đối với các tình trạng loạn nhịp tim khác ngoài rung thất (VF) và nhịp nhanh thất vô mạch (VT), cú sốc phải được đồng bộ với phức bộ QRS (gọi là chuyển nhịp) vì sốc điện xảy ra trong giai đoạn dễ bị tổn thương (gần đỉnh sóng T) có thể gây ra VF. Trong trường hợp rung thất, không cần thiết phải sốc điện đồng bộ hóa với QRS, hơn nữa, việc này cũng không thể thực hiện được. Sốc điện được áp dụng mà không đồng bộ với phức bộ QRS là sốc điện.
+
+Sốc điện chuyển nhịp DC hoặc khử rung tim có thể được thực hiện dưới dạng
+
+Dòng điện một pha
+
+Dòng điện hai pha
+
+Dòng điện đơn pha di chuyển theo một hướng giữa 2 điện cực. Trong các thiết bị hai pha, dòng điện đảo chiều một phần thông qua dạng sóng xung động.
+
+Hầu hết các máy khử rung tim ngoài (AED) thủ công và tự động đều là loại hai pha vì có nhiều ưu điểm về hiệu quả và an toàn. Trong các thử nghiệm phân nhóm ngẫu nhiên bao gồm các bệnh nhân trong tình trạng rung thất do gây ra có kiểm soát, việc áp dụng dạng sóng hai pha năng lượng thấp hơn đạt được hiệu quả khử rung tương tự so với dạng sóng một pha, việc này có thể dẫn đến ít tổn thương cơ tim hơn (
+
+1
+
+). Tuy nhiên, lợi ích tiềm năng này chưa được chứng minh khi nghiên cứu trong các thử nghiệm trên bệnh nhân được khử rung dạng sóng một pha hoặc dạng sóng hai pha trong tình huống ngừng tim ngoài bệnh viện không kiểm soát được (
+
+2
+
+). Các thiết bị hai pha cũng có kích thước nhỏ hơn (khiến thiết bị dễ di động hơn).
+
+Thủ thuật sốc điện chuyển nhịp
+
+Khi thực hiện chuyển nhịp tim bằng DC, bệnh nhân nên nhịn ăn từ 6 giờ đến 8 giờ trước khi thực hiện thủ thuật để tránh khả năng hít phải dịch. Vì thủ thuật này gây sợ hãi và đau đớn nên cần phải gây mê toàn thân trong thời gian ngắn hoặc gây tê tĩnh mạch và an thần (ví dụ: fentanyl và midazolam). Phải có thiết bị và nhân sự để
+
+duy trì đường thở
+
+và có hỗ trợ thêm, nếu cần.
+
+Cách thực hiện chuyển đổi nhịp...
+
+Các video
+
+Các điện cực (miếng đệm hoặc bản điện cực) được sử dụng để sốc điện chuyển nhịp tim có thể được đặt ở phía trước sau (dọc theo bờ xương ức trái qua khoang liên sườn thứ ba và thứ tư và ở vùng dưới vai trái) hoặc phía trước bên (giữa xương đòn và khoang liên sườn thứ hai dọc theo bờ xương ức phải và qua khoang liên sườn thứ năm và thứ sáu ở đỉnh tim). Sau khi xác nhận mức đồng bộ với phức bộ QRS trên màn hình, một lần sốc điện sẽ được truyền đi.
+
+Tùy vào loại nhịp nhanh mà lựa chọn mức năng lượng của cú sốc phù hợp. Hiệu quả của sốc điện chuyển nhịp và khử rung tim tăng lên khi sử dụng sốc hai pha.
+
+Đối với việc
+
+khử rung tim
+
+do
+
+rung thất
+
+hoặc nhịp nhanh thất vô mạch, mức năng lượng cho lần sốc điện đầu tiên ở người lớn là
+
+120 đến 200 joules cho các thiết bị hai pha (hoặc theo đặc điểm kỹ thuật của nhà sản xuất) mặc dù nhiều người sử dụng thiết bị đầu ra tối đa trong thiết lập này
+
+360 joules cho các thiết bị một pha (hoặc theo đặc điểm kỹ thuật của nhà sản xuất)
+
+Các cú sốc tiếp theo là ở mức năng lượng tương đương hoặc cao hơn đối với các thiết bị hai pha và ở cùng mức đối với các thiết bị một pha.
+
+Đối với
+
+số điện chuyển nhịp có đồng bộ
+
+của
+
+rung nhĩ
+
+mức năng lượng cho lần sốc điện đầu tiên là
+
+120 đến 200 joule cho các thiết bị hai pha (hoặc tùy thuộc vào thông số kỹ thuật của nhà sản xuất) (
+
+3
+
+)
+
+200 joules cho các thiết bị một pha (hoặc theo đặc điểm kỹ thuật của nhà sản xuất)
+
+Các lần sốc điện tiếp theo thường có mức năng lượng cao hơn đối với cả thiết bị hai pha và thiết bị một pha.
+
+Trong phẫu thuật tim hở, có thể dùng bản cực sốc điện đặt trực tiếp vào tim để sốc điện chuyển nhịp hoặc phá rung. Tuy nhiên, trong trường hợp này, mức năng lượng sẽ thấp hơn.
+
+Các biến chứng của sốc điện chuyển nhịp
+
+Các biến chứng của sốc điện bao gồm phát sinh các ngoại tâm thu nhĩ, ngoại tâm thu thất, đau cơ vùng đặt bản cực sốc. Ít phổ biến hơn, nhưng có khả năng xảy ra cao hơn nếu bệnh nhân có chức năng thất trái hạn chế hoặc sử dụng nhiều lần sốc điện, sốc điện chuyển nhịp có thể gây tổn thương tế bào cơ và phân ly cơ điện.
+
+Tài liệu tham khảo
+
+1.
+
+Faddy SC, Powell J, Craig JC
+
+. Biphasic and monophasic shocks for transthoracic defibrillation: a meta analysis of randomised controlled trials.
+
+Resuscitation
+
+2003;58(1):9-16. doi:10.1016/s0300-9572(03)00077-7
+
+2.
+
+Faddy SC, Jennings PA
+
+. Biphasic versus monophasic waveforms for transthoracic defibrillation in out-of-hospital cardiac arrest.
+
+Cochrane Database Syst Rev
+
+2016;2(2):CD006762. Xuất bản ngày 10 tháng 2 năm 2016. doi:10.1002/14651858.CD006762.pub2
+
+3.
+
+Link MS, Atkins DL, Passman RS, et al
+
+. Part 6: Electrical therapies: automated external defibrillators, defibrillation, cardioversion, and pacing: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care [published correction appears in
+
+Circulation
+
+ngày 15 tháng 2 năm 2011;123(6):e235].
+
+Circulation
+
+2010;122(18 Suppl 3):S706-S719. doi:10.1161/CIRCULATIONAHA.110.970954
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

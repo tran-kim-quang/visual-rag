@@ -1,0 +1,195 @@
+TIÊU ĐỀ: Carbapenems
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/carbapenems
+================================================================================
+
+NỘI DUNG:
+
+Carbapenems
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v13956619_vi
+
+Carbapenems bao gồm
+
+Ertapenem
+
+Imipenem
+
+Meropenem
+
+Tebipenem
+
+Carbapenems là thuốc
+
+kháng sinh
+
+beta-lactam có hoạt tính diệt khuẩn có phổ rộng rất rộng. Chúng đang hoạt động kháng lại
+
+Trực khuẩn gram âm
+
+kỵ khí
+
+Hầu hết các vi khuẩn Enterobacterales (bao gồm cả những vi khuẩn sản xuất AmpC beta-lactamase và beta-lactamase phổ mở rộng [ESBL], mặc dù
+
+Proteus mirabilis
+
+có xu hướng có nồng độ ức chế tối thiểu
+
+imipenem
+
+[MIC] cao hơn)
+
+Staphylococci
+
+và
+
+streptococci
+
+, bao gồm
+
+Streptococcus pneumoniae
+
+nhạy cảm với methicillin (ngoại trừ những chủng có độ nhạy penicillin giảm)
+
+Hầu hết các chủng
+
+Enterococcus faecalis
+
+và nhiều chủng
+
+Pseudomonas aeruginosa
+
+, kể cả những chủng kháng penicillin và cephalosporin phổ rộng, đều nhạy cảm với imipenem và meropenem nhưng lại kháng ertapenem. Tuy nhiên,
+
+meropenem
+
+ít có tác dụng chống lại
+
+E. faecalis
+
+hơn
+
+imipenem
+
+. Carbapenems hoạt động cùng với aminoglycosides hoạt động chống lại
+
+P. aeruginosa
+
+. Tuy nhiên,
+
+E. faecium
+
+,
+
+Stenotrophomonas maltophilia
+
+, và staphylococci kháng methicillin là kháng.
+
+Imipenem và meropenem xâm nhập vào dịch não tủy khi màng não bị viêm.
+
+Meropenem
+
+được sử dụng cho
+
+viêm màng não
+
+do trực khuẩn gram âm;
+
+imipenem
+
+không được sử dụng trong viêm màng não vì có thể gây co giật. Hầu hết các cơn co giật xảy ra ở những bệnh nhân có những bất thường về thần kinh trung ương hoặc suy thận ở những người dùng liều cao.
+
+Kháng carbapenem
+
+việc sử dụng mở rộng carbapenems đã dẫn đến một số kháng carbapenem. Sự phát triển này gây lo ngại vì carbapenems thường là biện pháp cuối cùng để điều trị các vi khuẩn gram âm kháng thuốc, đặc biệt là những vi khuẩn sản sinh ra AmpC và beta-lactamase phổ rộng, phá hủy hầu hết các beta-lactam ngoại trừ carbapenems.
+
+Cơ chế kháng carbapenem phổ biến nhất là
+
+Sản xuất carbapenemase
+
+Tuy nhiên, kháng carbapenem cũng có thể là trung gian bởi sự mất hoặc thay đổi các kênh porin, biểu hiện của bơm efflux, hoặc thay đổi protein gắn penicillin (PBP).
+
+Nhiều carbapenemase được mã hóa trên các plasmid, tạo điều kiện cho sự lan truyền của các gen kháng thuốc giữa các sinh vật cùng loài hoặc thậm chí các loài vi khuẩn khác. Nếu xác định được các mầm bệnh sản sinh carbapenemase ở bệnh nhân, cần phải tiến hành các biện pháp phòng ngừa nhiễm trùng và làm sạch môi trường.
+
+Các thuốc ức chế beta-lactamase mới,
+
+avibactam
+
+,
+
+relebactam
+
+và
+
+vaborbactam
+
+, có thể ức chế hầu hết các carbapenemase nhưng không hiệu quả đối với metallico-beta-lactamase (một loại carbapenemase sử dụng kẽm phản ứng tại vị trí hoạt động để phá hủy carbapenem). Đồng công thức bào chế của avibactam với ceftazidime, vaborbactam với meropenem, hoặc Explbactam với imipenem làm tăng hoạt tính chống lại các mầm bệnh tạo ra serine carbapenemases. Ví dụ về carbapenemase serine bao gồm
+
+Klebsiella pneumoniae
+
+carbapenemase (KPC) và OXA beta-lactamase.
+
+Sử dụng nhóm Carbapenem trong thời kỳ mang thai và cho con bú
+
+Một số nghiên cứu trên động vật cho thấy rằng nhóm carbapenem, đặc biệt là imipenem, có thể liên quan đến độc tính của thai nhi, nhưng những tác dụng này khác nhau tùy theo mô hình động vật và thuốc carbapenem được sử dụng.
+
+Có rất ít dữ liệu về độ an toàn ở bệnh nhân mang thai và không thể loại trừ nguy cơ thai nhi. Nhóm Carbapenem chỉ nên được sử dụng ở bệnh nhân mang thai khi kháng sinh an toàn hơn không phải là một lựa chọn.
+
+Nhóm Carbapenem được bài tiết qua sữa mẹ ở nồng độ tương đối thấp, nhưng dữ liệu còn hạn chế và nguy cơ ở trẻ sơ sinh không thể loại trừ hoàn toàn. Nếu nhóm carbapenem được sử dụng trong thời kỳ cho con bú, thuốc này có thể làm thay đổi hệ vi sinh đường ruột ở trẻ sơ sinh, vì vậy trẻ sơ sinh nên được theo dõi về độc tính đường tiêu hóa.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sử dụng nhóm Carbapenem trong thời kỳ mang thai và cho con bú ---
+
+Một số nghiên cứu trên động vật cho thấy rằng nhóm carbapenem, đặc biệt là imipenem, có thể liên quan đến độc tính của thai nhi, nhưng những tác dụng này khác nhau tùy theo mô hình động vật và thuốc carbapenem được sử dụng.Có rất ít dữ liệu về độ an toàn ở bệnh nhân mang thai và không thể loại trừ nguy cơ thai nhi. Nhóm Carbapenem chỉ nên được sử dụng ở bệnh nhân mang thai khi kháng sinh an toàn hơn không phải là một lựa chọn.Nhóm Carbapenem được bài tiết qua sữa mẹ ở nồng độ tương đối thấp, nhưng dữ liệu còn hạn chế và nguy cơ ở trẻ sơ sinh không thể loại trừ hoàn toàn. Nếu nhóm carbapenem được sử dụng trong thời kỳ cho con bú, thuốc này có thể làm thay đổi hệ vi sinh đường ruột ở trẻ sơ sinh, vì vậy trẻ sơ sinh nên được theo dõi về độc tính đường tiêu hóa.

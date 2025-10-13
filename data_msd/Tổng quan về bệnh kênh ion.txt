@@ -1,0 +1,146 @@
+TIÊU ĐỀ: Tổng quan về bệnh kênh ion
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-ở-tim-do-loạn-sản-thất-phải/tổng-quan-về-bệnh-kênh-ion
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về bệnh kênh ion
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2024
+
+|
+
+đã sửa đổi
+
+Thg 9 2024
+
+v75228683_vi
+
+Bệnh kênh ion là một nhóm các tình trạng di truyền, tự miễn hoặc viêm làm thay đổi chức năng kênh ion của tế bào cơ tim theo cách có khuynh hướng dẫn đến loạn nhịp tim chậm hoặc loạn nhịp tim nhanh trong trường hợp không có rối loạn cấu trúc tim. Đột tử do tim có thể xảy ra.
+
+Các kênh ion bị ảnh hưởng bao gồm những kênh chịu trách nhiệm cho dòng natri hoặc dòng canxi đi vào và những kênh chịu trách nhiệm cho dòng kali đi ra. Tăng hoặc mất chức năng của các kênh ion này, đặc biệt là khi các kênh bất thường được phân bố không đều, thúc đẩy môi trường điện sinh lý bất thường. Điện sinh lý bất thường có thể thuận lợi cho một hoặc cả hai tình trạng sau:
+
+Thất bại trong việc hình thành hoặc dẫn xung, có thể dẫn đến loạn nhịp tim chậm
+
+Vòng vào lại và các cơ chế có tính tự động bất thường, dẫn đến nhịp tim nhanh
+
+Các bệnh lý kênh ion di truyền phổ biến nhất là
+
+hội chứng Brugada (BrS)
+
+,
+
+nhịp nhanh thất đa hình do catecholaminergic (CPVT)
+
+,
+
+hội chứng tái cực sớm (ERS)
+
+,
+
+rung thất vô căn (IVF)
+
+,
+
+bệnh dẫn truyền tim tiến triển đơn độc (PCCD đơn độc
+
+),
+
+hội chứng khoảng QT dài (LQTS)
+
+và
+
+hội chứng khoảng QT ngắn (SQTS)
+
+. Cùng với nhau, các trường hợp được ghi nhận của các bệnh kênh di truyền này chiếm khoảng 40% số ca tử vong do tim đột ngột ở những người không phải là vận động viên ≤ 35 tuổi (
+
+1
+
+) và các bệnh kênh di truyền không được ghi nhận thường được coi là nguyên nhân gây tử vong đột ngột ở 35% số bệnh nhân như vậy không xác định được bệnh tim cấu trúc khi khám nghiệm tử thi (
+
+1
+
+).
+
+Các bệnh thấp khớp hệ thống, bao gồm
+
+hội chứng Sjogren
+
+và
+
+bệnh lupus ban đỏ hệ thống
+
+và các bệnh lý viêm sản sinh ra cytokine ảnh hưởng đến chức năng kênh ion của tế bào cơ tim ngày càng được xác định là nguyên nhân gây ra bệnh lý kênh ion. Kháng thể kháng Ro/SSA có thể gây ra hội chứng khoảng QT dài bằng cách ức chế kênh kali ra ngoài có liên quan đến gen liên quan đến ether-a-go-go ở người (
+
+hERG
+
+). Ngoài ra, việc tiếp xúc qua nhau thai với kháng thể kháng Ro/SSA trong tử cung là nguyên nhân gây ra một số trường hợp block nhĩ thất bẩm sinh qua trung gian miễn dịch. Việc sản sinh ra kháng thể tự miễn và cytokine gây viêm cũng có thể là nguyên nhân gây thay đổi theo thời gian về xu hướng loạn nhịp tim, chẳng hạn như tác động có hại của sốt trên những bệnh nhân có hội chứng Brugada.
+
+Đánh giá chẩn đoán bệnh lý kênh ion di truyền thường bao gồm ECG, theo dõi tim lưu động và đôi khi là nghiệm pháp gắng sức. Xét nghiệm di truyền thường được thực hiện nhưng có thể không được khuyến nghị nếu độ nhạy của nó đối với một rối loạn cụ thể thấp. Bệnh nhân có chẩn đoán mắc bệnh kênh ion cần phải được theo dõi thường xuyên bằng ECG và theo dõi tim lưu động để phát hiện loạn nhịp tim tiềm ẩn.
+
+Các thành viên trong gia đình có nguy cơ mắc bệnh và cần phải được đánh giá lâm sàng (tức là để phát hiện các triệu chứng gợi ý loạn nhịp tim), ECG, theo dõi lưu động và đôi khi là nghiệm pháp gắng sức để xác định sự hiện diện của bệnh trước khi bệnh biểu hiện là đột tử. Xét nghiệm di truyền của các thành viên trong gia đình được thực hiện khi bệnh nhân số 0 có đột biến đã biết. Thông thường, cha mẹ và anh chị em ruột được xét nghiệm trước, sau đó những người thân khác được xét nghiệm dựa trên kết quả xét nghiệm của cha mẹ và phương thức thừa kế (xét nghiệm theo tầng). Các thành viên trong gia đình cũng cần theo dõi lâm sàng liên tục (ví dụ:  1 năm đến 3 năm mộ lần) để phát hiện loạn nhịp trừ khi không có đột biến gen.
+
+Phương pháp điều trị phụ thuộc vào biểu hiện của bệnh, nhưng tất cả bệnh nhân nên tránh các tác nhân kích hoạt đã biết (ví dụ: tập thể dục, một số loại thuốc). Bệnh nhân có các dấu hiệu lâm sàng hoặc ECG về rối loạn nhịp thất đáng kể thường cần
+
+máy khử rung tim cấy ghép vào cơ thể
+
+(ICD), thường là máy có chức năng tạo nhịp tim. Một số rối loạn được hưởng lợi từ thuốc chẹn beta và/hoặc
+
+các thuốc chống loạn nhịp
+
+khác.
+
+Tài liệu tham khảo
+
+1.
+
+D'Ascenzi F, Valentini F, Pistoresi S, et al
+
+: Causes of sudden cardiac death in young athletes and non-athletes: systematic review and meta-analysis: Sudden cardiac death in the young. Trends Cardiovasc Med. Tháng 7 năm 2022;32(5):299-308. doi: 10.1016/j.tcm.2021.06.001
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

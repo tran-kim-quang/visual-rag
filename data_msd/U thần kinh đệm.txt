@@ -1,0 +1,573 @@
+TIÊU ĐỀ: U thần kinh đệm
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/khối-u-nội-sọ-và-tủy-sống/u-thần-kinh-đệm
+================================================================================
+
+NỘI DUNG:
+
+U thần kinh đệm
+
+Theo
+
+Mark H. Bilsky
+
+,
+
+MD
+
+,
+
+Weill Medical College of Cornell University
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v51042745_vi
+
+U thần kinh đệm là những khối u nguyên phát bắt nguồn từ nhu mô não. Các triệu chứng rất đa dạng và thay đổi theo vị trí, biểu hiện như thiếu sót thần kinh khu trú, bệnh não hoặc co giật. Chẩn đoán chủ yếu dựa trên MRI, bao gồm cả hình ảnh chuẩn theo trọng số T1 và T2, tốt nhất là ngấm thuốc gadolinium, sau đó là sinh thiết có phân tích cấu trúc phân tử. Điều trị bao gồm phẫu thuật cắt bỏ, xạ trị, và, đối với một số khối u, hóa trị liệu. Cắt bỏ hiếm khi chữa khỏi.
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về các khối u nội sọ.)
+
+U thần kinh đệm bao gồm
+
+U sao bào (Astrocytomas)
+
+U thần kinh đệm ít nhánh
+
+U nguyên bào thần kinh đệm đa hình
+
+U tế bào kênh ống nội tủy
+
+Rất nhiều u thần kinh đệm thâm nhiễm lan tỏa và không đều vào nhu mô não.
+
+U tế bào hình sao
+
+là loại u thần kinh đệm phổ biến nhất (xem thêm
+
+U tế bào hình sao ở trẻ em
+
+). Chúng được phân loại theo mô học và, trong một số trường hợp, dựa trên sự có mặt của các dấu hiệu di truyền cụ thể, theo phân loại của Tổ chức Y tế Thế giới (WHO) (
+
+1
+
+).
+
+Theo thứ tự tăng dần của ác tính, u tế bào hình sao được phân loại là
+
+Độ I: U tế bào hình sao sợi và u sao bào tế bào khổng lồ dưới màng não thất (phổ biến nhất ở
+
+bệnh xơ cứng củ
+
+)
+
+Độ II: U sao bào cấp thấp, bao gồm cả u sao bào vàng đa hình
+
+Độ III: U sao bào giảm biệt hóa
+
+Độ IV: Độ IV: u nguyên bào thần kinh đệm và u thần kinh đệm lan tỏa đường giữa
+
+Các khối u sao bào giảm biệt hóa, dạng sợi, mức độ thấp khác hoặc không sản sinh có xu hướng phát triển ở những bệnh nhân trẻ hơn. Đặc biệt, u sao bào giảm biệt hóa tương đồng có thể phát triển thành u nguyên bào thần kinh đệm (được gọi là u nguyên bào thần kinh đệm thứ cấp). U nguyên bào thần kinh đệm cũng có thể phát triển de novo (gọi là u nguyên bào thần kinh đệm nguyên phát), thường ở người cao tuổi hoặc trung niên. Nguyên bào đệm chứa các tế bào không đồng nhất về nhiễm sắc thể. Cả u nguyên bào thần kinh đệm sơ cấp và thứ cấp đều có các đặc điểm di truyền riêng biệt, có thể thay đổi khi khối u phát triển. U nguyên bào đệm thứ phát thường có đột biến ở các gen
+
+IDH1
+
+hoặc gen
+
+IDH2
+
+.
+
+Hiếm khi, u sao bào chứa các tế bào u sao bào và tế bào u thần kinh đệm ít nhánh. Những khối u này từng được chỉ định là u thần kinh đệm ít nhánh; tuy nhiên, thuật ngữ đó không còn được sử dụng để chỉ một loại khối u đơn lẻ mà là một loại ung thư hỗn hợp.
+
+U thần kinh đệm ít nhánh
+
+(WHO độ II) là một trong những u thần kinh đệm phát triển chậm nhất. Chúng phổ biến nhất ở não trước, đặc biệt là thùy trán. U thần kinh đệm ít nhánh thường được đặc trưng bởi sự xóa bỏ nhánh p của nhiễm sắc thể 1 và nhánh q của nhiễm sắc thể 19 (cùng mất đoạn 1p/19q). Những loại bỏ này là để chẩn đoán u thần kinh đệm, dự đoán thời gian sống thêm và dự đoán đáp ứng tốt hơn với xạ trị và hóa trị liệu. Giống u tế bào hình sao, u thần kinh đệm có thể tiến triển thành các dạng tích cực hơn, chẳng hạn như chứng thiểu sản bất thường (WHO độ III), được điều trị phù hợp.
+
+Cả u tế bào hình sao và u thần kinh đệm ít nhánh đều
+
+có thể biểu hiện đột biến gen
+
+IDH1
+
+hoặc
+
+IDH2
+
+dẫn đến quá trình sản sinh bất thường 2-hydroxyglutarate; chất chuyển hóa này có thể làm thay đổi quá trình methyl hóa DNA của tế bào tiền thân thần kinh đệm bình thường và tế bào thần kinh bình thường, khiến các tế bào này sản sinh ra các tế bào u thần kinh đệm tân sinh. Bệnh nhân có đột biến IDH1/2 có xu hướng tiên lượng tốt hơn những người có khối u dạng không đột biến IDH1/2, một phần là do bệnh nhân có đáp ứng tốt hơn với hóa trị liệu alkyl hóa như là temozolomide. U thần kinh đệm ít nhánh có xu hướng có đột biến cùng mất đoạn 1p/19q và đột biến IDH1/2. U tế bào hình sao thường có đột biến IDH1/2 nhưng không có đột biến mất mã 1p/19q; thay vào đó, bệnh thường biểu hiện đột biến hoặc mất gen
+
+ATRX
+
+và đột biến ở pTP53 (
+
+2
+
+).
+
+U thần kinh đệm đường giữa lan tỏa
+
+là các khối u tế bào sao cấp độ cao (WHO độ III đến IV) chủ yếu ảnh hưởng đến trẻ em. Những khối u này bao gồm các khối u thần kinh nội sinh lan tỏa, là những khối u xâm lấn và điển hình gây tử vong xâm nhập vào thân não và lan rộng vào vùng đồi thị và vùng dưới đồi và xâm nhập vào tủy sống và dây sống. U thần kinh đệm lan tỏa ở đường giữa thường biểu hiện đột biến
+
+H3K27M
+
+.
+
+Trẻ em mắc
+
+bệnh u sợi thần kinh
+
+loại 1 có nguy cơ phát triển u thần kinh đệm lan tỏa ở đường giữa.
+
+U màng não thất
+
+xảy ra chủ yếu ở trẻ em và thanh niên; bệnh không phổ biến sau tuổi vị thành niên (xem thêm
+
+U màng não thất ở trẻ em
+
+). Chúng được phân loại thành
+
+Độ I: U dưới màng nội tủy
+
+Độ II: U màng não thất
+
+Độ III: U tế bào hình sao anaplastic
+
+Độ IV: Ung thư biểu mô Ependymoblastoma (hiếm gặp và xảy ra chủ yếu ở trẻ sơ sinh)
+
+Tất cả các khối u tuyến lệ thường phát sinh từ thành tâm thất và do đó có thể phát sinh trong não, thân não hoặc tủy sống. Do đó, u này được phân loại dựa trên vị trí: như trên lều, hố sau hoặc tủy sống. Mỗi loại này bao gồm 3 nhóm phụ được xác định về mặt phân tử và mô học, dẫn đến 9 loại u màng não thất khác biệt về kiểu hình và về phân tử, có cách điều trị và tiên lượng của các loại này khác nhau đáng kể. U màng não thất ở não thất bốn nói riêng có thể biểu hiện bằng chứng não úng thủy do tắc nghẽn và do đó có thể biểu hiện sớm hơn các u màng não thất khác. (
+
+3
+
+).
+
+Hình ảnh của u thần kinh đệm
+
+U thần kinh đệm ít nhánh, mức độ thấp
+
+Phim chụp MRI T2-FLAIR (chuỗi xung xóa tín hiệu các dịch) này cho thấy một tín hiệu màu trắng, có thể cho biết một khối hoặc phù nề. Tín hiệu phía trước bên trái được phân định rõ ràng, gợi ý một khối lớn. Sử dụng chất cản quang không làm ngấm thuốc vùng đó. Đó là u thần kinh đệm ít nhánh mức độ thấp (độ II).
+
+... đọc thêm
+
+Hình ảnh do bác sĩ William R. Shapiro cung cấp
+
+U sao bào giảm biệt hóa
+
+Hình chụp MRI T2-FLAIR này cho thấy tín hiệu màu trắng ở thùy thái dương sau. Tín hiệu không được tăng cường bởi chất tương phản. Đó là u sao bào giảm biệt hóa (độ III).
+
+... đọc thêm
+
+Hình ảnh do bác sĩ William R. Shapiro cung cấp
+
+U nguyên bào thần kinh đệm
+
+Phim chụp MRI T2-FLAIR (trên) cho thấy tín hiệu màu trắng lớn, hai bên (tăng mật độ) xung quanh u nguyên bào thần kinh đệm, đây là loại u sao bào ác tính nhất và mức độ cao nhất. U nguyên bào thần kinh đệm đặc biệt này được gọi là u thần kinh đệm dạng bướm vì tín hiệu màu trắng xung quanh khối u tạo thành cánh của con bướm; nó là do phù não. Trên hình ảnh chụp cắt lớp theo trọng số T1 (dưới), chất cản quang vạch ra rìa của khối u (ngấm thuốc hình vòng). Phù nề xuất hiện dưới dạng một vùng tối (giảm đậm âm) trên T1.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ William R. Shapiro cung cấp
+
+U thần kinh đệm ít nhánh, mức độ thấp
+
+Phim chụp MRI T2-FLAIR (chuỗi xung xóa tín hiệu các dịch) này cho thấy một tín hiệu màu trắng, có thể cho biết một khối hoặc phù nề. Tín hiệu phía trước bên trái được phân định rõ ràng, gợi ý một khối lớn. Sử dụng chất cản quang không làm ngấm thuốc vùng đó. Đó là u thần kinh đệm ít nhánh mức độ thấp (độ II).
+
+... đọc thêm
+
+Hình ảnh do bác sĩ William R. Shapiro cung cấp
+
+U sao bào giảm biệt hóa
+
+Hình chụp MRI T2-FLAIR này cho thấy tín hiệu màu trắng ở thùy thái dương sau. Tín hiệu không được tăng cường bởi chất tương phản. Đó là u sao bào giảm biệt hóa (độ III).
+
+... đọc thêm
+
+Hình ảnh do bác sĩ William R. Shapiro cung cấp
+
+U nguyên bào thần kinh đệm
+
+Phim chụp MRI T2-FLAIR (trên) cho thấy tín hiệu màu trắng lớn, hai bên (tăng mật độ) xung quanh u nguyên bào thần kinh đệm, đây là loại u sao bào ác tính nhất và mức độ cao nhất. U nguyên bào thần kinh đệm đặc biệt này được gọi là u thần kinh đệm dạng bướm vì tín hiệu màu trắng xung quanh khối u tạo thành cánh của con bướm; nó là do phù não. Trên hình ảnh chụp cắt lớp theo trọng số T1 (dưới), chất cản quang vạch ra rìa của khối u (ngấm thuốc hình vòng). Phù nề xuất hiện dưới dạng một vùng tối (giảm đậm âm) trên T1.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ William R. Shapiro cung cấp
+
+Tài liệu tham khảo chung
+
+1.
+
+Louis DN, Perry A, Reifenberger G, et al
+
+: The 2021 World Health Organization classification of tumors of the central nervous system: A summary.
+
+Neuro Oncol
+
+23 (8):1231–1251, 2021 doi: 10.1093/neuonc/noab106
+
+2.
+
+Reifenberger G, Wirsing H, Knobbe-Thomsen CB, Weller
+
+M: Advances in the molecular genetics of gliomas - implications for classification and therapy.
+
+Nat Rev Clin Oncol
+
+14 (7):434-452 2017. doi: 10.1038/nrclinonc.2016.204
+
+3.
+
+Pajtler K, Mack S, Ramaswamy V, et al
+
+: The current consensus on the clinical management of intracranial ependymoma and its distinct molecular variants.
+
+Neuropathologica
+
+133:5–12, 2017 doi: 10.1007/s00401-016-1643-0
+
+Chẩn đoán u thần kinh đệm
+
+MRI theo trọng số T1 và T2
+
+Sinh thiết
+
+Chẩn đoán u thần kinh đệm chủ yếu dựa trên MRI, bao gồm cả hình ảnh chuẩn theo trọng số T1 và T2, tốt nhất là ngấm thuốc gadolinium, sau đó là sinh thiết có mô bệnh học và phân tích cấu trúc phân tử. Mô bệnh học bao gồm phân tích bệnh học kinh điển về hình thái tế bào, nhuộm hóa mô miễn dịch (ví dụ: đối với đột biến
+
+IDH1/2
+
+), và lai tại chỗ (ví dụ, đối với đột biến
+
+EGFR
+
+).
+
+Có thể thực hiện các bảng gen gây ung thư được chọn, giải trình tự đích hoặc toàn bộ exome, giải trình tự RNA và/hoặc phân tích methyl hóa methylguanine-DNA methyl-transferase (MGMT). Quá trình methyl hóa chất kích thích gen MGMT là một yếu tố tiên lượng ở những bệnh nhân mắc u nguyên bào thần kinh đệm đa dạng; nó dự đoán một đáp ứng tốt với temozolamide sau phẫu thuật và tăng thời gian sống thêm (
+
+1
+
+).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Stupp R, Taillibert S, Kanner A, et al
+
+: Effect of tumor-treating fields plus maintenance temozolomide vs maintenance temozolomide alone on survival in patients with glioblastoma: A randomized clinical trial.
+
+JAMA
+
+318 (23):2306–2316, 2017. doi: 10.1001/jama.2017.18718
+
+Điều trị u thần kinh đệm
+
+Phẫu thuật cắt bỏ
+
+Liệu pháp bức xạ
+
+Hóa trị cho một số loại
+
+U tế bào sao anaplastic và U nguyên bào sợi (glioblastoma).
+
+Điều trị bao gồm phẫu thuật, xạ trị, và hóa trị liệu để giảm thể tích khối u. Cắt bỏ càng nhiều khối u một cách an toàn càng tốt (không gây tổn thương quá mức cho các vùng não có khả năng hùng biện [các vùng phục vụ các chức năng phụ như chức năng nói và vận động]) giúp kéo dài thời gian sống thêm và cải thiện chức năng thần kinh.
+
+Sau khi phẫu thuật, bệnh nhân được xạ trị toàn bộ liều (60 Gy trong vòng 6 tuần); lý tưởng là sử dụng liệu pháp xạ trị conformal, liệu pháp chỉ nhắm đến khối u và tránh phần nhu mô não bình thường.
+
+Đối với u nguyên bào sợi, hóa trị bằng temozolomide hiện nay được sử dụng thường quy cùng với xạ trị.
+
+Trong khi điều trị bằng temozolomide, trimethoprim/sulfamethoxazole 800 mg/160 mg được cho 3 lần/tuần để ngăn ngừa
+
+viêm phổi do Pneumocystis jirovecii
+
+.
+
+Bệnh nhân được hóa trị đòi hỏi phải làm công thức máu (CBC) ở những khoảng thời gian khác nhau.
+
+Việc cấy ghép các tấm wafer hóa trị trong phẫu thuật cắt bỏ có thể phù hợp với một số bệnh nhân.
+
+Sử dụng các lĩnh vực điều trị khối u cộng với temozolomide bổ trợ có thể phù hợp với một số bệnh nhân. Các lĩnh vực điều trị khối u gây trở ngại cho giảm thiểu glioblastoma và lắp ráp cơ quan bằng cách cung cấp điện trường xen kẽ vào da đầu. Các trường điều trị khối u dường như cải thiện thời gian sống thêm ở những bệnh nhân bị bệnh u nguyên bào thần kinh đệm (
+
+1, 2
+
+).
+
+Các liệu pháp điều trị đang được nghiên cứu (ví dụ: phẫu thuật xạ trị định vị, thuốc hóa trị liệu mới, liệu pháp gen hoặc miễn dịch) cũng nên được cân nhắc. Các thử nghiệm lâm sàng về nhiều loại thuốc ức chế điểm kiểm soát miễn dịch, đặc biệt là điều biến miễn dịch phụ thuộc CTLA4 và PD1, đang được tiến hành.
+
+Sau khi điều trị theo đa phương thức thông thường, đối với bệnh nhân mắc bệnh u nguyên bào thần kinh đệm, tỷ lệ có thời gian sống thêm ở thời điểm 1 năm là khoảng 50%, ở thời điểm 2 năm là 25% và ở thời điểm 5 năm là 10% đến 15% (
+
+3
+
+). Tiên lượng tốt hơn trong những trường hợp sau:
+
+Bệnh nhân
+
+<
+
+45 tuổi (
+
+4
+
+).
+
+Mô học là của u sao bào bất sản hoặc khối u ở mức độ thấp hơn (thay vì u nguyên bào thần kinh đệm) (
+
+4
+
+).
+
+Phẫu thuật cắt bỏ ban đầu cải thiện chức năng thần kinh và để lại tổ chức u ít nhất hoặc không còn tổ chức u sót lại.
+
+Khối u có đột biến
+
+IDH1
+
+(
+
+5
+
+).
+
+Quá trình methyl hóa của chất xúc tiến MGMT (methylguanine-methyltransferase) hiện diện (
+
+2
+
+).
+
+Với phương pháp điều trị tiêu chuẩn, thời gian sống trung bình là khoảng 26 tháng đối với bệnh nhân mắc bệnh u tế bào hình sao anaplastic và khoảng 13 tháng đối với bệnh nhân mắc bệnh u nguyên bào thần kinh đệm (
+
+6
+
+). Một loạt các thử nghiệm lâm sàng, đặc biệt là những thử nghiệm bao gồm một số liệu pháp miễn dịch nghiên cứu và thuốc ức chế điểm kiểm tra miễn dịch, đang được thực hiện. Tham khảo các thử nghiệm đang diễn ra và đã hoàn thành gần đây
+
+clinicaltrials.gov
+
+.
+
+U tế bào hình sao mức độ thấp và u xơ ít u xơ
+
+Phẫu thuật cắt bỏ an toàn tối đa được chỉ định cho u tế bào hình sao mức độ thấp. Sau khi cắt bỏ hoàn toàn ở bệnh nhân < 40 tuổi, việc quan sát có thể được xem xét. Đối với những bệnh nhân khác, xạ trị kết hợp với hóa trị bổ trợ kéo dài thời gian sống thêm (
+
+7
+
+).
+
+Thời gian sống thêm trung vị dao động từ 1 năm đến 2 năm ở những bệnh nhân có nguy cơ cao (không có đột biến
+
+IDH1
+
+, khi có cắt bỏ không hoàn toàn) đến > 10 năm ở những bệnh nhân có các yếu tố tiên lượng thuận lợi (
+
+8
+
+). Ở những bệnh nhân có nguy cơ cao, bệnh ác tính có thể tiến triển nặng hơn.
+
+U thần kinh đệm đường giữa lan tỏa
+
+Ở bệnh nhân u thần kinh đệm đường giữa lan tỏa. xạ trị có thể được sử dụng để làm chậm sự tiến triển của bệnh, mặc dù việc sử dụng nó chủ yếu là giảm nhẹ vì sự sống còn thường ít hơn một năm. Những khối u này thường biểu hiện đột biến
+
+H3K27M
+
+trong protein histone; các chiến lược biểu sinh sửa đổi DNA và các protein liên kết với DNA trong tế bào để thay đổi biểu hiện gen đang được nghiên cứu (
+
+9
+
+). Bệnh nhân có đột biến
+
+H3K27M
+
+có tiên lượng xấu bất kể mức độ mô học của khối u.
+
+U tế bào kênh ống nội tủy
+
+Sinh thiết có phân tích di truyền, lấy mẫu dịch não tủy và chụp ảnh sọ não tủy sống nên được sử dụng để phân giai đoạn u màng não thất và để đánh giá mức lan tỏa của khối u trong hệ thần kinh trung ương.
+
+Điều trị ung thư biểu mô tuyến bao gồm phẫu thuật cắt bỏ an toàn tối đa đối với các trường hợp không đặc hiệu hoặc khối u có triệu chứng. Đối với các khối u cao hơn, xạ trị có thể được định hướng tại chỗ hoặc bao gồm toàn bộ trục sọ tùy thuộc vào mức độ lan rộng của khối u. Vai trò của hóa trị liệu chưa được xác định rõ.
+
+Tiên lượng thay đổi tùy theo vị trí khối u, di truyền và giai đoạn (
+
+10
+
+). Nhìn chung, với việc điều trị, tỷ lệ của thời gian sống 5 năm nói chung là khoảng ≥ 50% (
+
+11
+
+); tuy nhiên, đối với những bệnh nhân không có khối u tồn dư, tỷ lệ có thời gian sống thêm 5 năm cao hơn.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Ballo MT, Conlon P, Lavy-Shahaf G, et al
+
+: Association of tumor treating fields (TTFields) therapy with survival in newly diagnosed glioblastoma: A systematic review and meta-analysis.
+
+J Neurooncol
+
+164(1):1-9, 2023. doi: 10.1007/s11060-023-04348-w
+
+2.
+
+Stupp R, Taillibert S, Kanner A, et al
+
+: Effect of tumor-treating fields plus maintenance temozolomide vs maintenance temozolomide alone on survival in patients with glioblastoma: A randomized clinical trial.
+
+JAMA
+
+318 (23):2306–2316, 2017. doi: 10.1001/jama.2017.18718
+
+3.
+
+Brown NF, Ottaviani D, Tazare J, et al
+
+: Survival outcomes and prognostic factors in glioblastoma.
+
+Cancers (Basel)
+
+14(13):3161, 2022. doi: 10.3390/cancers14133161.
+
+4.
+
+Liang J, Lv X, Lu C, et al
+
+: Prognostic factors of patients with gliomas – An analysis on 335 patients with glioblastoma and other forms of gliomas.
+
+BMC Cancer
+
+20:35, 2020. https://doi.org/10.1186/s12885-019-6511-6Download citation
+
+5.
+
+Cancer Genome Atlas Research Network; Brat DJ, Verhaak RG, Aldape KD, M et al
+
+: Comprehensive, integrative genomic analysis of diffuse lower-grade gliomas.
+
+N Engl J Med
+
+372(26):2481-2498, 2015. doi: 10.1056/NEJMoa1402121.
+
+6.
+
+Noiphithak R, Veerasarn K
+
+: Clinical predictors for survival and treatment outcome of high-grade glioma in Prasat Neurological Institute.
+
+Asian J Neurosurg
+
+12(1):28-33, 2017. doi: 10.4103/1793-5482.148791
+
+7.
+
+Buckner JC, Shaw EG, Pugh SL, et al
+
+: Radiation plus procarbazine, CCNU, and vincristine in low-grade glioma.
+
+N Engl J Med
+
+374(14):1344-1355, 2016. doi: 10.1056/NEJMoa1500925
+
+8.
+
+Choi J, Kim SH, et al
+
+: Extent of resection and molecular pathologic subtype are potent prognostic factors of adult WHO grade II glioma.
+
+Sci Rep
+
+10(1):2086, 2020. doi: 10.1038/s41598-020-59089-x
+
+9.
+
+Miklja Z, Pasternak A, Stallard S, et al
+
+: Molecular profiling and targeted therapy in pediatric gliomas: Review and consensus recommendations.
+
+Neuro Oncol
+
+21:968–980, 2019.
+
+10.
+
+Pajtler K, Mack S, Ramaswamy V, et al
+
+: The current consensus on the clinical management of intracranial ependymoma and its distinct molecular variants.
+
+Neuropathologica
+
+133:5–12, 2017 doi: 10.1007/s00401-016-1643-0
+
+11.
+
+McGuire CS, Sainani KL, Fisher PG
+
+: Both location and age predict survival in ependymoma: A SEER study.
+
+Pediatric Blood Cancer
+
+52(1):65-69, 2008.  Wiley Online Library. https://doi.org/10.1002/pbc.21806
+
+Những điểm chính
+
+Gliomas là các khối u nguyên phát bắt nguồn từ nhu mô não; chúng bao gồm u tế bào hình sao, u tế bào thần kinh đệm ít nhánh, và u tế bào kênh ống nội tủy.
+
+Gliomas thay đổi các vị trí, mức độ ác tính, điều trị và tiên lượng.
+
+Đối với hầu hết các u thần kinh đệm, phẫu thuật cắt bỏ càng nhiều khối u càng tốt (cắt bỏ toàn bộ tổng thể) mà không làm tổn thương quá mức đến các vùng não bị ảnh hưởng, sau đó thực hiện xạ trị và/hoặc hóa trị.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán u thần kinh đệm ---
+
+MRI theo trọng số T1 và T2Sinh thiếtChẩn đoán u thần kinh đệm chủ yếu dựa trên MRI, bao gồm cả hình ảnh chuẩn theo trọng số T1 và T2, tốt nhất là ngấm thuốc gadolinium, sau đó là sinh thiết có mô bệnh học và phân tích cấu trúc phân tử. Mô bệnh học bao gồm phân tích bệnh học kinh điển về hình thái tế bào, nhuộm hóa mô miễn dịch (ví dụ: đối với đột biếnIDH1/2), và lai tại chỗ (ví dụ, đối với đột biếnEGFR).Có thể thực hiện các bảng gen gây ung thư được chọn, giải trình tự đích hoặc toàn bộ exome, giải trình tự RNA và/hoặc phân tích methyl hóa methylguanine-DNA methyl-transferase (MGMT). Quá trình methyl hóa chất kích thích gen MGMT là một yếu tố tiên lượng ở những bệnh nhân mắc u nguyên bào thần kinh đệm đa dạng; nó dự đoán một đáp ứng tốt với temozolamide sau phẫu thuật và tăng thời gian sống thêm (1).Tài liệu tham khảo chẩn đoán1.Stupp R, Taillibert S, Kanner A, et al: Effect of tumor-treating fields plus maintenance temozolomide vs maintenance temozolomide alone on survival in patients with glioblastoma: A randomized clinical trial.JAMA318 (23):2306–2316, 2017. doi: 10.1001/jama.2017.18718
+
+--- 2. Điều trị u thần kinh đệm ---
+
+Phẫu thuật cắt bỏLiệu pháp bức xạHóa trị cho một số loạiU tế bào sao anaplastic và U nguyên bào sợi (glioblastoma).Điều trị bao gồm phẫu thuật, xạ trị, và hóa trị liệu để giảm thể tích khối u. Cắt bỏ càng nhiều khối u một cách an toàn càng tốt (không gây tổn thương quá mức cho các vùng não có khả năng hùng biện [các vùng phục vụ các chức năng phụ như chức năng nói và vận động]) giúp kéo dài thời gian sống thêm và cải thiện chức năng thần kinh.Sau khi phẫu thuật, bệnh nhân được xạ trị toàn bộ liều (60 Gy trong vòng 6 tuần); lý tưởng là sử dụng liệu pháp xạ trị conformal, liệu pháp chỉ nhắm đến khối u và tránh phần nhu mô não bình thường.Đối với u nguyên bào sợi, hóa trị bằng temozolomide hiện nay được sử dụng thường quy cùng với xạ trị.Trong khi điều trị bằng temozolomide, trimethoprim/sulfamethoxazole 800 mg/160 mg được cho 3 lần/tuần để ngăn ngừaviêm phổi do Pneumocystis jirovecii.Bệnh nhân được hóa trị đòi hỏi phải làm công thức máu (CBC) ở những khoảng thời gian khác nhau.Việc cấy ghép các tấm wafer hóa trị trong phẫu thuật cắt bỏ có thể phù hợp với một số bệnh nhân.Sử dụng các lĩnh vực điều trị khối u cộng với temozolomide bổ trợ có thể phù hợp với một số bệnh nhân. Các lĩnh vực điều trị khối u gây trở ngại cho giảm thiểu glioblastoma và lắp ráp cơ quan bằng cách cung cấp điện trường xen kẽ vào da đầu. Các trường điều trị khối u dường như cải thiện thời gian sống thêm ở những bệnh nhân bị bệnh u nguyên bào thần kinh đệm (1, 2).Các liệu pháp điều trị đang được nghiên cứu (ví dụ: phẫu thuật xạ trị định vị, thuốc hóa trị liệu mới, liệu pháp gen hoặc miễn dịch) cũng nên được cân nhắc. Các thử nghiệm lâm sàng về nhiều loại thuốc ức chế điểm kiểm soát miễn dịch, đặc biệt là điều biến miễn dịch phụ thuộc CTLA4 và PD1, đang được tiến hành.Sau khi điều trị theo đa phương thức thông thường, đối với bệnh nhân mắc bệnh u nguyên bào thần kinh đệm, tỷ lệ có thời gian sống thêm ở thời điểm 1 năm là khoảng 50%, ở thời điểm 2 năm là 25% và ở thời điểm 5 năm là 10% đến 15% (3). Tiên lượng tốt hơn trong những trường hợp sau:Bệnh nhân<45 tuổi (4).Mô học là của u sao bào bất sản hoặc khối u ở mức độ thấp hơn (thay vì u nguyên bào thần kinh đệm) (4).Phẫu thuật cắt bỏ ban đầu cải thiện chức năng thần kinh và để lại tổ chức u ít nhất hoặc không còn tổ chức u sót lại.Khối u có đột biếnIDH1(5).Quá trình methyl hóa của chất xúc tiến MGMT (methylguanine-methyltransferase) hiện diện (2).Với phương pháp điều trị tiêu chuẩn, thời gian sống trung bình là khoảng 26 tháng đối với bệnh nhân mắc bệnh u tế bào hình sao anaplastic và khoảng 13 tháng đối với bệnh nhân mắc bệnh u nguyên bào thần kinh đệm (6). Một loạt các thử nghiệm lâm sàng, đặc biệt là những thử nghiệm bao gồm một số liệu pháp miễn dịch nghiên cứu và thuốc ức chế điểm kiểm tra miễn dịch, đang được thực hiện. Tham khảo các thử nghiệm đang diễn ra và đã hoàn thành gần đâyclinicaltrials.gov.U tế bào hình sao mức độ thấp và u xơ ít u xơPhẫu thuật cắt bỏ an toàn tối đa được chỉ định cho u tế bào hình sao mức độ thấp. Sau khi cắt bỏ hoàn toàn ở bệnh nhân < 40 tuổi, việc quan sát có thể được xem xét. Đối với những bệnh nhân khác, xạ trị kết hợp với hóa trị bổ trợ kéo dài thời gian sống thêm (7).Thời gian sống thêm trung vị dao động từ 1 năm đến 2 năm ở những bệnh nhân có nguy cơ cao (không có đột biếnIDH1, khi có cắt bỏ không hoàn toàn) đến > 10 năm ở những bệnh nhân có các yếu tố tiên lượng thuận lợi (8). Ở những bệnh nhân có nguy cơ cao, bệnh ác tính có thể tiến triển nặng hơn.U thần kinh đệm đường giữa lan tỏaỞ bệnh nhân u thần kinh đệm đường giữa lan tỏa. xạ trị có thể được sử dụng để làm chậm sự tiến triển của bệnh, mặc dù việc sử dụng nó chủ yếu là giảm nhẹ vì sự sống còn thường ít hơn một năm. Những khối u này thường biểu hiện đột biếnH3K27Mtrong protein histone; các chiến lược biểu sinh sửa đổi DNA và các protein liên kết với DNA trong tế bào để thay đổi biểu hiện gen đang được nghiên cứu (9). Bệnh nhân có đột biếnH3K27Mcó tiên lượng xấu bất kể mức độ mô học của khối u.U tế bào kênh ống nội tủySinh thiết có phân tích di truyền, lấy mẫu dịch não tủy và chụp ảnh sọ não tủy sống nên được sử dụng để phân giai đoạn u màng não thất và để đánh giá mức lan tỏa của khối u trong hệ thần kinh trung ương.Điều trị ung thư biểu mô tuyến bao gồm phẫu thuật cắt bỏ an toàn tối đa đối với các trường hợp không đặc hiệu hoặc khối u có triệu chứng. Đối với các khối u cao hơn, xạ trị có thể được định hướng tại chỗ hoặc bao gồm toàn bộ trục sọ tùy thuộc vào mức độ lan rộng của khối u. Vai trò của hóa trị liệu chưa được xác định rõ.Tiên lượng thay đổi tùy theo vị trí khối u, di truyền và giai đoạn (10). Nhìn chung, với việc điều trị, tỷ lệ của thời gian sống 5 năm nói chung là khoảng ≥ 50% (11); tuy nhiên, đối với những bệnh nhân không có khối u tồn dư, tỷ lệ có thời gian sống thêm 5 năm cao hơn.Tài liệu tham khảo về điều trị1.Ballo MT, Conlon P, Lavy-Shahaf G, et al: Association of tumor treating fields (TTFields) therapy with survival in newly diagnosed glioblastoma: A systematic review and meta-analysis.J Neurooncol164(1):1-9, 2023. doi: 10.1007/s11060-023-04348-w2.Stupp R, Taillibert S, Kanner A, et al: Effect of tumor-treating fields plus maintenance temozolomide vs maintenance temozolomide alone on survival in patients with glioblastoma: A randomized clinical trial.JAMA318 (23):2306–2316, 2017. doi: 10.1001/jama.2017.187183.Brown NF, Ottaviani D, Tazare J, et al: Survival outcomes and prognostic factors in glioblastoma.Cancers (Basel)14(13):3161, 2022. doi: 10.3390/cancers14133161.4.Liang J, Lv X, Lu C, et al: Prognostic factors of patients with gliomas – An analysis on 335 patients with glioblastoma and other forms of gliomas.BMC Cancer20:35, 2020. https://doi.org/10.1186/s12885-019-6511-6Download citation5.Cancer Genome Atlas Research Network; Brat DJ, Verhaak RG, Aldape KD, M et al: Comprehensive, integrative genomic analysis of diffuse lower-grade gliomas.N Engl J Med372(26):2481-2498, 2015. doi: 10.1056/NEJMoa1402121.6.Noiphithak R, Veerasarn K: Clinical predictors for survival and treatment outcome of high-grade glioma in Prasat Neurological Institute.Asian J Neurosurg12(1):28-33, 2017. doi: 10.4103/1793-5482.1487917.Buckner JC, Shaw EG, Pugh SL, et al: Radiation plus procarbazine, CCNU, and vincristine in low-grade glioma.N Engl J Med374(14):1344-1355, 2016. doi: 10.1056/NEJMoa15009258.Choi J, Kim SH, et al: Extent of resection and molecular pathologic subtype are potent prognostic factors of adult WHO grade II glioma.Sci Rep10(1):2086, 2020. doi: 10.1038/s41598-020-59089-x9.Miklja Z, Pasternak A, Stallard S, et al: Molecular profiling and targeted therapy in pediatric gliomas: Review and consensus recommendations.Neuro Oncol21:968–980, 2019.10.Pajtler K, Mack S, Ramaswamy V, et al: The current consensus on the clinical management of intracranial ependymoma and its distinct molecular variants.Neuropathologica133:5–12, 2017 doi: 10.1007/s00401-016-1643-011.McGuire CS, Sainani KL, Fisher PG: Both location and age predict survival in ependymoma: A SEER study.Pediatric Blood Cancer52(1):65-69, 2008.  Wiley Online Library. https://doi.org/10.1002/pbc.21806
+
+--- 3. Những điểm chính ---
+
+Gliomas là các khối u nguyên phát bắt nguồn từ nhu mô não; chúng bao gồm u tế bào hình sao, u tế bào thần kinh đệm ít nhánh, và u tế bào kênh ống nội tủy.Gliomas thay đổi các vị trí, mức độ ác tính, điều trị và tiên lượng.Đối với hầu hết các u thần kinh đệm, phẫu thuật cắt bỏ càng nhiều khối u càng tốt (cắt bỏ toàn bộ tổng thể) mà không làm tổn thương quá mức đến các vùng não bị ảnh hưởng, sau đó thực hiện xạ trị và/hoặc hóa trị.

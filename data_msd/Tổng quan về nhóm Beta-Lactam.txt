@@ -1,0 +1,239 @@
+TIÊU ĐỀ: Tổng quan về nhóm Beta-Lactam
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/tổng-quan-về-nhóm-beta-lactam
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về nhóm Beta-Lactam
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1002392_vi
+
+Beta-lactamase
+
+|
+
+Thuốc ức chế Beta-Lactamase
+
+|
+
+Beta-lactam là thuốc kháng sinh có vòng nhân beta-lactam.
+
+Các phân nhóm bao gồm
+
+Penicillin
+
+Cephalosporin
+
+và cephamycins (cephems)
+
+Monobactams
+
+Carbapenems
+
+Clavams
+
+Tất cả các beta-lactam liên kết và khử hoạt tính các enzim cần thiết cho sự tổng hợp thành tế bào vi khuẩn.
+
+Beta-lactamase
+
+Beta-lactamase là một loại enzym đa dạng do vi khuẩn tạo ra làm phá vỡ vòng beta-lactam, làm bất hoạt kháng sinh beta-lactam. Một số beta-lactamase được mã hóa trên các yếu tố di truyền (ví dụ, plasmid); một số khác được mã hóa trên nhiễm sắc thể. Sản xuất beta-lactamase là một trong những cơ chế kháng thuốc quan trọng nhất về mặt lâm sàng đối với mầm bệnh vi khuẩn gram âm. Hiểu được các loại beta-lactamase phổ biến nhất được tạo ra bởi các mầm bệnh khác nhau có thể giúp giải thích tính nhạy cảm, ra quyết định điều trị và thực hành kiểm soát nhiễm trùng.
+
+Có hàng ngàn loại beta-lactamase khác nhau; nhiều sơ đồ phân loại tồn tại, nhưng sơ đồ phân loại Ambler được sử dụng rộng rãi nhất. Nó nhóm các beta-lactamase theo lớp trên cơ sở tương đồng phân tử. Các loại A, C và D có dư lượng serine tại vị trí hoạt động, trong khi các enzym loại B có kẽm tại vị trí hoạt động, tức là, metallo-beta-lactamase (MBL). Loại A bao gồm BL phổ mở rộng (ESBLs) và
+
+Klebsiella pneumoniae
+
+carbapenemases (KPC), loại B bao gồm MBL (NDM, IMP và VIM), loại C bao gồm AmpC và loại D bao gồm oxacillinase (OXA).
+
+Phân loại Ambler loại A
+
+Beta-lactamase phổ mở rộng (ESBLs), bao gồm các enzym TEM, SHV, CTX-M và GES, là các enzym được mã hóa plasmid chủ yếu được tìm thấy ở các loài
+
+Klebsiella
+
+,
+
+Escherichia coli
+
+và các Enterobacterales khác. Các ESBL có thể thủy phân các penicilin phổ mở rộng (ví dụ: piperacillin), hầu hết các cephalosporin (các cephamycins không bị thủy phân bởi hầu hết các ESBL), và các monobactam.
+
+Klebsiella pneumoniae
+
+carbapenemases (KPC) tương tự như ESBL, ngoại trừ chúng cũng thủy phân carbapenems. Các enzym này xuất hiện lần đầu ở
+
+K. pneumoniae
+
+nhưng đã lan sang các Enterobacterales khác.
+
+Phân loại Ambler hạng B
+
+Metallo-beta-lactamase (MBL), bao gồm VIM, IMP và NDM, sử dụng ion kẽm để thủy phân tất cả các beta-lactam, bao gồm cả carbapenems, ngoại trừ monobactam aztreonam. MBL có thể được mã hóa nhiễm sắc thể trong một số sinh vật, chẳng hạn như L1 MBL của
+
+Stenotrophomonas maltophilia
+
+, hoặc có thể mắc phải như có thể xảy ra với nhiều loại vi khuẩn gram âm bao gồm
+
+Klebsiella
+
+,
+
+Pseudomonas
+
+và
+
+Acinetobacter
+
+. Các enzym này không bị ức chế bởi các thuốc ức chế beta-lactamase hiện có.
+
+Phân loại Ambler loại C
+
+Enzyme AmpC thủy phân hầu hết các cephalosporin (ngoại trừ cefepime), cephamycins (ví dụ: cefoxitin, cefotetan), monobactams (ví dụ, aztreonam) và penicillin.
+
+AmpC beta-lactamase có thể được mã hóa nhiễm sắc thể hoặc plasmid. Sự biểu hiện AmpC của nhiễm sắc thể có thể được gây ra bởi một số chất kháng thể nhất định hoặc có thể trở nên biểu hiện một cách cấu thành (tức là được sản xuất quá mức) ở các thể đột biến bị khử. Biểu hiện AmpC mã hóa plasmid cũng được cấu thành và có thể lây lan giữa các vi khuẩn thường thiếu beta-lactamase này, chẳng hạn như
+
+Escherichia coli
+
+,
+
+Klebsiella pneumoniae
+
+và
+
+Proteus mirabilis
+
+.
+
+Các chủng phân lập có biểu hiện AmpC cảm ứng ban đầu có thể được kiểm tra là nhạy cảm với cephalosporin thế hệ thứ ba, điều này có thể làm phức tạp các quyết định điều trị, đặc biệt là đối với Enterobacterales.
+
+Enterobacter cloacae
+
+,
+
+K. aerogenes
+
+và
+
+Citrobacter freundii
+
+nên được coi là có AmpC gây cảm ứng và nên tránh dùng cephalosporin thế hệ thứ ba bất kể kết quả nhạy cảm. Các loài
+
+Proteus vulgaris
+
+,
+
+Morganella morganii
+
+,
+
+Serratia marcescens
+
+và
+
+Providencia
+
+cũng có thể sản sinh quá mức AmpC, nhưng biểu hiện có ý nghĩa lâm sàng ít phổ biến hơn.
+
+Phân loại Ambler loại D
+
+OXA beta-lactamase chủ yếu thủy phân các penicillin phổ hẹp, nhưng một số biến thể OXA nhất định, chẳng hạn như OXA-48 được mã hóa bằng plasmid, có thể thủy phân carbapenem, ngay cả khi vẫn để lại nhiều cephalosporin có hoạt tính.
+
+Thuốc ức chế Beta-Lactamase
+
+Thuốc ức chế beta-lactamase là kháng sinh ngăn chặn hoạt động của một số beta-lactamase và do đó đôi khi được phối hợp với kháng sinh beta-lactam. Những ví dụ bao gồm
+
+Clavulanate, sulbactam, tazobactam: Những loại thuốc này chặn penicillinase nhưng không chặn được AmpC hoặc carbapenemases. Các thuốc này cũng ngăn chặn một số ESBL in vitro, nhưng hầu hết các sự kết hợp bao gồm các loại thuốc này đều không đáng tin cậy đối với các chất sản sinh ra ESBL trên lâm sàng.
+
+Sulbactam
+
+cũng có hoạt tính kháng khuẩn chống lại một số loài vi khuẩn, bao gồm
+
+Neisseria gonorrhoeae
+
+,
+
+Bacteroides fragilis
+
+và quan trọng nhất là
+
+Acinetobacter baumannii
+
+(một loại vi khuẩn có khả năng kháng kháng sinh đáng kể).
+
+Sulbactam/durlobactam:
+
+Sulbactam
+
+được phối hợp với thuốc ức chế beta-lactamase durlobactam và có hoạt tính chống lại
+
+A. baumannii.
+
+Avibactam: Loại kháng sinh này ngăn chặn loại A (ESBL, hầu hết KPC), loại C (AmpC) và một số loại D (OXA) nhưng không chặn được beta-lactamase loại B (MBL).
+
+Relebactam và vaborbactam: Những kháng sinh này chặn loại A và C nhưng không chặn được loại D và B.
+
+Hiện không có thuốc ức chế beta-lactamase nào hoạt động chống lại MBL, chẳng hạn như NDM-1 (New Delhi MBL-1), VIM (MBL được mã hóa bằng Verona tích phân) và IMP (imipenem)-loại, có thể bất hoạt tất cả các loại beta-lactam kháng sinh trừ
+
+aztreonam
+
+. Tuy nhiên, nhiều chủng sinh MBL cũng sinh ra các beta-lactamase khác có thể thủy phân aztreonam.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Beta-lactamase ---
+
+Beta-lactamase là một loại enzym đa dạng do vi khuẩn tạo ra làm phá vỡ vòng beta-lactam, làm bất hoạt kháng sinh beta-lactam. Một số beta-lactamase được mã hóa trên các yếu tố di truyền (ví dụ, plasmid); một số khác được mã hóa trên nhiễm sắc thể. Sản xuất beta-lactamase là một trong những cơ chế kháng thuốc quan trọng nhất về mặt lâm sàng đối với mầm bệnh vi khuẩn gram âm. Hiểu được các loại beta-lactamase phổ biến nhất được tạo ra bởi các mầm bệnh khác nhau có thể giúp giải thích tính nhạy cảm, ra quyết định điều trị và thực hành kiểm soát nhiễm trùng.Có hàng ngàn loại beta-lactamase khác nhau; nhiều sơ đồ phân loại tồn tại, nhưng sơ đồ phân loại Ambler được sử dụng rộng rãi nhất. Nó nhóm các beta-lactamase theo lớp trên cơ sở tương đồng phân tử. Các loại A, C và D có dư lượng serine tại vị trí hoạt động, trong khi các enzym loại B có kẽm tại vị trí hoạt động, tức là, metallo-beta-lactamase (MBL). Loại A bao gồm BL phổ mở rộng (ESBLs) vàKlebsiella pneumoniaecarbapenemases (KPC), loại B bao gồm MBL (NDM, IMP và VIM), loại C bao gồm AmpC và loại D bao gồm oxacillinase (OXA).Phân loại Ambler loại ABeta-lactamase phổ mở rộng (ESBLs), bao gồm các enzym TEM, SHV, CTX-M và GES, là các enzym được mã hóa plasmid chủ yếu được tìm thấy ở các loàiKlebsiella,Escherichia colivà các Enterobacterales khác. Các ESBL có thể thủy phân các penicilin phổ mở rộng (ví dụ: piperacillin), hầu hết các cephalosporin (các cephamycins không bị thủy phân bởi hầu hết các ESBL), và các monobactam.Klebsiella pneumoniaecarbapenemases (KPC) tương tự như ESBL, ngoại trừ chúng cũng thủy phân carbapenems. Các enzym này xuất hiện lần đầu ởK. pneumoniaenhưng đã lan sang các Enterobacterales khác.Phân loại Ambler hạng BMetallo-beta-lactamase (MBL), bao gồm VIM, IMP và NDM, sử dụng ion kẽm để thủy phân tất cả các beta-lactam, bao gồm cả carbapenems, ngoại trừ monobactam aztreonam. MBL có thể được mã hóa nhiễm sắc thể trong một số sinh vật, chẳng hạn như L1 MBL củaStenotrophomonas maltophilia, hoặc có thể mắc phải như có thể xảy ra với nhiều loại vi khuẩn gram âm bao gồmKlebsiella,PseudomonasvàAcinetobacter. Các enzym này không bị ức chế bởi các thuốc ức chế beta-lactamase hiện có.Phân loại Ambler loại CEnzyme AmpC thủy phân hầu hết các cephalosporin (ngoại trừ cefepime), cephamycins (ví dụ: cefoxitin, cefotetan), monobactams (ví dụ, aztreonam) và penicillin.AmpC beta-lactamase có thể được mã hóa nhiễm sắc thể hoặc plasmid. Sự biểu hiện AmpC của nhiễm sắc thể có thể được gây ra bởi một số chất kháng thể nhất định hoặc có thể trở nên biểu hiện một cách cấu thành (tức là được sản xuất quá mức) ở các thể đột biến bị khử. Biểu hiện AmpC mã hóa plasmid cũng được cấu thành và có thể lây lan giữa các vi khuẩn thường thiếu beta-lactamase này, chẳng hạn nhưEscherichia coli,Klebsiella pneumoniaevàProteus mirabilis.Các chủng phân lập có biểu hiện AmpC cảm ứng ban đầu có thể được kiểm tra là nhạy cảm với cephalosporin thế hệ thứ ba, điều này có thể làm phức tạp các quyết định điều trị, đặc biệt là đối với Enterobacterales.Enterobacter cloacae,K. aerogenesvàCitrobacter freundiinên được coi là có AmpC gây cảm ứng và nên tránh dùng cephalosporin thế hệ thứ ba bất kể kết quả nhạy cảm. Các loàiProteus vulgaris,Morganella morganii,Serratia marcescensvàProvidenciacũng có thể sản sinh quá mức AmpC, nhưng biểu hiện có ý nghĩa lâm sàng ít phổ biến hơn.Phân loại Ambler loại DOXA beta-lactamase chủ yếu thủy phân các penicillin phổ hẹp, nhưng một số biến thể OXA nhất định, chẳng hạn như OXA-48 được mã hóa bằng plasmid, có thể thủy phân carbapenem, ngay cả khi vẫn để lại nhiều cephalosporin có hoạt tính.
+
+--- 2. Thuốc ức chế Beta-Lactamase ---
+
+Thuốc ức chế beta-lactamase là kháng sinh ngăn chặn hoạt động của một số beta-lactamase và do đó đôi khi được phối hợp với kháng sinh beta-lactam. Những ví dụ bao gồmClavulanate, sulbactam, tazobactam: Những loại thuốc này chặn penicillinase nhưng không chặn được AmpC hoặc carbapenemases. Các thuốc này cũng ngăn chặn một số ESBL in vitro, nhưng hầu hết các sự kết hợp bao gồm các loại thuốc này đều không đáng tin cậy đối với các chất sản sinh ra ESBL trên lâm sàng.Sulbactamcũng có hoạt tính kháng khuẩn chống lại một số loài vi khuẩn, bao gồmNeisseria gonorrhoeae,Bacteroides fragilisvà quan trọng nhất làAcinetobacter baumannii(một loại vi khuẩn có khả năng kháng kháng sinh đáng kể).Sulbactam/durlobactam:Sulbactamđược phối hợp với thuốc ức chế beta-lactamase durlobactam và có hoạt tính chống lạiA. baumannii.Avibactam: Loại kháng sinh này ngăn chặn loại A (ESBL, hầu hết KPC), loại C (AmpC) và một số loại D (OXA) nhưng không chặn được beta-lactamase loại B (MBL).Relebactam và vaborbactam: Những kháng sinh này chặn loại A và C nhưng không chặn được loại D và B.Hiện không có thuốc ức chế beta-lactamase nào hoạt động chống lại MBL, chẳng hạn như NDM-1 (New Delhi MBL-1), VIM (MBL được mã hóa bằng Verona tích phân) và IMP (imipenem)-loại, có thể bất hoạt tất cả các loại beta-lactam kháng sinh trừaztreonam. Tuy nhiên, nhiều chủng sinh MBL cũng sinh ra các beta-lactamase khác có thể thủy phân aztreonam.

@@ -1,0 +1,526 @@
+TIÊU ĐỀ: Chuyển đổi đơn vị đo lường
+URL: https://www.msdmanuals.com/vi/professional/tài-nguyên/chuyển-đổi-đơn-vị-đo-lường/chuyển-đổi-đơn-vị-đo-lường
+================================================================================
+
+NỘI DUNG:
+
+Chuyển đổi đơn vị đo lường
+
+Theo
+
+Manuals Staff
+
+Xem xét bởi
+
+Sandy J. Falk
+
+,
+
+MD
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1158567_vi
+
+Ở Hoa Kỳ, hầu hết kết quả xét nghiệm trong phòng thí nghiệm đều được báo cáo theo đơn vị thông thường; phần còn lại của thế giới báo cáo kết quả theo
+
+Système International d’Unités
+
+(SI) hoặc đơn vị quốc tế (IU). Các đơn vị cơ bản cho SI được cập nhật theo định kỳ bởi hội đồng.
+
+Nhiều đơn vị SI giống với các đơn vị được sử dụng trong hệ thống đo lường của Hoa Kỳ; tuy nhiên, các đơn vị SI cho nồng độ thì không giống. Nồng độ SI được báo cáo là mol (mol) hoặc các phần thập phân của một mol (ví dụ, millimole, micromole) trên một đơn vị thể tích trong lít (L). Các đơn vị thông thường được báo cáo dưới dạng khối lượng (ví dụ, gram, miligam) hoặc tương đương hóa học (ví dụ, milliequivalents) trên một đơn vị thể tích, có thể là lít hoặc decilít (ví dụ, deciliters, mililiters). Các kết quả được báo cáo với số lượng trên 100 mL (1 dL) đôi khi được thể hiện dưới dạng phần trăm (ví dụ, 10 mg/dL có thể được viết bằng 10 mg%).
+
+Moles, miligams, và milliequivalents:
+
+Một mol là số Avogadro (6,023
+
+×
+
+10
+
+23
+
+) của các thực thể cơ bản (ví dụ, nguyên tử, ion, phân tử); khối lượng của 1 mol của một chất là trọng lượng nguyên tử của nó bằng gam (ví dụ, 1 mol của natri
+
+=
+
+23 g, 1 mol canxi
+
+=
+
+40 g). Tương tự như vậy, khối lượng của một lượng chất nhất định chất chia cho trọng lượng nguyên tử của nó ta được số lượng mol của chất (ví dụ, 20 g natri
+
+=
+
+20/23, hoặc 0,87, mol).
+
+Một đương lượng là một đơn vị tích hợp điện tích và số mol; 1 đương lượng đại diện cho 1 mol điện tích và được tính bằng số mol của các hạt điện tích trong 1 chất với hóa trị của chất đó. Như vậy, đối với ion 1
+
++
+
+hoặc 1
+
+−
+
+lần (ví dụ, Na​
+
++
+
+, K​
+
++
+
+, Cl
+
+−
+
+), 1 mol là 1 đương lượng (1
+
+×
+
+1
+
+=
+
+1); đối với ion 2
+
++
+
+hoặc 2
+
+−
+
+(ví dụ, Ca​2
+
++
+
+), ½ mol là 1 đương lượng (½
+
+×
+
+2
+
+=
+
+1), và tương đương cho các hóa trị khác. Một milliequivalent (mEq) là 1/1000 của một đương lượng.
+
+Sau đây có thể được sử dụng công thức để chuyển đổi giữa mEq, mg và mmol:
+
+mEq
+
+=
+
+mg/Công thức trọng lượng
+
+×
+
+hóa trị
+
+=
+
+mmol
+
+×
+
+valence
+
+mg
+
+=
+
+mEq
+
+×
+
+Công thức trọng lượng/hóa trị
+
+=
+
+mmol
+
+×
+
+Công thức trọng lượng
+
+mmol
+
+=
+
+mg/Công thức trọng lượng
+
+=
+
+mEq/hóa trị
+
+(
+
+Lưu ý:
+
+Công thức trọng lượng
+
+=  khối lượng
+
+nguyên tử hoặc phân tử)
+
+Ngoài ra, bảng chuyển đổi có sẵn trong bản in và trên Internet.
+
+Bảng
+
+Hệ thống đo lường chuẩn
+
+Bảng
+
+Hệ thống đo lường chuẩn
+
+Hệ thống đo lường chuẩn
+
+Đơn vị
+
+Đơn vị con tương đương
+
+Khối lượng
+
+1 kg (kg)
+
+1000 gram (10
+
+3
+
+g)
+
+1 gram (g)
+
+1000 miligam (10
+
+3
+
+mg)
+
+1 miligam (mg)
+
+1000 microgram (10
+
+-3
+
+g)
+
+1 microgram (
+
+μ
+
+g)
+
+1000 nanogram (10
+
+−
+
+6
+
+g)
+
+1 nanogram (ng)
+
+1000 picograms (pg; 10
+
+−
+
+9
+
+g)
+
+Thể tích
+
+1 lít (L)
+
+1000 ml nước (mL)
+
+1 lít (L)
+
+1000 cm (cc)
+
+Bảng
+
+Quy đổi các đơn vị đo lường ngoài chuẩn
+
+Bảng
+
+Quy đổi các đơn vị đo lường ngoài chuẩn
+
+Quy đổi các đơn vị đo lường ngoài chuẩn
+
+Đơn vị đo lường
+
+Đơn vị ngoài chuẩn tương đương*
+
+Chất lỏng
+
+30 ml (mL)
+
+1 ounce (oz) chất lỏng
+
+250 mL
+
+8
+
++
+
+oz chất lỏng
+
+500 mL
+
+1
+
++
+
+pint
+
+1000 mL (1 lít)
+
+1
+
++
+
+quart
+
+Cân nặng
+
+65 mg
+
+1 hạt (gr)
+
+28,35 g
+
+1 oz
+
+1 kg
+
+2,2 pound (lb)
+
+Độ dài
+
+1 milimet (mm)
+
+0,04 inch (in)
+
+1 cm (cm)
+
+0,4 inch
+
+2,54 cm
+
+1 inch
+
+1 mét (m)
+
+39,37 inch
+
+Hộ gia đình
+
+5 mL
+
+1 thìa cà phê†
+
+15 mL
+
+1 thìa canh† (muỗng canh – ½ oz đồ lỏng)
+
+240 mL
+
+1 chén (8 oz chất lỏng)
+
+*Xấp xỉ
+
+† Thể tích là cho một đơn vị đo tiêu chuẩn. Các loại thìa gia dụng thông thường có thể có thể tích khác nhau và không nên sử dụng khi cần thể tích chính xác.
+
+*Xấp xỉ
+
+† Thể tích là cho một đơn vị đo tiêu chuẩn. Các loại thìa gia dụng thông thường có thể có thể tích khác nhau và không nên sử dụng khi cần thể tích chính xác.
+
+Bảng
+
+Trọng lượng nguyên tử của một số nguyên tố quan trọng trong Y học
+
+Bảng
+
+Trọng lượng nguyên tử của một số nguyên tố quan trọng trong Y học
+
+Trọng lượng nguyên tử của một số nguyên tố quan trọng trong Y học
+
+Nguyên tố
+
+Ký hiệu
+
+Trọng lượng nguyên tử*
+
+Hydro
+
+H
+
+1:
+
+Carbon
+
+C
+
+(12)
+
+Nitrogen
+
+N
+
+(14)
+
+Oxy
+
+O
+
+< 16
+
+Natri
+
+Na
+
+Magiê
+
+Mg
+
+Phốt pho
+
+P
+
+Clo
+
+Cl
+
+Kali
+
+K
+
+= 39
+
+Canxi
+
+Ca
+
+> 40
+
+*Xấp xỉ
+
+*Xấp xỉ
+
+Bảng
+
+Quy đổi độ C – độ F
+
+Bảng
+
+Quy đổi độ C – độ F
+
+Quy đổi độ C – độ F
+
+Ứng dụng
+
+°
+
+C
+
+°
+
+F
+
+Nước đóng băng ở mực nước biển
+
+0
+
+Phạm vi lâm sàng
+
+Tiệt trùng (giữ),† sau 30 phút tại
+
+Tiệt trùng (flash),† sau 15 giây tại
+
+Nước sôi ở mực nước biển
+
+* Chuyển đổi:
+
+Để chuyển đổi
+
+°
+
+F sang
+
+°
+
+C, trừ 32, sau đó nhân với 5/9 hoặc 0,555.
+
+Để chuyển đổi
+
+°
+
+C sang
+
+°
+
+F, nhân lên 9/5 hoặc 1,8, sau đó thêm 32.
+
+†Theo Bộ các Quy định Liên bang của FDA, 1992.
+
+* Chuyển đổi:
+
+Để chuyển đổi
+
+°
+
+F sang
+
+°
+
+C, trừ 32, sau đó nhân với 5/9 hoặc 0,555.
+
+Để chuyển đổi
+
+°
+
+C sang
+
+°
+
+F, nhân lên 9/5 hoặc 1,8, sau đó thêm 32.
+
+†Theo Bộ các Quy định Liên bang của FDA, 1992.
+
+Công cụ tính toán lâm sàng
+
+Chuyển đổi Đơn vị Trọng lượng
+
+Công cụ tính toán lâm sàng
+
+Chuyển đổi đơn vị khối lượng
+
+Công cụ tính toán lâm sàng
+
+Chuyển đổi đơn vị nhiệt độ
+
+Công cụ tính toán lâm sàng
+
+Chuyển đổi đơn vị lưu lượng
+
+Công cụ tính toán lâm sàng
+
+Chuyển đổi đơn vị năng lượng
+
+Công cụ tính toán lâm sàng
+
+Chuyển đổi đơn vị cơ bản
+
+Công cụ tính toán lâm sàng
+
+Chuyển đổi đơn vị chiều dài
+
+Test your Knowledge
+
+Take a Quiz!
+

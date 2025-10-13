@@ -1,0 +1,723 @@
+TIÊU ĐỀ: Các thành phần tế bào của hệ thống miễn dịch
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/sinh-học-của-hệ-miễn-dịch/các-thành-phần-tế-bào-của-hệ-thống-miễn-dịch
+================================================================================
+
+NỘI DUNG:
+
+Các thành phần tế bào của hệ thống miễn dịch
+
+Theo
+
+Peter J. Delves
+
+,
+
+PhD
+
+,
+
+University College London, London, UK
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 2 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v992074_vi
+
+Các tế bào trình diện kháng nguyên
+
+|
+
+Lympho bào
+
+|
+
+Tế bào Mast
+
+|
+
+Tế bào diệt tự nhiên (NK)
+
+|
+
+Bạch cầu đa nhân
+
+|
+
+Hệ miễn dịch bao gồm các thành phần tế bào và
+
+các thành phần phân tử
+
+chúng hoạt động cùng nhau để tiêu diệt các kháng nguyên. (Xem thêm
+
+Tổng quan về hệ thống miễn dịch
+
+.)
+
+Các tế bào trình diện kháng nguyên
+
+Mặc dù một số kháng nguyên (Ag) có thể kích thích phản ứng miễn dịch trực tiếp, các phản ứng miễn dịch thu được từ tế bào T thường đòi hỏi các tế bào trình diện kháng nguyên (APC) để trình bày các peptide có nguồn gốc kháng nguyên trong các phân tử phức hợp hòa hợp mô chủ yếu (MHC).
+
+Kháng nguyên nội bào
+
+(ví dụ như vi rút) có thể được xử lý và trình diện với các tế bào T gây độc CD8 bởi bất kỳ tế bào có nhân nào bởi vì tất cả các tế bào có nhân đều biểu hiện các phân tử MHC class I. Khi mã hóa các protein can thiệp vào quá trình này, một số loại vi rút (ví dụ:
+
+cytomegalovirus
+
+) có thể tránh bị loại bỏ.
+
+Kháng nguyên ngoài tế bào
+
+(ví dụ: từ nhiều vi khuẩn) bị thực bào hoặc nội bào có thể được xử lý thành peptide và tạo phức với các phân tử MHC lớp II bề mặt trên các APC chuyên nghiệp, chuyên trình diện kháng nguyên cho tế bào T (Th) hỗ trợ CD4. Các tế bào sau biểu hiện cấu thành các phân tử MHC lớp II và do đó hoạt động như các APC chuyên nghiệp:
+
+Tế bào đuôi gai
+
+Bạch cầu mono
+
+Đại thực bào
+
+Tế bào B
+
+Tế bào đuôi gai
+
+có mặt trong da (như các tế bào Langerhans), hạch bạch huyết, và các mô khắp cơ thể. Tế bào đuôi gai trong da hoạt động như APC lính canh, tiếp nhận kháng nguyên, sau đó di chuyển đến các hạch bạch huyết cục bộ, nơi chúng có thể kích hoạt tế bào T.
+
+Tế bào nang đuôi gai
+
+là một dòng riêng biệt (một loại tế bào khác với tế bào đuôi gai thông thường), không biểu hiện các phân tử MHC lớp II và do đó không trình diện kháng nguyên cho tế bào Th. Chúng không là thực bào; chúng có các thụ thể đối với vùng có thể kết tinh (Fc) của immunoglobulin (Ig) G và bổ thể, cho phép chúng liên kết với các phức hợp miễn dịch và trình bày phức hợp với tế bào B trong các trung tâm mầm của các cơ quan lympho thứ cấp.
+
+Tế bào mono
+
+trong máu là tiền thân của các đại thực bào mô. Bạch cầu đơn nhân di chuyển vào các mô và sau khoảng 8 tiếng, chúng phát triển thành đại thực bào. Sự phát triển này xảy ra dưới ảnh hưởng của yếu tố kích thích đại thực bào (M-CSF), do nhiều loại tế bào khác nhau tiết ra (ví dụ: tế bào nội mô, nguyên bào sợi). Tại các vị trí nhiễm trùng, các tế bào T kích hoạt tiết ra các cytokine (ví dụ, interferon-gamma[IFN-gamma]) và hiện tượng này dẫn đến sản xuất yếu tố ức chế di chuyển đại thực bào, ngăn ngừa không cho đại thực bào rời đi.
+
+Đại thực bào
+
+là các tế bào thực bào có mặt trong các mô khắp cơ thể. Tùy thuộc vào tín hiệu kích hoạt mà chúng nhận được, các đại thực bào có thể thay đổi cấu hình biểu hiện gen của chúng và phát triển thành các tập hợp con M1 hoặc M2 phân cực (xem bảng
+
+Các phân nhóm đại thực bào
+
+). M1, đại thực bào gây viêm "được kích hoạt theo kiểu cổ điển", do các cytokine như IFN-gamma và các thành phần vi sinh vật khác nhau kích thích (ví dụ: lipopolysaccharide). Các đại thực bào chống viêm M2 "được kích hoạt thay thế" chủ yếu do các cytokine như là IL-4 và IL-13 kích thích. Đại thực bào M1 có khả năng diệt khuẩn mạnh, thúc đẩy đáp ứng Th1 và tiết ra các cytokine tiền viêm (ví dụ: TNF-alpha), trong khi đại thực bào M2 tiết ra các cytokine ức chế miễn dịch (ví dụ: IL-10, biến đổi yếu tố tăng trưởng-beta [TGF-beta]), rất quan trọng trong giải quyết tình trạng viêm và thúc đẩy tái tạo mô. Đại thực bào M2 cũng có thể góp phần gây xơ hóa bằng cách tạo ra các yếu tố chức năng xơ hóa như TGF-beta.
+
+Chức năng chính của
+
+tế bào B
+
+là phát triển thành tương bào, nơi sản sinh và tiết ra kháng thể.
+
+Bảng
+
+Loại phụ đại thực bào
+
+Bảng
+
+Loại phụ đại thực bào
+
+Loại phụ đại thực bào
+
+Đặc điểm
+
+M1
+
+M2
+
+Ví dụ về tác nhân hoạt hóa
+
+Lipopolysaccharide
+
+IFN-gamma (cytokin được sản xuất bởi tế bào Th1)
+
+IL-4 và IL-13 (cytokines sinh ra bởi tế bào Th2)
+
+Ví dụ về các Cytokin được sản xuất
+
+Các cytokine tiền viêm (ví dụ, TNF-alpha)
+
+Các cytokine ức chế miễn dịch (ví dụ: IL-10, TGF-beta)
+
+Các chức năng khác
+
+Đáp ứng kích thích Th1
+
+Diệt khuẩn rất mạnh
+
+Làm giảm viêm
+
+Thúc đẩy tái tạo mô
+
+IFN = interferon; IL = interleukin; TGF = yếu tố tăng trưởng chuyển dạng; Tế bào Th1 = tế bào T trợ giúp loại 1; Tế bào Th2 = tế bào T trợ giúp loại 2; TNF = yếu tố hoại tử khối u.
+
+IFN = interferon; IL = interleukin; TGF = yếu tố tăng trưởng chuyển dạng; Tế bào Th1 = tế bào T trợ giúp loại 1; Tế bào Th2 = tế bào T trợ giúp loại 2; TNF = yếu tố hoại tử khối u.
+
+Lympho bào
+
+2 loại tế bào lympho chính là
+
+Tế bào B (trưởng thành trong tủy xương)
+
+Tế bào T (trưởng thành trong tuyến ức)
+
+Các loại tế bào lympho chính là hình thái không thể phân biệt được nhưng chúng có chức năng miễn dịch khác nhau. Chúng có thể được phân biệt bởi các thụ thể về mặt đặc hiệu kháng nguyên và các phân tử bề mặt khác của tế bào được gọi là các cụm biệt hóa (CD), có mặt hay không xác định một số tập con. Hơn 300 CD đã được xác định, nhiều trong số đó không có tế bào lympho nhưng có trên các tế bào khác của hệ miễn dịch. Các phân tử CD có chức năng trong việc kết dính tế bào, truyền tín hiệu tế bào, là các thụ thể cho vùng Fc của các globulin miễn dịch, là các thụ thể cho các thành phần của hệ thống bổ thể và các hệ thống khác. (Để biết thêm thông tin về các phân tử CD, hãy xem trang web
+
+Phân tử biệt hóa ở tế bào người
+
+.) Mỗi tế bào lympho nhận biết một kháng nguyên cụ thể thông qua các thụ thể tế bào B trên bề mặt tế bào (BCR, kháng thể xuyên màng) hoặc thụ thể tế bào T (TCR).
+
+Tế bào B
+
+Khoảng 5 đến 15% tế bào lympho trong máu là các tế bào B; chúng cũng có mặt trong tủy xương lách, các hạch bạch huyết, và các mô bạch huyết liên quan đến niêm mạc.
+
+Tế bào B có thể trình diện kháng nguyên cho tế bào T và giải phóng cytokine, nhưng chức năng chính của chúng là phát triển thành tế bào dưỡng bào, sản sinh và tiết ra
+
+kháng thể
+
+.
+
+Bệnh nhân bị suy giảm miễn dịch tế bào B (ví dụ:
+
+Thiếu gammaglobulin máu liên quan nhiễm sắc thể X
+
+) đặc biệt dễ bị nhiễm khuẩn tái phát.
+
+Sau khi sắp xếp lại ngẫu nhiên biến thể globulin miễn dịch (Ig), sự đa dạng và các gen liên kết mã hóa vùng biến đổi của kháng thể, các tế bào B nói chung có khả năng nhận ra số lượng kháng nguyên duy nhất gần như vô hạn. Sự sắp xếp lại gen xảy ra theo các bước được lập trình trong tủy xương trong quá trình phát triển tế bào B. Quá trình bắt đầu với một tế bào gốc đã được cam kết, tiếp tục qua các giai đoạn tế bào pro‒B và pre‒B, và kết quả là tạo ra một tế bào B chưa trưởng thành. Tại thời điểm này, bất kỳ tế bào nào tương tác với kháng nguyên của bản thân (tế bào tự miễn) đều bị loại khỏi quần thể tế bào B chưa trưởng thành thông qua quá trình bất hoạt (dị ứng) hoặc cơ chế gây chết tế bào theo chương trình, do đó đảm bảo khả năng miễn dịch. Các tế bào không bị loại bỏ (tức là những tế bào nhận biết kháng nguyên không phải của mình) tiếp tục phát triển thành tế bào B ngây thơ trưởng thành, rời khỏi tủy xương và đi vào các cơ quan bạch huyết ngoại vi, nơi các tế bào đó có thể gặp các kháng nguyên.
+
+Phản ứng của chúng đối với kháng nguyên có 2 giai đoạn:
+
+Đáp ứng miễn dịch cơ bản:
+
+Khi các tế bào B trưởng thành nguyên bản gặp kháng nguyên, chúng trở thành các nguyên bào lympho, trải qua sự tăng sinh dòng và biệt hóa thành các tế bào nhớ, có thể đáp ứng với kháng nguyên tương tự trong tương lai hoặc trở thành tế bào dưỡng bào tiết ra kháng thể. Sau lần tiếp xúc đầu tiên, có một khoảng thời gian tiềm ẩn nhiều ngày trước khi sản xuất kháng thể. Ban đầu chỉ có IgM được tạo ra. Sau đó, với sự trợ giúp của tế bào T, tế bào B có thể sắp xếp lại các gen Ig của chúng và trải qua quá trình chuyển đổi lớp để tạo ra IgG, IgA hoặc IgE đặc hiệu cho kháng nguyên. Do đó, ở lần tiếp xúc đầu tiên, đáp ứng chậm và ban đầu cung cấp khả năng miễn dịch bảo vệ hạn chế.
+
+Đáp ứng miễn dịch thứ phát (hồi đáp hoặc tăng cường):
+
+Khi tế bào B trí nhớ và tế bào Th tiếp xúc lại với kháng nguyên, tế bào B trí nhớ nhanh chóng tăng sinh, biệt hóa thành tương bào trưởng thành và nhanh chóng tạo ra một lượng lớn kháng thể (chủ yếu là IgG do sự chuyển đổi lớp do tế bào T gây ra). Kháng thể cũng có ái lực gắn kết mạnh hơn với kháng nguyên do đột biến gen mã hóa các vùng biến đổi của kháng thể. Kháng thể được phóng thích vào máu và các mô khác, nơi nó có thể phản ứng với kháng nguyên. Như vậy, sau khi tái phơi nhiễm, đáp ứng miễn dịch sẽ nhanh hơn và hiệu quả hơn.
+
+Tế bào T
+
+Các tế bào T phát triển từ các tế bào gốc tủy xương di chuyển đến tuyến ức, nơi chúng trải qua sự chọn lọc khắt khe. Có 3 loại tế bào T chính:
+
+Trợ giúp
+
+Điều hòa (ức chế)
+
+Độc tế bào
+
+Trong quá trình chọn lọc tuyến ức, các tế bào T phản ứng với kháng nguyên của bản thân được trình diện bởi các phân tử MHC của bản thân (hoặc phản ứng mạnh với các phân tử MHC của bản thân bất kể kháng nguyên được trình bày) sẽ bị loại bỏ bằng cơ chế gây chết tế bào theo chương trình, hạn chế khả năng tự miễn dịch. Chỉ có các tế bào T mà có thể nhận ra phức hợp kháng nguyên ngoại lai cho phân tử MHC của cơ thể mới tồn tại; chúng rời tuyến ức vào máu ngoại vi và mô lymphoid.
+
+Hầu hết các tế bào T trưởng thành đều biểu hiện CD4 hoặc CD8 và có thụ thể bề mặt giống Ig, gắn kết với kháng nguyên được gọi là thụ thể tế bào T (TCR). Có 2 loại TCR:
+
+Alpha-beta TCR: Bao gồm các chuỗi TCR alpha và beta; hiện diện trên hầu hết các tế bào T
+
+Gamma-delta TCR: Bao gồm các chuỗi gamma và delta TCR; hiện diện trên một quần thể nhỏ tế bào T
+
+Các gen mã hoá TCR, giống như gen Ig, được sắp xếp lại, dẫn đến việc xác định tính đặc hiệu và ái lực với kháng nguyên. Hầu hết các tế bào T (những tế bào có TCR alpha-beta) nhận biết peptide có nguồn gốc từ kháng nguyên được hiển thị cùng với phân tử MHC của tế bào trình diện kháng nguyên. Các tế bào T có TCR gamma-delta nhận biết trực tiếp kháng nguyên protein hoặc nhận biết kháng nguyên lipid được hiển thị bởi một phân tử giống MHC có tên là CD1. Số lượng đặc hiệu của tế bào T gần như vô hạn.
+
+Để các tế bào T alpha-beta được kích hoạt, TCR phải tương tác với kháng nguyên-MHC (xem hình
+
+Mô hình hai tín hiệu để kích hoạt tế bào T
+
+). Các phân tử phụ kích thích cũng phải tương tác (ví dụ: CD28 trên tế bào T tương tác với CD80 và CD86 trên tế bào trình diện kháng nguyên); mặt khác, tế bào T tiếp xúc với kháng nguyên sẽ bị dị ứng hoặc chết do cơ chế gây chết tế bào theo chương trình. Một số phân tử phụ (ví dụ, CTLA-4 [kháng nguyên tế bào lympho T gây độc 4) trên tế bào T, cũng tương tác với CD80 và CD86 trên tế bào trình diện kháng nguyên, PD-1 [protein chết tế bào theo chương trình 1] trên tế bào T, tương tác với PD-L1 [phối tử protein chết tế bào theo chương trình 1] trên tế bào trình diện kháng nguyên) ức chế các tế bào T hoạt hóa trước đó và do đó làm giảm đáp ứng miễn dịch.
+
+Các phân tử như CTLA-4 và PD-1, và các phối tử của chúng, được gọi là các phân tử checkpoint bởi vì chúng báo hiệu rằng tế bào T cần được kiềm chế để tiếp tục hoạt động. Các tế bào ung thư biểu hiện các phân tử điểm kiểm tra có thể được bảo vệ khỏi hệ thống miễn dịch bằng cách hạn chế hoạt động của các tế bào T đặc hiệu của khối u.
+
+Các kháng thể đơn dòng nhắm vào các phân tử điểm kiểm soát trên các tế bào T hoặc trên các tế bào khối u (gọi là các thuốc ức chế điểm kiểm soát, xem bảng
+
+Một số thuốc điều trị miễn dịch khi sử dụng trên lâm sàng
+
+) được sử dụng để ngăn chặn sự điều chỉnh giảm của đáp ứng miễn dịch chống khối u và điều trị hiệu quả một số bệnh ung thư kháng thuốc và thúc đẩy đáp ứng kháng khối u. Tuy nhiên, vì các phân tử điểm kiểm soát cũng tham gia vào việc ngăn chặn các loại đáp ứng miễn dịch khác (chẳng hạn như phản ứng tự miễn dịch tự dẫn hướng), các thuốc ức chế điểm kiểm soát có thể cho phép xảy ra các phản ứng tự miễn và phản ứng viêm liên quan đến miễn dịch nặng (cả toàn thân và cơ quan cụ thể) hoặc làm trầm trọng thêm các tình trạng rối loạn tự miễn dịch.
+
+Các đa hình trong gen CTLA-4 có liên quan đến một số rối loạn tự miễn dịch, bao gồm
+
+bệnh Graves
+
+và
+
+đái tháo đường loại 1
+
+.
+
+Mô hình hai tín hiệu để kích hoạt tế bào T
+
+Các chuỗi alpha (
+
+α
+
+) và beta (
+
+β
+
+) của thụ thể tế bào T (TCR) liên kết với kháng nguyên (Ag) phức hợp hòa hợp mô (MHC) trên một tế bào trình diện kháng nguyên (APC), và CD4 hoặc CD8 tương tác với MHC. Cả hai hành động đều kích thích tế bào T (tín hiệu đầu tiên) thông qua chuỗi CD3 phụ. Tuy nhiên, nếu không có tín hiệu thứ hai (đồng kích hoạt), tế bào T sẽ bị mất ứng suy nhược hoặc dung nạp.
+
+TCR tương đồng về cấu trúc với thụ thể tế bào B; các chuỗi
+
+α
+
+và
+
+β
+
+(hoặc gamma [
+
+γ
+
+] và delta [
+
+δ
+
+]) có các vùng (C) không đổi và biến đổi (V). (1)
+
+=
+
+tín hiệu thứ nhất; (2)
+
+=
+
+tín hiệu thứ 2.
+
+Tế bào T hỗ trợ (Th)
+
+thường là CD4 nhưng có thể là CD8. Chúng biệt hóa từ Th0 thành một trong những tế bào sau đây:
+
+Tế bào Th1: Nói chung, tế bào Th1 tăng cường miễn dịch qua trung gian tế bào thông qua các tế bào T và các đại thực bào gây độc tế bào và do đó đặc biệt liên quan đến việc phòng chống các tác nhân gây bệnh trong tế bào (ví dụ, vi-rút). Chúng cũng có thể thúc đẩy sản xuất một số lớp kháng thể.
+
+Tế bào Th2: Th2 tế bào đặc biệt chuyên nghiệp trong việc thúc đẩy sản xuất kháng thể bởi các tế bào B (miễn dịch dịch thể) và do đó đặc biệt liên quan đến các đáp ứng trực tiếp nhắm vào dị nguyên gây bệnh ngoài tế bào (ví dụ vi khuẩn, ký sinh trùng).
+
+Tế bào Th17: Tế bào Th17 thúc đẩy viêm mô.
+
+Tế bào Tfh (tế bào nang trợ giúp T): Tế bào Tfh thúc đẩy đáp ứng của tế bào B ở trung tâm mầm của các mô bạch huyết thứ cấp
+
+Mỗi loại tế bào tiết ra một số
+
+cytokine
+
+(xem bảng
+
+chức năng của tế bào T
+
+). Các dấu ấn khác nhau của việc sản xuất cytokine xác định các kiểu hình chức năng tế bào Th khác. Tùy thuộc vào tác nhân kích thích, đến một mức độ nhất định, tế bào Th1 và Th2 có thể làm giảm hoạt động của nhau, dẫn đến sự thống trị của một đáp ứng Th1 hoặc Th2.
+
+Bất kỳ tế bào T nào có thể nhận ra các peptide có nguồn gốc từ kháng nguyên của bản thân thường bị loại bỏ trong quá trình phát triển tế bào T ở tuyến ức. Nếu các tế bào T như vậy không bị tiêu hủy, chúng có khả năng phát triển thành các tế bào Th1, Th2 hoặc Th17 tự miễn dịch và có thể thúc đẩy sự phát triển của bệnh tự miễn.
+
+Bảng
+
+Chức năng của các tế bào T
+
+Bảng
+
+Chức năng của các tế bào T
+
+Chức năng của các tế bào T
+
+Kiểu
+
+Các chất được sản xuất
+
+Chức năng chính
+
+Th1
+
+IFN-gamma
+
+IL-2
+
+Lymphotoxin
+
+Tạo điều kiện thuận lợi cho các đáp ứng đại thực bào và tế bào T gây độc
+
+Th2
+
+IL-4
+
+IL-5
+
+IL-6
+
+IL-10
+
+IL-13
+
+Kích thích sản xuất kháng thể từ tế bào B
+
+Th17
+
+IL-17
+
+IL-21
+
+IL-22
+
+Thúc đẩy đáp ứng viêm
+
+Tfh
+
+IL-4
+
+IL-10
+
+IL-21
+
+Giúp tế bào B trung tâm mầm
+
+Tc
+
+Perforin
+
+Granzymes
+
+FasL
+
+Các cytokine*
+
+Diệt tế bào bị nhiễm
+
+Điều hòa
+
+TGF-beta
+
+IL-10
+
+IL-35
+
+Kìm hãm đáp ứng miễn dịch
+
+Tế bào NKT được kích hoạt
+
+IL-4
+
+IFN-gamma
+
+Có thể giúp điều chỉnh phản ứng miễn dịch
+
+* Tc có thể được chia nhỏ thành Tc1, Tc2 và Tc17 dựa trên quá trình sản sinh cytokine tương tự cho các tế bào Th1, Th2 và Th17.
+
+FasL
+
+=
+
+Fas ligand; IFN
+
+=
+
+interferon; IL
+
+=
+
+interleukin; NK
+
+=
+
+tế bào tiêu diệt tự nhiên; Tc
+
+=
+
+tế bào T gây độc tế bào; TGF
+
+=
+
+yếu tố tăng trưởng chuyển dạng; Th
+
+=
+
+tế bào T hỗ trợ.
+
+* Tc có thể được chia nhỏ thành Tc1, Tc2 và Tc17 dựa trên quá trình sản sinh cytokine tương tự cho các tế bào Th1, Th2 và Th17.
+
+FasL
+
+=
+
+Fas ligand; IFN
+
+=
+
+interferon; IL
+
+=
+
+interleukin; NK
+
+=
+
+tế bào tiêu diệt tự nhiên; Tc
+
+=
+
+tế bào T gây độc tế bào; TGF
+
+=
+
+yếu tố tăng trưởng chuyển dạng; Th
+
+=
+
+tế bào T hỗ trợ.
+
+Sự phân biệt giữa các tế bào Th có liên quan đến lâm sàng. Ví dụ: đáp ứng Th1 chiếm ưu thế trong
+
+bệnh phong dạng củ
+
+và đáp ứng Th2 chiếm ưu thế trong
+
+bệnh phong thể phong
+
+. Đáp ứng Th1 là đặc trưng của một số rối loạn tự miễn dịch (ví dụ:
+
+đái tháo đường
+
+loại 1,
+
+bệnh đa xơ cứng
+
+). Đáp ứng Th2 thúc đẩy sản sinh IgE và phát triển các rối loạn dị ứng, cũng như giúp tế bào B tạo ra các tự kháng thể trong một số rối loạn tự miễn dịch (ví dụ:
+
+bệnh Graves
+
+,
+
+bệnh nhược cơ
+
+). Tế bào Th17, thông qua vai trò của chúng trong viêm, cũng có thể góp phần vào các rối loạn tự miễn dịch như
+
+bệnh vẩy nến
+
+và
+
+viêm khớp dạng thấp
+
+. Bệnh nhân suy giảm miễn dịch thiếu tế bào Th17 (ví dụ hội chứng tăng IgE [Job]) đặc biệt dễ bị nhiễm trùng
+
+nấm Candida albicans
+
+và
+
+tụ cầu vàng Staphylococcus aureus
+
+.
+
+Tế bào T điều hòa (ức chế)
+
+trung gian ngăn chặn phản ứng miễn dịch và thường biểu hiện yếu tố phiên mã Foxp3. Chúng bao gồm các tập hợp con chức năng của tế bào T CD4 hoặc CD8:
+
+Tế bào Treg tự nhiên phát triển bên trong tuyến ức
+
+Tế bào Treg được cảm ứng phát triển từ tế bào T thông thường khi gặp kháng nguyên ở ngoại vi
+
+Các tế bào T điều hòa tiết ra các cytokine có đặc tính ức chế miễn dịch (ví dụ: yếu tố tăng trưởng biến đổi [TGF]-beta và interleukin [IL]-10) làm suy giảm interleukin-2 (IL-2) kích thích miễn dịch bằng cách biểu hiện mức độ cao thành phần CD25 của IL-2 thụ thể hoặc ngăn chặn đáp ứng miễn dịch bằng các cơ chế đòi hỏi sự tiếp xúc giữa tế bào với tế bào và liên quan đến các phân tử bề mặt tế bào (ví dụ: CTLA-4). Vai trò chính của tế bào Treg là ngăn chặn các đáp ứng miễn dịch quá mức bằng cách góp phần giải quyết tình trạng viêm và hạn chế hoạt động dị ứng và tự miễn. Bệnh nhân bị đột biến chức năng ở Foxp3 sẽ phát triển
+
+hội chứng IPEX
+
+(
+
+i
+
+mmunodysregulation,
+
+p
+
+olyendocrinopathy,
+
+e
+
+nteropathy,
+
+X
+
+-linked syndrome) (hội chứng rối loạn điều hòa miễn dịch, bệnh đa nội tiết, bệnh ruột, liên kết nhiễm sắc thể X) do bệnh lý tự miễn.
+
+Tế bào T (Tc) gây độc tế bào
+
+thường là CD8 nhưng cũng có thể là CD4. Các tế bào này rất quan trọng để loại bỏ mầm bệnh nội bào, đặc biệt là vi rút. Tế bào Tc đóng một vai trò trong việc thải ghép cơ quan.
+
+Tế bào Tc phát triển bao gồm 3 giai đoạn:
+
+Một tế bào tiền thân, khi được kích thích thích hợp, có thể biệt hóa thành một tế bào Tc
+
+Một tế bào phản ứng đã biệt hóa và có thể tiêu diệt mục tiêu thích hợp của nó
+
+Một tế bào nhớ không hoạt động (không còn được kích thích) nhưng sẽ sẵn sàng để trở thành một tế bào phản ứng khi được tái kích thích bởi sự kết hợp kháng nguyên MHC ban đầu
+
+Tế bào TC được kích hoạt đầy đủ, như tế bào diệt tự nhiên, có thể giết chết một tế bào đích bị nhiễm bệnh bằng cách gây ra sự chết theo chu trình.
+
+Tế bào Tc có thể tiết ra các cytokine và giống như tế bào Th, chúng được chia thành các loại Tc1, Tc2 và Tc17 dựa trên mô hình sản sinh ra cytokine của chúng.
+
+Tế bào Tc có thể
+
+Đồng ghép: Được tạo ra để đáp ứng với các tế bào tự thân (tự rụng) có MHC trình diện các peptide có nguồn gốc từ nhiễm vi rút hoặc các protein ngoại lai khác
+
+Dị sinh: Được tạo ra để đáp ứng với các tế bào biểu hiện các sản phẩm MHC ngoại lai (ví dụ, trong ghép tạng khi các phân tử MHC của người hiến tặng khác với người nhận)
+
+Một số tế bào Tc có thể trực tiếp nhận ra MHC ngoại sinh (con đường trực tiếp); những tế bào khác có thể nhận ra các mẩu MHC ngoại sinh được trình diện bởi các phân tử MHC tự thân của người nhận ghép tạng (con đường gián tiếp).
+
+Tế bào T (NKT) tiêu diệt tự nhiên
+
+là một tập hợp con riêng biệt của các tế bào T. Các tế bào NKT được kích hoạt tiết ra IL-4 và interferon-gamma và có thể giúp điều chỉnh phản ứng miễn dịch. Các tế bào NKT phân biệt với
+
+Tế bào NK
+
+về kiểu hình và một số chức năng nhất định.
+
+Tế bào Mast
+
+Tế bào mast có mặt trong các mô niêm mạc và mô liên kết khắp cơ thể và có chức năng tương tự như
+
+bạch cầu ái kiềm
+
+lưu thông trong máu.
+
+Các hạt tế bào mast niêm mạc chứa tryptase và chondroitin sulfate; hạt tế bào mast ở mô liên kết chứa tryptase, chymase và
+
+heparin
+
+. Bằng cách giải phóng các chất trung gian này, tế bào mast đóng vai trò chính trong việc tạo ra các phản ứng viêm cấp tính có tính bảo vệ. Bạch cầu ái kiềm và tế bào mast là nguồn gốc của phản ứng quá mẫn loại I liên quan đến
+
+dị ứng do cơ địa dị ứng
+
+. Các tế bào này đều có các thụ thể có ái lực cao với IgE được gọi là Fc-epsilon RI (Fc
+
+ε
+
+RI). Sự thoái hóa hạt có thể được kích hoạt bằng cách liên kết chéo các thụ thể IgE hoặc bởi các mảnh
+
+bổ thể
+
+độc tố phản vệ C3a và C5a.
+
+Tế bào diệt tự nhiên (NK)
+
+Các tế bào diệt tự nhiên điển hình (NK) thuộc một loại tế bào gọi chung là tế bào lympho bẩm sinh (bao gồm cả ILC1, ILC2, và ILC3). Các tế bào NK chiếm từ 5 đến 15% các tế bào đơn nhân máu ngoại biên và có một nhân tế bào hình tròn và tương bào có hạt. Chúng gây ra chết theo chu trình cho các tế bào bị nhiễm trùng hoặc bất thường bằng một số con đường. Giống như các tế bào bạch huyết bẩm sinh khác, chúng thiếu các thụ thể đặc hiệu với kháng nguyên; tuy nhiên, một số tế bào NK có một dạng trí nhớ miễn dịch.
+
+Các tế bào NK được đặc trưng tốt nhất bởi CD2+, CD3-, CD4-, CD8+, CD16+ (thụ thể IgG-Fc) và các dấu ấn bề mặt CD56+.
+
+Các tế bào NK điển hình có ý nghĩa quan trọng đối với việc giám sát khối u. Các tế bào NK biểu hiện cả thụ thể kích hoạt và ức chế. Các thụ thể kích hoạt trên tế bào NK có thể nhận ra nhiều phối tử trên tế bào đích (ví dụ: chuỗi A liên quan đến MHC lớp I [MICA] và chuỗi B [MICB]). Các thụ thể ức chế trên tế bào NK nhận biết các phân tử MHC lớp I. Tế bào NK có thể giết chết mục tiêu khi không có tín hiệu mạnh từ thụ thể ức chế. Sự hiện diện của các phân tử MHC lớp I (thường biểu hiện trên các tế bào có nhân) trên tế bào do đó ngăn ngừa sự phá hủy các tế bào; sự vắng mặt của chúng cho thấy rằng tế bào bị nhiễm một số loại virut ức chế sự biểu hiện MHC hoặc đã mất biểu hiện MHC vì ung thư đã thay đổi tế bào.
+
+Tế bào NK cũng có thể tiết ra một số
+
+cytokine
+
+(ví dụ: IFN-gamma, IL-1, TNF-alpha); các cytokine này là nguồn cung cấp IFN-gamma chính. Bằng cách tiết ra IFN-gamma, các tế bào NK có thể tác động đến hệ miễn dịch thu được bằng cách thúc đẩy quá trình biệt hóa của tế bào T trợ giúp loại 1 (Th1) và ức chế tế bào trợ giúp loại 2 (Th2).
+
+Bệnh nhân bị thiếu hụt tế bào NK (ví dụ: một số loại
+
+suy giảm miễn dịch kết hợp nặng
+
+) đặc biệt là dễ bị
+
+nhiễm herpesvirus
+
+và
+
+nhiễm papillomavirus ở người
+
+, trong khi sự dư thừa tế bào NK có thể góp phần gây phát triển
+
+bệnh tự miễn
+
+.
+
+Bạch cầu đa nhân
+
+Các bạch cầu đa nhân, còn được gọi là bạch cầu hạt do bào tương của chúng chứa các hạt, bao gồm
+
+Bạch cầu đa nhân trung tính
+
+Bạch cầu ái toan
+
+Bạch cầu ái kiềm
+
+Các bạch cầu đa nhân có trong máu tuần hoàn và có nhân đa múi.
+
+Bạch cầu đa nhân trung tính
+
+Bạch cầu trung tính chiếm từ 40 đến 70% tổng lượng bạch cầu trong tuần hoàn; chúng là một tuyến đầu tiên của hàng rào chống lại nhiễm trùng. Các bạch cầu trung tính có thời gian bán hủy từ 2 đến 3 ngày.
+
+Trong các phản ứng viêm cấp tính (ví dụ: nhiễm trùng), bạch cầu trung tính, được thu hút bởi các yếu tố hóa học, sử dụng các phân tử bám dính trên nội mô mạch máu để rời khỏi tuần hoàn và đi vào các mô. Mục đích của chúng là thực bào và tiêu hoá mầm bệnh. Các vi sinh vật bị giết chết khi thực bào tạo ra enzym ly giải và phản ứng Oxygen các hợp chất (ví dụ: superoxide, axit hypochlorous) và kích hoạt sự giải phóng các thành phần hạt (ví dụ: defensin, protease, protein tăng tính thấm diệt khuẩn, lactoferrin, lysozyme). DNA và histones cũng được giải phóng, và chúng có chứa các thành phần hạt như elastaza tạo ra các cấu trúc sợi được gọi là bẫy ngoại bào bạch cầu trung tính trong các mô xung quanh; các cấu trúc này tạo điều kiện giết chết bằng cách bẫy vi khuẩn và tập trung hoạt động của enzym.
+
+Bệnh nhân bị suy giảm miễn dịch ảnh hưởng đến khả năng thực bào tiêu diệt mầm bệnh (ví dụ:
+
+bệnh u hạt mạn tính
+
+) đặc biệt dễ bị nhiễm trùng mạn tính do vi khuẩn và nấm.
+
+Bạch cầu ái toan
+
+Bạch cầu ái toan chiếm tới 5% lượng bạch cầu đang lưu hành.
+
+Các bạch cầu này nhắm vào những sinh vật quá lớn sẽ bị vùi. Bạch cầu ái toan tiêu diệt bằng cách tiết ra các chất độc hại (ví dụ: các hợp chất oxy phản ứng tương tự như các hợp chất được tạo ra trong bạch cầu trung tính), protein cơ bản chính (gây độc cho ký sinh trùng), protein cation bạch cầu ái toan và một số enzyme.
+
+Bạch cầu ái toan trong tuần hoàn, tăng lên để đáp ứng với nhiễm ký sinh trùng xâm lấn, một số bệnh ung thư và là một phần của phản ứng dị ứng, cũng là nguồn chính của các chất trung gian gây viêm (ví dụ: prostaglandin, leukotrien, yếu tố kích hoạt tiểu cầu, nhiều cytokine).
+
+Bạch cầu ái kiềm
+
+Bạch cầu ái kiềm chiếm
+
+<
+
+5% số lượng bạch cầu lưu hành. Bạch cầu ái kiềm có chung một số đặc điểm với
+
+tế bào mast
+
+, mặc dù 2 loại tế bào này có dòng riêng biệt. Cả hai đều có thụ thể ái lực cao đối với IgE gọi là Fc-epsilon RI (Fc
+
+ε
+
+RI). Khi những tế bào này gặp các kháng nguyên nhất định, các phân tử IgE liên kết với các thụ thể sẽ trở thành liên kết chéo, kích hoạt giải phóng hạt tế bào với sự giải phóng các chất trung gian gây viêm (ví dụ histamine, yếu tố kích hoạt tiểu cầu) và tạo ra các hóa chất trung gian mới được tổng hợp (ví dụ như leukotrienes, prostaglandins, thromboxanes).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các tế bào trình diện kháng nguyên ---
+
+Mặc dù một số kháng nguyên (Ag) có thể kích thích phản ứng miễn dịch trực tiếp, các phản ứng miễn dịch thu được từ tế bào T thường đòi hỏi các tế bào trình diện kháng nguyên (APC) để trình bày các peptide có nguồn gốc kháng nguyên trong các phân tử phức hợp hòa hợp mô chủ yếu (MHC).Kháng nguyên nội bào(ví dụ như vi rút) có thể được xử lý và trình diện với các tế bào T gây độc CD8 bởi bất kỳ tế bào có nhân nào bởi vì tất cả các tế bào có nhân đều biểu hiện các phân tử MHC class I. Khi mã hóa các protein can thiệp vào quá trình này, một số loại vi rút (ví dụ:cytomegalovirus) có thể tránh bị loại bỏ.Kháng nguyên ngoài tế bào(ví dụ: từ nhiều vi khuẩn) bị thực bào hoặc nội bào có thể được xử lý thành peptide và tạo phức với các phân tử MHC lớp II bề mặt trên các APC chuyên nghiệp, chuyên trình diện kháng nguyên cho tế bào T (Th) hỗ trợ CD4. Các tế bào sau biểu hiện cấu thành các phân tử MHC lớp II và do đó hoạt động như các APC chuyên nghiệp:Tế bào đuôi gaiBạch cầu monoĐại thực bàoTế bào BTế bào đuôi gaicó mặt trong da (như các tế bào Langerhans), hạch bạch huyết, và các mô khắp cơ thể. Tế bào đuôi gai trong da hoạt động như APC lính canh, tiếp nhận kháng nguyên, sau đó di chuyển đến các hạch bạch huyết cục bộ, nơi chúng có thể kích hoạt tế bào T.Tế bào nang đuôi gailà một dòng riêng biệt (một loại tế bào khác với tế bào đuôi gai thông thường), không biểu hiện các phân tử MHC lớp II và do đó không trình diện kháng nguyên cho tế bào Th. Chúng không là thực bào; chúng có các thụ thể đối với vùng có thể kết tinh (Fc) của immunoglobulin (Ig) G và bổ thể, cho phép chúng liên kết với các phức hợp miễn dịch và trình bày phức hợp với tế bào B trong các trung tâm mầm của các cơ quan lympho thứ cấp.Tế bào monotrong máu là tiền thân của các đại thực bào mô. Bạch cầu đơn nhân di chuyển vào các mô và sau khoảng 8 tiếng, chúng phát triển thành đại thực bào. Sự phát triển này xảy ra dưới ảnh hưởng của yếu tố kích thích đại thực bào (M-CSF), do nhiều loại tế bào khác nhau tiết ra (ví dụ: tế bào nội mô, nguyên bào sợi). Tại các vị trí nhiễm trùng, các tế bào T kích hoạt tiết ra các cytokine (ví dụ, interferon-gamma[IFN-gamma]) và hiện tượng này dẫn đến sản xuất yếu tố ức chế di chuyển đại thực bào, ngăn ngừa không cho đại thực bào rời đi.Đại thực bàolà các tế bào thực bào có mặt trong các mô khắp cơ thể. Tùy thuộc vào tín hiệu kích hoạt mà chúng nhận được, các đại thực bào có thể thay đổi cấu hình biểu hiện gen của chúng và phát triển thành các tập hợp con M1 hoặc M2 phân cực (xem bảngCác phân nhóm đại thực bào). M1, đại thực bào gây viêm "được kích hoạt theo kiểu cổ điển", do các cytokine như IFN-gamma và các thành phần vi sinh vật khác nhau kích thích (ví dụ: lipopolysaccharide). Các đại thực bào chống viêm M2 "được kích hoạt thay thế" chủ yếu do các cytokine như là IL-4 và IL-13 kích thích. Đại thực bào M1 có khả năng diệt khuẩn mạnh, thúc đẩy đáp ứng Th1 và tiết ra các cytokine tiền viêm (ví dụ: TNF-alpha), trong khi đại thực bào M2 tiết ra các cytokine ức chế miễn dịch (ví dụ: IL-10, biến đổi yếu tố tăng trưởng-beta [TGF-beta]), rất quan trọng trong giải quyết tình trạng viêm và thúc đẩy tái tạo mô. Đại thực bào M2 cũng có thể góp phần gây xơ hóa bằng cách tạo ra các yếu tố chức năng xơ hóa như TGF-beta.Chức năng chính củatế bào Blà phát triển thành tương bào, nơi sản sinh và tiết ra kháng thể.BảngLoại phụ đại thực bàoBảngLoại phụ đại thực bàoLoại phụ đại thực bàoĐặc điểmM1M2Ví dụ về tác nhân hoạt hóaLipopolysaccharideIFN-gamma (cytokin được sản xuất bởi tế bào Th1)IL-4 và IL-13 (cytokines sinh ra bởi tế bào Th2)Ví dụ về các Cytokin được sản xuấtCác cytokine tiền viêm (ví dụ, TNF-alpha)Các cytokine ức chế miễn dịch (ví dụ: IL-10, TGF-beta)Các chức năng khácĐáp ứng kích thích Th1Diệt khuẩn rất mạnhLàm giảm viêmThúc đẩy tái tạo môIFN = interferon; IL = interleukin; TGF = yếu tố tăng trưởng chuyển dạng; Tế bào Th1 = tế bào T trợ giúp loại 1; Tế bào Th2 = tế bào T trợ giúp loại 2; TNF = yếu tố hoại tử khối u.IFN = interferon; IL = interleukin; TGF = yếu tố tăng trưởng chuyển dạng; Tế bào Th1 = tế bào T trợ giúp loại 1; Tế bào Th2 = tế bào T trợ giúp loại 2; TNF = yếu tố hoại tử khối u.
+
+--- 2. Lympho bào ---
+
+2 loại tế bào lympho chính làTế bào B (trưởng thành trong tủy xương)Tế bào T (trưởng thành trong tuyến ức)Các loại tế bào lympho chính là hình thái không thể phân biệt được nhưng chúng có chức năng miễn dịch khác nhau. Chúng có thể được phân biệt bởi các thụ thể về mặt đặc hiệu kháng nguyên và các phân tử bề mặt khác của tế bào được gọi là các cụm biệt hóa (CD), có mặt hay không xác định một số tập con. Hơn 300 CD đã được xác định, nhiều trong số đó không có tế bào lympho nhưng có trên các tế bào khác của hệ miễn dịch. Các phân tử CD có chức năng trong việc kết dính tế bào, truyền tín hiệu tế bào, là các thụ thể cho vùng Fc của các globulin miễn dịch, là các thụ thể cho các thành phần của hệ thống bổ thể và các hệ thống khác. (Để biết thêm thông tin về các phân tử CD, hãy xem trang webPhân tử biệt hóa ở tế bào người.) Mỗi tế bào lympho nhận biết một kháng nguyên cụ thể thông qua các thụ thể tế bào B trên bề mặt tế bào (BCR, kháng thể xuyên màng) hoặc thụ thể tế bào T (TCR).Tế bào BKhoảng 5 đến 15% tế bào lympho trong máu là các tế bào B; chúng cũng có mặt trong tủy xương lách, các hạch bạch huyết, và các mô bạch huyết liên quan đến niêm mạc.Tế bào B có thể trình diện kháng nguyên cho tế bào T và giải phóng cytokine, nhưng chức năng chính của chúng là phát triển thành tế bào dưỡng bào, sản sinh và tiết rakháng thể.Bệnh nhân bị suy giảm miễn dịch tế bào B (ví dụ:Thiếu gammaglobulin máu liên quan nhiễm sắc thể X) đặc biệt dễ bị nhiễm khuẩn tái phát.Sau khi sắp xếp lại ngẫu nhiên biến thể globulin miễn dịch (Ig), sự đa dạng và các gen liên kết mã hóa vùng biến đổi của kháng thể, các tế bào B nói chung có khả năng nhận ra số lượng kháng nguyên duy nhất gần như vô hạn. Sự sắp xếp lại gen xảy ra theo các bước được lập trình trong tủy xương trong quá trình phát triển tế bào B. Quá trình bắt đầu với một tế bào gốc đã được cam kết, tiếp tục qua các giai đoạn tế bào pro‒B và pre‒B, và kết quả là tạo ra một tế bào B chưa trưởng thành. Tại thời điểm này, bất kỳ tế bào nào tương tác với kháng nguyên của bản thân (tế bào tự miễn) đều bị loại khỏi quần thể tế bào B chưa trưởng thành thông qua quá trình bất hoạt (dị ứng) hoặc cơ chế gây chết tế bào theo chương trình, do đó đảm bảo khả năng miễn dịch. Các tế bào không bị loại bỏ (tức là những tế bào nhận biết kháng nguyên không phải của mình) tiếp tục phát triển thành tế bào B ngây thơ trưởng thành, rời khỏi tủy xương và đi vào các cơ quan bạch huyết ngoại vi, nơi các tế bào đó có thể gặp các kháng nguyên.Phản ứng của chúng đối với kháng nguyên có 2 giai đoạn:Đáp ứng miễn dịch cơ bản:Khi các tế bào B trưởng thành nguyên bản gặp kháng nguyên, chúng trở thành các nguyên bào lympho, trải qua sự tăng sinh dòng và biệt hóa thành các tế bào nhớ, có thể đáp ứng với kháng nguyên tương tự trong tương lai hoặc trở thành tế bào dưỡng bào tiết ra kháng thể. Sau lần tiếp xúc đầu tiên, có một khoảng thời gian tiềm ẩn nhiều ngày trước khi sản xuất kháng thể. Ban đầu chỉ có IgM được tạo ra. Sau đó, với sự trợ giúp của tế bào T, tế bào B có thể sắp xếp lại các gen Ig của chúng và trải qua quá trình chuyển đổi lớp để tạo ra IgG, IgA hoặc IgE đặc hiệu cho kháng nguyên. Do đó, ở lần tiếp xúc đầu tiên, đáp ứng chậm và ban đầu cung cấp khả năng miễn dịch bảo vệ hạn chế.Đáp ứng miễn dịch thứ phát (hồi đáp hoặc tăng cường):Khi tế bào B trí nhớ và tế bào Th tiếp xúc lại với kháng nguyên, tế bào B trí nhớ nhanh chóng tăng sinh, biệt hóa thành tương bào trưởng thành và nhanh chóng tạo ra một lượng lớn kháng thể (chủ yếu là IgG do sự chuyển đổi lớp do tế bào T gây ra). Kháng thể cũng có ái lực gắn kết mạnh hơn với kháng nguyên do đột biến gen mã hóa các vùng biến đổi của kháng thể. Kháng thể được phóng thích vào máu và các mô khác, nơi nó có thể phản ứng với kháng nguyên. Như vậy, sau khi tái phơi nhiễm, đáp ứng miễn dịch sẽ nhanh hơn và hiệu quả hơn.Tế bào TCác tế bào T phát triển từ các tế bào gốc tủy xương di chuyển đến tuyến ức, nơi chúng trải qua sự chọn lọc khắt khe. Có 3 loại tế bào T chính:Trợ giúpĐiều hòa (ức chế)Độc tế bàoTrong quá trình chọn lọc tuyến ức, các tế bào T phản ứng với kháng nguyên của bản thân được trình diện bởi các phân tử MHC của bản thân (hoặc phản ứng mạnh với các phân tử MHC của bản thân bất kể kháng nguyên được trình bày) sẽ bị loại bỏ bằng cơ chế gây chết tế bào theo chương trình, hạn chế khả năng tự miễn dịch. Chỉ có các tế bào T mà có thể nhận ra phức hợp kháng nguyên ngoại lai cho phân tử MHC của cơ thể mới tồn tại; chúng rời tuyến ức vào máu ngoại vi và mô lymphoid.Hầu hết các tế bào T trưởng thành đều biểu hiện CD4 hoặc CD8 và có thụ thể bề mặt giống Ig, gắn kết với kháng nguyên được gọi là thụ thể tế bào T (TCR). Có 2 loại TCR:Alpha-beta TCR: Bao gồm các chuỗi TCR alpha và beta; hiện diện trên hầu hết các tế bào TGamma-delta TCR: Bao gồm các chuỗi gamma và delta TCR; hiện diện trên một quần thể nhỏ tế bào TCác gen mã hoá TCR, giống như gen Ig, được sắp xếp lại, dẫn đến việc xác định tính đặc hiệu và ái lực với kháng nguyên. Hầu hết các tế bào T (những tế bào có TCR alpha-beta) nhận biết peptide có nguồn gốc từ kháng nguyên được hiển thị cùng với phân tử MHC của tế bào trình diện kháng nguyên. Các tế bào T có TCR gamma-delta nhận biết trực tiếp kháng nguyên protein hoặc nhận biết kháng nguyên lipid được hiển thị bởi một phân tử giống MHC có tên là CD1. Số lượng đặc hiệu của tế bào T gần như vô hạn.Để các tế bào T alpha-beta được kích hoạt, TCR phải tương tác với kháng nguyên-MHC (xem hìnhMô hình hai tín hiệu để kích hoạt tế bào T). Các phân tử phụ kích thích cũng phải tương tác (ví dụ: CD28 trên tế bào T tương tác với CD80 và CD86 trên tế bào trình diện kháng nguyên); mặt khác, tế bào T tiếp xúc với kháng nguyên sẽ bị dị ứng hoặc chết do cơ chế gây chết tế bào theo chương trình. Một số phân tử phụ (ví dụ, CTLA-4 [kháng nguyên tế bào lympho T gây độc 4) trên tế bào T, cũng tương tác với CD80 và CD86 trên tế bào trình diện kháng nguyên, PD-1 [protein chết tế bào theo chương trình 1] trên tế bào T, tương tác với PD-L1 [phối tử protein chết tế bào theo chương trình 1] trên tế bào trình diện kháng nguyên) ức chế các tế bào T hoạt hóa trước đó và do đó làm giảm đáp ứng miễn dịch.Các phân tử như CTLA-4 và PD-1, và các phối tử của chúng, được gọi là các phân tử checkpoint bởi vì chúng báo hiệu rằng tế bào T cần được kiềm chế để tiếp tục hoạt động. Các tế bào ung thư biểu hiện các phân tử điểm kiểm tra có thể được bảo vệ khỏi hệ thống miễn dịch bằng cách hạn chế hoạt động của các tế bào T đặc hiệu của khối u.Các kháng thể đơn dòng nhắm vào các phân tử điểm kiểm soát trên các tế bào T hoặc trên các tế bào khối u (gọi là các thuốc ức chế điểm kiểm soát, xem bảngMột số thuốc điều trị miễn dịch khi sử dụng trên lâm sàng) được sử dụng để ngăn chặn sự điều chỉnh giảm của đáp ứng miễn dịch chống khối u và điều trị hiệu quả một số bệnh ung thư kháng thuốc và thúc đẩy đáp ứng kháng khối u. Tuy nhiên, vì các phân tử điểm kiểm soát cũng tham gia vào việc ngăn chặn các loại đáp ứng miễn dịch khác (chẳng hạn như phản ứng tự miễn dịch tự dẫn hướng), các thuốc ức chế điểm kiểm soát có thể cho phép xảy ra các phản ứng tự miễn và phản ứng viêm liên quan đến miễn dịch nặng (cả toàn thân và cơ quan cụ thể) hoặc làm trầm trọng thêm các tình trạng rối loạn tự miễn dịch.Các đa hình trong gen CTLA-4 có liên quan đến một số rối loạn tự miễn dịch, bao gồmbệnh Gravesvàđái tháo đường loại 1.Mô hình hai tín hiệu để kích hoạt tế bào TCác chuỗi alpha (α) và beta (β) của thụ thể tế bào T (TCR) liên kết với kháng nguyên (Ag) phức hợp hòa hợp mô (MHC) trên một tế bào trình diện kháng nguyên (APC), và CD4 hoặc CD8 tương tác với MHC. Cả hai hành động đều kích thích tế bào T (tín hiệu đầu tiên) thông qua chuỗi CD3 phụ. Tuy nhiên, nếu không có tín hiệu thứ hai (đồng kích hoạt), tế bào T sẽ bị mất ứng suy nhược hoặc dung nạp.TCR tương đồng về cấu trúc với thụ thể tế bào B; các chuỗiαvàβ(hoặc gamma [γ] và delta [δ]) có các vùng (C) không đổi và biến đổi (V). (1)=tín hiệu thứ nhất; (2)=tín hiệu thứ 2.Tế bào T hỗ trợ (Th)thường là CD4 nhưng có thể là CD8. Chúng biệt hóa từ Th0 thành một trong những tế bào sau đây:Tế bào Th1: Nói chung, tế bào Th1 tăng cường miễn dịch qua trung gian tế bào thông qua các tế bào T và các đại thực bào gây độc tế bào và do đó đặc biệt liên quan đến việc phòng chống các tác nhân gây bệnh trong tế bào (ví dụ, vi-rút). Chúng cũng có thể thúc đẩy sản xuất một số lớp kháng thể.Tế bào Th2: Th2 tế bào đặc biệt chuyên nghiệp trong việc thúc đẩy sản xuất kháng thể bởi các tế bào B (miễn dịch dịch thể) và do đó đặc biệt liên quan đến các đáp ứng trực tiếp nhắm vào dị nguyên gây bệnh ngoài tế bào (ví dụ vi khuẩn, ký sinh trùng).Tế bào Th17: Tế bào Th17 thúc đẩy viêm mô.Tế bào Tfh (tế bào nang trợ giúp T): Tế bào Tfh thúc đẩy đáp ứng của tế bào B ở trung tâm mầm của các mô bạch huyết thứ cấpMỗi loại tế bào tiết ra một sốcytokine(xem bảngchức năng của tế bào T). Các dấu ấn khác nhau của việc sản xuất cytokine xác định các kiểu hình chức năng tế bào Th khác. Tùy thuộc vào tác nhân kích thích, đến một mức độ nhất định, tế bào Th1 và Th2 có thể làm giảm hoạt động của nhau, dẫn đến sự thống trị của một đáp ứng Th1 hoặc Th2.Bất kỳ tế bào T nào có thể nhận ra các peptide có nguồn gốc từ kháng nguyên của bản thân thường bị loại bỏ trong quá trình phát triển tế bào T ở tuyến ức. Nếu các tế bào T như vậy không bị tiêu hủy, chúng có khả năng phát triển thành các tế bào Th1, Th2 hoặc Th17 tự miễn dịch và có thể thúc đẩy sự phát triển của bệnh tự miễn.BảngChức năng của các tế bào TBảngChức năng của các tế bào TChức năng của các tế bào TKiểuCác chất được sản xuấtChức năng chínhTh1IFN-gammaIL-2LymphotoxinTạo điều kiện thuận lợi cho các đáp ứng đại thực bào và tế bào T gây độcTh2IL-4IL-5IL-6IL-10IL-13Kích thích sản xuất kháng thể từ tế bào BTh17IL-17IL-21IL-22Thúc đẩy đáp ứng viêmTfhIL-4IL-10IL-21Giúp tế bào B trung tâm mầmTcPerforinGranzymesFasLCác cytokine*Diệt tế bào bị nhiễmĐiều hòaTGF-betaIL-10IL-35Kìm hãm đáp ứng miễn dịchTế bào NKT được kích hoạtIL-4IFN-gammaCó thể giúp điều chỉnh phản ứng miễn dịch* Tc có thể được chia nhỏ thành Tc1, Tc2 và Tc17 dựa trên quá trình sản sinh cytokine tương tự cho các tế bào Th1, Th2 và Th17.FasL=Fas ligand; IFN=interferon; IL=interleukin; NK=tế bào tiêu diệt tự nhiên; Tc=tế bào T gây độc tế bào; TGF=yếu tố tăng trưởng chuyển dạng; Th=tế bào T hỗ trợ.* Tc có thể được chia nhỏ thành Tc1, Tc2 và Tc17 dựa trên quá trình sản sinh cytokine tương tự cho các tế bào Th1, Th2 và Th17.FasL=Fas ligand; IFN=interferon; IL=interleukin; NK=tế bào tiêu diệt tự nhiên; Tc=tế bào T gây độc tế bào; TGF=yếu tố tăng trưởng chuyển dạng; Th=tế bào T hỗ trợ.Sự phân biệt giữa các tế bào Th có liên quan đến lâm sàng. Ví dụ: đáp ứng Th1 chiếm ưu thế trongbệnh phong dạng củvà đáp ứng Th2 chiếm ưu thế trongbệnh phong thể phong. Đáp ứng Th1 là đặc trưng của một số rối loạn tự miễn dịch (ví dụ:đái tháo đườngloại 1,bệnh đa xơ cứng). Đáp ứng Th2 thúc đẩy sản sinh IgE và phát triển các rối loạn dị ứng, cũng như giúp tế bào B tạo ra các tự kháng thể trong một số rối loạn tự miễn dịch (ví dụ:bệnh Graves,bệnh nhược cơ). Tế bào Th17, thông qua vai trò của chúng trong viêm, cũng có thể góp phần vào các rối loạn tự miễn dịch nhưbệnh vẩy nếnvàviêm khớp dạng thấp. Bệnh nhân suy giảm miễn dịch thiếu tế bào Th17 (ví dụ hội chứng tăng IgE [Job]) đặc biệt dễ bị nhiễm trùngnấm Candida albicansvàtụ cầu vàng Staphylococcus aureus.Tế bào T điều hòa (ức chế)trung gian ngăn chặn phản ứng miễn dịch và thường biểu hiện yếu tố phiên mã Foxp3. Chúng bao gồm các tập hợp con chức năng của tế bào T CD4 hoặc CD8:Tế bào Treg tự nhiên phát triển bên trong tuyến ứcTế bào Treg được cảm ứng phát triển từ tế bào T thông thường khi gặp kháng nguyên ở ngoại viCác tế bào T điều hòa tiết ra các cytokine có đặc tính ức chế miễn dịch (ví dụ: yếu tố tăng trưởng biến đổi [TGF]-beta và interleukin [IL]-10) làm suy giảm interleukin-2 (IL-2) kích thích miễn dịch bằng cách biểu hiện mức độ cao thành phần CD25 của IL-2 thụ thể hoặc ngăn chặn đáp ứng miễn dịch bằng các cơ chế đòi hỏi sự tiếp xúc giữa tế bào với tế bào và liên quan đến các phân tử bề mặt tế bào (ví dụ: CTLA-4). Vai trò chính của tế bào Treg là ngăn chặn các đáp ứng miễn dịch quá mức bằng cách góp phần giải quyết tình trạng viêm và hạn chế hoạt động dị ứng và tự miễn. Bệnh nhân bị đột biến chức năng ở Foxp3 sẽ phát triểnhội chứng IPEX(immunodysregulation,polyendocrinopathy,enteropathy,X-linked syndrome) (hội chứng rối loạn điều hòa miễn dịch, bệnh đa nội tiết, bệnh ruột, liên kết nhiễm sắc thể X) do bệnh lý tự miễn.Tế bào T (Tc) gây độc tế bàothường là CD8 nhưng cũng có thể là CD4. Các tế bào này rất quan trọng để loại bỏ mầm bệnh nội bào, đặc biệt là vi rút. Tế bào Tc đóng một vai trò trong việc thải ghép cơ quan.Tế bào Tc phát triển bao gồm 3 giai đoạn:Một tế bào tiền thân, khi được kích thích thích hợp, có thể biệt hóa thành một tế bào TcMột tế bào phản ứng đã biệt hóa và có thể tiêu diệt mục tiêu thích hợp của nóMột tế bào nhớ không hoạt động (không còn được kích thích) nhưng sẽ sẵn sàng để trở thành một tế bào phản ứng khi được tái kích thích bởi sự kết hợp kháng nguyên MHC ban đầuTế bào TC được kích hoạt đầy đủ, như tế bào diệt tự nhiên, có thể giết chết một tế bào đích bị nhiễm bệnh bằng cách gây ra sự chết theo chu trình.Tế bào Tc có thể tiết ra các cytokine và giống như tế bào Th, chúng được chia thành các loại Tc1, Tc2 và Tc17 dựa trên mô hình sản sinh ra cytokine của chúng.Tế bào Tc có thểĐồng ghép: Được tạo ra để đáp ứng với các tế bào tự thân (tự rụng) có MHC trình diện các peptide có nguồn gốc từ nhiễm vi rút hoặc các protein ngoại lai khácDị sinh: Được tạo ra để đáp ứng với các tế bào biểu hiện các sản phẩm MHC ngoại lai (ví dụ, trong ghép tạng khi các phân tử MHC của người hiến tặng khác với người nhận)Một số tế bào Tc có thể trực tiếp nhận ra MHC ngoại sinh (con đường trực tiếp); những tế bào khác có thể nhận ra các mẩu MHC ngoại sinh được trình diện bởi các phân tử MHC tự thân của người nhận ghép tạng (con đường gián tiếp).Tế bào T (NKT) tiêu diệt tự nhiênlà một tập hợp con riêng biệt của các tế bào T. Các tế bào NKT được kích hoạt tiết ra IL-4 và interferon-gamma và có thể giúp điều chỉnh phản ứng miễn dịch. Các tế bào NKT phân biệt vớiTế bào NKvề kiểu hình và một số chức năng nhất định.
+
+--- 3. Tế bào Mast ---
+
+Tế bào mast có mặt trong các mô niêm mạc và mô liên kết khắp cơ thể và có chức năng tương tự nhưbạch cầu ái kiềmlưu thông trong máu.Các hạt tế bào mast niêm mạc chứa tryptase và chondroitin sulfate; hạt tế bào mast ở mô liên kết chứa tryptase, chymase vàheparin. Bằng cách giải phóng các chất trung gian này, tế bào mast đóng vai trò chính trong việc tạo ra các phản ứng viêm cấp tính có tính bảo vệ. Bạch cầu ái kiềm và tế bào mast là nguồn gốc của phản ứng quá mẫn loại I liên quan đếndị ứng do cơ địa dị ứng. Các tế bào này đều có các thụ thể có ái lực cao với IgE được gọi là Fc-epsilon RI (FcεRI). Sự thoái hóa hạt có thể được kích hoạt bằng cách liên kết chéo các thụ thể IgE hoặc bởi các mảnhbổ thểđộc tố phản vệ C3a và C5a.
+
+--- 4. Tế bào diệt tự nhiên (NK) ---
+
+Các tế bào diệt tự nhiên điển hình (NK) thuộc một loại tế bào gọi chung là tế bào lympho bẩm sinh (bao gồm cả ILC1, ILC2, và ILC3). Các tế bào NK chiếm từ 5 đến 15% các tế bào đơn nhân máu ngoại biên và có một nhân tế bào hình tròn và tương bào có hạt. Chúng gây ra chết theo chu trình cho các tế bào bị nhiễm trùng hoặc bất thường bằng một số con đường. Giống như các tế bào bạch huyết bẩm sinh khác, chúng thiếu các thụ thể đặc hiệu với kháng nguyên; tuy nhiên, một số tế bào NK có một dạng trí nhớ miễn dịch.Các tế bào NK được đặc trưng tốt nhất bởi CD2+, CD3-, CD4-, CD8+, CD16+ (thụ thể IgG-Fc) và các dấu ấn bề mặt CD56+.Các tế bào NK điển hình có ý nghĩa quan trọng đối với việc giám sát khối u. Các tế bào NK biểu hiện cả thụ thể kích hoạt và ức chế. Các thụ thể kích hoạt trên tế bào NK có thể nhận ra nhiều phối tử trên tế bào đích (ví dụ: chuỗi A liên quan đến MHC lớp I [MICA] và chuỗi B [MICB]). Các thụ thể ức chế trên tế bào NK nhận biết các phân tử MHC lớp I. Tế bào NK có thể giết chết mục tiêu khi không có tín hiệu mạnh từ thụ thể ức chế. Sự hiện diện của các phân tử MHC lớp I (thường biểu hiện trên các tế bào có nhân) trên tế bào do đó ngăn ngừa sự phá hủy các tế bào; sự vắng mặt của chúng cho thấy rằng tế bào bị nhiễm một số loại virut ức chế sự biểu hiện MHC hoặc đã mất biểu hiện MHC vì ung thư đã thay đổi tế bào.Tế bào NK cũng có thể tiết ra một sốcytokine(ví dụ: IFN-gamma, IL-1, TNF-alpha); các cytokine này là nguồn cung cấp IFN-gamma chính. Bằng cách tiết ra IFN-gamma, các tế bào NK có thể tác động đến hệ miễn dịch thu được bằng cách thúc đẩy quá trình biệt hóa của tế bào T trợ giúp loại 1 (Th1) và ức chế tế bào trợ giúp loại 2 (Th2).Bệnh nhân bị thiếu hụt tế bào NK (ví dụ: một số loạisuy giảm miễn dịch kết hợp nặng) đặc biệt là dễ bịnhiễm herpesvirusvànhiễm papillomavirus ở người, trong khi sự dư thừa tế bào NK có thể góp phần gây phát triểnbệnh tự miễn.
+
+--- 5. Bạch cầu đa nhân ---
+
+Các bạch cầu đa nhân, còn được gọi là bạch cầu hạt do bào tương của chúng chứa các hạt, bao gồmBạch cầu đa nhân trung tínhBạch cầu ái toanBạch cầu ái kiềmCác bạch cầu đa nhân có trong máu tuần hoàn và có nhân đa múi.Bạch cầu đa nhân trung tínhBạch cầu trung tính chiếm từ 40 đến 70% tổng lượng bạch cầu trong tuần hoàn; chúng là một tuyến đầu tiên của hàng rào chống lại nhiễm trùng. Các bạch cầu trung tính có thời gian bán hủy từ 2 đến 3 ngày.Trong các phản ứng viêm cấp tính (ví dụ: nhiễm trùng), bạch cầu trung tính, được thu hút bởi các yếu tố hóa học, sử dụng các phân tử bám dính trên nội mô mạch máu để rời khỏi tuần hoàn và đi vào các mô. Mục đích của chúng là thực bào và tiêu hoá mầm bệnh. Các vi sinh vật bị giết chết khi thực bào tạo ra enzym ly giải và phản ứng Oxygen các hợp chất (ví dụ: superoxide, axit hypochlorous) và kích hoạt sự giải phóng các thành phần hạt (ví dụ: defensin, protease, protein tăng tính thấm diệt khuẩn, lactoferrin, lysozyme). DNA và histones cũng được giải phóng, và chúng có chứa các thành phần hạt như elastaza tạo ra các cấu trúc sợi được gọi là bẫy ngoại bào bạch cầu trung tính trong các mô xung quanh; các cấu trúc này tạo điều kiện giết chết bằng cách bẫy vi khuẩn và tập trung hoạt động của enzym.Bệnh nhân bị suy giảm miễn dịch ảnh hưởng đến khả năng thực bào tiêu diệt mầm bệnh (ví dụ:bệnh u hạt mạn tính) đặc biệt dễ bị nhiễm trùng mạn tính do vi khuẩn và nấm.Bạch cầu ái toanBạch cầu ái toan chiếm tới 5% lượng bạch cầu đang lưu hành.Các bạch cầu này nhắm vào những sinh vật quá lớn sẽ bị vùi. Bạch cầu ái toan tiêu diệt bằng cách tiết ra các chất độc hại (ví dụ: các hợp chất oxy phản ứng tương tự như các hợp chất được tạo ra trong bạch cầu trung tính), protein cơ bản chính (gây độc cho ký sinh trùng), protein cation bạch cầu ái toan và một số enzyme.Bạch cầu ái toan trong tuần hoàn, tăng lên để đáp ứng với nhiễm ký sinh trùng xâm lấn, một số bệnh ung thư và là một phần của phản ứng dị ứng, cũng là nguồn chính của các chất trung gian gây viêm (ví dụ: prostaglandin, leukotrien, yếu tố kích hoạt tiểu cầu, nhiều cytokine).Bạch cầu ái kiềmBạch cầu ái kiềm chiếm<5% số lượng bạch cầu lưu hành. Bạch cầu ái kiềm có chung một số đặc điểm vớitế bào mast, mặc dù 2 loại tế bào này có dòng riêng biệt. Cả hai đều có thụ thể ái lực cao đối với IgE gọi là Fc-epsilon RI (FcεRI). Khi những tế bào này gặp các kháng nguyên nhất định, các phân tử IgE liên kết với các thụ thể sẽ trở thành liên kết chéo, kích hoạt giải phóng hạt tế bào với sự giải phóng các chất trung gian gây viêm (ví dụ histamine, yếu tố kích hoạt tiểu cầu) và tạo ra các hóa chất trung gian mới được tổng hợp (ví dụ như leukotrienes, prostaglandins, thromboxanes).

@@ -1,0 +1,525 @@
+TIÊU ĐỀ: Fluoroquinolone
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/fluoroquinolone
+================================================================================
+
+NỘI DUNG:
+
+Fluoroquinolone
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1003226_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Fluoroquinolones thể hiện
+
+hoạt tính diệt khuẩn phụ thuộc vào nồng độ
+
+bằng cách ức chế hoạt động của DNA gyrase và topoisomerase, những enzyme cần thiết cho quá trình sao chép DNA của vi khuẩn.
+
+Fluoroquinolones được chia thành 2 nhóm, dựa trên phổ kháng khuẩn và dược lý học:
+
+Nhóm cũ hơn: Ciprofloxacin, norfloxacin, và ofloxacin
+
+Nhóm mới hơn: Delafloxacin, Gemifloxacin, levofloxacin, và moxifloxacin
+
+Nhiều loại thuốc fluoroquinolone mới hơn đã bị rút khỏi thị trường Hoa Kỳ do độc tính khi sử dụng theo đường toàn thân; các thuốc này bao gồm trovafloxacin (vì độc tính nặng trên gan), gatifloxacin (vì hạ đường huyết và tăng đường huyết; thuốc vẫn được bán ở Hoa Kỳ dưới dạng thuốc nhỏ mắt), grepafloxacin (vì độc tính trên tim), temafloxacin (vì suy thận cấp, nhiễm độc gan, thiếu máu tán huyết, rối loạn đông máu và hạ đường huyết) và lomefloxacin, sparfloxacin và enoxacin.
+
+Bảng
+
+Fluoroquinolone
+
+Fluoroquinolone
+
+Fluoroquinolone
+
+Đường dùng*
+
+Ciprofloxacin
+
+Đường uống hoặc tiêm truyền
+
+Delafloxacin
+
+Đường uống hoặc tiêm truyền
+
+Gemifloxacin
+
+Đường uống
+
+Levofloxacin
+
+Đường uống hoặc tiêm truyền
+
+Moxifloxacin
+
+Đường uống hoặc tiêm truyền
+
+Norfloxacin
+
+Đường uống
+
+Ofloxacin
+
+Đường uống hoặc tiêm truyền
+
+* Một số fluoroquinolones cũng có sẵn công thức bào chế để dùng cho tai và mắt.
+
+* Một số fluoroquinolones cũng có sẵn công thức bào chế để dùng cho tai và mắt.
+
+Dược động học của nhóm Fluoroquinolone
+
+Sự hấp thu qua miệng giảm khi dùng chung cation nhiều hóa trị (nhôm, magiê, canxi, kẽm và chất sắt). Sau khi uống và tiêm, fluoroquinolones được phân phối rộng rãi trong hầu hết các chất dịch nội bào và ngoại bào và tập trung ở tuyến tiền liệt, phổi và mật.
+
+Hầu hết các fluoroquinolones được chuyển hóa trong gan và bài tiết qua nước tiểu, đạt mức cao trong nước tiểu. Moxifloxacin được loại trừ chủ yếu ở mật.
+
+Chỉ định cho Fluoroquinolones
+
+Fluoroquinolones tác động chống lại những tác nhân sau đây:
+
+Haemophilus influenzae
+
+Moraxella catarrhalis
+
+Các loài
+
+Mycoplasma
+
+Chủng
+
+Chlamydia
+
+Chủng
+
+Chlamydophila
+
+Chủng
+
+Legionella
+
+Enterobacterales (trước đây là Enterobacteriaceae)
+
+Pseudomonas aeruginosa
+
+(đặc biệt là ciprofloxacin)
+
+Mycobacterium tuberculosis
+
+Một số mycobacteria không điển hình
+
+Staphylococci
+
+nhạy cảm với methicillin
+
+Các tụ cầu kháng methicillin trong bệnh viện (MRSA) thường kháng thuốc. Các fluoroquinolones cũ hơn có hoạt tính kém đối với streptococci và kỵ khí. Các fluoroquinolones mới có hoạt tính đáng tin cậy chống lại
+
+streptococci
+
+(bao gồm
+
+Streptococcus pneumoniae
+
+giảm nhạy penicillin) và một số loài
+
+kỵ khí
+
+; moxifloxacin đặc biệt hoạt động chống lại hầu hết các vi khuẩn kỵ khí bắt buộc trên lâm sàng.
+
+Delafloxacin, fluoroquinolone mới nhất, là fluoroquinolone phổ rộng nhất có hoạt tính chống lại
+
+Vi khuẩn Gram âm bao gồm
+
+Pseudomonas aeruginosa
+
+Vi khuẩn Gram dương bao gồm MRSA, cũng như các mầm bệnh đường hô hấp không điển hình
+
+kỵ khí
+
+Khi sử dụng fluoroquinolone nhiều lên, sự đề kháng, đặc biệt đối với fluoroquinolones lớn hơn, đang phát triển trong nhóm Enterobacterales,
+
+P. aeruginosa
+
+,
+
+S. pneumoniae
+
+, và loài
+
+Neisseria
+
+. Tuy nhiên, fluoroquinolones có nhiều tác dụng lâm sàng (xem bảng
+
+Một số sử dụng lâm sàng của Fluoroquinolones
+
+).
+
+Fluoroquinolones không còn được khuyến cáo để điều trị bệnh lậu theo kinh nghiệm vì tình trạng kháng ngày càng tăng trên toàn thế giới. Tuy nhiên, một liều duy nhất ciprofloxacin có hiệu quả cao trong điều trị nhiễm khuẩn lậu cầu do các chủng
+
+N. gonorrhoeae
+
+nhạy cảm với kháng sinh gây ra.
+
+Bảng
+
+Một số Sử dụng Lâm sàng của Fluoroquinolones
+
+Bảng
+
+Một số Sử dụng Lâm sàng của Fluoroquinolones
+
+Một số Sử dụng Lâm sàng của Fluoroquinolones
+
+Fluoroquinolone
+
+Sử dụng
+
+Bình luận
+
+Fluoroquinolones ngoại trừ moxifloxacin
+
+Nhiễm
+
+trùng đường tiết niệu
+
+khi
+
+Escherichia coli
+
+kháng trimethoprim/sulfamethoxazole
+
+>
+
+15%
+
+Tăng khả năng kháng thuốc của
+
+E. coli
+
+ở một số cộng đồng
+
+Fluoroquinolone
+
+Viêm tuyến tiền liệt
+
+do vi khuẩn
+
+—
+
+Vãng khuẩn huyết Salmonella
+
+—
+
+Sốt thương hàn
+
+Thường có hiệu quả
+
+Tiêu chảy
+
+nhiễm khuẩn
+
+Hiệu quả chống lại hầu hết các nguyên nhân do vi khuẩn (các loài (
+
+Campylobacter
+
+species,
+
+salmonellae
+
+,
+
+shigellae
+
+,
+
+vibrios
+
+,
+
+Yersinia enterocolitica
+
+); tuy nhiên, sự đề kháng ngày càng tăng của
+
+Campylobacter jejuni
+
+ở một số vùng
+
+Không được sử dụng để điều trị vi khuẩn
+
+E. coli
+
+O157:H7 hoặc vi khuẩn
+
+E. coli
+
+gây xuất huyết đường ruột khác
+
+Không có hiệu quả chống lại
+
+Clostridioides difficile
+
+(trước đây là
+
+Clostridium difficile
+
+)
+
+Ofloxacin
+
+Nhiễm Chlamydia trachomatis
+
+Liệu trình 7 ngày
+
+fluoroquinolones thế hệ mới hơn (delafloxacin, gemifloxacin, levofloxacin, moxifloxacin)
+
+Viêm phổi cộng động
+
+Không phải là liệu pháp bước đầu vì các loại thuốc khác được ưu tiên hơn
+
+Viêm phổi do Legionella
+
+Các thuốc được lựa chọn (hoặc azithromycin)
+
+Ciprofloxacin
+
+Viêm phổi bệnh viện
+
+Có thể được sử dụng theo kinh nghiệm (ngoài bảo hiểm chống tụ cầu) dựa trên kháng sinh đồ tại chỗ vì nó có hiệu quả chống lại
+
+Pseudomonas aeruginosa
+
+Có thể được sử dụng với một loại kháng sinh kháng pseudomonal khác nếu có lo ngại về kháng đa thuốc
+
+Điều trị lâu dài viêm
+
+tủy xương
+
+do vi khuẩn nhạy cảm
+
+Vì fluoroquinolon có sinh khả dụng cao qua đường uống và khả năng thâm nhập xương tốt, hữu ích cho bệnh viêm tủy xương
+
+Dự phòng não mô cầu
+
+—
+
+Dự phòng bệnh than
+
+Được sử dụng rộng rãi trong năm 2001 sau cuộc tấn công khủng bố sinh học ở Hoa Kỳ
+
+Chống chỉ định với Fluoroquinolones
+
+Chống chỉ định bao gồm
+
+Phản ứng dị ứng trước đây với thuốc
+
+Một số rối loạn có liên quan đến rối loạn nhịp (ví dụ, kéo dài khoảng QT, hạ kali máu hoặc hạ magie huyết, nhịp chậm xoang nặng)
+
+Sử dụng các thuốc có thể kéo dài khoảng QT hoặc gây nhịp tim chậm (ví dụ: metoclopramide, cisapride, erythromycin, clarithromycin, thuốc chống loạn nhịp nhóm Ia và III, thuốc chống trầm cảm ba vòng)
+
+Delafloxacin dường như không gây ra sự kéo dài đáng kể khoảng QT.
+
+Theo truyền thống, nhóm Fluoroquinolones bị chống chỉ định ở trẻ em vì thuốc này có thể gây tổn thương sụn nếu các sụn tăng trưởng bị hở. Tuy nhiên, nhiều chuyên gia, bao gồm Viện hàn lâm Nhi khoa Hoa Kỳ (AAP), phản đối quan điểm này vì bằng chứng còn yếu và họ khuyến nghị kê đơn nhóm fluoroquinolone làm thuốc kháng sinh bước hai và hạn chế sử dụng trong một số tình huống cụ thể khi không có lựa chọn thay thế hợp lý, bao gồm nhiễm
+
+P. aeruginosa
+
+ở bệnh nhân xơ nang, điều trị dự phòng và điều trị nhiễm trùng do vi khuẩn ở bệnh nhân bị suy giảm miễn dịch, nhiễm khuẩn đa kháng thuốc đe dọa tính mạng ở trẻ sơ sinh và trẻ nhỏ, và nhiễm trùng đường tiêu hóa do
+
+Salmonella
+
+hoặc
+
+Shigella
+
+(
+
+1
+
+).
+
+Công cụ tính toán lâm sàng
+
+Hiệu chỉnh khoảng QT (Điện tâm đồ)
+
+Tham khảo chống chỉ định
+
+1.
+
+Jackson MA, Schutze GE; COMMITTEE ON INFECTIOUS DISEASES
+
+. The Use of Systemic and Topical Fluoroquinolones.
+
+Pediatrics
+
+. 2016;138(5):e20162706. doi:10.1542/peds.2016-2706
+
+Sử dụng nhóm Fluoroquinolone trong thời kỳ mang thai và cho con bú
+
+Nghiên cứu sinh sản động vật với fluoroquinolones cho thấy một số nguy cơ. Dữ liệu liên quan đến việc mang thai ở người còn hạn chế. Fluoroquinolones nên được sử dụng trong thai kỳ chỉ khi lợi ích lâm sàng vượt quá nguy cơ và không có sự thay thế an toàn hơn.
+
+Fluoroquinolones đi vào sữa mẹ. Việc sử dụng trong thời kỳ cho con bú sữa mẹ không được khuyến cáo.
+
+Tác dụng bất lợi của Fluoroquinolon
+
+Nhóm Fluoroquinolone có các cảnh báo được đóng khung vì thuốc này có liên quan đến các phản ứng bất lợi nghiêm trọng có thể gây tàn phế và không thể phục hồi đã xảy ra cùng nhau bao gồm
+
+Bệnh cơ, bao gồm đứt gân Achilles, có thể xảy ra ngay cả sau khi sử dụng fluoroquinolones ngắn hạn.
+
+Bệnh thần kinh ngoại biên có thể xảy ra ngay sau khi dùng fluoroquinolone và có thể tồn tại vĩnh viễn. Nếu các triệu chứng (ví dụ: đau, bỏng, ngứa ran, tê, yếu, thay đổi cảm giác) xảy ra, nên ngừng sử dụng fluoroquinolone để ngăn ngừa các tổn thương không hồi phục.
+
+Các tác dụng bất lợi lên hệ thần kinh trung ương (CNS) bao gồm co giật, tăng áp lực nội sọ (bao gồm u não giả), và rối loạn tâm thần nhiễm độc. Các tác dụng bất lợi khác trên thần kinh trung ương bao gồm căng thẳng, lo lắng, kích động, mất ngủ, ác mộng, chóng mặt, thay đổi tâm trạng, hoang tưởng, lú lẫn, run, ảo giác và trầm cảm. Động kinh hiếm, nhưng không nên dùng fluoroquinolone ở những bệnh nhân bị rối loạn thần kinh trung ương.
+
+Yếu cơ có thể trầm trọng hơn ở bệnh nhân nhược cơ, vì vậy nên tránh dùng fluoroquinolon ở những bệnh nhân này.
+
+Tác dụng bất lợi khác bao gồm
+
+Các tác dụng bất lợi trên đường tiêu hóa trên xảy ra ở khoảng 5% bệnh nhân do kích ứng trực tiếp đường tiêu hóa.
+
+Hạ đường huyết có thể xảy ra, đặc biệt khi phối hợp fluoroquinolone với thuốc hạ đường huyết.
+
+QT-khoảng thời gian kéo dài có thể xảy ra, có khả năng dẫn đến nhịp nhanh thất và gây ngừng tim đột ngột.
+
+Phình động mạch chủ và bóc tách động mạch chủ có thể xảy ra, với nguy cơ gia tăng ở những bệnh nhân có các yếu tố nguy cơ bị phình động mạch chủ (ví dụ: hội chứng Marfan) hoặc những người đã biết phình động mạch chủ.
+
+Tiêu chảy liên quan đến
+
+Clostridioides
+
+(trước đây là
+
+Clostridium
+
+)
+
+difficile
+
+(viêm đại tràng màng giả) có liên quan chặt chẽ với việc sử dụng fluoroquinolone, đặc biệt là do loại ribotype
+
+C. difficile
+
+siêu độc lực 027.
+
+Phản ứng quá mẫn (bao gồm cả phản ứng phản vệ) có thể xảy ra sau liều đầu tiên hoặc các liều tiếp theo. Nên ngừng sử dụng fluoroquinolon khi có dấu hiệu đầu tiên là phát ban, vàng da hoặc bất kỳ dấu hiệu quá mẫn nào.
+
+Nhiễm độc gan có thể xảy ra. Nên ngừng sử dụng fluoroquinolon ngay lập tức nếu bị viêm gan.
+
+Hiện tượng nhạy cảm với ánh sáng có thể xảy ra, dẫn đến phản ứng cháy nắng quá mức. Bệnh nhân dùng fluoroquinolon nên tránh tiếp xúc quá nhiều với tia cực tím.
+
+Tiêu chảy, giảm bạch cầu, thiếu máu, và nhạy cảm với ánh sáng là không phổ biến. Phát ban là không phổ biến trừ khi gemifloxacin được sử dụng trong
+
+>
+
+1 tuần và có nhiều khả năng xảy ra ở phụ nữ
+
+<
+
+40 tuổi. Độc tính với thận là hiếm gặp.
+
+Cân nhắc về liều lượng đối với Fluoroquinolones
+
+Cần giảm liều lượng, ngoại trừ moxifloxacin, là cần thiết cho bệnh nhân suy thận. Các fluoroquinolones cũ hơn thường được cho 2 lần/ngày; những loại mới hơn và dạng ciprofloxacin phóng thích kéo dài được tiêm một lần/ngày.
+
+Ciprofloxacin
+
+làm tăng nồng độ
+
+theophylline
+
+, đôi khi dẫn đến các tác dụng bất lợi liên quan đến theophylline.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học của nhóm Fluoroquinolone ---
+
+Sự hấp thu qua miệng giảm khi dùng chung cation nhiều hóa trị (nhôm, magiê, canxi, kẽm và chất sắt). Sau khi uống và tiêm, fluoroquinolones được phân phối rộng rãi trong hầu hết các chất dịch nội bào và ngoại bào và tập trung ở tuyến tiền liệt, phổi và mật.Hầu hết các fluoroquinolones được chuyển hóa trong gan và bài tiết qua nước tiểu, đạt mức cao trong nước tiểu. Moxifloxacin được loại trừ chủ yếu ở mật.
+
+--- 2. Chỉ định cho Fluoroquinolones ---
+
+Fluoroquinolones tác động chống lại những tác nhân sau đây:Haemophilus influenzaeMoraxella catarrhalisCác loàiMycoplasmaChủngChlamydiaChủngChlamydophilaChủngLegionellaEnterobacterales (trước đây là Enterobacteriaceae)Pseudomonas aeruginosa(đặc biệt là ciprofloxacin)Mycobacterium tuberculosisMột số mycobacteria không điển hìnhStaphylococcinhạy cảm với methicillinCác tụ cầu kháng methicillin trong bệnh viện (MRSA) thường kháng thuốc. Các fluoroquinolones cũ hơn có hoạt tính kém đối với streptococci và kỵ khí. Các fluoroquinolones mới có hoạt tính đáng tin cậy chống lạistreptococci(bao gồmStreptococcus pneumoniaegiảm nhạy penicillin) và một số loàikỵ khí; moxifloxacin đặc biệt hoạt động chống lại hầu hết các vi khuẩn kỵ khí bắt buộc trên lâm sàng.Delafloxacin, fluoroquinolone mới nhất, là fluoroquinolone phổ rộng nhất có hoạt tính chống lạiVi khuẩn Gram âm bao gồmPseudomonas aeruginosaVi khuẩn Gram dương bao gồm MRSA, cũng như các mầm bệnh đường hô hấp không điển hìnhkỵ khíKhi sử dụng fluoroquinolone nhiều lên, sự đề kháng, đặc biệt đối với fluoroquinolones lớn hơn, đang phát triển trong nhóm Enterobacterales,P. aeruginosa,S. pneumoniae, và loàiNeisseria. Tuy nhiên, fluoroquinolones có nhiều tác dụng lâm sàng (xem bảngMột số sử dụng lâm sàng của Fluoroquinolones).Fluoroquinolones không còn được khuyến cáo để điều trị bệnh lậu theo kinh nghiệm vì tình trạng kháng ngày càng tăng trên toàn thế giới. Tuy nhiên, một liều duy nhất ciprofloxacin có hiệu quả cao trong điều trị nhiễm khuẩn lậu cầu do các chủngN. gonorrhoeaenhạy cảm với kháng sinh gây ra.BảngMột số Sử dụng Lâm sàng của FluoroquinolonesBảngMột số Sử dụng Lâm sàng của FluoroquinolonesMột số Sử dụng Lâm sàng của FluoroquinolonesFluoroquinoloneSử dụngBình luậnFluoroquinolones ngoại trừ moxifloxacinNhiễmtrùng đường tiết niệukhiEscherichia colikháng trimethoprim/sulfamethoxazole>15%Tăng khả năng kháng thuốc củaE. coliở một số cộng đồngFluoroquinoloneViêm tuyến tiền liệtdo vi khuẩn—Vãng khuẩn huyết Salmonella—Sốt thương hànThường có hiệu quảTiêu chảynhiễm khuẩnHiệu quả chống lại hầu hết các nguyên nhân do vi khuẩn (các loài (Campylobacterspecies,salmonellae,shigellae,vibrios,Yersinia enterocolitica); tuy nhiên, sự đề kháng ngày càng tăng củaCampylobacter jejuniở một số vùngKhông được sử dụng để điều trị vi khuẩnE. coliO157:H7 hoặc vi khuẩnE. coligây xuất huyết đường ruột khácKhông có hiệu quả chống lạiClostridioides difficile(trước đây làClostridium difficile)OfloxacinNhiễm Chlamydia trachomatisLiệu trình 7 ngàyfluoroquinolones thế hệ mới hơn (delafloxacin, gemifloxacin, levofloxacin, moxifloxacin)Viêm phổi cộng độngKhông phải là liệu pháp bước đầu vì các loại thuốc khác được ưu tiên hơnViêm phổi do LegionellaCác thuốc được lựa chọn (hoặc azithromycin)CiprofloxacinViêm phổi bệnh việnCó thể được sử dụng theo kinh nghiệm (ngoài bảo hiểm chống tụ cầu) dựa trên kháng sinh đồ tại chỗ vì nó có hiệu quả chống lạiPseudomonas aeruginosaCó thể được sử dụng với một loại kháng sinh kháng pseudomonal khác nếu có lo ngại về kháng đa thuốcĐiều trị lâu dài viêmtủy xươngdo vi khuẩn nhạy cảmVì fluoroquinolon có sinh khả dụng cao qua đường uống và khả năng thâm nhập xương tốt, hữu ích cho bệnh viêm tủy xươngDự phòng não mô cầu—Dự phòng bệnh thanĐược sử dụng rộng rãi trong năm 2001 sau cuộc tấn công khủng bố sinh học ở Hoa Kỳ
+
+--- 3. Chống chỉ định với Fluoroquinolones ---
+
+Chống chỉ định bao gồmPhản ứng dị ứng trước đây với thuốcMột số rối loạn có liên quan đến rối loạn nhịp (ví dụ, kéo dài khoảng QT, hạ kali máu hoặc hạ magie huyết, nhịp chậm xoang nặng)Sử dụng các thuốc có thể kéo dài khoảng QT hoặc gây nhịp tim chậm (ví dụ: metoclopramide, cisapride, erythromycin, clarithromycin, thuốc chống loạn nhịp nhóm Ia và III, thuốc chống trầm cảm ba vòng)Delafloxacin dường như không gây ra sự kéo dài đáng kể khoảng QT.Theo truyền thống, nhóm Fluoroquinolones bị chống chỉ định ở trẻ em vì thuốc này có thể gây tổn thương sụn nếu các sụn tăng trưởng bị hở. Tuy nhiên, nhiều chuyên gia, bao gồm Viện hàn lâm Nhi khoa Hoa Kỳ (AAP), phản đối quan điểm này vì bằng chứng còn yếu và họ khuyến nghị kê đơn nhóm fluoroquinolone làm thuốc kháng sinh bước hai và hạn chế sử dụng trong một số tình huống cụ thể khi không có lựa chọn thay thế hợp lý, bao gồm nhiễmP. aeruginosaở bệnh nhân xơ nang, điều trị dự phòng và điều trị nhiễm trùng do vi khuẩn ở bệnh nhân bị suy giảm miễn dịch, nhiễm khuẩn đa kháng thuốc đe dọa tính mạng ở trẻ sơ sinh và trẻ nhỏ, và nhiễm trùng đường tiêu hóa doSalmonellahoặcShigella(1).Công cụ tính toán lâm sàngHiệu chỉnh khoảng QT (Điện tâm đồ)Tham khảo chống chỉ định1.Jackson MA, Schutze GE; COMMITTEE ON INFECTIOUS DISEASES. The Use of Systemic and Topical Fluoroquinolones.Pediatrics. 2016;138(5):e20162706. doi:10.1542/peds.2016-2706
+
+--- 4. Sử dụng nhóm Fluoroquinolone trong thời kỳ mang thai và cho con bú ---
+
+Nghiên cứu sinh sản động vật với fluoroquinolones cho thấy một số nguy cơ. Dữ liệu liên quan đến việc mang thai ở người còn hạn chế. Fluoroquinolones nên được sử dụng trong thai kỳ chỉ khi lợi ích lâm sàng vượt quá nguy cơ và không có sự thay thế an toàn hơn.Fluoroquinolones đi vào sữa mẹ. Việc sử dụng trong thời kỳ cho con bú sữa mẹ không được khuyến cáo.
+
+--- 5. Tác dụng bất lợi của Fluoroquinolon ---
+
+Nhóm Fluoroquinolone có các cảnh báo được đóng khung vì thuốc này có liên quan đến các phản ứng bất lợi nghiêm trọng có thể gây tàn phế và không thể phục hồi đã xảy ra cùng nhau bao gồmBệnh cơ, bao gồm đứt gân Achilles, có thể xảy ra ngay cả sau khi sử dụng fluoroquinolones ngắn hạn.Bệnh thần kinh ngoại biên có thể xảy ra ngay sau khi dùng fluoroquinolone và có thể tồn tại vĩnh viễn. Nếu các triệu chứng (ví dụ: đau, bỏng, ngứa ran, tê, yếu, thay đổi cảm giác) xảy ra, nên ngừng sử dụng fluoroquinolone để ngăn ngừa các tổn thương không hồi phục.Các tác dụng bất lợi lên hệ thần kinh trung ương (CNS) bao gồm co giật, tăng áp lực nội sọ (bao gồm u não giả), và rối loạn tâm thần nhiễm độc. Các tác dụng bất lợi khác trên thần kinh trung ương bao gồm căng thẳng, lo lắng, kích động, mất ngủ, ác mộng, chóng mặt, thay đổi tâm trạng, hoang tưởng, lú lẫn, run, ảo giác và trầm cảm. Động kinh hiếm, nhưng không nên dùng fluoroquinolone ở những bệnh nhân bị rối loạn thần kinh trung ương.Yếu cơ có thể trầm trọng hơn ở bệnh nhân nhược cơ, vì vậy nên tránh dùng fluoroquinolon ở những bệnh nhân này.Tác dụng bất lợi khác bao gồmCác tác dụng bất lợi trên đường tiêu hóa trên xảy ra ở khoảng 5% bệnh nhân do kích ứng trực tiếp đường tiêu hóa.Hạ đường huyết có thể xảy ra, đặc biệt khi phối hợp fluoroquinolone với thuốc hạ đường huyết.QT-khoảng thời gian kéo dài có thể xảy ra, có khả năng dẫn đến nhịp nhanh thất và gây ngừng tim đột ngột.Phình động mạch chủ và bóc tách động mạch chủ có thể xảy ra, với nguy cơ gia tăng ở những bệnh nhân có các yếu tố nguy cơ bị phình động mạch chủ (ví dụ: hội chứng Marfan) hoặc những người đã biết phình động mạch chủ.Tiêu chảy liên quan đếnClostridioides(trước đây làClostridium)difficile(viêm đại tràng màng giả) có liên quan chặt chẽ với việc sử dụng fluoroquinolone, đặc biệt là do loại ribotypeC. difficilesiêu độc lực 027.Phản ứng quá mẫn (bao gồm cả phản ứng phản vệ) có thể xảy ra sau liều đầu tiên hoặc các liều tiếp theo. Nên ngừng sử dụng fluoroquinolon khi có dấu hiệu đầu tiên là phát ban, vàng da hoặc bất kỳ dấu hiệu quá mẫn nào.Nhiễm độc gan có thể xảy ra. Nên ngừng sử dụng fluoroquinolon ngay lập tức nếu bị viêm gan.Hiện tượng nhạy cảm với ánh sáng có thể xảy ra, dẫn đến phản ứng cháy nắng quá mức. Bệnh nhân dùng fluoroquinolon nên tránh tiếp xúc quá nhiều với tia cực tím.Tiêu chảy, giảm bạch cầu, thiếu máu, và nhạy cảm với ánh sáng là không phổ biến. Phát ban là không phổ biến trừ khi gemifloxacin được sử dụng trong>1 tuần và có nhiều khả năng xảy ra ở phụ nữ<40 tuổi. Độc tính với thận là hiếm gặp.
+
+--- 6. Cân nhắc về liều lượng đối với Fluoroquinolones ---
+
+Cần giảm liều lượng, ngoại trừ moxifloxacin, là cần thiết cho bệnh nhân suy thận. Các fluoroquinolones cũ hơn thường được cho 2 lần/ngày; những loại mới hơn và dạng ciprofloxacin phóng thích kéo dài được tiêm một lần/ngày.Ciprofloxacinlàm tăng nồng độtheophylline, đôi khi dẫn đến các tác dụng bất lợi liên quan đến theophylline.

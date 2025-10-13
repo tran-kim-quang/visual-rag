@@ -1,0 +1,733 @@
+TIÊU ĐỀ: Cách cho thuốc an thần và giảm đau theo thủ thuật
+URL: https://www.msdmanuals.com/vi/professional/chấn-thương-ngộ-độc/cách-thực-hiện-thủ-thuật-gây-tê/cách-cho-thuốc-an-thần-và-giảm-đau-theo-thủ-thuật
+================================================================================
+
+NỘI DUNG:
+
+Cách cho thuốc an thần và giảm đau theo thủ thuật
+
+Theo
+
+Richard Pescatore
+
+,
+
+DO
+
+,
+
+Delaware Division of Public Health
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v56261585_vi
+
+Thuốc an thần và giảm đau theo thủ thuật (PSA) là việc sử dụng thuốc an thần gây ngủ hoặc phân ly tác dụng ngắn, có hoặc không có thuốc giảm đau, cho bệnh nhân đang trải qua các thủ thuật gây lo lắng và/hoặc đau đớn.
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Các biến chứng
+
+|
+
+Thiết bị
+
+|
+
+Cân nhắc bổ sung
+
+|
+
+Tư thế
+
+|
+
+Mô tả các bước tiến hành thủ thuật.
+
+|
+
+Chăm sóc sau thủ thuật
+
+|
+
+Cảnh báo và các lỗi thường gặp
+
+|
+
+Thủ thuật và lời khuyên
+
+|
+
+Tài liệu tham khảo
+
+|
+
+Thông tin thêm
+
+|
+
+Mục tiêu của PSA là cung cấp thuốc an thần và giảm đau cần thiết đồng thời giảm thiểu tình trạng ức chế hô hấp, giảm oxy máu và hạ huyết áp.
+
+PSA chỉ nên do nhân viên được đào tạo thực hiện trong một môi trường chuẩn bị để có thể kiểm soát đường thở
+
+(
+
+1, 2
+
+). PSA chỉ nên do một bác sĩ lâm sàng được đào tạo và có kinh nghiệm thích hợp thực hiện. Nhiều tổ chức yêu cầu hướng dẫn và chứng nhận đặc biệt cho các nhà cung cấp PSA và tuân thủ các quy trình theo thủ thuật. Cần có người theo dõi được đào tạo (cũng có thể là người cho thuốc PSA) theo dõi bệnh nhân (mức độ an thần, đường thở, thông khí, các dấu hiệu sinh tồn, đo độ bão hòa oxy trong máu và/hoặc đo nồng độ CO2) trong suốt thời gian an thần và hồi phục. Thiết bị thông khí và tim mạch và nhân viên được đào tạo phải sẵn sàng ngay lập tức.
+
+Nếu PSA không đủ có tác dụng an thần hoặc giảm đau, có thể thêm thuốc gây tê dạng tiêm (phong bế thần kinh ngoại biên hoặc gây tê thấm cục bộ). Đôi khi, gây tê và điều trị trong phòng mổ có thể cần thiết.
+
+Chỉ định dùng quy trình an thần và giảm đau
+
+Giảm đau và/hoặc giảm lo lắng xảy ra với các thủ thuật điều trị hoặc chẩn đoán*
+
+Tạo điều kiện thuận lợi cho việc thực hiện thủ thuật bằng cách thư giãn bệnh nhân và giảm cử động của bệnh nhân
+
+Khiến cho bệnh nhân quên trong một thủ thuật, do đó tránh được chấn thương tâm lý có thể xảy ra cho bệnh nhân
+
+* Các thủ thuật bao gồm, nhưng không giới hạn ở, khử rung tim, nắn chỉnh khớp hoặc nắn chỉnh gãy xương, chọc dò khớp, dẫn lưu áp xe, phục hồi vết rách, lấy dị vật, chọc dịch não tủy, tiếp cận mạch máu và đặt cannun mạch máu.
+
+Chống chỉ định với quy trình an thần và giảm đau
+
+Chống chỉ định tuyệt đối
+
+Cần điều trị khẩn cấp (ví dụ, huyết động không ổn định) không thể chờ dùng thuốc an thần
+
+Quá mẫn với một trong các loại thuốc*
+
+Đặc biệt đối với ketamine: Tuổi
+
+<
+
+3 tháng (tăng nguy cơ bị tổn thương đường thở)
+
+Đặc biệt đối với oxit nitơ:
+
+Tràn khí màng phổi,
+
+tràn khí trung thất
+
+,
+
+tắc ruột
+
+hoặc bong bóng khí nội nhãn (phẫu thuật sau võng mạc), là những vị trí tích tụ khí mà nitơ oxit có thể giãn nở
+
+* Dị ứng với trứng hoặc đậu nành không còn là chống chỉ định sử dụng propofol nữa (các chất gây dị ứng từ trứng/đậu nành khác với các thành phần trứng/đậu nành trong công thức bào chế propofol).
+
+Chống chỉ định tương đối
+
+Bệnh tim phổi nặng (tăng nguy cơ mất bù do ức chế hô hấp)†
+
+Ngưng thở tắc nghẽn khi ngủ†
+
+Béo phì hoặc các đặc điểm giải phẫu (ví dụ: tật hàm nhỏ, tật lưỡi to, cổ ngắn, dị tật bẩm sinh) cho thấy khó đặt nội khí quản†
+
+Bệnh gan hoặc bệnh thận mạn tính: Một số loại thuốc sẽ được chuyển hóa chậm, dẫn đến tình trạng an thần kéo dài.
+
+Bệnh nhân
+
+>
+
+60 tuổi (tăng nguy cơ mất bù): Liều dùng thuốc PSA thường phải được giảm xuống.
+
+Thuốc an thần cấp tính hoặc ngộ độc thuốc (tăng nguy cơ bị biến chứng hô hấp): Cần phải giảm liều thuốc PSA.
+
+Rối loạn sử dụng rượu hoặc chất kích thích mạn tính: Có thể cần phải tăng liều thuốc PSA.
+
+Thức ăn hoặc đồ uống trước khi làm thủ thuật: Xem xét các quy trình cụ thể của cơ sở liên quan đến việc nhịn ăn trước PSA‡
+
+† Nếu có một trong những chống chỉ định này, hãy tham khảo ý kiến ​​bác sĩ gây mê và/hoặc cân nhắc sử dụng thuốc không gây ức chế hô hấp (ví dụ: ketamine).
+
+‡ Mặc dù một số hướng dẫn khuyến nghị trì hoãn việc gây mê thủ thuật theo lựa chọn trong vài giờ sau khi uống đồ lỏng trong và 8 giờ sau khi ăn đồ đặc, nhưng không có dữ liệu nào xác lập tính hiệu quả hoặc mức độ cần thiết phải làm như vậy (
+
+3
+
+).
+
+Các biến chứng của quy trình an thần và giảm đau
+
+Suy hô hấp
+
+Giảm bão hòa oxy
+
+Hạ huyết áp (hiếm khi có ý nghĩa trong trường hợp không mắc đồng thời bệnh nghiêm trọng hoặc tổn thương tim mạch)
+
+Hít sặc (hiếm gặp)
+
+Đặc biệt đối với etomidate: Rung giật cơ (không đáng kể và ngắn, hiếm khi có ý nghĩa lâm sàng); ức chế tuyến thượng thận (thường không quan trọng và thoáng qua)
+
+Đặc biệt đối với fentanyl: Cứng thành ngực (hội chứng ngực cứng) do truyền tĩnh mạch quá nhanh (ít gặp ở mức liều thấp dùng để giảm đau) (
+
+4
+
+)
+
+Đặc biệt đối với ketamine: Thỉnh thoảng co thắt thanh quản hoặc ngưng thở (ngăn ngừa bằng cách cố gắng đẩy thuốc chậm [
+
+>
+
+30 đến 60 giây]); tác dụng giao cảm (tăng huyết áp, nhịp tim nhanh, tạo nguy cơ cho bệnh nhân bị thiếu máu cơ tim hoặc bệnh nền tăng huyết áp); về phản ứng hồi phục, nôn ói hoặc xuất hiện khi điều trị (đợt lo lắng/hoảng sợ/ảo giác), thường xuyên hơn ở người lớn hơn ở trẻ em
+
+Thiết bị dùng trong quy trình an thần và giảm đau
+
+Thiết bị theo dõi (máy đo độ bão oxy trong máu, máy đo CO2 khí thở [máy theo dõi CO2 cuối thì thở ra], máy đo huyết áp, máy theo dõi tim)
+
+Ống thông đường tĩnh mạch và dịch (ví dụ, nước muối sinh lý 0,9%)
+
+Oxy bổ sung (với công suất luồng khí cao)
+
+Nguồn hút và thủ thuật
+
+Thiết bị kiểm soát đường thở, đặc biệt là túi-van-mặt nạ (BVM)
+
+Hồi sức tim phổi (CPR) ở người lớn
+
+Thuốc PSA và thuốc đảo ngược tác dụng (xem ví dụ bên dưới)
+
+Ngoài ra, đối với việc dùng oxit nitơ: Thiết bị quản lý khí không an toàn (tích hợp sẵn giới hạn thấp hơn là phân phối 30% oxy); mặt nạ van cầu hoặc mặt nạ dòng liên tục; cảm biến oxit nitơ môi trường xung quanh và thiết bị lọc khí (để loại bỏ oxit nitơ thở ra khỏi không khí trong phòng)
+
+Thuốc PSA
+
+Thuốc an thần-gây ngủ (chủ yếu là thuốc an thần, giải lo âu và gây quên):
+
+Midazolam đường tĩnh mạch, tiêm bắp, trong mũi: Thuốc an thần tác dụng ngắn (benzodiazepine); Bắt đầu đường tĩnh mạch 1 đến 2 phút, thời gian 10 đến 40 phút
+
+Propofol đường tĩnh mạch: Tác dụng cực ngắn, an thần sâu; bắt đầu 30 giây, thời gian 5 phút
+
+Etomidate đường tĩnh mạch: Tác dụng cực ngắn, an thần sâu; khởi phát 5 đến 15 giây; thời lượng 5 đến 15 phút
+
+Thuốc an thần gây ngủ có tác dụng an thần cao (kèm theo giảm đáp ứng với cơn đau), nhưng thuốc không giảm đau trực tiếp. Thuốc có thể được sử dụng một mình khi không cần kiểm soát cơn đau. Thuốc có thể được bổ sung với thuốc giảm đau opioid (ví dụ, fentanyl) hoặc gây tê cục bộ hoặc gây tê vùng tiêm nếu cần.
+
+Midazolam thường được sử dụng một mình để an thần nhẹ (giải lo âu) trước khi thực hiện các thủ thuật không đau hoặc đau nhẹ. Nó có tác dụng làm mất trí nhớ mạnh mẽ.
+
+Propofol và etomidate có tác dụng an thần sâu, khởi phát nhanh, hữu ích cho các thủ thuật nhanh và đau (ví dụ: sốc điện hoặc nắn chỉnh khớp); thời gian tác dụng ngắn của chúng cũng có thể giúp giảm nguy cơ tích tụ nồng độ thuốc độc hại do dùng liều lặp lại trong các thủ thuật kéo dài.
+
+Dự kiến propofol có thể gây hạ huyết áp, thường là ngắn và dễ xử trí. Thuốc này cũng có thể gây suy hô hấp thoáng qua và thường được xử trí bằng cách mở đường thở của bệnh nhân và kích thích bệnh nhân. Hiếm khi, có thể cần hỗ
+
+trợ thông khí bằng bóng-van-mặt nạ
+
+trong một thời gian ngắn.
+
+Etomidate không làm giảm cũng không làm tăng huyết áp hoặc tăng nhịp mạch. Nó có thể được xem xét ở những bệnh nhân bị hạ huyết áp và những người bị bệnh tim mạch (tức là những người có nguy cơ mất bù do thay đổi mạch và huyết áp).
+
+Opioid (chủ yếu là thuốc giảm đau):
+
+Fentanyl đường tĩnh mạch: Thuốc giảm đau tác dụng ngắn; bắt đầu từ 2 đến 3 phút, thời gian 30 đến 60 phút
+
+Opioid tạo ra tác dụng giảm đau nhưng cũng gây an thần. Trong PSA, thuốc giảm đau opioid thường được sử dụng như một thuốc bổ trợ cho thuốc an thần khi cần giảm đau, làm tăng nguy cơ ức chế hô hấp. Fentanyl thường được sử dụng với midazolam; một loại thuốc đảo ngược (naloxone và flumazenil) có sẵn cho mỗi loại. Có thể lựa chọn opioid có tác dụng lâu hơn như morphin nếu cơn đau của bệnh nhân có khả năng tiếp tục tiếp tục sau khi làm thủ thuật (ví dụ: một số ca gãy xương nhất định hoặc chấn thương dai dẳng khác).
+
+Thuốc phân ly (chủ yếu là giảm đau và gây quên):
+
+Ketamine đường tĩnh mạch, tiêm bắp, trong mũi: Thuốc an thần phân ly; Bắt đầu theo đường tĩnh mạch
+
+<
+
+1 phút, thời gian 10 đến 20 phút
+
+Ketamine gây ra trạng thái phân ly (phân ly tâm trí giống như xuất thần) giúp giảm đau, an thần và mất trí nhớ nhưng không gây ức chế hô hấp hoặc làm giảm trương lực đường thở trên hoặc phản xạ bảo vệ và có thể là lựa chọn đầu tiên cho những bệnh nhân có nguy cơ hít phải. Hơn nữa, ketamine không gây hạ huyết áp nhưng thường làm tăng mạch và huyết áp không đáng kể. Ketamine có thể được dùng một mình hoặc với thuốc an thần. Tuy nhiên, ở mức liều PSA,* ketamine không nên dùng bổ sung với một loại thuốc giảm đau khác.
+
+*Ketamine liều thấp (phân ly nhỏ) (ví dụ: 0,1 đến 0,2 mg/kg) có tác dụng giảm đau đáng kể mà không gây phân ly; nó có thể được sử dụng để bổ sung với thuốc giảm đau opioid (ví dụ, cho phép liều fentanyl nhỏ hơn).
+
+Khí nitơ oxit (chủ yếu là sự phân giải oxyt):
+
+Nitơ oxit (30% đến 70%) trong oxy: Thuốc giải lo âu tác dụng ngắn; bắt đầu và bù mỗi lần
+
+<
+
+5 phút
+
+Nitrous oxide có khả năng giải lo âu tuyệt vời nhưng chỉ gây mất trí nhớ và giảm đau nhẹ. Nó thường không được sử dụng một mình để giảm đau mà có thể được sử dụng cùng với (hoặc như một chất hỗ trợ) thuốc giảm đau, an thần hoặc phong bế thần kinh. Nó đặc biệt hữu ích cho trẻ em vì nó không cần đặt ống thông qua đường tĩnh mạch. Ở trẻ em, có thể ưu tiên dùng midazolam hoặc ketamine. Ở mức liều thấp được sử dụng cho PSA, thuốc này an toàn.
+
+Thuốc đảo ngược tác dụng:
+
+Flumazenil (0,1 mg/mL – thuốc đối kháng benzodiazepine)
+
+Naloxone (thuốc đối kháng opioid)
+
+Những cân nhắc bổ sung cho quy trình an thần và giảm đau
+
+Mức độ an thần gây ngủ của thuốc an thần được định nghĩa là:
+
+Giải lo âu (an thần tối thiểu): Ý thức và tính tương tác được duy trì; sự phối hợp và nhận thức có thể bị suy giảm.
+
+An thần vừa phải: Ý thức bị giảm; phản hồi cho các yêu cầu bằng lời nói hoặc chạm vào được duy trì.
+
+An thần sâu: Ý thức bị sa sút; khó kích thích và có thể cần lặp đi lặp lại các kích thích bằng lời nói hoặc đau đớn; thông khí đường thở có thể giảm; nhịp thở tự phát có thể chậm lại.
+
+Gây mê toàn thân Bệnh nhân bất tỉnh và không phản ứng với các kích thích; thường xuyên bị ức chế hô hấp hoặc tổn thương đường thở; tổn thương tim mạch có thể xảy ra. Gây mê toàn thân không được dự kiến với PSA; tuy nhiên, người cung cấp PSA phải có khả năng gây mê toàn thân và hỗ trợ tim phổi khi cần thiết.
+
+An thần phân ly (chỉ có ở ketamine; khác với an thần gây ngủ): Bệnh nhân được giảm đau và làm mất trí nhớ trong khi vẫn duy trì được nhịp thở tự nhiên và phản xạ đường thở được bảo tồn.
+
+Đo CO2 trong khí thở là một chỉ số nhạy cảm hơn về suy giảm hô hấp so với đo độ bão hòa oxy trong máu và, không giống như đo độ bão hòa oxy trong máu, vẫn là một chỉ báo đáng tin cậy khi cho dùng oxy bổ sung.
+
+Suy hô hấp xảy ra phổ biến nhất khi bắt đầu dùng thuốc an thần và trong giai đoạn hồi phục sau khi dùng thuốc an thần.
+
+Thông khí túi-van-mặt nạ
+
+thường đủ để hỗ trợ thông khí tạm thời.
+
+Định vị đường thở
+
+và đường thở
+
+mũi
+
+hoặc đường thở
+
+miệng
+
+có thể cần thiết để duy trì sự thông thoáng của đường thở, đặc biệt nếu bệnh nhân không có phản xạ ọe khạc.
+
+Hạ huyết áp cần được dự kiến trong quá trình PSA. Dịch truyền tĩnh mạch (ví dụ, nước muối sinh lý 0,9%) thường có thể điều chỉnh hạ huyết áp theo thủ thuật. Ở những bệnh nhân bị huyết áp thấp trước khi điều trị PSA, hãy xem xét một giải pháp thay thế hỗ trợ hoặc trung tính về huyết động (ví dụ như etomidate hoặc ketamine).
+
+Cần sử dụng thiết bị thu gom thích hợp vì nitơ oxit đã được chứng minh là chất gây quái thai trong các nghiên cứu trên động vật, mặc dù các nghiên cứu dịch tễ học không tìm thấy tỷ lệ quái thai tăng ở người (
+
+5, 6
+
+).
+
+Tư thế trong quy trình an thần và giảm đau
+
+Bệnh nhân ở tư thế nằm nghiêng hoặc nằm ngửa. Đầu và vai của bệnh nhân phải để hở (để quan sát nhịp thở) và dễ tiếp cận (để hỗ trợ thông khí ngay lập tức khi cần).
+
+Mô tả từng bước: Quy trình an thần và giảm đau
+
+PSA nên được thực hiện, theo hướng dẫn của cơ sở, bởi một bác sĩ lâm sàng hoặc một dịch vụ thông thạo thủ thuật và có thiết bị và nhân viên được đào tạo sẵn sàng cung cấp hỗ trợ đường thở và thông khí khẩn cấp.
+
+Các công việc chuẩn bị
+
+Chọn một chiến lược PSA: Quyết định thực hiện PSA và lựa chọn thuốc PSA để sử dụng (bao gồm thuốc thay thế hoặc thuốc bổ sung) phải xem xét các yếu tố như nhu cầu lâm sàng, các yếu tố nguy cơ của bệnh nhân đối với biến chứng và đặt nội khí quản khó khăn, cũng như mức độ đào tạo đầy đủ của nhân viên y tế và sự quen thuộc với thuốc PSA.
+
+Đảm bảo có sẵn các thuốc đảo ngược tác dụng cũng như thuốc PSA.
+
+Đảm bảo có sẵn xe đẩy hồi sức, máy hút đường thở và thiết bị cứu hộ đường thở gần đó.
+
+Lắp ráp túi-van-mặt nạ và ống thở oxy, để có thể cung cấp hỗ trợ oxy ngay lập tức, khi cần thiết.
+
+Lắp các thiết bị theo dõi cho bệnh nhân và kiểm tra lại để xem các thiết bị đó đang hoạt động bình thường.
+
+Thiết lập đường vào tĩnh mạch. Cân nhắc đặt canun tĩnh mạch lớn (ví dụ: tĩnh mạch trước khuỷu) nếu propofol hoặc etomidate được sử dụng để an thần, để giúp giảm đau khi tiêm những mũi tiêm đó.
+
+Khuyến khích: Bắt đầu truyền tĩnh mạch chậm (ví dụ, nước muối sinh lý 0,9% ở mức 30 mL/giờ) để đảm bảo đường truyền tĩnh mạch khai thông và do đó có thể hỗ trợ huyết áp ngay lập tức, nếu cần.
+
+Trước khi dùng thuốc PSA, cần xác định các sinh hiệu trước khi gây tê, nhịp tim, trạng thái tinh thần (mức độ ý thức) và chất lượng hô hấp và thông khí của bệnh nhân.
+
+Theo dõi bệnh nhân
+
+Theo dõi bệnh nhân trong suốt quá trình PSA, để đảm bảo độh an toàn của PSA (không gây ức chế hô hấp hoặc không ảnh hưởng đến tim mạch) và hiệu quả (giảm đau và giảm lo lắng):
+
+Thở:
+
+Liên tục đánh giá tình trạng thở tự phát. Những thay đổi về tốc độ, độ sâu hoặc tiếng ồn của nhịp thở có thể báo trước các dấu hiệu khác của suy hô hấp.
+
+CO2 cuối thì thở ra (đo CO2 khí thở) và độ bão hòa O2 (đo độ bão hòa oxy trong máu):
+
+Duy trì cảnh giác liên tục đối với tình trạng giảm thông khí. Những thay đổi trong CO2 cuối thì thở ra xảy ra gần như đồng thời với tình trạng giảm thông khí do thuốc và xảy ra trước tình trạng hạ oxy máu.
+
+Suy hô hấp do thuốc PSA tác dụng ngắn thường nhanh chóng khỏi (khi thuốc hết tác dụng).
+
+Nếu xảy ra tình trạng giảm thông khí hoặc ngưng thở, hãy cung cấp oxy bổ sung, thực hiện các thao tác định vị lại đường thở, đường thở mũi và miệng, và thông khí túi-van-mặt nạ khi cần thiết. Kích thích bệnh nhân bằng lời nói và xúc giác khi cần thiết. Nếu cần, tiếp tục thông khí bằng túi-van-mặt nạ và sử dụng các thuốc đảo ngược tác dụng thích hợp. Ít khi cần đến hỗ trợ hô hấp nâng cao hơn.
+
+Huyết áp, nhịp tim, nhịp điệu của tim:
+
+Thường xuyên kiểm tra huyết động. Có thể xảy ra hạ huyết áp thoáng qua, nhưng hiếm khi xảy ra các biến cố tim mạch khác.
+
+Nếu xảy ra hạ huyết áp theo thủ thuật, cần truyền dịch đường tĩnh mạch để hỗ trợ huyết áp.
+
+Phản ứng của bệnh nhân với các kích thích bằng lời nói và xúc giác:
+
+Kiểm tra định kỳ khả năng đáp ứng của bệnh nhân, được sử dụng chủ yếu để phát hiện tình trạng không đủ an thần (không đủ để giảm đau và lo lắng), chứ không phải để xác định tình trạng quá an thần (được công nhận hiệu quả hơn là ức chế hô hấp).
+
+Không nên kiểm tra khả năng đáp ứng của bệnh nhân quá thường xuyên hoặc quá mạnh tay vì làm như vậy có thể làm gián đoạn tác dụng an thần không cần thiết và có thể phải điều chỉnh thuốc thêm. Nếu bệnh nhân bình tĩnh và không đau, dựa vào việc theo dõi nhịp thở, thông khí, oxy và huyết động để đảm bảo an toàn cho bệnh nhân trong quá trình PSA.
+
+Tiếp tục theo dõi bệnh nhân cho đến khi bệnh nhân hồi phục hoàn toàn sau khi dùng thuốc an thần.
+
+PSA sử dụng midazolam
+
+Để tránh tình trạng an thần quá mức, hãy luôn đợi ít nhất 2 phút sau khi dùng một liều midazolam trước khi dùng liều tiếp theo – midazolam hoặc bất kỳ loại thuốc PSA nào khác.
+
+Midazolam đường tĩnh mạch:
+
+Chuẩn độ phản ứng của bệnh nhân (an thần) như sau:
+
+Liều ban đầu: 0,5 đến 2 mg, đường tĩnh mạch trong
+
+≥
+
+2 phút
+
+Các liều tiếp theo (sau 2 đến 5 phút): các liều 0,5 đến 2 mg, đường tĩnh mạch liều trong
+
+≥
+
+2 phút
+
+Liều tối đa: 2,5 mg/liều và liều 5 mg đường tĩnh mạch tích lũy (1,5 mg và 3,5 mg cho bệnh nhân
+
+≥
+
+60 tuổi)
+
+Midazolam tiêm bắp:
+
+5 mg tiêm bắp (0,1-0,15 mg/kg ở trẻ em). Không chuẩn độ nhanh.
+
+Midazolam trong mũi:
+
+Đối với trẻ em, 0,2 - 0,5 mg/kg trong mũi. Không chuẩn độ nhanh.
+
+PSA sử dụng midazolam và fentanyl
+
+Khi sử dụng cùng nhau, hãy dùng liều lượng nhỏ hơn của mỗi loại thuốc so với khi dùng riêng lẻ và cân nhắc cẩn thận để tránh suy hô hấp. Luôn đợi ít nhất 2 phút sau khi dùng liều midazolam trước khi dùng thuốc PSA tiếp theo. Có thể dùng bất kỳ loại thuốc nào trước; một chiến lược là dùng midazolam trước đối với các thủ thuật chủ yếu gây lo lắng và dùng fentanyl trước đối với các thủ thuật gây đau đớn hơn.
+
+Midazolam đường tĩnh mạch:
+
+Chuẩn độ theo đáp ứng của bệnh nhân (an thần nhẹ), như sau:
+
+Liều ban đầu: 0,02 đến 0,1 mg/kg, đường tĩnh mạch trong
+
+≥
+
+2 phút
+
+Các liều tiếp theo (sau 3 đến 5 phút): 0,005 đến 0,025 mg/kg đường tĩnh mạch trong
+
+≥
+
+2 phút
+
+Liều tối đa: 2,5 mg/liều và liều tích lũy 5 mg (1,5 mg và 3,5 mg cho bệnh nhân
+
+≥
+
+60 tuổi)
+
+Fentanyl đường tĩnh mạch:
+
+Chuẩn độ theo đáp ứng của bệnh nhân (giảm đau) như sau:
+
+Liều ban đầu: 50 đến 100 mcg (hoặc 1 mcg/kg) IV
+
+Các liều tiếp theo: Có thể lặp lại liều 50 mcg, đường tĩnh mạch, 3 phút một lần nếu cần.
+
+Liều tối đa: Hết sức thận trọng nếu vượt quá 0,5 mcg/kg/liều nếu dùng chung với các thuốc an thần khác (ví dụ: midazolam, propofol) vì sự phối hợp này có thể gây ức chế hô hấp.
+
+PSA sử dụng propofol
+
+Tránh dùng propofol ở bệnh nhân hạ huyết áp.
+
+Cung cấp oxy bổ sung (ví dụ, oxy qua mũi từ 2 đến 4 lít mỗi phút).
+
+Propofol đường tĩnh mạch:
+
+Chuẩn độ liều theo đáp ứng của bệnh nhân (an thần sâu), như sau:
+
+Liều ban đầu: 0,5 đến 1,0 mg/kg đường tĩnh mạch (1,0 đến 2,0 mg/kg cho trẻ em)
+
+Các liều tiếp theo (sau 1 đến 3 phút): 0,25 đến 0,5 mg/kg, đường tĩnh mạch, 1 đến 3 phút một lần
+
+Đối với bệnh nhân béo phì và lớn tuổi, bắt đầu với liều thấp hơn. Đối với người lớn khỏe mạnh, hãy bắt đầu với liều cao hơn.
+
+PSA sử dụng etomidate
+
+Etomidate đường tĩnh mạch:
+
+Chuẩn độ liều theo đáp ứng của bệnh nhân (an thần sâu), như sau:
+
+Liều ban đầu: 0,1 đến 0,15 mg/kg đường tĩnh mạch
+
+Các liều tiếp theo: 0,05 mg/kg, đường tĩnh mạch, 3 đến 5 phút một lần
+
+PSA sử dụng ketamine
+
+Trước và trong khi dùng liều ketamine ban đầu, trò chuyện với bệnh nhân về một chủ đề vui vẻ hoặc vui vẻ (ví dụ, một người, địa điểm hoặc hoạt động yêu thích). Điều này có thể làm giảm các hiện tượng khó chịu nổi lên (nhầm lẫn, lo lắng, hoảng sợ) sau khi dùng ketamine PSA.
+
+Ketamine đường tĩnh mạch:
+
+Cho dùng các liều trong 30 đến 60 giây và chuẩn độ theo đáp ứng của bệnh nhân (an thần) như sau:
+
+Liều ban đầu: 1 đến 1,5 mg/kg, đường tĩnh mạch (1 đến 2 mg/kg cho trẻ em) trong 1 đến 2 phút
+
+Các liều tiếp theo (sau 10 phút): 0,5 đến 0,75 mg/kg đường tĩnh mạch (0,5 đến 1 mg/kg cho trẻ em)
+
+Dùng liều thấp hơn (0,25 đến 0,5 mg/kg) tùy theo tình trạng lâm sàng của bệnh nhân (ví dụ: cao tuổi) hoặc thuốc an thần khác; tuy nhiên, lưu ý rằng bệnh nhân có thể bị phân ly từng phần và lo lắng đôi khi nặng ở mức liều 0,5 đến 1 mg/kg.
+
+Ketamine tiêm bắp (cho trẻ em):
+
+Liều ban đầu: 4 đến 5 mg/kg tiêm bắp
+
+Các liều tiếp theo 2 đến 2,5 mg tiêm bắp, 10 phút một lần
+
+Ketamine qua đường mũi (cho trẻ em):
+
+2 đến 10 mg/ kg qua trong mũi. Không chuẩn độ nhanh.
+
+PSA sử dụng hít phải oxit nitơ
+
+Cần phải có một người được đào tạo để quản lý hoặc giám sát việc hít phải nitơ oxit.
+
+Lắp ráp hệ thống phân phối và thu gom khí: Chọn mặt nạ van theo yêu cầu cho người lớn hoặc trẻ em
+
+>
+
+5 tuổi có khả năng hợp tác hoặc mặt nạ lưu lượng liên tục cho bệnh nhân từ 2 tuổi đến 5 tuổi hoặc những bệnh nhân không có khả năng hợp tác.
+
+Cho thở oxy 100% trong 2 phút.
+
+Sau đó chuyển sang hỗn hợp nitơ oxit/oxy (ví dụ: 40% N2O [N2O 4 L/m và O2 6 L/m]).
+
+Bệnh nhân hợp tác (N2O tự dùng):
+
+Hướng dẫn bệnh nhân giữ mặt nạ van cầu qua mặt (
+
+không thắt dây
+
+) và thở bình thường. Khi bệnh nhân buồn ngủ, mặt nạ rơi ra khỏi mặt, bệnh nhân sẽ hít thở không khí trong phòng và dòng khí từ mặt nạ van cầu sẽ ngừng lại. Khi bệnh nhân tỉnh lại hoặc hết đau, hãy bảo họ thở lại qua mặt nạ.
+
+Bệnh nhân/trẻ em không hợp tác (dùng N2O được giám sát chặt chẽ):
+
+Đeo mặt nạ cung cấp oxy liên tục lên mũi và miệng của bệnh nhân và luôn theo dõi nhịp thở và mức độ an thần của bệnh nhân.
+
+Chuẩn độ hỗn hợp khí để cung cấp sự an thần nhẹ với hô hấp bình thường. Thường không cần phân phối N2O kéo dài với nồng độ
+
+>
+
+50%.
+
+Không vượt quá nồng độ tối đa 70% N2O để đảm bảo ít nhất 30% O2 để ngăn ngừa tình trạng hạ oxy máu (
+
+7
+
+).
+
+Khi đạt được mức độ an thần nhẹ, thêm thuốc giảm đau, an thần hoặc phong bế thần kinh khi cần thiết để kiểm soát cơn đau.
+
+Khi thủ thuật kết thúc, cho O2 100% trong 5 phút hoặc hơn, để ngăn ngừa tình trạng hạ oxy máu lan tỏa trong quá trình hồi phục.
+
+Chăm sóc sau quy trình an thần và giảm đau
+
+Không cho flumazenil hoặc naloxone để tăng tốc độ phục hồi sau midazolam hoặc fentanyl trừ khi cần hồi sức.
+
+Tiếp tục quan sát tận tình bệnh nhân cho đến khi tỉnh táo bình thường trở lại.
+
+Không cho bệnh nhân người lớn xuất viện cho đến khi họ có thể đi lại mà không cần trợ giúp.
+
+Không trẻ xuất viện cho đến khi trẻ có thể tự ngồi dậy và nói ở mức độ phù hợp với lứa tuổi.
+
+Bệnh nhân xuất viện có một người lớn đi kèm, người đó sẽ tiếp tục theo dõi bệnh nhân về các biến chứng sau khi dùng thuốc an thần (ví dụ: buồn nôn và nôn, chóng mặt, hoa mắt).
+
+Không cho phép bệnh nhân tự lái xe về nhà.
+
+Hướng dẫn bệnh nhân hạn chế hoạt động của họ trong 12 giờ sau PSA (ví dụ: không lái xe, uống rượu hoặc đưa ra quyết định quan trọng; chỉ ăn nhẹ).
+
+Cảnh báo và các lỗi thường gặp trong quy trình an thần và giảm đau
+
+Đảm bảo chỉ định một người theo dõi có chuyên môn (ví dụ, y tá được đào tạo thích hợp, bác sĩ trị liệu hô hấp) có trách nhiệm chính là theo dõi bệnh nhân trong suốt quá trình dùng PSA. Bác sĩ phẫu thuật thực hiện thủ thuật cho bệnh nhân không nên là người theo dõi có chuyên.
+
+Đảm bảo có sẵn thiết bị đường thở tại giường.
+
+Bóng bóp-van-mặt nạ
+
+(BVM) thường đủ để hỗ trợ thông khí tạm thời.
+
+Cân nhắc tránh bổ sung oxy nếu không có sẵn đo CO2 khí thở; oxy bổ sung làm giảm bớt tình trạng giảm oxy máu trong quá trình ức chế hô hấp, làm cản trở việc phát hiện suy hô hấp bằng phép đo độ bão hòa oxy trong máu.
+
+Tiếp tục theo dõi bệnh nhân trong thời gian hồi phục sau PSA vì ức chế hô hấp, nếu xảy ra, thường xảy ra ngay sau khi kết thúc thủ thuật và hết đau.
+
+Mẹo và thủ thuật trong quy trình an thần và giảm đau
+
+Tuân thủ tốc độ dùng thuốc đã được thiết lập; việc dùng thuốc tác dụng ngắn quá chậm là điều thường gặp, có thể làm chậm thời gian bắt đầu có tác dụng an thần hiệu quả và có nguy cơ tích tụ thuốc quá mức.
+
+Đối với liều dùng thuốc tiếp theo, nên dùng liều nhỏ thường xuyên hơn là dùng liều lớn cách quãng để duy trì trạng thái an thần ổn định.
+
+Việc sử dụng phối hợp ketamine và propofol ("ketofol") được cho là có ít biến cố bất lợi hơn so với việc chỉ sử dụng propofol. Tuy nhiên, các nghiên cứu đã cho thấy nguy cơ bị các biến cố bất lợi về hô hấp cần can thiệp tương tự như propofol (
+
+8
+
+).
+
+Tài liệu tham khảo
+
+1.
+
+American Society of Anesthesiologists Task Force on Moderate Procedural Sedation and Analgesia, American Association of Oral and Maxillofacial Surgeons, American College of Radiology, et al
+
+: Practice guidelines for moderate procedural sedation and analgesia 2018
+
+Anesthesiology
+
+128:437-479.
+
+2.
+
+van der Merwe F, Vickery NJ, Kluyts HL, et al
+
+: Postoperative Outcomes Associated With Procedural Sedation Conducted by Physician and Nonphysician Anesthesia Providers: Findings From the Prospective, Observational African Surgical Outcomes Study.
+
+Anesth Analg
+
+. Ngày 1 tháng 8 năm 2022;135(2):250-263 doi: 10.1213/ANE.0000000000005819. Xuất bản điện tử ngày 28 tháng 12 năm 2021. PMID: 34962901.
+
+3.
+
+Beach ML, Cohen DM, Gallagher SM, et al
+
+: Major adverse events and relationship to nil per os status in pediatric sedation/anesthesia outside the operating room: A report of the pediatric sedation research consortium.
+
+Anesthesiology
+
+124(1):80-88, 2016. doi: 10.1097/ALN.0000000000000933
+
+4.
+
+Pergolizzi JV, Webster LR, Vortsman E, et al
+
+: Wooden chest syndrome: The atypical pharmacology of fentanyl overdose.
+
+J Clin Pharm Therapeutics
+
+Xuất bản trực tuyến lần đầu tiên ngày 8 tháng 7 năm 2021 https://doi.org/10.1111/jcpt.13484
+
+5.
+
+Zuarez-Easton S, Erez O, Zafran N, et al
+
+: Pharmacologic and nonpharmacologic options for pain relief during labor: An Expert review. Expert Rev 228(5 Supplement):S1246-S1259. doi: https://doi.org/10.1016/j.ajog.2023.03.003
+
+6.
+
+Fujinaga M
+
+: Teratogenicity of nitrous oxide.
+
+Best Pract Res Clin Anaesthesiology
+
+15(3):363-375, 2001. https://doi.org/10.1053/bean.2001.0180
+
+7.
+
+Huang C, Johnson N
+
+: Nitrous oxide, from the operating room to the emergency department.
+
+Curr Emerg Hosp Med Rep
+
+4:11-18, 2016. doi: 10.1007/s40138-016-0092-3
+
+8.
+
+Ferguson I, Bell A, Treston G, et al
+
+: Propofol or ketofol for procedural sedation and analgesia in emergency medicine—the POKER study: A randomized double-blind clinical trial.
+
+Ann Emerg Med
+
+68(5): 574-582, 2016. doi: 10.1016/j.annemergmed.2016.05.024
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Green SM, Roack MG, Krauss BS, et al
+
+: Unscheduled procedural sedation: A multidisciplinary consensus practice guideline.
+
+Ann Emerg Med
+
+73(5):e51-e65, 2019. doi: 10.1016/j.annemergmed.2019.02.022
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định dùng quy trình an thần và giảm đau ---
+
+Giảm đau và/hoặc giảm lo lắng xảy ra với các thủ thuật điều trị hoặc chẩn đoán*Tạo điều kiện thuận lợi cho việc thực hiện thủ thuật bằng cách thư giãn bệnh nhân và giảm cử động của bệnh nhânKhiến cho bệnh nhân quên trong một thủ thuật, do đó tránh được chấn thương tâm lý có thể xảy ra cho bệnh nhân* Các thủ thuật bao gồm, nhưng không giới hạn ở, khử rung tim, nắn chỉnh khớp hoặc nắn chỉnh gãy xương, chọc dò khớp, dẫn lưu áp xe, phục hồi vết rách, lấy dị vật, chọc dịch não tủy, tiếp cận mạch máu và đặt cannun mạch máu.
+
+--- 2. Chống chỉ định với quy trình an thần và giảm đau ---
+
+Chống chỉ định tuyệt đốiCần điều trị khẩn cấp (ví dụ, huyết động không ổn định) không thể chờ dùng thuốc an thầnQuá mẫn với một trong các loại thuốc*Đặc biệt đối với ketamine: Tuổi<3 tháng (tăng nguy cơ bị tổn thương đường thở)Đặc biệt đối với oxit nitơ:Tràn khí màng phổi,tràn khí trung thất,tắc ruộthoặc bong bóng khí nội nhãn (phẫu thuật sau võng mạc), là những vị trí tích tụ khí mà nitơ oxit có thể giãn nở* Dị ứng với trứng hoặc đậu nành không còn là chống chỉ định sử dụng propofol nữa (các chất gây dị ứng từ trứng/đậu nành khác với các thành phần trứng/đậu nành trong công thức bào chế propofol).Chống chỉ định tương đốiBệnh tim phổi nặng (tăng nguy cơ mất bù do ức chế hô hấp)†Ngưng thở tắc nghẽn khi ngủ†Béo phì hoặc các đặc điểm giải phẫu (ví dụ: tật hàm nhỏ, tật lưỡi to, cổ ngắn, dị tật bẩm sinh) cho thấy khó đặt nội khí quản†Bệnh gan hoặc bệnh thận mạn tính: Một số loại thuốc sẽ được chuyển hóa chậm, dẫn đến tình trạng an thần kéo dài.Bệnh nhân>60 tuổi (tăng nguy cơ mất bù): Liều dùng thuốc PSA thường phải được giảm xuống.Thuốc an thần cấp tính hoặc ngộ độc thuốc (tăng nguy cơ bị biến chứng hô hấp): Cần phải giảm liều thuốc PSA.Rối loạn sử dụng rượu hoặc chất kích thích mạn tính: Có thể cần phải tăng liều thuốc PSA.Thức ăn hoặc đồ uống trước khi làm thủ thuật: Xem xét các quy trình cụ thể của cơ sở liên quan đến việc nhịn ăn trước PSA‡† Nếu có một trong những chống chỉ định này, hãy tham khảo ý kiến ​​bác sĩ gây mê và/hoặc cân nhắc sử dụng thuốc không gây ức chế hô hấp (ví dụ: ketamine).‡ Mặc dù một số hướng dẫn khuyến nghị trì hoãn việc gây mê thủ thuật theo lựa chọn trong vài giờ sau khi uống đồ lỏng trong và 8 giờ sau khi ăn đồ đặc, nhưng không có dữ liệu nào xác lập tính hiệu quả hoặc mức độ cần thiết phải làm như vậy (3).
+
+--- 3. Các biến chứng của quy trình an thần và giảm đau ---
+
+Suy hô hấpGiảm bão hòa oxyHạ huyết áp (hiếm khi có ý nghĩa trong trường hợp không mắc đồng thời bệnh nghiêm trọng hoặc tổn thương tim mạch)Hít sặc (hiếm gặp)Đặc biệt đối với etomidate: Rung giật cơ (không đáng kể và ngắn, hiếm khi có ý nghĩa lâm sàng); ức chế tuyến thượng thận (thường không quan trọng và thoáng qua)Đặc biệt đối với fentanyl: Cứng thành ngực (hội chứng ngực cứng) do truyền tĩnh mạch quá nhanh (ít gặp ở mức liều thấp dùng để giảm đau) (4)Đặc biệt đối với ketamine: Thỉnh thoảng co thắt thanh quản hoặc ngưng thở (ngăn ngừa bằng cách cố gắng đẩy thuốc chậm [>30 đến 60 giây]); tác dụng giao cảm (tăng huyết áp, nhịp tim nhanh, tạo nguy cơ cho bệnh nhân bị thiếu máu cơ tim hoặc bệnh nền tăng huyết áp); về phản ứng hồi phục, nôn ói hoặc xuất hiện khi điều trị (đợt lo lắng/hoảng sợ/ảo giác), thường xuyên hơn ở người lớn hơn ở trẻ em
+
+--- 4. Thiết bị dùng trong quy trình an thần và giảm đau ---
+
+Thiết bị theo dõi (máy đo độ bão oxy trong máu, máy đo CO2 khí thở [máy theo dõi CO2 cuối thì thở ra], máy đo huyết áp, máy theo dõi tim)Ống thông đường tĩnh mạch và dịch (ví dụ, nước muối sinh lý 0,9%)Oxy bổ sung (với công suất luồng khí cao)Nguồn hút và thủ thuậtThiết bị kiểm soát đường thở, đặc biệt là túi-van-mặt nạ (BVM)Hồi sức tim phổi (CPR) ở người lớnThuốc PSA và thuốc đảo ngược tác dụng (xem ví dụ bên dưới)Ngoài ra, đối với việc dùng oxit nitơ: Thiết bị quản lý khí không an toàn (tích hợp sẵn giới hạn thấp hơn là phân phối 30% oxy); mặt nạ van cầu hoặc mặt nạ dòng liên tục; cảm biến oxit nitơ môi trường xung quanh và thiết bị lọc khí (để loại bỏ oxit nitơ thở ra khỏi không khí trong phòng)Thuốc PSAThuốc an thần-gây ngủ (chủ yếu là thuốc an thần, giải lo âu và gây quên):Midazolam đường tĩnh mạch, tiêm bắp, trong mũi: Thuốc an thần tác dụng ngắn (benzodiazepine); Bắt đầu đường tĩnh mạch 1 đến 2 phút, thời gian 10 đến 40 phútPropofol đường tĩnh mạch: Tác dụng cực ngắn, an thần sâu; bắt đầu 30 giây, thời gian 5 phútEtomidate đường tĩnh mạch: Tác dụng cực ngắn, an thần sâu; khởi phát 5 đến 15 giây; thời lượng 5 đến 15 phútThuốc an thần gây ngủ có tác dụng an thần cao (kèm theo giảm đáp ứng với cơn đau), nhưng thuốc không giảm đau trực tiếp. Thuốc có thể được sử dụng một mình khi không cần kiểm soát cơn đau. Thuốc có thể được bổ sung với thuốc giảm đau opioid (ví dụ, fentanyl) hoặc gây tê cục bộ hoặc gây tê vùng tiêm nếu cần.Midazolam thường được sử dụng một mình để an thần nhẹ (giải lo âu) trước khi thực hiện các thủ thuật không đau hoặc đau nhẹ. Nó có tác dụng làm mất trí nhớ mạnh mẽ.Propofol và etomidate có tác dụng an thần sâu, khởi phát nhanh, hữu ích cho các thủ thuật nhanh và đau (ví dụ: sốc điện hoặc nắn chỉnh khớp); thời gian tác dụng ngắn của chúng cũng có thể giúp giảm nguy cơ tích tụ nồng độ thuốc độc hại do dùng liều lặp lại trong các thủ thuật kéo dài.Dự kiến propofol có thể gây hạ huyết áp, thường là ngắn và dễ xử trí. Thuốc này cũng có thể gây suy hô hấp thoáng qua và thường được xử trí bằng cách mở đường thở của bệnh nhân và kích thích bệnh nhân. Hiếm khi, có thể cần hỗtrợ thông khí bằng bóng-van-mặt nạtrong một thời gian ngắn.Etomidate không làm giảm cũng không làm tăng huyết áp hoặc tăng nhịp mạch. Nó có thể được xem xét ở những bệnh nhân bị hạ huyết áp và những người bị bệnh tim mạch (tức là những người có nguy cơ mất bù do thay đổi mạch và huyết áp).Opioid (chủ yếu là thuốc giảm đau):Fentanyl đường tĩnh mạch: Thuốc giảm đau tác dụng ngắn; bắt đầu từ 2 đến 3 phút, thời gian 30 đến 60 phútOpioid tạo ra tác dụng giảm đau nhưng cũng gây an thần. Trong PSA, thuốc giảm đau opioid thường được sử dụng như một thuốc bổ trợ cho thuốc an thần khi cần giảm đau, làm tăng nguy cơ ức chế hô hấp. Fentanyl thường được sử dụng với midazolam; một loại thuốc đảo ngược (naloxone và flumazenil) có sẵn cho mỗi loại. Có thể lựa chọn opioid có tác dụng lâu hơn như morphin nếu cơn đau của bệnh nhân có khả năng tiếp tục tiếp tục sau khi làm thủ thuật (ví dụ: một số ca gãy xương nhất định hoặc chấn thương dai dẳng khác).Thuốc phân ly (chủ yếu là giảm đau và gây quên):Ketamine đường tĩnh mạch, tiêm bắp, trong mũi: Thuốc an thần phân ly; Bắt đầu theo đường tĩnh mạch<1 phút, thời gian 10 đến 20 phútKetamine gây ra trạng thái phân ly (phân ly tâm trí giống như xuất thần) giúp giảm đau, an thần và mất trí nhớ nhưng không gây ức chế hô hấp hoặc làm giảm trương lực đường thở trên hoặc phản xạ bảo vệ và có thể là lựa chọn đầu tiên cho những bệnh nhân có nguy cơ hít phải. Hơn nữa, ketamine không gây hạ huyết áp nhưng thường làm tăng mạch và huyết áp không đáng kể. Ketamine có thể được dùng một mình hoặc với thuốc an thần. Tuy nhiên, ở mức liều PSA,* ketamine không nên dùng bổ sung với một loại thuốc giảm đau khác.*Ketamine liều thấp (phân ly nhỏ) (ví dụ: 0,1 đến 0,2 mg/kg) có tác dụng giảm đau đáng kể mà không gây phân ly; nó có thể được sử dụng để bổ sung với thuốc giảm đau opioid (ví dụ, cho phép liều fentanyl nhỏ hơn).Khí nitơ oxit (chủ yếu là sự phân giải oxyt):Nitơ oxit (30% đến 70%) trong oxy: Thuốc giải lo âu tác dụng ngắn; bắt đầu và bù mỗi lần<5 phútNitrous oxide có khả năng giải lo âu tuyệt vời nhưng chỉ gây mất trí nhớ và giảm đau nhẹ. Nó thường không được sử dụng một mình để giảm đau mà có thể được sử dụng cùng với (hoặc như một chất hỗ trợ) thuốc giảm đau, an thần hoặc phong bế thần kinh. Nó đặc biệt hữu ích cho trẻ em vì nó không cần đặt ống thông qua đường tĩnh mạch. Ở trẻ em, có thể ưu tiên dùng midazolam hoặc ketamine. Ở mức liều thấp được sử dụng cho PSA, thuốc này an toàn.Thuốc đảo ngược tác dụng:Flumazenil (0,1 mg/mL – thuốc đối kháng benzodiazepine)Naloxone (thuốc đối kháng opioid)
+
+--- 5. Những cân nhắc bổ sung cho quy trình an thần và giảm đau ---
+
+Mức độ an thần gây ngủ của thuốc an thần được định nghĩa là:Giải lo âu (an thần tối thiểu): Ý thức và tính tương tác được duy trì; sự phối hợp và nhận thức có thể bị suy giảm.An thần vừa phải: Ý thức bị giảm; phản hồi cho các yêu cầu bằng lời nói hoặc chạm vào được duy trì.An thần sâu: Ý thức bị sa sút; khó kích thích và có thể cần lặp đi lặp lại các kích thích bằng lời nói hoặc đau đớn; thông khí đường thở có thể giảm; nhịp thở tự phát có thể chậm lại.Gây mê toàn thân Bệnh nhân bất tỉnh và không phản ứng với các kích thích; thường xuyên bị ức chế hô hấp hoặc tổn thương đường thở; tổn thương tim mạch có thể xảy ra. Gây mê toàn thân không được dự kiến với PSA; tuy nhiên, người cung cấp PSA phải có khả năng gây mê toàn thân và hỗ trợ tim phổi khi cần thiết.An thần phân ly (chỉ có ở ketamine; khác với an thần gây ngủ): Bệnh nhân được giảm đau và làm mất trí nhớ trong khi vẫn duy trì được nhịp thở tự nhiên và phản xạ đường thở được bảo tồn.Đo CO2 trong khí thở là một chỉ số nhạy cảm hơn về suy giảm hô hấp so với đo độ bão hòa oxy trong máu và, không giống như đo độ bão hòa oxy trong máu, vẫn là một chỉ báo đáng tin cậy khi cho dùng oxy bổ sung.Suy hô hấp xảy ra phổ biến nhất khi bắt đầu dùng thuốc an thần và trong giai đoạn hồi phục sau khi dùng thuốc an thần.Thông khí túi-van-mặt nạthường đủ để hỗ trợ thông khí tạm thời.Định vị đường thởvà đường thởmũihoặc đường thởmiệngcó thể cần thiết để duy trì sự thông thoáng của đường thở, đặc biệt nếu bệnh nhân không có phản xạ ọe khạc.Hạ huyết áp cần được dự kiến trong quá trình PSA. Dịch truyền tĩnh mạch (ví dụ, nước muối sinh lý 0,9%) thường có thể điều chỉnh hạ huyết áp theo thủ thuật. Ở những bệnh nhân bị huyết áp thấp trước khi điều trị PSA, hãy xem xét một giải pháp thay thế hỗ trợ hoặc trung tính về huyết động (ví dụ như etomidate hoặc ketamine).Cần sử dụng thiết bị thu gom thích hợp vì nitơ oxit đã được chứng minh là chất gây quái thai trong các nghiên cứu trên động vật, mặc dù các nghiên cứu dịch tễ học không tìm thấy tỷ lệ quái thai tăng ở người (5, 6).
+
+--- 6. Tư thế trong quy trình an thần và giảm đau ---
+
+Bệnh nhân ở tư thế nằm nghiêng hoặc nằm ngửa. Đầu và vai của bệnh nhân phải để hở (để quan sát nhịp thở) và dễ tiếp cận (để hỗ trợ thông khí ngay lập tức khi cần).
+
+--- 7. Mô tả từng bước: Quy trình an thần và giảm đau ---
+
+PSA nên được thực hiện, theo hướng dẫn của cơ sở, bởi một bác sĩ lâm sàng hoặc một dịch vụ thông thạo thủ thuật và có thiết bị và nhân viên được đào tạo sẵn sàng cung cấp hỗ trợ đường thở và thông khí khẩn cấp.Các công việc chuẩn bịChọn một chiến lược PSA: Quyết định thực hiện PSA và lựa chọn thuốc PSA để sử dụng (bao gồm thuốc thay thế hoặc thuốc bổ sung) phải xem xét các yếu tố như nhu cầu lâm sàng, các yếu tố nguy cơ của bệnh nhân đối với biến chứng và đặt nội khí quản khó khăn, cũng như mức độ đào tạo đầy đủ của nhân viên y tế và sự quen thuộc với thuốc PSA.Đảm bảo có sẵn các thuốc đảo ngược tác dụng cũng như thuốc PSA.Đảm bảo có sẵn xe đẩy hồi sức, máy hút đường thở và thiết bị cứu hộ đường thở gần đó.Lắp ráp túi-van-mặt nạ và ống thở oxy, để có thể cung cấp hỗ trợ oxy ngay lập tức, khi cần thiết.Lắp các thiết bị theo dõi cho bệnh nhân và kiểm tra lại để xem các thiết bị đó đang hoạt động bình thường.Thiết lập đường vào tĩnh mạch. Cân nhắc đặt canun tĩnh mạch lớn (ví dụ: tĩnh mạch trước khuỷu) nếu propofol hoặc etomidate được sử dụng để an thần, để giúp giảm đau khi tiêm những mũi tiêm đó.Khuyến khích: Bắt đầu truyền tĩnh mạch chậm (ví dụ, nước muối sinh lý 0,9% ở mức 30 mL/giờ) để đảm bảo đường truyền tĩnh mạch khai thông và do đó có thể hỗ trợ huyết áp ngay lập tức, nếu cần.Trước khi dùng thuốc PSA, cần xác định các sinh hiệu trước khi gây tê, nhịp tim, trạng thái tinh thần (mức độ ý thức) và chất lượng hô hấp và thông khí của bệnh nhân.Theo dõi bệnh nhânTheo dõi bệnh nhân trong suốt quá trình PSA, để đảm bảo độh an toàn của PSA (không gây ức chế hô hấp hoặc không ảnh hưởng đến tim mạch) và hiệu quả (giảm đau và giảm lo lắng):Thở:Liên tục đánh giá tình trạng thở tự phát. Những thay đổi về tốc độ, độ sâu hoặc tiếng ồn của nhịp thở có thể báo trước các dấu hiệu khác của suy hô hấp.CO2 cuối thì thở ra (đo CO2 khí thở) và độ bão hòa O2 (đo độ bão hòa oxy trong máu):Duy trì cảnh giác liên tục đối với tình trạng giảm thông khí. Những thay đổi trong CO2 cuối thì thở ra xảy ra gần như đồng thời với tình trạng giảm thông khí do thuốc và xảy ra trước tình trạng hạ oxy máu.Suy hô hấp do thuốc PSA tác dụng ngắn thường nhanh chóng khỏi (khi thuốc hết tác dụng).Nếu xảy ra tình trạng giảm thông khí hoặc ngưng thở, hãy cung cấp oxy bổ sung, thực hiện các thao tác định vị lại đường thở, đường thở mũi và miệng, và thông khí túi-van-mặt nạ khi cần thiết. Kích thích bệnh nhân bằng lời nói và xúc giác khi cần thiết. Nếu cần, tiếp tục thông khí bằng túi-van-mặt nạ và sử dụng các thuốc đảo ngược tác dụng thích hợp. Ít khi cần đến hỗ trợ hô hấp nâng cao hơn.Huyết áp, nhịp tim, nhịp điệu của tim:Thường xuyên kiểm tra huyết động. Có thể xảy ra hạ huyết áp thoáng qua, nhưng hiếm khi xảy ra các biến cố tim mạch khác.Nếu xảy ra hạ huyết áp theo thủ thuật, cần truyền dịch đường tĩnh mạch để hỗ trợ huyết áp.Phản ứng của bệnh nhân với các kích thích bằng lời nói và xúc giác:Kiểm tra định kỳ khả năng đáp ứng của bệnh nhân, được sử dụng chủ yếu để phát hiện tình trạng không đủ an thần (không đủ để giảm đau và lo lắng), chứ không phải để xác định tình trạng quá an thần (được công nhận hiệu quả hơn là ức chế hô hấp).Không nên kiểm tra khả năng đáp ứng của bệnh nhân quá thường xuyên hoặc quá mạnh tay vì làm như vậy có thể làm gián đoạn tác dụng an thần không cần thiết và có thể phải điều chỉnh thuốc thêm. Nếu bệnh nhân bình tĩnh và không đau, dựa vào việc theo dõi nhịp thở, thông khí, oxy và huyết động để đảm bảo an toàn cho bệnh nhân trong quá trình PSA.Tiếp tục theo dõi bệnh nhân cho đến khi bệnh nhân hồi phục hoàn toàn sau khi dùng thuốc an thần.PSA sử dụng midazolamĐể tránh tình trạng an thần quá mức, hãy luôn đợi ít nhất 2 phút sau khi dùng một liều midazolam trước khi dùng liều tiếp theo – midazolam hoặc bất kỳ loại thuốc PSA nào khác.Midazolam đường tĩnh mạch:Chuẩn độ phản ứng của bệnh nhân (an thần) như sau:Liều ban đầu: 0,5 đến 2 mg, đường tĩnh mạch trong≥2 phútCác liều tiếp theo (sau 2 đến 5 phút): các liều 0,5 đến 2 mg, đường tĩnh mạch liều trong≥2 phútLiều tối đa: 2,5 mg/liều và liều 5 mg đường tĩnh mạch tích lũy (1,5 mg và 3,5 mg cho bệnh nhân≥60 tuổi)Midazolam tiêm bắp:5 mg tiêm bắp (0,1-0,15 mg/kg ở trẻ em). Không chuẩn độ nhanh.Midazolam trong mũi:Đối với trẻ em, 0,2 - 0,5 mg/kg trong mũi. Không chuẩn độ nhanh.PSA sử dụng midazolam và fentanylKhi sử dụng cùng nhau, hãy dùng liều lượng nhỏ hơn của mỗi loại thuốc so với khi dùng riêng lẻ và cân nhắc cẩn thận để tránh suy hô hấp. Luôn đợi ít nhất 2 phút sau khi dùng liều midazolam trước khi dùng thuốc PSA tiếp theo. Có thể dùng bất kỳ loại thuốc nào trước; một chiến lược là dùng midazolam trước đối với các thủ thuật chủ yếu gây lo lắng và dùng fentanyl trước đối với các thủ thuật gây đau đớn hơn.Midazolam đường tĩnh mạch:Chuẩn độ theo đáp ứng của bệnh nhân (an thần nhẹ), như sau:Liều ban đầu: 0,02 đến 0,1 mg/kg, đường tĩnh mạch trong≥2 phútCác liều tiếp theo (sau 3 đến 5 phút): 0,005 đến 0,025 mg/kg đường tĩnh mạch trong≥2 phútLiều tối đa: 2,5 mg/liều và liều tích lũy 5 mg (1,5 mg và 3,5 mg cho bệnh nhân≥60 tuổi)Fentanyl đường tĩnh mạch:Chuẩn độ theo đáp ứng của bệnh nhân (giảm đau) như sau:Liều ban đầu: 50 đến 100 mcg (hoặc 1 mcg/kg) IVCác liều tiếp theo: Có thể lặp lại liều 50 mcg, đường tĩnh mạch, 3 phút một lần nếu cần.Liều tối đa: Hết sức thận trọng nếu vượt quá 0,5 mcg/kg/liều nếu dùng chung với các thuốc an thần khác (ví dụ: midazolam, propofol) vì sự phối hợp này có thể gây ức chế hô hấp.PSA sử dụng propofolTránh dùng propofol ở bệnh nhân hạ huyết áp.Cung cấp oxy bổ sung (ví dụ, oxy qua mũi từ 2 đến 4 lít mỗi phút).Propofol đường tĩnh mạch:Chuẩn độ liều theo đáp ứng của bệnh nhân (an thần sâu), như sau:Liều ban đầu: 0,5 đến 1,0 mg/kg đường tĩnh mạch (1,0 đến 2,0 mg/kg cho trẻ em)Các liều tiếp theo (sau 1 đến 3 phút): 0,25 đến 0,5 mg/kg, đường tĩnh mạch, 1 đến 3 phút một lầnĐối với bệnh nhân béo phì và lớn tuổi, bắt đầu với liều thấp hơn. Đối với người lớn khỏe mạnh, hãy bắt đầu với liều cao hơn.PSA sử dụng etomidateEtomidate đường tĩnh mạch:Chuẩn độ liều theo đáp ứng của bệnh nhân (an thần sâu), như sau:Liều ban đầu: 0,1 đến 0,15 mg/kg đường tĩnh mạchCác liều tiếp theo: 0,05 mg/kg, đường tĩnh mạch, 3 đến 5 phút một lầnPSA sử dụng ketamineTrước và trong khi dùng liều ketamine ban đầu, trò chuyện với bệnh nhân về một chủ đề vui vẻ hoặc vui vẻ (ví dụ, một người, địa điểm hoặc hoạt động yêu thích). Điều này có thể làm giảm các hiện tượng khó chịu nổi lên (nhầm lẫn, lo lắng, hoảng sợ) sau khi dùng ketamine PSA.Ketamine đường tĩnh mạch:Cho dùng các liều trong 30 đến 60 giây và chuẩn độ theo đáp ứng của bệnh nhân (an thần) như sau:Liều ban đầu: 1 đến 1,5 mg/kg, đường tĩnh mạch (1 đến 2 mg/kg cho trẻ em) trong 1 đến 2 phútCác liều tiếp theo (sau 10 phút): 0,5 đến 0,75 mg/kg đường tĩnh mạch (0,5 đến 1 mg/kg cho trẻ em)Dùng liều thấp hơn (0,25 đến 0,5 mg/kg) tùy theo tình trạng lâm sàng của bệnh nhân (ví dụ: cao tuổi) hoặc thuốc an thần khác; tuy nhiên, lưu ý rằng bệnh nhân có thể bị phân ly từng phần và lo lắng đôi khi nặng ở mức liều 0,5 đến 1 mg/kg.Ketamine tiêm bắp (cho trẻ em):Liều ban đầu: 4 đến 5 mg/kg tiêm bắpCác liều tiếp theo 2 đến 2,5 mg tiêm bắp, 10 phút một lầnKetamine qua đường mũi (cho trẻ em):2 đến 10 mg/ kg qua trong mũi. Không chuẩn độ nhanh.PSA sử dụng hít phải oxit nitơCần phải có một người được đào tạo để quản lý hoặc giám sát việc hít phải nitơ oxit.Lắp ráp hệ thống phân phối và thu gom khí: Chọn mặt nạ van theo yêu cầu cho người lớn hoặc trẻ em>5 tuổi có khả năng hợp tác hoặc mặt nạ lưu lượng liên tục cho bệnh nhân từ 2 tuổi đến 5 tuổi hoặc những bệnh nhân không có khả năng hợp tác.Cho thở oxy 100% trong 2 phút.Sau đó chuyển sang hỗn hợp nitơ oxit/oxy (ví dụ: 40% N2O [N2O 4 L/m và O2 6 L/m]).Bệnh nhân hợp tác (N2O tự dùng):Hướng dẫn bệnh nhân giữ mặt nạ van cầu qua mặt (không thắt dây) và thở bình thường. Khi bệnh nhân buồn ngủ, mặt nạ rơi ra khỏi mặt, bệnh nhân sẽ hít thở không khí trong phòng và dòng khí từ mặt nạ van cầu sẽ ngừng lại. Khi bệnh nhân tỉnh lại hoặc hết đau, hãy bảo họ thở lại qua mặt nạ.Bệnh nhân/trẻ em không hợp tác (dùng N2O được giám sát chặt chẽ):Đeo mặt nạ cung cấp oxy liên tục lên mũi và miệng của bệnh nhân và luôn theo dõi nhịp thở và mức độ an thần của bệnh nhân.Chuẩn độ hỗn hợp khí để cung cấp sự an thần nhẹ với hô hấp bình thường. Thường không cần phân phối N2O kéo dài với nồng độ>50%.Không vượt quá nồng độ tối đa 70% N2O để đảm bảo ít nhất 30% O2 để ngăn ngừa tình trạng hạ oxy máu (7).Khi đạt được mức độ an thần nhẹ, thêm thuốc giảm đau, an thần hoặc phong bế thần kinh khi cần thiết để kiểm soát cơn đau.Khi thủ thuật kết thúc, cho O2 100% trong 5 phút hoặc hơn, để ngăn ngừa tình trạng hạ oxy máu lan tỏa trong quá trình hồi phục.
+
+--- 8. Chăm sóc sau quy trình an thần và giảm đau ---
+
+Không cho flumazenil hoặc naloxone để tăng tốc độ phục hồi sau midazolam hoặc fentanyl trừ khi cần hồi sức.Tiếp tục quan sát tận tình bệnh nhân cho đến khi tỉnh táo bình thường trở lại.Không cho bệnh nhân người lớn xuất viện cho đến khi họ có thể đi lại mà không cần trợ giúp.Không trẻ xuất viện cho đến khi trẻ có thể tự ngồi dậy và nói ở mức độ phù hợp với lứa tuổi.Bệnh nhân xuất viện có một người lớn đi kèm, người đó sẽ tiếp tục theo dõi bệnh nhân về các biến chứng sau khi dùng thuốc an thần (ví dụ: buồn nôn và nôn, chóng mặt, hoa mắt).Không cho phép bệnh nhân tự lái xe về nhà.Hướng dẫn bệnh nhân hạn chế hoạt động của họ trong 12 giờ sau PSA (ví dụ: không lái xe, uống rượu hoặc đưa ra quyết định quan trọng; chỉ ăn nhẹ).
+
+--- 9. Cảnh báo và các lỗi thường gặp trong quy trình an thần và giảm đau ---
+
+Đảm bảo chỉ định một người theo dõi có chuyên môn (ví dụ, y tá được đào tạo thích hợp, bác sĩ trị liệu hô hấp) có trách nhiệm chính là theo dõi bệnh nhân trong suốt quá trình dùng PSA. Bác sĩ phẫu thuật thực hiện thủ thuật cho bệnh nhân không nên là người theo dõi có chuyên.Đảm bảo có sẵn thiết bị đường thở tại giường.Bóng bóp-van-mặt nạ(BVM) thường đủ để hỗ trợ thông khí tạm thời.Cân nhắc tránh bổ sung oxy nếu không có sẵn đo CO2 khí thở; oxy bổ sung làm giảm bớt tình trạng giảm oxy máu trong quá trình ức chế hô hấp, làm cản trở việc phát hiện suy hô hấp bằng phép đo độ bão hòa oxy trong máu.Tiếp tục theo dõi bệnh nhân trong thời gian hồi phục sau PSA vì ức chế hô hấp, nếu xảy ra, thường xảy ra ngay sau khi kết thúc thủ thuật và hết đau.
+
+--- 10. Mẹo và thủ thuật trong quy trình an thần và giảm đau ---
+
+Tuân thủ tốc độ dùng thuốc đã được thiết lập; việc dùng thuốc tác dụng ngắn quá chậm là điều thường gặp, có thể làm chậm thời gian bắt đầu có tác dụng an thần hiệu quả và có nguy cơ tích tụ thuốc quá mức.Đối với liều dùng thuốc tiếp theo, nên dùng liều nhỏ thường xuyên hơn là dùng liều lớn cách quãng để duy trì trạng thái an thần ổn định.Việc sử dụng phối hợp ketamine và propofol ("ketofol") được cho là có ít biến cố bất lợi hơn so với việc chỉ sử dụng propofol. Tuy nhiên, các nghiên cứu đã cho thấy nguy cơ bị các biến cố bất lợi về hô hấp cần can thiệp tương tự như propofol (8).
+
+--- 11. Tài liệu tham khảo ---
+
+1.American Society of Anesthesiologists Task Force on Moderate Procedural Sedation and Analgesia, American Association of Oral and Maxillofacial Surgeons, American College of Radiology, et al: Practice guidelines for moderate procedural sedation and analgesia 2018Anesthesiology128:437-479.2.van der Merwe F, Vickery NJ, Kluyts HL, et al: Postoperative Outcomes Associated With Procedural Sedation Conducted by Physician and Nonphysician Anesthesia Providers: Findings From the Prospective, Observational African Surgical Outcomes Study.Anesth Analg. Ngày 1 tháng 8 năm 2022;135(2):250-263 doi: 10.1213/ANE.0000000000005819. Xuất bản điện tử ngày 28 tháng 12 năm 2021. PMID: 34962901.3.Beach ML, Cohen DM, Gallagher SM, et al: Major adverse events and relationship to nil per os status in pediatric sedation/anesthesia outside the operating room: A report of the pediatric sedation research consortium.Anesthesiology124(1):80-88, 2016. doi: 10.1097/ALN.00000000000009334.Pergolizzi JV, Webster LR, Vortsman E, et al: Wooden chest syndrome: The atypical pharmacology of fentanyl overdose.J Clin Pharm TherapeuticsXuất bản trực tuyến lần đầu tiên ngày 8 tháng 7 năm 2021 https://doi.org/10.1111/jcpt.134845.Zuarez-Easton S, Erez O, Zafran N, et al: Pharmacologic and nonpharmacologic options for pain relief during labor: An Expert review. Expert Rev 228(5 Supplement):S1246-S1259. doi: https://doi.org/10.1016/j.ajog.2023.03.0036.Fujinaga M: Teratogenicity of nitrous oxide.Best Pract Res Clin Anaesthesiology15(3):363-375, 2001. https://doi.org/10.1053/bean.2001.01807.Huang C, Johnson N: Nitrous oxide, from the operating room to the emergency department.Curr Emerg Hosp Med Rep4:11-18, 2016. doi: 10.1007/s40138-016-0092-38.Ferguson I, Bell A, Treston G, et al: Propofol or ketofol for procedural sedation and analgesia in emergency medicine—the POKER study: A randomized double-blind clinical trial.Ann Emerg Med68(5): 574-582, 2016. doi: 10.1016/j.annemergmed.2016.05.024
+
+--- 12. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Green SM, Roack MG, Krauss BS, et al: Unscheduled procedural sedation: A multidisciplinary consensus practice guideline.Ann Emerg Med73(5):e51-e65, 2019. doi: 10.1016/j.annemergmed.2019.02.022

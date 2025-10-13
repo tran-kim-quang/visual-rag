@@ -1,0 +1,182 @@
+TIÊU ĐỀ: Dược động học của thuốc ở người cao tuổi
+URL: https://www.msdmanuals.com/vi/professional/lão-khoa/điều-trị-bằng-thuốc-ở-người-cao-tuổi/dược-động-học-của-thuốc-ở-người-cao-tuổi
+================================================================================
+
+NỘI DUNG:
+
+Dược động học của thuốc ở người cao tuổi
+
+Theo
+
+J. Mark Ruscin
+
+,
+
+PharmD, FCCP, BCPS
+
+,
+
+Southern Illinois University Edwardsville School of Pharmacy;
+
+Sunny A. Linnebur
+
+,
+
+PharmD, BCPS, BCGP
+
+,
+
+Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado
+
+Xem xét bởi
+
+Michael R. Wasserman
+
+,
+
+MD
+
+,
+
+California Association of Long Term Care Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1132331_vi
+
+Dược động học
+
+được định nghĩa tốt nhất là những gì cơ thể làm với thuốc; bao gồm
+
+Hấp thu
+
+Phân bố khắp các khoang cơ thể
+
+Sự trao đổi chất
+
+Thải trừ
+
+Cùng với quá trình lão hóa, tất cả các chức năng này đều thay đổi, một số trong đó có liên quan nhiều hơn đến mặt lâm sàng. Quá trình chuyển hóa và bài tiết của nhiều loại thuốc giảm dần theo tuổi tác, đòi hỏi phải giảm liều của một số loại thuốc. Độc tính có thể phát triển chậm vì nồng độ của thuốc sử dụng lâu dài tăng lên trong 5 đến 6 chu kỳ bán hủy, cho đến khi đạt được trạng thái ổn định. Ví dụ, một số thuốc nhóm benzodiazepine (diazepam, flurazepam, chlordiazepoxide) có thời gian bán hủy lên đến 96 giờ ở bệnh nhân cao tuổi; các dấu hiệu độc tính có thể không xuất hiện cho đến vài ngày hoặc vài tuần sau khi bắt đầu điều trị.
+
+Hấp thu
+
+Mặc dù giảm diện tích bề mặt ruột non, làm chậm trống dạ dày và tăng pH dạ dày do tuổi cao, những sự thay đổi trong hấp thu thuốc có xu hướng không thuận lợi về mặt lâm sàng đối với hầu hết các loại thuốc. Một ngoại lệ có liên quan đến lâm sàng là canxi cacbonat, cần có môi trường axit để hấp thụ tối ưu. Do đó, tăng pH dạ dày – có thể liên quan đến tuổi tác (như viêm teo dạ dày) hoặc do thuốc (như thuốc ức chế bơm proton) có thể làm giảm sự hấp thu canxi và tăng nguy cơ táo bón. Vì vậy, người cao tuổi nên sử dụng muối canxi (ví dụ: canxi citrat) dễ hòa tan và hấp thụ hơn trong môi trường ít axit hơn. Một ví dụ khác về sự thay đổi hấp thu khi tăng độ pH của dạ dày là giải phóng sớm các dạng bào chế bao tan trong ruột (ví dụ: aspirin bao tan trong ruột, erythromycin bao tan trong ruột, bisacodyl bao tan trong ruột), làm tăng nguy cơ tác dụng bất lợi ở đường tiêu hóa. Tình trạng nhu động đường tiêu hóa chậm lại liên quan đến tuổi tác hoặc việc sử dụng thuốc kháng cholinergic có thể kéo dài thời gian di chuyển của thuốc từ dạ dày đến ruột non. Đối với các loại thuốc được hấp thụ ở phần trên của ruột non, chẳng hạn như acetaminophen, nhu động đường tiêu hóa chậm lại có thể làm chậm quá trình hấp thụ và khởi phát tác dụng, đồng thời làm giảm nồng độ đỉnh của thuốc và tác dụng dược lý.
+
+Phân bố
+
+Tuổi càng cao, chất béo cơ thể thường tăng lên và tổng lượng nước trong cơ thể giảm. Tăng chất béo làm tăng thể tích phân bố của các thuốc có tính ưa mỡ cao (ví dụ: diazepam, chlordiazepoxide) và có thể làm tăng đáng kể thời gian bán thải và nguy cơ độc tính của thuốc do tích tụ khi dùng liều kéo dài. Tổng lượng nước trong cơ thể giảm làm giảm thể tích phân bố của các thuốc tan trong nước (ví dụ: digoxin, aminoglycoside) và có thể dẫn đến nồng độ thuốc cao hơn và nguy cơ có tác dụng độc tính.
+
+Albumin huyết thanh giảm và glycoprotein alpha 1-acid tăng theo tuổi, nhưng tác dụng lâm sàng của những thay đổi này đối với sự gắn kết thuốc trong huyết thanh khác nhau tùy theo từng loại thuốc. Ở những bệnh nhân mắc bệnh cấp tính hoặc suy dinh dưỡng, việc giảm nhanh albumin huyết thanh có thể làm tăng tác dụng của thuốc vì nồng độ thuốc không liên kết (tự do hoặc có hoạt tính) trong huyết thanh có thể tăng lên. Phenytoin và warfarin là những ví dụ về các loại thuốc gắn kết ở mức cao với protein có nguy cơ tác dụng độc hại cao hơn khi nồng độ albumin huyết thanh giảm.
+
+Chuyển hóa qua gan
+
+Quá trình chuyển hóa tổng thể của nhiều loại thuốc qua gan thông qua hệ thống enzyme cytochrome P-450 sẽ giảm dần theo tuổi tác. Đối với những loại thuốc có chuyển hóa ở gan giảm, độ thanh thải thường giảm từ 30% đến 40%. Về mặt lý thuyết, liều thuốc duy trì nên được giảm theo tỷ lệ phần trăm này; tuy nhiên, tốc độ chuyển hóa thuốc khác nhau rất nhiều ở mỗi người và thường bị ảnh hưởng do
+
+dược di truyền
+
+. Điều chỉnh liều cần được cá nhân hóa.
+
+Quá trình thanh thải thuốc qua gan được chuyển hóa thông qua
+
+các phản ứng pha I
+
+(oxy hóa, khử, thủy phân – xem bảng
+
+Các chất thường gặp tương tác với enzyme Cytochrome P-450
+
+) có nhiều khả năng kéo dài hơn ở người cao tuổi. Thông thường, tuổi tác không ảnh hưởng nhiều đến khả năng thanh thải của thuốc được chuyển hóa bằng cách liên hợp và glucuronid hóa (
+
+phản ứng pha II
+
+). Do đó, thuốc được chuyển hóa qua các phản ứng pha II có thể được ưu tiên sử dụng cho bệnh nhân cao tuổi nếu khả thi.
+
+Chuyển hóa qua gan lần thứ nhất (chuyển hóa, thường là ở gan, xảy ra trước khi thuốc đi vào tuần hoàn toàn thân) cũng bị ảnh hưởng bởi quá trình lão hóa, giảm khoảng 1%/năm sau 40 tuổi. Do đó, đối với một liều uống nhất định, người cao tuổi có thể có nồng độ thuốc trong tuần hoàn cao hơn. Các ví dụ quan trọng về thuốc có nguy cơ gây độc cao hơn do giảm chuyển hóa qua gan lần thứ nhất theo tuổi tác bao gồm nitrat, propranolol, phenobarbital, verapamil và nifedipine. Các loại thuốc được dùng qua da tránh chuyển hóa qua gan lần thứ nhất.
+
+Các yếu tố khác cũng có thể ảnh hưởng đến quá trình chuyển hóa thuốc ở gan, bao gồm hút thuốc, giảm lưu lượng máu tới gan ở bệnh nhân suy tim và dùng thuốc gây cảm ứng hoặc ức chế enzyme chuyển hóa cytochrome P-450.
+
+Một số loại thuốc bị ảnh hưởng bởi chuyển hóa gan giảm liên quan đến tuổi tác bao gồm:
+
+Thuốc chống loạn nhịp (ví dụ: lidocaine, quinidine)
+
+Thuốc chống trầm cảm (ví dụ: imipramine, desipramine, nortriptyline, trazodone)
+
+Thuốc kháng nấm (ví dụ: fluconazole, ketoconazole, itraconazole, voriconazole, posaconazole)
+
+Benzodiazepines (ví dụ: alprazolam, chlordiazepoxide, diazepam, triazolam)
+
+Thuốc chẹn kênh canxi (ví dụ: amlodipine, diltiazem, nifedipine, verapamil)
+
+Thuốc chống viêm không steroid (NSAID) (ví dụ: ibuprofen, diclofenac)
+
+Thuốc phiện (ví dụ: morphine)
+
+Các thuốc khác (ví dụ: cimetidine, levodopa, propanolol, theophylline, warfarin)
+
+Thải trừ qua thận
+
+Một trong những thay đổi dược động học quan trọng nhất liên quan đến lão hóa là giảm đào thải thuốc qua thận. Sau 40 tuổi, mức lọc cầu thận (GFR) giảm trung bình 8 mL/phút/1,73 m
+
+2
+
+mỗi thập kỷ (0,1 mL/giây/m
+
+2
+
+mỗi thập kỷ); tuy nhiên, mức độ suy giảm liên quan đến tuổi tác khác nhau đáng kể ở mỗi người. Nồng độ creatinine huyết thanh thường duy trì trong giới hạn bình thường mặc dù mức lọc cầu thận (GFR) giảm vì người cao tuổi thường có khối lượng cơ thấp hơn và thường ít hoạt động hơn người trẻ tuổi và do đó sản sinh ra creatinin ít hơn. Nồng độ creatinine huyết thanh bình thường có thể khiến các bác sĩ lâm sàng hiểu lầm rằng nồng độ đó phản ánh chức năng thận bình thường. Giảm chức năng ống thận với tuổi song song với giảm chức năng cầu thận.
+
+Một số loại thuốc bị ảnh hưởng bởi tình trạng giảm đào thải qua thận liên quan đến tuổi tác bao gồm:
+
+Thuốc ức chế men chuyển angiotensin (ACE) (ví dụ: captopril, enalapril, lisinopril, quinapril)
+
+Thuốc chống loạn nhịp (ví dụ: digoxin, dofetilide, procainamide)
+
+Kháng sinh (ví dụ: amikacin, ciprofloxacin, gentamicin, levofloxacin, nitrofurantoin, streptomycin, tobramycin, trimethoprim, gepotidacin)
+
+Thuốc chống đông (ví dụ: apixaban, dabigatran, edoxaban, enoxaparin, heparin, rivaroxaban)
+
+Thuốc chống tiểu đường (ví dụ: glyburide, metformin, chlorpropamide, thuốc ức chế DPP-4, thuốc ức chế SGLT2)
+
+Thuốc chống loạn thần (ví dụ: brexpiprazole, lurasidone, paliperidone, risperidone)
+
+Thuốc kháng vi rút (ví dụ: oseltamivir, nirmatrelvir/ritonavir, acyclovir, famciclovir, valacyclovir)
+
+Các thuốc khác (ví dụ: allopurinol, amantadine, cimetidine, famotidine, gabapentin, lithium, metoclopramide, ranitidine)
+
+Ý nghĩa lâm sàng phụ thuộc vào mức độ đào thải qua thận góp phần vào quá trình đào thải toàn thân và vào chỉ số điều trị của thuốc (tỷ lệ giữa liều tối đa có thể dung nạp và liều tối thiểu có hiệu quả). Độ thanh thải creatinin (được đo hoặc ước tính bằng các chương trình máy tính hoặc công thức, chẳng hạn như Cockcroft-Gault – xem
+
+Đánh giá bệnh nhân suy thận: Độ thanh thải creatinin
+
+) được sử dụng để hướng dẫn liều dùng cho hầu hết các loại thuốc được đào thải qua thận. Mức lọc cầu thận ước tính (eGFR) được sử dụng trong ghi nhãn thuốc để hướng dẫn dùng thuốc. Liều dùng hàng ngày của các loại thuốc phụ thuộc nhiều vào quá trình đào thải qua thận nên thấp hơn và/hoặc giảm tần suất dùng thuốc. Do chức năng thận thay đổi nên liều duy trì của thuốc có thể cần phải điều chỉnh khi bệnh nhân bị ốm hoặc mất nước hoặc mới hồi phục sau tình trạng mất nước.
+
+Công cụ tính toán lâm sàng
+
+Nồng độ Creatinine thanh thải (đo lường)
+
+Công cụ tính toán lâm sàng
+
+Ước lượng mức lọc cầu thận theo phương trình CKD-EPI
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

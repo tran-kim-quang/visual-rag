@@ -1,0 +1,511 @@
+TIÊU ĐỀ: Rối loạn chu trình beta oxy hóa
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/rối-loạn-chuyển-hóa-di-truyền/rối-loạn-chu-trình-beta-oxy-hóa
+================================================================================
+
+NỘI DUNG:
+
+Rối loạn chu trình beta oxy hóa
+
+Theo
+
+Matt Demczko
+
+,
+
+MD
+
+,
+
+Mitochondrial Medicine, Children's Hospital of Philadelphia
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2024
+
+v25253762_vi
+
+Trong các rối loạn chu trình oxy hóa beta, có rất nhiều khiếm khuyết di truyền, thường biểu hiện khi nhịn ăn với tình trạng hạ đường huyết và
+
+nhiễm toan chuyển hóa
+
+; một số rối loạn gây ra bệnh cơ tim và yếu cơ.
+
+Thiếu hụt Acyl-CoA Dehydrogenase chuỗi trung bình (MCADD)
+
+|
+
+Thiếu hụt 3-Hydroxyacyl-CoA dehydrogenase chuỗi dài (LCHADD)
+
+|
+
+Thiếu hụt Acyl-CoA Dehydrogenase chuỗi rất dài (VLCADD)
+
+|
+
+Axit glutaric loại II
+
+|
+
+Thông tin thêm
+
+|
+
+Các rối loạn chu trình Beta oxy hóa (xem
+
+Bảng
+
+) nằm trong số
+
+rối loạn chuyển hoá axit béo và glycerol
+
+.
+
+Xem thêm
+
+Cách tiếp cận bệnh nhân nghi ngờ rối loạn chuyển hoá di truyền
+
+và
+
+xét nghiệm khi nghi ngờ các rối loạn chuyển hoá di truyền
+
+.
+
+Acetyl CoA được tạo ra từ axit béo thông qua các chu trình beta oxy hóa lặp lại. Cần 4 enzyme (acyl dehydrogenase, hydratase, hydroxyacyl dehydrogenase và lyase) đặc hiệu cho các độ dài chuỗi khác nhau (chuỗi rất dài, chuỗi dài, chuỗi trung bình và chuỗi ngắn) để dị hoá một acid béo chuỗi dài hoàn toàn.
+
+Di truyền cho tất cả các khiếm khuyết oxy hóa acid béo là
+
+lặn trên nhiễm sắc thể thường
+
+.
+
+Bảng
+
+Vận chuyển axit béo và rối loạn oxy hoá ti thể
+
+Bảng
+
+Vận chuyển axit béo và rối loạn oxy hoá ti thể
+
+Vận chuyển axit béo và rối loạn oxy hoá ti thể
+
+Bệnh (Số OMIM)
+
+Khiếm khuyết Protein hoặc Enzyme
+
+Bình luận
+
+Thiếu carnitine nguyên phát hệ thống (212140*)
+
+Plasma membrane carnitine transport OCTN2
+
+Sinh hóa:
+
+Bài tiết carnitine niệu cao mặc dù carnitine huyết tương rất thấp, không có acid dicarboxylic niệu đáng kể
+
+Đặc điểm lâm sàng:
+
+Hạ đường huyết giảm keton, không chịu được đói với giảm trương lực cơ, tổn thương hệ thần kinh trung ương, ngưng thở, co giật, bệnh cơ tim giãn, chậm phát triển
+
+Điều trị:
+
+L-carnitine
+
+Thiếu vận chuyển axit béo chuỗi dài (603376*)
+
+—
+
+Sinh hóa:
+
+Thấp đến bình thường carnitine tự do; trong đợt cấp, các este acylcarnitine C8-C18 huyết tương tăng cao
+
+Đặc điểm lâm sàng:
+
+Suy gan cấp tính từng đợt, tăng ammoniac máu, bệnh não
+
+Điều trị:
+
+Ghép gan
+
+Thiếu Carnitine palmitoyl transferase I (CPT-I) (255120*)
+
+CPT-I
+
+Sinh hóa:
+
+Bình thường đến cao nồng độ carnitine toàn phần và tự do trong huyết tương, không có acid dicarboxylic niệu
+
+Đặc điểm lâm sàng:
+
+Không dung nạp được khi nhịn đói, hạ đường huyết giảm keton, gan to co giật, hôn mê, tăng creatine kinase
+
+Điều trị:
+
+Tránh nhịn đói; cho ăn thường xuyên; trong đợt cấp tính, liều cao glucose; thay thế chất béo chuỗi dài bằng chất béo chuỗi trung bình
+
+Thiếu Carnitine acylcarnitine translocase (212138*)
+
+Carnitine/acylcarnitine translocase
+
+Sinh hóa:
+
+Carnitine toàn phần huyết tương thấp, với hầu hết liên hợp với axit béo chuỗi dài; carnitine este C16 cao
+
+Đặc điểm lâm sàng:
+
+Ở dạng trẻ sơ sinh, không dung nạp được đói với hôn mê hạ đường huyết, nôn, yếu, bệnh lý cơ tim, rối loạn nhịp tim, tăng ammoniac máu nhẹ
+
+Ở dạng nhẹ, hạ đường huyết tái diễn và không có tổn thương tim
+
+Điều trị:
+
+Tránh nhịn ăn; cho ăn thường xuyên; nếu nồng độ carnitine trong huyết tương thấp; trong đợt cấp tính, dùng glucose liều cao
+
+Thiếu hụt carnitine palmitoyltransferase II (CPT-II) (255110*, 600649* [dạng trẻ sơ sinh], 608836* [dạng sơ sinh gây tử vong])
+
+CPT-II
+
+Sinh hóa:
+
+Tăng carnitine C16 ester
+
+Trong dạng cơ cổ điển, carnitine thường bình thường
+
+Ở dạng nặng, carnitine toàn phần huyết tương thấp, với hầu hết liên hợp với axit béo chuỗi dài
+
+Đặc điểm lâm sàng:
+
+Ở dạng cơ cổ điển, biểu hiện ở tuổi trưởng thành với đau cơ và myoglobin niệu từng đợt và suy nhược sau khi tập thể dục kéo dài, nhịn ăn, ốm đau xen kẽ hoặc căng thẳng
+
+Ở dạng nặng, biểu hiện ở giai đoạn sơ sinh hoặc giai đoạn trẻ nhỏ với hạ đường huyết giảm keton, bệnh cơ tim, loạn nhịp tim, gan to, hôn mê, hoặc co giật
+
+Điều trị:
+
+Tránh nhịn ăn; cho ăn thường xuyên; nếu nồng độ carnitine trong huyết tương thấp; trong đợt cấp tính, dùng glucose liều cao
+
+Thiếu acyl-CoA dehydrogenase chuỗi rất dài (VLCAD)
+
+(201475*)
+
+VLCAD
+
+Sinh hóa:
+
+Este acylcarnitine C14-C18 bão hòa và không bão hòa, axit dicarboxylic C6-C14 trong nước tiểu tăng
+
+Đặc điểm lâm sàng:
+
+Trong loại VLCAD-C, loạn nhịp tim, bệnh cơ tim phì đại, đột tử
+
+Ở dạng VLCAD-H, hạ đường huyết giảm keton tái phát, bệnh não, toan máu nhẹ, gan to nhẹ, tăng ammoniac máu, tăng men gan
+
+Điều trị:
+
+Tránh nhịn ăn; chế độ ăn nhiều carbohydrate; carnitine; triglyceride chuỗi trung bình; trong đợt cấp tính, liều cao glucose
+
+Thiếu 3-hydroxyacyl-CoA dehydrogenase chuỗi dài (LCHAD
+
+(600890*)
+
+LCHAD
+
+Sinh hóa:
+
+Tăng este acylcarnitine C16-C18 bão hòa và không bão hoà, tăng C6-C14 axit 3-hydroxydicarboxylic trong nước tiểu
+
+Đặc điểm lâm sàng:
+
+Hạ đường huyết giảm keton do nhịn ăn, tiêu cơ vân do tập thể dục, bệnh cơ tim, bệnh gan ứ mật, bệnh võng mạc, hội chứng HELLP của người mẹ
+
+Điều trị:
+
+Tránh nhịn ăn; chế độ ăn nhiều carbohydrate; carnitine; triglyceride chuỗi trung bình; trong đợt cấp tính, liều cao glucose
+
+Đối với bệnh võng mạc, axit docosahexanoic có thể hữu ích
+
+Thiếu protein trifunctional ty thể (TFP) (609015*)
+
+TFP ty thể
+
+Sinh hóa:
+
+Tương tự như sự thiếu hụt LCHAD
+
+Đặc điểm lâm sàng:
+
+Suy gan, bệnh cơ tim, hạ đường huyết lúc đói, bệnh cơ, đột tử
+
+Điều trị:
+
+Tương tự như với thiếu hụt LCHAD
+
+Tiểu đơn vị nhẹ
+
+Tiểu đơn vị beta
+
+Thiếu acyl-CoA dehydrogenase chuỗi trung bình (MCAD
+
+(201450*)
+
+MCAD
+
+Sinh hóa:
+
+Tăng các este acylcarnitine C8-C10 bão hòa và không bão hoà; tăng các axit dicarboxylic C6-C10, suberylglycine, và hexanoylglyxin trong nước tiểu; carnitine tự do thấp
+
+Đặc điểm lâm sàng:
+
+Hạ đường huyết giảm keton sau khi nhịn ăn từng đợt, nôn, gan to, li bì, hôn mê, nhiễm toan, SIDS, hội chứng giống Reye
+
+Điều trị:
+
+Tránh nhịn ăn; cho ăn thường xuyên, kể cả đồ ăn nhẹ trước khi đi ngủ; chế độ ăn nhiều carbohydrate; carnitine; trong đợt cấp tính, liều cao glucose
+
+Sự thiếu acyl-CoA dehydrogenase chuỗi ngắn (SCAD) (201470*)
+
+SCAD
+
+Sinh hóa:
+
+Ở dạng sơ sinh, ethylmalonic acid niệu ngắt quãng
+
+Ở dạng mạn tính, carnitine cơ thấp
+
+Đặc điểm lâm sàng:
+
+Ở dạng trẻ sơ sinh, nhiễm toan sơ sinh, nôn, chậm tăng trưởng và phát triển
+
+Ở dạng mạn tính, bệnh cơ tiến triển
+
+Điều trị:
+
+Tránh nhịn đói
+
+Glutaric acid biệu loại II (231680*)
+
+Electron transfer flavoprotein (ETF)
+
+Sinh hóa:
+
+Tăng trong nước tiểu ethylmalonic, glutaric, 2-hydroxyglutaric, 3-hydroxyisovaleric, và C6–C10 dicarboxylic acid và isovalerylglycine; tăng glutarylcarnitine, isovalerylcarnitine, và ester acylcarnitine chuỗi thẳng của các axit béo C4, C8, C10, C10:1 và C12; carnitine huyết thanh thấp; tăng sarcosine huyết thanh
+
+Đặc điểm lâm sàng:
+
+Hạ đường huyết giảm keton khi đói, nhiễm toan, đột tử, bất thường thần kinh trung ương, bệnh cơ, có thể tổn thương gan và tim
+
+Điều trị:
+
+Tránh nhịn đói; cho ăn thường xuyên; carnitine; riboflavin; trong giai đoạn cấp tính, liều cao glucose
+
+Tiểu đơn vị nhẹ
+
+Tiểu đơn vị beta
+
+ETF:ubiquinone oxidoreductase (ETF: QO)
+
+Thiếu 3-hydroxyacyl-CoA dehydrogenase chuỗi ngắn (SCHAD) (601609*)
+
+SCHAD
+
+Sinh hóa:
+
+Ketotic C8-C14 3-hydroxydicarboxylic acid niệu
+
+Đặc điểm lâm sàng:
+
+Myoglobin niệu tái diễn, keton niệu, hạ đường huyết, bệnh não, bệnh cơ tim
+
+Điều trị:
+
+Tránh nhịn đói
+
+Thiếu hụt 3-hydroxyacyl-CoA dehydrogenase chuỗi ngắn/trung bình (S/MCHAD)
+
+S/MCHAD
+
+Sinh hóa:
+
+Tăng đáng kể MCHAD và acylcarnitines
+
+Đặc điểm lâm sàng:
+
+Suy gan, bệnh não
+
+Điều trị:
+
+Tránh nhịn đói
+
+Thiếu men 3-ketoacyl-coA thiolase chuỗi trung bình (MCKAT) (602199*)
+
+MCKAT
+
+Sinh hóa:
+
+Lactic acid niệu, nhiễm keton, tăng C4-C12 dicarboxylic acid niệu (đặc biệt là C10 và C12)
+
+Đặc điểm lâm sàng:
+
+Không dung nạp được đói, nôn, mất nước, toan chuyển hóa, rối loạn chức năng gan, tiêu cơ vân
+
+Điều trị:
+
+Tránh nhịn đói
+
+Thiếu 2,4-Dienoyl-CoA reductase (222745*)
+
+2,4-Dienoyl-CoA reductase
+
+Sinh hóa:
+
+Tăng lysin máu, giảm carnitine huyết tương, 2-trans,4-cis decadienoylcarnitine trong huyết tương và nước tiểu
+
+Đặc điểm lâm sàng:
+
+Giảm trương lực cơ ở trẻ sơ sinh, toan hô hấp
+
+Điều trị:
+
+Không xác định
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+HELLP
+
+=
+
+tan máu, tăng men gan, và tiểu cầu thấp.
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+HELLP
+
+=
+
+tan máu, tăng men gan, và tiểu cầu thấp.
+
+Thiếu hụt Acyl-CoA Dehydrogenase chuỗi trung bình (MCADD)
+
+Sự thiếu hụt này là khiếm khuyết phổ biến nhất trong chu trình oxy hóa beta.
+
+Các biểu hiện lâm sàng thường bắt đầu sau 2 đến 3 tháng tuổi và thường sau khi nhịn ăn (khoảng 12 giờ). Bệnh nhân bị nôn và hôn mê, có thể tiến triển nhanh chóng đến co giật, hôn mê và đôi khi tử vong (cũng có thể xuất hiện dưới dạng
+
+tử vong đột ngột ở trẻ sơ sinh
+
+). Trong các đợt kịch phát, bệnh nhân có hạ đường huyết, tăng ammoniac máu, và xê-ton huyết thanh và nước tiểu thấp bất thường. Toan chuyển hóa thường có nhưng có thể là biểu hiện muộn.
+
+Chẩn đoán MCADD bằng cách phát hiện các hợp chất liên kết axit béo chuỗi trung bình của carnitine trong huyết tương hoặc glycine trong nước tiểu hoặc bằng cách phát hiện sự thiếu enzyme trong các nguyên bào sợi nuôi cấy; tuy nhiên, xét nghiệm DNA có thể khẳng định hầu hết các trường hợp. MCADD hiện đã được đưa vào
+
+sàng lọc sơ sinh
+
+thường quy ở tất cả các tiểu bang ở Hoa Kỳ.
+
+Điều trị các đợt cấp tính bằng 10% dextrose đường tĩnh mạch với tốc độ truyền dịch gấp 1,5 lần tốc độ duy trì dịch (xem
+
+Yêu cầu về điều trị duy trì
+
+); một số bác sĩ lâm sàng cũng ủng hộ việc bổ sung carnitine trong các đợt cấp tính.
+
+Phòng ngừa gồm chế độ ăn ít chất béo, carbohydrate cao và tránh nhịn ăn kéo dài. Điều trị bằng bột ngô thường được sử dụng để tạo ra sự an toàn trong suốt thời gian nhịn ăn qua đêm.
+
+Thiếu hụt 3-Hydroxyacyl-CoA dehydrogenase chuỗi dài (LCHADD)
+
+Sự thiếu hụt này là khiếm khuyết oxy hóa axit béo phổ biến thứ hai. Nó có nhiều đặc điểm của MCADD, nhưng bệnh nhân cũng có thể bị bệnh cơ tim; tiêu cơ vân, tăng creatine kinase, và myoglobin niệu với sự gắng sức của cơ; bệnh lý thần kinh ngoại biên; và chức năng gan bất thường. Người mẹ có thai nhi mắc LCHADD thường mắc
+
+hội chứng HELLP
+
+(tan máu, các giá trị của xét nghiệm chức năng gan tăng cao và số lượng tiểu cầu thấp) khi mang thai.
+
+Chẩn đoán LCHADD dựa trên sự có mặt quá mức của các axit hydroxy chuỗi dài trên phân tích axit hữu cơ và sự hiện diện của các liên hợp với carnitine trong một hợp chất acylcarnitine hoặc liên hợp với glycine trong một hợp chất acylglycine. LCHADD có thể được xác nhận bằng nghiên cứu enzym trong nguyên bào sợi da hoặc bằng xét nghiệm di truyền. LCHADD hiện đã được đưa vào
+
+sàng lọc sơ sinh
+
+thường quy ở tất cả các tiểu bang ở Hoa Kỳ.
+
+Điều trị trong trường hợp đợt cấp tính bao gồm bù nước, glucose liều cao, nghỉ ngơi trên giường, kiềm hóa nước tiểu và bổ sung carnitine. Điều trị dài hạn bao gồm chế độ ăn nhiều carbohydrate, bổ sung triglyceride chuỗi trung bình, và tránh nhịn ăn và tập thể dục gắng sức.
+
+Thiếu hụt Acyl-CoA Dehydrogenase chuỗi rất dài (VLCADD)
+
+Sự thiếu hụt này tương tự như LCHADD nhưng thường liên quan đến bệnh cơ tim nặng.
+
+Axit glutaric loại II
+
+Một khiếm khuyết trong việc chuyển electron từ coenzyme của acyl dehydrogenases chất béo sang chuỗi vận chuyển điện tử ảnh hưởng đến các phản ứng liên quan đến axit béo của tất cả các độ dài chuỗi (thiếu nhiều acyl-coA dehydrogenase); quá trình oxy hóa một số axit amin cũng bị ảnh hưởng.
+
+Biểu hiện lâm sàng do đó bao gồm hạ đường huyết khi đói, toan chuyển hóa nặng, và tăng ammoniac.
+
+Chẩn đoán acid glutaric máu loại II bằng tăng ethylmalonic, glutaric, 2- và 3-hydroxyglutaric, và các axit dicarboxylic khác trong phân tích axit hữu cơ, và glutaryl và isovaleryl và các acylcarnitine khác trong các nghiên cứu khối phổ liên tiếp (MS). Phân tích DNA có thể được xác nhận.
+
+Điều trị bệnh axit glutaric máu loại II cũng tương tự như đối với MCADD, ngoại trừ riboflavin có thể có hiệu quả ở một số bệnh nhân.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+: Complete gene, molecular, and chromosomal location information
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thiếu hụt Acyl-CoA Dehydrogenase chuỗi trung bình (MCADD) ---
+
+Sự thiếu hụt này là khiếm khuyết phổ biến nhất trong chu trình oxy hóa beta.Các biểu hiện lâm sàng thường bắt đầu sau 2 đến 3 tháng tuổi và thường sau khi nhịn ăn (khoảng 12 giờ). Bệnh nhân bị nôn và hôn mê, có thể tiến triển nhanh chóng đến co giật, hôn mê và đôi khi tử vong (cũng có thể xuất hiện dưới dạngtử vong đột ngột ở trẻ sơ sinh). Trong các đợt kịch phát, bệnh nhân có hạ đường huyết, tăng ammoniac máu, và xê-ton huyết thanh và nước tiểu thấp bất thường. Toan chuyển hóa thường có nhưng có thể là biểu hiện muộn.Chẩn đoán MCADD bằng cách phát hiện các hợp chất liên kết axit béo chuỗi trung bình của carnitine trong huyết tương hoặc glycine trong nước tiểu hoặc bằng cách phát hiện sự thiếu enzyme trong các nguyên bào sợi nuôi cấy; tuy nhiên, xét nghiệm DNA có thể khẳng định hầu hết các trường hợp. MCADD hiện đã được đưa vàosàng lọc sơ sinhthường quy ở tất cả các tiểu bang ở Hoa Kỳ.Điều trị các đợt cấp tính bằng 10% dextrose đường tĩnh mạch với tốc độ truyền dịch gấp 1,5 lần tốc độ duy trì dịch (xemYêu cầu về điều trị duy trì); một số bác sĩ lâm sàng cũng ủng hộ việc bổ sung carnitine trong các đợt cấp tính.Phòng ngừa gồm chế độ ăn ít chất béo, carbohydrate cao và tránh nhịn ăn kéo dài. Điều trị bằng bột ngô thường được sử dụng để tạo ra sự an toàn trong suốt thời gian nhịn ăn qua đêm.
+
+--- 2. Thiếu hụt 3-Hydroxyacyl-CoA dehydrogenase chuỗi dài (LCHADD) ---
+
+Sự thiếu hụt này là khiếm khuyết oxy hóa axit béo phổ biến thứ hai. Nó có nhiều đặc điểm của MCADD, nhưng bệnh nhân cũng có thể bị bệnh cơ tim; tiêu cơ vân, tăng creatine kinase, và myoglobin niệu với sự gắng sức của cơ; bệnh lý thần kinh ngoại biên; và chức năng gan bất thường. Người mẹ có thai nhi mắc LCHADD thường mắchội chứng HELLP(tan máu, các giá trị của xét nghiệm chức năng gan tăng cao và số lượng tiểu cầu thấp) khi mang thai.Chẩn đoán LCHADD dựa trên sự có mặt quá mức của các axit hydroxy chuỗi dài trên phân tích axit hữu cơ và sự hiện diện của các liên hợp với carnitine trong một hợp chất acylcarnitine hoặc liên hợp với glycine trong một hợp chất acylglycine. LCHADD có thể được xác nhận bằng nghiên cứu enzym trong nguyên bào sợi da hoặc bằng xét nghiệm di truyền. LCHADD hiện đã được đưa vàosàng lọc sơ sinhthường quy ở tất cả các tiểu bang ở Hoa Kỳ.Điều trị trong trường hợp đợt cấp tính bao gồm bù nước, glucose liều cao, nghỉ ngơi trên giường, kiềm hóa nước tiểu và bổ sung carnitine. Điều trị dài hạn bao gồm chế độ ăn nhiều carbohydrate, bổ sung triglyceride chuỗi trung bình, và tránh nhịn ăn và tập thể dục gắng sức.
+
+--- 3. Thiếu hụt Acyl-CoA Dehydrogenase chuỗi rất dài (VLCADD) ---
+
+Sự thiếu hụt này tương tự như LCHADD nhưng thường liên quan đến bệnh cơ tim nặng.
+
+--- 4. Axit glutaric loại II ---
+
+Một khiếm khuyết trong việc chuyển electron từ coenzyme của acyl dehydrogenases chất béo sang chuỗi vận chuyển điện tử ảnh hưởng đến các phản ứng liên quan đến axit béo của tất cả các độ dài chuỗi (thiếu nhiều acyl-coA dehydrogenase); quá trình oxy hóa một số axit amin cũng bị ảnh hưởng.Biểu hiện lâm sàng do đó bao gồm hạ đường huyết khi đói, toan chuyển hóa nặng, và tăng ammoniac.Chẩn đoán acid glutaric máu loại II bằng tăng ethylmalonic, glutaric, 2- và 3-hydroxyglutaric, và các axit dicarboxylic khác trong phân tích axit hữu cơ, và glutaryl và isovaleryl và các acylcarnitine khác trong các nghiên cứu khối phổ liên tiếp (MS). Phân tích DNA có thể được xác nhận.Điều trị bệnh axit glutaric máu loại II cũng tương tự như đối với MCADD, ngoại trừ riboflavin có thể có hiệu quả ở một số bệnh nhân.
+
+--- 5. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

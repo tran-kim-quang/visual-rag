@@ -1,0 +1,421 @@
+TIÊU ĐỀ: Các Chiến lược Ra Quyết định Lâm sàng
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/quyết-định-lâm-sàng/các-chiến-lược-ra-quyết-định-lâm-sàng
+================================================================================
+
+NỘI DUNG:
+
+Các Chiến lược Ra Quyết định Lâm sàng
+
+Theo
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Michael R. Wasserman
+
+,
+
+MD
+
+,
+
+California Association of Long Term Care Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v1123758_vi
+
+Tạo ra giả thuyết
+
+|
+
+Thử nghiệm Giả thuyết
+
+|
+
+Xác suất ước tính và ngưỡng xét nghiệm
+
+|
+
+Xác suất ước tính và ngưỡng điều trị
+
+|
+
+Một trong những chiến lược được sử dụng phổ biến nhất để đưa ra quyết định lâm sàng phản ánh phương pháp khoa học tạo ra giả thuyết tiếp theo là kiểm định giả thuyết. Các giả thuyết chẩn đoán được chấp nhận hoặc từ chối dựa trên việc kiểm chứng.
+
+Tạo ra giả thuyết
+
+Việc tạo ra giả thuyết liên quan đến việc xác định các khả năng chẩn đoán chính (chẩn đoán phân biệt) giải thích cho vấn đề lâm sàng của bệnh nhân. Lý do vào viện chính của bệnh nhân (ví dụ: đau ngực) và dữ liệu nhân khẩu học cơ bản (tuổi tác, giới tính, chủng tộc) là điểm xuất phát của chẩn đoán phân biệt, thường được tạo ra bằng cách nhận dạng mẫu. Mỗi yếu tố trong danh sách các khả năng được phân bổ một cách chính xác là xác suất ước tính, hoặc khả năng xảy ra, đó là chẩn đoán chính xác (xác suất trước khi xác minh (để ví dụ, xem bảng
+
+Chẩn đoán Phân biệt Giả thuyết và Xác suất Trước Kiểm tra và Sau Kiểm tra
+
+).
+
+Các bác sĩ thường sử dụng thuật ngữ mơ hồ như "rất có khả năng", "không thể xảy ra" và "không thể loại trừ" để mô tả khả năng mắc bệnh. Cả bác sĩ lâm sàng và bệnh nhân đều có thể hiểu sai các thuật ngữ bán định lượng như vậy; Thuật ngữ thống kê rõ ràng nên được sử dụng thay thế, nếu và khi có sẵn. Tính toán toán học có thể hỗ trợ việc ra quyết định lâm sàng và thậm chí khi không có số liệu chính xác, vẫn có thể xác định tốt hơn các khả năng lâm sàng. Tuy nhiên, "con số" cụ thể chỉ được tạo ra từ một phần nhỏ tổng số bệnh nhân lâm sàng và do đó vẫn chỉ là ước tính.
+
+Xác suất và tỷ suất
+
+Tỷ lệ mắc
+
+của bệnh (hoặc biến cố) xảy ra ở bệnh nhân có thông tin lâm sàng chưa được biết rõ chính là tần số xuất hiện bệnh hoặc biến cố đó trong quần thể. Tỷ lệ này dao động từ 0,0 (không thể) đến 1,0 (chắc chắn) và thường được biểu diễn dưới dạng phần trăm (từ 0 đến 100). Bệnh xảy ra ở 2 trong 10 bệnh nhân có tỷ lệ mắc là 2/10 (0,2 hoặc 20%). Làm tròn các xác suất rất nhỏ thành 0, do đó loại trừ mọi khả năng mắc bệnh (đôi khi được thực hiện trong lý luận lâm sàng ngầm), có khả năng gây hiểu lầm.
+
+Tỷ lệ
+
+đại diện cho tỷ số giữa nhóm bệnh nhân bị ảnh hưởng và nhóm bệnh nhân không bị ảnh hưởng (hay tỉ số giữa nhóm có bệnh và nhóm không có bệnh). Do đó, một bệnh xảy ra ở 2 trong 10 bệnh nhân (xác suất 2/10) có tỷ lệ 2/8 (0,25, thường được biểu diễn là 1-4). Tỷ lệ (
+
+Ω
+
+) và xác suất (p) có thể được chuyển đổi sang dạng khác, như trong
+
+Ω
+
+=
+
+p/(1
+
+−
+
+p) hoặc p
+
+=
+
+Ω
+
+/(1
+
++
+
+Ω
+
+).
+
+Công cụ tính toán lâm sàng
+
+Tỷ lệ từ Xác suất
+
+Công cụ tính toán lâm sàng
+
+Xác suất từ Tỷ lệ
+
+Thử nghiệm Giả thuyết
+
+Chẩn đoán phân biệt ban đầu dựa trên triệu chứng chính và nhân khẩu học thường lớn, do đó, bác sĩ lâm sàng trước tiên tạo ra và lọc các khả năng giả định bằng cách thu thập tiền sử chi tiết và thực hiện khám thực thể trực tiếp để hỗ trợ hoặc bác bỏ các chẩn đoán nghi ngờ. Ví dụ: ở bệnh nhân bị đau ngực, tiền sử đau chân và chân bị sưng, ấn đau được phát hiện trong khi khám sẽ làm tăng khả năng bị
+
+thuyên tắc động mạch phổi
+
+.
+
+Khi tiền sử và khám thực thể hình thành một mô hình dễ nhận biết, một chẩn đoán sơ bộ được đưa ra. Bước đầu tiên, tiền sử bệnh nhân đóng vai trò quan trọng trong việc hình thành giả thuyết chẩn đoán, dẫn đến việc khám thực thể tập trung hỗ trợ hoặc bác bỏ giả thuyết đó và giúp thiết lập khả năng chẩn đoán trước khi xét nghiệm (
+
+1
+
+).
+
+Xét nghiệm chẩn đoán được sử dụng khi đã khám lâm sàng và hỏi bệnh sử vẫn còn nghi ngờ, đặc biệt là khi các bệnh chẩn đoán phân biệt là bệnh nghiêm trọng, có phương pháp điều trị mang tính nguy cơ cao và chi phí cao. Kết quả xét nghiệm tiếp tục làm thay đổi xác suất của các chẩn đoán khác nhau (xác xuất sau xét nghiệm). Ví dụ: bảng
+
+Chẩn đoán phân biệt giả định và Xác suất xét nghiệm trước và sau
+
+cho thấy các dấu hiệu bổ sung về bệnh nhân giả định bị đau và sưng chân và điện tâm đồ cùng phim chụp X-quang ngực bình thường làm thay đổi xác suất chẩn đoán – xác suất mắc
+
+hội chứng vành cấp
+
+,
+
+phình tách động mạch chủ ngực
+
+và
+
+tràn khí màng phổi
+
+giảm, còn xác suất mắc thuyên tắc động mạch phổi tăng. Những thay đổi về khả năng này có thể dẫn đến các kiểm tra bổ sung (trong ví dụ này, có thể là chụp CT động mạch ngực) giúp sửa đổi thêm khả năng sau xét nghiệm và trong một số trường hợp, xác nhận hoặc bác bỏ chẩn đoán.
+
+Có thể trực quan rằng tổng của xác suất của tất cả các khả năng chẩn đoán nên bằng gần 100% và rằng một chẩn đoán có thể được bắt nguồn từ tổ hợp một loạt các triệu chứng và dấu hiệu. Tuy nhiên, việc áp dụng nguyên lý Occam's razor khi cho rằng tốt nhất nên sử dụng một nguyên nhân duy nhất để giải thích cho một loạt các tình huống phức tạp có thể khiến các bác sĩ lâm sàng bị lạc lối. Áp dụng cứng nhắc nguyên lý này làm giảm khả năng bệnh nhân có thể đang mắc nhiều hơn một bệnh. Ví dụ: một bệnh nhân khó thở có tiền sử mắc
+
+bệnh phổi tắc nghẽn mạn tính
+
+(COPD) có thể được cho là đang bị đợt cấp của COPD nhưng cũng có thể bị
+
+thuyên tắc động mạch phổi
+
+hoặc
+
+suy tim
+
+.
+
+Bảng
+
+Chẩn đoán phân biệt giả định và xác suất tiền xét nghiệm và hậu xét nghiệm cho cơn đau ngực ở người 50 tuổi bị tăng huyết áp và tiểu đường, có hút thuốc lá
+
+Bảng
+
+Chẩn đoán phân biệt giả định và xác suất tiền xét nghiệm và hậu xét nghiệm cho cơn đau ngực ở người 50 tuổi bị tăng huyết áp và tiểu đường, có hút thuốc lá
+
+Chẩn đoán phân biệt giả định và xác suất tiền xét nghiệm và hậu xét nghiệm cho cơn đau ngực ở người 50 tuổi bị tăng huyết áp và tiểu đường, có hút thuốc lá
+
+Chẩn đoán
+
+Xác suất trước xét nghiệm
+
+Xác suất sau thử nghiệm I (dấu hiệu bổ sung về đau chân, sưng và điện tâm đồ và chụp X-quang ngực bình thường)
+
+Xác suất sau thử nghiệm II (chụp mạch CT phát hiện tổn thương và nồng độ Troponin T trong máu bình thường)
+
+Hội chứng vành cấp
+
+40%
+
+28%
+
+1%
+
+Nhồi máu cơ tim ST chênh
+
+20%
+
+<
+
+1%
+
+<
+
+1%
+
+Đau thành ngực
+
+30%
+
+20%
+
+<
+
+1%
+
+Thuyên tắc động mạch phổi
+
+5%
+
+50%
+
+98%
+
+Tách thành động mạch chủ
+
+<
+
+3%
+
+<
+
+1%
+
+<
+
+1%
+
+Tràn khí màng phổi tiên phát
+
+<
+
+2%
+
+<
+
+1%
+
+<
+
+1%
+
+Tài liệu tham khảo về thử nghiệm giả thuyết
+
+1.
+
+Garibaldi BT, Olson APJ
+
+: The Hypothesis-Driven Physical Examination.
+
+Med Clin North Am
+
+. 2018;102(3):433-442. doi:10.1016/j.mcna.2017.12.005
+
+Xác suất ước tính và ngưỡng xét nghiệm
+
+Ngay cả khi chẩn đoán là không chắc chắn, xét nghiệm không phải lúc nào cũng có ích. Chỉ nên thực hiện xét nghiệm nếu kết quả của nó ảnh hưởng tới việc điều trị. Khi xác suất bệnh trước xét nghiệm trên ngưỡng nhất định, việc điều trị được bảo đảm (
+
+ngưỡng điều trị
+
+) và có thể không cần chỉ định xét nghiệm.
+
+Dưới ngưỡng điều trị, xét nghiệm được chỉ định khi kết quả xét nghiệm dương tính sẽ nâng xác suất sau xét nghiệm lên
+
+trên
+
+ngưỡng điều trị. Xác suất tiền kiểm tra thấp nhất mà điều này có thể xảy ra phụ thuộc vào đặc điểm kiểm tra và được gọi là
+
+ngưỡng kiểm tra
+
+.
+
+Xác suất ước tính và ngưỡng điều trị
+
+Ngưỡng điều trị là ngưỡng nếu xác suất bằng hoặc lớn hơn điểm này, điều trị sẽ được đưa ra không cần thực hiện thêm bất cứ xét nghiệm nào khác.
+
+Ví dụ, ở giả định trên, bệnh nhân bị đau ngực đã hội tụ gần như đầy đủ một chẩn đoán xác định (xác suất 98%). Khi chẩn đoán bệnh được cho là chắc chắn, quyết định điều trị là xác định trực tiếp xem việc điều trị có mang lại lợi ích hay không (so với việc không điều trị và tính đến các tác dụng bất lợi có khả năng xảy ra của điều trị). Khi chẩn đoán có một mức độ không chắc chắn, như hầu hết mọi trường hợp, quyết định điều trị cũng phải cân bằng giữa lợi ích của việc điều trị một người bệnh với nguy cơ điều trị sai một người khỏe mạnh hoặc một người mắc chứng rối loạn khác; lợi ích và nguy cơ bao gồm các hậu quả về tài chính, xã hội và y tế. Sự cân bằng này phải tính đến khả năng mắc bệnh và mức độ lợi ích và nguy cơ. Sự cân bằng này chính là điểm xác định đặt ngưỡng điều trị. Quyết định điều trị cuối cùng phải bao gồm sở thích của bệnh nhân bất cứ khi nào có thể xác định được.
+
+Ngọc trai & cạm bẫy
+
+Khi có sự không chắc chắn về chẩn đoán, quyết định điều trị phải cân bằng giữa lợi ích của việc điều trị cho người bệnh có chẩn đoán được đưa ra với nguy cơ khi điều trị nhầm cho người khỏe mạnh hoặc người bị bệnh lý khác.
+
+Về mặt khái niệm, nếu lợi ích của việc điều trị rất cao và nguy cơ rất thấp (như khi kê đơn thuốc kháng sinh an toàn cho bệnh nhân tiểu đường có khả năng bị nhiễm trùng đe dọa tính mạng), các bác sĩ lâm sàng có xu hướng chấp nhận mức độ không chắc chắn cao trong chẩn đoán và có thể bắt đầu điều trị ngay cả khi khả năng nhiễm trùng khá thấp (ví dụ: 30% – xem hình
+
+Thay đổi ngưỡng điều trị (TT) khi có nguy cơ của điều trị
+
+). Tuy nhiên, khi nguy cơ điều trị là rất cao (như khi thực hiện phẫu thuật cắt phổi trong ung thư phổi), bác sĩ lâm sàng muốn chắc chắn về chẩn đoán và chỉ nên điều trị khi xác suất ung thư là rất cao,
+
+>
+
+95% (xem
+
+hình
+
+). Lưu ý rằng ngưỡng điều trị không nhất thiết phải tương ứng với xác suất đoán xác định hoặc loại trừ bệnh. Nó chỉ đơn giản là ngưỡng mà tại đó nguy cơ không điều trị lớn hơn nguy cơ điều trị.
+
+Biến thể của ngưỡng điều trị (TT) khi có nguy cơ của điều trị
+
+Các đường ngang thể hiện xác suất sau kiểm định.
+
+Về mặt số lượng, ngưỡng điều trị có thể được mô tả dưới dạng điểm mà tại đó xác suất mắc bệnh (p) x lợi ích của việc điều trị bệnh (B) = xác zuất không bệnh (1
+
+−
+
+p) x nguy cơ khi điều trị nhầm người không bệnh (R). Như vậy, tại ngưỡng điều trị
+
+p
+
+×
+
+B
+
+=
+
+(1
+
+−
+
+p)
+
+×
+
+R
+
+Giải phương trình p, phương trình này trở thành
+
+p
+
+=
+
+R/(B
+
++
+
+R)
+
+Từ phương trình này, rõ ràng là nếu B (lợi ích) và R (nguy cơ) bằng nhau, thì ngưỡng điều trị trở thành 1/(1
+
++
+
+1)
+
+=
+
+0,5, có nghĩa là khi xác suất bệnh
+
+>
+
+50%, bác sĩ lâm sàng sẽ điều trị, và khi xác suất
+
+<
+
+50%, bác sĩ lâm sàng sẽ không điều trị.
+
+Cùng xem xét một ví dụ lâm sàng, với bệnh nhân bị đau ngực. Khả năng lâm sàng của nhồi máu cơ tim (MI) cấp nên cao bao nhiêu trước khi điều trị tiêu huyết khối, giả sử nguy cơ duy nhất được xem xét là tử vong ngắn hạn? Nếu giả định (ví dụ minh hoạ) rằng tử vong do xuất huyết nội sọ trong liệu pháp tiêu huyết khối là 1%, thì 1% là R, tỷ lệ tử vong do nhầm lẫn điều trị một bệnh nhân không bị nhồi máu cơ tim. Nếu với điều trị tiêu huyết khối, tỉ lệ tử vong do nhồi máu cơ tim giảm 3% so với không điều trị thì 3% là B. Sau đó, TT là 1/(3
+
++
+
+1), hoặc 25%; do đó, cần chỉ định điều trị cnếu xác suất của MI cấp tính là
+
+>
+
+25%.
+
+Ngoài ra, phương trình TT có thể được sắp xếp lại để cho thấy rằng TT là điểm mà tại đó tỷ lệ mắc bệnh p/(1
+
+−
+
+p) bằng tỷ lệ rủi ro: lợi ích (R/B). Kết quả tính toán tương tự cũng thu được như trong ví dụ đã mô tả trước đây, với ngưỡng điều trị xuất hiện ở tỷ lệ rủi ro: tỷ lệ lợi ích (1/3); Tỷ lệ 1/3 tương ứng với xác suất thu được trước đây là 25% (xem
+
+xác suất và tỷ lệ
+
+).
+
+Hạn chế của các phương pháp quyết định định lượng
+
+Việc ra quyết định lâm sàng định lượng có vẻ chính xác, nhưng bởi vì nhiều yếu tố trong tính toán thường không chính xác (xác suất trước kiểm tra), ngoại trừ các tình huống lâm sàng được định nghĩa rõ và nghiên cứu kỹ lưỡng, phương pháp này rất khó áp dụng trong tất cả các tình huống lâm sàng còn lại. Ngoài ra, triết lý của bệnh nhân liên quan đến chăm sóc y tế (tức là chấp nhận nguy cơ và sự không chắc chắn) cũng cần được tính đến trong quá trình ra quyết định chung. Ví dụ: mặc dù các hướng dẫn lâm sàng không khuyến nghị bắt đầu liệu trình dùng thuốc hạ urat suốt đời sau cơn
+
+gút
+
+đầu tiên, một số bệnh nhân vẫn muốn bắt đầu điều trị ngay lập tức vì họ thực sự muốn tránh cơn gút thứ hai.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Tạo ra giả thuyết ---
+
+Việc tạo ra giả thuyết liên quan đến việc xác định các khả năng chẩn đoán chính (chẩn đoán phân biệt) giải thích cho vấn đề lâm sàng của bệnh nhân. Lý do vào viện chính của bệnh nhân (ví dụ: đau ngực) và dữ liệu nhân khẩu học cơ bản (tuổi tác, giới tính, chủng tộc) là điểm xuất phát của chẩn đoán phân biệt, thường được tạo ra bằng cách nhận dạng mẫu. Mỗi yếu tố trong danh sách các khả năng được phân bổ một cách chính xác là xác suất ước tính, hoặc khả năng xảy ra, đó là chẩn đoán chính xác (xác suất trước khi xác minh (để ví dụ, xem bảngChẩn đoán Phân biệt Giả thuyết và Xác suất Trước Kiểm tra và Sau Kiểm tra).Các bác sĩ thường sử dụng thuật ngữ mơ hồ như "rất có khả năng", "không thể xảy ra" và "không thể loại trừ" để mô tả khả năng mắc bệnh. Cả bác sĩ lâm sàng và bệnh nhân đều có thể hiểu sai các thuật ngữ bán định lượng như vậy; Thuật ngữ thống kê rõ ràng nên được sử dụng thay thế, nếu và khi có sẵn. Tính toán toán học có thể hỗ trợ việc ra quyết định lâm sàng và thậm chí khi không có số liệu chính xác, vẫn có thể xác định tốt hơn các khả năng lâm sàng. Tuy nhiên, "con số" cụ thể chỉ được tạo ra từ một phần nhỏ tổng số bệnh nhân lâm sàng và do đó vẫn chỉ là ước tính.Xác suất và tỷ suấtTỷ lệ mắccủa bệnh (hoặc biến cố) xảy ra ở bệnh nhân có thông tin lâm sàng chưa được biết rõ chính là tần số xuất hiện bệnh hoặc biến cố đó trong quần thể. Tỷ lệ này dao động từ 0,0 (không thể) đến 1,0 (chắc chắn) và thường được biểu diễn dưới dạng phần trăm (từ 0 đến 100). Bệnh xảy ra ở 2 trong 10 bệnh nhân có tỷ lệ mắc là 2/10 (0,2 hoặc 20%). Làm tròn các xác suất rất nhỏ thành 0, do đó loại trừ mọi khả năng mắc bệnh (đôi khi được thực hiện trong lý luận lâm sàng ngầm), có khả năng gây hiểu lầm.Tỷ lệđại diện cho tỷ số giữa nhóm bệnh nhân bị ảnh hưởng và nhóm bệnh nhân không bị ảnh hưởng (hay tỉ số giữa nhóm có bệnh và nhóm không có bệnh). Do đó, một bệnh xảy ra ở 2 trong 10 bệnh nhân (xác suất 2/10) có tỷ lệ 2/8 (0,25, thường được biểu diễn là 1-4). Tỷ lệ (Ω) và xác suất (p) có thể được chuyển đổi sang dạng khác, như trongΩ=p/(1−p) hoặc p=Ω/(1+Ω).Công cụ tính toán lâm sàngTỷ lệ từ Xác suấtCông cụ tính toán lâm sàngXác suất từ Tỷ lệ
+
+--- 2. Thử nghiệm Giả thuyết ---
+
+Chẩn đoán phân biệt ban đầu dựa trên triệu chứng chính và nhân khẩu học thường lớn, do đó, bác sĩ lâm sàng trước tiên tạo ra và lọc các khả năng giả định bằng cách thu thập tiền sử chi tiết và thực hiện khám thực thể trực tiếp để hỗ trợ hoặc bác bỏ các chẩn đoán nghi ngờ. Ví dụ: ở bệnh nhân bị đau ngực, tiền sử đau chân và chân bị sưng, ấn đau được phát hiện trong khi khám sẽ làm tăng khả năng bịthuyên tắc động mạch phổi.Khi tiền sử và khám thực thể hình thành một mô hình dễ nhận biết, một chẩn đoán sơ bộ được đưa ra. Bước đầu tiên, tiền sử bệnh nhân đóng vai trò quan trọng trong việc hình thành giả thuyết chẩn đoán, dẫn đến việc khám thực thể tập trung hỗ trợ hoặc bác bỏ giả thuyết đó và giúp thiết lập khả năng chẩn đoán trước khi xét nghiệm (1).Xét nghiệm chẩn đoán được sử dụng khi đã khám lâm sàng và hỏi bệnh sử vẫn còn nghi ngờ, đặc biệt là khi các bệnh chẩn đoán phân biệt là bệnh nghiêm trọng, có phương pháp điều trị mang tính nguy cơ cao và chi phí cao. Kết quả xét nghiệm tiếp tục làm thay đổi xác suất của các chẩn đoán khác nhau (xác xuất sau xét nghiệm). Ví dụ: bảngChẩn đoán phân biệt giả định và Xác suất xét nghiệm trước và saucho thấy các dấu hiệu bổ sung về bệnh nhân giả định bị đau và sưng chân và điện tâm đồ cùng phim chụp X-quang ngực bình thường làm thay đổi xác suất chẩn đoán – xác suất mắchội chứng vành cấp,phình tách động mạch chủ ngựcvàtràn khí màng phổigiảm, còn xác suất mắc thuyên tắc động mạch phổi tăng. Những thay đổi về khả năng này có thể dẫn đến các kiểm tra bổ sung (trong ví dụ này, có thể là chụp CT động mạch ngực) giúp sửa đổi thêm khả năng sau xét nghiệm và trong một số trường hợp, xác nhận hoặc bác bỏ chẩn đoán.Có thể trực quan rằng tổng của xác suất của tất cả các khả năng chẩn đoán nên bằng gần 100% và rằng một chẩn đoán có thể được bắt nguồn từ tổ hợp một loạt các triệu chứng và dấu hiệu. Tuy nhiên, việc áp dụng nguyên lý Occam's razor khi cho rằng tốt nhất nên sử dụng một nguyên nhân duy nhất để giải thích cho một loạt các tình huống phức tạp có thể khiến các bác sĩ lâm sàng bị lạc lối. Áp dụng cứng nhắc nguyên lý này làm giảm khả năng bệnh nhân có thể đang mắc nhiều hơn một bệnh. Ví dụ: một bệnh nhân khó thở có tiền sử mắcbệnh phổi tắc nghẽn mạn tính(COPD) có thể được cho là đang bị đợt cấp của COPD nhưng cũng có thể bịthuyên tắc động mạch phổihoặcsuy tim.BảngChẩn đoán phân biệt giả định và xác suất tiền xét nghiệm và hậu xét nghiệm cho cơn đau ngực ở người 50 tuổi bị tăng huyết áp và tiểu đường, có hút thuốc láBảngChẩn đoán phân biệt giả định và xác suất tiền xét nghiệm và hậu xét nghiệm cho cơn đau ngực ở người 50 tuổi bị tăng huyết áp và tiểu đường, có hút thuốc láChẩn đoán phân biệt giả định và xác suất tiền xét nghiệm và hậu xét nghiệm cho cơn đau ngực ở người 50 tuổi bị tăng huyết áp và tiểu đường, có hút thuốc láChẩn đoánXác suất trước xét nghiệmXác suất sau thử nghiệm I (dấu hiệu bổ sung về đau chân, sưng và điện tâm đồ và chụp X-quang ngực bình thường)Xác suất sau thử nghiệm II (chụp mạch CT phát hiện tổn thương và nồng độ Troponin T trong máu bình thường)Hội chứng vành cấp40%28%1%Nhồi máu cơ tim ST chênh20%<1%<1%Đau thành ngực30%20%<1%Thuyên tắc động mạch phổi5%50%98%Tách thành động mạch chủ<3%<1%<1%Tràn khí màng phổi tiên phát<2%<1%<1%Tài liệu tham khảo về thử nghiệm giả thuyết1.Garibaldi BT, Olson APJ: The Hypothesis-Driven Physical Examination.Med Clin North Am. 2018;102(3):433-442. doi:10.1016/j.mcna.2017.12.005
+
+--- 3. Xác suất ước tính và ngưỡng xét nghiệm ---
+
+Ngay cả khi chẩn đoán là không chắc chắn, xét nghiệm không phải lúc nào cũng có ích. Chỉ nên thực hiện xét nghiệm nếu kết quả của nó ảnh hưởng tới việc điều trị. Khi xác suất bệnh trước xét nghiệm trên ngưỡng nhất định, việc điều trị được bảo đảm (ngưỡng điều trị) và có thể không cần chỉ định xét nghiệm.Dưới ngưỡng điều trị, xét nghiệm được chỉ định khi kết quả xét nghiệm dương tính sẽ nâng xác suất sau xét nghiệm lêntrênngưỡng điều trị. Xác suất tiền kiểm tra thấp nhất mà điều này có thể xảy ra phụ thuộc vào đặc điểm kiểm tra và được gọi làngưỡng kiểm tra.
+
+--- 4. Xác suất ước tính và ngưỡng điều trị ---
+
+Ngưỡng điều trị là ngưỡng nếu xác suất bằng hoặc lớn hơn điểm này, điều trị sẽ được đưa ra không cần thực hiện thêm bất cứ xét nghiệm nào khác.Ví dụ, ở giả định trên, bệnh nhân bị đau ngực đã hội tụ gần như đầy đủ một chẩn đoán xác định (xác suất 98%). Khi chẩn đoán bệnh được cho là chắc chắn, quyết định điều trị là xác định trực tiếp xem việc điều trị có mang lại lợi ích hay không (so với việc không điều trị và tính đến các tác dụng bất lợi có khả năng xảy ra của điều trị). Khi chẩn đoán có một mức độ không chắc chắn, như hầu hết mọi trường hợp, quyết định điều trị cũng phải cân bằng giữa lợi ích của việc điều trị một người bệnh với nguy cơ điều trị sai một người khỏe mạnh hoặc một người mắc chứng rối loạn khác; lợi ích và nguy cơ bao gồm các hậu quả về tài chính, xã hội và y tế. Sự cân bằng này phải tính đến khả năng mắc bệnh và mức độ lợi ích và nguy cơ. Sự cân bằng này chính là điểm xác định đặt ngưỡng điều trị. Quyết định điều trị cuối cùng phải bao gồm sở thích của bệnh nhân bất cứ khi nào có thể xác định được.Ngọc trai & cạm bẫyKhi có sự không chắc chắn về chẩn đoán, quyết định điều trị phải cân bằng giữa lợi ích của việc điều trị cho người bệnh có chẩn đoán được đưa ra với nguy cơ khi điều trị nhầm cho người khỏe mạnh hoặc người bị bệnh lý khác.Về mặt khái niệm, nếu lợi ích của việc điều trị rất cao và nguy cơ rất thấp (như khi kê đơn thuốc kháng sinh an toàn cho bệnh nhân tiểu đường có khả năng bị nhiễm trùng đe dọa tính mạng), các bác sĩ lâm sàng có xu hướng chấp nhận mức độ không chắc chắn cao trong chẩn đoán và có thể bắt đầu điều trị ngay cả khi khả năng nhiễm trùng khá thấp (ví dụ: 30% – xem hìnhThay đổi ngưỡng điều trị (TT) khi có nguy cơ của điều trị). Tuy nhiên, khi nguy cơ điều trị là rất cao (như khi thực hiện phẫu thuật cắt phổi trong ung thư phổi), bác sĩ lâm sàng muốn chắc chắn về chẩn đoán và chỉ nên điều trị khi xác suất ung thư là rất cao,>95% (xemhình). Lưu ý rằng ngưỡng điều trị không nhất thiết phải tương ứng với xác suất đoán xác định hoặc loại trừ bệnh. Nó chỉ đơn giản là ngưỡng mà tại đó nguy cơ không điều trị lớn hơn nguy cơ điều trị.Biến thể của ngưỡng điều trị (TT) khi có nguy cơ của điều trịCác đường ngang thể hiện xác suất sau kiểm định.Về mặt số lượng, ngưỡng điều trị có thể được mô tả dưới dạng điểm mà tại đó xác suất mắc bệnh (p) x lợi ích của việc điều trị bệnh (B) = xác zuất không bệnh (1−p) x nguy cơ khi điều trị nhầm người không bệnh (R). Như vậy, tại ngưỡng điều trịp×B=(1−p)×RGiải phương trình p, phương trình này trở thànhp=R/(B+R)Từ phương trình này, rõ ràng là nếu B (lợi ích) và R (nguy cơ) bằng nhau, thì ngưỡng điều trị trở thành 1/(1+1)=0,5, có nghĩa là khi xác suất bệnh>50%, bác sĩ lâm sàng sẽ điều trị, và khi xác suất<50%, bác sĩ lâm sàng sẽ không điều trị.Cùng xem xét một ví dụ lâm sàng, với bệnh nhân bị đau ngực. Khả năng lâm sàng của nhồi máu cơ tim (MI) cấp nên cao bao nhiêu trước khi điều trị tiêu huyết khối, giả sử nguy cơ duy nhất được xem xét là tử vong ngắn hạn? Nếu giả định (ví dụ minh hoạ) rằng tử vong do xuất huyết nội sọ trong liệu pháp tiêu huyết khối là 1%, thì 1% là R, tỷ lệ tử vong do nhầm lẫn điều trị một bệnh nhân không bị nhồi máu cơ tim. Nếu với điều trị tiêu huyết khối, tỉ lệ tử vong do nhồi máu cơ tim giảm 3% so với không điều trị thì 3% là B. Sau đó, TT là 1/(3+1), hoặc 25%; do đó, cần chỉ định điều trị cnếu xác suất của MI cấp tính là>25%.Ngoài ra, phương trình TT có thể được sắp xếp lại để cho thấy rằng TT là điểm mà tại đó tỷ lệ mắc bệnh p/(1−p) bằng tỷ lệ rủi ro: lợi ích (R/B). Kết quả tính toán tương tự cũng thu được như trong ví dụ đã mô tả trước đây, với ngưỡng điều trị xuất hiện ở tỷ lệ rủi ro: tỷ lệ lợi ích (1/3); Tỷ lệ 1/3 tương ứng với xác suất thu được trước đây là 25% (xemxác suất và tỷ lệ).Hạn chế của các phương pháp quyết định định lượngViệc ra quyết định lâm sàng định lượng có vẻ chính xác, nhưng bởi vì nhiều yếu tố trong tính toán thường không chính xác (xác suất trước kiểm tra), ngoại trừ các tình huống lâm sàng được định nghĩa rõ và nghiên cứu kỹ lưỡng, phương pháp này rất khó áp dụng trong tất cả các tình huống lâm sàng còn lại. Ngoài ra, triết lý của bệnh nhân liên quan đến chăm sóc y tế (tức là chấp nhận nguy cơ và sự không chắc chắn) cũng cần được tính đến trong quá trình ra quyết định chung. Ví dụ: mặc dù các hướng dẫn lâm sàng không khuyến nghị bắt đầu liệu trình dùng thuốc hạ urat suốt đời sau cơngútđầu tiên, một số bệnh nhân vẫn muốn bắt đầu điều trị ngay lập tức vì họ thực sự muốn tránh cơn gút thứ hai.

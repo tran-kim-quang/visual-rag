@@ -1,0 +1,785 @@
+TIÊU ĐỀ: Điện tâm đồ
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/các-xét-nghiệm-và-thủ-thuật-tim-mạch/điện-tâm-đồ
+================================================================================
+
+NỘI DUNG:
+
+Điện tâm đồ
+
+(ECG, EKG)
+
+Theo
+
+Thomas Cascino
+
+,
+
+MD, MSc
+
+,
+
+Michigan Medicine, University of Michigan;
+
+Michael J. Shea
+
+,
+
+MD
+
+,
+
+Michigan Medicine at the University of Michigan
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v931419_vi
+
+Các thành phần sóng của Điện tâm đồ thường quy
+
+|
+
+Điện tâm đồ chuyên sâu
+
+|
+
+Thông tin thêm
+
+|
+
+Điện tâm đồ (ECG) tiêu chuẩn cung cấp 12 góc nhìn khác nhau xung quanh quả tim nhờ cách bố trí 12 điện cực tạo ra 12 vector khác nhau quanh tim. Các vector này phản ánh sự chênh lệch điện thế giữa các điện cực dương và điện cực âm đặt ở các chi và trên thành ngực. Sáu chuyển đạo trong số đó nhìn vào tim theo mặt phẳng đứng dọc (DI, DII, DIII, aVR, aVL, aVF) và 6 chuyển đạo nhìn theo mặt phẳng cắt ngang (sử dụng các chuyển đạo trước tim V1, V2, V3, V4, V5, và V6). Điện tâm đồ 12 chuyển đạo rất quan trọng trong chẩn đoán nhiều bệnh tim mạch (Xem bảng
+
+Giải thích các ECG bất thường
+
+), bao gồm
+
+Loạn nhịp tim
+
+Giãn tâm nhĩ
+
+Các tình trạng dẫn đến ngất hoặc đột tử (ví dụ,
+
+hội chứng Brugada
+
+,
+
+hội chứng QT dài
+
+,
+
+hội chứng Wolff-Parkinson-White
+
+)
+
+Thiếu máu cơ tim
+
+Phì đại tâm thất (Xem bảng:
+
+Tiêu chuẩn chẩn đoán Điện tâm đồ của phì đại thất trái
+
+)
+
+Để hiểu thêm về cách phân tích điện tâm đồ, xem Chương
+
+Tổng quan về loạn nhịp tim
+
+và
+
+Điện tâm đồ trong Hội chứng Động mạch vành cấp
+
+. Đại học Utah đã xuất bản một cuốn sách Hướng dẫn đọc Điện tâm đồ ("
+
+useful ECG tutorial
+
+").
+
+Bảng
+
+Phân tích Điện tâm đồ bất thường
+
+Bảng
+
+Phân tích Điện tâm đồ bất thường
+
+Phân tích Điện tâm đồ bất thường
+
+Thành phần bất thường
+
+Mô tả
+
+Nguyên nhân có thể
+
+Sóng P
+
+Khác thường
+
+Phì đại nhĩ trái hoặc nhĩ phải, ngoại tâm thu nhĩ
+
+Sóng P
+
+Vắng mặt
+
+Rung nhĩ
+
+, ngừng xoang hoặc nghẽn dẫn truyền ra,
+
+tăng kali máu
+
+(nặng)
+
+Khoảng P-P
+
+Thay đổi
+
+Loạn nhịp xoang
+
+Khoảng PR
+
+Dài
+
+Block nhĩ thất cấp 1
+
+Khoảng PR
+
+Thay đổi
+
+Block nhĩ thất Mobitz type I
+
+, nhịp nhanh nhĩ đa ổ
+
+Phức bộ QRS
+
+Rộng
+
+Nghẽn dẫn truyền nhánh phải hoặc trái
+
+, cuồng thất hoặc
+
+rung thất
+
+, tăng kali máu
+
+Khoảng QT
+
+Dài
+
+Nhồi máu cơ tim
+
+,
+
+viêm cơ tim
+
+,
+
+bệnh cơ tim giãn
+
+,
+
+hạ canxi máu
+
+,
+
+hạ kali máu
+
+,
+
+hạ magie máu
+
+,
+
+suy giáp
+
+,
+
+xuất huyết dưới nhện hoặc xuấy huyết nội sọ
+
+,
+
+đột quỵ
+
+,
+
+hội chứng QT dài bẩm sinh
+
+, thuốc chống loạn nhịp (như sotalol, amiodarone, quinidine), thuốc chống trầm cảm ba vòng, phenothiazines, các thuốc khác
+
+Khoảng QT
+
+Ngắn
+
+Tăng canxi huyết
+
+,
+
+tăng magie máu
+
+,
+
+bệnh Graves
+
+, digoxin
+
+Đoạn ST
+
+Trầm cảm
+
+Thiếu máu cơ tim; nhồi máu cơ tim sau cấp tính; digoxin; phì đại tâm thất;
+
+thuyên tắc mạch phổi
+
+; block nhánh trái ở chuyển đạo V5–V6 và có thể ở I và aVL; block nhánh phải ở chuyển đạo V1–V3 và có thể ở II, III, và aVF; tăng thông khí; hạ kali máu
+
+Đoạn ST
+
+Nâng cao chi (elevation)
+
+Thiếu máu cơ tim, nhồi máu cơ tim cấp, nghẽn dẫn truyền nhánh trái thấy ở chuyển đạo V1−V3 và có thể ở chuyển đạo DII, DIII, và aVF,
+
+viêm màng ngoài tim
+
+cấp, phì đại thất trái, tăng kali máu, tắc động mạch phổi, digoxin, biến đổi bình thường (ví dụ
+
+tim của vận động viên
+
+),
+
+hạ thân nhiệt
+
+Sóng T
+
+Cao
+
+Tăng kali máu, nhồi máu cơ tim cấp, nghẽn dẫn truyền nhánh trái, đột quỵ, phì đại tâm thất
+
+Sóng T
+
+Nhỏ, dẹt hoặc đảo chiều
+
+Thiếu máu cơ tim, viêm cơ tim, tuổi cao, chủng tộc, tăng thông khí, lo lắng, dùng đồ uống nóng hoặc lạnh, phì đại thất trái, một số thuốc nhất định (ví dụ digoxin), viêm màng ngoài tim, tắc động mạch phổi, rối loạn dẫn truyền (ví dụ, nghẽn dẫn truyền nhánh phải), rối loạn điện giải (ví dụ, hạ kali máu), bệnh cơ tim do stress
+
+Sóng U
+
+Nổi bật
+
+Hạ kali máu, hạ magie máu, thiếu máu cục bộ cơ tim
+
+Bảng
+
+Tiêu chuẩn chẩn đoán Điện tâm đồ của phì đại thất trái
+
+Bảng
+
+Tiêu chuẩn chẩn đoán Điện tâm đồ của phì đại thất trái
+
+Tiêu chuẩn chẩn đoán Điện tâm đồ của phì đại thất trái
+
+Tiêu chí
+
+Dấu hiệu
+
+Điểm
+
+Cornell
+
+Nam giới: Sóng S ở V3
+
++
+
+sóng R ở aVL
+
+>
+
+28 mm
+
+Không có
+
+Phụ nữ: Sóng S ở V3
+
++
+
+sóng R ở aVL
+
+>
+
+20 mm
+
+Không có
+
+Romhilt-Estes (5 điểm
+
+=
+
+xác định phì đại thất trái; 4 điểm
+
+=
+
+có thể)
+
+Sóng R hoặc S
+
+≥
+
+20 mm ở bất kỳ chuyển đạo ngoại biên nào
+
+hoặc là
+
+Sóng S ở V1 hoặc V2
+
+≥
+
+30 mm
+
+hoặc là
+
+Sóng R ở V5 hoặc V6
+
+≥
+
+30 mm
+
+3:
+
+ST-T thay đổi điển hình của phì đại thất trái
+
+—
+
+Digoxin
+
+1:
+
+Không có digoxin
+
+3:
+
+Thay đổi tâm nhĩ trái: Sóng P khổng lồ ở V1, biên độ
+
+≥
+
+1 mm và thời gian
+
+≥
+
+0,04 giây
+
+3:
+
+Độ lệch trục trái
+
+≥
+
+−
+
+30°
+
+2:
+
+Thời gian QRS
+
+≥
+
+90 mili giây
+
+1:
+
+Khoảng thời gian từ khởi đầu QRS tới đỉnh sóng R ở V5 hoặc V6
+
+≥
+
+0,05 giây
+
+1:
+
+Sokolow-Lyon
+
+Sóng S ở V1
+
++
+
+Sóng R ở V5 hoặc V6
+
+≥
+
+35 mm
+
+hoặc là
+
+sóng R ở aVL
+
+≥
+
+11 mm
+
+Không có
+
+ECG = Điện tâm đồ; LVH
+
+=
+
+phì đại thất trái.
+
+ECG = Điện tâm đồ; LVH
+
+=
+
+phì đại thất trái.
+
+Hệ thống dẫn truyền tim
+
+Mô hình 3D
+
+Công cụ tính toán lâm sàng
+
+Tiêu chuẩn Romhilt-Estes chẩn đoán phì đại thất trái
+
+Các thành phần sóng của Điện tâm đồ thường quy
+
+Điện tâm đồ bao gồm sóng P, khoảng PR, phức QRS, khoảng QT, đoạn ST, sóng T và sóng U (xem hình
+
+Sóng điện tâm đồ
+
+).
+
+Các sóng của Điện tâm đồ (ECG)
+
+Sóng P
+
+=
+
+hoạt hóa (khử cực) tâm nhĩ. Khoảng PR
+
+=
+
+khoảng thời gian từ khi khởi đầu khử cực nhĩ cho đến khi bắt đầu khử cực thất. Phức bộ QRS
+
+=
+
+sự khử cực của tâm thất, bao gồm các sóng Q, R, và S. Khoảng QT
+
+=
+
+khoảng thời gian từ khi bắt đầu khử cực tâm thất cho đến khi kết thúc tái cực tâm thất. Khoảng R-R
+
+=
+
+khoảng thời gian giữa 2 phức bộ QRS. Sóng T
+
+=
+
+tái cực tâm thất. Đoạn ST cộng với sóng T (ST-T)
+
+=
+
+tái cực tâm thất. Sóng U
+
+=
+
+có thể là hậu khử cực tâm thất (giai đoạn tâm trương thất trái).
+
+Sóng P
+
+Sóng P biểu hiện sự khử cực ở tâm nhĩ. Sóng P dương ở hầu hết các chuyển đạo, trừ aVR. Sóng P có thể hai pha ở chuyển đạo DII và V1; trong đó, pha đầu tiên biểu thị khử cực tâm nhĩ phải, và pha thứ 2 đại diện cho khử cực của tâm nhĩ trái.
+
+Sự tăng biên độ của một hoặc cả hai thành phần xảy ra khi giãn tâm nhĩ. Giãn nhĩ phải tạo ra sóng P
+
+>
+
+2 mm ở chuyển đạo DII, DIII, và aVF (P phế); giãn nhĩ trái tạo ra sóng P rộng và hai đỉnh ở chuyển đạo DII (P hai lá). Thông thường, trục sóng P nằm giữa 0
+
+°
+
+và 75
+
+°
+
+.
+
+Khoảng PR
+
+Khoảng PR là thời gian từ khi bắt đầu khử cực tâm nhĩ cho đến khi bắt đầu khử cực thất. Thông thường, thời gian này là 0,10 đến 0,20 giây. Khi PR > 0,2 giây, được gọi là block nhĩ thất độ 1.
+
+Phức bộ QRS
+
+Phức bộ QRS biểu hiện sự khử cực thất.
+
+Sóng Q bình thường dài
+
+<
+
+0,05 giây ở mọi chuyển đạo, trừ V1 đến V3, Sóng Q xuất hiện ở V1 đến V3 là bất thường, biểu hiện tiền sử hoặc hiện tại đang có nhồi máu cơ tim.
+
+Không có tiêu chuẩn về độ cao và độ rộng một cách tuyệt đối cho sóng R nhưng nói chung khi gặp sóng R cao, có thể là biểu hiện của phì đại thất trái. Thành phần dương thứ 2 nếu có của phức bộ QRS được gọi là sóng R
+
+′
+
+.
+
+Sóng S là sóng âm thứ 2 của phức bộ QRS (nếu trước đó có một sóng Q) hoặc là sóng âm thứ 1 nếu trước đó không có sóng Q nào.
+
+Các hình dạng khác của phức bộ QRS: sóng R đơn dạng, sóng dạng QS (nếu không có sóng R nào), dạng QR (nếu không có sóng S), dạng RS (nếu không có Q), hoặc dạng RSR
+
+′
+
+. Các dạng sóng này tùy thuộc vào chuyển đạo điện tim, vector và bệnh lý rối loạn nhịp.
+
+Thông thường, thời gian QRS là 0,07 đến 0,10 giây. Thời gian QRS từ 0,10 đến 0,11 giây được coi là nghẽn dẫn truyền nhánh không hoàn toàn hoặc chậm trễ dẫn truyền trong thất không đặc hiệu, tùy thuộc vào hình thái QRS. Thời gian QRS
+
+≥
+
+0,12 giây được xem là nghẽn dẫn truyền bó nhánh hoàn toàn hoặc chậm trễ dẫn truyền trong thất.
+
+Thông thường, trục QRS trong khoảng 90
+
+°
+
+đến -30
+
+°
+
+. Trục QRS từ -30
+
+°
+
+đến -90
+
+°
+
+được gọi là trục trái và có thể gặp ở nghẽn dẫn truyền phân nhánh trái trước (-60
+
+°
+
+) và nhồi máu cơ tim thành dưới.
+
+Trục QRS từ 90
+
+°
+
+đến 180
+
+°
+
+được gọi là trục phải. Trục phải có thể gặp ở các bệnh lý gây tăng áp lực động mạch phổi và phì đại thất phải (tâm phế mạn, tắc động mạch phổi cấp, tăng áp lực động mạch phổi). Đôi khi có thể gặp trục phải trong nghẽn dẫn truyền nhánh phải hoặc nghẽn dẫn truyền phân nhánh trái sau.
+
+Khoảng QT
+
+Khoảng QT là khoảng thời gian từ khi bắt đầu khử cực tâm thất cho đến khi kết thúc tái cực tâm thất. Khoảng QT phải được hiệu chỉnh theo tần số tim bằng công thức:
+
+QTc là khoảng QT được hiệu chỉnh. Khoảng R-R là thời gian giữa 2 phức hợp QRS. Tất cả các khoảng thời gian được tính theo đơn vị giây. Khoảng QTc bình thường ở người lớn là 350 đến 450 mili giây ở nam và 360 đến 460 mili giây ở nữ. QTc dài có liên quan mật thiết đến sự xuất hiện
+
+xoắn đỉnh
+
+. QTc thường khó xác định vì điểm kết thúc của sóng T thường không rõ ràng hoặc liên tiếp bởi sóng U. Nhiều loại thuốc có liên quan đến kéo dài khoảng QT (xem
+
+CredibleMeds
+
+).
+
+Công cụ tính toán lâm sàng
+
+Hiệu chỉnh khoảng QT (Điện tâm đồ)
+
+Đoạn ST
+
+Đoạn ST thể hiện rằng quá trình khử cực cơ tim tâm thất đã hoàn thành. Thông thường, đoạn ST nằm ngang đồng mức với đường đẳng điện như khoảng PR (hoặc TP). Đôi khi nó hơi cao hơn đường đẳng điện một chút.
+
+ST chênh lên
+
+có thể là do
+
+Tái cực sớm
+
+Phì đại tâm thất
+
+Thiếu máu cục bộ cơ tim và nhồi máu cơ tim
+
+Phình thành thất trái
+
+Viêm màng ngoài tim
+
+Tăng kali máu
+
+Hạ thân nhiệt
+
+Thuyên tắc động mạch phổi
+
+ST chênh xuống
+
+có thể là do
+
+Hạ kali máu
+
+Digoxin
+
+Thiếu máu cơ tim dưới nội tâm mạc
+
+Biến đổi soi gương ở một số chuyển đạo trong nhồi máu cơ tim cấp
+
+Sóng T
+
+Sóng T biểu hiện sự tái cực tâm thất. Sóng T thường dương hoặc âm cùng chiều với QRS cùng chuyển đạo. Nếu sóng T đảo chiều so với QRS, nó có thể gợi ý thiếu máu cơ tim trong tiền sử hoặc hiện tại. Khi tăng kali máu, hạ canxi máu và phì đại thất trái, sóng T cao và có đỉnh nhọn.
+
+Sóng U
+
+Sóng U thường xuất hiện ở những bệnh nhân bị hạ kali máu, hạ magne máu hoặc thiếu máu cục bộ cơ tim. Sóng U cũng thường gặp ở người khỏe mạnh.
+
+Điện tâm đồ chuyên sâu
+
+Điện tâm đồ 12 chuyển đạo thường quy chỉ biểu thị hoạt động của tim ở duy nhất thời điểm ghi điện tim.
+
+Các chuyển đạo trước tim bổ sung
+
+Các đạo trình trước tim bổ sung được sử dụng để giúp chẩn đoán
+
+Nhồi máu thất phải
+
+Nhồi máu thành sau
+
+Các chuyển đạo trước tim phải
+
+được mắc ở ngực phải, đối diện với các chuyển đạo thường quy qua xương ức. Chúng được đặt tên từ V1R để V6R. Đôi khi người ta chỉ mắc V4R vì nó là nhạy nhất trong phát hiện nhồi máu cơ tim thất phải.
+
+Các chuyển đạo bổ sung bên tim trái
+
+được mắc trên mặt phẳng ngang mức với V4, V5, V6. Đó là V7 ở đường nách sau, V8 ở đường giữa xương bả vai và V9 ở sát bờ trái của cột sống. Các chuyển đạo thành sau này ít khi dùng đến nhưng nó có giá trị trong chẩn đoán chính xác nhồi máu cơ tim thành sau.
+
+Chuyển đạo thực quản
+
+Chuyển đạo thực quản có vị trí gần tâm nhĩ hơn so với các chuyển đạo mắc trên thành ngực. Chuyển đạo thực quản được dùng đến khi khó xác định sóng P trên điện tâm đồ thường quy và nhất là khi việc xác định có hoạt động khử cực ở tâm nhĩ hay không rất quan trọng. Ví dụ như trong trường hợp cần phân biệt tim nhanh QRS giãn rộng có nguồn gốc từ trên thất hay từ thất và trong trường hợp cần xác định rõ sự phân ly nhĩ - thất. Chuyển đạo thực quản cũng có thể được dụng để theo dõi tình trạng thiếu máu cơ tim trong lúc phẫu thuật hoặc dùng để xác định hoạt động điện của tâm nhĩ trong khi thực hiện thủ thuật làm liệt tim để mổ. Khi làm chuyển đạo thực quản, ta sẽ đưa một dây điện cực qua miệng vào thực quản và kết nối dây điện cực này với một máy ghi điện tim thường quy.
+
+Điện tâm đồ tín hiệu trung bình
+
+Ghi tín hiệu điện trung bình của phức bộ QRS sẽ giúp phát hiện các sóng tần số cao, điện thế thấp và các dòng vi điện ở phần cuối của phức bộ QRS. Các kết quả sóng này có thể giúp ta phát hiện ra các vùng cơ tim có dẫn truyền chậm - là nguyên nhân góp phần xuất hiện vòng vào lại dẫn đến tim nhanh thất.
+
+Điện tâm đồ tín hiệu trung bình tuy vẫn còn đang được nghiên cứu nhưng trong một số trường hợp nó giúp ta lượng giá nguy cơ đột tử do tim (ví dụ ở những bệnh nhân có sẵn bệnh tim mạch đáng kể). Phương pháp ghi điện tim này có giá trị nhất trong việc xác định đâu là những bệnh nhân có nguy cơ đột tử do tim
+
+thấp
+
+. Hiện tại nó chưa có giá trị trong việc xác định nhóm bệnh nhân có nguy cơ đột tử do tim
+
+cao
+
+.
+
+Loại ghi điện tim này cũng đang được nghiên cứu trong nhiều bệnh lý tim mạch khác nhau như sau nhồi máu cơ tim, bệnh cơ tim, Hội chứng Brugada, phình vách thất và đánh giá hiệu quả của phẫu thuật trong điều trị rối loạn nhịp. Kỹ thuật này cũng có thể hữu ích cho việc đánh giá tác động tiền loạn nhịp của thuốc chống loạn nhịp và để phát hiện sự thải ghép tim.
+
+Tín hiệu trung bình của sóng P đang được nghiên cứu trong việc xác định những bệnh nhân có nguy cơ bị rung nhĩ.
+
+Theo dõi liên tục đoạn ST
+
+Loại theo dõi này được sử dụng để phát hiện sớm chứng thiếu máu cơ tim cục bộ và loạn nhịp nghiêm trọng. Việc theo dõi này có thể là tự động hóa (nhờ việc sử dụng các thiết bị chuyên dụng) hoặc được thực hiện nhờ việc ghi điện tâm đồ thường quy nhiều lần. Ứng dụng của kỹ thuật này bao gồm theo dõi các bệnh nhân đau thắt ngực ở phòng cấp cứu, theo dõi bệnh nhân sau can thiệp động mạch vành qua da, theo dõi trong và sau phẫu thuật.
+
+Khác biệt QT
+
+Sự khác biệt QT giữa khoảng QT dài nhất và ngắn nhất trên điện tim 12 chuyển đạo đã được đề xuất để đánh giá sự không đồng nhất trong tái cực cơ tim. Sự khác biệt QT gia tăng (≥ 100 mili giây) cho thấy sự hoạt động điện học không đồng nhất của cơ tim gây ra bới thiếu máu hoặc xơ hóa cơ tim, làm tăng nguy cơ tạo vòng vào lại gây loạn nhịp hoặc đột tử. Sự khác biệt QT giúp dự đoán nguy cơ tử vong nhưng ít khi được áp dụng do sai số trong đo đạc là rất thường gặp, có nhiều khoảng chồng lấn khi nhận định giá trị ở những bệnh nhân có hoặc không có bệnh, không có tiêu chuẩn tham chiếu và còn vì đã có nhiều phương pháp giúp phân tầng nguy cơ đã được công nhận.
+
+Sự biến thiên của tần số tim
+
+Sự biến thiên của tần số tim phản ánh sự cân bằng giữa hoạt động thần kinh giao cảm và phó giao cảm tác động lên tim. Sự giảm tính biến thiên của tần số tim gợi ý rằng hoạt động phó giao cảm bị giảm sút và hoạt động giao cảm tăng hơn. Đây là nguy cơ xuất hiện rối loạn nhịp và tăng tỷ lệ tử vong. Phương pháp đo sự biến thiên tần số tim thường dùng là tính giá trị trung bình của độ lệch chuẩn của tất cả các khoảng R-R bình thường trên điện tâm đồ 24 chuyển đạo.
+
+Biến thiên nhịp tim được sử dụng chủ yếu trong nghiên cứu. Bằng chứng cho thấy rằng nó cung cấp thông tin hữu ích về rối loạn chức năng thất trái sau
+
+nhồi máu cơ tim
+
+,
+
+suy tim
+
+và
+
+bệnh cơ tim phì đại
+
+. Hầu hết
+
+các máy theo dõi Holter
+
+đều có phần mềm đo và phân tích sự thay đổi nhịp tim, nhưng tiện ích lâm sàng hiện chưa chắc chắn.
+
+Theo dõi Holter
+
+Theo dõi Holter là theo dõi liên tục và ghi lại điện tâm đồ trong 24 đến 48 giờ. Nó rất có giá trị trong việc chẩn đoán các rối loạn nhịp tim xuất hiện cách hồi và còn được dùng để phát hiện tăng huyết áp. Máy Holter nhỏ gọn, có thể mang theo người, cho phép bệnh nhân thực hiện các hoạt động hàng ngày một cách bình thường trong khi đeo máy. Bệnh nhân sẽ được yêu cầu ghi nhận ký triệu chứng trong thời gian đeo máy Holter để xem liệu có mối liên quan giữa triệu chứng với các biến cố rối loạn nhịp ghi nhận được trong Holter hay không. Holter không tự động cho kết quả chẩn đoán điện tâm đồ. Bác sĩ sẽ đọc, phân tích kết quả và đưa ra chẩn đoán sau khi tháo máy Holter cho bệnh nhân.
+
+Máy ghi biến cố tim
+
+Máy ghi biến cố tim được dùng tới 30 ngày và có thể giúp phát hiện các rối loạn nhịp mà có thể bị lỡ nếu sử dụng Holter theo dõi 24 giờ. Máy ghi có thể hoạt động liên tục hoặc ngoài ra cũng có chức năng được kích hoạt bởi bệnh nhân khi xuất hiện triệu chứng. Bộ nhớ máy cho phép lưu trữ thông tin trong khoảng vài giây đến vài phút trước và sau khi kích hoạt. Bệnh nhân có thể truyền dữ liệu điện tim qua điện thoại hoặc vệ tinh để được bác sĩ đọc. Một số máy ghi tự động truyền tải dữ liệu của các rối loạn nhịp nghiêm trọng. Nếu bệnh nhân có các triệu chứng nghiêm trọng (ví dụ, ngất) xuất hiện cách quãng trong khoảng thời gian
+
+>
+
+30 ngày, người ta có thể cấy máy ghi biến cố dưới da. Loại máy ghi này được điều khiển và thu thập dữ liệu thông qua nam châm từ tính kết nối với máy tính chủ. Tuổi thọ pin của máy ghi biến cố dưới da là một vài năm.
+
+Máy theo dõi ngoài da không dây
+
+Một lựa chọn khác để theo dõi nhịp điệu đơn kênh là một thiết bị nhỏ, dính, chống nước, không dây và dùng một lần đeo trên ngực. Một trong số các loại thiết bị này có khả năng liên tục ghi nhận nhịp tim lên đến 2 tuần. Một thiết bị khác có hoạt động tương tự như một máy ghi biến cố tim, trong đó bệnh nhân sẽ ấn nút trên thiết bị khi xuất hiện bất kỳ triệu chứng có thể liên quan đến loạn nhịp (như đánh trống ngực, chóng mặt) để ghi lại dữ liệu điện tim trong 45 giây trước thời điểm ấn nút cộng thêm 15 giây sau đó. Tuy nhiên, không giống với máy ghi biến cố tim, loại máy này không có tính năng báo cáo tự động trong thời gian thực.
+
+Đồng hồ thông minh có khả năng ECG
+
+Một số đồng hồ thông minh dành cho người tiêu dùng thực hiện đo ECG từ cổ tay. Đồng hồ thông minh có khả năng phát hiện chứng rối loạn nhịp tim trong thời gian thực và tính hữu dụng của loại đồng hồ thông minh trong lĩnh vực này đang được nghiên cứu.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+University of Utah ECG Learning Center
+
+: Provides an interactive tutorial on clinical electrocardiography
+
+CredibleMeds QTDrugs List
+
+: Provides information on drugs that are known or suspected to increase the risk of ventricular arrhythmias
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (ECG, EKG) ---
+
+TheoThomas Cascino,MD, MSc,Michigan Medicine, University of Michigan;Michael J. Shea,MD,Michigan Medicine at the University of MichiganXem xét bởiJonathan G. Howlett,MD,Cumming School of Medicine, University of CalgaryĐã xem xét/Đã chỉnh sửaThg 12 2023|đã sửa đổiThg 4 2025v931419_vi
+
+--- 2. Các thành phần sóng của Điện tâm đồ thường quy ---
+
+Điện tâm đồ bao gồm sóng P, khoảng PR, phức QRS, khoảng QT, đoạn ST, sóng T và sóng U (xem hìnhSóng điện tâm đồ).Các sóng của Điện tâm đồ (ECG)Sóng P=hoạt hóa (khử cực) tâm nhĩ. Khoảng PR=khoảng thời gian từ khi khởi đầu khử cực nhĩ cho đến khi bắt đầu khử cực thất. Phức bộ QRS=sự khử cực của tâm thất, bao gồm các sóng Q, R, và S. Khoảng QT=khoảng thời gian từ khi bắt đầu khử cực tâm thất cho đến khi kết thúc tái cực tâm thất. Khoảng R-R=khoảng thời gian giữa 2 phức bộ QRS. Sóng T=tái cực tâm thất. Đoạn ST cộng với sóng T (ST-T)=tái cực tâm thất. Sóng U=có thể là hậu khử cực tâm thất (giai đoạn tâm trương thất trái).Sóng PSóng P biểu hiện sự khử cực ở tâm nhĩ. Sóng P dương ở hầu hết các chuyển đạo, trừ aVR. Sóng P có thể hai pha ở chuyển đạo DII và V1; trong đó, pha đầu tiên biểu thị khử cực tâm nhĩ phải, và pha thứ 2 đại diện cho khử cực của tâm nhĩ trái.Sự tăng biên độ của một hoặc cả hai thành phần xảy ra khi giãn tâm nhĩ. Giãn nhĩ phải tạo ra sóng P>2 mm ở chuyển đạo DII, DIII, và aVF (P phế); giãn nhĩ trái tạo ra sóng P rộng và hai đỉnh ở chuyển đạo DII (P hai lá). Thông thường, trục sóng P nằm giữa 0°và 75°.Khoảng PRKhoảng PR là thời gian từ khi bắt đầu khử cực tâm nhĩ cho đến khi bắt đầu khử cực thất. Thông thường, thời gian này là 0,10 đến 0,20 giây. Khi PR > 0,2 giây, được gọi là block nhĩ thất độ 1.Phức bộ QRSPhức bộ QRS biểu hiện sự khử cực thất.Sóng Q bình thường dài<0,05 giây ở mọi chuyển đạo, trừ V1 đến V3, Sóng Q xuất hiện ở V1 đến V3 là bất thường, biểu hiện tiền sử hoặc hiện tại đang có nhồi máu cơ tim.Không có tiêu chuẩn về độ cao và độ rộng một cách tuyệt đối cho sóng R nhưng nói chung khi gặp sóng R cao, có thể là biểu hiện của phì đại thất trái. Thành phần dương thứ 2 nếu có của phức bộ QRS được gọi là sóng R′.Sóng S là sóng âm thứ 2 của phức bộ QRS (nếu trước đó có một sóng Q) hoặc là sóng âm thứ 1 nếu trước đó không có sóng Q nào.Các hình dạng khác của phức bộ QRS: sóng R đơn dạng, sóng dạng QS (nếu không có sóng R nào), dạng QR (nếu không có sóng S), dạng RS (nếu không có Q), hoặc dạng RSR′. Các dạng sóng này tùy thuộc vào chuyển đạo điện tim, vector và bệnh lý rối loạn nhịp.Thông thường, thời gian QRS là 0,07 đến 0,10 giây. Thời gian QRS từ 0,10 đến 0,11 giây được coi là nghẽn dẫn truyền nhánh không hoàn toàn hoặc chậm trễ dẫn truyền trong thất không đặc hiệu, tùy thuộc vào hình thái QRS. Thời gian QRS≥0,12 giây được xem là nghẽn dẫn truyền bó nhánh hoàn toàn hoặc chậm trễ dẫn truyền trong thất.Thông thường, trục QRS trong khoảng 90°đến -30°. Trục QRS từ -30°đến -90°được gọi là trục trái và có thể gặp ở nghẽn dẫn truyền phân nhánh trái trước (-60°) và nhồi máu cơ tim thành dưới.Trục QRS từ 90°đến 180°được gọi là trục phải. Trục phải có thể gặp ở các bệnh lý gây tăng áp lực động mạch phổi và phì đại thất phải (tâm phế mạn, tắc động mạch phổi cấp, tăng áp lực động mạch phổi). Đôi khi có thể gặp trục phải trong nghẽn dẫn truyền nhánh phải hoặc nghẽn dẫn truyền phân nhánh trái sau.Khoảng QTKhoảng QT là khoảng thời gian từ khi bắt đầu khử cực tâm thất cho đến khi kết thúc tái cực tâm thất. Khoảng QT phải được hiệu chỉnh theo tần số tim bằng công thức:QTc là khoảng QT được hiệu chỉnh. Khoảng R-R là thời gian giữa 2 phức hợp QRS. Tất cả các khoảng thời gian được tính theo đơn vị giây. Khoảng QTc bình thường ở người lớn là 350 đến 450 mili giây ở nam và 360 đến 460 mili giây ở nữ. QTc dài có liên quan mật thiết đến sự xuất hiệnxoắn đỉnh. QTc thường khó xác định vì điểm kết thúc của sóng T thường không rõ ràng hoặc liên tiếp bởi sóng U. Nhiều loại thuốc có liên quan đến kéo dài khoảng QT (xemCredibleMeds).Công cụ tính toán lâm sàngHiệu chỉnh khoảng QT (Điện tâm đồ)Đoạn STĐoạn ST thể hiện rằng quá trình khử cực cơ tim tâm thất đã hoàn thành. Thông thường, đoạn ST nằm ngang đồng mức với đường đẳng điện như khoảng PR (hoặc TP). Đôi khi nó hơi cao hơn đường đẳng điện một chút.ST chênh lêncó thể là doTái cực sớmPhì đại tâm thấtThiếu máu cục bộ cơ tim và nhồi máu cơ timPhình thành thất tráiViêm màng ngoài timTăng kali máuHạ thân nhiệtThuyên tắc động mạch phổiST chênh xuốngcó thể là doHạ kali máuDigoxinThiếu máu cơ tim dưới nội tâm mạcBiến đổi soi gương ở một số chuyển đạo trong nhồi máu cơ tim cấpSóng TSóng T biểu hiện sự tái cực tâm thất. Sóng T thường dương hoặc âm cùng chiều với QRS cùng chuyển đạo. Nếu sóng T đảo chiều so với QRS, nó có thể gợi ý thiếu máu cơ tim trong tiền sử hoặc hiện tại. Khi tăng kali máu, hạ canxi máu và phì đại thất trái, sóng T cao và có đỉnh nhọn.Sóng USóng U thường xuất hiện ở những bệnh nhân bị hạ kali máu, hạ magne máu hoặc thiếu máu cục bộ cơ tim. Sóng U cũng thường gặp ở người khỏe mạnh.
+
+--- 3. Điện tâm đồ chuyên sâu ---
+
+Điện tâm đồ 12 chuyển đạo thường quy chỉ biểu thị hoạt động của tim ở duy nhất thời điểm ghi điện tim.Các chuyển đạo trước tim bổ sungCác đạo trình trước tim bổ sung được sử dụng để giúp chẩn đoánNhồi máu thất phảiNhồi máu thành sauCác chuyển đạo trước tim phảiđược mắc ở ngực phải, đối diện với các chuyển đạo thường quy qua xương ức. Chúng được đặt tên từ V1R để V6R. Đôi khi người ta chỉ mắc V4R vì nó là nhạy nhất trong phát hiện nhồi máu cơ tim thất phải.Các chuyển đạo bổ sung bên tim tráiđược mắc trên mặt phẳng ngang mức với V4, V5, V6. Đó là V7 ở đường nách sau, V8 ở đường giữa xương bả vai và V9 ở sát bờ trái của cột sống. Các chuyển đạo thành sau này ít khi dùng đến nhưng nó có giá trị trong chẩn đoán chính xác nhồi máu cơ tim thành sau.Chuyển đạo thực quảnChuyển đạo thực quản có vị trí gần tâm nhĩ hơn so với các chuyển đạo mắc trên thành ngực. Chuyển đạo thực quản được dùng đến khi khó xác định sóng P trên điện tâm đồ thường quy và nhất là khi việc xác định có hoạt động khử cực ở tâm nhĩ hay không rất quan trọng. Ví dụ như trong trường hợp cần phân biệt tim nhanh QRS giãn rộng có nguồn gốc từ trên thất hay từ thất và trong trường hợp cần xác định rõ sự phân ly nhĩ - thất. Chuyển đạo thực quản cũng có thể được dụng để theo dõi tình trạng thiếu máu cơ tim trong lúc phẫu thuật hoặc dùng để xác định hoạt động điện của tâm nhĩ trong khi thực hiện thủ thuật làm liệt tim để mổ. Khi làm chuyển đạo thực quản, ta sẽ đưa một dây điện cực qua miệng vào thực quản và kết nối dây điện cực này với một máy ghi điện tim thường quy.Điện tâm đồ tín hiệu trung bìnhGhi tín hiệu điện trung bình của phức bộ QRS sẽ giúp phát hiện các sóng tần số cao, điện thế thấp và các dòng vi điện ở phần cuối của phức bộ QRS. Các kết quả sóng này có thể giúp ta phát hiện ra các vùng cơ tim có dẫn truyền chậm - là nguyên nhân góp phần xuất hiện vòng vào lại dẫn đến tim nhanh thất.Điện tâm đồ tín hiệu trung bình tuy vẫn còn đang được nghiên cứu nhưng trong một số trường hợp nó giúp ta lượng giá nguy cơ đột tử do tim (ví dụ ở những bệnh nhân có sẵn bệnh tim mạch đáng kể). Phương pháp ghi điện tim này có giá trị nhất trong việc xác định đâu là những bệnh nhân có nguy cơ đột tử do timthấp. Hiện tại nó chưa có giá trị trong việc xác định nhóm bệnh nhân có nguy cơ đột tử do timcao.Loại ghi điện tim này cũng đang được nghiên cứu trong nhiều bệnh lý tim mạch khác nhau như sau nhồi máu cơ tim, bệnh cơ tim, Hội chứng Brugada, phình vách thất và đánh giá hiệu quả của phẫu thuật trong điều trị rối loạn nhịp. Kỹ thuật này cũng có thể hữu ích cho việc đánh giá tác động tiền loạn nhịp của thuốc chống loạn nhịp và để phát hiện sự thải ghép tim.Tín hiệu trung bình của sóng P đang được nghiên cứu trong việc xác định những bệnh nhân có nguy cơ bị rung nhĩ.Theo dõi liên tục đoạn STLoại theo dõi này được sử dụng để phát hiện sớm chứng thiếu máu cơ tim cục bộ và loạn nhịp nghiêm trọng. Việc theo dõi này có thể là tự động hóa (nhờ việc sử dụng các thiết bị chuyên dụng) hoặc được thực hiện nhờ việc ghi điện tâm đồ thường quy nhiều lần. Ứng dụng của kỹ thuật này bao gồm theo dõi các bệnh nhân đau thắt ngực ở phòng cấp cứu, theo dõi bệnh nhân sau can thiệp động mạch vành qua da, theo dõi trong và sau phẫu thuật.Khác biệt QTSự khác biệt QT giữa khoảng QT dài nhất và ngắn nhất trên điện tim 12 chuyển đạo đã được đề xuất để đánh giá sự không đồng nhất trong tái cực cơ tim. Sự khác biệt QT gia tăng (≥ 100 mili giây) cho thấy sự hoạt động điện học không đồng nhất của cơ tim gây ra bới thiếu máu hoặc xơ hóa cơ tim, làm tăng nguy cơ tạo vòng vào lại gây loạn nhịp hoặc đột tử. Sự khác biệt QT giúp dự đoán nguy cơ tử vong nhưng ít khi được áp dụng do sai số trong đo đạc là rất thường gặp, có nhiều khoảng chồng lấn khi nhận định giá trị ở những bệnh nhân có hoặc không có bệnh, không có tiêu chuẩn tham chiếu và còn vì đã có nhiều phương pháp giúp phân tầng nguy cơ đã được công nhận.Sự biến thiên của tần số timSự biến thiên của tần số tim phản ánh sự cân bằng giữa hoạt động thần kinh giao cảm và phó giao cảm tác động lên tim. Sự giảm tính biến thiên của tần số tim gợi ý rằng hoạt động phó giao cảm bị giảm sút và hoạt động giao cảm tăng hơn. Đây là nguy cơ xuất hiện rối loạn nhịp và tăng tỷ lệ tử vong. Phương pháp đo sự biến thiên tần số tim thường dùng là tính giá trị trung bình của độ lệch chuẩn của tất cả các khoảng R-R bình thường trên điện tâm đồ 24 chuyển đạo.Biến thiên nhịp tim được sử dụng chủ yếu trong nghiên cứu. Bằng chứng cho thấy rằng nó cung cấp thông tin hữu ích về rối loạn chức năng thất trái saunhồi máu cơ tim,suy timvàbệnh cơ tim phì đại. Hầu hếtcác máy theo dõi Holterđều có phần mềm đo và phân tích sự thay đổi nhịp tim, nhưng tiện ích lâm sàng hiện chưa chắc chắn.Theo dõi HolterTheo dõi Holter là theo dõi liên tục và ghi lại điện tâm đồ trong 24 đến 48 giờ. Nó rất có giá trị trong việc chẩn đoán các rối loạn nhịp tim xuất hiện cách hồi và còn được dùng để phát hiện tăng huyết áp. Máy Holter nhỏ gọn, có thể mang theo người, cho phép bệnh nhân thực hiện các hoạt động hàng ngày một cách bình thường trong khi đeo máy. Bệnh nhân sẽ được yêu cầu ghi nhận ký triệu chứng trong thời gian đeo máy Holter để xem liệu có mối liên quan giữa triệu chứng với các biến cố rối loạn nhịp ghi nhận được trong Holter hay không. Holter không tự động cho kết quả chẩn đoán điện tâm đồ. Bác sĩ sẽ đọc, phân tích kết quả và đưa ra chẩn đoán sau khi tháo máy Holter cho bệnh nhân.Máy ghi biến cố timMáy ghi biến cố tim được dùng tới 30 ngày và có thể giúp phát hiện các rối loạn nhịp mà có thể bị lỡ nếu sử dụng Holter theo dõi 24 giờ. Máy ghi có thể hoạt động liên tục hoặc ngoài ra cũng có chức năng được kích hoạt bởi bệnh nhân khi xuất hiện triệu chứng. Bộ nhớ máy cho phép lưu trữ thông tin trong khoảng vài giây đến vài phút trước và sau khi kích hoạt. Bệnh nhân có thể truyền dữ liệu điện tim qua điện thoại hoặc vệ tinh để được bác sĩ đọc. Một số máy ghi tự động truyền tải dữ liệu của các rối loạn nhịp nghiêm trọng. Nếu bệnh nhân có các triệu chứng nghiêm trọng (ví dụ, ngất) xuất hiện cách quãng trong khoảng thời gian>30 ngày, người ta có thể cấy máy ghi biến cố dưới da. Loại máy ghi này được điều khiển và thu thập dữ liệu thông qua nam châm từ tính kết nối với máy tính chủ. Tuổi thọ pin của máy ghi biến cố dưới da là một vài năm.Máy theo dõi ngoài da không dâyMột lựa chọn khác để theo dõi nhịp điệu đơn kênh là một thiết bị nhỏ, dính, chống nước, không dây và dùng một lần đeo trên ngực. Một trong số các loại thiết bị này có khả năng liên tục ghi nhận nhịp tim lên đến 2 tuần. Một thiết bị khác có hoạt động tương tự như một máy ghi biến cố tim, trong đó bệnh nhân sẽ ấn nút trên thiết bị khi xuất hiện bất kỳ triệu chứng có thể liên quan đến loạn nhịp (như đánh trống ngực, chóng mặt) để ghi lại dữ liệu điện tim trong 45 giây trước thời điểm ấn nút cộng thêm 15 giây sau đó. Tuy nhiên, không giống với máy ghi biến cố tim, loại máy này không có tính năng báo cáo tự động trong thời gian thực.Đồng hồ thông minh có khả năng ECGMột số đồng hồ thông minh dành cho người tiêu dùng thực hiện đo ECG từ cổ tay. Đồng hồ thông minh có khả năng phát hiện chứng rối loạn nhịp tim trong thời gian thực và tính hữu dụng của loại đồng hồ thông minh trong lĩnh vực này đang được nghiên cứu.
+
+--- 4. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.University of Utah ECG Learning Center: Provides an interactive tutorial on clinical electrocardiographyCredibleMeds QTDrugs List: Provides information on drugs that are known or suspected to increase the risk of ventricular arrhythmias

@@ -1,0 +1,711 @@
+TIÊU ĐỀ: Viêm gan C, mạn tính
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-về-hệ-gan-và-mật/viêm-gan/viêm-gan-c-mạn-tính
+================================================================================
+
+NỘI DUNG:
+
+Viêm gan C, mạn tính
+
+Theo
+
+Sonal Kumar
+
+,
+
+MD, MPH
+
+,
+
+Weill Cornell Medical College
+
+Xem xét bởi
+
+Minhhuyen Nguyen
+
+,
+
+MD
+
+,
+
+Fox Chase Cancer Center, Temple University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v21348050_vi
+
+Viêm gan C là nguyên nhân phổ biến gây ra viêm gan mạn tính. Bệnh thường không có triệu chứng cho đến khi các biểu hiện của bệnh gan mạn tính xuất hiện.  Chẩn đoán được khẳng định bằng cách tìm anti-HCV dương tính và HCV RNA dương tính
+
+≥
+
+6 tháng sau lây nhiễm đầu tiên. Điều trị bằng thuốc kháng vi rút tác dụng trực tiếp; có thể loại bỏ vĩnh viễn RNA vi-rút có thể phát hiện được.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Sàng lọc
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Nguyên nhân gây viêm gan
+
+,
+
+Tổng quan về viêm gan mạn tính
+
+, và
+
+Viêm gan C cấp tính
+
+.)
+
+Thông thường, viêm gan kéo dài
+
+>
+
+6 được định nghĩa là viêm gan mạn tính, mặc dù khoản thời gian này là không bắt buộc.
+
+Có 6 kiểu gen chính của vi rút viêm gan C (HCV), mỗi kiểu lại đáp ứng điều trị khác nhau. Kiểu gen 1 phổ biến hơn kiểu gen 2, 3, 4, 5 và 6; chiếm 70% đến 80% số trường hợp viêm gan C mạn tính ở Hoa Kỳ.
+
+Viêm gan C cấp tính
+
+trở thành mạn tính ở khoảng 75% bệnh nhân. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) ước tính rằng, từ năm 2013 đến năm 2016, khoảng 2,4 triệu người ở Hoa Kỳ bị nhiễm viêm gan C mạn tính (
+
+1
+
+). Trên toàn thế giới, ước tính có 71 triệu người bị viêm gan C mạn tính (
+
+2
+
+).
+
+Viêm gan C mạn tính tiến triển thành
+
+xơ gan
+
+ở 20% đến 30% số bệnh nhân (
+
+3
+
+); xơ gan thường mất hàng thập kỷ mới xuất hiện.
+
+Ung thư biểu mô tế bào gan
+
+có thể là kết quả của xơ gan do HCV gây ra nhưng hiếm gặp ở bệnh nhân bị nhiễm mạn tính mà không bị xơ gan (không giống ở
+
+nhiễm HBV
+
+).
+
+Có tới 16% số bệnh nhân mắc
+
+bệnh gan liên quan đến rượu
+
+mang trong mình HCV (
+
+4
+
+). Nguyên nhân của mối liên quan ở mức cao này không rõ ràng vì việc sử dụng đồng thời rượu và ma túy chỉ chiếm một tỷ lệ nhỏ các trường hợp. Ở những bệnh nhân này, HCV và rượu có tác dụng hiệp đồng làm trầm trọng thêm tình trạng viêm gan và xơ gan (
+
+4
+
+).
+
+Công cụ tính toán lâm sàng
+
+Khả năng bị xơ gan của viêm gan C
+
+Tài liệu tham khảo chung
+
+1.
+
+Centers for Disease Control and Prevention (CDC)
+
+: Hepatitis C Resources for Health Care Professionals. Truy cập ngày 6 tháng 6 năm 2022.
+
+2.
+
+World Health Organization (WHO)
+
+: Hepatitis C. Truy cập ngày 6 tháng 6 năm 2022.
+
+3.
+
+World Health Organization (WHO)
+
+: Hepatitis C. Key Facts. Truy cập ngày 17 tháng 6 năm 2024.
+
+4.
+
+Novo-Veleiro I, Alvela-Suárez L, Chamorro AJ, et al
+
+: Alcoholic liver disease and hepatitis C virus infection.
+
+World J Gastroenterol
+
+22(4):1411-1420, 2016. doi: 10.3748/wjg.v22.i4.1411
+
+Triệu chứng và dấu hiệu của viêm gan C mạn tính
+
+Nhiều bệnh nhân không có triệu chứng và không bị bệnh vàng da, mặc dù một số bệnh nhân thấy khó chịu, chán ăn, mệt mỏi và khó chịu ở vùng bụng trên mà không biết nguyên nhân cụ thể. Thông thường, những phát hiện đầu tiên là dấu hiệu
+
+xơ gan
+
+(ví dụ: lách to, sao mạch, ban đỏ lòng bàn tay) hoặc các biến chứng của xơ gan (ví dụ:
+
+tăng áp lực tĩnh mạch cửa
+
+,
+
+cổ trướng
+
+,
+
+bệnh não
+
+).
+
+Viêm gan C mạn tính đôi khi có liên quan đến
+
+liken phẳng
+
+,
+
+viêm mạch ở da
+
+,
+
+viêm cầu thận
+
+,
+
+loạn chuyển hóa pocphirin biểu hiện da muộn
+
+,
+
+cryoglobulin huyết hỗn hợp
+
+và có thể là
+
+u lympho tế bào B không Hodgkin
+
+. Các triệu chứng của chứng cryoglobulin huyết bao gồm mệt mỏi, đau cơ, đau khớp, bệnh thần kinh, viêm thận tiểu cầu và phát ban (chứng mày đay, nổi mề đay, ban xuất huyết, viêm mạch hủy bạch cầu); chứng cryoglobulin huyết không triệu chứng thường gặp hơn.
+
+Sàng lọc viêm gan C mạn tính
+
+Nên sàng lọc thường quy, một lần cho tất cả những người
+
+≥
+
+18 tuổi, bất kể có yếu tố nguy cơ hay không.
+
+Việc sàng lọc một lần được khuyến nghị cho những người
+
+<
+
+18 tuổi có các đặc điểm sau (
+
+1
+
+):
+
+Hiện đang sử dụng hoặc đã từng tiêm chích các loại ma túy bất hợp pháp, ngay cả khi chỉ tiêm chích một lần hoặc đã dùng cách đây rất lâu
+
+Đã sử dụng các loại ma túy bất hợp pháp đường mũi
+
+Là nam giới có quan hệ tình dục đồng giới
+
+Đang được điều trị hoặc đã từng được điều trị bằng chạy thận kéo dài
+
+Phơi nhiễm qua da hoặc qua tiêm truyền tại một cơ sở không thuộc chính phủ
+
+Có nồng độ alanine aminotransferase (ALT) bất thường hoặc bị bệnh gan mạn tính không rõ nguyên nhân
+
+Làm việc trong lĩnh vực chăm sóc sức khỏe hoặc an toàn công cộng và đã bị phơi nhiễm với máu dương tính với HCV từ kim tiêm, các tổn thương khác do vật sắc nhọn, hoặc có tiếp xúc niêm mạc
+
+Nhiễm HIV hoặc đang bắt đầu dự phòng trước phơi nhiễm (PrEP) HIV
+
+Đã từng bị bỏ tù
+
+Là con của người mẹ nhiễm HCV
+
+Xét nghiệm này quan trọng bởi vì các triệu chứng có thể không xuất hiện cho đến khi viêm gan C đã gây tổn thương cho nhiều vùng của gan sau nhiều năm bị nhiễm bệnh.
+
+Tài liệu tham khảo về sàng lọc
+
+1.
+
+American Association for the Study of Liver Disease (AALD) and the Infectious Disease Society of America (IDSA)
+
+: HCV Testing and Linkage to Care. Truy cập ngày 8 tháng 5 năm 2024.
+
+Chẩn đoán viêm gan C mạn tính
+
+Xét nghiệm huyết thanh học
+
+HCV RNA
+
+(Xem thêm the American Association for the Study of Liver Diseases [AASLD]–Infectious Diseases Society of America [IDSA] practice guideline
+
+Hepatitis C Guidance 2023 Update for Testing, Managing, and Treating Hepatitis C Virus Infection
+
+; and the U.S. Preventive Services Task Force’s clinical guideline
+
+Hepatitis C Virus Infection in Adolescents and Adults: Screening
+
+.)
+
+Cần nghĩ đến chẩn đoán viêm gan C mạn tính ở bệnh nhân có bất kỳ trong số các biểu hiệu sau:
+
+Các triệu chứng và dấu hiệu gợi ý
+
+Tăng nồng độ aminotransferase bất ngờ
+
+Trước đây được chẩn đoán viêm gan cấp tính
+
+Chẩn đoán được khẳng định bằng cách tìm anti-HCV dương tính và HCV RNA dương tính
+
+≥
+
+6 tháng sau lây nhiễm đầu tiên (xem bảng
+
+Huyết thanh học viêm gan C
+
+).
+
+Bảng
+
+Huyết thanh học viêm gan C
+
+Bảng
+
+Huyết thanh học viêm gan C
+
+Huyết thanh học viêm gan C
+
+Chất chỉ điểm
+
+Nhiễm HCV cấp tính
+
+Nhiễm HCV mạn tính
+
+Nhiễm HCV trước đây*
+
+Anti-HCV
+
++
+
++
+
++
+
+HCV-RNA
+
++
+
++
+
+−
+
+* Bệnh nhân từng nhiễm HCV và đã tự hồi phục hoặc đã được điều trị khỏi bệnh.
+
+Anti-HCV
+
+=
+
+kháng thể kháng HCV; HCV
+
+=
+
+vi rút viêm gan C.
+
+* Bệnh nhân từng nhiễm HCV và đã tự hồi phục hoặc đã được điều trị khỏi bệnh.
+
+Anti-HCV
+
+=
+
+kháng thể kháng HCV; HCV
+
+=
+
+vi rút viêm gan C.
+
+Sinh thiết gan hiếm khi được sử dụng trong viêm gan C và đã được thay thế bằng hình ảnh không xâm lấn (ví dụ: siêu âm đàn hồi, chụp đàn hồi cộng hưởng từ) và các chất chỉ điểm xơ hóa trong huyết thanh, cũng như các hệ thống tính điểm xơ hóa dựa trên các dấu hiệu huyết thanh học.
+
+Kiểu gen HCV đôi khi được xác định trước khi điều trị vì kiểu gen ảnh hưởng đến quá trình, thời gian và thành công của điều trị. Tuy nhiên, hầu hết các thuốc kháng vi rút tác dụng trực tiếp đều có hiệu quả trong điều trị HCV ở mọi kiểu gen.
+
+Phát hiện và định lượng HCV RNA được sử dụng để giúp chẩn đoán viêm gan C và để đánh giá đáp ứng với điều trị trong và sau điều trị. Đối với hầu hết các xét nghiệm HCV RNA định lượng hiện có, giới hạn phát hiện thấp hơn là khoảng
+
+<
+
+12 đến 15 IU/mL, tùy thuộc vào xét nghiệm. Nếu xét nghiệm định lượng không có mức nhạy đó thì có thể sử dụng xét nghiệm định tính. Các xét nghiệm định tính có thể phát hiện ra mức HCV RNA rất thấp, thường là
+
+<
+
+10 IU/mL và cho kết quả là dương tính hoặc âm tính. Các xét nghiệm định tính có thể được sử dụng để khẳng định chẩn đoán viêm gan C hoặc đáp ứng vi rút bền vững (SVR), được định nghĩa là không phát hiện được HCV-RNA ở tuần thứ 12 sau điều trị.
+
+Các xét nghiệm khác
+
+Cần xét nghiệm gan nếu chưa được thực hiện trước đó; chúng bao gồm alanine aminotransferase (ALT) huyết thanh, aspartate aminotransferase (AST) và phosphataza kiềm.
+
+Các xét nghiệm khác cần được thực hiện để đánh giá chức năng gan; bao gồm
+
+albumin
+
+huyết thanh, bilirubin, số lượng tiểu cầu và thời gian prothrombin/tỷ lệ chuẩn hóa quốc tế (PT/INR).
+
+Bệnh nhân cần được xét nghiệm
+
+HIV
+
+và
+
+viêm gan B
+
+bởi vì cơ chế lây nhiễm của những bệnh này là tương tự.
+
+Nếu các triệu chứng hoặc dấu hiệu của
+
+cryoglobulin huyết
+
+phát triển trong quá trình viêm gan C mạn tính, cần phải đo nồng độ cryoglobulin và yếu tố dạng thấp; nồng độ yếu tố dạng thấp cao và nồng độ bổ thể thấp gợi ý cryoglobulin huyết.
+
+Sàng lọc các biến chứng
+
+Những bệnh nhân nhiễm HCV mạn tính và bị xơ hóa tiến triển hoặc xơ gan cần được khám 6 tháng một lần để sàng lọc
+
+ung thư tế bào gan
+
+bằng siêu âm và đo alpha-fetoprotein trong huyết thanh, mặc dù tính hiệu quả về chi phí của phương pháp này, đặc biệt là đo alpha-fetoprotein trong huyết thanh, vẫn còn tranh cãi.
+
+Điều trị viêm gan C mạn tính
+
+Thuốc kháng vi rút tác dụng trực tiếp
+
+Tổng quan về điều trị HCV
+
+(Xem thêm the American Association for the Study of Liver Disease [AASLD]–Infectious Disease Society of America [IDSA] practice guidelines
+
+Recommendations for Testing, Managing, and Treating Hepatitis C
+
+and
+
+When and in Whom To Initiate HCV Therapy
+
+.)
+
+Đối với viêm gan C mạn tính, điều trị được khuyến cáo cho tất cả các bệnh nhân, ngoại trừ những người có tuổi thọ ngắn do mắc đồng thời nhiều bệnh lý mà không thể điều trị bằng liệu pháp HCV, ghép gan hoặc một liệu pháp được chỉ dẫn khác.
+
+Mục tiêu của điều trị là loại bỏ vĩnh viễn HCV RNA (tức là SVR), có liên quan đến việc bình thường hóa vĩnh viễn nồng độ aminotransferase và hạn chế tiến triển trên mô học. Kết quả điều trị thuận lợi hơn ở những bệnh nhân ít xơ hóa hơn so với những bệnh nhân bị xơ gan.
+
+Tính đến cuối năm 2013, tất cả các kiểu gen đều được điều trị bằng pegylated interferon alfa cộng với ribavirin. Hiện nay, phác đồ điều trị dựa trên interferon không còn được sử dụng nữa và
+
+ribavirin
+
+không còn được coi là thuốc điều trị bước đầu mà chỉ được sử dụng trong một số phác đồ thay thế nhất định. Hiện nay, tất cả bệnh nhân đều được điều trị bằng thuốc kháng vi rút tác dụng trực tiếp (DAA) có tác dụng lên các mục tiêu HCV cụ thể, chẳng hạn như protease hoặc polymerase. Xem bảng
+
+Thuốc kháng vi rút tác dụng trực tiếp để điều trị HCV
+
+và
+
+liệu pháp phối hợp DAA để điều trị HCV
+
+.
+
+Bảng
+
+Thuốc kháng vi rút tác dụng trực tiếp (DAA) để điều trị HCV
+
+Bảng
+
+Thuốc kháng vi rút tác dụng trực tiếp (DAA) để điều trị HCV
+
+Thuốc kháng vi rút tác dụng trực tiếp (DAA) để điều trị HCV
+
+Thuốc ức chế protease NS3-4A ("-previr")
+
+Thuốc ức chế NS5A ("-asvir")
+
+Thuốc ức chế NS5B ("-buvir")
+
+Glecaprevir
+
+Ledipasvir
+
+Sofosbuvir
+
+Grazoprevir
+
+Pibrentasvir
+
+Voxilaprevir
+
+Velpatasvir
+
+Elbasvir
+
+DAA không được sử dụng như một loại thuốc đơn lẻ mà được sử dụng dưới dạng phối hợp cụ thể để tối đa hóa hiệu quả.
+
+Bảng
+
+Liệu pháp phối hợp DAA để điều trị HCV
+
+Bảng
+
+Liệu pháp phối hợp DAA để điều trị HCV
+
+Liệu pháp phối hợp DAA để điều trị HCV
+
+Phối hợp thuốc kháng vi rút tác động trực tiếp
+
+Kiểu gen
+
+Thời gian điều trị
+
+Sofosbuvir/Ledipasvir
+
+1, 4, 5, 6
+
+8–24 tuần tùy thuộc vào nhóm bệnh nhân
+
+Sofosbuvir/Velpatasvir
+
+1–6
+
+12 tuần
+
+Glecaprevir/Pibrentasvir
+
+1–6
+
+8–16 tuần tùy thuộc vào nhóm bệnh nhân
+
+Elbasvir/Grazoprevir
+
+1, 4
+
+12–16 tuần tùy thuộc vào nhóm bệnh nhân
+
+Sofosbuvir/Velpatasvir/Voxilaprevir
+
+1–6
+
+12 tuần
+
+Những khuyến cáo hiện nay về điều trị HCV đang thay đổi nhanh chóng.
+
+Hepatitis C Guidance 2023 Update: AASLD–IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection
+
+available online, are updated frequently.
+
+Điều trị HCV bằng DAA hiện nay sử dụng nhiều phác đồ thuốc có hiệu quả chống lại mọi kiểu gen; các phác đồ này được gọi là pangenotypic. Phác đồ pangenotypic bao gồm sofosbuvir/velpatasvir, glecaprevir/pibrentasvir và sofosbuvir/velpatasvir/voxilaprevir.
+
+Xơ gan mất bù do viêm gan C là chỉ định của
+
+ghép gan
+
+phổ biến nhất tại Hoa Kỳ. HCV tái phát gần như tất cả trong mô ghép. Trước khi sử dụng DAA, khả năng sống sót của bệnh nhân và của mô ghép ít thuận lợi hơn so với khi cấy ghép được thực hiện cho các chỉ định khác.  Tuy nhiên, khi sử dụng DAA, tỷ lệ SVR ở những bệnh nhân đã được ghép gan vượt quá 95% dù họ có bị xơ gan hay không. Do tỷ lệ SVR rất cao nên việc ghép các cơ quan dương tính với HCV đang được thực hiện ngày càng nhiều, đặc biệt là ở những người nhận cũng dương tính với HCV, do đó mở rộng nhóm người hiến tặng tiềm năng. Nếu người nhận và người hiến tặng đều dương tính với HCV, việc điều trị có thể được hoãn lại cho đến sau khi ghép. Do đó, có thể tránh được một đợt điều trị tiền cấy ghép không cần thiết.
+
+Phác đồ sofosbuvir/velpatasvir, elbasvir/grazoprevir hoặc glecaprevir/pibrentasvir hiện được coi là có hồ sơ an toàn tốt và có hiệu quả ở bệnh nhân mắc bệnh thận giai đoạn cuối, bao gồm cả bệnh nhân chạy thận nhân tạo.
+
+Việc điều trị viêm gan C ở những bệnh nhân bị xơ gan mất bù cần được thực hiện sau khi tham khảo ý kiến ​​của bác sĩ chuyên khoa gan, lý tưởng nhất là tại trung tâm ghép gan. Không nên sử dụng các phác đồ điều trị HCV bao gồm thuốc ức chế protease (những loại thuốc có đuôi -previr) ở những bệnh nhân bị xơ gan mất bù vì nồng độ thuốc ức chế protease tăng lên ở những bệnh nhân suy gan.
+
+Tái phát viêm gan B dẫn đến suy gan và tử vong đã được báo cáo trong hoặc sau khi điều trị HCV bằng DAA. Do đó, tất cả các bệnh nhân bị viêm gan C đang điều trị bằng DAA cần được kiểm tra xem có bằng chứng viêm gan B mạn tính hoặc viêm gan B trước đó hay không; các xét nghiệm nên bao gồm tất cả trong số những xét nghiệm sau:
+
+Kháng nguyên bề mặt viêm gan B (HBsAg)
+
+Kháng thể bề mặt viêm gan B (anti-HBs)
+
+Kháng thể IgG kháng lõi viêm gan B (IgG anti-HBc)
+
+Các bệnh nhân bị viêm gan B mạn tính hoặc có bằng chứng bị viêm gan B trước đó cần được theo dõi để xem có tái phát trong và sau khi điều trị HCV hay không, và
+
+liệu pháp kháng vi rút HBV
+
+cần được xem xét trong quá trình điều trị HCV.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Bourlière M, Gordon SC, Flamm SL, et al
+
+: Sofosbuvir, velpatasvir, and voxilaprevir for previously treated HCV infection.
+
+N Engl J Med
+
+376 (22):2134-2146, 2017. doi: 10.1056/NEJMoa1613512
+
+2.
+
+Asselah T, Kowdley KV, Zadeikis N, et al
+
+: Efficacy of glecaprevir/pibrentasvir for 8 or 12 weeks in patients with hepatitis C virus genotype 2, 4, 5, or 6 infection without cirrhosis.
+
+Clin Gastroenterol Hepatol
+
+16 (3):417-426, 2018. doi: 10.1016/j.cgh.2017.09.027
+
+Tiên lượng viêm gan C mạn tính
+
+Tiên lượng phụ thuộc vào việc bệnh nhân có đáp ứng vi rút bền vững (SVR) hay không, tức là không phát hiện HCV RNA ở thời điểm 12 tuần sau khi kết thúc điều trị.
+
+Những bệnh nhân có SVR có
+
+>
+
+99% khả năng vẫn âm tính với HCV RNA và thường được coi là đã chữa khỏi (
+
+1
+
+). Gần 95% bệnh nhân có SVR đã cải thiện kết quả trên mô học, bao gồm xơ hóa và chỉ số hoạt động trên mô học; ngoài ra, nguy cơ tiến triển thành xơ gan, suy gan và tử vong do gan cũng giảm đi. Ở những bệnh nhân bị xơ gan và tăng áp lực tĩnh mạch cửa và được điều trị bằng phác đồ dựa trên interferon, SVR đã được chứng minh là làm giảm áp lực tĩnh mạch cửa và làm giảm đáng kể nguy cơ mất bù gan, tử vong liên quan đến gan, tử vong do mọi nguyên nhân và ung thư biểu mô tế bào gan (
+
+2
+
+).
+
+Khả năng đạt được SVR bằng phác đồ kháng vi rút tác động trực tiếp dường như sẽ phụ thuộc chủ yếu vào:
+
+Mức độ xơ hóa gan
+
+Đáp ứng với điều trị trước
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+Lynch EN, Russo FP
+
+: Outcomes and follow-up after hepatitis C eradication with direct-acting antivirals.
+
+J Clin Med
+
+12(6):2195, 2023 doi: 10.3390/jcm12062195
+
+2.
+
+van der Meer AJ, Veldt BJ, Feld JJ, et al
+
+: Association between sustained virological response and all-cause mortality among patients with chronic hepatitis C and advanced hepatic fibrosis.
+
+JAMA
+
+308(24):2584-2593, 2012. doi:10.1001/jama.2012.144878
+
+Những điểm chính
+
+75% bệnh nhân viêm gan C cấp tính chuyển thành mạn tính và viêm gan mạn tính này dẫn đến xơ gan ở 20 đến 30% bệnh nhân; một số bệnh nhân bị xơ gan tiến triển thành ung thư biểu mô tế bào gan.
+
+Chẩn đoán được khẳng định bằng cách tìm anti-HCV dương tính và HCV RNA dương tính.
+
+Thuốc kháng vi rút tác dụng trực tiếp có hiệu quả điều trị trên hầu hết các kiểu gen.
+
+Pegylated interferon không còn được khuyến nghị trong điều trị viêm gan C mạn tính.
+
+Các phương pháp điều trị mới có thể loại bỏ vĩnh viễn HCV RNA ở
+
+>
+
+95% bệnh nhân.
+
+Bệnh nhân bị xơ gan mất bù cần được điều trị bởi các bác sĩ chuyên khoa gan, và không nên sử dụng các phác đồ chứa thuốc ức chế protease.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection
+
+: Up-to-date, peer-reviewed, unbiased, evidence-based
+
+When and In Whom To Initiate HCV Therapy
+
+: Exploration of the clinical benefits of curing hepatitis C and of treating fibrosis early, the importance of pretreatment assessment, and considerations in specific populations; overview of cost, reimbursement, and cost-effectiveness for hepatitis C treatment regimens
+
+Sàng lọc nhiễm vi rút viêm gan C ở thanh thiếu niên và người lớn
+
+: Khám phá tầm quan trọng của sàng lọc, đánh giá rủi ro, sử dụng các xét nghiệm sàng lọc bao gồm khoảng thời gian và điều trị; bằng chứng hỗ trợ được cung cấp
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Triệu chứng và dấu hiệu của viêm gan C mạn tính ---
+
+Nhiều bệnh nhân không có triệu chứng và không bị bệnh vàng da, mặc dù một số bệnh nhân thấy khó chịu, chán ăn, mệt mỏi và khó chịu ở vùng bụng trên mà không biết nguyên nhân cụ thể. Thông thường, những phát hiện đầu tiên là dấu hiệuxơ gan(ví dụ: lách to, sao mạch, ban đỏ lòng bàn tay) hoặc các biến chứng của xơ gan (ví dụ:tăng áp lực tĩnh mạch cửa,cổ trướng,bệnh não).Viêm gan C mạn tính đôi khi có liên quan đếnliken phẳng,viêm mạch ở da,viêm cầu thận,loạn chuyển hóa pocphirin biểu hiện da muộn,cryoglobulin huyết hỗn hợpvà có thể làu lympho tế bào B không Hodgkin. Các triệu chứng của chứng cryoglobulin huyết bao gồm mệt mỏi, đau cơ, đau khớp, bệnh thần kinh, viêm thận tiểu cầu và phát ban (chứng mày đay, nổi mề đay, ban xuất huyết, viêm mạch hủy bạch cầu); chứng cryoglobulin huyết không triệu chứng thường gặp hơn.
+
+--- 2. Sàng lọc viêm gan C mạn tính ---
+
+Nên sàng lọc thường quy, một lần cho tất cả những người≥18 tuổi, bất kể có yếu tố nguy cơ hay không.Việc sàng lọc một lần được khuyến nghị cho những người<18 tuổi có các đặc điểm sau (1):Hiện đang sử dụng hoặc đã từng tiêm chích các loại ma túy bất hợp pháp, ngay cả khi chỉ tiêm chích một lần hoặc đã dùng cách đây rất lâuĐã sử dụng các loại ma túy bất hợp pháp đường mũiLà nam giới có quan hệ tình dục đồng giớiĐang được điều trị hoặc đã từng được điều trị bằng chạy thận kéo dàiPhơi nhiễm qua da hoặc qua tiêm truyền tại một cơ sở không thuộc chính phủCó nồng độ alanine aminotransferase (ALT) bất thường hoặc bị bệnh gan mạn tính không rõ nguyên nhânLàm việc trong lĩnh vực chăm sóc sức khỏe hoặc an toàn công cộng và đã bị phơi nhiễm với máu dương tính với HCV từ kim tiêm, các tổn thương khác do vật sắc nhọn, hoặc có tiếp xúc niêm mạcNhiễm HIV hoặc đang bắt đầu dự phòng trước phơi nhiễm (PrEP) HIVĐã từng bị bỏ tùLà con của người mẹ nhiễm HCVXét nghiệm này quan trọng bởi vì các triệu chứng có thể không xuất hiện cho đến khi viêm gan C đã gây tổn thương cho nhiều vùng của gan sau nhiều năm bị nhiễm bệnh.Tài liệu tham khảo về sàng lọc1.American Association for the Study of Liver Disease (AALD) and the Infectious Disease Society of America (IDSA): HCV Testing and Linkage to Care. Truy cập ngày 8 tháng 5 năm 2024.
+
+--- 3. Chẩn đoán viêm gan C mạn tính ---
+
+Xét nghiệm huyết thanh họcHCV RNA(Xem thêm the American Association for the Study of Liver Diseases [AASLD]–Infectious Diseases Society of America [IDSA] practice guidelineHepatitis C Guidance 2023 Update for Testing, Managing, and Treating Hepatitis C Virus Infection; and the U.S. Preventive Services Task Force’s clinical guidelineHepatitis C Virus Infection in Adolescents and Adults: Screening.)Cần nghĩ đến chẩn đoán viêm gan C mạn tính ở bệnh nhân có bất kỳ trong số các biểu hiệu sau:Các triệu chứng và dấu hiệu gợi ýTăng nồng độ aminotransferase bất ngờTrước đây được chẩn đoán viêm gan cấp tínhChẩn đoán được khẳng định bằng cách tìm anti-HCV dương tính và HCV RNA dương tính≥6 tháng sau lây nhiễm đầu tiên (xem bảngHuyết thanh học viêm gan C).BảngHuyết thanh học viêm gan CBảngHuyết thanh học viêm gan CHuyết thanh học viêm gan CChất chỉ điểmNhiễm HCV cấp tínhNhiễm HCV mạn tínhNhiễm HCV trước đây*Anti-HCV+++HCV-RNA++−* Bệnh nhân từng nhiễm HCV và đã tự hồi phục hoặc đã được điều trị khỏi bệnh.Anti-HCV=kháng thể kháng HCV; HCV=vi rút viêm gan C.* Bệnh nhân từng nhiễm HCV và đã tự hồi phục hoặc đã được điều trị khỏi bệnh.Anti-HCV=kháng thể kháng HCV; HCV=vi rút viêm gan C.Sinh thiết gan hiếm khi được sử dụng trong viêm gan C và đã được thay thế bằng hình ảnh không xâm lấn (ví dụ: siêu âm đàn hồi, chụp đàn hồi cộng hưởng từ) và các chất chỉ điểm xơ hóa trong huyết thanh, cũng như các hệ thống tính điểm xơ hóa dựa trên các dấu hiệu huyết thanh học.Kiểu gen HCV đôi khi được xác định trước khi điều trị vì kiểu gen ảnh hưởng đến quá trình, thời gian và thành công của điều trị. Tuy nhiên, hầu hết các thuốc kháng vi rút tác dụng trực tiếp đều có hiệu quả trong điều trị HCV ở mọi kiểu gen.Phát hiện và định lượng HCV RNA được sử dụng để giúp chẩn đoán viêm gan C và để đánh giá đáp ứng với điều trị trong và sau điều trị. Đối với hầu hết các xét nghiệm HCV RNA định lượng hiện có, giới hạn phát hiện thấp hơn là khoảng<12 đến 15 IU/mL, tùy thuộc vào xét nghiệm. Nếu xét nghiệm định lượng không có mức nhạy đó thì có thể sử dụng xét nghiệm định tính. Các xét nghiệm định tính có thể phát hiện ra mức HCV RNA rất thấp, thường là<10 IU/mL và cho kết quả là dương tính hoặc âm tính. Các xét nghiệm định tính có thể được sử dụng để khẳng định chẩn đoán viêm gan C hoặc đáp ứng vi rút bền vững (SVR), được định nghĩa là không phát hiện được HCV-RNA ở tuần thứ 12 sau điều trị.Các xét nghiệm khácCần xét nghiệm gan nếu chưa được thực hiện trước đó; chúng bao gồm alanine aminotransferase (ALT) huyết thanh, aspartate aminotransferase (AST) và phosphataza kiềm.Các xét nghiệm khác cần được thực hiện để đánh giá chức năng gan; bao gồmalbuminhuyết thanh, bilirubin, số lượng tiểu cầu và thời gian prothrombin/tỷ lệ chuẩn hóa quốc tế (PT/INR).Bệnh nhân cần được xét nghiệmHIVvàviêm gan Bbởi vì cơ chế lây nhiễm của những bệnh này là tương tự.Nếu các triệu chứng hoặc dấu hiệu củacryoglobulin huyếtphát triển trong quá trình viêm gan C mạn tính, cần phải đo nồng độ cryoglobulin và yếu tố dạng thấp; nồng độ yếu tố dạng thấp cao và nồng độ bổ thể thấp gợi ý cryoglobulin huyết.Sàng lọc các biến chứngNhững bệnh nhân nhiễm HCV mạn tính và bị xơ hóa tiến triển hoặc xơ gan cần được khám 6 tháng một lần để sàng lọcung thư tế bào ganbằng siêu âm và đo alpha-fetoprotein trong huyết thanh, mặc dù tính hiệu quả về chi phí của phương pháp này, đặc biệt là đo alpha-fetoprotein trong huyết thanh, vẫn còn tranh cãi.
+
+--- 4. Điều trị viêm gan C mạn tính ---
+
+Thuốc kháng vi rút tác dụng trực tiếpTổng quan về điều trị HCV(Xem thêm the American Association for the Study of Liver Disease [AASLD]–Infectious Disease Society of America [IDSA] practice guidelinesRecommendations for Testing, Managing, and Treating Hepatitis CandWhen and in Whom To Initiate HCV Therapy.)Đối với viêm gan C mạn tính, điều trị được khuyến cáo cho tất cả các bệnh nhân, ngoại trừ những người có tuổi thọ ngắn do mắc đồng thời nhiều bệnh lý mà không thể điều trị bằng liệu pháp HCV, ghép gan hoặc một liệu pháp được chỉ dẫn khác.Mục tiêu của điều trị là loại bỏ vĩnh viễn HCV RNA (tức là SVR), có liên quan đến việc bình thường hóa vĩnh viễn nồng độ aminotransferase và hạn chế tiến triển trên mô học. Kết quả điều trị thuận lợi hơn ở những bệnh nhân ít xơ hóa hơn so với những bệnh nhân bị xơ gan.Tính đến cuối năm 2013, tất cả các kiểu gen đều được điều trị bằng pegylated interferon alfa cộng với ribavirin. Hiện nay, phác đồ điều trị dựa trên interferon không còn được sử dụng nữa vàribavirinkhông còn được coi là thuốc điều trị bước đầu mà chỉ được sử dụng trong một số phác đồ thay thế nhất định. Hiện nay, tất cả bệnh nhân đều được điều trị bằng thuốc kháng vi rút tác dụng trực tiếp (DAA) có tác dụng lên các mục tiêu HCV cụ thể, chẳng hạn như protease hoặc polymerase. Xem bảngThuốc kháng vi rút tác dụng trực tiếp để điều trị HCVvàliệu pháp phối hợp DAA để điều trị HCV.BảngThuốc kháng vi rút tác dụng trực tiếp (DAA) để điều trị HCVBảngThuốc kháng vi rút tác dụng trực tiếp (DAA) để điều trị HCVThuốc kháng vi rút tác dụng trực tiếp (DAA) để điều trị HCVThuốc ức chế protease NS3-4A ("-previr")Thuốc ức chế NS5A ("-asvir")Thuốc ức chế NS5B ("-buvir")GlecaprevirLedipasvirSofosbuvirGrazoprevirPibrentasvirVoxilaprevirVelpatasvirElbasvirDAA không được sử dụng như một loại thuốc đơn lẻ mà được sử dụng dưới dạng phối hợp cụ thể để tối đa hóa hiệu quả.BảngLiệu pháp phối hợp DAA để điều trị HCVBảngLiệu pháp phối hợp DAA để điều trị HCVLiệu pháp phối hợp DAA để điều trị HCVPhối hợp thuốc kháng vi rút tác động trực tiếpKiểu genThời gian điều trịSofosbuvir/Ledipasvir1, 4, 5, 68–24 tuần tùy thuộc vào nhóm bệnh nhânSofosbuvir/Velpatasvir1–612 tuầnGlecaprevir/Pibrentasvir1–68–16 tuần tùy thuộc vào nhóm bệnh nhânElbasvir/Grazoprevir1, 412–16 tuần tùy thuộc vào nhóm bệnh nhânSofosbuvir/Velpatasvir/Voxilaprevir1–612 tuầnNhững khuyến cáo hiện nay về điều trị HCV đang thay đổi nhanh chóng.Hepatitis C Guidance 2023 Update: AASLD–IDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infectionavailable online, are updated frequently.Điều trị HCV bằng DAA hiện nay sử dụng nhiều phác đồ thuốc có hiệu quả chống lại mọi kiểu gen; các phác đồ này được gọi là pangenotypic. Phác đồ pangenotypic bao gồm sofosbuvir/velpatasvir, glecaprevir/pibrentasvir và sofosbuvir/velpatasvir/voxilaprevir.Xơ gan mất bù do viêm gan C là chỉ định củaghép ganphổ biến nhất tại Hoa Kỳ. HCV tái phát gần như tất cả trong mô ghép. Trước khi sử dụng DAA, khả năng sống sót của bệnh nhân và của mô ghép ít thuận lợi hơn so với khi cấy ghép được thực hiện cho các chỉ định khác.  Tuy nhiên, khi sử dụng DAA, tỷ lệ SVR ở những bệnh nhân đã được ghép gan vượt quá 95% dù họ có bị xơ gan hay không. Do tỷ lệ SVR rất cao nên việc ghép các cơ quan dương tính với HCV đang được thực hiện ngày càng nhiều, đặc biệt là ở những người nhận cũng dương tính với HCV, do đó mở rộng nhóm người hiến tặng tiềm năng. Nếu người nhận và người hiến tặng đều dương tính với HCV, việc điều trị có thể được hoãn lại cho đến sau khi ghép. Do đó, có thể tránh được một đợt điều trị tiền cấy ghép không cần thiết.Phác đồ sofosbuvir/velpatasvir, elbasvir/grazoprevir hoặc glecaprevir/pibrentasvir hiện được coi là có hồ sơ an toàn tốt và có hiệu quả ở bệnh nhân mắc bệnh thận giai đoạn cuối, bao gồm cả bệnh nhân chạy thận nhân tạo.Việc điều trị viêm gan C ở những bệnh nhân bị xơ gan mất bù cần được thực hiện sau khi tham khảo ý kiến ​​của bác sĩ chuyên khoa gan, lý tưởng nhất là tại trung tâm ghép gan. Không nên sử dụng các phác đồ điều trị HCV bao gồm thuốc ức chế protease (những loại thuốc có đuôi -previr) ở những bệnh nhân bị xơ gan mất bù vì nồng độ thuốc ức chế protease tăng lên ở những bệnh nhân suy gan.Tái phát viêm gan B dẫn đến suy gan và tử vong đã được báo cáo trong hoặc sau khi điều trị HCV bằng DAA. Do đó, tất cả các bệnh nhân bị viêm gan C đang điều trị bằng DAA cần được kiểm tra xem có bằng chứng viêm gan B mạn tính hoặc viêm gan B trước đó hay không; các xét nghiệm nên bao gồm tất cả trong số những xét nghiệm sau:Kháng nguyên bề mặt viêm gan B (HBsAg)Kháng thể bề mặt viêm gan B (anti-HBs)Kháng thể IgG kháng lõi viêm gan B (IgG anti-HBc)Các bệnh nhân bị viêm gan B mạn tính hoặc có bằng chứng bị viêm gan B trước đó cần được theo dõi để xem có tái phát trong và sau khi điều trị HCV hay không, vàliệu pháp kháng vi rút HBVcần được xem xét trong quá trình điều trị HCV.Tài liệu tham khảo về điều trị1.Bourlière M, Gordon SC, Flamm SL, et al: Sofosbuvir, velpatasvir, and voxilaprevir for previously treated HCV infection.N Engl J Med376 (22):2134-2146, 2017. doi: 10.1056/NEJMoa16135122.Asselah T, Kowdley KV, Zadeikis N, et al: Efficacy of glecaprevir/pibrentasvir for 8 or 12 weeks in patients with hepatitis C virus genotype 2, 4, 5, or 6 infection without cirrhosis.Clin Gastroenterol Hepatol16 (3):417-426, 2018. doi: 10.1016/j.cgh.2017.09.027
+
+--- 5. Tiên lượng viêm gan C mạn tính ---
+
+Tiên lượng phụ thuộc vào việc bệnh nhân có đáp ứng vi rút bền vững (SVR) hay không, tức là không phát hiện HCV RNA ở thời điểm 12 tuần sau khi kết thúc điều trị.Những bệnh nhân có SVR có>99% khả năng vẫn âm tính với HCV RNA và thường được coi là đã chữa khỏi (1). Gần 95% bệnh nhân có SVR đã cải thiện kết quả trên mô học, bao gồm xơ hóa và chỉ số hoạt động trên mô học; ngoài ra, nguy cơ tiến triển thành xơ gan, suy gan và tử vong do gan cũng giảm đi. Ở những bệnh nhân bị xơ gan và tăng áp lực tĩnh mạch cửa và được điều trị bằng phác đồ dựa trên interferon, SVR đã được chứng minh là làm giảm áp lực tĩnh mạch cửa và làm giảm đáng kể nguy cơ mất bù gan, tử vong liên quan đến gan, tử vong do mọi nguyên nhân và ung thư biểu mô tế bào gan (2).Khả năng đạt được SVR bằng phác đồ kháng vi rút tác động trực tiếp dường như sẽ phụ thuộc chủ yếu vào:Mức độ xơ hóa ganĐáp ứng với điều trị trướcTài liệu tham khảo về tiên lượng1.Lynch EN, Russo FP: Outcomes and follow-up after hepatitis C eradication with direct-acting antivirals.J Clin Med12(6):2195, 2023 doi: 10.3390/jcm120621952.van der Meer AJ, Veldt BJ, Feld JJ, et al: Association between sustained virological response and all-cause mortality among patients with chronic hepatitis C and advanced hepatic fibrosis.JAMA308(24):2584-2593, 2012. doi:10.1001/jama.2012.144878
+
+--- 6. Những điểm chính ---
+
+75% bệnh nhân viêm gan C cấp tính chuyển thành mạn tính và viêm gan mạn tính này dẫn đến xơ gan ở 20 đến 30% bệnh nhân; một số bệnh nhân bị xơ gan tiến triển thành ung thư biểu mô tế bào gan.Chẩn đoán được khẳng định bằng cách tìm anti-HCV dương tính và HCV RNA dương tính.Thuốc kháng vi rút tác dụng trực tiếp có hiệu quả điều trị trên hầu hết các kiểu gen.Pegylated interferon không còn được khuyến nghị trong điều trị viêm gan C mạn tính.Các phương pháp điều trị mới có thể loại bỏ vĩnh viễn HCV RNA ở>95% bệnh nhân.Bệnh nhân bị xơ gan mất bù cần được điều trị bởi các bác sĩ chuyên khoa gan, và không nên sử dụng các phác đồ chứa thuốc ức chế protease.
+
+--- 7. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.Recommendations for Testing, Managing, and Treating Hepatitis C Virus Infection: Up-to-date, peer-reviewed, unbiased, evidence-basedWhen and In Whom To Initiate HCV Therapy: Exploration of the clinical benefits of curing hepatitis C and of treating fibrosis early, the importance of pretreatment assessment, and considerations in specific populations; overview of cost, reimbursement, and cost-effectiveness for hepatitis C treatment regimensSàng lọc nhiễm vi rút viêm gan C ở thanh thiếu niên và người lớn: Khám phá tầm quan trọng của sàng lọc, đánh giá rủi ro, sử dụng các xét nghiệm sàng lọc bao gồm khoảng thời gian và điều trị; bằng chứng hỗ trợ được cung cấp

@@ -1,0 +1,865 @@
+TIÊU ĐỀ: Ngừng tim
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/ngừng-tim-và-hồi-sức-tim-phổi-cpr/ngừng-tim
+================================================================================
+
+NỘI DUNG:
+
+Ngừng tim
+
+Theo
+
+Shira A. Schlesinger
+
+,
+
+MD, MPH
+
+,
+
+Harbor-UCLA Medical Center
+
+Xem xét bởi
+
+Diane M. Birnbaumer
+
+,
+
+MD
+
+,
+
+David Geffen School of Medicine at UCLA
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 12 2024
+
+v925628_vi
+
+Ngừng tim là ngừng hoạt động cơ tim dẫn đến không có sự lưu thông dòng máu. Ngừng tim làm ngừng dòng máu chảy vào các cơ quan quan trọng, không cung cấp được oxy, kết quả tử vong nếu không được điều trị. Ngừng tim đột ngột là ngừng tuần hoàn đột ngột trong một thời gian ngắn từ khi khởi phát triệu chứng (thường không có dấu hiệu cảnh báo).
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Đột tử do ngừng tim xảy ra bên ngoài bệnh viện ở hơn 300.000 người/năm tại Hoa Kỳ, bao gồm khoảng 5000 trẻ sơ sinh và trẻ em, với tỷ lệ tử vong > 90% (
+
+1
+
+,
+
+2
+
+).
+
+Ngừng thở
+
+và ngừng tim là khác biệt, nhưng không điều trị thì hậu quả như nhau. (Xem thêm
+
+suy hô hấp
+
+,
+
+khó thở
+
+và
+
+hạ oxy máu
+
+.)
+
+Tài liệu tham khảo chung
+
+1.
+
+Tsao CW, Aday AW, Almarzooq ZI, et al
+
+. Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association [published correction appears in
+
+Circulation
+
+ngày 21 tháng 2 năm 2023;147(8):e622. doi: 10.1161/CIR.0000000000001137] [phần chỉnh sửa đã xuất bản có trong
+
+Circulation
+
+ngày 25 tháng 7 năm 2023;148(4):e4 doi: 10.1161/CIR.0000000000001167].
+
+Circulation
+
+2023;147(8):e93-e621. doi:10.1161/CIR.0000000000001123
+
+2.
+
+Virani SS, Alonso A, Benjamin EJ, et al
+
+. Heart Disease and Stroke Statistics-2020 Update: A Report From the American Heart Association.
+
+Circulation
+
+2020;141(9):e139-e596. doi:10.1161/CIR.0000000000000757
+
+Căn nguyên của ngừng tim
+
+Ở người lớn,
+
+ngừng tim đột ngột chủ yếu là do bệnh tim (mọi loại, phần lớn ngừng tim đột ngột là do
+
+hội chứng vành cấp tính
+
+và phần lớn liên quan đến bệnh tim mạch nền). Ngừng tim đột ngột là biểu hiện đầu tiên của bệnh tim ở một tỷ lệ đáng kể bệnh nhân (
+
+1
+
+). Các nguyên nhân khác bao gồm sốc tuần hoàn do các bệnh lý không phải tim (đặc biệt là
+
+thuyên tắc động mạch phổi
+
+,
+
+xuất huyết tiêu hóa
+
+hoặc chấn thương), suy hô hấp và rối loạn chuyển hóa (bao gồm cả quá liều thuốc) (
+
+2
+
+).
+
+Ở trẻ sơ sinh và trẻ nhỏ,
+
+ngừng tim ít gặp hơn ở người lớn. Nguyên nhân chính gây ra tình trạng ngừng tim ở trẻ sơ sinh và trẻ em là suy hô hấp do nhiều rối loạn hô hấp khác nhau (ví dụ: tắc nghẽn đường thở,
+
+đuối nước
+
+, nhiễm trùng,
+
+hội chứng đột tử ở trẻ sơ sinh [SIDS]
+
+,
+
+hít phải khói
+
+). Tuy nhiên, ngừng tim
+
+đột ngột
+
+(tình trạng ngừng tuần hoàn bất ngờ mà không có cảnh báo) ở trẻ em và thanh thiếu niên thường là do
+
+loạn nhịp tim
+
+do
+
+bệnh lý kênh tim
+
+hoặc bất thường cấu trúc tim tiềm ẩn. (
+
+3
+
+,
+
+4
+
+,
+
+5
+
+,
+
+6
+
+).
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Hayashi M, Shimizu W, Albert CM
+
+: The spectrum of epidemiology underlying sudden cardiac death.
+
+Circ Res
+
+116(12):1887–1906, 2015 doi:10.1161/CIRCRESAHA.116.304521
+
+2.
+
+Truhlář A, Deakin CD, Soar J, et al
+
+: European Resuscitation Council Guidelines for Resuscitation 2015: Section 4. Cardiac arrest in special circumstances.
+
+Resuscitation
+
+95:148–201, 2015 doi: 10.1016/j.resuscitation.2015.07.017
+
+3.
+
+Atkins DL, Everson-Stewart S, Sears GK, et al; Resuscitation Outcomes Consortium Investigators
+
+: Epidemiology and outcomes from out-of-hospital cardiac arrest in children: the Resuscitation Outcomes Consortium Epistry-Cardiac Arrest.
+
+Circulation
+
+119(11):1484–1491, 2009. doi: 10.1161/CIRCULATIONAHA.108.802678
+
+4.
+
+Meert KL, Telford R, Holubkov R, et al; Therapeutic Hypothermia after Pediatric Cardiac Arrest (THAPCA) Trial Investigators
+
+: Pediatric out-of-hospital cardiac arrest characteristics and their association with survival and neurobehavioral outcome.
+
+Pediatr Crit Care Med
+
+17(12):e543–e550, 2016. doi: 10.1097/PCC.0000000000000969
+
+5.
+
+Scheller RL, Johnson L, Lorts A, Ryan TD
+
+: Sudden cardiac arrest in pediatrics.
+
+Pediatr Emerg Care
+
+32(9):630–636, 2016. doi: 10.1097/PEC.0000000000000895
+
+6.
+
+Tsao CW, Aday AW, Almarzooq ZI, et al
+
+: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association [published correction appears in
+
+Circulation
+
+147(8):e622, 2023].
+
+Circulation
+
+147(8):e93-e621, 2023 doi:10.1161/CIR.0000000000001123
+
+Sinh bệnh học của ngừng tim
+
+Ngừng tim gây thiếu máu cục bộ toàn thể với hậu quả ở cấp độ tế bào ảnh hưởng xấu đến chức năng cơ quan ngay cả khi đã được hồi sức và phục hồi tưới máu. Các hậu quả chính bao gồm tổn thương trực tiếp tế bào và phù. Phù đặc biệt có hại cho não, có khả năng lan rộng tối đa, thường dẫn đến tăng áp lực nội sọ và giảm tưới máu não.
+
+Giảm sản xuất
+
+ATP
+
+dẫn đến mất sự toàn vẹn màng dẫn đến dòng kali đi ra ngoài và dòng natri và canxi đi vào. Dư thừa natri nội bào là một trong những nguyên nhân ban đầu gây phù tế bào. Thừa canxi làm hủy hoại ty thể (ức chế sản xuất ATP), tăng sản xuất nitric oxide (dẫn đến sự hình thành các gốc tự do gây hại), và trong một số trường hợp, làm kích hoạt các protease gây phá hủy các tế bào.
+
+Dòng ion bất thường cũng dẫn đến sự khử cực của các nơ-ron, giải phóng các chất dẫn truyền thần kinh, một số trong đó gây hại (ví dụ, glutamate kích hoạt một kênh canxi đặc hiệu, làm nặng lên tình trạng quá tải canxi trong tế bào).
+
+Các chất trung gian gây viêm (ví dụ, interleukin-1B, yếu tố hoại tử u alpha) được tạo thành; một số trong số đó có thể gây huyết khối vi mạch và mất toàn vẹn mạch máu với sự hình thành phù nề hơn nữa. Một số chất trung gian gây ra chết theo chương trình, kết quả là gia tăng chết tế bào.
+
+Các triệu chứng và dấu hiệu của ngừng tim
+
+Ở những bệnh nhân nặng hoặc giai đoạn cuối, ngừng tim thường được báo hiệu bằng lâm sàng xấu đi nhanh, thở nhanh nông, giảm huyết áp động mạch và suy đồi ý thức.
+
+Trong trường hợp ngừng tim đột ngột, trụy tim xảy ra mà không có dấu hiệu báo trước, đôi khi kèm theo giật cơ ngắn hoặc hoạt động giống như co giật khác.
+
+Chẩn đoán ngừng tim
+
+Bệnh sử và khám lâm sàng
+
+Theo dõi tim và điện tâm đồ (ECG)
+
+Đôi khi xét nghiệm tìm nguyên nhân (ví dụ: siêu âm tim, chẩn đoán hình ảnh ngực [chụp X-quang, siêu âm], xét nghiệm điện giải)
+
+Chẩn đoán ngừng tim dựa trên các biểu hiện lâm sàng như bất tỉnh, ngừng thở và mất mạch. Áp lực động mạch không đo được. Đồng tử giãn ra và mất phản ứng với ánh sáng.
+
+Nên áp dụng một máy theo dõi tim; nó có thể cho thấy
+
+rung thất
+
+(VF),
+
+nhịp nhanh thất
+
+(VT) hoặc vô tâm thu. Đôi khi có nhịp tưới máu (ví dụ: nhịp tim chậm, nhịp tim cực nhanh); nhịp tim này có thể biểu hiện hoạt động điện thực sự không có mạch (trước đây gọi là phân ly điện cơ) hoặc hạ huyết áp cực độ không phát hiện được mạch.
+
+Bệnh nhân được đánh giá các nguyên nhân có thể điều trị; một cách ghi nhớ hữu ích là "Hs và Ts":
+
+H:
+
+H
+
+ypoxia,
+
+h
+
+ypovolemia, acidosis (
+
+h
+
+ydrogen ion),
+
+h
+
+yperkalemia or
+
+h
+
+ypokalemia,
+
+h
+
+ypothermia (Giảm oxy máu, giảm thể tích tuần hoàn, nhiễm toan (ion hydro), tăng kali huyết hoặc hạ kali máu, hạ thân nhiệt)
+
+T:
+
+T
+
+ablet or
+
+t
+
+oxin ingestion, cardiac
+
+t
+
+amponade,
+
+t
+
+ension pneumothorax,
+
+t
+
+hrombosis (
+
+pulmonary
+
+or coronary) (Nuốt phải máy tính bảng hoặc chất độc, chèn ép tim, tràn khí màng phổi căng thẳng, huyết khối (phổi hoặc mạch vành))
+
+Hạ đường huyết là một nguyên nhân tiềm ẩn khác gây ra tình trạng ngừng tim, mặc dù tính hữu ích của việc điều trị ở người lớn vẫn còn gây tranh cãi và các hướng dẫn hiện tại không hỗ trợ việc kiểm tra glucose thường quy hoặc sử dụng dextrose trong quá trình thực hiện CPR ở người lớn (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+). Tuy nhiên, trong nhi khoa, cần kiểm tra lượng đường trong máu và điều trị hạ đường huyết kịp thời vì đây là nguyên nhân có thể điều trị được gây ra tình trạng ngừng tim (
+
+4
+
+).
+
+Thật không may, nguyên nhân gây ngừng tim thường không thể được xác định trong quá trình hồi sức tim phổi (CPR). Khám lâm sàng, siêu âm ngực trong quá trình hồi sức tim phổi và chụp các phim X-quang ngực sau khi tuần hoàn tự nhiên trở lại sau thủ thuật mở thông thành ngực bằng kim có thể phát hiện tràn khí màng phổi, điều này cho thấy
+
+tràn khí màng phổi áp lực
+
+là nguyên nhân gây ngừng tim, đặc biệt là nếu bệnh nhân đáp ứng với việc làm giảm tràn khí màng phổi.
+
+Siêu âm tim có thể phát hiện các cơn co thắt tim và nhận biết tình trạng
+
+chèn ép tim
+
+, tình trạng giảm thể tích máu cực độ (tim rỗng), tình trạng quá tải thất phải gợi ý
+
+thuyên tắc mạch phổi
+
+và các bất thường vận động thành khu trú gợi ý
+
+nhồi máu cơ tim
+
+, đồng thời giúp xác định nhanh chóng các nguyên nhân có thể điều trị được gây ra tình trạng ngừng tim (
+
+5
+
+). Tuy nhiên, cần có thêm các nghiên cứu để xác định liệu việc sử dụng siêu âm trong quá trình hồi sức có mang lại lợi ích về khả năng sống sót lâu dài hay không. Không nên thực hiện siêu âm tim qua thành ngực nếu cần phải gián đoạn đáng kể quá trình hồi sức tim phổi (CPR).
+
+Xét nghiệm máu nhanh tại giường có thể phát hiện nồng độ kali bất thường, thiếu máu trầm trọng và nồng độ glucose cực thấp, tất cả đều có thể là nguyên nhân gây ngừng tim.
+
+Tiền sử do gia đình hoặc nhân viên cứu hộ cung cấp có thể gợi ý tình trạng quá liều thuốc.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Abramson TM, Bosson N, Loza-Gomez A, Eckstein M, Gausche-Hill M
+
+: Utility of Glucose Testing and Treatment of Hypoglycemia in Patients with Out-of-Hospital Cardiac Arrest.
+
+Prehosp Emerg Care
+
+26(2):173–178, 2022. doi:10.1080/10903127.2020.1869873
+
+2.
+
+Hanefeld M, Duetting E, Bramlage P
+
+: Cardiac implications of hypoglycaemia in patients with diabetes - a systematic review.
+
+Cardiovasc Diabetol
+
+12:135, 2013. doi:10.1186/1475-2840-12-135
+
+3.
+
+Reno CM, Daphna-Iken D, Chen YS, VanderWeele J, Jethi K, Fisher SJ
+
+: Severe hypoglycemia-induced lethal cardiac arrhythmias are mediated by sympathoadrenal activation.
+
+Diabetes
+
+62(10):3570–3581, 2013. doi:10.2337/db13-0216
+
+4.
+
+Losek JD
+
+: Hypoglycemia and the ABC'S (sugar) of pediatric resuscitation.
+
+Ann Emerg Med
+
+35(1):43–46, 2000. doi:10.1016/s0196-0644(00)70103-x
+
+5.
+
+Gaspari R, Weekes A, Adhikari S, et al
+
+: Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest.
+
+Resuscitation
+
+109:33–39, 2016. doi:10.1016/j.resuscitation.2016.09.018
+
+Điều trị ngừng tim
+
+CPR chất lượng cao, bao gồm khử rung tim nhanh cho nhịp tim có thể sốc (
+
+rung thất
+
+[VF] hoặc
+
+nhịp nhanh thất
+
+[VT])
+
+Sử dụng sớm epinephrine điều trị những loại nhịp không thể sốc được
+
+Điều trị nguyên nhân chính gây ngừng tuần hoàn ngay khi có thể
+
+Chăm sóc sau khi hồi sức
+
+Can thiệp nhanh là cần thiết.
+
+Hồi sức tim phổi (
+
+CPR
+
+) là phản ứng có tổ chức, tuần tự đối với tình trạng ngừng tim; bắt đầu nhanh chóng các lần ép tim liên tục ("ấn mạnh và ấn nhanh") và khử rung tim sớm cho những bệnh nhân bị VF hoặc VT (thường gặp hơn ở người lớn) là chìa khóa thành công trong việc đưa tuần hoàn tự nhiên trở lại. Hướng dẫn năm 2020 của AHA về điều trị ngừng tim cũng khuyên nên tiêm nhanh liều epinephrine đầu tiên cho những bệnh nhân có nhịp tim không thể sốc điện (
+
+1
+
+,
+
+2
+
+,
+
+3
+
+).
+
+Ở trẻ em, những người thường bị ngừng tim do ngạt, nhịp tim thường là nhịp chậm, sau đó là vô tâm thu. Tuy nhiên, khi ngừng tim không có triệu chứng hô hấp trước đó, trẻ em có biểu hiện VT hoặc VF và do đó cũng cần được khử rung tim kịp thời (
+
+3
+
+). Tỷ lệ mắc VF khi nhịp tim ban đầu được ghi nhận tăng lên ở trẻ em
+
+>
+
+12 tuổi (
+
+3
+
+,
+
+4
+
+).
+
+Sau khi bắt đầu ngay các biện pháp ép tim ngoài lồng ngực liên tục và chất lượng cao, khử rung tim và tiêm epinephrine ban đầu, các nguyên nhân chính (ví dụ: thiếu oxy máu, giảm thể tích máu, độc tố, chèn ép tim) phải được điều trị kịp thời. Nếu không phát hiện ngay tình trạng bệnh có thể điều trị được thì phương pháp điều trị sẽ được xác định dựa trên nhịp tim. Đối với bệnh nhân bị VF kháng trị hoặc VT vô mạch không có mạch trở lại sau 2 lần khử rung tim đầu tiên, cần khử rung tim lại, 2 phút một lần và cho dùng
+
+epinephrine
+
+từ 3 phút đến 5 phút một lần. Amiodarone hoặc lidocaine cũng có thể được dùng nếu bệnh nhân vẫn tiếp tục có nhịp tim kháng trị có thể sốc điện mặc dù đã sốc điện 3 lần và dùng
+
+epinephrine
+
+. Đối với nhịp tim không thể sốc điện, việc sử dụng
+
+epinephrine
+
+sớm có liên quan đến khả năng sống sót nguyên vẹn về mặt thần kinh (
+
+5, 6
+
+).
+
+Dịch truyền tĩnh mạch (ví dụ: 1 L nước muối sinh lý 0,9%, máu toàn phần hoặc dạng phối hợp khi mất máu) cần phải được cung cấp khi cần thiết để tối ưu hóa tình trạng thể tích. Nếu đáp ứng với dịch truyền tĩnh mạch không đủ, bác sĩ lâm sàng có thể cho thêm thuốc làm co mạch (ví dụ: norepinephrine, epinephrine, dopamine, vasopressin). Tuy nhiên, không có bằng chứng chắc chắn nào cho thấy việc sử dụng thuốc làm co mạch liều cao trong quá trình ngừng tim có thể cải thiện khả năng phục hồi tuần hoàn tự nhiên hoặc khả năng sống sót nguyên vẹn về mặt thần kinh.
+
+Sau khi có mạch trở lại, chăm sóc sau hồi sức tập trung vào việc xác định và điều trị nguyên nhân, ổn định và ngăn chặn tình trạng tái ngừng tim cũng như tối ưu hóa kết quả thần kinh. Ngoài việc điều trị nguyên nhân, chăm sóc sau hồi sức có thể bao gồm các phương pháp tối ưu hóa oxy và thông khí cũng như chụp động mạch vành nhanh ở những bệnh nhân bị nhồi máu cơ tim có ST chênh lên (STEMI). Hướng dẫn của AHA năm 2020 gợi ý rằng chụp động mạch vành muộn cũng cần phải được cân nhắc cho những bệnh nhân không bị STEMI. Khuyến nghị là xử trí nhiệt độ mục tiêu đến nhiệt độ bình thường điều trị < 37,5°C, mặc dù có ranh giới nhiệt độ thấp hơn là 32°C (
+
+7
+
+,
+
+8
+
+). Nghiên cứu đang được tiến hành để xác định liệu việc xử trí nhiệt độ mục tiêu bằng hạ thân nhiệt được kiểm soát (từ 32°C đến 34°C) có mang lại lợi ích cho những người sống sót sau cơn ngừng tim hay không (
+
+9
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Atkins DL, Sasson C, Hsu A, et al
+
+: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.
+
+Circ Cardiovasc Qual Outcomes
+
+15(4):e008900, 2022. doi:10.1161/CIRCOUTCOMES.122.008900
+
+2.
+
+Panchal AR, Bartos JA, Cabañas JG, et al
+
+: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S366–S468, 2020. doi:10.1161/CIR.0000000000000916
+
+3.
+
+Tijssen JA, Prince DK, Morrison LJ, et al
+
+: Time on the scene and interventions are associated with improved survival in pediatric out-of-hospital cardiac arrest.
+
+Resuscitation
+
+94:1–7, 2015. doi:10.1016/j.resuscitation.2015.06.012
+
+4.
+
+Topjian AA, Raymond TT, Atkins D, et al
+
+: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+142(16_suppl_2):S469–S523, 2020. doi:10.1161/CIR.0000000000000901
+
+5.
+
+Okubo M, Komukai S, Callaway CW, Izawa J
+
+: Association of Timing of
+
+Epinephrine
+
+Administration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.
+
+JAMA Netw Open
+
+4(8):e2120176, 2021. doi:10.1001/jamanetworkopen.2021.20176
+
+6.
+
+Perkins GD, Ji C, Deakin CD, et al
+
+: A Randomized Trial of
+
+Epinephrine
+
+in Out-of-Hospital Cardiac Arrest.
+
+N Engl J Med
+
+379(8):711–721, 2018. doi:10.1056/NEJMoa1806842
+
+7.
+
+Perman SM, Bartos JA, Del Rios M, et al
+
+: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.
+
+Circulation
+
+148(12):982–988, 2023. doi:10.1161/CIR.0000000000001164
+
+8.
+
+Perman SM, Elmer J, Maciel CB, et al
+
+: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+149(5):e254–e273, 2024. doi:10.1161/CIR.0000000000001194
+
+9.
+
+Wyckoff MH, Greif R, Morley PT, et al
+
+: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.
+
+Circulation
+
+146(25):e483–e557, 2022 doi:10.1161/CIR.0000000000001095
+
+Tiên lượng về ngừng tim
+
+Sống sót đến khi xuất viện, đặc biệt là khả năng sống sót nguyên vẹn về mặt thần kinh, là một kết quả có ý nghĩa hơn chỉ đơn giản là phục hồi tuần hoàn tự nhiên.
+
+Tỷ lệ sống sót thay đổi đáng kể;
+
+các yếu tố thuận lợi
+
+đối với khả năng sống sót nguyên vẹn về mặt thần kinh bao gồm
+
+Cấp cứu ngừng tuần hoàn sớm và hiệu quả ngay từ đầu
+
+Ngừng tuần hoàn có người chứng kiến
+
+Vị trí tại bệnh viện (đặc biệt là đơn vị theo dõi)
+
+Nhịp ban đầu của
+
+rung thất
+
+(VF) hoặc
+
+nhịp nhanh thất
+
+(VT)
+
+Khử rung sớm VF hoặc VT
+
+Chăm sóc sau hồi sức, bao gồm hỗ trợ tuần hoàn và tiếp cận đến việc đặt ống thông tim
+
+Ở người lớn, quản lý nhiệt độ có mục tiêu (nhiệt độ cơ thể từ 32°C đến 36°C trong ≥ 24 giờ) và tránh tăng thân nhiệt
+
+Mặc dù các hướng dẫn về Hồi sinh Tim mạch Nâng cao (ACLS) năm 2020 của Hiệp hội Tim mạch Hoa Kỳ khuyến nghị làm mát đến phạm vi nhiệt độ từ 32°C đến 36°C, nhưng các khuyến nghị gần đây của Hồi sinh Tim phổi Nâng cao (ALS) của Ủy ban liên lạc quốc tế đề nghị tích cực ngăn ngừa sốt bằng nhiệt độ mục tiêu ≤ 37,5°C thay vì làm mát chủ động. Vẫn chưa rõ liệu một số nhóm bệnh nhân bị ngừng tim có cải thiện được khả năng sống sót còn nguyên vẹn về thần kinh hay không bằng cách quản lý hạ thân nhiệt có mục tiêu hơn là duy trì thân nhiệt bình thường (
+
+1, 2, 3, 4, 5
+
+).
+
+Nếu có nhiều yếu tố thuận lợi (ví dụ: chứng kiến ​​VF trong phòng hồi sức tích cực hoặc khoa cấp cứu), có tới khoảng 40% số người lớn bị ngừng tim khi nằm viện có thể sống sót đến khi xuất viện (
+
+6
+
+). Nhìn chung tại Hoa Kỳ, khả năng sống sót đến khi xuất viện ở những bệnh nhân bị ngừng tim trong bệnh viện vượt quá 30% (
+
+7
+
+).
+
+Một tỷ lệ đáng kể bệnh nhân được hồi sức thành công có rối loạn chức năng não ngắn hạn hoặc dài hạn biểu hiện bằng thay đổi mức độ tỉnh táo (từ lú lẫn nhẹ đến hôn mê), co giật hoặc cả hai (
+
+8
+
+,
+
+9
+
+).
+
+Khi các yếu tố đều không thuận lợi (ví dụ bệnh nhân vô tâm thu sau khi không được chứng kiến, ngừng tuần hoàn ngoại viện), hiếm khi sống sót. Nhìn chung, tỷ lệ sống sót được báo cáo sau khi bị ngừng tim ngoài bệnh viện là khoảng 10%.
+
+Dưới 10% số bệnh nhân bị ngừng tim, tại bệnh viện hoặc ngoài bệnh viện, được xuất viện với chức năng thần kinh tốt, được định nghĩa là khuyết tật não từ tối thiểu đến trung bình với khả năng thực hiện phần lớn các hoạt động sinh hoạt hàng ngày một cách độc lập, khi xuất viện (
+
+10
+
+,
+
+11
+
+).
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+Bernard SA, Gray TW, Buist MD, et al
+
+: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.
+
+N Engl J Med
+
+346:557–563, 2002. doi 10.1056/NEJMoa003289
+
+2.
+
+Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force
+
+: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.
+
+Resuscitation
+
+167:160–172, 2021 doi:10.1016/j.resuscitation.2021.08.040
+
+3.
+
+Merchant RM, Topjian AA, Panchal AR, et al
+
+: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+2020;142(16_suppl_2):S337-S357. doi:10.1161/CIR.0000000000000918
+
+4.
+
+Nielsen N, Wetterslev J, Cronberg T, et al
+
+: Targeted temperature management at 33°C versus 36°C after cardiac arrest.
+
+N Engl J Med
+
+369:2197–2206, 2013. doi: 10.1056/NEJMoa1310519
+
+5.
+
+Wyckoff MH, Greif R, Morley PT, et al
+
+: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.
+
+Circulation
+
+146(25):e483–e557, 2022 doi:10.1161/CIR.0000000000001095
+
+6.
+
+Andersen LW, Holmberg MJ, Berg KM, Donnino MW, Granfeldt A
+
+: In-Hospital Cardiac Arrest: A Review.
+
+JAMA
+
+321(12):1200–1210, 2019. doi:10.1001/jama.2019.1696
+
+7.
+
+Mallikethi-Reddy S, Akintoye E, Rubenfire M, Briasoulis A, Grines CL, Afonso L
+
+: Nationwide survival after inhospital cardiac arrest before and after 2010 cardiopulmonary resuscitation guidelines: 2007-2014.
+
+Int J Cardiol
+
+249:231–233, 2017. doi:10.1016/j.ijcard.2017.09.199
+
+8.
+
+Glimmerveen A, Verhulst M, Verbunt J, Van Heugten C, Hofmeijer J
+
+: Predicting Long-Term Cognitive Impairments in Survivors after Cardiac Arrest: A Systematic Review.
+
+J Rehabil Med
+
+55:jrm00368, 2023. doi:10.2340/jrm.v55.3497
+
+9.
+
+Moulaert VR, Verbunt JA, van Heugten CM, Wade DT
+
+: Cognitive impairments in survivors of out-of-hospital cardiac arrest: a systematic review.
+
+Resuscitation
+
+80(3):297–305, 2009. doi:10.1016/j.resuscitation.2008.10.034
+
+10.
+
+Perman SM, Bartos JA, Del Rios M, et al
+
+: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.
+
+Circulation
+
+148(12):982–988, 2023. doi:10.1161/CIR.0000000000001164
+
+11.
+
+Perman SM, Elmer J, Maciel CB, et al
+
+: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+
+Circulation
+
+149(5):e254–e273, 2024. doi:10.1161/CIR.0000000000001194
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của ngừng tim ---
+
+Ở người lớn,ngừng tim đột ngột chủ yếu là do bệnh tim (mọi loại, phần lớn ngừng tim đột ngột là dohội chứng vành cấp tínhvà phần lớn liên quan đến bệnh tim mạch nền). Ngừng tim đột ngột là biểu hiện đầu tiên của bệnh tim ở một tỷ lệ đáng kể bệnh nhân (1). Các nguyên nhân khác bao gồm sốc tuần hoàn do các bệnh lý không phải tim (đặc biệt làthuyên tắc động mạch phổi,xuất huyết tiêu hóahoặc chấn thương), suy hô hấp và rối loạn chuyển hóa (bao gồm cả quá liều thuốc) (2).Ở trẻ sơ sinh và trẻ nhỏ,ngừng tim ít gặp hơn ở người lớn. Nguyên nhân chính gây ra tình trạng ngừng tim ở trẻ sơ sinh và trẻ em là suy hô hấp do nhiều rối loạn hô hấp khác nhau (ví dụ: tắc nghẽn đường thở,đuối nước, nhiễm trùng,hội chứng đột tử ở trẻ sơ sinh [SIDS],hít phải khói). Tuy nhiên, ngừng timđột ngột(tình trạng ngừng tuần hoàn bất ngờ mà không có cảnh báo) ở trẻ em và thanh thiếu niên thường là doloạn nhịp timdobệnh lý kênh timhoặc bất thường cấu trúc tim tiềm ẩn. (3,4,5,6).Tài liệu tham khảo về căn nguyên1.Hayashi M, Shimizu W, Albert CM: The spectrum of epidemiology underlying sudden cardiac death.Circ Res116(12):1887–1906, 2015 doi:10.1161/CIRCRESAHA.116.3045212.Truhlář A, Deakin CD, Soar J, et al: European Resuscitation Council Guidelines for Resuscitation 2015: Section 4. Cardiac arrest in special circumstances.Resuscitation95:148–201, 2015 doi: 10.1016/j.resuscitation.2015.07.0173.Atkins DL, Everson-Stewart S, Sears GK, et al; Resuscitation Outcomes Consortium Investigators: Epidemiology and outcomes from out-of-hospital cardiac arrest in children: the Resuscitation Outcomes Consortium Epistry-Cardiac Arrest.Circulation119(11):1484–1491, 2009. doi: 10.1161/CIRCULATIONAHA.108.8026784.Meert KL, Telford R, Holubkov R, et al; Therapeutic Hypothermia after Pediatric Cardiac Arrest (THAPCA) Trial Investigators: Pediatric out-of-hospital cardiac arrest characteristics and their association with survival and neurobehavioral outcome.Pediatr Crit Care Med17(12):e543–e550, 2016. doi: 10.1097/PCC.00000000000009695.Scheller RL, Johnson L, Lorts A, Ryan TD: Sudden cardiac arrest in pediatrics.Pediatr Emerg Care32(9):630–636, 2016. doi: 10.1097/PEC.00000000000008956.Tsao CW, Aday AW, Almarzooq ZI, et al: Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association [published correction appears inCirculation147(8):e622, 2023].Circulation147(8):e93-e621, 2023 doi:10.1161/CIR.0000000000001123
+
+--- 2. Sinh bệnh học của ngừng tim ---
+
+Ngừng tim gây thiếu máu cục bộ toàn thể với hậu quả ở cấp độ tế bào ảnh hưởng xấu đến chức năng cơ quan ngay cả khi đã được hồi sức và phục hồi tưới máu. Các hậu quả chính bao gồm tổn thương trực tiếp tế bào và phù. Phù đặc biệt có hại cho não, có khả năng lan rộng tối đa, thường dẫn đến tăng áp lực nội sọ và giảm tưới máu não.Giảm sản xuấtATPdẫn đến mất sự toàn vẹn màng dẫn đến dòng kali đi ra ngoài và dòng natri và canxi đi vào. Dư thừa natri nội bào là một trong những nguyên nhân ban đầu gây phù tế bào. Thừa canxi làm hủy hoại ty thể (ức chế sản xuất ATP), tăng sản xuất nitric oxide (dẫn đến sự hình thành các gốc tự do gây hại), và trong một số trường hợp, làm kích hoạt các protease gây phá hủy các tế bào.Dòng ion bất thường cũng dẫn đến sự khử cực của các nơ-ron, giải phóng các chất dẫn truyền thần kinh, một số trong đó gây hại (ví dụ, glutamate kích hoạt một kênh canxi đặc hiệu, làm nặng lên tình trạng quá tải canxi trong tế bào).Các chất trung gian gây viêm (ví dụ, interleukin-1B, yếu tố hoại tử u alpha) được tạo thành; một số trong số đó có thể gây huyết khối vi mạch và mất toàn vẹn mạch máu với sự hình thành phù nề hơn nữa. Một số chất trung gian gây ra chết theo chương trình, kết quả là gia tăng chết tế bào.
+
+--- 3. Các triệu chứng và dấu hiệu của ngừng tim ---
+
+Ở những bệnh nhân nặng hoặc giai đoạn cuối, ngừng tim thường được báo hiệu bằng lâm sàng xấu đi nhanh, thở nhanh nông, giảm huyết áp động mạch và suy đồi ý thức.Trong trường hợp ngừng tim đột ngột, trụy tim xảy ra mà không có dấu hiệu báo trước, đôi khi kèm theo giật cơ ngắn hoặc hoạt động giống như co giật khác.
+
+--- 4. Chẩn đoán ngừng tim ---
+
+Bệnh sử và khám lâm sàngTheo dõi tim và điện tâm đồ (ECG)Đôi khi xét nghiệm tìm nguyên nhân (ví dụ: siêu âm tim, chẩn đoán hình ảnh ngực [chụp X-quang, siêu âm], xét nghiệm điện giải)Chẩn đoán ngừng tim dựa trên các biểu hiện lâm sàng như bất tỉnh, ngừng thở và mất mạch. Áp lực động mạch không đo được. Đồng tử giãn ra và mất phản ứng với ánh sáng.Nên áp dụng một máy theo dõi tim; nó có thể cho thấyrung thất(VF),nhịp nhanh thất(VT) hoặc vô tâm thu. Đôi khi có nhịp tưới máu (ví dụ: nhịp tim chậm, nhịp tim cực nhanh); nhịp tim này có thể biểu hiện hoạt động điện thực sự không có mạch (trước đây gọi là phân ly điện cơ) hoặc hạ huyết áp cực độ không phát hiện được mạch.Bệnh nhân được đánh giá các nguyên nhân có thể điều trị; một cách ghi nhớ hữu ích là "Hs và Ts":H:Hypoxia,hypovolemia, acidosis (hydrogen ion),hyperkalemia orhypokalemia,hypothermia (Giảm oxy máu, giảm thể tích tuần hoàn, nhiễm toan (ion hydro), tăng kali huyết hoặc hạ kali máu, hạ thân nhiệt)T:Tablet ortoxin ingestion, cardiactamponade,tension pneumothorax,thrombosis (pulmonaryor coronary) (Nuốt phải máy tính bảng hoặc chất độc, chèn ép tim, tràn khí màng phổi căng thẳng, huyết khối (phổi hoặc mạch vành))Hạ đường huyết là một nguyên nhân tiềm ẩn khác gây ra tình trạng ngừng tim, mặc dù tính hữu ích của việc điều trị ở người lớn vẫn còn gây tranh cãi và các hướng dẫn hiện tại không hỗ trợ việc kiểm tra glucose thường quy hoặc sử dụng dextrose trong quá trình thực hiện CPR ở người lớn (1,2,3). Tuy nhiên, trong nhi khoa, cần kiểm tra lượng đường trong máu và điều trị hạ đường huyết kịp thời vì đây là nguyên nhân có thể điều trị được gây ra tình trạng ngừng tim (4).Thật không may, nguyên nhân gây ngừng tim thường không thể được xác định trong quá trình hồi sức tim phổi (CPR). Khám lâm sàng, siêu âm ngực trong quá trình hồi sức tim phổi và chụp các phim X-quang ngực sau khi tuần hoàn tự nhiên trở lại sau thủ thuật mở thông thành ngực bằng kim có thể phát hiện tràn khí màng phổi, điều này cho thấytràn khí màng phổi áp lựclà nguyên nhân gây ngừng tim, đặc biệt là nếu bệnh nhân đáp ứng với việc làm giảm tràn khí màng phổi.Siêu âm tim có thể phát hiện các cơn co thắt tim và nhận biết tình trạngchèn ép tim, tình trạng giảm thể tích máu cực độ (tim rỗng), tình trạng quá tải thất phải gợi ýthuyên tắc mạch phổivà các bất thường vận động thành khu trú gợi ýnhồi máu cơ tim, đồng thời giúp xác định nhanh chóng các nguyên nhân có thể điều trị được gây ra tình trạng ngừng tim (5). Tuy nhiên, cần có thêm các nghiên cứu để xác định liệu việc sử dụng siêu âm trong quá trình hồi sức có mang lại lợi ích về khả năng sống sót lâu dài hay không. Không nên thực hiện siêu âm tim qua thành ngực nếu cần phải gián đoạn đáng kể quá trình hồi sức tim phổi (CPR).Xét nghiệm máu nhanh tại giường có thể phát hiện nồng độ kali bất thường, thiếu máu trầm trọng và nồng độ glucose cực thấp, tất cả đều có thể là nguyên nhân gây ngừng tim.Tiền sử do gia đình hoặc nhân viên cứu hộ cung cấp có thể gợi ý tình trạng quá liều thuốc.Tài liệu tham khảo chẩn đoán1.Abramson TM, Bosson N, Loza-Gomez A, Eckstein M, Gausche-Hill M: Utility of Glucose Testing and Treatment of Hypoglycemia in Patients with Out-of-Hospital Cardiac Arrest.Prehosp Emerg Care26(2):173–178, 2022. doi:10.1080/10903127.2020.18698732.Hanefeld M, Duetting E, Bramlage P: Cardiac implications of hypoglycaemia in patients with diabetes - a systematic review.Cardiovasc Diabetol12:135, 2013. doi:10.1186/1475-2840-12-1353.Reno CM, Daphna-Iken D, Chen YS, VanderWeele J, Jethi K, Fisher SJ: Severe hypoglycemia-induced lethal cardiac arrhythmias are mediated by sympathoadrenal activation.Diabetes62(10):3570–3581, 2013. doi:10.2337/db13-02164.Losek JD: Hypoglycemia and the ABC'S (sugar) of pediatric resuscitation.Ann Emerg Med35(1):43–46, 2000. doi:10.1016/s0196-0644(00)70103-x5.Gaspari R, Weekes A, Adhikari S, et al: Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest.Resuscitation109:33–39, 2016. doi:10.1016/j.resuscitation.2016.09.018
+
+--- 5. Điều trị ngừng tim ---
+
+CPR chất lượng cao, bao gồm khử rung tim nhanh cho nhịp tim có thể sốc (rung thất[VF] hoặcnhịp nhanh thất[VT])Sử dụng sớm epinephrine điều trị những loại nhịp không thể sốc đượcĐiều trị nguyên nhân chính gây ngừng tuần hoàn ngay khi có thểChăm sóc sau khi hồi sứcCan thiệp nhanh là cần thiết.Hồi sức tim phổi (CPR) là phản ứng có tổ chức, tuần tự đối với tình trạng ngừng tim; bắt đầu nhanh chóng các lần ép tim liên tục ("ấn mạnh và ấn nhanh") và khử rung tim sớm cho những bệnh nhân bị VF hoặc VT (thường gặp hơn ở người lớn) là chìa khóa thành công trong việc đưa tuần hoàn tự nhiên trở lại. Hướng dẫn năm 2020 của AHA về điều trị ngừng tim cũng khuyên nên tiêm nhanh liều epinephrine đầu tiên cho những bệnh nhân có nhịp tim không thể sốc điện (1,2,3).Ở trẻ em, những người thường bị ngừng tim do ngạt, nhịp tim thường là nhịp chậm, sau đó là vô tâm thu. Tuy nhiên, khi ngừng tim không có triệu chứng hô hấp trước đó, trẻ em có biểu hiện VT hoặc VF và do đó cũng cần được khử rung tim kịp thời (3). Tỷ lệ mắc VF khi nhịp tim ban đầu được ghi nhận tăng lên ở trẻ em>12 tuổi (3,4).Sau khi bắt đầu ngay các biện pháp ép tim ngoài lồng ngực liên tục và chất lượng cao, khử rung tim và tiêm epinephrine ban đầu, các nguyên nhân chính (ví dụ: thiếu oxy máu, giảm thể tích máu, độc tố, chèn ép tim) phải được điều trị kịp thời. Nếu không phát hiện ngay tình trạng bệnh có thể điều trị được thì phương pháp điều trị sẽ được xác định dựa trên nhịp tim. Đối với bệnh nhân bị VF kháng trị hoặc VT vô mạch không có mạch trở lại sau 2 lần khử rung tim đầu tiên, cần khử rung tim lại, 2 phút một lần và cho dùngepinephrinetừ 3 phút đến 5 phút một lần. Amiodarone hoặc lidocaine cũng có thể được dùng nếu bệnh nhân vẫn tiếp tục có nhịp tim kháng trị có thể sốc điện mặc dù đã sốc điện 3 lần và dùngepinephrine. Đối với nhịp tim không thể sốc điện, việc sử dụngepinephrinesớm có liên quan đến khả năng sống sót nguyên vẹn về mặt thần kinh (5, 6).Dịch truyền tĩnh mạch (ví dụ: 1 L nước muối sinh lý 0,9%, máu toàn phần hoặc dạng phối hợp khi mất máu) cần phải được cung cấp khi cần thiết để tối ưu hóa tình trạng thể tích. Nếu đáp ứng với dịch truyền tĩnh mạch không đủ, bác sĩ lâm sàng có thể cho thêm thuốc làm co mạch (ví dụ: norepinephrine, epinephrine, dopamine, vasopressin). Tuy nhiên, không có bằng chứng chắc chắn nào cho thấy việc sử dụng thuốc làm co mạch liều cao trong quá trình ngừng tim có thể cải thiện khả năng phục hồi tuần hoàn tự nhiên hoặc khả năng sống sót nguyên vẹn về mặt thần kinh.Sau khi có mạch trở lại, chăm sóc sau hồi sức tập trung vào việc xác định và điều trị nguyên nhân, ổn định và ngăn chặn tình trạng tái ngừng tim cũng như tối ưu hóa kết quả thần kinh. Ngoài việc điều trị nguyên nhân, chăm sóc sau hồi sức có thể bao gồm các phương pháp tối ưu hóa oxy và thông khí cũng như chụp động mạch vành nhanh ở những bệnh nhân bị nhồi máu cơ tim có ST chênh lên (STEMI). Hướng dẫn của AHA năm 2020 gợi ý rằng chụp động mạch vành muộn cũng cần phải được cân nhắc cho những bệnh nhân không bị STEMI. Khuyến nghị là xử trí nhiệt độ mục tiêu đến nhiệt độ bình thường điều trị < 37,5°C, mặc dù có ranh giới nhiệt độ thấp hơn là 32°C (7,8). Nghiên cứu đang được tiến hành để xác định liệu việc xử trí nhiệt độ mục tiêu bằng hạ thân nhiệt được kiểm soát (từ 32°C đến 34°C) có mang lại lợi ích cho những người sống sót sau cơn ngừng tim hay không (9).Tài liệu tham khảo về điều trị1.Atkins DL, Sasson C, Hsu A, et al: 2022 Interim Guidance to Health Care Providers for Basic and Advanced Cardiac Life Support in Adults, Children, and Neonates With Suspected or Confirmed COVID-19: From the Emergency Cardiovascular Care Committee and Get With The Guidelines-Resuscitation Adult and Pediatric Task Forces of the American Heart Association in Collaboration With the American Academy of Pediatrics, American Association for Respiratory Care, the Society of Critical Care Anesthesiologists, and American Society of Anesthesiologists.Circ Cardiovasc Qual Outcomes15(4):e008900, 2022. doi:10.1161/CIRCOUTCOMES.122.0089002.Panchal AR, Bartos JA, Cabañas JG, et al: Part 3: Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S366–S468, 2020. doi:10.1161/CIR.00000000000009163.Tijssen JA, Prince DK, Morrison LJ, et al: Time on the scene and interventions are associated with improved survival in pediatric out-of-hospital cardiac arrest.Resuscitation94:1–7, 2015. doi:10.1016/j.resuscitation.2015.06.0124.Topjian AA, Raymond TT, Atkins D, et al: Part 4: Pediatric Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation142(16_suppl_2):S469–S523, 2020. doi:10.1161/CIR.00000000000009015.Okubo M, Komukai S, Callaway CW, Izawa J: Association of Timing ofEpinephrineAdministration With Outcomes in Adults With Out-of-Hospital Cardiac Arrest.JAMA Netw Open4(8):e2120176, 2021. doi:10.1001/jamanetworkopen.2021.201766.Perkins GD, Ji C, Deakin CD, et al: A Randomized Trial ofEpinephrinein Out-of-Hospital Cardiac Arrest.N Engl J Med379(8):711–721, 2018. doi:10.1056/NEJMoa18068427.Perman SM, Bartos JA, Del Rios M, et al: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.Circulation148(12):982–988, 2023. doi:10.1161/CIR.00000000000011648.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254–e273, 2024. doi:10.1161/CIR.00000000000011949.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022 doi:10.1161/CIR.0000000000001095
+
+--- 6. Tiên lượng về ngừng tim ---
+
+Sống sót đến khi xuất viện, đặc biệt là khả năng sống sót nguyên vẹn về mặt thần kinh, là một kết quả có ý nghĩa hơn chỉ đơn giản là phục hồi tuần hoàn tự nhiên.Tỷ lệ sống sót thay đổi đáng kể;các yếu tố thuận lợiđối với khả năng sống sót nguyên vẹn về mặt thần kinh bao gồmCấp cứu ngừng tuần hoàn sớm và hiệu quả ngay từ đầuNgừng tuần hoàn có người chứng kiếnVị trí tại bệnh viện (đặc biệt là đơn vị theo dõi)Nhịp ban đầu củarung thất(VF) hoặcnhịp nhanh thất(VT)Khử rung sớm VF hoặc VTChăm sóc sau hồi sức, bao gồm hỗ trợ tuần hoàn và tiếp cận đến việc đặt ống thông timỞ người lớn, quản lý nhiệt độ có mục tiêu (nhiệt độ cơ thể từ 32°C đến 36°C trong ≥ 24 giờ) và tránh tăng thân nhiệtMặc dù các hướng dẫn về Hồi sinh Tim mạch Nâng cao (ACLS) năm 2020 của Hiệp hội Tim mạch Hoa Kỳ khuyến nghị làm mát đến phạm vi nhiệt độ từ 32°C đến 36°C, nhưng các khuyến nghị gần đây của Hồi sinh Tim phổi Nâng cao (ALS) của Ủy ban liên lạc quốc tế đề nghị tích cực ngăn ngừa sốt bằng nhiệt độ mục tiêu ≤ 37,5°C thay vì làm mát chủ động. Vẫn chưa rõ liệu một số nhóm bệnh nhân bị ngừng tim có cải thiện được khả năng sống sót còn nguyên vẹn về thần kinh hay không bằng cách quản lý hạ thân nhiệt có mục tiêu hơn là duy trì thân nhiệt bình thường (1, 2, 3, 4, 5).Nếu có nhiều yếu tố thuận lợi (ví dụ: chứng kiến ​​VF trong phòng hồi sức tích cực hoặc khoa cấp cứu), có tới khoảng 40% số người lớn bị ngừng tim khi nằm viện có thể sống sót đến khi xuất viện (6). Nhìn chung tại Hoa Kỳ, khả năng sống sót đến khi xuất viện ở những bệnh nhân bị ngừng tim trong bệnh viện vượt quá 30% (7).Một tỷ lệ đáng kể bệnh nhân được hồi sức thành công có rối loạn chức năng não ngắn hạn hoặc dài hạn biểu hiện bằng thay đổi mức độ tỉnh táo (từ lú lẫn nhẹ đến hôn mê), co giật hoặc cả hai (8,9).Khi các yếu tố đều không thuận lợi (ví dụ bệnh nhân vô tâm thu sau khi không được chứng kiến, ngừng tuần hoàn ngoại viện), hiếm khi sống sót. Nhìn chung, tỷ lệ sống sót được báo cáo sau khi bị ngừng tim ngoài bệnh viện là khoảng 10%.Dưới 10% số bệnh nhân bị ngừng tim, tại bệnh viện hoặc ngoài bệnh viện, được xuất viện với chức năng thần kinh tốt, được định nghĩa là khuyết tật não từ tối thiểu đến trung bình với khả năng thực hiện phần lớn các hoạt động sinh hoạt hàng ngày một cách độc lập, khi xuất viện (10,11).Tài liệu tham khảo về tiên lượng1.Bernard SA, Gray TW, Buist MD, et al: Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia.N Engl J Med346:557–563, 2002. doi 10.1056/NEJMoa0032892.Granfeldt A, Holmberg MJ, Nolan JP, Soar J, Andersen LW; International Liaison Committee on Resuscitation (ILCOR) Advanced Life Support Task Force: Targeted temperature management in adult cardiac arrest: Systematic review and meta-analysis.Resuscitation167:160–172, 2021 doi:10.1016/j.resuscitation.2021.08.0403.Merchant RM, Topjian AA, Panchal AR, et al: Part 1: Executive Summary: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation2020;142(16_suppl_2):S337-S357. doi:10.1161/CIR.00000000000009184.Nielsen N, Wetterslev J, Cronberg T, et al: Targeted temperature management at 33°C versus 36°C after cardiac arrest.N Engl J Med369:2197–2206, 2013. doi: 10.1056/NEJMoa13105195.Wyckoff MH, Greif R, Morley PT, et al: 2022 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.Circulation146(25):e483–e557, 2022 doi:10.1161/CIR.00000000000010956.Andersen LW, Holmberg MJ, Berg KM, Donnino MW, Granfeldt A: In-Hospital Cardiac Arrest: A Review.JAMA321(12):1200–1210, 2019. doi:10.1001/jama.2019.16967.Mallikethi-Reddy S, Akintoye E, Rubenfire M, Briasoulis A, Grines CL, Afonso L: Nationwide survival after inhospital cardiac arrest before and after 2010 cardiopulmonary resuscitation guidelines: 2007-2014.Int J Cardiol249:231–233, 2017. doi:10.1016/j.ijcard.2017.09.1998.Glimmerveen A, Verhulst M, Verbunt J, Van Heugten C, Hofmeijer J: Predicting Long-Term Cognitive Impairments in Survivors after Cardiac Arrest: A Systematic Review.J Rehabil Med55:jrm00368, 2023. doi:10.2340/jrm.v55.34979.Moulaert VR, Verbunt JA, van Heugten CM, Wade DT: Cognitive impairments in survivors of out-of-hospital cardiac arrest: a systematic review.Resuscitation80(3):297–305, 2009. doi:10.1016/j.resuscitation.2008.10.03410.Perman SM, Bartos JA, Del Rios M, et al: Temperature Management for Comatose Adult Survivors of Cardiac Arrest: A Science Advisory From the American Heart Association.Circulation148(12):982–988, 2023. doi:10.1161/CIR.000000000000116411.Perman SM, Elmer J, Maciel CB, et al: 2023 American Heart Association Focused Update on Adult Advanced Cardiovascular Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.Circulation149(5):e254–e273, 2024. doi:10.1161/CIR.0000000000001194

@@ -1,0 +1,644 @@
+TIÊU ĐỀ: Tổng quan về vi khuẩn
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/tổng-quan-về-vi-khuẩn
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về vi khuẩn
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 1 2025
+
+v999650_vi
+
+Vi khuẩn là những vi sinh vật có DNA sợi đôi dạng tròn (trừ loài
+
+Streptomyces
+
+) và thành tế bào (trừ loài mycoplasma). Hầu hết vi khuẩn sống ngoại bào, nhưng một số lại ưu tiên cư trú và nhân lên trong nội bào.
+
+Các mầm bệnh nội bào bắt buộc
+
+chỉ có thể phát triển, sinh sản và gây bệnh trong tế bào của vật chủ. Ví dụ về các mầm bệnh này bao gồm
+
+chlamydia
+
+và
+
+rickettsia
+
+.
+
+Các mầm bệnh nội bào tùy ý
+
+có thể sống và sinh sản bên trong hoặc bên ngoài tế bào chủ. Ví dụ về các mầm bệnh này bao gồm
+
+Salmonella typhi
+
+, loài
+
+Brucella
+
+,
+
+Francisella tularensis
+
+,
+
+N. gonorrhoeae
+
+,
+
+Neisseria meningitidis
+
+,
+
+Legionella
+
+và loài
+
+Listeria
+
+,
+
+Mycobacterium tuberculosis
+
+.
+
+Nhiều vi khuẩn hiện diện ở người dưới dạng hệ vi sinh vật bình thường, thường có số lượng lớn và ở nhiều khu vực (ví dụ, trong đường tiêu hóa và da). Chỉ có một vài loài vi khuẩn là mầm bệnh của con người.
+
+Vi khuẩn được phân loại theo các tiêu chí sau (xem thêm bảng phân loại:
+
+Phân loại các vi khuẩn gây bệnh thông thường
+
+.):
+
+Hình thái học
+
+Nhuộm soi
+
+Sự bao bọc
+
+Sự yêu cầu oxy
+
+Hình thái học
+
+Vi khuẩn có thể có dạng
+
+Hình trụ (bacilli)
+
+Hình cầu (cocci)
+
+Xoắn ốc (spirochetes)
+
+Một vài cầu khuẩn, nhiều loại trực khuẩn,và phần lớn xoắn khuẩn đều di chuyển được.
+
+Nhuộm soi
+
+Nhuộm Gram
+
+là vết nhuộm phổ biến nhất để xác định vi khuẩn nói chung. Vi khuẩn Gram dương giữ lại thuốc nhuộm tinh thể màu tím (có màu xanh đậm) sau khi cố định bằng iod, khử màu bằng cồn và nhuộm tương phản bằng safranin; vi khuẩn gram âm, không bắt thuốc nhuộm màu tím, thể hiện màu đỏ. Vi khuẩn gram âm có thêm màng ngoài chứa lipopolysaccharide (nội độc tố), làm tăng độc lực và khả năng kháng kháng sinh của các vi khuẩn này.  (Đối với các yếu tố khác làm tăng tính gây bệnh của vi khuẩn, xem
+
+Các yếu tố tạo điều kiện thuận lợi cho sự xâm lấn của vi sinh vật
+
+.)
+
+Nhuộm Ziehl-Neelsen stain
+
+và
+
+nhuộm Kinyoun
+
+là các loại nhuộm axit nhanh được sử dụng để xác định chủ yếu là vi khuẩn mycobacteria, đặc biệt là
+
+M. tuberculosis
+
+. Họ cũng có thể xác định được vi khuẩn gram dương
+
+Nocardia
+
+và các động vật đơn bào
+
+Cryptosporidia
+
+,
+
+Cyclospora
+
+và
+
+Cystoisospora
+
+. Carbolfuchsin được áp dụng, tiếp theo là khử màu bằng axit clohidric và ethanol và sau đó phản quang với màu xanh methylene.
+
+Nhuộm huỳnh quang
+
+(ví dụ, auramine-rhodamine) cũng xác định các sinh vật có tính axit, nhưng cần một kính hiển vi huỳnh quang đặc biệt.
+
+(Xem thêm
+
+Soi kính hiển vi
+
+.)
+
+Sự bao bọc
+
+Một số vi khuẩn được bao bọc trong vỏ nang; đối với một số vi khuẩn có vỏ nang (ví dụ,
+
+Streptococcus pneumoniae
+
+,
+
+Haemophilus influenzae
+
+), vỏ nang này giúp bảo vệ chúng khỏi bị nuốt bởi các tế bào thực bào. Vỏ nang làm gia tăng sự độc tính của vi khuẩn.
+
+Sự yêu cầu oxy
+
+Vi khuẩn hiếu khí
+
+(hiếu khí bắt buộc) đòi hỏi oxygen để sản xuất năng lượng và phát triển trong môi trường nuôi cấy. Chúng tạo ra năng lượng bằng quá trình hô hấp tế bào hiếu khí.
+
+Vi khuẩn kỵ khí
+
+(
+
+bắt buộc kỵ khí
+
+) không yêu cầu oxygen và không phát triển trong môi trường nuôi cấy nếu có không khí. Chúng sản xuất năng lượng bằng quá trình lên men và hô hấp kỵ khí. Vi khuẩn kỵ khí phổ biến ở hệ tiêu hoá, sinh dục nữ, kẽ răng miệng và các vết thương mạn tính kém tưới máu.
+
+Vi khuẩn gây bện
+
+có thể phát triển có hoặc Không áp dụng oxy. Chúng tạo ra năng lượng bằng quá trình lên men hoặc hô hấp kỵ khí khi thiếu oxy và bằng hô hấp tế bào hiếu khí khi có oxy. Vi khuẩn ưa vi khí thích sức căng oxy giảm (ví dụ, từ 2 đến 10%).
+
+Vi khuẩn ưa vi khí
+
+có thể phát triển trong môi trường hạn chế oxy. Ví dụ bao gồm loài
+
+Campylobacter
+
+và
+
+Helicobacter pylori.
+
+Ký sinh trùng nội bào bắt buộc,
+
+chẳng hạn như chlamydiae, lấy năng lượng từ tế bào chủ và không tự sản xuất ra năng lượng.
+
+Bảng
+
+Phân loại các vi khuẩn gây bệnh thông thường
+
+Bảng
+
+Phân loại các vi khuẩn gây bệnh thông thường
+
+Phân loại các vi khuẩn gây bệnh thông thường
+
+Kiểu
+
+Vi khuẩn
+
+Hiếu khí bắt buộc
+
+Cầu khuẩn gram âm
+
+Moraxella catarrhalis
+
+Neisseria gonorrhoeae
+
+hoặc
+
+N. meningitidis
+
+*
+
+Trực khuẩn gram dương
+
+Corynebacterium jeikeium
+
+Trực khuẩn sinh sản nhanh axit
+
+Mycobacterium avium
+
+complex,
+
+M. kansasii
+
+,
+
+M. leprae
+
+,
+
+M. tuberculosis
+
+Nocardia
+
+sp
+
+Trực khuẩn gram âm không lên men, không phải Enterobacterales (trước đây là Enterobacteriaceae)
+
+Acinetobacter calcoaceticus
+
+Elizabethkingia meningoseptica
+
+(trước đây là
+
+Flavobacterium meningosepticum)
+
+Pseudomonas aeruginosa
+
+,*
+
+P. alcaligenes
+
+, các loài
+
+Pseudomonas
+
+khác
+
+Stenotrophomonas maltophilia
+
+Vi khuẩn không điển hình gram âm cầu trực khuẩn và trực khuẩn
+
+Brucella
+
+sp
+
+Loài
+
+Bordetella
+
+Loài
+
+Francisella
+
+Chủng
+
+Legionella
+
+Leptospiraceae (xoắn khuẩn)
+
+Leptospira
+
+sp
+
+Kỵ khí bắt buộc
+
+Trực khuẩn gram âm
+
+Bacteroides fragilis, các
+
+loài
+
+Bacteroides
+
+khác
+
+Fusobacterium
+
+sp
+
+Loài
+
+Prevotella
+
+Cầu khuẩn gram âm
+
+Chủng
+
+Veillonella
+
+Cầu khuẩn gram dương
+
+Peptococcus niger
+
+Peptostreptococcus
+
+sp
+
+Các trực khuẩn Gram dương không tạo thành bào tử
+
+Loài
+
+Actinomyces
+
+Loài
+
+Fusobacterium
+
+Loài
+
+Eubacterium
+
+Loài
+
+Cutibacterium
+
+(trước đây là
+
+Propionibacterium
+
+)
+
+Trực khuẩn gram dương sinh nha bào
+
+Clostridium botulinum
+
+,
+
+C. perfringens,
+
+C. tetani
+
+, các loài
+
+Clostridium
+
+khác
+
+kỵ khí không bắt buộc
+
+Cầu khuẩn gram dương sinh men catalase
+
+Staphylococcus aureusaureus
+
+(dương tính với coagulase)
+
+S. epidermidis
+
+(âm tính với coagulase), staphylococci âm tính với coagulase khác
+
+Cầu khuẩn Gram dương, âm tính với catalase
+
+Enterococcus faecalis
+
+,
+
+E. faecium
+
+Streptococcus agalactiae
+
+(group B streptococcus),
+
+S. bovis
+
+,
+
+S. pneumoniae
+
+,
+
+S. pyogenes
+
+(group A streptococcus), liên cầu khuẩn nhóm viridans (
+
+S. mutans
+
+,
+
+S. mitis
+
+,
+
+S. salivarius
+
+,
+
+S. sanguis
+
+), nhóm
+
+S. anginosus
+
+(
+
+S. anginosus
+
+,
+
+S. milleri
+
+,
+
+S. constellatus
+
+)
+
+Gemella morbillorum
+
+Trực khuẩn gram dương
+
+Bacillus anthracis
+
+Erysipelothrix rhusiopathiae
+
+Gardnerella vaginalis
+
+(thay đổi gram)
+
+Trực khuẩn gram âm
+
+Enterobacterales (
+
+Citrobacter
+
+sp,
+
+Enterobacter
+
+,
+
+Escherichia coli
+
+, loài
+
+Klebsiella
+
+,
+
+Morganella morganii
+
+, loài
+
+Proteus
+
+,
+
+Plesiomonas shigelloides
+
+,
+
+Providencia rettgeri
+
+,
+
+Salmonella typhi
+
+, loài khác
+
+Salmonella
+
+,
+
+Serratia marcescens
+
+, loài
+
+Shigella
+
+,
+
+Yersinia enterocolitica
+
+,
+
+Y. pestis
+
+)
+
+Lên men, không phải Enterobacterales
+
+Aeromonas hydrophila
+
+Chromobacterium violaceum
+
+Pasteurella multocida
+
+Vi khuẩn không điển hình gram âm cầu trực khuẩn và trực khuẩn
+
+Aggregatibacter
+
+(trước đây
+
+là Actinobacillus
+
+)
+
+actinomycetemcomitans
+
+Eikenella corrodens
+
+Haemophilus influenzae
+
+,
+
+các loài
+
+Haemophilus
+
+khác
+
+Mycoplasma
+
+Mycoplasma pneumoniae
+
+Ưa vi khí
+
+Phẩy khuẩn
+
+Campylobacter jejuni
+
+Helicobacter pylori
+
+Vibrio cholerae,
+
+V. vulnificus
+
+Spirochaetaceae (xoắn khuẩn)
+
+Borrelia burgdorferi
+
+Treponema pallidum
+
+Kí sinh nội bào bắt buộc
+
+Chlamydiaceae
+
+Chlamydia trachomatis
+
+,
+
+C. psittaci
+
+,
+
+Chlamydophila pneumoniae
+
+Coxiellaceae
+
+Coxiella burnetii
+
+Rickettsiales
+
+Rickettsia prowazekii
+
+,
+
+R. rickettsii,
+
+R. typhi
+
+Orientia tsutsugamushi
+
+Ehrlichia chaffeensis
+
+Anaplasma phagocytophilum
+
+* Mặc dù thường được coi là vi khuẩn hiếu khí bắt buộc, những vi khuẩn này có thể phát triển trong điều kiện không có oxy bằng cách sử dụng nitrit làm chất nhận điện tử thay thế.
+
+* Mặc dù thường được coi là vi khuẩn hiếu khí bắt buộc, những vi khuẩn này có thể phát triển trong điều kiện không có oxy bằng cách sử dụng nitrit làm chất nhận điện tử thay thế.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

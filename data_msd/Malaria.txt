@@ -1,0 +1,2259 @@
+TIÊU ĐỀ: Malaria
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/ký-sinh-trùng-đơn-bào-ngoài-ruột/malaria
+================================================================================
+
+NỘI DUNG:
+
+Malaria
+
+Theo
+
+Chelsea Marie
+
+,
+
+PhD
+
+,
+
+University of Virginia;
+
+William A. Petri, Jr
+
+,
+
+MD, PhD
+
+,
+
+University of Virginia School of Medicine
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2022
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1016413_vi
+
+Sốt rét là bệnh nhiễm trùng do các loài
+
+Plasmodium
+
+gây ra. Các triệu chứng và dấu hiệu bao gồm sốt (có thể theo chu kỳ), ớn lạnh, gay gắt, đổ mồ hôi, tiêu chảy, đau bụng, suy hô hấp, lú lẫn, co giật, thiếu máu tán huyết, lách to và các bất thường về thận. Chẩn đoán bằng cách tìm
+
+Plasmodium
+
+trong máu ngoại vi và các xét nghiệm chẩn đoán nhanh. Điều trị và điều trị dự phòng phụ thuộc vào loài
+
+Plasmodium
+
+và độ nhạy cảm với thuốc và tình trạng lâm sàng của bệnh nhân. Các phác đồ điều trị cho bệnh cấp tính bao gồm liệu pháp phối hợp dựa trên artemisinin, phác đồ có tác dụng nhanh nhất, phối hợp cố định atovaquone và proguanil và ít phổ biến hơn là chloroquine, quinine hoặc mefloquine. Bệnh nhân bị nhiễm
+
+P. vivax
+
+and
+
+P. ovale
+
+cũng dùng primaquine hoặc dạng đơn liều của tafenoquine để ngăn ngừa tái phát. Điều trị dự phòng thường là dạng phối hợp cố định atovaquone cộng với proguanil hoặc với doxycycline; chloroquine được sử dụng ở những khu vực không có kháng chloroquine. Điều trị giai đoạn cuối bằng primaquine hoặc tafenoquine được áp dụng cho những bệnh nhân có khả năng đã phơi nhiễm
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Dự phòng tái phát với
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Sốt rét là bệnh nhiễm trùng do các loài
+
+Plasmodium
+
+gây ra. Khoảng một nửa dân số thế giới vẫn có nguy cơ sốt rét. Bệnh sốt rét hay gặp ở châu Phi, Ấn Độ và các khu vực khác của Nam Á, Đông Nam Á, Bắc và Nam Triều Tiên, Mexico, Trung Mỹ, Haiti, Cộng hòa Dominican, Nam Mỹ (bao gồm các phần phía bắc Argentina), Trung Đông (bao gồm Thổ Nhĩ Kỳ, Syria, Iran, và Iraq), và Trung Á. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) cung cấp thông tin về các quốc gia cụ thể nơi có bệnh sốt rét lây truyền (xem
+
+CDC: Thông tin về bệnh sốt vàng và sốt rét, theo quốc gia
+
+), các loại sốt rét, mô hình kháng thuốc và các biện pháp dự phòng được khuyến nghị (xem
+
+CDC: Sốt rét
+
+).
+
+Vào năm 2020, ước tính có khoảng 241 triệu trường hợp mắc bệnh sốt rét, với 95% trong số đó ở Châu Phi (xem
+
+Báo cáo Sốt rét Thế giới năm 202
+
+1). Ước tính có khoảng 627.000 người chết vì sốt rét vào năm 2020, chủ yếu là trẻ em < 5 tuổi. Kể từ năm 2000, các ca tử vong do sốt rét đã giảm khoảng 30% nhờ những nỗ lực của
+
+Hiệp hội Đối tác RBM (Roll Back Malaria)
+
+để chấm dứt bệnh sốt rét, có hơn 500 đối tác (bao gồm các quốc gia lưu hành và các tổ chức và cơ quan khác nhau). Bất chấp sự suy giảm trong nhiều thập kỷ, số người chết đã tăng lên vào năm 2020 do sự gián đoạn do đại dịch COVID-19.
+
+Sốt rét đã từng một lần thành dịch ở Mỹ. Hiện tại có khoảng 1500 trường hợp xảy ra ở Mỹ mỗi năm. Gần như tất cả đều nhiễm ở nước ngoài, nhưng một số nhỏ do truyền máu hoặc hiếm khi lây truyền bởi muỗi địa phương đốt người nhập cư hoặc những người đi du lịch bị nhiễm bệnh.
+
+Sinh lý bệnh của sốt rét
+
+Các loài
+
+Plasmodium
+
+gây bệnh cho người
+
+P. falciparum
+
+P. vivax
+
+P. ovale
+
+P. malariae
+
+P. knowlesi
+
+Đồng nhiễm với nhiều hơn một loài
+
+Plasmodium
+
+không phổ biến nhưng có thể xảy ra.
+
+P. knowlesi
+
+là một mầm bệnh ở Đông Nam Á, đặc biệt là ở Malaysia. Khỉ Macaque là vật chủ chính. Những người sống hoặc làm việc gần hoặc trong rừng thường mắc phải
+
+P. knowlesi
+
+.
+
+Vòng đời cơ bản là như nhau ở tất cả các loài
+
+Plasmodium
+
+. Truyền bệnh bắt đầu khi muỗi cái
+
+Anophen
+
+chích vào một người bị sốt rét và ăn phải máu có chứa bào tử.
+
+Trong khoảng 1 đến 2 tuần sau, các giao tử bên trong muỗi sinh sản và tạo ra các thoa trùng. Khi muỗi đốt người khác, thoa trùng được tiêm và nhanh chóng đến gan và nhiễm vào tế bào gan.
+
+Các ký sinh trùng trưởng thành tạo thể phân liệt trong tế bào gan. Mỗi thể phân liệt tạo ra 10.000 đến 30.000 ký sinh trùng non, những chất này sẽ được thải ra trong máu từ 1 đến 3 tuần sau khi vỡ tế bào gan. Mỗi ký sinh trùng non có thể xâm nhập vào một hồng cầu và chuyển thành một thể tự dưỡng.
+
+Thể tự dưỡng phát triển, và hầu hết phát triển thành thể phân liệt hồng cầu; các thể phân liệt tạo ra các ký sinh trùng non khác, sau 48 đến 72 giờ sau đó làm vỡ tế bào hồng cầu và được giải phóng trong huyết tương. Những ký sinh trùng non sau đó nhanh chóng xâm nhập các hồng cầu mới, lặp lại chu kỳ. Một số thể tự dưỡng phát triển thành các giao tử, xâm nhập vào muỗi
+
+Anophen
+
+. Các giao tử phát triển thành hợp tử trong ruột của muỗi, phát triển thành nang trứng và giải phóng thoa trùng di chuyển đến các tuyến nước bọt.
+
+Vòng đời của
+
+Plasmodium
+
+Hình ảnh
+
+Hình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Với
+
+P. vivax
+
+và
+
+P. ovale
+
+(nhưng không phải
+
+P. falciparum
+
+hoặc
+
+P. malariae)
+
+, các thể phân liệt ở mô có thể tồn tại dưới dạng các nốt sần ở gan trong nhiều năm. Sốt rét tái phát do
+
+P. ovale
+
+có thể xảy ra trong khoảng 6 năm sau một đợt sốt rét triệu chứng và bệnh đã lây nhiễm qua truyền máu từ người đã tiếp xúc 7 năm trước khi cho máu. Những dạng không hoạt động này đóng vai trò như vật nén thời gian, gây ra tình trạng tái phát và phức tạp hóa trị bởi vì chúng không đáp ứng với hầu hết các thuốc chống sốt rét, có hiệu quả với ký sinh trùng trong máu.
+
+Giai đoạn tiền hồng cầu (giai đoạn gan) của chu kỳ sống sốt rét không xảy ra khi bệnh lây truyền qua truyền máu, sử dụng kim tiêm chung, hoặc bẩm sinh. Do đó, các phương thức lây truyền này không gây ra bệnh tiềm ẩn hoặc sự tái phát chậm.
+
+Hồng cầu vỡ giải phóng các ký sinh trùng non liên quan đến các triệu chứng lâm sàng. Nếu trầm trọng, sự
+
+tan máu
+
+gây ra thiếu máu và vàng da, là gánh nặng cho lách để thực bào những hồng cầu bệnh. Thiếu máu có thể nghiêm trọng do nhiễm
+
+P. falciparum
+
+hoặc nhiễm
+
+P. vivax
+
+mạn tính nhưng nhẹ khi nhiễm
+
+P. malariae
+
+.
+
+Sốt rét Falciparum
+
+Khác với các dạng sốt rét khác,
+
+P. falciparum
+
+gây tắc nghẽn mao mạch bởi hồng cầu nhiễm ký sinh trùng dính kết vào nội mạc. Thiếu máu cục bộ có thể xảy ra với tình trạng thiếu oxy máu mô, não, thận, phổi và đường tiêu hóa. Hạ đường huyết và toan lactic là các biến chứng tiềm ẩn khác.
+
+Sức đề kháng
+
+Hầu hết người Tây Phi đều có sức đề kháng
+
+P. vivax
+
+bởi trên bề mặt hồng cầu không có kháng nguyên nhóm Duffy, cần thiết cho sự kết dính
+
+P. vivax
+
+vào hồng cầu; nhiều người Mỹ gốc Phi cũng có sức đề kháng như vậy. Sự phát triển của
+
+Plasmodium
+
+trong hồng cầu chậm ở bệnh nhân có
+
+bệnh hemoglobin S
+
+,
+
+bệnh hemoglobin C
+
+,
+
+thalassemia
+
+,
+
+thiếu G6PD
+
+, hoặc
+
+bệnh hồng cầu hình bầu dục
+
+.
+
+Tiền sử nhiễm bệnh để lại miễn dịch một phần. Một khi người cư trú ở khu vực lưu hành bệnh rời đi, thì khả năng miễn dịch bị suy giảm theo thời gian (vài tháng đến năm), và sốt rét triệu chứng có thể phát triển nếu họ trở về nhà và bị tái nhiễm.
+
+Các triệu chứng và dấu hiệu của bệnh sốt rét
+
+Thời kỳ ủ bệnh
+
+thường là
+
+P. vivax
+
+12 đến 17 ngày
+
+P. falciparum
+
+9 đến 14 ngày
+
+P. ovale
+
+16 đến 18 ngày hoặc lâu hơn
+
+Khoảng 1 tháng (18 đến 40 ngày) hoặc lâu hơn (hàng năm) đối với
+
+P. malariae
+
+Tuy nhiên, một số chủng
+
+P. vivax
+
+ở khí hậu ôn đới không gây bệnh trong nhiều tháng
+
+>
+
+1 năm sau khi bị nhiễm.
+
+Các biểu hiện chung cho tất cả các
+
+dạng bệnh sốt rét
+
+bao gồm
+
+Sốt và rét run - cơn sốt rét
+
+Thiếu máu
+
+Vàng da
+
+Lách to
+
+Gan to
+
+Cơn sốt rét kịch phát là do sự tan máu của các tế bào hồng cầu bị nhiễm bệnh, các ký sinh trùng non được giải phóng và các kháng nguyên sốt rét khác và phản ứng viêm mà chúng tạo ra. Triệu chứng cổ điển bắt đầu với chứng khó chịu, ớn lạnh và sốt nóng lên đến 39 đến 41
+
+°
+
+C, nhịp tim nhanh, nhịp tim, tiểu nhiều, nhức đầu, đau cơ và buồn nôn. Sau 2 đến 6 giờ, sốt giảm, và đổ mồ hôi nhiều xảy ra từ 2 đến 3 giờ, tiếp theo là mệt mỏ nhiều. Sốt thường khi bắt đầu nhiễm trùng. Trong các trường hợp nhiễm trùng đã thành lập, các cơn sốt rét kịch phát thường xảy ra sau mỗi 2 đến 3 ngày tùy thuộc vào loài.
+
+Lách to thường trở nên rõ rệt vào cuối tuần đầu tiên của bệnh lâm sàng nhưng có thể không xảy ra với
+
+P. falciparum
+
+. Lách to mềm và dễ bị chấn thương. Lách to có thể giảm với các cơn sốt rét tái phát khi chức năng miễn dịch hình thành. Sau nhiều đợt, lá lách có thể trở nên xơ cứng và vững chắc hoặc, ở một số bệnh nhân, sẽ trở nên rất to (lách nhiệt đới). Gan to luôn đi kèm với lách to.
+
+Biểu hiện sốt rét do
+
+P. falciparum
+
+P. falciparum
+
+gây ra bệnh nghiêm trọng nhất do ảnh hưởng đến các mạch máu nhỏ. Đây là loài duy nhất có khả năng gây tử vong nếu không được điều trị; những bệnh nhân không tự miễn nhiễm có thể chết trong những ngày có triệu chứng ban đầu. Nhiệt độ tăng và các triệu chứng đi kèm thường xảy ra ở một mô hình bất thường nhưng có thể đồng bộ, xảy ra theo mô hình bậc ba (tăng nhiệt độ ở khoảng 48 giờ), đặc biệt ở những người sống ở những vùng lưu hành có miễn dịch một phần.
+
+Bệnh nhân sốt rét não có thể có các triệu chứng khác nhau, từ chứng khó chịu đến chứng co giật và hôn mê.
+
+Hội chứng suy hô hấp cấp
+
+(ARDS), tiêu chảy, vàng da, đau vùng thượng vị, xuất huyết võng mạc, sốt rét algid (hội chứng giống sốc) và giảm tiểu cầu nặng cũng có thể xảy ra.
+
+Thiếu máu có thể là do sự suy giảm thể tích, tắc nghẽn mạch máu bởi hồng cầu ký sinh trùng, hoặc sự tích tụ phức hợp miễn dịch. Đái huyết sắc tố và hồng cầu niệu do tan máu trong lòng mạch có thể tiến triển đến sốt đen (được đặt tên dựa trên màu tối của nước tiểu) tự phát hoặc sau khi điều trị bằng quinin.
+
+Hạ đường huyết là phổ biến và có thể trầm trọng hơn khi điều trị bằng quinine và tăng glucose máu.
+
+Với phụ nữ đang mang thai có thể dẫn đến trẻ đẻ ra bị nhẹ cân, sẩy thai tự nhiên, thai chết lưu hoặc nhiễm trùng bẩm sinh.
+
+Biểu hiện của
+
+P. vivax
+
+,
+
+P. ovale
+
+,
+
+P. malariae
+
+và
+
+P. knowlesi
+
+P. vivax
+
+,
+
+P. ovale
+
+, và
+
+P. malariae
+
+thường không xuất hiện ở các cơ quan quan trọng. Tỷ lệ tử vong rất hiếm và chủ yếu là do vỡ lách hoặc tăng kali máu không kiểm soát ở bệnh nhân nguy cơ cao.
+
+Bệnh cảnh lâm sàng với
+
+P. ovale
+
+tương tự như của
+
+P. vivax
+
+. Trong các nhiễm trùng đã biết, nhiệt độ tăng đột biến ở khoảng 48 giờ - một mô hình tertian.
+
+P. malariae
+
+nhiễm trùng có thể không gây triệu chứng cấp tính, nhưng mật độ ký sinh trùng ở mức thấp có thể tồn tại trong nhiều thập kỷ và dẫn đến viêm thận do phức hợp miễn dịch hoặc bệnh thận hoặc cường lách nhiệt đới; khi có triệu chứng, sốt có xu hướng xảy ra ở khoảng 72 giờ - mô hình quartan.
+
+P. knowlesi
+
+có liên quan đến toàn bộ phổ bệnh sốt rét. Ngược lại với
+
+P. falciparum
+
+, khả năng lây nhiễm cao hơn ở nam giới trên 15 tuổi sống gần hoặc làm việc trong các khu vực có rừng. Thường có nhiệt độ tăng đột biến hàng ngày. Mức độ nặng tăng dần theo tuổi của bệnh nhân. Chu kỳ nhân lên vô tính ngắn trong 24 giờ có thể dẫn đến tỷ lệ ký sinh trùng trong máu cao và nếu không được điều trị sẽ dẫn đến tử vong. Giảm tiểu cầu là phổ biến, nhưng nó thường không liên quan đến xuất huyết.
+
+Các biểu hiện ở bệnh nhân điều trị dự phòng bằng hóa chất
+
+Ở những bệnh nhân đã dùng hóa chất dự phòng (xem bảng
+
+Thuốc dùng để phòng ngừa sốt ré
+
+t), bệnh sốt rét có thể không điển hình. Thời kỳ ủ bệnh có thể kéo dài vài tuần đến vài tháng sau khi thuốc ngừng. Những người bị bệnh có thể bị đau đầu, đau lưng, và sốt không đều, nhưng ký sinh trùng ban đầu khó có thể tìm thấy trong các mẫu máu.
+
+Chẩn đoán sốt rét
+
+Soi mẫu máu dưới kính hiển vi huỳnh quang (tiêu bản máu giọt mỏng và dày)
+
+Các xét nghiệm chẩn đoán nhanh phát hiện
+
+Plasmodium
+
+kháng nguyên hoặc các enzyme trong máu
+
+Sốt và ớn lạnh ở người nhập cư hoặc người du lịch quay trở lại từ một vùng lưu hành nên nhanh chóng đánh giá sốt rét. Triệu chứng thường xuất hiện trong 6 tháng đầu sau khi nhiễm trùng, nhưng khởi phát có thể mất đến 2 năm hoặc hiếm khi lâu hơn.
+
+Sốt rét có thể được chẩn đoán bằng cách tìm ký sinh trùng trên sự kiểm tra bằng kính hiển vi các tiểu bản máu dày hoặc mỏng. Các loài gây nhiễm (xác định điều trị và tiên lượng) được xác định bằng các đặc điểm đặc trưng trên tiêu bản (xem bảng
+
+Đặc điểm chẩn đoán của các loài Plasmodium trên tiêu bản
+
+). Nếu kết quả xét nghiệm máu âm tính ban đầu là âm tính, cần phải lặp lại các xét nghiệm máu trong khoảng thời gian từ 12 đến 24 giờ đến khi 3 mẫu âm tính.
+
+Các xét nghiệm máu nhuộm mỏng với nhuộm Wright-Giemsa cho phép đánh giá hình thái ký sinh trùng trong hồng cầu (hồng cầu), thường là xét nghiệm và xác định tỷ lệ nhiễm ký sinh trùng (tỷ trọng ký sinh trùng), đánh giá bằng cách sử dụng độ phóng đại của dầu ít chạm, sẽ hiển thị khoảng 400 hồng cầu trên mỗi trường. Các tiêu bản máu dày đô nhạy cao hơn nhưng khó chuẩn bị và thực hiện vì các hồng cầu dễ bị ly giải trước khi nhuộm màu. Độ nhạy và độ chính xác của kết quả phụ thuộc vào kinh nghiệm của người đọc.
+
+Các xét nghiệm chẩn đoán nhanh thương mại cho sốt rét dựa trên sự có mặt của một số kháng nguyên plasmodium hoặc các hoạt động enzym. Các xét nghiệm có thể bao gồm phát hiện protein giàu histidin 2 (HRP-2) liên quan đến ký sinh trùng sốt rét (đặc biệt là
+
+P. falciparum
+
+) và phát hiện ra lactate dehydrogenase plasmodium (pLDH). Các xét nghiệm chẩn đoán nhanh nhìn chung có thể so sánh được với độ nhạy đối của kính hiển vi trong việc phát hiện mức ký sinh trùng xuất hiện thấp, nhưng chúng không phân biệt đồng nhiễm với nhiều hơn một loài
+
+Plasmodium
+
+hoặc cho phép phát hiện các chủng trừ
+
+P. falciparum
+
+.
+
+Kính hiển vi ánh sáng và xét nghiệm chẩn đoán nhanh bổ sung cho nhau và cả hai nên được thực hiện khi có sẵn. Chúng có độ nhạy tương tự. Kết quả âm tính ngay cả ở cả hai không loại trừ sốt rét ở bệnh nhân có mật độ ký sinh trùng thấp.
+
+PCR và các đầu dò DNA đặc hiệu loài có thể được sử dụng nhưng không được phổ biến rộng rãi tại cơ sở y tế. Chúng có thể giúp xác định loài
+
+Plasmodium
+
+bị nhiễm sau khi sốt rét được chẩn đoán. Bởi vì các xét nghiệm huyết thanh học có thể phản ánh sự phơi nhiễm trước, chúng không hữu ích trong việc chẩn đoán bệnh sốt rét cấp tính.
+
+Bảng
+
+Tính năng chẩn đoán của
+
+Plasmodium
+
+Các loài trong máu đàn
+
+Bảng
+
+Tính năng chẩn đoán của
+
+Plasmodium
+
+Các loài trong máu đàn
+
+Tính năng chẩn đoán của <i >Plasmodium</i> Các loài trong máu đàn
+
+Đặc trưng
+
+Plasmodium vivax
+
+*
+
+Plasmodium falciparum
+
+Plasmodium malariae
+
+†
+
+Hồng cầu bị nhiễm bệnh to lên
+
+Có
+
+Không
+
+Không
+
+Hạt Schüffner‡
+
+Có
+
+Không
+
+Không
+
+Vết Maurer hoặc vỡ ra
+
+Không
+
+Có§
+
+Không
+
+Hồng cầu bị nhiễm nhiều lần
+
+Hiếm
+
+Có
+
+Không
+
+Vòng nhẫn có 2 hạt chromatin
+
+Hiếm
+
+Thường gặp
+
+Không
+
+Thể giao bào hình liềm
+
+Không
+
+Có
+
+Không
+
+Thể tự dưỡng hình vành khuyên
+
+Không
+
+Không
+
+Có
+
+Thể phân liệt có trong máu ngoại vi
+
+Có
+
+Hiếm
+
+Có
+
+Số lượng ký sinh trùng non trong thể phân liệt (trung bình [trong khoảng])
+
+16 (12–24)
+
+12 (8–24)¶¶
+
+8 (6–12)
+
+* Hồng cầu (RBC) bị nhiễm
+
+P. ovale
+
+bị biến dạng, hình bầu dục, và phình to lên; tương tụ hồng cầu bị nhiễm
+
+P. vivax
+
+.
+
+†
+
+P. knowlesi
+
+có hình thái tương tự như
+
+P. malaria
+
+và bị nhầm lẫn với nó.
+
+P. knowlesi
+
+nên được lưu ý ở những bệnh nhân mắc bệnh sốt rét mắc phải ở Đông Nam Á, đặc biệt là ở Malaysia.
+
+‡ Các hạt Schüffner được quan sát rõ nhất khi lam máu được nhuộm Giemsa.
+
+§ Đặc điểm này không phải lúc nào cũng có thể nhìn thấy.
+
+¶ Thể phân liệt bị mắc ở cơ quan nội tạng và thường không có trong máu ngoại vi.
+
+* Hồng cầu (RBC) bị nhiễm
+
+P. ovale
+
+bị biến dạng, hình bầu dục, và phình to lên; tương tụ hồng cầu bị nhiễm
+
+P. vivax
+
+.
+
+†
+
+P. knowlesi
+
+có hình thái tương tự như
+
+P. malaria
+
+và bị nhầm lẫn với nó.
+
+P. knowlesi
+
+nên được lưu ý ở những bệnh nhân mắc bệnh sốt rét mắc phải ở Đông Nam Á, đặc biệt là ở Malaysia.
+
+‡ Các hạt Schüffner được quan sát rõ nhất khi lam máu được nhuộm Giemsa.
+
+§ Đặc điểm này không phải lúc nào cũng có thể nhìn thấy.
+
+¶ Thể phân liệt bị mắc ở cơ quan nội tạng và thường không có trong máu ngoại vi.
+
+phòng bệnh sốt rét
+
+Sốt rét ác tính
+
+được xác định bằng sự hiện diện của một trong các đặc điểm lâm sàng và xét nghiệm sau đây. Sốt rét nặng thường gây ra bởi
+
+P. falciparum
+
+.
+
+Tiêu chuẩn lâm sàng của bệnh sốt rét ác tính:
+
+Hội chứng suy hô hấp cấp tính/phù phổi cấp
+
+Chảy máu
+
+Hôn mê và Suy giảm Ý thức
+
+Vàng da
+
+Động kinh (tái phát)
+
+Sốc
+
+Tiêu chuẩn xét nghiệm sốt rét nặng:
+
+Thiếu máu (nặng: < 7 g/dL [70 g/L])
+
+Đông máu rải rác trong lòng mạch
+
+(DIC)
+
+Đái huyết sắc tố
+
+Nhiễm toan chuyển hóa
+
+Mật độ ký sinh trùng > 5%
+
+Suy thận
+
+Điều trị sốt rét
+
+Thuốc chống sốt rét
+
+Thuốc chống sốt rét được lựa chọn dựa trên những điều sau đây:
+
+Chẩn đoán dựa trên tiêu chuẩn lâm sàng và xét nghiệm đặc hiệu
+
+Nhiễm
+
+Plasmodium
+
+Sự kháng thuốc của các chủng trong vùng mắc bệnh
+
+Hiệu quả và tác dụng phụ của thuốc có sẵn
+
+Liệu pháp phối hợp dựa trên artemisinin như artemether/lumefantrine là điều trị hiệu quả nhanh nhất và trong nhiều trường hợp là biện pháp điều trị được lựa chọn. Đề kháng với artemisinin đã được báo cáo nhưng vẫn chưa phổ biến.
+
+Sốt rét nặng
+
+yêu cầu điều trị khẩn cấp, tốt nhất là dùng đường tĩnh mạch, đó là loại thuốc duy nhất có sẵn ở Mỹ để điều trị sốt rét đường tiêu hóa (hoặc cho những bệnh nhân không thể uống thuốc). Nếu không có sẵn
+
+artesunate
+
+ngay lập tức, hãy bắt đầu điều trị bằng đường uống tạm thời với artemether/lumefantrine, atovaquone/proguanil, quinine sulfate (cộng với doxycycline hoặc clindamycin theo đường tĩnh mạch), hoặc nếu không có gì khác, mefloquine. Ở những bệnh nhân bị nôn, thuốc chống nôn có thể hữu ích. Những người không thể nuốt được (ví dụ, do mê sảng) có thể được cho uống viên nén artemether/lumefantrine hoặc atovaquone/proguanil qua ống thông mũi dạ dày.
+
+Do nguy cơ tiến triển thành bệnh nặng ở bệnh nhân nhiễm
+
+P. falciparum
+
+, bệnh nhân cần phải nhập viện để theo dõi đáp ứng lâm sàng và kiểm tra mật độ ký sinh trùng 12 đến 24 giờ một lần cho đến khi biểu hiện lâm sàng cải thiện và mật độ ký sinh trùng giảm rõ rệt (xem
+
+CDC: Treatment of Malaria: Guidelines for Clinicians [United States]
+
+).
+
+Do nguy cơ tan máu muộn, một biến chứng thường gặp trong bệnh sốt rét tăng ký sinh trùng máu được điều trị bằng artesunate theo đường tĩnh mạch (
+
+1
+
+), nồng độ hemoglobin cần phải được theo dõi trong 4 tuần sau khi điều trị.
+
+Ngọc trai & cạm bẫy
+
+Thời gian là điều cốt yếu trong điều trị sốt rét nặng. Bắt đầu điều trị bằng
+
+artesunate
+
+theo đường tĩnh mạch càng sớm càng tốt. Bắt đầu điều trị bằng đường uống tạm thời với các loại thuốc khác nếu không có sẵn
+
+artesunate
+
+đường tĩnh mạch ngay lập tức.
+
+Ở một số vùng lưu hành, một tỷ lệ đáng kể các loại thuốc sốt rét có sẵn ở địa phương là hàng giả. Vì vậy, bác sĩ khuyên du khách đến các vùng xa, có nguy cơ cao nên điều trị phác đồ đầy đủ thích hợp nếu sốt rét được xác nhận mặc dù dự phòng; chiến lược này cũng tránh được việc cạn kiệt tài nguyên thuốc hạn chế ở nước đó.
+
+Sốt rét đặc biệt nguy hiểm ở trẻ em
+
+<
+
+5 tuổi (tỷ lệ tử vong cao nhất ở nhóm trẻ
+
+<
+
+2 tuổi), phụ nữ có thai, và những người chưa được cảm nhiễm.
+
+Nếu nghi ngờ
+
+P. falciparum
+
+, nên được điều trị ngay, ngay cả khi vết ban đầu là âm tính.
+
+P. falciparum
+
+kháng thuốc sốt rét hiện đang phổ biến và
+
+P. vivax
+
+kháng
+
+chloroquine
+
+phổ biến ở Papua New Guinea, Indonesia và đang xuất hiện ở một số khu vực khác (ví dụ: Đông Nam Á, Nam Á, Trung Đông, Đông Phi và châu Mỹ) (
+
+2
+
+).
+
+Đối với các loại thuốc và liều khuyến nghị để điều trị và phòng ngừa bệnh sốt rét, xem bảng
+
+Điều trị bệnh sốt rét
+
+và
+
+Thuốc dùng để ngăn ngừa bệnh sốt rét
+
+. Các tác dụng ngoại ý thường gặp và chống chỉ định được liệt kê trong bảng
+
+Các phản ứng có hại và chống chỉ định của Thuốc chống sốt rét
+
+. Xem thêm trang web của CDC (
+
+Chẩn đoán và điều trị sốt rét ở Mỹ
+
+), hoặc để được tư vấn khẩn cấp về cách quản lý, hãy gọi Đường dây nóng về Sốt rét của CDC theo các số được liệt kê ở trên.
+
+Trong trường hợp mắc sốt khi đi du lịch trong vùng lưu hành, cần phải có sự đánh giá nhanh của nhân viên y tế. Khi không thể đánh giá kịp thời (ví dụ, vì vùng này rất xa), có thể xem xét việc đánh giá để tự điều trị bằng artemether/lumefantrine hoặc atovaquone/proguanil. Nếu du khách có sốt sau khi trở về từ vùng lưu hành và không có chẩn đoán nào khác, bác sĩ lâm sàng nên cân nhắc điều trị theo kinh nghiệm đối với sốt rét không biến chứng ngay cả khi bệnh sốt rét và/hoặc các xét nghiệm chẩn đoán nhanh là âm tính.
+
+Bảng
+
+Điều trị sốt rét ở Hoa Kỳ
+
+Bảng
+
+Điều trị sốt rét ở Hoa Kỳ
+
+Điều trị sốt rét ở Hoa Kỳ
+
+Ưu tiên
+
+Thuốc
+
+a
+
+Liều dùng cho người lớn
+
+Liều dùng cho trẻ em
+
+b
+
+Sốt rét không biến chứng do
+
+P. falciparum
+
+hoặc các loài chưa biết mắc phải ở tất cả các vùng có dịch bệnh sốt rét. (Các lựa chọn bổ sung cho bệnh sốt rét mắc phải ở các vùng nhạy cảm với chloroquine được liệt kê bên dưới.) - Thuốc uống
+
+Thuốc được khuyến cáo
+
+Artemether/lumefantrine
+
+c
+
+6 liều (1 liều
+
+=
+
+4 viên) trong 3 ngày (lúc 0 và 8 giờ), sau đó 1 liều 2 lần/ngày trong 2 ngày tiếp theo
+
+6 liều theo từng khoảng thời gian như đối với người lớn; liều
+
+=
+
+5–<
+
+15 kg: 1 viên
+
+15-< 25 kg: 2 viên
+
+25-< 35 kg: 3 viên
+
+≥
+
+35 kg: 4 viên
+
+hoặc là
+
+Atovaquone/proguanil
+
+d
+
+4 viên dành cho người lớn một lần/ngày trong 3 ngày
+
+<
+
+5 kg: Không chỉ định
+
+5–8 kg: 2 viên dùng cho trẻ em một lần/ngày trong 3 ngày
+
+9-10 kg: 3 viên dùng cho trẻ em một lần/ngày trong 3 ngày
+
+11-20 kg: 1 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+21-30 kg: 2 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+31-40 kg: 3 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+<
+
+40 kg: 4 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+hoặc là
+
+Sulfat quinine
+
+cộng với một trong những điều sau đây:
+
+650 mg 3 lần/ngày từ 3 đến 7 ngày
+
+e
+
+10 mg/kg 3 lần/ngày trong 3 hoặc 7 ngày
+
+e
+
+Liều không quá liều người lớn
+
+Doxycycline
+
+f
+
+Liều 100 mg 2 lần/ngày trong 7 ngày
+
+2,2 mg/kg 2 lần/ngày trong 7 ngày
+
+Tetracycline
+
+f
+
+250 mg 4 lần mỗi ngày trong 7 ngày
+
+6,25 mg/kg 4 lần mỗi ngày trong 7 ngày
+
+Clindamycin
+
+g
+
+7 mg/kg chia 3 lần/ngày trong 7 ngày
+
+7 mg/kg chia 3 lần/ngày trong 7 ngày
+
+Thay thế (nếu không thể sử dụng các tùy chọn khác)
+
+Mefloquine
+
+h
+
+750 mg 1 lần, sau đó 500 mg sau 6-12 giờ
+
+15 mg/kg 1 lần, sau đó 10 mg/kg sau 6-12 giờ
+
+Thêm lựa chọn cho sốt rét không biến chứng do
+
+P. falciparum
+
+hoặc các loài không xác định được trong vùng nhạy cảm với chloroquine (Trung Mỹ phía tây kênh đào Panama, Haiti, Cộng hòa Dominican, phần lớn khu vực Trung Đông) và
+
+P. malariae
+
+và
+
+P. knowlesi
+
+ở tất cả các vùng. Nếu loài chưa xác định có thể là
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+, thì điều trị giai đoạn cuối bằng primaquine hoặc tafenoquine để ngăn ngừa tái phát (xem bên dưới) —Thuốc uống
+
+Thuốc
+
+i
+
+Chloroquine
+
+j,k
+
+1.000 mg, sau đó 500 mg sau 6, 24 giờ và 48 giờ
+
+16,6 mg/kg (đến 1000 mg), sau đó 8,3 mg/kg (đến 500 mg) ở thời điểm 6, 24 và 48 giờ
+
+hoặc là
+
+Hydroxychloroquine
+
+k
+
+800 mg, sau đó 400 mg sau 6, 24 giờ và 48 giờ
+
+13 mg/kg (đến 800 mg), sau đó 6,5 mg/kg (đến 400 mg) ở thời điểm 6, 24 và 48 giờ
+
+hoặc là
+
+Artemether/lumefantrine
+
+c
+
+Liều lượng như trên
+
+Liều lượng như trên
+
+Sốt rét không biến chứng do
+
+P. vivax
+
+(bên ngoài Papua New Guinea và Indonesia, nơi phổ biến kháng chloroquine) hoặc
+
+P. ovale
+
+ở tất cả các vùng — Thuốc uống
+
+Thuốc được khuyến cáo
+
+i
+
+Chloroquine
+
+j,k
+
+hoặc
+
+Hydroxychloroquine
+
+k
+
+Liều lượng như trên
+
+Liều lượng như trên
+
+cộng với
+
+Primaquine
+
+l,m
+
+30 mg một lần/ngày trong 14 ngày
+
+0,5 mg/kg (tối đa 30 mg) một lần/ngày trong 14 ngày
+
+hoặc là
+
+Tafenoquine
+
+l,m
+
+300 mg liều duy nhất
+
+Đối với bệnh nhân ≥ 16 tuổi, liều người lớn
+
+Chỉ được khuyến nghị sử dụng với chloroquine
+
+Sốt rét không biến chứng do mắc phải
+
+P. vivax
+
+ở các khu vực được biết là có khả năng kháng chloroquine
+
+P. vivax
+
+m
+
+(Papua New Guinea, Indonesia) -Thuốc uống
+
+Thuốc được khuyến cáo
+
+Artemether/lumefantrine
+
+c
+
+Liều lượng như trên
+
+Liều lượng như trên
+
+hoặc là
+
+Atovaquone/proguanil
+
+d
+
+4 viên dành cho người lớn một lần/ngày trong 3 ngày
+
+<
+
+5 kg: Không chỉ định
+
+5–8 kg: 2 viên dùng cho trẻ em một lần/ngày trong 3 ngày
+
+9-10 kg: 3 viên dùng cho trẻ em một lần/ngày trong 3 ngày
+
+11-20 kg: 1 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+21-30 kg: 2 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+31-40 kg: 3 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+<
+
+40 kg: 4 viên dành cho người lớn 1 lần/ngày trong 3 ngày
+
+hoặc là
+
+Quinine
+
+cộng với một trong những phác đồ sau đây:
+
+650 mg 3 lần/ngày từ 3 đến 7 ngày
+
+e
+
+10 mg/kg 3 lần/ngày trong 3 hoặc 7 ngày
+
+e
+
+Doxycycline
+
+f
+
+Liều 100 mg 2 lần/ngày trong 7 ngày
+
+2,2 mg/kg 2 lần/ngày trong 7 ngày
+
+Tetracycline
+
+f
+
+250 mg 4 lần mỗi ngày trong 7 ngày
+
+6,25 mg/kg 4 lần mỗi ngày trong 7 ngày
+
+hoặc là
+
+Mefloquine
+
+h
+
+750 mg 1 lần, sau đó 500 mg sau 6-12 giờ
+
+15 mg/kg 1 lần, sau đó 10 mg/kg sau 6-12 giờ
+
+cộng với bất kỳ phác đồ nào ở trên
+
+Primaquine
+
+l
+
+30 mg một lần/ngày trong 14 ngày
+
+0,5 mg/kg (tối đa 30 mg) một lần/ngày trong 14 ngày
+
+hoặc là
+
+Tafenoquine
+
+l
+
+300 mg liều duy nhất
+
+Đối với bệnh nhân ≥ 16 tuổi, liều người lớn
+
+Chỉ được khuyến nghị sử dụng với chloroquine
+
+Sốt rét nặng
+
+n
+
+,
+
+Plasmodium
+
+-Thuốc lâm sàng
+
+Thuốc được khuyến cáo
+
+Artesunate theo đường tĩnh mạch
+
+n
+
+, có bán trên thị trường, nhưng nếu không thể lấy được thuốc này trong vòng 24 giờ, hãy liên hệ với Đường dây nóng Phòng chống Sốt rét của CDC
+
+o
+
+(Nếu không có sẵn artesunate đường tĩnh mạch ngay lập tức, hãy bắt đầu uống tạm thời artemether/lumefantine hoặc các thuốc thay thế khác. Khi artesunate đến, hãy ngừng điều trị bằng đường uống.)
+
+Người lớn 2,4 mg/kg trọng lượng cơ thể tĩnh mạch lúc 0, 12, 24 và 48 giờ
+
+Trẻ em < 20 kg: 3 mg/kg trọng lượng cơ thể IV lúc 0, 12, 24 và 48 giờ
+
+Nếu 20 kg: Liều dành cho người lớn
+
+Đánh giá lại mật độ ký sinh trùng từ 4 giờ trở lên sau liều thứ ba. Khi mật độ ký sinh trùng
+
+<
+
+1% và bệnh nhân có thể dung nạp liệu pháp uống, bắt đầu điều trị bằng đường uống với một trong những thuốc sau:
+
+Artemether-lumefantrine (ưu tiên)
+
+Liều lượng như trên
+
+Liều lượng như trên
+
+Atovaquone-proguanil
+
+d
+
+Liều lượng như trên
+
+Liều lượng như trên
+
+Quinine cộng với doxycycline (> 8 tuổi và không mang thai)
+
+f
+
+Liều lượng như trên; cùng một liều doxycycline có thể được cho dùng theo đường tĩnh mạch nếu cần thiết
+
+Liều lượng như trên; cùng liều
+
+Quinine cộng với clindamycin
+
+g,p
+
+(ở trẻ em < 8 tuổi và phụ nữ có thai)
+
+Liều uống như trên, nhưng nếu cần điều trị bằng đường tiêm, cho liều 10 mg/kg đường tĩnh mạch sau đó là 5 mg/kg đường tĩnh mạch mỗi 8 giờ
+
+Liều uống như trên, nhưng nếu cần điều trị bằng đường tiêm, cho liều 10 mg/kg đường tĩnh mạch sau đó là 5 mg/kg đường tĩnh mạch mỗi 8 giờ
+
+cộng với
+
+, nếu có khả năng là hoặc khẳng định là
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+Primaquine
+
+l
+
+30 mg một lần/ngày trong 14 ngày sau khi rời khỏi khu vực lưu hành
+
+0,5 mg/kg uống 1 lần/ngày (tối đa 30 mg) trong 14 ngày sau khi rời khỏi khu vực lưu hành
+
+Tafenoquine
+
+l
+
+300 mg liều duy nhất
+
+Chỉ sử dụng ở bệnh nhân ≥ 16 tuổi, dùng liều người lớn
+
+Chỉ được khuyến nghị sử dụng với chloroquine
+
+a
+
+Xem bảng
+
+Thuốc dùng để ngăn ngừa bệnh sốt rét
+
+để biết các phản ứng bất lợi và chống chỉ định. Nếu trong điều trị dự phòng, không nên sử dụng thuốc như phác đồ điều trị.
+
+b
+
+Liều trẻ em không được vượt quá liều người lớn.
+
+c
+
+Artemether/lumefantrine có sẵn ở dạng viên phối hợp liều cố định 20 mg/120 mg. Nói chung, sự kết hợp này không được khuyến cáo sử dụng ở phụ nữ mang thai, đặc biệt ở tam cá nguyệt thứ nhất, vì dữ liệu về an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Bệnh nhân nên uống thuốc cùng với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.
+
+d
+
+Atovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Sự kết hợp này là chống chỉ định ở những bệnh nhân có độ thanh thải creatinin
+
+<
+
+30 mL/phút. Nói chung, sự kết hợp này không được khuyến cáo cho phụ nữ mang thai, đặc biệt là trong tam cá nguyệt thứ nhất, bởi vì dữ liệu an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Liều dùng 2 lần/ngày làm giảm buồn nôn và nôn như khi dùng nó với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.
+
+e
+
+Ở Mỹ, viên nang quinine sulfate 324 mg, do đó 2 viên nang là đủ cho người lớn. Đối với trẻ em, liều lượng có thể khó khăn hơn vì không có các dạng viên nang của quinin. Ở Đông Nam Á, sự kháng thuốc đối với quinin đã tăng lên, và điều trị nên kéo dài 7 ngày. Ở các vùng khác, phác đồ điều trị trong 3 ngày. Để giảm tác dụng phụ trên đường tiêu hóa, bệnh nhân nên dùng quinine cùng thức ăn. Quinine thường được kết hợp với doxycycline hoặc tetracycline hơn là với clindamycin vì có nhiều dữ liệu hơn về hiệu quả.
+
+f
+
+Không khuyến cáo sử dụng nhóm tetracycline cho phụ nữ mang thai và trẻ dưới
+
+<
+
+8 tuổi. Tuy nhiên, doxycycline hoặc tetracycline có thể được sử dụng nếu các phương pháp điều trị khác không khả dụng hoặc không dung nạp và nếu lợi ích được cho là lớn hơn nguy cơ.
+
+g
+
+Clindamycin được khuyến cáo sử dụng trong thai kỳ và ở trẻ em
+
+<
+
+8 tuổi.
+
+h
+
+Không nên dùng Mefloquine trừ khi các lựa chọn khác không thể được sử dụng vì tỷ lệ phản ứng nặng hơn với mefloquine hơn so với các lựa chọn khác. Mefloquine có chống chỉ định ở những bệnh nhân trầm cảm, suy nhược gần đây, rối loạn lo âu, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh. Mefloquine không được khuyến cáo sử dụng cho các bệnh nhiễm trùng ở Đông Nam Á do có kháng với mefloquine ở một số khu vực (ví dụ biên giới Myanmar với Thái Lan, Trung Quốc và Lào, biên giới Thái Lan - Campuchia, miền Nam Việt Nam).
+
+i
+
+Bất kỳ phác đồ thuốc nào được đề nghị cho
+
+P. falciparum
+
+sốt rét ở những vùng kháng chloroquine cũng có thể được sử dụng cho bất kỳ sinh vật nào ở những vùng nhạy cảm với chloroquine; thuốc tác dụng nhanh nhất cho sốt rét falciparum là artemeter-lumefantine ngay cả khi nhiễm trùng là nhạy cảm với chloroquine. Đối với nhiễm trùng do
+
+P. ovale
+
+hoặc
+
+P. vivax
+
+, cũng cho primaquine hoặc tafenoquine (sau khi thử nghiệm để loại trừ sự thiếu hụt G6PD).
+
+j
+
+Để giảm nguy cơ ảnh hưởng đến đường tiêu hóa, bệnh nhân nên dùng chloroquine cùng với thức ăn.
+
+k
+
+Chloroquine hoặc hydroxychloroquine được khuyến cáo dùng cho các trường hợp nhiễm sốt rét không biến chứng còn nhạy cảm chloroquine; tuy nhiên, phác đồ điều trị nhiễm sốt rét kháng chloroquine vẫn dùng nếu chúng thuận tiện hơn hoặc được ưa thích hơn hoặc nếu không có sẵn chloroquine.
+
+l
+
+Primaquine hàng ngày trong 14 ngày hoặc liều đơn của tafenoquine được sử dụng để diệt P. vivax và P. ovale có thể tồn tại thể ngủ trong gan và do đó ngăn ngừa nhiễm tái nhiễm
+
+P. vivax
+
+và
+
+P. ovale
+
+. Bởi vì primaquine và tafenoquine có thể gây ra thiếu máu tan máu ở bệnh nhân thiếu G6PD, sàng lọc G6PD phải làm trước khi bắt đầu điều trị. Đối với những bệnh nhân ở ranh giới thiếu hụt G6PD hoặc thay thế cho phác đồ trên, có thể dùng primaquine 45 mg uống mỗi tuần một lần trong 8 tuần; các bác sĩ nên hội chẩn chuyên gia truyền nhiễm và/hoặc y học nhiệt đới nếu phác đồ thay thế này đang được xem xét đối với bệnh nhân thiếu G6PD. Primaquine và tafenoquine không nên sử dụng cho phụ nữ có thai và cho con bú, trừ khi trẻ sơ sinh đã được xét nghiệm và có nồng độ G6PD bình thường.
+
+m
+
+Nếu bệnh nhân nhiễm
+
+P. vivax
+
+ở vùng không được biết là có khả năng nhiễm chủng
+
+P. vivax
+
+kháng chloroqiune nên bắt đầu điều trị bằng chloroquine. Nếu không có đáp ứng, nên thay đổi điều trị với phác đồ nhiễm
+
+P. vivax
+
+kháng chloroquine, và bác sĩ lâm sàng nên gọi đường dây nóng sốt rét
+
+CDC Malaria Hotline
+
+CDC.
+
+n
+
+CDC khuyến cáo bệnh nhân sốt rét nặng nên được điều trị tích cực bằng thuốc tiêm tĩnh mạch (IV) artesunate ngay khi có thể. Quinidine đường tĩnh mạch không còn có sẵn ở Mỹ. Sốt rét được coi là nặng khi bệnh nhân có ≥ 1 trong các biểu hiện sau: suy giảm ý thức, hôn mê hoặc co giật, thiếu máu hồng cầu bình thường nặng (hemoglobin < 7 g/dL [70 g/L]), suy thận, phù phổi, hội chứng suy hô hấp cấp, sốc, đông máu rải rác trong lòng mạch, chảy máu tự phát, nhiễm toan, đái ra huyết sắc tố, vàng da hoặc ký sinh trùng trong máu > 5%. Sốt rét nặng thường do
+
+P. falciparum
+
+gây ra. Artesucky IV cũng được khuyến cáo cho những bệnh nhân không thể dùng thuốc theo đường uống.
+
+Tại Hoa Kỳ, artesunate đường tĩnh mạch đã nhận được phê duyệt của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ vào tháng 5 năm 2020. Nếu không thể nhanh chóng lấy được thuốc này từ một nguồn thương mại, nó sẽ có sẵn trong thời gian tạm thời từ CDC bằng cách gọi đến
+
+Đường dây nóng về Sốt rét của CDC
+
+. Ước tính có thể mất 12-24 giờ để artesucky đến được các bệnh viện ở Mỹ.
+
+Khi chưa có thuốc giảm đau đường tĩnh mạch, bắt đầu điều trị tạm thời bằng artemether-lumefantrine, atovaquone-proguanil, quinine sulfate hoặc nếu không có gì khác, mefloquine. Ở những bệnh nhân bị nôn, thuốc chống nôn có thể hữu ích. Những người không thể nuốt được có thể dùng thuốc artemether/lumefantrine hoặc atovaquone/proguanil qua ống thông mũi dạ dày.
+
+o
+
+Đường dây nóng sốt rét
+
+CDC Malaria Hotline
+
+ở số 770-488-7788 hoặc 855-856-4713 miễn phí từ Thứ Hai đến Thứ Sáu 9 giờ sáng đến 5 giờ chiều (ngoài giờ, cuối tuần hoặc ngày lễ, gọi 770-488-7100).
+
+p
+
+Nếu bệnh nhân không thể dùng clindamycin đường uống, liều nạp 10 mg/kg được tiêm tĩnh mạch, tiếp theo là 5 mg/kg mỗi 8 giờ, sau đó chuyển sang uống ngay khi bệnh nhân có thể. Cần tránh tiêm nhanh tĩnh mạch. Thời gian điều trị là 7 ngày.
+
+G6PD = glucose-6-phosphate dehydrogenase; CDC = Trung tâm kiểm soát và phòng ngừa dịch bệnh
+
+Dựa trên CDC:
+
+Chẩn đoán và điều trị sốt rét ở Mỹ
+
+.
+
+a
+
+Xem bảng
+
+Thuốc dùng để ngăn ngừa bệnh sốt rét
+
+để biết các phản ứng bất lợi và chống chỉ định. Nếu trong điều trị dự phòng, không nên sử dụng thuốc như phác đồ điều trị.
+
+b
+
+Liều trẻ em không được vượt quá liều người lớn.
+
+c
+
+Artemether/lumefantrine có sẵn ở dạng viên phối hợp liều cố định 20 mg/120 mg. Nói chung, sự kết hợp này không được khuyến cáo sử dụng ở phụ nữ mang thai, đặc biệt ở tam cá nguyệt thứ nhất, vì dữ liệu về an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Bệnh nhân nên uống thuốc cùng với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.
+
+d
+
+Atovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Sự kết hợp này là chống chỉ định ở những bệnh nhân có độ thanh thải creatinin
+
+<
+
+30 mL/phút. Nói chung, sự kết hợp này không được khuyến cáo cho phụ nữ mang thai, đặc biệt là trong tam cá nguyệt thứ nhất, bởi vì dữ liệu an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Liều dùng 2 lần/ngày làm giảm buồn nôn và nôn như khi dùng nó với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.
+
+e
+
+Ở Mỹ, viên nang quinine sulfate 324 mg, do đó 2 viên nang là đủ cho người lớn. Đối với trẻ em, liều lượng có thể khó khăn hơn vì không có các dạng viên nang của quinin. Ở Đông Nam Á, sự kháng thuốc đối với quinin đã tăng lên, và điều trị nên kéo dài 7 ngày. Ở các vùng khác, phác đồ điều trị trong 3 ngày. Để giảm tác dụng phụ trên đường tiêu hóa, bệnh nhân nên dùng quinine cùng thức ăn. Quinine thường được kết hợp với doxycycline hoặc tetracycline hơn là với clindamycin vì có nhiều dữ liệu hơn về hiệu quả.
+
+f
+
+Không khuyến cáo sử dụng nhóm tetracycline cho phụ nữ mang thai và trẻ dưới
+
+<
+
+8 tuổi. Tuy nhiên, doxycycline hoặc tetracycline có thể được sử dụng nếu các phương pháp điều trị khác không khả dụng hoặc không dung nạp và nếu lợi ích được cho là lớn hơn nguy cơ.
+
+g
+
+Clindamycin được khuyến cáo sử dụng trong thai kỳ và ở trẻ em
+
+<
+
+8 tuổi.
+
+h
+
+Không nên dùng Mefloquine trừ khi các lựa chọn khác không thể được sử dụng vì tỷ lệ phản ứng nặng hơn với mefloquine hơn so với các lựa chọn khác. Mefloquine có chống chỉ định ở những bệnh nhân trầm cảm, suy nhược gần đây, rối loạn lo âu, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh. Mefloquine không được khuyến cáo sử dụng cho các bệnh nhiễm trùng ở Đông Nam Á do có kháng với mefloquine ở một số khu vực (ví dụ biên giới Myanmar với Thái Lan, Trung Quốc và Lào, biên giới Thái Lan - Campuchia, miền Nam Việt Nam).
+
+i
+
+Bất kỳ phác đồ thuốc nào được đề nghị cho
+
+P. falciparum
+
+sốt rét ở những vùng kháng chloroquine cũng có thể được sử dụng cho bất kỳ sinh vật nào ở những vùng nhạy cảm với chloroquine; thuốc tác dụng nhanh nhất cho sốt rét falciparum là artemeter-lumefantine ngay cả khi nhiễm trùng là nhạy cảm với chloroquine. Đối với nhiễm trùng do
+
+P. ovale
+
+hoặc
+
+P. vivax
+
+, cũng cho primaquine hoặc tafenoquine (sau khi thử nghiệm để loại trừ sự thiếu hụt G6PD).
+
+j
+
+Để giảm nguy cơ ảnh hưởng đến đường tiêu hóa, bệnh nhân nên dùng chloroquine cùng với thức ăn.
+
+k
+
+Chloroquine hoặc hydroxychloroquine được khuyến cáo dùng cho các trường hợp nhiễm sốt rét không biến chứng còn nhạy cảm chloroquine; tuy nhiên, phác đồ điều trị nhiễm sốt rét kháng chloroquine vẫn dùng nếu chúng thuận tiện hơn hoặc được ưa thích hơn hoặc nếu không có sẵn chloroquine.
+
+l
+
+Primaquine hàng ngày trong 14 ngày hoặc liều đơn của tafenoquine được sử dụng để diệt P. vivax và P. ovale có thể tồn tại thể ngủ trong gan và do đó ngăn ngừa nhiễm tái nhiễm
+
+P. vivax
+
+và
+
+P. ovale
+
+. Bởi vì primaquine và tafenoquine có thể gây ra thiếu máu tan máu ở bệnh nhân thiếu G6PD, sàng lọc G6PD phải làm trước khi bắt đầu điều trị. Đối với những bệnh nhân ở ranh giới thiếu hụt G6PD hoặc thay thế cho phác đồ trên, có thể dùng primaquine 45 mg uống mỗi tuần một lần trong 8 tuần; các bác sĩ nên hội chẩn chuyên gia truyền nhiễm và/hoặc y học nhiệt đới nếu phác đồ thay thế này đang được xem xét đối với bệnh nhân thiếu G6PD. Primaquine và tafenoquine không nên sử dụng cho phụ nữ có thai và cho con bú, trừ khi trẻ sơ sinh đã được xét nghiệm và có nồng độ G6PD bình thường.
+
+m
+
+Nếu bệnh nhân nhiễm
+
+P. vivax
+
+ở vùng không được biết là có khả năng nhiễm chủng
+
+P. vivax
+
+kháng chloroqiune nên bắt đầu điều trị bằng chloroquine. Nếu không có đáp ứng, nên thay đổi điều trị với phác đồ nhiễm
+
+P. vivax
+
+kháng chloroquine, và bác sĩ lâm sàng nên gọi đường dây nóng sốt rét
+
+CDC Malaria Hotline
+
+CDC.
+
+n
+
+CDC khuyến cáo bệnh nhân sốt rét nặng nên được điều trị tích cực bằng thuốc tiêm tĩnh mạch (IV) artesunate ngay khi có thể. Quinidine đường tĩnh mạch không còn có sẵn ở Mỹ. Sốt rét được coi là nặng khi bệnh nhân có ≥ 1 trong các biểu hiện sau: suy giảm ý thức, hôn mê hoặc co giật, thiếu máu hồng cầu bình thường nặng (hemoglobin < 7 g/dL [70 g/L]), suy thận, phù phổi, hội chứng suy hô hấp cấp, sốc, đông máu rải rác trong lòng mạch, chảy máu tự phát, nhiễm toan, đái ra huyết sắc tố, vàng da hoặc ký sinh trùng trong máu > 5%. Sốt rét nặng thường do
+
+P. falciparum
+
+gây ra. Artesucky IV cũng được khuyến cáo cho những bệnh nhân không thể dùng thuốc theo đường uống.
+
+Tại Hoa Kỳ, artesunate đường tĩnh mạch đã nhận được phê duyệt của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ vào tháng 5 năm 2020. Nếu không thể nhanh chóng lấy được thuốc này từ một nguồn thương mại, nó sẽ có sẵn trong thời gian tạm thời từ CDC bằng cách gọi đến
+
+Đường dây nóng về Sốt rét của CDC
+
+. Ước tính có thể mất 12-24 giờ để artesucky đến được các bệnh viện ở Mỹ.
+
+Khi chưa có thuốc giảm đau đường tĩnh mạch, bắt đầu điều trị tạm thời bằng artemether-lumefantrine, atovaquone-proguanil, quinine sulfate hoặc nếu không có gì khác, mefloquine. Ở những bệnh nhân bị nôn, thuốc chống nôn có thể hữu ích. Những người không thể nuốt được có thể dùng thuốc artemether/lumefantrine hoặc atovaquone/proguanil qua ống thông mũi dạ dày.
+
+o
+
+Đường dây nóng sốt rét
+
+CDC Malaria Hotline
+
+ở số 770-488-7788 hoặc 855-856-4713 miễn phí từ Thứ Hai đến Thứ Sáu 9 giờ sáng đến 5 giờ chiều (ngoài giờ, cuối tuần hoặc ngày lễ, gọi 770-488-7100).
+
+p
+
+Nếu bệnh nhân không thể dùng clindamycin đường uống, liều nạp 10 mg/kg được tiêm tĩnh mạch, tiếp theo là 5 mg/kg mỗi 8 giờ, sau đó chuyển sang uống ngay khi bệnh nhân có thể. Cần tránh tiêm nhanh tĩnh mạch. Thời gian điều trị là 7 ngày.
+
+G6PD = glucose-6-phosphate dehydrogenase; CDC = Trung tâm kiểm soát và phòng ngừa dịch bệnh
+
+Dựa trên CDC:
+
+Chẩn đoán và điều trị sốt rét ở Mỹ
+
+.
+
+Bảng
+
+Phản ứng bất lợi và Chống chỉ định của thuốc chống sốt rét
+
+Bảng
+
+Phản ứng bất lợi và Chống chỉ định của thuốc chống sốt rét
+
+Phản ứng bất lợi và Chống chỉ định của thuốc chống sốt rét
+
+Thuốc uống
+
+Một số phản ứng phụ
+
+Chống chỉ định
+
+Artemether/lumefantrine
+
+Nhức đầu, chán ăn, chóng mặt, suy nhược (thường nhẹ)
+
+Với lumefantrine, khoảng QT kéo dài
+
+Dị ứng với artemether/lumefantrine
+
+Trong thời kỳ mang thai, sử dụng nếu lợi ích tiềm ẩn cho thấy nguy cơ tiềm ẩn đối với thai nhi, thường xảy ra trong thai kỳ thứ 2 và thứ 3
+
+Sử dụng dự phòng mefloquine
+
+Artesunate
+
+Như với artemether
+
+Tan máu muộn; nồng độ hemoglobin nên được theo dõi trong 4 tuần sau khi điều trị
+
+Dị ứng với artesunate
+
+Trong thời kỳ mang thai, sử dụng nếu lợi ích tiềm ẩn biện minh cho nguy cơ tiềm ẩn, đó là trường hợp ở hầu hết các bệnh nhân bị sốt rét nặng cần điều trị bằng đường tiêm
+
+Atovaquone/proguanil
+
+Rối loạn tiêu hóa, đau đầu, chóng mặt, phát ban, ngứa
+
+Trong thời kỳ mang thai, chỉ sử dụng khi không có lựa chọn thay thế và lợi ích tiềm ẩn sẽ xác định nguy cơ tiềm ẩn đối với bào thai
+
+Quá mẫn, cho con bú*, suy thận nặng (độ thanh thải creatinin
+
+<
+
+30 mL/phút)
+
+Chloroquine
+
+Hydroxychloroquine
+
+Rối loạn tiêu hóa, đau đầu, chóng mặt, mờ mắt, phát ban hoặc ngứa, đợt cấp của bệnh vẩy nến, loạn tạo máu, rụng tóc, thay đổi điện tâm đồ bao gồm khoảng QTc kéo dài, bệnh võng mạc, rối loạn tâm thần (hiếm gặp)
+
+Quá mẫn, thay đổi thị trường hoặc thay đổi võng mạc hoặc có khả năng tương tác thuốc, dẫn đến khoảng QTc kéo dài và loạn nhịp tim
+
+Clindamycin
+
+Hạ huyết áp, độc tính tủy xương, rối loạn chức năng thận, phát ban, vàng da, ù tai,
+
+Clostridium difficile
+
+nhiễm trùng (viêm đại tràng giả mạc)
+
+Quá mẫn
+
+Doxycycline
+
+Rối loạn tiêu hóa, nhạy cảm với ánh sáng, nhiễm candida âm đạo, nhiễm
+
+C. difficile
+
+(viêm đại tràng giả mạc), viêm thực quản ăn mòn
+
+Mang thai, trẻ em < 8 tuổi
+
+Halofantrine
+
+Khoảng PR và QT kéo dài, loạn nhịp tim, hạ huyết áp, rối loạn tiêu hóa, chóng mặt, thay đổi tâm thần, co giật, đột tử
+
+Trong thời kỳ mang thai, chỉ được sử dụng nếu lợi ích tiềm năng bù lại nguy cơ tiềm ẩn đối với bào thai
+
+Các khiếm khuyết dẫn truyền tim,QT kéo dài gia đình, sử dụng thuốc ảnh hưởng đến khoảng QT, quá mẫn cảm
+
+Mefloquine
+
+Ác mộng, các triệu chứng thần kinh tâm thần, chóng mặt, nhầm lẫn, rối loạn tâm thần, động kinh, nhịp chậm xoang, rối loạn tiêu hóa
+
+Quá mẫn cảm, tiền sử động kinh hoặc rối loạn tâm thần, rối loạn dẫn truyền tim hoặc rối loạn nhịp tim, dùng chung thuốc có thể kéo dài dẫn truyền tim (ví dụ thuốc chẹn beta, thuốc chẹn kênh canxi, quinine, quinidine, halofantrine), những nghề nghiệp cần phối hợp và phân biệt không gian tốt trong đó chóng mặt có thể đe dọa tính mạng, trong tam cá nguyệt thứ nhất của thai kỳ
+
+Quinine
+
+Rối loạn tiêu hoá, ù tai, rối loạn thị giác, dị ứng, thay đổi về tinh thần, loạn nhịp tim, suy tim
+
+Quá mẫn, thiếu G6PD, viêm thần kinh thị giác, ù tai, mang thai (chống chỉ định tương đối), tiền sử phản ứng không mong muốn với quinin (theo dõi thường xuyên điện tâm đồ, huyết áp [khi dùng thuốc theo đường tiêm tĩnh mạch] và đường máu)
+
+Quinidin
+
+Loạn nhịp tim, phức hợp QRS giãn rộng, khoảng QTc kéo dài, hạ huyết áp, hạ đường huyết
+
+Quá mẫn, giảm tiểu cầu (khuyến cáo theo dõi thường xuyên điện tâm đồ, huyết áp và đường máu)
+
+Không có liều tấn công ở bệnh nhân dùng > 40 mg/kg quinin trong 48 giờ trước hoặc liều mefloquine trong 12 giờ trước
+
+Primaquine
+
+Tan máu nội mạch nặng ở người bị thiếu G6PD, rối loạn tiêu hóa, giảm bạch cầu, methemoglobin niệu
+
+Sử dụng đồng thời quinacrine hoặc chất ức chế tủy xương hoặc giảm tủy xương, thiếu G6PD, mang thai (vì tình trạng G6PD của bào thai không được biết)
+
+Pyrimethamine
+
+/sulfadoxine
+
+Các triệu chứng của viêm da, viêm đa khớp mãn tính, hội chứng Stevens-Johnson, viêm thần kinh ngoại vi, nổi mề đay, viêm da, bệnh huyết thanh, viêm gan, động kinh, thay đổi tinh thần, rối loạn tiêu hóa, viêm dạ dày, viêm tụy, độc tính tủy xương, tan máu, sốt, bệnh thận
+
+Mẫn cảm, thiếu máu do thiếu folat, trẻ sơ sinh
+
+≤
+
+2 tháng, mang thai, cho con bú
+
+Tafenoquine
+
+Tan máu nội mạch nặng ở bệnh nhân thiếu G6PD, phản ứng tâm thần, methemoglobin huyết, rối loạn tiêu hóa, phản ứng quá mẫn
+
+Thiếu G6PD, mang thai (vì tình trạng thai nhi G6PD không rõ), cho con bú (trừ khi trẻ được biết là có G6PD bình thường), rối loạn tâm thần, quá mẫn
+
+Đối với bệnh nhân ≥ 16 tuổi
+
+* Proguanil được bài tiết qua sữa mẹ; liệu atovaquone có bài tiết qua sữa mẹ hay không. Sự an toàn và hiệu quả của những loại thuốc này chưa được xác định ở trẻ em cân nặng
+
+<
+
+5 kg.
+
+G6PD = glucose-6-phosphate dehydrogenase.
+
+* Proguanil được bài tiết qua sữa mẹ; liệu atovaquone có bài tiết qua sữa mẹ hay không. Sự an toàn và hiệu quả của những loại thuốc này chưa được xác định ở trẻ em cân nặng
+
+<
+
+5 kg.
+
+G6PD = glucose-6-phosphate dehydrogenase.
+
+Công cụ tính toán lâm sàng
+
+Hiệu chỉnh khoảng QT (Điện tâm đồ)
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Aldámiz-Echevarría LT, López-Polín A, Norman FF, et alAldámiz-Echevarría LT, López-Polín A, Norman FF et al
+
+: Giảm tan máu thứ phát do điều trị sốt rét nặng bằng
+
+artesunate
+
+tĩnh mạch: Báo cáo về kinh nghiệm điều trị của trung tâm bệnh nhiệt đới ở Tây Ban Nha.
+
+Travel Med Infect Dis
+
+15:52-56, 2017 doi:10.1016/j.tmaid.2016.10.013
+
+2.
+
+Ferreira MU, Nobrega de Sousa T, Rangel GW, et al
+
+: Monitoring
+
+Plasmodium vivax
+
+resistance to antimalarials: persisting challenges and future directions.
+
+Int J Parasitol Drug-Drug Resist
+
+15:9-24, 2021 doi:10.1016/j.ijpddr.2020.12.001
+
+Dự phòng tái phát với
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+Mảnh trùng phải được loại bỏ khỏi gan bằng primaquine hoặc tafenoquine để tránh tái phát
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+.
+
+Primaquine
+
+hoặc tafenoquine có thể được cho dùng đồng thời với chloroquine hoặc sau đó. Một số chủng
+
+P. vivax
+
+kém nhạy cảm hơn và tái phát có thể xảy ra, cần được điều trị lặp đi lặp lại.
+
+Primaquine
+
+không cần thiết cho
+
+P. falciparum
+
+hoặc
+
+P. malariae
+
+vì những loài này không tồn tại dai dẳng trong gan. Nếu việc phơi nhiễm với
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+ở mức độ cao hoặc kéo dài hoặc nếu khách du lịch bị cắt lách, thì một đợt điều trị dự phòng kéo dài 14 ngày bằng
+
+primaquine
+
+hoặc một liều tafenoquine duy nhất bắt đầu khi khách du lịch quay trở lại sẽ giảm nguy cơ tái phát. Tác dụng bất lợi chính là tan máu ở những người thiếu glucose-6-phosphate dehydrogenase (G6PD). Nên đánh giá G6PD trước khi dùng
+
+primaquine
+
+hoặc tafenoquine.
+
+Primaquine
+
+bị chống chỉ định trong thời kỳ mang thai và cho con bú, trừ khi trẻ không bị thiếu men G6PD. Ở phụ nữ mang thai, có thể dùng hóa chất dự phòng bằng
+
+chloroquine
+
+hàng tuần trong thời gian còn lại của thai kỳ, và sau khi sinh, phụ nữ có thể dùng primaquine, miễn là họ không bị thiếu men G6PD.
+
+Dự phòng sốt rét
+
+Khách du lịch đến các vùng dịch lưu hành nên được điều trị dự phòng bằng hóa chất (xem bảng
+
+Thuốc được sử dụng để ngăn ngừa bệnh sốt ré
+
+t). Thông tin về các quốc gia có sốt rét lưu hành trên Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) (xem
+
+CDC: Thông tin về bệnh sốt vàng và sốt rét, theo quốc gia
+
+và
+
+CDC: Sốt rét
+
+); thông tin bao gồm các loại sốt rét, các mô hình đề kháng, phân bố địa lý và dự phòng.
+
+Bảng
+
+Thuốc được sử dụng để ngăn ngừa bệnh sốt rét
+
+Bảng
+
+Thuốc được sử dụng để ngăn ngừa bệnh sốt rét
+
+Thuốc được sử dụng để ngăn ngừa bệnh sốt rét
+
+Thuốc
+
+a
+
+Sử dụng
+
+Liều dùng cho người lớn
+
+Liều dùng cho trẻ em
+
+Bình luận
+
+Atovaquone/proguanil
+
+b
+
+Ở mọi khu vực
+
+1 viên dành cho người lớn một lần/ngày
+
+5-8 kg: một nửa viên nhi một lần/ngày
+
+> 8-10 kg: ba phần tư viên cho trẻ em một lần/ngày
+
+> 10-20 kg: 1 viên dùng cho trẻ em một lần/ngày
+
+> 20-30 kg: 2 viên dùng cho trẻ em một lần/ngày
+
+> 30-40 kg: 3 viên dùng cho trẻ em một lần/ngày
+
+>
+
+40 kg: 1 viên dành cho người lớn một lần/ngày
+
+Bắt đầu từ 1 đến 2 ngày trước khi đi du lịch và tiếp tục hàng ngày trong suốt thời gian lưu trú và 7 ngày sau khi rời đi
+
+Chloroquine
+
+Chỉ ở những khu vực
+
+Plasmodium
+
+nhạy cảm với chloroquine
+
+500 mg một lần mỗi tuần
+
+8,3 mg/kg, tối đa 500mg một lần/ngày
+
+Bắt đầu 1-2 tuần trước khi đi du lịch và tiếp tục hàng tuần trong suốt thời gian lưu trú và 4 tuần sau khi rời khỏi
+
+Doxycycline
+
+c
+
+Ở mọi khu vực
+
+100 mg một lần mỗi ngày
+
+≥ 8 tuổi: 2,2 mg/kg (có thể đến 100 mg) một lần/ngày
+
+Bắt đầu từ 1-2 ngày trước khi đi du lịch và tiếp tục trong suốt thời gian lưu trú và 4 tuần sau khi rời khỏi
+
+Hydroxychloroquine
+
+d
+
+Thay thế cho chloroquine chỉ ở những vùng có
+
+Plasmodium
+
+nhạy cảm với chloroquine
+
+400 mg một lần/ngày
+
+6,5 mg/kg, lên đến 400 mg mỗi tuần
+
+Bắt đầu từ 1-2 tuần trước khi đi du lịch và tiếp tục trong suốt thời gian lưu trú và 4 tuần sau khi rời khỏi
+
+Mefloquine
+
+e
+
+Ở những vùng có
+
+Plasmodium
+
+nhạy cảm mefloquine
+
+250 mg mỗi tuần một lần
+
+≤ 9 kg: 5 mg mỗi tuần
+
+> 9-19 kg: một phần tư viên một lần/tuần
+
+> 19-30 kg: một nửa viên một lần/tuần
+
+> 30-45 kg: ba phần tư viên một lần/tuần
+
+>
+
+45 kg: 1 viên một lần/tuần
+
+Bắt đầu ≥ 2 tuần trước khi đi du lịch và tiếp tục trong suốt thời gian lưu trú và trong 4 tuần sau khi rời đi
+
+Chống chỉ định ở bệnh nhân có tiền sử trầm cảm, các vấn đề tâm lý khác, hoặc động kinh; không được khuyến cáo cho bệnh nhân có bất thường dẫn truyền tim
+
+Primaquine
+
+f
+
+Để dự phòng ban đầu cho việc đi lại ngắn ngày ở các khu vực được biết là chủ yếu trú ngụ
+
+P. vivax
+
+52,6 mg một lần mỗi ngày
+
+0,8 mg/kg đến liều người lớn một lần/ngày
+
+Bắt đầu từ 1 đến 2 ngày trước khi đi du lịch và tiếp tục hàng ngày trong suốt thời gian lưu trú và 7 ngày sau khởi hành
+
+Ghi lại rằng nồng độ G6PD là bình thường trước khi sử dụng
+
+Chống chỉ định ở những người bị thiếu G6PD và ở phụ nữ mang thai và đang cho con bú trừ khi trẻ sơ sinh bú sữa mẹ có mức G6PD bình thường
+
+Để dự phòng tái phát nhiễm trùng ở những người bị phơi nhiễm hoặc nhiễm
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+đáng kể trong quá trình đi du lịch
+
+Liều lượng như trên
+
+Liều lượng như trên
+
+Liều hàng ngày trong 14 ngày sau khi xuất phát từ vùng lưu hành. Ghi lại rằng nồng độ G6PD là bình thường trước khi sử dụng
+
+Chống chỉ định như trên
+
+Tafenoquine
+
+Để dự phòng ban đầu cho người đi du lịch đến tất cả các khu vực
+
+200 mg một lần mỗi ngày trong 3 ngày trước khi đi du lịch như là một chế độ nạp, sau đó 200 mg mỗi tuần để duy trì trong khi ở vùng sốt rét bắt đầu 7 ngày sau liều cuối cùng, sau đó là liều cuối cùng 200 mg sau khi thoát khỏi 7 ngày sau lần duy trì cuối cùng liều
+
+Đối với bệnh nhân ≥ 16 tuổi
+
+Thiếu G6PD hoặc không rõ tình trạng G6PD; Tất cả bệnh nhân cần được kiểm tra sự thiếu hụt G6PD trước khi sử dụng
+
+Phụ nữ mang thai và đang cho con bú trừ khi trẻ sơ sinh bú sữa mẹ có mức G6PD bình thường, đã biết quá mẫn
+
+Các phản ứng phụ tâm lý đã được quan sát
+
+Sử dụng thận trọng ở bệnh nhân tiền sử tâm thần
+
+Để điều trị dự phòng giai đoạn cuối ở những người bị phơi nhiễm hoặc nhiễm
+
+P. vivax
+
+hoặc
+
+P. ovale
+
+đáng kể trong khi đi du lịch
+
+300 mg liều duy nhất
+
+Không dùng cho bệnh nhân < 18 tuổi
+
+a
+
+Thuốc dự phòng được dùng theo đường uống. Xem bảng:
+
+Phản ứng bất lợi và chống chỉ định của thuốc chống sốt rét cho phản ứng bất lợi và chống chỉ định
+
+.
+
+d
+
+Atovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Chống chỉ định atovaquone/proguanil ở những bệnh nhân có độ thanh thải creatinine < 30 mL/phút. Sự phối hợp này không được khuyến cáo cho trẻ em < 5 kg, phụ nữ mang thai hoặc đang cho con bú.
+
+c
+
+Chống chỉ định dùng tetracyclines trong thai kỳ và ở trẻ em
+
+<
+
+8 tuổi.
+
+d
+
+Các bác sĩ nên xem lại thông tin trước khi sử dụng hydroxychloroquine.
+
+e
+
+Mefloquine chưa được khuyến cáo sử dụng trong thời kỳ mang thai. Không có chống chỉ định dùng thuốc ở những bệnh nhân trầm cảm, tiền sử trầm cảm, rối loạn lo âu lan tỏa, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh; nếu bệnh nhân bị rối loạn tâm thần hoặc có tiền sử trầm cảm trước đây, nên thận trọng khi dùng thuốc. Không nên dùng thuốc cho bệnh nhân có bất thường dẫn truyền tim.
+
+f
+
+Primaquine được sử dụng làm thuốc dự phòng giai đoạn cuối (chữa bệnh triệt để) nhằm giảm nguy cơ tái phát ở những người đã dùng chloroquine, hydroxychloroquine hoặc thuốc có hoạt tính chống sốt rét kháng
+
+chloroquine
+
+để điều trị hoặc dự phòng phơi nhiễm kéo dài với
+
+P. vivax
+
+và/hoặc
+
+P. ovale
+
+. Ngoài ra, một liều duy nhất của tafenoquine có thể được sử dụng cho những bệnh nhân đã được sử dụng chloroquine để điều trị hoặc dự phòng
+
+P. vivax
+
+. Primaquine hoặc tafenoquine đơn thuần cũng có thể được sử dụng để dự phòng ban đầu ở những người có nguy cơ sốt rét, đặc biệt là do
+
+P. vivax
+
+. Primaquine và tafenoquine chống chỉ định với những người bị thiếu G6PD và ở phụ nữ mang thai hoặc đang cho con bú (trừ khi trẻ bú sữa mẹ có mức G6PD bình thường).
+
+G6PD = glucose-6-phosphate dehydrogenase.
+
+Trích từ
+
+Sách Vàng
+
+của Trung tâm kiểm soát và phòng ngừa bệnh tật:
+
+Infectious diseases related to travel: Malaria
+
+.
+
+a
+
+Thuốc dự phòng được dùng theo đường uống. Xem bảng:
+
+Phản ứng bất lợi và chống chỉ định của thuốc chống sốt rét cho phản ứng bất lợi và chống chỉ định
+
+.
+
+d
+
+Atovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Chống chỉ định atovaquone/proguanil ở những bệnh nhân có độ thanh thải creatinine < 30 mL/phút. Sự phối hợp này không được khuyến cáo cho trẻ em < 5 kg, phụ nữ mang thai hoặc đang cho con bú.
+
+c
+
+Chống chỉ định dùng tetracyclines trong thai kỳ và ở trẻ em
+
+<
+
+8 tuổi.
+
+d
+
+Các bác sĩ nên xem lại thông tin trước khi sử dụng hydroxychloroquine.
+
+e
+
+Mefloquine chưa được khuyến cáo sử dụng trong thời kỳ mang thai. Không có chống chỉ định dùng thuốc ở những bệnh nhân trầm cảm, tiền sử trầm cảm, rối loạn lo âu lan tỏa, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh; nếu bệnh nhân bị rối loạn tâm thần hoặc có tiền sử trầm cảm trước đây, nên thận trọng khi dùng thuốc. Không nên dùng thuốc cho bệnh nhân có bất thường dẫn truyền tim.
+
+f
+
+Primaquine được sử dụng làm thuốc dự phòng giai đoạn cuối (chữa bệnh triệt để) nhằm giảm nguy cơ tái phát ở những người đã dùng chloroquine, hydroxychloroquine hoặc thuốc có hoạt tính chống sốt rét kháng
+
+chloroquine
+
+để điều trị hoặc dự phòng phơi nhiễm kéo dài với
+
+P. vivax
+
+và/hoặc
+
+P. ovale
+
+. Ngoài ra, một liều duy nhất của tafenoquine có thể được sử dụng cho những bệnh nhân đã được sử dụng chloroquine để điều trị hoặc dự phòng
+
+P. vivax
+
+. Primaquine hoặc tafenoquine đơn thuần cũng có thể được sử dụng để dự phòng ban đầu ở những người có nguy cơ sốt rét, đặc biệt là do
+
+P. vivax
+
+. Primaquine và tafenoquine chống chỉ định với những người bị thiếu G6PD và ở phụ nữ mang thai hoặc đang cho con bú (trừ khi trẻ bú sữa mẹ có mức G6PD bình thường).
+
+G6PD = glucose-6-phosphate dehydrogenase.
+
+Trích từ
+
+Sách Vàng
+
+của Trung tâm kiểm soát và phòng ngừa bệnh tật:
+
+Infectious diseases related to travel: Malaria
+
+.
+
+Sốt rét trong khi mang thai gây ra mối đe dọa nghiêm trọng đối với cả mẹ và thai nhi. Chloroquine có thể được sử dụng trong thời kỳ mang thai ở những vùng nhạy cảm với các loài
+
+Plasmodium
+
+, nhưng không có chế độ dự phòng an toàn và hiệu quả nào khác, vì vậy phụ nữ mang thai nên tránh đi đến những vùng kháng thuốc
+
+chloroquine
+
+bất cứ khi nào có thể. Điều trị sốt rét trong thời kỳ mang thai phụ thuộc vào việc lây nhiễm các loài
+
+Plasmodium
+
+và các dạng đề kháng đã biết trong khu vực nhiễm bệnh (xem
+
+CDC: Treatment of Malaria: Guidelines For Clinicians (United States): Alternatives for Pregnant Women
+
+).
+
+Sự an toàn của mefloquine trong thời kỳ mang thai không được ghi nhận, nhưng những kinh nghiệm ít ỏi cho thấy nó có thể được sử dụng khi những lợi ích được đánh giá cao hơn những rủi ro. Doxycycline, atovaquone/proguanil, primaquine và tafenoquine không nên dùng trong thời kỳ mang thai.
+
+Artemisinins có thời gian bán hủy ngắn và không hiệu quả cho dự phòng.
+
+Các biện pháp dự phòng muỗi
+
+bao gồm
+
+Dùng dung dịch thuốc diệt côn trùng permethrin hoặc pyrethrum (có thời gian hoạt động kéo dài)
+
+Đặt rèm che ở cửa ra vào và cửa sổ
+
+Sử dụng lưới chắn muỗi (tốt hơn là ngâm tẩm permethrin hoặc pyrethrum) xung quanh giường
+
+Xử lý quần áo và đồ dùng (ví dụ: giày, quần, vớ, lều) với các sản phẩm có chứa 0,5% permethrin, được bảo vệ thông qua một số lần giặt (quần áo đã được xử lý sẵn và có thể bảo vệ lâu hơn)
+
+Sử dụng chất chống muỗi như DEET (diethyltoluamide) 25 đến 35% đối với da tiếp xúc
+
+Mặc áo sơ mi và quần dài tay bảo vệ, đặc biệt ở thời điểm giữa lúc trời sáng và trời tối, khi muỗi
+
+Anophen
+
+đang hoạt động
+
+Trước khi sử dụng chất chống muỗi có chứa chất DEET người dùng cần được hướng dẫn
+
+Chỉ sử dụng thuốc chống muỗi bôi trên da theo hướng dẫn trên nhãn và sử dụng chúng một cách nhẹ nhàng quanh tai (không nên áp vào hoặc phun vào mắt hoặc miệng).
+
+Rửa tay sau khi sử dụng.
+
+Tránh xa tầm tay trẻ em (người lớn nên lấy vào tay trước, sau đó xoa nhẹ nhàng lên da trẻ).
+
+Chỉ dùng đủ để che phủ vùng tiếp xúc.
+
+Rửa sạch sau khi quay trở lại trong nhà.
+
+Giặt quần áo trước khi mặc lại trừ khi nhãn sản phẩm ghi chú.
+
+Hầu hết các chất chống muỗi có thể được sử dụng cho trẻ sơ sinh và trẻ nhỏ < 2 tháng tuổi. Cơ quan bảo vệ môi trường không khuyến cáo các biện pháp phòng ngừa bổ sung cho việc sử dụng hóa chất chống muỗi đối với trẻ em hoặc phụ nữ có thai hoặc cho con bú.
+
+Vào ngày 6 tháng 10 năm 2021, Tổ chức Y tế Thế giới (WHO) đã khuyến cáo sử dụng rộng rãi vắc xin sốt rét RTS, S/AS01 (RTS, S) cho trẻ em ở châu Phi cận Sahara và các khu vực khác có sự lây truyền bệnh sốt rét do
+
+P. falciparum
+
+từ trung bình đến cao. . (Xem
+
+WHO khuyến nghị vắc xin sốt rét đột phá dành cho trẻ em có nguy cơ mắc bệnh
+
+.)
+
+Những điểm chính
+
+Vào năm 2020, ước tính có khoảng 241 triệu người mắc bệnh sốt rét trên toàn thế giới và khoảng 627.000 trường hợp tử vong, chủ yếu ở trẻ em
+
+<
+
+5 tuổi ở Châu Phi; kể từ năm 2000, số ca tử vong do sốt rét đã giảm khoảng 60%.
+
+P. falciparum
+
+gây tắc nghẽn mạch máu nhỏ và thiếu máu mô, đặc biệt ở não, thận, phổi và đường tiêu hóa của trẻ non tháng và người lớn; bệnh nhân có thể chết trong vòng vài ngày sau khi có các triệu chứng ban đầu.
+
+P. vivax
+
+,
+
+P. ovale
+
+, và
+
+P. malariae
+
+thường không gây tổn thương cơ quan quan trọng; tử vong rất hiếm. Toàn bộ phổ bệnh sốt rét xảy ra với
+
+P. knowlesi.
+
+Chu kỳ nhân lên vô tính ngắn của nó có thể dẫn đến tỷ lệ ký sinh trùng trong máu cao và bệnh nặng, có khả năng gây tử vong nếu không được điều trị.
+
+Các biểu hiện bao gồm sốt cơn rét run, nhức đầu, đau cơ và buồn nôn; thiếu máu tán huyết và lách to là phổ biến.
+
+Chẩn đoán bằng xét nghiệm soi lam máu (giọt mỏng và giọt dày) và xét nghiệm máu chẩn đoán nhanh.
+
+Điều trị bằng thuốc chống sốt rét dựa trên các loài (nếu biết) và mô hình đề kháng thuốc ở khu vực bị nhiễm trùng.
+
+Liệu pháp dựa trên artemisinin (ví dụ, artemether/lumefantrine, artesunate và hợp chất artemisinin khác) là liệu pháp điều trị hiệu quả nhất; atovaquone cộng với proguanil là một phương pháp thay thế cho bệnh nhân sốt rét không biến chứng.
+
+Dùng primaquine hoặc tafenoquine để xác định hoặc nghi nhiễm chủng
+
+P. vivax
+
+và
+
+P. ovale
+
+để ngăn ngừa tái phát trừ khi bệnh nhân đang mang thai, cho con bú, thiếu G6PD hoặc tình trạng G6PD của họ không được biết rõ.
+
+Sốt rét nặng cần điều trị khẩn cấp. Do nguy cơ tiến triển thành bệnh nặng ở bệnh nhân nhiễm
+
+P. falciparum
+
+, bệnh nhân nên nhập viện để theo dõi đáp ứng lâm sàng.
+
+Uống thuốc dự phòng cho những người đi du lịch đến các vùng lưu hành và hướng dẫn cách phòng ngừa muỗi đốt.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Centers for Disease Control and Prevention (CDC): Resources for Health Professionals: Malaria
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của sốt rét ---
+
+Các loàiPlasmodiumgây bệnh cho ngườiP. falciparumP. vivaxP. ovaleP. malariaeP. knowlesiĐồng nhiễm với nhiều hơn một loàiPlasmodiumkhông phổ biến nhưng có thể xảy ra.P. knowlesilà một mầm bệnh ở Đông Nam Á, đặc biệt là ở Malaysia. Khỉ Macaque là vật chủ chính. Những người sống hoặc làm việc gần hoặc trong rừng thường mắc phảiP. knowlesi.Vòng đời cơ bản là như nhau ở tất cả các loàiPlasmodium. Truyền bệnh bắt đầu khi muỗi cáiAnophenchích vào một người bị sốt rét và ăn phải máu có chứa bào tử.Trong khoảng 1 đến 2 tuần sau, các giao tử bên trong muỗi sinh sản và tạo ra các thoa trùng. Khi muỗi đốt người khác, thoa trùng được tiêm và nhanh chóng đến gan và nhiễm vào tế bào gan.Các ký sinh trùng trưởng thành tạo thể phân liệt trong tế bào gan. Mỗi thể phân liệt tạo ra 10.000 đến 30.000 ký sinh trùng non, những chất này sẽ được thải ra trong máu từ 1 đến 3 tuần sau khi vỡ tế bào gan. Mỗi ký sinh trùng non có thể xâm nhập vào một hồng cầu và chuyển thành một thể tự dưỡng.Thể tự dưỡng phát triển, và hầu hết phát triển thành thể phân liệt hồng cầu; các thể phân liệt tạo ra các ký sinh trùng non khác, sau 48 đến 72 giờ sau đó làm vỡ tế bào hồng cầu và được giải phóng trong huyết tương. Những ký sinh trùng non sau đó nhanh chóng xâm nhập các hồng cầu mới, lặp lại chu kỳ. Một số thể tự dưỡng phát triển thành các giao tử, xâm nhập vào muỗiAnophen. Các giao tử phát triển thành hợp tử trong ruột của muỗi, phát triển thành nang trứng và giải phóng thoa trùng di chuyển đến các tuyến nước bọt.Vòng đời củaPlasmodiumHình ảnhHình ảnh từ Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.VớiP. vivaxvàP. ovale(nhưng không phảiP. falciparumhoặcP. malariae), các thể phân liệt ở mô có thể tồn tại dưới dạng các nốt sần ở gan trong nhiều năm. Sốt rét tái phát doP. ovalecó thể xảy ra trong khoảng 6 năm sau một đợt sốt rét triệu chứng và bệnh đã lây nhiễm qua truyền máu từ người đã tiếp xúc 7 năm trước khi cho máu. Những dạng không hoạt động này đóng vai trò như vật nén thời gian, gây ra tình trạng tái phát và phức tạp hóa trị bởi vì chúng không đáp ứng với hầu hết các thuốc chống sốt rét, có hiệu quả với ký sinh trùng trong máu.Giai đoạn tiền hồng cầu (giai đoạn gan) của chu kỳ sống sốt rét không xảy ra khi bệnh lây truyền qua truyền máu, sử dụng kim tiêm chung, hoặc bẩm sinh. Do đó, các phương thức lây truyền này không gây ra bệnh tiềm ẩn hoặc sự tái phát chậm.Hồng cầu vỡ giải phóng các ký sinh trùng non liên quan đến các triệu chứng lâm sàng. Nếu trầm trọng, sựtan máugây ra thiếu máu và vàng da, là gánh nặng cho lách để thực bào những hồng cầu bệnh. Thiếu máu có thể nghiêm trọng do nhiễmP. falciparumhoặc nhiễmP. vivaxmạn tính nhưng nhẹ khi nhiễmP. malariae.Sốt rét FalciparumKhác với các dạng sốt rét khác,P. falciparumgây tắc nghẽn mao mạch bởi hồng cầu nhiễm ký sinh trùng dính kết vào nội mạc. Thiếu máu cục bộ có thể xảy ra với tình trạng thiếu oxy máu mô, não, thận, phổi và đường tiêu hóa. Hạ đường huyết và toan lactic là các biến chứng tiềm ẩn khác.Sức đề khángHầu hết người Tây Phi đều có sức đề khángP. vivaxbởi trên bề mặt hồng cầu không có kháng nguyên nhóm Duffy, cần thiết cho sự kết dínhP. vivaxvào hồng cầu; nhiều người Mỹ gốc Phi cũng có sức đề kháng như vậy. Sự phát triển củaPlasmodiumtrong hồng cầu chậm ở bệnh nhân cóbệnh hemoglobin S,bệnh hemoglobin C,thalassemia,thiếu G6PD, hoặcbệnh hồng cầu hình bầu dục.Tiền sử nhiễm bệnh để lại miễn dịch một phần. Một khi người cư trú ở khu vực lưu hành bệnh rời đi, thì khả năng miễn dịch bị suy giảm theo thời gian (vài tháng đến năm), và sốt rét triệu chứng có thể phát triển nếu họ trở về nhà và bị tái nhiễm.
+
+--- 2. Các triệu chứng và dấu hiệu của bệnh sốt rét ---
+
+Thời kỳ ủ bệnhthường làP. vivax12 đến 17 ngàyP. falciparum9 đến 14 ngàyP. ovale16 đến 18 ngày hoặc lâu hơnKhoảng 1 tháng (18 đến 40 ngày) hoặc lâu hơn (hàng năm) đối vớiP. malariaeTuy nhiên, một số chủngP. vivaxở khí hậu ôn đới không gây bệnh trong nhiều tháng>1 năm sau khi bị nhiễm.Các biểu hiện chung cho tất cả cácdạng bệnh sốt rétbao gồmSốt và rét run - cơn sốt rétThiếu máuVàng daLách toGan toCơn sốt rét kịch phát là do sự tan máu của các tế bào hồng cầu bị nhiễm bệnh, các ký sinh trùng non được giải phóng và các kháng nguyên sốt rét khác và phản ứng viêm mà chúng tạo ra. Triệu chứng cổ điển bắt đầu với chứng khó chịu, ớn lạnh và sốt nóng lên đến 39 đến 41°C, nhịp tim nhanh, nhịp tim, tiểu nhiều, nhức đầu, đau cơ và buồn nôn. Sau 2 đến 6 giờ, sốt giảm, và đổ mồ hôi nhiều xảy ra từ 2 đến 3 giờ, tiếp theo là mệt mỏ nhiều. Sốt thường khi bắt đầu nhiễm trùng. Trong các trường hợp nhiễm trùng đã thành lập, các cơn sốt rét kịch phát thường xảy ra sau mỗi 2 đến 3 ngày tùy thuộc vào loài.Lách to thường trở nên rõ rệt vào cuối tuần đầu tiên của bệnh lâm sàng nhưng có thể không xảy ra vớiP. falciparum. Lách to mềm và dễ bị chấn thương. Lách to có thể giảm với các cơn sốt rét tái phát khi chức năng miễn dịch hình thành. Sau nhiều đợt, lá lách có thể trở nên xơ cứng và vững chắc hoặc, ở một số bệnh nhân, sẽ trở nên rất to (lách nhiệt đới). Gan to luôn đi kèm với lách to.Biểu hiện sốt rét doP. falciparumP. falciparumgây ra bệnh nghiêm trọng nhất do ảnh hưởng đến các mạch máu nhỏ. Đây là loài duy nhất có khả năng gây tử vong nếu không được điều trị; những bệnh nhân không tự miễn nhiễm có thể chết trong những ngày có triệu chứng ban đầu. Nhiệt độ tăng và các triệu chứng đi kèm thường xảy ra ở một mô hình bất thường nhưng có thể đồng bộ, xảy ra theo mô hình bậc ba (tăng nhiệt độ ở khoảng 48 giờ), đặc biệt ở những người sống ở những vùng lưu hành có miễn dịch một phần.Bệnh nhân sốt rét não có thể có các triệu chứng khác nhau, từ chứng khó chịu đến chứng co giật và hôn mê.Hội chứng suy hô hấp cấp(ARDS), tiêu chảy, vàng da, đau vùng thượng vị, xuất huyết võng mạc, sốt rét algid (hội chứng giống sốc) và giảm tiểu cầu nặng cũng có thể xảy ra.Thiếu máu có thể là do sự suy giảm thể tích, tắc nghẽn mạch máu bởi hồng cầu ký sinh trùng, hoặc sự tích tụ phức hợp miễn dịch. Đái huyết sắc tố và hồng cầu niệu do tan máu trong lòng mạch có thể tiến triển đến sốt đen (được đặt tên dựa trên màu tối của nước tiểu) tự phát hoặc sau khi điều trị bằng quinin.Hạ đường huyết là phổ biến và có thể trầm trọng hơn khi điều trị bằng quinine và tăng glucose máu.Với phụ nữ đang mang thai có thể dẫn đến trẻ đẻ ra bị nhẹ cân, sẩy thai tự nhiên, thai chết lưu hoặc nhiễm trùng bẩm sinh.Biểu hiện củaP. vivax,P. ovale,P. malariaevàP. knowlesiP. vivax,P. ovale, vàP. malariaethường không xuất hiện ở các cơ quan quan trọng. Tỷ lệ tử vong rất hiếm và chủ yếu là do vỡ lách hoặc tăng kali máu không kiểm soát ở bệnh nhân nguy cơ cao.Bệnh cảnh lâm sàng vớiP. ovaletương tự như củaP. vivax. Trong các nhiễm trùng đã biết, nhiệt độ tăng đột biến ở khoảng 48 giờ - một mô hình tertian.P. malariaenhiễm trùng có thể không gây triệu chứng cấp tính, nhưng mật độ ký sinh trùng ở mức thấp có thể tồn tại trong nhiều thập kỷ và dẫn đến viêm thận do phức hợp miễn dịch hoặc bệnh thận hoặc cường lách nhiệt đới; khi có triệu chứng, sốt có xu hướng xảy ra ở khoảng 72 giờ - mô hình quartan.P. knowlesicó liên quan đến toàn bộ phổ bệnh sốt rét. Ngược lại vớiP. falciparum, khả năng lây nhiễm cao hơn ở nam giới trên 15 tuổi sống gần hoặc làm việc trong các khu vực có rừng. Thường có nhiệt độ tăng đột biến hàng ngày. Mức độ nặng tăng dần theo tuổi của bệnh nhân. Chu kỳ nhân lên vô tính ngắn trong 24 giờ có thể dẫn đến tỷ lệ ký sinh trùng trong máu cao và nếu không được điều trị sẽ dẫn đến tử vong. Giảm tiểu cầu là phổ biến, nhưng nó thường không liên quan đến xuất huyết.Các biểu hiện ở bệnh nhân điều trị dự phòng bằng hóa chấtỞ những bệnh nhân đã dùng hóa chất dự phòng (xem bảngThuốc dùng để phòng ngừa sốt rét), bệnh sốt rét có thể không điển hình. Thời kỳ ủ bệnh có thể kéo dài vài tuần đến vài tháng sau khi thuốc ngừng. Những người bị bệnh có thể bị đau đầu, đau lưng, và sốt không đều, nhưng ký sinh trùng ban đầu khó có thể tìm thấy trong các mẫu máu.
+
+--- 3. Chẩn đoán sốt rét ---
+
+Soi mẫu máu dưới kính hiển vi huỳnh quang (tiêu bản máu giọt mỏng và dày)Các xét nghiệm chẩn đoán nhanh phát hiệnPlasmodiumkháng nguyên hoặc các enzyme trong máuSốt và ớn lạnh ở người nhập cư hoặc người du lịch quay trở lại từ một vùng lưu hành nên nhanh chóng đánh giá sốt rét. Triệu chứng thường xuất hiện trong 6 tháng đầu sau khi nhiễm trùng, nhưng khởi phát có thể mất đến 2 năm hoặc hiếm khi lâu hơn.Sốt rét có thể được chẩn đoán bằng cách tìm ký sinh trùng trên sự kiểm tra bằng kính hiển vi các tiểu bản máu dày hoặc mỏng. Các loài gây nhiễm (xác định điều trị và tiên lượng) được xác định bằng các đặc điểm đặc trưng trên tiêu bản (xem bảngĐặc điểm chẩn đoán của các loài Plasmodium trên tiêu bản). Nếu kết quả xét nghiệm máu âm tính ban đầu là âm tính, cần phải lặp lại các xét nghiệm máu trong khoảng thời gian từ 12 đến 24 giờ đến khi 3 mẫu âm tính.Các xét nghiệm máu nhuộm mỏng với nhuộm Wright-Giemsa cho phép đánh giá hình thái ký sinh trùng trong hồng cầu (hồng cầu), thường là xét nghiệm và xác định tỷ lệ nhiễm ký sinh trùng (tỷ trọng ký sinh trùng), đánh giá bằng cách sử dụng độ phóng đại của dầu ít chạm, sẽ hiển thị khoảng 400 hồng cầu trên mỗi trường. Các tiêu bản máu dày đô nhạy cao hơn nhưng khó chuẩn bị và thực hiện vì các hồng cầu dễ bị ly giải trước khi nhuộm màu. Độ nhạy và độ chính xác của kết quả phụ thuộc vào kinh nghiệm của người đọc.Các xét nghiệm chẩn đoán nhanh thương mại cho sốt rét dựa trên sự có mặt của một số kháng nguyên plasmodium hoặc các hoạt động enzym. Các xét nghiệm có thể bao gồm phát hiện protein giàu histidin 2 (HRP-2) liên quan đến ký sinh trùng sốt rét (đặc biệt làP. falciparum) và phát hiện ra lactate dehydrogenase plasmodium (pLDH). Các xét nghiệm chẩn đoán nhanh nhìn chung có thể so sánh được với độ nhạy đối của kính hiển vi trong việc phát hiện mức ký sinh trùng xuất hiện thấp, nhưng chúng không phân biệt đồng nhiễm với nhiều hơn một loàiPlasmodiumhoặc cho phép phát hiện các chủng trừP. falciparum.Kính hiển vi ánh sáng và xét nghiệm chẩn đoán nhanh bổ sung cho nhau và cả hai nên được thực hiện khi có sẵn. Chúng có độ nhạy tương tự. Kết quả âm tính ngay cả ở cả hai không loại trừ sốt rét ở bệnh nhân có mật độ ký sinh trùng thấp.PCR và các đầu dò DNA đặc hiệu loài có thể được sử dụng nhưng không được phổ biến rộng rãi tại cơ sở y tế. Chúng có thể giúp xác định loàiPlasmodiumbị nhiễm sau khi sốt rét được chẩn đoán. Bởi vì các xét nghiệm huyết thanh học có thể phản ánh sự phơi nhiễm trước, chúng không hữu ích trong việc chẩn đoán bệnh sốt rét cấp tính.BảngTính năng chẩn đoán củaPlasmodiumCác loài trong máu đànBảngTính năng chẩn đoán củaPlasmodiumCác loài trong máu đànTính năng chẩn đoán của <i >Plasmodium</i> Các loài trong máu đànĐặc trưngPlasmodium vivax*Plasmodium falciparumPlasmodium malariae†Hồng cầu bị nhiễm bệnh to lênCóKhôngKhôngHạt Schüffner‡CóKhôngKhôngVết Maurer hoặc vỡ raKhôngCó§KhôngHồng cầu bị nhiễm nhiều lầnHiếmCóKhôngVòng nhẫn có 2 hạt chromatinHiếmThường gặpKhôngThể giao bào hình liềmKhôngCóKhôngThể tự dưỡng hình vành khuyênKhôngKhôngCóThể phân liệt có trong máu ngoại viCóHiếmCóSố lượng ký sinh trùng non trong thể phân liệt (trung bình [trong khoảng])16 (12–24)12 (8–24)¶¶8 (6–12)* Hồng cầu (RBC) bị nhiễmP. ovalebị biến dạng, hình bầu dục, và phình to lên; tương tụ hồng cầu bị nhiễmP. vivax.†P. knowlesicó hình thái tương tự nhưP. malariavà bị nhầm lẫn với nó.P. knowlesinên được lưu ý ở những bệnh nhân mắc bệnh sốt rét mắc phải ở Đông Nam Á, đặc biệt là ở Malaysia.‡ Các hạt Schüffner được quan sát rõ nhất khi lam máu được nhuộm Giemsa.§ Đặc điểm này không phải lúc nào cũng có thể nhìn thấy.¶ Thể phân liệt bị mắc ở cơ quan nội tạng và thường không có trong máu ngoại vi.* Hồng cầu (RBC) bị nhiễmP. ovalebị biến dạng, hình bầu dục, và phình to lên; tương tụ hồng cầu bị nhiễmP. vivax.†P. knowlesicó hình thái tương tự nhưP. malariavà bị nhầm lẫn với nó.P. knowlesinên được lưu ý ở những bệnh nhân mắc bệnh sốt rét mắc phải ở Đông Nam Á, đặc biệt là ở Malaysia.‡ Các hạt Schüffner được quan sát rõ nhất khi lam máu được nhuộm Giemsa.§ Đặc điểm này không phải lúc nào cũng có thể nhìn thấy.¶ Thể phân liệt bị mắc ở cơ quan nội tạng và thường không có trong máu ngoại vi.phòng bệnh sốt rétSốt rét ác tínhđược xác định bằng sự hiện diện của một trong các đặc điểm lâm sàng và xét nghiệm sau đây. Sốt rét nặng thường gây ra bởiP. falciparum.Tiêu chuẩn lâm sàng của bệnh sốt rét ác tính:Hội chứng suy hô hấp cấp tính/phù phổi cấpChảy máuHôn mê và Suy giảm Ý thứcVàng daĐộng kinh (tái phát)SốcTiêu chuẩn xét nghiệm sốt rét nặng:Thiếu máu (nặng: < 7 g/dL [70 g/L])Đông máu rải rác trong lòng mạch(DIC)Đái huyết sắc tốNhiễm toan chuyển hóaMật độ ký sinh trùng > 5%Suy thận
+
+--- 4. Điều trị sốt rét ---
+
+Thuốc chống sốt rétThuốc chống sốt rét được lựa chọn dựa trên những điều sau đây:Chẩn đoán dựa trên tiêu chuẩn lâm sàng và xét nghiệm đặc hiệuNhiễmPlasmodiumSự kháng thuốc của các chủng trong vùng mắc bệnhHiệu quả và tác dụng phụ của thuốc có sẵnLiệu pháp phối hợp dựa trên artemisinin như artemether/lumefantrine là điều trị hiệu quả nhanh nhất và trong nhiều trường hợp là biện pháp điều trị được lựa chọn. Đề kháng với artemisinin đã được báo cáo nhưng vẫn chưa phổ biến.Sốt rét nặngyêu cầu điều trị khẩn cấp, tốt nhất là dùng đường tĩnh mạch, đó là loại thuốc duy nhất có sẵn ở Mỹ để điều trị sốt rét đường tiêu hóa (hoặc cho những bệnh nhân không thể uống thuốc). Nếu không có sẵnartesunatengay lập tức, hãy bắt đầu điều trị bằng đường uống tạm thời với artemether/lumefantrine, atovaquone/proguanil, quinine sulfate (cộng với doxycycline hoặc clindamycin theo đường tĩnh mạch), hoặc nếu không có gì khác, mefloquine. Ở những bệnh nhân bị nôn, thuốc chống nôn có thể hữu ích. Những người không thể nuốt được (ví dụ, do mê sảng) có thể được cho uống viên nén artemether/lumefantrine hoặc atovaquone/proguanil qua ống thông mũi dạ dày.Do nguy cơ tiến triển thành bệnh nặng ở bệnh nhân nhiễmP. falciparum, bệnh nhân cần phải nhập viện để theo dõi đáp ứng lâm sàng và kiểm tra mật độ ký sinh trùng 12 đến 24 giờ một lần cho đến khi biểu hiện lâm sàng cải thiện và mật độ ký sinh trùng giảm rõ rệt (xemCDC: Treatment of Malaria: Guidelines for Clinicians [United States]).Do nguy cơ tan máu muộn, một biến chứng thường gặp trong bệnh sốt rét tăng ký sinh trùng máu được điều trị bằng artesunate theo đường tĩnh mạch (1), nồng độ hemoglobin cần phải được theo dõi trong 4 tuần sau khi điều trị.Ngọc trai & cạm bẫyThời gian là điều cốt yếu trong điều trị sốt rét nặng. Bắt đầu điều trị bằngartesunatetheo đường tĩnh mạch càng sớm càng tốt. Bắt đầu điều trị bằng đường uống tạm thời với các loại thuốc khác nếu không có sẵnartesunateđường tĩnh mạch ngay lập tức.Ở một số vùng lưu hành, một tỷ lệ đáng kể các loại thuốc sốt rét có sẵn ở địa phương là hàng giả. Vì vậy, bác sĩ khuyên du khách đến các vùng xa, có nguy cơ cao nên điều trị phác đồ đầy đủ thích hợp nếu sốt rét được xác nhận mặc dù dự phòng; chiến lược này cũng tránh được việc cạn kiệt tài nguyên thuốc hạn chế ở nước đó.Sốt rét đặc biệt nguy hiểm ở trẻ em<5 tuổi (tỷ lệ tử vong cao nhất ở nhóm trẻ<2 tuổi), phụ nữ có thai, và những người chưa được cảm nhiễm.Nếu nghi ngờP. falciparum, nên được điều trị ngay, ngay cả khi vết ban đầu là âm tính.P. falciparumkháng thuốc sốt rét hiện đang phổ biến vàP. vivaxkhángchloroquinephổ biến ở Papua New Guinea, Indonesia và đang xuất hiện ở một số khu vực khác (ví dụ: Đông Nam Á, Nam Á, Trung Đông, Đông Phi và châu Mỹ) (2).Đối với các loại thuốc và liều khuyến nghị để điều trị và phòng ngừa bệnh sốt rét, xem bảngĐiều trị bệnh sốt rétvàThuốc dùng để ngăn ngừa bệnh sốt rét. Các tác dụng ngoại ý thường gặp và chống chỉ định được liệt kê trong bảngCác phản ứng có hại và chống chỉ định của Thuốc chống sốt rét. Xem thêm trang web của CDC (Chẩn đoán và điều trị sốt rét ở Mỹ), hoặc để được tư vấn khẩn cấp về cách quản lý, hãy gọi Đường dây nóng về Sốt rét của CDC theo các số được liệt kê ở trên.Trong trường hợp mắc sốt khi đi du lịch trong vùng lưu hành, cần phải có sự đánh giá nhanh của nhân viên y tế. Khi không thể đánh giá kịp thời (ví dụ, vì vùng này rất xa), có thể xem xét việc đánh giá để tự điều trị bằng artemether/lumefantrine hoặc atovaquone/proguanil. Nếu du khách có sốt sau khi trở về từ vùng lưu hành và không có chẩn đoán nào khác, bác sĩ lâm sàng nên cân nhắc điều trị theo kinh nghiệm đối với sốt rét không biến chứng ngay cả khi bệnh sốt rét và/hoặc các xét nghiệm chẩn đoán nhanh là âm tính.BảngĐiều trị sốt rét ở Hoa KỳBảngĐiều trị sốt rét ở Hoa KỳĐiều trị sốt rét ở Hoa KỳƯu tiênThuốcaLiều dùng cho người lớnLiều dùng cho trẻ embSốt rét không biến chứng doP. falciparumhoặc các loài chưa biết mắc phải ở tất cả các vùng có dịch bệnh sốt rét. (Các lựa chọn bổ sung cho bệnh sốt rét mắc phải ở các vùng nhạy cảm với chloroquine được liệt kê bên dưới.) - Thuốc uốngThuốc được khuyến cáoArtemether/lumefantrinec6 liều (1 liều=4 viên) trong 3 ngày (lúc 0 và 8 giờ), sau đó 1 liều 2 lần/ngày trong 2 ngày tiếp theo6 liều theo từng khoảng thời gian như đối với người lớn; liều=5–<15 kg: 1 viên15-< 25 kg: 2 viên25-< 35 kg: 3 viên≥35 kg: 4 viênhoặc làAtovaquone/proguanild4 viên dành cho người lớn một lần/ngày trong 3 ngày<5 kg: Không chỉ định5–8 kg: 2 viên dùng cho trẻ em một lần/ngày trong 3 ngày9-10 kg: 3 viên dùng cho trẻ em một lần/ngày trong 3 ngày11-20 kg: 1 viên dành cho người lớn 1 lần/ngày trong 3 ngày21-30 kg: 2 viên dành cho người lớn 1 lần/ngày trong 3 ngày31-40 kg: 3 viên dành cho người lớn 1 lần/ngày trong 3 ngày<40 kg: 4 viên dành cho người lớn 1 lần/ngày trong 3 ngàyhoặc làSulfat quininecộng với một trong những điều sau đây:650 mg 3 lần/ngày từ 3 đến 7 ngàye10 mg/kg 3 lần/ngày trong 3 hoặc 7 ngàyeLiều không quá liều người lớnDoxycyclinefLiều 100 mg 2 lần/ngày trong 7 ngày2,2 mg/kg 2 lần/ngày trong 7 ngàyTetracyclinef250 mg 4 lần mỗi ngày trong 7 ngày6,25 mg/kg 4 lần mỗi ngày trong 7 ngàyClindamycing7 mg/kg chia 3 lần/ngày trong 7 ngày7 mg/kg chia 3 lần/ngày trong 7 ngàyThay thế (nếu không thể sử dụng các tùy chọn khác)Mefloquineh750 mg 1 lần, sau đó 500 mg sau 6-12 giờ15 mg/kg 1 lần, sau đó 10 mg/kg sau 6-12 giờThêm lựa chọn cho sốt rét không biến chứng doP. falciparumhoặc các loài không xác định được trong vùng nhạy cảm với chloroquine (Trung Mỹ phía tây kênh đào Panama, Haiti, Cộng hòa Dominican, phần lớn khu vực Trung Đông) vàP. malariaevàP. knowlesiở tất cả các vùng. Nếu loài chưa xác định có thể làP. vivaxhoặcP. ovale, thì điều trị giai đoạn cuối bằng primaquine hoặc tafenoquine để ngăn ngừa tái phát (xem bên dưới) —Thuốc uốngThuốciChloroquinej,k1.000 mg, sau đó 500 mg sau 6, 24 giờ và 48 giờ16,6 mg/kg (đến 1000 mg), sau đó 8,3 mg/kg (đến 500 mg) ở thời điểm 6, 24 và 48 giờhoặc làHydroxychloroquinek800 mg, sau đó 400 mg sau 6, 24 giờ và 48 giờ13 mg/kg (đến 800 mg), sau đó 6,5 mg/kg (đến 400 mg) ở thời điểm 6, 24 và 48 giờhoặc làArtemether/lumefantrinecLiều lượng như trênLiều lượng như trênSốt rét không biến chứng doP. vivax(bên ngoài Papua New Guinea và Indonesia, nơi phổ biến kháng chloroquine) hoặcP. ovaleở tất cả các vùng — Thuốc uốngThuốc được khuyến cáoiChloroquinej,khoặcHydroxychloroquinekLiều lượng như trênLiều lượng như trêncộng vớiPrimaquinel,m30 mg một lần/ngày trong 14 ngày0,5 mg/kg (tối đa 30 mg) một lần/ngày trong 14 ngàyhoặc làTafenoquinel,m300 mg liều duy nhấtĐối với bệnh nhân ≥ 16 tuổi, liều người lớnChỉ được khuyến nghị sử dụng với chloroquineSốt rét không biến chứng do mắc phảiP. vivaxở các khu vực được biết là có khả năng kháng chloroquineP. vivaxm(Papua New Guinea, Indonesia) -Thuốc uốngThuốc được khuyến cáoArtemether/lumefantrinecLiều lượng như trênLiều lượng như trênhoặc làAtovaquone/proguanild4 viên dành cho người lớn một lần/ngày trong 3 ngày<5 kg: Không chỉ định5–8 kg: 2 viên dùng cho trẻ em một lần/ngày trong 3 ngày9-10 kg: 3 viên dùng cho trẻ em một lần/ngày trong 3 ngày11-20 kg: 1 viên dành cho người lớn 1 lần/ngày trong 3 ngày21-30 kg: 2 viên dành cho người lớn 1 lần/ngày trong 3 ngày31-40 kg: 3 viên dành cho người lớn 1 lần/ngày trong 3 ngày<40 kg: 4 viên dành cho người lớn 1 lần/ngày trong 3 ngàyhoặc làQuininecộng với một trong những phác đồ sau đây:650 mg 3 lần/ngày từ 3 đến 7 ngàye10 mg/kg 3 lần/ngày trong 3 hoặc 7 ngàyeDoxycyclinefLiều 100 mg 2 lần/ngày trong 7 ngày2,2 mg/kg 2 lần/ngày trong 7 ngàyTetracyclinef250 mg 4 lần mỗi ngày trong 7 ngày6,25 mg/kg 4 lần mỗi ngày trong 7 ngàyhoặc làMefloquineh750 mg 1 lần, sau đó 500 mg sau 6-12 giờ15 mg/kg 1 lần, sau đó 10 mg/kg sau 6-12 giờcộng với bất kỳ phác đồ nào ở trênPrimaquinel30 mg một lần/ngày trong 14 ngày0,5 mg/kg (tối đa 30 mg) một lần/ngày trong 14 ngàyhoặc làTafenoquinel300 mg liều duy nhấtĐối với bệnh nhân ≥ 16 tuổi, liều người lớnChỉ được khuyến nghị sử dụng với chloroquineSốt rét nặngn,Plasmodium-Thuốc lâm sàngThuốc được khuyến cáoArtesunate theo đường tĩnh mạchn, có bán trên thị trường, nhưng nếu không thể lấy được thuốc này trong vòng 24 giờ, hãy liên hệ với Đường dây nóng Phòng chống Sốt rét của CDCo(Nếu không có sẵn artesunate đường tĩnh mạch ngay lập tức, hãy bắt đầu uống tạm thời artemether/lumefantine hoặc các thuốc thay thế khác. Khi artesunate đến, hãy ngừng điều trị bằng đường uống.)Người lớn 2,4 mg/kg trọng lượng cơ thể tĩnh mạch lúc 0, 12, 24 và 48 giờTrẻ em < 20 kg: 3 mg/kg trọng lượng cơ thể IV lúc 0, 12, 24 và 48 giờNếu 20 kg: Liều dành cho người lớnĐánh giá lại mật độ ký sinh trùng từ 4 giờ trở lên sau liều thứ ba. Khi mật độ ký sinh trùng<1% và bệnh nhân có thể dung nạp liệu pháp uống, bắt đầu điều trị bằng đường uống với một trong những thuốc sau:Artemether-lumefantrine (ưu tiên)Liều lượng như trênLiều lượng như trênAtovaquone-proguanildLiều lượng như trênLiều lượng như trênQuinine cộng với doxycycline (> 8 tuổi và không mang thai)fLiều lượng như trên; cùng một liều doxycycline có thể được cho dùng theo đường tĩnh mạch nếu cần thiếtLiều lượng như trên; cùng liềuQuinine cộng với clindamycing,p(ở trẻ em < 8 tuổi và phụ nữ có thai)Liều uống như trên, nhưng nếu cần điều trị bằng đường tiêm, cho liều 10 mg/kg đường tĩnh mạch sau đó là 5 mg/kg đường tĩnh mạch mỗi 8 giờLiều uống như trên, nhưng nếu cần điều trị bằng đường tiêm, cho liều 10 mg/kg đường tĩnh mạch sau đó là 5 mg/kg đường tĩnh mạch mỗi 8 giờcộng với, nếu có khả năng là hoặc khẳng định làP. vivaxhoặcP. ovalePrimaquinel30 mg một lần/ngày trong 14 ngày sau khi rời khỏi khu vực lưu hành0,5 mg/kg uống 1 lần/ngày (tối đa 30 mg) trong 14 ngày sau khi rời khỏi khu vực lưu hànhTafenoquinel300 mg liều duy nhấtChỉ sử dụng ở bệnh nhân ≥ 16 tuổi, dùng liều người lớnChỉ được khuyến nghị sử dụng với chloroquineaXem bảngThuốc dùng để ngăn ngừa bệnh sốt rétđể biết các phản ứng bất lợi và chống chỉ định. Nếu trong điều trị dự phòng, không nên sử dụng thuốc như phác đồ điều trị.bLiều trẻ em không được vượt quá liều người lớn.cArtemether/lumefantrine có sẵn ở dạng viên phối hợp liều cố định 20 mg/120 mg. Nói chung, sự kết hợp này không được khuyến cáo sử dụng ở phụ nữ mang thai, đặc biệt ở tam cá nguyệt thứ nhất, vì dữ liệu về an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Bệnh nhân nên uống thuốc cùng với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.dAtovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Sự kết hợp này là chống chỉ định ở những bệnh nhân có độ thanh thải creatinin<30 mL/phút. Nói chung, sự kết hợp này không được khuyến cáo cho phụ nữ mang thai, đặc biệt là trong tam cá nguyệt thứ nhất, bởi vì dữ liệu an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Liều dùng 2 lần/ngày làm giảm buồn nôn và nôn như khi dùng nó với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.eỞ Mỹ, viên nang quinine sulfate 324 mg, do đó 2 viên nang là đủ cho người lớn. Đối với trẻ em, liều lượng có thể khó khăn hơn vì không có các dạng viên nang của quinin. Ở Đông Nam Á, sự kháng thuốc đối với quinin đã tăng lên, và điều trị nên kéo dài 7 ngày. Ở các vùng khác, phác đồ điều trị trong 3 ngày. Để giảm tác dụng phụ trên đường tiêu hóa, bệnh nhân nên dùng quinine cùng thức ăn. Quinine thường được kết hợp với doxycycline hoặc tetracycline hơn là với clindamycin vì có nhiều dữ liệu hơn về hiệu quả.fKhông khuyến cáo sử dụng nhóm tetracycline cho phụ nữ mang thai và trẻ dưới<8 tuổi. Tuy nhiên, doxycycline hoặc tetracycline có thể được sử dụng nếu các phương pháp điều trị khác không khả dụng hoặc không dung nạp và nếu lợi ích được cho là lớn hơn nguy cơ.gClindamycin được khuyến cáo sử dụng trong thai kỳ và ở trẻ em<8 tuổi.hKhông nên dùng Mefloquine trừ khi các lựa chọn khác không thể được sử dụng vì tỷ lệ phản ứng nặng hơn với mefloquine hơn so với các lựa chọn khác. Mefloquine có chống chỉ định ở những bệnh nhân trầm cảm, suy nhược gần đây, rối loạn lo âu, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh. Mefloquine không được khuyến cáo sử dụng cho các bệnh nhiễm trùng ở Đông Nam Á do có kháng với mefloquine ở một số khu vực (ví dụ biên giới Myanmar với Thái Lan, Trung Quốc và Lào, biên giới Thái Lan - Campuchia, miền Nam Việt Nam).iBất kỳ phác đồ thuốc nào được đề nghị choP. falciparumsốt rét ở những vùng kháng chloroquine cũng có thể được sử dụng cho bất kỳ sinh vật nào ở những vùng nhạy cảm với chloroquine; thuốc tác dụng nhanh nhất cho sốt rét falciparum là artemeter-lumefantine ngay cả khi nhiễm trùng là nhạy cảm với chloroquine. Đối với nhiễm trùng doP. ovalehoặcP. vivax, cũng cho primaquine hoặc tafenoquine (sau khi thử nghiệm để loại trừ sự thiếu hụt G6PD).jĐể giảm nguy cơ ảnh hưởng đến đường tiêu hóa, bệnh nhân nên dùng chloroquine cùng với thức ăn.kChloroquine hoặc hydroxychloroquine được khuyến cáo dùng cho các trường hợp nhiễm sốt rét không biến chứng còn nhạy cảm chloroquine; tuy nhiên, phác đồ điều trị nhiễm sốt rét kháng chloroquine vẫn dùng nếu chúng thuận tiện hơn hoặc được ưa thích hơn hoặc nếu không có sẵn chloroquine.lPrimaquine hàng ngày trong 14 ngày hoặc liều đơn của tafenoquine được sử dụng để diệt P. vivax và P. ovale có thể tồn tại thể ngủ trong gan và do đó ngăn ngừa nhiễm tái nhiễmP. vivaxvàP. ovale. Bởi vì primaquine và tafenoquine có thể gây ra thiếu máu tan máu ở bệnh nhân thiếu G6PD, sàng lọc G6PD phải làm trước khi bắt đầu điều trị. Đối với những bệnh nhân ở ranh giới thiếu hụt G6PD hoặc thay thế cho phác đồ trên, có thể dùng primaquine 45 mg uống mỗi tuần một lần trong 8 tuần; các bác sĩ nên hội chẩn chuyên gia truyền nhiễm và/hoặc y học nhiệt đới nếu phác đồ thay thế này đang được xem xét đối với bệnh nhân thiếu G6PD. Primaquine và tafenoquine không nên sử dụng cho phụ nữ có thai và cho con bú, trừ khi trẻ sơ sinh đã được xét nghiệm và có nồng độ G6PD bình thường.mNếu bệnh nhân nhiễmP. vivaxở vùng không được biết là có khả năng nhiễm chủngP. vivaxkháng chloroqiune nên bắt đầu điều trị bằng chloroquine. Nếu không có đáp ứng, nên thay đổi điều trị với phác đồ nhiễmP. vivaxkháng chloroquine, và bác sĩ lâm sàng nên gọi đường dây nóng sốt rétCDC Malaria HotlineCDC.nCDC khuyến cáo bệnh nhân sốt rét nặng nên được điều trị tích cực bằng thuốc tiêm tĩnh mạch (IV) artesunate ngay khi có thể. Quinidine đường tĩnh mạch không còn có sẵn ở Mỹ. Sốt rét được coi là nặng khi bệnh nhân có ≥ 1 trong các biểu hiện sau: suy giảm ý thức, hôn mê hoặc co giật, thiếu máu hồng cầu bình thường nặng (hemoglobin < 7 g/dL [70 g/L]), suy thận, phù phổi, hội chứng suy hô hấp cấp, sốc, đông máu rải rác trong lòng mạch, chảy máu tự phát, nhiễm toan, đái ra huyết sắc tố, vàng da hoặc ký sinh trùng trong máu > 5%. Sốt rét nặng thường doP. falciparumgây ra. Artesucky IV cũng được khuyến cáo cho những bệnh nhân không thể dùng thuốc theo đường uống.Tại Hoa Kỳ, artesunate đường tĩnh mạch đã nhận được phê duyệt của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ vào tháng 5 năm 2020. Nếu không thể nhanh chóng lấy được thuốc này từ một nguồn thương mại, nó sẽ có sẵn trong thời gian tạm thời từ CDC bằng cách gọi đếnĐường dây nóng về Sốt rét của CDC. Ước tính có thể mất 12-24 giờ để artesucky đến được các bệnh viện ở Mỹ.Khi chưa có thuốc giảm đau đường tĩnh mạch, bắt đầu điều trị tạm thời bằng artemether-lumefantrine, atovaquone-proguanil, quinine sulfate hoặc nếu không có gì khác, mefloquine. Ở những bệnh nhân bị nôn, thuốc chống nôn có thể hữu ích. Những người không thể nuốt được có thể dùng thuốc artemether/lumefantrine hoặc atovaquone/proguanil qua ống thông mũi dạ dày.oĐường dây nóng sốt rétCDC Malaria Hotlineở số 770-488-7788 hoặc 855-856-4713 miễn phí từ Thứ Hai đến Thứ Sáu 9 giờ sáng đến 5 giờ chiều (ngoài giờ, cuối tuần hoặc ngày lễ, gọi 770-488-7100).pNếu bệnh nhân không thể dùng clindamycin đường uống, liều nạp 10 mg/kg được tiêm tĩnh mạch, tiếp theo là 5 mg/kg mỗi 8 giờ, sau đó chuyển sang uống ngay khi bệnh nhân có thể. Cần tránh tiêm nhanh tĩnh mạch. Thời gian điều trị là 7 ngày.G6PD = glucose-6-phosphate dehydrogenase; CDC = Trung tâm kiểm soát và phòng ngừa dịch bệnhDựa trên CDC:Chẩn đoán và điều trị sốt rét ở Mỹ.aXem bảngThuốc dùng để ngăn ngừa bệnh sốt rétđể biết các phản ứng bất lợi và chống chỉ định. Nếu trong điều trị dự phòng, không nên sử dụng thuốc như phác đồ điều trị.bLiều trẻ em không được vượt quá liều người lớn.cArtemether/lumefantrine có sẵn ở dạng viên phối hợp liều cố định 20 mg/120 mg. Nói chung, sự kết hợp này không được khuyến cáo sử dụng ở phụ nữ mang thai, đặc biệt ở tam cá nguyệt thứ nhất, vì dữ liệu về an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Bệnh nhân nên uống thuốc cùng với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.dAtovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Sự kết hợp này là chống chỉ định ở những bệnh nhân có độ thanh thải creatinin<30 mL/phút. Nói chung, sự kết hợp này không được khuyến cáo cho phụ nữ mang thai, đặc biệt là trong tam cá nguyệt thứ nhất, bởi vì dữ liệu an toàn chưa đầy đủ; nó có thể được sử dụng nếu các lựa chọn khác không có hoặc không được dung nạp và các lợi ích vượt quá rủi ro. Liều dùng 2 lần/ngày làm giảm buồn nôn và nôn như khi dùng nó với thức ăn hoặc sữa. Nếu bệnh nhân nôn ói trong vòng 30 phút sau khi uống thuốc, nên lặp lại liều.eỞ Mỹ, viên nang quinine sulfate 324 mg, do đó 2 viên nang là đủ cho người lớn. Đối với trẻ em, liều lượng có thể khó khăn hơn vì không có các dạng viên nang của quinin. Ở Đông Nam Á, sự kháng thuốc đối với quinin đã tăng lên, và điều trị nên kéo dài 7 ngày. Ở các vùng khác, phác đồ điều trị trong 3 ngày. Để giảm tác dụng phụ trên đường tiêu hóa, bệnh nhân nên dùng quinine cùng thức ăn. Quinine thường được kết hợp với doxycycline hoặc tetracycline hơn là với clindamycin vì có nhiều dữ liệu hơn về hiệu quả.fKhông khuyến cáo sử dụng nhóm tetracycline cho phụ nữ mang thai và trẻ dưới<8 tuổi. Tuy nhiên, doxycycline hoặc tetracycline có thể được sử dụng nếu các phương pháp điều trị khác không khả dụng hoặc không dung nạp và nếu lợi ích được cho là lớn hơn nguy cơ.gClindamycin được khuyến cáo sử dụng trong thai kỳ và ở trẻ em<8 tuổi.hKhông nên dùng Mefloquine trừ khi các lựa chọn khác không thể được sử dụng vì tỷ lệ phản ứng nặng hơn với mefloquine hơn so với các lựa chọn khác. Mefloquine có chống chỉ định ở những bệnh nhân trầm cảm, suy nhược gần đây, rối loạn lo âu, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh. Mefloquine không được khuyến cáo sử dụng cho các bệnh nhiễm trùng ở Đông Nam Á do có kháng với mefloquine ở một số khu vực (ví dụ biên giới Myanmar với Thái Lan, Trung Quốc và Lào, biên giới Thái Lan - Campuchia, miền Nam Việt Nam).iBất kỳ phác đồ thuốc nào được đề nghị choP. falciparumsốt rét ở những vùng kháng chloroquine cũng có thể được sử dụng cho bất kỳ sinh vật nào ở những vùng nhạy cảm với chloroquine; thuốc tác dụng nhanh nhất cho sốt rét falciparum là artemeter-lumefantine ngay cả khi nhiễm trùng là nhạy cảm với chloroquine. Đối với nhiễm trùng doP. ovalehoặcP. vivax, cũng cho primaquine hoặc tafenoquine (sau khi thử nghiệm để loại trừ sự thiếu hụt G6PD).jĐể giảm nguy cơ ảnh hưởng đến đường tiêu hóa, bệnh nhân nên dùng chloroquine cùng với thức ăn.kChloroquine hoặc hydroxychloroquine được khuyến cáo dùng cho các trường hợp nhiễm sốt rét không biến chứng còn nhạy cảm chloroquine; tuy nhiên, phác đồ điều trị nhiễm sốt rét kháng chloroquine vẫn dùng nếu chúng thuận tiện hơn hoặc được ưa thích hơn hoặc nếu không có sẵn chloroquine.lPrimaquine hàng ngày trong 14 ngày hoặc liều đơn của tafenoquine được sử dụng để diệt P. vivax và P. ovale có thể tồn tại thể ngủ trong gan và do đó ngăn ngừa nhiễm tái nhiễmP. vivaxvàP. ovale. Bởi vì primaquine và tafenoquine có thể gây ra thiếu máu tan máu ở bệnh nhân thiếu G6PD, sàng lọc G6PD phải làm trước khi bắt đầu điều trị. Đối với những bệnh nhân ở ranh giới thiếu hụt G6PD hoặc thay thế cho phác đồ trên, có thể dùng primaquine 45 mg uống mỗi tuần một lần trong 8 tuần; các bác sĩ nên hội chẩn chuyên gia truyền nhiễm và/hoặc y học nhiệt đới nếu phác đồ thay thế này đang được xem xét đối với bệnh nhân thiếu G6PD. Primaquine và tafenoquine không nên sử dụng cho phụ nữ có thai và cho con bú, trừ khi trẻ sơ sinh đã được xét nghiệm và có nồng độ G6PD bình thường.mNếu bệnh nhân nhiễmP. vivaxở vùng không được biết là có khả năng nhiễm chủngP. vivaxkháng chloroqiune nên bắt đầu điều trị bằng chloroquine. Nếu không có đáp ứng, nên thay đổi điều trị với phác đồ nhiễmP. vivaxkháng chloroquine, và bác sĩ lâm sàng nên gọi đường dây nóng sốt rétCDC Malaria HotlineCDC.nCDC khuyến cáo bệnh nhân sốt rét nặng nên được điều trị tích cực bằng thuốc tiêm tĩnh mạch (IV) artesunate ngay khi có thể. Quinidine đường tĩnh mạch không còn có sẵn ở Mỹ. Sốt rét được coi là nặng khi bệnh nhân có ≥ 1 trong các biểu hiện sau: suy giảm ý thức, hôn mê hoặc co giật, thiếu máu hồng cầu bình thường nặng (hemoglobin < 7 g/dL [70 g/L]), suy thận, phù phổi, hội chứng suy hô hấp cấp, sốc, đông máu rải rác trong lòng mạch, chảy máu tự phát, nhiễm toan, đái ra huyết sắc tố, vàng da hoặc ký sinh trùng trong máu > 5%. Sốt rét nặng thường doP. falciparumgây ra. Artesucky IV cũng được khuyến cáo cho những bệnh nhân không thể dùng thuốc theo đường uống.Tại Hoa Kỳ, artesunate đường tĩnh mạch đã nhận được phê duyệt của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ vào tháng 5 năm 2020. Nếu không thể nhanh chóng lấy được thuốc này từ một nguồn thương mại, nó sẽ có sẵn trong thời gian tạm thời từ CDC bằng cách gọi đếnĐường dây nóng về Sốt rét của CDC. Ước tính có thể mất 12-24 giờ để artesucky đến được các bệnh viện ở Mỹ.Khi chưa có thuốc giảm đau đường tĩnh mạch, bắt đầu điều trị tạm thời bằng artemether-lumefantrine, atovaquone-proguanil, quinine sulfate hoặc nếu không có gì khác, mefloquine. Ở những bệnh nhân bị nôn, thuốc chống nôn có thể hữu ích. Những người không thể nuốt được có thể dùng thuốc artemether/lumefantrine hoặc atovaquone/proguanil qua ống thông mũi dạ dày.oĐường dây nóng sốt rétCDC Malaria Hotlineở số 770-488-7788 hoặc 855-856-4713 miễn phí từ Thứ Hai đến Thứ Sáu 9 giờ sáng đến 5 giờ chiều (ngoài giờ, cuối tuần hoặc ngày lễ, gọi 770-488-7100).pNếu bệnh nhân không thể dùng clindamycin đường uống, liều nạp 10 mg/kg được tiêm tĩnh mạch, tiếp theo là 5 mg/kg mỗi 8 giờ, sau đó chuyển sang uống ngay khi bệnh nhân có thể. Cần tránh tiêm nhanh tĩnh mạch. Thời gian điều trị là 7 ngày.G6PD = glucose-6-phosphate dehydrogenase; CDC = Trung tâm kiểm soát và phòng ngừa dịch bệnhDựa trên CDC:Chẩn đoán và điều trị sốt rét ở Mỹ.BảngPhản ứng bất lợi và Chống chỉ định của thuốc chống sốt rétBảngPhản ứng bất lợi và Chống chỉ định của thuốc chống sốt rétPhản ứng bất lợi và Chống chỉ định của thuốc chống sốt rétThuốc uốngMột số phản ứng phụChống chỉ địnhArtemether/lumefantrineNhức đầu, chán ăn, chóng mặt, suy nhược (thường nhẹ)Với lumefantrine, khoảng QT kéo dàiDị ứng với artemether/lumefantrineTrong thời kỳ mang thai, sử dụng nếu lợi ích tiềm ẩn cho thấy nguy cơ tiềm ẩn đối với thai nhi, thường xảy ra trong thai kỳ thứ 2 và thứ 3Sử dụng dự phòng mefloquineArtesunateNhư với artemetherTan máu muộn; nồng độ hemoglobin nên được theo dõi trong 4 tuần sau khi điều trịDị ứng với artesunateTrong thời kỳ mang thai, sử dụng nếu lợi ích tiềm ẩn biện minh cho nguy cơ tiềm ẩn, đó là trường hợp ở hầu hết các bệnh nhân bị sốt rét nặng cần điều trị bằng đường tiêmAtovaquone/proguanilRối loạn tiêu hóa, đau đầu, chóng mặt, phát ban, ngứaTrong thời kỳ mang thai, chỉ sử dụng khi không có lựa chọn thay thế và lợi ích tiềm ẩn sẽ xác định nguy cơ tiềm ẩn đối với bào thaiQuá mẫn, cho con bú*, suy thận nặng (độ thanh thải creatinin<30 mL/phút)ChloroquineHydroxychloroquineRối loạn tiêu hóa, đau đầu, chóng mặt, mờ mắt, phát ban hoặc ngứa, đợt cấp của bệnh vẩy nến, loạn tạo máu, rụng tóc, thay đổi điện tâm đồ bao gồm khoảng QTc kéo dài, bệnh võng mạc, rối loạn tâm thần (hiếm gặp)Quá mẫn, thay đổi thị trường hoặc thay đổi võng mạc hoặc có khả năng tương tác thuốc, dẫn đến khoảng QTc kéo dài và loạn nhịp timClindamycinHạ huyết áp, độc tính tủy xương, rối loạn chức năng thận, phát ban, vàng da, ù tai,Clostridium difficilenhiễm trùng (viêm đại tràng giả mạc)Quá mẫnDoxycyclineRối loạn tiêu hóa, nhạy cảm với ánh sáng, nhiễm candida âm đạo, nhiễmC. difficile(viêm đại tràng giả mạc), viêm thực quản ăn mònMang thai, trẻ em < 8 tuổiHalofantrineKhoảng PR và QT kéo dài, loạn nhịp tim, hạ huyết áp, rối loạn tiêu hóa, chóng mặt, thay đổi tâm thần, co giật, đột tửTrong thời kỳ mang thai, chỉ được sử dụng nếu lợi ích tiềm năng bù lại nguy cơ tiềm ẩn đối với bào thaiCác khiếm khuyết dẫn truyền tim,QT kéo dài gia đình, sử dụng thuốc ảnh hưởng đến khoảng QT, quá mẫn cảmMefloquineÁc mộng, các triệu chứng thần kinh tâm thần, chóng mặt, nhầm lẫn, rối loạn tâm thần, động kinh, nhịp chậm xoang, rối loạn tiêu hóaQuá mẫn cảm, tiền sử động kinh hoặc rối loạn tâm thần, rối loạn dẫn truyền tim hoặc rối loạn nhịp tim, dùng chung thuốc có thể kéo dài dẫn truyền tim (ví dụ thuốc chẹn beta, thuốc chẹn kênh canxi, quinine, quinidine, halofantrine), những nghề nghiệp cần phối hợp và phân biệt không gian tốt trong đó chóng mặt có thể đe dọa tính mạng, trong tam cá nguyệt thứ nhất của thai kỳQuinineRối loạn tiêu hoá, ù tai, rối loạn thị giác, dị ứng, thay đổi về tinh thần, loạn nhịp tim, suy timQuá mẫn, thiếu G6PD, viêm thần kinh thị giác, ù tai, mang thai (chống chỉ định tương đối), tiền sử phản ứng không mong muốn với quinin (theo dõi thường xuyên điện tâm đồ, huyết áp [khi dùng thuốc theo đường tiêm tĩnh mạch] và đường máu)QuinidinLoạn nhịp tim, phức hợp QRS giãn rộng, khoảng QTc kéo dài, hạ huyết áp, hạ đường huyếtQuá mẫn, giảm tiểu cầu (khuyến cáo theo dõi thường xuyên điện tâm đồ, huyết áp và đường máu)Không có liều tấn công ở bệnh nhân dùng > 40 mg/kg quinin trong 48 giờ trước hoặc liều mefloquine trong 12 giờ trướcPrimaquineTan máu nội mạch nặng ở người bị thiếu G6PD, rối loạn tiêu hóa, giảm bạch cầu, methemoglobin niệuSử dụng đồng thời quinacrine hoặc chất ức chế tủy xương hoặc giảm tủy xương, thiếu G6PD, mang thai (vì tình trạng G6PD của bào thai không được biết)Pyrimethamine/sulfadoxineCác triệu chứng của viêm da, viêm đa khớp mãn tính, hội chứng Stevens-Johnson, viêm thần kinh ngoại vi, nổi mề đay, viêm da, bệnh huyết thanh, viêm gan, động kinh, thay đổi tinh thần, rối loạn tiêu hóa, viêm dạ dày, viêm tụy, độc tính tủy xương, tan máu, sốt, bệnh thậnMẫn cảm, thiếu máu do thiếu folat, trẻ sơ sinh≤2 tháng, mang thai, cho con búTafenoquineTan máu nội mạch nặng ở bệnh nhân thiếu G6PD, phản ứng tâm thần, methemoglobin huyết, rối loạn tiêu hóa, phản ứng quá mẫnThiếu G6PD, mang thai (vì tình trạng thai nhi G6PD không rõ), cho con bú (trừ khi trẻ được biết là có G6PD bình thường), rối loạn tâm thần, quá mẫnĐối với bệnh nhân ≥ 16 tuổi* Proguanil được bài tiết qua sữa mẹ; liệu atovaquone có bài tiết qua sữa mẹ hay không. Sự an toàn và hiệu quả của những loại thuốc này chưa được xác định ở trẻ em cân nặng<5 kg.G6PD = glucose-6-phosphate dehydrogenase.* Proguanil được bài tiết qua sữa mẹ; liệu atovaquone có bài tiết qua sữa mẹ hay không. Sự an toàn và hiệu quả của những loại thuốc này chưa được xác định ở trẻ em cân nặng<5 kg.G6PD = glucose-6-phosphate dehydrogenase.Công cụ tính toán lâm sàngHiệu chỉnh khoảng QT (Điện tâm đồ)Tài liệu tham khảo về điều trị1.Aldámiz-Echevarría LT, López-Polín A, Norman FF, et alAldámiz-Echevarría LT, López-Polín A, Norman FF et al: Giảm tan máu thứ phát do điều trị sốt rét nặng bằngartesunatetĩnh mạch: Báo cáo về kinh nghiệm điều trị của trung tâm bệnh nhiệt đới ở Tây Ban Nha.Travel Med Infect Dis15:52-56, 2017 doi:10.1016/j.tmaid.2016.10.0132.Ferreira MU, Nobrega de Sousa T, Rangel GW, et al: MonitoringPlasmodium vivaxresistance to antimalarials: persisting challenges and future directions.Int J Parasitol Drug-Drug Resist15:9-24, 2021 doi:10.1016/j.ijpddr.2020.12.001
+
+--- 5. Dự phòng tái phát vớiP. vivaxhoặcP. ovale ---
+
+Mảnh trùng phải được loại bỏ khỏi gan bằng primaquine hoặc tafenoquine để tránh tái phátP. vivaxhoặcP. ovale.Primaquinehoặc tafenoquine có thể được cho dùng đồng thời với chloroquine hoặc sau đó. Một số chủngP. vivaxkém nhạy cảm hơn và tái phát có thể xảy ra, cần được điều trị lặp đi lặp lại.Primaquinekhông cần thiết choP. falciparumhoặcP. malariaevì những loài này không tồn tại dai dẳng trong gan. Nếu việc phơi nhiễm vớiP. vivaxhoặcP. ovaleở mức độ cao hoặc kéo dài hoặc nếu khách du lịch bị cắt lách, thì một đợt điều trị dự phòng kéo dài 14 ngày bằngprimaquinehoặc một liều tafenoquine duy nhất bắt đầu khi khách du lịch quay trở lại sẽ giảm nguy cơ tái phát. Tác dụng bất lợi chính là tan máu ở những người thiếu glucose-6-phosphate dehydrogenase (G6PD). Nên đánh giá G6PD trước khi dùngprimaquinehoặc tafenoquine.Primaquinebị chống chỉ định trong thời kỳ mang thai và cho con bú, trừ khi trẻ không bị thiếu men G6PD. Ở phụ nữ mang thai, có thể dùng hóa chất dự phòng bằngchloroquinehàng tuần trong thời gian còn lại của thai kỳ, và sau khi sinh, phụ nữ có thể dùng primaquine, miễn là họ không bị thiếu men G6PD.
+
+--- 6. Dự phòng sốt rét ---
+
+Khách du lịch đến các vùng dịch lưu hành nên được điều trị dự phòng bằng hóa chất (xem bảngThuốc được sử dụng để ngăn ngừa bệnh sốt rét). Thông tin về các quốc gia có sốt rét lưu hành trên Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) (xemCDC: Thông tin về bệnh sốt vàng và sốt rét, theo quốc giavàCDC: Sốt rét); thông tin bao gồm các loại sốt rét, các mô hình đề kháng, phân bố địa lý và dự phòng.BảngThuốc được sử dụng để ngăn ngừa bệnh sốt rétBảngThuốc được sử dụng để ngăn ngừa bệnh sốt rétThuốc được sử dụng để ngăn ngừa bệnh sốt rétThuốcaSử dụngLiều dùng cho người lớnLiều dùng cho trẻ emBình luậnAtovaquone/proguanilbỞ mọi khu vực1 viên dành cho người lớn một lần/ngày5-8 kg: một nửa viên nhi một lần/ngày> 8-10 kg: ba phần tư viên cho trẻ em một lần/ngày> 10-20 kg: 1 viên dùng cho trẻ em một lần/ngày> 20-30 kg: 2 viên dùng cho trẻ em một lần/ngày> 30-40 kg: 3 viên dùng cho trẻ em một lần/ngày>40 kg: 1 viên dành cho người lớn một lần/ngàyBắt đầu từ 1 đến 2 ngày trước khi đi du lịch và tiếp tục hàng ngày trong suốt thời gian lưu trú và 7 ngày sau khi rời điChloroquineChỉ ở những khu vựcPlasmodiumnhạy cảm với chloroquine500 mg một lần mỗi tuần8,3 mg/kg, tối đa 500mg một lần/ngàyBắt đầu 1-2 tuần trước khi đi du lịch và tiếp tục hàng tuần trong suốt thời gian lưu trú và 4 tuần sau khi rời khỏiDoxycyclinecỞ mọi khu vực100 mg một lần mỗi ngày≥ 8 tuổi: 2,2 mg/kg (có thể đến 100 mg) một lần/ngàyBắt đầu từ 1-2 ngày trước khi đi du lịch và tiếp tục trong suốt thời gian lưu trú và 4 tuần sau khi rời khỏiHydroxychloroquinedThay thế cho chloroquine chỉ ở những vùng cóPlasmodiumnhạy cảm với chloroquine400 mg một lần/ngày6,5 mg/kg, lên đến 400 mg mỗi tuầnBắt đầu từ 1-2 tuần trước khi đi du lịch và tiếp tục trong suốt thời gian lưu trú và 4 tuần sau khi rời khỏiMefloquineeỞ những vùng cóPlasmodiumnhạy cảm mefloquine250 mg mỗi tuần một lần≤ 9 kg: 5 mg mỗi tuần> 9-19 kg: một phần tư viên một lần/tuần> 19-30 kg: một nửa viên một lần/tuần> 30-45 kg: ba phần tư viên một lần/tuần>45 kg: 1 viên một lần/tuầnBắt đầu ≥ 2 tuần trước khi đi du lịch và tiếp tục trong suốt thời gian lưu trú và trong 4 tuần sau khi rời điChống chỉ định ở bệnh nhân có tiền sử trầm cảm, các vấn đề tâm lý khác, hoặc động kinh; không được khuyến cáo cho bệnh nhân có bất thường dẫn truyền timPrimaquinefĐể dự phòng ban đầu cho việc đi lại ngắn ngày ở các khu vực được biết là chủ yếu trú ngụP. vivax52,6 mg một lần mỗi ngày0,8 mg/kg đến liều người lớn một lần/ngàyBắt đầu từ 1 đến 2 ngày trước khi đi du lịch và tiếp tục hàng ngày trong suốt thời gian lưu trú và 7 ngày sau khởi hànhGhi lại rằng nồng độ G6PD là bình thường trước khi sử dụngChống chỉ định ở những người bị thiếu G6PD và ở phụ nữ mang thai và đang cho con bú trừ khi trẻ sơ sinh bú sữa mẹ có mức G6PD bình thườngĐể dự phòng tái phát nhiễm trùng ở những người bị phơi nhiễm hoặc nhiễmP. vivaxhoặcP. ovaleđáng kể trong quá trình đi du lịchLiều lượng như trênLiều lượng như trênLiều hàng ngày trong 14 ngày sau khi xuất phát từ vùng lưu hành. Ghi lại rằng nồng độ G6PD là bình thường trước khi sử dụngChống chỉ định như trênTafenoquineĐể dự phòng ban đầu cho người đi du lịch đến tất cả các khu vực200 mg một lần mỗi ngày trong 3 ngày trước khi đi du lịch như là một chế độ nạp, sau đó 200 mg mỗi tuần để duy trì trong khi ở vùng sốt rét bắt đầu 7 ngày sau liều cuối cùng, sau đó là liều cuối cùng 200 mg sau khi thoát khỏi 7 ngày sau lần duy trì cuối cùng liềuĐối với bệnh nhân ≥ 16 tuổiThiếu G6PD hoặc không rõ tình trạng G6PD; Tất cả bệnh nhân cần được kiểm tra sự thiếu hụt G6PD trước khi sử dụngPhụ nữ mang thai và đang cho con bú trừ khi trẻ sơ sinh bú sữa mẹ có mức G6PD bình thường, đã biết quá mẫnCác phản ứng phụ tâm lý đã được quan sátSử dụng thận trọng ở bệnh nhân tiền sử tâm thầnĐể điều trị dự phòng giai đoạn cuối ở những người bị phơi nhiễm hoặc nhiễmP. vivaxhoặcP. ovaleđáng kể trong khi đi du lịch300 mg liều duy nhấtKhông dùng cho bệnh nhân < 18 tuổiaThuốc dự phòng được dùng theo đường uống. Xem bảng:Phản ứng bất lợi và chống chỉ định của thuốc chống sốt rét cho phản ứng bất lợi và chống chỉ định.dAtovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Chống chỉ định atovaquone/proguanil ở những bệnh nhân có độ thanh thải creatinine < 30 mL/phút. Sự phối hợp này không được khuyến cáo cho trẻ em < 5 kg, phụ nữ mang thai hoặc đang cho con bú.cChống chỉ định dùng tetracyclines trong thai kỳ và ở trẻ em<8 tuổi.dCác bác sĩ nên xem lại thông tin trước khi sử dụng hydroxychloroquine.eMefloquine chưa được khuyến cáo sử dụng trong thời kỳ mang thai. Không có chống chỉ định dùng thuốc ở những bệnh nhân trầm cảm, tiền sử trầm cảm, rối loạn lo âu lan tỏa, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh; nếu bệnh nhân bị rối loạn tâm thần hoặc có tiền sử trầm cảm trước đây, nên thận trọng khi dùng thuốc. Không nên dùng thuốc cho bệnh nhân có bất thường dẫn truyền tim.fPrimaquine được sử dụng làm thuốc dự phòng giai đoạn cuối (chữa bệnh triệt để) nhằm giảm nguy cơ tái phát ở những người đã dùng chloroquine, hydroxychloroquine hoặc thuốc có hoạt tính chống sốt rét khángchloroquineđể điều trị hoặc dự phòng phơi nhiễm kéo dài vớiP. vivaxvà/hoặcP. ovale. Ngoài ra, một liều duy nhất của tafenoquine có thể được sử dụng cho những bệnh nhân đã được sử dụng chloroquine để điều trị hoặc dự phòngP. vivax. Primaquine hoặc tafenoquine đơn thuần cũng có thể được sử dụng để dự phòng ban đầu ở những người có nguy cơ sốt rét, đặc biệt là doP. vivax. Primaquine và tafenoquine chống chỉ định với những người bị thiếu G6PD và ở phụ nữ mang thai hoặc đang cho con bú (trừ khi trẻ bú sữa mẹ có mức G6PD bình thường).G6PD = glucose-6-phosphate dehydrogenase.Trích từSách Vàngcủa Trung tâm kiểm soát và phòng ngừa bệnh tật:Infectious diseases related to travel: Malaria.aThuốc dự phòng được dùng theo đường uống. Xem bảng:Phản ứng bất lợi và chống chỉ định của thuốc chống sốt rét cho phản ứng bất lợi và chống chỉ định.dAtovaquone/proguanil có sẵn dưới dạng thuốc kết hợp liều cố định: viên người lớn (250 mg atovaquone/100 mg proguanil) và viên nén nhi khoa (62,5 mg atovaquone/25 mg proguanil). Để tăng cường sự hấp thụ, bệnh nhân nên dùng thuốc với thức ăn hoặc thức uống có sữa. Chống chỉ định atovaquone/proguanil ở những bệnh nhân có độ thanh thải creatinine < 30 mL/phút. Sự phối hợp này không được khuyến cáo cho trẻ em < 5 kg, phụ nữ mang thai hoặc đang cho con bú.cChống chỉ định dùng tetracyclines trong thai kỳ và ở trẻ em<8 tuổi.dCác bác sĩ nên xem lại thông tin trước khi sử dụng hydroxychloroquine.eMefloquine chưa được khuyến cáo sử dụng trong thời kỳ mang thai. Không có chống chỉ định dùng thuốc ở những bệnh nhân trầm cảm, tiền sử trầm cảm, rối loạn lo âu lan tỏa, tâm thần, tâm thần phân liệt, các rối loạn tâm thần khác, hoặc động kinh; nếu bệnh nhân bị rối loạn tâm thần hoặc có tiền sử trầm cảm trước đây, nên thận trọng khi dùng thuốc. Không nên dùng thuốc cho bệnh nhân có bất thường dẫn truyền tim.fPrimaquine được sử dụng làm thuốc dự phòng giai đoạn cuối (chữa bệnh triệt để) nhằm giảm nguy cơ tái phát ở những người đã dùng chloroquine, hydroxychloroquine hoặc thuốc có hoạt tính chống sốt rét khángchloroquineđể điều trị hoặc dự phòng phơi nhiễm kéo dài vớiP. vivaxvà/hoặcP. ovale. Ngoài ra, một liều duy nhất của tafenoquine có thể được sử dụng cho những bệnh nhân đã được sử dụng chloroquine để điều trị hoặc dự phòngP. vivax. Primaquine hoặc tafenoquine đơn thuần cũng có thể được sử dụng để dự phòng ban đầu ở những người có nguy cơ sốt rét, đặc biệt là doP. vivax. Primaquine và tafenoquine chống chỉ định với những người bị thiếu G6PD và ở phụ nữ mang thai hoặc đang cho con bú (trừ khi trẻ bú sữa mẹ có mức G6PD bình thường).G6PD = glucose-6-phosphate dehydrogenase.Trích từSách Vàngcủa Trung tâm kiểm soát và phòng ngừa bệnh tật:Infectious diseases related to travel: Malaria.Sốt rét trong khi mang thai gây ra mối đe dọa nghiêm trọng đối với cả mẹ và thai nhi. Chloroquine có thể được sử dụng trong thời kỳ mang thai ở những vùng nhạy cảm với các loàiPlasmodium, nhưng không có chế độ dự phòng an toàn và hiệu quả nào khác, vì vậy phụ nữ mang thai nên tránh đi đến những vùng kháng thuốcchloroquinebất cứ khi nào có thể. Điều trị sốt rét trong thời kỳ mang thai phụ thuộc vào việc lây nhiễm các loàiPlasmodiumvà các dạng đề kháng đã biết trong khu vực nhiễm bệnh (xemCDC: Treatment of Malaria: Guidelines For Clinicians (United States): Alternatives for Pregnant Women).Sự an toàn của mefloquine trong thời kỳ mang thai không được ghi nhận, nhưng những kinh nghiệm ít ỏi cho thấy nó có thể được sử dụng khi những lợi ích được đánh giá cao hơn những rủi ro. Doxycycline, atovaquone/proguanil, primaquine và tafenoquine không nên dùng trong thời kỳ mang thai.Artemisinins có thời gian bán hủy ngắn và không hiệu quả cho dự phòng.Các biện pháp dự phòng muỗibao gồmDùng dung dịch thuốc diệt côn trùng permethrin hoặc pyrethrum (có thời gian hoạt động kéo dài)Đặt rèm che ở cửa ra vào và cửa sổSử dụng lưới chắn muỗi (tốt hơn là ngâm tẩm permethrin hoặc pyrethrum) xung quanh giườngXử lý quần áo và đồ dùng (ví dụ: giày, quần, vớ, lều) với các sản phẩm có chứa 0,5% permethrin, được bảo vệ thông qua một số lần giặt (quần áo đã được xử lý sẵn và có thể bảo vệ lâu hơn)Sử dụng chất chống muỗi như DEET (diethyltoluamide) 25 đến 35% đối với da tiếp xúcMặc áo sơ mi và quần dài tay bảo vệ, đặc biệt ở thời điểm giữa lúc trời sáng và trời tối, khi muỗiAnophenđang hoạt độngTrước khi sử dụng chất chống muỗi có chứa chất DEET người dùng cần được hướng dẫnChỉ sử dụng thuốc chống muỗi bôi trên da theo hướng dẫn trên nhãn và sử dụng chúng một cách nhẹ nhàng quanh tai (không nên áp vào hoặc phun vào mắt hoặc miệng).Rửa tay sau khi sử dụng.Tránh xa tầm tay trẻ em (người lớn nên lấy vào tay trước, sau đó xoa nhẹ nhàng lên da trẻ).Chỉ dùng đủ để che phủ vùng tiếp xúc.Rửa sạch sau khi quay trở lại trong nhà.Giặt quần áo trước khi mặc lại trừ khi nhãn sản phẩm ghi chú.Hầu hết các chất chống muỗi có thể được sử dụng cho trẻ sơ sinh và trẻ nhỏ < 2 tháng tuổi. Cơ quan bảo vệ môi trường không khuyến cáo các biện pháp phòng ngừa bổ sung cho việc sử dụng hóa chất chống muỗi đối với trẻ em hoặc phụ nữ có thai hoặc cho con bú.Vào ngày 6 tháng 10 năm 2021, Tổ chức Y tế Thế giới (WHO) đã khuyến cáo sử dụng rộng rãi vắc xin sốt rét RTS, S/AS01 (RTS, S) cho trẻ em ở châu Phi cận Sahara và các khu vực khác có sự lây truyền bệnh sốt rét doP. falciparumtừ trung bình đến cao. . (XemWHO khuyến nghị vắc xin sốt rét đột phá dành cho trẻ em có nguy cơ mắc bệnh.)
+
+--- 7. Những điểm chính ---
+
+Vào năm 2020, ước tính có khoảng 241 triệu người mắc bệnh sốt rét trên toàn thế giới và khoảng 627.000 trường hợp tử vong, chủ yếu ở trẻ em<5 tuổi ở Châu Phi; kể từ năm 2000, số ca tử vong do sốt rét đã giảm khoảng 60%.P. falciparumgây tắc nghẽn mạch máu nhỏ và thiếu máu mô, đặc biệt ở não, thận, phổi và đường tiêu hóa của trẻ non tháng và người lớn; bệnh nhân có thể chết trong vòng vài ngày sau khi có các triệu chứng ban đầu.P. vivax,P. ovale, vàP. malariaethường không gây tổn thương cơ quan quan trọng; tử vong rất hiếm. Toàn bộ phổ bệnh sốt rét xảy ra vớiP. knowlesi.Chu kỳ nhân lên vô tính ngắn của nó có thể dẫn đến tỷ lệ ký sinh trùng trong máu cao và bệnh nặng, có khả năng gây tử vong nếu không được điều trị.Các biểu hiện bao gồm sốt cơn rét run, nhức đầu, đau cơ và buồn nôn; thiếu máu tán huyết và lách to là phổ biến.Chẩn đoán bằng xét nghiệm soi lam máu (giọt mỏng và giọt dày) và xét nghiệm máu chẩn đoán nhanh.Điều trị bằng thuốc chống sốt rét dựa trên các loài (nếu biết) và mô hình đề kháng thuốc ở khu vực bị nhiễm trùng.Liệu pháp dựa trên artemisinin (ví dụ, artemether/lumefantrine, artesunate và hợp chất artemisinin khác) là liệu pháp điều trị hiệu quả nhất; atovaquone cộng với proguanil là một phương pháp thay thế cho bệnh nhân sốt rét không biến chứng.Dùng primaquine hoặc tafenoquine để xác định hoặc nghi nhiễm chủngP. vivaxvàP. ovaleđể ngăn ngừa tái phát trừ khi bệnh nhân đang mang thai, cho con bú, thiếu G6PD hoặc tình trạng G6PD của họ không được biết rõ.Sốt rét nặng cần điều trị khẩn cấp. Do nguy cơ tiến triển thành bệnh nặng ở bệnh nhân nhiễmP. falciparum, bệnh nhân nên nhập viện để theo dõi đáp ứng lâm sàng.Uống thuốc dự phòng cho những người đi du lịch đến các vùng lưu hành và hướng dẫn cách phòng ngừa muỗi đốt.
+
+--- 8. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Centers for Disease Control and Prevention (CDC): Resources for Health Professionals: Malaria
