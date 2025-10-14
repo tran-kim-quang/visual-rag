@@ -1,0 +1,259 @@
+TIÊU ĐỀ: Đáp ứng của cơ thể với khối u
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/miễn-dịch-học-khối-u/đáp-ứng-của-cơ-thể-với-khối-u
+================================================================================
+
+NỘI DUNG:
+
+Đáp ứng của cơ thể với khối u
+
+Theo
+
+Robert Peter Gale
+
+,
+
+MD, PhD, DSC(hc)
+
+,
+
+Imperial College London
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 7 2024
+
+v978121_vi
+
+Miễn dịch tế bào
+
+|
+
+Miễn dịch dịch thể
+
+|
+
+Thất bại trong cơ chế bảo vệ của cơ thể
+
+|
+
+Đáp ứng miễn dịch với các kháng nguyên lạ, bao gồm các kháng nguyên liên quan đến ung thư hoặc đặc hiệu ung thư, bao gồm
+
+Cơ chế dịch thể (ví dụ, kháng thể)
+
+Cơ chế tế bào
+
+(Xem thêm
+
+Kháng nguyên ung thư
+
+.)
+
+Đáp ứng miễn dịch đối với ung thư cũng có thể được chia thành miễn dịch bẩm sinh và miễn dịch thích ứng, cả hai đều có thành phần dịch thể và tế bào. Miễn dịch bẩm sinh là đáp ứng ban đầu, chung và không đặc hiệu đối với các tác nhân gây bệnh hoặc tế bào ung thư qua trung gian kháng thể và các thành phần tế bào bao gồm tế bào tua, đại thực bào, tế bào tiêu diệt tự nhiên (NK) và tế bào T tiêu diệt tự nhiên (NKT). Sau đó, các cơ chế miễn dịch thích ứng, chủ yếu được trung gian bởi tế bào lympho T gây độc, tạo điều kiện nhận dạng các kháng nguyên khối u riêng biệt là chất lạ và tiêu diệt các tế bào khối u.
+
+Hầu hết đáp ứng miễn dịch dịch thể không thể ngăn ngừa sự phát triển của khối u. Tuy nhiên, các tế bào hiệu ứng, như tế bào lympho T, đại thực bào và tế bào diệt tự nhiên có khả năng tiêu diệt tế bào khối u một cách tương đối hiệu quả. Hoạt động của tế bào chức năng do các tế bào khác có mặt kháng nguyên đặc hiệu khối u (TSA) hoặc kháng nguyên liên kết khối u (TAAs) trên bề mặt của chúng (các tế bào này được gọi là tế bào trình diện kháng nguyên) và được hỗ trợ bởi các
+
+cytokine
+
+(ví dụ: interleukin, interferon) . Tuy nhiên, dù có sự hoạt động của các tế bào hiệu ứng, các phản ứng miễn dịch của cơ thể vẫn có thể thất bại trong việc kiểm soát sự xuất hiện và phát triển của khối u.
+
+Miễn dịch tế bào
+
+Tế bào lympho T
+
+là tế bào chịu trách nhiệm chính cho sự phát hiện và tiêu diệt tế bào khối u. Tế bào lympho T thực hiện thực hiện giám sát miễn dịch, sau đó tăng sinh và tiêu diệt các tế bào khối u vừa được biến đổi sau khi nhận ra TAA. Đáp ứng của tế bào lympho T với khối u được điều hòa bởi các tế bào khác của hệ miễn dịch; một số tế bào yêu cầu sự hiện diện của các kháng thể dịch thể trực tiếp chống lại các tế bào khối u (gây độc tế bào phụ thuộc kháng thể) để bắt đầu các tương tác dẫn đến sự chết của tế bào khối u. Ngược lại, các tế bào lympho T ức chế lại ức chế đáp ứng miễn dịch chống lại khối u.
+
+Tế bào lymphô T gấy độc
+
+(CTL) nhận diện các kháng nguyên trên các tế bào đích và ly giải các tế bào này. Các kháng nguyên này có thể là các protein bề mặt tế bào hoặc có thể là các protein nội bào (như TAA) được bộc lộ trên bề mặt tế bào khi kết hợp với các phân tử phức hợp hòa hợp mô chủ yếu (MHC) lớp I. Các tế bào T gây độc đặc hiệu khối u đã được tìm thấy trong
+
+Ung thư vú
+
+Ung thư cổ tử cung
+
+Ung thư ruột
+
+Ung thư nội mạc tử cung
+
+Ung thư thận
+
+Ung thư phổi
+
+Ung thư tế bào hắc tố
+
+Ung thư vòm mũi họng
+
+U nguyên bào thần kinh
+
+Sarcoma
+
+Ung thư buồng trứng
+
+Ung thư tinh hoàn
+
+Tế bào diệt tự nhiên (NK)
+
+là một quần thể tế bào T hiệu ứng khác có hoạt tính chống ung thư. Ngược lại với CTL, tế bào NK không có thụ thể kháng nguyên nhưng có thể nhận diện các tế bào bình thường bị nhiễm vi rút và tế bào ung thư. Hoạt động diệt tế bào u của chúng được đặt tên tự nhiên vì các đáp ứng này không phụ thuộc vào một kháng nguyên cụ thể nào. Cơ chế giúp tế bào NK phân biệt tế bào bình thường và các tế bào bất thường vẫn đang được nghiên cứu. Bằng chứng cho thấy các phân tử MHC lớp I trên bề mặt tế bào bình thường ức chế tế bào NK và ngăn ngừa sự phân hủy (
+
+1
+
+). Do đó sự giảm biểu lộ MHC lớp I đặc trưng ở các tế bào u có thể gây ra sự hoạt hóa tế bào NK và cuối cùng là gây ra sự ly giải tế bào.
+
+Tế bào T diệt tự nhiên (NKT)
+
+là tế bào T giới hạn CD1d chuyên biệt nhận biết kháng nguyên lipid. CD1d là một thành viên của nhóm CD1 (cụm biệt hóa 1) của glycoprotein trên bề mặt tế bào trình diện kháng nguyên của người. Sau khi được kích thích, các tế bào NKT kích hoạt cả tế bào miễn dịch bẩm sinh và thích ứng trong vi môi trường khối u. Tế bào NKT là tế bào T bẩm sinh giống như tế bào, phản ứng nhanh với kích thích kháng nguyên và nhanh chóng sản xuất một lượng lớn cytokine và chemokine.
+
+Đại thực bào
+
+có thể tiêu diệt đặc hiệu các tế bào u khi được hoạt hóa bằng cách kết hợp với các yếu tố hoạt hóa bao gồm lymphokine (các yếu tố hòa tan được sản xuất bởi các tế bào lympho T) và interferon. Khả năng diệt tế bào u của đại thực bào kém hơn so với cơ chế gây độc tế bào qua trung gian tế bào lympho T. Trong một số trường hợp nhất định, các đại thực bào có thể trình diện TAA cho tế bào lympho T và kích thích đáp ứng miễn dịch đặc hiệu chống khối u. Có 2 trạng thái phân cực của đại thực bào liên quan đến khối u (TAM):
+
+Tế bào TAM-1 (M1) tạo điều kiện thuận lợi trong việc tiêu diệt khối u bằng tế bào T
+
+Các tế bào TAM-2 (M2) tăng cường khả năng dung nạp miễn dịch với khối u.
+
+M1 và M2 vẫn được xem là các dạng tế bào được tồn tại liên tiếp cho đến khi chúng biệt hóa hoàn toàn (phân cực) thành tế bào M1 và M2. Sự phân cực có thể thay đổi theo thời gian và phụ thuộc vào vị trí của các tế bào này bên trong khối u (vùng thiếu oxy nhiều hay ít), giai đoạn và loại ung thư cũng như phương pháp điều trị trước đó
+
+Tế bào tua
+
+là tế bào trình diện kháng nguyên có ở các hàng rào miễn dịch (như da, hạch lympho). Chúng đóng vai trò trung tâm trong sự khởi đầu đáp ứng miễn dịch đặc hiệu chống khối u. Các tế bào này bắt các protein liên quan tới khối u, xử lý chúng và trình diện TAA cho tế bào lympho T để kích thích đáp ứng miễn dịch CTL chống lại khối u. Một số lớp tế bào tua có thể là trung gian thúc đẩy hoặc ức chế khối u.
+
+Các lymphokine
+
+được sản xuất bởi sự kích thích phát triển các tế bào miễn dịch hoặc tăng hoạt động của các tế bào miễn dịch khác. Các lymphokine này bao gồm interleukin-2 (IL-2), còn được gọi là yếu tố phát triển tế bào lympho T và các interferon. IL-12 được sản xuất bởi các tế bào tua và hoạt hóa đặc hiệu tế bào lympho T gây độc, do đó tăng cường đáp ứng miễn dịch chống khối u.
+
+Các tế bào lympho T điều hòa
+
+bình thường ở trong cơ thể giúp ngăn ngừa các phản ứng tự miễn dịch. Chúng được sản xuất trong giai đoạn hoạt hóa của đáp ứng miễn dịch chống lại tác nhân gây bệnh và hạn chế đáp ứng miễn dịch quá mức có thể gây hại cho cơ thể. Sự tích lũy các tế bào này trong ung thư sẽ ức chế đáp ứng miễn dịch chống lại khối u.
+
+Các tế bào ức chế có nguồn gốc từ tủy xương
+
+bao gồm các tế bào tủy xương chưa trưởng thành và tiền thân của chúng. Các tế bào này tăng số lượng trong ung thư cũng như trong viêm nhiễm và nhiễm trùng. Các tế bào này có khả năng ức chế miễn dịch mạnh. Có 2 quần thể tế bào này được công nhận bao gồm:
+
+Tế bào dòng hạt
+
+Tế bào dòng mono
+
+Các tế bào ức chế có nguồn gốc từ tủy xương có thể tích lũy được số lượng lớn trong các bệnh ung thư và tiên lượng có kết quả xấu với nhiều loại ung thư.
+
+Tài liệu tham khảo về miễn dịch tế bào
+
+1.
+
+Paul S, Lal G
+
+: The Molecular Mechanism of Natural Killer Cells Function and Its Importance in Cancer Immunotherapy.
+
+Front Immunol
+
+8:1124, 2017. doi:10.3389/fimmu.2017.01124
+
+Miễn dịch dịch thể
+
+Ngược lại với khả năng miễn dịch tế bào T, kháng thể dịch thể dường như không mang lại khả năng bảo vệ đáng kể chống lại ung thư. Hầu hết các kháng thể không thể nhận ra TAA. Tuy vậy, thực nghiệm đã ghi nhận các kháng thể trong huyết thanh có phản ứng với tế bào ung thư ở nhiều loại ung thư như:
+
+Ung thư vú
+
+Ung thư đường tiêu hóa
+
+U lympho
+
+Ung thư phổi
+
+Ung thư tế bào hắc tố
+
+U nguyên bào thần kinh
+
+Sarcom xương
+
+Đa u tủy tương bào
+
+Các kháng thể gây độc tế bào bằng cách kháng trực tiếp các kháng nguyên bề mặt của các tế bào ung thư. Những kháng thể này có thể gây ra các phản ứng chống khối u thông qua sự cố định bổ thể hoặc đóng vai trò định hướng cho sự hoạt động tiêu diệt khối u qua tế bào lympho T gây độc (gây độc tế bào phụ thuộc trung gian kháng thể). Một nhóm kháng thể dịch thể khác, được gọi là kháng thể tăng cường (chặn các kháng thể) có thể kích thích thay vì ức chế sự phát triển của khối u. Các cơ chế và tầm quan trọng tương đối của sự tăng cường miễn dịch đến nay vẫn chưa được hiểu rõ hoàn toàn. Các kháng thể cung cấp độc tố liên hợp cho các tế bào khối u để nhắm đích chọn lọc vào các tế bào khối u đang được thử nghiệm (
+
+1, 2
+
+).
+
+Tài liệu tham khảo về miễn dịch dịch thể
+
+1.
+
+Dumontet C, Reichert JM, Senter PD, Lambert JM, Beck A
+
+: Antibody-drug conjugates come of age in oncology.
+
+Nat Rev Drug Discov
+
+22(8):641–661, 2023. doi:10.1038/s41573-023-00709-2
+
+2.
+
+Tsuchikama K, Anami Y, Ha SYY, Yamazaki CM
+
+: Exploring the next generation of antibody-drug conjugates.
+
+Nat Rev Clin Oncol
+
+21(3):203–223, 2024. doi:10.1038/s41571-023-00850-2
+
+Thất bại trong cơ chế bảo vệ của cơ thể
+
+Mặc dù một số khối u bị hệ thống miễn dịch tiêu diệt (và do đó không bao giờ được phát hiện), nhưng một số khối u khác vẫn tiếp tục phát triển mặc dù có sự giám sát miễn dịch. Một số cơ chế được đề xuất để giải thích đáp ứng thiếu hụt này của vật chủ đối với bệnh ung thư, bao gồm các cơ chế sau:
+
+Dung nạp miễn dịch đặc hiệu với TAA liên quan tới tế bào trình diện kháng nguyên và tế bào lympho T ức chế, có thể thứ phát do tiếp xúc với kháng nguyên trong thời kỳ bào thai.
+
+Ức chế đáp ứng miễn dịch do các tác nhân lý hóa hay vi rút (như sự phá hủy tế bào lympho T hỗ trợ do vi rút HIV).
+
+Ức đáp ứng miễn dịch do thuốc gây độc tế bào hoặc tia xạ.
+
+Ức chế đáp ứng miễn dịch của chính khối u thông qua các cơ chế phức tạp khác nhau gây ra nhiều vấn đề khác nhau, bao gồm giảm chức năng tế bào T, tế bào B và tế bào trình diện kháng nguyên, giảm sản sinh IL-2, tạo ra các tế bào T cạn kiệt và tăng tuần hoàn các thụ thể IL-2 hòa tan (gắn kết và làm bất hoạt IL-2)
+
+Sự hiện diện và hoạt động của các tế bào phân cực TAM-2 (M2), các tế bào ức chế có nguồn gốc từ dạng tủy và các tế bào T điều hòa, thúc đẩy khả năng dung nạp
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Miễn dịch tế bào ---
+
+Tế bào lympho Tlà tế bào chịu trách nhiệm chính cho sự phát hiện và tiêu diệt tế bào khối u. Tế bào lympho T thực hiện thực hiện giám sát miễn dịch, sau đó tăng sinh và tiêu diệt các tế bào khối u vừa được biến đổi sau khi nhận ra TAA. Đáp ứng của tế bào lympho T với khối u được điều hòa bởi các tế bào khác của hệ miễn dịch; một số tế bào yêu cầu sự hiện diện của các kháng thể dịch thể trực tiếp chống lại các tế bào khối u (gây độc tế bào phụ thuộc kháng thể) để bắt đầu các tương tác dẫn đến sự chết của tế bào khối u. Ngược lại, các tế bào lympho T ức chế lại ức chế đáp ứng miễn dịch chống lại khối u.Tế bào lymphô T gấy độc(CTL) nhận diện các kháng nguyên trên các tế bào đích và ly giải các tế bào này. Các kháng nguyên này có thể là các protein bề mặt tế bào hoặc có thể là các protein nội bào (như TAA) được bộc lộ trên bề mặt tế bào khi kết hợp với các phân tử phức hợp hòa hợp mô chủ yếu (MHC) lớp I. Các tế bào T gây độc đặc hiệu khối u đã được tìm thấy trongUng thư vúUng thư cổ tử cungUng thư ruộtUng thư nội mạc tử cungUng thư thậnUng thư phổiUng thư tế bào hắc tốUng thư vòm mũi họngU nguyên bào thần kinhSarcomaUng thư buồng trứngUng thư tinh hoànTế bào diệt tự nhiên (NK)là một quần thể tế bào T hiệu ứng khác có hoạt tính chống ung thư. Ngược lại với CTL, tế bào NK không có thụ thể kháng nguyên nhưng có thể nhận diện các tế bào bình thường bị nhiễm vi rút và tế bào ung thư. Hoạt động diệt tế bào u của chúng được đặt tên tự nhiên vì các đáp ứng này không phụ thuộc vào một kháng nguyên cụ thể nào. Cơ chế giúp tế bào NK phân biệt tế bào bình thường và các tế bào bất thường vẫn đang được nghiên cứu. Bằng chứng cho thấy các phân tử MHC lớp I trên bề mặt tế bào bình thường ức chế tế bào NK và ngăn ngừa sự phân hủy (1). Do đó sự giảm biểu lộ MHC lớp I đặc trưng ở các tế bào u có thể gây ra sự hoạt hóa tế bào NK và cuối cùng là gây ra sự ly giải tế bào.Tế bào T diệt tự nhiên (NKT)là tế bào T giới hạn CD1d chuyên biệt nhận biết kháng nguyên lipid. CD1d là một thành viên của nhóm CD1 (cụm biệt hóa 1) của glycoprotein trên bề mặt tế bào trình diện kháng nguyên của người. Sau khi được kích thích, các tế bào NKT kích hoạt cả tế bào miễn dịch bẩm sinh và thích ứng trong vi môi trường khối u. Tế bào NKT là tế bào T bẩm sinh giống như tế bào, phản ứng nhanh với kích thích kháng nguyên và nhanh chóng sản xuất một lượng lớn cytokine và chemokine.Đại thực bàocó thể tiêu diệt đặc hiệu các tế bào u khi được hoạt hóa bằng cách kết hợp với các yếu tố hoạt hóa bao gồm lymphokine (các yếu tố hòa tan được sản xuất bởi các tế bào lympho T) và interferon. Khả năng diệt tế bào u của đại thực bào kém hơn so với cơ chế gây độc tế bào qua trung gian tế bào lympho T. Trong một số trường hợp nhất định, các đại thực bào có thể trình diện TAA cho tế bào lympho T và kích thích đáp ứng miễn dịch đặc hiệu chống khối u. Có 2 trạng thái phân cực của đại thực bào liên quan đến khối u (TAM):Tế bào TAM-1 (M1) tạo điều kiện thuận lợi trong việc tiêu diệt khối u bằng tế bào TCác tế bào TAM-2 (M2) tăng cường khả năng dung nạp miễn dịch với khối u.M1 và M2 vẫn được xem là các dạng tế bào được tồn tại liên tiếp cho đến khi chúng biệt hóa hoàn toàn (phân cực) thành tế bào M1 và M2. Sự phân cực có thể thay đổi theo thời gian và phụ thuộc vào vị trí của các tế bào này bên trong khối u (vùng thiếu oxy nhiều hay ít), giai đoạn và loại ung thư cũng như phương pháp điều trị trước đóTế bào tualà tế bào trình diện kháng nguyên có ở các hàng rào miễn dịch (như da, hạch lympho). Chúng đóng vai trò trung tâm trong sự khởi đầu đáp ứng miễn dịch đặc hiệu chống khối u. Các tế bào này bắt các protein liên quan tới khối u, xử lý chúng và trình diện TAA cho tế bào lympho T để kích thích đáp ứng miễn dịch CTL chống lại khối u. Một số lớp tế bào tua có thể là trung gian thúc đẩy hoặc ức chế khối u.Các lymphokineđược sản xuất bởi sự kích thích phát triển các tế bào miễn dịch hoặc tăng hoạt động của các tế bào miễn dịch khác. Các lymphokine này bao gồm interleukin-2 (IL-2), còn được gọi là yếu tố phát triển tế bào lympho T và các interferon. IL-12 được sản xuất bởi các tế bào tua và hoạt hóa đặc hiệu tế bào lympho T gây độc, do đó tăng cường đáp ứng miễn dịch chống khối u.Các tế bào lympho T điều hòabình thường ở trong cơ thể giúp ngăn ngừa các phản ứng tự miễn dịch. Chúng được sản xuất trong giai đoạn hoạt hóa của đáp ứng miễn dịch chống lại tác nhân gây bệnh và hạn chế đáp ứng miễn dịch quá mức có thể gây hại cho cơ thể. Sự tích lũy các tế bào này trong ung thư sẽ ức chế đáp ứng miễn dịch chống lại khối u.Các tế bào ức chế có nguồn gốc từ tủy xươngbao gồm các tế bào tủy xương chưa trưởng thành và tiền thân của chúng. Các tế bào này tăng số lượng trong ung thư cũng như trong viêm nhiễm và nhiễm trùng. Các tế bào này có khả năng ức chế miễn dịch mạnh. Có 2 quần thể tế bào này được công nhận bao gồm:Tế bào dòng hạtTế bào dòng monoCác tế bào ức chế có nguồn gốc từ tủy xương có thể tích lũy được số lượng lớn trong các bệnh ung thư và tiên lượng có kết quả xấu với nhiều loại ung thư.Tài liệu tham khảo về miễn dịch tế bào1.Paul S, Lal G: The Molecular Mechanism of Natural Killer Cells Function and Its Importance in Cancer Immunotherapy.Front Immunol8:1124, 2017. doi:10.3389/fimmu.2017.01124
+
+--- 2. Miễn dịch dịch thể ---
+
+Ngược lại với khả năng miễn dịch tế bào T, kháng thể dịch thể dường như không mang lại khả năng bảo vệ đáng kể chống lại ung thư. Hầu hết các kháng thể không thể nhận ra TAA. Tuy vậy, thực nghiệm đã ghi nhận các kháng thể trong huyết thanh có phản ứng với tế bào ung thư ở nhiều loại ung thư như:Ung thư vúUng thư đường tiêu hóaU lymphoUng thư phổiUng thư tế bào hắc tốU nguyên bào thần kinhSarcom xươngĐa u tủy tương bàoCác kháng thể gây độc tế bào bằng cách kháng trực tiếp các kháng nguyên bề mặt của các tế bào ung thư. Những kháng thể này có thể gây ra các phản ứng chống khối u thông qua sự cố định bổ thể hoặc đóng vai trò định hướng cho sự hoạt động tiêu diệt khối u qua tế bào lympho T gây độc (gây độc tế bào phụ thuộc trung gian kháng thể). Một nhóm kháng thể dịch thể khác, được gọi là kháng thể tăng cường (chặn các kháng thể) có thể kích thích thay vì ức chế sự phát triển của khối u. Các cơ chế và tầm quan trọng tương đối của sự tăng cường miễn dịch đến nay vẫn chưa được hiểu rõ hoàn toàn. Các kháng thể cung cấp độc tố liên hợp cho các tế bào khối u để nhắm đích chọn lọc vào các tế bào khối u đang được thử nghiệm (1, 2).Tài liệu tham khảo về miễn dịch dịch thể1.Dumontet C, Reichert JM, Senter PD, Lambert JM, Beck A: Antibody-drug conjugates come of age in oncology.Nat Rev Drug Discov22(8):641–661, 2023. doi:10.1038/s41573-023-00709-22.Tsuchikama K, Anami Y, Ha SYY, Yamazaki CM: Exploring the next generation of antibody-drug conjugates.Nat Rev Clin Oncol21(3):203–223, 2024. doi:10.1038/s41571-023-00850-2
+
+--- 3. Thất bại trong cơ chế bảo vệ của cơ thể ---
+
+Mặc dù một số khối u bị hệ thống miễn dịch tiêu diệt (và do đó không bao giờ được phát hiện), nhưng một số khối u khác vẫn tiếp tục phát triển mặc dù có sự giám sát miễn dịch. Một số cơ chế được đề xuất để giải thích đáp ứng thiếu hụt này của vật chủ đối với bệnh ung thư, bao gồm các cơ chế sau:Dung nạp miễn dịch đặc hiệu với TAA liên quan tới tế bào trình diện kháng nguyên và tế bào lympho T ức chế, có thể thứ phát do tiếp xúc với kháng nguyên trong thời kỳ bào thai.Ức chế đáp ứng miễn dịch do các tác nhân lý hóa hay vi rút (như sự phá hủy tế bào lympho T hỗ trợ do vi rút HIV).Ức đáp ứng miễn dịch do thuốc gây độc tế bào hoặc tia xạ.Ức chế đáp ứng miễn dịch của chính khối u thông qua các cơ chế phức tạp khác nhau gây ra nhiều vấn đề khác nhau, bao gồm giảm chức năng tế bào T, tế bào B và tế bào trình diện kháng nguyên, giảm sản sinh IL-2, tạo ra các tế bào T cạn kiệt và tăng tuần hoàn các thụ thể IL-2 hòa tan (gắn kết và làm bất hoạt IL-2)Sự hiện diện và hoạt động của các tế bào phân cực TAM-2 (M2), các tế bào ức chế có nguồn gốc từ dạng tủy và các tế bào T điều hòa, thúc đẩy khả năng dung nạp

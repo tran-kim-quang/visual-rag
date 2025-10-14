@@ -1,0 +1,339 @@
+TIÊU ĐỀ: U tiết gastrin
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/khối-u-thần-kinh-nội-tiết-net-đường-tiêu-hóa-và-tụy/u-tiết-gastrin
+================================================================================
+
+NỘI DUNG:
+
+U tiết gastrin
+
+(Hội chứng Zollinger-Ellison, Hội chứng ZE)
+
+Theo
+
+B. Mark Evers
+
+,
+
+MD
+
+,
+
+Markey Cancer Center, University of Kentucky
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v91054028_vi
+
+U tiết gastrin là u sản xuất ra gastrin, thường khu trú ở tụy hoặc ở thành tá tràng. Gây tăng tiết acid dạ dày và loét dạ dày tá tràng tăng triển khó điều trị (hội chứng Zollinger-Ellison). Chẩn đoán bằng xét nghiệm đo nồng độ gastrin trong huyết thanh. Điều trị bằng thuốc ức chế bơm proton và phẫu thuật cắt bỏ.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+U tiết gastrin là một loại
+
+khối u nội tiết tuyến tụ
+
+y phát sinh từ các tế bào đảo nhưng cũng có thể phát sinh từ các tế bào sản sinh gastrin ở tá tràng và các vị trí khác trong cơ thể. Phần lớn (80%) u tiết gastrin xảy ra ở tụy hoặc thành tá tràng và tá tràng là vị trí phổ biến nhất (
+
+1
+
+). Tỷ lệ còn lại là từ rốn lách, mạc treo ruột, dạ dày, hạch lympho và buồng trứng. Khoảng 50% số bệnh nhân có nhiều u.
+
+Khối u tiết gastrin thường nhỏ (đường kính
+
+<
+
+1 cm) và phát triển chậm. Khoảng 50% u tiết gastrin là ác tính.
+
+Khoảng 40% đến 60% số bệnh nhân bị u gastrin có
+
+nhiều khối u nội tiết
+
+, một hội chứng liên quan đến các khối u thần kinh nội tiết của tuyến tụy (ví dụ: u tiết gastrin),
+
+u tuyến yên
+
+và tăng sản tuyến cận giáp.
+
+Tài liệu tham khảo chung
+
+1.
+
+Krampitz GW, Norton JA
+
+. Pancreatic neuroendocrine tumors.
+
+Curr Probl Surg
+
+2013;50(11):509-545. doi:10.1067/j.cpsurg.2013.08.001
+
+Các triệu chứng và dấu hiệu của u tiết gastrin
+
+Hội chứng Zollinger-Ellison thường biểu hiện bằng bệnh lý
+
+loét dạ dày tá tràng
+
+tăng triển, với các ổ loét ở vị trí bất thường (tới 25% nằm xa hành tá tràng). Tuy nhiên, có đến 25% số bệnh nhân không bị loét khi chẩn đoán (
+
+1
+
+). Bệnh nhân có thể có
+
+triệu chứng
+
+loét và
+
+biến chứng
+
+(như thủng, chảy máu, tắc nghẽn). Tiêu chảy là triệu chứng đầu tiên ở 25 đến 40% số bệnh nhân.
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+Krampitz GW, Norton JA
+
+. Pancreatic neuroendocrine tumors.
+
+Curr Probl Surg
+
+2013;50(11):509-545. doi:10.1067/j.cpsurg.2013.08.001
+
+Chẩn đoán u tiết gastrin
+
+Nồng độ gastrin huyết thanh
+
+Chụp CT, xạ hình hoặc chụp cắt lớp phát xạ positron (PET) để định khu tổn thương
+
+Bệnh sử nghi ngờ u tiết gastrin, đặc biệt là khi các triệu chứng khó điều trị với liệu pháp ức chế axit tiêu chuẩn.
+
+Đo nồng độ gastrin huyết thanh
+
+là xét nghiệm đáng tin cậy nhất. Tất cả bệnh nhân đều có nồng độ
+
+>
+
+150 pg/mL (> 72 pmol/L); nồng độ tăng rõ rệt là
+
+>
+
+1000 pg/mL (> 480 pmol/L) ở một bệnh nhân có các đặc điểm lâm sàng tương thích và tăng tiết axit dạ dày của
+
+>
+
+15 mEq/giờ thiết lập chẩn đoán. Tuy nhiên, tăng gastrin máu vừa phải có thể xảy ra với tình trạng hạ clohydric (ví dụ: thiếu máu ác tính, viêm dạ dày mạn tính, sử dụng thuốc ức chế bơm proton), suy thận với độ thanh thải gastrin giảm, cắt bỏ ruột lớn và
+
+u tế bào ưa crôm
+
+.
+
+Xét nghiệm kích thích
+
+secretin
+
+có thể hữu ích ở những bệnh nhân có nồng độ gastrin
+
+<
+
+1000 pg/mL (
+
+<
+
+480 pmol/L). Một liều tấn công đường tĩnh mạch của secretin 2 mcg/kg được tiêm khi có các chỉ số đo gastrin huyết thanh tuần tự (10 phút và 1 phút trước khi tiêm và 2, 5, 10, 15, 20 và 30 phút sau khi tiêm). Đáp ứng đặc trưng ở u tiết gastrin là gia tăng nghịch lý nồng độ gastrin, trái ngược với những gì xảy ra ở bệnh nhân tăng sản tế bào G hang vị hoặc bệnh loét dạ dày điển hình. Bệnh nhân cũng cần được đánh giá về tình trạng
+
+nhiễm Helicobacter pylori
+
+, loại vi khuẩn thường dẫn đến loét dạ dày và tiết gastrin quá mức vừa phải.
+
+Chụp xạ hình thụ thể Somatostatin (chụp Octreotide) Cho thấy vị trí ...
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Khi đã xác định được chẩn đoán u tiết gastrin, thì khối u đó hoặc các khối u đó phải được xác định vị trí. Chỉ định đầu tiên là chụp CT bụng hoặc xạ hình với thụ thể somatostatin để tìm vị trí u nguyên phát và bệnh di căn. Chụp PET hoặc chụp động mạch chọn lọc phóng đại xóa nền cũng cung cấp các thông tin hữu ích. Nếu không có dấu hiệu di căn và vị trí của khối u nguyên phát không chắc chắn thì nên thực hiện siêu âm nội soi. Tiêm secretin động mạch chọn lọc là một phương án khác.
+
+Điều trị u tiết gastrin
+
+Ức chế tiết axit
+
+Phẫu thuật cắt bỏ u khu trú
+
+Hóa trị khi bệnh di căn
+
+Ức chế tiết axit
+
+Thuốc ức chế bơm proton
+
+là những thuốc được lựa chọn (ví dụ: omeprazole hoặc esomeprazole 40 mg uống 2 lần/ngày). Liều có thể được giảm dần khi hết các triệu chứng và lượng axit giảm. Cần liều duy trì; bệnh nhân cần dùng những loại thuốc này vô thời hạn trừ khi họ được phẫu thuật.
+
+Tiêm Octreotide, 100 mcg đến 500 mcg tiêm dưới da hai lần một ngày đến 3 lần/ngày, cũng có thể làm giảm sản sinh axit dạ dày và có thể giảm nhẹ ở những bệnh nhân không đáp ứng tốt với thuốc ức chế bơm proton. Có thể sử dụng dạng
+
+octreotide
+
+tác dụng kéo dài (20 mg đến 30 mg tiêm bắp mỗi tháng một lần).
+
+Phẫu thuật
+
+Phẫu thuật cắt bỏ nên được thực hiện ở những bệnh nhân không có di căn rõ ràng vì nguy cơ cao mắc bệnh ung thư tiềm ẩn. Khi phẫu thuật, phẫu thuật cắt tá tràng và chiếu đèn nội soi hoặc siêu âm trong phẫu thuật giúp xác định vị trí khối u.
+
+Có thể chữa khỏi bằng phẫu thuật ở 20% đến 25% số bệnh nhân nếu u tiết gastrin khu trú và không phải là một phần của hội chứng u nội tiết (
+
+1
+
+).
+
+Hóa trị liệu
+
+Ở những bệnh nhân có bệnh di căn, streptozocin phối hợp với 5-fluorouracil hoặc doxorubicin là hóa trị được ưu tiên cho các khối u tế bào tiểu đảo. Dạng phối hợp này có thể làm giảm khối lượng khối u (từ 50% đến 60%) và nồng độ gastrin trong huyết thanh và là một thuốc bổ sung hữu ích cho omeprazole.
+
+Các liệu pháp hóa trị đang được nghiên cứu dành cho NET tiên tiến bao gồm các phác đồ có temozolomide, everolimus và sunitinib. Khuyến khích kết quả từ thử nghiệm CABINET cho thấy cabozantinib cải thiện thời gian sống thêm không tiến triển ở những bệnh nhân bị NET tiến triển (
+
+2
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Deveney CW, Deveney KE, Stark D, Moss A, Stein S, Way LW
+
+. Resection of gastrinomas.
+
+Ann Surg
+
+198(4):546–553, 1983 doi:10.1097/00000658-198310000-00015
+
+2.
+
+Chan J, Geyer S, Ou F-S, et al
+
+. LBA53 Alliance A021602: Phase III, double-blinded study of
+
+cabozantinib
+
+versus placebo for advanced neuroendocrine tumors (NET) after progression on prior therapy (CABINET).
+
+Ann Oncol
+
+34 (Suppl 2): S1292, 2023.
+
+Tiên lượng về u tiết gastrin
+
+Thời gian sống thêm ở thời điểm 5 năm và 10 năm là
+
+>
+
+90% khi khối u đơn độc được cắt bỏ bằng phẫu thuật so với 43% ở thời điểm 5 năm và 25% ở thời điểm 10 năm nếu cắt bỏ không hoàn toàn (
+
+1
+
+).
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Krampitz GW, Norton JA
+
+. Pancreatic neuroendocrine tumors.
+
+Curr Probl Surg
+
+2013;50(11):509-545. doi:10.1067/j.cpsurg.2013.08.001
+
+Những điểm chính
+
+Hầu hết u tiết gastrin biểu hiện bằng triệu chứng loét dạ dày tá tràng, tuy nhiên ở một số bệnh nhân lại biểu hiện tiêu chảy.
+
+Khoảng một nửa số bệnh nhân mắc nhiều u tiết gastrin và khoảng một nửa mắc hội chứng đa u nội tiết; một nửa số u tiết gastrin là ác tính.
+
+Chẩn đoán thường dựa vào đo nồng độ gastrin huyết thanh, tuy nhiên ở bệnh nhân nồng độ gastrin huyết thanh tăng ở mức ranh giới có thể cần làm nghiệm pháp kích thích tiết secretin.
+
+Xác định vị trí khối u bằng chụp CT, xạ hình thụ thể somatostatin hoặc chụp cắt lớp phát xạ positron (PET).
+
+Quá trình tiết axit bị ức chế bằng thuốc ức chế bơm proton và đôi khi bằng octreotide, chờ phẫu thuật cắt bỏ.
+
+Các phác đồ hóa trị liệu mới hơn có thể hữu ích ở những bệnh nhân bị bệnh di căn tiến triển.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Hội chứng Zollinger-Ellison, Hội chứng ZE) ---
+
+TheoB. Mark Evers,MD,Markey Cancer Center, University of KentuckyXem xét bởiGlenn D. Braunstein,MD,Cedars-Sinai Medical CenterĐã xem xét/Đã chỉnh sửađã sửa đổiThg 5 2024v91054028_vi
+
+--- 2. Các triệu chứng và dấu hiệu của u tiết gastrin ---
+
+Hội chứng Zollinger-Ellison thường biểu hiện bằng bệnh lýloét dạ dày tá tràngtăng triển, với các ổ loét ở vị trí bất thường (tới 25% nằm xa hành tá tràng). Tuy nhiên, có đến 25% số bệnh nhân không bị loét khi chẩn đoán (1). Bệnh nhân có thể cótriệu chứngloét vàbiến chứng(như thủng, chảy máu, tắc nghẽn). Tiêu chảy là triệu chứng đầu tiên ở 25 đến 40% số bệnh nhân.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.Krampitz GW, Norton JA. Pancreatic neuroendocrine tumors.Curr Probl Surg2013;50(11):509-545. doi:10.1067/j.cpsurg.2013.08.001
+
+--- 3. Chẩn đoán u tiết gastrin ---
+
+Nồng độ gastrin huyết thanhChụp CT, xạ hình hoặc chụp cắt lớp phát xạ positron (PET) để định khu tổn thươngBệnh sử nghi ngờ u tiết gastrin, đặc biệt là khi các triệu chứng khó điều trị với liệu pháp ức chế axit tiêu chuẩn.Đo nồng độ gastrin huyết thanhlà xét nghiệm đáng tin cậy nhất. Tất cả bệnh nhân đều có nồng độ>150 pg/mL (> 72 pmol/L); nồng độ tăng rõ rệt là>1000 pg/mL (> 480 pmol/L) ở một bệnh nhân có các đặc điểm lâm sàng tương thích và tăng tiết axit dạ dày của>15 mEq/giờ thiết lập chẩn đoán. Tuy nhiên, tăng gastrin máu vừa phải có thể xảy ra với tình trạng hạ clohydric (ví dụ: thiếu máu ác tính, viêm dạ dày mạn tính, sử dụng thuốc ức chế bơm proton), suy thận với độ thanh thải gastrin giảm, cắt bỏ ruột lớn vàu tế bào ưa crôm.Xét nghiệm kích thíchsecretincó thể hữu ích ở những bệnh nhân có nồng độ gastrin<1000 pg/mL (<480 pmol/L). Một liều tấn công đường tĩnh mạch của secretin 2 mcg/kg được tiêm khi có các chỉ số đo gastrin huyết thanh tuần tự (10 phút và 1 phút trước khi tiêm và 2, 5, 10, 15, 20 và 30 phút sau khi tiêm). Đáp ứng đặc trưng ở u tiết gastrin là gia tăng nghịch lý nồng độ gastrin, trái ngược với những gì xảy ra ở bệnh nhân tăng sản tế bào G hang vị hoặc bệnh loét dạ dày điển hình. Bệnh nhân cũng cần được đánh giá về tình trạngnhiễm Helicobacter pylori, loại vi khuẩn thường dẫn đến loét dạ dày và tiết gastrin quá mức vừa phải.Chụp xạ hình thụ thể Somatostatin (chụp Octreotide) Cho thấy vị trí ...Hình ảnh© Springer Science+Business MediaKhi đã xác định được chẩn đoán u tiết gastrin, thì khối u đó hoặc các khối u đó phải được xác định vị trí. Chỉ định đầu tiên là chụp CT bụng hoặc xạ hình với thụ thể somatostatin để tìm vị trí u nguyên phát và bệnh di căn. Chụp PET hoặc chụp động mạch chọn lọc phóng đại xóa nền cũng cung cấp các thông tin hữu ích. Nếu không có dấu hiệu di căn và vị trí của khối u nguyên phát không chắc chắn thì nên thực hiện siêu âm nội soi. Tiêm secretin động mạch chọn lọc là một phương án khác.
+
+--- 4. Điều trị u tiết gastrin ---
+
+Ức chế tiết axitPhẫu thuật cắt bỏ u khu trúHóa trị khi bệnh di cănỨc chế tiết axitThuốc ức chế bơm protonlà những thuốc được lựa chọn (ví dụ: omeprazole hoặc esomeprazole 40 mg uống 2 lần/ngày). Liều có thể được giảm dần khi hết các triệu chứng và lượng axit giảm. Cần liều duy trì; bệnh nhân cần dùng những loại thuốc này vô thời hạn trừ khi họ được phẫu thuật.Tiêm Octreotide, 100 mcg đến 500 mcg tiêm dưới da hai lần một ngày đến 3 lần/ngày, cũng có thể làm giảm sản sinh axit dạ dày và có thể giảm nhẹ ở những bệnh nhân không đáp ứng tốt với thuốc ức chế bơm proton. Có thể sử dụng dạngoctreotidetác dụng kéo dài (20 mg đến 30 mg tiêm bắp mỗi tháng một lần).Phẫu thuậtPhẫu thuật cắt bỏ nên được thực hiện ở những bệnh nhân không có di căn rõ ràng vì nguy cơ cao mắc bệnh ung thư tiềm ẩn. Khi phẫu thuật, phẫu thuật cắt tá tràng và chiếu đèn nội soi hoặc siêu âm trong phẫu thuật giúp xác định vị trí khối u.Có thể chữa khỏi bằng phẫu thuật ở 20% đến 25% số bệnh nhân nếu u tiết gastrin khu trú và không phải là một phần của hội chứng u nội tiết (1).Hóa trị liệuỞ những bệnh nhân có bệnh di căn, streptozocin phối hợp với 5-fluorouracil hoặc doxorubicin là hóa trị được ưu tiên cho các khối u tế bào tiểu đảo. Dạng phối hợp này có thể làm giảm khối lượng khối u (từ 50% đến 60%) và nồng độ gastrin trong huyết thanh và là một thuốc bổ sung hữu ích cho omeprazole.Các liệu pháp hóa trị đang được nghiên cứu dành cho NET tiên tiến bao gồm các phác đồ có temozolomide, everolimus và sunitinib. Khuyến khích kết quả từ thử nghiệm CABINET cho thấy cabozantinib cải thiện thời gian sống thêm không tiến triển ở những bệnh nhân bị NET tiến triển (2).Tài liệu tham khảo về điều trị1.Deveney CW, Deveney KE, Stark D, Moss A, Stein S, Way LW. Resection of gastrinomas.Ann Surg198(4):546–553, 1983 doi:10.1097/00000658-198310000-000152.Chan J, Geyer S, Ou F-S, et al. LBA53 Alliance A021602: Phase III, double-blinded study ofcabozantinibversus placebo for advanced neuroendocrine tumors (NET) after progression on prior therapy (CABINET).Ann Oncol34 (Suppl 2): S1292, 2023.
+
+--- 5. Tiên lượng về u tiết gastrin ---
+
+Thời gian sống thêm ở thời điểm 5 năm và 10 năm là>90% khi khối u đơn độc được cắt bỏ bằng phẫu thuật so với 43% ở thời điểm 5 năm và 25% ở thời điểm 10 năm nếu cắt bỏ không hoàn toàn (1).Tài liệu tham khảo về tiên lượng bệnh1.Krampitz GW, Norton JA. Pancreatic neuroendocrine tumors.Curr Probl Surg2013;50(11):509-545. doi:10.1067/j.cpsurg.2013.08.001
+
+--- 6. Những điểm chính ---
+
+Hầu hết u tiết gastrin biểu hiện bằng triệu chứng loét dạ dày tá tràng, tuy nhiên ở một số bệnh nhân lại biểu hiện tiêu chảy.Khoảng một nửa số bệnh nhân mắc nhiều u tiết gastrin và khoảng một nửa mắc hội chứng đa u nội tiết; một nửa số u tiết gastrin là ác tính.Chẩn đoán thường dựa vào đo nồng độ gastrin huyết thanh, tuy nhiên ở bệnh nhân nồng độ gastrin huyết thanh tăng ở mức ranh giới có thể cần làm nghiệm pháp kích thích tiết secretin.Xác định vị trí khối u bằng chụp CT, xạ hình thụ thể somatostatin hoặc chụp cắt lớp phát xạ positron (PET).Quá trình tiết axit bị ức chế bằng thuốc ức chế bơm proton và đôi khi bằng octreotide, chờ phẫu thuật cắt bỏ.Các phác đồ hóa trị liệu mới hơn có thể hữu ích ở những bệnh nhân bị bệnh di căn tiến triển.

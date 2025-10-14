@@ -1,0 +1,775 @@
+TIÊU ĐỀ: Tổng quan về ghép tạng
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/ghép-tạng/tổng-quan-về-ghép-tạng
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về ghép tạng
+
+Theo
+
+Martin Hertl
+
+,
+
+MD, PhD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 8 2022
+
+|
+
+đã sửa đổi
+
+Thg 11 2022
+
+v996349_vi
+
+Sàng lọc trước ghép
+
+|
+
+Ức chế miễn dịch sau ghép
+
+|
+
+Các biến chứng sau ghép
+
+|
+
+Thông tin thêm
+
+|
+
+Mô ghép có thể là
+
+Các mô của chính bệnh nhân (ghép tự thân, ví dụ ghép xương, tủy xương và da)
+
+Mô tạng hiến cùng gen (cùng huyết thống [giữa các cặp song sinh cùng trứng]) (ghép cùng gen)
+
+Mô tạng hiến khác gen (ghép đồng loài hay homografts)
+
+Hiếm khi, ghép từ một loài khác (ghép dị loại hoặc heterograft)
+
+Mô ghép có thể là
+
+Các tế bào (như với cấy ghép
+
+tế bào gốc tạo máu
+
+[HSC], cấy ghép tế bào lympho và cấy ghép các
+
+tế bào đảo tụy
+
+)
+
+Các phần hoặc các đoạn của một cơ quan (như các ca cấy ghép thùy
+
+gan
+
+hoặc thùy phổi và
+
+ghép da
+
+)
+
+Toàn bộ các cơ quan (như
+
+cấy ghép tim
+
+,
+
+cấy ghép thận
+
+, cấy ghép tay/mặt và cấy ghép tử cung)
+
+Các mô
+
+(ví dụ: ghép mô hỗn hợp,
+
+giác mạc
+
+)
+
+Các mô có thể được ghép vào một vị trí bình thường về giải phẫu (đúng vị trí, ví dụ như ghép tim) hoặc vị trí bất thường (khác vị trí, ví dụ một thận được ghép vào vùng hố chậu).
+
+Hầu như trong mọi trường hợp, cấy ghép được thực hiện để thay thế hoặc khôi phục chức năng của một cơ quan bị bệnh giai đoạn cuối, do đó khôi phục lại một chức năng thiết yếu và cải thiện sự sống của bệnh nhân. Tuy nhiên, một số thủ thuật (như ghép tay, ghép thanh quản, ghép lưỡi, tử cung và ghép mặt) nhằm nâng cao chất lượng cuộc sống nhưng không nhằm bảo tồn sự sống và có các nguy cơ đáng kể liên quan đến phẫu thuật và ức chế miễn dịch. Một số thủ thuật này có tính chuyên môn cao và được thực hiện không thường xuyên nhưng không còn được coi là thử nghiệm nữa.
+
+Cấy ghép lâm sàng sử dụng tất cả các thủ thuật từ những người hiến tặng
+
+Sống và liên quan đến bệnh nhân
+
+Sống và không liên quan đến bệnh nhân
+
+Người chết
+
+Những người hiến tặng còn sống thường được sử dụng để cấy ghép thận và tế bào gốc tạo máu, ít thường xuyên hơn để cấy ghép gan từng đoạn và hiếm khi cấy ghép tuyến tụy và phổi. Sử dụng các tạng của người cho đã chết (từ những người cho có tim còn đập hoặc tim đã ngừng đập) giúp làm giảm sự mất cân bằng giữa nhu cầu và nguồn cung tạng hiến; tuy nhiên, nhu cầu vẫn còn vượt quá so với lượng cung cấp, và số lượng bệnh nhân chờ ghép tạng vẫn tiếp tục tăng.
+
+Một số nghiên cứu đang được tiến hành trong việc cấy ghép các cơ quan không phải của con người, chẳng hạn như ghép tim, thận và gan. Mặc dù có nhiều tiến bộ trong lĩnh vực này, việc triển khai lâm sàng vẫn bị trì hoãn, chủ yếu là do sự thải ghép không thể cứu vãn, mà còn do sự khác biệt quan trọng về chức năng giữa xenografts và mô người.
+
+Thải ghép và bệnh ghép chống chủ
+
+Tất cả những người nhận ghép tạng cùng loài đều có nguy cơ bị thải vật ghép; hệ thống miễn dịch của người nhận nhận ra mảnh ghép là lạ và tìm cách để phá hủy chúng. Những người nhận mảnh ghép có chứa các tế bào miễn dịch (đặc biệt là tủy xương, ruột và gan) có nguy cơ mắc bệnh ghép so với vật chủ, trong đó các tế bào miễn dịch của người hiến tấn công mô người nhận. Nguy cơ những biến chứng này được giảm thiểu bằng các biện pháp sàng lọc trước ghép và dùng thuốc ức chế miễn dịch trong và sau khi ghép.
+
+Điều phối tạng hiến
+
+Ở Hoa Kỳ, một hệ thống phân bổ nội tạng mới đã được thực hiện cho gan và các cơ quan khác. Theo hệ thống này, các ứng cử viên cấy ghép nhận được nội tạng dựa trên tình trạng khẩn cấp về mặt y tế và khoảng cách giữa bệnh viện hiến tặng và các bệnh viện cấy ghép. Hệ thống này thay thế hệ thống trước đây chủ yếu dựa trên ranh giới địa lý của các khu vực dịch vụ hiến tặng và các khu vực cấy ghép. Giờ đây, gan và các cơ quan nội tạng khác của tất cả những người hiến tặng đã qua đời là người trưởng thành được cung cấp đầu tiên cho những ứng viên ghép tạng tương thích có nhu cầu cấp thiết nhất (Trạng thái 1A và 1B) và được niêm yết tại các bệnh viện cấy ghép trong vòng 500 hải lý tính từ bệnh viện hiến tặng. Sau khi đề nghị được thực hiện cho các ứng viên khẩn cấp nhất, nội tạng được cung cấp cho các ứng viên tại các bệnh viện trong khoảng cách 150, 250 và 500 hải lý tính từ bệnh viện hiến tặng. Trong phân bổ thận, thời gian chờ đợi vẫn là một thách thức và đối với tất cả các cơ quan, các cơ quan nội tạng của bệnh nhi chủ yếu được phân bổ cho các ứng viên nhi khoa trước.
+
+Sàng lọc trước ghép
+
+Trước những nguy cơ và chi phí của cuộc ghép cùng nguồn tạng hiến khan hiếm, nhân viên y tế sẽ sàng lọc những người nhận tiềm năng với các yếu tố liên quan đến y tế và không liên quan đến y tế, những yếu tố này có thể ảnh hưởng đến khả năng thành công. Những người hiến tặng sẽ trải qua các sàng lọc y tế, sàng lọc tâm lý và các nghiên cứu trong phòng thí nghiệm, bao gồm các xét nghiệm để đánh giá nguy cơ lây nhiễm.
+
+Hòa hợp mô
+
+Trong quá trình sàng lọc trước ghép,
+
+người nhận và người cho
+
+được kiểm tra với
+
+Kháng nguyên bạch cầu người
+
+(HLA, còn được gọi là phức hợp hòa hợp mô chủ yếu [MHC])
+
+Kháng nguyên ABO
+
+Người nhận
+
+được kiểm tra với
+
+Tiền mẫn cảm với kháng nguyên người cho
+
+Định type HLA
+
+là quan trọng nhất đối với những trường hợp sau đây:
+
+Ghép thận
+
+Các loại phổ biến nhất của
+
+cấy ghép tế bào gốc tạo máu
+
+Các trường hợp ghép duới đây thường diễn ra rất nhanh và thường trước khi hoàn thành việc định type HLA do đó vai trò của sự tương hợp cho các tạng hiến này ít được thiết lập tốt.
+
+Tim
+
+Gan
+
+Tuyến tụy
+
+Phổi
+
+Định type HLA từ máu ngoại vi hoặc các tế bào hạch lympho được sử dụng để đánh giá sự tương hợp của yếu tố đã được biết là quan trọng nhất của tính hòa hợp mô giữa người cho và người nhận. Hơn 1250 alen xác định cho 6 kháng nguyên HLA (HLA-A, -B, -C, -DP, -DQ, -DR), vì vậy đánh giá sự tương hợp là một thách thức; ví dụ ở Mỹ, trung bình chỉ có 2 trong số 6 kháng nguyên trùng hợp ở người cho thận và người nhận thận. Việc phù hợp càng nhiều kháng nguyên HLA càng tốt giúp cải thiện đáng kể khả năng sống sót về chức năng của các mảnh ghép từ những người hiến tặng tế bào gốc tạo máu và thận có liên quan đến cơ thể sống; Sự phù hợp HLA của các mảnh ghép từ những người hiến tặng không liên quan cũng cải thiện khả năng sống sót, mặc dù ít hơn nhiều do có nhiều sự khác biệt về độ tương thích mô không được phát hiện. Liệu pháp ức chế miễn dịch tốt hơn đã mở rộng khả năng đủ điều kiện để cấy ghép; Sự không phù hợp HLA không tự động loại bệnh nhân để cấy ghép vì liệu pháp ức chế miễn dịch đã trở nên hiệu quả hơn.
+
+Hòa hợp ABO và hòa hợp HLA rất quan trọng đối với sự sống còn của tạng ghép. Sự không hòa hợp ABO có thể nhanh chóng dẫn đến thải ghép tối cấp của các mô ghép mạch (ví dụ như thận, tim) nơi có các kháng nguyên ABO trên bề mặt tế bào nội mô. Tiền mẫn cảm với các kháng nguyên HLA và ABO từ các lần truyền máu, ghép hoặc mang thai trước đây có thể được phát hiện bằng các xét nghiệm huyết thanh học hoặc thông dụng hơn là xét nghiệm gây độc tế bào lympho sử dụng huyết thanh của người nhận và các tế bào lympho của người cho với sự có mặt của bổ thể. Xét nghiệm đọ chéo dương tính chỉ ra rằng huyết thanh của người nhận có chứa các kháng thể chống lại trực tiếp các kháng nguyên ABO hoặc HLA lớp I ở người cho; đó là một chống chỉ định tuyệt đối cho việc ghép, ngoại trừ ở trẻ sơ sinh (đến 14 tháng tuổi) do chưa sản xuất ngưng kết tố hồng cầu đồng loại.
+
+Liệu pháp globulin miễn dịch tĩnh mạch liều cao và
+
+trao đổi huyết tương
+
+được sử dụng để ức chế các kháng thể HLA và tạo thuận lợi cho việc ghép khi không có mô ghép phù hợp hơn. Chi phí cao, nhưng hiệu quả mang lại đáng khích lệ và dường như tương tự như ở các bệnh nhân không được mẫn cảm.
+
+Ngay cả khi kết quả đọ chéo âm tính cũng không đảm bảo sự an toàn; khi các kháng nguyên ABO hòa hợp nhưng không giống nhau (ví dụ, người cho nhóm máu O và người nhận nhóm máu A, B hoặc AB), tan máu là một biến chứng tiềm ẩn do sự sản xuất kháng thể bởi các tế bào lympho người cho.
+
+Mặc dù sự phù hợp với các kháng nguyên HLA và ABO nói chung cải thiện tỷ lệ sống sót của mảnh ghép, những bệnh nhân không thuộc nhóm Da trắng bị thiệt thòi vì
+
+Việc hiến tặng nội tạng ít phổ biến hơn ở những người không phải là người Da trắng, và do đó, số lượng người hiến tặng tiềm năng không phải là người da trắng bị hạn chế.
+
+Bệnh thận giai đoạn cuối phổ biến hơn ở những người gốc Phi, do đó, nhu cầu về các cơ quan nội tạng lớn hơn.
+
+Những bệnh nhân không phải là người Da trắng có thể có đa hình HLA khác với những người hiến tặng là người Da trắng, tỷ lệ mẫn cảm trước với kháng nguyên HLA cao hơn và tỷ lệ nhóm máu O và B.
+
+Nhiễm trùng
+
+Sự phơi nhiễm của người cho và người nhận với các tác nhân gây nhiễm trùng thường gặp và các nhiễm trùng hoạt động hoặc tiềm ẩn phải được phát hiện trước khi ghép để hạn chế tối đa nguy cơ lây truyền nhiễm trùng từ người cho và nguy cơ làm trầm trọng thêm và tái hoạt động của nhiễm trùng đang mắc ở người nhận (do sử dụng các thuốc ức chế miễn dịch).
+
+Việc sàng lọc này thường bao gồm tiền sử và các xét nghiệm về
+
+Cytomegalovirus (CMV)
+
+Vi-rút Epstein-Barr
+
+Lõi viêm gan B
+
+Vi rút viêm gan C
+
+Virus Herpes simplex (HSV)
+
+HIV
+
+Mycobacterium tuberculosis
+
+Vi rút Varicella zoster
+
+Vi rút Tây sông Nile, nếu nghi ngờ có phơi nhiễm
+
+Các dấu hiệu dương tính có thể cần phải có điều trị kháng vi rút trước hoặc sau cấy ghép (ví dụ: đối với
+
+nhiễm CMV
+
+hoặc
+
+viêm gan B
+
+hoặc viêm gan C) hoặc điều trị chống lao hoặc, trong trường hợp nhiễm trùng hoạt động, chống chỉ định cấy ghép cho đến khi tình trạng nhiễm trùng được kiểm soát (ví dụ: nếu HIV với AIDS được phát hiện).
+
+Người nhận có chống chỉ định cấy ghép
+
+Chống chỉ định ghép tuyệt đối
+
+bao gồm:
+
+Nhiễm trùng hoạt động trên lâm sàng, ngoại trừ nhiễm trùng ở người nhận nếu nó giới hạn ở cơ quan sẽ bị thay thế (ví dụ áp xe gan)
+
+Ung thư (ngoại trừ ung thư biểu mô tế bào gan giới hạn ở gan, ung thư da không phải hắc tố và một số khối u thần kinh nội tiết)
+
+Xét nghiệm đọ chéo dương tính được xác định bằng xét nghiệm gây độc tế bào lympho
+
+Chống chỉ định tương đối
+
+bao gồm:
+
+> 70 tuổi
+
+Tình trạng chức năng hoặc dinh dưỡng kém (bao gồm cả chứng béo phì nặng)
+
+Nhiễm HIV
+
+Suy đa tạng
+
+Các yếu tố tâm thần và xã hội cũng đóng một vai trò quan trọng cho thành công của việc ghép. Ví dụ, những người mắc chứng rối loạn sử dụng chất kích thích hoặc những người không ổn định về tâm lý ít có khả năng tuân thủ một cách vững chắc chế độ điều trị và tái khám suốt đời cần thiết.
+
+Quyết định ghép cho các bệnh nhân có chống chỉ định tương đối khác nhau ở các trung tâm y tế. Nhiễm HIV không còn được coi là chống chỉ định tuyệt đối vì thuốc kháng vi rút và thuốc ức chế miễn dịch thường được dung nạp tốt và có hiệu quả ở những người ghép tạng cần phải có các thuốc này.
+
+Ức chế miễn dịch sau ghép
+
+Thuốc ức chế miễn dịch kiểm soát sự thải ghép và đóng vai trò chủ đạo cho sự thành công của ghép tạng (xem bảng
+
+Thuốc ức chế miễn dịch dùng để điều trị thải ghép
+
+). Tuy nhiên, chúng ức chế tất cả các đáp ứng miễn dịch và góp phần gây ra các biến chứng sau ghép bao gồm sự tiến triển của ung thư, gia tăng bệnh tim mạch và thậm chí tử vong do nhiễm trùng không kiểm soát được.
+
+Các thuốc ức chế miễn dịch thường phải được tiếp tục điều trị kéo dài sau ghép, nhưng liều cao tấn công ban đầu có thể được giảm dần trong vài tuần sau ghép, và liều thấp có thể được tiếp tục suốt đời trừ khi xảy ra thải ghép. Tiếp tục giảm liều thuốc ức chế miễn dịch kéo dài sau ghép và các phác đồ cho sự dung nạp của mô hiến còn đang được nghiên cứu.
+
+Corticosteroid
+
+Corticosteroid liều cao thường được cho dùng vào thời điểm cấy ghép, sau đó giảm liều dần dần đến liều duy trì, được cho dùng vô thời hạn. Vài tháng sau ghép, corticosteroid có thể được dùng cách ngày; liệu pháp này có thể giúp phòng ngừa sự hạn chế tăng trưởng ở trẻ em. Nếu thải ghép xuất hiện, liều cao được bắt đầu lại.
+
+Các phác đồ làm giảm nhu cầu sử dụng corticosteroid (phác đồ tiết kiệm steroid) được sử dụng ở một số trung tâm và đang được hoàn thiện thêm. Hai ví dụ bao gồm sử dụng thuốc ức chế mycophenolate và mTOR phối hợp với thuốc ức chế calcineurin hoặc belatacept.
+
+Chất ức chế Calcineurin
+
+Những thuốc này (cyclosporine, tacrolimus) ngăn các quá trình phiên mã tế bào T cần thiết cho sự tổng hợp các cytokine, do đó ức chế một cách có chọn lọc sự tăng sinh và hoạt hóa tế bào T.
+
+Cyclosporine
+
+là loại thuốc được sử dụng phổ biến nhất trong ghép tim và phổi. Nó có thể được dùng đơn độc nhưng thường được dùng phối hợp với các loại thuốc khác (ví dụ: azathioprine, prednisone), vì vậy có thể sử dụng liều thấp, ít độc hơn. Liều ban đầu được giảm xuống liều duy trì ngay sau khi ghép. Thuốc được chuyển hóa bởi enzym cytochrome P-450 3A, và nồng độ trong máu bị ảnh hưởng bởi nhiều loại thuốc khác.
+
+Tác dụng bất lợi nghiêm trọng nhất phụ thuộc liều cyclosporine là độc với thận; cyclosporine gây co các tiểu động mạch đến (trước cầu thận), dẫn đến tổn thương cầu thận, giảm tưới máu thận kéo dài và có thể là suy thận mạn tính. Ngoài ra, u lympho tế bào B và tăng sinh tế bào B đa dòng xuất hiện thường xuyên hơn ở những bệnh nhân dùng liều cao cyclosporine hoặc kết hợp cyclosporine với các thuốc ức chế miễn dịch trực tiếp tế bào T khác, có thể do liên quan đến nhiễm vi rút Epstein-Barr. Các tác dụng phụ khác bao gồm đái tháo đường, độc gan, bệnh gút có hạt tophi, tăng huyết áp kháng trị, độc thần kinh (gồm cả dấu hiệu run), tăng tỷ lệ các khối u khác và các tác dụng ít nghiêm trọng hơn (ví dụ phì đại lợi, rậm lông, bệnh người sói). Nồng độ cyclosporine huyết thanh không tương xứng chặt chẽ với hiệu quả hoặc độc tính gây ra.
+
+Tacrolimus
+
+là loại thuốc được sử dụng phổ biến nhất trong ghép thận, gan, tụy và ruột non. Tacrolimus có thể được bắt đầu vào thời điểm ghép hoặc vài ngày sau ghép. Liều dùng nên được điều chỉnh theo nồng độ trong máu, nồng độ này bị ảnh hưởng bởi các tương tác thuốc tương tự như cyclosporine. Tacrolimus có thể hữu ích khi cyclosporine không hiệu quả hoặc có tác dụng phụ không dung nạp được.
+
+Các tác dụng phụ của tacrolimus tương tự như cyclosporine, ngoại trừ tacrolimus có xu hướng gây ra bệnh tiểu đường cao hơn; phì đại lợi và rậm lông ít gặp hơn. Ở những bệnh nhân dùng tacrolimus, rối loạn tăng sinh tế bào lympho dường như xảy ra thường xuyên hơn, thậm chí chỉ vài tuần sau ghép và có thể cải thiện một phần hoặc hoàn toàn khi ngừng thuốc. Nếu xảy ra rối loạn tăng sinh tế bào lympho, tacrolimus nên được dừng và cyclosporine hoặc một thuốc ức chế miễn dịch khác phải được thay thế.
+
+Các thuốc ức chế chuyển hóa purine
+
+Các loại thuốc này (azathioprine, mycophenolate) ức chế sự tăng sinh của tế bào, đặc biệt là bạch cầu.
+
+Azathioprine,
+
+một chất chống chuyển hóa, thường được bắt đầu dùng vào thời điểm ghép. Hầu hết các bệnh nhân đều dung nạp với thuốc kéo dài. Các tác dụng bất lợi nghiêm trọng nhất là ức chế tủy xương, đặc biệt ở những bệnh nhân bị thiếu hụt thiopurine S-methyltransferase (TPMT) và hiếm khi là viêm gan hoặc bệnh tắc tĩnh mạch gan. Phản ứng quá mẫn hệ thống xảy ra ở > 5% số bệnh nhân. Azathioprine thường được sử dụng kết hợp với liều thấp thuốc ức chế calcineurin.
+
+Mycophenolate
+
+, một tiền thuốc được chuyển hóa thành axit mycophenolic, ức chế ngược enzym inosine monophosphate dehydrogenase, một enzyme trong con đường guanine nucleotide giúp hạn chế tốc độ tăng sinh tế bào lympho. Mycophenolate được cho dùng cùng với cyclosporine (hoặc tacrolimus) và corticosteroid ở các bệnh nhân ghép thận, tim hoặc gan. Tác dụng phụ thường gặp nhất là giảm bạch cầu, buồn nôn, nôn ói, và tiêu chảy. Nó đã thay thế azathioprine trong hầu hết các trường hợp ghép.
+
+Rapamycins
+
+Các loại thuốc này (sirolimus, everolimus) chặn một enzym điều hòa quan trọng (đích tác dụng trên động vật có vú của rapamycin [mTOR]) trong các tế bào lympho, kết quả là ngăn cản chu trình tế bào và ức chế đáp ứng của tế bào lympho với sự kích thích của cytokine.
+
+Sirolimus
+
+thường được dùng với cyclosporine và corticosteroid và có thể hữu ích ở các bệnh nhân suy thận. Tác dụng phụ bao gồm tăng lipid máu, viêm phổi kẽ, phù chân, chậm lành vết thương và ức chế tủy xương với giảm bạch cầu, giảm tiểu cầu và thiếu máu.
+
+Everolimus
+
+được sử dụng để ngăn ngừa thải ghép thận và gan. Các tác dụng phụ tương tự như sirolimus.
+
+Immunoglobulins ức chế miễn dịch
+
+Ví dụ:
+
+Globulin kháng tế bào lympho (ALG)
+
+Globulin kháng tế bào tuyến ức (ATG)
+
+Cả hai đều là một phần của kháng huyết thanh động vật chống lại trực tiếp các tế bào ở người:
+
+Tế bào lympho: ALG
+
+Tế bào tuyến ức: ATG
+
+ALG và ATG ức chế miễn dịch tế bào trong khi vẫn bảo tồn miễn dịch dịch thể. Chúng được sử dụng với các thuốc ức chế miễn dịch khác cho phép các thuốc này được sử dụng với liều thấp hơn, ít độc hơn. Sử dụng ALG hoặc ATG để kiểm soát thải ghép cấp giúp cải thiện tỉ lệ sống còn mô ghép; sử dụng tại thời điểm ghép có thể làm giảm tỷ lệ thải ghép và cho phép sử dụng thuốc ức chế calcineurin được bắt đầu muộn hơn, do đó làm giảm độc tính.
+
+Sử dụng các thành phần huyết thanh với độ tinh khiết cao làm giảm đáng kể các tác dụng bất lợi (ví dụ như phản vệ, bệnh huyết thanh, viêm cầu thận do phức hợp kháng nguyên kháng thể).
+
+Kháng thể đơn dòng (mAb)
+
+Kháng thể đơn dòng chống lại trực tiếp các tế bào T cung cấp một lượng lớn hơn các kháng thể kháng tế bào T và ít protein huyết thanh thích hợp hơn so với ALG và ATG.
+
+Các kháng thể đơn dòng kháng thụ thể IL-2
+
+ức chế sự tăng sinh tế bào T bằng cách ngăn chặn tác dụng của IL-2, một chất được tiết ra bởi các tế bào T hoạt hóa. Basiliximab, một kháng thể kháng thụ thể IL-2 nhân tạo và là kháng thể thụ thể IL-2 duy nhất còn tồn tại, được sử dụng để điều trị thải ghép cấp của thận, gan và ruột non; nó cũng được sử dụng như là liệu pháp ức chế miễn dịch bổ trợ vào thời điểm ghép. Tác dụng ngoại ý duy nhất được báo cáo là phản vệ, nhưng không thể loại trừ được nguy cơ tăng các rối loạn tăng sinh lympho.
+
+Các loại thuốc khác
+
+Belatacept, một kháng thể khác ức chế các con đường đồng kích thích tế bào T, có thể được sử dụng ở những bệnh nhân ghép thận. Tuy nhiên, tỷ lệ mắc bệnh não chất trắng đa ổ tiến triển, một rối loạn do vi rút ở hệ thần kinh trung ương gây tử vong, dường như tăng lên và tỷ lệ nhiễm vi rút khác cũng tăng lên. Rối loạn tăng sinh tế bào lympho sau ghép là một mối quan tâm khác. Belatacept được sử dụng ở những người được cấy ghép thận, những người này có tăng nguy cơ bị nhiễm độc thận do sử dụng thuốc ức chế calcineurin.
+
+Chiếu xạ
+
+Việc chiếu xạ mô ghép, các mô người nhận tại chỗ, hoặc cả hai có thể được sử dụng để điều trị thải ghép thận khi điều trị khác (ví dụ, corticosteroid và ATG) không có hiệu quả. Chiếu xạ bạch huyết toàn bộ dường như cho thấy sự ức chế miễn dịch tế bào một cách an toàn, đầu tiên là kích thích các tế bào T ức chế và sau đó có thể loại bỏ các tế bào phản ứng kháng nguyên đặc hiệu. Tuy nhiên, vì các thuốc ức chế miễn dịch hiện nay rất hiệu quả nên nhu cầu chiếu xạ rất hiếm.
+
+Các liệu pháp trong tương lai
+
+Các phác đồ và các thuốc kích thích sự dung nạp đặc hiệu kháng nguyên mô ghép mà không ức chế các đáp ứng miễn dịch khác đang được tìm kiếm và nghiên cứu. Hai chiến lược đang có triển vọng gồm:
+
+Ức chế các con đường đồng kích thích tế bào T bằng cách sử dụng protein kết hợp kháng nguyên liên kết tế bào lympho T gây độc 4 (CTLA-4) IgG1
+
+Gây hình thành thể khảm (sự tồn tại đồng thời của các tế bào miễn dịch của người cho và của người nhận, có thể cho phép nhận dạng mô ghép là của mình) sử dụng phương pháp điều trị trước ghép không liên quan tới rối loạn chức năng của tủy xương (ví dụ với cyclophosphamide, chiếu xạ tuyến ức, ATG, và cyclosporine) để làm giảm tế bào T thoáng qua, ghép tế bào gốc của người cho, và kết quả là sự dung nạp của các tạng ghép đặc từ cùng một người cho (đang nghiên cứu)
+
+Bảng
+
+Thuốc ức chế miễn dịch dùng để điều trị thải ghép
+
+Bảng
+
+Thuốc ức chế miễn dịch dùng để điều trị thải ghép
+
+Thuốc ức chế miễn dịch dùng để điều trị thải ghép
+
+Thuốc ức chế miễn dịch
+
+Cơ chế hoạt động
+
+Các chỉ định
+
+Các tác dụng phụ chính
+
+Globulin kháng tế bào lympho (ALG)
+
+Ức chế tế bào lympho
+
+Tấn công, duy trì và điều trị thải ghép cấp
+
+Phản vệ, bệnh huyết thanh, viêm cầu thận do phức hợp kháng nguyên kháng thể
+
+Globulin kháng tế bào tuyến ức (ATG)
+
+Ức chế tế bào tuyến ức
+
+Tấn công, duy trì và điều trị thải ghép cấp
+
+Phản vệ, bệnh huyết thanh, viêm cầu thận do phức hợp kháng nguyên kháng thể
+
+Azathioprine
+
+Thuốc ức chế chuyển hóa purine
+
+Duy trì
+
+Ức chế tủy xương, viêm gan
+
+Basiliximab
+
+Ức chế tăng sinh tế bào T bằng cách ngăn chặn tác dụng của IL-2
+
+Chủ yếu là cảm ứng
+
+Nhiễm trùng, phản vệ, các rối loạn tăng sinh tủy
+
+Belatacept
+
+Kháng thể ức chế các con đường đồng kích thích tế bào T
+
+Duy trì
+
+Bệnh não chất trắng đa ổ tiến triển, các bệnh nhiễm vi rút khác
+
+Corticosteroid
+
+Chống viêm
+
+Tấn công, duy trì và điều trị hỗ trợ thải ghép cấp
+
+Đái tháo đường, tăng huyết áp, loãng xương, xơ vữa động mạch
+
+Cyclosporine
+
+Ức chế Calcineurin (ngăn chặn sự sao chép tế bào T)
+
+Tấn công (hiếm), duy trì và điều trị thải ghép cấp và mạn tính
+
+Độc với thận, độc với thần kinh, tăng lipid máu, rậm lông, bệnh người sói, đái tháo đường, độc với gan, gut có hạt tophi, tăng huyết áp kháng trị, tăng tỷ lệ các khối u khác, phì đại lợi.
+
+Everolimus
+
+Ức chế mục tiêu rapamycin (mTOR) ở động vật có vú, ức chế đáp ứng của tế bào lympho với kích thích cytokine
+
+Duy trì
+
+Viêm phổi kẽ, phù chân, tăng lipid máu, chậm lành vết thương, ức chế tủy xương
+
+Mycophenolate
+
+Thuốc ức chế chuyển hóa purine
+
+Duy trì
+
+Ức chế tủy xương, buồn nôn, nôn ói, tiêu chảy
+
+Sirolimus
+
+Ức chế mục tiêu rapamycin (mTOR) ở động vật có vú, ức chế đáp ứng của tế bào lympho với kích thích cytokine
+
+Duy trì
+
+Viêm phổi kẽ, phù chân, tăng lipid máu, chậm lành vết thương, ức chế tủy xương
+
+Tacrolimus
+
+Ức chế Calcineurin (ngăn chặn sự sao chép tế bào T)
+
+Tấn công, duy trì và điều trị thải ghép cấp và mạn tính
+
+Độc với thận, độc với thần kinh, tăng lipid máu, rụng tóc, tăng huyết áp
+
+Các biến chứng sau ghép
+
+Các biến chứng bao gồm:
+
+Thải ghép
+
+Nhiễm trùng
+
+Suy thận
+
+Ung thư
+
+Xơ vữa động mạch
+
+Thải ghép
+
+Thải ghép các tạng đặc có thể là tối cấp, gia tốc, cấp hoặc mạn tính (muộn). Những loại này có thể được phân biệt dựa trên mô bệnh học và thời điểm khởi phát. Các triệu chứng thay đổi theo từng cơ quan (xem bảng
+
+Các biểu hiện của thải ghép theo phân loại thải ghép
+
+).
+
+Thải ghép tối cấp
+
+có các đặc điểm sau:
+
+Xảy ra trong vòng 48 giờ sau cấy ghép
+
+Nguyên nhân là do các kháng thể cố định bổ thể tồn tại trước đó chống lại các kháng nguyên mô ghép (tiền mẫn cảm)
+
+Được đặc trưng bởi huyết khối mạch nhỏ và nhồi máu mô ghép
+
+Nó đã trở nên hiếm (1%) do sàng lọc trước ghép đã được cải thiện. Không có điều trị hiệu quả ngoại trừ việc cắt bỏ mô ghép.
+
+Thải ghép gia tốc
+
+có các đặc điểm sau:
+
+Xảy ra từ 3 đến 5 ngày sau ghép
+
+Nguyên nhân là do các kháng thể không cố định bổ thể tồn tại trước đây chống lại các kháng nguyên mô ghép
+
+Đặc trưng mô bệnh học bởi sự xâm nhập tế bào có hoặc không có tổn thương mạch máu
+
+Thải ghép gia tốc cũng rất hiếm. Điều trị bằng thuốc corticosteroid liều cao hoặc nếu có tổn thương mạch máu cần chuẩn bị các thuốc ức chế tế bào lympho.
+
+Trao đổi huyết tương
+
+, có thể lọc các kháng thể trong máu nhanh hơn, được sử dụng với một số thành công.
+
+Thải ghép cấp
+
+là sự phá huỷ mô ghép sau ghép và có các đặc điểm sau:
+
+Xảy ra muộn, khoảng 5 ngày sau ghép và không giống như thải ghép tối cấp và thải ghép gia tốc, thải ghép cấp qua trung gian đáp ứng tế bào T chống lại mô ghép từ đầu chứ không phải bởi các kháng thể tồn tại trước đó
+
+Nguyên nhân là do phản ứng quá mẫn ức chế qua trung gian tế bào T với các kháng nguyên hòa hợp mô đồng loài
+
+Được đặc trưng bởi sự xâm nhập tế bào đơn nhân, với các mức độ xuất huyết khác nhau, phù và hoại tử nhưng vẫn duy trì được sự toàn vẹn mạch máu (mặc dù nội mô mạch máu dường như là mục tiêu chính)
+
+Thải ghép cấp gặp ở khoảng một nửa trong số tất cả đợt thải ghép xảy ra trong vòng 10 năm. Thải ghép cấp thường hồi phục bằng liệu pháp ức chế miễn dịch tích cực (ví dụ, với bolus corticosteroid, ALG hoặc cả hai). Sau hồi phục thải ghép một số phần tổn thương nặng của mô ghép được thay thế bởi tình trạng xơ hóa, phần còn lại của mô ghép hoạt động chức năng bình thường, liều ức chế miễn dịch có thể được giảm đến liều rất thấp và mô ghép đồng loài có thể tồn tại trong thời gian dài.
+
+Thải ghép mạn tính
+
+là tình trạng rối loạn chức năng mô ghép, thường không kèm theo sốt. Nó có các đặc điểm sau:
+
+Thường xảy ra vài tháng đến vài năm sau ghép nhưng đôi khi trong vài tuần
+
+Có nhiều nguyên nhân, bao gồm thải ghép qua trung gian kháng thể sớm hoặc muộn, thiếu máu quanh giai đoạn phẫu thuật và tổn thương tái tưới máu, ngộ độc thuốc, nhiễm trùng và các yếu tố mạch máu (ví dụ: tăng huyết áp, tăng lipid máu)
+
+Được đặc trưng bởi tổn thương mô bệnh học có tăng sinh lớp áo trong bao gồm các tế bào cơ trơn và chất nền ngoại bào (xơ vữa động mạch ghép), dần dần và cuối cùng gây tắc lòng mạch, dẫn đến nhồi máu và xơ hóa rải rác mô ghép (ở những người được ghép gan, ít đường mật có thể là đặc điểm bệnh lý hàng đầu)
+
+Thải ghép mạn tính chiếm hầu hết các trường hợp thải ghép của nửa phần còn lại của tất cả các đợt thải ghép. Thải ghép mạn tính tiến triển âm thầm mặc dù đã dùng liệu pháp ức chế miễn dịch; hiện tại không có phương pháp điều trị nào cho thải ghép mạn tính. Tacrolimus đã được báo cáo là kiểm soát được thải ghép gan mạn tính ở một vài bệnh nhân.
+
+Bảng
+
+Các triệu chứng của thải ghép theo phân loại thải ghép
+
+Bảng
+
+Các triệu chứng của thải ghép theo phân loại thải ghép
+
+Các triệu chứng của thải ghép theo phân loại thải ghép
+
+Tạng ghép
+
+Tối cấp
+
+Gia tốc
+
+Cấp tính
+
+Mạn tính
+
+Thận
+
+Sốt, vô niệu
+
+Sốt, thiểu niệu, phù mô ghép và căng tức
+
+Sốt, tăng creatinine huyết thanh, tăng huyết áp, tăng cân, phù mô ghép và căng tức
+
+Xuất hiện protein, tế bào lympho và các tế bào ống thận trong cặn nước tiểu
+
+Protein niệu có hoặc không có tăng huyết áp, hội chứng thận hư
+
+Gan
+
+Sốt, kết quả xét nghiệm chức năng gan tăng rất cao (AST, bilirubin), rối loạn đông máu
+
+Sốt, rối loạn đông máu, kết quả xét nghiệm chức năng gan tăng rất cao (AST, bilirubin), cổ trướng
+
+Chán ăn, đau, sốt, vàng da, phân nhạt màu, nước tiểu sẫm màu, kết quả xét nghiệm chức năng gan tăng cao (AST, bilirubin)
+
+Vàng da, hội chứng ống mật biến mất (với bilirubin, phosphatase kiềm và gamma-glutamyl transpeptidase tăng cao), kết quả xét nghiệm chức năng gan tăng nhẹ (AST, bilirubin), cổ trướng
+
+Tim
+
+*
+
+Sốc do tim
+
+Rối loạn nhịp nhĩ, sốc tim
+
+Suy tim, rối loạn nhịp nhĩ
+
+Khó thở khi gắng sức, khả năng chịu đựng căng thẳng thấp
+
+Phổi
+
+Tình trạng oxy kém, sốt, ho, khó thở, FEV1 giảm
+
+Ôxy kém, sốt, ho, khó thở, thâm nhiễm nhìn thấy trên phim chụp X-quang phổi, giảm FEV1
+
+Tương tự như thải ghép gia tốc
+
+Thâm nhiễm quanh mạch kẽ (phát hiện bằng sinh thiết xuyên phế quản)
+
+Viêm tiểu phế quản tắc nghẽn, ho, khó thở
+
+Tuyến tụy
+
+Hoại tử tụy, sốt, tăng đường huyết
+
+Viêm tụy, tăng đường huyết, tăng amylase và lipase
+
+Tương tự như thải ghép gia tốc
+
+Tăng đường huyết, tăng amylase và lipase nhẹ
+
+Ruột non
+
+Sốt, axit lactic tăng rất cao
+
+Sốt, tiêu chảy, tăng axit lactic
+
+Sốt, tiêu chảy, kém hấp thu, acid lactic tăng nhẹ
+
+Tiêu chảy, kém hấp thu
+
+*Hầu hết bệnh nhân bị thải ghép tim không có triệu chứng.
+
+AST = aspartate aminotransferase; FEV1
+
+=
+
+thể tích thở ra gắng sức trong 1 giây.
+
+*Hầu hết bệnh nhân bị thải ghép tim không có triệu chứng.
+
+AST = aspartate aminotransferase; FEV1
+
+=
+
+thể tích thở ra gắng sức trong 1 giây.
+
+Nhiễm trùng
+
+Các bệnh nhân ghép dễ bị nhiễm trùng vì
+
+Sử dụng thuốc ức chế miễn dịch
+
+Suy giảm miễn dịch thứ phát đi kèm với suy cơ quan
+
+Phẫu thuật
+
+Hiếm khi, tạng ghép là nguồn nhiễm trùng (ví dụ: cytomegalovirus [CMV]).
+
+Dấu hiệu phổ biến nhất là sốt, thường không có các dấu hiệu khu trú. Sốt cũng có thể là triệu chứng của thải ghép cấp nhưng thường kèm theo các dấu hiệu của rối loạn chức năng mô ghép. Nếu những dấu hiệu này vắng mặt, cách tiếp cận tương tự như cách tiếp cận các trường hợp
+
+sốt không rõ nguyên nhân
+
+; thời gian xuất hiện các triệu chứng và dấu hiệu sau ghép giúp giới hạn chẩn đoán phân biệt.
+
+Trong tháng đầu tiên sau ghép, hầu hết các nhiễm trùng đều do cùng một loại vi khuẩn và nấm bệnh viện mà chúng cũng ảnh hưởng đến các bệnh nhân phẫu thuật khác (ví dụ: chủng
+
+Pseudomonas
+
+gây viêm phổi, vi khuẩn gram dương gây nhiễm trùng vết mổ). Mối quan tâm lớn nhất đối với nhiễm trùng sớm là các vi khuẩn có thể gây nhiễm khuẩn mô ghép hoặc nguồn máu nuôi dưỡng tại các vị trí khâu, gây phình hoặc lóc tách mạch nhiễm khuẩn.
+
+Nhiễm trùng cơ hội xảy ra từ 1 đến 6 tháng sau ghép (để điều trị, xem trong CẨM NANG). Nhiễm trùng có thể do vi khuẩn (ví dụ: bệnh listeriosis, bệnh tim), vi rút (ví dụ: do vi rút BK [một loại vi rút gây bệnh cơ hội phổ biến ở người ghép thận], CMV, vi rút Epstein-Barr, vi rút varicella-zoster hoặc vi rút viêm gan B hoặc viêm gan C.), nấm (ví dụ: bệnh do aspergillus, bệnh do cryptococus, nhiễm
+
+Pneumocystis jirovecii
+
+), hoặc ký sinh trùng (ví dụ: giun lươn, bệnh do toxoplasma, bệnh do trypanosomia, bệnh do leishmania). Về tiền sử, nhiều trường hợp nhiễm trùng này liên quan đến việc sử dụng thuốc corticosteroid liều cao.
+
+Nguy cơ nhiễm trùng trở lại ở mức lần khám ban đầu ở khoảng 80% số bệnh nhân sau 6 tháng. Khoảng 10% xuất hiện các biến chứng nhiễm trùng sớm, ví dụ nhiễm vi rút mô ghép, nhiễm trùng lan rộng (ví dụ viêm võng mạc do CMV, viêm đại tràng), hoặc các loại ung thư do virus gây ra (ví dụ viêm gan và hậu quả là ung thư biểu mô tế bào gan, u nhú ở người và hậu quả là ung thư biểu mô tế bào đáy). Những bệnh nhân thải ghép mạn tính khác cần liều cao thuốc ức chế miễn dịch (5 đến 10%) và vẫn có nguy cơ nhiễm trùng cơ hội cao kéo dài. Nguy cơ nhiễm trùng thay đổi tùy thuộc vào mô ghép nhận được và thấp nhất đối với người nhận ghép thận đồng loài và cao nhất đối với người nhận ghép gan và phổi.
+
+Sau ghép, hầu hết bệnh nhân được dùng kháng sinh để giảm nguy cơ nhiễm trùng. Lựa chọn thuốc phụ thuộc vào nguy cơ đối với từng bệnh nhân và loại tạng ghép; phác đồ bao gồm trimethoprim/sulfamethoxazole 80/400 mg uống một lần/ngày trong 4 đến 12 tháng để ngăn ngừa nhiễm trùng
+
+P. jirovecii
+
+hoặc ngăn ngừa nhiễm khuẩn đường tiểu ở các bệnh nhân ghép thận. Các bệnh nhân giảm bạch cầu trung tính đôi khi được dùng thuốc kháng sinh nhóm quinolone (ví dụ levofloxacin 500 mg uống hoặc truyền tĩnh mạch một lần/ngày) để ngăn ngừa nhiễm khuẩn gram âm. Thông thường, các bệnh nhân được điều trị dự phòng bằng ganciclovir hoặc acyclovir vì CMV và các nhiễm khuẩn virus khác xảy ra thường xuyên hơn trong những tháng đầu sau ghép, khi liều thuốc ức chế miễn dịch là cao nhất. Liều dùng tùy thuộc vào chức năng thận của bệnh nhân.
+
+Vắc-xin bất hoạt có thể được dùng an toàn sau ghép. Các nguy cơ do
+
+vắc xin sống giảm độc lực
+
+cần phải được cân bằng với lợi ích tiềm năng của nó vì nhiễm trùng có bằng chứng trên lâm sàng và đợt cấp của thải ghép có thể xảy ra ở các bệnh nhân dùng thuốc ức chế miễn dịch, ngay cả khi nồng độ thuốc ức chế miễn dịch trong máu thấp.
+
+Các bệnh lý thận tiết niệu
+
+Tốc độ lọc cầu thận (GFR) giảm từ 30 đến 50% trong 6 tháng đầu sau ghép tạng đặc ở 15 đến 20% bệnh nhân. Những bệnh nhân này thường xuất hiện tăng huyết áp. Tỷ lệ mắc cao nhất đối với người nhận ghép ruột non (21%) vì nồng độ thuốc ức chế miễn dịch trong máu cao (thường là thuốc ức chế calcineurin) cần thiết để duy trì mô ghép. Tỉ lệ thấp nhất đối với người nhận ghép tim - phổi (7%). Tác dụng gây độc thận và đái tháo đường của thuốc ức chế calcineurin là yếu tố quan trọng nhất, nhưng tổn thương thận xung quanh phẫu thuật, suy giảm chức năng thận trước ghép và sử dụng các thuốc gây độc thận khác cũng góp phần gây ra.
+
+Sau khi giảm thời điểm ban đầu, MLCT thường ổn định hoặc giảm chậm hơn; tuy nhiên, nguy cơ tử vong tăng gấp bốn lần ở những bệnh nhân tiến triển đến bệnh thận giai đoạn cuối cần lọc máu trừ khi bệnh nhân được ghép thận lại sau đó. Suy thận sau ghép có thể được dự phòng bằng cách ngừng thuốc ức chế calcineurin sớm, nhưng liều tối thiểu an toàn vẫn chưa được xác định.
+
+Ung thư
+
+Dùng thuốc ức chế miễn dịch kéo dài làm tăng tỷ lệ ung thư do virus, đặc biệt là ung thư biểu mô tế bào vảy và tế bào đáy, rối loạn tăng sinh tế bào lympho (chủ yếu là u lympho không Hodgkin tế bào B), ung thư hậu môn và sinh dục (bao gồm cả cổ tử cung) và ung thư vòm họng và sarcoma Kaposi.
+
+Điều trị cũng tương tự như điều trị bệnh nhân ung thư không sử dụng thuốc ức chế miễn dịch; giảm hoặc ngừng thuốc ức chế miễn dịch thường không đòi hỏi đối với các khối u độ thấp nhưng được khuyến cáo cho các khối u tiến triển hơn và u lympho. Đặc biệt là, các thuốc đối kháng chuyển hóa purine (azathioprine, mycophenolate) được ngừng và tacrolimus được ngừng nếu xuất hiện rối loạn tăng sinh tế bào lympho.
+
+Các biến chứng khác
+
+Loãng xương
+
+có thể xuất hiện ở các bệnh nhân có nguy cơ loãng xương trước ghép (ví dụ, do hoạt động thể chất giảm, sử dụng thuốc lá và/hoặc rượu, hoặc tổn thương thận trước đó) vì các thuốc ức chế miễn dịch (đặc biệt là corticosteroid và thuốc ức chế calcineurin) làm tăng khoáng hóa xương. Mặc dù không thường xuyên, việc sử dụng vitamin D, bisphosphonat hoặc các thuốc chống khoáng hóa xương khác sau ghép có thể có vai trò trong phòng bệnh.
+
+Chậm phát triển
+
+, chủ yếu là hậu quả của việc sử dụng corticosteroid kéo dài, là một mối quan tâm ở trẻ em. Chậm phát triển có thể được cải thiện khi giảm liều corticosteroid đến liều tối thiểu mà không gây thải ghép.
+
+Xơ vữa động mạch
+
+có thể bắt nguồn từ tăng lipid máu do sử dụng thuốc ức chế calcineurin, rapamycins (sirolimus, everolimus) hoặc corticosteroid; nó thường xảy ra ở bệnh nhân sau ghép thận
+
+>
+
+15 năm.
+
+Bệnh ghép chống chủ
+
+(GVHD) xảy ra khi tế bào T người cho phản ứng chống lại các tự kháng nguyên người nhận. GVHD chủ yếu ảnh hưởng đến
+
+người nhận tế bào gốc tạo máu
+
+nhưng cũng có thể ảnh hưởng đến người nhận ghép gan và ruột non. Nó có thể bao gồm tổn thương viêm các mô, đặc biệt là gan, ruột và da cũng như bất thường xét nghiệm máu.
+
+Bệnh gút
+
+có thể trầm trọng hơn ở những bệnh nhân có tăng acid uric máu từ trước và/hoặc tiền sử bệnh gút, đặc biệt là những người đang ghép thận hoặc ghép tim và có thể trầm trọng hơn sau khi cấy ghép do tương tác thuốc. Điều trị tích cực trước phẫu thuật cho những bệnh nhân có nguy cơ gia tăng bằng thuốc hạ axit uric có thể hữu ích trong việc phòng ngừa.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+United Network for Organ Sharing: Xu hướng cấy ghép.
+
+https://unos.org/data/transplant-trends/
+
+: Cung cấp hướng dẫn về phân bổ nội tạng và thông tin toàn diện về cấy ghép, bao gồm cả số lượng ca cấy ghép
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sàng lọc trước ghép ---
+
+Trước những nguy cơ và chi phí của cuộc ghép cùng nguồn tạng hiến khan hiếm, nhân viên y tế sẽ sàng lọc những người nhận tiềm năng với các yếu tố liên quan đến y tế và không liên quan đến y tế, những yếu tố này có thể ảnh hưởng đến khả năng thành công. Những người hiến tặng sẽ trải qua các sàng lọc y tế, sàng lọc tâm lý và các nghiên cứu trong phòng thí nghiệm, bao gồm các xét nghiệm để đánh giá nguy cơ lây nhiễm.Hòa hợp môTrong quá trình sàng lọc trước ghép,người nhận và người chođược kiểm tra vớiKháng nguyên bạch cầu người(HLA, còn được gọi là phức hợp hòa hợp mô chủ yếu [MHC])Kháng nguyên ABONgười nhậnđược kiểm tra vớiTiền mẫn cảm với kháng nguyên người choĐịnh type HLAlà quan trọng nhất đối với những trường hợp sau đây:Ghép thậnCác loại phổ biến nhất củacấy ghép tế bào gốc tạo máuCác trường hợp ghép duới đây thường diễn ra rất nhanh và thường trước khi hoàn thành việc định type HLA do đó vai trò của sự tương hợp cho các tạng hiến này ít được thiết lập tốt.TimGanTuyến tụyPhổiĐịnh type HLA từ máu ngoại vi hoặc các tế bào hạch lympho được sử dụng để đánh giá sự tương hợp của yếu tố đã được biết là quan trọng nhất của tính hòa hợp mô giữa người cho và người nhận. Hơn 1250 alen xác định cho 6 kháng nguyên HLA (HLA-A, -B, -C, -DP, -DQ, -DR), vì vậy đánh giá sự tương hợp là một thách thức; ví dụ ở Mỹ, trung bình chỉ có 2 trong số 6 kháng nguyên trùng hợp ở người cho thận và người nhận thận. Việc phù hợp càng nhiều kháng nguyên HLA càng tốt giúp cải thiện đáng kể khả năng sống sót về chức năng của các mảnh ghép từ những người hiến tặng tế bào gốc tạo máu và thận có liên quan đến cơ thể sống; Sự phù hợp HLA của các mảnh ghép từ những người hiến tặng không liên quan cũng cải thiện khả năng sống sót, mặc dù ít hơn nhiều do có nhiều sự khác biệt về độ tương thích mô không được phát hiện. Liệu pháp ức chế miễn dịch tốt hơn đã mở rộng khả năng đủ điều kiện để cấy ghép; Sự không phù hợp HLA không tự động loại bệnh nhân để cấy ghép vì liệu pháp ức chế miễn dịch đã trở nên hiệu quả hơn.Hòa hợp ABO và hòa hợp HLA rất quan trọng đối với sự sống còn của tạng ghép. Sự không hòa hợp ABO có thể nhanh chóng dẫn đến thải ghép tối cấp của các mô ghép mạch (ví dụ như thận, tim) nơi có các kháng nguyên ABO trên bề mặt tế bào nội mô. Tiền mẫn cảm với các kháng nguyên HLA và ABO từ các lần truyền máu, ghép hoặc mang thai trước đây có thể được phát hiện bằng các xét nghiệm huyết thanh học hoặc thông dụng hơn là xét nghiệm gây độc tế bào lympho sử dụng huyết thanh của người nhận và các tế bào lympho của người cho với sự có mặt của bổ thể. Xét nghiệm đọ chéo dương tính chỉ ra rằng huyết thanh của người nhận có chứa các kháng thể chống lại trực tiếp các kháng nguyên ABO hoặc HLA lớp I ở người cho; đó là một chống chỉ định tuyệt đối cho việc ghép, ngoại trừ ở trẻ sơ sinh (đến 14 tháng tuổi) do chưa sản xuất ngưng kết tố hồng cầu đồng loại.Liệu pháp globulin miễn dịch tĩnh mạch liều cao vàtrao đổi huyết tươngđược sử dụng để ức chế các kháng thể HLA và tạo thuận lợi cho việc ghép khi không có mô ghép phù hợp hơn. Chi phí cao, nhưng hiệu quả mang lại đáng khích lệ và dường như tương tự như ở các bệnh nhân không được mẫn cảm.Ngay cả khi kết quả đọ chéo âm tính cũng không đảm bảo sự an toàn; khi các kháng nguyên ABO hòa hợp nhưng không giống nhau (ví dụ, người cho nhóm máu O và người nhận nhóm máu A, B hoặc AB), tan máu là một biến chứng tiềm ẩn do sự sản xuất kháng thể bởi các tế bào lympho người cho.Mặc dù sự phù hợp với các kháng nguyên HLA và ABO nói chung cải thiện tỷ lệ sống sót của mảnh ghép, những bệnh nhân không thuộc nhóm Da trắng bị thiệt thòi vìViệc hiến tặng nội tạng ít phổ biến hơn ở những người không phải là người Da trắng, và do đó, số lượng người hiến tặng tiềm năng không phải là người da trắng bị hạn chế.Bệnh thận giai đoạn cuối phổ biến hơn ở những người gốc Phi, do đó, nhu cầu về các cơ quan nội tạng lớn hơn.Những bệnh nhân không phải là người Da trắng có thể có đa hình HLA khác với những người hiến tặng là người Da trắng, tỷ lệ mẫn cảm trước với kháng nguyên HLA cao hơn và tỷ lệ nhóm máu O và B.Nhiễm trùngSự phơi nhiễm của người cho và người nhận với các tác nhân gây nhiễm trùng thường gặp và các nhiễm trùng hoạt động hoặc tiềm ẩn phải được phát hiện trước khi ghép để hạn chế tối đa nguy cơ lây truyền nhiễm trùng từ người cho và nguy cơ làm trầm trọng thêm và tái hoạt động của nhiễm trùng đang mắc ở người nhận (do sử dụng các thuốc ức chế miễn dịch).Việc sàng lọc này thường bao gồm tiền sử và các xét nghiệm vềCytomegalovirus (CMV)Vi-rút Epstein-BarrLõi viêm gan BVi rút viêm gan CVirus Herpes simplex (HSV)HIVMycobacterium tuberculosisVi rút Varicella zosterVi rút Tây sông Nile, nếu nghi ngờ có phơi nhiễmCác dấu hiệu dương tính có thể cần phải có điều trị kháng vi rút trước hoặc sau cấy ghép (ví dụ: đối vớinhiễm CMVhoặcviêm gan Bhoặc viêm gan C) hoặc điều trị chống lao hoặc, trong trường hợp nhiễm trùng hoạt động, chống chỉ định cấy ghép cho đến khi tình trạng nhiễm trùng được kiểm soát (ví dụ: nếu HIV với AIDS được phát hiện).Người nhận có chống chỉ định cấy ghépChống chỉ định ghép tuyệt đốibao gồm:Nhiễm trùng hoạt động trên lâm sàng, ngoại trừ nhiễm trùng ở người nhận nếu nó giới hạn ở cơ quan sẽ bị thay thế (ví dụ áp xe gan)Ung thư (ngoại trừ ung thư biểu mô tế bào gan giới hạn ở gan, ung thư da không phải hắc tố và một số khối u thần kinh nội tiết)Xét nghiệm đọ chéo dương tính được xác định bằng xét nghiệm gây độc tế bào lymphoChống chỉ định tương đốibao gồm:> 70 tuổiTình trạng chức năng hoặc dinh dưỡng kém (bao gồm cả chứng béo phì nặng)Nhiễm HIVSuy đa tạngCác yếu tố tâm thần và xã hội cũng đóng một vai trò quan trọng cho thành công của việc ghép. Ví dụ, những người mắc chứng rối loạn sử dụng chất kích thích hoặc những người không ổn định về tâm lý ít có khả năng tuân thủ một cách vững chắc chế độ điều trị và tái khám suốt đời cần thiết.Quyết định ghép cho các bệnh nhân có chống chỉ định tương đối khác nhau ở các trung tâm y tế. Nhiễm HIV không còn được coi là chống chỉ định tuyệt đối vì thuốc kháng vi rút và thuốc ức chế miễn dịch thường được dung nạp tốt và có hiệu quả ở những người ghép tạng cần phải có các thuốc này.
+
+--- 2. Ức chế miễn dịch sau ghép ---
+
+Thuốc ức chế miễn dịch kiểm soát sự thải ghép và đóng vai trò chủ đạo cho sự thành công của ghép tạng (xem bảngThuốc ức chế miễn dịch dùng để điều trị thải ghép). Tuy nhiên, chúng ức chế tất cả các đáp ứng miễn dịch và góp phần gây ra các biến chứng sau ghép bao gồm sự tiến triển của ung thư, gia tăng bệnh tim mạch và thậm chí tử vong do nhiễm trùng không kiểm soát được.Các thuốc ức chế miễn dịch thường phải được tiếp tục điều trị kéo dài sau ghép, nhưng liều cao tấn công ban đầu có thể được giảm dần trong vài tuần sau ghép, và liều thấp có thể được tiếp tục suốt đời trừ khi xảy ra thải ghép. Tiếp tục giảm liều thuốc ức chế miễn dịch kéo dài sau ghép và các phác đồ cho sự dung nạp của mô hiến còn đang được nghiên cứu.CorticosteroidCorticosteroid liều cao thường được cho dùng vào thời điểm cấy ghép, sau đó giảm liều dần dần đến liều duy trì, được cho dùng vô thời hạn. Vài tháng sau ghép, corticosteroid có thể được dùng cách ngày; liệu pháp này có thể giúp phòng ngừa sự hạn chế tăng trưởng ở trẻ em. Nếu thải ghép xuất hiện, liều cao được bắt đầu lại.Các phác đồ làm giảm nhu cầu sử dụng corticosteroid (phác đồ tiết kiệm steroid) được sử dụng ở một số trung tâm và đang được hoàn thiện thêm. Hai ví dụ bao gồm sử dụng thuốc ức chế mycophenolate và mTOR phối hợp với thuốc ức chế calcineurin hoặc belatacept.Chất ức chế CalcineurinNhững thuốc này (cyclosporine, tacrolimus) ngăn các quá trình phiên mã tế bào T cần thiết cho sự tổng hợp các cytokine, do đó ức chế một cách có chọn lọc sự tăng sinh và hoạt hóa tế bào T.Cyclosporinelà loại thuốc được sử dụng phổ biến nhất trong ghép tim và phổi. Nó có thể được dùng đơn độc nhưng thường được dùng phối hợp với các loại thuốc khác (ví dụ: azathioprine, prednisone), vì vậy có thể sử dụng liều thấp, ít độc hơn. Liều ban đầu được giảm xuống liều duy trì ngay sau khi ghép. Thuốc được chuyển hóa bởi enzym cytochrome P-450 3A, và nồng độ trong máu bị ảnh hưởng bởi nhiều loại thuốc khác.Tác dụng bất lợi nghiêm trọng nhất phụ thuộc liều cyclosporine là độc với thận; cyclosporine gây co các tiểu động mạch đến (trước cầu thận), dẫn đến tổn thương cầu thận, giảm tưới máu thận kéo dài và có thể là suy thận mạn tính. Ngoài ra, u lympho tế bào B và tăng sinh tế bào B đa dòng xuất hiện thường xuyên hơn ở những bệnh nhân dùng liều cao cyclosporine hoặc kết hợp cyclosporine với các thuốc ức chế miễn dịch trực tiếp tế bào T khác, có thể do liên quan đến nhiễm vi rút Epstein-Barr. Các tác dụng phụ khác bao gồm đái tháo đường, độc gan, bệnh gút có hạt tophi, tăng huyết áp kháng trị, độc thần kinh (gồm cả dấu hiệu run), tăng tỷ lệ các khối u khác và các tác dụng ít nghiêm trọng hơn (ví dụ phì đại lợi, rậm lông, bệnh người sói). Nồng độ cyclosporine huyết thanh không tương xứng chặt chẽ với hiệu quả hoặc độc tính gây ra.Tacrolimuslà loại thuốc được sử dụng phổ biến nhất trong ghép thận, gan, tụy và ruột non. Tacrolimus có thể được bắt đầu vào thời điểm ghép hoặc vài ngày sau ghép. Liều dùng nên được điều chỉnh theo nồng độ trong máu, nồng độ này bị ảnh hưởng bởi các tương tác thuốc tương tự như cyclosporine. Tacrolimus có thể hữu ích khi cyclosporine không hiệu quả hoặc có tác dụng phụ không dung nạp được.Các tác dụng phụ của tacrolimus tương tự như cyclosporine, ngoại trừ tacrolimus có xu hướng gây ra bệnh tiểu đường cao hơn; phì đại lợi và rậm lông ít gặp hơn. Ở những bệnh nhân dùng tacrolimus, rối loạn tăng sinh tế bào lympho dường như xảy ra thường xuyên hơn, thậm chí chỉ vài tuần sau ghép và có thể cải thiện một phần hoặc hoàn toàn khi ngừng thuốc. Nếu xảy ra rối loạn tăng sinh tế bào lympho, tacrolimus nên được dừng và cyclosporine hoặc một thuốc ức chế miễn dịch khác phải được thay thế.Các thuốc ức chế chuyển hóa purineCác loại thuốc này (azathioprine, mycophenolate) ức chế sự tăng sinh của tế bào, đặc biệt là bạch cầu.Azathioprine,một chất chống chuyển hóa, thường được bắt đầu dùng vào thời điểm ghép. Hầu hết các bệnh nhân đều dung nạp với thuốc kéo dài. Các tác dụng bất lợi nghiêm trọng nhất là ức chế tủy xương, đặc biệt ở những bệnh nhân bị thiếu hụt thiopurine S-methyltransferase (TPMT) và hiếm khi là viêm gan hoặc bệnh tắc tĩnh mạch gan. Phản ứng quá mẫn hệ thống xảy ra ở > 5% số bệnh nhân. Azathioprine thường được sử dụng kết hợp với liều thấp thuốc ức chế calcineurin.Mycophenolate, một tiền thuốc được chuyển hóa thành axit mycophenolic, ức chế ngược enzym inosine monophosphate dehydrogenase, một enzyme trong con đường guanine nucleotide giúp hạn chế tốc độ tăng sinh tế bào lympho. Mycophenolate được cho dùng cùng với cyclosporine (hoặc tacrolimus) và corticosteroid ở các bệnh nhân ghép thận, tim hoặc gan. Tác dụng phụ thường gặp nhất là giảm bạch cầu, buồn nôn, nôn ói, và tiêu chảy. Nó đã thay thế azathioprine trong hầu hết các trường hợp ghép.RapamycinsCác loại thuốc này (sirolimus, everolimus) chặn một enzym điều hòa quan trọng (đích tác dụng trên động vật có vú của rapamycin [mTOR]) trong các tế bào lympho, kết quả là ngăn cản chu trình tế bào và ức chế đáp ứng của tế bào lympho với sự kích thích của cytokine.Sirolimusthường được dùng với cyclosporine và corticosteroid và có thể hữu ích ở các bệnh nhân suy thận. Tác dụng phụ bao gồm tăng lipid máu, viêm phổi kẽ, phù chân, chậm lành vết thương và ức chế tủy xương với giảm bạch cầu, giảm tiểu cầu và thiếu máu.Everolimusđược sử dụng để ngăn ngừa thải ghép thận và gan. Các tác dụng phụ tương tự như sirolimus.Immunoglobulins ức chế miễn dịchVí dụ:Globulin kháng tế bào lympho (ALG)Globulin kháng tế bào tuyến ức (ATG)Cả hai đều là một phần của kháng huyết thanh động vật chống lại trực tiếp các tế bào ở người:Tế bào lympho: ALGTế bào tuyến ức: ATGALG và ATG ức chế miễn dịch tế bào trong khi vẫn bảo tồn miễn dịch dịch thể. Chúng được sử dụng với các thuốc ức chế miễn dịch khác cho phép các thuốc này được sử dụng với liều thấp hơn, ít độc hơn. Sử dụng ALG hoặc ATG để kiểm soát thải ghép cấp giúp cải thiện tỉ lệ sống còn mô ghép; sử dụng tại thời điểm ghép có thể làm giảm tỷ lệ thải ghép và cho phép sử dụng thuốc ức chế calcineurin được bắt đầu muộn hơn, do đó làm giảm độc tính.Sử dụng các thành phần huyết thanh với độ tinh khiết cao làm giảm đáng kể các tác dụng bất lợi (ví dụ như phản vệ, bệnh huyết thanh, viêm cầu thận do phức hợp kháng nguyên kháng thể).Kháng thể đơn dòng (mAb)Kháng thể đơn dòng chống lại trực tiếp các tế bào T cung cấp một lượng lớn hơn các kháng thể kháng tế bào T và ít protein huyết thanh thích hợp hơn so với ALG và ATG.Các kháng thể đơn dòng kháng thụ thể IL-2ức chế sự tăng sinh tế bào T bằng cách ngăn chặn tác dụng của IL-2, một chất được tiết ra bởi các tế bào T hoạt hóa. Basiliximab, một kháng thể kháng thụ thể IL-2 nhân tạo và là kháng thể thụ thể IL-2 duy nhất còn tồn tại, được sử dụng để điều trị thải ghép cấp của thận, gan và ruột non; nó cũng được sử dụng như là liệu pháp ức chế miễn dịch bổ trợ vào thời điểm ghép. Tác dụng ngoại ý duy nhất được báo cáo là phản vệ, nhưng không thể loại trừ được nguy cơ tăng các rối loạn tăng sinh lympho.Các loại thuốc khácBelatacept, một kháng thể khác ức chế các con đường đồng kích thích tế bào T, có thể được sử dụng ở những bệnh nhân ghép thận. Tuy nhiên, tỷ lệ mắc bệnh não chất trắng đa ổ tiến triển, một rối loạn do vi rút ở hệ thần kinh trung ương gây tử vong, dường như tăng lên và tỷ lệ nhiễm vi rút khác cũng tăng lên. Rối loạn tăng sinh tế bào lympho sau ghép là một mối quan tâm khác. Belatacept được sử dụng ở những người được cấy ghép thận, những người này có tăng nguy cơ bị nhiễm độc thận do sử dụng thuốc ức chế calcineurin.Chiếu xạViệc chiếu xạ mô ghép, các mô người nhận tại chỗ, hoặc cả hai có thể được sử dụng để điều trị thải ghép thận khi điều trị khác (ví dụ, corticosteroid và ATG) không có hiệu quả. Chiếu xạ bạch huyết toàn bộ dường như cho thấy sự ức chế miễn dịch tế bào một cách an toàn, đầu tiên là kích thích các tế bào T ức chế và sau đó có thể loại bỏ các tế bào phản ứng kháng nguyên đặc hiệu. Tuy nhiên, vì các thuốc ức chế miễn dịch hiện nay rất hiệu quả nên nhu cầu chiếu xạ rất hiếm.Các liệu pháp trong tương laiCác phác đồ và các thuốc kích thích sự dung nạp đặc hiệu kháng nguyên mô ghép mà không ức chế các đáp ứng miễn dịch khác đang được tìm kiếm và nghiên cứu. Hai chiến lược đang có triển vọng gồm:Ức chế các con đường đồng kích thích tế bào T bằng cách sử dụng protein kết hợp kháng nguyên liên kết tế bào lympho T gây độc 4 (CTLA-4) IgG1Gây hình thành thể khảm (sự tồn tại đồng thời của các tế bào miễn dịch của người cho và của người nhận, có thể cho phép nhận dạng mô ghép là của mình) sử dụng phương pháp điều trị trước ghép không liên quan tới rối loạn chức năng của tủy xương (ví dụ với cyclophosphamide, chiếu xạ tuyến ức, ATG, và cyclosporine) để làm giảm tế bào T thoáng qua, ghép tế bào gốc của người cho, và kết quả là sự dung nạp của các tạng ghép đặc từ cùng một người cho (đang nghiên cứu)BảngThuốc ức chế miễn dịch dùng để điều trị thải ghépBảngThuốc ức chế miễn dịch dùng để điều trị thải ghépThuốc ức chế miễn dịch dùng để điều trị thải ghépThuốc ức chế miễn dịchCơ chế hoạt độngCác chỉ địnhCác tác dụng phụ chínhGlobulin kháng tế bào lympho (ALG)Ức chế tế bào lymphoTấn công, duy trì và điều trị thải ghép cấpPhản vệ, bệnh huyết thanh, viêm cầu thận do phức hợp kháng nguyên kháng thểGlobulin kháng tế bào tuyến ức (ATG)Ức chế tế bào tuyến ứcTấn công, duy trì và điều trị thải ghép cấpPhản vệ, bệnh huyết thanh, viêm cầu thận do phức hợp kháng nguyên kháng thểAzathioprineThuốc ức chế chuyển hóa purineDuy trìỨc chế tủy xương, viêm ganBasiliximabỨc chế tăng sinh tế bào T bằng cách ngăn chặn tác dụng của IL-2Chủ yếu là cảm ứngNhiễm trùng, phản vệ, các rối loạn tăng sinh tủyBelataceptKháng thể ức chế các con đường đồng kích thích tế bào TDuy trìBệnh não chất trắng đa ổ tiến triển, các bệnh nhiễm vi rút khácCorticosteroidChống viêmTấn công, duy trì và điều trị hỗ trợ thải ghép cấpĐái tháo đường, tăng huyết áp, loãng xương, xơ vữa động mạchCyclosporineỨc chế Calcineurin (ngăn chặn sự sao chép tế bào T)Tấn công (hiếm), duy trì và điều trị thải ghép cấp và mạn tínhĐộc với thận, độc với thần kinh, tăng lipid máu, rậm lông, bệnh người sói, đái tháo đường, độc với gan, gut có hạt tophi, tăng huyết áp kháng trị, tăng tỷ lệ các khối u khác, phì đại lợi.EverolimusỨc chế mục tiêu rapamycin (mTOR) ở động vật có vú, ức chế đáp ứng của tế bào lympho với kích thích cytokineDuy trìViêm phổi kẽ, phù chân, tăng lipid máu, chậm lành vết thương, ức chế tủy xươngMycophenolateThuốc ức chế chuyển hóa purineDuy trìỨc chế tủy xương, buồn nôn, nôn ói, tiêu chảySirolimusỨc chế mục tiêu rapamycin (mTOR) ở động vật có vú, ức chế đáp ứng của tế bào lympho với kích thích cytokineDuy trìViêm phổi kẽ, phù chân, tăng lipid máu, chậm lành vết thương, ức chế tủy xươngTacrolimusỨc chế Calcineurin (ngăn chặn sự sao chép tế bào T)Tấn công, duy trì và điều trị thải ghép cấp và mạn tínhĐộc với thận, độc với thần kinh, tăng lipid máu, rụng tóc, tăng huyết áp
+
+--- 3. Các biến chứng sau ghép ---
+
+Các biến chứng bao gồm:Thải ghépNhiễm trùngSuy thậnUng thưXơ vữa động mạchThải ghépThải ghép các tạng đặc có thể là tối cấp, gia tốc, cấp hoặc mạn tính (muộn). Những loại này có thể được phân biệt dựa trên mô bệnh học và thời điểm khởi phát. Các triệu chứng thay đổi theo từng cơ quan (xem bảngCác biểu hiện của thải ghép theo phân loại thải ghép).Thải ghép tối cấpcó các đặc điểm sau:Xảy ra trong vòng 48 giờ sau cấy ghépNguyên nhân là do các kháng thể cố định bổ thể tồn tại trước đó chống lại các kháng nguyên mô ghép (tiền mẫn cảm)Được đặc trưng bởi huyết khối mạch nhỏ và nhồi máu mô ghépNó đã trở nên hiếm (1%) do sàng lọc trước ghép đã được cải thiện. Không có điều trị hiệu quả ngoại trừ việc cắt bỏ mô ghép.Thải ghép gia tốccó các đặc điểm sau:Xảy ra từ 3 đến 5 ngày sau ghépNguyên nhân là do các kháng thể không cố định bổ thể tồn tại trước đây chống lại các kháng nguyên mô ghépĐặc trưng mô bệnh học bởi sự xâm nhập tế bào có hoặc không có tổn thương mạch máuThải ghép gia tốc cũng rất hiếm. Điều trị bằng thuốc corticosteroid liều cao hoặc nếu có tổn thương mạch máu cần chuẩn bị các thuốc ức chế tế bào lympho.Trao đổi huyết tương, có thể lọc các kháng thể trong máu nhanh hơn, được sử dụng với một số thành công.Thải ghép cấplà sự phá huỷ mô ghép sau ghép và có các đặc điểm sau:Xảy ra muộn, khoảng 5 ngày sau ghép và không giống như thải ghép tối cấp và thải ghép gia tốc, thải ghép cấp qua trung gian đáp ứng tế bào T chống lại mô ghép từ đầu chứ không phải bởi các kháng thể tồn tại trước đóNguyên nhân là do phản ứng quá mẫn ức chế qua trung gian tế bào T với các kháng nguyên hòa hợp mô đồng loàiĐược đặc trưng bởi sự xâm nhập tế bào đơn nhân, với các mức độ xuất huyết khác nhau, phù và hoại tử nhưng vẫn duy trì được sự toàn vẹn mạch máu (mặc dù nội mô mạch máu dường như là mục tiêu chính)Thải ghép cấp gặp ở khoảng một nửa trong số tất cả đợt thải ghép xảy ra trong vòng 10 năm. Thải ghép cấp thường hồi phục bằng liệu pháp ức chế miễn dịch tích cực (ví dụ, với bolus corticosteroid, ALG hoặc cả hai). Sau hồi phục thải ghép một số phần tổn thương nặng của mô ghép được thay thế bởi tình trạng xơ hóa, phần còn lại của mô ghép hoạt động chức năng bình thường, liều ức chế miễn dịch có thể được giảm đến liều rất thấp và mô ghép đồng loài có thể tồn tại trong thời gian dài.Thải ghép mạn tínhlà tình trạng rối loạn chức năng mô ghép, thường không kèm theo sốt. Nó có các đặc điểm sau:Thường xảy ra vài tháng đến vài năm sau ghép nhưng đôi khi trong vài tuầnCó nhiều nguyên nhân, bao gồm thải ghép qua trung gian kháng thể sớm hoặc muộn, thiếu máu quanh giai đoạn phẫu thuật và tổn thương tái tưới máu, ngộ độc thuốc, nhiễm trùng và các yếu tố mạch máu (ví dụ: tăng huyết áp, tăng lipid máu)Được đặc trưng bởi tổn thương mô bệnh học có tăng sinh lớp áo trong bao gồm các tế bào cơ trơn và chất nền ngoại bào (xơ vữa động mạch ghép), dần dần và cuối cùng gây tắc lòng mạch, dẫn đến nhồi máu và xơ hóa rải rác mô ghép (ở những người được ghép gan, ít đường mật có thể là đặc điểm bệnh lý hàng đầu)Thải ghép mạn tính chiếm hầu hết các trường hợp thải ghép của nửa phần còn lại của tất cả các đợt thải ghép. Thải ghép mạn tính tiến triển âm thầm mặc dù đã dùng liệu pháp ức chế miễn dịch; hiện tại không có phương pháp điều trị nào cho thải ghép mạn tính. Tacrolimus đã được báo cáo là kiểm soát được thải ghép gan mạn tính ở một vài bệnh nhân.BảngCác triệu chứng của thải ghép theo phân loại thải ghépBảngCác triệu chứng của thải ghép theo phân loại thải ghépCác triệu chứng của thải ghép theo phân loại thải ghépTạng ghépTối cấpGia tốcCấp tínhMạn tínhThậnSốt, vô niệuSốt, thiểu niệu, phù mô ghép và căng tứcSốt, tăng creatinine huyết thanh, tăng huyết áp, tăng cân, phù mô ghép và căng tứcXuất hiện protein, tế bào lympho và các tế bào ống thận trong cặn nước tiểuProtein niệu có hoặc không có tăng huyết áp, hội chứng thận hưGanSốt, kết quả xét nghiệm chức năng gan tăng rất cao (AST, bilirubin), rối loạn đông máuSốt, rối loạn đông máu, kết quả xét nghiệm chức năng gan tăng rất cao (AST, bilirubin), cổ trướngChán ăn, đau, sốt, vàng da, phân nhạt màu, nước tiểu sẫm màu, kết quả xét nghiệm chức năng gan tăng cao (AST, bilirubin)Vàng da, hội chứng ống mật biến mất (với bilirubin, phosphatase kiềm và gamma-glutamyl transpeptidase tăng cao), kết quả xét nghiệm chức năng gan tăng nhẹ (AST, bilirubin), cổ trướngTim*Sốc do timRối loạn nhịp nhĩ, sốc timSuy tim, rối loạn nhịp nhĩKhó thở khi gắng sức, khả năng chịu đựng căng thẳng thấpPhổiTình trạng oxy kém, sốt, ho, khó thở, FEV1 giảmÔxy kém, sốt, ho, khó thở, thâm nhiễm nhìn thấy trên phim chụp X-quang phổi, giảm FEV1Tương tự như thải ghép gia tốcThâm nhiễm quanh mạch kẽ (phát hiện bằng sinh thiết xuyên phế quản)Viêm tiểu phế quản tắc nghẽn, ho, khó thởTuyến tụyHoại tử tụy, sốt, tăng đường huyếtViêm tụy, tăng đường huyết, tăng amylase và lipaseTương tự như thải ghép gia tốcTăng đường huyết, tăng amylase và lipase nhẹRuột nonSốt, axit lactic tăng rất caoSốt, tiêu chảy, tăng axit lacticSốt, tiêu chảy, kém hấp thu, acid lactic tăng nhẹTiêu chảy, kém hấp thu*Hầu hết bệnh nhân bị thải ghép tim không có triệu chứng.AST = aspartate aminotransferase; FEV1=thể tích thở ra gắng sức trong 1 giây.*Hầu hết bệnh nhân bị thải ghép tim không có triệu chứng.AST = aspartate aminotransferase; FEV1=thể tích thở ra gắng sức trong 1 giây.Nhiễm trùngCác bệnh nhân ghép dễ bị nhiễm trùng vìSử dụng thuốc ức chế miễn dịchSuy giảm miễn dịch thứ phát đi kèm với suy cơ quanPhẫu thuậtHiếm khi, tạng ghép là nguồn nhiễm trùng (ví dụ: cytomegalovirus [CMV]).Dấu hiệu phổ biến nhất là sốt, thường không có các dấu hiệu khu trú. Sốt cũng có thể là triệu chứng của thải ghép cấp nhưng thường kèm theo các dấu hiệu của rối loạn chức năng mô ghép. Nếu những dấu hiệu này vắng mặt, cách tiếp cận tương tự như cách tiếp cận các trường hợpsốt không rõ nguyên nhân; thời gian xuất hiện các triệu chứng và dấu hiệu sau ghép giúp giới hạn chẩn đoán phân biệt.Trong tháng đầu tiên sau ghép, hầu hết các nhiễm trùng đều do cùng một loại vi khuẩn và nấm bệnh viện mà chúng cũng ảnh hưởng đến các bệnh nhân phẫu thuật khác (ví dụ: chủngPseudomonasgây viêm phổi, vi khuẩn gram dương gây nhiễm trùng vết mổ). Mối quan tâm lớn nhất đối với nhiễm trùng sớm là các vi khuẩn có thể gây nhiễm khuẩn mô ghép hoặc nguồn máu nuôi dưỡng tại các vị trí khâu, gây phình hoặc lóc tách mạch nhiễm khuẩn.Nhiễm trùng cơ hội xảy ra từ 1 đến 6 tháng sau ghép (để điều trị, xem trong CẨM NANG). Nhiễm trùng có thể do vi khuẩn (ví dụ: bệnh listeriosis, bệnh tim), vi rút (ví dụ: do vi rút BK [một loại vi rút gây bệnh cơ hội phổ biến ở người ghép thận], CMV, vi rút Epstein-Barr, vi rút varicella-zoster hoặc vi rút viêm gan B hoặc viêm gan C.), nấm (ví dụ: bệnh do aspergillus, bệnh do cryptococus, nhiễmPneumocystis jirovecii), hoặc ký sinh trùng (ví dụ: giun lươn, bệnh do toxoplasma, bệnh do trypanosomia, bệnh do leishmania). Về tiền sử, nhiều trường hợp nhiễm trùng này liên quan đến việc sử dụng thuốc corticosteroid liều cao.Nguy cơ nhiễm trùng trở lại ở mức lần khám ban đầu ở khoảng 80% số bệnh nhân sau 6 tháng. Khoảng 10% xuất hiện các biến chứng nhiễm trùng sớm, ví dụ nhiễm vi rút mô ghép, nhiễm trùng lan rộng (ví dụ viêm võng mạc do CMV, viêm đại tràng), hoặc các loại ung thư do virus gây ra (ví dụ viêm gan và hậu quả là ung thư biểu mô tế bào gan, u nhú ở người và hậu quả là ung thư biểu mô tế bào đáy). Những bệnh nhân thải ghép mạn tính khác cần liều cao thuốc ức chế miễn dịch (5 đến 10%) và vẫn có nguy cơ nhiễm trùng cơ hội cao kéo dài. Nguy cơ nhiễm trùng thay đổi tùy thuộc vào mô ghép nhận được và thấp nhất đối với người nhận ghép thận đồng loài và cao nhất đối với người nhận ghép gan và phổi.Sau ghép, hầu hết bệnh nhân được dùng kháng sinh để giảm nguy cơ nhiễm trùng. Lựa chọn thuốc phụ thuộc vào nguy cơ đối với từng bệnh nhân và loại tạng ghép; phác đồ bao gồm trimethoprim/sulfamethoxazole 80/400 mg uống một lần/ngày trong 4 đến 12 tháng để ngăn ngừa nhiễm trùngP. jiroveciihoặc ngăn ngừa nhiễm khuẩn đường tiểu ở các bệnh nhân ghép thận. Các bệnh nhân giảm bạch cầu trung tính đôi khi được dùng thuốc kháng sinh nhóm quinolone (ví dụ levofloxacin 500 mg uống hoặc truyền tĩnh mạch một lần/ngày) để ngăn ngừa nhiễm khuẩn gram âm. Thông thường, các bệnh nhân được điều trị dự phòng bằng ganciclovir hoặc acyclovir vì CMV và các nhiễm khuẩn virus khác xảy ra thường xuyên hơn trong những tháng đầu sau ghép, khi liều thuốc ức chế miễn dịch là cao nhất. Liều dùng tùy thuộc vào chức năng thận của bệnh nhân.Vắc-xin bất hoạt có thể được dùng an toàn sau ghép. Các nguy cơ dovắc xin sống giảm độc lựccần phải được cân bằng với lợi ích tiềm năng của nó vì nhiễm trùng có bằng chứng trên lâm sàng và đợt cấp của thải ghép có thể xảy ra ở các bệnh nhân dùng thuốc ức chế miễn dịch, ngay cả khi nồng độ thuốc ức chế miễn dịch trong máu thấp.Các bệnh lý thận tiết niệuTốc độ lọc cầu thận (GFR) giảm từ 30 đến 50% trong 6 tháng đầu sau ghép tạng đặc ở 15 đến 20% bệnh nhân. Những bệnh nhân này thường xuất hiện tăng huyết áp. Tỷ lệ mắc cao nhất đối với người nhận ghép ruột non (21%) vì nồng độ thuốc ức chế miễn dịch trong máu cao (thường là thuốc ức chế calcineurin) cần thiết để duy trì mô ghép. Tỉ lệ thấp nhất đối với người nhận ghép tim - phổi (7%). Tác dụng gây độc thận và đái tháo đường của thuốc ức chế calcineurin là yếu tố quan trọng nhất, nhưng tổn thương thận xung quanh phẫu thuật, suy giảm chức năng thận trước ghép và sử dụng các thuốc gây độc thận khác cũng góp phần gây ra.Sau khi giảm thời điểm ban đầu, MLCT thường ổn định hoặc giảm chậm hơn; tuy nhiên, nguy cơ tử vong tăng gấp bốn lần ở những bệnh nhân tiến triển đến bệnh thận giai đoạn cuối cần lọc máu trừ khi bệnh nhân được ghép thận lại sau đó. Suy thận sau ghép có thể được dự phòng bằng cách ngừng thuốc ức chế calcineurin sớm, nhưng liều tối thiểu an toàn vẫn chưa được xác định.Ung thưDùng thuốc ức chế miễn dịch kéo dài làm tăng tỷ lệ ung thư do virus, đặc biệt là ung thư biểu mô tế bào vảy và tế bào đáy, rối loạn tăng sinh tế bào lympho (chủ yếu là u lympho không Hodgkin tế bào B), ung thư hậu môn và sinh dục (bao gồm cả cổ tử cung) và ung thư vòm họng và sarcoma Kaposi.Điều trị cũng tương tự như điều trị bệnh nhân ung thư không sử dụng thuốc ức chế miễn dịch; giảm hoặc ngừng thuốc ức chế miễn dịch thường không đòi hỏi đối với các khối u độ thấp nhưng được khuyến cáo cho các khối u tiến triển hơn và u lympho. Đặc biệt là, các thuốc đối kháng chuyển hóa purine (azathioprine, mycophenolate) được ngừng và tacrolimus được ngừng nếu xuất hiện rối loạn tăng sinh tế bào lympho.Các biến chứng khácLoãng xươngcó thể xuất hiện ở các bệnh nhân có nguy cơ loãng xương trước ghép (ví dụ, do hoạt động thể chất giảm, sử dụng thuốc lá và/hoặc rượu, hoặc tổn thương thận trước đó) vì các thuốc ức chế miễn dịch (đặc biệt là corticosteroid và thuốc ức chế calcineurin) làm tăng khoáng hóa xương. Mặc dù không thường xuyên, việc sử dụng vitamin D, bisphosphonat hoặc các thuốc chống khoáng hóa xương khác sau ghép có thể có vai trò trong phòng bệnh.Chậm phát triển, chủ yếu là hậu quả của việc sử dụng corticosteroid kéo dài, là một mối quan tâm ở trẻ em. Chậm phát triển có thể được cải thiện khi giảm liều corticosteroid đến liều tối thiểu mà không gây thải ghép.Xơ vữa động mạchcó thể bắt nguồn từ tăng lipid máu do sử dụng thuốc ức chế calcineurin, rapamycins (sirolimus, everolimus) hoặc corticosteroid; nó thường xảy ra ở bệnh nhân sau ghép thận>15 năm.Bệnh ghép chống chủ(GVHD) xảy ra khi tế bào T người cho phản ứng chống lại các tự kháng nguyên người nhận. GVHD chủ yếu ảnh hưởng đếnngười nhận tế bào gốc tạo máunhưng cũng có thể ảnh hưởng đến người nhận ghép gan và ruột non. Nó có thể bao gồm tổn thương viêm các mô, đặc biệt là gan, ruột và da cũng như bất thường xét nghiệm máu.Bệnh gútcó thể trầm trọng hơn ở những bệnh nhân có tăng acid uric máu từ trước và/hoặc tiền sử bệnh gút, đặc biệt là những người đang ghép thận hoặc ghép tim và có thể trầm trọng hơn sau khi cấy ghép do tương tác thuốc. Điều trị tích cực trước phẫu thuật cho những bệnh nhân có nguy cơ gia tăng bằng thuốc hạ axit uric có thể hữu ích trong việc phòng ngừa.
+
+--- 4. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.United Network for Organ Sharing: Xu hướng cấy ghép.https://unos.org/data/transplant-trends/: Cung cấp hướng dẫn về phân bổ nội tạng và thông tin toàn diện về cấy ghép, bao gồm cả số lượng ca cấy ghép

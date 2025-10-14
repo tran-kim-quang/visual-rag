@@ -1,0 +1,409 @@
+TIÊU ĐỀ: Suy giảm miễn dịch kết hợp nặng (SCID)
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/rối-loạn-miễn-dịch/suy-giảm-miễn-dịch-kết-hợp-nặng-scid
+================================================================================
+
+NỘI DUNG:
+
+Suy giảm miễn dịch kết hợp nặng (SCID)
+
+Theo
+
+James Fernandez
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v994694_vi
+
+Suy giảm miễn dịch kết hợp nặng được đặc trưng bởi tình trạng thiếu tế bào T hoặc thiếu tế bào T và số lượng tế bào B và tế bào tiêu diệt tự nhiên (NK) thấp, cao hoặc bình thường. Hầu hết trẻ sơ sinh bị nhiễm trùng cơ hội trong vòng 3 tháng đầu đời. Chẩn đoán bằng cách phát hiện sự giảm bạch cầu, vắng mặt hoặc số lượng tế bào T rất thấp, và đáp ứng tăng sinh tế bào lympho bị suy giảm đối với các nguyên bào gây ra. Bệnh nhân phải được giữ trong môi trường được bảo vệ; điều trị dứt điểm là cấy ghép tế bào gốc tạo máu.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn về miễn dịch
+
+và
+
+Cách tiếp cận với bệnh nhân có rối loạn miễn dịch
+
+.)
+
+Suy giảm miễn dịch kết hợp trầm trọng (SCID) là
+
+rối loạn suy giảm miễn dịch tiên phát
+
+có liên quan đến
+
+kết hợp thiếu hụt miễn dịch dịch thể và miễn dịch tế bào
+
+. Bệnh do đột biến ở bất kỳ một trong nhiều gen khác nhau (ví dụ, đối với các dạng lặn tự nhiễm,
+
+Janus kinase 3
+
+[
+
+JAK3
+
+],
+
+protein tyrosine phosphatase, receptor type, C
+
+[
+
+PTPRC
+
+, hoặc là
+
+CD45
+
+],
+
+recombination activating genes 1
+
+[
+
+RAG1
+
+] và
+
+2
+
+[
+
+RAG2
+
+]). Có nhiều hình thức khác nhau của SCID là các khiếm khuyết lặn trên nhiễm sắc thể thường, do đó, đối với trẻ sơ sinh bị ảnh hưởng bởi SCID, cùng một gen phải được đột biến trên cả hai nhiễm sắc thể.
+
+Có 4 kiểu hình tế bào lympho bất thường khác nhau:
+
+T-B+NK+
+
+T-B+NK-
+
+T-B-NK+
+
+T-B-NK-
+
+Ở hầu hết các dạng SCID, tế bào T không có (T-); số lượng tế bào B và/hoặc tế bào tiêu diệt tự nhiên có thể thấp hoặc không có (B-; NK-) hoặc cao hoặc bình thường (B
+
++
+
+; NK
+
++
+
+), tùy thuộc vào dạng SCID. Tuy nhiên, các tế bào B ngay cả khi bình thường về số lượng, không thể hoạt động vì các tế bào T vắng mặt. Chức năng của tế bào diệt tự nhiên thường bị suy giảm.
+
+Dạng SCID phổ biến nhất là liên kết X. Bệnh ảnh hưởng đến thụ thể interleukin (IL)-2 chuổi gamma (một cấu phần của ít nhất 6 thụ thể cytokine) và do đó gây ra bệnh trầm trọng; kiểu hình là T- B
+
++
+
+NK-. Bệnh là kết quả của một đột biến trong gen IL-2 recepter gamma (
+
+IL-2RG
+
+).
+
+Dạng phổ biến thứ hai là kết quả của sự thiếu hụt
+
+adenosine
+
+deaminase (ADA), dẫn đến cơ chế gây chết tế bào theo chương trình của các tiền chất của tế bào B, T và NK; kiểu hình là T- B- NK-.
+
+Hình thức phổ biến nhất tiếp theo là kết quả từ sự thiếu hụt chuỗi alpha receptor IL-7; kiểu hình là T- B
+
++
+
+NK
+
++
+
+.
+
+Các đột biến trong gen kích hoạt tái tổ hợp 1-2 (
+
+RAG1
+
+hoặc
+
+RAG2
+
+) đại diện cho một kiểu hình T-B-NK+ SCID.
+
+Hội chứng Omenn là một kiểu hình T-B-NK+ SCID khác. Nó thường là kết quả của một allele RAG khiếm khuyết và do đó thường được gọi là SCID không điển hình, hoặc SCID rò rỉ. Đây là một dạng lặn trên nhiễm sắc thể thường của SCID. Thông thường, nồng độ IgA, IgG và IgM thấp trong khi nồng độ IgE và bạch cầu ái toan lại cao. Những bệnh nhân này thường có mức độ giảm bạch cầu khác nhau với số lượng tế bào T và B thấp và có biểu hiện viêm và viêm hạch.
+
+SCID thiếu hụt Artemis là một loại hiếm xảy ra chủ yếu ở trẻ em gốc Apache hoặc Navajo. Nó là kết quả của một đột biến trong
+
+DCLRE1C
+
+. Về mặt lâm sàng, nó giống SCID với kiểu hình T-B-NK+.
+
+Tất cả các dạng SCID đều gây tử vong trong thời thơ ấu, trừ khi chúng được chẩn đoán và điều trị sớm.
+
+Các triệu chứng và dấu hiệu của SCID
+
+Cho đến 6 tuổi, hầu hết trẻ sơ sinh bị SCID mắc bệnh
+
+candida toàn thân
+
+, nhiễm vi rút liên tục,
+
+viêm phổi do Pneumocystis jirovecii
+
+và tiêu chảy làm chậm phát triển. Một số bị bệnh phần ghép chống vật chủ do tế bào lympho hoặc truyền máu. Trẻ sơ sinh khác biểu hiện bệnh ở tuổi từ 6 đến 12 tháng.
+
+Ở hầu hết các dạng, tuyến ức cực kỳ nhỏ và mô bạch huyết có thể bị giảm hoặc không có.
+
+Thiếu ADA có thể gây ra bất thường xương.
+
+Bệnh nhân có hội chứng Omenn có thể bị viêm da tróc vảy, đỏ da, bong vảy, rụng tóc, tiêu chảy, tăng bạch cầu hạt, tăng bạch cầu ái toan, tăng IgE huyết thanh.
+
+Chẩn đoán SCID
+
+Sàng lọc sơ sinh định kỳ bằng
+
+thử nghiệm chu trình cắt bỏ thụ thể tế bào T (TREC)
+
+Tiền sử nhiễm trùng liên tục
+
+Số lượng bạch cầu
+
+Thử nghiệm kích thích kháng nguyên sinh học và vắc-xin
+
+Việc sàng lọc tất cả trẻ sơ sinh bằng xét nghiệm TREC thường được khuyến nghị và thực hiện thường xuyên ở nhiều tiểu bang của Hoa Kỳ.
+
+Suy giảm miễn dịch kết hợp được nghi ngờ ở trẻ sơ sinh có tiền sử viêm nhiễm dai dẳng hoặc các biểu hiện đặc trưng khác. Công thức máu, bao gồm cả số WBC, mức độ globulin miễn dịch được đo. Phản ứng với các mitogens và các kháng nguyên chủng ngừa chuẩn được xác định để đánh giá chức năng bạch cầu và kháng thể.
+
+Bệnh lý được chẩn đoán ở những bệnh nhân có các triệu chứng sau: (
+
+1
+
+):
+
+Giảm Lympho
+
+Số lượng tế bào T thấp hoặc không có
+
+Thiếu vắng đáp ứng tăng sinh tế bào lympho với mitogen
+
+Các thử nghiệm khác được thực hiện để xác định loại SCID; chúng bao gồm đo dòng chảy tế bào để xác định T, B, và các tế bào NK. ADA và nồng độ nucleoside phosphorylase trong bạch cầu, hồng cầu và nguyên bào sợi được đo. Các xét nghiệm không kích hoạt X có thể được thực hiện để xác định liệu SCID có liên kết X hay không.
+
+Để giúp xác định mức độ nghiêm trọng và tiên lượng bệnh, bác sĩ lâm sàng thường kiểm tra bệnh nhân các đột biến thông thường đặc trưng của SCID (ví dụ,
+
+IL-2RG
+
+,
+
+RAG1
+
+và
+
+RAG2
+
+,
+
+JAK3
+
+,
+
+Artemis
+
+[
+
+DCLRE1C
+
+]).
+
+Thử nghiệm di truyền của người cùng huyết thống không được khuyến nghị.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Bonilla FA, Khan DA, Ballas ZK, et al
+
+: Practice parameter for the diagnosis and management of primary immunodeficiency.
+
+J Allergy Clin Immunol
+
+136(5):1186–205.e2078, 2015. doi:10.1016/j.jaci.2015.04.049
+
+Điều trị SCID
+
+Cô lập cách ly
+
+Chăm sóc hỗ trợ sử dụng liệu pháp thay thế globulin miễn dịch, thuốc kháng sinh và thuốc chống nấm
+
+Ghép tế bào gốc tạo máu
+
+Thay thế enzyme cho thiếu hụt ADA
+
+Liệu pháp gen cho SCID do thiếu hụt ADA và các đột biến đặc hiệu khác
+
+Bệnh nhân suy giảm miễn dịch kết hợp phải được giữ cô lập cách ly.
+
+Điều trị với liệu pháp thay thế
+
+globulin miễn dịch
+
+, kháng sinh (bao gồm dự phòng
+
+P. jirovecii
+
+), và thuốc chống nấm có thể giúp ngăn ngừa nhiễm trùng nhưng không phải là chữa bệnh.
+
+Trong 90 đến 100% trẻ sơ sinh có SCID hoặc các biến thể của nó,
+
+ghép tế bào gốc tạo huyết
+
+từ một nguồn HLA giống hệt, anh chị em có leukocyte hòa hợp để phục hồi miễn dịch. Khi không có anh chị em ruột có HLA giống hệt nhau, có thể sử dụng phương pháp ghép tế bào gốc tạo máu đơn bội từ cha mẹ đã bị loại bỏ hoàn toàn tế bào T. Nếu SCID được chẩn đoán ở độ tuổi 3 tháng, tỷ lệ sống sót sau khi cấy ghép bằng bất kỳ loại tế bào gốc tạo máu nào là 96% (
+
+1
+
+). Hoá trị liệu trước khi cấy ghép là không cần thiết vì bệnh nhân không có tế bào T và do đó không thể từ chối ghép tạng.
+
+Bệnh nhân bị thiếu hụt ADA không được ghép tế bào gốc tạo máu có thể được điều trị bằng cách tiêm ADA bò biến đổi từ
+
+polyethylene glycol
+
+một hoặc hai lần mỗi tuần.
+
+Liệu pháp gen
+
+đã thành công trong SCID thiếu hụt ADA và không có bệnh bạch cầu hoặc u lympho sau điều trị nào được báo cáo. Một công bố đã cho thấy kết quả rất khả quan của liệu pháp gen trong 50 ADA-SCID (
+
+2
+
+). Liệu pháp gen cũng đã thành công trong SCID liên kết nhiễm sắc thể X nhưng đã gây ra bệnh bạch cầu tế bào T, ngăn cản việc sử dụng nó. Liệu pháp gen cho các dạng SCID khác đang được nghiên cứu, bao gồm thu nhận mở trong các thử nghiệm lâm sàng đối với ADA-SCID và SCID liên kết với nhiễm sắc thể X. Một thử nghiệm nhỏ cho thấy kết quả khả quan của liệu pháp gen trong SCID thiếu Artemis (
+
+3
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Heimall J, Logan BR, Cowan MJ, et al
+
+: Immune reconstitution and survival of 100 SCID patients post-hematopoietic cell transplant: a PIDTC natural history study.
+
+Blood
+
+130(25):2718–2727, 2017. doi:10.1182/blood-2017-05-781849
+
+2.
+
+Kohn DB, Booth C, Shaw KL, et al
+
+: Autologous ex vivo lentiviral gene therapy for
+
+adenosine
+
+deaminase deficiency.
+
+N Engl J Med
+
+384(21):2002–2013, 2021 doi:10.1056/NEJMoa2027675
+
+3.
+
+Cowan MJ, Yu J, Facchino J, et al
+
+: Lentiviral gene therapy for Artemis-deficient SCID.
+
+N Engl J Med
+
+387(25):2344–2355, 2022 doi:10.1056/NEJMoa2206575
+
+Những điểm chính
+
+Nghi ngờ suy giảm miễn dịch trầm trọng (SCID) nếu trẻ sơ sinh bị nhiễm trùng tái phát, bệnh ghép nối với người chủ, hoặc viêm da tróc da.
+
+Chẩn đoán được xác nhận nếu bệnh nhân có giảm bạch cầu, thiếu số lượng tế bào T và không có phản ứng tăng sinh tế bào lympho đối với mitogen.
+
+Xác định T, B, và số lượng tế bào NK để xác định loại SCID.
+
+Cho globulin miễn dịch dự phòng và kháng sinh.
+
+Cấy ghép tế bào gốc tạo máu sớm bất cứ khi nào có thể.
+
+Nếu bệnh nhân bị SCID có thiếu hụt ADA không được ghép tế bào gốc tạo máu, hãy sử dụng liệu pháp thay thế ADA và đôi khi là liệu pháp gen.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các triệu chứng và dấu hiệu của SCID ---
+
+Cho đến 6 tuổi, hầu hết trẻ sơ sinh bị SCID mắc bệnhcandida toàn thân, nhiễm vi rút liên tục,viêm phổi do Pneumocystis jiroveciivà tiêu chảy làm chậm phát triển. Một số bị bệnh phần ghép chống vật chủ do tế bào lympho hoặc truyền máu. Trẻ sơ sinh khác biểu hiện bệnh ở tuổi từ 6 đến 12 tháng.Ở hầu hết các dạng, tuyến ức cực kỳ nhỏ và mô bạch huyết có thể bị giảm hoặc không có.Thiếu ADA có thể gây ra bất thường xương.Bệnh nhân có hội chứng Omenn có thể bị viêm da tróc vảy, đỏ da, bong vảy, rụng tóc, tiêu chảy, tăng bạch cầu hạt, tăng bạch cầu ái toan, tăng IgE huyết thanh.
+
+--- 2. Chẩn đoán SCID ---
+
+Sàng lọc sơ sinh định kỳ bằngthử nghiệm chu trình cắt bỏ thụ thể tế bào T (TREC)Tiền sử nhiễm trùng liên tụcSố lượng bạch cầuThử nghiệm kích thích kháng nguyên sinh học và vắc-xinViệc sàng lọc tất cả trẻ sơ sinh bằng xét nghiệm TREC thường được khuyến nghị và thực hiện thường xuyên ở nhiều tiểu bang của Hoa Kỳ.Suy giảm miễn dịch kết hợp được nghi ngờ ở trẻ sơ sinh có tiền sử viêm nhiễm dai dẳng hoặc các biểu hiện đặc trưng khác. Công thức máu, bao gồm cả số WBC, mức độ globulin miễn dịch được đo. Phản ứng với các mitogens và các kháng nguyên chủng ngừa chuẩn được xác định để đánh giá chức năng bạch cầu và kháng thể.Bệnh lý được chẩn đoán ở những bệnh nhân có các triệu chứng sau: (1):Giảm LymphoSố lượng tế bào T thấp hoặc không cóThiếu vắng đáp ứng tăng sinh tế bào lympho với mitogenCác thử nghiệm khác được thực hiện để xác định loại SCID; chúng bao gồm đo dòng chảy tế bào để xác định T, B, và các tế bào NK. ADA và nồng độ nucleoside phosphorylase trong bạch cầu, hồng cầu và nguyên bào sợi được đo. Các xét nghiệm không kích hoạt X có thể được thực hiện để xác định liệu SCID có liên kết X hay không.Để giúp xác định mức độ nghiêm trọng và tiên lượng bệnh, bác sĩ lâm sàng thường kiểm tra bệnh nhân các đột biến thông thường đặc trưng của SCID (ví dụ,IL-2RG,RAG1vàRAG2,JAK3,Artemis[DCLRE1C]).Thử nghiệm di truyền của người cùng huyết thống không được khuyến nghị.Tài liệu tham khảo chẩn đoán1.Bonilla FA, Khan DA, Ballas ZK, et al: Practice parameter for the diagnosis and management of primary immunodeficiency.J Allergy Clin Immunol136(5):1186–205.e2078, 2015. doi:10.1016/j.jaci.2015.04.049
+
+--- 3. Điều trị SCID ---
+
+Cô lập cách lyChăm sóc hỗ trợ sử dụng liệu pháp thay thế globulin miễn dịch, thuốc kháng sinh và thuốc chống nấmGhép tế bào gốc tạo máuThay thế enzyme cho thiếu hụt ADALiệu pháp gen cho SCID do thiếu hụt ADA và các đột biến đặc hiệu khácBệnh nhân suy giảm miễn dịch kết hợp phải được giữ cô lập cách ly.Điều trị với liệu pháp thay thếglobulin miễn dịch, kháng sinh (bao gồm dự phòngP. jirovecii), và thuốc chống nấm có thể giúp ngăn ngừa nhiễm trùng nhưng không phải là chữa bệnh.Trong 90 đến 100% trẻ sơ sinh có SCID hoặc các biến thể của nó,ghép tế bào gốc tạo huyếttừ một nguồn HLA giống hệt, anh chị em có leukocyte hòa hợp để phục hồi miễn dịch. Khi không có anh chị em ruột có HLA giống hệt nhau, có thể sử dụng phương pháp ghép tế bào gốc tạo máu đơn bội từ cha mẹ đã bị loại bỏ hoàn toàn tế bào T. Nếu SCID được chẩn đoán ở độ tuổi 3 tháng, tỷ lệ sống sót sau khi cấy ghép bằng bất kỳ loại tế bào gốc tạo máu nào là 96% (1). Hoá trị liệu trước khi cấy ghép là không cần thiết vì bệnh nhân không có tế bào T và do đó không thể từ chối ghép tạng.Bệnh nhân bị thiếu hụt ADA không được ghép tế bào gốc tạo máu có thể được điều trị bằng cách tiêm ADA bò biến đổi từpolyethylene glycolmột hoặc hai lần mỗi tuần.Liệu pháp genđã thành công trong SCID thiếu hụt ADA và không có bệnh bạch cầu hoặc u lympho sau điều trị nào được báo cáo. Một công bố đã cho thấy kết quả rất khả quan của liệu pháp gen trong 50 ADA-SCID (2). Liệu pháp gen cũng đã thành công trong SCID liên kết nhiễm sắc thể X nhưng đã gây ra bệnh bạch cầu tế bào T, ngăn cản việc sử dụng nó. Liệu pháp gen cho các dạng SCID khác đang được nghiên cứu, bao gồm thu nhận mở trong các thử nghiệm lâm sàng đối với ADA-SCID và SCID liên kết với nhiễm sắc thể X. Một thử nghiệm nhỏ cho thấy kết quả khả quan của liệu pháp gen trong SCID thiếu Artemis (3).Tài liệu tham khảo về điều trị1.Heimall J, Logan BR, Cowan MJ, et al: Immune reconstitution and survival of 100 SCID patients post-hematopoietic cell transplant: a PIDTC natural history study.Blood130(25):2718–2727, 2017. doi:10.1182/blood-2017-05-7818492.Kohn DB, Booth C, Shaw KL, et al: Autologous ex vivo lentiviral gene therapy foradenosinedeaminase deficiency.N Engl J Med384(21):2002–2013, 2021 doi:10.1056/NEJMoa20276753.Cowan MJ, Yu J, Facchino J, et al: Lentiviral gene therapy for Artemis-deficient SCID.N Engl J Med387(25):2344–2355, 2022 doi:10.1056/NEJMoa2206575
+
+--- 4. Những điểm chính ---
+
+Nghi ngờ suy giảm miễn dịch trầm trọng (SCID) nếu trẻ sơ sinh bị nhiễm trùng tái phát, bệnh ghép nối với người chủ, hoặc viêm da tróc da.Chẩn đoán được xác nhận nếu bệnh nhân có giảm bạch cầu, thiếu số lượng tế bào T và không có phản ứng tăng sinh tế bào lympho đối với mitogen.Xác định T, B, và số lượng tế bào NK để xác định loại SCID.Cho globulin miễn dịch dự phòng và kháng sinh.Cấy ghép tế bào gốc tạo máu sớm bất cứ khi nào có thể.Nếu bệnh nhân bị SCID có thiếu hụt ADA không được ghép tế bào gốc tạo máu, hãy sử dụng liệu pháp thay thế ADA và đôi khi là liệu pháp gen.

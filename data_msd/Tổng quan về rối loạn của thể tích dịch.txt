@@ -1,0 +1,192 @@
+TIÊU ĐỀ: Tổng quan về rối loạn của thể tích dịch
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/chuyển-hóa-nước/tổng-quan-về-rối-loạn-của-thể-tích-dịch
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về rối loạn của thể tích dịch
+
+Theo
+
+James L. Lewis III
+
+,
+
+MD
+
+,
+
+Brookwood Baptist Health and Saint Vincent’s Ascension Health, Birmingham
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v984755_vi
+
+Vì natri là cation có hoạt tính thẩm thấu chính trong dịch ngoại bào (ECF), tổng hàm lượng natri trong cơ thể quyết định thể tích ECF. Sự thiếu hụt hoặc thừa tổng lượng natri trong cơ thể gây ra
+
+giảm thể tích
+
+hoặc là
+
+quá tải thể tích
+
+ECF. Nồng độ natri huyết thanh không nhất thiết phản ánh tổng lượng natri trong cơ thể. (Xem thêm
+
+Cân bằng muối nước
+
+.)
+
+Chế độ ăn uống và bài tiết qua thận điều chỉnh lượng natri trong cơ thể. Khi tổng lượng natri và thể tích ECF thấp, thận sẽ tăng cường giữ natri. Khi tổng lượng natri và thể tích ECF cao, sự bài tiết natri (natri niệu) tăng lên dẫn đến thể tích giảm.
+
+Sự thải trừ natri của thận có thể được điều chỉnh khoảng rộng để phù hợp với lượng natri. Sự bài tiết natri của thận đòi hỏi phải cung cấp natri cho thận và do đó phụ thuộc vào lưu lượng máu đến thận và mức lọc cầu thận (GFR). Do đó, bài tiết natri không đủ có thể là thứ phát do giảm lưu lượng máu qua thận, như trong
+
+suy tim
+
+hoặc
+
+bệnh thận mạn tính (CKD)
+
+.
+
+Công cụ tính toán lâm sàng
+
+Ước lượng mức lọc cầu thận theo phương trình CKD-EPI
+
+Trục renin-angiotensin-aldosterone
+
+Trục renin-angiotensin-aldosterone là cơ chế điều tiết chính của sự bài tiết natri tại thận. Ở trạng thái thiếu thể tích, GFR và việc cung cấp
+
+natri clorua
+
+đến các nephron đầu xa giảm, gây giải phóng renin. Renin phân cắt angiotensinogen (cơ chất renin) để tạo thành angiotensin I. Enzym chuyển đổi angiotensin (ACE) sau đó phân tách angiotensin I thành
+
+angiotensin II
+
+.
+
+Angiotensin II
+
+thực hiện như sau:
+
+Tăng giữ natri bằng cách giảm lượng natri được lọc và tăng khả năng tái hấp thu natri trong ống lượn gần
+
+Tăng huyết áp (do hoạt động tăng huyết áp trực tiếp)
+
+Tăng sự khát
+
+Giảm sự bài tiết nước trực tiếp
+
+Kích thích vùng vỏ thượng thận để tiết aldosterone, làm tăng sự hấp thụ lại natri thông qua nhiều cơ chế tại thận
+
+Angiotensin I cũng có thể được chuyển hóa thành angiotensin III, chất này kích thích giải phóng aldosterone nhiều như
+
+angiotensin II
+
+nhưng có tác dụng tăng huyết áp ít hơn nhiều. Sự giải phóng Aldosterone cũng được kích thích bởi
+
+tăng kali máu
+
+.
+
+Các yếu tố lợi niệu natri khác
+
+Một số yếu tố lợi niệu natri khác đã được xác định, bao gồm peptide lợi niệu natri tâm nhĩ (ANP), peptide lợi niệu natri não (BNP), và peptide lợi niệu natri loại C (CNP).
+
+ANP
+
+được tiết ra bởi các mô tâm nhĩ. Nồng độ tăng trong đáp ứng đối với quá tải thể tích ECF (ví dụ,
+
+suy tim
+
+,
+
+bệnh thận mạn tính
+
+,
+
+xơ gan
+
+với cổ trướng) và
+
+tăng aldosteron nguyên phát
+
+và ở một số bệnh nhân
+
+tăng huyết áp
+
+ngyên phát. Tình trạng giảm đã xảy ra ở một nhóm nhỏ bệnh nhân bị
+
+hội chứng thận hư
+
+được cho là có giảm thể tích ECF. Nồng độ cao làm tăng bài tiết natri và tăng GFR ngay cả khi huyết áp thấp.
+
+BNP
+
+được tổng hợp chủ yếu ở tâm nhĩ và tâm thất trái và có sự kích hoạt và tác dụng tương tự như ANP. Các xét nghiệm BNP có thể tin cậy. Nồng độ BNP cao được sử dụng để chẩn đoán quá tải thể tích.
+
+CNP,
+
+trái ngược với ANP và BNP, chủ yếu là giãn mạch.
+
+Thiếu và thừa natri
+
+Thiếu hụt natri do lượng natri ăn vào không đủ cộng với mất bất thường qua da, đường tiêu hoá, hoặc thận (duy trì natri trong thận bị suy giảm). Việc bảo tồn natri ở thận bị suy giảm có thể do
+
+bệnh thận nguyên phát
+
+,
+
+suy tuyến thượng thận
+
+hoặc điều trị bằng thuốc lợi tiểu.
+
+Quá tải natri do lượng natri đưa vào cao hơn bài tiết; tuy nhiên, bởi vì thận bình thường có thể thải ra một lượng lớn natri, quá tải natri thường phản ánh sự khiếm khuyết trong điều chỉnh lưu lượng máu đến thận và bài tiết natri (ví dụ như
+
+suy tim
+
+,
+
+xơ gan
+
+, hoặc
+
+bệnh thận mạn tính
+
+).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

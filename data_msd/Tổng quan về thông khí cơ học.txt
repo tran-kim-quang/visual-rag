@@ -1,0 +1,837 @@
+TIÊU ĐỀ: Tổng quan về thông khí cơ học
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/suy-hô-hấp-và-thông-khí-cơ-học/tổng-quan-về-thông-khí-cơ-học
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về thông khí cơ học
+
+Theo
+
+Bhakti K. Patel
+
+,
+
+MD
+
+,
+
+University of Chicago
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v926925_vi
+
+Bộ máy hô hấp
+
+|
+
+Cách thức và phương thức thông khí cơ học
+
+|
+
+An thần và cảm giác thoải mái trong thông khí cơ học
+
+|
+
+Các biến chứng của thông gió cơ học và các biện pháp bảo vệ
+
+|
+
+Thông khí cơ học có thể
+
+Không xâm lấn
+
+, liên quan đến các loại mặt nạ
+
+Xâm nhập, bao gồm
+
+đặt nội khí quản
+
+Lựa chọn và sử dụng các kỹ thuật thích hợp đòi hỏi sự hiểu biết về cơ học hô hấp.
+
+Chỉ định
+
+Có nhiều chỉ định đặt nội khí quản và thở máy (xem bảng
+
+Các tình huống cần kiểm soát đường thở
+
+), nhưng nói chung, thở máy cần phải được xem xét khi có dấu hiệu lâm sàng hoặc dấu hiệu xét nghiệm cho thấy bệnh nhân không thể duy trì đường thở hoặc cung cấp đủ oxy hoặc thông khí.
+
+Kết quả
+
+bao gồm
+
+Nhịp thở
+
+>
+
+30/phút
+
+Không có khả năng duy trì độ bão hòa oxy trong động mạch
+
+>
+
+90% mặc dù đã sử dụng các chiến lược oxy không xâm lấn (NIV), kể cả oxy lưu lượng cao
+
+pH
+
+<
+
+7,25
+
+Áp suất riêng phần của carbon dioxide (PaCO2) > 50 mm Hg (trừ khi mạn tính và ổn định)
+
+Quyết định bắt đầu thông khí cơ học phải dựa trên đánh giá lâm sàng, xem xét toàn bộ tình trạng lâm sàng và tiêu chí số không đơn giản. Tuy nhiên, thông khí cơ học không nên bị trì hoãn cho đến khi bệnh nhân ở trạng thái cực hạn. Một số bệnh nhân có thể được điều trị bằng thông khí không xâm lấn, chẳng hạn như
+
+thông khí áp lực dương không
+
+xâm lấn, thay vì thở máy.
+
+Bộ máy hô hấp
+
+Nhịp thở tự nhiên bình thường tạo ra áp lực âm trong khoang màng phổi, tạo ra một chênh lệch áp suất giữa khí quyển và phế nang, làm cho không khí chảy vào trong. Trong thông khí cơ học, gradient áp suất gây ra bởi tăng áp lực (dương) của nguồn khí đi vào.
+
+Áp lực đỉnh đường thở
+
+được đo tại điểm đầu đường thở (Pao) và thường được hiển thị trên các máy thở. Nó đại diện cho tổng áp suất cần thiết để đẩy một thể tích khí vào phổi và bao gồm các áp suất do sức cản dòng khí hít vào (áp suất điện trở), lực đàn hồi của phổi và thành ngực (áp suất do đàn hồi) và áp suất phế nang hiện diện ở thời điểm bắt đầu nhịp thở (áp lực dương cuối thì thở ra [PEEP] – xem hình
+
+Các thành phần của áp suất đường thở
+
+). Vì vậy,
+
+Sức cản
+
+được sinh ra từ áp lực chu vi và luồng không khí. Ở một bệnh nhân đang được điều trị bằng thở máy, sức cản đối với luồng khí xảy ra trong bộ dây máy thở, ống nội khí quản và quan trọng nhất là đường thở của bệnh nhân. (CHÚ Ý: Ngay cả khi những yếu tố này là không đổi, sự gia tăng dòng khí làm tăng sức cản.)
+
+Các thành phần của áp lực đường thở trong quá trình thông khí cơ học, được minh họa bằng nghiệm pháp tạm ngưng hít vào
+
+PEEP
+
+=
+
+áp lực dương cuối kỳ thở ra.
+
+Áp lực đàn hồi
+
+sinh ra bởi sự co lại do đàn hồi của phổi, thành ngực (elastance) và thể tích khí cung cấp. Đối với một thể tích nhất định, áp lực đàn hồi tăng lên do độ cứng của phổi tăng lên (như trong xơ phổi) hoặc di chuyển hạn chế của thành ngực hoặc cơ hoành (như trong
+
+cổ trướng
+
+căng hoặc
+
+béo phì bệnh lý
+
+). Vì sự đàn hồi là ngược lại của sự giãn nở, độ đàn hồi cao tương tự như độ giãn nở thấp.
+
+Áp lực cuối kỳ thở ra
+
+trong phế nang thường bằng áp suất khí quyển. Tuy nhiên, khi các phế nang bị ứ khí do tắc nghẽn đường thở, hạn chế luồng thông khí, hoặc thời gian thở ra rút ngắn, áp lực cuối kỳ thở ra có thể dương so với khí quyển. Áp lực này được gọi là PEEP nội tại hoặc PEEP tự động để phân biệt với PEEP áp dụng bên ngoài (điều trị), được tạo ra bằng cách điều chỉnh máy thở hoặc bằng cách đặt mặt nạ vừa khít để tạo áp lực dương trong suốt chu kỳ hô hấp.
+
+Bất cứ khi nào tăng áp lực đỉnh (ví dụ
+
+>
+
+25 cm H2O) nên nhanh chóng đo áp lực cuối kỳ thở vào (áp lực cao nguyên) bằng cách giữ kỳ thở vào để xác định sự đóng góp tương đối của sức cản và áp lực đàn hồi. Việc giữ van thở ra đóng lại thêm 0,3 đến 0,5 giây sau khi thở vào, sẽ trì hoãn thì thở ra. Trong thời gian này, áp lực đường thở giảm xuống từ giá trị đỉnh do dòng khí dừng lại. Áp lực cuối thì thở vào phản ánh áp lực đàn hồi khi PEEP được loại bỏ (giả sử bệnh nhân không thực hiện các hoạt động thở vào hay co cơ thở ra tại thời điểm đo). Sự khác biệt giữa áp lực đỉnh và áp lực cao nguyên là áp lực cản.
+
+Tăng sức cản
+
+(ví dụ,
+
+>
+
+10 cm H2O) có thể do ống nội khí quản đã bị xoắn gập hoặc bịt kín bằng các chất tiết, có khối u trong dạ dày hoặc co thắt phế quản.
+
+Tăng áp lực đàn hồi
+
+(ví dụ
+
+>
+
+10 cm H2O) gợi ý giảm sự tuân thủ của phổi
+
+Phù, xơ hóa, hoặc
+
+xẹp phổi
+
+Lớn
+
+tràn dịch màng phổi
+
+,
+
+tràn khí màng phổi
+
+hoặc xơ cơ
+
+Hạn chế ngoài phổi có thể do bỏng chu vi chi thể hoặc một biến dạng khác ở thành ngực, cổ trướng, mang thai hoặc béo phì bệnh lý
+
+Một thể tích thông khí quá lớn so với lượng phổi được thông khí (ví dụ, một thể tích thông thường được chuyển đến một phổi duy nhất vì ống nội khí quản bị sai vị trí)
+
+PEEP nội tại
+
+(PEEP tự động) ở bệnh nhân thụ động có thể được đo thông qua nghiệm pháp tạm ngừng cuối thì thở ra. Ngay trước thì thở vào, van thở ra đóng trong 2 giây. Dòng ngừng, loại bỏ áp lực trở kháng; áp suất kết quả phản ứng áp lực phế nang vào cuối kỳ thở ra (PEEP nội sinh). Mặc dù phép đo chính xác phụ thuộc vào bệnh nhân thở theo máy hoàn toàn, nhưng không được phép sử dụng sự phong tỏa thần kinh cơ cho mục đích duy nhất là đo PEEP nội sinh.
+
+Một phương pháp phi định lượng xác định PEEP nội sinh là kiểm tra việc dò tìm dòng thở ra. Nếu dòng thở ra liên tục cho đến nhịp thở tiếp theo hoặc ngực của bệnh nhân không nghỉ ngơi trước khi có nhịp thở tiếp chứng tỏ có PEEP nội sinh. Hậu quả của PEEP nội sinh tăng cao bao gồm tăng công thở và giảm sự trở về tĩnh mạch dẫn đến có thể làm giảm cung lượng tim và hạ huyết áp.
+
+Việc xuất hiện PEEP nội sinh nên tìm kiếm các nguyên nhân gây tắc nghẽn đường thông khí (ví dụ, chất tiết đường thở, giảm độ đàn hồi, co thắt phế quản); tuy nhiên, thông khí phút cao (
+
+>
+
+20 L/phút) có thể gây PEEP nội sinh ở bệnh nhân không bị tắc nghẽn đường thông khí. Nếu nguyên nhân là giới hạn luồng thông khí, PEEP nội sinh có thể được giảm đi bằng cách rút ngắn thời gian thở vào (làm tăng dòng thở vào) hoặc giảm nhịp thở, do đó cho phép một phần lớn chu kỳ hô hấp được sử dụng cho quá trình thở ra.
+
+Cách thức và phương thức thông khí cơ học
+
+Các chế độ của máy thở cơ học bao gồm
+
+Volume cycled: Cung cấp một thể tích không đổi với mỗi nhịp thở (áp lực có thể thay đổi)
+
+Pressure cycled: Cung cấp áp suất không đổi trong mỗi nhịp thở (thể tích phân phối có thể thay đổi)
+
+Sự kết hợp của volume và pressure cycled
+
+Mode thở hỗ trợ - kiểm soát (A/C) là mode thở cơ học duy trì tần số thở tối thiểu bất kể bệnh nhân có nhịp thở tự nhiên hay không được gọi là hỗ trợ-kiểm soát (A/C). Do áp lực và thể tích được liên kết trực tiếp bởi đường cong áp lực-thể tích, thể tích cho trước sẽ tương ứng với áp lực cụ thể và ngược lại, bất kể máy thở đó là áp lực thay thể tích theo chu kỳ.
+
+Điều chỉnh cài đặt máy thở khác nhau với chế độ nhưng bao gồm
+
+Tần số thở
+
+Thể tích lưu thống (TV)
+
+Độ nhạy (cần phải có để kích hoạt thông khí)
+
+Tốc độ dòng
+
+Dạng sóng dòng chảy
+
+Tỷ lệ hít vào/thở ra (I/E)
+
+Thông khí theo thể tích
+
+Thông khí theo thể tích đưa một thể tích lưu thông được cài đặt sẵn. Chế độ này bao gồm
+
+Kiểm soát thể tích (V/C)
+
+Thông khí bắt buộc đồng bộ (SIMV)
+
+Áp lực đường thở không cố định nhưng thay đổi tùy theo sức cản, độ đàn hồi của hệ thống hô hấp và với tốc độ dòng được cài đặt.
+
+V/C
+
+là cách thức đơn giản và hiệu quả nhất để cung cấp thông khí cơ học đầy đủ. Trong chế độ này, mỗi lần nỗ lực thở vào vượt quá ngưỡng kích hoạt cài đặt sẽ dẫn đến việc cung cấp một thể tích cố định. Nếu bệnh nhân không kích hoạt máy thở thường xuyên, máy thở sẽ khởi động nhịp thở, đảm bảo tần số thở tối thiểu mong muốn.
+
+SIMV
+
+cũng cung cấp nhịp thở với tốc độ và thể tích được đồng bộ với những nỗ lực của bệnh nhân. Ngược lại với V/C, những nỗ lực của bệnh nhân trên mức tần số thở được thiết lập sẽ không được hỗ trợ, mặc dù van thở vào mở ra để thở. Chế độ này vẫn phổ biến, mặc dù các nghiên cứu chỉ ra rằng nó không cung cấp hỗ trợ máy thở hoàn toàn như V/C (
+
+1
+
+), không tạo điều kiện thuận lợi cho bệnh nhân thôi thở máy (
+
+2
+
+) và không cải thiện cảm giác thoải mái của bệnh nhân.
+
+Thông khí áp lực
+
+Thông khí áp lực vòng lặp cung cấp áp lực thì hít vào. Chế độ này bao gồm
+
+Thông khí áp lực (PCV)
+
+Thông khí hỗ trợ áp lực (PSV)
+
+Các phương pháp không xâm lấn được áp dụng thông qua một mặt nạ kín (một số loại có sẵn)
+
+Do đó, thể tích thông khí thay đổi tùy thuộc vào sức cản và độ đàn hồi của hệ thống hô hấp. Trong chế độ này, thay đổi cơ học hệ hô hấp có thể dẫn đến những thay đổi không đáng kể lượng thông khí phế nang. Vì nó hạn chế áp lực căng của phổi nên về mặt lý thuyết, chế độ này có thể mang lại lợi ích cho những bệnh nhân mắc
+
+hội chứng suy hô hấp cấp tính
+
+(ARDS); tuy nhiên, không có lợi thế lâm sàng rõ ràng nào so với V/C đã được chứng minh (
+
+3
+
+) và nếu thể tích do PCV cung cấp giống như thể tích do V/C cung cấp thì áp lực căng sẽ giống nhau.
+
+Thông khí kiểm soát áp lực
+
+là loại A/C có áp lực chu kỳ. Mỗi nỗ lực hít vượt quá ngưỡng nhạy cảm sẽ nhận một hỗ trợ toàn bộ áp lực duy trì trong thời gian cố định. Tần số thở tối thiểu được duy trì.
+
+Trong
+
+thông khí hỗ trợ áp lực,
+
+tần số thở tối thiểu không được thiết lập; tất cả các nhịp thở được kích hoạt bởi bệnh nhân. Máy thở hỗ trợ bệnh nhân bằng cách cung cấp áp lực tiếp tục ở mức không đổi cho đến khi dòng thở vào của bệnh nhân giảm xuống dưới mức được xác định bởi thuật toán đặt sẵn. Vì vậy, một nỗ lực thở dài hơn hoặc sâu hơn của bệnh nhân dẫn đến một thể tích thông khí lớn hơn. Chế độ này thường được sử dụng để giải phóng bệnh nhân khỏi thở máy bằng cách cho phép bệnh nhân sử dụng công thở nhiều hơn. Các nghiên cứu chỉ ra rằng phương pháp này thành công hơn các phương pháp khác trong việc ngừng thở máy (
+
+4
+
+).
+
+Cài đặt máy thở
+
+Cài đặt thông khí phù hợp với tình trạng nền của bệnh nhân, nhưng có các nguyên tắc cơ bản như sau.
+
+Thông khí phút được thiết lập theo
+
+Thể tích lưu thống (TV)
+
+Tần số thở
+
+Khi thể
+
+tích khí lưu thông
+
+được đặt quá cao, sẽ có nguy cơ căng phồng quá mức; khi nó được đặt quá thấp, nó khiến cho
+
+xẹp phổi
+
+.
+
+Nhịp thở
+
+quá cao có nguy cơ tăng thông khí và
+
+nhiễm kiềm hô hấp
+
+cùng với thời gian thở ra không đủ và PEEP tự động; tần số quá thấp có nguy cơ thông khí phút không đủ và
+
+nhiễm toan hô hấp
+
+.
+
+Thể tích khí lưu thông thấp từ 6 đến 8 mL/kg trọng lượng cơ thể lý tưởng (IBW) được khuyến nghị ban đầu cho bệnh nhân mắc
+
+hội chứng suy hô hấp cấp tính
+
+(ARDS – xem thanh bên
+
+Quản lý máy thở ban đầu trong ARDS
+
+). Thể tích khí lưu thông thấp cũng thích hợp ở một số bệnh nhân có cơ chế phổi bình thường (
+
+5
+
+,
+
+6
+
+,
+
+7
+
+), chẳng hạn như bệnh nhân bị đợt cấp của
+
+COPD
+
+(bệnh phổi tắc nghẽn mạn tính) hoặc
+
+hen suyễn
+
+hoặc những người thở máy trong quá trình phẫu thuật (
+
+8
+
+,
+
+9
+
+). Các chiến lược thể tích khí lưu thông thấp trong phẫu thuật thường bao gồm tăng căng phồng định kỳ. Các bệnh nhân khác (ví dụ như những người bị chấn thương, phù nề, toan nặng) có thể bắt đầu với thể tích cao hơn một chút (ví dụ, 8 đến 10 mL/kg).
+
+IBW thay vì trọng lượng cơ thể thực tế được sử dụng để xác định thể tích khí lưu thông thích hợp cho bệnh nhân mắc bệnh phổi và những người đang thở máy.
+
+Độ nhạy
+
+sẽ điều chỉnh mức áp lực âm cần thiết để kích hoạt máy thở. Một thiết lập thông thường là -2 cm H2O. Cài đặt quá cao (ví dụ: âm hơn –2 cm H2O) khiến bệnh nhân yếu không thể kích hoạt nhịp thở. Cài đặt quá thấp (ví dụ, âm dưới -2 cm H2O) có thể dẫn đến thông khí quá mức bằng cách làm cho máy thở có chu kỳ tự động. Bệnh nhân có mức
+
+PEEP tự động
+
+cao (ví dụ: những người mắc bệnh COPD, hen suyễn) có thể gặp khó khăn khi hít vào đủ sâu để đạt được áp lực trong đường thở đủ âm.
+
+Tỷ lệ I:E
+
+(tỷ lệ hít vào: thở ra) là tỷ lệ thời gian dành cho việc hít vào so với thời gian thở ra. Tỷ lệ I:E có thể được điều chỉnh trong một số chế độ thông khí. Một thiết lập bình thường cho bệnh nhân với cơ học bình thường là 1:3. Bệnh nhân
+
+hen suyễn
+
+hoặc đợt cấp của
+
+COPD
+
+cần phải có tỷ lệ 1:4 hoặc thậm chí nhiều hơn để hạn chế mức độ PEEP tự động.
+
+Tốc độ dòng hít vào
+
+có thể được điều chỉnh ở một số chế độ thông khí (tức là có thể điều chỉnh tốc độ dòng hoặc tỷ lệ I:E, không phải cả hai). Lưu lượng hít vào thường nên được đặt ở khoảng 60 L/phút nhưng có thể tăng lên tới 120 L/phút đối với những bệnh nhân bị hạn chế luồng khí để tạo điều kiện cho bệnh nhân có nhiều thời gian thở ra hơn, do đó hạn chế PEEP tự động.
+
+FiO2
+
+(Phân áp oxy khí thở vào) ban đầu được đặt ở mức 1,0 (100% oxy) và sau đó giảm đến mức thấp nhất cần thiết để duy trì sự oxy hóa đầy đủ.
+
+PEEP
+
+có thể được áp dụng trong bất kỳ chế độ thông khí. PEEP làm tăng thể tích phổi cuối kỳ thở ra và giảm đóng phế nang ở cuối kỳ thở ra. Hầu hết các bệnh nhân thở máy đều có thể hưởng lợi từ việc sử dụng PEEP ở 5 cm H2O để hạn chế xẹp phổi thường đi kèm với nội khí quản, an thần, giãn cơ, và/hoặc nằm ngửa. Ở những bệnh nhân bị tắc nghẽn, PEEP được áp dụng bởi máy thở có thể làm giảm công thở liên quan đến PEEP tự động. Mức cao hơn của PEEP cải thiện oxy hóa trong các chứng rối loạn như
+
+phù phổi
+
+do tim và
+
+ARDS
+
+. PEEP cho phép sử dụng mức FiO2 thấp hơn trong khi vẫn giữ được đủ oxy hóa động mạch. Tác dụng này có thể quan trọng trong việc hạn chế thương tổn phổi do tiếp xúc kéo dài với FIO2 cao (
+
+≥
+
+0,6). Tuy nhiên, nếu PEEP làm tăng áp lực trong lồng ngực và nếu quá cao có thể cản trở sự hồi lưu của tĩnh mạch, gây hạ huyết áp ở bệnh nhân bị giảm thể tích máu, có thể làm giảm hậu tải thất trái và có thể làm căng quá mức các phần của phổi, do đó gây ra thương tổn phổi liên quan đến máy thở (VALI). Ngược lại, nếu PEEP quá thấp, nó có thể dẫn đến việc mở và đóng phế nang theo chu kỳ, điều này cũng có thể làm VALI do lực biến dạng lặp đi lặp lại. Do đường cong áp lực-thể tích thay đổi ở các vùng khác nhau của phổi, nên đối với một PEEP nhất định, mức tăng thể tích ở các vùng phụ thuộc sẽ thấp hơn so với các vùng không phụ thuộc của phổi.
+
+Công cụ tính toán lâm sàng
+
+Cân nặng lý tưởng của cơ thể
+
+Tư thế bệnh nhân
+
+Thông khí cơ học thường được thực hiện với bệnh nhân ở tư thế nằm ngửa đầu cao. Tuy nhiên, ở những bệnh nhân ARDS, việc nằm sấp có thể dẫn đến sự oxy hóa tốt hơn chủ yếu bằng cách tạo ra sự thông khí đồng đều hơn. Thông khí đồng đều làm giảm lượng phổi không được thông khí (tức là lượng shunt), thường lớn nhất ở vùng phổi lưng và đuôi, trong khi có ảnh hưởng không đáng kể đến sự phân bố tưới máu (
+
+10
+
+).
+
+Mặc dù nhiều nhà nghiên cứu ủng hộ thông khí nằm sấp ở những bệnh nhân ARDS đòi hỏi mức PEEP cao (ví dụ,
+
+>
+
+12 cm H2O) và FiO2 (ví dụ,
+
+>
+
+0,6), cho đến gần đây các thử nghiệm không cho thấy bất kỳ giảm tỷ lệ tử vong với chiến lược này (tuy nhiên, những thử nghiệm này không đủ mạnh và có các vấn đề thiết kế nghiên cứu khác). Một thử nghiệm tiến cứu, đa trung tâm, lớn tiếp theo (
+
+11
+
+) đã đánh giá những bệnh nhân mắc ARDS nặng vừa phải (PaO2:FIO2
+
+<
+
+150 mm Hg trên FIO2
+
+≥
+
+0,6, PEEP > 5 cm H2O) và những người có thể tích khí lưu thông khoảng 6 mL/kg. Những bệnh nhân này được phân nhóm ngẫu nhiên để nằm sấp
+
+≥
+
+16 tiếng hoặc được để ở tư thế nằm ngửa trong quá trình thông khí. Nghiên cứu bao gồm tổng cộng 466 bệnh nhân, đã xác định tỷ lệ tử vong trong 28 ngày và 90 ngày thấp hơn ở những bệnh nhân trong nhóm nằm sấp mà không có tỷ lệ biến chứng liên quan đáng kể. Những cải tiến trong việc lựa chọn bệnh nhân và phác đồ xử trí được cho là mang lại kết quả tốt hơn so với các nghiên cứu trước đó (
+
+12
+
+).
+
+Tư thế nằm sấp ở những bệnh nhân mắc COVID-19 và tỉnh táo, thở tự nhiên, bị thiếu oxy và đang sử dụng oxy qua ống thông mũi lưu lượng cao đã làm giảm tình trạng thiếu oxy và trong một thử nghiệm lâm sàng lớn, đã giảm nguy cơ thất bại điều trị được xác định là cần đặt nội khí quản hoặc tử vong trong vòng 28 ngày (
+
+13
+
+).
+
+Nằm sấp là chống chỉ định ở những bệnh nhân có bất thường cột sống hoặc tăng áp lực nội sọ. Tư thế này cũng cần được nhân viên của khoa hồi sức tích cực chú ý cẩn thận để tránh các biến chứng, như xoắn gập ống nội khí quản hoặc các catheter mạch máu.
+
+Tài liệu tham khảo về phương tiện và phương thức
+
+1.
+
+Marini JJ, Smith TC, Lamb VJ
+
+: External work output and force generation during synchronized intermittent mechanical ventilation. Effect of machine assistance on breathing effort.
+
+Am Rev Respir Dis
+
+138(5):1169–1179, 1988. doi:10.1164/ajrccm/138.5.1169
+
+2.
+
+Esteban A, Frutos F, Tobin MJ, et al
+
+: A comparison of four methods of weaning patients from mechanical ventilation. Spanish Lung Failure Collaborative Group.
+
+N Engl J Med
+
+1995;332(6):345–350, 1995. doi:10.1056/NEJM199502093320601
+
+3.
+
+Rittayamai N, Katsios CM, Beloncle F, Friedrich JO, Mancebo J, Brochard L
+
+. Pressure-Controlled vs Volume-Controlled Ventilation in Acute Respiratory Failure: A Physiology-Based Narrative and Systematic Review.
+
+Chest
+
+148(2):340–355, 2015. doi:10.1378/chest.14-3169
+
+4.
+
+Subirà C, Hernández G, Vázquez A, et al
+
+: Effect of Pressure Support vs T-Piece Ventilation Strategies During Spontaneous Breathing Trials on Successful Extubation Among Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial [published correction appears in
+
+JAMA
+
+2019 Aug 20;322(7):696].
+
+JAMA
+
+321(22):2175–2182, 2019. doi:10.1001/jama.2019.7234
+
+5.
+
+Serpa Neto A, Cardoso SO, Manetta JA, et al
+
+: Association between use of lung-protective ventilation with lower tidal volumes and clinical outcomes among patients without acute respiratory distress syndrome: A meta-analysis.
+
+JAMA
+
+308:1651–1659, 2012. doi: 10.1001/jama.2012.13730
+
+6.
+
+Guay J, Ochroch EA, Kopp S
+
+: Intraoperative use of low volume ventilation to decrease postoperative mortality, mechanical ventilation, lengths of stay and lung injury in adults without acute lung injury.
+
+Cochrane Database Syst Rev
+
+Jul; 2018(7): CD011151, 2018. doi: 10.1002/14651858.CD011151.pub3
+
+7.
+
+Neto AS, Simonis FD, Barbas CS, et al
+
+: Lung-protective ventilation with low tidal volumes and the occurrence of pulmonary complications in patients without acute respiratory distress syndrome: A systematic review and individual patient data analysis.
+
+Crit Care Med
+
+43:2155–2163, 2015. doi: 10.1097/CCM.0000000000001189
+
+8.
+
+Futier E, Constantin JM, Paugam-Burtz C, et al
+
+: A trial of intraoperative low-tidal-volume ventilation in abdominal surgery.
+
+N Engl J Med
+
+369:428–437, 2013. doi: 10.1056/NEJMoa1301082
+
+9.
+
+Yang M, Ahn HJ, Kim K, et al
+
+: Does a protective ventilation strategy reduce the risk of pulmonary complications after lung cancer surgery? A randomized controlled trial.
+
+Chest
+
+139:530–537, 2011. doi: 10.1378/chest.09-2293
+
+10.
+
+Richter T, Bellani G, Scott Harris R, et al
+
+: Effect of prone position on regional shunt, aeration, and perfusion in experimental acute lung injury.
+
+Am J Respir Crit Care Med
+
+172(4):480–487, 2005. doi:10.1164/rccm.200501-004OC
+
+11.
+
+Guérin C, Reignier J, Richard JC, et al
+
+: Prone positioning in severe acute respiratory distress syndrome.
+
+N Engl J Med
+
+368(23):2159–2168, 2013. doi: 10.1056/NEJMoa1214103.
+
+12.
+
+Scholten EL, Beitler JR, Prisk GK, et al
+
+: Treatment of ARDS with prone positioning.
+
+Chest
+
+151:215–224, 2017. doi: 10.1016/j.chest.2016.06.032. Epub 2016 Jul 8
+
+13.
+
+Ehrmann S, Li J, Ibarra-Estrada M, et al
+
+: Awake prone positioning for COVID-19 acute hypoxaemic respiratory failure: a randomised, controlled, multinational, open-label meta-trial.
+
+Lancet Respir Med
+
+9(12):1387–1395, 2021. doi: 10.1016/S2213-2600(21)00356-8
+
+An thần và cảm giác thoải mái trong thông khí cơ học
+
+Mặc dù nhiều bệnh nhân có thể thở máy qua ống nội khí quản mà không dùng thuốc an thần, một số bệnh nhân cần
+
+dùng thuốc an thần theo đường tĩnh mạch
+
+(ví dụ: propofol, lorazepam, midazolam)
+
+và thuốc giảm đau
+
+(ví dụ: morphine, fentanyl) để giảm thiểu căng thẳng và lo lắng. Những loại thuốc này cũng có thể làm giảm tiêu hao năng lượng ở một mức độ nào đó, do đó làm giảm việc sản sinh ra carbon dioxide và tiêu thụ oxy. Liều nên được điều chỉnh theo mức mong muốn, được hướng dẫn bởi các hệ thống chấm điểm an thần/gây mê tiêu chuẩn (ví dụ,
+
+Thang điểm kích thích – an thần Richmond
+
+,
+
+Thang điểm an thần – kích thích Riker
+
+). Bệnh nhân thở máy cho ARDS thường đòi hỏi mức an thần và giảm đau cao hơn. Việc sử dụng propofol trong thời gian hơn 24 đến 48 giờ (ví dụ, mỗi 48 giờ) đòi hỏi phải theo dõi định kỳ mức triglyceride huyết thanh. Có bằng chứng cho thấy thuốc an thần đường tĩnh mạch được sử dụng liên tục sẽ kéo dài thời gian thở máy (
+
+1
+
+). Vì vậy, mục đích là đạt được liều an thần đầy đủ không quá nhiều, có thể thực hiện bằng cách sử dụng thuốc an thần liên tục với những thời điểm gián đoạn hàng ngày hoặc bằng cách truyền không liên tục.
+
+Các thuốc phong bế thần kinh cơ
+
+không được sử dụng thường xuyên ở những bệnh nhân thở máy vì nguy cơ yếu cơ thần kinh kéo dài và cần phải dùng thuốc an thần nặng liên tục; tuy nhiên, một nghiên cứu đã cho thấy tỷ lệ tử vong giảm ở thời điểm 90 ngày ở những bệnh nhân mắc ARDS sớm, nặng, dùng phong bế thần kinh cơ trong 48 tiếng (
+
+2
+
+). Thật không may, những phát hiện này đã không được lặp lại trong một nghiên cứu tiếp theo lớn hơn về phong bế thần kinh cơ sớm trong ARDS, để so sánh nó với thuốc an thần nhẹ hơn mà không phong bế thần kinh cơ (
+
+3
+
+). Vì vậy, gây liệt cơ thường quy không được khuyến cáo. Tuy nhiên, có một số bệnh nhân có thể được hưởng lợi từ việc phong bế thần kinh cơ, bao gồm cả những bệnh nhân không thể chịu đựng được một số chế độ thở máy tinh vi và phức tạp hơn và để ngăn ngừa run ở những bệnh nhân được sử dụng phương pháp làm mát sau khi ngừng tim.
+
+Tài liệu tham khảo an thần và giảm đau
+
+1.
+
+Kollef MH, Levy NT, Ahrens TS, Schaiff R, Prentice D, Sherman G
+
+: The use of continuous i.v. sedation is associated with prolongation of mechanical ventilation.
+
+Chest
+
+114(2):541–548, 1998. doi: 10.1378/chest.114.2.541
+
+2.
+
+Papazian L, Forel JM, Gacouin A, et al
+
+: Neuromuscular blockers in early acute respiratory distress syndrome.
+
+N Engl J Med
+
+363:1107–1116, 2010. doi: 10.1056/NEJMoa1005372
+
+3.
+
+National Heart, Lung, and Blood Institute PETAL Clinical Trials Network, Moss M, Huang DT, Brower RG, et al
+
+: Early neuromuscular blockade in the acute respiratory distress syndrome.
+
+N Engl J Med
+
+380(21):1997–2008, 2019. doi:10.1056/NEJMoa1901686
+
+Các biến chứng của thông gió cơ học và các biện pháp bảo vệ
+
+Các biến chứng của thở máy có thể được chia thành
+
+Đặt nội khí quản
+
+Thông gió cơ khí chính nó
+
+Bất động kéo dài
+
+Biến chứng của đặt nội khí quản
+
+Có ống nội khí quản gây ra nguy cơ
+
+viêm xoang
+
+(tình trạng này hiếm khi có ý nghĩa lâm sàng),
+
+viêm phổi liên quan đến máy thở
+
+, hẹp khí quản, chấn thương dây thanh âm và rất hiếm gặp rò khí quản-thực quản hoặc rò khí quản-mạch máu.
+
+Hút khí quản có mủ ở bệnh nhân sốt có số lượng bạch cầu tăng cao
+
+>
+
+48 tiếng sau khi bắt đầu thông khí gợi ý
+
+viêm phổi liên quan đến máy thở
+
+.
+
+Các biến chứng của chính việc thở máy
+
+Các biến chứng của chính việc thở máy liên tục bao gồm
+
+Tràn khí màng phổi
+
+và túi khí
+
+Huyết áp thấp
+
+Ngộ độc oxy
+
+Tổn thương phổi liên quan đến máy thở
+
+Tràn khí màng phổi
+
+, bao gồm
+
+tràn khí màng phổi áp lực
+
+và túi khí là một nguy cơ, đặc biệt là thông khí ở áp lực cao. Nếu hạ huyết áp cấp tính phát triển ở bệnh nhân đang thở máy, đặc biệt là khi đi kèm với nhịp tim nhanh và/hoặc tăng đột ngột áp lực hít vào đỉnh, phải luôn nghĩ đến
+
+tràn khí màng phổi áp lực
+
+; bệnh nhân có những dấu hiệu như vậy cần phải được khám ngực và chụp X-quang ngực ngay lập tức (hoặc điều trị ngay lập tức nếu có xác nhận khi khám).
+
+Tuy nhiên, thông thường, hạ huyết áp là kết quả của mất trương lực giao cảm gây ra bởi thuốc an thần hoặc thuốc opioid được sử dụng để đặt nội khí quản và thông khí. Hạ huyết áp cũng có thể là do sự giảm trở về của tĩnh mạch do tăng cao áp lực trong lồng ngực ở bệnh nhân có PEEP cao hoặc ở những bệnh nhân có PEEP nội sinh cao do hen hoặc COPD. Nếu không có dấu hiệu thực thể nào gợi ý tràn khí màng phổi áp lực và nếu có thể có nguyên nhân gây hạ huyết áp liên quan đến thông khí, trong khi chờ chụp X-quang ngực di động, bệnh nhân có thể bị ngắt kết nối khỏi máy thở và được bóp bóng nhẹ nhàng bằng tay ở tốc độ 2 đến 3 nhịp thở/phút với 100% oxy trong khi truyền dịch (ví dụ: 500 đến 1000 mL nước muối sinh lý 0,9% ở người lớn, 20 mL/kg ở trẻ em). Có cải thiện ngay lập tức gợi ý nguyên nhân liên quan đến thông khí và cần điều chỉnh cài đặt máy thở cho phù hợp.
+
+Ngộ độc oxy
+
+đề cập đến những thay đổi viêm, thâm nhiễm phế nang, và cuối cùng, xơ hóa phổi có thể phát triển sau khi tiếp xúc lâu dài với FIO2 cao (ví dụ,
+
+>
+
+0,6). Độc tính vừa phụ thuộc vào nồng độ vừa phụ thuộc vào thời gian. Nên tránh FIO2
+
+>
+
+0,6 trừ khi cần để duy trì sự sống. FIO2
+
+<
+
+0,6 được dung nạp tốt trong thời gian dài.
+
+Tổn thương phổi liên quan đến máy thở
+
+(VALI), đôi khi được gọi là tổn thương phổi do máy thở, là tổn thương phế nang và/hoặc đường thở nhỏ liên quan đến thông khí cơ học. Các cơ chế có thể bao gồm sự căng phồng của phế nang (tức là chấn thương thể tích) và các lực tạo ra bởi sự mở và xẹp lại của phế nang (tức là xẹp phổi chấn thương), dẫn đến việc giải phóng các chất trung gian gây viêm, tích tụ dịch, giảm surfactant. Những chất trung gian gây viêm này có thể dẫn đến tổn thương phổi và cơ quan đầu xa (chấn thương sinh học).
+
+Ngọc trai & cạm bẫy
+
+Nếu hạ huyết áp cấp tính phát sinh trên bệnh nhân thở máy, đặc biệt là khi nó đi kèm với nhịp tim nhanh và/hoặc tăng đột ngột áp lực thở vào đỉnh, hãy nghi ngờ tràn khí màng phổi áp lực và xem xét việc thực hiện mở thông thành ngực bằng kim hoặc bằng ống thông ngay lập tức.
+
+Các biến chứng của bất động
+
+Bất động tương đối làm tăng nguy cơ bị bệnh thuyên tắc huyết khối tĩnh mạch (ví dụ,
+
+huyết khối tĩnh mạch sâu
+
+,
+
+thuyên tắc mạch phổi
+
+), tổn thương da và
+
+xẹp phổi
+
+. Ngoài ra, bất động có thể góp phần gây tàn tật kéo dài sau khi thở máy.
+
+Các biện pháp bảo vệ để giảm các biến chứng của thở máy
+
+Hầu hết các bệnh viện đều có các phác đồ chuẩn để giảm các biến chứng. Nâng đầu giường đến 30° làm giảm nguy cơ
+
+viêm phổi liên quan đến thở máy
+
+, và việc lăn trở thường xuyên của bệnh nhân mỗi 2 giờ làm giảm nguy cơ tổn thương da (xem
+
+phòng chống loét do tì đè
+
+).
+
+Tất cả các bệnh nhân được thở máy cần phải được
+
+điều trị dự phòng huyết khối tĩnh mạch sâu
+
+, hoặc heparin 5000 đơn vị tiêm dưới da 2 lần đến 3 lần mỗi ngày hoặc
+
+heparin
+
+trọng lượng phân tử thấp hoặc, nếu chống chỉ định
+
+heparin
+
+, thiết bị tạo áp lực tuần tự hoặc fondaparinux.
+
+Để ngăn ngừa xuất huyết tiêu hóa, bệnh nhân nên dùng thuốc chẹn H2 (ví dụ, famotidine 20 mg uống hoặc tiêm tĩnh mạch 2 lần/ngày) hoặc sucralfate (1 g uống trong bữa 4 lần một ngày). Thuốc ức chế bơm proton nên được dành riêng cho những bệnh nhân có chỉ định từ trước hoặc chảy máu đang hoạt động.
+
+Đánh giá dinh dưỡng định kỳ là bắt buộc và nên bắt đầu
+
+cho ăn bằng ống thông đường ruột
+
+nếu dự kiến phải thở máy liên tục.
+
+Cách hiệu quả nhất để giảm các biến chứng của thông khí cơ học là để hạn chế thời gian thở máy. Hàng ngày "dừng an thần" và các thử nghiệm thở tự nhiên giúp xác định thời điểm sớm nhất bệnh nhân có thể được
+
+giải phóng khỏi máy thở
+
+.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Bộ máy hô hấp ---
+
+Nhịp thở tự nhiên bình thường tạo ra áp lực âm trong khoang màng phổi, tạo ra một chênh lệch áp suất giữa khí quyển và phế nang, làm cho không khí chảy vào trong. Trong thông khí cơ học, gradient áp suất gây ra bởi tăng áp lực (dương) của nguồn khí đi vào.Áp lực đỉnh đường thởđược đo tại điểm đầu đường thở (Pao) và thường được hiển thị trên các máy thở. Nó đại diện cho tổng áp suất cần thiết để đẩy một thể tích khí vào phổi và bao gồm các áp suất do sức cản dòng khí hít vào (áp suất điện trở), lực đàn hồi của phổi và thành ngực (áp suất do đàn hồi) và áp suất phế nang hiện diện ở thời điểm bắt đầu nhịp thở (áp lực dương cuối thì thở ra [PEEP] – xem hìnhCác thành phần của áp suất đường thở). Vì vậy,Sức cảnđược sinh ra từ áp lực chu vi và luồng không khí. Ở một bệnh nhân đang được điều trị bằng thở máy, sức cản đối với luồng khí xảy ra trong bộ dây máy thở, ống nội khí quản và quan trọng nhất là đường thở của bệnh nhân. (CHÚ Ý: Ngay cả khi những yếu tố này là không đổi, sự gia tăng dòng khí làm tăng sức cản.)Các thành phần của áp lực đường thở trong quá trình thông khí cơ học, được minh họa bằng nghiệm pháp tạm ngưng hít vàoPEEP=áp lực dương cuối kỳ thở ra.Áp lực đàn hồisinh ra bởi sự co lại do đàn hồi của phổi, thành ngực (elastance) và thể tích khí cung cấp. Đối với một thể tích nhất định, áp lực đàn hồi tăng lên do độ cứng của phổi tăng lên (như trong xơ phổi) hoặc di chuyển hạn chế của thành ngực hoặc cơ hoành (như trongcổ trướngcăng hoặcbéo phì bệnh lý). Vì sự đàn hồi là ngược lại của sự giãn nở, độ đàn hồi cao tương tự như độ giãn nở thấp.Áp lực cuối kỳ thở ratrong phế nang thường bằng áp suất khí quyển. Tuy nhiên, khi các phế nang bị ứ khí do tắc nghẽn đường thở, hạn chế luồng thông khí, hoặc thời gian thở ra rút ngắn, áp lực cuối kỳ thở ra có thể dương so với khí quyển. Áp lực này được gọi là PEEP nội tại hoặc PEEP tự động để phân biệt với PEEP áp dụng bên ngoài (điều trị), được tạo ra bằng cách điều chỉnh máy thở hoặc bằng cách đặt mặt nạ vừa khít để tạo áp lực dương trong suốt chu kỳ hô hấp.Bất cứ khi nào tăng áp lực đỉnh (ví dụ>25 cm H2O) nên nhanh chóng đo áp lực cuối kỳ thở vào (áp lực cao nguyên) bằng cách giữ kỳ thở vào để xác định sự đóng góp tương đối của sức cản và áp lực đàn hồi. Việc giữ van thở ra đóng lại thêm 0,3 đến 0,5 giây sau khi thở vào, sẽ trì hoãn thì thở ra. Trong thời gian này, áp lực đường thở giảm xuống từ giá trị đỉnh do dòng khí dừng lại. Áp lực cuối thì thở vào phản ánh áp lực đàn hồi khi PEEP được loại bỏ (giả sử bệnh nhân không thực hiện các hoạt động thở vào hay co cơ thở ra tại thời điểm đo). Sự khác biệt giữa áp lực đỉnh và áp lực cao nguyên là áp lực cản.Tăng sức cản(ví dụ,>10 cm H2O) có thể do ống nội khí quản đã bị xoắn gập hoặc bịt kín bằng các chất tiết, có khối u trong dạ dày hoặc co thắt phế quản.Tăng áp lực đàn hồi(ví dụ>10 cm H2O) gợi ý giảm sự tuân thủ của phổiPhù, xơ hóa, hoặcxẹp phổiLớntràn dịch màng phổi,tràn khí màng phổihoặc xơ cơHạn chế ngoài phổi có thể do bỏng chu vi chi thể hoặc một biến dạng khác ở thành ngực, cổ trướng, mang thai hoặc béo phì bệnh lýMột thể tích thông khí quá lớn so với lượng phổi được thông khí (ví dụ, một thể tích thông thường được chuyển đến một phổi duy nhất vì ống nội khí quản bị sai vị trí)PEEP nội tại(PEEP tự động) ở bệnh nhân thụ động có thể được đo thông qua nghiệm pháp tạm ngừng cuối thì thở ra. Ngay trước thì thở vào, van thở ra đóng trong 2 giây. Dòng ngừng, loại bỏ áp lực trở kháng; áp suất kết quả phản ứng áp lực phế nang vào cuối kỳ thở ra (PEEP nội sinh). Mặc dù phép đo chính xác phụ thuộc vào bệnh nhân thở theo máy hoàn toàn, nhưng không được phép sử dụng sự phong tỏa thần kinh cơ cho mục đích duy nhất là đo PEEP nội sinh.Một phương pháp phi định lượng xác định PEEP nội sinh là kiểm tra việc dò tìm dòng thở ra. Nếu dòng thở ra liên tục cho đến nhịp thở tiếp theo hoặc ngực của bệnh nhân không nghỉ ngơi trước khi có nhịp thở tiếp chứng tỏ có PEEP nội sinh. Hậu quả của PEEP nội sinh tăng cao bao gồm tăng công thở và giảm sự trở về tĩnh mạch dẫn đến có thể làm giảm cung lượng tim và hạ huyết áp.Việc xuất hiện PEEP nội sinh nên tìm kiếm các nguyên nhân gây tắc nghẽn đường thông khí (ví dụ, chất tiết đường thở, giảm độ đàn hồi, co thắt phế quản); tuy nhiên, thông khí phút cao (>20 L/phút) có thể gây PEEP nội sinh ở bệnh nhân không bị tắc nghẽn đường thông khí. Nếu nguyên nhân là giới hạn luồng thông khí, PEEP nội sinh có thể được giảm đi bằng cách rút ngắn thời gian thở vào (làm tăng dòng thở vào) hoặc giảm nhịp thở, do đó cho phép một phần lớn chu kỳ hô hấp được sử dụng cho quá trình thở ra.
+
+--- 2. Cách thức và phương thức thông khí cơ học ---
+
+Các chế độ của máy thở cơ học bao gồmVolume cycled: Cung cấp một thể tích không đổi với mỗi nhịp thở (áp lực có thể thay đổi)Pressure cycled: Cung cấp áp suất không đổi trong mỗi nhịp thở (thể tích phân phối có thể thay đổi)Sự kết hợp của volume và pressure cycledMode thở hỗ trợ - kiểm soát (A/C) là mode thở cơ học duy trì tần số thở tối thiểu bất kể bệnh nhân có nhịp thở tự nhiên hay không được gọi là hỗ trợ-kiểm soát (A/C). Do áp lực và thể tích được liên kết trực tiếp bởi đường cong áp lực-thể tích, thể tích cho trước sẽ tương ứng với áp lực cụ thể và ngược lại, bất kể máy thở đó là áp lực thay thể tích theo chu kỳ.Điều chỉnh cài đặt máy thở khác nhau với chế độ nhưng bao gồmTần số thởThể tích lưu thống (TV)Độ nhạy (cần phải có để kích hoạt thông khí)Tốc độ dòngDạng sóng dòng chảyTỷ lệ hít vào/thở ra (I/E)Thông khí theo thể tíchThông khí theo thể tích đưa một thể tích lưu thông được cài đặt sẵn. Chế độ này bao gồmKiểm soát thể tích (V/C)Thông khí bắt buộc đồng bộ (SIMV)Áp lực đường thở không cố định nhưng thay đổi tùy theo sức cản, độ đàn hồi của hệ thống hô hấp và với tốc độ dòng được cài đặt.V/Clà cách thức đơn giản và hiệu quả nhất để cung cấp thông khí cơ học đầy đủ. Trong chế độ này, mỗi lần nỗ lực thở vào vượt quá ngưỡng kích hoạt cài đặt sẽ dẫn đến việc cung cấp một thể tích cố định. Nếu bệnh nhân không kích hoạt máy thở thường xuyên, máy thở sẽ khởi động nhịp thở, đảm bảo tần số thở tối thiểu mong muốn.SIMVcũng cung cấp nhịp thở với tốc độ và thể tích được đồng bộ với những nỗ lực của bệnh nhân. Ngược lại với V/C, những nỗ lực của bệnh nhân trên mức tần số thở được thiết lập sẽ không được hỗ trợ, mặc dù van thở vào mở ra để thở. Chế độ này vẫn phổ biến, mặc dù các nghiên cứu chỉ ra rằng nó không cung cấp hỗ trợ máy thở hoàn toàn như V/C (1), không tạo điều kiện thuận lợi cho bệnh nhân thôi thở máy (2) và không cải thiện cảm giác thoải mái của bệnh nhân.Thông khí áp lựcThông khí áp lực vòng lặp cung cấp áp lực thì hít vào. Chế độ này bao gồmThông khí áp lực (PCV)Thông khí hỗ trợ áp lực (PSV)Các phương pháp không xâm lấn được áp dụng thông qua một mặt nạ kín (một số loại có sẵn)Do đó, thể tích thông khí thay đổi tùy thuộc vào sức cản và độ đàn hồi của hệ thống hô hấp. Trong chế độ này, thay đổi cơ học hệ hô hấp có thể dẫn đến những thay đổi không đáng kể lượng thông khí phế nang. Vì nó hạn chế áp lực căng của phổi nên về mặt lý thuyết, chế độ này có thể mang lại lợi ích cho những bệnh nhân mắchội chứng suy hô hấp cấp tính(ARDS); tuy nhiên, không có lợi thế lâm sàng rõ ràng nào so với V/C đã được chứng minh (3) và nếu thể tích do PCV cung cấp giống như thể tích do V/C cung cấp thì áp lực căng sẽ giống nhau.Thông khí kiểm soát áp lựclà loại A/C có áp lực chu kỳ. Mỗi nỗ lực hít vượt quá ngưỡng nhạy cảm sẽ nhận một hỗ trợ toàn bộ áp lực duy trì trong thời gian cố định. Tần số thở tối thiểu được duy trì.Trongthông khí hỗ trợ áp lực,tần số thở tối thiểu không được thiết lập; tất cả các nhịp thở được kích hoạt bởi bệnh nhân. Máy thở hỗ trợ bệnh nhân bằng cách cung cấp áp lực tiếp tục ở mức không đổi cho đến khi dòng thở vào của bệnh nhân giảm xuống dưới mức được xác định bởi thuật toán đặt sẵn. Vì vậy, một nỗ lực thở dài hơn hoặc sâu hơn của bệnh nhân dẫn đến một thể tích thông khí lớn hơn. Chế độ này thường được sử dụng để giải phóng bệnh nhân khỏi thở máy bằng cách cho phép bệnh nhân sử dụng công thở nhiều hơn. Các nghiên cứu chỉ ra rằng phương pháp này thành công hơn các phương pháp khác trong việc ngừng thở máy (4).Cài đặt máy thởCài đặt thông khí phù hợp với tình trạng nền của bệnh nhân, nhưng có các nguyên tắc cơ bản như sau.Thông khí phút được thiết lập theoThể tích lưu thống (TV)Tần số thởKhi thểtích khí lưu thôngđược đặt quá cao, sẽ có nguy cơ căng phồng quá mức; khi nó được đặt quá thấp, nó khiến choxẹp phổi.Nhịp thởquá cao có nguy cơ tăng thông khí vànhiễm kiềm hô hấpcùng với thời gian thở ra không đủ và PEEP tự động; tần số quá thấp có nguy cơ thông khí phút không đủ vànhiễm toan hô hấp.Thể tích khí lưu thông thấp từ 6 đến 8 mL/kg trọng lượng cơ thể lý tưởng (IBW) được khuyến nghị ban đầu cho bệnh nhân mắchội chứng suy hô hấp cấp tính(ARDS – xem thanh bênQuản lý máy thở ban đầu trong ARDS). Thể tích khí lưu thông thấp cũng thích hợp ở một số bệnh nhân có cơ chế phổi bình thường (5,6,7), chẳng hạn như bệnh nhân bị đợt cấp củaCOPD(bệnh phổi tắc nghẽn mạn tính) hoặchen suyễnhoặc những người thở máy trong quá trình phẫu thuật (8,9). Các chiến lược thể tích khí lưu thông thấp trong phẫu thuật thường bao gồm tăng căng phồng định kỳ. Các bệnh nhân khác (ví dụ như những người bị chấn thương, phù nề, toan nặng) có thể bắt đầu với thể tích cao hơn một chút (ví dụ, 8 đến 10 mL/kg).IBW thay vì trọng lượng cơ thể thực tế được sử dụng để xác định thể tích khí lưu thông thích hợp cho bệnh nhân mắc bệnh phổi và những người đang thở máy.Độ nhạysẽ điều chỉnh mức áp lực âm cần thiết để kích hoạt máy thở. Một thiết lập thông thường là -2 cm H2O. Cài đặt quá cao (ví dụ: âm hơn –2 cm H2O) khiến bệnh nhân yếu không thể kích hoạt nhịp thở. Cài đặt quá thấp (ví dụ, âm dưới -2 cm H2O) có thể dẫn đến thông khí quá mức bằng cách làm cho máy thở có chu kỳ tự động. Bệnh nhân có mứcPEEP tự độngcao (ví dụ: những người mắc bệnh COPD, hen suyễn) có thể gặp khó khăn khi hít vào đủ sâu để đạt được áp lực trong đường thở đủ âm.Tỷ lệ I:E(tỷ lệ hít vào: thở ra) là tỷ lệ thời gian dành cho việc hít vào so với thời gian thở ra. Tỷ lệ I:E có thể được điều chỉnh trong một số chế độ thông khí. Một thiết lập bình thường cho bệnh nhân với cơ học bình thường là 1:3. Bệnh nhânhen suyễnhoặc đợt cấp củaCOPDcần phải có tỷ lệ 1:4 hoặc thậm chí nhiều hơn để hạn chế mức độ PEEP tự động.Tốc độ dòng hít vàocó thể được điều chỉnh ở một số chế độ thông khí (tức là có thể điều chỉnh tốc độ dòng hoặc tỷ lệ I:E, không phải cả hai). Lưu lượng hít vào thường nên được đặt ở khoảng 60 L/phút nhưng có thể tăng lên tới 120 L/phút đối với những bệnh nhân bị hạn chế luồng khí để tạo điều kiện cho bệnh nhân có nhiều thời gian thở ra hơn, do đó hạn chế PEEP tự động.FiO2(Phân áp oxy khí thở vào) ban đầu được đặt ở mức 1,0 (100% oxy) và sau đó giảm đến mức thấp nhất cần thiết để duy trì sự oxy hóa đầy đủ.PEEPcó thể được áp dụng trong bất kỳ chế độ thông khí. PEEP làm tăng thể tích phổi cuối kỳ thở ra và giảm đóng phế nang ở cuối kỳ thở ra. Hầu hết các bệnh nhân thở máy đều có thể hưởng lợi từ việc sử dụng PEEP ở 5 cm H2O để hạn chế xẹp phổi thường đi kèm với nội khí quản, an thần, giãn cơ, và/hoặc nằm ngửa. Ở những bệnh nhân bị tắc nghẽn, PEEP được áp dụng bởi máy thở có thể làm giảm công thở liên quan đến PEEP tự động. Mức cao hơn của PEEP cải thiện oxy hóa trong các chứng rối loạn nhưphù phổido tim vàARDS. PEEP cho phép sử dụng mức FiO2 thấp hơn trong khi vẫn giữ được đủ oxy hóa động mạch. Tác dụng này có thể quan trọng trong việc hạn chế thương tổn phổi do tiếp xúc kéo dài với FIO2 cao (≥0,6). Tuy nhiên, nếu PEEP làm tăng áp lực trong lồng ngực và nếu quá cao có thể cản trở sự hồi lưu của tĩnh mạch, gây hạ huyết áp ở bệnh nhân bị giảm thể tích máu, có thể làm giảm hậu tải thất trái và có thể làm căng quá mức các phần của phổi, do đó gây ra thương tổn phổi liên quan đến máy thở (VALI). Ngược lại, nếu PEEP quá thấp, nó có thể dẫn đến việc mở và đóng phế nang theo chu kỳ, điều này cũng có thể làm VALI do lực biến dạng lặp đi lặp lại. Do đường cong áp lực-thể tích thay đổi ở các vùng khác nhau của phổi, nên đối với một PEEP nhất định, mức tăng thể tích ở các vùng phụ thuộc sẽ thấp hơn so với các vùng không phụ thuộc của phổi.Công cụ tính toán lâm sàngCân nặng lý tưởng của cơ thểTư thế bệnh nhânThông khí cơ học thường được thực hiện với bệnh nhân ở tư thế nằm ngửa đầu cao. Tuy nhiên, ở những bệnh nhân ARDS, việc nằm sấp có thể dẫn đến sự oxy hóa tốt hơn chủ yếu bằng cách tạo ra sự thông khí đồng đều hơn. Thông khí đồng đều làm giảm lượng phổi không được thông khí (tức là lượng shunt), thường lớn nhất ở vùng phổi lưng và đuôi, trong khi có ảnh hưởng không đáng kể đến sự phân bố tưới máu (10).Mặc dù nhiều nhà nghiên cứu ủng hộ thông khí nằm sấp ở những bệnh nhân ARDS đòi hỏi mức PEEP cao (ví dụ,>12 cm H2O) và FiO2 (ví dụ,>0,6), cho đến gần đây các thử nghiệm không cho thấy bất kỳ giảm tỷ lệ tử vong với chiến lược này (tuy nhiên, những thử nghiệm này không đủ mạnh và có các vấn đề thiết kế nghiên cứu khác). Một thử nghiệm tiến cứu, đa trung tâm, lớn tiếp theo (11) đã đánh giá những bệnh nhân mắc ARDS nặng vừa phải (PaO2:FIO2<150 mm Hg trên FIO2≥0,6, PEEP > 5 cm H2O) và những người có thể tích khí lưu thông khoảng 6 mL/kg. Những bệnh nhân này được phân nhóm ngẫu nhiên để nằm sấp≥16 tiếng hoặc được để ở tư thế nằm ngửa trong quá trình thông khí. Nghiên cứu bao gồm tổng cộng 466 bệnh nhân, đã xác định tỷ lệ tử vong trong 28 ngày và 90 ngày thấp hơn ở những bệnh nhân trong nhóm nằm sấp mà không có tỷ lệ biến chứng liên quan đáng kể. Những cải tiến trong việc lựa chọn bệnh nhân và phác đồ xử trí được cho là mang lại kết quả tốt hơn so với các nghiên cứu trước đó (12).Tư thế nằm sấp ở những bệnh nhân mắc COVID-19 và tỉnh táo, thở tự nhiên, bị thiếu oxy và đang sử dụng oxy qua ống thông mũi lưu lượng cao đã làm giảm tình trạng thiếu oxy và trong một thử nghiệm lâm sàng lớn, đã giảm nguy cơ thất bại điều trị được xác định là cần đặt nội khí quản hoặc tử vong trong vòng 28 ngày (13).Nằm sấp là chống chỉ định ở những bệnh nhân có bất thường cột sống hoặc tăng áp lực nội sọ. Tư thế này cũng cần được nhân viên của khoa hồi sức tích cực chú ý cẩn thận để tránh các biến chứng, như xoắn gập ống nội khí quản hoặc các catheter mạch máu.Tài liệu tham khảo về phương tiện và phương thức1.Marini JJ, Smith TC, Lamb VJ: External work output and force generation during synchronized intermittent mechanical ventilation. Effect of machine assistance on breathing effort.Am Rev Respir Dis138(5):1169–1179, 1988. doi:10.1164/ajrccm/138.5.11692.Esteban A, Frutos F, Tobin MJ, et al: A comparison of four methods of weaning patients from mechanical ventilation. Spanish Lung Failure Collaborative Group.N Engl J Med1995;332(6):345–350, 1995. doi:10.1056/NEJM1995020933206013.Rittayamai N, Katsios CM, Beloncle F, Friedrich JO, Mancebo J, Brochard L. Pressure-Controlled vs Volume-Controlled Ventilation in Acute Respiratory Failure: A Physiology-Based Narrative and Systematic Review.Chest148(2):340–355, 2015. doi:10.1378/chest.14-31694.Subirà C, Hernández G, Vázquez A, et al: Effect of Pressure Support vs T-Piece Ventilation Strategies During Spontaneous Breathing Trials on Successful Extubation Among Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial [published correction appears inJAMA2019 Aug 20;322(7):696].JAMA321(22):2175–2182, 2019. doi:10.1001/jama.2019.72345.Serpa Neto A, Cardoso SO, Manetta JA, et al: Association between use of lung-protective ventilation with lower tidal volumes and clinical outcomes among patients without acute respiratory distress syndrome: A meta-analysis.JAMA308:1651–1659, 2012. doi: 10.1001/jama.2012.137306.Guay J, Ochroch EA, Kopp S: Intraoperative use of low volume ventilation to decrease postoperative mortality, mechanical ventilation, lengths of stay and lung injury in adults without acute lung injury.Cochrane Database Syst RevJul; 2018(7): CD011151, 2018. doi: 10.1002/14651858.CD011151.pub37.Neto AS, Simonis FD, Barbas CS, et al: Lung-protective ventilation with low tidal volumes and the occurrence of pulmonary complications in patients without acute respiratory distress syndrome: A systematic review and individual patient data analysis.Crit Care Med43:2155–2163, 2015. doi: 10.1097/CCM.00000000000011898.Futier E, Constantin JM, Paugam-Burtz C, et al: A trial of intraoperative low-tidal-volume ventilation in abdominal surgery.N Engl J Med369:428–437, 2013. doi: 10.1056/NEJMoa13010829.Yang M, Ahn HJ, Kim K, et al: Does a protective ventilation strategy reduce the risk of pulmonary complications after lung cancer surgery? A randomized controlled trial.Chest139:530–537, 2011. doi: 10.1378/chest.09-229310.Richter T, Bellani G, Scott Harris R, et al: Effect of prone position on regional shunt, aeration, and perfusion in experimental acute lung injury.Am J Respir Crit Care Med172(4):480–487, 2005. doi:10.1164/rccm.200501-004OC11.Guérin C, Reignier J, Richard JC, et al: Prone positioning in severe acute respiratory distress syndrome.N Engl J Med368(23):2159–2168, 2013. doi: 10.1056/NEJMoa1214103.12.Scholten EL, Beitler JR, Prisk GK, et al: Treatment of ARDS with prone positioning.Chest151:215–224, 2017. doi: 10.1016/j.chest.2016.06.032. Epub 2016 Jul 813.Ehrmann S, Li J, Ibarra-Estrada M, et al: Awake prone positioning for COVID-19 acute hypoxaemic respiratory failure: a randomised, controlled, multinational, open-label meta-trial.Lancet Respir Med9(12):1387–1395, 2021. doi: 10.1016/S2213-2600(21)00356-8
+
+--- 3. An thần và cảm giác thoải mái trong thông khí cơ học ---
+
+Mặc dù nhiều bệnh nhân có thể thở máy qua ống nội khí quản mà không dùng thuốc an thần, một số bệnh nhân cầndùng thuốc an thần theo đường tĩnh mạch(ví dụ: propofol, lorazepam, midazolam)và thuốc giảm đau(ví dụ: morphine, fentanyl) để giảm thiểu căng thẳng và lo lắng. Những loại thuốc này cũng có thể làm giảm tiêu hao năng lượng ở một mức độ nào đó, do đó làm giảm việc sản sinh ra carbon dioxide và tiêu thụ oxy. Liều nên được điều chỉnh theo mức mong muốn, được hướng dẫn bởi các hệ thống chấm điểm an thần/gây mê tiêu chuẩn (ví dụ,Thang điểm kích thích – an thần Richmond,Thang điểm an thần – kích thích Riker). Bệnh nhân thở máy cho ARDS thường đòi hỏi mức an thần và giảm đau cao hơn. Việc sử dụng propofol trong thời gian hơn 24 đến 48 giờ (ví dụ, mỗi 48 giờ) đòi hỏi phải theo dõi định kỳ mức triglyceride huyết thanh. Có bằng chứng cho thấy thuốc an thần đường tĩnh mạch được sử dụng liên tục sẽ kéo dài thời gian thở máy (1). Vì vậy, mục đích là đạt được liều an thần đầy đủ không quá nhiều, có thể thực hiện bằng cách sử dụng thuốc an thần liên tục với những thời điểm gián đoạn hàng ngày hoặc bằng cách truyền không liên tục.Các thuốc phong bế thần kinh cơkhông được sử dụng thường xuyên ở những bệnh nhân thở máy vì nguy cơ yếu cơ thần kinh kéo dài và cần phải dùng thuốc an thần nặng liên tục; tuy nhiên, một nghiên cứu đã cho thấy tỷ lệ tử vong giảm ở thời điểm 90 ngày ở những bệnh nhân mắc ARDS sớm, nặng, dùng phong bế thần kinh cơ trong 48 tiếng (2). Thật không may, những phát hiện này đã không được lặp lại trong một nghiên cứu tiếp theo lớn hơn về phong bế thần kinh cơ sớm trong ARDS, để so sánh nó với thuốc an thần nhẹ hơn mà không phong bế thần kinh cơ (3). Vì vậy, gây liệt cơ thường quy không được khuyến cáo. Tuy nhiên, có một số bệnh nhân có thể được hưởng lợi từ việc phong bế thần kinh cơ, bao gồm cả những bệnh nhân không thể chịu đựng được một số chế độ thở máy tinh vi và phức tạp hơn và để ngăn ngừa run ở những bệnh nhân được sử dụng phương pháp làm mát sau khi ngừng tim.Tài liệu tham khảo an thần và giảm đau1.Kollef MH, Levy NT, Ahrens TS, Schaiff R, Prentice D, Sherman G: The use of continuous i.v. sedation is associated with prolongation of mechanical ventilation.Chest114(2):541–548, 1998. doi: 10.1378/chest.114.2.5412.Papazian L, Forel JM, Gacouin A, et al: Neuromuscular blockers in early acute respiratory distress syndrome.N Engl J Med363:1107–1116, 2010. doi: 10.1056/NEJMoa10053723.National Heart, Lung, and Blood Institute PETAL Clinical Trials Network, Moss M, Huang DT, Brower RG, et al: Early neuromuscular blockade in the acute respiratory distress syndrome.N Engl J Med380(21):1997–2008, 2019. doi:10.1056/NEJMoa1901686
+
+--- 4. Các biến chứng của thông gió cơ học và các biện pháp bảo vệ ---
+
+Các biến chứng của thở máy có thể được chia thànhĐặt nội khí quảnThông gió cơ khí chính nóBất động kéo dàiBiến chứng của đặt nội khí quảnCó ống nội khí quản gây ra nguy cơviêm xoang(tình trạng này hiếm khi có ý nghĩa lâm sàng),viêm phổi liên quan đến máy thở, hẹp khí quản, chấn thương dây thanh âm và rất hiếm gặp rò khí quản-thực quản hoặc rò khí quản-mạch máu.Hút khí quản có mủ ở bệnh nhân sốt có số lượng bạch cầu tăng cao>48 tiếng sau khi bắt đầu thông khí gợi ýviêm phổi liên quan đến máy thở.Các biến chứng của chính việc thở máyCác biến chứng của chính việc thở máy liên tục bao gồmTràn khí màng phổivà túi khíHuyết áp thấpNgộ độc oxyTổn thương phổi liên quan đến máy thởTràn khí màng phổi, bao gồmtràn khí màng phổi áp lựcvà túi khí là một nguy cơ, đặc biệt là thông khí ở áp lực cao. Nếu hạ huyết áp cấp tính phát triển ở bệnh nhân đang thở máy, đặc biệt là khi đi kèm với nhịp tim nhanh và/hoặc tăng đột ngột áp lực hít vào đỉnh, phải luôn nghĩ đếntràn khí màng phổi áp lực; bệnh nhân có những dấu hiệu như vậy cần phải được khám ngực và chụp X-quang ngực ngay lập tức (hoặc điều trị ngay lập tức nếu có xác nhận khi khám).Tuy nhiên, thông thường, hạ huyết áp là kết quả của mất trương lực giao cảm gây ra bởi thuốc an thần hoặc thuốc opioid được sử dụng để đặt nội khí quản và thông khí. Hạ huyết áp cũng có thể là do sự giảm trở về của tĩnh mạch do tăng cao áp lực trong lồng ngực ở bệnh nhân có PEEP cao hoặc ở những bệnh nhân có PEEP nội sinh cao do hen hoặc COPD. Nếu không có dấu hiệu thực thể nào gợi ý tràn khí màng phổi áp lực và nếu có thể có nguyên nhân gây hạ huyết áp liên quan đến thông khí, trong khi chờ chụp X-quang ngực di động, bệnh nhân có thể bị ngắt kết nối khỏi máy thở và được bóp bóng nhẹ nhàng bằng tay ở tốc độ 2 đến 3 nhịp thở/phút với 100% oxy trong khi truyền dịch (ví dụ: 500 đến 1000 mL nước muối sinh lý 0,9% ở người lớn, 20 mL/kg ở trẻ em). Có cải thiện ngay lập tức gợi ý nguyên nhân liên quan đến thông khí và cần điều chỉnh cài đặt máy thở cho phù hợp.Ngộ độc oxyđề cập đến những thay đổi viêm, thâm nhiễm phế nang, và cuối cùng, xơ hóa phổi có thể phát triển sau khi tiếp xúc lâu dài với FIO2 cao (ví dụ,>0,6). Độc tính vừa phụ thuộc vào nồng độ vừa phụ thuộc vào thời gian. Nên tránh FIO2>0,6 trừ khi cần để duy trì sự sống. FIO2<0,6 được dung nạp tốt trong thời gian dài.Tổn thương phổi liên quan đến máy thở(VALI), đôi khi được gọi là tổn thương phổi do máy thở, là tổn thương phế nang và/hoặc đường thở nhỏ liên quan đến thông khí cơ học. Các cơ chế có thể bao gồm sự căng phồng của phế nang (tức là chấn thương thể tích) và các lực tạo ra bởi sự mở và xẹp lại của phế nang (tức là xẹp phổi chấn thương), dẫn đến việc giải phóng các chất trung gian gây viêm, tích tụ dịch, giảm surfactant. Những chất trung gian gây viêm này có thể dẫn đến tổn thương phổi và cơ quan đầu xa (chấn thương sinh học).Ngọc trai & cạm bẫyNếu hạ huyết áp cấp tính phát sinh trên bệnh nhân thở máy, đặc biệt là khi nó đi kèm với nhịp tim nhanh và/hoặc tăng đột ngột áp lực thở vào đỉnh, hãy nghi ngờ tràn khí màng phổi áp lực và xem xét việc thực hiện mở thông thành ngực bằng kim hoặc bằng ống thông ngay lập tức.Các biến chứng của bất độngBất động tương đối làm tăng nguy cơ bị bệnh thuyên tắc huyết khối tĩnh mạch (ví dụ,huyết khối tĩnh mạch sâu,thuyên tắc mạch phổi), tổn thương da vàxẹp phổi. Ngoài ra, bất động có thể góp phần gây tàn tật kéo dài sau khi thở máy.Các biện pháp bảo vệ để giảm các biến chứng của thở máyHầu hết các bệnh viện đều có các phác đồ chuẩn để giảm các biến chứng. Nâng đầu giường đến 30° làm giảm nguy cơviêm phổi liên quan đến thở máy, và việc lăn trở thường xuyên của bệnh nhân mỗi 2 giờ làm giảm nguy cơ tổn thương da (xemphòng chống loét do tì đè).Tất cả các bệnh nhân được thở máy cần phải đượcđiều trị dự phòng huyết khối tĩnh mạch sâu, hoặc heparin 5000 đơn vị tiêm dưới da 2 lần đến 3 lần mỗi ngày hoặcheparintrọng lượng phân tử thấp hoặc, nếu chống chỉ địnhheparin, thiết bị tạo áp lực tuần tự hoặc fondaparinux.Để ngăn ngừa xuất huyết tiêu hóa, bệnh nhân nên dùng thuốc chẹn H2 (ví dụ, famotidine 20 mg uống hoặc tiêm tĩnh mạch 2 lần/ngày) hoặc sucralfate (1 g uống trong bữa 4 lần một ngày). Thuốc ức chế bơm proton nên được dành riêng cho những bệnh nhân có chỉ định từ trước hoặc chảy máu đang hoạt động.Đánh giá dinh dưỡng định kỳ là bắt buộc và nên bắt đầucho ăn bằng ống thông đường ruộtnếu dự kiến phải thở máy liên tục.Cách hiệu quả nhất để giảm các biến chứng của thông khí cơ học là để hạn chế thời gian thở máy. Hàng ngày "dừng an thần" và các thử nghiệm thở tự nhiên giúp xác định thời điểm sớm nhất bệnh nhân có thể đượcgiải phóng khỏi máy thở.

@@ -1,0 +1,559 @@
+TIÊU ĐỀ: Penicillin
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/penicillin
+================================================================================
+
+NỘI DUNG:
+
+Penicillin
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v13957086_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Penicillin là
+
+kháng sinh beta-lactam
+
+có tác dụng diệt khuẩn theo cơ chế chưa rõ nhưng có lẽ bằng cách kích hoạt các enzym tự phân hủy thành tế bào ở một số vi khuẩn.
+
+(Xem thêm
+
+Tổng quan về thuốc kháng khuẩn
+
+.)
+
+Bảng
+
+Penicillin
+
+Penicillin
+
+Penicillin
+
+Đường dùng
+
+Penicillin
+
+tự nhiên
+
+Penicillin G (ngoài đường tiêu hóa/dung dịch)
+
+Đường tiêm truyền
+
+Penicillin G benzathine
+
+Đường tiêm truyền (chỉ tiêm bắp)
+
+Penicillin G procaine
+
+Đường tiêm truyền
+
+Penicillin V kali
+
+Đường uống
+
+Aminopenicillin
+
+Ampicillin
+
+Đường uống hoặc tiêm truyền
+
+Ampicillin/sulbactam
+
+Đường tiêm truyền
+
+Amoxicillin
+
+Đường uống
+
+Amoxicillin/clavulanate
+
+Đường uống
+
+Penicillinase kháng (chống tụ cầu)
+
+Dicloxacillin
+
+Đường uống
+
+Nafcillin
+
+Đường uống hoặc tiêm truyền
+
+Oxacillin
+
+Đường uống hoặc tiêm truyền
+
+Thuốc ức chế penicillin phổ rộng (antipseudomonal)
+
+Piperacillin/tazobactam
+
+Đường tiêm truyền
+
+Sự đề kháng
+
+Một số vi khuẩn sản xuất beta- lactamase, làm mất hoạt tính kháng sinh beta-lactam; hiệu ứng này có thể bị chặn bằng cách thêm một chất ức chế beta-lactamase.
+
+Tuy nhiên, các thuốc ức chế beta-lactamase truyền thống (ví dụ: sulbactam, tazobactam) không ức chế đáng tin cậy những chủng sau:
+
+AmpC beta-lactamase, thường được sản xuất bởi
+
+Enterobacter
+
+,
+
+Serratia
+
+,
+
+Citrobacter
+
+,
+
+Providencia
+
+và loài
+
+Morganella
+
+hoặc bởi
+
+Pseudomonas aeruginosa
+
+Các beta-lactamase phổ mở rộng (ESBL) được sản xuất bởi một số
+
+Klebsiella pneumoniae
+
+,
+
+Escherichia coli
+
+và Enterobacterales khác (trước đây là Enterobacteriaceae)
+
+Carbapenemase
+
+Mới đây, các thuốc ức chế beta-lactam không phải beta-lactam, như avibactam, relebactam, và vaborbactam, có hoạt tính chống lại AmpC, ESBL, và thậm chí một số carbapenemase như
+
+Klebsiella pneumoniae
+
+carbapenemase (KPC), đã trở nên phổ biến trong
+
+Klebsiella
+
+các loài và các Enterobacterales khác. Tuy nhiên, hiện không có chất ức chế beta-lactamase nào hoạt động chống lại metallo-beta-lactamase (MBL), như NDM-1 (New Delhi MBL-1), VIM (Verona integron–encoded MBL), và các loại IMP (imipenem) có thể làm bất hoạt tất cả các kháng sinh nhóm beta-lactam ngoại trừ
+
+aztreonam
+
+. Tuy nhiên, nhiều chủng sinh MBL cũng sinh ra các beta-lactamase khác có thể thủy phân
+
+aztreonam
+
+.
+
+Dược động học của nhóm Penicillin
+
+Thực phẩm không can thiệp vào việc hấp thu amoxicillin, nhưng penicillin G nên được cho trước 1 giờ hoặc 2 giờ sau bữa ăn.
+
+Amoxicillin
+
+thường thay thế ampicillin để sử dụng bằng đường uống vì
+
+amoxicillin
+
+được hấp thu tốt hơn, ít tác dụng lên đường tiêu hóa hơn và có thể được dùng ít thường xuyên hơn.
+
+Penicillin được phân phối nhanh chóng trong dịch ngoại bào của hầu hết các mô, đặc biệt khi có hiện tượng viêm.
+
+Tất cả các penicilin đều được bài tiết ít nhất một phần qua nước tiểu, và hầu hết đều đạt nồng độ cao trong nước tiểu. Penicillin G tiêm được bài tiết nhanh (thời gian bán thải trong huyết thanh 0,5 giờ), trừ các dạng tồn dư (benzathin hoặc muối proaine penicillin G); các dạng này chỉ dành cho tiêm bắp sâu và cung cấp một mô chứa thuốc mà sự hấp thu diễn ra trong vài giờ đến vài ngày. Benzathine penicillin đạt mức đỉnh điểm chậm hơn và thường hoạt động lâu hơn so với procaine penicillin. Các muối procain làm tăng khả dụng sinh học, dẫn đến việc thanh thải thuốc nhanh hơn; ví dụ, penicillin G procaine chỉ có thể được phát hiện trong máu trong 1 tuần so với penicillin G benzathine, có thể được phát hiện trong 30 ngày (
+
+1
+
+).
+
+Tham khảo dược động học
+
+1.
+
+Centers for Disease Control and Prevention (CDC)
+
+: Inadvertent use of Bicillin C-R to treat syphilis infection—Los Angeles, California, 1999-2004.
+
+MMWR Morb Mortal Wkly Rep
+
+54(9):217–219, 2005.
+
+Chỉ định cho Penicillin
+
+Kháng sinh giống penicillin G
+
+Thuốc kháng sinh giống Penicillin G (bao gồm penicillin V) chủ yếu được sử dụng để chống lại
+
+Vi khuẩn gram dương
+
+Một số cầu khuẩn gram âm (ví dụ, bệnh
+
+viêm màng não
+
+cầu khuẩn)
+
+Một số ít trực khuẩn gram âm cũng nhạy cảm với liều lượng lớn
+
+penicillin G
+
+qua đường tiêm truyền. Hầu hết các tụ cầu khuẩn, hầu hết
+
+Neisseria gonorrhoeae
+
+, nhiều trực khuẩn gram âm kỵ khí và khoảng 30%
+
+Haemophilusenzae
+
+đều kháng thuốc.
+
+Penicillin G
+
+là thuốc được lựa chọn điều trị
+
+bệnh giang mai
+
+, một số
+
+bệnh nhiễm trùng do clostridial
+
+và cùng với gentamicin, điều trị
+
+viêm nội tâm mạc
+
+do vi khuẩn đường ruột nhạy cảm.
+
+Penicillin G
+
+hoặc ceftriaxone được khuyến nghị cho viêm nội tâm mạc do liên cầu.
+
+Benzathine penicillin G là một công thức bào chế tác dụng kéo dài (chỉ để sử dụng tiêm bắp):
+
+Benzathine penicillin
+
+Hỗn hợp benzathine và Procaine
+
+penicillin G
+
+với lượng bằng nhau
+
+Hỗn hợp 3:1 gồm 0,9 triệu đơn vị benzathine và 0,3 triệu đơn vị Procaine
+
+penicillin G
+
+Trong số 3 sản phẩm, chỉ cần dùng benzathine penicillin tinh khiết để điều trị bệnh giang mai và phòng chống
+
+thấp khớp
+
+. Chất benzathine penicillin nguyên chất và hỗn hợp với lượng bằng nhau được chỉ định để điều trị nhiễm khuẩn đường hô hấp trên,
+
+da và các mô mềm
+
+do các streptococci nhạy cảm.
+
+Amoxicillin và ampicillin
+
+Amoxicillin và ampicillin có hoạt tính chống lại
+
+Enterococci
+
+Một số trực khuẩn gram âm, chẳng hạn như các loài
+
+H. influenzae
+
+,
+
+E. coli
+
+, và
+
+Proteus mirabilis
+
+; loài
+
+Salmonella
+
+; và loài
+
+Shigella
+
+không sản xuất beta-lactamase.
+
+Việc bổ sung một beta-lactamase (clavulanate hoặc sulbactam) cho phép sử dụng chống lại
+
+staphylococci
+
+,
+
+H. influenzae
+
+nhạy cảm với methicillin,
+
+Moraxella catarrhalis
+
+,
+
+Bacteroides
+
+,
+
+E. coli
+
+, và
+
+K. viêm phổi
+
+.
+
+Penicillinase kháng (chống tụ cầu)
+
+Các penicillin kháng penicillinase (dicloxacillin, nafcillin, cloxacillin, flucloxacillin và oxacillin) được sử dụng chủ yếu để điều trị
+
+Staphylococcus aureus
+
+nhạy cảm methicillin sản sinh Penicillinase
+
+Những loại kháng sinh này cũng được sử dụng để điều trị một số bệnh nhiễm trùng
+
+Streptococcus pneumoniae
+
+, liên cầu khuẩn nhóm A và nhiễm trùng tụ cầu âm tính coagulase nhạy cảm với methicillin.
+
+Thuốc ức chế penicillin phổ rộng (antipseudomonal)
+
+Piperacillin/tazobactam có hoạt tính chống lại
+
+Vi khuẩn nhạy cảm với ampicillin
+
+Một số chủng
+
+Enterobacter
+
+và
+
+Serratia
+
+spp
+
+Nhiều chủng
+
+P. aeruginosa
+
+Việc bổ sung một chất ức chế beta-lactamase tăng cường hoạt động chống lại beta-lactamase sản sinh methicillin nhạy cảm
+
+S. aureus
+
+,
+
+E. coli
+
+,
+
+K. pneumoniae
+
+,
+
+H. influenzae
+
+, và vi khuẩn gram âm kỵ khí, nhưng không chống lại các vi khuẩn gram âm tạo ra ampoc beta-lactamase hoặc KPC và chỉ có thể ức chế một phần ESBL do một số
+
+K. pneumoniae
+
+,
+
+E. coli
+
+, và Enterobacteriaceae khác. Penicillin phổ rộng có tính hiệp lực với aminoglycosides và thường được sử dụng với lớp này để điều trị
+
+P. aeruginosa
+
+nhiễm trùng.
+
+Chống chỉ định với Penicillin
+
+Penicillin là chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng nghiêm trọng với chúng.
+
+Sử dụng Penicillin trong thời kỳ mang thai và cho con bú
+
+Penicillin là một trong những loại kháng sinh an toàn nhất trong thai kỳ. Các nghiên cứu sinh sản động vật với penicillin không cho thấy nguy cơ đối với thai nhi. Dữ liệu liên quan đến việc mang thai ở người còn hạn chế. Nếu được chỉ định về mặt y học, penicillin có thể được sử dụng trong thời kỳ mang thai. Penicillin G có hiệu quả trong việc ngăn ngừa lây truyền bệnh giang mai từ mẹ sang thai nhi và điều trị nhiễm trùng thai nhi và mẹ.
+
+Penicillin vào sữa mẹ với số lượng nhỏ. Việc sử dụng chúng thường được coi là tương thích với việc cho con bú.
+
+Tác dụng bất lợi của penicillins
+
+Tác dụng phụ của penicillins
+
+Phản ứng quá mẫn, bao gồm phát ban (phổ biến nhất)
+
+Khó chịu đường tiêu hóa bao gồm buồn nôn, nôn và tiêu chảy
+
+Các tác dụng phụ khác xảy ra ít gặp hơn.
+
+Penicillin uống có thể gây ra hiện tượng lưỡi có lông đen, xảy ra do kích ứng bề mặt bóng và sự sừng hóa của các lớp bề mặt. Đây là một tình trạng hiếm gặp và vô hại và sẽ tự khỏi sau khi ngừng dùng kháng sinh.
+
+Quá mẫn
+
+Hầu hết các phản ứng phụ là phản ứng quá mẫn:
+
+Phản ứng tức thời:
+
+Sốc nhiễm khuẩn
+
+(có thể gây tử vong trong vòng vài phút), nổi mày đay và phù mạch (từ 1 đến 5/10.000 trường hợp tiêm) và tử vong (khoảng 0,3/10.000 trường hợp tiêm).
+
+Phản ứng muộn: Bệnh huyết thanh, phát ban (ví dụ như sẹo lồi, sẹo lồi, lưỡi liềm) và viêm da tróc da (thường xuất hiện sau 7 đến 10 ngày điều trị).
+
+Phần lớn bệnh nhân báo cáo phản ứng dị ứng với penicillin không phản ứng với tiếp xúc với penicillin sau đó. Mặc dù nhỏ, nguy cơ phản ứng dị ứng cao gấp 10 lần đối với bệnh nhân đã từng có phản ứng dị ứng. Nhiều bệnh nhân báo cáo các phản ứng phụ đối với penicillin không gây dị ứng thực sự (ví dụ: các tác dụng phụ ở đường tiêu hoá các triệu chứng không đặc hiệu).
+
+Nếu bệnh nhân có lịch sử mơ hồ hoặc không phù hợp với dị ứng penicillin và sử dụng thuốc kháng sinh thay thế không hiệu quả hoặc thuận lợi thì có thể thử nghiệm bằng
+
+test lẩy da
+
+. Có thể thử
+
+giải mẫn cảm
+
+ở những bệnh nhân có xét nghiệm da dương tính nếu không có lựa chọn thay thế cho kháng sinh loại penicillin. Tuy nhiên, bệnh nhân có tiền sử sốc phản vệ với penicillin không nên dùng penicillin khác hoặc bất kỳ beta-lactam nào có chuỗi bên tương tự (bao gồm cả xét nghiệm da), ngoại trừ những trường hợp rất hiếm khi không tìm được thuốc thay thế và có thể dùng kháng sinh theo giám sát trong một môi trường được kiểm soát. Trong những trường hợp như vậy, cần phải có các biện pháp phòng ngừa đặc hiệu và giải mẫn cảm.
+
+Phát ban
+
+Phát ban xảy ra thường xuyên hơn với ampicillin và amoxicillin so với penicillin khác. Bệnh nhân bị bệnh tăng bạch cầu đơn nhân nhiễm khuẩn thường phát ban không phải dị ứng điển hình là ban sẩn thường bắt đầu từ ngày thứ 4 đến ngày thứ 7 của điều trị.
+
+Tác dụng phụ khác
+
+Penicillins cũng có thể gây ra
+
+Độc tính của hệ thần kinh trung ương (ví dụ, co giật) nếu liều cao, đặc biệt ở những bệnh nhân suy thận
+
+Viêm thận
+
+Tiêu chảy do
+
+Clostridioides
+
+(trước đây là
+
+Clostridium
+
+)
+
+difficile
+
+(viêm đại tràng giả mạc)
+
+Thiếu máu tán Coombs dương tính
+
+Giảm bạch cầu
+
+Giảm tiểu cầu
+
+Giảm bạch cầu dường như xảy ra thường xuyên nhất với nafcillin. Bất kỳ penicillin nào được sử dụng với liều lượng rất cao qua đường tiêm tĩnh mạch đều có thể cản trở chức năng tiểu cầu và gây chảy máu.
+
+Các tác dụng phụ khác bao gồm đau ở vị trí tiêm bắp, chứng huyết khối tĩnh mạch khi cùng một vị trí được sử dụng nhiều lần để tiêm tĩnh mạch, và với các công thức uống, gây rối loạn tiêu hoá.
+
+Cân nhắc về liều lượng đối với Penicillin
+
+Vì các penicilin, ngoại trừ các penicilin chống tụ cầu (ví dụ, nafcillin, oxacillin, cloxacillin, dicloxacillin), đạt nồng độ cao trong nước tiểu, nên phải giảm liều ở bệnh nhân suy thận nặng. Probenecid ức chế sự bài tiết ở ống thận nhiều penicillin, nên làm tăng nồng độ trong máu. Đôi khi nó được cung cấp đồng thời để duy trì nồng độ trong máu cao.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học của nhóm Penicillin ---
+
+Thực phẩm không can thiệp vào việc hấp thu amoxicillin, nhưng penicillin G nên được cho trước 1 giờ hoặc 2 giờ sau bữa ăn.Amoxicillinthường thay thế ampicillin để sử dụng bằng đường uống vìamoxicillinđược hấp thu tốt hơn, ít tác dụng lên đường tiêu hóa hơn và có thể được dùng ít thường xuyên hơn.Penicillin được phân phối nhanh chóng trong dịch ngoại bào của hầu hết các mô, đặc biệt khi có hiện tượng viêm.Tất cả các penicilin đều được bài tiết ít nhất một phần qua nước tiểu, và hầu hết đều đạt nồng độ cao trong nước tiểu. Penicillin G tiêm được bài tiết nhanh (thời gian bán thải trong huyết thanh 0,5 giờ), trừ các dạng tồn dư (benzathin hoặc muối proaine penicillin G); các dạng này chỉ dành cho tiêm bắp sâu và cung cấp một mô chứa thuốc mà sự hấp thu diễn ra trong vài giờ đến vài ngày. Benzathine penicillin đạt mức đỉnh điểm chậm hơn và thường hoạt động lâu hơn so với procaine penicillin. Các muối procain làm tăng khả dụng sinh học, dẫn đến việc thanh thải thuốc nhanh hơn; ví dụ, penicillin G procaine chỉ có thể được phát hiện trong máu trong 1 tuần so với penicillin G benzathine, có thể được phát hiện trong 30 ngày (1).Tham khảo dược động học1.Centers for Disease Control and Prevention (CDC): Inadvertent use of Bicillin C-R to treat syphilis infection—Los Angeles, California, 1999-2004.MMWR Morb Mortal Wkly Rep54(9):217–219, 2005.
+
+--- 2. Chỉ định cho Penicillin ---
+
+Kháng sinh giống penicillin GThuốc kháng sinh giống Penicillin G (bao gồm penicillin V) chủ yếu được sử dụng để chống lạiVi khuẩn gram dươngMột số cầu khuẩn gram âm (ví dụ, bệnhviêm màng nãocầu khuẩn)Một số ít trực khuẩn gram âm cũng nhạy cảm với liều lượng lớnpenicillin Gqua đường tiêm truyền. Hầu hết các tụ cầu khuẩn, hầu hếtNeisseria gonorrhoeae, nhiều trực khuẩn gram âm kỵ khí và khoảng 30%Haemophilusenzaeđều kháng thuốc.Penicillin Glà thuốc được lựa chọn điều trịbệnh giang mai, một sốbệnh nhiễm trùng do clostridialvà cùng với gentamicin, điều trịviêm nội tâm mạcdo vi khuẩn đường ruột nhạy cảm.Penicillin Ghoặc ceftriaxone được khuyến nghị cho viêm nội tâm mạc do liên cầu.Benzathine penicillin G là một công thức bào chế tác dụng kéo dài (chỉ để sử dụng tiêm bắp):Benzathine penicillinHỗn hợp benzathine và Procainepenicillin Gvới lượng bằng nhauHỗn hợp 3:1 gồm 0,9 triệu đơn vị benzathine và 0,3 triệu đơn vị Procainepenicillin GTrong số 3 sản phẩm, chỉ cần dùng benzathine penicillin tinh khiết để điều trị bệnh giang mai và phòng chốngthấp khớp. Chất benzathine penicillin nguyên chất và hỗn hợp với lượng bằng nhau được chỉ định để điều trị nhiễm khuẩn đường hô hấp trên,da và các mô mềmdo các streptococci nhạy cảm.Amoxicillin và ampicillinAmoxicillin và ampicillin có hoạt tính chống lạiEnterococciMột số trực khuẩn gram âm, chẳng hạn như các loàiH. influenzae,E. coli, vàProteus mirabilis; loàiSalmonella; và loàiShigellakhông sản xuất beta-lactamase.Việc bổ sung một beta-lactamase (clavulanate hoặc sulbactam) cho phép sử dụng chống lạistaphylococci,H. influenzaenhạy cảm với methicillin,Moraxella catarrhalis,Bacteroides,E. coli, vàK. viêm phổi.Penicillinase kháng (chống tụ cầu)Các penicillin kháng penicillinase (dicloxacillin, nafcillin, cloxacillin, flucloxacillin và oxacillin) được sử dụng chủ yếu để điều trịStaphylococcus aureusnhạy cảm methicillin sản sinh PenicillinaseNhững loại kháng sinh này cũng được sử dụng để điều trị một số bệnh nhiễm trùngStreptococcus pneumoniae, liên cầu khuẩn nhóm A và nhiễm trùng tụ cầu âm tính coagulase nhạy cảm với methicillin.Thuốc ức chế penicillin phổ rộng (antipseudomonal)Piperacillin/tazobactam có hoạt tính chống lạiVi khuẩn nhạy cảm với ampicillinMột số chủngEnterobactervàSerratiasppNhiều chủngP. aeruginosaViệc bổ sung một chất ức chế beta-lactamase tăng cường hoạt động chống lại beta-lactamase sản sinh methicillin nhạy cảmS. aureus,E. coli,K. pneumoniae,H. influenzae, và vi khuẩn gram âm kỵ khí, nhưng không chống lại các vi khuẩn gram âm tạo ra ampoc beta-lactamase hoặc KPC và chỉ có thể ức chế một phần ESBL do một sốK. pneumoniae,E. coli, và Enterobacteriaceae khác. Penicillin phổ rộng có tính hiệp lực với aminoglycosides và thường được sử dụng với lớp này để điều trịP. aeruginosanhiễm trùng.
+
+--- 3. Chống chỉ định với Penicillin ---
+
+Penicillin là chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng nghiêm trọng với chúng.
+
+--- 4. Sử dụng Penicillin trong thời kỳ mang thai và cho con bú ---
+
+Penicillin là một trong những loại kháng sinh an toàn nhất trong thai kỳ. Các nghiên cứu sinh sản động vật với penicillin không cho thấy nguy cơ đối với thai nhi. Dữ liệu liên quan đến việc mang thai ở người còn hạn chế. Nếu được chỉ định về mặt y học, penicillin có thể được sử dụng trong thời kỳ mang thai. Penicillin G có hiệu quả trong việc ngăn ngừa lây truyền bệnh giang mai từ mẹ sang thai nhi và điều trị nhiễm trùng thai nhi và mẹ.Penicillin vào sữa mẹ với số lượng nhỏ. Việc sử dụng chúng thường được coi là tương thích với việc cho con bú.
+
+--- 5. Tác dụng bất lợi của penicillins ---
+
+Tác dụng phụ của penicillinsPhản ứng quá mẫn, bao gồm phát ban (phổ biến nhất)Khó chịu đường tiêu hóa bao gồm buồn nôn, nôn và tiêu chảyCác tác dụng phụ khác xảy ra ít gặp hơn.Penicillin uống có thể gây ra hiện tượng lưỡi có lông đen, xảy ra do kích ứng bề mặt bóng và sự sừng hóa của các lớp bề mặt. Đây là một tình trạng hiếm gặp và vô hại và sẽ tự khỏi sau khi ngừng dùng kháng sinh.Quá mẫnHầu hết các phản ứng phụ là phản ứng quá mẫn:Phản ứng tức thời:Sốc nhiễm khuẩn(có thể gây tử vong trong vòng vài phút), nổi mày đay và phù mạch (từ 1 đến 5/10.000 trường hợp tiêm) và tử vong (khoảng 0,3/10.000 trường hợp tiêm).Phản ứng muộn: Bệnh huyết thanh, phát ban (ví dụ như sẹo lồi, sẹo lồi, lưỡi liềm) và viêm da tróc da (thường xuất hiện sau 7 đến 10 ngày điều trị).Phần lớn bệnh nhân báo cáo phản ứng dị ứng với penicillin không phản ứng với tiếp xúc với penicillin sau đó. Mặc dù nhỏ, nguy cơ phản ứng dị ứng cao gấp 10 lần đối với bệnh nhân đã từng có phản ứng dị ứng. Nhiều bệnh nhân báo cáo các phản ứng phụ đối với penicillin không gây dị ứng thực sự (ví dụ: các tác dụng phụ ở đường tiêu hoá các triệu chứng không đặc hiệu).Nếu bệnh nhân có lịch sử mơ hồ hoặc không phù hợp với dị ứng penicillin và sử dụng thuốc kháng sinh thay thế không hiệu quả hoặc thuận lợi thì có thể thử nghiệm bằngtest lẩy da. Có thể thửgiải mẫn cảmở những bệnh nhân có xét nghiệm da dương tính nếu không có lựa chọn thay thế cho kháng sinh loại penicillin. Tuy nhiên, bệnh nhân có tiền sử sốc phản vệ với penicillin không nên dùng penicillin khác hoặc bất kỳ beta-lactam nào có chuỗi bên tương tự (bao gồm cả xét nghiệm da), ngoại trừ những trường hợp rất hiếm khi không tìm được thuốc thay thế và có thể dùng kháng sinh theo giám sát trong một môi trường được kiểm soát. Trong những trường hợp như vậy, cần phải có các biện pháp phòng ngừa đặc hiệu và giải mẫn cảm.Phát banPhát ban xảy ra thường xuyên hơn với ampicillin và amoxicillin so với penicillin khác. Bệnh nhân bị bệnh tăng bạch cầu đơn nhân nhiễm khuẩn thường phát ban không phải dị ứng điển hình là ban sẩn thường bắt đầu từ ngày thứ 4 đến ngày thứ 7 của điều trị.Tác dụng phụ khácPenicillins cũng có thể gây raĐộc tính của hệ thần kinh trung ương (ví dụ, co giật) nếu liều cao, đặc biệt ở những bệnh nhân suy thậnViêm thậnTiêu chảy doClostridioides(trước đây làClostridium)difficile(viêm đại tràng giả mạc)Thiếu máu tán Coombs dương tínhGiảm bạch cầuGiảm tiểu cầuGiảm bạch cầu dường như xảy ra thường xuyên nhất với nafcillin. Bất kỳ penicillin nào được sử dụng với liều lượng rất cao qua đường tiêm tĩnh mạch đều có thể cản trở chức năng tiểu cầu và gây chảy máu.Các tác dụng phụ khác bao gồm đau ở vị trí tiêm bắp, chứng huyết khối tĩnh mạch khi cùng một vị trí được sử dụng nhiều lần để tiêm tĩnh mạch, và với các công thức uống, gây rối loạn tiêu hoá.
+
+--- 6. Cân nhắc về liều lượng đối với Penicillin ---
+
+Vì các penicilin, ngoại trừ các penicilin chống tụ cầu (ví dụ, nafcillin, oxacillin, cloxacillin, dicloxacillin), đạt nồng độ cao trong nước tiểu, nên phải giảm liều ở bệnh nhân suy thận nặng. Probenecid ức chế sự bài tiết ở ống thận nhiều penicillin, nên làm tăng nồng độ trong máu. Đôi khi nó được cung cấp đồng thời để duy trì nồng độ trong máu cao.

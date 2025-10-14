@@ -1,0 +1,279 @@
+TIÊU ĐỀ: Ứng dụng lâm sàng của di truyền học
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/nguyên-lý-cơ-bản-của-di-truyền-y-học/ứng-dụng-lâm-sàng-của-di-truyền-học
+================================================================================
+
+NỘI DUNG:
+
+Ứng dụng lâm sàng của di truyền học
+
+Theo
+
+Quasar S. Padiath
+
+,
+
+MBBS, PhD
+
+,
+
+University of Pittsburgh
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1123622_vi
+
+Chẩn đoán
+
+|
+
+Sàng lọc di truyền
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Việc làm sáng tỏ các nguyên tắc và cơ chế di truyền đã nâng cao hiểu biết về nhiều bệnh tật và thúc đẩy cải thiện trong việc sàng lọc, chẩn đoán và điều trị các bệnh đó.
+
+Di truyền học cũng đã giúp hiểu biết sâu hơn về nhiều rối loạn, đôi khi cho phép phân loại lại các rối loạn đó. Ví dụ: phân loại nhiều tình trạng
+
+thất điều tủy sống-tiểu não
+
+đã được thay đổi từ dựa trên tiêu chuẩn lâm sàng sang dựa trên tiêu chuẩn di truyền.
+
+cơ sở dữ liệu dự án di truyền Mendel ở người (
+
+OMIM
+
+) ) là nơi cung cấp thông tin về các rối loạn di truyền trên hệ gen người.
+
+(Xem thêm
+
+Tổng quan về di truyền học
+
+.)
+
+Chẩn đoán rối loạn di truyền
+
+xét nghiệm gen được sử dụng để chẩn đoán nhiều rối loạn (ví dụ:,
+
+Hội chứng Turner
+
+,
+
+Hội chứng klinefelter
+
+,
+
+bệnh hemochromatosis
+
+). Chẩn đoán bệnh lý di truyền thường tiến hành trên những người thân của người mắc bệnh lý di truyền hoặc phụ nữ có thai để sàng lọc bệnh. Danh mục các xét nghiệm di truyền và các bài đánh giá về bệnh di truyền với các hướng dẫn chẩn đoán và các khuyến cáo về nguy cơ cao có sẵn từ
+
+Genetic Testing Registry
+
+.
+
+Sàng lọc di truyền ở các quần thể có nguy cơ
+
+Sàng lọc di truyền có thể được chỉ định ở những nhóm bệnh nhân có nguy cơ mắc một rối loạn di truyền cụ thể. Tiêu chuẩn thông thường cho sàng lọc di truyền là
+
+Mô hình di truyền gen được biết đến.
+
+Có liệu pháp hiệu quả.
+
+Các xét nghiệm sàng lọc có đầy đủ, đáng tin cậy, độ nhạy và độ đặc hiệu cao, không xâm lấn và an toàn.
+
+Tỷ lệ hiện mắc trong dân số phải đủ cao để làm cơ sở cho chi phí sàng lọc.
+
+Xét nghiệm trước khi thụ thai hoặc xét nghiệm người mang gen bệnh trước khi sinh
+
+nhằm mục đích xác định những bậc cha mẹ có nguy cơ sinh con mắc rối loạn di truyền (tức là những người mang gen bệnh là gen lặn mặc dù họ có kiểu hình bình thường). Tuy nhiên, tiền sử gia đình cho thấy những bậc cha mẹ này có thể mang gen gây nguy cơ mắc bệnh không thâm nhập hoàn toàn. Các ví dụ về sàng lọc được cung cấp bao gồm
+
+bệnh Tay-Sachs
+
+đối với những người có tổ tiên là người Do Thái Ashkenazi,
+
+bệnh hồng cầu hình liềm
+
+đối với những người có tổ tiên là người châu Phi,
+
+bệnh thalassemia
+
+đối với một số tổ tiên ở khu vực hoặc bệnh Huntington đối với các thành viên gia đình của những người bị ảnh hưởng.
+
+Nếu kết quả xét nghiệm trước khi thụ thai hoặc xét nghiệm người mang gen trước khi sinh xác định nguy cơ di truyền, cha mẹ sẽ được tư vấn về các lựa chọn để xét nghiệm hoặc can thiệp thêm trước (ví dụ:
+
+chẩn đoán di truyền trước khi trứng làm tổ
+
+) hoặc trong thai kỳ (ví dụ:
+
+chọc ối
+
+,
+
+lấy mẫu nhung mao màng đệm
+
+,
+
+lấy mẫu máu dây rốn
+
+,
+
+lấy mẫu máu của mẹ
+
+,
+
+chẩn đoán hình ảnh thai nhi
+
+). Trong một số trường hợp, các rối loạn di truyền được chẩn đoán trước sau đó có thể được điều trị, ngăn ngừa các biến chứng.. Ví dụ: chế độ ăn uống đặc biệt hoặc liệu pháp thay thế có thể giảm thiểu hoặc loại bỏ tác động của bệnh phenylketon niệu, galactose máu và suy giáp. Corticosteroid cho người mẹ trước khi sinh có thể làm giảm mức độ nghiêm trọng của chứng suy thượng thận bẩm sinh.
+
+Điều trị rối loạn di truyền
+
+Hiểu được cơ sở di truyền và rối loạn phân tử có thể giúp hướng dẫn điều trị. Ví dụ, hạn chế chế độ ăn uống có thể loại bỏ các hợp chất độc hại cho các bệnh nhân có khuyết tật di truyền nhất định, chẳng hạn như phenylketon niệu hoặc homocystin niệu. Vitamin hoặc các chất khác có thể điều hòa chuyển hóa sinh hóa và do đó làm giảm mức độ độc hại của một phức chất; ví dụ folate (folic acid) làm giảm mức homocysteine ở những người có 5,10-methylene tetrahydrofolate reductase. Điều trị cũng có thể bao gồm việc thay thế hợp phần bị thiếu hoặc chặn một con đường hoạt động quá mức.
+
+Ảnh hưởng của gen tới thuốc
+
+Ảnh hưởng của gen tới thuốc là nghiên cứu về đặc điểm di truyền ảnh hưởng như thế nào đến sự đáp ứng với thuốc. Mặt khác của ảnh hưởng của gen tới thuốc còn tìm hiểu về quan hệ giữa gen và
+
+dược động học
+
+. Đặc điểm di truyền của một người có thể giúp dự đoán phản ứng của phương pháp điều trị. Ví dụ: quá trình chuyển hóa warfarin được xác định một phần bởi các biến thể trong gen của enzyme CYP2C9 và protein phức hợp epoxide reductase vitamin K 1. Các biến thể di truyền (ví dụ, trong sản xuất UDP [uridine diphosphate] -glucuronosyltransferase 1A1) cũng giúp dự đoán liệu thuốc chống ung thư irinotecan có gây ra các tác dụng bất lợi không thể dung nạp được hay không.
+
+Bên cạnh đó của ảnh hưởng của gen tới thuốc là
+
+dược lực học
+
+(như thế nào thuốc tương tác với thụ thể tế bào). Các đặc tính nhận dạng di truyền và các thụ thể receptor có thể giúp đưa ra các mục tiêu chính xác hơn khi phát triển các loại thuốc (ví dụ thuốc chống ung thư). Ví dụ, trastuzumab có thể nhắm mục tiêu đến các thụ thể tế bào ung thư cụ thể trong ung thư vú di căn làm khuếch đại
+
+HER2/neu
+
+gen. Sự hiện diện của nhiễm sắc thể Philadelphia ở bệnh nhân mắc
+
+bệnh bạch cầu dòng tủy mạn
+
+(CML) giúp dẫn hướng hóa trị liệu.
+
+Liệu pháp gen
+
+Liệu pháp gen có thể được xem xét rộng rại cho bất kỳ điều trị nào cần thay đổi chức năng của gen. Tuy nhiên, liệu pháp gen thường được coi là sự chèn các gen bình thường vào tế bào của một người thiếu gen đó vì một rối loạn di truyền cụ thể. Các gen bình thường có thể được tạo ra, bằng cách sử dụng phương pháp phản ứng chuỗi polymerase (PCR), từ DNA bình thường do một người khác hiến tặng. Bởi vì hầu hết các rối loạn di truyền là lặn, thường là chỉ một gen trội bình thường được gài vào. Hiện tại, liệu pháp chèn gen như vậy rất có thể có hiệu quả trong việc ngăn ngừa hoặc chữa trị
+
+các khiếm khuyết gen đơn lẻ
+
+, chẳng hạn như
+
+bệnh xơ nang
+
+.
+
+Chuyển gen bằng virus
+
+là một cách để chuyển DNA vào tế bào chủ. DNA bình thường được gắn vào virut, sau đó sẽ chuyển các tế bào của vật chủ, qua đó truyền ADN vào nhân tế bào. Một số lo ngại quan trọng về việc chèn bằng cách sử dụng vi rút bao gồm phản ứng với vi-rút, mất nhanh (không truyền được) DNA bình thường mới và thiệt hại đối với vi rút bởi các kháng thể được phát triển chống lại vi rút, vectơ vi rút hoặc protein được truyền, mà hệ thống miễn dịch công nhận là nước ngoài. Nói cách khác để chuyển DNA sử dụng liposome, được hấp thụ bởi các tế bào vật chủ và bằng cách ấy đưa DNA của chúng đến nhân tế bào. Các vấn đề tiềm ẩn với các phương pháp chèn liposome bao gồm sự thất bại trong việc hấp thụ liposome vào tế bào, sự xuống cấp nhanh của ADN bình thường mới, và sự hợp nhất thất bại của DNA.
+
+Với
+
+công nghệ antisense
+
+, thay vì chèn các gen bình thường, biểu hiện gen có thể bị thay đổi. RNA biến đổi có thể được sử dụng để nhắm mục tiêu vào các phần cụ thể của DNA hoặc RNA nhằm ngăn chặn hoặc làm giảm biểu hiện gen. Công nghệ antisense hiện đang được thử nghiệm để điều trị ung thư và một số rối loạn thần kinh nhưng vẫn còn trong giai đoạn sớm của thử nghiệm. Tuy nhiên, phương pháp này vẫn mang lại nhiều hứa hẹn hơn liệu pháp chèn gen vì tỷ lệ thành công có thể cao hơn và các biến chứng có thể ít hơn. Antisense oligonucleotides có sẵn để sử dụng trong lâm sàng để điều trị
+
+chứng teo cơ cột sống
+
+và
+
+chứng loạn dưỡng cơ Duchenne
+
+.
+
+Một cách tiếp cận khác để điều trị gen là thay đổi biểu hiện gen bằng biện pháp hóa học (ví dụ, bằng cách sửa đổi methyl hóa DNA). Các phương pháp này đã được thử nghiệm thực nghiệm trong điều trị ung thư. Biến đổi về hóa học cũng có thể ảnh hưởng đến quá trình in dấu gen, mặc dù tác động này không rõ ràng.
+
+Liệu pháp gen cũng đang được nghiên cứu thực nghiệm trong phẫu thuật cấy ghép. Thay đổi gen của các cơ quan được cấy ghép để làm cho chúng tương thích với gen của người nhận làm cho việc thải ghép giảm thiểu (và do đó cần đến các thuốc ức chế miễn dịch). Tuy nhiên, cho đến nay quá trình này hiếm khi hoạt động.
+
+CRISPR-CAS9 (
+
+c
+
+lustered
+
+r
+
+egularly
+
+i
+
+nterspaced
+
+s
+
+hort
+
+p
+
+alindromic
+
+r
+
+epeats–protein liên kết với CRISPR 9) sử dụng nền tảng chỉnh sửa gen DNA được hướng dẫn bằng RNA đa năng được điều chỉnh từ sinh học vi khuẩn để thao tác và sửa đổi cấu trúc di truyền của sinh vật. Trong khi vẫn còn đang thử nghiệm, CRISPR-CAS9 đang nhanh chóng tiến tới phương pháp trị liệu cho con người.
+
+Những điểm chính
+
+Sàng lọc di truyền là hợp lý chỉ khi tỷ lệ mắc bệnh là đủ cao, điều trị là khả thi, và các xét nghiệm là đầy đủ và chính xác.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán rối loạn di truyền ---
+
+xét nghiệm gen được sử dụng để chẩn đoán nhiều rối loạn (ví dụ:,Hội chứng Turner,Hội chứng klinefelter,bệnh hemochromatosis). Chẩn đoán bệnh lý di truyền thường tiến hành trên những người thân của người mắc bệnh lý di truyền hoặc phụ nữ có thai để sàng lọc bệnh. Danh mục các xét nghiệm di truyền và các bài đánh giá về bệnh di truyền với các hướng dẫn chẩn đoán và các khuyến cáo về nguy cơ cao có sẵn từGenetic Testing Registry.
+
+--- 2. Sàng lọc di truyền ở các quần thể có nguy cơ ---
+
+Sàng lọc di truyền có thể được chỉ định ở những nhóm bệnh nhân có nguy cơ mắc một rối loạn di truyền cụ thể. Tiêu chuẩn thông thường cho sàng lọc di truyền làMô hình di truyền gen được biết đến.Có liệu pháp hiệu quả.Các xét nghiệm sàng lọc có đầy đủ, đáng tin cậy, độ nhạy và độ đặc hiệu cao, không xâm lấn và an toàn.Tỷ lệ hiện mắc trong dân số phải đủ cao để làm cơ sở cho chi phí sàng lọc.Xét nghiệm trước khi thụ thai hoặc xét nghiệm người mang gen bệnh trước khi sinhnhằm mục đích xác định những bậc cha mẹ có nguy cơ sinh con mắc rối loạn di truyền (tức là những người mang gen bệnh là gen lặn mặc dù họ có kiểu hình bình thường). Tuy nhiên, tiền sử gia đình cho thấy những bậc cha mẹ này có thể mang gen gây nguy cơ mắc bệnh không thâm nhập hoàn toàn. Các ví dụ về sàng lọc được cung cấp bao gồmbệnh Tay-Sachsđối với những người có tổ tiên là người Do Thái Ashkenazi,bệnh hồng cầu hình liềmđối với những người có tổ tiên là người châu Phi,bệnh thalassemiađối với một số tổ tiên ở khu vực hoặc bệnh Huntington đối với các thành viên gia đình của những người bị ảnh hưởng.Nếu kết quả xét nghiệm trước khi thụ thai hoặc xét nghiệm người mang gen trước khi sinh xác định nguy cơ di truyền, cha mẹ sẽ được tư vấn về các lựa chọn để xét nghiệm hoặc can thiệp thêm trước (ví dụ:chẩn đoán di truyền trước khi trứng làm tổ) hoặc trong thai kỳ (ví dụ:chọc ối,lấy mẫu nhung mao màng đệm,lấy mẫu máu dây rốn,lấy mẫu máu của mẹ,chẩn đoán hình ảnh thai nhi). Trong một số trường hợp, các rối loạn di truyền được chẩn đoán trước sau đó có thể được điều trị, ngăn ngừa các biến chứng.. Ví dụ: chế độ ăn uống đặc biệt hoặc liệu pháp thay thế có thể giảm thiểu hoặc loại bỏ tác động của bệnh phenylketon niệu, galactose máu và suy giáp. Corticosteroid cho người mẹ trước khi sinh có thể làm giảm mức độ nghiêm trọng của chứng suy thượng thận bẩm sinh.
+
+--- 3. Điều trị rối loạn di truyền ---
+
+Hiểu được cơ sở di truyền và rối loạn phân tử có thể giúp hướng dẫn điều trị. Ví dụ, hạn chế chế độ ăn uống có thể loại bỏ các hợp chất độc hại cho các bệnh nhân có khuyết tật di truyền nhất định, chẳng hạn như phenylketon niệu hoặc homocystin niệu. Vitamin hoặc các chất khác có thể điều hòa chuyển hóa sinh hóa và do đó làm giảm mức độ độc hại của một phức chất; ví dụ folate (folic acid) làm giảm mức homocysteine ở những người có 5,10-methylene tetrahydrofolate reductase. Điều trị cũng có thể bao gồm việc thay thế hợp phần bị thiếu hoặc chặn một con đường hoạt động quá mức.Ảnh hưởng của gen tới thuốcẢnh hưởng của gen tới thuốc là nghiên cứu về đặc điểm di truyền ảnh hưởng như thế nào đến sự đáp ứng với thuốc. Mặt khác của ảnh hưởng của gen tới thuốc còn tìm hiểu về quan hệ giữa gen vàdược động học. Đặc điểm di truyền của một người có thể giúp dự đoán phản ứng của phương pháp điều trị. Ví dụ: quá trình chuyển hóa warfarin được xác định một phần bởi các biến thể trong gen của enzyme CYP2C9 và protein phức hợp epoxide reductase vitamin K 1. Các biến thể di truyền (ví dụ, trong sản xuất UDP [uridine diphosphate] -glucuronosyltransferase 1A1) cũng giúp dự đoán liệu thuốc chống ung thư irinotecan có gây ra các tác dụng bất lợi không thể dung nạp được hay không.Bên cạnh đó của ảnh hưởng của gen tới thuốc làdược lực học(như thế nào thuốc tương tác với thụ thể tế bào). Các đặc tính nhận dạng di truyền và các thụ thể receptor có thể giúp đưa ra các mục tiêu chính xác hơn khi phát triển các loại thuốc (ví dụ thuốc chống ung thư). Ví dụ, trastuzumab có thể nhắm mục tiêu đến các thụ thể tế bào ung thư cụ thể trong ung thư vú di căn làm khuếch đạiHER2/neugen. Sự hiện diện của nhiễm sắc thể Philadelphia ở bệnh nhân mắcbệnh bạch cầu dòng tủy mạn(CML) giúp dẫn hướng hóa trị liệu.Liệu pháp genLiệu pháp gen có thể được xem xét rộng rại cho bất kỳ điều trị nào cần thay đổi chức năng của gen. Tuy nhiên, liệu pháp gen thường được coi là sự chèn các gen bình thường vào tế bào của một người thiếu gen đó vì một rối loạn di truyền cụ thể. Các gen bình thường có thể được tạo ra, bằng cách sử dụng phương pháp phản ứng chuỗi polymerase (PCR), từ DNA bình thường do một người khác hiến tặng. Bởi vì hầu hết các rối loạn di truyền là lặn, thường là chỉ một gen trội bình thường được gài vào. Hiện tại, liệu pháp chèn gen như vậy rất có thể có hiệu quả trong việc ngăn ngừa hoặc chữa trịcác khiếm khuyết gen đơn lẻ, chẳng hạn nhưbệnh xơ nang.Chuyển gen bằng viruslà một cách để chuyển DNA vào tế bào chủ. DNA bình thường được gắn vào virut, sau đó sẽ chuyển các tế bào của vật chủ, qua đó truyền ADN vào nhân tế bào. Một số lo ngại quan trọng về việc chèn bằng cách sử dụng vi rút bao gồm phản ứng với vi-rút, mất nhanh (không truyền được) DNA bình thường mới và thiệt hại đối với vi rút bởi các kháng thể được phát triển chống lại vi rút, vectơ vi rút hoặc protein được truyền, mà hệ thống miễn dịch công nhận là nước ngoài. Nói cách khác để chuyển DNA sử dụng liposome, được hấp thụ bởi các tế bào vật chủ và bằng cách ấy đưa DNA của chúng đến nhân tế bào. Các vấn đề tiềm ẩn với các phương pháp chèn liposome bao gồm sự thất bại trong việc hấp thụ liposome vào tế bào, sự xuống cấp nhanh của ADN bình thường mới, và sự hợp nhất thất bại của DNA.Vớicông nghệ antisense, thay vì chèn các gen bình thường, biểu hiện gen có thể bị thay đổi. RNA biến đổi có thể được sử dụng để nhắm mục tiêu vào các phần cụ thể của DNA hoặc RNA nhằm ngăn chặn hoặc làm giảm biểu hiện gen. Công nghệ antisense hiện đang được thử nghiệm để điều trị ung thư và một số rối loạn thần kinh nhưng vẫn còn trong giai đoạn sớm của thử nghiệm. Tuy nhiên, phương pháp này vẫn mang lại nhiều hứa hẹn hơn liệu pháp chèn gen vì tỷ lệ thành công có thể cao hơn và các biến chứng có thể ít hơn. Antisense oligonucleotides có sẵn để sử dụng trong lâm sàng để điều trịchứng teo cơ cột sốngvàchứng loạn dưỡng cơ Duchenne.Một cách tiếp cận khác để điều trị gen là thay đổi biểu hiện gen bằng biện pháp hóa học (ví dụ, bằng cách sửa đổi methyl hóa DNA). Các phương pháp này đã được thử nghiệm thực nghiệm trong điều trị ung thư. Biến đổi về hóa học cũng có thể ảnh hưởng đến quá trình in dấu gen, mặc dù tác động này không rõ ràng.Liệu pháp gen cũng đang được nghiên cứu thực nghiệm trong phẫu thuật cấy ghép. Thay đổi gen của các cơ quan được cấy ghép để làm cho chúng tương thích với gen của người nhận làm cho việc thải ghép giảm thiểu (và do đó cần đến các thuốc ức chế miễn dịch). Tuy nhiên, cho đến nay quá trình này hiếm khi hoạt động.CRISPR-CAS9 (clusteredregularlyinterspacedshortpalindromicrepeats–protein liên kết với CRISPR 9) sử dụng nền tảng chỉnh sửa gen DNA được hướng dẫn bằng RNA đa năng được điều chỉnh từ sinh học vi khuẩn để thao tác và sửa đổi cấu trúc di truyền của sinh vật. Trong khi vẫn còn đang thử nghiệm, CRISPR-CAS9 đang nhanh chóng tiến tới phương pháp trị liệu cho con người.
+
+--- 4. Những điểm chính ---
+
+Sàng lọc di truyền là hợp lý chỉ khi tỷ lệ mắc bệnh là đủ cao, điều trị là khả thi, và các xét nghiệm là đầy đủ và chính xác.

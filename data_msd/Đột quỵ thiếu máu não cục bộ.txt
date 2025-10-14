@@ -1,0 +1,1679 @@
+TIÊU ĐỀ: Đột quỵ thiếu máu não cục bộ
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/đột-quỵ/đột-quỵ-thiếu-máu-não-cục-bộ
+================================================================================
+
+NỘI DUNG:
+
+Đột quỵ thiếu máu não cục bộ
+
+Theo
+
+Andrei V. Alexandrov
+
+,
+
+MD
+
+,
+
+The University of Tennessee Health Science Center;
+
+Balaji Krishnaiah
+
+,
+
+MD
+
+,
+
+The University of Tennessee Health Science Center
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1034640_vi
+
+Đột quỵ thiếu máu não cục bộ là các triệu chứng thần kinh đột ngột do thiếu máu não cục bộ gắn liền với nhồi máu não vĩnh viễn (ví dụ, các kết quả dương tính trên MRI xung khuếch tán). Nguyên nhân thường gặp là tắc do xơ vữa động mạch lớn; tắc mạch não (nhồi máu do tắc mạch); tắc không do huyết khối của các động mạch não nhỏ, sâu (nhồi máu khuyết); và hẹp động mạch đoạn gần với hạ huyết áp làm giảm lưu lượng máu não ở vùng đầu nguồn động mạch (đột quỵ do huyết động). Không có nguyên nhân nào được xác định trong 1/3 số ca đột quỵ do thiếu máu não cục bộ tại thời điểm bệnh nhân xuất viện; những ca đột quỵ này được phân loại là không biết nguồn gốc. Chẩn đoán dựa trên lâm sàng, nhưng chụp CT hoặc MRI sẽ được thực hiện để loại trừ xuất huyết và xác nhận sự hiện diện cũng như mức độ của đột quỵ. Liệu pháp tiêu huyết khối trong giai đoạn cấp tính có thể hữu ích ở một số bệnh nhân. Tùy thuộc vào nguyên nhân gây đột quỵ, phẫu thuật cắt bỏ nội mạc động mạch cảnh hoặc đặt stent, thuốc chống kết tập tiểu cầu hoặc thuốc chống đông máu có thể giúp giảm nguy cơ đột quỵ tiếp theo.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Căn nguyên của đột quỵ do thiếu máu não cục bộ
+
+Dưới đây là các yếu tố nguy cơ có thể thay đổi được góp phần làm tăng nguy cơ đột quỵ thiếu máu não cục bộ:
+
+Tăng huyết áp
+
+Hút thuốc lá
+
+Rối loạn lipid máu
+
+Bệnh tiểu đường
+
+Kháng
+
+Insulin
+
+Béo bụng
+
+Ngưng thở tắc nghẽn khi ngủ
+
+Lạm dụng rượu
+
+Thiếu hoạt động thể lực
+
+Chế độ ăn nguy cơ cao (ví dụ: giàu chất béo bão hòa, chất béo chuyển dạng và năng lượng)
+
+Căng thẳng tâm lý và xã hội (ví dụ,
+
+trầm cảm
+
+)
+
+Bệnh tim (đặc biệt là các bệnh dễ gây thuyên tắc, chẳng hạn như
+
+nhồi máu cơ tim cấp
+
+,
+
+viêm nội tâm mạc nhiễm trùng
+
+,
+
+bệnh van tim
+
+và
+
+rung nhĩ
+
+)
+
+Hẹp động mạch cảnh
+
+Sử dụng một số chất nhất định (ví dụ, cocaine, amphetamines)
+
+Tăng đông quá mức
+
+Viêm mạch
+
+Sử dụng estrogen ngoại sinh
+
+Các yếu tố nguy cơ không thể thay đổi được bao gồm:
+
+Đột quỵ trước đó
+
+Giới
+
+Chủng tộc/chủng tộc
+
+Tuổi cao
+
+Tiền sử gia đình có đột quỵ
+
+Các nguyên nhân phổ biến nhất gây đột quỵ do thiếu máu não cục bộ có thể được phân loại như sau:
+
+Cryptogen (nghĩa là không có nguyên nhân tim mạch, mạch máu hoặc xơ vữa động mạch rõ ràng nhất)
+
+Tắc mạch do tim
+
+Nhồi máu ổ khuyết
+
+Xơ vữa động mạch lớn (nguyên nhân phổ biến thứ tư)
+
+Đột quỵ không biết nguồn gốc
+
+Đột quỵ được phân loại là không biết nguồn gốc khi xảy ra một trong các trường hợp sau:
+
+Đánh giá chẩn đoán là không đầy đủ.
+
+Không xác định được nguyên nhân mặc dù đã đánh giá toàn diện (chụp CT hoặc chụp MRI, chụp mạch não và đánh giá tim).
+
+Có nhiều hơn một nguyên nhân có thể xảy ra (ví dụ: rung nhĩ và hẹp động mạch cảnh cùng bên).
+
+Đột quỵ do thuyên tắc mạch không xác định được nguồn gốc (ESUS), một phân nhóm của đột quỵ không rõ nguyên nhân, được chẩn đoán khi không có nguồn nào được xác định sau khi đánh giá chẩn đoán đầy đủ đã loại trừ đột quỵ ổ khuyết, các nguồn tắc mạch chính từ tim và bệnh tắc mạch máu cùng bên (tắc > 50%). Bằng chứng gần đây cho thấy bệnh động mạch cảnh không hẹp có triệu chứng với tỷ lệ tắc < 50% có thể là nguyên nhân quan trọng gây đột quỵ (
+
+1
+
+).
+
+Tắc mạch do tim
+
+Emboli có thể cư trú ở bất cứ đâu trong cây động mạch não.
+
+Emboli có thể bắt nguồn từ huyết khối ở tim, đặc biệt là trong các tình trạng sau:
+
+Rung nhĩ
+
+Bệnh van tim do thấp (thường là hẹp van hai lá)
+
+Sau nhồi máu cơ tim
+
+Sùi van tim trong viêm nội tâm mạc nhiễm trùng hoặc viêm nội tâm mạc ở người bệnh suy kiệt
+
+U nhày nhĩ
+
+Van tim nhân tạo
+
+Các thiết bị hỗ trợ tuần hoàn cơ học (ví dụ, thiết bị hỗ trợ thất trái hoặc LVAD [
+
+2
+
+])
+
+Còn lỗ bầu dục
+
+Lỗ thông bầu dục (PFO) là nguyên nhân thường gặp gây đột quỵ vô căn ở bệnh nhân trẻ tuổi, chủ yếu do thuyên tắc nghịch thường. Kích thước PFO lớn và phình vách liên nhĩ đi kèm làm tăng nguy cơ bị đột quỵ. Đóng PFO có thể làm giảm nguy cơ bị đột quỵ tái phát ở những bệnh nhân được lựa chọn cẩn thận (
+
+3
+
+).
+
+Các nguồn khác bao gồm các cục máu đông hình thành sau phẫu thuật tim hở và các mảng xơ vữa trong các động mạch vùng cổ hoặc cung động mạch chủ. Trong một số hiếm các trường hợp, huyết khối cấu tạo từ chất béo (từ
+
+xương dài bị gãy
+
+), không khí (trong bệnh chấn thương do giảm áp suất), hoặc cục máu đông tĩnh mạch đi từ tim phải sang tim trái qua lỗ bầu dục với luồng thông ngược chiều (huyết khối nghịch thường). Emboli có thể bong ra tự phát hoặc sau can thiệp tim mạch xâm lấn (ví dụ như đặt catheter). Hiếm khi, huyết khối động mạch dưới đòn gây ra đột quỵ do tắc mạch ở động mạch đốt sống hoặc các nhánh của nó.
+
+Nhồi máu ổ khuyết
+
+Đột quỵ do thiếu máu não cục bộ cũng có thể là nhồi máu ổ khuyết. Nhồi máu ổ khuyết là những cơn đột quỵ nhỏ (
+
+≤
+
+1,5 cm) xảy ra ở các cấu trúc não sâu như hạch nền, đồi thị và cầu não. Nguyên nhân thường gặp nhất là do các yếu tố nguy cơ tiềm ẩn gây bệnh mạch máu não như tăng huyết áp và tiểu đường. Các chỗ nhồi máu nhỏ là kết quả của tình trạng tắc nghẽn không huyết khối xơ vữa của các động mạch nhỏ, xuyên thấu cung cấp máu cho các cấu trúc vỏ não sâu; nguyên nhân thường gặp là thoái hóa mỡ kính (tình trạng thoái hóa lớp áo giữa của động mạch nhỏ và thay thế bằng lipid và collagen). Cục nghẽn cũng có thể gây ra nhồi máu ổ khuyết.
+
+Khi xảy ra đột quỵ gây thương tổn những vị trí này ở bệnh nhân không có các yếu tố nguy cơ mạch máu điển hình hoặc nếu nhồi máu > 1,5 cm, cần xem xét cơ chế thay thế, chẳng hạn như nguồn thuyên tắc trung tâm (động mạch tim hoặc động mạch đầu gần).
+
+Huyết khối mạch máu lớn
+
+Xơ vữa động mạch lớn có thể ảnh hưởng đến động mạch trong hoặc ngoài sọ.
+
+Mảng xơ vữa, đặc biệt nếu bị rách vỡ, có khuynh hướng tạo huyết khối. Xơ vữa có thể xảy ra ở bất kỳ động mạch lớn nào trong não và thường gặp ở các khu vực có dòng chảy bất thường, đặc biệt là ở chỗ chia đôi động mạch cảnh. Tắc hoàn toàn hay một phần do huyết khối xảy ra nhiều nhất ở thân chính của động mạch não giữa và các nhánh của nó nhưng cũng thường gặp ở các động mạch lớn ở nền não, trong các động mạch xuyên sâu, và các nhảnh vỏ nhỏ. Các động mạch nền và đoạn động mạch cảnh trong giữa xoang hang và động mạch mắt cũng thường bị tắc.
+
+Nguyên nhân khác
+
+Các nguyên nhân gây đột quỵ ít phổ biến hơn bao gồm viêm mạch máu thứ phát sau các bệnh lý như viêm màng não cấp tính hoặc
+
+viêm màng não
+
+mạn tính,
+
+bệnh mạch máu
+
+và
+
+giang mai
+
+; bóc tách động mạch nội sọ hoặc bóc tách động mạch chủ; bệnh tăng đông máu (ví dụ:
+
+hội chứng kháng phospholipid
+
+,
+
+tăng homocysteine máu
+
+, bệnh ác tính tiềm ẩn); bệnh lý tăng độ nhớt (ví dụ:
+
+đa hồng cầu
+
+,
+
+tăng tiểu cầu
+
+,
+
+bệnh huyết sắc tố
+
+,
+
+bệnh tương bào
+
+); và các bệnh hiếm gặp (ví dụ: loạn sản xơ cơ, bệnh moyamoya, bệnh Binswanger).
+
+Ở trẻ em,
+
+bệnh hồng cầu hình liềm
+
+là nguyên nhân phổ biến gây đột quỵ thiếu máu não cục bộ.
+
+Bất kỳ yếu tố nào làm giảm tưới máu hệ thống (ví dụ ngộ độc carbon monoxide, thiếu máu hoặc thiếu oxy nặng, đa hồng cầu, hạ huyết áp) đều làm tăng nguy cơ của tất cả các thể đột quỵ thiếu máu não cục bộ. Đột quỵ có thể xảy ra ở ranh giới giữa các vùng cấp máu của các động mạch (vùng giáp ranh); ở những khu vực này, lượng cấp máu thường thấp, đặc biệt nếu bệnh nhân bị tụt huyết áp và/hoặc nếu có hẹp các động mạch não lớn.
+
+Ít gặp hơn, đột quỵ do thiếu máu não cục bộ là do co thắt mạch (ví dụ: trong migraine, sau chảy máu dưới nhện, sau dùng chất kích thích giao cảm như cocaine hoặc amphetamines) hoặc huyết khối xoang tĩnh mạch (ví dụ như trong trường hợp nhiễm trùng nội sọ, sau phẫu thuật, thời kỳ chu sinh, thứ phát do rối loạn tăng đông).
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Ospel JM, Kappelhof M, Ganesh A, Kallmes DF, Brinjikji W, Goyal M
+
+. Symptomatic non-stenotic carotid disease: current challenges and opportunities for diagnosis and treatment.
+
+J Neurointerv Surg
+
+. 2024;16(4):418-424. Xuất bản ngày 14 tháng 3 năm 2024. doi:10.1136/jnis-2022-020005
+
+2.
+
+Caprio FZ, Sorond FA
+
+. Cerebrovascular Disease: Primary and Secondary Stroke Prevention.
+
+Med Clin North Am
+
+. 2019;103(2):295-308. doi:10.1016/j.mcna.2018.10.001
+
+3.
+
+Caso V, Turc G, Abdul-Rahim AH, et al
+
+. European Stroke Organisation (ESO) Guidelines on the diagnosis and management of patent foramen ovale (PFO) after stroke.
+
+Eur Stroke J.
+
+2024;9(4):800-834. doi:10.1177/23969873241247978
+
+Sinh lý bệnh của đột quỵ do thiếu máu cục bộ
+
+Hệ thống tuần hoàn bàng hệ hiệu quả có thể bù đắp cho tình trạng một động mạch não không đủ lưu lượng tuần hoàn, đặc biệt giữa các động mạch cảnh và động mạch đốt sống thông qua các kết nối ở vòng đa giác Willis, và ở mức độ thấp hơn, giữa các động mạch chính cấp máu cho các bán cầu não. Tuy nhiên, trong bối cảnh các biến thể bình thường của vòng đa giác Willis và năng lực của các mạch máu bàng hệ rất biến đổi, xơ vữa động mạch và các tổn thương động mạch mắc phải khác có thể làm suy giảm tuần hoàn bàng hệ, làm tăng khả năng tắc động mạch sẽ gây ra thiếu máu não cục bộ.
+
+Một số nơ-ron thần kinh chết khi tưới máu là
+
+<
+
+5% so với bình thường trong thời gian
+
+>
+
+5 phút; tuy nhiên, mức độ tổn thương phụ thuộc vào mức độ nặng của thiếu máu não cục bộ. Nếu nhẹ, tổn thương sẽ tiến triển chậm; do đó, thậm chí tưới máu là 40% so với bình thường, từ 3 đến 6 giờ có thể trôi qua trước khi mô não bị hoại tử hoàn toàn. Tuy nhiên, nếu thiếu máu não cục bộ nặng và kéo dài > 15 đến 30 phút, tất cả các mô bị ảnh hưởng sẽ chết (nhồi máu). Tổn thương tiến triển nhanh hơn nếu tăng thân nhiệt và chậm hơn nếu hạ thân nhiệt. Nếu các mô bị thiếu máu cục bộ nhưng chưa đến mức không thể phục hồi được thì việc nhanh chóng khôi phục dòng máu có thể làm giảm hoặc phục hồi tổn thương. Ví dụ, can thiệp có thể cứu các vùng thiếu máu mức độ trung bình (vùng tranh tối tranh sáng) thường bao quanh các vùng thiếu máu nặng (những vùng này tồn tại vì có tuần hoàn bàng hệ).
+
+Cơ chế gây tổn thương do thiếu máu não cục bộ bao gồm:
+
+Phù
+
+Huyết khối vi mạch
+
+Chết tế bào theo chương trình (apoptosis)
+
+Nhồi máu với hoại tử tế bào
+
+Các chất trung gian gây viêm (ví dụ: interleukin1-beta, yếu tố hoại tử khối u-alpha) góp phần gây phù nề và huyết khối vi mạch. Phù, nếu nặng hoặc lan rộng, có thể làm tăng áp lực nội sọ.
+
+Nhiều yếu tố có thể góp phần gây chết tế bào; chúng bao gồm mất dự trữ
+
+ATP
+
+, mất cân bằng ion (bao gồm sự tích tụ canxi nội bào), tổn thương oxy hóa lipid của màng tế bào bởi các gốc tự do (một quá trình qua trung gian sắt), các chất kích thích thần kinh (như glutamate) và toan hóa nội bào do tích tụ lactate.
+
+Các triệu chứng và dấu hiệu của đột quỵ do thiếu máu não cục bộ
+
+Các triệu chứng và dấu hiệu đột quỵ thiếu máu não cục bộ phụ thuộc vào phần não bị ảnh hưởng. Hình thái tổn thương thần kinh thường gợi ý động mạch bị ảnh hưởng (Xem bảng
+
+Hội chứng đột quỵ chọn lọc
+
+), nhưng sự tương quan thường không như thực tế.
+
+Bảng
+
+Các hội chứng đột quỵ chọn lọc
+
+Bảng
+
+Các hội chứng đột quỵ chọn lọc
+
+Các hội chứng đột quỵ chọn lọc
+
+Triệu chứng và Dấu hiệu
+
+Hội chứng
+
+Liệt nửa người đối bên (ưu thế ở chân), tiểu không tự chủ, thờ ơ, lú lẫn, giảm khả năng phán đoán, không nói được, có phản xạ nắm, thất điều dáng đi
+
+Động mạch não trước (ít gặp)
+
+Liệt nửa người đối bên (ưu thế tay và mặt hơn ở chân), nói khó, tê nửa người, bán manh đồng danh đối bên, mất ngôn ngữ (nếu bán cầu ưu thế bị ảnh hưởng) hoặc thất điều và mất chú ý cảm giác (nếu bán cầu không ưu thế bị ảnh hưởng)
+
+Động mạch não giữa (thường gặp)
+
+Bán manh đồng danh đối bên, mù vỏ não một bên, mất trí nhớ, liệt thần kinh sọ não 3 một bên, múa vung nửa người
+
+Động mạch não sau
+
+Mất thị lực một mắt (amaurosis)
+
+Động mạch mắt (một nhánh của động mạch cảnh trong)
+
+Tổn thương thần kinh sọ một bên hoặc hai bên (ví dụ, rung giật nhãn cầu, chóng mặt, nuốt khó, nói khó, nhìn đôi, mù), thất điều chi hoặc thân mình, liệt cứng, thiếu sót vận động và cảm giác giao bên*, suy giảm ý thức, hôn mê, tử vong (nếu tắc hoàn toàn động mạch), nhịp tim nhanh, huyết áp không ổn định
+
+Hệ sống nền
+
+Vắng mặt các thiếu sót vỏ não cộng với một trong những triệu chứng sau đây:
+
+Liệt vận động đơn thuần nửa người
+
+Rối loạn cảm giác đơn thuần nửa người
+
+Thất điều nửa người
+
+Hội chứng nói khó - bàn tay vụng về
+
+Nhồi máu ổ khuyết
+
+* Mất cảm giác hoặc yếu vận động mặt cùng bên kèm với tê hoặc yếu nửa người đối bên chỉ ra tổn thương cầu não hoặc hành não.
+
+* Mất cảm giác hoặc yếu vận động mặt cùng bên kèm với tê hoặc yếu nửa người đối bên chỉ ra tổn thương cầu não hoặc hành não.
+
+Thiếu sót có thể đạt mức tối đa trong vài phút sau khởi phát, điển hình là trong đột quỵ do tắc mạch. Ít gặp hơn, các thiếu sót tiến triển chậm, thường là từ 24 đến 48 giờ (gọi là đột quỵ tiến triển hoặc đột quỵ tiến triển), điển hình là đột quỵ do huyết khối.
+
+Trong hầu hết các đột quỵ tiến triển, rối loạn chức năng thần kinh một bên (thường bắt đầu ở một tay, sau đó lan rộng ra cùng bên) lan rộng mà không gây đau đầu, đau hoặc sốt. Tiến triển thường từng bước, bị gián đoạn bởi các giai đoạn ổn định.
+
+Đột quỵ được coi là dưới mức tối đa khi sau khi hoàn tất, chức năng còn sót lại ở vùng bị ảnh hưởng, cho thấy mô sống có nguy cơ bị tổn thương.
+
+Đột quỵ tắc mạch thường xảy ra vào ban ngày; đau đầu có thể xảy ra trước các thiếu sót thần kinh. Cục nghẽn thường xuất hiện vào ban đêm và do đó, đột quỵ do cục nghẽn thường được phát hiện đầu tiên khi thức dậy.
+
+Nhồi máu ổ khuyết có thể gây ra một trong các hội chứng ổ khuyết kinh điển (ví dụ: liệt vận động nửa người đơn thuần, mất cảm giác nửa người đơn thuần, kết hợp liệt nửa người và mất cảm giác nửa người, liệt nửa người mất điều hòa, hội chứng loạn vận ngôn-bàn tay vụng về); không có dấu hiệu rối loạn chức năng vỏ não (ví dụ: chứng mất ngôn ngữ). Nhồi máu ổ khuyết đa ổ có thể gây ra sa sút trí tuệ do
+
+nhồi máu đa ổ
+
+.
+
+Một cơn động kinh có thể xảy ra lúc khởi phát đột quỵ, thường gặp trong tắc mạch hơn là huyết khối. Động kinh cũng có thể xảy ra nhiều tháng hoặc nhiều năm sau; cơn co giật kéo muộn xảy ra do sẹo hoặc sự lắng đọng hemosiderin ở vị trí thiếu máu cục bộ.
+
+Thỉnh thoảng, sốt phát triển.
+
+Sự suy giảm trong vòng 48 đến 72 giờ đầu sau khởi phát triệu chứng, đặc biệt là suy giảm ý thức nặng dần, do phù não hơn là nhồi máu lan rộng. Trừ trường hợp nhồi máu lớn hoặc rộng, chức năng thường cải thiện trong vài ngày đầu; sự cải thiện tiếp theo diễn ra từ từ cho đến 1 năm.
+
+Chẩn đoán đột quỵ do thiếu máu não cục bộ
+
+Bệnh sử và khám lâm sàng
+
+Chấn đoán hình ảnh thần kinh và xét nghiệm đường máu tại giường
+
+Đánh giá để xác định nguyên nhân
+
+Chẩn đoán đột quỵ thiếu máu não cục bộ được gợi ý bởi thiếu sót thần kinh đột ngột tương ứng với một cấp máu của động mạch. Đột quỵ do thiếu máu não cục bộ phải được phân biệt với các nguyên nhân khác gây ra các khiếm khuyết cục bộ tương tự (đôi khi được gọi là đột quỵ giả, là các bệnh lý không do mạch máu não gây ra các dấu hiệu thần kinh cục bộ. Các tình trạng có thể giống đột quỵ bao gồm:
+
+Co giật (ví dụ: bị liệt sau cơn bệnh)
+
+Nhiễm trùng CNS
+
+Rối loạn thần kinh chức năng (thường là chẩn đoán loại trừ)
+
+Chứng đau nửa đầu (ví dụ: chứng đau nửa đầu liệt nửa người)
+
+Hạ đường huyết
+
+Đau đầu, hôn mê hoặc choáng váng và nôn ói thường gặp ở đột quỵ xuất huyết hơn là đột quỵ do thiếu máu não cục bộ.
+
+Khi nghi ngờ đột quỵ, bác sĩ lâm sàng có thể sử dụng các tiêu chuẩn chuẩn hóa để phân loại mức độ nặng và theo dõi những thay đổi theo thời gian. Cách tiếp cận này có thể đặc biệt hữu ích như một thước đo kết quả trong các nghiên cứu về hiệu quả.
+
+Thang đo đột quỵ của Viện Y tế Quốc gia (NIHSS)
+
+là thang đo gồm 15 mục để đánh giá mức độ ý thức và chức năng ngôn ngữ của bệnh nhân, đồng thời xác định những khiếm khuyết về vận động và khiếm khuyết cảm giác bằng cách yêu cầu bệnh nhân trả lời các câu hỏi và thực hiện các nhiệm vụ về thể chất và tinh thần. Nó cũng hữu ích cho việc lựa chọn phương pháp điều trị thích hợp và dự đoán kết quả.
+
+Bảng
+
+Thang điểm đột quỵ của Viện Y tế Quốc gia*
+
+Bảng
+
+Thang điểm đột quỵ của Viện Y tế Quốc gia*
+
+Thang điểm đột quỵ của Viện Y tế Quốc gia*
+
+Tiêu chí
+
+Dấu hiệu
+
+Điểm
+
+Mức ý thức (LOC)
+
+Thông minh, phản ứng nhanh nhạy
+
+0
+
+Không tỉnh táo, nhưng có thể bị kích thích bằng cách sử dụng kích thích nhỏ để tuân theo, trả lời, hoặc trả lời
+
+1
+
+Không tỉnh táo; đòi hỏi sự kích thích lặp đi lặp lại để tham dự hoặc bị che lấp và đòi hỏi sự kích thích mạnh mẽ hoặc đau đớn để thực hiện các động tác có mục đích
+
+2
+
+Chỉ đáp ứng với phản xạ vận động hoặc tự động hoặc hoàn toàn không đáp ứng, mềm
+
+3
+
+Câu hỏi về mức ý thức†
+
+Trả lời đúng cả hai câu
+
+0
+
+Trả lời đúng một câu
+
+1
+
+Trả lời sai cả hai câu
+
+2
+
+Làm theo yêu cầu‡
+
+Làm đúng cả hai yêu cầu
+
+0
+
+Làm đúng một yêu cầu
+
+1
+
+Không tuân theo một cách chính xác
+
+2
+
+Hướng nhìn
+
+Bình thường
+
+0
+
+Liệt vận nhãn một phần; nhìn bất thường ở một hoặc cả hai mắt nhưng không có sự liếc xéo (không tự chủ)
+
+1
+
+Bắt buộc lệch trục hoặc liệt vận nhãn hoàn toàn (điều này không được điều chỉnh bởi cơ chế vận nhãn)
+
+2
+
+Thị trường
+
+Thị trường bình thường
+
+0
+
+Bán manh một phần
+
+1
+
+Bán manh hoàn toàn
+
+2
+
+Bán manh hai bên
+
+3
+
+Liệt mặt
+
+không
+
+0
+
+Liệt mặt tối thiểu
+
+1
+
+Liệt mặt cục bộ
+
+2
+
+Liệt hoàn toàn một bên hoặc hai bên
+
+3
+
+Chức năng vận động tay (điểm cho cả bên trái và bên phải)
+
+Cử động bình thường
+
+0
+
+Trôi đi trước 10 giây nhưng không chạm vào giường
+
+1
+
+Có một số gắng sức chống lại trọng lực
+
+2
+
+Không có nỗ lực chống lại trọng lực
+
+3
+
+Không có cử động
+
+4
+
+Chức năng vận động chân (điểm cho cả bên trái và bên phải)
+
+Cử động bình thường
+
+0
+
+Trôi đi trước 5 giây nhưng không chạm vào giường
+
+1
+
+Ngã và ngã xuống giường trước 5 giây nhưng có một chút nỗ lực chống lại trọng lực
+
+2
+
+Không có nỗ lực chống lại trọng lực
+
+3
+
+Không có cử động
+
+4
+
+Thất điều chi
+
+Không thất điều
+
+0
+
+Thất điều ở 1 chi
+
+1
+
+Mất điều hòa ở 2 chi
+
+2
+
+Không thể đánh giá được
+
+—
+
+Cảm giác
+
+Bình thường
+
+0
+
+Mất cảm giác nhẹ
+
+1
+
+Mất toàn bộ cảm giác nặng
+
+2
+
+Chức năng ngôn ngữ tốt nhất§
+
+Không mất ngôn ngữ
+
+0
+
+Mất ngôn ngữ nhẹ đến vừa
+
+1
+
+Mất ngôn ngữ nặng
+
+2
+
+Mất khả năng ngôn ngữ toàn bộ
+
+3
+
+Phát âm/ rối loạn phát âm
+
+Phát âm bình thường
+
+0
+
+Nói khó nhẹ đến vừa
+
+1
+
+Nói khó nặng (không hiểu được hoặc nặng hơn thế)
+
+2
+
+Không thể đánh giá được
+
+—
+
+Suy giảm hoặc lơ đễnh
+
+Vắng mặt
+
+0
+
+Thị giác, xúc giác, thính giác, không gian, hoặc cá nhân hoặc sự tuyệt chủng đối với kích thích đồng thời ở một trong hai phương thức cảm giác
+
+1
+
+Sự thiếu chú ý sâu sắc hoặc tuyệt chủng đối với nhiều hơn một phương thức
+
+2
+
+* Tổng điểm là tổng các điểm của từng mục riêng. Mức độ nặng được biểu thị bằng tổng điểm như sau:
+
+1–4 = nhẹ
+
+5–15 = trung bình
+
+16–20 = trung bình đến nặng
+
+21–42 = nặng
+
+† Bệnh nhân được hỏi tuổi của họ và tháng hiện tại.
+
+‡ Bệnh nhân được yêu cầu mở và nhắm mắt và nắm tay.
+
+§ Đối với mất ngôn ngữ:
+
+Nhẹ đến trung bình: Bệnh nhân có một số mất khả năng lưu loát hoặc hiểu được.
+
+Nặng: Tất cả thông tin liên lạc đều thông qua biểu hiện rời rạc, và phạm vi thông tin được truyền đạt là hạn chế.
+
+Mất khả năng ngôn ngữ toàn bộ: Bệnh nhân không có khả năng nói hoặc hiểu được.
+
+* Tổng điểm là tổng các điểm của từng mục riêng. Mức độ nặng được biểu thị bằng tổng điểm như sau:
+
+1–4 = nhẹ
+
+5–15 = trung bình
+
+16–20 = trung bình đến nặng
+
+21–42 = nặng
+
+† Bệnh nhân được hỏi tuổi của họ và tháng hiện tại.
+
+‡ Bệnh nhân được yêu cầu mở và nhắm mắt và nắm tay.
+
+§ Đối với mất ngôn ngữ:
+
+Nhẹ đến trung bình: Bệnh nhân có một số mất khả năng lưu loát hoặc hiểu được.
+
+Nặng: Tất cả thông tin liên lạc đều thông qua biểu hiện rời rạc, và phạm vi thông tin được truyền đạt là hạn chế.
+
+Mất khả năng ngôn ngữ toàn bộ: Bệnh nhân không có khả năng nói hoặc hiểu được.
+
+Đánh giá đột quỵ thiếu máu não cục bộ đòi hỏi phải đánh giá nhu mô não, hệ thống mạch máu (bao gồm tim và các động mạch lớn) và máu.
+
+Phân biệt lâm sàng giữa các thể đột quỵ là không chính xác; tuy nhiên, một số gợi ý dựa trên sự tiến triển của triệu chứng, thời điểm khởi phát, và kiểu thiếu sót thần kinh có thể giúp ích.
+
+Mặc dù chẩn đoán là lâm sàng, hình ảnh não và xét nghiệm đường máu tại giường là yêu cầu bắt buộc.
+
+Việc phân biệt giữa đột quỵ ổ khuyết, tắc mạch và cục nghẽn dựa trên tiền sử, khám và chẩn đoán hình ảnh thần kinh không phải lúc nào cũng đáng tin cậy, do đó, thường thực hiện các kiểm tra để xác định nguyên nhân phổ biến hoặc có thể điều trị được và các yếu tố nguy cơ cho tất cả các loại đột quỵ. Đánh giá cần đánh giá các hệ thống sau:
+
+Tim (ví dụ, rung nhĩ, các bệnh lý cấu trúc tiềm tàng khả năng tạo cục máu đông gây tắc mạch)
+
+Mạch máu (ví dụ: hẹp động mạch nghiêm trọng được phát hiện bằng chẩn đoán hình ảnh mạch máu)
+
+Máu (ví dụ: tiểu đường, rối loạn lipid máu, tăng đông máu)
+
+Đột quỵ được phân loại là không rõ nguyên nhân khi không thể xác định được nguyên nhân.
+
+Đánh giá não
+
+Chẩn đoán hình ảnh thần kinh bằng chụp CT hoặc chụp MRI được thực hiện trước tiên để loại trừ xuất huyết não, tụ máu dưới màng cứng hoặc ngoài màng cứng và khối u đang phát triển nhanh, đang chảy máu hoặc đột nhiên có triệu chứng. Bằng chứng cho thấy CT sọ não trong ngay cả các trường hợp đột quỵ thiếu máu cục bộ diện rộng ở vòng tuần hoàn trước cũng có thể kín đáo trong vài giờ đầu; những thay đổi có thể bao gồm mờ các rãnh cuộn não hoặc xóa ruy-băng vỏ não thùy đảo, mất ranh giới chất trắng và chất xám, và dấu hiệu động mạch não giữa tăng tỷ trọng. Trong vòng từ 6 đến 12 giờ thiếu máu cục bộ, các trường hợp nhồi máu từ kích thước trung bình đến diện rộng bắt đầu thể hiện bằng hình ảnh giảm tỷ trọng; nhồi máu nhỏ (ví dụ, nhồi máu ổ khuyết) có thể chỉ nhìn thấy trên MRI.
+
+Chụp MRI có trọng số khuếch tán (rất nhạy với tình trạng thiếu máu não cục bộ sớm) có thể được thực hiện ngay sau khi chẩn đoán hình ảnh thần kinh ban đầu bằng chụp CT.
+
+Chụp hình ảnh các mạch máu cổ và mạch máu nội sọ thường được khuyến nghị là một phần của quá trình kiểm tra thường quy để xác định nguyên nhân và hướng dẫn cách điều trị tiếp theo. Các hướng dẫn khuyến nghị rằng tất cả bệnh nhân có nghi ngờ lâm sàng về tắc mạch máu lớn cần phải chụp mạch máu (CTA hoặc MRA), đặc biệt là trong vòng 24 giờ sau khi xuất hiện triệu chứng do có những tiến bộ trong điều trị đột quỵ cấp tính.
+
+Hình ảnh đột quỵ do thiếu máu não cục bộ
+
+Mất dấu hiệu ruy-băng thùy đảo
+
+Phim chụp CT này cho thấy xóa mờ khe sylvian và mất dấu hiệu ruy-băng thùy đảo (mũi tên thẳng) ở bên não bị nhồi máu so với dấu hiệu ruy-băng thùy đảo bình thường (mũi tên cong).
+
+... đọc thêm
+
+Được sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. Trong
+
+Atlas of Cerebrovascular Disease
+
+. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.
+
+Nhồi máu động mạch não giữa
+
+Quan sát thấy nhồi máu vùng sáng rộng ở vùng não được cấp máu bởi động mạch não giữa bên phải.
+
+Được sự cho phép của nhà xuất bản. Từ Furie K, và cộng sự: Cerebrovascular disease. Trong
+
+Atlas of Clinical Neurology
+
+. Biên tập bởi RN Rosenberg. Philadelphia, Current Medicine, 2002.
+
+Đột quỵ do thiếu máu não cục bộ ở động mạch não giữa bên trái (CT)
+
+Chụp CT sọ não không tiêm thuốc này cho thấy một động mạch não giữa tăng áp. Phát hiện này cho thấy một cục máu đông trong động mạch não trái (mũi tên).
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.
+
+Đột quỵ do thiếu máu não cục bộ cấp tính ở thùy đảo và thùy trán bên trái (MRI)
+
+Chụp MRI này cho thấy một khu vực khuếch tán hạn chế phù hợp với đột quỵ thiếu máu não cục bộ ở thùy trái và thùy trán.
+
+Hình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.
+
+Nhồi máu ổ khuyết
+
+Chụp CT này cho thấy nhồi máu ổ khuyết giảm âm, bờ rõ (mũi tên) trong hạch nền.
+
+Được sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. Trong
+
+Atlas of Cerebrovascular Disease
+
+. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.
+
+Mất dấu hiệu ruy-băng thùy đảo
+
+Phim chụp CT này cho thấy xóa mờ khe sylvian và mất dấu hiệu ruy-băng thùy đảo (mũi tên thẳng) ở bên não bị nhồi máu so với dấu hiệu ruy-băng thùy đảo bình thường (mũi tên cong).
+
+... đọc thêm
+
+Được sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. Trong
+
+Atlas of Cerebrovascular Disease
+
+. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.
+
+Nhồi máu động mạch não giữa
+
+Quan sát thấy nhồi máu vùng sáng rộng ở vùng não được cấp máu bởi động mạch não giữa bên phải.
+
+Được sự cho phép của nhà xuất bản. Từ Furie K, và cộng sự: Cerebrovascular disease. Trong
+
+Atlas of Clinical Neurology
+
+. Biên tập bởi RN Rosenberg. Philadelphia, Current Medicine, 2002.
+
+Đột quỵ do thiếu máu não cục bộ ở động mạch não giữa bên trái (CT)
+
+Chụp CT sọ não không tiêm thuốc này cho thấy một động mạch não giữa tăng áp. Phát hiện này cho thấy một cục máu đông trong động mạch não trái (mũi tên).
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.
+
+Đột quỵ do thiếu máu não cục bộ cấp tính ở thùy đảo và thùy trán bên trái (MRI)
+
+Chụp MRI này cho thấy một khu vực khuếch tán hạn chế phù hợp với đột quỵ thiếu máu não cục bộ ở thùy trái và thùy trán.
+
+Hình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.
+
+Nhồi máu ổ khuyết
+
+Chụp CT này cho thấy nhồi máu ổ khuyết giảm âm, bờ rõ (mũi tên) trong hạch nền.
+
+Được sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. Trong
+
+Atlas of Cerebrovascular Disease
+
+. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.
+
+Nguyên nhân do tim
+
+Kiểm tra các nguyên nhân ở tim thường bao gồm điện tâm đồ, theo dõi từ xa hoặc Holter, troponin huyết thanh và siêu âm qua thành ngực hoặc qua thực quản. Siêu âm tim qua thành ngực hoặc qua thực quản có ích trong việc phát hiện huyết khối trong tim, bệnh van tim và còn lỗ bầu dục (PFO). PFO là một trong những nguyên nhân thường gặp gây ra đột quỵ do cục nghẽn.
+
+Máy theo dõi tim cấy ghép rất hữu ích trong việc phát hiện rối loạn nhịp nhĩ tiềm ẩn ở bệnh nhân đột không biết nguồn gốc (
+
+1
+
+).
+
+Nguyên nhân mạch máu
+
+Đối với nguyên nhân mạch máu, việc kiểm tra có thể bao gồm chụp cộng hưởng từ (MRA), chụp CT mạch máu (CTA), siêu âm doppler động mạch cảnh và xuyên sọ và chụp mạch máu thông thường. Lựa chọn xét nghiệm nào và thứ tự thực hiện cần được cá thể hóa, dựa trên các dấu hiệu lâm sàng. MRA, CTA và siêu âm động mạch cảnh đều cho thấy tuần hoàn trước; tuy nhiên, MRA và CTA cung cấp hình ảnh tuần hoàn sau tốt hơn siêu âm động mạch cảnh. Nói chung, CTA được ưu tiên hơn MRA vì tránh được ảnh giả do chuyển động. Thông thường, CTA hoặc MRA cần phải được thực hiện khẩn cấp nhưng không nên trì hoãn việc điều trị bằng tPA tĩnh mạch nếu được chỉ định.
+
+Nguyên nhân liên quan đến máu
+
+Xét nghiệm máu thường quy thường bao gồm công thức máu (CBC), bảng xét nghiệm chuyển hóa, thời gian prothrombin/thời gian thromboplastin riêng phần (PT/PTT), đường huyết lúc đói, hemoglobin A1C và hồ sơ lipid.
+
+Phụ thuộc vào nguyên nhân nghi ngờ trên lâm sàng, các xét nghiệm bổ sung có thể bao gồm định lượng homocysteine, xét nghiệm đánh giá bệnh lý huyết khối (kháng thể kháng phospholipid, protein S, protein C, antithrombin III, yếu tố V Leiden), xét nghiệm đánh giá bệnh lý thấp (ví dụ: kháng thể kháng nhân, yếu tố dạng thấp, tốc độ máu lắng), xét nghiệm huyết thanh bệnh giang mai, điện di Hb, và xét nghiệm độc chất trong nước tiểu để tìm cocaine và amphetamine.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Sanna T , Diener H-C., Passman RS, et al
+
+. Cryptogenic stroke and underlying atrial fibrillation.
+
+N Engl J Med.
+
+370:2478–2486, 2014 doi: 10.1056/NEJMoa1313600
+
+Điều trị đột quỵ do thiếu máu não cục bộ
+
+Điều trị chung cho đột quỵ
+
+Điều trị cấp cứu tăng huyết áp chỉ trong một số trường hợp
+
+Đối với điều trị cấp tính, đôi khi tái tưới máu bằng chất kích hoạt plasminogen mô tái tổ hợp hoặc tenecteplase và/hoặc lấy huyết khối cơ học
+
+Đôi khi cần mổ bóc nội mạc hoặc đặt stent động mạch cảnh
+
+Điều trị chống tiểu cầu
+
+Đôi khi cần điều trị thuốc chống đông
+
+Kiểm soát lâu dài các yếu tố nguy cơ
+
+Để điều trị lâu dài, phục hồi chức năng
+
+Điều trị đột quỵ cấp tính
+
+Có sẵn hướng dẫn để xử lý sớm tình trạng đột quỵ.
+
+Xem Hướng dẫn xử trí sớm bệnh nhân bị đột quỵ thiếu máu cục bộ cấp tính (2019)
+
+của Hiệp hội Tim mạch Hoa Kỳ/Hiệp hội Đột quỵ Hoa Kỳ. Bệnh nhân bị đột quỵ thiếu máu não cục bộ thường phải nhập viện.
+
+Các biện pháp hỗ trợ
+
+có thể cần thiết trong quá trình đánh giá và ổn định ban đầu.
+
+Hỗ trợ đường thở và hỗ trợ thông khí nếu giảm ý thức hoặc rối loạn chức năng hành tủy
+
+Chỉ bổ sung oxy khi cần thiết để duy trì độ bão hòa oxy > 94%
+
+Điều chỉnh tình trạng tăng thân nhiệt (nhiệt độ > 38°C) bằng thuốc hạ sốt và xác định và điều trị nguyên nhân gây tăng thân nhiệt
+
+Điều trị hạ đường huyết (đường huyết < 60 mg/dL)
+
+Điều trị tăng đường huyết nhằm hạ đường huyết xuống 140 mg/gL đến 180 mg/dL đồng thời theo dõi chặt chẽ tình trạng hạ đường huyết
+
+Tưới máu cho vùng não bị thiếu máu cục bộ có thể cần phải tăng huyết áp (BP) vì khả năng tự điều hòa bị mất; do đó, không nên giảm BP trừ những trường hợp sau:
+
+Các dấu hiệu tổn thương cơ quan đích khác (ví dụ:
+
+phình tách động mạch chủ
+
+,
+
+nhồi máu cơ tim cấp
+
+, phù phổi, bệnh não tăng huyết áp, xuất huyết võng mạc,
+
+suy thận cấp
+
+).
+
+Có thể sử dụng chất kích hoạt plasminogen mô tái tổ hợp (tPA) và/hoặc phẫu thuật lấy huyết khối cơ học.
+
+Nếu huyết áp ≥ 220 mm Hg tâm thu hoặc ≥ 120 mm Hg tâm trương trên 2 lần đọc cách nhau 15 phút, giảm huyết áp xuống 15% trong 24 giờ sau khởi phát đột quỵ là hợp lý.
+
+Đối với những bệnh nhân đủ điều kiện để điều trị tái tưới máu cấp tính, điều trị theo đường tĩnh mạch để đạt được BP < 180/105 mmHg trước khi bắt đầu dùng thuốc tiêu sợi huyết theo đường tĩnh mạch được bắt đầu bằng một trong những phương pháp sau:
+
+Labetalol
+
+Nicardipine
+
+Clevidipine
+
+Bệnh nhân có huyết khối tắc mạch có thể được điều trị bằng một hoặc kết hợp nhiều phương pháp sau đây:
+
+Chất hoạt hóa plasminogen mô (tPA), tiêu sợi huyết tại chỗ và/hoặc cắt bỏ huyết khối cơ học
+
+Thuốc chống kết tập tiểu cầu
+
+Thuốc chống đông máu
+
+Khuyến cáo tPA tái tổ hợp
+
+có thể được sử dụng cho bệnh nhân đột quỵ thiếu máu não cục bộ cấp tính trong vòng 3 giờ sau khi khởi phát triệu chứng nếu không có chống chỉ định với tPA (Xem bảng
+
+Tiêu chuẩn loại trừ để sử dụng chất kích hoạt mô plasminogen trong đột quỵ
+
+). Một số chuyên gia khuyến cáo sử dụng tPA đến 4,5 giờ sau khởi phát triệu chứng (xem
+
+Mở rộng khoảng thời gian điều trị đột quỵ do thiếu máu cục bộ cấp tính bằng chất kích hoạt mô plasminogen tĩnh mạch)
+
+; tuy nhiên, từ 3 giờ đến 4,5 giờ sau khởi phát triệu chứng sẽ có thêm các tiêu chuẩn loại trừ (Xem bảng
+
+Tiêu chuẩn loại trừ để sử dụng chất kích hoạt mô plasminogen trong đột quỵ
+
+).). Vì vậy, tPA phải được cho dùng trong vòng 4,5 giờ kể từ khi xuất hiện triệu chứng – một yêu cầu khó khăn. Bởi vì thời gian chính xác khởi phát triệu chứng có thể không được biết rõ, bác sĩ lâm sàng phải tính thời gian từ lần cuối cùng bệnh nhân được quan sát thấy bình thường.
+
+Mặc dù tPA có thể gây tử vong hoặc xuất huyết não có triệu chứng khác, nhưng những bệnh nhân được điều trị bằng tPA theo đúng phác đồ có khả năng phục hồi chức năng thần kinh cao hơn. Khi dùng tPA không đúng cách (ví dụ: khi dùng mặc dù có tiêu chuẩn loại trừ), nguy cơ xuất huyết do tPA cao, chủ yếu ở những bệnh nhân đã bị đột quỵ; nguy cơ bị xuất huyết não rất thấp (khoảng 0,5%; khoảng tin cậy 95% từ 0 đến 2,0% [
+
+1
+
+]) đối với những bệnh nhân đã bị các triệu chứng giống đột quỵ (ví dụ: đau nửa đầu liệt nửa người, một số bệnh nhiễm trùng hệ thần kinh trung ương, liệt sau cơn đột quỵ, rối loạn thần kinh chức năng).
+
+Chỉ những bác sĩ lâm sàng có kinh nghiệm trong điều trị đột quỵ mới nên sử dụng tPA để điều trị cho bệnh nhân đột quỵ cấp tính. Các bác sĩ thiếu kinh nghiệm có nhiều khả năng vi phạm quy trình, dẫn đến nhiều ca xuất huyết não và tử vong hơn. Nếu không có bác sĩ lâm sàng có kinh nghiệm tại cơ sở, việc tham khảo ý kiến ​​của chuyên gia tại trung tâm đột quỵ (bao gồm đánh giá video về bệnh nhân [điều trị từ xa]), nếu có thể, có thể cho phép các bác sĩ lâm sàng này sử dụng tPA. Vì hầu hết các kết cục xấu do không tuân thủ nghiêm ngặt quy trình, nên sử dụng một danh sách có sẵn về các tiêu chuẩn lựa chọn và tiêu chuẩn loại trừ điều trị tPA.
+
+Trước khi điều trị bằng tPA, cần phải có những tiêu chí sau:
+
+CT sọ não loại trừ chảy máu não.
+
+Huyết áp tâm thu phải < 185 mm Hg.
+
+Huyết áp tâm trương phải < 105 mm Hg
+
+Đường huyết phải > 50 mg/dL
+
+Thuốc chống tăng huyết áp (nicardipine theo đường tĩnh mạch, labetalol theo đường tĩnh mạch, clevidipine theo đường tĩnh mạch) có thể được dùng để duy trì huyết áp < 180/105 mm Hg trong ít nhất 24 giờ sau khi điều trị bằng tPA.
+
+Liều tPA là 0,9 mg/kg tiêm tĩnh mạch (liều tối đa 90 mg); 10% được tiêm tĩnh mạch nhanh trong vòng 1 phút và phần còn lại bằng truyền liên tục trong 60 phút. Các dấu hiệu sinh tồn được theo dõi chặt chẽ trong 24 giờ sau khi điều trị. Biến chứng chảy máu cần được xử trí tích cực. Thuốc chống đông máu và thuốc chống kết tập tiểu cầu không được sử dụng trong vòng 24 giờ sau khi điều trị bằng tPA.
+
+Tenecteplase là một lựa chọn thay thế hợp lý cho alteplase (
+
+2
+
+). Tenecteplase khác với alteplase ở ba axit amin trong cấu trúc glycoprotein của nó. Mặc dù không có sự khác biệt đáng kể về kết quả hoặc biến cố bất lợi, tỷ lệ tái tưới máu cao hơn ở những bệnh nhân được điều trị bằng tenecteplase. So với alteplase, tenecteplase có gắn kết fibrin lớn hơn, tăng chuyển đổi plasminogen thành plasmin, khả năng kháng thuốc ức chế hoạt hóa plasminogen cao hơn và sử dụng dễ dàng hơn dưới dạng một liều tấn công duy nhất.
+
+Những bệnh nhân không đủ điều kiện để điều trị bằng thuốc tiêu sợi huyết theo đường tĩnh mạch cần phải được dùng thuốc chống tiểu cầu (thường là aspirin 325 mg uống) khi nhập viện. Chống chỉ định với thuốc chống kết tập tiểu cầu bao gồm hen suyễn hoặc nổi mề đay do
+
+aspirin
+
+hoặc do thuốc chống viêm không steroid (NSAID), mẫn cảm khác với
+
+aspirin
+
+hoặc tartrazine, xuất huyết tiêu hóa cấp tính, thiếu hụt glucose-6-phosphate dehydrogenase (G6PD) và sử dụng warfarin.
+
+Bảng
+
+Tiêu chuẩn loại trừ đối với chỉ định sử dụng chất hoạt hóa plasminogen mô trong Đột quỵ
+
+Bảng
+
+Tiêu chuẩn loại trừ đối với chỉ định sử dụng chất hoạt hóa plasminogen mô trong Đột quỵ
+
+Tiêu chuẩn loại trừ đối với chỉ định sử dụng chất hoạt hóa plasminogen mô trong Đột quỵ
+
+Tiêu chuẩn loại trừ < 3 giờ sau khi bắt đầu triệu chứng
+
+Chảy máu trong sọ trên phim chụp CT
+
+Nhồi máu nhiều thùy não (giảm tỷ trọng trên 1/3 diện cấp máu của động mạch não giữa) trên phim chụp CT
+
+Có triệu chứng gợi ý chảy máu dưới nhện mặc dù CT sọ não âm tính
+
+Tiền sử chảy máu trong sọ
+
+Khối u trong sọ
+
+Tiền sử đột quỵ hoặc chấn thương đầu nặng trong vòng 3 tháng
+
+Huyết áp tâm thu
+
+>
+
+185 mm Hg hoặc huyết áp tâm trương
+
+>
+
+110 mm Hg sau khi điều trị hạ huyết áp
+
+Chấn thương nội sọ hay phẫu thuật tủy sống trong vòng 3 tháng
+
+Chảy máu trong đang hoạt động
+
+Ung thư đường tiêu hóa hoặc chảy máu trong vòng 21 ngày
+
+Nghi ngờ bệnh lý chảy máu
+
+Số lượng tiểu cầu
+
+<
+
+100.000/mcL
+
+Có thể vỡ động mạch không đè nén trong 7 ngày trước khi bắt đầu đột quỵ
+
+Sử dụng liều điều trị heparin trọng lượng phân tử thấp trong vòng 24 giờ trước
+
+Rối loạn đông máu, tỷ lệ chuẩn hóa quốc tế (INR)
+
+>
+
+1,7, hoặc thời gian prothrombin (PT)
+
+>
+
+15 giây, thời gian thromboplastin một phần hoạt hóa (aPTT) > 40 giây
+
+Hiện đang sử dụng chất ức chế thrombin trực tiếp hoặc chất ức chế yếu tố Xa trực tiếp trong vòng 48h với bằng chứng về tác dụng chống đông, được phát hiện bằng các xét nghiệm như PTT, INR, và các xét nghiệm thích hợp về yếu tố Xa hoạt hóa.
+
+Vỡ động mạch chủ được biết hoặc nghi ngờ gây ra đột quỵ thiếu máu não
+
+Viêm nội tâm mạc nhiễm khuẩn
+
+Tiêu chuẩn loại trừ tương đối (
+
+2
+
+)
+
+Triệu chứng cải thiện nhanh
+
+Phẫu thuật lớn hoặc chấn thương nặng trong vòng 14 ngày
+
+Xuất huyết đường tiết niệu trong 21 ngày qua
+
+Cơn động kinh ở thời điểm khởi phát với thiếu sót thần kinh tồn dư sau cơn
+
+Mang thai
+
+Nhồi máu cơ tim cấp tính trong 3 tháng qua.
+
+Cân nhắc bổ sung 3-4,5 giờ sau khởi phát triệu chứng*
+
+Tuổi > 80 tuổi
+
+Sử dụng thuốc chống đông đường uống bất kể INR là bao nhiêu
+
+Thang điểm đột quỵ của NIH ở lần khám ban đầu > 25
+
+Tiền sử có cả đột quỵ và đái tháo đường
+
+* Lợi ích cho bệnh nhân có những đặc điểm này là không rõ ràng.
+
+NIH = National Institutes of Health.
+
+Powers WJ, Rabinstein AA, Ackerson T, et al
+
+. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association [published correction appears in
+
+Stroke.
+
+Tháng 12 năm 2019;50(12):e440-e441. doi: 10.1161/STR.0000000000000215.].
+
+Stroke.
+
+2019;50(12):e344-e418. doi:10.1161/STR.0000000000000211
+
+* Lợi ích cho bệnh nhân có những đặc điểm này là không rõ ràng.
+
+NIH = National Institutes of Health.
+
+Powers WJ, Rabinstein AA, Ackerson T, et al
+
+. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association [published correction appears in
+
+Stroke.
+
+Tháng 12 năm 2019;50(12):e440-e441. doi: 10.1161/STR.0000000000000215.].
+
+Stroke.
+
+2019;50(12):e344-e418. doi:10.1161/STR.0000000000000211
+
+Các phân tích hồi cứu đã dẫn đến việc thu hẹp danh sách các chống chỉ định tuyệt đối khi sử dụng alteplase trong thời gian điều trị sau khi xuất hiện các triệu chứng đột quỵ (
+
+3, 4
+
+). Tuy nhiên, nếu bệnh nhân có bất kỳ tình trạng nào sau đây, nguy cơ chảy máu khi dùng tPA sẽ tăng lên và cần cân nhắc so với những lợi ích dự kiến [
+
+5
+
+]):
+
+Phẫu thuật hoặc thủ thuật lớn gần đây (ví dụ: ghép bắc cầu động mạch vành, sinh sản, sinh thiết cơ quan, chọc thủng mạch máu không thể ép trước đó)
+
+Bệnh mạch máu não
+
+Xuất huyết nội sọ gần đây
+
+Chảy máu đường tiêu hóa hoặc chảy máu đường sinh dục-tiết niệu gần đây
+
+Tiền sử chấn thương gần đây
+
+Tăng huyết áp (huyết áp tâm thu > 175 mm Hg hoặc huyết áp tâm trương > 110 mm Hg
+
+Viêm màng ngoài tim cấp tính
+
+Viêm nội tâm mạc bán cấp do vi khuẩn
+
+Rối loạn cầm máu bao gồm cả những trường hợp do bệnh gan hoặc bệnh thận nặng
+
+Rối loạn chức năng gan đáng kể
+
+Mang thai
+
+Bệnh võng mạc xuất huyết do tiểu đường hoặc các tình trạng xuất huyết khác trong nhãn khoa
+
+Viêm tĩnh mạch huyết khối nhiễm trùng hoặc ống thông động tĩnh mạch bị tắc ở vị trí bị nhiễm trùng
+
+Tuổi cao (> 77 tuổi)
+
+Việc sử dụng thuốc chống đông máu hiện tại (ví dụ: warfarin)
+
+Có thể cân nhắc phương pháp
+
+tiêu huyết khối tại chỗ
+
+(tiêu huyết khối trong động mạch được chỉ định bằng chụp mạch) đối với huyết khối hoặc thuyên tắc khi cục máu đông ở quá xa để có thể tiếp cận bằng ống thông (ví dụ: A2 xa [động mạch não trước ở đầu xa động mạch thông trước]).
+
+Lấy huyết khối bằng dụng cụ cơ học
+
+(lấy huyết khối trực tiếp trong lòng động mạch dưới hướng dẫn chụp mạch bằng thiết bị có gắn stent) là tiêu chuẩn chăm sóc tại các trung tâm đột quỵ lớn cho bệnh nhân có tắc mạch lớn gần đây trong tuần hoàn trước. Bằng chứng về hiệu quả của phẫu thuật lấy huyết khối cơ học ở bệnh nhân bị đột quỵ tuần hoàn sau đang ngày càng tăng (
+
+6
+
+).
+
+Lấy huyết khối bằng phương pháp cơ học trước đây bị hạn chế sử dụng trong vòng 6 giờ kể từ khi xuất hiện triệu chứng ở bệnh nhân tắc động mạch cảnh trong hoặc tắc động mạch não giữa. Tuy nhiên, việc điều trị muộn hơn có thể được biện minh tại các trung tâm đột quỵ toàn diện khi các dấu hiệu lâm sàng và/hoặc hình ảnh cho thấy sự hiện diện của một lượng lớn mô có nguy cơ nhồi máu (vùng nửa tối). Thể tích mô nhồi máu và mô thiếu máu cục bộ có nguy cơ (vùng nửa tối do thiếu máu não cục bộ) có thể được xác định bằng cách sử dụng CT tưới máu hoặc MRI tưới máu. Sự không phù hợp đáng kể giữa thể tích vùng nhồi máu và thể tích có nguy cơ được xác định bằng chẩn đoán hình ảnh khuếch tán hoặc tưới máu cho thấy vùng nửa tối đáng kể vẫn có khả năng cứu vãn được. Trong thử nghiệm DEFUSE 3, lợi ích đã được chứng minh rõ ràng lên đến 16 giờ sau khi khởi phát triệu chứng ở những bệnh nhân có nhồi máu nhỏ và vùng nửa tối lớn hơn; cả hai phát hiện đều dựa trên tiêu chuẩn chẩn đoán hình ảnh (
+
+7
+
+). Trong thử nghiệm DAWN, lợi ích đã được chứng minh rõ ràng trong vòng 24 giờ sau khi xuất hiện triệu chứng ở những bệnh nhân có sự không phù hợp ở mức độ lớn giữa thể tích nhồi máu dựa trên chẩn đoán hình ảnh và mức độ nặng của tình trạng thiếu hụt trên lâm sàng dựa trên các tiêu chuẩn lâm sàng (
+
+8
+
+).
+
+Trước đây, các thử nghiệm lâm sàng hạn chế việc cắt bỏ huyết khối bằng phương pháp cơ học ở những bệnh nhân có điểm NIHSS > 6; tuy nhiên, bằng chứng gần đây ủng hộ tính hữu ích của việc cắt bỏ huyết khối bằng phương pháp cơ học ở những bệnh nhân có điểm NIHSS < 6 (
+
+9
+
+).
+
+Không có bằng chứng ủng hộ việc chỉ sử dụng việc cắt huyết khối bằng phương pháp cơ học ở những bệnh nhân đủ điều kiện để dùng thuốc tiêu sợi huyết theo đường tĩnh mạch. Đối với bệnh nhân bị đột quỵ thiếu máu não cục bộ cấp tính do tắc mạch máu lớn khẩn cấp, khuyến nghị dùng thuốc tiêu sợi huyết theo đường tĩnh mạch trước khi phẫu thuật cắt bỏ huyết khối bằng phương pháp cơ học khi đáp ứng các tiêu chuẩn về thuốc tiêu sợi huyết theo đường tĩnh mạch và không nên bỏ qua thuốc tiêu sợi huyết tĩnh mạch để chỉ cắt bỏ huyết khối theo phương pháp cơ học (
+
+10
+
+). Các thiết bị được sử dụng để lấy huyết khối đang được cải tiến, và các phương thức gần đây tái lập tuần hoàn máu não trong 90 đến 100% bệnh nhân.
+
+Ảnh hưởng của phẫu thuật lấy huyết khối sau đột quỵ (chụp động mạch)
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.
+
+Thuốc chống kết tập tiểu cầu đường uống
+
+được sử dụng trong điều trị đột quỵ cấp tính để giảm nguy cơ đột quỵ gây tàn phế tái phát. Có thể sử dụng những lựa chọn sau đây:
+
+Aspirin 81 đến 325 mg trong vòng 48 giờ kể từ khi khởi phát đột quỵ
+
+Liệu pháp chống kết tập tiểu cầu kép bằng aspirin cộng với clopidogrel trong vòng 24 giờ sau khi đột quỵ khởi phát đối với bệnh nhân bị đột quỵ nhẹ hoặc có nguy cơ cao bị
+
+cơn thiếu máu não cục bộ thoáng qua
+
+(TIA; điểm ABCD2 ≥ 4)
+
+Liệu pháp chống tiểu cầu kép với aspirin 81 mg và ticagrelor (có thể có lợi cho bệnh nhân có alen mất chức năng CYP2C19 kháng clopidogrel, đặc biệt nếu sử dụng stent ngoại sọ hoặc nội sọ)
+
+Uống Aspirin trong vòng 48 giờ làm giảm nguy cơ đột quỵ tái phát sớm và tử vong (
+
+11
+
+).
+
+Nếu bệnh nhân bị TIA hoặc đột quỵ nhẹ, clopidogrel cộng với aspirin được dùng trong vòng 24 giờ sau khi xuất hiện triệu chứng và tiếp tục trong 21 ngày có vẻ hiệu quả hơn
+
+aspirin
+
+đơn thuần trong việc giảm nguy cơ đột quỵ trong 90 ngày đầu tiên và không làm tăng nguy cơ bị xuất huyết (
+
+12
+
+). Tuy nhiên, sử dụng kéo dài (ví dụ, > 3 tháng)
+
+clopidogrel
+
+cộng
+
+aspirin
+
+nên tránh được bởi vì nó không có lợi ích hơn
+
+aspirin
+
+đơn độc trong dự phòng đột quỵ thứ phát lâu dài và dẫn tới biến chứng chảy máu nhiều hơn.
+
+Thường tránh sử dụng
+
+chống đông máu
+
+ở giai đoạn cấp tính vì nguy cơ xuất huyết (chuyển sang xuất huyết) cao hơn, đặc biệt là với các nhồi máu lớn. Tuy nhiên, chống đông máu bằng heparin hoặc heparin trọng lượng phân tử thấp được sử dụng cho đột quỵ do huyết khối tĩnh mạch não và đôi khi cho đột quỵ do phình động mạch cổ. Thuốc chống đông cũng có thể được sử dụng ở những bệnh nhân có nguy cơ cao bị thuyên tắc tim tái phát (ví dụ như những người có huyết khối hoặc van cơ học).
+
+Điều trị đột quỵ lâu dài
+
+Tiếp tục
+
+chăm sóc hỗ trợ
+
+trong quá trình hồi phục.
+
+Kiểm soát tăng đường máu và sốt có thể hạn chế tổn thương não sau đột quỵ, dẫn đến các kết cục chức năng tốt hơn.
+
+Việc sàng lọc chứng khó nuốt trước khi bệnh nhân bắt đầu ăn, uống hoặc dùng thuốc uống có thể giúp xác định những bệnh nhân có nguy cơ hít sặc cao; việc này cần phải do chuyên gia ngôn ngữ trị liệu hoặc chuyên gia chăm sóc sức khỏe được đào tạo khác thực hiện.
+
+Dinh dưỡng qua đường tiêu hóa, nếu cần, cần phải được bắt đầu trong vòng 7 ngày sau khi nhập viện sau đột quỵ cấp tính.
+
+Nén khí nén ngắt quãng (IPC) để
+
+dự phòng huyết khối tĩnh mạch sâu
+
+được khuyến nghị cho bệnh nhân đột quỵ bất động mà không có chống chỉ định.
+
+Heparin trọng lượng phân tử thấp có thể được dùng cho bệnh nhân đột quỵ bất động mà không có chống chỉ định.
+
+Các biện pháp phòng ngừa
+
+loét áp lực
+
+được bắt đầu sớm.
+
+Vật lý trị liệu giúp tối đa hóa chức năng và ngăn ngừa thiểu cơ và co rút khớp
+
+Xử trí lâu dài tập trung vào việc ngăn ngừa đột quỵ tái phát (phòng ngừa thứ cấp). Các yếu tố nguy cơ có thể thay đổi được (ví dụ:
+
+tăng huyết áp
+
+,
+
+tiểu đường
+
+,
+
+hút thuốc
+
+,
+
+rối loạn sử dụng rượu
+
+,
+
+rối loạn lipid máu
+
+,
+
+béo phì
+
+) được điều trị. Việc giảm huyết áp tâm thu có thể hiệu quả hơn khi huyết áp mục tiêu < 120 mm Hg thay vì mức thông thường (< 140 mm Hg) (
+
+13
+
+). Thời gian biểu để giảm huyết áp xuống mức này nên được xác định dựa trên tình trạng sức khỏe của từng bệnh nhân và nguy cơ đột quỵ tái phát hoặc các biến cố tim mạch khác.
+
+Trầm cảm
+
+thường xảy ra sau đột quỵ và có thể cản trở quá trình phục hồi. Điều trị trầm cảm có thể giúp phục hồi. Bác sĩ lâm sàng nên hỏi bệnh nhân xem họ có cảm thấy buồn hay mất hứng thú hay niềm vui khi thực hiện các hoạt động thú vị trước đây hay không. Các bác sĩ lâm sàng cũng nên hỏi các thành viên trong gia đình xem họ có nhận thấy bất kỳ dấu hiệu trầm cảm nào ở bệnh nhân hay không.
+
+Phẫu thuật bóc nội mạc động mạch cảnh ngoài sọ hoặc đặt stent
+
+được chỉ định cho những bệnh nhân bị đột quỵ cấp không quá nặng và không di chứng do tắc động mạch cảnh cùng bên từ 70 tới 99% trên khẩu kính động mạch hoặc do một mảng xơ vữa loét nếu kỳ vọng sống ít nhất là 5 năm. Ở những bệnh nhân có triệu chứng khác (ví dụ: bệnh nhân bị TIA), phẫu thuật cắt bỏ nội mạc động mạch hoặc đặt stent kết hợp với liệu pháp chống tiểu cầu được chỉ định cho tình trạng tắc nghẽn động mạch cảnh
+
+≥
+
+60% có hoặc không có loét nếu tuổi thọ dự kiến ​​ít nhất là 5 năm. Các thủ thuật này phải do các bác sĩ phẫu thuật và bác sĩ can thiệp có thành tích thành công với thủ thuật (tức là tỷ lệ bệnh tật và tử vong
+
+<
+
+3%) thực hiện tại bệnh viện nơi thủ thuật được thực hiện. Đối với nhiều bệnh nhân, đặt stent động mạch cảnh với thiết bị bảo vệ khỏi cục nghẽn (một loại màng lọc) được ưu tiên hơn là cắt bỏ nội mạc động mạch, đặc biệt là nếu bệnh nhân ≥ 70 tuổi và có nguy cơ cao phải phẫu thuật. Bóc nội mạc động mạch cảnh và đặt stent có hiệu quả tương đương trong dự phòng đột quỵ. Trong giai đoạn quanh phẫu thuật/thủ thuật đó, nhồi máu cơ tim có nhiều khả năng xảy ra sau phẫu thuật bóc nội mạc, và đột quỵ tái phát nhiều khả năng xảy ra hơn sau đặt stent.
+
+Phẫu thuật tạo hình động mạch đốt sống ngoài sọ và/hoặc đặt stent
+
+có thể được sử dụng ở một số bệnh nhân với các triệu chứng tái phát của thiếu máu cục bộ hệ sống nền mặc dù đã điều trị nội khoa tối ưu và tắc động mạch đốt sống từ 50 đến 99%.
+
+Nong động mạch lớn nội sọ và/hoặc đặt stent
+
+có thể có hiệu quả ở những bệnh nhân khi điều trị tối ưu bằng thuốc không có hiệu quả. Các yếu tố chính cần xem xét là đặc điểm của bệnh nhân (ví dụ: kiểm soát các yếu tố nguy cơ, tuân thủ chế độ dùng thuốc), thời gian thực hiện thủ thuật (> 3 tuần sau đột quỵ) và kinh nghiệm của bác sĩ can thiệp. Tỷ lệ các biến cố bất lợi quanh giai đoạn thực hiện thủ thuật có thể ở mức thấp chấp nhận được sau khi nong mạch vành qua da và đặt stent khi các yếu tố này được xem xét (
+
+14
+
+).
+
+Việc đóng còn lỗ bầu dục nôi mạch
+
+cộng với việc sử dụng liệu pháp chống kế tập tiểu cầu được khuyến nghị cho những bệnh nhân < 60 tuổi bị đột quỵ do tắc mạch không xác định được nguyên nhân mặc dù đã đánh giá rộng rãi (
+
+4
+
+,
+
+15
+
+).
+
+Thuốc chống kết tập tiểu cầu đường uống
+
+được sử dụng để ngăn ngừa các cơn đột quỵ không do tim (ví dụ: đột quỵ do huyết khối xơ vữa động mạch, đột quỵ ổ khuyết, đột quỵ không rõ nguyên nhân) tiếp theo (phòng ngừa thứ phát). Có thể sử dụng những lựa chọn sau đây:
+
+Aspirin 81 hoặc 325 mg một lần/ngày
+
+Clopidogrel
+
+Ticagrelor
+
+Một sản phẩm phối hợp aspirin và dipyridamole giải phóng kéo dài
+
+Ở những bệnh nhân dùng thuốc chống đông đường uống, thuốc chống kết tập tiểu cầu làm tăng nguy cơ chảy máu và do đó thường được tránh dùng; tuy nhiên,
+
+aspirin
+
+đôi khi được sử dụng đồng thời với warfarin ở một số bệnh nhân có nguy cơ cao. Clopidogrel được chỉ định cho những bệnh nhân dị ứng với
+
+aspirin
+
+. Nếu đột quỵ thiếu máu não cục bộ xảy ra hoặc nếu stent động mạch vành bị tắc trong khi bệnh nhân đang dùng clopidogrel, các bác sỹ lâm sàng nên nghi ngờ có sự giảm chuyển hóa clopidogrel (chuyển clopidogrel sang dạng hoạt động không hiệu quả vì hoạt động cytochrome P-450 2C19 CYP2C19 giảm); một xét nghiệm để xác định tình trạng CYP2C19 (ví dụ, xét nghiệm gen đối với CYP450 đa hình) được khuyến cáo. Nếu xác nhận có sự suy giảm chuyển hóa, aspirin hoặc phối hợp aspirin và ticagrelor là lựa chọn thay thế hợp lý.
+
+Clopidogrel kết hợp với
+
+aspirin
+
+, nếu bắt đầu trong thời gian điều trị cấp tính, chỉ được dùng trong thời gian ngắn (ví dụ < 3 tuần) vì nó không có lợi thế hơn
+
+aspirin
+
+đơn thuần trong phòng ngừa đột quỵ thứ phát lâu dài và dẫn đến nhiều biến chứng chảy máu hơn. Clopidogrel cộng với
+
+aspirin
+
+trước và trong ≥ 30 ngày sau khi chỉ định đặt stent, thường là trong ≤ 6 tháng; nếu bệnh nhân không dung nạp được clopidogrel hoặc kháng clopidogrel do mất alen CYP2C19, có thể thay thế bằng ticagrelor.
+
+Thuốc chống đông đường uống
+
+được chỉ định để phòng ngừa thứ phát các cơn đột quỵ do tắc mạch tim (cũng như phòng ngừa nguyên phát), nhưng chống chỉ định đối với các cơn đột quỵ do huyết khối. Warfarin liều hiệu chỉnh (một chất kháng vitamin K) với mục tiêu INR từ 2 đến 3 được sử dụng cho một số bệnh nhân rung nhĩ do hoặc không do van tim. Mục tiêu INR 2,5 đến 3,5 được sử dụng nếu bệnh nhân có van cơ tim nhân tạo. Các lựa chọn thay thế hiệu quả cho warfarin dành cho bệnh nhân bị rung nhĩ không do van tim bao gồm các thuốc chống đông máu trực tiếp đường uống sau đây:
+
+Dabigatran (thuốc ức chế thrombin trực tiếp)
+
+Apixaban (thuốc ức chế yếu tố Xa trực tiếp)
+
+Rivaroxaban (thuốc ức chế yếu tố Xa trực tiếp)
+
+Edoxaban (thuốc ức chế yếu tố Xa trực tiếp)
+
+Ưu điểm chính của các thuốc chống đông đường uống trực tiếp này so với warfarin là dễ sử dụng (ví dụ: không cần kiểm tra nồng độ thuốc chống đông bằng xét nghiệm máu sau liều đầu tiên hoặc sử dụng thuốc chống đông theo đường tiêm truyền như heparin không phân đoạn truyền liên tục khi chuyển từ thuốc chống đông theo đường tiêm sang thuốc chống đông theo đường uống). Bất lợi chính của các loại thuốc này là chi phí. Trong trường hợp xảy ra biến chứng xuất huyết, thuốc giải độc cho dabigatran là idarucizumab (
+
+14
+
+) và thuốc giải độc cho apixaban hoặc rivaroxaban là andexanet alfa. Hiệu quả và độ an toàn của việc phối hợp bất kỳ thuốc chống đông máu mới nào với thuốc chống kết tập tiểu cầu chưa được thiết lập.
+
+Statins
+
+được sử dụng để ngăn ngừa đột quỵ tái phát; nồng độ lipid phải được làm giảm đáng kể (
+
+16
+
+). Liệu pháp statin (atorvastatin, rosuvastatin, simvastatin, pravastatin) được khuyến nghị cho những bệnh nhân có bằng chứng về đột quỵ do xơ vữa động mạch và cholesterol LDL (lipoprotein tỷ trọng thấp) ≥ 100 mg/dL. Đích cholesterol LDL hợp lý là giảm 50% hoặc < 70 mg/dL.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Tsivgoulis G, Zand R, Katsanos AH, et al
+
+. Safety of intravenous thrombolysis in stroke mimics: prospective 5-year study and comprehensive meta-analysis.
+
+Stroke.
+
+46 (5):1281–1287, 2015. doi: 10.1161/STROKEAHA.115.009012
+
+2.
+
+Menon BK, Singh N, Sylaja, PN
+
+. Tenecteplase use in patients with acute ischaemic stroke.
+
+Lancet.
+
+2023;401(10377):618-619. doi:10.1016/S0140-6736(22)02633-2
+
+3.
+
+Frank B, Grotta JC,.Alexandrov AV, et al
+
+. Thrombolysis in stroke despite contraindications or warnings?
+
+Stroke.
+
+2013;44(3):727-733. doi:10.1161/STROKEAHA.112.674622
+
+4.
+
+Powers WJ, Rabinstein AA, Ackerson T, et al
+
+. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: A guideline for healthcare professionals from the American Heart Association/American Stroke Association.
+
+Stroke.
+
+tháng 12 năm 2019;50(12):e440-e441. doi: 10.1161/STR.0000000000000215.].
+
+Stroke
+
+. 2019;50(12):e344-e418. doi:10.1161/STR.0000000000000211
+
+5.
+
+Highlights of prescribing information for alteplase
+
+. Truy cập ngày 28 tháng 4 năm 2025.
+
+6.
+
+Jovin TG, Li C, Wu L, et al
+
+. Trial of thrombectomy 6 to 24 hours after stroke due to basilar-artery occlusion.
+
+N Engl J Med.
+
+2022; 387:1373-1384, 2022. doi: 10.1056/NEJMoa2207576
+
+7.
+
+Albers GW, Marks MP, Kemp S, et al
+
+. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging.
+
+N Engl J Med.
+
+2018;378(8):708-718. doi:10.1056/NEJMoa1713973
+
+8.
+
+Nogueira RG, Jadhav AP, Haussen DC, et al
+
+. Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct.
+
+N Engl J Med.
+
+2018;378(1):11-21. doi:10.1056/NEJMoa1706442
+
+9.
+
+Abecassis IJ, Almallouhi E, Chalhoub R, et al
+
+. Outcomes after endovascular mechanical thrombectomy for low compared to high National Institutes of Health Stroke Scale (NIHSS): A multicenter study.
+
+Clin Neurol Neurosurg.
+
+2023;225:107592. doi:10.1016/j.clineuro.2023.107592
+
+10.
+
+Masoud HE, de Havenon A, Castonguay AC, et al
+
+. 2022 Brief practice update on intravenous thrombolysis before thrombectomy in patients with large vessel occlusion acute ischemic stroke: A statement from Society of Vascular and Interventional Neurology Guidelines and Practice Standards (GAPS) Committee. Stroke.
+
+Vasc Interv Neurol.
+
+2 (4) 2022. doi: 10.1161/SVIN.121.000276
+
+11.
+
+CAST
+
+: randomised placebo-controlled trial of early aspirin use in 20.000 patients with acute ischaemic stroke. CAST (Chinese Acute Stroke Trial) Collaborative Group.
+
+Lancet
+
+. 1997;349(9066):1641-1649.
+
+12.
+
+Hao Q, Tampi M, O'Donnell M, et al
+
+. Clopidogrel plus aspirin versus aspirin alone for acute minor ischaemic stroke or high risk transient ischaemic attack: Systematic review and meta-analysis.
+
+BMJ.
+
+363:k5108, 2018. doi: 10.1136/bmj.k5108
+
+13.
+
+Whelton PK, O'Connell S, Mills KT, He J
+
+. Optimal Antihypertensive Systolic Blood Pressure: A Systematic Review and Meta-Analysis.
+
+Hypertension.
+
+2024;81(11):2329-2339. doi:10.1161/HYPERTENSIONAHA.124.23597
+
+14.
+
+Alexander MJ, Zauner A, Chaloupka JC, et al
+
+. WEAVE Trial: Final results in 152 on-label patients.
+
+Stroke.
+
+50 (4):889–894, 2019. doi: 10.1161/STROKEAHA.118.023996
+
+15.
+
+Kavinsky CJ, Szerlip M, Goldsweig AM, et al
+
+. SCAI guidelines for the management of patent foramen ovale.
+
+Standards and guidelines.
+
+1 (4), 100039, 2022. doi: 10.1016/j.jscai.2022.100039
+
+16.
+
+Lee M, Cheng CY, Wu YL, et al
+
+. Association Between Intensity of Low-Density Lipoprotein Cholesterol Reduction With Statin-Based Therapies and Secondary Stroke Prevention: A Meta-analysis of Randomized Clinical Trials.
+
+JAMA Neurol
+
+. 2022;79(4):349-358. doi:10.1001/jamaneurol.2021.5578
+
+Tiên lượng cho đột quỵ do thiếu máu não cục bộ
+
+Mức độ nghiêm trọng và tiến triển của đột quỵ thường được đánh giá bằng cách sử dụng các biện pháp tiêu chuẩn như Thang điểm đột quỵ của Viện Y tế Quốc gia (NIH) (xem bảng
+
+Thang điểm đột quỵ của Viện Y tế Quốc gia
+
+); điểm số trên thang điểm này tương quan với mức độ suy giảm chức năng và tiên lượng. Trong những ngày đầu, tiến triển và kết cục có thể khó dự báo trước. Tuổi già, suy giảm ý thức, mất ngôn ngữ, và dấu hiệu thân não gợi ý tiên lượng xấu. Cải thiện sớm và tuổi trẻ gợi ý tiên lượng thuận lợi.
+
+Công cụ tính toán lâm sàng
+
+Thang điểm đột quỵ NIH
+
+Khoảng 50% số bệnh nhân bị liệt nửa người mức độ trung bình hoặc nặng và hầu hết bị khiếm khuyết nhẹ hơn đều có cảm giác rõ ràng và cuối cùng có thể tự chăm sóc các nhu cầu cơ bản và đi lại bình thường. Khoảng 10% số trường hợp có thể phục hồi hoàn toàn về mặt thần kinh. Việc sử dụng các chi bị ảnh hưởng thường có giới hạn, và hầu hết các thiếu sót còn lại sau 12 tháng sẽ là vĩnh viễn. Bệnh nhân đã từng bị đột quỵ sẽ có nguy cơ cao bị đột quỵ tái phát và có xu hướng làm nặng thêm chức năng thần kinh. Khoảng 25% số bệnh nhân hồi phục sau cơn đột quỵ đầu tiên sẽ bị đột quỵ lần nữa trong vòng 5 năm.
+
+Sau cơn đột quỵ do thiếu máu não cục bộ, khoảng 20% ​​số bệnh nhân tử vong tại bệnh viện; tỷ lệ tử vong tăng theo độ tuổi.
+
+Những điểm chính
+
+Phân biệt đột quỵ do thiếu máu não cục bộ với giống đột quỵ (ví dụ: liệt sau cơn, đau nửa đầu liệt nửa người, nhiễm trùng hệ thần kinh trung ương, rối loạn thần kinh chức năng).
+
+Mặc dù phân biệt trên lâm sàng là không chính xác, nhưng một số gợi ý giúp phân biệt giữa các thể thông thường của đột quỵ bao gồm triệu chứng tiến triển nhanh (thiếu sót đạt mức tối đa trong vòng vài phút khởi phát với huyết khối từ nơi khác gây tắc mạch và đôi khi khởi phát chậm hoặc từng bước với huyết khối tại chỗ), thời điểm khởi phát (ban ngày với huyết khối tắc mạch từ xa và ban đêm với huyết khối tại chỗ), và kiểu thiếu sót thần kinh (ví dụ, các hội chứng đặc thù và không có các dấu hiệu vỏ não trong trường hợp nhồi máu ổ khuyết).
+
+Kiểm tra bệnh nhân để tìm nguyên nhân ở tim (bao gồm rung nhĩ) và hẹp động mạch (bằng hình ảnh mạch máu) và làm xét nghiệm máu (ví dụ như huyết khối, thấp khớp và các rối loạn khác) theo chỉ định.
+
+Nhìn chung, không giảm tích cực huyết áp sau đột quỵ thiếu máu não cục bộ.
+
+Để xác định ứng viên cho tPA, hãy sử dụng một danh sách kiểm tra và, nếu có thể, hội chẩn với một chuyên gia, trực tiếp hoặc hội chẩn từ xa.
+
+Để tối ưu hóa việc hồi phục mô não, bắt đầu điều trị bằng thuốc tiêu sợi huyết hoặc phẫu thuật lấy huyết khối cơ học càng sớm càng tốt ("thời gian là não").
+
+Để dự phòng đột quỵ thiếu máu não cục bộ về sau, kiểm soát các yếu tố nguy cơ có thể thay đổi được và điều trị, khi có chỉ định, với thuốc chống tiểu cầu, statin, và/hoặc phẫu thuật bóc nội mạc động mạch hoặc đặt stent.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của đột quỵ do thiếu máu não cục bộ ---
+
+Dưới đây là các yếu tố nguy cơ có thể thay đổi được góp phần làm tăng nguy cơ đột quỵ thiếu máu não cục bộ:Tăng huyết ápHút thuốc láRối loạn lipid máuBệnh tiểu đườngKhángInsulinBéo bụngNgưng thở tắc nghẽn khi ngủLạm dụng rượuThiếu hoạt động thể lựcChế độ ăn nguy cơ cao (ví dụ: giàu chất béo bão hòa, chất béo chuyển dạng và năng lượng)Căng thẳng tâm lý và xã hội (ví dụ,trầm cảm)Bệnh tim (đặc biệt là các bệnh dễ gây thuyên tắc, chẳng hạn nhưnhồi máu cơ tim cấp,viêm nội tâm mạc nhiễm trùng,bệnh van timvàrung nhĩ)Hẹp động mạch cảnhSử dụng một số chất nhất định (ví dụ, cocaine, amphetamines)Tăng đông quá mứcViêm mạchSử dụng estrogen ngoại sinhCác yếu tố nguy cơ không thể thay đổi được bao gồm:Đột quỵ trước đóGiớiChủng tộc/chủng tộcTuổi caoTiền sử gia đình có đột quỵCác nguyên nhân phổ biến nhất gây đột quỵ do thiếu máu não cục bộ có thể được phân loại như sau:Cryptogen (nghĩa là không có nguyên nhân tim mạch, mạch máu hoặc xơ vữa động mạch rõ ràng nhất)Tắc mạch do timNhồi máu ổ khuyếtXơ vữa động mạch lớn (nguyên nhân phổ biến thứ tư)Đột quỵ không biết nguồn gốcĐột quỵ được phân loại là không biết nguồn gốc khi xảy ra một trong các trường hợp sau:Đánh giá chẩn đoán là không đầy đủ.Không xác định được nguyên nhân mặc dù đã đánh giá toàn diện (chụp CT hoặc chụp MRI, chụp mạch não và đánh giá tim).Có nhiều hơn một nguyên nhân có thể xảy ra (ví dụ: rung nhĩ và hẹp động mạch cảnh cùng bên).Đột quỵ do thuyên tắc mạch không xác định được nguồn gốc (ESUS), một phân nhóm của đột quỵ không rõ nguyên nhân, được chẩn đoán khi không có nguồn nào được xác định sau khi đánh giá chẩn đoán đầy đủ đã loại trừ đột quỵ ổ khuyết, các nguồn tắc mạch chính từ tim và bệnh tắc mạch máu cùng bên (tắc > 50%). Bằng chứng gần đây cho thấy bệnh động mạch cảnh không hẹp có triệu chứng với tỷ lệ tắc < 50% có thể là nguyên nhân quan trọng gây đột quỵ (1).Tắc mạch do timEmboli có thể cư trú ở bất cứ đâu trong cây động mạch não.Emboli có thể bắt nguồn từ huyết khối ở tim, đặc biệt là trong các tình trạng sau:Rung nhĩBệnh van tim do thấp (thường là hẹp van hai lá)Sau nhồi máu cơ timSùi van tim trong viêm nội tâm mạc nhiễm trùng hoặc viêm nội tâm mạc ở người bệnh suy kiệtU nhày nhĩVan tim nhân tạoCác thiết bị hỗ trợ tuần hoàn cơ học (ví dụ, thiết bị hỗ trợ thất trái hoặc LVAD [2])Còn lỗ bầu dụcLỗ thông bầu dục (PFO) là nguyên nhân thường gặp gây đột quỵ vô căn ở bệnh nhân trẻ tuổi, chủ yếu do thuyên tắc nghịch thường. Kích thước PFO lớn và phình vách liên nhĩ đi kèm làm tăng nguy cơ bị đột quỵ. Đóng PFO có thể làm giảm nguy cơ bị đột quỵ tái phát ở những bệnh nhân được lựa chọn cẩn thận (3).Các nguồn khác bao gồm các cục máu đông hình thành sau phẫu thuật tim hở và các mảng xơ vữa trong các động mạch vùng cổ hoặc cung động mạch chủ. Trong một số hiếm các trường hợp, huyết khối cấu tạo từ chất béo (từxương dài bị gãy), không khí (trong bệnh chấn thương do giảm áp suất), hoặc cục máu đông tĩnh mạch đi từ tim phải sang tim trái qua lỗ bầu dục với luồng thông ngược chiều (huyết khối nghịch thường). Emboli có thể bong ra tự phát hoặc sau can thiệp tim mạch xâm lấn (ví dụ như đặt catheter). Hiếm khi, huyết khối động mạch dưới đòn gây ra đột quỵ do tắc mạch ở động mạch đốt sống hoặc các nhánh của nó.Nhồi máu ổ khuyếtĐột quỵ do thiếu máu não cục bộ cũng có thể là nhồi máu ổ khuyết. Nhồi máu ổ khuyết là những cơn đột quỵ nhỏ (≤1,5 cm) xảy ra ở các cấu trúc não sâu như hạch nền, đồi thị và cầu não. Nguyên nhân thường gặp nhất là do các yếu tố nguy cơ tiềm ẩn gây bệnh mạch máu não như tăng huyết áp và tiểu đường. Các chỗ nhồi máu nhỏ là kết quả của tình trạng tắc nghẽn không huyết khối xơ vữa của các động mạch nhỏ, xuyên thấu cung cấp máu cho các cấu trúc vỏ não sâu; nguyên nhân thường gặp là thoái hóa mỡ kính (tình trạng thoái hóa lớp áo giữa của động mạch nhỏ và thay thế bằng lipid và collagen). Cục nghẽn cũng có thể gây ra nhồi máu ổ khuyết.Khi xảy ra đột quỵ gây thương tổn những vị trí này ở bệnh nhân không có các yếu tố nguy cơ mạch máu điển hình hoặc nếu nhồi máu > 1,5 cm, cần xem xét cơ chế thay thế, chẳng hạn như nguồn thuyên tắc trung tâm (động mạch tim hoặc động mạch đầu gần).Huyết khối mạch máu lớnXơ vữa động mạch lớn có thể ảnh hưởng đến động mạch trong hoặc ngoài sọ.Mảng xơ vữa, đặc biệt nếu bị rách vỡ, có khuynh hướng tạo huyết khối. Xơ vữa có thể xảy ra ở bất kỳ động mạch lớn nào trong não và thường gặp ở các khu vực có dòng chảy bất thường, đặc biệt là ở chỗ chia đôi động mạch cảnh. Tắc hoàn toàn hay một phần do huyết khối xảy ra nhiều nhất ở thân chính của động mạch não giữa và các nhánh của nó nhưng cũng thường gặp ở các động mạch lớn ở nền não, trong các động mạch xuyên sâu, và các nhảnh vỏ nhỏ. Các động mạch nền và đoạn động mạch cảnh trong giữa xoang hang và động mạch mắt cũng thường bị tắc.Nguyên nhân khácCác nguyên nhân gây đột quỵ ít phổ biến hơn bao gồm viêm mạch máu thứ phát sau các bệnh lý như viêm màng não cấp tính hoặcviêm màng nãomạn tính,bệnh mạch máuvàgiang mai; bóc tách động mạch nội sọ hoặc bóc tách động mạch chủ; bệnh tăng đông máu (ví dụ:hội chứng kháng phospholipid,tăng homocysteine máu, bệnh ác tính tiềm ẩn); bệnh lý tăng độ nhớt (ví dụ:đa hồng cầu,tăng tiểu cầu,bệnh huyết sắc tố,bệnh tương bào); và các bệnh hiếm gặp (ví dụ: loạn sản xơ cơ, bệnh moyamoya, bệnh Binswanger).Ở trẻ em,bệnh hồng cầu hình liềmlà nguyên nhân phổ biến gây đột quỵ thiếu máu não cục bộ.Bất kỳ yếu tố nào làm giảm tưới máu hệ thống (ví dụ ngộ độc carbon monoxide, thiếu máu hoặc thiếu oxy nặng, đa hồng cầu, hạ huyết áp) đều làm tăng nguy cơ của tất cả các thể đột quỵ thiếu máu não cục bộ. Đột quỵ có thể xảy ra ở ranh giới giữa các vùng cấp máu của các động mạch (vùng giáp ranh); ở những khu vực này, lượng cấp máu thường thấp, đặc biệt nếu bệnh nhân bị tụt huyết áp và/hoặc nếu có hẹp các động mạch não lớn.Ít gặp hơn, đột quỵ do thiếu máu não cục bộ là do co thắt mạch (ví dụ: trong migraine, sau chảy máu dưới nhện, sau dùng chất kích thích giao cảm như cocaine hoặc amphetamines) hoặc huyết khối xoang tĩnh mạch (ví dụ như trong trường hợp nhiễm trùng nội sọ, sau phẫu thuật, thời kỳ chu sinh, thứ phát do rối loạn tăng đông).Tài liệu tham khảo về căn nguyên1.Ospel JM, Kappelhof M, Ganesh A, Kallmes DF, Brinjikji W, Goyal M. Symptomatic non-stenotic carotid disease: current challenges and opportunities for diagnosis and treatment.J Neurointerv Surg. 2024;16(4):418-424. Xuất bản ngày 14 tháng 3 năm 2024. doi:10.1136/jnis-2022-0200052.Caprio FZ, Sorond FA. Cerebrovascular Disease: Primary and Secondary Stroke Prevention.Med Clin North Am. 2019;103(2):295-308. doi:10.1016/j.mcna.2018.10.0013.Caso V, Turc G, Abdul-Rahim AH, et al. European Stroke Organisation (ESO) Guidelines on the diagnosis and management of patent foramen ovale (PFO) after stroke.Eur Stroke J.2024;9(4):800-834. doi:10.1177/23969873241247978
+
+--- 2. Sinh lý bệnh của đột quỵ do thiếu máu cục bộ ---
+
+Hệ thống tuần hoàn bàng hệ hiệu quả có thể bù đắp cho tình trạng một động mạch não không đủ lưu lượng tuần hoàn, đặc biệt giữa các động mạch cảnh và động mạch đốt sống thông qua các kết nối ở vòng đa giác Willis, và ở mức độ thấp hơn, giữa các động mạch chính cấp máu cho các bán cầu não. Tuy nhiên, trong bối cảnh các biến thể bình thường của vòng đa giác Willis và năng lực của các mạch máu bàng hệ rất biến đổi, xơ vữa động mạch và các tổn thương động mạch mắc phải khác có thể làm suy giảm tuần hoàn bàng hệ, làm tăng khả năng tắc động mạch sẽ gây ra thiếu máu não cục bộ.Một số nơ-ron thần kinh chết khi tưới máu là<5% so với bình thường trong thời gian>5 phút; tuy nhiên, mức độ tổn thương phụ thuộc vào mức độ nặng của thiếu máu não cục bộ. Nếu nhẹ, tổn thương sẽ tiến triển chậm; do đó, thậm chí tưới máu là 40% so với bình thường, từ 3 đến 6 giờ có thể trôi qua trước khi mô não bị hoại tử hoàn toàn. Tuy nhiên, nếu thiếu máu não cục bộ nặng và kéo dài > 15 đến 30 phút, tất cả các mô bị ảnh hưởng sẽ chết (nhồi máu). Tổn thương tiến triển nhanh hơn nếu tăng thân nhiệt và chậm hơn nếu hạ thân nhiệt. Nếu các mô bị thiếu máu cục bộ nhưng chưa đến mức không thể phục hồi được thì việc nhanh chóng khôi phục dòng máu có thể làm giảm hoặc phục hồi tổn thương. Ví dụ, can thiệp có thể cứu các vùng thiếu máu mức độ trung bình (vùng tranh tối tranh sáng) thường bao quanh các vùng thiếu máu nặng (những vùng này tồn tại vì có tuần hoàn bàng hệ).Cơ chế gây tổn thương do thiếu máu não cục bộ bao gồm:PhùHuyết khối vi mạchChết tế bào theo chương trình (apoptosis)Nhồi máu với hoại tử tế bàoCác chất trung gian gây viêm (ví dụ: interleukin1-beta, yếu tố hoại tử khối u-alpha) góp phần gây phù nề và huyết khối vi mạch. Phù, nếu nặng hoặc lan rộng, có thể làm tăng áp lực nội sọ.Nhiều yếu tố có thể góp phần gây chết tế bào; chúng bao gồm mất dự trữATP, mất cân bằng ion (bao gồm sự tích tụ canxi nội bào), tổn thương oxy hóa lipid của màng tế bào bởi các gốc tự do (một quá trình qua trung gian sắt), các chất kích thích thần kinh (như glutamate) và toan hóa nội bào do tích tụ lactate.
+
+--- 3. Các triệu chứng và dấu hiệu của đột quỵ do thiếu máu não cục bộ ---
+
+Các triệu chứng và dấu hiệu đột quỵ thiếu máu não cục bộ phụ thuộc vào phần não bị ảnh hưởng. Hình thái tổn thương thần kinh thường gợi ý động mạch bị ảnh hưởng (Xem bảngHội chứng đột quỵ chọn lọc), nhưng sự tương quan thường không như thực tế.BảngCác hội chứng đột quỵ chọn lọcBảngCác hội chứng đột quỵ chọn lọcCác hội chứng đột quỵ chọn lọcTriệu chứng và Dấu hiệuHội chứngLiệt nửa người đối bên (ưu thế ở chân), tiểu không tự chủ, thờ ơ, lú lẫn, giảm khả năng phán đoán, không nói được, có phản xạ nắm, thất điều dáng điĐộng mạch não trước (ít gặp)Liệt nửa người đối bên (ưu thế tay và mặt hơn ở chân), nói khó, tê nửa người, bán manh đồng danh đối bên, mất ngôn ngữ (nếu bán cầu ưu thế bị ảnh hưởng) hoặc thất điều và mất chú ý cảm giác (nếu bán cầu không ưu thế bị ảnh hưởng)Động mạch não giữa (thường gặp)Bán manh đồng danh đối bên, mù vỏ não một bên, mất trí nhớ, liệt thần kinh sọ não 3 một bên, múa vung nửa ngườiĐộng mạch não sauMất thị lực một mắt (amaurosis)Động mạch mắt (một nhánh của động mạch cảnh trong)Tổn thương thần kinh sọ một bên hoặc hai bên (ví dụ, rung giật nhãn cầu, chóng mặt, nuốt khó, nói khó, nhìn đôi, mù), thất điều chi hoặc thân mình, liệt cứng, thiếu sót vận động và cảm giác giao bên*, suy giảm ý thức, hôn mê, tử vong (nếu tắc hoàn toàn động mạch), nhịp tim nhanh, huyết áp không ổn địnhHệ sống nềnVắng mặt các thiếu sót vỏ não cộng với một trong những triệu chứng sau đây:Liệt vận động đơn thuần nửa ngườiRối loạn cảm giác đơn thuần nửa ngườiThất điều nửa ngườiHội chứng nói khó - bàn tay vụng vềNhồi máu ổ khuyết* Mất cảm giác hoặc yếu vận động mặt cùng bên kèm với tê hoặc yếu nửa người đối bên chỉ ra tổn thương cầu não hoặc hành não.* Mất cảm giác hoặc yếu vận động mặt cùng bên kèm với tê hoặc yếu nửa người đối bên chỉ ra tổn thương cầu não hoặc hành não.Thiếu sót có thể đạt mức tối đa trong vài phút sau khởi phát, điển hình là trong đột quỵ do tắc mạch. Ít gặp hơn, các thiếu sót tiến triển chậm, thường là từ 24 đến 48 giờ (gọi là đột quỵ tiến triển hoặc đột quỵ tiến triển), điển hình là đột quỵ do huyết khối.Trong hầu hết các đột quỵ tiến triển, rối loạn chức năng thần kinh một bên (thường bắt đầu ở một tay, sau đó lan rộng ra cùng bên) lan rộng mà không gây đau đầu, đau hoặc sốt. Tiến triển thường từng bước, bị gián đoạn bởi các giai đoạn ổn định.Đột quỵ được coi là dưới mức tối đa khi sau khi hoàn tất, chức năng còn sót lại ở vùng bị ảnh hưởng, cho thấy mô sống có nguy cơ bị tổn thương.Đột quỵ tắc mạch thường xảy ra vào ban ngày; đau đầu có thể xảy ra trước các thiếu sót thần kinh. Cục nghẽn thường xuất hiện vào ban đêm và do đó, đột quỵ do cục nghẽn thường được phát hiện đầu tiên khi thức dậy.Nhồi máu ổ khuyết có thể gây ra một trong các hội chứng ổ khuyết kinh điển (ví dụ: liệt vận động nửa người đơn thuần, mất cảm giác nửa người đơn thuần, kết hợp liệt nửa người và mất cảm giác nửa người, liệt nửa người mất điều hòa, hội chứng loạn vận ngôn-bàn tay vụng về); không có dấu hiệu rối loạn chức năng vỏ não (ví dụ: chứng mất ngôn ngữ). Nhồi máu ổ khuyết đa ổ có thể gây ra sa sút trí tuệ donhồi máu đa ổ.Một cơn động kinh có thể xảy ra lúc khởi phát đột quỵ, thường gặp trong tắc mạch hơn là huyết khối. Động kinh cũng có thể xảy ra nhiều tháng hoặc nhiều năm sau; cơn co giật kéo muộn xảy ra do sẹo hoặc sự lắng đọng hemosiderin ở vị trí thiếu máu cục bộ.Thỉnh thoảng, sốt phát triển.Sự suy giảm trong vòng 48 đến 72 giờ đầu sau khởi phát triệu chứng, đặc biệt là suy giảm ý thức nặng dần, do phù não hơn là nhồi máu lan rộng. Trừ trường hợp nhồi máu lớn hoặc rộng, chức năng thường cải thiện trong vài ngày đầu; sự cải thiện tiếp theo diễn ra từ từ cho đến 1 năm.
+
+--- 4. Chẩn đoán đột quỵ do thiếu máu não cục bộ ---
+
+Bệnh sử và khám lâm sàngChấn đoán hình ảnh thần kinh và xét nghiệm đường máu tại giườngĐánh giá để xác định nguyên nhânChẩn đoán đột quỵ thiếu máu não cục bộ được gợi ý bởi thiếu sót thần kinh đột ngột tương ứng với một cấp máu của động mạch. Đột quỵ do thiếu máu não cục bộ phải được phân biệt với các nguyên nhân khác gây ra các khiếm khuyết cục bộ tương tự (đôi khi được gọi là đột quỵ giả, là các bệnh lý không do mạch máu não gây ra các dấu hiệu thần kinh cục bộ. Các tình trạng có thể giống đột quỵ bao gồm:Co giật (ví dụ: bị liệt sau cơn bệnh)Nhiễm trùng CNSRối loạn thần kinh chức năng (thường là chẩn đoán loại trừ)Chứng đau nửa đầu (ví dụ: chứng đau nửa đầu liệt nửa người)Hạ đường huyếtĐau đầu, hôn mê hoặc choáng váng và nôn ói thường gặp ở đột quỵ xuất huyết hơn là đột quỵ do thiếu máu não cục bộ.Khi nghi ngờ đột quỵ, bác sĩ lâm sàng có thể sử dụng các tiêu chuẩn chuẩn hóa để phân loại mức độ nặng và theo dõi những thay đổi theo thời gian. Cách tiếp cận này có thể đặc biệt hữu ích như một thước đo kết quả trong các nghiên cứu về hiệu quả.Thang đo đột quỵ của Viện Y tế Quốc gia (NIHSS)là thang đo gồm 15 mục để đánh giá mức độ ý thức và chức năng ngôn ngữ của bệnh nhân, đồng thời xác định những khiếm khuyết về vận động và khiếm khuyết cảm giác bằng cách yêu cầu bệnh nhân trả lời các câu hỏi và thực hiện các nhiệm vụ về thể chất và tinh thần. Nó cũng hữu ích cho việc lựa chọn phương pháp điều trị thích hợp và dự đoán kết quả.BảngThang điểm đột quỵ của Viện Y tế Quốc gia*BảngThang điểm đột quỵ của Viện Y tế Quốc gia*Thang điểm đột quỵ của Viện Y tế Quốc gia*Tiêu chíDấu hiệuĐiểmMức ý thức (LOC)Thông minh, phản ứng nhanh nhạy0Không tỉnh táo, nhưng có thể bị kích thích bằng cách sử dụng kích thích nhỏ để tuân theo, trả lời, hoặc trả lời1Không tỉnh táo; đòi hỏi sự kích thích lặp đi lặp lại để tham dự hoặc bị che lấp và đòi hỏi sự kích thích mạnh mẽ hoặc đau đớn để thực hiện các động tác có mục đích2Chỉ đáp ứng với phản xạ vận động hoặc tự động hoặc hoàn toàn không đáp ứng, mềm3Câu hỏi về mức ý thức†Trả lời đúng cả hai câu0Trả lời đúng một câu1Trả lời sai cả hai câu2Làm theo yêu cầu‡Làm đúng cả hai yêu cầu0Làm đúng một yêu cầu1Không tuân theo một cách chính xác2Hướng nhìnBình thường0Liệt vận nhãn một phần; nhìn bất thường ở một hoặc cả hai mắt nhưng không có sự liếc xéo (không tự chủ)1Bắt buộc lệch trục hoặc liệt vận nhãn hoàn toàn (điều này không được điều chỉnh bởi cơ chế vận nhãn)2Thị trườngThị trường bình thường0Bán manh một phần1Bán manh hoàn toàn2Bán manh hai bên3Liệt mặtkhông0Liệt mặt tối thiểu1Liệt mặt cục bộ2Liệt hoàn toàn một bên hoặc hai bên3Chức năng vận động tay (điểm cho cả bên trái và bên phải)Cử động bình thường0Trôi đi trước 10 giây nhưng không chạm vào giường1Có một số gắng sức chống lại trọng lực2Không có nỗ lực chống lại trọng lực3Không có cử động4Chức năng vận động chân (điểm cho cả bên trái và bên phải)Cử động bình thường0Trôi đi trước 5 giây nhưng không chạm vào giường1Ngã và ngã xuống giường trước 5 giây nhưng có một chút nỗ lực chống lại trọng lực2Không có nỗ lực chống lại trọng lực3Không có cử động4Thất điều chiKhông thất điều0Thất điều ở 1 chi1Mất điều hòa ở 2 chi2Không thể đánh giá được—Cảm giácBình thường0Mất cảm giác nhẹ1Mất toàn bộ cảm giác nặng2Chức năng ngôn ngữ tốt nhất§Không mất ngôn ngữ0Mất ngôn ngữ nhẹ đến vừa1Mất ngôn ngữ nặng2Mất khả năng ngôn ngữ toàn bộ3Phát âm/ rối loạn phát âmPhát âm bình thường0Nói khó nhẹ đến vừa1Nói khó nặng (không hiểu được hoặc nặng hơn thế)2Không thể đánh giá được—Suy giảm hoặc lơ đễnhVắng mặt0Thị giác, xúc giác, thính giác, không gian, hoặc cá nhân hoặc sự tuyệt chủng đối với kích thích đồng thời ở một trong hai phương thức cảm giác1Sự thiếu chú ý sâu sắc hoặc tuyệt chủng đối với nhiều hơn một phương thức2* Tổng điểm là tổng các điểm của từng mục riêng. Mức độ nặng được biểu thị bằng tổng điểm như sau:1–4 = nhẹ5–15 = trung bình16–20 = trung bình đến nặng21–42 = nặng† Bệnh nhân được hỏi tuổi của họ và tháng hiện tại.‡ Bệnh nhân được yêu cầu mở và nhắm mắt và nắm tay.§ Đối với mất ngôn ngữ:Nhẹ đến trung bình: Bệnh nhân có một số mất khả năng lưu loát hoặc hiểu được.Nặng: Tất cả thông tin liên lạc đều thông qua biểu hiện rời rạc, và phạm vi thông tin được truyền đạt là hạn chế.Mất khả năng ngôn ngữ toàn bộ: Bệnh nhân không có khả năng nói hoặc hiểu được.* Tổng điểm là tổng các điểm của từng mục riêng. Mức độ nặng được biểu thị bằng tổng điểm như sau:1–4 = nhẹ5–15 = trung bình16–20 = trung bình đến nặng21–42 = nặng† Bệnh nhân được hỏi tuổi của họ và tháng hiện tại.‡ Bệnh nhân được yêu cầu mở và nhắm mắt và nắm tay.§ Đối với mất ngôn ngữ:Nhẹ đến trung bình: Bệnh nhân có một số mất khả năng lưu loát hoặc hiểu được.Nặng: Tất cả thông tin liên lạc đều thông qua biểu hiện rời rạc, và phạm vi thông tin được truyền đạt là hạn chế.Mất khả năng ngôn ngữ toàn bộ: Bệnh nhân không có khả năng nói hoặc hiểu được.Đánh giá đột quỵ thiếu máu não cục bộ đòi hỏi phải đánh giá nhu mô não, hệ thống mạch máu (bao gồm tim và các động mạch lớn) và máu.Phân biệt lâm sàng giữa các thể đột quỵ là không chính xác; tuy nhiên, một số gợi ý dựa trên sự tiến triển của triệu chứng, thời điểm khởi phát, và kiểu thiếu sót thần kinh có thể giúp ích.Mặc dù chẩn đoán là lâm sàng, hình ảnh não và xét nghiệm đường máu tại giường là yêu cầu bắt buộc.Việc phân biệt giữa đột quỵ ổ khuyết, tắc mạch và cục nghẽn dựa trên tiền sử, khám và chẩn đoán hình ảnh thần kinh không phải lúc nào cũng đáng tin cậy, do đó, thường thực hiện các kiểm tra để xác định nguyên nhân phổ biến hoặc có thể điều trị được và các yếu tố nguy cơ cho tất cả các loại đột quỵ. Đánh giá cần đánh giá các hệ thống sau:Tim (ví dụ, rung nhĩ, các bệnh lý cấu trúc tiềm tàng khả năng tạo cục máu đông gây tắc mạch)Mạch máu (ví dụ: hẹp động mạch nghiêm trọng được phát hiện bằng chẩn đoán hình ảnh mạch máu)Máu (ví dụ: tiểu đường, rối loạn lipid máu, tăng đông máu)Đột quỵ được phân loại là không rõ nguyên nhân khi không thể xác định được nguyên nhân.Đánh giá nãoChẩn đoán hình ảnh thần kinh bằng chụp CT hoặc chụp MRI được thực hiện trước tiên để loại trừ xuất huyết não, tụ máu dưới màng cứng hoặc ngoài màng cứng và khối u đang phát triển nhanh, đang chảy máu hoặc đột nhiên có triệu chứng. Bằng chứng cho thấy CT sọ não trong ngay cả các trường hợp đột quỵ thiếu máu cục bộ diện rộng ở vòng tuần hoàn trước cũng có thể kín đáo trong vài giờ đầu; những thay đổi có thể bao gồm mờ các rãnh cuộn não hoặc xóa ruy-băng vỏ não thùy đảo, mất ranh giới chất trắng và chất xám, và dấu hiệu động mạch não giữa tăng tỷ trọng. Trong vòng từ 6 đến 12 giờ thiếu máu cục bộ, các trường hợp nhồi máu từ kích thước trung bình đến diện rộng bắt đầu thể hiện bằng hình ảnh giảm tỷ trọng; nhồi máu nhỏ (ví dụ, nhồi máu ổ khuyết) có thể chỉ nhìn thấy trên MRI.Chụp MRI có trọng số khuếch tán (rất nhạy với tình trạng thiếu máu não cục bộ sớm) có thể được thực hiện ngay sau khi chẩn đoán hình ảnh thần kinh ban đầu bằng chụp CT.Chụp hình ảnh các mạch máu cổ và mạch máu nội sọ thường được khuyến nghị là một phần của quá trình kiểm tra thường quy để xác định nguyên nhân và hướng dẫn cách điều trị tiếp theo. Các hướng dẫn khuyến nghị rằng tất cả bệnh nhân có nghi ngờ lâm sàng về tắc mạch máu lớn cần phải chụp mạch máu (CTA hoặc MRA), đặc biệt là trong vòng 24 giờ sau khi xuất hiện triệu chứng do có những tiến bộ trong điều trị đột quỵ cấp tính.Hình ảnh đột quỵ do thiếu máu não cục bộMất dấu hiệu ruy-băng thùy đảoPhim chụp CT này cho thấy xóa mờ khe sylvian và mất dấu hiệu ruy-băng thùy đảo (mũi tên thẳng) ở bên não bị nhồi máu so với dấu hiệu ruy-băng thùy đảo bình thường (mũi tên cong).... đọc thêmĐược sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. TrongAtlas of Cerebrovascular Disease. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.Nhồi máu động mạch não giữaQuan sát thấy nhồi máu vùng sáng rộng ở vùng não được cấp máu bởi động mạch não giữa bên phải.Được sự cho phép của nhà xuất bản. Từ Furie K, và cộng sự: Cerebrovascular disease. TrongAtlas of Clinical Neurology. Biên tập bởi RN Rosenberg. Philadelphia, Current Medicine, 2002.Đột quỵ do thiếu máu não cục bộ ở động mạch não giữa bên trái (CT)Chụp CT sọ não không tiêm thuốc này cho thấy một động mạch não giữa tăng áp. Phát hiện này cho thấy một cục máu đông trong động mạch não trái (mũi tên).... đọc thêmHình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.Đột quỵ do thiếu máu não cục bộ cấp tính ở thùy đảo và thùy trán bên trái (MRI)Chụp MRI này cho thấy một khu vực khuếch tán hạn chế phù hợp với đột quỵ thiếu máu não cục bộ ở thùy trái và thùy trán.Hình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.Nhồi máu ổ khuyếtChụp CT này cho thấy nhồi máu ổ khuyết giảm âm, bờ rõ (mũi tên) trong hạch nền.Được sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. TrongAtlas of Cerebrovascular Disease. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.Mất dấu hiệu ruy-băng thùy đảoPhim chụp CT này cho thấy xóa mờ khe sylvian và mất dấu hiệu ruy-băng thùy đảo (mũi tên thẳng) ở bên não bị nhồi máu so với dấu hiệu ruy-băng thùy đảo bình thường (mũi tên cong).... đọc thêmĐược sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. TrongAtlas of Cerebrovascular Disease. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.Nhồi máu động mạch não giữaQuan sát thấy nhồi máu vùng sáng rộng ở vùng não được cấp máu bởi động mạch não giữa bên phải.Được sự cho phép của nhà xuất bản. Từ Furie K, và cộng sự: Cerebrovascular disease. TrongAtlas of Clinical Neurology. Biên tập bởi RN Rosenberg. Philadelphia, Current Medicine, 2002.Đột quỵ do thiếu máu não cục bộ ở động mạch não giữa bên trái (CT)Chụp CT sọ não không tiêm thuốc này cho thấy một động mạch não giữa tăng áp. Phát hiện này cho thấy một cục máu đông trong động mạch não trái (mũi tên).... đọc thêmHình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.Đột quỵ do thiếu máu não cục bộ cấp tính ở thùy đảo và thùy trán bên trái (MRI)Chụp MRI này cho thấy một khu vực khuếch tán hạn chế phù hợp với đột quỵ thiếu máu não cục bộ ở thùy trái và thùy trán.Hình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.Nhồi máu ổ khuyếtChụp CT này cho thấy nhồi máu ổ khuyết giảm âm, bờ rõ (mũi tên) trong hạch nền.Được sự cho phép của nhà xuất bản. Theo Geremia G, Greenlee W. TrongAtlas of Cerebrovascular Disease. Biên tập bởi PB Gorelick và MA Sloan. Philadelphia, Current Medicine, 1996.Nguyên nhân do timKiểm tra các nguyên nhân ở tim thường bao gồm điện tâm đồ, theo dõi từ xa hoặc Holter, troponin huyết thanh và siêu âm qua thành ngực hoặc qua thực quản. Siêu âm tim qua thành ngực hoặc qua thực quản có ích trong việc phát hiện huyết khối trong tim, bệnh van tim và còn lỗ bầu dục (PFO). PFO là một trong những nguyên nhân thường gặp gây ra đột quỵ do cục nghẽn.Máy theo dõi tim cấy ghép rất hữu ích trong việc phát hiện rối loạn nhịp nhĩ tiềm ẩn ở bệnh nhân đột không biết nguồn gốc (1).Nguyên nhân mạch máuĐối với nguyên nhân mạch máu, việc kiểm tra có thể bao gồm chụp cộng hưởng từ (MRA), chụp CT mạch máu (CTA), siêu âm doppler động mạch cảnh và xuyên sọ và chụp mạch máu thông thường. Lựa chọn xét nghiệm nào và thứ tự thực hiện cần được cá thể hóa, dựa trên các dấu hiệu lâm sàng. MRA, CTA và siêu âm động mạch cảnh đều cho thấy tuần hoàn trước; tuy nhiên, MRA và CTA cung cấp hình ảnh tuần hoàn sau tốt hơn siêu âm động mạch cảnh. Nói chung, CTA được ưu tiên hơn MRA vì tránh được ảnh giả do chuyển động. Thông thường, CTA hoặc MRA cần phải được thực hiện khẩn cấp nhưng không nên trì hoãn việc điều trị bằng tPA tĩnh mạch nếu được chỉ định.Nguyên nhân liên quan đến máuXét nghiệm máu thường quy thường bao gồm công thức máu (CBC), bảng xét nghiệm chuyển hóa, thời gian prothrombin/thời gian thromboplastin riêng phần (PT/PTT), đường huyết lúc đói, hemoglobin A1C và hồ sơ lipid.Phụ thuộc vào nguyên nhân nghi ngờ trên lâm sàng, các xét nghiệm bổ sung có thể bao gồm định lượng homocysteine, xét nghiệm đánh giá bệnh lý huyết khối (kháng thể kháng phospholipid, protein S, protein C, antithrombin III, yếu tố V Leiden), xét nghiệm đánh giá bệnh lý thấp (ví dụ: kháng thể kháng nhân, yếu tố dạng thấp, tốc độ máu lắng), xét nghiệm huyết thanh bệnh giang mai, điện di Hb, và xét nghiệm độc chất trong nước tiểu để tìm cocaine và amphetamine.Tài liệu tham khảo chẩn đoán1.Sanna T , Diener H-C., Passman RS, et al. Cryptogenic stroke and underlying atrial fibrillation.N Engl J Med.370:2478–2486, 2014 doi: 10.1056/NEJMoa1313600
+
+--- 5. Điều trị đột quỵ do thiếu máu não cục bộ ---
+
+Điều trị chung cho đột quỵĐiều trị cấp cứu tăng huyết áp chỉ trong một số trường hợpĐối với điều trị cấp tính, đôi khi tái tưới máu bằng chất kích hoạt plasminogen mô tái tổ hợp hoặc tenecteplase và/hoặc lấy huyết khối cơ họcĐôi khi cần mổ bóc nội mạc hoặc đặt stent động mạch cảnhĐiều trị chống tiểu cầuĐôi khi cần điều trị thuốc chống đôngKiểm soát lâu dài các yếu tố nguy cơĐể điều trị lâu dài, phục hồi chức năngĐiều trị đột quỵ cấp tínhCó sẵn hướng dẫn để xử lý sớm tình trạng đột quỵ.Xem Hướng dẫn xử trí sớm bệnh nhân bị đột quỵ thiếu máu cục bộ cấp tính (2019)của Hiệp hội Tim mạch Hoa Kỳ/Hiệp hội Đột quỵ Hoa Kỳ. Bệnh nhân bị đột quỵ thiếu máu não cục bộ thường phải nhập viện.Các biện pháp hỗ trợcó thể cần thiết trong quá trình đánh giá và ổn định ban đầu.Hỗ trợ đường thở và hỗ trợ thông khí nếu giảm ý thức hoặc rối loạn chức năng hành tủyChỉ bổ sung oxy khi cần thiết để duy trì độ bão hòa oxy > 94%Điều chỉnh tình trạng tăng thân nhiệt (nhiệt độ > 38°C) bằng thuốc hạ sốt và xác định và điều trị nguyên nhân gây tăng thân nhiệtĐiều trị hạ đường huyết (đường huyết < 60 mg/dL)Điều trị tăng đường huyết nhằm hạ đường huyết xuống 140 mg/gL đến 180 mg/dL đồng thời theo dõi chặt chẽ tình trạng hạ đường huyếtTưới máu cho vùng não bị thiếu máu cục bộ có thể cần phải tăng huyết áp (BP) vì khả năng tự điều hòa bị mất; do đó, không nên giảm BP trừ những trường hợp sau:Các dấu hiệu tổn thương cơ quan đích khác (ví dụ:phình tách động mạch chủ,nhồi máu cơ tim cấp, phù phổi, bệnh não tăng huyết áp, xuất huyết võng mạc,suy thận cấp).Có thể sử dụng chất kích hoạt plasminogen mô tái tổ hợp (tPA) và/hoặc phẫu thuật lấy huyết khối cơ học.Nếu huyết áp ≥ 220 mm Hg tâm thu hoặc ≥ 120 mm Hg tâm trương trên 2 lần đọc cách nhau 15 phút, giảm huyết áp xuống 15% trong 24 giờ sau khởi phát đột quỵ là hợp lý.Đối với những bệnh nhân đủ điều kiện để điều trị tái tưới máu cấp tính, điều trị theo đường tĩnh mạch để đạt được BP < 180/105 mmHg trước khi bắt đầu dùng thuốc tiêu sợi huyết theo đường tĩnh mạch được bắt đầu bằng một trong những phương pháp sau:LabetalolNicardipineClevidipineBệnh nhân có huyết khối tắc mạch có thể được điều trị bằng một hoặc kết hợp nhiều phương pháp sau đây:Chất hoạt hóa plasminogen mô (tPA), tiêu sợi huyết tại chỗ và/hoặc cắt bỏ huyết khối cơ họcThuốc chống kết tập tiểu cầuThuốc chống đông máuKhuyến cáo tPA tái tổ hợpcó thể được sử dụng cho bệnh nhân đột quỵ thiếu máu não cục bộ cấp tính trong vòng 3 giờ sau khi khởi phát triệu chứng nếu không có chống chỉ định với tPA (Xem bảngTiêu chuẩn loại trừ để sử dụng chất kích hoạt mô plasminogen trong đột quỵ). Một số chuyên gia khuyến cáo sử dụng tPA đến 4,5 giờ sau khởi phát triệu chứng (xemMở rộng khoảng thời gian điều trị đột quỵ do thiếu máu cục bộ cấp tính bằng chất kích hoạt mô plasminogen tĩnh mạch); tuy nhiên, từ 3 giờ đến 4,5 giờ sau khởi phát triệu chứng sẽ có thêm các tiêu chuẩn loại trừ (Xem bảngTiêu chuẩn loại trừ để sử dụng chất kích hoạt mô plasminogen trong đột quỵ).). Vì vậy, tPA phải được cho dùng trong vòng 4,5 giờ kể từ khi xuất hiện triệu chứng – một yêu cầu khó khăn. Bởi vì thời gian chính xác khởi phát triệu chứng có thể không được biết rõ, bác sĩ lâm sàng phải tính thời gian từ lần cuối cùng bệnh nhân được quan sát thấy bình thường.Mặc dù tPA có thể gây tử vong hoặc xuất huyết não có triệu chứng khác, nhưng những bệnh nhân được điều trị bằng tPA theo đúng phác đồ có khả năng phục hồi chức năng thần kinh cao hơn. Khi dùng tPA không đúng cách (ví dụ: khi dùng mặc dù có tiêu chuẩn loại trừ), nguy cơ xuất huyết do tPA cao, chủ yếu ở những bệnh nhân đã bị đột quỵ; nguy cơ bị xuất huyết não rất thấp (khoảng 0,5%; khoảng tin cậy 95% từ 0 đến 2,0% [1]) đối với những bệnh nhân đã bị các triệu chứng giống đột quỵ (ví dụ: đau nửa đầu liệt nửa người, một số bệnh nhiễm trùng hệ thần kinh trung ương, liệt sau cơn đột quỵ, rối loạn thần kinh chức năng).Chỉ những bác sĩ lâm sàng có kinh nghiệm trong điều trị đột quỵ mới nên sử dụng tPA để điều trị cho bệnh nhân đột quỵ cấp tính. Các bác sĩ thiếu kinh nghiệm có nhiều khả năng vi phạm quy trình, dẫn đến nhiều ca xuất huyết não và tử vong hơn. Nếu không có bác sĩ lâm sàng có kinh nghiệm tại cơ sở, việc tham khảo ý kiến ​​của chuyên gia tại trung tâm đột quỵ (bao gồm đánh giá video về bệnh nhân [điều trị từ xa]), nếu có thể, có thể cho phép các bác sĩ lâm sàng này sử dụng tPA. Vì hầu hết các kết cục xấu do không tuân thủ nghiêm ngặt quy trình, nên sử dụng một danh sách có sẵn về các tiêu chuẩn lựa chọn và tiêu chuẩn loại trừ điều trị tPA.Trước khi điều trị bằng tPA, cần phải có những tiêu chí sau:CT sọ não loại trừ chảy máu não.Huyết áp tâm thu phải < 185 mm Hg.Huyết áp tâm trương phải < 105 mm HgĐường huyết phải > 50 mg/dLThuốc chống tăng huyết áp (nicardipine theo đường tĩnh mạch, labetalol theo đường tĩnh mạch, clevidipine theo đường tĩnh mạch) có thể được dùng để duy trì huyết áp < 180/105 mm Hg trong ít nhất 24 giờ sau khi điều trị bằng tPA.Liều tPA là 0,9 mg/kg tiêm tĩnh mạch (liều tối đa 90 mg); 10% được tiêm tĩnh mạch nhanh trong vòng 1 phút và phần còn lại bằng truyền liên tục trong 60 phút. Các dấu hiệu sinh tồn được theo dõi chặt chẽ trong 24 giờ sau khi điều trị. Biến chứng chảy máu cần được xử trí tích cực. Thuốc chống đông máu và thuốc chống kết tập tiểu cầu không được sử dụng trong vòng 24 giờ sau khi điều trị bằng tPA.Tenecteplase là một lựa chọn thay thế hợp lý cho alteplase (2). Tenecteplase khác với alteplase ở ba axit amin trong cấu trúc glycoprotein của nó. Mặc dù không có sự khác biệt đáng kể về kết quả hoặc biến cố bất lợi, tỷ lệ tái tưới máu cao hơn ở những bệnh nhân được điều trị bằng tenecteplase. So với alteplase, tenecteplase có gắn kết fibrin lớn hơn, tăng chuyển đổi plasminogen thành plasmin, khả năng kháng thuốc ức chế hoạt hóa plasminogen cao hơn và sử dụng dễ dàng hơn dưới dạng một liều tấn công duy nhất.Những bệnh nhân không đủ điều kiện để điều trị bằng thuốc tiêu sợi huyết theo đường tĩnh mạch cần phải được dùng thuốc chống tiểu cầu (thường là aspirin 325 mg uống) khi nhập viện. Chống chỉ định với thuốc chống kết tập tiểu cầu bao gồm hen suyễn hoặc nổi mề đay doaspirinhoặc do thuốc chống viêm không steroid (NSAID), mẫn cảm khác vớiaspirinhoặc tartrazine, xuất huyết tiêu hóa cấp tính, thiếu hụt glucose-6-phosphate dehydrogenase (G6PD) và sử dụng warfarin.BảngTiêu chuẩn loại trừ đối với chỉ định sử dụng chất hoạt hóa plasminogen mô trong Đột quỵBảngTiêu chuẩn loại trừ đối với chỉ định sử dụng chất hoạt hóa plasminogen mô trong Đột quỵTiêu chuẩn loại trừ đối với chỉ định sử dụng chất hoạt hóa plasminogen mô trong Đột quỵTiêu chuẩn loại trừ < 3 giờ sau khi bắt đầu triệu chứngChảy máu trong sọ trên phim chụp CTNhồi máu nhiều thùy não (giảm tỷ trọng trên 1/3 diện cấp máu của động mạch não giữa) trên phim chụp CTCó triệu chứng gợi ý chảy máu dưới nhện mặc dù CT sọ não âm tínhTiền sử chảy máu trong sọKhối u trong sọTiền sử đột quỵ hoặc chấn thương đầu nặng trong vòng 3 thángHuyết áp tâm thu>185 mm Hg hoặc huyết áp tâm trương>110 mm Hg sau khi điều trị hạ huyết ápChấn thương nội sọ hay phẫu thuật tủy sống trong vòng 3 thángChảy máu trong đang hoạt độngUng thư đường tiêu hóa hoặc chảy máu trong vòng 21 ngàyNghi ngờ bệnh lý chảy máuSố lượng tiểu cầu<100.000/mcLCó thể vỡ động mạch không đè nén trong 7 ngày trước khi bắt đầu đột quỵSử dụng liều điều trị heparin trọng lượng phân tử thấp trong vòng 24 giờ trướcRối loạn đông máu, tỷ lệ chuẩn hóa quốc tế (INR)>1,7, hoặc thời gian prothrombin (PT)>15 giây, thời gian thromboplastin một phần hoạt hóa (aPTT) > 40 giâyHiện đang sử dụng chất ức chế thrombin trực tiếp hoặc chất ức chế yếu tố Xa trực tiếp trong vòng 48h với bằng chứng về tác dụng chống đông, được phát hiện bằng các xét nghiệm như PTT, INR, và các xét nghiệm thích hợp về yếu tố Xa hoạt hóa.Vỡ động mạch chủ được biết hoặc nghi ngờ gây ra đột quỵ thiếu máu nãoViêm nội tâm mạc nhiễm khuẩnTiêu chuẩn loại trừ tương đối (2)Triệu chứng cải thiện nhanhPhẫu thuật lớn hoặc chấn thương nặng trong vòng 14 ngàyXuất huyết đường tiết niệu trong 21 ngày quaCơn động kinh ở thời điểm khởi phát với thiếu sót thần kinh tồn dư sau cơnMang thaiNhồi máu cơ tim cấp tính trong 3 tháng qua.Cân nhắc bổ sung 3-4,5 giờ sau khởi phát triệu chứng*Tuổi > 80 tuổiSử dụng thuốc chống đông đường uống bất kể INR là bao nhiêuThang điểm đột quỵ của NIH ở lần khám ban đầu > 25Tiền sử có cả đột quỵ và đái tháo đường* Lợi ích cho bệnh nhân có những đặc điểm này là không rõ ràng.NIH = National Institutes of Health.Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association [published correction appears inStroke.Tháng 12 năm 2019;50(12):e440-e441. doi: 10.1161/STR.0000000000000215.].Stroke.2019;50(12):e344-e418. doi:10.1161/STR.0000000000000211* Lợi ích cho bệnh nhân có những đặc điểm này là không rõ ràng.NIH = National Institutes of Health.Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association [published correction appears inStroke.Tháng 12 năm 2019;50(12):e440-e441. doi: 10.1161/STR.0000000000000215.].Stroke.2019;50(12):e344-e418. doi:10.1161/STR.0000000000000211Các phân tích hồi cứu đã dẫn đến việc thu hẹp danh sách các chống chỉ định tuyệt đối khi sử dụng alteplase trong thời gian điều trị sau khi xuất hiện các triệu chứng đột quỵ (3, 4). Tuy nhiên, nếu bệnh nhân có bất kỳ tình trạng nào sau đây, nguy cơ chảy máu khi dùng tPA sẽ tăng lên và cần cân nhắc so với những lợi ích dự kiến [5]):Phẫu thuật hoặc thủ thuật lớn gần đây (ví dụ: ghép bắc cầu động mạch vành, sinh sản, sinh thiết cơ quan, chọc thủng mạch máu không thể ép trước đó)Bệnh mạch máu nãoXuất huyết nội sọ gần đâyChảy máu đường tiêu hóa hoặc chảy máu đường sinh dục-tiết niệu gần đâyTiền sử chấn thương gần đâyTăng huyết áp (huyết áp tâm thu > 175 mm Hg hoặc huyết áp tâm trương > 110 mm HgViêm màng ngoài tim cấp tínhViêm nội tâm mạc bán cấp do vi khuẩnRối loạn cầm máu bao gồm cả những trường hợp do bệnh gan hoặc bệnh thận nặngRối loạn chức năng gan đáng kểMang thaiBệnh võng mạc xuất huyết do tiểu đường hoặc các tình trạng xuất huyết khác trong nhãn khoaViêm tĩnh mạch huyết khối nhiễm trùng hoặc ống thông động tĩnh mạch bị tắc ở vị trí bị nhiễm trùngTuổi cao (> 77 tuổi)Việc sử dụng thuốc chống đông máu hiện tại (ví dụ: warfarin)Có thể cân nhắc phương pháptiêu huyết khối tại chỗ(tiêu huyết khối trong động mạch được chỉ định bằng chụp mạch) đối với huyết khối hoặc thuyên tắc khi cục máu đông ở quá xa để có thể tiếp cận bằng ống thông (ví dụ: A2 xa [động mạch não trước ở đầu xa động mạch thông trước]).Lấy huyết khối bằng dụng cụ cơ học(lấy huyết khối trực tiếp trong lòng động mạch dưới hướng dẫn chụp mạch bằng thiết bị có gắn stent) là tiêu chuẩn chăm sóc tại các trung tâm đột quỵ lớn cho bệnh nhân có tắc mạch lớn gần đây trong tuần hoàn trước. Bằng chứng về hiệu quả của phẫu thuật lấy huyết khối cơ học ở bệnh nhân bị đột quỵ tuần hoàn sau đang ngày càng tăng (6).Lấy huyết khối bằng phương pháp cơ học trước đây bị hạn chế sử dụng trong vòng 6 giờ kể từ khi xuất hiện triệu chứng ở bệnh nhân tắc động mạch cảnh trong hoặc tắc động mạch não giữa. Tuy nhiên, việc điều trị muộn hơn có thể được biện minh tại các trung tâm đột quỵ toàn diện khi các dấu hiệu lâm sàng và/hoặc hình ảnh cho thấy sự hiện diện của một lượng lớn mô có nguy cơ nhồi máu (vùng nửa tối). Thể tích mô nhồi máu và mô thiếu máu cục bộ có nguy cơ (vùng nửa tối do thiếu máu não cục bộ) có thể được xác định bằng cách sử dụng CT tưới máu hoặc MRI tưới máu. Sự không phù hợp đáng kể giữa thể tích vùng nhồi máu và thể tích có nguy cơ được xác định bằng chẩn đoán hình ảnh khuếch tán hoặc tưới máu cho thấy vùng nửa tối đáng kể vẫn có khả năng cứu vãn được. Trong thử nghiệm DEFUSE 3, lợi ích đã được chứng minh rõ ràng lên đến 16 giờ sau khi khởi phát triệu chứng ở những bệnh nhân có nhồi máu nhỏ và vùng nửa tối lớn hơn; cả hai phát hiện đều dựa trên tiêu chuẩn chẩn đoán hình ảnh (7). Trong thử nghiệm DAWN, lợi ích đã được chứng minh rõ ràng trong vòng 24 giờ sau khi xuất hiện triệu chứng ở những bệnh nhân có sự không phù hợp ở mức độ lớn giữa thể tích nhồi máu dựa trên chẩn đoán hình ảnh và mức độ nặng của tình trạng thiếu hụt trên lâm sàng dựa trên các tiêu chuẩn lâm sàng (8).Trước đây, các thử nghiệm lâm sàng hạn chế việc cắt bỏ huyết khối bằng phương pháp cơ học ở những bệnh nhân có điểm NIHSS > 6; tuy nhiên, bằng chứng gần đây ủng hộ tính hữu ích của việc cắt bỏ huyết khối bằng phương pháp cơ học ở những bệnh nhân có điểm NIHSS < 6 (9).Không có bằng chứng ủng hộ việc chỉ sử dụng việc cắt huyết khối bằng phương pháp cơ học ở những bệnh nhân đủ điều kiện để dùng thuốc tiêu sợi huyết theo đường tĩnh mạch. Đối với bệnh nhân bị đột quỵ thiếu máu não cục bộ cấp tính do tắc mạch máu lớn khẩn cấp, khuyến nghị dùng thuốc tiêu sợi huyết theo đường tĩnh mạch trước khi phẫu thuật cắt bỏ huyết khối bằng phương pháp cơ học khi đáp ứng các tiêu chuẩn về thuốc tiêu sợi huyết theo đường tĩnh mạch và không nên bỏ qua thuốc tiêu sợi huyết tĩnh mạch để chỉ cắt bỏ huyết khối theo phương pháp cơ học (10). Các thiết bị được sử dụng để lấy huyết khối đang được cải tiến, và các phương thức gần đây tái lập tuần hoàn máu não trong 90 đến 100% bệnh nhân.Ảnh hưởng của phẫu thuật lấy huyết khối sau đột quỵ (chụp động mạch)Hình ảnhHình ảnh do bác sĩ Ji Y. Chong, MD cung cấp.Thuốc chống kết tập tiểu cầu đường uốngđược sử dụng trong điều trị đột quỵ cấp tính để giảm nguy cơ đột quỵ gây tàn phế tái phát. Có thể sử dụng những lựa chọn sau đây:Aspirin 81 đến 325 mg trong vòng 48 giờ kể từ khi khởi phát đột quỵLiệu pháp chống kết tập tiểu cầu kép bằng aspirin cộng với clopidogrel trong vòng 24 giờ sau khi đột quỵ khởi phát đối với bệnh nhân bị đột quỵ nhẹ hoặc có nguy cơ cao bịcơn thiếu máu não cục bộ thoáng qua(TIA; điểm ABCD2 ≥ 4)Liệu pháp chống tiểu cầu kép với aspirin 81 mg và ticagrelor (có thể có lợi cho bệnh nhân có alen mất chức năng CYP2C19 kháng clopidogrel, đặc biệt nếu sử dụng stent ngoại sọ hoặc nội sọ)Uống Aspirin trong vòng 48 giờ làm giảm nguy cơ đột quỵ tái phát sớm và tử vong (11).Nếu bệnh nhân bị TIA hoặc đột quỵ nhẹ, clopidogrel cộng với aspirin được dùng trong vòng 24 giờ sau khi xuất hiện triệu chứng và tiếp tục trong 21 ngày có vẻ hiệu quả hơnaspirinđơn thuần trong việc giảm nguy cơ đột quỵ trong 90 ngày đầu tiên và không làm tăng nguy cơ bị xuất huyết (12). Tuy nhiên, sử dụng kéo dài (ví dụ, > 3 tháng)clopidogrelcộngaspirinnên tránh được bởi vì nó không có lợi ích hơnaspirinđơn độc trong dự phòng đột quỵ thứ phát lâu dài và dẫn tới biến chứng chảy máu nhiều hơn.Thường tránh sử dụngchống đông máuở giai đoạn cấp tính vì nguy cơ xuất huyết (chuyển sang xuất huyết) cao hơn, đặc biệt là với các nhồi máu lớn. Tuy nhiên, chống đông máu bằng heparin hoặc heparin trọng lượng phân tử thấp được sử dụng cho đột quỵ do huyết khối tĩnh mạch não và đôi khi cho đột quỵ do phình động mạch cổ. Thuốc chống đông cũng có thể được sử dụng ở những bệnh nhân có nguy cơ cao bị thuyên tắc tim tái phát (ví dụ như những người có huyết khối hoặc van cơ học).Điều trị đột quỵ lâu dàiTiếp tụcchăm sóc hỗ trợtrong quá trình hồi phục.Kiểm soát tăng đường máu và sốt có thể hạn chế tổn thương não sau đột quỵ, dẫn đến các kết cục chức năng tốt hơn.Việc sàng lọc chứng khó nuốt trước khi bệnh nhân bắt đầu ăn, uống hoặc dùng thuốc uống có thể giúp xác định những bệnh nhân có nguy cơ hít sặc cao; việc này cần phải do chuyên gia ngôn ngữ trị liệu hoặc chuyên gia chăm sóc sức khỏe được đào tạo khác thực hiện.Dinh dưỡng qua đường tiêu hóa, nếu cần, cần phải được bắt đầu trong vòng 7 ngày sau khi nhập viện sau đột quỵ cấp tính.Nén khí nén ngắt quãng (IPC) đểdự phòng huyết khối tĩnh mạch sâuđược khuyến nghị cho bệnh nhân đột quỵ bất động mà không có chống chỉ định.Heparin trọng lượng phân tử thấp có thể được dùng cho bệnh nhân đột quỵ bất động mà không có chống chỉ định.Các biện pháp phòng ngừaloét áp lựcđược bắt đầu sớm.Vật lý trị liệu giúp tối đa hóa chức năng và ngăn ngừa thiểu cơ và co rút khớpXử trí lâu dài tập trung vào việc ngăn ngừa đột quỵ tái phát (phòng ngừa thứ cấp). Các yếu tố nguy cơ có thể thay đổi được (ví dụ:tăng huyết áp,tiểu đường,hút thuốc,rối loạn sử dụng rượu,rối loạn lipid máu,béo phì) được điều trị. Việc giảm huyết áp tâm thu có thể hiệu quả hơn khi huyết áp mục tiêu < 120 mm Hg thay vì mức thông thường (< 140 mm Hg) (13). Thời gian biểu để giảm huyết áp xuống mức này nên được xác định dựa trên tình trạng sức khỏe của từng bệnh nhân và nguy cơ đột quỵ tái phát hoặc các biến cố tim mạch khác.Trầm cảmthường xảy ra sau đột quỵ và có thể cản trở quá trình phục hồi. Điều trị trầm cảm có thể giúp phục hồi. Bác sĩ lâm sàng nên hỏi bệnh nhân xem họ có cảm thấy buồn hay mất hứng thú hay niềm vui khi thực hiện các hoạt động thú vị trước đây hay không. Các bác sĩ lâm sàng cũng nên hỏi các thành viên trong gia đình xem họ có nhận thấy bất kỳ dấu hiệu trầm cảm nào ở bệnh nhân hay không.Phẫu thuật bóc nội mạc động mạch cảnh ngoài sọ hoặc đặt stentđược chỉ định cho những bệnh nhân bị đột quỵ cấp không quá nặng và không di chứng do tắc động mạch cảnh cùng bên từ 70 tới 99% trên khẩu kính động mạch hoặc do một mảng xơ vữa loét nếu kỳ vọng sống ít nhất là 5 năm. Ở những bệnh nhân có triệu chứng khác (ví dụ: bệnh nhân bị TIA), phẫu thuật cắt bỏ nội mạc động mạch hoặc đặt stent kết hợp với liệu pháp chống tiểu cầu được chỉ định cho tình trạng tắc nghẽn động mạch cảnh≥60% có hoặc không có loét nếu tuổi thọ dự kiến ​​ít nhất là 5 năm. Các thủ thuật này phải do các bác sĩ phẫu thuật và bác sĩ can thiệp có thành tích thành công với thủ thuật (tức là tỷ lệ bệnh tật và tử vong<3%) thực hiện tại bệnh viện nơi thủ thuật được thực hiện. Đối với nhiều bệnh nhân, đặt stent động mạch cảnh với thiết bị bảo vệ khỏi cục nghẽn (một loại màng lọc) được ưu tiên hơn là cắt bỏ nội mạc động mạch, đặc biệt là nếu bệnh nhân ≥ 70 tuổi và có nguy cơ cao phải phẫu thuật. Bóc nội mạc động mạch cảnh và đặt stent có hiệu quả tương đương trong dự phòng đột quỵ. Trong giai đoạn quanh phẫu thuật/thủ thuật đó, nhồi máu cơ tim có nhiều khả năng xảy ra sau phẫu thuật bóc nội mạc, và đột quỵ tái phát nhiều khả năng xảy ra hơn sau đặt stent.Phẫu thuật tạo hình động mạch đốt sống ngoài sọ và/hoặc đặt stentcó thể được sử dụng ở một số bệnh nhân với các triệu chứng tái phát của thiếu máu cục bộ hệ sống nền mặc dù đã điều trị nội khoa tối ưu và tắc động mạch đốt sống từ 50 đến 99%.Nong động mạch lớn nội sọ và/hoặc đặt stentcó thể có hiệu quả ở những bệnh nhân khi điều trị tối ưu bằng thuốc không có hiệu quả. Các yếu tố chính cần xem xét là đặc điểm của bệnh nhân (ví dụ: kiểm soát các yếu tố nguy cơ, tuân thủ chế độ dùng thuốc), thời gian thực hiện thủ thuật (> 3 tuần sau đột quỵ) và kinh nghiệm của bác sĩ can thiệp. Tỷ lệ các biến cố bất lợi quanh giai đoạn thực hiện thủ thuật có thể ở mức thấp chấp nhận được sau khi nong mạch vành qua da và đặt stent khi các yếu tố này được xem xét (14).Việc đóng còn lỗ bầu dục nôi mạchcộng với việc sử dụng liệu pháp chống kế tập tiểu cầu được khuyến nghị cho những bệnh nhân < 60 tuổi bị đột quỵ do tắc mạch không xác định được nguyên nhân mặc dù đã đánh giá rộng rãi (4,15).Thuốc chống kết tập tiểu cầu đường uốngđược sử dụng để ngăn ngừa các cơn đột quỵ không do tim (ví dụ: đột quỵ do huyết khối xơ vữa động mạch, đột quỵ ổ khuyết, đột quỵ không rõ nguyên nhân) tiếp theo (phòng ngừa thứ phát). Có thể sử dụng những lựa chọn sau đây:Aspirin 81 hoặc 325 mg một lần/ngàyClopidogrelTicagrelorMột sản phẩm phối hợp aspirin và dipyridamole giải phóng kéo dàiỞ những bệnh nhân dùng thuốc chống đông đường uống, thuốc chống kết tập tiểu cầu làm tăng nguy cơ chảy máu và do đó thường được tránh dùng; tuy nhiên,aspirinđôi khi được sử dụng đồng thời với warfarin ở một số bệnh nhân có nguy cơ cao. Clopidogrel được chỉ định cho những bệnh nhân dị ứng vớiaspirin. Nếu đột quỵ thiếu máu não cục bộ xảy ra hoặc nếu stent động mạch vành bị tắc trong khi bệnh nhân đang dùng clopidogrel, các bác sỹ lâm sàng nên nghi ngờ có sự giảm chuyển hóa clopidogrel (chuyển clopidogrel sang dạng hoạt động không hiệu quả vì hoạt động cytochrome P-450 2C19 CYP2C19 giảm); một xét nghiệm để xác định tình trạng CYP2C19 (ví dụ, xét nghiệm gen đối với CYP450 đa hình) được khuyến cáo. Nếu xác nhận có sự suy giảm chuyển hóa, aspirin hoặc phối hợp aspirin và ticagrelor là lựa chọn thay thế hợp lý.Clopidogrel kết hợp vớiaspirin, nếu bắt đầu trong thời gian điều trị cấp tính, chỉ được dùng trong thời gian ngắn (ví dụ < 3 tuần) vì nó không có lợi thế hơnaspirinđơn thuần trong phòng ngừa đột quỵ thứ phát lâu dài và dẫn đến nhiều biến chứng chảy máu hơn. Clopidogrel cộng vớiaspirintrước và trong ≥ 30 ngày sau khi chỉ định đặt stent, thường là trong ≤ 6 tháng; nếu bệnh nhân không dung nạp được clopidogrel hoặc kháng clopidogrel do mất alen CYP2C19, có thể thay thế bằng ticagrelor.Thuốc chống đông đường uốngđược chỉ định để phòng ngừa thứ phát các cơn đột quỵ do tắc mạch tim (cũng như phòng ngừa nguyên phát), nhưng chống chỉ định đối với các cơn đột quỵ do huyết khối. Warfarin liều hiệu chỉnh (một chất kháng vitamin K) với mục tiêu INR từ 2 đến 3 được sử dụng cho một số bệnh nhân rung nhĩ do hoặc không do van tim. Mục tiêu INR 2,5 đến 3,5 được sử dụng nếu bệnh nhân có van cơ tim nhân tạo. Các lựa chọn thay thế hiệu quả cho warfarin dành cho bệnh nhân bị rung nhĩ không do van tim bao gồm các thuốc chống đông máu trực tiếp đường uống sau đây:Dabigatran (thuốc ức chế thrombin trực tiếp)Apixaban (thuốc ức chế yếu tố Xa trực tiếp)Rivaroxaban (thuốc ức chế yếu tố Xa trực tiếp)Edoxaban (thuốc ức chế yếu tố Xa trực tiếp)Ưu điểm chính của các thuốc chống đông đường uống trực tiếp này so với warfarin là dễ sử dụng (ví dụ: không cần kiểm tra nồng độ thuốc chống đông bằng xét nghiệm máu sau liều đầu tiên hoặc sử dụng thuốc chống đông theo đường tiêm truyền như heparin không phân đoạn truyền liên tục khi chuyển từ thuốc chống đông theo đường tiêm sang thuốc chống đông theo đường uống). Bất lợi chính của các loại thuốc này là chi phí. Trong trường hợp xảy ra biến chứng xuất huyết, thuốc giải độc cho dabigatran là idarucizumab (14) và thuốc giải độc cho apixaban hoặc rivaroxaban là andexanet alfa. Hiệu quả và độ an toàn của việc phối hợp bất kỳ thuốc chống đông máu mới nào với thuốc chống kết tập tiểu cầu chưa được thiết lập.Statinsđược sử dụng để ngăn ngừa đột quỵ tái phát; nồng độ lipid phải được làm giảm đáng kể (16). Liệu pháp statin (atorvastatin, rosuvastatin, simvastatin, pravastatin) được khuyến nghị cho những bệnh nhân có bằng chứng về đột quỵ do xơ vữa động mạch và cholesterol LDL (lipoprotein tỷ trọng thấp) ≥ 100 mg/dL. Đích cholesterol LDL hợp lý là giảm 50% hoặc < 70 mg/dL.Tài liệu tham khảo về điều trị1.Tsivgoulis G, Zand R, Katsanos AH, et al. Safety of intravenous thrombolysis in stroke mimics: prospective 5-year study and comprehensive meta-analysis.Stroke.46 (5):1281–1287, 2015. doi: 10.1161/STROKEAHA.115.0090122.Menon BK, Singh N, Sylaja, PN. Tenecteplase use in patients with acute ischaemic stroke.Lancet.2023;401(10377):618-619. doi:10.1016/S0140-6736(22)02633-23.Frank B, Grotta JC,.Alexandrov AV, et al. Thrombolysis in stroke despite contraindications or warnings?Stroke.2013;44(3):727-733. doi:10.1161/STROKEAHA.112.6746224.Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: A guideline for healthcare professionals from the American Heart Association/American Stroke Association.Stroke.tháng 12 năm 2019;50(12):e440-e441. doi: 10.1161/STR.0000000000000215.].Stroke. 2019;50(12):e344-e418. doi:10.1161/STR.00000000000002115.Highlights of prescribing information for alteplase. Truy cập ngày 28 tháng 4 năm 2025.6.Jovin TG, Li C, Wu L, et al. Trial of thrombectomy 6 to 24 hours after stroke due to basilar-artery occlusion.N Engl J Med.2022; 387:1373-1384, 2022. doi: 10.1056/NEJMoa22075767.Albers GW, Marks MP, Kemp S, et al. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging.N Engl J Med.2018;378(8):708-718. doi:10.1056/NEJMoa17139738.Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct.N Engl J Med.2018;378(1):11-21. doi:10.1056/NEJMoa17064429.Abecassis IJ, Almallouhi E, Chalhoub R, et al. Outcomes after endovascular mechanical thrombectomy for low compared to high National Institutes of Health Stroke Scale (NIHSS): A multicenter study.Clin Neurol Neurosurg.2023;225:107592. doi:10.1016/j.clineuro.2023.10759210.Masoud HE, de Havenon A, Castonguay AC, et al. 2022 Brief practice update on intravenous thrombolysis before thrombectomy in patients with large vessel occlusion acute ischemic stroke: A statement from Society of Vascular and Interventional Neurology Guidelines and Practice Standards (GAPS) Committee. Stroke.Vasc Interv Neurol.2 (4) 2022. doi: 10.1161/SVIN.121.00027611.CAST: randomised placebo-controlled trial of early aspirin use in 20.000 patients with acute ischaemic stroke. CAST (Chinese Acute Stroke Trial) Collaborative Group.Lancet. 1997;349(9066):1641-1649.12.Hao Q, Tampi M, O'Donnell M, et al. Clopidogrel plus aspirin versus aspirin alone for acute minor ischaemic stroke or high risk transient ischaemic attack: Systematic review and meta-analysis.BMJ.363:k5108, 2018. doi: 10.1136/bmj.k510813.Whelton PK, O'Connell S, Mills KT, He J. Optimal Antihypertensive Systolic Blood Pressure: A Systematic Review and Meta-Analysis.Hypertension.2024;81(11):2329-2339. doi:10.1161/HYPERTENSIONAHA.124.2359714.Alexander MJ, Zauner A, Chaloupka JC, et al. WEAVE Trial: Final results in 152 on-label patients.Stroke.50 (4):889–894, 2019. doi: 10.1161/STROKEAHA.118.02399615.Kavinsky CJ, Szerlip M, Goldsweig AM, et al. SCAI guidelines for the management of patent foramen ovale.Standards and guidelines.1 (4), 100039, 2022. doi: 10.1016/j.jscai.2022.10003916.Lee M, Cheng CY, Wu YL, et al. Association Between Intensity of Low-Density Lipoprotein Cholesterol Reduction With Statin-Based Therapies and Secondary Stroke Prevention: A Meta-analysis of Randomized Clinical Trials.JAMA Neurol. 2022;79(4):349-358. doi:10.1001/jamaneurol.2021.5578
+
+--- 6. Tiên lượng cho đột quỵ do thiếu máu não cục bộ ---
+
+Mức độ nghiêm trọng và tiến triển của đột quỵ thường được đánh giá bằng cách sử dụng các biện pháp tiêu chuẩn như Thang điểm đột quỵ của Viện Y tế Quốc gia (NIH) (xem bảngThang điểm đột quỵ của Viện Y tế Quốc gia); điểm số trên thang điểm này tương quan với mức độ suy giảm chức năng và tiên lượng. Trong những ngày đầu, tiến triển và kết cục có thể khó dự báo trước. Tuổi già, suy giảm ý thức, mất ngôn ngữ, và dấu hiệu thân não gợi ý tiên lượng xấu. Cải thiện sớm và tuổi trẻ gợi ý tiên lượng thuận lợi.Công cụ tính toán lâm sàngThang điểm đột quỵ NIHKhoảng 50% số bệnh nhân bị liệt nửa người mức độ trung bình hoặc nặng và hầu hết bị khiếm khuyết nhẹ hơn đều có cảm giác rõ ràng và cuối cùng có thể tự chăm sóc các nhu cầu cơ bản và đi lại bình thường. Khoảng 10% số trường hợp có thể phục hồi hoàn toàn về mặt thần kinh. Việc sử dụng các chi bị ảnh hưởng thường có giới hạn, và hầu hết các thiếu sót còn lại sau 12 tháng sẽ là vĩnh viễn. Bệnh nhân đã từng bị đột quỵ sẽ có nguy cơ cao bị đột quỵ tái phát và có xu hướng làm nặng thêm chức năng thần kinh. Khoảng 25% số bệnh nhân hồi phục sau cơn đột quỵ đầu tiên sẽ bị đột quỵ lần nữa trong vòng 5 năm.Sau cơn đột quỵ do thiếu máu não cục bộ, khoảng 20% ​​số bệnh nhân tử vong tại bệnh viện; tỷ lệ tử vong tăng theo độ tuổi.
+
+--- 7. Những điểm chính ---
+
+Phân biệt đột quỵ do thiếu máu não cục bộ với giống đột quỵ (ví dụ: liệt sau cơn, đau nửa đầu liệt nửa người, nhiễm trùng hệ thần kinh trung ương, rối loạn thần kinh chức năng).Mặc dù phân biệt trên lâm sàng là không chính xác, nhưng một số gợi ý giúp phân biệt giữa các thể thông thường của đột quỵ bao gồm triệu chứng tiến triển nhanh (thiếu sót đạt mức tối đa trong vòng vài phút khởi phát với huyết khối từ nơi khác gây tắc mạch và đôi khi khởi phát chậm hoặc từng bước với huyết khối tại chỗ), thời điểm khởi phát (ban ngày với huyết khối tắc mạch từ xa và ban đêm với huyết khối tại chỗ), và kiểu thiếu sót thần kinh (ví dụ, các hội chứng đặc thù và không có các dấu hiệu vỏ não trong trường hợp nhồi máu ổ khuyết).Kiểm tra bệnh nhân để tìm nguyên nhân ở tim (bao gồm rung nhĩ) và hẹp động mạch (bằng hình ảnh mạch máu) và làm xét nghiệm máu (ví dụ như huyết khối, thấp khớp và các rối loạn khác) theo chỉ định.Nhìn chung, không giảm tích cực huyết áp sau đột quỵ thiếu máu não cục bộ.Để xác định ứng viên cho tPA, hãy sử dụng một danh sách kiểm tra và, nếu có thể, hội chẩn với một chuyên gia, trực tiếp hoặc hội chẩn từ xa.Để tối ưu hóa việc hồi phục mô não, bắt đầu điều trị bằng thuốc tiêu sợi huyết hoặc phẫu thuật lấy huyết khối cơ học càng sớm càng tốt ("thời gian là não").Để dự phòng đột quỵ thiếu máu não cục bộ về sau, kiểm soát các yếu tố nguy cơ có thể thay đổi được và điều trị, khi có chỉ định, với thuốc chống tiểu cầu, statin, và/hoặc phẫu thuật bóc nội mạc động mạch hoặc đặt stent.

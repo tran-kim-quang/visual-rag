@@ -1,0 +1,901 @@
+TIÊU ĐỀ: Huyết khối tĩnh mạch sâu (DVT)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/các-bệnh-lý-tĩnh-mạch-ngoại-biên/huyết-khối-tĩnh-mạch-sâu-dvt
+================================================================================
+
+NỘI DUNG:
+
+Huyết khối tĩnh mạch sâu (DVT)
+
+Theo
+
+James D. Douketis
+
+,
+
+MD
+
+,
+
+McMaster University
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2023
+
+|
+
+đã sửa đổi
+
+Thg 1 2024
+
+v940913_vi
+
+Huyết khối tĩnh mạch sâu (DVT) là tình trạng máu đông ở tĩnh mạch sâu (thường là bắp chân hoặc đùi) hoặc vùng chậu. DVT là nguyên nhân chính gây thuyên tắc mạch phổi. DVT là hậu quả của tình trạng giảm khả năng trở về tĩnh mạch, dẫn đến tổn thương nội mạc hoặc rối loạn chức năng, hoặc gây tăng đông. DVT có thể không triệu chứng hoặc gây đau và sưng nếu tình trạng nặng; tắc mạch phổi là một biến chứng cấp tính. Chẩn đoán dựa tiền sử và khám lâm sàng, được xác định bằng các test khách quan, điển hình là siêu âm Dopler mạch máu. Xét nghiệm D-Dimer đôi khi được sử dụng khi nghi ngờ DVT; kết quả âm tính giúp loại trừ DVT, trong khi kết quả dương tính không đặc hiệu và cần xét nghiệm bổ sung để xác nhận DVT. Điều trị bằng thuốc chống đông. Nói chung, tiên lượng tốt với điều trị kịp thời, đầy đủ. Các biến chứng lâu dài thường gặp bao gồm suy tĩnh mạch có hoặc không có hội chứng hậu huyết khối.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+DVT xảy ra phổ biến nhất ở chi dưới hoặc vùng chậu (xem hình
+
+Tĩnh mạch sâu ở chân
+
+). DVT ít phổ biến hơn ở các tĩnh mạch sâu ở chi trên (
+
+<
+
+5% trường hợp DVT) (
+
+1
+
+).
+
+Tĩnh mạch sâu ở chân
+
+Huyết khối tĩnh mạch sâu chi dưới có nhiều khả năng gây ra
+
+tắc mạch phổi
+
+(PE), do hậu quả cục máu đông. Khoảng 90% số trường hợp bị DVT đoạn gần liên quan đến tĩnh mạch đùi hoặc tĩnh mạch khoeo và 10% lan rộng về phía gần hơn liên quan đến tĩnh mạch chậu đùi (
+
+2
+
+). DVT của tĩnh mạch đầu xa hoặc tĩnh mạch bắp chân thường làm tổn thương tĩnh mạch chày sau và tĩnh mạch mác. DVT tĩnh mạch đầu xa hoặc tĩnh mạch bắp chân ít có khả năng là nguồn gây tắc mạch lớn nhưng có thể lan đến tĩnh mạch đùi đầu gần và từ đó gây ra PE. Khoảng 50% số bệnh nhân bị DVT có PE tiềm ẩn và ít nhất 30% số bệnh nhân bị PE có DVT rõ ràng (
+
+3
+
+).
+
+Ngọc trai & cạm bẫy
+
+Khoảng 50% bệnh nhân bị DVT có thuyên tắc phổi ẩn giấu.
+
+Tài liệu tham khảo chung
+
+1.
+
+Yamashita Y, Morimoto T, Amano H, et al
+
+. Deep vein thrombosis in upper extremities: Clinical characteristics, management strategies and long-term outcomes from the COMMAND VTE Registry.
+
+Thromb Res
+
+2019;177:1-9. doi:10.1016/j.thromres.2019.02.029
+
+2.
+
+Douketis JD, Kearon C, Bates S, Duku EK, Ginsberg JS
+
+. Risk of fatal pulmonary embolism in patients with treated venous thromboembolism.
+
+JAMA
+
+1998;279(6):458-462. doi:10.1001/jama.279.6.458
+
+3.
+
+Stevens SM, Woller SC, Kreuziger LB, et al
+
+. Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears in Chest. Tháng 7 năm 2022;162(1):269].
+
+Chest
+
+2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.055
+
+Nguyên nhân gây huyết khối tĩnh mạch sâu
+
+Nhiều yếu tố có thể góp phần gây ra DVT (xem bảng
+
+Các yếu tố nguy cơ gây huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi
+
+). Ung thư là một yếu tố nguy cơ đối với DVT, đặc biệt ở bệnh nhân cao tuổi và bệnh nhân tắc huyết khối. Mối liên quan này mạnh nhất đối với các bệnh ung thư phổi, ung thư buồng trứng, ung thư dạ dày, ung thư não hoặc ung thư tụy khi 10% đến 15% số bệnh nhân có thể bị VTE (
+
+1
+
+). Biểu hiện ung thư có thể xuất hiện rõ ràng ở những bệnh nhân có DVT nhưng tìm kiếm ung thư không khuyến cáo trừ khi bệnh nhân có yếu tố nguy cơ cao hoặc biểu hiện gợi ý ung thư.
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Farge D, Frere C, Connors JM, et al
+
+. 2022 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer, including patients with COVID-19.
+
+Lancet Oncol
+
+2022;23(7):e334-e347. doi:10.1016/S1470-2045(22)00160-7
+
+Sinh lý bệnh của huyết khối tĩnh mạch sâu
+
+DVT chi dưới
+
+hầu như là kết quả từ,
+
+Giảm trở lại tĩnh mạch (ví dụ ở bệnh nhân bất động)
+
+Tổn thương nội mạc hoặc rối loạn chức năng (ví dụ sau khi gãy chân)
+
+Tăng đông quá mức
+
+DVT chi trên
+
+thường là kết quả từ
+
+Tổn thương nội mạc tĩnh mạch do catheter tĩnh mạch trung tâm, máy tạo nhịp tim, hoặc sử dụng ma túy tiêm chích
+
+DVT chi trên đôi khi xảy ra như một phần của hội chứng tĩnh mạch chủ trên (SVC) (bị khối u chèn ép hoặc xâm lấn tĩnh mạch chủ trên và gây ra các triệu chứng như sưng mặt, giãn tĩnh mạch cổ và đỏ bừng mặt) hoặc là kết quả của tình trạng tăng đông máu hoặc chèn ép tĩnh mạch dưới đòn ở lối thoát ngực (
+
+1
+
+). Tình trạng chèn ép có thể là do xương sườn thứ nhất bình thường hoặc phần phụ của xương sườn thứ nhất hoặc dải xơ (
+
+hội chứng lối thoát ngực
+
+) hoặc xảy ra khi hoạt động gắng sức của cánh tay (huyết khối do gắng sức hoặc hội chứng Paget-Schroetter, hiếm gặp).
+
+Huyết khối tĩnh mạch sâu thường bắt đầu ở van tĩnh mạch. Huyết khối bao gồm
+
+thrombin
+
+, fibrin và hồng cầu với tương đối ít tiểu cầu (các cục nghẽn đỏ); nếu không điều trị, các cục nghẽn có thể lan đến gần hoặc di chuyển đến phổi.
+
+Các biến chứng
+
+Các biến chứng thường gặp của DVT bao gồm
+
+Suy tĩnh mạch mạn tính
+
+Hội chứng sau huyết khối
+
+Thuyên tắc động mạch phổi
+
+Ít phổ biến hơn nhiều, DVT lớn cấp tính dẫn đến viêm tĩnh mạch trắng đau hoặc vêm tĩnh mạch xanh đau, cả hai đều có thể dẫn đến hoại thư tĩnh mạch trừ khi được chẩn đoán và điều trị kịp thời.
+
+Trong
+
+viêm tắc tĩnh mạch trắng,
+
+một biến chứng hiếm gặp của DVT trong thai kỳ, chân chuyển sang màu trắng sữa. Sinh lý bệnh chưa rõ ràng, nhưng phù nề có thể làm tăng áp lực mô mềm vượt quá áp lực tưới máu mao mạch, dẫn đến thiếu máu cục bộ mô và hoại thư tĩnh mạch. Viêm tĩnh mạch trắng đau có thể tiến triển thành viêm tĩnh mạch xanh đau.
+
+Trong
+
+viêm tắc tĩnh mạch xanh,
+
+u huyết huyết khối tĩnh mạch khổng lồ gây ra tắc mạch tĩnh mạch gần; chân trở nên thiếu máu cục bộ, đau dữ dội và ngứa. Sinh lý bệnh có thể liên quan đến sự ứ đọng hoàn toàn lưu lượng máu tĩnh mạch và động mạch ở phần dưới do dòng tĩnh mạch trở về bị tắc nghẽn hoặc khối lớn làm chèn ép máu động mạch. Hoại tử có thể xảy ra.
+
+Nhiễm trùng
+
+hiếm khi phát triển thành cục máu đông. Nhiễm trùng huyết do liên cầu (hội chứng Lemierre), nhiễm trùng do vi khuẩn (thường là kỵ khí) từ tĩnh mạch cảnh trong và các mô mềm xung quanh, theo viêm amiđan và thường khá phức tạp. Trong nhiễm trùng do huyết khối vùng chậu, các huyết khối phát triển sau sinh và bị nhiễm trùng, gây sốt liên tục. Viêm tĩnh mạch huyết khối mủ (nhiễm trùng), một bệnh nhiễm trùng do vi khuẩn ở tĩnh mạch ngoại biên nông, bao gồm nhiễm trùng và đông máu và thường do đặt ống thông tĩnh mạch gây ra.
+
+Tài liệu tham khảo về sinh lý bệnh
+
+1.
+
+Bosch FTM, Nisio MD, Büller HR, van Es N
+
+. Diagnostic and Therapeutic Management of Upper Extremity Deep Vein Thrombosis.
+
+J Clin Med
+
+2020;9(7):2069. doi:10.3390/jcm9072069
+
+Triệu chứng và dấu hiệu của huyết khối tĩnh mạch sâu
+
+DVT có thể xảy ra ở bệnh nhân ngoại trú hoặc một biến chứng của phẫu thuật hoặc bệnh nặng. Trong số những bệnh nhân nhập viện và có nguy cơ cao, hầu hết huyết khối tĩnh mạch sâu xảy ra ở tĩnh mạch nhỏ ở bắp chân, không có triệu chứng và có thể không được phát hiện.
+
+Khi xuất hiện, triệu chứng và dấu hiệu (ví dụ: đau mơ hồ, đau dọc theo đường đi tĩnh mạch, phù nề, ban đỏ) không đặc hiệu, thay đổi theo mức độ nghiêm trọng, và giống nhau ở chi trên cũng như chi dưới. Các tĩnh mạch nông bị giãn có thể rõ ràng hoặc không. Cảm giác khó chịu của bắp chân tăng khi gấp mặt mu vào cẳng chân (dấu hiệu Homans) đôi khi xảy ra với DVT đoạn xa nhưng không nhạy cũng không đặc hiệu. Ấn đau, sưng toàn bộ chân, chênh lệch chu vi
+
+>
+
+3 cm giữa các bắp chân, phù ấn lõm và các tĩnh mạch nông nhánh bên có thể là đặc hiệu nhất; huyết khối tĩnh mạch sâu có khả năng xảy ra với sự kết hợp của
+
+≥
+
+3 trong trường hợp không có một chẩn đoán có khả năng xảy ra khác (xem bảng
+
+Xác suất huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàng
+
+).
+
+Có thể sốt nhẹ; DVT có thể là nguyên nhân của sốt mà không có một nguồn gốc rõ ràng, đặc biệt là ở những bệnh nhân sau phẫu thuật.
+
+Các triệu chứng của PE
+
+, nếu xảy ra, có thể bao gồm khó thở và đau ngực kiểu màng phổi.
+
+Bảng
+
+Xác suất của huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàng
+
+Bảng
+
+Xác suất của huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàng
+
+Xác suất của huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàng
+
+Các yếu tố
+
+Sự phù căng dọc theo đường đi của tĩnh mạch ở cẳng chân hoặc đùi
+
+Sưng toàn bộ chân
+
+Sưng bắp chân (chênh lệch
+
+>
+
+3 cm chu vi giữa các bắp chân, đo dưới lồi củ xương chày 10 cm)
+
+Sưng phù ở chân bị ảnh hưởng
+
+Giãn tĩnh mạch nông
+
+Ung thư đang hoạt động (điều trị đang diễn ra hoặc được thực hiện trong vòng 6 tháng trước đó)
+
+Bất động chi dưới (ví dụ, do liệt, suy nhược, bó bột, hoặc đi du lịch đường dài gần đây)
+
+Phẫu thuật dẫn đến bất động
+
+>
+
+3 ngày trong 4 tuần qua
+
+Xác suất
+
+Xác suất bằng với số nhân tố, trừ đi 2 nếu một chẩn đoán khác có khả năng xảy ra cao hơn DVT.
+
+Xác suất cao:
+
+≥
+
+3 điểm
+
+Xác suất trung bình: 1–2 điểm
+
+Xác suất thấp:
+
+≤
+
+0 điểm
+
+Dựa trên dữ liệu từ Anand SS, Wells PS, Hunt D, et al: Does this patient have deep vein thrombosis?
+
+Journal of the American Medical Association
+
+279 (14):1094–1099, 1998.
+
+Dựa trên dữ liệu từ Anand SS, Wells PS, Hunt D, et al: Does this patient have deep vein thrombosis?
+
+Journal of the American Medical Association
+
+279 (14):1094–1099, 1998.
+
+Các nguyên nhân thường gặp của sưng chân không đối xứng giống với DVT
+
+là
+
+Chấn thương mô mềm
+
+Viêm mô tế bào
+
+Chèn ép tĩnh mạch vùng chậu
+
+Tắc nghẽn hệ mạch bạch huyết ở khung chậu
+
+U nang khoeo (
+
+u nang Baker)
+
+cản trở sự hồi lưu của tĩnh mạch
+
+Các nguyên nhân ít phổ biến hơn bao gồm các khối u ở vùng bụng hoặc u vùng chậu làm cản trở sự hồi lưu của tĩnh mạch hoặc bạch huyết.
+
+Sưng chân đối xứng hai bên là kết quả thông thường của việc sử dụng các thuốc gây phù phụ thuộc (ví dụ: thuốc chẹn kênh canxi dihydropyridine,
+
+estrogen
+
+, opioid liều cao), tăng huyết áp tĩnh mạch (thường do suy tim phải) và hạ albumin máu; tuy nhiên, chỗ sưng đó có thể không đối xứng nếu suy tĩnh mạch cùng tồn tại và trầm trọng hơn ở một chân.
+
+Nguyên nhân phổ biến của đau bắp chân giống như DVT cấp tính
+
+bao gồm
+
+Suy tĩnh mạch và hội chứng hậu huyết khối
+
+Viêm mô tế bào
+
+gây ban đỏ đau ở bắp chân
+
+Vết vỡ nang ruột (Baker) (giả DVV), gây sưng nề bắp chân, và đôi khi bị bầm tím ở vùng giữa mắt cá trong
+
+Rách một phần hoặc toàn bộ cơ hoặc gân bắp chân
+
+Chẩn đoán huyết khối tĩnh mạch sâu
+
+Siêu âm
+
+Đôi khi đo D-dimer
+
+Bệnh sử và khám thực thể giúp xác định xác suất huyết khối tĩnh mạch sâu trước khi xét nghiệm (xem bảng
+
+Xác suất huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàng
+
+). Chẩn đoán thông thường là siêu âm Doppler mạch (siêu âm duplex). Cần thêm các cận lâm sàng (ví dụ, D-dimer) và sự lựa chọn và trình tự thực hiện phụ thuộc vào xác suất lâm sàng khi đánh giá và đôi khi là kết quả siêu âm. Không có một quy trình thử nghiệm nào là tốt nhất; một phương pháp được mô tả trong hình
+
+Một phương pháp kiểm tra nghi ngờ huyết khối tĩnh mạch sâu
+
+.
+
+Một phương pháp kiểm tra nghi ngờ huyết khối tĩnh mạch sâu
+
+Công cụ tính toán lâm sàng
+
+Xác suất DVT: Hệ thống điểm Wells
+
+Siêu âm
+
+Siêu âm Doppler của một bệnh nhân có cục nghẽn trong tĩnh mạch đùi
+
+Hình ảnh
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Siêu âm xác định huyết khối bằng cách quan sát trực tiếp thành tĩnh mạch và biểu hiện tĩnh mạch bất thường hoặc với dòng chảy Doppler của các tĩnh mạch bất thường. Xét nghiệm này có độ nhạy
+
+>
+
+90% và độ đặc hiệu
+
+>
+
+95% đối với huyết khối tĩnh mạch đùi và huyết khối tĩnh mạch khoeo nhưng kém chính xác hơn đối với huyết khối tĩnh mạch chậu hoặc tĩnh mạch bắp chân (
+
+1
+
+).
+
+D-Dimer
+
+D-Dimer là một sản phẩm phụ của việc làm tan fibrin; mức độ cao gợi ý hiện diện gần đây và sự tan rã huyết khối. Xét nghiệm D-Dimer khác nhau về độ nhạy và độ đặc hiệu; tuy nhiên, hầu hết là khá nhạy và không đặc hiệu. Kết quả xét nghiệm dương tính là không đặc hiệu vì mức độ có thể tăng cao do các tình trạng khác (ví dụ: bệnh gan, chấn thương, mang thai, yếu tố dạng thấp dương tính, viêm, phẫu thuật gần đây, ung thư) và cần phải xét nghiệm thêm. Chỉ nên sử dụng các xét nghiệm chính xác nhất. Ví dụ, xét nghiệm có độ nhạy cao là xét nghiệm hấp thụ miễn dịch liên kết với enzym (ELISA), có độ nhạy khoảng 95% (
+
+2
+
+). Nồng độ D-dimer cũng tăng theo tuổi, điều này càng làm giảm độ đặc hiệu ở bệnh nhân cao tuổi (
+
+3
+
+).
+
+Chiến lược D-dimer theo mức độ thuyên tắc mạch phổi (PEGeD) là một phương pháp chẩn đoán tắc mạch phổi giúp điều chỉnh nồng độ D-dimer theo xác suất lâm sàng trước khi xét nghiệm của bệnh nhân (
+
+4
+
+):
+
+Nếu xác suất DVT trước xét nghiệm thấp,
+
+DVT thường có thể được loại trừ ở những bệnh nhân có mức D-dimer
+
+<
+
+1000 ng/mL (
+
+<
+
+5476 nmol/L) trong xét nghiệm nhạy cảm.
+
+Nếu xác suất DVT trước xét nghiệm là vừa phải
+
+, DVT có thể được loại trừ ở những bệnh nhân có nồng độ D-dimer bình thường (tức là < 500 ng/mL) trong xét nghiệm nhạy cảm. Bệnh nhân có kết quả xét nghiệm dương tính cần xét nghiệm bổ sung để loại trừ DVT.
+
+Nếu xác suất DVT trước xét nghiệm cao
+
+, xét nghiệm D-dimer có thể được thực hiện cùng lúc với siêu âm duplex. Một kết quả siêu âm dương tính chẩn đoán xác định bất kể mức độ D-dimer. Nếu siêu âm không có gợi ý về DVT, D-dimer bình thường mức giúp loại trừ DVT. Bệnh nhân tăng D-dimer nên có siêu âm lặp lại trong vài ngày hoặc các chẩn đoán hình ảnh bổ sung, chẳng hạn như chụp tĩnh mạch, tùy thuộc vào nghi ngờ lâm sàng.
+
+Kiểm tra bổ sung
+
+Nếu các triệu chứng và dấu hiệu gợi ý PE, cần làm thêm các chẩn đoán hình ảnh (ví dụ: thở máy/thông khí [V/Q] hoặc chụp CT mạch phổi).
+
+Chẩn đoán hình ảnh thay thế
+
+Chụp cắt lớp tĩnh mạch có tăng cường thuốc cản quang và chụp tĩnh mạch cộng hưởng từ là những phương thức chẩn đoán hình ảnh khác hiếm khi được sử dụng trong chẩn đoán DVT. Các phương thức này thường được dành riêng cho những trường hợp kết quả siêu âm âm tính hoặc không xác định được và nghi ngờ lâm sàng về DVT vẫn còn cao. Các kiểm tra chẩn đoán hình ảnh này ít được xác nhận tốt hơn đối với DVT, tốn kém hơn và có thể liên quan đến các biến chứng khác (ví dụ: liên quan đến phơi nhiễm với phóng xạ và thuốc cản quang).
+
+Chụp tĩnh mạch có thuốc cản quang là kiểm tra xác định để chẩn đoán DVT trước đây nhưng phần lớn đã được thay thế bằng siêu âm, phương pháp này không xâm lấn, sẵn có hơn và gần như chính xác như nhau để phát hiện DVT.
+
+Xác định nguyên nhân
+
+Bệnh nhân đã chẩn đoán DVT và có nguyên nhân rõ ràng (như bất động, phẫu thuật, chấn thương chân) không cần phải kiểm tra thêm nữa.
+
+Xét nghiệm để phát hiện khả năng tăng đông máu
+
+còn gây tranh cãi nhưng đôi khi được thực hiện ở những bệnh nhân chọn lọc mắc DVT vô căn (hoặc không có yếu tố kích thích) hoặc DVT tái phát, ở những bệnh nhân có tiền sử cá nhân hoặc gia đình mắc các huyết khối khác và ở những bệnh nhân trẻ không có yếu tố nguy cơ rõ ràng. Một số bằng chứng gợi ý rằng xét nghiệm phát hiện tình trạng tăng đông máu ở bệnh nhân có hoặc không có yếu tố nguy cơ lâm sàng không dự đoán được tái phát DVT (
+
+5, 6, 7
+
+).
+
+Việc sàng lọc bệnh nhân bị DVT do ung thư có hiệu quả thấp. Xét nghiệm chọn lọc được hướng dẫn bởi bệnh sử và khám thực thể đầy đủ cũng như các xét nghiệm "thường lệ" cơ bản (công thức máu, chụp X-quang ngực, phân tích nước tiểu, men gan và điện giải trong huyết thanh, nitơ
+
+urê
+
+máu [BUN], creatinine) nhằm phát hiện ung thư có lẽ là đủ. Ngoài ra, bệnh nhân nên được thực hiện bất kỳ sàng lọc ung thư thích hợp nào (ví dụ: chụp X-quang tuyến vú, nội soi đại tràng) khi đến hạn.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Lensing AW, Prandoni P, Brandjes D, et al
+
+. Detection of deep-vein thrombosis by real-time B-mode ultrasonography.
+
+N Engl J Med
+
+1989;320(6):342-345. doi:10.1056/NEJM198902093200602
+
+2.
+
+Di Nisio M, Squizzato A, Rutjes AW, Büller HR, Zwinderman AH, Bossuyt PM
+
+. Diagnostic accuracy of D-dimer test for exclusion of venous thromboembolism: a systematic review [published correction appears in
+
+J Thromb Haemost
+
+tháng 10 năm 2013;11(10):1942].
+
+J Thromb Haemost
+
+2007;5(2):296-304. doi:10.1111/j.1538-7836.2007.02328.x
+
+3.
+
+Righini M, Van Es J, Den Exter PL, et al
+
+. Age-adjusted D-dimer cutoff levels to rule out pulmonary embolism: the ADJUST-PE study [published correction appears in JAMA. Ngày 23-30 tháng 4 năm 2014;311(16):1694].
+
+JAMA
+
+2014;311(11):1117-1124. doi:10.1001/jama.2014.2135
+
+4.
+
+Kearon C, de Wit K, Parpia S, et al
+
+. Diagnosis of Pulmonary Embolism with d-Dimer Adjusted to Clinical Probability.
+
+N Engl J Med
+
+2019;381(22):2125-2134. doi:10.1056/NEJMoa1909159
+
+5.
+
+Coppens M, Reijnders JH, Middeldorp S, Doggen CJ, Rosendaal FR
+
+. Testing for inherited thrombophilia does not reduce the recurrence of venous thrombosis.
+
+J Thromb Haemost
+
+2008;6(9):1474-1477. doi:10.1111/j.1538-7836.2008.03055.x
+
+6.
+
+Lijfering WM, Middeldorp S, Veeger NJ, et al
+
+. Risk of recurrent venous thrombosis in homozygous carriers and double heterozygous carriers of factor V Leiden and prothrombin G20210A.
+
+Circulation
+
+2010;121(15):1706-1712. doi:10.1161/CIRCULATIONAHA.109.906347
+
+7.
+
+Segal JB, Brotman DJ, Necochea AJ, et al
+
+. Predictive value of factor V Leiden and prothrombin G20210A in adults with venous thromboembolism and in family members of those with a mutation: a systematic review.
+
+JAMA
+
+2009;301(23):2472-2485. doi:10.1001/jama.2009.853
+
+Điều trị huyết khối tĩnh mạch sâu
+
+Chống đông
+
+Đôi khi lọc tĩnh mạch chủ dưới, điều trị bằng thuốc tiêu huyết khối hoặc phẫu thuật
+
+Điều trị chủ yếu nhằm mục đích
+
+phòng ngừa thuyên tắc mạch phổi
+
+và thứ hai là giảm triệu chứng và ngăn ngừa tái phát DVT,
+
+suy tĩnh mạch mạn tính
+
+và hội chứng hậu huyết khối. Việc điều trị DVT chi trên và chi dưới nói chung là giống nhau.
+
+Các biện pháp hỗ trợ chung bao gồm kiểm soát đau với thuốc giảm đau, bao gồm các liều ngắn hạn (từ 3 đến 5 ngày) của NSAID. Nên tránh điều trị kéo dài bằng NSAID và
+
+aspirin
+
+vì tác dụng chống kết tập tiểu cầu của thuốc có thể làm tăng nguy cơ biến chứng chảy máu. Ngoài ra, độ cao của chân (được hỗ trợ bởi gối hoặc bề mặt mềm khác để tránh ứ trệ tĩnh mạch) được khuyến cáo trong thời gian không hoạt động. Bệnh nhân có thể hoạt động thể chất ở mức độ mà họ có thể chịu đựng được; không có bằng chứng nào cho thấy hoạt động sớm làm tăng nguy cơ bong ra cục máu đông và PE và có thể giúp giảm nguy cơ bị hội chứng hậu huyết khối.
+
+Thuốc chống đông máu
+
+(Để biết chi tiết về các loại thuốc và biến chứng của thuốc, xem
+
+Thuốc điều trị huyết khối tĩnh mạch sâu
+
+)
+
+Hầu hết tất cả bệnh nhân DVT đều được điều trị bằng thuốc chống đông (
+
+1
+
+,
+
+2
+
+). Nhiều loại thuốc chống đông máu khác nhau phù hợp cho liệu pháp điều trị ban đầu và việc lựa chọn thuốc bị ảnh hưởng bởi bệnh lý đi kèm của bệnh nhân (ví dụ: rối loạn chức năng thận, ung thư), sở thích, chi phí và sự thuận tiện.
+
+Một số bệnh nhân ban đầu được tiêm heparin (thường có trọng lượng phân tử thấp) trong 5 ngày đến 7 ngày, sau đó điều trị lâu dài hơn bằng thuốc uống. Warfarin, nếu được sử dụng, sẽ được bắt đầu trong vòng 24 giờ sau khi bắt đầu tiêm
+
+heparin
+
+. Mặc dù
+
+heparin
+
+tác dụng nhanh chóng và mang lại tác dụng chống đông máu ngay lập tức, nhưng
+
+warfarin
+
+phải mất khoảng 5 ngày mới đạt được hiệu quả điều trị; do đó, cần dùng
+
+heparin
+
+trong 5 ngày đến 7 ngày. Đối với những bệnh nhân bắt đầu sử dụng edoxaban (thuốc ức chế
+
+yếu tố Xa
+
+đường uống) hoặc dabigatran (thuốc ức chế
+
+thrombin
+
+trực tiếp đường uống), thuốc uống sẽ được bắt đầu sau 5 ngày tiêm
+
+heparin
+
+.
+
+Ngoài ra, thuốc chống đông máu có thể được bắt đầu ngay lập tức bằng thuốc chống đông máu đường uống trực tiếp được chọn lọc (rivaroxaban hoặc apixaban) mà không cần tiêm
+
+heparin
+
+trước. Việc bắt đầu sử dụng
+
+rivaroxaban
+
+hoặc
+
+apixaban
+
+không có
+
+heparin
+
+là hợp lý dựa trên kết quả của các thử nghiệm lâm sàng. Fondaparinux, một thuốc ức chế
+
+yếu tố Xa
+
+ngoài đường tiêu hóa, đôi khi được thay thế cho
+
+heparin
+
+trọng lượng phân tử thấp và cũng có thể được sử dụng để điều trị DVT cấp tính.
+
+Đối với những bệnh nhân được chọn (ví dụ: bị DVT vùng chậu lan rộng hoặc ung thư), việc tiếp tục điều trị bằng
+
+heparin
+
+trọng lượng phân tử thấp thay vì chuyển sang thuốc uống có thể được ưu tiên hơn.
+
+Thuốc chống đông không đủ trong 24 tiếng đến 48 tiếng đầu tiên có thể làm tăng nguy cơ tái phát hoặc PE. DVT cấp tính có thể được điều trị ngoại trú trừ khi các triệu chứng nghiêm trọng đòi hỏi thuốc giảm đau qua đường tiêm, các rối loạn khác không cho phép xuất viện an toàn, hoặc các yếu tố khác (ví dụ chức năng, kinh tế xã hội) có thể ngăn không cho bệnh nhân tuân thủ các biện pháp điều trị.
+
+Lưới lọc tĩnh mạch chủ dưới (IVCF)
+
+Bộ lọc IVC có thể giúp ngăn ngừa PE ở những bệnh nhân bị DVT chi dưới có chống chỉ định với liệu pháp thuốc chống đông máu hoặc ở những bệnh nhân bị DVT tái phát (hoặc các cục nghẽn) mặc dù đã được chống đông đầy đủ. Một tấm lưới được đặt trong tĩnh mạch chủ bên dưới tĩnh mạch thận thông qua catheter của tĩnh mạch cảnh hoặc tĩnh mạch đùi. Một số IVC filter có thể tháo rời và có thể được sử dụng tạm thời (ví dụ, cho đến khi có chống chỉ định cho thuốc giảm đau hoặc giải quyết).
+
+Bộ lọc IVC làm giảm nguy cơ bị các biến chứng tắc mạch cấp tính nhưng có thể có các biến chứng lâu dài hơn (ví dụ: tuần hoàn bàng hệ tĩnh mạch có thể phát sinh, tạo đường cho các cục nghẽn phá vỡ bộ lọc). Ngoài ra còn có nguy cơ gia tăng DVT tái phát). Ngoài ra, màng lọc IVC có thể bị tắc nghẽn bởi cục máu đông. Vì vậy, bệnh nhân có các yếu tố nguy cơ DVT tái phát hoặc các yếu tố nguy cơ không thay đổi đối với DVT có thể vẫn cần phải chống đông mặc dù có sự hiện diện của một IVC Fiter.
+
+Một lưới lọc có thể gây tắc nghẽn tĩnh mạch ở phần xa hai chi dưới (bao gồm viêm tắc tĩnh mạch cấp tính), thiếu máu cục bộ phần thấp cơ thể và
+
+tổn thương thận cấp tính
+
+. Điều trị cho một bộ lọc bị rò là loại bỏ, sử dụng can thiệp nội mạch hoặc, nếu cần thiết, là phẫu thuật. Mặc dù bộ lọc IVC được sử dụng rộng rãi nhưng hiệu quả trong việc ngăn ngừa PE vẫn chưa được nghiên cứu kỹ lưỡng và chưa được chứng minh (
+
+3
+
+). IVC nên được loại bỏ bất cứ khi nào có thể.
+
+Liệu pháp tiêu huyết khối (tiêu sợi huyết)
+
+Thuốc tiêu huyết khối, bao gồm alteplase, tenecteplase và streptokinase, làm tan cục máu đông và có thể hiệu quả hơn thuốc chống đông máu đơn thuần ở một số bệnh nhân được chọn, nhưng nguy cơ chảy máu cao hơn so với heparin. Do đó, thuốc tiêu sợi huyết chỉ nên được xem xét ở những bệnh nhân có DVT. Những bệnh nhân có thể được hưởng lợi từ thuốc tiêu huyết khối bao gồm những người
+
+<
+
+60 tuổi bị DVT vùng chậu lan rộng, đang tiến triển hoặc đang bị thiếu máu cục bộ chi (ví dụ: phù nề dolens) và không có các yếu tố nguy cơ chảy máu (
+
+4
+
+).
+
+Tiêu huyết khối qua ống thông đã thay thế phần lớn việc điều trị toàn thân khi sử dụng trong điều trị DVT.
+
+Phẫu thuật
+
+Phẫu thuật ít khi cần thiết. Tuy nhiên, lấy huyết khối, phẫu thuật vùng chậu, hoặc cả hai đều bắt buộc đối với viêm tắc tĩnh mạch trắng và xanh không có đáp ứng với thuốc tiêu sợi huyết để ngăn ngừa tình trạng hoại tử có tổn thương chi.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Ortel TL, Neumann I, Ageno W, et al
+
+: American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.
+
+Blood Adv
+
+4(19):4693-4738, 2020 doi: 10.1182/bloodadvances.2020001830
+
+2.
+
+Stevens SM, Woller SC, Kreuziger LB, et al
+
+: Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears in
+
+Chest
+
+2022 Jul;162(1):269].
+
+Chest
+
+160(6):e545-e608, 2021 doi:10.1016/j.chest.2021.07.055
+
+3.
+
+Turner TE, Saeed MJ, Novak E, Brown DL
+
+: Association of Inferior Vena Cava Filter Placement for Venous Thromboembolic Disease and a Contraindication to Anticoagulation With 30-Day Mortality.
+
+JAMA Netw Open
+
+1(3):e180452, 2018. Xuất bản ngày 6 tháng 7 năm 2018. doi:10.1001/jamanetworkopen.2018.0452
+
+4.
+
+Kearon C, Akl EA, Comerota AJ, et al
+
+. Antithrombotic therapy for VTE disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears in
+
+Chest
+
+tháng 12 năm 2012;142(6):1698-1704].
+
+Chest
+
+2012;141(2 Suppl):e419S-e496S. doi:10.1378/chest.11-2301
+
+Tiên lượng huyết khối tĩnh mạch sâu
+
+Nếu không được điều trị thích hợp, DVT chi dưới có 3% nguy cơ PE gây tử vong (
+
+1, 2
+
+); tử vong do DVT chi trên là rất hiếm. Nguy cơ tái phát DVT là thấp nhất đối với bệnh nhân có các yếu tố nguy cơ tạm thời (ví dụ phẫu thuật, chấn thương, tạm thời bất động) và lớn nhất đối với bệnh nhân có các yếu tố nguy cơ liên tục (như ung thư), DVT vô căn, hoặc độ ly giải không hoàn toàn của DVT trong quá khứ. Nồng độ D-dimer bình thường đạt được sau khi ngừng thuốc chống đông trong 3 tuần đến 4 tuần có thể giúp dự đoán nguy cơ tái phát DVT hoặc PE tương đối thấp, ở nữ giới nhiều hơn ở nam giới. Nguy cơ suy tĩnh mạch mạn tính rất khó tiên đoán. Các yếu tố nguy cơ bị hội chứng hậu huyết khối bao gồm huyết khối đầu gần, DVT tái phát cùng bên và chỉ số khối cơ thể (BMI)
+
+≥
+
+22 kg/m
+
+2
+
+.
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+Yamashita Y, Murata K, Morimoto T, et al
+
+. Clinical outcomes of patients with pulmonary embolism versus deep vein thrombosis: From the COMMAND VTE Registry.
+
+Thromb Res
+
+2019;184:50-57. doi:10.1016/j.thromres.2019.10.029
+
+2.
+
+Douketis JD, Kearon C, Bates S, Duku EK, Ginsberg JS
+
+. Risk of fatal pulmonary embolism in patients with treated venous thromboembolism.
+
+JAMA
+
+1998;279(6):458-462. doi:10.1001/jama.279.6.458
+
+Phòng ngừa huyết khối tĩnh mạch sâu
+
+Phòng ngừa DVT sẽ tốt hơn và an toàn hơn là điều trị, đặc biệt là ở những bệnh nhân có nguy cơ cao. Các phương thức sau được sử dụng (có thảo luận đầy đủ hơn, xem
+
+Phòng ngừa DVT
+
+).
+
+Phòng ngừa khi bất động
+
+Thuốc chống đông máu dự phòng (ví dụ: heparin trọng lượng phân tử thấp, fondaparinux, warfarin liều điều chỉnh, thuốc chống đông máu uống trực tiếp)
+
+Nén khí nén không liên tục
+
+Những bệnh nhân không nên dùng thuốc chống đông máu có thể được hưởng lợi từ các thiết bị nén khí nén không liên tục, tất thun giãn hoặc cả hai.
+
+Bộ lọc tĩnh mạch chủ dưới (IVC)
+
+không ngăn ngừa được DVT nhưng đôi khi được đặt để ngăn ngừa PE. Bộ lọc IVC có thể giúp ngăn ngừa PE ở những bệnh nhân bị DVT chi dưới có chống chỉ định với liệu pháp chống đông máu hoặc ở những bệnh nhân bị DVT tái phát (hoặc các cục nghẽn) mặc dù đã được chống đông đầy đủ. Bộ lọc IVC đôi khi cũng được sử dụng để phòng ngừa PE tiên phát sau một số loại phẫu thuật hoặc ở những bệnh nhân bị đa chấn thương nặng; tuy nhiên, không khuyến nghị sử dụng bộ lọc thường xuyên cho những chỉ định này do thiếu bằng chứng về hiệu quả (
+
+1
+
+).
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Ho KM, Rao S, Honeybul S, et al
+
+. A Multicenter Trial of Vena Cava Filters in Severely Injured Patients.
+
+N Engl J Med
+
+2019;381(4):328-337. doi:10.1056/NEJMoa1806515
+
+Những điểm chính
+
+Các triệu chứng và dấu hiệu không đặc hiệu, vì vậy các bác sĩ lâm sàng phải cảnh giác, đặc biệt ở những bệnh nhân có nguy cơ cao.
+
+Những bệnh nhân có nguy cơ thấp có thể dùng xét nghiệm D-dimer, một kết quả bình thường cho phép loại trừ tính mạch sâu; những trường hợp khác nên có siêu âm.
+
+Điều trị ban đầu bằng heparin tiêm (
+
+heparin
+
+trọng lượng phân tử thấp hoặc không phân đoạn [LMWH]), sau đó là thuốc chống đông đường uống (warfarin, dabigatran, hoặc thuốc ức chế
+
+yếu tố Xa
+
+) hoặc LMWH; ngoài ra, thuốc ức chế
+
+yếu tố Xa
+
+đường uống rivaroxaban và apixaban có thể được sử dụng để điều trị ban đầu và điều trị liên tục.
+
+Thời gian điều trị thường là 3 hoặc 6 tháng tùy thuộc vào sự hiện diện và tính chất của các yếu tố nguy cơ; một số bệnh nhân nhất định cần được điều trị suốt đời.
+
+Việc điều trị dự phòng là cần thiết đối với bệnh nhân nằm lâu có bệnh nặng và/hoặc những người trải qua các thủ thuật phẫu thuật nhất định.
+
+Việc hoạt động sớm, nâng chân và thuốc chống đông là những biện pháp phòng ngừa được khuyến cáo; những bệnh nhân không nên dùng thuốc chống đông có thể được hưởng lợi từ các thiết bị nén khí nén không liên tục, tất áp lực, hoặc cả hai.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Nguyên nhân gây huyết khối tĩnh mạch sâu ---
+
+Nhiều yếu tố có thể góp phần gây ra DVT (xem bảngCác yếu tố nguy cơ gây huyết khối tĩnh mạch sâu và thuyên tắc động mạch phổi). Ung thư là một yếu tố nguy cơ đối với DVT, đặc biệt ở bệnh nhân cao tuổi và bệnh nhân tắc huyết khối. Mối liên quan này mạnh nhất đối với các bệnh ung thư phổi, ung thư buồng trứng, ung thư dạ dày, ung thư não hoặc ung thư tụy khi 10% đến 15% số bệnh nhân có thể bị VTE (1). Biểu hiện ung thư có thể xuất hiện rõ ràng ở những bệnh nhân có DVT nhưng tìm kiếm ung thư không khuyến cáo trừ khi bệnh nhân có yếu tố nguy cơ cao hoặc biểu hiện gợi ý ung thư.Tài liệu tham khảo nguyên nhân gây bệnh1.Farge D, Frere C, Connors JM, et al. 2022 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer, including patients with COVID-19.Lancet Oncol2022;23(7):e334-e347. doi:10.1016/S1470-2045(22)00160-7
+
+--- 2. Sinh lý bệnh của huyết khối tĩnh mạch sâu ---
+
+DVT chi dướihầu như là kết quả từ,Giảm trở lại tĩnh mạch (ví dụ ở bệnh nhân bất động)Tổn thương nội mạc hoặc rối loạn chức năng (ví dụ sau khi gãy chân)Tăng đông quá mứcDVT chi trênthường là kết quả từTổn thương nội mạc tĩnh mạch do catheter tĩnh mạch trung tâm, máy tạo nhịp tim, hoặc sử dụng ma túy tiêm chíchDVT chi trên đôi khi xảy ra như một phần của hội chứng tĩnh mạch chủ trên (SVC) (bị khối u chèn ép hoặc xâm lấn tĩnh mạch chủ trên và gây ra các triệu chứng như sưng mặt, giãn tĩnh mạch cổ và đỏ bừng mặt) hoặc là kết quả của tình trạng tăng đông máu hoặc chèn ép tĩnh mạch dưới đòn ở lối thoát ngực (1). Tình trạng chèn ép có thể là do xương sườn thứ nhất bình thường hoặc phần phụ của xương sườn thứ nhất hoặc dải xơ (hội chứng lối thoát ngực) hoặc xảy ra khi hoạt động gắng sức của cánh tay (huyết khối do gắng sức hoặc hội chứng Paget-Schroetter, hiếm gặp).Huyết khối tĩnh mạch sâu thường bắt đầu ở van tĩnh mạch. Huyết khối bao gồmthrombin, fibrin và hồng cầu với tương đối ít tiểu cầu (các cục nghẽn đỏ); nếu không điều trị, các cục nghẽn có thể lan đến gần hoặc di chuyển đến phổi.Các biến chứngCác biến chứng thường gặp của DVT bao gồmSuy tĩnh mạch mạn tínhHội chứng sau huyết khốiThuyên tắc động mạch phổiÍt phổ biến hơn nhiều, DVT lớn cấp tính dẫn đến viêm tĩnh mạch trắng đau hoặc vêm tĩnh mạch xanh đau, cả hai đều có thể dẫn đến hoại thư tĩnh mạch trừ khi được chẩn đoán và điều trị kịp thời.Trongviêm tắc tĩnh mạch trắng,một biến chứng hiếm gặp của DVT trong thai kỳ, chân chuyển sang màu trắng sữa. Sinh lý bệnh chưa rõ ràng, nhưng phù nề có thể làm tăng áp lực mô mềm vượt quá áp lực tưới máu mao mạch, dẫn đến thiếu máu cục bộ mô và hoại thư tĩnh mạch. Viêm tĩnh mạch trắng đau có thể tiến triển thành viêm tĩnh mạch xanh đau.Trongviêm tắc tĩnh mạch xanh,u huyết huyết khối tĩnh mạch khổng lồ gây ra tắc mạch tĩnh mạch gần; chân trở nên thiếu máu cục bộ, đau dữ dội và ngứa. Sinh lý bệnh có thể liên quan đến sự ứ đọng hoàn toàn lưu lượng máu tĩnh mạch và động mạch ở phần dưới do dòng tĩnh mạch trở về bị tắc nghẽn hoặc khối lớn làm chèn ép máu động mạch. Hoại tử có thể xảy ra.Nhiễm trùnghiếm khi phát triển thành cục máu đông. Nhiễm trùng huyết do liên cầu (hội chứng Lemierre), nhiễm trùng do vi khuẩn (thường là kỵ khí) từ tĩnh mạch cảnh trong và các mô mềm xung quanh, theo viêm amiđan và thường khá phức tạp. Trong nhiễm trùng do huyết khối vùng chậu, các huyết khối phát triển sau sinh và bị nhiễm trùng, gây sốt liên tục. Viêm tĩnh mạch huyết khối mủ (nhiễm trùng), một bệnh nhiễm trùng do vi khuẩn ở tĩnh mạch ngoại biên nông, bao gồm nhiễm trùng và đông máu và thường do đặt ống thông tĩnh mạch gây ra.Tài liệu tham khảo về sinh lý bệnh1.Bosch FTM, Nisio MD, Büller HR, van Es N. Diagnostic and Therapeutic Management of Upper Extremity Deep Vein Thrombosis.J Clin Med2020;9(7):2069. doi:10.3390/jcm9072069
+
+--- 3. Triệu chứng và dấu hiệu của huyết khối tĩnh mạch sâu ---
+
+DVT có thể xảy ra ở bệnh nhân ngoại trú hoặc một biến chứng của phẫu thuật hoặc bệnh nặng. Trong số những bệnh nhân nhập viện và có nguy cơ cao, hầu hết huyết khối tĩnh mạch sâu xảy ra ở tĩnh mạch nhỏ ở bắp chân, không có triệu chứng và có thể không được phát hiện.Khi xuất hiện, triệu chứng và dấu hiệu (ví dụ: đau mơ hồ, đau dọc theo đường đi tĩnh mạch, phù nề, ban đỏ) không đặc hiệu, thay đổi theo mức độ nghiêm trọng, và giống nhau ở chi trên cũng như chi dưới. Các tĩnh mạch nông bị giãn có thể rõ ràng hoặc không. Cảm giác khó chịu của bắp chân tăng khi gấp mặt mu vào cẳng chân (dấu hiệu Homans) đôi khi xảy ra với DVT đoạn xa nhưng không nhạy cũng không đặc hiệu. Ấn đau, sưng toàn bộ chân, chênh lệch chu vi>3 cm giữa các bắp chân, phù ấn lõm và các tĩnh mạch nông nhánh bên có thể là đặc hiệu nhất; huyết khối tĩnh mạch sâu có khả năng xảy ra với sự kết hợp của≥3 trong trường hợp không có một chẩn đoán có khả năng xảy ra khác (xem bảngXác suất huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàng).Có thể sốt nhẹ; DVT có thể là nguyên nhân của sốt mà không có một nguồn gốc rõ ràng, đặc biệt là ở những bệnh nhân sau phẫu thuật.Các triệu chứng của PE, nếu xảy ra, có thể bao gồm khó thở và đau ngực kiểu màng phổi.BảngXác suất của huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàngBảngXác suất của huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàngXác suất của huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàngCác yếu tốSự phù căng dọc theo đường đi của tĩnh mạch ở cẳng chân hoặc đùiSưng toàn bộ chânSưng bắp chân (chênh lệch>3 cm chu vi giữa các bắp chân, đo dưới lồi củ xương chày 10 cm)Sưng phù ở chân bị ảnh hưởngGiãn tĩnh mạch nôngUng thư đang hoạt động (điều trị đang diễn ra hoặc được thực hiện trong vòng 6 tháng trước đó)Bất động chi dưới (ví dụ, do liệt, suy nhược, bó bột, hoặc đi du lịch đường dài gần đây)Phẫu thuật dẫn đến bất động>3 ngày trong 4 tuần quaXác suấtXác suất bằng với số nhân tố, trừ đi 2 nếu một chẩn đoán khác có khả năng xảy ra cao hơn DVT.Xác suất cao:≥3 điểmXác suất trung bình: 1–2 điểmXác suất thấp:≤0 điểmDựa trên dữ liệu từ Anand SS, Wells PS, Hunt D, et al: Does this patient have deep vein thrombosis?Journal of the American Medical Association279 (14):1094–1099, 1998.Dựa trên dữ liệu từ Anand SS, Wells PS, Hunt D, et al: Does this patient have deep vein thrombosis?Journal of the American Medical Association279 (14):1094–1099, 1998.Các nguyên nhân thường gặp của sưng chân không đối xứng giống với DVTlàChấn thương mô mềmViêm mô tế bàoChèn ép tĩnh mạch vùng chậuTắc nghẽn hệ mạch bạch huyết ở khung chậuU nang khoeo (u nang Baker)cản trở sự hồi lưu của tĩnh mạchCác nguyên nhân ít phổ biến hơn bao gồm các khối u ở vùng bụng hoặc u vùng chậu làm cản trở sự hồi lưu của tĩnh mạch hoặc bạch huyết.Sưng chân đối xứng hai bên là kết quả thông thường của việc sử dụng các thuốc gây phù phụ thuộc (ví dụ: thuốc chẹn kênh canxi dihydropyridine,estrogen, opioid liều cao), tăng huyết áp tĩnh mạch (thường do suy tim phải) và hạ albumin máu; tuy nhiên, chỗ sưng đó có thể không đối xứng nếu suy tĩnh mạch cùng tồn tại và trầm trọng hơn ở một chân.Nguyên nhân phổ biến của đau bắp chân giống như DVT cấp tínhbao gồmSuy tĩnh mạch và hội chứng hậu huyết khốiViêm mô tế bàogây ban đỏ đau ở bắp chânVết vỡ nang ruột (Baker) (giả DVV), gây sưng nề bắp chân, và đôi khi bị bầm tím ở vùng giữa mắt cá trongRách một phần hoặc toàn bộ cơ hoặc gân bắp chân
+
+--- 4. Chẩn đoán huyết khối tĩnh mạch sâu ---
+
+Siêu âmĐôi khi đo D-dimerBệnh sử và khám thực thể giúp xác định xác suất huyết khối tĩnh mạch sâu trước khi xét nghiệm (xem bảngXác suất huyết khối tĩnh mạch sâu dựa trên các yếu tố lâm sàng). Chẩn đoán thông thường là siêu âm Doppler mạch (siêu âm duplex). Cần thêm các cận lâm sàng (ví dụ, D-dimer) và sự lựa chọn và trình tự thực hiện phụ thuộc vào xác suất lâm sàng khi đánh giá và đôi khi là kết quả siêu âm. Không có một quy trình thử nghiệm nào là tốt nhất; một phương pháp được mô tả trong hìnhMột phương pháp kiểm tra nghi ngờ huyết khối tĩnh mạch sâu.Một phương pháp kiểm tra nghi ngờ huyết khối tĩnh mạch sâuCông cụ tính toán lâm sàngXác suất DVT: Hệ thống điểm WellsSiêu âmSiêu âm Doppler của một bệnh nhân có cục nghẽn trong tĩnh mạch đùiHình ảnh© 2017 Bác sĩ Elliot K. Fishman.Siêu âm xác định huyết khối bằng cách quan sát trực tiếp thành tĩnh mạch và biểu hiện tĩnh mạch bất thường hoặc với dòng chảy Doppler của các tĩnh mạch bất thường. Xét nghiệm này có độ nhạy>90% và độ đặc hiệu>95% đối với huyết khối tĩnh mạch đùi và huyết khối tĩnh mạch khoeo nhưng kém chính xác hơn đối với huyết khối tĩnh mạch chậu hoặc tĩnh mạch bắp chân (1).D-DimerD-Dimer là một sản phẩm phụ của việc làm tan fibrin; mức độ cao gợi ý hiện diện gần đây và sự tan rã huyết khối. Xét nghiệm D-Dimer khác nhau về độ nhạy và độ đặc hiệu; tuy nhiên, hầu hết là khá nhạy và không đặc hiệu. Kết quả xét nghiệm dương tính là không đặc hiệu vì mức độ có thể tăng cao do các tình trạng khác (ví dụ: bệnh gan, chấn thương, mang thai, yếu tố dạng thấp dương tính, viêm, phẫu thuật gần đây, ung thư) và cần phải xét nghiệm thêm. Chỉ nên sử dụng các xét nghiệm chính xác nhất. Ví dụ, xét nghiệm có độ nhạy cao là xét nghiệm hấp thụ miễn dịch liên kết với enzym (ELISA), có độ nhạy khoảng 95% (2). Nồng độ D-dimer cũng tăng theo tuổi, điều này càng làm giảm độ đặc hiệu ở bệnh nhân cao tuổi (3).Chiến lược D-dimer theo mức độ thuyên tắc mạch phổi (PEGeD) là một phương pháp chẩn đoán tắc mạch phổi giúp điều chỉnh nồng độ D-dimer theo xác suất lâm sàng trước khi xét nghiệm của bệnh nhân (4):Nếu xác suất DVT trước xét nghiệm thấp,DVT thường có thể được loại trừ ở những bệnh nhân có mức D-dimer<1000 ng/mL (<5476 nmol/L) trong xét nghiệm nhạy cảm.Nếu xác suất DVT trước xét nghiệm là vừa phải, DVT có thể được loại trừ ở những bệnh nhân có nồng độ D-dimer bình thường (tức là < 500 ng/mL) trong xét nghiệm nhạy cảm. Bệnh nhân có kết quả xét nghiệm dương tính cần xét nghiệm bổ sung để loại trừ DVT.Nếu xác suất DVT trước xét nghiệm cao, xét nghiệm D-dimer có thể được thực hiện cùng lúc với siêu âm duplex. Một kết quả siêu âm dương tính chẩn đoán xác định bất kể mức độ D-dimer. Nếu siêu âm không có gợi ý về DVT, D-dimer bình thường mức giúp loại trừ DVT. Bệnh nhân tăng D-dimer nên có siêu âm lặp lại trong vài ngày hoặc các chẩn đoán hình ảnh bổ sung, chẳng hạn như chụp tĩnh mạch, tùy thuộc vào nghi ngờ lâm sàng.Kiểm tra bổ sungNếu các triệu chứng và dấu hiệu gợi ý PE, cần làm thêm các chẩn đoán hình ảnh (ví dụ: thở máy/thông khí [V/Q] hoặc chụp CT mạch phổi).Chẩn đoán hình ảnh thay thếChụp cắt lớp tĩnh mạch có tăng cường thuốc cản quang và chụp tĩnh mạch cộng hưởng từ là những phương thức chẩn đoán hình ảnh khác hiếm khi được sử dụng trong chẩn đoán DVT. Các phương thức này thường được dành riêng cho những trường hợp kết quả siêu âm âm tính hoặc không xác định được và nghi ngờ lâm sàng về DVT vẫn còn cao. Các kiểm tra chẩn đoán hình ảnh này ít được xác nhận tốt hơn đối với DVT, tốn kém hơn và có thể liên quan đến các biến chứng khác (ví dụ: liên quan đến phơi nhiễm với phóng xạ và thuốc cản quang).Chụp tĩnh mạch có thuốc cản quang là kiểm tra xác định để chẩn đoán DVT trước đây nhưng phần lớn đã được thay thế bằng siêu âm, phương pháp này không xâm lấn, sẵn có hơn và gần như chính xác như nhau để phát hiện DVT.Xác định nguyên nhânBệnh nhân đã chẩn đoán DVT và có nguyên nhân rõ ràng (như bất động, phẫu thuật, chấn thương chân) không cần phải kiểm tra thêm nữa.Xét nghiệm để phát hiện khả năng tăng đông máucòn gây tranh cãi nhưng đôi khi được thực hiện ở những bệnh nhân chọn lọc mắc DVT vô căn (hoặc không có yếu tố kích thích) hoặc DVT tái phát, ở những bệnh nhân có tiền sử cá nhân hoặc gia đình mắc các huyết khối khác và ở những bệnh nhân trẻ không có yếu tố nguy cơ rõ ràng. Một số bằng chứng gợi ý rằng xét nghiệm phát hiện tình trạng tăng đông máu ở bệnh nhân có hoặc không có yếu tố nguy cơ lâm sàng không dự đoán được tái phát DVT (5, 6, 7).Việc sàng lọc bệnh nhân bị DVT do ung thư có hiệu quả thấp. Xét nghiệm chọn lọc được hướng dẫn bởi bệnh sử và khám thực thể đầy đủ cũng như các xét nghiệm "thường lệ" cơ bản (công thức máu, chụp X-quang ngực, phân tích nước tiểu, men gan và điện giải trong huyết thanh, nitơurêmáu [BUN], creatinine) nhằm phát hiện ung thư có lẽ là đủ. Ngoài ra, bệnh nhân nên được thực hiện bất kỳ sàng lọc ung thư thích hợp nào (ví dụ: chụp X-quang tuyến vú, nội soi đại tràng) khi đến hạn.Tài liệu tham khảo chẩn đoán1.Lensing AW, Prandoni P, Brandjes D, et al. Detection of deep-vein thrombosis by real-time B-mode ultrasonography.N Engl J Med1989;320(6):342-345. doi:10.1056/NEJM1989020932006022.Di Nisio M, Squizzato A, Rutjes AW, Büller HR, Zwinderman AH, Bossuyt PM. Diagnostic accuracy of D-dimer test for exclusion of venous thromboembolism: a systematic review [published correction appears inJ Thromb Haemosttháng 10 năm 2013;11(10):1942].J Thromb Haemost2007;5(2):296-304. doi:10.1111/j.1538-7836.2007.02328.x3.Righini M, Van Es J, Den Exter PL, et al. Age-adjusted D-dimer cutoff levels to rule out pulmonary embolism: the ADJUST-PE study [published correction appears in JAMA. Ngày 23-30 tháng 4 năm 2014;311(16):1694].JAMA2014;311(11):1117-1124. doi:10.1001/jama.2014.21354.Kearon C, de Wit K, Parpia S, et al. Diagnosis of Pulmonary Embolism with d-Dimer Adjusted to Clinical Probability.N Engl J Med2019;381(22):2125-2134. doi:10.1056/NEJMoa19091595.Coppens M, Reijnders JH, Middeldorp S, Doggen CJ, Rosendaal FR. Testing for inherited thrombophilia does not reduce the recurrence of venous thrombosis.J Thromb Haemost2008;6(9):1474-1477. doi:10.1111/j.1538-7836.2008.03055.x6.Lijfering WM, Middeldorp S, Veeger NJ, et al. Risk of recurrent venous thrombosis in homozygous carriers and double heterozygous carriers of factor V Leiden and prothrombin G20210A.Circulation2010;121(15):1706-1712. doi:10.1161/CIRCULATIONAHA.109.9063477.Segal JB, Brotman DJ, Necochea AJ, et al. Predictive value of factor V Leiden and prothrombin G20210A in adults with venous thromboembolism and in family members of those with a mutation: a systematic review.JAMA2009;301(23):2472-2485. doi:10.1001/jama.2009.853
+
+--- 5. Điều trị huyết khối tĩnh mạch sâu ---
+
+Chống đôngĐôi khi lọc tĩnh mạch chủ dưới, điều trị bằng thuốc tiêu huyết khối hoặc phẫu thuậtĐiều trị chủ yếu nhằm mục đíchphòng ngừa thuyên tắc mạch phổivà thứ hai là giảm triệu chứng và ngăn ngừa tái phát DVT,suy tĩnh mạch mạn tínhvà hội chứng hậu huyết khối. Việc điều trị DVT chi trên và chi dưới nói chung là giống nhau.Các biện pháp hỗ trợ chung bao gồm kiểm soát đau với thuốc giảm đau, bao gồm các liều ngắn hạn (từ 3 đến 5 ngày) của NSAID. Nên tránh điều trị kéo dài bằng NSAID vàaspirinvì tác dụng chống kết tập tiểu cầu của thuốc có thể làm tăng nguy cơ biến chứng chảy máu. Ngoài ra, độ cao của chân (được hỗ trợ bởi gối hoặc bề mặt mềm khác để tránh ứ trệ tĩnh mạch) được khuyến cáo trong thời gian không hoạt động. Bệnh nhân có thể hoạt động thể chất ở mức độ mà họ có thể chịu đựng được; không có bằng chứng nào cho thấy hoạt động sớm làm tăng nguy cơ bong ra cục máu đông và PE và có thể giúp giảm nguy cơ bị hội chứng hậu huyết khối.Thuốc chống đông máu(Để biết chi tiết về các loại thuốc và biến chứng của thuốc, xemThuốc điều trị huyết khối tĩnh mạch sâu)Hầu hết tất cả bệnh nhân DVT đều được điều trị bằng thuốc chống đông (1,2). Nhiều loại thuốc chống đông máu khác nhau phù hợp cho liệu pháp điều trị ban đầu và việc lựa chọn thuốc bị ảnh hưởng bởi bệnh lý đi kèm của bệnh nhân (ví dụ: rối loạn chức năng thận, ung thư), sở thích, chi phí và sự thuận tiện.Một số bệnh nhân ban đầu được tiêm heparin (thường có trọng lượng phân tử thấp) trong 5 ngày đến 7 ngày, sau đó điều trị lâu dài hơn bằng thuốc uống. Warfarin, nếu được sử dụng, sẽ được bắt đầu trong vòng 24 giờ sau khi bắt đầu tiêmheparin. Mặc dùheparintác dụng nhanh chóng và mang lại tác dụng chống đông máu ngay lập tức, nhưngwarfarinphải mất khoảng 5 ngày mới đạt được hiệu quả điều trị; do đó, cần dùngheparintrong 5 ngày đến 7 ngày. Đối với những bệnh nhân bắt đầu sử dụng edoxaban (thuốc ức chếyếu tố Xađường uống) hoặc dabigatran (thuốc ức chếthrombintrực tiếp đường uống), thuốc uống sẽ được bắt đầu sau 5 ngày tiêmheparin.Ngoài ra, thuốc chống đông máu có thể được bắt đầu ngay lập tức bằng thuốc chống đông máu đường uống trực tiếp được chọn lọc (rivaroxaban hoặc apixaban) mà không cần tiêmheparintrước. Việc bắt đầu sử dụngrivaroxabanhoặcapixabankhông cóheparinlà hợp lý dựa trên kết quả của các thử nghiệm lâm sàng. Fondaparinux, một thuốc ức chếyếu tố Xangoài đường tiêu hóa, đôi khi được thay thế choheparintrọng lượng phân tử thấp và cũng có thể được sử dụng để điều trị DVT cấp tính.Đối với những bệnh nhân được chọn (ví dụ: bị DVT vùng chậu lan rộng hoặc ung thư), việc tiếp tục điều trị bằngheparintrọng lượng phân tử thấp thay vì chuyển sang thuốc uống có thể được ưu tiên hơn.Thuốc chống đông không đủ trong 24 tiếng đến 48 tiếng đầu tiên có thể làm tăng nguy cơ tái phát hoặc PE. DVT cấp tính có thể được điều trị ngoại trú trừ khi các triệu chứng nghiêm trọng đòi hỏi thuốc giảm đau qua đường tiêm, các rối loạn khác không cho phép xuất viện an toàn, hoặc các yếu tố khác (ví dụ chức năng, kinh tế xã hội) có thể ngăn không cho bệnh nhân tuân thủ các biện pháp điều trị.Lưới lọc tĩnh mạch chủ dưới (IVCF)Bộ lọc IVC có thể giúp ngăn ngừa PE ở những bệnh nhân bị DVT chi dưới có chống chỉ định với liệu pháp thuốc chống đông máu hoặc ở những bệnh nhân bị DVT tái phát (hoặc các cục nghẽn) mặc dù đã được chống đông đầy đủ. Một tấm lưới được đặt trong tĩnh mạch chủ bên dưới tĩnh mạch thận thông qua catheter của tĩnh mạch cảnh hoặc tĩnh mạch đùi. Một số IVC filter có thể tháo rời và có thể được sử dụng tạm thời (ví dụ, cho đến khi có chống chỉ định cho thuốc giảm đau hoặc giải quyết).Bộ lọc IVC làm giảm nguy cơ bị các biến chứng tắc mạch cấp tính nhưng có thể có các biến chứng lâu dài hơn (ví dụ: tuần hoàn bàng hệ tĩnh mạch có thể phát sinh, tạo đường cho các cục nghẽn phá vỡ bộ lọc). Ngoài ra còn có nguy cơ gia tăng DVT tái phát). Ngoài ra, màng lọc IVC có thể bị tắc nghẽn bởi cục máu đông. Vì vậy, bệnh nhân có các yếu tố nguy cơ DVT tái phát hoặc các yếu tố nguy cơ không thay đổi đối với DVT có thể vẫn cần phải chống đông mặc dù có sự hiện diện của một IVC Fiter.Một lưới lọc có thể gây tắc nghẽn tĩnh mạch ở phần xa hai chi dưới (bao gồm viêm tắc tĩnh mạch cấp tính), thiếu máu cục bộ phần thấp cơ thể vàtổn thương thận cấp tính. Điều trị cho một bộ lọc bị rò là loại bỏ, sử dụng can thiệp nội mạch hoặc, nếu cần thiết, là phẫu thuật. Mặc dù bộ lọc IVC được sử dụng rộng rãi nhưng hiệu quả trong việc ngăn ngừa PE vẫn chưa được nghiên cứu kỹ lưỡng và chưa được chứng minh (3). IVC nên được loại bỏ bất cứ khi nào có thể.Liệu pháp tiêu huyết khối (tiêu sợi huyết)Thuốc tiêu huyết khối, bao gồm alteplase, tenecteplase và streptokinase, làm tan cục máu đông và có thể hiệu quả hơn thuốc chống đông máu đơn thuần ở một số bệnh nhân được chọn, nhưng nguy cơ chảy máu cao hơn so với heparin. Do đó, thuốc tiêu sợi huyết chỉ nên được xem xét ở những bệnh nhân có DVT. Những bệnh nhân có thể được hưởng lợi từ thuốc tiêu huyết khối bao gồm những người<60 tuổi bị DVT vùng chậu lan rộng, đang tiến triển hoặc đang bị thiếu máu cục bộ chi (ví dụ: phù nề dolens) và không có các yếu tố nguy cơ chảy máu (4).Tiêu huyết khối qua ống thông đã thay thế phần lớn việc điều trị toàn thân khi sử dụng trong điều trị DVT.Phẫu thuậtPhẫu thuật ít khi cần thiết. Tuy nhiên, lấy huyết khối, phẫu thuật vùng chậu, hoặc cả hai đều bắt buộc đối với viêm tắc tĩnh mạch trắng và xanh không có đáp ứng với thuốc tiêu sợi huyết để ngăn ngừa tình trạng hoại tử có tổn thương chi.Tài liệu tham khảo về điều trị1.Ortel TL, Neumann I, Ageno W, et al: American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism.Blood Adv4(19):4693-4738, 2020 doi: 10.1182/bloodadvances.20200018302.Stevens SM, Woller SC, Kreuziger LB, et al: Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel Report [published correction appears inChest2022 Jul;162(1):269].Chest160(6):e545-e608, 2021 doi:10.1016/j.chest.2021.07.0553.Turner TE, Saeed MJ, Novak E, Brown DL: Association of Inferior Vena Cava Filter Placement for Venous Thromboembolic Disease and a Contraindication to Anticoagulation With 30-Day Mortality.JAMA Netw Open1(3):e180452, 2018. Xuất bản ngày 6 tháng 7 năm 2018. doi:10.1001/jamanetworkopen.2018.04524.Kearon C, Akl EA, Comerota AJ, et al. Antithrombotic therapy for VTE disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines [published correction appears inChesttháng 12 năm 2012;142(6):1698-1704].Chest2012;141(2 Suppl):e419S-e496S. doi:10.1378/chest.11-2301
+
+--- 6. Tiên lượng huyết khối tĩnh mạch sâu ---
+
+Nếu không được điều trị thích hợp, DVT chi dưới có 3% nguy cơ PE gây tử vong (1, 2); tử vong do DVT chi trên là rất hiếm. Nguy cơ tái phát DVT là thấp nhất đối với bệnh nhân có các yếu tố nguy cơ tạm thời (ví dụ phẫu thuật, chấn thương, tạm thời bất động) và lớn nhất đối với bệnh nhân có các yếu tố nguy cơ liên tục (như ung thư), DVT vô căn, hoặc độ ly giải không hoàn toàn của DVT trong quá khứ. Nồng độ D-dimer bình thường đạt được sau khi ngừng thuốc chống đông trong 3 tuần đến 4 tuần có thể giúp dự đoán nguy cơ tái phát DVT hoặc PE tương đối thấp, ở nữ giới nhiều hơn ở nam giới. Nguy cơ suy tĩnh mạch mạn tính rất khó tiên đoán. Các yếu tố nguy cơ bị hội chứng hậu huyết khối bao gồm huyết khối đầu gần, DVT tái phát cùng bên và chỉ số khối cơ thể (BMI)≥22 kg/m2.Tài liệu tham khảo về tiên lượng1.Yamashita Y, Murata K, Morimoto T, et al. Clinical outcomes of patients with pulmonary embolism versus deep vein thrombosis: From the COMMAND VTE Registry.Thromb Res2019;184:50-57. doi:10.1016/j.thromres.2019.10.0292.Douketis JD, Kearon C, Bates S, Duku EK, Ginsberg JS. Risk of fatal pulmonary embolism in patients with treated venous thromboembolism.JAMA1998;279(6):458-462. doi:10.1001/jama.279.6.458
+
+--- 7. Phòng ngừa huyết khối tĩnh mạch sâu ---
+
+Phòng ngừa DVT sẽ tốt hơn và an toàn hơn là điều trị, đặc biệt là ở những bệnh nhân có nguy cơ cao. Các phương thức sau được sử dụng (có thảo luận đầy đủ hơn, xemPhòng ngừa DVT).Phòng ngừa khi bất độngThuốc chống đông máu dự phòng (ví dụ: heparin trọng lượng phân tử thấp, fondaparinux, warfarin liều điều chỉnh, thuốc chống đông máu uống trực tiếp)Nén khí nén không liên tụcNhững bệnh nhân không nên dùng thuốc chống đông máu có thể được hưởng lợi từ các thiết bị nén khí nén không liên tục, tất thun giãn hoặc cả hai.Bộ lọc tĩnh mạch chủ dưới (IVC)không ngăn ngừa được DVT nhưng đôi khi được đặt để ngăn ngừa PE. Bộ lọc IVC có thể giúp ngăn ngừa PE ở những bệnh nhân bị DVT chi dưới có chống chỉ định với liệu pháp chống đông máu hoặc ở những bệnh nhân bị DVT tái phát (hoặc các cục nghẽn) mặc dù đã được chống đông đầy đủ. Bộ lọc IVC đôi khi cũng được sử dụng để phòng ngừa PE tiên phát sau một số loại phẫu thuật hoặc ở những bệnh nhân bị đa chấn thương nặng; tuy nhiên, không khuyến nghị sử dụng bộ lọc thường xuyên cho những chỉ định này do thiếu bằng chứng về hiệu quả (1).Tài liệu tham khảo về phòng ngừa1.Ho KM, Rao S, Honeybul S, et al. A Multicenter Trial of Vena Cava Filters in Severely Injured Patients.N Engl J Med2019;381(4):328-337. doi:10.1056/NEJMoa1806515
+
+--- 8. Những điểm chính ---
+
+Các triệu chứng và dấu hiệu không đặc hiệu, vì vậy các bác sĩ lâm sàng phải cảnh giác, đặc biệt ở những bệnh nhân có nguy cơ cao.Những bệnh nhân có nguy cơ thấp có thể dùng xét nghiệm D-dimer, một kết quả bình thường cho phép loại trừ tính mạch sâu; những trường hợp khác nên có siêu âm.Điều trị ban đầu bằng heparin tiêm (heparintrọng lượng phân tử thấp hoặc không phân đoạn [LMWH]), sau đó là thuốc chống đông đường uống (warfarin, dabigatran, hoặc thuốc ức chếyếu tố Xa) hoặc LMWH; ngoài ra, thuốc ức chếyếu tố Xađường uống rivaroxaban và apixaban có thể được sử dụng để điều trị ban đầu và điều trị liên tục.Thời gian điều trị thường là 3 hoặc 6 tháng tùy thuộc vào sự hiện diện và tính chất của các yếu tố nguy cơ; một số bệnh nhân nhất định cần được điều trị suốt đời.Việc điều trị dự phòng là cần thiết đối với bệnh nhân nằm lâu có bệnh nặng và/hoặc những người trải qua các thủ thuật phẫu thuật nhất định.Việc hoạt động sớm, nâng chân và thuốc chống đông là những biện pháp phòng ngừa được khuyến cáo; những bệnh nhân không nên dùng thuốc chống đông có thể được hưởng lợi từ các thiết bị nén khí nén không liên tục, tất áp lực, hoặc cả hai.

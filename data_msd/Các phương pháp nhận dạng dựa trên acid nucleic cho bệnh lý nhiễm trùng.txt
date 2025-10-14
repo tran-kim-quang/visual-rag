@@ -1,0 +1,150 @@
+TIÊU ĐỀ: Các phương pháp nhận dạng dựa trên acid nucleic cho bệnh lý nhiễm trùng
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/xét-nghiệm-chẩn-đoán-bệnh-lý-truyền-nhiễm/các-phương-pháp-nhận-dạng-dựa-trên-acid-nucleic-cho-bệnh-lý-nhiễm-trùng
+================================================================================
+
+NỘI DUNG:
+
+Các phương pháp nhận dạng dựa trên acid nucleic cho bệnh lý nhiễm trùng
+
+Theo
+
+Maria T. Vazquez-Pertejo
+
+,
+
+MD, FACP
+
+,
+
+Wellington Regional Medical Center;
+
+Larry M. Bush
+
+,
+
+MD, FACP
+
+,
+
+Charles E. Schmidt College of Medicine, Florida Atlantic University
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 1 2025
+
+v998525_vi
+
+Các phương pháp dựa trên axit nucleic được sử dụng để phát hiện trình tự DNA hoặc RNA đặc hiệu của sinh vật được chiết xuất từ ​​vi sinh vật. Trên in vitro các trình tự có thể hoặc không thể khuếch đại được.
+
+Việc xác định dựa trên axit nucleic (phân tử) đã trở nên phổ biến trong các cơ sở lâm sàng; việc xác định nhanh chóng này cho phép bệnh nhân được áp dụng liệu pháp kháng khuẩn cụ thể và tránh việc điều trị kéo dài bằng các loại thuốc theo kinh nghiệm có khả năng không phù hợp.
+
+Các phương pháp dựa trên acid nucleic nói chung là đặc hiệu và có độ nhạy cao; có thể được sử dụng cho tất cả các loại căn nguyên. Xét nghiệm cho kết quả nhanh chóng. Vì mỗi xét nghiệm thường chỉ dành riêng cho một sinh vật nên bác sĩ lâm sàng phải biết khả năng chẩn đoán và chỉ định xét nghiệm cho phù hợp.
+
+Những tiến bộ gần đây đã dẫn đến sự phát triển các xét nghiệm đa mồi, trong đó một xét nghiệm acid nucleic duy nhất có thể phát hiện và phân biệt ≥ 2 vi sinh vật gây bệnh. Hiện nay, có nhiều xét nghiệm đa thành phần để phát hiện tác nhân chiến tranh sinh học và một số tác nhân gây bệnh đường hô hấp, đường ruột hoặc thần kinh. Các xét nghiệm này bao gồm một nhóm các tác nhân gây bệnh do vi rút và không phải do vi rút và được chỉ định để đáp ứng với một hội chứng lâm sàng, chẳng hạn như các triệu chứng về hô hấp, tiêu hóa hoặc viêm não màng não. Các xét nghiệm đa thành phần có độ nhạy và độ đặc hiệu tương tự như các xét nghiệm mục tiêu đơn lẻ nhưng chủ yếu là định tính và có thể khó diễn giải hơn ở một bệnh nhân nhất định.
+
+Các xét nghiệm dựa trên axit nucleic là xét nghiệm định tính, nhưng hiện nay có các phương pháp định lượng cho một số lượng bệnh nhiễm trùng hiện đang hạn chế nhưng ngày càng tăng (ví dụ:
+
+viêm gan B
+
+,
+
+viêm gan C
+
+,
+
+HI
+
+V,
+
+cytomegalovirus
+
+, vi rút lymphotropic T ở người); các phương pháp này có thể hữu ích cho việc chẩn đoán và theo dõi đáp ứng điều trị.
+
+Xét nghiệm không khuếch đại
+
+Các kỹ thuật nhắm đến các trình tự acid nucleic nhưng không đòi hỏi phải khuếch đại các trình tự này thường được giới hạn trong các tình huống mà trong đó vi khuẩn đã được nuôi cấy lần đầu tiên hoặc có nồng độ cao trong mẫu vật (ví dụ như
+
+viêm họng
+
+do
+
+Streptococcus
+
+nhóm A, trong nhiễm trùng sinh dục gây ra bởi
+
+Chlamydia trachomatis
+
+hoặc
+
+Neisseria gonorrhoeae
+
+).
+
+Khuếch đại acid nucleic
+
+Các kỹ thuật khuếch đại acid nucleic (NAAT) lấy một lượng DNA hoặc RNA rất nhỏ, nhân chúng lên nhiều lần, và do đó có thể phát hiện dấu vết của một vi sinh vật trong bệnh phẩm, tránh được sự cần thiết phải nuôi cấy. Những kỹ thuật này đặc biệt hữu ích cho các sinh vật khó nuôi cấy hoặc khó xác định bằng các phương pháp khác (ví dụ như virus, vi khuẩn nội bào, nấm, mycobacteria, một số vi khuẩn khác) hoặc vi sinh vật có số lượng ít.
+
+Những xét nghiệm này bao gồm
+
+Khuếch đại mục tiêu (ví dụ, phản ứng chuỗi polymerase [PCR], sao chép ngược-PCR [RT-PCR], khuếch đại dịch chuyển vùng, khuếch đại phiên mã)
+
+khuếch đại tín hiệu (ví dụ, phân tách DNA, chụp lai)
+
+Khuếch đại đầu dò (ví dụ, phản ứng dây chuyền ligase, phân tách và xâm nhập, đầu dò chu kỳ)
+
+Phân tích sau ghép (ví dụ, trình tự phân tích sản phẩm, phân tích vi phân và phân tích đường cong nóng chảy, như đã làm trong PCR thực tiễn)
+
+Thu thập bệnh phẩm phù hợp và lưu trữ trước khi vận chuyển đến phòng xét nghiệm phân tử là rất quan trọng. Bởi vì các phương pháp khuếch đại rất nhạy cảm, các kết quả dương tính giả từ dấu vết nhiễm bẩn của mẫu vật hoặc thiết bị có thể dễ dàng xảy ra.
+
+Mặc dù có độ nhạy cao nhưng kết quả âm tính giả đôi khi xảy ra ngay cả khi bệnh nhân có triệu chứng (ví dụ như ở
+
+nhiễm vi rút Tây sông Nile
+
+). Kết quả âm tính giả có thể được giảm thiểu bằng cách sau:
+
+Tránh sử dụng gạc có phần bằng gỗ hoặc tăm bông (cần phải sử dụng tăm bông đã được chứng thực có khả năng sử dụng cho xét nghiệm khuếch đại)
+
+Vận chuyển bệnh phẩm nhanh chóng
+
+Đóng băng hoặc làm lạnh mẫu vật nếu vận chuyển có thể
+
+>
+
+2 giờ
+
+Đông lạnh là phương pháp lưu trữ điển hình cho các xét nghiệm khuếch đại acid nucleic. Tuy nhiên, mẫu vật nên được làm lạnh thay vì đông lạnh nếu các virus không ổn định (ví dụ virus varicella-zoster, virus cúm, HIV-2) hoặc nếu cần nuôi cấy virus (mẫu đông lạnh có thể không sử dụng được cho nuôi cấy chuẩn).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

@@ -1,0 +1,453 @@
+TIÊU ĐỀ: Bệnh dự trữ Glycogen
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/rối-loạn-chuyển-hóa-di-truyền/bệnh-dự-trữ-glycogen
+================================================================================
+
+NỘI DUNG:
+
+Bệnh dự trữ Glycogen
+
+Theo
+
+Matt Demczko
+
+,
+
+MD
+
+,
+
+Mitochondrial Medicine, Children's Hospital of Philadelphia
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2024
+
+v25253221_vi
+
+Bệnh dự trữ glycogen là
+
+rối loạn chuyển hóa carbohydrate
+
+. Có nhiều loại được đánh số và đặt tên, tất cả đều do thiếu hụt các enzym tham gia vào quá trình tổng hợp hoặc phân hủy glycogen; sự thiếu hụt có thể xảy ra ở gan hoặc cơ và gây hạ đường huyết hoặc lắng đọng một lượng bất thường hoặc các loại glycogen (hoặc các chất chuyển hóa trung gian của nó) trong các mô.
+
+Di truyền đối với các bệnh dự trữ glycogen (GSD) là
+
+di truyền lặn nhiễm sắc thể thường
+
+ngoại trừ GSD loại VIII/IX,
+
+có liên quan đến nhiễm sắc thể X
+
+.  Tỷ lệ mắc bệnh dao động từ 1/20.000 đến 1/43.000 ca sinh, tùy thuộc vào dân số được nghiên cứu (
+
+1
+
+). Để biết thêm chi tiết về các bệnh dự trữ glycogen, xem
+
+Bảng Các bệnh dự trữ Glycogen và các rối loạn của tân tạo glucose
+
+.
+
+Tuổi khởi phát, biểu hiện lâm sàng và mức độ nghiêm trọng thay đổi theo từng loại, nhưng triệu chứng và dấu hiệu thường gặp nhất là hạ đường huyết và bệnh cơ.
+
+Chẩn đoán các bệnh dự trữ glycogen khi nghi ngờ bởi bệnh sử, khám lâm sàng, và phát hiện glycogen và chất chuyển hóa trung gian trong mô bằng MRI hoặc sinh thiết. Chẩn đoán được xác nhận bằng phân tích DNA hoặc ít phổ biến hơn bằng cách phát hiện sự giảm đáng kể hoạt động của enzym ở gan (loại I, III, VI và VIII/IX), cơ (loại IIb, III, VII và VIII/IX), nguyên bào sợi ở da (loại IIa và IV), hoặc hồng cầu (loại VII) hoặc do thiếu sự gia tăng lactate tĩnh mạch với hoạt động cẳng tay/thiếu máu cục bộ (loại V và VII). GSD II (bệnh Pompe) hiện là một phần của bảng xét nghiệm sàng lọc trẻ sơ sinh ở nhiều tiểu bang ở Hoa Kỳ. (Xem lại
+
+xét nghiệm khi nghi ngờ các rối loạn chuyển hóa di truyền
+
+.)
+
+Điều trị thường bao gồm bổ sung chế độ ăn uống bằng bột ngô để cung cấp nguồn glucose bền vững cho các dạng GSD ở gan và tránh tập thể dục cho các dạng cơ.
+
+Tiên lượng và điều trị các bệnh dự trữ glycogen khác nhau tùy theo loại.
+
+Khiếm khuyết trong quá trình phân hủy đường
+
+(hiếm) có thể gây ra hội chứng giống như GSDs. Sự thiếu hụt phosphoglycerate kinase, phosphoglycerate mutase, and lactate dehydrogenase bắt chước các bệnh cơ của GSD loại V và VII; thiếu hụt protein vận chuyển glucose 2 (hội chứng Fanconi-Bickel) bắt chước bệnh gan của loại GSD khác (ví dụ, I, III, IV, VI).
+
+Bảng
+
+Bệnh dự trữ Glycogen và các rối loạn tân tạo Glucose
+
+Bảng
+
+Bệnh dự trữ Glycogen và các rối loạn tân tạo Glucose
+
+Bệnh dự trữ Glycogen và các rối loạn tân tạo Glucose
+
+Bệnh (Số OMIM)
+
+Khiếm khuyết Protein hoặc Enzyme
+
+Bình luận
+
+GSD I (bệnh Von Gierke)
+
+Loại phổ biến nhất của GSD I: Ia (
+
+>
+
+80%)
+
+Khởi phát:
+
+Trước 1 tuổi
+
+Đặc điểm lâm sàng:
+
+Trước 1 tuổi, hạ đường huyết trầm trọng, nhiễm toan axit lactic, và gan to; sau đó, u tuyến gan, thận to với suy thận tiến triển và cao huyết áp, chiều cao thấp, tăng triglycerid máu, tăng axit uric máu, rối loạn chức năng tiểu cầu với chảy máu cam, và thiếu máu
+
+Ở loại Ib, ít nghiêm trọng hơn nhưng bao gồm giảm bạch cầu trung tính, rối loạn chức năng bạch cầu trung tính với nhiễm trùng tái phát và bệnh ruột viêm
+
+Điều trị:
+
+Bột bắp chưa nấu 1,5-2,5 g/kg uống mỗi 4-6 giờ hoặc sữa công thức không có lactose với maltodextrin để duy trì lượng đường trong máu bình thường; ăn vào ban đêm (quan trọng); hạn chế fructose và galactose; đối với nhiễm toan lactic, bicarbonate 0,25 đến 0,5 mmol/kg 4 lần/ngày; allopurinol để giữ axit uric
+
+<
+
+6,4 mg/dL; ghép gan và thận (có thể thành công)
+
+Đối với bệnh nhân loại Ib với giảm bạch cầu trung tính, G-CSF
+
+Loại Ia (232200*)
+
+Glucose-6-phosphatase
+
+Loại Ib (232220*)
+
+Glucose-6-phosphate translocase T1
+
+Loại Ic (232240*)
+
+Glucose-6-phosphate translocase T2
+
+Loại Id (232240*)
+
+Glucose-6-phosphate translocase T3
+
+GSD II (bệnh Pompe, 232300*)
+
+Khởi phát:
+
+Trẻ sơ sinh, tuổi thơ ấu, hoặc trưởng thành; hoạt động enzym tồn dư ở dạng trẻ em và người trưởng thành
+
+Đặc điểm lâm sàng:
+
+Ở dạng trẻ nhỏ, bệnh cơ tim với suy tim, giảm trương lực cơ nặng, lưỡi to
+
+Ở dạng vị thành niên và người trưởng thành, bệnh lý cơ xương với chậm phát triển vận động, yếu cơ ngoại vi và hô hấp tiến triển
+
+Trong loại IIb, khuyết tật về trí tuệ
+
+Điều trị:
+
+Đối với bệnh nhân có triệu chứng, thay thế enzyme (alglucosidase alfa)
+
+Đối với bệnh tim, ghép tim
+
+Loại IIa
+
+Axit α-glucosidase lysosome
+
+Loại IIb (Danon)
+
+Lysosomal membrane protein-2
+
+GSD III (bệnh Forbes, bệnh Cori, limit dextrinosis, 232400*)
+
+Tần số:
+
+IIIa, 85%; IIIb, 15%; IIIc và IIId, hiếm
+
+Khởi phát:
+
+Trẻ sơ sinh hoặc thời thơ ấu
+
+Đặc điểm lâm sàng:
+
+Trong loại IIIa, tổn thương gan và cơ với các đặc tính của loại Ia và II
+
+Trong loại IIIb, chỉ có tổn thương của gan cộng với các đặc tính của loại Ia
+
+Trong các loại IIIc và IIId, các đặc điểm khác nhau tùy thuộc vào mô bị ảnh hưởng
+
+Điều trị:
+
+Bột ngô chưa nấu chín và cho ăn liên tục để duy trì đường huyết bình thường, chế độ ăn giàu protein để kích thích sự tân tạo glucose
+
+Các loại IIIa và IIIb
+
+Enzyme phân nhánh (amyloglucosidase và oligoglucanotransferase)
+
+Loại IIIc
+
+Chỉ Amyloglucosidase
+
+Loại IIId
+
+Chỉ Oligoglucanotransferase
+
+GSD IV (bệnh Andersen; 232500*)
+
+Enzym phân nhánh
+
+Khởi phát:
+
+Giai đoạn sớm trẻ nhỏ; hiếm, thời kỳ sơ sinh, giai đoạn muộn ở tuổi thơ ấu, hoặc khi trưởng thành (biểu hiện như một dạng biến thể không tiến triển hoặc một dạng thần kinh cơ)
+
+Đặc điểm lâm sàng:
+
+Gan to với xơ gan tiến triển và hạ đường huyết, giãn tĩnh mạch thực quản, và cổ trướng; lách to; chậm lớn
+
+Trong các dạng thần kinh cơ, giảm trương lực cơ và teo cơ
+
+Điều trị:
+
+Không rõ
+
+Đối với xơ gan, ghép gan, điều này cũng điều trị bệnh chính
+
+GSD V (bệnh McArdle; 232600*)
+
+Phosphorylase cơ
+
+Khởi phát:
+
+Thanh thiếu niên hoặc giai đoạn sớm của trưởng thành
+
+Đặc điểm lâm sàng:
+
+Không chịu được tập thể dục do chuột rút cơ, tiêu cơ vân
+
+Điều trị:
+
+Carbohydrate trước khi tập luyện, chế độ ăn giàu chất đạm
+
+GSD VI (bệnh Hers; 232700*)
+
+Phosphorylase gan
+
+Tần số:
+
+Hiếm
+
+Khởi phát:
+
+Trẻ nhỏ
+
+Đặc điểm lâm sàng:
+
+Các đợt lành tính với những triệu chứng giảm đi theo tuổi; chậm phát triển, gan to, hạ đường huyết, tăng lipid máu, keton máu
+
+Điều trị:
+
+Bột ngô chưa nấu chín để duy trì đường huyết bình thường
+
+GSD VII (bệnh Tarui; 232800*)
+
+Phosphofructokinase
+
+Khởi phát:
+
+Giữa thời thơ ấu
+
+Đặc điểm lâm sàng:
+
+Không chịu được tập thể dục do chuột rút cơ, tiêu cơ vân, tan máu
+
+Điều trị:
+
+Không đặc hiệu, tránh tập thể dục
+
+GSD VIII/IX†
+
+Khởi phát:
+
+Dị hợp tử
+
+Đặc điểm lâm sàng:
+
+Không đồng nhất; gan to, chậm phát triển, giảm trương lực cơ, tăng cholesterol máu
+
+Điều trị:
+
+Không đặc hiệu
+
+Loại IXa1 và IXa2 (306000*)
+
+Phosphorylase kinase liên kết X
+
+Loại IXb (261750*)
+
+Phosphorylase kinase gan và cơ
+
+Loại IXc (613027*)
+
+Phosphorylase kinase gan
+
+Loại IXd (300559*)
+
+Phosphorylase kinase cơ
+
+GSD 0 (240600*)
+
+Glycogen synthase
+
+Khởi phát:
+
+Thay đổi nhưng thường sau khi ngừng ăn đêm hoặc bệnh gian phát
+
+Đặc điểm lâm sàng:
+
+Tình trạng hạ đường huyết và keton huyết lúc đói, toan acid lactic sau ăn
+
+Điều trị:
+
+Bữa ăn giàu protein thường xuyên, bột bắp chưa nấu chín vào giờ đi ngủ
+
+Hội chứng Fanconi-Bickel (227810*)
+
+Glucose transporter-2
+
+Khởi phát:
+
+Trẻ nhỏ
+
+Đặc điểm lâm sàng:
+
+Chậm lớn, chướng bụng, gan to, thận to, hạ đường huyết khi đói nhẹ và tăng lipid máu, không dung nạp glucose, hội chứng Fanconi thận
+
+Điều trị:
+
+Chế độ ăn ít carbohydrate, nhiều protein; lượng fructose ăn vào hạn chế để duy trì đường huyết không cao; thay thế các chất điện giải bị mất qua thận; vitamin D
+
+Thiếu Fructose 1,6-bisphosphatase
+
+(229700*)
+
+Fructose 1,6-bisphosphatase
+
+Khởi phát:
+
+Trẻ nhỏ hoặc đầu thời thơ ấu
+
+Đặc điểm lâm sàng:
+
+Tăng thông khí từng đợt, ngưng thở, hạ đường huyết, keton máu hoặc toan acid lactic; các đợt bùng phát gây ra bởi nhịn đói, sốt nhiễm trùng, hoặc ăn fructose, sorbitol, hoặc glycerol
+
+Điều trị:
+
+Tránh nhịn đói và fructose, sorbitol và glycerol; bột bắp chưa chín
+
+Thiếu Phosphoenolpyruvate carboxykinase (261680*)
+
+Phosphoenolpyruvate carboxykinase
+
+Khởi phát:
+
+Thời thơ ấu
+
+Đặc điểm lâm sàng:
+
+Chậm lớn, giảm trương lực cơ, gan to, toan acid lactic, hạ đường huyết
+
+Điều trị:
+
+Tránh nhịn đói, bột bắp chưa nấu
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+†Type Loại VIII trước đây được đưa vào loại IXa.
+
+G-CSF
+
+=
+
+yếu tố kích thích quần thể bạch cầu hạt; GSD
+
+=
+
+bệnh dự trữ glycogen;.
+
+* Để biết thông tin đầy đủ về vị trí gen, phân tử và nhiễm sắc thể, hãy xem cơ sở dữ liệu
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+.
+
+†Type Loại VIII trước đây được đưa vào loại IXa.
+
+G-CSF
+
+=
+
+yếu tố kích thích quần thể bạch cầu hạt; GSD
+
+=
+
+bệnh dự trữ glycogen;.
+
+Tài liệu tham khảo
+
+1.
+
+Gümüş E, Özen H
+
+. Glycogen storage diseases: An update.
+
+World J Gastroenterol
+
+. 2023;29(25):3932-3963. doi:10.3748/wjg.v29.i25.3932
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Online Mendelian Inheritance in Man (OMIM) database
+
+: Complete gene, molecular, and chromosomal location information
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Online Mendelian Inheritance in Man (OMIM) database: Complete gene, molecular, and chromosomal location information

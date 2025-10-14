@@ -1,0 +1,389 @@
+TIÊU ĐỀ: Đông máu rải rác trong lòng mạch (DIC)
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/rối-loạn-coagulation/đông-máu-rải-rác-trong-lòng-mạch-dic
+================================================================================
+
+NỘI DUNG:
+
+Đông máu rải rác trong lòng mạch (DIC)
+
+(Bệnh đông máu do tiêu thụ, hội chứng tiêu sợi huyết)
+
+Theo
+
+Michael B. Streiff
+
+,
+
+MD
+
+,
+
+Johns Hopkins University School of Medicine
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 9 2023
+
+|
+
+đã sửa đổi
+
+Thg 6 2025
+
+v972475_vi
+
+Đông máu rải rác trong lòng mạch (DIC) liên quan đến sự sản sinh bất thường quá mức
+
+thrombin
+
+và fibrin trong máu tuần hoàn. Trong quá trình này, có sự tăng ngưng tập tiểu cầu tăng tiêu thụ các yếu tố đông máu. DIC tiến triển chậm (mạn) (trong vài tuần hoặc vài tháng) gây ra các biểu hiện huyết khối và tắc nghẽn tĩnh mạch trước; DIC tiến triển nhanh (cấp) (vài giờ hoặc vài ngày) gây ra chảy máu trước. DIC nặng, tiến triển nhanh được chẩn đoán bằng cách chứng minh tình trạng giảm tiểu cầu, thời gian thromboplastin một phần tăng, thời gian prothrombin tăng, nồng độ D-dimer huyết tương tăng (hoặc các sản phẩm thoái hóa fibrin huyết thanh) và nồng độ fibrinogen trong huyết tương giảm. Điều trị bao gồm điều chỉnh nguyên nhân và bổ sung tiểu cầu, các yếu tố đông máu (trong huyết tương tươi đông lạnh), và fibrinogen (trong tủa lạnh) để kiểm soát chảy máu trầm trọng.
+
+Heparin
+
+được sử dụng làm một liệu pháp (hoặc điều trị dự phòng) trên bệnh nhân bị DIC tiến triển chậm, chẳng hạn như ung thư tuyến tiền liệt, phình mạch hoặc u mạch xoang hang, những người có (hoặc có nguy cơ) thuyên tắc huyết khối tĩnh mạch hoặc thuyên tắc huyết khối động mạch.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn đông máu
+
+.)
+
+Nguyên nhân của đông máu rải rác trong lòng mạch
+
+Đông máu rải rác trong lòng mạch là kết quả của sự tiếp xúc của yếu tố mô với máu, bắt đầu khởi phát thác đông máu. Ngoài ra, con đường tiêu sợi huyết được kích hoạt trong DIC (xem hình
+
+Con đường tiêu sợi huyết
+
+). Kích thích các tế bào nội mô bằng cytokine và lưu lượng máu vi mạch bị xáo trộn gây giải phóng chất kích hoạt
+
+plasminogen
+
+mô (tPA) từ các tế bào nội mô. Cả tPA và
+
+plasminogen
+
+đều gắn vào các polyme fibrin và plasmin (được tạo ra bởi sự phân cắt tPA của
+
+plasminogen
+
+) phân cắt fibrin thành D-dimer và các sản phẩm phân hủy khác của fibrin. Do đó, DIC có thể gây ra huyết khối và chảy máu (nếu tiêu thụ tiểu cầu và/hoặc các yếu tố đông máu quá mức).
+
+Con đường tiêu sợi huyết
+
+DIC hay gặp
+
+trong những trường hợp lâm sàng sau:
+
+Các biến chứng của sản khoa (ví dụ,
+
+rau bong non
+
+, nạo thai, thai lưu
+
+tắc mạch ối
+
+): Do các yếu tố của mô của rau thai hoạt hóa và đi vào tuần hoàn của mẹ.
+
+Nhiễm trùng, đặc biệt với gram âm:  Nội độc tố gram âm gây ra phơi nhiễm hoặc kích hoạt hoạt động của yếu tố mô trong tế bào thực bào, tế bào nội mô và tế bào mô.
+
+Ung thư, đặc biệt là ung thư biểu mô tuyến của
+
+tụy
+
+, dạ dày, đường mật, phổi, tuyến tiền liệt hoặc vú và
+
+bệnh bạch cầu cấp tính tiền tủy
+
+: Các tế bào khối u giải phóng và tiếp xúc yếu tố mô.
+
+Sốc
+
+do bất kỳ tình trạng nào gây tổn thương mô do thiếu máu cục bộ và phơi nhiễm hoặc giải phóng yếu tố mô.
+
+Các nguyên nhân ít phổ biến hơn của DIC
+
+bao gồm
+
+Tổn thương mô nghiêm trọng do chấn thương đầu, bỏng, tê cóng, hoặc vết thương do đạn
+
+Các biến chứng của phẫu thuật tuyến tiền liệt cho phép vật liệu tuyến tiền liệt có hoạt động của yếu tố mô (cùng với các chất kích hoạt
+
+plasminogen
+
+) đi vào hệ tuần hoàn
+
+Các enzyme trong một số loại
+
+nọc rắn
+
+nhất định đi vào hệ tuần hoàn, kích hoạt một hoặc một số yếu tố đông máu và tạo ra
+
+thrombin
+
+hoặc chuyển trực tiếp fibrinogen thành fibrin.
+
+Tan máu nội mạch sâu, thường gặp nhất trong các phản ứng truyền máu tán huyết cấp tính do không tương thích ABO
+
+Phình động mạch chủ
+
+hoặc u mạch xoang hang (hội chứng Kasabach-Merritt) kèm theo tổn thương thành mạch và các vùng ứ máu
+
+Đông máu rải rác trong lòng mạch
+
+tiến triển chậm
+
+thường chủ yếu là do ung thư, phình động mạch hoặc u mạch xoang hang.
+
+Sinh lý bệnh của đông máu rải rác trong lòng mạch
+
+DIC tiến triển chậm
+
+chủ yếu gây ra các biểu hiện thuyên tắc huyết khối tĩnh mạch (ví dụ:
+
+huyết khối tĩnh mạch sâu
+
+,
+
+thuyên tắc mạch phổi
+
+), mặc dù đôi khi xảy ra sùi van tim hoặc thuyên tắc huyết khối động mạch; chảy máu không phổ biến.
+
+DIC tiến triển nhanh, nặng,
+
+ngược lại, gây ra giảm tiểu cầu và cạn kiệt các yếu tố đông máu, fibrinogen và gây ra chảy máu. Xuất huyết nội tạng cùng với huyết khối vi mạch có thể gây ra rối loạn chức năng và thất bại ở nhiều cơ quan. Sự hòa tan chậm trễ của các polyme fibrin bằng quá trình tiêu sợi huyết có thể dẫn đến sự phá vỡ cơ học của các tế bào hồng cầu, gây tan máu nội mạch mức độ nhẹ và tạo ra các mảnh vỡ hồng cầu.
+
+Triệu chứng và Dấu hiệu của DIC
+
+DIC tiến triển chậm: có thẻ có,
+
+các triệu chứng huyết khối tĩnh mạch
+
+và/hoặc
+
+triệu chứng tắc nghẽn phổi
+
+.
+
+DIC nặng, tiến triển nhanh: các vị trí thủng da (ví dụ: chọc dò qua đường tiêm tĩnh mạch hoặc động mạch) chảy máu dai dẳng, hình thành vết tụ máu tại các vị trí tiêm truyền đường tiêu hóa và có thể xảy ra xuất huyết tiêu hóa nghiêm trọng.
+
+Chẩn đoán đông máu rải rác trong lòng mạch
+
+Dựa vào số lượng tiểu cầu, thời gian prothrombin (PT), thời gian thromboplastin riêng phần (PTT), fibrinogen huyết tương, D-dimer
+
+Nghi ngờ đông máu rải rách trong lòng mạch ở những bệnh nhân bị chảy máu không rõ nguyên nhân hoặc thuyên tắc huyết khối tĩnh mạch hoặc thuyên tắc huyết khối động mạch, đặc biệt là nếu tồn tại tình trạng tạo khuynh hướng. Nếu nghi ngờ DIC, cần xét nghiệm số lượng tiểu cầu, PT, PTT, nồng độ fibrinogen huyết tương, D-dimer (hoặc các sản phẩm giáng hóa khác của fibrin).
+
+DIC tiến triển chậm
+
+DIC tiến triển chậm tạo ra
+
+Giảm tiểu cầu nhẹ
+
+PT bình thường đến kéo dài tối thiểu (kết quả thường được báo cáo là tỷ lệ [INR]) và PTT
+
+Mức fibrinogen bình thường hoặc trung bình
+
+Tăng nồng độ D-dimer
+
+Do những bệnh nền có thể kích thích tăng tổng hợp fibrinogen như môt phản ứng pha cấp, vì thế chỉ cần nồng độ fibrinogen thấp trong 2 lần định lượng liên tiếp có thể chẩn đoán DIC. Giá trị PTT ban đầu trong DIC tiến triển chậm có thể ngắn hơn bình thường, có thể là do hoạt hóa các yếu tố đông máu trong huyết tương.
+
+DIC tiến triển nhanh chóng
+
+DIC tiến triển nhanh chóng dẫn đến
+
+Giảm tiểu cầu nặng
+
+PT và PTT kéo dài hơn
+
+Nồng độ fibrinogen huyết tương giảm nhanh
+
+Nồng độ D-dimer cao
+
+Việc đo nồng độ yếu tố VIII đôi khi có thể hữu ích nếu DIC cấp tính, nặng phải được phân biệt với bệnh gan nặng, có thể gây ra các kết quả xét nghiệm tương tự. Do yếu tố VIII không được tế bào gan tổng hợp nên nồng độ yếu tố VIII có xu hướng bình thường hoặc thậm chí cao (do vai trò của yếu tố VIII là protein phản ứng viêm cấp tính) trong bệnh gan. Ngược lại, tất cả các yếu tố đông máu đều được tiêu thụ trong DIC nên nồng độ yếu tố VIII thường giảm. Nồng độ D-dimer cũng có xu hướng cao hơn ở bệnh DIC so với ở bệnh gan.
+
+Điều trị đông máu rải rác trong lòng mạch
+
+Điều trị nguyên nhân
+
+Có thể thay thế liệu pháp (ví dụ: tiểu cầu, kết tủa lạnh, huyết tương tươi đông lạnh)
+
+Đôi khi sử dụng heparin
+
+Việc điều chỉnh nguyên nhân ngay lập tức là ưu tiên hàng đầu (ví dụ: điều trị bằng kháng sinh phổ rộng khi nghi ngờ nhiễm trùng huyết do vi khuẩn gram âm, nạo hút tử cung trong trường hợp nhau bong non, bù thể tích máu) (
+
+1
+
+). Nếu điều trị hiệu quả, DIC có thể giảm nhanh chóng.
+
+Chảy máu nghiêm trọng
+
+Nếu chảy máu trầm trọng hoặc liên quan đến vị trí quan trọng (ví dụ như não, đường tiêu hoá), hoặc nếu có nhu cầu cấp thiết cho phẫu thuật, cân chỉ định truyền chế phẩm bổ trợ. Các chế phẩm máu cần truyền:
+
+Khối tiểu cầu để điều chỉnh tình trạng giảm tiểu cầu (trong trường hợp số lượng tiểu cầu giảm nhanh hoặc tiểu cầu
+
+<
+
+10.000 đến 20.000/microL [
+
+<
+
+10 đến 20 ×10
+
+9
+
+/L])
+
+Kết tủa lạnh để thay thế fibrinogen (và yếu tố VIII) nếu nồng độ fibrinogen giảm nhanh hoặc
+
+<
+
+100 mg/dL (
+
+<
+
+2,9 micromol/L).
+
+Huyết tương tươi đông lạnh bổ sung các yếu tố đông máu khác và các kháng đông tự nhiên (antithrombin, protein C, S, và Z)
+
+Chưa nhận thấy hiệu quả khi sử dụng antithrombin trong các trường hợp DIC nặng, tiến triển nhanh.
+
+Truyền máu
+
+khi có huyết áp thấp là cần thiết để kìm hãm DIC. Các chất cô đặc phức hợp prothrombin không được khuyến nghị vì về mặt lý thuyết có nguy cơ làm trầm trọng thêm các biến chứng thuyên tắc huyết khối, mặc dù còn thiếu dữ liệu.
+
+Heparin
+
+thường không được chỉ định trong DIC tiến triển nhanh kèm chảy máu.
+
+DIC tiến triển chậm
+
+Heparin rất hữu ích trong điều trị đông máu rải rác trong lòng mạch tiến triển chậm kèm theo huyết khối tĩnh mạch hoặc huyết khối động mạch.
+
+Mặc dù heparin
+
+thường không được chỉ định trong DIC tiến triển nhanh có nguy cơ chảy máu hoặc chảy máu, nhưng chất này được chỉ định ở những phụ nữ có thai chết lưu và DIC đang tiến triển khi có giảm dần tiểu cầu, fibrinogen và các yếu tố đông máu. Ở những bệnh nhân này,
+
+heparin
+
+được dùng trong vài ngày để kiểm soát DIC, làm tăng nồng độ fibrinogen và tiểu cầu và làm giảm tiêu thụ yếu tố đông máu quá mức.
+
+Heparin
+
+sau đó được dừng lại và hút nạo tử cung.
+
+Heparin
+
+cũng có thể hữu ích trong việc kiểm soát DIC mạn tính liên quan đến phình mạch dẫn đến tăng fibrinogen và tiểu cầu.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Levi M, Scully M
+
+. How I treat disseminated intravascular coagulation.
+
+Blood
+
+2018;131(8):845-854. doi:10.1182/blood-2017-10-804096
+
+Những điểm chính
+
+Trong đông máu rải rác trong lòng mạch (DIC), thác đông máu được kích hoạt khi máu tiếp xúc với yếu tố mô. Cùng với hệ thống đông máu, hệ thống tiêu sợi huyết cũng được hoạt hóa.
+
+DIC thường bắt đầu rât nhanh và gây chảy máu và tắc nghẽn vi mạch, dẫn đến sự suy cơ quan.
+
+DIC đôi khi bắt đầu chậm và gây ra hiện tượng huyết khối tắc mạch chứ không phải chảy máu.
+
+DIC nặng, khởi phát nhanh gây giảm tiểu cầu nghiêm trọng, kéo dài thời gian prothrombin và một phần thời gian thromboplastin, mức fibrinogen huyết tương giảm nhanh và mức D-dimer huyết tương cao.
+
+Việc khắc phục ngay nguyên nhân là ưu tiên; chảy máu nghiêm trọng cũng có thể cần điều trị thay thế bằng tiểu cầu, kết tủa lạnh (chứa fibrinogen), và huyết tương tươi đông lạnh (chứa các yếu tố đông máu khác).
+
+Heparin rất hữu ích trong DIC khởi phát chậm, nhưng hiếm khi sử dụng ở DIC khởi phát nhanh (chủ yếu ở phụ nữ có thai lưu).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh đông máu do tiêu thụ, hội chứng tiêu sợi huyết) ---
+
+TheoMichael B. Streiff,MD,Johns Hopkins University School of MedicineXem xét bởiJerry L. Spivak,MD; MACP,, Johns Hopkins University School of MedicineĐã xem xét/Đã chỉnh sửaThg 9 2023|đã sửa đổiThg 6 2025v972475_vi
+
+--- 2. Nguyên nhân của đông máu rải rác trong lòng mạch ---
+
+Đông máu rải rác trong lòng mạch là kết quả của sự tiếp xúc của yếu tố mô với máu, bắt đầu khởi phát thác đông máu. Ngoài ra, con đường tiêu sợi huyết được kích hoạt trong DIC (xem hìnhCon đường tiêu sợi huyết). Kích thích các tế bào nội mô bằng cytokine và lưu lượng máu vi mạch bị xáo trộn gây giải phóng chất kích hoạtplasminogenmô (tPA) từ các tế bào nội mô. Cả tPA vàplasminogenđều gắn vào các polyme fibrin và plasmin (được tạo ra bởi sự phân cắt tPA củaplasminogen) phân cắt fibrin thành D-dimer và các sản phẩm phân hủy khác của fibrin. Do đó, DIC có thể gây ra huyết khối và chảy máu (nếu tiêu thụ tiểu cầu và/hoặc các yếu tố đông máu quá mức).Con đường tiêu sợi huyếtDIC hay gặptrong những trường hợp lâm sàng sau:Các biến chứng của sản khoa (ví dụ,rau bong non, nạo thai, thai lưutắc mạch ối): Do các yếu tố của mô của rau thai hoạt hóa và đi vào tuần hoàn của mẹ.Nhiễm trùng, đặc biệt với gram âm:  Nội độc tố gram âm gây ra phơi nhiễm hoặc kích hoạt hoạt động của yếu tố mô trong tế bào thực bào, tế bào nội mô và tế bào mô.Ung thư, đặc biệt là ung thư biểu mô tuyến củatụy, dạ dày, đường mật, phổi, tuyến tiền liệt hoặc vú vàbệnh bạch cầu cấp tính tiền tủy: Các tế bào khối u giải phóng và tiếp xúc yếu tố mô.Sốcdo bất kỳ tình trạng nào gây tổn thương mô do thiếu máu cục bộ và phơi nhiễm hoặc giải phóng yếu tố mô.Các nguyên nhân ít phổ biến hơn của DICbao gồmTổn thương mô nghiêm trọng do chấn thương đầu, bỏng, tê cóng, hoặc vết thương do đạnCác biến chứng của phẫu thuật tuyến tiền liệt cho phép vật liệu tuyến tiền liệt có hoạt động của yếu tố mô (cùng với các chất kích hoạtplasminogen) đi vào hệ tuần hoànCác enzyme trong một số loạinọc rắnnhất định đi vào hệ tuần hoàn, kích hoạt một hoặc một số yếu tố đông máu và tạo rathrombinhoặc chuyển trực tiếp fibrinogen thành fibrin.Tan máu nội mạch sâu, thường gặp nhất trong các phản ứng truyền máu tán huyết cấp tính do không tương thích ABOPhình động mạch chủhoặc u mạch xoang hang (hội chứng Kasabach-Merritt) kèm theo tổn thương thành mạch và các vùng ứ máuĐông máu rải rác trong lòng mạchtiến triển chậmthường chủ yếu là do ung thư, phình động mạch hoặc u mạch xoang hang.
+
+--- 3. Sinh lý bệnh của đông máu rải rác trong lòng mạch ---
+
+DIC tiến triển chậmchủ yếu gây ra các biểu hiện thuyên tắc huyết khối tĩnh mạch (ví dụ:huyết khối tĩnh mạch sâu,thuyên tắc mạch phổi), mặc dù đôi khi xảy ra sùi van tim hoặc thuyên tắc huyết khối động mạch; chảy máu không phổ biến.DIC tiến triển nhanh, nặng,ngược lại, gây ra giảm tiểu cầu và cạn kiệt các yếu tố đông máu, fibrinogen và gây ra chảy máu. Xuất huyết nội tạng cùng với huyết khối vi mạch có thể gây ra rối loạn chức năng và thất bại ở nhiều cơ quan. Sự hòa tan chậm trễ của các polyme fibrin bằng quá trình tiêu sợi huyết có thể dẫn đến sự phá vỡ cơ học của các tế bào hồng cầu, gây tan máu nội mạch mức độ nhẹ và tạo ra các mảnh vỡ hồng cầu.
+
+--- 4. Triệu chứng và Dấu hiệu của DIC ---
+
+DIC tiến triển chậm: có thẻ có,các triệu chứng huyết khối tĩnh mạchvà/hoặctriệu chứng tắc nghẽn phổi.DIC nặng, tiến triển nhanh: các vị trí thủng da (ví dụ: chọc dò qua đường tiêm tĩnh mạch hoặc động mạch) chảy máu dai dẳng, hình thành vết tụ máu tại các vị trí tiêm truyền đường tiêu hóa và có thể xảy ra xuất huyết tiêu hóa nghiêm trọng.
+
+--- 5. Chẩn đoán đông máu rải rác trong lòng mạch ---
+
+Dựa vào số lượng tiểu cầu, thời gian prothrombin (PT), thời gian thromboplastin riêng phần (PTT), fibrinogen huyết tương, D-dimerNghi ngờ đông máu rải rách trong lòng mạch ở những bệnh nhân bị chảy máu không rõ nguyên nhân hoặc thuyên tắc huyết khối tĩnh mạch hoặc thuyên tắc huyết khối động mạch, đặc biệt là nếu tồn tại tình trạng tạo khuynh hướng. Nếu nghi ngờ DIC, cần xét nghiệm số lượng tiểu cầu, PT, PTT, nồng độ fibrinogen huyết tương, D-dimer (hoặc các sản phẩm giáng hóa khác của fibrin).DIC tiến triển chậmDIC tiến triển chậm tạo raGiảm tiểu cầu nhẹPT bình thường đến kéo dài tối thiểu (kết quả thường được báo cáo là tỷ lệ [INR]) và PTTMức fibrinogen bình thường hoặc trung bìnhTăng nồng độ D-dimerDo những bệnh nền có thể kích thích tăng tổng hợp fibrinogen như môt phản ứng pha cấp, vì thế chỉ cần nồng độ fibrinogen thấp trong 2 lần định lượng liên tiếp có thể chẩn đoán DIC. Giá trị PTT ban đầu trong DIC tiến triển chậm có thể ngắn hơn bình thường, có thể là do hoạt hóa các yếu tố đông máu trong huyết tương.DIC tiến triển nhanh chóngDIC tiến triển nhanh chóng dẫn đếnGiảm tiểu cầu nặngPT và PTT kéo dài hơnNồng độ fibrinogen huyết tương giảm nhanhNồng độ D-dimer caoViệc đo nồng độ yếu tố VIII đôi khi có thể hữu ích nếu DIC cấp tính, nặng phải được phân biệt với bệnh gan nặng, có thể gây ra các kết quả xét nghiệm tương tự. Do yếu tố VIII không được tế bào gan tổng hợp nên nồng độ yếu tố VIII có xu hướng bình thường hoặc thậm chí cao (do vai trò của yếu tố VIII là protein phản ứng viêm cấp tính) trong bệnh gan. Ngược lại, tất cả các yếu tố đông máu đều được tiêu thụ trong DIC nên nồng độ yếu tố VIII thường giảm. Nồng độ D-dimer cũng có xu hướng cao hơn ở bệnh DIC so với ở bệnh gan.
+
+--- 6. Điều trị đông máu rải rác trong lòng mạch ---
+
+Điều trị nguyên nhânCó thể thay thế liệu pháp (ví dụ: tiểu cầu, kết tủa lạnh, huyết tương tươi đông lạnh)Đôi khi sử dụng heparinViệc điều chỉnh nguyên nhân ngay lập tức là ưu tiên hàng đầu (ví dụ: điều trị bằng kháng sinh phổ rộng khi nghi ngờ nhiễm trùng huyết do vi khuẩn gram âm, nạo hút tử cung trong trường hợp nhau bong non, bù thể tích máu) (1). Nếu điều trị hiệu quả, DIC có thể giảm nhanh chóng.Chảy máu nghiêm trọngNếu chảy máu trầm trọng hoặc liên quan đến vị trí quan trọng (ví dụ như não, đường tiêu hoá), hoặc nếu có nhu cầu cấp thiết cho phẫu thuật, cân chỉ định truyền chế phẩm bổ trợ. Các chế phẩm máu cần truyền:Khối tiểu cầu để điều chỉnh tình trạng giảm tiểu cầu (trong trường hợp số lượng tiểu cầu giảm nhanh hoặc tiểu cầu<10.000 đến 20.000/microL [<10 đến 20 ×109/L])Kết tủa lạnh để thay thế fibrinogen (và yếu tố VIII) nếu nồng độ fibrinogen giảm nhanh hoặc<100 mg/dL (<2,9 micromol/L).Huyết tương tươi đông lạnh bổ sung các yếu tố đông máu khác và các kháng đông tự nhiên (antithrombin, protein C, S, và Z)Chưa nhận thấy hiệu quả khi sử dụng antithrombin trong các trường hợp DIC nặng, tiến triển nhanh.Truyền máukhi có huyết áp thấp là cần thiết để kìm hãm DIC. Các chất cô đặc phức hợp prothrombin không được khuyến nghị vì về mặt lý thuyết có nguy cơ làm trầm trọng thêm các biến chứng thuyên tắc huyết khối, mặc dù còn thiếu dữ liệu.Heparinthường không được chỉ định trong DIC tiến triển nhanh kèm chảy máu.DIC tiến triển chậmHeparin rất hữu ích trong điều trị đông máu rải rác trong lòng mạch tiến triển chậm kèm theo huyết khối tĩnh mạch hoặc huyết khối động mạch.Mặc dù heparinthường không được chỉ định trong DIC tiến triển nhanh có nguy cơ chảy máu hoặc chảy máu, nhưng chất này được chỉ định ở những phụ nữ có thai chết lưu và DIC đang tiến triển khi có giảm dần tiểu cầu, fibrinogen và các yếu tố đông máu. Ở những bệnh nhân này,heparinđược dùng trong vài ngày để kiểm soát DIC, làm tăng nồng độ fibrinogen và tiểu cầu và làm giảm tiêu thụ yếu tố đông máu quá mức.Heparinsau đó được dừng lại và hút nạo tử cung.Heparincũng có thể hữu ích trong việc kiểm soát DIC mạn tính liên quan đến phình mạch dẫn đến tăng fibrinogen và tiểu cầu.Tài liệu tham khảo về điều trị1.Levi M, Scully M. How I treat disseminated intravascular coagulation.Blood2018;131(8):845-854. doi:10.1182/blood-2017-10-804096
+
+--- 7. Những điểm chính ---
+
+Trong đông máu rải rác trong lòng mạch (DIC), thác đông máu được kích hoạt khi máu tiếp xúc với yếu tố mô. Cùng với hệ thống đông máu, hệ thống tiêu sợi huyết cũng được hoạt hóa.DIC thường bắt đầu rât nhanh và gây chảy máu và tắc nghẽn vi mạch, dẫn đến sự suy cơ quan.DIC đôi khi bắt đầu chậm và gây ra hiện tượng huyết khối tắc mạch chứ không phải chảy máu.DIC nặng, khởi phát nhanh gây giảm tiểu cầu nghiêm trọng, kéo dài thời gian prothrombin và một phần thời gian thromboplastin, mức fibrinogen huyết tương giảm nhanh và mức D-dimer huyết tương cao.Việc khắc phục ngay nguyên nhân là ưu tiên; chảy máu nghiêm trọng cũng có thể cần điều trị thay thế bằng tiểu cầu, kết tủa lạnh (chứa fibrinogen), và huyết tương tươi đông lạnh (chứa các yếu tố đông máu khác).Heparin rất hữu ích trong DIC khởi phát chậm, nhưng hiếm khi sử dụng ở DIC khởi phát nhanh (chủ yếu ở phụ nữ có thai lưu).

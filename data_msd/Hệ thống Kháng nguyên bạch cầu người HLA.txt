@@ -1,0 +1,130 @@
+TIÊU ĐỀ: Hệ thống Kháng nguyên bạch cầu người (HLA)
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/sinh-học-của-hệ-miễn-dịch/hệ-thống-kháng-nguyên-bạch-cầu-người-hla
+================================================================================
+
+NỘI DUNG:
+
+Hệ thống Kháng nguyên bạch cầu người (HLA)
+
+Theo
+
+Peter J. Delves
+
+,
+
+PhD
+
+,
+
+University College London, London, UK
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2024
+
+v992712_vi
+
+Hệ thống kháng nguyên bạch cầu người (HLA), phức hợp hòa hợp mô chủ yêu (MHC) ở người, là một phần quan trọng của hệ miễn dịch và được kiểm soát bởi các gen nằm trên nhiễm sắc thể số 6. Nó mã hóa các phân tử bề mặt tế bào chuyên biệt để tạo ra các peptide kháng nguyên đối với thụ thể tế bào T (TCR) trên tế bào T. (Xem thêm
+
+Tổng quan về hệ thống miễn dịch
+
+.)
+
+Các phân tử MHC có kháng nguyên (Ag) được chia thành 2 nhóm chính:
+
+Các phân tử MHC lớp I
+
+Các phân tử MHC lớp II
+
+Các phân tử MHC lớp I
+
+có mặt như các glycoprotein màng trên bề mặt của tất cả các tế bào có nhân. Các phân tử lớp I nguyên vẹn bao gồm một chuỗi nặng alpha gắn với một phân tử beta-2 microglobulin. Chuỗi nặng bao gồm 2 miền liên kết peptit, một miền giống Ig và một vùng màng tế bào có đuôi tế bào chất. Chuỗi nặng của phân tử lớp I được mã hóa bởi các gen ở các locus HLA-A, HLA-B và HLA-C. Tế bào T biểu hiện phân tử CD8 phản ứng với phân tử MHC lớp I. Những tế bào T này thường có chức năng gây độc tế bào, đòi hỏi chúng phải có khả năng nhận biết bất kỳ tế bào nào bị nhiễm bệnh. Bởi vì mỗi tế bào có nhân biểu hiện các phân tử MHC lớp I, tất cả các tế bào bị nhiễm bệnh có thể hoạt động như tế bào biểu hiện kháng nguyên cho các tế bào T CD8 (CD8 liên kết với một phần không đồng dạng của chuỗi nặng I). Một số gen MHC loại I mã hóa các phân tử MHC không phân lớp (tức là không gắn với CD8), chẳng hạn như HLA-G (có thể đóng vai trò bảo vệ thai nhi khỏi đáp ứng miễn dịch của mẹ) và HLA-E (trình diện các peptide cho một số thụ thể nhất định trên các tế bào diệt tự nhiên [NK]).
+
+Các phân tử MHC loại II
+
+thường chỉ hiện diện trên các tế bào trình diện kháng nguyên chuyên nghiệp (tế bào B, đại thực bào, tế bào đuôi gai, tế bào Langerhans), biểu mô tuyến ức và tế bào T đã hoạt hóa (nhưng không nghỉ). Hầu hết các tế bào có nhân có thể được tạo ra để biểu hiện các phân tử MHC loại II bằng interferon (IFN)-gamma. Các phân tử MHC lớp II bao gồm 2 chuỗi polypeptide (alpha [
+
+α
+
+] và beta [
+
+β
+
+]); mỗi chuỗi có một miền gắn kết peptit, một miền giống Ig và một vùng màng tế bào có đuôi tế bào chất. Cả hai chuỗi polypeptide đều được mã hóa bởi các gen ở vùng HLA-DP, HLA-DQ hoặc HLA-DR của nhiễm sắc thể số 6. Các tế bào T phản ứng với các phân tử lớp II thể hiện CD4 và thường là các tế bào hỗ trợ.
+
+Vùng MHC loại III
+
+của bộ gen mã hóa một số phân tử quan trọng trong quá trình viêm; chúng bao gồm các phần bổ thể C2, C4 và yếu tố B; yếu tố hoại tử khối u (TNF)-alpha; độc tố lympho; và 3 protein sốc nhiệt, giúp bảo vệ tế bào khỏi căng thẳng và duy trì cân bằng nội môi protein.
+
+Các kháng nguyên được xác định về mặt huyết thanh học riêng lẻ được mã hóa bởi locus gen loại I và loại II trong hệ thống HLA được đặt tên theo tiêu chuẩn (ví dụ: HLA-A1, -B5, -C1, -DR1). Các alen được xác định bằng trình tự DNA được đặt tên để xác định gen, tiếp theo là dấu sao, số đại diện cho nhóm allele (thường tương ứng với kháng nguyên huyết thanh học được mã hoá bởi allele đó), một dấu hai chấm và số đại diện cho allele cụ thể (ví dụ, A*02:01, DRB1*01:03, DQA1*01:02). Đôi khi các số bổ sung được thêm vào sau dấu hai chấm để xác định các biến thể allen mã hoá các protein giống hệt nhau, và sau một dấu hai chấm khác, các số khác được thêm vào để biểu thị tính đa hình trong các intron hoặc trong các vùng không phiên mã 5' hoặc 3' (ví dụ A*02:101:01:02, DRB1*03:01:01:02).
+
+Các phân tử MHC lớp I và lớp II là những kháng nguyên gây miễn dịch mạnh nhất được nhận biết trong quá trình đào thải
+
+mô ghép đồng loài
+
+. Yếu tố quyết định mạnh nhất là HLA-DR, tiếp theo là HLA-B và HLA-A. Do đó, 3 locus này là quan trọng nhất để kết hợp giữa người cho và người nhận.
+
+Một số rối loạn tự miễn dịch có liên quan đến các allel HLA cụ thể, ví dụ,
+
+Viêm cột sống dính khớp
+
+và
+
+viêm khớp phản ứng
+
+đến HLA-B27
+
+Đa xơ cứng
+
+đến HLA-DR2
+
+Chứng ngủ rũ
+
+đến HLA-DR2 và HLA-DQB1*06:02
+
+Bệnh vẩy nến
+
+đến HLA-C*06:02
+
+Viêm khớp dạng thấp
+
+đến HLA-DR4
+
+Đái tháo đường type 1
+
+đến HLA-DQ2 và HLA-DQ8
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

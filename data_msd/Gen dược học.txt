@@ -1,0 +1,148 @@
+TIÊU ĐỀ: Gen dược học
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/các-yếu-tố-ảnh-hưởng-đến-đáp-ứng-với-thuốc/gen-dược-học
+================================================================================
+
+NỘI DUNG:
+
+Gen dược học
+
+Theo
+
+Shalini S. Lynch
+
+,
+
+PharmD
+
+,
+
+University of California San Francisco School of Pharmacy
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2025
+
+v1108609_vi
+
+Gen dược học liên quan đến sự khác nhau trong đáp ứng với thuốc do cấu hình gen.
+
+Hoạt tính của các enzym chuyển hóa thuốc thường khác nhau rất nhiều giữa những người khỏe mạnh, làm cho quá trình chuyển hóa khác nhau nhiều. Tốc độ thải trừ thuốc khác nhau đến 40 lần. Các yếu tố gen và sự lão hóa dường như chiếm hầu hết các biến thể này.
+
+Sự khác nhau về gen dược học (ví dụ như acetyl hóa, thủy phân, oxy hóa, hoặc các enzym chuyển hóa thuốc) có thể gây hậu quả lâm sàng (xem bảng
+
+Ví dụ về các biến thể di truyền dược lý
+
+). Nếu bệnh nhân chuyển hóa một số loại thuốc nhanh chóng, họ có thể cần liều cao hơn, thường xuyên hơn để đạt được nồng độ điều trị; nếu bệnh nhân chuyển hóa một số loại thuốc chậm, họ có thể cần liều thấp hơn, ít thường xuyên hơn để tránh độc tính, đặc biệt là các loại thuốc có biên độ an toàn hẹp. Ví dụ: những bệnh nhân mắc bệnh viêm ruột cần điều trị bằng azathioprine hoặc 6-mercaptopurine hiện được xét nghiệm thường quy về kiểu gen thiopurine methyltransferase (TPMT) để xác định liều khởi đầu thích hợp nhất cho liệu pháp dùng thuốc. Hầu hết các khác biệt về gen không thể được dự đoán trước khi điều trị bằng thuốc, nhưng đối với ngày càng nhiều loại thuốc (ví dụ: carbamazepine, clopidogrel, warfarin), những thay đổi về hiệu quả và nguy cơ độc tính có liên quan cụ thể đến một số biến thể gen nhất định. Ngoài ra, nhiều yếu tố môi trường và phát triển có thể tương tác với nhau và với các yếu tố di truyền để ảnh hưởng đến phản ứng thuốc (xem hình
+
+Các yếu tố di truyền, môi trường và phát triển có thể tương tác, gây ra sự khác biệt trong phản ứng thuốc ở mỗi bệnh nhân
+
+).
+
+Bảng
+
+Ví dụ về sự khác nhau của gen dược học
+
+Bảng
+
+Ví dụ về sự khác nhau của gen dược học
+
+Ví dụ về sự khác nhau của gen dược học
+
+Ví dụ về tác dụng
+
+Acetyl hóa, nhanh
+
+Cần dùng liều cao hơn hoặc thường xuyên hơn các loại thuốc được acetylat hóa (ví dụ: isoniazid) để tạo ra đáp ứng điều trị mong muốn
+
+Acetyl hóa, chậm (bất hoạt thuốc bởi
+
+N
+
+-acetyltransferase gan)
+
+Tăng khả năng nhạy cảm với các tác dụng bất lợi của thuốc bị acetyl hóa (ví dụ: isoniazid gây viêm dây thần kinh ngoại biên; hydralazine hoặc procainamide gây bệnh lupus do thuốc)
+
+Thiếu hụt Aldehyde dehydrogenase-2
+
+Khi uống rượu bia làm tăng đáng kể acetaldehyd trong máu, gây đỏ mặt, tăng nhịp tim, mồ hôi, yếu cơ và thỉnh thoảng giãn mạch qua trung gian catecholamin
+
+Đa hình di truyền
+
+CYP2C19
+
+Giảm hoạt tính enzym của clopidogrel, làm giảm tác dụng chống kết tập tiểu cầu và tăng nguy cơ
+
+huyết khối
+
+ở những bệnh nhân có nguy cơ cao
+
+Thiếu hụt G6PD
+
+Khi sử dụng thuốc oxy hóa, chẳng hạn như một số thuốc chống sốt rét (ví dụ: chloroquine, primaquine), tăng nguy cơ bị
+
+thiếu máu tan máu
+
+.
+
+Các đa hình gen của
+
+CYP2C9
+
+và tiểu đơn vị phức hợp vitamin K epoxide reductase 1 (
+
+VKORC1
+
+)
+
+Tăng tác dụng của warfarin, tăng nguy cơ bị chảy máu
+
+HLA-B*1502
+
+Tăng nguy cơ gặp các tác dụng không muốn của carbamazepin, bao gồm phản ứng da nhạy cảm nghiêm trọng (ví dụ,
+
+Hội chứng Stevens-Johnson
+
+)
+
+Thiếu hụt pseudocholinesterase huyết tương
+
+Giảm làm mất hoạt tính của succactylcholin
+
+Với liều succinylcholine thông thường, tình trạng tê liệt kéo dài của các cơ hô hấp và đôi khi ngưng thở dai dẳng đòi hỏi phải thở máy cho đến khi thuốc có thể được loại bỏ bằng các con đường khác
+
+Các yếu tố di truyền, môi trường và phát triển có thể tương tác, gây ra những khác biệt về đáp ứng thuốc ở bệnh nhân
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

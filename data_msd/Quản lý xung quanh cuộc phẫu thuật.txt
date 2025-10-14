@@ -1,0 +1,385 @@
+TIÊU ĐỀ: Quản lý xung quanh cuộc phẫu thuật
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/chăm-sóc-bệnh-nhân-phẫu-thuật/quản-lý-xung-quanh-cuộc-phẫu-thuật
+================================================================================
+
+NỘI DUNG:
+
+Quản lý xung quanh cuộc phẫu thuật
+
+Theo
+
+André V Coombs
+
+,
+
+MBBS
+
+,
+
+University of South Florida
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2024
+
+v1127857_vi
+
+Quản lý thuốc và bệnh đi kèm trước phẫu thuật
+
+|
+
+Chuẩn bị vào ngày phẫu thuật
+
+|
+
+Chăm sóc chu phẫu dựa trên các khuyến nghị cá nhân cũng như chung và nhằm ngăn ngừa các biến chứng chu phẫu và tối ưu hóa kết quả. Việc lập kế hoạch và chuẩn bị được thực hiện trong vài tuần hoặc vài ngày trước khi thực hiện thủ thuật không khẩn cấp, nếu khả thi, với các biện pháp phù hợp với từng bệnh nhân dựa trên thủ thuật đã lên kế hoạch, chỉ định phẫu thuật, bệnh sử, thuốc và ưu tiên của bệnh nhân.
+
+Hướng dẫn tăng cường phục hồi sau phẫu thuật (ERAS) đã được phát triển và xác nhận với mục đích tiêu chuẩn hóa việc chăm sóc chu phẫu và cải thiện kết quả phẫu thuật tổng thể cho các chuyên khoa phẫu thuật khác nhau (xem
+
+Hiệp hội ERAS
+
+).
+
+Quản lý thuốc và bệnh đi kèm trước phẫu thuật
+
+Bệnh nhân bị bệnh nội khoa mạn tính, đặc biệt là bệnh tim mạch, bệnh phổi hoặc bệnh thận có thể cần được xử trí để chuẩn bị cho phẫu thuật. Ngoài ra, nhiều loại thuốc có thể tương tác với thuốc gây mê hoặc có tác dụng bất lợi trong phẫu thuật hoặc sau phẫu thuật. Vì vậy, thông thường trước khi phẫu thuật, thuốc của bệnh nhân sẽ được xem xét và quyết định loại thuốc nào nên dùng vào ngày phẫu thuật.
+
+Thuốc chống đông và thuốc chống ngưng tập tiểu cầu
+
+Nên ngừng thuốc chống đông ở những bệnh nhân được phẫu thuật theo lịch đã chọn với nguy cơ thuyên tắc huyết khối từ thấp đến trung bình ít nhất 48 giờ trước khi phẫu thuật và tiếp tục trong vòng 12 giờ đến 24 giờ sau khi phẫu thuật. Đối với những bệnh nhân có nguy cơ cao bị thuyên tắc huyết khối, chẳng hạn như những người có stent động mạch vành hoặc van tim cơ học, nguy cơ tử vong do huyết khối có thể lớn hơn nguy cơ chảy máu do phẫu thuật. Quyết định ngừng điều trị chống đông máu nên được cá nhân hóa và liên quan đến một nhóm đa ngành. Đối với bệnh nhân đặt stent, các yếu tố cần xem xét bao gồm loại stent (trần hoặc phủ thuốc), thời gian kể từ khi đặt, loại phẫu thuật và liệu thủ thuật theo lịch đã chọn có thể được hoãn lại cho đến khi qua giai đoạn nguy cơ gia tăng hay không (
+
+1
+
+).
+
+Trong hầu hết các trường hợp, thuốc chống kết tập tiểu cầu (ví dụ: aspirin) được ngừng từ 5 ngày đến 7 ngày trước khi phẫu thuật. Đối với thuốc chống đông đường uống trực tiếp (DOAC), thời gian ngừng và tiếp tục nên dựa trên thời gian bán hủy và chức năng thận của thuốc;
+
+liệu pháp bắc cầu
+
+(dùng thuốc chống đông tác dụng ngắn như heparin trọng lượng phân tử thấp cho đến khi tác dụng chống đông của DOAC trở thành điều trị) thường không được khuyến nghị do thời gian bán hủy ngắn hơn của các thuốc này và thiếu các thuốc đảo ngược cụ thể (
+
+2
+
+).
+
+Dabigatran nên được ngừng lại trước các thủ thuật theo lịch đã chọn và có thể được tiếp tục trong vòng 24 giờ đến 48 giờ ở những bệnh nhân có nguy cơ chảy máu thấp, nhưng nên được tiếp tục lại sau đó (thường là 3 ngày đến 5 ngày sau phẫu thuật) đối với các thủ thuật có nguy cơ cao hoặc bệnh nhân (
+
+3
+
+). Nếu cần, có thể đảo ngược tác dụng của dabigatran bằng idarucizumab, một mảnh kháng thể đơn dòng gắn kết với dabigatran và nhanh chóng trung hòa tác dụng chống đông máu của thuốc đó (
+
+4
+
+). Các thuốc đảo ngược tác dụng khác, chẳng hạn như phức hợp prothrombin cô đặc (PCC) hoặc PCC hoạt hóa (aPCC), cũng có thể có hiệu quả trong việc đảo ngược tác dụng chống đông máu của dabigatran, nhưng việc sử dụng các thuốc này ít được thiết lập.
+
+Ngoại trừ một số tiểu thủ thuật, warfarin được ngừng 5 ngày trước khi phẫu thuật; INR (tỷ lệ chuẩn hóa quốc tế) tại thời điểm phẫu thuật phải ≤ 1,5. Một số bệnh nhân được điều trị bắc cầu bằng thuốc chống đông tác dụng ngắn như heparin trọng lượng phân tử thấp sau khi ngừng
+
+warfarin
+
+(
+
+5
+
+). Liệu pháp bắc cầu định kỳ bằng heparin không được khuyến nghị cho những bệnh nhân được phẫu thuật có nguy cơ thuyên tắc huyết khối từ thấp đến trung bình. Liệu pháp bắc cầu nên được xem xét cho những bệnh nhân có nguy cơ cao bị thuyên tắc huyết khối, chẳng hạn như những người có tiền sử thuyên tắc huyết khối tĩnh mạch hoặc van tim cơ học và nên dựa trên nguy cơ cá nhân và hồ sơ chảy máu của bệnh nhân (
+
+6
+
+,
+
+7
+
+).
+
+Bởi vì phải mất 5 ngày để
+
+warfarin
+
+có thể có tác dụng chống đông, ta có thể bắt đầu dùng warfarin ngày trong ngày phẫu thuật hoặc sau khi phẫu thuật trừ khi nguy cơ xuất huyết sau phẫu thuật cao. Bệnh nhân được điều trị chống đông nối tiếp cho khi INR đạt đến mục tiêu điều trị.
+
+Ở những bệnh nhân được điều trị bằng thuốc chống đông máu, quyết định sử dụng
+
+gây tê tại vùng
+
+nên được thực hiện trên cơ sở từng trường hợp cụ thể, có tính đến nguy cơ chảy máu và huyết khối. Không nên rút ống thông ngoài màng cứng cho đến ít nhất 12 giờ sau khi dùng liều cuối cùng của DOAC.
+
+Corticosteroid
+
+Bệnh nhân có thể dùng corticosteroid để tránh phản ứng quá mức do stress trong phẫu thuật nếu có tiền sử uống > 5 mg prednisone mỗi ngày (hoặc liều tương đương của corticosteroid khác) trong > 3 tuần trong năm. Liều lượng corticosteroid áp dụng theo kinh nghiệm cũng thường được đưa ra khi chưa rõ liều lượng và thời gian điều trị corticosteroid.
+
+Các loại thuốc khác để điều trị các bệnh mạn tính
+
+Hầu hết các loại thuốc dùng để kiểm soát các bệnh mạn tính, đặc biệt là thuốc tim mạch (bao gồm cả thuốc hạ huyết áp), nên được tiếp tục trong suốt thời gian chu phẫu. Hầu hết các loại thuốc uống có thể được uống cùng với một ngụm nước nhỏ vào ngày phẫu thuật. Các loại thuốc khác có thể phải được cho dùng theo đường tiêm truyền hoặc trì hoãn cho đến sau phẫu thuật. Nồng độ thuốc chống co giật nên đo trước phẫu thuật ở những bệnh nhân động kinh.
+
+Bệnh tiểu đường
+
+Vào ngày phẫu thuật, bệnh nhân có bệnh tiểu đường phụ thuộc
+
+insulin
+
+thường được cho một phần ba liều insulin thông thường vào buổi sáng. Bệnh nhân dùng thuốc uống được cho dùng một nửa liều thông thường. Nếu có thể, phẫu thuật được thực hiện sớm trong ngày. Bác sĩ gây mê theo dõi nồng độ glucose trong quá trình phẫu thuật và cho dùng thêm
+
+insulin
+
+hoặc dextrose nếu cần. Theo dõi chặt chẽ bằng test thử đường máu vẫn tiếp tục trong suốt thời gian phẫu thuật. Ngay sau mổ, insulin tiêm theo bậc thang giảm dần. Phác đồ
+
+insulin
+
+tại nhà thông thường sẽ không được bắt đầu lại cho đến khi bệnh nhân tiếp tục chế độ ăn uống bình thường. Thuốc hạ đường huyết đường uống thường được sử dụng lại khi bệnh nhân xuất viện.
+
+Bệnh tim
+
+Bệnh nhân có bệnh động mạch vành hoặc bệnh suy tim nên được đánh giá trước mổ và
+
+phân tầng nguy cơ
+
+bởi bác sĩ tim mạch. Nếu bệnh nhân không nhớ bệnh của mình, bệnh nhân nên cần các test bổ sung trước khi phẫu thuật theo lịch.
+
+Bệnh lý phổi
+
+Các xét nghiệm chức năng phổi
+
+trước phẫu thuật
+
+có thể giúp định lượng mức độ của bệnh đường thở tắc nghẽn, hạn chế hoặc phản ứng. Chức năng phổi nên được tối ưu hóa bằng cách điều chỉnh cẩn thận việc sử dụng và liều lượng thuốc hít, các loại thuốc khác và kỹ thuật làm khai thông đường thở.
+
+Sử dụng chất gây nghiện
+
+Bệnh nhân hút thuốc lá nên ngừng hút thuốc càng sớm càng tốt trước bất kỳ thủ thuật nào liên quan đến ngực hoặc bụng. Một vài tuần ngừng hút thuốc là cần thiết để phục hồi. Một máy đo chức năng hô hấp nên được sử dụng trước và sau phẫu thuật.
+
+Đối với bệnh nhân thường xuyên sử dụng cannabinoids hoặc sử dụng nhiều,
+
+hướng dẫn của Hiệp hội Gây tê vùng và Đau Hoa Kỳ
+
+khuyến nghị tư vấn về các nguy cơ tiềm ẩn (ví dụ: tăng buồn nôn và nôn sau phẫu thuật, nhồi máu cơ tim) tiếp tục sử dụng trong giai đoạn chu phẫu, trì hoãn phẫu thuật theo lịch đã chọn ở những bệnh nhân có tình trạng tâm thần thay đổi hoặc suy giảm khả năng ra quyết định do ngộ độc cần sa cấp tính, và trì hoãn phẫu thuật không cấp cứu trong tối thiểu 2 giờ sau khi hút thuốc hoặc uống cần sa vì tăng nguy cơ nhồi máu cơ tim (
+
+8
+
+).
+
+Những bệnh nhân phụ thuộc vào ma túy hoặc rượu bất hợp pháp có thể bị hội chứng cai trong giai đoạn chu phẫu. Bệnh nhân bị
+
+rối loạn sử dụng rượu
+
+nên được dùng thuốc benzodiazepin dự phòng (ví dụ: chlordiazepoxide, diazepam, lorazepam) ngay từ khi nhập viện. Bệnh nhân bị
+
+rối loạn sử dụng opioid
+
+có thể được dùng thuốc giảm đau opioid để ngăn ngừa hội chứng cai; để giảm đau, họ có thể cần liều lượng lớn hơn so với những bệnh nhân không nghiện. Hiếm khi, những người mắc chứng rối loạn sử dụng opioid cần dùng methadone để ngăn chặn tình trạng cai nghiện trong giai đoạn chu phẫu.
+
+Tài liệu tham khảo
+
+1.
+
+Fleisher LA, Fleischmann KE, Auerbach AD, et al
+
+: 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: A report of the American College of Cardiology/American Heart Association Task Force on practice guidelines.
+
+J Am Coll Cardiol
+
+64(22):e77-e137, 2014. doi:10.1016/j.jacc.2014.07.944
+
+2.
+
+Douketis JD, Healey JS, Brueckmann M, et al
+
+: Perioperative bridging anticoagulation during
+
+dabigatran
+
+or
+
+warfarin
+
+interruption among patients who had an elective surgery or procedure. Substudy of the RE-LY trial.
+
+Thromb Haemost
+
+113(3):625-632, 2015. doi:10.1160/TH14-04-0305
+
+3.
+
+Schulman S, Carrier M, Lee AY, et al
+
+: Perioperative management of
+
+dabigatran
+
+: a prospective cohort study.
+
+Circulation
+
+132(3):167-173, 2015. doi:10.1161/CIRCULATIONAHA.115.015688
+
+4.
+
+Pollack CV Jr, Reilly PA, van Ryn J, et al
+
+:
+
+Idarucizumab
+
+for
+
+dabigatran
+
+reversal - full cohort analysis.
+
+N Engl J Med
+
+377(5):431-441, 2017. doi:10.1056/NEJMoa1707278
+
+5.
+
+Keeling D, Baglin T, Tait C, et al
+
+: Guidelines on oral anticoagulation with
+
+warfarin
+
+- fourth edition.
+
+Br J Haematol
+
+154(3):311-324, 2011. doi:10.1111/j.1365-2141.2011.08753.x
+
+6.
+
+Kuo HC, Liu FL, Chen JT, et al
+
+: Thromboembolic and bleeding risk of periprocedural bridging anticoagulation: A systematic review and meta-analysis.
+
+Clin Cardiol
+
+43(5):441-449, 2020. doi:10.1002/clc.23336
+
+7.
+
+Douketis JD, Spyropoulos AC, Kaatz S, et al
+
+: Perioperative bridging anticoagulation in patients with atrial fibrillation.
+
+N Engl J Med
+
+373(9):823-833, 2015. doi:10.1056/NEJMoa1501035
+
+8.
+
+Goel A, McGuinness B, Jivraj NK, et al
+
+: Cannabis use disorder and perioperative outcomes in major elective surgeries: a retrospective cohort analysis.
+
+Anesthesiology
+
+132(4):625-635, 2020. doi:10.1097/ALN.0000000000003067
+
+Chuẩn bị vào ngày phẫu thuật
+
+Dự án Cải thiện Chăm sóc Phẫu thuật (SCIP) ở Hoa Kỳ là một dự án thực hiện các biện pháp để giảm tỷ lệ mắc bệnh và tử vong sau phẫu thuật. Các hướng dẫn SCIP đã được thông qua và xuất bản trong
+
+Cẩm nang Thông số kỹ thuật cho các Biện pháp cốt lõi về Chất lượng Quốc gia của Ủy ban Liên Hợp Quốc
+
+(Cẩm nang Thông số kỹ thuật).
+
+Các khuyến nghị chung của SCIP như sau:
+
+Đảm bảo kiểm soát đường huyết sau phẫu thuật lúc 6 giờ sáng ở bệnh nhân phẫu thuật tim.
+
+Sử dụng máy cắt hoặc dao cạo, chứ không phải lưỡi dao để cạo lông nơi phẫu thuật trước khi mổ.
+
+Rút ống thông tiểu trong hai ngày đầu sau khi phẫu thuật trừ khi được yêu cầu để lại bởi các tình huống lâm sàng cụ thể.
+
+Tiêu chuẩn hóa các lựa chọn kháng sinh dựa trên loại phẫu thuật và các yếu tố bệnh nhân (xem
+
+Sổ tay hướng dẫn kỹ thuật: Lựa chọn phác đồ kháng sinh dự phòng cho phẫu thuật
+
+và cũng xem
+
+Bảng Phạm vi sử dụng kháng sinh cho một số thủ tục phẫu thuật
+
+).
+
+Ăn uống và chuẩn bị ruột
+
+Các khuyến nghị của Hiệp hội Bác sĩ gây mê Hoa Kỳ (ASA) liên quan đến việc ăn uống như sau (
+
+1
+
+):
+
+8 giờ trước phẫu thuật: Ngừng ăn thịt hoặc thực phẩm chiên hoặc béo
+
+6 giờ: Hạn chế ăn vào bữa ăn nhẹ (ví dụ: bánh mì nướng và đồ lỏng trong), sau đó chỉ cho phép đồ lỏng trong
+
+2 giờ: Ngừng tất cả các thức ăn uống, bao gồm thức ăn, đồ lỏng và thuốc
+
+Đối với một số thủ thuật tiêu hóa nhất định, phải bắt đầu dùng thuốc thụt rửa hoặc các chế phẩm kháng sinh đường uống từ 1 đến 2 ngày trước khi phẫu thuật.
+
+Danh sách kiểm tra trước phẫu thuật
+
+Tại Hoa Kỳ,
+
+Quy trình chung của Ủy ban Hỗn hợp
+
+đưa ra hướng dẫn trước khi làm thủ thuật cho phòng mổ đã được phát triển với mục tiêu ngăn ngừa các sai sót trongi phẫu thuật liên quan đến sai bệnh nhân, sai thủ thuật hoặc sai một phần của cơ thể. Một phần của quy trình là sắp xếp thời gian chờ trước thủ thuật, trong đó nhóm xác nhận một số yếu tố quan trọng:
+
+Nhận dạng bệnh nhân
+
+Xác minh thủ thuật và vị trí chính xác cũng như mặt của vị trí phẫu thuật
+
+Có sẵn tất cả các thiết bị cần thiết
+
+Xác minh việc sử dụng thuốc dự phòng được chỉ định (ví dụ, thuốc kháng sinh, thuốc chống đông máu, thuốc chẹn beta)
+
+Tài liệu tham khảo về chuẩn bị vào ngày phẫu thuật
+
+1.
+
+Practice Guidelines for Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration
+
+: Application to Healthy Patients Undergoing Elective Procedures: An Updated Report by the American Society of Anesthesiologists Task Force on Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration. Anesthesiology. 2017;126(3):376-393. doi:10.1097/ALN.0000000000001452
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Quản lý thuốc và bệnh đi kèm trước phẫu thuật ---
+
+Bệnh nhân bị bệnh nội khoa mạn tính, đặc biệt là bệnh tim mạch, bệnh phổi hoặc bệnh thận có thể cần được xử trí để chuẩn bị cho phẫu thuật. Ngoài ra, nhiều loại thuốc có thể tương tác với thuốc gây mê hoặc có tác dụng bất lợi trong phẫu thuật hoặc sau phẫu thuật. Vì vậy, thông thường trước khi phẫu thuật, thuốc của bệnh nhân sẽ được xem xét và quyết định loại thuốc nào nên dùng vào ngày phẫu thuật.Thuốc chống đông và thuốc chống ngưng tập tiểu cầuNên ngừng thuốc chống đông ở những bệnh nhân được phẫu thuật theo lịch đã chọn với nguy cơ thuyên tắc huyết khối từ thấp đến trung bình ít nhất 48 giờ trước khi phẫu thuật và tiếp tục trong vòng 12 giờ đến 24 giờ sau khi phẫu thuật. Đối với những bệnh nhân có nguy cơ cao bị thuyên tắc huyết khối, chẳng hạn như những người có stent động mạch vành hoặc van tim cơ học, nguy cơ tử vong do huyết khối có thể lớn hơn nguy cơ chảy máu do phẫu thuật. Quyết định ngừng điều trị chống đông máu nên được cá nhân hóa và liên quan đến một nhóm đa ngành. Đối với bệnh nhân đặt stent, các yếu tố cần xem xét bao gồm loại stent (trần hoặc phủ thuốc), thời gian kể từ khi đặt, loại phẫu thuật và liệu thủ thuật theo lịch đã chọn có thể được hoãn lại cho đến khi qua giai đoạn nguy cơ gia tăng hay không (1).Trong hầu hết các trường hợp, thuốc chống kết tập tiểu cầu (ví dụ: aspirin) được ngừng từ 5 ngày đến 7 ngày trước khi phẫu thuật. Đối với thuốc chống đông đường uống trực tiếp (DOAC), thời gian ngừng và tiếp tục nên dựa trên thời gian bán hủy và chức năng thận của thuốc;liệu pháp bắc cầu(dùng thuốc chống đông tác dụng ngắn như heparin trọng lượng phân tử thấp cho đến khi tác dụng chống đông của DOAC trở thành điều trị) thường không được khuyến nghị do thời gian bán hủy ngắn hơn của các thuốc này và thiếu các thuốc đảo ngược cụ thể (2).Dabigatran nên được ngừng lại trước các thủ thuật theo lịch đã chọn và có thể được tiếp tục trong vòng 24 giờ đến 48 giờ ở những bệnh nhân có nguy cơ chảy máu thấp, nhưng nên được tiếp tục lại sau đó (thường là 3 ngày đến 5 ngày sau phẫu thuật) đối với các thủ thuật có nguy cơ cao hoặc bệnh nhân (3). Nếu cần, có thể đảo ngược tác dụng của dabigatran bằng idarucizumab, một mảnh kháng thể đơn dòng gắn kết với dabigatran và nhanh chóng trung hòa tác dụng chống đông máu của thuốc đó (4). Các thuốc đảo ngược tác dụng khác, chẳng hạn như phức hợp prothrombin cô đặc (PCC) hoặc PCC hoạt hóa (aPCC), cũng có thể có hiệu quả trong việc đảo ngược tác dụng chống đông máu của dabigatran, nhưng việc sử dụng các thuốc này ít được thiết lập.Ngoại trừ một số tiểu thủ thuật, warfarin được ngừng 5 ngày trước khi phẫu thuật; INR (tỷ lệ chuẩn hóa quốc tế) tại thời điểm phẫu thuật phải ≤ 1,5. Một số bệnh nhân được điều trị bắc cầu bằng thuốc chống đông tác dụng ngắn như heparin trọng lượng phân tử thấp sau khi ngừngwarfarin(5). Liệu pháp bắc cầu định kỳ bằng heparin không được khuyến nghị cho những bệnh nhân được phẫu thuật có nguy cơ thuyên tắc huyết khối từ thấp đến trung bình. Liệu pháp bắc cầu nên được xem xét cho những bệnh nhân có nguy cơ cao bị thuyên tắc huyết khối, chẳng hạn như những người có tiền sử thuyên tắc huyết khối tĩnh mạch hoặc van tim cơ học và nên dựa trên nguy cơ cá nhân và hồ sơ chảy máu của bệnh nhân (6,7).Bởi vì phải mất 5 ngày đểwarfarincó thể có tác dụng chống đông, ta có thể bắt đầu dùng warfarin ngày trong ngày phẫu thuật hoặc sau khi phẫu thuật trừ khi nguy cơ xuất huyết sau phẫu thuật cao. Bệnh nhân được điều trị chống đông nối tiếp cho khi INR đạt đến mục tiêu điều trị.Ở những bệnh nhân được điều trị bằng thuốc chống đông máu, quyết định sử dụnggây tê tại vùngnên được thực hiện trên cơ sở từng trường hợp cụ thể, có tính đến nguy cơ chảy máu và huyết khối. Không nên rút ống thông ngoài màng cứng cho đến ít nhất 12 giờ sau khi dùng liều cuối cùng của DOAC.CorticosteroidBệnh nhân có thể dùng corticosteroid để tránh phản ứng quá mức do stress trong phẫu thuật nếu có tiền sử uống > 5 mg prednisone mỗi ngày (hoặc liều tương đương của corticosteroid khác) trong > 3 tuần trong năm. Liều lượng corticosteroid áp dụng theo kinh nghiệm cũng thường được đưa ra khi chưa rõ liều lượng và thời gian điều trị corticosteroid.Các loại thuốc khác để điều trị các bệnh mạn tínhHầu hết các loại thuốc dùng để kiểm soát các bệnh mạn tính, đặc biệt là thuốc tim mạch (bao gồm cả thuốc hạ huyết áp), nên được tiếp tục trong suốt thời gian chu phẫu. Hầu hết các loại thuốc uống có thể được uống cùng với một ngụm nước nhỏ vào ngày phẫu thuật. Các loại thuốc khác có thể phải được cho dùng theo đường tiêm truyền hoặc trì hoãn cho đến sau phẫu thuật. Nồng độ thuốc chống co giật nên đo trước phẫu thuật ở những bệnh nhân động kinh.Bệnh tiểu đườngVào ngày phẫu thuật, bệnh nhân có bệnh tiểu đường phụ thuộcinsulinthường được cho một phần ba liều insulin thông thường vào buổi sáng. Bệnh nhân dùng thuốc uống được cho dùng một nửa liều thông thường. Nếu có thể, phẫu thuật được thực hiện sớm trong ngày. Bác sĩ gây mê theo dõi nồng độ glucose trong quá trình phẫu thuật và cho dùng thêminsulinhoặc dextrose nếu cần. Theo dõi chặt chẽ bằng test thử đường máu vẫn tiếp tục trong suốt thời gian phẫu thuật. Ngay sau mổ, insulin tiêm theo bậc thang giảm dần. Phác đồinsulintại nhà thông thường sẽ không được bắt đầu lại cho đến khi bệnh nhân tiếp tục chế độ ăn uống bình thường. Thuốc hạ đường huyết đường uống thường được sử dụng lại khi bệnh nhân xuất viện.Bệnh timBệnh nhân có bệnh động mạch vành hoặc bệnh suy tim nên được đánh giá trước mổ vàphân tầng nguy cơbởi bác sĩ tim mạch. Nếu bệnh nhân không nhớ bệnh của mình, bệnh nhân nên cần các test bổ sung trước khi phẫu thuật theo lịch.Bệnh lý phổiCác xét nghiệm chức năng phổitrước phẫu thuậtcó thể giúp định lượng mức độ của bệnh đường thở tắc nghẽn, hạn chế hoặc phản ứng. Chức năng phổi nên được tối ưu hóa bằng cách điều chỉnh cẩn thận việc sử dụng và liều lượng thuốc hít, các loại thuốc khác và kỹ thuật làm khai thông đường thở.Sử dụng chất gây nghiệnBệnh nhân hút thuốc lá nên ngừng hút thuốc càng sớm càng tốt trước bất kỳ thủ thuật nào liên quan đến ngực hoặc bụng. Một vài tuần ngừng hút thuốc là cần thiết để phục hồi. Một máy đo chức năng hô hấp nên được sử dụng trước và sau phẫu thuật.Đối với bệnh nhân thường xuyên sử dụng cannabinoids hoặc sử dụng nhiều,hướng dẫn của Hiệp hội Gây tê vùng và Đau Hoa Kỳkhuyến nghị tư vấn về các nguy cơ tiềm ẩn (ví dụ: tăng buồn nôn và nôn sau phẫu thuật, nhồi máu cơ tim) tiếp tục sử dụng trong giai đoạn chu phẫu, trì hoãn phẫu thuật theo lịch đã chọn ở những bệnh nhân có tình trạng tâm thần thay đổi hoặc suy giảm khả năng ra quyết định do ngộ độc cần sa cấp tính, và trì hoãn phẫu thuật không cấp cứu trong tối thiểu 2 giờ sau khi hút thuốc hoặc uống cần sa vì tăng nguy cơ nhồi máu cơ tim (8).Những bệnh nhân phụ thuộc vào ma túy hoặc rượu bất hợp pháp có thể bị hội chứng cai trong giai đoạn chu phẫu. Bệnh nhân bịrối loạn sử dụng rượunên được dùng thuốc benzodiazepin dự phòng (ví dụ: chlordiazepoxide, diazepam, lorazepam) ngay từ khi nhập viện. Bệnh nhân bịrối loạn sử dụng opioidcó thể được dùng thuốc giảm đau opioid để ngăn ngừa hội chứng cai; để giảm đau, họ có thể cần liều lượng lớn hơn so với những bệnh nhân không nghiện. Hiếm khi, những người mắc chứng rối loạn sử dụng opioid cần dùng methadone để ngăn chặn tình trạng cai nghiện trong giai đoạn chu phẫu.Tài liệu tham khảo1.Fleisher LA, Fleischmann KE, Auerbach AD, et al: 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: A report of the American College of Cardiology/American Heart Association Task Force on practice guidelines.J Am Coll Cardiol64(22):e77-e137, 2014. doi:10.1016/j.jacc.2014.07.9442.Douketis JD, Healey JS, Brueckmann M, et al: Perioperative bridging anticoagulation duringdabigatranorwarfarininterruption among patients who had an elective surgery or procedure. Substudy of the RE-LY trial.Thromb Haemost113(3):625-632, 2015. doi:10.1160/TH14-04-03053.Schulman S, Carrier M, Lee AY, et al: Perioperative management ofdabigatran: a prospective cohort study.Circulation132(3):167-173, 2015. doi:10.1161/CIRCULATIONAHA.115.0156884.Pollack CV Jr, Reilly PA, van Ryn J, et al:Idarucizumabfordabigatranreversal - full cohort analysis.N Engl J Med377(5):431-441, 2017. doi:10.1056/NEJMoa17072785.Keeling D, Baglin T, Tait C, et al: Guidelines on oral anticoagulation withwarfarin- fourth edition.Br J Haematol154(3):311-324, 2011. doi:10.1111/j.1365-2141.2011.08753.x6.Kuo HC, Liu FL, Chen JT, et al: Thromboembolic and bleeding risk of periprocedural bridging anticoagulation: A systematic review and meta-analysis.Clin Cardiol43(5):441-449, 2020. doi:10.1002/clc.233367.Douketis JD, Spyropoulos AC, Kaatz S, et al: Perioperative bridging anticoagulation in patients with atrial fibrillation.N Engl J Med373(9):823-833, 2015. doi:10.1056/NEJMoa15010358.Goel A, McGuinness B, Jivraj NK, et al: Cannabis use disorder and perioperative outcomes in major elective surgeries: a retrospective cohort analysis.Anesthesiology132(4):625-635, 2020. doi:10.1097/ALN.0000000000003067
+
+--- 2. Chuẩn bị vào ngày phẫu thuật ---
+
+Dự án Cải thiện Chăm sóc Phẫu thuật (SCIP) ở Hoa Kỳ là một dự án thực hiện các biện pháp để giảm tỷ lệ mắc bệnh và tử vong sau phẫu thuật. Các hướng dẫn SCIP đã được thông qua và xuất bản trongCẩm nang Thông số kỹ thuật cho các Biện pháp cốt lõi về Chất lượng Quốc gia của Ủy ban Liên Hợp Quốc(Cẩm nang Thông số kỹ thuật).Các khuyến nghị chung của SCIP như sau:Đảm bảo kiểm soát đường huyết sau phẫu thuật lúc 6 giờ sáng ở bệnh nhân phẫu thuật tim.Sử dụng máy cắt hoặc dao cạo, chứ không phải lưỡi dao để cạo lông nơi phẫu thuật trước khi mổ.Rút ống thông tiểu trong hai ngày đầu sau khi phẫu thuật trừ khi được yêu cầu để lại bởi các tình huống lâm sàng cụ thể.Tiêu chuẩn hóa các lựa chọn kháng sinh dựa trên loại phẫu thuật và các yếu tố bệnh nhân (xemSổ tay hướng dẫn kỹ thuật: Lựa chọn phác đồ kháng sinh dự phòng cho phẫu thuậtvà cũng xemBảng Phạm vi sử dụng kháng sinh cho một số thủ tục phẫu thuật).Ăn uống và chuẩn bị ruộtCác khuyến nghị của Hiệp hội Bác sĩ gây mê Hoa Kỳ (ASA) liên quan đến việc ăn uống như sau (1):8 giờ trước phẫu thuật: Ngừng ăn thịt hoặc thực phẩm chiên hoặc béo6 giờ: Hạn chế ăn vào bữa ăn nhẹ (ví dụ: bánh mì nướng và đồ lỏng trong), sau đó chỉ cho phép đồ lỏng trong2 giờ: Ngừng tất cả các thức ăn uống, bao gồm thức ăn, đồ lỏng và thuốcĐối với một số thủ thuật tiêu hóa nhất định, phải bắt đầu dùng thuốc thụt rửa hoặc các chế phẩm kháng sinh đường uống từ 1 đến 2 ngày trước khi phẫu thuật.Danh sách kiểm tra trước phẫu thuậtTại Hoa Kỳ,Quy trình chung của Ủy ban Hỗn hợpđưa ra hướng dẫn trước khi làm thủ thuật cho phòng mổ đã được phát triển với mục tiêu ngăn ngừa các sai sót trongi phẫu thuật liên quan đến sai bệnh nhân, sai thủ thuật hoặc sai một phần của cơ thể. Một phần của quy trình là sắp xếp thời gian chờ trước thủ thuật, trong đó nhóm xác nhận một số yếu tố quan trọng:Nhận dạng bệnh nhânXác minh thủ thuật và vị trí chính xác cũng như mặt của vị trí phẫu thuậtCó sẵn tất cả các thiết bị cần thiếtXác minh việc sử dụng thuốc dự phòng được chỉ định (ví dụ, thuốc kháng sinh, thuốc chống đông máu, thuốc chẹn beta)Tài liệu tham khảo về chuẩn bị vào ngày phẫu thuật1.Practice Guidelines for Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration: Application to Healthy Patients Undergoing Elective Procedures: An Updated Report by the American Society of Anesthesiologists Task Force on Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration. Anesthesiology. 2017;126(3):376-393. doi:10.1097/ALN.0000000000001452

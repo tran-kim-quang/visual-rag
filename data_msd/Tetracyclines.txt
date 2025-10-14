@@ -1,0 +1,423 @@
+TIÊU ĐỀ: Tetracyclines
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/tetracyclines
+================================================================================
+
+NỘI DUNG:
+
+Tetracyclines
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1004743_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Tetracyclines là
+
+kháng sinh
+
+kìm khuẩn liên kết với tiểu đơn vị 30S của ribosome, do đó ức chế sự tổng hợp protein của vi khuẩn. Các tetracycline đặc hiệu là
+
+Doxycycline
+
+Eravacycline (chỉ tiêm tĩnh mạch)
+
+Minocycline
+
+Omadacycline (aminomethylcycline)
+
+Tetracycline
+
+Dược động học của nhóm Tetracycline
+
+Khoảng 60-80% tetracycline và
+
+≥
+
+90% doxycycline và minocycline được hấp thu sau khi uống. Tuy nhiên, sự hấp thụ được giảm bởi cation kim loại (ví dụ nhôm, Ca, Mg, sắt); do đó, tetracyclines không thể dùng với các chế phẩm có chứa các chất này (ví dụ, thuốc kháng acid,các thuốc bổ sung vitamin và khoáng chất).
+
+Tetracycline
+
+và omadacycline nên uống với nhiều nước khi đói. Thức ăn cũng làm giảm sự hấp thu của các tetracycline khác, nhưng tác dụng này ít đáng kể hơn đối với
+
+doxycycline
+
+và
+
+minocycline
+
+.
+
+Tetracyclines xâm nhập vào hầu hết các mô cơ thể và chất lỏng. Tất cả đều tập trung trong mật không bị tắc nghẽn. Tuy nhiên, nồng độ trong dịch não tuỷ không cao. Minocycline là tetracycline duy nhất có nồng độ cao trong nước mắt và nước bọt.
+
+Tetracycline
+
+và
+
+minocycline
+
+được thải trừ chủ yếu qua nước tiểu. Doxycycline, eravacycline và omadacycline được bài tiết chủ yếu qua đường ruột.
+
+Chỉ định cho Tetracyclines
+
+Tetracyclines có hoạt tính chống lại những nhiễm trùng do:
+
+Rickettsiae
+
+Spirochetes (ví dụ,
+
+Treponema pallidum
+
+,
+
+Borrelia burgdorferi
+
+)
+
+Helicobacter pylori
+
+Chủng
+
+Vibrio
+
+Yersinia pestis
+
+Francisella tularensis
+
+Brucella
+
+sp
+
+Bacillus anthracis
+
+Plasmodium vivax
+
+Plasmodium falciparum
+
+Các loài
+
+Mycoplasma
+
+Các loài
+
+Chlamydia
+
+và
+
+Chlamydophila
+
+Một số
+
+tụ cầu vàng kháng methicillin
+
+Khoảng 5 đến 10% chủng phế cầu và nhiều nhóm liên cầu tan huyết A β, nhiều trực khuẩn gram âm đường tiết niệu và lậu cầu sinh penicillinase là kháng.
+
+Tetracyclines có thể hoán đổi cho hầu hết các chỉ định, mặc dù minocycline đã được nghiên cứu nhiều nhất về
+
+S. aureus
+
+kháng methicillin.
+
+Doxycycline thường được ưa thích
+
+cho tất cả những chỉ định sau đây bởi vì nó được dung nạp tốt hơn và có thể được dùng 2 lần/ngày:
+
+Nhiễm trùng do các loài
+
+rickettsiae
+
+hoặc
+
+Anaplasma
+
+,
+
+Chlamydia
+
+,
+
+Chlamydophila
+
+,
+
+Ehrlichia
+
+,
+
+Mycoplasma
+
+, hoặc
+
+Vibrio
+
+Viêm phế quản mạn tính
+
+cấp
+
+Bệnh Lyme
+
+Brucellosis
+
+Anthrax
+
+Dịch hạch
+
+Tularemia
+
+U lympho bướu cổ
+
+Bệnh giang mai
+
+Dự phòng
+
+sốt rét
+
+do
+
+P. falciparum
+
+kháng
+
+chloroquine
+
+Chống chỉ định với Tetracyclines
+
+Tetracycline bị chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với các thuốc này.
+
+Việc sử dụng đã bị hạn chế ở trẻ em < 8 tuổi do lo ngại về việc nhuộm màu răng, nhưng điều này không được chứng minh trong các nghiên cứu lâm sàng khi sử dụng doxycycline trong thời gian ngắn. Do đó, hầu hết các chuyên gia hiện nay xem xét việc sử dụng
+
+doxycycline
+
+ngắn hạn (< 21 ngày) có thể chấp nhận được cho mọi lứa tuổi (
+
+1
+
+). Một nghiên cứu trên trẻ em < 8 tuổi được điều trị bằng
+
+doxycycline
+
+trong thời gian ngắn vì nghi ngờ
+
+sốt phát ban Rocky Mountain
+
+không tìm thấy bằng chứng về nhuộm màu răng hoặc khiếm khuyết men răng so với trẻ không dùng
+
+doxycycline
+
+(
+
+2
+
+,
+
+3
+
+).
+
+Tham khảo chống chỉ định
+
+1.
+
+Stultz JS, Eiland LS
+
+:
+
+Doxycycline
+
+and Tooth Discoloration in Children: Changing of Recommendations Based on Evidence of Safety.
+
+Ann Pharmacother
+
+53(11):1162-1166, 2019 doi: 10.1177/1060028019863796
+
+2.
+
+Todd SR, Dahlgren FS, Traeger MS, et al
+
+: No visible dental staining in children treated with
+
+doxycycline
+
+for suspected Rocky Mountain spotted fever.
+
+J Pediatr
+
+166(5):1246–1251, 2015. doi: 10.1016/j.jpeds.2015.02.015
+
+3.
+
+Centers for Disease Control and Prevention (CDC)
+
+: Research on
+
+doxycycline
+
+and tooth staining. Truy cập ngày 20 tháng 2 năm 2024.
+
+Sử dụng nhóm Tetracycline trong thời kỳ mang thai và cho con bú
+
+Tránh sử dụng nhóm Tetracycline trong thai kỳ vì nguy cơ tích tụ trong xương và răng của thai nhi; tuy nhiên, các đợt điều trị ngắn ngày doxycycline (≤ 10 ngày) dường như không làm tăng nguy cơ đổi màu răng. Tuy nhiên, phụ nữ mang thai và cho con bú nên tránh dùng tetracycline khi có các lựa chọn thay thế an toàn hơn.
+
+Nhiễm độc gan có thể xảy ra ở phụ nữ có thai, đặc biệt sau khi dùng đường tĩnh mạch và ở những người bị thiếu máu hoặc viêm gan cấp. Dùng liều cao trong thời gian mang thai có thể dẫn đến gan nhiễm mỡ có thể gây tử vong.
+
+Các tác dụng bất lợi của tetracycline bao gồm
+
+Các tác dụng phụ của tetracycline bao gồm
+
+Rối loạn đường tiêu hóa
+
+Nhiễm nấm Candida
+
+Mẫn cảm với ánh sáng
+
+Ảnh hưởng xương và răng ở trẻ em
+
+Gan nhiễm mỡ
+
+Rối loạn chức năng tiền đình (với minocycline)
+
+Tất cả các tetracycline đường uống đều gây buồn nôn, nôn, tiêu chảy và có thể gây bội nhiễm nấm candida. Nếu không uống cùng nước teracyclines có thể gây tổn thương thực quản.
+
+Mẫn cảm với ánh sáng do tetracyclines có thể như phản ứng cháy nắng.
+
+Các ảnh hưởng đến xương và răng bao gồm nhuộm răng (không quan sát thấy khi sử dụng doxycycline trong thời gian ngắn; xem
+
+Chống chỉ định
+
+), giảm sản men răng và tăng trưởng xương bất thường ở trẻ em < 8 tuổi. Ở trẻ sơ sinh, tetracyclines có thể gây tăng huyết áp trong cơ thể tự phát và phồng thóp.
+
+Nồng độ trong máu quá cao do sử dụng liều cao hoặc suy thận có thể dẫn đến gan thoái hoá mỡ cấp, đặc biệt là trong thai kì.
+
+Minocycline thường gây ra rối loạn chức năng tiền đình, hạn chế việc sử dụng nó. Việc sử dụng
+
+minocycline
+
+có liên quan đến sự phát sinh các bệnh tự miễn như là bệnh lupus ban đỏ hệ thống và viêm nút quanh động mạch, có thể hồi phục được.
+
+Minocycline
+
+cũng có thể gây phản ứng thuốc với tăng bạch cầu ái toan và các triệu chứng toàn thân (DRESS), đặc trưng bởi sốt, phát ban, nổi hạch, viêm gan, tăng bạch cầu lympho không điển hình, tăng bạch cầu ái toan và giảm tiểu cầu.
+
+Tetracycline (trừ
+
+doxycycline
+
+) có thể làm trầm trọng thêm tình trạng tăng nitơ huyết, tăng phosphat máu và nhiễm toan chuyển hóa ở bệnh nhân suy thận. Mặc dù
+
+doxycycline
+
+có nhiều đặc tính trao đổi chất của nhóm tetracycline, nhưng thuốc thường không gây ra nồng độ độc trong máu do đường thải trừ ngoài thận.
+
+Viên thuốc
+
+tetracycline
+
+hết hạn có thể bị thoái giáng và nếu nuốt phải sẽ gây ra
+
+hội chứng Fanconi
+
+. Bệnh nhân cần phải được hướng dẫn loại bỏ thuốc kháng sinh khi hết hạn sử dụng.
+
+Cân nhắc về liều lượng đối với Tetracycline
+
+Doxycycline, eravacycline, và omadacycline được bài tiết chủ yếu ở đường ruột và không cần giảm liều trong suy thận, trong khi tetracycline và minocycline cần điều chỉnh liều ở bệnh nhân suy giảm chức năng thận.
+
+Tetracyclines có thể làm giảm hiệu quả của thuốc ngừa thai uống và làm tăng tác dụng của thuốc chống đông đường uống.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học của nhóm Tetracycline ---
+
+Khoảng 60-80% tetracycline và≥90% doxycycline và minocycline được hấp thu sau khi uống. Tuy nhiên, sự hấp thụ được giảm bởi cation kim loại (ví dụ nhôm, Ca, Mg, sắt); do đó, tetracyclines không thể dùng với các chế phẩm có chứa các chất này (ví dụ, thuốc kháng acid,các thuốc bổ sung vitamin và khoáng chất).Tetracyclinevà omadacycline nên uống với nhiều nước khi đói. Thức ăn cũng làm giảm sự hấp thu của các tetracycline khác, nhưng tác dụng này ít đáng kể hơn đối vớidoxycyclinevàminocycline.Tetracyclines xâm nhập vào hầu hết các mô cơ thể và chất lỏng. Tất cả đều tập trung trong mật không bị tắc nghẽn. Tuy nhiên, nồng độ trong dịch não tuỷ không cao. Minocycline là tetracycline duy nhất có nồng độ cao trong nước mắt và nước bọt.Tetracyclinevàminocyclineđược thải trừ chủ yếu qua nước tiểu. Doxycycline, eravacycline và omadacycline được bài tiết chủ yếu qua đường ruột.
+
+--- 2. Chỉ định cho Tetracyclines ---
+
+Tetracyclines có hoạt tính chống lại những nhiễm trùng do:RickettsiaeSpirochetes (ví dụ,Treponema pallidum,Borrelia burgdorferi)Helicobacter pyloriChủngVibrioYersinia pestisFrancisella tularensisBrucellaspBacillus anthracisPlasmodium vivaxPlasmodium falciparumCác loàiMycoplasmaCác loàiChlamydiavàChlamydophilaMột sốtụ cầu vàng kháng methicillinKhoảng 5 đến 10% chủng phế cầu và nhiều nhóm liên cầu tan huyết A β, nhiều trực khuẩn gram âm đường tiết niệu và lậu cầu sinh penicillinase là kháng.Tetracyclines có thể hoán đổi cho hầu hết các chỉ định, mặc dù minocycline đã được nghiên cứu nhiều nhất vềS. aureuskháng methicillin.Doxycycline thường được ưa thíchcho tất cả những chỉ định sau đây bởi vì nó được dung nạp tốt hơn và có thể được dùng 2 lần/ngày:Nhiễm trùng do các loàirickettsiaehoặcAnaplasma,Chlamydia,Chlamydophila,Ehrlichia,Mycoplasma, hoặcVibrioViêm phế quản mạn tínhcấpBệnh LymeBrucellosisAnthraxDịch hạchTularemiaU lympho bướu cổBệnh giang maiDự phòngsốt rétdoP. falciparumkhángchloroquine
+
+--- 3. Chống chỉ định với Tetracyclines ---
+
+Tetracycline bị chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với các thuốc này.Việc sử dụng đã bị hạn chế ở trẻ em < 8 tuổi do lo ngại về việc nhuộm màu răng, nhưng điều này không được chứng minh trong các nghiên cứu lâm sàng khi sử dụng doxycycline trong thời gian ngắn. Do đó, hầu hết các chuyên gia hiện nay xem xét việc sử dụngdoxycyclinengắn hạn (< 21 ngày) có thể chấp nhận được cho mọi lứa tuổi (1). Một nghiên cứu trên trẻ em < 8 tuổi được điều trị bằngdoxycyclinetrong thời gian ngắn vì nghi ngờsốt phát ban Rocky Mountainkhông tìm thấy bằng chứng về nhuộm màu răng hoặc khiếm khuyết men răng so với trẻ không dùngdoxycycline(2,3).Tham khảo chống chỉ định1.Stultz JS, Eiland LS:Doxycyclineand Tooth Discoloration in Children: Changing of Recommendations Based on Evidence of Safety.Ann Pharmacother53(11):1162-1166, 2019 doi: 10.1177/10600280198637962.Todd SR, Dahlgren FS, Traeger MS, et al: No visible dental staining in children treated withdoxycyclinefor suspected Rocky Mountain spotted fever.J Pediatr166(5):1246–1251, 2015. doi: 10.1016/j.jpeds.2015.02.0153.Centers for Disease Control and Prevention (CDC): Research ondoxycyclineand tooth staining. Truy cập ngày 20 tháng 2 năm 2024.
+
+--- 4. Sử dụng nhóm Tetracycline trong thời kỳ mang thai và cho con bú ---
+
+Tránh sử dụng nhóm Tetracycline trong thai kỳ vì nguy cơ tích tụ trong xương và răng của thai nhi; tuy nhiên, các đợt điều trị ngắn ngày doxycycline (≤ 10 ngày) dường như không làm tăng nguy cơ đổi màu răng. Tuy nhiên, phụ nữ mang thai và cho con bú nên tránh dùng tetracycline khi có các lựa chọn thay thế an toàn hơn.Nhiễm độc gan có thể xảy ra ở phụ nữ có thai, đặc biệt sau khi dùng đường tĩnh mạch và ở những người bị thiếu máu hoặc viêm gan cấp. Dùng liều cao trong thời gian mang thai có thể dẫn đến gan nhiễm mỡ có thể gây tử vong.
+
+--- 5. Các tác dụng bất lợi của tetracycline bao gồm ---
+
+Các tác dụng phụ của tetracycline bao gồmRối loạn đường tiêu hóaNhiễm nấm CandidaMẫn cảm với ánh sángẢnh hưởng xương và răng ở trẻ emGan nhiễm mỡRối loạn chức năng tiền đình (với minocycline)Tất cả các tetracycline đường uống đều gây buồn nôn, nôn, tiêu chảy và có thể gây bội nhiễm nấm candida. Nếu không uống cùng nước teracyclines có thể gây tổn thương thực quản.Mẫn cảm với ánh sáng do tetracyclines có thể như phản ứng cháy nắng.Các ảnh hưởng đến xương và răng bao gồm nhuộm răng (không quan sát thấy khi sử dụng doxycycline trong thời gian ngắn; xemChống chỉ định), giảm sản men răng và tăng trưởng xương bất thường ở trẻ em < 8 tuổi. Ở trẻ sơ sinh, tetracyclines có thể gây tăng huyết áp trong cơ thể tự phát và phồng thóp.Nồng độ trong máu quá cao do sử dụng liều cao hoặc suy thận có thể dẫn đến gan thoái hoá mỡ cấp, đặc biệt là trong thai kì.Minocycline thường gây ra rối loạn chức năng tiền đình, hạn chế việc sử dụng nó. Việc sử dụngminocyclinecó liên quan đến sự phát sinh các bệnh tự miễn như là bệnh lupus ban đỏ hệ thống và viêm nút quanh động mạch, có thể hồi phục được.Minocyclinecũng có thể gây phản ứng thuốc với tăng bạch cầu ái toan và các triệu chứng toàn thân (DRESS), đặc trưng bởi sốt, phát ban, nổi hạch, viêm gan, tăng bạch cầu lympho không điển hình, tăng bạch cầu ái toan và giảm tiểu cầu.Tetracycline (trừdoxycycline) có thể làm trầm trọng thêm tình trạng tăng nitơ huyết, tăng phosphat máu và nhiễm toan chuyển hóa ở bệnh nhân suy thận. Mặc dùdoxycyclinecó nhiều đặc tính trao đổi chất của nhóm tetracycline, nhưng thuốc thường không gây ra nồng độ độc trong máu do đường thải trừ ngoài thận.Viên thuốctetracyclinehết hạn có thể bị thoái giáng và nếu nuốt phải sẽ gây rahội chứng Fanconi. Bệnh nhân cần phải được hướng dẫn loại bỏ thuốc kháng sinh khi hết hạn sử dụng.
+
+--- 6. Cân nhắc về liều lượng đối với Tetracycline ---
+
+Doxycycline, eravacycline, và omadacycline được bài tiết chủ yếu ở đường ruột và không cần giảm liều trong suy thận, trong khi tetracycline và minocycline cần điều chỉnh liều ở bệnh nhân suy giảm chức năng thận.Tetracyclines có thể làm giảm hiệu quả của thuốc ngừa thai uống và làm tăng tác dụng của thuốc chống đông đường uống.

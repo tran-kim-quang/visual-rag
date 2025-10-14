@@ -1,0 +1,1609 @@
+TIÊU ĐỀ: Phương pháp tiếp cận với nhiễm ký sinh trùng
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/phương-pháp-tiếp-cận-với-nhiễm-ký-sinh-trùng/phương-pháp-tiếp-cận-với-nhiễm-ký-sinh-trùng
+================================================================================
+
+NỘI DUNG:
+
+Phương pháp tiếp cận với nhiễm ký sinh trùng
+
+Theo
+
+Chelsea Marie
+
+,
+
+PhD
+
+,
+
+University of Virginia;
+
+William A. Petri, Jr
+
+,
+
+MD, PhD
+
+,
+
+University of Virginia School of Medicine
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1012867_vi
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Thông tin thêm
+
+|
+
+Ký sinh trùng ở người là sinh vật ký sinh trên người và nhận được chất dinh dưỡng từ người (vật chủ của nó).
+
+Có 3 loài ký sinh trùng:
+
+Sinh vật đơn bào (động vật nguyên sinh và microsporidia)
+
+Giun sán đa bào (giun, bao gồm giun tròn, sán dây và sán lá)
+
+Ngoại ký sinh trùng (ví dụ: ghẻ, chấy)
+
+Nhiễm trùng ký sinh trùng do động vật nguyên sinh và giun sán gây ra tỷ lệ mắc bệnh và tử vong đáng kể trên toàn thế giới (
+
+1
+
+). Nhiễm trùng ký sinh trùng rất phổ biến ở Trung và Nam Mỹ, Châu Phi và Châu Á. Bệnh ít phổ biến hơn ở Úc, Canada, Châu Âu, Nhật Bản, New Zealand và Hoa Kỳ. Cho đến nay, tác động lớn nhất là đối với cư dân ở các vùng nhiệt đới có nguồn tài nguyên hạn chế và điều kiện vệ sinh kém. Tuy nhiên, nhiễm trùng ký sinh trùng vẫn phát triển ở các quốc gia có nhiều nguồn lực với điều kiện vệ sinh đầy đủ ở những người nhập cư và du khách trở về từ các vùng lưu hành bệnh và đôi khi ở những cư dân chưa từng đi du lịch, đặc biệt là những người bị nhiễm HIV hoặc các tình trạng khác gây suy giảm miễn dịch.
+
+Một số ký sinh trùng thích nghi với việc sống trong lòng ruột hoặc âm đạo nơi có điều kiện kỵ khí; một số khác cư trú trong máu hoặc mô của nhiều cơ quan khác nhau nơi có điều kiện hiếu khí.
+
+Nhiều bệnh nhiễm ký sinh trùng đường ruột lây lan qua đường phân-miệng (ăn phải thức ăn hoặc nước bị nhiễm phân). Bệnh thường xuyên xảy ra nhất ở những nơi điều kiện vệ sinh và môi trường kém. Một số ký sinh trùng, chẳng hạn như
+
+giun móc
+
+, có thể xâm nhập vào da khi tiếp xúc với đất bị ô nhiễm hoặc, trong trường hợp
+
+sán máng
+
+, với nước ngọt bị ô nhiễm. Một số bệnh nhiễm ký sinh trùng, chẳng hạn như
+
+bệnh sốt rét
+
+, được truyền qua vector động vật chân đốt và những bệnh khác, chẳng hạn như
+
+bệnh do trichomonas
+
+, lây truyền qua đường tình dục. Trong một số trường hợp hiếm gặp, ký sinh trùng lây truyền qua truyền máu, dùng chung kim tiêm hoặc từ mẹ sang thai nhi.
+
+Một số loại ký sinh trùng chỉ lưu hành ở Hoa Kỳ và các quốc gia có nhiều nguồn lực khác. Các ví dụ bao gồm
+
+Trichomonas vaginalis
+
+,
+
+Toxoplasma gondii
+
+và các ký sinh trùng đường ruột như
+
+Giardia intestinalis
+
+(còn được gọi là
+
+G. duodenalis
+
+hoặc
+
+G. lamblia
+
+), các loài
+
+Cryptosporidium
+
+và
+
+Enterobius vermicularis
+
+(giun kim) (
+
+2
+
+).
+
+Các đặc điểm của nhiễm trùng do động vật nguyên sinh, vi bào tử, giun sán và ký sinh trùng ngoài cơ thể khác nhau theo nhiều cách quan trọng.
+
+Động vật đơn bào
+
+Động vật nguyên sinh là những sinh vật đơn bào sinh sôi bằng cách phân chia nhị phân đơn giản (xem
+
+Tổng quan về Amip sống tự do
+
+và
+
+Tổng quan về bệnh nhiễm trùng do động vật nguyên sinh đường ruột và bệnh nhiễm trùng do vi bào tử
+
+). Động vật đơn bào có thể nhân lên trong vật chủ và tăng nhanh số lượng gây ra tình trạng nhiễm nặng.
+
+Ngoại trừ một số trường hợp hiếm gặp, chẳng hạn như loài
+
+Isospora
+
+, nhiễm trùng động vật nguyên sinh không gây ra tình trạng
+
+tăng bạch cầu ái toan
+
+.
+
+Microsporidia
+
+Microsporidia
+
+là sinh vật hình thành bào tử nội bào từng được phân loại là động vật nguyên sinh, nhưng phân tích di truyền cho thấy chúng là nấm hoặc có quan hệ họ hàng gần với nấm.
+
+Bệnh ở người chủ yếu giới hạn ở những người bị nhiễm HIV hoặc một tình trạng suy giảm miễn dịch khác.
+
+Các biểu hiện lâm sàng phụ thuộc vào loài lây nhiễm và bao gồm viêm dạ dày ruột, mắt hoặc nhiễm trùng lan tỏa.
+
+Giun sán
+
+Giun sán là sinh vật đa bào và có hệ thống cơ quan phức tạp.
+
+Giun sán có thể phân chia thành
+
+Giun tròn
+
+Sán dẹp (Platyhelminthes), bao gồm sán dây (
+
+sán dây
+
+) và sán lá (
+
+trematodes
+
+)
+
+Ngược lại với động vật nguyên sinh, giun sán thường không sinh sôi trong cơ thể người nhưng có thể gây ra phản ứng tăng bạch cầu ái toan khi chúng di chuyển qua mô. Hầu hết các loài giun sán có chu kỳ vòng đời phức tạp, liên quan thời gian tồn tại bên ngoài con người. Một vài ký sinh trùng, gồm
+
+Strongyloides stercoralis
+
+,
+
+Capillaria philippinensis
+
+, và
+
+Hymenolepis nana
+
+, có thể tăng về số lượng do chu trình tự nhiễm (con non gây bệnh trên cùng một vật chủ không phải bài xuất ra ngoài môi trường gây bệnh cho vật chủ khác). Trong
+
+bệnh giun lươn
+
+, tình trạng nhiễm trùng tự miễn có thể dẫn đến nhiễm trùng lan tỏa, đe dọa tính mạng ở những người bị suy giảm miễn dịch, đặc biệt là những người dùng corticosteroid (vì thuốc này tiêu diệt bạch cầu ái toan, là tế bào tham gia trực tiếp vào đáp ứng miễn dịch chống giun sán) hoặc các thuốc ức chế miễn dịch khác, hoặc ở những người được ghép tế bào gốc tạo máu.
+
+Mức độ nặng của bệnh nhiễm giun sán thường tương quan với gánh nặng giun sán, nhưng cũng có những trường hợp ngoại lệ, ví dụ: khi một con
+
+giun đũa
+
+trưởng thành gây ra
+
+bệnh viêm tụy cấp
+
+đe dọa tính mạng bằng cách di chuyển vào ống tụy và làm tắc ống tụy. Gánh nặng giun sán phụ thuộc vào mức độ tiếp xúc với môi trường, các yếu tố ký sinh trùng và đáp ứng miễn dịch của vật chủ. Nếu người bị nhiễm bệnh di chuyển ra khỏi khu vực lưu hành bệnh, số lượng giun trưởng thành sẽ giảm dần theo thời gian do không có tái phơi nhiễm thường xuyên. Mặc dù một số loài giun sán (ví dụ:
+
+Clonorchis sinensis
+
+) có thể sống sót trong cơ thể người trong nhiều thập kỷ, nhưng nhiều loài chỉ có tuổi thọ vài năm hoặc ít hơn.
+
+Giun tròn
+
+là loài giun hình trụ không phân đốt, có chiều dài từ 1 mm đến 1 m. Giun tròn cấu tạo một khoang cơ thể, đây là đặc điểm phân biệt với sán dây và sán lá. Tùy thuộc vào từng loài khác nhau, có giai đoạn khác nhau trong vòng đời mà gây bệnh cho con người. Hàng trăm triệu người bị nhiễm giun tròn sống trong ruột và lây truyền qua trứng hoặc ấu trùng trong phân; phổ biến nhất là
+
+Ascaris
+
+(
+
+bệnh giun đũa
+
+),
+
+Enterobius vermicularis
+
+(
+
+giun kim
+
+),
+
+giun móc
+
+,
+
+Trichuris
+
+(
+
+bệnh giun tóc
+
+) và
+
+Strongyloides
+
+(
+
+bệnh giun lươn
+
+).
+
+Giun dẹp
+
+(
+
+sán dây
+
+) trưởng thành là sán dẹt nhiều đốt không có ống tiêu hóa và hấp thụ dinh dưỡng trực tiếp từ ruột non của vật chủ. Trong hệ tiêu hóa của vật chủ, sán dây trưởng thành có thể phát triển lớn hơn và có loài dài đến tận 40m. Các loại sán dây gây nhiễm bệnh cho người bao gồm
+
+Diphyllobothrium latum
+
+(
+
+sán dây lá
+
+),
+
+Taenia saginata
+
+(
+
+sán dây bò
+
+) và
+
+Taenia solium
+
+(
+
+sán dây lợn
+
+).
+
+Trenatodes
+
+(
+
+sán lá
+
+) là sán dẹt không phân đoạn gây tổn thương mạch máu, gan, phổi hoặc đường tiêu hóa. Chiều dài của chúng thường không quá vài cm; tuy nhiên, một số chỉ dài 1 mm và một số dài tới 7 cm. Ở người, hầu hết các bệnh nhiễm trùng do sán lá gan là do loài
+
+Schistosoma
+
+(
+
+bệnh sán máng
+
+); sán lá gan, bao gồm
+
+Fasciola hepatica
+
+(
+
+bệnh sán lá gan lớn
+
+) và
+
+Clonorchis sinensis
+
+(
+
+bệnh sán lá gan nhỏ
+
+); và sán lá phổi, bao gồm một số loài
+
+Paragonimus
+
+(
+
+bệnh sán lá gan nhỏ
+
+).
+
+Ngoại ký sinh trùng
+
+Ngoại ký sinh trùng là các sinh vật sống trên bề mặt bên ngoài của vật chủ và ăn các mô hoặc dịch cơ thể của vật chủ. Chúng sản sinh trứng và đẻ trứng trên hoặc trong da của vật chủ. Ngoại ký sinh trùng bao gồm
+
+chấy
+
+, ve,
+
+ve
+
+,
+
+rệp
+
+và bọ chét.
+
+Chấy,
+
+bao gồm chấy ở đầu (
+
+Pediculus humanus
+
+var.
+
+capitis
+
+), rận trên cơ thể (
+
+P. humanus
+
+var.
+
+corporis
+
+) và rận mu (
+
+Phthirus pubis
+
+) ăn máu. Chúng thường không có triệu chứng nhưng có thể gây ngứa; chúng rất dễ lây.
+
+Bọ ve
+
+ăn máu và truyền các bệnh khác nhau, chẳng hạn như
+
+bệnh Lyme
+
+(loài
+
+Borrelia
+
+, loài
+
+Ixodes
+
+) và
+
+sốt đốm Rocky Mountain
+
+(
+
+Rickettsia rickettsii
+
+).
+
+Ve
+
+là những con côn trùng nhỏ ăn các tế bào da chết. Chúng có thể gây nhiễm ký sinh trùng trên da, chẳng hạn như
+
+bệnh ghẻ
+
+(
+
+Sarcoptes scabiei
+
+) hoặc bệnh lở ghẻ (
+
+Demodex
+
+ghẻ). Do ưa thích môi trường ẩm ướt và ấm áp nên chúng thường được tìm thấy trong nhà, đặc biệt là trong phòng ngủ và các phòng có trải thảm. Chúng chủ yếu có liên quan đến việc làm trầm trọng thêm bệnh viêm mũi dị ứng và hen suyễn ở những người nhạy cảm.
+
+Mạt bụi
+
+có thể gây quá mẫn ở phổi.
+
+Rệp
+
+(
+
+Cimex lectularis
+
+và
+
+C. hemipterus
+
+) là những ngoại ký sinh trùng nhỏ chỉ ăn máu và sống trên bề mặt bên ngoài của vật chủ là người và động vật. Chúng đã trở thành loài ngoại ký sinh trùng phổ biến ở người trên toàn cầu, chủ yếu là do sự gia tăng du lịch quốc tế và sự phát triển của khả năng kháng thuốc trừ sâu. Rệp sử dụng nhiều tín hiệu khác nhau, bao gồm nhiệt độ, carbon dioxide và mùi cơ thể, để xác định vật chủ chính của chúng là con người.
+
+Bọ chét
+
+ăn máu và gây viêm da và các bệnh nhiễm khuẩn thứ phát. Chúng cũng đóng vai trò là các vật trung gian truyền bệnh, bao gồm
+
+bệnh mèo cào
+
+(
+
+Bartonella henselae
+
+),
+
+sốt phát ban do bọ chét
+
+(
+
+Rickettsia typhi
+
+) và
+
+bệnh dịch hạch
+
+(
+
+Yersinia pestis
+
+).
+
+Các vết cắn của bọ chét
+
+có thể gây ngứa và phản ứng dị ứng.
+
+Ngoại ký sinh trùng thường trải qua một vòng đời bao gồm các giai đoạn trứng, ấu trùng và trưởng thành. Vòng đời của chúng có thể thay đổi rất nhiều, một số loài ký sinh ngoài da sinh sản nhanh và ảnh hưởng đến vật chủ trong thời gian ngắn. Chúng thường lây truyền qua tiếp xúc trực tiếp với vật chủ bị nhiễm bệnh hoặc qua môi trường (ví dụ: bọ chét và chấy có xu hướng lây lan dễ dàng trong điều kiện sống đông đúc, ve có thể bám vào vật chủ khi đi qua cỏ hoặc khu vực nhiều cây cối).
+
+Tài liệu tham khảo chung
+
+1.
+
+Torgerson PR, Devleesschauwer B, Praet N, et al
+
+. World Health Organization Estimates of the Global and Regional Disease Burden of 11 Foodborne Parasitic Diseases, 2010: A Data Synthesis.
+
+PLoS Med
+
+. 2015;12(12):e1001920. Xuất bản ngày 3 tháng 12 năm 2015 doi:10.1371/journal.pmed.1001920
+
+2.
+
+Pyzocha N, Cuda A
+
+. Common Intestinal Parasites.
+
+Am Fam Physician
+
+. 2023;108(5):487-493.
+
+Chẩn đoán nhiễm ký sinh trùng
+
+Xét nghiệm bằng kính hiển vi
+
+Xét nghiệm ADN và tìm kháng nguyên
+
+Các phương pháp được sử dụng chẩn đoán đặc hiệu bệnh ký sinh trùng được tóm tắt trong bảng
+
+Thu thập và xử lý bệnh phẩm để chẩn đoán bằng kính hiển vi các bệnh nhiễm ký sinh trùng
+
+.
+
+Bảng
+
+Thu thập và xử lý bệnh phẩm chẩn đoán nhiễm ký sinh trùng bằng kính hiển vi
+
+Bảng
+
+Thu thập và xử lý bệnh phẩm chẩn đoán nhiễm ký sinh trùng bằng kính hiển vi
+
+Thu thập và xử lý bệnh phẩm chẩn đoán nhiễm ký sinh trùng bằng kính hiển vi
+
+Ký sinh trùng
+
+Mẫu bệnh phẩm tốt nhất
+
+Chi tiết mẫu thu thập
+
+Bình luận
+
+Máu
+
+Chủng
+
+Plasmodium
+
+Kỹ thuật làn máu mỏng và giọt máu dày (ví dụ có thể sử dụng lưỡi dao nhỏ trích máu từ đầu nhón tay hoặc dái tai) hoặc 5-10mL máu đã chống đông (tốt nhất là máu đựng ống chứa chất chống đông EDTA)
+
+Thu thập nhiều mẫu trong giai đoạn cấp tính của bệnh.
+
+Chuẩn bị phiến đồ từ máu mao mạch hoặc máu không đông trong vòng 3 giờ sau khi lấy máu.
+
+Sử dụng phương pháp nhuộm Wright hoặc Giemsa.
+
+Đảm bảo lam kính sạch.
+
+Chủng
+
+Babesia
+
+Các phiến đồ giọt đặc và máu đàn như đối với loài
+
+Plasmodium
+
+Lấy máu giống như với chủng
+
+Plasmodium
+
+.
+
+Sử dụng phương pháp nhuộm Wright hoặc Giemsa.
+
+Hình thái học hình nhẫn giống như chủng
+
+Plasmodium
+
+không có sắc tố và giao tử trưởng thành. Bốn loài được chẩn đoán của chủng
+
+Babesia
+
+nhưng không thường gặp.
+
+Tiêu bản giọt đặc có thể khó giải thích và chỉ nên do một chuyên gia kính hiển vi có kinh nghiệm thực hiện. Có thể nhìn thấy hình ảnh "chữ thập Maltese" trên phiến đồ máu.
+
+Giun chỉ
+
+Các phiến đồ giọt đặc và máu đàn từ 1 mL máu chống đông; nếu mẫu bệnh phẩm đầu tiên âm tính, lấy 5–10 mL, cô đặc bằng cách ly tâm hoặc lọc
+
+Microfilariae của
+
+Wuchereria bancrofti
+
+và
+
+Brugia malayi
+
+:
+
+Hút máu từ 10 giờ tối đến 2 giờ sáng.
+
+Giun chỉ
+
+Loa loa
+
+,
+
+Dipetalonema perstans
+
+và
+
+Mansonella ozardi
+
+:
+
+Hút máu trong khoảng thời gian từ 10 giờ sáng đến 6 giờ chiều.
+
+Giun chỉ có tính chu kỳ theo ngày và mẫu bệnh phẩm phải được lấy trong khoảng thời gian cụ thể để tối ưu hóa hiệu suất.
+
+Sử dụng phương pháp nhuộm Giemsa hoặc hematoxylin-eosin trực tiếp hoặc để có độ nhạy cao hơn, sử dụng phương pháp sau khi cô đặc trong formalin 2% (kỹ thuật Knott) hoặc sau khi lọc qua màng nhân.
+
+Chủng
+
+Trypanosoma
+
+Phiến đồ lam mỏng bằng máu mao mạch hoặc 5-6 mL máu chống đông được lấy.
+
+Lấy máu mao mạch hoặc máu đã chống đông. Phết lam kính.
+
+Các kỹ thuật tập trung bệnh phẩm được sử dụng để tăng độ nhạy của chẩn đoán.
+
+Sự vận động của Trypanosoma được quan sát ở trong lam kính ướt, nhuộm Giemsa (hoặc Field) được cố định bệnh phẩm.
+
+Bệnh phẩm từ tủy xương, cơ quan hệ liên võng nội mô khác hoặc dịch não tủy
+
+Leishmania
+
+sp (leishmaniasis nội tạng)
+
+Chọc hút tủy xương, lách, gan hoặc hạch lympho hoặc phiến đồ cô đặc bạch cầu
+
+Phết lam kính.
+
+Sử dụng phương pháp nhuộm Giemsa, Wright - Giemsa hoặc nhuộm HE.
+
+Naegleria
+
+Acanthamoeba
+
+Balamuthia
+
+Dịch não tủy mới lấy
+
+Sử dụng kỹ thuật lấy vô trùng.
+
+Kiểm tra mẫu bệnh phẩm càng sớm càng tốt.
+
+Xét nghiệm bằng kính hiển vi quang học hoặc kính hiển vi tương phản pha.
+
+Ký sinh trùng có thể phát hiện khi quan sát sự chuyển động của chúng, chúng có thể bắt màu hoặc cố định khi nhuộm Giemsa hoặc nuôi cấy.
+
+Trypanosoma brucei rhodesiense
+
+Trypanosoma brucei gambiense
+
+Chọc hút hạch bạch huyết hoặc săng
+
+Dịch não tủy mới lấy
+
+Sử dụng kỹ thuật lấy vô trùng.
+
+Sử dụng soi tươi* để xác định ký sinh trùng di động hoặc cố định và nhuộm bằng thuốc nhuộm Giemsa hoặc Field trước hoặc sau khi cô đặc bằng cách ly tâm.
+
+Hút dịch tá tràng hoặc sinh thiết hỗng tràng
+
+Chủng
+
+Giardia
+
+Chủng
+
+Cryptosporidium
+
+Chủng
+
+Cystoisospora
+
+Chủng
+
+Cyclospora
+
+Microsporidia
+
+Chủng
+
+Strongyloides
+
+Mẫu bệnh phẩm dịch hút tá tràng hoặc sinh thiết hỗng tràng trong quá trình nội soi
+
+Xét nghiệm dịch hút tá tràng ngay sau khi hút, hoặc cố dịnh và nhuộm.
+
+Xét nghiệm mô bệnh học mẫu sinh thiết.
+
+Sử dụng hút ẩm để phát hiện trứng và ấu trùng
+
+Strongyloides
+
+. Có thể sử dụng nhiều bệnh phẩm nhuộm để chẩn đoán (xem phần Phân bên dưới để biết chi tiết).
+
+Kính hiển vi điện tử truyền qua là phương pháp chính để phát hiện và xác định loài microsporidium.
+
+Sinh thiết trực tràng
+
+Schistosoma mansoni
+
+Schistosoma japonicum
+
+Sinh thiết trực tràng từ bóng trực tràng (Houston valve), khoảng 9 cm từ hậu môn
+
+Chuẩn bị cho xét nghiệm mô bệnh học và nghiền nát một đoạn giữa các tiêu bản để tăng độ nhạy.
+
+Phân loại dựa trên hình thái của trứng.
+
+Nội soi đại tràng sigma
+
+Entamoeba histolytica
+
+Cạo sạch bằng thìa nạo hoặc thìa Volkmann, sinh thiết niêm mạc hoặc hút từ tổn thương bằng ống nhỏ giọt 1 mL có bóng cao su (tăm bông có đầu bông không đủ tiêu chuẩn)
+
+Xét nghiệm mẫu ngay hoặc sau khi cố định và nhuộm.
+
+Sử dụng tiêu bản soi tươi hoặc tiêu bản nhuộm cố định (ví dụ: nhuộm trichrome) để phát hiện động vật tư dưỡng và nang. Nên xét nghiệm phân để tìm kháng nguyên hoặc DNA của
+
+E. histolytica
+
+; các xét nghiệm này nhạy hơn và có thể phân biệt được
+
+E. histolytica
+
+với
+
+E. dispar
+
+và các loại amip không gây bệnh khác.
+
+Phân
+
+Chủng
+
+Cryptosporidium
+
+Xét nghiệm trứng và ký sinh trùng trong phân ở nhiều mẫu phân mới thải ra (≥ 3) được thu thập hàng ngày hoặc cách ngày
+
+Làm lạnh và xét nghiệm mẫu phân tươi hoặc bảo quản trong formalin hoặc dung dịch cố định khác.
+
+Xử lý bệnh phẩm phân tươi, bằng tay và dung dịch bảo quản dichromate dễ bị nhiễm khuẩn.
+
+Hút dịch tá tràng hoặc sinh thiết tá tràng có thể dùng để chẩn đoán.
+
+Kiểm tra các ngàm ướt bằng ánh sáng thông thường, độ tương phản giao thoa vi sai và kính hiển vi huỳnh quang miễn dịch.
+
+Nhuộm mẫu bệnh phẩm bằng thuốc nhuộm safranin biến tính hoặc kháng axit biến tính.
+
+Các xét nghiệm tìm kháng nguyên phân hoặc DNA nhạy hơn.
+
+Chủng
+
+Cyclospora
+
+Xét nghiệm trứng và ký sinh trùng trong phân ở nhiều mẫu phân mới thải ra được thu thập hàng ngày hoặc cách ngày một lần
+
+Mẫu bệnh phẩm cần được bảo quản lạnh và xét nghiệm luôn hoặc đông lạnh hoặc bảo quản dung dịch formalin 10% và kali dichromate 2,5%. Các xét nghiệm khác nhau đòi hỏi các kỹ thuật bảo quản khác nhau. Kỹ thuật tập trung tăng độ nhạy của xét nghiệm.
+
+Xét nghiệm soi tươi bằng ánh sáng thông thường, hoặc ánh sáng tương phản và kính hiển vi huỳnh quang cực tím. Nang trứng trưởng thành phát sáng huỳnh quang dưới tia cực tím. Các mẫu bệnh phẩm đã cố định có thể được nhuộm bằng thuốc nhuộm safranin biến tính hoặc kháng axit biến tính.
+
+Xét nghiệm bào tử có thể chẩn đoán phân biệt
+
+Cyclospora
+
+với tảo lam.
+
+Xét nghiệm DNA trong phân có độ đặc hiệu và nhạy hơn.
+
+Chủng
+
+Cystoisospora
+
+Xét nghiệm trứng và ký sinh trùng trong phân ở nhiều mẫu phân mới thải ra được thu thập hàng ngày hoặc cách ngày một lần
+
+Xét nghiệm phân tươi hoặc bảo quản bằng dung dịch formalin hoặc dung dịch cố định khác. Kỹ thuật tập trung bệnh phẩm tăng độ nhạy.
+
+Nang trứng trưởng thành có thể quan sát được trong tiêu bản soi tươi thông qua tương phản ánh sáng hoặc kính hiển vi huỳnh quang.
+
+Nhuộm cố định bệnh phẩm bằng nhuộm kháng acid cải tiến.
+
+Khi xét nghiệm phâm âm tính, xét nghiệm dịch hút tá tràng hoặc bệnh phẩm sinh thiết có thể dùng để chẩn đoán.
+
+Entamoeba dispar
+
+Entamoeba histolytica
+
+Các amip khác
+
+Nhiều mẫu phân mới thải ra được lấy vào buổi sáng
+
+Kiểm tra các mẫu bệnh phẩm chưa định dạng hoặc mẫu phân tiêu chảy trong vòng 15 phút.
+
+Giữ phân cũ trong tủ lạnh cho đến khi kiểm tra. Bảo quản trong formalin hoặc một chất cố định khác.
+
+Sử dụng các tiêu bản soi tươi và tiêu bản nhuộm vĩnh viễn (ví dụ: nhuộm ba màu) và các kỹ thuật cô đặc để tìm nang.
+
+Kỹ thuật xét nghiệm kháng nguyên đặc hiệu cho
+
+E. histolytica
+
+độ nhạy cao hơn và có thể phân biệt
+
+E. histolytica
+
+với các amip không gây bệnh khác và các vi sinh vật không gây bệnh khác
+
+E. dispar
+
+, E. moshkovski.
+
+Chủng
+
+Enterobius
+
+Trứng được lấy từ xung quanh hậu môn bằng giấy bóng kính hoặc quết bằng lam kính
+
+Xét nghiệm trứng và ký sinh trùng trong phân theo thường quy trên nhiều mẫu phân mới thải ra được thu thập hàng ngày hoặc cách ngày một lần
+
+Lấy mẫu ở vùng quanh hậu môn vào buổi sáng trước khi đi đại tiện hoặc trước khi tắm.
+
+Trứng
+
+Enterobius
+
+đôi khi được quan sát thấy trong mẫu phân hoặc trong mẫu bệnh phẩm ở cổ tử cung hoặc ở âm đạo (ví dụ: khi tình cờ phát hiện thấy trong xét nghiệm Papanicolaou [Pap]).
+
+Có thể quan sát thấy giun trưởng thành bằng cách kiểm tra vùng quanh hậu môn hoặc âm đạo.
+
+Chủng
+
+Giardia
+
+Nhiều mẫu phân mới thải ra (≥ 3) được lấy vào buổi sáng cách ngày một lần
+
+Dịch hút tá tràng lấy qua nội soi đường tiêu hóa trên để phát hiện động vật tư dưỡng
+
+Soi phân tươi hoặc bảo quản bằng dung dịch formalin hoặc dung dịch cố định khác.
+
+Các mẫu bệnh phẩm xét nghiệm trực tiếp và tập trung.
+
+Nang thường được quan sát thấy trong các tiêu bản soi tươi, còn thể tư dưỡng được quan sát thấy trong các tiêu bản cố định nhuộm trichrome.
+
+Các xét nghiệm tìm kháng nguyên phân hoặc DNA nhạy hơn.
+
+Microsporidia
+
+Nhiều mẫu bệnh phẩm phân được lấy hằng ngày hoặc mỗi ngày khác nhau
+
+Các mẫu sinh thiết ruột non là cần thiết nếu xét nghiệm phân âm tính.
+
+Các mẫu bệnh phẩm nhuộm bằng phương pháp chromotropic được sử dụng rộng rãi nhất. Các hóa chất huỳnh quang ví dụ như calcoflour trắng cũng có thể được sử dụng làm test nhanh chẩn đoán.
+
+Kính hiển vi điện tử là phương pháp có độ nhạy cao nhất và được sử dụng để phân loại.
+
+Xét nghiệm tìm DNA trong phân hoặc mô có sẵn cho một số loài.
+
+Cestodes (Sán dây)
+
+Tuyến trùng (giun tròn)
+
+Ascarisascaris
+
+Giun móc
+
+Strongyloidesstrongyloides
+
+Trichuris
+
+Sán lá
+
+Khác
+
+Nhiều mẫu phân được lấy hàng ngày (có thể cần đến 7 mẫu đối với
+
+Strongyloides
+
+)
+
+Làm lạnh mẫu bệnh phẩm và kiểm tra ngay, hoặc cố định trong 10% formalin và cô đặc bằng phương pháp lắng đọng formalin-ethyl acetate.
+
+Ấu trùng có thể được phát hiện với
+
+Strongyloides
+
+; trứng có thể được phát hiện với những loài giun đường ruột khác.
+
+Nếu phân được giữ ở nhiệt độ phòng, trứng giun móc có thể nở ra, giải phóng ấu trùng cần được phân biệt với ấu trùng
+
+giun lươn
+
+.
+
+Khi nghi ngờ mắc
+
+giun lươn
+
+và xét nghiệm trực tiếp cho kết quả âm tính, cần thực hiện ≥ 1 trong các xét nghiệm phân chuyên khoa sau:
+
+Nồng độ Formalin-ethyl acetate
+
+Phục hồi ấu trùng bằng kỹ thuật phễu Baermann
+
+Nuôi cấy bằng phương pháp tấm lọc Harada-Mori
+
+Nuôi cấy trên đĩa thạch
+
+Đờm hoặc dịch tiết từ đường hô hấp
+
+Chủng
+
+Paragonimus
+
+Đờm soi tươi
+
+Xét nghiệm mẫu bệnh phẩm càng sớm càng tốt, hoặc bảo quản mẫu để kiểm tra sau.
+
+Kỹ thuật tập trung mẫu có thể cần thiết.
+
+Đôi khi, trứng có thể xuất hiện trong dịch màng phổi.
+
+Chủng
+
+Strongyloides
+
+(lan tỏa)
+
+Đờm, bất kỳ dịch tiết nào, dịch thu được bằng BAL hoặc dụng cụ hút ẩm.
+
+Xét nghiệm mẫu bệnh phẩm càng sớm càng tốt hoặc bảo quản để xét nghiệm sau.
+
+Ấu trùng hoạt động có thể phát hiện khi soi tươi hoặc có thể nhuộm màu và cố định với Giemsa.
+
+Sinh thiết phổi
+
+Chủng
+
+Paragonimus
+
+sinh thiết qua da dưới hướng dẫn màn huỳnh quang tăng sáng hoặc CT
+
+Thu thập mẫu bệnh phẩm và để trong ống đựng bệnh phẩm vô trùng có dung dịch muối vô khuẩn. Cố định và nhuộm màu với Giemsa hoặc hematoxylin -eosin.
+
+Có thể xác định trứng và sán trưởng thành.
+
+Da
+
+Chủng
+
+Leishmania
+
+(bệnh leishmaniasis da)
+
+Sinh thiết vùng tổn thương không bị loét và các vùng liên quan có chuẩn bị hoặc phiến đồ cạo phết lam.
+
+Tìm amastigotes trong nhuộm Giemsa vùng chuẩn bị có liên quan hoặc phiến đồ và nhuộm hematoxylin -eosin trong bệnh phẩm sinh thiết.
+
+Leishmania
+
+amastigotes không thể phân biệt với
+
+Trypanosoma cruzi
+
+về mặt hình thái học.
+
+Leishmania
+
+có thể được nuôi cấy từ mảnh sinh thiết da, phát triển ở mức in vitro có thể mất vài tuần.
+
+Xét nghiệm phát hiện ADN của Leishmania có sẵn.
+
+Onchocerca volvulus
+
+Đối với bệnh nhân bị nhiễm bệnh ở Châu Phi:
+
+Các vết cắt ở da từ đùi, mông hoặc mào chậu
+
+Đối với bệnh nhân bị nhiễm bệnh ở Mỹ Latinh:
+
+Vết cắt ở da từ đầu, xương bả vai hoặc mông
+
+Sinh thiết da, cần chuẩn bị sát khuẩn bằng cồn, dùng kim 25 -gauge xuyên qua lớp biểu bì, nâng vùng da ý lên và sau đó cắt một miếng mô nhỏ bằng dao mổ hoặc lưỡi dao cạo, hoặc sử dụng dụng cụ bấm sinh thiết củng - giác mạc. Không được để chảy máu. Kiểm tra khi mẫu còn mới, hoặc cố định trong metanol và nhuộm bằng Giemsa hoặc hematoxylin-eosin.
+
+Xét nghiệm mẫu bệnh phẩm lơ lửng trong nước muối vì các microfilaria di động có thể di chuyển từ mẫu sinh thiết da. Microfilariae có thể quan sát nhiều mô.
+
+Dịch tiết hoặc sinh thiết đường tiết niệu
+
+Schistosoma haematobium
+
+, đôi khi là
+
+S. japonicum
+
+Lấy nước tiểu trực tiếp hoặc sinh thiết từ vùng tam giác cổ bàng quang
+
+Thời gian lấy nước tiểu được khuyến nghị là từ 12 giờ trưa đến 3 giờ chiều. Ly tâm làm tăng khả năng phát hiện.
+
+Trứng có thể quan sát khi soi tươi nước tiểu hoặc mẫu sinh thiết từ bàng quang.
+
+Viêm âm đạo do nấm
+
+Tăm bông lấy dịch tiết âm đạo, cổ tử cung, niệu đạo hoặc tuyến tiền liệt được đặt trong ống có một lượng nhỏ nước muối sinh lý vô trùng
+
+Kiểm tra mẫu bệnh phẩm soi tươi trong vòng 10–15 phút sau khi lấy dịch âm đạo vì trichomonas sẽ kém di động hơn theo thời gian.
+
+Xác định sinh vật di động bằng phương pháp soi ướt là xét nghiệm nhanh nhất nhưng kém nhạy hơn. Nuôi cấy nhạy cảm hơn nhưng mất 5–7 ngày và cần phải ủ.
+
+Các xét nghiệm khuếch đại axit nucleic có độ nhạy và độ đặc hiệu cao được thực hiện trên mẫu bệnh phẩm âm đạo, mẫu bệnh phẩm cổ tử cung, mẫu bệnh phẩm niệu đạo và mẫu bệnh phẩm nước tiểu cũng có sẵn.
+
+BAL = dịch rửa phế quản; EDTA = axit ethylene diamin tetraacetic; UV
+
+=
+
+tia cực tím.
+
+* Phương pháp soi tươi là một kỹ thuật trong phòng thí nghiệm bao gồm việc cho mẫu bệnh phẩm lên một lam kính có một giọt chất lỏng và một tấm kính phủ để tạo điều kiện thuận lợi cho việc kiểm tra bằng kính hiển vi và xác định ký sinh trùng.
+
+Tham khảo
+
+CDC: Laboratory Identification of Parasitic Diseases of Public Health Concern
+
+, cung cấp hướng dẫn chẩn đoán chi tiết.
+
+BAL = dịch rửa phế quản; EDTA = axit ethylene diamin tetraacetic; UV
+
+=
+
+tia cực tím.
+
+* Phương pháp soi tươi là một kỹ thuật trong phòng thí nghiệm bao gồm việc cho mẫu bệnh phẩm lên một lam kính có một giọt chất lỏng và một tấm kính phủ để tạo điều kiện thuận lợi cho việc kiểm tra bằng kính hiển vi và xác định ký sinh trùng.
+
+Tham khảo
+
+CDC: Laboratory Identification of Parasitic Diseases of Public Health Concern
+
+, cung cấp hướng dẫn chẩn đoán chi tiết.
+
+Nhiễm ký sinh trùng cần phải được đặc biệt xem xét trong số các chẩn đoán phân biệt trong một số tình huống lâm sàng, ví dụ: sốt ở khách du lịch trở về từ vùng lưu hành bệnh gợi ý khả năng mắc bệnh sốt rét. Những người di cư từ vùng lưu hành bệnh đến vùng không lưu hành bệnh và trở về nhà thăm bạn bè và người thân có nguy cơ mắc bệnh đặc biệt cao. Các thành viên trong gia đình trực hệ, chẳng hạn như vợ/chồng và con cái, cũng có nguy cơ cao hơn. Những người nhập cư đi du lịch về nước có thể dễ mắc các bệnh truyền nhiễm do khả năng miễn dịch suy yếu do không phơi nhiễm liên tục. Do đó, họ có thể ít có khả năng tiêm vắc-xin trước khi đi du lịch, dùng thuốc phòng ngừa hoặc tư vấn sức khỏe phòng ngừa. So với khách du lịch lưu trú tại các khu nghỉ dưỡng, người nhập cư cũng có nhiều khả năng đến thăm những khu vực có tỷ lệ lây truyền bệnh cao hơn (
+
+1
+
+).
+
+Mặc dù ít xảy ra hơn, nhưng khả năng nhiễm ký sinh trùng mắc phải tại địa phương cũng phải được xem xét ở cư dân của các quốc gia có hệ thống vệ sinh hiện đại, những người có các hội chứng lâm sàng gợi ý, ngay cả khi họ không đi du lịch; một số ký sinh trùng lưu hành ở những quốc gia này và những ký sinh trùng khác (chủ yếu là những ký sinh trùng lây truyền qua đường phân-miệng) có thể lây nhiễm từ những du khách bị nhiễm bệnh.
+
+Thông tin về phơi nhiễm, dấu hiệu thực thể và dữ liệu phòng thí nghiệm cũng có thể gợi ý các bệnh nhiễm ký sinh trùng cụ thể. Ví dụ, tăng bạch cầu ái toan hay gặp khi giun sán di chuyển qua mô cơ quan và gợi ý nhiễm ký sinh trùng ở những người nhập cư hoặc người du lịch.
+
+Chẩn đoán nhiễm ký sinh trùng trước đây dựa trên việc xác định trứng, ấu trùng hoặc ký sinh trùng trưởng thành trong phân, máu, mô hoặc các mẫu khác hoặc dựa trên sự hiện diện của kháng thể trong huyết thanh, nhưng chẩn đoán ngày càng dựa trên việc xác định kháng nguyên ký sinh trùng hoặc xét nghiệm phân tử tìm DNA ký sinh trùng.
+
+Các bác sĩ lâm sàng có chuyên môn về nhiễm ký sinh trùng và y học nhiệt đới sẵn sàng tư vấn tại nhiều trung tâm y tế lớn, phòng khám du lịch và cơ sở y tế công cộng.
+
+Mô tả chi tiết các phương pháp chẩn đoán, xem thêm trong Trung tâm Kiểm soát và Phòng ngừa dịch bệnh (Centers for Disease Control and Prevention, CDC)
+
+Phòng thí nghiệm Xác định Ký sinh trùng của Public Health Concern
+
+.
+
+Ký sinh trùng đường tiêu hóa
+
+Các giai đoạn khác nhau của động vật nguyên sinh và giun sán gây nhiễm trùng đường tiêu hóa thường được thải ra ngoài qua phân. Để phát hiện thường quy, cần phải xét nghiệm mẫu phân, tốt nhất là lấy 3 mẫu phân vào những ngày khác nhau vì lượng phân thải ra có thể khác nhau. Độ nhạy của xét nghiệm phân để tìm trứng và ký sinh trùng thấp đến mức khi nghi ngờ lâm sàng mạnh, nên cân nhắc điều trị theo kinh nghiệm ngay cả khi xét nghiệm phân cho kết quả âm tính.
+
+Có các xét nghiệm phân tử nhạy cảm và đặc hiệu, chẳng hạn như các xét nghiệm dựa trên phản ứng chuỗi polymerase (PCR), để phát hiện các kháng nguyên của
+
+Giardia
+
+,
+
+Cryptosporidium
+
+,
+
+Entamoeba histolytica
+
+và
+
+Cyclospora
+
+trong phân; tuy nhiên, các xét nghiệm này có thể tốn kém (
+
+2
+
+) (xem bảng
+
+Xét nghiệm huyết thanh và phân tử để phát hiện nhiễm ký sinh trùng
+
+). Xét nghiệm PCR đa mồi có thể phát hiện nhiều tác nhân gây bệnh đường ruột với độ nhạy và tốc độ cao hơn so với các phương thức chẩn đoán truyền thống như nuôi cấy; tuy nhiên, các xét nghiệm này không phân biệt được giữa các sinh vật sống và vi sinh vật không sống. Sự thiếu phân biệt này có thể gây ra những thách thức trong việc giải thích, đặc biệt là khi phát hiện nhiều tác nhân gây bệnh trong cùng một mẫu bệnh phẩm. Trong những trường hợp này, tiền sử của bệnh nhân, các biểu hiện lâm sàng và các biểu hiện theo thời gian của các triệu chứng nhiễm trùng và số lượng tương đối của DNA mầm bệnh có thể hữu ích trong việc dẫn hướng các quyết định điều trị (
+
+3
+
+).
+
+Mẫu bệnh phẩm phân mới thải ra không bị nhiễm nước tiểu, nước, bụi bẩn hoặc chất khử trùng (bất kể lấy ở phòng khám hay tại nhà bệnh nhân) nên được gửi đến phòng xét nghiệm trong vòng 1 giờ; phân chưa thành hình hoặc phân lỏng có nhiều khả năng có các động vật tư dưỡng di động. Khi mẫu bệnh phẩm đã ở trong phòng thí nghiệm, nếu không được xét nghiệm ngay lập tức, các mẫu bệnh phẩm này phải được làm lạnh nhưng không được đông lạnh. Sau đó, các kỹ thuật viên phòng xét nghiệm sẽ nhũ hóa một phần phân tươi trong chất cố định để bảo quản động vật nguyên sinh đường tiêu hóa. Kỹ thuật cô đặc cũng có thể được sử dụng để cải thiện độ nhạy. Nếu
+
+bệnh giun lươn
+
+nghi ngờ, một hoặc nhiều xét nghiệm phân cần được thực hiện nếu không nhìn thấy ấu trùng khi kiểm tra trực tiếp phân tươi. Thuốc kháng sinh, thuốc cản quang, thuốc nhuận tràng và thuốc kháng axit có thể cản trở việc phát hiện trứng và ký sinh trùng trong vài tuần. Nếu nghi ngờ nhiễm giun tròn, có thể dùng băng dính hoặc tăm bông thấm hậu môn để thu thập trứng giun kim hoặc sán dây.
+
+Nội soi đại tràng sigma hoặc nội soi đại trực tràng
+
+nên được chỉ định khi xét nghiệm phân âm tính và nghi ngờ nhiễm
+
+amip
+
+ở bệnh nhân có triệu chứng đường tiêu hóa dai dẳng. Lấy bệnh phẩm nội soi đại tràng bằng curet hặc thìa nạo (sử dụng bông gạc không thích hợp) và xét nghiệm ngay trên kính hiển vi. Nội soi đường tiêu hóa trên có thể được thực hiện để bao gồm dịch hút tá tràng hoặc mẫu bệnh phẩm sinh thiết ruột non; đôi khi cần phải nội soi đường tiêu hóa trên để chẩn đoán các bệnh nhiễm trùng như
+
+bệnh do cryptosporidium
+
+và
+
+bệnh do microsporidia
+
+.
+
+Xét nghiệm huyết thanh học trong nhiễm ký sinh trùng
+
+Một số loại kí sinh trùng có thể phát hiện bằng xét nghiệm huyết thanh học (xem bảng
+
+Xét nghiệm huyết thanh học và xét nghiệm phân tử trong nhiễm kí sinh trùng
+
+).
+
+Bảng
+
+Xét nghiệm huyết thanh và sinh học phân tử trong nhiễm ký sinh trùng
+
+Bảng
+
+Xét nghiệm huyết thanh và sinh học phân tử trong nhiễm ký sinh trùng
+
+Xét nghiệm huyết thanh và sinh học phân tử trong nhiễm ký sinh trùng
+
+Nhiễm trùng
+
+Kháng thể
+
+Kháng nguyên hoặc ADN/ARN
+
+Động vật nguyên sinh và microsporidia
+
+Bệnh do trypanosoma châu Phi
+
+(chỉ có
+
+Trypanosoma brucei gambiense
+
+)
+
+Xét nghiệm ngưng kết thẻ đối với bệnh do
+
+T. b. gambiense
+
+(CATT), các xét nghiệm dòng chảy bên nhanh khác
+
+—
+
+Amebiasis
+
+EIA, IHA
+
+Phân:
+
+Kháng nguyên (EIA), PCR
+
+Bệnh do babesia
+
+IFA
+
+Máu:
+
+PCR
+
+Bệnh Chagas
+
+EIA, IFA, IB
+
+Máu, mô hoặc CSF:
+
+PCR
+
+Bệnh do Cryptosporidium
+
+—
+
+Phân:
+
+Kháng nguyên (EIA), PCR
+
+Cyclosporiasis
+
+—
+
+Phân:
+
+PCR
+
+Nhiễm amip sống tự do (
+
+Acanthamoeba
+
+,
+
+Naegleria fowleri
+
+và
+
+Balamuthia mandrillaris
+
+)
+
+IFA của mô não, da hoặc giác mạc đối với
+
+Acanthamoeba
+
+(hiếm khi được tìm thấy trong CSF)
+
+IFA của mẫu mô (
+
+Balamuthia
+
+)
+
+CSF, não hoặc mô khác:
+
+PCR
+
+CSF hoặc mô:
+
+IFA (
+
+Naegleria fowleri
+
+)
+
+Bệnh do nhiễm Gardia
+
+—
+
+Phân:
+
+Kháng nguyên (EIA), DFA, PCR
+
+Leishmaniasis
+
+EIA hoặc IFA (đối với bệnh do leishmania nội tạng nhưng không phải bệnh do leishmania da)
+
+Máu hoặc mô:
+
+PCR
+
+Malaria
+
+IFA (không dành cho sốt rét cấp tính)
+
+Máu:
+
+ICG cho kháng nguyên (xét nghiệm chẩn đoán nhanh), PCR
+
+Nhiễm Microsporidium
+
+IFA
+
+Máu, nước tiểu, phân hoặc dịch não tủy:
+
+PCR
+
+Bệnh do Toxoplasma
+
+IFA, EIA (IgG và IgM)
+
+Mô hoặc máu:
+
+PCR
+
+Trichomoniasis
+
+DA (bài tiết tiết niệu sinh dục)
+
+LA (tiết dịch tiết niệu sinh dục)
+
+ICG (bài tiết tiết niệu sinh dục)
+
+Bài tiết tiết niệu sinh dục:
+
+Kháng nguyên (xét nghiệm chẩn đoán kháng nguyên nhanh), PCR
+
+Giun tròn
+
+Bệnh do Baylisascaris
+
+IB của huyết thanh hoặc dịch não tủy
+
+—
+
+Bệnh giun chỉ bạch huyết
+
+(
+
+Wuchereria bancrofti
+
+)
+
+EIA
+
+—
+
+Bệnh giun lươn
+
+EIA, IFA, IHA
+
+Mẫu bệnh phẩm phân, dịch hút tá tràng và/hoặc mẫu sinh thiết (có thể là đờm trong các bệnh nhiễm trùng lan tỏa):
+
+PCR/LAMP
+
+Trichinosis
+
+EIA, IFA
+
+—
+
+Bệnh do toxocara
+
+EIA (độ nhạy cảm với bệnh nội tạng cao hơn bệnh mắt), IB
+
+—
+
+Sán lá gan nhỏ
+
+Bệnh sán lá phổi
+
+CF, IB, EIA
+
+—
+
+Bệnh sán máng
+
+FAST-ELISA, IB, IHA, EIA
+
+Máu, nước tiểu và/hoặc phân:
+
+Phát hiện kháng nguyên; PCR có sẵn trong một số phòng thí nghiệm tham khảo
+
+Bệnh sán lá gan lớn
+
+EIA, IB
+
+—
+
+Sán dây
+
+Bệnh sán dây nhỏ (Echinococcosis)
+
+EIA, IHA, IFA, IB
+
+—
+
+Bệnh sán dây thần kinh
+
+(
+
+Taenia solium
+
+)
+
+IB (huyết thanh hoặc CSF), EIA
+
+Huyết thanh hoặc CSF:
+
+Kháng nguyên (dùng để đánh giá đáp ứng điều trị; không đủ độ nhậy dùng để chẩn đoán)
+
+CSF:
+
+PCR (hạn chế)
+
+CDC = Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh; CF = cố định bổ thể; CSF = dịch não tủy; DFA
+
+=
+
+kháng thể huỳnh quang trực tiếp; EIA
+
+=
+
+xét nghiệm miễn dịch enzym; FAST-ELISA
+
+=
+
+Xét nghiệm sàng lọc xét nghiệm Falcon–xét nghiệm hấp thụ miễn dịch liên kết enzym; IB
+
+=
+
+vết miễn dịch; ICG
+
+=
+
+xét nghiệm sắc ký miễn dịch; IFA
+
+=
+
+xét nghiệm miễn dịch huỳnh quang gián tiếp; IHA
+
+=
+
+xét nghiệm ngưng kết hồng cầu gián tiếp; LAMP
+
+=
+
+khuếch đại đẳng nhiệt qua trung gian vòng lặp; PCR
+
+=
+
+phản ứng chuỗi polymerase; TEM = kính hiển vi điện tử truyền qua.
+
+Chú ý: Một số bộ dụng cụ phát hiện kháng nguyên và ký sinh trùng có bán trên thị trường. Những loại khác có sẵn tại CDC hoặc các phòng thí nghiệm tham chiếu khác. Các xét nghiệm sinh học phân tử (ví dụ PCR) dựa ADN có sẵn phát hiện kháng nguyên sinh vật đơn bào trong mẫu phân, nhưng rất tốn kém. Các xét nghiệm sinh học phân tử cho một số ký sinh trùng kháccó sẵn ở các labor xét nghiệm tham khảo hoặc nghiên cứu.
+
+Dựa trên CDC
+
+Phòng thí nghiệm Xác định Ký sinh trùng của Public Health Concern
+
+.
+
+CDC = Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh; CF = cố định bổ thể; CSF = dịch não tủy; DFA
+
+=
+
+kháng thể huỳnh quang trực tiếp; EIA
+
+=
+
+xét nghiệm miễn dịch enzym; FAST-ELISA
+
+=
+
+Xét nghiệm sàng lọc xét nghiệm Falcon–xét nghiệm hấp thụ miễn dịch liên kết enzym; IB
+
+=
+
+vết miễn dịch; ICG
+
+=
+
+xét nghiệm sắc ký miễn dịch; IFA
+
+=
+
+xét nghiệm miễn dịch huỳnh quang gián tiếp; IHA
+
+=
+
+xét nghiệm ngưng kết hồng cầu gián tiếp; LAMP
+
+=
+
+khuếch đại đẳng nhiệt qua trung gian vòng lặp; PCR
+
+=
+
+phản ứng chuỗi polymerase; TEM = kính hiển vi điện tử truyền qua.
+
+Chú ý: Một số bộ dụng cụ phát hiện kháng nguyên và ký sinh trùng có bán trên thị trường. Những loại khác có sẵn tại CDC hoặc các phòng thí nghiệm tham chiếu khác. Các xét nghiệm sinh học phân tử (ví dụ PCR) dựa ADN có sẵn phát hiện kháng nguyên sinh vật đơn bào trong mẫu phân, nhưng rất tốn kém. Các xét nghiệm sinh học phân tử cho một số ký sinh trùng kháccó sẵn ở các labor xét nghiệm tham khảo hoặc nghiên cứu.
+
+Dựa trên CDC
+
+Phòng thí nghiệm Xác định Ký sinh trùng của Public Health Concern
+
+.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Centers for Disease Control and Prevention (CDC)
+
+: Visiting Friends & Relatives: VFR Travel. CDC Yellow Book 2024. Truy cập ngày 31 tháng 1 năm 2025.
+
+2.
+
+Shane AL, Mody RK, Crump JA, et al
+
+. 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.
+
+Clin Infect Dis
+
+. 2017;65(12):e45-e80. doi:10.1093/cid/cix669
+
+3.
+
+Miller JM, Binnicker MJ, Campbell S, et al
+
+. A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology.
+
+Clin Infect Dis
+
+. 2018;67(6):e1-e94. doi:10.1093/cid/ciy381
+
+Điều trị nhiễm ký sinh trùng
+
+Có nhiều phương pháp điều trị khác nhau phụ thuộc nhiễm trùng loại nào
+
+Xem mục nhiễm trùng cụ thể ở phần khác trong Cẩm nang.
+
+Lời khuyên về cách điều trị nhiễm ký sinh trùng có sẵn từ các chuyên gia tại các trung tâm y tế và sức khỏe công cộng lớn và các phòng khám du lịch, từ
+
+Chỉ mục ký sinh trùng từ A đến Z của CDC
+
+,
+
+Chăm sóc bệnh giun sán truyền qua đất trên lâm sàng
+
+của CDC và trong sách giáo khoa về các bệnh truyền nhiễm và y học nhiệt đới.
+
+Một số loại thuốc không được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt để điều trị nhiễm ký sinh trùng có thể được mua từ
+
+CDC Drug Service
+
+.
+
+Phòng ngừa nhiễm ký sinh trùng
+
+Các loại vắc xin chống sốt rét mới được phát triển gần đây, R21/Matrix-M và RTS,S, là những loại vắc-xin được cấp phép đầu tiên để phòng ngừa nhiễm ký sinh trùng (xem
+
+WHO: Malaria vaccines (RTS,S and R21)
+
+). Vắc-xin phòng ngừa các bệnh nhiễm ký sinh trùng khác, bao gồm
+
+bệnh sán máng
+
+,
+
+bệnh do leishmania
+
+và
+
+giun móc
+
+, đang được phát triển. Mặt khác, phòng ngừa chủ yếu dựa trên các chiến lược tránh bị bệnh.
+
+Có thể ngăn ngừa sự lây truyền của hầu hết các loại ký sinh trùng đường ruột bằng những biện pháp sau:
+
+Xử lý phân và chất thải hợp vệ sinh
+
+Rửa tay
+
+Nấu vừa đủ thức ăn
+
+Cung cấp nước tinh khiết
+
+Rửa tay là rất quan trọng sau khi sử dụng phòng tắm và nhà vệ sinh và trước khi chuẩn bị thức ăn. Trong
+
+chuyến đi
+
+đến những khu vực có khả năng phơi nhiễm với các bệnh nhiễm ký sinh trùng qua đường phân-miệng, lời khuyên tốt nhất là “nấu chín, luộc chín, lột vỏ hoặc quên món đó đi”, nghĩa là du khách nên tránh những việc sau: ăn thịt, cá, động vật có vỏ và trứng chưa nấu chín hoàn toàn; ăn trái cây hoặc rau sống; và ăn hoặc uống các sản phẩm từ sữa hoặc nước ép trái cây chưa tiệt trùng. Một ngoại lệ đối với hướng dẫn này là trái cây hoặc rau quả có vỏ dày (ví dụ: chuối) thường được coi là an toàn khi ăn sống nếu vỏ được rửa sạch trước khi bỏ đi. Cần cẩn thận để xác minh rằng nước uống được lấy từ các nguồn an toàn. Do một số loại ký sinh trùng có thể sống sót sau khi đông lạnh nên đôi khi đá viên có thể truyền bệnh trừ khi đá viên được làm từ nước tinh khiết. Theo sau đó, các biện pháp làm giảm nhưng không loại bỏ được nguy cơ nhiễm ký sinh trùng đường ruột cũng như nguy cơ nhiễm khuẩn và vi rút đường ruột.
+
+Các biện pháp an toàn khác để ngăn ngừa nhiễm ký sinh trùng bao gồm loại bỏ hộp đựng cát vệ sinh cho mèo khỏi khu vực chế biến thực phẩm để ngăn ngừa bệnh do toxoplasma. Mọi người không nên bơi ở các hồ nước ngọt, suối hoặc sông ở những khu vực đang lưu hành bệnh sán máng hoặc đi chân trần hoặc tiếp xúc da trần với bề mặt ở những khu vực có giun móc.
+
+Phòng ngừa bệnh sốt rét
+
+và nhiều bệnh do véc tơ truyền bệnh khác bao gồm các biện pháp sau:
+
+Mặc áo sơ mi dài tay và quần dài
+
+Bôi thuốc chống côn trùng có diethyltoluamide (DEET) lên vùng da hở và permethrin lên quần áo (tuy nhiên, xử lý quần áo kém hiệu quả hơn so với sử dụng thuốc chống côn trùng trên da)
+
+Sử dụng màn cửa sổ, điều hòa, và màn chống muỗi bằng chất permethrin hoặc thuốc xua đuổi côn trùng khác
+
+Sử dụng thuốc xịt côn trùng, bao gồm thuốc xịt
+
+permethrin
+
+hoặc thuốc xịt pyrethrum trong nhà và nhà ngoài
+
+Đối với cư dân của các khu vực không lưu hành bệnh sốt rét đi đến các khu vực có bệnh sốt rét lưu hành, hãy dùng thuốc chống sốt rét dự phòng
+
+Khách du lịch đến vùng nông thôn Mỹ Latinh không nên ngủ ở nhà xây bằng gạch không nung có các con bọ nhỏ truyền
+
+bệnh Chagas
+
+. Ở châu Phi, khách du lịch nên tránh mặc quần áo sáng màu và áo sơ mi dài tay và quần dài tránh nhiễm ruồi tsetse ở
+
+vùng châu Phi lưu hành bệnh ngủ ruồi
+
+châu Phi.
+
+Các khuyến nghị cụ thể cho từng quốc gia về du lịch có sẵn từ
+
+CDC: Travelers' Health
+
+and from the
+
+CDC Yellow Book
+
+.
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Centers for Disease Control and Prevention (CDC):
+
+Laboratory Identification of Parasitic Diseases of Public Health Concern
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chẩn đoán nhiễm ký sinh trùng ---
+
+Xét nghiệm bằng kính hiển viXét nghiệm ADN và tìm kháng nguyênCác phương pháp được sử dụng chẩn đoán đặc hiệu bệnh ký sinh trùng được tóm tắt trong bảngThu thập và xử lý bệnh phẩm để chẩn đoán bằng kính hiển vi các bệnh nhiễm ký sinh trùng.BảngThu thập và xử lý bệnh phẩm chẩn đoán nhiễm ký sinh trùng bằng kính hiển viBảngThu thập và xử lý bệnh phẩm chẩn đoán nhiễm ký sinh trùng bằng kính hiển viThu thập và xử lý bệnh phẩm chẩn đoán nhiễm ký sinh trùng bằng kính hiển viKý sinh trùngMẫu bệnh phẩm tốt nhấtChi tiết mẫu thu thậpBình luậnMáuChủngPlasmodiumKỹ thuật làn máu mỏng và giọt máu dày (ví dụ có thể sử dụng lưỡi dao nhỏ trích máu từ đầu nhón tay hoặc dái tai) hoặc 5-10mL máu đã chống đông (tốt nhất là máu đựng ống chứa chất chống đông EDTA)Thu thập nhiều mẫu trong giai đoạn cấp tính của bệnh.Chuẩn bị phiến đồ từ máu mao mạch hoặc máu không đông trong vòng 3 giờ sau khi lấy máu.Sử dụng phương pháp nhuộm Wright hoặc Giemsa.Đảm bảo lam kính sạch.ChủngBabesiaCác phiến đồ giọt đặc và máu đàn như đối với loàiPlasmodiumLấy máu giống như với chủngPlasmodium.Sử dụng phương pháp nhuộm Wright hoặc Giemsa.Hình thái học hình nhẫn giống như chủngPlasmodiumkhông có sắc tố và giao tử trưởng thành. Bốn loài được chẩn đoán của chủngBabesianhưng không thường gặp.Tiêu bản giọt đặc có thể khó giải thích và chỉ nên do một chuyên gia kính hiển vi có kinh nghiệm thực hiện. Có thể nhìn thấy hình ảnh "chữ thập Maltese" trên phiến đồ máu.Giun chỉCác phiến đồ giọt đặc và máu đàn từ 1 mL máu chống đông; nếu mẫu bệnh phẩm đầu tiên âm tính, lấy 5–10 mL, cô đặc bằng cách ly tâm hoặc lọcMicrofilariae củaWuchereria bancroftivàBrugia malayi:Hút máu từ 10 giờ tối đến 2 giờ sáng.Giun chỉLoa loa,Dipetalonema perstansvàMansonella ozardi:Hút máu trong khoảng thời gian từ 10 giờ sáng đến 6 giờ chiều.Giun chỉ có tính chu kỳ theo ngày và mẫu bệnh phẩm phải được lấy trong khoảng thời gian cụ thể để tối ưu hóa hiệu suất.Sử dụng phương pháp nhuộm Giemsa hoặc hematoxylin-eosin trực tiếp hoặc để có độ nhạy cao hơn, sử dụng phương pháp sau khi cô đặc trong formalin 2% (kỹ thuật Knott) hoặc sau khi lọc qua màng nhân.ChủngTrypanosomaPhiến đồ lam mỏng bằng máu mao mạch hoặc 5-6 mL máu chống đông được lấy.Lấy máu mao mạch hoặc máu đã chống đông. Phết lam kính.Các kỹ thuật tập trung bệnh phẩm được sử dụng để tăng độ nhạy của chẩn đoán.Sự vận động của Trypanosoma được quan sát ở trong lam kính ướt, nhuộm Giemsa (hoặc Field) được cố định bệnh phẩm.Bệnh phẩm từ tủy xương, cơ quan hệ liên võng nội mô khác hoặc dịch não tủyLeishmaniasp (leishmaniasis nội tạng)Chọc hút tủy xương, lách, gan hoặc hạch lympho hoặc phiến đồ cô đặc bạch cầuPhết lam kính.Sử dụng phương pháp nhuộm Giemsa, Wright - Giemsa hoặc nhuộm HE.NaegleriaAcanthamoebaBalamuthiaDịch não tủy mới lấySử dụng kỹ thuật lấy vô trùng.Kiểm tra mẫu bệnh phẩm càng sớm càng tốt.Xét nghiệm bằng kính hiển vi quang học hoặc kính hiển vi tương phản pha.Ký sinh trùng có thể phát hiện khi quan sát sự chuyển động của chúng, chúng có thể bắt màu hoặc cố định khi nhuộm Giemsa hoặc nuôi cấy.Trypanosoma brucei rhodesienseTrypanosoma brucei gambienseChọc hút hạch bạch huyết hoặc săngDịch não tủy mới lấySử dụng kỹ thuật lấy vô trùng.Sử dụng soi tươi* để xác định ký sinh trùng di động hoặc cố định và nhuộm bằng thuốc nhuộm Giemsa hoặc Field trước hoặc sau khi cô đặc bằng cách ly tâm.Hút dịch tá tràng hoặc sinh thiết hỗng tràngChủngGiardiaChủngCryptosporidiumChủngCystoisosporaChủngCyclosporaMicrosporidiaChủngStrongyloidesMẫu bệnh phẩm dịch hút tá tràng hoặc sinh thiết hỗng tràng trong quá trình nội soiXét nghiệm dịch hút tá tràng ngay sau khi hút, hoặc cố dịnh và nhuộm.Xét nghiệm mô bệnh học mẫu sinh thiết.Sử dụng hút ẩm để phát hiện trứng và ấu trùngStrongyloides. Có thể sử dụng nhiều bệnh phẩm nhuộm để chẩn đoán (xem phần Phân bên dưới để biết chi tiết).Kính hiển vi điện tử truyền qua là phương pháp chính để phát hiện và xác định loài microsporidium.Sinh thiết trực tràngSchistosoma mansoniSchistosoma japonicumSinh thiết trực tràng từ bóng trực tràng (Houston valve), khoảng 9 cm từ hậu mônChuẩn bị cho xét nghiệm mô bệnh học và nghiền nát một đoạn giữa các tiêu bản để tăng độ nhạy.Phân loại dựa trên hình thái của trứng.Nội soi đại tràng sigmaEntamoeba histolyticaCạo sạch bằng thìa nạo hoặc thìa Volkmann, sinh thiết niêm mạc hoặc hút từ tổn thương bằng ống nhỏ giọt 1 mL có bóng cao su (tăm bông có đầu bông không đủ tiêu chuẩn)Xét nghiệm mẫu ngay hoặc sau khi cố định và nhuộm.Sử dụng tiêu bản soi tươi hoặc tiêu bản nhuộm cố định (ví dụ: nhuộm trichrome) để phát hiện động vật tư dưỡng và nang. Nên xét nghiệm phân để tìm kháng nguyên hoặc DNA củaE. histolytica; các xét nghiệm này nhạy hơn và có thể phân biệt đượcE. histolyticavớiE. disparvà các loại amip không gây bệnh khác.PhânChủngCryptosporidiumXét nghiệm trứng và ký sinh trùng trong phân ở nhiều mẫu phân mới thải ra (≥ 3) được thu thập hàng ngày hoặc cách ngàyLàm lạnh và xét nghiệm mẫu phân tươi hoặc bảo quản trong formalin hoặc dung dịch cố định khác.Xử lý bệnh phẩm phân tươi, bằng tay và dung dịch bảo quản dichromate dễ bị nhiễm khuẩn.Hút dịch tá tràng hoặc sinh thiết tá tràng có thể dùng để chẩn đoán.Kiểm tra các ngàm ướt bằng ánh sáng thông thường, độ tương phản giao thoa vi sai và kính hiển vi huỳnh quang miễn dịch.Nhuộm mẫu bệnh phẩm bằng thuốc nhuộm safranin biến tính hoặc kháng axit biến tính.Các xét nghiệm tìm kháng nguyên phân hoặc DNA nhạy hơn.ChủngCyclosporaXét nghiệm trứng và ký sinh trùng trong phân ở nhiều mẫu phân mới thải ra được thu thập hàng ngày hoặc cách ngày một lầnMẫu bệnh phẩm cần được bảo quản lạnh và xét nghiệm luôn hoặc đông lạnh hoặc bảo quản dung dịch formalin 10% và kali dichromate 2,5%. Các xét nghiệm khác nhau đòi hỏi các kỹ thuật bảo quản khác nhau. Kỹ thuật tập trung tăng độ nhạy của xét nghiệm.Xét nghiệm soi tươi bằng ánh sáng thông thường, hoặc ánh sáng tương phản và kính hiển vi huỳnh quang cực tím. Nang trứng trưởng thành phát sáng huỳnh quang dưới tia cực tím. Các mẫu bệnh phẩm đã cố định có thể được nhuộm bằng thuốc nhuộm safranin biến tính hoặc kháng axit biến tính.Xét nghiệm bào tử có thể chẩn đoán phân biệtCyclosporavới tảo lam.Xét nghiệm DNA trong phân có độ đặc hiệu và nhạy hơn.ChủngCystoisosporaXét nghiệm trứng và ký sinh trùng trong phân ở nhiều mẫu phân mới thải ra được thu thập hàng ngày hoặc cách ngày một lầnXét nghiệm phân tươi hoặc bảo quản bằng dung dịch formalin hoặc dung dịch cố định khác. Kỹ thuật tập trung bệnh phẩm tăng độ nhạy.Nang trứng trưởng thành có thể quan sát được trong tiêu bản soi tươi thông qua tương phản ánh sáng hoặc kính hiển vi huỳnh quang.Nhuộm cố định bệnh phẩm bằng nhuộm kháng acid cải tiến.Khi xét nghiệm phâm âm tính, xét nghiệm dịch hút tá tràng hoặc bệnh phẩm sinh thiết có thể dùng để chẩn đoán.Entamoeba disparEntamoeba histolyticaCác amip khácNhiều mẫu phân mới thải ra được lấy vào buổi sángKiểm tra các mẫu bệnh phẩm chưa định dạng hoặc mẫu phân tiêu chảy trong vòng 15 phút.Giữ phân cũ trong tủ lạnh cho đến khi kiểm tra. Bảo quản trong formalin hoặc một chất cố định khác.Sử dụng các tiêu bản soi tươi và tiêu bản nhuộm vĩnh viễn (ví dụ: nhuộm ba màu) và các kỹ thuật cô đặc để tìm nang.Kỹ thuật xét nghiệm kháng nguyên đặc hiệu choE. histolyticađộ nhạy cao hơn và có thể phân biệtE. histolyticavới các amip không gây bệnh khác và các vi sinh vật không gây bệnh khácE. dispar, E. moshkovski.ChủngEnterobiusTrứng được lấy từ xung quanh hậu môn bằng giấy bóng kính hoặc quết bằng lam kínhXét nghiệm trứng và ký sinh trùng trong phân theo thường quy trên nhiều mẫu phân mới thải ra được thu thập hàng ngày hoặc cách ngày một lầnLấy mẫu ở vùng quanh hậu môn vào buổi sáng trước khi đi đại tiện hoặc trước khi tắm.TrứngEnterobiusđôi khi được quan sát thấy trong mẫu phân hoặc trong mẫu bệnh phẩm ở cổ tử cung hoặc ở âm đạo (ví dụ: khi tình cờ phát hiện thấy trong xét nghiệm Papanicolaou [Pap]).Có thể quan sát thấy giun trưởng thành bằng cách kiểm tra vùng quanh hậu môn hoặc âm đạo.ChủngGiardiaNhiều mẫu phân mới thải ra (≥ 3) được lấy vào buổi sáng cách ngày một lầnDịch hút tá tràng lấy qua nội soi đường tiêu hóa trên để phát hiện động vật tư dưỡngSoi phân tươi hoặc bảo quản bằng dung dịch formalin hoặc dung dịch cố định khác.Các mẫu bệnh phẩm xét nghiệm trực tiếp và tập trung.Nang thường được quan sát thấy trong các tiêu bản soi tươi, còn thể tư dưỡng được quan sát thấy trong các tiêu bản cố định nhuộm trichrome.Các xét nghiệm tìm kháng nguyên phân hoặc DNA nhạy hơn.MicrosporidiaNhiều mẫu bệnh phẩm phân được lấy hằng ngày hoặc mỗi ngày khác nhauCác mẫu sinh thiết ruột non là cần thiết nếu xét nghiệm phân âm tính.Các mẫu bệnh phẩm nhuộm bằng phương pháp chromotropic được sử dụng rộng rãi nhất. Các hóa chất huỳnh quang ví dụ như calcoflour trắng cũng có thể được sử dụng làm test nhanh chẩn đoán.Kính hiển vi điện tử là phương pháp có độ nhạy cao nhất và được sử dụng để phân loại.Xét nghiệm tìm DNA trong phân hoặc mô có sẵn cho một số loài.Cestodes (Sán dây)Tuyến trùng (giun tròn)AscarisascarisGiun mócStrongyloidesstrongyloidesTrichurisSán láKhácNhiều mẫu phân được lấy hàng ngày (có thể cần đến 7 mẫu đối vớiStrongyloides)Làm lạnh mẫu bệnh phẩm và kiểm tra ngay, hoặc cố định trong 10% formalin và cô đặc bằng phương pháp lắng đọng formalin-ethyl acetate.Ấu trùng có thể được phát hiện vớiStrongyloides; trứng có thể được phát hiện với những loài giun đường ruột khác.Nếu phân được giữ ở nhiệt độ phòng, trứng giun móc có thể nở ra, giải phóng ấu trùng cần được phân biệt với ấu trùnggiun lươn.Khi nghi ngờ mắcgiun lươnvà xét nghiệm trực tiếp cho kết quả âm tính, cần thực hiện ≥ 1 trong các xét nghiệm phân chuyên khoa sau:Nồng độ Formalin-ethyl acetatePhục hồi ấu trùng bằng kỹ thuật phễu BaermannNuôi cấy bằng phương pháp tấm lọc Harada-MoriNuôi cấy trên đĩa thạchĐờm hoặc dịch tiết từ đường hô hấpChủngParagonimusĐờm soi tươiXét nghiệm mẫu bệnh phẩm càng sớm càng tốt, hoặc bảo quản mẫu để kiểm tra sau.Kỹ thuật tập trung mẫu có thể cần thiết.Đôi khi, trứng có thể xuất hiện trong dịch màng phổi.ChủngStrongyloides(lan tỏa)Đờm, bất kỳ dịch tiết nào, dịch thu được bằng BAL hoặc dụng cụ hút ẩm.Xét nghiệm mẫu bệnh phẩm càng sớm càng tốt hoặc bảo quản để xét nghiệm sau.Ấu trùng hoạt động có thể phát hiện khi soi tươi hoặc có thể nhuộm màu và cố định với Giemsa.Sinh thiết phổiChủngParagonimussinh thiết qua da dưới hướng dẫn màn huỳnh quang tăng sáng hoặc CTThu thập mẫu bệnh phẩm và để trong ống đựng bệnh phẩm vô trùng có dung dịch muối vô khuẩn. Cố định và nhuộm màu với Giemsa hoặc hematoxylin -eosin.Có thể xác định trứng và sán trưởng thành.DaChủngLeishmania(bệnh leishmaniasis da)Sinh thiết vùng tổn thương không bị loét và các vùng liên quan có chuẩn bị hoặc phiến đồ cạo phết lam.Tìm amastigotes trong nhuộm Giemsa vùng chuẩn bị có liên quan hoặc phiến đồ và nhuộm hematoxylin -eosin trong bệnh phẩm sinh thiết.Leishmaniaamastigotes không thể phân biệt vớiTrypanosoma cruzivề mặt hình thái học.Leishmaniacó thể được nuôi cấy từ mảnh sinh thiết da, phát triển ở mức in vitro có thể mất vài tuần.Xét nghiệm phát hiện ADN của Leishmania có sẵn.Onchocerca volvulusĐối với bệnh nhân bị nhiễm bệnh ở Châu Phi:Các vết cắt ở da từ đùi, mông hoặc mào chậuĐối với bệnh nhân bị nhiễm bệnh ở Mỹ Latinh:Vết cắt ở da từ đầu, xương bả vai hoặc môngSinh thiết da, cần chuẩn bị sát khuẩn bằng cồn, dùng kim 25 -gauge xuyên qua lớp biểu bì, nâng vùng da ý lên và sau đó cắt một miếng mô nhỏ bằng dao mổ hoặc lưỡi dao cạo, hoặc sử dụng dụng cụ bấm sinh thiết củng - giác mạc. Không được để chảy máu. Kiểm tra khi mẫu còn mới, hoặc cố định trong metanol và nhuộm bằng Giemsa hoặc hematoxylin-eosin.Xét nghiệm mẫu bệnh phẩm lơ lửng trong nước muối vì các microfilaria di động có thể di chuyển từ mẫu sinh thiết da. Microfilariae có thể quan sát nhiều mô.Dịch tiết hoặc sinh thiết đường tiết niệuSchistosoma haematobium, đôi khi làS. japonicumLấy nước tiểu trực tiếp hoặc sinh thiết từ vùng tam giác cổ bàng quangThời gian lấy nước tiểu được khuyến nghị là từ 12 giờ trưa đến 3 giờ chiều. Ly tâm làm tăng khả năng phát hiện.Trứng có thể quan sát khi soi tươi nước tiểu hoặc mẫu sinh thiết từ bàng quang.Viêm âm đạo do nấmTăm bông lấy dịch tiết âm đạo, cổ tử cung, niệu đạo hoặc tuyến tiền liệt được đặt trong ống có một lượng nhỏ nước muối sinh lý vô trùngKiểm tra mẫu bệnh phẩm soi tươi trong vòng 10–15 phút sau khi lấy dịch âm đạo vì trichomonas sẽ kém di động hơn theo thời gian.Xác định sinh vật di động bằng phương pháp soi ướt là xét nghiệm nhanh nhất nhưng kém nhạy hơn. Nuôi cấy nhạy cảm hơn nhưng mất 5–7 ngày và cần phải ủ.Các xét nghiệm khuếch đại axit nucleic có độ nhạy và độ đặc hiệu cao được thực hiện trên mẫu bệnh phẩm âm đạo, mẫu bệnh phẩm cổ tử cung, mẫu bệnh phẩm niệu đạo và mẫu bệnh phẩm nước tiểu cũng có sẵn.BAL = dịch rửa phế quản; EDTA = axit ethylene diamin tetraacetic; UV=tia cực tím.* Phương pháp soi tươi là một kỹ thuật trong phòng thí nghiệm bao gồm việc cho mẫu bệnh phẩm lên một lam kính có một giọt chất lỏng và một tấm kính phủ để tạo điều kiện thuận lợi cho việc kiểm tra bằng kính hiển vi và xác định ký sinh trùng.Tham khảoCDC: Laboratory Identification of Parasitic Diseases of Public Health Concern, cung cấp hướng dẫn chẩn đoán chi tiết.BAL = dịch rửa phế quản; EDTA = axit ethylene diamin tetraacetic; UV=tia cực tím.* Phương pháp soi tươi là một kỹ thuật trong phòng thí nghiệm bao gồm việc cho mẫu bệnh phẩm lên một lam kính có một giọt chất lỏng và một tấm kính phủ để tạo điều kiện thuận lợi cho việc kiểm tra bằng kính hiển vi và xác định ký sinh trùng.Tham khảoCDC: Laboratory Identification of Parasitic Diseases of Public Health Concern, cung cấp hướng dẫn chẩn đoán chi tiết.Nhiễm ký sinh trùng cần phải được đặc biệt xem xét trong số các chẩn đoán phân biệt trong một số tình huống lâm sàng, ví dụ: sốt ở khách du lịch trở về từ vùng lưu hành bệnh gợi ý khả năng mắc bệnh sốt rét. Những người di cư từ vùng lưu hành bệnh đến vùng không lưu hành bệnh và trở về nhà thăm bạn bè và người thân có nguy cơ mắc bệnh đặc biệt cao. Các thành viên trong gia đình trực hệ, chẳng hạn như vợ/chồng và con cái, cũng có nguy cơ cao hơn. Những người nhập cư đi du lịch về nước có thể dễ mắc các bệnh truyền nhiễm do khả năng miễn dịch suy yếu do không phơi nhiễm liên tục. Do đó, họ có thể ít có khả năng tiêm vắc-xin trước khi đi du lịch, dùng thuốc phòng ngừa hoặc tư vấn sức khỏe phòng ngừa. So với khách du lịch lưu trú tại các khu nghỉ dưỡng, người nhập cư cũng có nhiều khả năng đến thăm những khu vực có tỷ lệ lây truyền bệnh cao hơn (1).Mặc dù ít xảy ra hơn, nhưng khả năng nhiễm ký sinh trùng mắc phải tại địa phương cũng phải được xem xét ở cư dân của các quốc gia có hệ thống vệ sinh hiện đại, những người có các hội chứng lâm sàng gợi ý, ngay cả khi họ không đi du lịch; một số ký sinh trùng lưu hành ở những quốc gia này và những ký sinh trùng khác (chủ yếu là những ký sinh trùng lây truyền qua đường phân-miệng) có thể lây nhiễm từ những du khách bị nhiễm bệnh.Thông tin về phơi nhiễm, dấu hiệu thực thể và dữ liệu phòng thí nghiệm cũng có thể gợi ý các bệnh nhiễm ký sinh trùng cụ thể. Ví dụ, tăng bạch cầu ái toan hay gặp khi giun sán di chuyển qua mô cơ quan và gợi ý nhiễm ký sinh trùng ở những người nhập cư hoặc người du lịch.Chẩn đoán nhiễm ký sinh trùng trước đây dựa trên việc xác định trứng, ấu trùng hoặc ký sinh trùng trưởng thành trong phân, máu, mô hoặc các mẫu khác hoặc dựa trên sự hiện diện của kháng thể trong huyết thanh, nhưng chẩn đoán ngày càng dựa trên việc xác định kháng nguyên ký sinh trùng hoặc xét nghiệm phân tử tìm DNA ký sinh trùng.Các bác sĩ lâm sàng có chuyên môn về nhiễm ký sinh trùng và y học nhiệt đới sẵn sàng tư vấn tại nhiều trung tâm y tế lớn, phòng khám du lịch và cơ sở y tế công cộng.Mô tả chi tiết các phương pháp chẩn đoán, xem thêm trong Trung tâm Kiểm soát và Phòng ngừa dịch bệnh (Centers for Disease Control and Prevention, CDC)Phòng thí nghiệm Xác định Ký sinh trùng của Public Health Concern.Ký sinh trùng đường tiêu hóaCác giai đoạn khác nhau của động vật nguyên sinh và giun sán gây nhiễm trùng đường tiêu hóa thường được thải ra ngoài qua phân. Để phát hiện thường quy, cần phải xét nghiệm mẫu phân, tốt nhất là lấy 3 mẫu phân vào những ngày khác nhau vì lượng phân thải ra có thể khác nhau. Độ nhạy của xét nghiệm phân để tìm trứng và ký sinh trùng thấp đến mức khi nghi ngờ lâm sàng mạnh, nên cân nhắc điều trị theo kinh nghiệm ngay cả khi xét nghiệm phân cho kết quả âm tính.Có các xét nghiệm phân tử nhạy cảm và đặc hiệu, chẳng hạn như các xét nghiệm dựa trên phản ứng chuỗi polymerase (PCR), để phát hiện các kháng nguyên củaGiardia,Cryptosporidium,Entamoeba histolyticavàCyclosporatrong phân; tuy nhiên, các xét nghiệm này có thể tốn kém (2) (xem bảngXét nghiệm huyết thanh và phân tử để phát hiện nhiễm ký sinh trùng). Xét nghiệm PCR đa mồi có thể phát hiện nhiều tác nhân gây bệnh đường ruột với độ nhạy và tốc độ cao hơn so với các phương thức chẩn đoán truyền thống như nuôi cấy; tuy nhiên, các xét nghiệm này không phân biệt được giữa các sinh vật sống và vi sinh vật không sống. Sự thiếu phân biệt này có thể gây ra những thách thức trong việc giải thích, đặc biệt là khi phát hiện nhiều tác nhân gây bệnh trong cùng một mẫu bệnh phẩm. Trong những trường hợp này, tiền sử của bệnh nhân, các biểu hiện lâm sàng và các biểu hiện theo thời gian của các triệu chứng nhiễm trùng và số lượng tương đối của DNA mầm bệnh có thể hữu ích trong việc dẫn hướng các quyết định điều trị (3).Mẫu bệnh phẩm phân mới thải ra không bị nhiễm nước tiểu, nước, bụi bẩn hoặc chất khử trùng (bất kể lấy ở phòng khám hay tại nhà bệnh nhân) nên được gửi đến phòng xét nghiệm trong vòng 1 giờ; phân chưa thành hình hoặc phân lỏng có nhiều khả năng có các động vật tư dưỡng di động. Khi mẫu bệnh phẩm đã ở trong phòng thí nghiệm, nếu không được xét nghiệm ngay lập tức, các mẫu bệnh phẩm này phải được làm lạnh nhưng không được đông lạnh. Sau đó, các kỹ thuật viên phòng xét nghiệm sẽ nhũ hóa một phần phân tươi trong chất cố định để bảo quản động vật nguyên sinh đường tiêu hóa. Kỹ thuật cô đặc cũng có thể được sử dụng để cải thiện độ nhạy. Nếubệnh giun lươnnghi ngờ, một hoặc nhiều xét nghiệm phân cần được thực hiện nếu không nhìn thấy ấu trùng khi kiểm tra trực tiếp phân tươi. Thuốc kháng sinh, thuốc cản quang, thuốc nhuận tràng và thuốc kháng axit có thể cản trở việc phát hiện trứng và ký sinh trùng trong vài tuần. Nếu nghi ngờ nhiễm giun tròn, có thể dùng băng dính hoặc tăm bông thấm hậu môn để thu thập trứng giun kim hoặc sán dây.Nội soi đại tràng sigma hoặc nội soi đại trực tràngnên được chỉ định khi xét nghiệm phân âm tính và nghi ngờ nhiễmamipở bệnh nhân có triệu chứng đường tiêu hóa dai dẳng. Lấy bệnh phẩm nội soi đại tràng bằng curet hặc thìa nạo (sử dụng bông gạc không thích hợp) và xét nghiệm ngay trên kính hiển vi. Nội soi đường tiêu hóa trên có thể được thực hiện để bao gồm dịch hút tá tràng hoặc mẫu bệnh phẩm sinh thiết ruột non; đôi khi cần phải nội soi đường tiêu hóa trên để chẩn đoán các bệnh nhiễm trùng nhưbệnh do cryptosporidiumvàbệnh do microsporidia.Xét nghiệm huyết thanh học trong nhiễm ký sinh trùngMột số loại kí sinh trùng có thể phát hiện bằng xét nghiệm huyết thanh học (xem bảngXét nghiệm huyết thanh học và xét nghiệm phân tử trong nhiễm kí sinh trùng).BảngXét nghiệm huyết thanh và sinh học phân tử trong nhiễm ký sinh trùngBảngXét nghiệm huyết thanh và sinh học phân tử trong nhiễm ký sinh trùngXét nghiệm huyết thanh và sinh học phân tử trong nhiễm ký sinh trùngNhiễm trùngKháng thểKháng nguyên hoặc ADN/ARNĐộng vật nguyên sinh và microsporidiaBệnh do trypanosoma châu Phi(chỉ cóTrypanosoma brucei gambiense)Xét nghiệm ngưng kết thẻ đối với bệnh doT. b. gambiense(CATT), các xét nghiệm dòng chảy bên nhanh khác—AmebiasisEIA, IHAPhân:Kháng nguyên (EIA), PCRBệnh do babesiaIFAMáu:PCRBệnh ChagasEIA, IFA, IBMáu, mô hoặc CSF:PCRBệnh do Cryptosporidium—Phân:Kháng nguyên (EIA), PCRCyclosporiasis—Phân:PCRNhiễm amip sống tự do (Acanthamoeba,Naegleria fowlerivàBalamuthia mandrillaris)IFA của mô não, da hoặc giác mạc đối vớiAcanthamoeba(hiếm khi được tìm thấy trong CSF)IFA của mẫu mô (Balamuthia)CSF, não hoặc mô khác:PCRCSF hoặc mô:IFA (Naegleria fowleri)Bệnh do nhiễm Gardia—Phân:Kháng nguyên (EIA), DFA, PCRLeishmaniasisEIA hoặc IFA (đối với bệnh do leishmania nội tạng nhưng không phải bệnh do leishmania da)Máu hoặc mô:PCRMalariaIFA (không dành cho sốt rét cấp tính)Máu:ICG cho kháng nguyên (xét nghiệm chẩn đoán nhanh), PCRNhiễm MicrosporidiumIFAMáu, nước tiểu, phân hoặc dịch não tủy:PCRBệnh do ToxoplasmaIFA, EIA (IgG và IgM)Mô hoặc máu:PCRTrichomoniasisDA (bài tiết tiết niệu sinh dục)LA (tiết dịch tiết niệu sinh dục)ICG (bài tiết tiết niệu sinh dục)Bài tiết tiết niệu sinh dục:Kháng nguyên (xét nghiệm chẩn đoán kháng nguyên nhanh), PCRGiun trònBệnh do BaylisascarisIB của huyết thanh hoặc dịch não tủy—Bệnh giun chỉ bạch huyết(Wuchereria bancrofti)EIA—Bệnh giun lươnEIA, IFA, IHAMẫu bệnh phẩm phân, dịch hút tá tràng và/hoặc mẫu sinh thiết (có thể là đờm trong các bệnh nhiễm trùng lan tỏa):PCR/LAMPTrichinosisEIA, IFA—Bệnh do toxocaraEIA (độ nhạy cảm với bệnh nội tạng cao hơn bệnh mắt), IB—Sán lá gan nhỏBệnh sán lá phổiCF, IB, EIA—Bệnh sán mángFAST-ELISA, IB, IHA, EIAMáu, nước tiểu và/hoặc phân:Phát hiện kháng nguyên; PCR có sẵn trong một số phòng thí nghiệm tham khảoBệnh sán lá gan lớnEIA, IB—Sán dâyBệnh sán dây nhỏ (Echinococcosis)EIA, IHA, IFA, IB—Bệnh sán dây thần kinh(Taenia solium)IB (huyết thanh hoặc CSF), EIAHuyết thanh hoặc CSF:Kháng nguyên (dùng để đánh giá đáp ứng điều trị; không đủ độ nhậy dùng để chẩn đoán)CSF:PCR (hạn chế)CDC = Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh; CF = cố định bổ thể; CSF = dịch não tủy; DFA=kháng thể huỳnh quang trực tiếp; EIA=xét nghiệm miễn dịch enzym; FAST-ELISA=Xét nghiệm sàng lọc xét nghiệm Falcon–xét nghiệm hấp thụ miễn dịch liên kết enzym; IB=vết miễn dịch; ICG=xét nghiệm sắc ký miễn dịch; IFA=xét nghiệm miễn dịch huỳnh quang gián tiếp; IHA=xét nghiệm ngưng kết hồng cầu gián tiếp; LAMP=khuếch đại đẳng nhiệt qua trung gian vòng lặp; PCR=phản ứng chuỗi polymerase; TEM = kính hiển vi điện tử truyền qua.Chú ý: Một số bộ dụng cụ phát hiện kháng nguyên và ký sinh trùng có bán trên thị trường. Những loại khác có sẵn tại CDC hoặc các phòng thí nghiệm tham chiếu khác. Các xét nghiệm sinh học phân tử (ví dụ PCR) dựa ADN có sẵn phát hiện kháng nguyên sinh vật đơn bào trong mẫu phân, nhưng rất tốn kém. Các xét nghiệm sinh học phân tử cho một số ký sinh trùng kháccó sẵn ở các labor xét nghiệm tham khảo hoặc nghiên cứu.Dựa trên CDCPhòng thí nghiệm Xác định Ký sinh trùng của Public Health Concern.CDC = Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh; CF = cố định bổ thể; CSF = dịch não tủy; DFA=kháng thể huỳnh quang trực tiếp; EIA=xét nghiệm miễn dịch enzym; FAST-ELISA=Xét nghiệm sàng lọc xét nghiệm Falcon–xét nghiệm hấp thụ miễn dịch liên kết enzym; IB=vết miễn dịch; ICG=xét nghiệm sắc ký miễn dịch; IFA=xét nghiệm miễn dịch huỳnh quang gián tiếp; IHA=xét nghiệm ngưng kết hồng cầu gián tiếp; LAMP=khuếch đại đẳng nhiệt qua trung gian vòng lặp; PCR=phản ứng chuỗi polymerase; TEM = kính hiển vi điện tử truyền qua.Chú ý: Một số bộ dụng cụ phát hiện kháng nguyên và ký sinh trùng có bán trên thị trường. Những loại khác có sẵn tại CDC hoặc các phòng thí nghiệm tham chiếu khác. Các xét nghiệm sinh học phân tử (ví dụ PCR) dựa ADN có sẵn phát hiện kháng nguyên sinh vật đơn bào trong mẫu phân, nhưng rất tốn kém. Các xét nghiệm sinh học phân tử cho một số ký sinh trùng kháccó sẵn ở các labor xét nghiệm tham khảo hoặc nghiên cứu.Dựa trên CDCPhòng thí nghiệm Xác định Ký sinh trùng của Public Health Concern.Tài liệu tham khảo chẩn đoán1.Centers for Disease Control and Prevention (CDC): Visiting Friends & Relatives: VFR Travel. CDC Yellow Book 2024. Truy cập ngày 31 tháng 1 năm 2025.2.Shane AL, Mody RK, Crump JA, et al. 2017 Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.Clin Infect Dis. 2017;65(12):e45-e80. doi:10.1093/cid/cix6693.Miller JM, Binnicker MJ, Campbell S, et al. A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology.Clin Infect Dis. 2018;67(6):e1-e94. doi:10.1093/cid/ciy381
+
+--- 2. Điều trị nhiễm ký sinh trùng ---
+
+Có nhiều phương pháp điều trị khác nhau phụ thuộc nhiễm trùng loại nàoXem mục nhiễm trùng cụ thể ở phần khác trong Cẩm nang.Lời khuyên về cách điều trị nhiễm ký sinh trùng có sẵn từ các chuyên gia tại các trung tâm y tế và sức khỏe công cộng lớn và các phòng khám du lịch, từChỉ mục ký sinh trùng từ A đến Z của CDC,Chăm sóc bệnh giun sán truyền qua đất trên lâm sàngcủa CDC và trong sách giáo khoa về các bệnh truyền nhiễm và y học nhiệt đới.Một số loại thuốc không được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt để điều trị nhiễm ký sinh trùng có thể được mua từCDC Drug Service.
+
+--- 3. Phòng ngừa nhiễm ký sinh trùng ---
+
+Các loại vắc xin chống sốt rét mới được phát triển gần đây, R21/Matrix-M và RTS,S, là những loại vắc-xin được cấp phép đầu tiên để phòng ngừa nhiễm ký sinh trùng (xemWHO: Malaria vaccines (RTS,S and R21)). Vắc-xin phòng ngừa các bệnh nhiễm ký sinh trùng khác, bao gồmbệnh sán máng,bệnh do leishmaniavàgiun móc, đang được phát triển. Mặt khác, phòng ngừa chủ yếu dựa trên các chiến lược tránh bị bệnh.Có thể ngăn ngừa sự lây truyền của hầu hết các loại ký sinh trùng đường ruột bằng những biện pháp sau:Xử lý phân và chất thải hợp vệ sinhRửa tayNấu vừa đủ thức ănCung cấp nước tinh khiếtRửa tay là rất quan trọng sau khi sử dụng phòng tắm và nhà vệ sinh và trước khi chuẩn bị thức ăn. Trongchuyến điđến những khu vực có khả năng phơi nhiễm với các bệnh nhiễm ký sinh trùng qua đường phân-miệng, lời khuyên tốt nhất là “nấu chín, luộc chín, lột vỏ hoặc quên món đó đi”, nghĩa là du khách nên tránh những việc sau: ăn thịt, cá, động vật có vỏ và trứng chưa nấu chín hoàn toàn; ăn trái cây hoặc rau sống; và ăn hoặc uống các sản phẩm từ sữa hoặc nước ép trái cây chưa tiệt trùng. Một ngoại lệ đối với hướng dẫn này là trái cây hoặc rau quả có vỏ dày (ví dụ: chuối) thường được coi là an toàn khi ăn sống nếu vỏ được rửa sạch trước khi bỏ đi. Cần cẩn thận để xác minh rằng nước uống được lấy từ các nguồn an toàn. Do một số loại ký sinh trùng có thể sống sót sau khi đông lạnh nên đôi khi đá viên có thể truyền bệnh trừ khi đá viên được làm từ nước tinh khiết. Theo sau đó, các biện pháp làm giảm nhưng không loại bỏ được nguy cơ nhiễm ký sinh trùng đường ruột cũng như nguy cơ nhiễm khuẩn và vi rút đường ruột.Các biện pháp an toàn khác để ngăn ngừa nhiễm ký sinh trùng bao gồm loại bỏ hộp đựng cát vệ sinh cho mèo khỏi khu vực chế biến thực phẩm để ngăn ngừa bệnh do toxoplasma. Mọi người không nên bơi ở các hồ nước ngọt, suối hoặc sông ở những khu vực đang lưu hành bệnh sán máng hoặc đi chân trần hoặc tiếp xúc da trần với bề mặt ở những khu vực có giun móc.Phòng ngừa bệnh sốt rétvà nhiều bệnh do véc tơ truyền bệnh khác bao gồm các biện pháp sau:Mặc áo sơ mi dài tay và quần dàiBôi thuốc chống côn trùng có diethyltoluamide (DEET) lên vùng da hở và permethrin lên quần áo (tuy nhiên, xử lý quần áo kém hiệu quả hơn so với sử dụng thuốc chống côn trùng trên da)Sử dụng màn cửa sổ, điều hòa, và màn chống muỗi bằng chất permethrin hoặc thuốc xua đuổi côn trùng khácSử dụng thuốc xịt côn trùng, bao gồm thuốc xịtpermethrinhoặc thuốc xịt pyrethrum trong nhà và nhà ngoàiĐối với cư dân của các khu vực không lưu hành bệnh sốt rét đi đến các khu vực có bệnh sốt rét lưu hành, hãy dùng thuốc chống sốt rét dự phòngKhách du lịch đến vùng nông thôn Mỹ Latinh không nên ngủ ở nhà xây bằng gạch không nung có các con bọ nhỏ truyềnbệnh Chagas. Ở châu Phi, khách du lịch nên tránh mặc quần áo sáng màu và áo sơ mi dài tay và quần dài tránh nhiễm ruồi tsetse ởvùng châu Phi lưu hành bệnh ngủ ruồichâu Phi.Các khuyến nghị cụ thể cho từng quốc gia về du lịch có sẵn từCDC: Travelers' Healthand from theCDC Yellow Book.
+
+--- 4. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Centers for Disease Control and Prevention (CDC):Laboratory Identification of Parasitic Diseases of Public Health Concern

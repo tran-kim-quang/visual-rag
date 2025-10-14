@@ -1,0 +1,3013 @@
+TIÊU ĐỀ: Rối loạn lipid máu
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/rối-loạn-lipid/rối-loạn-lipid-máu
+================================================================================
+
+NỘI DUNG:
+
+Rối loạn lipid máu
+
+(Tăng lipid máu)
+
+Theo
+
+Michael H. Davidson
+
+,
+
+MD, FACC, FNLA
+
+,
+
+University of Chicago Medicine, Pritzker School of Medicine;
+
+Marie Altenburg
+
+,
+
+MD
+
+,
+
+The University of Chicago
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2025
+
+v989684_vi
+
+Rối loạn mỡ máu là tình trạng
+
+tăng
+
+cholesterol, triglycerid (TG), hoặc cả hai trong huyết tương, hoặc nồng độ cholesterol lipoprotein mật độ cao (HDL-C) thấp góp phần vào sự phát triển của
+
+xơ vữa động mạch
+
+. Nguyên nhân có thể là tiên phát (di truyền) hoặc thứ phát. Chẩn đoán bằng cách đo nồng độ cholesterol toàn phần, triglyceride và từng lipoprotein trong huyết tương. Phương pháp điều trị bao gồm thay đổi chế độ ăn uống, tập thể dục và dùng thuốc hạ lipid.
+
+Phân loại
+
+|
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Sàng lọc
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Xem thêm
+
+Tổng quan về chuyển hóa Lipid
+
+Nồng độ lipid huyết thanh duy trì liên tục; không có ngưỡng chính xác giữa nồng độ bình thường và bất thường. Có thể có mối quan hệ tuyến tính giữa nồng độ lipid và nguy cơ tim mạch (xem bảng
+
+Nồng độ cholesterol và nguy cơ tim mạch
+
+), vì vậy nhiều người có nồng độ cholesterol “bình thường” sẽ được hưởng lợi khi đạt được nồng độ thấp hơn nữa (
+
+1
+
+). Do đó, không có định nghĩa số liệu về rối loạn lipid máu; thuật ngữ được áp dụng cho các mức nồng độ lipid mà điều trị đã được chứng minh có lợi.
+
+Bằng chứng về lợi ích là mạnh nhất trong việc làm giảm nồng độ cao của cholesterol lipoprotein mật độ thấp (LDL-C). Trong dân số nói chung, bằng chứng về lợi ích từ việc giảm lượng triglyceride cao và tăng lượng cholesterol lipoprotein tỉ trọng cao (HDL-C) thấp chưa thực sự thuyết phục.
+
+Nồng độ HDL-C không phải lúc nào cũng dự đoán nguy cơ tim mạch. Ví dụ: nồng độ HDL-C cao do một số rối loạn di truyền gây ra có thể không liên quan đến giảm nguy cơ mắc các bệnh tim mạch và nồng độ HDL-C thấp do một số rối loạn di truyền gây ra có thể không liên quan đến tăng nguy cơ mắc các bệnh tim mạch. Mặc dù nồng độ HDL-C thấp dự đoán nguy cơ tim mạch ở dân số nói chung, nhưng nguy cơ gia tăng có thể do các yếu tố khác gây ra, chẳng hạn như các bất thường về lipid và chuyển hóa đi kèm như tăng triglyceride máu, chứ không phải do chính nồng độ HDL-C (
+
+2-8
+
+). Hơn nữa, một số bằng chứng ủng hộ mối quan hệ hình chữ U giữa nồng độ HDL-C và các kết quả tim mạch bất lợi, với nguy cơ gia tăng ở cả nồng độ HDL-C thấp nhất và cao nhất (
+
+9
+
+).
+
+Bảng
+
+Nồng độ cholesterol và nguy cơ tim mạch
+
+Bảng
+
+Nồng độ cholesterol và nguy cơ tim mạch
+
+Nồng độ cholesterol và nguy cơ tim mạch
+
+Nguy cơ tim mạch
+
+Cholesterol toàn phần
+
+LDL-C
+
+HDL-C
+
+Nguy cơ cao hơn
+
+≥ 6,2 mmol/L (240 mg/dL)
+
+≥ 4,1 mmol/L (160 mg/dL)
+
+Nam: < 1,0 mmol/L (40 mg/dL)
+
+Nữ: < 1,3 mmol/L (50 mg/dL)
+
+Có nguy cơ
+
+5,2 - 6,2 mmol/L (200 - 239 mg/dL)
+
+2,6 - 4,1 mmol/L (100 - 159 mg/dL)
+
+Nam: 1,0 - 1,5 mmol/L (40 - 59 mg/dL)
+
+Nữ: 1,3 - 1,5 mmol/L (50 - 59 mg/dL)
+
+Nguy cơ thấp
+
+< 5,2 mmol/L (200 mg/dL)
+
+< 2,6 mmol/L (100 mg/dL)
+
+≥ 1,6 mmol/L (60 mg/dL )*
+
+* Bằng chứng ủng hộ đường cong hình chữ U giữa nồng độ HDL và nguy cơ tim mạch, với nguy cơ gia tăng có thể liên quan đến nồng độ HDL rất cao. (
+
+Mørland JG, Magnus P, Vollset SE, Leon DA, Selmer R, Tverdal A
+
+. Associations between serum high-density lipoprotein cholesterol levels and cause-specific mortality in a general population of 345 000 men and women aged 20-79 years.
+
+Int J Epidemiol
+
+2023;52(4):1257-1267. doi:10.1093/ije/dyad011)
+
+HDL
+
+=
+
+lipoprotein tỷ trọng cao; LDL
+
+=
+
+lipoprotein tỷ trọng thấp.
+
+Dữ liệu từ
+
+Carmena R
+
+: Primary Mixed Dyslipidemias, Biên tập viên: Ilpo Huhtaniemi, Luciano Martini,
+
+Encyclopedia of Endocrine Diseases
+
+(Second Edition), Academic Press, 2019, Pages 314-319, ISBN 9780128122006, https://doi.org/10.1016/B978-0-12-801238-3.65333-3.
+
+* Bằng chứng ủng hộ đường cong hình chữ U giữa nồng độ HDL và nguy cơ tim mạch, với nguy cơ gia tăng có thể liên quan đến nồng độ HDL rất cao. (
+
+Mørland JG, Magnus P, Vollset SE, Leon DA, Selmer R, Tverdal A
+
+. Associations between serum high-density lipoprotein cholesterol levels and cause-specific mortality in a general population of 345 000 men and women aged 20-79 years.
+
+Int J Epidemiol
+
+2023;52(4):1257-1267. doi:10.1093/ije/dyad011)
+
+HDL
+
+=
+
+lipoprotein tỷ trọng cao; LDL
+
+=
+
+lipoprotein tỷ trọng thấp.
+
+Dữ liệu từ
+
+Carmena R
+
+: Primary Mixed Dyslipidemias, Biên tập viên: Ilpo Huhtaniemi, Luciano Martini,
+
+Encyclopedia of Endocrine Diseases
+
+(Second Edition), Academic Press, 2019, Pages 314-319, ISBN 9780128122006, https://doi.org/10.1016/B978-0-12-801238-3.65333-3.
+
+Tài liệu tham khảo chung
+
+1.
+
+Giugliano RP, Pedersen TR, Park JG, et al
+
+. Clinical efficacy and safety of achieving very low LDL-cholesterol concentrations with the PCSK9 inhibitor
+
+evolocumab
+
+: a prespecified secondary analysis of the FOURIER trial.
+
+Lancet
+
+2017;390(10106):1962-1971. doi:10.1016/S0140-6736(17)32290-0
+
+2.
+
+Bowe B, Xie Y, Xian H, Balasubramanian S, Zayed MA, Al-Aly Z
+
+. High Density Lipoprotein Cholesterol and the Risk of All-Cause Mortality among U.S. Veterans.
+
+Clin J Am Soc Nephrol
+
+2016;11(10):1784-1793. doi:10.2215/CJN.00730116
+
+3.
+
+Emerging Risk Factors Collaboration, Di Angelantonio E, Sarwar N, et al
+
+. Major lipids, apolipoproteins, and risk of vascular disease.
+
+JAMA
+
+2009;302(18):1993-2000. doi:10.1001/jama.2009.1619
+
+4.
+
+Isaacs A, Sayed-Tabatabaei FA, Njajou OT, Witteman JC, van Duijn CM
+
+. The -514 C->T hepatic lipase promoter region polymorphism and plasma lipids: a meta-analysis. J Clin Endocrinol Metab. 2004;89(8):3858-3863. doi:10.1210/jc.2004-0188
+
+5.
+
+Kanai M, Akiyama M, Takahashi A, et al
+
+. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases.
+
+Nat Genet
+
+2018;50(3):390-400. doi:10.1038/s41588-018-0047-6
+
+6.
+
+Madsen CM, Varbo A, Nordestgaard BG
+
+. Extreme high high-density lipoprotein cholesterol is paradoxically associated with high mortality in men and women: two prospective cohort studies.
+
+Eur Heart J
+
+2017;38(32):2478-2486. doi:10.1093/eurheartj/ehx163
+
+7.
+
+Wilkins JT, Ning H, Stone NJ, et al
+
+. Coronary heart disease risks associated with high levels of HDL cholesterol.
+
+J Am Heart Assoc
+
+2014;3(2):e000519. Xuất bản ngày 13 tháng 3 năm 2014. doi:10.1161/JAHA.113.000519
+
+8.
+
+Yang X, Sethi A, Yanek LR, et al
+
+. SCARB1 Gene Variants Are Associated With the Phenotype of Combined High High-Density Lipoprotein Cholesterol and High Lipoprotein (a).
+
+Circ Cardiovasc Genet
+
+2016;9(5):408-418. doi:10.1161/CIRCGENETICS.116.001402
+
+9.
+
+Mørland JG, Magnus P, Vollset SE, Leon DA, Selmer R, Tverdal A
+
+. Associations between serum high-density lipoprotein cholesterol levels and cause-specific mortality in a general population of 345 000 men and women aged 20-79 years.
+
+Int J Epidemiol
+
+2023;52(4):1257-1267. doi:10.1093/ije/dyad011
+
+Phân loại rối loạn lipid máu
+
+Rối loạn lipid máu theo truyền thống được phân loại theo kiểu tăng lipid và lipoprotein (ví dụ: kiểu hình Fredrickson), nhưng một hệ thống thực tế hơn phân loại rối loạn lipid máu thành nguyên phát hoặc thứ phát và mô tả tình trạng này bằng:
+
+Chỉ tăng cholesterol: Tăng cholesterol máu đơn thuần hoặc đơn độc
+
+Chỉ tăng triglyceride: Tăng triglycerid máu đơn thuần hoặc đơn độc
+
+Tăng cả cholesterol và triglyceride: Tăng lipid máu hỗn hợp hoặc kết hợp
+
+Hệ thống này không tính đến những bất thường cụ thể về lipoprotein (ví dụ: HDL-C thấp hoặc LDL-C cao) có thể góp phần gây bệnh mặc dù nồng độ cholesterol và triglyceride bình thường.
+
+Nguyên nhân rối loạn mỡ máu
+
+Rối loạn lipid máu có thể là:
+
+Nguyên phát: Di truyền
+
+Thứ phát: Nguyên nhân do lối sống và các yếu tố khác
+
+Cả các nguyên nhân tiên phát và các nguyên nhân thứ phát góp phần gây rối loạn lipid ở nhiều mức độ khác nhau. Ví dụ, trong tăng lipid máu kết hợp tính chất gia đình, biểu hiện có thể xảy ra chỉ khi có các nguyên nhân thứ phát.
+
+Nguyên nhân nguyên phát
+
+Các nguyên nhân chính là do một hoặc nhiều đột biến gen dẫn đến sản xuất quá mức hoặc thanh thải kém triglycerides và LDL hoặc sản sinh ít hoặc thanh thải quá mức HDL (xem bảng
+
+Rối loạn lipid máu (nguyên phát) do di truyền
+
+).
+
+Bảng
+
+Rối loạn lipid máu do gen (nguyên phát)
+
+Bảng
+
+Rối loạn lipid máu do gen (nguyên phát)
+
+Rối loạn lipid máu do gen (nguyên phát)
+
+Rối loạn
+
+Khiếm khuyết/cơ chế di truyền
+
+Di truyền
+
+sự phổ biến
+
+Đặc điểm lâm sàng
+
+Điều trị
+
+Thiếu hụt Apo C-II [a]
+
+Apo C-II (gây thiếu chức năng LPL)
+
+Gen lặn
+
+<
+
+1/1 triệu
+
+Viêm tụy (ở một số người lớn), hội chứng chuyển hóa (thường có mặt)
+
+TG:
+
+>
+
+750 mg/dL (
+
+>
+
+8,5 mmol/L)
+
+Chế độ ăn: Hạn chế chất béo nghiêm trọng bằng cách bổ sung vitamin tan trong chất béo và bổ sung TG chuỗi trung bình
+
+Bệnh u vàng gân cơ-não [b]
+
+Khiếm khuyết 27-hydroxylase của ty thể gan
+
+Ngăn chặn sự tổng hợp axit mật và chuyển hóa cholesterol thành cholestanol, chất này tích tụ trong máu, hệ thần kinh và các cơ quan khác
+
+Gen lặn
+
+Hiếm gặp
+
+Đục thủy tinh thể, CAD sớm, bệnh thần kinh, chứng mất điều hòa
+
+Axit Chenodeoxycholic
+
+Bệnh dự trữ Cholesteryl ester
+
+và
+
+bệnh Wolman
+
+[c]
+
+Thiếu hụt acid lipase lysosomal
+
+Gen lặn
+
+Hiếm gặp
+
+CAD sớm
+
+Tích tụ cholesteryl ester và TG trong lysosome trong gan, lá lách, và hạch bạch huyết
+
+Xơ gan
+
+Có thể là statin
+
+Thay thế enzym
+
+Thiếu hụt/đột biến apo AI có tính chất gia đình
+
+Apo AI
+
+không xác định
+
+Hiếm gặp
+
+Đục giác mạc, xanthomas, CAD sớm (ở một số người)
+
+HDL: 15–30 mg/dL (0,39–0,78 mmol/L)
+
+Chăm sóc hỗ trợ
+
+Hội chứng chylomicron máu có tính gia đình (trước đây là thiếu hụt LPL) [e]
+
+Gen
+
+LPL
+
+Gen
+
+APOC2
+
+Gen
+
+APOA5
+
+Gen
+
+GP1HBP1
+
+Gen
+
+LMF1
+
+Gen lặn
+
+Hiếm gặp
+
+Tăng triglyceride máu, viêm tụy, u vàng thể phát ban, nhiễm lipid võng mạc
+
+TG > 1000 mg/dL (11,2 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+Fibrate
+
+Trao đổi huyết tương
+
+Olezarsen
+
+Tăng lipid máu kết hợp có tính gia đình [f]
+
+Không rõ, có thể có nhiều khiếm khuyết và cơ chế
+
+Có ưu thế
+
+1/50 đến 1/100
+
+CAD sớm, gây ra khoảng 15% số trường hợp MI ở những người
+
+<
+
+60 tuổi
+
+Apo B: Tăng cao một cách không cân xứng
+
+TC: 250-500 mg/dL (6,5-13,0 mmol/L)
+
+TG: 250-750 mg/dL (2,8-8,5 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+Sụt cân
+
+Thuốc hạ lipid
+
+Apo B-100 khiếm khuyết có tính gia đình [g]
+
+Apo B (khiếm khuyết của vùng thụ thể LDL)
+
+Giảm thanh thải LDL
+
+Có ưu thế
+
+1/700
+
+Xanthomas, củng giác mạc, CAD sớm
+
+TC: 250-500 mg/dL (6,5-13 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+Thuốc hạ lipid
+
+Rối loạn betalipoprotein máu có tính gia đình [h]
+
+Apo E (thường là đồng hợp tử e2/e2)
+
+Giảm thanh thải chylomicron và VLDL
+
+Gen lặn (phổ biến hơn) hoặc gen trội (ít phổ biến hơn)
+
+1/5000
+
+Xanthomas (đặc biệt là củ và phẳng), nếp nhăn màu vàng gan bàn tay, CAD sớm
+
+TC: 250-500 mg/dL (6,5-13,0 mmol/L)
+
+TG: 250-500 mg/dL (2,8-5,6 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+Thuốc hạ lipid
+
+Tăng cholesterol máu có tính gia đình [i]
+
+Thiếu thụ thể LDL
+
+Giảm thanh thải LDL
+
+Ưu thế
+
+Dị hợp: 1/200
+
+U vàng thể gân, cung giác mạc, CAD sớm (tuổi 30–50), gây ra khoảng 5% số trường hợp MI ở những người
+
+<
+
+60 tuổi
+
+TC: 250-500 mg/dL (6,5-13 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+Thuốc hạ lipid
+
+Chiết tách LDL (dành cho bệnh nhân đồng hợp tử và bệnh nhân dị hợp tử mắc bệnh nặng)
+
+Đồng hợp tử: 1/250.000-1/1 triệu (tăng lên trong số những người Pháp gốc Canada, Christian Lebanese và Nam Phi)
+
+xanthoma gân gót và phẳng, xanthoma củ, CAD sớm (trước 18 tuổi)
+
+TC
+
+>
+
+500 mg/dL (
+
+>
+
+13 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+Thuốc hạ lipid
+
+Chiết tách LDL (dành cho bệnh nhân đồng hợp tử và bệnh nhân dị hợp tử mắc bệnh nặng)
+
+Ghép gan (dành cho bệnh nhân đồng hợp tử)
+
+Tăng triglyceride máu có tính gia đình [h]
+
+Không rõ, có thể có nhiều khiếm khuyết và cơ chế
+
+Có ưu thế
+
+1/500
+
+Thông thường không có triệu chứng hoặc phát hiện; thỉnh thoảng tăng nồng độ u xơ máu, đôi khi xơ vữa động mạch sớm
+
+TG: 200-500 mg/dL (2,3-5,6 mmol/L), có thể cao hơn tùy thuộc vào chế độ ăn uống và sử dụng rượu
+
+Chế độ ăn uống ít chất béo
+
+Sụt cân
+
+Thuốc hạ lipid
+
+Thiếu hụt LCAT có tính gia đình [j]
+
+LCAT
+
+gen
+
+Gen lặn
+
+Cực kì hiếm
+
+đục giác mạc, thiếu máu, bệnh thận mạn tính
+
+HDL:
+
+<
+
+10 mg/dL (< 0,26 mmol/L)
+
+Hạn chế chất béo
+
+Cấy ghép thận
+
+Bệnh Fisheye (thiếu một phần LCAT)
+
+LCAT
+
+gen
+
+Gen lặn
+
+Cực kì hiếm
+
+Độ mờ của giác mạc
+
+HDL:
+
+<
+
+10 mg/dL (< 0,26 mmol/L)
+
+Chăm sóc hỗ trợ
+
+Thiếu lipase tại gan
+
+Lipase tại gan
+
+Gen lặn
+
+Cực kì hiếm
+
+CAD sớm
+
+TC: 250-1500 mg/dL (6,5-39 mmol/L)
+
+TG: 395–8200 mg/dL (4,5–93 mmol/L)
+
+HDL: Thay đổi
+
+Chế độ ăn ít chất béo, thuốc hạ lipid
+
+PCSK9 tăng của các đột biến chức năng
+
+Tăng sự giáng hóa của thụ thể LDL
+
+Có ưu thế
+
+không xác định
+
+Tương tự như chứng tăng cholesterol máu gia đình
+
+Chế độ ăn uống ít chất béo
+
+Thuốc hạ lipid
+
+Tăng cholesterol máu đa gen
+
+Không rõ, có thể có nhiều khiếm khuyết và cơ chế
+
+Thay đổi
+
+Phổ biến
+
+CAD sớm
+
+TC: 250-350 mg/dL (6,5-9,0 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+Thuốc hạ lipid
+
+Thiếu hụt alphalipoprotien máu (tính chất gia đình hoặc không)
+
+Không xác định, có thể apo AI, C-III, hoặc A-IV
+
+Có ưu thế
+
+Hiếm gặp
+
+CAD sớm
+
+HDL: 15-35 mg/dL (0,39–0,91 mmol/L)
+
+Tập thể dục
+
+Thuốc hạ LDL
+
+Sitosterolemia
+
+ABCG5
+
+và
+
+ABCG8
+
+gen
+
+Gen lặn
+
+Hiếm gặp
+
+xanthoma gân, CAD sớm
+
+Hạn chế chất béo
+
+Chất gắn acid mật
+
+Ezetimibe
+
+Bệnh Tangier
+
+ABCA1
+
+gen
+
+Gen lặn
+
+Hiếm gặp
+
+CAD sớm (ở một số người), bệnh lý thần kinh ngoại vi, thiếu máu tán huyết, đục giác mạc, gan lách to, amindan vàng
+
+HDL:
+
+<
+
+5 mg/dL (< 0,13 mmol/L)
+
+Chế độ ăn uống ít chất béo
+
+[a] Dữ liệu về tỷ lệ hiện hành từ
+
+Hoffmann, M.M., März, W
+
+. (2009). Thiếu hụt Apo C-II. In: Lang, F. (eds)
+
+Encyclopedia of Molecular Mechanisms of Disease.
+
+Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-540-29676-8_137
+
+[b] Prevalence data from
+
+Nie S, Chen G, Cao X, Zhang Y
+
+. Cerebrotendinous xanthomatosis: a comprehensive review of pathogenesis, clinical manifestations, diagnosis, and management.
+
+Orphanet J Rare Dis
+
+2014;9:179. Xuất bản ngày 26 tháng 11 năm 2014. doi:10.1186/s13023-014-0179-4
+
+[c] Prevalence data from
+
+Pericleous M, Kelly C, Wang T, Livingstone C, Ala A
+
+. Wolman's disease and cholesteryl ester storage disorder: the phenotypic spectrum of lysosomal acid lipase deficiency.
+
+Lancet Gastroenterol Hepatol
+
+2017;2(9):670-679. doi:10.1016/S2468-1253(17)30052-3
+
+[d] Dữ liệu từ
+
+Geller AS, Polisecki EY, Diffenderfer MR, et al
+
+. Genetic and secondary causes of severe HDL deficiency and cardiovascular disease.
+
+J Lipid Res
+
+2018;59(12):2421-2435. doi:10.1194/jlr.M088203
+
+[e] Prevalence data from
+
+Javed F, Hegele RA, Garg A, et al
+
+. Familial chylomicronemia syndrome: An expert clinical review from the National Lipid Association.
+
+J Clin Lipidol
+
+xuất bản ngày 21 tháng 3 năm 2025. doi: 10.1016/j.jacl.2025.03.013
+
+[f] Prevalence data from
+
+Taghizadeh E, Farahani N, Mardani R, Taheri F, Taghizadeh H, Gheibihayat SM
+
+. Genetics of Familial Combined Hyperlipidemia (FCHL) Disorder: An Update.
+
+Biochem Genet
+
+2022;60(2):453-481. doi:10.1007/s10528-021-10130-2
+
+[g] Prevalence data from
+
+Tybjaerg-Hansen A, Humphries SE
+
+Atherosclerosis
+
+. Familial defective apolipoprotein B-100: a single mutation that causes hypercholesterolemia and premature coronary artery disease.  1992;96(2-3):91-107. doi:10.1016/0021-9150(92)90056-m
+
+[h] Data from
+
+Shah AS, Wilson DP
+
+. Genetic Disorders Causing Hypertriglyceridemia in Children and Adolescents. [Cập nhật ngày 22 tháng 2 năm 2023]. In: Feingold KR, Anawalt B, Blackman MR, et al., editors. Endotext [Internet]. Nam Dartmouth (MA): MDText.com, Inc.; 2000-. Có ở: https://www.ncbi.nlm.nih.gov/books/NBK395571/
+
+[i] Data from
+
+Jackson CL, Ahmad Z, Das SR, Khera A
+
+. The evaluation and management of patients with LDL-C ≥ 190 ​mg/dL in a large health care system.
+
+Am J Prev Cardiol
+
+2020;1:100002. Xuất bản ngày 1 tháng 5 năm 2020. doi:10.1016/j.ajpc.2020.100002
+
+[j] Data from
+
+Mehta R, Elias-Lopez D, Martagon AJ, et al
+
+. LCAT deficiency: a systematic review with the clinical and genetic description of Mexican kindred.
+
+Lipids Health Dis
+
+2021;20(1):70. Xuất bản ngày 13 tháng 7 năm 2021. doi:10.1186/s12944-021-01498-6
+
+ABCA1
+
+=
+
+protein vận chuyển cassette gắn kết
+
+adenosin
+
+triphosphate (ATP) A1; ABCG5 và 8
+
+=
+
+các protein thành viên G phân họ cassette gắn kết ATP 5 và 8; apo
+
+=
+
+apoprotein; CAD
+
+=
+
+bệnh động mạch vành; HDL
+
+=
+
+lipoprotein tỷ trọng cao; LCAT
+
+=
+
+lecithin
+
+-cholesterol acyltransferase; LDL
+
+=
+
+lipoprotein tỷ trọng thấp; LPL
+
+=
+
+lipoprotein lipase; MI = nhồi máu cơ tim; PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; TC
+
+=
+
+cholesterol toàn phần; TG
+
+=
+
+triglyceride; VLDL
+
+=
+
+lipoprotein tỷ trọng rất thấp.
+
+[a] Dữ liệu về tỷ lệ hiện hành từ
+
+Hoffmann, M.M., März, W
+
+. (2009). Thiếu hụt Apo C-II. In: Lang, F. (eds)
+
+Encyclopedia of Molecular Mechanisms of Disease.
+
+Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-540-29676-8_137
+
+[b] Prevalence data from
+
+Nie S, Chen G, Cao X, Zhang Y
+
+. Cerebrotendinous xanthomatosis: a comprehensive review of pathogenesis, clinical manifestations, diagnosis, and management.
+
+Orphanet J Rare Dis
+
+2014;9:179. Xuất bản ngày 26 tháng 11 năm 2014. doi:10.1186/s13023-014-0179-4
+
+[c] Prevalence data from
+
+Pericleous M, Kelly C, Wang T, Livingstone C, Ala A
+
+. Wolman's disease and cholesteryl ester storage disorder: the phenotypic spectrum of lysosomal acid lipase deficiency.
+
+Lancet Gastroenterol Hepatol
+
+2017;2(9):670-679. doi:10.1016/S2468-1253(17)30052-3
+
+[d] Dữ liệu từ
+
+Geller AS, Polisecki EY, Diffenderfer MR, et al
+
+. Genetic and secondary causes of severe HDL deficiency and cardiovascular disease.
+
+J Lipid Res
+
+2018;59(12):2421-2435. doi:10.1194/jlr.M088203
+
+[e] Prevalence data from
+
+Javed F, Hegele RA, Garg A, et al
+
+. Familial chylomicronemia syndrome: An expert clinical review from the National Lipid Association.
+
+J Clin Lipidol
+
+xuất bản ngày 21 tháng 3 năm 2025. doi: 10.1016/j.jacl.2025.03.013
+
+[f] Prevalence data from
+
+Taghizadeh E, Farahani N, Mardani R, Taheri F, Taghizadeh H, Gheibihayat SM
+
+. Genetics of Familial Combined Hyperlipidemia (FCHL) Disorder: An Update.
+
+Biochem Genet
+
+2022;60(2):453-481. doi:10.1007/s10528-021-10130-2
+
+[g] Prevalence data from
+
+Tybjaerg-Hansen A, Humphries SE
+
+Atherosclerosis
+
+. Familial defective apolipoprotein B-100: a single mutation that causes hypercholesterolemia and premature coronary artery disease.  1992;96(2-3):91-107. doi:10.1016/0021-9150(92)90056-m
+
+[h] Data from
+
+Shah AS, Wilson DP
+
+. Genetic Disorders Causing Hypertriglyceridemia in Children and Adolescents. [Cập nhật ngày 22 tháng 2 năm 2023]. In: Feingold KR, Anawalt B, Blackman MR, et al., editors. Endotext [Internet]. Nam Dartmouth (MA): MDText.com, Inc.; 2000-. Có ở: https://www.ncbi.nlm.nih.gov/books/NBK395571/
+
+[i] Data from
+
+Jackson CL, Ahmad Z, Das SR, Khera A
+
+. The evaluation and management of patients with LDL-C ≥ 190 ​mg/dL in a large health care system.
+
+Am J Prev Cardiol
+
+2020;1:100002. Xuất bản ngày 1 tháng 5 năm 2020. doi:10.1016/j.ajpc.2020.100002
+
+[j] Data from
+
+Mehta R, Elias-Lopez D, Martagon AJ, et al
+
+. LCAT deficiency: a systematic review with the clinical and genetic description of Mexican kindred.
+
+Lipids Health Dis
+
+2021;20(1):70. Xuất bản ngày 13 tháng 7 năm 2021. doi:10.1186/s12944-021-01498-6
+
+ABCA1
+
+=
+
+protein vận chuyển cassette gắn kết
+
+adenosin
+
+triphosphate (ATP) A1; ABCG5 và 8
+
+=
+
+các protein thành viên G phân họ cassette gắn kết ATP 5 và 8; apo
+
+=
+
+apoprotein; CAD
+
+=
+
+bệnh động mạch vành; HDL
+
+=
+
+lipoprotein tỷ trọng cao; LCAT
+
+=
+
+lecithin
+
+-cholesterol acyltransferase; LDL
+
+=
+
+lipoprotein tỷ trọng thấp; LPL
+
+=
+
+lipoprotein lipase; MI = nhồi máu cơ tim; PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; TC
+
+=
+
+cholesterol toàn phần; TG
+
+=
+
+triglyceride; VLDL
+
+=
+
+lipoprotein tỷ trọng rất thấp.
+
+Nguyên nhân thứ phát
+
+Các nguyên nhân thứ phát góp phần vào nhiều trường hợp rối loạn lipid máu ở người lớn.
+
+Nguyên nhân thứ phát
+
+quan trọng nhất
+
+gây rối loạn lipid máu ở các quốc gia có nhiều nguồn lực là:
+
+Một lối sống tĩnh tại với chế độ ăn quá nhiều tổng lượng calo, chất béo bão hòa, cholesterol và chất béo chuyển hóa
+
+Chất béo chuyển hóa là các axit béo không no nhiều liên kết đôi hoặc không bão hòa một liên kết đôi mà các nguyên tử hydro đã được thêm vào; chúng được sử dụng trong một số thực phẩm chế biến và gây xơ vữa động mạch như chất béo no.
+
+Các nguyên nhân thứ phát phổ biến khác gây rối loạn lipid máu bao gồm:
+
+Đái tháo đường
+
+Bệnh thận mạn tính
+
+Xơ gan mật nguyên phát
+
+và các bệnh gan ứ mật khác
+
+Suy giáp
+
+Lạm dụng rượu
+
+M Thuốc, trị liệu đang dùng (Medications)
+
+Các loại thuốc như thiazid, thuốc chẹn beta, retinoid, thuốc kháng vi rút hoạt tính cao, cyclosporin, tacrolimus, progestin và glucocorticoid có thể gây rối loạn lipid máu thứ phát.
+
+Estrogen
+
+đường uống gây ra tác dụng hỗn hợp (giảm LDL-C và tăng HDL-C, nhưng cũng làm tăng triglyceride).
+
+Nguyên nhân thứ phát của nồng độ HDL-C thấp bao gồm hút thuốc lá, steroid đồng hóa,
+
+nhiễm HIV
+
+và
+
+hội chứng thận hư
+
+. Dữ liệu về tác động của thuốc lá không khói và cần sa lên quá trình chuyển hóa lipid còn ít (
+
+1
+
+,
+
+2
+
+).
+
+Bệnh tiểu đường
+
+là nguyên nhân thứ phát đặc biệt quan trọng vì bệnh nhân có xu hướng có sự kết hợp gây xơ vữa động mạch giữa lượng triglyceride cao; tỷ lệ LDL đặc và nhỏ cao; và HDL thấp (rối loạn lipid máu do tiểu đường, tăng triglyceride máu hyperapo B). Bệnh nhân đái tháo đường loại 2 đặc biệt có nguy cơ. Kết hợp này có thể là hậu quả của tình trạng béo phì, kiểm soát bệnh tiểu đường kém hoặc cả hai, có thể làm tăng axit béo tự do lưu thông (FFA), dẫn đến tăng sản sinh lipoprotein tỷ trọng rất thấp (VLDL) ở gan. VLDL giàu triglyceride sau đó chuyển triglyceride và cholesterol thành LDL và HDL, thúc đẩy sự hình thành LDL đặc và nhỏ, giàu triglyceride và thanh thải HDL giàu triglyceride. Rối loạn lipid máu do tiểu đường thường trầm trọng hơn do tăng lượng calo nạp vào và ít hoạt động thể chất, đặc trưng cho lối sống của một số bệnh nhân tiểu đường tuýp 2. Phụ nữ đái tháo đường có nguy cơ đặc biệt với bệnh tim là kết quả của dạng rối loạn lipid máu.
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Ravi D, Ghasemiesfe M, Korenstein D, Cascino T, Keyhani S
+
+. Associations Between Marijuana Use and Cardiovascular Risk Factors and Outcomes: A Systematic Review.
+
+Ann Intern Med
+
+2018;168(3):187-194. doi:10.7326/M17-1548
+
+2.
+
+Tucker LA
+
+. Use of smokeless tobacco, cigarette smoking, and hypercholesterolemia.
+
+Am J Public Health
+
+1989;79(8):1048-1050. doi:10.2105/ajph.79.8.1048
+
+Triệu chứng và Dấu hiệu của Rối loạn lipid máu
+
+Bản thân chứng rối loạn lipid máu thường không gây ra triệu chứng, mặc dù nồng độ triglyceride rất cao có thể gây ra chứng dị cảm, khó thở và lú lẫn. Rối loạn lipid có thể dẫn đến bệnh lý ở cơ quan đích có triệu chứng, bao gồm:
+
+Bệnh mạch máu (ví dụ:
+
+bệnh động mạch vành
+
+[CAD],
+
+đột quỵ
+
+,
+
+bệnh động mạch ngoại biên
+
+)
+
+Viêm tụy cấp
+
+có thể do nồng độ triglyceride cao (
+
+>
+
+500 mg/dL [
+
+>
+
+5,65 mmol/L])
+
+Gan lách to có thể do nồng độ triglyceride rất cao (
+
+>
+
+500 mg/dL [
+
+>
+
+5,65 mmol/L])
+
+Các phát hiện ở những bệnh nhân bị rối loạn lipid máu nặng (LDL > 190 mg/dL [
+
+>
+
+4,9 mmol/L]) có thể bao gồm các lắng đọng lipid tại chỗ (u vàng) hoặc các dấu hiệu khác do nồng độ huyết thanh cao hoặc tích tụ lipid.
+
+Nồng độ LDL-C cao có thể gây ra u vàng gân cơ ở gân Achilles, gân khuỷu tay và gân đầu gối và trên các khớp bàn-ngón tay. Các dấu hiệu lâm sàng khác xảy ra trên bệnh nhân có LDL-C cao (ví dụ: tăng cholesterol máu có tính chất gia đình hoặc rối loạn betalipoprotein máu) bao gồm u vàng thể phẳng hoặc u vàng thể củ. Xanthomas phẳng là các mảng vữa vàng nhạt hoặc phẳng. Các xanthomas củ thường không đau, các nốt sụn thường nằm trên bề mặt khớp.
+
+Bệnh nhân có nồng độ LDL-C cao có thể có cung giác mạc (lắng đọng lipid ở giác mạc xung quanh mống mắt) và ban vàng mí mắt (mảng màu vàng, giàu lipid ở phần giữa mí mắt). Xanthelasma cũng có thể xảy ra ở bệnh nhân
+
+xơ gan mật nguyên phát
+
+và nồng độ lipid bình thường.
+
+Nồng độ triglyceride tăng cao nghiêm trọng có thể gây ra u vàng thể phát ban ở thân, lưng, khuỷu tay, mông, đầu gối, bàn tay và bàn chân. Tăng triglycerid máu nặng (
+
+>
+
+2000 mg/dL [
+
+>
+
+22,6 mmol/L]) cũng có thể khiến các động mạch và tĩnh mạch võng mạc xuất hiện màu trắng kem (tăng lipid huyết võng mạc).
+
+Tế bào thần kinh thị giác bao gồm vành đai-ron thần kinh, mô tả giữa...
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael H. Davidson cung cấp.
+
+Biểu hiện của u vàng
+
+U vàng phát ban (da)
+
+U vàng phát ban là biểu hiện da khi tăng nồng độ triglycerid trong máu.
+
+Ảnh do bác sĩ Thomas Habif cung cấp
+
+U vàng phát ban da
+
+Bệnh nhân có triglyceride tăng cao nghiêm trọng có thể bị u vàng thể phát ban ở thân, lưng, khuỷu tay, mông, đầu gối, bàn tay và bàn chân.
+
+... đọc thêm
+
+© Springer Science+Business Media
+
+U vàng dạng củ
+
+Các xanthomas củ thường không đau, các nốt sụn thường nằm trên bề mặt khớp.
+
+© Springer Science+Business Media
+
+U vàng ở gân gót
+
+U vàng gân gót được chẩn đoán khi có tăng cholesterol máu gia đình.
+
+Hình ảnh do bác sĩ Michael H. Davidson cung cấp.
+
+U vàng ở gân
+
+U vàng ở gân (mũi tên) được chẩn đoán khi có tăng cholesterol máu gia đình.
+
+Hình ảnh do bác sĩ Michael H. Davidson cung cấp.
+
+U vàng phát ban (da)
+
+U vàng phát ban là biểu hiện da khi tăng nồng độ triglycerid trong máu.
+
+Ảnh do bác sĩ Thomas Habif cung cấp
+
+U vàng phát ban da
+
+Bệnh nhân có triglyceride tăng cao nghiêm trọng có thể bị u vàng thể phát ban ở thân, lưng, khuỷu tay, mông, đầu gối, bàn tay và bàn chân.
+
+... đọc thêm
+
+© Springer Science+Business Media
+
+U vàng dạng củ
+
+Các xanthomas củ thường không đau, các nốt sụn thường nằm trên bề mặt khớp.
+
+© Springer Science+Business Media
+
+U vàng ở gân gót
+
+U vàng gân gót được chẩn đoán khi có tăng cholesterol máu gia đình.
+
+Hình ảnh do bác sĩ Michael H. Davidson cung cấp.
+
+U vàng ở gân
+
+U vàng ở gân (mũi tên) được chẩn đoán khi có tăng cholesterol máu gia đình.
+
+Hình ảnh do bác sĩ Michael H. Davidson cung cấp.
+
+U hắc tố ác tính của mi mắt
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Michael H. Davidson cung cấp.
+
+U hắc tố ác tính của mi mắt
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Chẩn đoán Rối loạn lipid máu
+
+Hồ sơ lipid huyết thanh (đo cholesterol toàn phần, triglyceride và HDL-C và tính toán LDL-C và VLDL-C)
+
+Rối loạn lipid máu được chẩn đoán bằng cách định lượng lipid huyết thanh. Các chỉ số đo thường quy (hồ sơ lipid) bao gồm cholesterol toàn phần (TC), triglyceride, HDL-C và LDL-C; những kết quả này được sử dụng để tính LDL-C và VLDL-C.
+
+Rối loạn lipid máu thường được chẩn đoán bằng các xét nghiệm sàng lọc thường quy. Cũng có thể nghi ngờ tình trạng này ở những bệnh nhân có biến chứng rối loạn lipid máu (ví dụ: bệnh xơ vữa động mạch). Các dấu hiệu thực thể ít phổ biến hơn và gợi ý rối loạn lipid máu nguyên phát.
+
+Nghi ngờ rối loạn lipid nguyên phát khi bệnh nhân có:
+
+Các dấu hiệu thực thể của rối loạn lipid máu, chẳng hạn như u vàng ở gân, là bệnh lý của tăng cholesterol máu có tính chất gia đình
+
+Khởi phát sớm bệnh xơ vữa động mạch (ở độ tuổi
+
+<
+
+55 đối với nam giới,
+
+<
+
+60 đối với phụ nữ)
+
+Tiền sử gia đình mắc bệnh xơ vữa động mạch sớm hoặc tăng lipid máu nặng
+
+Serum LDL-C
+
+>
+
+190 mg/dL (
+
+>
+
+4,9 mmol/L)
+
+Định lượng hàm lượng lipid
+
+Cholesterol toàn phần (TC), triglyceride (TG) và HDL-C được đo trực tiếp. Giá trị TC và triglyceride phản ánh cholesterol và triglyceride trong tất cả các lipoprotein trong hệ tuần hoàn, bao gồm chylomicron, VLDL, lipoprotein tỷ trọng trung gian (IDL), LDL và HDL. Giá trị TC có thể thay đổi 10% và triglyceride có thể thay đổi tới 25% theo từng ngày ngay cả khi không có rối loạn.
+
+Thực hành lâm sàng trước đây là đo lipid khi đang nhịn ăn; tuy nhiên, những thay đổi trong hướng dẫn hỗ trợ việc sàng lọc hầu hết bệnh nhân khi không nhịn ăn để hỗ trợ bệnh nhân tuân thủ việc xét nghiệm. Hầu hết các chuyên gia khuyến nghị chỉ nên kiểm tra lipid lúc đói trong những trường hợp cụ thể, bao gồm khi triglyceride > 400 mg/dL (> 4,5 mmol/L), có thể liên quan đến nguyên nhân thứ phát gây tăng triglyceride máu (
+
+1
+
+,
+
+2
+
+).
+
+Ngọc trai & cạm bẫy
+
+Hầu hết các chuyên gia chỉ khuyến nghị xét nghiệm lipid lúc đói trong những trường hợp cụ thể, bao gồm khi non-HDL-C > 220 mg/dL (> 5,7 mmol/L) hoặc triglyceride > 400 mg/dL (> 4,5 mmol/L).
+
+Nên hoãn xét nghiệm nếu bệnh nhân mắc bệnh cấp tính vì nồng độ triglyceride và lipoprotein(a) tăng và nồng độ cholesterol giảm khi có các tình trạng viêm nhiễm. Ngoài ra, hồ sơ lipid có thể thay đổi trong khoảng 30 ngày sau nhồi máu cơ tim cấp tính (MI); tuy nhiên, kết quả thu được trong vòng 24 tiếng sau khi bị MI thường đủ tin cậy để dẫn hướng điều trị hạ lipid máu ban đầu.
+
+Giá trị LDL-C thường được tính bằng lượng cholesterol không có trong HDL và VLDL. VLDL được ước tính bằng triglyceride
+
+÷
+
+5 vì nồng độ cholesterol trong các hạt VLDL thường bằng một phần năm tổng lượng lipid trong hạt. Do đó, công thức Friedewald ước lượng LDL-C như sau:
+
+Giá trị cholesterol LDL được tính kết hợp các giá trị đo được của tất cả cholesterol không phải HDL và nonchylomicron, bao gồm cả giá trị trong IDL và lipoprotein (a) (Lp(a)).
+
+Đối với những bệnh nhân có nồng độ triglyceride cao, sai số trong việc ước tính VLDL-C sẽ tăng lên khi sử dụng hệ số hằng số 5. Phương trình Martin-Hopkins có thể được sử dụng để có được ước tính đáng tin cậy hơn về LDL-C. Hệ số hằng số 5 được thay thế bằng một hệ số mới dựa trên giá trị không HDL-C và triglyceride của bệnh nhân (
+
+3
+
+). Yếu tố mới là yếu tố có thể điều chỉnh được và được lấy từ bảng. Cả phương trình Friedewald và Martin-Hopkins đều được phát triển và xác nhận đối với bệnh nhân nhịn ăn có nồng độ triglyceride huyết thanh < 400 mg/dL (< 4,5 mmol/L).
+
+Phương trình Martin-Hopkins như sau:
+
+LDL-C cũng có thể được đo trực tiếp bằng siêu ly tâm huyết tương, tách chylomicron và các phần VLDL khỏi HDL-C và LDL-C, và bằng phương pháp xét nghiệm miễn dịch. Đo trực tiếp có thể hữu ích ở một số bệnh nhân có lượng triglyceride cao, nhưng những phép đo trực tiếp này thường không cần thiết.
+
+Công cụ tính toán lâm sàng
+
+Phương trình Martin dành cho Lipoprotein tỷ trọng thấp (LDL-C)
+
+Công cụ tính toán lâm sàng
+
+Lipoprotein mật độ rất thấp (VLDL)
+
+Các xét nghiệm khác
+
+Ở một số bệnh nhân, cần phải làm thêm xét nghiệm lipid máu.
+
+Cần phải đo nồng độ Lp(a) và nồng độ protein C phản ứng ở những bệnh nhân mắc bệnh tim mạch xơ vữa động mạch sớm, bệnh tim mạch (ngay cả khi họ có nồng độ lipid nguy cơ thấp hơn; xem bảng
+
+Nồng độ cholesterol và nguy cơ tim mạch
+
+) hoặc nồng độ LDL-C cao không đáp ứng với điều trị bằng thuốc. Một số hướng dẫn khuyến nghị rằng nồng độ Lp(a) phải được kiểm tra ít nhất một lần ở tất cả người lớn và trẻ em đã bị đột quỵ do thiếu máu cục bộ hoặc có tiền sử gia đình mắc bệnh mạch vành sớm (
+
+4
+
+). Nồng độ Lp(a) cũng có thể được đo trực tiếp ở những bệnh nhân có nồng độ LDL-C ở mức giới hạn cao để xác định xem có cần dùng thuốc điều trị hay không.
+
+Đo số lượng hạt LDL hoặc apoprotein B-100 (apo B) có ích ở những bệnh nhân có lượng triglyceride cao và
+
+hội chứng chuyển hóa
+
+. Apo B cung cấp thông tin tương tự cho số lượng hạt LDL vì có một phân tử apo B cho mỗi hạt LDL. Apo B đo lường bao gồm tất cả các hạt xơ vữa, bao gồm cả tàn dư và Lp (a).
+
+Giá trị Apo B phản ánh tất cả các Cholesteol không HDL (trong VLDL, IDL và LDL) và có tính dự đoán nguy cơ bị CAD nhiều hơn là LDL-C. Cholesterol không HDL (TC−HDL-C) cũng có khả năng dự báo nguy cơ bị bệnh mạch vành cao hơn LDL-C, đặc biệt là trên bệnh nhân tăng triglycerid máu.
+
+Công cụ tính toán lâm sàng
+
+Friedewald Equation cho Lipoprotein tỉ trọng thấp (đơn vị SI LDL-C)
+
+Công cụ tính toán lâm sàng
+
+Phương trình Friedewald cho lipoprotein tỉ trọng thấp (LDL-C)
+
+Nguyên nhân thứ phát
+
+Các xét nghiệm tìm nguyên nhân thứ phát của rối loạn lipid máu cần phải được thực hiện ở hầu hết các bệnh nhân rối loạn lipid máu mới được chẩn đoán và lặp lại khi một thành phần của cấu trúc lipid thay đổi không rõ nguyên nhân trở nên trầm trọng hơn. Các xét nghiệm này bao gồm
+
+Creatinine
+
+Đường huyết lúc đói và/hoặc huyết sắc tố glycosyl hóa (HbA1C)
+
+Men gan
+
+Hormone kích thích tuyến giáp (TSH)
+
+Protein niệu
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Nordestgaard BG, Langsted A, Mora S, et al
+
+. Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.
+
+Eur Heart J
+
+2016;37(25):1944-1958. doi:10.1093/eurheartj/ehw152
+
+2.
+
+Grundy SM, Stone NJ, Bailey AL, et al
+
+. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears in
+
+Circulation
+
+ngày 18 tháng 6 năm 2019;139(25):e1182-e1186. doi: 10.1161/CIR.0000000000000698.] [sửa lỗi đã xuất bản có trong
+
+Circulation
+
+ngày 15 tháng 8 năm 2023;148(7):e5. doi: 10.1161/CIR.0000000000001172.].
+
+Circulation
+
+2019;139(25):e1082-e1143. doi:10.1161/CIR.0000000000000625
+
+3.
+
+Martin SS, Blaha MJ, Elshazly MB, et al
+
+. Comparison of a novel method vs the Friedewald equation for estimating low-density lipoprotein cholesterol levels from the standard lipid profile.
+
+JAMA
+
+310(19):2061-2068, 2013 doi:10.1001/jama.2013.280532
+
+4.
+
+Kronenberg F, Mora S, Stroes ESG, et al
+
+. Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.
+
+Eur Heart J
+
+2022;43(39):3925-3946. doi:10.1093/eurheartj/ehac361
+
+Sàng lọc rối loạn mỡ máu
+
+Việc sàng lọc được thực hiện bằng cách sử dụng hồ sơ lipid lúc đói (TC, triglyceride, HDL-C và LDL-C được tính toán). Các hướng dẫn của hiệp hội y tế khác nhau về thời điểm bắt đầu sàng lọc. Dựa trên các yếu tố nguy cơ, việc sàng lọc có thể bắt đầu ngay từ 2 tuổi ở trẻ em có tiền sử gia đình mắc bệnh tim hoặc tăng cholesterol máu có tính chất gia đình.
+
+Việc đo lipid cần phải được thực hiện kèm theo đánh giá các yếu tố nguy cơ tim mạch khác, bao gồm:
+
+Sử dụng thuốc lá
+
+Đái tháo đường
+
+Tiền sử gia đình bị
+
+CAD
+
+ở người có quan hệ huyết thống bậc 1 là nam trước 55 tuổi hoặc người có quan hệ huyết thống bậc 1 là nữ trước 65 tuổi
+
+Tăng huyết áp
+
+Sàng lọc ở trẻ em
+
+Hầu hết các bác sĩ đều khuyến nghị sàng lọc theo Hướng dẫn của Viện Tim, Phổi và Máu Quốc gia năm 2012 (
+
+1
+
+) như sau:
+
+Trẻ em có các yếu tố nguy cơ (ví dụ:
+
+bệnh tiểu đường
+
+,
+
+tăng huyết áp
+
+, tiền sử gia đình bị tăng lipid máu nặng hoặc CAD sớm): Thông tin lipid máu khi đói một lần ở tuổi từ 2 đến 8
+
+Trẻ em không có các yếu tố nguy cơ: Hồ sơ lipid khi đói hoặc không đói một lần trước tuổi dậy thì (thường là từ 9 tuổi đến 11 tuổi) và một lần nữa ở độ tuổi từ 17 tuổi đến 21 tuổi (
+
+2
+
+)
+
+Sàng lọc ở người lớn
+
+Người lớn cần phải được sàng lọc ở tuổi 20 (
+
+3, 4
+
+) và 5 năm một lần sau đó.
+
+Độ tuổi ngừng sàng lọc chưa được xác định, nhưng bằng chứng ủng hộ việc sàng lọc bệnh nhân cho đến khi họ 80 tuổi, đặc biệt là nếu họ mắc bệnh tim mạch xơ vữa động mạch (
+
+5
+
+).
+
+Bệnh nhân có tiền sử gia đình mắc bệnh tim—nhồi máu cơ tim, đột quỵ hoặc bệnh động mạch vành trước 55 tuổi (ở nam) hoặc 65 tuổi (ở nữ) mà không có các yếu tố nguy cơ đã biết, chẳng hạn như LDL cao, hút thuốc, tiểu đường hoặc béo phì, hoặc tiền sử gia đình đã biết về Lp(a) cao—cũng cần phải được sàng lọc bằng cách đo nồng độ Lp(a).
+
+Tài liệu tham khảo về sàng lọc bệnh
+
+1.
+
+Expert Panel on Integrated Guidelines
+
+for Cardiovascular Health and Risk Reduction in Children and Adolescents; National Heart, Lung, and Blood Institute. Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents. 2011.
+
+2.
+
+Daniels SR, Greer FR; Committee on Nutrition
+
+. Lipid screening and cardiovascular health in childhood.
+
+Pediatrics
+
+2008;122(1):198-208. doi:10.1542/peds.2008-1349
+
+3.
+
+Goff DC Jr, Lloyd-Jones DM, Bennett G, et al
+
+: 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk.
+
+J Am Coll Cardiol
+
+63:2935–2959, 2014 doi: 10.1016/j.jacc.2013.11.005
+
+4.
+
+Grundy SM, Stone NJ, Bailey AL, et al
+
+: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+
+Circulation
+
+139: e1082–e1143, 2019. doi: 10.1161/CIR.0000000000000625
+
+5.
+
+Kleipool EE, Dorresteijn JA, Smulders YM, et al
+
+: Treatment of hypercholesterolaemia in older adults calls for a patient-centred approach.
+
+Heart
+
+106(4):261-266, 2020 doi:10.1136/heartjnl-2019-315600
+
+Điều trị Rối loạn lipid máu
+
+Thay đổi lối sống (ví dụ, tập thể dục, chế độ ăn)
+
+Đối với LDL-C cao, statin, chất cô lập axit mật, ezetimibe, axit bempedoic và thuốc ức chế PCSK9 (proprotein convertase subtilisin/kexin tuýp 9)
+
+Đối với triglyceride cao, fibrate, axit béo omega-3 và đôi khi là các biện pháp khác
+
+Nguyên tắc chung
+
+Mục tiêu chính của việc điều trị rối loạn lipid máu là phòng ngừa bệnh tim mạch do xơ vữa động mạch (ASCVD), bao gồm
+
+hội chứng mạch vành cấp
+
+,
+
+đột quỵ
+
+,
+
+cơn thiếu máu não thoáng qua
+
+hoặc
+
+bệnh động mạch ngoại biên
+
+được cho là do
+
+xơ vữa động mạch
+
+. Điều trị được chỉ định cho tất cả các bệnh nhân có ASCVD (phòng ngừa thứ phát) và đối với một số bệnh nhân không có (dự phòng ban đầu).
+
+Viện Hàn lâm Nhi khoa Hoa Kỳ (AAP) khuyến nghị điều trị cho một số
+
+trẻ em có nồng độ LDL-C cao
+
+(
+
+1
+
+). Trẻ em bị tăng cholesterol máu dị hợp tử  có tính chất gia đình cần phải được điều trị bắt đầu từ 8 tuổi đến 10 tuổi. Trẻ em bị tăng cholesterol máu đồng hợp tử có tính chất gia đình cần chế độ ăn uống, thuốc men và thường xuyên lọc LDL để ngăn ngừa tử vong sớm; điều trị được bắt đầu khi có chẩn đoán.
+
+Tùy chọn điều trị phụ thuộc vào sự bất thường lipid cụ thể, mặc dù các bất thường lipid khác nhau thường cùng tồn tại. Ở một số bệnh nhân, một bất thường đơn lẻ có thể cần một số liệu pháp; ở những người khác, một điều trị duy nhất có thể là phù hợp với nhiều bất thường. Điều trị phải luôn bao gồm điều trị
+
+tăng huyết áp
+
+và
+
+tiểu đường
+
+và
+
+cai thuốc lá
+
+. Điều trị cũng nên bao gồm
+
+aspirin
+
+liều thấp hàng ngày trên bệnh nhân từ 40 tuổi đến 79 tuổi có nguy cơ chảy máu thấp và nguy cơ bị nhồi máu cơ tim hoặc tử vong do CAD
+
+≥
+
+20% trong 10 năm. Nói chung, các lựa chọn điều trị cho nam giới và phụ nữ là như nhau.
+
+Công cụ tính toán lâm sàng
+
+Đánh giá nguy cơ tim mạch (10 năm, phương trình nhóm thuần tập được sửa đổi năm 2018)
+
+Điều trị tăng LDL-C
+
+Đối với tất cả các cá nhân, việc ngăn ngừa ASCVD đòi hỏi phải chú trọng đến lối sống lành mạnh, đặc biệt là chế độ ăn uống và tập thể dục. Các phương án khác để làm giảm LDL-C ở mọi nhóm tuổi bao gồm thuốc, thực phẩm bổ sung và can thiệp bằng thủ thuật. Nhiều trong số những lựa chọn này cũng có hiệu quả để điều trị các rối loạn lipid khác.
+
+Thay đổi chế độ ăn uống
+
+giúp duy trì trọng lượng cơ thể lý tưởng và mang lại những lợi ích khác. Những thay đổi này bao gồm:
+
+Giảm lượng chất béo bão hòa
+
+Tăng lượng chất xơ hòa tan trong chế độ ăn uống (ví dụ: yến mạch, cám yến mạch, hạt mã đề)
+
+Phản ứng với những thay đổi trong chế độ ăn uống có thể khác nhau và cần đánh giá lại hồ sơ lipid sau khi can thiệp dinh dưỡng để xác định hiệu quả của nó. Giới thiệu đến một chuyên gia dinh dưỡng thường hữu ích.
+
+Tập thể dục
+
+làm giảm LDL-C và tăng HDL-C ở một số người (
+
+2
+
+) và cũng giúp duy trì cân nặng lý tưởng. Hiệp hội Tim mạch Hoa Kỳ (AHA) khuyến nghị 150 phút tập thể dục cường độ vừa phải hoặc 75 phút tập thể dục cường độ cao mỗi tuần, cũng như 2 buổi tập luyện sức mạnh cường độ vừa phải mỗi tuần (
+
+3
+
+).
+
+Nên thay đổi chế độ ăn uống và tập thể dục bất cứ khi nào có thể, nhưng hướng dẫn của AHA/Hội Tim mạch Hoa Kỳ (ACC) cũng khuyến nghị sử dụng việc điều trị bằng thuốc cho một số nhóm bệnh nhân nhất định sau khi thảo luận về các nguy cơ và lợi ích của liệu pháp statin (
+
+4
+
+).
+
+Đối với
+
+điều trị bằng thuốc ở người lớn,
+
+Hướng dẫn của AHA/ACC khuyến nghị điều trị bằng statin cho 4 nhóm bệnh nhân, bao gồm những người mắc bất kỳ bệnh nào sau đây:
+
+ASCVD lâm sàng
+
+LDL-C ≥ 190 mg/dL (≥ 4,9 mmol/L)
+
+Từ 40 tuổi đến 75 tuổi, mắc bệnh tiểu đường và LDL-C từ 70 mg/dL đến 189 mg/dL (1,8 mmol/L đến 4,9 mmol/L)
+
+Từ 40 tuổi đến 75 tuổi, với LDL-C 70 mg/dL đến 189 mg/dL (1,8 mmol/L đến 4,9 mmol/L) và ước tính nguy cơ mắc ASCVD trong 10 năm ≥ 7,5%
+
+Công cụ tiêu chuẩn để định lượng
+
+nguy cơ tim mạch
+
+là phương trình đánh giá nguy cơ nhóm gộp, đã được nhóm làm việc chung ACC/AHA gồm 2013 người xác nhận. Công cụ tính nguy cơ tim mạch này dựa trên giới tính, độ tuổi, chủng tộc, cholesterol toàn phần và HDL-C, huyết áp tâm thu và tâm trương, bệnh tiểu đường, tình trạng hút thuốc và việc sử dụng thuốc chống tăng huyết áp và statin (
+
+5
+
+).
+
+Gần đây hơn, AHA đã giới thiệu
+
+công cụ tính toán nguy cơ PHÒNG NGỪA
+
+để sử dụng trong phòng ngừa ban đầu ở những bệnh nhân không bị bệnh tim mạch vành, đột quỵ hoặc suy tim (
+
+6
+
+). Công cụ này mở rộng phạm vi độ tuổi có thể được phân tầng và kết hợp hemoglobin A1C, tỷ lệ
+
+albumin
+
+/creatinine trong nước tiểu và chỉ số thiếu thốn của xã hội (sử dụng mã bưu chính để ước tính sự thiếu thốn dựa trên bảy đặc điểm nhân khẩu học). Nguy cơ mắc bệnh suốt đời tăng cao (xác định bằng công cụ tính nguy cơ PREVENT) có liên quan vì nguy cơ 10 năm có thể thấp ở những bệnh nhân trẻ tuổi, những người cần phải tính đến nguy cơ dài hạn hơn.
+
+Khi cân nhắc việc liệu có nên dùng statin hay không, bác sĩ lâm sàng cũng có thể cân nhắc đến các yếu tố khác, bao gồm:
+
+LDL-C ≥ 160 mg/dL (4,1 mmol/L)
+
+Tiền sử gia đình bị ASCVD sớm (nghĩa là tuổi khởi phát < 55 tuổi ở người có quan hệ huyết thống bậc 1 là nam hoặc < 65 tuổi ở người có quan hệ huyết thống bậc 1 là nữ)
+
+Protein phản ứng C có độ nhạy cao ≥ 2 mg/L (≥ 19 nmol/L)
+
+Điểm số canxi động mạch vành ≥ 300 đơn vị Agatston (hoặc ≥ 75 phần trăm đối với nhân khẩu học của bệnh nhân)
+
+Chỉ số cổ chân - cánh tay < 0,9
+
+Tăng nguy cơ suốt đời
+
+Hướng dẫn của ACC/AHA mở rộng danh sách các yếu tố làm tăng nguy cơ này để bao gồm những yếu tố sau đây (
+
+7
+
+):
+
+Tiền sử gia đình mắc ASCVD sớm (tức là tuổi khởi phát ở nam giới < 55 tuổi hoặc ở nữ giới < 65 tuổi)
+
+Tổ tiên là người Nam Á
+
+Các yếu tố nguy cơ cụ thể của nữ giới (tiền sử tiền sản giật hoặc mãn kinh sớm)
+
+LDL-C tăng liên tục (> 160 mg/dL [4,1 mmol/L])
+
+Triglyceride tăng cao liên tục (> 175 mg/dL [1,98 mmol/L])
+
+Bệnh thận mạn tính
+
+Hội chứng chuyển hóa
+
+Bệnh có viêm (đặc biệt là viêm khớp dạng thấp, HIV, bệnh vẩy nến)
+
+Tăng Lp(a) (> 50 mg/dL hoặc 125 nmol/L)
+
+Tăng apolipoprotein B (Apo B) (> 130 mg/dL [1,30 g/L])
+
+Chỉ số cổ chân - cánh tay (ABI) < 0,9
+
+Statins
+
+là phương pháp điều trị được lựa chọn để làm giảm LDL-C vì bằng chứng đã chứng minh rằng thuốc này làm giảm tỷ lệ mắc bệnh tim mạch và tỷ lệ tử vong (
+
+8
+
+). Các loại thuốc làm giàm lipid khác không phải là lựa chọn đầu tiên trong điều trị LDL-C tăng cao vì các thuốc này chưa chứng minh được hiệu quả tương đương trong việc giảm ASCVD.
+
+Statin ức chế hydroxymethylglutaryl CoA reductase, một enzyme chủ yếu trong tổng hợp cholesterol, dẫn đến sự điều hòa các receptor LDL và làm tăng độ thanh thải LDL. Các thuốc đó làm giảm LDL-C tới 60% và làm tăng nhẹ HDL-C và giảm nhẹ triglyceride. Statin cũng làm giảm tình viêm lớp trong động mạch, viêm hệ thống, hoặc cả hai bằng cách kích thích sản xuất oxit nitric nội mạc và có thể có những tác dụng có lợi khác.
+
+Liệu pháp statin được phân loại là cường độ cao, trung bình hoặc thấp và được đưa ra dựa trên nhóm điều trị và độ tuổi (xem bảng
+
+Statin trong phòng ngừa ASCVD
+
+). Việc lựa chọn statin phụ thuộc vào bệnh đồng mắc của bệnh nhân, các loại thuốc khác, yếu tố nguy cơ gây ra các biến cố bất lợi, tình trạng không dung nạp statin, chi phí và sở thích của bệnh nhân.
+
+Tác dụng ngoại ý với statin thường không phổ biến nhưng bao gồm tăng men gan và viêm cơ vân hoặc
+
+tiêu cơ vân
+
+. Tăng men gan thường không phổ biến, và độc gan nghiêm trọng rất hiếm. Các triệu chứng hoặc tác dụng bất lợi nghiêm trọng liên quan đến cơ xảy ra ở 10% số bệnh nhân dùng statin và có thể phụ thuộc vào liều. Các triệu chứng cơ có thể xảy ra mà không có tăng men cơ (ví dụ: creatine kinase). Tác dụng bất lợi thường gặp hơn ở bệnh nhân cao tuổi, bệnh nhân mắc nhiều bệnh lý và bệnh nhân dùng nhiều loại thuốc. Ở một số bệnh nhân, việc thay đổi từ loại statin này sang loại statin khác hoặc giảm liều (sau khi tạm thời ngừng thuốc) có thể làm giảm vấn đề đó. Độc tính với cơ có vẻ phổ biến nhất khi một số statin được sử dụng với các thuốc ức chế cytochrome P3A4 (ví dụ: kháng sinh macrolide, thuốc chống nấm azole, cyclosporin) và với fibrate, đặc biệt là gemfibrozil. Statin là chống chỉ định trong thời kỳ mang thai và cho con bú.
+
+Ở bệnh nhân ASCVD, giảm nguy cơ tăng lên khi giảm nồng độ LDL-C. Do đó, thuốc điều trị ban đầu là statin ở mức liều dung nạp tối đa với mục tiêu làm giảm LDL-C > 50% (điều trị cường độ cao). Đối với những bệnh nhân có nguy cơ rất cao bị ASCVD (ví dụ: những người mới bị
+
+nhồi máu cơ tim
+
+hoặc
+
+đau thắt ngực không ổn định
+
+hoặc mắc các bệnh đi kèm có nguy cơ cao như
+
+tiểu đườn
+
+g), nồng độ LDL-C > 70 mg/dL (> 1,2 mmol/L) mặc dù điều trị bằng statin tối đa cần phải nhanh chóng bổ sung ezetimibe hoặc thuốc ức chế PCSK9 (ví dụ: evolocumab, alirocumab). Các liệu pháp này đã được chứng minh là có thể làm giảm các biến cố tim mạch bất lợi lớn khi kết hợp với liệu pháp statin trong các thử nghiệm lâm sàng quy mô lớn (
+
+9
+
+,
+
+10
+
+).
+
+Các thuốc không phải statin
+
+cũng có tác dụng làm giảm LDL-C (xem bảng
+
+Thuốc hạ lipid không phải statin
+
+). Con đường ra quyết định đồng thuận của chuyên gia ACC năm 2022 về vai trò của liệu pháp không statin đưa ra hướng dẫn cho các bác sĩ lâm sàng về vai trò của liệu pháp không statin trong cả phòng ngừa nguyên phát và thứ phát của ASCVD (
+
+11
+
+). Statin thường là thuốc bước đầu, nhưng trên bệnh nhân không dung nạp statin hoặc những người không thể đạt được nồng độ LDL-C mục tiêu mặc dù sử dụng statin, thuốc không phải statin sẽ được sử dụng.
+
+Bảng
+
+Statin cho phòng ngừa ASCVD
+
+Bảng
+
+Statin cho phòng ngừa ASCVD
+
+Statin cho phòng ngừa ASCVD
+
+Phân loại
+
+Hiệu quả*
+
+Khuyến cáo cho
+
+Ví dụ†
+
+Liều cao
+
+Làm giảm LDL-C ≥ 50%
+
+ASCVD lâm sàng, ≤ 75 tuổi
+
+LDL-C ≥ 190 mg/dL (4,9 mmol/L)
+
+Từ 40 tuổi đến 75 tuổi, nguy cơ bị ASCVD trong 10 năm ≥ 7,5%
+
+Bệnh tiểu đường và nguy cơ ASCVD trong 10 năm ≥ 7,5%
+
+Atorvastatin 40-80 mg
+
+Rosuvastatin 20-40 mg
+
+Liều trung bình
+
+Giảm LDL-C 30 - < 50%
+
+ASCVD lâm sàng, > 75 tuổi
+
+Từ 40 tuổi đến 75 tuổi, nguy cơ bị ASCVD trong 10 năm từ 5% đến < 7,5%
+
+Từ 40 tuổi đến 75 tuổi, nguy cơ bị ASCVD trong 10 năm ≥ 7,5% (nếu không dung nạp được statin cường độ cao)
+
+Bệnh tiểu đường và nguy cơ ASCVD trong 10 năm < 7,5%
+
+Atorvastatin 10-20 mg
+
+Fluvastatin XL 80 mg
+
+Lovastatin 40 mg
+
+Pitavastatin 2-4 mg
+
+Pravastatin 40-80 mg
+
+Rosuvastatin 5-10 mg
+
+Simvastatin 20-40 mg
+
+Liều thấp
+
+Giảm LDL-C < 30%
+
+Bệnh nhân không thể dung nạp với liều điều trị cao hoặc trung bình
+
+Fluvastatin 20-40 mg
+
+Lovastatin 20 mg
+
+Pitavastatin 1 mg
+
+Pravastatin 10-20 mg
+
+* Đáp ứng cá nhân có thể khác nhau.
+
+† Tất cả các liều đều được cho dùng theo đường uống và một lần mỗi ngày.
+
+ASCVD = bệnh tim mạch xơ vữa động mạch; LDL-C = cholesterol lipoprotein tỷ trọng thấp.
+
+Data from
+
+Grundy SM, Stone NJ, Bailey AL, et al
+
+: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+
+Circulation
+
+139: e1082–e1143, 2019. doi: 10.1161/CIR.0000000000000625
+
+* Đáp ứng cá nhân có thể khác nhau.
+
+† Tất cả các liều đều được cho dùng theo đường uống và một lần mỗi ngày.
+
+ASCVD = bệnh tim mạch xơ vữa động mạch; LDL-C = cholesterol lipoprotein tỷ trọng thấp.
+
+Data from
+
+Grundy SM, Stone NJ, Bailey AL, et al
+
+: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+
+Circulation
+
+139: e1082–e1143, 2019. doi: 10.1161/CIR.0000000000000625
+
+Bảng
+
+Thuốc giảm lipid không statin*
+
+Bảng
+
+Thuốc giảm lipid không statin*
+
+Thuốc giảm lipid không statin*
+
+Thuốc
+
+Bình luận
+
+Thuốc ức chế lyase
+
+adenosine triphosphate citrate
+
+Giảm LDL-C
+
+Axit bempedoic
+
+Nguy cơ tăng acid uric máu, đứt gân
+
+Đặc biệt hữu ích ở những bệnh nhân có tác dụng phụ trên cơ liên quan đến statin vì enzyme cần thiết để kích hoạt thuốc này không có trong cơ
+
+Chất gắn acid mật
+
+Làm giảm LDL-C (nguyên phát), làm tăng nhẹ HDL-C (thứ phát), có thể làm tăng TG
+
+Cholestyramine
+
+—
+
+Colesevelam
+
+—
+
+Colestipol
+
+—
+
+Chất ức chế hấp thu cholesterol
+
+Giảm LDL-C (nguyên phát), làm tăng tối thiểu HDL-C
+
+Ezetimibe
+
+—
+
+Thuốc điều trị tăng cholesterol máu có tính gia đình đồng hợp tử
+
+Làm giảm LDL-C
+
+Evinacumab
+
+Được truyền tĩnh mạch trong 60 phút
+
+Các phản ứng có hại trong các thử nghiệm lâm sàng bao gồm viêm mũi họng, bệnh giống cúm và phản ứng tiêm truyền
+
+Lomitapide
+
+Nguy cơ nhiễm độc gan
+
+Tăng liều dần dần (khoảng 2 tuần một lần)
+
+Đo nồng độ transaminase trước khi tăng liều
+
+Fibrate
+
+Làm giảm TG và VLDL, làm tăng HDL-C, có thể làm tăng LDL-C (ở bệnh nhân có TG cao)
+
+Bezafibrate
+
+Giảm liều cần thiết trong suy thận
+
+Không có sẵn ở Hoa Kỳ
+
+Ciprofibrate
+
+Không có sẵn ở Hoa Kỳ
+
+Fenofibrate
+
+Giảm liều cần thiết trong suy thận
+
+Có thể fibrate an toàn nhất để sử dụng với statin
+
+Gemfibrozil
+
+Giảm liều cần thiết trong suy thận
+
+Axit nicotinic (niacin)
+
+Làm tăng HDL-C; làm giảm TG (liều thấp), LDL-C (liều cao hơn) và Lp(a) (thứ phát)
+
+Các tác dụng ngoại ý thường xuyên: Đỏ bừng, rối loạn dung nạp glucose, tăng axit uric
+
+Aspirin
+
+và dùng thuốc lúc no làm giảm thiểu đỏ bừng mặt
+
+Các kháng thể đơn dòng PCSK9
+
+Làm giảm LDL-C và TG, có thể làm giảm Lp(a)
+
+Alirocumab
+
+Đối với những bệnh nhân bị tăng cholesterol máu có tính gia đình và những người có các vấn đề nguy cơ cao khác
+
+Evolocumab
+
+Đối với những bệnh nhân bị tăng cholesterol máu có tính gia đình và những người có lo ngại có nguy cơ cao khác
+
+Axit béo omega-3
+
+Eicosapentaenoic acid ethyl ester (EPA) + Axit docosahexaenoic (DHA)
+
+Giảm TG
+
+Làm tăng LDL
+
+Eicosapentaenoic acid ethyl ester (EPA)
+
+Chỉ giảm TG
+
+SiRNA nhắm mục tiêu PCSK9
+
+Làm giảm LDL-C và TG, có thể làm giảm LP(a)
+
+Inclisiran
+
+Đối với bệnh nhân tăng cholesterol máu tính chất gia đình và các bệnh nhân có nguy cơ cao khác
+
+* Nhiều loại thuốc này cũng có thể được phối hợp với statin.
+
+HDL
+
+=
+
+lipoprotein tỷ trọng cao; HDL-C
+
+=
+
+HDL cholesterol; LDL
+
+=
+
+lipoprotein tỷ trọng thấp; LDL-C
+
+=
+
+LDL cholesterol; Lp(a)
+
+=
+
+lipoprotein (a); PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; SiRNA = axit ribonucleic can thiệp nhỏ; TG
+
+=
+
+triglyceride; VLDL = lipoprotein tỷ trọng rất thấp.
+
+* Nhiều loại thuốc này cũng có thể được phối hợp với statin.
+
+HDL
+
+=
+
+lipoprotein tỷ trọng cao; HDL-C
+
+=
+
+HDL cholesterol; LDL
+
+=
+
+lipoprotein tỷ trọng thấp; LDL-C
+
+=
+
+LDL cholesterol; Lp(a)
+
+=
+
+lipoprotein (a); PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; SiRNA = axit ribonucleic can thiệp nhỏ; TG
+
+=
+
+triglyceride; VLDL = lipoprotein tỷ trọng rất thấp.
+
+Thuốc ức chế lyase
+
+adenosine
+
+triphosphate citrate,
+
+axit bempedoic làm suy yếu quá trình tổng hợp cholesterol ở gan và làm tăng các thụ thể LDL. Thuốc này làm giảm LDL-C từ 15 đến 17% (
+
+12
+
+,
+
+13
+
+).
+
+Bempedoic acid
+
+đặc biệt hữu ích ở những bệnh nhân có tác dụng bất lợi liên quan đến cơ do statin vì thuốc này không gây đau cơ hoặc yếu cơ. Nó có thể được sử dụng dưới dạng đơn trị liệu hoặc như một chất bổ sung cho liệu pháp hạ lipid khác. Các nguy cơ bao gồm tăng acid uric máu và đứt gân.
+
+Các chất cô lập axit mật
+
+(cholestyramine, colestipol, colesevelam) ngăn chặn sự tái hấp thu axit mật ở ruột, buộc các thụ thể LDL ở gan phải điều chỉnh tăng để tuyển chọn cholesterol trong hệ tuần hoàn cho quá trình tổng hợp mật. Thuốc đã được chứng minh là có thể làm giảm tỷ lệ tử vong do tim mạch (
+
+14
+
+). Chất cô lập axit mật thường được sử dụng cùng với statin hoặc
+
+axit nicotinic
+
+để tăng cường việc làm giảm LDL-C. Đây là loại thuốc được lựa chọn cho những phụ nữ đang mang thai hoặc có ý định mang thai. Statin bị chống chỉ định trong thời kỳ mang thai vì thuốc này có thể gây quái thai do làm gián đoạn quá trình tổng hợp cholesterol cần thiết cho sự phát triển của thai nhi. Thuốc gắn axit mật an toàn, nhưng việc sử dụng chúng bị giới hạn do những tác dụng phụ bao gồm: đầy bụng, buồn nôn, chuột rút và táo bón. Thuốc cũng có thể làm tăng triglyceride, do đó chống chỉ định sử dụng ở những bệnh nhân bị tăng triglyceride máu.
+
+Cholestyramine
+
+,
+
+colestipol
+
+và
+
+colesevelam
+
+(nhưng ở mức độ thấp hơn) ảnh hưởng đến sự hấp thu của các thuốc khác—đặc biệt là thiazid, thuốc chẹn beta, warfarin, digoxin và thyroxine—một tác dụng có thể giảm đi bằng cách dùng ít nhất 4 giờ trước hoặc 1 giờ sau khi dùng các thuốc khác. Chất gắn axit mật nên được dùng với ăn để tăng hiệu quả.
+
+Thuốc ức chế hấp thu cholesterol
+
+ezetimibe ức chế quá trình hấp thu cholesterol và phytosterol ở ruột.
+
+Ezetimibe
+
+thường làm giảm LDL-C từ 15% đến 20% và gây tăng nhẹ HDL-C và giảm nhẹ triglyceride (
+
+15
+
+).
+
+Ezetimibe
+
+có thể được sử dụng làm đơn trị liệu ở những bệnh nhân không dung nạp statin hoặc được thêm vào statin cho những bệnh nhân đang dùng liều statin tối đa có tình trạng tăng LDL-C dai dẳng. Tác dụng phụ ít gặp.
+
+Các kháng thể đơn dòng PCSK9
+
+(alirocumab, evolocumab) có sẵn dưới dạng tiêm dưới da một hoặc hai lần mỗi tháng. Các thuốc này giữ cho PCSK9 gắn vào các thụ thể LDL, dẫn đến cải thiện chức năng của các thụ thể này. Làm giảm LDL-C từ 40% đến 70%. Các thử nghiệm về kết quả tim mạch với
+
+evolocumab
+
+và
+
+alirocumab
+
+đã cho thấy giảm các biến cố tim mạch ở những bệnh nhân mắc bệnh tim mạch do xơ vữa động mạch trước đó (
+
+9
+
+).
+
+SiRNA nhắm mục tiêu PCSK9
+
+được tiêm dưới da 6 tháng một lần. Inclisiran ức chế quá trình sản sinh PCSK9 ở gan, do đó kéo dài hoạt động của các thụ thể LDL và làm giảm nồng độ LDL-C. Mặc dù LDL-C đã giảm xuống, các thử nghiệm về kết quả tim mạch với
+
+inclisiran
+
+vẫn đang được tiến hành.
+
+Inclisiran
+
+có thể được sử dụng như một liệu pháp bổ sung cho chế độ ăn kiêng và liệu pháp statin được dung nạp tối đa cho bệnh nhân mắc bệnh ASCVD hoặc tăng cholesterol máu dị hợp tử có tính gia đình (
+
+16
+
+).
+
+Các chất bổ sung chế độ ăn uống
+
+có tác dụng làm giảm nồng độ LDL-C bao gồm các chất bổ sung chất xơ và các sản phẩm khác có sterol thực vật (sitosterol, campesterol) hoặc stanol. Chất bổ sung chất xơ làm giảm mức cholesterol theo nhiều cách, bao gồm giảm hấp thu và tăng bài tiết. Chất bổ sung chất xơ từ yến mạch có thể làm giảm cholesterol toàn phần lên đến 18%. Sterol và stanol thực vật làm giảm sự hấp thụ cholesterol bằng cách thay thế cholesterol khỏi mixen ruột và có thể làm giảm LDL-C tới 10% mà không ảnh hưởng đến HDL-C hoặc triglyceride.
+
+Thuốc ức chế protein chuyển cholesterol ester (CETP)
+
+là một nhóm thuốc đã được tìm thấy có tác dụng làm giảm LDL-C. CETP là một glycoprotein trong huyết tương được sản sinh trong gan và mô mỡ, lưu thông trong máu chủ yếu gắn kết với HDL, chất này có tác dụng trung gian trong việc chuyển cholesterol ester từ HDL sang các hạt chứa Apo B (
+
+17
+
+).
+
+Thuốc điều trị tăng cholesterol máu đồng hợp tử có tính chất gia đình
+
+Thuốc điều trị tăng cholesterol máu đồng hợp tử có tính gia đình bao gồm statin, thuốc ức chế PCSK9 và evinacumab.
+
+Evinacumab
+
+là một kháng thể đơn dòng tái tổ hợp của con người gắn kết và ức chế protein giống angiopoietin 3, một chất ức chế LPL và lipase nội mô. Thuốc có thể làm giảm LDL-C (47%), triglyceride và HDL-C.
+
+Evinacumab
+
+được truyền tĩnh mạch mỗi tháng một lần. Thuốc thể gây ra bệnh gút, bệnh giống cúm và phản ứng truyền dịch (
+
+18
+
+).
+
+Lomitapide là thuốc ức chế protein vận chuyển triglyceride ở microsome, có tác dụng ngăn cản quá trình tiết lipoprotein giàu triglyceride ở gan và ruột. Liều khởi đầu thấp và tăng dần mỗi 2 tuần. Bệnh nhân phải tuân theo chế độ ăn với ít hơn 20% lượng calo từ chất béo.
+
+Lomitapide
+
+có thể gây ra các tác dụng bất lợi ở đường tiêu hóa (ví dụ: tiêu chảy, tăng mỡ gan, tăng men gan).
+
+Phương pháp tiếp cận bằng thủ thuật
+
+Các phương pháp tiếp cận bằng thủ thuật được dành riêng cho những bệnh nhân bị tăng lipid máu nặng (LDL-C
+
+>
+
+300 mg/dL [> 7,74 mmol/L]) và không có bệnh mạch máu. Chiết tách LDL, trong đó LDL được loại bỏ bằng trao đổi huyết tương ngoài cơ thể, có thể được thực hiện ở những bệnh nhân có LDL-C > 200 mg/dL (> 5,16 mmol/L) và bệnh mạch máu không đáp ứng với liệu pháp thông thường, chẳng hạn như xảy ra với tăng cholesterol máu có tính gia đình. Các phương án khác bao gồm phẫu thuật bắc cầu hồi tràng (để ngăn chặn sự tái hấp thu axit mật) và ghép gan (ghép các thụ thể LDL). Lọc LDL là thủ thuật được lựa chọn trong hầu hết các trường hợp khi liệu pháp dung nạp tối đa không làm giảm LDL-C một cách thỏa đáng. Chiết tách cũng là liệu pháp thường dùng cho những bệnh nhân bị tăng cholesterol máu dạng đồng hợp tử có tính gia đình có đáp ứng hạn chế hoặc không đáp ứng với điều trị bằng thuốc.
+
+Tăng LDL-C ở trẻ em
+
+Các yếu tố nguy cơ ở trẻ em bên cạnh tiền sử gia đình và
+
+bệnh tiểu đường
+
+bao gồm hút thuốc lá,
+
+tăng huyết áp
+
+, HDL-C thấp (
+
+<
+
+35 mg/dL [< 0,9 mmol/L]), béo phì và lười vận động.
+
+Hiệp hội Tim mạch Hoa Kỳ khuyến nghị việc điều trị bằng chế độ ăn uống cho trẻ em có LDL-C
+
+>
+
+110 mg/dL (> 2,8 mmol/L) (
+
+19
+
+).
+
+Điều trị bằng thuốc được khuyến nghị cho trẻ em
+
+>
+
+8 tuổi và có một trong những biểu hiện sau:
+
+Đáp ứng kém với liệu pháp ăn kiêng, LDL-C
+
+≥
+
+190 mg/dL (
+
+≥
+
+4,9 mmol/L) và không có tiền sử gia đình bị bệnh tim mạch sớm
+
+LDL-C
+
+≥
+
+160 mg/dL (
+
+≥
+
+4,13 mmol/L) và tiền sử gia đình bị bệnh tim mạch sớm hoặc
+
+≥
+
+2 yếu tố nguy cơ mắc bệnh tim mạch sớm
+
+Các loại thuốc được sử dụng ở trẻ em bao gồm nhiều loại statin. Trẻ em bị tăng cholesterol máu có tính gia đình có thể cần dùng thuốc thứ hai để đạt được mục tiêu là làm giảm LDL-C ít nhất 50%.
+
+Tăng triglyceride
+
+Mặc dù chưa rõ liệu nồng độ triglyceride cao có góp phần gây ra bệnh tim mạch hay không, nhưng chất này có liên quan đến nhiều bất thường về chuyển hóa góp phần gây ra bệnh động mạch vành (ví dụ:
+
+bệnh tiểu đường
+
+,
+
+hội chứng chuyển hóa
+
+). Hướng dẫn hỗ trợ giảm triglyceride > 500 mg/dL để giảm nguy cơ viêm tụy (
+
+4
+
+). Không có hướng dẫn cụ thể nào đề cập đến việc điều trị tình trạng tăng triglyceride ở trẻ em.
+
+Các
+
+chiến lược điều trị tổng thể
+
+là thực hiện thay đổi lối sống trước tiên, bao gồm tập thể dục, giảm cân, tránh ăn uống thực phẩm chứa đường và rượu. Ăn từ 2 đến 4 phần ăn/tuần cá biển có hàm lượng axit béo omega-3 cao có thể có hiệu quả, nhưng lượng axit béo omega-3 thường thấp hơn mức cần thiết; bổ sung có thể hữu ích. Thử nghiệm REDUCE-IT cho thấy 4 gam icosapent ethyl làm giảm đáng kể các biến cố bất lợi nghiêm trọng về tim mạch khi được thêm vào liệu pháp statin ở những bệnh nhân có nguy cơ cao có TG > 150 mg/dL (1,7 mmol/L); tuy nhiên, không chắc chắn liệu lợi ích là do làm giảm TG hay do tăng axit eicosapentaenoic (EPA) (
+
+20
+
+). Thử nghiệm STRENGTH không xác nhận rằng một dạng omega-3 khác, có hàm lượng EPA thấp hơn, có thể làm giảm các biến cố bất lợi nghiêm trọng về tim mạch ở những bệnh nhân bị tăng triglyceride máu đồng thời với HDL thấp (
+
+21
+
+).
+
+Ở bệnh nhân đái tháo đường, nồng độ glucose cần được kiểm soát chặt chẽ. Nếu các biện pháp này không hiệu quả, nên cân nhắc dùng thuốc hạ lipid. Bệnh nhân có nồng độ triglyceride rất cao (> 1.000 mg/dL [> 11 mmol/L]) có thể cần bắt đầu dùng thuốc điều trị ngay khi chẩn đoán để giảm nhanh nguy cơ
+
+viêm tụy cấp
+
+.
+
+Fibrates
+
+làm giảm triglyceride khoảng 50%. Chúng kích thích lipoprotein lipase (LPL) nội mô, dẫn đến tăng oxy hóa axit béo trong gan và cơ và giảm sự tổng hợp VLDL ở gan. Thuốc cũng làm tăng HDL-C lên tới 20%. Fibrat có thể gây ra các tác dụng phụ trên đường tiêu hóa, bao gồm chứng khó tiêu, đau bụng, và tăng men gan. Thuốc này hiếm gặp gây
+
+sỏi mật
+
+. Fibrat có thể làm tăng độc tính tới cơ khi dùng với statin và làm tăng tác dụng của warfarin.
+
+Statins
+
+có thể được sử dụng ở những bệnh nhân có triglyceride
+
+<
+
+500 mg/dL (
+
+<
+
+5,65 mmol/L) nếu LDL-C cũng tăng; statin có thể làm giảm cả LDL-C và triglyceride thông qua giảm VLDL. Nếu chỉ có triglyceride tăng cao, fibrate là thuốc được lựa chọn.
+
+Axit béo omega-3
+
+ở các mức liều cao (1 ga đến 6 g axit eicosapentaenoic [EPA] và axit docosahexaenoic [DHA] mỗi ngày) có thể có hiệu quả trong việc làm giảm triglyceride. Các axit béo omega-3 EPA và DHA là thành phần hoạt tính trong dầu cá biển hoặc viên nang omega-3. Tác dụng ngoại ý bao gồm eructation và tiêu chảy. Những tác dụng này có thể giảm đi bằng cách chia nhỏ liều lượng uống viên nang
+
+dầu cá
+
+cùng với bữa ăn (ví dụ: hai lần mỗi ngày hoặc 3 lần mỗi ngày). Axit béo omega-3 có thể là một thuốc bổ sung hữu ích cho các liệu pháp khác. Các chế phẩm axit béo omega-3 theo toa được chỉ định cho nồng độ triglyceride > 500 mg/dL (
+
+>
+
+5,65 mmol/L) (
+
+21
+
+).
+
+Thuốc ức chế Apo CIII
+
+(thuốc ức chế ngược của apo CIII) olezarsen làm giảm nồng độ triglyceride ở những bệnh nhân mắc hội chứng chylomicron máu có tính gia đình do thiếu hụt lipoprotein lipase. Thuốc được cho dùng hàng tháng (
+
+22
+
+,
+
+23
+
+).
+
+HDL-C thấp
+
+Mặc dù nồng độ HDL-C cao hơn dự đoán nguy cơ tim mạch thấp hơn, nhưng vẫn chưa rõ liệu các phương pháp điều trị làm tăng nồng độ HDL-C có làm giảm nguy cơ tử vong hay không. Các phương pháp điều trị làm giảm LDL-C và triglyceride thường làm tăng HDL-C và đôi khi cả 3 mục tiêu có thể đạt được cùng lúc.
+
+Không có hướng dẫn cụ thể nào đề cập đến việc điều trị HDL-C thấp ở trẻ em.
+
+Ngọc trai & cạm bẫy
+
+Mặc dù nồng độ HDL-C cao hơn dự đoán nguy cơ tim mạch thấp hơn, nhưng vẫn chưa rõ liệu các phương pháp điều trị làm tăng nồng độ HDL-C có làm giảm nguy cơ biến cố tim mạch hoặc tử vong hay không.
+
+Điều trị bao gồm
+
+thay đổi lối sống
+
+như tăng tập thể dục và giảm cân. Rượu làm tăng HDL-C nhưng không được khuyến nghị dùng làm liệu pháp điều trị vì nó có nhiều tác dụng bất lợi khác. Thuốc có thể có hiệu quả trong việc nâng cao nồng độ HDL-C khi chỉ thay đổi lối sống là không đủ, nhưng vẫn chưa chắc chắn liệu việc tăng nồng độ HDL-C có làm giảm tỷ lệ tử vong hay không.
+
+Axit nicotinic (niacin)
+
+có thể làm tăng HDL-C nhưng không được khuyến nghị thường xuyên do tác dụng bất lợi của thuốc này. Cơ chế hoạt động của thuốc này vẫn chưa được biết rõ, nhưng có vẻ như thuốc vừa làm tăng sản sinh HDL-C vừa ức chế sự thanh thải HDL-C; t nàyhuốc cũng có thể huy động cholesterol từ đại thực bào.
+
+Niacin
+
+cũng làm giảm triglyceride và, với các liều từ 1500 đến 2000 mg mỗi ngày, làm giảm LDL-C. Tuy nhiên, cả thử nghiệm HPS2-THRIVE và thử nghiệm AIM-HIGH đều không cho thấy bất kỳ lợi ích nào khi thêm
+
+niacin
+
+vào liệu pháp statin trong việc giảm các biến cố tim ở những bệnh nhân có nguy cơ cao mắc bệnh tim mạch đã biết (
+
+24
+
+,
+
+25
+
+).
+
+Niacin
+
+gây ra tình trạng đỏ bừng, ngứa và buồn nôn; dùng thuốc tiền mê bằng
+
+aspirin
+
+liều thấp có thể ngăn ngừa những tác dụng bất lợi này. Các chế phẩm phóng thích kéo dài thường ít gây cơn bừng mặt. Tuy nhiên, hầu hết các chế phẩm giải phóng chậm không kê đơn đều không được khuyến nghị.
+
+Niacin
+
+có thể gây tăng men gan và đôi khi gây suy gan, kháng
+
+insulin
+
+, tăng axit uric máu và bệnh gút. Nó cũng có thể làm
+
+tăng nồng độ homocysteine
+
+. Sự phối hợp giữa
+
+niacin
+
+liều cao với statin có thể làm tăng nguy cơ mắc bệnh cơ.
+
+Các thử nghiệm không cho thấy bất kỳ lợi ích nào từ fibrate khi phối hợp với statin (
+
+26
+
+,
+
+27
+
+).
+
+Tăng Lp (a)
+
+Phương pháp tiếp cận thông thường trên bệnh nhân tăng Lp(a) là làm giảm mạnh LDL-C. Lọc LDL huyết tương đã được sử dụng để giảm Lp (a) ở những bệnh nhân có mức Lp (a) cao và bệnh mạch máu tiến triển.
+
+Giới hạn trên của giá trị bình thường đối với Lp(a) là khoảng 30 mg/dL (75 nmol/L), nhưng giá trị ở người Mỹ gốc Phi có xu hướng cao hơn. Có vài dữ liệu để hướng dẫn điều trị tăng Lp (a) hoặc để xác định hiệu quả điều trị. Niacin đã được chứng minh là làm giảm Lp(a); thuốc có thể làm giảm Lp(a) tới > 20% ở các mức liều cao hơn (
+
+28
+
+). Tuy nhiên, lợi ích trên lâm sàng của tác dụng làm giảm này vẫn chưa được chứng minh trong các thử nghiệm lâm sàng (
+
+24
+
+,
+
+25
+
+). Có một số liệu pháp dựa trên RNA giúp giảm nồng độ Lp(a) trong quá trình phát triển lâm sàng và cho thấy triển vọng (
+
+29
+
+).
+
+Điều trị bệnh nhân có bệnh kèm theo
+
+Điều trị rối loạn lipid máu do đái tháo đường luôn phải bao gồm thay đổi lối sống và statin để làm giảm LDL-C. Để giảm nguy cơ viêm tụy, có thể sử dụng fibrat để giảm triglyceride khi nồng độ > 500 mg/dL (
+
+>
+
+5,65 mmol/L). Metformin làm giảm triglyceride, đây có thể là lý do để lựa chọn thuốc này thay vì các loại thuốc hạ đường huyết dạng uống khác khi điều trị bệnh tiểu đường. Một số thiazolidinedione làm tăng cả HDL-C và LDL-C. Một số thiazolidinedione cũng làm giảm triglyceride. Không nên chọn những loại thuốc làm giảm đường huyết này thay cho thuốc hạ lipid để điều trị tình trạng bất thường về lipid ở bệnh nhân tiểu đường nhưng có thể là thuốc bổ sung hữu ích. Bệnh nhân có nồng độ triglyceride rất cao và bệnh tiểu đường không được kiểm soát tối ưu có thể có đáp ứng tốt hơn với insulin so với thuốc hạ đường huyết đường uống.
+
+Ngày càng có nhiều dữ liệu ủng hộ việc sử dụng thuốc chủ vận thụ thể peptide-1 giống
+
+glucagon
+
+(GLP-1RA) để cải thiện kiểm soát glucose, đẩy nhanh quá trình giảm cân, cải thiện cholesterol và giảm nguy cơ tim mạch ở bệnh nhân tiểu đường (
+
+30
+
+,
+
+31
+
+). Thuốc ức chế protein vận chuyển natri-glucose 2 (SGLT2) còn gây tranh cãi về tác dụng của các thuốc này đối với lipid, mặc dù các thuốc này đã được chứng minh là cải thiện kết quả ở tim trên bệnh nhân tiểu đường (
+
+32
+
+,
+
+33
+
+).
+
+Điều trị rối loạn lipid máu ở những bệnh nhân bị
+
+suy giáp
+
+,
+
+bệnh thận mạn tính
+
+, bệnh gan hoặc kết hợp các rối loạn này bao gồm điều trị các rối loạn cơ bản và các bất thường lipid thứ phát. Mức lipid bất thường ở những bệnh nhân có chức năng tuyến giáp giới hạn thấp (nồng độ TSH bình thường cao) sẽ cải thiện khi điều trị hormone thay thế. Giảm liều hoặc ngừng thuốc gây rối loạn lipid cần được cân nhắc.
+
+Theo dõi điều trị
+
+Nồng độ lipid cần được theo dõi định kỳ sau khi bắt đầu điều trị. Không có dữ liệu xác định khoảng thời gian theo dõi cụ thể, nhưng định lượng nồng độ lipid từ 2 đến 3 tháng sau khi bắt đầu hoặc thay đổi phương pháp điều trị và một hoặc hai lần mỗi năm sau khi mức lipid ổn định là thực hành chung.
+
+Nhiễm độc gan và cơ nghiêm trọng khi sử dụng statin xảy ra ở 0,5 đến 2% tổng số người dùng. Việc theo dõi thường xuyên nồng độ men gan là không cần thiết và việc đo creatine kinase (CK) thường quy không hữu ích để dự đoán sự khởi phát của
+
+tiêu cơ vân
+
+. Nồng độ men cơ không cần phải được kiểm tra thường xuyên trừ khi bệnh nhân bị đau cơ hoặc các triệu chứng cơ khác. Nếu nghi ngờ statin gây tổn thương cơ, ngừng sử dụng statin và định lượng CK. Khi các triệu chứng cơ giảm, liều thấp hơn hoặc thuốc statin khác có thể điều trị thử. Nếu các triệu chứng không giảm trong vòng 1 đến 2 tuần sau khi ngừng statin, cần tìm ra nguyên nhân khác cho các triệu chứng cơ (ví dụ
+
+đau đa cơ khớp dạng thấp
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Daniels SR, Greer FR; Committee on Nutrition
+
+. Lipid screening and cardiovascular health in childhood.
+
+Pediatrics
+
+2008;122(1):198-208. doi:10.1542/peds.2008-1349
+
+2.
+
+Harrison M, Moyna NM, Zderic TW, et al
+
+: Lipoprotein particle distribution and skeletal muscle lipoprotein lipase activity after acute exercise.
+
+Lipids Health Dis
+
+11:64, 2012. doi:10.1186/1476-511X-11-64
+
+3.
+
+American Heart Association
+
+: American Heart Association Recommendations for Physical Activity in Adults and Kids. Đã xem xét lại ngày 19 tháng 1 năm 2024. Truy cập ngày 15 tháng 4 năm 2025
+
+4.
+
+Grundy SM, Stone NJ, Bailey AL, et al
+
+: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+
+Circulation
+
+139: e1082–e1143, 2019. doi: 10.1161/CIR.0000000000000625
+
+5.
+
+Goff DC Jr, Lloyd-Jones DM, Bennett G, et al
+
+: 2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines [published correction appears in
+
+Circulation
+
+2014 Jun 24;129(25 Suppl 2):S74-5].
+
+Circulation
+
+129(25 Suppl 2):S49–S73, 2014. doi:10.1161/01.cir.0000437741.48606.98
+
+6.
+
+Khan SS, Coresh J, Pencina MJ, et al
+
+: Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association.
+
+Circulation
+
+148(24):1982–2004, 2023. doi:10.1161/CIR.0000000000001191
+
+7.
+
+Arnett DK, Blumenthal RS, Albert MA, et al
+
+: 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears in
+
+Circulation
+
+Ngày 10 tháng 9 năm 2019;140(11):e647-e648. doi: 10.1161/CIR.0000000000000724.] [
+
+Circulation
+
+ngày 28 tháng 1 năm 2020;141(4):e59. doi: 10.1161/CIR.0000000000000754.] [sửa lỗi đã xuất bản có trong
+
+Circulation
+
+ngày 21 tháng 4 năm 2020;141(16):e773. doi: 10.1161/CIR.0000000000000770.].
+
+Circulation
+
+140(11):e563–e595, 2019. doi:10.1161/CIR.0000000000000677
+
+8.
+
+US Preventive Services Task Force, Mangione CM, Barry MJ, et al
+
+: Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement.
+
+JAMA
+
+328(8):746-753, 2022. doi:10.1001/jama.2022.13044
+
+9.
+
+Sabatine MS, Giugliano RP, Keech AC, et al
+
+:
+
+Evolocumab
+
+and clinical outcomes in patients with cardiovascular disease.
+
+N Engl J Med
+
+376:1713–1722, 2017.doi:10.1056/NEJMoa1615664
+
+10.
+
+Schwartz GG, Steg PG, Szarek M, et al
+
+:
+
+Alirocumab
+
+and cardiovascular outcomes after acute coronary syndrome.
+
+New Engl J Med
+
+379:2097–2107, 2018. doi: 10.1056/NEJMoa1801174.
+
+11.
+
+Writing Committee, Lloyd-Jones DM, Morris PB, et al
+
+: 2022 ACC Expert Consensus Decision Pathway on the Role of Nonstatin Therapies for LDL-Cholesterol Lowering in the Management of Atherosclerotic Cardiovascular Disease Risk: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears in
+
+J Am Coll Cardiol
+
+2023 Jan 3;81(1):104].
+
+J Am Coll Cardiol
+
+80(14):1366-1418, 2022. doi:10.1016/j.jacc.2022.07.006
+
+12.
+
+Goldberg AC, Leiter LA, Stroes ESG, et al
+
+: Effect of
+
+Bempedoic Acid
+
+vs Placebo Added to Maximally Tolerated Statins on Low-Density Lipoprotein Cholesterol in Patients at High Risk for Cardiovascular Disease: The CLEAR Wisdom Randomized Clinical Trial [published correction appears in JAMA. Ngày 21 tháng 1 năm 2020;323(3):282].
+
+JAMA
+
+2019;322(18):1780-1788. doi:10.1001/jama.2019.16585
+
+13.
+
+Ray KK, Bays HE, Catapano AL, et al
+
+: Safety and Efficacy of
+
+Bempedoic Acid
+
+to Reduce LDL Cholesterol.
+
+N Engl J Med
+
+2019;380(11):1022-1032. doi:10.1056/NEJMoa1803917
+
+14.
+
+The Lipid Research Clinics Coronary Primary Prevention Trial results
+
+: I. Reduction in incidence of coronary heart disease.
+
+JAMA
+
+251(3):351–364, 1984. doi:10.1001/jama.1984.03340270029025
+
+15.
+
+Cannon CP, Blazing MA, Giugliano RP, et al
+
+:
+
+Ezetimibe
+
+Added to Statin Therapy after Acute Coronary Syndromes.
+
+N Engl J Med
+
+372(25):2387–2397, 2015. doi:10.1056/NEJMoa1410489
+
+16.
+
+Ray KK, Troquay RPT, Visseren FLJ, et al
+
+: Long-term efficacy and safety of
+
+inclisiran
+
+in patients with high cardiovascular risk and elevated LDL cholesterol (ORION-3): results from the 4-year open-label extension of the ORION-1 trial.
+
+Lancet Diabetes Endocrinol
+
+11(2):109–119, 2023. doi:10.1016/S2213-8587(22)00353-9
+
+17.
+
+Nicholls SJ, Ditmarsch M, Kastelein JJ, et al
+
+: Lipid lowering effects of the CETP inhibitor
+
+obicetrapib
+
+in combination with high-intensity statins: a randomized phase 2 trial.
+
+Nat Med
+
+28(8):1672–1678, 2022. doi:10.1038/s41591-022-01936-7
+
+18.
+
+Raal FJ, Rosenson RS, Reeskamp LF, et al
+
+:
+
+Evinacumab
+
+for Homozygous Familial Hypercholesterolemia.
+
+N Engl J Med
+
+383(8):711–720, 2020. doi:10.1056/NEJMoa2004215
+
+19.
+
+de Ferranti SD, Steinberger J, Ameduri R, et al
+
+: Cardiovascular Risk Reduction in High-Risk Pediatric Patients: A Scientific Statement From the American Heart Association.
+
+Circulation
+
+139(13):e603-e634, 2019. doi:10.1161/CIR.0000000000000618
+
+20.
+
+Bhatt DL, Steg PG, Miller M, et al
+
+: Cardiovascular Risk Reduction with
+
+Icosapent Ethyl
+
+for Hypertriglyceridemia.
+
+N Engl J Med
+
+380(1):11–22, 2019. doi:10.1056/NEJMoa1812792
+
+21.
+
+Nicholls SJ, Lincoff AM, Garcia M, et al
+
+. Effect of High-Dose Omega-3 Fatty Acids vs Corn Oil on Major Adverse Cardiovascular Events in Patients at High Cardiovascular Risk: The STRENGTH Randomized Clinical Trial.
+
+JAMA
+
+2020;324(22):2268-2280. doi:10.1001/jama.2020.22258
+
+22.
+
+Bergmark BA, Marston NA, Prohaska TA, et al
+
+:
+
+Olezarsen
+
+for Hypertriglyceridemia in Patients at High Cardiovascular Risk.
+
+N Engl J Med
+
+390(19):1770–1780, 2024. doi:10.1056/NEJMoa2402309
+
+23.
+
+Kamrul-Hasan ABM, Dutta D, Nagendra L, Mondal S, Bhattacharya S, Kalra S
+
+: Safety and Efficacy of the Novel RNA Interference Therapies for Hypertriglyceridemia and Mixed Hyperlipidemia Management: A Systematic Review and Meta-analysis.
+
+Endocr Pract
+
+30(11):1103–1112, 2024. doi:10.1016/j.eprac.2024.08.013
+
+24.
+
+AIM-HIGH Investigators, Boden WE, Probstfield JL, et al
+
+:
+
+Niacin
+
+in patients with low HDL cholesterol levels receiving intensive statin therapy [published correction appears in
+
+N Engl J Med
+
+367(2):189, 2012].
+
+N Engl J Med
+
+365(24):2255–2267, 2011. doi:10.1056/NEJMoa1107579
+
+25.
+
+HPS2-THRIVE Collaborative Group, Landray MJ, Haynes R, et al
+
+: Effects of extended-release
+
+niacin
+
+with
+
+laropiprant
+
+in high-risk patients.
+
+N Engl J Med
+
+371(3):203–212, 2014. doi:10.1056/NEJMoa1300955
+
+26.
+
+Das Pradhan A, Glynn RJ, Fruchart JC, et al
+
+: Triglyceride Lowering with
+
+Pemafibrate
+
+to Reduce Cardiovascular Risk.
+
+N Engl J Med
+
+387(21):1923–1934, 2022. doi:10.1056/NEJMoa2210645
+
+27.
+
+Ginsberg HN
+
+: The ACCORD (Action to Control Cardiovascular Risk in Diabetes) Lipid trial: what we learn from subgroup analyses.
+
+Diabetes Care
+
+34 Suppl 2(Suppl 2):S107–S108, 2011. doi:10.2337/dc11-s203
+
+28.
+
+Croyal M, Ouguerram K, Passard M, et al
+
+: Effects of extended-release
+
+nicotinic acid
+
+on apolipoprotein (a) kinetics in hypertriglyceridemic patients.
+
+Arterioscler Thromb Vasc Biol
+
+35 (9): 2042–2047, 2015. doi:10.1161/ATVBAHA.115.305835
+
+29.
+
+Yeang C, Karwatowska-Prokopczuk E, Su F, et al
+
+: Effect of
+
+Pelacarsen
+
+on Lipoprotein(a) Cholesterol and Corrected Low-Density Lipoprotein Cholesterol.
+
+J Am Coll Cardiol
+
+79(11):1035–1046, 2022. doi:10.1016/j.jacc.2021.12.032
+
+30.
+
+Hernandez AF, Green JB, Janmohamed S, et al
+
+:
+
+Albiglutide
+
+and cardiovascular outcomes in patients with type 2 diabetes and cardiovascular disease (Harmony Outcomes): a double-blind, randomised placebo-controlled trial.
+
+Lancet
+
+392(10157):1519–1529, 2018. doi:10.1016/S0140-6736(18)32261-X
+
+31.
+
+Yao H, Zhang A, Li D, et al
+
+: Comparative effectiveness of GLP-1 receptor agonists on glycaemic control, body weight, and lipid profile for type 2 diabetes: systematic review and network meta-analysis.
+
+BMJ
+
+384:e076410, 2024. doi:10.1136/bmj-2023-076410
+
+32.
+
+Sánchez-García A, Simental-Mendía M, Millán-Alanís JM, Simental-Mendía LE
+
+: Effect of sodium-glucose co-transporter 2 inhibitors on lipid profile: A systematic review and meta-analysis of 48 randomized controlled trials.
+
+Pharmacol Res
+
+160:105068, 2020. doi:10.1016/j.phrs.2020.105068
+
+33.
+
+Wiviott SD, Raz I, Bonaca MP, et al
+
+:
+
+Dapagliflozin
+
+and Cardiovascular Outcomes in Type 2 Diabetes.
+
+N Engl J Med
+
+380(4):347–357, 2019. doi:10.1056/NEJMoa1812389
+
+Những điểm chính
+
+Tăng lipid máu là một yếu tố nguy cơ gây xơ vữa động mạch và do đó có thể dẫn đến bệnh động mạch vành có triệu chứng và bệnh động mạch ngoại biên.
+
+Nguyên nhân của rối loạn lipid máu bao gồm lối sống ít vận động với chế độ ăn nhiều calo, ăn nhiều chất béo bão hòa, cholesterol và chất béo chuyển hóa và/hoặc di truyền bất thường của chuyển hóa lipid.
+
+Chẩn đoán bằng cách sử dụng hồ sơ lipid huyết thanh (đo cholesterol toàn phần, triglycerides và cholesterol lipoprotein tỷ trọng cao [HDL] và tính cholesterol lipoprotein tỷ trọng thấp [LDL] và cholesterol lipoprotein tỷ trọng rất thấp [VLDL]).
+
+Các xét nghiệm sàng lọc nên được thực hiện từ 9 đến 11 tuổi và lại từ 17 đến 21 tuổi (ở tuổi 2-8 nếu có tiền sử gia đình nặng về tăng lipid máu nặng hoặc bệnh động mạch vành sớm hoặc các yếu tố nguy cơ khác); người lớn được sàng lọc mỗi 5 năm bắt đầu ở tuổi 20.
+
+Điều trị với statin được chỉ định để giảm nguy cơ xơ vữa động mạch cho tất cả các bệnh nhân trong 4 nhóm nguy cơ chính theo định nghĩa của Hiệp hội Tim mạch Hoa Kỳ và cho những người không có những người có một số kết hợp các yếu tố nguy cơ khác và tăng mức lipid.
+
+Tối ưu hóa việc tuân thủ, thay đổi lối sống và sử dụng statin trước khi thêm một loại thuốc không phải statin; nếu bệnh nhân có nồng độ LDL-C > 70 mg/dL (> 1,8 mmol/L) mắc bệnh tim mạch xơ vữa động mạch có nguy cơ cao, việc bổ sung ezetimibe hoặc thuốc ức chế PSCK9 là hợp lý.
+
+Điều trị khác phụ thuộc vào sự bất thường của từng lipid cụ thể nhưng luôn bao gồm thay đổi lối sống, điều trị tăng huyết áp và đái tháo đường, ngừng hút thuốc, và một bệnh nhân có nguy cơ cao bị nhồi máu cơ tim hoặc tử vong do bệnh động mạch vành, aspirin liều thấp hàng ngày.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Tăng lipid máu) ---
+
+TheoMichael H. Davidson,MD, FACC, FNLA,University of Chicago Medicine, Pritzker School of Medicine;Marie Altenburg,MD,The University of ChicagoXem xét bởiGlenn D. Braunstein,MD,Cedars-Sinai Medical CenterĐã xem xét/Đã chỉnh sửađã sửa đổiThg 5 2025v989684_vi
+
+--- 2. Phân loại rối loạn lipid máu ---
+
+Rối loạn lipid máu theo truyền thống được phân loại theo kiểu tăng lipid và lipoprotein (ví dụ: kiểu hình Fredrickson), nhưng một hệ thống thực tế hơn phân loại rối loạn lipid máu thành nguyên phát hoặc thứ phát và mô tả tình trạng này bằng:Chỉ tăng cholesterol: Tăng cholesterol máu đơn thuần hoặc đơn độcChỉ tăng triglyceride: Tăng triglycerid máu đơn thuần hoặc đơn độcTăng cả cholesterol và triglyceride: Tăng lipid máu hỗn hợp hoặc kết hợpHệ thống này không tính đến những bất thường cụ thể về lipoprotein (ví dụ: HDL-C thấp hoặc LDL-C cao) có thể góp phần gây bệnh mặc dù nồng độ cholesterol và triglyceride bình thường.
+
+--- 3. Nguyên nhân rối loạn mỡ máu ---
+
+Rối loạn lipid máu có thể là:Nguyên phát: Di truyềnThứ phát: Nguyên nhân do lối sống và các yếu tố khácCả các nguyên nhân tiên phát và các nguyên nhân thứ phát góp phần gây rối loạn lipid ở nhiều mức độ khác nhau. Ví dụ, trong tăng lipid máu kết hợp tính chất gia đình, biểu hiện có thể xảy ra chỉ khi có các nguyên nhân thứ phát.Nguyên nhân nguyên phátCác nguyên nhân chính là do một hoặc nhiều đột biến gen dẫn đến sản xuất quá mức hoặc thanh thải kém triglycerides và LDL hoặc sản sinh ít hoặc thanh thải quá mức HDL (xem bảngRối loạn lipid máu (nguyên phát) do di truyền).BảngRối loạn lipid máu do gen (nguyên phát)BảngRối loạn lipid máu do gen (nguyên phát)Rối loạn lipid máu do gen (nguyên phát)Rối loạnKhiếm khuyết/cơ chế di truyềnDi truyềnsự phổ biếnĐặc điểm lâm sàngĐiều trịThiếu hụt Apo C-II [a]Apo C-II (gây thiếu chức năng LPL)Gen lặn<1/1 triệuViêm tụy (ở một số người lớn), hội chứng chuyển hóa (thường có mặt)TG:>750 mg/dL (>8,5 mmol/L)Chế độ ăn: Hạn chế chất béo nghiêm trọng bằng cách bổ sung vitamin tan trong chất béo và bổ sung TG chuỗi trung bìnhBệnh u vàng gân cơ-não [b]Khiếm khuyết 27-hydroxylase của ty thể ganNgăn chặn sự tổng hợp axit mật và chuyển hóa cholesterol thành cholestanol, chất này tích tụ trong máu, hệ thần kinh và các cơ quan khácGen lặnHiếm gặpĐục thủy tinh thể, CAD sớm, bệnh thần kinh, chứng mất điều hòaAxit ChenodeoxycholicBệnh dự trữ Cholesteryl estervàbệnh Wolman[c]Thiếu hụt acid lipase lysosomalGen lặnHiếm gặpCAD sớmTích tụ cholesteryl ester và TG trong lysosome trong gan, lá lách, và hạch bạch huyếtXơ ganCó thể là statinThay thế enzymThiếu hụt/đột biến apo AI có tính chất gia đìnhApo AIkhông xác địnhHiếm gặpĐục giác mạc, xanthomas, CAD sớm (ở một số người)HDL: 15–30 mg/dL (0,39–0,78 mmol/L)Chăm sóc hỗ trợHội chứng chylomicron máu có tính gia đình (trước đây là thiếu hụt LPL) [e]GenLPLGenAPOC2GenAPOA5GenGP1HBP1GenLMF1Gen lặnHiếm gặpTăng triglyceride máu, viêm tụy, u vàng thể phát ban, nhiễm lipid võng mạcTG > 1000 mg/dL (11,2 mmol/L)Chế độ ăn uống ít chất béoFibrateTrao đổi huyết tươngOlezarsenTăng lipid máu kết hợp có tính gia đình [f]Không rõ, có thể có nhiều khiếm khuyết và cơ chếCó ưu thế1/50 đến 1/100CAD sớm, gây ra khoảng 15% số trường hợp MI ở những người<60 tuổiApo B: Tăng cao một cách không cân xứngTC: 250-500 mg/dL (6,5-13,0 mmol/L)TG: 250-750 mg/dL (2,8-8,5 mmol/L)Chế độ ăn uống ít chất béoSụt cânThuốc hạ lipidApo B-100 khiếm khuyết có tính gia đình [g]Apo B (khiếm khuyết của vùng thụ thể LDL)Giảm thanh thải LDLCó ưu thế1/700Xanthomas, củng giác mạc, CAD sớmTC: 250-500 mg/dL (6,5-13 mmol/L)Chế độ ăn uống ít chất béoThuốc hạ lipidRối loạn betalipoprotein máu có tính gia đình [h]Apo E (thường là đồng hợp tử e2/e2)Giảm thanh thải chylomicron và VLDLGen lặn (phổ biến hơn) hoặc gen trội (ít phổ biến hơn)1/5000Xanthomas (đặc biệt là củ và phẳng), nếp nhăn màu vàng gan bàn tay, CAD sớmTC: 250-500 mg/dL (6,5-13,0 mmol/L)TG: 250-500 mg/dL (2,8-5,6 mmol/L)Chế độ ăn uống ít chất béoThuốc hạ lipidTăng cholesterol máu có tính gia đình [i]Thiếu thụ thể LDLGiảm thanh thải LDLƯu thếDị hợp: 1/200U vàng thể gân, cung giác mạc, CAD sớm (tuổi 30–50), gây ra khoảng 5% số trường hợp MI ở những người<60 tuổiTC: 250-500 mg/dL (6,5-13 mmol/L)Chế độ ăn uống ít chất béoThuốc hạ lipidChiết tách LDL (dành cho bệnh nhân đồng hợp tử và bệnh nhân dị hợp tử mắc bệnh nặng)Đồng hợp tử: 1/250.000-1/1 triệu (tăng lên trong số những người Pháp gốc Canada, Christian Lebanese và Nam Phi)xanthoma gân gót và phẳng, xanthoma củ, CAD sớm (trước 18 tuổi)TC>500 mg/dL (>13 mmol/L)Chế độ ăn uống ít chất béoThuốc hạ lipidChiết tách LDL (dành cho bệnh nhân đồng hợp tử và bệnh nhân dị hợp tử mắc bệnh nặng)Ghép gan (dành cho bệnh nhân đồng hợp tử)Tăng triglyceride máu có tính gia đình [h]Không rõ, có thể có nhiều khiếm khuyết và cơ chếCó ưu thế1/500Thông thường không có triệu chứng hoặc phát hiện; thỉnh thoảng tăng nồng độ u xơ máu, đôi khi xơ vữa động mạch sớmTG: 200-500 mg/dL (2,3-5,6 mmol/L), có thể cao hơn tùy thuộc vào chế độ ăn uống và sử dụng rượuChế độ ăn uống ít chất béoSụt cânThuốc hạ lipidThiếu hụt LCAT có tính gia đình [j]LCATgenGen lặnCực kì hiếmđục giác mạc, thiếu máu, bệnh thận mạn tínhHDL:<10 mg/dL (< 0,26 mmol/L)Hạn chế chất béoCấy ghép thậnBệnh Fisheye (thiếu một phần LCAT)LCATgenGen lặnCực kì hiếmĐộ mờ của giác mạcHDL:<10 mg/dL (< 0,26 mmol/L)Chăm sóc hỗ trợThiếu lipase tại ganLipase tại ganGen lặnCực kì hiếmCAD sớmTC: 250-1500 mg/dL (6,5-39 mmol/L)TG: 395–8200 mg/dL (4,5–93 mmol/L)HDL: Thay đổiChế độ ăn ít chất béo, thuốc hạ lipidPCSK9 tăng của các đột biến chức năngTăng sự giáng hóa của thụ thể LDLCó ưu thếkhông xác địnhTương tự như chứng tăng cholesterol máu gia đìnhChế độ ăn uống ít chất béoThuốc hạ lipidTăng cholesterol máu đa genKhông rõ, có thể có nhiều khiếm khuyết và cơ chếThay đổiPhổ biếnCAD sớmTC: 250-350 mg/dL (6,5-9,0 mmol/L)Chế độ ăn uống ít chất béoThuốc hạ lipidThiếu hụt alphalipoprotien máu (tính chất gia đình hoặc không)Không xác định, có thể apo AI, C-III, hoặc A-IVCó ưu thếHiếm gặpCAD sớmHDL: 15-35 mg/dL (0,39–0,91 mmol/L)Tập thể dụcThuốc hạ LDLSitosterolemiaABCG5vàABCG8genGen lặnHiếm gặpxanthoma gân, CAD sớmHạn chế chất béoChất gắn acid mậtEzetimibeBệnh TangierABCA1genGen lặnHiếm gặpCAD sớm (ở một số người), bệnh lý thần kinh ngoại vi, thiếu máu tán huyết, đục giác mạc, gan lách to, amindan vàngHDL:<5 mg/dL (< 0,13 mmol/L)Chế độ ăn uống ít chất béo[a] Dữ liệu về tỷ lệ hiện hành từHoffmann, M.M., März, W. (2009). Thiếu hụt Apo C-II. In: Lang, F. (eds)Encyclopedia of Molecular Mechanisms of Disease.Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-540-29676-8_137[b] Prevalence data fromNie S, Chen G, Cao X, Zhang Y. Cerebrotendinous xanthomatosis: a comprehensive review of pathogenesis, clinical manifestations, diagnosis, and management.Orphanet J Rare Dis2014;9:179. Xuất bản ngày 26 tháng 11 năm 2014. doi:10.1186/s13023-014-0179-4[c] Prevalence data fromPericleous M, Kelly C, Wang T, Livingstone C, Ala A. Wolman's disease and cholesteryl ester storage disorder: the phenotypic spectrum of lysosomal acid lipase deficiency.Lancet Gastroenterol Hepatol2017;2(9):670-679. doi:10.1016/S2468-1253(17)30052-3[d] Dữ liệu từGeller AS, Polisecki EY, Diffenderfer MR, et al. Genetic and secondary causes of severe HDL deficiency and cardiovascular disease.J Lipid Res2018;59(12):2421-2435. doi:10.1194/jlr.M088203[e] Prevalence data fromJaved F, Hegele RA, Garg A, et al. Familial chylomicronemia syndrome: An expert clinical review from the National Lipid Association.J Clin Lipidolxuất bản ngày 21 tháng 3 năm 2025. doi: 10.1016/j.jacl.2025.03.013[f] Prevalence data fromTaghizadeh E, Farahani N, Mardani R, Taheri F, Taghizadeh H, Gheibihayat SM. Genetics of Familial Combined Hyperlipidemia (FCHL) Disorder: An Update.Biochem Genet2022;60(2):453-481. doi:10.1007/s10528-021-10130-2[g] Prevalence data fromTybjaerg-Hansen A, Humphries SEAtherosclerosis. Familial defective apolipoprotein B-100: a single mutation that causes hypercholesterolemia and premature coronary artery disease.  1992;96(2-3):91-107. doi:10.1016/0021-9150(92)90056-m[h] Data fromShah AS, Wilson DP. Genetic Disorders Causing Hypertriglyceridemia in Children and Adolescents. [Cập nhật ngày 22 tháng 2 năm 2023]. In: Feingold KR, Anawalt B, Blackman MR, et al., editors. Endotext [Internet]. Nam Dartmouth (MA): MDText.com, Inc.; 2000-. Có ở: https://www.ncbi.nlm.nih.gov/books/NBK395571/[i] Data fromJackson CL, Ahmad Z, Das SR, Khera A. The evaluation and management of patients with LDL-C ≥ 190 ​mg/dL in a large health care system.Am J Prev Cardiol2020;1:100002. Xuất bản ngày 1 tháng 5 năm 2020. doi:10.1016/j.ajpc.2020.100002[j] Data fromMehta R, Elias-Lopez D, Martagon AJ, et al. LCAT deficiency: a systematic review with the clinical and genetic description of Mexican kindred.Lipids Health Dis2021;20(1):70. Xuất bản ngày 13 tháng 7 năm 2021. doi:10.1186/s12944-021-01498-6ABCA1=protein vận chuyển cassette gắn kếtadenosintriphosphate (ATP) A1; ABCG5 và 8=các protein thành viên G phân họ cassette gắn kết ATP 5 và 8; apo=apoprotein; CAD=bệnh động mạch vành; HDL=lipoprotein tỷ trọng cao; LCAT=lecithin-cholesterol acyltransferase; LDL=lipoprotein tỷ trọng thấp; LPL=lipoprotein lipase; MI = nhồi máu cơ tim; PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; TC=cholesterol toàn phần; TG=triglyceride; VLDL=lipoprotein tỷ trọng rất thấp.[a] Dữ liệu về tỷ lệ hiện hành từHoffmann, M.M., März, W. (2009). Thiếu hụt Apo C-II. In: Lang, F. (eds)Encyclopedia of Molecular Mechanisms of Disease.Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-540-29676-8_137[b] Prevalence data fromNie S, Chen G, Cao X, Zhang Y. Cerebrotendinous xanthomatosis: a comprehensive review of pathogenesis, clinical manifestations, diagnosis, and management.Orphanet J Rare Dis2014;9:179. Xuất bản ngày 26 tháng 11 năm 2014. doi:10.1186/s13023-014-0179-4[c] Prevalence data fromPericleous M, Kelly C, Wang T, Livingstone C, Ala A. Wolman's disease and cholesteryl ester storage disorder: the phenotypic spectrum of lysosomal acid lipase deficiency.Lancet Gastroenterol Hepatol2017;2(9):670-679. doi:10.1016/S2468-1253(17)30052-3[d] Dữ liệu từGeller AS, Polisecki EY, Diffenderfer MR, et al. Genetic and secondary causes of severe HDL deficiency and cardiovascular disease.J Lipid Res2018;59(12):2421-2435. doi:10.1194/jlr.M088203[e] Prevalence data fromJaved F, Hegele RA, Garg A, et al. Familial chylomicronemia syndrome: An expert clinical review from the National Lipid Association.J Clin Lipidolxuất bản ngày 21 tháng 3 năm 2025. doi: 10.1016/j.jacl.2025.03.013[f] Prevalence data fromTaghizadeh E, Farahani N, Mardani R, Taheri F, Taghizadeh H, Gheibihayat SM. Genetics of Familial Combined Hyperlipidemia (FCHL) Disorder: An Update.Biochem Genet2022;60(2):453-481. doi:10.1007/s10528-021-10130-2[g] Prevalence data fromTybjaerg-Hansen A, Humphries SEAtherosclerosis. Familial defective apolipoprotein B-100: a single mutation that causes hypercholesterolemia and premature coronary artery disease.  1992;96(2-3):91-107. doi:10.1016/0021-9150(92)90056-m[h] Data fromShah AS, Wilson DP. Genetic Disorders Causing Hypertriglyceridemia in Children and Adolescents. [Cập nhật ngày 22 tháng 2 năm 2023]. In: Feingold KR, Anawalt B, Blackman MR, et al., editors. Endotext [Internet]. Nam Dartmouth (MA): MDText.com, Inc.; 2000-. Có ở: https://www.ncbi.nlm.nih.gov/books/NBK395571/[i] Data fromJackson CL, Ahmad Z, Das SR, Khera A. The evaluation and management of patients with LDL-C ≥ 190 ​mg/dL in a large health care system.Am J Prev Cardiol2020;1:100002. Xuất bản ngày 1 tháng 5 năm 2020. doi:10.1016/j.ajpc.2020.100002[j] Data fromMehta R, Elias-Lopez D, Martagon AJ, et al. LCAT deficiency: a systematic review with the clinical and genetic description of Mexican kindred.Lipids Health Dis2021;20(1):70. Xuất bản ngày 13 tháng 7 năm 2021. doi:10.1186/s12944-021-01498-6ABCA1=protein vận chuyển cassette gắn kếtadenosintriphosphate (ATP) A1; ABCG5 và 8=các protein thành viên G phân họ cassette gắn kết ATP 5 và 8; apo=apoprotein; CAD=bệnh động mạch vành; HDL=lipoprotein tỷ trọng cao; LCAT=lecithin-cholesterol acyltransferase; LDL=lipoprotein tỷ trọng thấp; LPL=lipoprotein lipase; MI = nhồi máu cơ tim; PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; TC=cholesterol toàn phần; TG=triglyceride; VLDL=lipoprotein tỷ trọng rất thấp.Nguyên nhân thứ phátCác nguyên nhân thứ phát góp phần vào nhiều trường hợp rối loạn lipid máu ở người lớn.Nguyên nhân thứ phátquan trọng nhấtgây rối loạn lipid máu ở các quốc gia có nhiều nguồn lực là:Một lối sống tĩnh tại với chế độ ăn quá nhiều tổng lượng calo, chất béo bão hòa, cholesterol và chất béo chuyển hóaChất béo chuyển hóa là các axit béo không no nhiều liên kết đôi hoặc không bão hòa một liên kết đôi mà các nguyên tử hydro đã được thêm vào; chúng được sử dụng trong một số thực phẩm chế biến và gây xơ vữa động mạch như chất béo no.Các nguyên nhân thứ phát phổ biến khác gây rối loạn lipid máu bao gồm:Đái tháo đườngBệnh thận mạn tínhXơ gan mật nguyên phátvà các bệnh gan ứ mật khácSuy giápLạm dụng rượuM Thuốc, trị liệu đang dùng (Medications)Các loại thuốc như thiazid, thuốc chẹn beta, retinoid, thuốc kháng vi rút hoạt tính cao, cyclosporin, tacrolimus, progestin và glucocorticoid có thể gây rối loạn lipid máu thứ phát.Estrogenđường uống gây ra tác dụng hỗn hợp (giảm LDL-C và tăng HDL-C, nhưng cũng làm tăng triglyceride).Nguyên nhân thứ phát của nồng độ HDL-C thấp bao gồm hút thuốc lá, steroid đồng hóa,nhiễm HIVvàhội chứng thận hư. Dữ liệu về tác động của thuốc lá không khói và cần sa lên quá trình chuyển hóa lipid còn ít (1,2).Bệnh tiểu đườnglà nguyên nhân thứ phát đặc biệt quan trọng vì bệnh nhân có xu hướng có sự kết hợp gây xơ vữa động mạch giữa lượng triglyceride cao; tỷ lệ LDL đặc và nhỏ cao; và HDL thấp (rối loạn lipid máu do tiểu đường, tăng triglyceride máu hyperapo B). Bệnh nhân đái tháo đường loại 2 đặc biệt có nguy cơ. Kết hợp này có thể là hậu quả của tình trạng béo phì, kiểm soát bệnh tiểu đường kém hoặc cả hai, có thể làm tăng axit béo tự do lưu thông (FFA), dẫn đến tăng sản sinh lipoprotein tỷ trọng rất thấp (VLDL) ở gan. VLDL giàu triglyceride sau đó chuyển triglyceride và cholesterol thành LDL và HDL, thúc đẩy sự hình thành LDL đặc và nhỏ, giàu triglyceride và thanh thải HDL giàu triglyceride. Rối loạn lipid máu do tiểu đường thường trầm trọng hơn do tăng lượng calo nạp vào và ít hoạt động thể chất, đặc trưng cho lối sống của một số bệnh nhân tiểu đường tuýp 2. Phụ nữ đái tháo đường có nguy cơ đặc biệt với bệnh tim là kết quả của dạng rối loạn lipid máu.Tài liệu tham khảo về căn nguyên1.Ravi D, Ghasemiesfe M, Korenstein D, Cascino T, Keyhani S. Associations Between Marijuana Use and Cardiovascular Risk Factors and Outcomes: A Systematic Review.Ann Intern Med2018;168(3):187-194. doi:10.7326/M17-15482.Tucker LA. Use of smokeless tobacco, cigarette smoking, and hypercholesterolemia.Am J Public Health1989;79(8):1048-1050. doi:10.2105/ajph.79.8.1048
+
+--- 4. Triệu chứng và Dấu hiệu của Rối loạn lipid máu ---
+
+Bản thân chứng rối loạn lipid máu thường không gây ra triệu chứng, mặc dù nồng độ triglyceride rất cao có thể gây ra chứng dị cảm, khó thở và lú lẫn. Rối loạn lipid có thể dẫn đến bệnh lý ở cơ quan đích có triệu chứng, bao gồm:Bệnh mạch máu (ví dụ:bệnh động mạch vành[CAD],đột quỵ,bệnh động mạch ngoại biên)Viêm tụy cấpcó thể do nồng độ triglyceride cao (>500 mg/dL [>5,65 mmol/L])Gan lách to có thể do nồng độ triglyceride rất cao (>500 mg/dL [>5,65 mmol/L])Các phát hiện ở những bệnh nhân bị rối loạn lipid máu nặng (LDL > 190 mg/dL [>4,9 mmol/L]) có thể bao gồm các lắng đọng lipid tại chỗ (u vàng) hoặc các dấu hiệu khác do nồng độ huyết thanh cao hoặc tích tụ lipid.Nồng độ LDL-C cao có thể gây ra u vàng gân cơ ở gân Achilles, gân khuỷu tay và gân đầu gối và trên các khớp bàn-ngón tay. Các dấu hiệu lâm sàng khác xảy ra trên bệnh nhân có LDL-C cao (ví dụ: tăng cholesterol máu có tính chất gia đình hoặc rối loạn betalipoprotein máu) bao gồm u vàng thể phẳng hoặc u vàng thể củ. Xanthomas phẳng là các mảng vữa vàng nhạt hoặc phẳng. Các xanthomas củ thường không đau, các nốt sụn thường nằm trên bề mặt khớp.Bệnh nhân có nồng độ LDL-C cao có thể có cung giác mạc (lắng đọng lipid ở giác mạc xung quanh mống mắt) và ban vàng mí mắt (mảng màu vàng, giàu lipid ở phần giữa mí mắt). Xanthelasma cũng có thể xảy ra ở bệnh nhânxơ gan mật nguyên phátvà nồng độ lipid bình thường.Nồng độ triglyceride tăng cao nghiêm trọng có thể gây ra u vàng thể phát ban ở thân, lưng, khuỷu tay, mông, đầu gối, bàn tay và bàn chân. Tăng triglycerid máu nặng (>2000 mg/dL [>22,6 mmol/L]) cũng có thể khiến các động mạch và tĩnh mạch võng mạc xuất hiện màu trắng kem (tăng lipid huyết võng mạc).Tế bào thần kinh thị giác bao gồm vành đai-ron thần kinh, mô tả giữa...Hình ảnhHình ảnh do bác sĩ Michael H. Davidson cung cấp.Biểu hiện của u vàngU vàng phát ban (da)U vàng phát ban là biểu hiện da khi tăng nồng độ triglycerid trong máu.Ảnh do bác sĩ Thomas Habif cung cấpU vàng phát ban daBệnh nhân có triglyceride tăng cao nghiêm trọng có thể bị u vàng thể phát ban ở thân, lưng, khuỷu tay, mông, đầu gối, bàn tay và bàn chân.... đọc thêm© Springer Science+Business MediaU vàng dạng củCác xanthomas củ thường không đau, các nốt sụn thường nằm trên bề mặt khớp.© Springer Science+Business MediaU vàng ở gân gótU vàng gân gót được chẩn đoán khi có tăng cholesterol máu gia đình.Hình ảnh do bác sĩ Michael H. Davidson cung cấp.U vàng ở gânU vàng ở gân (mũi tên) được chẩn đoán khi có tăng cholesterol máu gia đình.Hình ảnh do bác sĩ Michael H. Davidson cung cấp.U vàng phát ban (da)U vàng phát ban là biểu hiện da khi tăng nồng độ triglycerid trong máu.Ảnh do bác sĩ Thomas Habif cung cấpU vàng phát ban daBệnh nhân có triglyceride tăng cao nghiêm trọng có thể bị u vàng thể phát ban ở thân, lưng, khuỷu tay, mông, đầu gối, bàn tay và bàn chân.... đọc thêm© Springer Science+Business MediaU vàng dạng củCác xanthomas củ thường không đau, các nốt sụn thường nằm trên bề mặt khớp.© Springer Science+Business MediaU vàng ở gân gótU vàng gân gót được chẩn đoán khi có tăng cholesterol máu gia đình.Hình ảnh do bác sĩ Michael H. Davidson cung cấp.U vàng ở gânU vàng ở gân (mũi tên) được chẩn đoán khi có tăng cholesterol máu gia đình.Hình ảnh do bác sĩ Michael H. Davidson cung cấp.U hắc tố ác tính của mi mắtHình ảnhHình ảnh do bác sĩ Michael H. Davidson cung cấp.U hắc tố ác tính của mi mắtHình ảnh© Springer Science+Business Media
+
+--- 5. Chẩn đoán Rối loạn lipid máu ---
+
+Hồ sơ lipid huyết thanh (đo cholesterol toàn phần, triglyceride và HDL-C và tính toán LDL-C và VLDL-C)Rối loạn lipid máu được chẩn đoán bằng cách định lượng lipid huyết thanh. Các chỉ số đo thường quy (hồ sơ lipid) bao gồm cholesterol toàn phần (TC), triglyceride, HDL-C và LDL-C; những kết quả này được sử dụng để tính LDL-C và VLDL-C.Rối loạn lipid máu thường được chẩn đoán bằng các xét nghiệm sàng lọc thường quy. Cũng có thể nghi ngờ tình trạng này ở những bệnh nhân có biến chứng rối loạn lipid máu (ví dụ: bệnh xơ vữa động mạch). Các dấu hiệu thực thể ít phổ biến hơn và gợi ý rối loạn lipid máu nguyên phát.Nghi ngờ rối loạn lipid nguyên phát khi bệnh nhân có:Các dấu hiệu thực thể của rối loạn lipid máu, chẳng hạn như u vàng ở gân, là bệnh lý của tăng cholesterol máu có tính chất gia đìnhKhởi phát sớm bệnh xơ vữa động mạch (ở độ tuổi<55 đối với nam giới,<60 đối với phụ nữ)Tiền sử gia đình mắc bệnh xơ vữa động mạch sớm hoặc tăng lipid máu nặngSerum LDL-C>190 mg/dL (>4,9 mmol/L)Định lượng hàm lượng lipidCholesterol toàn phần (TC), triglyceride (TG) và HDL-C được đo trực tiếp. Giá trị TC và triglyceride phản ánh cholesterol và triglyceride trong tất cả các lipoprotein trong hệ tuần hoàn, bao gồm chylomicron, VLDL, lipoprotein tỷ trọng trung gian (IDL), LDL và HDL. Giá trị TC có thể thay đổi 10% và triglyceride có thể thay đổi tới 25% theo từng ngày ngay cả khi không có rối loạn.Thực hành lâm sàng trước đây là đo lipid khi đang nhịn ăn; tuy nhiên, những thay đổi trong hướng dẫn hỗ trợ việc sàng lọc hầu hết bệnh nhân khi không nhịn ăn để hỗ trợ bệnh nhân tuân thủ việc xét nghiệm. Hầu hết các chuyên gia khuyến nghị chỉ nên kiểm tra lipid lúc đói trong những trường hợp cụ thể, bao gồm khi triglyceride > 400 mg/dL (> 4,5 mmol/L), có thể liên quan đến nguyên nhân thứ phát gây tăng triglyceride máu (1,2).Ngọc trai & cạm bẫyHầu hết các chuyên gia chỉ khuyến nghị xét nghiệm lipid lúc đói trong những trường hợp cụ thể, bao gồm khi non-HDL-C > 220 mg/dL (> 5,7 mmol/L) hoặc triglyceride > 400 mg/dL (> 4,5 mmol/L).Nên hoãn xét nghiệm nếu bệnh nhân mắc bệnh cấp tính vì nồng độ triglyceride và lipoprotein(a) tăng và nồng độ cholesterol giảm khi có các tình trạng viêm nhiễm. Ngoài ra, hồ sơ lipid có thể thay đổi trong khoảng 30 ngày sau nhồi máu cơ tim cấp tính (MI); tuy nhiên, kết quả thu được trong vòng 24 tiếng sau khi bị MI thường đủ tin cậy để dẫn hướng điều trị hạ lipid máu ban đầu.Giá trị LDL-C thường được tính bằng lượng cholesterol không có trong HDL và VLDL. VLDL được ước tính bằng triglyceride÷5 vì nồng độ cholesterol trong các hạt VLDL thường bằng một phần năm tổng lượng lipid trong hạt. Do đó, công thức Friedewald ước lượng LDL-C như sau:Giá trị cholesterol LDL được tính kết hợp các giá trị đo được của tất cả cholesterol không phải HDL và nonchylomicron, bao gồm cả giá trị trong IDL và lipoprotein (a) (Lp(a)).Đối với những bệnh nhân có nồng độ triglyceride cao, sai số trong việc ước tính VLDL-C sẽ tăng lên khi sử dụng hệ số hằng số 5. Phương trình Martin-Hopkins có thể được sử dụng để có được ước tính đáng tin cậy hơn về LDL-C. Hệ số hằng số 5 được thay thế bằng một hệ số mới dựa trên giá trị không HDL-C và triglyceride của bệnh nhân (3). Yếu tố mới là yếu tố có thể điều chỉnh được và được lấy từ bảng. Cả phương trình Friedewald và Martin-Hopkins đều được phát triển và xác nhận đối với bệnh nhân nhịn ăn có nồng độ triglyceride huyết thanh < 400 mg/dL (< 4,5 mmol/L).Phương trình Martin-Hopkins như sau:LDL-C cũng có thể được đo trực tiếp bằng siêu ly tâm huyết tương, tách chylomicron và các phần VLDL khỏi HDL-C và LDL-C, và bằng phương pháp xét nghiệm miễn dịch. Đo trực tiếp có thể hữu ích ở một số bệnh nhân có lượng triglyceride cao, nhưng những phép đo trực tiếp này thường không cần thiết.Công cụ tính toán lâm sàngPhương trình Martin dành cho Lipoprotein tỷ trọng thấp (LDL-C)Công cụ tính toán lâm sàngLipoprotein mật độ rất thấp (VLDL)Các xét nghiệm khácỞ một số bệnh nhân, cần phải làm thêm xét nghiệm lipid máu.Cần phải đo nồng độ Lp(a) và nồng độ protein C phản ứng ở những bệnh nhân mắc bệnh tim mạch xơ vữa động mạch sớm, bệnh tim mạch (ngay cả khi họ có nồng độ lipid nguy cơ thấp hơn; xem bảngNồng độ cholesterol và nguy cơ tim mạch) hoặc nồng độ LDL-C cao không đáp ứng với điều trị bằng thuốc. Một số hướng dẫn khuyến nghị rằng nồng độ Lp(a) phải được kiểm tra ít nhất một lần ở tất cả người lớn và trẻ em đã bị đột quỵ do thiếu máu cục bộ hoặc có tiền sử gia đình mắc bệnh mạch vành sớm (4). Nồng độ Lp(a) cũng có thể được đo trực tiếp ở những bệnh nhân có nồng độ LDL-C ở mức giới hạn cao để xác định xem có cần dùng thuốc điều trị hay không.Đo số lượng hạt LDL hoặc apoprotein B-100 (apo B) có ích ở những bệnh nhân có lượng triglyceride cao vàhội chứng chuyển hóa. Apo B cung cấp thông tin tương tự cho số lượng hạt LDL vì có một phân tử apo B cho mỗi hạt LDL. Apo B đo lường bao gồm tất cả các hạt xơ vữa, bao gồm cả tàn dư và Lp (a).Giá trị Apo B phản ánh tất cả các Cholesteol không HDL (trong VLDL, IDL và LDL) và có tính dự đoán nguy cơ bị CAD nhiều hơn là LDL-C. Cholesterol không HDL (TC−HDL-C) cũng có khả năng dự báo nguy cơ bị bệnh mạch vành cao hơn LDL-C, đặc biệt là trên bệnh nhân tăng triglycerid máu.Công cụ tính toán lâm sàngFriedewald Equation cho Lipoprotein tỉ trọng thấp (đơn vị SI LDL-C)Công cụ tính toán lâm sàngPhương trình Friedewald cho lipoprotein tỉ trọng thấp (LDL-C)Nguyên nhân thứ phátCác xét nghiệm tìm nguyên nhân thứ phát của rối loạn lipid máu cần phải được thực hiện ở hầu hết các bệnh nhân rối loạn lipid máu mới được chẩn đoán và lặp lại khi một thành phần của cấu trúc lipid thay đổi không rõ nguyên nhân trở nên trầm trọng hơn. Các xét nghiệm này bao gồmCreatinineĐường huyết lúc đói và/hoặc huyết sắc tố glycosyl hóa (HbA1C)Men ganHormone kích thích tuyến giáp (TSH)Protein niệuTài liệu tham khảo chẩn đoán1.Nordestgaard BG, Langsted A, Mora S, et al. Fasting is not routinely required for determination of a lipid profile: clinical and laboratory implications including flagging at desirable concentration cut-points-a joint consensus statement from the European Atherosclerosis Society and European Federation of Clinical Chemistry and Laboratory Medicine.Eur Heart J2016;37(25):1944-1958. doi:10.1093/eurheartj/ehw1522.Grundy SM, Stone NJ, Bailey AL, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculationngày 18 tháng 6 năm 2019;139(25):e1182-e1186. doi: 10.1161/CIR.0000000000000698.] [sửa lỗi đã xuất bản có trongCirculationngày 15 tháng 8 năm 2023;148(7):e5. doi: 10.1161/CIR.0000000000001172.].Circulation2019;139(25):e1082-e1143. doi:10.1161/CIR.00000000000006253.Martin SS, Blaha MJ, Elshazly MB, et al. Comparison of a novel method vs the Friedewald equation for estimating low-density lipoprotein cholesterol levels from the standard lipid profile.JAMA310(19):2061-2068, 2013 doi:10.1001/jama.2013.2805324.Kronenberg F, Mora S, Stroes ESG, et al. Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement.Eur Heart J2022;43(39):3925-3946. doi:10.1093/eurheartj/ehac361
+
+--- 6. Sàng lọc rối loạn mỡ máu ---
+
+Việc sàng lọc được thực hiện bằng cách sử dụng hồ sơ lipid lúc đói (TC, triglyceride, HDL-C và LDL-C được tính toán). Các hướng dẫn của hiệp hội y tế khác nhau về thời điểm bắt đầu sàng lọc. Dựa trên các yếu tố nguy cơ, việc sàng lọc có thể bắt đầu ngay từ 2 tuổi ở trẻ em có tiền sử gia đình mắc bệnh tim hoặc tăng cholesterol máu có tính chất gia đình.Việc đo lipid cần phải được thực hiện kèm theo đánh giá các yếu tố nguy cơ tim mạch khác, bao gồm:Sử dụng thuốc láĐái tháo đườngTiền sử gia đình bịCADở người có quan hệ huyết thống bậc 1 là nam trước 55 tuổi hoặc người có quan hệ huyết thống bậc 1 là nữ trước 65 tuổiTăng huyết ápSàng lọc ở trẻ emHầu hết các bác sĩ đều khuyến nghị sàng lọc theo Hướng dẫn của Viện Tim, Phổi và Máu Quốc gia năm 2012 (1) như sau:Trẻ em có các yếu tố nguy cơ (ví dụ:bệnh tiểu đường,tăng huyết áp, tiền sử gia đình bị tăng lipid máu nặng hoặc CAD sớm): Thông tin lipid máu khi đói một lần ở tuổi từ 2 đến 8Trẻ em không có các yếu tố nguy cơ: Hồ sơ lipid khi đói hoặc không đói một lần trước tuổi dậy thì (thường là từ 9 tuổi đến 11 tuổi) và một lần nữa ở độ tuổi từ 17 tuổi đến 21 tuổi (2)Sàng lọc ở người lớnNgười lớn cần phải được sàng lọc ở tuổi 20 (3, 4) và 5 năm một lần sau đó.Độ tuổi ngừng sàng lọc chưa được xác định, nhưng bằng chứng ủng hộ việc sàng lọc bệnh nhân cho đến khi họ 80 tuổi, đặc biệt là nếu họ mắc bệnh tim mạch xơ vữa động mạch (5).Bệnh nhân có tiền sử gia đình mắc bệnh tim—nhồi máu cơ tim, đột quỵ hoặc bệnh động mạch vành trước 55 tuổi (ở nam) hoặc 65 tuổi (ở nữ) mà không có các yếu tố nguy cơ đã biết, chẳng hạn như LDL cao, hút thuốc, tiểu đường hoặc béo phì, hoặc tiền sử gia đình đã biết về Lp(a) cao—cũng cần phải được sàng lọc bằng cách đo nồng độ Lp(a).Tài liệu tham khảo về sàng lọc bệnh1.Expert Panel on Integrated Guidelinesfor Cardiovascular Health and Risk Reduction in Children and Adolescents; National Heart, Lung, and Blood Institute. Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents. 2011.2.Daniels SR, Greer FR; Committee on Nutrition. Lipid screening and cardiovascular health in childhood.Pediatrics2008;122(1):198-208. doi:10.1542/peds.2008-13493.Goff DC Jr, Lloyd-Jones DM, Bennett G, et al: 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk.J Am Coll Cardiol63:2935–2959, 2014 doi: 10.1016/j.jacc.2013.11.0054.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019. doi: 10.1161/CIR.00000000000006255.Kleipool EE, Dorresteijn JA, Smulders YM, et al: Treatment of hypercholesterolaemia in older adults calls for a patient-centred approach.Heart106(4):261-266, 2020 doi:10.1136/heartjnl-2019-315600
+
+--- 7. Điều trị Rối loạn lipid máu ---
+
+Thay đổi lối sống (ví dụ, tập thể dục, chế độ ăn)Đối với LDL-C cao, statin, chất cô lập axit mật, ezetimibe, axit bempedoic và thuốc ức chế PCSK9 (proprotein convertase subtilisin/kexin tuýp 9)Đối với triglyceride cao, fibrate, axit béo omega-3 và đôi khi là các biện pháp khácNguyên tắc chungMục tiêu chính của việc điều trị rối loạn lipid máu là phòng ngừa bệnh tim mạch do xơ vữa động mạch (ASCVD), bao gồmhội chứng mạch vành cấp,đột quỵ,cơn thiếu máu não thoáng quahoặcbệnh động mạch ngoại biênđược cho là doxơ vữa động mạch. Điều trị được chỉ định cho tất cả các bệnh nhân có ASCVD (phòng ngừa thứ phát) và đối với một số bệnh nhân không có (dự phòng ban đầu).Viện Hàn lâm Nhi khoa Hoa Kỳ (AAP) khuyến nghị điều trị cho một sốtrẻ em có nồng độ LDL-C cao(1). Trẻ em bị tăng cholesterol máu dị hợp tử  có tính chất gia đình cần phải được điều trị bắt đầu từ 8 tuổi đến 10 tuổi. Trẻ em bị tăng cholesterol máu đồng hợp tử có tính chất gia đình cần chế độ ăn uống, thuốc men và thường xuyên lọc LDL để ngăn ngừa tử vong sớm; điều trị được bắt đầu khi có chẩn đoán.Tùy chọn điều trị phụ thuộc vào sự bất thường lipid cụ thể, mặc dù các bất thường lipid khác nhau thường cùng tồn tại. Ở một số bệnh nhân, một bất thường đơn lẻ có thể cần một số liệu pháp; ở những người khác, một điều trị duy nhất có thể là phù hợp với nhiều bất thường. Điều trị phải luôn bao gồm điều trịtăng huyết ápvàtiểu đườngvàcai thuốc lá. Điều trị cũng nên bao gồmaspirinliều thấp hàng ngày trên bệnh nhân từ 40 tuổi đến 79 tuổi có nguy cơ chảy máu thấp và nguy cơ bị nhồi máu cơ tim hoặc tử vong do CAD≥20% trong 10 năm. Nói chung, các lựa chọn điều trị cho nam giới và phụ nữ là như nhau.Công cụ tính toán lâm sàngĐánh giá nguy cơ tim mạch (10 năm, phương trình nhóm thuần tập được sửa đổi năm 2018)Điều trị tăng LDL-CĐối với tất cả các cá nhân, việc ngăn ngừa ASCVD đòi hỏi phải chú trọng đến lối sống lành mạnh, đặc biệt là chế độ ăn uống và tập thể dục. Các phương án khác để làm giảm LDL-C ở mọi nhóm tuổi bao gồm thuốc, thực phẩm bổ sung và can thiệp bằng thủ thuật. Nhiều trong số những lựa chọn này cũng có hiệu quả để điều trị các rối loạn lipid khác.Thay đổi chế độ ăn uốnggiúp duy trì trọng lượng cơ thể lý tưởng và mang lại những lợi ích khác. Những thay đổi này bao gồm:Giảm lượng chất béo bão hòaTăng lượng chất xơ hòa tan trong chế độ ăn uống (ví dụ: yến mạch, cám yến mạch, hạt mã đề)Phản ứng với những thay đổi trong chế độ ăn uống có thể khác nhau và cần đánh giá lại hồ sơ lipid sau khi can thiệp dinh dưỡng để xác định hiệu quả của nó. Giới thiệu đến một chuyên gia dinh dưỡng thường hữu ích.Tập thể dụclàm giảm LDL-C và tăng HDL-C ở một số người (2) và cũng giúp duy trì cân nặng lý tưởng. Hiệp hội Tim mạch Hoa Kỳ (AHA) khuyến nghị 150 phút tập thể dục cường độ vừa phải hoặc 75 phút tập thể dục cường độ cao mỗi tuần, cũng như 2 buổi tập luyện sức mạnh cường độ vừa phải mỗi tuần (3).Nên thay đổi chế độ ăn uống và tập thể dục bất cứ khi nào có thể, nhưng hướng dẫn của AHA/Hội Tim mạch Hoa Kỳ (ACC) cũng khuyến nghị sử dụng việc điều trị bằng thuốc cho một số nhóm bệnh nhân nhất định sau khi thảo luận về các nguy cơ và lợi ích của liệu pháp statin (4).Đối vớiđiều trị bằng thuốc ở người lớn,Hướng dẫn của AHA/ACC khuyến nghị điều trị bằng statin cho 4 nhóm bệnh nhân, bao gồm những người mắc bất kỳ bệnh nào sau đây:ASCVD lâm sàngLDL-C ≥ 190 mg/dL (≥ 4,9 mmol/L)Từ 40 tuổi đến 75 tuổi, mắc bệnh tiểu đường và LDL-C từ 70 mg/dL đến 189 mg/dL (1,8 mmol/L đến 4,9 mmol/L)Từ 40 tuổi đến 75 tuổi, với LDL-C 70 mg/dL đến 189 mg/dL (1,8 mmol/L đến 4,9 mmol/L) và ước tính nguy cơ mắc ASCVD trong 10 năm ≥ 7,5%Công cụ tiêu chuẩn để định lượngnguy cơ tim mạchlà phương trình đánh giá nguy cơ nhóm gộp, đã được nhóm làm việc chung ACC/AHA gồm 2013 người xác nhận. Công cụ tính nguy cơ tim mạch này dựa trên giới tính, độ tuổi, chủng tộc, cholesterol toàn phần và HDL-C, huyết áp tâm thu và tâm trương, bệnh tiểu đường, tình trạng hút thuốc và việc sử dụng thuốc chống tăng huyết áp và statin (5).Gần đây hơn, AHA đã giới thiệucông cụ tính toán nguy cơ PHÒNG NGỪAđể sử dụng trong phòng ngừa ban đầu ở những bệnh nhân không bị bệnh tim mạch vành, đột quỵ hoặc suy tim (6). Công cụ này mở rộng phạm vi độ tuổi có thể được phân tầng và kết hợp hemoglobin A1C, tỷ lệalbumin/creatinine trong nước tiểu và chỉ số thiếu thốn của xã hội (sử dụng mã bưu chính để ước tính sự thiếu thốn dựa trên bảy đặc điểm nhân khẩu học). Nguy cơ mắc bệnh suốt đời tăng cao (xác định bằng công cụ tính nguy cơ PREVENT) có liên quan vì nguy cơ 10 năm có thể thấp ở những bệnh nhân trẻ tuổi, những người cần phải tính đến nguy cơ dài hạn hơn.Khi cân nhắc việc liệu có nên dùng statin hay không, bác sĩ lâm sàng cũng có thể cân nhắc đến các yếu tố khác, bao gồm:LDL-C ≥ 160 mg/dL (4,1 mmol/L)Tiền sử gia đình bị ASCVD sớm (nghĩa là tuổi khởi phát < 55 tuổi ở người có quan hệ huyết thống bậc 1 là nam hoặc < 65 tuổi ở người có quan hệ huyết thống bậc 1 là nữ)Protein phản ứng C có độ nhạy cao ≥ 2 mg/L (≥ 19 nmol/L)Điểm số canxi động mạch vành ≥ 300 đơn vị Agatston (hoặc ≥ 75 phần trăm đối với nhân khẩu học của bệnh nhân)Chỉ số cổ chân - cánh tay < 0,9Tăng nguy cơ suốt đờiHướng dẫn của ACC/AHA mở rộng danh sách các yếu tố làm tăng nguy cơ này để bao gồm những yếu tố sau đây (7):Tiền sử gia đình mắc ASCVD sớm (tức là tuổi khởi phát ở nam giới < 55 tuổi hoặc ở nữ giới < 65 tuổi)Tổ tiên là người Nam ÁCác yếu tố nguy cơ cụ thể của nữ giới (tiền sử tiền sản giật hoặc mãn kinh sớm)LDL-C tăng liên tục (> 160 mg/dL [4,1 mmol/L])Triglyceride tăng cao liên tục (> 175 mg/dL [1,98 mmol/L])Bệnh thận mạn tínhHội chứng chuyển hóaBệnh có viêm (đặc biệt là viêm khớp dạng thấp, HIV, bệnh vẩy nến)Tăng Lp(a) (> 50 mg/dL hoặc 125 nmol/L)Tăng apolipoprotein B (Apo B) (> 130 mg/dL [1,30 g/L])Chỉ số cổ chân - cánh tay (ABI) < 0,9Statinslà phương pháp điều trị được lựa chọn để làm giảm LDL-C vì bằng chứng đã chứng minh rằng thuốc này làm giảm tỷ lệ mắc bệnh tim mạch và tỷ lệ tử vong (8). Các loại thuốc làm giàm lipid khác không phải là lựa chọn đầu tiên trong điều trị LDL-C tăng cao vì các thuốc này chưa chứng minh được hiệu quả tương đương trong việc giảm ASCVD.Statin ức chế hydroxymethylglutaryl CoA reductase, một enzyme chủ yếu trong tổng hợp cholesterol, dẫn đến sự điều hòa các receptor LDL và làm tăng độ thanh thải LDL. Các thuốc đó làm giảm LDL-C tới 60% và làm tăng nhẹ HDL-C và giảm nhẹ triglyceride. Statin cũng làm giảm tình viêm lớp trong động mạch, viêm hệ thống, hoặc cả hai bằng cách kích thích sản xuất oxit nitric nội mạc và có thể có những tác dụng có lợi khác.Liệu pháp statin được phân loại là cường độ cao, trung bình hoặc thấp và được đưa ra dựa trên nhóm điều trị và độ tuổi (xem bảngStatin trong phòng ngừa ASCVD). Việc lựa chọn statin phụ thuộc vào bệnh đồng mắc của bệnh nhân, các loại thuốc khác, yếu tố nguy cơ gây ra các biến cố bất lợi, tình trạng không dung nạp statin, chi phí và sở thích của bệnh nhân.Tác dụng ngoại ý với statin thường không phổ biến nhưng bao gồm tăng men gan và viêm cơ vân hoặctiêu cơ vân. Tăng men gan thường không phổ biến, và độc gan nghiêm trọng rất hiếm. Các triệu chứng hoặc tác dụng bất lợi nghiêm trọng liên quan đến cơ xảy ra ở 10% số bệnh nhân dùng statin và có thể phụ thuộc vào liều. Các triệu chứng cơ có thể xảy ra mà không có tăng men cơ (ví dụ: creatine kinase). Tác dụng bất lợi thường gặp hơn ở bệnh nhân cao tuổi, bệnh nhân mắc nhiều bệnh lý và bệnh nhân dùng nhiều loại thuốc. Ở một số bệnh nhân, việc thay đổi từ loại statin này sang loại statin khác hoặc giảm liều (sau khi tạm thời ngừng thuốc) có thể làm giảm vấn đề đó. Độc tính với cơ có vẻ phổ biến nhất khi một số statin được sử dụng với các thuốc ức chế cytochrome P3A4 (ví dụ: kháng sinh macrolide, thuốc chống nấm azole, cyclosporin) và với fibrate, đặc biệt là gemfibrozil. Statin là chống chỉ định trong thời kỳ mang thai và cho con bú.Ở bệnh nhân ASCVD, giảm nguy cơ tăng lên khi giảm nồng độ LDL-C. Do đó, thuốc điều trị ban đầu là statin ở mức liều dung nạp tối đa với mục tiêu làm giảm LDL-C > 50% (điều trị cường độ cao). Đối với những bệnh nhân có nguy cơ rất cao bị ASCVD (ví dụ: những người mới bịnhồi máu cơ timhoặcđau thắt ngực không ổn địnhhoặc mắc các bệnh đi kèm có nguy cơ cao nhưtiểu đường), nồng độ LDL-C > 70 mg/dL (> 1,2 mmol/L) mặc dù điều trị bằng statin tối đa cần phải nhanh chóng bổ sung ezetimibe hoặc thuốc ức chế PCSK9 (ví dụ: evolocumab, alirocumab). Các liệu pháp này đã được chứng minh là có thể làm giảm các biến cố tim mạch bất lợi lớn khi kết hợp với liệu pháp statin trong các thử nghiệm lâm sàng quy mô lớn (9,10).Các thuốc không phải statincũng có tác dụng làm giảm LDL-C (xem bảngThuốc hạ lipid không phải statin). Con đường ra quyết định đồng thuận của chuyên gia ACC năm 2022 về vai trò của liệu pháp không statin đưa ra hướng dẫn cho các bác sĩ lâm sàng về vai trò của liệu pháp không statin trong cả phòng ngừa nguyên phát và thứ phát của ASCVD (11). Statin thường là thuốc bước đầu, nhưng trên bệnh nhân không dung nạp statin hoặc những người không thể đạt được nồng độ LDL-C mục tiêu mặc dù sử dụng statin, thuốc không phải statin sẽ được sử dụng.BảngStatin cho phòng ngừa ASCVDBảngStatin cho phòng ngừa ASCVDStatin cho phòng ngừa ASCVDPhân loạiHiệu quả*Khuyến cáo choVí dụ†Liều caoLàm giảm LDL-C ≥ 50%ASCVD lâm sàng, ≤ 75 tuổiLDL-C ≥ 190 mg/dL (4,9 mmol/L)Từ 40 tuổi đến 75 tuổi, nguy cơ bị ASCVD trong 10 năm ≥ 7,5%Bệnh tiểu đường và nguy cơ ASCVD trong 10 năm ≥ 7,5%Atorvastatin 40-80 mgRosuvastatin 20-40 mgLiều trung bìnhGiảm LDL-C 30 - < 50%ASCVD lâm sàng, > 75 tuổiTừ 40 tuổi đến 75 tuổi, nguy cơ bị ASCVD trong 10 năm từ 5% đến < 7,5%Từ 40 tuổi đến 75 tuổi, nguy cơ bị ASCVD trong 10 năm ≥ 7,5% (nếu không dung nạp được statin cường độ cao)Bệnh tiểu đường và nguy cơ ASCVD trong 10 năm < 7,5%Atorvastatin 10-20 mgFluvastatin XL 80 mgLovastatin 40 mgPitavastatin 2-4 mgPravastatin 40-80 mgRosuvastatin 5-10 mgSimvastatin 20-40 mgLiều thấpGiảm LDL-C < 30%Bệnh nhân không thể dung nạp với liều điều trị cao hoặc trung bìnhFluvastatin 20-40 mgLovastatin 20 mgPitavastatin 1 mgPravastatin 10-20 mg* Đáp ứng cá nhân có thể khác nhau.† Tất cả các liều đều được cho dùng theo đường uống và một lần mỗi ngày.ASCVD = bệnh tim mạch xơ vữa động mạch; LDL-C = cholesterol lipoprotein tỷ trọng thấp.Data fromGrundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019. doi: 10.1161/CIR.0000000000000625* Đáp ứng cá nhân có thể khác nhau.† Tất cả các liều đều được cho dùng theo đường uống và một lần mỗi ngày.ASCVD = bệnh tim mạch xơ vữa động mạch; LDL-C = cholesterol lipoprotein tỷ trọng thấp.Data fromGrundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019. doi: 10.1161/CIR.0000000000000625BảngThuốc giảm lipid không statin*BảngThuốc giảm lipid không statin*Thuốc giảm lipid không statin*ThuốcBình luậnThuốc ức chế lyaseadenosine triphosphate citrateGiảm LDL-CAxit bempedoicNguy cơ tăng acid uric máu, đứt gânĐặc biệt hữu ích ở những bệnh nhân có tác dụng phụ trên cơ liên quan đến statin vì enzyme cần thiết để kích hoạt thuốc này không có trong cơChất gắn acid mậtLàm giảm LDL-C (nguyên phát), làm tăng nhẹ HDL-C (thứ phát), có thể làm tăng TGCholestyramine—Colesevelam—Colestipol—Chất ức chế hấp thu cholesterolGiảm LDL-C (nguyên phát), làm tăng tối thiểu HDL-CEzetimibe—Thuốc điều trị tăng cholesterol máu có tính gia đình đồng hợp tửLàm giảm LDL-CEvinacumabĐược truyền tĩnh mạch trong 60 phútCác phản ứng có hại trong các thử nghiệm lâm sàng bao gồm viêm mũi họng, bệnh giống cúm và phản ứng tiêm truyềnLomitapideNguy cơ nhiễm độc ganTăng liều dần dần (khoảng 2 tuần một lần)Đo nồng độ transaminase trước khi tăng liềuFibrateLàm giảm TG và VLDL, làm tăng HDL-C, có thể làm tăng LDL-C (ở bệnh nhân có TG cao)BezafibrateGiảm liều cần thiết trong suy thậnKhông có sẵn ở Hoa KỳCiprofibrateKhông có sẵn ở Hoa KỳFenofibrateGiảm liều cần thiết trong suy thậnCó thể fibrate an toàn nhất để sử dụng với statinGemfibrozilGiảm liều cần thiết trong suy thậnAxit nicotinic (niacin)Làm tăng HDL-C; làm giảm TG (liều thấp), LDL-C (liều cao hơn) và Lp(a) (thứ phát)Các tác dụng ngoại ý thường xuyên: Đỏ bừng, rối loạn dung nạp glucose, tăng axit uricAspirinvà dùng thuốc lúc no làm giảm thiểu đỏ bừng mặtCác kháng thể đơn dòng PCSK9Làm giảm LDL-C và TG, có thể làm giảm Lp(a)AlirocumabĐối với những bệnh nhân bị tăng cholesterol máu có tính gia đình và những người có các vấn đề nguy cơ cao khácEvolocumabĐối với những bệnh nhân bị tăng cholesterol máu có tính gia đình và những người có lo ngại có nguy cơ cao khácAxit béo omega-3Eicosapentaenoic acid ethyl ester (EPA) + Axit docosahexaenoic (DHA)Giảm TGLàm tăng LDLEicosapentaenoic acid ethyl ester (EPA)Chỉ giảm TGSiRNA nhắm mục tiêu PCSK9Làm giảm LDL-C và TG, có thể làm giảm LP(a)InclisiranĐối với bệnh nhân tăng cholesterol máu tính chất gia đình và các bệnh nhân có nguy cơ cao khác* Nhiều loại thuốc này cũng có thể được phối hợp với statin.HDL=lipoprotein tỷ trọng cao; HDL-C=HDL cholesterol; LDL=lipoprotein tỷ trọng thấp; LDL-C=LDL cholesterol; Lp(a)=lipoprotein (a); PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; SiRNA = axit ribonucleic can thiệp nhỏ; TG=triglyceride; VLDL = lipoprotein tỷ trọng rất thấp.* Nhiều loại thuốc này cũng có thể được phối hợp với statin.HDL=lipoprotein tỷ trọng cao; HDL-C=HDL cholesterol; LDL=lipoprotein tỷ trọng thấp; LDL-C=LDL cholesterol; Lp(a)=lipoprotein (a); PCSK9 = proprotein convertase subtilisin-like/kexin loại 9; SiRNA = axit ribonucleic can thiệp nhỏ; TG=triglyceride; VLDL = lipoprotein tỷ trọng rất thấp.Thuốc ức chế lyaseadenosinetriphosphate citrate,axit bempedoic làm suy yếu quá trình tổng hợp cholesterol ở gan và làm tăng các thụ thể LDL. Thuốc này làm giảm LDL-C từ 15 đến 17% (12,13).Bempedoic acidđặc biệt hữu ích ở những bệnh nhân có tác dụng bất lợi liên quan đến cơ do statin vì thuốc này không gây đau cơ hoặc yếu cơ. Nó có thể được sử dụng dưới dạng đơn trị liệu hoặc như một chất bổ sung cho liệu pháp hạ lipid khác. Các nguy cơ bao gồm tăng acid uric máu và đứt gân.Các chất cô lập axit mật(cholestyramine, colestipol, colesevelam) ngăn chặn sự tái hấp thu axit mật ở ruột, buộc các thụ thể LDL ở gan phải điều chỉnh tăng để tuyển chọn cholesterol trong hệ tuần hoàn cho quá trình tổng hợp mật. Thuốc đã được chứng minh là có thể làm giảm tỷ lệ tử vong do tim mạch (14). Chất cô lập axit mật thường được sử dụng cùng với statin hoặcaxit nicotinicđể tăng cường việc làm giảm LDL-C. Đây là loại thuốc được lựa chọn cho những phụ nữ đang mang thai hoặc có ý định mang thai. Statin bị chống chỉ định trong thời kỳ mang thai vì thuốc này có thể gây quái thai do làm gián đoạn quá trình tổng hợp cholesterol cần thiết cho sự phát triển của thai nhi. Thuốc gắn axit mật an toàn, nhưng việc sử dụng chúng bị giới hạn do những tác dụng phụ bao gồm: đầy bụng, buồn nôn, chuột rút và táo bón. Thuốc cũng có thể làm tăng triglyceride, do đó chống chỉ định sử dụng ở những bệnh nhân bị tăng triglyceride máu.Cholestyramine,colestipolvàcolesevelam(nhưng ở mức độ thấp hơn) ảnh hưởng đến sự hấp thu của các thuốc khác—đặc biệt là thiazid, thuốc chẹn beta, warfarin, digoxin và thyroxine—một tác dụng có thể giảm đi bằng cách dùng ít nhất 4 giờ trước hoặc 1 giờ sau khi dùng các thuốc khác. Chất gắn axit mật nên được dùng với ăn để tăng hiệu quả.Thuốc ức chế hấp thu cholesterolezetimibe ức chế quá trình hấp thu cholesterol và phytosterol ở ruột.Ezetimibethường làm giảm LDL-C từ 15% đến 20% và gây tăng nhẹ HDL-C và giảm nhẹ triglyceride (15).Ezetimibecó thể được sử dụng làm đơn trị liệu ở những bệnh nhân không dung nạp statin hoặc được thêm vào statin cho những bệnh nhân đang dùng liều statin tối đa có tình trạng tăng LDL-C dai dẳng. Tác dụng phụ ít gặp.Các kháng thể đơn dòng PCSK9(alirocumab, evolocumab) có sẵn dưới dạng tiêm dưới da một hoặc hai lần mỗi tháng. Các thuốc này giữ cho PCSK9 gắn vào các thụ thể LDL, dẫn đến cải thiện chức năng của các thụ thể này. Làm giảm LDL-C từ 40% đến 70%. Các thử nghiệm về kết quả tim mạch vớievolocumabvàalirocumabđã cho thấy giảm các biến cố tim mạch ở những bệnh nhân mắc bệnh tim mạch do xơ vữa động mạch trước đó (9).SiRNA nhắm mục tiêu PCSK9được tiêm dưới da 6 tháng một lần. Inclisiran ức chế quá trình sản sinh PCSK9 ở gan, do đó kéo dài hoạt động của các thụ thể LDL và làm giảm nồng độ LDL-C. Mặc dù LDL-C đã giảm xuống, các thử nghiệm về kết quả tim mạch vớiinclisiranvẫn đang được tiến hành.Inclisirancó thể được sử dụng như một liệu pháp bổ sung cho chế độ ăn kiêng và liệu pháp statin được dung nạp tối đa cho bệnh nhân mắc bệnh ASCVD hoặc tăng cholesterol máu dị hợp tử có tính gia đình (16).Các chất bổ sung chế độ ăn uốngcó tác dụng làm giảm nồng độ LDL-C bao gồm các chất bổ sung chất xơ và các sản phẩm khác có sterol thực vật (sitosterol, campesterol) hoặc stanol. Chất bổ sung chất xơ làm giảm mức cholesterol theo nhiều cách, bao gồm giảm hấp thu và tăng bài tiết. Chất bổ sung chất xơ từ yến mạch có thể làm giảm cholesterol toàn phần lên đến 18%. Sterol và stanol thực vật làm giảm sự hấp thụ cholesterol bằng cách thay thế cholesterol khỏi mixen ruột và có thể làm giảm LDL-C tới 10% mà không ảnh hưởng đến HDL-C hoặc triglyceride.Thuốc ức chế protein chuyển cholesterol ester (CETP)là một nhóm thuốc đã được tìm thấy có tác dụng làm giảm LDL-C. CETP là một glycoprotein trong huyết tương được sản sinh trong gan và mô mỡ, lưu thông trong máu chủ yếu gắn kết với HDL, chất này có tác dụng trung gian trong việc chuyển cholesterol ester từ HDL sang các hạt chứa Apo B (17).Thuốc điều trị tăng cholesterol máu đồng hợp tử có tính chất gia đìnhThuốc điều trị tăng cholesterol máu đồng hợp tử có tính gia đình bao gồm statin, thuốc ức chế PCSK9 và evinacumab.Evinacumablà một kháng thể đơn dòng tái tổ hợp của con người gắn kết và ức chế protein giống angiopoietin 3, một chất ức chế LPL và lipase nội mô. Thuốc có thể làm giảm LDL-C (47%), triglyceride và HDL-C.Evinacumabđược truyền tĩnh mạch mỗi tháng một lần. Thuốc thể gây ra bệnh gút, bệnh giống cúm và phản ứng truyền dịch (18).Lomitapide là thuốc ức chế protein vận chuyển triglyceride ở microsome, có tác dụng ngăn cản quá trình tiết lipoprotein giàu triglyceride ở gan và ruột. Liều khởi đầu thấp và tăng dần mỗi 2 tuần. Bệnh nhân phải tuân theo chế độ ăn với ít hơn 20% lượng calo từ chất béo.Lomitapidecó thể gây ra các tác dụng bất lợi ở đường tiêu hóa (ví dụ: tiêu chảy, tăng mỡ gan, tăng men gan).Phương pháp tiếp cận bằng thủ thuậtCác phương pháp tiếp cận bằng thủ thuật được dành riêng cho những bệnh nhân bị tăng lipid máu nặng (LDL-C>300 mg/dL [> 7,74 mmol/L]) và không có bệnh mạch máu. Chiết tách LDL, trong đó LDL được loại bỏ bằng trao đổi huyết tương ngoài cơ thể, có thể được thực hiện ở những bệnh nhân có LDL-C > 200 mg/dL (> 5,16 mmol/L) và bệnh mạch máu không đáp ứng với liệu pháp thông thường, chẳng hạn như xảy ra với tăng cholesterol máu có tính gia đình. Các phương án khác bao gồm phẫu thuật bắc cầu hồi tràng (để ngăn chặn sự tái hấp thu axit mật) và ghép gan (ghép các thụ thể LDL). Lọc LDL là thủ thuật được lựa chọn trong hầu hết các trường hợp khi liệu pháp dung nạp tối đa không làm giảm LDL-C một cách thỏa đáng. Chiết tách cũng là liệu pháp thường dùng cho những bệnh nhân bị tăng cholesterol máu dạng đồng hợp tử có tính gia đình có đáp ứng hạn chế hoặc không đáp ứng với điều trị bằng thuốc.Tăng LDL-C ở trẻ emCác yếu tố nguy cơ ở trẻ em bên cạnh tiền sử gia đình vàbệnh tiểu đườngbao gồm hút thuốc lá,tăng huyết áp, HDL-C thấp (<35 mg/dL [< 0,9 mmol/L]), béo phì và lười vận động.Hiệp hội Tim mạch Hoa Kỳ khuyến nghị việc điều trị bằng chế độ ăn uống cho trẻ em có LDL-C>110 mg/dL (> 2,8 mmol/L) (19).Điều trị bằng thuốc được khuyến nghị cho trẻ em>8 tuổi và có một trong những biểu hiện sau:Đáp ứng kém với liệu pháp ăn kiêng, LDL-C≥190 mg/dL (≥4,9 mmol/L) và không có tiền sử gia đình bị bệnh tim mạch sớmLDL-C≥160 mg/dL (≥4,13 mmol/L) và tiền sử gia đình bị bệnh tim mạch sớm hoặc≥2 yếu tố nguy cơ mắc bệnh tim mạch sớmCác loại thuốc được sử dụng ở trẻ em bao gồm nhiều loại statin. Trẻ em bị tăng cholesterol máu có tính gia đình có thể cần dùng thuốc thứ hai để đạt được mục tiêu là làm giảm LDL-C ít nhất 50%.Tăng triglycerideMặc dù chưa rõ liệu nồng độ triglyceride cao có góp phần gây ra bệnh tim mạch hay không, nhưng chất này có liên quan đến nhiều bất thường về chuyển hóa góp phần gây ra bệnh động mạch vành (ví dụ:bệnh tiểu đường,hội chứng chuyển hóa). Hướng dẫn hỗ trợ giảm triglyceride > 500 mg/dL để giảm nguy cơ viêm tụy (4). Không có hướng dẫn cụ thể nào đề cập đến việc điều trị tình trạng tăng triglyceride ở trẻ em.Cácchiến lược điều trị tổng thểlà thực hiện thay đổi lối sống trước tiên, bao gồm tập thể dục, giảm cân, tránh ăn uống thực phẩm chứa đường và rượu. Ăn từ 2 đến 4 phần ăn/tuần cá biển có hàm lượng axit béo omega-3 cao có thể có hiệu quả, nhưng lượng axit béo omega-3 thường thấp hơn mức cần thiết; bổ sung có thể hữu ích. Thử nghiệm REDUCE-IT cho thấy 4 gam icosapent ethyl làm giảm đáng kể các biến cố bất lợi nghiêm trọng về tim mạch khi được thêm vào liệu pháp statin ở những bệnh nhân có nguy cơ cao có TG > 150 mg/dL (1,7 mmol/L); tuy nhiên, không chắc chắn liệu lợi ích là do làm giảm TG hay do tăng axit eicosapentaenoic (EPA) (20). Thử nghiệm STRENGTH không xác nhận rằng một dạng omega-3 khác, có hàm lượng EPA thấp hơn, có thể làm giảm các biến cố bất lợi nghiêm trọng về tim mạch ở những bệnh nhân bị tăng triglyceride máu đồng thời với HDL thấp (21).Ở bệnh nhân đái tháo đường, nồng độ glucose cần được kiểm soát chặt chẽ. Nếu các biện pháp này không hiệu quả, nên cân nhắc dùng thuốc hạ lipid. Bệnh nhân có nồng độ triglyceride rất cao (> 1.000 mg/dL [> 11 mmol/L]) có thể cần bắt đầu dùng thuốc điều trị ngay khi chẩn đoán để giảm nhanh nguy cơviêm tụy cấp.Fibrateslàm giảm triglyceride khoảng 50%. Chúng kích thích lipoprotein lipase (LPL) nội mô, dẫn đến tăng oxy hóa axit béo trong gan và cơ và giảm sự tổng hợp VLDL ở gan. Thuốc cũng làm tăng HDL-C lên tới 20%. Fibrat có thể gây ra các tác dụng phụ trên đường tiêu hóa, bao gồm chứng khó tiêu, đau bụng, và tăng men gan. Thuốc này hiếm gặp gâysỏi mật. Fibrat có thể làm tăng độc tính tới cơ khi dùng với statin và làm tăng tác dụng của warfarin.Statinscó thể được sử dụng ở những bệnh nhân có triglyceride<500 mg/dL (<5,65 mmol/L) nếu LDL-C cũng tăng; statin có thể làm giảm cả LDL-C và triglyceride thông qua giảm VLDL. Nếu chỉ có triglyceride tăng cao, fibrate là thuốc được lựa chọn.Axit béo omega-3ở các mức liều cao (1 ga đến 6 g axit eicosapentaenoic [EPA] và axit docosahexaenoic [DHA] mỗi ngày) có thể có hiệu quả trong việc làm giảm triglyceride. Các axit béo omega-3 EPA và DHA là thành phần hoạt tính trong dầu cá biển hoặc viên nang omega-3. Tác dụng ngoại ý bao gồm eructation và tiêu chảy. Những tác dụng này có thể giảm đi bằng cách chia nhỏ liều lượng uống viên nangdầu cácùng với bữa ăn (ví dụ: hai lần mỗi ngày hoặc 3 lần mỗi ngày). Axit béo omega-3 có thể là một thuốc bổ sung hữu ích cho các liệu pháp khác. Các chế phẩm axit béo omega-3 theo toa được chỉ định cho nồng độ triglyceride > 500 mg/dL (>5,65 mmol/L) (21).Thuốc ức chế Apo CIII(thuốc ức chế ngược của apo CIII) olezarsen làm giảm nồng độ triglyceride ở những bệnh nhân mắc hội chứng chylomicron máu có tính gia đình do thiếu hụt lipoprotein lipase. Thuốc được cho dùng hàng tháng (22,23).HDL-C thấpMặc dù nồng độ HDL-C cao hơn dự đoán nguy cơ tim mạch thấp hơn, nhưng vẫn chưa rõ liệu các phương pháp điều trị làm tăng nồng độ HDL-C có làm giảm nguy cơ tử vong hay không. Các phương pháp điều trị làm giảm LDL-C và triglyceride thường làm tăng HDL-C và đôi khi cả 3 mục tiêu có thể đạt được cùng lúc.Không có hướng dẫn cụ thể nào đề cập đến việc điều trị HDL-C thấp ở trẻ em.Ngọc trai & cạm bẫyMặc dù nồng độ HDL-C cao hơn dự đoán nguy cơ tim mạch thấp hơn, nhưng vẫn chưa rõ liệu các phương pháp điều trị làm tăng nồng độ HDL-C có làm giảm nguy cơ biến cố tim mạch hoặc tử vong hay không.Điều trị bao gồmthay đổi lối sốngnhư tăng tập thể dục và giảm cân. Rượu làm tăng HDL-C nhưng không được khuyến nghị dùng làm liệu pháp điều trị vì nó có nhiều tác dụng bất lợi khác. Thuốc có thể có hiệu quả trong việc nâng cao nồng độ HDL-C khi chỉ thay đổi lối sống là không đủ, nhưng vẫn chưa chắc chắn liệu việc tăng nồng độ HDL-C có làm giảm tỷ lệ tử vong hay không.Axit nicotinic (niacin)có thể làm tăng HDL-C nhưng không được khuyến nghị thường xuyên do tác dụng bất lợi của thuốc này. Cơ chế hoạt động của thuốc này vẫn chưa được biết rõ, nhưng có vẻ như thuốc vừa làm tăng sản sinh HDL-C vừa ức chế sự thanh thải HDL-C; t nàyhuốc cũng có thể huy động cholesterol từ đại thực bào.Niacincũng làm giảm triglyceride và, với các liều từ 1500 đến 2000 mg mỗi ngày, làm giảm LDL-C. Tuy nhiên, cả thử nghiệm HPS2-THRIVE và thử nghiệm AIM-HIGH đều không cho thấy bất kỳ lợi ích nào khi thêmniacinvào liệu pháp statin trong việc giảm các biến cố tim ở những bệnh nhân có nguy cơ cao mắc bệnh tim mạch đã biết (24,25).Niacingây ra tình trạng đỏ bừng, ngứa và buồn nôn; dùng thuốc tiền mê bằngaspirinliều thấp có thể ngăn ngừa những tác dụng bất lợi này. Các chế phẩm phóng thích kéo dài thường ít gây cơn bừng mặt. Tuy nhiên, hầu hết các chế phẩm giải phóng chậm không kê đơn đều không được khuyến nghị.Niacincó thể gây tăng men gan và đôi khi gây suy gan, khánginsulin, tăng axit uric máu và bệnh gút. Nó cũng có thể làmtăng nồng độ homocysteine. Sự phối hợp giữaniacinliều cao với statin có thể làm tăng nguy cơ mắc bệnh cơ.Các thử nghiệm không cho thấy bất kỳ lợi ích nào từ fibrate khi phối hợp với statin (26,27).Tăng Lp (a)Phương pháp tiếp cận thông thường trên bệnh nhân tăng Lp(a) là làm giảm mạnh LDL-C. Lọc LDL huyết tương đã được sử dụng để giảm Lp (a) ở những bệnh nhân có mức Lp (a) cao và bệnh mạch máu tiến triển.Giới hạn trên của giá trị bình thường đối với Lp(a) là khoảng 30 mg/dL (75 nmol/L), nhưng giá trị ở người Mỹ gốc Phi có xu hướng cao hơn. Có vài dữ liệu để hướng dẫn điều trị tăng Lp (a) hoặc để xác định hiệu quả điều trị. Niacin đã được chứng minh là làm giảm Lp(a); thuốc có thể làm giảm Lp(a) tới > 20% ở các mức liều cao hơn (28). Tuy nhiên, lợi ích trên lâm sàng của tác dụng làm giảm này vẫn chưa được chứng minh trong các thử nghiệm lâm sàng (24,25). Có một số liệu pháp dựa trên RNA giúp giảm nồng độ Lp(a) trong quá trình phát triển lâm sàng và cho thấy triển vọng (29).Điều trị bệnh nhân có bệnh kèm theoĐiều trị rối loạn lipid máu do đái tháo đường luôn phải bao gồm thay đổi lối sống và statin để làm giảm LDL-C. Để giảm nguy cơ viêm tụy, có thể sử dụng fibrat để giảm triglyceride khi nồng độ > 500 mg/dL (>5,65 mmol/L). Metformin làm giảm triglyceride, đây có thể là lý do để lựa chọn thuốc này thay vì các loại thuốc hạ đường huyết dạng uống khác khi điều trị bệnh tiểu đường. Một số thiazolidinedione làm tăng cả HDL-C và LDL-C. Một số thiazolidinedione cũng làm giảm triglyceride. Không nên chọn những loại thuốc làm giảm đường huyết này thay cho thuốc hạ lipid để điều trị tình trạng bất thường về lipid ở bệnh nhân tiểu đường nhưng có thể là thuốc bổ sung hữu ích. Bệnh nhân có nồng độ triglyceride rất cao và bệnh tiểu đường không được kiểm soát tối ưu có thể có đáp ứng tốt hơn với insulin so với thuốc hạ đường huyết đường uống.Ngày càng có nhiều dữ liệu ủng hộ việc sử dụng thuốc chủ vận thụ thể peptide-1 giốngglucagon(GLP-1RA) để cải thiện kiểm soát glucose, đẩy nhanh quá trình giảm cân, cải thiện cholesterol và giảm nguy cơ tim mạch ở bệnh nhân tiểu đường (30,31). Thuốc ức chế protein vận chuyển natri-glucose 2 (SGLT2) còn gây tranh cãi về tác dụng của các thuốc này đối với lipid, mặc dù các thuốc này đã được chứng minh là cải thiện kết quả ở tim trên bệnh nhân tiểu đường (32,33).Điều trị rối loạn lipid máu ở những bệnh nhân bịsuy giáp,bệnh thận mạn tính, bệnh gan hoặc kết hợp các rối loạn này bao gồm điều trị các rối loạn cơ bản và các bất thường lipid thứ phát. Mức lipid bất thường ở những bệnh nhân có chức năng tuyến giáp giới hạn thấp (nồng độ TSH bình thường cao) sẽ cải thiện khi điều trị hormone thay thế. Giảm liều hoặc ngừng thuốc gây rối loạn lipid cần được cân nhắc.Theo dõi điều trịNồng độ lipid cần được theo dõi định kỳ sau khi bắt đầu điều trị. Không có dữ liệu xác định khoảng thời gian theo dõi cụ thể, nhưng định lượng nồng độ lipid từ 2 đến 3 tháng sau khi bắt đầu hoặc thay đổi phương pháp điều trị và một hoặc hai lần mỗi năm sau khi mức lipid ổn định là thực hành chung.Nhiễm độc gan và cơ nghiêm trọng khi sử dụng statin xảy ra ở 0,5 đến 2% tổng số người dùng. Việc theo dõi thường xuyên nồng độ men gan là không cần thiết và việc đo creatine kinase (CK) thường quy không hữu ích để dự đoán sự khởi phát củatiêu cơ vân. Nồng độ men cơ không cần phải được kiểm tra thường xuyên trừ khi bệnh nhân bị đau cơ hoặc các triệu chứng cơ khác. Nếu nghi ngờ statin gây tổn thương cơ, ngừng sử dụng statin và định lượng CK. Khi các triệu chứng cơ giảm, liều thấp hơn hoặc thuốc statin khác có thể điều trị thử. Nếu các triệu chứng không giảm trong vòng 1 đến 2 tuần sau khi ngừng statin, cần tìm ra nguyên nhân khác cho các triệu chứng cơ (ví dụđau đa cơ khớp dạng thấp).Tài liệu tham khảo về điều trị1.Daniels SR, Greer FR; Committee on Nutrition. Lipid screening and cardiovascular health in childhood.Pediatrics2008;122(1):198-208. doi:10.1542/peds.2008-13492.Harrison M, Moyna NM, Zderic TW, et al: Lipoprotein particle distribution and skeletal muscle lipoprotein lipase activity after acute exercise.Lipids Health Dis11:64, 2012. doi:10.1186/1476-511X-11-643.American Heart Association: American Heart Association Recommendations for Physical Activity in Adults and Kids. Đã xem xét lại ngày 19 tháng 1 năm 2024. Truy cập ngày 15 tháng 4 năm 20254.Grundy SM, Stone NJ, Bailey AL, et al: 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.Circulation139: e1082–e1143, 2019. doi: 10.1161/CIR.00000000000006255.Goff DC Jr, Lloyd-Jones DM, Bennett G, et al: 2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines [published correction appears inCirculation2014 Jun 24;129(25 Suppl 2):S74-5].Circulation129(25 Suppl 2):S49–S73, 2014. doi:10.1161/01.cir.0000437741.48606.986.Khan SS, Coresh J, Pencina MJ, et al: Novel Prediction Equations for Absolute Risk Assessment of Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific Statement From the American Heart Association.Circulation148(24):1982–2004, 2023. doi:10.1161/CIR.00000000000011917.Arnett DK, Blumenthal RS, Albert MA, et al: 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines [published correction appears inCirculationNgày 10 tháng 9 năm 2019;140(11):e647-e648. doi: 10.1161/CIR.0000000000000724.] [Circulationngày 28 tháng 1 năm 2020;141(4):e59. doi: 10.1161/CIR.0000000000000754.] [sửa lỗi đã xuất bản có trongCirculationngày 21 tháng 4 năm 2020;141(16):e773. doi: 10.1161/CIR.0000000000000770.].Circulation140(11):e563–e595, 2019. doi:10.1161/CIR.00000000000006778.US Preventive Services Task Force, Mangione CM, Barry MJ, et al: Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement.JAMA328(8):746-753, 2022. doi:10.1001/jama.2022.130449.Sabatine MS, Giugliano RP, Keech AC, et al:Evolocumaband clinical outcomes in patients with cardiovascular disease.N Engl J Med376:1713–1722, 2017.doi:10.1056/NEJMoa161566410.Schwartz GG, Steg PG, Szarek M, et al:Alirocumaband cardiovascular outcomes after acute coronary syndrome.New Engl J Med379:2097–2107, 2018. doi: 10.1056/NEJMoa1801174.11.Writing Committee, Lloyd-Jones DM, Morris PB, et al: 2022 ACC Expert Consensus Decision Pathway on the Role of Nonstatin Therapies for LDL-Cholesterol Lowering in the Management of Atherosclerotic Cardiovascular Disease Risk: A Report of the American College of Cardiology Solution Set Oversight Committee [published correction appears inJ Am Coll Cardiol2023 Jan 3;81(1):104].J Am Coll Cardiol80(14):1366-1418, 2022. doi:10.1016/j.jacc.2022.07.00612.Goldberg AC, Leiter LA, Stroes ESG, et al: Effect ofBempedoic Acidvs Placebo Added to Maximally Tolerated Statins on Low-Density Lipoprotein Cholesterol in Patients at High Risk for Cardiovascular Disease: The CLEAR Wisdom Randomized Clinical Trial [published correction appears in JAMA. Ngày 21 tháng 1 năm 2020;323(3):282].JAMA2019;322(18):1780-1788. doi:10.1001/jama.2019.1658513.Ray KK, Bays HE, Catapano AL, et al: Safety and Efficacy ofBempedoic Acidto Reduce LDL Cholesterol.N Engl J Med2019;380(11):1022-1032. doi:10.1056/NEJMoa180391714.The Lipid Research Clinics Coronary Primary Prevention Trial results: I. Reduction in incidence of coronary heart disease.JAMA251(3):351–364, 1984. doi:10.1001/jama.1984.0334027002902515.Cannon CP, Blazing MA, Giugliano RP, et al:EzetimibeAdded to Statin Therapy after Acute Coronary Syndromes.N Engl J Med372(25):2387–2397, 2015. doi:10.1056/NEJMoa141048916.Ray KK, Troquay RPT, Visseren FLJ, et al: Long-term efficacy and safety ofinclisiranin patients with high cardiovascular risk and elevated LDL cholesterol (ORION-3): results from the 4-year open-label extension of the ORION-1 trial.Lancet Diabetes Endocrinol11(2):109–119, 2023. doi:10.1016/S2213-8587(22)00353-917.Nicholls SJ, Ditmarsch M, Kastelein JJ, et al: Lipid lowering effects of the CETP inhibitorobicetrapibin combination with high-intensity statins: a randomized phase 2 trial.Nat Med28(8):1672–1678, 2022. doi:10.1038/s41591-022-01936-718.Raal FJ, Rosenson RS, Reeskamp LF, et al:Evinacumabfor Homozygous Familial Hypercholesterolemia.N Engl J Med383(8):711–720, 2020. doi:10.1056/NEJMoa200421519.de Ferranti SD, Steinberger J, Ameduri R, et al: Cardiovascular Risk Reduction in High-Risk Pediatric Patients: A Scientific Statement From the American Heart Association.Circulation139(13):e603-e634, 2019. doi:10.1161/CIR.000000000000061820.Bhatt DL, Steg PG, Miller M, et al: Cardiovascular Risk Reduction withIcosapent Ethylfor Hypertriglyceridemia.N Engl J Med380(1):11–22, 2019. doi:10.1056/NEJMoa181279221.Nicholls SJ, Lincoff AM, Garcia M, et al. Effect of High-Dose Omega-3 Fatty Acids vs Corn Oil on Major Adverse Cardiovascular Events in Patients at High Cardiovascular Risk: The STRENGTH Randomized Clinical Trial.JAMA2020;324(22):2268-2280. doi:10.1001/jama.2020.2225822.Bergmark BA, Marston NA, Prohaska TA, et al:Olezarsenfor Hypertriglyceridemia in Patients at High Cardiovascular Risk.N Engl J Med390(19):1770–1780, 2024. doi:10.1056/NEJMoa240230923.Kamrul-Hasan ABM, Dutta D, Nagendra L, Mondal S, Bhattacharya S, Kalra S: Safety and Efficacy of the Novel RNA Interference Therapies for Hypertriglyceridemia and Mixed Hyperlipidemia Management: A Systematic Review and Meta-analysis.Endocr Pract30(11):1103–1112, 2024. doi:10.1016/j.eprac.2024.08.01324.AIM-HIGH Investigators, Boden WE, Probstfield JL, et al:Niacinin patients with low HDL cholesterol levels receiving intensive statin therapy [published correction appears inN Engl J Med367(2):189, 2012].N Engl J Med365(24):2255–2267, 2011. doi:10.1056/NEJMoa110757925.HPS2-THRIVE Collaborative Group, Landray MJ, Haynes R, et al: Effects of extended-releaseniacinwithlaropiprantin high-risk patients.N Engl J Med371(3):203–212, 2014. doi:10.1056/NEJMoa130095526.Das Pradhan A, Glynn RJ, Fruchart JC, et al: Triglyceride Lowering withPemafibrateto Reduce Cardiovascular Risk.N Engl J Med387(21):1923–1934, 2022. doi:10.1056/NEJMoa221064527.Ginsberg HN: The ACCORD (Action to Control Cardiovascular Risk in Diabetes) Lipid trial: what we learn from subgroup analyses.Diabetes Care34 Suppl 2(Suppl 2):S107–S108, 2011. doi:10.2337/dc11-s20328.Croyal M, Ouguerram K, Passard M, et al: Effects of extended-releasenicotinic acidon apolipoprotein (a) kinetics in hypertriglyceridemic patients.Arterioscler Thromb Vasc Biol35 (9): 2042–2047, 2015. doi:10.1161/ATVBAHA.115.30583529.Yeang C, Karwatowska-Prokopczuk E, Su F, et al: Effect ofPelacarsenon Lipoprotein(a) Cholesterol and Corrected Low-Density Lipoprotein Cholesterol.J Am Coll Cardiol79(11):1035–1046, 2022. doi:10.1016/j.jacc.2021.12.03230.Hernandez AF, Green JB, Janmohamed S, et al:Albiglutideand cardiovascular outcomes in patients with type 2 diabetes and cardiovascular disease (Harmony Outcomes): a double-blind, randomised placebo-controlled trial.Lancet392(10157):1519–1529, 2018. doi:10.1016/S0140-6736(18)32261-X31.Yao H, Zhang A, Li D, et al: Comparative effectiveness of GLP-1 receptor agonists on glycaemic control, body weight, and lipid profile for type 2 diabetes: systematic review and network meta-analysis.BMJ384:e076410, 2024. doi:10.1136/bmj-2023-07641032.Sánchez-García A, Simental-Mendía M, Millán-Alanís JM, Simental-Mendía LE: Effect of sodium-glucose co-transporter 2 inhibitors on lipid profile: A systematic review and meta-analysis of 48 randomized controlled trials.Pharmacol Res160:105068, 2020. doi:10.1016/j.phrs.2020.10506833.Wiviott SD, Raz I, Bonaca MP, et al:Dapagliflozinand Cardiovascular Outcomes in Type 2 Diabetes.N Engl J Med380(4):347–357, 2019. doi:10.1056/NEJMoa1812389
+
+--- 8. Thuốc điều trị tăng cholesterol máu đồng hợp tử có tính chất gia đình ---
+
+Thuốc điều trị tăng cholesterol máu đồng hợp tử có tính gia đình bao gồm statin, thuốc ức chế PCSK9 và evinacumab.Evinacumablà một kháng thể đơn dòng tái tổ hợp của con người gắn kết và ức chế protein giống angiopoietin 3, một chất ức chế LPL và lipase nội mô. Thuốc có thể làm giảm LDL-C (47%), triglyceride và HDL-C.Evinacumabđược truyền tĩnh mạch mỗi tháng một lần. Thuốc thể gây ra bệnh gút, bệnh giống cúm và phản ứng truyền dịch (18).Lomitapide là thuốc ức chế protein vận chuyển triglyceride ở microsome, có tác dụng ngăn cản quá trình tiết lipoprotein giàu triglyceride ở gan và ruột. Liều khởi đầu thấp và tăng dần mỗi 2 tuần. Bệnh nhân phải tuân theo chế độ ăn với ít hơn 20% lượng calo từ chất béo.Lomitapidecó thể gây ra các tác dụng bất lợi ở đường tiêu hóa (ví dụ: tiêu chảy, tăng mỡ gan, tăng men gan).
+
+--- 9. Phương pháp tiếp cận bằng thủ thuật ---
+
+Các phương pháp tiếp cận bằng thủ thuật được dành riêng cho những bệnh nhân bị tăng lipid máu nặng (LDL-C>300 mg/dL [> 7,74 mmol/L]) và không có bệnh mạch máu. Chiết tách LDL, trong đó LDL được loại bỏ bằng trao đổi huyết tương ngoài cơ thể, có thể được thực hiện ở những bệnh nhân có LDL-C > 200 mg/dL (> 5,16 mmol/L) và bệnh mạch máu không đáp ứng với liệu pháp thông thường, chẳng hạn như xảy ra với tăng cholesterol máu có tính gia đình. Các phương án khác bao gồm phẫu thuật bắc cầu hồi tràng (để ngăn chặn sự tái hấp thu axit mật) và ghép gan (ghép các thụ thể LDL). Lọc LDL là thủ thuật được lựa chọn trong hầu hết các trường hợp khi liệu pháp dung nạp tối đa không làm giảm LDL-C một cách thỏa đáng. Chiết tách cũng là liệu pháp thường dùng cho những bệnh nhân bị tăng cholesterol máu dạng đồng hợp tử có tính gia đình có đáp ứng hạn chế hoặc không đáp ứng với điều trị bằng thuốc.
+
+--- 10. Những điểm chính ---
+
+Tăng lipid máu là một yếu tố nguy cơ gây xơ vữa động mạch và do đó có thể dẫn đến bệnh động mạch vành có triệu chứng và bệnh động mạch ngoại biên.Nguyên nhân của rối loạn lipid máu bao gồm lối sống ít vận động với chế độ ăn nhiều calo, ăn nhiều chất béo bão hòa, cholesterol và chất béo chuyển hóa và/hoặc di truyền bất thường của chuyển hóa lipid.Chẩn đoán bằng cách sử dụng hồ sơ lipid huyết thanh (đo cholesterol toàn phần, triglycerides và cholesterol lipoprotein tỷ trọng cao [HDL] và tính cholesterol lipoprotein tỷ trọng thấp [LDL] và cholesterol lipoprotein tỷ trọng rất thấp [VLDL]).Các xét nghiệm sàng lọc nên được thực hiện từ 9 đến 11 tuổi và lại từ 17 đến 21 tuổi (ở tuổi 2-8 nếu có tiền sử gia đình nặng về tăng lipid máu nặng hoặc bệnh động mạch vành sớm hoặc các yếu tố nguy cơ khác); người lớn được sàng lọc mỗi 5 năm bắt đầu ở tuổi 20.Điều trị với statin được chỉ định để giảm nguy cơ xơ vữa động mạch cho tất cả các bệnh nhân trong 4 nhóm nguy cơ chính theo định nghĩa của Hiệp hội Tim mạch Hoa Kỳ và cho những người không có những người có một số kết hợp các yếu tố nguy cơ khác và tăng mức lipid.Tối ưu hóa việc tuân thủ, thay đổi lối sống và sử dụng statin trước khi thêm một loại thuốc không phải statin; nếu bệnh nhân có nồng độ LDL-C > 70 mg/dL (> 1,8 mmol/L) mắc bệnh tim mạch xơ vữa động mạch có nguy cơ cao, việc bổ sung ezetimibe hoặc thuốc ức chế PSCK9 là hợp lý.Điều trị khác phụ thuộc vào sự bất thường của từng lipid cụ thể nhưng luôn bao gồm thay đổi lối sống, điều trị tăng huyết áp và đái tháo đường, ngừng hút thuốc, và một bệnh nhân có nguy cơ cao bị nhồi máu cơ tim hoặc tử vong do bệnh động mạch vành, aspirin liều thấp hàng ngày.

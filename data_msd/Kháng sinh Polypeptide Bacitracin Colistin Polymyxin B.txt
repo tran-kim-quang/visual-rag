@@ -1,0 +1,449 @@
+TIÊU ĐỀ: Kháng sinh Polypeptide: Bacitracin, Colistin, Polymyxin B
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/kháng-sinh-polypeptide-bacitracin-colistin-polymyxin-b
+================================================================================
+
+NỘI DUNG:
+
+Kháng sinh Polypeptide: Bacitracin, Colistin, Polymyxin B
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v1004222_vi
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Kháng sinh
+
+Polypeptide phá vỡ thành tế bào vi khuẩn.
+
+Bacitracin
+
+là một chất kháng sinh polypeptit ức chế sự tổng hợp thành tế bào và hoạt động chống lại các vi khuẩn Gram dương.
+
+Colistin
+
+(colistimethate, colistin, polymyxin E) và
+
+polymyxin B
+
+là các kháng sinh polypeptide cation phá vỡ màng ngoài của vi khuẩn gram âm bằng cách gắn kết với lipopolysacarit anion (endotoxin) và do đó vô hiệu hóa độc tính của vi khuẩn và gây chết tế bào vi khuẩn.
+
+Colistin methane sulfonate
+
+(colistimethate natri [CMS]) là một chế phẩm tiêm truyền của một tiền thuốc được chuyển hóa trong máu và nước tiểu thành colistin. CMS ít độc hơn colistin.
+
+Polypeptide khác với colistin thường được sử dụng tại chỗ; sự hấp thụ hệ thống là không đáng kể.
+
+Sự đề kháng
+
+Kháng với colistin và
+
+polymyxin B
+
+thường là mắc phải thông qua quá trình biến đổi thành phần lipid A của màng ngoài lipopolysaccharide; những phần sửa đổi này dẫn đến bề mặt tế bào tích điện dương hơn, thiếu ái lực với các polymyxin tích điện dương. Kháng thuốc có thể được thực hiện trên các yếu tố di truyền (ví dụ,
+
+mcr-1, 2, 3
+
+[kháng colistin huy động] làm tăng nguy cơ chuyển dịch theo chiều ngang. Tỷ lệ kháng chéo giữa colistin và
+
+polymyxin B
+
+là gần 100%.
+
+Chỉ định cho thuốc kháng sinh Polypeptide
+
+Polypeptide được sử dụng cho một số loại nhiễm trùng (xem bảng
+
+Một số ứng dụng lâm sàng của Polypeptides
+
+).
+
+Bacitracin
+
+được sử dụng chủ yếu tại chỗ cho
+
+Nhiễm trùng da
+
+bề mặt do
+
+Staphylococcus aureus
+
+Polymyxin B và colistin
+
+chứng minh
+
+hoạt tính diệt khuẩn phụ thuộc vào phơi nhiễm
+
+nhanh in vitro (tỷ lệ diện tích dưới đường cong nồng độ-thời gian/nồng độ ức chế tối thiểu [AUC/MIC] dự đoán tốt nhất khả năng tiêu diệt) chống lại
+
+Hầu hết các trực khuẩn gram âm hiếu khí và tùy ý, bao gồm các loài
+
+Pseudomonas aeruginosa
+
+và
+
+Acinetobacter
+
+(
+
+1
+
+,
+
+2
+
+)
+
+Những loại kháng sinh này không có tác dụng chống lại các loài
+
+Proteus
+
+,
+
+Providencia
+
+,
+
+Burkholderia
+
+và
+
+Serratia
+
+cũng như một số vi khuẩn kỵ khí bắt buộc, bao gồm
+
+Bacteroides fragilis
+
+và vi khuẩn gram dương.
+
+Polymyxin B và colistin chỉ nên được sử dụng khi không có lựa chọn nào ít độc hại hơn. Một số phối hợp beta-lactam cộng với thuốc ức chế mới hơn được ưu tiên hơn liệu pháp có polymyxin bất cứ khi nào có thể. Do kết quả lâm sàng kém, tỷ lệ độc tính cao và các phương pháp xét nghiệm MIC không đáng tin cậy, Viện Tiêu chuẩn Lâm sàng và Phòng thí nghiệm đã loại bỏ tất cả các điểm dừng "nhạy cảm" đối với polymyxin và hiện chỉ xác nhận "trung gian" là điểm dừng thấp nhất có thể có. Hơn nữa, do hoạt tính đặc biệt kém ở phổi, những kháng sinh này không nên được xem xét dùng để điều trị viêm phổi.
+
+Bảng
+
+Một số sử dụng lâm sàng của polypeptide
+
+Một số sử dụng lâm sàng của polypeptide
+
+Chuẩn bị
+
+Áp dụng
+
+Bình luận
+
+Điều trị kết hợp
+
+Thuốc mỡ có chứa
+
+bacitracin
+
+cộng với
+
+neomycin
+
+,
+
+polymyxin B
+
+(bacitracin/polymyxin B), hoặc cả hai (neomycin/polymyxin B/bacitracin)
+
+Nhiễm trùng vết thương
+
+Có thể gây viêm da tiếp xúc
+
+Thuốc dạng xịt có chứa neomycin, bacitracin, và polymyxin
+
+Phòng ngừa nhiễm khuẩn vết mổ sau mổ
+
+Có thể gây viêm da tiếp xúc
+
+Thuốc mỡ và dung dịch tra mắt
+
+polymyxin B
+
+với các thuốc kháng sinh khác (ví dụ: bacitracin/polymyxin B, neomycin/polymyxin B, polymyxin B/trimethoprim) và corticosteroid (ví dụ: neomycin/polymyxin B/hydrocortisone)
+
+Sử dụng ở mắt
+
+Tỉ lệ hồi phục lâm sàng sớm được cải thiện đáng kể (mặc dù viêm kết mạc cấp tính do vi khuẩn thường tự hạn chế)
+
+Hỗn dịch nhỏ tai có neomycin/polymyxin B/hydrocortisone hoặc với colistin, neomycin và hydrocortisone
+
+Bệnh viêm tai giữa
+
+(thường do trực khuẩn mủ xanh
+
+Pseudomonas aeruginosa
+
+)
+
+Có hiệu quả lâm sàng, nhưng có thể không hiệu quả hơn 2% axit axetic với hydrocortisone
+
+Ở những bệnh nhân có ống thông tai hoặc lỗ thủng được biết đến của màng nhĩ, phải dùng một chế phẩm không gây độc hại (không có aminoglycosid hoặc rượu)
+
+Bacitracin
+
+Địa điểm
+
+Diệt trừ
+
+Staphylococcus aureus
+
+gây bệnh vùng mũi
+
+Chốc lở
+
+Ít hiệu quả hơn các biện pháp điều trị khác
+
+Có thể gây viêm da tiếp xúc
+
+Colistin
+
+colistin metan sulfonat (colistimethat natri [CMS]) dạng khí dung
+
+Xơ nang
+
+Đôi khi với
+
+Viêm phổi bệnh viện
+
+là do vi khuẩn gram âm đa kháng
+
+Liên quan ít tác dụng phụ hơn (ví dụ, đau ngực, kích ứng cổ họng, ho) so với colistin sulfate
+
+colistin sulfate dạng khí dung
+
+Tương tự như đối với colistin metan sulfonat dạng khí dung
+
+Có thể có lợi cho bệnh nhân bị xơ nang hoặc viêm phổi bệnh viện (có liên quan đến máy thở hoặc không) do vi khuẩn Gram âm đa kháng
+
+CMS đường tĩnh mạch
+
+Nhiễm trùng nghiêm trọng do vi khuẩn gram âm đa kháng giống
+
+P. aeruginosa
+
+hoặc
+
+Acinetobacter
+
+sp
+
+Giảm liều ở bệnh nhân suy thận
+
+Không phải liệu pháp bước một
+
+Polymyxin B
+
+Các giải pháp
+
+Rửa đường sinh dục
+
+—
+
+Đường tiêm truyền
+
+Nhiễm trùng nghiêm trọng do vi khuẩn gram âm đa kháng giống
+
+P. aeruginosa
+
+hoặc
+
+Acinetobacter
+
+sp
+
+—
+
+Tài liệu tham khảo về chỉ định
+
+1.
+
+Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ
+
+. Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.
+
+Clin Infect Dis
+
+. Xuất bản trực tuyến ngày 18 tháng Bảy năm 2023. doi:10.1093/cid/ciad428
+
+2.
+
+Tsuji BT, Pogue JM, Zavascki AP, et al
+
+. International Consensus Guidelines for the Optimal Use of the Polymyxins: Endorsed by the American College of Clinical Pharmacy (ACCP), European Society of Clinical Microbiology and Infectious Diseases (ESCMID), Infectious Diseases Society of America (IDSA), International Society for Anti-infective Pharmacology (ISAP), Society of Critical Care Medicine (SCCM), and Society of Infectious Diseases Pharmacists (SIDP).
+
+Pharmacotherapy
+
+. 2019;39(1):10-39. doi:10.1002/phar.2209
+
+Chống chỉ định với thuốc kháng sinh Polypeptide
+
+Tất cả các polypeptides đều chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với các kháng sinh này.
+
+Bất cứ khi nào có thể, không nên dùng đồng thời colistimethate natri và polymyxin B với các thuốc ngăn chặn sự dẫn truyền thần kinh cơ (ví dụ: rocuronium) hoặc gây độc cho thận (ví dụ:
+
+aminoglycoside
+
+).
+
+Sử dụng Polypeptide trong thời kỳ mang thai và cho con bú
+
+Bacitracin
+
+có thể gây nguy cơ tối thiểu trong thời gian mang thai và cho con bú vì sự hấp thu hệ thống là tối thiểu; tuy nhiên, sự an toàn chưa được thiết lập.
+
+Polymyxin B
+
+đã không được đánh giá đầy đủ trong các nghiên cứu sinh sản động vật. Không có nghiên cứu đối chứng có ý nghĩa đã được thực hiện ở phụ nữ có thai. Độ an toàn của
+
+polymyxin B
+
+ở phụ nữ mang thai chưa được xác định.
+
+Colistin metan sulfonat
+
+(CMS) cho thấy một số rủi ro trong nghiên cứu sinh sản động vật. Dữ liệu liên quan đến việc mang thai ở người không đầy đủ. Liệu sử dụng colistin hoặc CMS là an toàn trong thời kỳ cho con bú sữa mẹ là chưa được biết.
+
+Tác dụng bất lợi của thuốc kháng sinh Polypeptide
+
+Tác dụng phụ của polypeptides
+
+Gây độc với thận
+
+Nhiễm độc thần kinh trung ương và ngoại vi
+
+Chất polymyxins độc thận. CMS và polymyxin B có thể gây lú lẫn và trầm cảm, chóng mặt, nói nhảm, yếu cơ và khó thở do phong bế thần kinh cơ, đặc biệt ở những bệnh nhân suy thận.
+
+Cân nhắc về liều lượng đối với thuốc kháng sinh Polypeptide
+
+Vì colistin đã được đưa vào sử dụng trước khi có sự phân tích dược động lực học/dược động học hiện đại nên liều lượng thích hợp chưa được nghiên cứu nghiêm ngặt như đối với nhiều kháng sinh hiện đại. Ngoài ra, các nhà sản xuất không sử dụng một phương pháp thống nhất để mô tả số lượng thuốc; một số sử dụng các đơn vị quốc tế, và một số khác sử dụng mg của hoạt tính base colistin hoặc mg của colistimethate thực tế.
+
+Dù sử dụng đơn vị nào, nhiều chuyên gia tin rằng liều khuyến nghị của nhà sản xuất là 2,5 mg/kg đến 5 mg/kg hoạt tính colistin base mỗi ngày chia thành 2 liều đến 4 liều là quá thấp và khuyến nghị phác đồ dùng thuốc cao hơn, bao gồm cả việc sử dụng liều tấn công (
+
+1
+
+,
+
+2
+
+). Tuy nhiên, độc tính trên thận phụ thuộc vào liều lượng và trở thành mối lo ngại lớn hơn khi dùng liều cao hơn (
+
+1
+
+,
+
+2
+
+). Cần phải trao đổi liều với chuyên gia.
+
+Tài liệu tham khảo cân nhắc về liều lượng
+
+1.
+
+Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ
+
+. Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.
+
+Clin Infect Dis
+
+. Xuất bản trực tuyến ngày 18 tháng Bảy năm 2023. doi:10.1093/cid/ciad428
+
+2.
+
+Tsuji BT, Pogue JM, Zavascki AP, et al
+
+. International Consensus Guidelines for the Optimal Use of the Polymyxins: Endorsed by the American College of Clinical Pharmacy (ACCP), European Society of Clinical Microbiology and Infectious Diseases (ESCMID), Infectious Diseases Society of America (IDSA), International Society for Anti-infective Pharmacology (ISAP), Society of Critical Care Medicine (SCCM), and Society of Infectious Diseases Pharmacists (SIDP).
+
+Pharmacotherapy
+
+. 2019;39(1):10-39. doi:10.1002/phar.2209
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định cho thuốc kháng sinh Polypeptide ---
+
+Polypeptide được sử dụng cho một số loại nhiễm trùng (xem bảngMột số ứng dụng lâm sàng của Polypeptides).Bacitracinđược sử dụng chủ yếu tại chỗ choNhiễm trùng dabề mặt doStaphylococcus aureusPolymyxin B và colistinchứng minhhoạt tính diệt khuẩn phụ thuộc vào phơi nhiễmnhanh in vitro (tỷ lệ diện tích dưới đường cong nồng độ-thời gian/nồng độ ức chế tối thiểu [AUC/MIC] dự đoán tốt nhất khả năng tiêu diệt) chống lạiHầu hết các trực khuẩn gram âm hiếu khí và tùy ý, bao gồm các loàiPseudomonas aeruginosavàAcinetobacter(1,2)Những loại kháng sinh này không có tác dụng chống lại các loàiProteus,Providencia,BurkholderiavàSerratiacũng như một số vi khuẩn kỵ khí bắt buộc, bao gồmBacteroides fragilisvà vi khuẩn gram dương.Polymyxin B và colistin chỉ nên được sử dụng khi không có lựa chọn nào ít độc hại hơn. Một số phối hợp beta-lactam cộng với thuốc ức chế mới hơn được ưu tiên hơn liệu pháp có polymyxin bất cứ khi nào có thể. Do kết quả lâm sàng kém, tỷ lệ độc tính cao và các phương pháp xét nghiệm MIC không đáng tin cậy, Viện Tiêu chuẩn Lâm sàng và Phòng thí nghiệm đã loại bỏ tất cả các điểm dừng "nhạy cảm" đối với polymyxin và hiện chỉ xác nhận "trung gian" là điểm dừng thấp nhất có thể có. Hơn nữa, do hoạt tính đặc biệt kém ở phổi, những kháng sinh này không nên được xem xét dùng để điều trị viêm phổi.BảngMột số sử dụng lâm sàng của polypeptideMột số sử dụng lâm sàng của polypeptideChuẩn bịÁp dụngBình luậnĐiều trị kết hợpThuốc mỡ có chứabacitracincộng vớineomycin,polymyxin B(bacitracin/polymyxin B), hoặc cả hai (neomycin/polymyxin B/bacitracin)Nhiễm trùng vết thươngCó thể gây viêm da tiếp xúcThuốc dạng xịt có chứa neomycin, bacitracin, và polymyxinPhòng ngừa nhiễm khuẩn vết mổ sau mổCó thể gây viêm da tiếp xúcThuốc mỡ và dung dịch tra mắtpolymyxin Bvới các thuốc kháng sinh khác (ví dụ: bacitracin/polymyxin B, neomycin/polymyxin B, polymyxin B/trimethoprim) và corticosteroid (ví dụ: neomycin/polymyxin B/hydrocortisone)Sử dụng ở mắtTỉ lệ hồi phục lâm sàng sớm được cải thiện đáng kể (mặc dù viêm kết mạc cấp tính do vi khuẩn thường tự hạn chế)Hỗn dịch nhỏ tai có neomycin/polymyxin B/hydrocortisone hoặc với colistin, neomycin và hydrocortisoneBệnh viêm tai giữa(thường do trực khuẩn mủ xanhPseudomonas aeruginosa)Có hiệu quả lâm sàng, nhưng có thể không hiệu quả hơn 2% axit axetic với hydrocortisoneỞ những bệnh nhân có ống thông tai hoặc lỗ thủng được biết đến của màng nhĩ, phải dùng một chế phẩm không gây độc hại (không có aminoglycosid hoặc rượu)BacitracinĐịa điểmDiệt trừStaphylococcus aureusgây bệnh vùng mũiChốc lởÍt hiệu quả hơn các biện pháp điều trị khácCó thể gây viêm da tiếp xúcColistincolistin metan sulfonat (colistimethat natri [CMS]) dạng khí dungXơ nangĐôi khi vớiViêm phổi bệnh việnlà do vi khuẩn gram âm đa khángLiên quan ít tác dụng phụ hơn (ví dụ, đau ngực, kích ứng cổ họng, ho) so với colistin sulfatecolistin sulfate dạng khí dungTương tự như đối với colistin metan sulfonat dạng khí dungCó thể có lợi cho bệnh nhân bị xơ nang hoặc viêm phổi bệnh viện (có liên quan đến máy thở hoặc không) do vi khuẩn Gram âm đa khángCMS đường tĩnh mạchNhiễm trùng nghiêm trọng do vi khuẩn gram âm đa kháng giốngP. aeruginosahoặcAcinetobacterspGiảm liều ở bệnh nhân suy thậnKhông phải liệu pháp bước mộtPolymyxin BCác giải phápRửa đường sinh dục—Đường tiêm truyềnNhiễm trùng nghiêm trọng do vi khuẩn gram âm đa kháng giốngP. aeruginosahoặcAcinetobactersp—Tài liệu tham khảo về chỉ định1.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ. Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis. Xuất bản trực tuyến ngày 18 tháng Bảy năm 2023. doi:10.1093/cid/ciad4282.Tsuji BT, Pogue JM, Zavascki AP, et al. International Consensus Guidelines for the Optimal Use of the Polymyxins: Endorsed by the American College of Clinical Pharmacy (ACCP), European Society of Clinical Microbiology and Infectious Diseases (ESCMID), Infectious Diseases Society of America (IDSA), International Society for Anti-infective Pharmacology (ISAP), Society of Critical Care Medicine (SCCM), and Society of Infectious Diseases Pharmacists (SIDP).Pharmacotherapy. 2019;39(1):10-39. doi:10.1002/phar.2209
+
+--- 2. Chống chỉ định với thuốc kháng sinh Polypeptide ---
+
+Tất cả các polypeptides đều chống chỉ định ở những bệnh nhân đã có phản ứng dị ứng với các kháng sinh này.Bất cứ khi nào có thể, không nên dùng đồng thời colistimethate natri và polymyxin B với các thuốc ngăn chặn sự dẫn truyền thần kinh cơ (ví dụ: rocuronium) hoặc gây độc cho thận (ví dụ:aminoglycoside).
+
+--- 3. Sử dụng Polypeptide trong thời kỳ mang thai và cho con bú ---
+
+Bacitracincó thể gây nguy cơ tối thiểu trong thời gian mang thai và cho con bú vì sự hấp thu hệ thống là tối thiểu; tuy nhiên, sự an toàn chưa được thiết lập.Polymyxin Bđã không được đánh giá đầy đủ trong các nghiên cứu sinh sản động vật. Không có nghiên cứu đối chứng có ý nghĩa đã được thực hiện ở phụ nữ có thai. Độ an toàn củapolymyxin Bở phụ nữ mang thai chưa được xác định.Colistin metan sulfonat(CMS) cho thấy một số rủi ro trong nghiên cứu sinh sản động vật. Dữ liệu liên quan đến việc mang thai ở người không đầy đủ. Liệu sử dụng colistin hoặc CMS là an toàn trong thời kỳ cho con bú sữa mẹ là chưa được biết.
+
+--- 4. Tác dụng bất lợi của thuốc kháng sinh Polypeptide ---
+
+Tác dụng phụ của polypeptidesGây độc với thậnNhiễm độc thần kinh trung ương và ngoại viChất polymyxins độc thận. CMS và polymyxin B có thể gây lú lẫn và trầm cảm, chóng mặt, nói nhảm, yếu cơ và khó thở do phong bế thần kinh cơ, đặc biệt ở những bệnh nhân suy thận.
+
+--- 5. Cân nhắc về liều lượng đối với thuốc kháng sinh Polypeptide ---
+
+Vì colistin đã được đưa vào sử dụng trước khi có sự phân tích dược động lực học/dược động học hiện đại nên liều lượng thích hợp chưa được nghiên cứu nghiêm ngặt như đối với nhiều kháng sinh hiện đại. Ngoài ra, các nhà sản xuất không sử dụng một phương pháp thống nhất để mô tả số lượng thuốc; một số sử dụng các đơn vị quốc tế, và một số khác sử dụng mg của hoạt tính base colistin hoặc mg của colistimethate thực tế.Dù sử dụng đơn vị nào, nhiều chuyên gia tin rằng liều khuyến nghị của nhà sản xuất là 2,5 mg/kg đến 5 mg/kg hoạt tính colistin base mỗi ngày chia thành 2 liều đến 4 liều là quá thấp và khuyến nghị phác đồ dùng thuốc cao hơn, bao gồm cả việc sử dụng liều tấn công (1,2). Tuy nhiên, độc tính trên thận phụ thuộc vào liều lượng và trở thành mối lo ngại lớn hơn khi dùng liều cao hơn (1,2). Cần phải trao đổi liều với chuyên gia.Tài liệu tham khảo cân nhắc về liều lượng1.Tamma PD, Aitken SL, Bonomo RA, Mathers AJ, van Duin D, Clancy CJ. Infectious Diseases Society of America 2023 Guidance on the Treatment of Antimicrobial Resistant Gram-Negative Infections.Clin Infect Dis. Xuất bản trực tuyến ngày 18 tháng Bảy năm 2023. doi:10.1093/cid/ciad4282.Tsuji BT, Pogue JM, Zavascki AP, et al. International Consensus Guidelines for the Optimal Use of the Polymyxins: Endorsed by the American College of Clinical Pharmacy (ACCP), European Society of Clinical Microbiology and Infectious Diseases (ESCMID), Infectious Diseases Society of America (IDSA), International Society for Anti-infective Pharmacology (ISAP), Society of Critical Care Medicine (SCCM), and Society of Infectious Diseases Pharmacists (SIDP).Pharmacotherapy. 2019;39(1):10-39. doi:10.1002/phar.2209

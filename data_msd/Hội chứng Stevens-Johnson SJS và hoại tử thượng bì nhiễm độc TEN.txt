@@ -1,0 +1,657 @@
+TIÊU ĐỀ: Hội chứng Stevens-Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-da-liễu/các-rối-loạn-quá-mẫn-và-phản-ứng-da/hội-chứng-stevens-johnson-sjs-và-hoại-tử-thượng-bì-nhiễm-độc-ten
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng Stevens-Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN)
+
+Theo
+
+Julia Benedetti
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Xem xét bởi
+
+Joseph F. Merola
+
+,
+
+MD, MMSc
+
+,
+
+UT Southwestern Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v963067_vi
+
+Hội chứng Stevens-Johnson và hoại tử thượng bì nhiễm độc là các phản ứng quá mẫn trên da mức độ nặng. Thuốc, đặc biệt là thuốc sulfa, thuốc chống động kinh và thuốc kháng sinh là những nguyên nhân phổ biến nhất. Các dát nhanh chóng lan rộng và liên kết với nhau, dẫn đến hình thành các chỗ phồng rộp, bọng nước, hoại tử, và tróc ở thượng bì. Chẩn đoán thường rõ ràng do biểu hiện của các tổn thương ban đầu và hội chứng lâm sàng. Điều trị là chăm sóc hỗ trợ; cyclosporin, liệu pháp huyết tương tinh chế hoặc globulin miễn dịch đường tĩnh mạch, liệu pháp corticosteroid sớm, và thuốc ức chế yếu tố hoại tử khối u alpha đã được sử dụng.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Những điểm chính
+
+|
+
+Hội chứng Stevens-Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN) tương tự nhau về lâm sàng, ngoại trừ sự phân bố của chúng. Theo một định nghĩa được chấp nhận rộng rãi, tổn thương
+
+<
+
+10% diện tích bề mặt cơ thể là SJS và
+
+>
+
+30% diện tích bề mặt cơ thể là TEN; và từ 10-30% bề mặt cơ thể được coi là SJS/TEN phối hợp.
+
+Các bệnh lý ảnh hưởng từ 2 người đến 9 người/triệu người (
+
+1
+
+). Tỷ lệ mắc, mức độ nặng hoặc cả hai bệnh lý này có thể cao hơn ở những người được ghép tủy xương, ở những bệnh nhân nhiễm HIV bị nhiễm
+
+Pneumocystis jirovecii
+
+, ở những bệnh nhân mắc
+
+bệnh lupus ban đỏ hệ thống
+
+và ở những bệnh nhân mắc các bệnh thấp khớp mạn tính khác.
+
+Tài liệu tham khảo chung
+
+1.
+
+Hsu DY, Brieva J, Silverberg NB, Silverberg JI
+
+. Morbidity and Mortality of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in United States Adults.
+
+J Invest Dermatol
+
+. 2016;136(7):1387-1397. doi:10.1016/j.jid.2016.03.023
+
+Căn nguyên của SJS và TEN
+
+Thuốc thúc đẩy hầu hết các trường hợp SJS và TEN. Các nguyên nhân do thuốc phổ biến nhất bao gồm
+
+Thuốc sulfa (ví dụ:
+
+sulfasalazine
+
+)
+
+Các kháng sinh khác (ví dụ: aminopenicillins [thường là
+
+ampicillin
+
+hoặc
+
+amoxicillin
+
+], fluoroquinolones, cephalosporin)
+
+Thuốc chống co giật (ví dụ:
+
+phenytoin
+
+,
+
+carbamazepine
+
+,
+
+phenobarbital
+
+,
+
+valproic acid
+
+và các dẫn xuất của thuốc này,
+
+lamotrigine
+
+)
+
+Thuốc chống viêm không steroid (ví dụ:
+
+piroxicam
+
+,
+
+meloxicam
+
+)
+
+Thuốc kháng retrovirus (ví dụ:
+
+nevirapine)
+
+Các loại thuốc riêng lẻ khác (ví dụ:
+
+allopurinol
+
+,
+
+chlormezanone
+
+)
+
+Thuốc ức chế điểm kiểm soát miễn dịch (
+
+1
+
+)
+
+Những trường hợp không phải do thuốc được cho là do
+
+Nhiễm trùng (chủ yếu là
+
+Mycoplasma pneumoniae
+
+)
+
+Tiêm vắc xin
+
+Bệnh chống thải ghép vật chủ
+
+Ở trẻ em mắc hội chứng Stevens-Johnson, nhiễm trùng là nguyên nhân có khả năng nhất và hầu hết trong số đó đều liên quan đến
+
+M. pneumoniae.
+
+Hiếm khi, không xác định được nguyên nhân.
+
+Tài liệu tham khảo nguyên nhân gây bệnh
+
+1.
+
+Zhu J, Chen G, He Z, et al
+
+. Stevens-Johnson syndrome/toxic epidermal necrolysis in patients treated with immune checkpoint inhibitors: A safety analysis of clinical trials and FDA pharmacovigilance database.
+
+EClinicalMedicine
+
+. 2021;37:100951. Xuất bản ngày 10 tháng 6 năm 2021. doi:10.1016/j.eclinm.2021.100951
+
+Sinh lý bệnh của SJS và TEN
+
+Cơ chế chính xác của hội chứng Stevens-Johnson và ly hoại tử biểu bì nhiễm độc vẫn chưa được biết rõ; tuy nhiên, một giả thuyết cho rằng sự chuyển hóa thuốc bị thay đổi (ví dụ: không làm sạch các chất chuyển hóa phản ứng) ở một số bệnh nhân gây ra phản ứng gây độc tế bào qua trung gian tế bào T đối với các kháng nguyên thuốc trong tế bào sừng. Các tế bào T CD8+ đã được xác định là các trung gian quan trọng trong sự hình thành bọng nước. Những phát hiện cho thấy granulysin được giải phóng từ các tế bào T gây độc tế bào và các tế bào diệt tự nhiên có thể đóng vai trò trong sự chết tế bào sừng; nồng độ granulysin trong dịch bọng nước tương ứng với mức độ nghiêm trọng của bệnh. Interleukin-15 cũng được phát hiện là tăng ở bệnh nhân SJS/TEN và được phát hiện là làm tăng sản sinh granulysin.
+
+Một giả thuyết khác là sự tương tác giữa Fas (thụ thể bề mặt tế bào gây ra hiện tượng chết theo chu trình) và phối tử của nó, đặc biệt là dạng hòa tan của Fas ligand được giải phóng từ các mono bào, dẫn đến sự chết tế bào và hình thành bọng nước.
+
+Khuynh hướng di truyền đối với SJS/TEN đã được đề xuất.
+
+Các triệu chứng và dấu hiệu của SJS và TEN
+
+Trong vòng 1 tuần đến 3 tuần sau khi bắt đầu dùng thuốc vi phạm, bệnh nhân sẽ xuất hiện triệu chứng khó chịu, sốt, nhức đầu, ho và viêm kết giác mạc. Các dát, thường là hình bia bắn, sau đó xuất hiện đột ngột, ở mặt, cổ, và thân trên. Các dát đồng thời xuất hiện ở những nơi khác trên cơ thể, kết hợp với nhau thành bọng nước lớn, và bong ra trong một khoảng thời gian 1-3 ngày. Móng và lông mày có thể bị mất cùng với biểu mô. Lòng bàn tay, lòng bàn chân có thể có tổn thương. Thường đau ở da, niêm mạc, và mắt. Trong một số trường hợp, ban đỏ lan tỏa là bất thường ở da đầu tiên của TEN.
+
+Hội chứng Stevens-Johnson (SJS)
+
+Dấu các chi tiết
+
+Bức ảnh này cho thấy một ban đỏ và mụn nước trên da và trên niêm mạc mắt và miệng ở bệnh nhân mắc bệnh SJS này.
+
+BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Hội chứng Stevens-Johnson (SJS)
+
+Hình ảnh
+
+BÁC SĨ M.A. ANSARY/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Trong những trường hợp TEN nặng, các mảng biểu mô lớn trượt ra khỏi toàn bộ cơ thể tại các điểm chịu tì đè (dấu hiệu Nikolsky), để lộ làn da ẩm ướt, đau đớn và ban đỏ. Các lớp vảy và vết trợt ở miệng gây đau, viêm kết giác mạc và các vấn đề về bộ phận sinh dục (ví dụ: viêm niệu đạo, hẹp bao quy đầu, dính âm đạo) đi kèm với bong tróc da trong hầu hết các trường hợp. Biểu mô phế quản cũng có thể bị bong, gây ho, khó thở, viêm phổi, phù phổi, và thiếu oxy máu. Viêm cầu thận và viêm gan có thể có.
+
+Chẩn đoán SJS và TEN
+
+Đánh giá lâm sàng
+
+Thường thì sinh thiết da
+
+Chẩn đoán thường rõ ràng bằng các triệu chứng lâm sàng và sự tiến triển nhanh của các triệu chứng. Mô bệnh học của da bị tổn thương biểu hiện hoại tử biểu bì, một đặc điểm để phân biệt.
+
+Chẩn đoán phân biệt trong hội chứng Stevens-Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN) sớm bao gồm
+
+hồng ban đa dạng
+
+, các ngoại ban do virus, và những phát ban do virus khác; SJS/TEN có thể được phân biệt về mặt lâm sàng khi các tổn thương xuất hiện và đặc trưng bởi bong da và rất đau. Trong các giai đoạn sau của TEN, chẩn đoán phân biệt bao gồm:
+
+Hội chứng sốc nhiễm độc
+
+(thường có biểu hiện đa cơ quan nổi bật hơn và các biểu hiện ở da khác nhau, chẳng hạn như phát ban ở lòng bàn tay và lòng bàn chân, tiến triển thành bong tróc trong khoảng 2 tuần)
+
+Đỏ da toàn thân
+
+(thường không có tổn thương niêm mạc và không đau)
+
+Panephigus á u
+
+(đôi khi có những biểu hiện niêm mạc khác hoặc ở bệnh nhân có bằng chứng ung thư)
+
+Ở trẻ em, TEN ít gặp hơn và phải được phân biệt với
+
+hội chứng da có vảy do tụ cầu
+
+. Đặc điểm của hội chứng bỏng da do tụ cầu thường bao gồm không có màng nhầy, không có các yếu tố nguy cơ đối với TEN (ví dụ: tiền sử dùng thuốc) và nghi ngờ lâm sàng về nhiễm trùng tụ cầu.
+
+Điều trị SJS và TEN
+
+Chăm sóc hỗ trợ
+
+Cyclosporine
+
+Có thể là corticosteroid, liệu pháp huyết tương tinh chế, globulin miễn dịch đường tĩnh mạch (IVIG), hoặc thuốc ức chế yếu tố hoại tử khối u (TNF)-alpha
+
+Điều trị thành công nhất khi hội chứng Stevens-Johnson và hoại tử biểu bì nhiễm độc (SJS/TEN) được phát hiện sớm và điều trị tại khoa da liễu hoặc đơn vị chăm sóc đặc biệt dành cho bệnh nhân nội trú; bệnh nặng có thể cần được
+
+điều trị tại khoa bỏng
+
+(
+
+1
+
+).
+
+Khám mắt và chăm sóc mắt theo chuyên khoa là bắt buộc đối với bệnh nhân có biểu hiện ở mắt. Các loại thuốc có khả năng gây bệnh nên được dừng lại ngay lập tức. Bệnh nhân được cách ly để giảm thiểu sự tiếp xúc với vi khuẩn và được bù dịch, chất điện giải, các sản phẩm máu và bổ sung dinh dưỡng nếu cần. Chăm sóc da bao gồm điều trị nhanh chóng các nhiễm khuẩn thứ phát và chăm sóc vết thương hàng ngày như đối với bỏng nặng. Kháng sinh dự phòng toàn thân đang gây tranh cãi và thường bị tránh sử dụng.
+
+Điều trị bằng thuốc của SJS/TEN đang gây tranh cãi. Cyclosporine (3 mg/kg đến 5 mg/kg uống một lần/ngày) ức chế tế bào CD8 và đã được chứng minh là làm giảm thời gian bệnh hoạt động (ví dụ: từ 2 ngày đến 3 ngày trong một số trường hợp) và có thể làm giảm tỷ lệ tử vong (
+
+2
+
+). Việc sử dụng corticosteroid toàn thân vẫn còn nhiều tranh cãi. Nhiều chuyên gia cho rằng corticosteroid toàn thân làm tăng tỷ lệ tử vong vì tăng tỷ lệ nhiễm trùng và nguy cơ gây nhiễm trùng huyết. Tuy nhiên, một số báo cáo cho thấy kết quả được cải thiện khi điều trị bằng corticosteroid sớm (
+
+3
+
+).
+
+Trao đổi huyết tương
+
+có thể loại bỏ các chất chuyển hóa của thuốc hoặc các kháng thể và có thể được xem xét.
+
+IVIG liều cao sớm: 2,7 g/kg trong 3 ngày chống lại các kháng thể và Fas ligand. Tuy nhiên, mặc dù có một số kết quả ban đầu đáng chú ý khi sử dụng IVIG liều cao cho TEN, các thử nghiệm lâm sàng tiếp theo liên quan đến các nhóm nhỏ đã báo cáo các kết quả trái ngược nhau và phân tích hồi cứu cho thấy không có sự cải thiện hoặc thậm chí tỷ lệ tử vong cao hơn dự kiến (
+
+4
+
+).
+
+Các thuốc ức chế TNF-alpha infliximab và etanercept có thể giúp giảm viêm.
+
+Thalidomide
+
+cũng đã được thử nghiệm nhưng làm tăng tỷ lệ tử vong và hiện bị chống chỉ định (
+
+5
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Seminario-Vidal L, Kroshinsky D, Malachowski SJ, et al
+
+. Society of Dermatology Hospitalists supportive care guidelines for the management of Stevens-Johnson syndrome/toxic epidermal necrolysis in adults.
+
+J Am Acad Dermatol
+
+. 2020;82(6):1553-1567. doi:10.1016/j.jaad.2020.02.066
+
+2.
+
+Ng QX, De Deyn MLZQ, Venkatanarayanan N, Ho CYX, Yeo WS
+
+. A meta-analysis of
+
+cyclosporine
+
+treatment for Stevens-Johnson syndrome/toxic epidermal necrolysis.
+
+J Inflamm Res
+
+. 2018;11:135-142. Xuất bản ngày 28 tháng 3 năm 2018. doi:10.2147/JIR.S160964
+
+3.
+
+Zimmermann S, Sekula P, Venhoff M, et al
+
+. Systemic Immunomodulating Therapies for Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis: A Systematic Review and Meta-analysis.
+
+JAMA Dermatol
+
+. 2017;153(6):514-522. doi:10.1001/jamadermatol.2016.5668
+
+4.
+
+Kirchhof MG, Miliszewski MA, Sikora S, et al
+
+. Retrospective review of Stevens-Johnson syndrome/toxic epidermal necrolysis treatment comparing intravenous immunoglobulin with
+
+cyclosporine
+
+.
+
+J Am Acad Dermatol
+
+. 2014;71(5):941–947. doi:10.1016/j.jaad.2014.07.016
+
+5.
+
+Wolkenstein P, Latarjet J, Roujeau JC, et al
+
+. Randomised comparison of
+
+thalidomide
+
+versus placebo in toxic epidermal necrolysis.
+
+Lancet
+
+. 1998;352(9140):1586-1589. doi:10.1016/S0140-6736(98)02197-7
+
+Tiên lượng về SJS và TEN
+
+Hoại tử thượng bì nhiễm độc nặng cũng tương tự như bị bỏng rộng; tình trạng nặng, có thể không ăn được hoặc không mở mắt được, và có rối loạn nước và điện giải. Nguy cơ bị nhiễm trùng cao, suy đa tạng, và tử vong.
+
+Tỷ lệ tử vong có thể cao tới 25% đến 35% ở người lớn nhưng có xu hướng thấp hơn ở trẻ em và nếu được điều trị sớm (
+
+1
+
+).
+
+Khi có điều trị sớm, tỷ lệ sống sót của TEN đạt tới 90%.
+
+Thang điểm mức độ nặng của bệnh đối với ly hoại tử biểu bì nhiễm độc
+
+(SCORTEN) chấm điểm một cách có hệ thống 7 yếu tố nguy cơ độc lập trong vòng 24 giờ đầu tiên kể từ khi đến bệnh viện để xác định tỷ lệ tử vong cho một bệnh nhân cụ thể.
+
+Bảng
+
+Mức độ nghiêm trọng của bệnh tật đối với hoại tử thượng bì nhiễm độc (SCORTEN)
+
+Mức độ nghiêm trọng của bệnh tật đối với hoại tử thượng bì nhiễm độc (SCORTEN)
+
+Yếu tố nguy cơ*
+
+Điểm
+
+0
+
+1
+
+Tuổi
+
+<
+
+40 năm
+
+≥
+
+40 năm
+
+Có ung thư
+
+Không
+
+Có
+
+Nhịp tim (nhịp/phút)
+
+<
+
+120
+
+≥
+
+120
+
+Nitơ ure huyết
+
+≤
+
+28 mg/dL (10 mmol/L)
+
+>
+
+28 mg/dL (10 mmol/L)
+
+Diện tích da bị tách rời hoặc lỏng lẻo
+
+<
+
+10%
+
+≥
+
+10%
+
+Bicarbonate huyết thành
+
+≥ 20 mEq/L (≥ 20 mmol/L)
+
+<
+
+20 mEq/L (< 20 mmol/L)
+
+Glucose huyết thanh
+
+≤
+
+250 mg/dL (≤ 13,88 mmol/L)
+
+>
+
+250 mg/dL (> 13,88 mmol/L)
+
+* Càng nhiều yếu tố nguy cơ cho thấy điểm số càng cao và tỷ lệ tử vong (%) càng cao, như sau:
+
+0–1
+
+=
+
+3,2% (CI: 0,1 đến 16,7)
+
+2
+
+=
+
+12,1% (CI: 5,4 đến 22,5)
+
+3
+
+=
+
+35,3% (CI: 19,8 đến 53,5)
+
+4
+
+=
+
+58,3% (CI: 36,6 đến 77,9)
+
+≥
+
+5
+
+=
+
+>
+
+90% (CI: 55,5 đến 99,8)
+
+CI
+
+=
+
+khoảng tin cậy.
+
+Dữ liệu từ
+
+Bastuji-Garin S, Fouchard N, Bertocchi M, et al
+
+: SCORTEN: Điểm số nghiêm trọng về bệnh tật đối với hoại tử thượng bì nhiễm độc.
+
+J Invest Dermatol
+
+115:149–153, 2000. doi: 10.1046/j.1523-1747.2000.00061.x
+
+* Càng nhiều yếu tố nguy cơ cho thấy điểm số càng cao và tỷ lệ tử vong (%) càng cao, như sau:
+
+0–1
+
+=
+
+3,2% (CI: 0,1 đến 16,7)
+
+2
+
+=
+
+12,1% (CI: 5,4 đến 22,5)
+
+3
+
+=
+
+35,3% (CI: 19,8 đến 53,5)
+
+4
+
+=
+
+58,3% (CI: 36,6 đến 77,9)
+
+≥
+
+5
+
+=
+
+>
+
+90% (CI: 55,5 đến 99,8)
+
+CI
+
+=
+
+khoảng tin cậy.
+
+Dữ liệu từ
+
+Bastuji-Garin S, Fouchard N, Bertocchi M, et al
+
+: SCORTEN: Điểm số nghiêm trọng về bệnh tật đối với hoại tử thượng bì nhiễm độc.
+
+J Invest Dermatol
+
+115:149–153, 2000. doi: 10.1046/j.1523-1747.2000.00061.x
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Del Pozzo-Magaña BR, Lazo-Langner A
+
+. Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in Children: A Literature Review of Current Treatments.
+
+EMJ Dermatol
+
+. 2016;4[1]:83-89. doi:10.33590/emjdermatol/10314211
+
+Những điểm chính
+
+Thuốc gây ra hầu hết các trường hợp mắc hội chứng Stevens-Johnson (SJS) và ly hoại tử biểu bì nhiễm độc (TEN), nhưng nhiễm trùng, tiêm chủng và bệnh mảnh ghép chống lại vật chủ cũng là những nguyên nhân tiềm ẩn.
+
+Xác nhận chẩn đoán bằng sinh thiết (biểu hiện hoại tử thượng bì) nếu các đặc điểm lâm sàng đặc trưng (ví dụ, tổn thương hình bia bắn tiến triển thành bọng nước, tổn thương ở mắt và niêm mạc, dấu hiệu Nikolsky, bong tróc mảng da) không thể đưa ra kết luận.
+
+Điều trị sớm làm giảm tỷ lệ tử vong.
+
+Trừ các trường hợp nhẹ, điều trị SJS/TEN trong một đơn vị bỏng và chăm sóc hỗ trợ chuyên sâu.
+
+Tham khảo ý kiến nhãn khoa nếu có tổn thương mắt.
+
+Xem xét cyclosporine và có thể là liệu pháp huyết tương tinh chế cho các trường hợp nặng.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của SJS và TEN ---
+
+Thuốc thúc đẩy hầu hết các trường hợp SJS và TEN. Các nguyên nhân do thuốc phổ biến nhất bao gồmThuốc sulfa (ví dụ:sulfasalazine)Các kháng sinh khác (ví dụ: aminopenicillins [thường làampicillinhoặcamoxicillin], fluoroquinolones, cephalosporin)Thuốc chống co giật (ví dụ:phenytoin,carbamazepine,phenobarbital,valproic acidvà các dẫn xuất của thuốc này,lamotrigine)Thuốc chống viêm không steroid (ví dụ:piroxicam,meloxicam)Thuốc kháng retrovirus (ví dụ:nevirapine)Các loại thuốc riêng lẻ khác (ví dụ:allopurinol,chlormezanone)Thuốc ức chế điểm kiểm soát miễn dịch (1)Những trường hợp không phải do thuốc được cho là doNhiễm trùng (chủ yếu làMycoplasma pneumoniae)Tiêm vắc xinBệnh chống thải ghép vật chủỞ trẻ em mắc hội chứng Stevens-Johnson, nhiễm trùng là nguyên nhân có khả năng nhất và hầu hết trong số đó đều liên quan đếnM. pneumoniae.Hiếm khi, không xác định được nguyên nhân.Tài liệu tham khảo nguyên nhân gây bệnh1.Zhu J, Chen G, He Z, et al. Stevens-Johnson syndrome/toxic epidermal necrolysis in patients treated with immune checkpoint inhibitors: A safety analysis of clinical trials and FDA pharmacovigilance database.EClinicalMedicine. 2021;37:100951. Xuất bản ngày 10 tháng 6 năm 2021. doi:10.1016/j.eclinm.2021.100951
+
+--- 2. Sinh lý bệnh của SJS và TEN ---
+
+Cơ chế chính xác của hội chứng Stevens-Johnson và ly hoại tử biểu bì nhiễm độc vẫn chưa được biết rõ; tuy nhiên, một giả thuyết cho rằng sự chuyển hóa thuốc bị thay đổi (ví dụ: không làm sạch các chất chuyển hóa phản ứng) ở một số bệnh nhân gây ra phản ứng gây độc tế bào qua trung gian tế bào T đối với các kháng nguyên thuốc trong tế bào sừng. Các tế bào T CD8+ đã được xác định là các trung gian quan trọng trong sự hình thành bọng nước. Những phát hiện cho thấy granulysin được giải phóng từ các tế bào T gây độc tế bào và các tế bào diệt tự nhiên có thể đóng vai trò trong sự chết tế bào sừng; nồng độ granulysin trong dịch bọng nước tương ứng với mức độ nghiêm trọng của bệnh. Interleukin-15 cũng được phát hiện là tăng ở bệnh nhân SJS/TEN và được phát hiện là làm tăng sản sinh granulysin.Một giả thuyết khác là sự tương tác giữa Fas (thụ thể bề mặt tế bào gây ra hiện tượng chết theo chu trình) và phối tử của nó, đặc biệt là dạng hòa tan của Fas ligand được giải phóng từ các mono bào, dẫn đến sự chết tế bào và hình thành bọng nước.Khuynh hướng di truyền đối với SJS/TEN đã được đề xuất.
+
+--- 3. Các triệu chứng và dấu hiệu của SJS và TEN ---
+
+Trong vòng 1 tuần đến 3 tuần sau khi bắt đầu dùng thuốc vi phạm, bệnh nhân sẽ xuất hiện triệu chứng khó chịu, sốt, nhức đầu, ho và viêm kết giác mạc. Các dát, thường là hình bia bắn, sau đó xuất hiện đột ngột, ở mặt, cổ, và thân trên. Các dát đồng thời xuất hiện ở những nơi khác trên cơ thể, kết hợp với nhau thành bọng nước lớn, và bong ra trong một khoảng thời gian 1-3 ngày. Móng và lông mày có thể bị mất cùng với biểu mô. Lòng bàn tay, lòng bàn chân có thể có tổn thương. Thường đau ở da, niêm mạc, và mắt. Trong một số trường hợp, ban đỏ lan tỏa là bất thường ở da đầu tiên của TEN.Hội chứng Stevens-Johnson (SJS)Dấu các chi tiếtBức ảnh này cho thấy một ban đỏ và mụn nước trên da và trên niêm mạc mắt và miệng ở bệnh nhân mắc bệnh SJS này.BÁC SĨ P. MARAZZI/THƯ VIỆN HÌNH ẢNH KHOA HỌCHội chứng Stevens-Johnson (SJS)Hình ảnhBÁC SĨ M.A. ANSARY/THƯ VIỆN HÌNH ẢNH KHOA HỌCTrong những trường hợp TEN nặng, các mảng biểu mô lớn trượt ra khỏi toàn bộ cơ thể tại các điểm chịu tì đè (dấu hiệu Nikolsky), để lộ làn da ẩm ướt, đau đớn và ban đỏ. Các lớp vảy và vết trợt ở miệng gây đau, viêm kết giác mạc và các vấn đề về bộ phận sinh dục (ví dụ: viêm niệu đạo, hẹp bao quy đầu, dính âm đạo) đi kèm với bong tróc da trong hầu hết các trường hợp. Biểu mô phế quản cũng có thể bị bong, gây ho, khó thở, viêm phổi, phù phổi, và thiếu oxy máu. Viêm cầu thận và viêm gan có thể có.
+
+--- 4. Chẩn đoán SJS và TEN ---
+
+Đánh giá lâm sàngThường thì sinh thiết daChẩn đoán thường rõ ràng bằng các triệu chứng lâm sàng và sự tiến triển nhanh của các triệu chứng. Mô bệnh học của da bị tổn thương biểu hiện hoại tử biểu bì, một đặc điểm để phân biệt.Chẩn đoán phân biệt trong hội chứng Stevens-Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN) sớm bao gồmhồng ban đa dạng, các ngoại ban do virus, và những phát ban do virus khác; SJS/TEN có thể được phân biệt về mặt lâm sàng khi các tổn thương xuất hiện và đặc trưng bởi bong da và rất đau. Trong các giai đoạn sau của TEN, chẩn đoán phân biệt bao gồm:Hội chứng sốc nhiễm độc(thường có biểu hiện đa cơ quan nổi bật hơn và các biểu hiện ở da khác nhau, chẳng hạn như phát ban ở lòng bàn tay và lòng bàn chân, tiến triển thành bong tróc trong khoảng 2 tuần)Đỏ da toàn thân(thường không có tổn thương niêm mạc và không đau)Panephigus á u(đôi khi có những biểu hiện niêm mạc khác hoặc ở bệnh nhân có bằng chứng ung thư)Ở trẻ em, TEN ít gặp hơn và phải được phân biệt vớihội chứng da có vảy do tụ cầu. Đặc điểm của hội chứng bỏng da do tụ cầu thường bao gồm không có màng nhầy, không có các yếu tố nguy cơ đối với TEN (ví dụ: tiền sử dùng thuốc) và nghi ngờ lâm sàng về nhiễm trùng tụ cầu.
+
+--- 5. Điều trị SJS và TEN ---
+
+Chăm sóc hỗ trợCyclosporineCó thể là corticosteroid, liệu pháp huyết tương tinh chế, globulin miễn dịch đường tĩnh mạch (IVIG), hoặc thuốc ức chế yếu tố hoại tử khối u (TNF)-alphaĐiều trị thành công nhất khi hội chứng Stevens-Johnson và hoại tử biểu bì nhiễm độc (SJS/TEN) được phát hiện sớm và điều trị tại khoa da liễu hoặc đơn vị chăm sóc đặc biệt dành cho bệnh nhân nội trú; bệnh nặng có thể cần đượcđiều trị tại khoa bỏng(1).Khám mắt và chăm sóc mắt theo chuyên khoa là bắt buộc đối với bệnh nhân có biểu hiện ở mắt. Các loại thuốc có khả năng gây bệnh nên được dừng lại ngay lập tức. Bệnh nhân được cách ly để giảm thiểu sự tiếp xúc với vi khuẩn và được bù dịch, chất điện giải, các sản phẩm máu và bổ sung dinh dưỡng nếu cần. Chăm sóc da bao gồm điều trị nhanh chóng các nhiễm khuẩn thứ phát và chăm sóc vết thương hàng ngày như đối với bỏng nặng. Kháng sinh dự phòng toàn thân đang gây tranh cãi và thường bị tránh sử dụng.Điều trị bằng thuốc của SJS/TEN đang gây tranh cãi. Cyclosporine (3 mg/kg đến 5 mg/kg uống một lần/ngày) ức chế tế bào CD8 và đã được chứng minh là làm giảm thời gian bệnh hoạt động (ví dụ: từ 2 ngày đến 3 ngày trong một số trường hợp) và có thể làm giảm tỷ lệ tử vong (2). Việc sử dụng corticosteroid toàn thân vẫn còn nhiều tranh cãi. Nhiều chuyên gia cho rằng corticosteroid toàn thân làm tăng tỷ lệ tử vong vì tăng tỷ lệ nhiễm trùng và nguy cơ gây nhiễm trùng huyết. Tuy nhiên, một số báo cáo cho thấy kết quả được cải thiện khi điều trị bằng corticosteroid sớm (3).Trao đổi huyết tươngcó thể loại bỏ các chất chuyển hóa của thuốc hoặc các kháng thể và có thể được xem xét.IVIG liều cao sớm: 2,7 g/kg trong 3 ngày chống lại các kháng thể và Fas ligand. Tuy nhiên, mặc dù có một số kết quả ban đầu đáng chú ý khi sử dụng IVIG liều cao cho TEN, các thử nghiệm lâm sàng tiếp theo liên quan đến các nhóm nhỏ đã báo cáo các kết quả trái ngược nhau và phân tích hồi cứu cho thấy không có sự cải thiện hoặc thậm chí tỷ lệ tử vong cao hơn dự kiến (4).Các thuốc ức chế TNF-alpha infliximab và etanercept có thể giúp giảm viêm.Thalidomidecũng đã được thử nghiệm nhưng làm tăng tỷ lệ tử vong và hiện bị chống chỉ định (5).Tài liệu tham khảo về điều trị1.Seminario-Vidal L, Kroshinsky D, Malachowski SJ, et al. Society of Dermatology Hospitalists supportive care guidelines for the management of Stevens-Johnson syndrome/toxic epidermal necrolysis in adults.J Am Acad Dermatol. 2020;82(6):1553-1567. doi:10.1016/j.jaad.2020.02.0662.Ng QX, De Deyn MLZQ, Venkatanarayanan N, Ho CYX, Yeo WS. A meta-analysis ofcyclosporinetreatment for Stevens-Johnson syndrome/toxic epidermal necrolysis.J Inflamm Res. 2018;11:135-142. Xuất bản ngày 28 tháng 3 năm 2018. doi:10.2147/JIR.S1609643.Zimmermann S, Sekula P, Venhoff M, et al. Systemic Immunomodulating Therapies for Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis: A Systematic Review and Meta-analysis.JAMA Dermatol. 2017;153(6):514-522. doi:10.1001/jamadermatol.2016.56684.Kirchhof MG, Miliszewski MA, Sikora S, et al. Retrospective review of Stevens-Johnson syndrome/toxic epidermal necrolysis treatment comparing intravenous immunoglobulin withcyclosporine.J Am Acad Dermatol. 2014;71(5):941–947. doi:10.1016/j.jaad.2014.07.0165.Wolkenstein P, Latarjet J, Roujeau JC, et al. Randomised comparison ofthalidomideversus placebo in toxic epidermal necrolysis.Lancet. 1998;352(9140):1586-1589. doi:10.1016/S0140-6736(98)02197-7
+
+--- 6. Tiên lượng về SJS và TEN ---
+
+Hoại tử thượng bì nhiễm độc nặng cũng tương tự như bị bỏng rộng; tình trạng nặng, có thể không ăn được hoặc không mở mắt được, và có rối loạn nước và điện giải. Nguy cơ bị nhiễm trùng cao, suy đa tạng, và tử vong.Tỷ lệ tử vong có thể cao tới 25% đến 35% ở người lớn nhưng có xu hướng thấp hơn ở trẻ em và nếu được điều trị sớm (1).Khi có điều trị sớm, tỷ lệ sống sót của TEN đạt tới 90%.Thang điểm mức độ nặng của bệnh đối với ly hoại tử biểu bì nhiễm độc(SCORTEN) chấm điểm một cách có hệ thống 7 yếu tố nguy cơ độc lập trong vòng 24 giờ đầu tiên kể từ khi đến bệnh viện để xác định tỷ lệ tử vong cho một bệnh nhân cụ thể.BảngMức độ nghiêm trọng của bệnh tật đối với hoại tử thượng bì nhiễm độc (SCORTEN)Mức độ nghiêm trọng của bệnh tật đối với hoại tử thượng bì nhiễm độc (SCORTEN)Yếu tố nguy cơ*Điểm01Tuổi<40 năm≥40 nămCó ung thưKhôngCóNhịp tim (nhịp/phút)<120≥120Nitơ ure huyết≤28 mg/dL (10 mmol/L)>28 mg/dL (10 mmol/L)Diện tích da bị tách rời hoặc lỏng lẻo<10%≥10%Bicarbonate huyết thành≥ 20 mEq/L (≥ 20 mmol/L)<20 mEq/L (< 20 mmol/L)Glucose huyết thanh≤250 mg/dL (≤ 13,88 mmol/L)>250 mg/dL (> 13,88 mmol/L)* Càng nhiều yếu tố nguy cơ cho thấy điểm số càng cao và tỷ lệ tử vong (%) càng cao, như sau:0–1=3,2% (CI: 0,1 đến 16,7)2=12,1% (CI: 5,4 đến 22,5)3=35,3% (CI: 19,8 đến 53,5)4=58,3% (CI: 36,6 đến 77,9)≥5=>90% (CI: 55,5 đến 99,8)CI=khoảng tin cậy.Dữ liệu từBastuji-Garin S, Fouchard N, Bertocchi M, et al: SCORTEN: Điểm số nghiêm trọng về bệnh tật đối với hoại tử thượng bì nhiễm độc.J Invest Dermatol115:149–153, 2000. doi: 10.1046/j.1523-1747.2000.00061.x* Càng nhiều yếu tố nguy cơ cho thấy điểm số càng cao và tỷ lệ tử vong (%) càng cao, như sau:0–1=3,2% (CI: 0,1 đến 16,7)2=12,1% (CI: 5,4 đến 22,5)3=35,3% (CI: 19,8 đến 53,5)4=58,3% (CI: 36,6 đến 77,9)≥5=>90% (CI: 55,5 đến 99,8)CI=khoảng tin cậy.Dữ liệu từBastuji-Garin S, Fouchard N, Bertocchi M, et al: SCORTEN: Điểm số nghiêm trọng về bệnh tật đối với hoại tử thượng bì nhiễm độc.J Invest Dermatol115:149–153, 2000. doi: 10.1046/j.1523-1747.2000.00061.xTài liệu tham khảo về tiên lượng bệnh1.Del Pozzo-Magaña BR, Lazo-Langner A. Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in Children: A Literature Review of Current Treatments.EMJ Dermatol. 2016;4[1]:83-89. doi:10.33590/emjdermatol/10314211
+
+--- 7. Những điểm chính ---
+
+Thuốc gây ra hầu hết các trường hợp mắc hội chứng Stevens-Johnson (SJS) và ly hoại tử biểu bì nhiễm độc (TEN), nhưng nhiễm trùng, tiêm chủng và bệnh mảnh ghép chống lại vật chủ cũng là những nguyên nhân tiềm ẩn.Xác nhận chẩn đoán bằng sinh thiết (biểu hiện hoại tử thượng bì) nếu các đặc điểm lâm sàng đặc trưng (ví dụ, tổn thương hình bia bắn tiến triển thành bọng nước, tổn thương ở mắt và niêm mạc, dấu hiệu Nikolsky, bong tróc mảng da) không thể đưa ra kết luận.Điều trị sớm làm giảm tỷ lệ tử vong.Trừ các trường hợp nhẹ, điều trị SJS/TEN trong một đơn vị bỏng và chăm sóc hỗ trợ chuyên sâu.Tham khảo ý kiến nhãn khoa nếu có tổn thương mắt.Xem xét cyclosporine và có thể là liệu pháp huyết tương tinh chế cho các trường hợp nặng.

@@ -1,0 +1,169 @@
+TIÊU ĐỀ: Chụp X-quang thường quy
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-nguyên-lý-cơ-bản-trong-chẩn-đoán-hình-ảnh/chụp-x-quang-thường-quy
+================================================================================
+
+NỘI DUNG:
+
+Chụp X-quang thường quy
+
+Theo
+
+Mustafa A. Mafraji
+
+,
+
+MD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2023
+
+v1125112_vi
+
+Ứng dụng của chụp X-quang thường quy
+
+|
+
+Các biến thể của chụp X-quang thường
+
+|
+
+Nhược điểm của chụp X-quang thường
+
+|
+
+Chụp X-quang thường sử dụng tia X; thuật ngữ "chụp X-quang thường" đôi khi được sử dụng để phân biệt kỹ thuật chụp X-quang chỉ sử dụng tia X với sử dụng kết hợp tia X cùng các kỹ thuật khác (ví dụ CT).
+
+Trong chụp X-quang thường, tia X được tạo ra và truyền qua bệnh nhân tới phim, hoặc bộ phận dò bức xạ, từ đó tạo ra hình ảnh. Các mô mềm sẽ gây suy giảm photon của tia X ở các mức độ khác nhau, sự khác biệt này phụ thuộc vào mật độ mô: các mô có đậm độ càng cao, ảnh hiện lên càng trắng (mờ). Các mức đậm độ, từ cao nhất lên thấp nhất, lần lượt là: kim loại (trắng, mờ), vỏ xương (ít trắng hơn), cơ và dịch (xám), mô mỡ (màu xám đậm), không khí hoặc hơi (đen, hoặc sáng).
+
+Ứng dụng của chụp X-quang thường quy
+
+Chụp X-quang là phương pháp chẩn đoán hình ảnh phổ biến nhất. Thông thường, nó là phương pháp chẩn đoán hình ảnh đầu tiên được chỉ định để đánh giá tình trạng ở các chi, ngực, và đôi khi là cột sống và bụng. Đây là những vùng chứa các cấu trúc quan trọng, chúng có đậm độ khác biệt với những mô lân cận. Chụp X-quang là chỉ định hàng đầu trong những trường hợp sau:
+
+Gãy xương:
+
+Xương được hiển thị màu trắng rất rõ, bởi vùng lân cận nó là mô mềm có màu xám.
+
+Viêm phổi:
+
+Dịch viêm trong phổi được quan sát khá rõ, vì nó tương phản với phần khí sáng hơn ở vùng lân cận.
+
+Tắc ruột:
+
+Dễ dàng quan sát thấy những đoạn ruột giãn to, chứa nhiều khí bởi xung quanh là những mô mềm có màu xám.
+
+X-quang cổ tay trái
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+X-quang ngực
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+Các biến thể của chụp X-quang thường
+
+Chụp cản quang
+
+Khi mật độ của các mô lân cận tương tự nhau,
+
+chất tương phản cản quang
+
+thường được thêm vào một mô hoặc cấu trúc để phân biệt nó với môi trường xung quanh. Người ta thường sử dụng chất cản quang trong chụp X-quang cấu trúc mạch máu, hoặc với đường tiêu hóa, đường mật và đường niệu. Có thể bơm khí gây giãn đường tiêu hóa thấp và khiến nó hiển thị rõ trên phim chụp.
+
+Các kiểm tra hình ảnh khác (ví dụ,
+
+CT
+
+,
+
+MRI
+
+) đã thay thế phần lớn các nghiên cứu có chất cản quang vì hình ảnh chụp cắt lớp của các phương pháp này giúp xác định vị trí bất thường về giải phẫu tốt hơn. Các thủ thuật nội soi đã thay thế phần lớn các phương pháp chụp barium trong chụp thực quản, dạ dày, và đường tiêu hóa trên.
+
+Chiếu Xquang dưới màn huỳnh quang
+
+Kỹ thuật này sử dụng một chùm tia X liên tục, từ đó tạo ra hình ảnh của những cấu trúc hay vật thể chuyển động tại thời điểm chụp. Nội soi huỳnh quang thường được sử dụng
+
+Cùng thuốc cản quang (đường uống, hoặc đường thông tim)
+
+Trong các thủ thuật nội khoa để dẫn hướng đặt dây dẫn tim, ống thông hoặc kim (ví dụ: trong kiểm tra điện sinh lý hoặc can thiệp mạch vành qua da)
+
+Chiếu Xquang dưới màn huỳnh quang cũng được sử dụng để nhận dạng chuyển động của cơ hoành, xương và các khớp (ví dụ như đánh giá tính ổn định của các tổn thương thuộc hệ cơ xương khớp).
+
+Nhược điểm của chụp X-quang thường
+
+Độ chính xác của chẩn đoán bị giới hạn trong nhiều tình huống. Các phương tiện chẩn đoán hình ảnh khác có nhiều lợi thế hơn, ví dụ như nhìn rõ hơn, an toàn hơn hoặc nhanh hơn.
+
+Các chất cản quang đường ruột như bari và Gastgrafin (một chất cản quang đường uống có i-ốt), nếu được sử dụng, sẽ có những bất lợi (xem
+
+Nhược điểm của CT
+
+) và
+
+thuốc cản quang qua đường tĩnh mạch có những nguy cơ
+
+.
+
+Nội soi huỳnh quang có thể gây phơi nhiễm bức xạ liều cao (xem
+
+Nguy cơ của Tia xạ trong Y khoa
+
+).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Ứng dụng của chụp X-quang thường quy ---
+
+Chụp X-quang là phương pháp chẩn đoán hình ảnh phổ biến nhất. Thông thường, nó là phương pháp chẩn đoán hình ảnh đầu tiên được chỉ định để đánh giá tình trạng ở các chi, ngực, và đôi khi là cột sống và bụng. Đây là những vùng chứa các cấu trúc quan trọng, chúng có đậm độ khác biệt với những mô lân cận. Chụp X-quang là chỉ định hàng đầu trong những trường hợp sau:Gãy xương:Xương được hiển thị màu trắng rất rõ, bởi vùng lân cận nó là mô mềm có màu xám.Viêm phổi:Dịch viêm trong phổi được quan sát khá rõ, vì nó tương phản với phần khí sáng hơn ở vùng lân cận.Tắc ruột:Dễ dàng quan sát thấy những đoạn ruột giãn to, chứa nhiều khí bởi xung quanh là những mô mềm có màu xám.X-quang cổ tay tráiHình ảnhHình ảnh do bác sĩ Hakan Ilaslan cung cấp.X-quang ngựcHình ảnhHình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+--- 2. Các biến thể của chụp X-quang thường ---
+
+Chụp cản quangKhi mật độ của các mô lân cận tương tự nhau,chất tương phản cản quangthường được thêm vào một mô hoặc cấu trúc để phân biệt nó với môi trường xung quanh. Người ta thường sử dụng chất cản quang trong chụp X-quang cấu trúc mạch máu, hoặc với đường tiêu hóa, đường mật và đường niệu. Có thể bơm khí gây giãn đường tiêu hóa thấp và khiến nó hiển thị rõ trên phim chụp.Các kiểm tra hình ảnh khác (ví dụ,CT,MRI) đã thay thế phần lớn các nghiên cứu có chất cản quang vì hình ảnh chụp cắt lớp của các phương pháp này giúp xác định vị trí bất thường về giải phẫu tốt hơn. Các thủ thuật nội soi đã thay thế phần lớn các phương pháp chụp barium trong chụp thực quản, dạ dày, và đường tiêu hóa trên.Chiếu Xquang dưới màn huỳnh quangKỹ thuật này sử dụng một chùm tia X liên tục, từ đó tạo ra hình ảnh của những cấu trúc hay vật thể chuyển động tại thời điểm chụp. Nội soi huỳnh quang thường được sử dụngCùng thuốc cản quang (đường uống, hoặc đường thông tim)Trong các thủ thuật nội khoa để dẫn hướng đặt dây dẫn tim, ống thông hoặc kim (ví dụ: trong kiểm tra điện sinh lý hoặc can thiệp mạch vành qua da)Chiếu Xquang dưới màn huỳnh quang cũng được sử dụng để nhận dạng chuyển động của cơ hoành, xương và các khớp (ví dụ như đánh giá tính ổn định của các tổn thương thuộc hệ cơ xương khớp).
+
+--- 3. Nhược điểm của chụp X-quang thường ---
+
+Độ chính xác của chẩn đoán bị giới hạn trong nhiều tình huống. Các phương tiện chẩn đoán hình ảnh khác có nhiều lợi thế hơn, ví dụ như nhìn rõ hơn, an toàn hơn hoặc nhanh hơn.Các chất cản quang đường ruột như bari và Gastgrafin (một chất cản quang đường uống có i-ốt), nếu được sử dụng, sẽ có những bất lợi (xemNhược điểm của CT) vàthuốc cản quang qua đường tĩnh mạch có những nguy cơ.Nội soi huỳnh quang có thể gây phơi nhiễm bức xạ liều cao (xemNguy cơ của Tia xạ trong Y khoa).

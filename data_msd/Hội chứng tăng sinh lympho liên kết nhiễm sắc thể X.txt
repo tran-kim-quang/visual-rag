@@ -1,0 +1,241 @@
+TIÊU ĐỀ: Hội chứng tăng sinh lympho liên kết nhiễm sắc thể X
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/rối-loạn-miễn-dịch/hội-chứng-tăng-sinh-lympho-liên-kết-nhiễm-sắc-thể-x
+================================================================================
+
+NỘI DUNG:
+
+Hội chứng tăng sinh lympho liên kết nhiễm sắc thể X
+
+(Hội chứng Duncan)
+
+Theo
+
+James Fernandez
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v994818_vi
+
+Hội chứng tăng sinh lympho liên kết nhiễm sắc thể X là một rối loạn suy giảm miễn dịch do khiếm khuyết tế bào T và tế bào tiêu diệt tự nhiên và được đặc trưng bởi đáp ứng bất thường đối với nhiễm vi rút Epstein-Barr, dẫn đến suy gan, suy giảm miễn dịch, u lympho, bệnh tăng sinh lympho gây tử vong hoặc xương bất sản tủy. Chẩn đoán được xác nhận bằng xét nghiệm di truyền. Phương pháp điều trị là ghép tế bào gốc tạo máu.
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+(Xem thêm
+
+Tổng quan các rối loạn về miễn dịch
+
+và
+
+Cách tiếp cận với bệnh nhân có rối loạn miễn dịch
+
+.)
+
+Hội chứng tăng sinh lympho liên kết nhiễm sắc thể X (XLP) là một
+
+rối loạn suy giảm miễn dịch tiên phát
+
+có liên quan đến
+
+thiếu tế bào miễn dịch
+
+. Đó là do đột biến gen trên nhiễm sắc thể X. Đây là một rối loạn lặn và do đó chỉ biểu hiện ở nam giới.
+
+Loại XLP 1
+
+là loại phổ biến nhất (khoảng 60% số trường hợp). Bệnh gây ra bởi một đột biến trong gen mã hóa protein phân tử kích hoạt tín hiệu tế bào lympho (SLAM) (SAP, còn được gọi là protein miền SH2 1A [SH2D1A] hoặc DSHP). Nếu không có SAP, các tế bào lympho tăng sinh không kiểm soát đáp ứng với sự
+
+nhiễm vi-rút Epstein-Barr (EBV)
+
+, và các tế bào diệt tự nhiên (NK) không hoạt động.
+
+Loại
+
+XLP loại 2
+
+có lâm sàng tương tự như loại 1 và có khuynh hướng
+
+thực bào máu
+
+, một rối loạn không phổ biến gây ra suy giảm miễn dịch ở trẻ sơ sinh và trẻ nhỏ. XLP loại 2 là do đột biến ở gen mã hóa protein ức chế cơ chế gây chết tế bào theo chương trình liên kết nhiễm sắc thể X (XIAP).
+
+Các triệu chứng và dấu hiệu của hội chứng tăng sinh lympho liên kết nhiễm sắc thể X
+
+Hội chứng tăng sinh lympho liên kết nhiễm sắc thể X thường không có triệu chứng cho đến khi nhiễm EBV. Sau đó, hầu hết bệnh nhân sẽ bị bệnh bạch cầu đơn nhân nhiễm trùng cấp tính hoặc tử vong kèm theo suy gan (do tế bào T gây độc tế bào phản ứng với tế bào B hoặc các tế bào mô khác bị nhiễm EBV).
+
+Những người sống sót của nhiễm trùng ban đầu phát triển các khối
+
+u lymphô tế bào B
+
+,
+
+thiếu máu do suy tủy xương
+
+, giảm tiểu cầu (tương tự như trong
+
+biến chứng suy giảm miễn dịch đa dạng phổ biến
+
+), gan lách to, hoặc cả hai.
+
+Chẩn đoán hội chứng tăng sinh lympho liên kết nhiễm sắc thể X
+
+Xét nghiệm di truyền
+
+Chẩn đoán hội chứng tăng sinh lympho liên kết nhiễm sắc thể X nên được xem xét ở nam thanh niên bị nhiễm EBV nặng, thực bào máu, tiền sử gia đình gợi ý hoặc các biểu hiện thông thường khác.
+
+Xét nghiệm di truyền là xét nghiệm tiêu chuẩn để xác nhận chẩn đoán (trước và sau khi nhiễm EBV và các triệu chứng phát sinh) cũng như trạng thái mang mầm bệnh. Tuy nhiên, xét nghiệm di truyền có thể mất vài tuần để hoàn thành, vì vậy, xét nghiệm khác được thực hiện nếu chẩn đoán phải được thực hiện sớm hơn (ví dụ: đo tế bào dòng chảy để đánh giá biểu hiện protein SH2D1A).
+
+Những phát hiện gợi ý bao gồm
+
+Giảm phản ứng kháng thể đối với kháng nguyên (đặc biệt đối với kháng nguyên nhân EBV)
+
+Phản ứng tăng sinh tế bào T với các mitogens suy giảm
+
+Giảm chức năng tế bào NK
+
+Tỷ số CD4: CD8 đảo ngược
+
+Những phát hiện này là điển hình trước và sau khi nhiễm vi-rút Epstein-Barr. Sinh thiết tủy xương có thể giúp xác nhận thực bào máu.
+
+Ở những người sống sót, xét nghiệm và chẩn đoán hình ảnh được thực hiện hàng năm để kiểm tra bệnh lymphoma và thiếu máu.
+
+Thử nghiệm di truyền được thực hiện ở người thân khi một trường hợp hoặc người mang được xác định trong một gia đình. Kiểm tra trước khi sinh được khuyến cáo cho những người nếu một đột biến gây ra XLP đã được xác định trong gia đình.
+
+Điều trị hội chứng tăng sinh lympho liên kết nhiễm sắc thể X
+
+Ghép tế bào gốc tạo máu
+
+Điều trị hội chứng tăng sinh lympho liên kết nhiễm sắc thể X
+
+ghép tế bào gốc tạo máu
+
+. Khoảng 75% số bệnh nhân tử vong trước 10 tuổi và tất cả đều tử vong trước 40 tuổi nếu không được
+
+ghép tế bào gốc tạo máu
+
+. Khoảng 80% số bệnh nhân được ghép tạng sẽ sống sót. Cấy ghép có tác dụng chữa bệnh nếu được thực hiện trước khi nhiễm vi rút Epstein-Barr hoặc các bệnh lý khác trở nên không thể phục hồi (
+
+1
+
+,
+
+2
+
+).
+
+Rituximab có thể giúp ngăn ngừa nhiễm trùng EBV trầm trọng trước khi cấy ghép.
+
+Chỉnh sửa gen và liệu pháp gen đã cho thấy kết quả đầy hứa hẹn sớm cho bệnh nhân XLP (
+
+3
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Coffey AJ, Brooksbank RA, Brandau O, et al
+
+: Host response to EBV infection in X-linked lymphoproliferative disease results from mutations in an SH2-domain encoding gene.
+
+Nat Genet
+
+20(2):129–135, 1998. doi:10.1038/2424
+
+2.
+
+Booth C, Gilmour KC, Veys P, et al
+
+: X-linked lymphoproliferative disease due to SAP/SH2D1A deficiency: a multicenter study on the manifestations, management and outcome of the disease [published correction appears in
+
+Blood
+
+Ngày 3 tháng 11 năm 2011;118(18):5060. Pachlopnick-Schmid, Jana [corrected to Pachlopnik Schmid, Jana]].
+
+Blood
+
+117(1):53–62, 2011. doi:10.1182/blood-2010-06-284935
+
+3.
+
+Houghton BC, Panchal N, Haas SA, et al
+
+: Genome Editing With TALEN, CRISPR-Cas9 and CRISPR-Cas12a in Combination With AAV6 Homology Donor Restores T Cell Function for XLP.
+
+Front Genome Ed
+
+4:828489, 2022. doi:10.3389/fgeed.2022.828489
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Hội chứng Duncan) ---
+
+TheoJames Fernandez,MD, PhD,Cleveland Clinic Lerner College of Medicine at Case Western Reserve UniversityXem xét bởiBrian F. Mandell,MD, PhD,Cleveland Clinic Lerner College of Medicine at Case Western Reserve UniversityĐã xem xét/Đã chỉnh sửađã sửa đổiThg 10 2024v994818_vi
+
+--- 2. Các triệu chứng và dấu hiệu của hội chứng tăng sinh lympho liên kết nhiễm sắc thể X ---
+
+Hội chứng tăng sinh lympho liên kết nhiễm sắc thể X thường không có triệu chứng cho đến khi nhiễm EBV. Sau đó, hầu hết bệnh nhân sẽ bị bệnh bạch cầu đơn nhân nhiễm trùng cấp tính hoặc tử vong kèm theo suy gan (do tế bào T gây độc tế bào phản ứng với tế bào B hoặc các tế bào mô khác bị nhiễm EBV).Những người sống sót của nhiễm trùng ban đầu phát triển các khốiu lymphô tế bào B,thiếu máu do suy tủy xương, giảm tiểu cầu (tương tự như trongbiến chứng suy giảm miễn dịch đa dạng phổ biến), gan lách to, hoặc cả hai.
+
+--- 3. Chẩn đoán hội chứng tăng sinh lympho liên kết nhiễm sắc thể X ---
+
+Xét nghiệm di truyềnChẩn đoán hội chứng tăng sinh lympho liên kết nhiễm sắc thể X nên được xem xét ở nam thanh niên bị nhiễm EBV nặng, thực bào máu, tiền sử gia đình gợi ý hoặc các biểu hiện thông thường khác.Xét nghiệm di truyền là xét nghiệm tiêu chuẩn để xác nhận chẩn đoán (trước và sau khi nhiễm EBV và các triệu chứng phát sinh) cũng như trạng thái mang mầm bệnh. Tuy nhiên, xét nghiệm di truyền có thể mất vài tuần để hoàn thành, vì vậy, xét nghiệm khác được thực hiện nếu chẩn đoán phải được thực hiện sớm hơn (ví dụ: đo tế bào dòng chảy để đánh giá biểu hiện protein SH2D1A).Những phát hiện gợi ý bao gồmGiảm phản ứng kháng thể đối với kháng nguyên (đặc biệt đối với kháng nguyên nhân EBV)Phản ứng tăng sinh tế bào T với các mitogens suy giảmGiảm chức năng tế bào NKTỷ số CD4: CD8 đảo ngượcNhững phát hiện này là điển hình trước và sau khi nhiễm vi-rút Epstein-Barr. Sinh thiết tủy xương có thể giúp xác nhận thực bào máu.Ở những người sống sót, xét nghiệm và chẩn đoán hình ảnh được thực hiện hàng năm để kiểm tra bệnh lymphoma và thiếu máu.Thử nghiệm di truyền được thực hiện ở người thân khi một trường hợp hoặc người mang được xác định trong một gia đình. Kiểm tra trước khi sinh được khuyến cáo cho những người nếu một đột biến gây ra XLP đã được xác định trong gia đình.
+
+--- 4. Điều trị hội chứng tăng sinh lympho liên kết nhiễm sắc thể X ---
+
+Ghép tế bào gốc tạo máuĐiều trị hội chứng tăng sinh lympho liên kết nhiễm sắc thể Xghép tế bào gốc tạo máu. Khoảng 75% số bệnh nhân tử vong trước 10 tuổi và tất cả đều tử vong trước 40 tuổi nếu không đượcghép tế bào gốc tạo máu. Khoảng 80% số bệnh nhân được ghép tạng sẽ sống sót. Cấy ghép có tác dụng chữa bệnh nếu được thực hiện trước khi nhiễm vi rút Epstein-Barr hoặc các bệnh lý khác trở nên không thể phục hồi (1,2).Rituximab có thể giúp ngăn ngừa nhiễm trùng EBV trầm trọng trước khi cấy ghép.Chỉnh sửa gen và liệu pháp gen đã cho thấy kết quả đầy hứa hẹn sớm cho bệnh nhân XLP (3).Tài liệu tham khảo về điều trị1.Coffey AJ, Brooksbank RA, Brandau O, et al: Host response to EBV infection in X-linked lymphoproliferative disease results from mutations in an SH2-domain encoding gene.Nat Genet20(2):129–135, 1998. doi:10.1038/24242.Booth C, Gilmour KC, Veys P, et al: X-linked lymphoproliferative disease due to SAP/SH2D1A deficiency: a multicenter study on the manifestations, management and outcome of the disease [published correction appears inBloodNgày 3 tháng 11 năm 2011;118(18):5060. Pachlopnick-Schmid, Jana [corrected to Pachlopnik Schmid, Jana]].Blood117(1):53–62, 2011. doi:10.1182/blood-2010-06-2849353.Houghton BC, Panchal N, Haas SA, et al: Genome Editing With TALEN, CRISPR-Cas9 and CRISPR-Cas12a in Combination With AAV6 Homology Donor Restores T Cell Function for XLP.Front Genome Ed4:828489, 2022. doi:10.3389/fgeed.2022.828489

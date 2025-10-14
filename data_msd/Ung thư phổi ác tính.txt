@@ -1,0 +1,1555 @@
+TIÊU ĐỀ: Ung thư phổi ác tính
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-chức-năng-hô-hấp/các-khối-u-ở-phổi/ung-thư-phổi-ác-tính
+================================================================================
+
+NỘI DUNG:
+
+Ung thư phổi ác tính
+
+(Ung thư phổi)
+
+Theo
+
+Robert L. Keith
+
+,
+
+MD
+
+,
+
+Division of Pulmonary Sciences and Critical Care Medicine, University of
+Colorado School of Medicine
+
+Xem xét bởi
+
+Richard K. Albert
+
+,
+
+MD
+
+,
+
+Department of Medicine, University of Colorado Denver - Anschutz Medical
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2023
+
+|
+
+đã sửa đổi
+
+Thg 5 2025
+
+v923719_vi
+
+Ung thư biểu mô phổi là nguyên nhân hàng đầu gây tử vong liên quan đến ung thư ở nam giới và nữ giới trên toàn thế giới. Khoảng 85% trường hợp có liên quan đến hút thuốc lá. Các triệu chứng có thể bao gồm ho, cảm giác khó chịu ở ngực hoặc đau ngực, sụt cân và ít phổ biến hơn là ho ra máu; tuy nhiên, nhiều bệnh nhân bị bệnh di căn có hoặc không có bất kỳ triệu chứng lâm sàng nào. Chẩn đoán thường được thực hiện bằng chụp X-quang ngực hoặc CT và chẩn đoán xác định bằng sinh thiết. Tùy thuộc vào giai đoạn của bệnh, điều trị bao gồm phẫu thuật, hóa trị liệu, xạ trị, hoặc kết hợp. Trong vài thập kỷ qua, tiên lượng bệnh nhân ung thư phổi là rất kém, chỉ có 15% số bệnh nhân sống sót
+
+>
+
+5 năm kể từ khi chẩn đoán. Đối với bệnh nhân có giai đoạn IV (di căn), tỷ lệ sống sót trên 5 năm là
+
+<
+
+1%. Tuy nhiên, kết quả điều trị đã được cải thiện do xác định được một số đột biến nhất định có thể nhắm mục tiêu điều trị và tỷ lệ sống thêm sau 5 năm hiện tại là 19% (23% đối với nữ giới và 16% đối với nam giới).
+
+Căn nguyên
+
+|
+
+Phân loại
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Phân giai đoạn
+
+|
+
+Sàng lọc
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+Vào năm 2023, ước tính có khoảng 238.340 trường hợp ung thư phổi mới được chẩn đoán ở Hoa Kỳ (120.790 ở nữ giới và 117.550 ở nam giới) và 127.070 người sẽ chết vì căn bệnh này (
+
+1
+
+).
+
+Tài liệu tham khảo chung
+
+1.
+
+Siegel RL, Miller KD, Wagle NS, Jemal A
+
+: Cancer statistics, 2023.
+
+CA Cancer J Clin
+
+73(1):17-48, 2023 doi:10.3322/caac.21763
+
+Căn nguyên của ung thư biểu mô phổi
+
+Nguyên nhân quan trọng nhất gây ra ung thư phổi
+
+, chiếm khoảng 85% trường hợp, là
+
+Hút thuốc lá (
+
+1
+
+)
+
+Nguy cơ ung thư khác nhau theo tuổi, cường độ hút thuốc và thời gian hút thuốc.
+
+Nguy cơ ung thư phổi tăng lên khi kết hợp phơi nhiễm với độc tố và hút thuốc. Các yếu tố nguy cơ đã được xác nhận hoặc có thể xảy ra khác bao gồm ô nhiễm không khí, hút cần sa, tiếp xúc với khói xì gà và khói thuốc lá thụ động, và tiếp xúc với các chất gây ung thư (ví dụ: amiăng, bức xạ, radon, asen, cromat, niken, ete chloromethyl, hydrocacbon thơm đa vòng, khí mù tạt, khí thải từ lò than cốc, khói từ quá trình nấu ăn thô sơ hoặc đốt lửa sưởi ấm trong lều). Nguy cơ bị ung thư phổi liên quan đến hệ thống phân phối
+
+nicotine
+
+điện tử (ví dụ: thuốc lá điện tử) vẫn còn được xác định, mặc dù người ta cho rằng các sản phẩm của quá trình đốt cháy thuốc lá là các chất gây ung thư chính.
+
+Nguy cơ vị ung thư giảm sau khi ngừng hút thuốc, nhưng nó không bao giờ trở lại nguy cơ ở lần khám ban đầu trên những người chưa bao giờ hút thuốc. Có khoảng 15 đến 20% những người bị ung thư phổi chưa bao giờ hút thuốc hoặc hút thuốc rất ít.
+
+Tiếp xúc với radon trong nhà làm tăng nguy cơ bị ung thư phổi và là nguyên nhân thứ hai gây ung thư phổi ở Hoa Kỳ (
+
+2
+
+).
+
+Viêm mạn tính làm tăng nguy cơ mắc nhiều bệnh ung thư, bao gồm cả ung thư phổi. Ví dụ:
+
+COPD
+
+(bệnh phổi tắc nghẽn mạn tính),
+
+thiếu alpha-1 antitrypsin
+
+và
+
+xơ phổi
+
+làm tăng khả năng bị bệnh ung thư phổi. Những người có phổi bị sẹo do các bệnh phổi khác (ví dụ:
+
+bệnh lao
+
+) có nguy cơ cao hơn bị ung thư phổi. Ngoài ra, những người hiện có hút thuốc và cũng dùng thực phẩm chức năng có
+
+beta-carotene
+
+có thể tăng nguy cơ phát sinh ung thư phổi.
+
+Công cụ tính toán lâm sàng
+
+Đánh giá rủi ro ung thư phổi ở những người đang hút thuốc hiện tại và quá khứ (6 tuổi)
+
+Yếu tố di truyền
+
+Các tế bào biểu mô hô hấp đòi hỏi phải tiếp xúc kéo dài với tác nhân gây ung thư và tích tụ nhiều đột biến di truyền trước khi trở thành ung thư phổi (một hiệu ứng gọi là ung thư trường diễn).
+
+Ở một số bệnh nhân ung thư phổi, các đột biến thứ phát hoặc bổ sung ở các gen kích thích sự phát triển của tế bào (
+
+KRAS
+
+,
+
+MYC
+
+) hoặc gây ra những bất thường trong quá trình phát tín hiệu của thụ thể yếu tố tăng trưởng (
+
+EGFR
+
+, HER2)
+
+có thể góp phần vào sự tăng sinh không kiểm soát của các tế bào bất thường.
+
+Ngoài ra, đột biến ức chế gen ức chế khối u (ví dụ:
+
+TP53
+
+,
+
+APC
+
+) có thể dẫn đến ung thư. Các đột biến khác có thể gây ra tình trạng này bao gồm đột biến dung hợp
+
+EML4-ALK
+
+và các đột biến ở
+
+ROS1
+
+,
+
+BRAF
+
+và
+
+PIK3CA
+
+.
+
+Các gen là nguyên nhân gây ung thư phổi được gọi là đột biến thúc đẩy gen sinh ung thư. Mặc dù các đột biến thúc đẩy gen sinh ung thư có thể gây ra hoặc góp phần gây ung thư phổi ở những người hút thuốc, nhưng những đột biến này đặc biệt có khả năng là nguyên nhân gây ung thư phổi ở những người chưa bao giờ hút thuốc. Vào năm 2014, Hiệp hội Đột biến Ung thư phổi (LCMC) đã tìm thấy các đột biến thúc đẩy đó ở 64% trong số 733 trường hợp ung thư phổi. Nhóm này bao gồm những người hút thuốc và những người không hút thuốc (25% đột biến
+
+KRAS
+
+, 17% đột biến
+
+EGFR
+
+, 8% đột biến
+
+EML-4-ALK
+
+và 2% đột biến
+
+BRAF
+
+[
+
+3
+
+]). Nghiên cứu LCMC thứ hai đã tích lũy 904 bệnh nhân ung thư phổi giai đoạn IV có ít nhất một trong 14 gen liên quan đến ung thư đã được xét nghiệm và phát hiện ra rằng các đột biến thúc đẩy gen sinh ung thư có ở hơn một nửa số bệnh nhân bị ung thư biểu mô tuyến và các liệu pháp nhắm mục tiêu đã cải thiện thời gian sống thêm (
+
+4
+
+). Các đột biến bổ sung đang được báo cáo và các liệu pháp mới nhằm vào các đột biến thúc đẩy gen gây ung thư là một lĩnh vực đang được nghiên cứu tích cực.
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Division of Cancer Prevention and Control, Centers for Disease Control and Prevention
+
+: What Are the Risk Factors for Lung Cancer? Duyệt lại ngày 25 tháng 10 năm 2022. Truy cập ngày 24 tháng 4 năm 2023.
+
+2.
+
+U.S. Cancer Statistics Working Group
+
+: U.S. Cancer Statistics Data Visualizations Tool, based on 2021 submission data (1999-2019): U.S. Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; https://www.cdc.gov/cancer/dataviz, phát hành vào tháng Mười một năm 2022
+
+3.
+
+Kris MG, Johnson BE, Berry LD, et al
+
+: Using multiplexed assays of oncogenic drivers in lung cancers to select targeted drugs.
+
+JAMA
+
+311 (19):1998–2006, 2014. doi: 10.1001/jama.2014.3741
+
+4.
+
+Aisner DL, Sholl LM, Berry LD, et al
+
+: The Impact of Smoking and TP53 Mutations in Lung Adenocarcinoma Patients with Targetable Mutations-The Lung Cancer Mutation Consortium (LCMC2).
+
+Clin Cancer Res
+
+24(5):1038-1047, 2018 doi:10.1158/1078-0432.CCR-17-2289
+
+Phân loại ung thư biểu mô phổi
+
+Ung thư phổi được chia thành 2 loại chính:
+
+Ung thư phổi tế bào nhỏ (SCLC), khoảng 15% trường hợp
+
+Ung thư phổi không tế bào nhỏ (NSCLC), khoảng 85% trường hợp
+
+SCLC
+
+rất ác tính và hầu như luôn có ở những người hút thuốc lá. Nó đang phát triển nhanh chóng, và khoảng 80% bệnh nhân có bệnh di căn vào thời điểm chẩn đoán.
+
+Biểu hiện lâm sàng của
+
+NSCLC
+
+thay đổi và phụ thuộc vào loại mô học, nhưng khoảng 40% bệnh nhân sẽ bị bệnh di căn khỏi vùng ngực vào thời điểm chẩn đoán. Các đột biến thúc đẩy gen sinh ung thư đã được xác định chủ yếu trong ung thư biểu mô tuyến và các nỗ lực đang được thực hiện để xác định các đột biến tương tự trong ung thư biểu mô tế bào vảy (ví dụ:
+
+KRAS
+
+,
+
+EGFR
+
+,
+
+FGFR1
+
+,
+
+DDR2
+
+,
+
+PIK3CA
+
+).
+
+Các đặc điểm khác của 2 loại (ví dụ: vị trí, nguy cơ, điều trị, biến chứng) cũng khác nhau (xem bảng:
+
+Đặc điểm của ung thư phổi
+
+).
+
+Bảng
+
+Đặc điểm của Ung thư phổi
+
+Bảng
+
+Đặc điểm của Ung thư phổi
+
+Đặc điểm của Ung thư phổi
+
+Đặc điểm
+
+Tế bào nhỏ
+
+Không tế bào nhỏ
+
+Ung thư biểu mô tuyến
+
+ung thư tế bào vảy
+
+Tế bào lớn
+
+% ung thư phổi
+
+13–15%
+
+35–40%
+
+25–30%
+
+10–15%
+
+Vị trí
+
+lớp dưới niêm mạc đường thở, tế bào quanh rốn phổi
+
+hạch hoặc khối u ngoại vi
+
+Trung tâm, trong phế quản
+
+hạch hoặc khối u ngoại vi
+
+Các yếu tố nguy cơ
+
+Hút thuốc
+
+Hút thuốc (đối với 80‒85% số bệnh nhân; 15‒20% số bệnh nhân không bao giờ hút thuốc hoặc chỉ hút không đáng kể); những bệnh nhân đặc biệt là những người không bao giờ hút thuốc thường có đột biến thúc đẩy gen sinh ung thư
+
+Tiếp xúc môi trường và nghề nghiệp (chủ yếu là radon, amiăng, bức xạ, khói thuốc gián tiếp, hydrocacbon thơm đa vòng, arsenic, crômat hoặc niken)
+
+Điều trị
+
+Etoposide kết hợp với cisplatin hoặc carboplatin
+
+Đôi khi irinotecan hoặc topotecan thay vì etoposide trong bệnh giai đoạn mở rộng
+
+Liệu pháp miễn dịch trong điều trị SCLC giai đoạn lan rộng
+
+Liệu pháp xạ trị đồng thời trong bệnh giai đoạn hạn chế
+
+Phẫu thuật không đóng vai trò quan trọng trừ khi bệnh nhân có một nốt đơn độc ở phổi mà không có hạch bạch huyết rõ ràng hoặc không có di căn xa
+
+Giai đoạn I và II: Phẫu thuật có hoặc không có hóa trị tân bổ trợ hoặc hóa trị bổ trợ; nhiều thử nghiệm đang xem xét tân bổ trợ (hóa trị liệu +/- liệu pháp miễn dịch) sau đó là phẫu thuật cắt bỏ dứt điểm
+
+Giai đoạn IIIA: Lựa chọn liệu pháp tùy thuộc vào mức độ và vị trí của bệnh và có thể bao gồm: phẫu thuật kèm theo liệu pháp bổ trợ (hóa trị và/hoặc xạ trị); liệu pháp tân bổ trợ (hóa trị và/hoặc xạ trị) sau đó là phẫu thuật nếu có đáp ứng; hóa trị cộng với xạ trị không phẫu thuật; liệu pháp miễn dịch thường được thêm vào các phác đồ này
+
+Giai đoạn IIIB: Liệu pháp phóng xạ và/hoặc hóa trị liệu; liệu pháp miễn dịch
+
+Giai đoạn IV: Liệu pháp nhắm mục tiêu theo hệ thống, hóa trị liệu hoặc liệu pháp miễn dịch có hoặc không có liệu pháp xạ trị giảm nhẹ
+
+Các yếu tố ảnh hưởng đến phương thức điều trị và trình tự điều trị bao gồm mô học (ung thư biểu mô tuyến so với ung thư biểu mô vảy so với ung thư khác), sự hiện diện của các đột biến thúc đẩy, biểu hiện PD-L1 (đối với liệu pháp miễn dịch) và các yếu tố cụ thể của bệnh nhân (tuổi, bệnh đồng mắc, sở thích điều trị)
+
+NSCLC tiến triển thường cần phải sử dụng tuần tự nhiều liệu pháp toàn thân (hóa trị, xạ trị, liệu pháp miễn dịch, liệu pháp nhắm đích (sinh học) để cải thiện thời gian sống thêm chung
+
+Các biến chứng
+
+Hội chứng SVC
+
+Hội chứng cận u
+
+Ho máu, tắc nghẽn đường thở, viêm phổi, viêm màng phổi, đau nhức vùng phổi, hội chứng SVC, khối u Pancoast (gây đau vai hoặc cánh tay), khàn tiếng do chèn ép dây thần kinh thanh quản, do di căn gan, các triệu chứng thần kinh do di căn não, gãy xương bệnh lý do di căn xương, vàng da do di căn gan
+
+Tỷ lệ sống thêm 5 năm khi được điều trị
+
+Hạn chế: 20%
+
+Lan rộng:
+
+<
+
+1%
+
+Giai đoạn I: 68–92%
+
+Giai đoạn II: 53–65%
+
+Giai đoạn III: 12–41%
+
+Giai đoạn IV:
+
+0–10
+
+%
+
+Dữ liệu về tỷ lệ sống thêm của bệnh ung thư phổi không tế bào nhỏ có nguồn gốc từ
+
+Goldstraw P, Chansky K, Crowley J, et al
+
+: The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM Classification for Lung Cancer.
+
+J Thorac Oncol
+
+11(1):39-51, 2016 doi:10.1016/j.jtho.2015.09.009
+
+NSCLC = ung thư phổi không tế bào nhỏ; PD-L1 = phối tử gắn kích hoạt chết tế bào theo chương trình 1; SCLC = ung thư phổi tế bào nhỏ; SVC = tĩnh mạch chủ trên.
+
+Dữ liệu về tỷ lệ sống thêm của bệnh ung thư phổi không tế bào nhỏ có nguồn gốc từ
+
+Goldstraw P, Chansky K, Crowley J, et al
+
+: The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM Classification for Lung Cancer.
+
+J Thorac Oncol
+
+11(1):39-51, 2016 doi:10.1016/j.jtho.2015.09.009
+
+NSCLC = ung thư phổi không tế bào nhỏ; PD-L1 = phối tử gắn kích hoạt chết tế bào theo chương trình 1; SCLC = ung thư phổi tế bào nhỏ; SVC = tĩnh mạch chủ trên.
+
+Các triệu chứng và dấu hiệu của ung thư biểu mô phổi
+
+Khoảng 25% số trường hợp ung thư phổi không có triệu chứng và được phát hiện tình cờ khi chụp ngực vì một lý do khác. Các triệu chứng và dấu hiệu có thể là kết quả của sự tiến triển của khối u tại chỗ, lan tại vùng, hoặc các di căn xa.
+
+Các hội chứng cận ung thư
+
+và các triệu chứng toàn thân có thể xảy ra ở bất kỳ giai đoạn nào của bệnh. Mặc dù các triệu chứng không cụ thể đối với việc phân loại hoặc mô học của ung thư, một số biến chứng nhất định có thể xảy ra với nhiều loại khác nhau (xem bảng
+
+Đặc điểm của ung thư phổi
+
+).
+
+Khối u tại chỗ
+
+Khối u tại chỗ có thể gây ho. Ít phổ biến hơn, khối u tại chỗ gây khó thở do tắc nghẽn đường thở, xẹp phổi sau tắc nghẽn hoặc viêm phổi và tổn thương nhu mô do sự lan rộng của hạch bạch huyết. Sốt có thể xảy ra với viêm phổi sau tắc nghẽn. Có tới một nửa bệnh nhân báo cáo đau ngực mơ hồ hoặc đau ngực khu trú. Chứng ho máu ít phổ biến hơn, và mất ít máu nhất, ngoại trừ những trường hợp hiếm khi khối u ăn mòn vào thành động mạch chủ gây ra xuất huyết trầm trọng và thường chết do ngạt thở hoặc mất máu quá nhiều. Ho ra máu là triệu chứng xuất hiện ở khoảng 10% số bệnh nhân; 20% số bệnh nhân có triệu chứng này trong quá trình mắc bệnh.
+
+Lan tại vùng
+
+Tình trạng lan rộng theo vùng của khối u có thể gây đau ngực kiểu màng phổi hoặc khó thở do
+
+tràn dịch màng phổi
+
+phát triển, khàn tiếng do khối u xâm lấn dây thần kinh thanh quản tái phát, khó thở và hạ oxy máu do liệt cơ hoành vì thương tổn dây thần kinh cơ hoành.
+
+Hội chứng chèn ép tĩnh mạch chủ trên (SVC)
+
+kết quả từ sự chèn ép hoặc xâm lấn của SVC và có thể gây ra nhức đầu hoặc cảm giác căng đầu, sưng mặt hoặc phần trên mũi, không thở được khi nằm ngửa, tĩnh mạch nổi ở, mặt, và thân trên; đỏ mặt và thân trên (do ứ máu).
+
+Hội chứng Pancoast
+
+xảy ra khi các khối u ở vùng đỉnh, thường là NSCLC (khối u Pancoast), xâm nhập vào đám rối cánh tay, màng phổi, hoặc xương sườn, gây đau vai, đau đầu và suy nhược, hoặc teo bàn tay cùng bên. Hội chứng Pancoast cũng có thể bao gồm hội chứng Horner.
+
+Hội chứng Horner
+
+xảy ra khi có tổn thương chuỗi giao cảm cạnh cột sống hoặc hạch hình sao ở cổ, gây ra sa mi, co đồng tử và giảm tiết mồ hôi.
+
+Tình trạng lan rộng của khối u đến màng ngoài tim có thể không có triệu chứng hoặc dẫn đến
+
+viêm màng ngoài tim co thắt
+
+hoặc
+
+chèn ép tim
+
+.
+
+Trong một số ít trường hợp, khối u chèn ép thực quản dẫn đến
+
+khó nuốt
+
+.
+
+Hội chứng chèn ép tĩnh mạch chủ trên
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Di căn
+
+Di căn gây ra các triệu chứng thay đổi theo vị trí. Di căn có thể lan rộng
+
+Gan, gây đau, buồn nôn, nôn sớm, và cuối cùng là suy gan
+
+Não, gây ra những thay đổi về hành vi, rối loạn, mất ngôn ngữ, động kinh, tê liệt hoặc liệt, buồn nôn và nôn ói, và cuối cùng là hôn mê và tử vong
+
+Xương, gây đau dữ dội và gãy xương bệnh lý
+
+Tuyến thượng thận, hiếm khi gây ra tình trạng suy thượng thận
+
+Hội chứng cận u
+
+Hội chứng cận u
+
+là các triệu chứng xảy ra ở những vị trí xa khối u hoặc di căn của nó. Hội chứng cận u thường gặp ở bệnh nhân ung thư phổi bao gồm
+
+Tăng canxi máu
+
+(trên bệnh nhân ung thư biểu mô tế bào vảy, là kết quả của khối u sản sinh ra protein liên quan đến
+
+hormone của tuyến cận giáp
+
+, hoặc do các khối di căn xương lan rộng gây sản sinh các yếu tố hoạt hóa tình trạng hủy cốt bào)
+
+Hội chứng tiết ra hormone lợi niệu không thích hợp (SIADH)
+
+Phì đại đầu ngón có hoặc không có kèm theo bệnh xương khớp phì đại liên quan đến u phổi
+
+Tình trạng tăng đông di chuyển ở
+
+viêm tắc tĩnh mạch nông
+
+(hội chứng Trousseau)
+
+Các triệu chứng giống bệnh nhược cơ (
+
+hội chứng Eaton-Lambert
+
+)
+
+Hội chứng Cushing
+
+Nhiều
+
+hội chứng thần kinh
+
+khác
+
+Các hội chứng thần kinh khác bao gồm bệnh thần kinh, bệnh não, viêm não, bệnh thần kinh trung ương, và bệnh thần kinh. Cơ chế cho các hội chứng thần kinh cơ liên quan đến việc biểu hiện tự miễn của khối u kháng với việc sản xuất các tự kháng thể, nhưng nguyên nhân của hầu hết các hội chứng khác là không rõ.
+
+Chẩn đoán ung thư biểu mô phổi
+
+Chụp X-quang ngực
+
+Chụp CT hoặc chụp cắt lớp phát xạ positron kết hợp (PET) –CT
+
+Xét nghiệm mô bệnh học về dịch màng phổi hoặc đờm
+
+Sinh thiết xuyên thành ngực và sinh thiết lõi có dẫn hướng của nội soi phế quản hoặc qua da
+
+Đôi khi sinh thiết phổi qua phẫu thuật
+
+Chẩn đoán hình ảnh
+
+X-quang ngực
+
+thường được sử dụng đầu tiên. Nó có thể cho thấy những bất thường được xác định rõ ràng, chẳng hạn như một khối duy nhất, khối đa ổ,
+
+nốt phổi đơn độc
+
+, rốn phổi rộng, trung thất rộng, hẹp khí phế quản, xẹp phổi, thâm nhiễm nhu mô không hồi phục, tổn thương dạng hang, hoặc dày màng phổi hoặc tràn dịch màng phổi không rõ nguyên nhân. Những phát hiện mang tính gợi ý nhưng không phải là chẩn đoán ung thư phổi và cần phải theo dõi CT scan hoặc kết hợp chụp cắt lớp PET-CT và chẩn đoán xác định bằng tế bào học.
+
+Ung thư phổi nguyên phát
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Anne S. Tsao cung cấp
+
+CT
+
+cho thấy nhiều mô hình giải phẫu đặc biệt và sự xuất hiện có thể gợi ý chẩn đoán. Nếu phát hiện một tổn thương trên phim chụp X-quang thông thường có khả năng gợi ý cao về ung thư phổi (nghĩa là dựa trên các yếu tố nguy cơ như là tuổi tác, sử dụng thuốc lá, các triệu chứng), có thể thực hiện chụp PET–CT để hỗ trợ định hướng đánh giá chẩn đoán và
+
+phân giai đoạn
+
+. Nghiên cứu này kết hợp hình ảnh giải phẫu học từ CT với hình ảnh chức năng từ PET. Hình ảnh PET có thể giúp phân biệt các quá trình viêm và ác tính. Cả CT và PET-CT đều có thể giúp sinh thiết kim lõi trực tiếp của các tổn thương không thể sinh thiết qua nội soi phế quản. Những hình ảnh chụp PET này cũng có thể phát hiện bệnh di căn theo vùng hoặc di căn ở xa.
+
+Tế bào học
+
+Phương pháp dùng để lấy tế bào hoặc mô để chẩn đoán xác định phụ thuộc vào khả năng tiếp cận của mô và vị trí của tổn thương. Tế bào học của mẫu đờm hoặc mẫu dịch màng phổi là phương pháp ít xâm lấn nhất để xác nhận chẩn đoán ung thư phổi.
+
+Ở những bệnh nhân ho nhiều đờm, các mẫu bệnh phẩm đờm được lấy ra khi thức dậy có thể chứa nồng độ cao các tế bào ác tính, nhưng hiệu quả cho phương pháp này là
+
+<
+
+50% tổng thể.
+
+Dịch màng phổi là một nguồn tế bào hữu ích cho chẩn đoán; sự lan tỏa tế bào ác tính là một dấu hiệu của tiên lượng xấu và chỉ ra bệnh đang ở giai đoạn tiến triển.
+
+Nói chung, có thể giảm thiểu kết quả xét nghiệm tế bào học âm tính giả bằng cách lấy càng nhiều đờm hoặc càng nhiều dịch màng phổi càng sớm càng tốt trong ngày (đối với mẫu đờm) và gửi mẫu ngay đến phòng xét nghiệm bệnh lý để làm giảm thiểu sự chậm trễ trong quá trình xử lý vì sự chậm trễ đó dẫn đến phân hủy tế bào.
+
+Nghiên cứu phân tử (di truyền) có thể được thực hiện trên các viên nén tế bào khối u được nhồi từ dầu dịch màng phổi nếu dịch được tách ra và viên tế bào được bảo quản đúng thời gian.
+
+Các phương pháp can thiệp
+
+Sinh thiết qua da
+
+là thủ tục xâm lấn tối thiểu tiếp theo. Nó hữu ích hơn cho các vị trí di căn (ví dụ, hạch bạch huyết ngoại biên hoặc các hạch bạch huyết ngoại biên, màng phổi, gan, tuyến thượng thận) hơn so với tổn thương phổi. Nguy cơ bao gồm 20% đến 25% khả năng bị
+
+tràn khí màng phổi
+
+(chủ yếu là trên bệnh nhân bị khí phế thũng đáng kể) và nguy cơ có kết quả âm tính giả.
+
+Sinh thiết lõi tốt hơn so với sinh thiết bằng kim vì sinh thiết kim lấy quá ít mô cho các nghiên cứu di truyền chính xác.
+
+soi phế quản
+
+là thủ thuật thường được sử dụng nhất để chẩn đoán ung thư phổi. Về lý thuyết, thủ thuật được lựa chọn để lấy mô là thủ thuật ít xâm lấn nhất; tuy nhiên, trên thực tế, nội soi phế quản thường được thực hiện bổ sung hoặc thay thế cho các thủ thuật ít xâm lấn hơn vì khả năng chẩn đoán cao hơn và vì nội soi phế quản cũng rất quan trọng để phân giai đoạn. Sự kết hợp giữa rửa, chải lông, và sinh thiết tổn thương nội tạng nhìn thấy được và các hạch bạch huyết lồi lõm, cận dưới, và hạch lympho cạnh rốn phổi thường cho kết quả chẩn đoán mô.
+
+Những tiến bộ trong kỹ thuật hướng dẫn nội soi phế quản đã làm tăng khả năng chẩn đoán và độ chính xác của việc lấy mẫu tổn thương ngoại vi. Sinh thiết hướng dẫn bằng siêu âm nội soi (EBUS) có thể được thực hiện trong quá trình nội soi phế quản và đem lại hiệu quả cao. EBUS hiện là phương pháp được ưa thích để đánh giá trung thất, ngoại trừ trường hợp không thể lấy được các hạch bạch huyết do những cân nhắc về mặt giải phẫu. Nội soi phế quản điều hướng cũng được sử dụng để lấy mẫu các tổn thương ngoại vi hơn với độ chính xác trong chẩn đoán được cải thiện. Nội soi phế quản bằng robot cũng đang được triển khai tại một số trung tâm nhất định để cải thiện năng suất chẩn đoán và hạn chế số lượng các thủ thuật phẫu thuật lồng ngực.
+
+Nội soi trung thất
+
+là một kiểm tra tiêu chuẩn để đánh giá các hạch lympho ở trung thất nhưng là một thủ thuật có nguy cơ cao hơn thường được sử dụng trước khi phẫu thuật lồng ngực mở rộng để xác nhận hoặc loại trừ sự hiện diện của khối u ở một số ít bệnh nhân có hạch bạch huyết ở trung thất to ra không thể lấy được mẫu bằng EBUS.
+
+Sinh thiết phổi bằng phẫu thuật,
+
+được thực hiện thông qua
+
+phẫu thuật mở lồng ngực mở hoặc sử dụng video hoặc robot hỗ trợ
+
+, được chỉ định khi các phương pháp ít xâm lấn hơn không đưa ra chẩn đoán trên bệnh nhân có đặc điểm lâm sàng và đặc điểm X quang cho thấy khối u có thể cắt bỏ được.
+
+Phân giai đoạn ung thư biểu mô phổi
+
+SCLC có 2 giai đoạn:
+
+Hạn chế
+
+Lan rộng
+
+SCLC giai đoạn hạn chế là ung thư giới hạn ở một bên ngực (bao gồm cả hạch bạch huyết cùng phía) có thể được bao vây trong một liệu trình xạ trị, trừ khi có tràn dịch màng phổi hoặc màng ngoài tim.
+
+giai đoạn lan rộng là ung thư một bên ngực hoặc sự hiện diện của các tế bào ác tính phát hiện trong tràn dịch màng phổi hoặc màng ngoài tim. Dưới 1/3 số bệnh nhân SCLC được phát hiện khi bệnh giai đoạn hạn chế; phần còn lại của bệnh nhân thường bị di căn xa.
+
+NSCLC có 4 giai đoạn
+
+, từ I đến IV (sử dụng hệ thống TNM). Phân giai đoạn TNM dựa trên kích thước khối u, vị trí khối u và vị trí hạch bạch huyết và có hay không có các khối di căn xa (xem bảng
+
+Hệ thống phân giai đoạn quốc tế dành cho bệnh ung thư phổi
+
+).
+
+Các xét nghiệm để đánh giá ban đầu và phân giai đoạn
+
+Một số phần của phân giai đoạn trong khuôn khổ của đánh giá chẩn đoán thông thường, ví dụ: sinh thiết theo dẫn hướng của siêu âm nội phế quản (EBUS) có thể được sử dụng để lấy mẫu các hạch bạch huyết phì đại cùng lúc với sinh thiết tổn thương phổi.
+
+Tất cả các bệnh nhân ung thư phổi cần chẩn đoán hình ảnh để xác định liệu bệnh có lan rộng hay không. Có thể thực hiện các kết hợp xét nghiệm khác nhau. Một số xét nghiệm được thực hiện thường xuyên, và một số khác được thực hiện tùy thuộc vào việc liệu kết quả có ảnh hưởng đến các quyết định điều trị hay không:
+
+PET hoặc tích hợp PET-CT
+
+CT từ cổ đến xương chậu và quét xương (thực hiện nếu không có PET-CT)
+
+MRI ngực (đối với khối u gần đỉnh hoặc màng phổi để đánh giá cung mạch máu)
+
+Sinh thiết các hạch có vấn đề (nếu PET không thể xác định)
+
+CT đầu hoặc MRI não
+
+Chụp PET là một chẩn đoán hình ảnh chính xác hợp lý, test không xâm lấn từng được sử dụng để xác định các hạch lympho trung thất ác tính và các di căn xa khác (quá trình trao đổi chất). Tích hợp PET-CT, trong đó các hình ảnh PET và CT được kết hợp thành một hình ảnh duy nhất bởi các máy quét trong một tín hiệu, là chính xác hơn cho NSCLC dàn dựng hơn CT hoặc PET một mình hoặc tương quan trực quan của 2 phương pháp. Việc sử dụng PET và PET CT tích hợp bị giới hạn bởi chi phí, tính khả dụng và tính cụ thể (nghĩa là xét nghiệm khá nhạy cảm và có giá trị tiên đoán âm tính tuyệt vời, nhưng giá trị tiên đoán dương tính không cao). PET-CT có thể được sử dụng sau một thủ thuật như nội soi phế quản hoặc sinh thiết bằng kim không thể đưa ra chẩn đoán khi vẫn rất nghi ngờ về ung thư phổi trên lâm sàng.
+
+Nếu không có PET-CT, CT (HRCT) có độ phân giải thấp từ cổ đến vùng bụng trên (để phát hiện ung thư cổ tử cung, hạch to và gan) là một trong những lần thử nghiệm đầu tiên cho cả SCLC và NSCLC. Tuy nhiên, CT thường không thể phân biệt được các thay đổi sau viêm mạn tính từ việc mở rộng hạch bạch huyết ác tính trong ngực hoặc bắt đầu các tổn thương lành tính từ tổn thương gan ác tính hoặc tổn thương tuyến thượng thận (phân biệt xác định giai đoạn). Do đó, các xét nghiệm khác thường được thực hiện khi có bất thường ở những khu vực này.
+
+Khi kết quả chụp PET không xác định, có thể sử dụng nội soi phế quản kèm theo siêu âm nội phế quản, nội soi trung thất hoặc phẫu thuật nội soi lồng ngực có hỗ trợ video (VATS) để sinh thiết các hạch bạch huyết trung thất nghi vấn. Nếu không có PET scan, tổn thương gan hoặc tuyến thượng thận phải được đánh giá bằng sinh thiết kim.
+
+MRI ngực chính xác hơn một chút so với HRCT ngực cao để định vị các khối u ở đỉnh (Pancoast) và ung thư gần cơ hoành (ví dụ, u trung biểu mô) và cung cấp các đánh giá về mạch máu xung quanh các khối u. MRI cũng có thể giúp xác định xem có thể cân nhắc phẫu thuật cắt bỏ hay không.
+
+Xét nghiệm máu được thực hiện thường quy. Nồng độ canxi và kiềm phosphatase, nếu tăng, cho thấy di căn xương có thể xảy ra. Các xét nghiệm máu khác, chẳng hạn như công thức máu, aspartate aminotransferase, alanine aminotransferase, bilirubin toàn phần, chất điện giải,
+
+albumin
+
+trong huyết thanh và nồng độ creatinine, không có vai trò trong việc phân giai đoạn nhưng cung cấp thông tin tiên lượng quan trọng về khả năng dung nạp điều trị của bệnh nhân và có thể chứng minh sự hiện diện của hội chứng cận ung thư.
+
+Sau khi chẩn đoán, tất cả các bệnh nhân bị ung thư phổi phải trải qua chụp não; MRI được ưa chuộng hơn so với CT. Chụp não đặc biệt cần thiết cho những bệnh nhân nhức đầu hoặc bất thường thần kinh.
+
+Bệnh nhân bị đau xương hoặc tăng nồng độ canxi hoặc phosphatase trong huyết thanh nên được kiểm tra bằng máy PET-CT hoặc xạ hình xương nếu PET-CT không có.
+
+Bảng
+
+Hệ thống phân giai đoạn quốc tế dành cho ung thư phổi
+
+Bảng
+
+Hệ thống phân giai đoạn quốc tế dành cho ung thư phổi
+
+Hệ thống phân giai đoạn quốc tế dành cho ung thư phổi
+
+Phân loại
+
+Mô tả
+
+Khối u chính (T)
+
+Tis
+
+Ung thư tại chỗ
+
+T1
+
+Khối u
+
+≤
+
+3 cm mà không có sự xâm lấn phế quản phổi thùy
+
+T1mi
+
+Ung thư biểu mô tuyến xâm lấn tối thiểu
+
+T1a
+
+Khối u
+
+≤
+
+1 cm
+
+T1b
+
+Khối u
+
+>
+
+1 cm nhưng
+
+≤
+
+2 cm
+
+T1c
+
+Khối u
+
+>
+
+2 cm nhưng
+
+≤
+
+3 cm
+
+T2
+
+Khối u
+
+>
+
+3 cm nhưng
+
+≤
+
+5 cm
+
+hoặc
+
+là với bất kỳ điều nào sau đây:
+
+Liên quan đến phế quản chính, cách carina
+
+≥
+
+2 cm
+
+Xâm lấn vào màng phổi tạng
+
+Liên quan đến xẹp phổi hoặc viêm phổi tắc nghẽn kéo dài đến vùng rốn phổi nhưng liên quan đến một phần phổi hoặc toàn bộ phổi
+
+T2a
+
+Khối u
+
+>
+
+3 nhưng
+
+≤
+
+4 cm
+
+T2b
+
+Khối u
+
+>
+
+4 nhưng
+
+≤
+
+5 cm
+
+T3
+
+Khối u
+
+>
+
+5 cm nhưng ≤ 7 cm
+
+hoặc
+
+với bất kỳ điều nào sau đây:
+
+Xâm lấn thành ngực (bao gồm cả khối u ở rãnh trên), dây thần kinh hoành, màng ngoài tim thành
+
+Các khối u khối riêng biệt trong cùng một thùy
+
+T4
+
+Khối u
+
+>
+
+7 cm
+
+hoặc
+
+với bất kỳ điều nào sau đây:
+
+Xâm lấn vào cơ hoành, trung thất, tim, các mạch máu lớn, khí quản, dây thần kinh thanh quản quặt ngược, thực quản, thân đốt sống, hoặc xương lưỡi hái
+
+≥
+
+1 khối u ngoại vi trong một thùy khác nhau
+
+Hạch bạch huyết khu vực (N)
+
+N0
+
+Không có di căn hạch bạch huyết khu vực
+
+N1
+
+Di căn đến hạch bạch huyết quanh phế quản cùng phía hoặc xung quanh hạch cạnh rốn hoặc cả các hạch trong phổi, bao gồm cả sự xâm lấn trực tiếp của khối u nguyên phát
+
+N2
+
+Di căn đến hạch lympho trung thất hoặc dưới carina hoặc cả hai
+
+N3
+
+Di căn đến trung thất đối bên, hạch rốn phổi đối bên, hạch lymphô đối bên hoặc hạch bạch huyết thượng đòn hoặc kết hợp
+
+Ung thư phổi (M)
+
+M0
+
+Không có di căn xa
+
+M1
+
+Di căn xa
+
+M1a
+
+Khối u có bất cứ điều nào sau đây:
+
+≥
+
+1 khối u phổi đối diện
+
+Các nốt ở màng phổi hoặc ở màng ngoài tim
+
+Tràn dịch màng phổi hay màng ngoài tim ác tính
+
+M1b
+
+Di căn ngoài lồng ngực đơn lẻ ở một cơ quan
+
+M1c
+
+Nhiều di căn ngoài lồng ngực ở một hoặc một số cơ quan
+
+Nhóm giai đoạn
+
+Giai đoạn 0: Tis N0 M0
+
+Giai đoạn IA1: T1mi–T1a N0 M0
+
+Giai đoạn IA2: T1b N0 M0
+
+Giai đoạn IA3: T1c N0 M0
+
+Giai đoạn IB: T2a N0 M0
+
+Giai đoạn IIA: T2a N0 M0
+
+Giai đoạn IIB: T1a-T2b N1 M0
+
+hoặc
+
+T3 N0 M0
+
+Giai đoạn IIIA: T1a-T2b N2 M0
+
+hoặc
+
+T3 N M0
+
+hoặc
+
+T4 N0-N1 M0
+
+Giai đoạn IIIB: T1a-T2b N3 M0
+
+hoặc
+
+T3-T4 N2 M0
+
+Giai đoạn IVA: T (bất kỳ) N (bất kỳ) M1a-M1b
+
+Giai đoạn IVB: T (bất kỳ) N (bất kỳ) M1c
+
+Phỏng theo
+
+American Joint Committee on Cancer
+
+(AJCC):
+
+Bổ sung Phiếu phân giai đoạn ung thư AJCC
+
+được cập nhật ngày 5 tháng 6 năm 2018, được truy cập trực tuyến vào năm 2020 và
+
+Detterbeck FC
+
+: Phân loại giai đoạn TNM phiên bản thứ tám dành cho bệnh ung thư phổi: Nó có nghĩa là gì trên con đường chính?
+
+J Thorac Cardiovasc Surg
+
+155:356–359, 2018. doi: 10.1016/j.jtcvs.2017.08.138
+
+Phỏng theo
+
+American Joint Committee on Cancer
+
+(AJCC):
+
+Bổ sung Phiếu phân giai đoạn ung thư AJCC
+
+được cập nhật ngày 5 tháng 6 năm 2018, được truy cập trực tuyến vào năm 2020 và
+
+Detterbeck FC
+
+: Phân loại giai đoạn TNM phiên bản thứ tám dành cho bệnh ung thư phổi: Nó có nghĩa là gì trên con đường chính?
+
+J Thorac Cardiovasc Surg
+
+155:356–359, 2018. doi: 10.1016/j.jtcvs.2017.08.138
+
+Sàng lọc ung thư phổi
+
+Sàng lọc ung thư phổi mang lại lợi ích cho bệnh nhân mắc bệnh giai đoạn sớm, đặc biệt là NSCLC sớm có thể điều trị bằng phẫu thuật cắt bỏ và được khuyến nghị ở quần thể có nguy cơ cao. Một nghiên cứu lớn (
+
+1
+
+) đã chỉ ra rằng sàng lọc hàng năm sử dụng CT xoắn ốc liều thấp (LDCT) dẫn đến giảm 20% tử vong do ung thư phổi so với sàng lọc bằng chụp X-quang ngực. Nghiên cứu xác định quần thể có nguy cơ cao là những người trước đây hoặc hiện có hút thuốc (chủ yếu là từ 55 tuổi đến 74 tuổi) có hút ít nhất 1 bao thuốc lá mỗi ngày trong 30 năm và nếu không còn hút thuốc nữa thì họ đã bỏ thuốc trong vòng 15 năm trước đó). Một nghiên cứu gần đây về sàng lọc ở những bệnh nhân có nguy cơ cao cho thấy khả năng sống sót được cải thiện ở những bệnh nhân được sàng lọc LDCT dựa trên thể tích nốt và thời gian tăng gấp đôi thể tích (
+
+2
+
+). Tuy nhiên, sàng lọc LDCT có thể không thích hợp cho bệnh nhân không có nguy cơ cao.
+
+Lực lượng Đặc nhiệm Dịch vụ Dự phòng Hoa Kỳ (USPSTF) đã cập nhật các khuyến nghị về sàng lọc LDCT hàng năm cho những người không có triệu chứng từ 50 đến 80 tuổi với tiền sử hút ≥ 1 bao thuốc lá mỗi ngày trong 20 năm hiện có hút thuốc hoặc đã bỏ thuốc dưới 15 năm (
+
+3
+
+). Cần phải có các buổi bàn bạc về quyết định chung giữa bác sĩ lâm sàng và bệnh nhân trước khi sàng lọc. Việc ra quyết định chung về sàng lọc cần phải bao gồm các buổi bàn bạc để loại trừ những bệnh nhân không được hưởng lợi từ việc phát hiện sớm, chẳng hạn như những người từ chối điều trị hoặc không thể hoàn tất điều trị do các tình trạng bệnh lý nghiêm trọng khác. Thêm vào đó, khuyến cáo LDCT phải được thực hiện tại các cơ sở có khả năng LDCT đã được chứng minh và tuân thủ các quy trình đã được thiết lập để chẩn đoán và điều trị tiếp theo.
+
+Trong tương lai, sàng lọc ung thư phổi có thể bao gồm một số kết hợp phân tích phân tử về các chất chỉ điểm di truyền (ví dụ:
+
+KRAS
+
+,
+
+TP53
+
+,
+
+EGFR
+
+), đếm tế bào trong đờm và phát hiện các hợp chất hữu cơ dễ bay hơi liên quan đến ung thư (ví dụ: alkane, benzen) trong hơi thở ra.
+
+Tài liệu tham khảo về sàng lọc bệnh
+
+1.
+
+National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al
+
+: Reduced lung-cancer mortality with low-dose computed tomographic screening.
+
+New Engl J Med
+
+365 (5):395–409, 2011. doi: 10.1056/NEJMoa1102873.
+
+2.
+
+de Koning HJ, van der Aalst CM, de Jong PA, et al
+
+: Reduced lung-cancer mortality With volume CT screening in a randomized trial.
+
+New Engl J Med
+
+382:503–513, 2020. doi: 10.1056/NEJMoa1911793
+
+3.
+
+US Preventive Services Task Force
+
+: Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement.
+
+JAMA
+
+325(10):962-970, 2021. doi: 10.1001/jama.2021.1117
+
+Điều trị ung thư biểu mô phổi
+
+Phẫu thuật (tùy thuộc vào loại tế bào và giai đoạn)
+
+Hóa trị liệu
+
+Liệu pháp bức xạ
+
+Liệu pháp miễn dịch
+
+Điều trị ung thư phổi khác nhau tùy theo loại tế bào và theo giai đoạn của bệnh. Những yếu tố nguy cơ của bệnh nhân ngoài những liên quan đến khối u cũng ảnh hưởng đến sự lựa chọn điều trị. Dự trữ tim phổi kém, suy dinh dưỡng, tình trạng sức khỏe yếu hoặc kém (được đánh giá bởi, ví dụ như trạng thái hoạt động của Karnofsky [KPS] hoặc trạng thái hoạt động của Tổ chức liên hợp chuyên ngành Ung thư phía Đông nước Mỹ [ECOGPS]), các bệnh đi kèm, bao gồm giảm tế bào máu và bệnh tâm thần hoặc suy giảm nhận thức, dựa vào đó để đưa đến một quyết định cho biện pháp điều trị giảm nhẹ hoặc không điều trị, mặc dù phương pháp điều trị bằng liệu pháp tấn công có thể khả thi.
+
+Xạ trị
+
+có nguy cơ viêm phổi do phóng xạ khi vùng phổi lớn tiếp xúc với liều lượng phóng xạ cao theo thời gian. Viêm phổi do phóng xạ có thể xảy ra sau thời điểm kết thúc điều trị từ 1 tháng đến 12 tháng. Ho, khó thở, sốt nhẹ, hoặc viêm màng phổi có thể dấu hiệu tình trạng, như tiếng ran nổ hoặc tiếng cọ xát màng phổi được phát hiện khi nghe phổi. Chụp X-quang ngực có thể có những kết quả không đặc hiệu; CT có thể cho thấy một thâm nhiễm không đặc hiệu ngoài 1 khối rõ ràng. Chẩn đoán thường là chẩn đoán loại trừ. Viêm phổi do phóng xạ có thể điều trị bằng corticosteroid trong vài tuần và thuốc giãn phế quản để giảm triệu chứng.
+
+Việc cắt bỏ bằng sóng cao tần
+
+trong đó dòng điện tần số cao được sử dụng để phá hủy tế bào khối u, là một kỹ thuật đôi khi có thể được sử dụng ở những bệnh nhân có khối u nhỏ, giai đoạn sớm hoặc các khối u nhỏ tái phát ở ngực bị chiếu xạ trước đó. Thủ tục này có thể bảo vệ chức năng phổi nhiều hơn là phẫu thuật mở. thêm vào đó, vì nó ít xâm lấn nên thích hợp cho bệnh nhân không điều trị bằng phẫu thuật mở.
+
+Liệu pháp miễn dịch
+
+khai thác hệ miễn dịch của cơ thể để loại bỏ ung thư và được sử dụng để điều trị ung thư phổi không tế bào nhỏ giai đoạn tiến triển (IV) nếu có biểu hiện ở mức cao của protein kích hoạt chết tế bào theo chương trình 1 (PD-1) hoặc PDL-1 (xem bảng
+
+Một số loại thuốc điều trị nhắm đích trong ung thư phổi không tế bào nhỏ
+
+).
+
+SCLC
+
+SCLC ở giai đoạn bất kỳ thường đáp ứng với điều trị ban đầu, nhưng đáp ứng thường ngắn. Hoá trị liệu, có hoặc không có xạ trị tùy theo giai đoạn bệnh. Liệu pháp miễn dịch cũng có thể được sử dụng trong SCLC lan rộng. Ở nhiều bệnh nhân, hóa trị kéo dài sự sống còn và cải thiện chất lượng cuộc sống đủ để đảm bảo việc sử dụng nó.
+
+Phẫu thuật thường không đóng vai trò trong điều trị ung thư phổi tế bào nhỏ, mặc dù nó có thể được điều trị ở số hiếm bệnh nhân có khối u nhỏ mà không có di căn (như
+
+u phổi đơn độc) đã trải qua phẫu thuật cắt bỏ trước khi khối u được xác định là ung thư phổi tế bào nhỏ.
+
+Ngọc trai & cạm bẫy
+
+Phẫu thuật thường không đóng vai trò trong điều trị SCLC, mặc dù nó có thể điều trị được ở số hiếm bệnh nhân có khối u nhỏ khu trú mà không có di căn.
+
+Các phác đồ hóa trị của etoposide và hợp chất paltinum (hoặc cisplatin hoặc carboplatin) thường được sử dụng, như các thuốc khác, như irinotecan, topotecan, alkaloid vinca (vinblastine, vincristine, vinorelbine), các chất alkylating (cyclophosphamide, ifosfamide), doxorubicin, taxanes (docetaxel, paclitaxel), và gemcitabine.
+
+Trong giai đoạn khu trú,
+
+khi bệnh bị giới hạn ở ho máu, xạ trị thúc đẩy cải thiện kết quả lâm sàng; phản ứng như vậy đối với xạ trị là cơ sở cho việc định nghĩa bệnh giai đoạn hạn chế. Việc sử dụng xạ trị não dự phòng để ngăn ngừa di căn não cũng được ủng hộ trong một số trường hợp nhất định; siêu âm micromet thường gặp ở SCLC, và hóa trị liệu có ít khả năng vượt qua hàng rào máu-não.
+
+Trong bệnh giai đoạn lan rộng,
+
+điều trị dựa trên hóa trị liệu chứ không phải xạ trị, mặc dù xạ trị thường được sử dụng như là liệu pháp giảm nhẹ cho di căn đến xương hoặc não. Ở những bệnh nhân có đáp ứng tốt với hóa trị liệu, xạ trị não đôi khi được sử dụng như trong SCLC trong giai đoạn hạn chế để ngăn ngừa sự phát triển của SCLC trong não. Hiếm khi, những bệnh nhân được lựa chọn có đáp ứng gần như hoàn toàn với hóa trị, liệu pháp xạ trị ngực đôi khi được cho là cải thiện trong kiểm soát bệnh. Chưa sáng tỏ việc thay thế etoposide bằng chất ức chế topoisomerase (irinotecan hoặc topotecan) sẽ cải thiện sự sống còn. Các loại thuốc đơn thuần này hoặc kết hợp với các thuốc khác cũng thường được sử dụng trong các bệnh dai dẳng khó chữa và ung thư ở cả hai giai đoạn đã tái phát. Liệu pháp miễn dịch cũng có thể được sử dụng trong SCLC lan rộng.
+
+Nói chung,
+
+SCLC tái phát
+
+mang một tiên lượng xấu, ngay cả những bệnh nhân được cho rằng ở trạng thái hoạt động tốt cũng nên được tiếp tục điều trị trong một thử nghiệm lâm sàng.
+
+NSCLC
+
+Điều trị NSCLC thường bao gồm việc đánh giá khả năng đủ điều kiện để phẫu thuật, sau đó là lựa chọn phẫu thuật, hóa trị liệu (bao gồm liệu pháp nhắm đích và liệu pháp miễn dịch), xạ trị hoặc phối hợp các phương thức phù hợp, tùy thuộc vào loại và giai đoạn của khối u.
+
+Với
+
+giai đoạn I và bệnh II,
+
+phương pháp tiếp cận tiêu chuẩn là phẫu thuật cắt bỏ hoặc cắt bỏ thùy hoặc cắt bỏ khí phế quản kết hợp với lấy mẫu hạch bạch huyết trung thất hoặc lấy mẫu toàn bộ hạch bạch huyết. Cắt bỏ lược bớt, bao gồm cắt bỏ phân đoạn và nạo vét, được xem xét cho bệnh nhân với dự trữ phổi kém. Phẫu thuật là chính cho khoảng 55 đến 70% bệnh nhân giai đoạn I và 35 đến 55% bệnh nhân mắc bệnh giai đoạn II. Kết quả có vẻ tốt hơn khi phẫu thuật cắt bỏ được thực hiện bởi một bác sĩ phẫu thuật ung thư lồng ngực có chuyên môn về ung thư phổi (
+
+1, 2
+
+). Thay vào đó, những bệnh nhân mắc bệnh ở giai đoạn sớm có nguy cơ cao khi phẫu thuật có thể được điều trị tại chỗ, không phẫu thuật, chẳng hạn như xạ trị (lập thể hoặc thông thường) hoặc triệt đốt bằng tần số vô tuyến.
+
+Chức năng hô hấp trước mổ
+
+được đánh giá. Phẫu thuật chỉ được thực hiện nếu bệnh nhân mắc NSCLC sẽ có đủ dự trữ phổi sau khi cắt bỏ thùy hoặc phổi. Bệnh nhân có thể tích thở ra gắng sức trước khi mổ trong 1 giây (FEV1)
+
+>
+
+2 L nhìn chung có thể dung nạp phẫu thuật cắt phổi. Những bệnh nhân có FEV1
+
+<
+
+2 L cần phải được chụp quét tưới máu hạt nhân phóng xạ xenon định lượng để xác định tỷ lệ chức năng mà họ có thể mất đi do phẫu thuật cắt bỏ. Sau phẫu thuật FEV1 có thể dự đoán bằng sự tăng lên của phần trăm nồng độ ở phần phổi không bị cắt bỏ với trước khi phẫu thuật FEV1. FEV1 dự đoán
+
+>
+
+800 mL hoặc
+
+>
+
+40% mức FEV1 bình thường dự đoán cho thấy chức năng phổi thích hợp sau phẫu thuật, mặc dù các nghiên cứu về phẫu thuật giảm thể tích phổi trên bệnh nhân mắc COPD (bệnh phổi tắc nghẽn mạn tính) cho thấy bệnh nhân có FEV1
+
+<
+
+800 mL có thể chịu được việc cắt bỏ nếu ung thư nằm ở vùng phổi có kén khí, chức năng kém (thường là vùng đỉnh).
+
+Hóa trị tân bổ trợ (trước phẫu thuật)
+
+trong NSCLC giai đoạn sớm cũng thường được sử dụng và bao gồm 4 chu kỳ dùng bộ đôi thuốc cisplatin (dạng phối hợp của cisplatin và một loại thuốc hóa trị khác, chẳng hạn như vinorelbine, docetaxel, paclitaxel). Ở những bệnh nhân không dung nạp cisplatin, carboplatin có thể được dùng thay thế. Phối hợp hóa trị tân bổ trợ và liệu pháp miễn dịch là một lĩnh vực đang được nghiên cứu tích cực; việc điều trị được dung nạp tốt ở một số quần thể nhất định và cải thiện thời gian sống thêm.
+
+Hóa trị liệu bổ trợ
+
+sau phẫu thuật bây giờ là tiêu chuẩn thực hành cho bệnh nhân có bệnh giai đoạn II hoặc giai đoạn III và có thể cũng cho bệnh nhân có bệnh giai đoạn IB và các khối u
+
+>
+
+4 cm. Hóa trị bổ trợ làm tăng tỷ lệ sống thêm 5 năm. Tuy nhiên, quyết định sử dụng hoá trị liệu bổ trợ phụ thuộc vào sự kết hợp của bệnh nhân và đánh giá nguy cơ. Một phác đồ hóa trị liệu thường được sử dụng là phác đồ bộ đôi thuốc có cisplatin.
+
+Bệnh giai đoạn III
+
+có thể được điều trị bằng hóa trị, xạ trị, phẫu thuật, hoặc kết hợp các liệu pháp; trình tự và sự lựa chọn điều trị phụ thuộc vào vị trí khối u và bệnh đồng mắc. Nói chung, hóa trị, liệu pháp miễn dịch và xạ trị đồng thời được coi là phương pháp điều trị tiêu chuẩn cho bệnh ở giai đoạn IIIA trên lâm sàng không thể cắt bỏ được, nhưng thời gian sống thêm vẫn còn kém (thời gian sống thêm trung bình từ 10 tháng đến 14 tháng). Bệnh nhân bị bệnh giai đoạn IIIB có hạch trung thất đối bên hoặc hạch thượng đòn được điều trị bằng xạ trị hoặc hóa trị hoặc cả hai. Bệnh nhân có khối u xâm lấn tại chỗ vào tim, các mạch máu lớn, tĩnh mạch, hoặc xương sống thường được xạ trị. Ở một số bệnh nhân (ví dụ những người có khối u T4 N0 M0), phẫu thuật cắt bỏ khối u kết hợp với hóa trị và xạ trị tiền phẫu hoặc hậu phẫu có thể là phương án khả thi.
+
+Ở
+
+bệnh giai đoạn IV,
+
+mục tiêu là kéo dài thời gian sống thêm và giảm nhẹ các triệu chứng. Hóa trị, thuốc điều trị đích và xạ trị có thể được sử dụng để làm giảm kích thước khối u, giảm triệu chứng, và cải thiện chất lượng cuộc sống. Tuy nhiên, nếu không xác định được một đột biến nào có thể điều trị bằng thuốc điều trị nhắm đích thì tỷ lệ sống sót trung vị chỉ còn 9 tháng và
+
+<
+
+25% số bệnh nhân sống sót 1 năm. Phẫu thuật điều trị triệu chứng có thể được yêu cầu trong một số trường hợp như dẫn lưu màng phổi, làm dính màng phổi trong tràn dịch màng phổi tái phát, đặt catheter màng phổi, nội soi phế quản đốt u ở khí quản và phế quản chính, đặt stent để ngăn ngừa tắc nghẽn đường thở, và trong một số trường hợp có thể cố định cột sống nhằm phòng ngừa xẹp đốt sống.
+
+Công cụ tính toán lâm sàng
+
+Dự đoán FEV1 hậu phẫu Sau Phẫu thuật Phổi (Phương pháp Giải phẫu)
+
+Công cụ tính toán lâm sàng
+
+Dự đoán FEV1 hậu phẫu sau phẫu thuật Phổi (Phương pháp Perfusion)
+
+Mục tiêu điều trị cho NSCLC
+
+Điều trị NSCLC dựa trên đáp ứng thuốc. Phân tích phân tử được thực hiện trên các ung thư biểu mô tuyến để tìm kiếm các đột biến cụ thể có thể điều trị trực tiếp (xem bảng
+
+Một số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏ
+
+). Một số loại thuốc ung thư miễn dịch (nivolumab, pembrolizumab, durvalumab và atezolizumab) có sẵn để điều trị NSCLC. Những loại thuốc này kích thích sự đáp ứng miễn dịch, hỗ trợ ung thư được nhận ra là ngoại lai và ức chế khả năng ngăn chặn phản ứng của hệ miễn dịch. Những loại thuốc này được sử dụng nếu khối u tiến triển mặc dù đã được điều trị bằng hóa chất (thường là platinum), và nhiều nghiên cứu đang được thực hiện để xác định khối u nào sẽ đáp ứng với điều trị này. Ví dụ, các khối u có biểu hiện cao của protein PD-L1 đáp ứng với điều trị bằng pembrolizumab.
+
+Đối với các khối u có đột biến thúc đẩy gen sinh ung thư, điều trị đích được sử dụng đầu tiên. Ở những bệnh nhân mắc bệnh giai đoạn IV và có các đột biến
+
+EGFR
+
+nhạy cảm (tức là đột biến mất đoạn exon 19, đột biến L858 ở exon 21), thuốc ức chế tyrosine kinase (TKIs) của EGFR có thể được dùng làm liệu pháp bước đầu; tỷ lệ đáp ứng và tỷ lệ sống thêm không bệnh tiến triển tốt hơn so với tỷ lệ thu được khi sử dụng hóa trị liệu tiêu chuẩn. EGFR TKI bao gồm gefitinib, erlotinib, afatinib, và brigatinib.
+
+Osimertinib là thuốc điều trị được lựa chọn cho NSCLC đột biến EGFR có đột biến T790M mắc phải. Ở những bệnh nhân có NSCLC không vảy mà không có đột biến thúc đẩy gen sinh ung thư, bevacizumab, một chất ức chế yếu tố tăng trưởng nội mô mạch máu, có thể được sử dụng kết hợp với hóa trị liệu tiêu chuẩn (ví dụ, chất kết dính platinum, như carboplatin cộng với paclitaxel). Necitumumab có thể được sử dụng phối hợp với cisplatin cộng với gemcitabine để điều trị bước đầu ung thư biểu mô tế bào vảy NSCLC.
+
+Những bệnh nhân có các đột biến dung hợp gen EML-4-ALK cần phải được dùng thuốc ức chế
+
+ALK
+
+và
+
+ROS1
+
+(crizotinib, ceritinib hoặc alectinib). Bệnh nhân có đột biến
+
+ALK
+
+có thể được sử dụng alectinib hoặc ceritinib.
+
+Bệnh nhân có các đột biến
+
+BRAF
+
+được hưởng lợi từ các thuốc ức chế
+
+BRAF
+
+(ví dụ: dabrafenib, trametinib). Nhiều tác nhân sinh học nhắm mục tiêu khác đang được điều tra, bao gồm một số tác nhân nhắm mục tiêu cụ thể vào con đường dẫn truyền tín hiệu tế bào ung thư hoặc con đường hình thành mạch cung cấp oxy và dinh dưỡng cho các tế bào khối u đang phát triển.
+
+Bảng
+
+Một số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏ
+
+Bảng
+
+Một số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏ
+
+Một số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏ
+
+Mục tiêu
+
+Thuốc uống
+
+NSCLC
+
+Sắp xếp lại
+
+ALK
+
+Alectinib
+
+Brigatinib
+
+Ceritinib
+
+Crizotinib
+
+Ung thư biểu mô tuyến
+
+Đột biến
+
+BRAF
+
+Dabrafenib
+
+Trametinib
+
+Ung thư biểu mô tuyến
+
+Ung thư biểu mô tế bào vảy
+
+Đột biến
+
+EGFR
+
+Afatinib
+
+Erlotinib
+
+Gefitinib
+
+Necitumumab
+
+Ung thư biểu mô tuyến
+
+Ung thư biểu mô tế bào vảy
+
+EGFR
+
+(đột biến T790M)
+
+Osimertinib
+
+Ung thư biểu mô tuyến
+
+Ức chế tăng trưởng của mạch máu
+
+Bevacizumab
+
+Ramucirumab
+
+Ung thư biểu mô tuyến
+
+Kích hoạt miễn dịch (chất ức chế điểm kiểm tra)
+
+Atezolizumab
+
+Cemiplimab
+
+Durvalumab
+
+Ipilimumab
+
+Nivolumab
+
+Pembrolizumab
+
+Ung thư biểu mô tuyến
+
+Ung thư biểu mô tế bào vảy
+
+NSCLC = Ung thư phổi không phải tế bào nhỏ.
+
+NSCLC = Ung thư phổi không phải tế bào nhỏ.
+
+Ung thư phổi tái phát
+
+Các phương án điều trị ung thư phổi tái phát sau khi điều trị dứt điểm khác nhau tùy theo vị trí và bao gồm hóa trị lặp lại hoặc thuốc nhắm đích trong điều trị di căn, xạ trị trong điều trị tái phát tại chỗ hoặc đau do di căn và xạ trị áp sát trong điều trị khối u nội phế quản khi không thể chịu đựng thêm bức xạ bên ngoài. Hiếm khi, phẫu thuật cắt bỏ di căn đơn độc hoặc vì mục đích giảm nhẹ được xem xét.
+
+Điều trị NSCLC tái phát tại chỗ theo các hướng dẫn tương tự như đối với các giai đoạn u nguyên phát từ I đến III. Ở bệnh nhân đã được phẫu thuật trước đó, xạ trị là phương thức điều trị chủ yếu. Nếu tái phát biểu hiện là các di căn xa, bệnh nhân được điều trị như bệnh giai đoạn IV với mục tiêu chủ yếu là điều trị giảm nhẹ.
+
+Điều trị NSCLC giai đoạn IV tái phát hoặc di căn bao gồm hóa trị liệu hoặc các loại thuốc điều trị đích. Sự lựa chọn phụ thuộc vào mô học khối u, hồ sơ đột biến, tình trạng chức năng của bệnh nhân và sự ưu tiên của bệnh nhân. Ví dụ: TKI của
+
+EGFR
+
+, chẳng hạn như gefitinib hoặc erlotinib, có thể được sử dụng làm liệu pháp bước hai hoặc liệu pháp bước ba ngay cả ở những bệnh nhân không có đột biến
+
+EGFR
+
+nhạy cảm. Khi NSCLC tiến triển, các lần sinh thiết lặp lại thường được thực hiện để lặp lại phân tích phân tử và PD-L1, có thể dẫn hướng điều trị trong tương lai.
+
+Các biến chứng của ung thư phổi
+
+Tràn dịch màng phổi
+
+không triệu chứng không cần điều trị. Điều trị ban đầu của tràn dịch màng phổi có triệu chứng là
+
+chọc hút màng phổi
+
+. Tràn dịch màng phổi tái phát nhiều lần sau chọc dò màng phổi được chỉ định dẫn lưu màng phổi. Việc truyền bột talc (hoặc đôi khi là tetracycline hoặc bleomycin) vào khoang màng phổi (một thủ thuật được gọi là làm dính màng phổi), loại bỏ khoang màng phổi và hiệu quả
+
+>
+
+90% số trường hợp. Gây viêm màng phổi cũng có thể được thực hiện bằng phẫu thuật, thường là thủ thuật phẫu thuật nội soi lồng ngực có hỗ trợ video (VATS).
+
+Điều trị hội chứng tĩnh mạch chủ trên cũng giống như điều trị ung thư phổi, bằng hóa trị (SCLC), xạ trị (NSCLC) hoặc cả hai (NSCLC). Corticosteroid thường được sử dụng nhưng chưa chứng minh được lợi ích.
+
+Điều trị
+
+hội chứng Horner
+
+do u vùng đỉnh phổi là phẫu thuật kèm theo hoặc không kèm theo xạ trị trước phẫu thuật hoặc xạ trị kèm theo hoặc không kèm theo hóa trị bổ trợ.
+
+Điều trị
+
+hội chứng cận u
+
+thay đổi theo hội chứng.
+
+Chăm sóc cuối đời
+
+Bởi tỉ lệ sống thêm thấp, nhu cầu về
+
+chăm sóc cuối đời
+
+nên được dự đoán. Các nghiên cứu đã báo cáo rằng can thiệp giảm nhẹ sớm đã dẫn đến giảm sử dụng hóa trị giai đoạn cuối và thậm chí có thể kéo dài cuộc sống (ví dụ bằng cách tránh những phản ứng phụ của các phương pháp điều trị tích cực).
+
+Triệu chứng khó thở có thể được điều trị bằng oxy bổ sung và thuốc giãn phế quản. Khó thở giai đoạn hấp hối có thể được điều trị bằng opioid.
+
+Đau, lo lắng, buồn nôn, và chán ăn là đặc biệt phổ biến và có thể được điều trị bằng morphine đường tiêm; đường uống, qua da, hoặc các opioid khác; và thuốc chống nôn.
+
+Sự chăm sóc được cung cấp theo chương trình nhà an dưỡng cuối đời rất được các bệnh nhân và gia đình chấp nhận, tuy nhiên sự can thiệp này được sử dụng rất ít.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Farjah F, Flum DR, Varghese TK Jr, et al
+
+: Surgeon specialty and long-term survival after pulmonary resection for lung cancer.
+
+Ann Thorac Surg
+
+87 (4):995–1004, 2009. doi: 10.1016/j.athoracsur.2008.12.030
+
+2.
+
+Schipper PH, Diggs BS, Ungerleider RM, Welke KF
+
+: The influence of surgeon specialty on outcomes in general thoracic surgery: A national sample 1996 to 2005.
+
+Ann Thorac Surg
+
+88 (5):1566–1572, 2009. doi: 10.1016/j.athoracsur.2009.08.055
+
+Tiên lượng dành cho bệnh ung thư biểu mô phổi
+
+Đối với SCLC
+
+, tiên lượng tổng thể là tồi. Thời gian sống trung vị của SCLC giai đoạn giới hạn là 20 tháng, tỷ lệ sống sót 5 năm là 20%. Bệnh nhân có SCLC giai đoạn lan rộng đặc biệt kém, với tỉ lệ sống sót 5 năm
+
+<
+
+1%.
+
+Đối với NSCLC,
+
+tỷ lệ có thời sống gian 5 năm thay đổi tùy theo giai đoạn, từ 68% đến 92% đối với bệnh nhân mắc bệnh giai đoạn I thành 0% đến 10% đối với bệnh nhân mắc bệnh giai đoạn IV (
+
+1
+
+). Trung bình, những bệnh nhân không điều trị NSCLC di căn sống được 6 tháng, trong khi tỷ lệ sống trung bình của bệnh nhân được điều trị khoảng 9 tháng. Thời gian sống thêm của bệnh nhân đã được cải thiện ở cả NSCLC giai đoạn sớm và giai đoạn muộn. Bằng chứng cho thấy tỷ lệ sống sót được cải thiện ở giai đoạn sớm (giai đoạn IB đến IIIB) khi phác đồ hoá trị dựa trên platinum được sử dụng sau khi phẫu thuật cắt bỏ. Ngoài ra, các liệu pháp nhắm đích đã cải thiện thời gian sống thêm trên bệnh nhân mắc bệnh giai đoạn IV, đặc biệt là những bệnh nhân có đột biến
+
+EGFR
+
+hoặc đột biến dung hợp EML-4-ALK hoặc đột biến dung hợp
+
+ROS1
+
+. Các liệu pháp nhắm mục tiêu và các phương pháp điều trị tuần tự được cải thiện đang từng bước kéo dài thời gian sống thêm, đặc biệt là ở bệnh giai đoạn sau.
+
+Tài liệu tham khảo về tiên lượng bệnh
+
+1.
+
+Goldstraw P, Chansky K, Crowley J, et al
+
+: The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM Classification for Lung Cancer.
+
+J Thorac Oncol
+
+11(1):39-51, 2016 doi:10.1016/j.jtho.2015.09.009
+
+Phòng ngừa ung thư biểu mô phổi
+
+Không có can thiệp tích cực nào để phòng ngừa ung thư phổi được chứng minh là có hiệu quả ngoại trừ
+
+ngừng hút thuốc lá
+
+.
+
+Việc khắc phục nồng độ radon cao trong các khu dân cư sẽ loại bỏ được bức xạ gây ung thư đã biết, tuy nhiên việc giảm tỷ lệ ung thư phổi vẫn chưa được chứng minh.
+
+Tăng hoa quả và rau củ chứa nhiều retinoids và beta-caroten trong chế độ ăn dường như không có ảnh hưởng đến tỷ lệ ung thư phổi. Bổ sung vitamin hoặc là chưa được chứng minh (vitamin E) hoặc là có hại (beta-caroten) ở những người hút thuốc. Chưa xác nhận bằng chứng cho thấy thuốc chống viêm không steroid (NSAID) và bổ sung vitamin E có thể bảo vệ những người trước đây hút thuốc khỏi ung thư phổi. Các biện pháp can thiệp điều trị dự phòng, ngoài việc ngừng hút thuốc, chỉ nên thực hiện như một phần của thử nghiệm lâm sàng.
+
+Các phương pháp tiếp cận phân tử nhằm vào các tín hiệu tế bào và chu kỳ tế bào, các kháng nguyên liên quan đến khối u (điều trị dự phòng bằng thuốc) đang được nghiên cứu.
+
+Những điểm chính
+
+Yếu tố chính góp phần vào ung thư phổi là hút thuốc lá.
+
+Khoảng 15% bệnh nhân ung thư phổi không bao giờ hút thuốc lá và nghi ngờ đột biến gen sinh ung thư.
+
+Ung thư phổi có thể là ung thư phổi tế bào nhỏ (SCLC) hoặc ung thư phổi không tế bào nhỏ (NSCLC).
+
+Một số đột biến thúc đẩy di truyền có thể tuân theo các loại thuốc nhắm đích đã được xác định trong NSCLC; ung thư biểu mô tuyến mới được chẩn đoán cần phải được xét nghiệm về các đột biến
+
+EGFR
+
+,
+
+ALK
+
+,
+
+BRAF
+
+và
+
+ROS1
+
+. Cũng cần phải nhuộm màu miễn dịch PD-L1 cho các khối u.
+
+Các biểu hiện có thể bao gồm ho, sốt, khàn giọng, tràn dịch màng phổi, viêm phổi, khối u Pancoast, hội chứng cận ung thư, hội chứng tĩnh mạch chủ trên, hội chứng Horner và các khối di căn đến não, gan và xương.
+
+Nghi ngờ chẩn đoán dựa trên các triệu chứng lâm sàng và chẩn đoán hình ảnh (ví dụ, CT, PET-CT), và chẩn đoán xác định theo giải phẫu bệnh (ví dụ, bằng tế bào học của đờm hoặc dịch phổi hay sinh thiết lõi).
+
+Cân nhắc sàng lọc hàng năm bằng CT xoắn ốc liều thấp cho những người hiện đang hút thuốc và những người trước đây hút thuốc ≥ 50 tuổi và có nguy cơ cao (hút > 1 bao thuốc mỗi ngày trong 20 năm, những người trước đây hút thuốc phải bỏ thuốc < 15 năm trước); cần phải có quyết định chung trước khi theo đuổi việc chẩn đoán hình ảnh.
+
+Làm xét nghiệm, bắt đầu bằng hình ảnh toàn cơ thể, để xác định giai đoạn ung thư.
+
+Điều trị NSCLC giai đoạn sớm bằng phẫu thuật cắt bỏ khi dự trữ phổi là phù hợp, thường là theo sau bởi hóa trị liệu.
+
+Điều trị SCLC và NSCLC giai đoạn tiến triển với hóa trị liệu và, hoặc liệu pháp miễn dịch.
+
+Cần phải hoàn tất xét nghiệm di truyền đối với ung thư biểu mô tuyến để giúp xác định phác đồ điều trị.
+
+Thông tin thêm
+
+Các nguồn tiếng Anh sau đây cung cấp thông tin cho bác sĩ lâm sàng. CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Lung Cancer Mutation Consortium
+
+: group of cancer centers that conduct clinical trials
+
+US Preventive Services Task Force Recommendations for Lung Cancer Screening
+
+Eastern Cooperative Oncology Group
+
+: A multidisciplinary organization that designs and conducts cancer research
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Ung thư phổi) ---
+
+TheoRobert L. Keith,MD,Division of Pulmonary Sciences and Critical Care Medicine, University of
+Colorado School of MedicineXem xét bởiRichard K. Albert,MD,Department of Medicine, University of Colorado Denver - Anschutz MedicalĐã xem xét/Đã chỉnh sửaThg 5 2023|đã sửa đổiThg 5 2025v923719_vi
+
+--- 2. Căn nguyên của ung thư biểu mô phổi ---
+
+Nguyên nhân quan trọng nhất gây ra ung thư phổi, chiếm khoảng 85% trường hợp, làHút thuốc lá (1)Nguy cơ ung thư khác nhau theo tuổi, cường độ hút thuốc và thời gian hút thuốc.Nguy cơ ung thư phổi tăng lên khi kết hợp phơi nhiễm với độc tố và hút thuốc. Các yếu tố nguy cơ đã được xác nhận hoặc có thể xảy ra khác bao gồm ô nhiễm không khí, hút cần sa, tiếp xúc với khói xì gà và khói thuốc lá thụ động, và tiếp xúc với các chất gây ung thư (ví dụ: amiăng, bức xạ, radon, asen, cromat, niken, ete chloromethyl, hydrocacbon thơm đa vòng, khí mù tạt, khí thải từ lò than cốc, khói từ quá trình nấu ăn thô sơ hoặc đốt lửa sưởi ấm trong lều). Nguy cơ bị ung thư phổi liên quan đến hệ thống phân phốinicotineđiện tử (ví dụ: thuốc lá điện tử) vẫn còn được xác định, mặc dù người ta cho rằng các sản phẩm của quá trình đốt cháy thuốc lá là các chất gây ung thư chính.Nguy cơ vị ung thư giảm sau khi ngừng hút thuốc, nhưng nó không bao giờ trở lại nguy cơ ở lần khám ban đầu trên những người chưa bao giờ hút thuốc. Có khoảng 15 đến 20% những người bị ung thư phổi chưa bao giờ hút thuốc hoặc hút thuốc rất ít.Tiếp xúc với radon trong nhà làm tăng nguy cơ bị ung thư phổi và là nguyên nhân thứ hai gây ung thư phổi ở Hoa Kỳ (2).Viêm mạn tính làm tăng nguy cơ mắc nhiều bệnh ung thư, bao gồm cả ung thư phổi. Ví dụ:COPD(bệnh phổi tắc nghẽn mạn tính),thiếu alpha-1 antitrypsinvàxơ phổilàm tăng khả năng bị bệnh ung thư phổi. Những người có phổi bị sẹo do các bệnh phổi khác (ví dụ:bệnh lao) có nguy cơ cao hơn bị ung thư phổi. Ngoài ra, những người hiện có hút thuốc và cũng dùng thực phẩm chức năng cóbeta-carotenecó thể tăng nguy cơ phát sinh ung thư phổi.Công cụ tính toán lâm sàngĐánh giá rủi ro ung thư phổi ở những người đang hút thuốc hiện tại và quá khứ (6 tuổi)Yếu tố di truyềnCác tế bào biểu mô hô hấp đòi hỏi phải tiếp xúc kéo dài với tác nhân gây ung thư và tích tụ nhiều đột biến di truyền trước khi trở thành ung thư phổi (một hiệu ứng gọi là ung thư trường diễn).Ở một số bệnh nhân ung thư phổi, các đột biến thứ phát hoặc bổ sung ở các gen kích thích sự phát triển của tế bào (KRAS,MYC) hoặc gây ra những bất thường trong quá trình phát tín hiệu của thụ thể yếu tố tăng trưởng (EGFR, HER2)có thể góp phần vào sự tăng sinh không kiểm soát của các tế bào bất thường.Ngoài ra, đột biến ức chế gen ức chế khối u (ví dụ:TP53,APC) có thể dẫn đến ung thư. Các đột biến khác có thể gây ra tình trạng này bao gồm đột biến dung hợpEML4-ALKvà các đột biến ởROS1,BRAFvàPIK3CA.Các gen là nguyên nhân gây ung thư phổi được gọi là đột biến thúc đẩy gen sinh ung thư. Mặc dù các đột biến thúc đẩy gen sinh ung thư có thể gây ra hoặc góp phần gây ung thư phổi ở những người hút thuốc, nhưng những đột biến này đặc biệt có khả năng là nguyên nhân gây ung thư phổi ở những người chưa bao giờ hút thuốc. Vào năm 2014, Hiệp hội Đột biến Ung thư phổi (LCMC) đã tìm thấy các đột biến thúc đẩy đó ở 64% trong số 733 trường hợp ung thư phổi. Nhóm này bao gồm những người hút thuốc và những người không hút thuốc (25% đột biếnKRAS, 17% đột biếnEGFR, 8% đột biếnEML-4-ALKvà 2% đột biếnBRAF[3]). Nghiên cứu LCMC thứ hai đã tích lũy 904 bệnh nhân ung thư phổi giai đoạn IV có ít nhất một trong 14 gen liên quan đến ung thư đã được xét nghiệm và phát hiện ra rằng các đột biến thúc đẩy gen sinh ung thư có ở hơn một nửa số bệnh nhân bị ung thư biểu mô tuyến và các liệu pháp nhắm mục tiêu đã cải thiện thời gian sống thêm (4). Các đột biến bổ sung đang được báo cáo và các liệu pháp mới nhằm vào các đột biến thúc đẩy gen gây ung thư là một lĩnh vực đang được nghiên cứu tích cực.Tài liệu tham khảo về căn nguyên1.Division of Cancer Prevention and Control, Centers for Disease Control and Prevention: What Are the Risk Factors for Lung Cancer? Duyệt lại ngày 25 tháng 10 năm 2022. Truy cập ngày 24 tháng 4 năm 2023.2.U.S. Cancer Statistics Working Group: U.S. Cancer Statistics Data Visualizations Tool, based on 2021 submission data (1999-2019): U.S. Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; https://www.cdc.gov/cancer/dataviz, phát hành vào tháng Mười một năm 20223.Kris MG, Johnson BE, Berry LD, et al: Using multiplexed assays of oncogenic drivers in lung cancers to select targeted drugs.JAMA311 (19):1998–2006, 2014. doi: 10.1001/jama.2014.37414.Aisner DL, Sholl LM, Berry LD, et al: The Impact of Smoking and TP53 Mutations in Lung Adenocarcinoma Patients with Targetable Mutations-The Lung Cancer Mutation Consortium (LCMC2).Clin Cancer Res24(5):1038-1047, 2018 doi:10.1158/1078-0432.CCR-17-2289
+
+--- 3. Phân loại ung thư biểu mô phổi ---
+
+Ung thư phổi được chia thành 2 loại chính:Ung thư phổi tế bào nhỏ (SCLC), khoảng 15% trường hợpUng thư phổi không tế bào nhỏ (NSCLC), khoảng 85% trường hợpSCLCrất ác tính và hầu như luôn có ở những người hút thuốc lá. Nó đang phát triển nhanh chóng, và khoảng 80% bệnh nhân có bệnh di căn vào thời điểm chẩn đoán.Biểu hiện lâm sàng củaNSCLCthay đổi và phụ thuộc vào loại mô học, nhưng khoảng 40% bệnh nhân sẽ bị bệnh di căn khỏi vùng ngực vào thời điểm chẩn đoán. Các đột biến thúc đẩy gen sinh ung thư đã được xác định chủ yếu trong ung thư biểu mô tuyến và các nỗ lực đang được thực hiện để xác định các đột biến tương tự trong ung thư biểu mô tế bào vảy (ví dụ:KRAS,EGFR,FGFR1,DDR2,PIK3CA).Các đặc điểm khác của 2 loại (ví dụ: vị trí, nguy cơ, điều trị, biến chứng) cũng khác nhau (xem bảng:Đặc điểm của ung thư phổi).BảngĐặc điểm của Ung thư phổiBảngĐặc điểm của Ung thư phổiĐặc điểm của Ung thư phổiĐặc điểmTế bào nhỏKhông tế bào nhỏUng thư biểu mô tuyếnung thư tế bào vảyTế bào lớn% ung thư phổi13–15%35–40%25–30%10–15%Vị trílớp dưới niêm mạc đường thở, tế bào quanh rốn phổihạch hoặc khối u ngoại viTrung tâm, trong phế quảnhạch hoặc khối u ngoại viCác yếu tố nguy cơHút thuốcHút thuốc (đối với 80‒85% số bệnh nhân; 15‒20% số bệnh nhân không bao giờ hút thuốc hoặc chỉ hút không đáng kể); những bệnh nhân đặc biệt là những người không bao giờ hút thuốc thường có đột biến thúc đẩy gen sinh ung thưTiếp xúc môi trường và nghề nghiệp (chủ yếu là radon, amiăng, bức xạ, khói thuốc gián tiếp, hydrocacbon thơm đa vòng, arsenic, crômat hoặc niken)Điều trịEtoposide kết hợp với cisplatin hoặc carboplatinĐôi khi irinotecan hoặc topotecan thay vì etoposide trong bệnh giai đoạn mở rộngLiệu pháp miễn dịch trong điều trị SCLC giai đoạn lan rộngLiệu pháp xạ trị đồng thời trong bệnh giai đoạn hạn chếPhẫu thuật không đóng vai trò quan trọng trừ khi bệnh nhân có một nốt đơn độc ở phổi mà không có hạch bạch huyết rõ ràng hoặc không có di căn xaGiai đoạn I và II: Phẫu thuật có hoặc không có hóa trị tân bổ trợ hoặc hóa trị bổ trợ; nhiều thử nghiệm đang xem xét tân bổ trợ (hóa trị liệu +/- liệu pháp miễn dịch) sau đó là phẫu thuật cắt bỏ dứt điểmGiai đoạn IIIA: Lựa chọn liệu pháp tùy thuộc vào mức độ và vị trí của bệnh và có thể bao gồm: phẫu thuật kèm theo liệu pháp bổ trợ (hóa trị và/hoặc xạ trị); liệu pháp tân bổ trợ (hóa trị và/hoặc xạ trị) sau đó là phẫu thuật nếu có đáp ứng; hóa trị cộng với xạ trị không phẫu thuật; liệu pháp miễn dịch thường được thêm vào các phác đồ nàyGiai đoạn IIIB: Liệu pháp phóng xạ và/hoặc hóa trị liệu; liệu pháp miễn dịchGiai đoạn IV: Liệu pháp nhắm mục tiêu theo hệ thống, hóa trị liệu hoặc liệu pháp miễn dịch có hoặc không có liệu pháp xạ trị giảm nhẹCác yếu tố ảnh hưởng đến phương thức điều trị và trình tự điều trị bao gồm mô học (ung thư biểu mô tuyến so với ung thư biểu mô vảy so với ung thư khác), sự hiện diện của các đột biến thúc đẩy, biểu hiện PD-L1 (đối với liệu pháp miễn dịch) và các yếu tố cụ thể của bệnh nhân (tuổi, bệnh đồng mắc, sở thích điều trị)NSCLC tiến triển thường cần phải sử dụng tuần tự nhiều liệu pháp toàn thân (hóa trị, xạ trị, liệu pháp miễn dịch, liệu pháp nhắm đích (sinh học) để cải thiện thời gian sống thêm chungCác biến chứngHội chứng SVCHội chứng cận uHo máu, tắc nghẽn đường thở, viêm phổi, viêm màng phổi, đau nhức vùng phổi, hội chứng SVC, khối u Pancoast (gây đau vai hoặc cánh tay), khàn tiếng do chèn ép dây thần kinh thanh quản, do di căn gan, các triệu chứng thần kinh do di căn não, gãy xương bệnh lý do di căn xương, vàng da do di căn ganTỷ lệ sống thêm 5 năm khi được điều trịHạn chế: 20%Lan rộng:<1%Giai đoạn I: 68–92%Giai đoạn II: 53–65%Giai đoạn III: 12–41%Giai đoạn IV:0–10%Dữ liệu về tỷ lệ sống thêm của bệnh ung thư phổi không tế bào nhỏ có nguồn gốc từGoldstraw P, Chansky K, Crowley J, et al: The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM Classification for Lung Cancer.J Thorac Oncol11(1):39-51, 2016 doi:10.1016/j.jtho.2015.09.009NSCLC = ung thư phổi không tế bào nhỏ; PD-L1 = phối tử gắn kích hoạt chết tế bào theo chương trình 1; SCLC = ung thư phổi tế bào nhỏ; SVC = tĩnh mạch chủ trên.Dữ liệu về tỷ lệ sống thêm của bệnh ung thư phổi không tế bào nhỏ có nguồn gốc từGoldstraw P, Chansky K, Crowley J, et al: The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM Classification for Lung Cancer.J Thorac Oncol11(1):39-51, 2016 doi:10.1016/j.jtho.2015.09.009NSCLC = ung thư phổi không tế bào nhỏ; PD-L1 = phối tử gắn kích hoạt chết tế bào theo chương trình 1; SCLC = ung thư phổi tế bào nhỏ; SVC = tĩnh mạch chủ trên.
+
+--- 4. Các triệu chứng và dấu hiệu của ung thư biểu mô phổi ---
+
+Khoảng 25% số trường hợp ung thư phổi không có triệu chứng và được phát hiện tình cờ khi chụp ngực vì một lý do khác. Các triệu chứng và dấu hiệu có thể là kết quả của sự tiến triển của khối u tại chỗ, lan tại vùng, hoặc các di căn xa.Các hội chứng cận ung thưvà các triệu chứng toàn thân có thể xảy ra ở bất kỳ giai đoạn nào của bệnh. Mặc dù các triệu chứng không cụ thể đối với việc phân loại hoặc mô học của ung thư, một số biến chứng nhất định có thể xảy ra với nhiều loại khác nhau (xem bảngĐặc điểm của ung thư phổi).Khối u tại chỗKhối u tại chỗ có thể gây ho. Ít phổ biến hơn, khối u tại chỗ gây khó thở do tắc nghẽn đường thở, xẹp phổi sau tắc nghẽn hoặc viêm phổi và tổn thương nhu mô do sự lan rộng của hạch bạch huyết. Sốt có thể xảy ra với viêm phổi sau tắc nghẽn. Có tới một nửa bệnh nhân báo cáo đau ngực mơ hồ hoặc đau ngực khu trú. Chứng ho máu ít phổ biến hơn, và mất ít máu nhất, ngoại trừ những trường hợp hiếm khi khối u ăn mòn vào thành động mạch chủ gây ra xuất huyết trầm trọng và thường chết do ngạt thở hoặc mất máu quá nhiều. Ho ra máu là triệu chứng xuất hiện ở khoảng 10% số bệnh nhân; 20% số bệnh nhân có triệu chứng này trong quá trình mắc bệnh.Lan tại vùngTình trạng lan rộng theo vùng của khối u có thể gây đau ngực kiểu màng phổi hoặc khó thở dotràn dịch màng phổiphát triển, khàn tiếng do khối u xâm lấn dây thần kinh thanh quản tái phát, khó thở và hạ oxy máu do liệt cơ hoành vì thương tổn dây thần kinh cơ hoành.Hội chứng chèn ép tĩnh mạch chủ trên (SVC)kết quả từ sự chèn ép hoặc xâm lấn của SVC và có thể gây ra nhức đầu hoặc cảm giác căng đầu, sưng mặt hoặc phần trên mũi, không thở được khi nằm ngửa, tĩnh mạch nổi ở, mặt, và thân trên; đỏ mặt và thân trên (do ứ máu).Hội chứng Pancoastxảy ra khi các khối u ở vùng đỉnh, thường là NSCLC (khối u Pancoast), xâm nhập vào đám rối cánh tay, màng phổi, hoặc xương sườn, gây đau vai, đau đầu và suy nhược, hoặc teo bàn tay cùng bên. Hội chứng Pancoast cũng có thể bao gồm hội chứng Horner.Hội chứng Hornerxảy ra khi có tổn thương chuỗi giao cảm cạnh cột sống hoặc hạch hình sao ở cổ, gây ra sa mi, co đồng tử và giảm tiết mồ hôi.Tình trạng lan rộng của khối u đến màng ngoài tim có thể không có triệu chứng hoặc dẫn đếnviêm màng ngoài tim co thắthoặcchèn ép tim.Trong một số ít trường hợp, khối u chèn ép thực quản dẫn đếnkhó nuốt.Hội chứng chèn ép tĩnh mạch chủ trênHình ảnh© Springer Science+Business MediaDi cănDi căn gây ra các triệu chứng thay đổi theo vị trí. Di căn có thể lan rộngGan, gây đau, buồn nôn, nôn sớm, và cuối cùng là suy ganNão, gây ra những thay đổi về hành vi, rối loạn, mất ngôn ngữ, động kinh, tê liệt hoặc liệt, buồn nôn và nôn ói, và cuối cùng là hôn mê và tử vongXương, gây đau dữ dội và gãy xương bệnh lýTuyến thượng thận, hiếm khi gây ra tình trạng suy thượng thậnHội chứng cận uHội chứng cận ulà các triệu chứng xảy ra ở những vị trí xa khối u hoặc di căn của nó. Hội chứng cận u thường gặp ở bệnh nhân ung thư phổi bao gồmTăng canxi máu(trên bệnh nhân ung thư biểu mô tế bào vảy, là kết quả của khối u sản sinh ra protein liên quan đếnhormone của tuyến cận giáp, hoặc do các khối di căn xương lan rộng gây sản sinh các yếu tố hoạt hóa tình trạng hủy cốt bào)Hội chứng tiết ra hormone lợi niệu không thích hợp (SIADH)Phì đại đầu ngón có hoặc không có kèm theo bệnh xương khớp phì đại liên quan đến u phổiTình trạng tăng đông di chuyển ởviêm tắc tĩnh mạch nông(hội chứng Trousseau)Các triệu chứng giống bệnh nhược cơ (hội chứng Eaton-Lambert)Hội chứng CushingNhiềuhội chứng thần kinhkhácCác hội chứng thần kinh khác bao gồm bệnh thần kinh, bệnh não, viêm não, bệnh thần kinh trung ương, và bệnh thần kinh. Cơ chế cho các hội chứng thần kinh cơ liên quan đến việc biểu hiện tự miễn của khối u kháng với việc sản xuất các tự kháng thể, nhưng nguyên nhân của hầu hết các hội chứng khác là không rõ.
+
+--- 5. Chẩn đoán ung thư biểu mô phổi ---
+
+Chụp X-quang ngựcChụp CT hoặc chụp cắt lớp phát xạ positron kết hợp (PET) –CTXét nghiệm mô bệnh học về dịch màng phổi hoặc đờmSinh thiết xuyên thành ngực và sinh thiết lõi có dẫn hướng của nội soi phế quản hoặc qua daĐôi khi sinh thiết phổi qua phẫu thuậtChẩn đoán hình ảnhX-quang ngựcthường được sử dụng đầu tiên. Nó có thể cho thấy những bất thường được xác định rõ ràng, chẳng hạn như một khối duy nhất, khối đa ổ,nốt phổi đơn độc, rốn phổi rộng, trung thất rộng, hẹp khí phế quản, xẹp phổi, thâm nhiễm nhu mô không hồi phục, tổn thương dạng hang, hoặc dày màng phổi hoặc tràn dịch màng phổi không rõ nguyên nhân. Những phát hiện mang tính gợi ý nhưng không phải là chẩn đoán ung thư phổi và cần phải theo dõi CT scan hoặc kết hợp chụp cắt lớp PET-CT và chẩn đoán xác định bằng tế bào học.Ung thư phổi nguyên phátHình ảnhHình ảnh do bác sĩ Anne S. Tsao cung cấpCTcho thấy nhiều mô hình giải phẫu đặc biệt và sự xuất hiện có thể gợi ý chẩn đoán. Nếu phát hiện một tổn thương trên phim chụp X-quang thông thường có khả năng gợi ý cao về ung thư phổi (nghĩa là dựa trên các yếu tố nguy cơ như là tuổi tác, sử dụng thuốc lá, các triệu chứng), có thể thực hiện chụp PET–CT để hỗ trợ định hướng đánh giá chẩn đoán vàphân giai đoạn. Nghiên cứu này kết hợp hình ảnh giải phẫu học từ CT với hình ảnh chức năng từ PET. Hình ảnh PET có thể giúp phân biệt các quá trình viêm và ác tính. Cả CT và PET-CT đều có thể giúp sinh thiết kim lõi trực tiếp của các tổn thương không thể sinh thiết qua nội soi phế quản. Những hình ảnh chụp PET này cũng có thể phát hiện bệnh di căn theo vùng hoặc di căn ở xa.Tế bào họcPhương pháp dùng để lấy tế bào hoặc mô để chẩn đoán xác định phụ thuộc vào khả năng tiếp cận của mô và vị trí của tổn thương. Tế bào học của mẫu đờm hoặc mẫu dịch màng phổi là phương pháp ít xâm lấn nhất để xác nhận chẩn đoán ung thư phổi.Ở những bệnh nhân ho nhiều đờm, các mẫu bệnh phẩm đờm được lấy ra khi thức dậy có thể chứa nồng độ cao các tế bào ác tính, nhưng hiệu quả cho phương pháp này là<50% tổng thể.Dịch màng phổi là một nguồn tế bào hữu ích cho chẩn đoán; sự lan tỏa tế bào ác tính là một dấu hiệu của tiên lượng xấu và chỉ ra bệnh đang ở giai đoạn tiến triển.Nói chung, có thể giảm thiểu kết quả xét nghiệm tế bào học âm tính giả bằng cách lấy càng nhiều đờm hoặc càng nhiều dịch màng phổi càng sớm càng tốt trong ngày (đối với mẫu đờm) và gửi mẫu ngay đến phòng xét nghiệm bệnh lý để làm giảm thiểu sự chậm trễ trong quá trình xử lý vì sự chậm trễ đó dẫn đến phân hủy tế bào.Nghiên cứu phân tử (di truyền) có thể được thực hiện trên các viên nén tế bào khối u được nhồi từ dầu dịch màng phổi nếu dịch được tách ra và viên tế bào được bảo quản đúng thời gian.Các phương pháp can thiệpSinh thiết qua dalà thủ tục xâm lấn tối thiểu tiếp theo. Nó hữu ích hơn cho các vị trí di căn (ví dụ, hạch bạch huyết ngoại biên hoặc các hạch bạch huyết ngoại biên, màng phổi, gan, tuyến thượng thận) hơn so với tổn thương phổi. Nguy cơ bao gồm 20% đến 25% khả năng bịtràn khí màng phổi(chủ yếu là trên bệnh nhân bị khí phế thũng đáng kể) và nguy cơ có kết quả âm tính giả.Sinh thiết lõi tốt hơn so với sinh thiết bằng kim vì sinh thiết kim lấy quá ít mô cho các nghiên cứu di truyền chính xác.soi phế quảnlà thủ thuật thường được sử dụng nhất để chẩn đoán ung thư phổi. Về lý thuyết, thủ thuật được lựa chọn để lấy mô là thủ thuật ít xâm lấn nhất; tuy nhiên, trên thực tế, nội soi phế quản thường được thực hiện bổ sung hoặc thay thế cho các thủ thuật ít xâm lấn hơn vì khả năng chẩn đoán cao hơn và vì nội soi phế quản cũng rất quan trọng để phân giai đoạn. Sự kết hợp giữa rửa, chải lông, và sinh thiết tổn thương nội tạng nhìn thấy được và các hạch bạch huyết lồi lõm, cận dưới, và hạch lympho cạnh rốn phổi thường cho kết quả chẩn đoán mô.Những tiến bộ trong kỹ thuật hướng dẫn nội soi phế quản đã làm tăng khả năng chẩn đoán và độ chính xác của việc lấy mẫu tổn thương ngoại vi. Sinh thiết hướng dẫn bằng siêu âm nội soi (EBUS) có thể được thực hiện trong quá trình nội soi phế quản và đem lại hiệu quả cao. EBUS hiện là phương pháp được ưa thích để đánh giá trung thất, ngoại trừ trường hợp không thể lấy được các hạch bạch huyết do những cân nhắc về mặt giải phẫu. Nội soi phế quản điều hướng cũng được sử dụng để lấy mẫu các tổn thương ngoại vi hơn với độ chính xác trong chẩn đoán được cải thiện. Nội soi phế quản bằng robot cũng đang được triển khai tại một số trung tâm nhất định để cải thiện năng suất chẩn đoán và hạn chế số lượng các thủ thuật phẫu thuật lồng ngực.Nội soi trung thấtlà một kiểm tra tiêu chuẩn để đánh giá các hạch lympho ở trung thất nhưng là một thủ thuật có nguy cơ cao hơn thường được sử dụng trước khi phẫu thuật lồng ngực mở rộng để xác nhận hoặc loại trừ sự hiện diện của khối u ở một số ít bệnh nhân có hạch bạch huyết ở trung thất to ra không thể lấy được mẫu bằng EBUS.Sinh thiết phổi bằng phẫu thuật,được thực hiện thông quaphẫu thuật mở lồng ngực mở hoặc sử dụng video hoặc robot hỗ trợ, được chỉ định khi các phương pháp ít xâm lấn hơn không đưa ra chẩn đoán trên bệnh nhân có đặc điểm lâm sàng và đặc điểm X quang cho thấy khối u có thể cắt bỏ được.
+
+--- 6. Phân giai đoạn ung thư biểu mô phổi ---
+
+SCLC có 2 giai đoạn:Hạn chếLan rộngSCLC giai đoạn hạn chế là ung thư giới hạn ở một bên ngực (bao gồm cả hạch bạch huyết cùng phía) có thể được bao vây trong một liệu trình xạ trị, trừ khi có tràn dịch màng phổi hoặc màng ngoài tim.giai đoạn lan rộng là ung thư một bên ngực hoặc sự hiện diện của các tế bào ác tính phát hiện trong tràn dịch màng phổi hoặc màng ngoài tim. Dưới 1/3 số bệnh nhân SCLC được phát hiện khi bệnh giai đoạn hạn chế; phần còn lại của bệnh nhân thường bị di căn xa.NSCLC có 4 giai đoạn, từ I đến IV (sử dụng hệ thống TNM). Phân giai đoạn TNM dựa trên kích thước khối u, vị trí khối u và vị trí hạch bạch huyết và có hay không có các khối di căn xa (xem bảngHệ thống phân giai đoạn quốc tế dành cho bệnh ung thư phổi).Các xét nghiệm để đánh giá ban đầu và phân giai đoạnMột số phần của phân giai đoạn trong khuôn khổ của đánh giá chẩn đoán thông thường, ví dụ: sinh thiết theo dẫn hướng của siêu âm nội phế quản (EBUS) có thể được sử dụng để lấy mẫu các hạch bạch huyết phì đại cùng lúc với sinh thiết tổn thương phổi.Tất cả các bệnh nhân ung thư phổi cần chẩn đoán hình ảnh để xác định liệu bệnh có lan rộng hay không. Có thể thực hiện các kết hợp xét nghiệm khác nhau. Một số xét nghiệm được thực hiện thường xuyên, và một số khác được thực hiện tùy thuộc vào việc liệu kết quả có ảnh hưởng đến các quyết định điều trị hay không:PET hoặc tích hợp PET-CTCT từ cổ đến xương chậu và quét xương (thực hiện nếu không có PET-CT)MRI ngực (đối với khối u gần đỉnh hoặc màng phổi để đánh giá cung mạch máu)Sinh thiết các hạch có vấn đề (nếu PET không thể xác định)CT đầu hoặc MRI nãoChụp PET là một chẩn đoán hình ảnh chính xác hợp lý, test không xâm lấn từng được sử dụng để xác định các hạch lympho trung thất ác tính và các di căn xa khác (quá trình trao đổi chất). Tích hợp PET-CT, trong đó các hình ảnh PET và CT được kết hợp thành một hình ảnh duy nhất bởi các máy quét trong một tín hiệu, là chính xác hơn cho NSCLC dàn dựng hơn CT hoặc PET một mình hoặc tương quan trực quan của 2 phương pháp. Việc sử dụng PET và PET CT tích hợp bị giới hạn bởi chi phí, tính khả dụng và tính cụ thể (nghĩa là xét nghiệm khá nhạy cảm và có giá trị tiên đoán âm tính tuyệt vời, nhưng giá trị tiên đoán dương tính không cao). PET-CT có thể được sử dụng sau một thủ thuật như nội soi phế quản hoặc sinh thiết bằng kim không thể đưa ra chẩn đoán khi vẫn rất nghi ngờ về ung thư phổi trên lâm sàng.Nếu không có PET-CT, CT (HRCT) có độ phân giải thấp từ cổ đến vùng bụng trên (để phát hiện ung thư cổ tử cung, hạch to và gan) là một trong những lần thử nghiệm đầu tiên cho cả SCLC và NSCLC. Tuy nhiên, CT thường không thể phân biệt được các thay đổi sau viêm mạn tính từ việc mở rộng hạch bạch huyết ác tính trong ngực hoặc bắt đầu các tổn thương lành tính từ tổn thương gan ác tính hoặc tổn thương tuyến thượng thận (phân biệt xác định giai đoạn). Do đó, các xét nghiệm khác thường được thực hiện khi có bất thường ở những khu vực này.Khi kết quả chụp PET không xác định, có thể sử dụng nội soi phế quản kèm theo siêu âm nội phế quản, nội soi trung thất hoặc phẫu thuật nội soi lồng ngực có hỗ trợ video (VATS) để sinh thiết các hạch bạch huyết trung thất nghi vấn. Nếu không có PET scan, tổn thương gan hoặc tuyến thượng thận phải được đánh giá bằng sinh thiết kim.MRI ngực chính xác hơn một chút so với HRCT ngực cao để định vị các khối u ở đỉnh (Pancoast) và ung thư gần cơ hoành (ví dụ, u trung biểu mô) và cung cấp các đánh giá về mạch máu xung quanh các khối u. MRI cũng có thể giúp xác định xem có thể cân nhắc phẫu thuật cắt bỏ hay không.Xét nghiệm máu được thực hiện thường quy. Nồng độ canxi và kiềm phosphatase, nếu tăng, cho thấy di căn xương có thể xảy ra. Các xét nghiệm máu khác, chẳng hạn như công thức máu, aspartate aminotransferase, alanine aminotransferase, bilirubin toàn phần, chất điện giải,albumintrong huyết thanh và nồng độ creatinine, không có vai trò trong việc phân giai đoạn nhưng cung cấp thông tin tiên lượng quan trọng về khả năng dung nạp điều trị của bệnh nhân và có thể chứng minh sự hiện diện của hội chứng cận ung thư.Sau khi chẩn đoán, tất cả các bệnh nhân bị ung thư phổi phải trải qua chụp não; MRI được ưa chuộng hơn so với CT. Chụp não đặc biệt cần thiết cho những bệnh nhân nhức đầu hoặc bất thường thần kinh.Bệnh nhân bị đau xương hoặc tăng nồng độ canxi hoặc phosphatase trong huyết thanh nên được kiểm tra bằng máy PET-CT hoặc xạ hình xương nếu PET-CT không có.BảngHệ thống phân giai đoạn quốc tế dành cho ung thư phổiBảngHệ thống phân giai đoạn quốc tế dành cho ung thư phổiHệ thống phân giai đoạn quốc tế dành cho ung thư phổiPhân loạiMô tảKhối u chính (T)TisUng thư tại chỗT1Khối u≤3 cm mà không có sự xâm lấn phế quản phổi thùyT1miUng thư biểu mô tuyến xâm lấn tối thiểuT1aKhối u≤1 cmT1bKhối u>1 cm nhưng≤2 cmT1cKhối u>2 cm nhưng≤3 cmT2Khối u>3 cm nhưng≤5 cmhoặclà với bất kỳ điều nào sau đây:Liên quan đến phế quản chính, cách carina≥2 cmXâm lấn vào màng phổi tạngLiên quan đến xẹp phổi hoặc viêm phổi tắc nghẽn kéo dài đến vùng rốn phổi nhưng liên quan đến một phần phổi hoặc toàn bộ phổiT2aKhối u>3 nhưng≤4 cmT2bKhối u>4 nhưng≤5 cmT3Khối u>5 cm nhưng ≤ 7 cmhoặcvới bất kỳ điều nào sau đây:Xâm lấn thành ngực (bao gồm cả khối u ở rãnh trên), dây thần kinh hoành, màng ngoài tim thànhCác khối u khối riêng biệt trong cùng một thùyT4Khối u>7 cmhoặcvới bất kỳ điều nào sau đây:Xâm lấn vào cơ hoành, trung thất, tim, các mạch máu lớn, khí quản, dây thần kinh thanh quản quặt ngược, thực quản, thân đốt sống, hoặc xương lưỡi hái≥1 khối u ngoại vi trong một thùy khác nhauHạch bạch huyết khu vực (N)N0Không có di căn hạch bạch huyết khu vựcN1Di căn đến hạch bạch huyết quanh phế quản cùng phía hoặc xung quanh hạch cạnh rốn hoặc cả các hạch trong phổi, bao gồm cả sự xâm lấn trực tiếp của khối u nguyên phátN2Di căn đến hạch lympho trung thất hoặc dưới carina hoặc cả haiN3Di căn đến trung thất đối bên, hạch rốn phổi đối bên, hạch lymphô đối bên hoặc hạch bạch huyết thượng đòn hoặc kết hợpUng thư phổi (M)M0Không có di căn xaM1Di căn xaM1aKhối u có bất cứ điều nào sau đây:≥1 khối u phổi đối diệnCác nốt ở màng phổi hoặc ở màng ngoài timTràn dịch màng phổi hay màng ngoài tim ác tínhM1bDi căn ngoài lồng ngực đơn lẻ ở một cơ quanM1cNhiều di căn ngoài lồng ngực ở một hoặc một số cơ quanNhóm giai đoạnGiai đoạn 0: Tis N0 M0Giai đoạn IA1: T1mi–T1a N0 M0Giai đoạn IA2: T1b N0 M0Giai đoạn IA3: T1c N0 M0Giai đoạn IB: T2a N0 M0Giai đoạn IIA: T2a N0 M0Giai đoạn IIB: T1a-T2b N1 M0hoặcT3 N0 M0Giai đoạn IIIA: T1a-T2b N2 M0hoặcT3 N M0hoặcT4 N0-N1 M0Giai đoạn IIIB: T1a-T2b N3 M0hoặcT3-T4 N2 M0Giai đoạn IVA: T (bất kỳ) N (bất kỳ) M1a-M1bGiai đoạn IVB: T (bất kỳ) N (bất kỳ) M1cPhỏng theoAmerican Joint Committee on Cancer(AJCC):Bổ sung Phiếu phân giai đoạn ung thư AJCCđược cập nhật ngày 5 tháng 6 năm 2018, được truy cập trực tuyến vào năm 2020 vàDetterbeck FC: Phân loại giai đoạn TNM phiên bản thứ tám dành cho bệnh ung thư phổi: Nó có nghĩa là gì trên con đường chính?J Thorac Cardiovasc Surg155:356–359, 2018. doi: 10.1016/j.jtcvs.2017.08.138Phỏng theoAmerican Joint Committee on Cancer(AJCC):Bổ sung Phiếu phân giai đoạn ung thư AJCCđược cập nhật ngày 5 tháng 6 năm 2018, được truy cập trực tuyến vào năm 2020 vàDetterbeck FC: Phân loại giai đoạn TNM phiên bản thứ tám dành cho bệnh ung thư phổi: Nó có nghĩa là gì trên con đường chính?J Thorac Cardiovasc Surg155:356–359, 2018. doi: 10.1016/j.jtcvs.2017.08.138
+
+--- 7. Sàng lọc ung thư phổi ---
+
+Sàng lọc ung thư phổi mang lại lợi ích cho bệnh nhân mắc bệnh giai đoạn sớm, đặc biệt là NSCLC sớm có thể điều trị bằng phẫu thuật cắt bỏ và được khuyến nghị ở quần thể có nguy cơ cao. Một nghiên cứu lớn (1) đã chỉ ra rằng sàng lọc hàng năm sử dụng CT xoắn ốc liều thấp (LDCT) dẫn đến giảm 20% tử vong do ung thư phổi so với sàng lọc bằng chụp X-quang ngực. Nghiên cứu xác định quần thể có nguy cơ cao là những người trước đây hoặc hiện có hút thuốc (chủ yếu là từ 55 tuổi đến 74 tuổi) có hút ít nhất 1 bao thuốc lá mỗi ngày trong 30 năm và nếu không còn hút thuốc nữa thì họ đã bỏ thuốc trong vòng 15 năm trước đó). Một nghiên cứu gần đây về sàng lọc ở những bệnh nhân có nguy cơ cao cho thấy khả năng sống sót được cải thiện ở những bệnh nhân được sàng lọc LDCT dựa trên thể tích nốt và thời gian tăng gấp đôi thể tích (2). Tuy nhiên, sàng lọc LDCT có thể không thích hợp cho bệnh nhân không có nguy cơ cao.Lực lượng Đặc nhiệm Dịch vụ Dự phòng Hoa Kỳ (USPSTF) đã cập nhật các khuyến nghị về sàng lọc LDCT hàng năm cho những người không có triệu chứng từ 50 đến 80 tuổi với tiền sử hút ≥ 1 bao thuốc lá mỗi ngày trong 20 năm hiện có hút thuốc hoặc đã bỏ thuốc dưới 15 năm (3). Cần phải có các buổi bàn bạc về quyết định chung giữa bác sĩ lâm sàng và bệnh nhân trước khi sàng lọc. Việc ra quyết định chung về sàng lọc cần phải bao gồm các buổi bàn bạc để loại trừ những bệnh nhân không được hưởng lợi từ việc phát hiện sớm, chẳng hạn như những người từ chối điều trị hoặc không thể hoàn tất điều trị do các tình trạng bệnh lý nghiêm trọng khác. Thêm vào đó, khuyến cáo LDCT phải được thực hiện tại các cơ sở có khả năng LDCT đã được chứng minh và tuân thủ các quy trình đã được thiết lập để chẩn đoán và điều trị tiếp theo.Trong tương lai, sàng lọc ung thư phổi có thể bao gồm một số kết hợp phân tích phân tử về các chất chỉ điểm di truyền (ví dụ:KRAS,TP53,EGFR), đếm tế bào trong đờm và phát hiện các hợp chất hữu cơ dễ bay hơi liên quan đến ung thư (ví dụ: alkane, benzen) trong hơi thở ra.Tài liệu tham khảo về sàng lọc bệnh1.National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al: Reduced lung-cancer mortality with low-dose computed tomographic screening.New Engl J Med365 (5):395–409, 2011. doi: 10.1056/NEJMoa1102873.2.de Koning HJ, van der Aalst CM, de Jong PA, et al: Reduced lung-cancer mortality With volume CT screening in a randomized trial.New Engl J Med382:503–513, 2020. doi: 10.1056/NEJMoa19117933.US Preventive Services Task Force: Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement.JAMA325(10):962-970, 2021. doi: 10.1001/jama.2021.1117
+
+--- 8. Điều trị ung thư biểu mô phổi ---
+
+Phẫu thuật (tùy thuộc vào loại tế bào và giai đoạn)Hóa trị liệuLiệu pháp bức xạLiệu pháp miễn dịchĐiều trị ung thư phổi khác nhau tùy theo loại tế bào và theo giai đoạn của bệnh. Những yếu tố nguy cơ của bệnh nhân ngoài những liên quan đến khối u cũng ảnh hưởng đến sự lựa chọn điều trị. Dự trữ tim phổi kém, suy dinh dưỡng, tình trạng sức khỏe yếu hoặc kém (được đánh giá bởi, ví dụ như trạng thái hoạt động của Karnofsky [KPS] hoặc trạng thái hoạt động của Tổ chức liên hợp chuyên ngành Ung thư phía Đông nước Mỹ [ECOGPS]), các bệnh đi kèm, bao gồm giảm tế bào máu và bệnh tâm thần hoặc suy giảm nhận thức, dựa vào đó để đưa đến một quyết định cho biện pháp điều trị giảm nhẹ hoặc không điều trị, mặc dù phương pháp điều trị bằng liệu pháp tấn công có thể khả thi.Xạ trịcó nguy cơ viêm phổi do phóng xạ khi vùng phổi lớn tiếp xúc với liều lượng phóng xạ cao theo thời gian. Viêm phổi do phóng xạ có thể xảy ra sau thời điểm kết thúc điều trị từ 1 tháng đến 12 tháng. Ho, khó thở, sốt nhẹ, hoặc viêm màng phổi có thể dấu hiệu tình trạng, như tiếng ran nổ hoặc tiếng cọ xát màng phổi được phát hiện khi nghe phổi. Chụp X-quang ngực có thể có những kết quả không đặc hiệu; CT có thể cho thấy một thâm nhiễm không đặc hiệu ngoài 1 khối rõ ràng. Chẩn đoán thường là chẩn đoán loại trừ. Viêm phổi do phóng xạ có thể điều trị bằng corticosteroid trong vài tuần và thuốc giãn phế quản để giảm triệu chứng.Việc cắt bỏ bằng sóng cao tầntrong đó dòng điện tần số cao được sử dụng để phá hủy tế bào khối u, là một kỹ thuật đôi khi có thể được sử dụng ở những bệnh nhân có khối u nhỏ, giai đoạn sớm hoặc các khối u nhỏ tái phát ở ngực bị chiếu xạ trước đó. Thủ tục này có thể bảo vệ chức năng phổi nhiều hơn là phẫu thuật mở. thêm vào đó, vì nó ít xâm lấn nên thích hợp cho bệnh nhân không điều trị bằng phẫu thuật mở.Liệu pháp miễn dịchkhai thác hệ miễn dịch của cơ thể để loại bỏ ung thư và được sử dụng để điều trị ung thư phổi không tế bào nhỏ giai đoạn tiến triển (IV) nếu có biểu hiện ở mức cao của protein kích hoạt chết tế bào theo chương trình 1 (PD-1) hoặc PDL-1 (xem bảngMột số loại thuốc điều trị nhắm đích trong ung thư phổi không tế bào nhỏ).SCLCSCLC ở giai đoạn bất kỳ thường đáp ứng với điều trị ban đầu, nhưng đáp ứng thường ngắn. Hoá trị liệu, có hoặc không có xạ trị tùy theo giai đoạn bệnh. Liệu pháp miễn dịch cũng có thể được sử dụng trong SCLC lan rộng. Ở nhiều bệnh nhân, hóa trị kéo dài sự sống còn và cải thiện chất lượng cuộc sống đủ để đảm bảo việc sử dụng nó.Phẫu thuật thường không đóng vai trò trong điều trị ung thư phổi tế bào nhỏ, mặc dù nó có thể được điều trị ở số hiếm bệnh nhân có khối u nhỏ mà không có di căn (nhưu phổi đơn độc) đã trải qua phẫu thuật cắt bỏ trước khi khối u được xác định là ung thư phổi tế bào nhỏ.Ngọc trai & cạm bẫyPhẫu thuật thường không đóng vai trò trong điều trị SCLC, mặc dù nó có thể điều trị được ở số hiếm bệnh nhân có khối u nhỏ khu trú mà không có di căn.Các phác đồ hóa trị của etoposide và hợp chất paltinum (hoặc cisplatin hoặc carboplatin) thường được sử dụng, như các thuốc khác, như irinotecan, topotecan, alkaloid vinca (vinblastine, vincristine, vinorelbine), các chất alkylating (cyclophosphamide, ifosfamide), doxorubicin, taxanes (docetaxel, paclitaxel), và gemcitabine.Trong giai đoạn khu trú,khi bệnh bị giới hạn ở ho máu, xạ trị thúc đẩy cải thiện kết quả lâm sàng; phản ứng như vậy đối với xạ trị là cơ sở cho việc định nghĩa bệnh giai đoạn hạn chế. Việc sử dụng xạ trị não dự phòng để ngăn ngừa di căn não cũng được ủng hộ trong một số trường hợp nhất định; siêu âm micromet thường gặp ở SCLC, và hóa trị liệu có ít khả năng vượt qua hàng rào máu-não.Trong bệnh giai đoạn lan rộng,điều trị dựa trên hóa trị liệu chứ không phải xạ trị, mặc dù xạ trị thường được sử dụng như là liệu pháp giảm nhẹ cho di căn đến xương hoặc não. Ở những bệnh nhân có đáp ứng tốt với hóa trị liệu, xạ trị não đôi khi được sử dụng như trong SCLC trong giai đoạn hạn chế để ngăn ngừa sự phát triển của SCLC trong não. Hiếm khi, những bệnh nhân được lựa chọn có đáp ứng gần như hoàn toàn với hóa trị, liệu pháp xạ trị ngực đôi khi được cho là cải thiện trong kiểm soát bệnh. Chưa sáng tỏ việc thay thế etoposide bằng chất ức chế topoisomerase (irinotecan hoặc topotecan) sẽ cải thiện sự sống còn. Các loại thuốc đơn thuần này hoặc kết hợp với các thuốc khác cũng thường được sử dụng trong các bệnh dai dẳng khó chữa và ung thư ở cả hai giai đoạn đã tái phát. Liệu pháp miễn dịch cũng có thể được sử dụng trong SCLC lan rộng.Nói chung,SCLC tái phátmang một tiên lượng xấu, ngay cả những bệnh nhân được cho rằng ở trạng thái hoạt động tốt cũng nên được tiếp tục điều trị trong một thử nghiệm lâm sàng.NSCLCĐiều trị NSCLC thường bao gồm việc đánh giá khả năng đủ điều kiện để phẫu thuật, sau đó là lựa chọn phẫu thuật, hóa trị liệu (bao gồm liệu pháp nhắm đích và liệu pháp miễn dịch), xạ trị hoặc phối hợp các phương thức phù hợp, tùy thuộc vào loại và giai đoạn của khối u.Vớigiai đoạn I và bệnh II,phương pháp tiếp cận tiêu chuẩn là phẫu thuật cắt bỏ hoặc cắt bỏ thùy hoặc cắt bỏ khí phế quản kết hợp với lấy mẫu hạch bạch huyết trung thất hoặc lấy mẫu toàn bộ hạch bạch huyết. Cắt bỏ lược bớt, bao gồm cắt bỏ phân đoạn và nạo vét, được xem xét cho bệnh nhân với dự trữ phổi kém. Phẫu thuật là chính cho khoảng 55 đến 70% bệnh nhân giai đoạn I và 35 đến 55% bệnh nhân mắc bệnh giai đoạn II. Kết quả có vẻ tốt hơn khi phẫu thuật cắt bỏ được thực hiện bởi một bác sĩ phẫu thuật ung thư lồng ngực có chuyên môn về ung thư phổi (1, 2). Thay vào đó, những bệnh nhân mắc bệnh ở giai đoạn sớm có nguy cơ cao khi phẫu thuật có thể được điều trị tại chỗ, không phẫu thuật, chẳng hạn như xạ trị (lập thể hoặc thông thường) hoặc triệt đốt bằng tần số vô tuyến.Chức năng hô hấp trước mổđược đánh giá. Phẫu thuật chỉ được thực hiện nếu bệnh nhân mắc NSCLC sẽ có đủ dự trữ phổi sau khi cắt bỏ thùy hoặc phổi. Bệnh nhân có thể tích thở ra gắng sức trước khi mổ trong 1 giây (FEV1)>2 L nhìn chung có thể dung nạp phẫu thuật cắt phổi. Những bệnh nhân có FEV1<2 L cần phải được chụp quét tưới máu hạt nhân phóng xạ xenon định lượng để xác định tỷ lệ chức năng mà họ có thể mất đi do phẫu thuật cắt bỏ. Sau phẫu thuật FEV1 có thể dự đoán bằng sự tăng lên của phần trăm nồng độ ở phần phổi không bị cắt bỏ với trước khi phẫu thuật FEV1. FEV1 dự đoán>800 mL hoặc>40% mức FEV1 bình thường dự đoán cho thấy chức năng phổi thích hợp sau phẫu thuật, mặc dù các nghiên cứu về phẫu thuật giảm thể tích phổi trên bệnh nhân mắc COPD (bệnh phổi tắc nghẽn mạn tính) cho thấy bệnh nhân có FEV1<800 mL có thể chịu được việc cắt bỏ nếu ung thư nằm ở vùng phổi có kén khí, chức năng kém (thường là vùng đỉnh).Hóa trị tân bổ trợ (trước phẫu thuật)trong NSCLC giai đoạn sớm cũng thường được sử dụng và bao gồm 4 chu kỳ dùng bộ đôi thuốc cisplatin (dạng phối hợp của cisplatin và một loại thuốc hóa trị khác, chẳng hạn như vinorelbine, docetaxel, paclitaxel). Ở những bệnh nhân không dung nạp cisplatin, carboplatin có thể được dùng thay thế. Phối hợp hóa trị tân bổ trợ và liệu pháp miễn dịch là một lĩnh vực đang được nghiên cứu tích cực; việc điều trị được dung nạp tốt ở một số quần thể nhất định và cải thiện thời gian sống thêm.Hóa trị liệu bổ trợsau phẫu thuật bây giờ là tiêu chuẩn thực hành cho bệnh nhân có bệnh giai đoạn II hoặc giai đoạn III và có thể cũng cho bệnh nhân có bệnh giai đoạn IB và các khối u>4 cm. Hóa trị bổ trợ làm tăng tỷ lệ sống thêm 5 năm. Tuy nhiên, quyết định sử dụng hoá trị liệu bổ trợ phụ thuộc vào sự kết hợp của bệnh nhân và đánh giá nguy cơ. Một phác đồ hóa trị liệu thường được sử dụng là phác đồ bộ đôi thuốc có cisplatin.Bệnh giai đoạn IIIcó thể được điều trị bằng hóa trị, xạ trị, phẫu thuật, hoặc kết hợp các liệu pháp; trình tự và sự lựa chọn điều trị phụ thuộc vào vị trí khối u và bệnh đồng mắc. Nói chung, hóa trị, liệu pháp miễn dịch và xạ trị đồng thời được coi là phương pháp điều trị tiêu chuẩn cho bệnh ở giai đoạn IIIA trên lâm sàng không thể cắt bỏ được, nhưng thời gian sống thêm vẫn còn kém (thời gian sống thêm trung bình từ 10 tháng đến 14 tháng). Bệnh nhân bị bệnh giai đoạn IIIB có hạch trung thất đối bên hoặc hạch thượng đòn được điều trị bằng xạ trị hoặc hóa trị hoặc cả hai. Bệnh nhân có khối u xâm lấn tại chỗ vào tim, các mạch máu lớn, tĩnh mạch, hoặc xương sống thường được xạ trị. Ở một số bệnh nhân (ví dụ những người có khối u T4 N0 M0), phẫu thuật cắt bỏ khối u kết hợp với hóa trị và xạ trị tiền phẫu hoặc hậu phẫu có thể là phương án khả thi.Ởbệnh giai đoạn IV,mục tiêu là kéo dài thời gian sống thêm và giảm nhẹ các triệu chứng. Hóa trị, thuốc điều trị đích và xạ trị có thể được sử dụng để làm giảm kích thước khối u, giảm triệu chứng, và cải thiện chất lượng cuộc sống. Tuy nhiên, nếu không xác định được một đột biến nào có thể điều trị bằng thuốc điều trị nhắm đích thì tỷ lệ sống sót trung vị chỉ còn 9 tháng và<25% số bệnh nhân sống sót 1 năm. Phẫu thuật điều trị triệu chứng có thể được yêu cầu trong một số trường hợp như dẫn lưu màng phổi, làm dính màng phổi trong tràn dịch màng phổi tái phát, đặt catheter màng phổi, nội soi phế quản đốt u ở khí quản và phế quản chính, đặt stent để ngăn ngừa tắc nghẽn đường thở, và trong một số trường hợp có thể cố định cột sống nhằm phòng ngừa xẹp đốt sống.Công cụ tính toán lâm sàngDự đoán FEV1 hậu phẫu Sau Phẫu thuật Phổi (Phương pháp Giải phẫu)Công cụ tính toán lâm sàngDự đoán FEV1 hậu phẫu sau phẫu thuật Phổi (Phương pháp Perfusion)Mục tiêu điều trị cho NSCLCĐiều trị NSCLC dựa trên đáp ứng thuốc. Phân tích phân tử được thực hiện trên các ung thư biểu mô tuyến để tìm kiếm các đột biến cụ thể có thể điều trị trực tiếp (xem bảngMột số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏ). Một số loại thuốc ung thư miễn dịch (nivolumab, pembrolizumab, durvalumab và atezolizumab) có sẵn để điều trị NSCLC. Những loại thuốc này kích thích sự đáp ứng miễn dịch, hỗ trợ ung thư được nhận ra là ngoại lai và ức chế khả năng ngăn chặn phản ứng của hệ miễn dịch. Những loại thuốc này được sử dụng nếu khối u tiến triển mặc dù đã được điều trị bằng hóa chất (thường là platinum), và nhiều nghiên cứu đang được thực hiện để xác định khối u nào sẽ đáp ứng với điều trị này. Ví dụ, các khối u có biểu hiện cao của protein PD-L1 đáp ứng với điều trị bằng pembrolizumab.Đối với các khối u có đột biến thúc đẩy gen sinh ung thư, điều trị đích được sử dụng đầu tiên. Ở những bệnh nhân mắc bệnh giai đoạn IV và có các đột biếnEGFRnhạy cảm (tức là đột biến mất đoạn exon 19, đột biến L858 ở exon 21), thuốc ức chế tyrosine kinase (TKIs) của EGFR có thể được dùng làm liệu pháp bước đầu; tỷ lệ đáp ứng và tỷ lệ sống thêm không bệnh tiến triển tốt hơn so với tỷ lệ thu được khi sử dụng hóa trị liệu tiêu chuẩn. EGFR TKI bao gồm gefitinib, erlotinib, afatinib, và brigatinib.Osimertinib là thuốc điều trị được lựa chọn cho NSCLC đột biến EGFR có đột biến T790M mắc phải. Ở những bệnh nhân có NSCLC không vảy mà không có đột biến thúc đẩy gen sinh ung thư, bevacizumab, một chất ức chế yếu tố tăng trưởng nội mô mạch máu, có thể được sử dụng kết hợp với hóa trị liệu tiêu chuẩn (ví dụ, chất kết dính platinum, như carboplatin cộng với paclitaxel). Necitumumab có thể được sử dụng phối hợp với cisplatin cộng với gemcitabine để điều trị bước đầu ung thư biểu mô tế bào vảy NSCLC.Những bệnh nhân có các đột biến dung hợp gen EML-4-ALK cần phải được dùng thuốc ức chếALKvàROS1(crizotinib, ceritinib hoặc alectinib). Bệnh nhân có đột biếnALKcó thể được sử dụng alectinib hoặc ceritinib.Bệnh nhân có các đột biếnBRAFđược hưởng lợi từ các thuốc ức chếBRAF(ví dụ: dabrafenib, trametinib). Nhiều tác nhân sinh học nhắm mục tiêu khác đang được điều tra, bao gồm một số tác nhân nhắm mục tiêu cụ thể vào con đường dẫn truyền tín hiệu tế bào ung thư hoặc con đường hình thành mạch cung cấp oxy và dinh dưỡng cho các tế bào khối u đang phát triển.BảngMột số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏBảngMột số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏMột số loại thuốc điều trị nhắm mục tiêu cho ung thư phổi không tế bào nhỏMục tiêuThuốc uốngNSCLCSắp xếp lạiALKAlectinibBrigatinibCeritinibCrizotinibUng thư biểu mô tuyếnĐột biếnBRAFDabrafenibTrametinibUng thư biểu mô tuyếnUng thư biểu mô tế bào vảyĐột biếnEGFRAfatinibErlotinibGefitinibNecitumumabUng thư biểu mô tuyếnUng thư biểu mô tế bào vảyEGFR(đột biến T790M)OsimertinibUng thư biểu mô tuyếnỨc chế tăng trưởng của mạch máuBevacizumabRamucirumabUng thư biểu mô tuyếnKích hoạt miễn dịch (chất ức chế điểm kiểm tra)AtezolizumabCemiplimabDurvalumabIpilimumabNivolumabPembrolizumabUng thư biểu mô tuyếnUng thư biểu mô tế bào vảyNSCLC = Ung thư phổi không phải tế bào nhỏ.NSCLC = Ung thư phổi không phải tế bào nhỏ.Ung thư phổi tái phátCác phương án điều trị ung thư phổi tái phát sau khi điều trị dứt điểm khác nhau tùy theo vị trí và bao gồm hóa trị lặp lại hoặc thuốc nhắm đích trong điều trị di căn, xạ trị trong điều trị tái phát tại chỗ hoặc đau do di căn và xạ trị áp sát trong điều trị khối u nội phế quản khi không thể chịu đựng thêm bức xạ bên ngoài. Hiếm khi, phẫu thuật cắt bỏ di căn đơn độc hoặc vì mục đích giảm nhẹ được xem xét.Điều trị NSCLC tái phát tại chỗ theo các hướng dẫn tương tự như đối với các giai đoạn u nguyên phát từ I đến III. Ở bệnh nhân đã được phẫu thuật trước đó, xạ trị là phương thức điều trị chủ yếu. Nếu tái phát biểu hiện là các di căn xa, bệnh nhân được điều trị như bệnh giai đoạn IV với mục tiêu chủ yếu là điều trị giảm nhẹ.Điều trị NSCLC giai đoạn IV tái phát hoặc di căn bao gồm hóa trị liệu hoặc các loại thuốc điều trị đích. Sự lựa chọn phụ thuộc vào mô học khối u, hồ sơ đột biến, tình trạng chức năng của bệnh nhân và sự ưu tiên của bệnh nhân. Ví dụ: TKI củaEGFR, chẳng hạn như gefitinib hoặc erlotinib, có thể được sử dụng làm liệu pháp bước hai hoặc liệu pháp bước ba ngay cả ở những bệnh nhân không có đột biếnEGFRnhạy cảm. Khi NSCLC tiến triển, các lần sinh thiết lặp lại thường được thực hiện để lặp lại phân tích phân tử và PD-L1, có thể dẫn hướng điều trị trong tương lai.Các biến chứng của ung thư phổiTràn dịch màng phổikhông triệu chứng không cần điều trị. Điều trị ban đầu của tràn dịch màng phổi có triệu chứng làchọc hút màng phổi. Tràn dịch màng phổi tái phát nhiều lần sau chọc dò màng phổi được chỉ định dẫn lưu màng phổi. Việc truyền bột talc (hoặc đôi khi là tetracycline hoặc bleomycin) vào khoang màng phổi (một thủ thuật được gọi là làm dính màng phổi), loại bỏ khoang màng phổi và hiệu quả>90% số trường hợp. Gây viêm màng phổi cũng có thể được thực hiện bằng phẫu thuật, thường là thủ thuật phẫu thuật nội soi lồng ngực có hỗ trợ video (VATS).Điều trị hội chứng tĩnh mạch chủ trên cũng giống như điều trị ung thư phổi, bằng hóa trị (SCLC), xạ trị (NSCLC) hoặc cả hai (NSCLC). Corticosteroid thường được sử dụng nhưng chưa chứng minh được lợi ích.Điều trịhội chứng Hornerdo u vùng đỉnh phổi là phẫu thuật kèm theo hoặc không kèm theo xạ trị trước phẫu thuật hoặc xạ trị kèm theo hoặc không kèm theo hóa trị bổ trợ.Điều trịhội chứng cận uthay đổi theo hội chứng.Chăm sóc cuối đờiBởi tỉ lệ sống thêm thấp, nhu cầu vềchăm sóc cuối đờinên được dự đoán. Các nghiên cứu đã báo cáo rằng can thiệp giảm nhẹ sớm đã dẫn đến giảm sử dụng hóa trị giai đoạn cuối và thậm chí có thể kéo dài cuộc sống (ví dụ bằng cách tránh những phản ứng phụ của các phương pháp điều trị tích cực).Triệu chứng khó thở có thể được điều trị bằng oxy bổ sung và thuốc giãn phế quản. Khó thở giai đoạn hấp hối có thể được điều trị bằng opioid.Đau, lo lắng, buồn nôn, và chán ăn là đặc biệt phổ biến và có thể được điều trị bằng morphine đường tiêm; đường uống, qua da, hoặc các opioid khác; và thuốc chống nôn.Sự chăm sóc được cung cấp theo chương trình nhà an dưỡng cuối đời rất được các bệnh nhân và gia đình chấp nhận, tuy nhiên sự can thiệp này được sử dụng rất ít.Tài liệu tham khảo về điều trị1.Farjah F, Flum DR, Varghese TK Jr, et al: Surgeon specialty and long-term survival after pulmonary resection for lung cancer.Ann Thorac Surg87 (4):995–1004, 2009. doi: 10.1016/j.athoracsur.2008.12.0302.Schipper PH, Diggs BS, Ungerleider RM, Welke KF: The influence of surgeon specialty on outcomes in general thoracic surgery: A national sample 1996 to 2005.Ann Thorac Surg88 (5):1566–1572, 2009. doi: 10.1016/j.athoracsur.2009.08.055
+
+--- 9. Tiên lượng dành cho bệnh ung thư biểu mô phổi ---
+
+Đối với SCLC, tiên lượng tổng thể là tồi. Thời gian sống trung vị của SCLC giai đoạn giới hạn là 20 tháng, tỷ lệ sống sót 5 năm là 20%. Bệnh nhân có SCLC giai đoạn lan rộng đặc biệt kém, với tỉ lệ sống sót 5 năm<1%.Đối với NSCLC,tỷ lệ có thời sống gian 5 năm thay đổi tùy theo giai đoạn, từ 68% đến 92% đối với bệnh nhân mắc bệnh giai đoạn I thành 0% đến 10% đối với bệnh nhân mắc bệnh giai đoạn IV (1). Trung bình, những bệnh nhân không điều trị NSCLC di căn sống được 6 tháng, trong khi tỷ lệ sống trung bình của bệnh nhân được điều trị khoảng 9 tháng. Thời gian sống thêm của bệnh nhân đã được cải thiện ở cả NSCLC giai đoạn sớm và giai đoạn muộn. Bằng chứng cho thấy tỷ lệ sống sót được cải thiện ở giai đoạn sớm (giai đoạn IB đến IIIB) khi phác đồ hoá trị dựa trên platinum được sử dụng sau khi phẫu thuật cắt bỏ. Ngoài ra, các liệu pháp nhắm đích đã cải thiện thời gian sống thêm trên bệnh nhân mắc bệnh giai đoạn IV, đặc biệt là những bệnh nhân có đột biếnEGFRhoặc đột biến dung hợp EML-4-ALK hoặc đột biến dung hợpROS1. Các liệu pháp nhắm mục tiêu và các phương pháp điều trị tuần tự được cải thiện đang từng bước kéo dài thời gian sống thêm, đặc biệt là ở bệnh giai đoạn sau.Tài liệu tham khảo về tiên lượng bệnh1.Goldstraw P, Chansky K, Crowley J, et al: The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM Classification for Lung Cancer.J Thorac Oncol11(1):39-51, 2016 doi:10.1016/j.jtho.2015.09.009
+
+--- 10. Phòng ngừa ung thư biểu mô phổi ---
+
+Không có can thiệp tích cực nào để phòng ngừa ung thư phổi được chứng minh là có hiệu quả ngoại trừngừng hút thuốc lá.Việc khắc phục nồng độ radon cao trong các khu dân cư sẽ loại bỏ được bức xạ gây ung thư đã biết, tuy nhiên việc giảm tỷ lệ ung thư phổi vẫn chưa được chứng minh.Tăng hoa quả và rau củ chứa nhiều retinoids và beta-caroten trong chế độ ăn dường như không có ảnh hưởng đến tỷ lệ ung thư phổi. Bổ sung vitamin hoặc là chưa được chứng minh (vitamin E) hoặc là có hại (beta-caroten) ở những người hút thuốc. Chưa xác nhận bằng chứng cho thấy thuốc chống viêm không steroid (NSAID) và bổ sung vitamin E có thể bảo vệ những người trước đây hút thuốc khỏi ung thư phổi. Các biện pháp can thiệp điều trị dự phòng, ngoài việc ngừng hút thuốc, chỉ nên thực hiện như một phần của thử nghiệm lâm sàng.Các phương pháp tiếp cận phân tử nhằm vào các tín hiệu tế bào và chu kỳ tế bào, các kháng nguyên liên quan đến khối u (điều trị dự phòng bằng thuốc) đang được nghiên cứu.
+
+--- 11. Những điểm chính ---
+
+Yếu tố chính góp phần vào ung thư phổi là hút thuốc lá.Khoảng 15% bệnh nhân ung thư phổi không bao giờ hút thuốc lá và nghi ngờ đột biến gen sinh ung thư.Ung thư phổi có thể là ung thư phổi tế bào nhỏ (SCLC) hoặc ung thư phổi không tế bào nhỏ (NSCLC).Một số đột biến thúc đẩy di truyền có thể tuân theo các loại thuốc nhắm đích đã được xác định trong NSCLC; ung thư biểu mô tuyến mới được chẩn đoán cần phải được xét nghiệm về các đột biếnEGFR,ALK,BRAFvàROS1. Cũng cần phải nhuộm màu miễn dịch PD-L1 cho các khối u.Các biểu hiện có thể bao gồm ho, sốt, khàn giọng, tràn dịch màng phổi, viêm phổi, khối u Pancoast, hội chứng cận ung thư, hội chứng tĩnh mạch chủ trên, hội chứng Horner và các khối di căn đến não, gan và xương.Nghi ngờ chẩn đoán dựa trên các triệu chứng lâm sàng và chẩn đoán hình ảnh (ví dụ, CT, PET-CT), và chẩn đoán xác định theo giải phẫu bệnh (ví dụ, bằng tế bào học của đờm hoặc dịch phổi hay sinh thiết lõi).Cân nhắc sàng lọc hàng năm bằng CT xoắn ốc liều thấp cho những người hiện đang hút thuốc và những người trước đây hút thuốc ≥ 50 tuổi và có nguy cơ cao (hút > 1 bao thuốc mỗi ngày trong 20 năm, những người trước đây hút thuốc phải bỏ thuốc < 15 năm trước); cần phải có quyết định chung trước khi theo đuổi việc chẩn đoán hình ảnh.Làm xét nghiệm, bắt đầu bằng hình ảnh toàn cơ thể, để xác định giai đoạn ung thư.Điều trị NSCLC giai đoạn sớm bằng phẫu thuật cắt bỏ khi dự trữ phổi là phù hợp, thường là theo sau bởi hóa trị liệu.Điều trị SCLC và NSCLC giai đoạn tiến triển với hóa trị liệu và, hoặc liệu pháp miễn dịch.Cần phải hoàn tất xét nghiệm di truyền đối với ung thư biểu mô tuyến để giúp xác định phác đồ điều trị.
+
+--- 12. Thông tin thêm ---
+
+Các nguồn tiếng Anh sau đây cung cấp thông tin cho bác sĩ lâm sàng. CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Lung Cancer Mutation Consortium: group of cancer centers that conduct clinical trialsUS Preventive Services Task Force Recommendations for Lung Cancer ScreeningEastern Cooperative Oncology Group: A multidisciplinary organization that designs and conducts cancer research

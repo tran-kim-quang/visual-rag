@@ -1,0 +1,903 @@
+TIÊU ĐỀ: Miễn dịch ung thư
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/miễn-dịch-học-khối-u/miễn-dịch-ung-thư
+================================================================================
+
+NỘI DUNG:
+
+Miễn dịch ung thư
+
+Theo
+
+Robert Peter Gale
+
+,
+
+MD, PhD, DSC(hc)
+
+,
+
+Imperial College London
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2024
+
+|
+
+đã sửa đổi
+
+Thg 12 2024
+
+v978209_vi
+
+Miễn dịch tế bào thụ động
+
+|
+
+Liệu pháp miễn dịch thể thụ động
+
+|
+
+Liệu pháp miễn dịch chủ động đặc hiệu
+
+|
+
+Liệu pháp miễn dịch và ức chế đích đáp ứng miễn dịch
+
+|
+
+Liệu pháp miễn dịch không đặc hiệu
+
+|
+
+Thông tin thêm
+
+|
+
+Một số can thiệp miễn dịch, cả thụ động và chủ động, có thể kháng trực tiếp các tế bào khối u. (Xem thêm
+
+Điều trị miễn dịch
+
+.)
+
+Miễn dịch tế bào thụ động
+
+Trong liệu pháp miễn dịch tế bào thụ động, các tế bào hiệu ứng cụ thể được truyền trực tiếp và không được kích thích bên trong bệnh nhân.
+
+Tế bào tiêu diệt hoạt hóa bởi lymphokine (LAK)
+
+được sản sinh từ ​​tế bào T hoặc tế bào NK của bệnh nhân, được chiết xuất từ ​​máu và nuôi cấy trong hệ thống nuôi cấy tế bào với lymphokine interleukin-2 (IL-2). Các tế bào LAK được sản sinh ra sau đó được đưa trở lại máu của bệnh nhân hoặc có thể được tiêm vào khối u. Các nghiên cứu trên động vật đã chỉ ra rằng tế bào LAK có hiệu quả chống lại tế bào ung thư cao hơn tế bào T nội sinh, có lẽ là do số lượng của chúng nhiều hơn. Các thử nghiệm lâm sàng về tế bào LAK ở người đang được tiến hành, nhưng phương pháp này chưa được sử dụng rộng rãi và thường được coi là kém hiệu quả hơn các liệu pháp tế bào khác (
+
+1, 2, 3, 4
+
+).
+
+Tế bào lympho xâm nhập khối u
+
+(TIL) có thể có hoạt động chống ung thư mạnh hơn tế bào LAK. Các tế bào này được nuôi cấy trong môi trường giống như tế bào LAK. Tuy nhiên, các tế bào tiền thân bao gồm các tế bào T được phân lập từ mô khối u đã được cắt bỏ. Quá trình này về mặt lý thuyết cung cấp một dòng tế bào T có tính đặc hiệu khối u cao hơn so với những tế bào thu được từ máu. Các nghiên cứu lâm sàng đã cho thấy nhiều hứa hẹn (
+
+5
+
+).
+
+Về cơ bản, các tế bào lympho T biến đổi
+
+có thể biểu hiện
+
+Thụ thể tế bào lympho T
+
+(TCR) nhận biết được các
+
+kháng nguyên liên quan đến khối u
+
+(TAA) với độ đặc hiệu cao với các tế bào của khối u. Cách tiếp cận này nói chung đã nhường chỗ cho tế bào CAR-T (xem bên dưới)
+
+Thụ thể kháng nguyên thể khảm
+
+(CAR) nhận diện các protein đặc hiệu trên bề mặt các tế bào khối u. Tế bào CAR T được sử dụng cho những bệnh nhân mắc
+
+u lympho
+
+tế bào B,
+
+bệnh bạch cầu dòng nguyên bào lympho cấp
+
+và
+
+u tủy tương bào
+
+(
+
+6, 7, 8, 9, 10
+
+).
+
+Trái ngược với các tế bào lympho T có TCR, các tế bào lympho T có CAR chỉ nhận biết các protein tương đối lớn trên bề mặt các tế bào khối u. Do đó các tế bào lympho T có CAR và các tế bào lympho T có TCR có thể trở thành các liệu pháp bổ sung cho điều trị ung thư.
+
+Sử dụng đồng thời interferon làm tăng biểu hiện kháng nguyên phức hợp hòa hợp mô chủ yếu (MHC) và TAA trên bề mặt tế bào u, do đó làm tăng sự giết chết tế bào khối u bằng các tế bào hiệu ứng.
+
+Tài liệu tham khảo về liệu pháp miễn dịch tế bào thụ động
+
+1.
+
+Eberlein TJ, Schoof DD, Jung SE, et al
+
+: A new regimen of interleukin 2 and lymphokine-activated killer cells. Efficacy without significant toxicity.
+
+Arch Intern Med
+
+1988;148(12):2571–2576, 1988. doi:10.1001/archinte.1988.00380120039008
+
+2.
+
+Mandriani B, Pelle' E, Pezzicoli G, et al
+
+: Adoptive T-cell immunotherapy in digestive tract malignancies: Current challenges and future perspectives.
+
+Cancer Treat Rev
+
+100:102288, 2021. doi:10.1016/j.ctrv.2021.102288
+
+3.
+
+Page A, Chuvin N, Valladeau-Guilemond J, Depil S
+
+: Development of NK cell-based cancer immunotherapies through receptor engineering.
+
+Cell Mol Immunol
+
+21(4):315–331, 2024. doi:10.1038/s41423-024-01145-x
+
+4.
+
+Saito H, Ando S, Morishita N, et al
+
+: A combined lymphokine-activated killer (LAK) cell immunotherapy and adenovirus-p53 gene therapy for head and neck squamous cell carcinoma.
+
+Anticancer Res
+
+34(7):3365–3370, 2014.
+
+5.
+
+Wang S, Sun J, Chen K, et al
+
+: Perspectives of tumor-infiltrating lymphocyte treatment in solid tumors.
+
+BMC Med
+
+19, 140 (2021). https://doi.org/10.1186/s12916-021-02006-4
+
+6.
+
+Cappell KM, Kochenderfer JN
+
+: Long-term outcomes following CAR T cell therapy: what we know so far.
+
+Nat Rev Clin Oncol
+
+20(6):359–371, 2023. doi:10.1038/s41571-023-00754-1
+
+7.
+
+Dabas P, Danda A
+
+: Revolutionizing cancer treatment: a comprehensive review of CAR-T cell therapy.
+
+Med Oncol
+
+40(9):275, 2023. doi:10.1007/s12032-023-02146-y
+
+8.
+
+June CH, O'Connor RS, Kawalekar OU, et al
+
+: CAR T cell immunotherapy for human cancer.
+
+Science
+
+359(6382):1361-1365, 2018. doi:10.1126/science.aar6711
+
+9.
+
+Sadelain M, Brentjens R, Rivière I
+
+: The basic principles of chimeric antigen receptor design.
+
+Cancer Discov
+
+3(4):388-398, 2013. doi:10.1158/2159-8290.CD-12-0548
+
+10.
+
+Sterner RC, Sterner RM
+
+: CAR-T cell therapy: current limitations and potential strategies.
+
+Blood Cancer J
+
+11(4):69, 2021. doi:10.1038/s41408-021-00459-7
+
+Liệu pháp miễn dịch thể thụ động
+
+Truyền kháng thể giúp tạo ra miễn dịch thể dịch thụ động. Mặc dù huyết thanh kháng tế bào lympho đã được sử dụng trong điều trị bệnh bạch cầu dòng lympho mạn và u lympho tế bào T và u lympho tế bào B, dẫn đến giảm tạm thời số lượng bạch cầu lympho hoặc kích thước hạch bạch huyết, các phương thức trị liệu miễn dịch thể dịch mới hơn đã được phát triển.
+
+Các chất tương tác tế bào T
+
+là các kháng thể đặc hiệu kép tuyển dụng các tế bào T gây độc tế bào để tiêu diệt các tế bào khối u. Các chất tương tác được sử dụng thường xuyên nhất là các kháng thể nhắm vào một kháng nguyên khối u và một phân tử trên tế bào T (chủ yếu là CD3). Các kháng thể nhắm vào hai kháng nguyên khối u và CD3 đang được thử nghiệm. Các chất kích thích tế bào T có hiệu quả trên bệnh nhân mắc
+
+bệnh bạch cầu dòng nguyên bào lympho cấp
+
+có tiền thân là tế bào B và một số bệnh ung thư do huyết học khác. Hiệu quả trong khối u rắn đang được nghiên cứu (
+
+1, 2, 3
+
+).
+
+Có thể sử dụng
+
+thuốc liên hợp kháng thể-thuốc (ADC)
+
+. Các kháng thể chống khối u đơn dòng cũng có thể được phối hợp với các loại thuốc gây độc tế bào khác nhau hoặc với các đồng vị phóng xạ để các kháng thể phân phối các loại thuốc độc này một cách chọn lọc đến các tế bào khối u. Ví dụ: một thử nghiệm giai đoạn III về kháng thể nhắm mục tiêu thụ thể yếu tố tăng trưởng biểu bì ở người 2 (HER2; ERB2B) liên hợp với chất ức chế topoisomerase I đã chứng minh lợi ích lâm sàng ở những bệnh nhân ung thư vú di căn dương tính với HER2 (
+
+4
+
+). Các liên hợp thuốc kháng thể khác bao gồm gemtuzumab ozogamicin (
+
+bệnh bạch cầu cấp dòng tủy
+
+), brentuximab vedotin (
+
+u lympho Hodgkin
+
+), inotuzumab ozogamicin (
+
+bệnh bạch cầu cấp nguyên bào lympho
+
+,
+
+bệnh bạch cầu kinh dòng lympho
+
+) và polatuzumab vedotin (
+
+u lympho không Hodgkin
+
+) (
+
+5, 6
+
+).
+
+Tài liệu tham khảo về miễn dịch dịch thể thụ động
+
+1.
+
+Baeuerle PA, Wesche H
+
+: T-cell-engaging antibodies for the treatment of solid tumors: challenges and opportunities.
+
+Curr Opin Oncol
+
+34(5):552-558, 2022. doi:10.1097/CCO.0000000000000869
+
+2.
+
+Cech P, Skórka K, Dziki L, Giannopoulos K
+
+: T-Cell Engagers-The Structure and Functional Principle and Application in Hematological Malignancies.
+
+Cancers
+
+(Basel) 16(8):1580, 2024. doi:10.3390/cancers16081580
+
+3.
+
+Farhangnia P, Ghomi SM, Akbarpour M, Delbandi AA
+
+: Bispecific antibodies targeting CTLA-4: game-changer troopers in cancer immunotherapy.
+
+Front Immunol
+
+14:1155778, 2023. doi:10.3389/fimmu.2023.1155778
+
+4.
+
+Cortes J, Kim SB, Chung WP, et al
+
+:
+
+Trastuzumab deruxtecan
+
+versus
+
+trastuzumab emtansine
+
+for breast cancer.
+
+N Engl J Med
+
+386(12):1143–1154, 2022. doi: 10.1056/NEJMoa2115022
+
+5.
+
+Sliwkowski MX, Mellman I
+
+: Antibody therapeutics in cancer.
+
+Science
+
+341(6151):1192-1198, 2013. doi:10.1126/science.1241145
+
+6.
+
+Weiner LM, Murray JC, Shuptrine CW
+
+: Antibody-based immunotherapy of cancer.
+
+Cell
+
+148(6):1081-1084, 2012. doi:10.1016/j.cell.2012.02.034
+
+Liệu pháp miễn dịch chủ động đặc hiệu
+
+Thúc đẩy
+
+miễn dịch tế bào
+
+(liên quan đến các tế bào lympho T gây độc) trong cơ thể đã không thể tạo ra đáp ứng miễn dịch hiệu quả, về cơ bản liên quan đến các phương pháp nâng cao trình diện kháng nguyên của khối u cho các tế bào hiệu ứng của cơ thể. Miễn dịch tế bào có thể gây ra bởi kháng nguyên đặc hiệu, được xác định rất rõ ràng. Một vài kỹ thuật có thể sử dụng để kích thích đáp ứng miễn dịch của cơ thể, như đưa vào cơ thể các peptid, DNA hoặc tế bào ung thư (tách từ cơ thể vật chủ hoặc bệnh nhân khác). Có thể cung cấp peptide và DNA trực tiếp qua da đến tế bào tủy hoặc tế bào đuôi gai bằng phương pháp điện phân hoặc tiêm chất bổ trợ, hoặc gián tiếp sử dụng các tế bào trình diện kháng nguyên (tế bào đuôi gai). Các tế bào tua này cũng thường được biến đổi di truyền để tiết ra các chất kích thích đáp ứng miễn dịch bổ sung (như
+
+yếu tố kích thích dòng tế bào hạt- đại thực bào
+
+[GM-CSF]).
+
+Vắc-xin gốc peptide
+
+là các peptide từ các TAA đã xác định. Ngày càng có nhiều TAA đã được xác định là đích tác dụng của các tế bào lympho T ở bệnh nhân ung thư và đang được đánh giá trong các thử nghiệm lâm sàng. Dữ liệu gần đây cho thấy các đáp ứng có hiệu quả nhất nếu TAA được giải phóng bằng các tế bào tua. Các tế bào này thu được từ bệnh nhân, trộn với TAA mong muốn và sau đó được truyền lại cho người bệnh; chúng kích thích tế bào T nội sinh để đáp ứng với TAA. Các peptit cũng có thể được cung cấp bằng cách dùng đồng thời với các chất bổ trợ miễn dịch (
+
+1, 2
+
+).
+
+Vắc-xin DNA
+
+sử dụng DNA tái tổ hợp mã hoá một protein kháng nguyên đặc hiệu (đã xác định). DNA được kết hợp vào các vi rút được tiêm trực tiếp vào bệnh nhân hoặc phổ biến hơn, được đưa vào tế bào tua thu được từ các bệnh nhân, sau đó tiêm vào cho họ. DNA bộc lộ kháng nguyên đích, kích hoạt hoặc tăng cường đáp ứng miễn dịch của bệnh nhân. Các thử nghiệm lâm sàng về vắc-xin DNA đã cho thấy kết quả khả quan (
+
+3
+
+).
+
+Tế bào khối u dị gen
+
+(các tế bào lấy từ bệnh nhân khác) đã được sử dụng ở bệnh nhân bệnh
+
+bạch cầu cấp dòng nguyên bào lympho
+
+và
+
+bệnh bạch cầu cấp dòng tủy
+
+. Đầu tiên, bệnh nhân được hóa trị hoặc xạ trị để đạt lui bệnh. Sau đó, các tế bào ung thư dị gen được chiếu tia để biến đổi về mặt di truyền hoặc hóa học để tăng cường khả năng miễn dịch sẽ được tiêm vào bệnh nhân. Đôi khi bệnh nhân cũng được tiêm vắc xin bacille Calmette-Guérin (BCG) hoặc các chất bổ trợ khác (phương pháp điều trị được gọi là
+
+liệu pháp miễn dịch không đặc hiêu
+
+) để tăng cường phản ứng miễn dịch chống lại khối u. Thuyên giảm kéo dài hoặc tỷ lệ tái khởi phát được cải thiện đã được báo cáo trong một số liệu trình nhưng không phải ở hầu hết (
+
+4
+
+).
+
+Vắc xin RNA thông tin (mRNA)
+
+đã được sử dụng thành công trong đại dịch SARS-CoV-2, điều này đã làm dấy lên sự quan tâm trong việc phát triển vắc xin này làm phương pháp điều trị miễn dịch cho bệnh ung thư (
+
+4
+
+).
+
+Tài liệu tham khảo liệu pháp miễn dịch đặc hiệu tích cực
+
+1.
+
+Keskin DB, Anandappa A, Sun J, et al
+
+: Neoantigen vaccine generates intratumoral T cell responses in phase Ib glioblastoma trial.
+
+Nature
+
+565:234–239, 2019. doi: 10.1038/s41586-018-0792-9
+
+2.
+
+Stephens AJ, Burgess-Brown NA, Jiang S
+
+: Beyond Just Peptide Antigens: The Complex World of Peptide-Based Cancer Vaccines.
+
+Front Immunol
+
+12:696791, 2021. Xuất bản ngày 30 tháng 6 năm 2021. doi:10.3389/fimmu.2021.696791
+
+3.
+
+Lopes A, Vandermeulen G, Préat V
+
+: Cancer DNA vaccines: current preclinical and clinical developments and future perspectives.
+
+J Exp Clin Cancer Res
+
+38(1):146, 2019 doi:10.1186/s13046-019-1154-7
+
+4.
+
+Lin MJ, Svensson-Arvelund J, Lubitz GS, et al
+
+: Cancer vaccines: the next immunotherapy frontier.
+
+Nat Cancer
+
+3 (8):911–926, 2022. doi: 10.1038/s43018-022-00418-6
+
+Liệu pháp miễn dịch và ức chế đích đáp ứng miễn dịch
+
+Thuốc ức chế điểm kiểm soát miễn dịch là kháng thể nhắm đích các phân tử tham gia vào quá trình ức chế tự nhiên các đáp ứng miễn dịch. Các phân tử đích bao gồm:
+
+Protein 4 liên quan với tế bào lympho T gây độc (CTLA4)
+
+Protein chết theo chương trình 1 (PD1) và phối tử protein chết theo chương trình 1 (PD-L1) và 2 (PD-L2)
+
+Khác
+
+Protein liên quan đến tế bào lympho T 4 gây độc
+
+tế bào (CTLA-4) trên bề mặt tế bào T ức chế sự tương tác của tế bào T chống lại tế bào ung thư. Kháng thể chống CTLA4 cho phép tế bào T miễn dịch tiêu diệt tế bào ung thư. Kháng thể anti-CTLA-4 ipilimumab kéo dài thời gian sống thêm ở bệnh nhân
+
+ung thư tế bào hắc tố di căn
+
+(
+
+1
+
+). Tremelimumab, một kháng thể chống CTLA-4 khác được sử dụng để điều trị
+
+ung thư phổi không tế bào nhỏ
+
+(NSCLC) và các khối u khác (
+
+2
+
+).
+
+Phối tử PD-1 và phối tử PD 1 và 2
+
+có trên bề mặt tế bào miễn dịch, bao gồm tế bào T, và ức chế quá trình tiêu diệt tế bào ung thư. Kháng thể chống lại PD-1 và PD-L1 hoặc PD-L2 ngăn chặn sự ức chế này và tiêu diệt tế bào ung thư. Nivolumab và pembrolizumab là thuốc ức chế IgG4 PD-1 làm tăng kích hoạt tế bào T và xâm nhập khối u và kéo dài thời gian sống thêm trong
+
+u hắc tố ác tính
+
+di căn,
+
+ung thư phổi không tế bào nhỏ
+
+,
+
+ung thư tế bào vảy ở đầu và cổ
+
+,
+
+ung thư thận
+
+,
+
+ung thư bàng quang
+
+và
+
+u lympho Hodgkin
+
+(
+
+3, 4
+
+).
+
+Chất kích hoạt tế bào bạch huyết gen 3 (
+
+LAG-3
+
+)
+
+làm tăng hoạt động điều hòa tế bào T bằng cách tương tác với MHC trên tế bào khối u. Phong bế
+
+LAG3
+
+bằng kháng thể đơn dòng đã chứng minh lợi ích lâm sàng mạnh mẽ trên bệnh nhân bị u hắc tố ác tính di căn không thể phẫu thuật cắt bỏ (
+
+5
+
+).
+
+Một số thuốc khác
+
+vẫn đang trong thử nghiệm lâm sàng ở giai đoạn sớm hơn. Các loại thuốc này bao gồm, ví dụ,
+
+Thuốc làm suy giảm tế bào lympho tế bào B và tế bào T (BTLA), làm giảm sản sinh ra các cytokine và tăng sinh tế bào CD4 (
+
+6
+
+)
+
+Globulin miễn dịch tế bào T và mucin miền 3 (TIM-3), tiêu diệt các tế bào Th1 hỗ trợ (
+
+7
+
+)
+
+Thuốc ức chế Ig miền V kích hoạt tế bào T (VISTA), ức chế làm tăng hoạt động của tế bào T trong khối u (
+
+8
+
+)
+
+Các kháng thể đặc hiệu kép nhắm vào một số phân tử này đã được phát triển cùng nhau và hiện đang được thử nghiệm trong các thử nghiệm lâm sàng (
+
+9
+
+).
+
+Phối hợp thuốc ức chế điểm kiểm soát miễn dịch
+
+(ví dụ: chặn CTLA-4 và PD-1 đối với bệnh ung thư tế bào hắc tố di căn hoặc ung thư thận tiến triển) đang được nghiên cứu. Các thử nghiệm lâm sàng đã chứng minh những lợi ích lâm sàng đáng kể, nhưng các dạng phối hợp thuốc ức chế điểm kiểm soát miễn dịch có liên quan đến độc tính cao hơn so với đơn trị liệu (
+
+2
+
+).
+
+Phối hợp liệu pháp miễn dịch và hóa trị liệu
+
+là một phương pháp mới trong điều trị ung thư. Nó đã cho thấy một số thành công (so với các đối chứng lịch sử) trong các thử nghiệm lâm sàng giai đoạn I và giai đoạn II không chọn ngẫu nhiên liên quan đến các loại ung thư, loại vắc xin và hóa trị liệu khác nhau. Dạng phối hợp của thuốc ức chế điểm kiểm soát pembrolizumab kèm theo hóa trị liệu được sử dụng làm phương pháp điều trị bước đầu cho
+
+bệnh ung thư phổi
+
+không tế bào nhỏ thể vảy di căn (
+
+10
+
+). Phối hợp thuốc ức chế điểm kiểm soát atezolizumab với hóa trị liệu có thể được sử dụng để điều trị cho bệnh nhân
+
+ung thư vú có bộ ba xét nghiệm âm tính
+
+(
+
+11
+
+). Thuốc ức chế điểm kiểm soát PD-L1 durvalumab phối hợp với hóa trị liệu đã chứng minh hiệu quả ở những bệnh nhân ung thư phổi tế bào nhỏ và sau hóa trị liệu thông thường ở những bệnh nhân ung thư phổi không phải tế bào nhỏ (
+
+10
+
+).
+
+Tài liệu tham khảo về liệu pháp miễn dịch và thuốc ức chế miễn dịch
+
+1.
+
+Hodi FS, O'Day SJ, McDermott DF, et al
+
+: Improved survival with
+
+ipilimumab
+
+in patients with metastatic melanoma [published correction appears in
+
+N Engl J Med
+
+363(13):1290, 2010].
+
+N Engl J Med
+
+363(8):711-723, 2010. doi:10.1056/NEJMoa1003466
+
+2.
+
+Johnson ML, Cho BC, Luft A, et al
+
+:
+
+Durvalumab
+
+with or without
+
+tremelimumab
+
+in combination with chemotherapy as first-line therapy for metastatic non-small-cell lung cancer: The Phase III POSEIDON Study.
+
+J Clin Oncol
+
+41(6):1213-1227, 2023. doi:10.1200/JCO.22.00975
+
+3.
+
+Tawbi HA, Schadendorf D, Lipson EJ, et al
+
+:
+
+Relatlimab
+
+and
+
+nivolumab
+
+versus
+
+nivolumab
+
+in untreated advanced melanoma.
+
+N Engl J Med
+
+386(1):24–34, 2022. doi: 10.1056/NEJMoa2109970
+
+4.
+
+Gandhi L, Rodriguez-Abreu D, Gadgeel S, et al
+
+:
+
+Pembrolizumab
+
+plus chemotherapy in metastatic non-small-cell lung cancer.
+
+N Engl J Med
+
+378(22):2078–2092, 2018. doi: 10.1056/NEJMoa1801005
+
+5.
+
+Ruffo E, Wu RC, Bruno TC, et al
+
+: Lymphocyte-activation gene 3 (LAG3): The next immune checkpoint receptor.
+
+Semin Immunol
+
+42:101305, 2019. doi:10.1016/j.smim.2019.101305
+
+6.
+
+Ning Z, Liu K, Xiong H
+
+: Roles of BTLA in Immunity and Immune Disorders.
+
+Front Immunol
+
+12:654960, 2021. doi:10.3389/fimmu.2021.654960
+
+7.
+
+Acharya N, Sabatos-Peyton C, Anderson AC
+
+: Tim-3 finds its place in the cancer immunotherapy landscape. J Immunother Cancer. 2020;8(1):e000911. doi:10.1136/jitc-2020-000911
+
+8.
+
+Hosseinkhani N, Derakhshani A, Shadbad MA, et al
+
+: The role of V-domain Ig suppressor of T cell activation (VISTA) in cancer therapy: Lessons learned and the road ahead.
+
+Front Immunol
+
+12:676181, 2021. doi:10.3389/fimmu.2021.676181
+
+9.
+
+Ordonez-Reyes C, Garcia-Robledo JE, Chamorro DF, et al
+
+: Bispecific antibodies in cancer immunotherapy: A novel response to an old question.
+
+Pharmaceutics
+
+14(6):1243, 2022. doi:10.3390/pharmaceutics14061243
+
+10.
+
+Paz-Ares L, Dvorkin M, Chen Y, et al
+
+:
+
+Durvalumab
+
+plus platinum-
+
+etoposide
+
+versus platinum-
+
+etoposide
+
+in first-line treatment of extensive-stage small-cell lung cancer (CASPIAN): a randomised, controlled, open-label, phase 3 trial.
+
+Lancet
+
+394(10212):1929–1939, 2019. doi: 10.1016/S0140-6736(19)32222-6
+
+11.
+
+Schmid P, Adams S, Rugo HS, et al
+
+:
+
+Atezolizumab
+
+and
+
+Nab-Paclitaxel
+
+in advanced triple-negative breast cancer.
+
+N Engl J Med
+
+379(22):2108–2121, 2018. doi: 10.1056/NEJMoa1809615
+
+Liệu pháp miễn dịch không đặc hiệu
+
+Interferon
+
+(IFN-alpha, IFN-beta, IFN-gamma) là các glycoprotein có hoạt tính chống ung thư và kháng virut. Tùy theo liều, interferon có thể tăng hoặc giảm
+
+chức năng miễn dịch tế bào và chức năng miễn dịch dịch thể
+
+. Interferon cũng ức chế sự phân chia tế bào và một số quá trình tổng hợp trong nhiều loại tế bào.
+
+Interferon có hoạt tính chống khối u trong các bệnh ung thư khác nhau, bao gồm bệnh bạch cầu tế bào lông,
+
+bệnh bạch cầu dòng tủy mạn
+
+,
+
+ung thư tăng sinh tủy
+
+,
+
+Kaposi sarcoma
+
+liên quan đến AIDS,
+
+u lympho không Hodgkin
+
+,
+
+đa u tủy
+
+và
+
+ung thư buồng trứng
+
+(
+
+1
+
+). Tuy nhiên, interferon có thể gây ra những tác dụng bất lợi đáng kể, chẳng hạn như sốt, khó chịu, giảm bạch cầu, rụng tóc, đau cơ, ảnh hưởng đến nhận thức và trầm cảm, loạn nhịp tim, độc tính với gan và suy giáp.
+
+Một số
+
+tá dược vi khuẩn
+
+(ví dụ: bacille Calmette–Guérin [BCG] và các chất dẫn xuất, huyền phù đã tiêu diệt
+
+Corynebacterium parvum
+
+) có hoạt tính diệt khối u. Các chất này đã được sử dụng kèm hoặc không kèm với kháng nguyên ung thư để điều trị một loạt các bệnh ung thư, thường là cùng với hóa trị liều cao hoặc xạ trị. Ví dụ: tiêm trực tiếp BCG vào các mô ung thư đã dẫn đến sự thoái triển của
+
+u hắc tố ác tính
+
+và kéo dài thời gian không bệnh trong
+
+ung thư bàng quang ở lớp nông bề mặt
+
+và có thể giúp kéo dài thời gian thuyên giảm do thuốc trong
+
+bệnh bạch cầu dòng tủy cấp
+
+,
+
+ung thư buồng trứng
+
+và
+
+u lympho không Hodgkin
+
+(
+
+2
+
+).
+
+Tài liệu tham khảo liệu pháp miễn dịch không đặc hiệu
+
+1.
+
+Arico E, Castiello L, Capone I, et al
+
+: Type I interferons and cancer: An evolving story demanding novel clinical applications.
+
+Cancers
+
+(Basel) 11(12):1943, 2019. doi:10.3390/cancers11121943
+
+2.
+
+Gupta P, Chen C, Chaluvally-Raghavan P, Pradeep S
+
+: B Cells as an immune-regulatory signature in ovarian cancer.
+
+Cancers
+
+(Basel) 11(7):894, 2019. doi:10.3390/cancers11070894
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+Peterson C, Denlinger N, Yang Y
+
+: Recent Advances and Challenges in Cancer Immunotherapy.
+
+Cancers
+
+(Basel) 14(16):3972, 2022. Xuất bản ngày 17 tháng 8 năm 2022. doi:10.3390/cancers14163972
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Miễn dịch tế bào thụ động ---
+
+Trong liệu pháp miễn dịch tế bào thụ động, các tế bào hiệu ứng cụ thể được truyền trực tiếp và không được kích thích bên trong bệnh nhân.Tế bào tiêu diệt hoạt hóa bởi lymphokine (LAK)được sản sinh từ ​​tế bào T hoặc tế bào NK của bệnh nhân, được chiết xuất từ ​​máu và nuôi cấy trong hệ thống nuôi cấy tế bào với lymphokine interleukin-2 (IL-2). Các tế bào LAK được sản sinh ra sau đó được đưa trở lại máu của bệnh nhân hoặc có thể được tiêm vào khối u. Các nghiên cứu trên động vật đã chỉ ra rằng tế bào LAK có hiệu quả chống lại tế bào ung thư cao hơn tế bào T nội sinh, có lẽ là do số lượng của chúng nhiều hơn. Các thử nghiệm lâm sàng về tế bào LAK ở người đang được tiến hành, nhưng phương pháp này chưa được sử dụng rộng rãi và thường được coi là kém hiệu quả hơn các liệu pháp tế bào khác (1, 2, 3, 4).Tế bào lympho xâm nhập khối u(TIL) có thể có hoạt động chống ung thư mạnh hơn tế bào LAK. Các tế bào này được nuôi cấy trong môi trường giống như tế bào LAK. Tuy nhiên, các tế bào tiền thân bao gồm các tế bào T được phân lập từ mô khối u đã được cắt bỏ. Quá trình này về mặt lý thuyết cung cấp một dòng tế bào T có tính đặc hiệu khối u cao hơn so với những tế bào thu được từ máu. Các nghiên cứu lâm sàng đã cho thấy nhiều hứa hẹn (5).Về cơ bản, các tế bào lympho T biến đổicó thể biểu hiệnThụ thể tế bào lympho T(TCR) nhận biết được cáckháng nguyên liên quan đến khối u(TAA) với độ đặc hiệu cao với các tế bào của khối u. Cách tiếp cận này nói chung đã nhường chỗ cho tế bào CAR-T (xem bên dưới)Thụ thể kháng nguyên thể khảm(CAR) nhận diện các protein đặc hiệu trên bề mặt các tế bào khối u. Tế bào CAR T được sử dụng cho những bệnh nhân mắcu lymphotế bào B,bệnh bạch cầu dòng nguyên bào lympho cấpvàu tủy tương bào(6, 7, 8, 9, 10).Trái ngược với các tế bào lympho T có TCR, các tế bào lympho T có CAR chỉ nhận biết các protein tương đối lớn trên bề mặt các tế bào khối u. Do đó các tế bào lympho T có CAR và các tế bào lympho T có TCR có thể trở thành các liệu pháp bổ sung cho điều trị ung thư.Sử dụng đồng thời interferon làm tăng biểu hiện kháng nguyên phức hợp hòa hợp mô chủ yếu (MHC) và TAA trên bề mặt tế bào u, do đó làm tăng sự giết chết tế bào khối u bằng các tế bào hiệu ứng.Tài liệu tham khảo về liệu pháp miễn dịch tế bào thụ động1.Eberlein TJ, Schoof DD, Jung SE, et al: A new regimen of interleukin 2 and lymphokine-activated killer cells. Efficacy without significant toxicity.Arch Intern Med1988;148(12):2571–2576, 1988. doi:10.1001/archinte.1988.003801200390082.Mandriani B, Pelle' E, Pezzicoli G, et al: Adoptive T-cell immunotherapy in digestive tract malignancies: Current challenges and future perspectives.Cancer Treat Rev100:102288, 2021. doi:10.1016/j.ctrv.2021.1022883.Page A, Chuvin N, Valladeau-Guilemond J, Depil S: Development of NK cell-based cancer immunotherapies through receptor engineering.Cell Mol Immunol21(4):315–331, 2024. doi:10.1038/s41423-024-01145-x4.Saito H, Ando S, Morishita N, et al: A combined lymphokine-activated killer (LAK) cell immunotherapy and adenovirus-p53 gene therapy for head and neck squamous cell carcinoma.Anticancer Res34(7):3365–3370, 2014.5.Wang S, Sun J, Chen K, et al: Perspectives of tumor-infiltrating lymphocyte treatment in solid tumors.BMC Med19, 140 (2021). https://doi.org/10.1186/s12916-021-02006-46.Cappell KM, Kochenderfer JN: Long-term outcomes following CAR T cell therapy: what we know so far.Nat Rev Clin Oncol20(6):359–371, 2023. doi:10.1038/s41571-023-00754-17.Dabas P, Danda A: Revolutionizing cancer treatment: a comprehensive review of CAR-T cell therapy.Med Oncol40(9):275, 2023. doi:10.1007/s12032-023-02146-y8.June CH, O'Connor RS, Kawalekar OU, et al: CAR T cell immunotherapy for human cancer.Science359(6382):1361-1365, 2018. doi:10.1126/science.aar67119.Sadelain M, Brentjens R, Rivière I: The basic principles of chimeric antigen receptor design.Cancer Discov3(4):388-398, 2013. doi:10.1158/2159-8290.CD-12-054810.Sterner RC, Sterner RM: CAR-T cell therapy: current limitations and potential strategies.Blood Cancer J11(4):69, 2021. doi:10.1038/s41408-021-00459-7
+
+--- 2. Liệu pháp miễn dịch thể thụ động ---
+
+Truyền kháng thể giúp tạo ra miễn dịch thể dịch thụ động. Mặc dù huyết thanh kháng tế bào lympho đã được sử dụng trong điều trị bệnh bạch cầu dòng lympho mạn và u lympho tế bào T và u lympho tế bào B, dẫn đến giảm tạm thời số lượng bạch cầu lympho hoặc kích thước hạch bạch huyết, các phương thức trị liệu miễn dịch thể dịch mới hơn đã được phát triển.Các chất tương tác tế bào Tlà các kháng thể đặc hiệu kép tuyển dụng các tế bào T gây độc tế bào để tiêu diệt các tế bào khối u. Các chất tương tác được sử dụng thường xuyên nhất là các kháng thể nhắm vào một kháng nguyên khối u và một phân tử trên tế bào T (chủ yếu là CD3). Các kháng thể nhắm vào hai kháng nguyên khối u và CD3 đang được thử nghiệm. Các chất kích thích tế bào T có hiệu quả trên bệnh nhân mắcbệnh bạch cầu dòng nguyên bào lympho cấpcó tiền thân là tế bào B và một số bệnh ung thư do huyết học khác. Hiệu quả trong khối u rắn đang được nghiên cứu (1, 2, 3).Có thể sử dụngthuốc liên hợp kháng thể-thuốc (ADC). Các kháng thể chống khối u đơn dòng cũng có thể được phối hợp với các loại thuốc gây độc tế bào khác nhau hoặc với các đồng vị phóng xạ để các kháng thể phân phối các loại thuốc độc này một cách chọn lọc đến các tế bào khối u. Ví dụ: một thử nghiệm giai đoạn III về kháng thể nhắm mục tiêu thụ thể yếu tố tăng trưởng biểu bì ở người 2 (HER2; ERB2B) liên hợp với chất ức chế topoisomerase I đã chứng minh lợi ích lâm sàng ở những bệnh nhân ung thư vú di căn dương tính với HER2 (4). Các liên hợp thuốc kháng thể khác bao gồm gemtuzumab ozogamicin (bệnh bạch cầu cấp dòng tủy), brentuximab vedotin (u lympho Hodgkin), inotuzumab ozogamicin (bệnh bạch cầu cấp nguyên bào lympho,bệnh bạch cầu kinh dòng lympho) và polatuzumab vedotin (u lympho không Hodgkin) (5, 6).Tài liệu tham khảo về miễn dịch dịch thể thụ động1.Baeuerle PA, Wesche H: T-cell-engaging antibodies for the treatment of solid tumors: challenges and opportunities.Curr Opin Oncol34(5):552-558, 2022. doi:10.1097/CCO.00000000000008692.Cech P, Skórka K, Dziki L, Giannopoulos K: T-Cell Engagers-The Structure and Functional Principle and Application in Hematological Malignancies.Cancers(Basel) 16(8):1580, 2024. doi:10.3390/cancers160815803.Farhangnia P, Ghomi SM, Akbarpour M, Delbandi AA: Bispecific antibodies targeting CTLA-4: game-changer troopers in cancer immunotherapy.Front Immunol14:1155778, 2023. doi:10.3389/fimmu.2023.11557784.Cortes J, Kim SB, Chung WP, et al:Trastuzumab deruxtecanversustrastuzumab emtansinefor breast cancer.N Engl J Med386(12):1143–1154, 2022. doi: 10.1056/NEJMoa21150225.Sliwkowski MX, Mellman I: Antibody therapeutics in cancer.Science341(6151):1192-1198, 2013. doi:10.1126/science.12411456.Weiner LM, Murray JC, Shuptrine CW: Antibody-based immunotherapy of cancer.Cell148(6):1081-1084, 2012. doi:10.1016/j.cell.2012.02.034
+
+--- 3. Liệu pháp miễn dịch chủ động đặc hiệu ---
+
+Thúc đẩymiễn dịch tế bào(liên quan đến các tế bào lympho T gây độc) trong cơ thể đã không thể tạo ra đáp ứng miễn dịch hiệu quả, về cơ bản liên quan đến các phương pháp nâng cao trình diện kháng nguyên của khối u cho các tế bào hiệu ứng của cơ thể. Miễn dịch tế bào có thể gây ra bởi kháng nguyên đặc hiệu, được xác định rất rõ ràng. Một vài kỹ thuật có thể sử dụng để kích thích đáp ứng miễn dịch của cơ thể, như đưa vào cơ thể các peptid, DNA hoặc tế bào ung thư (tách từ cơ thể vật chủ hoặc bệnh nhân khác). Có thể cung cấp peptide và DNA trực tiếp qua da đến tế bào tủy hoặc tế bào đuôi gai bằng phương pháp điện phân hoặc tiêm chất bổ trợ, hoặc gián tiếp sử dụng các tế bào trình diện kháng nguyên (tế bào đuôi gai). Các tế bào tua này cũng thường được biến đổi di truyền để tiết ra các chất kích thích đáp ứng miễn dịch bổ sung (nhưyếu tố kích thích dòng tế bào hạt- đại thực bào[GM-CSF]).Vắc-xin gốc peptidelà các peptide từ các TAA đã xác định. Ngày càng có nhiều TAA đã được xác định là đích tác dụng của các tế bào lympho T ở bệnh nhân ung thư và đang được đánh giá trong các thử nghiệm lâm sàng. Dữ liệu gần đây cho thấy các đáp ứng có hiệu quả nhất nếu TAA được giải phóng bằng các tế bào tua. Các tế bào này thu được từ bệnh nhân, trộn với TAA mong muốn và sau đó được truyền lại cho người bệnh; chúng kích thích tế bào T nội sinh để đáp ứng với TAA. Các peptit cũng có thể được cung cấp bằng cách dùng đồng thời với các chất bổ trợ miễn dịch (1, 2).Vắc-xin DNAsử dụng DNA tái tổ hợp mã hoá một protein kháng nguyên đặc hiệu (đã xác định). DNA được kết hợp vào các vi rút được tiêm trực tiếp vào bệnh nhân hoặc phổ biến hơn, được đưa vào tế bào tua thu được từ các bệnh nhân, sau đó tiêm vào cho họ. DNA bộc lộ kháng nguyên đích, kích hoạt hoặc tăng cường đáp ứng miễn dịch của bệnh nhân. Các thử nghiệm lâm sàng về vắc-xin DNA đã cho thấy kết quả khả quan (3).Tế bào khối u dị gen(các tế bào lấy từ bệnh nhân khác) đã được sử dụng ở bệnh nhân bệnhbạch cầu cấp dòng nguyên bào lymphovàbệnh bạch cầu cấp dòng tủy. Đầu tiên, bệnh nhân được hóa trị hoặc xạ trị để đạt lui bệnh. Sau đó, các tế bào ung thư dị gen được chiếu tia để biến đổi về mặt di truyền hoặc hóa học để tăng cường khả năng miễn dịch sẽ được tiêm vào bệnh nhân. Đôi khi bệnh nhân cũng được tiêm vắc xin bacille Calmette-Guérin (BCG) hoặc các chất bổ trợ khác (phương pháp điều trị được gọi làliệu pháp miễn dịch không đặc hiêu) để tăng cường phản ứng miễn dịch chống lại khối u. Thuyên giảm kéo dài hoặc tỷ lệ tái khởi phát được cải thiện đã được báo cáo trong một số liệu trình nhưng không phải ở hầu hết (4).Vắc xin RNA thông tin (mRNA)đã được sử dụng thành công trong đại dịch SARS-CoV-2, điều này đã làm dấy lên sự quan tâm trong việc phát triển vắc xin này làm phương pháp điều trị miễn dịch cho bệnh ung thư (4).Tài liệu tham khảo liệu pháp miễn dịch đặc hiệu tích cực1.Keskin DB, Anandappa A, Sun J, et al: Neoantigen vaccine generates intratumoral T cell responses in phase Ib glioblastoma trial.Nature565:234–239, 2019. doi: 10.1038/s41586-018-0792-92.Stephens AJ, Burgess-Brown NA, Jiang S: Beyond Just Peptide Antigens: The Complex World of Peptide-Based Cancer Vaccines.Front Immunol12:696791, 2021. Xuất bản ngày 30 tháng 6 năm 2021. doi:10.3389/fimmu.2021.6967913.Lopes A, Vandermeulen G, Préat V: Cancer DNA vaccines: current preclinical and clinical developments and future perspectives.J Exp Clin Cancer Res38(1):146, 2019 doi:10.1186/s13046-019-1154-74.Lin MJ, Svensson-Arvelund J, Lubitz GS, et al: Cancer vaccines: the next immunotherapy frontier.Nat Cancer3 (8):911–926, 2022. doi: 10.1038/s43018-022-00418-6
+
+--- 4. Liệu pháp miễn dịch và ức chế đích đáp ứng miễn dịch ---
+
+Thuốc ức chế điểm kiểm soát miễn dịch là kháng thể nhắm đích các phân tử tham gia vào quá trình ức chế tự nhiên các đáp ứng miễn dịch. Các phân tử đích bao gồm:Protein 4 liên quan với tế bào lympho T gây độc (CTLA4)Protein chết theo chương trình 1 (PD1) và phối tử protein chết theo chương trình 1 (PD-L1) và 2 (PD-L2)KhácProtein liên quan đến tế bào lympho T 4 gây độctế bào (CTLA-4) trên bề mặt tế bào T ức chế sự tương tác của tế bào T chống lại tế bào ung thư. Kháng thể chống CTLA4 cho phép tế bào T miễn dịch tiêu diệt tế bào ung thư. Kháng thể anti-CTLA-4 ipilimumab kéo dài thời gian sống thêm ở bệnh nhânung thư tế bào hắc tố di căn(1). Tremelimumab, một kháng thể chống CTLA-4 khác được sử dụng để điều trịung thư phổi không tế bào nhỏ(NSCLC) và các khối u khác (2).Phối tử PD-1 và phối tử PD 1 và 2có trên bề mặt tế bào miễn dịch, bao gồm tế bào T, và ức chế quá trình tiêu diệt tế bào ung thư. Kháng thể chống lại PD-1 và PD-L1 hoặc PD-L2 ngăn chặn sự ức chế này và tiêu diệt tế bào ung thư. Nivolumab và pembrolizumab là thuốc ức chế IgG4 PD-1 làm tăng kích hoạt tế bào T và xâm nhập khối u và kéo dài thời gian sống thêm trongu hắc tố ác tínhdi căn,ung thư phổi không tế bào nhỏ,ung thư tế bào vảy ở đầu và cổ,ung thư thận,ung thư bàng quangvàu lympho Hodgkin(3, 4).Chất kích hoạt tế bào bạch huyết gen 3 (LAG-3)làm tăng hoạt động điều hòa tế bào T bằng cách tương tác với MHC trên tế bào khối u. Phong bếLAG3bằng kháng thể đơn dòng đã chứng minh lợi ích lâm sàng mạnh mẽ trên bệnh nhân bị u hắc tố ác tính di căn không thể phẫu thuật cắt bỏ (5).Một số thuốc khácvẫn đang trong thử nghiệm lâm sàng ở giai đoạn sớm hơn. Các loại thuốc này bao gồm, ví dụ,Thuốc làm suy giảm tế bào lympho tế bào B và tế bào T (BTLA), làm giảm sản sinh ra các cytokine và tăng sinh tế bào CD4 (6)Globulin miễn dịch tế bào T và mucin miền 3 (TIM-3), tiêu diệt các tế bào Th1 hỗ trợ (7)Thuốc ức chế Ig miền V kích hoạt tế bào T (VISTA), ức chế làm tăng hoạt động của tế bào T trong khối u (8)Các kháng thể đặc hiệu kép nhắm vào một số phân tử này đã được phát triển cùng nhau và hiện đang được thử nghiệm trong các thử nghiệm lâm sàng (9).Phối hợp thuốc ức chế điểm kiểm soát miễn dịch(ví dụ: chặn CTLA-4 và PD-1 đối với bệnh ung thư tế bào hắc tố di căn hoặc ung thư thận tiến triển) đang được nghiên cứu. Các thử nghiệm lâm sàng đã chứng minh những lợi ích lâm sàng đáng kể, nhưng các dạng phối hợp thuốc ức chế điểm kiểm soát miễn dịch có liên quan đến độc tính cao hơn so với đơn trị liệu (2).Phối hợp liệu pháp miễn dịch và hóa trị liệulà một phương pháp mới trong điều trị ung thư. Nó đã cho thấy một số thành công (so với các đối chứng lịch sử) trong các thử nghiệm lâm sàng giai đoạn I và giai đoạn II không chọn ngẫu nhiên liên quan đến các loại ung thư, loại vắc xin và hóa trị liệu khác nhau. Dạng phối hợp của thuốc ức chế điểm kiểm soát pembrolizumab kèm theo hóa trị liệu được sử dụng làm phương pháp điều trị bước đầu chobệnh ung thư phổikhông tế bào nhỏ thể vảy di căn (10). Phối hợp thuốc ức chế điểm kiểm soát atezolizumab với hóa trị liệu có thể được sử dụng để điều trị cho bệnh nhânung thư vú có bộ ba xét nghiệm âm tính(11). Thuốc ức chế điểm kiểm soát PD-L1 durvalumab phối hợp với hóa trị liệu đã chứng minh hiệu quả ở những bệnh nhân ung thư phổi tế bào nhỏ và sau hóa trị liệu thông thường ở những bệnh nhân ung thư phổi không phải tế bào nhỏ (10).Tài liệu tham khảo về liệu pháp miễn dịch và thuốc ức chế miễn dịch1.Hodi FS, O'Day SJ, McDermott DF, et al: Improved survival withipilimumabin patients with metastatic melanoma [published correction appears inN Engl J Med363(13):1290, 2010].N Engl J Med363(8):711-723, 2010. doi:10.1056/NEJMoa10034662.Johnson ML, Cho BC, Luft A, et al:Durvalumabwith or withouttremelimumabin combination with chemotherapy as first-line therapy for metastatic non-small-cell lung cancer: The Phase III POSEIDON Study.J Clin Oncol41(6):1213-1227, 2023. doi:10.1200/JCO.22.009753.Tawbi HA, Schadendorf D, Lipson EJ, et al:Relatlimabandnivolumabversusnivolumabin untreated advanced melanoma.N Engl J Med386(1):24–34, 2022. doi: 10.1056/NEJMoa21099704.Gandhi L, Rodriguez-Abreu D, Gadgeel S, et al:Pembrolizumabplus chemotherapy in metastatic non-small-cell lung cancer.N Engl J Med378(22):2078–2092, 2018. doi: 10.1056/NEJMoa18010055.Ruffo E, Wu RC, Bruno TC, et al: Lymphocyte-activation gene 3 (LAG3): The next immune checkpoint receptor.Semin Immunol42:101305, 2019. doi:10.1016/j.smim.2019.1013056.Ning Z, Liu K, Xiong H: Roles of BTLA in Immunity and Immune Disorders.Front Immunol12:654960, 2021. doi:10.3389/fimmu.2021.6549607.Acharya N, Sabatos-Peyton C, Anderson AC: Tim-3 finds its place in the cancer immunotherapy landscape. J Immunother Cancer. 2020;8(1):e000911. doi:10.1136/jitc-2020-0009118.Hosseinkhani N, Derakhshani A, Shadbad MA, et al: The role of V-domain Ig suppressor of T cell activation (VISTA) in cancer therapy: Lessons learned and the road ahead.Front Immunol12:676181, 2021. doi:10.3389/fimmu.2021.6761819.Ordonez-Reyes C, Garcia-Robledo JE, Chamorro DF, et al: Bispecific antibodies in cancer immunotherapy: A novel response to an old question.Pharmaceutics14(6):1243, 2022. doi:10.3390/pharmaceutics1406124310.Paz-Ares L, Dvorkin M, Chen Y, et al:Durvalumabplus platinum-etoposideversus platinum-etoposidein first-line treatment of extensive-stage small-cell lung cancer (CASPIAN): a randomised, controlled, open-label, phase 3 trial.Lancet394(10212):1929–1939, 2019. doi: 10.1016/S0140-6736(19)32222-611.Schmid P, Adams S, Rugo HS, et al:AtezolizumabandNab-Paclitaxelin advanced triple-negative breast cancer.N Engl J Med379(22):2108–2121, 2018. doi: 10.1056/NEJMoa1809615
+
+--- 5. Liệu pháp miễn dịch không đặc hiệu ---
+
+Interferon(IFN-alpha, IFN-beta, IFN-gamma) là các glycoprotein có hoạt tính chống ung thư và kháng virut. Tùy theo liều, interferon có thể tăng hoặc giảmchức năng miễn dịch tế bào và chức năng miễn dịch dịch thể. Interferon cũng ức chế sự phân chia tế bào và một số quá trình tổng hợp trong nhiều loại tế bào.Interferon có hoạt tính chống khối u trong các bệnh ung thư khác nhau, bao gồm bệnh bạch cầu tế bào lông,bệnh bạch cầu dòng tủy mạn,ung thư tăng sinh tủy,Kaposi sarcomaliên quan đến AIDS,u lympho không Hodgkin,đa u tủyvàung thư buồng trứng(1). Tuy nhiên, interferon có thể gây ra những tác dụng bất lợi đáng kể, chẳng hạn như sốt, khó chịu, giảm bạch cầu, rụng tóc, đau cơ, ảnh hưởng đến nhận thức và trầm cảm, loạn nhịp tim, độc tính với gan và suy giáp.Một sốtá dược vi khuẩn(ví dụ: bacille Calmette–Guérin [BCG] và các chất dẫn xuất, huyền phù đã tiêu diệtCorynebacterium parvum) có hoạt tính diệt khối u. Các chất này đã được sử dụng kèm hoặc không kèm với kháng nguyên ung thư để điều trị một loạt các bệnh ung thư, thường là cùng với hóa trị liều cao hoặc xạ trị. Ví dụ: tiêm trực tiếp BCG vào các mô ung thư đã dẫn đến sự thoái triển củau hắc tố ác tínhvà kéo dài thời gian không bệnh trongung thư bàng quang ở lớp nông bề mặtvà có thể giúp kéo dài thời gian thuyên giảm do thuốc trongbệnh bạch cầu dòng tủy cấp,ung thư buồng trứngvàu lympho không Hodgkin(2).Tài liệu tham khảo liệu pháp miễn dịch không đặc hiệu1.Arico E, Castiello L, Capone I, et al: Type I interferons and cancer: An evolving story demanding novel clinical applications.Cancers(Basel) 11(12):1943, 2019. doi:10.3390/cancers111219432.Gupta P, Chen C, Chaluvally-Raghavan P, Pradeep S: B Cells as an immune-regulatory signature in ovarian cancer.Cancers(Basel) 11(7):894, 2019. doi:10.3390/cancers11070894
+
+--- 6. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.Peterson C, Denlinger N, Yang Y: Recent Advances and Challenges in Cancer Immunotherapy.Cancers(Basel) 14(16):3972, 2022. Xuất bản ngày 17 tháng 8 năm 2022. doi:10.3390/cancers14163972

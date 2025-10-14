@@ -1,0 +1,261 @@
+TIÊU ĐỀ: Thiếu hụt đơn gen
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/nguyên-lý-cơ-bản-của-di-truyền-y-học/thiếu-hụt-đơn-gen
+================================================================================
+
+NỘI DUNG:
+
+Thiếu hụt đơn gen
+
+Theo
+
+Quasar S. Padiath
+
+,
+
+MBBS, PhD
+
+,
+
+University of Pittsburgh
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2025
+
+v1123255_vi
+
+Tính trạng trội trên nhiễm sắc thể thường
+
+|
+
+Tính trạng Lặn thường
+
+|
+
+Di truyền trội liên kết với giới tính X
+
+|
+
+X-liên kết tính trạng lặn
+
+|
+
+Mỗi con người có thể mang khoảng 400 gen bất thường (
+
+1
+
+). Di truyền một gen đơn (theo thuyêt di truyền của Mendel) dễ phân tích nhất và được hiểu rõ nhất. Nếu sự biểu hiện của một tính trạng chỉ cần 1 bản sao của gen (1 alen), tính trạng đó được coi là trội. Nếu sự biểu hiện của một đặc điểm cần phải có 2 bản sao của một gen (2 alen), thì đặc điểm đó được coi là lặn. Ngoại trừ di truyền liên kết với giới tính. Bởi vì nam giới thường không có allele tương đồng với hầu hết allele trên nhiễm sắc thể X, do đó allen X nhiễm sắc thể được biểu hiện ở nam giới ngay cả khi tính trạng đó là lặn. Một ngoại lệ khác, là
+
+di truyền ty thể
+
+, cũng tồn tại.
+
+Gen ty thể
+
+thường chỉ được thừa hưởng từ tế bào trứng của mẹ. Tuy nhiên, các protein chịu trách nhiệm về cấu trúc và chức năng của ty thể có nguồn gốc từ cả gen ty thể và gen nhân. (Xem thêm
+
+Tổng quan về di truyền học
+
+.)
+
+Nhiều rối loạn đặc hiệu đã được mô tả.
+
+Bảng
+
+Ví dụ về rối loạn đơn gen (Mendel)
+
+Ví dụ về rối loạn đơn gen (Mendel)
+
+Gen
+
+Có ưu thế
+
+Lặn
+
+Không liên kết với X
+
+hội chứng Marfan
+
+Bệnh Huntington
+
+Xơ nang
+
+Liên kết nhiễm sắc thể X
+
+Còi xương gia đình
+
+Viêm thận di truyền
+
+Mù màu xanh đỏ
+
+Hemophilia
+
+Tài liệu tham khảo
+
+1.
+
+Xue Y, Chen Y, Ayub Q, et al
+
+. Deleterious- and disease-allele prevalence in healthy individuals: insights from current predictions, mutation databases, and population-scale resequencing.
+
+Am J Hum Genet.
+
+2012;91(6):1022-1032. doi:10.1016/j.ajhg.2012.10.015
+
+Tính trạng trội trên nhiễm sắc thể thường
+
+Chỉ cần 1 alen bất thường của gen là có thể biểu hiện đặc điểm trội trên nhiễm sắc thể thường; nghĩa là cả cá thể dị hợp tử và cá thể đồng hợp tử mang gen bất thường đều bị ảnh hưởng (tức là họ biểu hiện đặc điểm này). Phả hệ điển hình của tính trạng trội trên nhiễm sắc thể thường được thể hiện trong hình
+
+Di truyền gen trội trên nhiễm sắc thể thường
+
+.
+
+Nói chung, áp dụng các quy tắc sau:
+
+Người biểu hiện tính trạng có một người cha hoặc mẹ cũng có tính trạng đó.
+
+Cha hoặc mẹ mang gen dị hợp tử và người còn lại không biểu hiện tính trạng thì tỷ lệ trẻ em mắc và không mắc là như nhau; nghĩa là, nguy cơ xảy ra cho mỗi đứa trẻ của gia đình có cha hoặc mẹ bị mắc là 50%.
+
+Những đứa trẻ không mắc bệnh của cha mẹ có bệnh không có gen bất thường và do đó không truyền đặc điểm này cho con cháu của chúng.
+
+Nam giới và phụ nữ đều có thể bị như nhau.
+
+Di truyền gen trội trên nhiễm sắc thể thường
+
+Tính trạng Lặn thường
+
+Dể biểu hiện một tính trạng di truyền lặn trên nhiễm sắc thể thường cần có cả 2 allen bất thường  Một ví dụ về phả hệ được thể hiện trong hình
+
+Di truyền gen lặn trên nhiễm sắc thể thường
+
+.
+
+Nói chung, áp dụng các quy luật di truyền dưới đây:
+
+Những cá thể dị hợp tử không bị ảnh hưởng (tức là kiểu gen bất thường nhưng kiểu hình bình thường). Các thể dị hợp tử được gọi là người mang gen bất thường.
+
+Nếu cha mẹ không bị ảnh hưởng (có kiểu hình bình thường) có con bị ảnh hưởng, điều đó cho thấy cả cha và mẹ đều là các thể dị hợp tử. Trung bình, một phần tư số trẻ em của họ bị ảnh hưởng, một nửa là cá thể dị hợp tử và một phần tư không bị ảnh hưởng cũng không phải là người mang gen đó (bình thường về mặt di truyền). Do đó, trong số trẻ em, khả năng không bị ảnh hưởng (tức là trở thành người mang bệnh hoặc có kiểu gen bình thường) là ba phần tư và trong số trẻ em không bị ảnh hưởng, khả năng trở thành người mang bệnh là hai phần ba.
+
+Tất cả con cái của cha mẹ bị ảnh hưởng và cha mẹ không phải là người mang mầm bệnh đều là những người dị hợp tử không bị ảnh hưởng.
+
+Theo quy luật di truyền, cha hoặc mẹ mắc bệnh, người còn lại mang gen dị hợp tử thì một nửa số con sẽ mang bệnh, một nửa mang gen dị hợp tử và không biểu hiện bệnh.
+
+Tất cả con cái của 2 cha mẹ bị ảnh hưởng đều bị ảnh hưởng.
+
+Một người không bị ảnh hưởng (có kiểu hình bình thường) có cha mẹ không bị ảnh hưởng nhưng anh chị em bị ảnh hưởng có 66% khả năng là người mang gen bất thường.
+
+Nam giới và phụ nữ đều có thể bị như nhau.
+
+Di truyền gen lặn nhiễm sắc thể thường
+
+Những người cùng huyết thống có nhiều khả năng mang cùng một alen đột biến. Sinh sản giữa những người họ hàng gần (có quan hệ huyết thống) làm tăng khả năng sinh ra những đứa con bị ảnh hưởng do khả năng cả cha và mẹ đều mang cùng một đột biến gen lặn cao hơn. Điều này là do những cá thể có quan hệ họ hàng chia sẻ một tỷ lệ đáng kể vật chất di truyền của họ, làm tăng khả năng cả cha và mẹ đều truyền cùng một alen có hại cho con cái của họ.
+
+Ở một số quần thể nhất định, tỷ lệ phần trăm số người dị hợp tử (người mang mầm bệnh) cao do hiệu ứng người sáng lập (nghĩa là nhóm bắt đầu với ít thành viên, một trong số họ là người mang mầm bệnh) hoặc do người mang mầm bệnh có lợi thế chọn lọc (ví dụ: dị hợp tử về đặc điểm tế bào hình liềm bảo vệ chống lại bệnh sốt rét).
+
+Nếu tính trạng dẫn đến thiếu hụt một protein xác định (ví dụ như một enzyme), các hợp tử thường giảm sản xuất lượng protein đó. Hiện tượng này là do sự hiện diện của 1 alen bình thường, thường sản sinh đủ protein chức năng cho chức năng sinh lý bình thường.
+
+Các kỹ thuật di truyền phân tử có thể xác định những người bình thường mang gen dị hợp tử ở nhưng đột biến đã biết rõ (ví dụ, những người bị xơ nang).
+
+Di truyền trội liên kết với giới tính X
+
+Các đặc điểm gen trội liên kết với nhiễm sắc thể X được mang trên nhiễm sắc thể X; một cá thể chỉ có 1 bản sao của gen đột biến trên 1 trong các nhiễm sắc thể X của họ sẽ biểu hiện đặc điểm hoặc biểu hiện bệnh tật. Hầu hết các trường hợp này đều hiếm gặp vì chúng có xu hướng trở thành những đặc điểm nghiêm trọng hoặc gây chết người và cá thể bị ảnh hưởng thường không sống sót đến tuổi sinh sản. Thông thường, nam giới bị ảnh hưởng nghiêm trọng hơn vì alen bất thường trên nhiễm sắc thể X không có alen ghép đôi trên nhiễm sắc thể Y (vì hầu hết các gen trên nhiễm sắc thể X không có alen ghép đôi ở nam giới, tức là nhiễm sắc thể X và Y là dị hợp tử). Những phụ nữ có 1 alen bất thường và 1 alen bình thường sẽ bị ảnh hưởng nhưng ít nghiêm trọng hơn. Phả hệ điển hình được thể hiện ở hình
+
+Di truyền gen trội liên kết nhiễm sắc thể X
+
+.
+
+Nói chung, áp dụng các quy luật di truyền dưới đây:
+
+Nam giới mắc bệnh có tất cả con gái đều mắc bệnh nhưng không di truyền bệnh cho con trai của họ.
+
+Nữ giới dị hợp tử truyền tính trạng này cho một nửa số con của chúng, bất kể giới tính.
+
+Nữ giới đồng hợp tử truyền đặc điểm này cho tất cả con cái của họ.
+
+Nữ giới dị hợp tử cũng bị ảnh hưởng, mặc dù ít nghiêm trọng hơn.
+
+Bởi vì nữ giới có thể là dị hợp tử hoặc đồng hợp tử, nên nhiều phụ nữ biểu hiện tính trạng bệnh hơn nam giới. Sự khác biệt về tỷ lệ giới tính mắc bệnh thậm chí còn lớn hơn nếu bất thường gây tử vong ở nam giới.
+
+Di truyền gen trội liên kết nhiễm sắc thể X
+
+Di truyền trội liên kết với X có thể khó phân biệt với di truyền trội trên nhiễm sắc thể thường bằng cách nghiên cứu các mô hình di truyền. Cần có phả hệ lớn, đặc biệt cần chú ý đến thế hệ con của những nam mang bệnh bởi vì sự di truyền bố sang con trai không do di truyền trội trên nhiễm sắc thể X (do nam giới chỉ truyền nhiễm sắc thể Y cho con trai của họ).
+
+X-liên kết tính trạng lặn
+
+Di truyền lặn trên nhiễm sắc thể X. Vì vậy, hầu hết những người bị ảnh hưởng đều là nam giới vì hầu hết nữ giới sở hữu 1 alen bất thường cũng có 1 bản sao bình thường của gen liên quan (tức là họ là dị hợp tử). Phả hệ điển hình được thể hiện ở hình
+
+Di truyền gen lặn liên kết nhiễm sắc thể X
+
+.
+
+Nói chung, áp dụng các quy luật di truyền dưới đây:
+
+Gần như tất cả những người mắc bệnh đều là nam giới.
+
+Nữ giới dị hợp tử thường không bị ảnh hưởng (kiểu hình bình thường), nhưng với tư cách là người mang mầm bệnh, sẽ truyền gen bất thường cho một nửa số con của họ.
+
+Một nửa số con trai của một phụ nữ mang gen bệnh sẽ mắc bệnh và một nửa số con gái là người mang gen bệnh.
+
+Một người đàn ông mắc bệnh không bao giờ truyền bệnh cho con trai mình.
+
+Tất cả con gái của người đàn ông mắc bệnh đều mang gen bệnh.
+
+Không có con gái nào của một phụ nữ mang mầm bệnh và một người cha không bị ảnh hưởng không phải là người mang mầm bệnh, nhưng một nửa là người mang mầm bệnh.
+
+Di truyền gen lặn liên kết nhiễm sắc thể X
+
+Một vài trường hợp, những phụ nữ mang gen dị hợp tử đột biến trên nhiễm sắc thể X sẽ biểu hiện, nhưng không ảnh hưởng nghiêm trọng như trên nam giới.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Tính trạng trội trên nhiễm sắc thể thường ---
+
+Chỉ cần 1 alen bất thường của gen là có thể biểu hiện đặc điểm trội trên nhiễm sắc thể thường; nghĩa là cả cá thể dị hợp tử và cá thể đồng hợp tử mang gen bất thường đều bị ảnh hưởng (tức là họ biểu hiện đặc điểm này). Phả hệ điển hình của tính trạng trội trên nhiễm sắc thể thường được thể hiện trong hìnhDi truyền gen trội trên nhiễm sắc thể thường.Nói chung, áp dụng các quy tắc sau:Người biểu hiện tính trạng có một người cha hoặc mẹ cũng có tính trạng đó.Cha hoặc mẹ mang gen dị hợp tử và người còn lại không biểu hiện tính trạng thì tỷ lệ trẻ em mắc và không mắc là như nhau; nghĩa là, nguy cơ xảy ra cho mỗi đứa trẻ của gia đình có cha hoặc mẹ bị mắc là 50%.Những đứa trẻ không mắc bệnh của cha mẹ có bệnh không có gen bất thường và do đó không truyền đặc điểm này cho con cháu của chúng.Nam giới và phụ nữ đều có thể bị như nhau.Di truyền gen trội trên nhiễm sắc thể thường
+
+--- 2. Tính trạng Lặn thường ---
+
+Dể biểu hiện một tính trạng di truyền lặn trên nhiễm sắc thể thường cần có cả 2 allen bất thường  Một ví dụ về phả hệ được thể hiện trong hìnhDi truyền gen lặn trên nhiễm sắc thể thường.Nói chung, áp dụng các quy luật di truyền dưới đây:Những cá thể dị hợp tử không bị ảnh hưởng (tức là kiểu gen bất thường nhưng kiểu hình bình thường). Các thể dị hợp tử được gọi là người mang gen bất thường.Nếu cha mẹ không bị ảnh hưởng (có kiểu hình bình thường) có con bị ảnh hưởng, điều đó cho thấy cả cha và mẹ đều là các thể dị hợp tử. Trung bình, một phần tư số trẻ em của họ bị ảnh hưởng, một nửa là cá thể dị hợp tử và một phần tư không bị ảnh hưởng cũng không phải là người mang gen đó (bình thường về mặt di truyền). Do đó, trong số trẻ em, khả năng không bị ảnh hưởng (tức là trở thành người mang bệnh hoặc có kiểu gen bình thường) là ba phần tư và trong số trẻ em không bị ảnh hưởng, khả năng trở thành người mang bệnh là hai phần ba.Tất cả con cái của cha mẹ bị ảnh hưởng và cha mẹ không phải là người mang mầm bệnh đều là những người dị hợp tử không bị ảnh hưởng.Theo quy luật di truyền, cha hoặc mẹ mắc bệnh, người còn lại mang gen dị hợp tử thì một nửa số con sẽ mang bệnh, một nửa mang gen dị hợp tử và không biểu hiện bệnh.Tất cả con cái của 2 cha mẹ bị ảnh hưởng đều bị ảnh hưởng.Một người không bị ảnh hưởng (có kiểu hình bình thường) có cha mẹ không bị ảnh hưởng nhưng anh chị em bị ảnh hưởng có 66% khả năng là người mang gen bất thường.Nam giới và phụ nữ đều có thể bị như nhau.Di truyền gen lặn nhiễm sắc thể thườngNhững người cùng huyết thống có nhiều khả năng mang cùng một alen đột biến. Sinh sản giữa những người họ hàng gần (có quan hệ huyết thống) làm tăng khả năng sinh ra những đứa con bị ảnh hưởng do khả năng cả cha và mẹ đều mang cùng một đột biến gen lặn cao hơn. Điều này là do những cá thể có quan hệ họ hàng chia sẻ một tỷ lệ đáng kể vật chất di truyền của họ, làm tăng khả năng cả cha và mẹ đều truyền cùng một alen có hại cho con cái của họ.Ở một số quần thể nhất định, tỷ lệ phần trăm số người dị hợp tử (người mang mầm bệnh) cao do hiệu ứng người sáng lập (nghĩa là nhóm bắt đầu với ít thành viên, một trong số họ là người mang mầm bệnh) hoặc do người mang mầm bệnh có lợi thế chọn lọc (ví dụ: dị hợp tử về đặc điểm tế bào hình liềm bảo vệ chống lại bệnh sốt rét).Nếu tính trạng dẫn đến thiếu hụt một protein xác định (ví dụ như một enzyme), các hợp tử thường giảm sản xuất lượng protein đó. Hiện tượng này là do sự hiện diện của 1 alen bình thường, thường sản sinh đủ protein chức năng cho chức năng sinh lý bình thường.Các kỹ thuật di truyền phân tử có thể xác định những người bình thường mang gen dị hợp tử ở nhưng đột biến đã biết rõ (ví dụ, những người bị xơ nang).
+
+--- 3. Di truyền trội liên kết với giới tính X ---
+
+Các đặc điểm gen trội liên kết với nhiễm sắc thể X được mang trên nhiễm sắc thể X; một cá thể chỉ có 1 bản sao của gen đột biến trên 1 trong các nhiễm sắc thể X của họ sẽ biểu hiện đặc điểm hoặc biểu hiện bệnh tật. Hầu hết các trường hợp này đều hiếm gặp vì chúng có xu hướng trở thành những đặc điểm nghiêm trọng hoặc gây chết người và cá thể bị ảnh hưởng thường không sống sót đến tuổi sinh sản. Thông thường, nam giới bị ảnh hưởng nghiêm trọng hơn vì alen bất thường trên nhiễm sắc thể X không có alen ghép đôi trên nhiễm sắc thể Y (vì hầu hết các gen trên nhiễm sắc thể X không có alen ghép đôi ở nam giới, tức là nhiễm sắc thể X và Y là dị hợp tử). Những phụ nữ có 1 alen bất thường và 1 alen bình thường sẽ bị ảnh hưởng nhưng ít nghiêm trọng hơn. Phả hệ điển hình được thể hiện ở hìnhDi truyền gen trội liên kết nhiễm sắc thể X.Nói chung, áp dụng các quy luật di truyền dưới đây:Nam giới mắc bệnh có tất cả con gái đều mắc bệnh nhưng không di truyền bệnh cho con trai của họ.Nữ giới dị hợp tử truyền tính trạng này cho một nửa số con của chúng, bất kể giới tính.Nữ giới đồng hợp tử truyền đặc điểm này cho tất cả con cái của họ.Nữ giới dị hợp tử cũng bị ảnh hưởng, mặc dù ít nghiêm trọng hơn.Bởi vì nữ giới có thể là dị hợp tử hoặc đồng hợp tử, nên nhiều phụ nữ biểu hiện tính trạng bệnh hơn nam giới. Sự khác biệt về tỷ lệ giới tính mắc bệnh thậm chí còn lớn hơn nếu bất thường gây tử vong ở nam giới.Di truyền gen trội liên kết nhiễm sắc thể XDi truyền trội liên kết với X có thể khó phân biệt với di truyền trội trên nhiễm sắc thể thường bằng cách nghiên cứu các mô hình di truyền. Cần có phả hệ lớn, đặc biệt cần chú ý đến thế hệ con của những nam mang bệnh bởi vì sự di truyền bố sang con trai không do di truyền trội trên nhiễm sắc thể X (do nam giới chỉ truyền nhiễm sắc thể Y cho con trai của họ).
+
+--- 4. X-liên kết tính trạng lặn ---
+
+Di truyền lặn trên nhiễm sắc thể X. Vì vậy, hầu hết những người bị ảnh hưởng đều là nam giới vì hầu hết nữ giới sở hữu 1 alen bất thường cũng có 1 bản sao bình thường của gen liên quan (tức là họ là dị hợp tử). Phả hệ điển hình được thể hiện ở hìnhDi truyền gen lặn liên kết nhiễm sắc thể X.Nói chung, áp dụng các quy luật di truyền dưới đây:Gần như tất cả những người mắc bệnh đều là nam giới.Nữ giới dị hợp tử thường không bị ảnh hưởng (kiểu hình bình thường), nhưng với tư cách là người mang mầm bệnh, sẽ truyền gen bất thường cho một nửa số con của họ.Một nửa số con trai của một phụ nữ mang gen bệnh sẽ mắc bệnh và một nửa số con gái là người mang gen bệnh.Một người đàn ông mắc bệnh không bao giờ truyền bệnh cho con trai mình.Tất cả con gái của người đàn ông mắc bệnh đều mang gen bệnh.Không có con gái nào của một phụ nữ mang mầm bệnh và một người cha không bị ảnh hưởng không phải là người mang mầm bệnh, nhưng một nửa là người mang mầm bệnh.Di truyền gen lặn liên kết nhiễm sắc thể XMột vài trường hợp, những phụ nữ mang gen dị hợp tử đột biến trên nhiễm sắc thể X sẽ biểu hiện, nhưng không ảnh hưởng nghiêm trọng như trên nam giới.

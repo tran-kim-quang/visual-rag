@@ -1,0 +1,235 @@
+TIÊU ĐỀ: Chụp cắt lớp vi tính (chụp CT)
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/các-nguyên-lý-cơ-bản-trong-chẩn-đoán-hình-ảnh/chụp-cắt-lớp-vi-tính-chụp-ct
+================================================================================
+
+NỘI DUNG:
+
+Chụp cắt lớp vi tính (chụp CT)
+
+Theo
+
+Mustafa A. Mafraji
+
+,
+
+MD
+
+,
+
+Rush University Medical Center
+
+Xem xét bởi
+
+William E. Brant
+
+,
+
+MD
+
+,
+
+University of Virginia
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2023
+
+v1124992_vi
+
+Chỉ định chụp CT
+
+|
+
+Các biến thể của CT
+
+|
+
+Nhược điểm của CT
+
+|
+
+Trong CT, nguồn phát tia X và đầu dò tia X được đặt trong hệ thống hình tròn rỗng giữa, hệ thống này di chuyển vòng quanh bệnh nhân nằm trên bàn chụp. Người ta thường sử dụng các máy chụp đa dãy có từ 4 đến 64 dãy đầu dò, vì hệ thống nhiều đầu dò có tốc độ chụp nhanh hơn và lấy được hình ảnh có độ phân giải cao hơn. Điều này đặc biệt quan trọng với việc chụp hình ảnh tim và các tạng ổ bụng.
+
+Dữ liệu thu được từ các dãy đầu dò này tạo ra hàng loạt ảnh X-quang chụp từ nhiều góc độ khác nhau trên bệnh nhân. Những hình ảnh này, thay vì được xem trực tiếp, sẽ được truyền tải đến hệ thống máy tính, để từ đó tái tạo chúng thành hình ảnh 2 chiều (cắt lớp), biểu diễn một phần của cơ thể dưới dạng lát cắt trên mọi góc quan sát mong muốn. Những dữ liệu này cũng có thể được sử dụng để dựng nên những hình ảnh không gian 3 chiều chi tiết.
+
+Đối với một số máy chụp CT, bàn chụp di chuyển từ từ và dừng lại khi tiến hành chụp trên một lát cắt. Đối với các lần chụp CT khác, bàn di chuyển liên tục trong quá trình chụp; Vì bệnh nhân đang di chuyển theo đường thẳng và máy dò đang di chuyển theo vòng tròn nên dữ liệu được thu thập theo trình tự xoắn ốc hoặc xoắn ốc xung quanh bệnh nhân.
+
+Những nguyên lý chụp cắt lớp trên cũng được áp dụng tương tự vào kỹ thuật chụp xạ hình, trong đó, các cảm biến bức xạ di chuyển và phát bức xạ theo đường tròn quanh bệnh nhân, còn hệ thống máy tính sẽ chuyển dữ liệu cảm biến thành hình ảnh chụp cắt lớp vi tính. Chụp cắt lớp bằng bức xạ đơn photon (SPECT) và
+
+chụp xạ hình cắt lớp positron
+
+(PET) là những ví dụ cho
+
+kỹ thuật chụp này
+
+.
+
+Chụp CT đầu
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Mustafa Mafraji cung cấp.
+
+Chỉ định chụp CT
+
+So với chụp X-quang, chụp CT cho phép phân biệt tốt hơn các mô mềm có đậm độ khác nhau. So với chụp X-quang, mức độ cung cấp thông tin của CT cao hơn rất nhiều, nên đây là phương pháp chẩn đoán hình ảnh được ưu tiên chỉ định khi tiến hành khảo sát các cấu trúc nội sọ, đầu, cổ, tủy sống, lồng ngực và ổ bụng. Những hình ảnh tổn thương được dựng lên dưới dạng 3 chiều sẽ giúp các bác sĩ ngoại khoa lập kế hoạch phẫu thuật.
+
+CT là phương pháp khảo sát chính xác nhất để phát hiện và xác định vị trí
+
+sỏi tiết niệu
+
+.
+
+Có thể chụp cắt lớp vi tính có hoặc không
+
+tiêm thuốc cản quang
+
+.
+
+Chụp CT không cản quang
+
+được sử dụng
+
+Để phát hiện xuất huyết não cấp, sỏi tiết niệu vôi hóa và các nốt mờ phổi
+
+Xác định đặc điểm tổn thương gãy xương và các bất thường khác trong hệ thống xương khớp
+
+Chụp CT có tiêm thuốc cản quang
+
+được sử dụng
+
+Để cải thiện chất lượng hình ảnh chụp trên các tổn thương u, nhiễm trùng, viêm và chấn thương mô mềm
+
+Để đánh giá hệ thống mạch máu, khi có nghi ngờ
+
+thuyên tắc mạch phổi
+
+,
+
+phình động mạch chủ
+
+hoặc
+
+bóc tách động mạch chủ
+
+Thuốc cản quang đường uống hoặc đôi khi là đường trực tràng được sử dụng để chẩn đoán hình ảnh vùng bụng; đôi khi khí được sử dụng để làm căng đường tiêu hóa (GI) dưới và làm cho đường tiêu hóa bộc lộ rõ hơn. Thuốc cản quang được đưa vào đường tiêu hóa nhằm giúp phân biệt chúng rõ hơn với các cấu trúc xung quanh. Thuốc cản quang đường uống tiêu chuẩn có bari, nhưng thuốc cản quang i-ốt có độ thẩm thấu thấp nên được sử dụng khi nghi ngờ thủng ruột.
+
+Các biến thể của CT
+
+Nội soi đại tràng ảo và chụp CT ruột
+
+Trong kỹ thuật
+
+nội soi đại tràng ảo
+
+(CT colonography), thuốc cản quang được sử dụng dưới dạng đường uống, còn khí được bơm vào trực tràng thông qua một catheter cao su mềm có đường kính nhỏ; sau đó người ta sẽ tiến hành chụp CT cắp lớp mỏng toàn bộ hệ thống đại tràng. Nội soi đại tràng ảo tạo ra hình ảnh chụp đại tràng 3 chiều với độ phân giải cao, qua đó mô phỏng lại hình ảnh nội soi quang học một cách chi tiết và chân thực. Kỹ thuật này có thể phát hiện được các polyp và các tổn thương niêm mạc đại tràng với kích thước nhỏ tới 5 mm. Đây là một lựa chọn thay thế cho phương pháp nội soi thông thường. Nội soi đại tràng ảo ít gây khó chịu cho bệnh nhân hơn nội soi thường, và không cần gây mê. Nó cung cấp hình ảnh rõ ràng, chi tiết hơn so với chụp đường tiêu hóa dưới (GI) tuần tự thông thường và có thể hiển thị các khối mô mềm bên ngoài. Nội soi đại tràng ảo cho phép hiển thị toàn bộ hệ thống đại tràng; ngược lại, phương pháp nội soi đại tràng thông thường có thể không đánh giá được toàn bộ đại tràng phải ở khoảng 1/10 bệnh nhân.
+
+Những nhược điểm chính của nội soi đại tràng ảo là
+
+Không có khả năng sinh thiết các polyp tại thời điểm khảo sát
+
+Phơi nhiễm phóng xạ
+
+Chụp CT ruột
+
+cũng là một biện pháp chụp tương tự, nhưng nó còn cung cấp cả hình ảnh của dạ dày và toàn bộ hệ thống ruột non. Một lượng lớn chất cản quang đậm độ thấp (khoảng 1300 đến 2100 mL bari sulfat 0,1%) được bơm vào để làm giãn toàn bộ hệ thống ruột non.
+
+Do đó, chụp CT ruột sẽ chiếm ưu thế đặc trưng trong trường hợp
+
+chẩn đoán
+
+bệnh lý viêm ruột
+
+Thuốc cản quang đường tĩnh mạch cũng thường được sử dụng trong chụp CT ruột. Người ta chụp CT lớp mỏng, độ phân giải cao ổ bụng và tiểu khung. Những hình ảnh này được tái cấu trúc theo các mặt phẳng giải phẫu, để từ đó tạo nên dạng hình ảnh 3 chiều.
+
+CT ruột cũng có thể được sử dụng để phát hiện và đánh giá những bất thường khác ngoài viêm ruột, bao gồm:
+
+Các tổn thương gây tắc nghẽn ruột non
+
+Khối u
+
+Áp xe
+
+Các tổn thương rò
+
+Chảy máu
+
+Chụp CT hệ tiết niệu sử dụng thuốc cản quang đường tĩnh mạch
+
+Hình ảnh thận, bàng quang và niệu quản được hiển thị chi tiết nhờ vào việc tiêm thuốc cản quang. Chất cản quang tích lũy tại thận, sau đó được bài tiết vào các cấu trúc thu thập nước tiểu, rồi đến niệu quản và bàng quang. Tiến hành chụp CT đa thì, ghi lại những hình ảnh độ phân giải cao của đường niệu trong suốt quá trình thải cản quang.
+
+Tại hầu hết các cơ sở y tế, chụp CT hệ tiết niệu có tiêm thuốc cản quang đường tĩnh mạch đã trở thành biện pháp thay thế cho chụp X-quang hệ tiết niệu sử dụng thuốc cản quang đường tĩnh mạch.
+
+Chụp CT mạch
+
+Sau khi tiêm tĩnh mạch nhanh một lượng lớn thuốc cản quang, người ta tiến hành chụp hàng loạt ảnh CT lát cắt mỏng vào thời điểm thuốc cản quang đi vào động và tĩnh mạch. Những kỹ thuật đồ họa vi tính tiên tiến được sử dụng để loại bỏ hình ảnh các mô mềm xung quanh, giúp hiển thị chi tiết hình ảnh mạch máu, tương tự như khi chụp động mạch quy ước.
+
+Chụp CT mạch là một phương pháp thay thế an toàn và ít xâm lấn hơn so với chụp mạch quy ước.
+
+CT động mạch phổi tái cấu trúc mặt phẳng đứng ngang
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+Nhược điểm của CT
+
+CT là nguồn gây phơi nhiễm phóng xạ lớn cho bệnh nhân. Nếu phải chụp nhiều lần, tổng liều bức xạ có thể đạt mức tương đối cao và gây nguy cơ tiêm ần cho bệnh nhân (xem
+
+Các nguy cơ của xạ trị
+
+). Bệnh nhân sỏi tiết niệu tái phát hoặc chấn thương nặng rất có thể phải chụp CT nhiều lần. Nguy cơ phơi nhiễm bức xạ so với lợi ích của việc kiểm tra phải luôn được xem xét vì liều bức xạ hiệu quả của một lần chụp CT bụng/vùng chậu tương đương với khoảng 385 lần chụp X-quang ngực một phim.
+
+Để phù hợp với thực tế lâm sàng hiện nay, phương tiện chụp CT buộc phải sử dụng liều bức xạ thấp nhất có thể. Các máy chụp CT hiện đại cùng quy trình chẩn đoán hình ảnh sửa đổi đã làm giảm đáng kể phơi nhiễm phóng xạ từ CT. Ngoài ra, các phương pháp khảo sát mới hơn đánh giá việc sử dụng liều bức xạ thấp hơn trong một số loại chụp CT và một số chỉ định chụp CT nhất định; trong một số trường hợp, các mức liều này thậm chí sẽ chỉ tương đương với bức xạ từ chụp X-quang.
+
+Một số loại chụp CT sử dụng thuốc cản quang đường tĩnh mạch, đi kèm với một số nguy cơ nhất định (xem
+
+Thuốc Cản quang và Phản ứng Thuốc Cản quang
+
+). Tuy nhiên, thuốc cản quang đường uống và thụt trực tràng cũng có nguy cơ, ví dụ như:
+
+Nếu bari, được cho bằng đường uống hoặc đường trực tràng, thoát ra bên ngoài lòng đường tiêu hóa, nó có thể gây viêm nặng trong khoang phúc mạc. Cần sử dụng thuốc cản quang iod nếu có nguy cơ thủng tạng rỗng.
+
+Việc hít phải thuốc cản quang iod có thể gây
+
+viêm phổi nặng do hóa chất.
+
+Barium có thể tích lũy trong đường tiêu hóa, cô đặc lại và dễ gây tắc ruột.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định chụp CT ---
+
+So với chụp X-quang, chụp CT cho phép phân biệt tốt hơn các mô mềm có đậm độ khác nhau. So với chụp X-quang, mức độ cung cấp thông tin của CT cao hơn rất nhiều, nên đây là phương pháp chẩn đoán hình ảnh được ưu tiên chỉ định khi tiến hành khảo sát các cấu trúc nội sọ, đầu, cổ, tủy sống, lồng ngực và ổ bụng. Những hình ảnh tổn thương được dựng lên dưới dạng 3 chiều sẽ giúp các bác sĩ ngoại khoa lập kế hoạch phẫu thuật.CT là phương pháp khảo sát chính xác nhất để phát hiện và xác định vị trísỏi tiết niệu.Có thể chụp cắt lớp vi tính có hoặc khôngtiêm thuốc cản quang.Chụp CT không cản quangđược sử dụngĐể phát hiện xuất huyết não cấp, sỏi tiết niệu vôi hóa và các nốt mờ phổiXác định đặc điểm tổn thương gãy xương và các bất thường khác trong hệ thống xương khớpChụp CT có tiêm thuốc cản quangđược sử dụngĐể cải thiện chất lượng hình ảnh chụp trên các tổn thương u, nhiễm trùng, viêm và chấn thương mô mềmĐể đánh giá hệ thống mạch máu, khi có nghi ngờthuyên tắc mạch phổi,phình động mạch chủhoặcbóc tách động mạch chủThuốc cản quang đường uống hoặc đôi khi là đường trực tràng được sử dụng để chẩn đoán hình ảnh vùng bụng; đôi khi khí được sử dụng để làm căng đường tiêu hóa (GI) dưới và làm cho đường tiêu hóa bộc lộ rõ hơn. Thuốc cản quang được đưa vào đường tiêu hóa nhằm giúp phân biệt chúng rõ hơn với các cấu trúc xung quanh. Thuốc cản quang đường uống tiêu chuẩn có bari, nhưng thuốc cản quang i-ốt có độ thẩm thấu thấp nên được sử dụng khi nghi ngờ thủng ruột.
+
+--- 2. Các biến thể của CT ---
+
+Nội soi đại tràng ảo và chụp CT ruộtTrong kỹ thuậtnội soi đại tràng ảo(CT colonography), thuốc cản quang được sử dụng dưới dạng đường uống, còn khí được bơm vào trực tràng thông qua một catheter cao su mềm có đường kính nhỏ; sau đó người ta sẽ tiến hành chụp CT cắp lớp mỏng toàn bộ hệ thống đại tràng. Nội soi đại tràng ảo tạo ra hình ảnh chụp đại tràng 3 chiều với độ phân giải cao, qua đó mô phỏng lại hình ảnh nội soi quang học một cách chi tiết và chân thực. Kỹ thuật này có thể phát hiện được các polyp và các tổn thương niêm mạc đại tràng với kích thước nhỏ tới 5 mm. Đây là một lựa chọn thay thế cho phương pháp nội soi thông thường. Nội soi đại tràng ảo ít gây khó chịu cho bệnh nhân hơn nội soi thường, và không cần gây mê. Nó cung cấp hình ảnh rõ ràng, chi tiết hơn so với chụp đường tiêu hóa dưới (GI) tuần tự thông thường và có thể hiển thị các khối mô mềm bên ngoài. Nội soi đại tràng ảo cho phép hiển thị toàn bộ hệ thống đại tràng; ngược lại, phương pháp nội soi đại tràng thông thường có thể không đánh giá được toàn bộ đại tràng phải ở khoảng 1/10 bệnh nhân.Những nhược điểm chính của nội soi đại tràng ảo làKhông có khả năng sinh thiết các polyp tại thời điểm khảo sátPhơi nhiễm phóng xạChụp CT ruộtcũng là một biện pháp chụp tương tự, nhưng nó còn cung cấp cả hình ảnh của dạ dày và toàn bộ hệ thống ruột non. Một lượng lớn chất cản quang đậm độ thấp (khoảng 1300 đến 2100 mL bari sulfat 0,1%) được bơm vào để làm giãn toàn bộ hệ thống ruột non.Do đó, chụp CT ruột sẽ chiếm ưu thế đặc trưng trong trường hợpchẩn đoánbệnh lý viêm ruộtThuốc cản quang đường tĩnh mạch cũng thường được sử dụng trong chụp CT ruột. Người ta chụp CT lớp mỏng, độ phân giải cao ổ bụng và tiểu khung. Những hình ảnh này được tái cấu trúc theo các mặt phẳng giải phẫu, để từ đó tạo nên dạng hình ảnh 3 chiều.CT ruột cũng có thể được sử dụng để phát hiện và đánh giá những bất thường khác ngoài viêm ruột, bao gồm:Các tổn thương gây tắc nghẽn ruột nonKhối uÁp xeCác tổn thương ròChảy máuChụp CT hệ tiết niệu sử dụng thuốc cản quang đường tĩnh mạchHình ảnh thận, bàng quang và niệu quản được hiển thị chi tiết nhờ vào việc tiêm thuốc cản quang. Chất cản quang tích lũy tại thận, sau đó được bài tiết vào các cấu trúc thu thập nước tiểu, rồi đến niệu quản và bàng quang. Tiến hành chụp CT đa thì, ghi lại những hình ảnh độ phân giải cao của đường niệu trong suốt quá trình thải cản quang.Tại hầu hết các cơ sở y tế, chụp CT hệ tiết niệu có tiêm thuốc cản quang đường tĩnh mạch đã trở thành biện pháp thay thế cho chụp X-quang hệ tiết niệu sử dụng thuốc cản quang đường tĩnh mạch.Chụp CT mạchSau khi tiêm tĩnh mạch nhanh một lượng lớn thuốc cản quang, người ta tiến hành chụp hàng loạt ảnh CT lát cắt mỏng vào thời điểm thuốc cản quang đi vào động và tĩnh mạch. Những kỹ thuật đồ họa vi tính tiên tiến được sử dụng để loại bỏ hình ảnh các mô mềm xung quanh, giúp hiển thị chi tiết hình ảnh mạch máu, tương tự như khi chụp động mạch quy ước.Chụp CT mạch là một phương pháp thay thế an toàn và ít xâm lấn hơn so với chụp mạch quy ước.CT động mạch phổi tái cấu trúc mặt phẳng đứng ngangHình ảnhHình ảnh do bác sĩ Hakan Ilaslan cung cấp.
+
+--- 3. Nhược điểm của CT ---
+
+CT là nguồn gây phơi nhiễm phóng xạ lớn cho bệnh nhân. Nếu phải chụp nhiều lần, tổng liều bức xạ có thể đạt mức tương đối cao và gây nguy cơ tiêm ần cho bệnh nhân (xemCác nguy cơ của xạ trị). Bệnh nhân sỏi tiết niệu tái phát hoặc chấn thương nặng rất có thể phải chụp CT nhiều lần. Nguy cơ phơi nhiễm bức xạ so với lợi ích của việc kiểm tra phải luôn được xem xét vì liều bức xạ hiệu quả của một lần chụp CT bụng/vùng chậu tương đương với khoảng 385 lần chụp X-quang ngực một phim.Để phù hợp với thực tế lâm sàng hiện nay, phương tiện chụp CT buộc phải sử dụng liều bức xạ thấp nhất có thể. Các máy chụp CT hiện đại cùng quy trình chẩn đoán hình ảnh sửa đổi đã làm giảm đáng kể phơi nhiễm phóng xạ từ CT. Ngoài ra, các phương pháp khảo sát mới hơn đánh giá việc sử dụng liều bức xạ thấp hơn trong một số loại chụp CT và một số chỉ định chụp CT nhất định; trong một số trường hợp, các mức liều này thậm chí sẽ chỉ tương đương với bức xạ từ chụp X-quang.Một số loại chụp CT sử dụng thuốc cản quang đường tĩnh mạch, đi kèm với một số nguy cơ nhất định (xemThuốc Cản quang và Phản ứng Thuốc Cản quang). Tuy nhiên, thuốc cản quang đường uống và thụt trực tràng cũng có nguy cơ, ví dụ như:Nếu bari, được cho bằng đường uống hoặc đường trực tràng, thoát ra bên ngoài lòng đường tiêu hóa, nó có thể gây viêm nặng trong khoang phúc mạc. Cần sử dụng thuốc cản quang iod nếu có nguy cơ thủng tạng rỗng.Việc hít phải thuốc cản quang iod có thể gâyviêm phổi nặng do hóa chất.Barium có thể tích lũy trong đường tiêu hóa, cô đặc lại và dễ gây tắc ruột.

@@ -1,0 +1,855 @@
+TIÊU ĐỀ: Sự dẫn truyền thần kinh
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/tiếp-cận-bệnh-nhân-thần-kinh/sự-dẫn-truyền-thần-kinh
+================================================================================
+
+NỘI DUNG:
+
+Sự dẫn truyền thần kinh
+
+Theo
+
+Mark Freedman
+
+,
+
+MD, MSc
+
+,
+
+University of Ottawa
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2025
+
+|
+
+đã sửa đổi
+
+Thg 5 2025
+
+v99307893_vi
+
+Các chất dẫn truyền thần kinh và thụ thể chính
+
+|
+
+Bệnh lý liên quan đến các khiếm khuyết trong dẫn truyền thần kinh
+
+|
+
+Một nơron thần kinh sinh ra điện thế hoạt động và lan truyền dọc theo sợi trục của nó, sau đó truyền tín hiệu này qua synap thần kinh bằng cách giải phóng các chất dẫn truyền thần kinh, gây ra phản ứng ở một nơron thần kinh khác hoặc một tế bào của cơ quan đáp ứng (ví dụ tế bào cơ, hầu hết các tế bào nội tiết và ngoại tiết). Các chất dẫn truyền thần kinh cho phép các neuron giao tiếp với nhau. Các chất dẫn truyền thần kinh được giải phóng từ tế bào thần kinh trước synap liên kết với các thụ thể trên tế bào thần kinh sau synap. Tín hiệu có thể kích thích hoặc ức chế tế bào tiếp nhận, phụ thuộc vào chất dẫn truyền thần kinh và thụ thể tham gia. Thuốc men và các bệnh lý có thể ảnh hưởng đến sự giao tiếp giữa các tế bào thần kinh bằng cách điều chỉnh một số thành phần của quá trình dẫn truyền thần kinh, bao gồm
+
+Quá trình tạo ra, giải phóng, tái hấp thu và phân hủy các chất dẫn truyền thần kinh
+
+Số lượng và chức năng của các thụ thể dẫn truyền thần kinh sau synap
+
+Đôi khi các tín hiệu giữa các nơ-ron xảy ra theo hướng ngược lại (được gọi là dẫn truyền ngược dòng). Trong những trường hợp như vậy, các sợi nhánh (nhánh tiếp nhận của tế bào thần kinh) trên các tế bào thần kinh sau synap giải phóng các chất dẫn truyền thần kinh ảnh hưởng đến các thụ thể trên các tế bào thần kinh trước synap. Truyền ngược có thể ức chế các nơ-ron trước synap giải phóng các chất dẫn truyền thần kinh bổ sung và giúp kiểm soát mức độ hoạt động và liên lạc giữa các nơ-ron.
+
+Xung thần kinh
+
+Mô hình 3D
+
+Kết nối trong hệ thần kinh trung ương (CNS) rất phức tạp. Một xung điện từ nơ-ron khác
+
+Sợi trục đến thân tế bào
+
+Sợi trục đến đuôi gai
+
+Thân tế bào đến thân tế bào
+
+Dendrite tới dendrite
+
+Một nơron có thể đồng thời nhận được nhiều xung thần kinh - hoạt hóa và ức chế từ các nơron khác và tích hợp đồng thời các xung thần kinh thành một số các dạng dẫn truyền khác nhau.
+
+Dẫn truyền thần kinh
+
+Sự dẫn truyền của điện thế hoạt động dọc theo sợi trục là quá trình dẫn truyền điện, do sự trao đổi ion natri và kali qua màng sợi trục gây ra. Một nơron nhất định sẽ tạo ra cùng một loại điện thế hoạt động sau mỗi kích thích, dẫn truyền với vận tốc cố định dọc theo sợi trục. Tốc độ phụ thuộc vào đường kính sợi trục và mức độ bao myelin, dao động từ 1 đến 4 m/giây ở các sợi nhỏ không có bao myelin và lên đến 75 m/giây ở các sợi lớn có bao myelin. Tốc độ dẫn truyền cao hơn ở các sợi myelin hóa vì vỏ myelin có các eo không có bao myelin cách nhau đều đặn (các eo Ranvier). Xung điện thần kinh dẫn truyền kiểu nhảy cóc từ eo này sang eo tiếp, bỏ qua phần bao myelin của sợi trục. Do đó, các rối loạn làm thay đổi vỏ myelin (ví dụ,
+
+đa xơ cứng
+
+,
+
+hội chứng Guillain-Barré
+
+) cản trở sự lan truyền xung động, gây ra các triệu chứng thần kinh khác nhau.
+
+Đường lây truyền
+
+Dẫn truyền xung thần kinh là hoạt động hóa học, gây ra bởi sự giải phóng các chất dẫn truyền thần kinh đặc hiệu khỏi đầu mút tận cùng dây thần kinh. Các chất dẫn truyền thần kinh khuếch tán qua khe synap và gắn với các thụ thể đặc hiệu trên tế bào thần kinh liền kề hoặc tế bào đích. Tùy thuộc vào thụ thể, đáp ứng có thể là hoạt hóa hoặc ức chế.
+
+Thông thường, các nơ-ron không chạm vào nhau; thay vào đó, chúng giao tiếp thông qua việc truyền dẫn các chất dẫn truyền thần kinh qua các khớp thần kinh. Synap có loại synap điện, không liên quan đến chất dẫn truyền thần kinh; các kênh ion kết nối trực tiếp bào tương của các tế bào thần kinh trước và sau synap. Đây là loại dẫn truyền thần kinh nhanh nhất.
+
+Các chất dẫn truyền thần kinh được tổng hợp trong thân tế bào thần kinh, được lưu trữ trong các túi ở đầu dây thần kinh (xem hình
+
+Dẫn truyền thần kinh
+
+). Số lượng enzyme trong một túi (thường là vài nghìn phân tử) được định nghĩa là một đơn vị lượng tử. Điện thế hoạt động khi dẫn truyền đến cuối dây thần kinh sẽ mở các kênh canxi của sợi trục; dòng Ca sau khi được giải phóng có tác dụng hòa các túi vào màng các đầu tận cùng tế bào thần kinh làm giải phóng các phân tử dẫn truyền thần kinh từ nhiều túi. Sự hòa màng tạo ra một lỗ thông qua đó các phân tử được giải phóng vào khe synap gọi là quá trình xuất bào.
+
+Các tín hiệu kích thích và ức chế
+
+Phản ứng do giải phóng chất dẫn truyền thần kinh có thể kích thích (kích hoạt) tế bào thần kinh sau synap hoặc ức chế (chặn) hoạt động của tế bào thần kinh sau synap. Các tế bào thần kinh sau synap tiếp nhận nhiều chất dẫn truyền thần kinh và tín hiệu điện và cuối cùng tổng hợp các thông tin đầu vào lại với nhau. Nếu nhận được nhiều tín hiệu kích thích hơn, tế bào thần kinh sẽ hoạt động; nếu tổng các tín hiệu là ức chế, tế bào thần kinh sẽ không hoạt động và không ảnh hưởng đến hoạt động của các tế bào thần kinh khác. Tổng hợp các câu trả lời này được gọi là tổng kết.
+
+Các dạng khác của trứng cá
+
+Tổng hợp không gian: Nhiều xung động được nhận ở các vị trí khác nhau của nơ-ron được bổ sung vào
+
+Tổng hợp tạm thời: Các xung nhận được trong một khoảng thời gian ngắn sau đó được bổ sung vào với nhau
+
+Để một nơron phát ra tín hiệu và kích hoạt, nó phải đạt tới ngưỡng tiềm năng. Một ngưỡng tiềm năng được tạo ra bởi sự gia tăng ròng của dòng natri vào trong tế bào trong quá trình trao đổi ion natri và kali. Khi có đủ natri đi vào tế bào, ngưỡng sẽ đạt đến và điện thế hoạt động sẽ được kích hoạt.
+
+Sự dẫn truyền thần kinh
+
+Điện thế hoạt động mở các kênh canxi (Ca) của sợi trục (không được hiển thị). Ca
+
+++
+
+kích hoạt giải phóng chất dẫn truyền thần kinh (NT) từ các túi dự trữ các chất này. Các phân tử NT đi vào các khe synap. Một số gắn với thụ thể sau synap, tạo ra một phản ứng. Những chất khác được bơm trở lại sợi trục và được lưu trữ hoặc khuếch tán vào các mô xung quanh.
+
+Số lượng chất dẫn truyền thần kinh trong đầu mút tận cùng thường độc lập với hoạt động của dây thần kinh và được giữ tương đối hằng định bằng cách thay đổi sự hấp thu các tiền chất của các chất dẫn truyền thần kinh hoặc hoạt động của các enzyme liên quan đến tổng hợp hoặc phá huỷ các chất dẫn truyền thần kinh.
+
+Sự tương tác giữa chất dẫn truyền thần kinh và thụ thể phải được chấm dứt nhanh chóng để chấm dứt hoạt động của chất dẫn truyền thần kinh hoặc cho phép kích hoạt thụ thể nhanh chóng và lặp đi lặp lại. Sau khi các chất dẫn truyền thần kinh đã tương tác với các thụ thể
+
+Các chất này có thể nhanh chóng được bơm trở lại các đầu dây thần kinh trước synap (tái hấp thu) để tái chế hoặc tiêu hủy.
+
+Các chất này có thể bị phân hủy bởi các enzyme gần thụ thể.
+
+Chúng có thể khuếch tán vào khu vực xung quanh và được loại bỏ.
+
+Các chất dẫn truyền thần kinh do các đầu cuối thần kinh tiếp nhận được đóng gói lại trong các hạt hoặc túi trong đầu cuối sợi trục để tái sử dụng.
+
+Rối loạn chức năng của các quá trình này có thể dẫn đến các hội chứng lâm sàng. Ví dụ, mất trí nhớ trong bệnh Alzheimer được cho là liên quan đến sự thiếu hụt chất dẫn truyền thần kinh acetylcholine trong các khớp thần kinh, làm trung gian cho việc nằm xuống của những ký ức mới. Một số loại thuốc nhất định (ví dụ: donepezil, galanthamine, rivastigmine) ngăn chặn enzyme acetylcholinesterase (phân hủy acetylcholine) và do đó làm tăng lượng acetylcholine trong khớp thần kinh. Kết quả là, chức năng bộ nhớ có thể cải thiện.
+
+Một số loại tế bào thần kinh đơn lẻ có thể giải phóng 2 hoặc nhiều chất dẫn truyền thần kinh khác nhau (gọi là đồng dẫn truyền) – ví dụ: acetylcholine và glutamate. Nhiều chất dẫn truyền thần kinh có thể tác động lên một nơ-ron sau synap hoặc ảnh hưởng đến nhiều nơ-ron sau synap. Quá trình đồng dẫn truyền cho phép giao tiếp phức tạp giữa các tế bào thần kinh.
+
+Các chất dẫn truyền thần kinh cũng có thể tạo điều kiện thuận lợi cho những thay đổi lâu dài hơn liên quan đến các con đường bổ sung như thay đổi hoạt động của gen và protein.
+
+Thụ thể
+
+Các thụ thể của chất dẫn truyền thần kinh là phức hợp protein phân bố khắp trên màng tế bào. Bản chất của chúng quyết định chất dẫn truyền thần kinh có tác dụng kích thích hay ức chế. Các thụ thể liên tục được các chất dẫn truyền thần kinh hoặc thuốc kích thích sẽ trở nên mất nhạy cảm (giảm điều hòa); các thụ thể này sẽ không được chất dẫn truyền thần kinh kích thích hoặc bị thuốc chặn liên tục sẽ trở nên siêu nhạy cảm (tăng điều hòa). Sự điều chỉnh xuống hoặc điều chỉnh lên của các thụ thể có ảnh hưởng mạnh đến sự tiến triển của khả năng dung nạp và sự lệ thuộc của cơ thể. Các mối tương quan trên lâm sàng của khái niệm này:
+
+Trong cấy ghép nội tạng hoặc cấy ghép mô, việc cắt bỏ dây thần kinh sẽ lấy đi chất dẫn truyền thần kinh của thụ thể; do đó, các cơ quan được cấy ghép có thể trở nên quá nhạy cảm với kích thích thần kinh.
+
+Trong y học cai nghiện, các triệu chứng cai nghiện có thể được giải thích ít nhất một phần bằng hiện tượng hồi phục do mật độ hoặc ái lực thụ thể thay đổi.
+
+Hầu hết các chất dẫn truyền thần kinh tương tác chủ yếu với các thụ thể sau synap, nhưng có một số thụ thể nằm trên các tế bào thần kinh trước synap có tác dụng kiểm soát sự giải phóng các chất dẫn truyền thần kinh.
+
+Có 2 họ thụ thể: kênh ion điều hòa bằng phối tử và điều hòa chuyển hóa. Các thụ thể kênh ion điều hòa bằng phối tử (ví dụ: thụ thể
+
+N
+
+-metyl-
+
+d
+
+-glutamate, kinate-quisqualate, nicotinic acetylcholine, glycine và axit gamma-aminobutyric [GABA]), bao gồm các kênh ion mở ra khi liên kết với chất dẫn truyền thần kinh và tạo ra phản ứng rất nhanh. Ở các thụ thể điều hòa chuyển hóa (ví dụ: thụ thể serotonin, thụ thể alpha và thụ thể beta-adrenergic và thụ thể dopaminergic), các chất dẫn truyền thần kinh tương tác với protein G và kích hoạt một phân tử khác (một chất truyền tin thứ hai, chẳng hạn như cAMP) xúc tác một chuỗi các sự kiện thông qua quá trình phosphoryl hóa protein, huy động canxi hoặc cả hai; những thay đổi trong tế bào qua trung gian bởi các chất truyền tin thứ hai diễn ra chậm hơn và cho phép điều chỉnh tốt hơn phản ứng dẫn truyền thần kinh nhanh chóng theo kênh ion điều hòa bằng phối tử. Nhiều chất dẫn truyền thần kinh kích hoạt các thụ thể cụ thể hơn là kích hoạt các chất truyền tin thứ 2.
+
+Các chất dẫn truyền thần kinh và thụ thể chính
+
+Có ít nhất 100 chất có thể có tác dụng như các chất dẫn truyền thần kinh; trong đó có khoảng 18 chất có tầm quan trọng chính. Một số xuất hiện dưới các hình thức khác nhau. Các chất dẫn truyền thần kinh có thể được phân thành các nhóm khác nhau, như
+
+Các phân tử nhỏ (ví dụ: glutamate, aspartate, axit gamma-aminobutyric, glycine,
+
+adenosine
+
+, acetylcholine, serotonin, histamine, noradrenaline)
+
+Neuropeptides (ví dụ, endorphin)
+
+Các phân tử khí (ví dụ, oxit nitric, carbon monoxide)
+
+Endocannabinoid
+
+Glutamate và aspartate
+
+Các axit amin glutamate và aspartate là những chất dẫn truyền thần kinh kích thích chính trong hệ thần kinh trung ương và có thể góp phần vào khả năng dung nạp thuốc phiện và điều hòa chứng tăng cảm giác đau. Chúng hoạt động ở vỏ não, tiểu não và tủy sống. Glutamate làm nơron tăng tổng hợp nitric oxid (NO). Glutamate dư thừa có thể gây độc, làm tăng Ca nội bào, các gốc tự do và hoạt động proteinase.
+
+Các thụ thể glutamate (bị glutamate kích thích và bị aspartate kích thích ít mạnh hơn) được phân loại là thụ thể NMDA (
+
+N
+
+-metyl-
+
+d
+
+-aspartate) và các thụ thể không phải NMDA. Phencyclidine (PCP, còn gọi là bụi thiên thần) và memantine (dùng để điều trị bệnh Alzheimer) gắn với thụ thể NMDA.
+
+Axit gamma-aminobutyric
+
+Axit gamma-aminobutyric (GABA), một axit amin có nguồn gốc từ glutamate, là chất dẫn truyền thần kinh ức chế chính trong não. Sau khi tương tác với thụ thể của nó, GABA được bơm chủ động trở lại các đầu mút tận cùng thần kinh và được chuyển hóa. Glycine có hoạt động giống như GABA, hoạt động chủ yếu ở các tế bào trung gian thần kinh (các tế bào Renshaw) của tủy sống và trong các vòng dẫn truyền làm giãn các cơ đối vận.
+
+Các thụ thể GABA được phân loại là GABAA (kích hoạt kênh clorua) và GABAB (kích thích sự hình thành cAMP). Các thụ thể GABA-A là vị trí tác động của một số loại thuốc thần kinh, bao gồm benzodiazepin, barbiturat, picrotoxin và muscimol. Rượu cũng liên kết với thụ thể GABA-A. Baclofen kích hoạt các thụ thể GABAB, được sử dụng để điều trị co cơ (ví dụ trong đa xơ cứng).
+
+Serotonin
+
+Serotonin (5-hydroxytryptamine, hay 5-HT) được tạo ra bởi nhân raphe và các tế bào thần kinh đường giữa của cầu não và thân não trên và được tổng hợp từ tryptophan. Nồng độ serotonin được kiểm soát bởi sự hấp thu của tryptophan, monoamine oxidase (MAO) bên trong tế bào thần kinh và sự giáng hóa serotonin. Cuối cùng, serotonin được bài tiết qua nước tiểu dưới dạng axit 5-hydroxyindoacetic hoặc 5-HIAA.
+
+Các thụ thể serotoninergic (5-HT) (với ít nhất 15 phân typ) được phân loại là 5-HT1 (với 4 nhóm), 5-HT2, và 5-HT3. Các chất chủ vận chọn lọc thụ thể serotonin (như sumatriptan) có thể làm mất triệu chứng đau nửa đầu. Thuốc ức chế tái hấp thu serotonin có chọn lọc (SSRI) cũng có thể được sử dụng để điều trị một số tình trạng sức khỏe tâm thần (ví dụ: trầm cảm, lo âu, rối loạn ám ảnh cưỡng chế, rối loạn căng thẳng sau chấn thương).
+
+Acetylcholine
+
+Acetylcholine là chất dẫn truyền thần kinh chính của nơron vận động vùng hành-tủy, các sợi thần kinh thực vật trước hạch, các sợi dây thần kinh cholinergic sau hạch (phó giao cảm) và nhiều tế bào thần kinh trong hệ thần kinh trung ương (CNS) (VD: hạch nền, vỏ não vận động). Thuốc được tổng hợp từ choline và acetyl coenzyme A bởi choline acetyltransferase, và tác dụng của thuốc nhanh chóng bị chấm dứt bởi acetylcholinesterase. Nồng độ Acetylcholine được điều chỉnh bởi choline acetyltransferase và do sự hấp thu cholin. Nồng độ của chất dẫn truyền thần kinh này giảm ở bệnh nhân bị bệnh Alzheimer.
+
+Các thụ thể cholinergic được phân loại là nicotinic N1 (trong tủy thượng thận và hạch thần kinh thực vật) hoặc N2 (trong cơ xương) hoặc muscarinic M1 cho tới M5 (phân bố rộng rãi trong CNS). M1 xuất hiện trong hệ thống thần kinh tự động, thể vân, vỏ não và vùng hải mã; M2 xuất hiện trong hệ thống thần kinh tự chủ, tim, cơ trơn của ruột, cơ trán và tiểu não.
+
+Dopamine
+
+Dopamine
+
+tương tác với các thụ thể của một số sợi thần kinh ngoại vi và nhiều tế bào thần kinh trung ương (ví dụ ở liềm đen, não giữa, khu vực mái bụng và vùng dưới đồi).
+
+Dopamine
+
+được tổng hợp từ tyrosine axit amin. Sau khi giải phóng và tương tác với thụ thể,
+
+dopamine
+
+được chủ động bơm trở lại (thu hồi) vào đầu mút tận cùng thần kinh. Nồng độ
+
+dopamine
+
+trong các mút tận cùng thần kinh được điều chỉnh bởi enzyme tyrosine hydroxylase và MAO (làm giáng hóa
+
+dopamine
+
+).
+
+Các thụ thể dopaminergic được phân loại là D1 đến D5. Thụ thể D3 và D4 đóng một vai trò trong kiểm soát tư duy (hạn chế các triệu chứng âm tính của tâm thần phân liệt); kích hoạt thụ thể D2 kiểm soát các hệ thống ngoại tháp. Tuy nhiên, ái lực đối với thụ thể không tương ứng với khả năng đáp ứng (tác dụng). Ví dụ ropinirole thuốc có ái lực cao đối với thụ thể D3 nhưng có tác dụng thông qua việc kích hoạt thụ thể D2.
+
+Norepinephrine
+
+Norepinephrine
+
+là chất dẫn truyền thần kinh của hầu hết các sợi giao cảm sau hạch và nhiều tế bào thần kinh trung ương (ví dụ: ở nhân xanh và vùng dưới đồi). Tiền chất tyroxin được chuyển thành
+
+dopamine
+
+, chất này được hydroxyl hóa bởi
+
+dopamine
+
+beta-hydroxylase thành
+
+norepinephrine
+
+. Sau khi giải phóng và tương tác với thụ thể, một số
+
+norepinephrine
+
+bị giáng hóa bởi catechol
+
+O
+
+-methyltransferase (COMT) và phần còn lại được tích cực đưa trở lại đầu cuối thần kinh, nơi nó bị phân hủy bởi MAO. Nồng độ
+
+norepinephrine
+
+trong tế bào thần kinh được điều hòa bởi tyrosine hydroxylase,
+
+dopamine
+
+beta-hydroxylase và MAO.
+
+Các thụ thể adrenergic được phân loại là alpha-1 (sau synap trong hệ thống giao cảm), alpha-2 (trước synap trong hệ thống giao cảm và sau synap trong não), beta-1 (trong tim) hoặc beta-2 (trong cấu trúc có phân bố thần kinh giao cảm khác).
+
+Endorphins và enkephalins
+
+Endorphins và enkephalins là opioid.
+
+Endorphins
+
+là các chuỗi polypeptide lớn kích hoạt nhiều tế bào thần kinh trung ương (ví dụ: ở vùng dưới đồi, hạnh nhân, đồi thị và nhân xanh). Thân tế bào chứa một polypeptide lớn được gọi là pro-opiomelanocortin, tiền thân của α-, beta - và γ-endorphin. Pro-opiomelanocortin này được vận chuyển xuống sợi trục và cắt thành các mảnh; một trong số đó là beta-endorphin, chứa trong các nơron phóng chiếu tới vùng chất xám quanh kênh, cấu trúc hệ viền và các nơron có chứa catecholamine chính trong não. Sau khi giải phóng và tương tác với các thụ thể, beta-endorphin được thủy phân bởi peptidases.
+
+Enkephalin
+
+bao gồm met-enkephalin là các polypeptide nhỏ có trong nhiều nơron trung ương (ví dụ như trong cầu nhạt, đồi thị, nhân đuôi và chất xám trung tâm). Tiền thân của các chất này là proenkephalin, được hình thành trong thân tế bào, sau đó phân chia bởi các peptidase đặc hiệu thành các peptide có hoạt tính. Những chất này cũng nằm trong tủy sống, nơi chúng điều chỉnh tín hiệu đau.
+
+Các chất dẫn truyền thần kinh của tín hiệu đau ở sừng sau của tủy sống là glutamate và chất P. Enkephalins giảm lượng dẫn truyền thần kinh được giải phóng và làm tăng khử cực (làm cho điện thế màng âm nhiều hơn) màng sau synap, làm thùy sau rãnh trung tâm giảm tạo điện thế hoạt động và giảm nhận cảm đau. Sau khi giải phóng, enkephalin bị thủy phân thành các peptide và axit amin nhỏ hơn, không hoạt động. Sự bất hoạt nhanh chóng enkephalins ngoại sinh ngăn cản tác dụng có lợi trên lâm sàng của các chất này. Các phân tử ổn định hơn (vd
+
+morphine
+
+) được dùng làm thuốc giảm đau thay thế.
+
+Các thụ thể endorphin-enkephalin (opioid) được phân loại là mu-1 và mu-2 (ảnh hưởng đến sự tích hợp cảm giác và giảm đau), delta-1 và delta-2 (ảnh hưởng đến sự tích hợp vận động, chức năng nhận thức, và giảm đau) và kappa-1, kappa-2, kappa-3 (ảnh hưởng điều chỉnh cân bằng nước, giảm đau và ăn uống). Dữ liệu mới cho thấy có sự hiện diện của nhiều phân tử thụ thể có ý nghĩa dược lý hơn.
+
+Các chất dẫn truyền thần kinh khác
+
+Dynorphins là nhóm gồm 7 peptide với trình tự axit amin tương tự. Giống enkephalins, chúng là các opioid.
+
+Chất peptide P điều chỉnh phản ứng thần kinh với đau và tâm trạng và xuất hiện ở các tế bào thần kinh trung ương (ở nhân trung gian, chất đen, hạch nền, hành tủy và vùng dưới đồi). Nó cũng tập trung nhiều ở hạch rễ lưng. Chất này được giải phóng bởi những kích thích đau cường độ mạnh. Chất P cũng điều chỉnh cảm giác buồn nôn và nôn thông qua việc kích hoạt các thụ thể NK1A nằm ở thân não.
+
+Nitric oxide (NO), một loại khí không ổn định tham gia vào nhiều quá trình thần kinh, được tạo ra từ
+
+arginine
+
+bởi NO synthetase. Trong các tế bào thần kinh có NO synthetase hoạt động, các chất dẫn truyền thần kinh làm tăng Calci nội bào++ (ví dụ chất P, glutamate, acetylcholine) sẽ kích thích tổng hợp NO. NO có thể là một chất truyền tin nội bào và được cho là có tác dụng điều chỉnh một số phản ứng trước và sau synap bằng cách khuếch tán từ tế bào này sang tế bào khác. Nó có thể làm tăng độc tính thần kinh của glutamate (qua thụ thể NMDA) (ví dụ: trong bệnh Parkinson, đột quỵ hoặc bệnh Alzheimer). NO ảnh hưởng đến các chất dẫn truyền thần kinh khác (ví dụ: GABA và acetylcholine) bằng cách thay đổi dòng canxi vào tế bào để tăng giải phóng các chất dẫn truyền thần kinh khác.
+
+Các chất dẫn truyền thần kinh dạng khí bổ sung bao gồm carbon monoxide (CO) và hydrogen sulfide (H2S). Các chất dẫn truyền này được tạo ra trong các tế bào ở khắp cơ thể (bao gồm cả não). CO nội sinh được tạo ra từ quá trình chuyển hóa heme và có thể tham gia vào các quá trình liên quan đến tạo sốt, viêm, sự tồn tại của tế bào và kiểm soát sự giãn nở của mạch máu. Một số enzym tham gia vào quá trình sản sinh ra H2S, được cho là cần thiết để não bộ hình thành và lưu giữ ký ức.
+
+Các chất có ít vai trò trong dẫn truyền thần kinh bao gồm histamin,
+
+vasopressin
+
+, vasoactive peptide đường ruột, carnosin, bradykinin, cholecystokinin, bombesin, somatostatin, yếu tố phóng thích
+
+corticotropin
+
+, neurotensin và có thể cả
+
+adenosine
+
+.
+
+Endocannabinoid là các chất dẫn truyền thần kinh dựa trên lipid nội sinh điều chỉnh chức năng của não, nội tiết và hệ miễn dịch.
+
+Bệnh lý liên quan đến các khiếm khuyết trong dẫn truyền thần kinh
+
+Bệnh lý hoặc các chất làm thay đổi sự sản sinh, giải phóng, tiếp nhận, giáng hóa hoặc tái hấp thu các chất dẫn truyền thần kinh hoặc làm thay đổi số lượng và ái lực của thụ thể đều có thể gây ra các triệu chứng thần kinh hoặc tâm thần và gây bệnh (xem bảng
+
+Ví dụ về Rối loạn liên quan đến khiếm khuyết trong dẫn truyền thần kinh
+
+). Các loại thuốc làm thay đổi quá trình dẫn truyền thần kinh có thể làm giảm nhiều rối loạn này (ví dụ: bệnh Parkinson, trầm cảm).
+
+Bảng
+
+Các ví dụ về bệnh lý liên quan đến các khiếm khuyết trong truyền dẫn thần kinh
+
+Bảng
+
+Các ví dụ về bệnh lý liên quan đến các khiếm khuyết trong truyền dẫn thần kinh
+
+Các ví dụ về bệnh lý liên quan đến các khiếm khuyết trong truyền dẫn thần kinh
+
+Rối loạn
+
+Sinh lý bệnh
+
+Điều trị
+
+Sự mất cân bằng chất dẫn truyền thần kinh
+
+Bệnh Alzheimer
+
+Lắng đọng beta amyloid ở ngoại bào, nội bào đám rối thần kinh, các mảng lão hóa, nhất là hệ viền (ví dụ hải mã), trong khu vực liên kết của vỏ não và trong các nơron tổng hợp, sử dụng acetylcholine (ví dụ nhân Meynert vùng nền và các đường kết nối của nó tới vỏ não)
+
+Chất ức chế cholinesterase (donepezil, rivastigmine, galantamine) làm trì hoãn sự giáng hoá ở synap của acetylcholine và do đó cải thiện một chút chức năng nhận thức và trí nhớ.
+
+Memantine, chất đối kháng thụ thể NMDA, có thể làm chậm sự tiến triển của bệnh và tăng khả năng tự chủ.
+
+Các phương pháp điều trị trong tương lai có thể liên quan đến các loại thuốc làm tăng nồng độ H2S trong não và do đó cải thiện trí nhớ ngắn hạn hoặc ảnh hưởng đến nồng độ NO trong não và do đó cải thiện trí nhớ dài hạn.
+
+Lo lắng
+
+GABA có thể giảm hoạt tính, do sự mất cân bằng của các chất ức chế, các chất kích thích thụ thể GABA nội sinh hoặc cả hai
+
+Cũng có thể liên quan đến sự mất cân bằng trong phản ứng
+
+norepinephrine
+
+và 5-HT
+
+Benzodiazepine tăng khả năng mở các kênh Chloride − được điều chỉnh bởi GABA thông qua kích hoạt thụ thể GABA-A.
+
+SSRI là những loại thuốc được lựa chọn để điều trị lâu dài vì có thể tiến triển tình trạng lệ thuộc benzodiazepine.
+
+Tự kỷ
+
+Có thể tăng serotonin máu, xảy ra ở 30-50% người tự kỷ, không có bằng chứng về các bất thường 5-HT trung ương.
+
+SSRI và risperidone có thể có tác dụng.
+
+Tổn thương não
+
+Tổn thương (ví dụ chấn thương, thiếu oxy, co giật kéo dài) kích thích sự phóng thích quá mức các chất dẫn truyền thần kinh có tính kích thích (ví dụ glutamate) và tích tụ ion canxi trong tế bào, góp phần làm chết thần kinh
+
+Trong các mô hình thực nghiệm về thiếu máu và chấn thương, các thuốc chẹn kênh canxi, glycine và chất đối kháng thụ thể NMDA cũ (ví dụ dextromethorphan, ketamine) có thể làm giảm mức độ chết tế bào thần kinh, nhưng các thuốc này không hiệu quả ở người.
+
+Trầm cảm
+
+Các bất thường phức tạp trong sự dẫn truyền của hệ cholinergic, catecholaminergic (noradrenergic, dopaminergic) và serotonergic (5-HT)
+
+Có thể có sự tham gia của các hormone và neuropeptides khác (ví dụ: chất P,
+
+dopamine
+
+, acetylcholine, GABA)
+
+Thuốc chống trầm cảm làm giảm thụ thể gián tiếp hoặc trực tiếp bằng cách ức chế sự tái hấp thu 5-HT (như với SSRI) và
+
+norepinephrine
+
+hoặc
+
+dopamine
+
+hoặc bằng cách chặn MAO.
+
+Ngăn chặn 5-HT2A/2C (một loại receptor 5-HT rất phong phú ở vùng trước trán) có thể làm tăng hiệu quả của SSRI (ví dụ trazodone).
+
+Các bệnh lý co giật
+
+Các cơn động kinh do sự phóng điện đột ngột tần số cao đồng bộ của các nhóm tế bào thần kinh khu trú tại một số vùng não nhất định, có thể do tăng hoạt động của glutamate hoặc giảm hoạt tính của GABA
+
+Phenytoin, lamotrigine, carbamazepine, valproate, topiramate, và một số thuốc chống co giật khác (ví dụ, zonisamide, oxcarbazepine) làm ổn định các kênh Na phụ thuộc điện áp.
+
+Ethosuximide và gabapentin làm giảm một số dòng canxi nhất định.
+
+Phenytoin cũng làm giảm sự giải phóng quá mức chất dẫn truyền thần kinh.
+
+Lamotrigine có thể làm giảm lượng glutamate và aspartate.
+
+Phenobarbital và benzodiazepine tăng cường hoạt hóa GABA bằng cách tác dụng đến phức hợp kênh thụ thể clorua GABA-A.
+
+Tiagabine ngăn chặn sự hấp thu GABA của tế bào thần kinh đệm.
+
+Valproate làm tăng nồng độ GABA.
+
+Topiramate làm tăng hoạt tính của GABA.
+
+Bệnh Huntington
+
+(chorea)
+
+Tổn thương thần kinh nặng ở vỏ não và thể vân do sự lan tỏa polyglutamine (được mã hoá bởi CAG lặp lại), được tạo bởi một gen bất thường trên nhiễm sắc thể số 4 (gen dị thường sản xuất quá nhiều protein huntingtin, chất này có thể kết hợp với các phân tử gây kích thích tế bào quá mức bằng các amino acid dẫn truyền thần kinh có tính hoạt hóa như glutamate)
+
+Hiện không có điều trị đặc hiệu, nhưng các thuốc chẹn thụ thể NMDA có thể ngăn chặn tác dụng gây độc của glutamate dư thừa.
+
+Thuốc tác dụng giống GABA không có hiệu quả.
+
+Hưng cảm
+
+Tăng hoạt tính của
+
+norepinephrine
+
+và
+
+dopamine
+
+, giảm nồng độ 5-HT và dẫn truyền thần kinh glutamate bất thường
+
+Lithium thường là sự lựa chọn đầu tiên. Chất này làm giảm giải phóng
+
+norepinephrine
+
+và tăng tổng hợp 5-HT.
+
+Valproate và Lamotrigine có lợi, có thể bằng cách bình thường hóa sự truyền glutamate.
+
+Topiramate ngăn chặn các kênh Na phụ thuộc điện áp, các augments GABA hoạt động ở một số phân typ của GABAA thụ thể, antagonizes các subtype AMPA/kainate của thụ glutamate, và ức chế enzym anhydrase carbonic, đặc biệt là isozym II và IV.
+
+Gabapentin được cho là gắn kết với αlpha-2/delta tiểu đơn vị (1 và 2) của kênh canxi phụ thuộc điện thế vào CNS.
+
+Carbamazepine và oxcarbazepine ổn định điện áp phụ thuộc kênh Na.
+
+Hội chứng ác tính do thuốc an thần
+
+Chặn thụ thể
+
+dopamine
+
+(D2) bằng thuốc (ví dụ thuốc chống loạn thần, methylphenidate) hoặc đột ngột ngừng chất chủ vận dopaminergic, dẫn đến cứng cơ, sốt, thay đổi trạng thái tinh thần và không ổn định về thần kinh thực vật
+
+Điều trị bằng chất chủ vận D2 (ví dụ, bromocriptine) làm đảo ngược sự truyền dẫn thần kinh.
+
+Các thuốc khác cũng được sử dụng khi cần thiết (ví dụ như dantrolene, một chất chẹn thụ thể cơ trực tiếp, được sử dụng để ngăn ngừa co cơ).
+
+Đau
+
+Tổn thương mô, gây giải phóng chất P và glutamate ở sừng sau của tủy sống và giải phóng các đại phân tử khác làm trung gian truyền tín hiệu đau, chẳng hạn như CGRP (có thể làm giãn mạch máu sọ và dẫn đến đau nửa đầu) và neurokinin A và bradykinin (khu trú chủ yếu ở lớp II và IV của tủy sống)
+
+Điều chỉnh thêm các tín hiệu này bằng endorphin (trong tủy sống) và bằng 5-HT và
+
+norepinephrine
+
+(trong các con đường đi xuống bắt nguồn từ não)
+
+NSAID ức chế tổng hợp prostaglandin một cách có chọn lọc (với chất ức chế COX-2 như celecoxib, parecoxib) hoặc không chọn lọc (với chất ức chế COX-1 và -2 như ibuprofen, naproxen) và giảm sự hình thành xung thần kinh gây đau.
+
+Thuốc giảm đau opioid (ví dụ morphine) kích hoạt các thụ thể endorphin-enkephalin (mu, delta, và κappa) làm giảm sự dẫn truyền xung cảm giác đau.
+
+Phương pháp điều trị mới có thể chẹn các thụ thể CGRP có thể điều trị cơn đau trong hệ thần kinh. Những phương pháp điều trị này làm thay đổi tín hiệu CGRP và do đó làm giảm đau khi chứng đau nửa đầu; các phương pháp điều trị đó có thể được xem xét để điều trị đau mặt, bệnh thần kinh do tiểu đường và đau sau khi điều trị ung thư.
+
+Hội chứng Parkinson
+
+Ức chế hệ thống dopaminergic do các thuốc chống loạn thần gây chẹn các thụ thể dopaminergic
+
+Thuốc kháng cholinergic làm giảm hoạt tính cholinergic và khôi phục sự cân bằng giữa các hệ thống cholinergic và dopaminergic.
+
+Bệnh Parkinson
+
+Mất tế bào thần kinh dopaminergic của phần đặc liềm đen và các vùng khác, với nồng độ
+
+dopamine
+
+và metenkephalin giảm, làm thay đổi cân bằng
+
+dopamine
+
+/acetylcholine và dẫn đến sự hoạt động quá mức của acetylcholine ở thể vân
+
+Levdopa đến khe synap, được hấp thu bởi sợi trục thông qua các tế bào thần kinh nigral trước synap, và được khử carboxyl thành
+
+dopamine
+
+. Chất này được bài tiết vào khe synap để hoạt hóa các thụ thể
+
+dopamine
+
+của tua gai. Amantadine làm tăng giải phóng
+
+dopamine
+
+trước synap; các chất chủ vận
+
+dopamine
+
+kích thích các thụ thể
+
+dopamine
+
+, mặc dù bromocriptine, pramipexole và ropinirole chỉ gắn với các nhóm thụ thể
+
+dopamine
+
+D2, D3, và D4.
+
+Thuốc kháng cholinergic làm giảm hoạt tính của hệ cholinergic, phục hồi sự cân bằng của
+
+dopamine
+
+và acetylcholine.
+
+Thuốc ức chế MAO-B ngăn ngừa tái hấp thu dopamine, tăng nồng độ của nó. Selegiline, chất ức chế MAO-B, ngăn chặn giáng hóa dopamine và do đó kéo dài đáp ứng với levodopa và cho phép giảm liều carbidopa/levodopa.
+
+Catechol
+
+O
+
+-metyltransferase (COMT) cũng ức chế giáng hóa
+
+dopamine
+
+.
+
+Tâm thần phân liệt
+
+Tăng giải phóng, tổng hợp
+
+dopamine
+
+trước synap, tăng độ nhạy, mật độ thụ thể
+
+dopamine
+
+sau synap hoặc phối hợp nhiều cơ chế
+
+Thuốc chống loạn thần chẹn các thụ thể
+
+dopamine
+
+và làm giảm sự hoạt động quá mức của hệ dopaminergic về mức bình thường.
+
+Haloperidol chẹn ưu tiên thụ thể D2 và D3 (ái lực cao) và thụ thể D4 (ái lực thấp) trong các khu vực vỏ não giữa.
+
+Clozapine có ái lực cao đối với khả năng gắn với thụ thể D4 và 5-HT2, gợi ý hệ thống 5-HT tham gia vào quá trình sinh bệnh học của tâm thần phân liệt và khả năng đáp ứng của nó đối với điều trị. Clozapine có nguy cơ cao gây giảm bạch cầu.
+
+Olanzapine và risperidone, tương tự như haloperidol, cũng có ái lực cao đối với 5-HT2 và thụ thể D2.
+
+Rối loạn vận động muộn
+
+Các thụ thể
+
+dopamine
+
+tăng nhạy cảm do bị chẹn kéo dài bởi thuốc chống loạn thần
+
+Giảm liều thuốc chống loạn thần có thể làm giảm sự quá mẫn của thụ thể
+
+dopamine
+
+; tuy nhiên, trong một số trường hợp, những thay đổi có thể không thể đảo ngược.
+
+Các chất dẫn truyền thần kinh bình thường bị hệ thống miễn dịch ngăn chặn hoặc phá hủy
+
+Nhược cơ
+
+Phản ánh sự bất hoạt của các thụ thể acetylcholine và các thay đổi hóa mô sau synap tại các synap thần kinh cơ do phản ứng tự miễn
+
+Thuốc kháng cholinesterase ức chế acetylcholinesterase, làm tăng nồng độ acetylcholine ở các synap thần kinh cơ, và kích thích thụ thể còn lại, làm tăng hoạt động của cơ.
+
+Giảm sự hấp thu của các chất dẫn truyền thần kinh vào các nơ ron
+
+Xơ cứng cột bên teo cơ
+
+Một phần bởi độc tính thần kinh của glutamate gây ra sự hủy hoại nơron thần kinh vận động trên và dưới
+
+Riluzole ức chế sự dẫn truyền glutamate, kéo dài một chút thời gian sống thêm.
+
+Các chất dẫn truyền thần kinh bình thường nhưng khiếm khuyết các kênh ion.
+
+Thất điều
+
+chu kỳ
+
+Kênh K phụ thuộc điện thế bị lỗi, gây ra các xung gợn sóng và mất điều phối ở xa (giật bó cơ)
+
+Điều trị với acetazolamide có hiệu quả trong một số thể thất điều chu kỳ.
+
+Liệt chu kỳ tăng kali máu
+
+Giảm sự bất hoạt kênh Na
+
+Một số đợt bệnh nặng có thể điều trị bằng Ca gluconate, glucose và insulin.
+
+Liệt chu kỳ hạ kali máu
+
+Kênh Ca phụ thuộc điện thế bị khiếm khuyết
+
+Các đợt bệnh cấp tính có thể được điều trị bằng muối K.
+
+Acetazolamide có hiệu quả phòng ngừa.
+
+Hội chứng Lambert-Eaton
+
+*
+
+Các kháng thể làm giảm sự giải phóng acetylcholin trước synap
+
+Corticosteroid, 3,4-diaminopyridin (DAP), guanidin, IVIG và có thể xem xét chỉ định lọc huyết tương.
+
+Rối loạn trương lực cơ bẩm sinh
+
+Các kênh Na phụ thuộc điện thế bị khiếm khuyết, gây ra loạn trương lực cơ do lạnh và liệt chu kỳ
+
+Mexiletine (chất chẹn kênh Na) và acetazolamide (một chất ức chế anhydrase carbonic) có thể có tác dụng.
+
+Viêm não Rasmussen
+
+Sau khi nhiễm virus cơ thể sản xuất các kháng thể đối kháng với thụ thể glutamate, ảnh hưởng đến các kênh có cổng gutamate.
+
+Thể động kinh cục bộ liên tục khác biệt nhất
+
+Corticosteroid và thuốc kháng virus thường không hiệu quả.
+
+Nếu không có sự tự thuyên giảm cần xem xét chỉ định cắt bán cầu chức năng để có thể kiểm soát cơn động kinh.
+
+Giật mình bệnh lý (hyperexplexia, hội chứng người cứng)
+
+Đột biến trong gen của tiểu đơn vị alpha-1 của kênh có cổng
+
+glycine
+
+Đặc trưng bởi cứng người, giật cơ ban đêm và phản xạ giật mình quá mức, tăng phản xạ và ngã
+
+Clonazepam or certain other antiseizure drugs (eg, phenytoin, phenobarbital, diazepam, valproate) may result in improvement.
+
+Ngộ độc
+
+Bệnh ngộ độc
+
+Ức chế giải phóng acetylcholine từ nơron vận động bởi độc tố từ
+
+Clostridium botulinum
+
+Hiện không có thuốc điều trị đặc hiệu.
+
+Lượng rất nhỏ độc tố được sử dụng để điều trị một số bệnh loạn trương lực, co cứng, đau có nguồn gốc thần kinh, migraines hoặc thẩm mỹ để giảm nếp nhăn da.
+
+Ngộ độc nấm
+
+Amanita muscaria:
+
+Chứa axit ibotenic (có tác dụng tương tự glutamate) và một chất chuyển hóa tương tự như muscimol (có tác dụng tương tự như của GABA)
+
+Inocybe
+
+và
+
+Clitocybe
+
+spp: Kích thích các thụ thể muscarinic bằng muscarin và các hợp chất có liên quan
+
+Điều trị mang tính hỗ trợ bởi vì không có thuốc nào có thể đảo ngược lại các hiệu ứng trên sự dẫn truyền thần kinh.
+
+Atropine giúp điều trị các biểu hiện của muscarinic.
+
+Phốt phát hữu cơ
+
+Ức chế acetylcholinesterase không thể đảo ngược và sự gia tăng rõ rệt nồng độ acetylcholine trong khe synap
+
+Pralidoxime loại bỏ độc tố khỏi acetylcholinesterase và giúp hồi phục các biểu hiện của nicotinic cũng như muscarinic.
+
+Atropine giúp nhanh chóng đảo ngược các hiệu ứng muscarinic.
+
+Nọc độc của rắn từ
+
+bungarus multicinctus
+
+(rắn cạp nong Đài Loan)
+
+Chẹn các thụ thể acetylcholine tại synap thần kinh cơ bằng độc tố alpha-
+
+Bungarus
+
+Có thuốc kháng nọc độc hiệu quả.
+
+* Hội chứng Eaton-Lambert là một hội chứng cận ung thư qua trung gian kháng thể thường xuất hiện trong ung thư phổi tế bào nhỏ. Nó có thể xuất hiện trước khi khối u biểu hiện.
+
+CGRP =
+
+calcitonin
+
+peptid liên quan đến gen; CRF
+
+=
+
+yếu tố giải phóng
+
+corticotropin
+
+(ACTH); GABA
+
+=
+
+gamma-aminobutyric acid; H2S = hydro sunfua; 5-HT
+
+=
+
+serotonin; IVIG
+
+=
+
+globulin miễn dịch đường tĩnh mạch; MAO
+
+=
+
+monoamine oxidase; MAO-B
+
+=
+
+MAO loại B; NMDA
+
+=
+
+N
+
+-methyl-
+
+d
+
+-aspartate; NO = oxit nitric; NSAID
+
+=
+
+thuốc chống viêm không steroid; PIP2
+
+=
+
+phosphatidylinositol 4,5-bisphosphat; SSRI
+
+=
+
+thuốc ức chế tái hấp thu serotonin có chọn lọc.
+
+* Hội chứng Eaton-Lambert là một hội chứng cận ung thư qua trung gian kháng thể thường xuất hiện trong ung thư phổi tế bào nhỏ. Nó có thể xuất hiện trước khi khối u biểu hiện.
+
+CGRP =
+
+calcitonin
+
+peptid liên quan đến gen; CRF
+
+=
+
+yếu tố giải phóng
+
+corticotropin
+
+(ACTH); GABA
+
+=
+
+gamma-aminobutyric acid; H2S = hydro sunfua; 5-HT
+
+=
+
+serotonin; IVIG
+
+=
+
+globulin miễn dịch đường tĩnh mạch; MAO
+
+=
+
+monoamine oxidase; MAO-B
+
+=
+
+MAO loại B; NMDA
+
+=
+
+N
+
+-methyl-
+
+d
+
+-aspartate; NO = oxit nitric; NSAID
+
+=
+
+thuốc chống viêm không steroid; PIP2
+
+=
+
+phosphatidylinositol 4,5-bisphosphat; SSRI
+
+=
+
+thuốc ức chế tái hấp thu serotonin có chọn lọc.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các chất dẫn truyền thần kinh và thụ thể chính ---
+
+Có ít nhất 100 chất có thể có tác dụng như các chất dẫn truyền thần kinh; trong đó có khoảng 18 chất có tầm quan trọng chính. Một số xuất hiện dưới các hình thức khác nhau. Các chất dẫn truyền thần kinh có thể được phân thành các nhóm khác nhau, nhưCác phân tử nhỏ (ví dụ: glutamate, aspartate, axit gamma-aminobutyric, glycine,adenosine, acetylcholine, serotonin, histamine, noradrenaline)Neuropeptides (ví dụ, endorphin)Các phân tử khí (ví dụ, oxit nitric, carbon monoxide)EndocannabinoidGlutamate và aspartateCác axit amin glutamate và aspartate là những chất dẫn truyền thần kinh kích thích chính trong hệ thần kinh trung ương và có thể góp phần vào khả năng dung nạp thuốc phiện và điều hòa chứng tăng cảm giác đau. Chúng hoạt động ở vỏ não, tiểu não và tủy sống. Glutamate làm nơron tăng tổng hợp nitric oxid (NO). Glutamate dư thừa có thể gây độc, làm tăng Ca nội bào, các gốc tự do và hoạt động proteinase.Các thụ thể glutamate (bị glutamate kích thích và bị aspartate kích thích ít mạnh hơn) được phân loại là thụ thể NMDA (N-metyl-d-aspartate) và các thụ thể không phải NMDA. Phencyclidine (PCP, còn gọi là bụi thiên thần) và memantine (dùng để điều trị bệnh Alzheimer) gắn với thụ thể NMDA.Axit gamma-aminobutyricAxit gamma-aminobutyric (GABA), một axit amin có nguồn gốc từ glutamate, là chất dẫn truyền thần kinh ức chế chính trong não. Sau khi tương tác với thụ thể của nó, GABA được bơm chủ động trở lại các đầu mút tận cùng thần kinh và được chuyển hóa. Glycine có hoạt động giống như GABA, hoạt động chủ yếu ở các tế bào trung gian thần kinh (các tế bào Renshaw) của tủy sống và trong các vòng dẫn truyền làm giãn các cơ đối vận.Các thụ thể GABA được phân loại là GABAA (kích hoạt kênh clorua) và GABAB (kích thích sự hình thành cAMP). Các thụ thể GABA-A là vị trí tác động của một số loại thuốc thần kinh, bao gồm benzodiazepin, barbiturat, picrotoxin và muscimol. Rượu cũng liên kết với thụ thể GABA-A. Baclofen kích hoạt các thụ thể GABAB, được sử dụng để điều trị co cơ (ví dụ trong đa xơ cứng).SerotoninSerotonin (5-hydroxytryptamine, hay 5-HT) được tạo ra bởi nhân raphe và các tế bào thần kinh đường giữa của cầu não và thân não trên và được tổng hợp từ tryptophan. Nồng độ serotonin được kiểm soát bởi sự hấp thu của tryptophan, monoamine oxidase (MAO) bên trong tế bào thần kinh và sự giáng hóa serotonin. Cuối cùng, serotonin được bài tiết qua nước tiểu dưới dạng axit 5-hydroxyindoacetic hoặc 5-HIAA.Các thụ thể serotoninergic (5-HT) (với ít nhất 15 phân typ) được phân loại là 5-HT1 (với 4 nhóm), 5-HT2, và 5-HT3. Các chất chủ vận chọn lọc thụ thể serotonin (như sumatriptan) có thể làm mất triệu chứng đau nửa đầu. Thuốc ức chế tái hấp thu serotonin có chọn lọc (SSRI) cũng có thể được sử dụng để điều trị một số tình trạng sức khỏe tâm thần (ví dụ: trầm cảm, lo âu, rối loạn ám ảnh cưỡng chế, rối loạn căng thẳng sau chấn thương).AcetylcholineAcetylcholine là chất dẫn truyền thần kinh chính của nơron vận động vùng hành-tủy, các sợi thần kinh thực vật trước hạch, các sợi dây thần kinh cholinergic sau hạch (phó giao cảm) và nhiều tế bào thần kinh trong hệ thần kinh trung ương (CNS) (VD: hạch nền, vỏ não vận động). Thuốc được tổng hợp từ choline và acetyl coenzyme A bởi choline acetyltransferase, và tác dụng của thuốc nhanh chóng bị chấm dứt bởi acetylcholinesterase. Nồng độ Acetylcholine được điều chỉnh bởi choline acetyltransferase và do sự hấp thu cholin. Nồng độ của chất dẫn truyền thần kinh này giảm ở bệnh nhân bị bệnh Alzheimer.Các thụ thể cholinergic được phân loại là nicotinic N1 (trong tủy thượng thận và hạch thần kinh thực vật) hoặc N2 (trong cơ xương) hoặc muscarinic M1 cho tới M5 (phân bố rộng rãi trong CNS). M1 xuất hiện trong hệ thống thần kinh tự động, thể vân, vỏ não và vùng hải mã; M2 xuất hiện trong hệ thống thần kinh tự chủ, tim, cơ trơn của ruột, cơ trán và tiểu não.DopamineDopaminetương tác với các thụ thể của một số sợi thần kinh ngoại vi và nhiều tế bào thần kinh trung ương (ví dụ ở liềm đen, não giữa, khu vực mái bụng và vùng dưới đồi).Dopamineđược tổng hợp từ tyrosine axit amin. Sau khi giải phóng và tương tác với thụ thể,dopamineđược chủ động bơm trở lại (thu hồi) vào đầu mút tận cùng thần kinh. Nồng độdopaminetrong các mút tận cùng thần kinh được điều chỉnh bởi enzyme tyrosine hydroxylase và MAO (làm giáng hóadopamine).Các thụ thể dopaminergic được phân loại là D1 đến D5. Thụ thể D3 và D4 đóng một vai trò trong kiểm soát tư duy (hạn chế các triệu chứng âm tính của tâm thần phân liệt); kích hoạt thụ thể D2 kiểm soát các hệ thống ngoại tháp. Tuy nhiên, ái lực đối với thụ thể không tương ứng với khả năng đáp ứng (tác dụng). Ví dụ ropinirole thuốc có ái lực cao đối với thụ thể D3 nhưng có tác dụng thông qua việc kích hoạt thụ thể D2.NorepinephrineNorepinephrinelà chất dẫn truyền thần kinh của hầu hết các sợi giao cảm sau hạch và nhiều tế bào thần kinh trung ương (ví dụ: ở nhân xanh và vùng dưới đồi). Tiền chất tyroxin được chuyển thànhdopamine, chất này được hydroxyl hóa bởidopaminebeta-hydroxylase thànhnorepinephrine. Sau khi giải phóng và tương tác với thụ thể, một sốnorepinephrinebị giáng hóa bởi catecholO-methyltransferase (COMT) và phần còn lại được tích cực đưa trở lại đầu cuối thần kinh, nơi nó bị phân hủy bởi MAO. Nồng độnorepinephrinetrong tế bào thần kinh được điều hòa bởi tyrosine hydroxylase,dopaminebeta-hydroxylase và MAO.Các thụ thể adrenergic được phân loại là alpha-1 (sau synap trong hệ thống giao cảm), alpha-2 (trước synap trong hệ thống giao cảm và sau synap trong não), beta-1 (trong tim) hoặc beta-2 (trong cấu trúc có phân bố thần kinh giao cảm khác).Endorphins và enkephalinsEndorphins và enkephalins là opioid.Endorphinslà các chuỗi polypeptide lớn kích hoạt nhiều tế bào thần kinh trung ương (ví dụ: ở vùng dưới đồi, hạnh nhân, đồi thị và nhân xanh). Thân tế bào chứa một polypeptide lớn được gọi là pro-opiomelanocortin, tiền thân của α-, beta - và γ-endorphin. Pro-opiomelanocortin này được vận chuyển xuống sợi trục và cắt thành các mảnh; một trong số đó là beta-endorphin, chứa trong các nơron phóng chiếu tới vùng chất xám quanh kênh, cấu trúc hệ viền và các nơron có chứa catecholamine chính trong não. Sau khi giải phóng và tương tác với các thụ thể, beta-endorphin được thủy phân bởi peptidases.Enkephalinbao gồm met-enkephalin là các polypeptide nhỏ có trong nhiều nơron trung ương (ví dụ như trong cầu nhạt, đồi thị, nhân đuôi và chất xám trung tâm). Tiền thân của các chất này là proenkephalin, được hình thành trong thân tế bào, sau đó phân chia bởi các peptidase đặc hiệu thành các peptide có hoạt tính. Những chất này cũng nằm trong tủy sống, nơi chúng điều chỉnh tín hiệu đau.Các chất dẫn truyền thần kinh của tín hiệu đau ở sừng sau của tủy sống là glutamate và chất P. Enkephalins giảm lượng dẫn truyền thần kinh được giải phóng và làm tăng khử cực (làm cho điện thế màng âm nhiều hơn) màng sau synap, làm thùy sau rãnh trung tâm giảm tạo điện thế hoạt động và giảm nhận cảm đau. Sau khi giải phóng, enkephalin bị thủy phân thành các peptide và axit amin nhỏ hơn, không hoạt động. Sự bất hoạt nhanh chóng enkephalins ngoại sinh ngăn cản tác dụng có lợi trên lâm sàng của các chất này. Các phân tử ổn định hơn (vdmorphine) được dùng làm thuốc giảm đau thay thế.Các thụ thể endorphin-enkephalin (opioid) được phân loại là mu-1 và mu-2 (ảnh hưởng đến sự tích hợp cảm giác và giảm đau), delta-1 và delta-2 (ảnh hưởng đến sự tích hợp vận động, chức năng nhận thức, và giảm đau) và kappa-1, kappa-2, kappa-3 (ảnh hưởng điều chỉnh cân bằng nước, giảm đau và ăn uống). Dữ liệu mới cho thấy có sự hiện diện của nhiều phân tử thụ thể có ý nghĩa dược lý hơn.Các chất dẫn truyền thần kinh khácDynorphins là nhóm gồm 7 peptide với trình tự axit amin tương tự. Giống enkephalins, chúng là các opioid.Chất peptide P điều chỉnh phản ứng thần kinh với đau và tâm trạng và xuất hiện ở các tế bào thần kinh trung ương (ở nhân trung gian, chất đen, hạch nền, hành tủy và vùng dưới đồi). Nó cũng tập trung nhiều ở hạch rễ lưng. Chất này được giải phóng bởi những kích thích đau cường độ mạnh. Chất P cũng điều chỉnh cảm giác buồn nôn và nôn thông qua việc kích hoạt các thụ thể NK1A nằm ở thân não.Nitric oxide (NO), một loại khí không ổn định tham gia vào nhiều quá trình thần kinh, được tạo ra từargininebởi NO synthetase. Trong các tế bào thần kinh có NO synthetase hoạt động, các chất dẫn truyền thần kinh làm tăng Calci nội bào++ (ví dụ chất P, glutamate, acetylcholine) sẽ kích thích tổng hợp NO. NO có thể là một chất truyền tin nội bào và được cho là có tác dụng điều chỉnh một số phản ứng trước và sau synap bằng cách khuếch tán từ tế bào này sang tế bào khác. Nó có thể làm tăng độc tính thần kinh của glutamate (qua thụ thể NMDA) (ví dụ: trong bệnh Parkinson, đột quỵ hoặc bệnh Alzheimer). NO ảnh hưởng đến các chất dẫn truyền thần kinh khác (ví dụ: GABA và acetylcholine) bằng cách thay đổi dòng canxi vào tế bào để tăng giải phóng các chất dẫn truyền thần kinh khác.Các chất dẫn truyền thần kinh dạng khí bổ sung bao gồm carbon monoxide (CO) và hydrogen sulfide (H2S). Các chất dẫn truyền này được tạo ra trong các tế bào ở khắp cơ thể (bao gồm cả não). CO nội sinh được tạo ra từ quá trình chuyển hóa heme và có thể tham gia vào các quá trình liên quan đến tạo sốt, viêm, sự tồn tại của tế bào và kiểm soát sự giãn nở của mạch máu. Một số enzym tham gia vào quá trình sản sinh ra H2S, được cho là cần thiết để não bộ hình thành và lưu giữ ký ức.Các chất có ít vai trò trong dẫn truyền thần kinh bao gồm histamin,vasopressin, vasoactive peptide đường ruột, carnosin, bradykinin, cholecystokinin, bombesin, somatostatin, yếu tố phóng thíchcorticotropin, neurotensin và có thể cảadenosine.Endocannabinoid là các chất dẫn truyền thần kinh dựa trên lipid nội sinh điều chỉnh chức năng của não, nội tiết và hệ miễn dịch.
+
+--- 2. Bệnh lý liên quan đến các khiếm khuyết trong dẫn truyền thần kinh ---
+
+Bệnh lý hoặc các chất làm thay đổi sự sản sinh, giải phóng, tiếp nhận, giáng hóa hoặc tái hấp thu các chất dẫn truyền thần kinh hoặc làm thay đổi số lượng và ái lực của thụ thể đều có thể gây ra các triệu chứng thần kinh hoặc tâm thần và gây bệnh (xem bảngVí dụ về Rối loạn liên quan đến khiếm khuyết trong dẫn truyền thần kinh). Các loại thuốc làm thay đổi quá trình dẫn truyền thần kinh có thể làm giảm nhiều rối loạn này (ví dụ: bệnh Parkinson, trầm cảm).BảngCác ví dụ về bệnh lý liên quan đến các khiếm khuyết trong truyền dẫn thần kinhBảngCác ví dụ về bệnh lý liên quan đến các khiếm khuyết trong truyền dẫn thần kinhCác ví dụ về bệnh lý liên quan đến các khiếm khuyết trong truyền dẫn thần kinhRối loạnSinh lý bệnhĐiều trịSự mất cân bằng chất dẫn truyền thần kinhBệnh AlzheimerLắng đọng beta amyloid ở ngoại bào, nội bào đám rối thần kinh, các mảng lão hóa, nhất là hệ viền (ví dụ hải mã), trong khu vực liên kết của vỏ não và trong các nơron tổng hợp, sử dụng acetylcholine (ví dụ nhân Meynert vùng nền và các đường kết nối của nó tới vỏ não)Chất ức chế cholinesterase (donepezil, rivastigmine, galantamine) làm trì hoãn sự giáng hoá ở synap của acetylcholine và do đó cải thiện một chút chức năng nhận thức và trí nhớ.Memantine, chất đối kháng thụ thể NMDA, có thể làm chậm sự tiến triển của bệnh và tăng khả năng tự chủ.Các phương pháp điều trị trong tương lai có thể liên quan đến các loại thuốc làm tăng nồng độ H2S trong não và do đó cải thiện trí nhớ ngắn hạn hoặc ảnh hưởng đến nồng độ NO trong não và do đó cải thiện trí nhớ dài hạn.Lo lắngGABA có thể giảm hoạt tính, do sự mất cân bằng của các chất ức chế, các chất kích thích thụ thể GABA nội sinh hoặc cả haiCũng có thể liên quan đến sự mất cân bằng trong phản ứngnorepinephrinevà 5-HTBenzodiazepine tăng khả năng mở các kênh Chloride − được điều chỉnh bởi GABA thông qua kích hoạt thụ thể GABA-A.SSRI là những loại thuốc được lựa chọn để điều trị lâu dài vì có thể tiến triển tình trạng lệ thuộc benzodiazepine.Tự kỷCó thể tăng serotonin máu, xảy ra ở 30-50% người tự kỷ, không có bằng chứng về các bất thường 5-HT trung ương.SSRI và risperidone có thể có tác dụng.Tổn thương nãoTổn thương (ví dụ chấn thương, thiếu oxy, co giật kéo dài) kích thích sự phóng thích quá mức các chất dẫn truyền thần kinh có tính kích thích (ví dụ glutamate) và tích tụ ion canxi trong tế bào, góp phần làm chết thần kinhTrong các mô hình thực nghiệm về thiếu máu và chấn thương, các thuốc chẹn kênh canxi, glycine và chất đối kháng thụ thể NMDA cũ (ví dụ dextromethorphan, ketamine) có thể làm giảm mức độ chết tế bào thần kinh, nhưng các thuốc này không hiệu quả ở người.Trầm cảmCác bất thường phức tạp trong sự dẫn truyền của hệ cholinergic, catecholaminergic (noradrenergic, dopaminergic) và serotonergic (5-HT)Có thể có sự tham gia của các hormone và neuropeptides khác (ví dụ: chất P,dopamine, acetylcholine, GABA)Thuốc chống trầm cảm làm giảm thụ thể gián tiếp hoặc trực tiếp bằng cách ức chế sự tái hấp thu 5-HT (như với SSRI) vànorepinephrinehoặcdopaminehoặc bằng cách chặn MAO.Ngăn chặn 5-HT2A/2C (một loại receptor 5-HT rất phong phú ở vùng trước trán) có thể làm tăng hiệu quả của SSRI (ví dụ trazodone).Các bệnh lý co giậtCác cơn động kinh do sự phóng điện đột ngột tần số cao đồng bộ của các nhóm tế bào thần kinh khu trú tại một số vùng não nhất định, có thể do tăng hoạt động của glutamate hoặc giảm hoạt tính của GABAPhenytoin, lamotrigine, carbamazepine, valproate, topiramate, và một số thuốc chống co giật khác (ví dụ, zonisamide, oxcarbazepine) làm ổn định các kênh Na phụ thuộc điện áp.Ethosuximide và gabapentin làm giảm một số dòng canxi nhất định.Phenytoin cũng làm giảm sự giải phóng quá mức chất dẫn truyền thần kinh.Lamotrigine có thể làm giảm lượng glutamate và aspartate.Phenobarbital và benzodiazepine tăng cường hoạt hóa GABA bằng cách tác dụng đến phức hợp kênh thụ thể clorua GABA-A.Tiagabine ngăn chặn sự hấp thu GABA của tế bào thần kinh đệm.Valproate làm tăng nồng độ GABA.Topiramate làm tăng hoạt tính của GABA.Bệnh Huntington(chorea)Tổn thương thần kinh nặng ở vỏ não và thể vân do sự lan tỏa polyglutamine (được mã hoá bởi CAG lặp lại), được tạo bởi một gen bất thường trên nhiễm sắc thể số 4 (gen dị thường sản xuất quá nhiều protein huntingtin, chất này có thể kết hợp với các phân tử gây kích thích tế bào quá mức bằng các amino acid dẫn truyền thần kinh có tính hoạt hóa như glutamate)Hiện không có điều trị đặc hiệu, nhưng các thuốc chẹn thụ thể NMDA có thể ngăn chặn tác dụng gây độc của glutamate dư thừa.Thuốc tác dụng giống GABA không có hiệu quả.Hưng cảmTăng hoạt tính củanorepinephrinevàdopamine, giảm nồng độ 5-HT và dẫn truyền thần kinh glutamate bất thườngLithium thường là sự lựa chọn đầu tiên. Chất này làm giảm giải phóngnorepinephrinevà tăng tổng hợp 5-HT.Valproate và Lamotrigine có lợi, có thể bằng cách bình thường hóa sự truyền glutamate.Topiramate ngăn chặn các kênh Na phụ thuộc điện áp, các augments GABA hoạt động ở một số phân typ của GABAA thụ thể, antagonizes các subtype AMPA/kainate của thụ glutamate, và ức chế enzym anhydrase carbonic, đặc biệt là isozym II và IV.Gabapentin được cho là gắn kết với αlpha-2/delta tiểu đơn vị (1 và 2) của kênh canxi phụ thuộc điện thế vào CNS.Carbamazepine và oxcarbazepine ổn định điện áp phụ thuộc kênh Na.Hội chứng ác tính do thuốc an thầnChặn thụ thểdopamine(D2) bằng thuốc (ví dụ thuốc chống loạn thần, methylphenidate) hoặc đột ngột ngừng chất chủ vận dopaminergic, dẫn đến cứng cơ, sốt, thay đổi trạng thái tinh thần và không ổn định về thần kinh thực vậtĐiều trị bằng chất chủ vận D2 (ví dụ, bromocriptine) làm đảo ngược sự truyền dẫn thần kinh.Các thuốc khác cũng được sử dụng khi cần thiết (ví dụ như dantrolene, một chất chẹn thụ thể cơ trực tiếp, được sử dụng để ngăn ngừa co cơ).ĐauTổn thương mô, gây giải phóng chất P và glutamate ở sừng sau của tủy sống và giải phóng các đại phân tử khác làm trung gian truyền tín hiệu đau, chẳng hạn như CGRP (có thể làm giãn mạch máu sọ và dẫn đến đau nửa đầu) và neurokinin A và bradykinin (khu trú chủ yếu ở lớp II và IV của tủy sống)Điều chỉnh thêm các tín hiệu này bằng endorphin (trong tủy sống) và bằng 5-HT vànorepinephrine(trong các con đường đi xuống bắt nguồn từ não)NSAID ức chế tổng hợp prostaglandin một cách có chọn lọc (với chất ức chế COX-2 như celecoxib, parecoxib) hoặc không chọn lọc (với chất ức chế COX-1 và -2 như ibuprofen, naproxen) và giảm sự hình thành xung thần kinh gây đau.Thuốc giảm đau opioid (ví dụ morphine) kích hoạt các thụ thể endorphin-enkephalin (mu, delta, và κappa) làm giảm sự dẫn truyền xung cảm giác đau.Phương pháp điều trị mới có thể chẹn các thụ thể CGRP có thể điều trị cơn đau trong hệ thần kinh. Những phương pháp điều trị này làm thay đổi tín hiệu CGRP và do đó làm giảm đau khi chứng đau nửa đầu; các phương pháp điều trị đó có thể được xem xét để điều trị đau mặt, bệnh thần kinh do tiểu đường và đau sau khi điều trị ung thư.Hội chứng ParkinsonỨc chế hệ thống dopaminergic do các thuốc chống loạn thần gây chẹn các thụ thể dopaminergicThuốc kháng cholinergic làm giảm hoạt tính cholinergic và khôi phục sự cân bằng giữa các hệ thống cholinergic và dopaminergic.Bệnh ParkinsonMất tế bào thần kinh dopaminergic của phần đặc liềm đen và các vùng khác, với nồng độdopaminevà metenkephalin giảm, làm thay đổi cân bằngdopamine/acetylcholine và dẫn đến sự hoạt động quá mức của acetylcholine ở thể vânLevdopa đến khe synap, được hấp thu bởi sợi trục thông qua các tế bào thần kinh nigral trước synap, và được khử carboxyl thànhdopamine. Chất này được bài tiết vào khe synap để hoạt hóa các thụ thểdopaminecủa tua gai. Amantadine làm tăng giải phóngdopaminetrước synap; các chất chủ vậndopaminekích thích các thụ thểdopamine, mặc dù bromocriptine, pramipexole và ropinirole chỉ gắn với các nhóm thụ thểdopamineD2, D3, và D4.Thuốc kháng cholinergic làm giảm hoạt tính của hệ cholinergic, phục hồi sự cân bằng củadopaminevà acetylcholine.Thuốc ức chế MAO-B ngăn ngừa tái hấp thu dopamine, tăng nồng độ của nó. Selegiline, chất ức chế MAO-B, ngăn chặn giáng hóa dopamine và do đó kéo dài đáp ứng với levodopa và cho phép giảm liều carbidopa/levodopa.CatecholO-metyltransferase (COMT) cũng ức chế giáng hóadopamine.Tâm thần phân liệtTăng giải phóng, tổng hợpdopaminetrước synap, tăng độ nhạy, mật độ thụ thểdopaminesau synap hoặc phối hợp nhiều cơ chếThuốc chống loạn thần chẹn các thụ thểdopaminevà làm giảm sự hoạt động quá mức của hệ dopaminergic về mức bình thường.Haloperidol chẹn ưu tiên thụ thể D2 và D3 (ái lực cao) và thụ thể D4 (ái lực thấp) trong các khu vực vỏ não giữa.Clozapine có ái lực cao đối với khả năng gắn với thụ thể D4 và 5-HT2, gợi ý hệ thống 5-HT tham gia vào quá trình sinh bệnh học của tâm thần phân liệt và khả năng đáp ứng của nó đối với điều trị. Clozapine có nguy cơ cao gây giảm bạch cầu.Olanzapine và risperidone, tương tự như haloperidol, cũng có ái lực cao đối với 5-HT2 và thụ thể D2.Rối loạn vận động muộnCác thụ thểdopaminetăng nhạy cảm do bị chẹn kéo dài bởi thuốc chống loạn thầnGiảm liều thuốc chống loạn thần có thể làm giảm sự quá mẫn của thụ thểdopamine; tuy nhiên, trong một số trường hợp, những thay đổi có thể không thể đảo ngược.Các chất dẫn truyền thần kinh bình thường bị hệ thống miễn dịch ngăn chặn hoặc phá hủyNhược cơPhản ánh sự bất hoạt của các thụ thể acetylcholine và các thay đổi hóa mô sau synap tại các synap thần kinh cơ do phản ứng tự miễnThuốc kháng cholinesterase ức chế acetylcholinesterase, làm tăng nồng độ acetylcholine ở các synap thần kinh cơ, và kích thích thụ thể còn lại, làm tăng hoạt động của cơ.Giảm sự hấp thu của các chất dẫn truyền thần kinh vào các nơ ronXơ cứng cột bên teo cơMột phần bởi độc tính thần kinh của glutamate gây ra sự hủy hoại nơron thần kinh vận động trên và dướiRiluzole ức chế sự dẫn truyền glutamate, kéo dài một chút thời gian sống thêm.Các chất dẫn truyền thần kinh bình thường nhưng khiếm khuyết các kênh ion.Thất điềuchu kỳKênh K phụ thuộc điện thế bị lỗi, gây ra các xung gợn sóng và mất điều phối ở xa (giật bó cơ)Điều trị với acetazolamide có hiệu quả trong một số thể thất điều chu kỳ.Liệt chu kỳ tăng kali máuGiảm sự bất hoạt kênh NaMột số đợt bệnh nặng có thể điều trị bằng Ca gluconate, glucose và insulin.Liệt chu kỳ hạ kali máuKênh Ca phụ thuộc điện thế bị khiếm khuyếtCác đợt bệnh cấp tính có thể được điều trị bằng muối K.Acetazolamide có hiệu quả phòng ngừa.Hội chứng Lambert-Eaton*Các kháng thể làm giảm sự giải phóng acetylcholin trước synapCorticosteroid, 3,4-diaminopyridin (DAP), guanidin, IVIG và có thể xem xét chỉ định lọc huyết tương.Rối loạn trương lực cơ bẩm sinhCác kênh Na phụ thuộc điện thế bị khiếm khuyết, gây ra loạn trương lực cơ do lạnh và liệt chu kỳMexiletine (chất chẹn kênh Na) và acetazolamide (một chất ức chế anhydrase carbonic) có thể có tác dụng.Viêm não RasmussenSau khi nhiễm virus cơ thể sản xuất các kháng thể đối kháng với thụ thể glutamate, ảnh hưởng đến các kênh có cổng gutamate.Thể động kinh cục bộ liên tục khác biệt nhấtCorticosteroid và thuốc kháng virus thường không hiệu quả.Nếu không có sự tự thuyên giảm cần xem xét chỉ định cắt bán cầu chức năng để có thể kiểm soát cơn động kinh.Giật mình bệnh lý (hyperexplexia, hội chứng người cứng)Đột biến trong gen của tiểu đơn vị alpha-1 của kênh có cổngglycineĐặc trưng bởi cứng người, giật cơ ban đêm và phản xạ giật mình quá mức, tăng phản xạ và ngãClonazepam or certain other antiseizure drugs (eg, phenytoin, phenobarbital, diazepam, valproate) may result in improvement.Ngộ độcBệnh ngộ độcỨc chế giải phóng acetylcholine từ nơron vận động bởi độc tố từClostridium botulinumHiện không có thuốc điều trị đặc hiệu.Lượng rất nhỏ độc tố được sử dụng để điều trị một số bệnh loạn trương lực, co cứng, đau có nguồn gốc thần kinh, migraines hoặc thẩm mỹ để giảm nếp nhăn da.Ngộ độc nấmAmanita muscaria:Chứa axit ibotenic (có tác dụng tương tự glutamate) và một chất chuyển hóa tương tự như muscimol (có tác dụng tương tự như của GABA)InocybevàClitocybespp: Kích thích các thụ thể muscarinic bằng muscarin và các hợp chất có liên quanĐiều trị mang tính hỗ trợ bởi vì không có thuốc nào có thể đảo ngược lại các hiệu ứng trên sự dẫn truyền thần kinh.Atropine giúp điều trị các biểu hiện của muscarinic.Phốt phát hữu cơỨc chế acetylcholinesterase không thể đảo ngược và sự gia tăng rõ rệt nồng độ acetylcholine trong khe synapPralidoxime loại bỏ độc tố khỏi acetylcholinesterase và giúp hồi phục các biểu hiện của nicotinic cũng như muscarinic.Atropine giúp nhanh chóng đảo ngược các hiệu ứng muscarinic.Nọc độc của rắn từbungarus multicinctus(rắn cạp nong Đài Loan)Chẹn các thụ thể acetylcholine tại synap thần kinh cơ bằng độc tố alpha-BungarusCó thuốc kháng nọc độc hiệu quả.* Hội chứng Eaton-Lambert là một hội chứng cận ung thư qua trung gian kháng thể thường xuất hiện trong ung thư phổi tế bào nhỏ. Nó có thể xuất hiện trước khi khối u biểu hiện.CGRP =calcitoninpeptid liên quan đến gen; CRF=yếu tố giải phóngcorticotropin(ACTH); GABA=gamma-aminobutyric acid; H2S = hydro sunfua; 5-HT=serotonin; IVIG=globulin miễn dịch đường tĩnh mạch; MAO=monoamine oxidase; MAO-B=MAO loại B; NMDA=N-methyl-d-aspartate; NO = oxit nitric; NSAID=thuốc chống viêm không steroid; PIP2=phosphatidylinositol 4,5-bisphosphat; SSRI=thuốc ức chế tái hấp thu serotonin có chọn lọc.* Hội chứng Eaton-Lambert là một hội chứng cận ung thư qua trung gian kháng thể thường xuất hiện trong ung thư phổi tế bào nhỏ. Nó có thể xuất hiện trước khi khối u biểu hiện.CGRP =calcitoninpeptid liên quan đến gen; CRF=yếu tố giải phóngcorticotropin(ACTH); GABA=gamma-aminobutyric acid; H2S = hydro sunfua; 5-HT=serotonin; IVIG=globulin miễn dịch đường tĩnh mạch; MAO=monoamine oxidase; MAO-B=MAO loại B; NMDA=N-methyl-d-aspartate; NO = oxit nitric; NSAID=thuốc chống viêm không steroid; PIP2=phosphatidylinositol 4,5-bisphosphat; SSRI=thuốc ức chế tái hấp thu serotonin có chọn lọc.

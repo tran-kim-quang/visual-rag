@@ -1,0 +1,616 @@
+TIÊU ĐỀ: Hệ thống thang điểm trong chăm sóc tích cực
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/cách-tiếp-cận-điều-trị-bệnh-nhân-bị-bệnh-nặng/hệ-thống-thang-điểm-trong-chăm-sóc-tích-cực
+================================================================================
+
+NỘI DUNG:
+
+Hệ thống thang điểm trong chăm sóc tích cực
+
+Theo
+
+Cherisse Berry
+
+,
+
+MD
+
+,
+
+Rutgers Health, New Jersey Medical School
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 12 2022
+
+|
+
+đã sửa đổi
+
+Thg 10 2024
+
+v924699_vi
+
+Một số hệ thống thang điểm đã được phát triển để đánh giá mức độ nặng của tình trạng bệnh ở những bệnh nhân hồi sức. Những hệ thống thang điểm này có độ chính xác vừa phải trong việc dự đoán tỷ lệ sống sót của bệnh nhân. Tuy nhiên, các hệ thống thang điểm này có giá trị hơn khi được dùng để theo dõi chất lượng chăm sóc và để tiến hành các nghiên cứu vì chúng cho phép so sánh kết quả giữa các nhóm bệnh nhân nặng với mức độ nặng tương tự.
+
+Một trong những hệ thống thang điểm phổ biến nhất là phiên bản lần hai của thang điểm đánh giá sinh lý học cấp tính và đánh giá sức khỏe mạn tính II (APACHE II) được giới thiệu vào năm 1985. Điểm được tính từ 0 đến 71 dựa trên 12 biến số sinh lý, tuổi và sức khỏe ở trạng thái bình thường (xem bảng
+
+Hệ thống chấm điểm APACHE II
+
+). Hệ thống APACHE III được phát triển vào năm 1991, và hệ thống APACHE IV được phát triển vào năm 2006. Các hệ thống này phức tạp hơn với một số lượng lớn các biến sinh lý nhưng lại rườm rà hơn và ít được sử dụng hơn. Có rất nhiều hệ thống thang điểm khác, bao gồm bảng Điểm Sinh lý cấp tính Đơn giản thứ 2 (SAPS II), bảng điểm Mô hình Dự báo Tử vong (MPM) và
+
+bảng Điểm đánh giá suy cơ quan tuần tự (SOFA)
+
+.
+
+Máy tính lâm sàng trong hồi sức tích cực
+
+Công cụ tính toán lâm sàng
+
+Hệ thống bảng điểm APACHE II và ước tính tỷ lệ tử vong (bảng điểm Sinh lý cấp tính và Hệ thống Phân loại Bệnh mãn tính II)
+
+Công cụ tính toán lâm sàng
+
+Đánh giá suy chức năng cơ quan tiến triển (SOFA)
+
+Công cụ tính toán lâm sàng
+
+Bảng điểm Glasgow
+
+Công cụ tính toán lâm sàng
+
+Hệ thống bảng điểm APACHE II và ước tính tỷ lệ tử vong (bảng điểm Sinh lý cấp tính và Hệ thống Phân loại Bệnh mãn tính II)
+
+Công cụ tính toán lâm sàng
+
+Đánh giá suy chức năng cơ quan tiến triển (SOFA)
+
+Công cụ tính toán lâm sàng
+
+Bảng điểm Glasgow
+
+Bảng
+
+Hệ thống Bảng điểm Đánh giá sinh lý cấp tính và đánh giá sức khỏe mạn tính (APACHE) II*
+
+Bảng
+
+Hệ thống Bảng điểm Đánh giá sinh lý cấp tính và đánh giá sức khỏe mạn tính (APACHE) II*
+
+Hệ thống Bảng điểm Đánh giá sinh lý cấp tính và đánh giá sức khỏe mạn tính (APACHE) II*
+
+Biến sinh lý†
+
+Bảng điểm
+
++4
+
++3
+
++2
+
+1+
+
+0
+
+1+
+
++2
+
++3
+
++4
+
+1
+
+Nhiệt độ, trung tâm (
+
+°
+
+C)
+
+≥
+
+41
+
+°
+
+39–40,9°°
+
+°
+
+—
+
+38,5–38,9°°
+
+°
+
+36–38,4°°
+
+°
+
+34–35,9°°
+
+°
+
+32–33,9°°
+
+°
+
+30–31,9°°
+
+°
+
+≤
+
+29,9
+
+°
+
+2
+
+Áp lực động mạch trung bình (mm Hg)
+
+≥
+
+160
+
+130–159
+
+110–129
+
+—
+
+70–109
+
+—
+
+50–69
+
+—
+
+≤
+
+49
+
+3
+
+Nhịp tim
+
+≥
+
+180
+
+140–179
+
+110–139
+
+—
+
+70–109
+
+—
+
+55–69
+
+40–54
+
+≤
+
+39
+
+4
+
+Tần số thở (không thở máy hoặc khi thở máy)
+
+≥
+
+50
+
+35–49
+
+—
+
+25–34
+
+12–24
+
+10–11
+
+6–9
+
+—
+
+≤
+
+5
+
+5
+
+Oxy hoá: a) FIO2
+
+≥
+
+0,5: sử dụng A-aDO2
+
+≥
+
+500
+
+350–499
+
+200–349
+
+—
+
+<
+
+200
+
+—
+
+—
+
+—
+
+—
+
+b) FIO2
+
+<
+
+0,5: sử dụng PAO2 (mm Hg)
+
+—
+
+—
+
+—
+
+—
+
+>
+
+70
+
+61–70
+
+—
+
+55–60
+
+<
+
+55
+
+6
+
+PH động mạch
+
+≥
+
+7,7
+
+7,6–7,69
+
+—
+
+7,5–7,59
+
+7,33–7,49
+
+—
+
+7,25–7,32
+
+7,15–7,24
+
+<
+
+7,15
+
+7
+
+Natri huyết thanh (mmol/L hoặc mEq/L)
+
+≥
+
+180
+
+160–179
+
+155–159
+
+150–154
+
+130–149
+
+—
+
+120–129
+
+111–119
+
+≤
+
+110
+
+8
+
+Nồng độ K huyết thanh (mmol/L hoặc mEq/L)
+
+≥
+
+7
+
+6–6,9
+
+—
+
+5,5–5,9
+
+3,5–5,4
+
+3–3,4
+
+2,5–2,9
+
+—
+
+<
+
+2,5
+
+9
+
+Creatinine huyết thanh (micromol/L hoặc mg/dL); điểm nhân đôi khi suy thận
+
+cấp
+
+≥
+
+3,5
+
+2–3,4
+
+1,5–1,9
+
+—
+
+0,6–1,4
+
+—
+
+<
+
+0,6
+
+—
+
+—
+
+10
+
+Hematocrit (%)
+
+≥
+
+60
+
+—
+
+50–59,9
+
+46–49,9
+
+30–45,9
+
+—
+
+20–29,9
+
+—
+
+<
+
+20
+
+11
+
+Bạch cầu (tính theo 1000)
+
+≥
+
+40
+
+—
+
+20–39,9
+
+15–19,9
+
+3–14,9
+
+—
+
+1–2,9
+
+—
+
+<
+
+1
+
+12
+
+Điểm số hôn mê Glasgow (GCS)
+
+Điểm
+
+=
+
+15 trừ đi GCS thực tế (xem bảng
+
+Thang điểm hôn mê Glasgow
+
+)
+
+Điểm sinh lý cấp tính là tổng của 12 biến riêng biệt.
+
+Thêm 0 điểm cho độ tuổi
+
+<
+
+44; 2 điểm, 45-54 năm; 3 điểm, 55-64 năm; 5 điểm, 65-74 năm; 6 điểm
+
+≥
+
+75 năm.
+
+Thêm điểm trạng thái sức khỏe mạn tính: 2 điểm cho bệnh nhân sau mổ phiên trên bệnh nhân suy giảm miễn dịch hoặc tiền sử suy cơ quan; 5 điểm cho bệnh nhân không phẫu thuật hoặc hậu phẫu mổ cấp cứu trên bệnh nhân suy giảm miễn dịch hoặc suy cơ quan cấp tính.‡
+
+(13)§§
+
+Bicacbonat huyết thanh (tĩnh mạch-mmol/L)
+
+≥
+
+52
+
+41–51,9
+
+—
+
+32–40,9
+
+23–31,9
+
+—
+
+18–21,9
+
+15–17,9
+
+<
+
+15
+
+* Điểm số của APACHE II
+
+=
+
+điểm số sinh lý cấp tính
+
++
+
+điểm tuổi
+
++
+
+các điểm sức khỏe mạn tính. Điểm tối thiểu
+
+=
+
+0; Điểm tối đa
+
+=
+
+71. Tăng số điểm liên quan đến tăng nguy cơ tử vong nội viện.
+
+† Chọn giá trị xấu nhất trong 24 giờ qua.
+
+‡ Tình trạng sức khỏe mạn tính: Suy chức năng cơ quan(ví dụ như gan, tim mạch, thận, phổi) hoặc tình trạng suy giảm miễn dịch phải xuất hiện trước khi nhập viện.
+
+§ Biến này là tùy chọn; chỉ sử dụng nếu không có sẵn khí máu động mạch.
+
+A-a DO2
+
+=
+
+chênh lệch oxy hóa phế nang và động mạch; FIO2
+
+=
+
+phần trăm khí oxy thở vào.
+
+Phỏng theo Knaus WA, Draper EA, Wagner DP, Zimmerman JE: APACHE II: Mức độ nghiêm trọng bênh trong các hệ thống phân loại bệnh.
+
+Critical Care Medicine
+
+13:818–829, 1985.
+
+* Điểm số của APACHE II
+
+=
+
+điểm số sinh lý cấp tính
+
++
+
+điểm tuổi
+
++
+
+các điểm sức khỏe mạn tính. Điểm tối thiểu
+
+=
+
+0; Điểm tối đa
+
+=
+
+71. Tăng số điểm liên quan đến tăng nguy cơ tử vong nội viện.
+
+† Chọn giá trị xấu nhất trong 24 giờ qua.
+
+‡ Tình trạng sức khỏe mạn tính: Suy chức năng cơ quan(ví dụ như gan, tim mạch, thận, phổi) hoặc tình trạng suy giảm miễn dịch phải xuất hiện trước khi nhập viện.
+
+§ Biến này là tùy chọn; chỉ sử dụng nếu không có sẵn khí máu động mạch.
+
+A-a DO2
+
+=
+
+chênh lệch oxy hóa phế nang và động mạch; FIO2
+
+=
+
+phần trăm khí oxy thở vào.
+
+Phỏng theo Knaus WA, Draper EA, Wagner DP, Zimmerman JE: APACHE II: Mức độ nghiêm trọng bênh trong các hệ thống phân loại bệnh.
+
+Critical Care Medicine
+
+13:818–829, 1985.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

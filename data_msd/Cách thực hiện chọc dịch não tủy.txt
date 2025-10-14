@@ -1,0 +1,553 @@
+TIÊU ĐỀ: Cách thực hiện chọc dịch não tủy
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/cách-thực-hiện-chọc-dịch-não-tủy/cách-thực-hiện-chọc-dịch-não-tủy
+================================================================================
+
+NỘI DUNG:
+
+Cách thực hiện chọc dịch não tủy
+
+Theo
+
+Mark Freedman
+
+,
+
+MD, MSc
+
+,
+
+University of Ottawa
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 8 2024
+
+v53775244_vi
+
+Trong chọc dịch não tủy (LP), chọc kim vào khoang dưới nhện ở vùng thắt lưng lấy dịch não tủy (CSF) để làm xét nghiệm trong phòng thí nghiệm, đo áp lực dịch não tủy, và đôi khi là để cho dùng các chất chẩn đoán hoặc thuốc điều trị vào nội tủy.
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Các biến chứng
+
+|
+
+Thiết bị
+
+|
+
+Cân nhắc bổ sung
+
+|
+
+Giải phẫu liên quan
+
+|
+
+Tư thế
+
+|
+
+Mô tả các bước tiến hành thủ thuật.
+
+|
+
+Chăm sóc sau thủ thuật
+
+|
+
+Cảnh báo và các lỗi thường gặp
+
+|
+
+Thủ thuật và lời khuyên
+
+|
+
+Khi khó sờ thấy các điểm mốc (ví dụ: do béo phì), bác sĩ chuyên khoa X-quang có thể thực hiện chọc dịch não tủy bằng cách sử dụng hướng dẫn huỳnh quang. Siêu âm cũng có thể được sử dụng để xác định các điểm mốc và ít phổ biến hơn là dẫn hướng đặt kim theo thời gian thực nếu có sẵn thiết bị và nhân sự. Tuy nhiên, siêu âm vẫn chưa được sử dụng phổ biến ngoài các trung tâm giảng dạy.
+
+(Xem thêm
+
+Chọc dịch não tủy
+
+,
+
+Tổng quan về viêm màng não
+
+và
+
+xuất huyết dưới nhện
+
+.)
+
+Chỉ định của chọc dò thắt lưng
+
+Các chỉ định chẩn đoán*
+
+Nghi ngờ nhiễm trùng hệ thần kinh trung ương (CNS) (
+
+viêm màng não cấp tính do vi khuẩn
+
+, viêm màng não do virus,
+
+viêm não
+
+,
+
+viêm màng não bán cấp hoặc mạn tính
+
+)
+
+Các tình trạng viêm nghi ngờ ở hệ thần kinh trung ương, bao gồm bệnh
+
+đa xơ cứng
+
+(hoặc các tình trạng mất myelin khác ở hệ thần kinh trung ương như NMO hoặc MOGAD), viêm não tự miễn (ví dụ: viêm não chống NMDAR) và
+
+bệnh sarcoid
+
+Nghi ngờ
+
+xuất huyết dưới nhện
+
+tự phát không được chẩn đoán trên hình ảnh thần kinh hoặc nếu không có hình ảnh thần kinh ngay lập tức
+
+Nghi ngờ
+
+tăng áp lực nội sọ tự phát
+
+Nghi ngờ hạ áp lực nội sọ
+
+Các tình trạng bệnh lý khác ở hệ thần kinh trung ương, bao gồm
+
+hội chứng Guillain-Barré
+
+, di căn màng não mềm (viêm màng não do ung thư), bệnh não chuyển hóa di truyền
+
+Để cho dùng một chất cản quang phóng xạ trong chụp tủy
+
+* Quyết định trước những thông tin quý vị cần từ chọc dịch não tủy và những xét nghiệm quý vị cần yêu cầu. Xác nhận các yêu cầu đối với bất kỳ xét nghiệm bất thường nào với phòng thí nghiệm lâm sàng trước khi bắt đầu thủ thuật.
+
+Chỉ định điều trị
+
+Giảm áp lực nội sọ trong tăng huyết áp nội sọ tự phát
+
+Quản lý các loại thuốc nội tủy mạc (ví dụ: gây tê tủy sống hoặc gây tê ngoài màng cứng, hóa trị liệu nội tủy mạc)
+
+Chống chỉ định của chọc dò thắt lưng
+
+Chống chỉ định tuyệt đối
+
+Nghi ngờ nhiễm trùng (ví dụ: viêm mô bào, áp xe) ở hoặc gần vị trí kim tiêm: Nếu có thể, nên sử dụng một vị trí thay thế, không bị nhiễm trùng. Điều này liên quan đến phương pháp tiếp cận vùng dưới chẩm (bể lớn) hoặc cổ (C1-C2) và luôn được thực hiện dưới sự dẫn hướng của soi huỳnh quang.
+
+Chống chỉ định tương đối
+
+Nghi ngờ tăng áp lực nội sọ do khối nội sọ (ví dụ: khối u, áp xe não hoặc máu, đặc biệt là nếu ở khoang dưới lều) có thể thúc đẩy
+
+thoát vị
+
+* xuyên lều hoặc tiểu não sau khi chọc dịch não tủy. Nếu có những dấu hiệu gợi ý (ví dụ, thiếu sót thần kinh khu trú, tình trạng tâm thần thay đổi, phù gai thị,
+
+dấu hiệu thoát vị
+
+), hãy làm CT hoặc MRI trước khi chọc dịch não tủy. (Tuy nhiên, không phải lúc nào cũng có thể dự đoán nguy cơ thoát vị bằng CT hoặc MRI.)
+
+Bệnh đông máu
+
+(ví dụ: tỷ lệ bình thường hóa quốc tế [INR]
+
+>
+
+1,5, bao gồm chống đông bằng thuốc; giảm tiểu cầu [<50.000/mcL, 50 x 10
+
+9
+
+/L], tăng thời gian Thromboplastin riêng phần được kích hoạt một cách bệnh lý), có thể dẫn đến tụ máu cột sống do chọc dịch não tủy: Cân nhắc điều chỉnh trước khi làm thủ thuật.†
+
+Suy chức năng tim phổi hoặc suy hô hấp, có thể trầm trọng hơn vì nằm nghiêng khi chọc dịch não tủy
+
+Bất thường giải phẫu tại vị trí chọc kim (ví dụ: hợp nhất cột sống, thủ thuật cắt bỏ cung sau, dị tật bẩm sinh)
+
+Vãng khuẩn huyết không được chứng minh là dẫn đến viêm màng não sau khi chọc dịch não tủy và do đó không phải là chống chỉ định.
+
+* Khi chọc dịch não tủy bị trì hoãn, bắt đầu điều trị ngay nghi ngờ
+
+viêm màng não cấp do vi khuẩn
+
+hoặc
+
+xuất huyết dưới nhện
+
+. Đối với viêm màng não, cũng làm cấy máu ngay lập tức.
+
+† Điều trị thuốc chống đông (ví dụ, tắc mạch phổi) làm tăng nguy cơ chảy máu với chọc dịch não tủy, nhưng điều này phải được cân bằng để chống lại nguy cơ huyết khối đột quỵ) nếu thuốc chống đông được đảo ngược. Nếu thời gian cho phép, hãy thảo luận về bất kỳ sự đảo ngược theo dự tính nào với bác sĩ lâm sàng đang quản lý thuốc kháng đông của bệnh nhân.
+
+Biến chứng của chọc dịch não tủy
+
+Đau đầu sau chọc dịch não tủy
+
+Chảy máu vào khoang ngoài màng cứng (khối máu tụ tủy sống)
+
+Cảm giác khó chịu ở thắt lưng hoặc đau có thể lan ra phần sau chân (tự khỏi)
+
+Khối u biểu bì, xảy ra nhiều năm sau khi chọc dịch não tủy; nguy cơ sẽ tăng lên nếu kim cột sống được đưa vào hoặc rút ra mà không có ống thông (rất hiếm gặp)
+
+Thoát vị não (hiếm gặp)
+
+Mù vỏ não (hiếm gặp)
+
+Nhồi máu tủy sống cổ (hiếm gặp)
+
+Điếc thoáng qua hoặc vĩnh viễn (hiếm gặp)
+
+Nhiễm bệnh do thầy thuốc gây ra (hiếm gặp)
+
+Buồn nôn và/hoặc ù tai thoáng qua
+
+Hạ huyết áp nội sọ do rò dịch não tủy (hiếm gặp)
+
+Liệt dây thần kinh sọ VI
+
+(hiếm gặp)
+
+Nhức đầu phát triển sau khi chọc dịch não tủy ở khoảng 10% số bệnh nhân, thường là vài giờ đến một hoặc hai ngày sau đó, và có thể nặng. Các bệnh nhân trẻ tuổi có khối lượng cơ thể nhỏ có nguy cơ cao nhất. Sử dụng kim hẹp hơn, cắt (đầu vát) hoặc kim không cắt (đầu bút chì) làm giảm nguy cơ. Lượng dịch não tủy được lấy ra cũng như thời gian nằm ngửa sau khi chọc dịch não tủy đều không ảnh hưởng đến tỷ lệ mắc bệnh.
+
+Thiết bị dùng trong chọc dịch não tủy
+
+Ở nhiều trung tâm có các bộ dụng cụ chọc dịch não tủy được đóng gói sẵn. Nếu không, các thiết bị cần thiết bao gồm:
+
+Găng tay, áo choàng, mặt nạ, mũ vô trùng
+
+Săng mổ vô trùng và/hoặc khăn vô trùng
+
+Dung dịch khử trùng (ví dụ, chlorhexidine, povidone iodine, khăn lau có cồn)
+
+Gạc vô trùng (ví dụ: hình vuông 10 cm × 10 cm [4" × 4"])
+
+Gây tê cục bộ (ví dụ: lidocain 1% hoặc 2% không có epinephrine, kim 25 gauge và 20 gauge, ống tiêm 10 mL)
+
+Thuốc gây tê tại chỗ (tiêu chuẩn cho trẻ em): Dụng cụ phun khí lidocain không cần kim, gel lidocain-epinephrin-tetracaine (LET) hoặc kem lidocain-prilocaine
+
+Kim cột sống có que thông nòng: Kim cắt (đầu vát) hoặc kim không cắt (không gây chấn thương)* (đầu bút chì); cỡ 20 hoặc 22*; dài 9 cm cho người lớn, 6 cm cho trẻ em, 4 cm cho trẻ sơ sinh
+
+4 ống thu thập dịch não tủy (được dán nhãn từ 1 đến 4) cho các nghiên cứu trong phòng thí nghiệm; các ống bổ sung nếu cần thu thập dịch não tủy với khối lượng lớn (ví dụ: 30 đến 40 mL) hoặc cần các xét nghiệm đặc biệt bổ sung. Có thể cần thu thập khối lượng lớn từ 30 mL đến 40 mL dịch não tủy khi nghi ngờ
+
+viêm màng não mạn tính
+
+(ví dụ: viêm màng não do
+
+lao
+
+hoặc
+
+viêm màng não do nấm
+
+) hoặc viêm màng não do ung thư. Các ống bổ sung (đủ để chứa từ 30 đến 40 mL dịch não tủy) cũng có thể cần thiết nếu một LP dung tích cao được lên kế hoạch để chẩn đoán não úng thủy áp lực bình thường.
+
+Áp kế và khóa vòi; tùy chọn, ống mở rộng ngắn
+
+Băng dính
+
+* Sử dụng kim không cắt (đầu bút chì), kim cắt (đầu vát) và kim có cỡ nòng nhỏ hơn (tức là 22 thước) giúp giảm nguy cơ đau đầu sau chọc dịch não tủy.
+
+Để được dẫn hướng siêu âm:
+
+Thiết bị siêu âm tại giường có đầu dò mảng tuyến tính tần số cao
+
+Cân nhắc bổ sung về chọc dịch não tủy
+
+Nếu cần, lấy máu làm đường huyết để so sánh với đường dịch não tủy; máu cho các dải ít clon có thể được thu thập cùng một lúc.
+
+Có thể cần an thần trong thời gian ngắn (ví dụ, với propofol hoặc fentanyl và/hoặc midazolam) cho trẻ em và người lớn có lo lắng.
+
+Mặc dù dẫn hướng bằng siêu âm có thể làm tăng tỷ lệ thành công và giảm tỷ lệ biến chứng trong một số môi trường nhất định (
+
+1
+
+), nhưng việc sử dụng siêu âm thường xuyên trong cấp cứu nội khoa để định vị các mốc giải phẫu chưa được chứng minh là có những lợi ích này (
+
+2
+
+).
+
+Tài liệu tham khảo
+
+1.
+
+Soni NJ, Franco-Sadud R, Schnobrich D, et al
+
+: Ultrasound guidance for lumbar puncture.
+
+Neurol Clin Practice
+
+6(4):358-368, 2016 doi: 10.1212/CPJ.0000000000000265
+
+2.
+
+Peterson MA, Pisupati D, Heyming TW, et al
+
+: Ultrasound for routine lumbar puncture.
+
+Acad Emerg Med
+
+21(2):130-136, 2014 doi: 10.1111/acem.12305
+
+Giải phẫu liên quan trong chọc dịch não tủy
+
+Điểm chọc kim mong muốn là khoảng trống giữa L3-L4 hoặc L4-L5; do đó, kim được cắm vào dưới mức của tủy sống.
+
+Mỏm gai đốt sống L4 nằm dọc theo một đường tưởng tượng giữa đỉnh của mào chậu sau trên.
+
+Bởi vì tủy sống kết thúc ở khoảng T12-L1, chọc dịch não tủy về mặt lý thuyết có thể được thực hiện ở mức L2 mà không có nguy cơ tổn thương tủy sống.
+
+Trong phương pháp
+
+chọc kim vào đường giữa
+
+(cách tiếp cận phổ biến nhất), đầu tiên kim cột sống đi qua các dây chằng trên mỏm gai và dây chằng gian gai giữa mỏm gai đốt sống, trước khi đến dây chằng vòng.
+
+Một đường chọc kim ở bên cạnh (ví dụ, 1 cm ở cả phần bên cạnh và về phía đuôi đến điểm chèn da đường giữa) bỏ qua các dây chằng đường giữa và có thể tạo điều kiện thuận lợi cho việc chọc dịch não tủy ở những bệnh nhân cao tuổi có dây chằng bị vôi hóa và xơ cứng.
+
+Dây chằng vòng là mô liên kết dày, và có thể có tiếng pốp rõ ràng (hoặc không) khi kim đi qua nó.
+
+Sau đó, kim đi qua khoang ngoài màng cứng (mô mỡ và đám rối tĩnh mạch đốt sống bên trong) và sau đó có thể sờ thấy tiếng pốp - một lần nữa - qua màng cứng (và đồng thời xuyên qua màng dưới nhện lân cận) để vào khoang dưới nhện (khoang dịch não tủy). Lưu ý rằng trong nhiều trường hợp, không thể thấy có tiếng "pốp" nào.
+
+Ở trẻ em hoặc trẻ sơ sinh, những mô xơ có ít khả năng cản trở được đâm xuyên, có thể không sờ thấy tiếng pốp do kim đi qua dây chằng vòng và màng cứng.
+
+Tạo tư thế trong chọc dịch não tủy
+
+Mục đích là gập cột sống thắt lưng để mở rộng các khoang gian đốt sống. Bệnh nhân có thể nằm ở tư thế nghiêng về một bên hoặc có thể ở tư thế ngồi. Tư thế nằm nghiêng sang một bên thường được ưu tiên và nên được sử dụng nếu muốn đo áp lực dịch não tủy. Tư thế ngồi có thể hữu ích cho những bệnh nhân khó sờ thấy các mốc vật lý ở tư thế nằm (ví dụ: những người bị béo phì); đó là tư thế ưu tiên cho trẻ sơ sinh.
+
+Tư thế nằm nghiêng sang một bên:
+
+Bệnh nhân nằm nghiêng theo tư thế bào thai, hông gập hết mức có thể chịu được. Đảm bảo xương chậu, lưng và vai vuông góc với giường. Đặt một chiếc gối dưới đầu để căn chỉnh đầu với cột sống và giữa hai đầu gối để tạo cảm giác thoải mái nếu cần. Người trợ lý có thể giúp bệnh nhân cuộn tròn càng nhiều càng tốt. Trước khi bắt đầu, hãy tạo một tư thế thoải mái gần với bệnh nhân.
+
+Tư thế ngồi:
+
+Bệnh nhân ngồi ở mép giường, đặt chân lên ghế đẩu hoặc ghế để gập hông, và nghiêng người về phía trước, đầu và vai đặt trên bàn cạnh giường.
+
+Đối với trẻ sơ sinh, một người trợ lý giữ tay và chân từ phía trước, giữ trẻ ở tư thế thai nhi ngồi trên giường. Đầu cũng được đỡ để tránh ngạt thở do gập cổ.
+
+Tạo tư thế chọc dịch não tủy (trẻ sơ sinh)
+
+Hình ảnh
+
+MION/PHANIE/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+Mô tả từng bước về chọc dịch não tủy
+
+Xác định và chuẩn bị vị trí chọc
+
+Để bệnh nhân ở tư thế thích hợp, sử dụng dụng cụ hỗ trợ nếu cần.
+
+Xác định vị trí đâm kim trên lâm sàng: Sờ nắn các mỏm gai đốt sống thắt lưng để xác định mỏm nào gần nhất với đường tưởng tượng giữa đỉnh của mào chậu sau trên; mỏm gai đốt sống gần nhất thường là L4 (đôi khi L3 ở phụ nữ). Điểm chọc kim là chỗ lõm nằm ngay phía đuôi của mỏm gai đốt sống (tức là, trong khoảng trống giữa L3-L4 đối với mỏm gai đốt sống L4). Đánh dấu vị trí bằng bút đánh dấu da. Mặc dù khoảng giữa L3-L4 là vị trí chọc kim thông thường, nhưng khoảng giữa L4-L5 hoặc L2-L3 có thể chấp nhận được.
+
+Đối với trẻ em, bôi thuốc tê ngoài da và để thời gian cho thuốc phát huy tác dụng.
+
+Dùng dung dịch sát trùng bôi chỗ chọc kim theo kiểu vòng tròn đồng tâm mở rộng dần có đường kính khoảng 20 cm.
+
+Để dung dịch sát khuẩn khô trong ít nhất 1 phút. Nếu sử dụng iốt hoặc chlorhexidine, hãy lau sạch bằng cồn để ngăn không cho kim tiêm tủy sống đưa vào chất này khoang dưới nhện.
+
+Để thiết bị vô trùng trên khay đựng thiết bị vô trùng và phủ một tấm săng vô trùng.
+
+Đi găng tay vô trùng. Nếu quý vị có bất kỳ triệu chứng hô hấp nào, hãy đeo khẩu trang. Nếu các quy trình cách ly y tế được áp dụng, hãy mặc áo choàng, đeo khẩu trang và đội mũ lưỡi.
+
+Lắp ráp áp kế, khóa vòi và ống nối ngắn. Ống nối ngắn cần phải có một số chuyển động tự do, để giúp ngăn chặn chuyển động bất ngờ của thiết bị được kết nối (ví dụ, nếu bệnh nhân di chuyển bất ngờ) làm bật kim ra.
+
+Đảm bảo chuyển động làm việc trơn tru của khóa vòi và của kim cột sống và que thông nòng.
+
+Đặt săng mổ vô trùng xung quanh vị trí chọc kim.
+
+Bôi một lớp thuốc tê tại vị trí chọc kim bằng cách sử dụng một cái kim 25 gauge và sau đó gây mê sâu hơn trong các mô mềm dọc theo đường chọc kim dự kiến.
+
+Chọc kim tủy sống
+
+Cho toàn bộ que thông nòng vào kim cột sống bất cứ khi nào kim được đẩy đi hoặc rút ra.
+
+Giữ một cây kim chọc dò có vát với mặt vát hướng về bên phải hoặc bên trái của bệnh nhân (tức là hướng lên cho bệnh nhân ở tư thế nằm nghiêng bên) để đảm bảo rằng phần sắc nhọn của kim đi giữa các sợi dọc của màng cứng thay vì cắt qua các sợi đó. Có thể dùng một tay cầm kim nhưng dùng 2 tay cầm kim sẽ kiểm soát tốt hơn trong trường hợp bệnh nhân cử động hoặc bị giật.
+
+Sờ nắn mào chậu và các mỏm gai đốt sống để xác định lại vị trí chọc kim.
+
+Chọc kim hướng về phía rốn, khoảng 15° về phía đầu và đẩy nó theo từng bước nhỏ khoảng 2 đến 3 mm. Có thể sờ thấy tiếng pốp khi kim xuyên qua dây chằng vòng (để vào khoang ngoài màng cứng) và đôi khi kim xuyên qua màng cứng (để vào khoang dưới nhện). Ở trẻ em, những tiếng pốp như vậy thường ít rõ ràng hơn. Thông thường, kim cần được đẩy đi theo phần lớn chiều dài của nó trước khi chạm đến khoang dưới nhện. Tháo que thông nòng giữa các lần đẩy kim tăng dần để kiểm tra xem có dòng chảy dịch não tủy (cho biết khả năng tiếp cận khoang dưới nhện) không; lắp lại que thông nòng trước khi tiếp tục đẩy kim đi.
+
+Nếu kim chạm vào xương, rút kim đến mức dưới da, hướng kim về phía đầu hơn và sau đó chọc lại. Đảm bảo kim hướng về phía ống sống và không lệch sang một bên.
+
+Nếu máu trở lại khi chọc sâu, kim có thể đã đi vào đám rối tĩnh mạch ở mặt bụng của tủy sống. Rút kim theo từng bước nhỏ (ví dụ: 1 mm) liên tiếp, kiểm tra xem có dịch não tủy trở lại sau mỗi bước không.
+
+Đầu kim đôi khi bị chặn bởi rễ thần kinh hoặc mô khác. Nếu không lấy được dịch não tủy mặc dù có vẻ như đã thâm nhập thành công vào khoang dưới nhện, hãy xoay kim 90° và kiểm tra lại.
+
+Khi đã đạt đến khoang dưới nhện, hãy lắp lại que thông nòng và không đẩy kim thêm.
+
+Giữ kim chọc dịch não tủy
+
+Hình ảnh
+
+Hình ảnh do bác sĩ John Greenlee cung cấp.
+
+Chọc dịch não tủy
+
+Chọc dịch não tủy ở thắt lưng được thực hiện khi bệnh nhân ở tư thế nằm nghiêng và kim chọc dịch não tủy ở thắt lưng được chọc vào khe giữa đốt sống L3 và L4.
+
+Chọc dịch não tủy
+
+Các video
+
+Đo áp lực dịch não tủy
+
+Đo áp lực thường được thực hiện nhưng có thể bỏ qua nếu bệnh nhân bị bệnh nguy kịch và nên bỏ qua đối với bệnh nhân ở tư thế ngồi vì những phép đo này không đáng tin cậy.
+
+Rút que thông nòng ra khỏi kim cột sống.
+
+Lắp áp kế/khóa vòi/ống nối dài đã lắp ráp vào kim.
+
+Cầm mức áp kế cùng với kim tủy sống.
+
+Mở khóa vòi.
+
+Dịch não tủy sẽ tăng trong ống áp kế đến độ cao đại diện cho áp lực dịch não tủy đang mở ra, áp lực được đọc trên các vạch trên ống. Mặt khum của dịch não tủy cần dao động nhẹ theo nhịp thở. Chiều cao bình thường của cột chất lỏng (áp lực dịch não tủy) là 7 đến 18 cm.
+
+Nếu áp lực thấp, hướng dẫn bệnh nhân duỗi thẳng chân dần dần ở khớp háng và khớp gối một chút để cải thiện dòng chảy dịch não tủy. Nếu không có thay đổi áp lực trong quá trình hô hấp, đặc biệt nếu áp lực thấp, hãy xoay kim 90° để giảm bớt sự cản trở có thể xảy ra do dây thần kinh làm tắc hoặc nếu kim không nằm hoàn toàn trong khoang dưới nhện.
+
+Thu thập dịch não tủy
+
+Không bao giờ hút dịch não tủy.
+
+Nếu đo áp lực dịch não tủy đã được thực hiện, xả dịch não tủy từ áp kế vào ống thu thập thứ nhất. Khi áp kế đã hết, lấy áp kế ra.
+
+Theo trình tự số, cho khoảng 1 đến 2 mL dịch não tủy nhỏ giọt vào từng ống trong số 4 ống thu thập. Thể tích lớn hơn (lên đến 30 mL đến 40 mL) có thể làm tăng hiệu quả của một số xét nghiệm, chẳng hạn như phát hiện trực khuẩn kháng axit, nấm (ví dụ:
+
+Cryptococcus neoformans
+
+,
+
+Coccidioides immitis
+
+), hoặc viêm màng não do ung thư biểu mô.
+
+Đếm tế bào và công thức bạch cầu ở ống thứ nhất và ống thứ ba để có thể so sánh số lượng nếu có hồng cầu. (Số lượng hồng cầu giảm mạnh từ ống thứ nhất đến ống thứ ba phù hợp với một vết thương do chấn thương.)
+
+Thực hiện các xét nghiệm khác, bao gồm nồng độ protein và glucose, dải đơn dòng (nếu cần) và xét nghiệm vi sinh, ở ống thứ hai và, nếu cần, từ CSF còn lại ở ống thứ nhất và/hoặc ống thứ ba.
+
+Cân nhắc việc đông lạnh ống thứ tư trong trường hợp các nghiên cứu bổ sung ngoài dự kiến ​​sau này trở nên cần thiết. Kiểm tra với phòng thí nghiệm để xem phòng thí nghiệm giữ mẫu trong bao lâu và yêu cầu họ giữ mẫu trong thời gian lâu hơn nếu cần.
+
+Kết thúc thủ thuật
+
+Lắp lại que thông vào kim, cẩn thận không chọc hết kim. (Bởi vì các dây thần kinh có thể trôi vào lỗ kim, việc đưa que thông tin vào hoàn toàn có thể cắt bỏ mô thần kinh.)
+
+Rút kim nhẹ nhàng.
+
+Băng một băng dính.
+
+Chăm sóc sau chọc dịch não tủy
+
+Nằm nghỉ tại giươngf sau khi chọc dịch não tủy là không cần thiết và không làm giảm tỷ lệ đau đầu sau chọc dịch não tủy; tuy nhiên, tư thế nằm nghiêng vẫn hữu ích trong điều trị đau đầu sau chọc dịch não tủy.
+
+Tăng lượng nước uống đã được đề xuất để điều trị đau đầu sau thủ thuật nhưng không có hiệu quả trong các thử nghiệm có đối chứng. Caffeine có thể giúp ngăn ngừa đau đầu sau thủ thuật, nhưng do tác dụng lợi tiểu, là một lý do khác để tăng lượng dịch đưa vào.
+
+Hướng dẫn bệnh nhân cảnh giác với cơn đau lưng dai dẳng hoặc trầm trọng hơn, có thể xảy ra vài ngày sau khi chọc dịch não tủy và cần đánh giá kịp thời để loại trừ khối máu tụ.
+
+Cảnh báo và các lỗi thường gặp trong chọc dịch não tủy
+
+Đảm bảo giữ cho hông, lưng và vai của bệnh nhân vuông góc chính xác với giường.
+
+Khi sử dụng tư thế nằm nghiêng sang một bên, giữ nguyên tư thế thai nhi cuộn tròn chặt của bệnh nhân.
+
+Đảm bảo hướng kim về phía đường giữa (không nghiêng sang một bên) và hơi về phía đầu.
+
+Những sai sót này gây khó khăn cho việc đưa kim vào ống sống. Ngoài ra,
+
+Không rút kim khi chưa cho que thông nòng trở lại kim.
+
+Nếu không vào ống sống, không cố định vị lại kim bằng cách di chuyển đầu kim sang bên này hay bên kia; điều này có thể làm tổn thương mô. Thay vào đó, rút kim ra gần sát bề mặt da (tức là bên ngoài dây chằng cột sống) trước khi thay đổi góc và hướng chọc kim vào.
+
+Thủ thuật và lời khuyên trong chọc dịch não tủy
+
+Ngồi gần bệnh nhân một cách thoải mái trước khi làm thủ thuật ở tư thế nằm nghiêng sang một bên.
+
+Cân nhắc việc cầm kim tiêm bằng cả hai tay để kiểm soát tốt hơn.
+
+Tránh đâm kim chọc dịch não tủy qua vùng da bị nhiễm trùng hoặc vùng da có hình xăm vì nguy cơ nhiễm trùng có thể xảy ra hoặc về mặt lý thuyết có khả năng mực xăm có thể bị đưa vào dịch não tủy và gây kích ứng hoặc độc tính. Nếu cần, sử dụng một khoảng giữa liền kề hoặc rạch một đường nhỏ qua lớp biểu bì có hình xăm bằng dao và sau đó chọc kim qua vết rạch đó.
+
+Sau khi kim xuyên qua da và vào dây chằng gai, kiểm tra lại hướng thẳng hàng của bệnh nhân (hông vuông góc với giường) và hướng của kim (vuông góc với cột sống) trước khi chọc thêm.
+
+Dòng chảy dịch não tủy có thể được tạo điều kiện thuận lợi bằng cách xoay kim được đưa vào hoàn toàn 90° (để mặt vát hướng về phía đầu). Nếu thực hiện việc này, hãy xoay kim trở lại vị trí song song trước khi rút kim ra để tránh làm rách các sợi màng cứng.
+
+Lấy máu để đo nồng độ đường trước khi chọc dịch não tủy (ví dụ: 30 phút) để có thể được so sánh nồng độ này một cách chính xác với nồng độ đường dịch não tủy. Với thời gian này, các dải ít clon huyết thanh và dịch não tủy cũng có thể được so sánh.
+
+Nếu chọc dịch não tủy không thành công ở tư thế nằm, hãy thử tư thế ngồi, tư thế này có thể thành công vì tăng độ uốn của cột sống và mở không gian giữa các đốt sống.
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định của chọc dò thắt lưng ---
+
+Các chỉ định chẩn đoán*Nghi ngờ nhiễm trùng hệ thần kinh trung ương (CNS) (viêm màng não cấp tính do vi khuẩn, viêm màng não do virus,viêm não,viêm màng não bán cấp hoặc mạn tính)Các tình trạng viêm nghi ngờ ở hệ thần kinh trung ương, bao gồm bệnhđa xơ cứng(hoặc các tình trạng mất myelin khác ở hệ thần kinh trung ương như NMO hoặc MOGAD), viêm não tự miễn (ví dụ: viêm não chống NMDAR) vàbệnh sarcoidNghi ngờxuất huyết dưới nhệntự phát không được chẩn đoán trên hình ảnh thần kinh hoặc nếu không có hình ảnh thần kinh ngay lập tứcNghi ngờtăng áp lực nội sọ tự phátNghi ngờ hạ áp lực nội sọCác tình trạng bệnh lý khác ở hệ thần kinh trung ương, bao gồmhội chứng Guillain-Barré, di căn màng não mềm (viêm màng não do ung thư), bệnh não chuyển hóa di truyềnĐể cho dùng một chất cản quang phóng xạ trong chụp tủy* Quyết định trước những thông tin quý vị cần từ chọc dịch não tủy và những xét nghiệm quý vị cần yêu cầu. Xác nhận các yêu cầu đối với bất kỳ xét nghiệm bất thường nào với phòng thí nghiệm lâm sàng trước khi bắt đầu thủ thuật.Chỉ định điều trịGiảm áp lực nội sọ trong tăng huyết áp nội sọ tự phátQuản lý các loại thuốc nội tủy mạc (ví dụ: gây tê tủy sống hoặc gây tê ngoài màng cứng, hóa trị liệu nội tủy mạc)
+
+--- 2. Chống chỉ định của chọc dò thắt lưng ---
+
+Chống chỉ định tuyệt đốiNghi ngờ nhiễm trùng (ví dụ: viêm mô bào, áp xe) ở hoặc gần vị trí kim tiêm: Nếu có thể, nên sử dụng một vị trí thay thế, không bị nhiễm trùng. Điều này liên quan đến phương pháp tiếp cận vùng dưới chẩm (bể lớn) hoặc cổ (C1-C2) và luôn được thực hiện dưới sự dẫn hướng của soi huỳnh quang.Chống chỉ định tương đốiNghi ngờ tăng áp lực nội sọ do khối nội sọ (ví dụ: khối u, áp xe não hoặc máu, đặc biệt là nếu ở khoang dưới lều) có thể thúc đẩythoát vị* xuyên lều hoặc tiểu não sau khi chọc dịch não tủy. Nếu có những dấu hiệu gợi ý (ví dụ, thiếu sót thần kinh khu trú, tình trạng tâm thần thay đổi, phù gai thị,dấu hiệu thoát vị), hãy làm CT hoặc MRI trước khi chọc dịch não tủy. (Tuy nhiên, không phải lúc nào cũng có thể dự đoán nguy cơ thoát vị bằng CT hoặc MRI.)Bệnh đông máu(ví dụ: tỷ lệ bình thường hóa quốc tế [INR]>1,5, bao gồm chống đông bằng thuốc; giảm tiểu cầu [<50.000/mcL, 50 x 109/L], tăng thời gian Thromboplastin riêng phần được kích hoạt một cách bệnh lý), có thể dẫn đến tụ máu cột sống do chọc dịch não tủy: Cân nhắc điều chỉnh trước khi làm thủ thuật.†Suy chức năng tim phổi hoặc suy hô hấp, có thể trầm trọng hơn vì nằm nghiêng khi chọc dịch não tủyBất thường giải phẫu tại vị trí chọc kim (ví dụ: hợp nhất cột sống, thủ thuật cắt bỏ cung sau, dị tật bẩm sinh)Vãng khuẩn huyết không được chứng minh là dẫn đến viêm màng não sau khi chọc dịch não tủy và do đó không phải là chống chỉ định.* Khi chọc dịch não tủy bị trì hoãn, bắt đầu điều trị ngay nghi ngờviêm màng não cấp do vi khuẩnhoặcxuất huyết dưới nhện. Đối với viêm màng não, cũng làm cấy máu ngay lập tức.† Điều trị thuốc chống đông (ví dụ, tắc mạch phổi) làm tăng nguy cơ chảy máu với chọc dịch não tủy, nhưng điều này phải được cân bằng để chống lại nguy cơ huyết khối đột quỵ) nếu thuốc chống đông được đảo ngược. Nếu thời gian cho phép, hãy thảo luận về bất kỳ sự đảo ngược theo dự tính nào với bác sĩ lâm sàng đang quản lý thuốc kháng đông của bệnh nhân.
+
+--- 3. Biến chứng của chọc dịch não tủy ---
+
+Đau đầu sau chọc dịch não tủyChảy máu vào khoang ngoài màng cứng (khối máu tụ tủy sống)Cảm giác khó chịu ở thắt lưng hoặc đau có thể lan ra phần sau chân (tự khỏi)Khối u biểu bì, xảy ra nhiều năm sau khi chọc dịch não tủy; nguy cơ sẽ tăng lên nếu kim cột sống được đưa vào hoặc rút ra mà không có ống thông (rất hiếm gặp)Thoát vị não (hiếm gặp)Mù vỏ não (hiếm gặp)Nhồi máu tủy sống cổ (hiếm gặp)Điếc thoáng qua hoặc vĩnh viễn (hiếm gặp)Nhiễm bệnh do thầy thuốc gây ra (hiếm gặp)Buồn nôn và/hoặc ù tai thoáng quaHạ huyết áp nội sọ do rò dịch não tủy (hiếm gặp)Liệt dây thần kinh sọ VI(hiếm gặp)Nhức đầu phát triển sau khi chọc dịch não tủy ở khoảng 10% số bệnh nhân, thường là vài giờ đến một hoặc hai ngày sau đó, và có thể nặng. Các bệnh nhân trẻ tuổi có khối lượng cơ thể nhỏ có nguy cơ cao nhất. Sử dụng kim hẹp hơn, cắt (đầu vát) hoặc kim không cắt (đầu bút chì) làm giảm nguy cơ. Lượng dịch não tủy được lấy ra cũng như thời gian nằm ngửa sau khi chọc dịch não tủy đều không ảnh hưởng đến tỷ lệ mắc bệnh.
+
+--- 4. Thiết bị dùng trong chọc dịch não tủy ---
+
+Ở nhiều trung tâm có các bộ dụng cụ chọc dịch não tủy được đóng gói sẵn. Nếu không, các thiết bị cần thiết bao gồm:Găng tay, áo choàng, mặt nạ, mũ vô trùngSăng mổ vô trùng và/hoặc khăn vô trùngDung dịch khử trùng (ví dụ, chlorhexidine, povidone iodine, khăn lau có cồn)Gạc vô trùng (ví dụ: hình vuông 10 cm × 10 cm [4" × 4"])Gây tê cục bộ (ví dụ: lidocain 1% hoặc 2% không có epinephrine, kim 25 gauge và 20 gauge, ống tiêm 10 mL)Thuốc gây tê tại chỗ (tiêu chuẩn cho trẻ em): Dụng cụ phun khí lidocain không cần kim, gel lidocain-epinephrin-tetracaine (LET) hoặc kem lidocain-prilocaineKim cột sống có que thông nòng: Kim cắt (đầu vát) hoặc kim không cắt (không gây chấn thương)* (đầu bút chì); cỡ 20 hoặc 22*; dài 9 cm cho người lớn, 6 cm cho trẻ em, 4 cm cho trẻ sơ sinh4 ống thu thập dịch não tủy (được dán nhãn từ 1 đến 4) cho các nghiên cứu trong phòng thí nghiệm; các ống bổ sung nếu cần thu thập dịch não tủy với khối lượng lớn (ví dụ: 30 đến 40 mL) hoặc cần các xét nghiệm đặc biệt bổ sung. Có thể cần thu thập khối lượng lớn từ 30 mL đến 40 mL dịch não tủy khi nghi ngờviêm màng não mạn tính(ví dụ: viêm màng não dolaohoặcviêm màng não do nấm) hoặc viêm màng não do ung thư. Các ống bổ sung (đủ để chứa từ 30 đến 40 mL dịch não tủy) cũng có thể cần thiết nếu một LP dung tích cao được lên kế hoạch để chẩn đoán não úng thủy áp lực bình thường.Áp kế và khóa vòi; tùy chọn, ống mở rộng ngắnBăng dính* Sử dụng kim không cắt (đầu bút chì), kim cắt (đầu vát) và kim có cỡ nòng nhỏ hơn (tức là 22 thước) giúp giảm nguy cơ đau đầu sau chọc dịch não tủy.Để được dẫn hướng siêu âm:Thiết bị siêu âm tại giường có đầu dò mảng tuyến tính tần số cao
+
+--- 5. Cân nhắc bổ sung về chọc dịch não tủy ---
+
+Nếu cần, lấy máu làm đường huyết để so sánh với đường dịch não tủy; máu cho các dải ít clon có thể được thu thập cùng một lúc.Có thể cần an thần trong thời gian ngắn (ví dụ, với propofol hoặc fentanyl và/hoặc midazolam) cho trẻ em và người lớn có lo lắng.Mặc dù dẫn hướng bằng siêu âm có thể làm tăng tỷ lệ thành công và giảm tỷ lệ biến chứng trong một số môi trường nhất định (1), nhưng việc sử dụng siêu âm thường xuyên trong cấp cứu nội khoa để định vị các mốc giải phẫu chưa được chứng minh là có những lợi ích này (2).Tài liệu tham khảo1.Soni NJ, Franco-Sadud R, Schnobrich D, et al: Ultrasound guidance for lumbar puncture.Neurol Clin Practice6(4):358-368, 2016 doi: 10.1212/CPJ.00000000000002652.Peterson MA, Pisupati D, Heyming TW, et al: Ultrasound for routine lumbar puncture.Acad Emerg Med21(2):130-136, 2014 doi: 10.1111/acem.12305
+
+--- 6. Giải phẫu liên quan trong chọc dịch não tủy ---
+
+Điểm chọc kim mong muốn là khoảng trống giữa L3-L4 hoặc L4-L5; do đó, kim được cắm vào dưới mức của tủy sống.Mỏm gai đốt sống L4 nằm dọc theo một đường tưởng tượng giữa đỉnh của mào chậu sau trên.Bởi vì tủy sống kết thúc ở khoảng T12-L1, chọc dịch não tủy về mặt lý thuyết có thể được thực hiện ở mức L2 mà không có nguy cơ tổn thương tủy sống.Trong phương phápchọc kim vào đường giữa(cách tiếp cận phổ biến nhất), đầu tiên kim cột sống đi qua các dây chằng trên mỏm gai và dây chằng gian gai giữa mỏm gai đốt sống, trước khi đến dây chằng vòng.Một đường chọc kim ở bên cạnh (ví dụ, 1 cm ở cả phần bên cạnh và về phía đuôi đến điểm chèn da đường giữa) bỏ qua các dây chằng đường giữa và có thể tạo điều kiện thuận lợi cho việc chọc dịch não tủy ở những bệnh nhân cao tuổi có dây chằng bị vôi hóa và xơ cứng.Dây chằng vòng là mô liên kết dày, và có thể có tiếng pốp rõ ràng (hoặc không) khi kim đi qua nó.Sau đó, kim đi qua khoang ngoài màng cứng (mô mỡ và đám rối tĩnh mạch đốt sống bên trong) và sau đó có thể sờ thấy tiếng pốp - một lần nữa - qua màng cứng (và đồng thời xuyên qua màng dưới nhện lân cận) để vào khoang dưới nhện (khoang dịch não tủy). Lưu ý rằng trong nhiều trường hợp, không thể thấy có tiếng "pốp" nào.Ở trẻ em hoặc trẻ sơ sinh, những mô xơ có ít khả năng cản trở được đâm xuyên, có thể không sờ thấy tiếng pốp do kim đi qua dây chằng vòng và màng cứng.
+
+--- 7. Tạo tư thế trong chọc dịch não tủy ---
+
+Mục đích là gập cột sống thắt lưng để mở rộng các khoang gian đốt sống. Bệnh nhân có thể nằm ở tư thế nghiêng về một bên hoặc có thể ở tư thế ngồi. Tư thế nằm nghiêng sang một bên thường được ưu tiên và nên được sử dụng nếu muốn đo áp lực dịch não tủy. Tư thế ngồi có thể hữu ích cho những bệnh nhân khó sờ thấy các mốc vật lý ở tư thế nằm (ví dụ: những người bị béo phì); đó là tư thế ưu tiên cho trẻ sơ sinh.Tư thế nằm nghiêng sang một bên:Bệnh nhân nằm nghiêng theo tư thế bào thai, hông gập hết mức có thể chịu được. Đảm bảo xương chậu, lưng và vai vuông góc với giường. Đặt một chiếc gối dưới đầu để căn chỉnh đầu với cột sống và giữa hai đầu gối để tạo cảm giác thoải mái nếu cần. Người trợ lý có thể giúp bệnh nhân cuộn tròn càng nhiều càng tốt. Trước khi bắt đầu, hãy tạo một tư thế thoải mái gần với bệnh nhân.Tư thế ngồi:Bệnh nhân ngồi ở mép giường, đặt chân lên ghế đẩu hoặc ghế để gập hông, và nghiêng người về phía trước, đầu và vai đặt trên bàn cạnh giường.Đối với trẻ sơ sinh, một người trợ lý giữ tay và chân từ phía trước, giữ trẻ ở tư thế thai nhi ngồi trên giường. Đầu cũng được đỡ để tránh ngạt thở do gập cổ.Tạo tư thế chọc dịch não tủy (trẻ sơ sinh)Hình ảnhMION/PHANIE/THƯ VIỆN HÌNH ẢNH KHOA HỌC
+
+--- 8. Mô tả từng bước về chọc dịch não tủy ---
+
+Xác định và chuẩn bị vị trí chọcĐể bệnh nhân ở tư thế thích hợp, sử dụng dụng cụ hỗ trợ nếu cần.Xác định vị trí đâm kim trên lâm sàng: Sờ nắn các mỏm gai đốt sống thắt lưng để xác định mỏm nào gần nhất với đường tưởng tượng giữa đỉnh của mào chậu sau trên; mỏm gai đốt sống gần nhất thường là L4 (đôi khi L3 ở phụ nữ). Điểm chọc kim là chỗ lõm nằm ngay phía đuôi của mỏm gai đốt sống (tức là, trong khoảng trống giữa L3-L4 đối với mỏm gai đốt sống L4). Đánh dấu vị trí bằng bút đánh dấu da. Mặc dù khoảng giữa L3-L4 là vị trí chọc kim thông thường, nhưng khoảng giữa L4-L5 hoặc L2-L3 có thể chấp nhận được.Đối với trẻ em, bôi thuốc tê ngoài da và để thời gian cho thuốc phát huy tác dụng.Dùng dung dịch sát trùng bôi chỗ chọc kim theo kiểu vòng tròn đồng tâm mở rộng dần có đường kính khoảng 20 cm.Để dung dịch sát khuẩn khô trong ít nhất 1 phút. Nếu sử dụng iốt hoặc chlorhexidine, hãy lau sạch bằng cồn để ngăn không cho kim tiêm tủy sống đưa vào chất này khoang dưới nhện.Để thiết bị vô trùng trên khay đựng thiết bị vô trùng và phủ một tấm săng vô trùng.Đi găng tay vô trùng. Nếu quý vị có bất kỳ triệu chứng hô hấp nào, hãy đeo khẩu trang. Nếu các quy trình cách ly y tế được áp dụng, hãy mặc áo choàng, đeo khẩu trang và đội mũ lưỡi.Lắp ráp áp kế, khóa vòi và ống nối ngắn. Ống nối ngắn cần phải có một số chuyển động tự do, để giúp ngăn chặn chuyển động bất ngờ của thiết bị được kết nối (ví dụ, nếu bệnh nhân di chuyển bất ngờ) làm bật kim ra.Đảm bảo chuyển động làm việc trơn tru của khóa vòi và của kim cột sống và que thông nòng.Đặt săng mổ vô trùng xung quanh vị trí chọc kim.Bôi một lớp thuốc tê tại vị trí chọc kim bằng cách sử dụng một cái kim 25 gauge và sau đó gây mê sâu hơn trong các mô mềm dọc theo đường chọc kim dự kiến.Chọc kim tủy sốngCho toàn bộ que thông nòng vào kim cột sống bất cứ khi nào kim được đẩy đi hoặc rút ra.Giữ một cây kim chọc dò có vát với mặt vát hướng về bên phải hoặc bên trái của bệnh nhân (tức là hướng lên cho bệnh nhân ở tư thế nằm nghiêng bên) để đảm bảo rằng phần sắc nhọn của kim đi giữa các sợi dọc của màng cứng thay vì cắt qua các sợi đó. Có thể dùng một tay cầm kim nhưng dùng 2 tay cầm kim sẽ kiểm soát tốt hơn trong trường hợp bệnh nhân cử động hoặc bị giật.Sờ nắn mào chậu và các mỏm gai đốt sống để xác định lại vị trí chọc kim.Chọc kim hướng về phía rốn, khoảng 15° về phía đầu và đẩy nó theo từng bước nhỏ khoảng 2 đến 3 mm. Có thể sờ thấy tiếng pốp khi kim xuyên qua dây chằng vòng (để vào khoang ngoài màng cứng) và đôi khi kim xuyên qua màng cứng (để vào khoang dưới nhện). Ở trẻ em, những tiếng pốp như vậy thường ít rõ ràng hơn. Thông thường, kim cần được đẩy đi theo phần lớn chiều dài của nó trước khi chạm đến khoang dưới nhện. Tháo que thông nòng giữa các lần đẩy kim tăng dần để kiểm tra xem có dòng chảy dịch não tủy (cho biết khả năng tiếp cận khoang dưới nhện) không; lắp lại que thông nòng trước khi tiếp tục đẩy kim đi.Nếu kim chạm vào xương, rút kim đến mức dưới da, hướng kim về phía đầu hơn và sau đó chọc lại. Đảm bảo kim hướng về phía ống sống và không lệch sang một bên.Nếu máu trở lại khi chọc sâu, kim có thể đã đi vào đám rối tĩnh mạch ở mặt bụng của tủy sống. Rút kim theo từng bước nhỏ (ví dụ: 1 mm) liên tiếp, kiểm tra xem có dịch não tủy trở lại sau mỗi bước không.Đầu kim đôi khi bị chặn bởi rễ thần kinh hoặc mô khác. Nếu không lấy được dịch não tủy mặc dù có vẻ như đã thâm nhập thành công vào khoang dưới nhện, hãy xoay kim 90° và kiểm tra lại.Khi đã đạt đến khoang dưới nhện, hãy lắp lại que thông nòng và không đẩy kim thêm.Giữ kim chọc dịch não tủyHình ảnhHình ảnh do bác sĩ John Greenlee cung cấp.Chọc dịch não tủyChọc dịch não tủy ở thắt lưng được thực hiện khi bệnh nhân ở tư thế nằm nghiêng và kim chọc dịch não tủy ở thắt lưng được chọc vào khe giữa đốt sống L3 và L4.Chọc dịch não tủyCác videoĐo áp lực dịch não tủyĐo áp lực thường được thực hiện nhưng có thể bỏ qua nếu bệnh nhân bị bệnh nguy kịch và nên bỏ qua đối với bệnh nhân ở tư thế ngồi vì những phép đo này không đáng tin cậy.Rút que thông nòng ra khỏi kim cột sống.Lắp áp kế/khóa vòi/ống nối dài đã lắp ráp vào kim.Cầm mức áp kế cùng với kim tủy sống.Mở khóa vòi.Dịch não tủy sẽ tăng trong ống áp kế đến độ cao đại diện cho áp lực dịch não tủy đang mở ra, áp lực được đọc trên các vạch trên ống. Mặt khum của dịch não tủy cần dao động nhẹ theo nhịp thở. Chiều cao bình thường của cột chất lỏng (áp lực dịch não tủy) là 7 đến 18 cm.Nếu áp lực thấp, hướng dẫn bệnh nhân duỗi thẳng chân dần dần ở khớp háng và khớp gối một chút để cải thiện dòng chảy dịch não tủy. Nếu không có thay đổi áp lực trong quá trình hô hấp, đặc biệt nếu áp lực thấp, hãy xoay kim 90° để giảm bớt sự cản trở có thể xảy ra do dây thần kinh làm tắc hoặc nếu kim không nằm hoàn toàn trong khoang dưới nhện.Thu thập dịch não tủyKhông bao giờ hút dịch não tủy.Nếu đo áp lực dịch não tủy đã được thực hiện, xả dịch não tủy từ áp kế vào ống thu thập thứ nhất. Khi áp kế đã hết, lấy áp kế ra.Theo trình tự số, cho khoảng 1 đến 2 mL dịch não tủy nhỏ giọt vào từng ống trong số 4 ống thu thập. Thể tích lớn hơn (lên đến 30 mL đến 40 mL) có thể làm tăng hiệu quả của một số xét nghiệm, chẳng hạn như phát hiện trực khuẩn kháng axit, nấm (ví dụ:Cryptococcus neoformans,Coccidioides immitis), hoặc viêm màng não do ung thư biểu mô.Đếm tế bào và công thức bạch cầu ở ống thứ nhất và ống thứ ba để có thể so sánh số lượng nếu có hồng cầu. (Số lượng hồng cầu giảm mạnh từ ống thứ nhất đến ống thứ ba phù hợp với một vết thương do chấn thương.)Thực hiện các xét nghiệm khác, bao gồm nồng độ protein và glucose, dải đơn dòng (nếu cần) và xét nghiệm vi sinh, ở ống thứ hai và, nếu cần, từ CSF còn lại ở ống thứ nhất và/hoặc ống thứ ba.Cân nhắc việc đông lạnh ống thứ tư trong trường hợp các nghiên cứu bổ sung ngoài dự kiến ​​sau này trở nên cần thiết. Kiểm tra với phòng thí nghiệm để xem phòng thí nghiệm giữ mẫu trong bao lâu và yêu cầu họ giữ mẫu trong thời gian lâu hơn nếu cần.Kết thúc thủ thuậtLắp lại que thông vào kim, cẩn thận không chọc hết kim. (Bởi vì các dây thần kinh có thể trôi vào lỗ kim, việc đưa que thông tin vào hoàn toàn có thể cắt bỏ mô thần kinh.)Rút kim nhẹ nhàng.Băng một băng dính.
+
+--- 9. Chăm sóc sau chọc dịch não tủy ---
+
+Nằm nghỉ tại giươngf sau khi chọc dịch não tủy là không cần thiết và không làm giảm tỷ lệ đau đầu sau chọc dịch não tủy; tuy nhiên, tư thế nằm nghiêng vẫn hữu ích trong điều trị đau đầu sau chọc dịch não tủy.Tăng lượng nước uống đã được đề xuất để điều trị đau đầu sau thủ thuật nhưng không có hiệu quả trong các thử nghiệm có đối chứng. Caffeine có thể giúp ngăn ngừa đau đầu sau thủ thuật, nhưng do tác dụng lợi tiểu, là một lý do khác để tăng lượng dịch đưa vào.Hướng dẫn bệnh nhân cảnh giác với cơn đau lưng dai dẳng hoặc trầm trọng hơn, có thể xảy ra vài ngày sau khi chọc dịch não tủy và cần đánh giá kịp thời để loại trừ khối máu tụ.
+
+--- 10. Cảnh báo và các lỗi thường gặp trong chọc dịch não tủy ---
+
+Đảm bảo giữ cho hông, lưng và vai của bệnh nhân vuông góc chính xác với giường.Khi sử dụng tư thế nằm nghiêng sang một bên, giữ nguyên tư thế thai nhi cuộn tròn chặt của bệnh nhân.Đảm bảo hướng kim về phía đường giữa (không nghiêng sang một bên) và hơi về phía đầu.Những sai sót này gây khó khăn cho việc đưa kim vào ống sống. Ngoài ra,Không rút kim khi chưa cho que thông nòng trở lại kim.Nếu không vào ống sống, không cố định vị lại kim bằng cách di chuyển đầu kim sang bên này hay bên kia; điều này có thể làm tổn thương mô. Thay vào đó, rút kim ra gần sát bề mặt da (tức là bên ngoài dây chằng cột sống) trước khi thay đổi góc và hướng chọc kim vào.
+
+--- 11. Thủ thuật và lời khuyên trong chọc dịch não tủy ---
+
+Ngồi gần bệnh nhân một cách thoải mái trước khi làm thủ thuật ở tư thế nằm nghiêng sang một bên.Cân nhắc việc cầm kim tiêm bằng cả hai tay để kiểm soát tốt hơn.Tránh đâm kim chọc dịch não tủy qua vùng da bị nhiễm trùng hoặc vùng da có hình xăm vì nguy cơ nhiễm trùng có thể xảy ra hoặc về mặt lý thuyết có khả năng mực xăm có thể bị đưa vào dịch não tủy và gây kích ứng hoặc độc tính. Nếu cần, sử dụng một khoảng giữa liền kề hoặc rạch một đường nhỏ qua lớp biểu bì có hình xăm bằng dao và sau đó chọc kim qua vết rạch đó.Sau khi kim xuyên qua da và vào dây chằng gai, kiểm tra lại hướng thẳng hàng của bệnh nhân (hông vuông góc với giường) và hướng của kim (vuông góc với cột sống) trước khi chọc thêm.Dòng chảy dịch não tủy có thể được tạo điều kiện thuận lợi bằng cách xoay kim được đưa vào hoàn toàn 90° (để mặt vát hướng về phía đầu). Nếu thực hiện việc này, hãy xoay kim trở lại vị trí song song trước khi rút kim ra để tránh làm rách các sợi màng cứng.Lấy máu để đo nồng độ đường trước khi chọc dịch não tủy (ví dụ: 30 phút) để có thể được so sánh nồng độ này một cách chính xác với nồng độ đường dịch não tủy. Với thời gian này, các dải ít clon huyết thanh và dịch não tủy cũng có thể được so sánh.Nếu chọc dịch não tủy không thành công ở tư thế nằm, hãy thử tư thế ngồi, tư thế này có thể thành công vì tăng độ uốn của cột sống và mở không gian giữa các đốt sống.

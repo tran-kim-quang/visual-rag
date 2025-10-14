@@ -1,0 +1,224 @@
+TIÊU ĐỀ: Hệ thống bổ thể
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/sinh-học-của-hệ-miễn-dịch/hệ-thống-bổ-thể
+================================================================================
+
+NỘI DUNG:
+
+Hệ thống bổ thể
+
+Theo
+
+Peter J. Delves
+
+,
+
+PhD
+
+,
+
+University College London, London, UK
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2024
+
+v992735_vi
+
+Hệ thống bổ sung là một chuỗi enzyme giúp bảo vệ chống lại nhiễm trùng thông qua kích hoạt phản ứng viêm cục bộ. Nhiều protein bổ thể có mặt trong huyết thanh như tiền chất enzym không hoạt động (zymogen); những loại khác gắn trên bề mặt tế bào. (Xem thêm
+
+Tổng quan về hệ thống miễn dịch
+
+.)
+
+Hệ thống bổ thể kết nối
+
+khả năng miễn dịch bẩm sinh
+
+và
+
+khả năng miễn dịch có được
+
+bằng cách
+
+Bổ sung đáp ứng kháng thể (Ab) và bộ nhớ miễn dịch
+
+Ly giải tế bào ngoại lai
+
+Dọn dẹp phức hợp miễn dịch và tế bào chết theo chương trình
+
+Các thành phần bổ thể có nhiều chức năng sinh học (như kích thích hóa trị liệu, kích hoạt tế bào mast thoát hạt không phụ thuộc immunoglobulin E (IgE).
+
+Hoạt hóa bổ thể
+
+Có 3 con đường hoạt hóa bổ thể (xem hình
+
+Các con đường hoạt hóa bổ thể
+
+):
+
+Cổ điển
+
+Lectin
+
+Đường không cổ điển
+
+Các con đường hoạt hóa bổ thể
+
+Các con đường cổ điển, lectin, và con đường không cổ điển hội tụ thành một con đường chung cuối cùng khi C3 convertase (C3 con) tách C3 thành C3a và C3b. Ab
+
+=
+
+kháng thể; Ag
+
+=
+
+kháng nguyên; C1-INH
+
+=
+
+thuốc ức chế C1
+
+; MAC
+
+=
+
+phức hợp tấn công màng; MASP
+
+=
+
+Protease serine liên quan đến MBL; MBL
+
+=
+
+lectin gắn kết mannose. Overbar cho biết kích hoạt.
+
+Các thành phần con đường cổ điển được gắn nhãn với C và đánh số (ví dụ, C1, C3), dựa trên thứ tự chúng được xác định. Các thành phần con đường thay thế thường được viết chữ (ví dụ, yếu tố B, yếu tố D) hoặc được đặt tên (ví dụ, properdin).
+
+Con đường cổ điển
+
+kích hoạt vừa
+
+Kháng thể phụ thuộc, xảy ra khi C1 tương tác với kháng nguyên-IgM hoặc phức hợp kháng nguyên-IgG kết tụ
+
+Độc lập với kháng thể, xảy ra khi có đa anion (ví dụ:
+
+heparin
+
+,
+
+protamine
+
+, DNA và RNA từ tế bào chết theo chu trình), vi khuẩn gram âm hoặc protein phản ứng C phản ứng trực tiếp với C1
+
+Con đường này do
+
+chất ức chế C1
+
+(C1-INH) điều hòa.
+
+Phù mạch di truyền
+
+là do sự thiếu hụt gen của C1-INH.
+
+con Đường Lectin
+
+kích hoạt độc lập kháng thể; xảy ra khi lectin liên kết mannose (MBL), một protein huyết thanh, liên kết với mannose, fuctose, hoặc nhóm
+
+N
+
+-acetylglucosamine trên thành tế bào vi khuẩn, nấm men, hoặc virus. Con đường này tương tự như con đường cổ điển về cấu trúc và chức năng.
+
+Con đường không cổ điển
+
+sự kích hoạt xảy ra khi các thành phần của bề mặt tế bào vi khuẩn (ví dụ, các thành nấm men, lipopolysaccharide của tế bào vi khuẩn [endotoxin]) hoặc immunoglobulin (ví dụ như yếu tố thận, IgA lắng đọng) phân cắt một số lượng nhỏ C3. Con đường này được điều chỉnh bởi properdin, yếu tố H, và yếu tố đẩy nhanh quá trình phân rã (CD55).
+
+3 con đường hoạt hóa hội tụ thành con đường chung cuối cùng khi C3 Convertase tách C3 thành C3a và C3b (xem hình
+
+Con đường kích hoạt bổ thể
+
+). Sự phân tách C3 có thể dẫn đến sự hình thành phức hợp tấn công màng tế bào (MAC), thành phần gây độc tế bào của hệ thống bổ thể. MAC gây ra sự ly giải các tế bào ngoại lai.
+
+Yếu tố I, với các cofactor bao gồm protein màng cofactor (CD46), bất hoạt C3b và C4b.
+
+Thiếu và khiếm khuyết bổ thể
+
+Sự thiếu hụt hoặc khuyết tật trong các thành phần bổ sung cụ thể có liên quan đến các rối loạn cụ thể; sau đây là ví dụ:
+
+Thiếu C1, C2, C3, MBL, Protease liên quan đến MBL 2 (MASP-2), yếu tố H, yếu tố I, hoặc thụ thể bổ thể 2 (CR2): Tính nhạy cảm với nhiễm khuẩn tái phát
+
+Thiếu C5, C9, yếu tố B, yếu tố D, hoặc properdin: Tính nhạy cảm với
+
+nhiễm trùng Neisseria
+
+Các khiếm khuyết trong C1, C4 và C5:
+
+Lupus ban đỏ toàn thân
+
+Thiếu hụt CR2:
+
+Bệnh suy giảm miễn dịch biến đổi hay gặp
+
+Thiếu hụt CR3:
+
+Thiếu kết dính bạch cầu
+
+loại 1
+
+Các đột biến trong gen cho yếu tố B, yếu tố H, yếu tố I, protein màng cofactor (CD46), hoặc C3: Sự phát triển của biến thể không điển hình của
+
+hội chứng tan máu tăng urê huyết
+
+với huyết khối vi mạch
+
+Hoạt động sinh học bổ thể
+
+Các thành phần bổ thể có các chức năng miễn dịch khác được trung gian bởi các thụ thể bổ thể (các CR) trên các tế bào khác nhau. Một số CR sử dụng các phân tử đã được gán số CD.
+
+CR1 (CD35) thúc đẩy quá trình tăng trưởng tế bào và giúp làm sạch phức hợp miễn dịch.
+
+CR2 (CD21) điều hòa sản xuất kháng thể của các tế bào B và là thụ thể của virus Epstein-Barr.
+
+CR3 (CD11b/CD18), CR4 (CD11c/CD18), và receptor C1q đóng một vai trò trong quá trình thực bào.
+
+C3a, C5a, và C4a (yếu) có hoạt tính anaphylatoxin: Gây ra sự thoát hạt tế bào mast, dẫn đến tăng tính thấm của mạch máu và co cơ trơn.
+
+C3b hoạt động như một opsonin bằng cách phủ các vi sinh vật và do đó tăng cường sự phát triển tế bào.
+
+C3d tăng cường sản xuất kháng thể bởi các tế bào B.
+
+C5a là một chất hóa ứng động bạch cầu; nó điều chỉnh hoạt động bạch cầu và monocyte và có thể làm tăng sự gắn kết của các tế bào, mất hạt và giải phóng các enzyme nội bào, sản sinh các chất chuyển hóa oxy độc hại, và các sự kiện chuyển hóa tế bào khác.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

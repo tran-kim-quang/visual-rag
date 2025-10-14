@@ -1,0 +1,435 @@
+TIÊU ĐỀ: Clindamycin
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-và-thuốc-kháng-khuẩn/clindamycin
+================================================================================
+
+NỘI DUNG:
+
+Clindamycin
+
+Theo
+
+Brian J. Werth
+
+,
+
+PharmD
+
+,
+
+University of Washington School of Pharmacy
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 5 2024
+
+v13957477_vi
+
+Dược động học
+
+|
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Sử dụng trong thời kỳ mang thai và cho con bú
+
+|
+
+Tác dụng phụ
+
+|
+
+Liều cân nhắc
+
+|
+
+Clindamycin là
+
+kháng sinh lincosamide
+
+tác động chủ yếu là kìm khuẩn. Nó liên kết với tiểu đơn vị 50S của ribosome, do đó ức chế sự tổng hợp protein của vi khuẩn.
+
+Dược động học của
+
+Clindamycin
+
+Clindamycin được hấp thu tốt bằng đường uống và có thể tiêm vào tĩnh mạch. Clindamycin lan truyền tốt trong dịch cơ thể ngoại trừ dịch não tủy; nó tập trung ở các thực bào. Hầu hết thuốc được chuyển hóa; chất chuyển hóa được bài tiết qua mật và nước tiểu.
+
+Chỉ định của
+
+Clindamycin
+
+Phổ tác dụng của clindamycin tương tự như của macrolide erythromycin (xem bảng
+
+Một số công dụng lâm sàng của Macrolide
+
+)
+
+ngoại trừ
+
+clindamycin
+
+là
+
+Hiệu quả đối với các bệnh nhiễm trùng do
+
+vi khuẩn kỵ khí
+
+(ngoại trừ không có tác dụng đáng tin cậy đối với các loài
+
+Bacteroides
+
+, bao gồm cả
+
+Bacteroides fragilis
+
+, do kháng thuốc), hầu hết các
+
+Staphylococcus aureus
+
+kháng methicillin mắc phải trong cộng đồng và
+
+Streptococcus pneumoniae
+
+nhạy cảm với
+
+clindamycin
+
+, kháng macrolide.
+
+Không đáng tin để dùng chống lại
+
+mycoplasmas
+
+,
+
+chlamydiae
+
+,
+
+Chlamydophila
+
+sp, và
+
+legionellae
+
+trực khuẩn gram âm hiếu khí và enterococci thì kháng.
+
+Clindamycin thường được sử dụng cho nhiễm trùng kỵ khí; tuy nhiên, kháng
+
+clindamycin
+
+đã xuất hiện trong số những sinh vật này, đặc biệt là vi khuẩn kỵ khí gram âm như
+
+B. fragilis
+
+. Bởi vì những bệnh này thường liên quan đến vi khuẩn Gram âm hiếu khí,thêm vào đó là việc sử dụng kháng sinh Clindamycin là một phần của liệu pháp phối hợp cho những trường hợp sau.
+
+Clindamycin
+
+là một phần của liệu pháp phối hợp cho những trường hợp sau:
+
+Với penicillin trong điều trị nhiễm trùng do liên cầu khuẩn gây độc tố (vì
+
+clindamycin
+
+làm giảm khả năng sản sinh độc tố của vi khuẩn)
+
+Với pyrimethamine cho
+
+Toxoplasmosis gây bệnh ở não
+
+Với quinine cho
+
+Babiosis
+
+hoặc
+
+sốt rét falciparum
+
+Với primaquine trong điều trị
+
+viêm phổi do
+
+Pneumocystis jirovecii
+
+Clindamycin
+
+có thể được sử dụng để điều trị các bệnh nhiễm trùng (ví dụ: nhiễm trùng da và mô mềm) ở những cộng đồng thường gặp
+
+Staphylococcus aureus
+
+kháng methicillin (CA-MRSA);
+
+clindamycin
+
+có hữu ích hay không phụ thuộc vào mô hình kháng thuốc tại địa phương.
+
+Clindamycin có thể được sử dụng cho các bệnh nhiễm trùng do các chủng nhạy cảm với
+
+clindamycin
+
+và
+
+erythromycin
+
+. Tuy nhiên, một số chủng CA-MRSA nhạy cảm với
+
+clindamycin
+
+và kháng
+
+erythromycin
+
+; Khả năng kháng erythromycin ở những chủng này có thể là do cơ chế thoát dòng tích cực hoặc do sự thay đổi mục tiêu ribosome. Nếu chủng CA-MRSA nhạy cảm với
+
+clindamycin
+
+lây nhiễm có khả năng kháng
+
+erythromycin
+
+do cơ chế thoát dòng, bệnh nhân có thể đáp ứng với
+
+clindamycin
+
+. Tuy nhiên, nếu chủng kháng
+
+erythromycin
+
+do thay đổi mục tiêu ribosome, bệnh nhân có thể không đáp ứng lâm sàng với
+
+clindamycin
+
+vì một số đột biến nhất định có thể xuất hiện trong quá trình điều trị bằng
+
+clindamycin
+
+; những đột biến này kháng với
+
+clindamycin
+
+và
+
+erythromycin
+
+do biến đổi cấu thành mục tiêu ribosome. (Cấu thành có nghĩa là tình trạng kháng thuốc luôn hiện diện bất kể có hiện diện chất cảm ứng, chẳng hạn như
+
+erythromycin
+
+hay không.)
+
+Sự kháng thuốc erythromycin do dòng chảy có thể được phân biệt với sự thay đổi đích ribosome bằng thí nghiệm khuếch tán đĩa đôi (D test) thường được sử dụng. Đĩa clindamycin được đặt ở khoảng cách tiêu chuẩn với đĩa
+
+erythromycin
+
+trên đĩa thạch có cấy chủng CA-MRSA tiêu chuẩn đang được đề cập. Vùng ức chế mọc (có hình chữ “D”) xung quanh đĩa
+
+clindamycin
+
+, có vùng dẹt gần đĩa
+
+erythromycin
+
+nhất cho thấy khả năng kháng ribosome có thể gây cảm ứng. Những bệnh nhân bị nhiễm trùng từ mức độ trung bình đến nặng với chủng CA-MRSA kháng ribosome có thể gây cảm ứng và xét nghiệm D dương tính không nên điều trị bằng
+
+clindamycin
+
+.
+
+Không thể sử dụng
+
+clindamycin
+
+để điều trị các bệnh nhiễm trùng hệ thần kinh trung ương (trừ bệnh do toxoplasma ở não) vì khả năng thâm nhập vào não và dịch não tủy kém.
+
+clindamycin tại chỗ được sử dụng cho
+
+mụn
+
+trứng cá.
+
+Chống chỉ định với
+
+Clindamycin
+
+Không dùng clindamycin ở những bệnh nhân có phản ứng dị ứng với kháng sinh này, và nên thận trọng khi sử dụng ở những người có tiền sử viêm ruột, viêm loét đại tràng hoặc viêm đại tràng do kháng sinh.
+
+Sử dụng
+
+Clindamycin
+
+trong thời kỳ mang thai và cho con bú
+
+Các nghiên cứu sinh sản động vật với clindamycin không cho thấy nguy cơ đối với thai nhi. Trong các thử nghiệm lâm sàng trên phụ nữ mang thai, dùng
+
+clindamycin
+
+trong ba tháng thứ hai và ba tháng thứ ba của thai kỳ không liên quan đến tăng tần suất bị dị tật bẩm sinh. Nếu có chỉ định về mặt y tế,
+
+clindamycin
+
+có thể được sử dụng trong thời kỳ mang thai.
+
+Clindamycin
+
+đi vào sữa mẹ. Việc sử dụng trong thời kỳ cho con bú sữa mẹ không được khuyến cáo.
+
+Tác dụng bất lợi của
+
+Clindamycin
+
+Ảnh hưởng bất lợi chính của clindamycin là
+
+Tiêu chảy liên quan đến
+
+Clostridioides
+
+(trước đây là
+
+Clostridium)
+
+difficile
+
+(viêm đại tràng màng giả)
+
+Clindamycin
+
+có liên quan chặt chẽ hơn với bệnh viêm đại tràng do
+
+C. difficile
+
+hơn bất kỳ loại kháng sinh nào khác và có cảnh báo rõ ràng về tác dụng bất lợi này. Tiêu chảy liên quan đến
+
+C. difficile
+
+có khả năng xảy ra sau khi dùng
+
+clindamycin
+
+cao hơn khoảng 20 lần so với khi không tiếp xúc với kháng sinh (
+
+1
+
+), trong khi các loại kháng sinh khác, bao gồm fluoroquinolones và cephalosporin, có tỷ lệ mắc
+
+C. difficile
+
+cao hơn khoảng 5 lần đến 10 lần so với không sử dụng kháng sinh (
+
+2
+
+).
+
+Các phản ứng quá mẫn có thể xảy ra. Tác dụng bất lợi thường được báo cáo là phát ban dát sẩn nhẹ đến trung bình, nhưng các phản ứng da nặng, bao gồm hoại tử biểu bì nhiễm độc, cũng đã được báo cáo.
+
+Clindamycin có thể kéo dài khoảng QT, đặc biệt ở những bệnh nhân có nhiều yếu tố nguy cơ kéo dài QT.
+
+Nếu không nuốt thuốc với nước,
+
+clindamycin
+
+có thể gây viêm thực quản.
+
+Tài liệu tham khảo về tác dụng bất lợi
+
+1.
+
+Brown KA, Khanafer N, Daneman N, Fisman DN
+
+. Meta-analysis of antibiotics and the risk of community-associated
+
+Clostridium difficile
+
+infection.
+
+Antimicrob Agents Chemother
+
+. 2013;57(5):2326-2332. doi:10.1128/AAC.02176-12
+
+2.
+
+Miller AC, Arakkal AT, Sewell DK, et al
+
+. Comparison of Different Antibiotics and the Risk for Community-Associated
+
+Clostridioides difficile
+
+Infection: A Case-Control Study.
+
+Open Forum Infect Dis
+
+. 2023;10(8):ofad413. Xuất bản ngày 5 tháng 8 năm 2023. doi:10.1093/ofid/ofad413
+
+Những cân nhắc về liều lượng của
+
+Clindamycin
+
+Không cần điều chỉnh liều đối với suy thận. Clindamycin được cho từ 6 đến 8 giờ.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dược động học củaClindamycin ---
+
+Clindamycin được hấp thu tốt bằng đường uống và có thể tiêm vào tĩnh mạch. Clindamycin lan truyền tốt trong dịch cơ thể ngoại trừ dịch não tủy; nó tập trung ở các thực bào. Hầu hết thuốc được chuyển hóa; chất chuyển hóa được bài tiết qua mật và nước tiểu.
+
+--- 2. Chỉ định củaClindamycin ---
+
+Phổ tác dụng của clindamycin tương tự như của macrolide erythromycin (xem bảngMột số công dụng lâm sàng của Macrolide)ngoại trừclindamycinlàHiệu quả đối với các bệnh nhiễm trùng dovi khuẩn kỵ khí(ngoại trừ không có tác dụng đáng tin cậy đối với các loàiBacteroides, bao gồm cảBacteroides fragilis, do kháng thuốc), hầu hết cácStaphylococcus aureuskháng methicillin mắc phải trong cộng đồng vàStreptococcus pneumoniaenhạy cảm vớiclindamycin, kháng macrolide.Không đáng tin để dùng chống lạimycoplasmas,chlamydiae,Chlamydophilasp, vàlegionellaetrực khuẩn gram âm hiếu khí và enterococci thì kháng.Clindamycin thường được sử dụng cho nhiễm trùng kỵ khí; tuy nhiên, khángclindamycinđã xuất hiện trong số những sinh vật này, đặc biệt là vi khuẩn kỵ khí gram âm nhưB. fragilis. Bởi vì những bệnh này thường liên quan đến vi khuẩn Gram âm hiếu khí,thêm vào đó là việc sử dụng kháng sinh Clindamycin là một phần của liệu pháp phối hợp cho những trường hợp sau.Clindamycinlà một phần của liệu pháp phối hợp cho những trường hợp sau:Với penicillin trong điều trị nhiễm trùng do liên cầu khuẩn gây độc tố (vìclindamycinlàm giảm khả năng sản sinh độc tố của vi khuẩn)Với pyrimethamine choToxoplasmosis gây bệnh ở nãoVới quinine choBabiosishoặcsốt rét falciparumVới primaquine trong điều trịviêm phổi doPneumocystis jiroveciiClindamycincó thể được sử dụng để điều trị các bệnh nhiễm trùng (ví dụ: nhiễm trùng da và mô mềm) ở những cộng đồng thường gặpStaphylococcus aureuskháng methicillin (CA-MRSA);clindamycincó hữu ích hay không phụ thuộc vào mô hình kháng thuốc tại địa phương.Clindamycin có thể được sử dụng cho các bệnh nhiễm trùng do các chủng nhạy cảm vớiclindamycinvàerythromycin. Tuy nhiên, một số chủng CA-MRSA nhạy cảm vớiclindamycinvà khángerythromycin; Khả năng kháng erythromycin ở những chủng này có thể là do cơ chế thoát dòng tích cực hoặc do sự thay đổi mục tiêu ribosome. Nếu chủng CA-MRSA nhạy cảm vớiclindamycinlây nhiễm có khả năng khángerythromycindo cơ chế thoát dòng, bệnh nhân có thể đáp ứng vớiclindamycin. Tuy nhiên, nếu chủng khángerythromycindo thay đổi mục tiêu ribosome, bệnh nhân có thể không đáp ứng lâm sàng vớiclindamycinvì một số đột biến nhất định có thể xuất hiện trong quá trình điều trị bằngclindamycin; những đột biến này kháng vớiclindamycinvàerythromycindo biến đổi cấu thành mục tiêu ribosome. (Cấu thành có nghĩa là tình trạng kháng thuốc luôn hiện diện bất kể có hiện diện chất cảm ứng, chẳng hạn nhưerythromycinhay không.)Sự kháng thuốc erythromycin do dòng chảy có thể được phân biệt với sự thay đổi đích ribosome bằng thí nghiệm khuếch tán đĩa đôi (D test) thường được sử dụng. Đĩa clindamycin được đặt ở khoảng cách tiêu chuẩn với đĩaerythromycintrên đĩa thạch có cấy chủng CA-MRSA tiêu chuẩn đang được đề cập. Vùng ức chế mọc (có hình chữ “D”) xung quanh đĩaclindamycin, có vùng dẹt gần đĩaerythromycinnhất cho thấy khả năng kháng ribosome có thể gây cảm ứng. Những bệnh nhân bị nhiễm trùng từ mức độ trung bình đến nặng với chủng CA-MRSA kháng ribosome có thể gây cảm ứng và xét nghiệm D dương tính không nên điều trị bằngclindamycin.Không thể sử dụngclindamycinđể điều trị các bệnh nhiễm trùng hệ thần kinh trung ương (trừ bệnh do toxoplasma ở não) vì khả năng thâm nhập vào não và dịch não tủy kém.clindamycin tại chỗ được sử dụng chomụntrứng cá.
+
+--- 3. Chống chỉ định vớiClindamycin ---
+
+Không dùng clindamycin ở những bệnh nhân có phản ứng dị ứng với kháng sinh này, và nên thận trọng khi sử dụng ở những người có tiền sử viêm ruột, viêm loét đại tràng hoặc viêm đại tràng do kháng sinh.
+
+--- 4. Sử dụngClindamycintrong thời kỳ mang thai và cho con bú ---
+
+Các nghiên cứu sinh sản động vật với clindamycin không cho thấy nguy cơ đối với thai nhi. Trong các thử nghiệm lâm sàng trên phụ nữ mang thai, dùngclindamycintrong ba tháng thứ hai và ba tháng thứ ba của thai kỳ không liên quan đến tăng tần suất bị dị tật bẩm sinh. Nếu có chỉ định về mặt y tế,clindamycincó thể được sử dụng trong thời kỳ mang thai.Clindamycinđi vào sữa mẹ. Việc sử dụng trong thời kỳ cho con bú sữa mẹ không được khuyến cáo.
+
+--- 5. Tác dụng bất lợi củaClindamycin ---
+
+Ảnh hưởng bất lợi chính của clindamycin làTiêu chảy liên quan đếnClostridioides(trước đây làClostridium)difficile(viêm đại tràng màng giả)Clindamycincó liên quan chặt chẽ hơn với bệnh viêm đại tràng doC. difficilehơn bất kỳ loại kháng sinh nào khác và có cảnh báo rõ ràng về tác dụng bất lợi này. Tiêu chảy liên quan đếnC. difficilecó khả năng xảy ra sau khi dùngclindamycincao hơn khoảng 20 lần so với khi không tiếp xúc với kháng sinh (1), trong khi các loại kháng sinh khác, bao gồm fluoroquinolones và cephalosporin, có tỷ lệ mắcC. difficilecao hơn khoảng 5 lần đến 10 lần so với không sử dụng kháng sinh (2).Các phản ứng quá mẫn có thể xảy ra. Tác dụng bất lợi thường được báo cáo là phát ban dát sẩn nhẹ đến trung bình, nhưng các phản ứng da nặng, bao gồm hoại tử biểu bì nhiễm độc, cũng đã được báo cáo.Clindamycin có thể kéo dài khoảng QT, đặc biệt ở những bệnh nhân có nhiều yếu tố nguy cơ kéo dài QT.Nếu không nuốt thuốc với nước,clindamycincó thể gây viêm thực quản.Tài liệu tham khảo về tác dụng bất lợi1.Brown KA, Khanafer N, Daneman N, Fisman DN. Meta-analysis of antibiotics and the risk of community-associatedClostridium difficileinfection.Antimicrob Agents Chemother. 2013;57(5):2326-2332. doi:10.1128/AAC.02176-122.Miller AC, Arakkal AT, Sewell DK, et al. Comparison of Different Antibiotics and the Risk for Community-AssociatedClostridioides difficileInfection: A Case-Control Study.Open Forum Infect Dis. 2023;10(8):ofad413. Xuất bản ngày 5 tháng 8 năm 2023. doi:10.1093/ofid/ofad413
+
+--- 6. Những cân nhắc về liều lượng củaClindamycin ---
+
+Không cần điều chỉnh liều đối với suy thận. Clindamycin được cho từ 6 đến 8 giờ.

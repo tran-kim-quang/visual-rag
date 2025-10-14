@@ -1,0 +1,309 @@
+TIÊU ĐỀ: Ngoại tâm thu thất (VPB)
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-nhịp-tim-cụ-thể/ngoại-tâm-thu-thất-vpb
+================================================================================
+
+NỘI DUNG:
+
+Ngoại tâm thu thất (VPB)
+
+(Ngoại tâm thu thất; PVC)
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v938397_vi
+
+Nhịp ngoại tâm thu thất (VPB) là các xung động thất đơn lẻ do vòng vào lại bên trong tâm thất hoặc tính tự động bất thường của tế bào tâm thất hoặc tế bào Purkinje. Ngoại tâm thu thất rất phổ biến ở cả người khỏe mạnh và bệnh nhân có bệnh tim thực tổn. Ngoại tâm thu thất có thể không có triệu chứng nhưng cũng có thể gây ra cảm giác đánh trống ngực. Chẩn đoán bằng ECG. Thường không cần phải điều trị.
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+.)
+
+Nhịp ngoại tâm thu thất (VPB), còn gọi là co thắt ngoại tâm thu thất (PVC), có thể xảy ra không đều đặn hoặc theo các khoảng thời gian có thể dự đoán được (ví dụ: mỗi nhịp thứ ba [ba] hoặc thứ hai [hai] một lần). VPB có thể tăng lên khi dùng các chất kích thích (ví dụ như lo lắng, căng thẳng, rượu,
+
+caffeine
+
+, thuốc hoặc thuốc kích thích giao cảm), tình trạng hạ oxy máu hoặc bất thường điện giải. Mặc dù VPB thường lành tính, nhưng nhịp này có thể là biểu hiện của bệnh lý cấu trúc tim. Tăng tần suất của nhịp ngoại tâm thu thất hoặc phức tạp khi tập thể dục có thể chỉ ra tình trạng thiếu máu cơ tim có thể hồi phục. Bệnh nhân bị VPB rất thường xuyên có thể phát triển bệnh cơ tim do VPB có thể hồi phục, đặc biệt là nếu có bệnh cơ tim nền (
+
+1
+
+).
+
+Một số người có cấu trúc tim bình thường vẫn có VPB do sau khử cực muộn qua trung gian cAMP. Nhận ra các vị trí xuất phát thông thường của các nhịp, các VPB vô căn này được gọi là VPB đường ra thất phải hoặc VBP đường ra thất trái (
+
+2
+
+). Các nhịp này thường có hình thái tương tự như
+
+block nhánh trái
+
+và trục thẳng đứng hướng xuống (QRS dương ở chuyển đạo V1, QRS âm ở chuyển đạo AVL và QRS gần đẳng điện ở chuyển đạo I) (xem hình
+
+Nhịp xoang với nhịp ngoại tâm thu thất do ngoại tâm thu đường ra thất phải
+
+).
+
+Ngoại tâm thu có thể gây cảm giác bị bỏ nhịp, hụt nhịp tim; bản thân bệnh nhân thường không cảm giác được nhát ngoại tâm thu đến sớm mà chỉ cảm nhận được khoảng nghỉ bù dài sau nhát ngoại tâm thu đó. Khi VPB xảy ra rất thường xuyên, đặc biệt là khi xảy ra ở mỗi nhịp tim thứ hai, các triệu chứng huyết động nhẹ có thể xảy ra vì nhịp xoang đã giảm đi một nửa một cách hiệu quả. Tiếng thổi tống máu có thể mạnh lên do tăng đổ đầy tâm thất và tăng co bóp sau một khoảng nghỉ bù.
+
+Tài liệu tham khảo chung
+
+1.
+
+Latchamsetty R, Bogun F
+
+: Premature Ventricular Complex-Induced Cardiomyopathy.
+
+JACC Clin Electrophysiol
+
+5(5):537–550, 2019. doi: 10.1016/j.jacep.2019.03.013
+
+2.
+
+Lerman BB
+
+: Mechanism, diagnosis, and treatment of outflow tract tachycardia.
+
+Nat Rev Cardiol
+
+12(10):597–608, 2015. doi: 10.1038/nrcardio.2015.121
+
+Chẩn đoán nhịp ngoại tâm thu thất
+
+ECG
+
+Đôi khi theo dõi ngoại trú 24 giờ và siêu âm tim
+
+Chẩn đoán ngoại tâm thu thất bằng ECG, biểu hiện phức bộ QRS giãn rộng mà không có sóng P đi trước, điển hình thường có khoảng nghỉ bù hoàn toàn. Bệnh nhân có tiền sử (bao gồm tiền sử gia đình), khám thực thể hoặc điện tâm đồ gợi ý có thể có bệnh cấu trúc tim nền nên được theo dõi ngoại trú 24 giờ và siêu âm tim (
+
+1
+
+). Nếu nghi ngờ bệnh tim thiếu máu cục bộ, một
+
+nghiệm pháp gắng sức
+
+sẽ được thực hiện nhằm mục đích chẩn đoán và xác định việc cần thiết phải kiểm tra thêm để đánh giá mức độ nặng của bệnh động mạch vành và khả năng tái thông mạch vành (
+
+1
+
+).
+
+Nhịp ngoại tâm thu thất
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Nhịp xoang có nhịp ngoại tâm thu thất do ngoại tâm thu thất do đường...
+
+Hình ảnh
+
+Hình ảnh do bác sĩ L. Brent Mitchell cung cấp
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Pedersen CT, Kay GN, Kalman J, et al
+
+: EHRA/HRS/APHRS expert consensus on ventricular arrhythmias.
+
+Heart Rhythm
+
+11(10):e166–e196, 2014. doi: 10.1016/j.hrthm.2014.07.024
+
+Điều trị nhịp ngoại tâm thu thất
+
+Thuốc chẹn beta hoặc thuốc đối kháng canxi không dihydropyridine cho bệnh nhân có các triệu chứng khó chịu
+
+Hiếm khi dùng, thuốc chống loạn nhịp loại I hoặc loại III
+
+Hiếm khi triệt đốt
+
+Trong trường hợp không có bệnh tim cấu trúc, VPB sớm không có triệu chứng hoặc có triệu chứng nhẹ có tiên lượng lành tính và không cần điều trị nào khác ngoài việc trấn an (
+
+1
+
+). Việc điều trị VPB chỉ cần thiết để làm giảm các triệu chứng khó chịu.
+
+Điều trị bắt đầu bằng thuốc chẹn beta hoặc thuốc đối kháng canxi không dihydropyridine (verapamil hoặc diltiazem). Những loại thuốc này đặc biệt hiệu quả ở những bệnh nhân bị VPB đường ra thất phải hoặc thất trái (
+
+1
+
+). Thuốc chống loạn nhịp nhóm I hoặc nhóm III có thể làm tăng nguy cơ tử vong và không thường được sử dụng ở những bệnh nhân có bệnh tim cấu trúc. Để giúp ngăn ngừa và/hoặc đảo ngược bệnh cơ tim do VPB, bệnh nhân bị VPB kháng thuốc và rối loạn chức năng tâm thu thất tiến triển được điều trị bằng phương pháp
+
+triệt đốt qua ống thông
+
+(
+
+2
+
+). Triệt đốt cũng có thể được thực hiện nếu không thể chịu đựng được các triệu chứng (
+
+1
+
+). Triệt đốt đặc biệt hiệu quả ở những bệnh nhân có VPB dòng ra thất phải hoặc thất trái (
+
+1
+
+).
+
+Ở những bệnh nhân bị bệnh cấu trúc tim, VPB thường xuyên (
+
+>
+
+10 lần/phút) có liên quan đến tăng tỷ lệ tử vong. Tuy nhiên, chưa có nghiên cứu nào chứng minh rằng việc ức chế bằng thuốc có thể làm giảm tỷ lệ tử vong.
+
+Bệnh nhân trong giai đoạn sau nhồi máu cơ tim có tỷ lệ tử vong cao hơn khi được điều trị bằng
+
+thuốc chống loạn nhịp nhóm I
+
+so với giả dược (
+
+3
+
+). Tác động này có thể phản ánh tác dụng phụ của thuốc chống loạn nhịp. Thuốc chẹn beta (
+
+thuốc chống loạn nhịp nhóm II
+
+) nên được sử dụng nếu được chỉ định như một phần của liệu pháp điều trị theo hướng dẫn cho bệnh tim cấu trúc nền. Thuốc này có lợi trong suy tim có triệu chứng hoặc nếu cần để giảm các triệu chứng do VPB. Thuốc đối kháng canxi không  dihydropyridine (verapamil, diltiazem) không nên được sử dụng ở những bệnh nhân có chức năng tâm thu thất trái giảm đáng kể. Nếu VPB tăng lên trong quá trình tập thể dục ở bệnh nhân mắc
+
+bệnh động mạch vành
+
+, cần cân nhắc đánh giá
+
+phẫu thuật nong động mạch vành qua da
+
+hoặc
+
+phẫu thuật bắc cầu động mạch vành
+
+(
+
+1
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Pedersen CT, Kay GN, Kalman J, et al
+
+: EHRA/HRS/APHRS expert consensus on ventricular arrhythmias.
+
+Heart Rhythm
+
+11(10):e166–e196, 2014. doi: 10.1016/j.hrthm.2014.07.024
+
+2.
+
+Latchamsetty R, Bogun F
+
+: Premature Ventricular Complex-Induced Cardiomyopathy.
+
+JACC Clin Electrophysiol
+
+5(5):537–550, 2019. doi: 10.1016/j.jacep.2019.03.013
+
+3.
+
+Echt DS, Liebson PR, Mitchell LB, et al
+
+: Mortality and morbidity in patients receiving
+
+encainide
+
+,
+
+flecainide
+
+, or placebo. The Cardiac Arrhythmia Suppression Trial.
+
+N Engl J Med
+
+324(12):781–788, 1991. doi: 10.1056/NEJM199103213241201
+
+Tiên lượng về nhịp ngoại tâm thu thất
+
+Ngoại tâm thu thất thường không gây ảnh hưởng ở những bệnh nhân không có bệnh tim thực tổn, những trường hợp này thường chỉ cần tránh các tác nhân kích thích mà không cần điều trị gì đặc hiệu. Điều trị chỉ được áp dụng nếu không thể chịu đựng được các triệu chứng hoặc nếu VPB xảy ra rất thường xuyên và gây ra tình trạng mất đồng bộ trong thất, dẫn đến bệnh cơ tim kèm theo suy tim. Các thuốc chống loạn nhịp khác làm giảm ngoại tâm thu thất nhưng làm tăng nguy cơ mắc các loạn nhịp nghiêm trọng hơn.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Ngoại tâm thu thất; PVC) ---
+
+TheoL. Brent Mitchell,MD,Libin Cardiovascular Institute, University of CalgaryXem xét bởiJonathan G. Howlett,MD,Cumming School of Medicine, University of CalgaryĐã xem xét/Đã chỉnh sửađã sửa đổiThg 9 2024v938397_vi
+
+--- 2. Chẩn đoán nhịp ngoại tâm thu thất ---
+
+ECGĐôi khi theo dõi ngoại trú 24 giờ và siêu âm timChẩn đoán ngoại tâm thu thất bằng ECG, biểu hiện phức bộ QRS giãn rộng mà không có sóng P đi trước, điển hình thường có khoảng nghỉ bù hoàn toàn. Bệnh nhân có tiền sử (bao gồm tiền sử gia đình), khám thực thể hoặc điện tâm đồ gợi ý có thể có bệnh cấu trúc tim nền nên được theo dõi ngoại trú 24 giờ và siêu âm tim (1). Nếu nghi ngờ bệnh tim thiếu máu cục bộ, mộtnghiệm pháp gắng sứcsẽ được thực hiện nhằm mục đích chẩn đoán và xác định việc cần thiết phải kiểm tra thêm để đánh giá mức độ nặng của bệnh động mạch vành và khả năng tái thông mạch vành (1).Nhịp ngoại tâm thu thấtHình ảnh© Springer Science+Business MediaNhịp xoang có nhịp ngoại tâm thu thất do ngoại tâm thu thất do đường...Hình ảnhHình ảnh do bác sĩ L. Brent Mitchell cung cấpTài liệu tham khảo chẩn đoán1.Pedersen CT, Kay GN, Kalman J, et al: EHRA/HRS/APHRS expert consensus on ventricular arrhythmias.Heart Rhythm11(10):e166–e196, 2014. doi: 10.1016/j.hrthm.2014.07.024
+
+--- 3. Điều trị nhịp ngoại tâm thu thất ---
+
+Thuốc chẹn beta hoặc thuốc đối kháng canxi không dihydropyridine cho bệnh nhân có các triệu chứng khó chịuHiếm khi dùng, thuốc chống loạn nhịp loại I hoặc loại IIIHiếm khi triệt đốtTrong trường hợp không có bệnh tim cấu trúc, VPB sớm không có triệu chứng hoặc có triệu chứng nhẹ có tiên lượng lành tính và không cần điều trị nào khác ngoài việc trấn an (1). Việc điều trị VPB chỉ cần thiết để làm giảm các triệu chứng khó chịu.Điều trị bắt đầu bằng thuốc chẹn beta hoặc thuốc đối kháng canxi không dihydropyridine (verapamil hoặc diltiazem). Những loại thuốc này đặc biệt hiệu quả ở những bệnh nhân bị VPB đường ra thất phải hoặc thất trái (1). Thuốc chống loạn nhịp nhóm I hoặc nhóm III có thể làm tăng nguy cơ tử vong và không thường được sử dụng ở những bệnh nhân có bệnh tim cấu trúc. Để giúp ngăn ngừa và/hoặc đảo ngược bệnh cơ tim do VPB, bệnh nhân bị VPB kháng thuốc và rối loạn chức năng tâm thu thất tiến triển được điều trị bằng phương pháptriệt đốt qua ống thông(2). Triệt đốt cũng có thể được thực hiện nếu không thể chịu đựng được các triệu chứng (1). Triệt đốt đặc biệt hiệu quả ở những bệnh nhân có VPB dòng ra thất phải hoặc thất trái (1).Ở những bệnh nhân bị bệnh cấu trúc tim, VPB thường xuyên (>10 lần/phút) có liên quan đến tăng tỷ lệ tử vong. Tuy nhiên, chưa có nghiên cứu nào chứng minh rằng việc ức chế bằng thuốc có thể làm giảm tỷ lệ tử vong.Bệnh nhân trong giai đoạn sau nhồi máu cơ tim có tỷ lệ tử vong cao hơn khi được điều trị bằngthuốc chống loạn nhịp nhóm Iso với giả dược (3). Tác động này có thể phản ánh tác dụng phụ của thuốc chống loạn nhịp. Thuốc chẹn beta (thuốc chống loạn nhịp nhóm II) nên được sử dụng nếu được chỉ định như một phần của liệu pháp điều trị theo hướng dẫn cho bệnh tim cấu trúc nền. Thuốc này có lợi trong suy tim có triệu chứng hoặc nếu cần để giảm các triệu chứng do VPB. Thuốc đối kháng canxi không  dihydropyridine (verapamil, diltiazem) không nên được sử dụng ở những bệnh nhân có chức năng tâm thu thất trái giảm đáng kể. Nếu VPB tăng lên trong quá trình tập thể dục ở bệnh nhân mắcbệnh động mạch vành, cần cân nhắc đánh giáphẫu thuật nong động mạch vành qua dahoặcphẫu thuật bắc cầu động mạch vành(1).Tài liệu tham khảo về điều trị1.Pedersen CT, Kay GN, Kalman J, et al: EHRA/HRS/APHRS expert consensus on ventricular arrhythmias.Heart Rhythm11(10):e166–e196, 2014. doi: 10.1016/j.hrthm.2014.07.0242.Latchamsetty R, Bogun F: Premature Ventricular Complex-Induced Cardiomyopathy.JACC Clin Electrophysiol5(5):537–550, 2019. doi: 10.1016/j.jacep.2019.03.0133.Echt DS, Liebson PR, Mitchell LB, et al: Mortality and morbidity in patients receivingencainide,flecainide, or placebo. The Cardiac Arrhythmia Suppression Trial.N Engl J Med324(12):781–788, 1991. doi: 10.1056/NEJM199103213241201
+
+--- 4. Tiên lượng về nhịp ngoại tâm thu thất ---
+
+Ngoại tâm thu thất thường không gây ảnh hưởng ở những bệnh nhân không có bệnh tim thực tổn, những trường hợp này thường chỉ cần tránh các tác nhân kích thích mà không cần điều trị gì đặc hiệu. Điều trị chỉ được áp dụng nếu không thể chịu đựng được các triệu chứng hoặc nếu VPB xảy ra rất thường xuyên và gây ra tình trạng mất đồng bộ trong thất, dẫn đến bệnh cơ tim kèm theo suy tim. Các thuốc chống loạn nhịp khác làm giảm ngoại tâm thu thất nhưng làm tăng nguy cơ mắc các loạn nhịp nghiêm trọng hơn.

@@ -1,0 +1,619 @@
+TIÊU ĐỀ: Các giá trị xét nghiệm bình thường
+URL: https://www.msdmanuals.com/vi/professional/tài-nguyên/các-giá-trị-xét-nghiệm-bình-thường/các-giá-trị-xét-nghiệm-bình-thường
+================================================================================
+
+NỘI DUNG:
+
+Các giá trị xét nghiệm bình thường
+
+Theo
+
+Jude Abadie
+
+,
+
+PhD
+
+,
+
+Texas Tech University Health Science Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 8 2024
+
+v1645725_vi
+
+Xét nghiệm máu, nước tiểu và dịch não tủy (CSF): Các giá trị bình thường
+
+|
+
+Các bộ xét nghiệm thường quy
+
+|
+
+Theo dõi thuốc điều trị
+
+|
+
+Phạm vi tham chiếu trong phòng thí nghiệm (thường được gọi là giá trị tham chiếu hoặc khoảng tham chiếu) đối với máu, nước tiểu, dịch não tủy (CSF), phân và các chất lỏng khác thay đổi tùy theo một số yếu tố, bao gồm đặc điểm nhân khẩu học của quần thể khỏe mạnh mà mẫu xét nghiệm được lấy và các phương pháp và/hoặc dụng cụ cụ thể được sử dụng để phân tích các mẫu xét nghiệm này.
+
+Xem
+
+Hội đồng Y khoa Nội khoa Hoa Kỳ (ABIM)
+
+để biết danh sách đầy đủ các giá trị phạm vi tham chiếu xét nghiệm trong phòng thí nghiệm.
+
+Các phòng thí nghiệm được công nhận bởi Hội đồng Bệnh học Hoa Kỳ (CAP), Tu chính án Cải tiến Phòng thí nghiệm Lâm sàng (CLIA), Ủy ban Công nhận Phòng thí nghiệm (COLA) hoặc Cục Quản lý Thực phẩm và Dược phẩm (FDA) được yêu cầu thiết lập và/hoặc xác nhận phạm vi tham chiếu của riêng họ đối với các xét nghiệm được FDA chấp thuận và đối với các xét nghiệm do phòng thí nghiệm phát triển (LDT). Vì vậy, bất kỳ kết quả nào cũng phải được diễn giải dựa trên phạm vi tham chiếu của phòng xét nghiệm nơi tiến hành xét nghiệm. Thông thường, phòng thí nghiệm sẽ cung cấp các giá trị tham chiếu này cùng với kết quả xét nghiệm. Phạm vi tham chiếu cho các loại dịch cơ thể khác (ví dụ: dịch hoạt dịch, phúc mạc, màng phổi, màng ngoài tim) vẫn chưa được thiết lập rộng rãi. Do đó, các xét nghiệm này có thể được coi là LDT. Phạm vi tham chiếu chất phân tích từ LDT được thiết lập bởi mỗi phòng thí nghiệm thực hiện thử nghiệm và thường thay đổi nhiều hơn so với phạm vi tham chiếu được FDA chấp thuận.
+
+Phạm vi tham chiếu được xác định bằng cách sử dụng một nhóm cá nhân khỏe mạnh trong bối cảnh chất phân tích được đo. Ví dụ: phạm vi tham chiếu cho glucose theo nhóm tuổi và giới tính nên được xác định trong một quần thể tương ứng gồm những người không mắc bệnh đi kèm liên quan đến bệnh tiểu đường. Mục tiêu chính trong việc xác định phạm vi tham chiếu là xác định các giá trị xét nghiệm trong phòng thí nghiệm phân biệt giữa những bệnh nhân có và không có tình trạng lâm sàng đang được đánh giá.
+
+Khi xác định phạm vi tham chiếu, điều quan trọng là phải đánh giá những thay đổi sinh lý dự kiến ​​trong bối cảnh của nhóm bệnh nhân cụ thể (ví dụ: tuổi, giới tính, thai kỳ, mãn kinh, sự thay đổi thời gian lấy mẫu, vị trí địa lý). Các phòng xét nghiệm lâm sàng xem xét tất cả các yếu tố này khi thiết lập hoặc xác nhận phạm vi tham chiếu.
+
+Mặc dù phạm vi tham chiếu thường không cho phép phân biệt 100% giữa sức khỏe và bệnh tật, nhưng các phạm vi này thường đại diện cho 95% dân số khỏe mạnh. Để thiết lập phạm vi tham chiếu, khuyến nghị các phòng thí nghiệm sử dụng ít nhất 120 cá thể tham chiếu từ quần thể. Tuy nhiên, khi xác nhận các phạm vi tham chiếu đã được thiết lập, hầu hết các phòng thí nghiệm sử dụng 40 mẫu từ quần thể tham chiếu. Hiểu biết về cách các phạm vi tham chiếu được suy ra và chấp nhận cùng với sự không chính xác vốn có có thể giúp hướng dẫn việc giải thích lâm sàng và quản lý bệnh nhân.
+
+Xét nghiệm máu, nước tiểu và dịch não tủy (CSF): Các giá trị bình thường
+
+Phạm vi tham chiếu cho xét nghiệm máu, nước tiểu và dịch não tủy (CSF) thay đổi tùy thuộc vào một số yếu tố, bao gồm cả phòng xét nghiệm cụ thể cung cấp các phạm vi đó. Giá trị xét nghiệm của bệnh nhân phải được diễn giải dựa trên phạm vi tham chiếu của phòng xét nghiệm nơi tiến hành xét nghiệm; thông thường phòng xét nghiệm sẽ cung cấp những giá trị này cùng với kết quả xét nghiệm.
+
+Hội đồng Y khoa Nội khoa Hoa Kỳ (ABIM)
+
+cung cấp danh sách đầy đủ các phạm vi tham chiếu xét nghiệm trong phòng thí nghiệm.
+
+Các bộ xét nghiệm thường quy
+
+Một số nhóm xét nghiệm (bảng) thường được sử dụng để đánh giá tình trạng sức khoẻ nói chung hoặc để giúp chẩn đoán một rối loạn nghi ngờ. Những tấm này thường được chuẩn hóa. Ví dụ, bảng chuyển hóa cơ bản (BMP) thường có 8 xét nghiệm, được sử dụng để đánh giá chất điện giải, glucose, canxi và chức năng thận.
+
+Bảng
+
+Các bộ xét nghiệm hay được sử dụng*
+
+Các bộ xét nghiệm hay được sử dụng*
+
+Kiểm tra
+
+CMP
+
+RFP
+
+BMP
+
+ELEC
+
+HFPA
+
+LPP
+
+AHP
+
+Albumin
+
+Có
+
+Có
+
+Không
+
+Không
+
+Có
+
+Không
+
+Không
+
+Phosphatase kiềm
+
+Có
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Không
+
+Aminotransferase alanin (ALT)
+
+Có
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Không
+
+Aminotransferase aspartate (AST)
+
+Có
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Không
+
+Bilirubin trực tiếp
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Không
+
+Bilirubin toàn phần
+
+Có
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Không
+
+Canxi
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Không
+
+Carbon dioxide
+
+Có
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Chloride
+
+Có
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Cholesterol toàn phần
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Cholesterol, HDL
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Creatinine
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Không
+
+Glucose, lúc đói
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Không
+
+Kháng thể viêm gan A IgM
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Kháng thể viêm gan B IgM
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Kháng nguyên bề mặt viêm gan B
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Kháng thể viêm gan C
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Phốt pho
+
+Không
+
+Có
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Kali
+
+Có
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Protein toàn phần
+
+Có
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Không
+
+Natri
+
+Có
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Triglycerides*
+
+Không
+
+Không
+
+Không
+
+Không
+
+Không
+
+Có
+
+Không
+
+Nitơ
+
+urê
+
+(BUN)
+
+Có
+
+Có
+
+Có
+
+Không
+
+Không
+
+Không
+
+Không
+
+* Bao gồm tính toán tỷ lệ nguy cơ và lipoprotein tỷ trọng thấp (LDL).
+
+AHP = bộ xét nghiệm viêm gan cấp; BMP = bộ xét nghiệm chuyển hóa cơ bản; CMP = bộ xét nghiệm chuyển hóa toàn diện; ELEC = bộ xét nghiệm điện giải; HDL = lipoprotein trọng lượng phân tử cao; HFPA = bộ xét nghiệm chức năng gan; LPP = bộ xét nghiệm mỡ máu; RFP = bộ xét nghiệm chức năng thận; SGOT = transaminase glutamic-oxaloacetic huyết thanh; SGPT = transaminase glutamatic-pyruvic huyết thanh. Cũng tham khảo
+
+Bảng xét nghiệm Medicare của Hiệp hội Y khoa Hoa Kỳ
+
+.
+
+* Bao gồm tính toán tỷ lệ nguy cơ và lipoprotein tỷ trọng thấp (LDL).
+
+AHP = bộ xét nghiệm viêm gan cấp; BMP = bộ xét nghiệm chuyển hóa cơ bản; CMP = bộ xét nghiệm chuyển hóa toàn diện; ELEC = bộ xét nghiệm điện giải; HDL = lipoprotein trọng lượng phân tử cao; HFPA = bộ xét nghiệm chức năng gan; LPP = bộ xét nghiệm mỡ máu; RFP = bộ xét nghiệm chức năng thận; SGOT = transaminase glutamic-oxaloacetic huyết thanh; SGPT = transaminase glutamatic-pyruvic huyết thanh. Cũng tham khảo
+
+Bảng xét nghiệm Medicare của Hiệp hội Y khoa Hoa Kỳ
+
+.
+
+Theo dõi thuốc điều trị
+
+Theo dõi thuốc điều trị (TDM) là đánh giá và diễn giải lâm sàng nồng độ thuốc mục tiêu tại các thời điểm được chỉ định nhằm duy trì nồng độ thuốc cụ thể trong hệ tuần hoàn của bệnh nhân. Mức độ cụ thể này là mục tiêu để tối ưu hóa liều lượng và kết quả điều trị. Nguyên tắc TDM chủ yếu được sử dụng để đánh giá hiệu quả của thuốc có phạm vi điều trị hẹp, tính thay đổi về hiệu quả của thuốc ở các nồng độ khác nhau và các kết quả bất lợi hoặc độc hại có thể xảy ra khi không đạt được nồng độ mục tiêu. TDM dựa vào mối quan hệ dược lý giữa liều lượng thuốc và nồng độ lưu thông cần thiết để đạt hiệu quả tối ưu.
+
+Quá trình TDM bắt đầu khi bắt đầu kê đơn và sau đó bao gồm việc xác định liều lượng trong bối cảnh biểu hiện lâm sàng, tuổi tác, cân nặng, bệnh đi kèm và liệu pháp thuốc đồng thời của bệnh nhân.
+
+Các yếu tố như là liều thuốc và thời gian lấy mẫu, đáp ứng của bệnh nhân và kết quả y tế mong muốn đều có liên quan đến việc giải thích TDM. Mục tiêu chính của TDM là đạt được nồng độ thuốc chính xác để hướng tới kết quả lâm sàng tối ưu nhất trong bối cảnh chăm sóc bệnh nhân được cá nhân hóa.
+
+Bảng
+
+Phạm vi tham chiếu xét nghiệm: Theo dõi thuốc điều trị*
+
+Phạm vi tham chiếu xét nghiệm: Theo dõi thuốc điều trị*
+
+Thuốc điều trị
+
+Phạm vi tham chiếu thấp
+
+Phạm vi tham chiếu cao
+
+Giá trị cao nghiêm trọng
+
+Carbamazepine
+
+4,0 mcg/mL
+
+12,0 mcg/mL
+
+≥ 15,0 mcg/mL
+
+Digoxin
+
+0,8 mg/dL
+
+2,0 mg/dL
+
+≥ 2,1 mg/dL
+
+Gentamicin
+
+Đáy: 1,0 mcg/mL
+
+Đỉnh: 5,0 mcg/mL
+
+Đáy: 1,9 mcg/mL
+
+Đỉnh: 8,0 mcg/mL
+
+Đáy: ≥ 2,0 mcg/mL
+
+Đỉnh: ≥ 12,0 mcg/mL
+
+Ngẫu nhiên: ≥ 2,0 mcg/mL
+
+Phenobarbital
+
+10,0 mcg/mL
+
+30,0 mcg/mL
+
+≥ 50,0 mcg/mL
+
+Phenytoin
+
+10,0 mcg/mL
+
+20,0 mcg/mL
+
+≥ 25,0 mcg/mL
+
+Tobramycin
+
+—
+
+Đáy: 0,5 mcg/mL
+
+Đỉnh: 6,0 mcg/mL
+
+—
+
+Đáy: 2,0 mcg/mL
+
+Đỉnh: 9,9 mcg/mL
+
+Ngẫu nhiên: ≥ 2,0 mcg/mL
+
+Đáy: ≥ 2,0 mcg/mL
+
+Đỉnh: ≥ 10,0 mcg/mL
+
+Axit valproic
+
+50 mcg/mL
+
+99 mcg/mL
+
+≥ 100 mcg/mL
+
+Vancomycin
+
+—
+
+Đáy: 5 mcg/mL
+
+Đỉnh: 20 mcg/mL
+
+—
+
+Đáy: 10 mcg/mL
+
+Đỉnh: 40 mcg/mL
+
+≥ 30 mcg/mL
+
+Đáy ≥ 30 mcg/mL
+
+Đỉnh ≥ 80 mcg/mL
+
+* Tất cả các giá trị đều dành cho mẫu huyết thanh lithium-heparin.
+
+* Tất cả các giá trị đều dành cho mẫu huyết thanh lithium-heparin.
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Xét nghiệm máu, nước tiểu và dịch não tủy (CSF): Các giá trị bình thường ---
+
+Phạm vi tham chiếu cho xét nghiệm máu, nước tiểu và dịch não tủy (CSF) thay đổi tùy thuộc vào một số yếu tố, bao gồm cả phòng xét nghiệm cụ thể cung cấp các phạm vi đó. Giá trị xét nghiệm của bệnh nhân phải được diễn giải dựa trên phạm vi tham chiếu của phòng xét nghiệm nơi tiến hành xét nghiệm; thông thường phòng xét nghiệm sẽ cung cấp những giá trị này cùng với kết quả xét nghiệm.Hội đồng Y khoa Nội khoa Hoa Kỳ (ABIM)cung cấp danh sách đầy đủ các phạm vi tham chiếu xét nghiệm trong phòng thí nghiệm.
+
+--- 2. Các bộ xét nghiệm thường quy ---
+
+Một số nhóm xét nghiệm (bảng) thường được sử dụng để đánh giá tình trạng sức khoẻ nói chung hoặc để giúp chẩn đoán một rối loạn nghi ngờ. Những tấm này thường được chuẩn hóa. Ví dụ, bảng chuyển hóa cơ bản (BMP) thường có 8 xét nghiệm, được sử dụng để đánh giá chất điện giải, glucose, canxi và chức năng thận.BảngCác bộ xét nghiệm hay được sử dụng*Các bộ xét nghiệm hay được sử dụng*Kiểm traCMPRFPBMPELECHFPALPPAHPAlbuminCóCóKhôngKhôngCóKhôngKhôngPhosphatase kiềmCóKhôngKhôngKhôngCóKhôngKhôngAminotransferase alanin (ALT)CóKhôngKhôngKhôngCóKhôngKhôngAminotransferase aspartate (AST)CóKhôngKhôngKhôngCóKhôngKhôngBilirubin trực tiếpKhôngKhôngKhôngKhôngCóKhôngKhôngBilirubin toàn phầnCóKhôngKhôngKhôngCóKhôngKhôngCanxiCóCóCóKhôngKhôngKhôngKhôngCarbon dioxideCóCóCóCóKhôngKhôngKhôngChlorideCóCóCóCóKhôngKhôngKhôngCholesterol toàn phầnKhôngKhôngKhôngKhôngKhôngCóKhôngCholesterol, HDLKhôngKhôngKhôngKhôngKhôngCóKhôngCreatinineCóCóCóKhôngKhôngKhôngKhôngGlucose, lúc đóiCóCóCóKhôngKhôngKhôngKhôngKháng thể viêm gan A IgMKhôngKhôngKhôngKhôngKhôngKhôngCóKháng thể viêm gan B IgMKhôngKhôngKhôngKhôngKhôngKhôngCóKháng nguyên bề mặt viêm gan BKhôngKhôngKhôngKhôngKhôngKhôngCóKháng thể viêm gan CKhôngKhôngKhôngKhôngKhôngKhôngCóPhốt phoKhôngCóKhôngKhôngKhôngKhôngKhôngKaliCóCóCóCóKhôngKhôngKhôngProtein toàn phầnCóKhôngKhôngKhôngCóKhôngKhôngNatriCóCóCóCóKhôngKhôngKhôngTriglycerides*KhôngKhôngKhôngKhôngKhôngCóKhôngNitơurê(BUN)CóCóCóKhôngKhôngKhôngKhông* Bao gồm tính toán tỷ lệ nguy cơ và lipoprotein tỷ trọng thấp (LDL).AHP = bộ xét nghiệm viêm gan cấp; BMP = bộ xét nghiệm chuyển hóa cơ bản; CMP = bộ xét nghiệm chuyển hóa toàn diện; ELEC = bộ xét nghiệm điện giải; HDL = lipoprotein trọng lượng phân tử cao; HFPA = bộ xét nghiệm chức năng gan; LPP = bộ xét nghiệm mỡ máu; RFP = bộ xét nghiệm chức năng thận; SGOT = transaminase glutamic-oxaloacetic huyết thanh; SGPT = transaminase glutamatic-pyruvic huyết thanh. Cũng tham khảoBảng xét nghiệm Medicare của Hiệp hội Y khoa Hoa Kỳ.* Bao gồm tính toán tỷ lệ nguy cơ và lipoprotein tỷ trọng thấp (LDL).AHP = bộ xét nghiệm viêm gan cấp; BMP = bộ xét nghiệm chuyển hóa cơ bản; CMP = bộ xét nghiệm chuyển hóa toàn diện; ELEC = bộ xét nghiệm điện giải; HDL = lipoprotein trọng lượng phân tử cao; HFPA = bộ xét nghiệm chức năng gan; LPP = bộ xét nghiệm mỡ máu; RFP = bộ xét nghiệm chức năng thận; SGOT = transaminase glutamic-oxaloacetic huyết thanh; SGPT = transaminase glutamatic-pyruvic huyết thanh. Cũng tham khảoBảng xét nghiệm Medicare của Hiệp hội Y khoa Hoa Kỳ.
+
+--- 3. Theo dõi thuốc điều trị ---
+
+Theo dõi thuốc điều trị (TDM) là đánh giá và diễn giải lâm sàng nồng độ thuốc mục tiêu tại các thời điểm được chỉ định nhằm duy trì nồng độ thuốc cụ thể trong hệ tuần hoàn của bệnh nhân. Mức độ cụ thể này là mục tiêu để tối ưu hóa liều lượng và kết quả điều trị. Nguyên tắc TDM chủ yếu được sử dụng để đánh giá hiệu quả của thuốc có phạm vi điều trị hẹp, tính thay đổi về hiệu quả của thuốc ở các nồng độ khác nhau và các kết quả bất lợi hoặc độc hại có thể xảy ra khi không đạt được nồng độ mục tiêu. TDM dựa vào mối quan hệ dược lý giữa liều lượng thuốc và nồng độ lưu thông cần thiết để đạt hiệu quả tối ưu.Quá trình TDM bắt đầu khi bắt đầu kê đơn và sau đó bao gồm việc xác định liều lượng trong bối cảnh biểu hiện lâm sàng, tuổi tác, cân nặng, bệnh đi kèm và liệu pháp thuốc đồng thời của bệnh nhân.Các yếu tố như là liều thuốc và thời gian lấy mẫu, đáp ứng của bệnh nhân và kết quả y tế mong muốn đều có liên quan đến việc giải thích TDM. Mục tiêu chính của TDM là đạt được nồng độ thuốc chính xác để hướng tới kết quả lâm sàng tối ưu nhất trong bối cảnh chăm sóc bệnh nhân được cá nhân hóa.BảngPhạm vi tham chiếu xét nghiệm: Theo dõi thuốc điều trị*Phạm vi tham chiếu xét nghiệm: Theo dõi thuốc điều trị*Thuốc điều trịPhạm vi tham chiếu thấpPhạm vi tham chiếu caoGiá trị cao nghiêm trọngCarbamazepine4,0 mcg/mL12,0 mcg/mL≥ 15,0 mcg/mLDigoxin0,8 mg/dL2,0 mg/dL≥ 2,1 mg/dLGentamicinĐáy: 1,0 mcg/mLĐỉnh: 5,0 mcg/mLĐáy: 1,9 mcg/mLĐỉnh: 8,0 mcg/mLĐáy: ≥ 2,0 mcg/mLĐỉnh: ≥ 12,0 mcg/mLNgẫu nhiên: ≥ 2,0 mcg/mLPhenobarbital10,0 mcg/mL30,0 mcg/mL≥ 50,0 mcg/mLPhenytoin10,0 mcg/mL20,0 mcg/mL≥ 25,0 mcg/mLTobramycin—Đáy: 0,5 mcg/mLĐỉnh: 6,0 mcg/mL—Đáy: 2,0 mcg/mLĐỉnh: 9,9 mcg/mLNgẫu nhiên: ≥ 2,0 mcg/mLĐáy: ≥ 2,0 mcg/mLĐỉnh: ≥ 10,0 mcg/mLAxit valproic50 mcg/mL99 mcg/mL≥ 100 mcg/mLVancomycin—Đáy: 5 mcg/mLĐỉnh: 20 mcg/mL—Đáy: 10 mcg/mLĐỉnh: 40 mcg/mL≥ 30 mcg/mLĐáy ≥ 30 mcg/mLĐỉnh ≥ 80 mcg/mL* Tất cả các giá trị đều dành cho mẫu huyết thanh lithium-heparin.* Tất cả các giá trị đều dành cho mẫu huyết thanh lithium-heparin.

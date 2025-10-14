@@ -1,0 +1,1289 @@
+TIÊU ĐỀ: COVID-19
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/covid-19/covid-19
+================================================================================
+
+NỘI DUNG:
+
+COVID-19
+
+(nhiễm SARS-CoV-2)
+
+Theo
+
+Sophie Katz
+
+,
+
+MD, MPH
+
+,
+
+Vanderbilt University Medical Center
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 7 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v58251886_vi
+
+COVID-19 là bệnh về đường hô hấp do coronavirus SARS-CoV-2 gây ra. Nhiễm bệnh có thể không có triệu chứng hoặc có các triệu chứng từ triệu chứng nhẹ ở đường hô hấp trên đến suy hô hấp cấp tính và tử vong. COVID-19 có thể liên quan đến nhiều hệ thống cơ quan (ví dụ: tim, thận, thần kinh, đông máu). Phòng ngừa bằng cách tiêm phòng và các biện pháp phòng ngừa kiểm soát lây nhiễm (ví dụ: đeo khẩu trang, rửa tay, giãn cách xã hội, cách ly y tế những người bị nhiễm bệnh). Chẩn đoán bằng xét nghiệm kháng nguyên hoặc PCR (phản ứng chuỗi polymerase) đối với chất tiết đường hô hấp trên hoặc dưới. Điều trị bằng cách chăm sóc hỗ trợ, dùng thuốc kháng vi rút hoặc corticosteroid.
+
+Đường lây truyền
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Nhiễm bệnh hậu COVID-19
+
+|
+
+Phòng ngừa
+
+|
+
+Thông tin thêm
+
+|
+
+SARS-CoV-2
+
+Mô hình 3D
+
+COVID-19 được báo cáo lần đầu tiên vào cuối năm 2019 tại Vũ Hán, Trung Quốc và được Tổ chức Y tế Thế giới (WHO) tuyên bố là đại dịch vào tháng 3 năm 2020. Nó do SARS-CoV-2, một loại coronavirus được phát hiện vào năm 2019, gây ra. Nhiễm SARS-CoV-2 gây ra nhiều mức độ nặng của bệnh, từ không có triệu chứng đến
+
+suy hô hấp
+
+cấp tính và tử vong. Các yếu tố nguy cơ bị bệnh nặng bao gồm tuổi già, suy giảm miễn dịch, bệnh đi kèm (ví dụ: tiểu đường, bệnh thận mạn tính) và mang thai.
+
+Vắc xin
+
+đã cho thấy phần nào hiệu quả trong việc ngăn ngừa lây truyền và rất hiệu quả trong việc ngăn ngừa bệnh nặng và tử vong.
+
+Để biết thông tin hiện tại về số ca bệnh và tử vong, hãy xem
+
+Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC): Công cụ theo dõi dữ liệu COVID
+
+và
+
+Bảng điều khiển WHO Coronavirus (COVID-19)
+
+.
+
+Mức độ lan truyền của COVID-19
+
+SARS-CoV-2 lây lan qua tiếp xúc gần giữa người với người, chủ yếu qua các giọt bắn từ đường hô hấp khi người bị nhiễm bệnh ho, hắt hơi, hát, tập thể dục hoặc nói chuyện. Tình trạng lây lan xảy ra thông qua các giọt bắn từ hô hấp lớn có thể di chuyển quãng đường ngắn và bám trực tiếp vào bề mặt niêm mạc hoặc thông qua các sol khí nhỏ có thể lơ lửng trong không khí trong vài giờ và di chuyển quãng đường xa hơn (khoảng > 2 mét) trước khi bị hít vào. Sự lây lan của vi rút cũng có thể xảy ra khi tiếp xúc với các bề mặt bị ô nhiễm (bọt khí) do dịch tiết đường hô hấp, nếu một người chạm vào bề mặt bị ô nhiễm và sau đó chạm vào niêm trên mặt (mắt, mũi, miệng).
+
+SARS-CoV-2 lây lan dễ dàng giữa người với người. Nguy cơ lây truyền liên quan trực tiếp đến số lượng vi rút mà một người phơi nhiễm. Nói chung, tương tác càng gần và càng lâu với người bị bệnh, nguy cơ lây lan vi rút càng cao. Cả những bệnh nhân không có triệu chứng và có triệu chứng đều có thể truyền vi rút, điều này gây khó khăn cho việc kiểm soát tình trạng lây lan. Một người có triệu chứng dễ lây nhất trong vài ngày trước và sau khi khởi phát các triệu chứng, tại thời điểm đó tải lượng vi rút trong dịch tiết đường hô hấp là lớn nhất.
+
+Các yếu tố như khoảng cách với người bị nhiễm bệnh, số lượng người bị nhiễm bệnh trong phòng, thời gian tiếp xúc với người bị nhiễm bệnh, kích thước của không gian, hoạt động tạo ra sol khí (ví dụ: hát, la hét hoặc tập thể dục), thông gió ở tại chỗ, hướng và tốc độ của luồng không khí có thể góp phần vào nguy cơ này.
+
+Các biến thể di truyền của SARS-CoV-2 xuất hiện khi nó tiến hóa. Các biến thể có khả năng tăng khả năng lây truyền, bệnh nặng hơn, thất bại trong phát hiện chẩn đoán hoặc giảm đáp ứng với các phương pháp điều trị và/hoặc vắc xin hiện có được theo dõi là biến thể cần quan tâm và thường được gọi bằng nhãn bảng chữ cái Hy Lạp do WHO chỉ định hoặc số dòng Pango của vi rút này. Một đột biến gen mang lại lợi thế về thể lực, cụ thể là tăng khả năng truyền bệnh, có thể nhanh chóng thay thế các biến thể lưu hành trước đó. Sự phát triển của các biến thể thống trị ở Hoa Kỳ và phần lớn thế giới bao gồm Alpha, Beta, Delta và Omicron. Biến thể Omicron đã thống trị toàn thế giới kể từ ngày 2 tháng 3 năm 2022, với các biến thể Omicron mới hơn và dễ lây truyền hơn đã thay thế Omicron ban đầu. Xem thêm
+
+CDC: Biến thể và giám sát bộ gen
+
+.
+
+Các tình huống có nguy cơ lây truyền cao bao gồm các cơ sở sinh hoạt tập trung (ví dụ: cơ sở chăm sóc người cao tuổi hoặc các cơ sở chăm sóc dài hạn khác, trường học dân cư, nhà tù, tàu) cũng như môi trường đông đúc, kém thông thoáng, chẳng hạn như các dịch vụ tôn giáo trong nhà, phòng tập thể dục, quán bar, câu lạc bộ đêm, nhà hàng trong nhà và cơ sở đóng gói thịt. Những tình huống như vậy có mật độ dân số cao, trong đó việc duy trì khoảng cách và các biện pháp phòng ngừa thông gió là khó khăn. Những người sống trong các cơ sở chăm sóc người cao tuổi cũng có nguy cơ mắc bệnh nặng vì tuổi tác và các bệnh nền. Các sự kiện lớn trong nhà hoặc các cuộc tụ họp riêng tư như họp mặt hoặc đám cưới cũng có liên quan đến tốc độ lây truyền cao. Những sự kiện hoặc tình huống được gọi là siêu lây truyền này có thể là do sự kết hợp của các yếu tố sinh học, môi trường và hành vi.
+
+Các yếu tố xã hội quyết định sức khỏe (điều kiện ở những nơi con người sinh ra, sống, học tập, làm việc và vui chơi) tác động đến nhiều nguy cơ và kết cục về sức khỏe, chẳng hạn như khả năng phơi nhiễm với nhiễm SARS-CoV-2, COVID-19 nặng và tử vong, cũng như khả năng tiếp cận xét nghiệm, tiêm chủng và điều trị. Tại Hoa Kỳ, tỷ lệ ca mắc COVID-19, nhập viện và tử vong cao hơn ở một số nhóm dân tộc thiểu số, bao gồm người da đen, người gốc Tây Ban Nha hoặc La tinh, người Mỹ bản địa và người bản địa Alaska, nhưng đã trở nên tương tự ở tất cả các nhóm dân tộc và thiểu số kể từ ngày 2 tháng 4 năm 2024 (
+
+CDC: COVID Data Tracker
+
+).
+
+Đối với những người bị nhiễm COVID-19, các biện pháp cách ly y tế và phòng ngừa được khuyến nghị nhằm hạn chế sự lây lan của nhiễm SARS-CoV-2. (Xem thêm
+
+CDC: Preventing Spread of Respiratory Viruses When You’re Sick
+
+.) Đối với những người phơi nhiễm với COVID-19, các biện pháp phòng ngừa được khuyến nghị để giúp giảm nguy cơ lây lan vi rút. (Xem thêm
+
+CDC: Preventing Respiratory Viruses
+
+.)
+
+Các triệu chứng và dấu hiệu của COVID-19
+
+Mức độ nặng và nhóm các triệu chứng khác nhau ở những người bị COVID-19. Một số có ít hoặc không có triệu chứng, và một số bị bệnh nặng và tử vong. Các triệu chứng phổ biến có thể bao gồm
+
+Sốt
+
+Ho
+
+Đau họng
+
+Nghẹt mũi hoặc chảy nước mũi
+
+Thở dốc hoặc khó thở
+
+Ớn lạnh hoặc run rẩy kèm theo rùng mình nhiều lần
+
+Không ngửi thấy mùi hoặc không nếm thấy vị mới xuất hiện
+
+Mệt mỏi
+
+Đau cơ
+
+Đau đầu
+
+Buồn nôn hoặc nôn
+
+Bệnh tiêu chảy
+
+Thời gian ủ bệnh (tức là thời gian từ khi phơi nhiễm đến khi khởi phát triệu chứng) dao động từ 2 ngày đến 10 ngày, với thời gian trung bình ước tính chỉ là 2 ngày đến 4 ngày đối với biến thể Omicron (
+
+1
+
+). Nhiều người bị nhiễm không có triệu chứng hoặc bệnh nhẹ; khả năng xảy ra điều này khác nhau tùy thuộc vào biến thể SARS-CoV-2 và nguy cơ mắc bệnh nặng của người đó, bao gồm cả tình trạng chủng ngừa COVID.
+
+Các dấu hiệu tiên lượng nặng bao gồm khó thở, giảm oxy máu, và thâm nhiễm phổi lan tỏa. Điều này có thể tiến triển đến suy hô hấp cần phải
+
+thở máy
+
+, sốc, suy đa tạng và tử vong.
+
+Các yếu tố nguy cơ bị bệnh nặng
+
+Nguy cơ mắc bệnh nghiêm trọng và tử vong ở các trường hợp mắc COVID-19 tăng ở những người trên 65 tuổi, những người hút thuốc lá hoặc đã từng hút thuốc lá và những người mắc các bệnh lý nghiêm trọng khác, chẳng hạn như
+
+Ung thư
+
+Bệnh tim, phổi, thận hoặc gan mạn tính
+
+Xơ nang
+
+Bệnh tiểu đường
+
+Đột quỵ hoặc bệnh mạch máu não
+
+Tình trạng suy giảm miễn dịch
+
+Nhiễm HIV
+
+Bệnh lao
+
+Bệnh hồng cầu hình liềm
+
+Thalassemia
+
+Sa sút trí tuệ
+
+Béo phì
+
+Mang thai (lên đến 42 ngày sau khi mang thai)
+
+Một số dạng khuyết tật
+
+Rối loạn sử dụng chất
+
+Không hoạt động thể chất
+
+Một số rối loạn sức khỏe tâm thần như trầm cảm và tâm thần phân liệt
+
+(Xem thêm
+
+CDC: COVID-19: People with Certain Medical Conditions
+
+.)
+
+Tiêm vắc xin
+
+giúp làm giảm đáng kể nguy cơ mắc bệnh nặng cho tất cả các nhóm tuổi – tỷ lệ tiêm vắc xin thấp hơn ở các nhóm tuổi trẻ hơn đã làm thay đổi nhân khẩu học theo độ tuổi của bệnh nhân nhập viện (xem
+
+CDC: COVID Data Tracker
+
+). Những người đã được tiêm vắc-xin phòng ngừa COVID-19 có thể không có triệu chứng hoặc có ít triệu chứng hơn và ít nghiêm trọng hơn, đồng thời hồi phục nhanh hơn nhiều so với những người chưa tiêm vắc-xin.
+
+Các biến chứng
+
+Ngoài bệnh hô hấp có thể tiến triển thành hội chứng suy hô hấp cấp tính (
+
+ARDS
+
+) và tử vong, các biến chứng nghiêm trọng khác bao gồm:
+
+Bệnh tim, bao gồm
+
+loạn nhịp
+
+,
+
+bệnh cơ tim
+
+và tổn thương tim cấp tính
+
+Rối loạn đông máu, bao gồm thuyên tắc huyết khối và
+
+cục nghẽn động mạch phổi
+
+,
+
+đông máu rải rác trong lòng mạch (DIC)
+
+, xuất huyết và hình thành cục máu đông động mạch
+
+Hội chứng Guillain Barre
+
+(hiếm)
+
+Nhiễm khuẩn huyết
+
+,
+
+sốc
+
+và suy đa cơ quan
+
+Hội chứng viêm sau nhiễm bệnh được gọi là
+
+hội chứng viêm đa hệ thống ở trẻ em (MIS-C)
+
+đã được quan sát thấy là một biến chứng hiếm gặp của nhiễm SARS-CoV-2. Nó có các đặc điểm tương tự như
+
+bệnh Kawasaki
+
+hoặc
+
+hội chứng sốc nhiễm độc
+
+. Trẻ mắc MIS-C thường có biểu hiện sốt, nhịp tim nhanh, dấu hiệu viêm toàn thân và tổn thương đa hệ thống (ví dụ: tim, tiêu hóa, thận) ở thời điểm sau khi nhiễm SARS-CoV-2 thường nhẹ hoặc thậm chí không có triệu chứng từ 2 đến 6 tháng. Các trường hợp đáp ứng các tiêu chuẩn sau đây phải được báo cáo cho sở y tế địa phương, tiểu bang hoặc lãnh thổ khi nghi ngờ MIS-C: cá nhân < 21 tuổi bị sốt > 24 giờ, bằng chứng xét nghiệm về viêm, dấu hiệu tổn thương nghiêm trọng của đa hệ thống (≥ 2 cơ quan) cần phải nhập viện và có xét nghiệm hoặc dịch tễ học liên quan đến nhiễm SARS-CoV-2 gần đây (
+
+2
+
+). Tiêm vắc xin dường như có khả năng bảo vệ cao chống lại sự phát triển của MIS-C (
+
+2
+
+). MIS-C đã trở nên ít phổ biến hơn kể từ khi đại dịch bắt đầu, có thể là do tiêm chủng và khả năng miễn dịch sau khi nhiễm SARS-CoV-2 trước đó. Một hội chứng viêm đa hệ thống tương tự ở thanh niên và trung niên (MIS-A) cũng đã được báo cáo (
+
+3
+
+).
+
+Hết triệu chứng
+
+Ở hầu hết các bệnh nhân, các triệu chứng sẽ hết trong vòng khoảng một tuần. Tuy nhiên, một số bệnh nhân bắt đầu với các triệu chứng nhẹ, sau đó xấu đi về mặt lâm sàng sau một tuần, tiến triển thành bệnh nặng, bao gồm cả
+
+ARDS
+
+. Bệnh kéo dài dường như phổ biến hơn ở những người bị bệnh nặng, nhưng ngay cả những bệnh nhân bị bệnh nhẹ cũng có thể có các triệu chứng dai dẳng, bao gồm khó thở, ho và khó chịu kéo dài hàng tuần hoặc thậm chí hàng tháng. Xét nghiệm PCR vi rúts ở bệnh nhân có thể vẫn dương tính trong ít nhất 3 tháng bất kể triệu chứng. Tuy nhiên, ngay cả những bệnh nhân có các triệu chứng kéo dài thường không được coi là lây nhiễm, vì vi rút hiếm khi có thể được nuôi cấy từ đường hô hấp trên của bệnh nhân sau 10 ngày mắc bệnh.
+
+COVID-19 cũng có thể liên quan đến di chứng lâu dài sau bệnh cấp tính (
+
+4
+
+) và các triệu chứng của tình trạng hậu COVID-19 có thể kéo dài nhiều tháng. Điều này đã được gọi bằng nhiều tên, bao gồm COVID dài, COVID kéo dài và hội chứng hoặc tình trạng COVID-19 hậu cấp tính và ước tính sẽ ảnh hưởng đến 25 % đến 50% tổng số bệnh nhân trong một số cuộc khảo sát ở Hoa Kỳ. Mệt mỏi, suy nhược, đau, đau cơ, khó thở và rối loạn chức năng nhận thức thường được báo cáo và có thể liên quan đến chất lượng cuộc sống kém hơn (
+
+5
+
+). Các yếu tố nguy cơ để lại di chứng lâu dài có thể bao gồm biểu hiện bệnh nặng hơn, tuổi cao hơn, giới tính nữ và bệnh phổi đã có từ trước. Một định nghĩa ca bệnh quốc tế đã được thiết lập để hỗ trợ chẩn đoán và nghiên cứu thêm về tình trạng này (
+
+6
+
+).
+
+Tài liệu tham khảo về các dấu hiệu và triệu chứng
+
+1.
+
+Jansen L, Tegomoh B, Lange K, et al
+
+: Investigation of a SARS-CoV-2 B.1.1.529 (Omicron) variant cluster - Nebraska, November-December 2021.
+
+MMWR Morb Mortal Wkly Rep
+
+70(5152):1782-2784, 2021. doi: 10.15585/mmwr.mm705152e3
+
+2.
+
+Centers for Disease Control and Prevention:
+
+Case Definitions and Reporting, MIS-C Case Definition. Truy cập tháng 6 năm 2024.
+
+3.
+
+Morris SB, Schwartz NG, Patel P, et al
+
+: Case series of multisystem inflammatory syndrome in adults associated with SARS-CoV-2 infection — United Kingdom and United States, March–August 2020.
+
+MMWR
+
+69:1450–1456, 2020. doi: 10.15585/mmwr.mm6940e1
+
+4.
+
+Nalbandian A, Sehgal K, Gupta A, et al
+
+: Post-acute COVID-19 syndrome.
+
+Nat Med
+
+27(4):601-615, 2021 doi: 10.1038/s41591-021-01283-z
+
+5.
+
+Han JH, Womack KN, Tenforde MW, et al
+
+: Associations between persistent symptoms after mild COVID-19 and long-term health status, quality of life, and psychological distress.
+
+Influenza Other Respir Viruses
+
+16(4):680-689, 2022 doi:10.1111/irv.12980
+
+6.
+
+Soriano JB, Murthy S, Marshall JC, et al
+
+: A clinical case definition of post-COVID-19 condition by a Delphi consensus.
+
+Lancet Infect Dis
+
+22(4):e102-e107, 2022. doi: 10.1016/S1473-3099(21)00703-9
+
+Chẩn đoán COVID-19
+
+Phản ứng chuỗi phiên mã ngược-polymerase theo thời gian thực (RT-PCR) hoặc xét nghiệm khuếch đại axit nucleic khác (NAAT) của dịch tiết đường hô hấp trên và dưới
+
+Xét nghiệm kháng nguyên của dịch tiết đường hô hấp trên
+
+Xét nghiệm chẩn đoán COVID-19 có sẵn thông qua các phòng xét nghiệm và các điểm xét nghiệm công cộng và cũng có thể được thực hiện tại nhà. Có 2 loại xét nghiệm chẩn đoán COVID-19 chính: phản ứng chuỗi polymerase phiên mã ngược thời gian thực (RT-PCR) (hoặc xét nghiệm khuếch đại axit nucleic khác [NAAT]) và xét nghiệm kháng nguyên. Việc lựa chọn xét nghiệm chẩn đoán và cách giải thích xét nghiệm này nên được quyết định bởi khả năng người đó mắc COVID-19 dựa trên tỷ lệ hiện mắc của SARS-CoV-2 trong cộng đồng và sự hiện diện của các triệu chứng, dấu hiệu của COVID-19 hoặc tiếp xúc gần với trường hợp mắc COVID-19 đã biết (xem
+
+CDC: COVID-19: Overview of Testing for SARS-CoV-2, the virus that causes COVID-19
+
+).
+
+RT-PCR có độ nhạy và độ đặc hiệu phân tích cao nhất và là xét nghiệm chẩn đoán tiêu chuẩn vàng cho COVID-19. Các nền tảng NAAT khác thường kém nhạy hơn một chút so với RT-PCR với độ đặc hiệu tương đương (xem
+
+CDC: COVID-19: Nucleic Acid Amplification Tests
+
+). Tuy nhiên, xét nghiệm PCR vi rút dương tính không phải lúc nào cũng chỉ ra tình trạng nhiễm trùng đang hoạt động. Xét nghiệm này có thể phát hiện các mảnh axit nucleic của vi rút không thể sống được và có thể vẫn dương tính trong ít nhất 3 tháng sau khi chẩn đoán ban đầu bất kể triệu chứng.
+
+Xét nghiệm kháng nguyên tại giường và tại nhà có thể cung cấp kết quả nhanh chóng (xem
+
+CDC: COVID-19: Considerations for SARS-CoV-2 Antigen Testing for Healthcare Providers Testing Individuals in the Community
+
+). Đây có thể là một biện pháp quan trọng để xác định các ca bệnh không có triệu chứng và làm gián đoạn sự lây truyền SARS-CoV-2. Các xét nghiệm phát hiện kháng nguyên tại chỗ hoặc tại nhà ít nhạy hơn NAATs, đặc biệt là ở thời điểm bắt đầu nhiễm bệnh khi tải lượng vi rút có thể thấp hơn. Độ nhạy của các xét nghiệm này so với xét nghiệm PCR khác nhau tùy theo nhà sản xuất và thời gian lây nhiễm, với phạm vi được báo cáo từ 40 đến 90% (
+
+1-4
+
+). Do đó, có thể cần xác nhận một số kết quả xét nghiệm kháng nguyên (ví dụ: xét nghiệm âm tính ở một người có triệu chứng) bằng RT-PCR hoặc NAAT khác. Nhiều bộ xét nghiệm phát hiện kháng nguyên cũng khuyên bạn nên lặp lại xét nghiệm nhiều lần trong vài ngày để tăng khả năng phát hiện nhiễm trùng (xem thêm
+
+FDA: At-Home COVID-19 Antigen Tests-Take Steps to Reduce Your Risk of False Negative Results
+
+). Một số xét nghiệm có thể không phát hiện ra biến thể Omicron (xem
+
+FDA: SARS-CoV-2 Viral Mutations: Impact on COVID-19 Tests
+
+). Các xét nghiệm kháng nguyên ít có khả năng duy trì kết quả tích cực sau khi khỏi nhiễm trùng vì các xét nghiệm này chỉ phát hiện tải lượng vi rút cao hơn. Tuy nhiên, các yếu tố khác ngoài tải lượng vi rút có thể ảnh hưởng đến khả năng lây nhiễm; do đó kết quả xét nghiệm kháng nguyên không nhất thiết tương quan với khả năng lây nhiễm.
+
+Các mẫu bệnh phẩm được chấp nhận để xét nghiệm chẩn đoán COVID-19 bao gồm dịch mũi họng, miệng họng, xương xoăn mũi giữa, hai lỗ mũi trước và nước bọt. Tham khảo hướng dẫn thu thập của phòng thí nghiệm hoặc tờ hướng dẫn sử dụng bộ kit xét nghiệm được chấp nhận, vì không phải tất cả các nền tảng thử nghiệm và phòng thí nghiệm đều có thể xét nghiệm được tất cả các loại mẫu bệnh phẩm. Những mẫu này có thể do chuyên gia chăm sóc sức khỏe thu thập hoặc tự thu thập, ngoại trừ mẫu bệnh phẩm mũi họng, chỉ nên do chuyên gia chăm sóc sức khỏe được đào tạo và có chứng chỉ phù hợp thu thập.
+
+Đối với các mẫu bệnh phẩm mũi họng và miệng họng, chỉ sử dụng que tăm bông lấy bệnh phẩm làm bằng sợi tổng hợp có thân bằng nhựa hoặc bằng sợi kim loại. Không sử dụng gạc canxi alginate hoặc gạc bằng trục gỗ, vì chúng có thể chứa các chất bất hoạt và ức chế PCR. Phải cho các que tăm bông lấy bệnh phẩm vào ống vận chuyển đi kèm. Duy trì việc kiểm soát nhiễm trùng thích hợp khi thu thập các mẫu bệnh phẩm.
+
+Vì lý do an toàn sinh học, các tổ chức và phòng thí nghiệm địa phương không nên cố gắng phân lập vi rút trong nuôi cấy tế bào.
+
+Không nên sử dụng xét nghiệm huyết thanh, hoặc xét nghiệm kháng thể để chẩn đoán bệnh COVID-19 cấp tính, bởi vì thường chỉ có thể phát hiện được các kháng thể sau khi khởi phát triệu chứng từ 1 tuần đến 3 tuần. Có các xét nghiệm kháng thể nhằm mục tiêu kháng nguyên nucleocapsid SARS-CoV-2, kháng nguyên gai và vùng gắn kết thụ thể của kháng nguyên gai. Các xét nghiệm phát hiện kháng thể với protein nucleocapsid được khuyến nghị để đánh giá bằng chứng về nhiễm bệnh trước đó ở những người đã được tiêm vắc xin vì kháng nguyên đó không được bao gồm trong vắc xin. Có các xét nghiệm kháng thể định lượng và bán định lượng, nhưng hiện tại không có mối tương quan nào được chấp nhận về khả năng miễn dịch và không khuyến khích xét nghiệm để xác định đáp ứng miễn dịch với vắc-xin hoặc với tình trạng nhiễm bệnh (xem
+
+Infectious Disease Society of America (IDSA)
+
+: Guidelines on the Diagnosis of COVID-19: Serologic Testing, Executive Summary).
+
+Đánh giá bệnh nhân có triệu chứng
+
+Các xét nghiệm thường quy cho những người bị bệnh nặng hơn bao gồm giảm bạch cầu lympho cũng như các kết quả kém đặc hiệu về nồng độ aminotransaminase (ALT, AST), tăng lactate dehydrogenase (LDH), D-dimer, ferritin và các dấu hiệu viêm cao như phản ứng C protein.
+
+Bệnh nhân khó thở, hạ oxy máu khi đo oxy tại nhà hoặc các triệu chứng liên quan khác nên được chuyển đến đánh giá y tế trực tiếp, bao gồm đo độ bão hòa oxy trong máu và theo dõi các dấu hiệu xấu đi trên lâm sàng.
+
+Chẩn đoán hình ảnh ngực có thể là bình thường với bệnh nhẹ và tăng theo mức độ nghiêm trọng của bệnh. Các dấu hiệu điển hình phù hợp với viêm phổi do vi rút và bao gồm các hình ảnh kính mờ và hình ảnh đông đặc trên phim X-quang ngực hoặc CT ngực. Chẩn đoán hình ảnh ngực không được khuyến nghị là một công cụ sàng lọc thường quy cho COVID-19.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+PK drain
+
+: Rapid diagnostic testing for SARS-CoV-2.
+
+N Engl J Med
+
+386(3):264-272, 2022. doi: 10.1056/NEJMcp2117115
+
+2.
+
+Ford L, Lee C, Pray IW, et al
+
+: Epidemiologic characteristics associated with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antigen-based test results, real-time reverse transcription polymerase chain reaction (rRT-PCR) cycle threshold values, subgenomic RNA, and viral culture results from university testing.
+
+Clin Infect Dis
+
+73(6):e1348-e1355, 2021. doi: 10.1093/cid/ciab303
+
+3.
+
+Wu S, Archuleta S, Lim SM, et al
+
+: Serial antigen rapid testing in staff of a large acute hospital.
+
+Lancet Infect Dis
+
+22(1):14-15, 2022. doi: 10.1016/S1473-3099(21)00723-4
+
+4.
+
+Dinnes J, Sharma P, Berhane S
+
+: Rapid, point-of-care antigen tests for diagnosis of SARS-CoV-2 infection.
+
+Cochrane Database Sys Rev
+
+ngày 22 tháng Bảy năm 2022. doi: 10.1002/14651858.CD013705.pub3/full
+
+Điều trị COVID-19
+
+Chăm sóc hỗ trợ
+
+Đôi khi, đối với bệnh từ nhẹ đến trung bình có nguy cơ cao bị bệnh nặng: phối hợp nirmatrelvir/ritonavir; remdesivir (liệu trình ngắn); molnupiravir
+
+Đối với bệnh nặng: remdesivir; dexamethasone; các thuốc điều hòa miễn dịch
+
+Việc điều trị COVID-19 tùy thuộc vào mức độ nặng của bệnh và khả năng bệnh nhân phát triển thành bệnh nặng. Các hướng dẫn điều trị đang được thay đổi khi dữ liệu mới xuất hiện (xem
+
+Infectious Diseases Society of America (IDSA) Guidelines on the Treatment and Management of Patients with COVID-19
+
+and
+
+World Health Organization (WHO): COVID-19 Treatments
+
+).
+
+Định nghĩa của IDSA về mức độ nặng với các phương pháp điều trị nhắm đích như sau:
+
+COVID-19 từ nhẹ đến trung bình (SpO2 > 94% ở không khí phòng và không cần oxy bổ sung) có các yếu tố nguy cơ tiến triển thành bệnh nặng, nhập viện hoặc tử vong
+
+COVID-19 nặng nhưng không nguy kịch (SpO2 < 94% ở không khí phòng hoặc cần bổ sung oxy lưu lượng thấp)
+
+COVID-19 nguy kịch cần oxy lưu lượng cao hoặc thở máy không xâm lấn
+
+COVID-19 nguy kịch cần thở máy hoặc oxy hóa màng ngoài cơ thể (ECMO)
+
+Hiệu quả của các loại thuốc kháng vi-rút và kháng thể đơn dòng cụ thể chống lại các biến thể lưu hành tại chỗ được xem xét khi đưa ra quyết định điều trị (xem
+
+Open Data Portal: Database of in vitro therapeutic activity against SARS-CoV-2 variants
+
+). Các phương án điều trị được liệt kê theo thứ tự ưu tiên dựa trên dữ liệu hiện có và các biến thể SARS-CoV-2 đang lưu hành trong máu. Lựa chọn phương pháp điều trị phải dựa trên khả năng sẵn có của thuốc, cơ sở hạ tầng để sử dụng thuốc và các yếu tố cụ thể của bệnh nhân bao gồm thời gian xuất hiện triệu chứng, khả năng tương tác thuốc, suy gan và suy thận. Không có dữ liệu về việc phối hợp các liệu pháp hiện có; do đó, chỉ nên dùng một loại thuốc chống SARS-CoV-2.
+
+Điều trị sớm cho những bệnh nhân mắc COVID-19 từ nhẹ đến trung bình có nguy cơ cao tiến triển thành bệnh nặng
+
+Những phương pháp điều trị này nhằm ngăn chặn sự tiến triển thành bệnh nặng ở những bệnh nhân có nguy cơ cao. Các phương pháp này được dùng cho bệnh nhân trong vòng vài ngày sau khi khởi phát COVID-19 ở mức độ nhẹ đến trung bình đang cấp cứu (hoặc nhập viện vì những lý do khác ngoài COVID-19); các lựa chọn điều trị (ngoài remdesivir) chưa được nghiên cứu ở những bệnh nhân nhập viện vì COVID-19.
+
+Nirmatrelvir,
+
+một loại thuốc kháng vi-rút đường uống, dùng kết hợp với
+
+ritonavir,
+
+đã được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) chấp thuận để điều trị COVID-19 từ nhẹ đến trung bình ở người lớn vào tháng 5 năm 2023 và vẫn nằm trong Giấy phép Sử dụng Khẩn cấp (EUA) cho thanh thiếu niên (≥ 12 tuổi, cân nặng ≥ 40 kg) có kết quả xét nghiệm vi rút SARS-CoV-2 trực tiếp dương tính và có nguy cơ cao tiến triển thành COVID-19 nặng. Việc phối hợp nirmatrelvir và ritonavir cần phải được bắt đầu càng sớm càng tốt sau khi có chẩn đoán COVID-19 và trong vòng 5 ngày kể từ ngày khởi phát triệu chứng. Liều dùng là hai viên nén 150 mg nirmatrelvir và một viên nén
+
+ritonavir
+
+100 mg, uống cùng nhau hai lần một ngày trong 5 ngày. Phương pháp điều trị này không được phép sử dụng trong thời gian dài hơn 5 ngày liên tiếp. (Xem thêm
+
+Tờ thông tin EUA FDA
+
+.)
+
+Nirmatrelvir là một thuốc ức chế protease phân cắt một protein SARS-CoV-2 và do đó ức chế vi rút sao chép.
+
+Ritonavir
+
+là thuốc ức chế cytochrome P450 (CYP) 3A4 mạnh và có tác dụng như một chất tăng cường; thuốc này làm chậm quá trình chuyển hóa nirmatrelvir, khiến nó tồn tại trong cơ thể lâu hơn ở nồng độ cao hơn.
+
+Phối hợp nirmatrelvir/ritonavir đã được nghiên cứu trong một thử nghiệm ngẫu nhiên có đối chứng ở 2.246 người trưởng thành có triệu chứng không nhập viện ≥ 18 tuổi với yếu tố nguy cơ được xác định trước để tiến triển thành bệnh nặng hoặc ≥ 60 tuổi bất kể tình trạng bệnh mạn tính đã xác định trước. Tất cả các bệnh nhân chưa được tiêm vắc xin phòng COVID-19, chưa bị nhiễm COVID-19 trước đó và đã được phòng thí nghiệm xác nhận chẩn đoán nhiễm SARS-CoV-2. Phối hợp
+
+nirmatrelvir/ritonavir
+
+được sử dụng ở thời điểm ≤ 5 ngày sau khi khởi phát triệu chứng đã làm giảm tỷ lệ người nhập viện hoặc tử vong liên quan đến COVID-19 do bất kỳ nguyên nhân nào cho đến ngày 28 so với giả dược tới 88% (0,8 so với 6,3%) (
+
+1
+
+).
+
+Sử dụng phối hợp
+
+nirmatrelvir/ritonavir
+
+ở những người nhiễm HIV-1 không kiểm soát được hoặc chưa được chẩn đoán có thể dẫn đến HIV-1 kháng thuốc. Dạng phối hợp
+
+nirmatrelvir/ritonavir
+
+có thể gây tổn thương gan, vì vậy cần thận trọng ở những bệnh nhân có bệnh gan từ trước, có bất thường men gan hoặc viêm gan. Thuốc này không được khuyến nghị dùng cho những bệnh nhân mắc bệnh gan nặng.
+
+Ở những bệnh nhân suy thận trung bình (độ thanh thải creatinin ước tính từ 30 đến 60 mL/phút), liều dùng được giảm xuống thành 150 mg nirmatrelvir (một viên 150 mg) với 100 mg
+
+ritonavir
+
+(một viên 100 mg), uống cả hai viên cùng nhau hai lần mỗi ngày trong 5 ngày. Không khuyến nghị phối hợp
+
+nirmatrelvir/ritonavir
+
+ở bệnh nhân suy thận nặng (eGFR < 30 mL/phút).
+
+Các triệu chứng trở lại đã được báo cáo ở một số bệnh nhân sau khi sử dụng
+
+nirmatrelvir/ritonavir
+
+và các xét nghiệm PCR và kháng nguyên đối với SARS-CoV-2 có thể dương tính trở lại, ngay cả ở những bệnh nhân không có triệu chứng. Điều trị bổ sung hiện không được khuyến nghị, nhưng bệnh nhân nên được tư vấn cách ly y tế lại nếu các triệu chứng hoặc xét nghiệm phục hồi xảy ra. (Xem thêm
+
+CDC: COVID-19 Rebound After Paxlovid Treatment
+
+.)
+
+Thuốc phối hợp
+
+nirmatrelvir/ritonavir
+
+có nhiều tương tác thuốc nghiêm trọng đã biết và có thể xảy ra; các thuốc dùng đồng thời phải được sàng lọc những tương tác này trước khi bắt đầu điều trị. Để biết danh sách đầy đủ về các tương tác thuốc này, hãy xem
+
+Tờ thông tin EUA FDA
+
+.
+
+Remdesivir,
+
+một loại thuốc kháng vi rút theo đường tĩnh mạch, được sử dụng để điều trị COVID-19 nhẹ đến trung bình ở người lớn và thanh thiếu niên (≥ 12 tuổi và cân nặng ≥ 40 kg) có kết quả xét nghiệm vi-rút SARS-CoV-2 trực tiếp dương tính và có nguy cơ cao tiến triển thành COVID-19 nặng. Thuốc cần phải được bắt đầu dùng càng sớm càng tốt và trong vòng 7 ngày kể từ ngày khởi phát triệu chứng. Bệnh nhân được chỉ định dùng một liệu trình thuốc
+
+remdesivir
+
+trong 3 ngày, có thể kéo dài đến 5 ngày nếu bệnh tiến triển nặng.
+
+Remdesivir
+
+đã được nghiên cứu cho chỉ định này trong một thử nghiệm ngẫu nhiên có đối chứng ở 562 bệnh nhân không nhập viện từ 12 tuổi trở lên bị COVID-19 có triệu chứng có nguy cơ cao tiến triển thành bệnh nặng và những người chưa tiêm vắc xin phòng COVID-19.
+
+Remdesivir
+
+được cho dùng trong 3 ngày và bắt đầu trong vòng 7 ngày kể từ khi khởi phát triệu chứng, tỷ lệ nhập viện hoặc tử vong cho đến ngày thứ 28 giảm 87% so với giả dược (0,7 so với 5,3%) (
+
+2
+
+).
+
+Molnupiravir,
+
+một loại thuốc kháng vi rút dạng uống, là một thuốc tương tự nucleoside hoạt động bằng cách đưa các lỗi vào bộ gen của vi rút SARS-CoV-2, ức chế quá trình nhân lên của vi rút. Thuốc đã có EUA của FDA để điều trị COVID-19 nhẹ đến trung bình ở người lớn không nhập viện ≥ 18 tuổi có kết quả dương tính với xét nghiệm vi rút SARS-CoV-2 trực tiếp và những người có nguy cơ cao tiến triển thành bệnh nặng, bao gồm cả nhập viện hoặc tử vong, và những lựa chọn điều trị COVID-19 thay thế được FDA cho phép không thể tiếp cận hoặc không phù hợp về mặt lâm sàng. Cần phải bắt đầu dùng
+
+molnupiravir
+
+càng sớm càng tốt sau khi có chẩn đoán COVID-19 và trong vòng 5 ngày kể từ khi bắt đầu khởi phát triệu chứng.
+
+Molnupiravir
+
+được sử dụng dưới dạng bốn viên nang 200 mg theo đường uống, 12 giờ một lần, trong 5 ngày. Không được phép sử dụng thuốc này lâu hơn 5 ngày liên tục. (Xem thêm
+
+Tờ thông tin EUA của FDA để biết Molnupiravir
+
+.)
+
+Molnupiravir
+
+có thể có ảnh hưởng đến khả năng xuất hiện các biến thể SARS-CoV-2 mới dựa trên mối lo ngại về mặt lý thuyết; tuy nhiên, nguy cơ được cho là thấp dựa trên dữ liệu về độc tính trên di truyền sẵn có và liệu trình điều trị 5 ngày hạn chế.
+
+Molnupiravir
+
+không được phép sử dụng cho bệnh nhân < 18 tuổi vì nó có thể ảnh hưởng đến sự phát triển của xương và sụn.
+
+Molnupiravir
+
+không được khuyến nghị sử dụng trong thai kỳ vì các nghiên cứu trên hệ sinh sản ở động vật cho thấy rằng
+
+molnupiravir
+
+có thể có hại cho thai nhi khi dùng cho bệnh nhân mang thai. Phụ nữ có khả năng sinh đẻ được khuyến nghị sử dụng một phương pháp ngừa thai đáng tin cậy một cách chính xác và nhất quán trong khi điều trị bằng
+
+molnupiravir
+
+và trong 4 ngày sau khi dùng liều cuối cùng. Nam giới có khả năng sinh sản có quan hệ tình dục với nữ giới có khả năng sinh đẻ được khuyến cáo sử dụng phương pháp ngừa thai đáng tin cậy một cách chính xác và nhất quán trong thời gian điều trị bằng
+
+molnupiravir
+
+và trong ít nhất 3 tháng sau thời điểm dùng liều cuối cùng.
+
+Molnupiravir
+
+đã được nghiên cứu trong một thử nghiệm phân nhóm ngẫu nhiên có đối chứng giả dược trên 1433 bệnh nhân không nhập viện ≥ 18 tuổi mắc COVID-19 từ nhẹ đến trung bình có nguy cơ cao tiến triển thành COVID-19 nặng và/hoặc phải nhập viện và chưa được tiêm vắc xin phòng COVID-19.
+
+Molnupiravir
+
+được cho dùng trong 5 ngày và bắt đầu trong vòng 5 ngày kể từ khi khởi phát triệu chứng, giảm 30% tỷ lệ nhập viện hoặc tử vong cho đến ngày 29 so với giả dược (6,8 so với 9,7%) (
+
+3
+
+).
+
+Bamlanivimab/etesevimab, casirivimab/imdevimab, sotrovimab và bebtelovimab
+
+là các liệu pháp trung hòa kháng thể đơn dòng kháng SARS-CoV-2 (mAb). FDA hiện khuyến nghị không nên sử dụng các thuốc này trong điều trị COVID-19 vì các biến thể phụ Omicron chiếm ưu thế có khả năng kháng lại hoạt tính trung hòa của thuốc.
+
+Điều trị cho bệnh nhân bị COVID-19 nặng
+
+Các phương án điều trị được khuyến nghị cho tình trạng nhiễm trùng nặng bao gồm thuốc kháng vi rút remdesivir, corticosteroid dexamethasone và các thuốc điều hòa miễn dịch bổ sung như baricitinib, tocilizumab và sarilumab. Các thuốc này có thể được sử dụng phối hợp và các quyết định điều trị cần phải tính đến giai đoạn bệnh của bệnh nhân, thường được đặc trưng bởi mức độ thiếu oxy và hỗ trợ hô hấp.
+
+Thuốc kháng vi rút có nhiều khả năng mang lại lợi ích trong giai đoạn đầu của quá trình điều trị khi bệnh là kết quả của quá trình sao chép vi rút tích cực, trong khi liệu pháp chống viêm và liệu phápđiều hòa miễn dịch phù hợp hơn trong giai đoạn sau của quá trình điều trị khi phản ứng viêm của vật chủ và rối loạn miễn dịch là nguyên nhân gây ra tình trạng bệnh. (Xem thêm
+
+IDSA
+
+Guidelines on the Treatment and Management of Patients with COVID-19.)
+
+Đối với những bệnh nhân cần phải bổ sung oxy nhưng không cần hỗ trợ hô hấp bổ sung
+
+, các phương án điều trị bao gồm:
+
+Remdesivir đơn trị liệu
+
+Dexamethasone đơn trị liệu
+
+Remdesivir cộng với dexamethasone
+
+Thuốc kháng vi rút
+
+remdesivir
+
+được sử dụng để điều trị cho bệnh nhân người lớn và trẻ em từ ≥ 28 ngày tuổi và cân nặng từ ≥ 3 kg cần nhập viện vì COVID-19. Thời gian điều trị khuyến nghị là 5 ngày nhưng được chấp thuận sử dụng đến 10 ngày ở những bệnh nhân cần thở máy xâm nhập và/hoặc oxy hóa màng ngoài cơ thể (ECMO). Tuy nhiên, lợi ích của việc điều trị kháng vi rút ở nhóm này là không thể kết luận được.
+
+Trong một thử nghiệm lâm sàng chọn ngẫu nhiên lớn (ACTT-1),
+
+remdesivir
+
+có liên quan đến cải thiện lâm sàng sớm hơn cho những bệnh nhân cần bổ sung oxy nhưng không thở máy hoặc các mức hỗ trợ khác cao hơn (
+
+4
+
+). Thời gian đến khi hồi phục được cải thiện này cũng đã được quan sát thấy trong một thử nghiệm chọn ngẫu nhiên, có đối chứng, điều trị ngoại trú (PINETREE) (
+
+2
+
+). Tuy nhiên, lợi ích không được quan sát thấy trong 2 thử nghiệm nhãn mở (Solidarity [
+
+5
+
+] và DisCoVeRy [
+
+6
+
+]). Tổ chức Y tế Thế giới (WHO) đã ban hành khuyến cáo có điều kiện chống lại việc sử dụng
+
+remdesivir
+
+cho bệnh nhân nhập viện vì không có bằng chứng nào cho thấy đây là phương pháp điều trị hiệu quả cho COVID-19 (xem
+
+WHO: COVID-19 Treatments
+
+).
+
+Nhìn chung, các nghiên cứu về
+
+remdesivir
+
+hỗ trợ việc sử dụng thuốc sớm khi bị nhiễm bệnh (trước ngày 7 đến ngày 10) khi quá trình nhân lên của vi rút đang hoạt động có nhiều khả năng góp phần vào việc gây bệnh hơn.
+
+Remdesivir
+
+cũng có thể được xem xét ở những bệnh nhân đang nằm viện nhưng không cần bổ sung oxy, mặc dù thiếu dữ liệu về quần thể này.
+
+Remdesivir
+
+không được khuyến nghị cho những bệnh nhân có eGFR < 30 mL/phút. Cần theo dõi chức năng thận trước và trong khi điều trị bằng
+
+remdesivir
+
+.
+
+Corticosteroid
+
+dexamethasone
+
+thường được khuyến nghị cho những bệnh nhân mắc COVID-19 cần bổ sung oxy, nhưng không khuyến nghị sử dụng cho những bệnh nhân không cần bổ sung oxy.
+
+Dexamethasone
+
+cho thấy lợi ích về thời gian sống thêm đối với những người cần phải bổ sung oxy hoặc cần phải thở máy trong thử nghiệm RECOVERY (
+
+7
+
+). Lợi ích của thuốc này có thể là lớn nhất ở những bệnh nhân bị bệnh do đáp ứng viêm vì nhiễm bệnh. Nếu không có
+
+dexamethasone
+
+, có thể sử dụng các glucocorticoid khác (ví dụ: prednisone, methylprednisolone, hydrocortisone).
+
+Phối hợp
+
+remdesivir
+
+và
+
+dexamethasone
+
+thường được sử dụng ở những bệnh nhân nhập viện cần phải bổ sung oxy trong vòng 10 ngày đầu tiên của bệnh khi cả quá trình nhân lên của vi rút và tình trạng viêm ở vật chủ có thể góp phần vào biểu hiện lâm sàng.
+
+Dành cho bệnh nhân cần thở máy không xâm lấn (bao gồm hệ thống cung cấp oxy lưu lượng cao)
+
+Dexamethasone được khuyến nghị cho tất cả các bệnh nhân.
+
+Remdesivir có thể được bổ sung một cách đặc biệt cho bệnh nhân trong vòng 7 đến 10 ngày kể từ ngày khởi phát triệu chứng.
+
+Nên cân nhắc dùng thêm thuốc điều hòa miễn dịch, đặc biệt đối với những bệnh nhân có tình trạng xấu đi nhanh hoặc có dấu hiệu viêm toàn thân.
+
+Các thuốc điều hòa miễn dịch bổ sung bao gồm thuốc ức chế JAK
+
+baricitinib
+
+(hoặc tofacitinib nếu không có) hoặc thuốc ức chế IL-6
+
+tocilizumab
+
+(hoặc sarilumab nếu không có). Những khuyến nghị này dựa trên phân tích nhóm phụ của nhiều thử nghiệm lâm sàng ngẫu nhiên (COV-BARRIER [
+
+8
+
+], ACTT-2 [
+
+9
+
+]) và nhãn mở (REMAP-CAP [
+
+10
+
+], RECOVERY [
+
+11
+
+]) cho thấy lợi ích về thời gian sống thêm khi bổ sung một trong những loại thuốc này ở những bệnh nhân cần hỗ trợ hô hấp ở mức độ này. Những loại thuốc này là thuốc ức chế miễn dịch mạnh và cần cân nhắc lợi ích tiềm tàng so với nguy cơ ức chế miễn dịch bổ sung ở những bệnh nhân nghi ngờ mắc bệnh nhiễm trùng do vi khuẩn hoặc nấm nghiêm trọng đi kèm hoặc có nguy cơ cao mắc bệnh nhiễm trùng cơ hội do tình trạng ức chế miễn dịch tiềm ẩn.
+
+Đối với bệnh nhân cần thở máy hoặc trao đổi oxy qua màng ngoài cơ thể (ECMO),
+
+dexamethasone được khuyến nghị cho tất cả bệnh nhân. Việc bổ sung tociluzumab cần phải được xem xét cho bệnh nhân trong vòng 24 giờ sau khi nhập viện vào khoa hồi sức tích cực (ICU).
+
+Nhiều liệu pháp đã được xem xét và
+
+hiện không được khuyến nghị
+
+để điều trị hoặc phòng ngừa COVID-19:
+
+Vilobelimab là một kháng thể đơn dòng kháng bổ thể (kháng C5a) đã nhận được EUA của FDA vào tháng 4 năm 2023 để điều trị COVID-19 ở người lớn nhập viện khi được bắt đầu trong vòng 48 giờ sau khi được thở máy xâm lấn hoặc thở oxy qua màng ngoài cơ thể. Dữ liệu về thuốc này còn hạn chế; trong một thử phân nhóm nghiệm ngẫu nhiên duy nhất, sự hiện diện của tác dụng đáng kể đến tỷ lệ tử vong trong 28 ngày khác nhau tùy theo phân tích (
+
+12
+
+). Khuyến nghị lâm sàng cho việc sử dụng thuốc này chưa được công bố.
+
+Huyết tương của bệnh nhân đã hồi phục hiện không được khuyến nghị để điều trị bệnh nhân nhập viện bị COVID-19. Dữ liệu từ một số thử nghiệm lâm sàng phân nhóm ngẫu nhiên (
+
+13
+
+) và một cơ quan đăng ký lớn liên quan đến chương trình tiếp cận mở rộng đã không cho thấy lợi ích có ý nghĩa ở nhóm đối tượng này và cho thấy mối liên quan tiềm tàng với nhu cầu thở máy ngày càng tăng. Dữ liệu này có thể được xem xét ở những bệnh nhân không nhập viện bị bệnh từ nhẹ đến trung bình và có nguy cơ cao tiến triển thành bệnh nặng nếu không có phương án điều trị nào khác.
+
+Điều trị bằng globulin miễn dịch không đặc hiệu (IVIG) và tế bào gốc trung mô cũng không được khuyến nghị.
+
+Các liệu pháp điều hòa miễn dịch bổ sung, bao gồm interferon, thuốc ức chế kinase và thuốc ức chế interleukin đã được sử dụng, nhưng không có đủ dữ liệu để khuyến nghị sử dụng các thuốc đó theo thường quy ngoài các thử nghiệm lâm sàng.
+
+Các loại thuốc khác đã được sử dụng bao gồm azithromycin và thuốc kháng vi-rút, nhưng không có đủ dữ liệu để hỗ trợ việc sử dụng các loại thuốc này bên ngoài các thử nghiệm lâm sàng.
+
+Nhiều thử nghiệm lâm sàng về thuốc điều trị HIV retrovirus lopinavir/ritonavir và thuốc chống sốt rét chloroquine và hydroxychloroquine đã chỉ ra rằng những loại thuốc này không có hiệu quả (
+
+14
+
+,
+
+15
+
+). Sự kết hợp giữa không có lợi ích và các độc tính liên quan đến
+
+chloroquine
+
+và
+
+hydroxychloroquine
+
+đã dẫn đến khuyến nghị không nên sử dụng các thuốc này để điều trị COVID-19.
+
+Ngoài ra, không có thử nghiệm lâm sàng phân nhóm ngẫu nhiên nào ghi nhận tính hữu ích của thuốc chống ký sinh trùng ivermectin trong việc phòng ngừa hoặc điều trị COVID-19 (
+
+16
+
+). Một nghiên cứu phân nhóm ngẫu nhiên, có đối chứng giả dược lớn gần đây cho thấy
+
+ivermectin
+
+không có tác dụng (
+
+17
+
+). FDA và các tổ chức khác đã đưa ra cảnh báo về độc tính từ việc sử dụng không đúng cách các chế phẩm
+
+ivermectin
+
+dành cho động vật lớn (xem
+
+FDA: Ivermectin and COVID-19
+
+).
+
+Thuốc ức chế tái hấp thu serotonin chọn lọc (SSRI) fluvoxamine đã được nghiên cứu trong 2 thử nghiệm lâm sàng chọn ngẫu nhiên trên bệnh nhân COVID-19 cấp cứu có triệu chứng với lợi ích không rõ ràng và xu hướng gia tăng tác hại; do đó, nó không được khuyến khích sử dụng bên ngoài thử nghiệm lâm sàng.
+
+Các biến chứng của bệnh COVID-19 cần được điều trị khi phát sinh. Bệnh nhân nằm viện có COVID-19, có thể tăng nguy cơ huyết khối tắc mạch. Một số Hiệp hội nghề nghiệp đã cấm hướng dẫn sử dụng liệu pháp chống khối máu trong đại dịch COVID-19. Nhìn chung, nên cân nhắc dùng
+
+thuốc chống đông
+
+trị liệu ở những bệnh nhân không mang thai, nằm viện, cần bổ sung oxy nhưng không cần hồi sức tích cực nếu họ có D-dimer tăng cao và không có nguy cơ chảy máu nghiêm trọng. Nguy cơ xảy ra biến cố bất lợi do chảy máu cao hơn lợi ích tiềm năng ở những bệnh nhân bị bệnh nguy kịch. Nên cân nhắc sử dụng thuốc dự phòng huyết khối tĩnh mạch cho tất cả các bệnh nhân nhập viện khác trừ khi có chống chỉ định.
+
+Nên tiếp tục sử dụng các loại thuốc như thuốc ức chế men chuyển angiotensin (ACE) hoặc thuốc chẹn thụ thể angiotensin II (ARB) nếu cần cho các tình trạng bệnh lý đi kèm nhưng không bắt đầu sử dụng để điều trị COVID-19. Không có bằng chứng nào cho thấy việc sử dụng các thuốc chống viêm không steroid (NSAIDs) có liên quan đến các kết quả xấu hơn, và có thể sử dụng acetaminophen hoặc NSAID trong quá trình điều trị COVID-19.
+
+Khi xử trí hô hấp của bệnh nhân COVID-19 được đặt nội khí quản và không được đặt nội khí quản, cần phải cân nhắc khuynh hướng giảm oxy máu. Các biện pháp bổ trợ không dùng thuốc như là thay đổi tư thế thường xuyên và đi lại có thể hữu ích.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Hammond J, Leister-Tebbe H, Gardner A, et al
+
+: Oral
+
+nirmatrelvir
+
+for high-risk, nonhospitalized adults with Covid-19.
+
+N Engl J Med
+
+386(15):1397-1408, 2022. doi: 10.1056/NEJMoa2118542
+
+2.
+
+Gottlieb RL, Vaca CE, Paredes R et al
+
+: Early
+
+remdesivir
+
+to prevent progression to severe covid-19 in outpatients.
+
+N Engl J Med
+
+386(4):305-315, 2022. doi: 10.1056/NEJMoa2116846
+
+3.
+
+Jayk Bernal A, Gomes da Silva MM, Musungaie DB, et al
+
+:
+
+Molnupiravir
+
+for oral treatment of Covid-19 in nonhospitalized Patients.
+
+N Engl J Med
+
+386(6):509-520, 2022. doi: 10.1056/NEJMoa2116044
+
+4.
+
+Beigel JH, Tomashek KM, Dodd LE, et al
+
+:
+
+Remdesivir
+
+for the treatment of Covid-19 - final report.
+
+N Engl J Med
+
+383(19):1813-1826, 2020. doi: 10.1056/NEJMoa2007764
+
+5.
+
+WHO Solidarity Trial Consortium
+
+:
+
+Remdesivir
+
+and three other drugs for hospitalised patients with COVID-19: final results of the WHO Solidarity randomised trial and updated meta-analyses.
+
+Lancet
+
+399(10339):1941-1953, 2022. doi: 10.1016/S0140-6736(22)00519-0
+
+6.
+
+Ader F, Bouscambert-Duchamp M, Hites M, et al
+
+:
+
+Remdesivir
+
+plus standard of care versus standard of care alone for the treatment of patients admitted to hospital with COVID-19 (DisCoVeRy): a phase 3, randomised, controlled, open-label trial.
+
+Lancet Infect Dis
+
+22(2):209-221, 2022. doi: 10.1016/S1473-3099(21)00485-0
+
+7.
+
+RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, et al
+
+:
+
+Dexamethasone
+
+in hospitalized patients with Covid-19.
+
+N Engl J Med
+
+384(8):693-704, 2021. doi: 10.1056/NEJMoa2021436
+
+8.
+
+Marconi VC, Ramanan AV, de Bono S, et al
+
+: Efficacy and safety of
+
+baricitinib
+
+for the treatment of hospitalised adults with COVID-19 (COV-BARRIER): a randomised, double-blind, parallel-group, placebo-controlled phase 3 trial [published correction appears in
+
+Lancet Respir Med
+
+tháng 10 năm 2021;9(10):e102].
+
+Lancet Respir Med
+
+9(12):1407-1418, 2021 doi:10.1016/S2213-2600(21)00331-3
+
+9.
+
+Kalil AC, Patterson TF, Mehta AK, et al
+
+:
+
+Baricitinib
+
+plus
+
+remdesivir
+
+for hospitalized adults with Covid-19.
+
+N Engl J Med
+
+384(9):795-807, 2021 doi:10.1056/NEJMoa2031994
+
+10.
+
+REMAP-CAP Investigators, Gordon AC, Mouncey PR, et al
+
+: Interleukin-6 receptor antagonists in critically ill patients with Covid-19.
+
+N Engl J Med
+
+384(16):1491-1502, 2021 doi:10.1056/NEJMoa2100433
+
+11.
+
+RECOVERY Collaborative Group, Horby P, Lim WS, et al
+
+:
+
+Dexamethasone
+
+in hospitalized patients with Covid-19.
+
+N Engl J Med
+
+384(8):693-704, 2021 doi:10.1056/NEJMoa2021436
+
+12.
+
+Vlaar APJ, Witzenrath M, van Paassen P, et al
+
+: Anti-C5a antibody (
+
+vilobelimab
+
+) therapy for critically ill, invasively mechanically ventilated patients with COVID-19 (PANAMO): a multicentre, double-blind, randomised, placebo-controlled, phase 3 trial.
+
+Lancet Respir Med
+
+10(12):1137-1146, 2022 doi:10.1016/S2213-2600(22)00297-1
+
+13.
+
+Janiaud P, Axfors C, Schmitt AM, et al
+
+: Association of convalescent plasma treatment with clinical outcomes in patients with COVID-19: A systematic review and meta-analysis.
+
+JAMA
+
+325(12);1185-1195, 2021, doi: 10.1001/jama.2021.2747
+
+14.
+
+Self WH, Semler MW, Leither LM, et al
+
+. Effect of
+
+hydroxychloroquine
+
+on clinical status at 14 days in hospitalized patients with COVID-19: a randomized clinical trial.
+
+JAMA
+
+324(21):2165-2176, 2020 doi:10.1001/jama.2020.22240
+
+15.
+
+RECOVERY Collaborative Group, Horby P, Mafham M, et al
+
+. Effect of
+
+hydroxychloroquine
+
+in hospitalized patients with Covid-19.
+
+N Engl J Med
+
+383(21):2030-2040, 2020 doi:10.1056/NEJMoa2022926
+
+16.
+
+Popp M, Stegemann M, Metzendorf MI, et al
+
+:
+
+Ivermectin
+
+for preventing and treating COVID-19.
+
+Cochrane Database Syst Rev.
+
+7(7):CD015017, 2021. doi: 10.1002/14651858.CD015017.pub2
+
+17.
+
+Reis G,Silva EASM, Silva DCM, et al
+
+: Effect of early treatment with
+
+ivermectin
+
+among patients with COVID-19.
+
+N Engl J Med
+
+386:1721-1731, 2022. doi: 10.1056/NEJMoa2115869
+
+Nhiễm bệnh hậu COVID-19
+
+Xét nghiệm PCR vi rúts ở bệnh nhân có thể vẫn dương tính trong ít nhất 3 tháng bất kể triệu chứng. Tuy nhiên, ngay cả những bệnh nhân có triệu chứng kéo dài thường không được coi là có khả năng lây nhiễm, do vi rút hiếm khi có thể được nuôi cấy từ đường hô hấp trên của bệnh nhân sau 10 ngày mắc bệnh.
+
+Mặc dù nhiễm coronavirus có thể tạo ra một số mức độ miễn dịch đối với việc tái nhiễm, thời gian và hiệu quả của miễn dịch sau COVID-19 vẫn khó định lượng và phụ thuộc vào nhiều yếu tố vật chủ và vi rút. Những bệnh nhân đã mắc bệnh COVID-19, bao gồm cả những người có các triệu chứng kéo dài sau COVID-19, vẫn được khuyến nghị tiêm tất cả các loại vắc xin đủ điều kiện để giảm nguy cơ tái nhiễm. Họ có thể làm như vậy khi được phục hồi về mặt lâm sàng sau nhiễm bệnh và hoàn tất thời gian cách ly y tế. Kháng thể trung hòa được phát hiện ở hầu hết bệnh nhân sau khi nhiễm SARS-COV-2, nhưng nồng độ của các thể này thay đổi nhiều hơn so với những người sau khi tiêm chủng. Những điều này có khả năng có bảo vệ chống lại sự tái nhiễm rõ ràng về mặt lâm sàng ở hầu hết những người có đủ khả năng miễn dịch trong ít nhất 3 và đến 6 tháng, nhưng khung thời gian này có thể ngắn hơn nếu một biến thể mới khác biệt về mặt kháng nguyên xuất hiện. Các triệu chứng liên quan đến tái nhiễm có xu hướng tương tự hoặc nhẹ hơn so với lần nhiễm ban đầu.
+
+Tài liệu tham khảo về nhiễm bệnh hậu COVID-19
+
+1.
+
+Zhong D, Xiao S, Debes AK, et al
+
+: Durability of antibody levels after vaccination with mRNA SARS-CoV-2 vaccine in individuals with or without prior infection.
+
+JAMA
+
+326(24):2524-2526, 2021 doi:10.1001/jama.2021.19996
+
+Phòng ngừa COVID-19
+
+Tiêm vắc-xin phòng COVID-19
+
+Để biết thông tin thảo luận chi tiết về các loại vắc xin được phê duyệt tại Hoa Kỳ, hãy xem
+
+vắc xin ngừa COVID-19
+
+.
+
+Tiêm phòng là cách hiệu quả nhất để ngăn ngừa bệnh nặng và tử vong do COVID-19, bao gồm cả các biến thể Delta và Omicron. Tại Hoa Kỳ vào mùa thu năm 2021, những người chưa được tiêm chủng có nhiều khả năng tử vong vì COVID-19 hơn những người đã được tiêm chủng (có tiêm nhắc lại) (
+
+1
+
+).
+
+Tại Hoa Kỳ,
+
+CDC khuyến nghị những người có hệ miễn dịch bình thường
+
+từ 12 tuổi trở lên nên tiêm 1 liều vắc-xin mRNA phòng ngừa SARS-CoV-2 (COVID-19) cập nhật 2023–2024 từ một trong hai nhà sản xuất (Moderna hoặc Pfizer-BioNTech) hoặc 1 hoặc 2 liều (tùy thuộc vào lịch sử tiêm chủng) vắc-xin hạt nano protein gai tái tổ hợp phòng ngừa vi-rút SARS-CoV-2 (COVID-19) cập nhật 2023-2024 do Novavax sản xuất (xem
+
+CDC: Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States
+
+). Trẻ em từ 6 tháng đến 4 tuổi nên tiêm 1 đến 3 liều công thức bào chế mRNA 2023–2024 (liều khuyến nghị và nhà sản xuất thay đổi tùy theo lịch sử tiêm chủng) và trẻ em từ 5 tuổi đến 11 tuổi nên tiêm 1 liều bất kể lịch sử tiêm chủng công thức bào chế mRNA 2023–2024. CDC cũng khuyến nghị người lớn từ 65 tuổi trở lên nên tiêm thêm một liều vắc xin COVID-19 cập nhật 2023-2024 (xem
+
+CDC: Older Adults Now Able to Receive Additional Dose of Updated COVID-19 Vaccine
+
+). Quý vị cũng có thể tìm thấy hướng dẫn dành cho những người bị suy giảm miễn dịch ở mức độ vừa phải hoặc nặng trên
+
+trang web của CDC
+
+. Vắc xin cập nhật giai đoạn 2023–2024 nhắm vào biến thể XBB.1.5 Omicron. Công thức bào chế 2023–2024 thay thế vắc xin một chủng COVID-19 nhắm vào chủng SARS-CoV-2 ban đầu và vắc xin kết hợp hai chủng nhắm vào cả vi rút ban đầu và các biến thể phụ BA.4/BA.5 Omicron.
+
+Nhiều loại vắc-xin COVID-19 hiện đang được sử dụng trên toàn thế giới. Để biết thêm thông tin về việc phê duyệt vắc-xin toàn cầu và các thử nghiệm lâm sàng, hãy xem
+
+công cụ theo dõi và bối cảnh vắc-xin COVID-19
+
+của Tổ chức Y tế Thế giới.
+
+Các loại vắc xin mRNA
+
+không chứa kháng nguyên vi rút mà cung cấp một đoạn mRNA tổng hợp nhỏ mã hóa cho kháng nguyên đích mong muốn (protein gai). Sau khi được các tế bào của hệ miễn dịch tiếp nhận, mRNA của vắc xin sẽ phân hủy sau khi dẫn hướng tế bào đó sản xuất kháng nguyên vi rút. Sau đó, kháng nguyên được giải phóng và kích hoạt đáp ứng miễn dịch mong muốn để ngăn ngừa nhiễm bệnh nặng khi phơi nhiễm với vi rút thực sự.
+
+Vắc xin véc tơ adenovirus
+
+có chứa một đoạn DNA, hoặc vật liệu di truyền, được sử dụng để tạo ra protein “gai” đặc biệt của vi rút SARS-CoV-2, sau đó sẽ kích hoạt đáp ứng miễn dịch mong muốn.
+
+Vắc xin bổ trợ tiểu đơn vị protein
+
+có protein gai của SARS-COV-2 tái tổ hợp cùng với chất bổ trợ kích hoạt đáp ứng miễn dịch mong muốn. Đây là phương pháp tiêm vắc xin cổ điển đã được sử dụng ở Hoa Kỳ trong hơn 30 năm.
+
+Hai loại vắc xin mRNA (công thức bào chế 2023–2024 của vắc xin ngừa COVID-19 Moderna và vắc xin Pfizer-BioNTech COVID-19) và một vắc xin bổ trợ tiểu đơn vị protein (công thức bào chế 2023–2024 của Vắc xin Novavax COVID-19, có tá dược) được sử dụng ở Hoa Kỳ (xem
+
+CDC: COVID-19 Vaccination Clinical & Professional Resources)
+
+. Kể từ ngày 6 tháng 5 năm 2023, vắc xin vectơ adenovirus (Ad26.COV2.S) không còn được sử dụng ở Hoa Kỳ do nguy cơ xảy ra các tác dụng bất lợi nghiêm trọng. Có mối quan hệ nhân quả hợp lý giữa vắc xin vectơ adenovirus và một tác dụng bất lợi hiếm gặp và nghiêm trọng—đông máu với số lượng tiểu cầu thấp (huyết khối do vắc xin gây ra với hội chứng giảm tiểu cầu, hay VITTS).
+
+Kháng thể đơn dòng
+
+Pemivibart, một kháng thể đơn dòng, đã được cấp phép sử dụng khẩn cấp (EUA) để ngăn ngừa COVID-19 ở những người từ 12 tuổi trở lên và cân nặng ít nhất 40 kg. Vắc-xin này dành cho những người hiện không bị nhiễm SARS-CoV-2, những người chưa từng tiếp xúc gần đây với người bị nhiễm SARS-CoV-2 và những người có hệ miễn dịch suy giảm từ trung bình đến nặng và không có khả năng tạo ra đáp ứng miễn dịch đầy đủ với vắc-xin phòng COVID-19. Bệnh nhân vẫn nên tiêm vắc-xin phòng COVID-19. Có thể tiêm Pemivibart ít nhất 2 tuần sau khi tiêm vắc-xin COVID-19 làm một lớp bảo vệ bổ sung.
+
+Phòng ngừa phơi nhiễm
+
+Ngoài việc cập nhật vắc xin ngừa COVID-19, mọi người có thể tránh tiếp xúc với vi rút bằng cách rửa tay thường xuyên, đeo khẩu trang, duy trì khoảng cách xã hội, tránh những không gian và đám đông kém thông gió, đồng thời thực hiện các bước khác do
+
+Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) khuyến nghị
+
+. Mọi người cũng nên xét nghiệm COVID-19 nếu họ tiếp xúc với một người bị nhiễm bệnh hoặc có các triệu chứng. Những người có triệu chứng nên tuân theo các khuyến nghị để cách ly y tế.
+
+Để giúp ngăn ngừa sự lây lan của SARS-CoV-2 từ các trường hợp nghi ngờ, các chuyên gia chăm sóc sức khỏe nên sử dụng các biện pháp phòng ngừa tiêu chuẩn, tiếp xúc và không khí cùng với bảo vệ mắt (
+
+2
+
+). Các biện pháp phòng ngừa theo đường không khí đặc biệt phù hợp với bệnh nhân đã được thực hiện các thủ thuật tạo khí dung.
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Johnson AG, Amin AB, Ali AR, et al
+
+: COVID-19 incidence and death rates among unvaccinated and fully vaccinated adults with and without booster doses during periods of delta and Omicron variant emergence — 25 U.S. Jurisdictions, ngày 4 tháng 4 đến ngày 25 tháng 12 năm 2021.
+
+MMWR Morb Mortal Wkly Rep
+
+71:132–138. 2022. doi: 10.15585/mmwr.mm7104e2
+
+2.
+
+Lynch JB, Davitkov P, Anderson DJ, et al
+
+. Infectious Diseases Society of America Guidelines on Infection Prevention for Healthcare Personnel Caring for Patients with Suspected or Known COVID-19.
+
+Clin Infect Dis
+
+. Xuất bản trực tuyến ngày 15 tháng 11 năm 2021. doi:10.1093/cid/ciab953
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+CDC: COVID Data Tracker
+
+CDC: COVID-19 Vaccination Clinical & Professional Resources
+
+CDC: Healthcare Workers: Information on COVID-19
+
+WHO: Coronavirus disease (COVID-19) technical guidance
+
+WHO: Novel Coronavirus (COVID-2019) situation reports
+
+Infectious Diseases Society of America (IDSA) Guidelines on the Treatment and Management of Patients with COVID-19
+
+Test your Knowledge
+
+Take a Quiz!
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (nhiễm SARS-CoV-2) ---
+
+TheoSophie Katz,MD, MPH,Vanderbilt University Medical CenterXem xét bởiBrenda L. Tesini,MD,University of Rochester School of Medicine and DentistryĐã xem xét/Đã chỉnh sửaThg 7 2024|đã sửa đổiThg 4 2025v58251886_vi
+
+--- 2. Mức độ lan truyền của COVID-19 ---
+
+SARS-CoV-2 lây lan qua tiếp xúc gần giữa người với người, chủ yếu qua các giọt bắn từ đường hô hấp khi người bị nhiễm bệnh ho, hắt hơi, hát, tập thể dục hoặc nói chuyện. Tình trạng lây lan xảy ra thông qua các giọt bắn từ hô hấp lớn có thể di chuyển quãng đường ngắn và bám trực tiếp vào bề mặt niêm mạc hoặc thông qua các sol khí nhỏ có thể lơ lửng trong không khí trong vài giờ và di chuyển quãng đường xa hơn (khoảng > 2 mét) trước khi bị hít vào. Sự lây lan của vi rút cũng có thể xảy ra khi tiếp xúc với các bề mặt bị ô nhiễm (bọt khí) do dịch tiết đường hô hấp, nếu một người chạm vào bề mặt bị ô nhiễm và sau đó chạm vào niêm trên mặt (mắt, mũi, miệng).SARS-CoV-2 lây lan dễ dàng giữa người với người. Nguy cơ lây truyền liên quan trực tiếp đến số lượng vi rút mà một người phơi nhiễm. Nói chung, tương tác càng gần và càng lâu với người bị bệnh, nguy cơ lây lan vi rút càng cao. Cả những bệnh nhân không có triệu chứng và có triệu chứng đều có thể truyền vi rút, điều này gây khó khăn cho việc kiểm soát tình trạng lây lan. Một người có triệu chứng dễ lây nhất trong vài ngày trước và sau khi khởi phát các triệu chứng, tại thời điểm đó tải lượng vi rút trong dịch tiết đường hô hấp là lớn nhất.Các yếu tố như khoảng cách với người bị nhiễm bệnh, số lượng người bị nhiễm bệnh trong phòng, thời gian tiếp xúc với người bị nhiễm bệnh, kích thước của không gian, hoạt động tạo ra sol khí (ví dụ: hát, la hét hoặc tập thể dục), thông gió ở tại chỗ, hướng và tốc độ của luồng không khí có thể góp phần vào nguy cơ này.Các biến thể di truyền của SARS-CoV-2 xuất hiện khi nó tiến hóa. Các biến thể có khả năng tăng khả năng lây truyền, bệnh nặng hơn, thất bại trong phát hiện chẩn đoán hoặc giảm đáp ứng với các phương pháp điều trị và/hoặc vắc xin hiện có được theo dõi là biến thể cần quan tâm và thường được gọi bằng nhãn bảng chữ cái Hy Lạp do WHO chỉ định hoặc số dòng Pango của vi rút này. Một đột biến gen mang lại lợi thế về thể lực, cụ thể là tăng khả năng truyền bệnh, có thể nhanh chóng thay thế các biến thể lưu hành trước đó. Sự phát triển của các biến thể thống trị ở Hoa Kỳ và phần lớn thế giới bao gồm Alpha, Beta, Delta và Omicron. Biến thể Omicron đã thống trị toàn thế giới kể từ ngày 2 tháng 3 năm 2022, với các biến thể Omicron mới hơn và dễ lây truyền hơn đã thay thế Omicron ban đầu. Xem thêmCDC: Biến thể và giám sát bộ gen.Các tình huống có nguy cơ lây truyền cao bao gồm các cơ sở sinh hoạt tập trung (ví dụ: cơ sở chăm sóc người cao tuổi hoặc các cơ sở chăm sóc dài hạn khác, trường học dân cư, nhà tù, tàu) cũng như môi trường đông đúc, kém thông thoáng, chẳng hạn như các dịch vụ tôn giáo trong nhà, phòng tập thể dục, quán bar, câu lạc bộ đêm, nhà hàng trong nhà và cơ sở đóng gói thịt. Những tình huống như vậy có mật độ dân số cao, trong đó việc duy trì khoảng cách và các biện pháp phòng ngừa thông gió là khó khăn. Những người sống trong các cơ sở chăm sóc người cao tuổi cũng có nguy cơ mắc bệnh nặng vì tuổi tác và các bệnh nền. Các sự kiện lớn trong nhà hoặc các cuộc tụ họp riêng tư như họp mặt hoặc đám cưới cũng có liên quan đến tốc độ lây truyền cao. Những sự kiện hoặc tình huống được gọi là siêu lây truyền này có thể là do sự kết hợp của các yếu tố sinh học, môi trường và hành vi.Các yếu tố xã hội quyết định sức khỏe (điều kiện ở những nơi con người sinh ra, sống, học tập, làm việc và vui chơi) tác động đến nhiều nguy cơ và kết cục về sức khỏe, chẳng hạn như khả năng phơi nhiễm với nhiễm SARS-CoV-2, COVID-19 nặng và tử vong, cũng như khả năng tiếp cận xét nghiệm, tiêm chủng và điều trị. Tại Hoa Kỳ, tỷ lệ ca mắc COVID-19, nhập viện và tử vong cao hơn ở một số nhóm dân tộc thiểu số, bao gồm người da đen, người gốc Tây Ban Nha hoặc La tinh, người Mỹ bản địa và người bản địa Alaska, nhưng đã trở nên tương tự ở tất cả các nhóm dân tộc và thiểu số kể từ ngày 2 tháng 4 năm 2024 (CDC: COVID Data Tracker).Đối với những người bị nhiễm COVID-19, các biện pháp cách ly y tế và phòng ngừa được khuyến nghị nhằm hạn chế sự lây lan của nhiễm SARS-CoV-2. (Xem thêmCDC: Preventing Spread of Respiratory Viruses When You’re Sick.) Đối với những người phơi nhiễm với COVID-19, các biện pháp phòng ngừa được khuyến nghị để giúp giảm nguy cơ lây lan vi rút. (Xem thêmCDC: Preventing Respiratory Viruses.)
+
+--- 3. Các triệu chứng và dấu hiệu của COVID-19 ---
+
+Mức độ nặng và nhóm các triệu chứng khác nhau ở những người bị COVID-19. Một số có ít hoặc không có triệu chứng, và một số bị bệnh nặng và tử vong. Các triệu chứng phổ biến có thể bao gồmSốtHoĐau họngNghẹt mũi hoặc chảy nước mũiThở dốc hoặc khó thởỚn lạnh hoặc run rẩy kèm theo rùng mình nhiều lầnKhông ngửi thấy mùi hoặc không nếm thấy vị mới xuất hiệnMệt mỏiĐau cơĐau đầuBuồn nôn hoặc nônBệnh tiêu chảyThời gian ủ bệnh (tức là thời gian từ khi phơi nhiễm đến khi khởi phát triệu chứng) dao động từ 2 ngày đến 10 ngày, với thời gian trung bình ước tính chỉ là 2 ngày đến 4 ngày đối với biến thể Omicron (1). Nhiều người bị nhiễm không có triệu chứng hoặc bệnh nhẹ; khả năng xảy ra điều này khác nhau tùy thuộc vào biến thể SARS-CoV-2 và nguy cơ mắc bệnh nặng của người đó, bao gồm cả tình trạng chủng ngừa COVID.Các dấu hiệu tiên lượng nặng bao gồm khó thở, giảm oxy máu, và thâm nhiễm phổi lan tỏa. Điều này có thể tiến triển đến suy hô hấp cần phảithở máy, sốc, suy đa tạng và tử vong.Các yếu tố nguy cơ bị bệnh nặngNguy cơ mắc bệnh nghiêm trọng và tử vong ở các trường hợp mắc COVID-19 tăng ở những người trên 65 tuổi, những người hút thuốc lá hoặc đã từng hút thuốc lá và những người mắc các bệnh lý nghiêm trọng khác, chẳng hạn nhưUng thưBệnh tim, phổi, thận hoặc gan mạn tínhXơ nangBệnh tiểu đườngĐột quỵ hoặc bệnh mạch máu nãoTình trạng suy giảm miễn dịchNhiễm HIVBệnh laoBệnh hồng cầu hình liềmThalassemiaSa sút trí tuệBéo phìMang thai (lên đến 42 ngày sau khi mang thai)Một số dạng khuyết tậtRối loạn sử dụng chấtKhông hoạt động thể chấtMột số rối loạn sức khỏe tâm thần như trầm cảm và tâm thần phân liệt(Xem thêmCDC: COVID-19: People with Certain Medical Conditions.)Tiêm vắc xingiúp làm giảm đáng kể nguy cơ mắc bệnh nặng cho tất cả các nhóm tuổi – tỷ lệ tiêm vắc xin thấp hơn ở các nhóm tuổi trẻ hơn đã làm thay đổi nhân khẩu học theo độ tuổi của bệnh nhân nhập viện (xemCDC: COVID Data Tracker). Những người đã được tiêm vắc-xin phòng ngừa COVID-19 có thể không có triệu chứng hoặc có ít triệu chứng hơn và ít nghiêm trọng hơn, đồng thời hồi phục nhanh hơn nhiều so với những người chưa tiêm vắc-xin.Các biến chứngNgoài bệnh hô hấp có thể tiến triển thành hội chứng suy hô hấp cấp tính (ARDS) và tử vong, các biến chứng nghiêm trọng khác bao gồm:Bệnh tim, bao gồmloạn nhịp,bệnh cơ timvà tổn thương tim cấp tínhRối loạn đông máu, bao gồm thuyên tắc huyết khối vàcục nghẽn động mạch phổi,đông máu rải rác trong lòng mạch (DIC), xuất huyết và hình thành cục máu đông động mạchHội chứng Guillain Barre(hiếm)Nhiễm khuẩn huyết,sốcvà suy đa cơ quanHội chứng viêm sau nhiễm bệnh được gọi làhội chứng viêm đa hệ thống ở trẻ em (MIS-C)đã được quan sát thấy là một biến chứng hiếm gặp của nhiễm SARS-CoV-2. Nó có các đặc điểm tương tự nhưbệnh Kawasakihoặchội chứng sốc nhiễm độc. Trẻ mắc MIS-C thường có biểu hiện sốt, nhịp tim nhanh, dấu hiệu viêm toàn thân và tổn thương đa hệ thống (ví dụ: tim, tiêu hóa, thận) ở thời điểm sau khi nhiễm SARS-CoV-2 thường nhẹ hoặc thậm chí không có triệu chứng từ 2 đến 6 tháng. Các trường hợp đáp ứng các tiêu chuẩn sau đây phải được báo cáo cho sở y tế địa phương, tiểu bang hoặc lãnh thổ khi nghi ngờ MIS-C: cá nhân < 21 tuổi bị sốt > 24 giờ, bằng chứng xét nghiệm về viêm, dấu hiệu tổn thương nghiêm trọng của đa hệ thống (≥ 2 cơ quan) cần phải nhập viện và có xét nghiệm hoặc dịch tễ học liên quan đến nhiễm SARS-CoV-2 gần đây (2). Tiêm vắc xin dường như có khả năng bảo vệ cao chống lại sự phát triển của MIS-C (2). MIS-C đã trở nên ít phổ biến hơn kể từ khi đại dịch bắt đầu, có thể là do tiêm chủng và khả năng miễn dịch sau khi nhiễm SARS-CoV-2 trước đó. Một hội chứng viêm đa hệ thống tương tự ở thanh niên và trung niên (MIS-A) cũng đã được báo cáo (3).Hết triệu chứngỞ hầu hết các bệnh nhân, các triệu chứng sẽ hết trong vòng khoảng một tuần. Tuy nhiên, một số bệnh nhân bắt đầu với các triệu chứng nhẹ, sau đó xấu đi về mặt lâm sàng sau một tuần, tiến triển thành bệnh nặng, bao gồm cảARDS. Bệnh kéo dài dường như phổ biến hơn ở những người bị bệnh nặng, nhưng ngay cả những bệnh nhân bị bệnh nhẹ cũng có thể có các triệu chứng dai dẳng, bao gồm khó thở, ho và khó chịu kéo dài hàng tuần hoặc thậm chí hàng tháng. Xét nghiệm PCR vi rúts ở bệnh nhân có thể vẫn dương tính trong ít nhất 3 tháng bất kể triệu chứng. Tuy nhiên, ngay cả những bệnh nhân có các triệu chứng kéo dài thường không được coi là lây nhiễm, vì vi rút hiếm khi có thể được nuôi cấy từ đường hô hấp trên của bệnh nhân sau 10 ngày mắc bệnh.COVID-19 cũng có thể liên quan đến di chứng lâu dài sau bệnh cấp tính (4) và các triệu chứng của tình trạng hậu COVID-19 có thể kéo dài nhiều tháng. Điều này đã được gọi bằng nhiều tên, bao gồm COVID dài, COVID kéo dài và hội chứng hoặc tình trạng COVID-19 hậu cấp tính và ước tính sẽ ảnh hưởng đến 25 % đến 50% tổng số bệnh nhân trong một số cuộc khảo sát ở Hoa Kỳ. Mệt mỏi, suy nhược, đau, đau cơ, khó thở và rối loạn chức năng nhận thức thường được báo cáo và có thể liên quan đến chất lượng cuộc sống kém hơn (5). Các yếu tố nguy cơ để lại di chứng lâu dài có thể bao gồm biểu hiện bệnh nặng hơn, tuổi cao hơn, giới tính nữ và bệnh phổi đã có từ trước. Một định nghĩa ca bệnh quốc tế đã được thiết lập để hỗ trợ chẩn đoán và nghiên cứu thêm về tình trạng này (6).Tài liệu tham khảo về các dấu hiệu và triệu chứng1.Jansen L, Tegomoh B, Lange K, et al: Investigation of a SARS-CoV-2 B.1.1.529 (Omicron) variant cluster - Nebraska, November-December 2021.MMWR Morb Mortal Wkly Rep70(5152):1782-2784, 2021. doi: 10.15585/mmwr.mm705152e32.Centers for Disease Control and Prevention:Case Definitions and Reporting, MIS-C Case Definition. Truy cập tháng 6 năm 2024.3.Morris SB, Schwartz NG, Patel P, et al: Case series of multisystem inflammatory syndrome in adults associated with SARS-CoV-2 infection — United Kingdom and United States, March–August 2020.MMWR69:1450–1456, 2020. doi: 10.15585/mmwr.mm6940e14.Nalbandian A, Sehgal K, Gupta A, et al: Post-acute COVID-19 syndrome.Nat Med27(4):601-615, 2021 doi: 10.1038/s41591-021-01283-z5.Han JH, Womack KN, Tenforde MW, et al: Associations between persistent symptoms after mild COVID-19 and long-term health status, quality of life, and psychological distress.Influenza Other Respir Viruses16(4):680-689, 2022 doi:10.1111/irv.129806.Soriano JB, Murthy S, Marshall JC, et al: A clinical case definition of post-COVID-19 condition by a Delphi consensus.Lancet Infect Dis22(4):e102-e107, 2022. doi: 10.1016/S1473-3099(21)00703-9
+
+--- 4. Chẩn đoán COVID-19 ---
+
+Phản ứng chuỗi phiên mã ngược-polymerase theo thời gian thực (RT-PCR) hoặc xét nghiệm khuếch đại axit nucleic khác (NAAT) của dịch tiết đường hô hấp trên và dướiXét nghiệm kháng nguyên của dịch tiết đường hô hấp trênXét nghiệm chẩn đoán COVID-19 có sẵn thông qua các phòng xét nghiệm và các điểm xét nghiệm công cộng và cũng có thể được thực hiện tại nhà. Có 2 loại xét nghiệm chẩn đoán COVID-19 chính: phản ứng chuỗi polymerase phiên mã ngược thời gian thực (RT-PCR) (hoặc xét nghiệm khuếch đại axit nucleic khác [NAAT]) và xét nghiệm kháng nguyên. Việc lựa chọn xét nghiệm chẩn đoán và cách giải thích xét nghiệm này nên được quyết định bởi khả năng người đó mắc COVID-19 dựa trên tỷ lệ hiện mắc của SARS-CoV-2 trong cộng đồng và sự hiện diện của các triệu chứng, dấu hiệu của COVID-19 hoặc tiếp xúc gần với trường hợp mắc COVID-19 đã biết (xemCDC: COVID-19: Overview of Testing for SARS-CoV-2, the virus that causes COVID-19).RT-PCR có độ nhạy và độ đặc hiệu phân tích cao nhất và là xét nghiệm chẩn đoán tiêu chuẩn vàng cho COVID-19. Các nền tảng NAAT khác thường kém nhạy hơn một chút so với RT-PCR với độ đặc hiệu tương đương (xemCDC: COVID-19: Nucleic Acid Amplification Tests). Tuy nhiên, xét nghiệm PCR vi rút dương tính không phải lúc nào cũng chỉ ra tình trạng nhiễm trùng đang hoạt động. Xét nghiệm này có thể phát hiện các mảnh axit nucleic của vi rút không thể sống được và có thể vẫn dương tính trong ít nhất 3 tháng sau khi chẩn đoán ban đầu bất kể triệu chứng.Xét nghiệm kháng nguyên tại giường và tại nhà có thể cung cấp kết quả nhanh chóng (xemCDC: COVID-19: Considerations for SARS-CoV-2 Antigen Testing for Healthcare Providers Testing Individuals in the Community). Đây có thể là một biện pháp quan trọng để xác định các ca bệnh không có triệu chứng và làm gián đoạn sự lây truyền SARS-CoV-2. Các xét nghiệm phát hiện kháng nguyên tại chỗ hoặc tại nhà ít nhạy hơn NAATs, đặc biệt là ở thời điểm bắt đầu nhiễm bệnh khi tải lượng vi rút có thể thấp hơn. Độ nhạy của các xét nghiệm này so với xét nghiệm PCR khác nhau tùy theo nhà sản xuất và thời gian lây nhiễm, với phạm vi được báo cáo từ 40 đến 90% (1-4). Do đó, có thể cần xác nhận một số kết quả xét nghiệm kháng nguyên (ví dụ: xét nghiệm âm tính ở một người có triệu chứng) bằng RT-PCR hoặc NAAT khác. Nhiều bộ xét nghiệm phát hiện kháng nguyên cũng khuyên bạn nên lặp lại xét nghiệm nhiều lần trong vài ngày để tăng khả năng phát hiện nhiễm trùng (xem thêmFDA: At-Home COVID-19 Antigen Tests-Take Steps to Reduce Your Risk of False Negative Results). Một số xét nghiệm có thể không phát hiện ra biến thể Omicron (xemFDA: SARS-CoV-2 Viral Mutations: Impact on COVID-19 Tests). Các xét nghiệm kháng nguyên ít có khả năng duy trì kết quả tích cực sau khi khỏi nhiễm trùng vì các xét nghiệm này chỉ phát hiện tải lượng vi rút cao hơn. Tuy nhiên, các yếu tố khác ngoài tải lượng vi rút có thể ảnh hưởng đến khả năng lây nhiễm; do đó kết quả xét nghiệm kháng nguyên không nhất thiết tương quan với khả năng lây nhiễm.Các mẫu bệnh phẩm được chấp nhận để xét nghiệm chẩn đoán COVID-19 bao gồm dịch mũi họng, miệng họng, xương xoăn mũi giữa, hai lỗ mũi trước và nước bọt. Tham khảo hướng dẫn thu thập của phòng thí nghiệm hoặc tờ hướng dẫn sử dụng bộ kit xét nghiệm được chấp nhận, vì không phải tất cả các nền tảng thử nghiệm và phòng thí nghiệm đều có thể xét nghiệm được tất cả các loại mẫu bệnh phẩm. Những mẫu này có thể do chuyên gia chăm sóc sức khỏe thu thập hoặc tự thu thập, ngoại trừ mẫu bệnh phẩm mũi họng, chỉ nên do chuyên gia chăm sóc sức khỏe được đào tạo và có chứng chỉ phù hợp thu thập.Đối với các mẫu bệnh phẩm mũi họng và miệng họng, chỉ sử dụng que tăm bông lấy bệnh phẩm làm bằng sợi tổng hợp có thân bằng nhựa hoặc bằng sợi kim loại. Không sử dụng gạc canxi alginate hoặc gạc bằng trục gỗ, vì chúng có thể chứa các chất bất hoạt và ức chế PCR. Phải cho các que tăm bông lấy bệnh phẩm vào ống vận chuyển đi kèm. Duy trì việc kiểm soát nhiễm trùng thích hợp khi thu thập các mẫu bệnh phẩm.Vì lý do an toàn sinh học, các tổ chức và phòng thí nghiệm địa phương không nên cố gắng phân lập vi rút trong nuôi cấy tế bào.Không nên sử dụng xét nghiệm huyết thanh, hoặc xét nghiệm kháng thể để chẩn đoán bệnh COVID-19 cấp tính, bởi vì thường chỉ có thể phát hiện được các kháng thể sau khi khởi phát triệu chứng từ 1 tuần đến 3 tuần. Có các xét nghiệm kháng thể nhằm mục tiêu kháng nguyên nucleocapsid SARS-CoV-2, kháng nguyên gai và vùng gắn kết thụ thể của kháng nguyên gai. Các xét nghiệm phát hiện kháng thể với protein nucleocapsid được khuyến nghị để đánh giá bằng chứng về nhiễm bệnh trước đó ở những người đã được tiêm vắc xin vì kháng nguyên đó không được bao gồm trong vắc xin. Có các xét nghiệm kháng thể định lượng và bán định lượng, nhưng hiện tại không có mối tương quan nào được chấp nhận về khả năng miễn dịch và không khuyến khích xét nghiệm để xác định đáp ứng miễn dịch với vắc-xin hoặc với tình trạng nhiễm bệnh (xemInfectious Disease Society of America (IDSA): Guidelines on the Diagnosis of COVID-19: Serologic Testing, Executive Summary).Đánh giá bệnh nhân có triệu chứngCác xét nghiệm thường quy cho những người bị bệnh nặng hơn bao gồm giảm bạch cầu lympho cũng như các kết quả kém đặc hiệu về nồng độ aminotransaminase (ALT, AST), tăng lactate dehydrogenase (LDH), D-dimer, ferritin và các dấu hiệu viêm cao như phản ứng C protein.Bệnh nhân khó thở, hạ oxy máu khi đo oxy tại nhà hoặc các triệu chứng liên quan khác nên được chuyển đến đánh giá y tế trực tiếp, bao gồm đo độ bão hòa oxy trong máu và theo dõi các dấu hiệu xấu đi trên lâm sàng.Chẩn đoán hình ảnh ngực có thể là bình thường với bệnh nhẹ và tăng theo mức độ nghiêm trọng của bệnh. Các dấu hiệu điển hình phù hợp với viêm phổi do vi rút và bao gồm các hình ảnh kính mờ và hình ảnh đông đặc trên phim X-quang ngực hoặc CT ngực. Chẩn đoán hình ảnh ngực không được khuyến nghị là một công cụ sàng lọc thường quy cho COVID-19.Tài liệu tham khảo chẩn đoán1.PK drain: Rapid diagnostic testing for SARS-CoV-2.N Engl J Med386(3):264-272, 2022. doi: 10.1056/NEJMcp21171152.Ford L, Lee C, Pray IW, et al: Epidemiologic characteristics associated with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antigen-based test results, real-time reverse transcription polymerase chain reaction (rRT-PCR) cycle threshold values, subgenomic RNA, and viral culture results from university testing.Clin Infect Dis73(6):e1348-e1355, 2021. doi: 10.1093/cid/ciab3033.Wu S, Archuleta S, Lim SM, et al: Serial antigen rapid testing in staff of a large acute hospital.Lancet Infect Dis22(1):14-15, 2022. doi: 10.1016/S1473-3099(21)00723-44.Dinnes J, Sharma P, Berhane S: Rapid, point-of-care antigen tests for diagnosis of SARS-CoV-2 infection.Cochrane Database Sys Revngày 22 tháng Bảy năm 2022. doi: 10.1002/14651858.CD013705.pub3/full
+
+--- 5. Điều trị COVID-19 ---
+
+Chăm sóc hỗ trợĐôi khi, đối với bệnh từ nhẹ đến trung bình có nguy cơ cao bị bệnh nặng: phối hợp nirmatrelvir/ritonavir; remdesivir (liệu trình ngắn); molnupiravirĐối với bệnh nặng: remdesivir; dexamethasone; các thuốc điều hòa miễn dịchViệc điều trị COVID-19 tùy thuộc vào mức độ nặng của bệnh và khả năng bệnh nhân phát triển thành bệnh nặng. Các hướng dẫn điều trị đang được thay đổi khi dữ liệu mới xuất hiện (xemInfectious Diseases Society of America (IDSA) Guidelines on the Treatment and Management of Patients with COVID-19andWorld Health Organization (WHO): COVID-19 Treatments).Định nghĩa của IDSA về mức độ nặng với các phương pháp điều trị nhắm đích như sau:COVID-19 từ nhẹ đến trung bình (SpO2 > 94% ở không khí phòng và không cần oxy bổ sung) có các yếu tố nguy cơ tiến triển thành bệnh nặng, nhập viện hoặc tử vongCOVID-19 nặng nhưng không nguy kịch (SpO2 < 94% ở không khí phòng hoặc cần bổ sung oxy lưu lượng thấp)COVID-19 nguy kịch cần oxy lưu lượng cao hoặc thở máy không xâm lấnCOVID-19 nguy kịch cần thở máy hoặc oxy hóa màng ngoài cơ thể (ECMO)Hiệu quả của các loại thuốc kháng vi-rút và kháng thể đơn dòng cụ thể chống lại các biến thể lưu hành tại chỗ được xem xét khi đưa ra quyết định điều trị (xemOpen Data Portal: Database of in vitro therapeutic activity against SARS-CoV-2 variants). Các phương án điều trị được liệt kê theo thứ tự ưu tiên dựa trên dữ liệu hiện có và các biến thể SARS-CoV-2 đang lưu hành trong máu. Lựa chọn phương pháp điều trị phải dựa trên khả năng sẵn có của thuốc, cơ sở hạ tầng để sử dụng thuốc và các yếu tố cụ thể của bệnh nhân bao gồm thời gian xuất hiện triệu chứng, khả năng tương tác thuốc, suy gan và suy thận. Không có dữ liệu về việc phối hợp các liệu pháp hiện có; do đó, chỉ nên dùng một loại thuốc chống SARS-CoV-2.Điều trị sớm cho những bệnh nhân mắc COVID-19 từ nhẹ đến trung bình có nguy cơ cao tiến triển thành bệnh nặngNhững phương pháp điều trị này nhằm ngăn chặn sự tiến triển thành bệnh nặng ở những bệnh nhân có nguy cơ cao. Các phương pháp này được dùng cho bệnh nhân trong vòng vài ngày sau khi khởi phát COVID-19 ở mức độ nhẹ đến trung bình đang cấp cứu (hoặc nhập viện vì những lý do khác ngoài COVID-19); các lựa chọn điều trị (ngoài remdesivir) chưa được nghiên cứu ở những bệnh nhân nhập viện vì COVID-19.Nirmatrelvir,một loại thuốc kháng vi-rút đường uống, dùng kết hợp vớiritonavir,đã được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) chấp thuận để điều trị COVID-19 từ nhẹ đến trung bình ở người lớn vào tháng 5 năm 2023 và vẫn nằm trong Giấy phép Sử dụng Khẩn cấp (EUA) cho thanh thiếu niên (≥ 12 tuổi, cân nặng ≥ 40 kg) có kết quả xét nghiệm vi rút SARS-CoV-2 trực tiếp dương tính và có nguy cơ cao tiến triển thành COVID-19 nặng. Việc phối hợp nirmatrelvir và ritonavir cần phải được bắt đầu càng sớm càng tốt sau khi có chẩn đoán COVID-19 và trong vòng 5 ngày kể từ ngày khởi phát triệu chứng. Liều dùng là hai viên nén 150 mg nirmatrelvir và một viên nénritonavir100 mg, uống cùng nhau hai lần một ngày trong 5 ngày. Phương pháp điều trị này không được phép sử dụng trong thời gian dài hơn 5 ngày liên tiếp. (Xem thêmTờ thông tin EUA FDA.)Nirmatrelvir là một thuốc ức chế protease phân cắt một protein SARS-CoV-2 và do đó ức chế vi rút sao chép.Ritonavirlà thuốc ức chế cytochrome P450 (CYP) 3A4 mạnh và có tác dụng như một chất tăng cường; thuốc này làm chậm quá trình chuyển hóa nirmatrelvir, khiến nó tồn tại trong cơ thể lâu hơn ở nồng độ cao hơn.Phối hợp nirmatrelvir/ritonavir đã được nghiên cứu trong một thử nghiệm ngẫu nhiên có đối chứng ở 2.246 người trưởng thành có triệu chứng không nhập viện ≥ 18 tuổi với yếu tố nguy cơ được xác định trước để tiến triển thành bệnh nặng hoặc ≥ 60 tuổi bất kể tình trạng bệnh mạn tính đã xác định trước. Tất cả các bệnh nhân chưa được tiêm vắc xin phòng COVID-19, chưa bị nhiễm COVID-19 trước đó và đã được phòng thí nghiệm xác nhận chẩn đoán nhiễm SARS-CoV-2. Phối hợpnirmatrelvir/ritonavirđược sử dụng ở thời điểm ≤ 5 ngày sau khi khởi phát triệu chứng đã làm giảm tỷ lệ người nhập viện hoặc tử vong liên quan đến COVID-19 do bất kỳ nguyên nhân nào cho đến ngày 28 so với giả dược tới 88% (0,8 so với 6,3%) (1).Sử dụng phối hợpnirmatrelvir/ritonavirở những người nhiễm HIV-1 không kiểm soát được hoặc chưa được chẩn đoán có thể dẫn đến HIV-1 kháng thuốc. Dạng phối hợpnirmatrelvir/ritonavircó thể gây tổn thương gan, vì vậy cần thận trọng ở những bệnh nhân có bệnh gan từ trước, có bất thường men gan hoặc viêm gan. Thuốc này không được khuyến nghị dùng cho những bệnh nhân mắc bệnh gan nặng.Ở những bệnh nhân suy thận trung bình (độ thanh thải creatinin ước tính từ 30 đến 60 mL/phút), liều dùng được giảm xuống thành 150 mg nirmatrelvir (một viên 150 mg) với 100 mgritonavir(một viên 100 mg), uống cả hai viên cùng nhau hai lần mỗi ngày trong 5 ngày. Không khuyến nghị phối hợpnirmatrelvir/ritonavirở bệnh nhân suy thận nặng (eGFR < 30 mL/phút).Các triệu chứng trở lại đã được báo cáo ở một số bệnh nhân sau khi sử dụngnirmatrelvir/ritonavirvà các xét nghiệm PCR và kháng nguyên đối với SARS-CoV-2 có thể dương tính trở lại, ngay cả ở những bệnh nhân không có triệu chứng. Điều trị bổ sung hiện không được khuyến nghị, nhưng bệnh nhân nên được tư vấn cách ly y tế lại nếu các triệu chứng hoặc xét nghiệm phục hồi xảy ra. (Xem thêmCDC: COVID-19 Rebound After Paxlovid Treatment.)Thuốc phối hợpnirmatrelvir/ritonavircó nhiều tương tác thuốc nghiêm trọng đã biết và có thể xảy ra; các thuốc dùng đồng thời phải được sàng lọc những tương tác này trước khi bắt đầu điều trị. Để biết danh sách đầy đủ về các tương tác thuốc này, hãy xemTờ thông tin EUA FDA.Remdesivir,một loại thuốc kháng vi rút theo đường tĩnh mạch, được sử dụng để điều trị COVID-19 nhẹ đến trung bình ở người lớn và thanh thiếu niên (≥ 12 tuổi và cân nặng ≥ 40 kg) có kết quả xét nghiệm vi-rút SARS-CoV-2 trực tiếp dương tính và có nguy cơ cao tiến triển thành COVID-19 nặng. Thuốc cần phải được bắt đầu dùng càng sớm càng tốt và trong vòng 7 ngày kể từ ngày khởi phát triệu chứng. Bệnh nhân được chỉ định dùng một liệu trình thuốcremdesivirtrong 3 ngày, có thể kéo dài đến 5 ngày nếu bệnh tiến triển nặng.Remdesivirđã được nghiên cứu cho chỉ định này trong một thử nghiệm ngẫu nhiên có đối chứng ở 562 bệnh nhân không nhập viện từ 12 tuổi trở lên bị COVID-19 có triệu chứng có nguy cơ cao tiến triển thành bệnh nặng và những người chưa tiêm vắc xin phòng COVID-19.Remdesivirđược cho dùng trong 3 ngày và bắt đầu trong vòng 7 ngày kể từ khi khởi phát triệu chứng, tỷ lệ nhập viện hoặc tử vong cho đến ngày thứ 28 giảm 87% so với giả dược (0,7 so với 5,3%) (2).Molnupiravir,một loại thuốc kháng vi rút dạng uống, là một thuốc tương tự nucleoside hoạt động bằng cách đưa các lỗi vào bộ gen của vi rút SARS-CoV-2, ức chế quá trình nhân lên của vi rút. Thuốc đã có EUA của FDA để điều trị COVID-19 nhẹ đến trung bình ở người lớn không nhập viện ≥ 18 tuổi có kết quả dương tính với xét nghiệm vi rút SARS-CoV-2 trực tiếp và những người có nguy cơ cao tiến triển thành bệnh nặng, bao gồm cả nhập viện hoặc tử vong, và những lựa chọn điều trị COVID-19 thay thế được FDA cho phép không thể tiếp cận hoặc không phù hợp về mặt lâm sàng. Cần phải bắt đầu dùngmolnupiravircàng sớm càng tốt sau khi có chẩn đoán COVID-19 và trong vòng 5 ngày kể từ khi bắt đầu khởi phát triệu chứng.Molnupiravirđược sử dụng dưới dạng bốn viên nang 200 mg theo đường uống, 12 giờ một lần, trong 5 ngày. Không được phép sử dụng thuốc này lâu hơn 5 ngày liên tục. (Xem thêmTờ thông tin EUA của FDA để biết Molnupiravir.)Molnupiravircó thể có ảnh hưởng đến khả năng xuất hiện các biến thể SARS-CoV-2 mới dựa trên mối lo ngại về mặt lý thuyết; tuy nhiên, nguy cơ được cho là thấp dựa trên dữ liệu về độc tính trên di truyền sẵn có và liệu trình điều trị 5 ngày hạn chế.Molnupiravirkhông được phép sử dụng cho bệnh nhân < 18 tuổi vì nó có thể ảnh hưởng đến sự phát triển của xương và sụn.Molnupiravirkhông được khuyến nghị sử dụng trong thai kỳ vì các nghiên cứu trên hệ sinh sản ở động vật cho thấy rằngmolnupiravircó thể có hại cho thai nhi khi dùng cho bệnh nhân mang thai. Phụ nữ có khả năng sinh đẻ được khuyến nghị sử dụng một phương pháp ngừa thai đáng tin cậy một cách chính xác và nhất quán trong khi điều trị bằngmolnupiravirvà trong 4 ngày sau khi dùng liều cuối cùng. Nam giới có khả năng sinh sản có quan hệ tình dục với nữ giới có khả năng sinh đẻ được khuyến cáo sử dụng phương pháp ngừa thai đáng tin cậy một cách chính xác và nhất quán trong thời gian điều trị bằngmolnupiravirvà trong ít nhất 3 tháng sau thời điểm dùng liều cuối cùng.Molnupiravirđã được nghiên cứu trong một thử nghiệm phân nhóm ngẫu nhiên có đối chứng giả dược trên 1433 bệnh nhân không nhập viện ≥ 18 tuổi mắc COVID-19 từ nhẹ đến trung bình có nguy cơ cao tiến triển thành COVID-19 nặng và/hoặc phải nhập viện và chưa được tiêm vắc xin phòng COVID-19.Molnupiravirđược cho dùng trong 5 ngày và bắt đầu trong vòng 5 ngày kể từ khi khởi phát triệu chứng, giảm 30% tỷ lệ nhập viện hoặc tử vong cho đến ngày 29 so với giả dược (6,8 so với 9,7%) (3).Bamlanivimab/etesevimab, casirivimab/imdevimab, sotrovimab và bebtelovimablà các liệu pháp trung hòa kháng thể đơn dòng kháng SARS-CoV-2 (mAb). FDA hiện khuyến nghị không nên sử dụng các thuốc này trong điều trị COVID-19 vì các biến thể phụ Omicron chiếm ưu thế có khả năng kháng lại hoạt tính trung hòa của thuốc.Điều trị cho bệnh nhân bị COVID-19 nặngCác phương án điều trị được khuyến nghị cho tình trạng nhiễm trùng nặng bao gồm thuốc kháng vi rút remdesivir, corticosteroid dexamethasone và các thuốc điều hòa miễn dịch bổ sung như baricitinib, tocilizumab và sarilumab. Các thuốc này có thể được sử dụng phối hợp và các quyết định điều trị cần phải tính đến giai đoạn bệnh của bệnh nhân, thường được đặc trưng bởi mức độ thiếu oxy và hỗ trợ hô hấp.Thuốc kháng vi rút có nhiều khả năng mang lại lợi ích trong giai đoạn đầu của quá trình điều trị khi bệnh là kết quả của quá trình sao chép vi rút tích cực, trong khi liệu pháp chống viêm và liệu phápđiều hòa miễn dịch phù hợp hơn trong giai đoạn sau của quá trình điều trị khi phản ứng viêm của vật chủ và rối loạn miễn dịch là nguyên nhân gây ra tình trạng bệnh. (Xem thêmIDSAGuidelines on the Treatment and Management of Patients with COVID-19.)Đối với những bệnh nhân cần phải bổ sung oxy nhưng không cần hỗ trợ hô hấp bổ sung, các phương án điều trị bao gồm:Remdesivir đơn trị liệuDexamethasone đơn trị liệuRemdesivir cộng với dexamethasoneThuốc kháng vi rútremdesivirđược sử dụng để điều trị cho bệnh nhân người lớn và trẻ em từ ≥ 28 ngày tuổi và cân nặng từ ≥ 3 kg cần nhập viện vì COVID-19. Thời gian điều trị khuyến nghị là 5 ngày nhưng được chấp thuận sử dụng đến 10 ngày ở những bệnh nhân cần thở máy xâm nhập và/hoặc oxy hóa màng ngoài cơ thể (ECMO). Tuy nhiên, lợi ích của việc điều trị kháng vi rút ở nhóm này là không thể kết luận được.Trong một thử nghiệm lâm sàng chọn ngẫu nhiên lớn (ACTT-1),remdesivircó liên quan đến cải thiện lâm sàng sớm hơn cho những bệnh nhân cần bổ sung oxy nhưng không thở máy hoặc các mức hỗ trợ khác cao hơn (4). Thời gian đến khi hồi phục được cải thiện này cũng đã được quan sát thấy trong một thử nghiệm chọn ngẫu nhiên, có đối chứng, điều trị ngoại trú (PINETREE) (2). Tuy nhiên, lợi ích không được quan sát thấy trong 2 thử nghiệm nhãn mở (Solidarity [5] và DisCoVeRy [6]). Tổ chức Y tế Thế giới (WHO) đã ban hành khuyến cáo có điều kiện chống lại việc sử dụngremdesivircho bệnh nhân nhập viện vì không có bằng chứng nào cho thấy đây là phương pháp điều trị hiệu quả cho COVID-19 (xemWHO: COVID-19 Treatments).Nhìn chung, các nghiên cứu vềremdesivirhỗ trợ việc sử dụng thuốc sớm khi bị nhiễm bệnh (trước ngày 7 đến ngày 10) khi quá trình nhân lên của vi rút đang hoạt động có nhiều khả năng góp phần vào việc gây bệnh hơn.Remdesivircũng có thể được xem xét ở những bệnh nhân đang nằm viện nhưng không cần bổ sung oxy, mặc dù thiếu dữ liệu về quần thể này.Remdesivirkhông được khuyến nghị cho những bệnh nhân có eGFR < 30 mL/phút. Cần theo dõi chức năng thận trước và trong khi điều trị bằngremdesivir.Corticosteroiddexamethasonethường được khuyến nghị cho những bệnh nhân mắc COVID-19 cần bổ sung oxy, nhưng không khuyến nghị sử dụng cho những bệnh nhân không cần bổ sung oxy.Dexamethasonecho thấy lợi ích về thời gian sống thêm đối với những người cần phải bổ sung oxy hoặc cần phải thở máy trong thử nghiệm RECOVERY (7). Lợi ích của thuốc này có thể là lớn nhất ở những bệnh nhân bị bệnh do đáp ứng viêm vì nhiễm bệnh. Nếu không códexamethasone, có thể sử dụng các glucocorticoid khác (ví dụ: prednisone, methylprednisolone, hydrocortisone).Phối hợpremdesivirvàdexamethasonethường được sử dụng ở những bệnh nhân nhập viện cần phải bổ sung oxy trong vòng 10 ngày đầu tiên của bệnh khi cả quá trình nhân lên của vi rút và tình trạng viêm ở vật chủ có thể góp phần vào biểu hiện lâm sàng.Dành cho bệnh nhân cần thở máy không xâm lấn (bao gồm hệ thống cung cấp oxy lưu lượng cao)Dexamethasone được khuyến nghị cho tất cả các bệnh nhân.Remdesivir có thể được bổ sung một cách đặc biệt cho bệnh nhân trong vòng 7 đến 10 ngày kể từ ngày khởi phát triệu chứng.Nên cân nhắc dùng thêm thuốc điều hòa miễn dịch, đặc biệt đối với những bệnh nhân có tình trạng xấu đi nhanh hoặc có dấu hiệu viêm toàn thân.Các thuốc điều hòa miễn dịch bổ sung bao gồm thuốc ức chế JAKbaricitinib(hoặc tofacitinib nếu không có) hoặc thuốc ức chế IL-6tocilizumab(hoặc sarilumab nếu không có). Những khuyến nghị này dựa trên phân tích nhóm phụ của nhiều thử nghiệm lâm sàng ngẫu nhiên (COV-BARRIER [8], ACTT-2 [9]) và nhãn mở (REMAP-CAP [10], RECOVERY [11]) cho thấy lợi ích về thời gian sống thêm khi bổ sung một trong những loại thuốc này ở những bệnh nhân cần hỗ trợ hô hấp ở mức độ này. Những loại thuốc này là thuốc ức chế miễn dịch mạnh và cần cân nhắc lợi ích tiềm tàng so với nguy cơ ức chế miễn dịch bổ sung ở những bệnh nhân nghi ngờ mắc bệnh nhiễm trùng do vi khuẩn hoặc nấm nghiêm trọng đi kèm hoặc có nguy cơ cao mắc bệnh nhiễm trùng cơ hội do tình trạng ức chế miễn dịch tiềm ẩn.Đối với bệnh nhân cần thở máy hoặc trao đổi oxy qua màng ngoài cơ thể (ECMO),dexamethasone được khuyến nghị cho tất cả bệnh nhân. Việc bổ sung tociluzumab cần phải được xem xét cho bệnh nhân trong vòng 24 giờ sau khi nhập viện vào khoa hồi sức tích cực (ICU).Nhiều liệu pháp đã được xem xét vàhiện không được khuyến nghịđể điều trị hoặc phòng ngừa COVID-19:Vilobelimab là một kháng thể đơn dòng kháng bổ thể (kháng C5a) đã nhận được EUA của FDA vào tháng 4 năm 2023 để điều trị COVID-19 ở người lớn nhập viện khi được bắt đầu trong vòng 48 giờ sau khi được thở máy xâm lấn hoặc thở oxy qua màng ngoài cơ thể. Dữ liệu về thuốc này còn hạn chế; trong một thử phân nhóm nghiệm ngẫu nhiên duy nhất, sự hiện diện của tác dụng đáng kể đến tỷ lệ tử vong trong 28 ngày khác nhau tùy theo phân tích (12). Khuyến nghị lâm sàng cho việc sử dụng thuốc này chưa được công bố.Huyết tương của bệnh nhân đã hồi phục hiện không được khuyến nghị để điều trị bệnh nhân nhập viện bị COVID-19. Dữ liệu từ một số thử nghiệm lâm sàng phân nhóm ngẫu nhiên (13) và một cơ quan đăng ký lớn liên quan đến chương trình tiếp cận mở rộng đã không cho thấy lợi ích có ý nghĩa ở nhóm đối tượng này và cho thấy mối liên quan tiềm tàng với nhu cầu thở máy ngày càng tăng. Dữ liệu này có thể được xem xét ở những bệnh nhân không nhập viện bị bệnh từ nhẹ đến trung bình và có nguy cơ cao tiến triển thành bệnh nặng nếu không có phương án điều trị nào khác.Điều trị bằng globulin miễn dịch không đặc hiệu (IVIG) và tế bào gốc trung mô cũng không được khuyến nghị.Các liệu pháp điều hòa miễn dịch bổ sung, bao gồm interferon, thuốc ức chế kinase và thuốc ức chế interleukin đã được sử dụng, nhưng không có đủ dữ liệu để khuyến nghị sử dụng các thuốc đó theo thường quy ngoài các thử nghiệm lâm sàng.Các loại thuốc khác đã được sử dụng bao gồm azithromycin và thuốc kháng vi-rút, nhưng không có đủ dữ liệu để hỗ trợ việc sử dụng các loại thuốc này bên ngoài các thử nghiệm lâm sàng.Nhiều thử nghiệm lâm sàng về thuốc điều trị HIV retrovirus lopinavir/ritonavir và thuốc chống sốt rét chloroquine và hydroxychloroquine đã chỉ ra rằng những loại thuốc này không có hiệu quả (14,15). Sự kết hợp giữa không có lợi ích và các độc tính liên quan đếnchloroquinevàhydroxychloroquineđã dẫn đến khuyến nghị không nên sử dụng các thuốc này để điều trị COVID-19.Ngoài ra, không có thử nghiệm lâm sàng phân nhóm ngẫu nhiên nào ghi nhận tính hữu ích của thuốc chống ký sinh trùng ivermectin trong việc phòng ngừa hoặc điều trị COVID-19 (16). Một nghiên cứu phân nhóm ngẫu nhiên, có đối chứng giả dược lớn gần đây cho thấyivermectinkhông có tác dụng (17). FDA và các tổ chức khác đã đưa ra cảnh báo về độc tính từ việc sử dụng không đúng cách các chế phẩmivermectindành cho động vật lớn (xemFDA: Ivermectin and COVID-19).Thuốc ức chế tái hấp thu serotonin chọn lọc (SSRI) fluvoxamine đã được nghiên cứu trong 2 thử nghiệm lâm sàng chọn ngẫu nhiên trên bệnh nhân COVID-19 cấp cứu có triệu chứng với lợi ích không rõ ràng và xu hướng gia tăng tác hại; do đó, nó không được khuyến khích sử dụng bên ngoài thử nghiệm lâm sàng.Các biến chứng của bệnh COVID-19 cần được điều trị khi phát sinh. Bệnh nhân nằm viện có COVID-19, có thể tăng nguy cơ huyết khối tắc mạch. Một số Hiệp hội nghề nghiệp đã cấm hướng dẫn sử dụng liệu pháp chống khối máu trong đại dịch COVID-19. Nhìn chung, nên cân nhắc dùngthuốc chống đôngtrị liệu ở những bệnh nhân không mang thai, nằm viện, cần bổ sung oxy nhưng không cần hồi sức tích cực nếu họ có D-dimer tăng cao và không có nguy cơ chảy máu nghiêm trọng. Nguy cơ xảy ra biến cố bất lợi do chảy máu cao hơn lợi ích tiềm năng ở những bệnh nhân bị bệnh nguy kịch. Nên cân nhắc sử dụng thuốc dự phòng huyết khối tĩnh mạch cho tất cả các bệnh nhân nhập viện khác trừ khi có chống chỉ định.Nên tiếp tục sử dụng các loại thuốc như thuốc ức chế men chuyển angiotensin (ACE) hoặc thuốc chẹn thụ thể angiotensin II (ARB) nếu cần cho các tình trạng bệnh lý đi kèm nhưng không bắt đầu sử dụng để điều trị COVID-19. Không có bằng chứng nào cho thấy việc sử dụng các thuốc chống viêm không steroid (NSAIDs) có liên quan đến các kết quả xấu hơn, và có thể sử dụng acetaminophen hoặc NSAID trong quá trình điều trị COVID-19.Khi xử trí hô hấp của bệnh nhân COVID-19 được đặt nội khí quản và không được đặt nội khí quản, cần phải cân nhắc khuynh hướng giảm oxy máu. Các biện pháp bổ trợ không dùng thuốc như là thay đổi tư thế thường xuyên và đi lại có thể hữu ích.Tài liệu tham khảo về điều trị1.Hammond J, Leister-Tebbe H, Gardner A, et al: Oralnirmatrelvirfor high-risk, nonhospitalized adults with Covid-19.N Engl J Med386(15):1397-1408, 2022. doi: 10.1056/NEJMoa21185422.Gottlieb RL, Vaca CE, Paredes R et al: Earlyremdesivirto prevent progression to severe covid-19 in outpatients.N Engl J Med386(4):305-315, 2022. doi: 10.1056/NEJMoa21168463.Jayk Bernal A, Gomes da Silva MM, Musungaie DB, et al:Molnupiravirfor oral treatment of Covid-19 in nonhospitalized Patients.N Engl J Med386(6):509-520, 2022. doi: 10.1056/NEJMoa21160444.Beigel JH, Tomashek KM, Dodd LE, et al:Remdesivirfor the treatment of Covid-19 - final report.N Engl J Med383(19):1813-1826, 2020. doi: 10.1056/NEJMoa20077645.WHO Solidarity Trial Consortium:Remdesivirand three other drugs for hospitalised patients with COVID-19: final results of the WHO Solidarity randomised trial and updated meta-analyses.Lancet399(10339):1941-1953, 2022. doi: 10.1016/S0140-6736(22)00519-06.Ader F, Bouscambert-Duchamp M, Hites M, et al:Remdesivirplus standard of care versus standard of care alone for the treatment of patients admitted to hospital with COVID-19 (DisCoVeRy): a phase 3, randomised, controlled, open-label trial.Lancet Infect Dis22(2):209-221, 2022. doi: 10.1016/S1473-3099(21)00485-07.RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, et al:Dexamethasonein hospitalized patients with Covid-19.N Engl J Med384(8):693-704, 2021. doi: 10.1056/NEJMoa20214368.Marconi VC, Ramanan AV, de Bono S, et al: Efficacy and safety ofbaricitinibfor the treatment of hospitalised adults with COVID-19 (COV-BARRIER): a randomised, double-blind, parallel-group, placebo-controlled phase 3 trial [published correction appears inLancet Respir Medtháng 10 năm 2021;9(10):e102].Lancet Respir Med9(12):1407-1418, 2021 doi:10.1016/S2213-2600(21)00331-39.Kalil AC, Patterson TF, Mehta AK, et al:Baricitinibplusremdesivirfor hospitalized adults with Covid-19.N Engl J Med384(9):795-807, 2021 doi:10.1056/NEJMoa203199410.REMAP-CAP Investigators, Gordon AC, Mouncey PR, et al: Interleukin-6 receptor antagonists in critically ill patients with Covid-19.N Engl J Med384(16):1491-1502, 2021 doi:10.1056/NEJMoa210043311.RECOVERY Collaborative Group, Horby P, Lim WS, et al:Dexamethasonein hospitalized patients with Covid-19.N Engl J Med384(8):693-704, 2021 doi:10.1056/NEJMoa202143612.Vlaar APJ, Witzenrath M, van Paassen P, et al: Anti-C5a antibody (vilobelimab) therapy for critically ill, invasively mechanically ventilated patients with COVID-19 (PANAMO): a multicentre, double-blind, randomised, placebo-controlled, phase 3 trial.Lancet Respir Med10(12):1137-1146, 2022 doi:10.1016/S2213-2600(22)00297-113.Janiaud P, Axfors C, Schmitt AM, et al: Association of convalescent plasma treatment with clinical outcomes in patients with COVID-19: A systematic review and meta-analysis.JAMA325(12);1185-1195, 2021, doi: 10.1001/jama.2021.274714.Self WH, Semler MW, Leither LM, et al. Effect ofhydroxychloroquineon clinical status at 14 days in hospitalized patients with COVID-19: a randomized clinical trial.JAMA324(21):2165-2176, 2020 doi:10.1001/jama.2020.2224015.RECOVERY Collaborative Group, Horby P, Mafham M, et al. Effect ofhydroxychloroquinein hospitalized patients with Covid-19.N Engl J Med383(21):2030-2040, 2020 doi:10.1056/NEJMoa202292616.Popp M, Stegemann M, Metzendorf MI, et al:Ivermectinfor preventing and treating COVID-19.Cochrane Database Syst Rev.7(7):CD015017, 2021. doi: 10.1002/14651858.CD015017.pub217.Reis G,Silva EASM, Silva DCM, et al: Effect of early treatment withivermectinamong patients with COVID-19.N Engl J Med386:1721-1731, 2022. doi: 10.1056/NEJMoa2115869
+
+--- 6. Điều trị sớm cho những bệnh nhân mắc COVID-19 từ nhẹ đến trung bình có nguy cơ cao tiến triển thành bệnh nặng ---
+
+Những phương pháp điều trị này nhằm ngăn chặn sự tiến triển thành bệnh nặng ở những bệnh nhân có nguy cơ cao. Các phương pháp này được dùng cho bệnh nhân trong vòng vài ngày sau khi khởi phát COVID-19 ở mức độ nhẹ đến trung bình đang cấp cứu (hoặc nhập viện vì những lý do khác ngoài COVID-19); các lựa chọn điều trị (ngoài remdesivir) chưa được nghiên cứu ở những bệnh nhân nhập viện vì COVID-19.Nirmatrelvir,một loại thuốc kháng vi-rút đường uống, dùng kết hợp vớiritonavir,đã được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) chấp thuận để điều trị COVID-19 từ nhẹ đến trung bình ở người lớn vào tháng 5 năm 2023 và vẫn nằm trong Giấy phép Sử dụng Khẩn cấp (EUA) cho thanh thiếu niên (≥ 12 tuổi, cân nặng ≥ 40 kg) có kết quả xét nghiệm vi rút SARS-CoV-2 trực tiếp dương tính và có nguy cơ cao tiến triển thành COVID-19 nặng. Việc phối hợp nirmatrelvir và ritonavir cần phải được bắt đầu càng sớm càng tốt sau khi có chẩn đoán COVID-19 và trong vòng 5 ngày kể từ ngày khởi phát triệu chứng. Liều dùng là hai viên nén 150 mg nirmatrelvir và một viên nénritonavir100 mg, uống cùng nhau hai lần một ngày trong 5 ngày. Phương pháp điều trị này không được phép sử dụng trong thời gian dài hơn 5 ngày liên tiếp. (Xem thêmTờ thông tin EUA FDA.)Nirmatrelvir là một thuốc ức chế protease phân cắt một protein SARS-CoV-2 và do đó ức chế vi rút sao chép.Ritonavirlà thuốc ức chế cytochrome P450 (CYP) 3A4 mạnh và có tác dụng như một chất tăng cường; thuốc này làm chậm quá trình chuyển hóa nirmatrelvir, khiến nó tồn tại trong cơ thể lâu hơn ở nồng độ cao hơn.Phối hợp nirmatrelvir/ritonavir đã được nghiên cứu trong một thử nghiệm ngẫu nhiên có đối chứng ở 2.246 người trưởng thành có triệu chứng không nhập viện ≥ 18 tuổi với yếu tố nguy cơ được xác định trước để tiến triển thành bệnh nặng hoặc ≥ 60 tuổi bất kể tình trạng bệnh mạn tính đã xác định trước. Tất cả các bệnh nhân chưa được tiêm vắc xin phòng COVID-19, chưa bị nhiễm COVID-19 trước đó và đã được phòng thí nghiệm xác nhận chẩn đoán nhiễm SARS-CoV-2. Phối hợpnirmatrelvir/ritonavirđược sử dụng ở thời điểm ≤ 5 ngày sau khi khởi phát triệu chứng đã làm giảm tỷ lệ người nhập viện hoặc tử vong liên quan đến COVID-19 do bất kỳ nguyên nhân nào cho đến ngày 28 so với giả dược tới 88% (0,8 so với 6,3%) (1).Sử dụng phối hợpnirmatrelvir/ritonavirở những người nhiễm HIV-1 không kiểm soát được hoặc chưa được chẩn đoán có thể dẫn đến HIV-1 kháng thuốc. Dạng phối hợpnirmatrelvir/ritonavircó thể gây tổn thương gan, vì vậy cần thận trọng ở những bệnh nhân có bệnh gan từ trước, có bất thường men gan hoặc viêm gan. Thuốc này không được khuyến nghị dùng cho những bệnh nhân mắc bệnh gan nặng.Ở những bệnh nhân suy thận trung bình (độ thanh thải creatinin ước tính từ 30 đến 60 mL/phút), liều dùng được giảm xuống thành 150 mg nirmatrelvir (một viên 150 mg) với 100 mgritonavir(một viên 100 mg), uống cả hai viên cùng nhau hai lần mỗi ngày trong 5 ngày. Không khuyến nghị phối hợpnirmatrelvir/ritonavirở bệnh nhân suy thận nặng (eGFR < 30 mL/phút).Các triệu chứng trở lại đã được báo cáo ở một số bệnh nhân sau khi sử dụngnirmatrelvir/ritonavirvà các xét nghiệm PCR và kháng nguyên đối với SARS-CoV-2 có thể dương tính trở lại, ngay cả ở những bệnh nhân không có triệu chứng. Điều trị bổ sung hiện không được khuyến nghị, nhưng bệnh nhân nên được tư vấn cách ly y tế lại nếu các triệu chứng hoặc xét nghiệm phục hồi xảy ra. (Xem thêmCDC: COVID-19 Rebound After Paxlovid Treatment.)Thuốc phối hợpnirmatrelvir/ritonavircó nhiều tương tác thuốc nghiêm trọng đã biết và có thể xảy ra; các thuốc dùng đồng thời phải được sàng lọc những tương tác này trước khi bắt đầu điều trị. Để biết danh sách đầy đủ về các tương tác thuốc này, hãy xemTờ thông tin EUA FDA.Remdesivir,một loại thuốc kháng vi rút theo đường tĩnh mạch, được sử dụng để điều trị COVID-19 nhẹ đến trung bình ở người lớn và thanh thiếu niên (≥ 12 tuổi và cân nặng ≥ 40 kg) có kết quả xét nghiệm vi-rút SARS-CoV-2 trực tiếp dương tính và có nguy cơ cao tiến triển thành COVID-19 nặng. Thuốc cần phải được bắt đầu dùng càng sớm càng tốt và trong vòng 7 ngày kể từ ngày khởi phát triệu chứng. Bệnh nhân được chỉ định dùng một liệu trình thuốcremdesivirtrong 3 ngày, có thể kéo dài đến 5 ngày nếu bệnh tiến triển nặng.Remdesivirđã được nghiên cứu cho chỉ định này trong một thử nghiệm ngẫu nhiên có đối chứng ở 562 bệnh nhân không nhập viện từ 12 tuổi trở lên bị COVID-19 có triệu chứng có nguy cơ cao tiến triển thành bệnh nặng và những người chưa tiêm vắc xin phòng COVID-19.Remdesivirđược cho dùng trong 3 ngày và bắt đầu trong vòng 7 ngày kể từ khi khởi phát triệu chứng, tỷ lệ nhập viện hoặc tử vong cho đến ngày thứ 28 giảm 87% so với giả dược (0,7 so với 5,3%) (2).Molnupiravir,một loại thuốc kháng vi rút dạng uống, là một thuốc tương tự nucleoside hoạt động bằng cách đưa các lỗi vào bộ gen của vi rút SARS-CoV-2, ức chế quá trình nhân lên của vi rút. Thuốc đã có EUA của FDA để điều trị COVID-19 nhẹ đến trung bình ở người lớn không nhập viện ≥ 18 tuổi có kết quả dương tính với xét nghiệm vi rút SARS-CoV-2 trực tiếp và những người có nguy cơ cao tiến triển thành bệnh nặng, bao gồm cả nhập viện hoặc tử vong, và những lựa chọn điều trị COVID-19 thay thế được FDA cho phép không thể tiếp cận hoặc không phù hợp về mặt lâm sàng. Cần phải bắt đầu dùngmolnupiravircàng sớm càng tốt sau khi có chẩn đoán COVID-19 và trong vòng 5 ngày kể từ khi bắt đầu khởi phát triệu chứng.Molnupiravirđược sử dụng dưới dạng bốn viên nang 200 mg theo đường uống, 12 giờ một lần, trong 5 ngày. Không được phép sử dụng thuốc này lâu hơn 5 ngày liên tục. (Xem thêmTờ thông tin EUA của FDA để biết Molnupiravir.)Molnupiravircó thể có ảnh hưởng đến khả năng xuất hiện các biến thể SARS-CoV-2 mới dựa trên mối lo ngại về mặt lý thuyết; tuy nhiên, nguy cơ được cho là thấp dựa trên dữ liệu về độc tính trên di truyền sẵn có và liệu trình điều trị 5 ngày hạn chế.Molnupiravirkhông được phép sử dụng cho bệnh nhân < 18 tuổi vì nó có thể ảnh hưởng đến sự phát triển của xương và sụn.Molnupiravirkhông được khuyến nghị sử dụng trong thai kỳ vì các nghiên cứu trên hệ sinh sản ở động vật cho thấy rằngmolnupiravircó thể có hại cho thai nhi khi dùng cho bệnh nhân mang thai. Phụ nữ có khả năng sinh đẻ được khuyến nghị sử dụng một phương pháp ngừa thai đáng tin cậy một cách chính xác và nhất quán trong khi điều trị bằngmolnupiravirvà trong 4 ngày sau khi dùng liều cuối cùng. Nam giới có khả năng sinh sản có quan hệ tình dục với nữ giới có khả năng sinh đẻ được khuyến cáo sử dụng phương pháp ngừa thai đáng tin cậy một cách chính xác và nhất quán trong thời gian điều trị bằngmolnupiravirvà trong ít nhất 3 tháng sau thời điểm dùng liều cuối cùng.Molnupiravirđã được nghiên cứu trong một thử nghiệm phân nhóm ngẫu nhiên có đối chứng giả dược trên 1433 bệnh nhân không nhập viện ≥ 18 tuổi mắc COVID-19 từ nhẹ đến trung bình có nguy cơ cao tiến triển thành COVID-19 nặng và/hoặc phải nhập viện và chưa được tiêm vắc xin phòng COVID-19.Molnupiravirđược cho dùng trong 5 ngày và bắt đầu trong vòng 5 ngày kể từ khi khởi phát triệu chứng, giảm 30% tỷ lệ nhập viện hoặc tử vong cho đến ngày 29 so với giả dược (6,8 so với 9,7%) (3).Bamlanivimab/etesevimab, casirivimab/imdevimab, sotrovimab và bebtelovimablà các liệu pháp trung hòa kháng thể đơn dòng kháng SARS-CoV-2 (mAb). FDA hiện khuyến nghị không nên sử dụng các thuốc này trong điều trị COVID-19 vì các biến thể phụ Omicron chiếm ưu thế có khả năng kháng lại hoạt tính trung hòa của thuốc.
+
+--- 7. Điều trị cho bệnh nhân bị COVID-19 nặng ---
+
+Các phương án điều trị được khuyến nghị cho tình trạng nhiễm trùng nặng bao gồm thuốc kháng vi rút remdesivir, corticosteroid dexamethasone và các thuốc điều hòa miễn dịch bổ sung như baricitinib, tocilizumab và sarilumab. Các thuốc này có thể được sử dụng phối hợp và các quyết định điều trị cần phải tính đến giai đoạn bệnh của bệnh nhân, thường được đặc trưng bởi mức độ thiếu oxy và hỗ trợ hô hấp.Thuốc kháng vi rút có nhiều khả năng mang lại lợi ích trong giai đoạn đầu của quá trình điều trị khi bệnh là kết quả của quá trình sao chép vi rút tích cực, trong khi liệu pháp chống viêm và liệu phápđiều hòa miễn dịch phù hợp hơn trong giai đoạn sau của quá trình điều trị khi phản ứng viêm của vật chủ và rối loạn miễn dịch là nguyên nhân gây ra tình trạng bệnh. (Xem thêmIDSAGuidelines on the Treatment and Management of Patients with COVID-19.)Đối với những bệnh nhân cần phải bổ sung oxy nhưng không cần hỗ trợ hô hấp bổ sung, các phương án điều trị bao gồm:Remdesivir đơn trị liệuDexamethasone đơn trị liệuRemdesivir cộng với dexamethasoneThuốc kháng vi rútremdesivirđược sử dụng để điều trị cho bệnh nhân người lớn và trẻ em từ ≥ 28 ngày tuổi và cân nặng từ ≥ 3 kg cần nhập viện vì COVID-19. Thời gian điều trị khuyến nghị là 5 ngày nhưng được chấp thuận sử dụng đến 10 ngày ở những bệnh nhân cần thở máy xâm nhập và/hoặc oxy hóa màng ngoài cơ thể (ECMO). Tuy nhiên, lợi ích của việc điều trị kháng vi rút ở nhóm này là không thể kết luận được.Trong một thử nghiệm lâm sàng chọn ngẫu nhiên lớn (ACTT-1),remdesivircó liên quan đến cải thiện lâm sàng sớm hơn cho những bệnh nhân cần bổ sung oxy nhưng không thở máy hoặc các mức hỗ trợ khác cao hơn (4). Thời gian đến khi hồi phục được cải thiện này cũng đã được quan sát thấy trong một thử nghiệm chọn ngẫu nhiên, có đối chứng, điều trị ngoại trú (PINETREE) (2). Tuy nhiên, lợi ích không được quan sát thấy trong 2 thử nghiệm nhãn mở (Solidarity [5] và DisCoVeRy [6]). Tổ chức Y tế Thế giới (WHO) đã ban hành khuyến cáo có điều kiện chống lại việc sử dụngremdesivircho bệnh nhân nhập viện vì không có bằng chứng nào cho thấy đây là phương pháp điều trị hiệu quả cho COVID-19 (xemWHO: COVID-19 Treatments).Nhìn chung, các nghiên cứu vềremdesivirhỗ trợ việc sử dụng thuốc sớm khi bị nhiễm bệnh (trước ngày 7 đến ngày 10) khi quá trình nhân lên của vi rút đang hoạt động có nhiều khả năng góp phần vào việc gây bệnh hơn.Remdesivircũng có thể được xem xét ở những bệnh nhân đang nằm viện nhưng không cần bổ sung oxy, mặc dù thiếu dữ liệu về quần thể này.Remdesivirkhông được khuyến nghị cho những bệnh nhân có eGFR < 30 mL/phút. Cần theo dõi chức năng thận trước và trong khi điều trị bằngremdesivir.Corticosteroiddexamethasonethường được khuyến nghị cho những bệnh nhân mắc COVID-19 cần bổ sung oxy, nhưng không khuyến nghị sử dụng cho những bệnh nhân không cần bổ sung oxy.Dexamethasonecho thấy lợi ích về thời gian sống thêm đối với những người cần phải bổ sung oxy hoặc cần phải thở máy trong thử nghiệm RECOVERY (7). Lợi ích của thuốc này có thể là lớn nhất ở những bệnh nhân bị bệnh do đáp ứng viêm vì nhiễm bệnh. Nếu không códexamethasone, có thể sử dụng các glucocorticoid khác (ví dụ: prednisone, methylprednisolone, hydrocortisone).Phối hợpremdesivirvàdexamethasonethường được sử dụng ở những bệnh nhân nhập viện cần phải bổ sung oxy trong vòng 10 ngày đầu tiên của bệnh khi cả quá trình nhân lên của vi rút và tình trạng viêm ở vật chủ có thể góp phần vào biểu hiện lâm sàng.Dành cho bệnh nhân cần thở máy không xâm lấn (bao gồm hệ thống cung cấp oxy lưu lượng cao)Dexamethasone được khuyến nghị cho tất cả các bệnh nhân.Remdesivir có thể được bổ sung một cách đặc biệt cho bệnh nhân trong vòng 7 đến 10 ngày kể từ ngày khởi phát triệu chứng.Nên cân nhắc dùng thêm thuốc điều hòa miễn dịch, đặc biệt đối với những bệnh nhân có tình trạng xấu đi nhanh hoặc có dấu hiệu viêm toàn thân.Các thuốc điều hòa miễn dịch bổ sung bao gồm thuốc ức chế JAKbaricitinib(hoặc tofacitinib nếu không có) hoặc thuốc ức chế IL-6tocilizumab(hoặc sarilumab nếu không có). Những khuyến nghị này dựa trên phân tích nhóm phụ của nhiều thử nghiệm lâm sàng ngẫu nhiên (COV-BARRIER [8], ACTT-2 [9]) và nhãn mở (REMAP-CAP [10], RECOVERY [11]) cho thấy lợi ích về thời gian sống thêm khi bổ sung một trong những loại thuốc này ở những bệnh nhân cần hỗ trợ hô hấp ở mức độ này. Những loại thuốc này là thuốc ức chế miễn dịch mạnh và cần cân nhắc lợi ích tiềm tàng so với nguy cơ ức chế miễn dịch bổ sung ở những bệnh nhân nghi ngờ mắc bệnh nhiễm trùng do vi khuẩn hoặc nấm nghiêm trọng đi kèm hoặc có nguy cơ cao mắc bệnh nhiễm trùng cơ hội do tình trạng ức chế miễn dịch tiềm ẩn.Đối với bệnh nhân cần thở máy hoặc trao đổi oxy qua màng ngoài cơ thể (ECMO),dexamethasone được khuyến nghị cho tất cả bệnh nhân. Việc bổ sung tociluzumab cần phải được xem xét cho bệnh nhân trong vòng 24 giờ sau khi nhập viện vào khoa hồi sức tích cực (ICU).Nhiều liệu pháp đã được xem xét vàhiện không được khuyến nghịđể điều trị hoặc phòng ngừa COVID-19:Vilobelimab là một kháng thể đơn dòng kháng bổ thể (kháng C5a) đã nhận được EUA của FDA vào tháng 4 năm 2023 để điều trị COVID-19 ở người lớn nhập viện khi được bắt đầu trong vòng 48 giờ sau khi được thở máy xâm lấn hoặc thở oxy qua màng ngoài cơ thể. Dữ liệu về thuốc này còn hạn chế; trong một thử phân nhóm nghiệm ngẫu nhiên duy nhất, sự hiện diện của tác dụng đáng kể đến tỷ lệ tử vong trong 28 ngày khác nhau tùy theo phân tích (12). Khuyến nghị lâm sàng cho việc sử dụng thuốc này chưa được công bố.Huyết tương của bệnh nhân đã hồi phục hiện không được khuyến nghị để điều trị bệnh nhân nhập viện bị COVID-19. Dữ liệu từ một số thử nghiệm lâm sàng phân nhóm ngẫu nhiên (13) và một cơ quan đăng ký lớn liên quan đến chương trình tiếp cận mở rộng đã không cho thấy lợi ích có ý nghĩa ở nhóm đối tượng này và cho thấy mối liên quan tiềm tàng với nhu cầu thở máy ngày càng tăng. Dữ liệu này có thể được xem xét ở những bệnh nhân không nhập viện bị bệnh từ nhẹ đến trung bình và có nguy cơ cao tiến triển thành bệnh nặng nếu không có phương án điều trị nào khác.Điều trị bằng globulin miễn dịch không đặc hiệu (IVIG) và tế bào gốc trung mô cũng không được khuyến nghị.Các liệu pháp điều hòa miễn dịch bổ sung, bao gồm interferon, thuốc ức chế kinase và thuốc ức chế interleukin đã được sử dụng, nhưng không có đủ dữ liệu để khuyến nghị sử dụng các thuốc đó theo thường quy ngoài các thử nghiệm lâm sàng.Các loại thuốc khác đã được sử dụng bao gồm azithromycin và thuốc kháng vi-rút, nhưng không có đủ dữ liệu để hỗ trợ việc sử dụng các loại thuốc này bên ngoài các thử nghiệm lâm sàng.Nhiều thử nghiệm lâm sàng về thuốc điều trị HIV retrovirus lopinavir/ritonavir và thuốc chống sốt rét chloroquine và hydroxychloroquine đã chỉ ra rằng những loại thuốc này không có hiệu quả (14,15). Sự kết hợp giữa không có lợi ích và các độc tính liên quan đếnchloroquinevàhydroxychloroquineđã dẫn đến khuyến nghị không nên sử dụng các thuốc này để điều trị COVID-19.Ngoài ra, không có thử nghiệm lâm sàng phân nhóm ngẫu nhiên nào ghi nhận tính hữu ích của thuốc chống ký sinh trùng ivermectin trong việc phòng ngừa hoặc điều trị COVID-19 (16). Một nghiên cứu phân nhóm ngẫu nhiên, có đối chứng giả dược lớn gần đây cho thấyivermectinkhông có tác dụng (17). FDA và các tổ chức khác đã đưa ra cảnh báo về độc tính từ việc sử dụng không đúng cách các chế phẩmivermectindành cho động vật lớn (xemFDA: Ivermectin and COVID-19).Thuốc ức chế tái hấp thu serotonin chọn lọc (SSRI) fluvoxamine đã được nghiên cứu trong 2 thử nghiệm lâm sàng chọn ngẫu nhiên trên bệnh nhân COVID-19 cấp cứu có triệu chứng với lợi ích không rõ ràng và xu hướng gia tăng tác hại; do đó, nó không được khuyến khích sử dụng bên ngoài thử nghiệm lâm sàng.Các biến chứng của bệnh COVID-19 cần được điều trị khi phát sinh. Bệnh nhân nằm viện có COVID-19, có thể tăng nguy cơ huyết khối tắc mạch. Một số Hiệp hội nghề nghiệp đã cấm hướng dẫn sử dụng liệu pháp chống khối máu trong đại dịch COVID-19. Nhìn chung, nên cân nhắc dùngthuốc chống đôngtrị liệu ở những bệnh nhân không mang thai, nằm viện, cần bổ sung oxy nhưng không cần hồi sức tích cực nếu họ có D-dimer tăng cao và không có nguy cơ chảy máu nghiêm trọng. Nguy cơ xảy ra biến cố bất lợi do chảy máu cao hơn lợi ích tiềm năng ở những bệnh nhân bị bệnh nguy kịch. Nên cân nhắc sử dụng thuốc dự phòng huyết khối tĩnh mạch cho tất cả các bệnh nhân nhập viện khác trừ khi có chống chỉ định.Nên tiếp tục sử dụng các loại thuốc như thuốc ức chế men chuyển angiotensin (ACE) hoặc thuốc chẹn thụ thể angiotensin II (ARB) nếu cần cho các tình trạng bệnh lý đi kèm nhưng không bắt đầu sử dụng để điều trị COVID-19. Không có bằng chứng nào cho thấy việc sử dụng các thuốc chống viêm không steroid (NSAIDs) có liên quan đến các kết quả xấu hơn, và có thể sử dụng acetaminophen hoặc NSAID trong quá trình điều trị COVID-19.Khi xử trí hô hấp của bệnh nhân COVID-19 được đặt nội khí quản và không được đặt nội khí quản, cần phải cân nhắc khuynh hướng giảm oxy máu. Các biện pháp bổ trợ không dùng thuốc như là thay đổi tư thế thường xuyên và đi lại có thể hữu ích.
+
+--- 8. Nhiễm bệnh hậu COVID-19 ---
+
+Xét nghiệm PCR vi rúts ở bệnh nhân có thể vẫn dương tính trong ít nhất 3 tháng bất kể triệu chứng. Tuy nhiên, ngay cả những bệnh nhân có triệu chứng kéo dài thường không được coi là có khả năng lây nhiễm, do vi rút hiếm khi có thể được nuôi cấy từ đường hô hấp trên của bệnh nhân sau 10 ngày mắc bệnh.Mặc dù nhiễm coronavirus có thể tạo ra một số mức độ miễn dịch đối với việc tái nhiễm, thời gian và hiệu quả của miễn dịch sau COVID-19 vẫn khó định lượng và phụ thuộc vào nhiều yếu tố vật chủ và vi rút. Những bệnh nhân đã mắc bệnh COVID-19, bao gồm cả những người có các triệu chứng kéo dài sau COVID-19, vẫn được khuyến nghị tiêm tất cả các loại vắc xin đủ điều kiện để giảm nguy cơ tái nhiễm. Họ có thể làm như vậy khi được phục hồi về mặt lâm sàng sau nhiễm bệnh và hoàn tất thời gian cách ly y tế. Kháng thể trung hòa được phát hiện ở hầu hết bệnh nhân sau khi nhiễm SARS-COV-2, nhưng nồng độ của các thể này thay đổi nhiều hơn so với những người sau khi tiêm chủng. Những điều này có khả năng có bảo vệ chống lại sự tái nhiễm rõ ràng về mặt lâm sàng ở hầu hết những người có đủ khả năng miễn dịch trong ít nhất 3 và đến 6 tháng, nhưng khung thời gian này có thể ngắn hơn nếu một biến thể mới khác biệt về mặt kháng nguyên xuất hiện. Các triệu chứng liên quan đến tái nhiễm có xu hướng tương tự hoặc nhẹ hơn so với lần nhiễm ban đầu.Tài liệu tham khảo về nhiễm bệnh hậu COVID-191.Zhong D, Xiao S, Debes AK, et al: Durability of antibody levels after vaccination with mRNA SARS-CoV-2 vaccine in individuals with or without prior infection.JAMA326(24):2524-2526, 2021 doi:10.1001/jama.2021.19996
+
+--- 9. Phòng ngừa COVID-19 ---
+
+Tiêm vắc-xin phòng COVID-19Để biết thông tin thảo luận chi tiết về các loại vắc xin được phê duyệt tại Hoa Kỳ, hãy xemvắc xin ngừa COVID-19.Tiêm phòng là cách hiệu quả nhất để ngăn ngừa bệnh nặng và tử vong do COVID-19, bao gồm cả các biến thể Delta và Omicron. Tại Hoa Kỳ vào mùa thu năm 2021, những người chưa được tiêm chủng có nhiều khả năng tử vong vì COVID-19 hơn những người đã được tiêm chủng (có tiêm nhắc lại) (1).Tại Hoa Kỳ,CDC khuyến nghị những người có hệ miễn dịch bình thườngtừ 12 tuổi trở lên nên tiêm 1 liều vắc-xin mRNA phòng ngừa SARS-CoV-2 (COVID-19) cập nhật 2023–2024 từ một trong hai nhà sản xuất (Moderna hoặc Pfizer-BioNTech) hoặc 1 hoặc 2 liều (tùy thuộc vào lịch sử tiêm chủng) vắc-xin hạt nano protein gai tái tổ hợp phòng ngừa vi-rút SARS-CoV-2 (COVID-19) cập nhật 2023-2024 do Novavax sản xuất (xemCDC: Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States). Trẻ em từ 6 tháng đến 4 tuổi nên tiêm 1 đến 3 liều công thức bào chế mRNA 2023–2024 (liều khuyến nghị và nhà sản xuất thay đổi tùy theo lịch sử tiêm chủng) và trẻ em từ 5 tuổi đến 11 tuổi nên tiêm 1 liều bất kể lịch sử tiêm chủng công thức bào chế mRNA 2023–2024. CDC cũng khuyến nghị người lớn từ 65 tuổi trở lên nên tiêm thêm một liều vắc xin COVID-19 cập nhật 2023-2024 (xemCDC: Older Adults Now Able to Receive Additional Dose of Updated COVID-19 Vaccine). Quý vị cũng có thể tìm thấy hướng dẫn dành cho những người bị suy giảm miễn dịch ở mức độ vừa phải hoặc nặng trêntrang web của CDC. Vắc xin cập nhật giai đoạn 2023–2024 nhắm vào biến thể XBB.1.5 Omicron. Công thức bào chế 2023–2024 thay thế vắc xin một chủng COVID-19 nhắm vào chủng SARS-CoV-2 ban đầu và vắc xin kết hợp hai chủng nhắm vào cả vi rút ban đầu và các biến thể phụ BA.4/BA.5 Omicron.Nhiều loại vắc-xin COVID-19 hiện đang được sử dụng trên toàn thế giới. Để biết thêm thông tin về việc phê duyệt vắc-xin toàn cầu và các thử nghiệm lâm sàng, hãy xemcông cụ theo dõi và bối cảnh vắc-xin COVID-19của Tổ chức Y tế Thế giới.Các loại vắc xin mRNAkhông chứa kháng nguyên vi rút mà cung cấp một đoạn mRNA tổng hợp nhỏ mã hóa cho kháng nguyên đích mong muốn (protein gai). Sau khi được các tế bào của hệ miễn dịch tiếp nhận, mRNA của vắc xin sẽ phân hủy sau khi dẫn hướng tế bào đó sản xuất kháng nguyên vi rút. Sau đó, kháng nguyên được giải phóng và kích hoạt đáp ứng miễn dịch mong muốn để ngăn ngừa nhiễm bệnh nặng khi phơi nhiễm với vi rút thực sự.Vắc xin véc tơ adenoviruscó chứa một đoạn DNA, hoặc vật liệu di truyền, được sử dụng để tạo ra protein “gai” đặc biệt của vi rút SARS-CoV-2, sau đó sẽ kích hoạt đáp ứng miễn dịch mong muốn.Vắc xin bổ trợ tiểu đơn vị proteincó protein gai của SARS-COV-2 tái tổ hợp cùng với chất bổ trợ kích hoạt đáp ứng miễn dịch mong muốn. Đây là phương pháp tiêm vắc xin cổ điển đã được sử dụng ở Hoa Kỳ trong hơn 30 năm.Hai loại vắc xin mRNA (công thức bào chế 2023–2024 của vắc xin ngừa COVID-19 Moderna và vắc xin Pfizer-BioNTech COVID-19) và một vắc xin bổ trợ tiểu đơn vị protein (công thức bào chế 2023–2024 của Vắc xin Novavax COVID-19, có tá dược) được sử dụng ở Hoa Kỳ (xemCDC: COVID-19 Vaccination Clinical & Professional Resources). Kể từ ngày 6 tháng 5 năm 2023, vắc xin vectơ adenovirus (Ad26.COV2.S) không còn được sử dụng ở Hoa Kỳ do nguy cơ xảy ra các tác dụng bất lợi nghiêm trọng. Có mối quan hệ nhân quả hợp lý giữa vắc xin vectơ adenovirus và một tác dụng bất lợi hiếm gặp và nghiêm trọng—đông máu với số lượng tiểu cầu thấp (huyết khối do vắc xin gây ra với hội chứng giảm tiểu cầu, hay VITTS).Kháng thể đơn dòngPemivibart, một kháng thể đơn dòng, đã được cấp phép sử dụng khẩn cấp (EUA) để ngăn ngừa COVID-19 ở những người từ 12 tuổi trở lên và cân nặng ít nhất 40 kg. Vắc-xin này dành cho những người hiện không bị nhiễm SARS-CoV-2, những người chưa từng tiếp xúc gần đây với người bị nhiễm SARS-CoV-2 và những người có hệ miễn dịch suy giảm từ trung bình đến nặng và không có khả năng tạo ra đáp ứng miễn dịch đầy đủ với vắc-xin phòng COVID-19. Bệnh nhân vẫn nên tiêm vắc-xin phòng COVID-19. Có thể tiêm Pemivibart ít nhất 2 tuần sau khi tiêm vắc-xin COVID-19 làm một lớp bảo vệ bổ sung.Phòng ngừa phơi nhiễmNgoài việc cập nhật vắc xin ngừa COVID-19, mọi người có thể tránh tiếp xúc với vi rút bằng cách rửa tay thường xuyên, đeo khẩu trang, duy trì khoảng cách xã hội, tránh những không gian và đám đông kém thông gió, đồng thời thực hiện các bước khác doTrung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) khuyến nghị. Mọi người cũng nên xét nghiệm COVID-19 nếu họ tiếp xúc với một người bị nhiễm bệnh hoặc có các triệu chứng. Những người có triệu chứng nên tuân theo các khuyến nghị để cách ly y tế.Để giúp ngăn ngừa sự lây lan của SARS-CoV-2 từ các trường hợp nghi ngờ, các chuyên gia chăm sóc sức khỏe nên sử dụng các biện pháp phòng ngừa tiêu chuẩn, tiếp xúc và không khí cùng với bảo vệ mắt (2). Các biện pháp phòng ngừa theo đường không khí đặc biệt phù hợp với bệnh nhân đã được thực hiện các thủ thuật tạo khí dung.Tài liệu tham khảo về phòng ngừa1.Johnson AG, Amin AB, Ali AR, et al: COVID-19 incidence and death rates among unvaccinated and fully vaccinated adults with and without booster doses during periods of delta and Omicron variant emergence — 25 U.S. Jurisdictions, ngày 4 tháng 4 đến ngày 25 tháng 12 năm 2021.MMWR Morb Mortal Wkly Rep71:132–138. 2022. doi: 10.15585/mmwr.mm7104e22.Lynch JB, Davitkov P, Anderson DJ, et al. Infectious Diseases Society of America Guidelines on Infection Prevention for Healthcare Personnel Caring for Patients with Suspected or Known COVID-19.Clin Infect Dis. Xuất bản trực tuyến ngày 15 tháng 11 năm 2021. doi:10.1093/cid/ciab953
+
+--- 10. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.CDC: COVID Data TrackerCDC: COVID-19 Vaccination Clinical & Professional ResourcesCDC: Healthcare Workers: Information on COVID-19WHO: Coronavirus disease (COVID-19) technical guidanceWHO: Novel Coronavirus (COVID-2019) situation reportsInfectious Diseases Society of America (IDSA) Guidelines on the Treatment and Management of Patients with COVID-19

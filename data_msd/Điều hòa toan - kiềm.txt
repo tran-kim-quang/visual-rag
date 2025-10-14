@@ -1,0 +1,537 @@
+TIÊU ĐỀ: Điều hòa toan - kiềm
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-nội-tiết-và-chuyển-hóa/rối-loạn-và-điều-hòa-axit-bazơ/điều-hòa-toan-kiềm
+================================================================================
+
+NỘI DUNG:
+
+Điều hòa toan - kiềm
+
+Theo
+
+James L. Lewis III
+
+,
+
+MD
+
+,
+
+Brookwood Baptist Health and Saint Vincent’s Ascension Health, Birmingham
+
+Xem xét bởi
+
+Glenn D. Braunstein
+
+,
+
+MD
+
+,
+
+Cedars-Sinai Medical Center
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 3 2025
+
+v987102_vi
+
+Sinh lý học axit-bazơ
+
+|
+
+Cân bằng axit-bazơ
+
+|
+
+Các quá trình trao đổi chất trong cơ thể người liên tục tạo ra axit và ở mức độ thấp hơn là bazơ. Ion hydro (H
+
++
+
+) là phản ứng đặc biệt; nó có thể gắn vào các protein tích điện âm và ở nồng độ cao, làm thay đổi điện tích, cấu hình và chức năng tổng thể của chúng. Để duy trì chức năng tế bào, cơ thể có các cơ chế phức tạp để duy trì nồng độ H
+
++
+
+trong máu trong phạm vi hẹp – điển hình là 37 đến 43 nEq/L [37 đến 43 nmol/L] với pH trong khoảng từ 7,43 đến 7,37, trong đó pH
+
+=
+
+−
+
+log [H
+
++
+
+]. Lý tưởng nhất là H
+
++
+
+là 40 nEq/L (40 nmol/L) và pH
+
+=
+
+7,40. Sự rối loạn của các cơ chế này có thể gây ra hậu quả lâm sàng nghiêm trọng.
+
+Cân bằng axit-bazơ liên quan chặt chẽ đến quá trình
+
+chuyển hóa dịch
+
+và
+
+cân bằng điện giải
+
+và tình trạng rối loạn trong những hệ thống này thường ảnh hưởng đến nhau.
+
+Sinh lý học axit-bazơ
+
+Nguồn axit chính trong cơ thể là quá trình chuyển hóa carbohydrate và chất béo.
+
+Quá trình chuyển hóa carbohydrate và chất béo tạo ra 15.000 đến 20.000 mmol carbon dioxide (CO
+
+2
+
+) hằng ngày. CO
+
+2
+
+không phải là một axit, nhưng với sự có mặt của một enzym của họ cacbonic anhydrase, CO
+
+2
+
+kết hợp với nước (H
+
+2
+
+O) trong máu để tạo ra axit cacbonic (H
+
+2
+
+CO
+
+3
+
+), phân tách thành ion hydro (H
+
++
+
+) và bicarbonate (HCO
+
+3
+
+−
+
+). H
+
++
+
+liên kết với hemoglobin trong các tế bào hồng cầu và được giải phóng cùng với oxy trong phế nang, tại thời điểm đó phản ứng được đảo ngược bởi một dạng khác của anhydrase carbonic, tạo ra H
+
+2
+
+O, được bài tiết qua thận, và CO
+
+2
+
+, được thở ra trong mỗi lần thở.
+
+Các nguồn axit hữu cơ khác là
+
+Sự chuyển hóa không hoàn toàn glucose và axit béo thành axit lactic và ketoaxit
+
+Chuyển hóa các axit amin chứa lưu huỳnh (
+
+cysteine
+
+, methionine) thành axit sulfuric
+
+Chuyển hóa các axit amin cation (
+
+arginine
+
+, lysine)
+
+Thủy phân phốt phát trong chế độ ăn
+
+Axit "cố định" hoặc "trao đổi chất" không thể thải qua đường hô hấp, do đó phải được trung hòa hoặc bài tiết qua thận.
+
+Hầu hết lượng kiềm
+
+trong cơ thể đến từ
+
+Chuyển hóa các axit amin anion (glutamate, aspartate)
+
+Quá trình oxy hóa và tiêu thụ các anion hữu cơ như lactate và citrate, tạo ra HCO
+
+3
+
+-
+
+Cân bằng axit-bazơ
+
+Cân bằng axit-bazơ được duy trì bởi
+
+Đệm hóa học
+
+Hoạt động của phổi
+
+Hoạt động của thận
+
+Đệm hóa học
+
+Hệ đệm hoá học là các dung dịch chống lại sự thay đổi pH. Các hệ đệm nội bào và ngoại bào có phản ứng tức thời đối với các rối loạn axit-bazơ. Xương cũng đóng một vai trò đệm quan trọng, đặc biệt là axit.
+
+Một hệ đệm được tạo thành từ một axit yếu và bazơ liên hợp của nó. Bazơ liên hợp có thể nhận H
+
++
+
+và axit yếu có thể cho H+, qua đó giảm thiểu sự thay đổi nồng độ H
+
++
+
+tự do. Một hệ thống đệm làm việc tốt nhất khi giảm thiểu sự thay đổi pH gần hằng số cân bằng (pKa); vì vậy, mặc dù có nhiều cặp đệm trong nhiều cơ thể, nhưng chỉ có một số có liên quan đến sinh lý học.
+
+Mối quan hệ giữa độ pH của một hệ đệm và nồng độ các thành phần trong hệ được mô tả bằng phương trình Henderson-Hasselbalch:
+
+Trong đó, pKa là hằng số phân ly của axit yếu.
+
+Hệ đệm ngoại bào quan trọng nhất
+
+là hệ HCO
+
+3
+
+−
+
+/CO
+
+2
+
+, mô tả bằng phương trình:
+
+Tăng H
+
++
+
+làm phương trình chuyển về bên phải và sinh ra CO
+
+2
+
+.
+
+Hệ thống đệm quan trọng này hoạt động rất chặt chẽ; nồng độ CO
+
+2
+
+có thể được kiểm soát chặt bởi thông khí của phế nang, nồng độ H
+
++
+
+và HCO
+
+3
+
+−
+
+có thể được điều chỉnh qua bài tiết ở thận.
+
+Mối quan hệ giữa pH, HCO
+
+3
+
+−
+
+, và CO
+
+2
+
+trong hệ thống như mô tả bởi phương trình Henderson-Hasselbalch như sau:
+
+HCO3- được đo bằng mEq/L và PCO2 là áp suất riêng phần của CO2 được đo bằng mmHg.
+
+Hoặc tương tự, theo phương trình Kassirer-Bleich, bắt nguồn từ phương trình Henderson-Hasselbalch:
+
+Lưu ý: để chuyển đổi pH động mạch đến [H
+
++
+
+] sử dụng:
+
+hoặc là
+
+Cả hai phương trình đều minh họa rằng cân bằng axit-bazơ phụ thuộc vào
+
+tỷ lệ
+
+áp suất riêng phần của carbon dioxide (P
+
+co
+
+2
+
+) và nồng độ HCO
+
+3
+
+−
+
+trong huyết thanh hoặc huyết tương, chứ không phụ thuộc vào giá trị tuyệt đối của từng yếu tố riêng lẻ. Với các công thức này, bất kỳ 2 biến số nào có thể được sử dụng để tính giá trị của biến thứ ba.
+
+Các
+
+hệ đệm hóa học quan trọng
+
+khác bao gồm các phốt phát nội bào và phốt phát vô cơ, protein, bao gồm Hb trong hồng cầu. Phốt phát ngoại bào và protein huyết tương ít quan trọng hơn.
+
+Xương trở thành một hệ đệm quan trọng sau khi tiêu thụ một lượng axit. Ban đầu xương giải phóng
+
+natri bicarbonate
+
+(NaHCO
+
+3
+
+) và
+
+kali bicarbonate
+
+(KHCO
+
+3
+
+) để đổi lấy H
+
++
+
+. Với lượng axit kéo dài, xương sẽ giải phóng
+
+canxi cacbonat
+
+(CaCO
+
+3
+
+) và
+
+canxi phốt phát
+
+(CaPO
+
+4
+
+). Do đó toan máu kéo dài gây mất chất khoáng của xương và
+
+loãng xương
+
+.
+
+Công cụ tính toán lâm sàng
+
+Phương trình Henderson-Hasselbalch
+
+Điều hòa pH phổi
+
+Nồng độ CO
+
+2
+
+được điều chỉnh một cách tinh vi do sự thay đổi thể tích khí lưu thông và hệ số hô hấp (số phút thông khí). Sự giảm pH được cảm nhận bởi các chất nhận cảm hóa học ở động mạch và dẫn đến tăng thể tích khí lưu thông hoặc hệ số hô hấp; CO
+
+2
+
+bị thải ra và pH máu tăng lên. Ngược lại với sự hệ hóa học (hoạt động ngay lập tức); hệ đệm ở phổi diễn ra trong vài phút đến vài giờ. Hiệu quả từ 50 đến 75% và không làm bình thường hóa pH.
+
+Điều hòa của thận
+
+Thận kiểm soát pH bằng cách điều chỉnh lượng HCO
+
+3
+
+−
+
+bằng cách bài tiết hay tái hấp thu. Tái hấp thụ lại HCO
+
+3
+
+−
+
+tương đương với việc thải ra H
+
++
+
+. Sự thay đổi trong việc cân bằng axit-bazơ ở thận diễn ra hàng giờ đến vài ngày sau khi thay đổi tình trạng axit-bazơ.
+
+Tất cả các ion HCO
+
+3
+
+−
+
+trong huyết thanh được lọc khi đi qua cầu thận. Sự tái hấp thụ HCO
+
+3
+
+−
+
+xảy ra chủ yếu ở ống lượn gần và một lượng ít ở ống góp. H
+
+2
+
+O trong tế bào ống lượn xa phân tách thành H
+
++
+
+và hydroxit (OH
+
+−
+
+); với sự có mặt của cacbonic anhydrase, OH
+
+−
+
+kết hợp với CO
+
+2
+
+hình thành HCO
+
+3
+
+−
+
+, được vận chuyển trở lại vào mao mạch cận cầu thận, trong khi H
+
++
+
+được tiết vào ống dẫn và cùng với hệ đệm tự do HCO
+
+3
+
+−
+
+để tạo CO
+
+2
+
+và H
+
+2
+
+O, cũng được hấp thụ lại.  Vì vậy, ion HCO
+
+3
+
+−
+
+tại ống lượn xa là mới được tạo ra và không giống như các ion đã được lọc.
+
+Giảm thể tích tuần hoàn hiệu quả (chẳng hạn như xảy ra khi điều trị bằng thuốc lợi tiểu) làm tăng tái hấp thu HCO
+
+3
+
+−
+
+, trong khi tăng
+
+hormone tuyến cận giáp
+
+để đáp ứng với lượng axit làm giảm tái hấp thu HCO
+
+3
+
+−
+
+. Ngoài ra, tăng P
+
+co
+
+2
+
+dẫn đến tăng HCO
+
+3
+
+−
+
+tái hấp thu, trong khi sự suy giảm ion clorua (Cl
+
+−
+
+) (thường do suy giảm thể tích) dẫn đến tăng tái hấp thu ion natri (Na
+
++
+
+) và HCO
+
+3
+
+−
+
+tạo bởi ống lượn gần.
+
+Axit được bài tiết tích cực vào các ống gần và xa nơi nó kết hợp với các hệ đệm trong nước tiểu – chủ yếu là lọc phốt pháte tự do (HPO
+
+4
+
+−2
+
+), creatinine, axit uric và amoniac – sẽ được vận chuyển ra khỏi cơ thể. Hệ thống đệm amoniac đặc biệt quan trọng bởi vì các hệ đệm khác được lọc theo nồng độ cố định và có thể bị cạn kiệt bởi lượng axit cao; ngược lại, các tế bào ống thận chủ động điều chỉnh lượng amoniac tạo thành để đáp ứng với lượng axit hiện có. PH động mạch là yếu tố chính quyết định sự bài tiết axit, nhưng bài tiết cũng chịu ảnh hưởng của nồng độ kali (K
+
++
+
+), Cl
+
+−
+
+, và aldosterone. Nồng độ K
+
++
+
+nội bào và H
+
++
+
+tiết ra có liên quan đến nhau; thiếu K
+
++
+
+làm tăng tiết H
+
++
+
+và do đó gây
+
+kiềm chuyển hóa.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý học axit-bazơ ---
+
+Nguồn axit chính trong cơ thể là quá trình chuyển hóa carbohydrate và chất béo.Quá trình chuyển hóa carbohydrate và chất béo tạo ra 15.000 đến 20.000 mmol carbon dioxide (CO2) hằng ngày. CO2không phải là một axit, nhưng với sự có mặt của một enzym của họ cacbonic anhydrase, CO2kết hợp với nước (H2O) trong máu để tạo ra axit cacbonic (H2CO3), phân tách thành ion hydro (H+) và bicarbonate (HCO3−). H+liên kết với hemoglobin trong các tế bào hồng cầu và được giải phóng cùng với oxy trong phế nang, tại thời điểm đó phản ứng được đảo ngược bởi một dạng khác của anhydrase carbonic, tạo ra H2O, được bài tiết qua thận, và CO2, được thở ra trong mỗi lần thở.Các nguồn axit hữu cơ khác làSự chuyển hóa không hoàn toàn glucose và axit béo thành axit lactic và ketoaxitChuyển hóa các axit amin chứa lưu huỳnh (cysteine, methionine) thành axit sulfuricChuyển hóa các axit amin cation (arginine, lysine)Thủy phân phốt phát trong chế độ ănAxit "cố định" hoặc "trao đổi chất" không thể thải qua đường hô hấp, do đó phải được trung hòa hoặc bài tiết qua thận.Hầu hết lượng kiềmtrong cơ thể đến từChuyển hóa các axit amin anion (glutamate, aspartate)Quá trình oxy hóa và tiêu thụ các anion hữu cơ như lactate và citrate, tạo ra HCO3-
+
+--- 2. Cân bằng axit-bazơ ---
+
+Cân bằng axit-bazơ được duy trì bởiĐệm hóa họcHoạt động của phổiHoạt động của thậnĐệm hóa họcHệ đệm hoá học là các dung dịch chống lại sự thay đổi pH. Các hệ đệm nội bào và ngoại bào có phản ứng tức thời đối với các rối loạn axit-bazơ. Xương cũng đóng một vai trò đệm quan trọng, đặc biệt là axit.Một hệ đệm được tạo thành từ một axit yếu và bazơ liên hợp của nó. Bazơ liên hợp có thể nhận H+và axit yếu có thể cho H+, qua đó giảm thiểu sự thay đổi nồng độ H+tự do. Một hệ thống đệm làm việc tốt nhất khi giảm thiểu sự thay đổi pH gần hằng số cân bằng (pKa); vì vậy, mặc dù có nhiều cặp đệm trong nhiều cơ thể, nhưng chỉ có một số có liên quan đến sinh lý học.Mối quan hệ giữa độ pH của một hệ đệm và nồng độ các thành phần trong hệ được mô tả bằng phương trình Henderson-Hasselbalch:Trong đó, pKa là hằng số phân ly của axit yếu.Hệ đệm ngoại bào quan trọng nhấtlà hệ HCO3−/CO2, mô tả bằng phương trình:Tăng H+làm phương trình chuyển về bên phải và sinh ra CO2.Hệ thống đệm quan trọng này hoạt động rất chặt chẽ; nồng độ CO2có thể được kiểm soát chặt bởi thông khí của phế nang, nồng độ H+và HCO3−có thể được điều chỉnh qua bài tiết ở thận.Mối quan hệ giữa pH, HCO3−, và CO2trong hệ thống như mô tả bởi phương trình Henderson-Hasselbalch như sau:HCO3- được đo bằng mEq/L và PCO2 là áp suất riêng phần của CO2 được đo bằng mmHg.Hoặc tương tự, theo phương trình Kassirer-Bleich, bắt nguồn từ phương trình Henderson-Hasselbalch:Lưu ý: để chuyển đổi pH động mạch đến [H+] sử dụng:hoặc làCả hai phương trình đều minh họa rằng cân bằng axit-bazơ phụ thuộc vàotỷ lệáp suất riêng phần của carbon dioxide (Pco2) và nồng độ HCO3−trong huyết thanh hoặc huyết tương, chứ không phụ thuộc vào giá trị tuyệt đối của từng yếu tố riêng lẻ. Với các công thức này, bất kỳ 2 biến số nào có thể được sử dụng để tính giá trị của biến thứ ba.Cáchệ đệm hóa học quan trọngkhác bao gồm các phốt phát nội bào và phốt phát vô cơ, protein, bao gồm Hb trong hồng cầu. Phốt phát ngoại bào và protein huyết tương ít quan trọng hơn.Xương trở thành một hệ đệm quan trọng sau khi tiêu thụ một lượng axit. Ban đầu xương giải phóngnatri bicarbonate(NaHCO3) vàkali bicarbonate(KHCO3) để đổi lấy H+. Với lượng axit kéo dài, xương sẽ giải phóngcanxi cacbonat(CaCO3) vàcanxi phốt phát(CaPO4). Do đó toan máu kéo dài gây mất chất khoáng của xương vàloãng xương.Công cụ tính toán lâm sàngPhương trình Henderson-HasselbalchĐiều hòa pH phổiNồng độ CO2được điều chỉnh một cách tinh vi do sự thay đổi thể tích khí lưu thông và hệ số hô hấp (số phút thông khí). Sự giảm pH được cảm nhận bởi các chất nhận cảm hóa học ở động mạch và dẫn đến tăng thể tích khí lưu thông hoặc hệ số hô hấp; CO2bị thải ra và pH máu tăng lên. Ngược lại với sự hệ hóa học (hoạt động ngay lập tức); hệ đệm ở phổi diễn ra trong vài phút đến vài giờ. Hiệu quả từ 50 đến 75% và không làm bình thường hóa pH.Điều hòa của thậnThận kiểm soát pH bằng cách điều chỉnh lượng HCO3−bằng cách bài tiết hay tái hấp thu. Tái hấp thụ lại HCO3−tương đương với việc thải ra H+. Sự thay đổi trong việc cân bằng axit-bazơ ở thận diễn ra hàng giờ đến vài ngày sau khi thay đổi tình trạng axit-bazơ.Tất cả các ion HCO3−trong huyết thanh được lọc khi đi qua cầu thận. Sự tái hấp thụ HCO3−xảy ra chủ yếu ở ống lượn gần và một lượng ít ở ống góp. H2O trong tế bào ống lượn xa phân tách thành H+và hydroxit (OH−); với sự có mặt của cacbonic anhydrase, OH−kết hợp với CO2hình thành HCO3−, được vận chuyển trở lại vào mao mạch cận cầu thận, trong khi H+được tiết vào ống dẫn và cùng với hệ đệm tự do HCO3−để tạo CO2và H2O, cũng được hấp thụ lại.  Vì vậy, ion HCO3−tại ống lượn xa là mới được tạo ra và không giống như các ion đã được lọc.Giảm thể tích tuần hoàn hiệu quả (chẳng hạn như xảy ra khi điều trị bằng thuốc lợi tiểu) làm tăng tái hấp thu HCO3−, trong khi tănghormone tuyến cận giápđể đáp ứng với lượng axit làm giảm tái hấp thu HCO3−. Ngoài ra, tăng Pco2dẫn đến tăng HCO3−tái hấp thu, trong khi sự suy giảm ion clorua (Cl−) (thường do suy giảm thể tích) dẫn đến tăng tái hấp thu ion natri (Na+) và HCO3−tạo bởi ống lượn gần.Axit được bài tiết tích cực vào các ống gần và xa nơi nó kết hợp với các hệ đệm trong nước tiểu – chủ yếu là lọc phốt pháte tự do (HPO4−2), creatinine, axit uric và amoniac – sẽ được vận chuyển ra khỏi cơ thể. Hệ thống đệm amoniac đặc biệt quan trọng bởi vì các hệ đệm khác được lọc theo nồng độ cố định và có thể bị cạn kiệt bởi lượng axit cao; ngược lại, các tế bào ống thận chủ động điều chỉnh lượng amoniac tạo thành để đáp ứng với lượng axit hiện có. PH động mạch là yếu tố chính quyết định sự bài tiết axit, nhưng bài tiết cũng chịu ảnh hưởng của nồng độ kali (K+), Cl−, và aldosterone. Nồng độ K+nội bào và H+tiết ra có liên quan đến nhau; thiếu K+làm tăng tiết H+và do đó gâykiềm chuyển hóa.

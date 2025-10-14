@@ -1,0 +1,347 @@
+TIÊU ĐỀ: Nhịp nhanh thất xoắn đỉnh
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-nhịp-tim-cụ-thể/nhịp-nhanh-thất-xoắn-đỉnh
+================================================================================
+
+NỘI DUNG:
+
+Nhịp nhanh thất xoắn đỉnh
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 9 2024
+
+v6525899_vi
+
+Nhịp nhanh thất xoắn đỉnh là một dạng đặc hiệu của nhịp nhanh thất đa hình trên những bệnh nhân có khoảng QT dài. Xoắn đỉnh được đặc trưng bởi các phức bộ QRS với tần số nhanh, không đều, và có dạng như xoay xung quanh một trục cố định. Cơn xoắn đỉnh có thể tự cắt cơn một cách tự nhiên hoặc tiến triển thành cơn rung thất. Gây ảnh hưởng nặng nề lên huyết động và thường dẫn tới tử vong. Chẩn đoán bằng ECG. Điều trị bằng magiê theo đường tĩnh mạch, các biện pháp rút ngắn khoảng QT và khử rung tim bằng dòng điện 1 chiều khi rung thất xuất hiện.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Khoảng QT dài gây ra nhịp nhanh thất xoắn đỉnh (TdeP VT) có thể là do mắc phải, bẩm sinh hoặc kết hợp.
+
+Kéo dài khoảng QT dẫn đến sau khử cực sớm và phân tán không gian của tình trạng kháng trị của tâm thất, có thể dẫn đến loạn nhịp. (Để biết thảo luận về nguyên nhân bẩm sinh, hãy xem
+
+Hội chứng QT dài
+
+và xem thêm
+
+Tổng quan về loạn nhịp tim
+
+.)
+
+Sinh lý bệnh của nhịp nhanh thất xoắn đỉnh
+
+TdeP VT là kết quả của bất kỳ rối loạn nào về chức năng hoặc điều hòa kênh ion tim kéo dài thời gian hoạt động của tế bào cơ tâm thất, được chứng minh bằng việc kéo dài khoảng QT hiệu chỉnh theo tần số trên điện tâm đồ (QTc), thường được tính bằng công thức của Bazett. Nguy cơ nhịp nhanh thất xoắn đỉnh phụ thuộc vào mức độ kéo dài QTc, đặc biệt nếu kéo dài > 0,50 giây.
+
+Nhịp nhanh thất xoắn đỉnh có thể do
+
+Mất chức năng tái phân cực các kênh dòng kali HOẶC
+
+Đạt chức năng khử cực kênh ion dòng natri hoặc khử cực kênh ion dòng canxi
+
+Mỗi yếu tố trong số này dẫn đến nhịp nhanh thất xoắn đỉnh bằng cách kéo dài quá trình tái cực, quá trình này gây ra các tình trạng sau khử cực sớm (các sự kiện khử cực thứ phát trong giai đoạn bình nguyên của điện thế hoạt động) và phân tán không gian của tình trạng kháng trị ở tâm thất. Sự phân tán của tình trạng kháng trị cho phép lan truyền tình trạng sau khử cực sớm và bắt đầu nhịp nhanh thất xoắn đỉnh.
+
+Các yếu tố có trước (tiền tố)
+
+Yếu tố tiền đề phổ biến nhất
+
+trong  VT TdeP do mắc phải là
+
+Thuốc kéo dài khoảng QT, đặc biệt là
+
+thuốc chống loạn nhịp
+
+nhóm Ia, nhóm Ic hoặc nhóm III
+
+Các loại thuốc khác có thể gây ra VT TdeP bao gồm thuốc chống trầm cảm ba vòng, phenothiazin và một số thuốc kháng vi-rút và thuốc kháng nấm (xem
+
+CredibleMeds
+
+để biết thông tin mới nhất).
+
+Trong hầu hết các trường hợp, có một số nguyên nhân có thể dẫn đến tình trạng này, bao gồm (
+
+1
+
+):
+
+Giới (nữ)
+
+Tuổi cao
+
+Hạ kali máu
+
+Hạ magie máu
+
+Suy giáp
+
+Nhịp thất chậm
+
+Nhịp thất không đều
+
+Tổn thương não cấp tính nghiêm trọng (ví dụ: chảy máu,
+
+đột quỵ
+
+,
+
+chấn thương sọ não
+
+)
+
+Các rối loạn ăn
+
+Ngộ độc phosphate hữu cơ
+
+Bệnh tim cấu trúc (đặc biệt là thiếu máu cục bộ cấp tính, viêm cơ tim và phì đại thất)
+
+Tài liệu tham khảo về sinh lý bệnh
+
+1.
+
+El-Sherif N, Turitto G, Boutjdir M
+
+: Acquired Long QT Syndrome and Electrophysiology of Torsade de Pointes.
+
+Arrhythm Electrophysiol Rev
+
+8(2):122–130, 2019. doi: 10.15420/aer.2019.8.3
+
+Các triệu chứng và dấu hiệu của nhịp tim nhanh thất xoắn đỉnh
+
+Nhịp tim nhanh thất xoắn đỉnh thường gây ra ngất vì tần số nền (200 đến 250 nhịp/phút) không tưới máu. Cảm giác hồi hộp thường gặp ở những bệnh nhân còn ý thức.
+
+Do khoảng QT ngắn lại khi nhịp thất tăng nên VT TdeP thường tự chấm dứt. Tuy nhiên, thay vào đó, nó có thể suy biến thành
+
+rung thất
+
+và gây đột tử. Đôi khi QT dài được phát hiện sau khi cấp cứu hồi sinh tim phổi.
+
+Chẩn đoán nhịp nhanh thất xoắn đỉnh
+
+Điện tâm đồ (ECG)
+
+Chẩn đoán bằng điện tâm đồ cho thấy trục QRS gợn sóng, với cực tính của các phức hợp dịch chuyển xung quanh đường cơ sở (xem hình
+
+Xoắn đỉnh do nhịp nhanh thất
+
+). ECG ngoài cơn xoắn đỉnh có thể thấy khoảng QT hiệu chỉnh kéo dài (QTc). Giá trị QTc bình thường là < 0,43 giây đối với nam giới và < 0,45 giây đối với nữ giới. Các giá trị được coi là kéo dài khi các giá trị này > 0,45 giây đối với nam giới hoặc > 0,47 giây đối với nữ giới (
+
+1
+
+). Tiền sử gia đình có thể gợi ý hội chứng QT dài bẩm sinh.
+
+Các dấu hiệu cảnh báo ECG
+
+của VT TdeP sắp xảy ra ngoài tình trạng kéo dài khoảng QT bao gồm
+
+Hợp nhất sóng T và sóng U (đôi khi có sóng TU khổng lồ)
+
+Thay đổi sau ngoại tâm thu về kiểu tái cực
+
+Thay đổi luân phiên sóng T đại thể (sự xen kẽ có thể nhìn thấy của hai sóng T xuất hiện khác nhau)
+
+Ngoại tâm thu thất đa hình thường xuyên đại diện cho các nhịp đơn của xoắn đỉnh (thường gặp trong mạch nhịp đôi)
+
+Nhịp nhanh thất đa hình lặp đi lặp lại trong thời gian ngắn
+
+Dấu hiệu cảnh báo nhịp nhanh thất có xoắn đỉnh
+
+Hình ảnh
+
+Hình ảnh do bác sĩ L. Brent Mitchell cung cấp
+
+Nghi ngờ VT TdeP bằng cách nhận biết VT đa hình, nhanh, thường tự chấm dứt. Sự khởi phát thường theo trình tự khởi đầu là khoảng RR ngắn-dài-ngắn (mặc dù trình tự này không dành riêng cho VT TdeP): khoảng RR ngắn đầu tiên nằm giữa nhịp cơ bản (thường là nhịp bình thường) và nhịp sớm (thường là
+
+nhịp ngoại tâm thu thất
+
+). Khoảng RR dài là khoảng dừng sau ngoại tâm thu và kết thúc bằng nhịp cơ bản (thường là nhịp bình thường). Khoảng tạm dừng này kéo dài thêm khoảng QT của nhịp cơ bản này và theo sau là khoảng RR ngắn khi VT TdeP bắt đầu. Mặc dù bệnh nhân có thể có QTc bình thường vào những thời điểm khác, nhưng QTc thường kéo dài đáng kể vào khoảng thời gian nhịp nhanh thất xoắn đỉnh và khoảng QT của phức hợp QRS cuối cùng trước nhịp nhanh thất xoắn đỉnh phải dài (thường có sóng TU khổng lồ).
+
+Ngọc trai & cạm bẫy
+
+Nhịp nhanh thất xoắn đỉnh thường theo trình tự bắt đầu khoảng RR ngắn-dài-ngắn và khoảng QT của phức bộ QRS cuối cùng trước nhịp nhanh thất xoắn đỉnh phải dài.
+
+Nhịp nhanh thất xoắn đỉnh
+
+Công cụ tính toán lâm sàng
+
+Hiệu chỉnh khoảng QT (Điện tâm đồ)
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Goldenberg I, Moss AJ, Zareba W
+
+:  QT interval: how to measure it and what is "normal".
+
+J Cardiovasc Electrophysiol
+
+17(3):333–336, 2006. doi: 10.1111/j.1540-8167.2006.00408.x
+
+Điều trị nhịp nhanh thất xoắn đỉnh
+
+Sốc điện chuyển nhịp bằng dòng điện 1 chiều không đồng bộ để điều trị rung tâm thất
+
+Điều chỉnh các bất thường điện giải, đặc biệt là hạ kali máu
+
+Magnesium sulfate (MgSO4)
+
+Các phương pháp điều trị để tăng nhịp tim cơ bản, bao gồm tạo nhịp hoặc isoproterenol đường tĩnh mạch
+
+Điều trị nguyên nhân
+
+Một cơn cấp tính kéo dài đủ lâu để gây ra tình trạng rối loạn huyết động được điều trị bằng phương pháp
+
+sốc điện chuyển nhịp không đồng bộ
+
+, bắt đầu bằng phương pháp hai pha 120 đến 200 joule (hoặc phương pháp một pha 360 joule). Tuy nhiên, cơn thường hay tái phát sớm.
+
+Bất thường điện giải (ví dụ,
+
+hạ kali máu
+
+), có thể làm trầm trọng thêm nguy cơ rối loạn nhịp thất, nên được điều chỉnh. Bệnh nhân thường đáp ứng với magie, thường là magnesi sulfat 2 g IV trong 1 đến 2 phút. Nếu phương pháp điều trị này không thành công, tiêm một liều tấn công thứ hai sau 5 phút đến 10 phút và có thể bắt đầu truyền magiê từ 3 đến 20 mg/phút ở những bệnh nhân không bị suy thận (
+
+1
+
+). Lidocaine (
+
+một loại thuốc chống loạn nhịp
+
+nhóm Ib) làm ngắn khoảng QT và có thể có hiệu quả đặc biệt đối với xoắn đỉnh do thuốc gây ra (
+
+2
+
+). Tránh các loại thuốc chống loạn nhịp nhóm Ia, Ic, III.
+
+Nếu thuốc là nguyên nhân, sẽ phải ngừng sử dụng thuốc, nhưng cho đến khi thuốc hết tác dụng, bệnh nhân bị VT TdeP thường xuyên hoặc kéo dài cần phải điều trị để rút ngắn khoảng QT. Tăng nhịp tim giúp rút ngắn khoảng QT, do đó có thể cân nhắc tạo nhịp tạm thời, hoặc truyền tĩnh mạch isoproterenol, hoặc cả hai. Tăng nhịp tim cũng sẽ rút ngắn “dài” trong chuỗi khởi đầu “ngắn-dài-ngắn” của VT TdeP (
+
+1
+
+).
+
+Điều trị lâu dài là tránh các tình trạng kéo dài khoảng QT. Một số bệnh nhân có hội chứng khoảng QT dài do mắc phải có hội chứng khoảng QT dài bẩm sinh cận lâm sàng tiềm ẩn được gợi ý bởi tình trạng kéo dài khoảng QTc dai dẳng sau khi loại bỏ các tác động kéo dài QTc do ngoại sinh (
+
+2
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al
+
+: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+
+J Am Coll Cardiol
+
+72:e91–e220, 2018. doi: 10.1016/j.jacc.2017.10.054
+
+2.
+
+Davies RA, Ladouceur VB, Green MS, et al
+
+: The 2023 Canadian Cardiovascular Society Clinical Practice Update on Management of the Patient With a Prolonged QT Interval.
+
+Can J Cardiol
+
+39(10):1285–1301, 2023. doi: 10.1016/j.cjca.2023.06.011
+
+Những điểm chính
+
+Khoảng QT dài gây ra nhịp nhanh thất xoắn đỉnh có thể là bẩm sinh hoặc mắc phải.
+
+Các lần chạy xoắn đỉnh thường tự kết thúc nhưng thường xuyên tái diễn.
+
+Cần phải khử rung tim không đồng bộ nếu cơn xoắn đỉnh gây ra rung thất.
+
+Nhịp xoắn được điều trị bằng magnesium sulfate 2 g đường tĩnh mạch trong 1-2 phút, điều chỉnh hạ kali máu, tạo nhịp hoặc isoproterenol để tăng nhịp tim và điều chỉnh nguyên nhân.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của nhịp nhanh thất xoắn đỉnh ---
+
+TdeP VT là kết quả của bất kỳ rối loạn nào về chức năng hoặc điều hòa kênh ion tim kéo dài thời gian hoạt động của tế bào cơ tâm thất, được chứng minh bằng việc kéo dài khoảng QT hiệu chỉnh theo tần số trên điện tâm đồ (QTc), thường được tính bằng công thức của Bazett. Nguy cơ nhịp nhanh thất xoắn đỉnh phụ thuộc vào mức độ kéo dài QTc, đặc biệt nếu kéo dài > 0,50 giây.Nhịp nhanh thất xoắn đỉnh có thể doMất chức năng tái phân cực các kênh dòng kali HOẶCĐạt chức năng khử cực kênh ion dòng natri hoặc khử cực kênh ion dòng canxiMỗi yếu tố trong số này dẫn đến nhịp nhanh thất xoắn đỉnh bằng cách kéo dài quá trình tái cực, quá trình này gây ra các tình trạng sau khử cực sớm (các sự kiện khử cực thứ phát trong giai đoạn bình nguyên của điện thế hoạt động) và phân tán không gian của tình trạng kháng trị ở tâm thất. Sự phân tán của tình trạng kháng trị cho phép lan truyền tình trạng sau khử cực sớm và bắt đầu nhịp nhanh thất xoắn đỉnh.Các yếu tố có trước (tiền tố)Yếu tố tiền đề phổ biến nhấttrong  VT TdeP do mắc phải làThuốc kéo dài khoảng QT, đặc biệt làthuốc chống loạn nhịpnhóm Ia, nhóm Ic hoặc nhóm IIICác loại thuốc khác có thể gây ra VT TdeP bao gồm thuốc chống trầm cảm ba vòng, phenothiazin và một số thuốc kháng vi-rút và thuốc kháng nấm (xemCredibleMedsđể biết thông tin mới nhất).Trong hầu hết các trường hợp, có một số nguyên nhân có thể dẫn đến tình trạng này, bao gồm (1):Giới (nữ)Tuổi caoHạ kali máuHạ magie máuSuy giápNhịp thất chậmNhịp thất không đềuTổn thương não cấp tính nghiêm trọng (ví dụ: chảy máu,đột quỵ,chấn thương sọ não)Các rối loạn ănNgộ độc phosphate hữu cơBệnh tim cấu trúc (đặc biệt là thiếu máu cục bộ cấp tính, viêm cơ tim và phì đại thất)Tài liệu tham khảo về sinh lý bệnh1.El-Sherif N, Turitto G, Boutjdir M: Acquired Long QT Syndrome and Electrophysiology of Torsade de Pointes.Arrhythm Electrophysiol Rev8(2):122–130, 2019. doi: 10.15420/aer.2019.8.3
+
+--- 2. Các triệu chứng và dấu hiệu của nhịp tim nhanh thất xoắn đỉnh ---
+
+Nhịp tim nhanh thất xoắn đỉnh thường gây ra ngất vì tần số nền (200 đến 250 nhịp/phút) không tưới máu. Cảm giác hồi hộp thường gặp ở những bệnh nhân còn ý thức.Do khoảng QT ngắn lại khi nhịp thất tăng nên VT TdeP thường tự chấm dứt. Tuy nhiên, thay vào đó, nó có thể suy biến thànhrung thấtvà gây đột tử. Đôi khi QT dài được phát hiện sau khi cấp cứu hồi sinh tim phổi.
+
+--- 3. Chẩn đoán nhịp nhanh thất xoắn đỉnh ---
+
+Điện tâm đồ (ECG)Chẩn đoán bằng điện tâm đồ cho thấy trục QRS gợn sóng, với cực tính của các phức hợp dịch chuyển xung quanh đường cơ sở (xem hìnhXoắn đỉnh do nhịp nhanh thất). ECG ngoài cơn xoắn đỉnh có thể thấy khoảng QT hiệu chỉnh kéo dài (QTc). Giá trị QTc bình thường là < 0,43 giây đối với nam giới và < 0,45 giây đối với nữ giới. Các giá trị được coi là kéo dài khi các giá trị này > 0,45 giây đối với nam giới hoặc > 0,47 giây đối với nữ giới (1). Tiền sử gia đình có thể gợi ý hội chứng QT dài bẩm sinh.Các dấu hiệu cảnh báo ECGcủa VT TdeP sắp xảy ra ngoài tình trạng kéo dài khoảng QT bao gồmHợp nhất sóng T và sóng U (đôi khi có sóng TU khổng lồ)Thay đổi sau ngoại tâm thu về kiểu tái cựcThay đổi luân phiên sóng T đại thể (sự xen kẽ có thể nhìn thấy của hai sóng T xuất hiện khác nhau)Ngoại tâm thu thất đa hình thường xuyên đại diện cho các nhịp đơn của xoắn đỉnh (thường gặp trong mạch nhịp đôi)Nhịp nhanh thất đa hình lặp đi lặp lại trong thời gian ngắnDấu hiệu cảnh báo nhịp nhanh thất có xoắn đỉnhHình ảnhHình ảnh do bác sĩ L. Brent Mitchell cung cấpNghi ngờ VT TdeP bằng cách nhận biết VT đa hình, nhanh, thường tự chấm dứt. Sự khởi phát thường theo trình tự khởi đầu là khoảng RR ngắn-dài-ngắn (mặc dù trình tự này không dành riêng cho VT TdeP): khoảng RR ngắn đầu tiên nằm giữa nhịp cơ bản (thường là nhịp bình thường) và nhịp sớm (thường lànhịp ngoại tâm thu thất). Khoảng RR dài là khoảng dừng sau ngoại tâm thu và kết thúc bằng nhịp cơ bản (thường là nhịp bình thường). Khoảng tạm dừng này kéo dài thêm khoảng QT của nhịp cơ bản này và theo sau là khoảng RR ngắn khi VT TdeP bắt đầu. Mặc dù bệnh nhân có thể có QTc bình thường vào những thời điểm khác, nhưng QTc thường kéo dài đáng kể vào khoảng thời gian nhịp nhanh thất xoắn đỉnh và khoảng QT của phức hợp QRS cuối cùng trước nhịp nhanh thất xoắn đỉnh phải dài (thường có sóng TU khổng lồ).Ngọc trai & cạm bẫyNhịp nhanh thất xoắn đỉnh thường theo trình tự bắt đầu khoảng RR ngắn-dài-ngắn và khoảng QT của phức bộ QRS cuối cùng trước nhịp nhanh thất xoắn đỉnh phải dài.Nhịp nhanh thất xoắn đỉnhCông cụ tính toán lâm sàngHiệu chỉnh khoảng QT (Điện tâm đồ)Tài liệu tham khảo chẩn đoán1.Goldenberg I, Moss AJ, Zareba W:  QT interval: how to measure it and what is "normal".J Cardiovasc Electrophysiol17(3):333–336, 2006. doi: 10.1111/j.1540-8167.2006.00408.x
+
+--- 4. Điều trị nhịp nhanh thất xoắn đỉnh ---
+
+Sốc điện chuyển nhịp bằng dòng điện 1 chiều không đồng bộ để điều trị rung tâm thấtĐiều chỉnh các bất thường điện giải, đặc biệt là hạ kali máuMagnesium sulfate (MgSO4)Các phương pháp điều trị để tăng nhịp tim cơ bản, bao gồm tạo nhịp hoặc isoproterenol đường tĩnh mạchĐiều trị nguyên nhânMột cơn cấp tính kéo dài đủ lâu để gây ra tình trạng rối loạn huyết động được điều trị bằng phương phápsốc điện chuyển nhịp không đồng bộ, bắt đầu bằng phương pháp hai pha 120 đến 200 joule (hoặc phương pháp một pha 360 joule). Tuy nhiên, cơn thường hay tái phát sớm.Bất thường điện giải (ví dụ,hạ kali máu), có thể làm trầm trọng thêm nguy cơ rối loạn nhịp thất, nên được điều chỉnh. Bệnh nhân thường đáp ứng với magie, thường là magnesi sulfat 2 g IV trong 1 đến 2 phút. Nếu phương pháp điều trị này không thành công, tiêm một liều tấn công thứ hai sau 5 phút đến 10 phút và có thể bắt đầu truyền magiê từ 3 đến 20 mg/phút ở những bệnh nhân không bị suy thận (1). Lidocaine (một loại thuốc chống loạn nhịpnhóm Ib) làm ngắn khoảng QT và có thể có hiệu quả đặc biệt đối với xoắn đỉnh do thuốc gây ra (2). Tránh các loại thuốc chống loạn nhịp nhóm Ia, Ic, III.Nếu thuốc là nguyên nhân, sẽ phải ngừng sử dụng thuốc, nhưng cho đến khi thuốc hết tác dụng, bệnh nhân bị VT TdeP thường xuyên hoặc kéo dài cần phải điều trị để rút ngắn khoảng QT. Tăng nhịp tim giúp rút ngắn khoảng QT, do đó có thể cân nhắc tạo nhịp tạm thời, hoặc truyền tĩnh mạch isoproterenol, hoặc cả hai. Tăng nhịp tim cũng sẽ rút ngắn “dài” trong chuỗi khởi đầu “ngắn-dài-ngắn” của VT TdeP (1).Điều trị lâu dài là tránh các tình trạng kéo dài khoảng QT. Một số bệnh nhân có hội chứng khoảng QT dài do mắc phải có hội chứng khoảng QT dài bẩm sinh cận lâm sàng tiềm ẩn được gợi ý bởi tình trạng kéo dài khoảng QTc dai dẳng sau khi loại bỏ các tác động kéo dài QTc do ngoại sinh (2).Tài liệu tham khảo về điều trị1.Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.J Am Coll Cardiol72:e91–e220, 2018. doi: 10.1016/j.jacc.2017.10.0542.Davies RA, Ladouceur VB, Green MS, et al: The 2023 Canadian Cardiovascular Society Clinical Practice Update on Management of the Patient With a Prolonged QT Interval.Can J Cardiol39(10):1285–1301, 2023. doi: 10.1016/j.cjca.2023.06.011
+
+--- 5. Những điểm chính ---
+
+Khoảng QT dài gây ra nhịp nhanh thất xoắn đỉnh có thể là bẩm sinh hoặc mắc phải.Các lần chạy xoắn đỉnh thường tự kết thúc nhưng thường xuyên tái diễn.Cần phải khử rung tim không đồng bộ nếu cơn xoắn đỉnh gây ra rung thất.Nhịp xoắn được điều trị bằng magnesium sulfate 2 g đường tĩnh mạch trong 1-2 phút, điều chỉnh hạ kali máu, tạo nhịp hoặc isoproterenol để tăng nhịp tim và điều chỉnh nguyên nhân.

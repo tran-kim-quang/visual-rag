@@ -1,0 +1,283 @@
+TIÊU ĐỀ: Tổng quan về dược động học
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-động-học/tổng-quan-về-dược-động-học
+================================================================================
+
+NỘI DUNG:
+
+Tổng quan về dược động học
+
+Theo
+
+Jennifer Le
+
+,
+
+PharmD, MAS, BCPS-ID, FIDSA, FCCP, FCSHP
+
+,
+
+Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+San Diego
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2024
+
+v1108791_vi
+
+Dược động học là những tác động của cơ thể đối với thuốc trong suốt quá trình thuốc đi vào, ở trong và đi ra khỏi cơ thể – bao gồm các quá trình
+
+hấp thụ
+
+,
+
+sinh khả dụng
+
+,
+
+phân bố
+
+,
+
+chuyển hóa
+
+, và
+
+thải trừ
+
+.
+
+Dược lực học
+
+, là tác động của thuốc với cơ thể, liên quan đến thụ thể liên kết, các phản ứng sau khi liên kết, và các tương tác hóa học.
+
+Dược động học của thuốc xác định thời điểm bắt đầu, khoảng thời gian và mức độ tác dụng của thuốc. Các công thức tính toán để mô tả tổng hợp tác động dược động học của hầu hết các loại thuốc (xem bảng
+
+Công thức xác định các thông số dược động học cơ bản
+
+).
+
+Bảng
+
+Công thức xác định các thông số dược động học cơ bản
+
+Bảng
+
+Công thức xác định các thông số dược động học cơ bản
+
+Công thức xác định các thông số dược động học cơ bản
+
+Phân loại
+
+Tham số
+
+Công thức
+
+Hấp thu
+
+Tốc độ hấp thu hằng định
+
+Tốc độ hấp thu thuốc
+
+÷
+
+lượng thuốc còn lại sẽ được hấp thu
+
+Sinh khả dụng
+
+Lượng thuốc đã được hấp thu
+
+÷
+
+liều thuốc
+
+Phân bố
+
+Thể tích phân bố biểu kiến
+
+Lượng thuốc trong cơ thể
+
+÷
+
+nồng độ thuốc trong huyết tương
+
+Phần không liên kết
+
+Nồng độ huyết tương của thuốc không liên kết
+
+÷
+
+tổng nồng độ thuốc trong huyết tương
+
+Thải trừ (chuyển hóa và bài tiết)
+
+Tốc độ thải trừ
+
+Thải trừ qua thận
+
++
+
+thải trừ ngoài thận (thường là chuyển hoá)
+
+Thải trừ
+
+Tốc độ thải trừ thuốc
+
+÷
+
+nồng độ thuốc trong huyết tương, hoặc tốc độ thải trừ hằng định
+
+×
+
+thể tích phân bố biểu kiến
+
+Thanh thải thận
+
+Tốc độ bài tiết của qua thận của thận
+
+÷
+
+nồng độ thuốc trong huyết tương
+
+Thanh thải chuyển hóa
+
+Tốc độ chuyển hoá thuốc
+
+÷
+
+nồng độ thuốc trong huyết tương
+
+Phần bài tiết không đổi
+
+Tỷ lệ bài tiết qua thận của thận
+
+÷
+
+tỷ lệ loại bỏ thuốc
+
+Tốc độ thải trừ hằng định
+
+Tốc độ thải trừ thuốc
+
+÷
+
+lượng thuốc trong cơ thể
+
+Thanh thải
+
+÷
+
+thể tích bân bố
+
+Thời gian bán thải
+
+0,693
+
+÷
+
+tốc độ thải trừ hằng định (chỉ trong thải trừ lần đầu – xem
+
+Tốc độ
+
+)
+
+Dược động học của thuốc phụ thuộc vào các yếu tố liên quan đến bệnh nhân cũng như đặc tính hóa học của thuốc. Một số yếu tố liên quan đến bệnh nhân (ví dụ như chức năng thận, đặc điểm di truyền, giới tính, tuổi) có thể được sử dụng để dự đoán các thông số dược động học trong quần thể. Ví dụ: thời gian bán hủy của một số loại thuốc, đặc biệt là những loại thuốc đòi hỏi cả quá trình chuyển hóa và bài tiết, có thể rất dài ở người lớn tuổi (xem hình
+
+So sánh kết quả dược động học của Diazepam ở nam giới trẻ [A] và nam giới lớn tuổi [B]
+
+). Trên thực tế, những thay đổi sinh lý theo tuổi tác ảnh hưởng đến nhiều khía cạnh của dược động học (xem
+
+Dược động học ở người cao tuổi
+
+và
+
+Dược động học ở trẻ em
+
+) (
+
+1
+
+,
+
+2
+
+).
+
+Các yếu tố khác liên quan đến sinh lý theo từng cá thể. Ảnh hưởng của một số yếu tố cá thể (ví dụ như suy thận, béo phì, suy gan, mất nước) có thể dự đoán được, nhưng các yếu tố khác là không cụ thể và do đó có những ảnh hưởng không thể đoán trước được. Do những khác biệt giữa các cá thể, việc sử dụng thuốc phải dựa trên đặc điểm của từng bệnh nhân – theo truyền thống, điều chỉnh liều theo kinh nghiệm cho đến khi đạt được mục tiêu điều trị. Cách tiếp cận này thường không đầy đủ vì nó có thể trì hoãn đáp ứng tối ưu hoặc gây ra những tác dụng không mong muốn.
+
+Kiến thức về các nguyên tắc dược động học giúp các bác sĩ điều chỉnh liều dùng của thuốc chính xác và nhanh chóng hơn. Áp dụng các nguyên tắc dược động học để cá thể hóa điều trị được gọi là theo dõi nồng độ thuốc trong máu.
+
+So sánh kết quả dược động học của Diazepam ở nam giới trẻ tuổi (A) và nam giới lớn tuổi (B)
+
+Diazepam
+
+được chuyển hóa ở gan thành desmethyldiazepam thông qua enzyme P-450. Desmethyldiazepam là một chất an thần hoạt hóa, được bài tiết bởi thận. 0
+
+=
+
+thời gian dùng thuốc. (Phỏng theo Greenblatt DJ, Allen MD, Harmatz JS, Shader RI:
+
+Diazepam
+
+disposition determinants.
+
+Clin Pharmacol Ther
+
+27:301–312, 1980. doi: 10.1038/clpt.1980.40)
+
+Tài liệu tham khảo
+
+1.
+
+Le J, Bradley JS
+
+. Optimizing Antibiotic Drug Therapy in Pediatrics: Current State and Future Needs.
+
+J Clin Pharmacol
+
+2018;58 Suppl 10:S108-S122. doi:10.1002/jcph.1128
+
+2.
+
+Mangoni AA, Jackson SH
+
+. Age-related changes in pharmacokinetics and pharmacodynamics: basic principles and practical applications.
+
+Br J Clin Pharmacol
+
+2004;57(1):6-14. doi:10.1046/j.1365-2125.2003.02007.x
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

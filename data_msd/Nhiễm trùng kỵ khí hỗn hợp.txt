@@ -1,0 +1,477 @@
+TIÊU ĐỀ: Nhiễm trùng kỵ khí hỗn hợp
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-khuẩn-kỵ-khí/nhiễm-trùng-kỵ-khí-hỗn-hợp
+================================================================================
+
+NỘI DUNG:
+
+Nhiễm trùng kỵ khí hỗn hợp
+
+Theo
+
+Larry M. Bush
+
+,
+
+MD, FACP
+
+,
+
+Charles E. Schmidt College of Medicine, Florida Atlantic University;
+
+Maria T. Vazquez-Pertejo
+
+,
+
+MD, FACP
+
+,
+
+Wellington Regional Medical Center
+
+Xem xét bởi
+
+Brenda L. Tesini
+
+,
+
+MD
+
+,
+
+University of Rochester School of Medicine and Dentistry
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 6 2023
+
+v1010419_vi
+
+vi khuẩn kỵ khí có thể lây nhiễm các vật chủ bình thường và các vật chủ có sức đề kháng bị tổn thương hoặc các mô bị tổn thương. Nhiễm trùng kỵ khí có thể bao gồm cả các loài kỵ khí đơn lẻ hoặc nhiều loài kỵ khí với bất kỳ số lượng phân lập không kỵ khí nào. Các triệu chứng phụ thuộc vào vị trí nhiễm trùng. Chẩn đoán là lâm sàng kết hợp với nhuộm Gram và nuôi cấy kỵ khí. Điều trị bằng kháng sinh và phẫu thuật dẫn lưu và mở ổ.
+
+Căn nguyên
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về vi khuẩn kỵ khí
+
+.)
+
+Hàng trăm loài vi khuẩn kỵ khí không bào tử là thành phần của hệ vi khuẩn bình thường của da, miệng, đường tiêu hoá và âm đạo. Nếu mối quan hệ giữa các cộng đồng này bị gián đoạn (ví dụ như phẫu thuật, chấn thương khác, cung cấp máu kém hoặc hoại tử mô), một vài trong số những loài này có thể cùng gây nhiễm trùng với tỉ lệ mắc bệnh và tử vong cao. Sau khi được khởi phát tại một vị trí ban đầu, nhiễm trùng có thể lây lan cục bộ và vào máu đến các vị trí xa.
+
+Vì vi khuẩn hiếu khí và kỵ khí thường xuất hiện trong cùng một vị trí bị nhiễm bệnh nên cần phải có các quy trình phân lập và nuôi cấy phù hợp để tìm thấy những vi khuẩn kỵ khí.
+
+Vi khuẩn kỵ khí có thể là nguyên nhân chính gây nhiễm trùng sau:
+
+Khoang màng phổi và phổi
+
+Các bệnh trong ổ bụng, bệnh phụ khoa, bệnh ở hệ thần kinh trung ương, bệnh đường hô hấp trên và các bệnh về da và mô mềm
+
+Vãng khuẩn huyết
+
+Căn nguyên của các bệnh nhiễm trùng kỵ khí hỗn hợp
+
+Cầu khuẩn Gram dương kỵ khí chủ yêu tham gia trong các đa nhiễm trùng gồm
+
+Peptococci
+
+Peptostreptococci
+
+Những loài kỵ khí này là một phần của hệ vi khuẩn thông thường của miệng, đường hô hấp trên, và ruột già.
+
+Các trực khuẩn Gram âm chính liên quan đến nhiễm trùng đa vi khuẩn bao gồm:
+
+Bacteroides fragilis
+
+Prevotella melaninogenica
+
+Fusobacterium
+
+sp
+
+Nhóm
+
+B. fragilis
+
+là một phần của hệ vi sinh vật bình thường trong ruột và bao gồm các mầm bệnh kỵ khí thường được phân lập nhất từ các nhiễm trùng trong ổ bụng và tiểu khung. Vi sinh vật thuộc nhóm
+
+Prevotella
+
+nhóm và
+
+Fusobacterium
+
+sp là một phần của hệ vi sinh vật bình thường ở miệng và đại tràng.
+
+Sinh lý bệnh của các bệnh nhiễm trùng kỵ khí hỗn hợp
+
+Nhiễm trùng kỵ khí là đa nhiễm khuẩn thường đặc trưng bởi:
+
+Chúng có khuynh hướng khu trú tổn thương mủ hoặc apxe.
+
+Sự giảm oxy nghiêm trọng và khả năng oxy hoá thấp chiếm ưu thế trong các mô hoại tử và vô mạch là yếu tố sống còn của vi khuẩn.
+
+Khi xảy ra nhiễm khuẩn huyết, nó thường không dẫn đến đông máu nội mạch rải rác (DIC) và ban xuất huyết.
+
+Nhiễm trùng Clostridial
+
+có thể dẫn đến
+
+sốc nhiễm trùng
+
+, nhưng hầu hết các nhiễm trùng kỵ khí khác thì không.
+
+Một số vi khuẩn kỵ khí có các yếu tố độc lực riêng biệt. Các yếu tố độc lực của
+
+B. fragilis
+
+có thể tính đến sự cô lập thường xuyên của nó từ các mẫu bệnh phẩm mặc dù nó hiếm khi có liên quan đến hệ vi sinh vật bình thường so với các loài
+
+Bacteroides
+
+species khác vi khuẩn này có một lớp vỏ polysaccharide dường như kích thích sự hình thành áp xe. vi khuẩn này có một lớp vỏ polysaccharide dường như kích thích sự hình thành áp xe. Một mô hình thực nghiệm của nhiễm trùng trong ổ bụng đã chỉ ra rằng một mình
+
+B. fragilis
+
+có thể gây áp xe, trong khi các loại khác
+
+Bacteroides
+
+species cần có sự phối hợp hiệp đồng của một vi sinh vật khác. Một yếu tố độc lực khác, một endotoxin tiềm ẩn, bao hàm cả sốc nhiễm khuẩn và DIC liên quan đến viêm họng nặng do
+
+Fusobacterium
+
+.
+
+Tỷ lệ mắc bệnh và tỷ lệ tử vong của nhiễm khuẩn huyết do vi khuẩn kỵ khí và đa nhiễm khuẩn cũng cao như nhiễm khuẩn huyết gây ra bởi 1 căn nguyên vi sinh vật hiếu khí. Nhiễm trùng kỵ khí thường biến chứng do hoại tử mô sâu. Tỉ lệ tử vong chung đối với nhiễm trùng nặng trong ổ bụng và đa nhiễm trùng có xu hướng cao. Vãng khuẩn huyết do
+
+B. fragilis
+
+có tỷ lệ tử vong cao, đặc biệt là ở người cao tuổi và bệnh nhân ung thư.
+
+Các triệu chứng và dấu hiệu của các bệnh nhiễm trùng kỵ khí hỗn hợp
+
+Bệnh nhân thường có sốt, rét run, và cảm giác mệt mỏi; sốc thường ít gặp DIC có thể xảy ra trong nhiễm trùng Fusobacterium.
+
+DIC
+
+có thể xảy ra trong nhiễm trùng
+
+Fusobacterium
+
+.
+
+Đối với các bệnh nhiễm trùng (và triệu chứng) cụ thể do hỗn hợp sinh vật kỵ khí gây ra, hãy xem phần khác trong CẨM NANG và xem bảng
+
+Rối loạn thường do hỗn hợp sinh vật kỵ khí gây ra
+
+.
+
+Nhiễm trùng kỵ khí rất hiếm gặp ở đường tiết niệu, viêm khớp nhiễm khuẩn và viêm nội tâm mạc nhiễm khuẩn.
+
+Bảng
+
+Các rối loạn thường gây ra hỗn hợp nhiều* vi khuẩn kỵ khí
+
+Các rối loạn thường gây ra hỗn hợp nhiều* vi khuẩn kỵ khí
+
+Viêm mô bào
+
+kỵ khí
+
+Viêm phổi hít
+
+Nhiễm trùng tuyến Bartholin
+
+Áp xe não
+
+Viêm tai giữa mạn tính
+
+Viêm xoang
+
+mạn tính
+
+Áp xe răng
+
+viêm nội mạc tử cung
+
+ngoài màng cứng và dưới màng cứng
+
+Nhiễm trùng vêt cắn
+
+Áp xe trong ổ bụng
+
+Áp xe gan
+
+Đau thắt ngực Ludwig (
+
+nhiễm trùng khoang dưới hàm
+
+)
+
+Áp xe phổi
+
+Viêm tủy xương
+
+hàm dưới
+
+Viêm lợi hoại tử
+
+Viêm niêm mạc
+
+loét hoại tử (cancrum oris)
+
+Áp xe buồng trứng-ống dẫn trứng không do lậu
+
+Áp xe cạnh tử cung
+
+Viêm phúc mạc tiểu khung
+
+Viêm quanh răng
+
+Viêm phúc mạc
+
+Chấn thương do tì đè
+
+hoặc nhiễm trùng có loét do thiếu máu cục bộ
+
+Bệnh huyết khối tĩnh mạch nhiễm khuẩn
+
+Nhiễm trùng tuyến Skene
+
+* Với hiếu khí hoặc kỵ khí khác.
+
+* Với hiếu khí hoặc kỵ khí khác.
+
+Chẩn đoán các bệnh nhiễm trùng kỵ khí hỗn hợp
+
+Các dấu hiệu lâm sàng nghi ngờ
+
+Nhuộm Gram và nuôi cấy
+
+Các dữ liệu lâm sàng cho sự hiện diện của các sinh vật kỵ khí bao gồm:
+
+Nhiễm trùng sát cạnh bề mặt niêm mạc có chứa hệ vi sinh vật kỵ khí
+
+Thiếu máu cục bộ, khối u, chấn thương đâm xuyên, vật liệu ngoại lai, hoặc thủng tạng
+
+Lan truyền hoại tử liên quan đến da, mô dưới da, cân cơ mạc và cơ
+
+Mùi thối trong mủ hoặc mô bị nhiễm
+
+Sự hình thành áp xe
+
+Khí trong mô
+
+Bệnh huyết khối tĩnh mạch nhiễm khuẩn
+
+Không đáp ứng với kháng sinh không có hoạt tính đáng kể chống lại vi khuẩn kỵ khí
+
+Phải nghi ngờ nhiễm trùng kỵ khí ở bât cứ vết thương nào có mùi thối hoặc nhuộm Gram bệnh phẩm mủ lấy từ vị trí tổn thương cho thấy nhiều hình thái vi khuẩn nhưng cấy vi khuẩn hiếu khí không mọc. Chỉ những bệnh phẩm lấy từ vị trí vốn vô trùng mới nên cấy kỵ khí vì các vi khuẩn kỵ khí vốn sống cộng sinh trong cơ thể có thể dễ dàng nhầm với căn nguyên gây bệnh.
+
+Nhuộm Gram và cấy hiếu khi cần được thực hiện cho tất cả các bệnh phẩm. Việc nuôi cấy vi khuẩn kỵ khí, đặc biệt nếu xử lý sai, có thể âm tính giả. Kiểm tra độ nhạy cảm với kháng sinh của vi khuẩn kỵ khí là rất cần thiết, và dữ liệu có thể không có trong vòng
+
+≥
+
+1 tuần sau khi bắt đầu nuôi cấy. Tuy nhiên, nếu xác định được loài, có thể dự đoán được các thuốc nhạy cảm. Do đó nhiều phòng thí nghiệm không thường xuyên kiểm tra độ nhạy cảm của vi khuẩn kỵ khí.
+
+Điều trị các bệnh nhiễm trùng kỵ khí hỗn hợp
+
+Dẫn lưu và mở ổ
+
+Lựa chọn kháng sinh theo vị trí nhiễm trùng
+
+khi xác định được nhiễm trùng, cần dẫn lưu mủ ra ngoài, giải phóng mô tổn thương; vật liệu ngoại lai và hoại tử mô được loại bỏ. Vị tri rò trong tạng phải được lấp kín hoặc dẫn lưu. Tái tưới máu cho mô tổn thương bát cứ khi nào có thể. Huyết khối tĩnh mạch nhiễm khuẩn đòi hỏi phải dùng kháng sinh cũng như thắt tĩnh mạch.
+
+Vì kết quả nuôi cấy kỵ khí không có ngay trong vòng 3-5 ngày, có thể bắt đầu kháng sinh theo kinh nghiệm. Kháng sinh đôi khi có hiệu quả ngay cả khi một số loài vi khuẩn trong đa nhiễm khuẩn có kháng với kháng sinh (ví dụ, do mất sự hỗ trợ từ các loài vi khuẩn khác hoặc môi trường kỵ khí hoại tử), đặc biệt nếu đã mở ổ vết thương và dẫn lưu thích hợp. Kháng sinh được lựa chọn dựa trên vị trí nhiễm trùng và vi sinh vật có khả năng nhiễm.
+
+Nhiễm trùng kỵ khí vùng hầu họng và apxe phổi
+
+Nhiễm trùng kỵ khí miệng-họng có thể không đáp ứng với penicillin và do đó cần một loại kháng sinh có hiệu quả chống lại vi khuẩn kỵ khí kháng penicillin (xem bên dưới).
+
+Nhiễm trùng vùng hầu họng và áp xe phổi nên được điều trị với clindamycin hoặc phối hợp một beta-lactam/beta-lactamase inhibitor như amoxicillin/clavulanate. Ở những bệnh nhân dị ứng với penicillin,
+
+clindamycin
+
+hoặc
+
+metronidazole
+
+(cộng với một loại kháng sinh có hoạt tính chống vi khuẩn hiếu khí và vi khuẩn ưa vi khí) rất hữu ích.
+
+Nhiễm trùng kỵ khí đường tiêu hóa và tiểu khung ở phụ nữ.
+
+Nhiễm trùng kỵ khí đường tiêu hóa và tiểu khung có thể bao gồm các trực khuẩn Gram âm kỵ khí bắt buộc như
+
+B. fragilis
+
+cùng với gram âm ngẫu nhiên như
+
+Escherichia coli
+
+; phác đồ kháng sinh phải có hiệu lực chống lại cả hai vi khuẩn trên.
+
+B. fragilis
+
+và một số trực khuẩn gram âm kỵ khí bắt buộc khác đã được báo cáo là có kháng với penicillin, cephalosporin thế hệ thứ 3 và thứ 4. Tuy nhiên, các loại kháng sinh sau đây có hoạt tính in vitro tuyệt vời chống lại
+
+B. fragilis
+
+và có hiệu quả:
+
+Metronidazole
+
+Carbapenems (ví dụ, imipenem/cilastatin, meropenem, ertapenem)
+
+Kết hợp beta-lactam/beta-lactamase (ví dụ: piperacillin/tazobactam, ampicillin/sulbactam, amoxicillin/clavulanate)
+
+Tigecycline
+
+Moxifloxacin
+
+Không có phác đồ đơn trị liệu nào có ưu thế. Các kháng sinh ít hoạt tính hơn in vitro chống lại
+
+B. fragilis
+
+bao gồm clindamycin, cefoxitin và cefotetan.
+
+Metronidazole
+
+có hoạt tính chống lại
+
+B. fragilis
+
+kháng
+
+clindamycin
+
+, có hoạt tính diệt khuẩn kỵ khí độc đáo và thường tránh được viêm đại tràng giả mạc đôi khi liên quan đến
+
+clindamycin
+
+. Những lo ngại về khả năng gây đột biến của
+
+metronidazole
+
+không phải là hậu quả lâm sàng.
+
+Bởi vì nhiều phác đồ hiện đang được sử dụng để điều trị nhiễm trùng kỵ khí vùng chậu hoặc đường tiêu hóa ở phụ nữ (xem thêm
+
+điều trị bệnh viêm vùng chậu
+
+) cũng có hiệu quả chống lại trực khuẩn gram âm tùy tiện, nên sử dụng aminoglycoside có khả năng gây độc cho thận (để che phủ trực khuẩn gram âm tùy tiện xâm nhập vào ruột) cộng với một hoạt chất kháng sinh chống lại
+
+B. fragilis
+
+không còn được bảo đảm.
+
+Phòng ngừa các bệnh nhiễm trùng kỵ khí hỗn hợp
+
+Trước khi phẫu thuật trực tràng, bệnh nhân cần phải chuẩn bị đại tràng
+
+Thuốc xổ
+
+Thụt
+
+Thuốc kháng sinh
+
+Hầu hết các phẫu thuật viên đều cho thuốc kháng sinh đường uống và đường tĩnh mạch. Đối với phẫu thuật đại trực tràng cấp cứu, chỉ sử dụng kháng sinh đường tĩnh mach.
+
+Kháng sinh đường tĩnh mạch trước khi phẫu thuật có thể kiểm soát nhiễm trùng máu, giảm các biến chứng thứ phát hay di căn, và ngăn ngừa sự lây truyền nhiễm trùng xung quanh vị trí phẫu thuật. Ví dụ về kháng sinh đường uống là neomycin phối hợp với erythromycin hoặc metronidazole; cho dùng các loại kháng sinh này không quá 18 tiếng đến 24 tiếng trước thời điểm làm thủ thuật. Ví dụ về kháng sinh đường tiêm trước phẫu thuật bao gồm cefazolin phối hợp với metronidazole, hoặc đơn trị liệu mỗi loại thuốc cefoxitin, cefotetan hoặc ertapenem; những kháng sinh này được cho dùng trong vòng 1 tiếng trước khi làm thủ thuật.
+
+Trong suốt các thủ thuật dài, các kháng sinh có thể được cho trong quá trình mổ với liều mỗi 1 đến 2 chu kỳ bán thải của kháng sinh. Thông thường, kháng sinh sau mổ không được tiếp tục 24 giờ sau phẫu thuật.
+
+Đối với bệnh nhân được xác định dị ứng hoặc có phản ứng bất lợi với beta-lactams, một trong những phác đồ sau đây được khuyến cáo:
+
+Clindamycin kết hợp với gentamicin, aztreonam, hoặc ciprofloxacin
+
+Metronidazole kết hợp với gentamicin hoặc ciprofloxacin
+
+Những điểm chính
+
+Đa nhiễm khuẩn kỵ khí xảy ra khi mối quan hệ công sinh trong hệ vi sinh vật bình thường của bề mặt niêm mạc (ví dụ như da, miệng, đường tiêu hóa, âm đạo) bị phá vỡ (ví dụ do phẫu thuật, chấn thương, nhồi máu hoặc hoại tử mô).
+
+Nhiễm trùng có khuynh hướng khu trú mủ hoặc tạo thành apxe.
+
+Nghi ngờ nhiễm trùng trên lâm sàng về cơ bản dựa vào vị trí tổn thương, sự hiện diện của hoại thư sinh hơi, mủ, apxe, khí trong mô và/hoặc mùi thối.
+
+Dẫn lưu và mở ổ vùng tổn thương và lựa chọn kháng sinh theo vị trí nhiễm trùng khu trú (và theo căn nguyên vi sinh nghi ngờ).
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Căn nguyên của các bệnh nhiễm trùng kỵ khí hỗn hợp ---
+
+Cầu khuẩn Gram dương kỵ khí chủ yêu tham gia trong các đa nhiễm trùng gồmPeptococciPeptostreptococciNhững loài kỵ khí này là một phần của hệ vi khuẩn thông thường của miệng, đường hô hấp trên, và ruột già.Các trực khuẩn Gram âm chính liên quan đến nhiễm trùng đa vi khuẩn bao gồm:Bacteroides fragilisPrevotella melaninogenicaFusobacteriumspNhómB. fragilislà một phần của hệ vi sinh vật bình thường trong ruột và bao gồm các mầm bệnh kỵ khí thường được phân lập nhất từ các nhiễm trùng trong ổ bụng và tiểu khung. Vi sinh vật thuộc nhómPrevotellanhóm vàFusobacteriumsp là một phần của hệ vi sinh vật bình thường ở miệng và đại tràng.
+
+--- 2. Sinh lý bệnh của các bệnh nhiễm trùng kỵ khí hỗn hợp ---
+
+Nhiễm trùng kỵ khí là đa nhiễm khuẩn thường đặc trưng bởi:Chúng có khuynh hướng khu trú tổn thương mủ hoặc apxe.Sự giảm oxy nghiêm trọng và khả năng oxy hoá thấp chiếm ưu thế trong các mô hoại tử và vô mạch là yếu tố sống còn của vi khuẩn.Khi xảy ra nhiễm khuẩn huyết, nó thường không dẫn đến đông máu nội mạch rải rác (DIC) và ban xuất huyết.Nhiễm trùng Clostridialcó thể dẫn đếnsốc nhiễm trùng, nhưng hầu hết các nhiễm trùng kỵ khí khác thì không.Một số vi khuẩn kỵ khí có các yếu tố độc lực riêng biệt. Các yếu tố độc lực củaB. fragiliscó thể tính đến sự cô lập thường xuyên của nó từ các mẫu bệnh phẩm mặc dù nó hiếm khi có liên quan đến hệ vi sinh vật bình thường so với các loàiBacteroidesspecies khác vi khuẩn này có một lớp vỏ polysaccharide dường như kích thích sự hình thành áp xe. vi khuẩn này có một lớp vỏ polysaccharide dường như kích thích sự hình thành áp xe. Một mô hình thực nghiệm của nhiễm trùng trong ổ bụng đã chỉ ra rằng một mìnhB. fragiliscó thể gây áp xe, trong khi các loại khácBacteroidesspecies cần có sự phối hợp hiệp đồng của một vi sinh vật khác. Một yếu tố độc lực khác, một endotoxin tiềm ẩn, bao hàm cả sốc nhiễm khuẩn và DIC liên quan đến viêm họng nặng doFusobacterium.Tỷ lệ mắc bệnh và tỷ lệ tử vong của nhiễm khuẩn huyết do vi khuẩn kỵ khí và đa nhiễm khuẩn cũng cao như nhiễm khuẩn huyết gây ra bởi 1 căn nguyên vi sinh vật hiếu khí. Nhiễm trùng kỵ khí thường biến chứng do hoại tử mô sâu. Tỉ lệ tử vong chung đối với nhiễm trùng nặng trong ổ bụng và đa nhiễm trùng có xu hướng cao. Vãng khuẩn huyết doB. fragiliscó tỷ lệ tử vong cao, đặc biệt là ở người cao tuổi và bệnh nhân ung thư.
+
+--- 3. Các triệu chứng và dấu hiệu của các bệnh nhiễm trùng kỵ khí hỗn hợp ---
+
+Bệnh nhân thường có sốt, rét run, và cảm giác mệt mỏi; sốc thường ít gặp DIC có thể xảy ra trong nhiễm trùng Fusobacterium.DICcó thể xảy ra trong nhiễm trùngFusobacterium.Đối với các bệnh nhiễm trùng (và triệu chứng) cụ thể do hỗn hợp sinh vật kỵ khí gây ra, hãy xem phần khác trong CẨM NANG và xem bảngRối loạn thường do hỗn hợp sinh vật kỵ khí gây ra.Nhiễm trùng kỵ khí rất hiếm gặp ở đường tiết niệu, viêm khớp nhiễm khuẩn và viêm nội tâm mạc nhiễm khuẩn.BảngCác rối loạn thường gây ra hỗn hợp nhiều* vi khuẩn kỵ khíCác rối loạn thường gây ra hỗn hợp nhiều* vi khuẩn kỵ khíViêm mô bàokỵ khíViêm phổi hítNhiễm trùng tuyến BartholinÁp xe nãoViêm tai giữa mạn tínhViêm xoangmạn tínhÁp xe răngviêm nội mạc tử cungngoài màng cứng và dưới màng cứngNhiễm trùng vêt cắnÁp xe trong ổ bụngÁp xe ganĐau thắt ngực Ludwig (nhiễm trùng khoang dưới hàm)Áp xe phổiViêm tủy xươnghàm dướiViêm lợi hoại tửViêm niêm mạcloét hoại tử (cancrum oris)Áp xe buồng trứng-ống dẫn trứng không do lậuÁp xe cạnh tử cungViêm phúc mạc tiểu khungViêm quanh răngViêm phúc mạcChấn thương do tì đèhoặc nhiễm trùng có loét do thiếu máu cục bộBệnh huyết khối tĩnh mạch nhiễm khuẩnNhiễm trùng tuyến Skene* Với hiếu khí hoặc kỵ khí khác.* Với hiếu khí hoặc kỵ khí khác.
+
+--- 4. Chẩn đoán các bệnh nhiễm trùng kỵ khí hỗn hợp ---
+
+Các dấu hiệu lâm sàng nghi ngờNhuộm Gram và nuôi cấyCác dữ liệu lâm sàng cho sự hiện diện của các sinh vật kỵ khí bao gồm:Nhiễm trùng sát cạnh bề mặt niêm mạc có chứa hệ vi sinh vật kỵ khíThiếu máu cục bộ, khối u, chấn thương đâm xuyên, vật liệu ngoại lai, hoặc thủng tạngLan truyền hoại tử liên quan đến da, mô dưới da, cân cơ mạc và cơMùi thối trong mủ hoặc mô bị nhiễmSự hình thành áp xeKhí trong môBệnh huyết khối tĩnh mạch nhiễm khuẩnKhông đáp ứng với kháng sinh không có hoạt tính đáng kể chống lại vi khuẩn kỵ khíPhải nghi ngờ nhiễm trùng kỵ khí ở bât cứ vết thương nào có mùi thối hoặc nhuộm Gram bệnh phẩm mủ lấy từ vị trí tổn thương cho thấy nhiều hình thái vi khuẩn nhưng cấy vi khuẩn hiếu khí không mọc. Chỉ những bệnh phẩm lấy từ vị trí vốn vô trùng mới nên cấy kỵ khí vì các vi khuẩn kỵ khí vốn sống cộng sinh trong cơ thể có thể dễ dàng nhầm với căn nguyên gây bệnh.Nhuộm Gram và cấy hiếu khi cần được thực hiện cho tất cả các bệnh phẩm. Việc nuôi cấy vi khuẩn kỵ khí, đặc biệt nếu xử lý sai, có thể âm tính giả. Kiểm tra độ nhạy cảm với kháng sinh của vi khuẩn kỵ khí là rất cần thiết, và dữ liệu có thể không có trong vòng≥1 tuần sau khi bắt đầu nuôi cấy. Tuy nhiên, nếu xác định được loài, có thể dự đoán được các thuốc nhạy cảm. Do đó nhiều phòng thí nghiệm không thường xuyên kiểm tra độ nhạy cảm của vi khuẩn kỵ khí.
+
+--- 5. Điều trị các bệnh nhiễm trùng kỵ khí hỗn hợp ---
+
+Dẫn lưu và mở ổLựa chọn kháng sinh theo vị trí nhiễm trùngkhi xác định được nhiễm trùng, cần dẫn lưu mủ ra ngoài, giải phóng mô tổn thương; vật liệu ngoại lai và hoại tử mô được loại bỏ. Vị tri rò trong tạng phải được lấp kín hoặc dẫn lưu. Tái tưới máu cho mô tổn thương bát cứ khi nào có thể. Huyết khối tĩnh mạch nhiễm khuẩn đòi hỏi phải dùng kháng sinh cũng như thắt tĩnh mạch.Vì kết quả nuôi cấy kỵ khí không có ngay trong vòng 3-5 ngày, có thể bắt đầu kháng sinh theo kinh nghiệm. Kháng sinh đôi khi có hiệu quả ngay cả khi một số loài vi khuẩn trong đa nhiễm khuẩn có kháng với kháng sinh (ví dụ, do mất sự hỗ trợ từ các loài vi khuẩn khác hoặc môi trường kỵ khí hoại tử), đặc biệt nếu đã mở ổ vết thương và dẫn lưu thích hợp. Kháng sinh được lựa chọn dựa trên vị trí nhiễm trùng và vi sinh vật có khả năng nhiễm.Nhiễm trùng kỵ khí vùng hầu họng và apxe phổiNhiễm trùng kỵ khí miệng-họng có thể không đáp ứng với penicillin và do đó cần một loại kháng sinh có hiệu quả chống lại vi khuẩn kỵ khí kháng penicillin (xem bên dưới).Nhiễm trùng vùng hầu họng và áp xe phổi nên được điều trị với clindamycin hoặc phối hợp một beta-lactam/beta-lactamase inhibitor như amoxicillin/clavulanate. Ở những bệnh nhân dị ứng với penicillin,clindamycinhoặcmetronidazole(cộng với một loại kháng sinh có hoạt tính chống vi khuẩn hiếu khí và vi khuẩn ưa vi khí) rất hữu ích.Nhiễm trùng kỵ khí đường tiêu hóa và tiểu khung ở phụ nữ.Nhiễm trùng kỵ khí đường tiêu hóa và tiểu khung có thể bao gồm các trực khuẩn Gram âm kỵ khí bắt buộc nhưB. fragiliscùng với gram âm ngẫu nhiên nhưEscherichia coli; phác đồ kháng sinh phải có hiệu lực chống lại cả hai vi khuẩn trên.B. fragilisvà một số trực khuẩn gram âm kỵ khí bắt buộc khác đã được báo cáo là có kháng với penicillin, cephalosporin thế hệ thứ 3 và thứ 4. Tuy nhiên, các loại kháng sinh sau đây có hoạt tính in vitro tuyệt vời chống lạiB. fragilisvà có hiệu quả:MetronidazoleCarbapenems (ví dụ, imipenem/cilastatin, meropenem, ertapenem)Kết hợp beta-lactam/beta-lactamase (ví dụ: piperacillin/tazobactam, ampicillin/sulbactam, amoxicillin/clavulanate)TigecyclineMoxifloxacinKhông có phác đồ đơn trị liệu nào có ưu thế. Các kháng sinh ít hoạt tính hơn in vitro chống lạiB. fragilisbao gồm clindamycin, cefoxitin và cefotetan.Metronidazolecó hoạt tính chống lạiB. fragiliskhángclindamycin, có hoạt tính diệt khuẩn kỵ khí độc đáo và thường tránh được viêm đại tràng giả mạc đôi khi liên quan đếnclindamycin. Những lo ngại về khả năng gây đột biến củametronidazolekhông phải là hậu quả lâm sàng.Bởi vì nhiều phác đồ hiện đang được sử dụng để điều trị nhiễm trùng kỵ khí vùng chậu hoặc đường tiêu hóa ở phụ nữ (xem thêmđiều trị bệnh viêm vùng chậu) cũng có hiệu quả chống lại trực khuẩn gram âm tùy tiện, nên sử dụng aminoglycoside có khả năng gây độc cho thận (để che phủ trực khuẩn gram âm tùy tiện xâm nhập vào ruột) cộng với một hoạt chất kháng sinh chống lạiB. fragiliskhông còn được bảo đảm.
+
+--- 6. Phòng ngừa các bệnh nhiễm trùng kỵ khí hỗn hợp ---
+
+Trước khi phẫu thuật trực tràng, bệnh nhân cần phải chuẩn bị đại tràngThuốc xổThụtThuốc kháng sinhHầu hết các phẫu thuật viên đều cho thuốc kháng sinh đường uống và đường tĩnh mạch. Đối với phẫu thuật đại trực tràng cấp cứu, chỉ sử dụng kháng sinh đường tĩnh mach.Kháng sinh đường tĩnh mạch trước khi phẫu thuật có thể kiểm soát nhiễm trùng máu, giảm các biến chứng thứ phát hay di căn, và ngăn ngừa sự lây truyền nhiễm trùng xung quanh vị trí phẫu thuật. Ví dụ về kháng sinh đường uống là neomycin phối hợp với erythromycin hoặc metronidazole; cho dùng các loại kháng sinh này không quá 18 tiếng đến 24 tiếng trước thời điểm làm thủ thuật. Ví dụ về kháng sinh đường tiêm trước phẫu thuật bao gồm cefazolin phối hợp với metronidazole, hoặc đơn trị liệu mỗi loại thuốc cefoxitin, cefotetan hoặc ertapenem; những kháng sinh này được cho dùng trong vòng 1 tiếng trước khi làm thủ thuật.Trong suốt các thủ thuật dài, các kháng sinh có thể được cho trong quá trình mổ với liều mỗi 1 đến 2 chu kỳ bán thải của kháng sinh. Thông thường, kháng sinh sau mổ không được tiếp tục 24 giờ sau phẫu thuật.Đối với bệnh nhân được xác định dị ứng hoặc có phản ứng bất lợi với beta-lactams, một trong những phác đồ sau đây được khuyến cáo:Clindamycin kết hợp với gentamicin, aztreonam, hoặc ciprofloxacinMetronidazole kết hợp với gentamicin hoặc ciprofloxacin
+
+--- 7. Những điểm chính ---
+
+Đa nhiễm khuẩn kỵ khí xảy ra khi mối quan hệ công sinh trong hệ vi sinh vật bình thường của bề mặt niêm mạc (ví dụ như da, miệng, đường tiêu hóa, âm đạo) bị phá vỡ (ví dụ do phẫu thuật, chấn thương, nhồi máu hoặc hoại tử mô).Nhiễm trùng có khuynh hướng khu trú mủ hoặc tạo thành apxe.Nghi ngờ nhiễm trùng trên lâm sàng về cơ bản dựa vào vị trí tổn thương, sự hiện diện của hoại thư sinh hơi, mủ, apxe, khí trong mô và/hoặc mùi thối.Dẫn lưu và mở ổ vùng tổn thương và lựa chọn kháng sinh theo vị trí nhiễm trùng khu trú (và theo căn nguyên vi sinh nghi ngờ).

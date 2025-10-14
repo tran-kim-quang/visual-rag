@@ -1,0 +1,1207 @@
+TIÊU ĐỀ: Tiếp cận bệnh nhân có bệnh lý về nhịp thức ngủ
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-thần-kinh/các-bệnh-lý-nhịp-thức-ngủ/tiếp-cận-bệnh-nhân-có-bệnh-lý-về-nhịp-thức-ngủ
+================================================================================
+
+NỘI DUNG:
+
+Tiếp cận bệnh nhân có bệnh lý về nhịp thức ngủ
+
+Theo
+
+Richard J. Schwab
+
+,
+
+MD
+
+,
+
+University of Pennsylvania, Division of Sleep Medicine
+
+Xem xét bởi
+
+Michael C. Levin
+
+,
+
+MD
+
+,
+
+College of Medicine, University of Saskatchewan
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 6 2024
+
+|
+
+đã sửa đổi
+
+Thg 7 2024
+
+v1038753_vi
+
+Sinh lý bệnh
+
+|
+
+Căn nguyên
+
+|
+
+Đánh giá
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Gần một nửa số người ở Hoa Kỳ báo cáo các vấn đề liên quan đến giấc ngủ. Bệnh lý về giấc ngủ có thể gây ra rối loạn cảm xúc, khó ghi nhớ, khả năng vận động kém, làm việc không hiệu quả và tăng nguy cơ tai nạn giao thông. Bệnh lý này thậm chí làm tăng nguy cơ mắc các bệnh lý tim mạch và tử vong.
+
+Các triệu chứng phổ biến nhất liên quan đến giấc ngủ là chứng mất ngủ và buồn ngủ vào ban ngày quá mức (EDS).
+
+Mất ngủ
+
+là khó bắt đầu hoặc khó duy trì giấc ngủ, thức dậy sớm, hoặc cảm giác ngủ không thoải mái.
+
+EDS
+
+là tình trạng ngủ thiếp đi trong những giờ thức giấc bình thường.
+
+EDS không phải là bệnh lý mà là triệu chứng của nhiều loại bệnh lý về giấc ngủ. Mất ngủ có thể là một bệnh lý, thậm chí xuất hiện trong hoàn cảnh các bệnh lý khác hoặc có thể là một triệu chứng của các bệnh lý khác.
+
+Những rối loạn xảy ra trong giấc ngủ
+
+là những điều bất thường liên quan đến giấc ngủ (ví dụ như những cơn ác mộng ban đêm, mộng du).
+
+(Xem thêm
+
+Ngưng thở
+
+khi
+
+tắc nghẽn ở trẻ em
+
+.)
+
+Sinh lý bệnh của giấc ngủ
+
+Có 2 trạng thái của giấc ngủ, mỗi trạng thái đều có các thay đổi sinh lý đặc trưng:
+
+Chuyển động mắt chậm (NREM):
+
+Giai đoạn NREM chiếm từ 75 đến 80% tổng thời gian ngủ của người lớn. Nhịp tim và nhiệt độ cơ thể có xu hướng giảm. NREM bao gồm 3 giai đoạn (N1 đến N3) khi tăng độ sâu của giấc ngủ. Giai đoạn chuyển động lăn chậm của mắt, đặc trưng cho thức tỉnh yên lặng và giai đoạn sớm N1 của giấc ngủ, biến mất trong các giai đoạn ngủ sâu hơn. Hoạt động của cơ cũng giảm. Giấc ngủ giai đoạn N2 được đặc trưng bởi phức hợp K và các trục ngủ trên điện não đồ (xem hình
+
+Chuyển động mắt không nhanh [NREM] EEG
+
+). Giai đoạn N3 được gọi là giấc ngủ sâu vì ngưỡng kích thích tăng cao; ngủ đến giai đoạn này sẽ đạt được giấc ngủ ngon.
+
+Giai đoạn chuyển động mắt nhanh (REM):
+
+Ngủ REM luân phiên với ngủ NREM. Giai đoạn này được đặc trưng bởi các điện thế hoạt động nhanh trên điện não đồ và giảm trương lực cơ. Nhịp thở và biên độ dao động mạnh. Hầu hết các giấc mơ xảy ra trong giai đoạn ngủ REM. Thông thường, 20 đến 25% số giấc ngủ là REM.
+
+Tiến triển qua 3 giai đoạn, thường theo sau là một khoảng thời gian ngắn của giấc ngủ REM, xảy ra theo chu kỳ 5 lần đến 6 lần một đêm (xem hình
+
+Kiểu ngủ điển hình ở thanh niên
+
+). Các giai đoạn thức (giai đoạn W) xảy ra định kỳ.
+
+Điện não đồ chuyển động mắt không nhanh (NREM)
+
+Các dấu hiệu điện não đồ này cho thấy sóng theta đặc trưng, trục quay giấc ngủ và phức hợp K trong giai đoạn 1 (N1), 2 (N2) và 3 (N3) ngủ.
+
+EEG chuyển động mắt nhanh (REM)
+
+Con số này bao gồm một dấu vết điện não đồ (hiển thị sóng răng cưa đặc trưng) và dấu vết mắt (thể hiện các chuyển động mắt nhanh), xảy ra trong giấc ngủ REM. Trong bảng dưới cùng, các mũi tên thể hiện các chuyển động mắt liên hợp đỉnh điểm từ mắt phải và mắt trái trong giai đoạn ngủ REM.
+
+Nhu cầu ngủ thay đổi rất đa dạng, dao động từ 6 đến 10 giờ/24 giờ. Trẻ nhỏ ngủ phần lớn thời gian trong ngày; do có sự lão hóa, tổng thời gian ngủ và giấc ngủ sâu (giai đoạn N3) có xu hướng giảm và giấc ngủ dần bị gián đoạn hơn. Ở người cao tuổi, giai đoạn N3 có thể biến mất. Những thay đổi này có thể làm tăng ngủ ngày và mệt mỏi do lão hóa, nhưng chúng không có nhiều ý trên lâm sàng.
+
+Kiểu ngủ điển hình ở thanh niên
+
+Ngủ chuyển động mắt nhanh (REM) xảy ra theo chu kỳ 90-120 phút đêm. Các giai đoạn thức ngắn (giai đoạn W) xảy ra định kỳ. Thời gian ngủ được tính như sau:
+
+Giai đoạn N1: 2-5%
+
+Giai đoạn N2: 45-55%
+
+Giai đoạn N3: 13-23%
+
+REM: 20-25%
+
+Nguyên nhân của rối loạn giấc ngủ hoặc rối loạn thức giấc
+
+Một số bệnh lý có thể gây mất ngủ hoặc ngủ quá mức ban ngày (đôi khi cả hai) và một số khác gây ra một trong hai tình trạng (xem bảng
+
+Một số nguyên nhân gây mất ngủ và ngu quá mức ban ngày
+
+).
+
+Bảng
+
+Một số nguyên nhân gây mất ngủ và buồn ngủ ban ngày quá mức
+
+Bảng
+
+Một số nguyên nhân gây mất ngủ và buồn ngủ ban ngày quá mức
+
+Một số nguyên nhân gây mất ngủ và buồn ngủ ban ngày quá mức
+
+Rối loạn
+
+Mất ngủ
+
+Buồn ngủ quá mức vào ban ngày
+
+Rối loạn điều chỉnh giấc ngủ
+
+√
+
+Hội chứng ngừng thở trung ương
+
+√
+
+√
+
+Rối loạn giấc ngủ do nhịp sinh học
+
+√
+
+√
+
+Rối loạn giấc ngủ phụ thuộc thuốc và do thuốc
+
+√
+
+√
+
+Sinh hoạt cá nhân không hợp lý
+
+√
+
+√
+
+hội chứng ngủ không đủ
+
+√
+
+Chứng ngủ rũ
+
+√
+
+Ngưng thở tắc nghẽn khi ngủ
+
+√
+
+√
+
+Rối loạn vận động chân tay có chu kỳ
+
+√
+
+√
+
+Các rối loạn giấc ngủ do thể chất
+
+hoặc
+
+tinh thần
+
+√
+
+√
+
+Mất ngủ do tâm sinh lý
+
+√
+
+Hội chứng chân không nghỉ
+
+√
+
+√
+
+=
+
+thường xuất hiện (nhưng mất ngủ và/hoặc buồn ngủ ban ngày quá mức có thể xảy ra trong bất kỳ bệnh lý nào).
+
+√
+
+=
+
+thường xuất hiện (nhưng mất ngủ và/hoặc buồn ngủ ban ngày quá mức có thể xảy ra trong bất kỳ bệnh lý nào).
+
+Mất ngủ
+
+thường gây ra bởi
+
+Bệnh mất ngủ (rối loạn điều chỉnh giấc ngủ, mất ngủ do tâm thần kinh)
+
+Sinh hoạt cá nhân không hợp lý
+
+Bệnh lý tâm thần, đặc biệt là cảm xúc, lo lắng và các bệnh lý do sử dụng chất gây nghiện
+
+Các bệnh lý y khoa khác như bệnh lý tim phổi, tình trạng cơ xương và đau mạn tính.
+
+EDS
+
+thường gây ra bởi
+
+hội chứng ngủ không đủ
+
+Ngưng thở tắc nghẽn khi ngủ
+
+Các bệnh nội khoa khác, thần kinh (ví dụ:
+
+chứng ngủ rũ
+
+,
+
+rối loạn vận động chân tay định kỳ
+
+và rối loạn tâm thần)
+
+Rối loạn giấc ngủ do thay đổi nhịp sinh học
+
+như thay đổi sau chuyến bay và rối loạn giấc ngủ do ca làm việc
+
+Vệ sinh giấc ngủ không hợp lý
+
+gồm các hành vi không có lợi cho giấc ngủ. Chúng bao gồm
+
+Dùng
+
+caffeine
+
+hoặc thuốc kích thích giao cảm hoặc các loại thuốc kích thích khác (thường là gần giờ đi ngủ, thậm chí vào buổi chiều đối với những người đặc biệt nhạy cảm)
+
+Tập thể dục hoặc phấn khích (ví dụ: một chương trình truyền hình hấp dẫn, sự kiện thể thao) vào buổi tối muộn
+
+Lịch ngủ không đều đặn
+
+Những bệnh nhân bù lại giấc ngủ bị mất bằng cách ngủ muộn hay ngủ trưa thì giấc ngủ đêm của họ có thể sẽ bị chia nhỏ.
+
+Mất ngủ do điều chỉnh
+
+là kết quả của các yếu tố căng thẳng cảm xúc cấp tính (ví dụ: mất việc, nhập viện, mất thành viên trong gia đình) làm gián đoạn giấc ngủ.
+
+Mất ngủ do tâm sinh lý
+
+là mất ngủ (bất kể nguyên nhân) tồn tại vượt quá khả năng xử lí của các yếu tố cá nhân, thường là do bệnh nhân cảm thấy lo lắng khi tưởng tượng về đêm mất ngủ tiếp theo và hôm sau sẽ mệt mỏi. Thông thường, bệnh nhân dành hàng giờ trên giường tập trung và suy nghĩ về sự mất ngủ của họ, và khó ngủ ở trong phòng của mình hơn so với ngủ xa nhà.
+
+Bệnh lý thực thể
+
+gây đau hoặc khó chịu (ví dụ như
+
+viêm khớp
+
+,
+
+ung thư
+
+,
+
+thoát vị đĩa đệm
+
+) đặc biệt là những bệnh nặng hơn khi vận động làm bệnh nhân thức giấc và chất lượng giấc ngủ kém. Các cơn co giật về đêm có thể gây cản trở cho giấc ngủ.
+
+Phần lớn
+
+các bệnh lý tâm thần
+
+có liên quan đến buồn ngủ quá mức ban ngày và mất ngủ. Khoảng 80% số bệnh nhân
+
+trầm cảm nặng
+
+báo cáo EDS và mất ngủ; ngược lại, 40% số bệnh nhân mất ngủ mạn tính bị rối loạn tâm thần nặng, phổ biến nhất là rối loạn tâm trạng.
+
+Hội chứng thiếu ngủ
+
+thường do không ngủ đủ vào ban đêm mặc dù có đủ điều kiện để ngủ, thường là do các ràng buộc xã hội hoặc công việc.
+
+Rối loạn giấc ngủ liên quan đến thuốc
+
+là kết quả của việc sử dụng hoặc cai nghiện lâu dài các loại thuốc khác nhau, thuốc phiện bất hợp pháp hoặc các chất kích thích khác.
+
+Các rối loạn giấc ngủ do nhịp sinh học
+
+dẫn đến sai lệch giữa nhịp thức - ngủ nội sinh với chu kỳ sáng - tối của môi trường. Nguyên nhân có thể từ bên ngoài (ví dụ như rối loạn múi giờ, rối loạn liên quan công việc ca kíp) hoặc bên trong (ví dụ rối loạn giai đoạn ngủ có trì hoãn hoặc nâng cao).
+
+Ngừng thở khi ngủ do trung ương
+
+bao gồm các giai đoạn lặp lại ngừng thở hoặc thở nông trong khi ngủ, kéo dài ít nhất 10 giây và gây ra do hạn chế công hô hấp. Bệnh thường biểu hiện như ngủ chập chờn và không thoải mái.
+
+Tắc nghẽn đường thở khi ngủ
+
+bao gồm các cơn đóng một phần hoặc hoàn toàn đường hô hấp trên trong khi ngủ, dẫn đến ngừng thở khoảng ≥ 10 giây. Hầu hết các bệnh nhân ngáy, có thể phải thức dậy và thở hổn hển. Những giai đoạn này làm gián đoạn giấc ngủ và dẫn đến giấc ngủ không được sảng khoái cũng như EDS.
+
+Ngủ rũ
+
+được đặc trưng bởi EDS mạn tính và ngủ rũ loại 1 thường đi kèm với chứng mất trương lực, liệt khi ngủ và ảo giác thôi miên buồn ngủ hoặc ảo giác thôi miên nửa thức nửa ngủ:
+
+Mất trương lực
+
+là tình trạng yếu cơ hoặc liệt tạm thời (vài giây đến vài phút) mà không mất ý thức, được gây ra bởi các phản ứng cảm xúc đột ngột (ví dụ: cười, giận dữ, sợ hãi, vui mừng, ngạc nhiên). Sự yếu cơ có thể gặp ở tay chân (ví dụ bệnh nhân có thể làm rơi cần câu khi cá cắn câu) hoặc có thể ngã khi cười rất vui (như "yếu với tiếng cười") hoặc đột nhiên tức giận. Mất trương lực cũng có thể biểu hiện như mờ mắt, khuỵu đầu gối hoặc nói ngọng.
+
+Liệt khi ngủ
+
+là tình trạng mất khả năng cử động nhất thời khi vừa mới ngủ hoặc ngay khi thức dậy.
+
+Hiện tượng ảo giác giấc ngủ và ảo giác thôi miên
+
+là những ảo thanh, ảo thị hoặc ảo giác xảy ra khi ngủ thiếp đi (mơ ngủ) hoặc ít gặp hơn là ngay sau khi thức dậy (mơ thức).
+
+Rối loạn cử động chu kỳ
+
+được đặc trưng bởi sự lặp đi lặp lại (thường từ 20 đến 40 giây) của sự co giật hoặc đá chi dưới hoặc chi trên trong lúc ngủ. Bệnh nhân thường than phiền về giấc ngủ đêm bị gián đoạn hoặc buồn ngủ quá mức vào ban ngày. Họ thường không ý thức được về các cử động theo sau bởi các kích thích ngắn và họ không có cảm giác bất thường ở các chi.
+
+Hội chứng chân không nghỉ
+
+được đặc trưng bởi một sự thôi thúc không thể cưỡng lại làm di chuyển chân và ít gặp hơn là các cánh tay, thường xuất hiện song song với dị cảm (ví dụ: cảm giác côn trùng bò hoặc đốt) ở chân tay khi tựa vào. Để làm giảm các triệu chứng, bệnh nhân di chuyển đầu chi bị ảnh hưởng bằng cách duỗi, đá hoặc đi bộ. Do đó, họ khó ngủ hoặc thức giấc liên tục trong đêm hoặc cả hai.
+
+Đánh giá rối loạn lúc ngủ hoặc lúc thức dậy
+
+Tiền sử
+
+Tiền sử của bệnh hiện tại
+
+nên bao gồm thời gian và tuổi khi bắt đầu triệu chứng và bất kỳ điểm nào (ví dụ như thay đổi cuộc sống hoặc công việc, thuốc mới, bệnh tật mới) chúng trùng khớp với sự khởi phát bệnh. Các triệu chứng trong suốt giấc ngủ và khi thức dậy nên được lưu ý.
+
+Chất lượng và số lượng giấc ngủ được xác định bằng cách xác định
+
+TRước khi đi ngủ
+
+Thời gian đi vào giấc ngủ (thời gian từ khi lên giường đến khi vào giấc ngủ)
+
+Số lượng và thời gian lúc thức
+
+Thời gian lần thức dậy sau cùng vào buổi sáng và thời gian phát sinh
+
+Tần suất và thời gian ngủ trưa
+
+Chất lượng giấc ngủ (liệu nó có sảng khoái hay không)
+
+Đề nghị bệnh nhân giữ một bản ghi giấc ngủ trong vài tuần sẽ cung cấp thông tin chính xác hơn so với đặt câu hỏi với họ. Các việc làm trong giờ đi ngủ (ví dụ như ăn hoặc uống rượu, hoạt động thể chất hoặc tinh thần) cần được khai thác. Việc sử dụng và cai thuốc, rượu, caffeine, cần sa và nicotin cũng như mức độ và thời gian hoạt động thể chất cũng nên được đưa vào.
+
+Nếu buồn ngủ quá mức ban ngày là vấn đề, mức độ nghiêm trọng nên được ước lượng dựa trên khuynh hướng ngủ thiếp đi trong những tình huống khác nhau (ví dụ khi nghỉ ngơi thoải mái so với khi lái xe). Thang điểm giấc ngủ Epworth có thể được sử dụng; tổng điểm
+
+≥
+
+10 biểu hiện buồn ngủ ban ngày quá mức.
+
+Đánh giá toàn diện
+
+khám các triệu chứng đặc hiệu khác của rối loạn giấc ngủ, bao gồm
+
+Ngáy
+
+, kiểu thở bị gián đoạn, chứng kiến các hiện tượng ngưng thở, thở hổn hển về đêm và nghẹt thở, và tiểu đêm (hội chứng
+
+ngưng thở khi ngủ
+
+)
+
+Trầm cảm, lo lắng, hưng cảm và hưng cảm nhẹ (rối loạn giấc ngủ tâm thần)
+
+Chân không nghỉ, mong muốn không thể cưỡng lại được để di chuyển chân và cử động giật chân hoặc cánh tay (
+
+hội chứng chân không nghỉ
+
+,
+
+rối loạn vận động chi định kỳ
+
+)
+
+Chứng mất trương lực, tê liệt khi ngủ và ảo giác thôi miên buồn ngủ (
+
+chứng ngủ rũ
+
+)
+
+Người ngủ cùng hoặc các thành viên khác trong gia đình có thể nhận thấy rất rõ những triệu chứng này.
+
+Tiền sử bệnh trước đây
+
+nên kiểm tra các rối loạn đã biết có thể cản trở giấc ngủ, bao gồm
+
+bệnh phổi tắc nghẽn mạn tính
+
+(COPD),
+
+hen suyễn
+
+,
+
+suy tim
+
+,
+
+cường giáp
+
+,
+
+trào ngược dạ dày thực quản
+
+, rối loạn thần kinh (đặc biệt là rối loạn vận động và thoái hóa),
+
+tiểu tiện không tự chủ
+
+, các rối loạn tiết niệu khác, và rối loạn đau đớn (ví dụ, viêm khớp dạng thấp). Các yếu tố nguy cơ, triệu chứng và bệnh liên quan đến chứng ngưng thở khi ngủ do tắc nghẽn bao gồm béo phì, bệnh tim, tăng huyết áp, đột quỵ, hút thuốc, ngáy, tật hàm thụt lùi, phì đại amidan và chấn thương mũi. Tiền sử dùng thuốc nên bao gồm các câu hỏi về việc sử dụng bất kỳ loại thuốc hoặc chất kích thích nào liên quan đến rối loạn giấc ngủ.
+
+Công cụ tính toán lâm sàng
+
+Thang điểm giấc ngủ Epworth (ESS)
+
+Khám thực thể
+
+Việc khám thực thể chủ yếu hữu ích để xác định các dấu hiệu liên quan đến
+
+ngưng thở khi ngủ do tắc nghẽn
+
+:
+
+Béo phì với mỡ phân bố quanh cổ hoặc cơ hoành
+
+Vòng cổ lớn (≥ 43,2 cm [17 in] ở nam giới, ≥ 40,6 [16 in] cm ở nữ giới)
+
+Thiểu sản hàm dưới hoặc tật hàm thụt lùi
+
+Tắc nghẽn mũi
+
+Amidan phì đại (vòm miệng hoặc lưỡi), vòm họng, lưỡi, lưỡi gà, thành bên của họng hoặc vòm miệng mềm (điểm Mallampati sửa đổi 3 hoặc 4 - xem hình
+
+Thang điểm Mallampati sửa đổi
+
+)
+
+Giảm mở màn hầu
+
+Thừa niêm mạc hầu
+
+Thang điểm Mallampati sửa đổi
+
+Điểm số Mallampati đã được sửa đổi như sau:
+
+Lớp 1: Hạch nhân, lưỡi gà và khẩu cái mềm có thể nhìn thấy hoàn toàn.
+
+Lớp 2: Khẩu cái cứng và mềm, phần trên của amidan và lỗ mũi có thể nhìn thấy.
+
+Lớp 3: Khẩu cái mềm và cứng và chân của lưỡi gà có thể nhìn thấy.
+
+Lớp 4: Chỉ nhìn thấy khẩu cái cứng.
+
+Khám ngực xem có tiếng thở rít và gù vẹo cột sống hay không. Cần lưu ý các dấu hiệu của suy thất phải, bao gồm cả phù chi dưới. Nên thực hiện một lần
+
+khám thần kinh
+
+kỹ lưỡng.
+
+Các dấu hiệu cảnh báo
+
+Những phát hiện sau đây cần được quan tâm đặc biệt:
+
+Ngủ khi lái xe hoặc các tình huống nguy hiểm tiềm ẩn khác
+
+Lặp lại các cơn ngủ đột ngột (ngủ thiếp đi mà không báo trước)
+
+Gián đoạn giấc ngủ hoặc thức dậy mà thở hổn hển được bạn cùng giường ghi nhân
+
+Tình trạng hô hấp hoặc tuần hoàn không ổn định
+
+Đột quỵ gần đây
+
+Tình trạng mất trương lực (mất trương lực liên tục)
+
+Tiền sử có các hình vi bạo lực hoặc gây thương tích cho bản thân hoặc người khác khi ngủ
+
+Mộng du thường xuyên hoặc hành vi khác ngoài giường
+
+Giải thích các dấu hiệu
+
+Khi khai thác bệnh sử bệnh nhân thường vệ sinh giấc ngủ không phù hợp và bệnh nhân rất hay căng thẳng. Hội chứng ngủ không đủ là khi thời gian ngủ tăng lên (ví dụ, vào cuối tuần hoặc ngày nghỉ) thì sẽ không còn buồn ngủ quá mức ban ngày. Khi bệnh nhân có buồn ngủ quá mức ban ngày kèm theo mất trương lực, ảo giác mơ ngủ/mơ thức hoặc mất trương lực nên xem xét chẩn đoán ngủ rũ.
+
+Khó ngủ (mất ngủ do khởi phát) cần được phân biệt với khó khăn duy trì giấc ngủ và thức dậy sớm (mất ngủ do duy trì giấc ngủ).
+
+Mất ngủ khởi phát khi ngủ gợi ý đến
+
+hội chứng giai đoạn ngủ muộ
+
+n, mất ngủ mãn tính về tâm sinh lý,
+
+hội chứng chân không nghỉ
+
+hoặc ám ảnh thời thơ ấu.
+
+Mất ngủ do duy trì giấc ngủ gợi ý
+
+trầm cảm nặng
+
+,
+
+ngưng thở khi ngủ do trung ương
+
+,
+
+ngưng thở khi ngủ do tắc nghẽn
+
+,
+
+rối loạn chuyển động chân tay theo chu kỳ
+
+hoặc lão hóa.
+
+Ngủ sớm và thức giấc sớm gợi ý đến
+
+hội chứng pha ngủ đến sớm
+
+.
+
+Các bác sĩ nên nghi ngờ ngưng thở khi ngủ do tắc nghẽn ở bệnh nhân ngáy nhiều, thường xuyên thức giấc và có các yếu tố nguy cơ khác. Thang điểm STOP-BANG có thể giúp dự đoán nguy cơ ngừng thở khi ngủ tắc nghẽn (xem bảng
+
+Thang điểm nguy cơ STOP-BANG về ngừng thở khi ngủ tắc nghẽn
+
+).
+
+Bảng
+
+Thang điểm nguy cơ STOP-BANG* dành về ngừng thở khi ngủ do tắc nghẽn
+
+Bảng
+
+Thang điểm nguy cơ STOP-BANG* dành về ngừng thở khi ngủ do tắc nghẽn
+
+Thang điểm nguy cơ STOP-BANG* dành về ngừng thở khi ngủ do tắc nghẽn
+
+Mục đánh giá
+
+Dấu hiệu
+
+N
+
+gáy
+
+Ngáy to (to hơn cả nói chuyện hoặc đủ lớn để nghe được qua cửa)
+
+M
+
+ệt mỏi
+
+Thường mệt mỏi hoặc buồn ngủ vào ban ngày
+
+Q
+
+uan sát
+
+Quan sát thấy ngừng thở trong khi ngủ
+
+B
+
+P
+
+Huyết áp cao hoặc đang điều trị tăng huyết áp
+
+B
+
+MI
+
+> 35 kg/m2
+
+T
+
+uổi
+
+> 50 tuổi
+
+C
+
+hu vi cổ (thường được đo ở đáy của quả táo Adam)
+
+> 40 cm (> 15 3/4 inch)
+
+G
+
+iới
+
+Nam
+
+* ≥ 3 hoặc 4 dấu hiệu = nguy cơ cao về OSA.
+
+< 3 dấu hiệu = nguy cơ thấp của OSA.
+
+BMI = chỉ số khối cơ thể; OSA = ngưng thở tắc nghẽn khi ngủ.
+
+* ≥ 3 hoặc 4 dấu hiệu = nguy cơ cao về OSA.
+
+< 3 dấu hiệu = nguy cơ thấp của OSA.
+
+BMI = chỉ số khối cơ thể; OSA = ngưng thở tắc nghẽn khi ngủ.
+
+Xét nghiệm
+
+Các kiểm tra về giấc ngủ thường được thực hiện khi các triệu chứng hoặc dấu hiệu cụ thể gợi ý ngưng thở khi ngủ do tắc nghẽn, co giật về đêm, chứng ngủ rũ, rối loạn cử động chân tay theo chu kỳ hoặc các rối loạn khác mà chẩn đoán dựa vào việc xác định các dấu hiệu trên đo đa ký giấc ngủ. Các xét nghiệm cũng được thực hiện khi nghi ngờ chẩn đoán lâm sàng hoặc khi đáp ứng với điều trị ban đầu không đầy đủ. Nếu các triệu chứng cơ năng và triệu chứng thực thể gợi ý rất rõ ràng các nguyên nhân nào đó (ví dụ: hội chứng chân không nghỉ, thói quen ngủ kém, căng thẳng thoáng qua, công việc theo ca kíp) thì không bắt buộc phải chỉ định các test.
+
+Đa ký giấc ngủ
+
+đặc biệt quan trọng khi nghi ngờ bệnh nhân mắc các bệnh như ngừng thở khi ngủ, ngủ rũ, co giật ban đêm, rối loạn vận động chi có chu kỳ hoặc các rối loạn xảy ra trong giấc ngủ. Việc này cũng giúp các bác sĩ lâm sàng đánh giá các hành vi bạo lực và có khả năng gây tổn hại liên quan đến giấc ngủ (rối loạn hành vi REM). Đa ký giấc ngủ theo dõi hoạt động của não (thông qua điện não đồ), chuyển động mắt, nhịp tim, nhịp thở, bão hòa oxy, trương lực cơ và hoạt động trong thời gian ngủ. Ghi video có thể được sử dụng để xác định các chuyển động bất thường trong khi ngủ (
+
+1
+
+). Đo đa ký giấc ngủ thường được thực hiện trong phòng thí nghiệm về giấc ngủ; nghiên cứu về giấc ngủ tại nhà hiện nay thường được sử dụng để chẩn đoán chứng ngưng thở khi ngủ do tắc nghẽn, nhưng không phải là các rối loạn giấc ngủ khác (
+
+2
+
+).
+
+Kiểm tra giấc ngủ ngắn ban ngày
+
+đánh giá tốc độ bắt đầu giấc ngủ trong 4 đến 5 cơ hội ngủ trưa ban ngày, cách nhau 2 giờ trong thời gian ban ngày thông thường của bệnh nhân. Bệnh nhân được yêu cầu nằm ngủ trong một căn phòng tối. Khởi phát và giai đoạn ngủ (bao gồm REM) được theo dõi bằng đa ký giấc ngủ để xác định mức độ buồn ngủ. Sử dụng test này là để chẩn đoán bệnh ngủ rũ.
+
+Với
+
+duy trì test kiểm tra sự tỉnh táo,
+
+bệnh nhân được yêu cầu ngồi trên giường hoặc ghế dựa trong một căn phòng yên tĩnh trong suốt 4 lần thức cách nhau 2 giờ.
+
+Bệnh nhân có chứng buồn ngủ quá mức ban ngày có thể cần làm xét nghiệm về chức năng thận, gan và tuyến giáp.
+
+Tài liệu tham khảo đánh giá
+
+1.
+
+Kushida CA, Littner MR, Morgenthaler T, et al
+
+: Practice parameters for polysomnography and procedures: An update for 2005.
+
+Sleep
+
+28(4):499-519.
+
+2.
+
+Rosen IM, Kirsch DB, Chervin RD, et al
+
+: Clinical use of a home sleep apnea test: An American Academy of Sleep Medicine Position Statement.
+
+J Clin Sleep Med
+
+13 (10):1205-1207, 2017 doi: 10.5664/jcsm.6774
+
+Điều trị rối loạn lúc ngủ hoặc lúc thức dậy
+
+Điều trị theo tình trạng cụ thể. Phương pháp điều trị chính cho mất ngủ là liệu pháp nhận thức-hành vi (CBT) thay vì thuốc ngủ (
+
+1
+
+), nhưng CBT vẫn chưa được phổ biến rộng rãi trong điều trị rối loạn này.
+
+Vệ sinh giấc ngủ
+
+, điều này có vai trò quan trọng dù nguyên nhân là gì, là một phần của liệu pháp nhận thức-hành vi và thường là phương pháp điều trị duy nhất mà những bệnh nhân có vấn đề nhẹ cần đến.
+
+Liệu pháp nhận thức-hành vi
+
+Liệu pháp nhận thức-hành vi cho chứng mất ngủ tập trung vào việc quản lý những suy nghĩ, lo lắng và hành vi gây trở ngại cho giấc ngủ. Nó thường được thực hiện trong 4 buổi đến 8 buổi cá nhân hoặc buổi theo nhóm và có thể được thực hiện trực tiếp, qua khám bệnh từ xa hoặc bằng kỹ thuật số. Hầu hết các nghiên cứu cho thấy rằng telehealth không thua kém so với CBT-I trực tiếp (
+
+2, 3
+
+). Tuy nhiên, bằng chứng về hiệu quả của CBT-I kỹ thuật số yếu hơn (
+
+4
+
+), mặc dù cần nhiều dữ liệu hơn để chứng minh điều này.
+
+Liệu pháp nhận thức-hành vi cho chứng mất ngủ bao gồm những điều sau đây:
+
+Giúp bệnh nhân cải thiện
+
+vệ sinh giấc ngủ
+
+, đặc biệt là hạn chế thời gian trên giường, thiết lập lịch trình ngủ và kiểm soát các kích thích
+
+Dạy cho bệnh nhân về những ảnh hưởng của mất ngủ và giúp họ xác định những kỳ vọng không phù hợp về việc họ nên ngủ bao nhiêu
+
+Dạy bệnh nhân kỹ thuật thư giãn
+
+Sử dụng các kỹ thuật trị liệu nhận thức khác nếu cần
+
+Hạn chế thời gian nằm trên giường nhằm hạn chế thời gian bệnh nhân nằm trên giường cố gắng ngủ không thành công. Ban đầu, thời gian trên giường giới hạn trong tổng thời gian ngủ trung bình hàng đêm, nhưng không phải là < 5,5 giờ. Bệnh nhân được yêu cầu ra khỏi giường vào buổi sáng vào một thời điểm cố định, sau đó tính toán thời gian đi ngủ dựa trên tổng thời gian ngủ và thức cho đến thời điểm đó (gọi là liệu pháp hạn chế giấc ngủ). Sau một tuần, cách tiếp cận này thường cải thiện chất lượng giấc ngủ. Sau đó, thời gian nằm trên giường có thể tăng lên bằng cách dần dần làm cho thời gian đi ngủ sớm hơn, miễn là thức dậy vào giữa đêm.
+
+Bảng
+
+Vệ sinh giấc ngủ
+
+Bảng
+
+Vệ sinh giấc ngủ
+
+Vệ sinh giấc ngủ
+
+Biện pháp
+
+Thực hiện
+
+Lịch ngủ/thức
+
+Thời gian đi ngủ và đặc biệt là thời gian thức dậy phải như nhau mỗi ngày, kể cả cuối tuần. Bệnh nhân không nên dành nhiều thời gian trên giường.
+
+Sử dụng giường phù hợp
+
+Hạn chế thời gian trên giường cải thiện sự liên tục của giấc ngủ. Nếu không thể ngủ được trong vòng 20 phút, bệnh nhân nên ra khỏi giường và trở lại khi buồn ngủ. Không nên sử dụng giường cho các hoạt động khác ngoài giấc ngủ hoặc tình dục (ví dụ: không để đọc, ăn, xem tivi, xem email, làm việc trên máy tính hoặc thanh toán hóa đơn).
+
+Tránh ngủ trưa, ngoại trừ người làm việc theo ca và bệnh nhân ngủ rũ
+
+Ngủ trưa có thể làm trầm trọng khó ngủ ở bệnh nhân mất ngủ. Tuy nhiên, ngủ trưa làm giảm sự cần thiết của chất kích thích ở bệnh nhân ngủ rũ và cải thiện hoạt động của người lao động theo ca. Ngủ ngắn nên vào các khoảng thời gian giống nhau mỗi ngày và giới hạn trong vòng 30 phút.
+
+Thói quen thường xuyên trước khi đi ngủ
+
+Một mô hình hoạt động-đánh răng, tắm, đặt đồng hồ báo thức-có thể tạo cảm xúc cho giấc ngủ. Nên tránh đèn sáng và đèn xanh (ví dụ: điện thoại, tivi, màn hình máy tính) trước khi đi ngủ và trong khi thức dậy về đêm.
+
+Môi trường ngủ thoải mái
+
+Phòng ngủ nên tối, yên tĩnh và mát mẻ; chỉ nên sử dụng cho ngủ và hoạt động tình dục. Loại bỏ ánh sáng bằng rèm cửa hoặc mặt nạ ngủ, loại bỏ tiếng ồn bằng nút tai, quạt, hoặc thiết bị tránh tiếng ồn.
+
+Gối
+
+Gối giữa đầu gối hoặc dưới thắt lưng có thể làm tăng sự thoải mái. Đối với bệnh nhân có vấn đề về lưng, các tư thế hữu ích bao gồm nằm ngửa với gối lớn dưới đầu gối và ngủ một bên với gối giữa đầu gối.
+
+Tập thể dục đều đặn
+
+Tập thể dục thúc đẩy giấc ngủ và giảm căng thẳng, nhưng nếu tập vào buổi tối muộn, việc này có thể kích thích hệ thần kinh và cản trở giấc ngủ.
+
+Thư giãn
+
+Căng thẳng và lo lắng ảnh hưởng đến giấc ngủ. Đọc sách hoặc tắm trước khi đi ngủ có thể giúp thư giãn. Có thể được sử dụng các kỹ thuật như hình ảnh thị giác, thư giãn cơ bắp và các bài tập thở. Bệnh nhân không nên theo dõi đồng hồ.
+
+Tránh các chất kích thích và thuốc lợi tiểu
+
+Nên tránh uống đồ uống có cồn hoặc có caffein, hút thuốc, ăn thực phẩm có caffein (ví dụ: sô cô la) và dùng thuốc ức chế sự thèm ăn hoặc thuốc lợi tiểu, đặc biệt là gần giờ đi ngủ.
+
+Tiếp xúc với ánh sáng quá chói khi thức dậy
+
+Tiếp xúc ánh sáng nhẹ trong ngày có thể giúp khắc phục nhịp sinh học, nhưng nếu tiếp xúc với ánh sáng quá gần giường ngủ, nó có thể gây trở ngại cho giấc ngủ. Không nên sử dụng các thiết bị có ánh sáng xanh trước khi đi ngủ vài giờ.
+
+Thuốc gây ngủ
+
+Hướng dẫn chung về việc sử dụng thuốc ngủ (xem bảng
+
+Hướng dẫn chung về sử dụng thuốc ngủ)
+
+nhằm mục đích giảm thiểu lạm dụng và gây nghiện.
+
+Bảng
+
+Hướng dẫn sử dụng thuốc ngủ
+
+Bảng
+
+Hướng dẫn sử dụng thuốc ngủ
+
+Hướng dẫn sử dụng thuốc ngủ
+
+Xác định chỉ định rõ ràng và mục tiêu điều trị.
+
+Kê liều thấp nhất hiệu quả.
+
+Tùy loại thuốc ngủ và bệnh nhân cụ thể, thời hạn sử dụng trong vài tuần.
+
+Cá thể hoá liều cho mỗi bệnh nhân.
+
+Sử dụng liều thấp hơn ở bệnh nhân cũng dùng thuốc ức chế thần kinh trung ương, ở người cao tuổi và ở những bệnh nhân có bệnh lý về gan hoặc thận.
+
+Tránh* nếu bệnh nhân bị ngưng thở khi ngủ hoặc bệnh lý hô hấp hoặc có tiền sử lạm dụng thuốc an thần, nếu họ uống rượu hoặc nếu họ đang mang thai.
+
+Đối với những bệnh nhân cần điều trị lâu dài, hãy cân nhắc điều trị ngắt quãng.
+
+Tránh ngừng thuốc ngủ đột ngột nếu có thể (tức là giảm dần thuốc ngủ).
+
+Đánh giá lại việc điều trị bằng thuốc ngủ thường xuyên; đánh giá hiệu quả và biến cố bất lợi.
+
+* Ramelteon là một ngoại lệ; nó có thể được dùng cho bệnh nhân có chứng ngưng thở khi ngủ tắc nghẽn ở mức độ vừa phải hoặc bệnh phổi tắc nghẽn mạn tính (COPD) hoặc có tiền sử lạm dụng thuốc an thần. Doxepin liều thấp cũng không gây lạm dụng.
+
+* Ramelteon là một ngoại lệ; nó có thể được dùng cho bệnh nhân có chứng ngưng thở khi ngủ tắc nghẽn ở mức độ vừa phải hoặc bệnh phổi tắc nghẽn mạn tính (COPD) hoặc có tiền sử lạm dụng thuốc an thần. Doxepin liều thấp cũng không gây lạm dụng.
+
+Đối với thuốc ngủ được sử dụng phổ biến, xem bảng
+
+Thuốc ngủ đường uống Thường Dùng
+
+. Tất cả các thuốc ngủ (ngoại trừ ramelteon, doxepin liều thấp và thuốc đối kháng thụ thể orexin) đều có tác dụng tại vị trí nhận biết benzodiazepine trên thụ thể
+
+gamma
+
+-aminobutyric (GABA) và làm tăng tác dụng ức chế của GABA.
+
+Các thuốc ngủ khác nhau chủ yếu ở thời gian bán thải và khởi đầu tác dụng. Các loại thuốc có thời gian bán hủy ngắn được sử dụng để điều trị chứng mất ngủ khởi phát khi ngủ. Các loại thuốc có thời gian bán hủy dài hơn rất hữu ích cho cả tình trạng khó bắt đầu giấc ngủ và khó duy trì giấc ngủ, hoặc, trong trường hợp doxepin liều thấp, chủ yếu là dành cho tình trạng khó duy trì giấc ngủ. Một số loại thuốc ngủ (ví dụ: nhóm benzodiazepin cũ) có khả năng cao hơn trong việc gây tác dụng kéo dài vào ban ngày, đặc biệt là sau khi sử dụng kéo dài và/hoặc ở người cao tuổi. Các loại thuốc mới hơn với thời gian tác dụng rất ngắn (ví dụ: zolpidem ngậm dưới lưỡi liều thấp) có thể được dùng vào giữa đêm, khi thức giấc về đêm, miễn là bệnh nhân nằm trên giường trong ít nhất 4 giờ sau khi sử dụng. Ambien có thể có các tác dụng phụ nghiêm trọng bao gồm nguy cơ bị ngã, suy giảm trí nhớ và các hành vi ngủ phức tạp (ngủ khi đi bộ, ngủ khi lái xe và ngủ khi nhắn tin).
+
+Những bệnh nhân bị buồn ngủ ban ngày, mất phối hợp hoặc các tác dụng ban ngày khác cần phải tránh các hoạt động đòi hỏi sự tỉnh táo (ví dụ: lái xe) và nên giảm liều, ngừng thuốc hoặc sử dụng một loại thuốc khác nếu cần. Các tác dụng phụ khác bao gồm chứng mất trí, ảo giác, mất phối hợp và ngã. Ngã là một nguy cơ đáng kể với tất cả thuốc ngủ.
+
+Khi ngừng sử dụng thuốc benzodiazepin, nên giảm dần liều lượng và không được dừng đột ngột.
+
+Bảng
+
+Sử dụng thuốc ngủ đường uống
+
+Bảng
+
+Sử dụng thuốc ngủ đường uống
+
+Sử dụng thuốc ngủ đường uống
+
+Thuốc
+
+Thời gian bán hủy* (giờ)
+
+Bình luận
+
+Các thuốc chủ vận thụ thể benzodiazepine: Nhóm benzodiazepine
+
+Triazolam
+
+1,5−5,5
+
+Có thể gây quên trước tuổi; khả năng dung nạp và phục hồi cao sau khi sử dụng lặp đi lặp lại
+
+Temazepam
+
+9,5–12,4
+
+Thời gian tiềm tàng dài nhất gây khởi phát giấc ngủ
+
+Estazolam
+
+10–24
+
+Hiệu quả cho việc kích thích và duy trì giấc ngủ
+
+Quazepam
+
+39–100
+
+Khả năng gắn lipid cao, có thể giảm tác dụng an thần lại trong 7-10 ngày đầu sử dụng liên tục
+
+Flurazepam
+
+47–100
+
+Nguy cơ cao về thuốc an thần tồn dư vào ngày hôm sau; không nên dùng cho người cao tuổi
+
+Các thuốc chủ vận thụ thể benzodiazepine: Nonbenzodiazepine
+
+Zaleplon
+
+1
+
+Tác dụng rất nhanh; có thể được dùng cho khó vào giấc ngủ hoặc sau khi thức giấc ban đêm (nếu bệnh nhân có thể nằm ít nhất 4 giờ trên giường sau khi dùng thuốc)
+
+Khi sử dụng vào giờ đi ngủ bình thường, ít còn sót lại tác dụng của thuốc
+
+Zolpidem, viên nén
+
+2,5
+
+Chỉ có hiệu quả đối với bệnh khó vào giấc ngủ
+
+Zolpidem xịt miệng
+
+2,7
+
+Dùng cho mất ngủ do khó vào giấc ngủ; bắt đầu tác dụng nhanh chóng
+
+Zolpidem, phóng thích kéo dài
+
+2,8
+
+Có hiệu quả đối với bệnh khó vào giấc ngủ hoặc khó duy trì giấc ngủ, không dung nạp với liều trên 6 tháng sử dụng 3 đến 7 đêm/tuần
+
+Zolpidem, dưới lưỡi
+
+2,9
+
+Khởi đầu nhanh hơn Zolpidem dạng viên
+
+Các liều cao hơn được sử dụng cho khó vào giấc ngủ.
+
+Liều thấp hơn dùng cho bệnh nhân bị thức sớm (không nên dùng trừ khi bệnh nhân có thể nằm ít nhất 4 giờ trên giường sau khi dùng thuốc)
+
+Eszopiclone
+
+6
+
+Có hiệu quả đối với bệnh khó vào giấc ngủ và khó duy trì giấc ngủ; không dung nạp với tối đa 6 tháng khi sử dụng hàng đêm
+
+Các chất chủ vận thụ thể melatonin
+
+Tasimelteon
+
+0,9-1,7
+
+Có thể tăng thời gian ngủ vào ban đêm và giảm thời gian ngủ ban ngày ở những bệnh nhân mù hoàn toàn mắc hội chứng ngủ không thức 24 giờ
+
+Có thể gây đau đầu và giấc mơ bất thường hoặc ác mộng (tác dụng phụ thường gặp nhất); không có trách nhiệm pháp lý
+
+Ramelteon
+
+1–5
+
+Chỉ có ích cho khó vào giấc ngủ; một trong vài loại thuốc ngủ không liên quan đến khả năng lam dụng thuốc
+
+Có thể được an toàn cho bệnh nhân có bệnh ngưng thở khi ngủ tắc nghẽn ở mức độ nhẹ đến vừa hoặc bệnh phổi tắc nghẽn mạn tính (COPD)
+
+Không gặp khó khăn khi sử dụng lâu dài
+
+Thuốc đối kháng thụ thể Orexin
+
+Daridorexant
+
+Khoảng 8
+
+Được sử dụng cho mất ngủ do khó đi vào giấc ngủ và/hoặc mất ngủ do khó duy trì giấc ngủ
+
+Có thể gây đau đầu, buồn ngủ, mệt mỏi (phổ biến nhất) và ý định tự tử, trầm cảm nặng hơn, liệt khi ngủ và các hành vi phức tạp liên quan đến giấc ngủ (ví dụ: mộng du, lái xe khi ngủ)
+
+Lemborexant
+
+17 (với 5 mg)
+
+19 (với 10 mg)
+
+Được sử dụng cho mất ngủ do khó đi vào giấc ngủ và/hoặc mất ngủ do khó duy trì giấc ngủ
+
+Có thể gây buồn ngủ (phổ biến nhất) và ý định tự tử, trầm cảm nặng hơn, liệt khi ngủ và các hành vi phức tạp liên quan đến giấc ngủ (ví dụ: mộng du, lái xe khi ngủ)
+
+Chống chỉ định ở bệnh nhân bị chứng ngủ rũ
+
+Suvorexant
+
+12
+
+Hữu ích cho mất ngủ do khó đi vào giấc ngủ và mất ngủ do khó duy trì giấc ngủ
+
+Sử dụng liều thấp nhất có hiệu quả; Có thể tăng lên tối đa 20 mg x 1 lần/ngày nếu liều 10 mg được dung nạp tốt nhưng không hiệu quả
+
+Thuốc chống trầm cảm ba vòng
+
+Doxepin, liều cực thấp
+
+15,3
+
+Chỉ định cho mất ngủ do duy trì; không có khả năng lạm dụng
+
+* Bao gồm tiền chất và chất chuyển hóa hoạt tính. Sắp xếp theo thứ tự từ chu kỳ bán rã ngắn nhất đến lâu nhất.
+
+† Liều được dùng trước khi đi ngủ.
+
+* Bao gồm tiền chất và chất chuyển hóa hoạt tính. Sắp xếp theo thứ tự từ chu kỳ bán rã ngắn nhất đến lâu nhất.
+
+† Liều được dùng trước khi đi ngủ.
+
+Ba thuốc đối kháng thụ thể orexin kép (daridorexant, lemborexant, suvorexant) có thể được sử dụng để điều trị mất ngủ do khó đi vào giấc ngủ và mất ngủ do khó duy trì giấc ngủ. Các thuốc này ngăn chặn các thụ thể orexin trong não, do đó ngăn chặn các tín hiệu đánh thức do orexin gây ra và cho phép bắt đầu giấc ngủ. Các thuốc đối kháng thụ thể orexin kép ngăn chặn các thụ thể orexin-1 và -2. Thụ thể orexin-1 có liên quan đến việc ngăn chặn sự bắt đầu của giấc ngủ chuyển động mắt nhanh (REM); thụ thể orexin-2 có liên quan đến việc ngăn chặn sự khởi đầu của giấc ngủ không phải REM và ở một mức độ nào đó, trong việc kiểm soát giấc ngủ REM. Tuy nhiên, cơ chế tác dụng của các thuốc đối kháng thụ thể orexin kép vẫn chưa được hiểu rõ. Thuốc được sử dụng để điều trị chứng khó bắt đầu giấc ngủ và/hoặc khó duy trì giấc ngủ và có thể cải thiện hiệu suất nhận thức ở bệnh nhân suy giảm nhận thức nhẹ hoặc bệnh Alzheimer (
+
+5
+
+).
+
+Daridorexant được dùng mỗi ngày một lần trong vòng 30 phút sau khi đi ngủ (có thời gian bán hủy ngắn nhất [8 giờ] trong số các thuốc đối kháng thụ thể oxexin kép)
+
+Dùng lemborexant mỗi ngày một lần trong vòng 30 phút trước khi đi ngủ (có thể tăng liều dựa trên đáp ứng và khả năng dung nạp của bệnh nhân)
+
+Dùng suvorexant không quá một lần mỗi đêm và uống trong vòng 30 phút trước khi đi ngủ, ít nhất 7 giờ trước thời gian thức dậy theo kế hoạch (buồn ngủ là tác dụng bất lợi phổ biến nhất)
+
+Doxepin liều thấp (3 mg, 6 mg), thuốc chống trầm cảm ba vòng có hoạt tính kháng histamine, cũng được chỉ định để điều trị tình trạng khó duy trì giấc ngủ. Doxepin chưa được so sánh trực tiếp với các thuốc ngủ khác, nhưng một phân tích nguy cơ so với lợi ích cho thấy thuốc này có hồ sơ thuận lợi nhất khi so sánh gián tiếp với các thuốc ngủ khác (
+
+6
+
+). Doxepin có khả năng là liệu pháp bước một tốt nhất (
+
+6
+
+).
+
+Thuốc ngủ nên được sử dụng thận trọng ở bệnh nhân suy hô hấp. Ở người cao tuổi, bất kỳ loại thuốc ngủ, ngay cả ở liều lượng nhỏ, có thể gây ra sự bồn chồn, kích động, ngã hoặc khởi phát cơn mê sảng và chứng sa sút trí tuệ. Hiếm khi, thuốc ngủ có thể gây ra các hành vi phức tạp liên quan đến giấc ngủ, chẳng hạn như mộng du và thậm chí ngủ khi lái xe; sử dụng các liều cao hơn mức khuyến cáo và dùng đồng thời các đồ uống có cồn có thể làm tăng nguy cơ hành vi như trên. Hiếm khi xảy ra phản ứng dị ứng nghiêm trọng.
+
+Sử dụng kéo dài
+
+thuốc thôi miên
+
+thường không được khuyến khích bởi vì có thể tiến triển sự dung nạp và bởi vì khi dừng đột ngột có thể gây ra mất ngủ hoặc thậm chí lo lắng, run và co giật. Những tác dụng này phổ biến hơn với các thuốc benzodiazepine (đặc biệt là triazolam) và ít phổ biến hơn với nonbenzodiazepine. Có thể giảm thiểu những khó khăn bằng cách sử dụng liều thấp nhất có hiệu quả trong thời gian ngắn và giảm liều trước khi ngừng thuốc (xem thêm
+
+Cai thuốc và giải độc
+
+).
+
+Các loại thuốc và chất kích thích khác được sử dụng để điều trị mất ngủ
+
+Nhiều loại thuốc và chất kích thích không được chỉ định cụ thể trong điều trị mất ngủ được sử dụng để tạo ra và duy trì giấc ngủ.
+
+Một số thuốc chống trầm cảm
+
+(trừ doxepin liều thấp) dùng liều thấp trước khi đi ngủ (ví dụ: paroxetine 5 mg đến 20 mg, trazodone 50 mg, tripipramine 75 mg đến 200 mg) có thể cải thiện giấc ngủ vì tác dụng phụ là an thần của các thuốc này. Tuy nhiên, việc sử dụng các thuốc này ở liều thấp này nên được giới hạn khi thuốc ngủ tiêu chuẩn không được dung nạp (hiếm gặp) hoặc ở liều cao hơn (thuốc chống trầm cảm) khi có trầm cảm.
+
+Melatonin
+
+là một hoocmon được tiết ra bởi tuyến tùng (và có tự nhiên trong một số thực phẩm). Melatonin được kích thích tiết bởi bóng tối và ức chế tiết bởi ánh sáng. Bằng cách gắn kết với các thụ thể của melatonin trong nhân suprachiasmatic, melatonin là chất trung gian các nhịp sinh học, đặc biệt là khi bắt đầu giấc ngủ sinh lý.
+
+Melatonin đường uống (điển hình là từ 0,5 đến 5 mg trước khi đi ngủ) có thể có hiệu quả đối với các vấn đề về giấc ngủ do hội chứng giai đoạn ngủ bị trì hoãn. Khi được sử dụng để điều trị bệnh lý này, cần phải dùng thuốc vào thời điểm thích hợp (vài giờ trước khi tăng lượng melatonin nội sinh vào buổi tối – đầu buổi tối cho hầu hết mọi người, thường là từ 3 đến 5 tiếng trước giờ đi ngủ) và với liều thấp từ 0,5 đến 1 mg; nếu uống sai giờ nó có thể làm trầm trọng thêm vấn đề về giấc ngủ. Có các chế phẩm giải phóng chậm của melatonin nhưng không rõ liệu các chế phẩm này có hiệu quả hơn các phiên bản giải phóng bình thường hay không.
+
+Đối với những hình thức mất ngủ khác, hiệu quả của melatonin hầu như không được kiểm chứng.
+
+Melatonin có thể gây nhức đầu, chóng mặt, buồn nôn và buồn ngủ. Tuy nhiên, sau khi sử dụng rộng rãi, không có tác dụng bất lợi đáng lo ngại nào khác được báo cáo. Các chế phẩm sẵn có của melatonin không được kiểm soát, do đó không thể đảm bảo được hàm lượng và độ tinh khiết và những ảnh hưởng của việc sử dụng lâu dài vẫn chưa được biết.
+
+Thuốc kháng histamine không kê đơn (OTC)
+
+(ví dụ: doxylamine, diphenhydramine) có thể gây ngủ nhưng
+
+không
+
+nên dùng để điều trị mất ngủ. Không thể đoán trước hiệu và các thuốc này có thời gian bán hủy dài và có tác dụng bất lợi như là an thần ban ngày, lú lẫn, bí tiểu và các tác dụng kháng cholinergic toàn thân khác, đặc biệt đáng lo ngại ở người cao tuổi.
+
+Cũng
+
+không
+
+nên sử dụng
+
+rượu
+
+để giúp dễ ngủ vì rượu tạo ra giấc ngủ không sảng khoái, bị xáo trộn với việc thức giấc thường xuyên về đêm, thường làm tăng cảm giác buồn ngủ vào ban ngày. Rượu có thể làm suy giảm hô hấp trong khi ngủ ở bệnh nhân bị chứng ngưng thở khi ngủ tắc nghẽn và các bệnh khác ở phổi như bệnh phổi tắc nghẽn mạn tĩnh (COPD).
+
+Cannabinoid
+
+bao gồm những thứ sau:
+
+Dầu CBD (cannabidiol), gây an thần và giảm độ trễ của giấc ngủ nhưng không gây khoan khoái
+
+CBN (cannabinol), gây an thần, giảm đau và tăng cảm giác thèm ăn
+
+THC (tetrahydrocannabinol), gây khoan khoái, giảm đau và giảm buồn nôn và có tác dụng khác nhau đối với các giai đoạn của giấc ngủ
+
+Dronabinol
+
+, là một chất tương tự tổng hợp
+
+Cho dù cần sa có hiệu quả đối với chứng mất ngủ hay không thì vẫn chưa rõ ràng, nhưng nó rất hữu ích cho những cơn đau mãn tính.
+
+Sự dung nạp có thể phát triển; ngừng sử dụng cần sa sau khi sử dụng lâu dài dẫn đến mất ngủ.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Qaseem A, Kansagara D, Forciea MA, C et al
+
+: Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians.
+
+Ann Intern Med
+
+165(2):125-133, 2016 doi: 10.7326/M15-2175
+
+2.
+
+Arnedt JT, Conroy DA, Mooney A, et al
+
+: Telemedicine versus face-to-face delivery of cognitive behavioral therapy for insomnia: a randomized controlled noninferiority trial.
+
+Sleep
+
+44(1):zsaa136, 2021 doi: 10.1093/sleep/zsaa136
+
+3.
+
+Gehrman P, Gunter P, Findley J, et al
+
+: Randomized noninferiority trial of telehealth delivery of cognitive behavioral treatment of insomnia compared to in-person care.
+
+J Clin Psychiatry
+
+82(5):20m13723, 2021 doi: 10.4088/JCP.20m13723
+
+4.
+
+Bullock G, Johnson GS, Pattridge SG, et al
+
+: A homozygous MAN2B1 missense mutation in a Doberman Pinscher dog with neurodegeneration, cytoplasmic vacuoles, autofluorescent storage granules, and an α-mannosidase deficiency.
+
+Genes (Basel)
+
+14(9):1746, 2023 doi: 10.3390/genes14091746
+
+5.
+
+Zhou M, Tang S
+
+: Effect of a dual orexin receptor antagonist on Alzheimer's disease: Sleep disorders and cognition.
+
+Front Med (Lausanne)
+
+9:984227, 2023 doi: 10.3389/fmed.2022.984227
+
+6.
+
+Cheung JMY, Scott H, Muench A, et al
+
+: Comparative short-term safety and efficacy of hypnotics: A quantitative risk-benefit analysis.
+
+J Sleep Res
+
+e14088, 2023 doi: 10.1111/jsr.14088
+
+Những điểm chính
+
+Vệ sinh giấc ngủ không hợp lý và các vấn đề phát sinh (ví dụ, làm việc ca, căng thẳng cảm xúc) là những nguyên nhân phổ biến gây mất ngủ.
+
+Xem xét các nguyên nhân có thể như bệnh khác (ví dụ hội chứng ngưng thở khi ngủ, bệnh lý gây đau) và bệnh lý tâm thần (ví dụ rối loạn cảm xúc).
+
+Thông thường, khi nghi ngờ hội chứng ngưng thở khi ngủ, rối loạn vận động chân tay có chu kỳ hoặc bệnh lý về giấc ngủ khác, khi chẩn đoán lâm sàng nghi ngờ hoặc khi đáp ứng với điều trị ban đầu ban đầu là không đầy đủ xem xét chỉ định các thăm dò về giấc ngủ (ví dụ đa kí giấc ngủ).
+
+Vệ sinh giấc ngủ tốt, đôi khi là một phần của liệu pháp nhận thức-hành vi, là điều trị đầu tiên.
+
+Use hypnotics and sedatives with caution, especially in older adults.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Sinh lý bệnh của giấc ngủ ---
+
+Có 2 trạng thái của giấc ngủ, mỗi trạng thái đều có các thay đổi sinh lý đặc trưng:Chuyển động mắt chậm (NREM):Giai đoạn NREM chiếm từ 75 đến 80% tổng thời gian ngủ của người lớn. Nhịp tim và nhiệt độ cơ thể có xu hướng giảm. NREM bao gồm 3 giai đoạn (N1 đến N3) khi tăng độ sâu của giấc ngủ. Giai đoạn chuyển động lăn chậm của mắt, đặc trưng cho thức tỉnh yên lặng và giai đoạn sớm N1 của giấc ngủ, biến mất trong các giai đoạn ngủ sâu hơn. Hoạt động của cơ cũng giảm. Giấc ngủ giai đoạn N2 được đặc trưng bởi phức hợp K và các trục ngủ trên điện não đồ (xem hìnhChuyển động mắt không nhanh [NREM] EEG). Giai đoạn N3 được gọi là giấc ngủ sâu vì ngưỡng kích thích tăng cao; ngủ đến giai đoạn này sẽ đạt được giấc ngủ ngon.Giai đoạn chuyển động mắt nhanh (REM):Ngủ REM luân phiên với ngủ NREM. Giai đoạn này được đặc trưng bởi các điện thế hoạt động nhanh trên điện não đồ và giảm trương lực cơ. Nhịp thở và biên độ dao động mạnh. Hầu hết các giấc mơ xảy ra trong giai đoạn ngủ REM. Thông thường, 20 đến 25% số giấc ngủ là REM.Tiến triển qua 3 giai đoạn, thường theo sau là một khoảng thời gian ngắn của giấc ngủ REM, xảy ra theo chu kỳ 5 lần đến 6 lần một đêm (xem hìnhKiểu ngủ điển hình ở thanh niên). Các giai đoạn thức (giai đoạn W) xảy ra định kỳ.Điện não đồ chuyển động mắt không nhanh (NREM)Các dấu hiệu điện não đồ này cho thấy sóng theta đặc trưng, trục quay giấc ngủ và phức hợp K trong giai đoạn 1 (N1), 2 (N2) và 3 (N3) ngủ.EEG chuyển động mắt nhanh (REM)Con số này bao gồm một dấu vết điện não đồ (hiển thị sóng răng cưa đặc trưng) và dấu vết mắt (thể hiện các chuyển động mắt nhanh), xảy ra trong giấc ngủ REM. Trong bảng dưới cùng, các mũi tên thể hiện các chuyển động mắt liên hợp đỉnh điểm từ mắt phải và mắt trái trong giai đoạn ngủ REM.Nhu cầu ngủ thay đổi rất đa dạng, dao động từ 6 đến 10 giờ/24 giờ. Trẻ nhỏ ngủ phần lớn thời gian trong ngày; do có sự lão hóa, tổng thời gian ngủ và giấc ngủ sâu (giai đoạn N3) có xu hướng giảm và giấc ngủ dần bị gián đoạn hơn. Ở người cao tuổi, giai đoạn N3 có thể biến mất. Những thay đổi này có thể làm tăng ngủ ngày và mệt mỏi do lão hóa, nhưng chúng không có nhiều ý trên lâm sàng.Kiểu ngủ điển hình ở thanh niênNgủ chuyển động mắt nhanh (REM) xảy ra theo chu kỳ 90-120 phút đêm. Các giai đoạn thức ngắn (giai đoạn W) xảy ra định kỳ. Thời gian ngủ được tính như sau:Giai đoạn N1: 2-5%Giai đoạn N2: 45-55%Giai đoạn N3: 13-23%REM: 20-25%
+
+--- 2. Nguyên nhân của rối loạn giấc ngủ hoặc rối loạn thức giấc ---
+
+Một số bệnh lý có thể gây mất ngủ hoặc ngủ quá mức ban ngày (đôi khi cả hai) và một số khác gây ra một trong hai tình trạng (xem bảngMột số nguyên nhân gây mất ngủ và ngu quá mức ban ngày).BảngMột số nguyên nhân gây mất ngủ và buồn ngủ ban ngày quá mứcBảngMột số nguyên nhân gây mất ngủ và buồn ngủ ban ngày quá mứcMột số nguyên nhân gây mất ngủ và buồn ngủ ban ngày quá mứcRối loạnMất ngủBuồn ngủ quá mức vào ban ngàyRối loạn điều chỉnh giấc ngủ√Hội chứng ngừng thở trung ương√√Rối loạn giấc ngủ do nhịp sinh học√√Rối loạn giấc ngủ phụ thuộc thuốc và do thuốc√√Sinh hoạt cá nhân không hợp lý√√hội chứng ngủ không đủ√Chứng ngủ rũ√Ngưng thở tắc nghẽn khi ngủ√√Rối loạn vận động chân tay có chu kỳ√√Các rối loạn giấc ngủ do thể chấthoặctinh thần√√Mất ngủ do tâm sinh lý√Hội chứng chân không nghỉ√√=thường xuất hiện (nhưng mất ngủ và/hoặc buồn ngủ ban ngày quá mức có thể xảy ra trong bất kỳ bệnh lý nào).√=thường xuất hiện (nhưng mất ngủ và/hoặc buồn ngủ ban ngày quá mức có thể xảy ra trong bất kỳ bệnh lý nào).Mất ngủthường gây ra bởiBệnh mất ngủ (rối loạn điều chỉnh giấc ngủ, mất ngủ do tâm thần kinh)Sinh hoạt cá nhân không hợp lýBệnh lý tâm thần, đặc biệt là cảm xúc, lo lắng và các bệnh lý do sử dụng chất gây nghiệnCác bệnh lý y khoa khác như bệnh lý tim phổi, tình trạng cơ xương và đau mạn tính.EDSthường gây ra bởihội chứng ngủ không đủNgưng thở tắc nghẽn khi ngủCác bệnh nội khoa khác, thần kinh (ví dụ:chứng ngủ rũ,rối loạn vận động chân tay định kỳvà rối loạn tâm thần)Rối loạn giấc ngủ do thay đổi nhịp sinh họcnhư thay đổi sau chuyến bay và rối loạn giấc ngủ do ca làm việcVệ sinh giấc ngủ không hợp lýgồm các hành vi không có lợi cho giấc ngủ. Chúng bao gồmDùngcaffeinehoặc thuốc kích thích giao cảm hoặc các loại thuốc kích thích khác (thường là gần giờ đi ngủ, thậm chí vào buổi chiều đối với những người đặc biệt nhạy cảm)Tập thể dục hoặc phấn khích (ví dụ: một chương trình truyền hình hấp dẫn, sự kiện thể thao) vào buổi tối muộnLịch ngủ không đều đặnNhững bệnh nhân bù lại giấc ngủ bị mất bằng cách ngủ muộn hay ngủ trưa thì giấc ngủ đêm của họ có thể sẽ bị chia nhỏ.Mất ngủ do điều chỉnhlà kết quả của các yếu tố căng thẳng cảm xúc cấp tính (ví dụ: mất việc, nhập viện, mất thành viên trong gia đình) làm gián đoạn giấc ngủ.Mất ngủ do tâm sinh lýlà mất ngủ (bất kể nguyên nhân) tồn tại vượt quá khả năng xử lí của các yếu tố cá nhân, thường là do bệnh nhân cảm thấy lo lắng khi tưởng tượng về đêm mất ngủ tiếp theo và hôm sau sẽ mệt mỏi. Thông thường, bệnh nhân dành hàng giờ trên giường tập trung và suy nghĩ về sự mất ngủ của họ, và khó ngủ ở trong phòng của mình hơn so với ngủ xa nhà.Bệnh lý thực thểgây đau hoặc khó chịu (ví dụ nhưviêm khớp,ung thư,thoát vị đĩa đệm) đặc biệt là những bệnh nặng hơn khi vận động làm bệnh nhân thức giấc và chất lượng giấc ngủ kém. Các cơn co giật về đêm có thể gây cản trở cho giấc ngủ.Phần lớncác bệnh lý tâm thầncó liên quan đến buồn ngủ quá mức ban ngày và mất ngủ. Khoảng 80% số bệnh nhântrầm cảm nặngbáo cáo EDS và mất ngủ; ngược lại, 40% số bệnh nhân mất ngủ mạn tính bị rối loạn tâm thần nặng, phổ biến nhất là rối loạn tâm trạng.Hội chứng thiếu ngủthường do không ngủ đủ vào ban đêm mặc dù có đủ điều kiện để ngủ, thường là do các ràng buộc xã hội hoặc công việc.Rối loạn giấc ngủ liên quan đến thuốclà kết quả của việc sử dụng hoặc cai nghiện lâu dài các loại thuốc khác nhau, thuốc phiện bất hợp pháp hoặc các chất kích thích khác.Các rối loạn giấc ngủ do nhịp sinh họcdẫn đến sai lệch giữa nhịp thức - ngủ nội sinh với chu kỳ sáng - tối của môi trường. Nguyên nhân có thể từ bên ngoài (ví dụ như rối loạn múi giờ, rối loạn liên quan công việc ca kíp) hoặc bên trong (ví dụ rối loạn giai đoạn ngủ có trì hoãn hoặc nâng cao).Ngừng thở khi ngủ do trung ươngbao gồm các giai đoạn lặp lại ngừng thở hoặc thở nông trong khi ngủ, kéo dài ít nhất 10 giây và gây ra do hạn chế công hô hấp. Bệnh thường biểu hiện như ngủ chập chờn và không thoải mái.Tắc nghẽn đường thở khi ngủbao gồm các cơn đóng một phần hoặc hoàn toàn đường hô hấp trên trong khi ngủ, dẫn đến ngừng thở khoảng ≥ 10 giây. Hầu hết các bệnh nhân ngáy, có thể phải thức dậy và thở hổn hển. Những giai đoạn này làm gián đoạn giấc ngủ và dẫn đến giấc ngủ không được sảng khoái cũng như EDS.Ngủ rũđược đặc trưng bởi EDS mạn tính và ngủ rũ loại 1 thường đi kèm với chứng mất trương lực, liệt khi ngủ và ảo giác thôi miên buồn ngủ hoặc ảo giác thôi miên nửa thức nửa ngủ:Mất trương lựclà tình trạng yếu cơ hoặc liệt tạm thời (vài giây đến vài phút) mà không mất ý thức, được gây ra bởi các phản ứng cảm xúc đột ngột (ví dụ: cười, giận dữ, sợ hãi, vui mừng, ngạc nhiên). Sự yếu cơ có thể gặp ở tay chân (ví dụ bệnh nhân có thể làm rơi cần câu khi cá cắn câu) hoặc có thể ngã khi cười rất vui (như "yếu với tiếng cười") hoặc đột nhiên tức giận. Mất trương lực cũng có thể biểu hiện như mờ mắt, khuỵu đầu gối hoặc nói ngọng.Liệt khi ngủlà tình trạng mất khả năng cử động nhất thời khi vừa mới ngủ hoặc ngay khi thức dậy.Hiện tượng ảo giác giấc ngủ và ảo giác thôi miênlà những ảo thanh, ảo thị hoặc ảo giác xảy ra khi ngủ thiếp đi (mơ ngủ) hoặc ít gặp hơn là ngay sau khi thức dậy (mơ thức).Rối loạn cử động chu kỳđược đặc trưng bởi sự lặp đi lặp lại (thường từ 20 đến 40 giây) của sự co giật hoặc đá chi dưới hoặc chi trên trong lúc ngủ. Bệnh nhân thường than phiền về giấc ngủ đêm bị gián đoạn hoặc buồn ngủ quá mức vào ban ngày. Họ thường không ý thức được về các cử động theo sau bởi các kích thích ngắn và họ không có cảm giác bất thường ở các chi.Hội chứng chân không nghỉđược đặc trưng bởi một sự thôi thúc không thể cưỡng lại làm di chuyển chân và ít gặp hơn là các cánh tay, thường xuất hiện song song với dị cảm (ví dụ: cảm giác côn trùng bò hoặc đốt) ở chân tay khi tựa vào. Để làm giảm các triệu chứng, bệnh nhân di chuyển đầu chi bị ảnh hưởng bằng cách duỗi, đá hoặc đi bộ. Do đó, họ khó ngủ hoặc thức giấc liên tục trong đêm hoặc cả hai.
+
+--- 3. Đánh giá rối loạn lúc ngủ hoặc lúc thức dậy ---
+
+Tiền sửTiền sử của bệnh hiện tạinên bao gồm thời gian và tuổi khi bắt đầu triệu chứng và bất kỳ điểm nào (ví dụ như thay đổi cuộc sống hoặc công việc, thuốc mới, bệnh tật mới) chúng trùng khớp với sự khởi phát bệnh. Các triệu chứng trong suốt giấc ngủ và khi thức dậy nên được lưu ý.Chất lượng và số lượng giấc ngủ được xác định bằng cách xác địnhTRước khi đi ngủThời gian đi vào giấc ngủ (thời gian từ khi lên giường đến khi vào giấc ngủ)Số lượng và thời gian lúc thứcThời gian lần thức dậy sau cùng vào buổi sáng và thời gian phát sinhTần suất và thời gian ngủ trưaChất lượng giấc ngủ (liệu nó có sảng khoái hay không)Đề nghị bệnh nhân giữ một bản ghi giấc ngủ trong vài tuần sẽ cung cấp thông tin chính xác hơn so với đặt câu hỏi với họ. Các việc làm trong giờ đi ngủ (ví dụ như ăn hoặc uống rượu, hoạt động thể chất hoặc tinh thần) cần được khai thác. Việc sử dụng và cai thuốc, rượu, caffeine, cần sa và nicotin cũng như mức độ và thời gian hoạt động thể chất cũng nên được đưa vào.Nếu buồn ngủ quá mức ban ngày là vấn đề, mức độ nghiêm trọng nên được ước lượng dựa trên khuynh hướng ngủ thiếp đi trong những tình huống khác nhau (ví dụ khi nghỉ ngơi thoải mái so với khi lái xe). Thang điểm giấc ngủ Epworth có thể được sử dụng; tổng điểm≥10 biểu hiện buồn ngủ ban ngày quá mức.Đánh giá toàn diệnkhám các triệu chứng đặc hiệu khác của rối loạn giấc ngủ, bao gồmNgáy, kiểu thở bị gián đoạn, chứng kiến các hiện tượng ngưng thở, thở hổn hển về đêm và nghẹt thở, và tiểu đêm (hội chứngngưng thở khi ngủ)Trầm cảm, lo lắng, hưng cảm và hưng cảm nhẹ (rối loạn giấc ngủ tâm thần)Chân không nghỉ, mong muốn không thể cưỡng lại được để di chuyển chân và cử động giật chân hoặc cánh tay (hội chứng chân không nghỉ,rối loạn vận động chi định kỳ)Chứng mất trương lực, tê liệt khi ngủ và ảo giác thôi miên buồn ngủ (chứng ngủ rũ)Người ngủ cùng hoặc các thành viên khác trong gia đình có thể nhận thấy rất rõ những triệu chứng này.Tiền sử bệnh trước đâynên kiểm tra các rối loạn đã biết có thể cản trở giấc ngủ, bao gồmbệnh phổi tắc nghẽn mạn tính(COPD),hen suyễn,suy tim,cường giáp,trào ngược dạ dày thực quản, rối loạn thần kinh (đặc biệt là rối loạn vận động và thoái hóa),tiểu tiện không tự chủ, các rối loạn tiết niệu khác, và rối loạn đau đớn (ví dụ, viêm khớp dạng thấp). Các yếu tố nguy cơ, triệu chứng và bệnh liên quan đến chứng ngưng thở khi ngủ do tắc nghẽn bao gồm béo phì, bệnh tim, tăng huyết áp, đột quỵ, hút thuốc, ngáy, tật hàm thụt lùi, phì đại amidan và chấn thương mũi. Tiền sử dùng thuốc nên bao gồm các câu hỏi về việc sử dụng bất kỳ loại thuốc hoặc chất kích thích nào liên quan đến rối loạn giấc ngủ.Công cụ tính toán lâm sàngThang điểm giấc ngủ Epworth (ESS)Khám thực thểViệc khám thực thể chủ yếu hữu ích để xác định các dấu hiệu liên quan đếnngưng thở khi ngủ do tắc nghẽn:Béo phì với mỡ phân bố quanh cổ hoặc cơ hoànhVòng cổ lớn (≥ 43,2 cm [17 in] ở nam giới, ≥ 40,6 [16 in] cm ở nữ giới)Thiểu sản hàm dưới hoặc tật hàm thụt lùiTắc nghẽn mũiAmidan phì đại (vòm miệng hoặc lưỡi), vòm họng, lưỡi, lưỡi gà, thành bên của họng hoặc vòm miệng mềm (điểm Mallampati sửa đổi 3 hoặc 4 - xem hìnhThang điểm Mallampati sửa đổi)Giảm mở màn hầuThừa niêm mạc hầuThang điểm Mallampati sửa đổiĐiểm số Mallampati đã được sửa đổi như sau:Lớp 1: Hạch nhân, lưỡi gà và khẩu cái mềm có thể nhìn thấy hoàn toàn.Lớp 2: Khẩu cái cứng và mềm, phần trên của amidan và lỗ mũi có thể nhìn thấy.Lớp 3: Khẩu cái mềm và cứng và chân của lưỡi gà có thể nhìn thấy.Lớp 4: Chỉ nhìn thấy khẩu cái cứng.Khám ngực xem có tiếng thở rít và gù vẹo cột sống hay không. Cần lưu ý các dấu hiệu của suy thất phải, bao gồm cả phù chi dưới. Nên thực hiện một lầnkhám thần kinhkỹ lưỡng.Các dấu hiệu cảnh báoNhững phát hiện sau đây cần được quan tâm đặc biệt:Ngủ khi lái xe hoặc các tình huống nguy hiểm tiềm ẩn khácLặp lại các cơn ngủ đột ngột (ngủ thiếp đi mà không báo trước)Gián đoạn giấc ngủ hoặc thức dậy mà thở hổn hển được bạn cùng giường ghi nhânTình trạng hô hấp hoặc tuần hoàn không ổn địnhĐột quỵ gần đâyTình trạng mất trương lực (mất trương lực liên tục)Tiền sử có các hình vi bạo lực hoặc gây thương tích cho bản thân hoặc người khác khi ngủMộng du thường xuyên hoặc hành vi khác ngoài giườngGiải thích các dấu hiệuKhi khai thác bệnh sử bệnh nhân thường vệ sinh giấc ngủ không phù hợp và bệnh nhân rất hay căng thẳng. Hội chứng ngủ không đủ là khi thời gian ngủ tăng lên (ví dụ, vào cuối tuần hoặc ngày nghỉ) thì sẽ không còn buồn ngủ quá mức ban ngày. Khi bệnh nhân có buồn ngủ quá mức ban ngày kèm theo mất trương lực, ảo giác mơ ngủ/mơ thức hoặc mất trương lực nên xem xét chẩn đoán ngủ rũ.Khó ngủ (mất ngủ do khởi phát) cần được phân biệt với khó khăn duy trì giấc ngủ và thức dậy sớm (mất ngủ do duy trì giấc ngủ).Mất ngủ khởi phát khi ngủ gợi ý đếnhội chứng giai đoạn ngủ muộn, mất ngủ mãn tính về tâm sinh lý,hội chứng chân không nghỉhoặc ám ảnh thời thơ ấu.Mất ngủ do duy trì giấc ngủ gợi ýtrầm cảm nặng,ngưng thở khi ngủ do trung ương,ngưng thở khi ngủ do tắc nghẽn,rối loạn chuyển động chân tay theo chu kỳhoặc lão hóa.Ngủ sớm và thức giấc sớm gợi ý đếnhội chứng pha ngủ đến sớm.Các bác sĩ nên nghi ngờ ngưng thở khi ngủ do tắc nghẽn ở bệnh nhân ngáy nhiều, thường xuyên thức giấc và có các yếu tố nguy cơ khác. Thang điểm STOP-BANG có thể giúp dự đoán nguy cơ ngừng thở khi ngủ tắc nghẽn (xem bảngThang điểm nguy cơ STOP-BANG về ngừng thở khi ngủ tắc nghẽn).BảngThang điểm nguy cơ STOP-BANG* dành về ngừng thở khi ngủ do tắc nghẽnBảngThang điểm nguy cơ STOP-BANG* dành về ngừng thở khi ngủ do tắc nghẽnThang điểm nguy cơ STOP-BANG* dành về ngừng thở khi ngủ do tắc nghẽnMục đánh giáDấu hiệuNgáyNgáy to (to hơn cả nói chuyện hoặc đủ lớn để nghe được qua cửa)Mệt mỏiThường mệt mỏi hoặc buồn ngủ vào ban ngàyQuan sátQuan sát thấy ngừng thở trong khi ngủBPHuyết áp cao hoặc đang điều trị tăng huyết ápBMI> 35 kg/m2Tuổi> 50 tuổiChu vi cổ (thường được đo ở đáy của quả táo Adam)> 40 cm (> 15 3/4 inch)GiớiNam* ≥ 3 hoặc 4 dấu hiệu = nguy cơ cao về OSA.< 3 dấu hiệu = nguy cơ thấp của OSA.BMI = chỉ số khối cơ thể; OSA = ngưng thở tắc nghẽn khi ngủ.* ≥ 3 hoặc 4 dấu hiệu = nguy cơ cao về OSA.< 3 dấu hiệu = nguy cơ thấp của OSA.BMI = chỉ số khối cơ thể; OSA = ngưng thở tắc nghẽn khi ngủ.Xét nghiệmCác kiểm tra về giấc ngủ thường được thực hiện khi các triệu chứng hoặc dấu hiệu cụ thể gợi ý ngưng thở khi ngủ do tắc nghẽn, co giật về đêm, chứng ngủ rũ, rối loạn cử động chân tay theo chu kỳ hoặc các rối loạn khác mà chẩn đoán dựa vào việc xác định các dấu hiệu trên đo đa ký giấc ngủ. Các xét nghiệm cũng được thực hiện khi nghi ngờ chẩn đoán lâm sàng hoặc khi đáp ứng với điều trị ban đầu không đầy đủ. Nếu các triệu chứng cơ năng và triệu chứng thực thể gợi ý rất rõ ràng các nguyên nhân nào đó (ví dụ: hội chứng chân không nghỉ, thói quen ngủ kém, căng thẳng thoáng qua, công việc theo ca kíp) thì không bắt buộc phải chỉ định các test.Đa ký giấc ngủđặc biệt quan trọng khi nghi ngờ bệnh nhân mắc các bệnh như ngừng thở khi ngủ, ngủ rũ, co giật ban đêm, rối loạn vận động chi có chu kỳ hoặc các rối loạn xảy ra trong giấc ngủ. Việc này cũng giúp các bác sĩ lâm sàng đánh giá các hành vi bạo lực và có khả năng gây tổn hại liên quan đến giấc ngủ (rối loạn hành vi REM). Đa ký giấc ngủ theo dõi hoạt động của não (thông qua điện não đồ), chuyển động mắt, nhịp tim, nhịp thở, bão hòa oxy, trương lực cơ và hoạt động trong thời gian ngủ. Ghi video có thể được sử dụng để xác định các chuyển động bất thường trong khi ngủ (1). Đo đa ký giấc ngủ thường được thực hiện trong phòng thí nghiệm về giấc ngủ; nghiên cứu về giấc ngủ tại nhà hiện nay thường được sử dụng để chẩn đoán chứng ngưng thở khi ngủ do tắc nghẽn, nhưng không phải là các rối loạn giấc ngủ khác (2).Kiểm tra giấc ngủ ngắn ban ngàyđánh giá tốc độ bắt đầu giấc ngủ trong 4 đến 5 cơ hội ngủ trưa ban ngày, cách nhau 2 giờ trong thời gian ban ngày thông thường của bệnh nhân. Bệnh nhân được yêu cầu nằm ngủ trong một căn phòng tối. Khởi phát và giai đoạn ngủ (bao gồm REM) được theo dõi bằng đa ký giấc ngủ để xác định mức độ buồn ngủ. Sử dụng test này là để chẩn đoán bệnh ngủ rũ.Vớiduy trì test kiểm tra sự tỉnh táo,bệnh nhân được yêu cầu ngồi trên giường hoặc ghế dựa trong một căn phòng yên tĩnh trong suốt 4 lần thức cách nhau 2 giờ.Bệnh nhân có chứng buồn ngủ quá mức ban ngày có thể cần làm xét nghiệm về chức năng thận, gan và tuyến giáp.Tài liệu tham khảo đánh giá1.Kushida CA, Littner MR, Morgenthaler T, et al: Practice parameters for polysomnography and procedures: An update for 2005.Sleep28(4):499-519.2.Rosen IM, Kirsch DB, Chervin RD, et al: Clinical use of a home sleep apnea test: An American Academy of Sleep Medicine Position Statement.J Clin Sleep Med13 (10):1205-1207, 2017 doi: 10.5664/jcsm.6774
+
+--- 4. Điều trị rối loạn lúc ngủ hoặc lúc thức dậy ---
+
+Điều trị theo tình trạng cụ thể. Phương pháp điều trị chính cho mất ngủ là liệu pháp nhận thức-hành vi (CBT) thay vì thuốc ngủ (1), nhưng CBT vẫn chưa được phổ biến rộng rãi trong điều trị rối loạn này.Vệ sinh giấc ngủ, điều này có vai trò quan trọng dù nguyên nhân là gì, là một phần của liệu pháp nhận thức-hành vi và thường là phương pháp điều trị duy nhất mà những bệnh nhân có vấn đề nhẹ cần đến.Liệu pháp nhận thức-hành viLiệu pháp nhận thức-hành vi cho chứng mất ngủ tập trung vào việc quản lý những suy nghĩ, lo lắng và hành vi gây trở ngại cho giấc ngủ. Nó thường được thực hiện trong 4 buổi đến 8 buổi cá nhân hoặc buổi theo nhóm và có thể được thực hiện trực tiếp, qua khám bệnh từ xa hoặc bằng kỹ thuật số. Hầu hết các nghiên cứu cho thấy rằng telehealth không thua kém so với CBT-I trực tiếp (2, 3). Tuy nhiên, bằng chứng về hiệu quả của CBT-I kỹ thuật số yếu hơn (4), mặc dù cần nhiều dữ liệu hơn để chứng minh điều này.Liệu pháp nhận thức-hành vi cho chứng mất ngủ bao gồm những điều sau đây:Giúp bệnh nhân cải thiệnvệ sinh giấc ngủ, đặc biệt là hạn chế thời gian trên giường, thiết lập lịch trình ngủ và kiểm soát các kích thíchDạy cho bệnh nhân về những ảnh hưởng của mất ngủ và giúp họ xác định những kỳ vọng không phù hợp về việc họ nên ngủ bao nhiêuDạy bệnh nhân kỹ thuật thư giãnSử dụng các kỹ thuật trị liệu nhận thức khác nếu cầnHạn chế thời gian nằm trên giường nhằm hạn chế thời gian bệnh nhân nằm trên giường cố gắng ngủ không thành công. Ban đầu, thời gian trên giường giới hạn trong tổng thời gian ngủ trung bình hàng đêm, nhưng không phải là < 5,5 giờ. Bệnh nhân được yêu cầu ra khỏi giường vào buổi sáng vào một thời điểm cố định, sau đó tính toán thời gian đi ngủ dựa trên tổng thời gian ngủ và thức cho đến thời điểm đó (gọi là liệu pháp hạn chế giấc ngủ). Sau một tuần, cách tiếp cận này thường cải thiện chất lượng giấc ngủ. Sau đó, thời gian nằm trên giường có thể tăng lên bằng cách dần dần làm cho thời gian đi ngủ sớm hơn, miễn là thức dậy vào giữa đêm.BảngVệ sinh giấc ngủBảngVệ sinh giấc ngủVệ sinh giấc ngủBiện phápThực hiệnLịch ngủ/thứcThời gian đi ngủ và đặc biệt là thời gian thức dậy phải như nhau mỗi ngày, kể cả cuối tuần. Bệnh nhân không nên dành nhiều thời gian trên giường.Sử dụng giường phù hợpHạn chế thời gian trên giường cải thiện sự liên tục của giấc ngủ. Nếu không thể ngủ được trong vòng 20 phút, bệnh nhân nên ra khỏi giường và trở lại khi buồn ngủ. Không nên sử dụng giường cho các hoạt động khác ngoài giấc ngủ hoặc tình dục (ví dụ: không để đọc, ăn, xem tivi, xem email, làm việc trên máy tính hoặc thanh toán hóa đơn).Tránh ngủ trưa, ngoại trừ người làm việc theo ca và bệnh nhân ngủ rũNgủ trưa có thể làm trầm trọng khó ngủ ở bệnh nhân mất ngủ. Tuy nhiên, ngủ trưa làm giảm sự cần thiết của chất kích thích ở bệnh nhân ngủ rũ và cải thiện hoạt động của người lao động theo ca. Ngủ ngắn nên vào các khoảng thời gian giống nhau mỗi ngày và giới hạn trong vòng 30 phút.Thói quen thường xuyên trước khi đi ngủMột mô hình hoạt động-đánh răng, tắm, đặt đồng hồ báo thức-có thể tạo cảm xúc cho giấc ngủ. Nên tránh đèn sáng và đèn xanh (ví dụ: điện thoại, tivi, màn hình máy tính) trước khi đi ngủ và trong khi thức dậy về đêm.Môi trường ngủ thoải máiPhòng ngủ nên tối, yên tĩnh và mát mẻ; chỉ nên sử dụng cho ngủ và hoạt động tình dục. Loại bỏ ánh sáng bằng rèm cửa hoặc mặt nạ ngủ, loại bỏ tiếng ồn bằng nút tai, quạt, hoặc thiết bị tránh tiếng ồn.GốiGối giữa đầu gối hoặc dưới thắt lưng có thể làm tăng sự thoải mái. Đối với bệnh nhân có vấn đề về lưng, các tư thế hữu ích bao gồm nằm ngửa với gối lớn dưới đầu gối và ngủ một bên với gối giữa đầu gối.Tập thể dục đều đặnTập thể dục thúc đẩy giấc ngủ và giảm căng thẳng, nhưng nếu tập vào buổi tối muộn, việc này có thể kích thích hệ thần kinh và cản trở giấc ngủ.Thư giãnCăng thẳng và lo lắng ảnh hưởng đến giấc ngủ. Đọc sách hoặc tắm trước khi đi ngủ có thể giúp thư giãn. Có thể được sử dụng các kỹ thuật như hình ảnh thị giác, thư giãn cơ bắp và các bài tập thở. Bệnh nhân không nên theo dõi đồng hồ.Tránh các chất kích thích và thuốc lợi tiểuNên tránh uống đồ uống có cồn hoặc có caffein, hút thuốc, ăn thực phẩm có caffein (ví dụ: sô cô la) và dùng thuốc ức chế sự thèm ăn hoặc thuốc lợi tiểu, đặc biệt là gần giờ đi ngủ.Tiếp xúc với ánh sáng quá chói khi thức dậyTiếp xúc ánh sáng nhẹ trong ngày có thể giúp khắc phục nhịp sinh học, nhưng nếu tiếp xúc với ánh sáng quá gần giường ngủ, nó có thể gây trở ngại cho giấc ngủ. Không nên sử dụng các thiết bị có ánh sáng xanh trước khi đi ngủ vài giờ.Thuốc gây ngủHướng dẫn chung về việc sử dụng thuốc ngủ (xem bảngHướng dẫn chung về sử dụng thuốc ngủ)nhằm mục đích giảm thiểu lạm dụng và gây nghiện.BảngHướng dẫn sử dụng thuốc ngủBảngHướng dẫn sử dụng thuốc ngủHướng dẫn sử dụng thuốc ngủXác định chỉ định rõ ràng và mục tiêu điều trị.Kê liều thấp nhất hiệu quả.Tùy loại thuốc ngủ và bệnh nhân cụ thể, thời hạn sử dụng trong vài tuần.Cá thể hoá liều cho mỗi bệnh nhân.Sử dụng liều thấp hơn ở bệnh nhân cũng dùng thuốc ức chế thần kinh trung ương, ở người cao tuổi và ở những bệnh nhân có bệnh lý về gan hoặc thận.Tránh* nếu bệnh nhân bị ngưng thở khi ngủ hoặc bệnh lý hô hấp hoặc có tiền sử lạm dụng thuốc an thần, nếu họ uống rượu hoặc nếu họ đang mang thai.Đối với những bệnh nhân cần điều trị lâu dài, hãy cân nhắc điều trị ngắt quãng.Tránh ngừng thuốc ngủ đột ngột nếu có thể (tức là giảm dần thuốc ngủ).Đánh giá lại việc điều trị bằng thuốc ngủ thường xuyên; đánh giá hiệu quả và biến cố bất lợi.* Ramelteon là một ngoại lệ; nó có thể được dùng cho bệnh nhân có chứng ngưng thở khi ngủ tắc nghẽn ở mức độ vừa phải hoặc bệnh phổi tắc nghẽn mạn tính (COPD) hoặc có tiền sử lạm dụng thuốc an thần. Doxepin liều thấp cũng không gây lạm dụng.* Ramelteon là một ngoại lệ; nó có thể được dùng cho bệnh nhân có chứng ngưng thở khi ngủ tắc nghẽn ở mức độ vừa phải hoặc bệnh phổi tắc nghẽn mạn tính (COPD) hoặc có tiền sử lạm dụng thuốc an thần. Doxepin liều thấp cũng không gây lạm dụng.Đối với thuốc ngủ được sử dụng phổ biến, xem bảngThuốc ngủ đường uống Thường Dùng. Tất cả các thuốc ngủ (ngoại trừ ramelteon, doxepin liều thấp và thuốc đối kháng thụ thể orexin) đều có tác dụng tại vị trí nhận biết benzodiazepine trên thụ thểgamma-aminobutyric (GABA) và làm tăng tác dụng ức chế của GABA.Các thuốc ngủ khác nhau chủ yếu ở thời gian bán thải và khởi đầu tác dụng. Các loại thuốc có thời gian bán hủy ngắn được sử dụng để điều trị chứng mất ngủ khởi phát khi ngủ. Các loại thuốc có thời gian bán hủy dài hơn rất hữu ích cho cả tình trạng khó bắt đầu giấc ngủ và khó duy trì giấc ngủ, hoặc, trong trường hợp doxepin liều thấp, chủ yếu là dành cho tình trạng khó duy trì giấc ngủ. Một số loại thuốc ngủ (ví dụ: nhóm benzodiazepin cũ) có khả năng cao hơn trong việc gây tác dụng kéo dài vào ban ngày, đặc biệt là sau khi sử dụng kéo dài và/hoặc ở người cao tuổi. Các loại thuốc mới hơn với thời gian tác dụng rất ngắn (ví dụ: zolpidem ngậm dưới lưỡi liều thấp) có thể được dùng vào giữa đêm, khi thức giấc về đêm, miễn là bệnh nhân nằm trên giường trong ít nhất 4 giờ sau khi sử dụng. Ambien có thể có các tác dụng phụ nghiêm trọng bao gồm nguy cơ bị ngã, suy giảm trí nhớ và các hành vi ngủ phức tạp (ngủ khi đi bộ, ngủ khi lái xe và ngủ khi nhắn tin).Những bệnh nhân bị buồn ngủ ban ngày, mất phối hợp hoặc các tác dụng ban ngày khác cần phải tránh các hoạt động đòi hỏi sự tỉnh táo (ví dụ: lái xe) và nên giảm liều, ngừng thuốc hoặc sử dụng một loại thuốc khác nếu cần. Các tác dụng phụ khác bao gồm chứng mất trí, ảo giác, mất phối hợp và ngã. Ngã là một nguy cơ đáng kể với tất cả thuốc ngủ.Khi ngừng sử dụng thuốc benzodiazepin, nên giảm dần liều lượng và không được dừng đột ngột.BảngSử dụng thuốc ngủ đường uốngBảngSử dụng thuốc ngủ đường uốngSử dụng thuốc ngủ đường uốngThuốcThời gian bán hủy* (giờ)Bình luậnCác thuốc chủ vận thụ thể benzodiazepine: Nhóm benzodiazepineTriazolam1,5−5,5Có thể gây quên trước tuổi; khả năng dung nạp và phục hồi cao sau khi sử dụng lặp đi lặp lạiTemazepam9,5–12,4Thời gian tiềm tàng dài nhất gây khởi phát giấc ngủEstazolam10–24Hiệu quả cho việc kích thích và duy trì giấc ngủQuazepam39–100Khả năng gắn lipid cao, có thể giảm tác dụng an thần lại trong 7-10 ngày đầu sử dụng liên tụcFlurazepam47–100Nguy cơ cao về thuốc an thần tồn dư vào ngày hôm sau; không nên dùng cho người cao tuổiCác thuốc chủ vận thụ thể benzodiazepine: NonbenzodiazepineZaleplon1Tác dụng rất nhanh; có thể được dùng cho khó vào giấc ngủ hoặc sau khi thức giấc ban đêm (nếu bệnh nhân có thể nằm ít nhất 4 giờ trên giường sau khi dùng thuốc)Khi sử dụng vào giờ đi ngủ bình thường, ít còn sót lại tác dụng của thuốcZolpidem, viên nén2,5Chỉ có hiệu quả đối với bệnh khó vào giấc ngủZolpidem xịt miệng2,7Dùng cho mất ngủ do khó vào giấc ngủ; bắt đầu tác dụng nhanh chóngZolpidem, phóng thích kéo dài2,8Có hiệu quả đối với bệnh khó vào giấc ngủ hoặc khó duy trì giấc ngủ, không dung nạp với liều trên 6 tháng sử dụng 3 đến 7 đêm/tuầnZolpidem, dưới lưỡi2,9Khởi đầu nhanh hơn Zolpidem dạng viênCác liều cao hơn được sử dụng cho khó vào giấc ngủ.Liều thấp hơn dùng cho bệnh nhân bị thức sớm (không nên dùng trừ khi bệnh nhân có thể nằm ít nhất 4 giờ trên giường sau khi dùng thuốc)Eszopiclone6Có hiệu quả đối với bệnh khó vào giấc ngủ và khó duy trì giấc ngủ; không dung nạp với tối đa 6 tháng khi sử dụng hàng đêmCác chất chủ vận thụ thể melatoninTasimelteon0,9-1,7Có thể tăng thời gian ngủ vào ban đêm và giảm thời gian ngủ ban ngày ở những bệnh nhân mù hoàn toàn mắc hội chứng ngủ không thức 24 giờCó thể gây đau đầu và giấc mơ bất thường hoặc ác mộng (tác dụng phụ thường gặp nhất); không có trách nhiệm pháp lýRamelteon1–5Chỉ có ích cho khó vào giấc ngủ; một trong vài loại thuốc ngủ không liên quan đến khả năng lam dụng thuốcCó thể được an toàn cho bệnh nhân có bệnh ngưng thở khi ngủ tắc nghẽn ở mức độ nhẹ đến vừa hoặc bệnh phổi tắc nghẽn mạn tính (COPD)Không gặp khó khăn khi sử dụng lâu dàiThuốc đối kháng thụ thể OrexinDaridorexantKhoảng 8Được sử dụng cho mất ngủ do khó đi vào giấc ngủ và/hoặc mất ngủ do khó duy trì giấc ngủCó thể gây đau đầu, buồn ngủ, mệt mỏi (phổ biến nhất) và ý định tự tử, trầm cảm nặng hơn, liệt khi ngủ và các hành vi phức tạp liên quan đến giấc ngủ (ví dụ: mộng du, lái xe khi ngủ)Lemborexant17 (với 5 mg)19 (với 10 mg)Được sử dụng cho mất ngủ do khó đi vào giấc ngủ và/hoặc mất ngủ do khó duy trì giấc ngủCó thể gây buồn ngủ (phổ biến nhất) và ý định tự tử, trầm cảm nặng hơn, liệt khi ngủ và các hành vi phức tạp liên quan đến giấc ngủ (ví dụ: mộng du, lái xe khi ngủ)Chống chỉ định ở bệnh nhân bị chứng ngủ rũSuvorexant12Hữu ích cho mất ngủ do khó đi vào giấc ngủ và mất ngủ do khó duy trì giấc ngủSử dụng liều thấp nhất có hiệu quả; Có thể tăng lên tối đa 20 mg x 1 lần/ngày nếu liều 10 mg được dung nạp tốt nhưng không hiệu quảThuốc chống trầm cảm ba vòngDoxepin, liều cực thấp15,3Chỉ định cho mất ngủ do duy trì; không có khả năng lạm dụng* Bao gồm tiền chất và chất chuyển hóa hoạt tính. Sắp xếp theo thứ tự từ chu kỳ bán rã ngắn nhất đến lâu nhất.† Liều được dùng trước khi đi ngủ.* Bao gồm tiền chất và chất chuyển hóa hoạt tính. Sắp xếp theo thứ tự từ chu kỳ bán rã ngắn nhất đến lâu nhất.† Liều được dùng trước khi đi ngủ.Ba thuốc đối kháng thụ thể orexin kép (daridorexant, lemborexant, suvorexant) có thể được sử dụng để điều trị mất ngủ do khó đi vào giấc ngủ và mất ngủ do khó duy trì giấc ngủ. Các thuốc này ngăn chặn các thụ thể orexin trong não, do đó ngăn chặn các tín hiệu đánh thức do orexin gây ra và cho phép bắt đầu giấc ngủ. Các thuốc đối kháng thụ thể orexin kép ngăn chặn các thụ thể orexin-1 và -2. Thụ thể orexin-1 có liên quan đến việc ngăn chặn sự bắt đầu của giấc ngủ chuyển động mắt nhanh (REM); thụ thể orexin-2 có liên quan đến việc ngăn chặn sự khởi đầu của giấc ngủ không phải REM và ở một mức độ nào đó, trong việc kiểm soát giấc ngủ REM. Tuy nhiên, cơ chế tác dụng của các thuốc đối kháng thụ thể orexin kép vẫn chưa được hiểu rõ. Thuốc được sử dụng để điều trị chứng khó bắt đầu giấc ngủ và/hoặc khó duy trì giấc ngủ và có thể cải thiện hiệu suất nhận thức ở bệnh nhân suy giảm nhận thức nhẹ hoặc bệnh Alzheimer (5).Daridorexant được dùng mỗi ngày một lần trong vòng 30 phút sau khi đi ngủ (có thời gian bán hủy ngắn nhất [8 giờ] trong số các thuốc đối kháng thụ thể oxexin kép)Dùng lemborexant mỗi ngày một lần trong vòng 30 phút trước khi đi ngủ (có thể tăng liều dựa trên đáp ứng và khả năng dung nạp của bệnh nhân)Dùng suvorexant không quá một lần mỗi đêm và uống trong vòng 30 phút trước khi đi ngủ, ít nhất 7 giờ trước thời gian thức dậy theo kế hoạch (buồn ngủ là tác dụng bất lợi phổ biến nhất)Doxepin liều thấp (3 mg, 6 mg), thuốc chống trầm cảm ba vòng có hoạt tính kháng histamine, cũng được chỉ định để điều trị tình trạng khó duy trì giấc ngủ. Doxepin chưa được so sánh trực tiếp với các thuốc ngủ khác, nhưng một phân tích nguy cơ so với lợi ích cho thấy thuốc này có hồ sơ thuận lợi nhất khi so sánh gián tiếp với các thuốc ngủ khác (6). Doxepin có khả năng là liệu pháp bước một tốt nhất (6).Thuốc ngủ nên được sử dụng thận trọng ở bệnh nhân suy hô hấp. Ở người cao tuổi, bất kỳ loại thuốc ngủ, ngay cả ở liều lượng nhỏ, có thể gây ra sự bồn chồn, kích động, ngã hoặc khởi phát cơn mê sảng và chứng sa sút trí tuệ. Hiếm khi, thuốc ngủ có thể gây ra các hành vi phức tạp liên quan đến giấc ngủ, chẳng hạn như mộng du và thậm chí ngủ khi lái xe; sử dụng các liều cao hơn mức khuyến cáo và dùng đồng thời các đồ uống có cồn có thể làm tăng nguy cơ hành vi như trên. Hiếm khi xảy ra phản ứng dị ứng nghiêm trọng.Sử dụng kéo dàithuốc thôi miênthường không được khuyến khích bởi vì có thể tiến triển sự dung nạp và bởi vì khi dừng đột ngột có thể gây ra mất ngủ hoặc thậm chí lo lắng, run và co giật. Những tác dụng này phổ biến hơn với các thuốc benzodiazepine (đặc biệt là triazolam) và ít phổ biến hơn với nonbenzodiazepine. Có thể giảm thiểu những khó khăn bằng cách sử dụng liều thấp nhất có hiệu quả trong thời gian ngắn và giảm liều trước khi ngừng thuốc (xem thêmCai thuốc và giải độc).Các loại thuốc và chất kích thích khác được sử dụng để điều trị mất ngủNhiều loại thuốc và chất kích thích không được chỉ định cụ thể trong điều trị mất ngủ được sử dụng để tạo ra và duy trì giấc ngủ.Một số thuốc chống trầm cảm(trừ doxepin liều thấp) dùng liều thấp trước khi đi ngủ (ví dụ: paroxetine 5 mg đến 20 mg, trazodone 50 mg, tripipramine 75 mg đến 200 mg) có thể cải thiện giấc ngủ vì tác dụng phụ là an thần của các thuốc này. Tuy nhiên, việc sử dụng các thuốc này ở liều thấp này nên được giới hạn khi thuốc ngủ tiêu chuẩn không được dung nạp (hiếm gặp) hoặc ở liều cao hơn (thuốc chống trầm cảm) khi có trầm cảm.Melatoninlà một hoocmon được tiết ra bởi tuyến tùng (và có tự nhiên trong một số thực phẩm). Melatonin được kích thích tiết bởi bóng tối và ức chế tiết bởi ánh sáng. Bằng cách gắn kết với các thụ thể của melatonin trong nhân suprachiasmatic, melatonin là chất trung gian các nhịp sinh học, đặc biệt là khi bắt đầu giấc ngủ sinh lý.Melatonin đường uống (điển hình là từ 0,5 đến 5 mg trước khi đi ngủ) có thể có hiệu quả đối với các vấn đề về giấc ngủ do hội chứng giai đoạn ngủ bị trì hoãn. Khi được sử dụng để điều trị bệnh lý này, cần phải dùng thuốc vào thời điểm thích hợp (vài giờ trước khi tăng lượng melatonin nội sinh vào buổi tối – đầu buổi tối cho hầu hết mọi người, thường là từ 3 đến 5 tiếng trước giờ đi ngủ) và với liều thấp từ 0,5 đến 1 mg; nếu uống sai giờ nó có thể làm trầm trọng thêm vấn đề về giấc ngủ. Có các chế phẩm giải phóng chậm của melatonin nhưng không rõ liệu các chế phẩm này có hiệu quả hơn các phiên bản giải phóng bình thường hay không.Đối với những hình thức mất ngủ khác, hiệu quả của melatonin hầu như không được kiểm chứng.Melatonin có thể gây nhức đầu, chóng mặt, buồn nôn và buồn ngủ. Tuy nhiên, sau khi sử dụng rộng rãi, không có tác dụng bất lợi đáng lo ngại nào khác được báo cáo. Các chế phẩm sẵn có của melatonin không được kiểm soát, do đó không thể đảm bảo được hàm lượng và độ tinh khiết và những ảnh hưởng của việc sử dụng lâu dài vẫn chưa được biết.Thuốc kháng histamine không kê đơn (OTC)(ví dụ: doxylamine, diphenhydramine) có thể gây ngủ nhưngkhôngnên dùng để điều trị mất ngủ. Không thể đoán trước hiệu và các thuốc này có thời gian bán hủy dài và có tác dụng bất lợi như là an thần ban ngày, lú lẫn, bí tiểu và các tác dụng kháng cholinergic toàn thân khác, đặc biệt đáng lo ngại ở người cao tuổi.Cũngkhôngnên sử dụngrượuđể giúp dễ ngủ vì rượu tạo ra giấc ngủ không sảng khoái, bị xáo trộn với việc thức giấc thường xuyên về đêm, thường làm tăng cảm giác buồn ngủ vào ban ngày. Rượu có thể làm suy giảm hô hấp trong khi ngủ ở bệnh nhân bị chứng ngưng thở khi ngủ tắc nghẽn và các bệnh khác ở phổi như bệnh phổi tắc nghẽn mạn tĩnh (COPD).Cannabinoidbao gồm những thứ sau:Dầu CBD (cannabidiol), gây an thần và giảm độ trễ của giấc ngủ nhưng không gây khoan khoáiCBN (cannabinol), gây an thần, giảm đau và tăng cảm giác thèm ănTHC (tetrahydrocannabinol), gây khoan khoái, giảm đau và giảm buồn nôn và có tác dụng khác nhau đối với các giai đoạn của giấc ngủDronabinol, là một chất tương tự tổng hợpCho dù cần sa có hiệu quả đối với chứng mất ngủ hay không thì vẫn chưa rõ ràng, nhưng nó rất hữu ích cho những cơn đau mãn tính.Sự dung nạp có thể phát triển; ngừng sử dụng cần sa sau khi sử dụng lâu dài dẫn đến mất ngủ.Tài liệu tham khảo về điều trị1.Qaseem A, Kansagara D, Forciea MA, C et al: Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians.Ann Intern Med165(2):125-133, 2016 doi: 10.7326/M15-21752.Arnedt JT, Conroy DA, Mooney A, et al: Telemedicine versus face-to-face delivery of cognitive behavioral therapy for insomnia: a randomized controlled noninferiority trial.Sleep44(1):zsaa136, 2021 doi: 10.1093/sleep/zsaa1363.Gehrman P, Gunter P, Findley J, et al: Randomized noninferiority trial of telehealth delivery of cognitive behavioral treatment of insomnia compared to in-person care.J Clin Psychiatry82(5):20m13723, 2021 doi: 10.4088/JCP.20m137234.Bullock G, Johnson GS, Pattridge SG, et al: A homozygous MAN2B1 missense mutation in a Doberman Pinscher dog with neurodegeneration, cytoplasmic vacuoles, autofluorescent storage granules, and an α-mannosidase deficiency.Genes (Basel)14(9):1746, 2023 doi: 10.3390/genes140917465.Zhou M, Tang S: Effect of a dual orexin receptor antagonist on Alzheimer's disease: Sleep disorders and cognition.Front Med (Lausanne)9:984227, 2023 doi: 10.3389/fmed.2022.9842276.Cheung JMY, Scott H, Muench A, et al: Comparative short-term safety and efficacy of hypnotics: A quantitative risk-benefit analysis.J Sleep Rese14088, 2023 doi: 10.1111/jsr.14088
+
+--- 5. Những điểm chính ---
+
+Vệ sinh giấc ngủ không hợp lý và các vấn đề phát sinh (ví dụ, làm việc ca, căng thẳng cảm xúc) là những nguyên nhân phổ biến gây mất ngủ.Xem xét các nguyên nhân có thể như bệnh khác (ví dụ hội chứng ngưng thở khi ngủ, bệnh lý gây đau) và bệnh lý tâm thần (ví dụ rối loạn cảm xúc).Thông thường, khi nghi ngờ hội chứng ngưng thở khi ngủ, rối loạn vận động chân tay có chu kỳ hoặc bệnh lý về giấc ngủ khác, khi chẩn đoán lâm sàng nghi ngờ hoặc khi đáp ứng với điều trị ban đầu ban đầu là không đầy đủ xem xét chỉ định các thăm dò về giấc ngủ (ví dụ đa kí giấc ngủ).Vệ sinh giấc ngủ tốt, đôi khi là một phần của liệu pháp nhận thức-hành vi, là điều trị đầu tiên.Use hypnotics and sedatives with caution, especially in older adults.

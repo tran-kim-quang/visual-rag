@@ -1,0 +1,951 @@
+TIÊU ĐỀ: Giảm bạch cầu trung tính
+URL: https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/giảm-bạch-cầu/giảm-bạch-cầu-trung-tính
+================================================================================
+
+NỘI DUNG:
+
+Giảm bạch cầu trung tính
+
+(không có bạch cầu hạt, giảm bạch cầu hạt)
+
+Theo
+
+David C. Dale
+
+,
+
+MD
+
+,
+
+University of Washington
+
+Xem xét bởi
+
+Jerry L. Spivak
+
+,
+
+MD; MACP
+
+,
+
+, Johns Hopkins University School of Medicine
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2025
+
+v970554_vi
+
+Giảm bạch cầu trung tính là sự giảm số lượng bạch cầu trung tính. Nếu giảm nghiêm trọng, nguy cơ và mức độ nghiêm trọng của nhiễm khuẩn và nấm tăng lên. Các triệu chứng nhiễm trùng khu trú có thể thầm lặng, nhưng có sốt trong hầu hết các nhiễm trùng nghiêm trọng. Chẩn đoán bằng số lượng bạch cầu với số lượng khác biệt và việc đánh giá yêu cầu xác định nguyên nhân. Nếu có sốt khả năng do nhiễm trùng cần phải dùng kháng sinh phổ rộng thời gian theo kinh nghiệm, đặc biệt nếu bạch cầu trung tính giảm trầm trọng. Điều trị bằng yếu tố kích thích cụm bạch cầu hạt được sử dụng để kích thích quá trình sản sinh bạch cầu trung tính và ngăn ngừa nhiễm khuẩn sau hóa trị liệu ung thư và giảm bạch cầu trung tính mạn tính nặng.
+
+Căn nguyên
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Bạch cầu trung tính
+
+là cơ chế phòng vệ chính của cơ thể chống lại
+
+nhiễm khuẩn
+
+và
+
+nhiễm nấm
+
+. Khi có giảm bạch cầu trung tính, phản ứng viêm đối với các bệnh nhiễm trùng như vậy bị giảm sút.
+
+Giới hạn dưới của giá trị bình thường của số lượng bạch cầu trung tính (tổng số lượng bạch cầu
+
+×
+
+% bạch cầu trung tính và các dải) là 1500/mcL (1,5
+
+×
+
+10
+
+9
+
+/L) ở bệnh nhân da trắng và thấp hơn một chút ở bệnh nhân da đen (khoảng 1200/mcL [1,2
+
+×
+
+10
+
+9
+
+/L). Số lượng bạch cầu trung tính không ổn định như số lượng tế bào khác và có thể thay đổi đáng kể trong thời gian ngắn, tùy thuộc vào nhiều yếu tố như tình trạng hoạt động, lo lắng, nhiễm trùng và thuốc đã dùng. Do đó, một số phép đo có thể cần thiết khi xác định mức độ trầm trọng của giảm bạch cầu trung tính.
+
+Mức độ trầm trọng của giảm bạch cầu trung tính
+
+liên quan đến nguy cơ nhiễm trùng và được phân loại như sau:
+
+Nhẹ: 1000 đến 1500/mcL (1 đến 1,5
+
+×
+
+10
+
+9
+
+/L)
+
+Trung bình: 500 đến 1000/mcL (0,5 đến 1 × 10
+
+9
+
+/L)
+
+Nặng:
+
+<
+
+500/mcL (0,5 × 10
+
+9
+
+/L)
+
+Khi lượng bạch cầu trung tính rơi xuống
+
+<
+
+500/mcL, hệ thực vật vi khuẩn nội sinh (ví dụ trong miệng hoặc ruột) có thể gây nhiễm trùng. Nếu số lượng giảm thành
+
+<
+
+200/mcL (< 0,2 × 10
+
+9
+
+/L), phản ứng viêm có thể bị tắt và các dấu hiệu viêm thông thường như tăng bạch cầu hoặc bạch cầu trong nước tiểu hoặc tại vị trí nhiễm trùng có thể không xảy ra. Giảm bạch cầu trung tính cấp tính, trầm trọng, đặc biệt nếu có một yếu tố khác (ví dụ như ung thư), làm suy yếu đáng kể hệ miễn dịch và có thể dẫn đến nhiễm trùng gây tử vong nhanh chóng. Sự toàn vẹn của da và màng nhầy, sự cung cấp mạch máu cho mô, và tình trạng dinh dưỡng của bệnh nhân cũng ảnh hưởng đến nguy cơ nhiễm trùng.
+
+Các
+
+nhiễm trùng thường xảy ra nhất
+
+ở những bệnh nhân suy giảm bạch cầu trung tính là
+
+Viêm mô tế bào
+
+Nhọt đầu đinh
+
+Viêm phổi
+
+Nhiễm khuẩn huyết
+
+Viêm xoang
+
+Đặt Catheter tĩnh mạch và các vị trí tiêm truyền khác có nguy cơ cao gây nhiễm trùng da; các nguyên nhân gây bệnh phổ biến nhất là liên cầu không ly giải đông máu và (
+
+Staphylococcus aureus
+
+) tụ cầu vàng, nhưng các nhiễm khuẩn Gram dương và Gram âm khác cũng xảy ra.
+
+Viêm miệng
+
+,
+
+viêm nướu
+
+, viêm quanh trực tràng, viêm đại tràng,
+
+viêm quanh móng
+
+và
+
+viêm tai giữa
+
+thường xảy ra. Bệnh nhân bị giảm bạch cầu trung tính kéo dài sau khi ghép tế bào gốc tạo máu hoặc hóa trị liệu và bệnh nhân dùng kháng sinh phổ rộng và liều cao corticosteroid dễ bị nhiễm nấm.
+
+Công cụ tính toán lâm sàng
+
+Đếm số lượng tuyệt đối bạch cầu đa nhân trung tính
+
+Nguyên nhân của chứng giảm bạch cầu trung tính
+
+Giảm bạch cầu trung tính cấp tính
+
+(xảy ra từ vài giờ đến vài ngày) có thể phát triển do
+
+Sử dụng hoặc phá hủy nhanh bạch cầu trung tính
+
+Quá trình sản sinh bạch cầu trung tính bị suy giảm
+
+Giảm bạch cầu trung tính mạn tính
+
+(kéo dài hàng tháng đến nhiều năm) thường xuất hiện
+
+Giảm sản xuất
+
+Cường lách quá mức
+
+Giảm bạch cầu trung tính cũng có thể được phân loại là
+
+Nguyên phát do khiếm khuyết nội tại trong tế bào tủy sống
+
+Thứ phát do các yếu tố bên ngoài tế bào tủy sống
+
+Xem thêm bảng
+
+Phân loại Giảm bạch cầu trung tính
+
+.
+
+Bảng
+
+Phân loại Giảm bạch cầu trung tính
+
+Bảng
+
+Phân loại Giảm bạch cầu trung tính
+
+Phân loại Giảm bạch cầu trung tính
+
+Phân loại
+
+Căn nguyên
+
+Giảm bạch cầu trung tính do các khiếm khuyết nội tại trong tế bào tủy hoặc tiền thân của chúng
+
+Giảm bạch cầu trung tính vô căn mạn tính
+
+Giảm bạch cầu trung tính bẩm sinh nặng (bao gồm hội chứng Kostmann)
+
+Giảm bạch cầu trung tính chu kỳ
+
+Thiếu máu bất sản
+
+Rối loạn sinh tủy
+
+Giảm bạch cầu trung tính không liên quan đến rối loạn gammaglobulin máu
+
+Đái huyết sắc tố kịch phát ban đêm
+
+Các hội chứng có liên quan đến giảm bạch cầu trung tính (ví dụ hội giảm sinh sụn-tóc, rối loạn sừng bẩm sinh, bệnh dự trữ glycogen loại IB, hội chứng WHIM*, hội chứng Shwachman-Diamond)
+
+Giảm bạch cầu trung tính thứ phát
+
+Giảm bạch cầu trung tính do thuốc
+
+Độc tính do hóa trị liệu hoặc xạ trị
+
+Tình trạng rối loạn do sử dụng rượu
+
+Nhiễm trùng
+
+Giảm bạch cầu tự miễn, bao gồm giảm bạch cầu thứ phát mạn tính ở
+
+HIV giai đoạn cuối
+
+Thay thế các tế bào trong tủy xương (ví dụ, do ung thư, bệnh xơ tủy, u hạt hoặc tế bào Gaucher)
+
+Thiếu Folate
+
+,
+
+thiếu vitamin B12
+
+, hoặc suy dinh dưỡng nặng
+
+Cường lách
+
+Bệnh lympho tế bào T lớn
+
+* WHIM = warts, giảm gammaglobulin máu, nhiễm trùng, myelokathexis.
+
+* WHIM = warts, giảm gammaglobulin máu, nhiễm trùng, myelokathexis.
+
+Giảm bạch cầu trung tính gây ra bởi các khiếm khuyết nội tại trong tế bào tủy hoặc tiền thân của chúng
+
+Giảm bạch cầu trung tính do khiếm khuyết nội tại trong tế bào tủy hoặc tiền thân của tế bào tủy là không phổ biến (
+
+1
+
+). Khi có,
+
+các nguyên nhân phổ biến nhất
+
+bao gồm
+
+Giảm bạch cầu trung tính vô căn mạn tính
+
+Giảm bạch cầu trung tính bẩm sinh
+
+Giảm bạch cầu trung tính vô căn mạn tính
+
+là một thể giảm bạch cầu trung tính mạn tính trong đó phần còn lại của hệ thống miễn dịch dường như vẫn còn nguyên vẹn. Ngay cả khi số lượng bạch cầu trung tính
+
+<
+
+200/mcL (< 0,2 × 10
+
+9
+
+/L), nhiễm trùng nặng cũng hiếm khi xảy ra, có thể là do bạch cầu trung tính được sản sinh với số lượng đủ để đáp ứng với nhiễm trùng. Bệnh này phổ biến hơn nhiều ở nữ giới.
+
+Giảm bạch cầu trung tính bẩm sinh nặng
+
+(SCN) là một nhóm các bệnh lý hiếm gặp không đồng nhất, đặc trưng bởi tình trạng ngừng trưởng thành của tủy ở giai đoạn tiền tủy bào trong tủy xương, dẫn đến số lượng bạch cầu trung tính tuyệt đối
+
+<
+
+200/mcL (< 0,2 × 10
+
+9
+
+/L) và nhiễm trùng đáng kể bắt đầu từ thời thơ ấu (
+
+2
+
+). Giảm bạch cầu trung tính bẩm sinh nặng thường được di truyền theo kiểu gen trội nhưng có thể là gen lặn trên nhiễm sắc thể thường, liên kết nhiễm sắc thể X hoặc lẻ tẻ.
+
+Một số bất thường về gen gây ra tình trạng giảm bạch cầu trung tính bẩm sinh nặng đã được xác định, bao gồm các đột biến ảnh hưởng đến elastase bạch cầu trung tính (
+
+ELANE
+
+),
+
+CLPB
+
+,
+
+HAX1
+
+và
+
+GFI1
+
+. Các đột biến
+
+CSF3R
+
+bị mắc phải trong quá trình tiến triển thành bệnh loạn sản tủy và rất hiếm khi là nguyên nhân gây ra bệnh giảm bạch cầu trung tính bẩm sinh. Hầu như tất cả các bệnh nhân bị giảm bạch cầu trung tính bẩm sinh nghiêm trọng sẽ đáp ứng với liệu pháp G-CSF, nhưng có thể cần
+
+ghép tế bào gốc tạo máu
+
+cho những bệnh nhân đáp ứng kém với G-CSF và những người mắc
+
+chứng loạn sản tủy
+
+hoặc
+
+bệnh bạch cầu tủy cấp tính
+
+.
+
+Giảm bạch cầu trung tính theo chu kỳ
+
+là một bệnh tạo bạch cầu hạt bẩm sinh hiếm gặp, thường di truyền theo kiểu gen trội trên nhiễm sắc thể thường và do đột biến gen elastase bạch cầu trung tính (
+
+ELANE
+
+) gây ra, dẫn đến cơ chế gây chết tế bào theo chương trình của các tế bào tiền thân dòng tủy. Nó được đặc trưng bởi các dao động định kỳ đều đặn số lượng bạch cầu trung tính ngoại vi. Chu kỳ dao động trung bình là 21
+
+±
+
+3 ngày. vòng lặp của các tế bào máu khác cũng là bằng chứng trong hầu hết các trường hợp.
+
+Giảm bạch cầu trung tính lành tính theo dân tộc
+
+xảy ra ở các thành viên của một số nhóm dân tộc (ví dụ: một số người gốc Phi, Trung Đông hoặc Do Thái). Bệnh nhân thường có số lượng bạch cầu trung tính thấp hơn nhưng không tăng nguy cơ nhiễm trùng. Trong một số trường hợp, dấu hiệu này có liên quan đến kháng nguyên hồng cầu Duffy; một số chuyên gia cho rằng giảm bạch cầu trung tính ở những quần thể này có liên quan đến khả năng bảo vệ khỏi
+
+bệnh sốt rét
+
+.
+
+Giảm bạch cầu trung tính là một đặc điểm của
+
+các hội chứng bẩm sinh hiếm gặp
+
+bao gồm hội chứng thiểu sản sụn-tóc,
+
+hội chứng Chédiak-Higashi
+
+, loạn sản sừng bẩm sinh, bệnh dự trữ glycogen loại Ib, hội chứng Shwachman-Diamond, hội chứng WHIM (mụn cóc, giảm gammaglobulin máu, nhiễm trùng, bạch cầu trung tính bị mắc kẹt trong tủy xương) và một số hội chứng suy giảm miễn dịch khác.
+
+Giảm bạch cầu trung tính cũng là một đặc điểm của
+
+chứng loạn sản tủy
+
+, trong đó nó có thể đi kèm với các đặc điểm của dạng nguyên hồng cầu khổng lồ trong tủy xương và
+
+thiếu máu bất sản
+
+. Giảm bạch cầu trung tính có thể xảy ra trong
+
+tình trạng hemoglobin niệu kịch phát về đêm
+
+.
+
+Giảm bạch cầu trung tính thứ phát
+
+Giảm bạch cầu trung tính thứ phát có thể là kết quả của việc sử dụng một số loại thuốc, thâm nhiễm hoặc thay thế tủy xương, một số bệnh nhiễm trùng hoặc đáp ứng miễn dịch.
+
+Các
+
+nguyên nhân phổ biến nhất
+
+bao gồm
+
+M Thuốc, trị liệu đang dùng (Medications)
+
+Nhiễm trùng và phản ứng miễn dịch
+
+Quá trình thâm nhiễm tủy xương
+
+Giảm bạch cầu trung tính do thuốc
+
+là một trong những nguyên nhân phổ biến nhất gây giảm bạch cầu trung tính. Thuốc có thể làm giảm quá trình sản sinh bạch cầu trung tính thông qua cơ chế độc hại, đặc ứng hoặc quá mẫn; hoặc thuốc có thể làm tăng tình trạng phá hủy bạch cầu trung tính ở ngoại vi thông qua cơ chế miễn dịch. Chỉ có cơ chế gây độc gây giảm bạch cầu trung tính liên quan đến liều lượng.
+
+Do ức chế quá trình sản sinh tủy xương, tình trạng giảm bạch cầu trung tính nặng liên quan đến liều có thể xảy ra sau khi dùng thuốc điều trị ung thư gây độc tế bào, phenothiazin hoặc xạ trị.
+
+Các phản ứng đặc trưng là không thể đoán trước được và sẽ xảy ra với nhiều loại thuốc khác nhau, bao gồm các chế phẩm thuốc hoặc chiết xuất, và độc tố.
+
+Phản ứng quá mẫn
+
+rất hiếm và đôi khi liên quan đến thuốc chống co giật (ví dụ: phenytoin, phenobarbital), methimazole hoặc propylthiouracil. Những phản ứng này có thể kéo dài chỉ trong vài ngày hoặc vài tháng hoặc vài năm.
+
+Viêm gan
+
+, viêm thận, viêm phổi hoặc
+
+thiếu máu bất sản
+
+thường đi kèm với giảm bạch cầu trung tính do quá mẫn.
+
+Giảm bạch cầu trung tính do thuốc qua trung gian miễn dịch, được cho là phát sinh từ các loại thuốc hoạt động như hapten để kích thích hình thành kháng thể, thường kéo dài trong khoảng 1 tuần sau khi ngừng thuốc. Tình trạng này có thể là kết quả của aminopyrine, clozapine, propylthiouracil và các thuốc kháng giáp khác, penicillin hoặc các loại kháng sinh khác.
+
+Giảm bạch cầu trung tính do sản xuất tủy xương không hiệu quả
+
+có thể xảy ra ở
+
+thiếu máu tăng nguyên hồng cầu khổng lồ
+
+do thiếu vitamin B12 hoặc thiếu chất folate. Thiếu máu hồng cầu to và đôi khi có giảm tiểu cầu nhẹ, thường xảy ra đồng thời. Sản xuất tế bào không hiệu quả gây ra
+
+rối loạn sinh tủy
+
+và
+
+bệnh bạch cầu dòng tủy cấp tính
+
+.
+
+Thâm nhiễm tủy xương
+
+bởi
+
+bệnh bạch cầu
+
+,
+
+u tủy
+
+,
+
+u lympho
+
+, hoặc khối u di căn (ví dụ,
+
+ung thư vú
+
+,
+
+ung thư tuyến tiền liệt
+
+) có thể làm giảm sản xuất bạch cầu trung tính. Xơ tủy do khối u gây ra có thể làm trầm trọng thêm chứng giảm bạch cầu trung tính. Xơ tủy cũng có thể xảy ra do nhiễm trùng u hạt, bệnh Gaucher, và xạ trị.
+
+Cường lách
+
+do nguyên nhân nào cũng có thể dẫn đến giảm bạch cầu trung tính, giảm tiểu cầu, và thiếu máu.
+
+Nhiễm trùng
+
+có thể gây giảm bạch cầu trung tính bằng cách làm giảm sản xuất bạch cầu trung tính hoặc bằng cách gây ra sự hủy hoại miễn dịch hoặc sử dụng nhanh các bạch cầu trung tính.
+
+Sepsis
+
+là một nguyên nhân nghiêm trọng. Giảm bạch cầu trung tính xảy ra với các bệnh do virut ở trẻ em, từ 1 đến 2 ngày đầu sau khi bị ốm và có thể kéo dài từ 3 đến 8 ngày. Giảm bạch cầu trung tính thoáng qua cũng phát sinh từ sự tái phân bổ các bạch cầu trung tính từ tuần hoàn máu tới vùng ven do virus hoặc nội độc tố. Rượu có thể góp phần làm giảm bạch cầu trung tính bằng cách ức chế phản ứng hoá học của bạch cầu trung tính ở tủy trong một số trường hợp nhiễm trùng (ví dụ, viêm phổi do phế cầu).
+
+Lỗ hổng trong hệ miễn dịch
+
+có thể gây giảm bạch cầu trung tính. Giảm bạch cầu trung tính đồng miễn dịch ở trẻ sơ sinh có thể xảy ra với tình trạng không tương thích kháng nguyên bạch cầu trung tính của thai nhi/mẹ liên quan đến việc truyền kháng thể IgG qua nhau thai chống lại bạch cầu trung tính của trẻ sơ sinh (phổ biến nhất là kháng nguyên bạch cầu trung tính ở người [HNA-1]). Giảm bạch cầu trung tính tự miễn có thể xảy ra ở mọi lứa tuổi và có thể là nguyên nhân của giảm bạch cầu trung tính mạn tính vô căn. Xét nghiệm kháng thể kháng bạch cầu trung tính (miễn dịch huỳnh quang, ngưng kết hoặc đếm tế bào dòng chảy) không phải lúc nào cũng sẵn có hoặc đáng tin cậy.
+
+Giảm bạch cầu trung tính tự miễn có thể là cấp tính, mạn tính, hoặc tái diễn. Bênh có thể liên quan đến kháng thể chống lại các bạch cầu trung tính đang lưu thông hoặc các tế bào tiền thân trung tính. Bệnh cũng có thể liên quan đến các cytokine (ví dụ, interferon gamma, yếu tố hoại tử khối u) có thể gây ra chết tế bào theo chương trình (apoptosis) của bạch cầu trung tính. Hầu hết bệnh nhân bị giảm bạch cầu trung tính tự miễn đều có bệnh tự miễn là bệnh nền hoặc rối loạn tăng sinh lympho (ví dụ: hội chứng bạch cầu lympho hạt lớn [LGL] [một bệnh di truyền của bạch cầu lympho hạt lớn],
+
+lupus ban đỏ hệ thống
+
+, hội chứng Felty). Giảm bạch cầu trung tính thứ phát mạn tính thường đi kèm với
+
+nhiễm HIV
+
+do giảm sản sinh bạch cầu trung tính và tăng tốc độ tiêu hủy bạch cầu trung tính bởi kháng thể.
+
+Tài liệu tham khảo về căn nguyên
+
+1.
+
+Dale DC
+
+. How I diagnose and treat neutropenia.
+
+Curr Opin Hematol,
+
+23(1):1-4, 2016. doi: 10.1097/MOH.0000000000000208
+
+2.
+
+Skokowa J, Dale DC, Touw IP, et al
+
+. Severe congenital neutropenias.
+
+Nat Rev Dis Primers,
+
+3:17032, 2017. doi: 10.1038/nrdp.2017.32
+
+Triệu chứng và Dấu hiệu giảm bạch cầu trung tính
+
+Giảm bạch cầu trung tính không có triệu chứng cho đến khi nhiễm trùng phát sinh. Sốt thường là dấu hiệu duy nhất của hiện tượng nhiễm trùng. Nếu giảm bạch cầu trung tính nghiêm trọng, các dấu hiệu điển hình của viêm khu trú (ban đỏ, sưng, đau, thâm nhiễm) có thể bị chặn hoặc không có. Các triệu chứng khu trú (ví dụ như loét miệng) có thể có nhưng thường ẩn đi. Bệnh nhân bị giảm bạch cầu trung tính do thuốc do quá mẫn có thể bị sốt, phát ban và nổi hạch do phản ứng quá mẫn.
+
+Một số bệnh nhân bị giảm bạch cầu trung tính vô căn mãn tính và số lượng bạch cầu trung tính
+
+<
+
+200/mcL (< 0,2 × 10
+
+9
+
+/L) không bị nhiễm trùng nghiêm trọng. Bệnh nhân bị giảm bạch cầu chu kỳ hoặc giảm bạch cầu trung tính bẩm sinh nặng có khuynh hướng bị loét miệng, viêm miệng, viêm họng và hạch to trong trường hợp giảm bạch cầu trung tính nghiêm trọng. Viêm phổi và nhiễm trùng huyết thường xảy ra.
+
+Chẩn đoán giảm bạch cầu trung tính
+
+Có dấu hiệu lâm sàng (nhiễm trùng tái diễn hoặc bất thường)
+
+Công thức máu toàn bộ
+
+Đánh giá nhiễm trùng bằng nuôi cấy và hình ảnh
+
+Xác định cơ chế và nguyên nhân gây giảm bạch cầu trung tính
+
+Nghi ngờ giảm bạch cầu trung tính ở những bệnh nhân thường xuyên bị nhiễm trùng, nặng hoặc nhiễm trùng bất thường hoặc ở những bệnh nhân có nguy cơ (ví dụ: những người đang dùng thuốc gây độc tế bào hoặc xạ trị). Chẩn đoán xác định bằng công thức máu có công thức bạch cầu.
+
+Đánh giá về nhiễm khuẩn
+
+Ưu tiên đầu tiên là xác định xem có nhiễm trùng hay không. Bởi vì nhiễm trùng có thể khó phát hiện,
+
+khám lâm sàng
+
+đánh giá một cách có hệ thống các vị trí nhiễm trùng nguyên phát phổ biến nhất:
+
+Bề mặt niêm mạc, chẳng hạn như đường tiêu hóa (nướu, họng, hậu môn)
+
+Xoang
+
+Phổi
+
+Bụng
+
+Đường tiết niệu
+
+Da và móng tay
+
+Các vị trí lấy máu
+
+Ống thông mạch máu
+
+Nếu giảm bạch cầu trung tính cấp tính hoặc nghiêm trọng, cần tiến hành nhanh các xét nghiệm.
+
+Nuôi cấy tìm vi khuẩn
+
+là phương pháp chính. Lấy ít nhất 2 bộ mẫu để cấy máu tìm vi khuẩn và nấm ở tất cả các bệnh nhân bị sốt. Nếu có ống thông tĩnh mạch bên trong, các mẫu được lấy từ ống thông và từ một tĩnh mạch ngoại biên riêng biệt. Nếu bệnh nhân có đặt sonde, cần nuôi cấy nấm và mycobacteria không điển hình. Nếu có loét niêm mạc cần cấy tìm herpes
+
+Candida
+
+. Các tổn thương da được hút hoặc sinh thiết để lấy tế bào học và nuôi cấy. Các mẫu nước tiểu để phân tích và nuôi cấy trong phòng thí nghiệm được lấy từ tất cả các bệnh nhân. Nếu xuất hiện tiêu chảy, cần xét nghiệm phân với mầm bệnh vi khuẩn đường ruột và độc tố
+
+Clostridium
+
+(trước đây là
+
+Clostridium
+
+)
+
+difficile
+
+. Nuôi cấy mẫu đờm để đánh gíá nhiễm trùng phổi.
+
+Chẩn đoán hình ảnh
+
+vô cùng hữu ích. Tất cả bệnh nhân đều được chụp phim X-quang ngực. Chụp CT ngực cũng có thể cần thiết ở những bệnh nhân bị giảm bạch cầu trung tính. CT của xoang có thể hữu ích nếu có triệu chứng hoặc dấu hiệu của viêm xoang (ví dụ như nhức đầu có vị trí, đau răng trên hoặc răng dưới, sưng mặt, chảy nước mũi). Chụp CT bụng thường được thực hiện nếu các triệu chứng (ví dụ, đau) hoặc tiền sử (như phẫu thuật gần đây) nghi ngờ nhiễm khuẩn trong ổ bụng.
+
+Xác định nguyên nhân
+
+Tiếp theo, xác định cơ chế và nguyên nhân của giảm bạch cầu trung tính.
+
+Tiền sử
+
+đề cập đến tiền sử gia đình, có các rối loạn khác, tất cả các loại thuốc hoặc chế phẩm khác đang được sử dụng, vật nuôi và khả năng tiếp xúc hoặc nuốt phải độc tố.
+
+Khám thực thể
+
+để phát hiện
+
+lách to
+
+, hạch to, tổn thương da (ví dụ: vùng ban đỏ, dát, sẩn, mụn mủ) và các dấu hiệu của các rối loạn tiềm ẩn khác (ví dụ: viêm khớp).
+
+Nếu không xác định rõ nguyên nhân rõ ràng (ví dụ, hóa trị liệu), thì xét nghiệm quan trọng nhất là
+
+Xét nghiệm tủy xương
+
+Xét nghiệm tủy xương
+
+xác định xem giảm bạch cầu trung tính là do giảm sản sinh tủy hay là thứ phát do tăng hủy hoại tế bào (xác định bởi sự sản xuất bình thường hay tăng các tế bào tủy). Kiểm tra tủy xương cũng có thể chỉ ra nguyên nhân cụ thể của giảm bạch cầu trung tính (ví dụ:
+
+thiếu máu bất sản
+
+,
+
+xơ tủy
+
+,
+
+rối loạn loạn sản tủy
+
+,
+
+bệnh bạch cầu cấp tính
+
+, ung thư di căn, hoại tử tủy).
+
+Có thể cần phải tiến hành thêm các xét nghiệm, chẳng hạn như đếm tế bào dòng chảy và sắp xếp lại gen thụ thể tế bào T đối với hội chứng bạch cầu lympho hạt lớn (LGL) để xác định nguyên nhân gây giảm bạch cầu trung tính, tùy thuộc vào chẩn đoán nghi ngờ. Ở những bệnh nhân có nguy cơ thiếu dinh dưỡng, cần định lượng nồng độ
+
+đồng
+
+,
+
+vitamin B9
+
+, và
+
+vitamin B12
+
+trong máu. Xét nghiệm kháng thể kháng bạch cầu trung tính được thực hiện nếu nghĩ đến nguyên nhân giảm bạch cầu miễn dịch.
+
+Phân biệt giữa giảm bạch cầu trung tính do kháng sinh và nhiễm trùng đôi khi rất khó khăn. Số lượng bạch cầu ngay trước khi bắt đầu điều trị kháng sinh thường phản ánh sự thay đổi số lượng máu do nhiễm trùng.
+
+Bệnh nhân có tiền sử giảm bạch cầu trung tính mạn tính kể từ khi sơ sinh, có tiền sử sốt tái diễn, viêm lợi mạn tính có số lượng bạch cầu với sự khác biệt thực hiện 3 lần/tuần trong 6 tuần, có thể gợi ý giảm bạch cầu trung tính chu kỳ. Đếm số lượng tiểu cầu và hồng cầu lưới được thực hiện đồng thời. Ở bệnh nhân giảm bạch cầu trung tính chu kỳ thường có giảm bạch cầu ưa axit, hồng cầu lưới, tiểu cầu chu kỳ đồng bộ với bạch cầu trung tính, trong khi các bạch cầu đơn nhân và lympho không liên quan.
+
+Xét nghiệm di truyền phân tử
+
+ELANE
+
+và các gen khác là thích hợp khi xem xét các nguyên nhân bẩm sinh.
+
+Điều trị giảm bạch cầu trung tính
+
+Điều trị các bệnh liên quan (ví dụ như nhiễm trùng, viêm miệng)
+
+Điều trị bằng kháng sinh hoặc dự phòng, nếu có khả năng nhiễm trùng do vi khuẩn
+
+Các yếu tố tăng trưởng dòng tủy
+
+Ngừng sử dụng tác nhân gây bệnh nghi ngờ (ví dụ: thuốc)
+
+Đôi khi sử dụng corticosteroid
+
+Giảm bạch cầu trung tính cấp
+
+Các trường hợp nghi nhiễm trùng luôn được điều trị ngay. Nếu có sốt hoặc hạ huyết áp, do nhiễm trùng nghiêm trọng, cần sử dụng thuốc kháng sinh phổ rộng, liều cao, đường tĩnh mạch. Việc lựa chọn phác đồ dựa trên các tác nhân gây nhiễm trùng có khả năng xảy ra nhất, mức độ nhạy cảm với thuốc kháng khuẩn của tác nhân gây bệnh tại cơ sở cụ thể đó và độc tính tiềm ẩn của phác đồ. Do nguy cơ tạo ra các vi khuẩn kháng thuốc, vancomycin chỉ được sử dụng nếu nghi ngờ có các vi khuẩn gram dương kháng thuốc khác (
+
+1
+
+,
+
+2
+
+).
+
+Ống thông mạch máu lưu lại thường có thể được giữ nguyên ngay cả khi nghi ngờ hoặc ghi nhận vãng khuẩn huyết, nhưng việc tháo bỏ ống thông được cân nhắc nếu nhiễm trùng liên quan đến
+
+S. aureus
+
+,
+
+Bacillus
+
+,
+
+Corynebacterium
+
+hoặc
+
+Candida
+
+hoặc tác nhân gây bệnh là nấm hoặc nếu nuôi cấy máu liên tục dương tính mặc dù đã dùng kháng sinh thích hợp. Nhiễm trùng do tụ cầu khuẩn coagulase âm tính thường chỉ khỏi bằng liệu pháp kháng sinh đơn thuần.
+
+Ống thông Foley lưu lại cũng có thể gây ra nhiễm trùng ở bệnh nhân bị giảm bạch cầu trung tính và nên cân nhắc thay đổi hoặc tháo bỏ ống thông đối với các trường hợp nhiễm trùng đường tiết niệu dai dẳng.
+
+Nếu nuôi cấy vi khuẩn dương tính, cần sử dụng kháng sinh theo kháng sinh đồ. Nếu bệnh nhân giảm sốt trong vòng 72 giờ, thuốc kháng sinh sẽ được tiếp tục trong ít nhất 7 ngày và cho đến khi bệnh nhân không có triệu chứng hoặc dấu hiệu nhiễm trùng. Khi giảm bạch cầu trung tính thoáng qua (chẳng hạn như sau hóa trị liệu ức chế tủy), điều trị bằng kháng sinh thường được tiếp tục cho đến khi số lượng bạch cầu trung tính
+
+>
+
+500/mcL (> 0,5 × 10
+
+9
+
+/L); tuy nhiên, nếu nuôi cấy vẫn âm tính, có thể xem xét ngừng dùng thuốc kháng khuẩn ở những bệnh nhân chọn lọc bị giảm bạch cầu trung tính kéo dài, đặc biệt là những người đã hết các triệu chứng và dấu hiệu viêm.
+
+Sốt kéo dài
+
+>
+
+72 giờ mặc dù điều trị kháng sinh cho thấy
+
+Nguyên nhân không do vi khuẩn
+
+Nhiễm trùng với các vi khuẩn kháng thuốc
+
+Bội nhiễm loài vi khuẩn thứ hai
+
+Nồng độ kháng sinh trong huyết thanh hoặc mô
+
+Nhiễm trùng khu trú, như áp xe
+
+Bệnh nhân bị giảm bạch cầu trung tính có sốt kéo dài sẽ được đánh giá lại từ 2 ngày đến 4 ngày một lần bằng cách khám thực thể, nuôi cấy và phim X-quang ngực. Nếu bệnh nhân thể trạng tốt ngoại trừ có sốt, có thể dùng kháng sinh ban đầu và cần xem xét sốt do thuốc. Nếu bệnh nhân suy nhược, nên thay đổi chế độ kháng sinh.
+
+Nhiễm nấm
+
+là nguyên nhân có khả năng nhất gây ra sốt và xấu đi liên tục. Điều trị bằng thuốc kháng nấm theo kinh nghiệm nếu vẫn sốt dai dẳng sau 3-4 ngày sử dụng kháng sinh phổ rộng. Việc lựa chọn thuốc chống nấm cụ thể (ví dụ: fluconazole, caspofungin, voriconazole, posaconazole) phụ thuộc vào loại nguy cơ (ví dụ: thời gian và mức độ nặng của tình trạng giảm bạch cầu trung tính, tiền sử nhiễm nấm, sốt kéo dài mặc dù đã sử dụng thuốc chống nấm phổ hẹp hơn) và cần phải được bác sĩ chuyên khoa về bệnh truyền nhiễm hướng dẫn.
+
+Nếu sốt vẫn tồn tại sau 3 tuần điều trị theo kinh nghiệm (gồm 2 tuần điều trị bằng thuốc kháng nấm) và giảm bạch cầu trung tính đã được giải quyết, cân nhắc dừng kháng sinh và xem xét lại nguyên nhân sốt.
+
+Đối với
+
+những bệnh nhân không sốt bị giảm bạch cầu trung tính
+
+, có thể xem xét điều trị dự phòng bằng kháng sinh mặc dù những thay đổi trong hệ vi sinh vật là vi khuẩn có thể làm chậm quá trình phục hồi tủy xương. Điều trị bằng kháng sinh fluoroquinolone (levofloxacin, ciprofloxacin) được sử dụng tại một số trung tâm dành cho những bệnh nhân nhận điều trị hóa chất với lượng bạch cầu trung tính ≤ 100/mcL (≤ 0,1 x 10
+
+9
+
+/L) trong 7 ngày. Phương pháp dự phòng thường được bác sĩ điều trị ung thư sử dụng. Tiếp tục sử dụng thuốc kháng sinh cho đến khi lượng bạch cầu trung tính tăng 1500/mcL (> 1,5 x 10
+
+9
+
+/L). Ngoài ra, liệu pháp kháng nấm có thể được áp dụng cho những bệnh nhân sốt có giảm bạch cầu trung tính, những người này có nguy cơ nhiễm nấm cao hơn (ví dụ: sau khi
+
+ghép tế bào gốc tạo máu
+
+hoặc hóa trị liệu chuyên sâu cho
+
+bệnh bạch cầu dòng tủy cấp tính
+
+hoặc những người bị
+
+rối loạn loạn sản tủy
+
+hoặc có tiền sử nhiễm nấm trước đó). Việc lựa chọn thuốc chống nấm cụ thể phải do bác sĩ chuyên khoa bệnh truyền nhiễm hướng dẫn. Điều trị dự phòng bằng kháng sinh và chống nấm thường không được khuyến nghị cho những bệnh nhân sốt, bị giảm bạch cầu trung tính và không có yếu tố nguy cơ nào được dự đoán là sẽ duy trì tình trạng giảm bạch cầu trung tính trong < 7 ngày dựa trên phác đồ hóa trị liệu cụ thể của họ.
+
+Các yếu tố tăng trưởng tủy
+
+(tức là yếu tố kích thích tạo cụm bạch cầu hạt [G-CSF]) được sử dụng rộng rãi để đẩy nhanh quá trình phục hồi bạch cầu trung tính và ngăn ngừa nhiễm trùng ở những bệnh nhân đang điều trị hóa chất ung thư chuyên sâu và sau khi ghép tế bào gốc tạo máu. Nếu nguy cơ giảm bạch cầu trung tính do sốt
+
+≥
+
+30% (được đánh giá bằng số lượng bạch cầu trung tính
+
+<
+
+500 mcL [< 0,5 × 10
+
+9
+
+/L], có nhiễm trùng trong chu kỳ hóa trị trước đó, bệnh đi kèm hoặc
+
+>
+
+75 tuổi), thì có chỉ định G-CSF. Nhìn chung, lợi ích lâm sàng lớn nhất xuất hiện khi yếu tố tăng trưởng được sử dụng bắt đầu khoảng 24 giờ sau khi hoàn tất hóa trị. Bệnh nhân bị giảm bạch cầu trung tính do phản ứng thuốc đặc ứng cũng có thể được hưởng lợi từ G-CSF, đặc biệt nếu dự đoán bệnh nhân sẽ hồi phục chậm. Liều dùng thông thường của G-CSF (filgrastim) là 5 mcg/kg tiêm dưới da một lần mỗi ngày trong nhiều ngày và liều dùng của pegylated G-CSF (pegfilgrastim) là 6 mg tiêm dưới da một lần cho mỗi chu kỳ hóa trị.
+
+Glucocorticoid, steroid đồng hóa và vitamin không kích thích sản sinh bạch cầu trung tính và thường không hữu ích cho bệnh nhân giảm bạch cầu trung tính. Nếu nghi ngờ tình trạng giảm bạch cầu trung tính cấp tính là do thuốc hoặc do độc tố gây ra, tất cả các tác nhân gây bệnh tiềm ẩn đều phải được ngừng lại. Nếu giảm bạch cầu trung tính phát sinh trong quá trình điều trị bằng một loại kháng sinh được biết là làm giảm số lượng bạch cầu (ví dụ: chloramphenicol), thì nên chuyển sang một loại kháng sinh khác.
+
+Súc miệng bằng nước muối sinh lý hoặc hydro peroxide vài giờ một lần, nước súc miệng dạng lỏng (có chứa lidocaine nhớt, diphenhydramine và thuốc kháng axit dạng lỏng), viên ngậm gây tê (benzocaine 15 mg 3 giờ hoặc 4 giờ một lần) hoặc nước súc miệng chlorhexidine (dung dịch 1%) hai lần mỗi ngày hoặc 3 lần mỗi ngày có thể làm giảm cảm giác khó chịu của viêm miệng có loét hầu họng.
+
+Bệnh nấm candida miệng hoặc bệnh nấm candida thực quản được điều trị bằng nystatin (400.000 đến 600.000 đơn vị nước súc miệng 4 lần mỗi ngày; nuốt nếu bị viêm thực quản), viên ngậm dẹp clotrimazole (10 mg hòa tan chậm trong miệng 5 lần mỗi ngày) hoặc thuốc chống nấm toàn thân (ví dụ, fluconazole).
+
+Có thể cần chế độ ăn uống nửa cứng hoặc lỏng khi viêm miệng cấp tính hoặc viêm thực quản, và các thuốc giảm đau (ví dụ lidocaine) có thể là cần thiết để giảm thiểu sự khó chịu.
+
+Giảm bạch cầu trung tính mạn tính
+
+Quá trình sản sinh và triển khai bạch cầu trung tính trong tình trạng
+
+giảm bạch cầu trung tính bẩm sinh
+
+,
+
+giảm bạch cầu trung tính theo chu kỳ
+
+và
+
+giảm bạch cầu trung tính vô căn
+
+thường tăng lên khi tiêm G-CSF từ 1 đến 10 mcg/kg tiêm dưới da mỗi ngày một lần, bắt đầu với liều thấp và tăng dần để duy trì mức khoảng 1000/mcL (1
+
+×
+
+10
+
+9
+
+/L) (
+
+3
+
+). Hiệu quả được duy trì với G-CSF hàng ngày hoặc ngắt quãng trong nhiều tháng hoặc nhiều năm.
+
+G-CSF dài hạn cũng đã được sử dụng ở những bệnh nhân khác bị giảm bạch cầu trung tính mạn tính nhẹ (bao gồm cả những người mắc chứng loạn sản tủy, nhiễm HIV, rối loạn tự miễn dịch). Lợi ích lâm sàng của điều trị bằng G-CSF ít rõ ràng hơn, đặc biệt là đối với những bệnh nhân không bị giảm bạch cầu trung tính nặng. Đối với những bệnh nhân bị bệnh tự miễn, hoặc một số bệnh nhân bị hội chứng LGL hoặc đã ghép tạng, methotrexate hoặc cyclosporine, dùng riêng lẻ hoặc phối hợp với G-CSF, cũng có thể có lợi.
+
+Trước đây, cắt lách được sử dụng để tăng số lượng bạch cầu trung tính ở những bệnh nhân bị lách to và giam hãm bạch cầu trung tính trong lách (ví dụ: hội chứng Felty); tuy nhiên, vì các yếu tố tăng trưởng và các liệu pháp mới hơn khác thường có hiệu quả, cần phải tránh cắt lách. Cắt lách có thể được xem xét đối với những bệnh nhân bị lách to đau dai dẳng hoặc giảm bạch cầu trung tính nặng (
+
+<
+
+500/mcL [< 0,5 x 10
+
+9
+
+/L]) và có những vấn đề nhiễm trùng nghiêm trọng nhưng những phương pháp điều trị khác đã thất bại. Bệnh nhân cần được tiêm phòng các bệnh nhiễm trùng do
+
+Streptococcus pneumoniae
+
+,
+
+Neisseria meningitidis
+
+, và
+
+Haemophilus influenzae
+
+trước khi cắt lách do cắt lách dễ làm bệnh nhân bị nhiễm khuẩn.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Lehrnbecher T, Robinson PD, Ammann RA, et al
+
+. Guideline for the Management of Fever and Neutropenia in Pediatric Patients With Cancer and Hematopoietic Cell Transplantation Recipients: Cập nhật năm 2023.
+
+J Clin Oncol.
+
+41(9):1774-1785. doi:10.1200/JCO.22.02224
+
+2.
+
+Contejean A, Abbara S, Chentouh R, et al
+
+. Antimicrobial stewardship in high-risk febrile neutropenia patients.
+
+Antimicrob Resist Infect Control.
+
+2022, 11(1):52. Xuất bản ngày 26 tháng 3 năm 2022. doi:10.1186/s13756-022-01084-0
+
+3.
+
+Dale DC, Bolyard AA, Shannon JA, et al
+
+. Outcomes for patients with severe chronic neutropenia treated with granulocyte colony-stimulating factor.
+
+Blood Adv.
+
+2022;6(13):3861-3869. doi: 10.1182/bloodadvances.2021005684
+
+Những điểm chính
+
+Giảm bạch cầu trung tính dễ gây nhiễm trùng do vi khuẩn và nấm.
+
+Nguy cơ nhiễm trùng tỷ lệ thuận với mức độ giảm bạch cầu trung tính; bệnh nhân có lượng bạch cầu trung tính
+
+<
+
+500/mcL (< 0,5 x 10
+
+9
+
+/L) có nguy cơ lớn nhất.
+
+Bởi vì đáp ứng viêm rất hạn chế, các phát hiện lâm sàng có thể âm ỉ, mặc dù thường có sốt.
+
+Điều trị bằng yếu tố kích thích tạo cụm bạch cầu hạt (G-CSF) làm tăng bạch cầu trung tính trong máu và cải thiện phản ứng viêm, do đó làm giảm nguy cơ nhiễm trùng nặng do vi khuẩn.
+
+Các bệnh nhân sốt giảm bạch cầu trung tính được điều trị theo kinh nghiệm với thuốc kháng sinh phổ rộng trong lúc chờ xác định rõ nhiễm trùng.
+
+Dự phòng bằng kháng sinh có thể được chỉ định như một chiến lược ngắn hạn ở những bệnh nhân có nguy cơ cao.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (không có bạch cầu hạt, giảm bạch cầu hạt) ---
+
+TheoDavid C. Dale,MD,University of WashingtonXem xét bởiJerry L. Spivak,MD; MACP,, Johns Hopkins University School of MedicineĐã xem xét/Đã chỉnh sửađã sửa đổiThg 2 2025v970554_vi
+
+--- 2. Nguyên nhân của chứng giảm bạch cầu trung tính ---
+
+Giảm bạch cầu trung tính cấp tính(xảy ra từ vài giờ đến vài ngày) có thể phát triển doSử dụng hoặc phá hủy nhanh bạch cầu trung tínhQuá trình sản sinh bạch cầu trung tính bị suy giảmGiảm bạch cầu trung tính mạn tính(kéo dài hàng tháng đến nhiều năm) thường xuất hiệnGiảm sản xuấtCường lách quá mứcGiảm bạch cầu trung tính cũng có thể được phân loại làNguyên phát do khiếm khuyết nội tại trong tế bào tủy sốngThứ phát do các yếu tố bên ngoài tế bào tủy sốngXem thêm bảngPhân loại Giảm bạch cầu trung tính.BảngPhân loại Giảm bạch cầu trung tínhBảngPhân loại Giảm bạch cầu trung tínhPhân loại Giảm bạch cầu trung tínhPhân loạiCăn nguyênGiảm bạch cầu trung tính do các khiếm khuyết nội tại trong tế bào tủy hoặc tiền thân của chúngGiảm bạch cầu trung tính vô căn mạn tínhGiảm bạch cầu trung tính bẩm sinh nặng (bao gồm hội chứng Kostmann)Giảm bạch cầu trung tính chu kỳThiếu máu bất sảnRối loạn sinh tủyGiảm bạch cầu trung tính không liên quan đến rối loạn gammaglobulin máuĐái huyết sắc tố kịch phát ban đêmCác hội chứng có liên quan đến giảm bạch cầu trung tính (ví dụ hội giảm sinh sụn-tóc, rối loạn sừng bẩm sinh, bệnh dự trữ glycogen loại IB, hội chứng WHIM*, hội chứng Shwachman-Diamond)Giảm bạch cầu trung tính thứ phátGiảm bạch cầu trung tính do thuốcĐộc tính do hóa trị liệu hoặc xạ trịTình trạng rối loạn do sử dụng rượuNhiễm trùngGiảm bạch cầu tự miễn, bao gồm giảm bạch cầu thứ phát mạn tính ởHIV giai đoạn cuốiThay thế các tế bào trong tủy xương (ví dụ, do ung thư, bệnh xơ tủy, u hạt hoặc tế bào Gaucher)Thiếu Folate,thiếu vitamin B12, hoặc suy dinh dưỡng nặngCường láchBệnh lympho tế bào T lớn* WHIM = warts, giảm gammaglobulin máu, nhiễm trùng, myelokathexis.* WHIM = warts, giảm gammaglobulin máu, nhiễm trùng, myelokathexis.Giảm bạch cầu trung tính gây ra bởi các khiếm khuyết nội tại trong tế bào tủy hoặc tiền thân của chúngGiảm bạch cầu trung tính do khiếm khuyết nội tại trong tế bào tủy hoặc tiền thân của tế bào tủy là không phổ biến (1). Khi có,các nguyên nhân phổ biến nhấtbao gồmGiảm bạch cầu trung tính vô căn mạn tínhGiảm bạch cầu trung tính bẩm sinhGiảm bạch cầu trung tính vô căn mạn tínhlà một thể giảm bạch cầu trung tính mạn tính trong đó phần còn lại của hệ thống miễn dịch dường như vẫn còn nguyên vẹn. Ngay cả khi số lượng bạch cầu trung tính<200/mcL (< 0,2 × 109/L), nhiễm trùng nặng cũng hiếm khi xảy ra, có thể là do bạch cầu trung tính được sản sinh với số lượng đủ để đáp ứng với nhiễm trùng. Bệnh này phổ biến hơn nhiều ở nữ giới.Giảm bạch cầu trung tính bẩm sinh nặng(SCN) là một nhóm các bệnh lý hiếm gặp không đồng nhất, đặc trưng bởi tình trạng ngừng trưởng thành của tủy ở giai đoạn tiền tủy bào trong tủy xương, dẫn đến số lượng bạch cầu trung tính tuyệt đối<200/mcL (< 0,2 × 109/L) và nhiễm trùng đáng kể bắt đầu từ thời thơ ấu (2). Giảm bạch cầu trung tính bẩm sinh nặng thường được di truyền theo kiểu gen trội nhưng có thể là gen lặn trên nhiễm sắc thể thường, liên kết nhiễm sắc thể X hoặc lẻ tẻ.Một số bất thường về gen gây ra tình trạng giảm bạch cầu trung tính bẩm sinh nặng đã được xác định, bao gồm các đột biến ảnh hưởng đến elastase bạch cầu trung tính (ELANE),CLPB,HAX1vàGFI1. Các đột biếnCSF3Rbị mắc phải trong quá trình tiến triển thành bệnh loạn sản tủy và rất hiếm khi là nguyên nhân gây ra bệnh giảm bạch cầu trung tính bẩm sinh. Hầu như tất cả các bệnh nhân bị giảm bạch cầu trung tính bẩm sinh nghiêm trọng sẽ đáp ứng với liệu pháp G-CSF, nhưng có thể cầnghép tế bào gốc tạo máucho những bệnh nhân đáp ứng kém với G-CSF và những người mắcchứng loạn sản tủyhoặcbệnh bạch cầu tủy cấp tính.Giảm bạch cầu trung tính theo chu kỳlà một bệnh tạo bạch cầu hạt bẩm sinh hiếm gặp, thường di truyền theo kiểu gen trội trên nhiễm sắc thể thường và do đột biến gen elastase bạch cầu trung tính (ELANE) gây ra, dẫn đến cơ chế gây chết tế bào theo chương trình của các tế bào tiền thân dòng tủy. Nó được đặc trưng bởi các dao động định kỳ đều đặn số lượng bạch cầu trung tính ngoại vi. Chu kỳ dao động trung bình là 21±3 ngày. vòng lặp của các tế bào máu khác cũng là bằng chứng trong hầu hết các trường hợp.Giảm bạch cầu trung tính lành tính theo dân tộcxảy ra ở các thành viên của một số nhóm dân tộc (ví dụ: một số người gốc Phi, Trung Đông hoặc Do Thái). Bệnh nhân thường có số lượng bạch cầu trung tính thấp hơn nhưng không tăng nguy cơ nhiễm trùng. Trong một số trường hợp, dấu hiệu này có liên quan đến kháng nguyên hồng cầu Duffy; một số chuyên gia cho rằng giảm bạch cầu trung tính ở những quần thể này có liên quan đến khả năng bảo vệ khỏibệnh sốt rét.Giảm bạch cầu trung tính là một đặc điểm củacác hội chứng bẩm sinh hiếm gặpbao gồm hội chứng thiểu sản sụn-tóc,hội chứng Chédiak-Higashi, loạn sản sừng bẩm sinh, bệnh dự trữ glycogen loại Ib, hội chứng Shwachman-Diamond, hội chứng WHIM (mụn cóc, giảm gammaglobulin máu, nhiễm trùng, bạch cầu trung tính bị mắc kẹt trong tủy xương) và một số hội chứng suy giảm miễn dịch khác.Giảm bạch cầu trung tính cũng là một đặc điểm củachứng loạn sản tủy, trong đó nó có thể đi kèm với các đặc điểm của dạng nguyên hồng cầu khổng lồ trong tủy xương vàthiếu máu bất sản. Giảm bạch cầu trung tính có thể xảy ra trongtình trạng hemoglobin niệu kịch phát về đêm.Giảm bạch cầu trung tính thứ phátGiảm bạch cầu trung tính thứ phát có thể là kết quả của việc sử dụng một số loại thuốc, thâm nhiễm hoặc thay thế tủy xương, một số bệnh nhiễm trùng hoặc đáp ứng miễn dịch.Cácnguyên nhân phổ biến nhấtbao gồmM Thuốc, trị liệu đang dùng (Medications)Nhiễm trùng và phản ứng miễn dịchQuá trình thâm nhiễm tủy xươngGiảm bạch cầu trung tính do thuốclà một trong những nguyên nhân phổ biến nhất gây giảm bạch cầu trung tính. Thuốc có thể làm giảm quá trình sản sinh bạch cầu trung tính thông qua cơ chế độc hại, đặc ứng hoặc quá mẫn; hoặc thuốc có thể làm tăng tình trạng phá hủy bạch cầu trung tính ở ngoại vi thông qua cơ chế miễn dịch. Chỉ có cơ chế gây độc gây giảm bạch cầu trung tính liên quan đến liều lượng.Do ức chế quá trình sản sinh tủy xương, tình trạng giảm bạch cầu trung tính nặng liên quan đến liều có thể xảy ra sau khi dùng thuốc điều trị ung thư gây độc tế bào, phenothiazin hoặc xạ trị.Các phản ứng đặc trưng là không thể đoán trước được và sẽ xảy ra với nhiều loại thuốc khác nhau, bao gồm các chế phẩm thuốc hoặc chiết xuất, và độc tố.Phản ứng quá mẫnrất hiếm và đôi khi liên quan đến thuốc chống co giật (ví dụ: phenytoin, phenobarbital), methimazole hoặc propylthiouracil. Những phản ứng này có thể kéo dài chỉ trong vài ngày hoặc vài tháng hoặc vài năm.Viêm gan, viêm thận, viêm phổi hoặcthiếu máu bất sảnthường đi kèm với giảm bạch cầu trung tính do quá mẫn.Giảm bạch cầu trung tính do thuốc qua trung gian miễn dịch, được cho là phát sinh từ các loại thuốc hoạt động như hapten để kích thích hình thành kháng thể, thường kéo dài trong khoảng 1 tuần sau khi ngừng thuốc. Tình trạng này có thể là kết quả của aminopyrine, clozapine, propylthiouracil và các thuốc kháng giáp khác, penicillin hoặc các loại kháng sinh khác.Giảm bạch cầu trung tính do sản xuất tủy xương không hiệu quảcó thể xảy ra ởthiếu máu tăng nguyên hồng cầu khổng lồdo thiếu vitamin B12 hoặc thiếu chất folate. Thiếu máu hồng cầu to và đôi khi có giảm tiểu cầu nhẹ, thường xảy ra đồng thời. Sản xuất tế bào không hiệu quả gây rarối loạn sinh tủyvàbệnh bạch cầu dòng tủy cấp tính.Thâm nhiễm tủy xươngbởibệnh bạch cầu,u tủy,u lympho, hoặc khối u di căn (ví dụ,ung thư vú,ung thư tuyến tiền liệt) có thể làm giảm sản xuất bạch cầu trung tính. Xơ tủy do khối u gây ra có thể làm trầm trọng thêm chứng giảm bạch cầu trung tính. Xơ tủy cũng có thể xảy ra do nhiễm trùng u hạt, bệnh Gaucher, và xạ trị.Cường láchdo nguyên nhân nào cũng có thể dẫn đến giảm bạch cầu trung tính, giảm tiểu cầu, và thiếu máu.Nhiễm trùngcó thể gây giảm bạch cầu trung tính bằng cách làm giảm sản xuất bạch cầu trung tính hoặc bằng cách gây ra sự hủy hoại miễn dịch hoặc sử dụng nhanh các bạch cầu trung tính.Sepsislà một nguyên nhân nghiêm trọng. Giảm bạch cầu trung tính xảy ra với các bệnh do virut ở trẻ em, từ 1 đến 2 ngày đầu sau khi bị ốm và có thể kéo dài từ 3 đến 8 ngày. Giảm bạch cầu trung tính thoáng qua cũng phát sinh từ sự tái phân bổ các bạch cầu trung tính từ tuần hoàn máu tới vùng ven do virus hoặc nội độc tố. Rượu có thể góp phần làm giảm bạch cầu trung tính bằng cách ức chế phản ứng hoá học của bạch cầu trung tính ở tủy trong một số trường hợp nhiễm trùng (ví dụ, viêm phổi do phế cầu).Lỗ hổng trong hệ miễn dịchcó thể gây giảm bạch cầu trung tính. Giảm bạch cầu trung tính đồng miễn dịch ở trẻ sơ sinh có thể xảy ra với tình trạng không tương thích kháng nguyên bạch cầu trung tính của thai nhi/mẹ liên quan đến việc truyền kháng thể IgG qua nhau thai chống lại bạch cầu trung tính của trẻ sơ sinh (phổ biến nhất là kháng nguyên bạch cầu trung tính ở người [HNA-1]). Giảm bạch cầu trung tính tự miễn có thể xảy ra ở mọi lứa tuổi và có thể là nguyên nhân của giảm bạch cầu trung tính mạn tính vô căn. Xét nghiệm kháng thể kháng bạch cầu trung tính (miễn dịch huỳnh quang, ngưng kết hoặc đếm tế bào dòng chảy) không phải lúc nào cũng sẵn có hoặc đáng tin cậy.Giảm bạch cầu trung tính tự miễn có thể là cấp tính, mạn tính, hoặc tái diễn. Bênh có thể liên quan đến kháng thể chống lại các bạch cầu trung tính đang lưu thông hoặc các tế bào tiền thân trung tính. Bệnh cũng có thể liên quan đến các cytokine (ví dụ, interferon gamma, yếu tố hoại tử khối u) có thể gây ra chết tế bào theo chương trình (apoptosis) của bạch cầu trung tính. Hầu hết bệnh nhân bị giảm bạch cầu trung tính tự miễn đều có bệnh tự miễn là bệnh nền hoặc rối loạn tăng sinh lympho (ví dụ: hội chứng bạch cầu lympho hạt lớn [LGL] [một bệnh di truyền của bạch cầu lympho hạt lớn],lupus ban đỏ hệ thống, hội chứng Felty). Giảm bạch cầu trung tính thứ phát mạn tính thường đi kèm vớinhiễm HIVdo giảm sản sinh bạch cầu trung tính và tăng tốc độ tiêu hủy bạch cầu trung tính bởi kháng thể.Tài liệu tham khảo về căn nguyên1.Dale DC. How I diagnose and treat neutropenia.Curr Opin Hematol,23(1):1-4, 2016. doi: 10.1097/MOH.00000000000002082.Skokowa J, Dale DC, Touw IP, et al. Severe congenital neutropenias.Nat Rev Dis Primers,3:17032, 2017. doi: 10.1038/nrdp.2017.32
+
+--- 3. Triệu chứng và Dấu hiệu giảm bạch cầu trung tính ---
+
+Giảm bạch cầu trung tính không có triệu chứng cho đến khi nhiễm trùng phát sinh. Sốt thường là dấu hiệu duy nhất của hiện tượng nhiễm trùng. Nếu giảm bạch cầu trung tính nghiêm trọng, các dấu hiệu điển hình của viêm khu trú (ban đỏ, sưng, đau, thâm nhiễm) có thể bị chặn hoặc không có. Các triệu chứng khu trú (ví dụ như loét miệng) có thể có nhưng thường ẩn đi. Bệnh nhân bị giảm bạch cầu trung tính do thuốc do quá mẫn có thể bị sốt, phát ban và nổi hạch do phản ứng quá mẫn.Một số bệnh nhân bị giảm bạch cầu trung tính vô căn mãn tính và số lượng bạch cầu trung tính<200/mcL (< 0,2 × 109/L) không bị nhiễm trùng nghiêm trọng. Bệnh nhân bị giảm bạch cầu chu kỳ hoặc giảm bạch cầu trung tính bẩm sinh nặng có khuynh hướng bị loét miệng, viêm miệng, viêm họng và hạch to trong trường hợp giảm bạch cầu trung tính nghiêm trọng. Viêm phổi và nhiễm trùng huyết thường xảy ra.
+
+--- 4. Chẩn đoán giảm bạch cầu trung tính ---
+
+Có dấu hiệu lâm sàng (nhiễm trùng tái diễn hoặc bất thường)Công thức máu toàn bộĐánh giá nhiễm trùng bằng nuôi cấy và hình ảnhXác định cơ chế và nguyên nhân gây giảm bạch cầu trung tínhNghi ngờ giảm bạch cầu trung tính ở những bệnh nhân thường xuyên bị nhiễm trùng, nặng hoặc nhiễm trùng bất thường hoặc ở những bệnh nhân có nguy cơ (ví dụ: những người đang dùng thuốc gây độc tế bào hoặc xạ trị). Chẩn đoán xác định bằng công thức máu có công thức bạch cầu.Đánh giá về nhiễm khuẩnƯu tiên đầu tiên là xác định xem có nhiễm trùng hay không. Bởi vì nhiễm trùng có thể khó phát hiện,khám lâm sàngđánh giá một cách có hệ thống các vị trí nhiễm trùng nguyên phát phổ biến nhất:Bề mặt niêm mạc, chẳng hạn như đường tiêu hóa (nướu, họng, hậu môn)XoangPhổiBụngĐường tiết niệuDa và móng tayCác vị trí lấy máuỐng thông mạch máuNếu giảm bạch cầu trung tính cấp tính hoặc nghiêm trọng, cần tiến hành nhanh các xét nghiệm.Nuôi cấy tìm vi khuẩnlà phương pháp chính. Lấy ít nhất 2 bộ mẫu để cấy máu tìm vi khuẩn và nấm ở tất cả các bệnh nhân bị sốt. Nếu có ống thông tĩnh mạch bên trong, các mẫu được lấy từ ống thông và từ một tĩnh mạch ngoại biên riêng biệt. Nếu bệnh nhân có đặt sonde, cần nuôi cấy nấm và mycobacteria không điển hình. Nếu có loét niêm mạc cần cấy tìm herpesCandida. Các tổn thương da được hút hoặc sinh thiết để lấy tế bào học và nuôi cấy. Các mẫu nước tiểu để phân tích và nuôi cấy trong phòng thí nghiệm được lấy từ tất cả các bệnh nhân. Nếu xuất hiện tiêu chảy, cần xét nghiệm phân với mầm bệnh vi khuẩn đường ruột và độc tốClostridium(trước đây làClostridium)difficile. Nuôi cấy mẫu đờm để đánh gíá nhiễm trùng phổi.Chẩn đoán hình ảnhvô cùng hữu ích. Tất cả bệnh nhân đều được chụp phim X-quang ngực. Chụp CT ngực cũng có thể cần thiết ở những bệnh nhân bị giảm bạch cầu trung tính. CT của xoang có thể hữu ích nếu có triệu chứng hoặc dấu hiệu của viêm xoang (ví dụ như nhức đầu có vị trí, đau răng trên hoặc răng dưới, sưng mặt, chảy nước mũi). Chụp CT bụng thường được thực hiện nếu các triệu chứng (ví dụ, đau) hoặc tiền sử (như phẫu thuật gần đây) nghi ngờ nhiễm khuẩn trong ổ bụng.Xác định nguyên nhânTiếp theo, xác định cơ chế và nguyên nhân của giảm bạch cầu trung tính.Tiền sửđề cập đến tiền sử gia đình, có các rối loạn khác, tất cả các loại thuốc hoặc chế phẩm khác đang được sử dụng, vật nuôi và khả năng tiếp xúc hoặc nuốt phải độc tố.Khám thực thểđể phát hiệnlách to, hạch to, tổn thương da (ví dụ: vùng ban đỏ, dát, sẩn, mụn mủ) và các dấu hiệu của các rối loạn tiềm ẩn khác (ví dụ: viêm khớp).Nếu không xác định rõ nguyên nhân rõ ràng (ví dụ, hóa trị liệu), thì xét nghiệm quan trọng nhất làXét nghiệm tủy xươngXét nghiệm tủy xươngxác định xem giảm bạch cầu trung tính là do giảm sản sinh tủy hay là thứ phát do tăng hủy hoại tế bào (xác định bởi sự sản xuất bình thường hay tăng các tế bào tủy). Kiểm tra tủy xương cũng có thể chỉ ra nguyên nhân cụ thể của giảm bạch cầu trung tính (ví dụ:thiếu máu bất sản,xơ tủy,rối loạn loạn sản tủy,bệnh bạch cầu cấp tính, ung thư di căn, hoại tử tủy).Có thể cần phải tiến hành thêm các xét nghiệm, chẳng hạn như đếm tế bào dòng chảy và sắp xếp lại gen thụ thể tế bào T đối với hội chứng bạch cầu lympho hạt lớn (LGL) để xác định nguyên nhân gây giảm bạch cầu trung tính, tùy thuộc vào chẩn đoán nghi ngờ. Ở những bệnh nhân có nguy cơ thiếu dinh dưỡng, cần định lượng nồng độđồng,vitamin B9, vàvitamin B12trong máu. Xét nghiệm kháng thể kháng bạch cầu trung tính được thực hiện nếu nghĩ đến nguyên nhân giảm bạch cầu miễn dịch.Phân biệt giữa giảm bạch cầu trung tính do kháng sinh và nhiễm trùng đôi khi rất khó khăn. Số lượng bạch cầu ngay trước khi bắt đầu điều trị kháng sinh thường phản ánh sự thay đổi số lượng máu do nhiễm trùng.Bệnh nhân có tiền sử giảm bạch cầu trung tính mạn tính kể từ khi sơ sinh, có tiền sử sốt tái diễn, viêm lợi mạn tính có số lượng bạch cầu với sự khác biệt thực hiện 3 lần/tuần trong 6 tuần, có thể gợi ý giảm bạch cầu trung tính chu kỳ. Đếm số lượng tiểu cầu và hồng cầu lưới được thực hiện đồng thời. Ở bệnh nhân giảm bạch cầu trung tính chu kỳ thường có giảm bạch cầu ưa axit, hồng cầu lưới, tiểu cầu chu kỳ đồng bộ với bạch cầu trung tính, trong khi các bạch cầu đơn nhân và lympho không liên quan.Xét nghiệm di truyền phân tửELANEvà các gen khác là thích hợp khi xem xét các nguyên nhân bẩm sinh.
+
+--- 5. Điều trị giảm bạch cầu trung tính ---
+
+Điều trị các bệnh liên quan (ví dụ như nhiễm trùng, viêm miệng)Điều trị bằng kháng sinh hoặc dự phòng, nếu có khả năng nhiễm trùng do vi khuẩnCác yếu tố tăng trưởng dòng tủyNgừng sử dụng tác nhân gây bệnh nghi ngờ (ví dụ: thuốc)Đôi khi sử dụng corticosteroidGiảm bạch cầu trung tính cấpCác trường hợp nghi nhiễm trùng luôn được điều trị ngay. Nếu có sốt hoặc hạ huyết áp, do nhiễm trùng nghiêm trọng, cần sử dụng thuốc kháng sinh phổ rộng, liều cao, đường tĩnh mạch. Việc lựa chọn phác đồ dựa trên các tác nhân gây nhiễm trùng có khả năng xảy ra nhất, mức độ nhạy cảm với thuốc kháng khuẩn của tác nhân gây bệnh tại cơ sở cụ thể đó và độc tính tiềm ẩn của phác đồ. Do nguy cơ tạo ra các vi khuẩn kháng thuốc, vancomycin chỉ được sử dụng nếu nghi ngờ có các vi khuẩn gram dương kháng thuốc khác (1,2).Ống thông mạch máu lưu lại thường có thể được giữ nguyên ngay cả khi nghi ngờ hoặc ghi nhận vãng khuẩn huyết, nhưng việc tháo bỏ ống thông được cân nhắc nếu nhiễm trùng liên quan đếnS. aureus,Bacillus,CorynebacteriumhoặcCandidahoặc tác nhân gây bệnh là nấm hoặc nếu nuôi cấy máu liên tục dương tính mặc dù đã dùng kháng sinh thích hợp. Nhiễm trùng do tụ cầu khuẩn coagulase âm tính thường chỉ khỏi bằng liệu pháp kháng sinh đơn thuần.Ống thông Foley lưu lại cũng có thể gây ra nhiễm trùng ở bệnh nhân bị giảm bạch cầu trung tính và nên cân nhắc thay đổi hoặc tháo bỏ ống thông đối với các trường hợp nhiễm trùng đường tiết niệu dai dẳng.Nếu nuôi cấy vi khuẩn dương tính, cần sử dụng kháng sinh theo kháng sinh đồ. Nếu bệnh nhân giảm sốt trong vòng 72 giờ, thuốc kháng sinh sẽ được tiếp tục trong ít nhất 7 ngày và cho đến khi bệnh nhân không có triệu chứng hoặc dấu hiệu nhiễm trùng. Khi giảm bạch cầu trung tính thoáng qua (chẳng hạn như sau hóa trị liệu ức chế tủy), điều trị bằng kháng sinh thường được tiếp tục cho đến khi số lượng bạch cầu trung tính>500/mcL (> 0,5 × 109/L); tuy nhiên, nếu nuôi cấy vẫn âm tính, có thể xem xét ngừng dùng thuốc kháng khuẩn ở những bệnh nhân chọn lọc bị giảm bạch cầu trung tính kéo dài, đặc biệt là những người đã hết các triệu chứng và dấu hiệu viêm.Sốt kéo dài>72 giờ mặc dù điều trị kháng sinh cho thấyNguyên nhân không do vi khuẩnNhiễm trùng với các vi khuẩn kháng thuốcBội nhiễm loài vi khuẩn thứ haiNồng độ kháng sinh trong huyết thanh hoặc môNhiễm trùng khu trú, như áp xeBệnh nhân bị giảm bạch cầu trung tính có sốt kéo dài sẽ được đánh giá lại từ 2 ngày đến 4 ngày một lần bằng cách khám thực thể, nuôi cấy và phim X-quang ngực. Nếu bệnh nhân thể trạng tốt ngoại trừ có sốt, có thể dùng kháng sinh ban đầu và cần xem xét sốt do thuốc. Nếu bệnh nhân suy nhược, nên thay đổi chế độ kháng sinh.Nhiễm nấmlà nguyên nhân có khả năng nhất gây ra sốt và xấu đi liên tục. Điều trị bằng thuốc kháng nấm theo kinh nghiệm nếu vẫn sốt dai dẳng sau 3-4 ngày sử dụng kháng sinh phổ rộng. Việc lựa chọn thuốc chống nấm cụ thể (ví dụ: fluconazole, caspofungin, voriconazole, posaconazole) phụ thuộc vào loại nguy cơ (ví dụ: thời gian và mức độ nặng của tình trạng giảm bạch cầu trung tính, tiền sử nhiễm nấm, sốt kéo dài mặc dù đã sử dụng thuốc chống nấm phổ hẹp hơn) và cần phải được bác sĩ chuyên khoa về bệnh truyền nhiễm hướng dẫn.Nếu sốt vẫn tồn tại sau 3 tuần điều trị theo kinh nghiệm (gồm 2 tuần điều trị bằng thuốc kháng nấm) và giảm bạch cầu trung tính đã được giải quyết, cân nhắc dừng kháng sinh và xem xét lại nguyên nhân sốt.Đối vớinhững bệnh nhân không sốt bị giảm bạch cầu trung tính, có thể xem xét điều trị dự phòng bằng kháng sinh mặc dù những thay đổi trong hệ vi sinh vật là vi khuẩn có thể làm chậm quá trình phục hồi tủy xương. Điều trị bằng kháng sinh fluoroquinolone (levofloxacin, ciprofloxacin) được sử dụng tại một số trung tâm dành cho những bệnh nhân nhận điều trị hóa chất với lượng bạch cầu trung tính ≤ 100/mcL (≤ 0,1 x 109/L) trong 7 ngày. Phương pháp dự phòng thường được bác sĩ điều trị ung thư sử dụng. Tiếp tục sử dụng thuốc kháng sinh cho đến khi lượng bạch cầu trung tính tăng 1500/mcL (> 1,5 x 109/L). Ngoài ra, liệu pháp kháng nấm có thể được áp dụng cho những bệnh nhân sốt có giảm bạch cầu trung tính, những người này có nguy cơ nhiễm nấm cao hơn (ví dụ: sau khighép tế bào gốc tạo máuhoặc hóa trị liệu chuyên sâu chobệnh bạch cầu dòng tủy cấp tínhhoặc những người bịrối loạn loạn sản tủyhoặc có tiền sử nhiễm nấm trước đó). Việc lựa chọn thuốc chống nấm cụ thể phải do bác sĩ chuyên khoa bệnh truyền nhiễm hướng dẫn. Điều trị dự phòng bằng kháng sinh và chống nấm thường không được khuyến nghị cho những bệnh nhân sốt, bị giảm bạch cầu trung tính và không có yếu tố nguy cơ nào được dự đoán là sẽ duy trì tình trạng giảm bạch cầu trung tính trong < 7 ngày dựa trên phác đồ hóa trị liệu cụ thể của họ.Các yếu tố tăng trưởng tủy(tức là yếu tố kích thích tạo cụm bạch cầu hạt [G-CSF]) được sử dụng rộng rãi để đẩy nhanh quá trình phục hồi bạch cầu trung tính và ngăn ngừa nhiễm trùng ở những bệnh nhân đang điều trị hóa chất ung thư chuyên sâu và sau khi ghép tế bào gốc tạo máu. Nếu nguy cơ giảm bạch cầu trung tính do sốt≥30% (được đánh giá bằng số lượng bạch cầu trung tính<500 mcL [< 0,5 × 109/L], có nhiễm trùng trong chu kỳ hóa trị trước đó, bệnh đi kèm hoặc>75 tuổi), thì có chỉ định G-CSF. Nhìn chung, lợi ích lâm sàng lớn nhất xuất hiện khi yếu tố tăng trưởng được sử dụng bắt đầu khoảng 24 giờ sau khi hoàn tất hóa trị. Bệnh nhân bị giảm bạch cầu trung tính do phản ứng thuốc đặc ứng cũng có thể được hưởng lợi từ G-CSF, đặc biệt nếu dự đoán bệnh nhân sẽ hồi phục chậm. Liều dùng thông thường của G-CSF (filgrastim) là 5 mcg/kg tiêm dưới da một lần mỗi ngày trong nhiều ngày và liều dùng của pegylated G-CSF (pegfilgrastim) là 6 mg tiêm dưới da một lần cho mỗi chu kỳ hóa trị.Glucocorticoid, steroid đồng hóa và vitamin không kích thích sản sinh bạch cầu trung tính và thường không hữu ích cho bệnh nhân giảm bạch cầu trung tính. Nếu nghi ngờ tình trạng giảm bạch cầu trung tính cấp tính là do thuốc hoặc do độc tố gây ra, tất cả các tác nhân gây bệnh tiềm ẩn đều phải được ngừng lại. Nếu giảm bạch cầu trung tính phát sinh trong quá trình điều trị bằng một loại kháng sinh được biết là làm giảm số lượng bạch cầu (ví dụ: chloramphenicol), thì nên chuyển sang một loại kháng sinh khác.Súc miệng bằng nước muối sinh lý hoặc hydro peroxide vài giờ một lần, nước súc miệng dạng lỏng (có chứa lidocaine nhớt, diphenhydramine và thuốc kháng axit dạng lỏng), viên ngậm gây tê (benzocaine 15 mg 3 giờ hoặc 4 giờ một lần) hoặc nước súc miệng chlorhexidine (dung dịch 1%) hai lần mỗi ngày hoặc 3 lần mỗi ngày có thể làm giảm cảm giác khó chịu của viêm miệng có loét hầu họng.Bệnh nấm candida miệng hoặc bệnh nấm candida thực quản được điều trị bằng nystatin (400.000 đến 600.000 đơn vị nước súc miệng 4 lần mỗi ngày; nuốt nếu bị viêm thực quản), viên ngậm dẹp clotrimazole (10 mg hòa tan chậm trong miệng 5 lần mỗi ngày) hoặc thuốc chống nấm toàn thân (ví dụ, fluconazole).Có thể cần chế độ ăn uống nửa cứng hoặc lỏng khi viêm miệng cấp tính hoặc viêm thực quản, và các thuốc giảm đau (ví dụ lidocaine) có thể là cần thiết để giảm thiểu sự khó chịu.Giảm bạch cầu trung tính mạn tínhQuá trình sản sinh và triển khai bạch cầu trung tính trong tình trạnggiảm bạch cầu trung tính bẩm sinh,giảm bạch cầu trung tính theo chu kỳvàgiảm bạch cầu trung tính vô cănthường tăng lên khi tiêm G-CSF từ 1 đến 10 mcg/kg tiêm dưới da mỗi ngày một lần, bắt đầu với liều thấp và tăng dần để duy trì mức khoảng 1000/mcL (1×109/L) (3). Hiệu quả được duy trì với G-CSF hàng ngày hoặc ngắt quãng trong nhiều tháng hoặc nhiều năm.G-CSF dài hạn cũng đã được sử dụng ở những bệnh nhân khác bị giảm bạch cầu trung tính mạn tính nhẹ (bao gồm cả những người mắc chứng loạn sản tủy, nhiễm HIV, rối loạn tự miễn dịch). Lợi ích lâm sàng của điều trị bằng G-CSF ít rõ ràng hơn, đặc biệt là đối với những bệnh nhân không bị giảm bạch cầu trung tính nặng. Đối với những bệnh nhân bị bệnh tự miễn, hoặc một số bệnh nhân bị hội chứng LGL hoặc đã ghép tạng, methotrexate hoặc cyclosporine, dùng riêng lẻ hoặc phối hợp với G-CSF, cũng có thể có lợi.Trước đây, cắt lách được sử dụng để tăng số lượng bạch cầu trung tính ở những bệnh nhân bị lách to và giam hãm bạch cầu trung tính trong lách (ví dụ: hội chứng Felty); tuy nhiên, vì các yếu tố tăng trưởng và các liệu pháp mới hơn khác thường có hiệu quả, cần phải tránh cắt lách. Cắt lách có thể được xem xét đối với những bệnh nhân bị lách to đau dai dẳng hoặc giảm bạch cầu trung tính nặng (<500/mcL [< 0,5 x 109/L]) và có những vấn đề nhiễm trùng nghiêm trọng nhưng những phương pháp điều trị khác đã thất bại. Bệnh nhân cần được tiêm phòng các bệnh nhiễm trùng doStreptococcus pneumoniae,Neisseria meningitidis, vàHaemophilus influenzaetrước khi cắt lách do cắt lách dễ làm bệnh nhân bị nhiễm khuẩn.Tài liệu tham khảo về điều trị1.Lehrnbecher T, Robinson PD, Ammann RA, et al. Guideline for the Management of Fever and Neutropenia in Pediatric Patients With Cancer and Hematopoietic Cell Transplantation Recipients: Cập nhật năm 2023.J Clin Oncol.41(9):1774-1785. doi:10.1200/JCO.22.022242.Contejean A, Abbara S, Chentouh R, et al. Antimicrobial stewardship in high-risk febrile neutropenia patients.Antimicrob Resist Infect Control.2022, 11(1):52. Xuất bản ngày 26 tháng 3 năm 2022. doi:10.1186/s13756-022-01084-03.Dale DC, Bolyard AA, Shannon JA, et al. Outcomes for patients with severe chronic neutropenia treated with granulocyte colony-stimulating factor.Blood Adv.2022;6(13):3861-3869. doi: 10.1182/bloodadvances.2021005684
+
+--- 6. Những điểm chính ---
+
+Giảm bạch cầu trung tính dễ gây nhiễm trùng do vi khuẩn và nấm.Nguy cơ nhiễm trùng tỷ lệ thuận với mức độ giảm bạch cầu trung tính; bệnh nhân có lượng bạch cầu trung tính<500/mcL (< 0,5 x 109/L) có nguy cơ lớn nhất.Bởi vì đáp ứng viêm rất hạn chế, các phát hiện lâm sàng có thể âm ỉ, mặc dù thường có sốt.Điều trị bằng yếu tố kích thích tạo cụm bạch cầu hạt (G-CSF) làm tăng bạch cầu trung tính trong máu và cải thiện phản ứng viêm, do đó làm giảm nguy cơ nhiễm trùng nặng do vi khuẩn.Các bệnh nhân sốt giảm bạch cầu trung tính được điều trị theo kinh nghiệm với thuốc kháng sinh phổ rộng trong lúc chờ xác định rõ nhiễm trùng.Dự phòng bằng kháng sinh có thể được chỉ định như một chiến lược ngắn hạn ở những bệnh nhân có nguy cơ cao.

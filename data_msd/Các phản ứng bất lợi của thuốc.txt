@@ -1,0 +1,523 @@
+TIÊU ĐỀ: Các phản ứng bất lợi của thuốc
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/khái-niệm-về-dược-lý-trị-liệu/các-phản-ứng-bất-lợi-của-thuốc
+================================================================================
+
+NỘI DUNG:
+
+Các phản ứng bất lợi của thuốc
+
+(Tác dụng bất lợi của thuốc, tác dụng phụ của thuốc)
+
+Theo
+
+Shalini S. Lynch
+
+,
+
+PharmD
+
+,
+
+University of California San Francisco School of Pharmacy
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 4 2025
+
+|
+
+đã sửa đổi
+
+Thg 5 2025
+
+v99307655_vi
+
+Phản ứng bất lợi của thuốc (còn được gọi là tác dụng bất lợi của thuốc) là một thuật ngữ rộng đề cập đến tác dụng ngoài ý muốn không mong muốn, khó chịu hoặc có hại của một loại thuốc.
+
+Phân loại
+
+|
+
+Các yếu tố nguy cơ
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Phòng ngừa
+
+|
+
+Tại Hoa Kỳ từ năm 2011 đến năm 2024, hơn 29 triệu phản ứng bất lợi của thuốc (ADR) đã được báo cáo thông qua
+
+Hệ thống báo cáo biến cố bất lợi của FDA (FAERS)
+
+(
+
+1
+
+) (xem hình
+
+Hệ thống báo cáo biến cố bất lợi FAERS
+
+). Khoảng 3% đến 6% số ca nhập viện ở Hoa Kỳ và 2,5% đến 10,6% số ca nhập viện ở châu Âu là do các biến cố bất lợi (
+
+2
+
+). Ở các quốc gia có thu nhập thấp và thu nhập trung bình, khoảng 134 triệu ADR xảy ra hàng năm, dẫn đến 2,6 triệu ca tử vong.
+
+Mọi loại thuốc đều có khả năng gây ra phản ứng bất lợi của thuốc (ADR), do đó, cần cân nhắc giữa lợi ích và nguy cơ khi kê đơn thuốc. Các phản ứng bất lợi của thuốc có thể từ nhẹ đến nặng. Các biến cố bất lợi nghiêm trọng là những biến cố có thể gây ra khuyết tật, đe dọa tính mạng, dẫn đến nhập viện hoặc tử vong hoặc là những dị tật bẩm sinh.
+
+Thuật ngữ
+
+tác dụng phụ
+
+thường được sử dụng không chính xác, thường được dùng để chỉ những tác dụng không mong muốn của thuốc xảy ra trong phạm vi điều trị của thuốc.
+
+Bảng thông tin công khai của Hệ thống báo cáo biến cố bất lợi của FD...
+
+Hình ảnh
+
+Hình ảnh từ Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA).
+
+Tài liệu tham khảo
+
+1.
+
+FDA Adverse Event Reporting System (FAERS)
+
+. Public Dashboard, Database and Questions and Answers on FDA's Adverse Event Reporting System (FAERS). Truy cập ngày 4 tháng 3 năm 2025.
+
+2.
+
+Chenchula S, Atal S, Uppugunduri CRS
+
+. A review of real-world evidence on preemptive pharmacogenomic testing for preventing adverse drug reactions: a reality for future health care.
+
+Pharmacogenomics J.
+
+2024;24(2):9. Xuất bản ngày 15 tháng 3 năm 2024. doi:10.1038/s41397-024-00326-1
+
+Phân loại phản ứng bất lợi của thuốc
+
+Có nhiều nguyên nhân, biểu hiện lâm sàng và kết quả của phản ứng bất lợi của thuốc. Một hệ thống phân loại ADR thành 6 loại (
+
+1
+
+):
+
+Loại A, nội tại
+
+(còn được gọi là tăng cường): Liên quan đến các tác dụng dược lý có thể dự đoán được của thuốc; liên quan đến liều lượng và thường có thể hồi phục khi giảm liều hoặc ngừng thuốc; phổ biến (ví dụ: hạ huyết áp khi sử dụng thuốc chống tăng huyết áp)
+
+Loại B, đặc ứng
+
+(còn gọi là kỳ quái): Không thể dự đoán và không liên quan đến liều dùng; không phổ biến (ví dụ: phản ứng quá mẫn, hội chứng Stevens-Johnson, tăng thân nhiệt ác tính với thuốc gây mê đường toàn thân)
+
+Loại C, mạn tính
+
+: Xảy ra do sử dụng thuốc kéo dài; liên quan đến liều tích lũy (ví dụ: ức chế tuyến thượng thận khi sử dụng corticosteroid lâu dài, hoại tử xương hàm khi dùng bisphosphonate)
+
+Loại D, muộn
+
+: Xảy ra hoặc trở nên rõ ràng sau một thời gian sử dụng thuốc; thường liên quan đến liều; không phổ biến (ví dụ: tác dụng gây quái thai, sinh ung thư)
+
+Loại E, cai nghiện
+
+: Xảy ra ngay sau khi ngừng thuốc (ví dụ: cai nghiện opioid)
+
+Loại F, thất bại
+
+: Thất bại điều trị ngoài dự kiến; có thể do
+
+tương tác thuốc
+
+; liên quan đến liều; phổ biến (ví dụ: giảm hiệu quả hoặc uống thuốc tránh thai được sử dụng đồng thời với rifampin)
+
+Các phản ứng bất lợi của thuốc liên quan đến liều đặc biệt đáng quan tâm khi dược phẩm có chỉ số điều trị hẹp (ví dụ: xuất huyết khi dùng thuốc chống đông đường uống). Các ADR có thể là hậu quả của sự giảm thanh thải thuốc ở bệnh nhân suy giảm chức năng gan, thận hoặc do tương tác thuốc.
+
+ADR có thể được coi là một dạng độc tính; tuy nhiên, độc tính thường được sử dụng để mô tả tác động của việc
+
+uống quá liều
+
+(vô tình hoặc cố ý) một loại thuốc hoặc nồng độ thuốc trong máu tăng cao hoặc tác dụng của thuốc tăng cường xảy ra trong quá trình sử dụng thuốc hợp lý (ví dụ: khi quá trình chuyển hóa thuốc bị ức chế tạm thời do tình trạng bệnh lý hoặc một loại thuốc khác).
+
+Các phản ứng bất lợi của thuốc do
+
+quá mẫn với thuốc
+
+không liên quan đến liều và cần phải dùng thuốc trước. Dị ứng khởi phát khi một loại thuốc hoạt động như một kháng nguyên hoặc chất gây dị ứng. Sau khi bệnh nhân bị nhạy cảm, việc tiếp xúc với thuốc sau đó sẽ tạo ra một trong một số kiểuphản ứng dị ứng. Trong tiền sử lâm sàng và các xét nghiệm ở da đôi khi có thể giúp dự đoán ADR do dị ứng.
+
+Phản ứng bất lợi của thuốc thường được phân loại thành nhẹ, trung bình, nặng hoặc gây tử vong (xem bảng Phân loại phản ứng bất lợi của thuốc). Các ADR nghiêm trọng hoặc gây tử vong có thể được đề cập chi tiết trong các ô cảnh báo màu đen trong các tờ hướng dẫn sử dụng của thuốc.
+
+Tài liệu tham khảo về phân loại
+
+1.
+
+Schatz SN, Weber RJ
+
+. (2015) Adverse Drug Reactions. In: Lee MW and Murphy JE, Eds., PSAP 2015 Book 2 CNS/Pharmacy Practice, American College of Clinical Pharmacy, Lenexa, 5-26.
+
+Các yếu tố nguy cơ đối với phản ứng bất lợi của thuốc
+
+Tỷ lệ và mức độ nặng của ADR thay đổi tùy theo đặc điểm của bệnh nhân (ví dụ: tuổi, giới tính, dân tộc, các bệnh lý đi kèm, yếu tố di truyền hoặc địa lý) và tùy theo đặc điểm của thuốc (ví dụ: loại thuốc,
+
+đường dùng
+
+, liều lượng,
+
+sinh khả dụng
+
+, thời gian điều trị). Nguy cơ cao hơn ở người cao tuổi và có nhiều thuốc. Đóng góp của sai sót trong kê đơn của bác sĩ kê đơn và
+
+tuân thủ kém
+
+của bệnh nhân đối với phác đồ thuốc theo đơn đối với tỷ lệ bị phản ứng bất lợi của thuốc là không rõ ràng.
+
+Các yếu tố nguy cơ thường gặp hoặc quần thể bệnh nhân có nguy cơ cao bao gồm (
+
+1
+
+):
+
+Người cao tuổi
+
+Trẻ em
+
+Suy thận hoặc suy gan
+
+Các biến thể di truyền (ví dụ: các biến thể di truyền gây quá mẫn với abacavir)
+
+Tỷ lệ mắc và mức độ nặng của phản ứng bất lợi của thuốc cao hơn ở
+
+người cao tuổi
+
+(xem
+
+Các vấn đề liên quan đến thuốc ở người cao tuổi
+
+) mặc dù các bệnh đi kèm, thay vì tuổi tác, có thể là nguyên nhân chính. Theo cơ sở dữ liệu dược cảnh giác của Tổ chức Y tế Thế giới, phản ứng bất lợi của thuốc gây tử vong chủ yếu xảy ra ở những bệnh nhân trên 75 tuổi (
+
+2
+
+). Theo hệ thống Giám sát thương tích điện tử quốc gia của Hoa Kỳ, việc sử dụng thuốc chống đông máu và thuốc điều trị bệnh tiểu đường là nguyên nhân phổ biến nhất liên quan đến ADR khiến người cao tuổi phải đến khoa cấp cứu (
+
+3
+
+). Việc sử dụng thuốc an thần và thuốc ngủ như benzodiazepin và thuốc giảm đau không nhằm mục đích điều trị cũng góp phần gây ra tác hại liên quan đến thuốc.
+
+Tài liệu tham khảo về yếu tố nguy cơ
+
+1.
+
+Schatz SN, Weber RJ
+
+. (2015) Adverse Drug Reactions. In: Lee MW and Murphy JE, Eds., PSAP 2015 Book 2 CNS/Pharmacy Practice, American College of Clinical Pharmacy, Lenexa, 5-26.
+
+2.
+
+Montastruc J-L, Lafaurie M, de Canecaude C, et al
+
+. Fatal adverse drug reactions: A worldwide perspective in the World Health Organization pharmacovigilance database.
+
+Br J Clin Pharmacol.
+
+87(11):4334-4340, 2021. doi: 10.1111/bcp.14851
+
+3.
+
+Budnitz DS, Shehab N, Lovegrove MC, et al
+
+. US emergency department visits attributed to medication harms, 2017-2019.
+
+JAMA.
+
+326 (13):1-11, 2021. doi: 10.1001/jama.2021.13844
+
+Các triệu chứng và dấu hiệu của phản ứng bất lợi của thuốc
+
+Các triệu chứng và dấu hiệu có thể xuất hiện ngay sau liều đầu tiên hoặc chỉ sau một thời gian trì hoãn hoặc khi sử dụng lâu dài. Các triệu chứng và dấu hiệu này có thể rõ ràng là kết quả của thuốc hoặc quá khó nhận biết để xác định là có liên quan đến một loại thuốc cụ thể.
+
+Các phản ứng bất lợi của thuốc là dị ứng thường không xảy ra sau lần sử dụng thuốc đầu tiên. Nếu xảy ra tình trạng quá mẫn, phản ứng bất lợi của thuốc có thể xảy ra ngay sau khi dùng thuốc lần tiếp theo. Các triệu chứng có thể bao gồm ngứa, phát ban, hồng ban cố định nhiễm sắc, phù nề đường hô hấp trên hoặc đường hô hấp dưới kèm theo khó thở và/hoặc hạ huyết áp.
+
+Ở người cao tuổi, ADR khó xác định có thể gây suy giảm chức năng, thay đổi tình trạng tinh thần, không thể hoạt động, ăn mất ngon, lú lẫn, và trầm cảm.
+
+Chẩn đoán các phản ứng bất lợi của thuốc
+
+Bệnh sử và khám lâm sàng
+
+Cân nhắc sử dụng lại thuốc
+
+Các triệu chứng xảy ra ngay sau khi uống thuốc thường dễ liên quan đến việc sử dụng loại thuốc đó. Nếu bệnh nhân có các triệu chứng không đặc hiệu, luôn cần phải xem xét các ADR trước khi bắt đầu điều trị triệu chứng.
+
+Diagnosing symptoms due to chronic use of a medication requires a significant level of suspicion and is often complicated. Ngừng thuốc đôi khi là cần thiết nhưng rất khó nếu thuốc đó là thiết yếu và không có dược phẩm thay thế chấp nhận được. Khi bằng chứng về mối liên quan giữa dược phẩm và các triệu chứng có vai trò quan trọng, thì cần phải cân nhắc việc thử dùng lại thuốc, trừ trường hợp phản ứng dị ứng nặng.
+
+Để biết thông tin về chẩn đoán một số loại phản ứng bất lợi của thuốc cụ thể, hãy xem
+
+quá mẫn với thuốc
+
+,
+
+phát ban trên da do thuốc
+
+và
+
+sốc phản vệ
+
+.
+
+Các chuyên gia chăm sóc sức khỏe tại Hoa Kỳ nên báo cáo hầu hết các phản ứng bất lợi của thuốc nghi ngờ cho
+
+MedWatch
+
+(chương trình giám sát ADR của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ [FDA]), đây là một hệ thống cảnh báo sớm. MedWatch cũng theo dõi những thay đổi về bản chất và tần số của các ADR. Báo cáo trực tuyến về ADR được khuyến khích. Các biểu mẫu và thông tin về báo cáo phản ứng bất lợi của thuốc có sẵn thông qua Hệ thống báo cáo biến cố bất lợi của FDA (
+
+FAERS
+
+). FAERS cũng hoạt động như một công cụ tìm kiếm giúp truy cập dữ liệu về phản ứng bất lợi của thuốc.
+
+Điều trị các phản ứng bất lợi của thuốc
+
+Ngừng thuốc nếu cần thiết
+
+Thay đổi liều dùng
+
+Đối với các phản ứng bất lợi của thuốc liên quan đến liều dùng, việc thay đổi liều dùng hoặc loại bỏ hoặc giảm các yếu tố gây ra các phản ứng bất lợi của thuốc có thể hết. Rất hiếm khi cần tăng tốc độ thải trừ thuốc. Để biết thông tin về độc tính của một số loại thuốc và chất cụ thể, hãy xem bảng
+
+Triệu chứng và cách điều trị một số loại chất độc cụ thể
+
+.
+
+Đối với tình trạng quá mẫn cảm với thuốc, thông thường phải ngừng thuốc và không thử dùng lại ở hầu hết bệnh nhân. Cần phải chuyển sang một nhóm thuốc khác với ADR do dị ứng và đôi khi với các ADR liên quan đến liều. Trong một số bối cảnh lâm sàng, thuốc là phương án điều trị tốt nhất hoặc duy nhất hiện có và có thể khuyến cáo dùng thuốc kháng histamin hoặc corticosteroid trước (ví dụ: trước khi tiến hành hóa trị cho bệnh nhân bị quá mẫn với một loại thuốc hoặc nhóm thuốc cụ thể) hoặc
+
+giải mẫn cảm
+
+(ví dụ: điều trị bệnh giang mai ở bệnh nhân mang thai bị dị ứng với penicillin).
+
+Để biết thông tin về điều trị một số phản ứng bất lợi của thuốc cụ thể, xem quá
+
+mẫn với thuốc
+
+,
+
+phát ban da do thuốc
+
+và
+
+sốc phản vệ
+
+.
+
+Phòng ngừa các phản ứng bất lợi của thuốc
+
+Phòng ngừa các phản ứng bất lợi của thuốc (ADR) cần phải hiểu rõ dược phẩm và các phản ứng có thể xảy ra. Nhiều nguyên nhân gây phản ứng bất lợi của thuốc có thể phòng ngừa được (xem
+
+Nguyên nhân có thể phòng ngừa được của các vấn đề liên quan đến thuốc
+
+.)
+
+Bảng
+
+Các nguyên nhân có thể ngăn ngừa được của các vấn đề liên quan đến thuốc
+
+Bảng
+
+Các nguyên nhân có thể ngăn ngừa được của các vấn đề liên quan đến thuốc
+
+Các nguyên nhân có thể ngăn ngừa được của các vấn đề liên quan đến thuốc
+
+Phân loại
+
+Định nghĩa
+
+Các tương tác thuốc
+
+Việc sử dụng một loại thuốc dẫn đến tương tác thuốc-thuốc, thuốc-thực phẩm, thuốc-thuốc bổ sung hoặc thuốc-bệnh, gây ra các tác dụng phụ bất lợi hoặc giảm hiệu quả.
+
+Theo dõi không đầy đủ
+
+Một vấn đề y tế đang được điều trị bằng đúng loại thuốc, nhưng bệnh nhân không được theo dõi đầy đủ về các biến chứng, hiệu suất hoặc cả hai.
+
+Lựa chọn thuốc không phù hợp
+
+Một vấn đề y tế đòi hỏi phải điều trị bằng thuốc đang được điều trị bằng loại thuốc không tối ưu hoặc không hiệu quả đối với vấn đề y tế đó.
+
+Điều trị không phù hợp
+
+Bệnh nhân đang dùng thuốc mà không có lý do hợp lệ về mặt y tế, hoặc nguy cơ của điều trị lớn hơn lợi ích tiềm năng của thuốc.
+
+Tuân thủ điều trị kém
+
+Thuốc được kê đúng cho một vấn đề sức khỏe, nhưng bệnh nhân lại không dùng thuốc theo chỉ dẫn.
+
+Quá liều thuốc
+
+Một vấn đề y tế đang được điều trị bằng quá nhiều thuốc đúng.
+
+Giao tiếp kém
+
+Thuốc được dùng không đúng liều, trùng lặp, tiếp tục hoặc ngừng khi việc chăm sóc được chuyển giao kém giữa các chuyên gia chăm sóc sức khỏe và/hoặc cơ sở.
+
+Kê đơn không đầy đủ
+
+Một vấn đề y tế đang được điều trị bằng quá ít thuốc đúng.
+
+Hệ thống báo cáo phản ứng bất lợi của thuốc (ví dụ: FAERS) cung cấp thông tin cho bác sĩ lâm sàng, bệnh nhân, cơ quan quản lý và nhà sản xuất có thể giúp tránh các phản ứng bất lợi của thuốc tiếp theo.
+
+Khi thuốc được kê đơn thông qua hệ thống hồ sơ bệnh án điện tử, có thể xác định và ngăn ngừa tương tác thuốc. Ngoài ra, nhiều máy tính tương tác thuốc có sẵn trực tuyến. Tương tự, các nhà thuốc thường có hệ thống kỹ thuật số để kiểm tra các tương tác thuốc trước khi cấp phát thuốc.
+
+Thuốc và liều dùng ban đầu phải được lựa chọn cẩn thận cho người cao tuổi (
+
+1
+
+). Ở trẻ em, nhiều loại thuốc được tính liều theo cân nặng và cần phải cân trọng lượng trước khi kê đơn thuốc mới.
+
+Nhiều gen khác nhau đã được phát hiện có liên quan đến phản ứng bất lợi của thuốc. Ví dụ: nhiều loại enzyme gan ảnh hưởng đến quá trình chuyển hóa cytochrome P450 ở gan đã được mô tả và nhiều loại bị ảnh hưởng bởi các đa hình nucleotide đơn, dẫn đến các tác động có ý nghĩa lâm sàng đối với quá trình chuyển hóa của nhiều loại thuốc thường được kê đơn. Do đó, xét nghiệm dược lý di truyền có thể giúp dự đoán, giảm và giảm thiểu ADR (
+
+2, 3, 4
+
+). Một thử nghiệm kiểm tra hệ gen dược lý phòng ngừa để ngăn ngừa phản ứng bất lợi của thuốc đã chứng minh nguy cơ phản ứng bất lợi của thuốc thấp hơn 33% ở những bệnh nhân được xét nghiệm di truyền so với điều trị tiêu chuẩn (
+
+5
+
+). Tuy nhiên, chỉ có một số lượng hạn chế các xét nghiệm như vậy được sử dụng trong thực hành lâm sàng thường quy (ví dụ: liệu pháp warfarin theo kiểu gen [
+
+6
+
+]).
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+2023 American Geriatrics Society Beers Criteria® Update Expert Panel
+
+. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults.
+
+J Am Geriatr Soc.
+
+2023; 71(7): 2052-2081. doi:10.1111/jgs.18372
+
+2.
+
+Zhou Z-W, Chen X-W, Sneed KB, et al
+
+. Clinical association between pharmacogenomics and adverse drug reactions.
+
+Drugs.
+
+75:589-631, 2015. doi: 10.1007/s40265-015-0375-0
+
+3.
+
+Gerogianni K, Tsezou A, Dimas K
+
+. Drug-induced skin adverse reactions: The role of pharmacogenomics in their prevention.
+
+Mol Diagn Ther.
+
+22(3): 297-314, 2018. doi: 10.1007/s40291-018-0330-3
+
+4.
+
+Micaglio E, Locati ET, Monasky MM, et al
+
+. Role of pharmacogenetics in adverse drug reactions: An update towards personalized medicine.
+
+Front Pharmacol.
+
+12:651720, 2021 https://doi.org/10.3389/fphar.2021.651720
+
+5.
+
+Chenchula S, Atal S, Uppugunduri CRS
+
+. A review of real-world evidence on preemptive pharmacogenomic testing for preventing adverse drug reactions: a reality for future health care.
+
+Pharmacogenomics J.
+
+2024;24(2):9. Xuất bản ngày 15 tháng 3 năm 2024. doi:10.1038/s41397-024-00326-1
+
+6.
+
+Bardolia C, Matos A, Michaud V, et al
+
+. Utilizing pharmacogenomics to educe adverse drug events.
+
+Am J Biomed Sci & Res.
+
+11(3). doi: 10.34297/AJBSR.2020.11.00163
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Tác dụng bất lợi của thuốc, tác dụng phụ của thuốc) ---
+
+TheoShalini S. Lynch,PharmD,University of California San Francisco School of PharmacyXem xét bởiEva M. Vivian,PharmD, MS, PhD,University of Wisconsin School of PharmacyĐã xem xét/Đã chỉnh sửaThg 4 2025|đã sửa đổiThg 5 2025v99307655_vi
+
+--- 2. Phân loại phản ứng bất lợi của thuốc ---
+
+Có nhiều nguyên nhân, biểu hiện lâm sàng và kết quả của phản ứng bất lợi của thuốc. Một hệ thống phân loại ADR thành 6 loại (1):Loại A, nội tại(còn được gọi là tăng cường): Liên quan đến các tác dụng dược lý có thể dự đoán được của thuốc; liên quan đến liều lượng và thường có thể hồi phục khi giảm liều hoặc ngừng thuốc; phổ biến (ví dụ: hạ huyết áp khi sử dụng thuốc chống tăng huyết áp)Loại B, đặc ứng(còn gọi là kỳ quái): Không thể dự đoán và không liên quan đến liều dùng; không phổ biến (ví dụ: phản ứng quá mẫn, hội chứng Stevens-Johnson, tăng thân nhiệt ác tính với thuốc gây mê đường toàn thân)Loại C, mạn tính: Xảy ra do sử dụng thuốc kéo dài; liên quan đến liều tích lũy (ví dụ: ức chế tuyến thượng thận khi sử dụng corticosteroid lâu dài, hoại tử xương hàm khi dùng bisphosphonate)Loại D, muộn: Xảy ra hoặc trở nên rõ ràng sau một thời gian sử dụng thuốc; thường liên quan đến liều; không phổ biến (ví dụ: tác dụng gây quái thai, sinh ung thư)Loại E, cai nghiện: Xảy ra ngay sau khi ngừng thuốc (ví dụ: cai nghiện opioid)Loại F, thất bại: Thất bại điều trị ngoài dự kiến; có thể dotương tác thuốc; liên quan đến liều; phổ biến (ví dụ: giảm hiệu quả hoặc uống thuốc tránh thai được sử dụng đồng thời với rifampin)Các phản ứng bất lợi của thuốc liên quan đến liều đặc biệt đáng quan tâm khi dược phẩm có chỉ số điều trị hẹp (ví dụ: xuất huyết khi dùng thuốc chống đông đường uống). Các ADR có thể là hậu quả của sự giảm thanh thải thuốc ở bệnh nhân suy giảm chức năng gan, thận hoặc do tương tác thuốc.ADR có thể được coi là một dạng độc tính; tuy nhiên, độc tính thường được sử dụng để mô tả tác động của việcuống quá liều(vô tình hoặc cố ý) một loại thuốc hoặc nồng độ thuốc trong máu tăng cao hoặc tác dụng của thuốc tăng cường xảy ra trong quá trình sử dụng thuốc hợp lý (ví dụ: khi quá trình chuyển hóa thuốc bị ức chế tạm thời do tình trạng bệnh lý hoặc một loại thuốc khác).Các phản ứng bất lợi của thuốc doquá mẫn với thuốckhông liên quan đến liều và cần phải dùng thuốc trước. Dị ứng khởi phát khi một loại thuốc hoạt động như một kháng nguyên hoặc chất gây dị ứng. Sau khi bệnh nhân bị nhạy cảm, việc tiếp xúc với thuốc sau đó sẽ tạo ra một trong một số kiểuphản ứng dị ứng. Trong tiền sử lâm sàng và các xét nghiệm ở da đôi khi có thể giúp dự đoán ADR do dị ứng.Phản ứng bất lợi của thuốc thường được phân loại thành nhẹ, trung bình, nặng hoặc gây tử vong (xem bảng Phân loại phản ứng bất lợi của thuốc). Các ADR nghiêm trọng hoặc gây tử vong có thể được đề cập chi tiết trong các ô cảnh báo màu đen trong các tờ hướng dẫn sử dụng của thuốc.Tài liệu tham khảo về phân loại1.Schatz SN, Weber RJ. (2015) Adverse Drug Reactions. In: Lee MW and Murphy JE, Eds., PSAP 2015 Book 2 CNS/Pharmacy Practice, American College of Clinical Pharmacy, Lenexa, 5-26.
+
+--- 3. Các yếu tố nguy cơ đối với phản ứng bất lợi của thuốc ---
+
+Tỷ lệ và mức độ nặng của ADR thay đổi tùy theo đặc điểm của bệnh nhân (ví dụ: tuổi, giới tính, dân tộc, các bệnh lý đi kèm, yếu tố di truyền hoặc địa lý) và tùy theo đặc điểm của thuốc (ví dụ: loại thuốc,đường dùng, liều lượng,sinh khả dụng, thời gian điều trị). Nguy cơ cao hơn ở người cao tuổi và có nhiều thuốc. Đóng góp của sai sót trong kê đơn của bác sĩ kê đơn vàtuân thủ kémcủa bệnh nhân đối với phác đồ thuốc theo đơn đối với tỷ lệ bị phản ứng bất lợi của thuốc là không rõ ràng.Các yếu tố nguy cơ thường gặp hoặc quần thể bệnh nhân có nguy cơ cao bao gồm (1):Người cao tuổiTrẻ emSuy thận hoặc suy ganCác biến thể di truyền (ví dụ: các biến thể di truyền gây quá mẫn với abacavir)Tỷ lệ mắc và mức độ nặng của phản ứng bất lợi của thuốc cao hơn ởngười cao tuổi(xemCác vấn đề liên quan đến thuốc ở người cao tuổi) mặc dù các bệnh đi kèm, thay vì tuổi tác, có thể là nguyên nhân chính. Theo cơ sở dữ liệu dược cảnh giác của Tổ chức Y tế Thế giới, phản ứng bất lợi của thuốc gây tử vong chủ yếu xảy ra ở những bệnh nhân trên 75 tuổi (2). Theo hệ thống Giám sát thương tích điện tử quốc gia của Hoa Kỳ, việc sử dụng thuốc chống đông máu và thuốc điều trị bệnh tiểu đường là nguyên nhân phổ biến nhất liên quan đến ADR khiến người cao tuổi phải đến khoa cấp cứu (3). Việc sử dụng thuốc an thần và thuốc ngủ như benzodiazepin và thuốc giảm đau không nhằm mục đích điều trị cũng góp phần gây ra tác hại liên quan đến thuốc.
+
+--- 4. Các triệu chứng và dấu hiệu của phản ứng bất lợi của thuốc ---
+
+Các triệu chứng và dấu hiệu có thể xuất hiện ngay sau liều đầu tiên hoặc chỉ sau một thời gian trì hoãn hoặc khi sử dụng lâu dài. Các triệu chứng và dấu hiệu này có thể rõ ràng là kết quả của thuốc hoặc quá khó nhận biết để xác định là có liên quan đến một loại thuốc cụ thể.Các phản ứng bất lợi của thuốc là dị ứng thường không xảy ra sau lần sử dụng thuốc đầu tiên. Nếu xảy ra tình trạng quá mẫn, phản ứng bất lợi của thuốc có thể xảy ra ngay sau khi dùng thuốc lần tiếp theo. Các triệu chứng có thể bao gồm ngứa, phát ban, hồng ban cố định nhiễm sắc, phù nề đường hô hấp trên hoặc đường hô hấp dưới kèm theo khó thở và/hoặc hạ huyết áp.Ở người cao tuổi, ADR khó xác định có thể gây suy giảm chức năng, thay đổi tình trạng tinh thần, không thể hoạt động, ăn mất ngon, lú lẫn, và trầm cảm.
+
+--- 5. Chẩn đoán các phản ứng bất lợi của thuốc ---
+
+Bệnh sử và khám lâm sàngCân nhắc sử dụng lại thuốcCác triệu chứng xảy ra ngay sau khi uống thuốc thường dễ liên quan đến việc sử dụng loại thuốc đó. Nếu bệnh nhân có các triệu chứng không đặc hiệu, luôn cần phải xem xét các ADR trước khi bắt đầu điều trị triệu chứng.Diagnosing symptoms due to chronic use of a medication requires a significant level of suspicion and is often complicated. Ngừng thuốc đôi khi là cần thiết nhưng rất khó nếu thuốc đó là thiết yếu và không có dược phẩm thay thế chấp nhận được. Khi bằng chứng về mối liên quan giữa dược phẩm và các triệu chứng có vai trò quan trọng, thì cần phải cân nhắc việc thử dùng lại thuốc, trừ trường hợp phản ứng dị ứng nặng.Để biết thông tin về chẩn đoán một số loại phản ứng bất lợi của thuốc cụ thể, hãy xemquá mẫn với thuốc,phát ban trên da do thuốcvàsốc phản vệ.Các chuyên gia chăm sóc sức khỏe tại Hoa Kỳ nên báo cáo hầu hết các phản ứng bất lợi của thuốc nghi ngờ choMedWatch(chương trình giám sát ADR của Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ [FDA]), đây là một hệ thống cảnh báo sớm. MedWatch cũng theo dõi những thay đổi về bản chất và tần số của các ADR. Báo cáo trực tuyến về ADR được khuyến khích. Các biểu mẫu và thông tin về báo cáo phản ứng bất lợi của thuốc có sẵn thông qua Hệ thống báo cáo biến cố bất lợi của FDA (FAERS). FAERS cũng hoạt động như một công cụ tìm kiếm giúp truy cập dữ liệu về phản ứng bất lợi của thuốc.
+
+--- 6. Điều trị các phản ứng bất lợi của thuốc ---
+
+Ngừng thuốc nếu cần thiếtThay đổi liều dùngĐối với các phản ứng bất lợi của thuốc liên quan đến liều dùng, việc thay đổi liều dùng hoặc loại bỏ hoặc giảm các yếu tố gây ra các phản ứng bất lợi của thuốc có thể hết. Rất hiếm khi cần tăng tốc độ thải trừ thuốc. Để biết thông tin về độc tính của một số loại thuốc và chất cụ thể, hãy xem bảngTriệu chứng và cách điều trị một số loại chất độc cụ thể.Đối với tình trạng quá mẫn cảm với thuốc, thông thường phải ngừng thuốc và không thử dùng lại ở hầu hết bệnh nhân. Cần phải chuyển sang một nhóm thuốc khác với ADR do dị ứng và đôi khi với các ADR liên quan đến liều. Trong một số bối cảnh lâm sàng, thuốc là phương án điều trị tốt nhất hoặc duy nhất hiện có và có thể khuyến cáo dùng thuốc kháng histamin hoặc corticosteroid trước (ví dụ: trước khi tiến hành hóa trị cho bệnh nhân bị quá mẫn với một loại thuốc hoặc nhóm thuốc cụ thể) hoặcgiải mẫn cảm(ví dụ: điều trị bệnh giang mai ở bệnh nhân mang thai bị dị ứng với penicillin).Để biết thông tin về điều trị một số phản ứng bất lợi của thuốc cụ thể, xem quámẫn với thuốc,phát ban da do thuốcvàsốc phản vệ.
+
+--- 7. Phòng ngừa các phản ứng bất lợi của thuốc ---
+
+Phòng ngừa các phản ứng bất lợi của thuốc (ADR) cần phải hiểu rõ dược phẩm và các phản ứng có thể xảy ra. Nhiều nguyên nhân gây phản ứng bất lợi của thuốc có thể phòng ngừa được (xemNguyên nhân có thể phòng ngừa được của các vấn đề liên quan đến thuốc.)BảngCác nguyên nhân có thể ngăn ngừa được của các vấn đề liên quan đến thuốcBảngCác nguyên nhân có thể ngăn ngừa được của các vấn đề liên quan đến thuốcCác nguyên nhân có thể ngăn ngừa được của các vấn đề liên quan đến thuốcPhân loạiĐịnh nghĩaCác tương tác thuốcViệc sử dụng một loại thuốc dẫn đến tương tác thuốc-thuốc, thuốc-thực phẩm, thuốc-thuốc bổ sung hoặc thuốc-bệnh, gây ra các tác dụng phụ bất lợi hoặc giảm hiệu quả.Theo dõi không đầy đủMột vấn đề y tế đang được điều trị bằng đúng loại thuốc, nhưng bệnh nhân không được theo dõi đầy đủ về các biến chứng, hiệu suất hoặc cả hai.Lựa chọn thuốc không phù hợpMột vấn đề y tế đòi hỏi phải điều trị bằng thuốc đang được điều trị bằng loại thuốc không tối ưu hoặc không hiệu quả đối với vấn đề y tế đó.Điều trị không phù hợpBệnh nhân đang dùng thuốc mà không có lý do hợp lệ về mặt y tế, hoặc nguy cơ của điều trị lớn hơn lợi ích tiềm năng của thuốc.Tuân thủ điều trị kémThuốc được kê đúng cho một vấn đề sức khỏe, nhưng bệnh nhân lại không dùng thuốc theo chỉ dẫn.Quá liều thuốcMột vấn đề y tế đang được điều trị bằng quá nhiều thuốc đúng.Giao tiếp kémThuốc được dùng không đúng liều, trùng lặp, tiếp tục hoặc ngừng khi việc chăm sóc được chuyển giao kém giữa các chuyên gia chăm sóc sức khỏe và/hoặc cơ sở.Kê đơn không đầy đủMột vấn đề y tế đang được điều trị bằng quá ít thuốc đúng.Hệ thống báo cáo phản ứng bất lợi của thuốc (ví dụ: FAERS) cung cấp thông tin cho bác sĩ lâm sàng, bệnh nhân, cơ quan quản lý và nhà sản xuất có thể giúp tránh các phản ứng bất lợi của thuốc tiếp theo.Khi thuốc được kê đơn thông qua hệ thống hồ sơ bệnh án điện tử, có thể xác định và ngăn ngừa tương tác thuốc. Ngoài ra, nhiều máy tính tương tác thuốc có sẵn trực tuyến. Tương tự, các nhà thuốc thường có hệ thống kỹ thuật số để kiểm tra các tương tác thuốc trước khi cấp phát thuốc.Thuốc và liều dùng ban đầu phải được lựa chọn cẩn thận cho người cao tuổi (1). Ở trẻ em, nhiều loại thuốc được tính liều theo cân nặng và cần phải cân trọng lượng trước khi kê đơn thuốc mới.Nhiều gen khác nhau đã được phát hiện có liên quan đến phản ứng bất lợi của thuốc. Ví dụ: nhiều loại enzyme gan ảnh hưởng đến quá trình chuyển hóa cytochrome P450 ở gan đã được mô tả và nhiều loại bị ảnh hưởng bởi các đa hình nucleotide đơn, dẫn đến các tác động có ý nghĩa lâm sàng đối với quá trình chuyển hóa của nhiều loại thuốc thường được kê đơn. Do đó, xét nghiệm dược lý di truyền có thể giúp dự đoán, giảm và giảm thiểu ADR (2, 3, 4). Một thử nghiệm kiểm tra hệ gen dược lý phòng ngừa để ngăn ngừa phản ứng bất lợi của thuốc đã chứng minh nguy cơ phản ứng bất lợi của thuốc thấp hơn 33% ở những bệnh nhân được xét nghiệm di truyền so với điều trị tiêu chuẩn (5). Tuy nhiên, chỉ có một số lượng hạn chế các xét nghiệm như vậy được sử dụng trong thực hành lâm sàng thường quy (ví dụ: liệu pháp warfarin theo kiểu gen [6]).Tài liệu tham khảo về phòng ngừa1.2023 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults.J Am Geriatr Soc.2023; 71(7): 2052-2081. doi:10.1111/jgs.183722.Zhou Z-W, Chen X-W, Sneed KB, et al. Clinical association between pharmacogenomics and adverse drug reactions.Drugs.75:589-631, 2015. doi: 10.1007/s40265-015-0375-03.Gerogianni K, Tsezou A, Dimas K. Drug-induced skin adverse reactions: The role of pharmacogenomics in their prevention.Mol Diagn Ther.22(3): 297-314, 2018. doi: 10.1007/s40291-018-0330-34.Micaglio E, Locati ET, Monasky MM, et al. Role of pharmacogenetics in adverse drug reactions: An update towards personalized medicine.Front Pharmacol.12:651720, 2021 https://doi.org/10.3389/fphar.2021.6517205.Chenchula S, Atal S, Uppugunduri CRS. A review of real-world evidence on preemptive pharmacogenomic testing for preventing adverse drug reactions: a reality for future health care.Pharmacogenomics J.2024;24(2):9. Xuất bản ngày 15 tháng 3 năm 2024. doi:10.1038/s41397-024-00326-16.Bardolia C, Matos A, Michaud V, et al. Utilizing pharmacogenomics to educe adverse drug events.Am J Biomed Sci & Res.11(3). doi: 10.34297/AJBSR.2020.11.00163

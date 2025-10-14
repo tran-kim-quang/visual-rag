@@ -1,0 +1,201 @@
+TIÊU ĐỀ: Nanomedicine
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-động-học/nanomedicine
+================================================================================
+
+NỘI DUNG:
+
+Nanomedicine
+
+Theo
+
+Jennifer Le
+
+,
+
+PharmD, MAS, BCPS-ID, FIDSA, FCCP, FCSHP
+
+,
+
+Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+San Diego
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2024
+
+v66935362_vi
+
+Y học nano sử dụng các công cụ của công nghệ nano (tức là các hạt nano tương thích sinh học và nanorobot) để cung cấp thuốc, chẩn đoán bệnh và tiến hành chẩn đoán hình ảnh
+
+in vivo
+
+. Công nghệ nano đã cải thiện việc phân phối thuốc bằng cách nhắm mục tiêu vào các cơ quan cụ thể để tối ưu hóa hiệu quả và độ an toàn của các loại thuốc riêng lẻ. Kích thước hạt nano (thường dao động từ 1 đến 100 nm), hình dạng và tính chất hóa học bề mặt là những yếu tố quan trọng góp phần vào dược động học của nó, bao gồm mức độ
+
+hấp thụ
+
+,
+
+sinh khả dụng
+
+, sự hấp thu của tế bào,
+
+phân bố sinh học
+
+và
+
+độ thanh thải
+
+(
+
+1
+
+,
+
+2
+
+,
+
+3
+
+).
+
+Hầu hết các thuốc nano được sử dụng bằng đường uống hoặc tiêm tĩnh mạch và đạt được tác dụng của chúng thông qua việc nhắm mục tiêu thụ động, dựa trên sự tích tụ không đặc hiệu trong các mô, bao gồm cả khối u (
+
+2
+
+). Liposome là loại thuốc nano đầu tiên và vẫn là một trong những loại thuốc nano thành công nhất được liên hợp với các thuốc hóa trị liệu, chẳng hạn như
+
+doxorubicin
+
+và
+
+irinotecan
+
+, để cải thiện khả năng phân phối sinh học của các thuốc này (
+
+2
+
+,
+
+4
+
+).
+
+Các hạt nano polyme (ví dụ:
+
+peg-filgrastim
+
+) làm tăng thời gian bán hủy và khả dụng sinh học của thuốc và đã được sử dụng trong các ứng dụng giải phóng có kiểm soát. Micelle được sử dụng để bao bọc các loại thuốc ít tan trong nước (ví dụ:
+
+estradiol
+
+) để tăng cường khả năng hòa tan của thuốc trong dung dịch nước và do đó tăng khả năng hấp thụ của thuốc.
+
+Các tinh thể nano chỉ bao gồm thuốc, ở kích thước nano (ví dụ:
+
+sirolimus
+
+), dẫn đến tăng diện tích bề mặt để hòa tan và hòa tan. Với sự quan tâm ngày càng tăng đối với các loại thuốc dựa trên y học nano, dược động học và
+
+dược lực học
+
+phải được đánh giá chặt chẽ để tối ưu hóa việc đưa thuốc đến vị trí mục tiêu đồng thời giảm thiểu tác dụng phụ vì các hạt nano được thiết kế để tồn tại lâu dài với lượng bài tiết tối thiểu trong các cơ quan.
+
+Mô hình dược động học dựa trên sinh lý học (PBPK) là một công cụ toán học mạnh mẽ để định lượng mức hấp thụ, phân bố, chuyển hóa và quá trình bài tiết (ADME), đặc biệt là phân bố thuốc vào các cơ quan và mô; công cụ này cung cấp tiện ích đáng kể để hiểu các cơ chế liên quan đến dược động học y học nano và các nguồn biến đổi. Sự biến đổi đáng kể trong phân bố hạt nano có thể xảy ra ở một số cơ quan nhất định như gan, lách, và phổi do các đặc tính hóa lý hạt nano như kích thước và vật liệu (
+
+5
+
+). Khi áp dụng với các mô hình dược lực học đánh giá tác dụng dược lý trong các mô đích, lập mô hình PBPK có thể dự báo hiệu quả và độc tính trong khi hạn chế việc sử dụng các mô hình động vật.
+
+(Xem thêm
+
+Tổng quan về Dược động học
+
+.)
+
+Tài liệu tham khảo
+
+1.
+
+Astruc D
+
+: Introduction to nanomedicine.
+
+Molecules
+
+21(1):E4, 2015. doi: 10.3390/molecules21010004
+
+2.
+
+Bobo D, Robinson KJ,  Islam J, et al
+
+: Nanoparticle-based medicines: A review of FDA-approved materials and clinical trials to date.
+
+Pharmaceutical Research
+
+33(10):2373–2387, 2016. doi: 10.1007/s11095-016-1958-5
+
+3.
+
+Abdelbaky SB, Ibrahim MT, Samy H, et al
+
+: Cancer immunotherapy from biology to nanomedicine.
+
+J Controlled Release
+
+336(10):410-432. doi.org/10.1016/j.jconrel.2021.06.025
+
+4.
+
+Allen TM, Cullis PR
+
+: Liposomal drug delivery systems: From concept to clinical applications.
+
+Adv Drug Deliv Rev
+
+65(1):36-48, 2013. doi: 10.1016/j.addr.2012.09.037
+
+5.
+
+Kumar M, Kulkarni P, Liu S, Chemuturi N, Shah DK
+
+: Nanoparticle biodistribution coefficients: A quantitative approach for understanding the tissue distribution of nanoparticles.
+
+Adv Drug Deliv Rev
+
+194:114708, 2023. doi:10.1016/j.addr.2023.114708
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+

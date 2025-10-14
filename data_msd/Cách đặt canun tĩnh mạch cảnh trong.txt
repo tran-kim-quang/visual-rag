@@ -1,0 +1,573 @@
+TIÊU ĐỀ: Cách đặt canun tĩnh mạch cảnh trong
+URL: https://www.msdmanuals.com/vi/professional/y-học-chăm-sóc-trọng-tâm/cách-thực-hiện-các-thủ-thuật-mạch-máu-trung-tâm/cách-đặt-canun-tĩnh-mạch-cảnh-trong
+================================================================================
+
+NỘI DUNG:
+
+Cách đặt canun tĩnh mạch cảnh trong
+
+Theo
+
+Cherisse Berry
+
+,
+
+MD
+
+,
+
+Rutgers Health, New Jersey Medical School
+
+Xem xét bởi
+
+David A. Spain
+
+,
+
+MD
+
+,
+
+Department of Surgery, Stanford University
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 10 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v14441503_vi
+
+Đặt canun tĩnh mạch cảnh trong qua da sử dụng các mốc giải phẫu để dẫn hướng cho việc chọc tĩnh mạch và kỹ thuật Seldinger để luồn một ống thông tĩnh mạch trung tâm qua tĩnh mạch cảnh trong và vào tĩnh mạch chủ trên. Ba cách tiếp cận (trung tâm, trước và sau) được sử dụng; phương pháp tiếp cận trung tâm được mô tả ở đây.
+
+Chỉ định
+
+|
+
+Chống chỉ định
+
+|
+
+Các biến chứng
+
+|
+
+Thiết bị
+
+|
+
+Cân nhắc bổ sung
+
+|
+
+Giải phẫu liên quan
+
+|
+
+Tư thế
+
+|
+
+Mô tả các bước tiến hành thủ thuật.
+
+|
+
+Chăm sóc sau thủ thuật
+
+|
+
+Cảnh báo và các lỗi thường gặp
+
+|
+
+Các mẹo và thủ thuật
+
+|
+
+Một catheter tĩnh mạch trung tâm (CVC) tĩnh mạch cảnh trong hoặc
+
+một catheter trung tâm đưa vào ngoại biên (PICC)
+
+thường được ưu tiên hơn một CVC dưới đòn (có nguy cơ cao hơn bị chảy máu và tràn khí màng phổi) hoặc CVC đùi (có nguy cơ nhiễm trùng cao hơn).
+
+Dẫn hướng siêu âm để đặt các đường truyền tĩnh mạch cảnh trong làm tăng khả năng đặt canun thành công và giảm nguy cơ bị các biến chứng. Khi có dẫn hướng siêu âm và nhân viên được đào tạo, phương pháp đặt này được ưu tiên hơn.
+
+(Xem thêm
+
+Tiếp cận mạch máu
+
+,
+
+Đặt ống thông tĩnh mạch trung tâm
+
+, và
+
+Cách đặt canun tĩnh mạch cảnh trong, có dẫn hướng siêu âm
+
+.)
+
+Chỉ định đặt canun tĩnh mạch cảnh trong
+
+Không có các vị trí tiếp cận tĩnh mạch an toàn hoặc lâu dài khác
+
+Không có khả năng
+
+tiếp cận tĩnh mạch ngoại biên
+
+hoặc
+
+truyền dịch trong xương
+
+Truyền dịch và thuốc qua đường tĩnh mạch cho bệnh nhân ngừng tim
+
+Truyền tĩnh mạch các loại thuốc có thể gây kích ứng tĩnh mạch khi truyền ngoại biên (ví dụ: dịch truyền có nồng độ cao, hóa trị liệu, thuốc làm co mạch, dinh dưỡng qua đường tiêm truyền)
+
+Truyền tĩnh mạch dòng chảy mức độ cao hoặc thể tích dịch lớn vượt quá mức có thể sử dụng ống thông tĩnh mạch ngoại biên
+
+Theo dõi huyết động (ví dụ: áp lực tĩnh mạch trung tâm, độ bão hòa oxyhemoglobin tĩnh mạch trung tâm, áp lực tim qua ống thông động mạch phổi)
+
+Thẩm tách máu
+
+hoặc
+
+lọc huyết tương
+
+Tạo nhịp tim qua đường tĩnh mạch hoặc
+
+theo dõi động mạch phổi
+
+(ống thông Swan-Ganz)*
+
+Đặt lưới lọc tĩnh mạch chủ dưới
+
+* Để tạo nhịp tim qua đường tĩnh mạch hoặc theo dõi động mạch phổi, thường được ưu tiên áp dụng đặt
+
+canun tĩnh mạch cảnh trong
+
+bên phải hoặc
+
+đặt canun tĩnh mạch dưới đòn
+
+trái.
+
+Chống chỉ định đặt canun tĩnh mạch cảnh trong
+
+Chống chỉ định tuyệt đối
+
+Huyết khối tĩnh mạch cảnh trong
+
+Nhiễm trùng cục bộ tại vị trí chọc kim
+
+Ống thông tẩm kháng sinh ở bệnh nhân bị dị ứng với loại kháng sinh cụ thể
+
+Chống chỉ định tương đối
+
+Bệnh lý đông máu, bao gồm giảm tiểu cầu hoặc thuốc chống đông máu (bao gồm thuốc chống kết tập tiểu cầu)
+
+Biến dạng giải phẫu cục bộ, do chấn thương hoặc bẩm sinh, hoặc do béo phì
+
+Hội chứng chèn ép tĩnh mạch chủ trên
+
+Suy hô hấp tim mạch nặng hoặc tăng áp lực nội sọ hoặc tăng nhãn áp (bệnh nhân sẽ bị tổn thương bởi tư thế Trendelenburg [cúi đầu])
+
+Tiền sử đặt ống thông tĩnh mạch cảnh trong trước đó (việc đặt ống thông trước đó có thể dẫn đến hình thành mô sẹo khiến việc đặt ống thông trở nên khó khăn hơn)
+
+Bệnh nhân không hợp tác (nên dùng thuốc an thần nếu cần thiết)
+
+Block nhánh trái (một dây dẫn hướng hoặc ống thông trong tâm thất phải có thể gây block tim hoàn toàn)
+
+* Thuốc chống đông máu (ví dụ: thuốc chống rung nhĩ) làm tăng nguy cơ chảy máu khi đặt canun tĩnh mạch cảnh trong, nhưng nguy cơ này phải được cân nhắc so với nguy cơ huyết khối tăng lên (ví dụ: đột quỵ) nếu tác dụng chống đông máu bị đảo ngược. Thảo luận về bất kỳ sự đảo ngược dự tính nào với bác sĩ lâm sàng quản lý thuốc chống đông và sau đó với bệnh nhân. Một
+
+đường truyền tĩnh mạch đùi
+
+có thể được ưu tiên hơn.
+
+Các biến chứng của đặt canun tĩnh mạch cảnh trong
+
+(Xem thêm
+
+Các biến chứng của đặt catheter tĩnh mạch trung tâm
+
+.)
+
+Các biến chứng tiềm tàng gồm
+
+Thủng động mạch
+
+Khối máu tụ
+
+Tràn khí màng phổi
+
+Làm thương tổn tĩnh mạch
+
+Tràn máu màng phổi
+
+Tắc mạch khí
+
+Ống thông lạc chỗ*
+
+Rối loạn nhịp tim hoặc thủng tâm nhĩ, thường do dây dẫn hướng hoặc ống thông
+
+Tổn thương dây thần kinh
+
+Nhiễm trùng
+
+Huyết khối
+
+* Các biến chứng hiếm gặp do đặt nhầm catheter bao gồm đặt ống thông động mạch, tràn dịch ngực, tràn dịch trung thất và tổn thương van ba lá.
+
+Thuyên tắc do dây dẫn hướng hoặc ống thông cũng hiếm khi xảy ra.
+
+Để làm giảm nguy cơ bị huyết khối tĩnh mạch và nhiễm trùng huyết liên quan đến đường truyền trung tâm (CLABSI), nên tháo CVC ra ngay khi không còn cần thiết nữa.
+
+Thiết bị đặt canun tĩnh mạch cảnh trong
+
+Quy trình vô trùng, bảo vệ hàng rào
+
+Dung dịch sát trùng (ví dụ: chlorhexidine-cồn, chlorhexidine, povidone iodine, cồn)
+
+Săng mổ vô trùng cỡ lớn, khăn lau
+
+Mũ, khẩu trang, áo choàng, găng tay vô trùng
+
+Tấm chắn mặt
+
+Kỹ thuật Seldinger (catheter qua dây dẫn hướng)
+
+Theo dõi tim mạch
+
+Thuốc gây tê tại chỗ (ví dụ: lidocaine 1% không có epinephrine, khoảng 5 mL)
+
+Kim gây tê nhỏ (ví dụ: cỡ 25 đến 27 gauge, dài 3 cm)
+
+Kim gây tê/kim tìm lớn* (cỡ 22 gauge, dài 4 cm)
+
+Kim của dụng cụ đặt (ví dụ: thành mỏng, cỡ 18 hoặc 16 gauge, có đốc kim vát bên trong, dài 6 cm)
+
+Ống tiêm 3 và 5 mL (sử dụng ống tiêm đầu trượt cho kim tìm và kim của dụng cụ đặt ống thông)
+
+Dây dẫn hướng dẫn, đầu chữ J
+
+Dao mổ (lưỡi số 11)
+
+Ống nong
+
+Ống thông tĩnh mạch trung tâm (người lớn: 8 tiếng Pháp trở lên, chiều dài tối thiểu của ống thông tĩnh mạch cảnh trong là 15 cm cho bên phải, 20 cm cho bên trái)
+
+Gạc vô trùng (ví dụ: hình vuông 10 × 10 cm)
+
+Nước muối sinh lý vô trùng để rửa cổng hoặc các cổng của ống thông
+
+Chỉ lụa hoặc nylon không tiêu (ví dụ, 3-0 hoặc 4-0)
+
+Miếng dán chlorhexidine, băng kín trong suốt
+
+* Kim tìm là một kim mảnh hơn được sử dụng để xác định vị trí của tĩnh mạch trước khi chọc kim của dụng cụ đặt ống thông. Phương pháp này thường được khuyến nghị áp dụng cho việc đặt canun tĩnh mạch cảnh trong mà không cần dẫn hướng bằng siêu âm.
+
+Cần phải có 1 hoặc 2 trợ lý.
+
+Cân nhắc bổ sung
+
+Các lần thử đặt canun đôi khi không thành công. Không vượt quá 2 hoặc 3 lần thử (điều này làm tăng nguy cơ bị các biến chứng) và sử dụng thiết bị mới sau mỗi lần thử (tức là không sử dụng lại kim, ống thông hoặc các thiết bị khác vì chúng có thể đã bị tắc bởi mô hoặc máu).
+
+Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.
+
+Nếu động mạch cảnh bị đặt canun do dụng cụ nong mô hoặc CVC đặt nhầm, hãy giữ nguyên dụng cụ nong hoặc ống thông và tham khảo ý kiến ​​phẫu thuật để có thể phẫu thuật cắt bỏ.
+
+Giải phẫu liên quan trong đặt canun tĩnh mạch cảnh trong
+
+Tam giác cổ trước giáp với xương đòn ở dưới và các đầu xương ức và đầu xương đòn của cơ ức đòn chũm ở trong và ngoài.
+
+Người ta thường sờ thấy động mạch cảnh gần mặt ngoài của đầu xương ức của cơ ức đòn chũm, và tĩnh mạch cảnh trong thường nằm ở nông và ngoài (thường một chút ra ngoài) đối với động mạch cảnh. Tuy nhiên, hướng của các mạch này thường thay đổi (ở 9 đến 19% số bệnh nhân). Hướng của động mạch cảnh và tĩnh mạch cảnh trong với nhau cũng có thể thay đổi nếu tư thế đầu bệnh nhân thay đổi.
+
+Thông thường nhất, phương pháp tiếp cận trung tâm đến tĩnh mạch cảnh trong được sử dụng, có thể làm giảm nguy cơ thủng màng phổi hoặc thủng động mạch cảnh. Kim của dụng cụ đặt được đưa vào theo góc khoảng 30° đến 40° so với da ở đỉnh (góc trên) của tam giác cổ trước, hướng về phía núm vú cùng bên.
+
+Tĩnh mạch cảnh trong bên phải thường được ưu tiên hơn bên trái trong việc đặt canun vì nó có đường kính lớn hơn và có đường dẫn thẳng hơn đến tĩnh mạch chủ trên.
+
+Giải phẫu mạch máu vùng cổ phải
+
+Mô hình 3D
+
+Tư thế để đặt canun tĩnh mạch cảnh trong
+
+Nâng giường lên độ cao thoải mái cho bạn (tức là bạn có thể đứng thẳng trong khi làm thủ thuật).
+
+Bệnh nhân ở tư thế nằm ngửa và ở tư thế Trendelenburg (giường nghiêng, đầu hạ xuống từ 15 đến 20°) để làm giãn tĩnh mạch cảnh trong và ngăn ngừa thuyên tắc khí.
+
+Chỉ xoay đầu bệnh nhân một chút (hoặc hoàn toàn không) sang bên đối diện cạnh để bộc lộ tĩnh mạch cảnh trong nhưng không gây đè lên động mạch cảnh.
+
+Đứng ở đầu giường.
+
+Mô tả từng bước về việc đặt canun tĩnh mạch cảnh trong
+
+Kiểm tra sơ bộ (không vô trùng) để xác định tam giác cổ trước, sờ mạch động mạch cảnh và (tùy chọn) đánh dấu đường viền ngoài của động mạch cảnh.
+
+Lắp máy theo dõi tim cho bệnh nhân và bật nó lên.
+
+Chuẩn bị thiết bị
+
+Đặt dụng cụ vô trùng trên các khay dụng cụ tiệt trùng được đậy kín.
+
+Sử dụng thiết bị bảo hộ cá nhân thích hợp.
+
+Rút thuốc gây tê cục bộ vào một ống tiêm.
+
+Lắp kim tìm vào một ống tiêm 5 mL có từ 1 đến 2 mL nước muối sinh lý vô trùng trong đó.
+
+Lắp kim dụng cụ đặt ống thông vào một ống tiêm 5 mL có từ 1 đến 2 mL nước muối sinh lý vô trùng trong đó. Căn chỉnh góc xiên của kim với các vạch thể tích trên ống tiêm.
+
+Xả sạch trước tất cả các đường truyền của CVC bằng 3 đến 5 mL nước muối sinh lý vô trùng và sau đó đậy các cổng bằng nắp hoặc ống tiêm.
+
+Khi xả đường truyền trung tâm, hãy sử dụng một ống tiêm 10 mL (hoặc một ống có đường kính bằng hoặc lớn hơn) và không đẩy quá mạnh để tránh làm vỡ đường truyền.
+
+Chuẩn bị trường mổ vô trùng
+
+Quét một vùng da rộng bằng dung dịch sát trùng, bao gồm toàn bộ vùng cổ, xương đòn, ngực trước xuống dưới đến núm vú cùng bên. Tạo vùng vô trùng rộng này cho phép ngay lập tức chuyển sang
+
+đặt ống thông tĩnh mạch dưới đòn
+
+nếu đặt ống thông tĩnh mạch cảnh trong không thành công.
+
+Để dung dịch sát khuẩn khô trong ít nhất 1 phút.
+
+Đặt khăn vô trùng xung quanh vị trí chọc kim, luôn bộc lộ núm vú cùng bên.
+
+Đặt các săng mổ vô trùng lớn (ví dụ, săng mổ che toàn thân) để thiết lập một trường vô trùng lớn.
+
+Đeo khẩu trang và đội mũ vô trùng.
+
+Mặc áo choàng và đi găng tay vô trùng.
+
+Thiết lập đường chọc kim vào (tĩnh mạch cảnh trong, phương pháp tiếp cận trung tâm)
+
+Dùng 3 ngón tay sờ nhẹ mạch động mạch cảnh để đánh giá đường đi của động mạch. Sờ nắn nhẹ nhàng để không ép vào tĩnh mạch cảnh trong bên cạnh (lòng tĩnh mạch bị ép lại sẽ khó tiếp cận).
+
+Đường chọc kim vào:
+
+Chọc kim thủ thuật (gây tê cục bộ, kim tìm và kim của dụng cụ đặt ống thông) vào vùng đỉnh (góc trên) của tam giác cổ trước, ngay bên ngoài mạch động mạch cảnh, theo góc 30 đến 40° vào da, hướng về phía núm vú cùng bên.
+
+Liên tục sờ của động mạch cảnh trong suốt quá trình đâm kim và giữ kim ở vị trí ngoài động mạch để tránh đâm vào động mạch.
+
+Gây tê tại chỗ đặt canun
+
+Tiêm một nốt sẩn thuốc tê tại điểm chọc kim, sau đó tiêm thuốc tê vào da và các mô mềm dọc theo đường chọc kim dự kiến. Giữ áp lực âm nhẹ nhàng trên pít-tông ống tiêm khi bạn đẩy kim để xác định vị trí đặt trong mạch và ngăn ngừa tiêm nội mạch.
+
+Nếu máu chảy trở lại vào ống tiêm,
+
+dừng đẩy kim, giữ ống tiêm tại chỗ và bây giờ hãy coi kim này như kim tìm. Tiến hành
+
+Đánh giá máu trở lại
+
+dưới đây.
+
+Chọc kim tìm
+
+Chọc kim tìm dọc theo đường chọc kim.
+
+Liên tục giữ áp lực âm nhẹ trên pít-tông của ống tiêm khi bạn đẩy kim.
+
+Dừng đẩy kim khi một tia máu xuất hiện trong nòng ống tiêm (bạn có thể cảm thấy kim đâm một tiếng bốp xuyên qua thành khi nó đi vào lòng ống). Giữ ống tiêm bất động tại chỗ này. Ngay cả một cử động nhẹ cũng có thể làm di lệch đầu kim ra khỏi tĩnh mạch.
+
+Nếu không thấy máu loang ra trong nòng ống tiêm sau khi chọc kim sâu khoảng 3 cm đến 5 cm,
+
+hãy rút kim ra từ từ. Nếu ban đầu kim đã đi hoàn toàn qua tĩnh mạch, thì bây giờ có thể có máu loang ra khi bạn rút đầu kim trở lại lòng mạch. Nếu vẫn không có máu loang ra, rút kim gần như chạm vào bề mặt da, đổi hướng (thường là hơi vào trong) và thử đẩy kim một lần nữa để đưa kim vào tĩnh mạch.
+
+Không thay đổi hướng của kim khi kim đã chọc kim hết cỡ.
+
+Đánh giá máu trở lại
+
+Tiếp tục giữ ống tiêm bất động.
+
+Nắm chặt đốc kim và cũng giữ nó bất động.
+
+Rút ống tiêm ra khỏi đốc kim và để cho máu chảy ra trong thời gian ngắn để xác nhận rằng máu là ở tĩnh mạch (tức là có màu đỏ sẫm và đang chảy nhưng không đập). Sau đó, ngay lập tức dùng ngón tay cái che đốc kim để ngăn máu chảy và ngăn ngừa thuyên tắc do khí.
+
+Tuy nhiên, nếu máu có màu đỏ tươi và đập (động mạch),
+
+hãy chấm dứt thủ thuật. Rút kim ra và sử dụng gạc hình vuông trong 10 phút để tiếp tục ép bên ngoài lên khu vực đó và giúp ngăn ngừa chảy máu và tụ máu.
+
+Đặt canun tĩnh mạch cảnh trong...
+
+Các video
+
+Chọc kim của dụng cụ đặt ống thông, sử dụng kim tìm làm dẫn hướng
+
+Giữ ống tiêm dụng cụ đặt ống thông với mặt vát của mũi kim hướng lên trên.
+
+Sử dụng một trong hai phương pháp chọc: Rút kim tìm ra và ngay lập tức chọc kim của dụng cụ đặt ống thông vào theo cùng một đường, hoặc giữ nguyên kim tìm tại chỗ và chọc kim của dụng cụ đặt ống thông vào bên dưới và gần song song với nó (theo một góc hơi nông hơn so với da).
+
+Ngừng đẩy kim của dụng cụ đặt ống thông khi có máu loang ra trong nòng của ống tiêm. Giữ ống tiêm bất động tại chỗ này.
+
+Nếu kim tìm vẫn chưa được rút ra, hãy rút nó ra ngay bây giờ.
+
+Đánh giá lưu lượng máu từ kim của dụng cụ đặt ống thông như mô tả trong
+
+Đánh giá lượng máu trở lại
+
+ở trên.
+
+Luồn dây dẫn hướng
+
+Cẩn thận xoay ống tiêm của dụng cụ đặt ống thông sao cho mặt vát của mũi kim bây giờ hướng về trong (nghĩa là về phía tim và xa khỏi tĩnh mạch dưới đòn).
+
+Luồn đầu cong chữ J của dây dẫn hướng vào kim của dụng cụ đặt ống thông, với đường cong chữ J hướng về phía trong (tức là cùng hướng với mặt vát của mũi kim).
+
+Đẩy dây dẫn hướng qua kim đó và vào tĩnh mạch. Không ép dây dẫn hướng; nó sẽ trượt trơn tru. Đẩy dây dẫn hướng từ 10 đến 15 cm đối với chọc kim tĩnh mạch cảnh trong bên phải, 15 đến 20 cm đối với chọc kim bên trái hoặc cho đến khi có ngoại tâm thu (rút khỏi điểm này cho đến khi ngừng ngoại tâm thu).
+
+Nếu bạn cảm thấy có bất kỳ lực cản nào khi bạn đẩy dây dẫn hướng,
+
+hãy ngừng đẩy nó. Cố gắng nhẹ nhàng rút dây dẫn hướng ra một chút, xoay nhẹ rồi đẩy vào lại hoặc cố gắng nhẹ nhàng rút toàn bộ dây dẫn hướng ra, đưa đầu kim trở lại tĩnh mạch (xác nhận bằng cách kiểm tra máu tĩnh mạch đã chảy trở lại) rồi luồn lại dây dẫn hướng vào.
+
+Tuy nhiên, nếu quý vị cảm thấy có bất kỳ lực cản nào khi rút dây dẫn hướng,
+
+hãy chấm dứt quy trình và rút kim và dây dẫn hướng cùng nhau thành một khối (để tránh không cho đầu kim cắt qua dây dẫn hướng bên trong bệnh nhân). Sau đó, sử dụng gạc hình vuông trong 10 phút để ép liên tục bên ngoài lên khu vực đó và giúp ngăn ngừa chảy máu và tụ máu.
+
+Sau khi đã đưa dây dẫn hướng vào, hãy tiếp tục dùng một tay giữ chặt dây dẫn hướng và kiểm soát dây dẫn hướng trong suốt quá trình thực hiện để tránh tình trạng thuyên tắc do dây dẫn hướng.
+
+Tháo kim của dụng cụ đặt ống thông (sau khi luồn dây dẫn hướng thành công)
+
+Đầu tiên, cầm chắc dây dẫn hướng ở đầu xa kim và rút kim ra khỏi da.
+
+Sau đó, giữ chặt dây dẫn hướng trên bề mặt da và trượt kim xuống chiều dài còn lại của dây dẫn hướng để lấy kim ra.
+
+Mở rộng đường chọc kim
+
+Mở rộng vị trí chọc da: Sử dụng dao mổ, rạch một đường nhỏ (khoảng 4 mm) vào vị trí luồn vào da, tránh tiếp xúc với dây dẫn hướng, để mở rộng vị trí đó và làm cho nó phù hợp với đường kính lớn hơn của ống nong mô và ống thông.
+
+Đẩy ống nong mô qua dây dẫn hướng: Đầu tiên, nắm chặt dây dẫn hướng ở da và trượt ống nong dọc theo chiều dài của dây dẫn hướng đến da. Sau đó, nắm chặt sợi dây dẫn hướng ngay phía đầu xa của ống nong, giữ ống nong gần bề mặt da và sử dụng chuyển động xoắn ốc nếu cần để đưa ống nong từng bước vào thành tĩnh mạch. Luôn nắm dây dẫn hướng trong quá trình luồn vào.
+
+Lấy ống nong ra: Đầu tiên, cầm chắc dây dẫn hướng ở đầu xa ống nong và rút ống nong ra khỏi da. Khi có thể nhìn thấy dây dẫn hướng trên bề mặt da, hãy lấy toàn bộ ống nong ra bằng cách trượt nó xuống chiều dài còn lại của dây dẫn hướng.
+
+Duy trì việc nắm lấy dây dẫn hướng trên bề mặt da.
+
+Đặt ống thông
+
+Đẩy ống thông qua dây dẫn hướng đến bề mặt da: Giữ cố định dây dẫn hướng trên bề mặt da, luồn đầu ống thông qua đầu xa của dây dẫn hướng và trượt ống thông xuống bề mặt da. Đầu xa của dây dẫn hướng bây giờ sẽ nhô ra khỏi cổng đốc.
+
+Nếu đầu xa của dây dẫn hướng không nhô ra khỏi trục cổng,
+
+hãy từ từ đẩy dây dẫn hướng ra ngoài bề mặt da trong khi giữ đầu ống thông gần bề mặt da cho đến khi dây dẫn hướng nhô ra.
+
+Tiếp tục đẩy ống thông vào tĩnh mạch: Nắm chặt và điều khiển dây dẫn hướng ở nơi nó nhô ra khỏi đốc. Giữ ống thông gần đầu dây dẫn hướng và đưa đầu ống qua da. Sau đó, tăng dần vài cm và sử dụng chuyển động vặn nút chai nếu cần, đẩy từng bước ống thông tĩnh mạch cảnh trong. Nếu nhịp tim ngoại tâm thu xảy ra, từ từ rút ống thông cho đến khi ngừng nhịp ngoại tâm thu.
+
+Tiếp tục nắm cả dây dẫn hướng và ống thông.
+
+Rút dây dẫn hướng: Rút dây dẫn hướng trong khi giữ cố định ống thông ở vị trí trên bề mặt da.
+
+Rửa sạch từng cổng catheter bằng nước muối sinh lý: Đầu tiên, hút bất kỳ không khí nào từ đường truyền và xác nhận dòng máu tĩnh mạch vào đốc. Sau đó, sử dụng ống tiêm 10 mL (hoặc ống tiêm có đường kính tương đương hoặc lớn hơn) và không dùng lực quá mạnh, đẩy 20 mL nước muối sinh lý vào đường ống để làm sạch đường ống.
+
+Băng chỗ chọc kim
+
+Nếu bệnh nhân tỉnh táo hoặc được an thần nhẹ, hãy sử dụng lidocaine 1% để gây tê da tại các vị trí khâu đã định.
+
+Đặt một đĩa tẩm chlorhexidine lên da tại điểm đặt ống thông.
+
+Khâu kẹp gắn trên ống thông vào da.
+
+Để tránh kéo căng vị trí luồn, hãy khâu ống thông ở vị trí thứ hai sao cho một đoạn ống thông cong hoặc hình vòng nằm giữa 2 vị trí.
+
+Đắp băng kín vô trùng. Băng keo trong suốt thường được sử dụng.
+
+Chăm sóc sau đặt canun tĩnh mạch cảnh trong
+
+Trước khi sử dụng ống thông, hãy chụp X-quang ngực để xác nhận rằng đầu của CVC cảnh (hoặc dưới đòn) nằm ở tĩnh mạch chủ trên gần chỗ nối với tâm nhĩ phải (có thể đưa ống thông vào hoặc rút ra nếu không ở đúng vị trí) và để xác nhận rằng không xảy ra tràn khí màng phổi.
+
+Phim chụp X-quang ống thông tĩnh mạch trung tâm
+
+Dấu các chi tiết
+
+Mũi tên đỏ chỉ vào đầu của một ống thông tĩnh mạch cửa dưới đòn trái (được đặt một cách thích hợp trong tĩnh mạch chủ trên).
+
+© 2017 Bác sĩ Elliot K. Fishman.
+
+Cảnh báo và lỗi thường gặp khi đặt canun tĩnh mạch cảnh trong
+
+Đầu của CVC không bao giờ được nằm trong tâm nhĩ phải vì tâm nhĩ có thành mỏng và dễ bị thủng.
+
+Ngoại tâm thu có thể do một dây dẫn hướng hoặc ống thông trong tâm nhĩ phải hoặc trong tâm thất gây ra.
+
+Không bao giờ nắm lỏng dây dẫn hướng.
+
+Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.
+
+Để giúp ngăn ngừa thuyên tắc khí, CVC cần phải được đặt (và lấy ra) khi có xác định vị trí đặt canun mạch máu phụ thuộc vào tim.
+
+Mẹo và thủ thuật trong đặt canun tĩnh mạch cảnh trong
+
+Kim tìm mỏng thường được sử dụng để tìm tĩnh mạch cảnh trong trước (trước khi đưa kim dẫn lớn hơn vào) để giảm chảy máu và tụ máu nếu kim đâm vào động mạch cảnh. (Dẫn hướng siêu âm loại bỏ nhu cầu sử dụng của kim tìm.)
+
+Hướng của động mạch cảnh và tĩnh mạch cảnh trong với nhau có thể thay đổi nếu vị trí của đầu bệnh nhân thay đổi; do đó, để tránh đâm vào động mạch, bạn nên nhẹ nhàng sờ nắn mạch cảnh trong khi chọc kim vào trong thủ thuật này.
+
+Kích thước của tĩnh mạch cảnh trong thay đổi theo nhịp thở (đường kính tối đa ở những bệnh nhân không được đặt nội khí quản xảy ra ngay trước khi thở ra [trước khi thở ra ở những bệnh nhân được đặt nội khí quản]) và tăng lên bởi tư thế Trendelenburg, nghiệm pháp Valsalva, hoạt động mạnh và ép bên ngoài bụng. Để tăng cơ hội đặt canun tĩnh mạch cảnh trong thành công, hãy đẩy dụng cụ đặt canun vào những thời điểm đường kính tĩnh mạch cảnh tăng lên.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Chỉ định đặt canun tĩnh mạch cảnh trong ---
+
+Không có các vị trí tiếp cận tĩnh mạch an toàn hoặc lâu dài khácKhông có khả năngtiếp cận tĩnh mạch ngoại biênhoặctruyền dịch trong xươngTruyền dịch và thuốc qua đường tĩnh mạch cho bệnh nhân ngừng timTruyền tĩnh mạch các loại thuốc có thể gây kích ứng tĩnh mạch khi truyền ngoại biên (ví dụ: dịch truyền có nồng độ cao, hóa trị liệu, thuốc làm co mạch, dinh dưỡng qua đường tiêm truyền)Truyền tĩnh mạch dòng chảy mức độ cao hoặc thể tích dịch lớn vượt quá mức có thể sử dụng ống thông tĩnh mạch ngoại biênTheo dõi huyết động (ví dụ: áp lực tĩnh mạch trung tâm, độ bão hòa oxyhemoglobin tĩnh mạch trung tâm, áp lực tim qua ống thông động mạch phổi)Thẩm tách máuhoặclọc huyết tươngTạo nhịp tim qua đường tĩnh mạch hoặctheo dõi động mạch phổi(ống thông Swan-Ganz)*Đặt lưới lọc tĩnh mạch chủ dưới* Để tạo nhịp tim qua đường tĩnh mạch hoặc theo dõi động mạch phổi, thường được ưu tiên áp dụng đặtcanun tĩnh mạch cảnh trongbên phải hoặcđặt canun tĩnh mạch dưới đòntrái.
+
+--- 2. Chống chỉ định đặt canun tĩnh mạch cảnh trong ---
+
+Chống chỉ định tuyệt đốiHuyết khối tĩnh mạch cảnh trongNhiễm trùng cục bộ tại vị trí chọc kimỐng thông tẩm kháng sinh ở bệnh nhân bị dị ứng với loại kháng sinh cụ thểChống chỉ định tương đốiBệnh lý đông máu, bao gồm giảm tiểu cầu hoặc thuốc chống đông máu (bao gồm thuốc chống kết tập tiểu cầu)Biến dạng giải phẫu cục bộ, do chấn thương hoặc bẩm sinh, hoặc do béo phìHội chứng chèn ép tĩnh mạch chủ trênSuy hô hấp tim mạch nặng hoặc tăng áp lực nội sọ hoặc tăng nhãn áp (bệnh nhân sẽ bị tổn thương bởi tư thế Trendelenburg [cúi đầu])Tiền sử đặt ống thông tĩnh mạch cảnh trong trước đó (việc đặt ống thông trước đó có thể dẫn đến hình thành mô sẹo khiến việc đặt ống thông trở nên khó khăn hơn)Bệnh nhân không hợp tác (nên dùng thuốc an thần nếu cần thiết)Block nhánh trái (một dây dẫn hướng hoặc ống thông trong tâm thất phải có thể gây block tim hoàn toàn)* Thuốc chống đông máu (ví dụ: thuốc chống rung nhĩ) làm tăng nguy cơ chảy máu khi đặt canun tĩnh mạch cảnh trong, nhưng nguy cơ này phải được cân nhắc so với nguy cơ huyết khối tăng lên (ví dụ: đột quỵ) nếu tác dụng chống đông máu bị đảo ngược. Thảo luận về bất kỳ sự đảo ngược dự tính nào với bác sĩ lâm sàng quản lý thuốc chống đông và sau đó với bệnh nhân. Mộtđường truyền tĩnh mạch đùicó thể được ưu tiên hơn.
+
+--- 3. Các biến chứng của đặt canun tĩnh mạch cảnh trong ---
+
+(Xem thêmCác biến chứng của đặt catheter tĩnh mạch trung tâm.)Các biến chứng tiềm tàng gồmThủng động mạchKhối máu tụTràn khí màng phổiLàm thương tổn tĩnh mạchTràn máu màng phổiTắc mạch khíỐng thông lạc chỗ*Rối loạn nhịp tim hoặc thủng tâm nhĩ, thường do dây dẫn hướng hoặc ống thôngTổn thương dây thần kinhNhiễm trùngHuyết khối* Các biến chứng hiếm gặp do đặt nhầm catheter bao gồm đặt ống thông động mạch, tràn dịch ngực, tràn dịch trung thất và tổn thương van ba lá.Thuyên tắc do dây dẫn hướng hoặc ống thông cũng hiếm khi xảy ra.Để làm giảm nguy cơ bị huyết khối tĩnh mạch và nhiễm trùng huyết liên quan đến đường truyền trung tâm (CLABSI), nên tháo CVC ra ngay khi không còn cần thiết nữa.
+
+--- 4. Thiết bị đặt canun tĩnh mạch cảnh trong ---
+
+Quy trình vô trùng, bảo vệ hàng ràoDung dịch sát trùng (ví dụ: chlorhexidine-cồn, chlorhexidine, povidone iodine, cồn)Săng mổ vô trùng cỡ lớn, khăn lauMũ, khẩu trang, áo choàng, găng tay vô trùngTấm chắn mặtKỹ thuật Seldinger (catheter qua dây dẫn hướng)Theo dõi tim mạchThuốc gây tê tại chỗ (ví dụ: lidocaine 1% không có epinephrine, khoảng 5 mL)Kim gây tê nhỏ (ví dụ: cỡ 25 đến 27 gauge, dài 3 cm)Kim gây tê/kim tìm lớn* (cỡ 22 gauge, dài 4 cm)Kim của dụng cụ đặt (ví dụ: thành mỏng, cỡ 18 hoặc 16 gauge, có đốc kim vát bên trong, dài 6 cm)Ống tiêm 3 và 5 mL (sử dụng ống tiêm đầu trượt cho kim tìm và kim của dụng cụ đặt ống thông)Dây dẫn hướng dẫn, đầu chữ JDao mổ (lưỡi số 11)Ống nongỐng thông tĩnh mạch trung tâm (người lớn: 8 tiếng Pháp trở lên, chiều dài tối thiểu của ống thông tĩnh mạch cảnh trong là 15 cm cho bên phải, 20 cm cho bên trái)Gạc vô trùng (ví dụ: hình vuông 10 × 10 cm)Nước muối sinh lý vô trùng để rửa cổng hoặc các cổng của ống thôngChỉ lụa hoặc nylon không tiêu (ví dụ, 3-0 hoặc 4-0)Miếng dán chlorhexidine, băng kín trong suốt* Kim tìm là một kim mảnh hơn được sử dụng để xác định vị trí của tĩnh mạch trước khi chọc kim của dụng cụ đặt ống thông. Phương pháp này thường được khuyến nghị áp dụng cho việc đặt canun tĩnh mạch cảnh trong mà không cần dẫn hướng bằng siêu âm.Cần phải có 1 hoặc 2 trợ lý.
+
+--- 5. Cân nhắc bổ sung ---
+
+Các lần thử đặt canun đôi khi không thành công. Không vượt quá 2 hoặc 3 lần thử (điều này làm tăng nguy cơ bị các biến chứng) và sử dụng thiết bị mới sau mỗi lần thử (tức là không sử dụng lại kim, ống thông hoặc các thiết bị khác vì chúng có thể đã bị tắc bởi mô hoặc máu).Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.Nếu động mạch cảnh bị đặt canun do dụng cụ nong mô hoặc CVC đặt nhầm, hãy giữ nguyên dụng cụ nong hoặc ống thông và tham khảo ý kiến ​​phẫu thuật để có thể phẫu thuật cắt bỏ.
+
+--- 6. Giải phẫu liên quan trong đặt canun tĩnh mạch cảnh trong ---
+
+Tam giác cổ trước giáp với xương đòn ở dưới và các đầu xương ức và đầu xương đòn của cơ ức đòn chũm ở trong và ngoài.Người ta thường sờ thấy động mạch cảnh gần mặt ngoài của đầu xương ức của cơ ức đòn chũm, và tĩnh mạch cảnh trong thường nằm ở nông và ngoài (thường một chút ra ngoài) đối với động mạch cảnh. Tuy nhiên, hướng của các mạch này thường thay đổi (ở 9 đến 19% số bệnh nhân). Hướng của động mạch cảnh và tĩnh mạch cảnh trong với nhau cũng có thể thay đổi nếu tư thế đầu bệnh nhân thay đổi.Thông thường nhất, phương pháp tiếp cận trung tâm đến tĩnh mạch cảnh trong được sử dụng, có thể làm giảm nguy cơ thủng màng phổi hoặc thủng động mạch cảnh. Kim của dụng cụ đặt được đưa vào theo góc khoảng 30° đến 40° so với da ở đỉnh (góc trên) của tam giác cổ trước, hướng về phía núm vú cùng bên.Tĩnh mạch cảnh trong bên phải thường được ưu tiên hơn bên trái trong việc đặt canun vì nó có đường kính lớn hơn và có đường dẫn thẳng hơn đến tĩnh mạch chủ trên.Giải phẫu mạch máu vùng cổ phảiMô hình 3D
+
+--- 7. Tư thế để đặt canun tĩnh mạch cảnh trong ---
+
+Nâng giường lên độ cao thoải mái cho bạn (tức là bạn có thể đứng thẳng trong khi làm thủ thuật).Bệnh nhân ở tư thế nằm ngửa và ở tư thế Trendelenburg (giường nghiêng, đầu hạ xuống từ 15 đến 20°) để làm giãn tĩnh mạch cảnh trong và ngăn ngừa thuyên tắc khí.Chỉ xoay đầu bệnh nhân một chút (hoặc hoàn toàn không) sang bên đối diện cạnh để bộc lộ tĩnh mạch cảnh trong nhưng không gây đè lên động mạch cảnh.Đứng ở đầu giường.
+
+--- 8. Mô tả từng bước về việc đặt canun tĩnh mạch cảnh trong ---
+
+Kiểm tra sơ bộ (không vô trùng) để xác định tam giác cổ trước, sờ mạch động mạch cảnh và (tùy chọn) đánh dấu đường viền ngoài của động mạch cảnh.Lắp máy theo dõi tim cho bệnh nhân và bật nó lên.Chuẩn bị thiết bịĐặt dụng cụ vô trùng trên các khay dụng cụ tiệt trùng được đậy kín.Sử dụng thiết bị bảo hộ cá nhân thích hợp.Rút thuốc gây tê cục bộ vào một ống tiêm.Lắp kim tìm vào một ống tiêm 5 mL có từ 1 đến 2 mL nước muối sinh lý vô trùng trong đó.Lắp kim dụng cụ đặt ống thông vào một ống tiêm 5 mL có từ 1 đến 2 mL nước muối sinh lý vô trùng trong đó. Căn chỉnh góc xiên của kim với các vạch thể tích trên ống tiêm.Xả sạch trước tất cả các đường truyền của CVC bằng 3 đến 5 mL nước muối sinh lý vô trùng và sau đó đậy các cổng bằng nắp hoặc ống tiêm.Khi xả đường truyền trung tâm, hãy sử dụng một ống tiêm 10 mL (hoặc một ống có đường kính bằng hoặc lớn hơn) và không đẩy quá mạnh để tránh làm vỡ đường truyền.Chuẩn bị trường mổ vô trùngQuét một vùng da rộng bằng dung dịch sát trùng, bao gồm toàn bộ vùng cổ, xương đòn, ngực trước xuống dưới đến núm vú cùng bên. Tạo vùng vô trùng rộng này cho phép ngay lập tức chuyển sangđặt ống thông tĩnh mạch dưới đònnếu đặt ống thông tĩnh mạch cảnh trong không thành công.Để dung dịch sát khuẩn khô trong ít nhất 1 phút.Đặt khăn vô trùng xung quanh vị trí chọc kim, luôn bộc lộ núm vú cùng bên.Đặt các săng mổ vô trùng lớn (ví dụ, săng mổ che toàn thân) để thiết lập một trường vô trùng lớn.Đeo khẩu trang và đội mũ vô trùng.Mặc áo choàng và đi găng tay vô trùng.Thiết lập đường chọc kim vào (tĩnh mạch cảnh trong, phương pháp tiếp cận trung tâm)Dùng 3 ngón tay sờ nhẹ mạch động mạch cảnh để đánh giá đường đi của động mạch. Sờ nắn nhẹ nhàng để không ép vào tĩnh mạch cảnh trong bên cạnh (lòng tĩnh mạch bị ép lại sẽ khó tiếp cận).Đường chọc kim vào:Chọc kim thủ thuật (gây tê cục bộ, kim tìm và kim của dụng cụ đặt ống thông) vào vùng đỉnh (góc trên) của tam giác cổ trước, ngay bên ngoài mạch động mạch cảnh, theo góc 30 đến 40° vào da, hướng về phía núm vú cùng bên.Liên tục sờ của động mạch cảnh trong suốt quá trình đâm kim và giữ kim ở vị trí ngoài động mạch để tránh đâm vào động mạch.Gây tê tại chỗ đặt canunTiêm một nốt sẩn thuốc tê tại điểm chọc kim, sau đó tiêm thuốc tê vào da và các mô mềm dọc theo đường chọc kim dự kiến. Giữ áp lực âm nhẹ nhàng trên pít-tông ống tiêm khi bạn đẩy kim để xác định vị trí đặt trong mạch và ngăn ngừa tiêm nội mạch.Nếu máu chảy trở lại vào ống tiêm,dừng đẩy kim, giữ ống tiêm tại chỗ và bây giờ hãy coi kim này như kim tìm. Tiến hànhĐánh giá máu trở lạidưới đây.Chọc kim tìmChọc kim tìm dọc theo đường chọc kim.Liên tục giữ áp lực âm nhẹ trên pít-tông của ống tiêm khi bạn đẩy kim.Dừng đẩy kim khi một tia máu xuất hiện trong nòng ống tiêm (bạn có thể cảm thấy kim đâm một tiếng bốp xuyên qua thành khi nó đi vào lòng ống). Giữ ống tiêm bất động tại chỗ này. Ngay cả một cử động nhẹ cũng có thể làm di lệch đầu kim ra khỏi tĩnh mạch.Nếu không thấy máu loang ra trong nòng ống tiêm sau khi chọc kim sâu khoảng 3 cm đến 5 cm,hãy rút kim ra từ từ. Nếu ban đầu kim đã đi hoàn toàn qua tĩnh mạch, thì bây giờ có thể có máu loang ra khi bạn rút đầu kim trở lại lòng mạch. Nếu vẫn không có máu loang ra, rút kim gần như chạm vào bề mặt da, đổi hướng (thường là hơi vào trong) và thử đẩy kim một lần nữa để đưa kim vào tĩnh mạch.Không thay đổi hướng của kim khi kim đã chọc kim hết cỡ.Đánh giá máu trở lạiTiếp tục giữ ống tiêm bất động.Nắm chặt đốc kim và cũng giữ nó bất động.Rút ống tiêm ra khỏi đốc kim và để cho máu chảy ra trong thời gian ngắn để xác nhận rằng máu là ở tĩnh mạch (tức là có màu đỏ sẫm và đang chảy nhưng không đập). Sau đó, ngay lập tức dùng ngón tay cái che đốc kim để ngăn máu chảy và ngăn ngừa thuyên tắc do khí.Tuy nhiên, nếu máu có màu đỏ tươi và đập (động mạch),hãy chấm dứt thủ thuật. Rút kim ra và sử dụng gạc hình vuông trong 10 phút để tiếp tục ép bên ngoài lên khu vực đó và giúp ngăn ngừa chảy máu và tụ máu.Đặt canun tĩnh mạch cảnh trong...Các videoChọc kim của dụng cụ đặt ống thông, sử dụng kim tìm làm dẫn hướngGiữ ống tiêm dụng cụ đặt ống thông với mặt vát của mũi kim hướng lên trên.Sử dụng một trong hai phương pháp chọc: Rút kim tìm ra và ngay lập tức chọc kim của dụng cụ đặt ống thông vào theo cùng một đường, hoặc giữ nguyên kim tìm tại chỗ và chọc kim của dụng cụ đặt ống thông vào bên dưới và gần song song với nó (theo một góc hơi nông hơn so với da).Ngừng đẩy kim của dụng cụ đặt ống thông khi có máu loang ra trong nòng của ống tiêm. Giữ ống tiêm bất động tại chỗ này.Nếu kim tìm vẫn chưa được rút ra, hãy rút nó ra ngay bây giờ.Đánh giá lưu lượng máu từ kim của dụng cụ đặt ống thông như mô tả trongĐánh giá lượng máu trở lạiở trên.Luồn dây dẫn hướngCẩn thận xoay ống tiêm của dụng cụ đặt ống thông sao cho mặt vát của mũi kim bây giờ hướng về trong (nghĩa là về phía tim và xa khỏi tĩnh mạch dưới đòn).Luồn đầu cong chữ J của dây dẫn hướng vào kim của dụng cụ đặt ống thông, với đường cong chữ J hướng về phía trong (tức là cùng hướng với mặt vát của mũi kim).Đẩy dây dẫn hướng qua kim đó và vào tĩnh mạch. Không ép dây dẫn hướng; nó sẽ trượt trơn tru. Đẩy dây dẫn hướng từ 10 đến 15 cm đối với chọc kim tĩnh mạch cảnh trong bên phải, 15 đến 20 cm đối với chọc kim bên trái hoặc cho đến khi có ngoại tâm thu (rút khỏi điểm này cho đến khi ngừng ngoại tâm thu).Nếu bạn cảm thấy có bất kỳ lực cản nào khi bạn đẩy dây dẫn hướng,hãy ngừng đẩy nó. Cố gắng nhẹ nhàng rút dây dẫn hướng ra một chút, xoay nhẹ rồi đẩy vào lại hoặc cố gắng nhẹ nhàng rút toàn bộ dây dẫn hướng ra, đưa đầu kim trở lại tĩnh mạch (xác nhận bằng cách kiểm tra máu tĩnh mạch đã chảy trở lại) rồi luồn lại dây dẫn hướng vào.Tuy nhiên, nếu quý vị cảm thấy có bất kỳ lực cản nào khi rút dây dẫn hướng,hãy chấm dứt quy trình và rút kim và dây dẫn hướng cùng nhau thành một khối (để tránh không cho đầu kim cắt qua dây dẫn hướng bên trong bệnh nhân). Sau đó, sử dụng gạc hình vuông trong 10 phút để ép liên tục bên ngoài lên khu vực đó và giúp ngăn ngừa chảy máu và tụ máu.Sau khi đã đưa dây dẫn hướng vào, hãy tiếp tục dùng một tay giữ chặt dây dẫn hướng và kiểm soát dây dẫn hướng trong suốt quá trình thực hiện để tránh tình trạng thuyên tắc do dây dẫn hướng.Tháo kim của dụng cụ đặt ống thông (sau khi luồn dây dẫn hướng thành công)Đầu tiên, cầm chắc dây dẫn hướng ở đầu xa kim và rút kim ra khỏi da.Sau đó, giữ chặt dây dẫn hướng trên bề mặt da và trượt kim xuống chiều dài còn lại của dây dẫn hướng để lấy kim ra.Mở rộng đường chọc kimMở rộng vị trí chọc da: Sử dụng dao mổ, rạch một đường nhỏ (khoảng 4 mm) vào vị trí luồn vào da, tránh tiếp xúc với dây dẫn hướng, để mở rộng vị trí đó và làm cho nó phù hợp với đường kính lớn hơn của ống nong mô và ống thông.Đẩy ống nong mô qua dây dẫn hướng: Đầu tiên, nắm chặt dây dẫn hướng ở da và trượt ống nong dọc theo chiều dài của dây dẫn hướng đến da. Sau đó, nắm chặt sợi dây dẫn hướng ngay phía đầu xa của ống nong, giữ ống nong gần bề mặt da và sử dụng chuyển động xoắn ốc nếu cần để đưa ống nong từng bước vào thành tĩnh mạch. Luôn nắm dây dẫn hướng trong quá trình luồn vào.Lấy ống nong ra: Đầu tiên, cầm chắc dây dẫn hướng ở đầu xa ống nong và rút ống nong ra khỏi da. Khi có thể nhìn thấy dây dẫn hướng trên bề mặt da, hãy lấy toàn bộ ống nong ra bằng cách trượt nó xuống chiều dài còn lại của dây dẫn hướng.Duy trì việc nắm lấy dây dẫn hướng trên bề mặt da.Đặt ống thôngĐẩy ống thông qua dây dẫn hướng đến bề mặt da: Giữ cố định dây dẫn hướng trên bề mặt da, luồn đầu ống thông qua đầu xa của dây dẫn hướng và trượt ống thông xuống bề mặt da. Đầu xa của dây dẫn hướng bây giờ sẽ nhô ra khỏi cổng đốc.Nếu đầu xa của dây dẫn hướng không nhô ra khỏi trục cổng,hãy từ từ đẩy dây dẫn hướng ra ngoài bề mặt da trong khi giữ đầu ống thông gần bề mặt da cho đến khi dây dẫn hướng nhô ra.Tiếp tục đẩy ống thông vào tĩnh mạch: Nắm chặt và điều khiển dây dẫn hướng ở nơi nó nhô ra khỏi đốc. Giữ ống thông gần đầu dây dẫn hướng và đưa đầu ống qua da. Sau đó, tăng dần vài cm và sử dụng chuyển động vặn nút chai nếu cần, đẩy từng bước ống thông tĩnh mạch cảnh trong. Nếu nhịp tim ngoại tâm thu xảy ra, từ từ rút ống thông cho đến khi ngừng nhịp ngoại tâm thu.Tiếp tục nắm cả dây dẫn hướng và ống thông.Rút dây dẫn hướng: Rút dây dẫn hướng trong khi giữ cố định ống thông ở vị trí trên bề mặt da.Rửa sạch từng cổng catheter bằng nước muối sinh lý: Đầu tiên, hút bất kỳ không khí nào từ đường truyền và xác nhận dòng máu tĩnh mạch vào đốc. Sau đó, sử dụng ống tiêm 10 mL (hoặc ống tiêm có đường kính tương đương hoặc lớn hơn) và không dùng lực quá mạnh, đẩy 20 mL nước muối sinh lý vào đường ống để làm sạch đường ống.Băng chỗ chọc kimNếu bệnh nhân tỉnh táo hoặc được an thần nhẹ, hãy sử dụng lidocaine 1% để gây tê da tại các vị trí khâu đã định.Đặt một đĩa tẩm chlorhexidine lên da tại điểm đặt ống thông.Khâu kẹp gắn trên ống thông vào da.Để tránh kéo căng vị trí luồn, hãy khâu ống thông ở vị trí thứ hai sao cho một đoạn ống thông cong hoặc hình vòng nằm giữa 2 vị trí.Đắp băng kín vô trùng. Băng keo trong suốt thường được sử dụng.
+
+--- 9. Chăm sóc sau đặt canun tĩnh mạch cảnh trong ---
+
+Trước khi sử dụng ống thông, hãy chụp X-quang ngực để xác nhận rằng đầu của CVC cảnh (hoặc dưới đòn) nằm ở tĩnh mạch chủ trên gần chỗ nối với tâm nhĩ phải (có thể đưa ống thông vào hoặc rút ra nếu không ở đúng vị trí) và để xác nhận rằng không xảy ra tràn khí màng phổi.Phim chụp X-quang ống thông tĩnh mạch trung tâmDấu các chi tiếtMũi tên đỏ chỉ vào đầu của một ống thông tĩnh mạch cửa dưới đòn trái (được đặt một cách thích hợp trong tĩnh mạch chủ trên).© 2017 Bác sĩ Elliot K. Fishman.
+
+--- 10. Cảnh báo và lỗi thường gặp khi đặt canun tĩnh mạch cảnh trong ---
+
+Đầu của CVC không bao giờ được nằm trong tâm nhĩ phải vì tâm nhĩ có thành mỏng và dễ bị thủng.Ngoại tâm thu có thể do một dây dẫn hướng hoặc ống thông trong tâm nhĩ phải hoặc trong tâm thất gây ra.Không bao giờ nắm lỏng dây dẫn hướng.Trong thời gian ngừng tim phổi, hoặc thậm chí huyết áp thấp và thiếu oxy, máu động mạch có thể sẫm màu và không đập và có thể bị nhầm với máu tĩnh mạch.Để giúp ngăn ngừa thuyên tắc khí, CVC cần phải được đặt (và lấy ra) khi có xác định vị trí đặt canun mạch máu phụ thuộc vào tim.
+
+--- 11. Mẹo và thủ thuật trong đặt canun tĩnh mạch cảnh trong ---
+
+Kim tìm mỏng thường được sử dụng để tìm tĩnh mạch cảnh trong trước (trước khi đưa kim dẫn lớn hơn vào) để giảm chảy máu và tụ máu nếu kim đâm vào động mạch cảnh. (Dẫn hướng siêu âm loại bỏ nhu cầu sử dụng của kim tìm.)Hướng của động mạch cảnh và tĩnh mạch cảnh trong với nhau có thể thay đổi nếu vị trí của đầu bệnh nhân thay đổi; do đó, để tránh đâm vào động mạch, bạn nên nhẹ nhàng sờ nắn mạch cảnh trong khi chọc kim vào trong thủ thuật này.Kích thước của tĩnh mạch cảnh trong thay đổi theo nhịp thở (đường kính tối đa ở những bệnh nhân không được đặt nội khí quản xảy ra ngay trước khi thở ra [trước khi thở ra ở những bệnh nhân được đặt nội khí quản]) và tăng lên bởi tư thế Trendelenburg, nghiệm pháp Valsalva, hoạt động mạnh và ép bên ngoài bụng. Để tăng cơ hội đặt canun tĩnh mạch cảnh trong thành công, hãy đẩy dụng cụ đặt canun vào những thời điểm đường kính tĩnh mạch cảnh tăng lên.

@@ -1,0 +1,1401 @@
+TIÊU ĐỀ: Các thành phần phân tử của hệ thống miễn dịch
+URL: https://www.msdmanuals.com/vi/professional/miễn-dịch-học-rối-loạn-dị-ứng/sinh-học-của-hệ-miễn-dịch/các-thành-phần-phân-tử-của-hệ-thống-miễn-dịch
+================================================================================
+
+NỘI DUNG:
+
+Các thành phần phân tử của hệ thống miễn dịch
+
+Theo
+
+Peter J. Delves
+
+,
+
+PhD
+
+,
+
+University College London, London, UK
+
+Xem xét bởi
+
+Brian F. Mandell
+
+,
+
+MD, PhD
+
+,
+
+Cleveland Clinic Lerner College of Medicine at Case Western Reserve University
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 2 2024
+
+v28603628_vi
+
+Các chất phản ứng giai đoạn cấp
+
+|
+
+Kháng thể
+
+|
+
+Cytokines
+
+|
+
+Hệ miễn dịch
+
+bao gồm
+
+các thành phần tế bào
+
+và các thành phần phân tử hoạt động cùng nhau để tiêu diệt kháng nguyên (Ags). (Xem thêm
+
+Tổng quan về hệ thống miễn dịch
+
+.)
+
+Các chất phản ứng giai đoạn cấp
+
+Các chất phản ứng ở giai đoạn cấp tính là các protein huyết tương có mức độ thay đổi để đáp ứng với mức độ lưu hành trong tuần hoàn tăng cao của interleukin (IL)-1 và IL-6 đi kèm với nhiễm trùng hoặc tổn thương mô.
+
+Chất phản ứng dương giai đoạn cấp tính tăng đáng kể
+
+Chất phản ứng âm giai đoạn cấp tính giảm
+
+Tăng đáng kể nhất là:
+
+Protein phản ứng C (CRP)
+
+Dạng tinh bột A trong huyết thanh
+
+Các chất phản ứng ở giai đoạn cấp tính khác bao gồm:
+
+Mannose-gắn lectin
+
+Thành phần amyloid huyết thanh
+
+Alpha-1acid glycoprotein
+
+Fibrinogen
+
+Protein phản ứng C, lectin gắn kết mannose và thành phần P amyloid huyết thanh kích hoạt
+
+bổ thể
+
+và hoạt động như opsonin (các chất gắn kết với vi sinh vật khiến các vi sinh vật ấy dễ bị thực bào). Dạng tinh bột A trong huyết thanh và glycoprotein axit alpha-1 là các protein vận chuyển và fibrinogen là một yếu tố đông máu. Tăng nồng độ protein phản ứng C là một chỉ số không đặc hiệu của tình trạng nhiễm trùng hoặc viêm. Nồng độ Fibrinogen cũng tăng lên là nguyên nhân chính khiến tốc độ máu lắng tăng lên (ESR) tăng trong viêm cấp tính.
+
+Nhiều phản ứng giai đoạn cấp tính được thực hiện trong gan. Nói chung, chúng có thể giúp hạn chế tổn thương mô, tăng khả năng chống lại các bệnh nhiễm trùng và thúc đẩy việc sửa chữa mô và giải quyết tình trạng viêm. Phản ứng giai đoạn cấp tính cũng có thể được kích hoạt bởi
+
+các cytokine
+
+được giải phóng từ các tế bào mỡ nội tạng, điều này phần nào có thể giải thích mối liên hệ giữa béo phì, viêm nhiễm và bệnh tim mạch.
+
+Kháng thể
+
+Các kháng thể hoạt động như một thụ thể kháng nguyên trên bề mặt của
+
+tế bào B
+
+và, để phản ứng với kháng nguyên, sau đó được tiết ra bởi các tế bào huyết tương. Các kháng thể nhận biết các cấu hình cụ thể (các biểu mô, hoặc các yếu tố quyết định kháng nguyên) trên bề mặt của các kháng nguyên (ví dụ: protein, polysaccharid, axit nucleic). Kháng thể và kháng nguyên phù hợp chặt chẽ với nhau vì hình dạng và các đặc tính bề mặt khác của chúng (ví dụ: điện tích) bổ sung cho nhau. Phân tử kháng thể tương tự có thể phản ứng chéo với các kháng nguyên tương ứng nếu các quyết định kháng nguyên của chúng tương tự như các phân tử của kháng nguyên gốc.
+
+Cấu trúc kháng thể
+
+Các kháng thể bao gồm 4 chuỗi polypeptide (2 chuỗi nặng giống hệt nhau và 2 chuỗi nhẹ giống hệt nhau) được nối với nhau bằng gắn kết disulfide để tạo ra cấu hình Y (xem hình
+
+Cơ quan thụ thể tế bào B
+
+). Các chuỗi nặng và nhẹ được chia thành các vùng thay đổi (V) và vùng hằng định (C).
+
+Thụ thể tế bào B
+
+Các thụ thể tế bào B bao gồm một phân tử Ig gắn kết với bề mặt của tế bào. CH
+
+=
+
+vùng chuỗi nặng hằng định; CL
+
+=
+
+vùng chuỗi nhẹ hằng định; Fab
+
+=
+
+đoạn liên kết kháng nguyên; Fc
+
+=
+
+mảnh kết tinh; Ig = immunoglobulin; L-kappa (κ) hoặc lambda (λ) = 2 loại chuỗi nhẹ; VH
+
+=
+
+vùng thay đổi chuỗi nặng; VL
+
+=
+
+vùng thay đổi chuỗi nhẹ.
+
+vùng V
+
+được đặt tại đầu tận amino của cánh tay Y; chúng được gọi là vùng thay đổi bởi vì các axit amin của vùng này chứa các kháng thể khác nhau. Trong vùng thay đổi, khu vực siêu biến đổi xác định tính đặc hiệu của immunoglobulin (Ig). Chúng cũng có chức năng như là các kháng nguyên (các yếu tố idiotypic) mà một số kháng thể tự nhiên nhất định (chống idiotype) kháng thể có thể gắn; sự gắn này có thể giúp điều chỉnh phản ứng tế bào B.
+
+Khu vực C
+
+của các chuỗi nặng chứa một dãy amino axit tương đối hằng định (isotype) đặc trưng cho mỗi lớp Ig. Tế bào B có thể thay đổi kiểu isotype mà nó tạo ra và do đó chuyển đổi lớp Ig nó sinh ra. Vì Ig giữ lại phần biến đổi của vùng chuỗi V nặng và toàn bộ chuỗi nhẹ, nó duy trì tính đặc hiệu kháng nguyên của nó.
+
+Đầu cuối amino-cuối (thay đổi) của kháng thể liên kết với kháng nguyên để tạo thành một phức hợp kháng thể-kháng nguyên. Phần gắn kháng nguyên (Fab) của Ig bao gồm một chuỗi nhẹ và một phần của một chuỗi nặng và chứa vùng V của phân tử Ig (tức là các vị trí kết hợp). Các mảnh (Fc) chứa hầu hết các khu vực C của các chuỗi nặng; Fc chịu trách nhiệm kích hoạt bổ sung và liên kết với thụ thể Fc trên tế bào.
+
+Các lớp kháng thể
+
+Các kháng thể được chia thành 5 lớp:
+
+IgM
+
+IgG
+
+IgA
+
+IgD
+
+IgE
+
+Các lớp được xác định theo loại chuỗi nặng của chúng:
+
+Mu (
+
+μ
+
+) cho IgM
+
+Gamma (
+
+γ
+
+) cho IgG
+
+Alpha (
+
+α
+
+) của IgA
+
+Epsilon (
+
+ε
+
+) cho IgE
+
+Delta (
+
+δ
+
+) cho IgD
+
+Ngoài ra còn có 2 loại chuỗi nhẹ:
+
+Kappa (
+
+κ
+
+)
+
+Lambda (
+
+λ
+
+)
+
+Mỗi trong 5 lớp Ig có thể chứa được chuỗi nhẹ kappa hoặc lambda.
+
+IgM
+
+là kháng thể đầu tiên được hình thành sau khi tiếp xúc với kháng nguyên mới. Nó có 5 phân tử hình chữ Y (10 chuỗi nặng và 10 chuỗi nhẹ), được liên kết bởi một chuỗi nối (J) duy nhất. IgM lưu thông chủ yếu trong lòng mạch máu; nó kết hợp với kháng nguyên và dính với kháng nguyên và có thể kích hoạt bổ sung, do đó tạo điều kiện cho thực bào. Isohemagglutinins chủ yếu là IgM. IgM đơn nhớ hoạt động như một thụ thể kháng nguyên bề mặt trên tế bào B. Bệnh nhân có
+
+hội chứng hyper-IgM
+
+có khiếm khuyết trong các gen liên quan đến chuyển đổi lớp kháng thể (ví dụ, các gen mã hoá CD40, CD154 [còn gọi là CD40L], AID [cytidine deaminase do kích hoạt], UNG [uracil-DNA-glycosylase], hoặc NEMO [bộ cơ bản yếu tố nhân kappa-B]; do đó, IgA, IgG, và IgE thấp hoặc vắng mặt, và mức IgM tuần hoàn thường cao.
+
+IgG
+
+là kiểu mẫu Ig phổ biến nhất trong huyết thanh và có mặt trong các nội mạch và ngoại mạch. Nó bao bọc kháng nguyên để kích hoạt
+
+bổ thể
+
+và tạo điều kiện thuận lợi cho quá trình thực bào của
+
+bạch cầu trung tính
+
+và
+
+đại thực bào
+
+. IgG là Ig lưu hành chính được tạo ra sau khi tái phơi nhiễm với kháng nguyên (đáp ứng miễn dịch thứ cấp) và là kiểu hình chiếm ưu thế có trong các sản phẩm gamma-globulin thương mại. IgG bảo vệ chống lại vi khuẩn, vi rút và các độc tố. Đây là kiểu hình Ig duy nhất đi qua được nhau thai; do đó, loại kháng thể này rất quan trọng để bảo vệ trẻ sơ sinh. Tuy nhiên, các kháng thể IgG gây bệnh (ví dụ: kháng thể kháng Rh0[D], kháng thể kháng SSA [kháng nguyên liên quan đến hội chứng A kháng hội chứng Sjögren] và các kháng thể tự kháng thể thụ thể hóc môn kháng kích thích tuyến giáp do kích thích), nếu có ở người mẹ, có khả năng gây bệnh nghiêm trọng cho thai nhi.
+
+Có 4 phân lớp của IgG: IgG1, IgG2, IgG3, và IgG4. Chúng được đánh số thứ tự giảm dần nồng độ trong huyết thanh. Các lớp phụ IgG khác nhau về chức năng chủ yếu là khả năng kích hoạt bổ thể; IgG1 và IgG3 hiệu quả nhất, IgG2 kém hiệu quả và IgG4 không hiệu quả. IgG1 và IgG3 là những chất trung gian hiệu quả của độc tế bào phụ thuộc vào tế bào kháng thể; IgG4 và IgG2 ít hơn. Các tế bào tạo ra IgG4 tăng lên trong
+
+bệnh liên quan đến IgG4
+
+.
+
+IgA
+
+có ở bề mặt niêm mạc, trong huyết thanh, và trong các dịch tiết (nước bọt, nước mắt, hô hấp, đường niệu sinh dục và các chất tiết đường tiêu hoá, sữa non), nơi nó cung cấp sự phòng chống vi khuẩn và kháng virus sớm. J liên kết chuỗi IgA thành một dimer để tạo ra IgA tiết. IgA được tổng hợp bởi các tế bào plasma ở các vùng dưới biểu mô của đường tiêu hóa và các đường hô hấp.
+
+Thiếu IgA chọn lọc
+
+tương đối phổ biến nhưng thường ít ảnh hưởng lâm sàng vì có chức năng chéo với các lớp kháng thể khác.
+
+IgD
+
+là đồng biểu hiện với IgM trên bề mặt của các tế bào B nguyên bản. Liệu 2 lớp này có hoạt động khác nhau trên bề mặt tế bào B hay không và nếu có thì khác nhau như thế nào vẫn chưa rõ ràng. Nồng độ IgD trong huyết thanh rất thấp và bất kỳ chức năng đặc biệt nào của IgD lưu thông trong hệ tuần hoàn phần lớn chưa được biết đến, mặc dù có một số bằng chứng về vai trò điều hòa miễn dịch đối với đáp ứng Th2 (
+
+1
+
+) (xem bảng
+
+Chức năng của tế bào T
+
+).
+
+IgE
+
+có mặt ở nồng độ thấp trong huyết thanh, trong các chất bài tiết qua đường hô hấp và đường tiêu hóa. IgE gắn kết ái lực mạnh với các thụ thể hiện diện ở mức độ cao trên
+
+tế bào mast
+
+và
+
+bạch cầu ái kiềm
+
+và ở mức độ thấp hơn trên một số tế bào tạo máu khác, bao gồm cả
+
+tế bào đuôi gai
+
+. Nếu cầu kháng nguyên nối 2 phân tử IgE liên kết với tế bào mast hoặc bề mặt bạch cầu ưa bazơ, các tế bào giải phóng hạt, giải phóng các chất trung gian hóa học gây ra đáp ứng viêm. Mức IgE tăng cao trong các rối loạn atopi (ví dụ: dị ứng hoặc
+
+hen
+
+ngoại sinh, sốt mùa,
+
+viêm da dị ứng
+
+) và
+
+nhiễm ký sinh trùng
+
+.
+
+Tài liệu tham khảo về kháng thể
+
+1.
+
+Shan M, Carrillo J, Yeste A, et al
+
+. Secreted IgD Amplifies Humoral T Helper 2 Cell Responses by Binding Basophils via Galectin-9 and CD44.
+
+Immunity
+
+2018;49(4):709-724.e8. doi:10.1016/j.immuni.2018.08.013
+
+Cytokines
+
+Cytokine là các polypeptide được tiết ra bởi các tế bào miễn dịch và các tế bào khác khi tế bào tương tác với một kháng nguyên cụ thể, với các phân tử gây bệnh như endotoxin, hoặc với các cytokine khác. Các loại chính bao gồm
+
+Chemokines
+
+Các yếu tố kích thích cụm (CSF)
+
+Interferon (IFNs)
+
+Interleukins (ILs)
+
+Yếu tố tăng trưởng chuyển dạng (TGF)
+
+Yếu tố hoại tử khối u (TNF)
+
+Mặc dù tương tác tế bào lympho với một kháng nguyên cụ thể kích hoạt sự tiết cytokine, nhưng các cytokine không phải là kháng nguyên đặc hiệu; do đó, chúng làm cầu nối miễn dịch bẩm sinh và mắc phải và thường ảnh hưởng đến mức độ phản ứng viêm hoặc miễn dịch. Chúng hoạt động tuần tự, phối hợp hoặc đối kháng. Chúng có thể hành động theo cách tự tiết hoặc cận tiết.
+
+Cytokine truyền tín hiệu của chúng qua các thụ thể bề mặt tế bào. Ví dụ, thụ thể IL-2 bao gồm 3 chuỗi: alpha (
+
+α
+
+), beta (
+
+β
+
+), và gamma (
+
+γ
+
+). Ái lực của thụ thể đối với IL-2 là
+
+Cao nếu tất cả 3 chuỗi được thể hiện
+
+Trung gian nếu chỉ có chuỗi beta và gamma được thể hiện
+
+Thấp nếu chỉ chuỗi alpha được thể hiện
+
+Các đột biến hoặc mất chuỗi gamma là cơ sở cho liên kết X
+
+suy giảm miễn dịch kết hợp nặng
+
+.
+
+Chemokines
+
+Chemokine gây ra sự hóa ứng động và di chuyển bạch cầu. Có một họ chemokine lớn với ít nhất 47 thành viên, bao gồm 4 tập hợp con (C, CC, CXC, CX3C), được xác định bởi số lượng và khoảng cách giữa các gốc
+
+cysteine
+
+đầu amino của chúng. Các thụ thể chemokine (CCR5 trên tế bào T nhớ, bạch cầu đơn nhân/đại thực bào và các tế bào đuôi gai, CXCR4 trên các tế bào T nghỉ) đóng vai trò như các thụ thể giúp sự xâm nhập của HIV vào tế bào. Thuốc đối kháng CXCR4 có thể có ích trong các liệu pháp phối hợp điều trị
+
+ung thư biểu mô tuyến ống tụy
+
+.
+
+Các yếu tố kích thích cụm (colony-stimulating factors - CSF)
+
+Yếu tố kích thích bạch cầu hạt
+
+(G-CSF) được sản xuất bởi các tế bào nội mô và nguyên bào sợi.
+
+Tác dụng chính của G-CSF là
+
+Kích thích tăng trưởng tiền thân bạch cầu trung tính
+
+Ứng dụng lâm sàng của G-CSF bao gồm
+
+Phản ứng giảm bạch cầu sau khi hóa trị liệu, xạ trị hoặc cả hai
+
+Yếu tố kích thích dòng bạch cầu hạt-đại thực bào
+
+(GM-CSF) do các tế bào nội mô, nguyên bào sợi, đại thực bào, tế bào mast và tế bào T hỗ trợ (Th) sản sinh ra.
+
+Tác dụng chính của GM-CSF là
+
+Kích thích tăng trưởng của monocyte, bạch cầu trung tính, bạch cầu ái toan và các tiền chất bạch cầu ưa bazo
+
+Kích hoạt macrophage
+
+Ứng dụng lâm sàng của GM-CSF bao gồm
+
+Phản ứng giảm bạch cầu sau khi hóa trị liệu, xạ trị hoặc cả hai
+
+Sự phát triển của các tự kháng thể chống lại GM-CSF có thể dẫn đến tình trạng
+
+tích protein mô phế nang
+
+.
+
+Yếu tố kích thích tạo dòng đại thực bào
+
+(M-CSF) được tạo ra bởi các tế bào nội mạc, tế bào biểu mô và nguyên bào sợi.
+
+Tác dụng chính của M-CSF là
+
+Kích thích tăng trưởng tiền thân bạch cầu đơn nhân
+
+Sử dụng lâm sàng của M-CSF bao gồm
+
+Tiềm năng điều trị để kích thích tái tạo mô
+
+Interferon (IFNs)
+
+Interferon là một họ protein có hoạt tính kháng vi rút và cũng đóng vai trò là chất điều biến miễn dịch. Bằng chứng về hoạt động quá mức của interferon là đặc điểm của bệnh nhân mắc bệnh lupus ban đỏ hệ thống (
+
+1
+
+).
+
+IFN-alpha
+
+được sản xuất bởi bạch cầu.
+
+Các hiệu ứng chính của IFN-alpha là
+
+Ức chế sự nhân lên của virus
+
+Tăng cường biểu hiện
+
+phức hợp tương hợp mô học chính
+
+(MHC) loại I
+
+Các sử dụng lâm sàng của IFN-alpha bao gồm
+
+Điều trị
+
+viêm gan B mạn tính
+
+,
+
+viêm gan C mạn tính
+
+,
+
+Kaposi sarcoma
+
+liên quan đến AIDS,
+
+condylomata acuminata
+
+, bệnh bạch cầu tế bào lông,
+
+bệnh bạch cầu dòng tủy mạn tính
+
+, u lympho nang và
+
+ung thư tế bào hắc tố
+
+di căn
+
+IFN-beta
+
+được tạo ra bởi nguyên bào sợi.
+
+Các hiệu ứng chính của IFN-beta là
+
+Ức chế sự nhân lên của virus
+
+Tăng cường biểu hiện MHC ở lớp I
+
+Các ứng dụng lâm sàng của IFN-beta bao gồm
+
+Giảm đợt bùng phát trong tái phát
+
+bệnh đa xơ cứng
+
+IFN-gamma
+
+được sản xuất bởi các tế bào diệt tự nhiên (NK), tế bào gây độc loại 1 (Tc1), và tế bào T hỗ trợ loại 1 (Th1).
+
+Các hiệu ứng chính của IFN-gamma là
+
+Ức chế sự nhân lên của virus
+
+Tăng cường biểu hiện MHC loại I và loại II và biểu hiện thụ thể Fc
+
+Kích hoạt đại thực bào và tế bào NK
+
+Sự đối kháng với một số hoạt động của IL-4
+
+Ức chế sự gia tăng tế bào Th2
+
+Các ứng dụng lâm sàng của IFN-gamma bao gồm
+
+Kiểm soát nhiễm trùng ở
+
+bệnh u hạt mạn tính
+
+Trì hoãn tiến triển trong bệnh xương đá nặng ác tính
+
+Interleukins (ILs)
+
+Interleukins (IL-1 đến IL-38) được sản xuất bởi nhiều loại tế bào khác nhau và có nhiều tác động lên sự phát triển của tế bào và điều chỉnh đáp ứng miễn dịch. Interleukins đã được đặc trưng và nghiên cứu về sự liên quan lâm sàng bao gồm:
+
+IL-1
+
+(alpha và beta) được sản xuất bởi các tế bào B, tế bào đuôi gai, nội mạc, đại thực bào, tế bào monocytes và các tế bào diệt tự nhiên (NK).
+
+Tác dụng chính của IL-1 là
+
+Kích hoạt tế bào T bằng cách tăng cường sản xuất các cytokine (ví dụ, IL-2 và thụ thể của nó)
+
+Tăng cường tăng sinh tế bào B và trưởng thành
+
+Tăng độc tính tế bào NK
+
+Kích thích IL-1, IL-6, IL-8, TNF, GM-CSF và prostaglandin E2 sản xuất bởi các đại thực bào
+
+Hoạt động tiền viêm bằng cách tạo ra các chemokine, phân tử kết dính giữa tế bào 1 (ICAM-1) và phân tử kết dính tế bào mạch máu 1 (VCAM-1) trên nội mô
+
+Khởi phát giấc ngủ, chán ăn, giải phóng các yếu tố mô, các phản ứng giai đoạn cấp tính, và sự hủy xương bởi tế bào hủy xương
+
+Tình trạng gây sốt nội sinh
+
+Ứng dụng trên lâm sàng của IL-1 bao gồm
+
+Đối với
+
+kháng thể đơn dòng kháng IL-1 beta (mAb),
+
+điều trị
+
+hội chứng sốt chu kỳ
+
+,
+
+bệnh viêm khớp hệ thống tự phát ở thiếu niên
+
+,
+
+gút cấp
+
+và
+
+viêm khớp do canxi pyrophosphat
+
+(giả gút)
+
+Cho
+
+Tác nhân đối kháng thụ thể IL-1 (IL-1RA),
+
+điều trị cho người lớn với bệnh
+
+viêm khớp dạng thấp
+
+từ trung bình đến nặng và bệnh nhân
+
+bệnh viêm đa cơ quan khởi phát ở trẻ sơ sinh
+
+(NOMID)
+
+IL-2
+
+được sản xuất bởi tế bào Th1.
+
+Tác dụng chính của IL-2 là
+
+Cảm ứng sự tăng sinh tế bào T và tế bào B được kích hoạt
+
+Tăng cường độc tế bào NK và tiêu diệt các tế bào khối u và vi khuẩn bởi các monocytes và các đại thực bào
+
+Ứng dụng trên lâm sàng của IL-2 bao gồm
+
+Với
+
+IL-2,
+
+điều trị ung thư biểu mô tế bào thận di căn và khối u ác tính di căn
+
+Với
+
+kháng thể mAb kháng IL-2 receptor,
+
+giúp phòng ngừa thải ghép thận cấp
+
+IL-3
+
+(còn được gọi là multi-CSF) do tế bào T và tế bào mast sản sinh ra
+
+Tác dụng chính của IL-3 là
+
+Kích thích tăng trưởng và sự khác biệt của các tiền chất tạo máu
+
+Kích thích sự phát triển tế bào mast
+
+Ứng dụng trên lâm sàng của IL-3 bao gồm
+
+Nhắm mục tiêu chuỗi alpha thụ thể IL-3 bằng kháng thể đơn dòng hoặc tế bào T thụ thể kháng nguyên khảm (CAR), có thể mang lại lợi ích ở những bệnh nhân mắc một số rối loạn, thường là ung thư máu như
+
+bệnh bạch cầu dòng tủy cấp tính
+
+kháng trị tái phát
+
+IL-4
+
+được sản xuất bởi các tế bào mast, các tế bào NK, các tế bào diệt tự nhiên T (NKT), các tế bào T-gamma-delta, Tc2, và Th2.
+
+Tác dụng chính của IL-4 là
+
+Kích thích Th2
+
+Kích thích sự tăng sinh tế bào B, tế bào T và tế bào mast được kích hoạt
+
+Tăng cường các phân tử MHC lớp II trên tế bào B và các đại thực bào, và CD23 trên tế bào B
+
+Giảm quá trình sản xuất IL-12, do đó ức chế biệt hóa Th1
+
+Tăng cường tế bào đại thực bào thực bào
+
+Cảm ứng chuyển đổi sang IgG1 và IgE
+
+Ứng dụng trên lâm sàng của IL-4 bao gồm
+
+Tham gia của IL-4 (với IL-13) trong quá trình sản sinh ra IgE trong dị ứng do cơ địa dị ứng
+
+Đối với
+
+mAb kháng thụ thể IL-4
+
+điều trị bệnh nhân bị
+
+viêm da cơ địa
+
+từ vừa đến nặng
+
+IL-5
+
+do các tế bào mast và tế bào Th2 sản sinh ra.
+
+Tác dụng chính của IL-5 là
+
+Kích thích sự tăng sinh bạch cầu ái toan và kích hoạt tế bào B
+
+Khởi động chuyển sang IgA
+
+Ứng dụng trên lâm sàng của IL-5 bao gồm
+
+Đối với
+
+mAb kháng IL-5,
+
+điều trị bệnh nhân
+
+hen suyễn do tăng bạch cầu ái toan
+
+nặng và
+
+bệnh u hạt bạch cầu ái toan kèm theo viêm đa mạch
+
+Với
+
+kháng thể kháng IL-5 thụ thể mAb,
+
+hiệu quả trong điều trị bệnh nhân hen nặng tăng bạch cầu ái toan trong máu
+
+IL-6
+
+được tạo ra bởi các tế bào đuôi gai, nguyên bào sợi, đại thực bào, bạch cầu đơn nhân và Th2.
+
+Tác dụng chính của IL-6 là
+
+Kích thích sự biệt hóa của tế bào B thành tương bào và sự biệt hóa của các tế bào gốc tủy
+
+Kích thích
+
+các phản ứng giai đoạn cấp
+
+Tăng cường tăng sinh tế bào T
+
+Kích thích biệt hóa tế bào Tc
+
+Tình trạng gây sốt
+
+Ứng dụng trên lâm sàng của IL-6 bao gồm
+
+Đối với
+
+mAb kháng IL-6,
+
+điều trị bệnh Castleman đa trung tâm ở những bệnh nhân âm tính với HIV và herpesvirus 8 ở người (HHV-8)
+
+Đối với
+
+mAb kháng thụ thể IL-6,
+
+điều trị
+
+viêm khớp dạng thấp
+
+khi đáp ứng với thuốc đối kháng TNF không đầy đủ và điều trị
+
+viêm khớp vô căn ở trẻ vị thành niên
+
+,
+
+viêm động mạch tế bào khổng lồ
+
+và
+
+hội chứng giải phóng cytokine
+
+nặng sau khi điều trị bằng tế bào CAR T. Kết hợp với dexamethasone, điều trị bệnh nhân
+
+COVID-19
+
+bị giảm oxy huyết và viêm toàn thân.
+
+IL-7
+
+được tạo ra bởi tủy xương và các tế bào mô liên kết tuyến ức.
+
+Tác dụng chính của IL-7 là
+
+Cảm ứng sự biệt hóa của tế bào gốc bạch huyết thành tiền thân tế bào T và tế bào B
+
+Kích hoạt tế bào T trưởng thành
+
+Ứng dụng trên lâm sàng của IL-7 bao gồm
+
+Kích thích miễn dịch tiềm tàng trong điều trị nhiễm virus, ung thư và nhiễm trùng lympho
+
+IL-8
+
+(một
+
+chemokine
+
+) do các tế bào nội mô, đại thực bào và bạch cầu đơn nhân sinh ra.
+
+Tác dụng chính của IL-8 là
+
+Trung gian hóa ứng động và kích hoạt bạch cầu trung tính
+
+Ứng dụng trên lâm sàng của IL-8 bao gồm
+
+Cho
+
+Thuốc đối kháng IL-8,
+
+tiềm năng điều trị các chứng bệnh viêm mạn tính
+
+IL-9
+
+được sản xuất bởi tế bào Th.
+
+Tác dụng chính của IL-9 là
+
+Kích thích sự tăng sinh thymo bào
+
+Tăng cường sự phát triển tế bào mast
+
+Hoạt động phối hợp với IL-4 để làm chuyển đổi sang IgG1 và IgE
+
+Các thử nghiệm lâm sàng về kháng IL-9 mAb trong bệnh hen suyễn nhìn chung không chứng minh được hiệu quả (
+
+2
+
+).
+
+IL-10
+
+được tạo ra bởi các tế bào B, các đại thực bào, các monocyte, tế bào Tc, Th2, và các tế bào T điều hòa.
+
+Tác dụng chính của IL-10 là
+
+Ức chế sự bài tiết IL-2 của tế bào Th1 người
+
+Giảm quá trình sản xuất các phân tử MHC hạng II và cytokine (ví dụ, IL-12) bằng các monocytes, macrophages, và các tế bào đuôi, do đó ức chế biệt hóa Th 1 tế bào
+
+Ức chế tăng sinh tế bào T
+
+Tăng cường sự biệt hóa tế bào B
+
+Ứng dụng trên lâm sàng của IL-10 bao gồm
+
+Có thể ức chế phản ứng miễn dịch gây bệnh trong dị ứng và rối loạn tự miễn dịch
+
+IL-11
+
+được tạo ra bởi các tế bào liên kết xương.
+
+Tác dụng chính của IL-11 là
+
+Thúc đẩy quá trình biệt hóa tế bào pro-B và megakaryocyte
+
+Kích thích các phản ứng giai đoạn cấp
+
+Ứng dụng trên lâm sàng của IL-11 bao gồm
+
+Phòng ngừa
+
+giảm tiểu cầu
+
+sau khi điều trị bằng liệu pháp hóa trị ức chế tủy
+
+IL-12
+
+được tạo ra bởi các tế bào B, tế bào đuôi, các đại thực bào, và các monocytes.
+
+Tác dụng chính của IL-12 là
+
+Vai trò quan trọng trong sự biệt hóa Th1
+
+Kích thích sự gia tăng tế bào Th1, tế bào T CD8, tế bào T-gamma-delta và tế bào NK và sự sản xuất IFN-gamma của chúng
+
+Tăng cường NK và Tế bào T CD8 gây độc tế bào
+
+Ứng dụng trên lâm sàng của IL-12 bao gồm
+
+Với
+
+kháng thể kháng IL-12 mAb,
+
+điều trị bệnh
+
+vẩy nến thể mảng
+
+và
+
+viêm khớp vẩy nến
+
+IL-13
+
+do các tế bào mast và tế bào Th2 sản sinh ra.
+
+Tác dụng chính của IL-13 là
+
+Ức chế kích hoạt và tiết cytokine bởi các đại thực bào
+
+Kích hoạt sự tăng sinh tế bào B
+
+Tăng cường các phân tử MHC lớp II và CD23 đối với tế bào B và bạch cầu đơn
+
+Cảm ứng chuyển đổi sang IgG1 và IgE
+
+Kích thích phân tử kết dính tế bào 1 (VCAM-1) trên nội mạc
+
+Ứng dụng trên lâm sàng của IL-13 bao gồm
+
+Tham gia của IL-13 (với IL-4) trong quá trình sản sinh ra IgE trong
+
+dị ứng do cơ địa dị ứng
+
+IL-15
+
+được sản xuất bởi tế bào B, tế bào đuôi gai, đại thực bào, tế bào monocytes, tế bào NK và tế bào T.
+
+Tác dụng chính của IL-15 là
+
+Cảm ứng sự tăng sinh của tế bào T, tế bào NK và tế bào B được kích hoạt
+
+Kích thích sự sản sinh cytokine và gây độc tế bào các tế bào NK và các tế bào T CD8
+
+Hoạt động hóa ứng động đối với tế bào T
+
+Kích thích sự phát triển biểu mô ruột
+
+Ứng dụng trên lâm sàng của IL-15 bao gồm
+
+Tiềm năng kích thích miễn dịch trong điều trị ung thư
+
+IL-16
+
+được sản xuất bởi các tế bào T hỗ trợ và các tế bào T gây độc.
+
+Tác dụng chính của IL-16 là
+
+Hoạt động hóa học của tế bào T CD4, bạch cầu đơn nhân và bạch cầu ái toan
+
+Cảm ứng phân tử MHC loại II
+
+Ứng dụng trên lâm sàng của IL-16 bao gồm
+
+Tiềm năng thúc đẩy quá trình phục hồi tế bào T CD4 ở bệnh nhân
+
+nhiễm HIV
+
+Chất đối kháng IL-16 có thể có ích trong điều kiện dị ứng và tự miễn
+
+IL-17
+
+(A và F) được tạo ra bởi tế bào Th17, tế bào T gamma-delta, tế bào NKT và đại thực bào.
+
+Tác dụng chính của IL-17 là
+
+Hoạt động tiền viêm
+
+Kích thích sản xuất cytokines (ví dụ TNF, IL-1 beta, IL-6, IL-8, G-CSF)
+
+Ứng dụng trên lâm sàng của IL-17 bao gồm
+
+Đối với kháng thể
+
+kháng IL-17A mAb
+
+, điều trị cho người lớn bị
+
+viêm cột sống dính khớp
+
+tiến triển,
+
+viêm khớp vẩy nến
+
+tiến triển hoặc
+
+bệnh vẩy nến thể mảng
+
+từ trung bình đến nặng, nhưng việc ức chế có thể gây ra
+
+bệnh viêm ruột
+
+IL-18
+
+do các bạch cầu đơn nhân, đại thực bào và tế bào đuôi gai sản sinh ra.
+
+Tác dụng chính của IL-18 là
+
+Khởi tạo IFN-gamma sản xuất bởi các tế bào T
+
+Tăng độc tính tế bào NK
+
+IL-18 đã được thử nghiệm như một tác nhân miễn dịch điều trị trong ung thư, nhưng hiệu quả vẫn chưa được xác định.
+
+IL-20
+
+do các bạch cầu đơn nhân, đại thực bào và tế bào đuôi gai sản sinh ra.
+
+Tác dụng chính của IL-20 là
+
+Hoạt động tiền viêm
+
+Kích thích tăng sinh tế bào sừng
+
+Ứng dụng trên lâm sàng của IL-20 bao gồm
+
+Thụ thể IL-20 được điều hòa trên tế bào sừng ở bệnh nhân
+
+vẩy nến
+
+IL-21
+
+được sản xuất bởi các tế bào NKT và Th.
+
+Tác dụng chính của IL-21 là
+
+Kích thích tăng sinh tế bào B sau khi liên kết chéo CD40
+
+Kích thích tế bào NK
+
+Đồng kích hoạt của tế bào T
+
+Kích thích tăng sinh tế bào tiền thân của tủy xương
+
+Ứng dụng trên lâm sàng của IL-21 bao gồm
+
+Trong các thử nghiệm lâm sàng, kích thích các tế bào T gây độc tế bào và tế bào NK trong ung thư
+
+Cho
+
+tác nhân đối kháng IL-21,
+
+tiềm năng trong điều trị rối loạn tự miễn dịch
+
+IL-22
+
+được sản xuất bởi các tế bào NK, Th17, và các tế bào T gamma-delta.
+
+Tác dụng chính của IL-22 là
+
+Hoạt động tiền viêm
+
+Khởi phát quá trình tổng hợp các phản ứng giai đoạn cấp
+
+Ứng dụng trên lâm sàng của IL-22 bao gồm
+
+Cho
+
+tác nhân đối kháng IL-22,
+
+tiềm năng trong điều trị rối loạn tự miễn dịch
+
+IL-23
+
+được tạo ra bởi các tế bào đuôi gai và các đại thực bào.
+
+Tác dụng chính của IL-23 là
+
+Kích thích Th tăng sinh nhanh
+
+Ứng dụng trên lâm sàng của IL-23 bao gồm
+
+Cho
+
+kháng thể IL-23,
+
+điều trị bệnh vẩy nến thể mảng và
+
+viêm khớp vẩy nến
+
+và
+
+bệnh Crohn
+
+IL-24
+
+được tạo ra bởi các tế bào B, đại thực bào, bạch cầu đơn nhân mono và tế bào T.
+
+Tác dụng chính của IL-24 là
+
+Ức chế tăng trưởng tế bào khối u
+
+Kích thích chết theo chương trình trong tế bào khối u
+
+Ứng dụng trên lâm sàng của IL-24 bao gồm
+
+Tiềm năng trong điều trị ung thư
+
+IL-25
+
+(còn gọi là IL-17E) do tế bào T, đại thực bào, tế bào đuôi gai, tế bào mast, bạch cầu ái toan và biểu mô sản sinh ra.
+
+Tác dụng chính của IL-25 là
+
+Kích thích tế bào Th2
+
+Ứng dụng trên lâm sàng của IL-25 bao gồm
+
+Liên quan đến sự phát triển của dị ứng và
+
+rối loạn tự miễn
+
+(
+
+3
+
+)
+
+IL-27
+
+được tạo ra bởi các tế bào đuôi gai, bạch cầu đơn nhân mono và đại thực bào.
+
+Tác dụng chính của IL-27 là
+
+Kích thích Th1
+
+Ứng dụng trên lâm sàng của IL-27 bao gồm
+
+Tiềm năng trong điều trị ung thư
+
+IL-31
+
+do tế bào Th2 sản sinh ra
+
+Tác dụng chính của IL-31 là
+
+Hoạt động tiền viêm
+
+Ứng dụng trên lâm sàng của IL-31 bao gồm
+
+Vai trò trong
+
+viêm da cơ địa
+
+,
+
+hen suyễn
+
+và
+
+bệnh viêm ruột
+
+IL-32
+
+được sản xuất bởi các tế bào NK và các tế bào T.
+
+Tác dụng chính của IL-32 là
+
+Hoạt động tiền viêm
+
+Sự tham gia vào quá trình apoptosis do tế bào T gây ra và kích hoạt
+
+Ứng dụng trên lâm sàng của IL-32 bao gồm
+
+Tiềm năng trong điều trị rối loạn tự miễn dịch
+
+IL-33
+
+được tạo ra bởi các tế bào nội mô, tế bào liên kết và tế bào đuôi gai.
+
+Tác dụng chính của IL-33 là
+
+Kích thích Th2 cytokines
+
+Khuyến khích tăng bạch cầu ái toan
+
+Ứng dụng trên lâm sàng của IL-33 bao gồm
+
+Cho
+
+các thuốc đối kháng IL-33,
+
+có tiềm năng trong điều trị
+
+hen
+
+phế quản.
+
+IL-34
+
+do tế bào sừng và tế bào thần kinh sản sinh ra.
+
+Tác dụng chính của IL-34 là
+
+Hỗ trợ tăng trưởng tế bào và thời gian sống thêm của bạch cầu đơn nhân
+
+Kích thích biệt hóa bạch cầu đơn nhân thành đại thực bào
+
+Ứng dụng trên lâm sàng của IL-34 bao gồm
+
+Có thể liên quan đến cơ chế bệnh sinh của
+
+viêm khớp dạng thấp
+
+(
+
+4
+
+) và
+
+bệnh viêm ruột
+
+IL-35
+
+được tạo ra bởi các tế bào T điều hòa, các đại thực bào và các tế bào đuôi gai.
+
+Tác dụng chính của IL-35 là
+
+Ức chế tình trạng viêm, ví dụ: bằng cách tạo ra các tế bào T và tế bào B điều hòa và ức chế tế bào Th17
+
+Ứng dụng trên lâm sàng của IL-35 bao gồm
+
+Khả năng ngăn chặn phản ứng miễn dịch gây bệnh trong dị ứng và rối loạn tự miễn dịch
+
+IL-36
+
+do biểu mô, bạch cầu đơn nhân, đại thực bào, tế bào đuôi gai và tế bào T sản sinh ra.
+
+Tác dụng chính của IL-36
+
+Hoạt động tiền viêm
+
+Ứng dụng trên lâm sàng của IL-36 bao gồm
+
+Thúc đẩy tình trạng viêm trong bệnh vẩy nến
+
+IL-37
+
+được tạo ra bởi các đại thực bào, và các mô viêm.
+
+Tác dụng chính của IL-37 là
+
+Chống viêm
+
+Các thuốc đối kháng thụ thể IL-18
+
+Ứng dụng trên lâm sàng của IL-37 bao gồm
+
+Có khả năng ngăn chặn viêm
+
+Các yếu tố tăng trưởng chuyển dạng (TGF)
+
+Có các dạng alpha và beta của TGFs với 3 subtypes TGF-beta.
+
+TGF-alpha
+
+do các tế bào biểu mô, bạch cầu đơn nhân, đại thực bào, tế bào não và tế bào sừng sản sinh ra.
+
+Các hiệu ứng chính của TGF-alpha là
+
+Kích thích tăng sinh tế bào và biệt hóa
+
+Điều hòa sản xuất chất nhầy
+
+Ức chế bài tiết axit dạ dày
+
+Ứng dụng trên lâm sàng của TGF-alpha bao gồm
+
+Thuốc đối kháng
+
+TGF-alpha làm giảm các triệu chứng trong bệnh Menetrier's
+
+TGF-beta
+
+được sản xuất bởi các tế bào B, đại thực bào, các tế bào mast, và Th3.
+
+Tác dụng chính của dòng TGF-beta là
+
+Hoạt động tiền viêm (ví dụ: bằng hấp dẫn hóa học của các monocyte và macrophage) bên cạnh còn hoạt động chống viêm (ví dụ: bằng cách ức chế sự tăng sinh tế bào lympho)
+
+Khởi động chuyển sang IgA
+
+Thúc đẩy tái tạo mô và xơ hóa
+
+Ứng dụng trên lâm sàng của
+
+TGF-beta
+
+bao gồm
+
+Các thử nghiệm về
+
+thuốc đối kháng
+
+(ví dụ: antisense oligonucleotide) trong bệnh ung thư đang được tiến hành (
+
+5
+
+).
+
+Yếu tố hoại tử khối u (TNF)
+
+TNF-alpha (cachectin)
+
+được sản xuất bởi các tế bào B, tế bào đuôi gai, đại thực bào, tế bào mast, tế bào monocytes, tế bào NK và Th tế bào.
+
+Tác dụng chính của TNF-alpha bao gồm
+
+Chứng suy mòn thể chất và tinh thần
+
+Cảm ứng bài tiết một số cytokine (ví dụ: IL-1, GM-CSF, IFN-gamma) kích thích viêm
+
+Kích thích E-selectin trên nội mạc
+
+Kích hoạt macrophage
+
+Hoạt động kháng virut
+
+Độc tính tế bào đối với các tế bào khối u
+
+Ứng dụng trên lâm sàng của TNF-alpha bao gồm
+
+Đối với
+
+thuốc đối kháng TNF-alpha
+
+(mAb hoặc thụ thể hòa tan), điều trị
+
+viêm khớp dạng thấp
+
+,
+
+bệnh vẩy nến
+
+thể mảng,
+
+bệnh Crohn
+
+kháng trị với các phương pháp điều trị tiêu chuẩn,
+
+viêm đại tràng thể loét
+
+,
+
+viêm tuyến mồ hôi mủ
+
+,
+
+viêm cột sống dính khớp
+
+,
+
+viêm khớp do vảy nến
+
+,
+
+viêm đa khớp vô căn ở trẻ vị thành niên
+
+,
+
+viêm màng bồ đào trung gian không nhiễm trùng
+
+, viêm màng bồ đào sau và viêm màng bồ đào lan tỏa. Bất chấp tên gọi của nó, việc ngăn chặn hoạt động của TNF không dẫn đến sự gia tăng rõ rệt các bệnh ung thư nguyên phát hoặc thứ phát.
+
+TNF-beta (lymphotoxin)
+
+do tế bào Tc và tế bào Th1 sản sinh ra.
+
+Tác dụng chính của TNF-beta bao gồm
+
+Độc tính tế bào đối với các tế bào khối u
+
+Hoạt động kháng virut
+
+Tăng cường thực bào bởi bạch cầu trung tính và đại thực bào
+
+Sự tham gia vào phát triển cơ quan bạch huyết
+
+Ứng dụng trên lâm sàng của TNF-beta bao gồm
+
+Cho
+
+Chất đối kháng TNF-beta
+
+, những hiệu ứng tương tự đối với những thuốc đối kháng TNF-alpha đã được thiết lập tốt nhưng không được chứng tỏ là ưu việt hơn
+
+Tài liệu tham khảo về cytokine
+
+1.
+
+Tanaka Y, Kusuda M, Yamaguchi Y
+
+. Interferons and systemic lupus erythematosus: Pathogenesis, clinical features, and treatments in interferon-driven disease.
+
+Mod Rheumatol
+
+2023;33(5):857-867. doi:10.1093/mr/roac140
+
+2.
+
+Oh CK, Leigh R, McLaurin KK, Kim K, Hultquist M, Molfino NA
+
+. A randomized, controlled trial to evaluate the effect of an anti-interleukin-9 monoclonal antibody in adults with uncontrolled asthma.
+
+Respir Res
+
+2013;14(1):93. Xuất bản ngày 19 tháng 9 năm 2013. doi:10.1186/1465-9921-14-93
+
+3.
+
+Liu Y, Shao Z, Shangguan G, Bie Q, Zhang B
+
+. Biological Properties and the Role of IL-25 in Disease Pathogenesis.
+
+J Immunol Res
+
+2018;2018:6519465. Xuất bản ngày 23 tháng 9 năm 2018. doi:10.1155/2018/6519465
+
+4.
+
+Zhou RP, Wu XS, Xie YY, et al
+
+. Functions of interleukin-34 and its emerging association with rheumatoid arthritis.
+
+Immunology
+
+2016;149(4):362-373. doi:10.1111/imm.12660
+
+5.
+
+Lee HJ
+
+. Recent Advances in the Development of TGF-β Signaling Inhibitors for Anticancer Therapy.
+
+J Cancer Prev
+
+2020;25(4):213-222. doi:10.15430/JCP.2020.25.4.213
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các chất phản ứng giai đoạn cấp ---
+
+Các chất phản ứng ở giai đoạn cấp tính là các protein huyết tương có mức độ thay đổi để đáp ứng với mức độ lưu hành trong tuần hoàn tăng cao của interleukin (IL)-1 và IL-6 đi kèm với nhiễm trùng hoặc tổn thương mô.Chất phản ứng dương giai đoạn cấp tính tăng đáng kểChất phản ứng âm giai đoạn cấp tính giảmTăng đáng kể nhất là:Protein phản ứng C (CRP)Dạng tinh bột A trong huyết thanhCác chất phản ứng ở giai đoạn cấp tính khác bao gồm:Mannose-gắn lectinThành phần amyloid huyết thanhAlpha-1acid glycoproteinFibrinogenProtein phản ứng C, lectin gắn kết mannose và thành phần P amyloid huyết thanh kích hoạtbổ thểvà hoạt động như opsonin (các chất gắn kết với vi sinh vật khiến các vi sinh vật ấy dễ bị thực bào). Dạng tinh bột A trong huyết thanh và glycoprotein axit alpha-1 là các protein vận chuyển và fibrinogen là một yếu tố đông máu. Tăng nồng độ protein phản ứng C là một chỉ số không đặc hiệu của tình trạng nhiễm trùng hoặc viêm. Nồng độ Fibrinogen cũng tăng lên là nguyên nhân chính khiến tốc độ máu lắng tăng lên (ESR) tăng trong viêm cấp tính.Nhiều phản ứng giai đoạn cấp tính được thực hiện trong gan. Nói chung, chúng có thể giúp hạn chế tổn thương mô, tăng khả năng chống lại các bệnh nhiễm trùng và thúc đẩy việc sửa chữa mô và giải quyết tình trạng viêm. Phản ứng giai đoạn cấp tính cũng có thể được kích hoạt bởicác cytokineđược giải phóng từ các tế bào mỡ nội tạng, điều này phần nào có thể giải thích mối liên hệ giữa béo phì, viêm nhiễm và bệnh tim mạch.
+
+--- 2. Kháng thể ---
+
+Các kháng thể hoạt động như một thụ thể kháng nguyên trên bề mặt củatế bào Bvà, để phản ứng với kháng nguyên, sau đó được tiết ra bởi các tế bào huyết tương. Các kháng thể nhận biết các cấu hình cụ thể (các biểu mô, hoặc các yếu tố quyết định kháng nguyên) trên bề mặt của các kháng nguyên (ví dụ: protein, polysaccharid, axit nucleic). Kháng thể và kháng nguyên phù hợp chặt chẽ với nhau vì hình dạng và các đặc tính bề mặt khác của chúng (ví dụ: điện tích) bổ sung cho nhau. Phân tử kháng thể tương tự có thể phản ứng chéo với các kháng nguyên tương ứng nếu các quyết định kháng nguyên của chúng tương tự như các phân tử của kháng nguyên gốc.Cấu trúc kháng thểCác kháng thể bao gồm 4 chuỗi polypeptide (2 chuỗi nặng giống hệt nhau và 2 chuỗi nhẹ giống hệt nhau) được nối với nhau bằng gắn kết disulfide để tạo ra cấu hình Y (xem hìnhCơ quan thụ thể tế bào B). Các chuỗi nặng và nhẹ được chia thành các vùng thay đổi (V) và vùng hằng định (C).Thụ thể tế bào BCác thụ thể tế bào B bao gồm một phân tử Ig gắn kết với bề mặt của tế bào. CH=vùng chuỗi nặng hằng định; CL=vùng chuỗi nhẹ hằng định; Fab=đoạn liên kết kháng nguyên; Fc=mảnh kết tinh; Ig = immunoglobulin; L-kappa (κ) hoặc lambda (λ) = 2 loại chuỗi nhẹ; VH=vùng thay đổi chuỗi nặng; VL=vùng thay đổi chuỗi nhẹ.vùng Vđược đặt tại đầu tận amino của cánh tay Y; chúng được gọi là vùng thay đổi bởi vì các axit amin của vùng này chứa các kháng thể khác nhau. Trong vùng thay đổi, khu vực siêu biến đổi xác định tính đặc hiệu của immunoglobulin (Ig). Chúng cũng có chức năng như là các kháng nguyên (các yếu tố idiotypic) mà một số kháng thể tự nhiên nhất định (chống idiotype) kháng thể có thể gắn; sự gắn này có thể giúp điều chỉnh phản ứng tế bào B.Khu vực Ccủa các chuỗi nặng chứa một dãy amino axit tương đối hằng định (isotype) đặc trưng cho mỗi lớp Ig. Tế bào B có thể thay đổi kiểu isotype mà nó tạo ra và do đó chuyển đổi lớp Ig nó sinh ra. Vì Ig giữ lại phần biến đổi của vùng chuỗi V nặng và toàn bộ chuỗi nhẹ, nó duy trì tính đặc hiệu kháng nguyên của nó.Đầu cuối amino-cuối (thay đổi) của kháng thể liên kết với kháng nguyên để tạo thành một phức hợp kháng thể-kháng nguyên. Phần gắn kháng nguyên (Fab) của Ig bao gồm một chuỗi nhẹ và một phần của một chuỗi nặng và chứa vùng V của phân tử Ig (tức là các vị trí kết hợp). Các mảnh (Fc) chứa hầu hết các khu vực C của các chuỗi nặng; Fc chịu trách nhiệm kích hoạt bổ sung và liên kết với thụ thể Fc trên tế bào.Các lớp kháng thểCác kháng thể được chia thành 5 lớp:IgMIgGIgAIgDIgECác lớp được xác định theo loại chuỗi nặng của chúng:Mu (μ) cho IgMGamma (γ) cho IgGAlpha (α) của IgAEpsilon (ε) cho IgEDelta (δ) cho IgDNgoài ra còn có 2 loại chuỗi nhẹ:Kappa (κ)Lambda (λ)Mỗi trong 5 lớp Ig có thể chứa được chuỗi nhẹ kappa hoặc lambda.IgMlà kháng thể đầu tiên được hình thành sau khi tiếp xúc với kháng nguyên mới. Nó có 5 phân tử hình chữ Y (10 chuỗi nặng và 10 chuỗi nhẹ), được liên kết bởi một chuỗi nối (J) duy nhất. IgM lưu thông chủ yếu trong lòng mạch máu; nó kết hợp với kháng nguyên và dính với kháng nguyên và có thể kích hoạt bổ sung, do đó tạo điều kiện cho thực bào. Isohemagglutinins chủ yếu là IgM. IgM đơn nhớ hoạt động như một thụ thể kháng nguyên bề mặt trên tế bào B. Bệnh nhân cóhội chứng hyper-IgMcó khiếm khuyết trong các gen liên quan đến chuyển đổi lớp kháng thể (ví dụ, các gen mã hoá CD40, CD154 [còn gọi là CD40L], AID [cytidine deaminase do kích hoạt], UNG [uracil-DNA-glycosylase], hoặc NEMO [bộ cơ bản yếu tố nhân kappa-B]; do đó, IgA, IgG, và IgE thấp hoặc vắng mặt, và mức IgM tuần hoàn thường cao.IgGlà kiểu mẫu Ig phổ biến nhất trong huyết thanh và có mặt trong các nội mạch và ngoại mạch. Nó bao bọc kháng nguyên để kích hoạtbổ thểvà tạo điều kiện thuận lợi cho quá trình thực bào củabạch cầu trung tínhvàđại thực bào. IgG là Ig lưu hành chính được tạo ra sau khi tái phơi nhiễm với kháng nguyên (đáp ứng miễn dịch thứ cấp) và là kiểu hình chiếm ưu thế có trong các sản phẩm gamma-globulin thương mại. IgG bảo vệ chống lại vi khuẩn, vi rút và các độc tố. Đây là kiểu hình Ig duy nhất đi qua được nhau thai; do đó, loại kháng thể này rất quan trọng để bảo vệ trẻ sơ sinh. Tuy nhiên, các kháng thể IgG gây bệnh (ví dụ: kháng thể kháng Rh0[D], kháng thể kháng SSA [kháng nguyên liên quan đến hội chứng A kháng hội chứng Sjögren] và các kháng thể tự kháng thể thụ thể hóc môn kháng kích thích tuyến giáp do kích thích), nếu có ở người mẹ, có khả năng gây bệnh nghiêm trọng cho thai nhi.Có 4 phân lớp của IgG: IgG1, IgG2, IgG3, và IgG4. Chúng được đánh số thứ tự giảm dần nồng độ trong huyết thanh. Các lớp phụ IgG khác nhau về chức năng chủ yếu là khả năng kích hoạt bổ thể; IgG1 và IgG3 hiệu quả nhất, IgG2 kém hiệu quả và IgG4 không hiệu quả. IgG1 và IgG3 là những chất trung gian hiệu quả của độc tế bào phụ thuộc vào tế bào kháng thể; IgG4 và IgG2 ít hơn. Các tế bào tạo ra IgG4 tăng lên trongbệnh liên quan đến IgG4.IgAcó ở bề mặt niêm mạc, trong huyết thanh, và trong các dịch tiết (nước bọt, nước mắt, hô hấp, đường niệu sinh dục và các chất tiết đường tiêu hoá, sữa non), nơi nó cung cấp sự phòng chống vi khuẩn và kháng virus sớm. J liên kết chuỗi IgA thành một dimer để tạo ra IgA tiết. IgA được tổng hợp bởi các tế bào plasma ở các vùng dưới biểu mô của đường tiêu hóa và các đường hô hấp.Thiếu IgA chọn lọctương đối phổ biến nhưng thường ít ảnh hưởng lâm sàng vì có chức năng chéo với các lớp kháng thể khác.IgDlà đồng biểu hiện với IgM trên bề mặt của các tế bào B nguyên bản. Liệu 2 lớp này có hoạt động khác nhau trên bề mặt tế bào B hay không và nếu có thì khác nhau như thế nào vẫn chưa rõ ràng. Nồng độ IgD trong huyết thanh rất thấp và bất kỳ chức năng đặc biệt nào của IgD lưu thông trong hệ tuần hoàn phần lớn chưa được biết đến, mặc dù có một số bằng chứng về vai trò điều hòa miễn dịch đối với đáp ứng Th2 (1) (xem bảngChức năng của tế bào T).IgEcó mặt ở nồng độ thấp trong huyết thanh, trong các chất bài tiết qua đường hô hấp và đường tiêu hóa. IgE gắn kết ái lực mạnh với các thụ thể hiện diện ở mức độ cao trêntế bào mastvàbạch cầu ái kiềmvà ở mức độ thấp hơn trên một số tế bào tạo máu khác, bao gồm cảtế bào đuôi gai. Nếu cầu kháng nguyên nối 2 phân tử IgE liên kết với tế bào mast hoặc bề mặt bạch cầu ưa bazơ, các tế bào giải phóng hạt, giải phóng các chất trung gian hóa học gây ra đáp ứng viêm. Mức IgE tăng cao trong các rối loạn atopi (ví dụ: dị ứng hoặchenngoại sinh, sốt mùa,viêm da dị ứng) vànhiễm ký sinh trùng.Tài liệu tham khảo về kháng thể1.Shan M, Carrillo J, Yeste A, et al. Secreted IgD Amplifies Humoral T Helper 2 Cell Responses by Binding Basophils via Galectin-9 and CD44.Immunity2018;49(4):709-724.e8. doi:10.1016/j.immuni.2018.08.013
+
+--- 3. Cytokines ---
+
+Cytokine là các polypeptide được tiết ra bởi các tế bào miễn dịch và các tế bào khác khi tế bào tương tác với một kháng nguyên cụ thể, với các phân tử gây bệnh như endotoxin, hoặc với các cytokine khác. Các loại chính bao gồmChemokinesCác yếu tố kích thích cụm (CSF)Interferon (IFNs)Interleukins (ILs)Yếu tố tăng trưởng chuyển dạng (TGF)Yếu tố hoại tử khối u (TNF)Mặc dù tương tác tế bào lympho với một kháng nguyên cụ thể kích hoạt sự tiết cytokine, nhưng các cytokine không phải là kháng nguyên đặc hiệu; do đó, chúng làm cầu nối miễn dịch bẩm sinh và mắc phải và thường ảnh hưởng đến mức độ phản ứng viêm hoặc miễn dịch. Chúng hoạt động tuần tự, phối hợp hoặc đối kháng. Chúng có thể hành động theo cách tự tiết hoặc cận tiết.Cytokine truyền tín hiệu của chúng qua các thụ thể bề mặt tế bào. Ví dụ, thụ thể IL-2 bao gồm 3 chuỗi: alpha (α), beta (β), và gamma (γ). Ái lực của thụ thể đối với IL-2 làCao nếu tất cả 3 chuỗi được thể hiệnTrung gian nếu chỉ có chuỗi beta và gamma được thể hiệnThấp nếu chỉ chuỗi alpha được thể hiệnCác đột biến hoặc mất chuỗi gamma là cơ sở cho liên kết Xsuy giảm miễn dịch kết hợp nặng.ChemokinesChemokine gây ra sự hóa ứng động và di chuyển bạch cầu. Có một họ chemokine lớn với ít nhất 47 thành viên, bao gồm 4 tập hợp con (C, CC, CXC, CX3C), được xác định bởi số lượng và khoảng cách giữa các gốccysteineđầu amino của chúng. Các thụ thể chemokine (CCR5 trên tế bào T nhớ, bạch cầu đơn nhân/đại thực bào và các tế bào đuôi gai, CXCR4 trên các tế bào T nghỉ) đóng vai trò như các thụ thể giúp sự xâm nhập của HIV vào tế bào. Thuốc đối kháng CXCR4 có thể có ích trong các liệu pháp phối hợp điều trịung thư biểu mô tuyến ống tụy.Các yếu tố kích thích cụm (colony-stimulating factors - CSF)Yếu tố kích thích bạch cầu hạt(G-CSF) được sản xuất bởi các tế bào nội mô và nguyên bào sợi.Tác dụng chính của G-CSF làKích thích tăng trưởng tiền thân bạch cầu trung tínhỨng dụng lâm sàng của G-CSF bao gồmPhản ứng giảm bạch cầu sau khi hóa trị liệu, xạ trị hoặc cả haiYếu tố kích thích dòng bạch cầu hạt-đại thực bào(GM-CSF) do các tế bào nội mô, nguyên bào sợi, đại thực bào, tế bào mast và tế bào T hỗ trợ (Th) sản sinh ra.Tác dụng chính của GM-CSF làKích thích tăng trưởng của monocyte, bạch cầu trung tính, bạch cầu ái toan và các tiền chất bạch cầu ưa bazoKích hoạt macrophageỨng dụng lâm sàng của GM-CSF bao gồmPhản ứng giảm bạch cầu sau khi hóa trị liệu, xạ trị hoặc cả haiSự phát triển của các tự kháng thể chống lại GM-CSF có thể dẫn đến tình trạngtích protein mô phế nang.Yếu tố kích thích tạo dòng đại thực bào(M-CSF) được tạo ra bởi các tế bào nội mạc, tế bào biểu mô và nguyên bào sợi.Tác dụng chính của M-CSF làKích thích tăng trưởng tiền thân bạch cầu đơn nhânSử dụng lâm sàng của M-CSF bao gồmTiềm năng điều trị để kích thích tái tạo môInterferon (IFNs)Interferon là một họ protein có hoạt tính kháng vi rút và cũng đóng vai trò là chất điều biến miễn dịch. Bằng chứng về hoạt động quá mức của interferon là đặc điểm của bệnh nhân mắc bệnh lupus ban đỏ hệ thống (1).IFN-alphađược sản xuất bởi bạch cầu.Các hiệu ứng chính của IFN-alpha làỨc chế sự nhân lên của virusTăng cường biểu hiệnphức hợp tương hợp mô học chính(MHC) loại ICác sử dụng lâm sàng của IFN-alpha bao gồmĐiều trịviêm gan B mạn tính,viêm gan C mạn tính,Kaposi sarcomaliên quan đến AIDS,condylomata acuminata, bệnh bạch cầu tế bào lông,bệnh bạch cầu dòng tủy mạn tính, u lympho nang vàung thư tế bào hắc tốdi cănIFN-betađược tạo ra bởi nguyên bào sợi.Các hiệu ứng chính của IFN-beta làỨc chế sự nhân lên của virusTăng cường biểu hiện MHC ở lớp ICác ứng dụng lâm sàng của IFN-beta bao gồmGiảm đợt bùng phát trong tái phátbệnh đa xơ cứngIFN-gammađược sản xuất bởi các tế bào diệt tự nhiên (NK), tế bào gây độc loại 1 (Tc1), và tế bào T hỗ trợ loại 1 (Th1).Các hiệu ứng chính của IFN-gamma làỨc chế sự nhân lên của virusTăng cường biểu hiện MHC loại I và loại II và biểu hiện thụ thể FcKích hoạt đại thực bào và tế bào NKSự đối kháng với một số hoạt động của IL-4Ức chế sự gia tăng tế bào Th2Các ứng dụng lâm sàng của IFN-gamma bao gồmKiểm soát nhiễm trùng ởbệnh u hạt mạn tínhTrì hoãn tiến triển trong bệnh xương đá nặng ác tínhInterleukins (ILs)Interleukins (IL-1 đến IL-38) được sản xuất bởi nhiều loại tế bào khác nhau và có nhiều tác động lên sự phát triển của tế bào và điều chỉnh đáp ứng miễn dịch. Interleukins đã được đặc trưng và nghiên cứu về sự liên quan lâm sàng bao gồm:IL-1(alpha và beta) được sản xuất bởi các tế bào B, tế bào đuôi gai, nội mạc, đại thực bào, tế bào monocytes và các tế bào diệt tự nhiên (NK).Tác dụng chính của IL-1 làKích hoạt tế bào T bằng cách tăng cường sản xuất các cytokine (ví dụ, IL-2 và thụ thể của nó)Tăng cường tăng sinh tế bào B và trưởng thànhTăng độc tính tế bào NKKích thích IL-1, IL-6, IL-8, TNF, GM-CSF và prostaglandin E2 sản xuất bởi các đại thực bàoHoạt động tiền viêm bằng cách tạo ra các chemokine, phân tử kết dính giữa tế bào 1 (ICAM-1) và phân tử kết dính tế bào mạch máu 1 (VCAM-1) trên nội môKhởi phát giấc ngủ, chán ăn, giải phóng các yếu tố mô, các phản ứng giai đoạn cấp tính, và sự hủy xương bởi tế bào hủy xươngTình trạng gây sốt nội sinhỨng dụng trên lâm sàng của IL-1 bao gồmĐối vớikháng thể đơn dòng kháng IL-1 beta (mAb),điều trịhội chứng sốt chu kỳ,bệnh viêm khớp hệ thống tự phát ở thiếu niên,gút cấpvàviêm khớp do canxi pyrophosphat(giả gút)ChoTác nhân đối kháng thụ thể IL-1 (IL-1RA),điều trị cho người lớn với bệnhviêm khớp dạng thấptừ trung bình đến nặng và bệnh nhânbệnh viêm đa cơ quan khởi phát ở trẻ sơ sinh(NOMID)IL-2được sản xuất bởi tế bào Th1.Tác dụng chính của IL-2 làCảm ứng sự tăng sinh tế bào T và tế bào B được kích hoạtTăng cường độc tế bào NK và tiêu diệt các tế bào khối u và vi khuẩn bởi các monocytes và các đại thực bàoỨng dụng trên lâm sàng của IL-2 bao gồmVớiIL-2,điều trị ung thư biểu mô tế bào thận di căn và khối u ác tính di cănVớikháng thể mAb kháng IL-2 receptor,giúp phòng ngừa thải ghép thận cấpIL-3(còn được gọi là multi-CSF) do tế bào T và tế bào mast sản sinh raTác dụng chính của IL-3 làKích thích tăng trưởng và sự khác biệt của các tiền chất tạo máuKích thích sự phát triển tế bào mastỨng dụng trên lâm sàng của IL-3 bao gồmNhắm mục tiêu chuỗi alpha thụ thể IL-3 bằng kháng thể đơn dòng hoặc tế bào T thụ thể kháng nguyên khảm (CAR), có thể mang lại lợi ích ở những bệnh nhân mắc một số rối loạn, thường là ung thư máu nhưbệnh bạch cầu dòng tủy cấp tínhkháng trị tái phátIL-4được sản xuất bởi các tế bào mast, các tế bào NK, các tế bào diệt tự nhiên T (NKT), các tế bào T-gamma-delta, Tc2, và Th2.Tác dụng chính của IL-4 làKích thích Th2Kích thích sự tăng sinh tế bào B, tế bào T và tế bào mast được kích hoạtTăng cường các phân tử MHC lớp II trên tế bào B và các đại thực bào, và CD23 trên tế bào BGiảm quá trình sản xuất IL-12, do đó ức chế biệt hóa Th1Tăng cường tế bào đại thực bào thực bàoCảm ứng chuyển đổi sang IgG1 và IgEỨng dụng trên lâm sàng của IL-4 bao gồmTham gia của IL-4 (với IL-13) trong quá trình sản sinh ra IgE trong dị ứng do cơ địa dị ứngĐối vớimAb kháng thụ thể IL-4điều trị bệnh nhân bịviêm da cơ địatừ vừa đến nặngIL-5do các tế bào mast và tế bào Th2 sản sinh ra.Tác dụng chính của IL-5 làKích thích sự tăng sinh bạch cầu ái toan và kích hoạt tế bào BKhởi động chuyển sang IgAỨng dụng trên lâm sàng của IL-5 bao gồmĐối vớimAb kháng IL-5,điều trị bệnh nhânhen suyễn do tăng bạch cầu ái toannặng vàbệnh u hạt bạch cầu ái toan kèm theo viêm đa mạchVớikháng thể kháng IL-5 thụ thể mAb,hiệu quả trong điều trị bệnh nhân hen nặng tăng bạch cầu ái toan trong máuIL-6được tạo ra bởi các tế bào đuôi gai, nguyên bào sợi, đại thực bào, bạch cầu đơn nhân và Th2.Tác dụng chính của IL-6 làKích thích sự biệt hóa của tế bào B thành tương bào và sự biệt hóa của các tế bào gốc tủyKích thíchcác phản ứng giai đoạn cấpTăng cường tăng sinh tế bào TKích thích biệt hóa tế bào TcTình trạng gây sốtỨng dụng trên lâm sàng của IL-6 bao gồmĐối vớimAb kháng IL-6,điều trị bệnh Castleman đa trung tâm ở những bệnh nhân âm tính với HIV và herpesvirus 8 ở người (HHV-8)Đối vớimAb kháng thụ thể IL-6,điều trịviêm khớp dạng thấpkhi đáp ứng với thuốc đối kháng TNF không đầy đủ và điều trịviêm khớp vô căn ở trẻ vị thành niên,viêm động mạch tế bào khổng lồvàhội chứng giải phóng cytokinenặng sau khi điều trị bằng tế bào CAR T. Kết hợp với dexamethasone, điều trị bệnh nhânCOVID-19bị giảm oxy huyết và viêm toàn thân.IL-7được tạo ra bởi tủy xương và các tế bào mô liên kết tuyến ức.Tác dụng chính của IL-7 làCảm ứng sự biệt hóa của tế bào gốc bạch huyết thành tiền thân tế bào T và tế bào BKích hoạt tế bào T trưởng thànhỨng dụng trên lâm sàng của IL-7 bao gồmKích thích miễn dịch tiềm tàng trong điều trị nhiễm virus, ung thư và nhiễm trùng lymphoIL-8(mộtchemokine) do các tế bào nội mô, đại thực bào và bạch cầu đơn nhân sinh ra.Tác dụng chính của IL-8 làTrung gian hóa ứng động và kích hoạt bạch cầu trung tínhỨng dụng trên lâm sàng của IL-8 bao gồmChoThuốc đối kháng IL-8,tiềm năng điều trị các chứng bệnh viêm mạn tínhIL-9được sản xuất bởi tế bào Th.Tác dụng chính của IL-9 làKích thích sự tăng sinh thymo bàoTăng cường sự phát triển tế bào mastHoạt động phối hợp với IL-4 để làm chuyển đổi sang IgG1 và IgECác thử nghiệm lâm sàng về kháng IL-9 mAb trong bệnh hen suyễn nhìn chung không chứng minh được hiệu quả (2).IL-10được tạo ra bởi các tế bào B, các đại thực bào, các monocyte, tế bào Tc, Th2, và các tế bào T điều hòa.Tác dụng chính của IL-10 làỨc chế sự bài tiết IL-2 của tế bào Th1 ngườiGiảm quá trình sản xuất các phân tử MHC hạng II và cytokine (ví dụ, IL-12) bằng các monocytes, macrophages, và các tế bào đuôi, do đó ức chế biệt hóa Th 1 tế bàoỨc chế tăng sinh tế bào TTăng cường sự biệt hóa tế bào BỨng dụng trên lâm sàng của IL-10 bao gồmCó thể ức chế phản ứng miễn dịch gây bệnh trong dị ứng và rối loạn tự miễn dịchIL-11được tạo ra bởi các tế bào liên kết xương.Tác dụng chính của IL-11 làThúc đẩy quá trình biệt hóa tế bào pro-B và megakaryocyteKích thích các phản ứng giai đoạn cấpỨng dụng trên lâm sàng của IL-11 bao gồmPhòng ngừagiảm tiểu cầusau khi điều trị bằng liệu pháp hóa trị ức chế tủyIL-12được tạo ra bởi các tế bào B, tế bào đuôi, các đại thực bào, và các monocytes.Tác dụng chính của IL-12 làVai trò quan trọng trong sự biệt hóa Th1Kích thích sự gia tăng tế bào Th1, tế bào T CD8, tế bào T-gamma-delta và tế bào NK và sự sản xuất IFN-gamma của chúngTăng cường NK và Tế bào T CD8 gây độc tế bàoỨng dụng trên lâm sàng của IL-12 bao gồmVớikháng thể kháng IL-12 mAb,điều trị bệnhvẩy nến thể mảngvàviêm khớp vẩy nếnIL-13do các tế bào mast và tế bào Th2 sản sinh ra.Tác dụng chính của IL-13 làỨc chế kích hoạt và tiết cytokine bởi các đại thực bàoKích hoạt sự tăng sinh tế bào BTăng cường các phân tử MHC lớp II và CD23 đối với tế bào B và bạch cầu đơnCảm ứng chuyển đổi sang IgG1 và IgEKích thích phân tử kết dính tế bào 1 (VCAM-1) trên nội mạcỨng dụng trên lâm sàng của IL-13 bao gồmTham gia của IL-13 (với IL-4) trong quá trình sản sinh ra IgE trongdị ứng do cơ địa dị ứngIL-15được sản xuất bởi tế bào B, tế bào đuôi gai, đại thực bào, tế bào monocytes, tế bào NK và tế bào T.Tác dụng chính của IL-15 làCảm ứng sự tăng sinh của tế bào T, tế bào NK và tế bào B được kích hoạtKích thích sự sản sinh cytokine và gây độc tế bào các tế bào NK và các tế bào T CD8Hoạt động hóa ứng động đối với tế bào TKích thích sự phát triển biểu mô ruộtỨng dụng trên lâm sàng của IL-15 bao gồmTiềm năng kích thích miễn dịch trong điều trị ung thưIL-16được sản xuất bởi các tế bào T hỗ trợ và các tế bào T gây độc.Tác dụng chính của IL-16 làHoạt động hóa học của tế bào T CD4, bạch cầu đơn nhân và bạch cầu ái toanCảm ứng phân tử MHC loại IIỨng dụng trên lâm sàng của IL-16 bao gồmTiềm năng thúc đẩy quá trình phục hồi tế bào T CD4 ở bệnh nhânnhiễm HIVChất đối kháng IL-16 có thể có ích trong điều kiện dị ứng và tự miễnIL-17(A và F) được tạo ra bởi tế bào Th17, tế bào T gamma-delta, tế bào NKT và đại thực bào.Tác dụng chính của IL-17 làHoạt động tiền viêmKích thích sản xuất cytokines (ví dụ TNF, IL-1 beta, IL-6, IL-8, G-CSF)Ứng dụng trên lâm sàng của IL-17 bao gồmĐối với kháng thểkháng IL-17A mAb, điều trị cho người lớn bịviêm cột sống dính khớptiến triển,viêm khớp vẩy nếntiến triển hoặcbệnh vẩy nến thể mảngtừ trung bình đến nặng, nhưng việc ức chế có thể gây rabệnh viêm ruộtIL-18do các bạch cầu đơn nhân, đại thực bào và tế bào đuôi gai sản sinh ra.Tác dụng chính của IL-18 làKhởi tạo IFN-gamma sản xuất bởi các tế bào TTăng độc tính tế bào NKIL-18 đã được thử nghiệm như một tác nhân miễn dịch điều trị trong ung thư, nhưng hiệu quả vẫn chưa được xác định.IL-20do các bạch cầu đơn nhân, đại thực bào và tế bào đuôi gai sản sinh ra.Tác dụng chính của IL-20 làHoạt động tiền viêmKích thích tăng sinh tế bào sừngỨng dụng trên lâm sàng của IL-20 bao gồmThụ thể IL-20 được điều hòa trên tế bào sừng ở bệnh nhânvẩy nếnIL-21được sản xuất bởi các tế bào NKT và Th.Tác dụng chính của IL-21 làKích thích tăng sinh tế bào B sau khi liên kết chéo CD40Kích thích tế bào NKĐồng kích hoạt của tế bào TKích thích tăng sinh tế bào tiền thân của tủy xươngỨng dụng trên lâm sàng của IL-21 bao gồmTrong các thử nghiệm lâm sàng, kích thích các tế bào T gây độc tế bào và tế bào NK trong ung thưChotác nhân đối kháng IL-21,tiềm năng trong điều trị rối loạn tự miễn dịchIL-22được sản xuất bởi các tế bào NK, Th17, và các tế bào T gamma-delta.Tác dụng chính của IL-22 làHoạt động tiền viêmKhởi phát quá trình tổng hợp các phản ứng giai đoạn cấpỨng dụng trên lâm sàng của IL-22 bao gồmChotác nhân đối kháng IL-22,tiềm năng trong điều trị rối loạn tự miễn dịchIL-23được tạo ra bởi các tế bào đuôi gai và các đại thực bào.Tác dụng chính của IL-23 làKích thích Th tăng sinh nhanhỨng dụng trên lâm sàng của IL-23 bao gồmChokháng thể IL-23,điều trị bệnh vẩy nến thể mảng vàviêm khớp vẩy nếnvàbệnh CrohnIL-24được tạo ra bởi các tế bào B, đại thực bào, bạch cầu đơn nhân mono và tế bào T.Tác dụng chính của IL-24 làỨc chế tăng trưởng tế bào khối uKích thích chết theo chương trình trong tế bào khối uỨng dụng trên lâm sàng của IL-24 bao gồmTiềm năng trong điều trị ung thưIL-25(còn gọi là IL-17E) do tế bào T, đại thực bào, tế bào đuôi gai, tế bào mast, bạch cầu ái toan và biểu mô sản sinh ra.Tác dụng chính của IL-25 làKích thích tế bào Th2Ứng dụng trên lâm sàng của IL-25 bao gồmLiên quan đến sự phát triển của dị ứng vàrối loạn tự miễn(3)IL-27được tạo ra bởi các tế bào đuôi gai, bạch cầu đơn nhân mono và đại thực bào.Tác dụng chính của IL-27 làKích thích Th1Ứng dụng trên lâm sàng của IL-27 bao gồmTiềm năng trong điều trị ung thưIL-31do tế bào Th2 sản sinh raTác dụng chính của IL-31 làHoạt động tiền viêmỨng dụng trên lâm sàng của IL-31 bao gồmVai trò trongviêm da cơ địa,hen suyễnvàbệnh viêm ruộtIL-32được sản xuất bởi các tế bào NK và các tế bào T.Tác dụng chính của IL-32 làHoạt động tiền viêmSự tham gia vào quá trình apoptosis do tế bào T gây ra và kích hoạtỨng dụng trên lâm sàng của IL-32 bao gồmTiềm năng trong điều trị rối loạn tự miễn dịchIL-33được tạo ra bởi các tế bào nội mô, tế bào liên kết và tế bào đuôi gai.Tác dụng chính của IL-33 làKích thích Th2 cytokinesKhuyến khích tăng bạch cầu ái toanỨng dụng trên lâm sàng của IL-33 bao gồmChocác thuốc đối kháng IL-33,có tiềm năng trong điều trịhenphế quản.IL-34do tế bào sừng và tế bào thần kinh sản sinh ra.Tác dụng chính của IL-34 làHỗ trợ tăng trưởng tế bào và thời gian sống thêm của bạch cầu đơn nhânKích thích biệt hóa bạch cầu đơn nhân thành đại thực bàoỨng dụng trên lâm sàng của IL-34 bao gồmCó thể liên quan đến cơ chế bệnh sinh củaviêm khớp dạng thấp(4) vàbệnh viêm ruộtIL-35được tạo ra bởi các tế bào T điều hòa, các đại thực bào và các tế bào đuôi gai.Tác dụng chính của IL-35 làỨc chế tình trạng viêm, ví dụ: bằng cách tạo ra các tế bào T và tế bào B điều hòa và ức chế tế bào Th17Ứng dụng trên lâm sàng của IL-35 bao gồmKhả năng ngăn chặn phản ứng miễn dịch gây bệnh trong dị ứng và rối loạn tự miễn dịchIL-36do biểu mô, bạch cầu đơn nhân, đại thực bào, tế bào đuôi gai và tế bào T sản sinh ra.Tác dụng chính của IL-36Hoạt động tiền viêmỨng dụng trên lâm sàng của IL-36 bao gồmThúc đẩy tình trạng viêm trong bệnh vẩy nếnIL-37được tạo ra bởi các đại thực bào, và các mô viêm.Tác dụng chính của IL-37 làChống viêmCác thuốc đối kháng thụ thể IL-18Ứng dụng trên lâm sàng của IL-37 bao gồmCó khả năng ngăn chặn viêmCác yếu tố tăng trưởng chuyển dạng (TGF)Có các dạng alpha và beta của TGFs với 3 subtypes TGF-beta.TGF-alphado các tế bào biểu mô, bạch cầu đơn nhân, đại thực bào, tế bào não và tế bào sừng sản sinh ra.Các hiệu ứng chính của TGF-alpha làKích thích tăng sinh tế bào và biệt hóaĐiều hòa sản xuất chất nhầyỨc chế bài tiết axit dạ dàyỨng dụng trên lâm sàng của TGF-alpha bao gồmThuốc đối khángTGF-alpha làm giảm các triệu chứng trong bệnh Menetrier'sTGF-betađược sản xuất bởi các tế bào B, đại thực bào, các tế bào mast, và Th3.Tác dụng chính của dòng TGF-beta làHoạt động tiền viêm (ví dụ: bằng hấp dẫn hóa học của các monocyte và macrophage) bên cạnh còn hoạt động chống viêm (ví dụ: bằng cách ức chế sự tăng sinh tế bào lympho)Khởi động chuyển sang IgAThúc đẩy tái tạo mô và xơ hóaỨng dụng trên lâm sàng củaTGF-betabao gồmCác thử nghiệm vềthuốc đối kháng(ví dụ: antisense oligonucleotide) trong bệnh ung thư đang được tiến hành (5).Yếu tố hoại tử khối u (TNF)TNF-alpha (cachectin)được sản xuất bởi các tế bào B, tế bào đuôi gai, đại thực bào, tế bào mast, tế bào monocytes, tế bào NK và Th tế bào.Tác dụng chính của TNF-alpha bao gồmChứng suy mòn thể chất và tinh thầnCảm ứng bài tiết một số cytokine (ví dụ: IL-1, GM-CSF, IFN-gamma) kích thích viêmKích thích E-selectin trên nội mạcKích hoạt macrophageHoạt động kháng virutĐộc tính tế bào đối với các tế bào khối uỨng dụng trên lâm sàng của TNF-alpha bao gồmĐối vớithuốc đối kháng TNF-alpha(mAb hoặc thụ thể hòa tan), điều trịviêm khớp dạng thấp,bệnh vẩy nếnthể mảng,bệnh Crohnkháng trị với các phương pháp điều trị tiêu chuẩn,viêm đại tràng thể loét,viêm tuyến mồ hôi mủ,viêm cột sống dính khớp,viêm khớp do vảy nến,viêm đa khớp vô căn ở trẻ vị thành niên,viêm màng bồ đào trung gian không nhiễm trùng, viêm màng bồ đào sau và viêm màng bồ đào lan tỏa. Bất chấp tên gọi của nó, việc ngăn chặn hoạt động của TNF không dẫn đến sự gia tăng rõ rệt các bệnh ung thư nguyên phát hoặc thứ phát.TNF-beta (lymphotoxin)do tế bào Tc và tế bào Th1 sản sinh ra.Tác dụng chính của TNF-beta bao gồmĐộc tính tế bào đối với các tế bào khối uHoạt động kháng virutTăng cường thực bào bởi bạch cầu trung tính và đại thực bàoSự tham gia vào phát triển cơ quan bạch huyếtỨng dụng trên lâm sàng của TNF-beta bao gồmChoChất đối kháng TNF-beta, những hiệu ứng tương tự đối với những thuốc đối kháng TNF-alpha đã được thiết lập tốt nhưng không được chứng tỏ là ưu việt hơnTài liệu tham khảo về cytokine1.Tanaka Y, Kusuda M, Yamaguchi Y. Interferons and systemic lupus erythematosus: Pathogenesis, clinical features, and treatments in interferon-driven disease.Mod Rheumatol2023;33(5):857-867. doi:10.1093/mr/roac1402.Oh CK, Leigh R, McLaurin KK, Kim K, Hultquist M, Molfino NA. A randomized, controlled trial to evaluate the effect of an anti-interleukin-9 monoclonal antibody in adults with uncontrolled asthma.Respir Res2013;14(1):93. Xuất bản ngày 19 tháng 9 năm 2013. doi:10.1186/1465-9921-14-933.Liu Y, Shao Z, Shangguan G, Bie Q, Zhang B. Biological Properties and the Role of IL-25 in Disease Pathogenesis.J Immunol Res2018;2018:6519465. Xuất bản ngày 23 tháng 9 năm 2018. doi:10.1155/2018/65194654.Zhou RP, Wu XS, Xie YY, et al. Functions of interleukin-34 and its emerging association with rheumatoid arthritis.Immunology2016;149(4):362-373. doi:10.1111/imm.126605.Lee HJ. Recent Advances in the Development of TGF-β Signaling Inhibitors for Anticancer Therapy.J Cancer Prev2020;25(4):213-222. doi:10.15430/JCP.2020.25.4.213

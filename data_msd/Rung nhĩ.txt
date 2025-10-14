@@ -1,0 +1,1027 @@
+TIÊU ĐỀ: Rung nhĩ
+URL: https://www.msdmanuals.com/vi/professional/rối-loạn-tim-mạch/rối-loạn-nhịp-tim-cụ-thể/rung-nhĩ
+================================================================================
+
+NỘI DUNG:
+
+Rung nhĩ
+
+(Rung nhĩ)
+
+Theo
+
+L. Brent Mitchell
+
+,
+
+MD
+
+,
+
+Libin Cardiovascular Institute, University of Calgary
+
+Xem xét bởi
+
+Jonathan G. Howlett
+
+,
+
+MD
+
+,
+
+Cumming School of Medicine, University of Calgary
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 9 2024
+
+|
+
+đã sửa đổi
+
+Thg 12 2024
+
+v938089_vi
+
+Rung nhĩ là một rối loạn nhịp nhĩ nhanh và không đều. Các triệu chứng bao gồm: đánh trống ngực, đôi khi mệt mỏi, giảm khả năng gắng sức, khó thở và thoáng ngất. Khi rung nhĩ, bệnh nhân có nguy cơ cao hình thành huyết khối trong tâm nhĩ, trôi theo dòng tuần hoàn gây đột quỵ. Chẩn đoán bằng ECG. Điều trị bao gồm kiểm soát nhịp tim bằng thuốc, ngăn ngừa thuyên tắc huyết khối bằng thuốc chống đông máu và đôi khi chuyển thành nhịp xoang bằng thuốc hoặc sốc điện chuyển nhịp.
+
+Căn nguyên
+
+|
+
+Phân loại
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+(Xem thêm
+
+Tổng quan về loạn nhịp tim
+
+.)
+
+Rung nhĩ bị khởi phát và duy trì bởi nhiều cơ chế điện sinh lý và cơ chế cấu trúc. Trong giai đoạn đầu của quá trình, các cơ chế chủ yếu là tính tự động theo ổ và vi vòng vào lại (các tác nhân) chủ yếu bắt nguồn từ các ống cơ ở các cấu trúc tĩnh mạch nằm cạnh tâm nhĩ, đặc biệt là các tĩnh mạch phổi. Sau đó, quá trình tái cấu trúc điện tâm nhĩ khuyến khích các mạch vòng vào lại chức năng, bao gồm dẫn đến các vòng vào lại và các rôto theo chu kỳ (tổ chức không gian thời gian của mặt trận sóng kích hoạt dưới dạng sóng xoắn ốc vòng vào lại cục bộ nhanh với sự lan truyền ly tâm). Cuối cùng, quá trình tái cấu trúc tâm nhĩ, bao gồm xơ hóa tâm nhĩ, cho phép tái nhập cấu trúc (mặt trận sóng kích hoạt tái nhập bao quanh một rào cản giải phẫu như sẹo), ngoài các hiện tượng khác, tạo ra nhiều sóng nhỏ tâm nhĩ có hoạt động không có tổ chức. Khi rung nhĩ, các tâm nhĩ không co bóp, rất nhiều xung khử cực nhĩ được dẫn truyền ồ ạt xuống nút nhĩ thất, làm cho tần số thất thường nhanh, không cố định và không đều.
+
+Rung nhĩ là một trong những tình trạng loạn nhịp phổ biến nhất, làm ảnh hưởng từ 3 triệu đến 6 triệu người lớn ở Hoa Kỳ (
+
+1
+
+). Nam giới và người da trắng có nhiều khả năng bị rung nhĩ hơn nữ giới và người Da đen. Nguy cơ bị rung nhĩ trong suốt cuộc đời là khoảng 25% ở nam giới và 20% ở nữ giới. Tỷ lệ hiện mắc bệnh tăng theo độ tuổi; < 1% ở độ tuổi 50, 1% đến 4% ở độ tuổi 65 và 6% đến 15% ở độ tuổi 80 (
+
+2
+
+). Rung tâm nhĩ có xu hướng xảy ra ở những bệnh nhân có rối loạn cơ tim.
+
+Các biến chứng của rung nhĩ
+
+Không có các cơn co ở tâm nhĩ dẫn đến hình thành huyết khối; nguy cơ hàng năm nói chung của các biến cố thuyên tắc mạch máu não là 3% đến 5% và rung nhĩ là nguyên nhân gây ra khoảng 20% đến 25% trong số tất cả các trường hợp đột quỵ (
+
+2
+
+). Nguy cơ bị
+
+đột quỵ
+
+cao hơn ở bệnh nhân cao tuổi và ở những bệnh nhân bị hẹp van hai lá từ trung bình đến nặng, van tim cơ học, cường giáp, tăng huyết áp, tiểu đường, rối loạn chức năng tâm thu thất trái hoặc biến cố thuyên tắc huyết khối trước đó. Các yếu tố này được xem xét trong hệ thống tính điểm dự đoán nguy cơ xảy ra các biến cố thuyên tắc huyết khối trong tương lai như là điểm CHA(2)DS(2)-VASc, được sử dụng rộng rãi ở những bệnh nhân không bị hẹp van hai lá vừa hoặc nặng hoặc không có van tim cơ học (những người cần dùng thuốc chống đông bất kể điểm CHA(2)DS(2)-VASc của họ). Huyết khối gây tắc mạch hệ thống (ví dụ như động mạch vành, động mạch thận, động mạch mạc treo, động mạch mắt, động mạch chi) có thể gây ra hoại tử và rối loạn chức năng các cơ quan.
+
+Rung nhĩ cũng có thể làm giảm cung lượng tim; mất khả năng co bóp của tâm nhĩ có thể làm giảm cung lượng tim ở nhịp tim bình thường lên tới 20% (
+
+3
+
+). Bệnh nhân thường dung nạp tốt việc giảm cung lượng tim này trừ phi tần số thất quá nhanh (> 140 lần/phút), hoặc trên cơ sở bệnh nhân đã có sẵn cung lượng tim thấp hoặc ở mức ranh giới. Trong những trường hợp như vậy, tình trạng
+
+suy tim
+
+sẽ tiến triển nặng hơn.
+
+Công cụ tính toán lâm sàng
+
+Thang điểm CHA(2)DS(2)-VASc đánh giá nguy cơ đột quỵ trong rung nhĩ.
+
+Tài liệu tham khảo chung
+
+1.
+
+Go AS, Hylek EM, Phillips KA, et al
+
+: Prevalence of diagnosed atrial fibrillation in adults: national implications for rhythm management and stroke prevention: the AnTicoagulation and Risk Factors in Atrial Fibrillation (ATRIA) Study.
+
+JAMA
+
+285(18):2370–2375, 2001 doi: 10.1001/jama.285.18.2370.
+
+2.
+
+Andrade J, Khairy P, Dobrev D, et al
+
+: The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms.
+
+Circ Res
+
+114(9):1453–1468, 2014 doi: 10.1161/CIRCRESAHA.114.303211.
+
+3.
+
+Klavebäck S, Skúladóttir H, Olbers J, et al
+
+: Changes in cardiac output, rhythm regularity, and symptom severity after electrical cardioversion of atrial fibrillation.
+
+Scand Cardiovasc J
+
+57(1):2236341, 2023 doi: 10.1080/14017431.2023.2236341
+
+Căn nguyên của rung nhĩ
+
+Các
+
+nguyên nhân phổ biến nhất
+
+của rung nhĩ là:
+
+Tăng huyết áp
+
+Bệnh động mạch vành
+
+Bệnh cơ tim
+
+Bệnh van tim:
+
+hẹp van hai lá
+
+,
+
+hở van hai lá
+
+,
+
+hở van ba lá
+
+Cường giáp
+
+Uống rượu nhiều hơn khi có dịp nghỉ lễ
+
+Các nguyên nhân ít phổ biến hơn
+
+của rung nhĩ bao gồm:
+
+Thuyên tắc động mạch phổi
+
+Thông liên nhĩ
+
+và các bệnh lý tim bẩm sinh khác
+
+Bệnh phổi tắc nghẽn mạn tính (COPD)
+
+Chứng ngưng thở lúc ngủ
+
+Viêm cơ tim
+
+Viêm màng ngoài tim
+
+Rung nhĩ đơn độc
+
+là rung nhĩ mà không xác định được nguyên nhân ở bệnh nhân
+
+<
+
+60 tuổi.
+
+Phân loại rung tâm nhĩ
+
+Rung nhĩ kịch phát
+
+là rung nhĩ kéo dài
+
+<
+
+1 tuần đã chuyển về nhịp xoang bình thường một cách tự nhiên hoặc do can thiệp. Các đợt có thể tái diễn (
+
+1
+
+).
+
+Rung nhĩ dai dẳng
+
+là tình trạng rung nhĩ liên tục kéo dài
+
+>
+
+1 tuần (
+
+1
+
+).
+
+Rung nhĩ dai dẳng kéo dài
+
+> 1 năm nhưng vẫn có khả năng phục hồi nhịp xoang (
+
+1
+
+).
+
+Rung nhĩ vĩnh viễn
+
+không thể chuyển đổi sang nhịp xoang (thuật ngữ này cũng bao gồm những bệnh nhân đã được quyết định không cố gắng chuyển sang nhịp xoang [
+
+1
+
+]). Có rung nhĩ kéo dài càng lâu thì khả năng chuyển nhịp tự nhiên càng thấp và việc sốc điện chuyển nhịp càng khó khăn do tái cấu trúc nhĩ (những thay đổi nhanh chóng do nhịp nhĩ gây ra trong điện sinh lý tâm nhĩ, bao gồm giảm khả năng trơ ​​của tâm nhĩ, phân tán không gian của khả năng trơ ​​của tâm nhĩ, tốc độ dẫn truyền ở tâm nhĩ chậm hoặc kết hợp các yếu tố này) (
+
+2
+
+).
+
+Tài liệu tham khảo về phân loại
+
+1.
+
+Joglar JA, Chung MK, Armbruster AL, et al
+
+: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+149(1):e1–e156, 2024. doi: 10.1161/CIR.0000000000001193
+
+2.
+
+Allessie M, Ausma J, Schotten U
+
+: Electrical, contractile and structural remodeling during atrial fibrillation.
+
+Cardiovasc Res
+
+54(2):230–246, 2002. doi: 10.1016/s0008-6363(02)00258-4
+
+Các triệu chứng và dấu hiệu của rung nhĩ
+
+Rung nhĩ thường không có triệu chứng, nhưng nhiều bệnh nhân bị hồi hộp, cảm giác khó chịu ở ngực hoặc các triệu chứng của
+
+suy tim
+
+(ví dụ: yếu, choáng váng, khó thở), đặc biệt là khi nhịp thất rất nhanh (thường là 140 đến 160 nhịp/phút). Bệnh nhân cũng có thể có các triệu chứng và dấu hiệu của
+
+đột quỵ
+
+cấp tính hoặc tổn thương các cơ quan khác do cục nghẽn toàn thân.
+
+Khám mạch thấy không đều và không có quy luật, không thấy sóng
+
+a
+
+của tĩnh mạch cổ. Có thể xuất hiện tình trạng thiếu mạch (nhịp thất ở đỉnh tim nhanh hơn nhịp sờ ở cổ tay) vì thể tích nhát bóp thất trái không phải lúc nào cũng đủ để tạo ra sóng áp lực ngoại vi cho một nhịp gần giống với nhịp trước đó.
+
+Chẩn đoán rung nhĩ
+
+Điện tâm đồ (ECG)
+
+Siêu âm tim
+
+Thử nghiệm chức năng tuyến giáp
+
+Chẩn đoán rung nhĩ bằng điện tâm đồ (xem hình
+
+Rung nhĩ
+
+). Các dấu hiệu trên điện tâm đồ bao gồm:
+
+Không có sóng P
+
+Có sóng f (do rung nhĩ) giữa các phức bộ QRS; sóng f không đều về thời gian và hình thái; dao động cơ bản ở mức nhịp
+
+>
+
+300 nhịp/phút, thường thấy rõ nhất ở chuyển đạo V1 và không phải lúc nào cũng thấy rõ ở tất cả các chuyển đạo
+
+Các khoảng R-R không đều và không có quy luật.
+
+Rung nhĩ
+
+Các rối loạn nhịp nhĩ không đều khác
+
+có thể nhìn thoáng qua giống rung nhĩ trên điện tâm đồ nhưng ta có thể dùng các biện pháp để chẩn đoán phân biệt với rung nhĩ (ví dụ: các sóng P tách biệt hoặc sóng cuồng nhĩ). Rung cơ hoặc nhiễu điện có thể giống sóng f, nhưng nhịp thất cơ bản lại đều đặn.
+
+Rung nhĩ có thể gây ra hiện tượng đáp ứng thất giống kiểu ngoại tâm thu thất hoặc tim nhanh thất (gọi là hiện tượng Ashman). Hiện tượng này thường xảy ra khi một khoảng R-R ngắn theo sau một khoảng R-R dài; khoảng dài hơn kéo dài thời kỳ trơ của hệ thống dẫn truyền dưới Hisian và các phức bộ QRS R-R ngắn tiếp theo được dẫn truyền bất thường, thường có hình thái nhánh phải (
+
+1
+
+).
+
+Siêu âm tim
+
+và
+
+kiểm tra chức năng tuyến giáp
+
+rất quan trọng trong đánh giá ban đầu (
+
+2
+
+).
+
+Siêu âm tim có mục đích đánh giá các tổn thương cấu trúc tim (ví dụ: giãn nhĩ trái, bất thường vận động vùng thành thất trái gợi ý nhồi máu cơ tim cũ hoặc mới, tổn thương van tim, bệnh lý cơ tim). Siêu âm tim qua thực quản tốt hơn siêu âm qua thành ngực trong chẩn đoán rõ huyết khối tiểu nhĩ trái.
+
+Ngọc trai & cạm bẫy
+
+Rung nhĩ với phức bộ QRS rộng có thể là dấu hiệu của
+
+hội chứng Wolff-Parkinson-White
+
+; trong những trường hợp như vậy, việc sử dụng thuốc chẹn nút nhĩ thất có thể gây tử vong.
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Morton MB, Morton JB, Mond HG
+
+: Aberrant Ventricular Conduction: Revisiting an Old Concept.
+
+Heart Lung Circ
+
+32(5):555–566, 2023. doi: 10.1016/j.hlc.2023.03.001
+
+2.
+
+Joglar JA, Chung MK, Armbruster AL, et al
+
+: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+149(1):e1–e156, 2024. doi: 10.1161/CIR.0000000000001193
+
+Điều trị rung nhĩ
+
+Kiểm soát tần số bằng thuốc hoặc
+
+triệt đốt
+
+nút AV
+
+Đôi khi kiểm soát nhịp bằng
+
+sốc điện chuyển nhịp đồng bộ
+
+, dùng thuốc hoặc triệt đốt cơ chất rung tâm nhĩ
+
+Dự phòng huyết khối tắc mạch.
+
+Bệnh nhân bị rung nhĩ không ổn định về mặt huyết động có thể được hưởng lợi từ việc nhập viện. Bệnh nhân bị các đợt tái phát không cần nhập viện trừ khi các triệu chứng khác cho thấy cần phải nhập viện. Một khi đã tìm ra và xử lý nguyên nhân, việc điều trị rung nhĩ tập trung vào kiểm soát tần số thất, chuyển nhịp và dự phòng huyết khối tắc mạch.
+
+Kiểm soát tần số thất
+
+Bệnh nhân bị rung nhĩ ở bất kỳ thời gian nào đều cần kiểm soát nhịp tim (thường là
+
+<
+
+100 nhịp/phút khi nghỉ ngơi) để kiểm soát các triệu chứng và ngăn ngừa bệnh cơ tim do nhịp tim nhanh gây ra (
+
+1
+
+).
+
+Đối với các cơn kịch phát nhịp nhanh cấp (ví dụ: 140 đến 160 nhịp/phút), thuốc chẹn nút AV đường tĩnh mạch được sử dụng (để biết liều lượng, hãy xem bảng
+
+Thuốc chống loạn nhịp
+
+). THẬN TRỌNG
+
+: Không nên sử dụng thuốc chẹn nút AV ở những bệnh nhân có hội chứng Wolff-Parkinson-White khi đường dẫn truyền AV phụ bị ảnh hưởng (được chỉ định bởi thời gian QRS rộng); những loại thuốc này có thể làm tăng tần số dẫn truyền qua đường dẫn truyền phụ, có thể gây rung thất
+
+(
+
+1
+
+).
+
+Thuốc chẹn beta (ví dụ: metoprolol, esmolol) được ưu tiên nếu nghi ngờ có quá nhiều catecholamine (ví dụ: trong các bệnh lý tuyến giáp, các trường hợp do tập thể dục kích hoạt) (
+
+1
+
+).
+
+Các thuốc chẹn kênh canxi loại nondihydropyridine (ví dụ: verapamil, diltiazem) cũng có hiệu quả. Digoxin là thuốc có hiệu quả thấp nhất nhưng nên được dùng khi đang có tình trạng
+
+suy tim
+
+. Những loại thuốc này có thể được sử dụng bằng đường uống để kiểm soát nhịp tim lâu dài (
+
+1
+
+).
+
+Khi thuốc chẹn beta, thuốc chẹn kênh canxi không dihydropyridine và digoxin – riêng lẻ hoặc phối hợp – không hiệu quả, có thể cần phải dùng amiodarone (
+
+1
+
+).
+
+Amiodarone
+
+cũng có thể chuyển rung nhĩ thành nhịp xoang; tuy nhiên, việc chuyển nhịp này có thể không mong muốn ở một số bệnh nhân không dùng thuốc chống đông máu (xem
+
+Phòng ngừa thuyên tắc huyết khối
+
+).
+
+Kiểm soát nhịp
+
+Ở những bệnh nhân bị suy tim hoặc các rối loạn huyết động khác do rung nhĩ mới khởi phát trực tiếp, có chỉ định khôi phục nhịp xoang bình thường để cải thiện cung lượng tim (
+
+1
+
+). Trong những trường hợp khác, chuyển nhịp rung nhĩ về nhịp xoang bình thường là phương pháp tối ưu, nhưng
+
+thuốc chống loạn nhịp
+
+có khả năng có tác dụng như vậy (nhóm Ia, Ic, III) có nguy cơ bị các tác dụng bất lợi và có thể làm tăng tỷ lệ tử vong. Việc chuyển nhịp rung nhĩ về nhịp xoang không đồng nghĩa với việc ngừng thuốc chống đông.
+
+Đối với chuyển nhịp trong giai đoạn cấp tính, có thể sử dụng phương pháp
+
+sốc điện chuyển nhịp đồng bộ
+
+hoặc dùng thuốc.
+
+Trước khi thực hiện chuyển nhịp, nhịp thất phải được kiểm soát ở mức
+
+<
+
+120 nhịp/phút và hầu hết bệnh nhân phải được dùng thuốc chống đông (để biết tiêu chuẩn và phương pháp, hãy xem mục
+
+Phòng ngừa thuyên tắc huyết khối
+
+) vì chuyển nhịp rung nhĩ, bất kể phương pháp nào được sử dụng, đều làm tăng tạm thời nguy cơ bị thuyên tắc huyết khối.
+
+Sốc điện chuyển nhịp đồng bộ
+
+(hai pha 200 joule, tiếp theo là hai pha 300 và 360 joule nếu cần) chuyển rung nhĩ thành nhịp xoang bình thường ở khoảng 90% số bệnh nhân, mặc dù tỷ lệ tái phát cao (
+
+2
+
+). Hiệu quả và khả năng duy trì nhịp xoang sau thủ thuật được cải thiện khi sử dụng
+
+thuốc chống loạn nhịp
+
+nhóm Ia, Ic hoặc III trong vòng 24 giờ đến 48 giờ trước khi thực hiện thủ thuật. Phương pháp sốc điện chuyển nhịp có hiệu quả hơn ở những bệnh nhân bị rung nhĩ trong thời gian ngắn, rung nhĩ đơn độc hoặc rung nhĩ có nguyên nhân có thể hồi phục; phương pháp này ít hiệu quả hơn khi tâm nhĩ trái phì đại (
+
+>
+
+5 cm) hoặc nếu có bệnh cấu trúc tim đáng kể tiềm ẩn.
+
+Thuốc để chuyển rung nhĩ thành nhịp xoang
+
+bao gồm thuốc chống loạn nhịp nhóm Ia (procainamide, quinidine, disopyramide), nhóm Ic (flecainide, propafenone) và nhóm III (amiodarone, dofetilide, dronedarone, ibutilide, sotalol, vernakalant) (xem bảng
+
+Thuốc chống loạn nhịp
+
+). Một phân tích tổng hợp báo cáo tỷ lệ sốc điện chuyển nhịp cụ thể theo thuốc trong 4 giờ dao động từ khoảng 25% đến 65%; các thuốc hiệu quả nhất là
+
+vernakalant
+
+đường tĩnh mạch,
+
+flecainide
+
+đường tĩnh mạch,
+
+propafenone
+
+đường tĩnh mạch,
+
+flecainide
+
+đường uống và
+
+ibutilide
+
+đường tĩnh mạch (
+
+3
+
+). Ngoại trừ
+
+amiodarone
+
+và
+
+sotalol
+
+, cũng làm chậm nhịp đáp ứng của tâm thất với rung nhĩ, không nên sử dụng những loại thuốc này cho đến khi nhịp tim được kiểm soát.
+
+Thuốc chuyển nhịp có công thức bào chế đường uống cũng được sử dụng để duy trì nhịp xoang lâu dài (có hoặc không có sốc điện chuyển nhịp trước đó). Một đánh giá của Cochrane cho thấy hiệu quả của thuốc chống loạn nhịp tim dao động từ 33% đến 57%, trong đó amiodarone có hiệu quả nhất (
+
+4
+
+). Tuy nhiên, thuốc chống loạn nhịp tim cho mục đích này lại liên quan đến nhiều biến cố bất lợi hơn, bao gồm cả tử vong. Đối với rung nhĩ kịch phát chỉ hoặc hầu như chỉ xảy ra khi nghỉ ngơi hoặc khi ngủ khi trương lực phế vị cao, thuốc có tác dụng ức chế phế vị (ví dụ: disopyramide) có thể đặc biệt hiệu quả. Rung nhĩ do tập thể dục có thể được ngăn ngừa tốt hơn bằng thuốc chẹn beta.
+
+Đối với một số bệnh nhân bị rung nhĩ kịch phát tái phát, họ cũng có thể xác định được thời điểm khởi phát thông qua các triệu chứng, một số bác sĩ lâm sàng cho dùng một liều tấn công đường uống duy nhất của thuốc flecainide (300 mg cho bệnh nhân
+
+≥
+
+70 kg, nếu không thì 200 mg) hoặc propafenone (600 mg cho bệnh nhân
+
+≥
+
+70 kg, nếu không thì 450 mg) mà bệnh nhân mang theo và tự dùng khi có tình trạng hồi hộp (phương pháp "thuốc viên trong túi") (
+
+5
+
+). Phương pháp này chỉ được chỉ định ở những bệnh nhân không có suy nút xoang hoặc rối loạn dẫn truyền nhĩ thất, block nhánh, QT dài, hội chứng Brugada, hoặc bệnh tim thực tổn. Nguy cơ chính của phương pháp này (ước tính ở mức 1%) là khả năng chuyển rung nhĩ thành cuồng động nhĩ chậm dẫn truyền theo tỷ lệ 1:1 trong phạm vi 200 đến 240 nhịp/phút. (
+
+5
+
+). Biến chứng tiềm ẩn này có thể giảm tần suất bằng cách dùng đồng thời thuốc ức chế nút AV (ví dụ: thuốc chẹn beta hoặc thuốc đối kháng canxi không dihydropyridine).
+
+Thuốc ức chế men chuyển (ACE), thuốc chẹn thụ thể
+
+angiotensin II
+
+(ARB) và thuốc chẹn
+
+aldosterone
+
+có thể làm giảm xơ hóa cơ tim là chất nền gây ra rung nhĩ, nhưng vai trò của những loại thuốc này trong điều trị rung nhĩ thường quy vẫn chưa được xác định.
+
+Thủ thuật triệt đốt cho những bệnh nhân rung nhĩ
+
+Đối với những bệnh nhân không đáp ứng được yêu cầu kiểm soát nhịp tim hoặc tần số tim hoặc những phương pháp này không hiệu quả, có thể phải
+
+triệt đốt
+
+nút AV để gây block tim hoàn toàn; khi đó cần phải cấy
+
+máy tạo nhịp tim vĩnh viễn
+
+. Việc triệt đốt đường dẫn truyền nút AV chậm (sửa đổi nút AV) làm giảm số lượng xung động tâm nhĩ đến tâm thất và loại bỏ nhu cầu sử dụng máy tạo nhịp tim, nhưng phương pháp này được coi là kém hiệu quả hơn so với việc triệt đốt hoàn toàn và hiếm khi được sử dụng.
+
+Các thủ thuật triệt đốt qua ống thông giúp cô lập bằng điện các tĩnh mạch phổi ra khỏi tâm nhĩ trái có thể ngăn ngừa rung nhĩ mà không gây ra block nhĩ thất. Cô lập tĩnh mạch phổi có tỷ lệ thành công thấp hơn (60% đến 80%) và tỷ lệ biến chứng lớn cao hơn (1% đến 5%) so với các thủ thuật triệt đốt được sử dụng để điều trị loạn nhịp trên thất (
+
+6
+
+). Các thử nghiệm phân nhóm ngẫu nhiên trên bệnh nhân không dùng thuốc chống loạn nhịp đã chỉ ra rằng tỷ lệ tái phát loạn nhịp nhanh nhĩ thấp hơn khi triệt đốt (khoảng 30%) so với điều trị bằng thuốc (khoảng 50%) sau 17 tháng theo dõi và không có sự khác biệt đáng kể về các biến cố bất lợi nghiêm trọng (
+
+7
+
+). Hơn nữa, phân tích tổng hợp cho thấy rằng, so với điều trị nội khoa, triệt đốt qua ống thông làm giảm tỷ lệ tử vong do mọi nguyên nhân, rõ ràng nhất ở những bệnh nhân bị suy tim đồng thời và làm giảm số lần nhập viện ở những bệnh nhân bị rung nhĩ kịch phát và những bệnh nhân bị rung nhĩ dai dẳng có hoặc không có suy tim (
+
+8
+
+). Theo đó, các hướng dẫn đưa ra chỉ định loại I cho việc triệt đốt qua ống thông để kiểm soát nhịp ở những bệnh nhân bị rung nhĩ mà phương pháp kiểm soát nhịp bằng thuốc chống loạn nhịp đã thất bại, ở những bệnh nhân bị suy tim đồng thời với phân suất tống máu giảm và ở những bệnh nhân được chọn làm liệu pháp bước đầu trong giai đoạn đầu của quá trình rung nhĩ (
+
+1
+
+).
+
+Ngoài ra còn có một thủ thuật triệt đốt mở ở tim để điều trị rung nhĩ (thủ thuật maze), nhưng thủ thuật này chủ yếu dành cho những bệnh nhân có chỉ định khác để phẫu thuật tim mở thay vì được sử dụng như một thủ thuật đơn thuần (
+
+9
+
+).
+
+Các thử nghiệm lâm sàng chọn ngẫu nhiên đề cập đến nhu cầu tiếp tục dùng thuốc chống đông đường uống lâu dài sau khi thủ thuật triệt đốt dường như thành công được tiến hành. Các hướng dẫn khuyến nghị dùng thuốc chống đông máu dài hạn sau khi triệt đốt bằng cách sử dụng các hướng dẫn tương tự như đối với những bệnh nhân chưa được triệt đốt bất kể thủ thuật có thành công rõ ràng hay không (
+
+1
+
+).
+
+Dự phòng huyết khối tắc mạch.
+
+Các biện pháp
+
+dài hạn
+
+để ngăn ngừa thuyên tắc huyết khối được áp dụng cho một số bệnh nhân bị rung nhĩ tùy thuộc vào nguy cơ đột quỵ ước tính của họ so với nguy cơ chảy máu (ví dụ: theo điểm
+
+CHA(2)DS(2)-VASc
+
+[
+
+8
+
+] và công cụ
+
+HAS-BLED
+
+[
+
+10
+
+]).
+
+Bảng
+
+Thang điểm CHA(2)DS(2)-VASc
+
+Bảng
+
+Thang điểm CHA(2)DS(2)-VASc
+
+Thang điểm CHA(2)DS(2)-VASc
+
+Thay đổi
+
+Điểm
+
+Tiền sử bị suy tim sung huyết
+
+1
+
+Tiền sử tăng huyết áp
+
+1
+
+Tuổi ≥ 75
+
+2
+
+Tiền sử bị đái tháo đường
+
+1
+
+Cơn thiếu máu não cục bộ thoáng qua (TIA)
+
+2
+
+Bệnh mạch máu
+
+1
+
+Tuổi 65-74
+
+1
+
+Giới (nữ)
+
+1
+
+Công cụ tính toán lâm sàng
+
+Thang điểm CHA(2)DS(2)-VASc đánh giá nguy cơ đột quỵ trong rung nhĩ.
+
+Khuyến cáo điều trị thuốc chống đông trong rung nhĩ có sự khác biệt ở các vùng khác nhau. Các hướng dẫn ở Hoa Kỳ như sau (
+
+1
+
+).
+
+Liệu pháp chống đông đường uống dài hạn được khuyến nghị cho những bệnh nhân bị rung nhĩ có các triệu chứng sau (khuyến nghị loại I):
+
+Hẹp van hai lá do thấp khớp mức độ trung bình đến nặng
+
+Van tim nhân tạo cơ học (có hoặc không có rung nhĩ)
+
+Rung nhĩ không do van tim (tức là không có hẹp van hai lá do thấp khớp từ trung bình đến nặng hoặc van tim cơ học) với điểm CHA(2)DS(2)-VASc ≥ 2 ở nam giới và ≥ 3 ở nữ giới
+
+Bệnh cơ tim phì đại
+
+Nguy cơ thuyên tắc huyết khối hàng năm đối với những bệnh nhân này là ≥ 2%.
+
+Liệu pháp chống đông đường uống dài hạn là hợp lý đối với (khuyến nghị loại IIa):
+
+Bệnh nhân bị rung nhĩ không do van tim và điểm CHA(2)DS(2)-VASc là 1 ở nam giới và 2 ở nữ giới
+
+Nguy cơ thuyên tắc huyết khối hàng năm đối với những bệnh nhân này là từ 1% đến 2%.
+
+Liệu pháp chống đông đường uống dài hạn không được khuyến nghị cho những bệnh nhân có:
+
+Rung nhĩ không do van tim và điểm CHA(2)DS(2)-VASc là 0 ở nam giới và 1 ở nữ giới
+
+Nguy cơ thuyên tắc huyết khối hàng năm đối với những bệnh nhân này là < 1%.
+
+Các khuyến nghị sau đây áp dụng cho các biện pháp chống đông máu:
+
+Bệnh nhân bị rung nhĩ và van tim cơ học được điều trị bằng warfarin (khuyến nghị loại I).
+
+Bệnh nhân bị rung nhĩ và
+
+hẹp van hai lá
+
+do thấp khớp từ trung bình đến nặng được điều trị bằng warfarin (khuyến nghị loại I).
+
+Bệnh nhân bị rung nhĩ không do van tim được điều trị bằng thuốc chống đông đường uống sẽ được dùng warfarin, apixaban, dabigatran, edoxaban hoặc rivaroxaban (khuyến nghị loại I).
+
+Khi dùng warfarin, mục tiêu tỷ lệ chuẩn hóa quốc tế (INR) là 2,0 đến 3,0.
+
+Đối với những bệnh nhân đủ điều kiện điều trị chống đông bằng warfarin (hoặc một thuốc đối kháng vitamin K khác) hoặc thuốc chống đông không phải thuốc đối kháng vitamin K như là apixaban, dabigatran, edoxaban hoặc rivaroxaban, thuốc chống đông không phải thuốc đối kháng vitamin K được ưu tiên (khuyến nghị loại I).
+
+Không khuyến nghị dùng đơn trị liệu bằng aspirin để phòng ngừa thuyên tắc huyết khối.
+
+Các hướng dẫn chung này được thay đổi ở những bệnh nhân bị suy thận trên mức trung bình với giảm sức thuyết phục đối với thuốc chống đông khi suy thận tiến triển từ giai đoạn 1, 2 và 3 của bệnh thận mạn tính (eGFR > 30 mL/phút [khuyến nghị loại I]), qua giai đoạn 4 của bệnh thận mạn tính (eGFR từ 15 đến 30 mL/phút [khuyến nghị loại IIa]), đến giai đoạn 5 của bệnh thận mạn tính (eGFR < 15 mL/phút hoặc đang chạy thận nhân tạo [khuyến nghị loại IIb]).
+
+Vì 90% số cục nghẽn ở nhĩ trái trên những bệnh nhân bị rung nhĩ không do van tim nằm ở tiểu nhĩ trái nên có thể phòng ngừa đột quỵ ở những bệnh nhân này bằng cách phẫu thuật thắt tiểu nhĩ trái hoặc bít bằng dụng cụ qua ống thông. Hướng dẫn đưa ra chỉ định loại IIa cho việc đóng tiểu nhĩ trái ở những bệnh nhân bị rung nhĩ và điểm CHA(2)DS(2)-VASc ≥ 2 khi liệu pháp chống huyết khối thích hợp bị chống chỉ định và chỉ định loại IIb ở những bệnh nhân như vậy dựa trên sở thích của bệnh nhân (
+
+1
+
+).
+
+Nguy cơ chảy máu của từng bệnh nhân có thể được ước tính bằng bất kỳ công cụ tiên lượng nào, trong đó công cụ được sử dụng phổ biến nhất là HAS-BLED (
+
+11
+
+) (xem bảng
+
+Công cụ HAS-BLED để dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩ
+
+). Điểm HAS-BLED có giá trị nhất trong việc xác định các tình trạng mà nếu được điều chỉnh, sẽ làm giảm nguy cơ chảy máu khi dùng thuốc chống đông.
+
+Bảng
+
+Thang điểm HAS-BLED dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩ
+
+Bảng
+
+Thang điểm HAS-BLED dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩ
+
+Thang điểm HAS-BLED dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩ
+
+Thay đổi
+
+Điểm
+
+Tăng huyết áp không kiểm soát được
+
+1
+
+Chức năng thận bất thường
+
+1
+
+Chức năng gan bất thường
+
+1
+
+Đột quỵ trước đó
+
+1
+
+Tiền sử xuất huyết
+
+1
+
+INR dao động khi điều trị với warfarin (được định nghĩa là thời gian trong phạm vi điều trị dưới 60%)
+
+1
+
+Bệnh nhân cao tuổi (> 65 tuổi)
+
+1
+
+Sử dụng thuốc (được định nghĩa là sử dụng đồng thời thuốc chống viêm không steroid [NSAID] hoặc thuốc chống kết tập tiểu cầu)
+
+1
+
+Sử dụng rượu (được định nghĩa là > 8 đơn vị cồn mỗi tuần)
+
+1
+
+Công cụ tính toán lâm sàng
+
+Điểm nguy cơ chảy máu HAS-BLED
+
+Phòng ngừa thuyên tắc huyết khối ở bệnh nhân được sốc điện chuyển nhịp
+
+Hướng dẫn đề xuất các biện pháp phòng ngừa sau đây vào thời điểm sốc điện chuyển nhịp (
+
+1
+
+):
+
+Chống đông máu ở bệnh nhân được sốc điện chuyển nhịp
+
+* Thuốc chống đông máu có thể được dùng trong
+
+<
+
+3 tuần nếu TEE không cho thấy cục nghẽn ở tâm nhĩ.
+
+TEE = siêu âm qua thực quản (để loại trừ huyết khối nhĩ trái).
+
+Nếu đã có rung nhĩ
+
+>
+
+48 giờ, bệnh nhân thường nên được dùng thuốc chống đông đường uống trong
+
+>
+
+3 tuần trước khi chuyển nhịp bằng điều trị nội khoa hoặc chuyển nhịp bằng DC. Nếu muốn sốc điện chuyển nhịp ngay lập tức, nên tiến hành siêu âm qua thực quản (TEE) để loại trừ cục nghẽn ở tâm nhĩ trước khi sốc điện chuyển nhịp. Thuốc chống đông có thể được dùng trong thời gian ngắn hơn trước khi chuyển nhịp nếu TEE không cho thấy cục nghẽn ở tâm nhĩ trái. Thuốc chống đông máu nên được tiếp tục trong ít nhất 4 tuần sau khi sốc điện chuyển nhịp tim (mỗi lần đều là khuyến nghị loại I).
+
+Nếu đã có rung nhĩ
+
+<
+
+48 giờ ở những bệnh nhân có điểm CHA(2)DS(2)-VASc ≥ 2 và chưa dùng thuốc chống đông điều trị trong > 3 tuần, TEE nên được thực hiện để loại trừ cục nghẽn ở tâm nhĩ trái trước khi sốc điện chuyển nhịp (khuyến nghị loại IIb).
+
+Nếu đã có rung nhĩ < 12 giờ và bệnh nhân có điểm CHA(2)DS(2)-VASc từ 0 đến 1 (xem bảng
+
+Điểm CHA(2)DS(2)-VASc
+
+), lợi ích của TEE trước sốc điện chuyển nhịp và thuốc chống đông máu quanh thời điểm sốc điện chuyển nhịp là không chắc chắn (chỉ định, mà không nêu rõ, rằng nhóm bệnh nhân sau có thể được sốc điện chuyển nhịp mà không cần TEE trước sốc điện chuyển nhịp hoặc thuốc chống đông trước sốc điện chuyển nhịp.
+
+Ngọc trai & cạm bẫy
+
+Nếu có thể, cần chỉ định dùng thuốc chống đông trước khi thử chuyển nhịp rung nhĩ về nhịp xoang.
+
+Việc chuyển nhịp về xoang không đồng nghĩa với việc sẽ ngừng uống thuốc chống đông ở những bệnh nhân có chỉ định phải dùng thuốc chống đông.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Joglar JA, Chung MK, Armbruster AL, et al
+
+: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Circulation
+
+149(1):e1–e156, 2024. doi: 10.1161/CIR.0000000000001193
+
+2.
+
+Crijns HJ, Weijs B, Fairley AM, et al
+
+: Contemporary real life cardioversion of atrial fibrillation: Results from the multinational RHYTHM-AF study.
+
+Int J Cardiol
+
+172(3):588–594, 2014 doi:10.1016/j.ijcard.2014.01.099
+
+3.
+
+Tsiachris D, Doundoulakis I, Pagkalidou E, et al
+
+: Pharmacologic Cardioversion in Patients with Paroxysmal Atrial Fibrillation: A Network Meta-Analysis.
+
+Cardiovasc Drugs Ther
+
+35(2):293–308, 2021. doi: 10.1007/s10557-020-07127-1
+
+4.
+
+Valembois L, Audureau E, Takeda A, et al
+
+: Antiarrhythmics for maintaining sinus rhythm after cardioversion of atrial fibrillation.
+
+Cochrane Database Syst Rev
+
+9(9):CD005049, 2019. doi: 10.1002/14651858.CD005049.pub5
+
+5.
+
+Ibrahim OA, Belley-Côté EP, Um KJ, et al
+
+: Single-dose oral anti-arrhythmic drugs for cardioversion of recent-onset atrial fibrillation: a systematic review and network meta-analysis of randomized controlled trials.
+
+Europace
+
+23(8):1200–1210, 2021. doi: 10.1093/europace/euab014
+
+6.
+
+Voskoboinik A, Moskovitch JT, Harel N, Sanders P, Kistler PM, Kalman JM
+
+: Revisiting pulmonary vein isolation alone for persistent atrial fibrillation: A systematic review and meta-analysis.
+
+Heart Rhythm
+
+14(5):661–667, 2017 doi:10.1016/j.hrthm.2017.01.003
+
+7.
+
+Razzack AA, Lak HM, Pothuru S, et al
+
+: Efficacy and Safety of Catheter Ablation vs Antiarrhythmic Drugs as Initial Therapy for Management of Symptomatic Paroxysmal Atrial Fibrillation: A Meta-Analysis.
+
+Rev Cardiovasc Med
+
+23(3):112, 2022. doi: 10.31083/j.rcm2303112
+
+8.
+
+Ravi V, Poudyal A, Lin L, et al
+
+: Mortality benefit of catheter ablation versus medical therapy in atrial fibrillation: An RCT only meta-analysis.
+
+J Cardiovasc Electrophysiol
+
+33(2):178–193, 2022. doi: 10.1111/jce.15330
+
+9.
+
+Guo Q, Yan F, Ouyang P, et al
+
+: Bi-atrial or left atrial ablation of atrial fibrillation during concomitant cardiac surgery: A Bayesian network meta-analysis of randomized controlled trials.
+
+J Cardiovasc Electrophysiol
+
+32(8):2316–2328, 2021. doi:10.1111/jce.15127
+
+10.
+
+Lip GY, Nieuwlaat R, Pisters R, et al
+
+: Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Hart Survey on atrial fibrillation.
+
+Chest
+
+137(2):263–272, 2010. doi: 10.1378/chest.09-1584
+
+11.
+
+Pisters R, Lane DA, Nieuwlaat R, et al
+
+: A novel user-friendly score (HAS-BLED) to assess 1-year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey.
+
+Chest
+
+138(5):1093–1100, 2010. doi: 10.1378/chest.10-0134
+
+Những điểm chính
+
+Rung nhĩ là tình trạng nhịp nhĩ không đều, có thể xảy ra từng cơn hoặc liên tục.
+
+Nếu thấy QRS giãn rộng trong cơn rung nhĩ, có thể do rối loạn dẫn truyền trong thất có sẵn từ trước hoặc do hội chứng Wolff-Parkinson-White.
+
+Bệnh nhân cần được chỉ định làm điện tâm đồ, siêu âm tim và xét nghiệm chức năng tuyến giáp.
+
+Nhịp tim thường được kiểm soát ở mức
+
+<
+
+100 nhịp/phút khi nghỉ ngơi; các loại thuốc bước đầu bao gồm thuốc chẹn beta và thuốc chẹn kênh canxi nondihydropyridine (ví dụ: verapamil, diltiazem).
+
+Việc phục hồi nhịp xoang không loại bỏ được nhu cầu dùng thuốc chống đông nhưng có thể có tác dụng cho những bệnh nhân có triệu chứng kéo dài hoặc rối loạn huyết động (ví dụ: suy tim); có thể sử dụng phương pháp sốc điện chuyển nhịp đồng bộ hoặc dùng thuốc.
+
+Cần chỉ định thuốc chống đông đường uống dài hạn để ngăn ngừa nguy cơ đột quỵ cho bệnh nhân có nguy cơ thuyên tắc huyết khối.
+
+Cần chỉ định thuốc chống đông trước khi chuyển nhịp.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Rung nhĩ) ---
+
+TheoL. Brent Mitchell,MD,Libin Cardiovascular Institute, University of CalgaryXem xét bởiJonathan G. Howlett,MD,Cumming School of Medicine, University of CalgaryĐã xem xét/Đã chỉnh sửaThg 9 2024|đã sửa đổiThg 12 2024v938089_vi
+
+--- 2. Căn nguyên của rung nhĩ ---
+
+Cácnguyên nhân phổ biến nhấtcủa rung nhĩ là:Tăng huyết ápBệnh động mạch vànhBệnh cơ timBệnh van tim:hẹp van hai lá,hở van hai lá,hở van ba láCường giápUống rượu nhiều hơn khi có dịp nghỉ lễCác nguyên nhân ít phổ biến hơncủa rung nhĩ bao gồm:Thuyên tắc động mạch phổiThông liên nhĩvà các bệnh lý tim bẩm sinh khácBệnh phổi tắc nghẽn mạn tính (COPD)Chứng ngưng thở lúc ngủViêm cơ timViêm màng ngoài timRung nhĩ đơn độclà rung nhĩ mà không xác định được nguyên nhân ở bệnh nhân<60 tuổi.
+
+--- 3. Phân loại rung tâm nhĩ ---
+
+Rung nhĩ kịch phátlà rung nhĩ kéo dài<1 tuần đã chuyển về nhịp xoang bình thường một cách tự nhiên hoặc do can thiệp. Các đợt có thể tái diễn (1).Rung nhĩ dai dẳnglà tình trạng rung nhĩ liên tục kéo dài>1 tuần (1).Rung nhĩ dai dẳng kéo dài> 1 năm nhưng vẫn có khả năng phục hồi nhịp xoang (1).Rung nhĩ vĩnh viễnkhông thể chuyển đổi sang nhịp xoang (thuật ngữ này cũng bao gồm những bệnh nhân đã được quyết định không cố gắng chuyển sang nhịp xoang [1]). Có rung nhĩ kéo dài càng lâu thì khả năng chuyển nhịp tự nhiên càng thấp và việc sốc điện chuyển nhịp càng khó khăn do tái cấu trúc nhĩ (những thay đổi nhanh chóng do nhịp nhĩ gây ra trong điện sinh lý tâm nhĩ, bao gồm giảm khả năng trơ ​​của tâm nhĩ, phân tán không gian của khả năng trơ ​​của tâm nhĩ, tốc độ dẫn truyền ở tâm nhĩ chậm hoặc kết hợp các yếu tố này) (2).Tài liệu tham khảo về phân loại1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024. doi: 10.1161/CIR.00000000000011932.Allessie M, Ausma J, Schotten U: Electrical, contractile and structural remodeling during atrial fibrillation.Cardiovasc Res54(2):230–246, 2002. doi: 10.1016/s0008-6363(02)00258-4
+
+--- 4. Các triệu chứng và dấu hiệu của rung nhĩ ---
+
+Rung nhĩ thường không có triệu chứng, nhưng nhiều bệnh nhân bị hồi hộp, cảm giác khó chịu ở ngực hoặc các triệu chứng củasuy tim(ví dụ: yếu, choáng váng, khó thở), đặc biệt là khi nhịp thất rất nhanh (thường là 140 đến 160 nhịp/phút). Bệnh nhân cũng có thể có các triệu chứng và dấu hiệu củađột quỵcấp tính hoặc tổn thương các cơ quan khác do cục nghẽn toàn thân.Khám mạch thấy không đều và không có quy luật, không thấy sóngacủa tĩnh mạch cổ. Có thể xuất hiện tình trạng thiếu mạch (nhịp thất ở đỉnh tim nhanh hơn nhịp sờ ở cổ tay) vì thể tích nhát bóp thất trái không phải lúc nào cũng đủ để tạo ra sóng áp lực ngoại vi cho một nhịp gần giống với nhịp trước đó.
+
+--- 5. Chẩn đoán rung nhĩ ---
+
+Điện tâm đồ (ECG)Siêu âm timThử nghiệm chức năng tuyến giápChẩn đoán rung nhĩ bằng điện tâm đồ (xem hìnhRung nhĩ). Các dấu hiệu trên điện tâm đồ bao gồm:Không có sóng PCó sóng f (do rung nhĩ) giữa các phức bộ QRS; sóng f không đều về thời gian và hình thái; dao động cơ bản ở mức nhịp>300 nhịp/phút, thường thấy rõ nhất ở chuyển đạo V1 và không phải lúc nào cũng thấy rõ ở tất cả các chuyển đạoCác khoảng R-R không đều và không có quy luật.Rung nhĩCác rối loạn nhịp nhĩ không đều kháccó thể nhìn thoáng qua giống rung nhĩ trên điện tâm đồ nhưng ta có thể dùng các biện pháp để chẩn đoán phân biệt với rung nhĩ (ví dụ: các sóng P tách biệt hoặc sóng cuồng nhĩ). Rung cơ hoặc nhiễu điện có thể giống sóng f, nhưng nhịp thất cơ bản lại đều đặn.Rung nhĩ có thể gây ra hiện tượng đáp ứng thất giống kiểu ngoại tâm thu thất hoặc tim nhanh thất (gọi là hiện tượng Ashman). Hiện tượng này thường xảy ra khi một khoảng R-R ngắn theo sau một khoảng R-R dài; khoảng dài hơn kéo dài thời kỳ trơ của hệ thống dẫn truyền dưới Hisian và các phức bộ QRS R-R ngắn tiếp theo được dẫn truyền bất thường, thường có hình thái nhánh phải (1).Siêu âm timvàkiểm tra chức năng tuyến giáprất quan trọng trong đánh giá ban đầu (2).Siêu âm tim có mục đích đánh giá các tổn thương cấu trúc tim (ví dụ: giãn nhĩ trái, bất thường vận động vùng thành thất trái gợi ý nhồi máu cơ tim cũ hoặc mới, tổn thương van tim, bệnh lý cơ tim). Siêu âm tim qua thực quản tốt hơn siêu âm qua thành ngực trong chẩn đoán rõ huyết khối tiểu nhĩ trái.Ngọc trai & cạm bẫyRung nhĩ với phức bộ QRS rộng có thể là dấu hiệu củahội chứng Wolff-Parkinson-White; trong những trường hợp như vậy, việc sử dụng thuốc chẹn nút nhĩ thất có thể gây tử vong.Tài liệu tham khảo chẩn đoán1.Morton MB, Morton JB, Mond HG: Aberrant Ventricular Conduction: Revisiting an Old Concept.Heart Lung Circ32(5):555–566, 2023. doi: 10.1016/j.hlc.2023.03.0012.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024. doi: 10.1161/CIR.0000000000001193
+
+--- 6. Điều trị rung nhĩ ---
+
+Kiểm soát tần số bằng thuốc hoặctriệt đốtnút AVĐôi khi kiểm soát nhịp bằngsốc điện chuyển nhịp đồng bộ, dùng thuốc hoặc triệt đốt cơ chất rung tâm nhĩDự phòng huyết khối tắc mạch.Bệnh nhân bị rung nhĩ không ổn định về mặt huyết động có thể được hưởng lợi từ việc nhập viện. Bệnh nhân bị các đợt tái phát không cần nhập viện trừ khi các triệu chứng khác cho thấy cần phải nhập viện. Một khi đã tìm ra và xử lý nguyên nhân, việc điều trị rung nhĩ tập trung vào kiểm soát tần số thất, chuyển nhịp và dự phòng huyết khối tắc mạch.Kiểm soát tần số thấtBệnh nhân bị rung nhĩ ở bất kỳ thời gian nào đều cần kiểm soát nhịp tim (thường là<100 nhịp/phút khi nghỉ ngơi) để kiểm soát các triệu chứng và ngăn ngừa bệnh cơ tim do nhịp tim nhanh gây ra (1).Đối với các cơn kịch phát nhịp nhanh cấp (ví dụ: 140 đến 160 nhịp/phút), thuốc chẹn nút AV đường tĩnh mạch được sử dụng (để biết liều lượng, hãy xem bảngThuốc chống loạn nhịp). THẬN TRỌNG: Không nên sử dụng thuốc chẹn nút AV ở những bệnh nhân có hội chứng Wolff-Parkinson-White khi đường dẫn truyền AV phụ bị ảnh hưởng (được chỉ định bởi thời gian QRS rộng); những loại thuốc này có thể làm tăng tần số dẫn truyền qua đường dẫn truyền phụ, có thể gây rung thất(1).Thuốc chẹn beta (ví dụ: metoprolol, esmolol) được ưu tiên nếu nghi ngờ có quá nhiều catecholamine (ví dụ: trong các bệnh lý tuyến giáp, các trường hợp do tập thể dục kích hoạt) (1).Các thuốc chẹn kênh canxi loại nondihydropyridine (ví dụ: verapamil, diltiazem) cũng có hiệu quả. Digoxin là thuốc có hiệu quả thấp nhất nhưng nên được dùng khi đang có tình trạngsuy tim. Những loại thuốc này có thể được sử dụng bằng đường uống để kiểm soát nhịp tim lâu dài (1).Khi thuốc chẹn beta, thuốc chẹn kênh canxi không dihydropyridine và digoxin – riêng lẻ hoặc phối hợp – không hiệu quả, có thể cần phải dùng amiodarone (1).Amiodaronecũng có thể chuyển rung nhĩ thành nhịp xoang; tuy nhiên, việc chuyển nhịp này có thể không mong muốn ở một số bệnh nhân không dùng thuốc chống đông máu (xemPhòng ngừa thuyên tắc huyết khối).Kiểm soát nhịpỞ những bệnh nhân bị suy tim hoặc các rối loạn huyết động khác do rung nhĩ mới khởi phát trực tiếp, có chỉ định khôi phục nhịp xoang bình thường để cải thiện cung lượng tim (1). Trong những trường hợp khác, chuyển nhịp rung nhĩ về nhịp xoang bình thường là phương pháp tối ưu, nhưngthuốc chống loạn nhịpcó khả năng có tác dụng như vậy (nhóm Ia, Ic, III) có nguy cơ bị các tác dụng bất lợi và có thể làm tăng tỷ lệ tử vong. Việc chuyển nhịp rung nhĩ về nhịp xoang không đồng nghĩa với việc ngừng thuốc chống đông.Đối với chuyển nhịp trong giai đoạn cấp tính, có thể sử dụng phương phápsốc điện chuyển nhịp đồng bộhoặc dùng thuốc.Trước khi thực hiện chuyển nhịp, nhịp thất phải được kiểm soát ở mức<120 nhịp/phút và hầu hết bệnh nhân phải được dùng thuốc chống đông (để biết tiêu chuẩn và phương pháp, hãy xem mụcPhòng ngừa thuyên tắc huyết khối) vì chuyển nhịp rung nhĩ, bất kể phương pháp nào được sử dụng, đều làm tăng tạm thời nguy cơ bị thuyên tắc huyết khối.Sốc điện chuyển nhịp đồng bộ(hai pha 200 joule, tiếp theo là hai pha 300 và 360 joule nếu cần) chuyển rung nhĩ thành nhịp xoang bình thường ở khoảng 90% số bệnh nhân, mặc dù tỷ lệ tái phát cao (2). Hiệu quả và khả năng duy trì nhịp xoang sau thủ thuật được cải thiện khi sử dụngthuốc chống loạn nhịpnhóm Ia, Ic hoặc III trong vòng 24 giờ đến 48 giờ trước khi thực hiện thủ thuật. Phương pháp sốc điện chuyển nhịp có hiệu quả hơn ở những bệnh nhân bị rung nhĩ trong thời gian ngắn, rung nhĩ đơn độc hoặc rung nhĩ có nguyên nhân có thể hồi phục; phương pháp này ít hiệu quả hơn khi tâm nhĩ trái phì đại (>5 cm) hoặc nếu có bệnh cấu trúc tim đáng kể tiềm ẩn.Thuốc để chuyển rung nhĩ thành nhịp xoangbao gồm thuốc chống loạn nhịp nhóm Ia (procainamide, quinidine, disopyramide), nhóm Ic (flecainide, propafenone) và nhóm III (amiodarone, dofetilide, dronedarone, ibutilide, sotalol, vernakalant) (xem bảngThuốc chống loạn nhịp). Một phân tích tổng hợp báo cáo tỷ lệ sốc điện chuyển nhịp cụ thể theo thuốc trong 4 giờ dao động từ khoảng 25% đến 65%; các thuốc hiệu quả nhất làvernakalantđường tĩnh mạch,flecainideđường tĩnh mạch,propafenoneđường tĩnh mạch,flecainideđường uống vàibutilideđường tĩnh mạch (3). Ngoại trừamiodaronevàsotalol, cũng làm chậm nhịp đáp ứng của tâm thất với rung nhĩ, không nên sử dụng những loại thuốc này cho đến khi nhịp tim được kiểm soát.Thuốc chuyển nhịp có công thức bào chế đường uống cũng được sử dụng để duy trì nhịp xoang lâu dài (có hoặc không có sốc điện chuyển nhịp trước đó). Một đánh giá của Cochrane cho thấy hiệu quả của thuốc chống loạn nhịp tim dao động từ 33% đến 57%, trong đó amiodarone có hiệu quả nhất (4). Tuy nhiên, thuốc chống loạn nhịp tim cho mục đích này lại liên quan đến nhiều biến cố bất lợi hơn, bao gồm cả tử vong. Đối với rung nhĩ kịch phát chỉ hoặc hầu như chỉ xảy ra khi nghỉ ngơi hoặc khi ngủ khi trương lực phế vị cao, thuốc có tác dụng ức chế phế vị (ví dụ: disopyramide) có thể đặc biệt hiệu quả. Rung nhĩ do tập thể dục có thể được ngăn ngừa tốt hơn bằng thuốc chẹn beta.Đối với một số bệnh nhân bị rung nhĩ kịch phát tái phát, họ cũng có thể xác định được thời điểm khởi phát thông qua các triệu chứng, một số bác sĩ lâm sàng cho dùng một liều tấn công đường uống duy nhất của thuốc flecainide (300 mg cho bệnh nhân≥70 kg, nếu không thì 200 mg) hoặc propafenone (600 mg cho bệnh nhân≥70 kg, nếu không thì 450 mg) mà bệnh nhân mang theo và tự dùng khi có tình trạng hồi hộp (phương pháp "thuốc viên trong túi") (5). Phương pháp này chỉ được chỉ định ở những bệnh nhân không có suy nút xoang hoặc rối loạn dẫn truyền nhĩ thất, block nhánh, QT dài, hội chứng Brugada, hoặc bệnh tim thực tổn. Nguy cơ chính của phương pháp này (ước tính ở mức 1%) là khả năng chuyển rung nhĩ thành cuồng động nhĩ chậm dẫn truyền theo tỷ lệ 1:1 trong phạm vi 200 đến 240 nhịp/phút. (5). Biến chứng tiềm ẩn này có thể giảm tần suất bằng cách dùng đồng thời thuốc ức chế nút AV (ví dụ: thuốc chẹn beta hoặc thuốc đối kháng canxi không dihydropyridine).Thuốc ức chế men chuyển (ACE), thuốc chẹn thụ thểangiotensin II(ARB) và thuốc chẹnaldosteronecó thể làm giảm xơ hóa cơ tim là chất nền gây ra rung nhĩ, nhưng vai trò của những loại thuốc này trong điều trị rung nhĩ thường quy vẫn chưa được xác định.Thủ thuật triệt đốt cho những bệnh nhân rung nhĩĐối với những bệnh nhân không đáp ứng được yêu cầu kiểm soát nhịp tim hoặc tần số tim hoặc những phương pháp này không hiệu quả, có thể phảitriệt đốtnút AV để gây block tim hoàn toàn; khi đó cần phải cấymáy tạo nhịp tim vĩnh viễn. Việc triệt đốt đường dẫn truyền nút AV chậm (sửa đổi nút AV) làm giảm số lượng xung động tâm nhĩ đến tâm thất và loại bỏ nhu cầu sử dụng máy tạo nhịp tim, nhưng phương pháp này được coi là kém hiệu quả hơn so với việc triệt đốt hoàn toàn và hiếm khi được sử dụng.Các thủ thuật triệt đốt qua ống thông giúp cô lập bằng điện các tĩnh mạch phổi ra khỏi tâm nhĩ trái có thể ngăn ngừa rung nhĩ mà không gây ra block nhĩ thất. Cô lập tĩnh mạch phổi có tỷ lệ thành công thấp hơn (60% đến 80%) và tỷ lệ biến chứng lớn cao hơn (1% đến 5%) so với các thủ thuật triệt đốt được sử dụng để điều trị loạn nhịp trên thất (6). Các thử nghiệm phân nhóm ngẫu nhiên trên bệnh nhân không dùng thuốc chống loạn nhịp đã chỉ ra rằng tỷ lệ tái phát loạn nhịp nhanh nhĩ thấp hơn khi triệt đốt (khoảng 30%) so với điều trị bằng thuốc (khoảng 50%) sau 17 tháng theo dõi và không có sự khác biệt đáng kể về các biến cố bất lợi nghiêm trọng (7). Hơn nữa, phân tích tổng hợp cho thấy rằng, so với điều trị nội khoa, triệt đốt qua ống thông làm giảm tỷ lệ tử vong do mọi nguyên nhân, rõ ràng nhất ở những bệnh nhân bị suy tim đồng thời và làm giảm số lần nhập viện ở những bệnh nhân bị rung nhĩ kịch phát và những bệnh nhân bị rung nhĩ dai dẳng có hoặc không có suy tim (8). Theo đó, các hướng dẫn đưa ra chỉ định loại I cho việc triệt đốt qua ống thông để kiểm soát nhịp ở những bệnh nhân bị rung nhĩ mà phương pháp kiểm soát nhịp bằng thuốc chống loạn nhịp đã thất bại, ở những bệnh nhân bị suy tim đồng thời với phân suất tống máu giảm và ở những bệnh nhân được chọn làm liệu pháp bước đầu trong giai đoạn đầu của quá trình rung nhĩ (1).Ngoài ra còn có một thủ thuật triệt đốt mở ở tim để điều trị rung nhĩ (thủ thuật maze), nhưng thủ thuật này chủ yếu dành cho những bệnh nhân có chỉ định khác để phẫu thuật tim mở thay vì được sử dụng như một thủ thuật đơn thuần (9).Các thử nghiệm lâm sàng chọn ngẫu nhiên đề cập đến nhu cầu tiếp tục dùng thuốc chống đông đường uống lâu dài sau khi thủ thuật triệt đốt dường như thành công được tiến hành. Các hướng dẫn khuyến nghị dùng thuốc chống đông máu dài hạn sau khi triệt đốt bằng cách sử dụng các hướng dẫn tương tự như đối với những bệnh nhân chưa được triệt đốt bất kể thủ thuật có thành công rõ ràng hay không (1).Dự phòng huyết khối tắc mạch.Các biện phápdài hạnđể ngăn ngừa thuyên tắc huyết khối được áp dụng cho một số bệnh nhân bị rung nhĩ tùy thuộc vào nguy cơ đột quỵ ước tính của họ so với nguy cơ chảy máu (ví dụ: theo điểmCHA(2)DS(2)-VASc[8] và công cụHAS-BLED[10]).BảngThang điểm CHA(2)DS(2)-VAScBảngThang điểm CHA(2)DS(2)-VAScThang điểm CHA(2)DS(2)-VAScThay đổiĐiểmTiền sử bị suy tim sung huyết1Tiền sử tăng huyết áp1Tuổi ≥ 752Tiền sử bị đái tháo đường1Cơn thiếu máu não cục bộ thoáng qua (TIA)2Bệnh mạch máu1Tuổi 65-741Giới (nữ)1Công cụ tính toán lâm sàngThang điểm CHA(2)DS(2)-VASc đánh giá nguy cơ đột quỵ trong rung nhĩ.Khuyến cáo điều trị thuốc chống đông trong rung nhĩ có sự khác biệt ở các vùng khác nhau. Các hướng dẫn ở Hoa Kỳ như sau (1).Liệu pháp chống đông đường uống dài hạn được khuyến nghị cho những bệnh nhân bị rung nhĩ có các triệu chứng sau (khuyến nghị loại I):Hẹp van hai lá do thấp khớp mức độ trung bình đến nặngVan tim nhân tạo cơ học (có hoặc không có rung nhĩ)Rung nhĩ không do van tim (tức là không có hẹp van hai lá do thấp khớp từ trung bình đến nặng hoặc van tim cơ học) với điểm CHA(2)DS(2)-VASc ≥ 2 ở nam giới và ≥ 3 ở nữ giớiBệnh cơ tim phì đạiNguy cơ thuyên tắc huyết khối hàng năm đối với những bệnh nhân này là ≥ 2%.Liệu pháp chống đông đường uống dài hạn là hợp lý đối với (khuyến nghị loại IIa):Bệnh nhân bị rung nhĩ không do van tim và điểm CHA(2)DS(2)-VASc là 1 ở nam giới và 2 ở nữ giớiNguy cơ thuyên tắc huyết khối hàng năm đối với những bệnh nhân này là từ 1% đến 2%.Liệu pháp chống đông đường uống dài hạn không được khuyến nghị cho những bệnh nhân có:Rung nhĩ không do van tim và điểm CHA(2)DS(2)-VASc là 0 ở nam giới và 1 ở nữ giớiNguy cơ thuyên tắc huyết khối hàng năm đối với những bệnh nhân này là < 1%.Các khuyến nghị sau đây áp dụng cho các biện pháp chống đông máu:Bệnh nhân bị rung nhĩ và van tim cơ học được điều trị bằng warfarin (khuyến nghị loại I).Bệnh nhân bị rung nhĩ vàhẹp van hai ládo thấp khớp từ trung bình đến nặng được điều trị bằng warfarin (khuyến nghị loại I).Bệnh nhân bị rung nhĩ không do van tim được điều trị bằng thuốc chống đông đường uống sẽ được dùng warfarin, apixaban, dabigatran, edoxaban hoặc rivaroxaban (khuyến nghị loại I).Khi dùng warfarin, mục tiêu tỷ lệ chuẩn hóa quốc tế (INR) là 2,0 đến 3,0.Đối với những bệnh nhân đủ điều kiện điều trị chống đông bằng warfarin (hoặc một thuốc đối kháng vitamin K khác) hoặc thuốc chống đông không phải thuốc đối kháng vitamin K như là apixaban, dabigatran, edoxaban hoặc rivaroxaban, thuốc chống đông không phải thuốc đối kháng vitamin K được ưu tiên (khuyến nghị loại I).Không khuyến nghị dùng đơn trị liệu bằng aspirin để phòng ngừa thuyên tắc huyết khối.Các hướng dẫn chung này được thay đổi ở những bệnh nhân bị suy thận trên mức trung bình với giảm sức thuyết phục đối với thuốc chống đông khi suy thận tiến triển từ giai đoạn 1, 2 và 3 của bệnh thận mạn tính (eGFR > 30 mL/phút [khuyến nghị loại I]), qua giai đoạn 4 của bệnh thận mạn tính (eGFR từ 15 đến 30 mL/phút [khuyến nghị loại IIa]), đến giai đoạn 5 của bệnh thận mạn tính (eGFR < 15 mL/phút hoặc đang chạy thận nhân tạo [khuyến nghị loại IIb]).Vì 90% số cục nghẽn ở nhĩ trái trên những bệnh nhân bị rung nhĩ không do van tim nằm ở tiểu nhĩ trái nên có thể phòng ngừa đột quỵ ở những bệnh nhân này bằng cách phẫu thuật thắt tiểu nhĩ trái hoặc bít bằng dụng cụ qua ống thông. Hướng dẫn đưa ra chỉ định loại IIa cho việc đóng tiểu nhĩ trái ở những bệnh nhân bị rung nhĩ và điểm CHA(2)DS(2)-VASc ≥ 2 khi liệu pháp chống huyết khối thích hợp bị chống chỉ định và chỉ định loại IIb ở những bệnh nhân như vậy dựa trên sở thích của bệnh nhân (1).Nguy cơ chảy máu của từng bệnh nhân có thể được ước tính bằng bất kỳ công cụ tiên lượng nào, trong đó công cụ được sử dụng phổ biến nhất là HAS-BLED (11) (xem bảngCông cụ HAS-BLED để dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩ). Điểm HAS-BLED có giá trị nhất trong việc xác định các tình trạng mà nếu được điều chỉnh, sẽ làm giảm nguy cơ chảy máu khi dùng thuốc chống đông.BảngThang điểm HAS-BLED dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩBảngThang điểm HAS-BLED dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩThang điểm HAS-BLED dự đoán nguy cơ chảy máu ở bệnh nhân bị rung nhĩThay đổiĐiểmTăng huyết áp không kiểm soát được1Chức năng thận bất thường1Chức năng gan bất thường1Đột quỵ trước đó1Tiền sử xuất huyết1INR dao động khi điều trị với warfarin (được định nghĩa là thời gian trong phạm vi điều trị dưới 60%)1Bệnh nhân cao tuổi (> 65 tuổi)1Sử dụng thuốc (được định nghĩa là sử dụng đồng thời thuốc chống viêm không steroid [NSAID] hoặc thuốc chống kết tập tiểu cầu)1Sử dụng rượu (được định nghĩa là > 8 đơn vị cồn mỗi tuần)1Công cụ tính toán lâm sàngĐiểm nguy cơ chảy máu HAS-BLEDPhòng ngừa thuyên tắc huyết khối ở bệnh nhân được sốc điện chuyển nhịpHướng dẫn đề xuất các biện pháp phòng ngừa sau đây vào thời điểm sốc điện chuyển nhịp (1):Chống đông máu ở bệnh nhân được sốc điện chuyển nhịp* Thuốc chống đông máu có thể được dùng trong<3 tuần nếu TEE không cho thấy cục nghẽn ở tâm nhĩ.TEE = siêu âm qua thực quản (để loại trừ huyết khối nhĩ trái).Nếu đã có rung nhĩ>48 giờ, bệnh nhân thường nên được dùng thuốc chống đông đường uống trong>3 tuần trước khi chuyển nhịp bằng điều trị nội khoa hoặc chuyển nhịp bằng DC. Nếu muốn sốc điện chuyển nhịp ngay lập tức, nên tiến hành siêu âm qua thực quản (TEE) để loại trừ cục nghẽn ở tâm nhĩ trước khi sốc điện chuyển nhịp. Thuốc chống đông có thể được dùng trong thời gian ngắn hơn trước khi chuyển nhịp nếu TEE không cho thấy cục nghẽn ở tâm nhĩ trái. Thuốc chống đông máu nên được tiếp tục trong ít nhất 4 tuần sau khi sốc điện chuyển nhịp tim (mỗi lần đều là khuyến nghị loại I).Nếu đã có rung nhĩ<48 giờ ở những bệnh nhân có điểm CHA(2)DS(2)-VASc ≥ 2 và chưa dùng thuốc chống đông điều trị trong > 3 tuần, TEE nên được thực hiện để loại trừ cục nghẽn ở tâm nhĩ trái trước khi sốc điện chuyển nhịp (khuyến nghị loại IIb).Nếu đã có rung nhĩ < 12 giờ và bệnh nhân có điểm CHA(2)DS(2)-VASc từ 0 đến 1 (xem bảngĐiểm CHA(2)DS(2)-VASc), lợi ích của TEE trước sốc điện chuyển nhịp và thuốc chống đông máu quanh thời điểm sốc điện chuyển nhịp là không chắc chắn (chỉ định, mà không nêu rõ, rằng nhóm bệnh nhân sau có thể được sốc điện chuyển nhịp mà không cần TEE trước sốc điện chuyển nhịp hoặc thuốc chống đông trước sốc điện chuyển nhịp.Ngọc trai & cạm bẫyNếu có thể, cần chỉ định dùng thuốc chống đông trước khi thử chuyển nhịp rung nhĩ về nhịp xoang.Việc chuyển nhịp về xoang không đồng nghĩa với việc sẽ ngừng uống thuốc chống đông ở những bệnh nhân có chỉ định phải dùng thuốc chống đông.Tài liệu tham khảo về điều trị1.Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.Circulation149(1):e1–e156, 2024. doi: 10.1161/CIR.00000000000011932.Crijns HJ, Weijs B, Fairley AM, et al: Contemporary real life cardioversion of atrial fibrillation: Results from the multinational RHYTHM-AF study.Int J Cardiol172(3):588–594, 2014 doi:10.1016/j.ijcard.2014.01.0993.Tsiachris D, Doundoulakis I, Pagkalidou E, et al: Pharmacologic Cardioversion in Patients with Paroxysmal Atrial Fibrillation: A Network Meta-Analysis.Cardiovasc Drugs Ther35(2):293–308, 2021. doi: 10.1007/s10557-020-07127-14.Valembois L, Audureau E, Takeda A, et al: Antiarrhythmics for maintaining sinus rhythm after cardioversion of atrial fibrillation.Cochrane Database Syst Rev9(9):CD005049, 2019. doi: 10.1002/14651858.CD005049.pub55.Ibrahim OA, Belley-Côté EP, Um KJ, et al: Single-dose oral anti-arrhythmic drugs for cardioversion of recent-onset atrial fibrillation: a systematic review and network meta-analysis of randomized controlled trials.Europace23(8):1200–1210, 2021. doi: 10.1093/europace/euab0146.Voskoboinik A, Moskovitch JT, Harel N, Sanders P, Kistler PM, Kalman JM: Revisiting pulmonary vein isolation alone for persistent atrial fibrillation: A systematic review and meta-analysis.Heart Rhythm14(5):661–667, 2017 doi:10.1016/j.hrthm.2017.01.0037.Razzack AA, Lak HM, Pothuru S, et al: Efficacy and Safety of Catheter Ablation vs Antiarrhythmic Drugs as Initial Therapy for Management of Symptomatic Paroxysmal Atrial Fibrillation: A Meta-Analysis.Rev Cardiovasc Med23(3):112, 2022. doi: 10.31083/j.rcm23031128.Ravi V, Poudyal A, Lin L, et al: Mortality benefit of catheter ablation versus medical therapy in atrial fibrillation: An RCT only meta-analysis.J Cardiovasc Electrophysiol33(2):178–193, 2022. doi: 10.1111/jce.153309.Guo Q, Yan F, Ouyang P, et al: Bi-atrial or left atrial ablation of atrial fibrillation during concomitant cardiac surgery: A Bayesian network meta-analysis of randomized controlled trials.J Cardiovasc Electrophysiol32(8):2316–2328, 2021. doi:10.1111/jce.1512710.Lip GY, Nieuwlaat R, Pisters R, et al: Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Hart Survey on atrial fibrillation.Chest137(2):263–272, 2010. doi: 10.1378/chest.09-158411.Pisters R, Lane DA, Nieuwlaat R, et al: A novel user-friendly score (HAS-BLED) to assess 1-year risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey.Chest138(5):1093–1100, 2010. doi: 10.1378/chest.10-0134
+
+--- 7. Những điểm chính ---
+
+Rung nhĩ là tình trạng nhịp nhĩ không đều, có thể xảy ra từng cơn hoặc liên tục.Nếu thấy QRS giãn rộng trong cơn rung nhĩ, có thể do rối loạn dẫn truyền trong thất có sẵn từ trước hoặc do hội chứng Wolff-Parkinson-White.Bệnh nhân cần được chỉ định làm điện tâm đồ, siêu âm tim và xét nghiệm chức năng tuyến giáp.Nhịp tim thường được kiểm soát ở mức<100 nhịp/phút khi nghỉ ngơi; các loại thuốc bước đầu bao gồm thuốc chẹn beta và thuốc chẹn kênh canxi nondihydropyridine (ví dụ: verapamil, diltiazem).Việc phục hồi nhịp xoang không loại bỏ được nhu cầu dùng thuốc chống đông nhưng có thể có tác dụng cho những bệnh nhân có triệu chứng kéo dài hoặc rối loạn huyết động (ví dụ: suy tim); có thể sử dụng phương pháp sốc điện chuyển nhịp đồng bộ hoặc dùng thuốc.Cần chỉ định thuốc chống đông đường uống dài hạn để ngăn ngừa nguy cơ đột quỵ cho bệnh nhân có nguy cơ thuyên tắc huyết khối.Cần chỉ định thuốc chống đông trước khi chuyển nhịp.

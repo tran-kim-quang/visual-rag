@@ -1,0 +1,3073 @@
+TIÊU ĐỀ: Nhiễm trùng HIV/AIDS ở người
+URL: https://www.msdmanuals.com/vi/professional/bệnh-truyền-nhiễm/vi-rút-gây-suy-giảm-miễn-dịch-ở-người-hiv/nhiễm-trùng-hiv-aids-ở-người
+================================================================================
+
+NỘI DUNG:
+
+Nhiễm trùng HIV/AIDS ở người
+
+Theo
+
+Edward R. Cachay
+
+,
+
+MD, MAS
+
+,
+
+Mayo Clinic, Arizona
+
+Xem xét bởi
+
+Christina A. Muzny
+
+,
+
+MD, MSPH
+
+,
+
+Division of Infectious Diseases, University of Alabama at Birmingham
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 5 2024
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1021177_vi
+
+Nhiễm vi rút gây suy giảm miễn dịch ở người (HIV) (nhiễm HIV-1 hoặc HIV-2) phá hủy tế bào lympho CD4+ và làm suy yếu khả năng miễn dịch qua trung gian tế bào, làm tăng nguy cơ mắc một số bệnh nhiễm trùng và ung thư. Nhiễm trùng ban đầu có thể gây ra bệnh sốt không đặc hiệu. Các triệu chứng tiếp theo liên quan đến suy giảm miễn dịch – tỉ lệ thuận với mức suy giảm CD4+. HIV có thể trực tiếp gây tổn thương não, tuyến sinh dục, thận và tim, gây suy giảm nhận thức, suy sinh dục, suy thận hoặc bệnh cơ tim. Các biểu hiện bao gồm từ việc mang vi rút không có triệu chứng đến HIV giai đoạn cuối (hội chứng suy giảm miễn dịch mắc phải [AIDS]), được xác định bằng sự hiện diện của một căn bệnh xác định bệnh AIDS (nhiễm trùng cơ hội nghiêm trọng hoặc ung thư) hoặc số lượng CD4
+
+<
+
+200/mcL. Nhiễm HIV có thể được chẩn đoán bằng xét nghiệm kháng thể, nucleic acid (HIV RNA) hoặc kháng nguyên (p24). Việc sàng lọc nên được thực hiện thường quy cho tất cả người lớn và thanh thiếu niên từ 13 tuổi đến 64 tuổi. Ngoài ra, phụ nữ mang thai nên được xét nghiệm HIV sớm trong mỗi lần mang thai, ngay cả khi họ đã được sàng lọc trong những lần mang thai trước đó. Điều trị nhằm mục đích ngăn chặn sự nhân lên của HIV bằng cách sử dụng phối hợp ≥ 2 loại thuốc ức chế enzym HIV; điều trị có thể khôi phục chức năng miễn dịch ở hầu hết bệnh nhân nếu duy trì được sự ức chế sao chép.
+
+Dịch tễ học
+
+|
+
+Đường lây truyền
+
+|
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Sàng lọc HIV
+
+|
+
+Điều trị
+
+|
+
+Tiên lượng
+
+|
+
+Phòng ngừa
+
+|
+
+Những điểm chính
+
+|
+
+Thông tin thêm
+
+|
+
+(Xem thêm
+
+Nhiễm vi rút gây suy giảm miễn dịch ở người (HIV) ở trẻ nhũ nhi và trẻ nhỏ
+
+.)
+
+Vi rút gây suy giảm miễn dịch ở người (HIV) là một loại retrovirus. Retroviruses được bao bọc bởi các vi RNA được xác định bởi cơ chế sao chép của chúng thông qua sao chép ngược để tạo ra bản sao DNA tích hợp trong bộ gen của tế bào chủ.
+
+Có 2 loại HIV là HIV-1 và HIV-2. HIV-1 gây ra hầu hết các trường hợp nhiễm HIV trên toàn thế giới, nhưng HIV-2 gây ra một tỷ lệ đáng kể các trường hợp lây nhiễm, đặc biệt là ở các vùng Tây Phi (
+
+1
+
+). Ở một số khu vực ở Tây Phi, cả hai loại vi rút đều phổ biến và có thể đồng nhiễm bệnh. HIV-2 dường như ít nguy hại hơn HIV-1.
+
+HIV-1 bắt nguồn từ Trung Phi vào nửa đầu thế kỷ 20, khi một con tinh tinh có liên quan đến vi rút đầu tiên đã lây nhiễm cho người. Dịch bệnh lây lan toàn cầu bắt đầu vào cuối những năm 1970, và AIDS đã được công nhận vào năm 1981.
+
+Tài liệu tham khảo chung
+
+1.
+
+Campbell-Yesufu OT, Gandhi RT
+
+: Update on human immunodeficiency virus (HIV)-2 infection.
+
+Clin Infect Dis
+
+52(6):780-787, 2011 doi: 10.1093/cid/ciq248
+
+Dịch tễ học về nhiễm HIV
+
+Các thống kê HIV toàn cầu sau đây được Tổ chức Y tế Thế giới (WHO) ước tính vào năm 2022 (xem
+
+Dữ liệu và Thống kê về HIV):
+
+Tỷ lệ nhiễm HIV trên toàn cầu – 39 triệu
+
+Trẻ em (0 tuổi đến 14 tuổi) nhiễm HIV – 1,5 triệu
+
+Những người mới được chẩn đoán nhiễm HIV – 1,3 triệu; kể từ năm 2010, số người nhiễm HIV đã giảm 38%, từ 2,1 triệu người
+
+Tỷ lệ tử vong do các nguyên nhân liên quan đến HIV – 630.000; kể từ năm 2010, tỷ lệ tử vong liên quan đến HIV đã giảm 51%, từ 1,3 triệu
+
+Những người nhiễm HIV được điều trị bằng thuốc kháng retrovirus – 29,8 triệu
+
+Những người nhiễm HIV biết tình trạng của họ – 86% (76% số người biết tình trạng của họ đang được điều trị và 71% số người đã ức chế tải lượng vi rút)
+
+Nhiễm HIV phổ biến nhất ở Châu Phi, đặc biệt là ở Châu Phi cận Sahara. WHO ước tính số liệu thống kê năm 2022 ở Châu Phi bao gồm những điều sau đây (xem
+
+Dữ liệu và thống kê về HIV):
+
+Tỷ lệ hiện mắc – 25,6 triệu (90% biết tình trạng của họ, 82% đang được điều trị và 76% đã ức chế tải lượng vi rút)
+
+Những người mới được chẩn đoán nhiễm HIV – 660.000 (giảm xuống 0,57 trên 1000 dân số không bị nhiễm từ 1,75 trên 1000 vào năm 2010)
+
+Tỷ lệ tử vong do các nguyên nhân liên quan đến HIV – 380.000 (giảm 56% so với 2010)
+
+Các ước tính gần đây nhất về HIV (ở người ≥ 13 tuổi) ở Hoa Kỳ từ năm 2021 bao gồm những điều sau đây (xem
+
+Thống kê ở Hoa Kỳ: Thông tin nhanh
+
+):
+
+Tỷ lệ hiện mắc – 1,2 triệu người (13% không biết về tình trạng của họ)
+
+Những người nhiễm HIV – 32.100 (ước tính số ca nhiễm HIV mới đã giảm 12% so với 36.500 ca vào năm 2017)
+
+Những người nhiễm HIV theo quần thể phụ – Nam giới có quan hệ tình dục đồng giới nam (22.400 [70%]); những người báo cáo có quan hệ tình dục khác giới (7.100 [22%]); những người tiêm chích ma túy (2.500 ([8%])
+
+HIV đã lây lan qua các con đường dịch tễ học khác nhau:
+
+Quan hệ tình dục đồng giới (ảnh hưởng tương đương đến nam giới và phụ nữ)
+
+Nam giới quan hệ tình dục đồng giới
+
+Tiếp xúc với máu bị nhiễm bệnh (ví dụ: như dùng chung kim tiêm và truyền máu mà không có biện pháp sàng lọc người hiến máu hiệu quả)
+
+Lây truyền từ mẹ sang con
+
+Hầu hết các trường hợp nhiễm HIV đều lây truyền qua quan hệ tình dục khác giới, nhưng các yếu tố nguy cơ khác nhau tùy theo khu vực hoặc mức thu nhập quốc gia. Ví dụ, ở các nước có nguồn lực cao, lây truyền giữa nam quan hệ tình dục đồng giới thường là cách lây nhiễm phổ biến nhất, trong khi những người tiêm chích ma túy bị ảnh hưởng không tương xứng ở Trung và Đông Âu (
+
+1, 2
+
+).
+
+Ở những vùng lây đường lây truyền qua đường tình dục là chủ yếu, nhiễm HIV có thể lan tràn qua đường tàu biển, vận tải và chuyển vùng kinh tế từ các thành phố và lan truyền sang các vùng nông thôn. Ở châu Phi, đặc biệt là miền nam châu Phi, đại dịch HIV đã giết chết hàng chục triệu người trưởng thành, tạo ra hàng triệu trẻ mồ côi. Các yếu tố liên quan đến tỷ lệ lây lan gia tăng bao gồm
+
+Nghèo đói và bạo lực tình dục
+
+Giáo dục giới tính hạn và nhận thức về HIV
+
+Các hệ thống chăm sóc sức khỏe không cung cấp khả năng tiếp cận xét nghiệm HIV và thuốc kháng retrovirút
+
+Kỳ thị, tội phạm hóa và phân biệt đối xử với người nhiễm HIV
+
+Nhiều trường hợp nhiễm trùng cơ hội trên bệnh nhân HIV làm hoạt hoá những nhiễm trùng tiềm ẩn. Vì vậy, các yếu tố dịch tễ học xác định tỷ lệ nhiễm trùng tiềm ẩn cũng ảnh hưởng đến nguy cơ nhiễm trùng cơ hội cụ thể. Ở nhiều quốc gia có tỷ lệ nhiễm HIV cao, tỷ lệ mắc
+
+bệnh lao
+
+tiềm ẩn và
+
+bệnh do toxoplasma
+
+trong dân số nói chung cao hơn các quốc gia khác. Sự gia tăng nghiêm trọng bệnh lao tái hoạt và viêm não nhiễm độc tố đã kéo theo dịch bệnh ức chế miễn dịch do HIV gây ra ở các nước này. Tương tự như vậy ở Hoa Kỳ, tỷ lệ mắc
+
+bệnh coccidioidomycosis
+
+, phổ biến ở vùng Tây Nam và
+
+bệnh histoplasma
+
+, phổ biến ở vùng Trung Tây, đã gia tăng do nhiễm HIV.
+
+Nhiễm herpesvirus 8 ở người, gây ra bệnh
+
+Kaposi sarcoma
+
+, thường gặp ở nam giới có quan hệ tình dục đồng giới nhưng hiếm gặp ở những bệnh nhân nhiễm HIV khác ở Hoa Kỳ và Châu Âu. Như vậy, tại Hoa Kỳ,
+
+>
+
+90% người nhiễm HIV phát triển ung thư Kaposi là nam giới có quan hệ tình dục đồng giới (
+
+3
+
+).
+
+Tài liệu tham khảo về dịch tễ học
+
+1.
+
+Vermund SH, Leigh-Brown AJ
+
+: The HIV epidemic: High-income countries.
+
+Cold Spring Harb Perspect Med
+
+2(5):a007195, 2012 doi: 10.1101/cshperspect.a007195
+
+2.
+
+Hamers FF, Downs AM
+
+: HIV in central and eastern Europe.
+
+Lancet
+
+361(9362):1035-1044, 2003. doi: 10.1016/S0140-6736(03)12831-0
+
+3.
+
+Bhutani M, Polizzotto MN, Uldrick TS, et al
+
+: Kaposi sarcoma-associated herpesvirus-associated malignancies: Epidemiology, pathogenesis, and advances in treatment.
+
+Semin Oncol
+
+42(2):223–246, 2015 doi: 10.1053/j.seminoncol.2014.12.027
+
+Lây truyền nhiễm HIV
+
+Sự lây truyền HIV đòi hỏi phải tiếp xúc với dịch cơ thể – cụ thể là máu, tinh dịch, dịch tiết âm đạo, sữa mẹ hoặc dịch tiết từ vết thương hoặc tổn thương da và niêm mạc – có chứa vi rút HIV tự do hoặc tế bào bị nhiễm bệnh. Khả năng lây truyền hay gặp hơn khi có nồng độ vi rút cao thường điển hình với nhiễm trùng ban đầu,hoặc ngay cả khi không có triệu chứng. Sự lây truyền qua nước bọt hay giọt bắn do ho hoặc hắt hơi, mặc dù có thể có khả năng, nhưng rất khó xảy ra.
+
+HIV không lây truyền qua tiếp xúc không liên quan đến trao đổi dịch cơ thể.
+
+Đường lây truyền thường gặp
+
+Tình dục: Lây truyền trực tiếp qua quan hệ tình dục
+
+Kim hoặc dụng cụ liên quan: Dùng chung kim tiêm có máu hoặc tiếp xúc với dụng cụ y tế bị nhiễm máu
+
+Truyền máu hoặc liên quan đến ghép tạng
+
+Theo chiều dọc: Lây truyền từ mẹ bị nhiễm bệnh sang con trong khi mang thai, sinh nở hoặc qua sữa mẹ
+
+Lây truyền HIV qua đường tình dục
+
+Các hành vi tình dục có nguy cơ cao nhất là những hành vi gây ra chấn thương niêm mạc (xem bảng
+
+Nguy cơ lây truyền HIV đối với một số dạng quan hệ tình dục
+
+. Một đánh giá có hệ thống đã báo cáo nguy cơ lây truyền theo hành vi tình dục sau đây (
+
+1
+
+):
+
+Giao hợp qua đường hậu môn: 1/72 hành vi tình dục
+
+Giao hợp qua đường hậu môn dạng luồn vào: 1 trên 909
+
+Giao hợp dương vật-âm đạo dạng tiếp xúc: 1 trên 1250
+
+Giao hợp dương vật-âm đạo dạng luồn vào: 1 trên 2500
+
+Quan hệ tình dục bằng miệng dạng tiếp xúc hoặc dạng luồn vào: 0 đến 4 trên 10.000 lần phơi nhiễm
+
+Nguy cơ lây truyền khi quan hệ tình dục qua đường miệng không tăng đáng kể nếu nuốt phải tinh dịch hoặc dịch tiết âm đạo. Tuy nhiên, vết loét há miệng, chảy máu lợi, hoặc tiếp xúc miệng với máu kinh nguyệt có thể làm tăng nguy cơ (
+
+Tình dục qua đường miệng và nguy cơ nhiễm HIV
+
+). Các hành động gây tổn thương màng nhầy như dùng tay (đưa hầu hết hoặc toàn bộ tay vào trực tràng hoặc âm đạo) và sử dụng đồ chơi tình dục. Khi sử dụng trong khi giao hợp với bạn tình nhiễm HIV, những hành vi này sẽ làm tăng nguy cơ lây truyền HIV.
+
+Viêm niêm mạc tạo điều kiện thuận lợi cho quá trình lây truyền HIV. Các vết loét trên miệng, âm đạo, dương vật hoặc trực tràng làm tăng nguy cơ lây truyền. Các bệnh nhiễm trùng lây truyền qua đường tình dục, chẳng hạn như
+
+bệnh lậu
+
+,
+
+chlamydia
+
+,
+
+bệnh do trichomonas
+
+và đặc biệt là những bệnh gây loét (ví dụ như
+
+chancroid
+
+,
+
+herpes
+
+,
+
+giang mai
+
+), làm tăng nguy cơ gấp nhiều lần.
+
+Nguy cơ lây truyền tăng lên trong giai đoạn đầu và giai đoạn tiến triển của nhiễm HIV khi nồng độ HIV trong huyết tương và trong dịch sinh dục cao hơn. Bằng chứng cho thấy những người nhiễm HIV được điều trị bằng liệu pháp kháng retrovirus có tải lượng vi rút không thể phát hiện được (bị ức chế vi rút) không truyền vi rút qua đường tình dục cho bạn tình của họ (
+
+2, 3
+
+).
+
+Cắt bao quy đầu dường như làm giảm khoảng 50% nguy cơ nam giới bị nhiễm HIV, bằng cách loại bỏ niêm mạc dương vật (mặt dưới của bao quy đầu), dễ bị nhiễm HIV hơn so với biểu mô vảy sừng hóa, phân tầng bao phủ phần còn lại của dương vật.
+
+Bảng
+
+Nguy cơ lây truyền HIV đối với một số hoạt động tình dục
+
+Nguy cơ lây truyền HIV đối với một số hoạt động tình dục
+
+Nguy cơ*
+
+Activity (Hoạt động)
+
+Không có (trừ khi có vết loét)
+
+Hôn
+
+Chà xát và mát xa cơ thể
+
+Sử dụng các thiết bị tình dục riêng lẻ (ví dụ: đồ chơi tình dục)
+
+Sự kích thích sinh dục của bạn tình nhưng không tiếp xúc với tinh dịch hoặc dịch âm đạo
+
+Tắm bồn hoặc tắm vòi cùng nhau
+
+Tiếp xúc với phân hoặc nước tiểu nếu da còn nguyên vẹn
+
+Lý thuyết (nguy cơ rất thấp nếu không có vết loét)
+
+Hôn ướt
+
+Quan hệ tình dục qua đường miệng-dương vật dạng tiếp xúc mà không xuất tinh hoặc nếu sử dụng bao cao su
+
+Quan hệ tình dục qua đường miệng-âm đạo nếu sử dụng rào cản
+
+Tiếp xúc miệng-hậu môn
+
+Dùng ngón tay đưa vào âm đạo hoặc hậu môn, có hoặc không có găng tay
+
+Sử dụng các thiết bị/đồ chơi tình dục được khử trùng trước khi được dùng chung với bạn tình
+
+Thấp
+
+Quan hệ tình dục qua đường miệng-dương vật dạng tiếp xúc mà không có bao cao su và xuất tinh
+
+Quan hệ tình dục qua đường miệng được thực hiện cho phụ nữ nếu không sử dụng rào cản
+
+Sự giao hợp âm đạo hoặc hậu môn nếu sử dụng bao cao su đúng cách
+
+Sử dụng các thiết bị/đồ chơi tình dục đưa vào dùng chung nhưng không được khử trùng
+
+Cao
+
+Sự giao hợp âm đạo hoặc hậu môn có hoặc không xuất tinh nếu bao cao su không được sử dụng hoặc không được sử dụng đúng cách
+
+* Mọi nguy cơ đều xảy ra khi quan hệ tình dục với người có tải lượng vi rút HIV có thể phát hiện được.
+
+* Mọi nguy cơ đều xảy ra khi quan hệ tình dục với người có tải lượng vi rút HIV có thể phát hiện được.
+
+Lây truyền qua bơm tiêm hoặc dụng cụ
+
+Nguy cơ lây truyền HIV sau khi dùng dụng cụ y tế bị nhiễm máu xâm nhập vào da là khoảng 1/400 nếu không dùng thuốc kháng vi rút dự phòng sau phơi nhiễm. (
+
+1
+
+). Dự phòng kháng retrovirus sau phơi nhiễm càng sớm càng tốt sau khi phơi nhiễm được khuyến nghị (
+
+Hướng dẫn xử trí phơi nhiễm nghề nghiệp với HIV của Hoa Kỳ
+
+). Rủi ro có vẻ cao hơn nếu vết đâm kim sâu hoặc có máu lẫn vào (ví dụ như với một kim tiêm bị dính máu). Rủi ro cũng tăng lên khi sử dụng kim chích rỗng vào động mạch hoặc tĩnh mạch so với kim đặc hoặc các vật thâm nhập khác có chứa máu vì có thể chuyển lượng máu lớn hơn. Vì vậy, dùng chung kim tiêm đã đâm vào tĩnh mạch của người khác là một hoạt động có nguy cơ rất cao.
+
+Nguy cơ lây truyền từ các bác sĩ lâm sàng nhiễm HIV thực hiện các biện pháp phòng ngừa thích hợp là không rõ ràng nhưng có vẻ rất ít (
+
+Giám sát HIV/AIDS mắc phải do nghề nghiệp
+
+). Tuy nhiên, các nghiên cứu sâu rộng trên các bệnh nhân được chăm sóc bởi các bác sĩ nhiễm HIV khác, bao gồm cả các bác sĩ phẫu thuật, đã phát hiện ra một số trường hợp khác.
+
+Lây truyền dọc (từ mẹ sang con)
+
+HIV có thể lây truyền từ mẹ sang thai nhi hoặc trẻ sơ sinh:
+
+Trong khi mang thai, qua nhau thai
+
+Trong khi sinh con
+
+Qua sữa mẹ
+
+Nguy cơ lây truyền dọc nói chung khi không dùng thuốc kháng retrovirus là 35% đến 45% (
+
+4
+
+).
+
+Tỷ lệ lây truyền có thể giảm đáng kể bằng cách điều trị cho phụ nữ mang thai nhiễm HIV bằng thuốc kháng retrovirus trong thời kỳ mang thai, chuyển dạ và cho con bú.
+
+Sinh mổ làm giảm nguy cơ và được ưu tiên cho phụ nữ mang thai nhiễm HIV có tải lượng vi rút > 1.000 bản sao/mL khi hoặc gần khi sinh, không phụ thuộc vào liệu pháp kháng retrovirus trước sinh hoặc không rõ nồng độ (
+
+5
+
+).
+
+Xét nghiệm và điều trị dự phòng cho trẻ sơ sinh cũng làm giảm nguy cơ.
+
+HIV được bài tiết qua sữa mẹ. Nguy cơ lây truyền tổng thể qua việc cho con bú là khoảng 14%, phản ánh sự khác nhau về thời gian cho con bú và nồng độ RNA vi rút trong huyết tương (ví dụ: nguy cơ cao ở những phụ nữ bị nhiễm bệnh khi mang thai hoặc trong thời gian cho con bú) (
+
+6
+
+).
+
+Ở các quốc gia có nguồn lực cao, phụ nữ nhiễm HIV được khuyên
+
+không
+
+nên cho con bú (xem
+
+CDC: Breastfeeding and Special Circumstances
+
+). Tuy nhiên, ở những nơi hạn chế về nguồn lực, nuôi con bằng sữa mẹ có liên quan đến việc giảm tỷ lệ mắc bệnh và tử vong ở trẻ sơ sinh do suy dinh dưỡng và các bệnh truyền nhiễm. Đối với phụ nữ nhiễm HIV ở những nơi có nguồn lực hạn chế, Tổ chức Y tế Thế giới (WHO) khuyến nghị điều trị bằng thuốc kháng retrovirus và hỗ trợ tuân thủ kết hợp với việc cho con bú trong ít nhất 12 tháng (xem
+
+WHO: Guidelines on HIV and Infant Feeding
+
+).
+
+Vì nhiều phụ nữ nhiễm HIV và con của họ được điều trị hoặc dùng thuốc kháng retrovirus dự phòng trong thời kỳ mang thai nên tỷ lệ nhiễm HIV ở trẻ em đã giảm đáng kể ở nhiều quốc gia (xem
+
+Nhiễm vi rút gây suy giảm miễn dịch ở người (HIV) ở trẻ sơ sinh và trẻ em
+
+).
+
+Lây truyền qua truyền máu và liên quan đến ghép tạng
+
+Việc sàng lọc những người hiến máu bằng xét nghiệm tìm cả kháng thể kháng HIV và RNA của HIV đã giảm thiểu nguy cơ lây truyền qua truyền máu. Nguy cơ lây truyền HIV hiện nay qua truyền máu được ước tính là < 1/2.000.000 trên mỗi đơn vị được truyền máu ở Hoa Kỳ (
+
+7
+
+). Tuy nhiên, ở nhiều quốc gia có tỷ lệ nhiễm HIV cao, nơi máu và các sản phẩm máu không được sàng lọc HIV, nguy cơ lây nhiễm HIV qua đường truyền máu vẫn cao.
+
+Hiếm khi, HIV đã được truyền qua ghép nội tạng từ những người hiến tặng huyết thanh dương tính HIV. Tình trạng nhiễm bệnh đã phát triển ở những người nhận thận, gan, tim, tuyến tụy, xương và da – tất cả đều chứa máu – nhưng sàng lọc HIV làm giảm đáng kể nguy cơ lây truyền. Việc lây truyền HIV thậm chí còn khó xảy ra hơn khi ghép giác mạc, xương được xử lý bằng ethanol và làm khô lạnh, xương đông lạnh không có tủy, dây chằng hoặc mô liên kết làm khô lạnh hoặc làm khô lạnh và chiếu xạ màng cứng.
+
+Việc lây truyền HIV có thể thông qua cách thụ tinh nhân tạo nếu sử dụng tinh trùng từ những người cho nhiễm HIV. Ở Mỹ, rửa tinh trùng được xem là một phương pháp hiệu quả để giảm nguy cơ thụ tinh đối với người phối giống từ người hiến tinh trùng có HIV dương tính.
+
+Tài liệu tham khảo về truyền bệnh
+
+1.
+
+Patel P, Borkowf CB, Brooks JT, et al
+
+: Estimating per-act HIV transmission risk: A systematic review.
+
+AIDS
+
+28(10):1509-1519, 2014. doi: 10.1097/QAD.0000000000000298
+
+2.
+
+Rodger AJ, Cambiano V, Bruun T, et al
+
+: Risk of HIV transmission through condomless sex in serodifferent gay couples with the HIV-positive partner taking suppressive antiretroviral therapy (PARTNER): Final results of a multicentre, prospective, observational study.
+
+Lancet
+
+393(10189):2428-2438, 2019. doi:10.1016/S0140-6736(19)30418-0
+
+3.
+
+Rodger AJ, Cambiano V, Bruun T, et al
+
+: Sexual activity without condoms and risk of HIV transmission in serodifferent couples when the HIV-positive partner is using suppressive antiretroviral therapy [published correction appears in
+
+JAMA
+
+316(2):171-181, 2016 doi: 10.1001/jama.2016.5148. Erratum in:
+
+JAMA
+
+316(6):667. Erratum in:
+
+JAMA
+
+316(19):2048, 2016. PMID: 27404185
+
+4.
+
+Newell ML, Coovadia H, Cortina-Borja M, et al
+
+: Mortality of infected and uninfected infants born to HIV-infected mothers in Africa: A pooled analysis.
+
+Lancet
+
+364(9441):1236-1243, 2004. doi:10.1016/S0140-6736(04)17140-7
+
+5.
+
+ACOG Committee Opinion No. 751 Summary
+
+: Labor and delivery management of women with human immunodeficiency virus infection.
+
+Obstet Gynecol
+
+32(3):803-804, 2018 doi: 10.1097/AOG.0000000000002821.
+
+6.
+
+Dunn DT, Newell ML, Ades AE, Peckham CS
+
+: Risk of human immunodeficiency virus type 1 transmission through breastfeeding.
+
+Lancet
+
+340(8819):585-588, 1992 doi:10.1016/0140-6736(92)92115-v
+
+7.
+
+Steele WR, Dodd RY, Notari EP, et al
+
+: HIV, HCV, and HBV incidence and residual risk in US blood donors before and after implementation of the 12-month deferral policy for men who have sex with men.
+
+Transfusion
+
+61(3):839-850, 2021 doi: 10.1111/trf.16250
+
+Sinh lý bệnh của nhiễm HIV
+
+HIV bám vào và xâm nhập vào tế bào T của vật chủ thông qua các phân tử CD4+ và thụ thể chemokine (xem hình
+
+Vòng đời HIV đơn giản hóa
+
+). Sau khi dính vào, HIV RNA và một số enzyme mã hoá HIV được giải phóng vào tế bào chủ.
+
+Sự sao chép của vi rút đòi hỏi enzyme phiên mã ngược (một DNA polymerase phụ thuộc RNA) sao chép RNA của HIV, tạo ra DNA tiền vi rút; cơ chế sao chép này dễ mắc lỗi, dẫn đến đột biến thường xuyên và do đó tạo ra các kiểu gen HIV mới. Những đột biến tạo điều kiện cho việc tạo ra HIV có thể chống lại sự kiểm soát bởi hệ thống miễn dịch của cơ thể và thuốc kháng vi rút.
+
+Các pro-virus DNA xâm nhập vào nhân tế bào của tế bào chủ và được tích hợp vào DNA của cơ thể trong một quá trình liên quan đến integrase, một enzyme HIV khác. Với mỗi tế bào được phân chia, sự kết hợp tiền vi rút DNA sẽ được nhân lên cùng với DNA của vật chủ. Sau đó, ADN HIV tiền vi rút có thể được sao chép sang RNA HIV và dịch mã sang các protein HIV, chẳng hạn như các glycoprotein vỏ bao gồm 41 và 120. Các protein HIV này được lắp ráp thành các virion HIV ở trong tế bào chủ và tạo thành túi trên của màng tế bào của người biến đổi. Mỗi tế bào chủ có thể tạo ra hàng nghìn virion.
+
+Sau khi nẩy chồi, protease, một enzyme HIV khác, phân cắt các protein vi rút, biến đổi virion chưa trưởng thành thành một virion trưởng thành, có thể lây nhiễm.
+
+Chu kỳ sống đơn giản của HIV
+
+HIV gắn kết và xâm nhập vào các tế bào T của vật chủ, sau đó giải phóng HIV RNA và các enzyme vào tế bào chủ. Men sao chép ngược của HIV tạo ra RNA của vi rút như là một tiền vi rút DNA. Tiền vi rút DNA xâm nhập vào nhân tế bào của tế bào chủ, và men integrase tạo điều kiện cho sự kết hợp DNA tiền vi rút vào DNA của vật chủ. Tế bào chủ sau đó sản sinh RNA HIV và các protein HIV. Protein HIV được tập hợp thành virion và nảy chồi HIV từ bề mặt tế bào. Protease HIV phân cắt các protein của vi rút, biến virion chưa trưởng thành thành một virion trưởng thành, vi rút lây nhiễm.
+
+Các tế bào lympho CD4+ bị nhiễm sản xuất
+
+>
+
+98% virion HIV trong huyết tương. Một phần nhỏ của các tế bào lympho CD4+ bị nhiễm bệnh tạo thành một hồ chứa HIV có thể tái hoạt động lại (ví dụ, nếu ngừng điều trị bằng thuốc kháng vi-rút).
+
+Nhiễm HIV từ vừa đến nặng, khoảng 10
+
+8
+
+đến 10
+
+9
+
+virion được tạo ra và loại bỏ hàng ngày. Thời gian bán thải trung bình của HIV trong huyết tương là khoảng 36 giờ, khoảng 24 giờ trong tế bào và khoảng 6 giờ đối với vi rút ngoại bào. Mỗi ngày, khoảng 30% tổng gánh nặng HIV ở một người nhiễm bệnh được xoay vòng. Ngoài ra, 5 đến 7% tế bào CD4 chuyển giao hàng ngày và toàn bộ nhóm tế bào CD4 chu chuyển 2 ngày một lần (
+
+1
+
+). Do đó, nhiễm HIV giai đoạn cuối (AIDS) là kết quả của sự nhân lên liên tục và nhất quán của HIV, dẫn đến vi rút và tình trạng tiêu diệt tế bào lympho CD4 qua trung gian miễn dịch. Hơn nữa, khối lượng cao của việc sao chép HIV và tần suất cao các lỗi sao chép bằng phương pháp sao chép ngược HIV cho kết quả là nhiều đột biến, tăng khả năng tạo ra các dòng kháng miễn dịch của vật chủ và kháng thuốc.
+
+Nhiễm một loại retrovirus khác, vi rút T hướng lympho 1 ở người (HTLV-1), ít phổ biến hơn nhưng cũng có thể gây bệnh nghiêm trọng.
+
+Hệ thống miễn dịch
+
+Hai hậu quả chính của nhiễm HIV là
+
+Tổn thương cho hệ thống miễn dịch, đặc biệt là sự suy giảm của tế bào lympho CD4+
+
+Hoạt hóa miễn dịch
+
+Tế bào lympho CD4+ liên quan đến đáp ứng miễn dịch qua trung gian tế bào và, ở mức độ thấp hơn, miễn dịch dịch thể. Sự suy giảm CD4+ có thể là kết quả của những điều sau:
+
+Tác dụng gây độc trực tiếp của sự nhân lên HIV
+
+Nhiễm độc miễn dịch qua trung gian tế bào
+
+Tổn thương tuyến ức làm hư hỏng sản xuất bạch cầu lympho
+
+Các tế bào lympho CD4+ bị nhiễm có thời gian bán hủy khoảng 2 ngày, ngắn hơn nhiều so với các tế bào CD4+ không nhiễm. Tỷ lệ phá hủy CD4+ bạch cầu lympho tương quan với nồng độ HIV trong huyết tương. Thông thường, trong giai đoạn nhiễm trùng ban đầu hoặc tiên phát, mức độ HIV cao nhất (
+
+>
+
+10
+
+6
+
+bản sao/mL), và số lượng CD4 giảm nhanh chóng.
+
+Số lượng CD4 bình thường là khoảng 750/mcL, và miễn dịch bị ảnh hưởng tối thiểu nếu đếm là
+
+>
+
+350/mcL. Nếu số lượng giảm xuống dưới khoảng 200/mcL, sự mất miễn dịch qua trung gian tế bào cho phép một loạt các mầm bệnh cơ hội được kích hoạt từ các trạng thái tiềm ẩn và gây ra bệnh lâm sàng.
+
+Hệ miễn dịch dịch thể cũng bị ảnh hưởng. Sự tăng sản của các tế bào B trong các hạch bạch huyết gây ra hậu quả ung thư hạch, và sự tiết ra các kháng thể đối với các kháng nguyên trước đây tăng, thường dẫn đến tăng globulin máu. Nồng độ kháng thể (đặc biệt là IgG và IgA) và chuẩn độ chống lại các kháng nguyên gặp phải trước đây có thể cao bất thường. Tuy nhiên, phản ứng kháng thể với kháng nguyên mới (ví dụ như trong vắc-xin) giảm khi lượng CD4 giảm.
+
+Sự tăng miễn dịch bất thường có thể gây ra một phần do sự hấp thu các thành phần của vi khuẩn ruột. Sự kích hoạt hệ miễn dịch góp phần làm suy giảm CD4+ và ức chế miễn dịch bằng các cơ chế vẫn còn chưa rõ ràng.
+
+Các mô khác
+
+HIV cũng nhiễm vào các tế bào đơn nhân không phải lympho (ví dụ như các tế bào trong da, các đại thực bào, tế bào thần kinh đệm) và các tế bào não, hệ thống sinh dục, tim và thận, gây bệnh trong hệ thống cơ quan tương ứng.
+
+Các chủng HIV ở một số ngăn, chẳng hạn như hệ thần kinh (não và dịch não tủy) và đường sinh dục (tinh dịch, dịch cổ tử cung-âm đạo), có thể có các đột biến và trở nên khác biệt về mặt di truyền với các chủng trong huyết tương, cho thấy rằng các chủng đó đã được chọn lọc bởi hoặc có thích nghi với các khoang giải phẫu này (
+
+2–4
+
+). Do đó, nồng độ HIV và mô hình đề kháng ở các bộ phận này có thể thay đổi một cách độc lập so với trong huyết tương.
+
+Tiến triển của bệnh
+
+Trong vài tuần đầu tiên của nhiễm trùng nguyên phát, có phản ứng miễn dịch dịch thể và tế bào:
+
+Miễn dịch dịch thể:
+
+Các kháng thể chống HIV thường được đo lường trong vòng vài tuần sau khi phơi nhiễm; tuy nhiên, các kháng thể không thể kiểm soát hoàn toàn việc nhiễm HIV vì các dạng HIV biến đổi không được kiểm soát bởi các kháng thể chống HIV hiện tại của bệnh nhân.
+
+Miễn dịch tế bào:
+
+Sự miễn dịch qua trung gian qua tế bào là một phương tiện quan trọng hơn để kiểm soát mức độ cao phơi nhiễm HIV (thường là trên 10
+
+6
+
+bản sao/mL) lúc đầu. Ở một phần nhỏ bệnh nhân có sự đột biến nhanh chóng của các kháng nguyên vi rút, nơi mà các chất trung gian gây độc tác dụng đến, làm phá vỡ sự kiểm soát vi rút.
+
+Nồng độ virion HIV trong huyết tương, thể hiện bằng số bản sao RNA HIV/mL, ổn định sau khoảng 6 tháng ở mức (điểm đặt) rất khác nhau ở các bệnh nhân nhưng trung bình 30.000 đến 100.000/mL (4,2 đến 5 log
+
+10
+
+/mL). Sự thay đổi này phụ thuộc vào cách các yếu tố vật chủ tương tác và tác động đến sự đa dạng về mặt di truyền của vi rút HIV (
+
+5
+
+). Điểm đặt này càng cao thì số lượng CD4 càng giảm nhanh đến mức làm suy giảm nghiêm trọng khả năng miễn dịch (
+
+<
+
+200/mcL) và dẫn đến nhiễm trùng cơ hội và ung thư xác định HIV giai đoạn cuối (
+
+6, 7
+
+).
+
+Nguy cơ và mức độ nặng của các bệnh nhiễm trùng cơ hội, HIV giai đoạn cuối và
+
+ung thư liên quan đến AIDS
+
+được xác định bởi 2 yếu tố:
+
+Số lượng CD4
+
+Tiếp xúc với mầm bệnh cơ hội
+
+Nguy cơ nhiễm trùng cơ hội đặc biệt tăng dưới ngưỡng CD4 khoảng 200/mcL đối với một số bệnh nhiễm trùng và 50/mcL với các bệnh khác, như sau:
+
+Số CD4
+
+<
+
+200/mcL: Tăng nguy cơ
+
+viêm phổi do Pneumocystis jirovecii
+
+,
+
+viêm não do toxoplasma
+
+và
+
+viêm màng não do cryptococcus
+
+Số CD4
+
+<
+
+50/mcL: Tăng nguy cơ nhiễm
+
+cytomegalovirus
+
+(CMV) và
+
+Mycobacteria aviuim complex (MAC)
+
+Cứ tăng 3 lần (0,5 log
+
+10
+
+) RNA của HIV trong huyết tương ở những bệnh nhân không được điều trị, nguy cơ tiến triển thành HIV giai đoạn cuối hoặc tử vong trong 2 năm đến 3 năm tới sẽ tăng khoảng 50% (
+
+6
+
+).
+
+Nếu không điều trị, nguy cơ tiến triển thành HIV giai đoạn cuối là khoảng 1% đến 2%/năm trong 2 năm đến 3 năm đầu nhiễm bệnh và khoảng 5% đến 6%/năm sau đó. Cuối cùng, HIV giai đoạn cuối hầu như luôn phát triển ở những bệnh nhân không được điều trị.
+
+Nhiễm trùng HTLV
+
+Nhiễm siêu vi T-lymphotropic ở người (HTLV) 1 hoặc 2 có thể gây bệnh bạch cầu tế bào T và u lympho, hạch to, phì đại gan lách, tổn thương da và giảm miễn dịch. Một số bệnh nhân nhiễm HTLV phát triển các bệnh nhiễm trùng tương tự như nhiễm trùng xảy ra ở bệnh nhân nhiễm HIV. HTLV-1 cũng có thể gây ra
+
+bệnh lí tủy/paraparesis co cứng nhiệt đới
+
+.
+
+Hầu hết các trường hợp đều bị lây truyền
+
+Từ mẹ sang con bằng sữa mẹ
+
+HTLV-1 cũng có thể bị lây truyền
+
+Đường tình dục
+
+Đường máu
+
+Hiếm khi, thông qua việc cấy ghép các cơ quan từ những người hiến mô huyết thanh HTLV-1
+
+Tài liệu tham khảo sinh bệnh học
+
+1.
+
+Ho DD, Neumann AU, Perelson AS, et al
+
+: Rapid turnover of plasma virions and CD4 lymphocytes in HIV-1 infection.
+
+Nature
+
+373(6510):123-126, 1995. doi: 10.1038/373123a0
+
+2.
+
+Bednar MM, Sturdevant CB, Tompkins LA, et al
+
+: Compartmentalization, viral evolution, and viral latency of HIV in the CNS.
+
+Curr HIV/AIDS Rep
+
+12(2):262-271, 2015. doi:10.1007/s11904-015-0265-9
+
+3.
+
+Mabvakure BM, Lambson BE, Ramdayal K, et al
+
+: Evidence for both intermittent and persistent compartmentalization of HIV-1 in the female genital tract.
+
+J Virol
+
+93(10):e00311-e00319, 2019 doi:10.1128/JVI.00311-19
+
+4.
+
+Ghosn J, Viard JP, Katlama C, et al
+
+: Evidence of genotypic resistance diversity of archived and circulating viral strains in blood and semen of pre-treated HIV-infected men.
+
+AIDS
+
+(London, England). 18(3):447-457, 2004. doi: 10.1097/00002030-200402200-00011
+
+5.
+
+Bartha I, McLaren PJ, Brumme C, et al
+
+: Estimating the respective contributions of human and viral genetic variation to HIV control.
+
+PLoS Comput Biol
+
+13(2):e1005339, 2017. Xuất bản ngày 9 tháng 2 năm 2017. doi:10.1371/journal.pcbi.1005339
+
+6.
+
+Lavreys L, Baeten JM, Chohan V, et al
+
+: Higher set point plasma viral load and more-severe acute HIV type 1 (HIV-1) illness predict mortality among high-risk HIV-1-infected African women.
+
+Clin Infect Dis
+
+42(9):1333-9, 2006 doi: 10.1086/503258
+
+7.
+
+Lyles RH, Muñoz A, Yamashita TE, et al
+
+: Natural history of human immunodeficiency virus type 1 viremia after seroconversion and proximal to AIDS in a large cohort of homosexual men. Multicenter AIDS cohort study.
+
+J Infect Dis
+
+181(3):872-80, 2000. doi: 10.1086/315339
+
+Các triệu chứng và dấu hiệu nhiễm HIV
+
+Nhiễm HIV ban đầu
+
+Ban đầu, nhiễm HIV nguyên phát có thể không có triệu chứng hoặc gây triệu chứng không đặc hiệu tạm thời (hội chứng nhiễm vi rút cấp tính).
+
+Bệnh nấm Candida miệng (niêm mạc môi)
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Nấm candida ở miệng do nhiễm HIV
+
+Hình ảnh
+
+© Springer Science+Business Media
+
+Hội chứng nhiễm vi rút cấp tính
+
+thường bắt đầu trong vòng 1 đến 4 tuần của nhiễm trùng và thường kéo dài từ 3 đến 14 ngày. Các triệu chứng và dấu hiệu thường bị nhầm lẫn với nhiễm bệnh bạch cầu đơn nhân hoặc các hội chứng vi rút không đặc hiệu lành tính và có thể bao gồm sốt, khó chịu, mệt mỏi, một số loại viêm da, đau họng, chứng đau khớp, bệnh hạch lympho toàn thân, và viêm màng não nhiễm khuẩn.
+
+Sau khi các triệu chứng đầu tiên biến mất, hầu hết bệnh nhân, ngay cả khi không điều trị, không có triệu chứng hoặc chỉ một vài triệu chứng nhẹ, không liên tục, không đặc hiệu trong một khoảng thời gian rất khác nhau (từ 2 đến 15 năm).
+
+Triệu chứng trong giai đoạn không có triệu chứng này có thể là kết quả trực tiếp từ nhiễm HIV hoặc do nhiễm trùng cơ hội. Những điều sau đây là phổ biến nhất:
+
+Hạch to
+
+Mảng trắng do nấm candida miệng
+
+Herpes zoster
+
+Bệnh tiêu chảy
+
+Mệt mỏi
+
+Sốt với vã mồ hôi từng đợt
+
+Triệu chứng không đặc hiệu, giảm các dòng tế bào máu từ nhẹ đến trung bình (ví dụ, giảm bạch cầu, thiếu máu, giảm tiểu cầu) cũng phổ biến. Một số bệnh nhân trải qua sự suy kiệt tiến triển (có thể liên quan đến chán ăn và tăng sự dị hoá do nhiễm trùng) và sốt nhẹ hoặc tiêu chảy.
+
+Nhiễm HIV nguy hiểm
+
+Khi số lượng CD4 giảm xuống
+
+<
+
+200/mcL, các triệu chứng không đặc hiệu có thể trở nên trầm trọng hơn và một loạt các bệnh xác định AIDS phát sinh.
+
+Ở những bệnh nhân nhiễm HIV, một số hội chứng thường gặp và có thể cần phải xem xét các vấn đề khác nhau (xem bảng
+
+Các biểu hiện chung của nhiễm HIV qua hệ thống nội tạng
+
+). Một số bệnh nhân có biểu hiện ung thư (ví dụ như sarcoma Kaposi, u lympho tế bào B) xảy ra thường xuyên hơn, nghiêm trọng bất thường hoặc có những đặc điểm riêng ở bệnh nhân nhiễm HIV (xem
+
+Các bệnh ung thư thường gặp ở bệnh nhân nhiễm HIV
+
+). Ở những bệnh nhân khác, rối loạn chức năng thần kinh có thể xảy ra.
+
+Đánh giá có thể phát hiện các nhiễm trùng ít khi xảy ra trong cộng đồng, như
+
+Nhiễm trùng lan toả
+
+mycobacteria
+
+Nhiễm nấm
+
+Pneumocystis jirovecii
+
+nhiễm trùng
+
+Cryptococcus neoformans
+
+Nhiễm nấm khác
+
+Tình trạng nhiễm bệnh cũng xảy ra trong dân số nói chung nhưng gợi ý nhiễm HIV tiến triển nếu bệnh nặng bất thường hoặc thường xuyên tái phát bao gồm
+
+Herpes zoster
+
+Herpes simplex
+
+Candida âm đạo
+
+Nhiễm phế cầu
+
+xâm lấn
+
+nhiễm trùng huyết
+
+Salmonella
+
+Các biểu hiện bổ sung của nhiễm HIV
+
+Nhiễm Bartonella lan tỏa trong nhiễm HIV
+
+Bệnh nhân nhiễm HIV này có các nốt sẩn lan rộng trên da trên mặt cũng như các nốt sần lồi ra ngoài trên mí mắt.
+
+© Springer Science+Business Media
+
+Ghẻ vảy (Na Uy)
+
+Bức ảnh này cho thấy các mảng vảy và tăng sừng lan tỏa ở một bệnh nhân nhiễm HIV và bệnh ghẻ vảy.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma (dạng liên quan đến AIDS)
+
+Sarcoma Kaposi liên quan đến AIDS là một khối u đa trung tâm, hung hãn, có thể ảnh hưởng đến mặt, thân, bề mặt niêm mạc, hệ bạch huyết hoặc đường tiêu hóa. Tổn thương xuất hiện dưới dạng các dát, mảng hoặc khối u có màu hơi xanh đến hơi tím.
+
+... đọc thêm
+
+Hình ảnh do Sol Silverman, Jr. cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Kaposi Sarcoma (Giai đoạn đầu)
+
+Bức ảnh này cho thấy các nốt màu đỏ tía phù hợp với bệnh ung thư Kaposi trên da mí mắt dưới ở một bệnh nhân nhiễm HIV.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma (mặt)
+
+Bức ảnh này cho thấy Kaposi sarcoma ở mặt, tai và cổ.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma (vai)
+
+Bức ảnh này cho thấy các mảng hình bầu dục lan rộng của Kaposi sarcoma trên vai của một bệnh nhân nhiễm HIV.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma
+
+Bức ảnh này cho thấy những mảng bám màu tím trên cẳng tay của một bệnh nhân nhiễm HIV.
+
+© Springer Science+Business Media
+
+Bạch sản dạng lông ở miệng
+
+Bạch sản dạng lông ở miệng xuất hiện dưới dạng mụn màu trắng nhô lên ở rìa bên của lưỡi.
+
+Hình ảnh của J.S. Greenspan, BDS, Đại học California, San Francisco và Sol Silverman, Jr., DDS thông qua Thư viện hình ảnh y tế công cộng của Trung tâm kiểm soát và phòng ngừa dịch bệnh.
+
+Ung thư biểu mô hậu môn
+
+Bức ảnh này cho thấy condylomata (1) và ung thư xâm lấn tế bào vảy (2) do nhiễm vi rút u nhú ở người (HPV) dai dẳng ở người nhiễm HIV.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Edward R. Cachay cung cấp.
+
+Nhiễm Bartonella lan tỏa trong nhiễm HIV
+
+Bệnh nhân nhiễm HIV này có các nốt sẩn lan rộng trên da trên mặt cũng như các nốt sần lồi ra ngoài trên mí mắt.
+
+© Springer Science+Business Media
+
+Ghẻ vảy (Na Uy)
+
+Bức ảnh này cho thấy các mảng vảy và tăng sừng lan tỏa ở một bệnh nhân nhiễm HIV và bệnh ghẻ vảy.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma (dạng liên quan đến AIDS)
+
+Sarcoma Kaposi liên quan đến AIDS là một khối u đa trung tâm, hung hãn, có thể ảnh hưởng đến mặt, thân, bề mặt niêm mạc, hệ bạch huyết hoặc đường tiêu hóa. Tổn thương xuất hiện dưới dạng các dát, mảng hoặc khối u có màu hơi xanh đến hơi tím.
+
+... đọc thêm
+
+Hình ảnh do Sol Silverman, Jr. cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.
+
+Kaposi Sarcoma (Giai đoạn đầu)
+
+Bức ảnh này cho thấy các nốt màu đỏ tía phù hợp với bệnh ung thư Kaposi trên da mí mắt dưới ở một bệnh nhân nhiễm HIV.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma (mặt)
+
+Bức ảnh này cho thấy Kaposi sarcoma ở mặt, tai và cổ.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma (vai)
+
+Bức ảnh này cho thấy các mảng hình bầu dục lan rộng của Kaposi sarcoma trên vai của một bệnh nhân nhiễm HIV.
+
+© Springer Science+Business Media
+
+Kaposi Sarcoma
+
+Bức ảnh này cho thấy những mảng bám màu tím trên cẳng tay của một bệnh nhân nhiễm HIV.
+
+© Springer Science+Business Media
+
+Bạch sản dạng lông ở miệng
+
+Bạch sản dạng lông ở miệng xuất hiện dưới dạng mụn màu trắng nhô lên ở rìa bên của lưỡi.
+
+Hình ảnh của J.S. Greenspan, BDS, Đại học California, San Francisco và Sol Silverman, Jr., DDS thông qua Thư viện hình ảnh y tế công cộng của Trung tâm kiểm soát và phòng ngừa dịch bệnh.
+
+Ung thư biểu mô hậu môn
+
+Bức ảnh này cho thấy condylomata (1) và ung thư xâm lấn tế bào vảy (2) do nhiễm vi rút u nhú ở người (HPV) dai dẳng ở người nhiễm HIV.
+
+... đọc thêm
+
+Hình ảnh do bác sĩ Edward R. Cachay cung cấp.
+
+Bảng
+
+Các biểu hiện thường gặp liên quan đến nhiễm HIV theo hệ thống cơ quan
+
+Bảng
+
+Các biểu hiện thường gặp liên quan đến nhiễm HIV theo hệ thống cơ quan
+
+Các biểu hiện thường gặp liên quan đến nhiễm HIV theo hệ thống cơ quan
+
+Hội chứng
+
+Nguyên nhân
+
+Đánh giá Chẩn đoán
+
+Điều trị*
+
+Triệu chứng/Nhận xét
+
+Tim mạch
+
+Bệnh cơ tim
+
+Gây tổn thương vi rút trực tiếp tới các tế bào cơ tim
+
+Siêu âm tim
+
+Thuốc kháng vi rút
+
+Các triệu chứng suy tim
+
+Đường tiêu hóa
+
+Viêm thực quản
+
+Bệnh nấm Candida,
+
+CMV
+
+, hoặc là
+
+herpes simplex vi rút
+
+Nội soi thực quản và sinh thiết ổ loét
+
+Điều trị nguyên nhân bằng thuốc kháng vi rút và kháng khuẩn
+
+Nuốt khó, biếng ăn
+
+Viêm dạ dày ruột
+
+hay viêm đại tràng
+
+Salmonella đường ruột
+
+,
+
+MAC
+
+,
+
+Cryptosporidium
+
+(
+
+bệnh do cryptosporidium
+
+),
+
+Cyclospora
+
+(
+
+bệnh do cyclospora
+
+),
+
+CMV
+
+,
+
+microsporidia
+
+,
+
+Cystoisospora (Isospora) belli
+
+(
+
+cystoisosporiasis
+
+), hoặc là
+
+Clostridioides difficile
+
+Nuôi cấy và nhuộm bệnh phẩm phân hoặc sinh thiết, nhưng xác định nguyên nhân có thể khó khăn
+
+Điều trị nguyên nhân:
+
+Kháng sinh với
+
+Salmonella
+
+, MAC, và
+
+C. difficile
+
+TMP/SMX cho
+
+Cyclospora
+
+Thuốc kháng khuẩn cho
+
+Cystoisospora
+
+và microsporidia
+
+Thuốc kháng vi-rút cho CMV
+
+Tiêu chảy, giảm cân, đau bụng
+
+Viêm túi mật hoặc viêm đường mật
+
+CMV,
+
+Cryptosporidium
+
+,
+
+Cyclospora
+
+, hoặc microsporidia
+
+Siêu âm hoặc nội soi
+
+Thuốc kháng vi-rút cho CMV
+
+Thuốc kháng khuẩn cho
+
+Cryptosporidium,
+
+Cyclospora
+
+, và microsporidia
+
+Có thể là đau hoặc tắc nghẽn
+
+Tổn thương trực tràng và quanh trực tràng
+
+Viêm trực tràng
+
+do
+
+Neisseria gonorrhoeae
+
+hoặc
+
+Chlamydia trachomatis
+
+(đặc biệt là LGV), HSV, giang mai
+
+Khám
+
+Nhuộm Gram và cấy
+
+Xét nghiệm khuếch đại axit nucleic (NAAT)
+
+Xét nghiệm kháng thể RPR/treponemal
+
+Sinh thiết
+
+Điều trị nguyên nhân
+
+Tỷ lệ mắc bệnh cao ở phụ nữ và nam giới có quan hệ tình dục với nam giới qua giao hợp tình dục tiếp nhận qua đường hậu môn†
+
+Tổn thương tế bào gan do các vi rút viêm gan, nhiễm trùng cơ hội, hoặc nhiễm độc khi dùng thuốc kháng vi-rút
+
+TB
+
+, MAC, CMV hoặc ban xuất huyết (
+
+bệnh do Bartonelia
+
+),
+
+Viêm gan B mạn tính
+
+hoặc
+
+viêm gan C mạn tính
+
+, có thể trầm trọng hơn do HIV
+
+Sự khác biệt với viêm gan do thuốc kháng retrovirus hoặc các thuốc khác
+
+Sinh thiết gan đôi khi cần thiết
+
+Điều trị nguyên nhân
+
+Các triệu chứng viêm gan (ví dụ, biếng ăn, buồn nôn, nôn ói, vàng da)
+
+Đường sinh dục/Sinh sản
+
+Tổn thương hậu môn và bộ phận sinh dục ngoài
+
+Virus Herpes simplex (HSV)
+
+Mụn cóc sinh dục
+
+hoặc ung thư hậu môn hoặc ung thư cổ tử cung do HPV gây ra
+
+Vi rút mpox (trước đây là bệnh đậu mùa khỉ)
+
+Khám
+
+Nhuộm Gram và cấy
+
+Xét nghiệm khuếch đại axit nucleic (NAAT)
+
+Sinh thiết
+
+Điều trị nguyên nhân
+
+Tỷ lệ mắc bệnh cao ở phụ nữ và nam giới có quan hệ tình dục với nam giới qua giao hợp tình dục tiếp nhận qua đường hậu môn†
+
+Bệnh viêm vùng chậu
+
+Neisseria gonorrhoeae, Chlamydia trachomatis
+
+, hoặc các mầm bệnh thông thường khác
+
+Xem Bệnh viêm vùng chậu: Chẩn đoán
+
+Xem Bệnh viêm vùng chậu: Điều trị
+
+Có thể tăng mức độ nặng, biểu hiện không điển hình và khó điều trị hơn ở phụ nữ nhiễm HIV
+
+Candida âm đạo
+
+Loài
+
+Candida
+
+.
+
+Xem Viêm âm đạo do candida: Chẩn đoán
+
+Xem Viêm âm đạo do candida: Điều trị
+
+Có thể tăng mức độ nặng hoặc tái phát ở phụ nữ nhiễm HIV
+
+Huyết học
+
+Thiếu máu
+
+Nhiều yếu tố:
+
+Ức chế tủy xương do HIV
+
+Sự hủy hoại tế bào máu ngoại vi qua trung gian miễn dịch
+
+Thiếu máu của bệnh mãn tính
+
+Nhiễm trùng, đặc biệt là parvovirus B-19 của người, lan truyền MAC, hoặc histoplasmosis
+
+Ung thư
+
+Xem
+
+Đánh giá thiếu máu
+
+Đối với nhiễm parvovirus B19, xét nghiệm tủy xương (để kiểm tra hồng cầu đa nhân) hoặc PCR trong huyết thanh hoặc tủy xương
+
+Điều trị nguyên nhân
+
+Truyền máu khi cần thiết
+
+Sử dụng erythropoietin cho thiếu máu do thuốc chống ung thư hoặc zidovudine truyền máu nếu mức độ nghiêm trọng và nồng độ erythropoietin là
+
+<
+
+500 mU/L
+
+IVIG cho parvovirus
+
+Với parvovirus, đôi khi thiếu máu nặng cấp tính
+
+Giảm tiểu cầu
+
+Giảm tiểu cầu miễn dịch
+
+, độc tính của thuốc, ức chế tủy xương do HIV, phá hủy ngoại vi qua trung gian miễn dịch, nhiễm trùng hoặc ung thư
+
+Tổng phân tích tế bào máu ngoại vi, các xét nghiệm đông máu, PTT, xét nghiệm soi máu ngoại vi, sinh thiết tủy xương, hoặc đo lường các yếu tố von Willebrand
+
+Thuốc kháng vi rút
+
+IVIG với đang chảy máu hoặc trước phẫu thuật
+
+Có thể sử dụng kháng Rho (D) IgG, vincristine, danazol, hoặc interferon
+
+Nếu trầm trọng và dai dẳng, nên cắt lách
+
+Thường không có triệu chứng và có thể xuất hiện trong trường hợp nhiễm HIV không triệu chứng
+
+Giảm bạch cầu trung tính
+
+Ức chế tủy xương do HIV gây ra, phá hủy thần kinh ngoại vi qua trung gian miễn dịch, nhiễm trùng, ung thư hoặc độc tính của thuốc
+
+Xem
+
+Giảm bạch cầu trung tính: Chẩn đoán
+
+Với
+
+giảm bạch cầu trung tính nặng
+
+(
+
+<
+
+500/mcL) cộng với sốt, sử dụng ngay kháng sinh phổ rộng
+
+Nếu liên quan đến thuốc, kích bạch cầu hoặc yếu tố kích thích tăng trưởng bạch cầu dòng đại thực bào
+
+—
+
+Thần kinh
+
+Suy giảm nhận thức từ nhẹ đến nặng có hoặc không có giảm vận động
+
+Tổn thương não trực tiếp liên quan tới vi rút
+
+Nồng độ RNA HIV trong dịch não tuỷ
+
+CT hoặc MRI để kiểm tra chứng teo não (không đặc hiệu)
+
+Thuốc kháng retrovirus, có thể đảo ngược các tổn thương và cải thiện chức năng, mặc dù mức độ suy giảm chức năng nhận thức thấp thường tồn tại dai dẳng, thậm chí ở bệnh nhân đã được điều trị
+
+Tiến triển với chứng mất trí nhớ ở những bệnh nhân được điều trị
+
+Liệt tăng dần
+
+Hội chứng Guillain Barré
+
+hay bệnh viêm đa rễ thần kinh do CMV
+
+MRI tủy sống
+
+Xét nghiệm dịch não tuỷ
+
+Điều trị bệnh viêm đa rễ thần kinh do CMV
+
+Chăm sóc hỗ trợ trong hội chứng Guillain-Barré
+
+Giảm bạch cầu trung tính ở bệnh nhân viêm đa rễ thần kinh do CMV, có thể xuất hiện viêm màng não vi khuẩn
+
+Viêm não
+
+cấp hoặc bán cấp
+
+Toxoplasma gondii
+
+(
+
+toxoplasmosis
+
+)
+
+Chụp CT hoặc chụp MRI để kiểm tra các tổn thương ngấm thuốc hình vòng, đặc biệt là ở hạch nền
+
+Xét nghiệm kháng thể trong dịch não tuỷ (nhạy cảm nhưng không đặc hiệu)
+
+Thử PCR để kiểm tra
+
+T. gondii
+
+DNA trong CSF
+
+Sinh thiết não (ít khi được chỉ định)
+
+Pyrimethamine, axit folinic, sulfadiazine, và có thể cả sulfamethoxazole/trimethoprim, SMX-TMP, Cotrimoxazole (clindamycin nếu dị ứng với sulfa – xem
+
+Bệnh do toxoplasma: Điều trị bệnh nhân AIDS hoặc các tình trạng suy giảm miễn dịch khác
+
+)
+
+Thông thường duy trì điều trị trong suốt đời
+
+Dự phòng ban đầu bằng clindamycin và pyrimethamine hoặc sulfamethoxazole/trimethoprim, SMX-TMP, Cotrimoxazole (như đối với bệnh viêm phổi do
+
+Pneumocystis
+
+) được chỉ định cho những bệnh nhân có số lượng CD4
+
+<
+
+100/mcL và có tiền sử bị bệnh do toxoplasma hoặc kháng thể dương tính; có thể dừng lại nếu số lượng CD4 tăng lên > 200/mcL trong ≥ 3 tháng để đáp ứng với liệu pháp kháng retrovirus
+
+Viêm não bán cấp
+
+CMV
+
+Ít gặp hơn, vi rút herpes simplex hoặc vi rút varicella-zoster
+
+PCR dịch não tuỷ
+
+Đáp ứng điều trị
+
+Thuốc kháng vi rút
+
+Với CMV, thường mê sảng, liệt dây thần kinh sọ, rung giật, động kinh, và suy giảm dần dần nhận thức
+
+Thường đáp ứng nhanh chóng với điều trị
+
+Bệnh viêm tủy sống
+
+hoặc viêm đa rễ thần kinh
+
+CMV
+
+MRI tủy sống
+
+PCR dịch não tuỷ
+
+Thuốc kháng vi rút
+
+Xuất hiện hội chứng Guillain-Barré
+
+Viêm não chất trắng tiến triển
+
+Viêm não chất trắng đa ổ tiến triển
+
+do kích hoạt lại nhiễm vi rút JC tiềm ẩn
+
+HIV
+
+MRI sọ não
+
+Xét nghiệm dịch não tuỷ
+
+Thuốc kháng retrovirus để đảo ngược tình trạng suy giảm miễn dịch (không thuốc nào đặc hiệu cho vi rút JC)
+
+Thường gây tử vong trong vòng một vài tháng
+
+Có thể đáp ứng với các thuốc kháng retrovirus
+
+Viêm màng não bán cấp
+
+Bệnh nấm coccidioidomycosis
+
+,
+
+Cryptococcus
+
+(
+
+bệnh do cryptococcus
+
+),
+
+Histoplasma
+
+(
+
+bệnh do histoplasma
+
+), hoặc là
+
+Mycobacterium tuberculosis
+
+CT hoặc MRI
+
+Nhuộm dịch não tuỷ, PCR xét nghiệm kháng nguyên, và nuôi cấy
+
+Điều trị nguyên nhân
+
+Kết quả được cải thiện nhờ điều trị sớm
+
+Bệnh lý thần kinh ngoại biên
+
+Các tác động trực tiếp của HIV hoặc CMV hoặc độc tính của thuốc kháng vi-rút
+
+Lịch sử
+
+Khám vận động và cảm giác
+
+Điều trị nguyên nhân hoặc ngừng các thuốc độc hại
+
+Rất phổ biến
+
+Không hồi phục nhanh chóng
+
+Nhãn khoa
+
+Viêm võng mạc
+
+CMV
+
+hoặc VZV
+
+Soi bóng đồng tử trực tiếp
+
+Thuốc
+
+chống CMV
+
+hoặc thuốc chống VZV cụ thể
+
+Cần có ý kiến của chuyên gia
+
+VZV gây hoại tử võng mạc cấp tính ở một số bệnh nhân HIV giai đoạn cuối
+
+Đường uống
+
+bệnh nấm candida
+
+miệng
+
+Suy giảm miễn dịch do HIV
+
+Khám
+
+Thuốc chống nấm
+
+toàn thân
+
+Có thể không đau trong giai đoạn đầu
+
+Nhiễm mpox (trước đây là bệnh đậu mùa khỉ)
+
+Vi rút mpox (trước đây là bệnh đậu mùa khỉ)
+
+Khám
+
+PCR dịch ở các mụn nước
+
+Thuốc kháng vi rút
+
+Phát ban dạng mụn nước gây đau đớn có thể bắt đầu ở miệng sau đó lan rộng
+
+Tỷ lệ mắc bệnh cao ở nam giới quan hệ tình dục đồng giới†
+
+Loét niêm mạc miệng
+
+Herpes simplex hoặc
+
+viêm loét dạ dày
+
+Khám
+
+Với
+
+loét aphthous
+
+, corticosteroid tại chỗ hoặc toàn thân và thuốc montelukast và thalidomide
+
+Đối với herpes, acyclovir
+
+Có thể trầm trọng và dẫn đến suy dinh dưỡng
+
+Bệnh răng miệng
+
+Hỗn hợp vi khuẩn miệng
+
+Khám
+
+Cải thiện vệ sinh và dinh dưỡng
+
+Thuốc kháng sinh
+
+Có thể trầm trọng, chảy máu, sưng, và mất răng
+
+Khối trong miệng không đau
+
+Kaposi sarcoma
+
+,
+
+u lympho
+
+, hoặc các khối u gây ra bởi HPV
+
+Sinh thiết
+
+Điều trị khối u
+
+—
+
+Các mảng bám trắng không đau ở hai bên lưỡi (bạch sản dạng lông)
+
+Vi rút Epstein-Barr (EBV)
+
+Khám
+
+Acyclovir
+
+Thường không có triệu chứng
+
+Phổi
+
+Thường
+
+viêm phổi
+
+bán cấp tính (đôi khi cấp tính)
+
+Mycobacteria
+
+Các loại nấm như
+
+P. jirovecii
+
+, C. neoformans
+
+,
+
+H. capsulatum
+
+,
+
+Coccidioides immitis
+
+hoặc
+
+Aspergillosis
+
+Đo độ bão hòa oxy trong máu động mạch
+
+Chụp X-quang ngực
+
+Xét nghiệm da (đôi khi âm tính giả do dị ứng)
+
+Đôi khi cần phải nội soi phế quản với nhuộm đặc hiệu và nuôi cấy chất dịch trong phế quản
+
+Điều trị nguyên nhân
+
+Có thể ho, thở nhanh, và tức ngực
+
+Tình trạng thiếu oxy nhẹ hoặc tăng gradient oxy phế nang-mao mạch có thể xảy ra trước khi có bằng chứng viêm phổi trên chụp X-quang
+
+Viêm phổi cấp (đôi khi bán cấp)
+
+Các vi khuẩn gây bệnh thông thường hoặc
+
+Haemophilus
+
+,
+
+Pseudomonas
+
+,
+
+Nocardia
+
+, hoặc là
+
+Rhodococcus
+
+Ở những bệnh nhân đã biết hoặc nghi ngờ về HIV và viêm phổi, loại trừ các nhiễm trùng cơ hội hoặc mầm bệnh
+
+Điều trị nguyên nhân
+
+Có thể ho, thở nhanh, và tức ngực
+
+Viêm khí phế quản
+
+Loài Candida
+
+hoặc
+
+vi rút herpes simplex (HSV)
+
+—
+
+Điều trị nguyên nhân
+
+Có thể ho, thở nhanh, và tức ngực
+
+Viêm phổi bán cấp hoặc mạn tính hoặc hạch trung thất
+
+Kaposi sarcoma
+
+hoặc u
+
+lympho
+
+tế bào B
+
+CT ngực
+
+Soi phế quản
+
+Điều trị nguyên nhân
+
+Có thể ho, thở nhanh, và tức ngực
+
+Tại thận
+
+Hội chứng thận hư
+
+hoặc suy thận
+
+Tổn thương trực tiếp do vi rút, dẫn đến xơ hóa cầu thận
+
+Sinh thiết thận
+
+Thuốc kháng retrovirus hoặc chất ức chế ACE có thể hữu ích
+
+Tần suất gia tăng ở người Mỹ gốc Phi và bệnh nhân có lượng CD4 thấp
+
+Rối loạn chức năng ống thận (đường niệu, protein niệu)
+
+Một số loại thuốc kháng vi-rút
+
+Xét nghiệm nước tiểu và/hoặc xét nghiệm máu
+
+Giảm liều hoặc ngưng dùng thuốc kháng vi-rút
+
+—
+
+Da
+
+Herpes zoster
+
+Vi rút Varicella zoster (VZV)
+
+Đánh giá lâm sàng
+
+Xét nghiệm dựa trên PCR
+
+Xét nghiệm DNA ở dịch lấy từ các vết xước của các tổn thương da mụn nước chưa đóng vảy
+
+Nuôi cấy (tốt nhất nếu được thực hiện trên các mụn nước không có mái và gần đây bị vỡ)
+
+Acyclovir hoặc các thuốc liên quan
+
+Phổ biến
+
+Có thể xảy ra cơn đau từ nhẹ đến nặng hoặc tê bì trước khi tổn thương da
+
+Xét nghiệm dựa trên PCR là nhạy cảm nhất
+
+loét do Herpes simplex
+
+Virus Herpes simplex (HSV)
+
+Đánh giá lâm sàng
+
+Xét nghiệm dựa trên PCR của loét
+
+Nuôi cấy HSV từ dịch ở vết loét
+
+Thuốc kháng vi rút nếu tổn thương nặng, rộng, dai dẳng, hoặc lan toả
+
+Các tổn thương không điển hình của herpes simplex thường lan rộng, nặng hoặc dai dẳng.
+
+Xét nghiệm dựa trên PCR là nhạy cảm nhất
+
+Bệnh ghẻ
+
+Sarcoptes scabiei
+
+Đánh giá lâm sàng
+
+và xét nghiệm cạo da
+
+Xem
+
+Ghẻ: Điều trị
+
+Có thể có tổn thương lớp keratin nặng
+
+Phát ban dạng mụn nước gây đau đớn
+
+Vi rút mpox (trước đây là bệnh đậu mùa khỉ)
+
+Khám
+
+PCR dịch từ mụn nước, mụn mủ và/hoặc vảy khô
+
+Thuốc kháng vi rút
+
+Phát ban có thể lan rộng
+
+Nổi hạch là phổ biến
+
+Gai hoặc nốt phỏng gai hoặc nốt
+
+Kaposi sarcoma hoặc bartonellosis
+
+Sinh thiết
+
+Thuốc kháng retrovirus và điều trị nguyên nhân
+
+—
+
+Tổn thương da loét trung tâm
+
+Nhiễm nấm cryptococcus hoặc mụn cóc nước
+
+Xem
+
+U mềm lây: Chẩn đoán
+
+và
+
+bệnh do nấm Cryptococcus: Chẩn đoán
+
+Cryptococcosis: Điều trị
+
+Có thể là biểu hiện của chứng nhiễm nấm crypto cocus huyết
+
+Hệ thống
+
+Nhiễm trùng và sốc nhiễm trùng
+
+do nhiễm trùng gram âm cộng đồng và nhiễm trùng tụ cầu, nhiễm trùng cơ hội lan rộng
+
+Trực khuẩn gram âm
+
+,
+
+Staphylococcus aureus
+
+,
+
+loài Candida
+
+,
+
+Salmonella
+
+,
+
+M. tuberculosis
+
+, MAC hoặc
+
+H. capsulatum
+
+Nuôi cấy máu
+
+Xét nghiệm tủy xương
+
+Điều trị nguyên nhân
+
+—
+
+Hội chứng suy mòn(giảm cân đáng kể)
+
+Đa tác nhân, bao gồm AIDS, các bệnh nhiễm trùng cơ hội liên quan đến AIDS, các bệnh ung thư liên quan đến AIDS, và/hoặc do suy giảm hóc môn sinh dục do AIDS
+
+Xác định là giảm cân > 10% trọng lượng cơ thể
+
+Các thuốc kháng vi rút (điều trị ban đầu cho hội chứng này)
+
+Điều trị nhiễm trùng; điều trị giảm hóc môn sinh dục do AIDS khi có chỉ định
+
+Các biện pháp để cải thiện sự thèm ăn và lượng calo đưa vào
+
+—
+
+CBC
+
+=
+
+công thức máu; CMV
+
+=
+
+cytomegalovirus; CSF
+
+=
+
+dịch não tủy; HPV = vi rút gây u nhú ở người; HSV
+
+=
+
+vi rút herpes simplex; IVIG
+
+=
+
+globulin miễn dịch đường tĩnh mạch; MAC
+
+=
+
+Mycobacterium avium
+
+complex; Mpox
+
+=
+
+bệnh đậu mùa khỉ; PCR
+
+=
+
+phản ứng chuỗi polymerase; PTT
+
+=
+
+thời gian thromboplastin riêng phần; TMP/SMX = trimethoprim/sulfamethoxazole/; TB
+
+=
+
+bệnh lao; VZV
+
+=
+
+vi rút varicella-zoster.
+
+* Thuốc điều trị ARV luôn nằm trong kế hoạch điều trị. Các thuốc này chỉ được liệt kê trong phần điều trị này khi không có phương pháp điều trị cụ thể hơn.
+
+† Những chẩn đoán này là đại diện thay thế cho các hành vi làm tăng nguy cơ lây nhiễm HIV; khi xuất hiện, những chẩn đoán này nên nhanh chóng xét nghiệm HIV.
+
+CBC
+
+=
+
+công thức máu; CMV
+
+=
+
+cytomegalovirus; CSF
+
+=
+
+dịch não tủy; HPV = vi rút gây u nhú ở người; HSV
+
+=
+
+vi rút herpes simplex; IVIG
+
+=
+
+globulin miễn dịch đường tĩnh mạch; MAC
+
+=
+
+Mycobacterium avium
+
+complex; Mpox
+
+=
+
+bệnh đậu mùa khỉ; PCR
+
+=
+
+phản ứng chuỗi polymerase; PTT
+
+=
+
+thời gian thromboplastin riêng phần; TMP/SMX = trimethoprim/sulfamethoxazole/; TB
+
+=
+
+bệnh lao; VZV
+
+=
+
+vi rút varicella-zoster.
+
+* Thuốc điều trị ARV luôn nằm trong kế hoạch điều trị. Các thuốc này chỉ được liệt kê trong phần điều trị này khi không có phương pháp điều trị cụ thể hơn.
+
+† Những chẩn đoán này là đại diện thay thế cho các hành vi làm tăng nguy cơ lây nhiễm HIV; khi xuất hiện, những chẩn đoán này nên nhanh chóng xét nghiệm HIV.
+
+Hội chứng suy giảm miễn dịch mắc phải (AIDS)
+
+AIDS được định nghĩa là nhiễm HIV với một hoặc nhiều đặc điểm sau:
+
+Một hoặc nhiều bệnh xác định AIDS (
+
+1
+
+)
+
+Số lượng tế bào lymphô có CD4+ (
+
+tế bào hỗ trợ
+
+)
+
+<
+
+200/mcL
+
+Tỷ lệ phần trăm tế bào CD4+ ≤ 14% tổng số tế bào lympho
+
+Các bệnh xác định AIDS bao gồm
+
+Các nhiễm trùng cơ hội nghiêm trọng
+
+Một số bệnh ung thư (ví dụ,
+
+Kaposi sarcoma
+
+,
+
+u lympho không Hodgkin
+
+) do khiếm khuyết đáp ứng miễn dịch qua trung gian tế bào
+
+Rối loạn chức năng thần kinh
+
+Hội chứng suy mòn
+
+Định nghĩa về bệnh AIDS
+
+Các bệnh nhiễm trùng do vi khuẩn, nhiều lần hoặc tái phát*
+
+Nhiễm Candida của phế quản, khí quản, hoặc phổi
+
+Candida của thực quản
+
+Ung thư cổ tử cung
+
+, xâm lấn†
+
+Bệnh do nấm coccidioides
+
+, phổ biến hoặc ngoài phổi
+
+Bệnh do nấm cryptococcus
+
+, ngoài phổi
+
+Bệnh do cryptosporidium
+
+, ruột mạn tính (kéo dài > 1 tháng)
+
+Bệnh do cytomegalovirus
+
+(ngoài gan, lá lách, hoặc hạch bạch huyết), bắt đầu > 1 tháng tuổi
+
+Viêm võng mạc do cytomegalovirus (mất thị lực)
+
+Bệnh não do HIV
+
+Vi rút Herpes simplex
+
+: loét mạn tính (kéo dài > 1 tháng) hoặc viêm phế quản, viêm phổi hoặc viêm thực quản (khởi phát ở tuổi > 1 tháng)
+
+Bệnh do nấm histoplasma
+
+, lan toả hoặc ngoài phổi
+
+Isosporiasis (
+
+cystoisosporiasis
+
+), ruột mạn tính (kéo dài > 1 tháng)
+
+Kaposi sarcoma
+
+U lympho, Burkitt
+
+(hoặc thuật ngữ tương đương)
+
+U lympho, immunoblastic (hoặc thuật ngữ tương đương)
+
+U lympho
+
+, nguyên phát, của não
+
+Mycobacterium avium
+
+phức hợp (
+
+MAC
+
+) hoặc là
+
+Mycobacterium kansasii
+
+, lan toả hoặc ngoài phổi
+
+Mycobacterium tuberculosis
+
+của bất kỳ vị trí nào, phổi, lan toả, hoặc ngoài phổi
+
+Mycobacterium
+
+, các loài khác hoặc các loài không xác định, lan toả hoặc ngoài phổi
+
+Viêm phổi do ‬
+
+Pneumocystis jirovecii
+
+Viêm phổi, tái phát†
+
+Bệnh não chất trắng đa ổ tiến triển (PML)
+
+Nhiễm khuẩn huyết do
+
+Salmonella
+
+, tái phát
+
+Bệnh do Toxoplasma
+
+ở não, khởi phát ở độ tuổi > 1 tháng
+
+Hội chứng suy mòn do HIV
+
+See also Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report (MMWR):
+
+Revised Surveillance Case Definition for HIV Infection, United States, 2014
+
+.
+
+* Chỉ ở trẻ em < 6 tuổi
+
+† Chỉ dành cho người lớn, thanh thiếu niên và trẻ em ≥ 6 tuổi
+
+Bệnh xác định AIDS: Bệnh nấm coccidioidomycosis
+
+Hình ảnh
+
+Hình ảnh do bác sĩ Edward R. Cachay cung cấp.
+
+Tài liệu tham khảo về các triệu chứng và dấu hiệu
+
+1.
+
+Selik RM, Mokotoff ED, Branson, B, et al
+
+: Revised Surveillance Case Definition for HIV Infection—United States, 2014.
+
+MMWR
+
+63(RR03):1–10, 2014.
+
+Chẩn đoán nhiễm HIV
+
+Xét nghiệm kháng thể HIV có hoặc không có xét nghiệm kháng nguyên HIV P24
+
+Các xét nghiệm khuếch đại acid nucleic để xác định nồng độ RNA HIV (tải lượng vi rút)
+
+Nghi ngờ nhiễm HIV ở những bệnh nhân có hạch toàn thân dai dẳng, không rõ nguyên nhân hoặc bất kỳ bệnh nào xác định AIDS (xem thanh bên
+
+Các bệnh xác định AIDS
+
+). Cũng có thể nghi ngờ ở bệnh nhân có nguy cơ cao có các triệu chứng có thể là biểu hiện của nhiễm HIV cấp tính.
+
+Xét nghiệm chẩn đoán
+
+Việc phát hiện các kháng thể đối với HIV rất nhạy và đặc hiệu, ngoại trừ trong vài tuần đầu sau khi bị nhiễm (gọi là "thời kỳ cửa sổ" của nhiễm HIV cấp tính). Tuy nhiên, kháng nguyên p24 của HIV (một loại protein lõi của vi rút) đã có trong máu trong phần lớn thời gian này và có thể được phát hiện bằng các xét nghiệm.
+
+Hiện nay, nên sử dụng xét nghiệm miễn dịch kết hợp kháng nguyên/kháng thể thế hệ thứ tư; xét nghiệm này phát hiện các kháng thể đối với cả HIV-1 và HIV-2 cũng như kháng nguyên HIV p24. Phiên bản xét nghiệm trong phòng thí nghiệm có thể được ưu tiên hơn so với xét nghiệm tại giường trong việc chẩn đoán nhiễm bệnh sớm, nhưng cả hai đều có thể được thực hiện nhanh chóng (trong vòng 30 phút). Nếu kết quả xét nghiệm dương tính, xét nghiệm phân biệt HIV-1 và HIV-2 và xét nghiệm RNA HIV được thực hiện.
+
+Các xét nghiệm kháng thể xét nghiệm miễn dịch hấp thụ liên kết enzyme (ELISA) thế hệ trước có độ nhạy cao nhưng vì chúng không xét nghiệm kháng nguyên nên chúng không dương tính sớm như xét nghiệm kết hợp thế hệ thứ tư. Ngoài ra, kết quả hiếm khi dương tính giả. Kết quả ELISA dương tính được xác nhận bằng một xét nghiệm cụ thể hơn như Western blot. Tuy nhiên, các xét nghiệm này có nhược điểm:
+
+ELISA đòi hỏi thiết bị phức tạp.
+
+Western blot đòi hỏi các kỹ thuật viên được đào tạo tốt, tốn kém và mất vài ngày hoặc vài tuần để có kết quả.
+
+Chuỗi kiểm tra đầy đủ mất ít nhất một ngày.
+
+Hầu hết các cơ sở sử dụng xét nghiệm biệt hóa HIV-1/HIV-2 làm xét nghiệm xác nhận ưu tiên của họ, thay thế Western blot rườm rà. Ngoài ra, các xét nghiệm Western blot HIV-1 không phát hiện vi rút dưới nhóm O phổ biến ở một số khu vực châu Phi một cách đáng tin cậy; nếu HIV-2 đang được xem xét, cần phải yêu cầu một Western blot HIV-2 đặc biệt (
+
+1
+
+). Các xét nghiệm tại giường sử dụng máu hoặc nước bọt (ví dụ: ngưng kết hạt, cô đặc miễn dịch, sắc ký miễn dịch) có thể được thực hiện nhanh chóng (trong 15 phút) và đơn giản, cho phép xét nghiệm ở nhiều môi trường khác nhau và báo ngay cho bệnh nhân. Kết quả dương tính của các xét nghiệm nhanh này phải được xác nhận bằng các xét nghiệm máu tiêu chuẩn (ví dụ: ELISA có hoặc không có Western blot) ở các quốc gia có nguồn lực cao và lặp lại bằng một hoặc nhiều xét nghiệm nhanh khác ở các quốc gia có gánh nặng HIV cao. Nếu âm tính không cần thiết phải xác định lại.
+
+Nếu nghi ngờ nhiễm HIV mặc dù kết quả xét nghiệm kháng thể âm tính (ví dụ: trong vài tuần đầu sau khi nhiễm bệnh), nên đo nồng độ RNA của HIV trong huyết tương. Các xét nghiệm khuếch đại acid nucleic được sử dụng có độ nhạy và độ đặc hiệu cao. Xét nghiệm HIV RNA đòi hỏi công nghệ tiên tiến, chẳng hạn như phản ứng chuỗi polymerase phiên mã ngược (RT-PCR), nhạy cảm với mức RNA cực thấp của HIV. Đo lường kháng nguyên p24 HIV bằng ELISA có độ nhạy và độ đặc hiệu thấp hơn so với phát hiện trực tiếp HIV RNA trong máu.
+
+Phân giai đoạn
+
+Nhiễm HIV có thể chia các giai đoạn dựa trên số lượng CD4. Ở bệnh nhân ≥ 6 tuổi, các giai đoạn như sau:
+
+Giai đoạn 1: ≥ 500 tế bào/mcL
+
+Giai đoạn 2: 200 đến 499 tế bào/mcL
+
+Giai đoạn 3: < 200 tế bào/mcL
+
+Số lượng CD4 sau 1 đến 2 năm điều trị cung cấp chỉ số phục hồi miễn dịch cuối cùng; số lượng CD4 có thể không trở lại mức bình thường mặc dù đã điều trị kéo dài.
+
+Theo dõi
+
+Khi HIV được chẩn đoán, cần xác định những điểm sau:
+
+Số lượng CD4
+
+Mức RNA HIV trong huyết tương
+
+Cả hai đều hữu ích để xác định tiên lượng và theo dõi điều trị.
+
+Số lượng CD4 được tính như là kết quả của những chỉ số sau đây:
+
+Số lượng bạch cầu (ví dụ: 4000 tế bào/mcL)
+
+Tỷ lệ phần trăm bạch cầu máu là lympho bào (ví dụ, 30%)
+
+Tỷ lệ lympho bào là CD4+ (ví dụ, 20%)
+
+Sử dụng các con số ở trên, số lượng CD4 (4000
+
+×
+
+0,3
+
+×
+
+0,2) là 240 tế bào/mcL, hoặc khoảng 1/3 số lượng CD4 bình thường ở người lớn, tức là khoảng 750
+
+±
+
+250/mcL.
+
+Mức RNA HIV trong huyết tương (tải lượng vi rút) phản ánh tốc độ sao chép HIV. Mức độ càng cao tại thời điểm ban đầu (liên quan tới mức độ vi rút ổn định xảy ra sau nhiễm trùng ban đầu) thì số lượng CD4 càng giảm nhanh hơn và nguy cơ nhiễm trùng cơ hội càng cao hơn, thậm chí ở những bệnh nhân không có triệu chứng.
+
+Có thể yêu cầu kiểu gen HIV ở lần khám ban đầu (xét nghiệm máu) nếu tải lượng vi rút HIV > 500 bản sao/mL; khả năng sẵn có xét nghiệm này thay đổi theo địa điểm. Việc phân loại kiểu gen HIV được sử dụng để xác định các đột biến gây ra đề kháng với một số loại thuốc kháng retrovirus nhất định và giúp chọn một phác đồ thuốc hiệu quả cho một bệnh nhân cụ thể bị nhiễm HIV.
+
+Chẩn đoán các tình trạng liên quan đến HIV
+
+Chẩn đoán các bệnh nhiễm trùng cơ hội, ung thư và các hội chứng khác xảy ra ở bệnh nhân nhiễm HIV sẽ được thảo luận ở phần khác trong CẨM NANG. Nhiều bệnh chỉ gặp khi có nhiễm HIV.
+
+Rối loạn huyết học
+
+(ví dụ, giảm các dòng tế bào máu, u lymphoma, ung thư) là phổ biến và có thể được đánh giá hữu hiệu bằng chọc hút và sinh thiết tuỷ xương. Quy trình này cũng có thể giúp chẩn đoán các bệnh nhiễm trùng lan tỏa với MAC (phức hợp
+
+Mycobacterium avium
+
+),
+
+M. tuberculosis
+
+,
+
+Cryptococcus
+
+,
+
+Histoplasma
+
+, human parvovirus B19,
+
+P. jirovecii
+
+và
+
+Leishmania
+
+. Hầu hết các bệnh nhân có tủy bào bình thường hoặc tuỷ tăng sinh nhưng vẫn giảm tế bào ngoại vi, điều này phản ánh sự hủy hoại ở ngoại biên. Dự trữ sắt thường là bình thường hoặc tăng lên, phản ánh tình trạng thiếu máu của bệnh mãn tính (giảm sự dùng lại sắt). Giảm tế bào trong huyết tương từ nhẹ đến trung bình, kết tụ tế bào lympho, tăng số lượng đại thực bào trong mô, và sai lệnh trong quá trình tạo ra các tế bào màu là thường gặp.
+
+Các hội chứng thần kinh liên quan đến HIV
+
+có thể được phân biệt thông qua chọc dò tủy sống với phân tích dịch não tủy và chụp CT hoặc chụp MRI có thuốc cản quang hệ thần kinh trung ương (xem bảng
+
+Các biểu hiện phổ biến của nhiễm HIV theo hệ thống cơ quan
+
+).
+
+Tài liệu tham khảo chẩn đoán
+
+1.
+
+Centers for Disease Control and Prevention (CDC)
+
+: Identification of HIV-1 group O infection—Los Angeles county, California,
+
+MMWR Morb Mortal Wkly Rep
+
+45(26):561-565, 1996.
+
+Sàng lọc HIV
+
+Các xét nghiệm sàng lọc kháng thể hoặc xét nghiệm kháng nguyên/kháng thể kết hợp mới hơn nên được thực hiện thường xuyên cho người lớn và thanh thiếu niên, đặc biệt là phụ nữ mang thai trong giai đoạn đầu của mỗi thai kỳ, bất kể nguy cơ họ nhận thấy là gì. Đối với những người có nguy cơ cao nhất, đặc biệt là những người có quan hệ tình dục có nhiều bạn tình và không thực hành tình dục an toàn, nên xét nghiệm lại từ 6 tháng đến 12 tháng một lần. Các xét nghiệm thường được giữ kín và sẵn có, thường miễn phí, ở nhiều cơ sở công cộng và tư nhân trên khắp thế giới.
+
+Các xét nghiệm nhanh có lợi thế là cung cấp kết quả kiểm tra sơ bộ ngay từ lần gặp đầu tiên trong vòng chưa đầy 25 phút. Các xét nghiệm này đặc biệt hữu ích cho những người không muốn trả lại kết quả xét nghiệm của họ. Những người được xét nghiệm HIV cũng cần được cung cấp thông tin về các dịch vụ dự phòng, chăm sóc và điều trị.
+
+Tại Hoa Kỳ, khuyến nghị sàng lọc nhiễm HIV ở tất cả thanh thiếu niên và người lớn từ 13 tuổi đến 64 tuổi cũng như ở thanh thiếu niên trẻ tuổi và người cao tuổi có nguy cơ nhiễm trùng cao hơn (xem
+
+Centers for Disease Control and Prevention: Screening for HIV
+
+). Sàng lọc cũng được khuyến nghị cho tất cả những người mang thai, bao gồm cả những người đang chuyển dạ hoặc khi sinh mà tình trạng HIV chưa được biết.
+
+Tổ chức Y tế Thế giới gợi ý rằng, ở những nơi có gánh nặng HIV cao, nên thực hiện xét nghiệm HIV bằng xét nghiệm kháng thể nhanh và xét nghiệm miễn dịch enzyme (xem
+
+Consolidated Guidelines on HIV Testing services, tháng 7 năm 2019
+
+).
+
+Điều trị nhiễm HIV
+
+Phối hợp các loại thuốc kháng retrovirus (liệu pháp kháng retrovirus [ART], đôi khi được gọi là ART có hoạt tính cao [HAART] hoặc ART kết hợp [cART])
+
+Điều trị dự phòng
+
+nhiễm trùng cơ hội ở bệnh nhân có nguy cơ cao
+
+(Xem thêm
+
+Điều trị bằng thuốc nhiễm HIV
+
+.)
+
+Điều trị bằng ART được khuyến nghị cho tất cả bệnh nhân vì các biến chứng liên quan đến bệnh có thể xảy ra ngay cả ở những bệnh nhân không được điều trị có số lượng CD4 cao và do độc tính của thuốc kháng retrovirus đã giảm khi các loại thuốc mới được phát triển.
+
+Lợi ích của ART cao hơn là rủi ro trong mỗi nhóm bệnh nhân và các phác đồ đã được nghiên cứu cẩn thận. Trong nghiên cứu về Thời điểm chiến lược của điều trị bằng thuốc kháng vi rút (START), 5472 bệnh nhân nhiễm HIV và số lượng CD4 > 350 tế bào/mcL chưa từng điều trị được chọn ngẫu nhiên để bắt đầu điều trị ARV ngay lập tức (bắt đầu điều trị ngay lập tức) hoặc trì hoãn điều trị ARV cho đến khi số lượng CD4 của họ giảm xuống < 250 tế bào/mcL (bắt đầu trì hoãn). Nguy cơ của tình trạng liên quan đến AIDS (như TB, Kaposi sarcoma, ung thư hạch ác tính) và các bệnh không liên quan đến AIDS (như ung thư không liên quan đến AIDS, bệnh tim mạch) thấp hơn ở nhóm bắt đầu ngay (
+
+1
+
+).
+
+Một số bệnh nhân ngoại lệ có thể kiểm soát được chủng HIV của họ mà không cần điều trị; họ duy trì số lượng CD4 bình thường và nồng độ vi rút trong máu trong máu thấp (theo dõi lâu dài) hoặc lượng CD4 bình thường và lượng HIV không phát hiện được. Những bệnh nhân này có thể không cần điều trị ARV, nhưng các nghiên cứu để xác định liệu việc điều trị cho họ có hữu ích chưa được thực hiện và có khó khăn vì có rất ít bệnh nhân và họ có thể sẽ không được điều trị ARV trong thời gian dài.
+
+Điều trị kháng retrovirus: Nguyên tắc chung
+
+ART nhằm mục đích
+
+Giảm mức RNA HIV trong huyết tương xuống mức không phát hiện được (nghĩa là < 20 đến 50 bản sao/mL)
+
+Khôi phục lại lượng CD4 đến một mức bình thường (phục hồi miễn dịch hoặc tái tạo)
+
+Đáp ứng của lượng CD4 kém có vẻ tốt hơn nếu số lượng CD4 khi bắt đầu điều trị thấp (đặc biệt nếu < 50/mcL) và/hoặc mức RNA HIV cao. Tuy nhiên, có thể cải thiện rõ rệt ngay cả ở những bệnh nhân bị ức chế miễn dịch tiến triển.
+
+Số lượng CD4 tăng lên tương quan với việc giảm rõ rệt nguy cơ mắc các bệnh nhiễm trùng cơ hội, các biến chứng khác và tử vong. Với phục hồi miễn dịch, ngay cả những người có biến chứng không có điều trị đặc hiệu (ví dụ như rối loạn nhận thức do HIV) hoặc trước đây được xem là không thể chữa trị (ví dụ như bệnh não chất trắng đa ổ tiến triển), có thể cải thiện. Các kết quả cũng được cải thiện đối với bệnh nhân ung thư (như u lymphoma, Kaposi sarcoma) và hầu hết các trường hợp nhiễm trùng cơ hội.
+
+Bệnh nhân bị các nhiễm trùng cơ hội cấp tính có lợi từ điều trị ARV sớm (bắt đầu ngay lập tức trong thời gian điều trị nhiễm trùng cơ hội). Tuy nhiên, đối với một số bệnh nhiễm trùng cơ hội, chẳng hạn như viêm màng não do lao hoặc viêm màng não do cryptococcus, bằng chứng cho thấy nên trì hoãn điều trị ARV (2 tuần đến 4 tuần trong hầu hết các trường hợp) cho đến khi kết thúc giai đoạn đầu của liệu pháp kháng khuẩn đối với những bệnh nhiễm trùng này do tần suất nhiễm trùng ngày càng tăng. biến cố bất lợi và tử vong.
+
+Hầu hết tất cả những người dùng thuốc điều trị HIV theo quy định đều có thể đạt được mục tiêu điều trị ARV thường trong vòng 6 tháng sau khi bắt đầu điều trị (
+
+Ức chế vi rút và tải lượng vi rút không thể phát hiện
+
+). Tuy nhiên, duy trì mức độ tuân thủ này là khó khăn. Sự ức chế một phần (giảm nồng độ RNA của HIV trong huyết tương xuống mức không thể phát hiện) có thể lựa chọn cho một hoặc nhiều đột biến tích lũy của vi rút HIV làm cho vi rút kháng một phần hoặc hoàn toàn đối với một loại thuốc đơn lẻ hoặc toàn bộ các thuốc. Điều trị có thể sẽ không thành công trừ khi điều trị tiếp theo sử dụng các loại thuốc của các lớp khác mà vi rút HIV vẫn còn nhạy cảm.
+
+Thành công của điều trị ARV được đánh giá bằng cách đo nồng độ RNA của HIV trong huyết tương 8 tuần đến 12 tuần một lần trong 4 tháng đến 6 tháng đầu tiên hoặc cho đến khi nồng độ HIV không thể phát hiện được và sau đó là 6 tháng một lần. Sự gia tăng mức độ HIV là bằng chứng sớm nhất về thất bại điều trị và có thể dẫn đến sự giảm CD4 theo tháng. Duy trì phác đồ điều trị bằng thuốc thất bại cho bệnh nhân sẽ chọn lọc những đột biến HIV có khả năng kháng thuốc cao hơn. Tuy nhiên, so với HIV hoang dã (không đột biến), những đột biến này dường như ít có khả năng làm giảm số lượng CD4 hơn và các phác đồ dùng thuốc thất bại thường được tiếp tục khi không tìm được phác đồ ức chế hoàn toàn.
+
+Nếu điều trị thất bại, xét nghiệm độ nhạy cảm (kháng thuốc) có thể xác định tính nhạy cảm của chủng HIV chiếm ưu thế đối với tất cả các loại thuốc hiện có. Các xét nghiệm kiểu gen và kiểu hình hiện có sẵn và có thể giúp các bác sĩ lâm sàng lựa chọn phác đồ mới nên có ít nhất 2 loại và tốt nhất là 3 loại thuốc mà chủng HIV nhạy cảm hơn. Các dòng vi rút HIV chủ yếu trong máu của những bệnh nhân đã được điều trị bằng liệu pháp kháng retrovirus có thể chuyển đổi từ chủng hoang dã qua hàng tháng đến hàng năm (ví dụ nhạy cảm hơn) vì những đột biến kháng thuốc sao chép chậm hơn và được thay thế bằng loại hoang dã. Do đó, nếu bệnh nhân chưa được điều trị gần đây thì mức độ kháng thuốc hoàn toàn có thể không rõ ràng qua xét nghiệm kháng thuốc, nhưng khi điều trị trở lại, những chủng có đột biến kháng thuốc thường xuất hiện từ chậm và thay thế cho chủng HIV hoang dại một lần nữa.
+
+Nhiều bệnh nhân nhiễm HIV đang sử dụng các chế độ điều trị phức tạp bao gồm nhiều viên thuốc để kiểm soát mức độ RNA của HIV (tải lượng vi rút), nhưng thông thường, không có xét nghiệm kháng RNA củaHIV thông thường nào được thực hiện khi điều trị vi rút thất bại. Khi có sẵn các loại thuốc điều trị HIV đồng công thức bào chế mới, nhiều bệnh nhân có thể được hưởng lợi từ việc đơn giản hóa phác đồ điều trị bằng ARV của họ, được hướng dẫn bằng xét nghiệm kiểu gen lưu trữ DNA của HIV (GenoSure Archive). Bản lưu trữ gen DNA HIV cung cấp số liệu kháng thuốc kháng vi rút HIV-1 khi không thể thực hiện được xét nghiệm HIV RNA thông thường vì bệnh nhân có nồng độ RNA HIV trong huyết tương thấp (< 500 bản sao/mL). Xét nghiệm HIV DNA lưu trữ phân tích sự tích hợp và chưa được tích hợp của tiền vi rút HIV-1 trong tế bào chủ. Việc thử nghiệm khuếch đại DNA HIV-1 từ các tế bào bị nhiễm bệnh trong các mẫu máu, sau đó sử dụng công nghệ sắp xếp thế hệ tiếp theo để phân tích khu vực polymerase HIV-1. Giá trị tiên đoán dương tính của kết quả xét nghiệm kháng HIV của các mẫu DNA có thể cho phép các bác sĩ lâm sàng xác định được những đột biến kháng HIV mà trước đây chưa được xác định và chọn một phác đồ điều trị đơn giản với các thuốc phối hợp (≥ 2 loại thuốc trong một viên).
+
+Hội chứng viêm phục hồi miễn dịch (IRIS)
+
+Bệnh nhân bắt đầu điều trị ARV đôi khi thấy xấu đi về mặt lâm sàng, mặc dù nồng độ HIV trong máu đã giảm đi và số lượng CD4 tăng lên do đáp ứng miễn dịch với các nhiễm trùng cơ hội hoặc các kháng nguyên vi khuẩn còn sót lại sau khi điều trị thành công các bệnh nhiễm trùng cơ hội. IRIS thường xảy ra trong những tháng đầu điều trị HIV nhưng đôi khi xảy ra muộn hơn. IRIS có thể làm phức tạp hầu hết các trường hợp nhiễm trùng cơ hội và ngay cả các khối u (ví dụ, Kaposi sarcoma) nhưng thường tự giới hạn hoặc đáp ứng với các chế độ corticosteroid ngắn.
+
+IRIS có 2 dạng:
+
+Phục hồi miễn dịch nghịch thường, trong đó đề cập đến các triệu chứng tồi tệ hơn do một nhiễm trùng trước đó
+
+Phục hồi miễn dịch bộc lộ, trong đề cập đến sự xuất hiện đầu tiên của các triệu chứng của một bệnh nhiễm trùng chưa được chẩn đoán trước
+
+IRIS nghịch thường
+
+thường xảy ra trong vài tháng đầu điều trị HIV và thường tự khỏi. Nếu không, corticosteroid, được cho trong một thời gian ngắn, thường có hiệu quả. Phục hồi miễn dịch nghịch thường có nhiều khả năng gây ra các triệu chứng và triệu chứng này có nhiều khả năng trở nên trầm trọng khi điều trị ARV được bắt đầu ngay sau khi điều trị nhiễm trùng cơ hội được bắt đầu. Do đó, đối với một số trường hợp nhiễm trùng, ART bị trì hoãn cho đến khi điều trị các nhiễm trùng cơ hội đa giảm hoặc đã bị loại bỏ.
+
+Ở bệnh nhân
+
+phục hồi miễn dịch bộc lộ
+
+nhiễm trùng cơ hội mới được điều trị bằng các thuốc kháng sinh. Thỉnh thoảng, khi các triệu chứng trầm trọng, corticosteroid cũng được sử dụng. Thông thường, khi phát hiện ra IRIS xảy ra, ART vẫn được tiếp tục. Một ngoại lệ là viêm màng não do cryptococcus. Sau đó, ART được tạ ngừng cho đến khi nhiễm trùng được kiểm soát.
+
+Xác định xấu đi về lâm sàng có phải là do thất bại điều trị hay không, IRIS, hoặc cả hai đều cần đánh giá sự hoạt động dai dẳng của các nhiễm trùng bằng nuôi cấy mặc dù có thể khó khăn.
+
+Gián đoạn điều trị ARV
+
+Việc tạm ngừng điều trị bằng ARV thường an toàn nếu dừng tất cả các loại thuốc cùng lúc, nhưng nồng độ các thuốc chuyển hóa chậm (ví dụ: nevirapine, efavirenz) có thể vẫn cao và do đó làm tăng nguy cơ kháng thuốc. Việc tạm ngừng điều trị có thể cần thiết nếu các bệnh can thiệp cần được điều trị hoặc nếu độc tính của thuốc không thể dung nạp được hoặc cần được đánh giá. Sau khi tạm dừng để xác định loại thuốc nào gây độc tính, bác sĩ lâm sàng có thể bắt đầu lại hầu hết các loại thuốc dưới dạng đơn trị liệu một cách an toàn trong vài ngày. Chú ý: Ngoại lệ quan trọng nhất là abacavir; những bệnh nhân có sốt hoặc phát ban trong lần phơi nhiễm trước với abacavir có thể phát triển phản ứng quá mẫn nghiêm trọng, có thể gây tử vong khi tiếp xúc lại. Nguy cơ phản ứng bất lợi đối với abacavir cao gấp 100 lần ở những bệnh nhân HLA-B*57:01, có thể được phát hiện bằng xét nghiệm di truyền.
+
+Ngọc trai & cạm bẫy
+
+Những bệnh nhân có phản ứng bất lợi với abacavir không nên dùng lại thuốc. Nếu dùng lại thuốc, họ có thể bị phản ứng quá mẫn nặng, có thể gây tử vong. Nguy cơ phản ứng bất lợi đối với abacavir cao gấp 100 lần ở những bệnh nhân HLA-B*57:01, có thể được phát hiện bằng xét nghiệm di truyền.
+
+Phòng ngừa nhiễm trùng cơ hội
+
+(Xem thêm United States Public Health Service and the HIV Medicine Association of the Infectious Diseases Society of America’s
+
+Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV
+
+.)
+
+Dự phòng bằng hóa chất hiệu quả có sẵn đối với nhiều bệnh nhiễm trùng cơ hội và giảm tỷ lệ bệnh do
+
+P. jirovecii
+
+,
+
+Candida
+
+,
+
+Cryptococcus
+
+, and MAC (phức hợp
+
+Mycobacterium avium
+
+). Nếu liệu pháp phục hồi CD4 vượt quá ngưỡng
+
+>
+
+3 tháng, có thể ngừng hóa trị dự phòng.
+
+Dự phòng ban đầu
+
+phụ thuộc vào số lượng CD4:
+
+Số CD4
+
+<
+
+200/mcL hoặc bệnh nấm Candida miệng họng (đang mắc hoặc trước đó): Dự phòng chống lại
+
+P. jirovecii
+
+viêm phổi được khuyến cáo. Viên nén sulfamethoxazole/trimethoprim, SMX-TMP, Cotrimoxazole hàm lượng gấp đôi dùng một lần/ngày hoặc 3 lần/tuần đều có hiệu quả. Một số tác dụng ngoại ý có thể được giảm thiểu bằng liều 3 lần/tuần hoặc bằng cách tăng liều dần dần. Một số bệnh nhân không thể dung nạp TMP/SMX có thể dung nạp dapsone (100 mg x 1 lần/ngày). Bệnh nhân có glucose-6-phosphate dehydrogenase (
+
+G6PD
+
+) sự thiếu hụt có nguy cơ phát triển sự tan máu nghiêm trọng khi sử dụng dapsone và do đó, nên được sàng lọc cho sự thiếu hụt G6PD trước khi sử dụng dapsone. Đối với một số ít bệnh nhân không thể dung nạp được một trong hai loại thuốc này do tác động bất lợi (sốt, giảm bạch cầu trung tính, phát ban), có thể dùng pentamidine dạng hyaluron 300 mg một lần/tháng hoặc atovaquone 1500 mg một lần/ngày.
+
+Số CD4
+
+<
+
+50/mcL: Dự phòng ban đầu chống lại bệnh MAC lan tỏa không được khuyến nghị cho người lớn và thanh thiếu niên nhiễm HIV ngay lập tức bắt đầu điều trị ARV. Những người nhiễm HIV không được điều trị bằng ART hoặc những người vẫn có vi rút trong điều trị bằng ART nhưng không có lựa chọn hiện tại cho phác đồ điều trị bằng ART ức chế hoàn toàn nên được điều trị dự phòng chống lại bệnh MAC lan tỏa nếu họ có số lượng CD4
+
+<
+
+50 tế bào/mm3 (
+
+2
+
+). Dự phòng đối với MAC lan toả bao gồm azithromycin hoặc clarithromycin; nếu không dung nạp được cả hai loại thuốc này, có thể dùng rifabutin. Azithromycin có thể được dùng hàng tuần dưới dạng hai viên 600 mg; thuốc có khả năng bảo vệ (70%) tương tự như clarithromycin hàng ngày và không tương tác với các loại thuốc khác.
+
+Nếu
+
+Lao
+
+tiềm ẩn được nghi ngờ (dựa trên xét nghiệm da tuberculin, xét nghiệm phát hiện giải phóng gamma interferon, tiếp xúc với nguy cơ cao, tiền sử cá nhân mắc bệnh lao hoạt động, hoặc cư trú ở khu vực có tỷ lệ lưu hành lao cao), bất kể số lượng CD4, bệnh nhân nên dùng isoniazid 5 mg/kg (đến 300 mg) uống một lần/ngày cộng với pyridoxin (vitamin B6) 10 đến 25 mg uống một lần/ngày trong 9 tháng để ngăn ngừa tái hoạt động.
+
+Đối với điều trị dự phòng tiên phát chống lại một số bệnh nhiễm trùng do nấm (ví dụ: bệnh nấm candida thực quản), fluconazole đường uống 100 mg đến 200 mg một lần/ngày là thành công nhưng ít được sử dụng vì chi phí cho mỗi lần nhiễm trùng được ngăn ngừa cao và việc chẩn đoán cũng như điều trị các bệnh nhiễm trùng này thường thành công (
+
+3
+
+).
+
+Dự phòng thứ phát
+
+(sau khi kiểm soát nhiễm trùng ban đầu) được chỉ định nếu bệnh nhân có những điều sau đây:
+
+Thường xuyên nhiễm nấm Candida miệng, âm đạo, hoặc
+
+thực quản
+
+;
+
+bệnh nấm coccidioidomycosis
+
+; hoặc là
+
+nhiễm trùng cryptococcal
+
+: Fluconazole được sử dụng.
+
+Bệnh histoplasmosis
+
+: Itraconazole được sử dụng.
+
+Bệnh do Toxoplasma
+
+thể ẩn: Tình trạng không triệu chứng này được chỉ định bởi kháng thể huyết thanh (IgG)
+
+Toxoplasma gondii
+
+. TMP/SMX (theo liều dùng để phòng ngừa viêm phổi do
+
+P. jirovecii
+
+) được sử dụng để ngăn ngừa tái hoạt động và gây ra viêm não do toxoplasma. Nhiễm trùng tiềm ẩn ít phổ biến hơn (khoảng 15% số người lớn) ở Hoa Kỳ so với ở Châu Âu và hầu hết các quốc gia có gánh nặng HIV cao (lên tới 70% đến 80% số người lớn).
+
+Viêm phổi do P. jirovecii
+
+Nhiễm trùng herpes simplex
+
+Bệnh do Aspergillus
+
+(có thể)
+
+Hướng dẫn chi tiết về điều trị dự phòng nhiễm nấm (bao gồm cả
+
+Pneumocystis
+
+), vi rút, mycobacteria và toxoplasmic có tại
+
+Clinical Info: Federally Approved Clinical Practice Guidelines for HIV/AIDS
+
+.
+
+Tiêm chủng
+
+Khuyến nghị của CDC 2024
+
+về tiêm chủng cho bệnh nhân ≥ 19 tuổi nhiễm HIV bao gồm:
+
+Những bệnh nhân chưa được tiêm
+
+vắc xin phế cầu khuẩn
+
+liên hợp hoặc không rõ tiền sử tiêm vắc xin trước đó cần phải được tiêm PCV15 hoặc PCV20; nếu tiêm PCV15, tiếp theo với PPSV23 sau liều PCV15  ≥ 8 tuần.
+
+Tất cả bệnh nhân cần được tiêm
+
+Vắc xin cúm
+
+hàng năm.
+
+Tất cả bệnh nhân cần được tiêm
+
+Vắc xin viêm gan B
+
+.
+
+Bệnh nhân có nguy cơ viêm gan A hoặc mong muốn được bảo vệ khỏi bệnh viêm gan A nên được tiêm
+
+vắc xin viêm gan A
+
+.
+
+Ở độ tuổi thích hợp, nam và nữ nên được tiêm
+
+vắc xin HPV (human papillomavirus)
+
+để ngăn ngừa ung thư cổ tử cung và hậu môn liên quan đến HPV.
+
+Những người trưởng thành trước đây chưa được tiêm
+
+vắc xin não mô cầu
+
+nên tiêm vắc xin MenACWY liệu trình 2 liều chính cách nhau ≥ 8 tuần và được tiêm chủng lại 5 năm một lần.
+
+Những bệnh nhân không được tiêm
+
+vắc xin uốn ván-bạch hầu-ho gà
+
+(Tdap) như một phần của liệu trình
+
+vắc xin uốn ván-bạch hầu
+
+(Td) đã hoàn tất của họ nên được tiêm Tdap cho mũi tăng cường Td tiếp theo của họ. Đối với những bệnh nhân đang bắt đầu hoặc tiếp tục liệu trình Td của họ và chưa được dùng Tdap, Tdap nên được thay thế bằng một trong các mũi Td tăng cường.
+
+Tất cả các bệnh nhân nên được tiêm
+
+vắc xin zoster tái tổ hợp
+
+.
+
+Vắc-xin thủy đậu
+
+và
+
+vắc xin sởi, quai bị và rubella (MMR)
+
+có thể được tiêm cho những bệnh nhân có tỷ lệ CD4 ≥ 15% và số lượng CD4 ≥ 200/mcL, nhưng những loại vắc xin này bị chống chỉ định ở những bệnh nhân có tỷ lệ CD4 < 15% hoặc số lượng CD4 < 200/mcL.
+
+Những người nhiễm HIV nên được tiêm đầy đủ một loạt
+
+vắc xin phòng COVID-19
+
+, bất kể số lượng CD4 hoặc tải lượng vi rút vì lợi ích tiềm ẩn lớn hơn nguy cơ tiềm ẩn (
+
+4
+
+).
+
+Tiêm phòng Mpox
+
+được khuyến nghị cho những người nhiễm HIV có nguy cơ mắc MPox. Vắc xin Mpox duy nhất được khuyến nghị cho những người nhiễm HIV là vaccinia Ankara sửa đổi (Jynneos ở Hoa Kỳ), được làm từ một loại vi rút vaccinia giảm độc lực, không sao chép và có hồ sơ an toàn tuyệt vời.
+
+Thông thường, nên tiêm vắc-xin bất hoạt. Những loại vắc-xin này ít hiệu quả hơn ở những bệnh nhân có HIV dương tính hơn những người có HIV âm tính.
+
+Phụ nữ mang thai nhiễm HIV nên được tiêm chủng thường quy theo khuyến nghị trong thời kỳ mang thai. Vì thuốc chủng ngừa vi rút sống có thể nguy hiểm đối với những bệnh nhân bị ức chế miễn dịch nặng nên tìm hiểu ý kiến của chuyên gia khi đối phó với những bệnh nhân có nguy cơ mắc varicella; các khuyến cáo là khác nhau (xem thông tin về tiêm chủng trong
+
+HIV ở trẻ sơ sinh và trẻ em
+
+và xem bảng
+
+Những lưu ý khi sử dụng vắc xin sống ở trẻ em bị nhiễm HIV
+
+).
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+INSIGHT START Study Group, Lundgren JD, Babiker AG, et al
+
+: Bắt đầu điều trị ARV trong trường hợp nhiễm HIV giai đoạn đầu không có triệu chứng.
+
+N Engl J Med
+
+373 (9):795–807, 2015 doi:10.1056/NEJMoa1506816
+
+2.
+
+Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Bệnh phức hợp Mycobacterium Avium lan tỏa.
+
+Truy cập ngày 7 tháng 5 năm 2024.
+
+3.
+
+Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Cryptococcosis.
+
+Truy cập ngày 7 tháng 5 năm 2024.
+
+4.
+
+COVID Vaccine Guidance for COVID-19 and People With HIV
+
+: Truy cập ngày 7 tháng 5 năm 2024.
+
+Tiên lượng về nhiễm HIV
+
+Nguy cơ nhiễm HIV giai đoạn cuối, tử vong hoặc cả hai đều được dự đoán bởi
+
+số lượng CD4 trong thời gian ngắn
+
+Mức RNA HIV trong huyết thanh trong thời gian dài
+
+Với tải lượng vi rút cứ tăng gấp 3 lần (0,5 log
+
+10
+
+), tỷ lệ tử vong trong 2 năm đến 3 năm tiếp theo sẽ tăng khoảng 50% (
+
+1-3
+
+). Tỷ lệ bệnh và tử vong liên quan đến HIV rất thay đổi theo số lượng CD4, với số ca tử vong nhiều nhất do các nguyên nhân liên quan đến HIV xảy ra với số lượng
+
+<
+
+50/mcL. Tuy nhiên, với điều trị hiệu quả, nồng độ RNA HIV giảm đến mức không thể phát hiện được, số lượng CD4 thường tăng đáng kể, nguy cơ mắc bệnh và tử vong giảm nhưng vẫn cao hơn so với quần thể cùng lứa tuổi không nhiễm HIV (
+
+4
+
+). Do đó, chẩn đoán HIV nhanh chóng trước khi bệnh quá nặng và bắt đầu điều trị HIV ngay lập tức là điều cần thiết để tiên lượng bệnh.
+
+Một yếu tố tiên đoán ít được hiểu rõ khác là mức độ hoạt hoá miễn dịch được xác định bằng cách đánh giá sự biểu hiện của các dấu hiệu kích hoạt trên lympho bào CD4 và CD8. Sự hoạt hoá có thể là do sự rò rỉ của vi khuẩn trên niêm mạc đại tràng bị tổn thương do HIV, là một yếu tố dự báo mạnh mẽ nhưng không được sử dụng lâm sàng bởi vì xét nghiệm này không phổ biến rộng rãi và liệu pháp kháng retrovirus sẽ làm thay đổi tiên lượng, làm cho xét nghiệm này không quan trọng.
+
+Một nhóm nhỏ những người nhiễm HIV (được gọi là những người không tiến triển bệnh lâu dài) vẫn không có triệu chứng với số lượng CD4 cao và nồng độ HIV trong máu thấp mà không cần điều trị bằng thuốc kháng retrovirus. Những người này thường có phản ứng miễn dịch tế bào và dịch thể mạnh mẽ đối với dòng vi rút HIV của họ như được đo bằng các dấu hiệu trên thực nghiệm. Sự đặc hiệu được thể hiện qua: Khi những người này có được một siêu vi khuẩn với một chủng HIV thứ hai mà đáp ứng miễn dịch của họ không hiệu quả, họ sẽ chuyển sang tiến triển điển hình hơn. Do đó, đáp ứng hiệu quả bất thường của chúng đối với dòng đầu tiên chưa chắc đã cho dòng thứ hai. Những trường hợp này mang đến cơ sở hợp lý để tư vấn cho những người nhiễm HIV rằng họ vẫn cần tránh tiếp xúc với nguy cơ bội nhiễm HIV thông qua quan hệ tình dục không an toàn hoặc dùng chung kim tiêm.
+
+Người ta cho rằng việc chữa khỏi bệnh nhiễm HIV là không thể và do đó việc điều trị bằng thuốc suốt đời được coi là cần thiết. Bệnh nhân nhiễm HIV nên được khuyến khích dùng thuốc kháng retrovirus một cách nhất quán. Một ví dụ về khả năng chữa khỏi bệnh bằng chức năng đã được báo cáo rộng rãi ở một trẻ sơ sinh bị loại bỏ tạm thời virus HIV có khả năng sao chép sau khoảng 15 tháng điều trị bằng thuốc kháng retrovirus (
+
+5
+
+). Tuy nhiên, tình trạng nhân lên của HIV sau đó lại tiếp tục (
+
+6
+
+). Việc gián đoạn điều trị HIV định kỳ cũng gây bất lợi. Trong một thử nghiệm lâm sàng quốc tế lớn, nguy cơ nhiễm trùng cơ hội hoặc tử vong do bất kỳ nguyên nhân nào, đặc biệt là do bệnh động mạch vành sớm, biến cố mạch máu não hoặc rối loạn gan và thận, cao hơn đáng kể khi điều trị bằng thuốc kháng retrovirus được thực hiện theo từng giai đoạn (được hướng dẫn bởi số lượng CD4) so ​​với khi được dùng liên tục (
+
+7
+
+).
+
+Chăm sóc cuối đời
+
+Mặc dù liệu pháp kháng retrovirus đã làm gia tăng đáng kể tuổi thọ của bệnh nhân AIDS, nhưng nhiều bệnh nhân vẫn suy giảm và chết. Cái chết có thể xảy ra từ những điều sau đây:
+
+Không điều trị ARV duy trì thường xuyên, dẫn đến giảm miễn dịch tiến triển
+
+Sự xuất hiện của nhiễm trùng cơ hội không được điều trị và ung thư
+
+Suy gan do viêm gan B hoặc C
+
+Tăng lão hóa và rối loạn liên quan đến tuổi tác
+
+Các loại ung thư không liên quan đến AIDS xảy ra với tỷ lệ cao hơn ở những bệnh nhân nhiễm HIV có kiểm soát tốt
+
+Cái chết hiếm khi đột ngột; do đó, bệnh nhân thường có thời gian để lập kế hoạch. Tuy nhiên, bệnh nhân nên ghi lại kế hoạch chăm sóc sức khoẻ sớm, với hướng dẫn rõ ràng về chăm sóc cuối cùng của cuộc đời. Các văn bản pháp luật khác, bao gồm
+
+quyền hạn của luật sư
+
+và di chúc, nên được đặt đúng chỗ.
+
+Với bệnh nhân chăm sóc
+
+cuối cuộc đời
+
+, bác sĩ lâm sàng có thể cần kê toa thuốc để giảm đau, giảm sự chán ăn, giảm kích động, và các triệu chứng đau buồn khác. Việc giảm cân nhiều ở nhiều người trong giai đoạn cuối của HIV khiến việc chăm sóc da tốt trở nên khó khăn. Sự hỗ trợ toàn diện mà các chương trình chăm sóc cuối đời mang lại sẽ giúp ích cho nhiều bệnh nhân vì các chuyên gia chăm sóc sức khỏe cuối đời có kỹ năng quản lý triệu chứng và hỗ trợ người chăm sóc cũng như quyền tự chủ của bệnh nhân.
+
+Tài liệu tham khảo về tiên lượng
+
+1.
+
+Mellors JW, Kingsley LA, Rinaldo CR, et al
+
+: Quantitation of HIV-1 RNA in plasma predicts outcome after seroconversion.
+
+Ann Internal Med
+
+122(8):573-579, 1995 doi: 10.7326/0003-4819-122-8-199504150-00003
+
+2.
+
+Mellors JW, Rinaldo CR, Gupta P, et al
+
+: Prognosis in HIV-1 infection predicted by the quantity of virus in plasma.
+
+Science
+
+272(5265):1167-1170, 1996 doi:10.1126/science.272.5265.1167
+
+3.
+
+Welles SL, Jackson JB, Yen-Lieberman B, et al
+
+: Prognostic value of plasma human immunodeficiency virus type 1 (HIV-1) RNA levels in patients with advanced HIV-1 disease and with little or no prior zidovudine therapy. AIDS Clinical Trials Group Protocol 116A/116B/117 Team.
+
+J Infect Dis
+
+174(4):696-703, 1996 doi:10.1093/infdis/174.4.696
+
+4.
+
+Park LS, Tate JP, Sigel K, et al
+
+: Association of viral suppression with lower AIDS-defining and non-AIDS-defining cancer incidence in HIV-infected veterans: A prospective cohort study.
+
+Ann Intern Med
+
+169(2):87-96, 2018 doi:10.7326/m16-2094
+
+5.
+
+Persaud D, Gay H, Ziemniak C, et al
+
+: Absence of detectable HIV-1 viremia after treatment cessation in an infant.
+
+N Engl J Med
+
+369(19):1828-1835, 2013 doi:10.1056/NEJMoa1302976
+
+6.
+
+Ledford H
+
+: HIV rebound dashes hope of 'Mississippi baby' cure.
+
+Nature
+
+2014. doi.org/10.1038/nature.2014.15535
+
+7.
+
+Strategies for Management of Antiretroviral Therapy (SMART) Study Group, El-Sadr WM, Lundgren J, et al
+
+: CD4+ count-guided interruption of antiretroviral treatment.
+
+N Engl J Med
+
+355(22):2283-2296, 2006 doi: 10.1056/NEJMoa062360
+
+Phòng ngừa lây nhiễm HIV
+
+Vắc xin chống lại HIV rất khó phát triển vì các protein bề mặt HIV đột biến dễ dàng, dẫn đến một sự đa dạng rất lớn các loại kháng nguyên. Tuy nhiên, nhiều ứng cử viên vắc xin khác nhau đang được nghiên cứu và một số đã cho thấy nhiều hứa hẹn trong các thử nghiệm lâm sàng. Hiện tại, chưa có vắc xin HIV hiệu quả.
+
+Phòng lây truyền
+
+Cho đến nay, các chất khử trùng âm đạo (bao gồm cả thuốc kháng vi rút) được đưa vào trước khi quan hệ tình dục đã tỏ ra không hiệu quả và một số dường như làm tăng nguy cơ cho phụ nữ, có lẽ bằng cách gây tổn thương tế bào và do đó làm giảm các rào cản tự nhiên đối với HIV.
+
+Các biện pháp hiệu quả bao gồm:
+
+Giáo dục công cộng:
+
+Giáo dục có hiệu quả và dường như làm giảm tỷ lệ nhiễm bệnh ở một số quốc gia, đặc biệt là ở Thái Lan và Uganda. Do quan hệ tình dục chiếm phần lớn các trường hợp, nên dạy mọi người tránh các hành vi tình dục không an toàn là biện pháp phù hợp nhất (xem bảng
+
+Nguy cơ lây truyền HIV đối với một số tình trạng quan hệ tình dục
+
+).
+
+Thực hành tình dục an toàn hơn:
+
+Những người nhiễm HIV không bị ức chế vi rút (tức là không có tải lượng vi rút ở mức không thể phát hiện được) nên thực hành các hành vi tình dục an toàn hơn, điều cần thiết để ngăn ngừa sự lây lan của bệnh. Những người nhiễm HIV bị ức chế vi-rút không truyền vi rút qua đường tình dục cho bạn tình của họ (
+
+1
+
+). Thực hành tình dục an toàn hơn nên được sử dụng bởi một bệnh nhân nhiễm HIV mà nhiễm trùng không bị ức chế do vi rút bất kể họ có quan hệ tình dục với ai. Các thực hành tình dục an toàn hơn cũng được khuyến khích khi cả hai bạn tình đều dương tính với HIV và một hoặc cả hai bạn tình không có ức chế vi rút; quan hệ tình dục không an toàn giữa những người bị nhiễm HIV không có ức chế vi rút có thể khiến một người phơi nhiễm với các chủng HIV kháng thuốc hoặc độc tính hơn. Ngoài ra, thực hành tình dục an toàn hơn giúp ngăn ngừa lây truyền các loại vi rút khác (ví dụ: cytomegalovirus, vi rút Epstein-Barr, vi rút herpes simplex, vi rút viêm gan B) gây bệnh nặng ở bệnh nhân HIV giai đoạn cuối, cũng như giúp ngăn ngừa lây truyền bệnh. bệnh giang mai và các bệnh nhiễm trùng lây truyền qua đường tình dục (STI) khác, bao gồm các bệnh nhiễm trùng đáng lo ngại như bệnh lậu đa kháng thuốc và
+
+Neisseria meningitidis
+
+lây truyền qua đường tình dục. Bao cao su là biện pháp bảo vệ tốt nhất. Chất bôi trơn không nên sử dụng vì chúng có thể làm tan nhựa, làm tăng nguy cơ thất bại bảo vệ của bao cao su. (Xem thêm Center for Disease Control and Prevention (CDC) information on
+
+HIV Transmission
+
+.)
+
+Tư vấn cho người sử dụng thuốc đường tiêm:
+
+Tư vấn về nguy cơ dùng chung bơm kim tiêm có vai trò quan trọng nhưng có lẽ sẽ hiệu quả hơn nếu kết hợp với việc cung cấp bơm kim tiêm vô trùng để giảm lây truyền HIV và các vi rút lây qua đường máu khác do dùng chung dụng cụ tiêm chích bị ô nhiễm, điều trị nghiện ma túy và phục hồi chức năng.
+
+Xét nghiệm xác định nhiễm HIV:
+
+Xét nghiệm nên được cung cấp theo thường quy cho thanh thiếu niên và người lớn có quan hệ tình dục từ 13 tuổi đến 75 tuổi ở hầu hết các cơ sở chăm sóc sức khỏe. Để tạo thuận lợi cho việc kiểm tra thường xuyên, một số tiểu bang không cần phải có sự chấp thuận bằng văn bản hoặc tư vấn trước khi xét nghiệm mở rộng.
+
+Tư vấn cho phụ nữ mang thai:
+
+Lây truyền từ mẹ sang con
+
+hầu như đã được loại bỏ nhờ xét nghiệm HIV, điều trị bằng ART và, ở các quốc gia có nguồn lực dồi dào, sử dụng các sản phẩm thay thế sữa mẹ. Nếu phụ nữ mang thai được biết là nhiễm HIV hoặc xét nghiệm dương tính với HIV, họ nên được tư vấn về nguy cơ lây truyền từ mẹ sang con. Phụ nữ mang thai bị nhiễm HIV cần phải được khuyến khích chấp nhận điều trị để ngăn ngừa lây nhiễm cho thai nhi hoặc trẻ sơ sinh, thường bắt đầu từ khoảng 14 tuần tuổi thai. Liệu pháp kết hợp thường được sử dụng vì nó có hiệu quả hơn đơn trị liệu và ít có khả năng dẫn đến kháng thuốc. Một số loại thuốc có thể độc hại cho thai nhi hoặc phụ nữ và cần tránh. Nếu phụ nữ đáp ứng các tiêu chuẩn điều trị ARV, họ nên bắt đầu một chế độ phù hợp với tiền sử và giai đoạn của thai nghén và tiếp tục trong suốt thời kỳ mang thai. Mổ lấy thai cũng có thể làm giảm nguy cơ lây truyền. Bất kể phác đồ điều trị trước sinh hay phương pháp sinh nở nào, tất cả phụ nữ nhiễm HIV nên được cho dùng zidovudine theo đường tĩnh mạch trong quá trình chuyển dạ và sau khi sinh, trẻ sơ sinh nên được uống zidovudine, tiếp tục trong 6 tuần sau khi sinh (xem thêm
+
+Phòng ngừa lây truyền chu sinh
+
+). Một số phụ nữ chọn cách chấm dứt thai kỳ vì HIV có thể lây truyền trong tử cung đến thai nhi hoặc vì những lý do khác.
+
+Sàng lọc máu và các cơ quan:
+
+Việc lây qua truyền máu vẫn có thể xảy ra ở Hoa Kỳ bởi vì kết quả kháng thể có thể là âm tính giả trong suốt quá trình lây nhiễm sớm. Hiện nay, việc xét nghiệm máu đối với kháng thể kháng thể p24 được yêu cầu ở Mỹ và có thể làm giảm nguy cơ lây truyền. Rủi ro giảm thêm nữa bằng cách hỏi những người có các yếu tố nguy cơ nhiễm HIV, ngay cả những người có kết quả xét nghiệm kháng thể HIV âm tính gần đây, không hiến máu hoặc các cơ quan để cấy ghép. Hội Chữ thập đỏ đã ban hành hướng dẫn hoãn hiến máu, bao gồm hoãn lại vì đã có bạn tình mới hoặc nhiều hơn một bạn tình trong 3 tháng trước và đã quan hệ tình dục qua đường hậu môn trong 3 tháng qua (xem
+
+American Red Cross Blood Donation Eligibility Criteria: Alphabetical
+
+). Tuy nhiên, việc sử dụng các xét nghiệm sàng lọc HIV nhạy cảm và trì hoãn người hiến tạng, máu và các sản phẩm máu chưa được thực hiện nhất quán ở các quốc gia có gánh nặng HIV cao.
+
+Dự phòng trước phơi nhiễm khi dùng thuốc kháng retrovirus (PrEP):
+
+Trong PrEP, những người không nhiễm HIV nhưng có nguy cơ cao (ví dụ: có bạn tình nhiễm HIV) dùng thuốc kháng retrovirus hàng ngày để giảm nguy cơ nhiễm trùng. CDC khuyến nghị PrEP cho người lớn và thanh thiếu niên hoạt động tình dục có cân nặng ≥ 35 kg báo cáo rằng họ có hành vi tình dục khiến họ có nguy cơ nhiễm HIV đáng kể. CDC cũng khuyến nghị sử dụng PrEP cho những người tiêm chích ma túy và báo cáo các hành vi tiêm chích khiến họ có nguy cơ nhiễm HIV đáng kể. Có thể sử dụng phối hợp tenofovir disoproxil fumarate với emtricitabine (TDF/FTC) hoặc tenofovir alafenamide-emtricitabine (TAF-FTC). Sử dụng PrEP không phải không cần sử dụng các phương pháp khác để giảm nguy cơ lây nhiễm HIV, bao gồm sử dụng bao cao su và tránh các hành vi có nguy cơ cao (như dùng chung kim). Dữ liệu liên quan đến trẻ sơ sinh của các bà mẹ âm tính với HIV dùng TDF/FTC PrEP trong thời kỳ mang thai chưa đầy đủ, nhưng hiện tại, không có tác dụng bất lợi nào được báo cáo ở trẻ sinh ra từ những phụ nữ nhiễm HIV được điều trị bằng TDF/FTC. Việc sử dụng PrEP để giảm nguy cơ nhiễm HIV ở những người sử dụng thuốc tiêm đang được nghiên cứu. Thuốc kháng vi rút tác dụng kéo dài (ví dụ: cabotegravir LA, thuốc ức chế integrase dạng tiêm được dùng 8 tuần một lần, được chỉ định cho PrEP ở người lớn và thanh thiếu niên có cân nặng ít nhất 35 kg). Để biết các khuyến nghị hiện tại của CDC, hãy xem
+
+Hướng dẫn lâm sàng về PrEP
+
+.
+
+Cắt bao quy đầu của nam giới:
+
+Dữ liệu từ nam thanh niên châu Phi cho thấy cắt bao quy đầu làm giảm khoảng 50% nguy cơ lây nhiễm HIV từ bạn tình nữ khi quan hệ tình dục qua đường âm đạo; cắt bao quy đầu ở nam giới có thể có hiệu quả tương tự ở các quần thể bệnh nhân nam khác. Cho dù cắt bao quy đầu làm giảm lây truyền HIV từ nam giới HIV sang phụ nữ hay giảm nguy cơ nhiễm HIV từ một bạn tình nam nhiễm HIV chưa được biết.
+
+Biện pháp phòng ngừa phổ quát:
+
+Các bác sĩ lâm sàng y tế và nha khoa nên đeo găng tay trong các tình huống có thể liên quan đến việc tiếp xúc với màng nhầy hoặc chất dịch cơ thể của bất kỳ bệnh nhân nào và nên được dạy cách tránh tai nạn do kim tiêm. Những người chăm sóc tại nhà của bệnh nhân nhiễm HIV nên đeo găng tay nếu tay của họ có thể tiếp xúc với chất dịch cơ thể. Bề mặt hoặc dụng cụ bị ô nhiễm bởi máu hoặc các chất dịch cơ thể khác cần được làm sạch và khử trùng. Chất khử trùng hiệu quả bao gồm nhiệt, peroxit, rượu, phenolics, và hypochlorite (thuốc tẩy). Việc cách ly bệnh nhân nhiễm HIV là không cần thiết trừ khi có dấu hiệu nhiễm trùng cơ hội đang hoạt động (ví dụ: bệnh lao).
+
+Điều trị nhiễm HIV:
+
+Điều trị bằng ART làm giảm nguy cơ lây truyền.
+
+Dự phòng sau phơi nhiễm (PEP)
+
+Hậu quả tiềm ẩn của việc tiếp xúc với HIV đã thúc đẩy sự phát triển của các chính sách và thủ tục, đặc biệt là điều trị dự phòng, để giảm nguy cơ lây nhiễm cho nhân viên y tế.
+
+Điều trị dự phòng được chỉ định sau
+
+Thương tích xuyên thấu liên quan đến máu nhiễm HIV (thường là kim tiêm)
+
+Tiếp xúc nhiều màng nhầy (mắt hoặc miệng) với các dịch cơ thể bị nhiễm bệnh như tinh dịch, chất dịch âm đạo hoặc các chất dịch cơ thể có chứa máu (ví dụ, dịch ối)
+
+Các chất dịch cơ thể như nước bọt, nước tiểu, nước mắt, tiết nước mũi, ói mửa, hoặc mồ hôi không được coi là có khả năng lây nhiễm trừ khi chúng có máu rõ rệt.
+
+Sau khi tiếp xúc với máu, khu vực tiếp xúc cần được làm sạch ngay bằng xà phòng và nước để tiếp xúc với da và có chất sát khuẩn cho vết thương đâm thủng. Nếu niêm mạc phơi nhiễm, cần rửa bằng một lượng lớn nước.
+
+Làm theo các hướng dẫn:
+
+Loại phơi nhiễm
+
+Thời gian kể từ khi phơi nhiễm
+
+Thông tin lâm sàng (bao gồm các yếu tố nguy cơ và các xét nghiệm huyết thanh học đối với HIV) về bệnh nhân nguồn cho việc tiếp xúc và người tiếp xúc
+
+Loại phơi nhiễm
+
+được định nghĩa bởi
+
+Chất dịch nào cơ thể
+
+Cho dù phơi nhiễm có liên quan đến vết thương thâm nhập (ví dụ, kim chích, cắt bằng vật sắc nhọn) và tổn thương sâu như thế nào
+
+Cho dù chất lỏng có tiếp xúc với da không nguyên vẹn (ví dụ như nứt da hay khô) hoặc niêm mạc
+
+Nguy cơ lây nhiễm
+
+khoảng 0,3% (1:300) sau khi phơi nhiễm qua da điển hình và khoảng 0,09% (1:1100) sau khi tiếp xúc với niêm mạc. Những rủi ro này khác nhau tuỳ vào lượng HIV truyền cho người bị thương; số lượng HIV lây truyền bị ảnh hưởng bởi nhiều yếu tố, bao gồm tải lượng vi rút của nguồn và loại kim tiêm (ví dụ, rỗng hoặc dạng đặc). Tuy nhiên, những yếu tố này không còn được tính đến trong các khuyến cáo về PEP.
+
+Nguồn
+
+lây nhiễm cần được chú ý cho dù nó được biết hoặc không rõ. Nếu không biết nguồn (ví dụ: kim trên đường phố hoặc trong thùng đựng chất thải), rủi ro cần được đánh giá dựa trên các trường hợp phơi nhiễm (ví dụ: liệu phơi nhiễm xảy ra ở khu vực có tiêm chích, hay có kim tiêm đã dùng được bỏ đi trong một cơ sở điều trị nghiện ma túy). Nếu biết nguồn nhưng không biết tình trạng nhiễm HIV, thì nguồn đó được đánh giá về các yếu tố nguy cơ nhiễm HIV và xem xét điều trị dự phòng.
+
+Mục tiêu là bắt đầu PEP ngay sau khi tiếp xúc càng sớm càng tốt nếu phòng ngừa được bảo đảm. CDC khuyến cáo nên cung cấp PEP trong vòng 24 đến 36 giờ sau khi tiếp xúc; khoảng cách dài hơn sau khi phơi nhiễm đòi hỏi sự tư vấn của chuyên gia.
+
+Việc sử dụng PEP được xác định bởi nguy cơ nhiễm trùng; hướng dẫn khuyến nghị điều trị bằng thuốc kháng retrovirus với ≥ 3 loại thuốc kháng retrovirus trong 28 ngày (
+
+2
+
+). Các loại thuốc nên được lựa chọn cẩn thận để giảm thiểu tác dụng bất lợi và cung cấp lịch dùng thuốc thuận tiện và do đó khuyến khích hoàn thành PEP. Phác đồ ưu tiên bao gồm phối hợp 2 thuốc ức chế men sao chép ngược nucleoside (NRTI) và thuốc ức chế integrase, bictegravir-emtricitabine-tenofovir alafenamide hoặc dolutegravir phối hợp với tenofovir disoproxil fumarate-emtricitabine (TDF/FTC) hoặc tenofovir alafenamide-emtricitabine (TAF/FTC). Một phác đồ thay thế có thuốc ức chế integrase là raltegravir (400 mg hai lần mỗi ngày) và TDF/FTC hoặc TAF/FTC được dùng một lần mỗi ngày. Trong những trường hợp hiếm hoi không thể sử dụng phác đồ có thuốc ức chế integrase, TDF/FTC hoặc TAF/FTC có thể được phối hợp với thuốc ức chế protease darunavir được tăng cường. (Để biết các khuyến nghị chi tiết, hãy xem
+
+The 2022 Recommendations of the International Antiviral Society—USA Panel: Antiretroviral Drugs for Treatment and Prevention of HIV Infection in Adults
+
+.)
+
+Nếu vi rút của nguồn được biết hoặc nghi là có khả năng kháng
+
+≥
+
+1 loại thuốc, cần có sự tư vấn một chuyên gia về liệu pháp kháng retrovirus và HIV. Tuy nhiên, các bác sĩ lâm sàng không nên trì hoãn PEP trong khi chờ ý kiến chuyên gia hoặc thử nghiệm tính nhạy cảm của thuốc. Ngoài ra, các bác sỹ lâm sàng nên đánh giá ngay lập tức và tư vấn trực tiếp và không chậm trễ theo dõi chăm sóc.
+
+Ở những bệnh nhân có thể mang thai hoặc đang mang thai, phác đồ dự phòng sau phơi nhiễm bước đầu tương tự như phác đồ dự phòng cho bệnh nhân không mang thai, bao gồm TDF/FTC hoặc TAF/FTC mỗi ngày một lần cộng với dolutegravir (50 mg mỗi ngày một lần) hoặc raltegravir (400 mg hai lần mỗi ngày). Nói chung, tránh dùng Bictegravir-emtricitabine-tenofovir alafenamide ở phụ nữ mang thai và những người trong độ tuổi sinh đẻ không sử dụng biện pháp tránh thai hiệu quả vì có rất ít dữ liệu về việc sử dụng thuốc này trong thời kỳ mang thai (
+
+3
+
+).
+
+Tài liệu tham khảo về phòng ngừa
+
+1.
+
+Rodger AJ, Cambiano V, Bruun T, et al
+
+: Sexual activity without condoms and risk of HIV transmission in serodifferent couples when the HIV-positive partner is using suppressive antiretroviral therapy.
+
+JAMA
+
+316(2):171-81, 2016. doi:10.1001/jama.2016.5148
+
+2.
+
+Centers for Disease Control and Prevention: US Public Health Service
+
+: Preexposure prophylaxis for the prevention of HIV infection in the United States—2021 Update: A clinical practice guideline. Truy cập ngày 13 tháng 5 năm 2024.
+
+3.
+
+Gandhi RT, Bedimo R, Hoy JF, et al
+
+: Antiretroviral drugs for treatment and prevention of HIV infection in adults: 2022 Recommendations of the International Antiviral Society-USA Panel.
+
+JAMA
+
+329(1):63-84, 2023 doi:10.1001/jama.2022.22246
+
+Những điểm chính
+
+HIV xâm nhập các tế bào lympho CD4+ và do đó can thiệp vào miễn dịch qua trung gian qua tế bào, và ở mức độ thấp hơn, miễn dịch dịch thể.
+
+HIV lây lan chủ yếu qua quan hệ tình dục, tiếp xúc với máu bị ô nhiễm hoặc mô hoặc cơ quan được cấy ghép và lây truyền dọc (trong tử cung, trong khi sinh hoặc khi cho con bú).
+
+Sự đột biến vi rút thường kết hợp với sự hủy hoại của hệ thống miễn dịch làm giảm đáng kể khả năng của cơ thể để xóa bỏ nhiễm HIV.
+
+Nhiều trường hợp nhiễm trùng cơ hội và ung thư có thể phát triển và là nguyên nhân gây tử vong thường thấy ở những bệnh nhân không được điều trị.
+
+Chẩn đoán bằng xét nghiệm kháng thể và theo dõi bằng cách đo tải lượng vi rút và số lượng CD4.
+
+Điều trị với sự kết hợp của các thuốc kháng retrovirus, có thể khôi phục chức năng miễn dịch ở mức bình thường ở hầu hết các bệnh nhân nếu họ uống thuốc một cách đều đặn.
+
+Periodically counsel patients with HIV about safer sex.
+
+Phòng chống trước phơi nhiễm hoặc sau phơi nhiễm và dự phòng trước khi điều trị dự phòng khi được chỉ định.
+
+Dự phòng ban đầu chống lại các nhiễm trùng cơ hội dựa trên số lượng CD4.
+
+Thông tin thêm
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.
+
+CDC 2024 Immunization Schedule
+
+: Recommended adult immunization schedule by medical condition and other indications
+
+Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents: Drug-Drug Interactions
+
+: Information regarding pharmacokinetic (PK) drug-drug interactions between antiretroviral (ARV) drugs and concomitant medications that are common and may lead to increased or decreased drug exposure
+
+Guidelines for Prevention and Treatment of Opportunistic Infections in HIV-Infected Adults and Adolescents
+
+Guidelines on Post-Exposure Prophylaxis for HIV and the Use of Co-Trimoxazole Prophylaxis for HIV-Related Infections Among Adults, Adolescents and Children
+
+: Recommendations for a public health approach - December 2014 supplement to the 2013 consolidated ARV guidelines
+
+National Institutes of Health's AIDSInfo
+
+: HIV-related research information from the NIH’s Office of AIDS Research (OAR), the National Institute Of Allergy and Infectious Diseases (NIAID), and the U.S. National Library of Medicine (NLM)
+
+CDC: Post-Exposure Prophylaxis (PEP)
+
+: Resources for providers and consumer regarding the use of antiretroviral drugs after a single high-risk event to stop HIV seroconversion
+
+Primary Care Guidelines for the Management of Persons Infected with Human Immunodeficiency Virus: 2020 Update by the HIV Medicine Association of the Infectious Diseases Society of America
+
+: Evidence-based guidelines for the management of people infected with HIV
+
+Updated U.S. Public Health Service Guidelines for the Management of Occupational Exposures to HIV and Recommendations for Postexposure Prophylaxis (PEP)
+
+: Updated recommendations regarding HIV PEP regimens and the duration of HIV follow-up testing for exposed personnel
+
+American Red Cross Blood Donation Eligibility Criteria: Alphabetical
+
+: Revised guidance document providing blood establishments that collect blood or blood components, including Source Plasma, with revised donor deferral recommendations for individuals with increased risk for transmitting HIV infection
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Dịch tễ học về nhiễm HIV ---
+
+Các thống kê HIV toàn cầu sau đây được Tổ chức Y tế Thế giới (WHO) ước tính vào năm 2022 (xemDữ liệu và Thống kê về HIV):Tỷ lệ nhiễm HIV trên toàn cầu – 39 triệuTrẻ em (0 tuổi đến 14 tuổi) nhiễm HIV – 1,5 triệuNhững người mới được chẩn đoán nhiễm HIV – 1,3 triệu; kể từ năm 2010, số người nhiễm HIV đã giảm 38%, từ 2,1 triệu ngườiTỷ lệ tử vong do các nguyên nhân liên quan đến HIV – 630.000; kể từ năm 2010, tỷ lệ tử vong liên quan đến HIV đã giảm 51%, từ 1,3 triệuNhững người nhiễm HIV được điều trị bằng thuốc kháng retrovirus – 29,8 triệuNhững người nhiễm HIV biết tình trạng của họ – 86% (76% số người biết tình trạng của họ đang được điều trị và 71% số người đã ức chế tải lượng vi rút)Nhiễm HIV phổ biến nhất ở Châu Phi, đặc biệt là ở Châu Phi cận Sahara. WHO ước tính số liệu thống kê năm 2022 ở Châu Phi bao gồm những điều sau đây (xemDữ liệu và thống kê về HIV):Tỷ lệ hiện mắc – 25,6 triệu (90% biết tình trạng của họ, 82% đang được điều trị và 76% đã ức chế tải lượng vi rút)Những người mới được chẩn đoán nhiễm HIV – 660.000 (giảm xuống 0,57 trên 1000 dân số không bị nhiễm từ 1,75 trên 1000 vào năm 2010)Tỷ lệ tử vong do các nguyên nhân liên quan đến HIV – 380.000 (giảm 56% so với 2010)Các ước tính gần đây nhất về HIV (ở người ≥ 13 tuổi) ở Hoa Kỳ từ năm 2021 bao gồm những điều sau đây (xemThống kê ở Hoa Kỳ: Thông tin nhanh):Tỷ lệ hiện mắc – 1,2 triệu người (13% không biết về tình trạng của họ)Những người nhiễm HIV – 32.100 (ước tính số ca nhiễm HIV mới đã giảm 12% so với 36.500 ca vào năm 2017)Những người nhiễm HIV theo quần thể phụ – Nam giới có quan hệ tình dục đồng giới nam (22.400 [70%]); những người báo cáo có quan hệ tình dục khác giới (7.100 [22%]); những người tiêm chích ma túy (2.500 ([8%])HIV đã lây lan qua các con đường dịch tễ học khác nhau:Quan hệ tình dục đồng giới (ảnh hưởng tương đương đến nam giới và phụ nữ)Nam giới quan hệ tình dục đồng giớiTiếp xúc với máu bị nhiễm bệnh (ví dụ: như dùng chung kim tiêm và truyền máu mà không có biện pháp sàng lọc người hiến máu hiệu quả)Lây truyền từ mẹ sang conHầu hết các trường hợp nhiễm HIV đều lây truyền qua quan hệ tình dục khác giới, nhưng các yếu tố nguy cơ khác nhau tùy theo khu vực hoặc mức thu nhập quốc gia. Ví dụ, ở các nước có nguồn lực cao, lây truyền giữa nam quan hệ tình dục đồng giới thường là cách lây nhiễm phổ biến nhất, trong khi những người tiêm chích ma túy bị ảnh hưởng không tương xứng ở Trung và Đông Âu (1, 2).Ở những vùng lây đường lây truyền qua đường tình dục là chủ yếu, nhiễm HIV có thể lan tràn qua đường tàu biển, vận tải và chuyển vùng kinh tế từ các thành phố và lan truyền sang các vùng nông thôn. Ở châu Phi, đặc biệt là miền nam châu Phi, đại dịch HIV đã giết chết hàng chục triệu người trưởng thành, tạo ra hàng triệu trẻ mồ côi. Các yếu tố liên quan đến tỷ lệ lây lan gia tăng bao gồmNghèo đói và bạo lực tình dụcGiáo dục giới tính hạn và nhận thức về HIVCác hệ thống chăm sóc sức khỏe không cung cấp khả năng tiếp cận xét nghiệm HIV và thuốc kháng retrovirútKỳ thị, tội phạm hóa và phân biệt đối xử với người nhiễm HIVNhiều trường hợp nhiễm trùng cơ hội trên bệnh nhân HIV làm hoạt hoá những nhiễm trùng tiềm ẩn. Vì vậy, các yếu tố dịch tễ học xác định tỷ lệ nhiễm trùng tiềm ẩn cũng ảnh hưởng đến nguy cơ nhiễm trùng cơ hội cụ thể. Ở nhiều quốc gia có tỷ lệ nhiễm HIV cao, tỷ lệ mắcbệnh laotiềm ẩn vàbệnh do toxoplasmatrong dân số nói chung cao hơn các quốc gia khác. Sự gia tăng nghiêm trọng bệnh lao tái hoạt và viêm não nhiễm độc tố đã kéo theo dịch bệnh ức chế miễn dịch do HIV gây ra ở các nước này. Tương tự như vậy ở Hoa Kỳ, tỷ lệ mắcbệnh coccidioidomycosis, phổ biến ở vùng Tây Nam vàbệnh histoplasma, phổ biến ở vùng Trung Tây, đã gia tăng do nhiễm HIV.Nhiễm herpesvirus 8 ở người, gây ra bệnhKaposi sarcoma, thường gặp ở nam giới có quan hệ tình dục đồng giới nhưng hiếm gặp ở những bệnh nhân nhiễm HIV khác ở Hoa Kỳ và Châu Âu. Như vậy, tại Hoa Kỳ,>90% người nhiễm HIV phát triển ung thư Kaposi là nam giới có quan hệ tình dục đồng giới (3).Tài liệu tham khảo về dịch tễ học1.Vermund SH, Leigh-Brown AJ: The HIV epidemic: High-income countries.Cold Spring Harb Perspect Med2(5):a007195, 2012 doi: 10.1101/cshperspect.a0071952.Hamers FF, Downs AM: HIV in central and eastern Europe.Lancet361(9362):1035-1044, 2003. doi: 10.1016/S0140-6736(03)12831-03.Bhutani M, Polizzotto MN, Uldrick TS, et al: Kaposi sarcoma-associated herpesvirus-associated malignancies: Epidemiology, pathogenesis, and advances in treatment.Semin Oncol42(2):223–246, 2015 doi: 10.1053/j.seminoncol.2014.12.027
+
+--- 2. Lây truyền nhiễm HIV ---
+
+Sự lây truyền HIV đòi hỏi phải tiếp xúc với dịch cơ thể – cụ thể là máu, tinh dịch, dịch tiết âm đạo, sữa mẹ hoặc dịch tiết từ vết thương hoặc tổn thương da và niêm mạc – có chứa vi rút HIV tự do hoặc tế bào bị nhiễm bệnh. Khả năng lây truyền hay gặp hơn khi có nồng độ vi rút cao thường điển hình với nhiễm trùng ban đầu,hoặc ngay cả khi không có triệu chứng. Sự lây truyền qua nước bọt hay giọt bắn do ho hoặc hắt hơi, mặc dù có thể có khả năng, nhưng rất khó xảy ra.HIV không lây truyền qua tiếp xúc không liên quan đến trao đổi dịch cơ thể.Đường lây truyền thường gặpTình dục: Lây truyền trực tiếp qua quan hệ tình dụcKim hoặc dụng cụ liên quan: Dùng chung kim tiêm có máu hoặc tiếp xúc với dụng cụ y tế bị nhiễm máuTruyền máu hoặc liên quan đến ghép tạngTheo chiều dọc: Lây truyền từ mẹ bị nhiễm bệnh sang con trong khi mang thai, sinh nở hoặc qua sữa mẹLây truyền HIV qua đường tình dụcCác hành vi tình dục có nguy cơ cao nhất là những hành vi gây ra chấn thương niêm mạc (xem bảngNguy cơ lây truyền HIV đối với một số dạng quan hệ tình dục. Một đánh giá có hệ thống đã báo cáo nguy cơ lây truyền theo hành vi tình dục sau đây (1):Giao hợp qua đường hậu môn: 1/72 hành vi tình dụcGiao hợp qua đường hậu môn dạng luồn vào: 1 trên 909Giao hợp dương vật-âm đạo dạng tiếp xúc: 1 trên 1250Giao hợp dương vật-âm đạo dạng luồn vào: 1 trên 2500Quan hệ tình dục bằng miệng dạng tiếp xúc hoặc dạng luồn vào: 0 đến 4 trên 10.000 lần phơi nhiễmNguy cơ lây truyền khi quan hệ tình dục qua đường miệng không tăng đáng kể nếu nuốt phải tinh dịch hoặc dịch tiết âm đạo. Tuy nhiên, vết loét há miệng, chảy máu lợi, hoặc tiếp xúc miệng với máu kinh nguyệt có thể làm tăng nguy cơ (Tình dục qua đường miệng và nguy cơ nhiễm HIV). Các hành động gây tổn thương màng nhầy như dùng tay (đưa hầu hết hoặc toàn bộ tay vào trực tràng hoặc âm đạo) và sử dụng đồ chơi tình dục. Khi sử dụng trong khi giao hợp với bạn tình nhiễm HIV, những hành vi này sẽ làm tăng nguy cơ lây truyền HIV.Viêm niêm mạc tạo điều kiện thuận lợi cho quá trình lây truyền HIV. Các vết loét trên miệng, âm đạo, dương vật hoặc trực tràng làm tăng nguy cơ lây truyền. Các bệnh nhiễm trùng lây truyền qua đường tình dục, chẳng hạn nhưbệnh lậu,chlamydia,bệnh do trichomonasvà đặc biệt là những bệnh gây loét (ví dụ nhưchancroid,herpes,giang mai), làm tăng nguy cơ gấp nhiều lần.Nguy cơ lây truyền tăng lên trong giai đoạn đầu và giai đoạn tiến triển của nhiễm HIV khi nồng độ HIV trong huyết tương và trong dịch sinh dục cao hơn. Bằng chứng cho thấy những người nhiễm HIV được điều trị bằng liệu pháp kháng retrovirus có tải lượng vi rút không thể phát hiện được (bị ức chế vi rút) không truyền vi rút qua đường tình dục cho bạn tình của họ (2, 3).Cắt bao quy đầu dường như làm giảm khoảng 50% nguy cơ nam giới bị nhiễm HIV, bằng cách loại bỏ niêm mạc dương vật (mặt dưới của bao quy đầu), dễ bị nhiễm HIV hơn so với biểu mô vảy sừng hóa, phân tầng bao phủ phần còn lại của dương vật.BảngNguy cơ lây truyền HIV đối với một số hoạt động tình dụcNguy cơ lây truyền HIV đối với một số hoạt động tình dụcNguy cơ*Activity (Hoạt động)Không có (trừ khi có vết loét)HônChà xát và mát xa cơ thểSử dụng các thiết bị tình dục riêng lẻ (ví dụ: đồ chơi tình dục)Sự kích thích sinh dục của bạn tình nhưng không tiếp xúc với tinh dịch hoặc dịch âm đạoTắm bồn hoặc tắm vòi cùng nhauTiếp xúc với phân hoặc nước tiểu nếu da còn nguyên vẹnLý thuyết (nguy cơ rất thấp nếu không có vết loét)Hôn ướtQuan hệ tình dục qua đường miệng-dương vật dạng tiếp xúc mà không xuất tinh hoặc nếu sử dụng bao cao suQuan hệ tình dục qua đường miệng-âm đạo nếu sử dụng rào cảnTiếp xúc miệng-hậu mônDùng ngón tay đưa vào âm đạo hoặc hậu môn, có hoặc không có găng taySử dụng các thiết bị/đồ chơi tình dục được khử trùng trước khi được dùng chung với bạn tìnhThấpQuan hệ tình dục qua đường miệng-dương vật dạng tiếp xúc mà không có bao cao su và xuất tinhQuan hệ tình dục qua đường miệng được thực hiện cho phụ nữ nếu không sử dụng rào cảnSự giao hợp âm đạo hoặc hậu môn nếu sử dụng bao cao su đúng cáchSử dụng các thiết bị/đồ chơi tình dục đưa vào dùng chung nhưng không được khử trùngCaoSự giao hợp âm đạo hoặc hậu môn có hoặc không xuất tinh nếu bao cao su không được sử dụng hoặc không được sử dụng đúng cách* Mọi nguy cơ đều xảy ra khi quan hệ tình dục với người có tải lượng vi rút HIV có thể phát hiện được.* Mọi nguy cơ đều xảy ra khi quan hệ tình dục với người có tải lượng vi rút HIV có thể phát hiện được.Lây truyền qua bơm tiêm hoặc dụng cụNguy cơ lây truyền HIV sau khi dùng dụng cụ y tế bị nhiễm máu xâm nhập vào da là khoảng 1/400 nếu không dùng thuốc kháng vi rút dự phòng sau phơi nhiễm. (1). Dự phòng kháng retrovirus sau phơi nhiễm càng sớm càng tốt sau khi phơi nhiễm được khuyến nghị (Hướng dẫn xử trí phơi nhiễm nghề nghiệp với HIV của Hoa Kỳ). Rủi ro có vẻ cao hơn nếu vết đâm kim sâu hoặc có máu lẫn vào (ví dụ như với một kim tiêm bị dính máu). Rủi ro cũng tăng lên khi sử dụng kim chích rỗng vào động mạch hoặc tĩnh mạch so với kim đặc hoặc các vật thâm nhập khác có chứa máu vì có thể chuyển lượng máu lớn hơn. Vì vậy, dùng chung kim tiêm đã đâm vào tĩnh mạch của người khác là một hoạt động có nguy cơ rất cao.Nguy cơ lây truyền từ các bác sĩ lâm sàng nhiễm HIV thực hiện các biện pháp phòng ngừa thích hợp là không rõ ràng nhưng có vẻ rất ít (Giám sát HIV/AIDS mắc phải do nghề nghiệp). Tuy nhiên, các nghiên cứu sâu rộng trên các bệnh nhân được chăm sóc bởi các bác sĩ nhiễm HIV khác, bao gồm cả các bác sĩ phẫu thuật, đã phát hiện ra một số trường hợp khác.Lây truyền dọc (từ mẹ sang con)HIV có thể lây truyền từ mẹ sang thai nhi hoặc trẻ sơ sinh:Trong khi mang thai, qua nhau thaiTrong khi sinh conQua sữa mẹNguy cơ lây truyền dọc nói chung khi không dùng thuốc kháng retrovirus là 35% đến 45% (4).Tỷ lệ lây truyền có thể giảm đáng kể bằng cách điều trị cho phụ nữ mang thai nhiễm HIV bằng thuốc kháng retrovirus trong thời kỳ mang thai, chuyển dạ và cho con bú.Sinh mổ làm giảm nguy cơ và được ưu tiên cho phụ nữ mang thai nhiễm HIV có tải lượng vi rút > 1.000 bản sao/mL khi hoặc gần khi sinh, không phụ thuộc vào liệu pháp kháng retrovirus trước sinh hoặc không rõ nồng độ (5).Xét nghiệm và điều trị dự phòng cho trẻ sơ sinh cũng làm giảm nguy cơ.HIV được bài tiết qua sữa mẹ. Nguy cơ lây truyền tổng thể qua việc cho con bú là khoảng 14%, phản ánh sự khác nhau về thời gian cho con bú và nồng độ RNA vi rút trong huyết tương (ví dụ: nguy cơ cao ở những phụ nữ bị nhiễm bệnh khi mang thai hoặc trong thời gian cho con bú) (6).Ở các quốc gia có nguồn lực cao, phụ nữ nhiễm HIV được khuyênkhôngnên cho con bú (xemCDC: Breastfeeding and Special Circumstances). Tuy nhiên, ở những nơi hạn chế về nguồn lực, nuôi con bằng sữa mẹ có liên quan đến việc giảm tỷ lệ mắc bệnh và tử vong ở trẻ sơ sinh do suy dinh dưỡng và các bệnh truyền nhiễm. Đối với phụ nữ nhiễm HIV ở những nơi có nguồn lực hạn chế, Tổ chức Y tế Thế giới (WHO) khuyến nghị điều trị bằng thuốc kháng retrovirus và hỗ trợ tuân thủ kết hợp với việc cho con bú trong ít nhất 12 tháng (xemWHO: Guidelines on HIV and Infant Feeding).Vì nhiều phụ nữ nhiễm HIV và con của họ được điều trị hoặc dùng thuốc kháng retrovirus dự phòng trong thời kỳ mang thai nên tỷ lệ nhiễm HIV ở trẻ em đã giảm đáng kể ở nhiều quốc gia (xemNhiễm vi rút gây suy giảm miễn dịch ở người (HIV) ở trẻ sơ sinh và trẻ em).Lây truyền qua truyền máu và liên quan đến ghép tạngViệc sàng lọc những người hiến máu bằng xét nghiệm tìm cả kháng thể kháng HIV và RNA của HIV đã giảm thiểu nguy cơ lây truyền qua truyền máu. Nguy cơ lây truyền HIV hiện nay qua truyền máu được ước tính là < 1/2.000.000 trên mỗi đơn vị được truyền máu ở Hoa Kỳ (7). Tuy nhiên, ở nhiều quốc gia có tỷ lệ nhiễm HIV cao, nơi máu và các sản phẩm máu không được sàng lọc HIV, nguy cơ lây nhiễm HIV qua đường truyền máu vẫn cao.Hiếm khi, HIV đã được truyền qua ghép nội tạng từ những người hiến tặng huyết thanh dương tính HIV. Tình trạng nhiễm bệnh đã phát triển ở những người nhận thận, gan, tim, tuyến tụy, xương và da – tất cả đều chứa máu – nhưng sàng lọc HIV làm giảm đáng kể nguy cơ lây truyền. Việc lây truyền HIV thậm chí còn khó xảy ra hơn khi ghép giác mạc, xương được xử lý bằng ethanol và làm khô lạnh, xương đông lạnh không có tủy, dây chằng hoặc mô liên kết làm khô lạnh hoặc làm khô lạnh và chiếu xạ màng cứng.Việc lây truyền HIV có thể thông qua cách thụ tinh nhân tạo nếu sử dụng tinh trùng từ những người cho nhiễm HIV. Ở Mỹ, rửa tinh trùng được xem là một phương pháp hiệu quả để giảm nguy cơ thụ tinh đối với người phối giống từ người hiến tinh trùng có HIV dương tính.Tài liệu tham khảo về truyền bệnh1.Patel P, Borkowf CB, Brooks JT, et al: Estimating per-act HIV transmission risk: A systematic review.AIDS28(10):1509-1519, 2014. doi: 10.1097/QAD.00000000000002982.Rodger AJ, Cambiano V, Bruun T, et al: Risk of HIV transmission through condomless sex in serodifferent gay couples with the HIV-positive partner taking suppressive antiretroviral therapy (PARTNER): Final results of a multicentre, prospective, observational study.Lancet393(10189):2428-2438, 2019. doi:10.1016/S0140-6736(19)30418-03.Rodger AJ, Cambiano V, Bruun T, et al: Sexual activity without condoms and risk of HIV transmission in serodifferent couples when the HIV-positive partner is using suppressive antiretroviral therapy [published correction appears inJAMA316(2):171-181, 2016 doi: 10.1001/jama.2016.5148. Erratum in:JAMA316(6):667. Erratum in:JAMA316(19):2048, 2016. PMID: 274041854.Newell ML, Coovadia H, Cortina-Borja M, et al: Mortality of infected and uninfected infants born to HIV-infected mothers in Africa: A pooled analysis.Lancet364(9441):1236-1243, 2004. doi:10.1016/S0140-6736(04)17140-75.ACOG Committee Opinion No. 751 Summary: Labor and delivery management of women with human immunodeficiency virus infection.Obstet Gynecol32(3):803-804, 2018 doi: 10.1097/AOG.0000000000002821.6.Dunn DT, Newell ML, Ades AE, Peckham CS: Risk of human immunodeficiency virus type 1 transmission through breastfeeding.Lancet340(8819):585-588, 1992 doi:10.1016/0140-6736(92)92115-v7.Steele WR, Dodd RY, Notari EP, et al: HIV, HCV, and HBV incidence and residual risk in US blood donors before and after implementation of the 12-month deferral policy for men who have sex with men.Transfusion61(3):839-850, 2021 doi: 10.1111/trf.16250
+
+--- 3. Sinh lý bệnh của nhiễm HIV ---
+
+HIV bám vào và xâm nhập vào tế bào T của vật chủ thông qua các phân tử CD4+ và thụ thể chemokine (xem hìnhVòng đời HIV đơn giản hóa). Sau khi dính vào, HIV RNA và một số enzyme mã hoá HIV được giải phóng vào tế bào chủ.Sự sao chép của vi rút đòi hỏi enzyme phiên mã ngược (một DNA polymerase phụ thuộc RNA) sao chép RNA của HIV, tạo ra DNA tiền vi rút; cơ chế sao chép này dễ mắc lỗi, dẫn đến đột biến thường xuyên và do đó tạo ra các kiểu gen HIV mới. Những đột biến tạo điều kiện cho việc tạo ra HIV có thể chống lại sự kiểm soát bởi hệ thống miễn dịch của cơ thể và thuốc kháng vi rút.Các pro-virus DNA xâm nhập vào nhân tế bào của tế bào chủ và được tích hợp vào DNA của cơ thể trong một quá trình liên quan đến integrase, một enzyme HIV khác. Với mỗi tế bào được phân chia, sự kết hợp tiền vi rút DNA sẽ được nhân lên cùng với DNA của vật chủ. Sau đó, ADN HIV tiền vi rút có thể được sao chép sang RNA HIV và dịch mã sang các protein HIV, chẳng hạn như các glycoprotein vỏ bao gồm 41 và 120. Các protein HIV này được lắp ráp thành các virion HIV ở trong tế bào chủ và tạo thành túi trên của màng tế bào của người biến đổi. Mỗi tế bào chủ có thể tạo ra hàng nghìn virion.Sau khi nẩy chồi, protease, một enzyme HIV khác, phân cắt các protein vi rút, biến đổi virion chưa trưởng thành thành một virion trưởng thành, có thể lây nhiễm.Chu kỳ sống đơn giản của HIVHIV gắn kết và xâm nhập vào các tế bào T của vật chủ, sau đó giải phóng HIV RNA và các enzyme vào tế bào chủ. Men sao chép ngược của HIV tạo ra RNA của vi rút như là một tiền vi rút DNA. Tiền vi rút DNA xâm nhập vào nhân tế bào của tế bào chủ, và men integrase tạo điều kiện cho sự kết hợp DNA tiền vi rút vào DNA của vật chủ. Tế bào chủ sau đó sản sinh RNA HIV và các protein HIV. Protein HIV được tập hợp thành virion và nảy chồi HIV từ bề mặt tế bào. Protease HIV phân cắt các protein của vi rút, biến virion chưa trưởng thành thành một virion trưởng thành, vi rút lây nhiễm.Các tế bào lympho CD4+ bị nhiễm sản xuất>98% virion HIV trong huyết tương. Một phần nhỏ của các tế bào lympho CD4+ bị nhiễm bệnh tạo thành một hồ chứa HIV có thể tái hoạt động lại (ví dụ, nếu ngừng điều trị bằng thuốc kháng vi-rút).Nhiễm HIV từ vừa đến nặng, khoảng 108đến 109virion được tạo ra và loại bỏ hàng ngày. Thời gian bán thải trung bình của HIV trong huyết tương là khoảng 36 giờ, khoảng 24 giờ trong tế bào và khoảng 6 giờ đối với vi rút ngoại bào. Mỗi ngày, khoảng 30% tổng gánh nặng HIV ở một người nhiễm bệnh được xoay vòng. Ngoài ra, 5 đến 7% tế bào CD4 chuyển giao hàng ngày và toàn bộ nhóm tế bào CD4 chu chuyển 2 ngày một lần (1). Do đó, nhiễm HIV giai đoạn cuối (AIDS) là kết quả của sự nhân lên liên tục và nhất quán của HIV, dẫn đến vi rút và tình trạng tiêu diệt tế bào lympho CD4 qua trung gian miễn dịch. Hơn nữa, khối lượng cao của việc sao chép HIV và tần suất cao các lỗi sao chép bằng phương pháp sao chép ngược HIV cho kết quả là nhiều đột biến, tăng khả năng tạo ra các dòng kháng miễn dịch của vật chủ và kháng thuốc.Nhiễm một loại retrovirus khác, vi rút T hướng lympho 1 ở người (HTLV-1), ít phổ biến hơn nhưng cũng có thể gây bệnh nghiêm trọng.Hệ thống miễn dịchHai hậu quả chính của nhiễm HIV làTổn thương cho hệ thống miễn dịch, đặc biệt là sự suy giảm của tế bào lympho CD4+Hoạt hóa miễn dịchTế bào lympho CD4+ liên quan đến đáp ứng miễn dịch qua trung gian tế bào và, ở mức độ thấp hơn, miễn dịch dịch thể. Sự suy giảm CD4+ có thể là kết quả của những điều sau:Tác dụng gây độc trực tiếp của sự nhân lên HIVNhiễm độc miễn dịch qua trung gian tế bàoTổn thương tuyến ức làm hư hỏng sản xuất bạch cầu lymphoCác tế bào lympho CD4+ bị nhiễm có thời gian bán hủy khoảng 2 ngày, ngắn hơn nhiều so với các tế bào CD4+ không nhiễm. Tỷ lệ phá hủy CD4+ bạch cầu lympho tương quan với nồng độ HIV trong huyết tương. Thông thường, trong giai đoạn nhiễm trùng ban đầu hoặc tiên phát, mức độ HIV cao nhất (>106bản sao/mL), và số lượng CD4 giảm nhanh chóng.Số lượng CD4 bình thường là khoảng 750/mcL, và miễn dịch bị ảnh hưởng tối thiểu nếu đếm là>350/mcL. Nếu số lượng giảm xuống dưới khoảng 200/mcL, sự mất miễn dịch qua trung gian tế bào cho phép một loạt các mầm bệnh cơ hội được kích hoạt từ các trạng thái tiềm ẩn và gây ra bệnh lâm sàng.Hệ miễn dịch dịch thể cũng bị ảnh hưởng. Sự tăng sản của các tế bào B trong các hạch bạch huyết gây ra hậu quả ung thư hạch, và sự tiết ra các kháng thể đối với các kháng nguyên trước đây tăng, thường dẫn đến tăng globulin máu. Nồng độ kháng thể (đặc biệt là IgG và IgA) và chuẩn độ chống lại các kháng nguyên gặp phải trước đây có thể cao bất thường. Tuy nhiên, phản ứng kháng thể với kháng nguyên mới (ví dụ như trong vắc-xin) giảm khi lượng CD4 giảm.Sự tăng miễn dịch bất thường có thể gây ra một phần do sự hấp thu các thành phần của vi khuẩn ruột. Sự kích hoạt hệ miễn dịch góp phần làm suy giảm CD4+ và ức chế miễn dịch bằng các cơ chế vẫn còn chưa rõ ràng.Các mô khácHIV cũng nhiễm vào các tế bào đơn nhân không phải lympho (ví dụ như các tế bào trong da, các đại thực bào, tế bào thần kinh đệm) và các tế bào não, hệ thống sinh dục, tim và thận, gây bệnh trong hệ thống cơ quan tương ứng.Các chủng HIV ở một số ngăn, chẳng hạn như hệ thần kinh (não và dịch não tủy) và đường sinh dục (tinh dịch, dịch cổ tử cung-âm đạo), có thể có các đột biến và trở nên khác biệt về mặt di truyền với các chủng trong huyết tương, cho thấy rằng các chủng đó đã được chọn lọc bởi hoặc có thích nghi với các khoang giải phẫu này (2–4). Do đó, nồng độ HIV và mô hình đề kháng ở các bộ phận này có thể thay đổi một cách độc lập so với trong huyết tương.Tiến triển của bệnhTrong vài tuần đầu tiên của nhiễm trùng nguyên phát, có phản ứng miễn dịch dịch thể và tế bào:Miễn dịch dịch thể:Các kháng thể chống HIV thường được đo lường trong vòng vài tuần sau khi phơi nhiễm; tuy nhiên, các kháng thể không thể kiểm soát hoàn toàn việc nhiễm HIV vì các dạng HIV biến đổi không được kiểm soát bởi các kháng thể chống HIV hiện tại của bệnh nhân.Miễn dịch tế bào:Sự miễn dịch qua trung gian qua tế bào là một phương tiện quan trọng hơn để kiểm soát mức độ cao phơi nhiễm HIV (thường là trên 106bản sao/mL) lúc đầu. Ở một phần nhỏ bệnh nhân có sự đột biến nhanh chóng của các kháng nguyên vi rút, nơi mà các chất trung gian gây độc tác dụng đến, làm phá vỡ sự kiểm soát vi rút.Nồng độ virion HIV trong huyết tương, thể hiện bằng số bản sao RNA HIV/mL, ổn định sau khoảng 6 tháng ở mức (điểm đặt) rất khác nhau ở các bệnh nhân nhưng trung bình 30.000 đến 100.000/mL (4,2 đến 5 log10/mL). Sự thay đổi này phụ thuộc vào cách các yếu tố vật chủ tương tác và tác động đến sự đa dạng về mặt di truyền của vi rút HIV (5). Điểm đặt này càng cao thì số lượng CD4 càng giảm nhanh đến mức làm suy giảm nghiêm trọng khả năng miễn dịch (<200/mcL) và dẫn đến nhiễm trùng cơ hội và ung thư xác định HIV giai đoạn cuối (6, 7).Nguy cơ và mức độ nặng của các bệnh nhiễm trùng cơ hội, HIV giai đoạn cuối vàung thư liên quan đến AIDSđược xác định bởi 2 yếu tố:Số lượng CD4Tiếp xúc với mầm bệnh cơ hộiNguy cơ nhiễm trùng cơ hội đặc biệt tăng dưới ngưỡng CD4 khoảng 200/mcL đối với một số bệnh nhiễm trùng và 50/mcL với các bệnh khác, như sau:Số CD4<200/mcL: Tăng nguy cơviêm phổi do Pneumocystis jirovecii,viêm não do toxoplasmavàviêm màng não do cryptococcusSố CD4<50/mcL: Tăng nguy cơ nhiễmcytomegalovirus(CMV) vàMycobacteria aviuim complex (MAC)Cứ tăng 3 lần (0,5 log10) RNA của HIV trong huyết tương ở những bệnh nhân không được điều trị, nguy cơ tiến triển thành HIV giai đoạn cuối hoặc tử vong trong 2 năm đến 3 năm tới sẽ tăng khoảng 50% (6).Nếu không điều trị, nguy cơ tiến triển thành HIV giai đoạn cuối là khoảng 1% đến 2%/năm trong 2 năm đến 3 năm đầu nhiễm bệnh và khoảng 5% đến 6%/năm sau đó. Cuối cùng, HIV giai đoạn cuối hầu như luôn phát triển ở những bệnh nhân không được điều trị.Nhiễm trùng HTLVNhiễm siêu vi T-lymphotropic ở người (HTLV) 1 hoặc 2 có thể gây bệnh bạch cầu tế bào T và u lympho, hạch to, phì đại gan lách, tổn thương da và giảm miễn dịch. Một số bệnh nhân nhiễm HTLV phát triển các bệnh nhiễm trùng tương tự như nhiễm trùng xảy ra ở bệnh nhân nhiễm HIV. HTLV-1 cũng có thể gây rabệnh lí tủy/paraparesis co cứng nhiệt đới.Hầu hết các trường hợp đều bị lây truyềnTừ mẹ sang con bằng sữa mẹHTLV-1 cũng có thể bị lây truyềnĐường tình dụcĐường máuHiếm khi, thông qua việc cấy ghép các cơ quan từ những người hiến mô huyết thanh HTLV-1Tài liệu tham khảo sinh bệnh học1.Ho DD, Neumann AU, Perelson AS, et al: Rapid turnover of plasma virions and CD4 lymphocytes in HIV-1 infection.Nature373(6510):123-126, 1995. doi: 10.1038/373123a02.Bednar MM, Sturdevant CB, Tompkins LA, et al: Compartmentalization, viral evolution, and viral latency of HIV in the CNS.Curr HIV/AIDS Rep12(2):262-271, 2015. doi:10.1007/s11904-015-0265-93.Mabvakure BM, Lambson BE, Ramdayal K, et al: Evidence for both intermittent and persistent compartmentalization of HIV-1 in the female genital tract.J Virol93(10):e00311-e00319, 2019 doi:10.1128/JVI.00311-194.Ghosn J, Viard JP, Katlama C, et al: Evidence of genotypic resistance diversity of archived and circulating viral strains in blood and semen of pre-treated HIV-infected men.AIDS(London, England). 18(3):447-457, 2004. doi: 10.1097/00002030-200402200-000115.Bartha I, McLaren PJ, Brumme C, et al: Estimating the respective contributions of human and viral genetic variation to HIV control.PLoS Comput Biol13(2):e1005339, 2017. Xuất bản ngày 9 tháng 2 năm 2017. doi:10.1371/journal.pcbi.10053396.Lavreys L, Baeten JM, Chohan V, et al: Higher set point plasma viral load and more-severe acute HIV type 1 (HIV-1) illness predict mortality among high-risk HIV-1-infected African women.Clin Infect Dis42(9):1333-9, 2006 doi: 10.1086/5032587.Lyles RH, Muñoz A, Yamashita TE, et al: Natural history of human immunodeficiency virus type 1 viremia after seroconversion and proximal to AIDS in a large cohort of homosexual men. Multicenter AIDS cohort study.J Infect Dis181(3):872-80, 2000. doi: 10.1086/315339
+
+--- 4. Các triệu chứng và dấu hiệu nhiễm HIV ---
+
+Nhiễm HIV ban đầuBan đầu, nhiễm HIV nguyên phát có thể không có triệu chứng hoặc gây triệu chứng không đặc hiệu tạm thời (hội chứng nhiễm vi rút cấp tính).Bệnh nấm Candida miệng (niêm mạc môi)Hình ảnh© Springer Science+Business MediaNấm candida ở miệng do nhiễm HIVHình ảnh© Springer Science+Business MediaHội chứng nhiễm vi rút cấp tínhthường bắt đầu trong vòng 1 đến 4 tuần của nhiễm trùng và thường kéo dài từ 3 đến 14 ngày. Các triệu chứng và dấu hiệu thường bị nhầm lẫn với nhiễm bệnh bạch cầu đơn nhân hoặc các hội chứng vi rút không đặc hiệu lành tính và có thể bao gồm sốt, khó chịu, mệt mỏi, một số loại viêm da, đau họng, chứng đau khớp, bệnh hạch lympho toàn thân, và viêm màng não nhiễm khuẩn.Sau khi các triệu chứng đầu tiên biến mất, hầu hết bệnh nhân, ngay cả khi không điều trị, không có triệu chứng hoặc chỉ một vài triệu chứng nhẹ, không liên tục, không đặc hiệu trong một khoảng thời gian rất khác nhau (từ 2 đến 15 năm).Triệu chứng trong giai đoạn không có triệu chứng này có thể là kết quả trực tiếp từ nhiễm HIV hoặc do nhiễm trùng cơ hội. Những điều sau đây là phổ biến nhất:Hạch toMảng trắng do nấm candida miệngHerpes zosterBệnh tiêu chảyMệt mỏiSốt với vã mồ hôi từng đợtTriệu chứng không đặc hiệu, giảm các dòng tế bào máu từ nhẹ đến trung bình (ví dụ, giảm bạch cầu, thiếu máu, giảm tiểu cầu) cũng phổ biến. Một số bệnh nhân trải qua sự suy kiệt tiến triển (có thể liên quan đến chán ăn và tăng sự dị hoá do nhiễm trùng) và sốt nhẹ hoặc tiêu chảy.Nhiễm HIV nguy hiểmKhi số lượng CD4 giảm xuống<200/mcL, các triệu chứng không đặc hiệu có thể trở nên trầm trọng hơn và một loạt các bệnh xác định AIDS phát sinh.Ở những bệnh nhân nhiễm HIV, một số hội chứng thường gặp và có thể cần phải xem xét các vấn đề khác nhau (xem bảngCác biểu hiện chung của nhiễm HIV qua hệ thống nội tạng). Một số bệnh nhân có biểu hiện ung thư (ví dụ như sarcoma Kaposi, u lympho tế bào B) xảy ra thường xuyên hơn, nghiêm trọng bất thường hoặc có những đặc điểm riêng ở bệnh nhân nhiễm HIV (xemCác bệnh ung thư thường gặp ở bệnh nhân nhiễm HIV). Ở những bệnh nhân khác, rối loạn chức năng thần kinh có thể xảy ra.Đánh giá có thể phát hiện các nhiễm trùng ít khi xảy ra trong cộng đồng, nhưNhiễm trùng lan toảmycobacteriaNhiễm nấmPneumocystis jiroveciinhiễm trùngCryptococcus neoformansNhiễm nấm khácTình trạng nhiễm bệnh cũng xảy ra trong dân số nói chung nhưng gợi ý nhiễm HIV tiến triển nếu bệnh nặng bất thường hoặc thường xuyên tái phát bao gồmHerpes zosterHerpes simplexCandida âm đạoNhiễm phế cầuxâm lấnnhiễm trùng huyếtSalmonellaCác biểu hiện bổ sung của nhiễm HIVNhiễm Bartonella lan tỏa trong nhiễm HIVBệnh nhân nhiễm HIV này có các nốt sẩn lan rộng trên da trên mặt cũng như các nốt sần lồi ra ngoài trên mí mắt.© Springer Science+Business MediaGhẻ vảy (Na Uy)Bức ảnh này cho thấy các mảng vảy và tăng sừng lan tỏa ở một bệnh nhân nhiễm HIV và bệnh ghẻ vảy.© Springer Science+Business MediaKaposi Sarcoma (dạng liên quan đến AIDS)Sarcoma Kaposi liên quan đến AIDS là một khối u đa trung tâm, hung hãn, có thể ảnh hưởng đến mặt, thân, bề mặt niêm mạc, hệ bạch huyết hoặc đường tiêu hóa. Tổn thương xuất hiện dưới dạng các dát, mảng hoặc khối u có màu hơi xanh đến hơi tím.... đọc thêmHình ảnh do Sol Silverman, Jr. cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Kaposi Sarcoma (Giai đoạn đầu)Bức ảnh này cho thấy các nốt màu đỏ tía phù hợp với bệnh ung thư Kaposi trên da mí mắt dưới ở một bệnh nhân nhiễm HIV.© Springer Science+Business MediaKaposi Sarcoma (mặt)Bức ảnh này cho thấy Kaposi sarcoma ở mặt, tai và cổ.© Springer Science+Business MediaKaposi Sarcoma (vai)Bức ảnh này cho thấy các mảng hình bầu dục lan rộng của Kaposi sarcoma trên vai của một bệnh nhân nhiễm HIV.© Springer Science+Business MediaKaposi SarcomaBức ảnh này cho thấy những mảng bám màu tím trên cẳng tay của một bệnh nhân nhiễm HIV.© Springer Science+Business MediaBạch sản dạng lông ở miệngBạch sản dạng lông ở miệng xuất hiện dưới dạng mụn màu trắng nhô lên ở rìa bên của lưỡi.Hình ảnh của J.S. Greenspan, BDS, Đại học California, San Francisco và Sol Silverman, Jr., DDS thông qua Thư viện hình ảnh y tế công cộng của Trung tâm kiểm soát và phòng ngừa dịch bệnh.Ung thư biểu mô hậu mônBức ảnh này cho thấy condylomata (1) và ung thư xâm lấn tế bào vảy (2) do nhiễm vi rút u nhú ở người (HPV) dai dẳng ở người nhiễm HIV.... đọc thêmHình ảnh do bác sĩ Edward R. Cachay cung cấp.Nhiễm Bartonella lan tỏa trong nhiễm HIVBệnh nhân nhiễm HIV này có các nốt sẩn lan rộng trên da trên mặt cũng như các nốt sần lồi ra ngoài trên mí mắt.© Springer Science+Business MediaGhẻ vảy (Na Uy)Bức ảnh này cho thấy các mảng vảy và tăng sừng lan tỏa ở một bệnh nhân nhiễm HIV và bệnh ghẻ vảy.© Springer Science+Business MediaKaposi Sarcoma (dạng liên quan đến AIDS)Sarcoma Kaposi liên quan đến AIDS là một khối u đa trung tâm, hung hãn, có thể ảnh hưởng đến mặt, thân, bề mặt niêm mạc, hệ bạch huyết hoặc đường tiêu hóa. Tổn thương xuất hiện dưới dạng các dát, mảng hoặc khối u có màu hơi xanh đến hơi tím.... đọc thêmHình ảnh do Sol Silverman, Jr. cung cấp, thông qua Thư viện Hình ảnh Y tế Công cộng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh.Kaposi Sarcoma (Giai đoạn đầu)Bức ảnh này cho thấy các nốt màu đỏ tía phù hợp với bệnh ung thư Kaposi trên da mí mắt dưới ở một bệnh nhân nhiễm HIV.© Springer Science+Business MediaKaposi Sarcoma (mặt)Bức ảnh này cho thấy Kaposi sarcoma ở mặt, tai và cổ.© Springer Science+Business MediaKaposi Sarcoma (vai)Bức ảnh này cho thấy các mảng hình bầu dục lan rộng của Kaposi sarcoma trên vai của một bệnh nhân nhiễm HIV.© Springer Science+Business MediaKaposi SarcomaBức ảnh này cho thấy những mảng bám màu tím trên cẳng tay của một bệnh nhân nhiễm HIV.© Springer Science+Business MediaBạch sản dạng lông ở miệngBạch sản dạng lông ở miệng xuất hiện dưới dạng mụn màu trắng nhô lên ở rìa bên của lưỡi.Hình ảnh của J.S. Greenspan, BDS, Đại học California, San Francisco và Sol Silverman, Jr., DDS thông qua Thư viện hình ảnh y tế công cộng của Trung tâm kiểm soát và phòng ngừa dịch bệnh.Ung thư biểu mô hậu mônBức ảnh này cho thấy condylomata (1) và ung thư xâm lấn tế bào vảy (2) do nhiễm vi rút u nhú ở người (HPV) dai dẳng ở người nhiễm HIV.... đọc thêmHình ảnh do bác sĩ Edward R. Cachay cung cấp.BảngCác biểu hiện thường gặp liên quan đến nhiễm HIV theo hệ thống cơ quanBảngCác biểu hiện thường gặp liên quan đến nhiễm HIV theo hệ thống cơ quanCác biểu hiện thường gặp liên quan đến nhiễm HIV theo hệ thống cơ quanHội chứngNguyên nhânĐánh giá Chẩn đoánĐiều trị*Triệu chứng/Nhận xétTim mạchBệnh cơ timGây tổn thương vi rút trực tiếp tới các tế bào cơ timSiêu âm timThuốc kháng vi rútCác triệu chứng suy timĐường tiêu hóaViêm thực quảnBệnh nấm Candida,CMV, hoặc làherpes simplex vi rútNội soi thực quản và sinh thiết ổ loétĐiều trị nguyên nhân bằng thuốc kháng vi rút và kháng khuẩnNuốt khó, biếng ănViêm dạ dày ruộthay viêm đại tràngSalmonella đường ruột,MAC,Cryptosporidium(bệnh do cryptosporidium),Cyclospora(bệnh do cyclospora),CMV,microsporidia,Cystoisospora (Isospora) belli(cystoisosporiasis), hoặc làClostridioides difficileNuôi cấy và nhuộm bệnh phẩm phân hoặc sinh thiết, nhưng xác định nguyên nhân có thể khó khănĐiều trị nguyên nhân:Kháng sinh vớiSalmonella, MAC, vàC. difficileTMP/SMX choCyclosporaThuốc kháng khuẩn choCystoisosporavà microsporidiaThuốc kháng vi-rút cho CMVTiêu chảy, giảm cân, đau bụngViêm túi mật hoặc viêm đường mậtCMV,Cryptosporidium,Cyclospora, hoặc microsporidiaSiêu âm hoặc nội soiThuốc kháng vi-rút cho CMVThuốc kháng khuẩn choCryptosporidium,Cyclospora, và microsporidiaCó thể là đau hoặc tắc nghẽnTổn thương trực tràng và quanh trực tràngViêm trực tràngdoNeisseria gonorrhoeaehoặcChlamydia trachomatis(đặc biệt là LGV), HSV, giang maiKhámNhuộm Gram và cấyXét nghiệm khuếch đại axit nucleic (NAAT)Xét nghiệm kháng thể RPR/treponemalSinh thiếtĐiều trị nguyên nhânTỷ lệ mắc bệnh cao ở phụ nữ và nam giới có quan hệ tình dục với nam giới qua giao hợp tình dục tiếp nhận qua đường hậu môn†Tổn thương tế bào gan do các vi rút viêm gan, nhiễm trùng cơ hội, hoặc nhiễm độc khi dùng thuốc kháng vi-rútTB, MAC, CMV hoặc ban xuất huyết (bệnh do Bartonelia),Viêm gan B mạn tínhhoặcviêm gan C mạn tính, có thể trầm trọng hơn do HIVSự khác biệt với viêm gan do thuốc kháng retrovirus hoặc các thuốc khácSinh thiết gan đôi khi cần thiếtĐiều trị nguyên nhânCác triệu chứng viêm gan (ví dụ, biếng ăn, buồn nôn, nôn ói, vàng da)Đường sinh dục/Sinh sảnTổn thương hậu môn và bộ phận sinh dục ngoàiVirus Herpes simplex (HSV)Mụn cóc sinh dụchoặc ung thư hậu môn hoặc ung thư cổ tử cung do HPV gây raVi rút mpox (trước đây là bệnh đậu mùa khỉ)KhámNhuộm Gram và cấyXét nghiệm khuếch đại axit nucleic (NAAT)Sinh thiếtĐiều trị nguyên nhânTỷ lệ mắc bệnh cao ở phụ nữ và nam giới có quan hệ tình dục với nam giới qua giao hợp tình dục tiếp nhận qua đường hậu môn†Bệnh viêm vùng chậuNeisseria gonorrhoeae, Chlamydia trachomatis, hoặc các mầm bệnh thông thường khácXem Bệnh viêm vùng chậu: Chẩn đoánXem Bệnh viêm vùng chậu: Điều trịCó thể tăng mức độ nặng, biểu hiện không điển hình và khó điều trị hơn ở phụ nữ nhiễm HIVCandida âm đạoLoàiCandida.Xem Viêm âm đạo do candida: Chẩn đoánXem Viêm âm đạo do candida: Điều trịCó thể tăng mức độ nặng hoặc tái phát ở phụ nữ nhiễm HIVHuyết họcThiếu máuNhiều yếu tố:Ức chế tủy xương do HIVSự hủy hoại tế bào máu ngoại vi qua trung gian miễn dịchThiếu máu của bệnh mãn tínhNhiễm trùng, đặc biệt là parvovirus B-19 của người, lan truyền MAC, hoặc histoplasmosisUng thưXemĐánh giá thiếu máuĐối với nhiễm parvovirus B19, xét nghiệm tủy xương (để kiểm tra hồng cầu đa nhân) hoặc PCR trong huyết thanh hoặc tủy xươngĐiều trị nguyên nhânTruyền máu khi cần thiếtSử dụng erythropoietin cho thiếu máu do thuốc chống ung thư hoặc zidovudine truyền máu nếu mức độ nghiêm trọng và nồng độ erythropoietin là<500 mU/LIVIG cho parvovirusVới parvovirus, đôi khi thiếu máu nặng cấp tínhGiảm tiểu cầuGiảm tiểu cầu miễn dịch, độc tính của thuốc, ức chế tủy xương do HIV, phá hủy ngoại vi qua trung gian miễn dịch, nhiễm trùng hoặc ung thưTổng phân tích tế bào máu ngoại vi, các xét nghiệm đông máu, PTT, xét nghiệm soi máu ngoại vi, sinh thiết tủy xương, hoặc đo lường các yếu tố von WillebrandThuốc kháng vi rútIVIG với đang chảy máu hoặc trước phẫu thuậtCó thể sử dụng kháng Rho (D) IgG, vincristine, danazol, hoặc interferonNếu trầm trọng và dai dẳng, nên cắt láchThường không có triệu chứng và có thể xuất hiện trong trường hợp nhiễm HIV không triệu chứngGiảm bạch cầu trung tínhỨc chế tủy xương do HIV gây ra, phá hủy thần kinh ngoại vi qua trung gian miễn dịch, nhiễm trùng, ung thư hoặc độc tính của thuốcXemGiảm bạch cầu trung tính: Chẩn đoánVớigiảm bạch cầu trung tính nặng(<500/mcL) cộng với sốt, sử dụng ngay kháng sinh phổ rộngNếu liên quan đến thuốc, kích bạch cầu hoặc yếu tố kích thích tăng trưởng bạch cầu dòng đại thực bào—Thần kinhSuy giảm nhận thức từ nhẹ đến nặng có hoặc không có giảm vận độngTổn thương não trực tiếp liên quan tới vi rútNồng độ RNA HIV trong dịch não tuỷCT hoặc MRI để kiểm tra chứng teo não (không đặc hiệu)Thuốc kháng retrovirus, có thể đảo ngược các tổn thương và cải thiện chức năng, mặc dù mức độ suy giảm chức năng nhận thức thấp thường tồn tại dai dẳng, thậm chí ở bệnh nhân đã được điều trịTiến triển với chứng mất trí nhớ ở những bệnh nhân được điều trịLiệt tăng dầnHội chứng Guillain Barréhay bệnh viêm đa rễ thần kinh do CMVMRI tủy sốngXét nghiệm dịch não tuỷĐiều trị bệnh viêm đa rễ thần kinh do CMVChăm sóc hỗ trợ trong hội chứng Guillain-BarréGiảm bạch cầu trung tính ở bệnh nhân viêm đa rễ thần kinh do CMV, có thể xuất hiện viêm màng não vi khuẩnViêm nãocấp hoặc bán cấpToxoplasma gondii(toxoplasmosis)Chụp CT hoặc chụp MRI để kiểm tra các tổn thương ngấm thuốc hình vòng, đặc biệt là ở hạch nềnXét nghiệm kháng thể trong dịch não tuỷ (nhạy cảm nhưng không đặc hiệu)Thử PCR để kiểm traT. gondiiDNA trong CSFSinh thiết não (ít khi được chỉ định)Pyrimethamine, axit folinic, sulfadiazine, và có thể cả sulfamethoxazole/trimethoprim, SMX-TMP, Cotrimoxazole (clindamycin nếu dị ứng với sulfa – xemBệnh do toxoplasma: Điều trị bệnh nhân AIDS hoặc các tình trạng suy giảm miễn dịch khác)Thông thường duy trì điều trị trong suốt đờiDự phòng ban đầu bằng clindamycin và pyrimethamine hoặc sulfamethoxazole/trimethoprim, SMX-TMP, Cotrimoxazole (như đối với bệnh viêm phổi doPneumocystis) được chỉ định cho những bệnh nhân có số lượng CD4<100/mcL và có tiền sử bị bệnh do toxoplasma hoặc kháng thể dương tính; có thể dừng lại nếu số lượng CD4 tăng lên > 200/mcL trong ≥ 3 tháng để đáp ứng với liệu pháp kháng retrovirusViêm não bán cấpCMVÍt gặp hơn, vi rút herpes simplex hoặc vi rút varicella-zosterPCR dịch não tuỷĐáp ứng điều trịThuốc kháng vi rútVới CMV, thường mê sảng, liệt dây thần kinh sọ, rung giật, động kinh, và suy giảm dần dần nhận thứcThường đáp ứng nhanh chóng với điều trịBệnh viêm tủy sốnghoặc viêm đa rễ thần kinhCMVMRI tủy sốngPCR dịch não tuỷThuốc kháng vi rútXuất hiện hội chứng Guillain-BarréViêm não chất trắng tiến triểnViêm não chất trắng đa ổ tiến triểndo kích hoạt lại nhiễm vi rút JC tiềm ẩnHIVMRI sọ nãoXét nghiệm dịch não tuỷThuốc kháng retrovirus để đảo ngược tình trạng suy giảm miễn dịch (không thuốc nào đặc hiệu cho vi rút JC)Thường gây tử vong trong vòng một vài thángCó thể đáp ứng với các thuốc kháng retrovirusViêm màng não bán cấpBệnh nấm coccidioidomycosis,Cryptococcus(bệnh do cryptococcus),Histoplasma(bệnh do histoplasma), hoặc làMycobacterium tuberculosisCT hoặc MRINhuộm dịch não tuỷ, PCR xét nghiệm kháng nguyên, và nuôi cấyĐiều trị nguyên nhânKết quả được cải thiện nhờ điều trị sớmBệnh lý thần kinh ngoại biênCác tác động trực tiếp của HIV hoặc CMV hoặc độc tính của thuốc kháng vi-rútLịch sửKhám vận động và cảm giácĐiều trị nguyên nhân hoặc ngừng các thuốc độc hạiRất phổ biếnKhông hồi phục nhanh chóngNhãn khoaViêm võng mạcCMVhoặc VZVSoi bóng đồng tử trực tiếpThuốcchống CMVhoặc thuốc chống VZV cụ thểCần có ý kiến của chuyên giaVZV gây hoại tử võng mạc cấp tính ở một số bệnh nhân HIV giai đoạn cuốiĐường uốngbệnh nấm candidamiệngSuy giảm miễn dịch do HIVKhámThuốc chống nấmtoàn thânCó thể không đau trong giai đoạn đầuNhiễm mpox (trước đây là bệnh đậu mùa khỉ)Vi rút mpox (trước đây là bệnh đậu mùa khỉ)KhámPCR dịch ở các mụn nướcThuốc kháng vi rútPhát ban dạng mụn nước gây đau đớn có thể bắt đầu ở miệng sau đó lan rộngTỷ lệ mắc bệnh cao ở nam giới quan hệ tình dục đồng giới†Loét niêm mạc miệngHerpes simplex hoặcviêm loét dạ dàyKhámVớiloét aphthous, corticosteroid tại chỗ hoặc toàn thân và thuốc montelukast và thalidomideĐối với herpes, acyclovirCó thể trầm trọng và dẫn đến suy dinh dưỡngBệnh răng miệngHỗn hợp vi khuẩn miệngKhámCải thiện vệ sinh và dinh dưỡngThuốc kháng sinhCó thể trầm trọng, chảy máu, sưng, và mất răngKhối trong miệng không đauKaposi sarcoma,u lympho, hoặc các khối u gây ra bởi HPVSinh thiếtĐiều trị khối u—Các mảng bám trắng không đau ở hai bên lưỡi (bạch sản dạng lông)Vi rút Epstein-Barr (EBV)KhámAcyclovirThường không có triệu chứngPhổiThườngviêm phổibán cấp tính (đôi khi cấp tính)MycobacteriaCác loại nấm nhưP. jirovecii, C. neoformans,H. capsulatum,Coccidioides immitishoặcAspergillosisĐo độ bão hòa oxy trong máu động mạchChụp X-quang ngựcXét nghiệm da (đôi khi âm tính giả do dị ứng)Đôi khi cần phải nội soi phế quản với nhuộm đặc hiệu và nuôi cấy chất dịch trong phế quảnĐiều trị nguyên nhânCó thể ho, thở nhanh, và tức ngựcTình trạng thiếu oxy nhẹ hoặc tăng gradient oxy phế nang-mao mạch có thể xảy ra trước khi có bằng chứng viêm phổi trên chụp X-quangViêm phổi cấp (đôi khi bán cấp)Các vi khuẩn gây bệnh thông thường hoặcHaemophilus,Pseudomonas,Nocardia, hoặc làRhodococcusỞ những bệnh nhân đã biết hoặc nghi ngờ về HIV và viêm phổi, loại trừ các nhiễm trùng cơ hội hoặc mầm bệnhĐiều trị nguyên nhânCó thể ho, thở nhanh, và tức ngựcViêm khí phế quảnLoài Candidahoặcvi rút herpes simplex (HSV)—Điều trị nguyên nhânCó thể ho, thở nhanh, và tức ngựcViêm phổi bán cấp hoặc mạn tính hoặc hạch trung thấtKaposi sarcomahoặc ulymphotế bào BCT ngựcSoi phế quảnĐiều trị nguyên nhânCó thể ho, thở nhanh, và tức ngựcTại thậnHội chứng thận hưhoặc suy thậnTổn thương trực tiếp do vi rút, dẫn đến xơ hóa cầu thậnSinh thiết thậnThuốc kháng retrovirus hoặc chất ức chế ACE có thể hữu íchTần suất gia tăng ở người Mỹ gốc Phi và bệnh nhân có lượng CD4 thấpRối loạn chức năng ống thận (đường niệu, protein niệu)Một số loại thuốc kháng vi-rútXét nghiệm nước tiểu và/hoặc xét nghiệm máuGiảm liều hoặc ngưng dùng thuốc kháng vi-rút—DaHerpes zosterVi rút Varicella zoster (VZV)Đánh giá lâm sàngXét nghiệm dựa trên PCRXét nghiệm DNA ở dịch lấy từ các vết xước của các tổn thương da mụn nước chưa đóng vảyNuôi cấy (tốt nhất nếu được thực hiện trên các mụn nước không có mái và gần đây bị vỡ)Acyclovir hoặc các thuốc liên quanPhổ biếnCó thể xảy ra cơn đau từ nhẹ đến nặng hoặc tê bì trước khi tổn thương daXét nghiệm dựa trên PCR là nhạy cảm nhấtloét do Herpes simplexVirus Herpes simplex (HSV)Đánh giá lâm sàngXét nghiệm dựa trên PCR của loétNuôi cấy HSV từ dịch ở vết loétThuốc kháng vi rút nếu tổn thương nặng, rộng, dai dẳng, hoặc lan toảCác tổn thương không điển hình của herpes simplex thường lan rộng, nặng hoặc dai dẳng.Xét nghiệm dựa trên PCR là nhạy cảm nhấtBệnh ghẻSarcoptes scabieiĐánh giá lâm sàngvà xét nghiệm cạo daXemGhẻ: Điều trịCó thể có tổn thương lớp keratin nặngPhát ban dạng mụn nước gây đau đớnVi rút mpox (trước đây là bệnh đậu mùa khỉ)KhámPCR dịch từ mụn nước, mụn mủ và/hoặc vảy khôThuốc kháng vi rútPhát ban có thể lan rộngNổi hạch là phổ biếnGai hoặc nốt phỏng gai hoặc nốtKaposi sarcoma hoặc bartonellosisSinh thiếtThuốc kháng retrovirus và điều trị nguyên nhân—Tổn thương da loét trung tâmNhiễm nấm cryptococcus hoặc mụn cóc nướcXemU mềm lây: Chẩn đoánvàbệnh do nấm Cryptococcus: Chẩn đoánCryptococcosis: Điều trịCó thể là biểu hiện của chứng nhiễm nấm crypto cocus huyếtHệ thốngNhiễm trùng và sốc nhiễm trùngdo nhiễm trùng gram âm cộng đồng và nhiễm trùng tụ cầu, nhiễm trùng cơ hội lan rộngTrực khuẩn gram âm,Staphylococcus aureus,loài Candida,Salmonella,M. tuberculosis, MAC hoặcH. capsulatumNuôi cấy máuXét nghiệm tủy xươngĐiều trị nguyên nhân—Hội chứng suy mòn(giảm cân đáng kể)Đa tác nhân, bao gồm AIDS, các bệnh nhiễm trùng cơ hội liên quan đến AIDS, các bệnh ung thư liên quan đến AIDS, và/hoặc do suy giảm hóc môn sinh dục do AIDSXác định là giảm cân > 10% trọng lượng cơ thểCác thuốc kháng vi rút (điều trị ban đầu cho hội chứng này)Điều trị nhiễm trùng; điều trị giảm hóc môn sinh dục do AIDS khi có chỉ địnhCác biện pháp để cải thiện sự thèm ăn và lượng calo đưa vào—CBC=công thức máu; CMV=cytomegalovirus; CSF=dịch não tủy; HPV = vi rút gây u nhú ở người; HSV=vi rút herpes simplex; IVIG=globulin miễn dịch đường tĩnh mạch; MAC=Mycobacterium aviumcomplex; Mpox=bệnh đậu mùa khỉ; PCR=phản ứng chuỗi polymerase; PTT=thời gian thromboplastin riêng phần; TMP/SMX = trimethoprim/sulfamethoxazole/; TB=bệnh lao; VZV=vi rút varicella-zoster.* Thuốc điều trị ARV luôn nằm trong kế hoạch điều trị. Các thuốc này chỉ được liệt kê trong phần điều trị này khi không có phương pháp điều trị cụ thể hơn.† Những chẩn đoán này là đại diện thay thế cho các hành vi làm tăng nguy cơ lây nhiễm HIV; khi xuất hiện, những chẩn đoán này nên nhanh chóng xét nghiệm HIV.CBC=công thức máu; CMV=cytomegalovirus; CSF=dịch não tủy; HPV = vi rút gây u nhú ở người; HSV=vi rút herpes simplex; IVIG=globulin miễn dịch đường tĩnh mạch; MAC=Mycobacterium aviumcomplex; Mpox=bệnh đậu mùa khỉ; PCR=phản ứng chuỗi polymerase; PTT=thời gian thromboplastin riêng phần; TMP/SMX = trimethoprim/sulfamethoxazole/; TB=bệnh lao; VZV=vi rút varicella-zoster.* Thuốc điều trị ARV luôn nằm trong kế hoạch điều trị. Các thuốc này chỉ được liệt kê trong phần điều trị này khi không có phương pháp điều trị cụ thể hơn.† Những chẩn đoán này là đại diện thay thế cho các hành vi làm tăng nguy cơ lây nhiễm HIV; khi xuất hiện, những chẩn đoán này nên nhanh chóng xét nghiệm HIV.Hội chứng suy giảm miễn dịch mắc phải (AIDS)AIDS được định nghĩa là nhiễm HIV với một hoặc nhiều đặc điểm sau:Một hoặc nhiều bệnh xác định AIDS (1)Số lượng tế bào lymphô có CD4+ (tế bào hỗ trợ)<200/mcLTỷ lệ phần trăm tế bào CD4+ ≤ 14% tổng số tế bào lymphoCác bệnh xác định AIDS bao gồmCác nhiễm trùng cơ hội nghiêm trọngMột số bệnh ung thư (ví dụ,Kaposi sarcoma,u lympho không Hodgkin) do khiếm khuyết đáp ứng miễn dịch qua trung gian tế bàoRối loạn chức năng thần kinhHội chứng suy mònĐịnh nghĩa về bệnh AIDSCác bệnh nhiễm trùng do vi khuẩn, nhiều lần hoặc tái phát*Nhiễm Candida của phế quản, khí quản, hoặc phổiCandida của thực quảnUng thư cổ tử cung, xâm lấn†Bệnh do nấm coccidioides, phổ biến hoặc ngoài phổiBệnh do nấm cryptococcus, ngoài phổiBệnh do cryptosporidium, ruột mạn tính (kéo dài > 1 tháng)Bệnh do cytomegalovirus(ngoài gan, lá lách, hoặc hạch bạch huyết), bắt đầu > 1 tháng tuổiViêm võng mạc do cytomegalovirus (mất thị lực)Bệnh não do HIVVi rút Herpes simplex: loét mạn tính (kéo dài > 1 tháng) hoặc viêm phế quản, viêm phổi hoặc viêm thực quản (khởi phát ở tuổi > 1 tháng)Bệnh do nấm histoplasma, lan toả hoặc ngoài phổiIsosporiasis (cystoisosporiasis), ruột mạn tính (kéo dài > 1 tháng)Kaposi sarcomaU lympho, Burkitt(hoặc thuật ngữ tương đương)U lympho, immunoblastic (hoặc thuật ngữ tương đương)U lympho, nguyên phát, của nãoMycobacterium aviumphức hợp (MAC) hoặc làMycobacterium kansasii, lan toả hoặc ngoài phổiMycobacterium tuberculosiscủa bất kỳ vị trí nào, phổi, lan toả, hoặc ngoài phổiMycobacterium, các loài khác hoặc các loài không xác định, lan toả hoặc ngoài phổiViêm phổi do ‬Pneumocystis jiroveciiViêm phổi, tái phát†Bệnh não chất trắng đa ổ tiến triển (PML)Nhiễm khuẩn huyết doSalmonella, tái phátBệnh do Toxoplasmaở não, khởi phát ở độ tuổi > 1 thángHội chứng suy mòn do HIVSee also Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report (MMWR):Revised Surveillance Case Definition for HIV Infection, United States, 2014.* Chỉ ở trẻ em < 6 tuổi† Chỉ dành cho người lớn, thanh thiếu niên và trẻ em ≥ 6 tuổiBệnh xác định AIDS: Bệnh nấm coccidioidomycosisHình ảnhHình ảnh do bác sĩ Edward R. Cachay cung cấp.Tài liệu tham khảo về các triệu chứng và dấu hiệu1.Selik RM, Mokotoff ED, Branson, B, et al: Revised Surveillance Case Definition for HIV Infection—United States, 2014.MMWR63(RR03):1–10, 2014.
+
+--- 5. Chẩn đoán nhiễm HIV ---
+
+Xét nghiệm kháng thể HIV có hoặc không có xét nghiệm kháng nguyên HIV P24Các xét nghiệm khuếch đại acid nucleic để xác định nồng độ RNA HIV (tải lượng vi rút)Nghi ngờ nhiễm HIV ở những bệnh nhân có hạch toàn thân dai dẳng, không rõ nguyên nhân hoặc bất kỳ bệnh nào xác định AIDS (xem thanh bênCác bệnh xác định AIDS). Cũng có thể nghi ngờ ở bệnh nhân có nguy cơ cao có các triệu chứng có thể là biểu hiện của nhiễm HIV cấp tính.Xét nghiệm chẩn đoánViệc phát hiện các kháng thể đối với HIV rất nhạy và đặc hiệu, ngoại trừ trong vài tuần đầu sau khi bị nhiễm (gọi là "thời kỳ cửa sổ" của nhiễm HIV cấp tính). Tuy nhiên, kháng nguyên p24 của HIV (một loại protein lõi của vi rút) đã có trong máu trong phần lớn thời gian này và có thể được phát hiện bằng các xét nghiệm.Hiện nay, nên sử dụng xét nghiệm miễn dịch kết hợp kháng nguyên/kháng thể thế hệ thứ tư; xét nghiệm này phát hiện các kháng thể đối với cả HIV-1 và HIV-2 cũng như kháng nguyên HIV p24. Phiên bản xét nghiệm trong phòng thí nghiệm có thể được ưu tiên hơn so với xét nghiệm tại giường trong việc chẩn đoán nhiễm bệnh sớm, nhưng cả hai đều có thể được thực hiện nhanh chóng (trong vòng 30 phút). Nếu kết quả xét nghiệm dương tính, xét nghiệm phân biệt HIV-1 và HIV-2 và xét nghiệm RNA HIV được thực hiện.Các xét nghiệm kháng thể xét nghiệm miễn dịch hấp thụ liên kết enzyme (ELISA) thế hệ trước có độ nhạy cao nhưng vì chúng không xét nghiệm kháng nguyên nên chúng không dương tính sớm như xét nghiệm kết hợp thế hệ thứ tư. Ngoài ra, kết quả hiếm khi dương tính giả. Kết quả ELISA dương tính được xác nhận bằng một xét nghiệm cụ thể hơn như Western blot. Tuy nhiên, các xét nghiệm này có nhược điểm:ELISA đòi hỏi thiết bị phức tạp.Western blot đòi hỏi các kỹ thuật viên được đào tạo tốt, tốn kém và mất vài ngày hoặc vài tuần để có kết quả.Chuỗi kiểm tra đầy đủ mất ít nhất một ngày.Hầu hết các cơ sở sử dụng xét nghiệm biệt hóa HIV-1/HIV-2 làm xét nghiệm xác nhận ưu tiên của họ, thay thế Western blot rườm rà. Ngoài ra, các xét nghiệm Western blot HIV-1 không phát hiện vi rút dưới nhóm O phổ biến ở một số khu vực châu Phi một cách đáng tin cậy; nếu HIV-2 đang được xem xét, cần phải yêu cầu một Western blot HIV-2 đặc biệt (1). Các xét nghiệm tại giường sử dụng máu hoặc nước bọt (ví dụ: ngưng kết hạt, cô đặc miễn dịch, sắc ký miễn dịch) có thể được thực hiện nhanh chóng (trong 15 phút) và đơn giản, cho phép xét nghiệm ở nhiều môi trường khác nhau và báo ngay cho bệnh nhân. Kết quả dương tính của các xét nghiệm nhanh này phải được xác nhận bằng các xét nghiệm máu tiêu chuẩn (ví dụ: ELISA có hoặc không có Western blot) ở các quốc gia có nguồn lực cao và lặp lại bằng một hoặc nhiều xét nghiệm nhanh khác ở các quốc gia có gánh nặng HIV cao. Nếu âm tính không cần thiết phải xác định lại.Nếu nghi ngờ nhiễm HIV mặc dù kết quả xét nghiệm kháng thể âm tính (ví dụ: trong vài tuần đầu sau khi nhiễm bệnh), nên đo nồng độ RNA của HIV trong huyết tương. Các xét nghiệm khuếch đại acid nucleic được sử dụng có độ nhạy và độ đặc hiệu cao. Xét nghiệm HIV RNA đòi hỏi công nghệ tiên tiến, chẳng hạn như phản ứng chuỗi polymerase phiên mã ngược (RT-PCR), nhạy cảm với mức RNA cực thấp của HIV. Đo lường kháng nguyên p24 HIV bằng ELISA có độ nhạy và độ đặc hiệu thấp hơn so với phát hiện trực tiếp HIV RNA trong máu.Phân giai đoạnNhiễm HIV có thể chia các giai đoạn dựa trên số lượng CD4. Ở bệnh nhân ≥ 6 tuổi, các giai đoạn như sau:Giai đoạn 1: ≥ 500 tế bào/mcLGiai đoạn 2: 200 đến 499 tế bào/mcLGiai đoạn 3: < 200 tế bào/mcLSố lượng CD4 sau 1 đến 2 năm điều trị cung cấp chỉ số phục hồi miễn dịch cuối cùng; số lượng CD4 có thể không trở lại mức bình thường mặc dù đã điều trị kéo dài.Theo dõiKhi HIV được chẩn đoán, cần xác định những điểm sau:Số lượng CD4Mức RNA HIV trong huyết tươngCả hai đều hữu ích để xác định tiên lượng và theo dõi điều trị.Số lượng CD4 được tính như là kết quả của những chỉ số sau đây:Số lượng bạch cầu (ví dụ: 4000 tế bào/mcL)Tỷ lệ phần trăm bạch cầu máu là lympho bào (ví dụ, 30%)Tỷ lệ lympho bào là CD4+ (ví dụ, 20%)Sử dụng các con số ở trên, số lượng CD4 (4000×0,3×0,2) là 240 tế bào/mcL, hoặc khoảng 1/3 số lượng CD4 bình thường ở người lớn, tức là khoảng 750±250/mcL.Mức RNA HIV trong huyết tương (tải lượng vi rút) phản ánh tốc độ sao chép HIV. Mức độ càng cao tại thời điểm ban đầu (liên quan tới mức độ vi rút ổn định xảy ra sau nhiễm trùng ban đầu) thì số lượng CD4 càng giảm nhanh hơn và nguy cơ nhiễm trùng cơ hội càng cao hơn, thậm chí ở những bệnh nhân không có triệu chứng.Có thể yêu cầu kiểu gen HIV ở lần khám ban đầu (xét nghiệm máu) nếu tải lượng vi rút HIV > 500 bản sao/mL; khả năng sẵn có xét nghiệm này thay đổi theo địa điểm. Việc phân loại kiểu gen HIV được sử dụng để xác định các đột biến gây ra đề kháng với một số loại thuốc kháng retrovirus nhất định và giúp chọn một phác đồ thuốc hiệu quả cho một bệnh nhân cụ thể bị nhiễm HIV.Chẩn đoán các tình trạng liên quan đến HIVChẩn đoán các bệnh nhiễm trùng cơ hội, ung thư và các hội chứng khác xảy ra ở bệnh nhân nhiễm HIV sẽ được thảo luận ở phần khác trong CẨM NANG. Nhiều bệnh chỉ gặp khi có nhiễm HIV.Rối loạn huyết học(ví dụ, giảm các dòng tế bào máu, u lymphoma, ung thư) là phổ biến và có thể được đánh giá hữu hiệu bằng chọc hút và sinh thiết tuỷ xương. Quy trình này cũng có thể giúp chẩn đoán các bệnh nhiễm trùng lan tỏa với MAC (phức hợpMycobacterium avium),M. tuberculosis,Cryptococcus,Histoplasma, human parvovirus B19,P. jiroveciivàLeishmania. Hầu hết các bệnh nhân có tủy bào bình thường hoặc tuỷ tăng sinh nhưng vẫn giảm tế bào ngoại vi, điều này phản ánh sự hủy hoại ở ngoại biên. Dự trữ sắt thường là bình thường hoặc tăng lên, phản ánh tình trạng thiếu máu của bệnh mãn tính (giảm sự dùng lại sắt). Giảm tế bào trong huyết tương từ nhẹ đến trung bình, kết tụ tế bào lympho, tăng số lượng đại thực bào trong mô, và sai lệnh trong quá trình tạo ra các tế bào màu là thường gặp.Các hội chứng thần kinh liên quan đến HIVcó thể được phân biệt thông qua chọc dò tủy sống với phân tích dịch não tủy và chụp CT hoặc chụp MRI có thuốc cản quang hệ thần kinh trung ương (xem bảngCác biểu hiện phổ biến của nhiễm HIV theo hệ thống cơ quan).Tài liệu tham khảo chẩn đoán1.Centers for Disease Control and Prevention (CDC): Identification of HIV-1 group O infection—Los Angeles county, California,MMWR Morb Mortal Wkly Rep45(26):561-565, 1996.
+
+--- 6. Sàng lọc HIV ---
+
+Các xét nghiệm sàng lọc kháng thể hoặc xét nghiệm kháng nguyên/kháng thể kết hợp mới hơn nên được thực hiện thường xuyên cho người lớn và thanh thiếu niên, đặc biệt là phụ nữ mang thai trong giai đoạn đầu của mỗi thai kỳ, bất kể nguy cơ họ nhận thấy là gì. Đối với những người có nguy cơ cao nhất, đặc biệt là những người có quan hệ tình dục có nhiều bạn tình và không thực hành tình dục an toàn, nên xét nghiệm lại từ 6 tháng đến 12 tháng một lần. Các xét nghiệm thường được giữ kín và sẵn có, thường miễn phí, ở nhiều cơ sở công cộng và tư nhân trên khắp thế giới.Các xét nghiệm nhanh có lợi thế là cung cấp kết quả kiểm tra sơ bộ ngay từ lần gặp đầu tiên trong vòng chưa đầy 25 phút. Các xét nghiệm này đặc biệt hữu ích cho những người không muốn trả lại kết quả xét nghiệm của họ. Những người được xét nghiệm HIV cũng cần được cung cấp thông tin về các dịch vụ dự phòng, chăm sóc và điều trị.Tại Hoa Kỳ, khuyến nghị sàng lọc nhiễm HIV ở tất cả thanh thiếu niên và người lớn từ 13 tuổi đến 64 tuổi cũng như ở thanh thiếu niên trẻ tuổi và người cao tuổi có nguy cơ nhiễm trùng cao hơn (xemCenters for Disease Control and Prevention: Screening for HIV). Sàng lọc cũng được khuyến nghị cho tất cả những người mang thai, bao gồm cả những người đang chuyển dạ hoặc khi sinh mà tình trạng HIV chưa được biết.Tổ chức Y tế Thế giới gợi ý rằng, ở những nơi có gánh nặng HIV cao, nên thực hiện xét nghiệm HIV bằng xét nghiệm kháng thể nhanh và xét nghiệm miễn dịch enzyme (xemConsolidated Guidelines on HIV Testing services, tháng 7 năm 2019).
+
+--- 7. Điều trị nhiễm HIV ---
+
+Phối hợp các loại thuốc kháng retrovirus (liệu pháp kháng retrovirus [ART], đôi khi được gọi là ART có hoạt tính cao [HAART] hoặc ART kết hợp [cART])Điều trị dự phòngnhiễm trùng cơ hội ở bệnh nhân có nguy cơ cao(Xem thêmĐiều trị bằng thuốc nhiễm HIV.)Điều trị bằng ART được khuyến nghị cho tất cả bệnh nhân vì các biến chứng liên quan đến bệnh có thể xảy ra ngay cả ở những bệnh nhân không được điều trị có số lượng CD4 cao và do độc tính của thuốc kháng retrovirus đã giảm khi các loại thuốc mới được phát triển.Lợi ích của ART cao hơn là rủi ro trong mỗi nhóm bệnh nhân và các phác đồ đã được nghiên cứu cẩn thận. Trong nghiên cứu về Thời điểm chiến lược của điều trị bằng thuốc kháng vi rút (START), 5472 bệnh nhân nhiễm HIV và số lượng CD4 > 350 tế bào/mcL chưa từng điều trị được chọn ngẫu nhiên để bắt đầu điều trị ARV ngay lập tức (bắt đầu điều trị ngay lập tức) hoặc trì hoãn điều trị ARV cho đến khi số lượng CD4 của họ giảm xuống < 250 tế bào/mcL (bắt đầu trì hoãn). Nguy cơ của tình trạng liên quan đến AIDS (như TB, Kaposi sarcoma, ung thư hạch ác tính) và các bệnh không liên quan đến AIDS (như ung thư không liên quan đến AIDS, bệnh tim mạch) thấp hơn ở nhóm bắt đầu ngay (1).Một số bệnh nhân ngoại lệ có thể kiểm soát được chủng HIV của họ mà không cần điều trị; họ duy trì số lượng CD4 bình thường và nồng độ vi rút trong máu trong máu thấp (theo dõi lâu dài) hoặc lượng CD4 bình thường và lượng HIV không phát hiện được. Những bệnh nhân này có thể không cần điều trị ARV, nhưng các nghiên cứu để xác định liệu việc điều trị cho họ có hữu ích chưa được thực hiện và có khó khăn vì có rất ít bệnh nhân và họ có thể sẽ không được điều trị ARV trong thời gian dài.Điều trị kháng retrovirus: Nguyên tắc chungART nhằm mục đíchGiảm mức RNA HIV trong huyết tương xuống mức không phát hiện được (nghĩa là < 20 đến 50 bản sao/mL)Khôi phục lại lượng CD4 đến một mức bình thường (phục hồi miễn dịch hoặc tái tạo)Đáp ứng của lượng CD4 kém có vẻ tốt hơn nếu số lượng CD4 khi bắt đầu điều trị thấp (đặc biệt nếu < 50/mcL) và/hoặc mức RNA HIV cao. Tuy nhiên, có thể cải thiện rõ rệt ngay cả ở những bệnh nhân bị ức chế miễn dịch tiến triển.Số lượng CD4 tăng lên tương quan với việc giảm rõ rệt nguy cơ mắc các bệnh nhiễm trùng cơ hội, các biến chứng khác và tử vong. Với phục hồi miễn dịch, ngay cả những người có biến chứng không có điều trị đặc hiệu (ví dụ như rối loạn nhận thức do HIV) hoặc trước đây được xem là không thể chữa trị (ví dụ như bệnh não chất trắng đa ổ tiến triển), có thể cải thiện. Các kết quả cũng được cải thiện đối với bệnh nhân ung thư (như u lymphoma, Kaposi sarcoma) và hầu hết các trường hợp nhiễm trùng cơ hội.Bệnh nhân bị các nhiễm trùng cơ hội cấp tính có lợi từ điều trị ARV sớm (bắt đầu ngay lập tức trong thời gian điều trị nhiễm trùng cơ hội). Tuy nhiên, đối với một số bệnh nhiễm trùng cơ hội, chẳng hạn như viêm màng não do lao hoặc viêm màng não do cryptococcus, bằng chứng cho thấy nên trì hoãn điều trị ARV (2 tuần đến 4 tuần trong hầu hết các trường hợp) cho đến khi kết thúc giai đoạn đầu của liệu pháp kháng khuẩn đối với những bệnh nhiễm trùng này do tần suất nhiễm trùng ngày càng tăng. biến cố bất lợi và tử vong.Hầu hết tất cả những người dùng thuốc điều trị HIV theo quy định đều có thể đạt được mục tiêu điều trị ARV thường trong vòng 6 tháng sau khi bắt đầu điều trị (Ức chế vi rút và tải lượng vi rút không thể phát hiện). Tuy nhiên, duy trì mức độ tuân thủ này là khó khăn. Sự ức chế một phần (giảm nồng độ RNA của HIV trong huyết tương xuống mức không thể phát hiện) có thể lựa chọn cho một hoặc nhiều đột biến tích lũy của vi rút HIV làm cho vi rút kháng một phần hoặc hoàn toàn đối với một loại thuốc đơn lẻ hoặc toàn bộ các thuốc. Điều trị có thể sẽ không thành công trừ khi điều trị tiếp theo sử dụng các loại thuốc của các lớp khác mà vi rút HIV vẫn còn nhạy cảm.Thành công của điều trị ARV được đánh giá bằng cách đo nồng độ RNA của HIV trong huyết tương 8 tuần đến 12 tuần một lần trong 4 tháng đến 6 tháng đầu tiên hoặc cho đến khi nồng độ HIV không thể phát hiện được và sau đó là 6 tháng một lần. Sự gia tăng mức độ HIV là bằng chứng sớm nhất về thất bại điều trị và có thể dẫn đến sự giảm CD4 theo tháng. Duy trì phác đồ điều trị bằng thuốc thất bại cho bệnh nhân sẽ chọn lọc những đột biến HIV có khả năng kháng thuốc cao hơn. Tuy nhiên, so với HIV hoang dã (không đột biến), những đột biến này dường như ít có khả năng làm giảm số lượng CD4 hơn và các phác đồ dùng thuốc thất bại thường được tiếp tục khi không tìm được phác đồ ức chế hoàn toàn.Nếu điều trị thất bại, xét nghiệm độ nhạy cảm (kháng thuốc) có thể xác định tính nhạy cảm của chủng HIV chiếm ưu thế đối với tất cả các loại thuốc hiện có. Các xét nghiệm kiểu gen và kiểu hình hiện có sẵn và có thể giúp các bác sĩ lâm sàng lựa chọn phác đồ mới nên có ít nhất 2 loại và tốt nhất là 3 loại thuốc mà chủng HIV nhạy cảm hơn. Các dòng vi rút HIV chủ yếu trong máu của những bệnh nhân đã được điều trị bằng liệu pháp kháng retrovirus có thể chuyển đổi từ chủng hoang dã qua hàng tháng đến hàng năm (ví dụ nhạy cảm hơn) vì những đột biến kháng thuốc sao chép chậm hơn và được thay thế bằng loại hoang dã. Do đó, nếu bệnh nhân chưa được điều trị gần đây thì mức độ kháng thuốc hoàn toàn có thể không rõ ràng qua xét nghiệm kháng thuốc, nhưng khi điều trị trở lại, những chủng có đột biến kháng thuốc thường xuất hiện từ chậm và thay thế cho chủng HIV hoang dại một lần nữa.Nhiều bệnh nhân nhiễm HIV đang sử dụng các chế độ điều trị phức tạp bao gồm nhiều viên thuốc để kiểm soát mức độ RNA của HIV (tải lượng vi rút), nhưng thông thường, không có xét nghiệm kháng RNA củaHIV thông thường nào được thực hiện khi điều trị vi rút thất bại. Khi có sẵn các loại thuốc điều trị HIV đồng công thức bào chế mới, nhiều bệnh nhân có thể được hưởng lợi từ việc đơn giản hóa phác đồ điều trị bằng ARV của họ, được hướng dẫn bằng xét nghiệm kiểu gen lưu trữ DNA của HIV (GenoSure Archive). Bản lưu trữ gen DNA HIV cung cấp số liệu kháng thuốc kháng vi rút HIV-1 khi không thể thực hiện được xét nghiệm HIV RNA thông thường vì bệnh nhân có nồng độ RNA HIV trong huyết tương thấp (< 500 bản sao/mL). Xét nghiệm HIV DNA lưu trữ phân tích sự tích hợp và chưa được tích hợp của tiền vi rút HIV-1 trong tế bào chủ. Việc thử nghiệm khuếch đại DNA HIV-1 từ các tế bào bị nhiễm bệnh trong các mẫu máu, sau đó sử dụng công nghệ sắp xếp thế hệ tiếp theo để phân tích khu vực polymerase HIV-1. Giá trị tiên đoán dương tính của kết quả xét nghiệm kháng HIV của các mẫu DNA có thể cho phép các bác sĩ lâm sàng xác định được những đột biến kháng HIV mà trước đây chưa được xác định và chọn một phác đồ điều trị đơn giản với các thuốc phối hợp (≥ 2 loại thuốc trong một viên).Hội chứng viêm phục hồi miễn dịch (IRIS)Bệnh nhân bắt đầu điều trị ARV đôi khi thấy xấu đi về mặt lâm sàng, mặc dù nồng độ HIV trong máu đã giảm đi và số lượng CD4 tăng lên do đáp ứng miễn dịch với các nhiễm trùng cơ hội hoặc các kháng nguyên vi khuẩn còn sót lại sau khi điều trị thành công các bệnh nhiễm trùng cơ hội. IRIS thường xảy ra trong những tháng đầu điều trị HIV nhưng đôi khi xảy ra muộn hơn. IRIS có thể làm phức tạp hầu hết các trường hợp nhiễm trùng cơ hội và ngay cả các khối u (ví dụ, Kaposi sarcoma) nhưng thường tự giới hạn hoặc đáp ứng với các chế độ corticosteroid ngắn.IRIS có 2 dạng:Phục hồi miễn dịch nghịch thường, trong đó đề cập đến các triệu chứng tồi tệ hơn do một nhiễm trùng trước đóPhục hồi miễn dịch bộc lộ, trong đề cập đến sự xuất hiện đầu tiên của các triệu chứng của một bệnh nhiễm trùng chưa được chẩn đoán trướcIRIS nghịch thườngthường xảy ra trong vài tháng đầu điều trị HIV và thường tự khỏi. Nếu không, corticosteroid, được cho trong một thời gian ngắn, thường có hiệu quả. Phục hồi miễn dịch nghịch thường có nhiều khả năng gây ra các triệu chứng và triệu chứng này có nhiều khả năng trở nên trầm trọng khi điều trị ARV được bắt đầu ngay sau khi điều trị nhiễm trùng cơ hội được bắt đầu. Do đó, đối với một số trường hợp nhiễm trùng, ART bị trì hoãn cho đến khi điều trị các nhiễm trùng cơ hội đa giảm hoặc đã bị loại bỏ.Ở bệnh nhânphục hồi miễn dịch bộc lộnhiễm trùng cơ hội mới được điều trị bằng các thuốc kháng sinh. Thỉnh thoảng, khi các triệu chứng trầm trọng, corticosteroid cũng được sử dụng. Thông thường, khi phát hiện ra IRIS xảy ra, ART vẫn được tiếp tục. Một ngoại lệ là viêm màng não do cryptococcus. Sau đó, ART được tạ ngừng cho đến khi nhiễm trùng được kiểm soát.Xác định xấu đi về lâm sàng có phải là do thất bại điều trị hay không, IRIS, hoặc cả hai đều cần đánh giá sự hoạt động dai dẳng của các nhiễm trùng bằng nuôi cấy mặc dù có thể khó khăn.Gián đoạn điều trị ARVViệc tạm ngừng điều trị bằng ARV thường an toàn nếu dừng tất cả các loại thuốc cùng lúc, nhưng nồng độ các thuốc chuyển hóa chậm (ví dụ: nevirapine, efavirenz) có thể vẫn cao và do đó làm tăng nguy cơ kháng thuốc. Việc tạm ngừng điều trị có thể cần thiết nếu các bệnh can thiệp cần được điều trị hoặc nếu độc tính của thuốc không thể dung nạp được hoặc cần được đánh giá. Sau khi tạm dừng để xác định loại thuốc nào gây độc tính, bác sĩ lâm sàng có thể bắt đầu lại hầu hết các loại thuốc dưới dạng đơn trị liệu một cách an toàn trong vài ngày. Chú ý: Ngoại lệ quan trọng nhất là abacavir; những bệnh nhân có sốt hoặc phát ban trong lần phơi nhiễm trước với abacavir có thể phát triển phản ứng quá mẫn nghiêm trọng, có thể gây tử vong khi tiếp xúc lại. Nguy cơ phản ứng bất lợi đối với abacavir cao gấp 100 lần ở những bệnh nhân HLA-B*57:01, có thể được phát hiện bằng xét nghiệm di truyền.Ngọc trai & cạm bẫyNhững bệnh nhân có phản ứng bất lợi với abacavir không nên dùng lại thuốc. Nếu dùng lại thuốc, họ có thể bị phản ứng quá mẫn nặng, có thể gây tử vong. Nguy cơ phản ứng bất lợi đối với abacavir cao gấp 100 lần ở những bệnh nhân HLA-B*57:01, có thể được phát hiện bằng xét nghiệm di truyền.Phòng ngừa nhiễm trùng cơ hội(Xem thêm United States Public Health Service and the HIV Medicine Association of the Infectious Diseases Society of America’sGuidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV.)Dự phòng bằng hóa chất hiệu quả có sẵn đối với nhiều bệnh nhiễm trùng cơ hội và giảm tỷ lệ bệnh doP. jirovecii,Candida,Cryptococcus, and MAC (phức hợpMycobacterium avium). Nếu liệu pháp phục hồi CD4 vượt quá ngưỡng>3 tháng, có thể ngừng hóa trị dự phòng.Dự phòng ban đầuphụ thuộc vào số lượng CD4:Số CD4<200/mcL hoặc bệnh nấm Candida miệng họng (đang mắc hoặc trước đó): Dự phòng chống lạiP. jiroveciiviêm phổi được khuyến cáo. Viên nén sulfamethoxazole/trimethoprim, SMX-TMP, Cotrimoxazole hàm lượng gấp đôi dùng một lần/ngày hoặc 3 lần/tuần đều có hiệu quả. Một số tác dụng ngoại ý có thể được giảm thiểu bằng liều 3 lần/tuần hoặc bằng cách tăng liều dần dần. Một số bệnh nhân không thể dung nạp TMP/SMX có thể dung nạp dapsone (100 mg x 1 lần/ngày). Bệnh nhân có glucose-6-phosphate dehydrogenase (G6PD) sự thiếu hụt có nguy cơ phát triển sự tan máu nghiêm trọng khi sử dụng dapsone và do đó, nên được sàng lọc cho sự thiếu hụt G6PD trước khi sử dụng dapsone. Đối với một số ít bệnh nhân không thể dung nạp được một trong hai loại thuốc này do tác động bất lợi (sốt, giảm bạch cầu trung tính, phát ban), có thể dùng pentamidine dạng hyaluron 300 mg một lần/tháng hoặc atovaquone 1500 mg một lần/ngày.Số CD4<50/mcL: Dự phòng ban đầu chống lại bệnh MAC lan tỏa không được khuyến nghị cho người lớn và thanh thiếu niên nhiễm HIV ngay lập tức bắt đầu điều trị ARV. Những người nhiễm HIV không được điều trị bằng ART hoặc những người vẫn có vi rút trong điều trị bằng ART nhưng không có lựa chọn hiện tại cho phác đồ điều trị bằng ART ức chế hoàn toàn nên được điều trị dự phòng chống lại bệnh MAC lan tỏa nếu họ có số lượng CD4<50 tế bào/mm3 (2). Dự phòng đối với MAC lan toả bao gồm azithromycin hoặc clarithromycin; nếu không dung nạp được cả hai loại thuốc này, có thể dùng rifabutin. Azithromycin có thể được dùng hàng tuần dưới dạng hai viên 600 mg; thuốc có khả năng bảo vệ (70%) tương tự như clarithromycin hàng ngày và không tương tác với các loại thuốc khác.NếuLaotiềm ẩn được nghi ngờ (dựa trên xét nghiệm da tuberculin, xét nghiệm phát hiện giải phóng gamma interferon, tiếp xúc với nguy cơ cao, tiền sử cá nhân mắc bệnh lao hoạt động, hoặc cư trú ở khu vực có tỷ lệ lưu hành lao cao), bất kể số lượng CD4, bệnh nhân nên dùng isoniazid 5 mg/kg (đến 300 mg) uống một lần/ngày cộng với pyridoxin (vitamin B6) 10 đến 25 mg uống một lần/ngày trong 9 tháng để ngăn ngừa tái hoạt động.Đối với điều trị dự phòng tiên phát chống lại một số bệnh nhiễm trùng do nấm (ví dụ: bệnh nấm candida thực quản), fluconazole đường uống 100 mg đến 200 mg một lần/ngày là thành công nhưng ít được sử dụng vì chi phí cho mỗi lần nhiễm trùng được ngăn ngừa cao và việc chẩn đoán cũng như điều trị các bệnh nhiễm trùng này thường thành công (3).Dự phòng thứ phát(sau khi kiểm soát nhiễm trùng ban đầu) được chỉ định nếu bệnh nhân có những điều sau đây:Thường xuyên nhiễm nấm Candida miệng, âm đạo, hoặcthực quản;bệnh nấm coccidioidomycosis; hoặc lànhiễm trùng cryptococcal: Fluconazole được sử dụng.Bệnh histoplasmosis: Itraconazole được sử dụng.Bệnh do Toxoplasmathể ẩn: Tình trạng không triệu chứng này được chỉ định bởi kháng thể huyết thanh (IgG)Toxoplasma gondii. TMP/SMX (theo liều dùng để phòng ngừa viêm phổi doP. jirovecii) được sử dụng để ngăn ngừa tái hoạt động và gây ra viêm não do toxoplasma. Nhiễm trùng tiềm ẩn ít phổ biến hơn (khoảng 15% số người lớn) ở Hoa Kỳ so với ở Châu Âu và hầu hết các quốc gia có gánh nặng HIV cao (lên tới 70% đến 80% số người lớn).Viêm phổi do P. jiroveciiNhiễm trùng herpes simplexBệnh do Aspergillus(có thể)Hướng dẫn chi tiết về điều trị dự phòng nhiễm nấm (bao gồm cảPneumocystis), vi rút, mycobacteria và toxoplasmic có tạiClinical Info: Federally Approved Clinical Practice Guidelines for HIV/AIDS.Tiêm chủngKhuyến nghị của CDC 2024về tiêm chủng cho bệnh nhân ≥ 19 tuổi nhiễm HIV bao gồm:Những bệnh nhân chưa được tiêmvắc xin phế cầu khuẩnliên hợp hoặc không rõ tiền sử tiêm vắc xin trước đó cần phải được tiêm PCV15 hoặc PCV20; nếu tiêm PCV15, tiếp theo với PPSV23 sau liều PCV15  ≥ 8 tuần.Tất cả bệnh nhân cần được tiêmVắc xin cúmhàng năm.Tất cả bệnh nhân cần được tiêmVắc xin viêm gan B.Bệnh nhân có nguy cơ viêm gan A hoặc mong muốn được bảo vệ khỏi bệnh viêm gan A nên được tiêmvắc xin viêm gan A.Ở độ tuổi thích hợp, nam và nữ nên được tiêmvắc xin HPV (human papillomavirus)để ngăn ngừa ung thư cổ tử cung và hậu môn liên quan đến HPV.Những người trưởng thành trước đây chưa được tiêmvắc xin não mô cầunên tiêm vắc xin MenACWY liệu trình 2 liều chính cách nhau ≥ 8 tuần và được tiêm chủng lại 5 năm một lần.Những bệnh nhân không được tiêmvắc xin uốn ván-bạch hầu-ho gà(Tdap) như một phần của liệu trìnhvắc xin uốn ván-bạch hầu(Td) đã hoàn tất của họ nên được tiêm Tdap cho mũi tăng cường Td tiếp theo của họ. Đối với những bệnh nhân đang bắt đầu hoặc tiếp tục liệu trình Td của họ và chưa được dùng Tdap, Tdap nên được thay thế bằng một trong các mũi Td tăng cường.Tất cả các bệnh nhân nên được tiêmvắc xin zoster tái tổ hợp.Vắc-xin thủy đậuvàvắc xin sởi, quai bị và rubella (MMR)có thể được tiêm cho những bệnh nhân có tỷ lệ CD4 ≥ 15% và số lượng CD4 ≥ 200/mcL, nhưng những loại vắc xin này bị chống chỉ định ở những bệnh nhân có tỷ lệ CD4 < 15% hoặc số lượng CD4 < 200/mcL.Những người nhiễm HIV nên được tiêm đầy đủ một loạtvắc xin phòng COVID-19, bất kể số lượng CD4 hoặc tải lượng vi rút vì lợi ích tiềm ẩn lớn hơn nguy cơ tiềm ẩn (4).Tiêm phòng Mpoxđược khuyến nghị cho những người nhiễm HIV có nguy cơ mắc MPox. Vắc xin Mpox duy nhất được khuyến nghị cho những người nhiễm HIV là vaccinia Ankara sửa đổi (Jynneos ở Hoa Kỳ), được làm từ một loại vi rút vaccinia giảm độc lực, không sao chép và có hồ sơ an toàn tuyệt vời.Thông thường, nên tiêm vắc-xin bất hoạt. Những loại vắc-xin này ít hiệu quả hơn ở những bệnh nhân có HIV dương tính hơn những người có HIV âm tính.Phụ nữ mang thai nhiễm HIV nên được tiêm chủng thường quy theo khuyến nghị trong thời kỳ mang thai. Vì thuốc chủng ngừa vi rút sống có thể nguy hiểm đối với những bệnh nhân bị ức chế miễn dịch nặng nên tìm hiểu ý kiến của chuyên gia khi đối phó với những bệnh nhân có nguy cơ mắc varicella; các khuyến cáo là khác nhau (xem thông tin về tiêm chủng trongHIV ở trẻ sơ sinh và trẻ emvà xem bảngNhững lưu ý khi sử dụng vắc xin sống ở trẻ em bị nhiễm HIV).Tài liệu tham khảo về điều trị1.INSIGHT START Study Group, Lundgren JD, Babiker AG, et al: Bắt đầu điều trị ARV trong trường hợp nhiễm HIV giai đoạn đầu không có triệu chứng.N Engl J Med373 (9):795–807, 2015 doi:10.1056/NEJMoa15068162.Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Bệnh phức hợp Mycobacterium Avium lan tỏa.Truy cập ngày 7 tháng 5 năm 2024.3.Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents with HIV: Cryptococcosis.Truy cập ngày 7 tháng 5 năm 2024.4.COVID Vaccine Guidance for COVID-19 and People With HIV: Truy cập ngày 7 tháng 5 năm 2024.
+
+--- 8. Tiên lượng về nhiễm HIV ---
+
+Nguy cơ nhiễm HIV giai đoạn cuối, tử vong hoặc cả hai đều được dự đoán bởisố lượng CD4 trong thời gian ngắnMức RNA HIV trong huyết thanh trong thời gian dàiVới tải lượng vi rút cứ tăng gấp 3 lần (0,5 log10), tỷ lệ tử vong trong 2 năm đến 3 năm tiếp theo sẽ tăng khoảng 50% (1-3). Tỷ lệ bệnh và tử vong liên quan đến HIV rất thay đổi theo số lượng CD4, với số ca tử vong nhiều nhất do các nguyên nhân liên quan đến HIV xảy ra với số lượng<50/mcL. Tuy nhiên, với điều trị hiệu quả, nồng độ RNA HIV giảm đến mức không thể phát hiện được, số lượng CD4 thường tăng đáng kể, nguy cơ mắc bệnh và tử vong giảm nhưng vẫn cao hơn so với quần thể cùng lứa tuổi không nhiễm HIV (4). Do đó, chẩn đoán HIV nhanh chóng trước khi bệnh quá nặng và bắt đầu điều trị HIV ngay lập tức là điều cần thiết để tiên lượng bệnh.Một yếu tố tiên đoán ít được hiểu rõ khác là mức độ hoạt hoá miễn dịch được xác định bằng cách đánh giá sự biểu hiện của các dấu hiệu kích hoạt trên lympho bào CD4 và CD8. Sự hoạt hoá có thể là do sự rò rỉ của vi khuẩn trên niêm mạc đại tràng bị tổn thương do HIV, là một yếu tố dự báo mạnh mẽ nhưng không được sử dụng lâm sàng bởi vì xét nghiệm này không phổ biến rộng rãi và liệu pháp kháng retrovirus sẽ làm thay đổi tiên lượng, làm cho xét nghiệm này không quan trọng.Một nhóm nhỏ những người nhiễm HIV (được gọi là những người không tiến triển bệnh lâu dài) vẫn không có triệu chứng với số lượng CD4 cao và nồng độ HIV trong máu thấp mà không cần điều trị bằng thuốc kháng retrovirus. Những người này thường có phản ứng miễn dịch tế bào và dịch thể mạnh mẽ đối với dòng vi rút HIV của họ như được đo bằng các dấu hiệu trên thực nghiệm. Sự đặc hiệu được thể hiện qua: Khi những người này có được một siêu vi khuẩn với một chủng HIV thứ hai mà đáp ứng miễn dịch của họ không hiệu quả, họ sẽ chuyển sang tiến triển điển hình hơn. Do đó, đáp ứng hiệu quả bất thường của chúng đối với dòng đầu tiên chưa chắc đã cho dòng thứ hai. Những trường hợp này mang đến cơ sở hợp lý để tư vấn cho những người nhiễm HIV rằng họ vẫn cần tránh tiếp xúc với nguy cơ bội nhiễm HIV thông qua quan hệ tình dục không an toàn hoặc dùng chung kim tiêm.Người ta cho rằng việc chữa khỏi bệnh nhiễm HIV là không thể và do đó việc điều trị bằng thuốc suốt đời được coi là cần thiết. Bệnh nhân nhiễm HIV nên được khuyến khích dùng thuốc kháng retrovirus một cách nhất quán. Một ví dụ về khả năng chữa khỏi bệnh bằng chức năng đã được báo cáo rộng rãi ở một trẻ sơ sinh bị loại bỏ tạm thời virus HIV có khả năng sao chép sau khoảng 15 tháng điều trị bằng thuốc kháng retrovirus (5). Tuy nhiên, tình trạng nhân lên của HIV sau đó lại tiếp tục (6). Việc gián đoạn điều trị HIV định kỳ cũng gây bất lợi. Trong một thử nghiệm lâm sàng quốc tế lớn, nguy cơ nhiễm trùng cơ hội hoặc tử vong do bất kỳ nguyên nhân nào, đặc biệt là do bệnh động mạch vành sớm, biến cố mạch máu não hoặc rối loạn gan và thận, cao hơn đáng kể khi điều trị bằng thuốc kháng retrovirus được thực hiện theo từng giai đoạn (được hướng dẫn bởi số lượng CD4) so ​​với khi được dùng liên tục (7).Chăm sóc cuối đờiMặc dù liệu pháp kháng retrovirus đã làm gia tăng đáng kể tuổi thọ của bệnh nhân AIDS, nhưng nhiều bệnh nhân vẫn suy giảm và chết. Cái chết có thể xảy ra từ những điều sau đây:Không điều trị ARV duy trì thường xuyên, dẫn đến giảm miễn dịch tiến triểnSự xuất hiện của nhiễm trùng cơ hội không được điều trị và ung thưSuy gan do viêm gan B hoặc CTăng lão hóa và rối loạn liên quan đến tuổi tácCác loại ung thư không liên quan đến AIDS xảy ra với tỷ lệ cao hơn ở những bệnh nhân nhiễm HIV có kiểm soát tốtCái chết hiếm khi đột ngột; do đó, bệnh nhân thường có thời gian để lập kế hoạch. Tuy nhiên, bệnh nhân nên ghi lại kế hoạch chăm sóc sức khoẻ sớm, với hướng dẫn rõ ràng về chăm sóc cuối cùng của cuộc đời. Các văn bản pháp luật khác, bao gồmquyền hạn của luật sưvà di chúc, nên được đặt đúng chỗ.Với bệnh nhân chăm sóccuối cuộc đời, bác sĩ lâm sàng có thể cần kê toa thuốc để giảm đau, giảm sự chán ăn, giảm kích động, và các triệu chứng đau buồn khác. Việc giảm cân nhiều ở nhiều người trong giai đoạn cuối của HIV khiến việc chăm sóc da tốt trở nên khó khăn. Sự hỗ trợ toàn diện mà các chương trình chăm sóc cuối đời mang lại sẽ giúp ích cho nhiều bệnh nhân vì các chuyên gia chăm sóc sức khỏe cuối đời có kỹ năng quản lý triệu chứng và hỗ trợ người chăm sóc cũng như quyền tự chủ của bệnh nhân.
+
+--- 9. Phòng ngừa lây nhiễm HIV ---
+
+Vắc xin chống lại HIV rất khó phát triển vì các protein bề mặt HIV đột biến dễ dàng, dẫn đến một sự đa dạng rất lớn các loại kháng nguyên. Tuy nhiên, nhiều ứng cử viên vắc xin khác nhau đang được nghiên cứu và một số đã cho thấy nhiều hứa hẹn trong các thử nghiệm lâm sàng. Hiện tại, chưa có vắc xin HIV hiệu quả.Phòng lây truyềnCho đến nay, các chất khử trùng âm đạo (bao gồm cả thuốc kháng vi rút) được đưa vào trước khi quan hệ tình dục đã tỏ ra không hiệu quả và một số dường như làm tăng nguy cơ cho phụ nữ, có lẽ bằng cách gây tổn thương tế bào và do đó làm giảm các rào cản tự nhiên đối với HIV.Các biện pháp hiệu quả bao gồm:Giáo dục công cộng:Giáo dục có hiệu quả và dường như làm giảm tỷ lệ nhiễm bệnh ở một số quốc gia, đặc biệt là ở Thái Lan và Uganda. Do quan hệ tình dục chiếm phần lớn các trường hợp, nên dạy mọi người tránh các hành vi tình dục không an toàn là biện pháp phù hợp nhất (xem bảngNguy cơ lây truyền HIV đối với một số tình trạng quan hệ tình dục).Thực hành tình dục an toàn hơn:Những người nhiễm HIV không bị ức chế vi rút (tức là không có tải lượng vi rút ở mức không thể phát hiện được) nên thực hành các hành vi tình dục an toàn hơn, điều cần thiết để ngăn ngừa sự lây lan của bệnh. Những người nhiễm HIV bị ức chế vi-rút không truyền vi rút qua đường tình dục cho bạn tình của họ (1). Thực hành tình dục an toàn hơn nên được sử dụng bởi một bệnh nhân nhiễm HIV mà nhiễm trùng không bị ức chế do vi rút bất kể họ có quan hệ tình dục với ai. Các thực hành tình dục an toàn hơn cũng được khuyến khích khi cả hai bạn tình đều dương tính với HIV và một hoặc cả hai bạn tình không có ức chế vi rút; quan hệ tình dục không an toàn giữa những người bị nhiễm HIV không có ức chế vi rút có thể khiến một người phơi nhiễm với các chủng HIV kháng thuốc hoặc độc tính hơn. Ngoài ra, thực hành tình dục an toàn hơn giúp ngăn ngừa lây truyền các loại vi rút khác (ví dụ: cytomegalovirus, vi rút Epstein-Barr, vi rút herpes simplex, vi rút viêm gan B) gây bệnh nặng ở bệnh nhân HIV giai đoạn cuối, cũng như giúp ngăn ngừa lây truyền bệnh. bệnh giang mai và các bệnh nhiễm trùng lây truyền qua đường tình dục (STI) khác, bao gồm các bệnh nhiễm trùng đáng lo ngại như bệnh lậu đa kháng thuốc vàNeisseria meningitidislây truyền qua đường tình dục. Bao cao su là biện pháp bảo vệ tốt nhất. Chất bôi trơn không nên sử dụng vì chúng có thể làm tan nhựa, làm tăng nguy cơ thất bại bảo vệ của bao cao su. (Xem thêm Center for Disease Control and Prevention (CDC) information onHIV Transmission.)Tư vấn cho người sử dụng thuốc đường tiêm:Tư vấn về nguy cơ dùng chung bơm kim tiêm có vai trò quan trọng nhưng có lẽ sẽ hiệu quả hơn nếu kết hợp với việc cung cấp bơm kim tiêm vô trùng để giảm lây truyền HIV và các vi rút lây qua đường máu khác do dùng chung dụng cụ tiêm chích bị ô nhiễm, điều trị nghiện ma túy và phục hồi chức năng.Xét nghiệm xác định nhiễm HIV:Xét nghiệm nên được cung cấp theo thường quy cho thanh thiếu niên và người lớn có quan hệ tình dục từ 13 tuổi đến 75 tuổi ở hầu hết các cơ sở chăm sóc sức khỏe. Để tạo thuận lợi cho việc kiểm tra thường xuyên, một số tiểu bang không cần phải có sự chấp thuận bằng văn bản hoặc tư vấn trước khi xét nghiệm mở rộng.Tư vấn cho phụ nữ mang thai:Lây truyền từ mẹ sang conhầu như đã được loại bỏ nhờ xét nghiệm HIV, điều trị bằng ART và, ở các quốc gia có nguồn lực dồi dào, sử dụng các sản phẩm thay thế sữa mẹ. Nếu phụ nữ mang thai được biết là nhiễm HIV hoặc xét nghiệm dương tính với HIV, họ nên được tư vấn về nguy cơ lây truyền từ mẹ sang con. Phụ nữ mang thai bị nhiễm HIV cần phải được khuyến khích chấp nhận điều trị để ngăn ngừa lây nhiễm cho thai nhi hoặc trẻ sơ sinh, thường bắt đầu từ khoảng 14 tuần tuổi thai. Liệu pháp kết hợp thường được sử dụng vì nó có hiệu quả hơn đơn trị liệu và ít có khả năng dẫn đến kháng thuốc. Một số loại thuốc có thể độc hại cho thai nhi hoặc phụ nữ và cần tránh. Nếu phụ nữ đáp ứng các tiêu chuẩn điều trị ARV, họ nên bắt đầu một chế độ phù hợp với tiền sử và giai đoạn của thai nghén và tiếp tục trong suốt thời kỳ mang thai. Mổ lấy thai cũng có thể làm giảm nguy cơ lây truyền. Bất kể phác đồ điều trị trước sinh hay phương pháp sinh nở nào, tất cả phụ nữ nhiễm HIV nên được cho dùng zidovudine theo đường tĩnh mạch trong quá trình chuyển dạ và sau khi sinh, trẻ sơ sinh nên được uống zidovudine, tiếp tục trong 6 tuần sau khi sinh (xem thêmPhòng ngừa lây truyền chu sinh). Một số phụ nữ chọn cách chấm dứt thai kỳ vì HIV có thể lây truyền trong tử cung đến thai nhi hoặc vì những lý do khác.Sàng lọc máu và các cơ quan:Việc lây qua truyền máu vẫn có thể xảy ra ở Hoa Kỳ bởi vì kết quả kháng thể có thể là âm tính giả trong suốt quá trình lây nhiễm sớm. Hiện nay, việc xét nghiệm máu đối với kháng thể kháng thể p24 được yêu cầu ở Mỹ và có thể làm giảm nguy cơ lây truyền. Rủi ro giảm thêm nữa bằng cách hỏi những người có các yếu tố nguy cơ nhiễm HIV, ngay cả những người có kết quả xét nghiệm kháng thể HIV âm tính gần đây, không hiến máu hoặc các cơ quan để cấy ghép. Hội Chữ thập đỏ đã ban hành hướng dẫn hoãn hiến máu, bao gồm hoãn lại vì đã có bạn tình mới hoặc nhiều hơn một bạn tình trong 3 tháng trước và đã quan hệ tình dục qua đường hậu môn trong 3 tháng qua (xemAmerican Red Cross Blood Donation Eligibility Criteria: Alphabetical). Tuy nhiên, việc sử dụng các xét nghiệm sàng lọc HIV nhạy cảm và trì hoãn người hiến tạng, máu và các sản phẩm máu chưa được thực hiện nhất quán ở các quốc gia có gánh nặng HIV cao.Dự phòng trước phơi nhiễm khi dùng thuốc kháng retrovirus (PrEP):Trong PrEP, những người không nhiễm HIV nhưng có nguy cơ cao (ví dụ: có bạn tình nhiễm HIV) dùng thuốc kháng retrovirus hàng ngày để giảm nguy cơ nhiễm trùng. CDC khuyến nghị PrEP cho người lớn và thanh thiếu niên hoạt động tình dục có cân nặng ≥ 35 kg báo cáo rằng họ có hành vi tình dục khiến họ có nguy cơ nhiễm HIV đáng kể. CDC cũng khuyến nghị sử dụng PrEP cho những người tiêm chích ma túy và báo cáo các hành vi tiêm chích khiến họ có nguy cơ nhiễm HIV đáng kể. Có thể sử dụng phối hợp tenofovir disoproxil fumarate với emtricitabine (TDF/FTC) hoặc tenofovir alafenamide-emtricitabine (TAF-FTC). Sử dụng PrEP không phải không cần sử dụng các phương pháp khác để giảm nguy cơ lây nhiễm HIV, bao gồm sử dụng bao cao su và tránh các hành vi có nguy cơ cao (như dùng chung kim). Dữ liệu liên quan đến trẻ sơ sinh của các bà mẹ âm tính với HIV dùng TDF/FTC PrEP trong thời kỳ mang thai chưa đầy đủ, nhưng hiện tại, không có tác dụng bất lợi nào được báo cáo ở trẻ sinh ra từ những phụ nữ nhiễm HIV được điều trị bằng TDF/FTC. Việc sử dụng PrEP để giảm nguy cơ nhiễm HIV ở những người sử dụng thuốc tiêm đang được nghiên cứu. Thuốc kháng vi rút tác dụng kéo dài (ví dụ: cabotegravir LA, thuốc ức chế integrase dạng tiêm được dùng 8 tuần một lần, được chỉ định cho PrEP ở người lớn và thanh thiếu niên có cân nặng ít nhất 35 kg). Để biết các khuyến nghị hiện tại của CDC, hãy xemHướng dẫn lâm sàng về PrEP.Cắt bao quy đầu của nam giới:Dữ liệu từ nam thanh niên châu Phi cho thấy cắt bao quy đầu làm giảm khoảng 50% nguy cơ lây nhiễm HIV từ bạn tình nữ khi quan hệ tình dục qua đường âm đạo; cắt bao quy đầu ở nam giới có thể có hiệu quả tương tự ở các quần thể bệnh nhân nam khác. Cho dù cắt bao quy đầu làm giảm lây truyền HIV từ nam giới HIV sang phụ nữ hay giảm nguy cơ nhiễm HIV từ một bạn tình nam nhiễm HIV chưa được biết.Biện pháp phòng ngừa phổ quát:Các bác sĩ lâm sàng y tế và nha khoa nên đeo găng tay trong các tình huống có thể liên quan đến việc tiếp xúc với màng nhầy hoặc chất dịch cơ thể của bất kỳ bệnh nhân nào và nên được dạy cách tránh tai nạn do kim tiêm. Những người chăm sóc tại nhà của bệnh nhân nhiễm HIV nên đeo găng tay nếu tay của họ có thể tiếp xúc với chất dịch cơ thể. Bề mặt hoặc dụng cụ bị ô nhiễm bởi máu hoặc các chất dịch cơ thể khác cần được làm sạch và khử trùng. Chất khử trùng hiệu quả bao gồm nhiệt, peroxit, rượu, phenolics, và hypochlorite (thuốc tẩy). Việc cách ly bệnh nhân nhiễm HIV là không cần thiết trừ khi có dấu hiệu nhiễm trùng cơ hội đang hoạt động (ví dụ: bệnh lao).Điều trị nhiễm HIV:Điều trị bằng ART làm giảm nguy cơ lây truyền.Dự phòng sau phơi nhiễm (PEP)Hậu quả tiềm ẩn của việc tiếp xúc với HIV đã thúc đẩy sự phát triển của các chính sách và thủ tục, đặc biệt là điều trị dự phòng, để giảm nguy cơ lây nhiễm cho nhân viên y tế.Điều trị dự phòng được chỉ định sauThương tích xuyên thấu liên quan đến máu nhiễm HIV (thường là kim tiêm)Tiếp xúc nhiều màng nhầy (mắt hoặc miệng) với các dịch cơ thể bị nhiễm bệnh như tinh dịch, chất dịch âm đạo hoặc các chất dịch cơ thể có chứa máu (ví dụ, dịch ối)Các chất dịch cơ thể như nước bọt, nước tiểu, nước mắt, tiết nước mũi, ói mửa, hoặc mồ hôi không được coi là có khả năng lây nhiễm trừ khi chúng có máu rõ rệt.Sau khi tiếp xúc với máu, khu vực tiếp xúc cần được làm sạch ngay bằng xà phòng và nước để tiếp xúc với da và có chất sát khuẩn cho vết thương đâm thủng. Nếu niêm mạc phơi nhiễm, cần rửa bằng một lượng lớn nước.Làm theo các hướng dẫn:Loại phơi nhiễmThời gian kể từ khi phơi nhiễmThông tin lâm sàng (bao gồm các yếu tố nguy cơ và các xét nghiệm huyết thanh học đối với HIV) về bệnh nhân nguồn cho việc tiếp xúc và người tiếp xúcLoại phơi nhiễmđược định nghĩa bởiChất dịch nào cơ thểCho dù phơi nhiễm có liên quan đến vết thương thâm nhập (ví dụ, kim chích, cắt bằng vật sắc nhọn) và tổn thương sâu như thế nàoCho dù chất lỏng có tiếp xúc với da không nguyên vẹn (ví dụ như nứt da hay khô) hoặc niêm mạcNguy cơ lây nhiễmkhoảng 0,3% (1:300) sau khi phơi nhiễm qua da điển hình và khoảng 0,09% (1:1100) sau khi tiếp xúc với niêm mạc. Những rủi ro này khác nhau tuỳ vào lượng HIV truyền cho người bị thương; số lượng HIV lây truyền bị ảnh hưởng bởi nhiều yếu tố, bao gồm tải lượng vi rút của nguồn và loại kim tiêm (ví dụ, rỗng hoặc dạng đặc). Tuy nhiên, những yếu tố này không còn được tính đến trong các khuyến cáo về PEP.Nguồnlây nhiễm cần được chú ý cho dù nó được biết hoặc không rõ. Nếu không biết nguồn (ví dụ: kim trên đường phố hoặc trong thùng đựng chất thải), rủi ro cần được đánh giá dựa trên các trường hợp phơi nhiễm (ví dụ: liệu phơi nhiễm xảy ra ở khu vực có tiêm chích, hay có kim tiêm đã dùng được bỏ đi trong một cơ sở điều trị nghiện ma túy). Nếu biết nguồn nhưng không biết tình trạng nhiễm HIV, thì nguồn đó được đánh giá về các yếu tố nguy cơ nhiễm HIV và xem xét điều trị dự phòng.Mục tiêu là bắt đầu PEP ngay sau khi tiếp xúc càng sớm càng tốt nếu phòng ngừa được bảo đảm. CDC khuyến cáo nên cung cấp PEP trong vòng 24 đến 36 giờ sau khi tiếp xúc; khoảng cách dài hơn sau khi phơi nhiễm đòi hỏi sự tư vấn của chuyên gia.Việc sử dụng PEP được xác định bởi nguy cơ nhiễm trùng; hướng dẫn khuyến nghị điều trị bằng thuốc kháng retrovirus với ≥ 3 loại thuốc kháng retrovirus trong 28 ngày (2). Các loại thuốc nên được lựa chọn cẩn thận để giảm thiểu tác dụng bất lợi và cung cấp lịch dùng thuốc thuận tiện và do đó khuyến khích hoàn thành PEP. Phác đồ ưu tiên bao gồm phối hợp 2 thuốc ức chế men sao chép ngược nucleoside (NRTI) và thuốc ức chế integrase, bictegravir-emtricitabine-tenofovir alafenamide hoặc dolutegravir phối hợp với tenofovir disoproxil fumarate-emtricitabine (TDF/FTC) hoặc tenofovir alafenamide-emtricitabine (TAF/FTC). Một phác đồ thay thế có thuốc ức chế integrase là raltegravir (400 mg hai lần mỗi ngày) và TDF/FTC hoặc TAF/FTC được dùng một lần mỗi ngày. Trong những trường hợp hiếm hoi không thể sử dụng phác đồ có thuốc ức chế integrase, TDF/FTC hoặc TAF/FTC có thể được phối hợp với thuốc ức chế protease darunavir được tăng cường. (Để biết các khuyến nghị chi tiết, hãy xemThe 2022 Recommendations of the International Antiviral Society—USA Panel: Antiretroviral Drugs for Treatment and Prevention of HIV Infection in Adults.)Nếu vi rút của nguồn được biết hoặc nghi là có khả năng kháng≥1 loại thuốc, cần có sự tư vấn một chuyên gia về liệu pháp kháng retrovirus và HIV. Tuy nhiên, các bác sĩ lâm sàng không nên trì hoãn PEP trong khi chờ ý kiến chuyên gia hoặc thử nghiệm tính nhạy cảm của thuốc. Ngoài ra, các bác sỹ lâm sàng nên đánh giá ngay lập tức và tư vấn trực tiếp và không chậm trễ theo dõi chăm sóc.Ở những bệnh nhân có thể mang thai hoặc đang mang thai, phác đồ dự phòng sau phơi nhiễm bước đầu tương tự như phác đồ dự phòng cho bệnh nhân không mang thai, bao gồm TDF/FTC hoặc TAF/FTC mỗi ngày một lần cộng với dolutegravir (50 mg mỗi ngày một lần) hoặc raltegravir (400 mg hai lần mỗi ngày). Nói chung, tránh dùng Bictegravir-emtricitabine-tenofovir alafenamide ở phụ nữ mang thai và những người trong độ tuổi sinh đẻ không sử dụng biện pháp tránh thai hiệu quả vì có rất ít dữ liệu về việc sử dụng thuốc này trong thời kỳ mang thai (3).Tài liệu tham khảo về phòng ngừa1.Rodger AJ, Cambiano V, Bruun T, et al: Sexual activity without condoms and risk of HIV transmission in serodifferent couples when the HIV-positive partner is using suppressive antiretroviral therapy.JAMA316(2):171-81, 2016. doi:10.1001/jama.2016.51482.Centers for Disease Control and Prevention: US Public Health Service: Preexposure prophylaxis for the prevention of HIV infection in the United States—2021 Update: A clinical practice guideline. Truy cập ngày 13 tháng 5 năm 2024.3.Gandhi RT, Bedimo R, Hoy JF, et al: Antiretroviral drugs for treatment and prevention of HIV infection in adults: 2022 Recommendations of the International Antiviral Society-USA Panel.JAMA329(1):63-84, 2023 doi:10.1001/jama.2022.22246
+
+--- 10. Những điểm chính ---
+
+HIV xâm nhập các tế bào lympho CD4+ và do đó can thiệp vào miễn dịch qua trung gian qua tế bào, và ở mức độ thấp hơn, miễn dịch dịch thể.HIV lây lan chủ yếu qua quan hệ tình dục, tiếp xúc với máu bị ô nhiễm hoặc mô hoặc cơ quan được cấy ghép và lây truyền dọc (trong tử cung, trong khi sinh hoặc khi cho con bú).Sự đột biến vi rút thường kết hợp với sự hủy hoại của hệ thống miễn dịch làm giảm đáng kể khả năng của cơ thể để xóa bỏ nhiễm HIV.Nhiều trường hợp nhiễm trùng cơ hội và ung thư có thể phát triển và là nguyên nhân gây tử vong thường thấy ở những bệnh nhân không được điều trị.Chẩn đoán bằng xét nghiệm kháng thể và theo dõi bằng cách đo tải lượng vi rút và số lượng CD4.Điều trị với sự kết hợp của các thuốc kháng retrovirus, có thể khôi phục chức năng miễn dịch ở mức bình thường ở hầu hết các bệnh nhân nếu họ uống thuốc một cách đều đặn.Periodically counsel patients with HIV about safer sex.Phòng chống trước phơi nhiễm hoặc sau phơi nhiễm và dự phòng trước khi điều trị dự phòng khi được chỉ định.Dự phòng ban đầu chống lại các nhiễm trùng cơ hội dựa trên số lượng CD4.
+
+--- 11. Thông tin thêm ---
+
+Sau đây là các tài nguyên tiếng Anh có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của các tài nguyên này.CDC 2024 Immunization Schedule: Recommended adult immunization schedule by medical condition and other indicationsGuidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents: Drug-Drug Interactions: Information regarding pharmacokinetic (PK) drug-drug interactions between antiretroviral (ARV) drugs and concomitant medications that are common and may lead to increased or decreased drug exposureGuidelines for Prevention and Treatment of Opportunistic Infections in HIV-Infected Adults and AdolescentsGuidelines on Post-Exposure Prophylaxis for HIV and the Use of Co-Trimoxazole Prophylaxis for HIV-Related Infections Among Adults, Adolescents and Children: Recommendations for a public health approach - December 2014 supplement to the 2013 consolidated ARV guidelinesNational Institutes of Health's AIDSInfo: HIV-related research information from the NIH’s Office of AIDS Research (OAR), the National Institute Of Allergy and Infectious Diseases (NIAID), and the U.S. National Library of Medicine (NLM)CDC: Post-Exposure Prophylaxis (PEP): Resources for providers and consumer regarding the use of antiretroviral drugs after a single high-risk event to stop HIV seroconversionPrimary Care Guidelines for the Management of Persons Infected with Human Immunodeficiency Virus: 2020 Update by the HIV Medicine Association of the Infectious Diseases Society of America: Evidence-based guidelines for the management of people infected with HIVUpdated U.S. Public Health Service Guidelines for the Management of Occupational Exposures to HIV and Recommendations for Postexposure Prophylaxis (PEP): Updated recommendations regarding HIV PEP regimens and the duration of HIV follow-up testing for exposed personnelAmerican Red Cross Blood Donation Eligibility Criteria: Alphabetical: Revised guidance document providing blood establishments that collect blood or blood components, including Source Plasma, with revised donor deferral recommendations for individuals with increased risk for transmitting HIV infection

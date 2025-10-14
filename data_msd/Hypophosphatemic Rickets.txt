@@ -1,0 +1,523 @@
+TIÊU ĐỀ: Hypophosphatemic Rickets
+URL: https://www.msdmanuals.com/vi/professional/khoa-nhi/các-bất-thường-bẩm-sinh-về-trao-đổi-chất-ở-thận/hypophosphatemic-rickets
+================================================================================
+
+NỘI DUNG:
+
+Hypophosphatemic Rickets
+
+(Bệnh còi xương kháng vitamin D)
+
+Theo
+
+Christopher J. LaRosa
+
+,
+
+MD
+
+,
+
+Perelman School of Medicine at The University of Pennsylvania
+
+Xem xét bởi
+
+Michael SD Agus
+
+,
+
+MD
+
+,
+
+Harvard Medical School
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 10 2024
+
+v1098344_vi
+
+Bệnh còi xương do hạ phosphat máu là một bệnh di truyền đặc trưng bởi tình trạng hạ phosphat máu, kém hấp thu canxi ở ruột và còi xương hoặc nhuyễn xương không đáp ứng với
+
+vitamin D
+
+. Bệnh này thường do di truyền. Triệu chứng là đau xương, gãy xương và bất thường tăng trưởng. Chẩn đoán dựa vào nộng độ phốt pho máu, phosphatase kiềm, và 1,25-dihydroxyvitamin D3. Điều trị bằng uống phosphate cộng với calcitriol;
+
+burosumab
+
+được dùng cho chứng giảm phosphat máu liên kết với nhiễm sắc thể X.
+
+Sinh lý bệnh
+
+|
+
+Triệu chứng và Dấu hiệu
+
+|
+
+Chẩn đoán
+
+|
+
+Điều trị
+
+|
+
+Những điểm chính
+
+|
+
+Còi xương giảm phốt pho máu có tính chất gia đình thường được di truyền
+
+tính trạng gen trội liên kết nhiễm sắc thể X
+
+; các dạng có tính gia đình khác xảy ra nhưng hiếm gặp (
+
+1
+
+).
+
+Một số ít trường hợp mắc bệnh là nguyên nhân dẫn đến các khối u trung mô lành tính sản xuất ra hormon làm giảm tái hấp thu phosphat ở ống lượn gần.
+
+Tài liệu tham khảo chung
+
+1.
+
+Bitzan M, Goodyer PR
+
+: Hypophosphatemic rickets.
+
+Pediatr Clin N Am
+
+66 (1): 179–207, 2019. doi: 10.1016/j.pcl.2018.09.004
+
+Sinh lý bệnh của bệnh còi xương giảm phosphate huyết
+
+Các bất thường quan sát được là giảm tái hấp thu phosphat ở ống lượn gần dẫn tới tăng lượng phosphat bài xuất qua nước tiểu và
+
+giảm phốt pho máu
+
+. Bất thường này là do yếu tố lưu thông trong hệ tuần hoàn gọi là phosphatonin. Nguồn gốc của phosphatonin trong bệnh còi xương giảm phốt pho di truyền là yếu tố tăng trưởng nguyên bào sợi 23 (FGF-23). Giảm hấp thu canxi và phosphat trong ruột cũng xảy ra. Tình trạng thiếu hụt khoáng hóa xương là do nồng độ phosphate thấp và rối loạn chức năng tế bào tạo xương chứ không phải do nồng độ canxi thấp và nồng độ
+
+hormone tuyến cận giáp
+
+(PTH) tăng cao như trong bệnh còi xương thiếu canxi (xem phần
+
+Thiếu hụt và phụ thuộc vitamin D
+
+). Nồng độ 1,25-dihydroxyvitamin D3 mức độ bình thường hoặc giảm nhẹ, một giả thuyết được đưa ra là tình trạng giảm phốt pho máu dẫn tới tăng nồng độ 1,25-dihydroxyvitamin D3.
+
+Có một số dạng còi xương giảm phosphate máu (xem bảng
+
+Các dạng bệnh còi xương di truyền
+
+). Một dạng còi xương giảm phốt pho máu có tăng canxi niệu do di truyền được biết là do các đột biến ở kênh đồng vận chuyển natri-phốt pho ở ống lượn gần type 2c (NaPi2c). Rối loạn vận chuyển phosphat và giảm phosphat máu trong trường hợp này dẫn đến tăng 1,25-dihydroxyvitamin D3 do đó dẫn đến tăng canxi niệu.
+
+Bệnh nhuyễn xương do khối u là nguyên nhân không di truyền gây ra tình trạng hạ phosphat máu ở trẻ em bị còi xương. Bệnh này là do hiện tượng cận u trong đó yếu tố tăng trưởng nguyên bào sợi lạc chỗ-23 (FGF-23) được sản sinh, dẫn đến tình trạng phosphat niệu và các biến chứng tương tự như bệnh còi xương hạ phốt phát di truyền.
+
+Bảng
+
+Bệnh di truyền còi xương giảm phốt pho máu
+
+Bảng
+
+Bệnh di truyền còi xương giảm phốt pho máu
+
+Bệnh di truyền còi xương giảm phốt pho máu
+
+Hình thức
+
+Kiểu hình di truyền
+
+Gen (vị trí)
+
+Hiệu ứng đột biến gen
+
+Đặc điểm lâm sàng
+
+Giảm phosphat máu liên kết nhiễm sắc thể X (XLH)
+
+Di truyền trội liên kết với giới tính X
+
+PHEX
+
+(Xp22.1)
+
+Bất hoạt đột biến dẫn đến tăng sản xuất phosphatonin (FGF-23)
+
+Mất phosphat thận với canxi huyết thanh bình thường, canxi nước tiểu bình thường hoặc thấp, phosphatase kiềm cao,
+
+hormone tuyến cận giáp
+
+nguyên vẹn bình thường hoặc cao một cách nghịch lý
+
+Còi xương/nhuyễn xương, chậm mọc răng, áp xe răng, dị tật sọ mặt, mất thính lực, tăng huyết áp, canxi hóa thận (kết quả từ việc xử trí)
+
+Còi xương hạ phốt pho máu gen lặn trên nhiễm sắc thể thường
+
+Tính trạng lặn thường
+
+ARHR1:
+
+DMP1
+
+(4q22.1)
+
+ARHR2:
+
+ENPP1
+
+(6q23.2)
+
+ARHR3:
+
+FAM20C
+
+(7p22.3) †
+
+Đột biến mất chức năng liên quan đến tăng không phù hợp trong FGF-23
+
+Đặc điểm chung của giảm phosphat thận, canxi huyết thanh bình thường, canxi niệu thấp/bình thường và phosphatase kiềm cao
+
+Còi xương/loãng xương, thấp bé, dị dạng xương dài, bất động cột sống, bệnh lý gân cơ, dị tật xương hàm mặt và răng, khuyết tật học tập
+
+Bệnh còi xương do giảm phosphat máu di truyền gen trội trên nhiễm sắc thể thường (ADHR)
+
+Gen trội trên nhiễm sắc thể thường
+
+(thâm nhập thay đổi).
+
+FGF23
+
+(12p13.32)
+
+Không thể phân cắt được FGF-23, dẫn đến tăng nồng độ huyết thanh
+
+Mặc dù các đặc điểm có thể tương tự như XLH, tuổi tác cũng như sự khác biệt.
+
+Còi xương giảm phốt pho máu có tăng canxi niệu do di truyền (HHRH)
+
+Tính trạng lặn thường
+
+SLC34A3
+
+(9q34.3)
+
+FGF-23 bình thường/thấp
+
+Khiếm khuyết ở ống lượn gần NaPi2c
+
+Thiếu phosphate và 1,25-dihydroxyvitamin D3 cao, gây tăng canxi niệu, sỏi thận và/hoặc sỏi thận
+
+Hạ phosphate máu, tăng canxi máu và ung thư thận (HHN)
+
+Tính trạng lặn thường
+
+SLC34A1
+
+(5q35)
+
+Ức chế FGF-23
+
+Bất thường NaPi2a
+
+Nồng độ 1,25-dihydroxyvitamin D3 tăng cao, giảm phốt phát máu, tăng calci huyết, tăng canxi niệu và nhiễm canxi thận
+
+Bệnh Dent và hội chứng Lowe
+
+X-liên kết tính trạng lặn
+
+Bệnh Dent:
+
+CLCN5
+
+(Xp11.23)
+
+Hội chứng Lowe:
+
+OCRL1
+
+(Xq26.1)
+
+Độc tính tế bào ở ống lượn gần
+
+Hội chứng Fanconi thận kèm theo tình trạng mất phốt pho cũng như protein niệu trọng lượng phân tử thấp và nhiễm toan do ống thận
+
+Tăng canxi niệu được biết là xảy ra với các đặc điểm của bệnh sỏi thận và bệnh canxi hóa thận
+
+* Bảng này cung cấp một cái nhìn tổng quan ngắn gọn về các dạng đơn gen của còi xương giảm phosphate huyết di truyền liên quan đến tăng FGF-23 hoặc bình thường đối với FGF-23 bị ức chế.
+
+† Hình thức này có thể xảy ra trong loạn sản xương xơ vữa và là một phần của hội chứng Raine (một chứng loạn sản xương hiếm gặp).
+
+FGF-23 = yếu tố tăng trưởng nguyên bào sợi-23; NaPi2a = cotransporter loại 2a natri; NaPi2c = cotransporter loại 2c của thận.
+
+Phỏng theo
+
+Bitzan M, Goodyer PR
+
+. Hypophosphatemic rickets.
+
+Pediatr Clin N Am
+
+. 2019;66(1):179–207. doi:10.1016/j.pcl.2018.09.004
+
+* Bảng này cung cấp một cái nhìn tổng quan ngắn gọn về các dạng đơn gen của còi xương giảm phosphate huyết di truyền liên quan đến tăng FGF-23 hoặc bình thường đối với FGF-23 bị ức chế.
+
+† Hình thức này có thể xảy ra trong loạn sản xương xơ vữa và là một phần của hội chứng Raine (một chứng loạn sản xương hiếm gặp).
+
+FGF-23 = yếu tố tăng trưởng nguyên bào sợi-23; NaPi2a = cotransporter loại 2a natri; NaPi2c = cotransporter loại 2c của thận.
+
+Phỏng theo
+
+Bitzan M, Goodyer PR
+
+. Hypophosphatemic rickets.
+
+Pediatr Clin N Am
+
+. 2019;66(1):179–207. doi:10.1016/j.pcl.2018.09.004
+
+Các triệu chứng và dấu hiệu của bệnh còi xương giảm phosphate huyết
+
+Bệnh biểu hiện dưới nhiều dạng bất thường, từ tình trạng hạ phốt phát máu đơn thuần đến chậm phát triển và thấp bé, đến còi xương nặng hoặc nhuyễn xương. Trẻ em thường xuất hiện sau khi bắt đầu biết đi, với tình trạng chân cong và các biến dạng xương khác, giả gãy xương (tức là, dấu hiệu trên phim X-quang trong bệnh nhuyễn xương có thể biểu hiện các vùng gãy xương do căng thẳng trước đó đã được thay thế bằng phần xương khoáng hóa không đủ so với các vùng bị mòn xương), đau xương và thấp bé. Sự phát triển của xương ở các vị trí bám dính của cơ có thể làm hạn chế vận động.
+
+Còi xương sống hoặc xương chậu, khiếm khuyết men răng và chứng co giật xảy ra do thiếu
+
+vitamin D
+
+trong chế độ ăn uống hiếm khi xuất hiện ở bệnh còi xương hạ phốt phát máu.
+
+Bệnh nhân bị còi xương giảm phốt pho máu có tăng calci niệu có thể có sỏi thận hoặc lắng đọng canxi ở thận.
+
+Bệnh còi xương do hạ phốt phát máu là nguyên nhân chuyển hóa phổ biến gây ra
+
+tình trạng dính liền sớm khớp sọ
+
+.
+
+Chẩn đoán bệnh còi xương giảm phosphate huyết
+
+Nồng độ canxi, phốt phát, phosphatase kiềm, 1,25-dihydroxyv vitamin D3,
+
+hormone tuyến cận giáp
+
+(PTH), FGF-23 và creatinine trong huyết thanh
+
+Nồng độ phosphat và creatinine trong nước tiểu (để đánh giá khả năng tái hấp thu phosphat ở ống lượn)
+
+Phim chụp X-quang xương
+
+Thường xét nghiệm di truyền
+
+Nồng độ phốt phát huyết thanh giảm nhưng bài tiết phốt phát qua nước tiểu cao. Nồng độ Canxi máu và PTH là bình thường, và phosphatase kiềm thường tăng. Sự kích thích sản xuất calcitriol do giảm phốt pho không xảy ra. Thông thường, nồng độ calcidiol là bình thường, trong khi mức calcitriol là bình thường hoặc thấp.
+
+Ở bệnh còi xương thiếu canxi, có hạ kali máu, hạ phốt pho máu nhẹ hoặc không có, và phosphate niệu không tăng.
+
+Phim chụp X-quang xương rất hữu ích.
+
+Các dạng còi xương giảm phosphat máu khác nhau được chẩn đoán dựa trên sự kết hợp của tiền sử gia đình, biểu hiện lâm sàng, xét nghiệm (máu và nước tiểu) và xét nghiệm hình ảnh (xem bảng
+
+Các dạng còi xương do giảm phosphat máu di truyền
+
+). Thử nghiệm di truyền bằng cách sử dụng bảng gen cụ thể hoặc giải trình tự toàn bộ bộ gen, thường có sự tư vấn của chuyên gia di truyền, rất hữu ích để xác định chẩn đoán.
+
+Vì các dạng có nồng độ FGF-23 trong huyết thanh tăng cao sẽ trở nên tồi tệ hơn do
+
+thiếu hụt sắ
+
+t, nên các xét nghiệm về công thức máu và sắt được chỉ định ở những bệnh nhân mắc các dạng đó.
+
+Các thành viên trong gia đình của bệnh nhân bị còi xương do giảm phốt phát huyết có thể là người mang mầm bệnh hoặc có khả năng bị ảnh hưởng. Anh chị em ruột của bệnh nhân mắc chứng rối loạn gen lặn trên nhiễm sắc thể thường có 25% khả năng mắc chứng rối loạn này. Các bé trai được sinh ra từ người mẹ có biến thể
+
+PHEX
+
+gây bệnh có 50% khả năng mắc chứng giảm phosphat máu liên kết nhiễm sắc thể X (XLH) và tất cả trẻ em sinh ra từ cha hoặc mẹ bị ảnh hưởng bởi bệnh còi xương do giảm phốt phát máu gen trội trên nhiễm sắc thể thường (ADHR) đều có 50% khả năng mắc ADHR.
+
+Có thể cung cấp sàng lọc di truyền trước khi sinh và
+
+sàng lọc di truyền trước khi làm tổ
+
+cho những gia đình có thành viên mắc bệnh còi xương hạ phốt phát máu.
+
+Con của những người có tiền sử gia đình mắc XLH hoặc ADHR và anh chị em ruột của những người mắc bệnh còi xương giảm phốt phát máu di truyền gen lặn trên nhiễm sắc thể thường nên được đánh giá tình trạng gãy xương trước đó cũng như các đặc điểm kém phát triển, dị tật xương và còi xương (có thể xác nhận bằng chụp X-quang). Nồng độ canxi và phốt phát trong huyết thanh cũng nên được đo. Các xét nghiệm tiếp theo có thể bao gồm đo nồng độ
+
+vitamin D
+
+, PTH nguyên vẹn và phosphatase kiềm. Các xét nghiệm nước tiểu, bao gồm đo ngẫu nhiên nồng độ canxi, phốt phát và creatinine hoặc lấy nước tiểu 24 giờ, cũng có thể được thực hiện (xem bảng
+
+Các dạng bệnh còi xương do giảm phốt phát máu di truyền
+
+).
+
+Điều trị bệnh còi xương giảm phosphate huyết
+
+Phốt phát và
+
+calcitriol
+
+uống
+
+Burosumab
+
+cho tình trạng hạ phosphat máu liên kết nhiễm sắc thể X và bệnh nhuyễn xương do khối u
+
+Điều trị bệnh còi xương giảm phốt pho bằng chế phẩm dung dịch chưa photphat trung tính hoặc viên nén. Bổ sung phốt phát làm giảm nồng độ canxi bị ion hóa và tiếp tục ức chế chuyển đổi
+
+calcitriol
+
+, dẫn đến cường cận giáp thứ phát và làm trầm trọng thêm tình trạng lãng phí phốt phát trong nước tiểu. Do đó, vitamin D đường uống được cho dùng dưới dạng calcitriol. Tuy nhiên, trong HHRH hoặc HHN (hạ phốt phát máu, tăng calci máu và canxi hóa thận), nồng độ 1,25-dihydroxyvitamin D3 tăng cao và liều dùng
+
+calcitriol
+
+có thể gây hại.
+
+Lượng phosphat có thể cần phải tăng lên để đạt được sự phát triển của xương hoặc giảm đau xương. Tiêu chảy có thể làm giảm hâp thu phosphat bằng đường uống. Tăng phosphat huyết tương và giảm nồng độ phosphatase kiềm, điều trị còi xương và cải thiện tốc độ tăng trưởng là mục tiêu điều trị. Tăng đường huyết, tăng lắng đọng canxi và giảm chức năng thận có thể làm phức tạp hơn quá trình điều trị. Bệnh nhân đang điều trị cần phải được theo dõi thường xuyên.
+
+Burosumab là một kháng thể đơn dòng kháng FGF-23 đã trở thành phương pháp điều trị được lựa chọn cho tình trạng hạ phốt phát máu liên kết nhiễm sắc thể X (XLH) và bệnh còi xương do khối u (TIO) và đã thay thế liệu pháp thông thường được mô tả ở trên (
+
+1
+
+). Liều lượng có thể được tăng dần khi cần thiết để bình thường hóa nồng độ phốt phát huyết thanh (
+
+2
+
+).
+
+Thiếu sắt
+
+điều chỉnh tăng biểu hiện của xương FGF-23 và có thể làm trầm trọng thêm tình trạng với hàm lượng FGF-23 cao. Do đó,
+
+bổ sung sắt
+
+là điều cần thiết cho những bệnh nhân bị thiếu sắt trong điều kiện giảm nồng độ FGF-23 phosphate máu cao.
+
+Người lớn mắc TIO có thể cải thiện đáng kể sau khi khối u trung mô sản sinh ra FGF gây ra bệnh này được loại bỏ. Burosumab đã được sử dụng thành công ở những người có khối u không thể cắt bỏ hoặc khối u ẩn (
+
+3
+
+).
+
+Trong một số trường hợp, tình trạng dính liền sớm khớp sọ cần phải phẫu thuật để điều chỉnh.
+
+Tài liệu tham khảo về điều trị
+
+1.
+
+Imel EA, Glorieux FH, Whyte MP, et al
+
+.
+
+Burosumab
+
+so với liệu pháp thông thường ở trẻ em bị giảm phosphat máu liên kết với nhiễm sắc thể X: A randomised, active-controlled, open-label, phase 3 trial.
+
+Lancet
+
+. 2019;393(10189):2416–2427. doi:10.1016/S0140-6736(19)30654-3.
+
+Clarification and additional information
+
+.
+
+Lancet
+
+. 2019;394(10193):120. doi:10.1016/S0140-6736(19)31426-6
+
+2.
+
+Sandy JL, Simm PJ, Biggin A, et al
+
+. Clinical practice guidelines for paediatric X-linked hypophosphataemia in the era of
+
+burosumab
+
+.
+
+J Paediatr Child Health
+
+. 2022;58(5):762-768. doi:10.1111/jpc.15976
+
+3.
+
+Jan de Beur SM, Miller PD, Weber TJ, et al
+
+.
+
+Burosumab
+
+for the Treatment of Tumor-Induced Osteomalacia.
+
+J Bone Miner Res
+
+. 2021;36(4):627-635. doi:10.1002/jbmr.4233
+
+Những điểm chính
+
+Giảm tái hấp thu phosphat ở thận dẫn tới mất phosphat qua nước tiểu và giảm phosphat máu.
+
+Có sự thiếu chất khoáng ở xương do phosphat thấp và rối loạn chức năng tế bào tạo xương.
+
+Trẻ em có chậm phát triển, đau xương và dị dạng (ví dụ như cẳng chân) và lùn.
+
+Những bệnh nhân bị còi xương giảm phốt pho máu có tăng calci niệu có thể xuất hiện sỏi thận và/hoặc lắng đọng canxi ở thận.
+
+Chẩn đoán bằng cách tìm nồng độ phốt phát trong huyết thanh thấp, tăng phốt phát trong nước tiểu, canxi huyết thanh và
+
+hormone tuyến cận giáp
+
+bình thường.
+
+Điều trị bằng cách bổ sung phosphate đường uống và, ngoại trừ HHRH và HHN (hạ phốt phát máu, tăng canxi máu và canxi hóa thận), vitamin D (dùng dưới dạng calcitriol).
+
+Sử dụng burosumab cho những bệnh nhân bị hạ phốt phát máu liên kết nhiễm sắc thể X và bệnh nhuyễn xương do khối u.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. (Bệnh còi xương kháng vitamin D) ---
+
+TheoChristopher J. LaRosa,MD,Perelman School of Medicine at The University of PennsylvaniaXem xét bởiMichael SD Agus,MD,Harvard Medical SchoolĐã xem xét/Đã chỉnh sửađã sửa đổiThg 10 2024v1098344_vi
+
+--- 2. Sinh lý bệnh của bệnh còi xương giảm phosphate huyết ---
+
+Các bất thường quan sát được là giảm tái hấp thu phosphat ở ống lượn gần dẫn tới tăng lượng phosphat bài xuất qua nước tiểu vàgiảm phốt pho máu. Bất thường này là do yếu tố lưu thông trong hệ tuần hoàn gọi là phosphatonin. Nguồn gốc của phosphatonin trong bệnh còi xương giảm phốt pho di truyền là yếu tố tăng trưởng nguyên bào sợi 23 (FGF-23). Giảm hấp thu canxi và phosphat trong ruột cũng xảy ra. Tình trạng thiếu hụt khoáng hóa xương là do nồng độ phosphate thấp và rối loạn chức năng tế bào tạo xương chứ không phải do nồng độ canxi thấp và nồng độhormone tuyến cận giáp(PTH) tăng cao như trong bệnh còi xương thiếu canxi (xem phầnThiếu hụt và phụ thuộc vitamin D). Nồng độ 1,25-dihydroxyvitamin D3 mức độ bình thường hoặc giảm nhẹ, một giả thuyết được đưa ra là tình trạng giảm phốt pho máu dẫn tới tăng nồng độ 1,25-dihydroxyvitamin D3.Có một số dạng còi xương giảm phosphate máu (xem bảngCác dạng bệnh còi xương di truyền). Một dạng còi xương giảm phốt pho máu có tăng canxi niệu do di truyền được biết là do các đột biến ở kênh đồng vận chuyển natri-phốt pho ở ống lượn gần type 2c (NaPi2c). Rối loạn vận chuyển phosphat và giảm phosphat máu trong trường hợp này dẫn đến tăng 1,25-dihydroxyvitamin D3 do đó dẫn đến tăng canxi niệu.Bệnh nhuyễn xương do khối u là nguyên nhân không di truyền gây ra tình trạng hạ phosphat máu ở trẻ em bị còi xương. Bệnh này là do hiện tượng cận u trong đó yếu tố tăng trưởng nguyên bào sợi lạc chỗ-23 (FGF-23) được sản sinh, dẫn đến tình trạng phosphat niệu và các biến chứng tương tự như bệnh còi xương hạ phốt phát di truyền.BảngBệnh di truyền còi xương giảm phốt pho máuBảngBệnh di truyền còi xương giảm phốt pho máuBệnh di truyền còi xương giảm phốt pho máuHình thứcKiểu hình di truyềnGen (vị trí)Hiệu ứng đột biến genĐặc điểm lâm sàngGiảm phosphat máu liên kết nhiễm sắc thể X (XLH)Di truyền trội liên kết với giới tính XPHEX(Xp22.1)Bất hoạt đột biến dẫn đến tăng sản xuất phosphatonin (FGF-23)Mất phosphat thận với canxi huyết thanh bình thường, canxi nước tiểu bình thường hoặc thấp, phosphatase kiềm cao,hormone tuyến cận giápnguyên vẹn bình thường hoặc cao một cách nghịch lýCòi xương/nhuyễn xương, chậm mọc răng, áp xe răng, dị tật sọ mặt, mất thính lực, tăng huyết áp, canxi hóa thận (kết quả từ việc xử trí)Còi xương hạ phốt pho máu gen lặn trên nhiễm sắc thể thườngTính trạng lặn thườngARHR1:DMP1(4q22.1)ARHR2:ENPP1(6q23.2)ARHR3:FAM20C(7p22.3) †Đột biến mất chức năng liên quan đến tăng không phù hợp trong FGF-23Đặc điểm chung của giảm phosphat thận, canxi huyết thanh bình thường, canxi niệu thấp/bình thường và phosphatase kiềm caoCòi xương/loãng xương, thấp bé, dị dạng xương dài, bất động cột sống, bệnh lý gân cơ, dị tật xương hàm mặt và răng, khuyết tật học tậpBệnh còi xương do giảm phosphat máu di truyền gen trội trên nhiễm sắc thể thường (ADHR)Gen trội trên nhiễm sắc thể thường(thâm nhập thay đổi).FGF23(12p13.32)Không thể phân cắt được FGF-23, dẫn đến tăng nồng độ huyết thanhMặc dù các đặc điểm có thể tương tự như XLH, tuổi tác cũng như sự khác biệt.Còi xương giảm phốt pho máu có tăng canxi niệu do di truyền (HHRH)Tính trạng lặn thườngSLC34A3(9q34.3)FGF-23 bình thường/thấpKhiếm khuyết ở ống lượn gần NaPi2cThiếu phosphate và 1,25-dihydroxyvitamin D3 cao, gây tăng canxi niệu, sỏi thận và/hoặc sỏi thậnHạ phosphate máu, tăng canxi máu và ung thư thận (HHN)Tính trạng lặn thườngSLC34A1(5q35)Ức chế FGF-23Bất thường NaPi2aNồng độ 1,25-dihydroxyvitamin D3 tăng cao, giảm phốt phát máu, tăng calci huyết, tăng canxi niệu và nhiễm canxi thậnBệnh Dent và hội chứng LoweX-liên kết tính trạng lặnBệnh Dent:CLCN5(Xp11.23)Hội chứng Lowe:OCRL1(Xq26.1)Độc tính tế bào ở ống lượn gầnHội chứng Fanconi thận kèm theo tình trạng mất phốt pho cũng như protein niệu trọng lượng phân tử thấp và nhiễm toan do ống thậnTăng canxi niệu được biết là xảy ra với các đặc điểm của bệnh sỏi thận và bệnh canxi hóa thận* Bảng này cung cấp một cái nhìn tổng quan ngắn gọn về các dạng đơn gen của còi xương giảm phosphate huyết di truyền liên quan đến tăng FGF-23 hoặc bình thường đối với FGF-23 bị ức chế.† Hình thức này có thể xảy ra trong loạn sản xương xơ vữa và là một phần của hội chứng Raine (một chứng loạn sản xương hiếm gặp).FGF-23 = yếu tố tăng trưởng nguyên bào sợi-23; NaPi2a = cotransporter loại 2a natri; NaPi2c = cotransporter loại 2c của thận.Phỏng theoBitzan M, Goodyer PR. Hypophosphatemic rickets.Pediatr Clin N Am. 2019;66(1):179–207. doi:10.1016/j.pcl.2018.09.004* Bảng này cung cấp một cái nhìn tổng quan ngắn gọn về các dạng đơn gen của còi xương giảm phosphate huyết di truyền liên quan đến tăng FGF-23 hoặc bình thường đối với FGF-23 bị ức chế.† Hình thức này có thể xảy ra trong loạn sản xương xơ vữa và là một phần của hội chứng Raine (một chứng loạn sản xương hiếm gặp).FGF-23 = yếu tố tăng trưởng nguyên bào sợi-23; NaPi2a = cotransporter loại 2a natri; NaPi2c = cotransporter loại 2c của thận.Phỏng theoBitzan M, Goodyer PR. Hypophosphatemic rickets.Pediatr Clin N Am. 2019;66(1):179–207. doi:10.1016/j.pcl.2018.09.004
+
+--- 3. Các triệu chứng và dấu hiệu của bệnh còi xương giảm phosphate huyết ---
+
+Bệnh biểu hiện dưới nhiều dạng bất thường, từ tình trạng hạ phốt phát máu đơn thuần đến chậm phát triển và thấp bé, đến còi xương nặng hoặc nhuyễn xương. Trẻ em thường xuất hiện sau khi bắt đầu biết đi, với tình trạng chân cong và các biến dạng xương khác, giả gãy xương (tức là, dấu hiệu trên phim X-quang trong bệnh nhuyễn xương có thể biểu hiện các vùng gãy xương do căng thẳng trước đó đã được thay thế bằng phần xương khoáng hóa không đủ so với các vùng bị mòn xương), đau xương và thấp bé. Sự phát triển của xương ở các vị trí bám dính của cơ có thể làm hạn chế vận động.Còi xương sống hoặc xương chậu, khiếm khuyết men răng và chứng co giật xảy ra do thiếuvitamin Dtrong chế độ ăn uống hiếm khi xuất hiện ở bệnh còi xương hạ phốt phát máu.Bệnh nhân bị còi xương giảm phốt pho máu có tăng calci niệu có thể có sỏi thận hoặc lắng đọng canxi ở thận.Bệnh còi xương do hạ phốt phát máu là nguyên nhân chuyển hóa phổ biến gây ratình trạng dính liền sớm khớp sọ.
+
+--- 4. Chẩn đoán bệnh còi xương giảm phosphate huyết ---
+
+Nồng độ canxi, phốt phát, phosphatase kiềm, 1,25-dihydroxyv vitamin D3,hormone tuyến cận giáp(PTH), FGF-23 và creatinine trong huyết thanhNồng độ phosphat và creatinine trong nước tiểu (để đánh giá khả năng tái hấp thu phosphat ở ống lượn)Phim chụp X-quang xươngThường xét nghiệm di truyềnNồng độ phốt phát huyết thanh giảm nhưng bài tiết phốt phát qua nước tiểu cao. Nồng độ Canxi máu và PTH là bình thường, và phosphatase kiềm thường tăng. Sự kích thích sản xuất calcitriol do giảm phốt pho không xảy ra. Thông thường, nồng độ calcidiol là bình thường, trong khi mức calcitriol là bình thường hoặc thấp.Ở bệnh còi xương thiếu canxi, có hạ kali máu, hạ phốt pho máu nhẹ hoặc không có, và phosphate niệu không tăng.Phim chụp X-quang xương rất hữu ích.Các dạng còi xương giảm phosphat máu khác nhau được chẩn đoán dựa trên sự kết hợp của tiền sử gia đình, biểu hiện lâm sàng, xét nghiệm (máu và nước tiểu) và xét nghiệm hình ảnh (xem bảngCác dạng còi xương do giảm phosphat máu di truyền). Thử nghiệm di truyền bằng cách sử dụng bảng gen cụ thể hoặc giải trình tự toàn bộ bộ gen, thường có sự tư vấn của chuyên gia di truyền, rất hữu ích để xác định chẩn đoán.Vì các dạng có nồng độ FGF-23 trong huyết thanh tăng cao sẽ trở nên tồi tệ hơn dothiếu hụt sắt, nên các xét nghiệm về công thức máu và sắt được chỉ định ở những bệnh nhân mắc các dạng đó.Các thành viên trong gia đình của bệnh nhân bị còi xương do giảm phốt phát huyết có thể là người mang mầm bệnh hoặc có khả năng bị ảnh hưởng. Anh chị em ruột của bệnh nhân mắc chứng rối loạn gen lặn trên nhiễm sắc thể thường có 25% khả năng mắc chứng rối loạn này. Các bé trai được sinh ra từ người mẹ có biến thểPHEXgây bệnh có 50% khả năng mắc chứng giảm phosphat máu liên kết nhiễm sắc thể X (XLH) và tất cả trẻ em sinh ra từ cha hoặc mẹ bị ảnh hưởng bởi bệnh còi xương do giảm phốt phát máu gen trội trên nhiễm sắc thể thường (ADHR) đều có 50% khả năng mắc ADHR.Có thể cung cấp sàng lọc di truyền trước khi sinh vàsàng lọc di truyền trước khi làm tổcho những gia đình có thành viên mắc bệnh còi xương hạ phốt phát máu.Con của những người có tiền sử gia đình mắc XLH hoặc ADHR và anh chị em ruột của những người mắc bệnh còi xương giảm phốt phát máu di truyền gen lặn trên nhiễm sắc thể thường nên được đánh giá tình trạng gãy xương trước đó cũng như các đặc điểm kém phát triển, dị tật xương và còi xương (có thể xác nhận bằng chụp X-quang). Nồng độ canxi và phốt phát trong huyết thanh cũng nên được đo. Các xét nghiệm tiếp theo có thể bao gồm đo nồng độvitamin D, PTH nguyên vẹn và phosphatase kiềm. Các xét nghiệm nước tiểu, bao gồm đo ngẫu nhiên nồng độ canxi, phốt phát và creatinine hoặc lấy nước tiểu 24 giờ, cũng có thể được thực hiện (xem bảngCác dạng bệnh còi xương do giảm phốt phát máu di truyền).
+
+--- 5. Điều trị bệnh còi xương giảm phosphate huyết ---
+
+Phốt phát vàcalcitrioluốngBurosumabcho tình trạng hạ phosphat máu liên kết nhiễm sắc thể X và bệnh nhuyễn xương do khối uĐiều trị bệnh còi xương giảm phốt pho bằng chế phẩm dung dịch chưa photphat trung tính hoặc viên nén. Bổ sung phốt phát làm giảm nồng độ canxi bị ion hóa và tiếp tục ức chế chuyển đổicalcitriol, dẫn đến cường cận giáp thứ phát và làm trầm trọng thêm tình trạng lãng phí phốt phát trong nước tiểu. Do đó, vitamin D đường uống được cho dùng dưới dạng calcitriol. Tuy nhiên, trong HHRH hoặc HHN (hạ phốt phát máu, tăng calci máu và canxi hóa thận), nồng độ 1,25-dihydroxyvitamin D3 tăng cao và liều dùngcalcitriolcó thể gây hại.Lượng phosphat có thể cần phải tăng lên để đạt được sự phát triển của xương hoặc giảm đau xương. Tiêu chảy có thể làm giảm hâp thu phosphat bằng đường uống. Tăng phosphat huyết tương và giảm nồng độ phosphatase kiềm, điều trị còi xương và cải thiện tốc độ tăng trưởng là mục tiêu điều trị. Tăng đường huyết, tăng lắng đọng canxi và giảm chức năng thận có thể làm phức tạp hơn quá trình điều trị. Bệnh nhân đang điều trị cần phải được theo dõi thường xuyên.Burosumab là một kháng thể đơn dòng kháng FGF-23 đã trở thành phương pháp điều trị được lựa chọn cho tình trạng hạ phốt phát máu liên kết nhiễm sắc thể X (XLH) và bệnh còi xương do khối u (TIO) và đã thay thế liệu pháp thông thường được mô tả ở trên (1). Liều lượng có thể được tăng dần khi cần thiết để bình thường hóa nồng độ phốt phát huyết thanh (2).Thiếu sắtđiều chỉnh tăng biểu hiện của xương FGF-23 và có thể làm trầm trọng thêm tình trạng với hàm lượng FGF-23 cao. Do đó,bổ sung sắtlà điều cần thiết cho những bệnh nhân bị thiếu sắt trong điều kiện giảm nồng độ FGF-23 phosphate máu cao.Người lớn mắc TIO có thể cải thiện đáng kể sau khi khối u trung mô sản sinh ra FGF gây ra bệnh này được loại bỏ. Burosumab đã được sử dụng thành công ở những người có khối u không thể cắt bỏ hoặc khối u ẩn (3).Trong một số trường hợp, tình trạng dính liền sớm khớp sọ cần phải phẫu thuật để điều chỉnh.Tài liệu tham khảo về điều trị1.Imel EA, Glorieux FH, Whyte MP, et al.Burosumabso với liệu pháp thông thường ở trẻ em bị giảm phosphat máu liên kết với nhiễm sắc thể X: A randomised, active-controlled, open-label, phase 3 trial.Lancet. 2019;393(10189):2416–2427. doi:10.1016/S0140-6736(19)30654-3.Clarification and additional information.Lancet. 2019;394(10193):120. doi:10.1016/S0140-6736(19)31426-62.Sandy JL, Simm PJ, Biggin A, et al. Clinical practice guidelines for paediatric X-linked hypophosphataemia in the era ofburosumab.J Paediatr Child Health. 2022;58(5):762-768. doi:10.1111/jpc.159763.Jan de Beur SM, Miller PD, Weber TJ, et al.Burosumabfor the Treatment of Tumor-Induced Osteomalacia.J Bone Miner Res. 2021;36(4):627-635. doi:10.1002/jbmr.4233
+
+--- 6. Những điểm chính ---
+
+Giảm tái hấp thu phosphat ở thận dẫn tới mất phosphat qua nước tiểu và giảm phosphat máu.Có sự thiếu chất khoáng ở xương do phosphat thấp và rối loạn chức năng tế bào tạo xương.Trẻ em có chậm phát triển, đau xương và dị dạng (ví dụ như cẳng chân) và lùn.Những bệnh nhân bị còi xương giảm phốt pho máu có tăng calci niệu có thể xuất hiện sỏi thận và/hoặc lắng đọng canxi ở thận.Chẩn đoán bằng cách tìm nồng độ phốt phát trong huyết thanh thấp, tăng phốt phát trong nước tiểu, canxi huyết thanh vàhormone tuyến cận giápbình thường.Điều trị bằng cách bổ sung phosphate đường uống và, ngoại trừ HHRH và HHN (hạ phốt phát máu, tăng canxi máu và canxi hóa thận), vitamin D (dùng dưới dạng calcitriol).Sử dụng burosumab cho những bệnh nhân bị hạ phốt phát máu liên kết nhiễm sắc thể X và bệnh nhuyễn xương do khối u.

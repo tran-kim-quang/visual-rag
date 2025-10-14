@@ -1,0 +1,439 @@
+TIÊU ĐỀ: John's Wort
+URL: https://www.msdmanuals.com/vi/professional/đối-tượng-đặc-biệt/dinh-dưỡng-bổ-sung/john-s-wort
+================================================================================
+
+NỘI DUNG:
+
+John's Wort
+
+Theo
+
+Laura Shane-McWhorter
+
+,
+
+PharmD
+
+,
+
+University of Utah College of Pharmacy
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+Thg 1 2023
+
+|
+
+đã sửa đổi
+
+Thg 4 2025
+
+v1126770_vi
+
+Các yêu cầu
+
+|
+
+Bằng chứng
+
+|
+
+Tác dụng phụ
+
+|
+
+Tương tác thuốc
+
+|
+
+Tài liệu tham khảo
+
+|
+
+Thông tin thêm
+
+|
+
+John wort (
+
+Hypericum perforatum
+
+) (SJW) chứa các thành phần hoạt tính sinh học, hypericin và hyperforin. SJW có thể tăng serotonin ở hệ thần kinh trung ương và, với liều lượng rất cao, hoạt động như thuốc ức chế monoamine oxidase (MAOI).
+
+(Xem thêm
+
+Overview of Dietary Supplements
+
+and
+
+National Institutes of Health (NIH): St. John’s wort
+
+.)
+
+Các yêu cầu
+
+Các kết quả nghiên cứu là rất khác nhau, nhưng SJW có thể có lợi cho những bệnh nhân trầm cảm nhẹ đến trung bình người không có ý tưởng tự sát. Các nghiên cứu được thiết kế tốt đã được thực hiện trên SJW điều trị chính trầm cảm. Liều khuyến nghị là 300 đến 900 mg đường uống x 1 lần/ngày với chế phẩm được chuẩn hóa từ 0,2 đến 0,3% hypericin, 1 đến 4% hyperforin hoặc cả hai (thường là như vậy).
+
+St. John' wort cũng được cho là hữu ích trong điều trị nhiễm HIV vì hypericin ức chế một loạt các virut nang hóa, bao gồm HIV, nhưng đã chứng minh tương tác bất lợi với các chất ức chế protease và thuốc ức chế sao chép ngược nucleoside (NNRTI) và do đó nên tránh
+
+(1-2)
+
+.
+
+SJW cũng đã được tuyên bố để điều trị các rối loạn da, bao gồm bệnh vẩy nến, và rối loạn tăng động/thiếu tập trung (ADHD) ở trẻ em.
+
+Bằng chứng
+
+Nhiều nghiên cứu ngẫu nhiên, giả dược có đối chứng đã đánh giá tính an toàn và hiệu quả của SJW trong điều trị trầm cảm từ nhẹ đến trung bình và gần đây, các rối loạn trầm cảm chính
+
+(3-8)
+
+. SJW cũng đã được so sánh với thuốc chống trầm cảm ba vòng (amitryptiline, imipramine) và gần đây hơn với các thuốc ức chế tái hấp thu serotonin có chọn lọc (SSRI) fluoxetine, sertraline và paroxetine
+
+(4-8)
+
+. Hầu hết các nghiên cứu có đối chứng giả dược đã chỉ ra rằng chiết xuất SJW tiêu chuẩn trong khoảng liều từ 300 mg đến 900 mg x 1 lần/ngày có hiệu quả vừa phải trong điều trị các triệu chứng trầm cảm nhẹ đến trung bình. Một số nghiên cứu đã cho thấy tương đương 900 mg của SJW với imipramin liều thấp và fluoxetine liều thấp. Một nghiên cứu của những bệnh nhân trầm cảm nặng không thể hiện sự cải thiện có ý nghĩa so với giả dược hoặc liều lượng chuẩn của sertraline trong một khoảng thời gian ngắn
+
+(7)
+
+. Tuy nhiên, các tác giả khẳng định rằng cả hai SJW và sertraline đều có hiệu quả tương đương qua thời gian dài, cho biết tiềm năng kinh tế thay thế của SJW như một liệu pháp điều trị trầm cảm khi dùng liều thấp và khi các tương tác thuốc không chắc chắn
+
+(7)
+
+.
+
+Nhìn chung, một số nghiên cứu cho thấy hiệu quả của SJW trong điều trị trầm cảm nhẹ, trong khi ở trầm cảm nặng hầu hết các nghiên cứu không cho thấy hiệu quả. Sự khác biệt trong thiết kế nghiên cứu (thiếu hoạt động kiểm soát và giả dược), nghiên cứu dân số (trầm cảm chủ yếu/nhẹ/trung bình), chiều dài của thời gian và liều SJW hoặc các tác nhân so sánh là giống đáp ứng cho một số khác nhau trong các kết quả.
+
+Một đánh giá hệ thống 2016 của 35 nghiên cứu (6993 đối tượng) đã so sánh SJW với giả dược hoặc thuốc chống trầm cảm thông thường (
+
+9
+
+). SJW là tốt hơn so với giả dược nhưng không khác so với thuốc chống trầm cảm thông thường đối với trầm cảm nhẹ đến trung bình. Tuy nhiên, các nghiên cứu không đồng nhất và trầm cảm nặng không được nghiên cứu
+
+(9)
+
+. Một phân tích tổng hợp năm 2017 gồm 27 nghiên cứu (3808 đối tượng) so sánh SJW với SSRI. SJW tương đương với SSRI trong đáp ứng và thuyên giảm đối với trầm cảm nhẹ đến trung bình nhưng có tỷ lệ ngừng thuốc thấp hơn
+
+(10)
+
+.
+
+Hai nghiên cứu thí điểm rất nhỏ chỉ ra ứng dụng tiềm năng giảm bớt chứng các rối loạn da, bao gồm bệnh vẩy nến
+
+(11-12)
+
+. Một thử nghiệm nhỏ cho thấy SJW (được chuẩn hóa thành hypericin mà không phải là hyperforin) không làm giảm các triệu chứng của rối loạn tăng động giảm chú ý (ADHD) ở trẻ em
+
+(13).
+
+Tác dụng phụ
+
+Nhạy cảm với ánh sáng, khô miệng, táo bón, chóng mặt, nhầm lẫn, và mất trí (ở những bệnh nhân rối loạn lưỡng cực) có thể xảy ra. Một trường hợp nhịp nhanh trên thất hiếm gặp đã được báo cáo (
+
+14
+
+). SJW là chống chỉ định ở phụ nữ mang thai.
+
+Tương tác thuốc
+
+Các tương tác bất lợi có thể xảy ra với cyclosporine, digoxin, thực phẩm chức năng có sắt, thuốc ức chế monoamine oxidase (MAOIs), thuốc ức chế men sao chép ngược non-nucleoside (NNRTI), thuốc tránh thai, thuốc phiện, thuốc ức chế protease, SSRI, thuốc chống trầm cảm ba vòng và warfarin, cũng như một số thuốc trực tiếp -thuốc chống đông đường uống (
+
+15-17
+
+). (Xem thêm bảng
+
+Một số tương tác giữa thuốc và thực phẩm chức năng có thể xảy ra
+
+.)
+
+Tài liệu tham khảo
+
+1.
+
+Maury W, Price JP, Brindley MA, et al
+
+: Identification of light-independent inhibition of human immunodeficiency virus-1 infection through bioguided fractionation of
+
+Hypericum perforatum
+
+.
+
+Virol J
+
+6:101-113, 2009. doi:10.1186/1743-422X-6-101
+
+2.
+
+Kakuda TN, Schöller-Gyüre M, Hoetelmans RM
+
+: Pharmacokinetic interactions between
+
+etravirine
+
+and non-antiretroviral drugs.
+
+Clin Pharmacokinet
+
+50(1):25-39, 2011. doi: 10.2165/11534740-000000000-00000
+
+3.
+
+Solomon D, Adams J, Graves N
+
+: Economic evaluation of St. John's wort (
+
+Hypericum perforatum
+
+) for the treatment of mild to moderate depression.
+
+J Affect Disord
+
+148(2-3):228-234, 2013. doi: 10.1016/j.jad.2012.11.064
+
+4.
+
+van Gurp G, Meterissian GB, Haiek LN, et al
+
+: St John's wort or
+
+sertraline
+
+? Randomized controlled trial in primary care.
+
+Can Fam Physician
+
+48:905-912, 2002
+
+5.
+
+Woelk H
+
+: Comparison of St John's wort and
+
+imipramine
+
+for treating depression: randomised controlled trial.
+
+BMJ
+
+321(7260):536-539, 2000. doi: 10.1136/bmj.321.7260.536
+
+6.
+
+Fava M, Alpert J, Nierenberg AA, et al
+
+: A double-blind, randomized trial of St John's wort,
+
+fluoxetine
+
+, and placebo in major depressive disorder.
+
+J Clin Psychopharmacol
+
+25(5):441-447, 2005. doi:10.1097/01.jcp.0000178416.60426.29
+
+7.
+
+Sarris J, Fava M, Schweitzer I, et al
+
+: St John's wort (
+
+Hypericum perforatum
+
+) versus
+
+sertraline
+
+and placebo in major depressive disorder: continuation data from a 26-week RCT.
+
+Pharmacopsychiatry
+
+45(7):275-278, 2012. doi: 10.1055/s-0032-1306348
+
+8.
+
+Seifritz E, Hatzinger M, Holsboer-Trachsler E
+
+: Efficacy of Hypericum extract WS(R) 5570 compared with
+
+paroxetine
+
+in patients with a moderate major depressive episode - a subgroup analysis.
+
+Int J Psychiatry Clin Pract
+
+20(3):126-32, 2016. doi: 10.1080/13651501.2016.1179765
+
+9.
+
+Apaydin EA, Maher AR, Shanman R, et al
+
+: A systematic review of St. John's wort for major depressive disorder.
+
+Systematic Reviews
+
+5:148, 2016. doi: 10.1186/s13643-016-0325-2
+
+10.
+
+Ng QX, Venkatanarayanan N, Ho CY
+
+: Clinical use of Hypericum perforatum (St John's wort) in depression: a meta-analysis.
+
+J Affect Disord
+
+210:211-221, 2017. doi: 10.1016/j.jad.2016.12.048
+
+11.
+
+Najafizadeh P, Hashemian F, Mansouri P, et al
+
+: The evaluation of the clinical effect of topical St Johns wort (
+
+Hypericum perforatum L.
+
+) in plaque type psoriasis vulgaris: a pilot study.
+
+Australas J
+
+53(2):131-135, 2012. doi: 10.1111/j.1440-0960.2012.00877.x
+
+12.
+
+Rook AH, Wood GS, Duvic M, et al
+
+: A phase II placebo-controlled study of photodynamic therapy with topical hypericin and visible light irradiation in the treatment of cutaneous T-cell lymphoma and psoriasis.
+
+J Am Acad Dermatol
+
+63(6):984-990, 2010. doi: 10.1016/j.jaad.2010.02.039
+
+13.
+
+Weber W, Vander Stoep A, McCarty RL, et al
+
+:
+
+Hypericum perforatum
+
+(St John's wort) for attention-deficit/hyperactivity disorder in children and adolescents: a randomized controlled trial.
+
+JAMA
+
+299(22):633-2641, 2008. doi: 10.1001/jama.299.22.2633
+
+14.
+
+Fisher KA, Patel P, Abualula S, Concepion L
+
+: St. John's wort-induced supraventricular tachycardia.
+
+Cureus
+
+13(4):e14356, 2021. doi:10.7759/cureus.14356
+
+15.
+
+Borrelli F, Izzo AA
+
+: Herb-drug interactions with St John's wort (
+
+Hypericum perforatum
+
+): an update on clinical observations.
+
+AAPS J
+
+11(4):710-727, 2009. doi: 10.1208/s12248-009-9146-8
+
+16.
+
+Nadkarni A, Oldham MA, Howard M, et al
+
+: Drug-drug interactions between
+
+warfarin
+
+and psychotropics: updated review of the literature.
+
+Pharmacotherapy
+
+32(10):932-942. 2012. doi: 10.1002/j.1875-9114.2012.01119
+
+17.
+
+Tsai HH, Lin HW, Simon Pickard A, et al
+
+: Evaluation of documented drug interactions and contraindications associated with herbs and dietary supplements: a systematic literature review.
+
+Int J Clin Pract
+
+66(11):1056-1078, 2012. doi: 10.1111/j.1742-1241.2012.03008.x
+
+Thông tin thêm
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.
+
+National Institutes of Health (NIH), National Center for Complementary and Integrative Health:
+
+General information on the use of St. John’s wort as a dietary supplement
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Các yêu cầu ---
+
+Các kết quả nghiên cứu là rất khác nhau, nhưng SJW có thể có lợi cho những bệnh nhân trầm cảm nhẹ đến trung bình người không có ý tưởng tự sát. Các nghiên cứu được thiết kế tốt đã được thực hiện trên SJW điều trị chính trầm cảm. Liều khuyến nghị là 300 đến 900 mg đường uống x 1 lần/ngày với chế phẩm được chuẩn hóa từ 0,2 đến 0,3% hypericin, 1 đến 4% hyperforin hoặc cả hai (thường là như vậy).St. John' wort cũng được cho là hữu ích trong điều trị nhiễm HIV vì hypericin ức chế một loạt các virut nang hóa, bao gồm HIV, nhưng đã chứng minh tương tác bất lợi với các chất ức chế protease và thuốc ức chế sao chép ngược nucleoside (NNRTI) và do đó nên tránh(1-2).SJW cũng đã được tuyên bố để điều trị các rối loạn da, bao gồm bệnh vẩy nến, và rối loạn tăng động/thiếu tập trung (ADHD) ở trẻ em.
+
+--- 2. Bằng chứng ---
+
+Nhiều nghiên cứu ngẫu nhiên, giả dược có đối chứng đã đánh giá tính an toàn và hiệu quả của SJW trong điều trị trầm cảm từ nhẹ đến trung bình và gần đây, các rối loạn trầm cảm chính(3-8). SJW cũng đã được so sánh với thuốc chống trầm cảm ba vòng (amitryptiline, imipramine) và gần đây hơn với các thuốc ức chế tái hấp thu serotonin có chọn lọc (SSRI) fluoxetine, sertraline và paroxetine(4-8). Hầu hết các nghiên cứu có đối chứng giả dược đã chỉ ra rằng chiết xuất SJW tiêu chuẩn trong khoảng liều từ 300 mg đến 900 mg x 1 lần/ngày có hiệu quả vừa phải trong điều trị các triệu chứng trầm cảm nhẹ đến trung bình. Một số nghiên cứu đã cho thấy tương đương 900 mg của SJW với imipramin liều thấp và fluoxetine liều thấp. Một nghiên cứu của những bệnh nhân trầm cảm nặng không thể hiện sự cải thiện có ý nghĩa so với giả dược hoặc liều lượng chuẩn của sertraline trong một khoảng thời gian ngắn(7). Tuy nhiên, các tác giả khẳng định rằng cả hai SJW và sertraline đều có hiệu quả tương đương qua thời gian dài, cho biết tiềm năng kinh tế thay thế của SJW như một liệu pháp điều trị trầm cảm khi dùng liều thấp và khi các tương tác thuốc không chắc chắn(7).Nhìn chung, một số nghiên cứu cho thấy hiệu quả của SJW trong điều trị trầm cảm nhẹ, trong khi ở trầm cảm nặng hầu hết các nghiên cứu không cho thấy hiệu quả. Sự khác biệt trong thiết kế nghiên cứu (thiếu hoạt động kiểm soát và giả dược), nghiên cứu dân số (trầm cảm chủ yếu/nhẹ/trung bình), chiều dài của thời gian và liều SJW hoặc các tác nhân so sánh là giống đáp ứng cho một số khác nhau trong các kết quả.Một đánh giá hệ thống 2016 của 35 nghiên cứu (6993 đối tượng) đã so sánh SJW với giả dược hoặc thuốc chống trầm cảm thông thường (9). SJW là tốt hơn so với giả dược nhưng không khác so với thuốc chống trầm cảm thông thường đối với trầm cảm nhẹ đến trung bình. Tuy nhiên, các nghiên cứu không đồng nhất và trầm cảm nặng không được nghiên cứu(9). Một phân tích tổng hợp năm 2017 gồm 27 nghiên cứu (3808 đối tượng) so sánh SJW với SSRI. SJW tương đương với SSRI trong đáp ứng và thuyên giảm đối với trầm cảm nhẹ đến trung bình nhưng có tỷ lệ ngừng thuốc thấp hơn(10).Hai nghiên cứu thí điểm rất nhỏ chỉ ra ứng dụng tiềm năng giảm bớt chứng các rối loạn da, bao gồm bệnh vẩy nến(11-12). Một thử nghiệm nhỏ cho thấy SJW (được chuẩn hóa thành hypericin mà không phải là hyperforin) không làm giảm các triệu chứng của rối loạn tăng động giảm chú ý (ADHD) ở trẻ em(13).
+
+--- 3. Tác dụng phụ ---
+
+Nhạy cảm với ánh sáng, khô miệng, táo bón, chóng mặt, nhầm lẫn, và mất trí (ở những bệnh nhân rối loạn lưỡng cực) có thể xảy ra. Một trường hợp nhịp nhanh trên thất hiếm gặp đã được báo cáo (14). SJW là chống chỉ định ở phụ nữ mang thai.
+
+--- 4. Tương tác thuốc ---
+
+Các tương tác bất lợi có thể xảy ra với cyclosporine, digoxin, thực phẩm chức năng có sắt, thuốc ức chế monoamine oxidase (MAOIs), thuốc ức chế men sao chép ngược non-nucleoside (NNRTI), thuốc tránh thai, thuốc phiện, thuốc ức chế protease, SSRI, thuốc chống trầm cảm ba vòng và warfarin, cũng như một số thuốc trực tiếp -thuốc chống đông đường uống (15-17). (Xem thêm bảngMột số tương tác giữa thuốc và thực phẩm chức năng có thể xảy ra.)
+
+--- 5. Tài liệu tham khảo ---
+
+1.Maury W, Price JP, Brindley MA, et al: Identification of light-independent inhibition of human immunodeficiency virus-1 infection through bioguided fractionation ofHypericum perforatum.Virol J6:101-113, 2009. doi:10.1186/1743-422X-6-1012.Kakuda TN, Schöller-Gyüre M, Hoetelmans RM: Pharmacokinetic interactions betweenetravirineand non-antiretroviral drugs.Clin Pharmacokinet50(1):25-39, 2011. doi: 10.2165/11534740-000000000-000003.Solomon D, Adams J, Graves N: Economic evaluation of St. John's wort (Hypericum perforatum) for the treatment of mild to moderate depression.J Affect Disord148(2-3):228-234, 2013. doi: 10.1016/j.jad.2012.11.0644.van Gurp G, Meterissian GB, Haiek LN, et al: St John's wort orsertraline? Randomized controlled trial in primary care.Can Fam Physician48:905-912, 20025.Woelk H: Comparison of St John's wort andimipraminefor treating depression: randomised controlled trial.BMJ321(7260):536-539, 2000. doi: 10.1136/bmj.321.7260.5366.Fava M, Alpert J, Nierenberg AA, et al: A double-blind, randomized trial of St John's wort,fluoxetine, and placebo in major depressive disorder.J Clin Psychopharmacol25(5):441-447, 2005. doi:10.1097/01.jcp.0000178416.60426.297.Sarris J, Fava M, Schweitzer I, et al: St John's wort (Hypericum perforatum) versussertralineand placebo in major depressive disorder: continuation data from a 26-week RCT.Pharmacopsychiatry45(7):275-278, 2012. doi: 10.1055/s-0032-13063488.Seifritz E, Hatzinger M, Holsboer-Trachsler E: Efficacy of Hypericum extract WS(R) 5570 compared withparoxetinein patients with a moderate major depressive episode - a subgroup analysis.Int J Psychiatry Clin Pract20(3):126-32, 2016. doi: 10.1080/13651501.2016.11797659.Apaydin EA, Maher AR, Shanman R, et al: A systematic review of St. John's wort for major depressive disorder.Systematic Reviews5:148, 2016. doi: 10.1186/s13643-016-0325-210.Ng QX, Venkatanarayanan N, Ho CY: Clinical use of Hypericum perforatum (St John's wort) in depression: a meta-analysis.J Affect Disord210:211-221, 2017. doi: 10.1016/j.jad.2016.12.04811.Najafizadeh P, Hashemian F, Mansouri P, et al: The evaluation of the clinical effect of topical St Johns wort (Hypericum perforatum L.) in plaque type psoriasis vulgaris: a pilot study.Australas J53(2):131-135, 2012. doi: 10.1111/j.1440-0960.2012.00877.x12.Rook AH, Wood GS, Duvic M, et al: A phase II placebo-controlled study of photodynamic therapy with topical hypericin and visible light irradiation in the treatment of cutaneous T-cell lymphoma and psoriasis.J Am Acad Dermatol63(6):984-990, 2010. doi: 10.1016/j.jaad.2010.02.03913.Weber W, Vander Stoep A, McCarty RL, et al:Hypericum perforatum(St John's wort) for attention-deficit/hyperactivity disorder in children and adolescents: a randomized controlled trial.JAMA299(22):633-2641, 2008. doi: 10.1001/jama.299.22.263314.Fisher KA, Patel P, Abualula S, Concepion L: St. John's wort-induced supraventricular tachycardia.Cureus13(4):e14356, 2021. doi:10.7759/cureus.1435615.Borrelli F, Izzo AA: Herb-drug interactions with St John's wort (Hypericum perforatum): an update on clinical observations.AAPS J11(4):710-727, 2009. doi: 10.1208/s12248-009-9146-816.Nadkarni A, Oldham MA, Howard M, et al: Drug-drug interactions betweenwarfarinand psychotropics: updated review of the literature.Pharmacotherapy32(10):932-942. 2012. doi: 10.1002/j.1875-9114.2012.0111917.Tsai HH, Lin HW, Simon Pickard A, et al: Evaluation of documented drug interactions and contraindications associated with herbs and dietary supplements: a systematic literature review.Int J Clin Pract66(11):1056-1078, 2012. doi: 10.1111/j.1742-1241.2012.03008.x
+
+--- 6. Thông tin thêm ---
+
+Tài nguyên bằng tiếng Anh sau đây có thể hữu ích. Vui lòng lưu ý rằng CẨM NANG không chịu trách nhiệm về nội dung của tài liệu này.National Institutes of Health (NIH), National Center for Complementary and Integrative Health:General information on the use of St. John’s wort as a dietary supplement

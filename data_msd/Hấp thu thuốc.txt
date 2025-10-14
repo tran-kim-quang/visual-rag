@@ -1,0 +1,236 @@
+TIÊU ĐỀ: Hấp thu thuốc
+URL: https://www.msdmanuals.com/vi/professional/dược-lý-lâm-sàng/dược-động-học/hấp-thu-thuốc
+================================================================================
+
+NỘI DUNG:
+
+Hấp thu thuốc
+
+Theo
+
+Jennifer Le
+
+,
+
+PharmD, MAS, BCPS-ID, FIDSA, FCCP, FCSHP
+
+,
+
+Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+San Diego
+
+Xem xét bởi
+
+Eva M. Vivian
+
+,
+
+PharmD, MS, PhD
+
+,
+
+University of Wisconsin School of Pharmacy
+
+Đã xem xét/Đã chỉnh sửa
+
+đã sửa đổi
+
+Thg 11 2024
+
+v1108931_vi
+
+Quản lý răng miệng
+
+|
+
+Dùng ngoài đường tiêu hóa
+
+|
+
+Dạng giải phóng có kiểm soát
+
+|
+
+Sự hấp thu thuốc được xác định bởi tính chất hóa lý, công thức và đường dùng của thuốc. Các dạng thuốc (ví dụ, viên nén, viên nang, dung dịch) bao gồm hoạt chất cùng với các tá dược được sản xuất để sử dụng theo đường dùng khác nhau (ví dụ, uống, qua đường miệng, ngậm dưới lưỡi, đặt trực tràng,dùng ngoài đường tiêu hóa, tại chỗ, hít). Bất kể đường dùng thuốc nào, thuốc phải chuyển thành dạng dung dịch để được hấp thụ. Do đó, các dạng rắn (ví dụ, viên nén) phải có khả năng phân tán và phân rã.
+
+Trừ khi được tiêm tĩnh mạch, một thuốc phải qua nhiều màng tế bào bán thấm trước khi vào đến hệ thống tuần hoàn. Màng tế bào là những rào cản sinh học ức chế có chọn lọc các phân tử thuốc. Màng có cấu tạo chủ yếu là ma trận lipid phân đôi, xác định đặc tính thẩm thấu màng. Thuốc có thể đi qua màng tế bào
+
+Khuếch tán thụ động
+
+Khuếch tán thụ động dễ dàng
+
+Vận chuyển tích cực
+
+Ẩm bào
+
+Đôi khi nhiều protein hồng cầu được gắn vào trong ma trận và có chức năng như các thụ thể giúp vận chuyển phân tử qua màng tế bào.
+
+(Xem thêm
+
+Tổng quan về Dược động học
+
+.)
+
+Khuếch tán thụ động
+
+Thuốc khuếch tán qua màng tế bào từ một vùng có nồng độ cao (ví dụ, dịch ở đường tiêu hóa) đến một trong những nơi nồng độ thấp (ví dụ như máu). Tốc độ khuếch tán tỷ lệ thuận với nồng độ građien nhưng cũng phụ thuộc vào độ hòa tan trong lipid của phân tử, kích thước, mức độ ion hóa và diện tích bề mặt hấp thụ. Bởi vì màng tế bào là lipid, các thuốc tan trong lipid khuếch nhanh nhất. Các phân tử nhỏ có xu hướng xuyên qua màng nhanh hơn các phân tử lớn hơn.
+
+Hầu hết các loại thuốc là axit hữu cơ yếu hoặc các bazơ, ở dạng không ion hóa và ion hoá trong môi trường nước. Dạng không ion hoá thường tan trong lipid (lipophilic) và khuếch tán dễ dàng qua các màng tế bào. Dạng ion hóa có độ hòa tan trong lipid thấp (nhưng độ hòa tan trong nước cao – nghĩa là thân nước) và điện trở cao và do đó không thể xuyên qua màng tế bào.
+
+Tỷ lệ của dạng không ion hóa (là khả năng của thuốc xuyên qua màng) được xác định bởi pH môi trường và p
+
+K
+
+a của thuốc (hằng số phân ly axit). p
+
+K
+
+a là pH tại đó nồng độ của các dạng ion hóa và không ion hóa bằng nhau. Khi pH thấp hơn p
+
+K
+
+a, các axit yếu ở dạng không ion hóa nhiều hơn, nhưng ngược lại, các bazơ yếu ở dạng ion hóa nhiều hơn. Do đó, trong huyết tương (pH 7,4), tỷ lệ dạng không ion hóa với dạng ion hóa của một axit yếu (ví dụ có p
+
+K
+
+a là 4,4) là 1:1000; trong dịch dạ dày (pH 1,4), tỷ lệ này được đảo ngược (1000:1). Vì vậy, khi uống một axit yếu, hầu hết các thuốc vào trong dạ dày ở dạng không ion hóa, được khuếch tán thông qua niêm mạc dạ dày. Đối với một bazơ yếu có p
+
+K
+
+a là 4,4, tác động là ngược lại; hầu hết các thuốc vào trong dạ dày ở dạng ion hóa.
+
+Về mặt lý thuyết, thuốc có tính axit yếu (ví dụ, aspirin) dễ hấp thu hơn qua môi trường axit (dạ dày) so với các loại thuốc cơ bản yếu (ví dụ, quinidin). Tuy nhiên, dù thuốc có tính axit hay bazơ, hầu hết sự hấp thụ xảy ra ở ruột non vì diện tích bề mặt lớn hơn và màng dễ thấm hơn (xem
+
+Dùng theo đường uống
+
+).
+
+Khuếch tán thụ động dễ dàng
+
+Một số phân tử có độ hòa tan trong lipid thấp (ví dụ, glucose) xuyên qua vào màng nhanh hơn dự kiến. Lý thuyết của sự khuếch tán thụ động dễ dàng: Một phân tử mang trong màng kết hợp với phân tử cơ chất bên ngoài màng tế bào tạo phức hợp cơ chất-chất mang khuếch tán nhanh qua màng, giải phóng cơ chất tại bề mặt bên trong. Trong những trường hợp như vậy, màng tế bào chỉ vận chuyển các cơ chất có cấu hình phân tử tương đối chuyên biệt, và hạn định số các chất mang trong quá trình vận chuyển. Quá trình này không cần năng lượng và không thể vận chuyển ngược với gradient nồng độ.
+
+Vận chuyển tích cực
+
+Vận chuyển tích cực là có chọn lọc, cần năng lượng và có thể bao gồm vận chuyển ngược với gradient nồng độ. Vận chuyển tích cực bị hạn chế với các thuốc có cấu trúc tương tự như các chất nội sinh (ví dụ, ion, vitamin, đường, axit amin). Những loại thuốc này thường được hấp thu từ những vị trí chuyên biệt trong ruột non.
+
+Ẩm bào
+
+Trong hiện tượng ẩm bào, dung dịch hoặc các giọt nhỏ bị nhấn chìm vào trong tế bào. Màng tế bào xâm lấn, bao lấy các chất lỏng hoặc các giọt nhỏ, sau đó gắn liền màng lại để tạo thành một túi nhỏ, sau đó tách ra và di chuyển vào bên trong tế bào. Chi tiêu năng lượng là bắt buộc. Sự ẩm bào có thể đóng vai trò nhỏ trong việc vận chuyển thuốc, nhưng lại đóng vai trò lớn hơn trong việc vận chuyển thuốc dạng protein.
+
+Quản lý răng miệng
+
+Để được hấp thu, một loại thuốc được dùng qua đường uống phải còn tồn tại qua các môi trường có pH thấp và các dịch bài tiết ở đường tiêu hóa (GI) bao gồm cả các enzym có khả năng phân huỷ. Thuốc peptide (ví dụ:
+
+insulin
+
+) đặc biệt dễ bị phân hủy và không được dùng qua đường uống. Hấp thu các thuốc dùng qua đường uống thông qua quá vận chuyển qua màng tế bào biểu mô trong đường tiêu hóa. Sự hấp thụ bị ảnh hưởng bởi
+
+Sự khác biệt về pH trong lòng ống dọc theo đường tiêu hóa
+
+Diện tích bề mặt trên một thể tích lòng ống
+
+Truyền máu
+
+Sự có mặt của mật và chất nhầy
+
+Bản chất của màng biểu mô
+
+Niêm mạc miệng có lớp biểu mô mỏng và hệ tuần hoàn phong phú, có lợi cho sự hấp thu; tuy nhiên, thời gian tiếp xúc với thuốc thường quá ngắn nên chỉ hấp thu được lượng thuốc nhỏ. Một loại thuốc đặt giữa nướu răng và má (dưới má) hoặc dưới lưỡi (đặt dưới lưỡi) được giữ lại lâu hơn nên sự hấp thu thuốc được tăng cường.
+
+Dạ dày thường là cơ quan đầu tiên xảy ra quá trình tiếp xúc mạnh mẽ giữa thuốc uống và dịch lỏng GI (để đánh giá, xem [
+
+1
+
+]). Mặc dù dạ dày có bề mặt biểu mô tương đối lớn, lớp niêm mạc dày và thời gian vận chuyển qua dạ dày ngắn nên sự hấp thu thuốc bị hạn chế. Những đặc tính này của dạ dày có thể ảnh hưởng đến công thức bào chế và hoạt tính của thuốc. Vì hầu hết sự hấp thu xảy ra ở ruột non nên làm rỗng dạ dày thường là bước để hạn chế tốc độ hấp thu. Thức ăn, đặc biệt là thức ăn nhiều chất béo, làm chậm quá trình làm rỗng dạ dày (và tốc độ hấp thụ thuốc), giải thích tại sao uống một số loại thuốc khi bụng đói lại làm tăng tốc độ hấp thụ. Các thuốc ảnh hưởng đến việc làm rỗng dạ dày (ví dụ như thuốc chống ký sinh trùng) ảnh hưởng đến tốc độ hấp thu của các thuốc khác. Thức ăn có thể làm tăng sự hấp thu các thuốc hòa tan kém (ví dụ như griseofulvin), giảm hấp thu thuốc bị giáng hóa tại dạ dày (ví dụ như penicillin G), hoặc có ít hoặc không có tác dụng.
+
+Trong đường tiêu hóa, ruột non có diện tích bề mặt hấp thụ thuốc lớn nhất và màng ruột non có tính thấm cao hơn màng dạ dày. Vì những lý do này, hầu hết các loại thuốc được hấp thu chủ yếu ở ruột non, và ngay cả các thuốc có bản chất axit cần tồn tại dưới dạng không ion hoá để đi qua các màng, được hấp thu nhanh hơn trong ruột so với trong dạ dày (để đánh giá, xem [
+
+1
+
+]). Độ pH trong lòng ống ở tá tràng là 4 đến 5 nhưng dần dần trở nên kiềm hơn, tiến gần đến 8 ở hồi tràng. Hệ vi khuẩn ở đường tiêu hóa có thể làm giảm hấp thu. Giảm lưu lượng máu (ví dụ như sốc) có thể làm giảm gradient nồng độ qua niêm mạc ruột và giảm sự hấp thụ từ quá trình khuếch tán thụ động.
+
+Thời gian vận chuyển thuốc qua đường ruột có thể ảnh hưởng đến sự hấp thu thuốc, đặc biệt đối với các thuốc được hấp thu bằng vận chuyển tích cực (ví dụ như vitamin B), hòa tan chậm (ví dụ như griseofulvin) hoặc phân cực (nghĩa là có độ hòa tan trong lipid thấp, ví dụ như một số thuốc kháng sinh).
+
+Để tối đa hóa sự tuân thủ điều trị, bác sĩ lâm sàng nên kê đơn hỗn dịch uống và thuốc viên nhai cho trẻ
+
+<
+
+8 tuổi. Ở thanh thiếu niên và người lớn, hầu hết các loại thuốc uống ở dạng thuốc viên hoặc viên nang chủ yếu do thuận tiện, tiết kiệm, ổn định và được bệnh nhân chấp nhận. Do các dạng thuốc dạng rắn phải tan rã trước khi được hấp thu, tỷ lệ hòa tan quyết định lượng thuốc được hấp thu. Nếu sự tan rã xảy ra chậm hơn so với sự hấp thu sẽ trở thành bước hạn chế quá trình hấp thu. Thay đổi đặc điểm của thuốc (ví dụ, tạo dạng muối, tinh thể, hydrat của thuốc) có thể làm thay đổi tỷ lệ hòa tan và do đó kiểm soát toàn bộ quá trình hấp thu.
+
+Tài liệu tham khảo
+
+1.
+
+Vertzoni M, Augustijns P, Grimm M, et al
+
+: Impact of regional differences along the gastrointestinal tract of healthy adults on oral drug absorption: An UNGAP review.
+
+Eur J Pharm Sci
+
+134:153-175, 2019. doi:10.1016/j.ejps.2019.04.013
+
+Dùng ngoài đường tiêu hóa
+
+Các thuốc được tiêm tĩnh mạch sẽ trực tiếp đi vào hệ thống tuần hoàn. Tuy nhiên, các thuốc tiêm bắp hoặc tiêm dưới da phải đi qua một hoặc nhiều màng sinh học để vào được hệ thống tuần hoàn. Nếu các thuốc có bản chất protein có khối lượng phân tử
+
+>
+
+20.000 g/mol được tiêm bắp hoặc tiêm dưới da, sự di chuyển qua màng mao mạch rất chậm mà hầu hết sự hấp thu xảy ra thông qua hệ thống bạch huyết. Trong những trường hợp này, thuốc phân bố đến hệ thống tuần hoàn chậm và thường không đầy đủ do chuyển hóa bước một (sự trao đổi chất của một thuốc trước khi vào hệ thống tuần hoàn) bởi các enzym ly giải protein trong bạch cầu.
+
+Tưới máu (lưu lượng máu/gam mô) ảnh hưởng rất lớn đến sự hấp thu mao mạch của các phân tử nhỏ được tiêm bắp hoặc dưới da. Do đó, vị trí tiêm có thể ảnh hưởng đến tốc độ hấp thu. Hấp thu sau khi tiêm bắp hoặc tiêm dưới da có thể bị chậm lại hoặc không ổn định đối với các muối của các bazơ và axit ít tan (ví dụ: dạng tiêm truyền của
+
+phenytoin
+
+) và ở những bệnh nhân có tình trạng tưới máu ngoại vi kém (ví dụ: trong quá trình hạ huyết áp hoặc sốc).
+
+Dạng giải phóng có kiểm soát
+
+Các dạng thuốc uống giải phóng kéo dài được thiết kế để giảm tần suất dùng thuốc có thời gian bán thải và thời gian tác dụng ngắn. Các dạng này cũng hạn chế sự dao động nồng độ thuốc trong huyết tương, mang lại hiệu quả điều trị ổn định hơn đồng thời giảm thiểu các tác dụng không mong muốn. Tốc độ hấp thu được làm chậm lại bằng cách bao các hạt thuốc trong các ma trận hoặc các nguyên liệu không tan trong nước khác, thuốc trong ma trận được giải phóng chậm trong quá trình vận chuyển qua đường tiêu hoá hoặc bằng cách tạo phức giữa thuốc và các nhựa trao đổi ion. Hầu hết sự hấp thu các dạng thuốc này xảy ra ở ruột già. Nghiền hoặc làm hoặc phá vỡ cấu trúc của viên nén hoặc viên nang giải phóng có kiểm soát thường có thể gây nguy hiểm.
+
+Các dạng phóng kiểm soát qua da được thiết kế để giải phóng thuốc trong thời gian dài, đôi khi trong vài ngày. Thuốc được phân tán qua da phải có đặc tính phù hợp để thấm qua da và có khả năng thấm cao do tốc độ thấm và diện tích da tiếp xúc với thuốc bị hạn chế.
+
+Nhiều dạng dùng qua đường tiêm tĩnh mạch được thiết kế để duy trì nồng độ thuốc trong huyết tương. Có thể kéo dài quá trình hấp thụ thuốc kháng khuẩn bằng cách tiêm bắp dạng muối tương đối không hòa tan (ví dụ:
+
+penicillin G benzathine
+
+). Đối với các loại thuốc khác, hỗn dịch hoặc dung dịch trong chất mang không chứa nước (ví dụ: hỗn dịch tinh thể cho
+
+insulin
+
+) được thiết kế để làm chậm quá trình hấp thụ.
+
+Test your Knowledge
+
+Take a Quiz!
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+Giới thiệu
+
+Từ chối trách nhiệm
+
+Bản quyền
+
+© 2025
+
+Merck & Co., Inc., Rahway, NJ, USA và các chi nhánh của công ty. Bảo lưu mọi quyền.
+
+================================================================================
+CÁC PHẦN CHI TIẾT:
+
+
+--- 1. Quản lý răng miệng ---
+
+Để được hấp thu, một loại thuốc được dùng qua đường uống phải còn tồn tại qua các môi trường có pH thấp và các dịch bài tiết ở đường tiêu hóa (GI) bao gồm cả các enzym có khả năng phân huỷ. Thuốc peptide (ví dụ:insulin) đặc biệt dễ bị phân hủy và không được dùng qua đường uống. Hấp thu các thuốc dùng qua đường uống thông qua quá vận chuyển qua màng tế bào biểu mô trong đường tiêu hóa. Sự hấp thụ bị ảnh hưởng bởiSự khác biệt về pH trong lòng ống dọc theo đường tiêu hóaDiện tích bề mặt trên một thể tích lòng ốngTruyền máuSự có mặt của mật và chất nhầyBản chất của màng biểu môNiêm mạc miệng có lớp biểu mô mỏng và hệ tuần hoàn phong phú, có lợi cho sự hấp thu; tuy nhiên, thời gian tiếp xúc với thuốc thường quá ngắn nên chỉ hấp thu được lượng thuốc nhỏ. Một loại thuốc đặt giữa nướu răng và má (dưới má) hoặc dưới lưỡi (đặt dưới lưỡi) được giữ lại lâu hơn nên sự hấp thu thuốc được tăng cường.Dạ dày thường là cơ quan đầu tiên xảy ra quá trình tiếp xúc mạnh mẽ giữa thuốc uống và dịch lỏng GI (để đánh giá, xem [1]). Mặc dù dạ dày có bề mặt biểu mô tương đối lớn, lớp niêm mạc dày và thời gian vận chuyển qua dạ dày ngắn nên sự hấp thu thuốc bị hạn chế. Những đặc tính này của dạ dày có thể ảnh hưởng đến công thức bào chế và hoạt tính của thuốc. Vì hầu hết sự hấp thu xảy ra ở ruột non nên làm rỗng dạ dày thường là bước để hạn chế tốc độ hấp thu. Thức ăn, đặc biệt là thức ăn nhiều chất béo, làm chậm quá trình làm rỗng dạ dày (và tốc độ hấp thụ thuốc), giải thích tại sao uống một số loại thuốc khi bụng đói lại làm tăng tốc độ hấp thụ. Các thuốc ảnh hưởng đến việc làm rỗng dạ dày (ví dụ như thuốc chống ký sinh trùng) ảnh hưởng đến tốc độ hấp thu của các thuốc khác. Thức ăn có thể làm tăng sự hấp thu các thuốc hòa tan kém (ví dụ như griseofulvin), giảm hấp thu thuốc bị giáng hóa tại dạ dày (ví dụ như penicillin G), hoặc có ít hoặc không có tác dụng.Trong đường tiêu hóa, ruột non có diện tích bề mặt hấp thụ thuốc lớn nhất và màng ruột non có tính thấm cao hơn màng dạ dày. Vì những lý do này, hầu hết các loại thuốc được hấp thu chủ yếu ở ruột non, và ngay cả các thuốc có bản chất axit cần tồn tại dưới dạng không ion hoá để đi qua các màng, được hấp thu nhanh hơn trong ruột so với trong dạ dày (để đánh giá, xem [1]). Độ pH trong lòng ống ở tá tràng là 4 đến 5 nhưng dần dần trở nên kiềm hơn, tiến gần đến 8 ở hồi tràng. Hệ vi khuẩn ở đường tiêu hóa có thể làm giảm hấp thu. Giảm lưu lượng máu (ví dụ như sốc) có thể làm giảm gradient nồng độ qua niêm mạc ruột và giảm sự hấp thụ từ quá trình khuếch tán thụ động.Thời gian vận chuyển thuốc qua đường ruột có thể ảnh hưởng đến sự hấp thu thuốc, đặc biệt đối với các thuốc được hấp thu bằng vận chuyển tích cực (ví dụ như vitamin B), hòa tan chậm (ví dụ như griseofulvin) hoặc phân cực (nghĩa là có độ hòa tan trong lipid thấp, ví dụ như một số thuốc kháng sinh).Để tối đa hóa sự tuân thủ điều trị, bác sĩ lâm sàng nên kê đơn hỗn dịch uống và thuốc viên nhai cho trẻ<8 tuổi. Ở thanh thiếu niên và người lớn, hầu hết các loại thuốc uống ở dạng thuốc viên hoặc viên nang chủ yếu do thuận tiện, tiết kiệm, ổn định và được bệnh nhân chấp nhận. Do các dạng thuốc dạng rắn phải tan rã trước khi được hấp thu, tỷ lệ hòa tan quyết định lượng thuốc được hấp thu. Nếu sự tan rã xảy ra chậm hơn so với sự hấp thu sẽ trở thành bước hạn chế quá trình hấp thu. Thay đổi đặc điểm của thuốc (ví dụ, tạo dạng muối, tinh thể, hydrat của thuốc) có thể làm thay đổi tỷ lệ hòa tan và do đó kiểm soát toàn bộ quá trình hấp thu.Tài liệu tham khảo1.Vertzoni M, Augustijns P, Grimm M, et al: Impact of regional differences along the gastrointestinal tract of healthy adults on oral drug absorption: An UNGAP review.Eur J Pharm Sci134:153-175, 2019. doi:10.1016/j.ejps.2019.04.013
+
+--- 2. Dùng ngoài đường tiêu hóa ---
+
+Các thuốc được tiêm tĩnh mạch sẽ trực tiếp đi vào hệ thống tuần hoàn. Tuy nhiên, các thuốc tiêm bắp hoặc tiêm dưới da phải đi qua một hoặc nhiều màng sinh học để vào được hệ thống tuần hoàn. Nếu các thuốc có bản chất protein có khối lượng phân tử>20.000 g/mol được tiêm bắp hoặc tiêm dưới da, sự di chuyển qua màng mao mạch rất chậm mà hầu hết sự hấp thu xảy ra thông qua hệ thống bạch huyết. Trong những trường hợp này, thuốc phân bố đến hệ thống tuần hoàn chậm và thường không đầy đủ do chuyển hóa bước một (sự trao đổi chất của một thuốc trước khi vào hệ thống tuần hoàn) bởi các enzym ly giải protein trong bạch cầu.Tưới máu (lưu lượng máu/gam mô) ảnh hưởng rất lớn đến sự hấp thu mao mạch của các phân tử nhỏ được tiêm bắp hoặc dưới da. Do đó, vị trí tiêm có thể ảnh hưởng đến tốc độ hấp thu. Hấp thu sau khi tiêm bắp hoặc tiêm dưới da có thể bị chậm lại hoặc không ổn định đối với các muối của các bazơ và axit ít tan (ví dụ: dạng tiêm truyền củaphenytoin) và ở những bệnh nhân có tình trạng tưới máu ngoại vi kém (ví dụ: trong quá trình hạ huyết áp hoặc sốc).
+
+--- 3. Dạng giải phóng có kiểm soát ---
+
+Các dạng thuốc uống giải phóng kéo dài được thiết kế để giảm tần suất dùng thuốc có thời gian bán thải và thời gian tác dụng ngắn. Các dạng này cũng hạn chế sự dao động nồng độ thuốc trong huyết tương, mang lại hiệu quả điều trị ổn định hơn đồng thời giảm thiểu các tác dụng không mong muốn. Tốc độ hấp thu được làm chậm lại bằng cách bao các hạt thuốc trong các ma trận hoặc các nguyên liệu không tan trong nước khác, thuốc trong ma trận được giải phóng chậm trong quá trình vận chuyển qua đường tiêu hoá hoặc bằng cách tạo phức giữa thuốc và các nhựa trao đổi ion. Hầu hết sự hấp thu các dạng thuốc này xảy ra ở ruột già. Nghiền hoặc làm hoặc phá vỡ cấu trúc của viên nén hoặc viên nang giải phóng có kiểm soát thường có thể gây nguy hiểm.Các dạng phóng kiểm soát qua da được thiết kế để giải phóng thuốc trong thời gian dài, đôi khi trong vài ngày. Thuốc được phân tán qua da phải có đặc tính phù hợp để thấm qua da và có khả năng thấm cao do tốc độ thấm và diện tích da tiếp xúc với thuốc bị hạn chế.Nhiều dạng dùng qua đường tiêm tĩnh mạch được thiết kế để duy trì nồng độ thuốc trong huyết tương. Có thể kéo dài quá trình hấp thụ thuốc kháng khuẩn bằng cách tiêm bắp dạng muối tương đối không hòa tan (ví dụ:penicillin G benzathine). Đối với các loại thuốc khác, hỗn dịch hoặc dung dịch trong chất mang không chứa nước (ví dụ: hỗn dịch tinh thể choinsulin) được thiết kế để làm chậm quá trình hấp thụ.
