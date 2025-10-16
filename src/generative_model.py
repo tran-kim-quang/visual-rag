@@ -15,7 +15,7 @@ ADAPTER_PATH = absolute_path
 def load_model():
     # Base model
     base_model = AutoModelForCausalLM.from_pretrained(
-        BASE_MODEL_NAME,
+        BASE_MODEL_NAME, 
         torch_dtype=torch.bfloat16,
         device_map="auto",
     )
@@ -26,11 +26,12 @@ def load_model():
     finetuned_model = PeftModel.from_pretrained(base_model, ADAPTER_PATH)
     return finetuned_model, tokenizer
 
-def call_model(question, context):
-    finetuned_model, tokenizer = load_model()
+def call_model(question, context, finetuned_model, tokenizer):
+    # finetuned_model, tokenizer = load_model()
+
     system_prompt = "Bạn là trợ lý y tế chuyên nghiệp. Hãy sử dụng ngữ cảnh được cung cấp để trả lời câu hỏi của người dùng một cách chi tiết và chính xác."
 
-    rag_prompt = f"""[INST] <<SYS>>
+    prompt = f"""[INST] <<SYS>>
         {system_prompt}
         <</SYS>>
         Dựa vào ngữ cảnh sau đây để trả lời câu hỏi ở cuối.
@@ -50,7 +51,7 @@ def call_model(question, context):
         **inputs,
         max_new_tokens=512,
         eos_token_id=tokenizer.eos_token_id,
-        do_sample=True,
+        do_sample=True, 
         temperature=0.7,
         top_p=0.9,
         streamer=streamer

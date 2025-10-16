@@ -1,6 +1,11 @@
---index-url https://download.pytorch.org/whl/cu121
-transformers==4.57.0
+# Need to check your cuda by 'nividia-smi' to install suitable cuda version
+--extra-index-url https://download.pytorch.org/whl/cu130 
+torch
+torchvision
+torchaudio
+transformers==4.57.1
 peft==0.17.1
 numpy==2.3.3
 hnswlib==0.8.0
-dotevn==0.9.9
+dotenv==0.9.9
+sentence-transformers==5.1.1

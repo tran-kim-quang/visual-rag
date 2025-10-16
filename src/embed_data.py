@@ -62,6 +62,14 @@ class EmbeddingProcessor:
             doc['embedding'] = embeddings[i].tolist()
 
         return documents
+        
+    def embed_query(self, query: str) -> list[float]:
+        embed = self.model.encode(
+            query,
+            show_progress_bar=True,
+            convert_to_numpy=True
+        )
+        return embed
 
     def save_embedded_data(self, documents: List[Dict[str, Any]],
                            output_file: str = "medical_data_with_embeddings.json"):

@@ -2,6 +2,7 @@ import json
 import numpy as np
 import hnswlib
 import os
+from src.embed_data import EmbeddingProcessor
 from dotenv import load_dotenv
 load_dotenv()
 DATA_FILE = os.getenv("DATA_FILE")
@@ -35,9 +36,11 @@ def check_index(data_path, index_path):
     
     return data # Trả về data để tra cứu nội dung
 
-def search_index(query_vector, index_path=INDEX_FILE, original_data, k=5):
+def search_index(query, index_path=INDEX_FILE, k=3):
     """Tải index và thực hiện tìm kiếm."""
-    
+    process = EmbeddingProcessor()
+    query_vector = process.embed_query(query)
+
     if not os.path.exists(index_path):
         print(f"File index '{index_path}' không tồn tại.")
         return
@@ -56,6 +59,10 @@ def search_index(query_vector, index_path=INDEX_FILE, original_data, k=5):
         item = original_data[label_id]
         results.append(item)
         print(f"ID: {item.get('id', 'N/A')}, Title: {item.get('title', 'N/A')}")
-        print(f"  Content: {item.get('content', '')[:150]}...")
+        print(f"  Content: {item.get('content', '')[:50]}...")
     
     return results
+
+# process = EmbeddingProcessor()
+# embed = process.embed_query("Bệnh tiêu chảy là gì")
+# print(embed)
