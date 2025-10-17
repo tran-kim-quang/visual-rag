@@ -3,6 +3,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 from dotenv import load_dotenv
+from openai import OpenAI
 import os
 load_dotenv()
 
@@ -11,6 +12,9 @@ absolute_path = os.path.abspath(relative_path)
 
 BASE_MODEL_NAME = os.getenv('BASE_MODEL_NAME')
 ADAPTER_PATH = absolute_path
+
+def summarize_context(context: str) -> str:
+    pass
 
 def load_model():
     # Base model
@@ -30,6 +34,8 @@ def call_model(question, context, finetuned_model, tokenizer):
     # finetuned_model, tokenizer = load_model()
 
     system_prompt = "Bạn là trợ lý y tế chuyên nghiệp. Hãy sử dụng ngữ cảnh được cung cấp để trả lời câu hỏi của người dùng một cách chi tiết và chính xác."
+
+
 
     prompt = f"""[INST] <<SYS>>
         {system_prompt}
