@@ -1,3 +1,3 @@
-with open('hamlet.txt', 'r', encoding="utf-8") as f:
-    context = f.read()
-print(context)
+import torch
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Using device: {device}")
