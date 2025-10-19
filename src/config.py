@@ -3,7 +3,7 @@ import numpy as np
 import hnswlib
 from openai import OpenAI
 import os
-# from src.embed_data import EmbeddingProcessor
+from src.embed_data import EmbeddingProcessor
 from dotenv import load_dotenv
 load_dotenv()
 DATA_FILE = os.getenv("DATA_FILE")
@@ -63,19 +63,3 @@ def search_index(query, index_path=INDEX_FILE, k=3):
         print(f"  Content: {item.get('content', '')[:50]}...")
     
     return results
-
-
-def summarize_context(context: str) -> str:
-    client = OpenAI(api_key="ollama", base_url="http://localhost:11434/v1")
-    message = [{"role":"user",
-                "content":f"Summarize this context for me {context}"}]
-    return client.chat.completions.create(model=SUMMARIZE_MODEL,
-                                          messages = message)
-
-with open('hamlet.txt', 'r', encoding="utf-8") as f:
-    context = f.read()
-response = summarize_context(context)
-print(f"Văn bản tóm tắt: {response.choices[0].message.content}\nĐộ dài đoạn gốc: {len(context)}\nĐộ dài sau khi tóm tắt: {len(response.choices[0].message.content)}")
-# process = EmbeddingProcessor()
-# embed = process.embed_query("Bệnh tiêu chảy là gì")
-# print(embed)
