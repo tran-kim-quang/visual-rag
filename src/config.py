@@ -1,22 +1,21 @@
 import json
 import numpy as np
 import hnswlib
+# from openai import OpenAI
 import os
-from src.embed_data import EmbeddingProcessor
+# from src.embed_data import EmbeddingProcessor
+from embed_data import EmbeddingProcessor
 from dotenv import load_dotenv
 load_dotenv()
 DATA_FILE = os.getenv("DATA_FILE")
 INDEX_FILE = os.getenv("INDEX_FILE")
-
+SUMMARIZE_MODEL = os.getenv("SUMMARIZE_MODEL")
 def check_index(data_path, index_path):
     """Đọc dữ liệu, xây dựng và lưu index HNSW."""
     print("Loading...")
     if data_path:
         with open(data_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        return data
-    with open(data_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
 
     embeddings = np.array([item['embedding'] for item in data]).astype('float32')
     
@@ -34,16 +33,16 @@ def check_index(data_path, index_path):
     p.save_index(index_path)
     print(f"Index đã được xây dựng với {num_elements} vector và lưu tại '{index_path}'")
     
-    return data # Trả về data để tra cứu nội dung
+    return data 
 
 def search_index(query, index_path=INDEX_FILE, k=3):
-    """Tải index và thực hiện tìm kiếm."""
     process = EmbeddingProcessor()
     query_vector = process.embed_query(query)
 
     if not os.path.exists(index_path):
         print(f"File index '{index_path}' không tồn tại.")
-        return
+        return [], 0.0
+    
     original_data = check_index(DATA_FILE, INDEX_FILE)
     # Lấy số chiều từ vector truy vấn
     num_dimensions = len(query_vector)
@@ -53,16 +52,18 @@ def search_index(query, index_path=INDEX_FILE, k=3):
 
     labels, distances = p_loaded.knn_query(query_vector, k=k)
     
-    print(f"\\n--- {k} kết quả tìm kiếm hàng đầu ---")
-    results = []
-    for label_id in labels[0]:
-        item = original_data[label_id]
-        results.append(item)
-        print(f"ID: {item.get('id', 'N/A')}, Title: {item.get('title', 'N/A')}")
-        print(f"  Content: {item.get('content', '')[:50]}...")
+    similarities = distances[0]
+    max_similarity = float(similarities[0]) if len(similarities) > 0 else 0.0
     
-    return results
-
-# process = EmbeddingProcessor()
-# embed = process.embed_query("Bệnh tiêu chảy là gì")
-# print(embed)
+    print(f"\n--- {k} kết quả tìm kiếm hàng đầu ---")
+    print(f"Similarity score cao nhất: {max_similarity:.3f}")
+    
+    results = []
+    for i, label_id in enumerate(labels[0]):
+        item = original_data[label_id]
+        item['similarity_score'] = float(similarities[i])
+        results.append(item)
+        print(f"[{similarities[i]:.3f}] ID: {item.get('id', 'N/A')}, Title: {item.get('title', 'N/A')}")
+        print(f"         Content: {item.get('content', '')[:50]}...")
+    
+    return results, max_similarity
