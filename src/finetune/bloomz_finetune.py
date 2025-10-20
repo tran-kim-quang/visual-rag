@@ -9,7 +9,7 @@ from peft import LoraConfig, get_peft_model
 def format_medical_qa():
     print("Đang tải dataset 'hungnm/vietnamese-medical-qa'...")
     dataset = load_dataset("hungnm/vietnamese-medical-qa", split="train")
-    output_file = "formatted_medical_qa.jsonl"
+    output_file = "finetune/formatted_medical_qa.jsonl"
     print(f"Bắt đầu chuyển đổi và ghi ra file '{output_file}'...")
 
     count = 0
@@ -31,7 +31,7 @@ def format_medical_qa():
             count += 1
     print(f"Dir: {output_file}")
 # format_medical_qa()
-dataset = load_dataset("json", data_files="formatted_medical_qa.jsonl", split="train")
+dataset = load_dataset("json", data_files="finetune/formatted_medical_qa.jsonl", split="train")
 
 max_length = 1024
 
@@ -61,9 +61,9 @@ model_name = "bigscience/bloomz-560m"
 # --- 2. Tải Model và Tokenizer với Unsloth (đơn giản hơn nhiều) ---
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name = model_name,
-    max_seq_length = 1024,
-    dtype = None, # Để Unsloth tự chọn
-    load_in_4bit = True, # QLoRA được tích hợp sẵn
+    max_seq_length = max_length,
+    dtype = None, 
+    load_in_4bit = True, 
 )
 
 # --- Thêm các adapter LoRA vào model ---

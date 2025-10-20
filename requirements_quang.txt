@@ -1,8 +1,11 @@
-# Need to check your cuda by 'nividia-smi' to install suitable cuda version
---extra-index-url https://download.pytorch.org/whl/cu121
-torch
-torchvision
-torchaudio
+# Need to check your cuda by 'nvidia-smi' to install suitable cuda version
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+triton==3.0.0
+bitsandbytes==0.43.0
+unsloth
+trl
 transformers==4.57.1
 peft==0.17.1
 numpy==2.3.3
