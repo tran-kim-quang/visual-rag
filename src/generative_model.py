@@ -176,8 +176,6 @@ def call_model(question: str, docs: list, session_id: str, similarity_score: flo
                             print(f"[Debug] Added relevant: {msg.content[:50]}...")
                             break
 
-                    # ⚠️ KHÔNG tạo fake message từ vector docs để tránh bịa thông tin
-                    # Chỉ sử dụng messages từ conversation memory thực tế
                     if not found:
                         print(f"[Debug] Không tìm thấy message thực tế cho doc: {doc.page_content[:50]}...")
                         print(f"[Debug] Doc này có thể từ search khác hoặc không match chính xác")
