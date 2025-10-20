@@ -5,11 +5,6 @@ from typing import List, Dict, Any
 
 
 class EmbeddingProcessor:
-    """
-    Class để thực hiện embedding cho các tài liệu y khoa đã được xử lý.
-    Sử dụng mô hình chuyên biệt cho tiếng Việt để đạt hiệu quả cao nhất.
-    """
-
     def __init__(self, model_name: str = 'bkai-foundation-models/vietnamese-bi-encoder'):
         """
         Khởi tạo và tải mô hình embedding.
@@ -51,7 +46,8 @@ class EmbeddingProcessor:
         embeddings = self.model.encode(
             texts_to_embed,
             show_progress_bar=True,
-            convert_to_numpy=True  # Trả về dưới dạng numpy array để xử lý nhanh hơn
+            convert_to_numpy=True,  # Trả về dưới dạng numpy array để xử lý nhanh hơn
+            normalize_embeddings=True  # Normalize để cosine similarity hoạt động đúng
         )
 
         print("✓ Quá trình embedding hoàn tất!")
@@ -67,7 +63,8 @@ class EmbeddingProcessor:
         embed = self.model.encode(
             query,
             show_progress_bar=True,
-            convert_to_numpy=True
+            convert_to_numpy=True,
+            normalize_embeddings=True  # Normalize để cosine similarity hoạt động đúng
         )
         return embed
 
@@ -103,10 +100,10 @@ def main():
         print("VÍ DỤ KẾT QUẢ SAU KHI EMBEDDING:")
         print("=" * 60)
         first_doc = documents_with_embeddings[0]
-        print(f"📄 Tiêu đề: {first_doc['title']}")
+        print(f"Tiêu đề: {first_doc['title']}")
         embedding_preview = first_doc['embedding'][:5]  # Chỉ hiển thị 5 số đầu tiên của vector
-        print(f"📊 Vector embedding (5 chiều đầu tiên): {embedding_preview}...")
-        print(f"📏 Tổng số chiều của vector: {len(first_doc['embedding'])}")
+        print(f"Vector embedding (5 chiều đầu tiên): {embedding_preview}...")
+        print(f"Tổng số chiều của vector: {len(first_doc['embedding'])}")
         print("=" * 60)
 
 
