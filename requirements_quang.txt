@@ -1,14 +1,17 @@
 # Need to check your cuda by 'nvidia-smi' to install suitable cuda version
---extra-index-url https://download.pytorch.org/whl/cu124
-torch==2.6.0
-torchvision==0.21.0
-triton==3.0.0
-bitsandbytes==0.43.0
-unsloth
-trl
-transformers==4.57.1
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+transformers==4.56.2
 peft==0.17.1
 numpy==2.3.3
 hnswlib==0.8.0
 dotenv==0.9.9
 sentence-transformers==5.1.1
+accelerate==1.10.1
+bitsandbytes==0.48.1
+datasets==4.2.0
+pip install langchain==0.3.0
+pip install langchain-community==0.3.0
+pip install chromadb==1.2.0
