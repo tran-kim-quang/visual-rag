@@ -5,13 +5,13 @@ torchvision==0.20.1
 torchaudio==2.5.1
 transformers==4.56.2
 peft==0.17.1
-numpy==2.3.3
+numpy==1.26.4
 hnswlib==0.8.0
 dotenv==0.9.9
 sentence-transformers==5.1.1
 accelerate==1.10.1
 bitsandbytes==0.48.1
 datasets==4.2.0
-pip install langchain==0.3.0
-pip install langchain-community==0.3.0
-pip install chromadb==1.2.0
+langchain==0.3.0
+langchain-community==0.3.0
+chromadb==1.2.0

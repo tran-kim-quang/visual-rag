@@ -7,9 +7,18 @@ import os
 from embed_data import EmbeddingProcessor
 from dotenv import load_dotenv
 load_dotenv()
-DATA_FILE = os.getenv("DATA_FILE")
-INDEX_FILE = os.getenv("INDEX_FILE")
-SUMMARIZE_MODEL = os.getenv("SUMMARIZE_MODEL")
+
+# Get paths from .env or use defaults with absolute paths
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_FILE = os.getenv("DATA_FILE") or os.path.join(BASE_DIR, "data_clean/data_with_embeddings.json")
+INDEX_FILE = os.getenv("INDEX_FILE") or os.path.join(BASE_DIR, "data_clean/medical_index.hnsw")
+SUMMARIZE_MODEL = os.getenv("SUMMARIZE_MODEL", "gemma2:2b")
+
+# Convert to absolute path if relative
+if not os.path.isabs(DATA_FILE):
+    DATA_FILE = os.path.join(BASE_DIR, DATA_FILE)
+if not os.path.isabs(INDEX_FILE):
+    INDEX_FILE = os.path.join(BASE_DIR, INDEX_FILE)
 def check_index(data_path, index_path):
     """Đọc dữ liệu, xây dựng và lưu index HNSW."""
     print("Loading...")
@@ -26,8 +35,11 @@ def check_index(data_path, index_path):
     num_dimensions = embeddings.shape[1]
     num_elements = len(embeddings)
 
-    p = hnswlib.Index(space='ip', dim=num_dimensions)
-    p.init_index(max_elements=num_elements, ef_construction=200, M=16)
+    p = hnswlib.Index(space='cosine', dim=num_dimensions)
+    # Tăng ef_construction và M để tìm kiếm chính xác hơn
+    # ef_construction: cao hơn = chậm hơn nhưng chính xác hơn (200 -> 400)
+    # M: số kết nối tối đa (16 -> 32)
+    p.init_index(max_elements=num_elements, ef_construction=400, M=32)
     p.add_items(embeddings, np.arange(num_elements))
     
     p.save_index(index_path)
@@ -47,12 +59,17 @@ def search_index(query, index_path=INDEX_FILE, k=3):
     # Lấy số chiều từ vector truy vấn
     num_dimensions = len(query_vector)
 
-    p_loaded = hnswlib.Index(space='ip', dim=num_dimensions)
+    p_loaded = hnswlib.Index(space='cosine', dim=num_dimensions)
     p_loaded.load_index(index_path)
+    
+    # Tăng ef để tìm kiếm chính xác hơn (mặc định là 10, tăng lên 100)
+    # ef càng cao, tìm kiếm càng chính xác nhưng chậm hơn
+    p_loaded.set_ef(100)
 
     labels, distances = p_loaded.knn_query(query_vector, k=k)
     
-    similarities = distances[0]
+    # Convert cosine distance to cosine similarity: similarity = 1 - distance
+    similarities = 1 - distances[0]
     max_similarity = float(similarities[0]) if len(similarities) > 0 else 0.0
     
     print(f"\n--- {k} kết quả tìm kiếm hàng đầu ---")
