@@ -107,4 +107,4 @@ except Exception as e:
     print(f"Không thể xác định thiết bị của model. Lỗi: {e}")
 # Bắt đầu training
 print("Bắt đầu training...")
-trainer.train()
+trainer.train(resume_from_checkpoint=True)

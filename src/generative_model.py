@@ -51,7 +51,6 @@ vector_memory = VectorStoreRetrieverMemory(
     memory_key="conv_vectors",
     return_source_documents=True
 )
-
 # Ngưỡng similarity để quyết định có phải câu hỏi y tế không
 # Điều chỉnh dựa trên kết quả thực tế: 0.3-0.4 là câu hỏi y tế
 SIMILARITY_THRESHOLD = float(os.getenv('SIMILARITY_THRESHOLD', '0.3'))
@@ -77,6 +76,78 @@ def summarize_conver_context(question: str, docs: list, session_id: str, use_med
         top_docs = docs[:2]
         medical_parts = []
 
+<<<<<<< HEAD
+def load_model():
+    # Base model
+    base_model = AutoModelForCausalLM.from_pretrained(
+        BASE_MODEL_NAME, 
+        torch_dtype=torch.bfloat16,
+        device_map="auto",
+    )
+    # Tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(ADAPTER_PATH)
+    
+    #Adapter LoRa
+    finetuned_model = PeftModel.from_pretrained(base_model, ADAPTER_PATH)
+    return finetuned_model, tokenizer
+
+# def call_model(question: str, docs: list, session_id: str, similarity_score: float = 0.0) -> str:
+#     # Phân loại intent: chỉ 2 loại
+#     intent = classify_by_similarity(similarity_score)
+#     print(f"[Intent: {intent} | Similarity: {similarity_score:.3f}]")
+    
+#     # Quyết định có dùng tài liệu y tế không
+#     use_medical_docs = (intent == 'medical_question')
+    
+#     # Tổng hợp context
+#     context = summarize_conver_context(question, docs, session_id, use_medical_docs)
+    
+#     # Prompt dựa trên intent
+#     if intent == 'medical_question':
+#         # Hỏi về tài liệu y tế
+#         system_prompt = "Bạn là trợ lý y tế chuyên nghiệp. Hãy sử dụng ngữ cảnh được cung cấp để trả lời câu hỏi của người dùng một cách tóm tắt, chi tiết và chính xác."
+#         user_prompt = f"""Dựa vào ngữ cảnh sau đây để trả lời câu hỏi ở cuối.
+# Nếu ngữ cảnh không chứa thông tin, hãy trả lời là "Tôi không tìm thấy thông tin về vấn đề này trong tài liệu."
+
+# --- NGỮ CẢNH ---
+# {context}
+# --- HẾT NGỮ CẢNH ---
+
+# CÂU HỎI: {question}"""
+    
+#     else:  # chitchat
+#         # Nói chuyện bình thường
+#         system_prompt = "Bạn là trợ lý y tế thân thiện. Hãy trả lời một cách lịch sự và tự nhiên."
+#         if context:
+#             user_prompt = f"""Lịch sử hội thoại:
+# {context}
+
+# Câu nói của người dùng: {question}"""
+#         else:
+#             user_prompt = question
+
+    # # Gọi Ollama qua OpenAI API
+    # response = client.chat.completions.create(
+    #     model=BASE_MODEL_NAME,
+    #     messages=[
+    #         {"role": "system", "content": system_prompt},
+    #         {"role": "user", "content": user_prompt}
+    #     ],
+    #     # temperature=0.7,
+    #     # max_tokens=512,
+    #     stream=True
+    # )
+    
+    # # Stream response và lưu lại câu trả lời
+    # print("\nTrả lời:")
+    # full_response = ""
+    # for chunk in response:
+    #     if chunk.choices[0].delta.content:
+    #         content = chunk.choices[0].delta.content
+    #         print(content, end="", flush=True)
+    #         full_response += content
+    # print("\n")
+=======
         for i, d in enumerate(top_docs):
             # Kiểm tra document có đầy đủ thông tin không
             if not d.get("content") or len(d.get("content", "").strip()) < 10:
@@ -271,11 +342,12 @@ def call_model(question: str, docs: list, session_id: str, similarity_score: flo
     except Exception as e:
         print(f"\n[Lỗi khi gọi Ollama]: {e}")
         full_response = "Xin lỗi, tôi không thể xử lý câu hỏi của bạn lúc này."
+>>>>>>> 535b437da36e8725489d09a08a40c8575e1cb6d4
     
     # Lưu lịch sử cuộc trò chuyện vào vector memory
-    save_conversation(question, full_response, session_id)
+    # save_conversation(question, full_response, session_id)
     
-    return full_response
+    # return full_response
 
 def save_conversation(question: str, answer: str, session_id: str) -> None:
     from langchain.schema import Document
@@ -334,45 +406,96 @@ def print_conversation_history(session_id: str, limit: int = 10) -> None:
         print(f"   {conv['content'][:200]}{'...' if len(conv['content']) > 200 else ''}")
         print()
 
-# def call_model(question: str,
-#                 docs: list,
-#                 session_id: str,
-#                 finetuned_model, tokenizer) -> None:
-#     # finetuned_model, tokenizer = load_model()
-#     context = summarize_conver_context(question, docs, session_id)
-#     system_prompt = "Bạn là trợ lý y tế chuyên nghiệp. Hãy sử dụng ngữ cảnh được cung cấp để trả lời câu hỏi của người dùng một cách chi tiết và chính xác."
-#     prompt = f"""[INST] <<SYS>>
-#         {system_prompt}
-#         <</SYS>>
-#         Dựa vào ngữ cảnh sau đây để trả lời câu hỏi ở cuối.
-#         Nếu ngữ cảnh không chứa thông tin, hãy trả lời là "Tôi không tìm thấy thông tin về vấn đề này trong tài liệu."
-#         --- NGỮ CẢNH ---
-#         {context}
-#         --- HẾT NGỮ CẢNH ---
-#         CÂU HỎI: {question} [/INST]"""
-#     inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
-#
-#     streamer = TextStreamer(
-#         tokenizer,
-#         skip_prompt=True,        
-#         skip_special_tokens=True 
-#     )
-#     outputs = finetuned_model.generate(
-#         **inputs,
-#         max_new_tokens=512,
-#         eos_token_id=tokenizer.eos_token_id,
-#         do_sample=True, 
-#         temperature=0.7,
-#         top_p=0.9,
-#         streamer=streamer
-#     )
+def call_model(question: str,
+               docs: list,
+               session_id: str,
+               similarity_score: float,  # Sửa: Thêm similarity_score vào đây
+               finetuned_model, 
+               tokenizer) -> None:
+    
+    intent = classify_by_similarity(similarity_score) # Giờ đã hợp lệ
+    print(f"[Intent: {intent} | Similarity: {similarity_score:.3f}]")
+    use_medical_docs = (intent == 'medical_question')
+
+    # Lấy context cho prompt
+    context = summarize_conver_context(question, docs, session_id, use_medical_docs)
+    
+    if intent == 'medical_question':
+        system_prompt = "Bạn là trợ lý y tế chuyên nghiệp..." # (giữ nguyên)
+        user_prompt = f"""Dựa vào ngữ cảnh sau đây để trả lời câu hỏi ở cuối.
+Nếu ngữ cảnh không chứa thông tin, hãy trả lời là "Tôi không tìm thấy thông tin về vấn đề này trong tài liệu."
+
+--- NGỮ CẢNH ---
+{context}
+--- HẾT NGỮ CẢNH ---
+
+CÂU HỎI: {question}"""
+    
+    else: # chitchat
+        system_prompt = "Bạn là trợ lý y tế thân thiện..." # (giữ nguyên)
+        if context:
+            user_prompt = f"""Lịch sử hội thoại:
+{context}
+
+Câu nói của người dùng: {question}"""
+        else:
+            user_prompt = question
+            
+    # NOTE: Hiện tại bạn chưa dùng system_prompt, có thể tích hợp sau nếu muốn
+    inputs = tokenizer(user_prompt, return_tensors="pt").to("cuda")
+
+    streamer = TextStreamer(
+        tokenizer,
+        skip_prompt=True,
+        skip_special_tokens=True 
+    )
+    
+    print("\nTrả lời:")
+    # Sửa: `generate` sẽ stream trực tiếp ra console
+    # `outputs` là một tensor chứa token IDs
+    outputs = finetuned_model.generate(
+        **inputs,
+        max_new_tokens=512,
+        eos_token_id=tokenizer.eos_token_id,
+        do_sample=True, 
+        temperature=0.7,
+        top_p=0.9,
+        streamer=streamer
+    )
+    
+    # Sửa: Cách đúng để lấy lại chuỗi text từ output tensor
+    # outputs[0] vì batch size là 1
+    # inputs.input_ids.shape[1] để bỏ qua phần prompt đã nhập
+    output_text = tokenizer.decode(outputs[0][inputs.input_ids.shape[1]:], skip_special_tokens=True)
+    
+    # In lại toàn bộ câu trả lời (streamer đã in rồi, dòng này có thể bỏ nếu muốn)
+    # print(f"\n--- Full Response Captured ---\n{output_text}\n------------------------------")
+    
+    # Lưu lịch sử cuộc trò chuyện vào vector memory
+    save_conversation(question, output_text, session_id)
 
 if __name__ == "__main__":
-    session_id = "meoconlonton"
-    question = str(input("Ask me anything: "))
+    # Sửa: Tải model và tokenizer ngay từ đầu
+    print("Đang tải model và tokenizer...")
+    finetuned_model, tokenizer = load_model()
+    print("Model đã sẵn sàng!")
     
-    # Luôn retrieval để lấy similarity score
-    docs, similarity_score = search_index(question)
+    session_id = "meoconlonton" # Hoặc tạo session ID ngẫu nhiên
     
-    # Gọi model với similarity score
-    call_model(question, docs, session_id, similarity_score)
+    while True:
+        question = str(input("\nAsk me anything (gõ 'exit' để thoát): "))
+        if question.lower() == 'exit':
+            break
+            
+        # Luôn retrieval để lấy similarity score
+        docs, similarity_score = search_index(question)
+        
+        # Sửa: Truyền đúng các tham số vào hàm call_model
+        call_model(
+            question=question, 
+            docs=docs, 
+            session_id=session_id, 
+            similarity_score=similarity_score,
+            finetuned_model=finetuned_model,
+            tokenizer=tokenizer
+        )
