@@ -3,8 +3,8 @@ import numpy as np
 import hnswlib
 # from openai import OpenAI
 import os
-# from src.embed_data import EmbeddingProcessor
-from embed_data import EmbeddingProcessor
+from src.embed_data import EmbeddingProcessor
+# from embed_data import EmbeddingProcessor
 from dotenv import load_dotenv
 load_dotenv()
 
