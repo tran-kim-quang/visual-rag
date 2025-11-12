@@ -1,0 +1,28 @@
+# Python Virtual Environments
+.venv/
+venv/
+finetune_venv/
+
+# Python cache
+__pycache__/
+*.pyc
+unsloth_compiled_cache/
+
+# IDE configuration
+.idea/
+
+# Local environment variables
+# Do not commit sensitive keys
+.env
+
+# Data, Databases, and Models
+# Add any folder containing data, embeddings, or vector stores
+chroma_conversations/
+data_clean/
+data_msd/
+medical_chatbot/
+src/finetune/
+medical_data_with_embeddings.json
+
+# Caches and Results
+results/

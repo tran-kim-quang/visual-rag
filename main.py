@@ -1,16 +1,28 @@
 # main.py
 import sys
-# Bỏ 'client' vì không cần cho rewriter nữa
+from dotenv import load_dotenv
+import os 
+
 from src.generative_model import call_model, conversation_memory
 from src.config import initialize_once, search_index
+from src.query_rewriter import rewrite_query
+from src.data_processor import MedicalDataProcessor
 
-# XÓA: import from src.query_rewriter
+load_dotenv()
 
-# Khởi tạo 1 lần duy nhất
-initialize_once()
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY") 
 
-print("Hệ thống Chatbot (Ollama API) đã sẵn sàng!")
+if not OPENROUTER_API_KEY:
+    print("\n[LỖI CẤU HÌNH]: Biến OPENROUTER_API_KEY chưa được đặt trong file .env!")
+    sys.exit(1)
+
+initialize_once(api_key=OPENROUTER_API_KEY)
+processor = MedicalDataProcessor()
+
+print("Hệ thống Chatbot (OpenRouter API) đã sẵn sàng!")
+
 session_id = "user_session_main"
+MAX_HISTORY = 10
 
 while True:
     try:
@@ -21,36 +33,52 @@ while True:
         if not question.strip():
             print("Hãy hỏi tôi gì đó!")
             continue
+        
+        # Preprocess
+        question = processor.preprocess_query(question)
+        if not question:
+            print("Câu hỏi không hợp lệ!")
+            continue
 
-        # === SỬA LOGIC QUERY ===
-        # Lấy 4 tin nhắn cuối làm ngữ cảnh
-        chat_history = conversation_memory.chat_memory.messages[-4:]
+        chat_history = conversation_memory.chat_memory.messages
+        
+        # Trim history
+        if len(chat_history) > MAX_HISTORY:
+            conversation_memory.chat_memory.messages = chat_history[-MAX_HISTORY:]
+            chat_history = conversation_memory.chat_memory.messages
+        
+        recent_history = chat_history[-4:]
 
-        # Tạo query có ngữ cảnh (Contextual Query) cho RAG
-        contextual_query = question
-        if chat_history:
-            # Ghép lịch sử và câu hỏi mới lại
-            history_str = "\n".join([
-                f"{'User' if msg.type == 'human' else 'Bot'}: {msg.content[:100]}..."
-                for msg in chat_history
-            ])
-            contextual_query = f"Lịch sử:\n{history_str}\n\nCâu hỏi mới: {question}"
-            print(f"[Debug] Đang dùng query có ngữ cảnh để tìm kiếm...")
+        # REWRITE QUERY
+        if recent_history:
+            rewritten_query = rewrite_query(question, recent_history)
+            print(f"[Query Rewrite] Original: {question}")
+            print(f"[Query Rewrite] Rewritten: {rewritten_query}")
+            if not rewritten_query or len(rewritten_query) < 3:
+                rewritten_query = question
         else:
-            print(f"[Debug] Lịch sử rỗng, dùng câu hỏi gốc để tìm kiếm.")
+            rewritten_query = question
+            print(f"[Debug] Lịch sử rỗng, dùng câu hỏi gốc")
 
-        # 1. Dùng query có ngữ cảnh để tìm kiếm vector
-        docs, similarity_score = search_index(contextual_query)
+        # Search
+        docs, similarity_score = search_index(rewritten_query, k=15)
+        
+        if not docs:
+            print(f"[Fallback] Không tìm được docs, thử query gốc...")
+            docs, similarity_score = search_index(question, k=15)
+        elif similarity_score < 0.3:
+            print(f"[Fallback] Rerank score thấp ({similarity_score:.2f}), thử query gốc...")
+            docs_fallback, sim_fallback = search_index(question, k=15)
+            if sim_fallback > similarity_score:
+                docs = docs_fallback
+                similarity_score = sim_fallback
 
-        # 2. Gọi model với câu hỏi GỐC (để model tự xử lý ngữ cảnh)
-        #    (Hàm call_model bây giờ chỉ nhận 1 'question')
         call_model(
-            question=question,  # Chỉ dùng câu hỏi gốc
+            question=question,
             docs=docs,
             session_id=session_id,
             similarity_score=similarity_score
         )
-        # ======================
 
     except KeyboardInterrupt:
         print("\nĐang thoát...")
@@ -58,5 +86,4 @@ while True:
     except Exception as e:
         print(f"\n[LỖI]: {e}")
         import traceback
-
         traceback.print_exc()

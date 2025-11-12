@@ -1,100 +1,157 @@
-# api.py
+from dotenv import load_dotenv
+load_dotenv()
 import uvicorn
+import asyncio
+import json
 from fastapi import FastAPI
 from pydantic import BaseModel
-from fastapi.middleware.cors import CORSMiddleware  # Thêm dòng này
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import StreamingResponse
 
-# Import các hàm cốt lõi từ project của bạn
-from src.generative_model import call_model, conversation_memory
+from src.conversation_manager import ConversationManager
+from src.generative_model import call_model
 from src.config import initialize_once, search_index
+from src.query_rewriter import rewrite_query
+from src.data_processor import MedicalDataProcessor
 
-# Khởi tạo 1 lần duy nhất khi API khởi động
 initialize_once()
+processor = MedicalDataProcessor()
 
-# Khởi tạo app FastAPI
 app = FastAPI(
     title="RAG Chatbot API",
     description="API cho chatbot y tế sử dụng RAG"
 )
 
-# === CẤU HÌNH CORS ===
-# Thêm dòng này để cho phép website (localhost:3000) của bạn gọi API này
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # Sửa lại cổng nếu website của bạn chạy ở cổng khác
+    allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["*"],  # Cho phép tất cả các phương thức (GET, POST...)
-    allow_headers=["*"],  # Cho phép tất cả các header
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
+manager = ConversationManager(max_history=10) 
+semaphore = asyncio.Semaphore(10)
 
-# === ĐỊNH NGHĨA INPUT/OUTPUT ===
 
 class ChatRequest(BaseModel):
-    """Mô hình dữ liệu cho request gửi đến"""
     question: str
-    session_id: str = "default_api_session"  # Quản lý session nếu cần
+    session_id: str = "default_api_session"
 
-
-class ChatResponse(BaseModel):
-    """Mô hình dữ liệu cho response trả về"""
-    answer: str
-    session_id: str
-
-
-# === TẠO ENDPOINT (API) ===
 
 @app.get("/")
 def read_root():
     return {"message": "Chào mừng đến với RAG Chatbot API!"}
 
 
-@app.post("/chat", response_model=ChatResponse)
+@app.post("/chat")
 async def handle_chat(request: ChatRequest):
-    """
-    Endpoint chính để xử lý chat
-    """
-    print(f"[API Request] Nhận câu hỏi: {request.question} | Session: {request.session_id}")
+    async with semaphore:
+        print(f"\n[API Request] Nhận câu hỏi: {request.question} | Session: {request.session_id}")
 
-    # === Logic RAG (giống hệt main.py) ===
+        question = request.question
+        session_id = request.session_id
+        
+        if not question or not question.strip():
+            async def error_stream():
+                yield f"data: {json.dumps({'content': 'Vui lòng nhập câu hỏi.'})}\n\n"
+                yield "data: [DONE]\n\n"
+            return StreamingResponse(error_stream(), media_type="text/event-stream")
+        
+        question = processor.preprocess_query(question)
+        if not question:
+            async def error_stream():
+                yield f"data: {json.dumps({'content': 'Câu hỏi không hợp lệ.'})}\n\n"
+                yield "data: [DONE]\n\n"
+            return StreamingResponse(error_stream(), media_type="text/event-stream")
 
-    question = request.question
-    session_id = request.session_id
+        chat_history_dicts = manager.get_history(session_id)
+        print(f"[Memory] Lấy lịch sử cho session: {session_id} (có {len(chat_history_dicts)} tin nhắn)")
+        
+        recent_history_dicts = chat_history_dicts[-4:] if chat_history_dicts else []
 
-    # 1. Tạo query có ngữ cảnh
-    chat_history = conversation_memory.chat_memory.messages[-4:]
-    contextual_query = question
+        if len(recent_history_dicts) > 0:
+            rewritten_query = rewrite_query(question, recent_history_dicts)
+            print(f"[Query Rewrite] Original: {question}")
+            print(f"[Query Rewrite] Rewritten: {rewritten_query}")
+            
+            if not rewritten_query or len(rewritten_query) < 3:
+                rewritten_query = question
+        else:
+            rewritten_query = question
+            print(f"[Debug] Lịch sử rỗng, dùng câu hỏi gốc")
 
-    if chat_history:
-        history_str = "\n".join([
-            f"{'User' if msg.type == 'human' else 'Bot'}: {msg.content[:100]}..."
-            for msg in chat_history
-        ])
-        contextual_query = f"Lịch sử:\n{history_str}\n\nCâu hỏi mới: {question}"
-        print(f"[Debug] Đang dùng query có ngữ cảnh để tìm kiếm...")
-    else:
-        print(f"[Debug] Lịch sử rỗng, dùng câu hỏi gốc để tìm kiếm.")
+        docs, similarity_score = search_index(rewritten_query, k=15)
+        
+        if not docs:
+            print(f"[Fallback] Không tìm được docs, thử query gốc...")
+            docs, similarity_score = search_index(question, k=15)
+        elif similarity_score < 0.3:
+            print(f"[Fallback] Rerank score thấp ({similarity_score:.2f}), thử query gốc...")
+            docs_fallback, sim_fallback = search_index(question, k=15)
+            if sim_fallback > similarity_score:
+                docs = docs_fallback
+                similarity_score = sim_fallback
+                print(f"[Fallback] Dùng kết quả fallback (score: {sim_fallback:.2f})")
+        
+        print(f"[Debug] Tìm thấy {len(docs)} tài liệu với độ tương đồng: {similarity_score:.2f}")
 
-    # 2. Tìm kiếm (RAG)
-    docs, similarity_score = search_index(contextual_query)
+        if not docs:
+            async def no_docs_stream():
+                yield f"data: {json.dumps({'content': 'Xin lỗi, tôi không tìm thấy thông tin liên quan trong cơ sở dữ liệu.'})}\n\n"
+                yield "data: [DONE]\n\n"
+            return StreamingResponse(no_docs_stream(), media_type="text/event-stream")
+        
+        async def response_stream():
+            full_answer = ""
+            try:
+                for chunk in call_model(question, docs, session_id, similarity_score):
+                    full_answer += chunk
+                    # Trả về JSON format cho SSE
+                    yield f"data: {json.dumps({'content': chunk})}\n\n"
+                
+                manager.add_to_history(session_id, question, full_answer)
+                print(f"[Memory] Đã lưu Q&A vào lịch sử của session {session_id}")
+                
+                # Signal kết thúc stream
+                yield "data: [DONE]\n\n"
+            except Exception as e:
+                print(f"[Error] Lỗi khi streaming: {str(e)}")
+                yield f"data: {json.dumps({'error': 'Đã xảy ra lỗi khi xử lý câu trả lời.'})}\n\n"
+                yield "data: [DONE]\n\n"
+        
+        return StreamingResponse(response_stream(), media_type="text/event-stream")
 
-    # 3. Gọi model
-    # (Đảm bảo hàm call_model của bạn trả về 'full_response')
-    answer = call_model(
-        question=question,
-        docs=docs,
-        session_id=session_id,
-        similarity_score=similarity_score
-    )
 
-    print(f"[API Response] Trả lời: {answer[:50]}...")
-
-    # 4. Trả về kết quả
-    return ChatResponse(answer=answer, session_id=session_id)
+@app.get("/sessions")
+def list_sessions():
+    return {
+        "total_sessions": len(manager.history),
+        "session_ids": list(manager.history.keys())
+    }
 
 
-# === CHẠY API ===
+@app.get("/session/{session_id}")
+def get_session_history(session_id: str):
+    if not manager.has_history(session_id):
+        return {"message": f"Session {session_id} không tồn tại hoặc rỗng."}
+    
+    history = manager.get_history(session_id)
+    return {
+        "session_id": session_id,
+        "total_messages": len(history),
+        "history": history
+    }
+
+
+@app.delete("/session/{session_id}")
+def clear_session_endpoint(session_id: str):
+    if manager.has_history(session_id):
+        manager.clear_session(session_id)
+        return {"message": f"Đã xóa session {session_id}"}
+    return {"message": f"Session {session_id} không tồn tại"}
+
+
 if __name__ == "__main__":
-    # Chạy API server trên cổng 8000
     print("Khởi động API server tại http://127.0.0.1:8000")
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
