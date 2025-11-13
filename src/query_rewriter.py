@@ -13,7 +13,7 @@ class QueryRewriter:
             base_url="https://openrouter.ai/api/v1",
             api_key=os.getenv("OPENROUTER_API_KEY"),
         )
-        self.model_name = os.getenv("SUMMARIZE_MODEL") or "google/gemini-flash-1.5"
+        self.model_name = os.getenv("SUMMARIZE_MODEL") or "kwaipilot/kat-coder-pro:free"
         
         if not os.getenv("SUMMARIZE_MODEL"):
             print(f"[WARNING] SUMMARIZE_MODEL không tồn tại, dùng mặc định: {self.model_name}")

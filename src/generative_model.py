@@ -20,7 +20,7 @@ def check_hallucination(question: str) -> bool:
 client = None
 conversation_memory = None
 cross_encoder_reranker = None
-BASE_MODEL_NAME = os.getenv("BASE_MODEL_NAME", "meta-llama/llama-3.1-8b-instruct:free")
+BASE_MODEL_NAME = os.getenv("BASE_MODEL_NAME", "kwaipilot/kat-coder-pro:free")
 
 
 def initialize_openai_client():
